@@ -6,13 +6,13 @@ This repository is updated once a day.
 ## How to use
 
 Most likely, you won't need to clone the repository. To download the announced routes for a specific autonomous system (AS1234 IPv4 adresses in this example), try:  
-```$ curl https://github.com/ipverse/as/blob/master/as/1234/ipv4-aggregated.txt```
+```$ curl https://raw.githubusercontent.com/ipverse/announced-routes/master/as/1234/ipv4-aggregated.txt```
 
 The same for all IPv6 routes for AS1234:  
-```$ curl https://github.com/ipverse/as/blob/master/as/1234/ipv6-aggregated.txt```
+```$ curl https://raw.githubusercontent.com/ipverse/announced-routes/master/as/1234/ipv6-aggregated.txt```
 
 To download the latest lookup table used to enhance the generated route data:  
-```$ curl https://raw.githubusercontent.com/ipverse/as/master/as.csv```
+```$ curl https://raw.githubusercontent.com/ipverse/announced-routes/master/as.csv```
 
 If you plan to use the routing data for firewalling purposes, have a look at:
 
