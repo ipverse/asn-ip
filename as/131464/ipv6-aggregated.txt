@@ -1,4 +1,5 @@
 # AS131464 (DJBL-AP)
 # Digi Jadoo Broadband Ltd
 #
-2405:f280::/32
+2405:f280:1::/48
+2405:f280:e000::/35
