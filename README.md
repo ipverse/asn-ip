@@ -1,6 +1,6 @@
-# ipverse-announced-routes
+# ipverse-asn-ip
 
-A collection of IPv4 and IPv6 prefixes (e.g. 100.2.30.0/22) grouped by the announcing autonomous systems. The prefixes are aggregated to save space.  
+IPv4 and IPv6 prefixes/subnets (e.g. 100.2.30.0/22) grouped by the announcing autonomous systems. The prefixes are aggregated to save space.  
 This repository is updated daily.
 
 ## Use cases
@@ -12,13 +12,13 @@ This repository is updated daily.
 ## How to use
 
 To download the announced prefixes for a specific autonomous system (AS1234 IPv4 adresses in this example), try:  
-```$ curl https://raw.githubusercontent.com/ipverse/announced-routes/master/as/1234/ipv4-aggregated.txt```
+```$ curl https://raw.githubusercontent.com/ipverse/asn-ip/master/as/1234/ipv4-aggregated.txt```
 
 The same for all IPv6 prefixes for AS1234:  
-```$ curl https://raw.githubusercontent.com/ipverse/announced-routes/master/as/1234/ipv6-aggregated.txt```
+```$ curl https://raw.githubusercontent.com/ipverse/asn-ip/master/as/1234/ipv6-aggregated.txt```
 
 To download the latest lookup table used to enhance the generated route data:  
-```$ curl https://raw.githubusercontent.com/ipverse/announced-routes/master/as.csv```
+```$ curl https://raw.githubusercontent.com/ipverse/asn-ip/master/as.csv```
 
 If you plan to use the routing data for firewalling purposes, have a look at:
 
