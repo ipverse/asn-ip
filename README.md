@@ -18,6 +18,29 @@ To download the announced subnets for a specific autonomous system (AS1234 IPv4 
 The same for all IPv6 subnets from AS1234:  
 ```$ curl https://raw.githubusercontent.com/ipverse/asn-ip/master/as/1234/ipv6-aggregated.txt```
 
+The data (IPv4 + IPv4 combined) is available in JSON format as well:  
+```$ curl https://raw.githubusercontent.com/ipverse/asn-ip/master/as/1234/aggregated.json```
+
+The resulting JSON will look similar to this:
+```
+{
+  "asn": 1234,
+  "handle": "FORTUM",
+  "description": "Fortum",
+  "announced-at": "2021-11-20",
+  "subnets": {
+    "ipv4": [
+      "132.171.0.0/16",
+      "137.96.0.0/16",
+      "193.110.32.0/21"
+    ],
+    "ipv6": [
+      "2405:1800::/32"
+    ]
+  }
+}
+```
+
 To download the latest lookup table used to enhance the generated route data:  
 ```$ curl https://raw.githubusercontent.com/ipverse/asn-ip/master/as.csv```
 
