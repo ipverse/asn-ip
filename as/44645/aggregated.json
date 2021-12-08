@@ -1,0 +1,13 @@
+{
+  "asn": 44645,
+  "handle": "PKN",
+  "description": "PKN Datenkommunikations GmbH",
+  "subnets": {
+    "ipv4": [
+      "185.6.144.0/24",
+      "185.150.32.0/24",
+      "185.150.34.0/24"
+    ],
+    "ipv6": []
+  }
+}

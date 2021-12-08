@@ -1,0 +1,13 @@
+{
+  "asn": 12878,
+  "handle": "CONNECT-MANAGED-CLOUD",
+  "description": "COLT Technology Services Group Limited",
+  "subnets": {
+    "ipv4": [
+      "192.81.234.0/24",
+      "193.8.68.0/23",
+      "193.176.112.0/22"
+    ],
+    "ipv6": []
+  }
+}

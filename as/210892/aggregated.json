@@ -1,0 +1,12 @@
+{
+  "asn": 210892,
+  "handle": "LIGHTSPEED",
+  "description": "Lightspeed Networks Ltd",
+  "subnets": {
+    "ipv4": [
+      "5.1.45.0/24",
+      "147.136.94.0/23"
+    ],
+    "ipv6": []
+  }
+}

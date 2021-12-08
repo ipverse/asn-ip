@@ -1,0 +1,13 @@
+{
+  "asn": 45986,
+  "handle": "KISANET-KR",
+  "description": "Korea Internet Security Agency",
+  "subnets": {
+    "ipv4": [
+      "211.190.192.0/19",
+      "211.233.96.0/19",
+      "211.235.0.0/19"
+    ],
+    "ipv6": []
+  }
+}

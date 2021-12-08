@@ -1,0 +1,12 @@
+{
+  "asn": 57317,
+  "handle": "SERVERMEILE",
+  "description": "Servermeile GmbH",
+  "subnets": {
+    "ipv4": [
+      "185.105.112.0/22",
+      "185.134.242.0/24"
+    ],
+    "ipv6": []
+  }
+}

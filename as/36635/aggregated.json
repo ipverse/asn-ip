@@ -1,0 +1,13 @@
+{
+  "asn": 36635,
+  "handle": "PECHANGA",
+  "description": "PECHANGA ENTERTAINMENT CENTER",
+  "subnets": {
+    "ipv4": [
+      "206.190.66.0/24",
+      "207.114.223.0/24",
+      "209.203.120.0/24"
+    ],
+    "ipv6": []
+  }
+}

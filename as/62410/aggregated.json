@@ -1,0 +1,13 @@
+{
+  "asn": 62410,
+  "handle": "LINENET",
+  "description": "Linenet Ltd.",
+  "subnets": {
+    "ipv4": [
+      "178.159.40.0/23"
+    ],
+    "ipv6": [
+      "2a0e:d604::/48"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 269501,
+  "handle": "ONETECH-SERVICOS-DE",
+  "description": "ONETECH SERVICOS DE COMUNICACAO E MULTIMIDIA LTDA",
+  "subnets": {
+    "ipv4": [
+      "45.188.16.0/22"
+    ],
+    "ipv6": [
+      "2804:6594::/32"
+    ]
+  }
+}

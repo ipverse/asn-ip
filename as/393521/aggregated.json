@@ -1,0 +1,13 @@
+{
+  "asn": 393521,
+  "handle": "SCOTT-DATA-CENTER",
+  "description": "Scott Technology Center",
+  "subnets": {
+    "ipv4": [
+      "184.185.6.0/24",
+      "209.34.205.0/24",
+      "209.34.206.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 327707,
+  "handle": "AIRTEL-RW",
+  "description": "Airtel Rwanda Ltd",
+  "subnets": {
+    "ipv4": [
+      "102.223.211.0/24",
+      "197.157.128.0/18"
+    ],
+    "ipv6": []
+  }
+}

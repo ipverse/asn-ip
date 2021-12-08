@@ -1,0 +1,11 @@
+{
+  "asn": 271561,
+  "handle": "TECH-FIBERS",
+  "description": "TECH FIBERS",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2804:7d70::/32"
+    ]
+  }
+}

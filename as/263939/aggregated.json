@@ -1,0 +1,13 @@
+{
+  "asn": 263939,
+  "handle": "LOGINNET-PROVEDORES-LTDA-ME",
+  "description": "Loginnet Provedores Ltda ME",
+  "subnets": {
+    "ipv4": [
+      "138.219.44.0/22"
+    ],
+    "ipv6": [
+      "2804:2814::/32"
+    ]
+  }
+}

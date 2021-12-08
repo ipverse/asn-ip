@@ -1,0 +1,11 @@
+{
+  "asn": 207192,
+  "handle": "TELCOMDATA",
+  "description": "Telcomdata LLC",
+  "subnets": {
+    "ipv4": [
+      "185.161.48.0/22"
+    ],
+    "ipv6": []
+  }
+}

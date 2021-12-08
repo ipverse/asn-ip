@@ -1,0 +1,12 @@
+{
+  "asn": 58889,
+  "handle": "ZOL-BD",
+  "description": "Zx Online Ltd",
+  "subnets": {
+    "ipv4": [
+      "45.64.138.0/24",
+      "103.19.254.0/23"
+    ],
+    "ipv6": []
+  }
+}

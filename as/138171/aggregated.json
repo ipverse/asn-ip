@@ -1,0 +1,11 @@
+{
+  "asn": 138171,
+  "handle": "EVILLAGE-AP",
+  "description": "E-Village",
+  "subnets": {
+    "ipv4": [
+      "103.121.220.0/22"
+    ],
+    "ipv6": []
+  }
+}

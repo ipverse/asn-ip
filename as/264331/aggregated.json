@@ -1,0 +1,13 @@
+{
+  "asn": 264331,
+  "handle": "FURSINE-LTDA",
+  "description": "FURSINE LTDA",
+  "subnets": {
+    "ipv4": [
+      "138.122.104.0/22"
+    ],
+    "ipv6": [
+      "2804:2630::/32"
+    ]
+  }
+}

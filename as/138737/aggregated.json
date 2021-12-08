@@ -1,0 +1,13 @@
+{
+  "asn": 138737,
+  "handle": "AITCPL-IN",
+  "description": "Antarjal It Communication Pvt. Ltd.",
+  "subnets": {
+    "ipv4": [
+      "103.139.170.0/23",
+      "103.157.162.0/23",
+      "103.162.75.0/24"
+    ],
+    "ipv6": []
+  }
+}

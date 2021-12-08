@@ -1,0 +1,12 @@
+{
+  "asn": 55265,
+  "handle": "VITAS-HOSPICE-SMY-SCOTTS",
+  "description": "Vitas Healthcare Corporation",
+  "subnets": {
+    "ipv4": [
+      "12.236.238.0/23",
+      "198.151.255.0/24"
+    ],
+    "ipv6": []
+  }
+}

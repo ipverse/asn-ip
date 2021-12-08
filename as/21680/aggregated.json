@@ -1,0 +1,13 @@
+{
+  "asn": 21680,
+  "handle": "GWLNET",
+  "description": "Great-West Life Assurance Company",
+  "subnets": {
+    "ipv4": [
+      "143.199.0.0/16"
+    ],
+    "ipv6": [
+      "2620:6e:8000::/48"
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "asn": 50796,
+  "handle": "CLEVERNETWORK",
+  "description": "KEYYO CleverNetwork SAS",
+  "subnets": {
+    "ipv4": [
+      "37.32.56.0/21",
+      "178.22.0.0/21",
+      "185.3.196.0/22",
+      "192.166.204.0/22",
+      "194.180.116.0/22"
+    ],
+    "ipv6": []
+  }
+}

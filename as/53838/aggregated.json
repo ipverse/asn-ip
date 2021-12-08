@@ -1,0 +1,12 @@
+{
+  "asn": 53838,
+  "handle": "BEACHBODYUS1",
+  "description": "Beachbody, LLC",
+  "subnets": {
+    "ipv4": [
+      "199.187.236.0/23",
+      "199.187.239.0/24"
+    ],
+    "ipv6": []
+  }
+}

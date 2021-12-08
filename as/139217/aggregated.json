@@ -1,0 +1,12 @@
+{
+  "asn": 139217,
+  "handle": "ROYALCAPITALLTD-AP",
+  "description": "Royal Capital Ltd",
+  "subnets": {
+    "ipv4": [
+      "103.139.236.0/24",
+      "103.144.236.0/24"
+    ],
+    "ipv6": []
+  }
+}

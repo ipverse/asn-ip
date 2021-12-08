@@ -1,0 +1,13 @@
+{
+  "asn": 269347,
+  "handle": "RE-DUTRA-PROVEDOR-DE-INTERNET",
+  "description": "R.E. DUTRA PROVEDOR DE INTERNET",
+  "subnets": {
+    "ipv4": [
+      "45.184.188.0/22"
+    ],
+    "ipv6": [
+      "2804:6338::/32"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 393444,
+  "handle": "OPEN-FIBER-KY",
+  "description": "Openfiber Kentucky Company, LLC",
+  "subnets": {
+    "ipv4": [
+      "72.46.112.0/20"
+    ],
+    "ipv6": [
+      "2605:e8c0::/32"
+    ]
+  }
+}

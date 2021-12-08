@@ -1,0 +1,13 @@
+{
+  "asn": 264042,
+  "handle": "VIRTUAL-TELECOM-LTDA-ME",
+  "description": "VIRTUAL TELECOM LTDA - ME",
+  "subnets": {
+    "ipv4": [
+      "143.137.152.0/22"
+    ],
+    "ipv6": [
+      "2804:29e4::/32"
+    ]
+  }
+}

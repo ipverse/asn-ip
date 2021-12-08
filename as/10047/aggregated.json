@@ -1,0 +1,11 @@
+{
+  "asn": 10047,
+  "handle": "NSUCLOUD-KR-KR",
+  "description": "ISOLUTION",
+  "subnets": {
+    "ipv4": [
+      "125.138.176.0/21"
+    ],
+    "ipv6": []
+  }
+}

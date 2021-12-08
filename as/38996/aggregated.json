@@ -1,0 +1,11 @@
+{
+  "asn": 38996,
+  "handle": "MTSNET-SYKTYVKAR",
+  "description": "MTS PJSC",
+  "subnets": {
+    "ipv4": [
+      "213.87.56.0/21"
+    ],
+    "ipv6": []
+  }
+}

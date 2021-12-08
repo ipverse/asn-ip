@@ -1,0 +1,14 @@
+{
+  "asn": 6363,
+  "handle": "ENTERASYS-NETWORKS",
+  "description": "Enterasys Networks",
+  "subnets": {
+    "ipv4": [
+      "134.141.0.0/22",
+      "134.141.4.0/24",
+      "134.141.9.0/24",
+      "134.141.116.0/23"
+    ],
+    "ipv6": []
+  }
+}

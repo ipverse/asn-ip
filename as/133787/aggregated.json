@@ -1,0 +1,14 @@
+{
+  "asn": 133787,
+  "handle": "PRIMARY-HEALTHCARE-AP",
+  "description": "Primary Health Care",
+  "subnets": {
+    "ipv4": [
+      "203.0.228.0/23",
+      "203.0.230.0/24",
+      "203.1.218.0/24",
+      "203.1.221.0/24"
+    ],
+    "ipv6": []
+  }
+}

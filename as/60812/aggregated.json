@@ -1,0 +1,11 @@
+{
+  "asn": 60812,
+  "handle": "FINPROMBANK",
+  "description": "JSCB FINPROMBANK (OJSC)",
+  "subnets": {
+    "ipv4": [
+      "62.76.29.0/24"
+    ],
+    "ipv6": []
+  }
+}

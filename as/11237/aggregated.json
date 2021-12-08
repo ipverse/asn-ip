@@ -1,0 +1,14 @@
+{
+  "asn": 11237,
+  "handle": "UNIVERSIDAD-EAFIT",
+  "description": "UNIVERSIDAD EAFIT",
+  "subnets": {
+    "ipv4": [
+      "200.12.176.0/21",
+      "200.12.184.0/24",
+      "200.12.187.0/24",
+      "200.12.188.0/23"
+    ],
+    "ipv6": []
+  }
+}

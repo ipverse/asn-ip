@@ -1,0 +1,13 @@
+{
+  "asn": 271107,
+  "handle": "INSTITUTO-FEDERAL-DO",
+  "description": "Instituto Federal do Tocantins - Campus Araguaina",
+  "subnets": {
+    "ipv4": [
+      "179.42.88.0/22"
+    ],
+    "ipv6": [
+      "2801:80:2a00::/44"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asn": 139026,
+  "handle": "SHADHINOTA2-AP",
+  "description": "Shadhinota Net",
+  "subnets": {
+    "ipv4": [
+      "103.138.164.0/23"
+    ],
+    "ipv6": []
+  }
+}

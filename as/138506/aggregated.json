@@ -1,0 +1,12 @@
+{
+  "asn": 138506,
+  "handle": "PNTL-AP",
+  "description": "PNG Nambawan Trophy Ltd",
+  "subnets": {
+    "ipv4": [
+      "103.127.90.0/24",
+      "103.152.8.0/24"
+    ],
+    "ipv6": []
+  }
+}

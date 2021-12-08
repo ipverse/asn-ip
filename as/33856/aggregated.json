@@ -1,0 +1,13 @@
+{
+  "asn": 33856,
+  "handle": "TCMB",
+  "description": "Turkiye Cumhuriyet Merkez Bankasi",
+  "subnets": {
+    "ipv4": [
+      "185.98.252.0/22"
+    ],
+    "ipv6": [
+      "2a04:6600::/29"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 270479,
+  "handle": "NR-MIDIA-PROVEDOR",
+  "description": "NR Mídia Provedor de Acesso à Internet",
+  "subnets": {
+    "ipv4": [
+      "190.93.180.0/23"
+    ],
+    "ipv6": [
+      "2804:6c98::/32"
+    ]
+  }
+}

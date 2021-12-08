@@ -1,0 +1,13 @@
+{
+  "asn": 142030,
+  "handle": "NZ-NETWORK-AP",
+  "description": "HostUS Solutions LLC",
+  "subnets": {
+    "ipv4": [
+      "154.16.17.0/24"
+    ],
+    "ipv6": [
+      "2402:e380:31e::/48"
+    ]
+  }
+}

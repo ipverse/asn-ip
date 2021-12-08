@@ -1,0 +1,13 @@
+{
+  "asn": 11318,
+  "handle": "GU",
+  "description": "Georgetown University",
+  "subnets": {
+    "ipv4": [
+      "141.161.0.0/16"
+    ],
+    "ipv6": [
+      "2620:107::/40"
+    ]
+  }
+}

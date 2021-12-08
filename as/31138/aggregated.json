@@ -1,0 +1,13 @@
+{
+  "asn": 31138,
+  "handle": "PROEKT",
+  "description": "Ltd IPTelecom",
+  "subnets": {
+    "ipv4": [
+      "83.217.0.0/21"
+    ],
+    "ipv6": [
+      "2a00:d8c0::/48"
+    ]
+  }
+}

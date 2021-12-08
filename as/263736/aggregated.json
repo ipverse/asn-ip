@@ -1,0 +1,14 @@
+{
+  "asn": 263736,
+  "handle": "COOP-DE-OBRAS",
+  "description": "COOP. DE OBRAS Y DESARROLLO DE MAXIMO PAZ LTDA.",
+  "subnets": {
+    "ipv4": [
+      "138.0.184.0/22",
+      "143.137.20.0/22",
+      "170.239.128.0/22",
+      "200.31.3.0/24"
+    ],
+    "ipv6": []
+  }
+}

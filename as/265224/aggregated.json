@@ -1,0 +1,14 @@
+{
+  "asn": 265224,
+  "handle": "M-DANTAS-E-CIA-LTDA-ME",
+  "description": "M. DANTAS E CIA LTDA ME",
+  "subnets": {
+    "ipv4": [
+      "167.250.216.0/22",
+      "170.239.40.0/22"
+    ],
+    "ipv6": [
+      "2804:2c84::/32"
+    ]
+  }
+}

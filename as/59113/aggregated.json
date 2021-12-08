@@ -1,0 +1,13 @@
+{
+  "asn": 59113,
+  "handle": "RJV6-NET",
+  "description": "RICOH JAPAN Corporation",
+  "subnets": {
+    "ipv4": [
+      "210.173.223.0/24"
+    ],
+    "ipv6": [
+      "2001:df3:bc00::/48"
+    ]
+  }
+}

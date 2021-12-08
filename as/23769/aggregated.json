@@ -1,0 +1,11 @@
+{
+  "asn": 23769,
+  "handle": "OSRPARR",
+  "description": "Office of State Revenue",
+  "subnets": {
+    "ipv4": [
+      "203.55.28.0/23"
+    ],
+    "ipv6": []
+  }
+}

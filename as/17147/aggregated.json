@@ -1,0 +1,13 @@
+{
+  "asn": 17147,
+  "handle": "MINISTERIO-DEL-INTERIOR",
+  "description": "Ministerio del Interior y de Seguridad Publica - Gobierno de Chile",
+  "subnets": {
+    "ipv4": [
+      "163.247.0.0/16"
+    ],
+    "ipv6": [
+      "2801:2::/32"
+    ]
+  }
+}

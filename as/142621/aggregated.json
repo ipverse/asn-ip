@@ -1,0 +1,11 @@
+{
+  "asn": 142621,
+  "handle": "NPSPL-AP",
+  "description": "NPS",
+  "subnets": {
+    "ipv4": [
+      "103.170.223.0/24"
+    ],
+    "ipv6": []
+  }
+}

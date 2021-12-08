@@ -1,0 +1,11 @@
+{
+  "asn": 204409,
+  "handle": "CZ-PRESTONET",
+  "description": "Prestonet s.r.o.",
+  "subnets": {
+    "ipv4": [
+      "185.249.112.0/22"
+    ],
+    "ipv6": []
+  }
+}

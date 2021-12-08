@@ -1,0 +1,13 @@
+{
+  "asn": 56438,
+  "handle": "LOOPSCORPIO",
+  "description": "Loop Scorpio Ltd",
+  "subnets": {
+    "ipv4": [
+      "185.216.9.0/24"
+    ],
+    "ipv6": [
+      "2a00:d700::/32"
+    ]
+  }
+}

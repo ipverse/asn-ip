@@ -1,0 +1,13 @@
+{
+  "asn": 140947,
+  "handle": "SNTHOSTINGS-AP",
+  "description": "SnTHostings",
+  "subnets": {
+    "ipv4": [
+      "45.155.67.0/24",
+      "89.116.200.0/24",
+      "103.153.182.0/23"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 268002,
+  "handle": "INFORME-SERVICOS-DE",
+  "description": "INFORME SERVIÇOS DE PROCESSAMENTO DE DADOS LTDA",
+  "subnets": {
+    "ipv4": [
+      "45.166.232.0/22"
+    ],
+    "ipv6": [
+      "2804:5678::/32"
+    ]
+  }
+}

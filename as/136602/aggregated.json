@@ -1,0 +1,12 @@
+{
+  "asn": 136602,
+  "handle": "BAHL-AP",
+  "description": "Bank Al Habib Limited",
+  "subnets": {
+    "ipv4": [
+      "103.93.208.0/24",
+      "103.174.239.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 205192,
+  "handle": "OMURTECH",
+  "description": "Hacer Yavuz trading as Omur Bilisim Teknolojileri",
+  "subnets": {
+    "ipv4": [
+      "185.226.160.0/23",
+      "185.226.163.0/24"
+    ],
+    "ipv6": []
+  }
+}

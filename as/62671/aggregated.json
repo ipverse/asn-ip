@@ -1,0 +1,11 @@
+{
+  "asn": 62671,
+  "handle": "UNIVERSITY-OF-COLORADO-SYSTEM",
+  "description": "ECS-Infrastructure",
+  "subnets": {
+    "ipv4": [
+      "204.228.68.0/22"
+    ],
+    "ipv6": []
+  }
+}

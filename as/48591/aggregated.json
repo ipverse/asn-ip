@@ -1,0 +1,12 @@
+{
+  "asn": 48591,
+  "handle": "IPREO",
+  "description": "Ipreo Ltd",
+  "subnets": {
+    "ipv4": [
+      "91.209.197.0/24",
+      "91.229.201.0/24"
+    ],
+    "ipv6": []
+  }
+}

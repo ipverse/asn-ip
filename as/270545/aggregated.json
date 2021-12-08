@@ -1,0 +1,13 @@
+{
+  "asn": 270545,
+  "handle": "DIGIT@L-INFORMATICA-ELETRONICA",
+  "description": "Digit@l Informática Eletronica e Provedor de acess",
+  "subnets": {
+    "ipv4": [
+      "187.120.164.0/22"
+    ],
+    "ipv6": [
+      "2804:6da0::/32"
+    ]
+  }
+}

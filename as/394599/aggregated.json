@@ -1,0 +1,12 @@
+{
+  "asn": 394599,
+  "handle": "FSN",
+  "description": "Full Service Networking",
+  "subnets": {
+    "ipv4": [
+      "66.162.52.0/23",
+      "216.68.74.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asn": 134449,
+  "handle": "DSBL-AP",
+  "description": "Dah Sing Bank, Limited",
+  "subnets": {
+    "ipv4": [
+      "103.194.100.0/23"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asn": 54272,
+  "handle": "MEC-1",
+  "description": "Meridian Enterprises Corporation",
+  "subnets": {
+    "ipv4": [
+      "207.126.140.0/23"
+    ],
+    "ipv6": []
+  }
+}

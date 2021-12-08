@@ -1,0 +1,11 @@
+{
+  "asn": 42023,
+  "handle": "WESTCALL",
+  "description": "OOO WestCall Ltd.",
+  "subnets": {
+    "ipv4": [
+      "79.142.102.0/23"
+    ],
+    "ipv6": []
+  }
+}

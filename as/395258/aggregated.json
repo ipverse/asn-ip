@@ -1,0 +1,12 @@
+{
+  "asn": 395258,
+  "handle": "DHISCO",
+  "description": "DHISCO",
+  "subnets": {
+    "ipv4": [
+      "8.40.219.0/24",
+      "199.33.140.0/24"
+    ],
+    "ipv6": []
+  }
+}

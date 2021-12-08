@@ -1,0 +1,11 @@
+{
+  "asn": 18727,
+  "handle": "DNPS",
+  "description": "Detroit Newspapers",
+  "subnets": {
+    "ipv4": [
+      "159.54.18.0/23"
+    ],
+    "ipv6": []
+  }
+}

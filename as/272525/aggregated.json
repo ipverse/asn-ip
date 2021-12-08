@@ -1,0 +1,11 @@
+{
+  "asn": 272525,
+  "handle": "KINGSNET-FIBRA-LTDA",
+  "description": "Kingsnet Fibra Ltda",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2804:8288::/32"
+    ]
+  }
+}

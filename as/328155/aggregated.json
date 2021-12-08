@@ -1,0 +1,11 @@
+{
+  "asn": 328155,
+  "handle": "BLUESKY",
+  "description": "Blue Sky Satellite Communications CC",
+  "subnets": {
+    "ipv4": [
+      "154.65.80.0/21"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 267997,
+  "handle": "DS-TELECOM",
+  "description": "DS TELECOM",
+  "subnets": {
+    "ipv4": [
+      "45.167.76.0/22"
+    ],
+    "ipv6": [
+      "2804:566c::/32"
+    ]
+  }
+}

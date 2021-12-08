@@ -1,0 +1,12 @@
+{
+  "asn": 262285,
+  "handle": "VIVAS-NETWORK-LTDA-ME",
+  "description": "Vivas Network Ltda-ME",
+  "subnets": {
+    "ipv4": [
+      "177.52.244.0/22",
+      "177.124.8.0/21"
+    ],
+    "ipv6": []
+  }
+}

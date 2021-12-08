@@ -1,0 +1,12 @@
+{
+  "asn": 328082,
+  "handle": "RIVERBROADBAND",
+  "description": "RiverBroadband PTY (Ltd)",
+  "subnets": {
+    "ipv4": [
+      "196.61.80.0/22",
+      "196.61.94.0/23"
+    ],
+    "ipv6": []
+  }
+}

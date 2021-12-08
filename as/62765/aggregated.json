@@ -1,0 +1,12 @@
+{
+  "asn": 62765,
+  "handle": "ABMG-HQ",
+  "description": "Atlantic Bay Mortgage Group, LLC",
+  "subnets": {
+    "ipv4": [
+      "70.186.243.0/24",
+      "72.19.0.0/24"
+    ],
+    "ipv6": []
+  }
+}

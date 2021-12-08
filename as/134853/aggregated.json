@@ -1,0 +1,12 @@
+{
+  "asn": 134853,
+  "handle": "BHIWANI-IN",
+  "description": "BHIWANI COMMUNICATIONS PVT LTD",
+  "subnets": {
+    "ipv4": [
+      "103.171.64.0/24",
+      "103.205.148.0/22"
+    ],
+    "ipv6": []
+  }
+}

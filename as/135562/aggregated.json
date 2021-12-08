@@ -1,0 +1,11 @@
+{
+  "asn": 135562,
+  "handle": "NGNHK-AP",
+  "description": "Nevigate Global Network (Hong Kong) Limited",
+  "subnets": {
+    "ipv4": [
+      "103.123.30.0/23"
+    ],
+    "ipv6": []
+  }
+}

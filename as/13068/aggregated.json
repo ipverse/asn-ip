@@ -1,0 +1,11 @@
+{
+  "asn": 13068,
+  "handle": "WIENER-BORSE-AG",
+  "description": "Wiener Borse AG",
+  "subnets": {
+    "ipv4": [
+      "213.164.9.0/24"
+    ],
+    "ipv6": []
+  }
+}

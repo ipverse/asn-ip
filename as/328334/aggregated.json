@@ -1,0 +1,13 @@
+{
+  "asn": 328334,
+  "handle": "PHOENIXQUEST",
+  "description": "The Phoenix Quest II cc",
+  "subnets": {
+    "ipv4": [
+      "102.134.88.0/22"
+    ],
+    "ipv6": [
+      "2c0f:ef30::/32"
+    ]
+  }
+}

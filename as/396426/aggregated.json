@@ -1,0 +1,12 @@
+{
+  "asn": 396426,
+  "handle": "CYBERONEDATA",
+  "description": "CyberOne Data LLC",
+  "subnets": {
+    "ipv4": [
+      "47.45.19.0/24",
+      "209.94.190.0/23"
+    ],
+    "ipv6": []
+  }
+}

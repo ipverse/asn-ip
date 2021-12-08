@@ -1,0 +1,14 @@
+{
+  "asn": 268707,
+  "handle": "4WNET-ES-TELECOMUNICACOES",
+  "description": "4WNET ES TELECOMUNICAÇÕES EIRELE ME",
+  "subnets": {
+    "ipv4": [
+      "45.169.160.0/23",
+      "45.188.206.0/23"
+    ],
+    "ipv6": [
+      "2804:5984::/32"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 11261,
+  "handle": "EHI-PROD-SJ",
+  "description": "eHealthInsurance Services Inc.",
+  "subnets": {
+    "ipv4": [
+      "12.130.143.0/24",
+      "12.130.145.0/24",
+      "12.130.155.0/24"
+    ],
+    "ipv6": []
+  }
+}

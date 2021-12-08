@@ -1,0 +1,11 @@
+{
+  "asn": 22509,
+  "handle": "BANFIELD",
+  "description": "Banfield",
+  "subnets": {
+    "ipv4": [
+      "66.193.107.0/24"
+    ],
+    "ipv6": []
+  }
+}

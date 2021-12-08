@@ -1,0 +1,14 @@
+{
+  "asn": 197654,
+  "handle": "EBI-NET",
+  "description": "Eczacibasi Bilisim San.ve Tic. A.S.",
+  "subnets": {
+    "ipv4": [
+      "31.25.168.0/21",
+      "84.252.80.0/22",
+      "185.130.56.0/24",
+      "195.33.198.0/24"
+    ],
+    "ipv6": []
+  }
+}

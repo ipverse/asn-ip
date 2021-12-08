@@ -1,0 +1,13 @@
+{
+  "asn": 64224,
+  "handle": "ATINET",
+  "description": "ATI Solutions",
+  "subnets": {
+    "ipv4": [
+      "8.15.224.0/23",
+      "8.25.4.0/23",
+      "147.92.56.0/22"
+    ],
+    "ipv6": []
+  }
+}

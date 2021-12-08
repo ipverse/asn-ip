@@ -1,0 +1,12 @@
+{
+  "asn": 209343,
+  "handle": "RUSSVYAZ",
+  "description": "RusSvyazIntegration Ltd",
+  "subnets": {
+    "ipv4": [
+      "109.248.130.0/24",
+      "188.130.192.0/22"
+    ],
+    "ipv6": []
+  }
+}

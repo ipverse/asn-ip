@@ -1,0 +1,11 @@
+{
+  "asn": 45858,
+  "handle": "DATAONE-PH2-AP",
+  "description": "Data One Asia Philippines",
+  "subnets": {
+    "ipv4": [
+      "103.227.44.0/22"
+    ],
+    "ipv6": []
+  }
+}

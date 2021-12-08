@@ -1,0 +1,14 @@
+{
+  "asn": 141968,
+  "handle": "IDNIC-IKADA-ID",
+  "description": "PT Industri Kreatif Digital",
+  "subnets": {
+    "ipv4": [
+      "103.167.34.0/23",
+      "103.177.94.0/23"
+    ],
+    "ipv6": [
+      "2407:6ac0::/32"
+    ]
+  }
+}

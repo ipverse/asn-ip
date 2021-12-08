@@ -1,0 +1,12 @@
+{
+  "asn": 56494,
+  "handle": "ETISALCOM-CORP",
+  "description": "Etisalcom Bahrain Company W.L.L.",
+  "subnets": {
+    "ipv4": [
+      "46.235.208.0/24",
+      "185.49.160.0/22"
+    ],
+    "ipv6": []
+  }
+}

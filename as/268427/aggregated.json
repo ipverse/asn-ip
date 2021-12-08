@@ -1,0 +1,13 @@
+{
+  "asn": 268427,
+  "handle": "RAYNET-TELECOMUNICACOES-LTDA",
+  "description": "Raynet Telecomunicações Ltda",
+  "subnets": {
+    "ipv4": [
+      "45.165.116.0/22"
+    ],
+    "ipv6": [
+      "2804:5540::/32"
+    ]
+  }
+}

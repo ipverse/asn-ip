@@ -1,0 +1,14 @@
+{
+  "asn": 24305,
+  "handle": "EDGEIX-CDN",
+  "description": "They Call Me Joe",
+  "subnets": {
+    "ipv4": [
+      "103.11.9.0/24",
+      "103.46.230.0/24"
+    ],
+    "ipv6": [
+      "2405:b640::/47"
+    ]
+  }
+}

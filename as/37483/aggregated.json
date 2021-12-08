@@ -1,0 +1,11 @@
+{
+  "asn": 37483,
+  "handle": "CONGO-CHINE",
+  "description": "ORANGE RDC",
+  "subnets": {
+    "ipv4": [
+      "169.255.206.0/24"
+    ],
+    "ipv6": []
+  }
+}

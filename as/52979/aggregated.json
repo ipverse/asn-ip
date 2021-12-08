@@ -1,0 +1,11 @@
+{
+  "asn": 52979,
+  "handle": "CELLTECH-PROVEDOR-DE-INTERNET",
+  "description": "Celltech Provedor de Internet",
+  "subnets": {
+    "ipv4": [
+      "177.39.224.0/21"
+    ],
+    "ipv6": []
+  }
+}

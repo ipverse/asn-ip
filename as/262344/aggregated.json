@@ -1,0 +1,13 @@
+{
+  "asn": 262344,
+  "handle": "MEGABIT-PROVEDOR-DE",
+  "description": "MEGABIT PROVEDOR DE INTERNET LTDA",
+  "subnets": {
+    "ipv4": [
+      "177.125.128.0/22"
+    ],
+    "ipv6": [
+      "2804:810::/32"
+    ]
+  }
+}

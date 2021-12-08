@@ -1,0 +1,11 @@
+{
+  "asn": 52418,
+  "handle": "NETEL-SA",
+  "description": "NETEL S.A.",
+  "subnets": {
+    "ipv4": [
+      "200.115.16.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 201616,
+  "handle": "QOOIX",
+  "description": "Qooix s.r.l.s.",
+  "subnets": {
+    "ipv4": [
+      "94.142.176.0/22"
+    ],
+    "ipv6": [
+      "2a06:b700::/29"
+    ]
+  }
+}

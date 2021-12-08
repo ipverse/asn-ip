@@ -1,0 +1,13 @@
+{
+  "asn": 269838,
+  "handle": "MENA-CORNEJO-HECTOR",
+  "description": "MENA CORNEJO HECTOR ELIAS (TECMESH)",
+  "subnets": {
+    "ipv4": [
+      "45.186.140.0/23"
+    ],
+    "ipv6": [
+      "2803:1f60::/32"
+    ]
+  }
+}

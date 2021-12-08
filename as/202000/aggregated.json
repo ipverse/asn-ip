@@ -1,0 +1,11 @@
+{
+  "asn": 202000,
+  "handle": "RUSPROD",
+  "description": "Open Joint-Stock Company RUSSKY PRODUCT",
+  "subnets": {
+    "ipv4": [
+      "37.18.106.0/24"
+    ],
+    "ipv6": []
+  }
+}

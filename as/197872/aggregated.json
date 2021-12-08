@@ -1,0 +1,13 @@
+{
+  "asn": 197872,
+  "handle": "EA-NL-AMSTERDAM-DC",
+  "description": "Electronic Arts Limited",
+  "subnets": {
+    "ipv4": [
+      "159.153.16.0/20"
+    ],
+    "ipv6": [
+      "2a00:ad40:20::/44"
+    ]
+  }
+}

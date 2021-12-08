@@ -1,0 +1,14 @@
+{
+  "asn": 20658,
+  "handle": "COMPUTERDESIGN",
+  "description": "Computer Design Srl",
+  "subnets": {
+    "ipv4": [
+      "217.170.224.0/21",
+      "217.170.232.0/24",
+      "217.170.234.0/24",
+      "217.170.238.0/23"
+    ],
+    "ipv6": []
+  }
+}

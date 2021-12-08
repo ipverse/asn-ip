@@ -1,0 +1,13 @@
+{
+  "asn": 61497,
+  "handle": "VOZELIA-SA",
+  "description": "VOZELIA SA",
+  "subnets": {
+    "ipv4": [
+      "138.99.136.0/22"
+    ],
+    "ipv6": [
+      "2803:d040::/32"
+    ]
+  }
+}

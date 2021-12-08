@@ -1,0 +1,11 @@
+{
+  "asn": 137437,
+  "handle": "AIRBNB-AP",
+  "description": "Airbnb, Inc.",
+  "subnets": {
+    "ipv4": [
+      "103.107.42.0/24"
+    ],
+    "ipv6": []
+  }
+}

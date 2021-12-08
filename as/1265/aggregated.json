@@ -1,0 +1,12 @@
+{
+  "asn": 1265,
+  "handle": "SAINT-MARYS",
+  "description": "Saint Mary\u0027s College",
+  "subnets": {
+    "ipv4": [
+      "147.53.0.0/18",
+      "147.53.64.0/19"
+    ],
+    "ipv6": []
+  }
+}

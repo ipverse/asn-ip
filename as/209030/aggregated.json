@@ -1,0 +1,12 @@
+{
+  "asn": 209030,
+  "handle": "KL-KDP",
+  "description": "Kaspersky Lab AO",
+  "subnets": {
+    "ipv4": [
+      "82.202.188.0/23",
+      "82.202.190.0/24"
+    ],
+    "ipv6": []
+  }
+}

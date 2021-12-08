@@ -1,0 +1,12 @@
+{
+  "asn": 132151,
+  "handle": "GUIDEHOUSE-AP",
+  "description": "Guidehouse India Private Limited",
+  "subnets": {
+    "ipv4": [
+      "103.6.27.0/24",
+      "103.244.48.0/24"
+    ],
+    "ipv6": []
+  }
+}

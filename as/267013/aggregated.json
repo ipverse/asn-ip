@@ -1,0 +1,13 @@
+{
+  "asn": 267013,
+  "handle": "INTERNET-SOLUTION-PROVIDER",
+  "description": "INTERNET SOLUTION PROVIDER TELECOM. LTDA ME",
+  "subnets": {
+    "ipv4": [
+      "45.226.104.0/22"
+    ],
+    "ipv6": [
+      "2804:46d0::/32"
+    ]
+  }
+}

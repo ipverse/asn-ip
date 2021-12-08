@@ -1,0 +1,13 @@
+{
+  "asn": 33958,
+  "handle": "GSCF",
+  "description": "Global Supply Chain Finance AG",
+  "subnets": {
+    "ipv4": [
+      "193.93.64.0/22"
+    ],
+    "ipv6": [
+      "2001:678:890::/48"
+    ]
+  }
+}

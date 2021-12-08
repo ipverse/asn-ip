@@ -1,0 +1,13 @@
+{
+  "asn": 21573,
+  "handle": "HEALTHPARTNERS",
+  "description": "HealthPartners",
+  "subnets": {
+    "ipv4": [
+      "198.153.8.0/21",
+      "198.174.108.0/22",
+      "206.146.129.0/24"
+    ],
+    "ipv6": []
+  }
+}

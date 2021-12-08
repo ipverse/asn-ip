@@ -1,0 +1,11 @@
+{
+  "asn": 144055,
+  "handle": "CERNET",
+  "description": "China Education and Research Network (CERNET)",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "240a:a57d::/32"
+    ]
+  }
+}

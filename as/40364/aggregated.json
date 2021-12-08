@@ -1,0 +1,12 @@
+{
+  "asn": 40364,
+  "handle": "SATCOM-DIRECT-INC",
+  "description": "Satcom Direct Inc.",
+  "subnets": {
+    "ipv4": [
+      "164.153.17.0/24",
+      "164.153.18.0/23"
+    ],
+    "ipv6": []
+  }
+}

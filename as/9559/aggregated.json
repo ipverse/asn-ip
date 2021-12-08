@@ -1,0 +1,13 @@
+{
+  "asn": 9559,
+  "handle": "PLAINCOM-NZ",
+  "description": "Vodafone New Zealand Limited",
+  "subnets": {
+    "ipv4": [
+      "202.36.174.0/24",
+      "202.49.64.0/21",
+      "202.49.140.0/24"
+    ],
+    "ipv6": []
+  }
+}

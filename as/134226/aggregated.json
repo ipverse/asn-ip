@@ -1,0 +1,13 @@
+{
+  "asn": 134226,
+  "handle": "NATION-AP",
+  "description": "NATION COMMUNICATION",
+  "subnets": {
+    "ipv4": [
+      "103.59.176.0/22"
+    ],
+    "ipv6": [
+      "2404:2d80::/32"
+    ]
+  }
+}

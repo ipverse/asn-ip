@@ -1,0 +1,11 @@
+{
+  "asn": 201813,
+  "handle": "STARHOSTING",
+  "description": "Starhost SRL",
+  "subnets": {
+    "ipv4": [
+      "45.67.196.0/22"
+    ],
+    "ipv6": []
+  }
+}

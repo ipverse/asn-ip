@@ -1,0 +1,13 @@
+{
+  "asn": 271001,
+  "handle": "YEPNET-TECNOLOGIA-EIRELI",
+  "description": "Yepnet Tecnologia Eireli",
+  "subnets": {
+    "ipv4": [
+      "177.223.132.0/22"
+    ],
+    "ipv6": [
+      "2804:74c0::/32"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 38254,
+  "handle": "ITLAB-AP",
+  "description": "Pang-Wei Tsai",
+  "subnets": {
+    "ipv4": [
+      "103.167.250.0/23"
+    ],
+    "ipv6": [
+      "2602:feda:d92::/47"
+    ]
+  }
+}

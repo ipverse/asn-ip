@@ -1,0 +1,12 @@
+{
+  "asn": 41091,
+  "handle": "ZL-HU",
+  "description": "ZL Rendszerhaz Kft.",
+  "subnets": {
+    "ipv4": [
+      "84.21.31.0/24",
+      "87.229.100.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 36079,
+  "handle": "RESULTS",
+  "description": "Results",
+  "subnets": {
+    "ipv4": [
+      "199.114.236.0/24",
+      "199.114.238.0/24"
+    ],
+    "ipv6": []
+  }
+}

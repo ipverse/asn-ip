@@ -1,0 +1,11 @@
+{
+  "asn": 41513,
+  "handle": "SKYTELENET",
+  "description": "PP SkyTeleNet",
+  "subnets": {
+    "ipv4": [
+      "195.3.224.0/23"
+    ],
+    "ipv6": []
+  }
+}

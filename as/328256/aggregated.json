@@ -1,0 +1,11 @@
+{
+  "asn": 328256,
+  "handle": "SKYMAX-INTEGRATED-NETWORK",
+  "description": "Skymax Integrated Network Ltd",
+  "subnets": {
+    "ipv4": [
+      "102.176.240.0/22"
+    ],
+    "ipv6": []
+  }
+}

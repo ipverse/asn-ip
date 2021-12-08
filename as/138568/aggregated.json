@@ -1,0 +1,14 @@
+{
+  "asn": 138568,
+  "handle": "CENTRAL1-AP",
+  "description": "Central Telecoms Pty Ltd",
+  "subnets": {
+    "ipv4": [
+      "103.133.52.0/22",
+      "188.130.224.0/22"
+    ],
+    "ipv6": [
+      "2404:4840::/32"
+    ]
+  }
+}

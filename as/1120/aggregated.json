@@ -1,0 +1,12 @@
+{
+  "asn": 1120,
+  "handle": "ACONET-SERVICES",
+  "description": "ACONET",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2001:628:453::/48",
+      "2001:628:2000::/48"
+    ]
+  }
+}

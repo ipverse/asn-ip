@@ -1,0 +1,12 @@
+{
+  "asn": 51768,
+  "handle": "SDAINFORMATIK",
+  "description": "KEYSTONE-SDA-ATS AG",
+  "subnets": {
+    "ipv4": [
+      "91.220.99.0/24",
+      "185.176.236.0/22"
+    ],
+    "ipv6": []
+  }
+}

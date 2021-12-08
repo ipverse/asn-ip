@@ -1,0 +1,11 @@
+{
+  "asn": 134235,
+  "handle": "SUBEXLIMITED-AP",
+  "description": "Subex Azure Limited",
+  "subnets": {
+    "ipv4": [
+      "103.60.21.0/24"
+    ],
+    "ipv6": []
+  }
+}

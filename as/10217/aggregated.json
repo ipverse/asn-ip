@@ -1,0 +1,14 @@
+{
+  "asn": 10217,
+  "handle": "NTT-NET-ID",
+  "description": "PT. NTT Indonesia",
+  "subnets": {
+    "ipv4": [
+      "119.11.128.0/17",
+      "202.171.0.0/19"
+    ],
+    "ipv6": [
+      "2404:c8::/32"
+    ]
+  }
+}

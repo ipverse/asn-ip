@@ -1,0 +1,15 @@
+{
+  "asn": 49791,
+  "handle": "3HCLOUD",
+  "description": "Newserverlife LLC",
+  "subnets": {
+    "ipv4": [
+      "45.144.48.0/22",
+      "104.167.196.0/22"
+    ],
+    "ipv6": [
+      "2606:2040::/32",
+      "2a05:fc1::/32"
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 264353,
+  "handle": "CATALAO-BANDNET-SERVICOS",
+  "description": "Catalão Bandnet Serviços Multimídia LTDA - ME",
+  "subnets": {
+    "ipv4": [
+      "131.108.116.0/22",
+      "138.186.104.0/22"
+    ],
+    "ipv6": [
+      "2804:1d30::/32"
+    ]
+  }
+}

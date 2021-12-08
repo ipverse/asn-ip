@@ -1,0 +1,13 @@
+{
+  "asn": 398252,
+  "handle": "BRC-YORKNE-01",
+  "description": "Big Red Communications LLC",
+  "subnets": {
+    "ipv4": [
+      "64.64.107.0/24",
+      "196.52.0.0/24",
+      "196.53.194.0/24"
+    ],
+    "ipv6": []
+  }
+}

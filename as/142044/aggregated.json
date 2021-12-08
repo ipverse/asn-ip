@@ -1,0 +1,13 @@
+{
+  "asn": 142044,
+  "handle": "CONTRIVANCETECHNOLOGY-AP",
+  "description": "Contrivance Technology",
+  "subnets": {
+    "ipv4": [
+      "103.165.161.0/24"
+    ],
+    "ipv6": [
+      "2001:df6:6d80::/48"
+    ]
+  }
+}

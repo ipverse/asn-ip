@@ -1,0 +1,11 @@
+{
+  "asn": 31248,
+  "handle": "CINECA-MI",
+  "description": "CINECA CONSORZIO INTERUNIVERSITARIO",
+  "subnets": {
+    "ipv4": [
+      "131.175.0.0/22"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 48217,
+  "handle": "SBRFUA",
+  "description": "PJSC Sberbank",
+  "subnets": {
+    "ipv4": [
+      "91.209.36.0/24",
+      "91.233.151.0/24"
+    ],
+    "ipv6": []
+  }
+}

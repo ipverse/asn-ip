@@ -1,0 +1,14 @@
+{
+  "asn": 134518,
+  "handle": "RETN-AP",
+  "description": "RETN (Hong Kong) Limited",
+  "subnets": {
+    "ipv4": [
+      "43.246.132.0/22",
+      "103.194.236.0/22"
+    ],
+    "ipv6": [
+      "2402:c680::/32"
+    ]
+  }
+}

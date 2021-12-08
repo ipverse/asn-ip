@@ -1,0 +1,12 @@
+{
+  "asn": 212196,
+  "handle": "PIEKACZ",
+  "description": "Daniel Piekacz",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a0c:b641:d0::/44",
+      "2a0e:b107:ec0::/44"
+    ]
+  }
+}

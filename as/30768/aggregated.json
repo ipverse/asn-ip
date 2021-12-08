@@ -1,0 +1,12 @@
+{
+  "asn": 30768,
+  "handle": "VOLVOX",
+  "description": "Volvox CJSC",
+  "subnets": {
+    "ipv4": [
+      "193.19.82.0/23",
+      "194.165.0.0/23"
+    ],
+    "ipv6": []
+  }
+}

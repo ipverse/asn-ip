@@ -1,0 +1,12 @@
+{
+  "asn": 132967,
+  "handle": "OCEANEXPORTS",
+  "description": "OCEAN EXPORTS",
+  "subnets": {
+    "ipv4": [
+      "43.231.232.0/24",
+      "43.231.234.0/23"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 262733,
+  "handle": "NETCETERA-TELECOMUNICACOES-LTDA",
+  "description": "Netcetera Telecomunicações Ltda.",
+  "subnets": {
+    "ipv4": [
+      "177.130.64.0/20",
+      "186.194.240.0/20"
+    ],
+    "ipv6": [
+      "2804:154::/32"
+    ]
+  }
+}

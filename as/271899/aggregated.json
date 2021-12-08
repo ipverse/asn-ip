@@ -1,0 +1,13 @@
+{
+  "asn": 271899,
+  "handle": "GIGAPOP-CA",
+  "description": "GIGAPOP, C.A.",
+  "subnets": {
+    "ipv4": [
+      "38.9.160.0/19"
+    ],
+    "ipv6": [
+      "2803:c210::/32"
+    ]
+  }
+}

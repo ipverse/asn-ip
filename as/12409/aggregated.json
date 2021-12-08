@@ -1,0 +1,13 @@
+{
+  "asn": 12409,
+  "handle": "HRNET",
+  "description": "TRUSTTEAM SAS",
+  "subnets": {
+    "ipv4": [
+      "212.94.192.0/19"
+    ],
+    "ipv6": [
+      "2a0a:fc80::/32"
+    ]
+  }
+}

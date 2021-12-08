@@ -1,0 +1,12 @@
+{
+  "asn": 26446,
+  "handle": "OSTRA",
+  "description": "Ostra LLC",
+  "subnets": {
+    "ipv4": [
+      "38.92.133.0/24",
+      "216.10.79.0/24"
+    ],
+    "ipv6": []
+  }
+}

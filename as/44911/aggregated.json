@@ -1,0 +1,11 @@
+{
+  "asn": 44911,
+  "handle": "KEYNET-AG",
+  "description": "Keynet AG",
+  "subnets": {
+    "ipv4": [
+      "185.156.223.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 59122,
+  "handle": "R-SYS",
+  "description": "Ranger-Systems Co., Ltd.",
+  "subnets": {
+    "ipv4": [
+      "103.215.56.0/22",
+      "219.100.232.0/22"
+    ],
+    "ipv6": []
+  }
+}

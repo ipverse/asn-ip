@@ -1,0 +1,13 @@
+{
+  "asn": 36154,
+  "handle": "WURESTON",
+  "description": "WESTERN UNION COMPANY",
+  "subnets": {
+    "ipv4": [
+      "8.43.80.0/24",
+      "66.218.160.0/23",
+      "206.201.226.0/23"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 21568,
+  "handle": "NYTD",
+  "description": "The New York Times Company",
+  "subnets": {
+    "ipv4": [
+      "170.149.57.0/24",
+      "170.149.240.0/21"
+    ],
+    "ipv6": []
+  }
+}

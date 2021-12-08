@@ -1,0 +1,11 @@
+{
+  "asn": 21247,
+  "handle": "IPSYN",
+  "description": "IP SYNERGIES",
+  "subnets": {
+    "ipv4": [
+      "193.109.142.0/23"
+    ],
+    "ipv6": []
+  }
+}

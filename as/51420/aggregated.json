@@ -1,0 +1,14 @@
+{
+  "asn": 51420,
+  "handle": "CYRILEK",
+  "description": "cyrilek.net .z.s.",
+  "subnets": {
+    "ipv4": [
+      "109.164.64.0/19"
+    ],
+    "ipv6": [
+      "2a03:3a05::/32",
+      "2a03:3a06::/32"
+    ]
+  }
+}

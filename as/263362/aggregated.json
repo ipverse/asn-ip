@@ -1,0 +1,14 @@
+{
+  "asn": 263362,
+  "handle": "REDE-SPEEDNET-TELECOM-LTDA",
+  "description": "REDE SPEEDNET TELECOM LTDA",
+  "subnets": {
+    "ipv4": [
+      "191.37.152.0/21"
+    ],
+    "ipv6": [
+      "2804:14f8::/35",
+      "2804:14f8:2000::/36"
+    ]
+  }
+}

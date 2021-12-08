@@ -1,0 +1,12 @@
+{
+  "asn": 38122,
+  "handle": "SGIC-KR-KR",
+  "description": "Seoul Guarantee Insurance Company",
+  "subnets": {
+    "ipv4": [
+      "1.232.12.0/24",
+      "61.72.18.0/24"
+    ],
+    "ipv6": []
+  }
+}

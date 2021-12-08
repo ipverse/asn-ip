@@ -1,0 +1,12 @@
+{
+  "asn": 44566,
+  "handle": "KDS-KABELNET",
+  "description": "KDS-Kabel Net DOOEL",
+  "subnets": {
+    "ipv4": [
+      "185.6.20.0/22",
+      "213.135.160.0/19"
+    ],
+    "ipv6": []
+  }
+}

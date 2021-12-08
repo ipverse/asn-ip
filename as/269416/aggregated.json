@@ -1,0 +1,13 @@
+{
+  "asn": 269416,
+  "handle": "SEMEAR-TELECOM-EIRELI",
+  "description": "SEMEAR TELECOM EIRELI",
+  "subnets": {
+    "ipv4": [
+      "45.186.80.0/22"
+    ],
+    "ipv6": [
+      "2804:6440::/32"
+    ]
+  }
+}

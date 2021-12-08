@@ -1,0 +1,13 @@
+{
+  "asn": 265363,
+  "handle": "RV-NET-TELECOM",
+  "description": "RV-NET TELECOM",
+  "subnets": {
+    "ipv4": [
+      "168.205.48.0/22"
+    ],
+    "ipv6": [
+      "2804:2ebc::/32"
+    ]
+  }
+}

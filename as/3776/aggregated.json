@@ -1,0 +1,12 @@
+{
+  "asn": 3776,
+  "handle": "ALOHANET",
+  "description": "Hawaii Online",
+  "subnets": {
+    "ipv4": [
+      "64.75.128.0/17",
+      "208.110.0.0/19"
+    ],
+    "ipv6": []
+  }
+}

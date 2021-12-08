@@ -1,0 +1,13 @@
+{
+  "asn": 269414,
+  "handle": "BRNETPR-PROVEDOR-DE",
+  "description": "BRNETPR PROVEDOR DE INTERNET LTDA",
+  "subnets": {
+    "ipv4": [
+      "45.186.72.0/22"
+    ],
+    "ipv6": [
+      "2804:6438::/32"
+    ]
+  }
+}

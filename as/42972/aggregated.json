@@ -1,0 +1,12 @@
+{
+  "asn": 42972,
+  "handle": "CPCR",
+  "description": "JSC DPD RUS",
+  "subnets": {
+    "ipv4": [
+      "77.75.168.0/21",
+      "91.209.80.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 45168,
+  "handle": "NINET-NF-AP",
+  "description": "Norfolk Telecom",
+  "subnets": {
+    "ipv4": [
+      "103.43.204.0/23",
+      "203.17.240.0/22",
+      "203.142.221.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "asn": 11815,
+  "handle": "COOPERATIVA-TELEFONICA-DE",
+  "description": "Cooperativa Telefonica de V.G.G. Ltda.",
+  "subnets": {
+    "ipv4": [
+      "168.232.140.0/22",
+      "179.60.0.0/19",
+      "190.11.32.0/19",
+      "190.106.120.0/21",
+      "200.3.168.0/21"
+    ],
+    "ipv6": [
+      "2001:13e8::/32"
+    ]
+  }
+}

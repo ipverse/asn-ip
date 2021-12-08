@@ -1,0 +1,12 @@
+{
+  "asn": 138086,
+  "handle": "IDNIC-MAHKAMAH-KONSTITUSI-RI-ID",
+  "description": "MAHKAMAH KONSTITUSI RI",
+  "subnets": {
+    "ipv4": [
+      "103.90.255.0/24",
+      "103.122.121.0/24"
+    ],
+    "ipv6": []
+  }
+}

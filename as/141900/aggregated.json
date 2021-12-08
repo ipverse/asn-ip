@@ -1,0 +1,11 @@
+{
+  "asn": 141900,
+  "handle": "IDNIC-CAHAYASOLUSINDO-ID",
+  "description": "CV Cahaya Solusindo",
+  "subnets": {
+    "ipv4": [
+      "103.164.10.0/24"
+    ],
+    "ipv6": []
+  }
+}

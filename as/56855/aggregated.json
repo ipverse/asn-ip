@@ -1,0 +1,12 @@
+{
+  "asn": 56855,
+  "handle": "MIA",
+  "description": "Ministry of Internal Affairs",
+  "subnets": {
+    "ipv4": [
+      "91.226.179.0/24",
+      "185.51.101.0/24"
+    ],
+    "ipv6": []
+  }
+}

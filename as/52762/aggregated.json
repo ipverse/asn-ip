@@ -1,0 +1,11 @@
+{
+  "asn": 52762,
+  "handle": "TRIADE-FIBRA",
+  "description": "TRÍADE FIBRA",
+  "subnets": {
+    "ipv4": [
+      "177.23.28.0/22"
+    ],
+    "ipv6": []
+  }
+}

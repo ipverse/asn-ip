@@ -1,0 +1,12 @@
+{
+  "asn": 133249,
+  "handle": "SEVENINFOTECH-IN",
+  "description": "SEVEN INFOTECH",
+  "subnets": {
+    "ipv4": [
+      "103.233.216.0/23",
+      "103.233.219.0/24"
+    ],
+    "ipv6": []
+  }
+}

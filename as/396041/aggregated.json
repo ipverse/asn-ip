@@ -1,0 +1,12 @@
+{
+  "asn": 396041,
+  "handle": "HFC",
+  "description": "HollyFrontier Corporation",
+  "subnets": {
+    "ipv4": [
+      "38.84.62.0/23",
+      "38.146.100.0/23"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "asn": 263587,
+  "handle": "J-UTZIG-CIA-LTDA-EPP",
+  "description": "J. UTZIG \u0026 CIA LTDA - EPP",
+  "subnets": {
+    "ipv4": [
+      "143.202.116.0/22",
+      "170.150.216.0/22",
+      "177.184.152.0/21"
+    ],
+    "ipv6": [
+      "2804:f78::/32"
+    ]
+  }
+}

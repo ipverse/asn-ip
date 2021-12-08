@@ -1,0 +1,13 @@
+{
+  "asn": 396965,
+  "handle": "WILDCARD-CORP",
+  "description": "Wildcard Corp.",
+  "subnets": {
+    "ipv4": [
+      "160.238.68.0/22"
+    ],
+    "ipv6": [
+      "2604:e840::/32"
+    ]
+  }
+}

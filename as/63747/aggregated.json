@@ -1,0 +1,14 @@
+{
+  "asn": 63747,
+  "handle": "CPT-VN",
+  "description": "Central Post and Telecommunication (CPT)",
+  "subnets": {
+    "ipv4": [
+      "45.252.241.0/24",
+      "45.252.242.0/23",
+      "45.252.244.0/22",
+      "103.221.224.0/21"
+    ],
+    "ipv6": []
+  }
+}

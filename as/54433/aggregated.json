@@ -1,0 +1,11 @@
+{
+  "asn": 54433,
+  "handle": "VO-ASN-01",
+  "description": "Virgin Orbit",
+  "subnets": {
+    "ipv4": [
+      "65.61.62.0/24"
+    ],
+    "ipv6": []
+  }
+}

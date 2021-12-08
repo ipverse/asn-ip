@@ -1,0 +1,11 @@
+{
+  "asn": 16179,
+  "handle": "ERTELECOM-CGN",
+  "description": "JSC ER-Telecom Holding",
+  "subnets": {
+    "ipv4": [
+      "5.3.13.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 203740,
+  "handle": "CAK",
+  "description": "CAK (ZBO)",
+  "subnets": {
+    "ipv4": [
+      "185.125.40.0/22"
+    ],
+    "ipv6": [
+      "2a06:b7c0::/29"
+    ]
+  }
+}

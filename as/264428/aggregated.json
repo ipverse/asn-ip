@@ -1,0 +1,14 @@
+{
+  "asn": 264428,
+  "handle": "GTEC-NET-INFORMATICA-LTDA-ME",
+  "description": "GTEC NET INFORMATICA LTDA ME",
+  "subnets": {
+    "ipv4": [
+      "131.221.124.0/22",
+      "143.0.4.0/22"
+    ],
+    "ipv6": [
+      "2804:1e6c::/32"
+    ]
+  }
+}

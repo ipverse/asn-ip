@@ -1,0 +1,11 @@
+{
+  "asn": 140063,
+  "handle": "TIMETECHNOLOGY-AP",
+  "description": "Time Technology",
+  "subnets": {
+    "ipv4": [
+      "103.148.10.0/23"
+    ],
+    "ipv6": []
+  }
+}

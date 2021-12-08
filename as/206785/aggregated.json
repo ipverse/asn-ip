@@ -1,0 +1,13 @@
+{
+  "asn": 206785,
+  "handle": "BRNO",
+  "description": "Magistrat mesta Brna",
+  "subnets": {
+    "ipv4": [
+      "185.62.110.0/23"
+    ],
+    "ipv6": [
+      "2a00:c40:8095::/48"
+    ]
+  }
+}

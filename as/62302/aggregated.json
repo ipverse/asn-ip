@@ -1,0 +1,13 @@
+{
+  "asn": 62302,
+  "handle": "SOFT-DREAMS",
+  "description": "Soft Dreams SRL",
+  "subnets": {
+    "ipv4": [
+      "85.204.18.0/24",
+      "185.137.132.0/22",
+      "188.213.0.0/24"
+    ],
+    "ipv6": []
+  }
+}

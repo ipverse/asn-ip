@@ -1,0 +1,12 @@
+{
+  "asn": 61639,
+  "handle": "BCNET-INFORMATICA-EIRELI",
+  "description": "BCNET INFORMÁTICA EIRELI",
+  "subnets": {
+    "ipv4": [
+      "131.100.152.0/22",
+      "138.219.164.0/22"
+    ],
+    "ipv6": []
+  }
+}

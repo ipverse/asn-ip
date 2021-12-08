@@ -1,0 +1,12 @@
+{
+  "asn": 26255,
+  "handle": "OAKTONCOMMUNITYCOLLEGE",
+  "description": "Oakton Community College",
+  "subnets": {
+    "ipv4": [
+      "192.234.14.0/23",
+      "192.234.16.0/24"
+    ],
+    "ipv6": []
+  }
+}

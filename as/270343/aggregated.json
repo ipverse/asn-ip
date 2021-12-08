@@ -1,0 +1,13 @@
+{
+  "asn": 270343,
+  "handle": "MGT-COMUNICACAO",
+  "description": "MGT COMUNICAÇÃO",
+  "subnets": {
+    "ipv4": [
+      "189.113.184.0/22"
+    ],
+    "ipv6": [
+      "2804:6a8c::/32"
+    ]
+  }
+}

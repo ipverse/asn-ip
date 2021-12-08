@@ -1,0 +1,12 @@
+{
+  "asn": 51482,
+  "handle": "BANEDANMARK",
+  "description": "Banedanmark",
+  "subnets": {
+    "ipv4": [
+      "80.243.120.0/24",
+      "91.216.101.0/24"
+    ],
+    "ipv6": []
+  }
+}

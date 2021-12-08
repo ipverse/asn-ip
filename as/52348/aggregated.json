@@ -1,0 +1,12 @@
+{
+  "asn": 52348,
+  "handle": "COOPERATIVA-ELECTRICA-ANTONIO",
+  "description": "Cooperativa Eléctrica Antonio Carboni Ltda",
+  "subnets": {
+    "ipv4": [
+      "190.14.40.0/21",
+      "190.52.208.0/20"
+    ],
+    "ipv6": []
+  }
+}

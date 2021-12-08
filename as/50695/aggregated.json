@@ -1,0 +1,13 @@
+{
+  "asn": 50695,
+  "handle": "VLP",
+  "description": "VLTAVA LABE MEDIA a.s.",
+  "subnets": {
+    "ipv4": [
+      "195.191.204.0/23"
+    ],
+    "ipv6": [
+      "2001:67c:11a8::/48"
+    ]
+  }
+}

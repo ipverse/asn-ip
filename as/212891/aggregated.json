@@ -1,0 +1,11 @@
+{
+  "asn": 212891,
+  "handle": "ASEVONET",
+  "description": "EVONET SRL",
+  "subnets": {
+    "ipv4": [
+      "45.148.192.0/23"
+    ],
+    "ipv6": []
+  }
+}

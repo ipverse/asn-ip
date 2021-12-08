@@ -1,0 +1,13 @@
+{
+  "asn": 267565,
+  "handle": "FELIX-INTERNET",
+  "description": "Felix Internet",
+  "subnets": {
+    "ipv4": [
+      "45.70.44.0/22"
+    ],
+    "ipv6": [
+      "2804:435c::/37"
+    ]
+  }
+}

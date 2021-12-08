@@ -1,0 +1,12 @@
+{
+  "asn": 45452,
+  "handle": "SABRE-AP",
+  "description": "SABRE ASIA PACIFIC PTE. LTD",
+  "subnets": {
+    "ipv4": [
+      "103.5.8.0/24",
+      "202.162.68.0/22"
+    ],
+    "ipv6": []
+  }
+}

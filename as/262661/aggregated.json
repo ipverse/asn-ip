@@ -1,0 +1,12 @@
+{
+  "asn": 262661,
+  "handle": "LINKNET-TELECOMUNICACOES",
+  "description": "Linknet Telecomunicaçoes",
+  "subnets": {
+    "ipv4": [
+      "177.128.216.0/22",
+      "179.96.168.0/21"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asn": 61821,
+  "handle": "PR-CONNECT",
+  "description": "PR CONNECT",
+  "subnets": {
+    "ipv4": [
+      "201.131.180.0/22"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 205851,
+  "handle": "INVENTUM",
+  "description": "Inventum Ost AS",
+  "subnets": {
+    "ipv4": [
+      "185.198.92.0/22"
+    ],
+    "ipv6": [
+      "2a0a:8740::/29"
+    ]
+  }
+}

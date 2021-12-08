@@ -1,0 +1,13 @@
+{
+  "asn": 132225,
+  "handle": "CHINATELECOM-QINGHAI-5G-NETWORK",
+  "description": "China Telecom",
+  "subnets": {
+    "ipv4": [
+      "110.166.24.0/22",
+      "110.166.32.0/19",
+      "110.166.124.0/22"
+    ],
+    "ipv6": []
+  }
+}

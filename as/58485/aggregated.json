@@ -1,0 +1,13 @@
+{
+  "asn": 58485,
+  "handle": "WIFIAN-ID",
+  "description": "PT. Wifian Solution",
+  "subnets": {
+    "ipv4": [
+      "103.175.80.0/23",
+      "103.247.21.0/24",
+      "103.247.22.0/23"
+    ],
+    "ipv6": []
+  }
+}

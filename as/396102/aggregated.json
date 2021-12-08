@@ -1,0 +1,11 @@
+{
+  "asn": 396102,
+  "handle": "JACKSONVILLE",
+  "description": "Formativ Health",
+  "subnets": {
+    "ipv4": [
+      "209.220.120.0/24"
+    ],
+    "ipv6": []
+  }
+}

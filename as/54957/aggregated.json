@@ -1,0 +1,12 @@
+{
+  "asn": 54957,
+  "handle": "PVAL-ASN1",
+  "description": "Parallax Volatility Advisers LLC",
+  "subnets": {
+    "ipv4": [
+      "198.162.225.0/24",
+      "198.181.168.0/24"
+    ],
+    "ipv6": []
+  }
+}

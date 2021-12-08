@@ -1,0 +1,13 @@
+{
+  "asn": 132964,
+  "handle": "FIBSOL",
+  "description": "Fibernet Solutions (opc) Pvt. Ltd.",
+  "subnets": {
+    "ipv4": [
+      "103.85.92.0/23",
+      "103.134.248.0/23",
+      "103.159.168.0/23"
+    ],
+    "ipv6": []
+  }
+}

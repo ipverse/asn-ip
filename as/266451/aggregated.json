@@ -1,0 +1,13 @@
+{
+  "asn": 266451,
+  "handle": "ROUTERNET-PROVEDOR-DE",
+  "description": "ROUTERNET PROVEDOR DE ACESSO LTDA ­ ME",
+  "subnets": {
+    "ipv4": [
+      "170.83.24.0/22"
+    ],
+    "ipv6": [
+      "2804:3808::/32"
+    ]
+  }
+}

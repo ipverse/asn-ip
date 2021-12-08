@@ -1,0 +1,13 @@
+{
+  "asn": 269275,
+  "handle": "UNIAO-INTERNET",
+  "description": "União Internet",
+  "subnets": {
+    "ipv4": [
+      "45.182.120.0/22"
+    ],
+    "ipv6": [
+      "2804:6218::/32"
+    ]
+  }
+}

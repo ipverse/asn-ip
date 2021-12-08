@@ -1,0 +1,14 @@
+{
+  "asn": 52601,
+  "handle": "FAXT-TELECOMUNICACOES-LTDA",
+  "description": "FAXT Telecomunicações Ltda.",
+  "subnets": {
+    "ipv4": [
+      "170.83.100.0/22",
+      "177.124.72.0/21"
+    ],
+    "ipv6": [
+      "2804:383c::/32"
+    ]
+  }
+}

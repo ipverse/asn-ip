@@ -1,0 +1,11 @@
+{
+  "asn": 10386,
+  "handle": "IC",
+  "description": "Internet Connections, Inc.",
+  "subnets": {
+    "ipv4": [
+      "209.114.0.0/19"
+    ],
+    "ipv6": []
+  }
+}

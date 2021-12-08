@@ -1,0 +1,13 @@
+{
+  "asn": 209536,
+  "handle": "OTCEX",
+  "description": "OTCEX SA",
+  "subnets": {
+    "ipv4": [
+      "185.65.32.0/22"
+    ],
+    "ipv6": [
+      "2a09:2740::/29"
+    ]
+  }
+}

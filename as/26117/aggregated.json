@@ -1,0 +1,11 @@
+{
+  "asn": 26117,
+  "handle": "UNION-POWER-COOPERATIVE",
+  "description": "Union Power",
+  "subnets": {
+    "ipv4": [
+      "96.10.166.0/24"
+    ],
+    "ipv6": []
+  }
+}

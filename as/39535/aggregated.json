@@ -1,0 +1,14 @@
+{
+  "asn": 39535,
+  "handle": "VOOSERVERS-DE",
+  "description": "Vinters IT Ltd",
+  "subnets": {
+    "ipv4": [
+      "185.183.244.0/22",
+      "185.184.159.0/24"
+    ],
+    "ipv6": [
+      "2a01:6c60:3000::/36"
+    ]
+  }
+}

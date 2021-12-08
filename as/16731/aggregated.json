@@ -1,0 +1,12 @@
+{
+  "asn": 16731,
+  "handle": "ROYAL-BANK-OF-CANADA",
+  "description": "Royal Bank of Canada",
+  "subnets": {
+    "ipv4": [
+      "199.250.9.0/24",
+      "199.250.10.0/23"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 63357,
+  "handle": "APOG-BSC",
+  "description": "Apogee Telecom Inc.",
+  "subnets": {
+    "ipv4": [
+      "100.43.4.0/24",
+      "100.43.10.0/23",
+      "137.220.1.0/24"
+    ],
+    "ipv6": []
+  }
+}

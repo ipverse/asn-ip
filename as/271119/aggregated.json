@@ -1,0 +1,13 @@
+{
+  "asn": 271119,
+  "handle": "LIBRE-TELECOM-EIRELI",
+  "description": "LIBRE TELECOM EIRELI",
+  "subnets": {
+    "ipv4": [
+      "179.48.188.0/22"
+    ],
+    "ipv6": [
+      "2804:768c::/32"
+    ]
+  }
+}

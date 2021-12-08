@@ -1,0 +1,11 @@
+{
+  "asn": 58398,
+  "handle": "INDIKAENERGY-ID",
+  "description": "PT. Indika Energy Tbk",
+  "subnets": {
+    "ipv4": [
+      "103.59.234.0/23"
+    ],
+    "ipv6": []
+  }
+}

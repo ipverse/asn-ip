@@ -1,0 +1,13 @@
+{
+  "asn": 268335,
+  "handle": "ORACLON-TELECOM",
+  "description": "ORACLON TELECOM",
+  "subnets": {
+    "ipv4": [
+      "45.238.100.0/22"
+    ],
+    "ipv6": [
+      "2804:4f90::/32"
+    ]
+  }
+}

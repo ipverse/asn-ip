@@ -1,0 +1,13 @@
+{
+  "asn": 265919,
+  "handle": "BB-HOST",
+  "description": "BB Host",
+  "subnets": {
+    "ipv4": [
+      "131.196.196.0/22"
+    ],
+    "ipv6": [
+      "2804:3fd8::/32"
+    ]
+  }
+}

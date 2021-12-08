@@ -1,0 +1,12 @@
+{
+  "asn": 204521,
+  "handle": "GEUS-GRUPPEN-AB",
+  "description": "Geus Gruppen AB",
+  "subnets": {
+    "ipv4": [
+      "185.168.216.0/23",
+      "185.248.152.0/24"
+    ],
+    "ipv6": []
+  }
+}

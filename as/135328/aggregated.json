@@ -1,0 +1,13 @@
+{
+  "asn": 135328,
+  "handle": "TSL-AP",
+  "description": "TANGELO SERVICES LIMITED",
+  "subnets": {
+    "ipv4": [
+      "103.214.104.0/22"
+    ],
+    "ipv6": [
+      "2404:c480::/32"
+    ]
+  }
+}

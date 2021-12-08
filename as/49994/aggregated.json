@@ -1,0 +1,12 @@
+{
+  "asn": 49994,
+  "handle": "RIC-INFO",
+  "description": "RIC-Info Ltd",
+  "subnets": {
+    "ipv4": [
+      "193.104.69.0/24",
+      "195.210.2.0/23"
+    ],
+    "ipv6": []
+  }
+}

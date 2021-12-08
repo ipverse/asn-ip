@@ -1,0 +1,11 @@
+{
+  "asn": 24320,
+  "handle": "RAILCOM",
+  "description": "RAILCOM",
+  "subnets": {
+    "ipv4": [
+      "202.72.240.0/21"
+    ],
+    "ipv6": []
+  }
+}

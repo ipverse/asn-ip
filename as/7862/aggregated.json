@@ -1,0 +1,15 @@
+{
+  "asn": 7862,
+  "handle": "CHEVRON",
+  "description": "Chevron Corporation",
+  "subnets": {
+    "ipv4": [
+      "144.5.59.0/24",
+      "144.5.224.0/21",
+      "146.23.0.0/16"
+    ],
+    "ipv6": [
+      "2620:16d::/32"
+    ]
+  }
+}

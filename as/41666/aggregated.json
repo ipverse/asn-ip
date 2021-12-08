@@ -1,0 +1,14 @@
+{
+  "asn": 41666,
+  "handle": "PYROCLEANING",
+  "description": "Openfactory GmbH",
+  "subnets": {
+    "ipv4": [
+      "91.216.79.0/24",
+      "205.229.192.0/23"
+    ],
+    "ipv6": [
+      "2a01:20f::/32"
+    ]
+  }
+}

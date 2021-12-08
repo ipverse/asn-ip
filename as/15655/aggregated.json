@@ -1,0 +1,13 @@
+{
+  "asn": 15655,
+  "handle": "ONLAW",
+  "description": "MANZ Solutions GmbH",
+  "subnets": {
+    "ipv4": [
+      "195.182.26.0/24"
+    ],
+    "ipv6": [
+      "2001:67c:2600::/48"
+    ]
+  }
+}

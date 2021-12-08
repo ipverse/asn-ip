@@ -1,0 +1,11 @@
+{
+  "asn": 399525,
+  "handle": "RRW-ASN01",
+  "description": "Rimrock Wireless",
+  "subnets": {
+    "ipv4": [
+      "23.185.176.0/24"
+    ],
+    "ipv6": []
+  }
+}

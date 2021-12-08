@@ -1,0 +1,12 @@
+{
+  "asn": 199440,
+  "handle": "ATBMARKET",
+  "description": "ATB-market LLC",
+  "subnets": {
+    "ipv4": [
+      "80.92.228.0/24",
+      "195.24.141.0/24"
+    ],
+    "ipv6": []
+  }
+}

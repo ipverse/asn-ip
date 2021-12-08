@@ -1,0 +1,13 @@
+{
+  "asn": 52893,
+  "handle": "F1-SOLUTIONS-DESENVOLVIMENTO",
+  "description": "F1-Solutions Desenvolvimento para Web",
+  "subnets": {
+    "ipv4": [
+      "177.37.48.0/20"
+    ],
+    "ipv6": [
+      "2804:a64::/32"
+    ]
+  }
+}

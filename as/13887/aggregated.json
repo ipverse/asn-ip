@@ -1,0 +1,12 @@
+{
+  "asn": 13887,
+  "handle": "RTG-ASN1",
+  "description": "RoomsToGo.com, Inc.",
+  "subnets": {
+    "ipv4": [
+      "97.76.253.0/24",
+      "198.199.255.0/24"
+    ],
+    "ipv6": []
+  }
+}

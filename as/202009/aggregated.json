@@ -1,0 +1,11 @@
+{
+  "asn": 202009,
+  "handle": "TIETORUS",
+  "description": "Tieto Rus LLC",
+  "subnets": {
+    "ipv4": [
+      "185.157.127.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 133376,
+  "handle": "LAZADA-AP",
+  "description": "TRUE INTERNET CORPORATION CO. LTD.",
+  "subnets": {
+    "ipv4": [
+      "110.170.244.0/24",
+      "203.209.121.0/24"
+    ],
+    "ipv6": []
+  }
+}

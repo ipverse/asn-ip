@@ -1,0 +1,12 @@
+{
+  "asn": 21537,
+  "handle": "ENC-01",
+  "description": "Midland Credit Management, Inc.",
+  "subnets": {
+    "ipv4": [
+      "192.112.148.0/24",
+      "204.138.244.0/24"
+    ],
+    "ipv6": []
+  }
+}

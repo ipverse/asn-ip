@@ -1,0 +1,12 @@
+{
+  "asn": 36651,
+  "handle": "CATHOLIC-HEALTHCARE-PARTNERS",
+  "description": "Catholic HealthCare Partners",
+  "subnets": {
+    "ipv4": [
+      "168.250.46.0/24",
+      "168.250.48.0/20"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 8838,
+  "handle": "STRIPE21",
+  "description": "Stripe 21 Group Limited",
+  "subnets": {
+    "ipv4": [
+      "194.50.108.0/24",
+      "212.42.0.0/19"
+    ],
+    "ipv6": [
+      "2a03:8840::/32"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 212539,
+  "handle": "MASALA",
+  "description": "Francesco Masala",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a0e:97c0:3f0::/46",
+      "2a0e:97c0:3f4::/47",
+      "2a0e:97c0:3f6::/48"
+    ]
+  }
+}

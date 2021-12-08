@@ -1,0 +1,13 @@
+{
+  "asn": 54817,
+  "handle": "NIBBLENETWRX",
+  "description": "Nibble Netwrx LLC",
+  "subnets": {
+    "ipv4": [
+      "172.110.188.0/22",
+      "199.119.180.0/23",
+      "208.77.100.0/24"
+    ],
+    "ipv6": []
+  }
+}

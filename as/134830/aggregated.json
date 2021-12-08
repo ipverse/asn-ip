@@ -1,0 +1,11 @@
+{
+  "asn": 134830,
+  "handle": "AIR-STREAM-AP",
+  "description": "Wisper Connect",
+  "subnets": {
+    "ipv4": [
+      "44.136.60.0/24"
+    ],
+    "ipv6": []
+  }
+}

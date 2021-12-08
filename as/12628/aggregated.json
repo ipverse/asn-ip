@@ -1,0 +1,13 @@
+{
+  "asn": 12628,
+  "handle": "SCREAMING-NET",
+  "description": "JACO ENGELBRECHT",
+  "subnets": {
+    "ipv4": [
+      "193.110.180.0/23"
+    ],
+    "ipv6": [
+      "2001:67c:2738::/48"
+    ]
+  }
+}

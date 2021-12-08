@@ -1,0 +1,13 @@
+{
+  "asn": 47578,
+  "handle": "PRT-ANYCAST",
+  "description": "PRT Systems Limited",
+  "subnets": {
+    "ipv4": [
+      "185.109.139.0/24"
+    ],
+    "ipv6": [
+      "2001:1424::/48"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asn": 57234,
+  "handle": "IT-NETWORKS-CHAT",
+  "description": "LLC IT NETWORKS CHAT",
+  "subnets": {
+    "ipv4": [
+      "91.229.52.0/22"
+    ],
+    "ipv6": []
+  }
+}

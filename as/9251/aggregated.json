@@ -1,0 +1,11 @@
+{
+  "asn": 9251,
+  "handle": "SPEEDNET-ID",
+  "description": "PT Speed Internet Digital",
+  "subnets": {
+    "ipv4": [
+      "103.206.240.0/22"
+    ],
+    "ipv6": []
+  }
+}

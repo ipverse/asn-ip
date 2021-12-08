@@ -1,0 +1,13 @@
+{
+  "asn": 267841,
+  "handle": "GIGAS-HOSTING-COLOMBIA-SAS",
+  "description": "GIGAS HOSTING COLOMBIA S.A.S.",
+  "subnets": {
+    "ipv4": [
+      "45.163.29.0/24",
+      "45.163.30.0/24",
+      "170.239.154.0/23"
+    ],
+    "ipv6": []
+  }
+}

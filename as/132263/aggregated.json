@@ -1,0 +1,12 @@
+{
+  "asn": 132263,
+  "handle": "SPORTINGBET-AP",
+  "description": "Sportingbet Australia Pty Ltd",
+  "subnets": {
+    "ipv4": [
+      "122.102.16.0/23",
+      "122.102.19.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 262844,
+  "handle": "TURBONET-PROVEDOR-LTDA",
+  "description": "Turbonet Provedor Ltda",
+  "subnets": {
+    "ipv4": [
+      "187.87.48.0/20"
+    ],
+    "ipv6": [
+      "2804:374::/32"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 135212,
+  "handle": "DIGIWAY-IN",
+  "description": "Digiway Net Pvt Ltd",
+  "subnets": {
+    "ipv4": [
+      "45.252.76.0/23",
+      "45.252.79.0/24",
+      "103.221.76.0/22"
+    ],
+    "ipv6": []
+  }
+}

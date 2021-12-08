@@ -1,0 +1,13 @@
+{
+  "asn": 197519,
+  "handle": "NETSCENARIO",
+  "description": "Visolit Norway AS",
+  "subnets": {
+    "ipv4": [
+      "185.51.232.0/22"
+    ],
+    "ipv6": [
+      "2a00:1f19::/32"
+    ]
+  }
+}

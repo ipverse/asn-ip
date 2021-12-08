@@ -1,0 +1,11 @@
+{
+  "asn": 47073,
+  "handle": "JCPA",
+  "description": "The Jackson Clinic, P.A.",
+  "subnets": {
+    "ipv4": [
+      "192.69.47.0/24"
+    ],
+    "ipv6": []
+  }
+}

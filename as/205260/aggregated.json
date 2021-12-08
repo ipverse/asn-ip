@@ -1,0 +1,13 @@
+{
+  "asn": 205260,
+  "handle": "SMARTPROVIDER",
+  "description": "Consorzio Smartprovider",
+  "subnets": {
+    "ipv4": [
+      "185.223.196.0/22"
+    ],
+    "ipv6": [
+      "2a0c:4c00::/29"
+    ]
+  }
+}

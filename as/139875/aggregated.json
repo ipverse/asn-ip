@@ -1,0 +1,15 @@
+{
+  "asn": 139875,
+  "handle": "NIE-AP",
+  "description": "Noakhali Internet Exchange",
+  "subnets": {
+    "ipv4": [
+      "103.111.13.0/24",
+      "103.146.134.0/24"
+    ],
+    "ipv6": [
+      "2001:df2:6080::/48",
+      "2402:91c0::/32"
+    ]
+  }
+}

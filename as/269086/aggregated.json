@@ -1,0 +1,13 @@
+{
+  "asn": 269086,
+  "handle": "ASSEMBLEIA-LEGISLATIVA-DO",
+  "description": "Assembléia Legislativa do Estado do RS",
+  "subnets": {
+    "ipv4": [
+      "45.179.62.0/23"
+    ],
+    "ipv6": [
+      "2801:80:35c0::/47"
+    ]
+  }
+}

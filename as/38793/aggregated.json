@@ -1,0 +1,13 @@
+{
+  "asn": 38793,
+  "handle": "NZCOMMS-AP",
+  "description": "Two Degrees Mobile Limited",
+  "subnets": {
+    "ipv4": [
+      "118.148.0.0/15"
+    ],
+    "ipv6": [
+      "2405:a400::/32"
+    ]
+  }
+}

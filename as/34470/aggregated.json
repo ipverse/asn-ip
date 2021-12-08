@@ -1,0 +1,11 @@
+{
+  "asn": 34470,
+  "handle": "PTKOM",
+  "description": "PortTelekom LLC",
+  "subnets": {
+    "ipv4": [
+      "85.95.128.0/19"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 1438,
+  "handle": "PIONEER-STATE-MUTUAL-INSURANCE",
+  "description": "PIONEER STATE MUTUAL INSURANCE CO.",
+  "subnets": {
+    "ipv4": [
+      "204.27.249.0/24",
+      "206.197.119.0/24"
+    ],
+    "ipv6": []
+  }
+}

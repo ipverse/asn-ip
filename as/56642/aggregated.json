@@ -1,0 +1,12 @@
+{
+  "asn": 56642,
+  "handle": "BG-ONIX",
+  "description": "TVNET2 Ltd",
+  "subnets": {
+    "ipv4": [
+      "92.118.152.0/22",
+      "185.155.248.0/22"
+    ],
+    "ipv6": []
+  }
+}

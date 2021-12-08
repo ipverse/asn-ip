@@ -1,0 +1,13 @@
+{
+  "asn": 51069,
+  "handle": "ASDNEPRONET",
+  "description": "Dnepronet Ltd.",
+  "subnets": {
+    "ipv4": [
+      "31.129.64.0/19",
+      "178.219.80.0/20",
+      "193.194.108.0/22"
+    ],
+    "ipv6": []
+  }
+}

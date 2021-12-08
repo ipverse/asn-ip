@@ -1,0 +1,14 @@
+{
+  "asn": 268080,
+  "handle": "JMA-PROVEDOR-DE",
+  "description": "JMA PROVEDOR DE INTERNET LTDA - ME",
+  "subnets": {
+    "ipv4": [
+      "45.169.4.0/22",
+      "186.233.103.0/24"
+    ],
+    "ipv6": [
+      "2804:57b0::/32"
+    ]
+  }
+}

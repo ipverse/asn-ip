@@ -1,0 +1,11 @@
+{
+  "asn": 29774,
+  "handle": "POVN",
+  "description": "Pend Oreille Valley Network",
+  "subnets": {
+    "ipv4": [
+      "69.41.128.0/21"
+    ],
+    "ipv6": []
+  }
+}

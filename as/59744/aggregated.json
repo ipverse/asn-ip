@@ -1,0 +1,13 @@
+{
+  "asn": 59744,
+  "handle": "RU-CRIMEANET",
+  "description": "Nemerov Evgeniy Vladimirovish PE",
+  "subnets": {
+    "ipv4": [
+      "178.169.72.0/24",
+      "178.169.78.0/23",
+      "185.26.218.0/23"
+    ],
+    "ipv6": []
+  }
+}

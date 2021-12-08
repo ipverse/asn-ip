@@ -1,0 +1,13 @@
+{
+  "asn": 269396,
+  "handle": "UNIR-TELECOM",
+  "description": "UNIR TELECOM",
+  "subnets": {
+    "ipv4": [
+      "45.184.112.0/22"
+    ],
+    "ipv6": [
+      "2804:63fc::/32"
+    ]
+  }
+}

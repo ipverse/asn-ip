@@ -1,0 +1,12 @@
+{
+  "asn": 55932,
+  "handle": "THAIBMA-AP",
+  "description": "Infonet Thailand",
+  "subnets": {
+    "ipv4": [
+      "119.46.182.0/24",
+      "203.151.159.0/24"
+    ],
+    "ipv6": []
+  }
+}

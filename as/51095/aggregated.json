@@ -1,0 +1,13 @@
+{
+  "asn": 51095,
+  "handle": "E1TURKEY",
+  "description": "EdgeUno, Inc.",
+  "subnets": {
+    "ipv4": [
+      "185.40.106.0/24"
+    ],
+    "ipv6": [
+      "2a0c:e080::/29"
+    ]
+  }
+}

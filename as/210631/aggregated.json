@@ -1,0 +1,13 @@
+{
+  "asn": 210631,
+  "handle": "REMY-MARTIN",
+  "description": "Remy MARTIN",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2602:fc23:140::/44",
+      "2a0e:46c4:2820::/44",
+      "2a0e:b107:1770::/44"
+    ]
+  }
+}

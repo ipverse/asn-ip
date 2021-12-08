@@ -1,0 +1,12 @@
+{
+  "asn": 58343,
+  "handle": "CORE-TELECOMPUTING-SE",
+  "description": "Visolit Sweden AB",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2001:67c:644::/48",
+      "2a02:24a0::/32"
+    ]
+  }
+}

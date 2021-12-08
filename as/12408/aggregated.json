@@ -1,0 +1,11 @@
+{
+  "asn": 12408,
+  "handle": "BIKENT",
+  "description": "LLC Bi-Kent",
+  "subnets": {
+    "ipv4": [
+      "194.15.147.0/24"
+    ],
+    "ipv6": []
+  }
+}

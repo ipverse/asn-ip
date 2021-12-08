@@ -1,0 +1,11 @@
+{
+  "asn": 132686,
+  "handle": "ACS-AP",
+  "description": "Amara Communications",
+  "subnets": {
+    "ipv4": [
+      "103.73.236.0/22"
+    ],
+    "ipv6": []
+  }
+}

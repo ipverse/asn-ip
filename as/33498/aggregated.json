@@ -1,0 +1,12 @@
+{
+  "asn": 33498,
+  "handle": "TALCOTT-RESOLUTION-INSURANCE",
+  "description": "Talcott Resolution Life Insurance Company",
+  "subnets": {
+    "ipv4": [
+      "64.94.24.0/24",
+      "64.94.41.0/24"
+    ],
+    "ipv6": []
+  }
+}

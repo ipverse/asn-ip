@@ -1,0 +1,11 @@
+{
+  "asn": 135350,
+  "handle": "IMMANUEL-AP",
+  "description": "Immanuel College",
+  "subnets": {
+    "ipv4": [
+      "203.26.200.0/23"
+    ],
+    "ipv6": []
+  }
+}

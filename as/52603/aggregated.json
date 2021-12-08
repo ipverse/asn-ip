@@ -1,0 +1,16 @@
+{
+  "asn": 52603,
+  "handle": "SUPPLY-NET-SERVICOS-LTDA-ME",
+  "description": "Supply Net Serviços Ltda - ME",
+  "subnets": {
+    "ipv4": [
+      "168.227.100.0/22",
+      "177.87.180.0/23",
+      "177.87.182.0/24",
+      "201.159.144.0/22"
+    ],
+    "ipv6": [
+      "2804:d24::/32"
+    ]
+  }
+}

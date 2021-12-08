@@ -1,0 +1,14 @@
+{
+  "asn": 269797,
+  "handle": "LOCH-TEL-SRL-GOLOCHTEL",
+  "description": "LOCH TEL SRL (GOLOCHTEL)",
+  "subnets": {
+    "ipv4": [
+      "45.183.184.0/23",
+      "45.183.186.0/24"
+    ],
+    "ipv6": [
+      "2803:b60::/32"
+    ]
+  }
+}

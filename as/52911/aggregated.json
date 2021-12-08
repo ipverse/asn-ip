@@ -1,0 +1,13 @@
+{
+  "asn": 52911,
+  "handle": "NETSTORE-TECNOLOGIA-LTDA",
+  "description": "netstore tecnologia ltda",
+  "subnets": {
+    "ipv4": [
+      "177.23.152.0/21"
+    ],
+    "ipv6": [
+      "2804:ab8::/32"
+    ]
+  }
+}

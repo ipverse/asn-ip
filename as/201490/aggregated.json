@@ -1,0 +1,13 @@
+{
+  "asn": 201490,
+  "handle": "LUX-MSK-VOL",
+  "description": "Luxoft Professional Romania S.R.L.",
+  "subnets": {
+    "ipv4": [
+      "84.47.146.0/24",
+      "85.91.124.0/22",
+      "213.208.171.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 33166,
+  "handle": "BFS-49",
+  "description": "Broadridge Financial Solutions, Inc.",
+  "subnets": {
+    "ipv4": [
+      "167.212.0.0/20",
+      "167.212.40.0/21"
+    ],
+    "ipv6": []
+  }
+}

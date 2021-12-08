@@ -1,0 +1,12 @@
+{
+  "asn": 60302,
+  "handle": "JORDANAHLIBANK",
+  "description": "AL-BANK AL-AHLI AL-URDONI PLC",
+  "subnets": {
+    "ipv4": [
+      "185.33.28.0/23",
+      "185.33.30.0/24"
+    ],
+    "ipv6": []
+  }
+}

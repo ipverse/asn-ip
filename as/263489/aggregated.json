@@ -1,0 +1,14 @@
+{
+  "asn": 263489,
+  "handle": "VELBRAS-PROVEDOR-DE",
+  "description": "Velbras Provedor de Acesso as Redes de Comunicaçõe",
+  "subnets": {
+    "ipv4": [
+      "170.79.44.0/22",
+      "191.243.12.0/22"
+    ],
+    "ipv6": [
+      "2804:12a4:100::/40"
+    ]
+  }
+}

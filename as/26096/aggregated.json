@@ -1,0 +1,12 @@
+{
+  "asn": 26096,
+  "handle": "LODDEN",
+  "description": "Lodden Services",
+  "subnets": {
+    "ipv4": [
+      "198.22.63.0/24",
+      "198.22.66.0/23"
+    ],
+    "ipv6": []
+  }
+}

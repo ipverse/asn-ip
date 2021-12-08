@@ -1,0 +1,11 @@
+{
+  "asn": 38308,
+  "handle": "HAONANYANG-AP",
+  "description": "Aperture Science Limited",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2602:feda:184::/48"
+    ]
+  }
+}

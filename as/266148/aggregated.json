@@ -1,0 +1,13 @@
+{
+  "asn": 266148,
+  "handle": "VERA-CRUZ-ME",
+  "description": "a.s. vera cruz - me",
+  "subnets": {
+    "ipv4": [
+      "201.140.236.0/22"
+    ],
+    "ipv6": [
+      "2804:3b6c::/32"
+    ]
+  }
+}

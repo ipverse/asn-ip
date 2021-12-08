@@ -1,0 +1,13 @@
+{
+  "asn": 46312,
+  "handle": "WAL-MART3",
+  "description": "Wal-Mart Stores, Inc.",
+  "subnets": {
+    "ipv4": [
+      "161.170.126.0/24",
+      "161.170.230.0/23",
+      "161.170.238.0/24"
+    ],
+    "ipv6": []
+  }
+}

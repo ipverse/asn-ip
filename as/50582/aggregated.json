@@ -1,0 +1,15 @@
+{
+  "asn": 50582,
+  "handle": "NO-BENTOYSTEIN",
+  "description": "Bent Oystein Bostad",
+  "subnets": {
+    "ipv4": [
+      "91.218.22.0/24",
+      "193.105.112.0/24"
+    ],
+    "ipv6": [
+      "2a07:e140::/29",
+      "2a0b:1040::/29"
+    ]
+  }
+}

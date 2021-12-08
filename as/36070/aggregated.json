@@ -1,0 +1,12 @@
+{
+  "asn": 36070,
+  "handle": "NCHCORP",
+  "description": "NCH Corporation",
+  "subnets": {
+    "ipv4": [
+      "216.110.25.0/24",
+      "216.110.26.0/24"
+    ],
+    "ipv6": []
+  }
+}

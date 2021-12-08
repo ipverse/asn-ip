@@ -1,0 +1,12 @@
+{
+  "asn": 13945,
+  "handle": "PRISMTECHNOLOGIESABQ",
+  "description": "PRISM Technologies",
+  "subnets": {
+    "ipv4": [
+      "151.193.100.0/22",
+      "151.193.122.0/23"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "asn": 269582,
+  "handle": "DIO-SERVICOS-DE",
+  "description": "DIO SERVIÇOS DE COMUNICAÇAO MULTIMIDIA LTDA-ME",
+  "subnets": {
+    "ipv4": [
+      "45.189.120.0/23",
+      "45.189.123.0/24"
+    ],
+    "ipv6": [
+      "2804:66c8::/33",
+      "2804:66c8:c000::/34"
+    ]
+  }
+}

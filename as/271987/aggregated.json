@@ -1,0 +1,11 @@
+{
+  "asn": 271987,
+  "handle": "ACTEL-SRL",
+  "description": "ACTEL SRL",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2803:2110::/32"
+    ]
+  }
+}

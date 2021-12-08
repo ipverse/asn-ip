@@ -1,0 +1,13 @@
+{
+  "asn": 266764,
+  "handle": "TERAN-JORGE-LUIS-SOCIAL-DATOS",
+  "description": "TERAN JORGE LUIS (Social Datos)",
+  "subnets": {
+    "ipv4": [
+      "45.234.180.0/22"
+    ],
+    "ipv6": [
+      "2803:f720::/32"
+    ]
+  }
+}

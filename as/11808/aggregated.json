@@ -1,0 +1,11 @@
+{
+  "asn": 11808,
+  "handle": "UIDAHO",
+  "description": "University of Idaho",
+  "subnets": {
+    "ipv4": [
+      "129.101.0.0/16"
+    ],
+    "ipv6": []
+  }
+}

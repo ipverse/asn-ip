@@ -1,0 +1,11 @@
+{
+  "asn": 52412,
+  "handle": "BW-TELECOM",
+  "description": "BW TELECOM",
+  "subnets": {
+    "ipv4": [
+      "181.224.204.0/22"
+    ],
+    "ipv6": []
+  }
+}

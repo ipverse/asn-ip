@@ -1,0 +1,13 @@
+{
+  "asn": 207335,
+  "handle": "I-COMMUNITY",
+  "description": "i-Community AG",
+  "subnets": {
+    "ipv4": [
+      "185.106.133.0/24"
+    ],
+    "ipv6": [
+      "2a10:1380::/29"
+    ]
+  }
+}

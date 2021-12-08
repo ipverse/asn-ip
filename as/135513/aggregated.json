@@ -1,0 +1,12 @@
+{
+  "asn": 135513,
+  "handle": "ANTTEL-AP",
+  "description": "Spirit Telecom (Australia) Pty Ltd",
+  "subnets": {
+    "ipv4": [
+      "43.252.124.0/22",
+      "103.9.52.0/22"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 328255,
+  "handle": "INFRAPLEX",
+  "description": "Infraplex (Pty) Ltd",
+  "subnets": {
+    "ipv4": [
+      "160.226.180.0/22"
+    ],
+    "ipv6": [
+      "2c0f:1100::/32"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 30395,
+  "handle": "SAHS",
+  "description": "SWEDISH AMERICAN HEALTH SYSTEM",
+  "subnets": {
+    "ipv4": [
+      "50.220.4.0/22",
+      "209.94.50.0/24"
+    ],
+    "ipv6": []
+  }
+}

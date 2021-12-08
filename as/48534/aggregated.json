@@ -1,0 +1,13 @@
+{
+  "asn": 48534,
+  "handle": "GUS",
+  "description": "Centrum Informatyki Statystycznej",
+  "subnets": {
+    "ipv4": [
+      "194.165.48.0/24"
+    ],
+    "ipv6": [
+      "2001:678:5c4::/48"
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 141518,
+  "handle": "SUBHOST-IN",
+  "description": "Subhosting Innovations Pvt Ltd",
+  "subnets": {
+    "ipv4": [
+      "66.154.14.0/24",
+      "69.61.26.0/24",
+      "69.61.32.0/24",
+      "103.160.192.0/24"
+    ],
+    "ipv6": []
+  }
+}

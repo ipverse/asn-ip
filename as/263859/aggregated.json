@@ -1,0 +1,13 @@
+{
+  "asn": 263859,
+  "handle": "PREFEITURA-MUNICIPAL-DE",
+  "description": "Prefeitura Municipal de Parauapebas",
+  "subnets": {
+    "ipv4": [
+      "200.9.67.0/24"
+    ],
+    "ipv6": [
+      "2801:80:1280::/48"
+    ]
+  }
+}

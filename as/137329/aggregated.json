@@ -1,0 +1,14 @@
+{
+  "asn": 137329,
+  "handle": "ALDM-ID",
+  "description": "PT. ARTHA LINTAS DATA MANDIRI",
+  "subnets": {
+    "ipv4": [
+      "103.98.116.0/22",
+      "103.106.216.0/22"
+    ],
+    "ipv6": [
+      "2402:4840::/32"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 134232,
+  "handle": "SACOFA-AP",
+  "description": "SACOFA Sdn. Bhd.",
+  "subnets": {
+    "ipv4": [
+      "103.60.24.0/22"
+    ],
+    "ipv6": [
+      "2402:c780::/32"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asn": 60244,
+  "handle": "DK-SOSI",
+  "description": "SOS International A/S",
+  "subnets": {
+    "ipv4": [
+      "185.27.0.0/22"
+    ],
+    "ipv6": []
+  }
+}

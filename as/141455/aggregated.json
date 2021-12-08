@@ -1,0 +1,12 @@
+{
+  "asn": 141455,
+  "handle": "JETSIPPTYLTD-AP",
+  "description": "Jetsip Pty Ltd",
+  "subnets": {
+    "ipv4": [
+      "103.93.69.0/24",
+      "103.160.10.0/24"
+    ],
+    "ipv6": []
+  }
+}

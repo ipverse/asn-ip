@@ -1,0 +1,11 @@
+{
+  "asn": 55516,
+  "handle": "UCOL-AP",
+  "description": "Universal College of Learning",
+  "subnets": {
+    "ipv4": [
+      "202.36.96.0/21"
+    ],
+    "ipv6": []
+  }
+}

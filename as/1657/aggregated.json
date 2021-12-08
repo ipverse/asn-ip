@@ -1,0 +1,13 @@
+{
+  "asn": 1657,
+  "handle": "LOUISVILLE",
+  "description": "University of Louisville",
+  "subnets": {
+    "ipv4": [
+      "136.165.0.0/16"
+    ],
+    "ipv6": [
+      "2610:1e0:1800::/48"
+    ]
+  }
+}

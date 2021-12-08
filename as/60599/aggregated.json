@@ -1,0 +1,12 @@
+{
+  "asn": 60599,
+  "handle": "WEBKOMPAS",
+  "description": "KOMPAS TELECOM Ltd",
+  "subnets": {
+    "ipv4": [
+      "185.29.52.0/22",
+      "193.3.42.0/24"
+    ],
+    "ipv6": []
+  }
+}

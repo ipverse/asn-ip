@@ -1,0 +1,14 @@
+{
+  "asn": 26327,
+  "handle": "HIGHLANDS-CABLE",
+  "description": "Highlands Cable Group",
+  "subnets": {
+    "ipv4": [
+      "104.219.80.0/21",
+      "173.246.218.0/23",
+      "173.246.220.0/23",
+      "209.209.20.0/22"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asn": 268935,
+  "handle": "VIBENET-TELECOM",
+  "description": "VibeNet Telecom",
+  "subnets": {
+    "ipv4": [
+      "45.176.64.0/22"
+    ],
+    "ipv6": []
+  }
+}

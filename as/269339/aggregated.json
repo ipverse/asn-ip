@@ -1,0 +1,13 @@
+{
+  "asn": 269339,
+  "handle": "CONEXAO-WEB-TELECOM-LTDA",
+  "description": "CONEXAO WEB TELECOM LTDA",
+  "subnets": {
+    "ipv4": [
+      "45.182.96.0/22"
+    ],
+    "ipv6": [
+      "2804:631c::/32"
+    ]
+  }
+}

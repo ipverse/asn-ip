@@ -1,0 +1,12 @@
+{
+  "asn": 213094,
+  "handle": "FULLFIBRE",
+  "description": "Full Fibre Limited",
+  "subnets": {
+    "ipv4": [
+      "94.103.240.0/22",
+      "185.238.100.0/22"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 268098,
+  "handle": "BRASIL-INFORMATICA-LTDA-EPP",
+  "description": "BRASIL INFORMATICA LTDA EPP",
+  "subnets": {
+    "ipv4": [
+      "45.169.64.0/22"
+    ],
+    "ipv6": [
+      "2804:57f8::/32"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asn": 140324,
+  "handle": "ACSPPL-AP",
+  "description": "Airlink Communication Service Provider Pvt. Ltd.",
+  "subnets": {
+    "ipv4": [
+      "103.149.205.0/24"
+    ],
+    "ipv6": []
+  }
+}

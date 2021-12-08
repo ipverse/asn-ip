@@ -1,0 +1,12 @@
+{
+  "asn": 396906,
+  "handle": "ATG",
+  "description": "Accretive Networks",
+  "subnets": {
+    "ipv4": [
+      "207.66.240.0/22",
+      "207.66.254.0/24"
+    ],
+    "ipv6": []
+  }
+}

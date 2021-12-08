@@ -1,0 +1,13 @@
+{
+  "asn": 264538,
+  "handle": "LIGNET-TELECOMUNICACOES",
+  "description": "LIGNET TELECOMUNICAÇÕES",
+  "subnets": {
+    "ipv4": [
+      "132.255.240.0/22"
+    ],
+    "ipv6": [
+      "2804:2124::/32"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 15463,
+  "handle": "NETWORKI",
+  "description": "Virtustream UK Ltd",
+  "subnets": {
+    "ipv4": [
+      "212.21.96.0/19",
+      "212.46.128.0/19",
+      "217.118.128.0/20"
+    ],
+    "ipv6": []
+  }
+}

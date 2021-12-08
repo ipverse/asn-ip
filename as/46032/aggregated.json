@@ -1,0 +1,13 @@
+{
+  "asn": 46032,
+  "handle": "GLOBENET-ID",
+  "description": "PT Fastel Sarana Indonesia",
+  "subnets": {
+    "ipv4": [
+      "103.148.110.0/23",
+      "118.151.220.0/23",
+      "118.151.222.0/24"
+    ],
+    "ipv6": []
+  }
+}

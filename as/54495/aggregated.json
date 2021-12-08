@@ -1,0 +1,13 @@
+{
+  "asn": 54495,
+  "handle": "BYTESPUR",
+  "description": "Bytespur Corporation",
+  "subnets": {
+    "ipv4": [
+      "168.245.137.0/24"
+    ],
+    "ipv6": [
+      "2620:40:a000::/48"
+    ]
+  }
+}

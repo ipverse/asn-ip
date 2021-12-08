@@ -1,0 +1,15 @@
+{
+  "asn": 17044,
+  "handle": "IPGAGENCY",
+  "description": "The Interpublic Group of Companies, Inc.",
+  "subnets": {
+    "ipv4": [
+      "170.200.74.0/23",
+      "170.200.76.0/24",
+      "170.200.78.0/24",
+      "170.200.92.0/24",
+      "205.153.104.0/24"
+    ],
+    "ipv6": []
+  }
+}

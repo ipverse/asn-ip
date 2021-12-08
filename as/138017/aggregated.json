@@ -1,0 +1,11 @@
+{
+  "asn": 138017,
+  "handle": "ABBNET-AP",
+  "description": "Abbotsleigh School",
+  "subnets": {
+    "ipv4": [
+      "103.119.253.0/24"
+    ],
+    "ipv6": []
+  }
+}

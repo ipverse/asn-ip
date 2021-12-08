@@ -1,0 +1,12 @@
+{
+  "asn": 139884,
+  "handle": "AGPL-AP",
+  "description": "Apeiron Global Pvt. Ltd.",
+  "subnets": {
+    "ipv4": [
+      "103.136.40.0/23",
+      "103.136.42.0/24"
+    ],
+    "ipv6": []
+  }
+}

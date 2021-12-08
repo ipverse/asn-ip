@@ -1,0 +1,14 @@
+{
+  "asn": 262883,
+  "handle": "RASCHE-STEFENON-LTDA",
+  "description": "Rasche \u0026 Stefenon ltda - AlfaNetwork",
+  "subnets": {
+    "ipv4": [
+      "138.99.20.0/22",
+      "177.22.0.0/20"
+    ],
+    "ipv6": [
+      "2804:2324::/32"
+    ]
+  }
+}

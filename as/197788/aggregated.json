@@ -1,0 +1,12 @@
+{
+  "asn": 197788,
+  "handle": "MONEXT",
+  "description": "MONEXT SAS",
+  "subnets": {
+    "ipv4": [
+      "31.210.4.0/23",
+      "31.210.6.0/24"
+    ],
+    "ipv6": []
+  }
+}

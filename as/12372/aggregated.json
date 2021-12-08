@@ -1,0 +1,13 @@
+{
+  "asn": 12372,
+  "handle": "CUBIC-TELECOM",
+  "description": "Cubic Telecom Limited",
+  "subnets": {
+    "ipv4": [
+      "185.114.16.0/22"
+    ],
+    "ipv6": [
+      "2a0b:39c0:1000::/43"
+    ]
+  }
+}

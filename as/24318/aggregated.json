@@ -1,0 +1,13 @@
+{
+  "asn": 24318,
+  "handle": "MINEDU-NZ-AP",
+  "description": "Vital Data Ltd",
+  "subnets": {
+    "ipv4": [
+      "103.119.168.0/23",
+      "192.105.10.0/24",
+      "202.37.32.0/21"
+    ],
+    "ipv6": []
+  }
+}

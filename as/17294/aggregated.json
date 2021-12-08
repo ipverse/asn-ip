@@ -1,0 +1,13 @@
+{
+  "asn": 17294,
+  "handle": "CARL-CORPORATION",
+  "description": "CARL Corporation",
+  "subnets": {
+    "ipv4": [
+      "192.54.81.0/24",
+      "192.207.26.0/24",
+      "198.59.88.0/24"
+    ],
+    "ipv6": []
+  }
+}

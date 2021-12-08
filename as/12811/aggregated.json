@@ -1,0 +1,12 @@
+{
+  "asn": 12811,
+  "handle": "GIE-AUCHAN-INTERNATIONAL",
+  "description": "GIE Auchan International Technology",
+  "subnets": {
+    "ipv4": [
+      "193.239.198.0/23",
+      "193.239.240.0/23"
+    ],
+    "ipv6": []
+  }
+}

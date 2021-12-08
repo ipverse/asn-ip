@@ -1,0 +1,12 @@
+{
+  "asn": 132722,
+  "handle": "ITL-AP",
+  "description": "Intellium Technology Limited",
+  "subnets": {
+    "ipv4": [
+      "103.19.100.0/23",
+      "103.19.103.0/24"
+    ],
+    "ipv6": []
+  }
+}

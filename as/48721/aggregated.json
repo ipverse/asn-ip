@@ -1,0 +1,13 @@
+{
+  "asn": 48721,
+  "handle": "ADM-SERVICE",
+  "description": "ADM Service Ltd.",
+  "subnets": {
+    "ipv4": [
+      "194.165.16.0/23"
+    ],
+    "ipv6": [
+      "2a10:9100:3::/48"
+    ]
+  }
+}

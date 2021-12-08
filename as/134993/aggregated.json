@@ -1,0 +1,14 @@
+{
+  "asn": 134993,
+  "handle": "ILEMONRAIN-AP",
+  "description": "Ningbo Dahuamao Information Technology Co Ltd",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2406:840:fd00::/48",
+      "2406:840:fd02::/48",
+      "2406:840:fd07::/48",
+      "2406:840:fd10::/48"
+    ]
+  }
+}

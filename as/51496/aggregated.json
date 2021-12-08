@@ -1,0 +1,13 @@
+{
+  "asn": 51496,
+  "handle": "ADVAOPTICAL-MUC",
+  "description": "ADVA AG Optical Networking",
+  "subnets": {
+    "ipv4": [
+      "91.217.199.0/24"
+    ],
+    "ipv6": [
+      "2001:67c:13d4::/48"
+    ]
+  }
+}

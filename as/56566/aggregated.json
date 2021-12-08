@@ -1,0 +1,13 @@
+{
+  "asn": 56566,
+  "handle": "SATT",
+  "description": "SATT a.s.",
+  "subnets": {
+    "ipv4": [
+      "31.31.224.0/19"
+    ],
+    "ipv6": [
+      "2a00:de00::/32"
+    ]
+  }
+}

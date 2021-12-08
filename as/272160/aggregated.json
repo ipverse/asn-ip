@@ -1,0 +1,13 @@
+{
+  "asn": 272160,
+  "handle": "VILA-LINK-TELECOMUNICACOES",
+  "description": "VILA LINK TELECOMUNICACOES EIRELI",
+  "subnets": {
+    "ipv4": [
+      "181.214.220.0/24"
+    ],
+    "ipv6": [
+      "2804:82d8::/32"
+    ]
+  }
+}

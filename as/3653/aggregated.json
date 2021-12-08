@@ -1,0 +1,13 @@
+{
+  "asn": 3653,
+  "handle": "HBAL-2",
+  "description": "House of Ben Avraham LLC",
+  "subnets": {
+    "ipv4": [
+      "193.149.148.0/23"
+    ],
+    "ipv6": [
+      "2602:fc2d::/36"
+    ]
+  }
+}

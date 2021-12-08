@@ -1,0 +1,13 @@
+{
+  "asn": 61864,
+  "handle": "NETVISION-TELECOM-LTDA-ME",
+  "description": "NETVISION TELECOM LTDA - ME",
+  "subnets": {
+    "ipv4": [
+      "201.148.160.0/22"
+    ],
+    "ipv6": [
+      "2804:1a88::/32"
+    ]
+  }
+}

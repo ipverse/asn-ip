@@ -1,0 +1,13 @@
+{
+  "asn": 30324,
+  "handle": "SASKENER",
+  "description": "SaskEnergy Inc.",
+  "subnets": {
+    "ipv4": [
+      "204.83.21.0/24",
+      "204.83.22.0/23",
+      "204.83.24.0/24"
+    ],
+    "ipv6": []
+  }
+}

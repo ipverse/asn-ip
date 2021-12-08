@@ -1,0 +1,13 @@
+{
+  "asn": 266200,
+  "handle": "E2NET-TELECOMUNICACOES-LTDA",
+  "description": "E2NET TELECOMUNICAÇOES - LTDA",
+  "subnets": {
+    "ipv4": [
+      "160.20.180.0/22"
+    ],
+    "ipv6": [
+      "2804:3c44::/32"
+    ]
+  }
+}

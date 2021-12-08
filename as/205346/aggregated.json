@@ -1,0 +1,11 @@
+{
+  "asn": 205346,
+  "handle": "EANS",
+  "description": "Estonian Air Navigation Services AS",
+  "subnets": {
+    "ipv4": [
+      "185.97.36.0/23"
+    ],
+    "ipv6": []
+  }
+}

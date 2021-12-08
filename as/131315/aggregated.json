@@ -1,0 +1,11 @@
+{
+  "asn": 131315,
+  "handle": "RACP-AU",
+  "description": "The Royal Australasian College of Physicians",
+  "subnets": {
+    "ipv4": [
+      "103.4.120.0/24"
+    ],
+    "ipv6": []
+  }
+}

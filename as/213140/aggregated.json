@@ -1,0 +1,13 @@
+{
+  "asn": 213140,
+  "handle": "SALT-SOLUTIONS",
+  "description": "SALT Solutions GmbH",
+  "subnets": {
+    "ipv4": [
+      "185.65.78.0/24"
+    ],
+    "ipv6": [
+      "2a10:380::/29"
+    ]
+  }
+}

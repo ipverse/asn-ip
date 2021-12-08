@@ -1,0 +1,11 @@
+{
+  "asn": 34829,
+  "handle": "NAUKAVIDNOE",
+  "description": "LLC Nauka-Svyaz",
+  "subnets": {
+    "ipv4": [
+      "213.135.88.0/22"
+    ],
+    "ipv6": []
+  }
+}

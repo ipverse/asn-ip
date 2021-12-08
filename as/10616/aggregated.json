@@ -1,0 +1,13 @@
+{
+  "asn": 10616,
+  "handle": "NTIS",
+  "description": "National Technical Information Service",
+  "subnets": {
+    "ipv4": [
+      "204.193.224.0/21"
+    ],
+    "ipv6": [
+      "2610:20:1000::/40"
+    ]
+  }
+}

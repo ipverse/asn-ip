@@ -1,0 +1,15 @@
+{
+  "asn": 271399,
+  "handle": "SGPIEDADENET-PROVEDOR-DE",
+  "description": "SGPIEDADENET-PROVEDOR DE INTERNET LTDA - ME",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2804:7ae8::/46",
+      "2804:7ae8:4::/48",
+      "2804:7ae8:10::/48",
+      "2804:7ae8:16::/48",
+      "2804:7ae8:20::/46"
+    ]
+  }
+}

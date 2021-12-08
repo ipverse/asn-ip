@@ -1,0 +1,12 @@
+{
+  "asn": 25601,
+  "handle": "FOWLERVILLE",
+  "description": "FreedomNet",
+  "subnets": {
+    "ipv4": [
+      "168.235.210.0/23",
+      "207.174.240.0/20"
+    ],
+    "ipv6": []
+  }
+}

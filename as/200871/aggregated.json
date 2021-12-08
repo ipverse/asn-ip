@@ -1,0 +1,13 @@
+{
+  "asn": 200871,
+  "handle": "FTECH",
+  "description": "ftech AB",
+  "subnets": {
+    "ipv4": [
+      "194.68.51.0/24"
+    ],
+    "ipv6": [
+      "2001:67c:2e54::/48"
+    ]
+  }
+}

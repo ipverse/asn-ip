@@ -1,0 +1,12 @@
+{
+  "asn": 135076,
+  "handle": "INFOCOMLIMITED-AP",
+  "description": "INFOCOM LIMITED",
+  "subnets": {
+    "ipv4": [
+      "103.208.180.0/22",
+      "137.59.180.0/22"
+    ],
+    "ipv6": []
+  }
+}

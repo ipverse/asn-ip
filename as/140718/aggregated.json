@@ -1,0 +1,13 @@
+{
+  "asn": 140718,
+  "handle": "EPI-AP",
+  "description": "ENGIE PACIFIQUE INFORMATIQUE",
+  "subnets": {
+    "ipv4": [
+      "103.152.32.0/24"
+    ],
+    "ipv6": [
+      "2001:df3:f380::/48"
+    ]
+  }
+}

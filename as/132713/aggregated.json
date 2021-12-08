@@ -1,0 +1,11 @@
+{
+  "asn": 132713,
+  "handle": "VIRGIN-AP",
+  "description": "Virgin Australia Airlines Pty Ltd",
+  "subnets": {
+    "ipv4": [
+      "103.18.154.0/24"
+    ],
+    "ipv6": []
+  }
+}

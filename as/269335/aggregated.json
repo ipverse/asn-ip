@@ -1,0 +1,13 @@
+{
+  "asn": 269335,
+  "handle": "SUPORT-TELECOM-LTDA",
+  "description": "SUPORT TELECOM LTDA",
+  "subnets": {
+    "ipv4": [
+      "45.184.96.0/22"
+    ],
+    "ipv6": [
+      "2804:630c::/32"
+    ]
+  }
+}

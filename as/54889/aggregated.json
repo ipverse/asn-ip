@@ -1,0 +1,12 @@
+{
+  "asn": 54889,
+  "handle": "ASCENT-NETWORKS-INC",
+  "description": "Ascent Networks Inc",
+  "subnets": {
+    "ipv4": [
+      "158.51.228.0/22",
+      "162.212.20.0/22"
+    ],
+    "ipv6": []
+  }
+}

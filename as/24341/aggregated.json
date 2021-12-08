@@ -1,0 +1,13 @@
+{
+  "asn": 24341,
+  "handle": "AID-NET-AP",
+  "description": "All Interactive Distribution",
+  "subnets": {
+    "ipv4": [
+      "180.178.120.0/22"
+    ],
+    "ipv6": [
+      "2401:8180::/32"
+    ]
+  }
+}

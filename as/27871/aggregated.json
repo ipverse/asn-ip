@@ -1,0 +1,11 @@
+{
+  "asn": 27871,
+  "handle": "TELECOM-ARGENTINA-SA",
+  "description": "Telecom Argentina S.A.",
+  "subnets": {
+    "ipv4": [
+      "200.110.226.0/23"
+    ],
+    "ipv6": []
+  }
+}

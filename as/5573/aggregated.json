@@ -1,0 +1,11 @@
+{
+  "asn": 5573,
+  "handle": "KRASNET",
+  "description": "PJSC Rostelecom",
+  "subnets": {
+    "ipv4": [
+      "195.112.224.0/19"
+    ],
+    "ipv6": []
+  }
+}

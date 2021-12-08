@@ -1,0 +1,11 @@
+{
+  "asn": 140469,
+  "handle": "WANET-ID",
+  "description": "PT Wahyu Adidaya Network",
+  "subnets": {
+    "ipv4": [
+      "103.153.190.0/23"
+    ],
+    "ipv6": []
+  }
+}

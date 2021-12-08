@@ -1,0 +1,13 @@
+{
+  "asn": 264895,
+  "handle": "TRIBUNAL-REGIONAL-DO",
+  "description": "TRIBUNAL REGIONAL DO TRABALHO DA 20A. REGIAO",
+  "subnets": {
+    "ipv4": [
+      "200.23.31.0/24"
+    ],
+    "ipv6": [
+      "2801:80:16f0::/48"
+    ]
+  }
+}

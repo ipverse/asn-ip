@@ -1,0 +1,11 @@
+{
+  "asn": 132678,
+  "handle": "IDNIC-UNEJ-ID",
+  "description": "Universitas Jember",
+  "subnets": {
+    "ipv4": [
+      "103.241.204.0/22"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 28886,
+  "handle": "RETN-LV",
+  "description": "RETN Baltic SIA",
+  "subnets": {
+    "ipv4": [
+      "217.28.48.0/20"
+    ],
+    "ipv6": [
+      "2a02:2880::/32"
+    ]
+  }
+}

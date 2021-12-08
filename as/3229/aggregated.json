@@ -1,0 +1,12 @@
+{
+  "asn": 3229,
+  "handle": "INTEK",
+  "description": "Intek Ltd.",
+  "subnets": {
+    "ipv4": [
+      "95.47.252.0/24",
+      "193.233.172.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "asn": 51615,
+  "handle": "KATENG",
+  "description": "Zavod Kabelska televizija Nova gorica",
+  "subnets": {
+    "ipv4": [
+      "46.54.128.0/18",
+      "46.54.192.0/19",
+      "46.54.224.0/20"
+    ],
+    "ipv6": [
+      "2a02:2590::/32"
+    ]
+  }
+}

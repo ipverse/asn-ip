@@ -1,0 +1,13 @@
+{
+  "asn": 270857,
+  "handle": "GF-SERVICOS-DE",
+  "description": "G.F. SERVICOS DE COMUNICACAO LTDA",
+  "subnets": {
+    "ipv4": [
+      "132.255.128.0/22"
+    ],
+    "ipv6": [
+      "2804:7280::/33"
+    ]
+  }
+}

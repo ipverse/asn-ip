@@ -1,0 +1,13 @@
+{
+  "asn": 268699,
+  "handle": "SOLPTEC-TELECOM",
+  "description": "SOLPTEC TELECOM",
+  "subnets": {
+    "ipv4": [
+      "45.165.120.0/22"
+    ],
+    "ipv6": [
+      "2804:5544::/32"
+    ]
+  }
+}

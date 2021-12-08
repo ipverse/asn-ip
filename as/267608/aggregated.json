@@ -1,0 +1,13 @@
+{
+  "asn": 267608,
+  "handle": "MICHELETO-INTERNET-EIRELI",
+  "description": "Micheleto Internet Eireli",
+  "subnets": {
+    "ipv4": [
+      "45.71.128.0/22"
+    ],
+    "ipv6": [
+      "2804:4430::/32"
+    ]
+  }
+}

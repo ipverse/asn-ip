@@ -1,0 +1,13 @@
+{
+  "asn": 271951,
+  "handle": "IT-PRONETWORK-CA",
+  "description": "IT PRONETWORK C.A.",
+  "subnets": {
+    "ipv4": [
+      "206.162.245.0/24"
+    ],
+    "ipv6": [
+      "2803:3610::/32"
+    ]
+  }
+}

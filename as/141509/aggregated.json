@@ -1,0 +1,11 @@
+{
+  "asn": 141509,
+  "handle": "UTEL-IN",
+  "description": "Uteleservices",
+  "subnets": {
+    "ipv4": [
+      "103.160.216.0/23"
+    ],
+    "ipv6": []
+  }
+}

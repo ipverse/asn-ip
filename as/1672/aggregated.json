@@ -1,0 +1,11 @@
+{
+  "asn": 1672,
+  "handle": "ANS-CHICAGO",
+  "description": "ANS Communications",
+  "subnets": {
+    "ipv4": [
+      "165.122.48.0/20"
+    ],
+    "ipv6": []
+  }
+}

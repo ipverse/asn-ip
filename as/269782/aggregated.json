@@ -1,0 +1,13 @@
+{
+  "asn": 269782,
+  "handle": "NETWORK-SPEED-CA",
+  "description": "NETWORK SPEED C.A",
+  "subnets": {
+    "ipv4": [
+      "45.184.248.0/22"
+    ],
+    "ipv6": [
+      "2803:2360::/32"
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 136003,
+  "handle": "INTERNETFACTORY-AP",
+  "description": "Internet Factory",
+  "subnets": {
+    "ipv4": [
+      "103.134.36.0/23"
+    ],
+    "ipv6": [
+      "2404:5c40::/48",
+      "2404:5c40:5::/48"
+    ]
+  }
+}

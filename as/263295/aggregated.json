@@ -1,0 +1,13 @@
+{
+  "asn": 263295,
+  "handle": "SETA-MICROS-LTDA",
+  "description": "Seta Micros Ltda",
+  "subnets": {
+    "ipv4": [
+      "177.91.140.0/22"
+    ],
+    "ipv6": [
+      "2804:1698::/32"
+    ]
+  }
+}

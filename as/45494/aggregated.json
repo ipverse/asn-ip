@@ -1,0 +1,13 @@
+{
+  "asn": 45494,
+  "handle": "LAHAI-SG",
+  "description": "Nepal R\u0026E Network",
+  "subnets": {
+    "ipv4": [
+      "202.6.102.0/24"
+    ],
+    "ipv6": [
+      "2001:dd8:25::/48"
+    ]
+  }
+}

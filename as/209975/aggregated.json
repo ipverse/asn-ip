@@ -1,0 +1,13 @@
+{
+  "asn": 209975,
+  "handle": "INCA",
+  "description": "Edward Campbell trading as INCA",
+  "subnets": {
+    "ipv4": [
+      "212.60.8.0/22"
+    ],
+    "ipv6": [
+      "2a09:800::/29"
+    ]
+  }
+}

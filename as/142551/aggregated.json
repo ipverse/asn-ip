@@ -1,0 +1,14 @@
+{
+  "asn": 142551,
+  "handle": "LAPISBLUE27-AP",
+  "description": "LSHIY Network Technology Limited",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2404:f4c0:f941::/48",
+      "2404:f4c0:f948::/48",
+      "2404:f4c0:f94b::/48",
+      "2404:f4c0:f94c::/48"
+    ]
+  }
+}

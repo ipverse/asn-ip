@@ -1,0 +1,13 @@
+{
+  "asn": 26229,
+  "handle": "US-SEC",
+  "description": "U.S. Securities \u0026 Exchange Commission",
+  "subnets": {
+    "ipv4": [
+      "162.138.0.0/16"
+    ],
+    "ipv6": [
+      "2602:80b:8011::/48"
+    ]
+  }
+}

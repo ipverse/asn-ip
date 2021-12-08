@@ -1,0 +1,13 @@
+{
+  "asn": 211007,
+  "handle": "NETZLEIPZIG",
+  "description": "Netz Leipzig GmbH",
+  "subnets": {
+    "ipv4": [
+      "212.6.40.0/24"
+    ],
+    "ipv6": [
+      "2a10:1f40::/29"
+    ]
+  }
+}

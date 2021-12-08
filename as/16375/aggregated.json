@@ -1,0 +1,13 @@
+{
+  "asn": 16375,
+  "handle": "HARTELIUS",
+  "description": "Henrik Hartelius",
+  "subnets": {
+    "ipv4": [
+      "194.68.191.0/24"
+    ],
+    "ipv6": [
+      "2001:67c:2568::/48"
+    ]
+  }
+}

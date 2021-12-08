@@ -1,0 +1,12 @@
+{
+  "asn": 201520,
+  "handle": "DEDICATEDTELECOM",
+  "description": "Dedicated Telekomunikasyon Teknoloji Hiz. Tic. San. LTD. STI.",
+  "subnets": {
+    "ipv4": [
+      "185.15.196.0/22",
+      "185.95.0.0/22"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 11522,
+  "handle": "SUD-WIREDAS",
+  "description": "Greater Sudbury Telecommunications Inc.",
+  "subnets": {
+    "ipv4": [
+      "192.94.49.0/24",
+      "216.223.64.0/18"
+    ],
+    "ipv6": []
+  }
+}

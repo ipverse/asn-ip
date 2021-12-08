@@ -1,0 +1,13 @@
+{
+  "asn": 58002,
+  "handle": "SINFORM",
+  "description": "JSC Svyazinform",
+  "subnets": {
+    "ipv4": [
+      "37.208.64.0/20",
+      "77.247.232.0/21",
+      "92.241.0.0/19"
+    ],
+    "ipv6": []
+  }
+}

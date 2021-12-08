@@ -1,0 +1,12 @@
+{
+  "asn": 38609,
+  "handle": "AMDATEX-PH",
+  "description": "American Data Exchange Corporation Ltd.",
+  "subnets": {
+    "ipv4": [
+      "103.38.151.0/24",
+      "203.153.6.0/23"
+    ],
+    "ipv6": []
+  }
+}

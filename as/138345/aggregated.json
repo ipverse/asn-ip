@@ -1,0 +1,14 @@
+{
+  "asn": 138345,
+  "handle": "STARHUB-MOBILE2",
+  "description": "Starhub Internet Pte Ltd",
+  "subnets": {
+    "ipv4": [
+      "113.10.96.0/19",
+      "117.20.160.0/19",
+      "171.0.0.0/16",
+      "171.207.0.0/16"
+    ],
+    "ipv6": []
+  }
+}

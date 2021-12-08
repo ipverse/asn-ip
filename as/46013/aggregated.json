@@ -1,0 +1,14 @@
+{
+  "asn": 46013,
+  "handle": "THANACHART-CAPITAL",
+  "description": "CS Loxinfo Public Company Limited",
+  "subnets": {
+    "ipv4": [
+      "58.137.147.0/24",
+      "58.137.185.0/24",
+      "115.31.189.0/24",
+      "203.150.247.0/24"
+    ],
+    "ipv6": []
+  }
+}

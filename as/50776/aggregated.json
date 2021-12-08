@@ -1,0 +1,13 @@
+{
+  "asn": 50776,
+  "handle": "SYSTEMTELECOM",
+  "description": "CJSC System Telecom",
+  "subnets": {
+    "ipv4": [
+      "194.190.80.0/22"
+    ],
+    "ipv6": [
+      "2001:6d0:4006::/48"
+    ]
+  }
+}

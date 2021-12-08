@@ -1,0 +1,12 @@
+{
+  "asn": 198621,
+  "handle": "AVAST-AC",
+  "description": "AVAST Software s.r.o.",
+  "subnets": {
+    "ipv4": [
+      "77.234.47.0/24",
+      "185.51.231.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 132170,
+  "handle": "EXITRANET1-AP",
+  "description": "Exitra Sdn. Bhd.",
+  "subnets": {
+    "ipv4": [
+      "103.6.163.0/24",
+      "103.26.44.0/23",
+      "103.26.46.0/24"
+    ],
+    "ipv6": []
+  }
+}

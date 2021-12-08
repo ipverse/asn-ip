@@ -1,0 +1,15 @@
+{
+  "asn": 60255,
+  "handle": "INTERNETTYUK",
+  "description": "Internetty Ltd",
+  "subnets": {
+    "ipv4": [
+      "83.150.248.0/24",
+      "83.150.250.0/23",
+      "185.190.196.0/22"
+    ],
+    "ipv6": [
+      "2a0e:2e80::/29"
+    ]
+  }
+}

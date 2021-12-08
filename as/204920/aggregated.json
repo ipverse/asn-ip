@@ -1,0 +1,13 @@
+{
+  "asn": 204920,
+  "handle": "DK-MVOW",
+  "description": "MHI VESTAS OFFSHORE WIND A/S",
+  "subnets": {
+    "ipv4": [
+      "185.233.56.0/22"
+    ],
+    "ipv6": [
+      "2a0d:4300::/29"
+    ]
+  }
+}

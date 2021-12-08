@@ -1,0 +1,12 @@
+{
+  "asn": 31294,
+  "handle": "LANTECH",
+  "description": "STIS Engineering co. LTD",
+  "subnets": {
+    "ipv4": [
+      "83.220.160.0/22",
+      "83.220.164.0/23"
+    ],
+    "ipv6": []
+  }
+}

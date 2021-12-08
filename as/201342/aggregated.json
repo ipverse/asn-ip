@@ -1,0 +1,11 @@
+{
+  "asn": 201342,
+  "handle": "ERGONET1",
+  "description": "Ergonet.pl sp. z o.o.",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a03:24c0:ffff::/48"
+    ]
+  }
+}

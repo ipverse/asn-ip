@@ -1,0 +1,13 @@
+{
+  "asn": 270803,
+  "handle": "D-P-DA",
+  "description": "D. P. da Silva Comunicação Multimidia",
+  "subnets": {
+    "ipv4": [
+      "200.219.32.0/22"
+    ],
+    "ipv6": [
+      "2804:71a8::/32"
+    ]
+  }
+}

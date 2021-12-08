@@ -1,0 +1,13 @@
+{
+  "asn": 201898,
+  "handle": "BLUEWAVE",
+  "description": "BlueWave Communications Limited",
+  "subnets": {
+    "ipv4": [
+      "185.60.88.0/22"
+    ],
+    "ipv6": [
+      "2a02:7260::/29"
+    ]
+  }
+}

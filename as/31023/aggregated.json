@@ -1,0 +1,11 @@
+{
+  "asn": 31023,
+  "handle": "UNDP",
+  "description": "United Nations Development Program",
+  "subnets": {
+    "ipv4": [
+      "195.177.222.0/23"
+    ],
+    "ipv6": []
+  }
+}

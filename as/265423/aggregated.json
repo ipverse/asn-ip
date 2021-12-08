@@ -1,0 +1,13 @@
+{
+  "asn": 265423,
+  "handle": "UNIVERSO-INTERNET-LTDA-ME",
+  "description": "UNIVERSO INTERNET LTDA - ME",
+  "subnets": {
+    "ipv4": [
+      "168.195.160.0/22"
+    ],
+    "ipv6": [
+      "2804:33e4:200::/40"
+    ]
+  }
+}

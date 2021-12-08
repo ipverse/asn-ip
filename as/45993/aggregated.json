@@ -1,0 +1,12 @@
+{
+  "asn": 45993,
+  "handle": "SBDNET-KR-KR",
+  "description": "SHINBUNDANG RAILROAD",
+  "subnets": {
+    "ipv4": [
+      "112.170.51.0/24",
+      "210.92.79.0/24"
+    ],
+    "ipv6": []
+  }
+}

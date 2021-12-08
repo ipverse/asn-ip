@@ -1,0 +1,11 @@
+{
+  "asn": 139223,
+  "handle": "NTECHCOMMUNICATION-AP",
+  "description": "NTECH COMMUNICATION",
+  "subnets": {
+    "ipv4": [
+      "103.139.253.0/24"
+    ],
+    "ipv6": []
+  }
+}

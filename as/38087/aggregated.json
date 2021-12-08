@@ -1,0 +1,12 @@
+{
+  "asn": 38087,
+  "handle": "BUSANBANK2-KR-KR",
+  "description": "BUSANBANK",
+  "subnets": {
+    "ipv4": [
+      "121.175.28.0/24",
+      "211.53.102.0/24"
+    ],
+    "ipv6": []
+  }
+}

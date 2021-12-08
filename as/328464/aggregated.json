@@ -1,0 +1,12 @@
+{
+  "asn": 328464,
+  "handle": "TCS-WI-FI",
+  "description": "The Computer Shop Plett",
+  "subnets": {
+    "ipv4": [
+      "102.222.240.0/24",
+      "102.222.242.0/24"
+    ],
+    "ipv6": []
+  }
+}

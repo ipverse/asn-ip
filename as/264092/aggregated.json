@@ -1,0 +1,13 @@
+{
+  "asn": 264092,
+  "handle": "STA-TELECOM-LTDA",
+  "description": "STA TELECOM LTDA",
+  "subnets": {
+    "ipv4": [
+      "143.208.148.0/22"
+    ],
+    "ipv6": [
+      "2804:2ac0::/32"
+    ]
+  }
+}

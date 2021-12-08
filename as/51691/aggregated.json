@@ -1,0 +1,14 @@
+{
+  "asn": 51691,
+  "handle": "FSOL",
+  "description": "F-Solutions Oy",
+  "subnets": {
+    "ipv4": [
+      "37.16.96.0/20",
+      "178.213.232.0/21"
+    ],
+    "ipv6": [
+      "2a00:4cc1::/32"
+    ]
+  }
+}

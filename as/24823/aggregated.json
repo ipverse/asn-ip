@@ -1,0 +1,13 @@
+{
+  "asn": 24823,
+  "handle": "GUTA-BANK",
+  "description": "VTB Bank (Public Joint-Stock Company)",
+  "subnets": {
+    "ipv4": [
+      "185.179.144.0/22",
+      "195.242.82.0/23",
+      "217.14.48.0/20"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 270696,
+  "handle": "A-S-DA-SILVA-TELECOMUNICACAO",
+  "description": "A S da Silva Telecomunicacao",
+  "subnets": {
+    "ipv4": [
+      "189.90.236.0/22"
+    ],
+    "ipv6": [
+      "2804:6ff0::/32"
+    ]
+  }
+}

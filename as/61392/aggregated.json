@@ -1,0 +1,11 @@
+{
+  "asn": 61392,
+  "handle": "ASKNET",
+  "description": "TOO K-net",
+  "subnets": {
+    "ipv4": [
+      "194.0.60.0/24"
+    ],
+    "ipv6": []
+  }
+}

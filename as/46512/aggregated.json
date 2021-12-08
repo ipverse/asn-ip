@@ -1,0 +1,12 @@
+{
+  "asn": 46512,
+  "handle": "UT-MEDICAL-CENTER",
+  "description": "University of Tennessee Medical Center",
+  "subnets": {
+    "ipv4": [
+      "165.6.0.0/17",
+      "165.6.128.0/18"
+    ],
+    "ipv6": []
+  }
+}

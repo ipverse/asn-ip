@@ -1,0 +1,12 @@
+{
+  "asn": 55606,
+  "handle": "DSME-KR-KR",
+  "description": "DSME",
+  "subnets": {
+    "ipv4": [
+      "152.149.0.0/19",
+      "152.149.32.0/21"
+    ],
+    "ipv6": []
+  }
+}

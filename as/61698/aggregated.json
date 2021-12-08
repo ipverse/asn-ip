@@ -1,0 +1,12 @@
+{
+  "asn": 61698,
+  "handle": "WI-FI-TEC",
+  "description": "WI FI TEC CONEXAO E TECNOLOGIA LTDA - ME",
+  "subnets": {
+    "ipv4": [
+      "131.0.164.0/22",
+      "168.227.80.0/22"
+    ],
+    "ipv6": []
+  }
+}

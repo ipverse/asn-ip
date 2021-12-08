@@ -1,0 +1,13 @@
+{
+  "asn": 62966,
+  "handle": "BRIGHTEDGE-COM",
+  "description": "BrightEdge Technologies",
+  "subnets": {
+    "ipv4": [
+      "38.108.179.0/24",
+      "67.139.155.0/24",
+      "198.232.216.0/23"
+    ],
+    "ipv6": []
+  }
+}

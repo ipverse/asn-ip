@@ -1,0 +1,13 @@
+{
+  "asn": 58346,
+  "handle": "KZVNR",
+  "description": "KASSENZAHNAERZTLICHE VEREINIGUNG NORDRHEIN",
+  "subnets": {
+    "ipv4": [
+      "91.240.160.0/23"
+    ],
+    "ipv6": [
+      "2001:67c:2a34::/48"
+    ]
+  }
+}

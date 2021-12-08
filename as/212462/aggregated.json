@@ -1,0 +1,13 @@
+{
+  "asn": 212462,
+  "handle": "WIZONTELECOM",
+  "description": "Wizon Telecom, S.L.",
+  "subnets": {
+    "ipv4": [
+      "109.234.80.0/24",
+      "185.33.67.0/24",
+      "193.3.129.0/24"
+    ],
+    "ipv6": []
+  }
+}

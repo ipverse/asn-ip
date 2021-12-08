@@ -1,0 +1,13 @@
+{
+  "asn": 266354,
+  "handle": "KSNET-EIRELI-ME",
+  "description": "KSNET EIRELI - ME",
+  "subnets": {
+    "ipv4": [
+      "170.239.184.0/22"
+    ],
+    "ipv6": [
+      "2804:3688::/32"
+    ]
+  }
+}

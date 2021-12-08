@@ -1,0 +1,12 @@
+{
+  "asn": 131581,
+  "handle": "INPEX-NET-AP",
+  "description": "INPEX Australia",
+  "subnets": {
+    "ipv4": [
+      "103.234.194.0/24",
+      "202.52.158.0/24"
+    ],
+    "ipv6": []
+  }
+}

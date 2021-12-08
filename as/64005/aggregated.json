@@ -1,0 +1,11 @@
+{
+  "asn": 64005,
+  "handle": "KK-AP",
+  "description": "KaritKarma Limited",
+  "subnets": {
+    "ipv4": [
+      "103.228.200.0/23"
+    ],
+    "ipv6": []
+  }
+}

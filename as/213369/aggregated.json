@@ -1,0 +1,12 @@
+{
+  "asn": 213369,
+  "handle": "SFERA",
+  "description": "SFERA LLC",
+  "subnets": {
+    "ipv4": [
+      "185.180.229.0/24",
+      "194.147.74.0/23"
+    ],
+    "ipv6": []
+  }
+}

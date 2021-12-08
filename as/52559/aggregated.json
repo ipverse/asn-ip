@@ -1,0 +1,13 @@
+{
+  "asn": 52559,
+  "handle": "NOVATEC-TELECOM-LTDA",
+  "description": "NOVATEC TELECOM LTDA",
+  "subnets": {
+    "ipv4": [
+      "177.223.224.0/20"
+    ],
+    "ipv6": [
+      "2804:cd8::/32"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asn": 39353,
+  "handle": "PRINCAST",
+  "description": "Gobierno del Principado de Asturias",
+  "subnets": {
+    "ipv4": [
+      "88.151.16.0/22"
+    ],
+    "ipv6": []
+  }
+}

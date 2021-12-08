@@ -1,0 +1,11 @@
+{
+  "asn": 265894,
+  "handle": "PORTALCOM-STI-EIRELE",
+  "description": "Portal.com STI eirele",
+  "subnets": {
+    "ipv4": [
+      "131.196.48.0/22"
+    ],
+    "ipv6": []
+  }
+}

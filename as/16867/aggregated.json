@@ -1,0 +1,12 @@
+{
+  "asn": 16867,
+  "handle": "BANDWIDTH-CORP",
+  "description": "Bandwidth Inc.",
+  "subnets": {
+    "ipv4": [
+      "216.82.233.0/24",
+      "216.82.234.0/23"
+    ],
+    "ipv6": []
+  }
+}

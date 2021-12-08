@@ -1,0 +1,13 @@
+{
+  "asn": 52876,
+  "handle": "PW-NETWORK-INFORMATICA",
+  "description": "PW NETWORK INFORMATICA E TELECOMUNICACOES LTDA",
+  "subnets": {
+    "ipv4": [
+      "177.129.176.0/22",
+      "177.129.180.0/24",
+      "177.129.182.0/23"
+    ],
+    "ipv6": []
+  }
+}

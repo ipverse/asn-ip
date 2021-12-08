@@ -1,0 +1,13 @@
+{
+  "asn": 17327,
+  "handle": "TSTC",
+  "description": "Texas State Technical College at Waco",
+  "subnets": {
+    "ipv4": [
+      "161.109.0.0/16",
+      "192.133.126.0/24",
+      "207.54.192.0/18"
+    ],
+    "ipv6": []
+  }
+}

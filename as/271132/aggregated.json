@@ -1,0 +1,13 @@
+{
+  "asn": 271132,
+  "handle": "IDM-PROVEDOR-DE",
+  "description": "IDM PROVEDOR DE INTERNET EIRELI",
+  "subnets": {
+    "ipv4": [
+      "179.42.84.0/22"
+    ],
+    "ipv6": [
+      "2804:76c0::/32"
+    ]
+  }
+}

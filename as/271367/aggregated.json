@@ -1,0 +1,13 @@
+{
+  "asn": 271367,
+  "handle": "RAYAI-FIBRA-PROVEDOR",
+  "description": "RAYAI FIBRA - PROVEDOR DE ACESSO A INTERNET EIRELI",
+  "subnets": {
+    "ipv4": [
+      "200.36.216.0/23"
+    ],
+    "ipv6": [
+      "2804:7a60::/32"
+    ]
+  }
+}

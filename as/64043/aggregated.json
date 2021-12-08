@@ -1,0 +1,14 @@
+{
+  "asn": 64043,
+  "handle": "EUROTELBD-ONLINE-LTD-BD",
+  "description": "EUROtelbd Online Ltd.",
+  "subnets": {
+    "ipv4": [
+      "59.153.16.0/22",
+      "103.197.248.0/22"
+    ],
+    "ipv6": [
+      "2403:f2c0::/32"
+    ]
+  }
+}

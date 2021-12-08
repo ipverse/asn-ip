@@ -1,0 +1,11 @@
+{
+  "asn": 62279,
+  "handle": "ANR",
+  "description": "Autoritatea Navala Romana",
+  "subnets": {
+    "ipv4": [
+      "89.47.179.0/24"
+    ],
+    "ipv6": []
+  }
+}

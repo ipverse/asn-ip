@@ -1,0 +1,13 @@
+{
+  "asn": 53150,
+  "handle": "UNIMED-SAO-JOSE",
+  "description": "UNIMED SAO JOSE DOS CAMPOS - COOPERATIVA DE TRABAL",
+  "subnets": {
+    "ipv4": [
+      "186.208.48.0/20"
+    ],
+    "ipv6": [
+      "2801:80:80::/48"
+    ]
+  }
+}

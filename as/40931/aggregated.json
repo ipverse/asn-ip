@@ -1,0 +1,13 @@
+{
+  "asn": 40931,
+  "handle": "MOBITV",
+  "description": "MobiTV, Inc",
+  "subnets": {
+    "ipv4": [
+      "208.91.252.0/22"
+    ],
+    "ipv6": [
+      "2620:10c:2000::/48"
+    ]
+  }
+}

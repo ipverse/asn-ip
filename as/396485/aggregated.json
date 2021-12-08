@@ -1,0 +1,12 @@
+{
+  "asn": 396485,
+  "handle": "SLU-4",
+  "description": "St. Lawrence University",
+  "subnets": {
+    "ipv4": [
+      "69.6.96.0/19",
+      "199.0.76.0/22"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asn": 50080,
+  "handle": "PROVUS",
+  "description": "PROVUS SERVICE PROVIDER SA",
+  "subnets": {
+    "ipv4": [
+      "193.104.123.0/24"
+    ],
+    "ipv6": []
+  }
+}

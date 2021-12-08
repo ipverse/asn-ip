@@ -1,0 +1,13 @@
+{
+  "asn": 394395,
+  "handle": "TOWSON-UNIVERSITY",
+  "description": "Towson State University",
+  "subnets": {
+    "ipv4": [
+      "136.160.128.0/18",
+      "204.62.32.0/20",
+      "204.62.48.0/22"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 36518,
+  "handle": "VSOFT-2",
+  "description": "VSOFT Inc.",
+  "subnets": {
+    "ipv4": [
+      "70.33.192.0/21",
+      "198.252.80.0/20"
+    ],
+    "ipv6": []
+  }
+}

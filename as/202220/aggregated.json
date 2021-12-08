@@ -1,0 +1,13 @@
+{
+  "asn": 202220,
+  "handle": "OBSLUGAPC",
+  "description": "Obsluga pc P.Dudzinski P.Jablonski P.Ral. B.Miller s.c.",
+  "subnets": {
+    "ipv4": [
+      "83.230.14.0/24",
+      "188.123.215.0/24",
+      "195.149.98.0/24"
+    ],
+    "ipv6": []
+  }
+}

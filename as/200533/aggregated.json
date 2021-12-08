@@ -1,0 +1,13 @@
+{
+  "asn": 200533,
+  "handle": "INITLAB",
+  "description": "Civil association Init Lab",
+  "subnets": {
+    "ipv4": [
+      "185.117.82.0/24"
+    ],
+    "ipv6": [
+      "2001:67c:21bc::/48"
+    ]
+  }
+}

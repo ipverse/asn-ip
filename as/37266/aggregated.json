@@ -1,0 +1,12 @@
+{
+  "asn": 37266,
+  "handle": "AMOBIA",
+  "description": "Amobia Communications",
+  "subnets": {
+    "ipv4": [
+      "196.32.232.0/21",
+      "196.45.16.0/20"
+    ],
+    "ipv6": []
+  }
+}

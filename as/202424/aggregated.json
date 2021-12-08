@@ -1,0 +1,13 @@
+{
+  "asn": 202424,
+  "handle": "REGIOENERGIE",
+  "description": "Regio Energie Solothurn",
+  "subnets": {
+    "ipv4": [
+      "194.48.244.0/22"
+    ],
+    "ipv6": [
+      "2a0c:c7c0::/29"
+    ]
+  }
+}

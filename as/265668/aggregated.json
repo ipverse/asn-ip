@@ -1,0 +1,12 @@
+{
+  "asn": 265668,
+  "handle": "MEDIA-COMMERCE-PERU-SAC",
+  "description": "MEDIA COMMERCE PERÚ S.A.C",
+  "subnets": {
+    "ipv4": [
+      "179.43.93.0/24",
+      "179.43.94.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 200435,
+  "handle": "DTHTDC",
+  "description": "Titan DataCenters France SAS",
+  "subnets": {
+    "ipv4": [
+      "185.63.172.0/22"
+    ],
+    "ipv6": [
+      "2a04:f600::/29"
+    ]
+  }
+}

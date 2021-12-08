@@ -1,0 +1,13 @@
+{
+  "asn": 210723,
+  "handle": "GALEIDO",
+  "description": "Galeido Services Oy",
+  "subnets": {
+    "ipv4": [
+      "79.110.238.0/24"
+    ],
+    "ipv6": [
+      "2a11:3b40::/32"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 54022,
+  "handle": "KMTEL-NET",
+  "description": "K \u0026 M Telephone Company, Inc",
+  "subnets": {
+    "ipv4": [
+      "199.58.137.0/24",
+      "199.58.138.0/23"
+    ],
+    "ipv6": []
+  }
+}

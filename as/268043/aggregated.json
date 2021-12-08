@@ -1,0 +1,13 @@
+{
+  "asn": 268043,
+  "handle": "REDE-LANDAN-INTERNET",
+  "description": "REDE LANDAN INTERNET EIRELI-ME",
+  "subnets": {
+    "ipv4": [
+      "45.168.84.0/22"
+    ],
+    "ipv6": [
+      "2804:5718::/32"
+    ]
+  }
+}

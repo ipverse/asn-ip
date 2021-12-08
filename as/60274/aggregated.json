@@ -1,0 +1,13 @@
+{
+  "asn": 60274,
+  "handle": "ZOICHTER",
+  "description": "EDV Consulting Zoichter GmbH",
+  "subnets": {
+    "ipv4": [
+      "185.233.67.0/24"
+    ],
+    "ipv6": [
+      "2a10:df80::/29"
+    ]
+  }
+}

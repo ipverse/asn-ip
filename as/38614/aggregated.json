@@ -1,0 +1,12 @@
+{
+  "asn": 38614,
+  "handle": "IDS-BD",
+  "description": "IDS Bangladesh",
+  "subnets": {
+    "ipv4": [
+      "103.158.39.0/24",
+      "117.103.80.0/21"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 13074,
+  "handle": "TELETEL",
+  "description": "Teletel Communication Channels Ltd",
+  "subnets": {
+    "ipv4": [
+      "192.118.68.0/23",
+      "192.118.70.0/24",
+      "192.118.80.0/22"
+    ],
+    "ipv6": []
+  }
+}

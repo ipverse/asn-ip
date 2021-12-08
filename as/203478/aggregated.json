@@ -1,0 +1,13 @@
+{
+  "asn": 203478,
+  "handle": "TBSPACE",
+  "description": "Tobias Maedel",
+  "subnets": {
+    "ipv4": [
+      "44.190.23.0/24"
+    ],
+    "ipv6": [
+      "2a06:e881:5600::/48"
+    ]
+  }
+}

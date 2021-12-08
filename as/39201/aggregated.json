@@ -1,0 +1,12 @@
+{
+  "asn": 39201,
+  "handle": "WAVECOM",
+  "description": "WaveCom Informatikai Kft.",
+  "subnets": {
+    "ipv4": [
+      "45.128.68.0/22",
+      "185.152.180.0/22"
+    ],
+    "ipv6": []
+  }
+}

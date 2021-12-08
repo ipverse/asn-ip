@@ -1,0 +1,12 @@
+{
+  "asn": 9771,
+  "handle": "SYNNARA-KR-KR",
+  "description": "Media Synnara",
+  "subnets": {
+    "ipv4": [
+      "211.61.169.0/24",
+      "211.247.254.0/23"
+    ],
+    "ipv6": []
+  }
+}

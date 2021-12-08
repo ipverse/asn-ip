@@ -1,0 +1,13 @@
+{
+  "asn": 271331,
+  "handle": "MASTER-CONNECT",
+  "description": "MASTER CONNECT",
+  "subnets": {
+    "ipv4": [
+      "179.0.80.0/22"
+    ],
+    "ipv6": [
+      "2804:79d8::/32"
+    ]
+  }
+}

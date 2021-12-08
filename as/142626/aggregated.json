@@ -1,0 +1,11 @@
+{
+  "asn": 142626,
+  "handle": "ATIPL-AP",
+  "description": "Acme Technical Institute Pvt Ltd",
+  "subnets": {
+    "ipv4": [
+      "103.171.70.0/23"
+    ],
+    "ipv6": []
+  }
+}

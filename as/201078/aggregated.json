@@ -1,0 +1,13 @@
+{
+  "asn": 201078,
+  "handle": "MULTIHOUSEHOSTING",
+  "description": "ECIT Solutions A/S",
+  "subnets": {
+    "ipv4": [
+      "82.163.160.0/22",
+      "85.194.233.0/24",
+      "185.85.4.0/22"
+    ],
+    "ipv6": []
+  }
+}

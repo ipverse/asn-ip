@@ -1,0 +1,12 @@
+{
+  "asn": 57473,
+  "handle": "EMIS",
+  "description": "Education Managment Information System EMIS",
+  "subnets": {
+    "ipv4": [
+      "185.115.136.0/22",
+      "194.60.250.0/24"
+    ],
+    "ipv6": []
+  }
+}

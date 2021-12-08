@@ -1,0 +1,13 @@
+{
+  "asn": 264718,
+  "handle": "UNIVERSIDAD-SIMON-BOLIVAR",
+  "description": "UNIVERSIDAD SIMÓN BOLÍVAR",
+  "subnets": {
+    "ipv4": [
+      "200.10.174.0/23"
+    ],
+    "ipv6": [
+      "2801:1d:9000::/48"
+    ]
+  }
+}

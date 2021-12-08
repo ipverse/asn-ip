@@ -1,0 +1,13 @@
+{
+  "asn": 206010,
+  "handle": "RFS",
+  "description": "Rekstrarfelag Stjornarradsins",
+  "subnets": {
+    "ipv4": [
+      "185.198.144.0/22"
+    ],
+    "ipv6": [
+      "2a0a:89c0::/29"
+    ]
+  }
+}

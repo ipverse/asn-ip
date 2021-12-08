@@ -1,0 +1,15 @@
+{
+  "asn": 267242,
+  "handle": "AMAZONIA-TELECOMUNICACOES-LTDA",
+  "description": "AMAZONIA TELECOMUNICACOES LTDA",
+  "subnets": {
+    "ipv4": [
+      "45.232.36.0/22",
+      "209.14.20.0/24",
+      "209.14.23.0/24"
+    ],
+    "ipv6": [
+      "2804:4a78::/32"
+    ]
+  }
+}

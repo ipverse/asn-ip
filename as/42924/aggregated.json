@@ -1,0 +1,13 @@
+{
+  "asn": 42924,
+  "handle": "VCSI",
+  "description": "VINCI CONSTRUCTION SI SNC",
+  "subnets": {
+    "ipv4": [
+      "185.188.88.0/22"
+    ],
+    "ipv6": [
+      "2a0b:bc80::/29"
+    ]
+  }
+}

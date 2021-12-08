@@ -1,0 +1,13 @@
+{
+  "asn": 265075,
+  "handle": "EVOLUTION-IP-TELEFONIA",
+  "description": "Evolution IP Telefonia e Informática ltda",
+  "subnets": {
+    "ipv4": [
+      "170.231.232.0/22"
+    ],
+    "ipv6": [
+      "2804:3264::/32"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asn": 270099,
+  "handle": "INTERNET-CORDOBA-SAS",
+  "description": "INTERNET CORDOBA S.A.S",
+  "subnets": {
+    "ipv4": [
+      "190.109.124.0/22"
+    ],
+    "ipv6": []
+  }
+}

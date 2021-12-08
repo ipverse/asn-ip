@@ -1,0 +1,13 @@
+{
+  "asn": 398319,
+  "handle": "ANMIL-CORE01",
+  "description": "Aaron N Martin ISA LLC",
+  "subnets": {
+    "ipv4": [
+      "199.181.204.0/24"
+    ],
+    "ipv6": [
+      "2602:805:a000::/44"
+    ]
+  }
+}

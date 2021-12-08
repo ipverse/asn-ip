@@ -1,0 +1,12 @@
+{
+  "asn": 55617,
+  "handle": "KB-KR-KR",
+  "description": "The Kwangju Bank Ltd.",
+  "subnets": {
+    "ipv4": [
+      "203.251.60.0/24",
+      "211.181.107.0/24"
+    ],
+    "ipv6": []
+  }
+}

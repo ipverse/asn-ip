@@ -1,0 +1,13 @@
+{
+  "asn": 137146,
+  "handle": "ACSPLINT",
+  "description": "Achiever Communication And Services Pvt. Ltd.",
+  "subnets": {
+    "ipv4": [
+      "103.107.52.0/22"
+    ],
+    "ipv6": [
+      "2001:df4:1580::/48"
+    ]
+  }
+}

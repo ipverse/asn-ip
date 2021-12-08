@@ -1,0 +1,11 @@
+{
+  "asn": 38125,
+  "handle": "FREEWAY-KR-KR",
+  "description": "Korea Expressway Corporation",
+  "subnets": {
+    "ipv4": [
+      "180.148.180.0/22"
+    ],
+    "ipv6": []
+  }
+}

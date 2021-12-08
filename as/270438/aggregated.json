@@ -1,0 +1,13 @@
+{
+  "asn": 270438,
+  "handle": "GBNET-TELECOM",
+  "description": "Gbnet Telecom",
+  "subnets": {
+    "ipv4": [
+      "200.11.108.0/22"
+    ],
+    "ipv6": [
+      "2804:6bfc::/32"
+    ]
+  }
+}

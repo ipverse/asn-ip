@@ -1,0 +1,12 @@
+{
+  "asn": 37381,
+  "handle": "VIPNET",
+  "description": "Afrique Technologies \u0026 Services (VipNet)",
+  "subnets": {
+    "ipv4": [
+      "102.223.30.0/23",
+      "197.159.192.0/19"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 9113,
+  "handle": "VLANT",
+  "description": "VLANT LLC",
+  "subnets": {
+    "ipv4": [
+      "77.236.32.0/19"
+    ],
+    "ipv6": [
+      "2a01:548::/32"
+    ]
+  }
+}

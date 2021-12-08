@@ -1,0 +1,14 @@
+{
+  "asn": 396477,
+  "handle": "DNSNETWORKS",
+  "description": "DNSnetworks Corporation",
+  "subnets": {
+    "ipv4": [
+      "148.59.149.0/24",
+      "158.247.60.0/24",
+      "204.225.97.0/24",
+      "204.255.97.0/24"
+    ],
+    "ipv6": []
+  }
+}

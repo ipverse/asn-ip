@@ -1,0 +1,13 @@
+{
+  "asn": 45707,
+  "handle": "PRIMELINK-ID",
+  "description": "Prime Link Communication, PT",
+  "subnets": {
+    "ipv4": [
+      "103.8.56.0/22",
+      "110.93.12.0/22",
+      "202.43.116.0/23"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 16608,
+  "handle": "KENTEC",
+  "description": "Kentec Communications, Inc.",
+  "subnets": {
+    "ipv4": [
+      "64.187.64.0/20",
+      "204.238.214.0/24"
+    ],
+    "ipv6": []
+  }
+}

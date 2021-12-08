@@ -1,0 +1,13 @@
+{
+  "asn": 263262,
+  "handle": "MOV-TELECOM-LTDA",
+  "description": "MOV TELECOM LTDA",
+  "subnets": {
+    "ipv4": [
+      "200.6.136.0/21"
+    ],
+    "ipv6": [
+      "2804:1810::/32"
+    ]
+  }
+}

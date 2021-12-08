@@ -1,0 +1,11 @@
+{
+  "asn": 268899,
+  "handle": "NAVEGAR-TELECOM",
+  "description": "Navegar Telecom",
+  "subnets": {
+    "ipv4": [
+      "45.175.144.0/22"
+    ],
+    "ipv6": []
+  }
+}

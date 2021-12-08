@@ -1,0 +1,13 @@
+{
+  "asn": 132000,
+  "handle": "HANSEN-AP",
+  "description": "Hansen Corporation Pty Ltd",
+  "subnets": {
+    "ipv4": [
+      "160.206.133.0/24",
+      "160.206.134.0/24",
+      "160.206.138.0/24"
+    ],
+    "ipv6": []
+  }
+}

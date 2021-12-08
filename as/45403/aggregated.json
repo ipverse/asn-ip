@@ -1,0 +1,12 @@
+{
+  "asn": 45403,
+  "handle": "IITPA-KR-KR",
+  "description": "INCHEON TECHNOPARK",
+  "subnets": {
+    "ipv4": [
+      "112.171.144.0/20",
+      "112.171.160.0/20"
+    ],
+    "ipv6": []
+  }
+}

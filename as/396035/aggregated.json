@@ -1,0 +1,12 @@
+{
+  "asn": 396035,
+  "handle": "KENTUCKY-WIFI",
+  "description": "Compulinx, Inc.",
+  "subnets": {
+    "ipv4": [
+      "66.205.232.0/24",
+      "204.62.63.0/24"
+    ],
+    "ipv6": []
+  }
+}

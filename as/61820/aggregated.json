@@ -1,0 +1,13 @@
+{
+  "asn": 61820,
+  "handle": "IPUNET-TELECOMUNICACOES-LTDA",
+  "description": "Ipunet Telecomunicações Ltda",
+  "subnets": {
+    "ipv4": [
+      "201.131.176.0/22"
+    ],
+    "ipv6": [
+      "2804:19d0::/32"
+    ]
+  }
+}

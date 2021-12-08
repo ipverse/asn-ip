@@ -1,0 +1,13 @@
+{
+  "asn": 270036,
+  "handle": "NORTVCOM-SOCIEDAD-ANONIMA",
+  "description": "NORTVCOM, SOCIEDAD ANONIMA",
+  "subnets": {
+    "ipv4": [
+      "179.60.224.0/22"
+    ],
+    "ipv6": [
+      "2803:95e0::/32"
+    ]
+  }
+}

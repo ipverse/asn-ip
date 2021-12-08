@@ -1,0 +1,11 @@
+{
+  "asn": 6704,
+  "handle": "CITYLAN",
+  "description": "Citylan LLC",
+  "subnets": {
+    "ipv4": [
+      "185.123.40.0/22"
+    ],
+    "ipv6": []
+  }
+}

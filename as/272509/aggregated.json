@@ -1,0 +1,11 @@
+{
+  "asn": 272509,
+  "handle": "FENIXNETCOM-PROVEDOR-DE",
+  "description": "FênixNetCom Provedor de Internet",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2804:8244::/32"
+    ]
+  }
+}

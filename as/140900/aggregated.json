@@ -1,0 +1,13 @@
+{
+  "asn": 140900,
+  "handle": "GETLINKS2-AP",
+  "description": "Getlinks (SMC-Private) Limited",
+  "subnets": {
+    "ipv4": [
+      "103.116.250.0/24",
+      "103.153.38.0/23",
+      "103.166.103.0/24"
+    ],
+    "ipv6": []
+  }
+}

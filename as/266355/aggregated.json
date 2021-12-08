@@ -1,0 +1,13 @@
+{
+  "asn": 266355,
+  "handle": "SULNET-TELECOMUNICACOES-LTDA",
+  "description": "Sulnet Telecomunicações LTDA - ME",
+  "subnets": {
+    "ipv4": [
+      "170.239.104.0/22"
+    ],
+    "ipv6": [
+      "2804:368c::/32"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 43021,
+  "handle": "CERTIT-HOSTING",
+  "description": "Certit Hosting Handelsbolag",
+  "subnets": {
+    "ipv4": [
+      "193.200.208.0/24"
+    ],
+    "ipv6": [
+      "2001:678:cbc::/48"
+    ]
+  }
+}

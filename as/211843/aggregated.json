@@ -1,0 +1,13 @@
+{
+  "asn": 211843,
+  "handle": "TIANKAI",
+  "description": "Nanjing Tiankai Information Technology Co.Ltd.",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2406:840:e666::/47",
+      "2602:feda:182::/47",
+      "2a0e:aa07:e01b::/48"
+    ]
+  }
+}

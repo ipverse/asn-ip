@@ -1,0 +1,14 @@
+{
+  "asn": 29345,
+  "handle": "LUMII",
+  "description": "Institute of Mathematics and Computer Science of University of Latvia",
+  "subnets": {
+    "ipv4": [
+      "85.254.193.0/24",
+      "91.240.246.0/23"
+    ],
+    "ipv6": [
+      "2a02:501::/32"
+    ]
+  }
+}

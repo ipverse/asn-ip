@@ -1,0 +1,12 @@
+{
+  "asn": 13244,
+  "handle": "RIETUMU",
+  "description": "Rietumu banka AS",
+  "subnets": {
+    "ipv4": [
+      "194.9.170.0/24",
+      "194.153.171.0/24"
+    ],
+    "ipv6": []
+  }
+}

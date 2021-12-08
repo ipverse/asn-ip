@@ -1,0 +1,12 @@
+{
+  "asn": 58203,
+  "handle": "TURKTRAKTOR",
+  "description": "Turk Traktor Ve Ziraat Makinalari A.S.",
+  "subnets": {
+    "ipv4": [
+      "195.87.18.0/24",
+      "195.87.239.0/24"
+    ],
+    "ipv6": []
+  }
+}

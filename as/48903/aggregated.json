@@ -1,0 +1,12 @@
+{
+  "asn": 48903,
+  "handle": "MEHRFCP",
+  "description": "Rasaneh Mehr Vatan Co. PJS",
+  "subnets": {
+    "ipv4": [
+      "185.92.4.0/22",
+      "185.140.4.0/22"
+    ],
+    "ipv6": []
+  }
+}

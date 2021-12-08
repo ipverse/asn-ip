@@ -1,0 +1,13 @@
+{
+  "asn": 41337,
+  "handle": "PROSERV",
+  "description": "Panserve Limited",
+  "subnets": {
+    "ipv4": [
+      "194.9.2.0/23"
+    ],
+    "ipv6": [
+      "2a07:2fc0::/29"
+    ]
+  }
+}

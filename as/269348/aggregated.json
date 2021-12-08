@@ -1,0 +1,11 @@
+{
+  "asn": 269348,
+  "handle": "REDES-METRO",
+  "description": "REDES METRO",
+  "subnets": {
+    "ipv4": [
+      "45.184.232.0/22"
+    ],
+    "ipv6": []
+  }
+}

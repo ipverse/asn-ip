@@ -1,0 +1,13 @@
+{
+  "asn": 393344,
+  "handle": "HELIONTECHNOLOGIES",
+  "description": "Helion Automotive Technologies",
+  "subnets": {
+    "ipv4": [
+      "141.193.22.0/23",
+      "192.12.46.0/24",
+      "198.51.2.0/24"
+    ],
+    "ipv6": []
+  }
+}

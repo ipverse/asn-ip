@@ -1,0 +1,13 @@
+{
+  "asn": 264010,
+  "handle": "POLLI-TELECOM",
+  "description": "Polli Telecom",
+  "subnets": {
+    "ipv4": [
+      "143.0.196.0/22"
+    ],
+    "ipv6": [
+      "2804:2958::/32"
+    ]
+  }
+}

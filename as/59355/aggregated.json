@@ -1,0 +1,12 @@
+{
+  "asn": 59355,
+  "handle": "AACL-AP",
+  "description": "Arif Azim Ltd",
+  "subnets": {
+    "ipv4": [
+      "103.147.232.0/23",
+      "103.230.252.0/22"
+    ],
+    "ipv6": []
+  }
+}

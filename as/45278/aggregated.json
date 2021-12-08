@@ -1,0 +1,13 @@
+{
+  "asn": 45278,
+  "handle": "ANC-AP",
+  "description": "Australian News Channel Pty Ltd",
+  "subnets": {
+    "ipv4": [
+      "202.162.66.0/24"
+    ],
+    "ipv6": [
+      "2001:df0:4780::/48"
+    ]
+  }
+}

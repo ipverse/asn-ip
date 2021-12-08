@@ -1,0 +1,11 @@
+{
+  "asn": 49780,
+  "handle": "WHITEHAT",
+  "description": "WhiteHat Inc.",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2602:fcf6:104::/48"
+    ]
+  }
+}

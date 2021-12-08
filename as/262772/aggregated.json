@@ -1,0 +1,14 @@
+{
+  "asn": 262772,
+  "handle": "AMAZONIA-PUBLICIDADE-LTDA",
+  "description": "Amazonia Publicidade Ltda",
+  "subnets": {
+    "ipv4": [
+      "186.232.176.0/22",
+      "186.233.236.0/22"
+    ],
+    "ipv6": [
+      "2804:30e4::/32"
+    ]
+  }
+}

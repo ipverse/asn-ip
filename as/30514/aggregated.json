@@ -1,0 +1,11 @@
+{
+  "asn": 30514,
+  "handle": "EDH",
+  "description": "Employers Direct Health",
+  "subnets": {
+    "ipv4": [
+      "65.216.18.0/24"
+    ],
+    "ipv6": []
+  }
+}

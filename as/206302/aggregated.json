@@ -1,0 +1,12 @@
+{
+  "asn": 206302,
+  "handle": "XANTEN",
+  "description": "Xanten S.R.L.",
+  "subnets": {
+    "ipv4": [
+      "185.124.252.0/22",
+      "193.178.252.0/22"
+    ],
+    "ipv6": []
+  }
+}

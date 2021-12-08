@@ -1,0 +1,13 @@
+{
+  "asn": 267989,
+  "handle": "HIPER-NETWORK-EIRELI-ME",
+  "description": "HIPER NETWORK EIRELI ME",
+  "subnets": {
+    "ipv4": [
+      "45.166.212.0/22"
+    ],
+    "ipv6": [
+      "2804:564c::/32"
+    ]
+  }
+}

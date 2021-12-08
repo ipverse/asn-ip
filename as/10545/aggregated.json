@@ -1,0 +1,11 @@
+{
+  "asn": 10545,
+  "handle": "LCOL",
+  "description": "Lynchburg College",
+  "subnets": {
+    "ipv4": [
+      "161.115.0.0/16"
+    ],
+    "ipv6": []
+  }
+}

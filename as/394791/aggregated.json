@@ -1,0 +1,13 @@
+{
+  "asn": 394791,
+  "handle": "LIKWID-INVERNESS",
+  "description": "Likwid Communications Inc.",
+  "subnets": {
+    "ipv4": [
+      "23.142.128.0/24",
+      "97.76.223.0/24",
+      "162.217.56.0/23"
+    ],
+    "ipv6": []
+  }
+}

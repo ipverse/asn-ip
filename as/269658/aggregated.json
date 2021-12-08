@@ -1,0 +1,13 @@
+{
+  "asn": 269658,
+  "handle": "HUGS-TELECOM",
+  "description": "HUGS TELECOM",
+  "subnets": {
+    "ipv4": [
+      "45.191.16.0/23"
+    ],
+    "ipv6": [
+      "2804:67e8::/32"
+    ]
+  }
+}

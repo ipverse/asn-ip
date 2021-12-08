@@ -1,0 +1,13 @@
+{
+  "asn": 132591,
+  "handle": "TENCENT-NET-AP",
+  "description": "Shenzhen Tencent Computer Systems Company Limited",
+  "subnets": {
+    "ipv4": [
+      "158.79.1.0/24"
+    ],
+    "ipv6": [
+      "240d:c010:50::/48"
+    ]
+  }
+}

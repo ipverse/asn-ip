@@ -1,0 +1,13 @@
+{
+  "asn": 263035,
+  "handle": "PORTAL-QUEOPS-TELECOMUNICACOES",
+  "description": "PORTAL QUEOPS TELECOMUNICAÇÕES E SERVIÇOS",
+  "subnets": {
+    "ipv4": [
+      "177.20.176.0/21"
+    ],
+    "ipv6": [
+      "2804:a38::/32"
+    ]
+  }
+}

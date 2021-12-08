@@ -1,0 +1,12 @@
+{
+  "asn": 42922,
+  "handle": "KASPNET",
+  "description": "KaspNet Ltd.",
+  "subnets": {
+    "ipv4": [
+      "185.252.145.0/24",
+      "193.33.240.0/23"
+    ],
+    "ipv6": []
+  }
+}

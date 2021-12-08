@@ -1,0 +1,13 @@
+{
+  "asn": 270281,
+  "handle": "VILANET-TELECOM-SERV",
+  "description": "VILANET TELECOM. SERV. E REPARO DE FORTALEZA LTDA",
+  "subnets": {
+    "ipv4": [
+      "200.125.180.0/22"
+    ],
+    "ipv6": [
+      "2804:69a0::/32"
+    ]
+  }
+}

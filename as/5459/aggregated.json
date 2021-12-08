@@ -1,0 +1,15 @@
+{
+  "asn": 5459,
+  "handle": "LINX",
+  "description": "London Internet Exchange Ltd.",
+  "subnets": {
+    "ipv4": [
+      "195.66.232.0/22",
+      "195.66.240.0/22",
+      "195.66.248.0/22"
+    ],
+    "ipv6": [
+      "2a01:40::/32"
+    ]
+  }
+}

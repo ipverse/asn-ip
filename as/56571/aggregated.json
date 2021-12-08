@@ -1,0 +1,12 @@
+{
+  "asn": 56571,
+  "handle": "CABLEX",
+  "description": "EXTREMEnA DE COMUNICACIONES POR CABLE SL",
+  "subnets": {
+    "ipv4": [
+      "176.10.64.0/20",
+      "185.191.40.0/22"
+    ],
+    "ipv6": []
+  }
+}

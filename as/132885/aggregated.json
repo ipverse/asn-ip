@@ -1,0 +1,13 @@
+{
+  "asn": 132885,
+  "handle": "CDSB-AP",
+  "description": "CET DEVELOPMENT SDN BHD",
+  "subnets": {
+    "ipv4": [
+      "103.27.112.0/22"
+    ],
+    "ipv6": [
+      "2001:df5:e000::/48"
+    ]
+  }
+}

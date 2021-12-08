@@ -1,0 +1,11 @@
+{
+  "asn": 142401,
+  "handle": "IDNIC-IMNETWORKS-ID",
+  "description": "PT Inter Koneksi Media",
+  "subnets": {
+    "ipv4": [
+      "103.172.240.0/23"
+    ],
+    "ipv6": []
+  }
+}

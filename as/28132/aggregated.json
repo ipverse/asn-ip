@@ -1,0 +1,13 @@
+{
+  "asn": 28132,
+  "handle": "TRI-TELECOM-LTDA",
+  "description": "TRI TELECOM LTDA",
+  "subnets": {
+    "ipv4": [
+      "187.44.80.0/20"
+    ],
+    "ipv6": [
+      "2804:258::/32"
+    ]
+  }
+}

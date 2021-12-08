@@ -1,0 +1,11 @@
+{
+  "asn": 31033,
+  "handle": "INVESTNET",
+  "description": "Intesa Sanpaolo S.p.A.",
+  "subnets": {
+    "ipv4": [
+      "217.118.144.0/20"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 19747,
+  "handle": "DATAVAIL",
+  "description": "Datavail",
+  "subnets": {
+    "ipv4": [
+      "199.195.216.0/22"
+    ],
+    "ipv6": [
+      "2620:131:3000::/44"
+    ]
+  }
+}

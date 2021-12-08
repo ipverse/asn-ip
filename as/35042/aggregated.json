@@ -1,0 +1,11 @@
+{
+  "asn": 35042,
+  "handle": "ISI",
+  "description": "IP Interactive UG (haftungsbeschraenkt)",
+  "subnets": {
+    "ipv4": [
+      "77.83.36.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 40891,
+  "handle": "SDI-MEDIA-GROUP",
+  "description": "SDI Media Group, Inc.",
+  "subnets": {
+    "ipv4": [
+      "66.186.42.0/24",
+      "66.186.44.0/24"
+    ],
+    "ipv6": []
+  }
+}

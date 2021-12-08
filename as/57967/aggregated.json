@@ -1,0 +1,13 @@
+{
+  "asn": 57967,
+  "handle": "SUPERVENIENT",
+  "description": "Supervenient AB",
+  "subnets": {
+    "ipv4": [
+      "91.237.90.0/24"
+    ],
+    "ipv6": [
+      "2001:67c:2794::/48"
+    ]
+  }
+}

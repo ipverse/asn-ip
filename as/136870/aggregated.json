@@ -1,0 +1,11 @@
+{
+  "asn": 136870,
+  "handle": "IDNIC-MCOM-ID",
+  "description": "PT Global Mediacom Tbk",
+  "subnets": {
+    "ipv4": [
+      "103.84.8.0/23"
+    ],
+    "ipv6": []
+  }
+}

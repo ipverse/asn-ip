@@ -1,0 +1,13 @@
+{
+  "asn": 140500,
+  "handle": "ANYUN-NETWORK-AP",
+  "description": "Henan Anyun Network Technology Co., Ltd.",
+  "subnets": {
+    "ipv4": [
+      "185.145.244.0/24"
+    ],
+    "ipv6": [
+      "2405:f3c0::/44"
+    ]
+  }
+}

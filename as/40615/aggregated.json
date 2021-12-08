@@ -1,0 +1,13 @@
+{
+  "asn": 40615,
+  "handle": "BCHD-1",
+  "description": "University Health System",
+  "subnets": {
+    "ipv4": [
+      "68.89.138.0/24",
+      "198.190.245.0/24",
+      "208.89.16.0/22"
+    ],
+    "ipv6": []
+  }
+}

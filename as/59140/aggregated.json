@@ -1,0 +1,11 @@
+{
+  "asn": 59140,
+  "handle": "IDNIC-GBN-ID",
+  "description": "PT Global Borneo Nusantara",
+  "subnets": {
+    "ipv4": [
+      "103.253.86.0/24"
+    ],
+    "ipv6": []
+  }
+}

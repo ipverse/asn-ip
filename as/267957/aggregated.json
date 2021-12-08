@@ -1,0 +1,13 @@
+{
+  "asn": 267957,
+  "handle": "NITRO-TELECOM",
+  "description": "NITRO TELECOM",
+  "subnets": {
+    "ipv4": [
+      "45.166.128.0/22"
+    ],
+    "ipv6": [
+      "2804:55cc::/32"
+    ]
+  }
+}

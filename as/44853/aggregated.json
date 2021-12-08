@@ -1,0 +1,13 @@
+{
+  "asn": 44853,
+  "handle": "TELEHOST",
+  "description": "Telehost SRL",
+  "subnets": {
+    "ipv4": [
+      "81.16.24.0/22",
+      "185.93.173.0/24",
+      "185.196.61.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 21807,
+  "handle": "DOLE-PACKAGED-FOODS",
+  "description": "Dole Packaged Foods",
+  "subnets": {
+    "ipv4": [
+      "198.217.36.0/23",
+      "198.217.45.0/24",
+      "198.217.63.0/24"
+    ],
+    "ipv6": []
+  }
+}

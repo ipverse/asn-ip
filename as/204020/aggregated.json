@@ -1,0 +1,13 @@
+{
+  "asn": 204020,
+  "handle": "FENICE",
+  "description": "Fenice Telekom Grupa d.o.o.",
+  "subnets": {
+    "ipv4": [
+      "185.254.252.0/22"
+    ],
+    "ipv6": [
+      "2a0c:5540::/32"
+    ]
+  }
+}

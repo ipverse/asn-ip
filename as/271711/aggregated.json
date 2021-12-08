@@ -1,0 +1,11 @@
+{
+  "asn": 271711,
+  "handle": "LIGMAX-PROVEDOR-DE",
+  "description": "LIGMAX PROVEDOR DE ACESSO A INTERNET LTDA",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2804:7fd0::/32"
+    ]
+  }
+}

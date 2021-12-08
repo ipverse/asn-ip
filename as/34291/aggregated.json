@@ -1,0 +1,13 @@
+{
+  "asn": 34291,
+  "handle": "CINVB",
+  "description": "JOINT-STOCK INVESTMENT BANK OF CHELYABINSK CHELYABINVESTBANK",
+  "subnets": {
+    "ipv4": [
+      "193.105.39.0/24",
+      "194.84.147.0/24",
+      "195.54.10.0/23"
+    ],
+    "ipv6": []
+  }
+}

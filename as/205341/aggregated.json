@@ -1,0 +1,12 @@
+{
+  "asn": 205341,
+  "handle": "SEDESISTEMAS",
+  "description": "SEDE SISTEMAS Y COMUNICACIONES S.L.",
+  "subnets": {
+    "ipv4": [
+      "45.140.160.0/22",
+      "185.221.8.0/22"
+    ],
+    "ipv6": []
+  }
+}

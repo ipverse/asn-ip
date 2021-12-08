@@ -1,0 +1,13 @@
+{
+  "asn": 50042,
+  "handle": "UBS",
+  "description": "South Business Communication, LTD",
+  "subnets": {
+    "ipv4": [
+      "185.125.112.0/22"
+    ],
+    "ipv6": [
+      "2a06:ba80::/29"
+    ]
+  }
+}

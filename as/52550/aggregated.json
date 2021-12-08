@@ -1,0 +1,14 @@
+{
+  "asn": 52550,
+  "handle": "ALQG-TECNOLOGIA-LTDA",
+  "description": "ALQG TECNOLOGIA LTDA.",
+  "subnets": {
+    "ipv4": [
+      "177.86.44.0/24",
+      "177.86.46.0/24"
+    ],
+    "ipv6": [
+      "2804:cc0::/32"
+    ]
+  }
+}

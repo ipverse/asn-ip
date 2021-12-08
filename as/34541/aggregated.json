@@ -1,0 +1,12 @@
+{
+  "asn": 34541,
+  "handle": "ONLINESOLUTIONS",
+  "description": "Online Solutions Oy",
+  "subnets": {
+    "ipv4": [
+      "185.193.76.0/22",
+      "217.112.192.0/20"
+    ],
+    "ipv6": []
+  }
+}

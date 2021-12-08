@@ -1,0 +1,12 @@
+{
+  "asn": 23851,
+  "handle": "CNNIC-CQCNC-AP",
+  "description": "CHONGQING CNC BROADBAND NETWORKS CO.,LTD",
+  "subnets": {
+    "ipv4": [
+      "211.158.32.0/19",
+      "211.158.64.0/18"
+    ],
+    "ipv6": []
+  }
+}

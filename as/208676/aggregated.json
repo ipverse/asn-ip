@@ -1,0 +1,11 @@
+{
+  "asn": 208676,
+  "handle": "VTBBANK",
+  "description": "VTB Bank (Europe) SE",
+  "subnets": {
+    "ipv4": [
+      "83.125.5.0/24"
+    ],
+    "ipv6": []
+  }
+}

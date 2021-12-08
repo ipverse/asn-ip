@@ -1,0 +1,13 @@
+{
+  "asn": 4883,
+  "handle": "ALLIANT-AS01",
+  "description": "Alliant Managed Services",
+  "subnets": {
+    "ipv4": [
+      "12.31.14.0/24",
+      "12.148.123.0/24",
+      "12.236.229.0/24"
+    ],
+    "ipv6": []
+  }
+}

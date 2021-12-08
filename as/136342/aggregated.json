@@ -1,0 +1,14 @@
+{
+  "asn": 136342,
+  "handle": "WINUXC",
+  "description": "Winux Communications Pvt. Ltd.",
+  "subnets": {
+    "ipv4": [
+      "103.113.228.0/22",
+      "103.127.184.0/22"
+    ],
+    "ipv6": [
+      "2405:b740::/32"
+    ]
+  }
+}

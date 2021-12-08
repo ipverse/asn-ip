@@ -1,0 +1,13 @@
+{
+  "asn": 63781,
+  "handle": "KFNET",
+  "description": "Kobayashi Family Net LLP",
+  "subnets": {
+    "ipv4": [
+      "103.143.136.0/23"
+    ],
+    "ipv6": [
+      "2405:5340::/32"
+    ]
+  }
+}

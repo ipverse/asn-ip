@@ -1,0 +1,11 @@
+{
+  "asn": 200,
+  "handle": "CENTURYLINK-LEGACY-LVLT",
+  "description": "Level 3 Parent, LLC",
+  "subnets": {
+    "ipv4": [
+      "64.128.114.0/24"
+    ],
+    "ipv6": []
+  }
+}

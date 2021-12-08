@@ -1,0 +1,13 @@
+{
+  "asn": 27568,
+  "handle": "WAVE-LAB",
+  "description": "Wave Broadband",
+  "subnets": {
+    "ipv4": [
+      "103.237.54.0/23"
+    ],
+    "ipv6": [
+      "2401:2f80::/32"
+    ]
+  }
+}

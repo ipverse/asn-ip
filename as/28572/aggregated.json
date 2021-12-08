@@ -1,0 +1,13 @@
+{
+  "asn": 28572,
+  "handle": "APOIOCOM-DIGITAL-LTDA-EPP",
+  "description": "Apoiocom Digital Ltda - EPP",
+  "subnets": {
+    "ipv4": [
+      "200.192.144.0/20"
+    ],
+    "ipv6": [
+      "2804:6e3c::/32"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 268429,
+  "handle": "SISTELBRAS-TELECOM",
+  "description": "SISTELBRAS TELECOM",
+  "subnets": {
+    "ipv4": [
+      "45.160.232.0/22"
+    ],
+    "ipv6": [
+      "2804:5114::/32"
+    ]
+  }
+}

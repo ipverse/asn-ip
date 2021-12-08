@@ -1,0 +1,13 @@
+{
+  "asn": 262654,
+  "handle": "GOVERNO-DO-ESTADO",
+  "description": "Governo do Estado do Rio Grande do Norte",
+  "subnets": {
+    "ipv4": [
+      "177.87.96.0/22"
+    ],
+    "ipv6": [
+      "2801:80:22a0::/48"
+    ]
+  }
+}

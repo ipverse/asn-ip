@@ -1,0 +1,11 @@
+{
+  "asn": 138701,
+  "handle": "GREENZONEONLINE-AP",
+  "description": "Green Zone Online",
+  "subnets": {
+    "ipv4": [
+      "103.134.60.0/22"
+    ],
+    "ipv6": []
+  }
+}

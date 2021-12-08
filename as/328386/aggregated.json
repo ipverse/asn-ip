@@ -1,0 +1,13 @@
+{
+  "asn": 328386,
+  "handle": "ADNEXUS",
+  "description": "Adnexus Celerity Networks (Proprietary) Limited",
+  "subnets": {
+    "ipv4": [
+      "102.130.72.0/21"
+    ],
+    "ipv6": [
+      "2c0f:ece8::/32"
+    ]
+  }
+}

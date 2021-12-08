@@ -1,0 +1,13 @@
+{
+  "asn": 271443,
+  "handle": "TRANSPORTAR-TELECOMUNICACOES-E",
+  "description": "TRANSPORTAR TELECOMUNICAÇÕES E ELETRICIDADE",
+  "subnets": {
+    "ipv4": [
+      "179.0.72.0/22"
+    ],
+    "ipv6": [
+      "2804:7ba0::/32"
+    ]
+  }
+}

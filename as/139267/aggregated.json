@@ -1,0 +1,13 @@
+{
+  "asn": 139267,
+  "handle": "GLEXIA-AP",
+  "description": "Glexia, Inc.",
+  "subnets": {
+    "ipv4": [
+      "173.243.224.0/24"
+    ],
+    "ipv6": [
+      "2602:fe12:9::/48"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 52704,
+  "handle": "SPEEDING-TELECOM",
+  "description": "SPEEDING TELECOM",
+  "subnets": {
+    "ipv4": [
+      "177.73.92.0/22"
+    ],
+    "ipv6": [
+      "2804:c6c::/32"
+    ]
+  }
+}

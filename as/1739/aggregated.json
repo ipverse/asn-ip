@@ -1,0 +1,11 @@
+{
+  "asn": 1739,
+  "handle": "TUTNET",
+  "description": "TUT Autonomous System Tampere University of Technology Information Management P.O.Box 527 FIN-33101 Tampere FI",
+  "subnets": {
+    "ipv4": [
+      "130.230.0.0/16"
+    ],
+    "ipv6": []
+  }
+}

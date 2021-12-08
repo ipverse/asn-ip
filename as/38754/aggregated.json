@@ -1,0 +1,13 @@
+{
+  "asn": 38754,
+  "handle": "PRIMENET-ID",
+  "description": "PRIMEDIA ARMOEKADATA INTERNET, PT.",
+  "subnets": {
+    "ipv4": [
+      "202.146.37.0/24",
+      "202.146.38.0/23",
+      "202.146.40.0/24"
+    ],
+    "ipv6": []
+  }
+}

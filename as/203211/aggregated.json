@@ -1,0 +1,12 @@
+{
+  "asn": 203211,
+  "handle": "HEWLETT-PACKARD-ENTERPRISE",
+  "description": "Hewlett Packard France S.A.S.",
+  "subnets": {
+    "ipv4": [
+      "192.53.24.0/21",
+      "195.160.64.0/19"
+    ],
+    "ipv6": []
+  }
+}

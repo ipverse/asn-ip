@@ -1,0 +1,13 @@
+{
+  "asn": 269462,
+  "handle": "FIBRANETBR-TECNOLOGIA-LTDA",
+  "description": "FIBRANETBR TECNOLOGIA LTDA",
+  "subnets": {
+    "ipv4": [
+      "45.187.96.0/22"
+    ],
+    "ipv6": [
+      "2804:6500::/32"
+    ]
+  }
+}

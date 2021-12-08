@@ -1,0 +1,11 @@
+{
+  "asn": 56803,
+  "handle": "DATASOURCE-CH",
+  "description": "Datasource AG",
+  "subnets": {
+    "ipv4": [
+      "185.195.71.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asn": 30583,
+  "handle": "QUANTUM",
+  "description": "Quantum Communications LLC",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2607:400::/32"
+    ]
+  }
+}

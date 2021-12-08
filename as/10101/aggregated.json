@@ -1,0 +1,13 @@
+{
+  "asn": 10101,
+  "handle": "SIMPUR-BN",
+  "description": "Unified National Networks",
+  "subnets": {
+    "ipv4": [
+      "202.152.64.0/19"
+    ],
+    "ipv6": [
+      "2406:7800::/32"
+    ]
+  }
+}

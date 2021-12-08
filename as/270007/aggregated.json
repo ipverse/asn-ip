@@ -1,0 +1,13 @@
+{
+  "asn": 270007,
+  "handle": "MORENO-YANOC-NEMIAS-BERNARDO",
+  "description": "MORENO YANOC NEMIAS BERNARDO",
+  "subnets": {
+    "ipv4": [
+      "177.53.152.0/22"
+    ],
+    "ipv6": [
+      "2803:71e0::/32"
+    ]
+  }
+}

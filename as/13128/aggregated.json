@@ -1,0 +1,13 @@
+{
+  "asn": 13128,
+  "handle": "LIT-BERLIN",
+  "description": "IT-Dienstleistungszentrum Berlin",
+  "subnets": {
+    "ipv4": [
+      "141.15.0.0/16"
+    ],
+    "ipv6": [
+      "2a02:1022::/32"
+    ]
+  }
+}

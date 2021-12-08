@@ -1,0 +1,11 @@
+{
+  "asn": 266833,
+  "handle": "CHANNEL-BROARDCASTING-CABLE",
+  "description": "CHANNEL BROARDCASTING CABLE",
+  "subnets": {
+    "ipv4": [
+      "131.255.40.0/22"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asn": 200823,
+  "handle": "LIBERTYINSUR",
+  "description": "Sovcombank Insurance JSC",
+  "subnets": {
+    "ipv4": [
+      "62.89.192.0/24"
+    ],
+    "ipv6": []
+  }
+}

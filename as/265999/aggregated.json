@@ -1,0 +1,11 @@
+{
+  "asn": 265999,
+  "handle": "R-N-DE",
+  "description": "R N DE CASTRO PROVEDOR DE INTERNET",
+  "subnets": {
+    "ipv4": [
+      "164.163.100.0/22"
+    ],
+    "ipv6": []
+  }
+}

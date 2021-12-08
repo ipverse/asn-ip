@@ -1,0 +1,13 @@
+{
+  "asn": 263609,
+  "handle": "FREE-WAY-TECNOLOGIA",
+  "description": "Free Way Tecnologia",
+  "subnets": {
+    "ipv4": [
+      "179.124.8.0/22"
+    ],
+    "ipv6": [
+      "2804:ff0::/32"
+    ]
+  }
+}

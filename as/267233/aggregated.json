@@ -1,0 +1,13 @@
+{
+  "asn": 267233,
+  "handle": "SET-SISTEMAS-DE",
+  "description": "Set Sistemas de Seg. Elet. e Telecomunicações",
+  "subnets": {
+    "ipv4": [
+      "45.231.60.0/22"
+    ],
+    "ipv6": [
+      "2804:4a54::/32"
+    ]
+  }
+}

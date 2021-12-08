@@ -1,0 +1,15 @@
+{
+  "asn": 26083,
+  "handle": "NEWEDGE-ASN1",
+  "description": "Newedge Facilities Management, Inc.",
+  "subnets": {
+    "ipv4": [
+      "74.115.150.0/23",
+      "162.246.240.0/22",
+      "194.119.16.0/23",
+      "207.45.240.0/22",
+      "208.75.238.0/23"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 267468,
+  "handle": "N-DOS-SANTOS",
+  "description": "N DOS SANTOS \u0026 SANTOS LTDA - ME - ME",
+  "subnets": {
+    "ipv4": [
+      "192.141.140.0/22"
+    ],
+    "ipv6": [
+      "2804:41f4::/37",
+      "2804:41f4:2000::/38"
+    ]
+  }
+}

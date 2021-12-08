@@ -1,0 +1,14 @@
+{
+  "asn": 213100,
+  "handle": "ENOX",
+  "description": "Bastiaan Visser trading as Enox",
+  "subnets": {
+    "ipv4": [
+      "193.17.35.0/24"
+    ],
+    "ipv6": [
+      "2001:67c:2848::/48",
+      "2a10:cdc0:f000::/36"
+    ]
+  }
+}

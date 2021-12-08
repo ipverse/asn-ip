@@ -1,0 +1,12 @@
+{
+  "asn": 22803,
+  "handle": "NOV",
+  "description": "National Oilwell Varco, Inc.",
+  "subnets": {
+    "ipv4": [
+      "199.59.234.0/23",
+      "208.92.228.0/22"
+    ],
+    "ipv6": []
+  }
+}

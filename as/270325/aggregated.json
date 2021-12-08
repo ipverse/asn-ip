@@ -1,0 +1,13 @@
+{
+  "asn": 270325,
+  "handle": "5ICOM-TELECOM-LTDA",
+  "description": "5I.COM TELECOM LTDA",
+  "subnets": {
+    "ipv4": [
+      "190.83.32.0/22"
+    ],
+    "ipv6": [
+      "2804:6a4c::/32"
+    ]
+  }
+}

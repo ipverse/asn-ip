@@ -1,0 +1,11 @@
+{
+  "asn": 272417,
+  "handle": "TEKNET-FIBRA",
+  "description": "TEKNET FIBRA",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2804:80dc::/32"
+    ]
+  }
+}

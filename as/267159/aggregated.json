@@ -1,0 +1,13 @@
+{
+  "asn": 267159,
+  "handle": "LTNET-TELECOMUNICACOES-EIRELE",
+  "description": "LTNET Telecomunicacoes EIRELE ME",
+  "subnets": {
+    "ipv4": [
+      "45.230.76.0/22"
+    ],
+    "ipv6": [
+      "2804:4904::/32"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 136379,
+  "handle": "ICL-AP",
+  "description": "Istanaimpian Corporation Limited",
+  "subnets": {
+    "ipv4": [
+      "103.138.192.0/23"
+    ],
+    "ipv6": [
+      "2001:df0:5080::/48"
+    ]
+  }
+}

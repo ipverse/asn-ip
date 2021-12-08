@@ -1,0 +1,11 @@
+{
+  "asn": 271523,
+  "handle": "RPLS-PROVEDOR-DE",
+  "description": "R.P.L.S. PROVEDOR DE INTERNET EIRELI",
+  "subnets": {
+    "ipv4": [
+      "138.99.82.0/23"
+    ],
+    "ipv6": []
+  }
+}

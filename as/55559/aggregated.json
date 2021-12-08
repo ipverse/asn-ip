@@ -1,0 +1,13 @@
+{
+  "asn": 55559,
+  "handle": "HTNETWORKS-KH",
+  "description": "HT Networks Co Ltd",
+  "subnets": {
+    "ipv4": [
+      "27.111.8.0/22",
+      "103.120.120.0/22",
+      "218.100.71.0/24"
+    ],
+    "ipv6": []
+  }
+}

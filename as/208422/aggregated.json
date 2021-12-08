@@ -1,0 +1,13 @@
+{
+  "asn": 208422,
+  "handle": "INFINITY",
+  "description": "Infinity Telecom, s.r.o.",
+  "subnets": {
+    "ipv4": [
+      "45.87.116.0/24"
+    ],
+    "ipv6": [
+      "2a09:e201::/48"
+    ]
+  }
+}

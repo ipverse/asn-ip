@@ -1,0 +1,11 @@
+{
+  "asn": 28675,
+  "handle": "AGSMTEL",
+  "description": "AGSM Lighting SRL",
+  "subnets": {
+    "ipv4": [
+      "213.171.96.0/19"
+    ],
+    "ipv6": []
+  }
+}

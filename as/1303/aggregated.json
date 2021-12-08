@@ -1,0 +1,13 @@
+{
+  "asn": 1303,
+  "handle": "FR-IDRIS-ORSAY",
+  "description": "Renater",
+  "subnets": {
+    "ipv4": [
+      "130.84.0.0/16",
+      "192.54.160.0/23",
+      "192.54.201.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 8684,
+  "handle": "PSU",
+  "description": "State Educational Institution of Higher Professional Education Perm State University",
+  "subnets": {
+    "ipv4": [
+      "212.192.64.0/19"
+    ],
+    "ipv6": [
+      "2001:b08:18::/48"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 31817,
+  "handle": "PSC",
+  "description": "Progress Software Corp - CSG",
+  "subnets": {
+    "ipv4": [
+      "131.239.30.0/23",
+      "156.21.0.0/23"
+    ],
+    "ipv6": []
+  }
+}

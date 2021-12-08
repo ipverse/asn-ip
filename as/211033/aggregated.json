@@ -1,0 +1,13 @@
+{
+  "asn": 211033,
+  "handle": "ASCORIAWEB",
+  "description": "Jose Poyato Prieto",
+  "subnets": {
+    "ipv4": [
+      "185.104.188.0/24"
+    ],
+    "ipv6": [
+      "2001:678:ff4::/48"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 35414,
+  "handle": "EMA",
+  "description": "European Medicines Agency",
+  "subnets": {
+    "ipv4": [
+      "195.144.17.0/24",
+      "195.144.18.0/23"
+    ],
+    "ipv6": []
+  }
+}

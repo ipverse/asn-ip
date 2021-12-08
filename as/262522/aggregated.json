@@ -1,0 +1,11 @@
+{
+  "asn": 262522,
+  "handle": "CITYDATA-TELECOM",
+  "description": "CityData Telecom",
+  "subnets": {
+    "ipv4": [
+      "177.67.160.0/21"
+    ],
+    "ipv6": []
+  }
+}

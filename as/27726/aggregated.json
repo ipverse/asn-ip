@@ -1,0 +1,11 @@
+{
+  "asn": 27726,
+  "handle": "GLOBAL-BANK",
+  "description": "GLOBAL BANK",
+  "subnets": {
+    "ipv4": [
+      "200.14.119.0/24"
+    ],
+    "ipv6": []
+  }
+}

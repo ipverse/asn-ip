@@ -1,0 +1,12 @@
+{
+  "asn": 135530,
+  "handle": "ACRONIS-AP",
+  "description": "Acronis Asia Pte. Ltd",
+  "subnets": {
+    "ipv4": [
+      "45.254.36.0/23",
+      "45.254.39.0/24"
+    ],
+    "ipv6": []
+  }
+}

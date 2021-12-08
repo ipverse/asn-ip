@@ -1,0 +1,11 @@
+{
+  "asn": 24536,
+  "handle": "ELNUS-ID",
+  "description": "PT. Elektrindo Data Nusantara",
+  "subnets": {
+    "ipv4": [
+      "202.146.176.0/21"
+    ],
+    "ipv6": []
+  }
+}

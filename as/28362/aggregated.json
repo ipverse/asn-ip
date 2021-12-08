@@ -1,0 +1,12 @@
+{
+  "asn": 28362,
+  "handle": "ONDA-INTERNET",
+  "description": "Onda Internet",
+  "subnets": {
+    "ipv4": [
+      "177.184.32.0/20",
+      "189.84.0.0/20"
+    ],
+    "ipv6": []
+  }
+}

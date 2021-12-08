@@ -1,0 +1,14 @@
+{
+  "asn": 262379,
+  "handle": "HZ-TELECOMUNICACOES-E",
+  "description": "HZ TELECOMUNICAÇÕES E INFORMATICA LTDA",
+  "subnets": {
+    "ipv4": [
+      "170.246.44.0/22",
+      "177.128.224.0/22"
+    ],
+    "ipv6": [
+      "2804:894::/32"
+    ]
+  }
+}

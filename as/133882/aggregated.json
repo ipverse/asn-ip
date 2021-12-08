@@ -1,0 +1,16 @@
+{
+  "asn": 133882,
+  "handle": "PARAGONINTERNETGROUP-AP",
+  "description": "PARAGON INTERNET GROUP LIMITED",
+  "subnets": {
+    "ipv4": [
+      "103.44.220.0/24",
+      "103.87.190.0/23",
+      "202.3.13.0/24"
+    ],
+    "ipv6": [
+      "2001:df1:9c00::/48",
+      "2403:bc80::/32"
+    ]
+  }
+}

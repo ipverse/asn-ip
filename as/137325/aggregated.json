@@ -1,0 +1,13 @@
+{
+  "asn": 137325,
+  "handle": "IDNIC-SANBE-ID",
+  "description": "PT Sanbe Farma",
+  "subnets": {
+    "ipv4": [
+      "103.111.217.0/24"
+    ],
+    "ipv6": [
+      "2001:df4:8b00::/48"
+    ]
+  }
+}

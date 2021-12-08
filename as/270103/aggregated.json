@@ -1,0 +1,11 @@
+{
+  "asn": 270103,
+  "handle": "ALPHA-TEL-SA",
+  "description": "Alpha Tel S.A.",
+  "subnets": {
+    "ipv4": [
+      "190.115.49.0/24"
+    ],
+    "ipv6": []
+  }
+}

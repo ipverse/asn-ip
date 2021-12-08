@@ -1,0 +1,12 @@
+{
+  "asn": 59332,
+  "handle": "MYNETLIMITED-BD",
+  "description": "Mynet",
+  "subnets": {
+    "ipv4": [
+      "45.116.248.0/22",
+      "103.228.0.0/22"
+    ],
+    "ipv6": []
+  }
+}

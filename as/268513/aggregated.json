@@ -1,0 +1,14 @@
+{
+  "asn": 268513,
+  "handle": "SCV-TELECOMUNICACOES-E",
+  "description": "SCV TELECOMUNICAÇÕES E COMERCIO LTDA-ME",
+  "subnets": {
+    "ipv4": [
+      "45.161.212.0/23",
+      "45.161.215.0/24"
+    ],
+    "ipv6": [
+      "2804:525c::/32"
+    ]
+  }
+}

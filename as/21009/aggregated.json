@@ -1,0 +1,12 @@
+{
+  "asn": 21009,
+  "handle": "APPLUS-SERVICIOS-TECNOLOGICOS-SL",
+  "description": "APPLUS SERVICIOS TECNOLOGICOS, S.L.",
+  "subnets": {
+    "ipv4": [
+      "91.220.158.0/24",
+      "193.8.216.0/22"
+    ],
+    "ipv6": []
+  }
+}

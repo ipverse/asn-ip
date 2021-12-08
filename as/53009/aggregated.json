@@ -1,0 +1,16 @@
+{
+  "asn": 53009,
+  "handle": "BACTH-SERVICOS-DE",
+  "description": "Bacth Servicos de Informatica Ltda",
+  "subnets": {
+    "ipv4": [
+      "177.67.32.0/23",
+      "177.67.35.0/24",
+      "177.67.36.0/24",
+      "177.67.39.0/24"
+    ],
+    "ipv6": [
+      "2804:560::/32"
+    ]
+  }
+}

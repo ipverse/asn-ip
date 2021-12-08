@@ -1,0 +1,14 @@
+{
+  "asn": 13465,
+  "handle": "HAUTE-VITESSE",
+  "description": "Haute-Vitesse.com",
+  "subnets": {
+    "ipv4": [
+      "23.158.240.0/24",
+      "134.195.188.0/22"
+    ],
+    "ipv6": [
+      "2602:fd4e::/36"
+    ]
+  }
+}

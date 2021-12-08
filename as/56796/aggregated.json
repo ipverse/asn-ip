@@ -1,0 +1,15 @@
+{
+  "asn": 56796,
+  "handle": "INFORMATICS-SOLUTIONS",
+  "description": "Informatics Solutions Limited",
+  "subnets": {
+    "ipv4": [
+      "45.133.157.0/24"
+    ],
+    "ipv6": [
+      "2001:678:9c8::/48",
+      "2001:678:9d4::/48",
+      "2001:678:a80::/48"
+    ]
+  }
+}

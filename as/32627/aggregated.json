@@ -1,0 +1,13 @@
+{
+  "asn": 32627,
+  "handle": "BIDS-TRADING",
+  "description": "BIDS Trading L.P.",
+  "subnets": {
+    "ipv4": [
+      "173.241.87.0/24",
+      "173.241.89.0/24",
+      "173.241.90.0/24"
+    ],
+    "ipv6": []
+  }
+}

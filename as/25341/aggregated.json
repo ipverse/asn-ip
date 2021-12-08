@@ -1,0 +1,15 @@
+{
+  "asn": 25341,
+  "handle": "LINIYA",
+  "description": "LLC Nauchno proizvodstvennaya Firma Raspredelennaya Obrabotka Informacii",
+  "subnets": {
+    "ipv4": [
+      "185.75.180.0/22",
+      "185.186.192.0/22"
+    ],
+    "ipv6": [
+      "2a03:4da0::/32",
+      "2a0b:8480::/29"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asn": 48244,
+  "handle": "HSCLOUD",
+  "description": "HS Cloud LLC",
+  "subnets": {
+    "ipv4": [
+      "91.209.38.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 49690,
+  "handle": "SGT-FR",
+  "description": "SAINT GOBAIN DSI GROUPE GIE",
+  "subnets": {
+    "ipv4": [
+      "159.151.0.0/18",
+      "192.109.140.0/23"
+    ],
+    "ipv6": [
+      "2a07:8140::/36"
+    ]
+  }
+}

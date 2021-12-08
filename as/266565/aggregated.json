@@ -1,0 +1,13 @@
+{
+  "asn": 266565,
+  "handle": "STAR-LINE-TELECOMUNICACOES",
+  "description": "STAR LINE TELECOMUNICAÇÕES LTDA",
+  "subnets": {
+    "ipv4": [
+      "45.7.40.0/22"
+    ],
+    "ipv6": [
+      "2804:3df4::/32"
+    ]
+  }
+}

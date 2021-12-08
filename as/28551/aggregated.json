@@ -1,0 +1,12 @@
+{
+  "asn": 28551,
+  "handle": "SERVICIOS-ADMINISTRATIVOS-WALMART",
+  "description": "SERVICIOS ADMINISTRATIVOS WALMART S DE RL DE CV",
+  "subnets": {
+    "ipv4": [
+      "161.164.248.0/22",
+      "161.164.254.0/23"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 8790,
+  "handle": "PETRSU",
+  "description": "State Educational Institution of Higher Professional Education Petrozavodsk State University",
+  "subnets": {
+    "ipv4": [
+      "193.232.254.0/24",
+      "194.85.172.0/23",
+      "195.209.248.0/23"
+    ],
+    "ipv6": []
+  }
+}

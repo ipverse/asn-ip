@@ -1,0 +1,11 @@
+{
+  "asn": 132359,
+  "handle": "RAPIDCLOUD-AP",
+  "description": "RapidCloud (M) Sdn Bhd",
+  "subnets": {
+    "ipv4": [
+      "103.113.180.0/24"
+    ],
+    "ipv6": []
+  }
+}

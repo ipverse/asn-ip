@@ -1,0 +1,14 @@
+{
+  "asn": 262489,
+  "handle": "TELECOMUNICACOES-SAPUCAI-TELECOM",
+  "description": "Telecomunicações Sapucai Telecom Ltda",
+  "subnets": {
+    "ipv4": [
+      "177.66.64.0/21",
+      "200.94.240.0/22"
+    ],
+    "ipv6": [
+      "2804:18d4::/32"
+    ]
+  }
+}

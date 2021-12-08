@@ -1,0 +1,11 @@
+{
+  "asn": 266906,
+  "handle": "FONDO-DE-GARANTIAS",
+  "description": "FONDO DE GARANTIAS DE INSTITUCIONES FINANCIERAS",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2801:16:5000::/44"
+    ]
+  }
+}

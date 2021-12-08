@@ -1,0 +1,13 @@
+{
+  "asn": 269656,
+  "handle": "RK-TELECOM-PROVEDOR",
+  "description": "RK Telecom Provedor Internet LTDA",
+  "subnets": {
+    "ipv4": [
+      "45.190.248.0/22"
+    ],
+    "ipv6": [
+      "2804:67e0::/32"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 271330,
+  "handle": "DIDE-TELECOMUNICACOES-LTDA",
+  "description": "Dide telecomunicações Ltda",
+  "subnets": {
+    "ipv4": [
+      "207.248.4.0/22"
+    ],
+    "ipv6": [
+      "2804:79d4::/32"
+    ]
+  }
+}

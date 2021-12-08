@@ -1,0 +1,13 @@
+{
+  "asn": 5081,
+  "handle": "CCS",
+  "description": "CLARE COMPUTER SOLUTIONS",
+  "subnets": {
+    "ipv4": [
+      "209.150.163.0/24"
+    ],
+    "ipv6": [
+      "2602:ff0c:a3::/48"
+    ]
+  }
+}

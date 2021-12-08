@@ -1,0 +1,13 @@
+{
+  "asn": 393828,
+  "handle": "EA-SEATTLE",
+  "description": "Electronic Arts, Inc.",
+  "subnets": {
+    "ipv4": [
+      "159.153.183.0/24"
+    ],
+    "ipv6": [
+      "2620:11e:30c7::/48"
+    ]
+  }
+}

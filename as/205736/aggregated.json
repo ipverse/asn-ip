@@ -1,0 +1,13 @@
+{
+  "asn": 205736,
+  "handle": "DE-DIMENSION",
+  "description": "Dimension Data Deutschland Holdings GmbH",
+  "subnets": {
+    "ipv4": [
+      "192.54.47.0/24",
+      "192.68.151.0/24",
+      "192.68.152.0/24"
+    ],
+    "ipv6": []
+  }
+}

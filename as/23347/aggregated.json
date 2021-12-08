@@ -1,0 +1,11 @@
+{
+  "asn": 23347,
+  "handle": "HANOVER-HOSPITAL",
+  "description": "Hanover Hospital",
+  "subnets": {
+    "ipv4": [
+      "8.225.222.0/24"
+    ],
+    "ipv6": []
+  }
+}

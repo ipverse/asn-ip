@@ -1,0 +1,12 @@
+{
+  "asn": 57392,
+  "handle": "ONLINESHOP",
+  "description": "ONLINESHOP SRL",
+  "subnets": {
+    "ipv4": [
+      "93.113.24.0/24",
+      "93.114.50.0/24"
+    ],
+    "ipv6": []
+  }
+}

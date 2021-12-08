@@ -1,0 +1,11 @@
+{
+  "asn": 265868,
+  "handle": "GETCOM-SAS",
+  "description": "GETCOM SAS",
+  "subnets": {
+    "ipv4": [
+      "45.226.28.0/22"
+    ],
+    "ipv6": []
+  }
+}

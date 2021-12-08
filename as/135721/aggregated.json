@@ -1,0 +1,11 @@
+{
+  "asn": 135721,
+  "handle": "NETSOL",
+  "description": "Network",
+  "subnets": {
+    "ipv4": [
+      "103.80.56.0/22"
+    ],
+    "ipv6": []
+  }
+}

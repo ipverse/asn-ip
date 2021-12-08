@@ -1,0 +1,13 @@
+{
+  "asn": 267448,
+  "handle": "C-C-ZUNINO-CENTRAL-NET-ME",
+  "description": "c c zunino central net-me",
+  "subnets": {
+    "ipv4": [
+      "192.141.60.0/22"
+    ],
+    "ipv6": [
+      "2804:41a8::/32"
+    ]
+  }
+}

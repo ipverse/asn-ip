@@ -1,0 +1,12 @@
+{
+  "asn": 394557,
+  "handle": "ROKU",
+  "description": "Roku Inc.",
+  "subnets": {
+    "ipv4": [
+      "38.99.97.0/24",
+      "50.224.7.0/24"
+    ],
+    "ipv6": []
+  }
+}

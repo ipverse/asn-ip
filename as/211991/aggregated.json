@@ -1,0 +1,11 @@
+{
+  "asn": 211991,
+  "handle": "F-NETWORK",
+  "description": "F-NETWORK SRL",
+  "subnets": {
+    "ipv4": [
+      "185.233.65.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 59630,
+  "handle": "NN-INSURANCE-EURASIA-NV-ITH",
+  "description": "NN Insurance EurAsia NV",
+  "subnets": {
+    "ipv4": [
+      "156.114.0.0/20"
+    ],
+    "ipv6": [
+      "2a04:a000::/29"
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "asn": 262428,
+  "handle": "LINK10-CATAGUASES-NET-LTDA",
+  "description": "Link10 - Cataguases Net Ltda",
+  "subnets": {
+    "ipv4": [
+      "170.82.152.0/22",
+      "177.44.144.0/20",
+      "191.6.176.0/20"
+    ],
+    "ipv6": [
+      "2804:13dc::/32"
+    ]
+  }
+}

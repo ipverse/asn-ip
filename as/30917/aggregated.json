@@ -1,0 +1,11 @@
+{
+  "asn": 30917,
+  "handle": "BUDAPESTBANK",
+  "description": "Budapest Hitel- es Fejlesztesi Bank Nyrt",
+  "subnets": {
+    "ipv4": [
+      "195.56.141.0/24"
+    ],
+    "ipv6": []
+  }
+}

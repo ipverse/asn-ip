@@ -1,0 +1,13 @@
+{
+  "asn": 38416,
+  "handle": "GOEYC-KR-KR",
+  "description": "Gyeonggi Yeoncheon Office of Education",
+  "subnets": {
+    "ipv4": [
+      "124.138.145.0/24",
+      "211.185.52.0/24",
+      "222.120.16.0/24"
+    ],
+    "ipv6": []
+  }
+}

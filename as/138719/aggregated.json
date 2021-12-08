@@ -1,0 +1,13 @@
+{
+  "asn": 138719,
+  "handle": "CONNECTO",
+  "description": "Connect Online",
+  "subnets": {
+    "ipv4": [
+      "103.137.219.0/24"
+    ],
+    "ipv6": [
+      "2001:df6:7980::/48"
+    ]
+  }
+}

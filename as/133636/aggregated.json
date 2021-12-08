@@ -1,0 +1,11 @@
+{
+  "asn": 133636,
+  "handle": "FISHEYELIMITED-AP",
+  "description": "Fisheye Limited",
+  "subnets": {
+    "ipv4": [
+      "103.39.20.0/22"
+    ],
+    "ipv6": []
+  }
+}

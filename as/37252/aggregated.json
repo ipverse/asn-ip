@@ -1,0 +1,11 @@
+{
+  "asn": 37252,
+  "handle": "GBAUTO",
+  "description": "GB Auto",
+  "subnets": {
+    "ipv4": [
+      "196.223.16.0/23"
+    ],
+    "ipv6": []
+  }
+}

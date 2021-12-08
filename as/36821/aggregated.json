@@ -1,0 +1,13 @@
+{
+  "asn": 36821,
+  "handle": "CLOUDTRICITY",
+  "description": "nfrastructure Technologies, Inc.",
+  "subnets": {
+    "ipv4": [
+      "141.193.25.0/24"
+    ],
+    "ipv6": [
+      "2620:129:1009::/48"
+    ]
+  }
+}

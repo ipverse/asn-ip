@@ -1,0 +1,13 @@
+{
+  "asn": 8481,
+  "handle": "TRANSNET",
+  "description": "SpaceNet AG",
+  "subnets": {
+    "ipv4": [
+      "193.31.7.0/24"
+    ],
+    "ipv6": [
+      "2a02:158:ffff::/48"
+    ]
+  }
+}

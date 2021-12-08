@@ -1,0 +1,13 @@
+{
+  "asn": 61873,
+  "handle": "SEVEN7-INTERNET-PROVIDER",
+  "description": "SEVEN7 INTERNET PROVIDER",
+  "subnets": {
+    "ipv4": [
+      "201.149.108.0/22"
+    ],
+    "ipv6": [
+      "2804:1aa4::/32"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 269084,
+  "handle": "GLOBAL-TECH-TELECOM-LTDA-ME",
+  "description": "Global Tech Telecom Ltda - ME",
+  "subnets": {
+    "ipv4": [
+      "45.179.120.0/22"
+    ],
+    "ipv6": [
+      "2804:5f38::/32"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 18407,
+  "handle": "CLICKINT-AP",
+  "description": "Fastcom Limited",
+  "subnets": {
+    "ipv4": [
+      "45.64.200.0/24",
+      "103.2.120.0/24"
+    ],
+    "ipv6": []
+  }
+}

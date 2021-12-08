@@ -1,0 +1,11 @@
+{
+  "asn": 139511,
+  "handle": "SWASTICO-IN",
+  "description": "Swasticom",
+  "subnets": {
+    "ipv4": [
+      "103.146.172.0/23"
+    ],
+    "ipv6": []
+  }
+}

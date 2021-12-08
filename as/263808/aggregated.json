@@ -1,0 +1,12 @@
+{
+  "asn": 263808,
+  "handle": "COOPERATIVA-ELECTRICA-DE",
+  "description": "Cooperativa Electrica de Servicios y Obras Publicas de Oncativo Ltda.",
+  "subnets": {
+    "ipv4": [
+      "138.204.152.0/22",
+      "190.228.23.0/24"
+    ],
+    "ipv6": []
+  }
+}

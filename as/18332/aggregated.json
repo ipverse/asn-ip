@@ -1,0 +1,11 @@
+{
+  "asn": 18332,
+  "handle": "POSTOPIA-KR-KR",
+  "description": "postopia",
+  "subnets": {
+    "ipv4": [
+      "222.232.207.0/24"
+    ],
+    "ipv6": []
+  }
+}

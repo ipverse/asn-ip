@@ -1,0 +1,13 @@
+{
+  "asn": 262949,
+  "handle": "ICONE-TELECOM",
+  "description": "ICONE TELECOM",
+  "subnets": {
+    "ipv4": [
+      "177.154.80.0/21"
+    ],
+    "ipv6": [
+      "2804:e48::/32"
+    ]
+  }
+}

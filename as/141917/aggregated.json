@@ -1,0 +1,11 @@
+{
+  "asn": 141917,
+  "handle": "IDNIC-MDU-ID",
+  "description": "PT Muria Data Utama",
+  "subnets": {
+    "ipv4": [
+      "103.164.228.0/23"
+    ],
+    "ipv6": []
+  }
+}

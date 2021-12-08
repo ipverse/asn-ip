@@ -1,0 +1,11 @@
+{
+  "asn": 4653,
+  "handle": "DATA3-AU",
+  "description": "Data 3 Limited",
+  "subnets": {
+    "ipv4": [
+      "103.246.32.0/22"
+    ],
+    "ipv6": []
+  }
+}

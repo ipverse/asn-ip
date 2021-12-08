@@ -1,0 +1,13 @@
+{
+  "asn": 267293,
+  "handle": "CASTRUM-SERVICOS-ESPECIALIZADOS",
+  "description": "Castrum Servicos Especializados EIRELI ME",
+  "subnets": {
+    "ipv4": [
+      "45.233.44.0/22"
+    ],
+    "ipv6": [
+      "2804:4b40::/32"
+    ]
+  }
+}

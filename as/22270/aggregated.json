@@ -1,0 +1,12 @@
+{
+  "asn": 22270,
+  "handle": "BANGOR-SAVINGS-BANK",
+  "description": "Bangor Savings Bank",
+  "subnets": {
+    "ipv4": [
+      "64.222.169.0/24",
+      "71.181.11.0/24"
+    ],
+    "ipv6": []
+  }
+}

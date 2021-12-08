@@ -1,0 +1,14 @@
+{
+  "asn": 60159,
+  "handle": "EUROLINE-NET",
+  "description": "EUROLINE UKRAINE LLC",
+  "subnets": {
+    "ipv4": [
+      "185.41.23.0/24",
+      "194.146.188.0/22"
+    ],
+    "ipv6": [
+      "2a0c:d540::/32"
+    ]
+  }
+}

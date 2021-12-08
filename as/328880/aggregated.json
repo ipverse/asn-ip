@@ -1,0 +1,14 @@
+{
+  "asn": 328880,
+  "handle": "STE-INTERNET-SMART-SOLUTIONS",
+  "description": "STE INTERNET SMART SOLUTIONS",
+  "subnets": {
+    "ipv4": [
+      "196.203.112.0/22",
+      "197.10.64.0/18",
+      "197.10.160.0/19",
+      "197.10.192.0/19"
+    ],
+    "ipv6": []
+  }
+}

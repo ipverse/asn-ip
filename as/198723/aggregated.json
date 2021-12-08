@@ -1,0 +1,13 @@
+{
+  "asn": 198723,
+  "handle": "UNI-READING",
+  "description": "University of Reading",
+  "subnets": {
+    "ipv4": [
+      "103.39.122.0/23"
+    ],
+    "ipv6": [
+      "2001:df0:2bf::/48"
+    ]
+  }
+}

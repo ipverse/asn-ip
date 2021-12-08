@@ -1,0 +1,11 @@
+{
+  "asn": 138493,
+  "handle": "CLASSLIMITED-AP",
+  "description": "Class Limited",
+  "subnets": {
+    "ipv4": [
+      "103.126.233.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asn": 132912,
+  "handle": "SL1-AP",
+  "description": "Stuff Limited",
+  "subnets": {
+    "ipv4": [
+      "119.15.65.0/24"
+    ],
+    "ipv6": []
+  }
+}

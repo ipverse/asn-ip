@@ -1,0 +1,11 @@
+{
+  "asn": 140392,
+  "handle": "JAVAUNITED-ID",
+  "description": "PT Java United Services",
+  "subnets": {
+    "ipv4": [
+      "103.150.148.0/23"
+    ],
+    "ipv6": []
+  }
+}

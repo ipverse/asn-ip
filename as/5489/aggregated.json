@@ -1,0 +1,13 @@
+{
+  "asn": 5489,
+  "handle": "TEI-THES",
+  "description": "Alexander Technological Educational Institute of Thessaloniki",
+  "subnets": {
+    "ipv4": [
+      "195.251.120.0/22",
+      "195.251.238.0/23",
+      "195.251.240.0/22"
+    ],
+    "ipv6": []
+  }
+}

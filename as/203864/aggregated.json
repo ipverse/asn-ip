@@ -1,0 +1,11 @@
+{
+  "asn": 203864,
+  "handle": "BG-GPSBUL",
+  "description": "GPS BULGARIA AD",
+  "subnets": {
+    "ipv4": [
+      "87.121.164.0/24"
+    ],
+    "ipv6": []
+  }
+}

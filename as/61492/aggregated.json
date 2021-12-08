@@ -1,0 +1,13 @@
+{
+  "asn": 61492,
+  "handle": "SERVICIOS-EQUIFAX-CHILE",
+  "description": "SERVICIOS EQUIFAX CHILE LIMITADA",
+  "subnets": {
+    "ipv4": [
+      "165.183.92.0/23",
+      "165.183.96.0/24",
+      "165.183.98.0/24"
+    ],
+    "ipv6": []
+  }
+}

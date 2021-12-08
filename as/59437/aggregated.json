@@ -1,0 +1,14 @@
+{
+  "asn": 59437,
+  "handle": "NORTHERNDATA",
+  "description": "Northern Data AG",
+  "subnets": {
+    "ipv4": [
+      "185.241.110.0/24",
+      "195.211.49.0/24"
+    ],
+    "ipv6": [
+      "2a11:cc80::/29"
+    ]
+  }
+}

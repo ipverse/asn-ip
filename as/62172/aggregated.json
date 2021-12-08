@@ -1,0 +1,13 @@
+{
+  "asn": 62172,
+  "handle": "NEONIX",
+  "description": "Neonix Web Services Limited",
+  "subnets": {
+    "ipv4": [
+      "185.37.216.0/22"
+    ],
+    "ipv6": [
+      "2a04:7340::/29"
+    ]
+  }
+}

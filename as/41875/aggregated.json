@@ -1,0 +1,11 @@
+{
+  "asn": 41875,
+  "handle": "PLANET",
+  "description": "Planet ltd.",
+  "subnets": {
+    "ipv4": [
+      "193.39.72.0/24"
+    ],
+    "ipv6": []
+  }
+}

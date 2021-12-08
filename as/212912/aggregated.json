@@ -1,0 +1,13 @@
+{
+  "asn": 212912,
+  "handle": "DYNAMIKCLOUD",
+  "description": "Dynamik Cloud \u0026 Telecom SAS",
+  "subnets": {
+    "ipv4": [
+      "193.105.165.0/24"
+    ],
+    "ipv6": [
+      "2a0c:b641:5e0::/44"
+    ]
+  }
+}

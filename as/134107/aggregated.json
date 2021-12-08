@@ -1,0 +1,12 @@
+{
+  "asn": 134107,
+  "handle": "UMP-AP",
+  "description": "University Malaysia Pahang",
+  "subnets": {
+    "ipv4": [
+      "103.53.32.0/23",
+      "103.53.35.0/24"
+    ],
+    "ipv6": []
+  }
+}

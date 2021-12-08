@@ -1,0 +1,13 @@
+{
+  "asn": 149026,
+  "handle": "EMUTELPTYLTD-AP",
+  "description": "EmuTel",
+  "subnets": {
+    "ipv4": [
+      "103.176.218.0/23"
+    ],
+    "ipv6": [
+      "2400:35e0::/32"
+    ]
+  }
+}

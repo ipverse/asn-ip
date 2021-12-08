@@ -1,0 +1,11 @@
+{
+  "asn": 62701,
+  "handle": "HVCC",
+  "description": "Hudson Valley Community College",
+  "subnets": {
+    "ipv4": [
+      "151.103.0.0/16"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 24304,
+  "handle": "ARW-HK-AP",
+  "description": "Arrow Asia Pac Ltd.",
+  "subnets": {
+    "ipv4": [
+      "203.193.26.0/24",
+      "203.222.51.0/24"
+    ],
+    "ipv6": []
+  }
+}

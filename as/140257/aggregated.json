@@ -1,0 +1,12 @@
+{
+  "asn": 140257,
+  "handle": "CHINATELECOM-ANHUI-CHIZHOU-5G-NETWORK",
+  "description": "China Telecom",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "240e:9b:f024::/47",
+      "240e:9b:f026::/48"
+    ]
+  }
+}

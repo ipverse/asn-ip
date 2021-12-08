@@ -1,0 +1,11 @@
+{
+  "asn": 397091,
+  "handle": "LASERFICHE-ASN-01",
+  "description": "Laserfiche",
+  "subnets": {
+    "ipv4": [
+      "52.144.28.0/24"
+    ],
+    "ipv6": []
+  }
+}

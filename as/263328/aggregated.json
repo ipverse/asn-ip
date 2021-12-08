@@ -1,0 +1,14 @@
+{
+  "asn": 263328,
+  "handle": "PANDA-NETWORK",
+  "description": "Panda Network",
+  "subnets": {
+    "ipv4": [
+      "170.0.56.0/22",
+      "191.7.184.0/22"
+    ],
+    "ipv6": [
+      "2804:1468::/32"
+    ]
+  }
+}

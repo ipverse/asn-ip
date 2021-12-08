@@ -1,0 +1,13 @@
+{
+  "asn": 13283,
+  "handle": "BJB1",
+  "description": "Bank Julius Baer \u0026 Co. AG",
+  "subnets": {
+    "ipv4": [
+      "159.103.0.0/16"
+    ],
+    "ipv6": [
+      "2a06:d581:1000::/36"
+    ]
+  }
+}

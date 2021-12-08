@@ -1,0 +1,13 @@
+{
+  "asn": 270305,
+  "handle": "ACESSE-INTERNET",
+  "description": "ACESSE INTERNET",
+  "subnets": {
+    "ipv4": [
+      "201.216.120.0/22"
+    ],
+    "ipv6": [
+      "2804:6a00::/32"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 62614,
+  "handle": "NETWOLVES-NETWORK-SERVICES",
+  "description": "NetWolves Network Services LLC",
+  "subnets": {
+    "ipv4": [
+      "8.21.136.0/24",
+      "8.29.213.0/24",
+      "67.109.163.0/24"
+    ],
+    "ipv6": []
+  }
+}

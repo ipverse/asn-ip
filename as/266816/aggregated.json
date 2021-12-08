@@ -1,0 +1,13 @@
+{
+  "asn": 266816,
+  "handle": "SIMECT-GROUP-REDES",
+  "description": "SIMECT GROUP REDES E INTERNET S.A.S",
+  "subnets": {
+    "ipv4": [
+      "45.179.201.0/24",
+      "45.233.168.0/23",
+      "45.233.170.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 265879,
+  "handle": "COOPERATIVA-DE-OBRAS",
+  "description": "COOPERATIVA DE OBRAS Y SERVICIOS PUBLICOS DE CANALS LIMITADA",
+  "subnets": {
+    "ipv4": [
+      "45.227.32.0/22"
+    ],
+    "ipv6": [
+      "2803:de20::/32"
+    ]
+  }
+}

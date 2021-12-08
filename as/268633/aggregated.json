@@ -1,0 +1,14 @@
+{
+  "asn": 268633,
+  "handle": "73S-INTERNET-PROVEDOR",
+  "description": "73s Internet Provedor",
+  "subnets": {
+    "ipv4": [
+      "45.164.184.0/22"
+    ],
+    "ipv6": [
+      "2804:542c::/35",
+      "2804:542c:8000::/35"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 39600,
+  "handle": "LIXIUM",
+  "description": "LIXIUM SARL",
+  "subnets": {
+    "ipv4": [
+      "79.98.96.0/21",
+      "195.246.230.0/23"
+    ],
+    "ipv6": []
+  }
+}

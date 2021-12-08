@@ -1,0 +1,13 @@
+{
+  "asn": 399791,
+  "handle": "PROCARE-MSO",
+  "description": "Procare MSO, LLC",
+  "subnets": {
+    "ipv4": [
+      "8.40.103.0/24",
+      "8.45.61.0/24",
+      "38.146.222.0/23"
+    ],
+    "ipv6": []
+  }
+}

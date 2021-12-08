@@ -1,0 +1,16 @@
+{
+  "asn": 203929,
+  "handle": "NEXT-LEVEL-BUSINESS-SRL",
+  "description": "NEXT LEVEL BUSINESS SRL",
+  "subnets": {
+    "ipv4": [
+      "89.37.56.0/24",
+      "91.199.220.0/24",
+      "185.124.33.0/24",
+      "185.124.34.0/23"
+    ],
+    "ipv6": [
+      "2a0b:2cc0::/48"
+    ]
+  }
+}

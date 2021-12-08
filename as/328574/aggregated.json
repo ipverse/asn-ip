@@ -1,0 +1,11 @@
+{
+  "asn": 328574,
+  "handle": "NCA",
+  "description": "National Communications Authority",
+  "subnets": {
+    "ipv4": [
+      "102.36.183.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 29750,
+  "handle": "ALASKA-AIRGROUP-IGQ",
+  "description": "Alaska Airlines, Inc.",
+  "subnets": {
+    "ipv4": [
+      "159.49.0.0/16",
+      "162.211.8.0/24"
+    ],
+    "ipv6": []
+  }
+}

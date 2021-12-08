@@ -1,0 +1,13 @@
+{
+  "asn": 139521,
+  "handle": "PADMNET",
+  "description": "Padmnet Broadband Service Pvt. Ltd.",
+  "subnets": {
+    "ipv4": [
+      "103.142.162.0/23"
+    ],
+    "ipv6": [
+      "2001:df3:8d80::/48"
+    ]
+  }
+}

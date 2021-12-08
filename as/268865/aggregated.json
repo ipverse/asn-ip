@@ -1,0 +1,13 @@
+{
+  "asn": 268865,
+  "handle": "ASLX-PROVEDOR-DE",
+  "description": "ASLX PROVEDOR DE INTERNET EIREL1",
+  "subnets": {
+    "ipv4": [
+      "45.174.136.0/22"
+    ],
+    "ipv6": [
+      "2804:5bb8::/32"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 36521,
+  "handle": "HOP-ASN-1",
+  "description": "H.O.P. Communications DBA airHOP",
+  "subnets": {
+    "ipv4": [
+      "199.66.208.0/21",
+      "208.69.16.0/22",
+      "208.79.172.0/22"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 208365,
+  "handle": "SHAMSTELECOM",
+  "description": "Shams Telecom Networks and Internet Service Ltd",
+  "subnets": {
+    "ipv4": [
+      "31.223.186.0/24",
+      "45.151.76.0/22",
+      "81.22.32.0/22"
+    ],
+    "ipv6": []
+  }
+}

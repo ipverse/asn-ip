@@ -1,0 +1,13 @@
+{
+  "asn": 61867,
+  "handle": "GIGACOM-DO-BRASIL-LTDA",
+  "description": "GIGACOM DO BRASIL LTDA",
+  "subnets": {
+    "ipv4": [
+      "192.100.228.0/23"
+    ],
+    "ipv6": [
+      "2801:80:bf0::/48"
+    ]
+  }
+}

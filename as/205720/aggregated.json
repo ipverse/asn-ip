@@ -1,0 +1,11 @@
+{
+  "asn": 205720,
+  "handle": "MALTAT",
+  "description": "LLC Maltat",
+  "subnets": {
+    "ipv4": [
+      "185.126.131.0/24"
+    ],
+    "ipv6": []
+  }
+}

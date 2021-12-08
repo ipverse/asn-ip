@@ -1,0 +1,13 @@
+{
+  "asn": 11176,
+  "handle": "SMART-CITY-MNCC",
+  "description": "Smart City Networks, L.P.",
+  "subnets": {
+    "ipv4": [
+      "24.52.48.0/23",
+      "24.75.212.0/22",
+      "208.115.83.0/24"
+    ],
+    "ipv6": []
+  }
+}

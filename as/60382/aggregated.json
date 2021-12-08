@@ -1,0 +1,12 @@
+{
+  "asn": 60382,
+  "handle": "CRANLEIGH",
+  "description": "Cranleigh School",
+  "subnets": {
+    "ipv4": [
+      "91.213.225.0/24",
+      "195.5.167.0/24"
+    ],
+    "ipv6": []
+  }
+}

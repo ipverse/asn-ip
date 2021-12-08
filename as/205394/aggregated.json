@@ -1,0 +1,14 @@
+{
+  "asn": 205394,
+  "handle": "CSLDUAL",
+  "description": "CSL (DualCom) Limited",
+  "subnets": {
+    "ipv4": [
+      "139.28.100.0/22",
+      "185.201.164.0/22"
+    ],
+    "ipv6": [
+      "2a0a:c840::/29"
+    ]
+  }
+}

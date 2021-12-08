@@ -1,0 +1,12 @@
+{
+  "asn": 54259,
+  "handle": "SKILLSOFT-CORPORATION",
+  "description": "SKILLSOFT CORPORATION",
+  "subnets": {
+    "ipv4": [
+      "65.121.228.0/24",
+      "67.132.9.0/24"
+    ],
+    "ipv6": []
+  }
+}

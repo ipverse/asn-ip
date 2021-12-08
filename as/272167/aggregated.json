@@ -1,0 +1,13 @@
+{
+  "asn": 272167,
+  "handle": "NCWEB-TELECOM",
+  "description": "NCWEB TELECOM",
+  "subnets": {
+    "ipv4": [
+      "45.187.65.0/24"
+    ],
+    "ipv6": [
+      "2804:82f4::/32"
+    ]
+  }
+}

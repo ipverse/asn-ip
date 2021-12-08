@@ -1,0 +1,12 @@
+{
+  "asn": 138100,
+  "handle": "M2N-ID",
+  "description": "PT. Mahameru Media Nusantara",
+  "subnets": {
+    "ipv4": [
+      "103.125.104.0/23",
+      "103.125.107.0/24"
+    ],
+    "ipv6": []
+  }
+}

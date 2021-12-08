@@ -1,0 +1,13 @@
+{
+  "asn": 270976,
+  "handle": "FOX-NET-FS",
+  "description": "FOX NET FS",
+  "subnets": {
+    "ipv4": [
+      "179.43.16.0/22"
+    ],
+    "ipv6": [
+      "2804:745c::/32"
+    ]
+  }
+}

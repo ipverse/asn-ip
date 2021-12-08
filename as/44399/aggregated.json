@@ -1,0 +1,13 @@
+{
+  "asn": 44399,
+  "handle": "FHOOE",
+  "description": "FH OOe Studienbetriebs GmbH",
+  "subnets": {
+    "ipv4": [
+      "185.252.72.0/22"
+    ],
+    "ipv6": [
+      "2a0c:2340::/29"
+    ]
+  }
+}

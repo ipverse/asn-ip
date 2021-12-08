@@ -1,0 +1,13 @@
+{
+  "asn": 205885,
+  "handle": "CNETAS01",
+  "description": "Cloudnet IT Solutions Ltd",
+  "subnets": {
+    "ipv4": [
+      "185.16.82.0/24"
+    ],
+    "ipv6": [
+      "2a10:2240::/32"
+    ]
+  }
+}

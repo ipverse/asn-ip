@@ -1,0 +1,12 @@
+{
+  "asn": 262985,
+  "handle": "GLOBAL-NETWORKS-TELECOMUNICACOES",
+  "description": "global networks telecomunicações e informatica ltd",
+  "subnets": {
+    "ipv4": [
+      "44.31.41.0/24",
+      "186.250.248.0/22"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 36385,
+  "handle": "GOOGLE-IT",
+  "description": "Google LLC",
+  "subnets": {
+    "ipv4": [
+      "185.25.30.0/24"
+    ],
+    "ipv6": [
+      "2a00:79e0:101::/48"
+    ]
+  }
+}

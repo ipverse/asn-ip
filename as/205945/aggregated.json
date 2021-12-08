@@ -1,0 +1,12 @@
+{
+  "asn": 205945,
+  "handle": "BASIS",
+  "description": "Basis Consulting AS",
+  "subnets": {
+    "ipv4": [
+      "185.201.92.0/23",
+      "185.201.94.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 213112,
+  "handle": "IBLOO",
+  "description": "iBLOO SARL",
+  "subnets": {
+    "ipv4": [
+      "93.177.81.0/24"
+    ],
+    "ipv6": [
+      "2a0a:da80::/29"
+    ]
+  }
+}

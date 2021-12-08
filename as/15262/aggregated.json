@@ -1,0 +1,12 @@
+{
+  "asn": 15262,
+  "handle": "TSYS-COLUMBUS-COPORATE-INTERNET",
+  "description": "TSYS",
+  "subnets": {
+    "ipv4": [
+      "12.45.103.0/24",
+      "12.105.192.0/24"
+    ],
+    "ipv6": []
+  }
+}

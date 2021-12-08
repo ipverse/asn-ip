@@ -1,0 +1,12 @@
+{
+  "asn": 53521,
+  "handle": "CDS-200",
+  "description": "Complete Discovery Source",
+  "subnets": {
+    "ipv4": [
+      "38.125.93.0/24",
+      "154.60.112.0/24"
+    ],
+    "ipv6": []
+  }
+}

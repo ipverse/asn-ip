@@ -1,0 +1,13 @@
+{
+  "asn": 270362,
+  "handle": "FIBERCOMP-INTERNET",
+  "description": "FIBERCOMP INTERNET",
+  "subnets": {
+    "ipv4": [
+      "190.89.60.0/22"
+    ],
+    "ipv6": [
+      "2804:6adc::/32"
+    ]
+  }
+}

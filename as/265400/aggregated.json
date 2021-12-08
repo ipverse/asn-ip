@@ -1,0 +1,13 @@
+{
+  "asn": 265400,
+  "handle": "VALE-VERDE-TECNOLOGIA",
+  "description": "VALE VERDE TECNOLOGIA INTEGRADA",
+  "subnets": {
+    "ipv4": [
+      "168.194.176.0/22"
+    ],
+    "ipv6": [
+      "2804:3380::/32"
+    ]
+  }
+}

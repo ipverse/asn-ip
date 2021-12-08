@@ -1,0 +1,13 @@
+{
+  "asn": 271017,
+  "handle": "AMAZONFIBER-SERVICOS-DE",
+  "description": "AMAZONFIBER SERVICOS DE COMUNICACAO LTDA",
+  "subnets": {
+    "ipv4": [
+      "200.219.0.0/22"
+    ],
+    "ipv6": [
+      "2804:7500::/32"
+    ]
+  }
+}

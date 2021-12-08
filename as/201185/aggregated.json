@@ -1,0 +1,11 @@
+{
+  "asn": 201185,
+  "handle": "KBC-MESSEWIEN",
+  "description": "Kapsch BusinessCom AG",
+  "subnets": {
+    "ipv4": [
+      "185.85.64.0/24"
+    ],
+    "ipv6": []
+  }
+}

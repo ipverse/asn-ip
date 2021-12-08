@@ -1,0 +1,12 @@
+{
+  "asn": 18457,
+  "handle": "E-RESOURCES-LLC",
+  "description": "E-Resources, LLC",
+  "subnets": {
+    "ipv4": [
+      "38.100.134.0/24",
+      "38.101.19.0/24"
+    ],
+    "ipv6": []
+  }
+}

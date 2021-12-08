@@ -1,0 +1,12 @@
+{
+  "asn": 209970,
+  "handle": "NEWCOM",
+  "description": "NewCom TLC S.r.l.",
+  "subnets": {
+    "ipv4": [
+      "45.67.112.0/22",
+      "185.155.120.0/22"
+    ],
+    "ipv6": []
+  }
+}

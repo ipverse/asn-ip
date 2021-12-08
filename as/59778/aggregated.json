@@ -1,0 +1,14 @@
+{
+  "asn": 59778,
+  "handle": "SYNEXTRA-UK",
+  "description": "Synextra Limited",
+  "subnets": {
+    "ipv4": [
+      "185.72.92.0/22",
+      "185.166.68.0/22"
+    ],
+    "ipv6": [
+      "2a05:3940::/31"
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 203271,
+  "handle": "BNTPRO",
+  "description": "BNTPRO BILGI VE ILETISIM HIZMETLERI LIMITED SIRKETI",
+  "subnets": {
+    "ipv4": [
+      "185.14.175.0/24"
+    ],
+    "ipv6": [
+      "2a06:9080::/32",
+      "2a06:9087:ffff::/48"
+    ]
+  }
+}

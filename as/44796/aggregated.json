@@ -1,0 +1,14 @@
+{
+  "asn": 44796,
+  "handle": "EUROWEB",
+  "description": "Euroweb Internet GmbH",
+  "subnets": {
+    "ipv4": [
+      "91.92.232.0/24",
+      "91.199.247.0/24"
+    ],
+    "ipv6": [
+      "2a00:1728:1d::/48"
+    ]
+  }
+}

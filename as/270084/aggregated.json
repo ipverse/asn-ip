@@ -1,0 +1,13 @@
+{
+  "asn": 270084,
+  "handle": "BRIDGE-COMUNICACIONES-SA",
+  "description": "BRIDGE COMUNICACIONES S.A. BRIDGECOMTEL",
+  "subnets": {
+    "ipv4": [
+      "177.86.142.0/24",
+      "186.232.242.0/24",
+      "201.131.103.0/24"
+    ],
+    "ipv6": []
+  }
+}

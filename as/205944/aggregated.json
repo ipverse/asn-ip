@@ -1,0 +1,12 @@
+{
+  "asn": 205944,
+  "handle": "ISAM1",
+  "description": "ISAM FUNDS (UK) LIMITED",
+  "subnets": {
+    "ipv4": [
+      "185.250.96.0/23",
+      "185.250.98.0/24"
+    ],
+    "ipv6": []
+  }
+}

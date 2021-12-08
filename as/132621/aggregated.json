@@ -1,0 +1,11 @@
+{
+  "asn": 132621,
+  "handle": "CBA-AP",
+  "description": "Commonwealth Bank of Australia",
+  "subnets": {
+    "ipv4": [
+      "140.168.244.0/22"
+    ],
+    "ipv6": []
+  }
+}

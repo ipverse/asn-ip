@@ -1,0 +1,13 @@
+{
+  "asn": 264962,
+  "handle": "VOLTEC-SERVICO-DE",
+  "description": "VOLTEC SERVIÇO DE AUTOMAÇÃO TELECOM ...",
+  "subnets": {
+    "ipv4": [
+      "168.232.244.0/22"
+    ],
+    "ipv6": [
+      "2804:3094::/32"
+    ]
+  }
+}

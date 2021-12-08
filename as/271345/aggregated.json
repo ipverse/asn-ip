@@ -1,0 +1,13 @@
+{
+  "asn": 271345,
+  "handle": "ND-TELECOM-FIBRA",
+  "description": "ND TELECOM FIBRA",
+  "subnets": {
+    "ipv4": [
+      "181.189.60.0/22"
+    ],
+    "ipv6": [
+      "2804:7a10::/32"
+    ]
+  }
+}

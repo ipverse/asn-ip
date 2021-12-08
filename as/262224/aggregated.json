@@ -1,0 +1,11 @@
+{
+  "asn": 262224,
+  "handle": "CENTRAL-DE-RESTAURANTES",
+  "description": "Central de Restaurantes Aramark Ltda.",
+  "subnets": {
+    "ipv4": [
+      "161.195.142.0/24"
+    ],
+    "ipv6": []
+  }
+}

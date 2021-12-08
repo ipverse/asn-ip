@@ -1,0 +1,12 @@
+{
+  "asn": 15617,
+  "handle": "WIND-HELLAS",
+  "description": "WIND HELLAS TELECOMMUNICATIONS SA",
+  "subnets": {
+    "ipv4": [
+      "188.73.192.0/18",
+      "212.152.64.0/18"
+    ],
+    "ipv6": []
+  }
+}

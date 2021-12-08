@@ -1,0 +1,13 @@
+{
+  "asn": 16596,
+  "handle": "UNIVERSIDAD-AUTONOMA-DEL",
+  "description": "Universidad Autonoma del Estado de Baja California",
+  "subnets": {
+    "ipv4": [
+      "148.231.0.0/16"
+    ],
+    "ipv6": [
+      "2801:c0:3::/48"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 43852,
+  "handle": "KUWAIT-DATA-CENTER",
+  "description": "Kuwait Data Center Co.",
+  "subnets": {
+    "ipv4": [
+      "62.215.221.0/24",
+      "78.159.160.0/19"
+    ],
+    "ipv6": []
+  }
+}

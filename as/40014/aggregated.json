@@ -1,0 +1,12 @@
+{
+  "asn": 40014,
+  "handle": "PUBLISHING-DATA-MANAGEMENT-INC",
+  "description": "Publishing Data Management, Inc.",
+  "subnets": {
+    "ipv4": [
+      "199.36.216.0/24",
+      "199.36.219.0/24"
+    ],
+    "ipv6": []
+  }
+}

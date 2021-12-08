@@ -1,0 +1,13 @@
+{
+  "asn": 138172,
+  "handle": "BOOMINFOTECH-AP",
+  "description": "Boom Info Tech (SMC-Pvt) Ltd",
+  "subnets": {
+    "ipv4": [
+      "103.116.248.0/23",
+      "103.116.251.0/24",
+      "103.150.42.0/23"
+    ],
+    "ipv6": []
+  }
+}

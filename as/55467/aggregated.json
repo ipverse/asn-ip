@@ -1,0 +1,12 @@
+{
+  "asn": 55467,
+  "handle": "ICEMEDIA-AP",
+  "description": "Ice Media PTY LTD",
+  "subnets": {
+    "ipv4": [
+      "203.27.127.0/24",
+      "203.30.18.0/24"
+    ],
+    "ipv6": []
+  }
+}

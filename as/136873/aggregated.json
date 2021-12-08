@@ -1,0 +1,12 @@
+{
+  "asn": 136873,
+  "handle": "MEGADATA-ID",
+  "description": "PT. MEGA ARTHA LINTAS DATA",
+  "subnets": {
+    "ipv4": [
+      "103.105.52.0/22",
+      "103.165.156.0/24"
+    ],
+    "ipv6": []
+  }
+}

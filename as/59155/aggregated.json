@@ -1,0 +1,15 @@
+{
+  "asn": 59155,
+  "handle": "IDNIC-INETKU-ID",
+  "description": "PT. Pemuda Berkarya Manunggal",
+  "subnets": {
+    "ipv4": [
+      "103.224.100.0/22",
+      "103.227.144.0/22"
+    ],
+    "ipv6": [
+      "2001:df1:2100::/48",
+      "2401:1fc0::/32"
+    ]
+  }
+}

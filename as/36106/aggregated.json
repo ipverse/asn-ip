@@ -1,0 +1,12 @@
+{
+  "asn": 36106,
+  "handle": "MANAGEDNODES",
+  "description": "Managed Nodes LLC",
+  "subnets": {
+    "ipv4": [
+      "38.103.38.0/23",
+      "38.118.71.0/24"
+    ],
+    "ipv6": []
+  }
+}

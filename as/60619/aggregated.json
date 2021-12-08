@@ -1,0 +1,13 @@
+{
+  "asn": 60619,
+  "handle": "TELCONET",
+  "description": "TelcoNet Kft.",
+  "subnets": {
+    "ipv4": [
+      "45.85.204.0/22",
+      "79.121.80.0/24",
+      "185.249.144.0/22"
+    ],
+    "ipv6": []
+  }
+}

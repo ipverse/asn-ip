@@ -1,0 +1,13 @@
+{
+  "asn": 271184,
+  "handle": "LINK-PONTO-COM-TELECOM-EIRELI",
+  "description": "Link Ponto Com Telecom Eireli",
+  "subnets": {
+    "ipv4": [
+      "179.42.148.0/22"
+    ],
+    "ipv6": [
+      "2804:7788::/32"
+    ]
+  }
+}

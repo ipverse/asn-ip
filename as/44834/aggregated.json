@@ -1,0 +1,13 @@
+{
+  "asn": 44834,
+  "handle": "POZITIVTELECOM",
+  "description": "Pozitiv Telecom Ltd.",
+  "subnets": {
+    "ipv4": [
+      "31.148.202.0/23",
+      "95.47.170.0/23",
+      "95.47.243.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 62424,
+  "handle": "STWHTL-BRUSSEL",
+  "description": "STARWOOD HOTELS \u0026 RESORTS WORLDWIDE, LLC",
+  "subnets": {
+    "ipv4": [
+      "159.166.148.0/24",
+      "159.166.153.0/24"
+    ],
+    "ipv6": [
+      "2607:9080:705::/48"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 200739,
+  "handle": "SIXT",
+  "description": "Sixt GmbH \u0026 Co. Autovermietung KG",
+  "subnets": {
+    "ipv4": [
+      "185.97.224.0/22"
+    ],
+    "ipv6": [
+      "2a06:8c0::/29"
+    ]
+  }
+}

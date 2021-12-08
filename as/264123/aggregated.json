@@ -1,0 +1,14 @@
+{
+  "asn": 264123,
+  "handle": "TELEFONICA-INTERNATIONAL-WHOLESALE",
+  "description": "TELEFONICA INTERNATIONAL WHOLESALE SERVICES",
+  "subnets": {
+    "ipv4": [
+      "138.94.16.0/24",
+      "138.94.18.0/24"
+    ],
+    "ipv6": [
+      "2804:22cc::/37"
+    ]
+  }
+}

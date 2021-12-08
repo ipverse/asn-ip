@@ -1,0 +1,12 @@
+{
+  "asn": 133492,
+  "handle": "CLOUD-CN",
+  "description": "Aiyun Technology Co.,Ltd",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2602:feda:2d0::/47",
+      "2602:feda:2f0::/48"
+    ]
+  }
+}

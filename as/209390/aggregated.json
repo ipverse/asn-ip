@@ -1,0 +1,13 @@
+{
+  "asn": 209390,
+  "handle": "VIADATA",
+  "description": "ViaData Fieldservice B.V.",
+  "subnets": {
+    "ipv4": [
+      "185.108.64.0/22"
+    ],
+    "ipv6": [
+      "2a06:6280::/29"
+    ]
+  }
+}

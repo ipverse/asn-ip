@@ -1,0 +1,11 @@
+{
+  "asn": 265672,
+  "handle": "ALCOM-SPA",
+  "description": "ALCOM SPA",
+  "subnets": {
+    "ipv4": [
+      "45.5.120.0/22"
+    ],
+    "ipv6": []
+  }
+}

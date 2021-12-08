@@ -1,0 +1,11 @@
+{
+  "asn": 272197,
+  "handle": "MOVEFI-NET",
+  "description": "MOVEFI NET",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2804:836c::/32"
+    ]
+  }
+}

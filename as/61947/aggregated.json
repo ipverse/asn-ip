@@ -1,0 +1,13 @@
+{
+  "asn": 61947,
+  "handle": "SUPERNET-TELECOMUNICACOES-E",
+  "description": "supernet telecomunicaçoes e informatica ltda",
+  "subnets": {
+    "ipv4": [
+      "200.33.164.0/22"
+    ],
+    "ipv6": [
+      "2804:18b0::/32"
+    ]
+  }
+}

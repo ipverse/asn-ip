@@ -1,0 +1,13 @@
+{
+  "asn": 21227,
+  "handle": "OLIKA",
+  "description": "OLiKA Networks",
+  "subnets": {
+    "ipv4": [
+      "193.109.86.0/24"
+    ],
+    "ipv6": [
+      "2a0f:7b40::/29"
+    ]
+  }
+}

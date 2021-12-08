@@ -1,0 +1,15 @@
+{
+  "asn": 139833,
+  "handle": "EVSIO0N-AP",
+  "description": "LSHIY Network Technology Limited",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2404:f4c0:f900::/47",
+      "2404:f4c0:f90a::/48",
+      "2404:f4c0:f90c::/48",
+      "2404:f4c0:f90e::/47",
+      "2406:840:f900::/48"
+    ]
+  }
+}

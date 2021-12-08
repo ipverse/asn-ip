@@ -1,0 +1,12 @@
+{
+  "asn": 131709,
+  "handle": "IDNIC-UNSOED-ID",
+  "description": "PENGGUNA DIKS PTH UNSOED",
+  "subnets": {
+    "ipv4": [
+      "103.9.22.0/24",
+      "103.255.124.0/23"
+    ],
+    "ipv6": []
+  }
+}

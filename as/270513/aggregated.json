@@ -1,0 +1,13 @@
+{
+  "asn": 270513,
+  "handle": "R-J-COMERCIO",
+  "description": "R J COMERCIO E SERVIÇOS DE COMUNICAÇA",
+  "subnets": {
+    "ipv4": [
+      "24.152.60.0/22"
+    ],
+    "ipv6": [
+      "2804:6d1c::/32"
+    ]
+  }
+}

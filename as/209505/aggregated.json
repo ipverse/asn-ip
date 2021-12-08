@@ -1,0 +1,15 @@
+{
+  "asn": 209505,
+  "handle": "UNCHAINEDISP",
+  "description": "Unchained ISP Limited",
+  "subnets": {
+    "ipv4": [
+      "185.250.9.0/24",
+      "185.250.10.0/23"
+    ],
+    "ipv6": [
+      "2a0b:9400:1000::/48",
+      "2a0b:9401::/32"
+    ]
+  }
+}

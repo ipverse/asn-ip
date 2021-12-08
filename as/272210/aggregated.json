@@ -1,0 +1,13 @@
+{
+  "asn": 272210,
+  "handle": "GIRO-TELECOMUNICACOES-DO",
+  "description": "GIRO TELECOMUNICACOES DO BRASIL LTDA",
+  "subnets": {
+    "ipv4": [
+      "209.14.152.0/23"
+    ],
+    "ipv6": [
+      "2804:83a8::/32"
+    ]
+  }
+}

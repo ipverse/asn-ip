@@ -1,0 +1,14 @@
+{
+  "asn": 263641,
+  "handle": "TCF-TELECOMUNICACOES-CAMPO",
+  "description": "TCF Telecomunicações Campo Florido Ltda",
+  "subnets": {
+    "ipv4": [
+      "168.205.60.0/22",
+      "179.127.152.0/21"
+    ],
+    "ipv6": [
+      "2804:1094::/32"
+    ]
+  }
+}

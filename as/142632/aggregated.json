@@ -1,0 +1,14 @@
+{
+  "asn": 142632,
+  "handle": "NASULEX-AP",
+  "description": "Forhosting",
+  "subnets": {
+    "ipv4": [
+      "23.247.168.0/24",
+      "23.247.170.0/23"
+    ],
+    "ipv6": [
+      "2602:fc15::/44"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asn": 39415,
+  "handle": "MGTSUASIT",
+  "description": "PJSC Moscow city telephone network",
+  "subnets": {
+    "ipv4": [
+      "195.178.108.0/23"
+    ],
+    "ipv6": []
+  }
+}

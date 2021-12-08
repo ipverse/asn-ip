@@ -1,0 +1,13 @@
+{
+  "asn": 394897,
+  "handle": "VXCHNGE-TN01",
+  "description": "vXchnge Operating, LLC",
+  "subnets": {
+    "ipv4": [
+      "130.250.160.0/20"
+    ],
+    "ipv6": [
+      "2606:6800:2c00::/40"
+    ]
+  }
+}

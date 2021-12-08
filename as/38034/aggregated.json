@@ -1,0 +1,12 @@
+{
+  "asn": 38034,
+  "handle": "RESERVE-CSLOXINFO-TH",
+  "description": "CS Loxinfo Public Company Limited",
+  "subnets": {
+    "ipv4": [
+      "103.208.138.0/23",
+      "170.40.250.0/24"
+    ],
+    "ipv6": []
+  }
+}

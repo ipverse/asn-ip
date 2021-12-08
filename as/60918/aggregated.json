@@ -1,0 +1,13 @@
+{
+  "asn": 60918,
+  "handle": "KHADI",
+  "description": "Kharkiv National Automobile and Highway University",
+  "subnets": {
+    "ipv4": [
+      "81.17.141.0/24"
+    ],
+    "ipv6": [
+      "2001:67c:1720::/48"
+    ]
+  }
+}

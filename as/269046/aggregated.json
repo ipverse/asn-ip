@@ -1,0 +1,13 @@
+{
+  "asn": 269046,
+  "handle": "FIRST-TELECOM-LTDA",
+  "description": "First Telecom LTDA",
+  "subnets": {
+    "ipv4": [
+      "45.178.152.0/22"
+    ],
+    "ipv6": [
+      "2804:5ea0::/32"
+    ]
+  }
+}

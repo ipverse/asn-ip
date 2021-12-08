@@ -1,0 +1,12 @@
+{
+  "asn": 55779,
+  "handle": "SBI-GENERAL-APNIC-IN",
+  "description": "SBI General",
+  "subnets": {
+    "ipv4": [
+      "103.17.18.0/24",
+      "202.59.244.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 268195,
+  "handle": "LINK-FLY-TELECOM-LTDA-ME",
+  "description": "LINK FLY TELECOM LTDA - ME",
+  "subnets": {
+    "ipv4": [
+      "45.235.100.0/22"
+    ],
+    "ipv6": [
+      "2804:4d6c::/32"
+    ]
+  }
+}

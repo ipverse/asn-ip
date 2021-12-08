@@ -1,0 +1,13 @@
+{
+  "asn": 23165,
+  "handle": "BPAS-01",
+  "description": "Brierley \u0026 Partners, Inc.",
+  "subnets": {
+    "ipv4": [
+      "174.47.134.0/23",
+      "192.31.126.0/23",
+      "208.185.2.0/24"
+    ],
+    "ipv6": []
+  }
+}

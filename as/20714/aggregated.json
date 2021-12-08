@@ -1,0 +1,14 @@
+{
+  "asn": 20714,
+  "handle": "MERLIN-TELECOM",
+  "description": "Merlin-Telekom LLC",
+  "subnets": {
+    "ipv4": [
+      "31.42.48.0/20",
+      "31.128.224.0/19",
+      "195.177.124.0/22",
+      "195.214.196.0/22"
+    ],
+    "ipv6": []
+  }
+}

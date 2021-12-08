@@ -1,0 +1,13 @@
+{
+  "asn": 270794,
+  "handle": "FTNET-SERVICOS-COMUNICACAO",
+  "description": "ftnet serviços comunicação multimídia",
+  "subnets": {
+    "ipv4": [
+      "189.51.164.0/22"
+    ],
+    "ipv6": [
+      "2804:7184::/32"
+    ]
+  }
+}

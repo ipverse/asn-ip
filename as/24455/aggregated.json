@@ -1,0 +1,15 @@
+{
+  "asn": 24455,
+  "handle": "ITONECSLOX-TH",
+  "description": "CS Loxinfo Public Company Limited",
+  "subnets": {
+    "ipv4": [
+      "27.254.242.0/23",
+      "58.137.69.0/24",
+      "202.183.207.0/24",
+      "203.130.144.0/23",
+      "203.156.116.0/23"
+    ],
+    "ipv6": []
+  }
+}

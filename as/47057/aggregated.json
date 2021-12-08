@@ -1,0 +1,13 @@
+{
+  "asn": 47057,
+  "handle": "ISTREAMPLANET",
+  "description": "iStreamPlanet, Co",
+  "subnets": {
+    "ipv4": [
+      "157.166.137.0/24",
+      "157.166.148.0/24",
+      "204.138.180.0/23"
+    ],
+    "ipv6": []
+  }
+}

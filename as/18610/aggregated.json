@@ -1,0 +1,11 @@
+{
+  "asn": 18610,
+  "handle": "SEQUO",
+  "description": "Sequoia Capital",
+  "subnets": {
+    "ipv4": [
+      "12.226.91.0/24"
+    ],
+    "ipv6": []
+  }
+}

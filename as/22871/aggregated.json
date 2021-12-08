@@ -1,0 +1,11 @@
+{
+  "asn": 22871,
+  "handle": "CHALLC",
+  "description": "CHA",
+  "subnets": {
+    "ipv4": [
+      "198.12.10.0/23"
+    ],
+    "ipv6": []
+  }
+}

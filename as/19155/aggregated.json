@@ -1,0 +1,11 @@
+{
+  "asn": 19155,
+  "handle": "VYSTARCU",
+  "description": "Vystar Credit Union",
+  "subnets": {
+    "ipv4": [
+      "216.109.253.0/24"
+    ],
+    "ipv6": []
+  }
+}

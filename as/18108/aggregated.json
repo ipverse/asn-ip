@@ -1,0 +1,13 @@
+{
+  "asn": 18108,
+  "handle": "FUJITSU-AP",
+  "description": "Fujitsu Australia Ltd",
+  "subnets": {
+    "ipv4": [
+      "137.172.64.0/22",
+      "137.172.192.0/20",
+      "216.14.192.0/20"
+    ],
+    "ipv6": []
+  }
+}

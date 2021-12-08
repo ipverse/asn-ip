@@ -1,0 +1,12 @@
+{
+  "asn": 37052,
+  "handle": "UNON",
+  "description": "United Nations Office Nairobi (UNON)",
+  "subnets": {
+    "ipv4": [
+      "41.191.192.0/21",
+      "196.202.191.0/24"
+    ],
+    "ipv6": []
+  }
+}

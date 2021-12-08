@@ -1,0 +1,14 @@
+{
+  "asn": 61792,
+  "handle": "IPNET-TELECOMUNICACOES-LTDA",
+  "description": "IPNET TELECOMUNICACOES LTDA",
+  "subnets": {
+    "ipv4": [
+      "170.247.236.0/22",
+      "201.55.196.0/22"
+    ],
+    "ipv6": [
+      "2804:1964::/32"
+    ]
+  }
+}

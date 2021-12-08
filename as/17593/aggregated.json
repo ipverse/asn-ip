@@ -1,0 +1,13 @@
+{
+  "asn": 17593,
+  "handle": "NONGSHIM-KR-KR",
+  "description": "NDS Coporation",
+  "subnets": {
+    "ipv4": [
+      "203.249.160.0/20",
+      "203.249.176.0/22",
+      "203.249.191.0/24"
+    ],
+    "ipv6": []
+  }
+}

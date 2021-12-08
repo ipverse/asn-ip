@@ -1,0 +1,13 @@
+{
+  "asn": 268988,
+  "handle": "MULTINET-TELECOM-LTDA",
+  "description": "MULTINET TELECOM LTDA",
+  "subnets": {
+    "ipv4": [
+      "45.176.100.0/22"
+    ],
+    "ipv6": [
+      "2804:5db8::/32"
+    ]
+  }
+}

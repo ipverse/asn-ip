@@ -1,0 +1,11 @@
+{
+  "asn": 19080,
+  "handle": "WBS-01",
+  "description": "GTT",
+  "subnets": {
+    "ipv4": [
+      "149.13.69.0/24"
+    ],
+    "ipv6": []
+  }
+}

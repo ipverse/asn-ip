@@ -1,0 +1,13 @@
+{
+  "asn": 61779,
+  "handle": "PREFEITURA-DO-MUNICIPIO",
+  "description": "Prefeitura do Municipio de Piracicaba",
+  "subnets": {
+    "ipv4": [
+      "201.148.220.0/22"
+    ],
+    "ipv6": [
+      "2801:80:ae0::/48"
+    ]
+  }
+}

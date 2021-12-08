@@ -1,0 +1,11 @@
+{
+  "asn": 27944,
+  "handle": "PANAMA-PORTS-COMPANY",
+  "description": "Panama Ports Company",
+  "subnets": {
+    "ipv4": [
+      "201.218.240.0/24"
+    ],
+    "ipv6": []
+  }
+}

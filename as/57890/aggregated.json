@@ -1,0 +1,12 @@
+{
+  "asn": 57890,
+  "handle": "POTEL",
+  "description": "Potel Spolka Cywilna M. Ryckiewicz, J.Repinski, M.Weryk",
+  "subnets": {
+    "ipv4": [
+      "91.231.19.0/24",
+      "91.231.20.0/23"
+    ],
+    "ipv6": []
+  }
+}

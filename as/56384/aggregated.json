@@ -1,0 +1,13 @@
+{
+  "asn": 56384,
+  "handle": "PURSATCOM",
+  "description": "Pursatcom, Ltd.",
+  "subnets": {
+    "ipv4": [
+      "194.226.62.0/24",
+      "194.226.98.0/23",
+      "195.208.216.0/22"
+    ],
+    "ipv6": []
+  }
+}

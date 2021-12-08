@@ -1,0 +1,13 @@
+{
+  "asn": 8239,
+  "handle": "EVOLUTIO-ISP",
+  "description": "EVOLUTIO CLOUD ENABLER S.A. UNIPERSONAL",
+  "subnets": {
+    "ipv4": [
+      "84.18.0.0/19",
+      "195.5.64.0/19",
+      "212.59.192.0/19"
+    ],
+    "ipv6": []
+  }
+}

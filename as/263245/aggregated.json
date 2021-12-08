@@ -1,0 +1,11 @@
+{
+  "asn": 263245,
+  "handle": "CINECABLE-TV",
+  "description": "CINECABLE TV",
+  "subnets": {
+    "ipv4": [
+      "190.107.232.0/21"
+    ],
+    "ipv6": []
+  }
+}

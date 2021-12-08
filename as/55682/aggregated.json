@@ -1,0 +1,11 @@
+{
+  "asn": 55682,
+  "handle": "FIBERMEDIA-ID",
+  "description": "PT. Fiber Media Indonesia",
+  "subnets": {
+    "ipv4": [
+      "114.198.240.0/22"
+    ],
+    "ipv6": []
+  }
+}

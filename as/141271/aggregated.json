@@ -1,0 +1,12 @@
+{
+  "asn": 141271,
+  "handle": "KAYPOWERNET-IN",
+  "description": "Kay Powernet Services Pvt Ltd",
+  "subnets": {
+    "ipv4": [
+      "103.203.144.0/23",
+      "103.203.147.0/24"
+    ],
+    "ipv6": []
+  }
+}

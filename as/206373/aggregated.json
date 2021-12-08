@@ -1,0 +1,13 @@
+{
+  "asn": 206373,
+  "handle": "MSK",
+  "description": "MSK Systemy Informatyczne Michal Skwarek",
+  "subnets": {
+    "ipv4": [
+      "85.190.247.0/24"
+    ],
+    "ipv6": [
+      "2001:678:388::/48"
+    ]
+  }
+}

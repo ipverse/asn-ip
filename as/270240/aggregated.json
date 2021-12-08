@@ -1,0 +1,13 @@
+{
+  "asn": 270240,
+  "handle": "N-V-NETWORK-LTDA",
+  "description": "N V NETWORK LTDA",
+  "subnets": {
+    "ipv4": [
+      "45.191.240.0/22"
+    ],
+    "ipv6": [
+      "2804:68f8::/32"
+    ]
+  }
+}

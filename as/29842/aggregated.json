@@ -1,0 +1,13 @@
+{
+  "asn": 29842,
+  "handle": "ETSU-NET",
+  "description": "East Tennessee State University",
+  "subnets": {
+    "ipv4": [
+      "64.189.140.0/23",
+      "151.141.0.0/16",
+      "216.145.70.0/23"
+    ],
+    "ipv6": []
+  }
+}

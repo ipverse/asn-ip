@@ -1,0 +1,11 @@
+{
+  "asn": 132060,
+  "handle": "EQUATE-AP",
+  "description": "Equate Technologies Pty Ltd",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2001:df3:7600::/48"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 49962,
+  "handle": "UK-SUREFIBRE",
+  "description": "SUREFIBRE LIMITED",
+  "subnets": {
+    "ipv4": [
+      "147.189.155.0/24"
+    ],
+    "ipv6": [
+      "2a10:db80::/29"
+    ]
+  }
+}

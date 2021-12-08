@@ -1,0 +1,13 @@
+{
+  "asn": 28308,
+  "handle": "ORION-TELECOMUNICACOES-COMERCIO",
+  "description": "Orion Telecomunicações Comercio e Serviços LTDA",
+  "subnets": {
+    "ipv4": [
+      "189.36.192.0/20"
+    ],
+    "ipv6": [
+      "2804:1460::/32"
+    ]
+  }
+}

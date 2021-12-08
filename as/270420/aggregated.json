@@ -1,0 +1,13 @@
+{
+  "asn": 270420,
+  "handle": "SOCIEDADE-BENEFICIENCIA-DE",
+  "description": "Sociedade Beneficiência de Lajeado",
+  "subnets": {
+    "ipv4": [
+      "200.6.50.0/23"
+    ],
+    "ipv6": [
+      "2801:80:38d0::/46"
+    ]
+  }
+}

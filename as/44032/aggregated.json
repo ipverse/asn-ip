@@ -1,0 +1,12 @@
+{
+  "asn": 44032,
+  "handle": "TRC-CITY",
+  "description": "FOP Kolesnichenko Nataliya Anatoliivna",
+  "subnets": {
+    "ipv4": [
+      "81.162.224.0/19",
+      "195.2.236.0/23"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 209905,
+  "handle": "SEJEL",
+  "description": "Sejel Technology Company Ltd",
+  "subnets": {
+    "ipv4": [
+      "45.65.72.0/22",
+      "185.191.72.0/22"
+    ],
+    "ipv6": []
+  }
+}

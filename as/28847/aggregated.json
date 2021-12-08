@@ -1,0 +1,13 @@
+{
+  "asn": 28847,
+  "handle": "SE-TEKNIKPARK",
+  "description": "Soderhamn NARA AB",
+  "subnets": {
+    "ipv4": [
+      "80.245.224.0/20",
+      "81.94.64.0/19",
+      "185.145.92.0/22"
+    ],
+    "ipv6": []
+  }
+}

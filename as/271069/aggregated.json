@@ -1,0 +1,13 @@
+{
+  "asn": 271069,
+  "handle": "A4-TELECOM-PROVEDOR-DE-ACESSO",
+  "description": "A4 TELECOM PROVEDOR DE ACESSO",
+  "subnets": {
+    "ipv4": [
+      "179.48.0.0/22"
+    ],
+    "ipv6": [
+      "2804:75c8::/32"
+    ]
+  }
+}

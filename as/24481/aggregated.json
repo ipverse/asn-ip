@@ -1,0 +1,13 @@
+{
+  "asn": 24481,
+  "handle": "CONNECTBD",
+  "description": "ConnectBD Ltd.",
+  "subnets": {
+    "ipv4": [
+      "202.79.16.0/21"
+    ],
+    "ipv6": [
+      "2401:5800::/32"
+    ]
+  }
+}

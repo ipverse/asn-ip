@@ -1,0 +1,13 @@
+{
+  "asn": 267584,
+  "handle": "JAB-NET-PROVEDOR",
+  "description": "J.A.B. Net Provedor de Serviços de Internet Eireli",
+  "subnets": {
+    "ipv4": [
+      "45.70.172.0/22"
+    ],
+    "ipv6": [
+      "2804:43b0::/32"
+    ]
+  }
+}

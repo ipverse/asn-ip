@@ -1,0 +1,11 @@
+{
+  "asn": 271940,
+  "handle": "BANCO-DE-RESERVAS",
+  "description": "BANCO DE RESERVAS DE LA REPUBLICA DOMINICANA BANCO DE SERVICIOS MULTIPLES, S.A",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2801:1b:e800::/48"
+    ]
+  }
+}

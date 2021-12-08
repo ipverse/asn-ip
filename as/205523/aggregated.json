@@ -1,0 +1,11 @@
+{
+  "asn": 205523,
+  "handle": "SERVPERSO-SYSTEMS-IPWAN",
+  "description": "Cedric Rossius",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a0c:b641:10::/48"
+    ]
+  }
+}

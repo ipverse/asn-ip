@@ -1,0 +1,12 @@
+{
+  "asn": 32904,
+  "handle": "KAJEET-ARTERRA-OTARRIS",
+  "description": "Arterra Mobility",
+  "subnets": {
+    "ipv4": [
+      "146.71.0.0/23",
+      "146.71.2.0/24"
+    ],
+    "ipv6": []
+  }
+}

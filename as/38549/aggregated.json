@@ -1,0 +1,13 @@
+{
+  "asn": 38549,
+  "handle": "VBRN-AP",
+  "description": "Viewbank Rise Networks",
+  "subnets": {
+    "ipv4": [
+      "203.21.76.0/23"
+    ],
+    "ipv6": [
+      "2001:df0:20b::/48"
+    ]
+  }
+}

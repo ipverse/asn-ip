@@ -1,0 +1,12 @@
+{
+  "asn": 19611,
+  "handle": "ASSOCIACAO-ANTONIO-VIEIRA",
+  "description": "Associação Antônio Vieira - Unisinos",
+  "subnets": {
+    "ipv4": [
+      "191.4.0.0/16",
+      "200.188.160.0/20"
+    ],
+    "ipv6": []
+  }
+}

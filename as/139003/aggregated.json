@@ -1,0 +1,11 @@
+{
+  "asn": 139003,
+  "handle": "TELCOSPEEDCOLTD-AP",
+  "description": "Telcospeed",
+  "subnets": {
+    "ipv4": [
+      "103.168.220.0/23"
+    ],
+    "ipv6": []
+  }
+}

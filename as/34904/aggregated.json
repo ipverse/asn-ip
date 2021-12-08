@@ -1,0 +1,12 @@
+{
+  "asn": 34904,
+  "handle": "GEDERAMI",
+  "description": "SC GEDERAMI SRL",
+  "subnets": {
+    "ipv4": [
+      "85.120.40.0/23",
+      "85.120.167.0/24"
+    ],
+    "ipv6": []
+  }
+}

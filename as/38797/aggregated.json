@@ -1,0 +1,11 @@
+{
+  "asn": 38797,
+  "handle": "CNLINK-TW-AP",
+  "description": "CNLink",
+  "subnets": {
+    "ipv4": [
+      "125.62.224.0/20"
+    ],
+    "ipv6": []
+  }
+}

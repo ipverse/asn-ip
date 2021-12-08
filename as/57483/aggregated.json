@@ -1,0 +1,13 @@
+{
+  "asn": 57483,
+  "handle": "ICHILTON",
+  "description": "Ian Chilton",
+  "subnets": {
+    "ipv4": [
+      "44.31.27.0/24"
+    ],
+    "ipv6": [
+      "2001:678:f5c::/48"
+    ]
+  }
+}

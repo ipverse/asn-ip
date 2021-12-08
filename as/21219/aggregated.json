@@ -1,0 +1,12 @@
+{
+  "asn": 21219,
+  "handle": "DATAGROUP",
+  "description": "PRIVATE JOINT STOCK COMPANY DATAGROUP",
+  "subnets": {
+    "ipv4": [
+      "195.114.133.0/24",
+      "195.178.150.0/24"
+    ],
+    "ipv6": []
+  }
+}

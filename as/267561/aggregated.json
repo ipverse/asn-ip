@@ -1,0 +1,13 @@
+{
+  "asn": 267561,
+  "handle": "WEBNET-PROVEDOR-E",
+  "description": "WEBNET PROVEDOR E INFORMATICA LTDA",
+  "subnets": {
+    "ipv4": [
+      "45.70.112.0/22"
+    ],
+    "ipv6": [
+      "2804:434c::/32"
+    ]
+  }
+}

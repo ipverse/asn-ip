@@ -1,0 +1,13 @@
+{
+  "asn": 46271,
+  "handle": "DT-PROD",
+  "description": "Dealertrack, Inc.",
+  "subnets": {
+    "ipv4": [
+      "74.200.96.0/24",
+      "74.200.102.0/24",
+      "74.200.105.0/24"
+    ],
+    "ipv6": []
+  }
+}

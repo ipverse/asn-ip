@@ -1,0 +1,11 @@
+{
+  "asn": 20372,
+  "handle": "GOBIERNOPR",
+  "description": "Office of Management and Budget",
+  "subnets": {
+    "ipv4": [
+      "64.185.192.0/19"
+    ],
+    "ipv6": []
+  }
+}

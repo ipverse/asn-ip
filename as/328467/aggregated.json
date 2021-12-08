@@ -1,0 +1,13 @@
+{
+  "asn": 328467,
+  "handle": "SURETEL",
+  "description": "Suretel CC",
+  "subnets": {
+    "ipv4": [
+      "102.67.128.0/21"
+    ],
+    "ipv6": [
+      "2c0f:ed48::/32"
+    ]
+  }
+}

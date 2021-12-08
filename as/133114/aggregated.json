@@ -1,0 +1,13 @@
+{
+  "asn": 133114,
+  "handle": "CONTROLVMSDNBHD-MY",
+  "description": "ControlVM Sdn Bhd",
+  "subnets": {
+    "ipv4": [
+      "103.241.151.0/24"
+    ],
+    "ipv6": [
+      "2401:e280:1000::/36"
+    ]
+  }
+}

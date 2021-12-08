@@ -1,0 +1,14 @@
+{
+  "asn": 268755,
+  "handle": "STOK-INFO-TELECOM-LTDA-ME",
+  "description": "Stok Info Telecom Ltda-me",
+  "subnets": {
+    "ipv4": [
+      "45.171.128.0/22"
+    ],
+    "ipv6": [
+      "2804:5a34::/39",
+      "2804:5a34:200::/40"
+    ]
+  }
+}

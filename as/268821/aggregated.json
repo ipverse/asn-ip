@@ -1,0 +1,13 @@
+{
+  "asn": 268821,
+  "handle": "LINKSP-SERVICO-DE",
+  "description": "LINKSP SERVIÇO DE COMUNICAÇÃO LTDA ME",
+  "subnets": {
+    "ipv4": [
+      "45.173.160.0/23"
+    ],
+    "ipv6": [
+      "2804:5b24::/32"
+    ]
+  }
+}

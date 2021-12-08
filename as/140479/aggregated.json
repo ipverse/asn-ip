@@ -1,0 +1,13 @@
+{
+  "asn": 140479,
+  "handle": "WIFIKITA-ID",
+  "description": "PT Inditech Global Network",
+  "subnets": {
+    "ipv4": [
+      "103.154.52.0/23"
+    ],
+    "ipv6": [
+      "2406:54c0::/32"
+    ]
+  }
+}

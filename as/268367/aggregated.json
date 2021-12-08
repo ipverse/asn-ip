@@ -1,0 +1,13 @@
+{
+  "asn": 268367,
+  "handle": "SCORFIBRA-PROVEDOR-DE",
+  "description": "SCORFIBRA PROVEDOR DE ACESSO A REDE DE COMUNICAÇÃO",
+  "subnets": {
+    "ipv4": [
+      "45.238.252.0/22"
+    ],
+    "ipv6": [
+      "2804:5010::/32"
+    ]
+  }
+}

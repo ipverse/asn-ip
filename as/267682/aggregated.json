@@ -1,0 +1,12 @@
+{
+  "asn": 267682,
+  "handle": "WIFAO-COLOMBIA-S-A-S",
+  "description": "WIFAO COLOMBIA S A S",
+  "subnets": {
+    "ipv4": [
+      "45.162.82.0/23",
+      "45.162.84.0/24"
+    ],
+    "ipv6": []
+  }
+}

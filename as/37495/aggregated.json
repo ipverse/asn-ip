@@ -1,0 +1,13 @@
+{
+  "asn": 37495,
+  "handle": "EKO-KONNECT",
+  "description": "Eko-Konnect Research and Education Initiative",
+  "subnets": {
+    "ipv4": [
+      "196.216.208.0/22"
+    ],
+    "ipv6": [
+      "2001:43f8:6c0::/48"
+    ]
+  }
+}

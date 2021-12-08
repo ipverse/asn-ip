@@ -1,0 +1,13 @@
+{
+  "asn": 269388,
+  "handle": "CONECTE-TECNOLOGIA-LTDA",
+  "description": "CONECTE TECNOLOGIA LTDA",
+  "subnets": {
+    "ipv4": [
+      "45.185.180.0/22"
+    ],
+    "ipv6": [
+      "2804:63dc::/32"
+    ]
+  }
+}

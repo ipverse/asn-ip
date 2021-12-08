@@ -1,0 +1,15 @@
+{
+  "asn": 24139,
+  "handle": "WASUHZ",
+  "description": "Huashu media\u0026Network Limited",
+  "subnets": {
+    "ipv4": [
+      "58.100.0.0/15",
+      "113.215.0.0/16",
+      "218.108.0.0/15"
+    ],
+    "ipv6": [
+      "2401:ce00::/32"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asn": 142307,
+  "handle": "IDNIC-CYB-ID",
+  "description": "PT CYB Media Group",
+  "subnets": {
+    "ipv4": [
+      "103.168.44.0/24"
+    ],
+    "ipv6": []
+  }
+}

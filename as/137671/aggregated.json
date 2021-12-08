@@ -1,0 +1,13 @@
+{
+  "asn": 137671,
+  "handle": "APITEC-IN",
+  "description": "ITE\u0026C DEPARTMENT, GOVERNMENT OF A.P.",
+  "subnets": {
+    "ipv4": [
+      "103.129.72.0/22"
+    ],
+    "ipv6": [
+      "2001:df6:9500::/48"
+    ]
+  }
+}

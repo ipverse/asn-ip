@@ -1,0 +1,12 @@
+{
+  "asn": 209308,
+  "handle": "STCSC",
+  "description": "Public Telecommunications Company Limited Liability Company",
+  "subnets": {
+    "ipv4": [
+      "185.183.80.0/22",
+      "185.183.136.0/22"
+    ],
+    "ipv6": []
+  }
+}

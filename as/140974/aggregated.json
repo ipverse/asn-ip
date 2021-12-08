@@ -1,0 +1,11 @@
+{
+  "asn": 140974,
+  "handle": "PENXLAB-AP",
+  "description": "Aperture Science Limited",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2602:feda:ace::/48"
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 271373,
+  "handle": "UPVC-INTERNET-CONQUISTA-LTDA",
+  "description": "UPVC INTERNET CONQUISTA LTDA",
+  "subnets": {
+    "ipv4": [
+      "38.10.88.0/24",
+      "38.10.91.0/24"
+    ],
+    "ipv6": [
+      "2804:7a78::/32"
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 15294,
+  "handle": "SENTINELTECH",
+  "description": "Sentinel Technologies, Inc.",
+  "subnets": {
+    "ipv4": [
+      "172.87.48.0/22",
+      "172.87.56.0/22",
+      "192.75.211.0/24",
+      "199.7.244.0/22"
+    ],
+    "ipv6": [
+      "2620:109:a000::/44"
+    ]
+  }
+}

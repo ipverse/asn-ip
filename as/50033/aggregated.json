@@ -1,0 +1,15 @@
+{
+  "asn": 50033,
+  "handle": "PATIENTSKY",
+  "description": "PATIENTSKY HOSTING AS",
+  "subnets": {
+    "ipv4": [
+      "185.161.124.0/22",
+      "185.211.52.0/22",
+      "185.213.248.0/22"
+    ],
+    "ipv6": [
+      "2a07:c3c0::/29"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 268824,
+  "handle": "CONNECTMAX-TELECOM",
+  "description": "CONNECTMAX TELECOM",
+  "subnets": {
+    "ipv4": [
+      "45.172.200.0/22"
+    ],
+    "ipv6": [
+      "2804:5b30::/32"
+    ]
+  }
+}

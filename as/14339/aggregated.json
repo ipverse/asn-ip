@@ -1,0 +1,12 @@
+{
+  "asn": 14339,
+  "handle": "SADESA-SA",
+  "description": "SADESA S.A.",
+  "subnets": {
+    "ipv4": [
+      "190.220.131.0/24",
+      "200.47.3.0/24"
+    ],
+    "ipv6": []
+  }
+}

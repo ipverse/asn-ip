@@ -1,0 +1,13 @@
+{
+  "asn": 5491,
+  "handle": "OLSSON-NET",
+  "description": "Jan Olsson",
+  "subnets": {
+    "ipv4": [
+      "193.163.221.0/24"
+    ],
+    "ipv6": [
+      "2a02:188:1004::/48"
+    ]
+  }
+}

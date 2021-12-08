@@ -1,0 +1,13 @@
+{
+  "asn": 264147,
+  "handle": "INTERA-COMUNICACAO-MULTIMIDIA",
+  "description": "INTERA COMUNICAÇÃO MULTIMIDIA E INFORMÁTICA",
+  "subnets": {
+    "ipv4": [
+      "138.97.68.0/22"
+    ],
+    "ipv6": [
+      "2804:2330::/32"
+    ]
+  }
+}

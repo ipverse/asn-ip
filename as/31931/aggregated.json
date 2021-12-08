@@ -1,0 +1,12 @@
+{
+  "asn": 31931,
+  "handle": "HOOTSUITE",
+  "description": "HootSuite Media Inc.",
+  "subnets": {
+    "ipv4": [
+      "45.134.4.0/23",
+      "204.15.175.0/24"
+    ],
+    "ipv6": []
+  }
+}

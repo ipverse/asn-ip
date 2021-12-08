@@ -1,0 +1,13 @@
+{
+  "asn": 271296,
+  "handle": "ULTRALINK-SERVICOS-DE",
+  "description": "ULTRALINK SERVICOS DE COMUNICACAO LTDA",
+  "subnets": {
+    "ipv4": [
+      "192.145.220.0/22"
+    ],
+    "ipv6": [
+      "2804:7948::/32"
+    ]
+  }
+}

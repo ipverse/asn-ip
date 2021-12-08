@@ -1,0 +1,14 @@
+{
+  "asn": 16174,
+  "handle": "INTUITIV",
+  "description": "Intuitiv Ltd.",
+  "subnets": {
+    "ipv4": [
+      "212.70.64.0/22",
+      "212.70.72.0/21"
+    ],
+    "ipv6": [
+      "2a00:e0c0::/32"
+    ]
+  }
+}

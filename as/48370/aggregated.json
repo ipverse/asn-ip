@@ -1,0 +1,12 @@
+{
+  "asn": 48370,
+  "handle": "WESTCOM",
+  "description": "Westcom Ltd",
+  "subnets": {
+    "ipv4": [
+      "91.209.128.0/23",
+      "91.209.130.0/24"
+    ],
+    "ipv6": []
+  }
+}

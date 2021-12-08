@@ -1,0 +1,12 @@
+{
+  "asn": 11929,
+  "handle": "MFAOIL",
+  "description": "MFA Oil Company",
+  "subnets": {
+    "ipv4": [
+      "64.85.213.0/24",
+      "216.106.63.0/24"
+    ],
+    "ipv6": []
+  }
+}

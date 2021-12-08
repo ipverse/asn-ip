@@ -1,0 +1,14 @@
+{
+  "asn": 142036,
+  "handle": "STELLAIT",
+  "description": "CloudNX",
+  "subnets": {
+    "ipv4": [
+      "5.252.83.0/24"
+    ],
+    "ipv6": [
+      "2407:9740:ab00::/44",
+      "2a0c:9a40:82e0::/44"
+    ]
+  }
+}

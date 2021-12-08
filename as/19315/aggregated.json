@@ -1,0 +1,12 @@
+{
+  "asn": 19315,
+  "handle": "BANELCO-SA",
+  "description": "Banelco S.A.",
+  "subnets": {
+    "ipv4": [
+      "138.121.78.0/23",
+      "200.59.131.0/24"
+    ],
+    "ipv6": []
+  }
+}

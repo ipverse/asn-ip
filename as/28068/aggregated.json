@@ -1,0 +1,14 @@
+{
+  "asn": 28068,
+  "handle": "UNIVERSIDAD-NACIONAL-DE",
+  "description": "Universidad Nacional de San Luis",
+  "subnets": {
+    "ipv4": [
+      "170.210.168.0/21",
+      "190.122.224.0/20"
+    ],
+    "ipv6": [
+      "2801:10::/45"
+    ]
+  }
+}

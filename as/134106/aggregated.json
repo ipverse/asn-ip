@@ -1,0 +1,11 @@
+{
+  "asn": 134106,
+  "handle": "ENJOYNETWORK-AP",
+  "description": "Enjoy Network",
+  "subnets": {
+    "ipv4": [
+      "103.115.82.0/24"
+    ],
+    "ipv6": []
+  }
+}

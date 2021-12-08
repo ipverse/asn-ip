@@ -1,0 +1,11 @@
+{
+  "asn": 41664,
+  "handle": "SEMSER",
+  "description": "Semser Provider LLP",
+  "subnets": {
+    "ipv4": [
+      "80.249.16.0/20"
+    ],
+    "ipv6": []
+  }
+}

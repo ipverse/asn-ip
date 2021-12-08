@@ -1,0 +1,11 @@
+{
+  "asn": 24880,
+  "handle": "EPRESS",
+  "description": "EPRESS S.P.A.",
+  "subnets": {
+    "ipv4": [
+      "81.27.128.0/20"
+    ],
+    "ipv6": []
+  }
+}

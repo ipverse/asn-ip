@@ -1,0 +1,11 @@
+{
+  "asn": 393600,
+  "handle": "RELIANCE-01",
+  "description": "Reliance Standard Life Insurance Company",
+  "subnets": {
+    "ipv4": [
+      "38.98.204.0/24"
+    ],
+    "ipv6": []
+  }
+}

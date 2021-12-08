@@ -1,0 +1,13 @@
+{
+  "asn": 197069,
+  "handle": "EASY-CREDIT",
+  "description": "Easy Asset Management AD",
+  "subnets": {
+    "ipv4": [
+      "91.216.95.0/24"
+    ],
+    "ipv6": [
+      "2001:678:958::/48"
+    ]
+  }
+}

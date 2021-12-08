@@ -1,0 +1,13 @@
+{
+  "asn": 205190,
+  "handle": "ALTAKRAFTLAG",
+  "description": "Alta Kraftlag Fiber AS",
+  "subnets": {
+    "ipv4": [
+      "185.226.200.0/22"
+    ],
+    "ipv6": [
+      "2a0c:7600::/29"
+    ]
+  }
+}

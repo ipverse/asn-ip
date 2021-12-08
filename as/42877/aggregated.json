@@ -1,0 +1,13 @@
+{
+  "asn": 42877,
+  "handle": "AKRON",
+  "description": "AKRON-Lucyna i Adam Kinal sp.j",
+  "subnets": {
+    "ipv4": [
+      "86.111.200.0/22",
+      "86.111.204.0/24",
+      "86.111.206.0/23"
+    ],
+    "ipv6": []
+  }
+}

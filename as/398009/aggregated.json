@@ -1,0 +1,12 @@
+{
+  "asn": 398009,
+  "handle": "PRAIRIEHILLS",
+  "description": "Prairie Hills Wireless LLC",
+  "subnets": {
+    "ipv4": [
+      "23.147.176.0/24",
+      "147.160.146.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 5601,
+  "handle": "KUNGLIGA-TEKNISKA-HOGSKOLAN",
+  "description": "Kungliga Tekniska Hogskolan",
+  "subnets": {
+    "ipv4": [
+      "192.36.236.0/24",
+      "192.36.253.0/24",
+      "194.132.192.0/22"
+    ],
+    "ipv6": []
+  }
+}

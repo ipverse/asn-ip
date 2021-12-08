@@ -1,0 +1,14 @@
+{
+  "asn": 43652,
+  "handle": "AS100LIMITE",
+  "description": "100 LIMITE - SERVICOS DE INTERNET ONLINE LDA",
+  "subnets": {
+    "ipv4": [
+      "185.83.248.0/22",
+      "195.200.252.0/23"
+    ],
+    "ipv6": [
+      "2a05:a040::/29"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 271517,
+  "handle": "GLOBAL-CONECTIVIDADE-SERVICO",
+  "description": "GLOBAL CONECTIVIDADE SERVICO DE INTERNET LTDA",
+  "subnets": {
+    "ipv4": [
+      "181.232.224.0/22"
+    ],
+    "ipv6": [
+      "2804:7cc4::/32"
+    ]
+  }
+}

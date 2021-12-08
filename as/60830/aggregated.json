@@ -1,0 +1,13 @@
+{
+  "asn": 60830,
+  "handle": "NORDIXNETT",
+  "description": "NordixDataAS",
+  "subnets": {
+    "ipv4": [
+      "185.23.144.0/22"
+    ],
+    "ipv6": [
+      "2a03:8000::/32"
+    ]
+  }
+}

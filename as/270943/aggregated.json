@@ -1,0 +1,13 @@
+{
+  "asn": 270943,
+  "handle": "FIBINET-NETWORKS-TELECOMUNICACOES",
+  "description": "FIBINET NETWORKS TELECOMUNICACOES LTDA",
+  "subnets": {
+    "ipv4": [
+      "179.189.80.0/22"
+    ],
+    "ipv6": [
+      "2804:73e0::/32"
+    ]
+  }
+}

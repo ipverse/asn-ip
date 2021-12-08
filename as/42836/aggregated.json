@@ -1,0 +1,13 @@
+{
+  "asn": 42836,
+  "handle": "SCHUBERGPHILIS",
+  "description": "Schuberg Philis B.V.",
+  "subnets": {
+    "ipv4": [
+      "195.66.90.0/24"
+    ],
+    "ipv6": [
+      "2001:67c:20c8::/48"
+    ]
+  }
+}

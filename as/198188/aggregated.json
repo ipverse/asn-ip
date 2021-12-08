@@ -1,0 +1,14 @@
+{
+  "asn": 198188,
+  "handle": "MTEL",
+  "description": "Ventzislav Nikolov Trading as MTEL",
+  "subnets": {
+    "ipv4": [
+      "31.186.104.0/21",
+      "185.220.16.0/22"
+    ],
+    "ipv6": [
+      "2a0b:ea40::/31"
+    ]
+  }
+}

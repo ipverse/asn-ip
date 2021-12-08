@@ -1,0 +1,12 @@
+{
+  "asn": 16930,
+  "handle": "COMORETELGLOBAL",
+  "description": "ComoreTel",
+  "subnets": {
+    "ipv4": [
+      "63.146.10.0/24",
+      "204.98.218.0/24"
+    ],
+    "ipv6": []
+  }
+}

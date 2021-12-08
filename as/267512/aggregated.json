@@ -1,0 +1,13 @@
+{
+  "asn": 267512,
+  "handle": "ENTERPRISE-TELECOMUNICACOES",
+  "description": "ENTERPRISE TELECOMUNICAÇÕES",
+  "subnets": {
+    "ipv4": [
+      "201.182.116.0/22"
+    ],
+    "ipv6": [
+      "2804:429c::/32"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asn": 50500,
+  "handle": "BITARISP2016",
+  "description": "BITAR NET SARL",
+  "subnets": {
+    "ipv4": [
+      "185.134.176.0/22"
+    ],
+    "ipv6": []
+  }
+}

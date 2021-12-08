@@ -1,0 +1,12 @@
+{
+  "asn": 9630,
+  "handle": "WEBTRADE-KR",
+  "description": "SK Securities Limited",
+  "subnets": {
+    "ipv4": [
+      "1.209.200.0/24",
+      "211.205.77.0/24"
+    ],
+    "ipv6": []
+  }
+}

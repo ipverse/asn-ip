@@ -1,0 +1,13 @@
+{
+  "asn": 270030,
+  "handle": "DEPARTAMENTO-ADMINISTRATIVO-DEL",
+  "description": "DEPARTAMENTO ADMINISTRATIVO DEL DEPORTE, LA RECREACION, LA ACTIVIDAD FISICA Y EL APROVECHAMIENTO DEL TIEMPO LIBRE-COLDEPORTES",
+  "subnets": {
+    "ipv4": [
+      "192.140.124.0/23"
+    ],
+    "ipv6": [
+      "2801:124::/44"
+    ]
+  }
+}

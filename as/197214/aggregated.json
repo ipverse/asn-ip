@@ -1,0 +1,13 @@
+{
+  "asn": 197214,
+  "handle": "ELECTROSTROI",
+  "description": "Electrostroy Ltd.",
+  "subnets": {
+    "ipv4": [
+      "87.243.65.0/24",
+      "87.243.66.0/23",
+      "87.243.73.0/24"
+    ],
+    "ipv6": []
+  }
+}

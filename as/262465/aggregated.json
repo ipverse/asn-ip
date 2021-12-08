@@ -1,0 +1,13 @@
+{
+  "asn": 262465,
+  "handle": "MASTERRADIUS-TELECOM-LTDA-EPP",
+  "description": "Masterradius Telecom Ltda EPP",
+  "subnets": {
+    "ipv4": [
+      "177.53.112.0/22"
+    ],
+    "ipv6": [
+      "2804:4c8::/32"
+    ]
+  }
+}

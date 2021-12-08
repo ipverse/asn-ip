@@ -1,0 +1,12 @@
+{
+  "asn": 328502,
+  "handle": "STR-AFRICA",
+  "description": "STR AFRICA SA",
+  "subnets": {
+    "ipv4": [
+      "102.134.28.0/23",
+      "102.134.30.0/24"
+    ],
+    "ipv6": []
+  }
+}

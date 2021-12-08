@@ -1,0 +1,13 @@
+{
+  "asn": 270035,
+  "handle": "CELSIA-COLOMBIA-SA-ESP",
+  "description": "CELSIA COLOMBIA S.A. E.S.P.",
+  "subnets": {
+    "ipv4": [
+      "190.108.76.0/22"
+    ],
+    "ipv6": [
+      "2803:e5e0::/32"
+    ]
+  }
+}

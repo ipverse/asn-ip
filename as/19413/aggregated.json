@@ -1,0 +1,14 @@
+{
+  "asn": 19413,
+  "handle": "ROANOKE-CONNECT-ASN-1",
+  "description": "Roanoke Connect",
+  "subnets": {
+    "ipv4": [
+      "158.51.180.0/22",
+      "170.39.252.0/22"
+    ],
+    "ipv6": [
+      "2605:93c0::/32"
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 32331,
+  "handle": "WINS-INTERNET-SERVICES",
+  "description": "WINS, LLC",
+  "subnets": {
+    "ipv4": [
+      "69.161.44.0/22",
+      "74.206.48.0/23",
+      "74.206.52.0/22",
+      "74.206.56.0/22"
+    ],
+    "ipv6": []
+  }
+}

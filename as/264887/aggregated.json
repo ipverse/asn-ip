@@ -1,0 +1,14 @@
+{
+  "asn": 264887,
+  "handle": "MAISNET-INTERNET",
+  "description": "MAISNET INTERNET",
+  "subnets": {
+    "ipv4": [
+      "168.227.184.0/22"
+    ],
+    "ipv6": [
+      "2804:2f60::/33",
+      "2804:2f60:8000::/34"
+    ]
+  }
+}

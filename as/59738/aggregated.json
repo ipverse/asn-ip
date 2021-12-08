@@ -1,0 +1,13 @@
+{
+  "asn": 59738,
+  "handle": "FOKKS",
+  "description": "Promyshlennaya Avtomatika Ltd.",
+  "subnets": {
+    "ipv4": [
+      "31.148.6.0/24"
+    ],
+    "ipv6": [
+      "2a03:5a00:9::/48"
+    ]
+  }
+}

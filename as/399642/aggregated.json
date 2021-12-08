@@ -1,0 +1,13 @@
+{
+  "asn": 399642,
+  "handle": "IDNCOM",
+  "description": "IDNCOM",
+  "subnets": {
+    "ipv4": [
+      "192.96.136.0/24"
+    ],
+    "ipv6": [
+      "2602:fc69::/36"
+    ]
+  }
+}

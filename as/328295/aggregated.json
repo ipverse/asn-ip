@@ -1,0 +1,11 @@
+{
+  "asn": 328295,
+  "handle": "BANCO",
+  "description": "Banco Comercial do Huambo, S.A",
+  "subnets": {
+    "ipv4": [
+      "102.165.190.0/24"
+    ],
+    "ipv6": []
+  }
+}

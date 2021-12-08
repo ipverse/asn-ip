@@ -1,0 +1,11 @@
+{
+  "asn": 2823,
+  "handle": "ERX-BT-AU-1",
+  "description": "Bankers Trust",
+  "subnets": {
+    "ipv4": [
+      "203.10.111.0/24"
+    ],
+    "ipv6": []
+  }
+}

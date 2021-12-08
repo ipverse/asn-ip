@@ -1,0 +1,12 @@
+{
+  "asn": 42890,
+  "handle": "HTSS",
+  "description": "Mediplus Exim SRL",
+  "subnets": {
+    "ipv4": [
+      "178.255.32.0/22",
+      "195.74.78.0/24"
+    ],
+    "ipv6": []
+  }
+}

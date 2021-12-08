@@ -1,0 +1,11 @@
+{
+  "asn": 38279,
+  "handle": "IOMNET-AP",
+  "description": "International Organization for Migration",
+  "subnets": {
+    "ipv4": [
+      "202.173.4.0/24"
+    ],
+    "ipv6": []
+  }
+}

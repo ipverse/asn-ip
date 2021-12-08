@@ -1,0 +1,13 @@
+{
+  "asn": 266651,
+  "handle": "R-M-TELECOM-LTDA-ME",
+  "description": "R. M. TELECOM LTDA ME",
+  "subnets": {
+    "ipv4": [
+      "128.201.40.0/22"
+    ],
+    "ipv6": [
+      "2804:3f4c::/32"
+    ]
+  }
+}

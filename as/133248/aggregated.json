@@ -1,0 +1,13 @@
+{
+  "asn": 133248,
+  "handle": "THESKYINTERNET-IN",
+  "description": "THE SKY INTERNET",
+  "subnets": {
+    "ipv4": [
+      "43.225.248.0/22",
+      "103.101.112.0/22",
+      "103.232.232.0/22"
+    ],
+    "ipv6": []
+  }
+}

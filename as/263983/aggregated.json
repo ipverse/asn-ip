@@ -1,0 +1,13 @@
+{
+  "asn": 263983,
+  "handle": "CIT-INFORMATICA",
+  "description": "CIT INFORMATICA",
+  "subnets": {
+    "ipv4": [
+      "138.255.204.0/22"
+    ],
+    "ipv6": [
+      "2804:28d4::/32"
+    ]
+  }
+}

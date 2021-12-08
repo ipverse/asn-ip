@@ -1,0 +1,14 @@
+{
+  "asn": 44500,
+  "handle": "VLASIMNET",
+  "description": "Vlasimnet s.r.o.",
+  "subnets": {
+    "ipv4": [
+      "185.75.136.0/22",
+      "185.203.44.0/22"
+    ],
+    "ipv6": [
+      "2a03:43a0::/32"
+    ]
+  }
+}

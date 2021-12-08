@@ -1,0 +1,13 @@
+{
+  "asn": 12872,
+  "handle": "ISP-FREGAT-LTD",
+  "description": "ISP Fregat Ltd.",
+  "subnets": {
+    "ipv4": [
+      "109.122.40.0/21",
+      "109.122.48.0/20",
+      "193.108.248.0/22"
+    ],
+    "ipv6": []
+  }
+}

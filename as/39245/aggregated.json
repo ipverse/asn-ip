@@ -1,0 +1,11 @@
+{
+  "asn": 39245,
+  "handle": "INTERNET-Q",
+  "description": "Internetq Telecommunication and Internet Services SA",
+  "subnets": {
+    "ipv4": [
+      "193.41.229.0/24"
+    ],
+    "ipv6": []
+  }
+}

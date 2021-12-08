@@ -1,0 +1,13 @@
+{
+  "asn": 48809,
+  "handle": "HOSTEUR-ANYCAST",
+  "description": "HOSTEUR SAS",
+  "subnets": {
+    "ipv4": [
+      "185.148.78.0/24"
+    ],
+    "ipv6": [
+      "2a05:36c0:2::/48"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 30171,
+  "handle": "NASCAR-TRACK",
+  "description": "NASCAR Holdings, LLC",
+  "subnets": {
+    "ipv4": [
+      "75.112.146.0/24",
+      "199.48.202.0/23"
+    ],
+    "ipv6": []
+  }
+}

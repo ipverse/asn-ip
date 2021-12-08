@@ -1,0 +1,11 @@
+{
+  "asn": 12783,
+  "handle": "ENET-AL",
+  "description": "ENET Shpk",
+  "subnets": {
+    "ipv4": [
+      "94.125.112.0/21"
+    ],
+    "ipv6": []
+  }
+}

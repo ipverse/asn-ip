@@ -1,0 +1,11 @@
+{
+  "asn": 132523,
+  "handle": "SPEED19-IN",
+  "description": "Speed Touch Net Service",
+  "subnets": {
+    "ipv4": [
+      "103.147.192.0/24"
+    ],
+    "ipv6": []
+  }
+}

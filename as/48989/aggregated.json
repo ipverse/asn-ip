@@ -1,0 +1,14 @@
+{
+  "asn": 48989,
+  "handle": "SIDIEN",
+  "description": "Docker LTD",
+  "subnets": {
+    "ipv4": [
+      "85.209.71.0/24",
+      "185.253.20.0/24"
+    ],
+    "ipv6": [
+      "2a0c:3140:ffff::/48"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asn": 270819,
+  "handle": "SOS-INTERNET",
+  "description": "SOS Internet",
+  "subnets": {
+    "ipv4": [
+      "186.195.252.0/22"
+    ],
+    "ipv6": []
+  }
+}

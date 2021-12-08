@@ -1,0 +1,12 @@
+{
+  "asn": 264411,
+  "handle": "COSTA-DO-SOL-TV-A-CABO",
+  "description": "Costa Do Sol TV a cabo",
+  "subnets": {
+    "ipv4": [
+      "131.221.100.0/22",
+      "138.204.124.0/22"
+    ],
+    "ipv6": []
+  }
+}

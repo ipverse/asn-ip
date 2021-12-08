@@ -1,0 +1,12 @@
+{
+  "asn": 395216,
+  "handle": "TELLIGEN",
+  "description": "TELLIGEN",
+  "subnets": {
+    "ipv4": [
+      "198.212.162.0/23",
+      "198.212.176.0/24"
+    ],
+    "ipv6": []
+  }
+}

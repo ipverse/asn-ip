@@ -1,0 +1,12 @@
+{
+  "asn": 37634,
+  "handle": "ITEC-COMMS",
+  "description": "ITEC Communications Pty Ltd",
+  "subnets": {
+    "ipv4": [
+      "102.130.128.0/18",
+      "154.65.52.0/22"
+    ],
+    "ipv6": []
+  }
+}

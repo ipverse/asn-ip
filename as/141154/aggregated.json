@@ -1,0 +1,11 @@
+{
+  "asn": 141154,
+  "handle": "IFOSOURCEBROADBANDINTERNET-AP",
+  "description": "Ifosource Broadband Internet",
+  "subnets": {
+    "ipv4": [
+      "103.155.98.0/23"
+    ],
+    "ipv6": []
+  }
+}

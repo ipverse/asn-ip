@@ -1,0 +1,13 @@
+{
+  "asn": 1207,
+  "handle": "PSCNET-HS-TEST",
+  "description": "Pittsburgh Supercomputing Center",
+  "subnets": {
+    "ipv4": [
+      "128.182.64.0/18",
+      "147.73.192.0/18",
+      "192.231.243.0/24"
+    ],
+    "ipv6": []
+  }
+}

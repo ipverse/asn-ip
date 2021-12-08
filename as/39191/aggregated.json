@@ -1,0 +1,13 @@
+{
+  "asn": 39191,
+  "handle": "GNR-GROUP",
+  "description": "GNR Group LLC",
+  "subnets": {
+    "ipv4": [
+      "194.147.28.0/22"
+    ],
+    "ipv6": [
+      "2a0d:940::/32"
+    ]
+  }
+}

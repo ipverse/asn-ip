@@ -1,0 +1,13 @@
+{
+  "asn": 52890,
+  "handle": "CENTRO-INTEGRADO-DE",
+  "description": "Centro Integrado de Telemática do Exército",
+  "subnets": {
+    "ipv4": [
+      "177.8.80.0/20"
+    ],
+    "ipv6": [
+      "2804:1f18::/32"
+    ]
+  }
+}

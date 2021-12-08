@@ -1,0 +1,14 @@
+{
+  "asn": 24276,
+  "handle": "ICNET",
+  "description": "Jupiter Telecommunications Co., Ltd.",
+  "subnets": {
+    "ipv4": [
+      "114.69.128.0/19",
+      "114.69.160.0/20",
+      "180.189.224.0/19",
+      "210.2.192.0/18"
+    ],
+    "ipv6": []
+  }
+}

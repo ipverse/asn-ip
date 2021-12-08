@@ -1,0 +1,13 @@
+{
+  "asn": 264244,
+  "handle": "SPEED-NET-SERVICOS",
+  "description": "SPEED NET SERVIÇOS DE TELECOMUNICAÇOES LTDA-ME",
+  "subnets": {
+    "ipv4": [
+      "138.117.184.0/22"
+    ],
+    "ipv6": [
+      "2804:24d8::/32"
+    ]
+  }
+}

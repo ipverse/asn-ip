@@ -1,0 +1,11 @@
+{
+  "asn": 400105,
+  "handle": "SUN-FIBER",
+  "description": "SUN FIBER, LLC",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2602:fd92:c20::/44"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 135846,
+  "handle": "JOISTER-NIRAV",
+  "description": "Nirav Infotech",
+  "subnets": {
+    "ipv4": [
+      "45.124.142.0/23",
+      "103.51.136.0/24",
+      "103.51.138.0/23"
+    ],
+    "ipv6": []
+  }
+}

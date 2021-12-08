@@ -1,0 +1,13 @@
+{
+  "asn": 142454,
+  "handle": "ITSMEDIA-IN",
+  "description": "IT SPECTRUM MEDIA PVT LTD",
+  "subnets": {
+    "ipv4": [
+      "103.171.120.0/23"
+    ],
+    "ipv6": [
+      "2407:c3c0::/32"
+    ]
+  }
+}

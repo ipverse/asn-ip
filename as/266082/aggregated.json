@@ -1,0 +1,13 @@
+{
+  "asn": 266082,
+  "handle": "POWERSERV-INTERNET",
+  "description": "Powerserv Internet",
+  "subnets": {
+    "ipv4": [
+      "45.5.72.0/22"
+    ],
+    "ipv6": [
+      "2804:3a4c::/32"
+    ]
+  }
+}

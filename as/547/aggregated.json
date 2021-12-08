@@ -1,0 +1,11 @@
+{
+  "asn": 547,
+  "handle": "IBM-LEX",
+  "description": "IBM",
+  "subnets": {
+    "ipv4": [
+      "170.225.254.0/23"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 208193,
+  "handle": "NOVANETWORK",
+  "description": "Guo Qiang",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a0f:9400:7381::/48",
+      "2a10:2f01:248::/48"
+    ]
+  }
+}

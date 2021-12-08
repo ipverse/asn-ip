@@ -1,0 +1,11 @@
+{
+  "asn": 142362,
+  "handle": "IDNIC-SUKMA-ID",
+  "description": "PT Sukma Sejati Media",
+  "subnets": {
+    "ipv4": [
+      "103.169.232.0/23"
+    ],
+    "ipv6": []
+  }
+}

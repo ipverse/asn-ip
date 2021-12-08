@@ -1,0 +1,11 @@
+{
+  "asn": 7610,
+  "handle": "NUS-GP-AP",
+  "description": "National University of Singapore",
+  "subnets": {
+    "ipv4": [
+      "202.51.240.0/21"
+    ],
+    "ipv6": []
+  }
+}

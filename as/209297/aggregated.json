@@ -1,0 +1,13 @@
+{
+  "asn": 209297,
+  "handle": "NICHI-YOROZUYA",
+  "description": "NICHI YOROZUYA LTD",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a0c:b641:690::/47",
+      "2a0c:b641:692::/48",
+      "2a0c:b641:69c::/48"
+    ]
+  }
+}

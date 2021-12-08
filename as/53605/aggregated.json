@@ -1,0 +1,12 @@
+{
+  "asn": 53605,
+  "handle": "PHOEN-56",
+  "description": "PhoenixNAP LLC",
+  "subnets": {
+    "ipv4": [
+      "199.201.104.0/22",
+      "199.201.108.0/23"
+    ],
+    "ipv6": []
+  }
+}

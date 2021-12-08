@@ -1,0 +1,14 @@
+{
+  "asn": 12574,
+  "handle": "ROUTING",
+  "description": "Hosting.de GmbH",
+  "subnets": {
+    "ipv4": [
+      "185.166.4.0/22",
+      "213.160.64.0/19"
+    ],
+    "ipv6": [
+      "2a00:17d8::/32"
+    ]
+  }
+}

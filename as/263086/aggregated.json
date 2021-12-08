@@ -1,0 +1,14 @@
+{
+  "asn": 263086,
+  "handle": "PBNET-TELECOM",
+  "description": "PBNET TELECOM",
+  "subnets": {
+    "ipv4": [
+      "138.99.40.0/22",
+      "186.208.248.0/22"
+    ],
+    "ipv6": [
+      "2804:970:8000::/33"
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 394485,
+  "handle": "SOLUTECH-SBH",
+  "description": "SOLUTECH.NET",
+  "subnets": {
+    "ipv4": [
+      "185.212.72.0/24",
+      "206.130.228.0/24"
+    ],
+    "ipv6": [
+      "2620:122:a000::/40"
+    ]
+  }
+}

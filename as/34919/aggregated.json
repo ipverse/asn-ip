@@ -1,0 +1,13 @@
+{
+  "asn": 34919,
+  "handle": "SYSAID",
+  "description": "SysAid Technologies Ltd",
+  "subnets": {
+    "ipv4": [
+      "45.136.243.0/24"
+    ],
+    "ipv6": [
+      "2a0e:9dc0::/29"
+    ]
+  }
+}

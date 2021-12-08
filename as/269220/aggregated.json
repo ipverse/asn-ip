@@ -1,0 +1,13 @@
+{
+  "asn": 269220,
+  "handle": "VAMOS-INTERNET-TELECOM-LTDA",
+  "description": "Vamos Internet Telecom Ltda",
+  "subnets": {
+    "ipv4": [
+      "45.182.60.0/22"
+    ],
+    "ipv6": [
+      "2804:6134::/32"
+    ]
+  }
+}

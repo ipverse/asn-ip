@@ -1,0 +1,14 @@
+{
+  "asn": 137241,
+  "handle": "PSRU-AP",
+  "description": "Office of Info.Tech. Admin. for Educational Development",
+  "subnets": {
+    "ipv4": [
+      "1.179.213.0/24",
+      "202.29.80.0/23"
+    ],
+    "ipv6": [
+      "2001:3c8:4007::/48"
+    ]
+  }
+}

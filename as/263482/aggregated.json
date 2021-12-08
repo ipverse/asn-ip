@@ -1,0 +1,14 @@
+{
+  "asn": 263482,
+  "handle": "MEGALINK-SERVICOS-LTDA",
+  "description": "Megalink Servicos Ltda",
+  "subnets": {
+    "ipv4": [
+      "170.83.212.0/22",
+      "191.242.216.0/22"
+    ],
+    "ipv6": [
+      "2804:1288::/32"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asn": 132874,
+  "handle": "UMS-AP",
+  "description": "Universiti Malaysia Sabah",
+  "subnets": {
+    "ipv4": [
+      "103.26.196.0/22"
+    ],
+    "ipv6": []
+  }
+}

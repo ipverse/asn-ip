@@ -1,0 +1,14 @@
+{
+  "asn": 137204,
+  "handle": "THEBEND-AP",
+  "description": "The Bend Motorsport Park Pty Ltd",
+  "subnets": {
+    "ipv4": [
+      "103.104.230.0/24",
+      "103.104.240.0/23"
+    ],
+    "ipv6": [
+      "2001:df3:5d00::/48"
+    ]
+  }
+}

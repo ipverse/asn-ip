@@ -1,0 +1,13 @@
+{
+  "asn": 3943,
+  "handle": "DMM",
+  "description": "Cisco Systems, Inc.",
+  "subnets": {
+    "ipv4": [
+      "153.16.0.0/16"
+    ],
+    "ipv6": [
+      "2610:d0::/32"
+    ]
+  }
+}

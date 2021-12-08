@@ -1,0 +1,12 @@
+{
+  "asn": 132436,
+  "handle": "TAHOECOM-AP",
+  "description": "Tahoe Communication Limited",
+  "subnets": {
+    "ipv4": [
+      "103.73.37.0/24",
+      "103.73.38.0/24"
+    ],
+    "ipv6": []
+  }
+}

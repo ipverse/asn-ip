@@ -1,0 +1,14 @@
+{
+  "asn": 138115,
+  "handle": "IDNIC-DENEVA-ID",
+  "description": "PT Deneva",
+  "subnets": {
+    "ipv4": [
+      "103.126.226.0/24",
+      "103.147.154.0/24"
+    ],
+    "ipv6": [
+      "2001:df7:5300::/48"
+    ]
+  }
+}

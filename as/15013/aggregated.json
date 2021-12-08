@@ -1,0 +1,13 @@
+{
+  "asn": 15013,
+  "handle": "LMID",
+  "description": "Fuss \u0026 O\u0027Neill Technologies, LLC",
+  "subnets": {
+    "ipv4": [
+      "24.248.89.0/24",
+      "208.81.124.0/23",
+      "208.81.127.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "asn": 32033,
+  "handle": "EXXONMOBIL-UTEC",
+  "description": "ExxonMobil Global Services Company",
+  "subnets": {
+    "ipv4": [
+      "150.127.225.0/24",
+      "150.127.230.0/24",
+      "150.127.254.0/24",
+      "158.21.0.0/24",
+      "158.26.128.0/21"
+    ],
+    "ipv6": []
+  }
+}

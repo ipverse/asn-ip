@@ -1,0 +1,12 @@
+{
+  "asn": 10042,
+  "handle": "DPC-KR-KR",
+  "description": "SUSEONG COLLEGE",
+  "subnets": {
+    "ipv4": [
+      "211.223.224.0/22",
+      "220.68.96.0/22"
+    ],
+    "ipv6": []
+  }
+}

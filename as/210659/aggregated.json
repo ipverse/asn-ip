@@ -1,0 +1,14 @@
+{
+  "asn": 210659,
+  "handle": "RLRISK-EU",
+  "description": "Rogers and Lynch LLC",
+  "subnets": {
+    "ipv4": [
+      "185.186.65.0/24"
+    ],
+    "ipv6": [
+      "2a0e:97c0:560::/48",
+      "2a0e:97c0:566::/47"
+    ]
+  }
+}

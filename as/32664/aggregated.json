@@ -1,0 +1,12 @@
+{
+  "asn": 32664,
+  "handle": "CLOUDNET-AS2",
+  "description": "Cloudnet, Inc.",
+  "subnets": {
+    "ipv4": [
+      "63.238.1.0/24",
+      "216.230.16.0/24"
+    ],
+    "ipv6": []
+  }
+}

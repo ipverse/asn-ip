@@ -1,0 +1,13 @@
+{
+  "asn": 271942,
+  "handle": "CV-HOTSPOT-SRL",
+  "description": "CV HOTSPOT, S.R.L.",
+  "subnets": {
+    "ipv4": [
+      "200.26.184.0/24"
+    ],
+    "ipv6": [
+      "2803:2610::/32"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asn": 7455,
+  "handle": "MOTO-INT1",
+  "description": "Motorists Mutual Insurance Company",
+  "subnets": {
+    "ipv4": [
+      "198.105.158.0/23"
+    ],
+    "ipv6": []
+  }
+}

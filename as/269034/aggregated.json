@@ -1,0 +1,13 @@
+{
+  "asn": 269034,
+  "handle": "NOBRE-NETWORK",
+  "description": "NOBRE NETWORK",
+  "subnets": {
+    "ipv4": [
+      "45.178.108.0/22"
+    ],
+    "ipv6": [
+      "2804:5e74::/32"
+    ]
+  }
+}

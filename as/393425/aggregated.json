@@ -1,0 +1,11 @@
+{
+  "asn": 393425,
+  "handle": "CALACADEMY-NET",
+  "description": "California Academy of Sciences",
+  "subnets": {
+    "ipv4": [
+      "192.40.158.0/24"
+    ],
+    "ipv6": []
+  }
+}

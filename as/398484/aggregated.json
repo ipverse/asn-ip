@@ -1,0 +1,11 @@
+{
+  "asn": 398484,
+  "handle": "CLARKEUNIVERSITY-BGP",
+  "description": "Clarke University",
+  "subnets": {
+    "ipv4": [
+      "204.238.255.0/24"
+    ],
+    "ipv6": []
+  }
+}

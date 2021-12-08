@@ -1,0 +1,14 @@
+{
+  "asn": 263994,
+  "handle": "HELIO-B-MARTINS-JUNIOR-ME",
+  "description": "HELIO B. MARTINS JUNIOR - ME",
+  "subnets": {
+    "ipv4": [
+      "138.255.220.0/22",
+      "168.196.144.0/22"
+    ],
+    "ipv6": [
+      "2804:290c::/32"
+    ]
+  }
+}

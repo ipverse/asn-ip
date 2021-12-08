@@ -1,0 +1,11 @@
+{
+  "asn": 263539,
+  "handle": "NEW-SYSTEM-INTERNET",
+  "description": "NEW SYSTEM INTERNET",
+  "subnets": {
+    "ipv4": [
+      "191.5.168.0/21"
+    ],
+    "ipv6": []
+  }
+}

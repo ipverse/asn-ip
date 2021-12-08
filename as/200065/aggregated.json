@@ -1,0 +1,11 @@
+{
+  "asn": 200065,
+  "handle": "MOSMETROCOMM",
+  "description": "GUP Moscow Metro",
+  "subnets": {
+    "ipv4": [
+      "194.190.36.0/24"
+    ],
+    "ipv6": []
+  }
+}

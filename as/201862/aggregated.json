@@ -1,0 +1,12 @@
+{
+  "asn": 201862,
+  "handle": "VMHOSTS-LONDON",
+  "description": "VMhosts Ltd",
+  "subnets": {
+    "ipv4": [
+      "185.61.132.0/22",
+      "185.214.48.0/24"
+    ],
+    "ipv6": []
+  }
+}

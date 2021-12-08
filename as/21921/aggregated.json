@@ -1,0 +1,12 @@
+{
+  "asn": 21921,
+  "handle": "NEW-HOPE-TELEPHONE-COOPERATIVE",
+  "description": "New Hope Telephone Cooperative",
+  "subnets": {
+    "ipv4": [
+      "107.190.192.0/20",
+      "209.206.96.0/20"
+    ],
+    "ipv6": []
+  }
+}

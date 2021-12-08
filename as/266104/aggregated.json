@@ -1,0 +1,13 @@
+{
+  "asn": 266104,
+  "handle": "RPNET-TELECOM",
+  "description": "RPNET TELECOM",
+  "subnets": {
+    "ipv4": [
+      "45.5.192.0/22"
+    ],
+    "ipv6": [
+      "2804:3ab4::/32"
+    ]
+  }
+}

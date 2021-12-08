@@ -1,0 +1,13 @@
+{
+  "asn": 30523,
+  "handle": "BOK-FINANCIAL-CORPORATION",
+  "description": "BOK Financial Corporation",
+  "subnets": {
+    "ipv4": [
+      "63.97.206.0/24",
+      "184.177.190.0/24",
+      "216.60.18.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 17453,
+  "handle": "CYQ",
+  "description": "AUTONOMOUS SYTEM FOR MUMBAI-IDC",
+  "subnets": {
+    "ipv4": [
+      "202.46.192.0/21",
+      "202.46.200.0/22"
+    ],
+    "ipv6": []
+  }
+}

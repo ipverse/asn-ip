@@ -1,0 +1,13 @@
+{
+  "asn": 12125,
+  "handle": "ZEBRAFISH",
+  "description": "Zebrafish Labs Inc.",
+  "subnets": {
+    "ipv4": [
+      "104.129.144.0/24",
+      "104.129.146.0/24",
+      "194.38.6.0/23"
+    ],
+    "ipv6": []
+  }
+}

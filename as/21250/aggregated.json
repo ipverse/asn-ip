@@ -1,0 +1,12 @@
+{
+  "asn": 21250,
+  "handle": "BAHNHOF",
+  "description": "Bahnhof AB",
+  "subnets": {
+    "ipv4": [
+      "194.71.189.0/24",
+      "194.71.190.0/23"
+    ],
+    "ipv6": []
+  }
+}

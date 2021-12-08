@@ -1,0 +1,13 @@
+{
+  "asn": 265968,
+  "handle": "FICA-TELECOM",
+  "description": "FICA TELECOM",
+  "subnets": {
+    "ipv4": [
+      "164.163.84.0/22"
+    ],
+    "ipv6": [
+      "2804:4094::/32"
+    ]
+  }
+}

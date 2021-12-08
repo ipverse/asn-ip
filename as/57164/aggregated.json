@@ -1,0 +1,14 @@
+{
+  "asn": 57164,
+  "handle": "VNP",
+  "description": "VNP DIGITAL Ltd.",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2602:fcff:10::/48",
+      "2602:fcff:15::/48",
+      "2a0d:d900:1::/48",
+      "2a0e:b107:31f::/48"
+    ]
+  }
+}

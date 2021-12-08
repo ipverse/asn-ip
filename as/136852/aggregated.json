@@ -1,0 +1,13 @@
+{
+  "asn": 136852,
+  "handle": "IDNIC-DIGINETMEDIA-ID",
+  "description": "PT Diginet Media",
+  "subnets": {
+    "ipv4": [
+      "103.102.146.0/24"
+    ],
+    "ipv6": [
+      "2001:df2:e100::/48"
+    ]
+  }
+}

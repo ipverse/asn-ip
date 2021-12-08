@@ -1,0 +1,13 @@
+{
+  "asn": 269067,
+  "handle": "RV-TELECOM-LTDA-ME",
+  "description": "RV - TELECOM LTDA ME",
+  "subnets": {
+    "ipv4": [
+      "45.175.8.0/22"
+    ],
+    "ipv6": [
+      "2804:5ef4::/32"
+    ]
+  }
+}

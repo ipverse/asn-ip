@@ -1,0 +1,13 @@
+{
+  "asn": 198644,
+  "handle": "GO6",
+  "description": "Zavod za IPv6 - go6",
+  "subnets": {
+    "ipv4": [
+      "91.239.96.0/23"
+    ],
+    "ipv6": [
+      "2001:67c:27e4::/48"
+    ]
+  }
+}

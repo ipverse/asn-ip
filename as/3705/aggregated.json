@@ -1,0 +1,11 @@
+{
+  "asn": 3705,
+  "handle": "GPO-NET",
+  "description": "U.S. Government Printing Office",
+  "subnets": {
+    "ipv4": [
+      "162.140.0.0/16"
+    ],
+    "ipv6": []
+  }
+}

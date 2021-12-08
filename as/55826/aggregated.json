@@ -1,0 +1,11 @@
+{
+  "asn": 55826,
+  "handle": "CERNET2-TJU6-AP",
+  "description": "Tianjin University IPv6 Campus Network",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2403:ac00::/32"
+    ]
+  }
+}

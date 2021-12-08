@@ -1,0 +1,12 @@
+{
+  "asn": 25557,
+  "handle": "PKE",
+  "description": "TAURON WYTWARZANIE SPOLKA AKCYJNA",
+  "subnets": {
+    "ipv4": [
+      "194.242.52.0/24",
+      "195.245.224.0/24"
+    ],
+    "ipv6": []
+  }
+}

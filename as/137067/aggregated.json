@@ -1,0 +1,13 @@
+{
+  "asn": 137067,
+  "handle": "FLASHNET-AP",
+  "description": "Flashnet Enterprise",
+  "subnets": {
+    "ipv4": [
+      "103.149.56.0/23"
+    ],
+    "ipv6": [
+      "2405:e340::/32"
+    ]
+  }
+}

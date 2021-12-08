@@ -1,0 +1,11 @@
+{
+  "asn": 136406,
+  "handle": "SPEED-LINK-AP",
+  "description": "M/S Speed Link",
+  "subnets": {
+    "ipv4": [
+      "103.86.192.0/22"
+    ],
+    "ipv6": []
+  }
+}

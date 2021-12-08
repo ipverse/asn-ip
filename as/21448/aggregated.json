@@ -1,0 +1,13 @@
+{
+  "asn": 21448,
+  "handle": "MWIL",
+  "description": "Integrated Digital Services Ltd",
+  "subnets": {
+    "ipv4": [
+      "193.110.88.0/24",
+      "194.28.136.0/22",
+      "195.69.92.0/22"
+    ],
+    "ipv6": []
+  }
+}

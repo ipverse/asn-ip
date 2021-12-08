@@ -1,0 +1,11 @@
+{
+  "asn": 271500,
+  "handle": "LINKGOLD-TELECOMUNICACOES",
+  "description": "LINKGOLD TELECOMUNICACOES",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2804:7c80::/32"
+    ]
+  }
+}

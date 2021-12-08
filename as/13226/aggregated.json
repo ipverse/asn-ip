@@ -1,0 +1,13 @@
+{
+  "asn": 13226,
+  "handle": "CYBERNET",
+  "description": "CYBERNET SA",
+  "subnets": {
+    "ipv4": [
+      "213.177.64.0/19"
+    ],
+    "ipv6": [
+      "2a01:5b80::/32"
+    ]
+  }
+}

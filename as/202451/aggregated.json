@@ -1,0 +1,13 @@
+{
+  "asn": 202451,
+  "handle": "CLUE",
+  "description": "Clue Security Services AG",
+  "subnets": {
+    "ipv4": [
+      "193.188.8.0/24"
+    ],
+    "ipv6": [
+      "2a0c:a4c0::/29"
+    ]
+  }
+}

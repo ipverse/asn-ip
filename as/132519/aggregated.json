@@ -1,0 +1,14 @@
+{
+  "asn": 132519,
+  "handle": "SIKKACABLE-IN",
+  "description": "Sikka Cable",
+  "subnets": {
+    "ipv4": [
+      "103.245.32.0/22",
+      "150.129.48.0/22"
+    ],
+    "ipv6": [
+      "2405:ff00::/32"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 200793,
+  "handle": "AORACONECTA",
+  "description": "AORA CONECTA S.L.L.",
+  "subnets": {
+    "ipv4": [
+      "45.149.200.0/22",
+      "185.235.192.0/22"
+    ],
+    "ipv6": []
+  }
+}

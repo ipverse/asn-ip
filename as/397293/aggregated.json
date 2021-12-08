@@ -1,0 +1,13 @@
+{
+  "asn": 397293,
+  "handle": "INFINIUM",
+  "description": "Victoria Electric Cooperative",
+  "subnets": {
+    "ipv4": [
+      "66.148.124.0/22",
+      "208.77.88.0/23",
+      "209.160.16.0/22"
+    ],
+    "ipv6": []
+  }
+}

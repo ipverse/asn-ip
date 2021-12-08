@@ -1,0 +1,11 @@
+{
+  "asn": 21516,
+  "handle": "ECH-2",
+  "description": "Ephrata Community Hospital",
+  "subnets": {
+    "ipv4": [
+      "204.238.209.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 48025,
+  "handle": "ISLANDNET",
+  "description": "ISLAND-SERWIS-NET MIROSLAW GORCZAKOWSKI",
+  "subnets": {
+    "ipv4": [
+      "45.88.96.0/24"
+    ],
+    "ipv6": [
+      "2001:678:c98::/48"
+    ]
+  }
+}

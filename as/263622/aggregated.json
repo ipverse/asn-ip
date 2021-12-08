@@ -1,0 +1,13 @@
+{
+  "asn": 263622,
+  "handle": "MEGA-TELECOMUNICACOES",
+  "description": "MEGA TELECOMUNICACOES",
+  "subnets": {
+    "ipv4": [
+      "177.155.144.0/20"
+    ],
+    "ipv6": [
+      "2804:1028::/32"
+    ]
+  }
+}

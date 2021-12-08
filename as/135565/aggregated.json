@@ -1,0 +1,12 @@
+{
+  "asn": 135565,
+  "handle": "JCSPL-AP",
+  "description": "JEM Computer Systems Pty Ltd",
+  "subnets": {
+    "ipv4": [
+      "103.66.37.0/24",
+      "103.92.131.0/24"
+    ],
+    "ipv6": []
+  }
+}

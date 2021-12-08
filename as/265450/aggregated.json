@@ -1,0 +1,13 @@
+{
+  "asn": 265450,
+  "handle": "JUSTICA-FEDERAL-DE",
+  "description": "Justica Federal de Primeiro Grau no Parana",
+  "subnets": {
+    "ipv4": [
+      "200.33.174.0/24"
+    ],
+    "ipv6": [
+      "2801:80:1a50::/48"
+    ]
+  }
+}

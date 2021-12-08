@@ -1,0 +1,13 @@
+{
+  "asn": 201939,
+  "handle": "DSMI",
+  "description": "AVITI SASU",
+  "subnets": {
+    "ipv4": [
+      "185.57.52.0/22"
+    ],
+    "ipv6": [
+      "2a02:5820::/32"
+    ]
+  }
+}

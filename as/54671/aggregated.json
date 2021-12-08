@@ -1,0 +1,12 @@
+{
+  "asn": 54671,
+  "handle": "WPCASN",
+  "description": "WALSWORTH PUBLISHING COMPANY",
+  "subnets": {
+    "ipv4": [
+      "199.231.88.0/23",
+      "199.231.90.0/24"
+    ],
+    "ipv6": []
+  }
+}

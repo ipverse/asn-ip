@@ -1,0 +1,13 @@
+{
+  "asn": 270810,
+  "handle": "MI-CONECT-REDE",
+  "description": "Mi Conect Rede de Acesso as Comunicações LTDA",
+  "subnets": {
+    "ipv4": [
+      "200.219.16.0/22"
+    ],
+    "ipv6": [
+      "2804:71c4::/32"
+    ]
+  }
+}

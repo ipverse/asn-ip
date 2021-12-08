@@ -1,0 +1,12 @@
+{
+  "asn": 33734,
+  "handle": "MPW-MACHLINK-NET",
+  "description": "Muscatine Power and Water",
+  "subnets": {
+    "ipv4": [
+      "66.207.0.0/19",
+      "69.49.64.0/19"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asn": 24548,
+  "handle": "BAYCITY-AP",
+  "description": "BayCity Communications",
+  "subnets": {
+    "ipv4": [
+      "110.173.174.0/23"
+    ],
+    "ipv6": []
+  }
+}

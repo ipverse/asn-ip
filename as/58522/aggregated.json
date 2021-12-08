@@ -1,0 +1,13 @@
+{
+  "asn": 58522,
+  "handle": "HTCGLOBAL-IN",
+  "description": "HTC Global Services (INDIA) Private Ltd",
+  "subnets": {
+    "ipv4": [
+      "103.247.209.0/24"
+    ],
+    "ipv6": [
+      "2001:df4:c200::/48"
+    ]
+  }
+}

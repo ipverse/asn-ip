@@ -1,0 +1,12 @@
+{
+  "asn": 17550,
+  "handle": "SMC-AP",
+  "description": "San Miguel Corporation",
+  "subnets": {
+    "ipv4": [
+      "120.89.62.0/24",
+      "203.177.86.0/24"
+    ],
+    "ipv6": []
+  }
+}

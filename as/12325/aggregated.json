@@ -1,0 +1,12 @@
+{
+  "asn": 12325,
+  "handle": "IRM",
+  "description": "Internet Resources Management SRL",
+  "subnets": {
+    "ipv4": [
+      "77.81.177.0/24",
+      "194.8.80.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 54765,
+  "handle": "MANAGEMENT-INVESTMENT-CORPORATION",
+  "description": "Management Investment Corporation",
+  "subnets": {
+    "ipv4": [
+      "199.88.246.0/23"
+    ],
+    "ipv6": [
+      "2620:10f:7000::/44"
+    ]
+  }
+}

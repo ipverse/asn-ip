@@ -1,0 +1,11 @@
+{
+  "asn": 141998,
+  "handle": "CHINANET-LANZHOU-IDC",
+  "description": "China Telecom",
+  "subnets": {
+    "ipv4": [
+      "118.182.252.0/24"
+    ],
+    "ipv6": []
+  }
+}

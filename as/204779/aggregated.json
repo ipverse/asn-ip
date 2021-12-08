@@ -1,0 +1,13 @@
+{
+  "asn": 204779,
+  "handle": "LOCALNETFI",
+  "description": "Local Loop Oy",
+  "subnets": {
+    "ipv4": [
+      "185.185.168.0/22"
+    ],
+    "ipv6": [
+      "2a0b:5c80::/29"
+    ]
+  }
+}

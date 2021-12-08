@@ -1,0 +1,11 @@
+{
+  "asn": 28712,
+  "handle": "TELSYCOM",
+  "description": "PJSC ROSBANK",
+  "subnets": {
+    "ipv4": [
+      "217.14.18.0/24"
+    ],
+    "ipv6": []
+  }
+}

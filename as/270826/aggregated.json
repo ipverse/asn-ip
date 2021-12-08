@@ -1,0 +1,13 @@
+{
+  "asn": 270826,
+  "handle": "I9NOVE-TELECOM",
+  "description": "I9NOVE TELECOM",
+  "subnets": {
+    "ipv4": [
+      "200.219.28.0/22"
+    ],
+    "ipv6": [
+      "2804:7200::/32"
+    ]
+  }
+}

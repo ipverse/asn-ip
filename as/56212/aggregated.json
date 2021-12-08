@@ -1,0 +1,13 @@
+{
+  "asn": 56212,
+  "handle": "EDGECOMM-PH",
+  "description": "Click Communications, Inc.",
+  "subnets": {
+    "ipv4": [
+      "45.253.88.0/22",
+      "103.29.252.0/22",
+      "202.6.85.0/24"
+    ],
+    "ipv6": []
+  }
+}

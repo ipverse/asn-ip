@@ -1,0 +1,13 @@
+{
+  "asn": 267125,
+  "handle": "NETUP-PROVEDOR",
+  "description": "NETUP PROVEDOR",
+  "subnets": {
+    "ipv4": [
+      "45.228.236.0/22"
+    ],
+    "ipv6": [
+      "2804:4880::/32"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 44539,
+  "handle": "REDI",
+  "description": "Redi LLC",
+  "subnets": {
+    "ipv4": [
+      "212.66.32.0/20",
+      "212.66.56.0/21"
+    ],
+    "ipv6": []
+  }
+}

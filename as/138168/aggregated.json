@@ -1,0 +1,11 @@
+{
+  "asn": 138168,
+  "handle": "APN-AP",
+  "description": "MyanmarAPN Company Limited",
+  "subnets": {
+    "ipv4": [
+      "103.121.228.0/22"
+    ],
+    "ipv6": []
+  }
+}

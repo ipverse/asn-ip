@@ -1,0 +1,12 @@
+{
+  "asn": 18219,
+  "handle": "SAP-DC-SIN",
+  "description": "SAP Asia Pte Ltd",
+  "subnets": {
+    "ipv4": [
+      "157.133.160.0/21",
+      "169.145.192.0/20"
+    ],
+    "ipv6": []
+  }
+}

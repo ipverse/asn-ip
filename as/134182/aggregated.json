@@ -1,0 +1,11 @@
+{
+  "asn": 134182,
+  "handle": "DHFLGI-AP",
+  "description": "DHFL General Insurance limited",
+  "subnets": {
+    "ipv4": [
+      "103.101.64.0/24"
+    ],
+    "ipv6": []
+  }
+}

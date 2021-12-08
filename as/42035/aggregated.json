@@ -1,0 +1,13 @@
+{
+  "asn": 42035,
+  "handle": "VIKINGS",
+  "description": "Vikings GmbH",
+  "subnets": {
+    "ipv4": [
+      "185.199.140.0/22"
+    ],
+    "ipv6": [
+      "2a0b:2b40::/29"
+    ]
+  }
+}

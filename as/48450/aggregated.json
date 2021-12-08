@@ -1,0 +1,14 @@
+{
+  "asn": 48450,
+  "handle": "BOLTD",
+  "description": "Buzachi Operating Ltd.",
+  "subnets": {
+    "ipv4": [
+      "94.247.64.0/21",
+      "185.123.16.0/22"
+    ],
+    "ipv6": [
+      "2a03:7b20::/32"
+    ]
+  }
+}

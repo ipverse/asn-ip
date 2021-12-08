@@ -1,0 +1,12 @@
+{
+  "asn": 53567,
+  "handle": "VOLSTATE",
+  "description": "VOLstate, Inc.",
+  "subnets": {
+    "ipv4": [
+      "199.15.152.0/21",
+      "209.235.188.0/23"
+    ],
+    "ipv6": []
+  }
+}

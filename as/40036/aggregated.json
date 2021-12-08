@@ -1,0 +1,11 @@
+{
+  "asn": 40036,
+  "handle": "GBC-1",
+  "description": "Greenfield Banking Company",
+  "subnets": {
+    "ipv4": [
+      "137.83.50.0/24"
+    ],
+    "ipv6": []
+  }
+}

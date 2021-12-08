@@ -1,0 +1,13 @@
+{
+  "asn": 264886,
+  "handle": "GD-NET-SOLUTION",
+  "description": "GD NET SOLUTION",
+  "subnets": {
+    "ipv4": [
+      "168.227.180.0/22"
+    ],
+    "ipv6": [
+      "2804:2f5c::/32"
+    ]
+  }
+}

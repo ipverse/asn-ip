@@ -1,0 +1,12 @@
+{
+  "asn": 15668,
+  "handle": "CEDACRI-SPA",
+  "description": "CEDACRI S.P.A.",
+  "subnets": {
+    "ipv4": [
+      "80.252.206.0/23",
+      "217.11.0.0/20"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 17947,
+  "handle": "S-UTOPIA-NET",
+  "description": "S-UTOPIA",
+  "subnets": {
+    "ipv4": [
+      "133.249.0.0/16",
+      "203.179.224.0/20"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 271247,
+  "handle": "RS-SUL-TELECOMUNICACOES-LTDA",
+  "description": "RS Sul Telecomunicações Ltda",
+  "subnets": {
+    "ipv4": [
+      "200.106.212.0/22"
+    ],
+    "ipv6": [
+      "2804:7880::/32"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 141076,
+  "handle": "IDNIC-ARTHAMAS-ID",
+  "description": "PT. Arthamas Cipta",
+  "subnets": {
+    "ipv4": [
+      "103.155.221.0/24",
+      "103.165.86.0/24"
+    ],
+    "ipv6": []
+  }
+}

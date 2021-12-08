@@ -1,0 +1,12 @@
+{
+  "asn": 33291,
+  "handle": "MANOV-ISP",
+  "description": "Manov Investments, LLC",
+  "subnets": {
+    "ipv4": [
+      "162.210.243.0/24",
+      "162.244.141.0/24"
+    ],
+    "ipv6": []
+  }
+}

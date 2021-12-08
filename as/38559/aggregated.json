@@ -1,0 +1,13 @@
+{
+  "asn": 38559,
+  "handle": "AIA-AUSTRALIA-AP",
+  "description": "AIA Australia Limited",
+  "subnets": {
+    "ipv4": [
+      "103.111.127.0/24",
+      "103.112.66.0/24",
+      "202.12.102.0/24"
+    ],
+    "ipv6": []
+  }
+}

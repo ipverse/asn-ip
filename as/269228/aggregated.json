@@ -1,0 +1,13 @@
+{
+  "asn": 269228,
+  "handle": "NETWORK-SERVICOS-DE",
+  "description": "NETWORK SERVIcOS DE INFORMATICA Ltda.",
+  "subnets": {
+    "ipv4": [
+      "45.181.160.0/22"
+    ],
+    "ipv6": [
+      "2804:6154::/32"
+    ]
+  }
+}

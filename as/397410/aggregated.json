@@ -1,0 +1,12 @@
+{
+  "asn": 397410,
+  "handle": "MTG",
+  "description": "Mainstream Technology Group",
+  "subnets": {
+    "ipv4": [
+      "192.231.143.0/24",
+      "204.17.130.0/23"
+    ],
+    "ipv6": []
+  }
+}

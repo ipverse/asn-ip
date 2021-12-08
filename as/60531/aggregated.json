@@ -1,0 +1,13 @@
+{
+  "asn": 60531,
+  "handle": "NU-AM-CHEF-AZI",
+  "description": "Nu Am Chef Azi Project SRL",
+  "subnets": {
+    "ipv4": [
+      "85.122.81.0/24"
+    ],
+    "ipv6": [
+      "2001:67c:2eec::/48"
+    ]
+  }
+}

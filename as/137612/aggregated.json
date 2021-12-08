@@ -1,0 +1,11 @@
+{
+  "asn": 137612,
+  "handle": "CDCN-IN",
+  "description": "Chandra Digital Communications And Networks",
+  "subnets": {
+    "ipv4": [
+      "103.117.38.0/23"
+    ],
+    "ipv6": []
+  }
+}

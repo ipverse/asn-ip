@@ -1,0 +1,11 @@
+{
+  "asn": 52417,
+  "handle": "BPAC-AMERAFIN-SA",
+  "description": "BPAC AMERAFIN S.A.",
+  "subnets": {
+    "ipv4": [
+      "201.221.127.0/24"
+    ],
+    "ipv6": []
+  }
+}

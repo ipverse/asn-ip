@@ -1,0 +1,12 @@
+{
+  "asn": 327898,
+  "handle": "CBC-EMEA",
+  "description": "CBC EMEA LTD",
+  "subnets": {
+    "ipv4": [
+      "169.255.236.0/23",
+      "169.255.239.0/24"
+    ],
+    "ipv6": []
+  }
+}

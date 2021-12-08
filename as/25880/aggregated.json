@@ -1,0 +1,13 @@
+{
+  "asn": 25880,
+  "handle": "YURGATELEKOM",
+  "description": "Public joint-stock company RUTELEKOM",
+  "subnets": {
+    "ipv4": [
+      "31.170.184.0/21",
+      "89.145.128.0/19",
+      "185.190.184.0/22"
+    ],
+    "ipv6": []
+  }
+}

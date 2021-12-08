@@ -1,0 +1,13 @@
+{
+  "asn": 132676,
+  "handle": "IDNIC-UNSRI-ID",
+  "description": "Universitas Sriwijaya",
+  "subnets": {
+    "ipv4": [
+      "103.121.159.0/24",
+      "103.208.137.0/24",
+      "103.241.4.0/23"
+    ],
+    "ipv6": []
+  }
+}

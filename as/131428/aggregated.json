@@ -1,0 +1,13 @@
+{
+  "asn": 131428,
+  "handle": "BIZMAC-VN",
+  "description": "Rainbow E-Commerce Company Limited",
+  "subnets": {
+    "ipv4": [
+      "45.117.76.0/22",
+      "103.99.228.0/22",
+      "103.238.212.0/23"
+    ],
+    "ipv6": []
+  }
+}

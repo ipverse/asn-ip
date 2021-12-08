@@ -1,0 +1,13 @@
+{
+  "asn": 39086,
+  "handle": "NEXWAY",
+  "description": "Nexway SAS",
+  "subnets": {
+    "ipv4": [
+      "195.66.80.0/24"
+    ],
+    "ipv6": [
+      "2001:678:7c8::/48"
+    ]
+  }
+}

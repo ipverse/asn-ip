@@ -1,0 +1,11 @@
+{
+  "asn": 8140,
+  "handle": "INSTITUTO-FEDERAL-ELECTORAL",
+  "description": "Instituto Federal Electoral",
+  "subnets": {
+    "ipv4": [
+      "200.34.164.0/22"
+    ],
+    "ipv6": []
+  }
+}

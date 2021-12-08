@@ -1,0 +1,12 @@
+{
+  "asn": 262944,
+  "handle": "SPECTRO-NETWORKS-S",
+  "description": "Spectro Networks, S. de R.L. de C.V.",
+  "subnets": {
+    "ipv4": [
+      "138.185.224.0/22",
+      "189.201.192.0/22"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 205009,
+  "handle": "FINTENDER",
+  "description": "JSC RTS-holding",
+  "subnets": {
+    "ipv4": [
+      "185.232.228.0/23",
+      "185.232.230.0/24"
+    ],
+    "ipv6": []
+  }
+}

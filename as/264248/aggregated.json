@@ -1,0 +1,13 @@
+{
+  "asn": 264248,
+  "handle": "BANDEIRANET-TELECOMUNICACOES-LTDA",
+  "description": "BandeiraNet Telecomunicações Ltda ME",
+  "subnets": {
+    "ipv4": [
+      "138.118.60.0/22"
+    ],
+    "ipv6": [
+      "2804:24ec::/32"
+    ]
+  }
+}

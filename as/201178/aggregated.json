@@ -1,0 +1,15 @@
+{
+  "asn": 201178,
+  "handle": "ASEURONET",
+  "description": "Euronet Telekomunikasyon A.S.",
+  "subnets": {
+    "ipv4": [
+      "45.84.220.0/23",
+      "185.81.236.0/22",
+      "193.148.252.0/24"
+    ],
+    "ipv6": [
+      "2a05:8a00::/48"
+    ]
+  }
+}

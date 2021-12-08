@@ -1,0 +1,13 @@
+{
+  "asn": 397887,
+  "handle": "HOSTMYCALLS-01",
+  "description": "HostMyCalls",
+  "subnets": {
+    "ipv4": [
+      "12.200.147.0/24",
+      "69.58.94.0/24",
+      "104.232.44.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 25791,
+  "handle": "SE-NET",
+  "description": "Stack Exchange, Inc.",
+  "subnets": {
+    "ipv4": [
+      "192.111.0.0/24",
+      "198.252.206.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 266927,
+  "handle": "BINARIO-DISTRIBUIDORA-DE",
+  "description": "Binario Distribuidora de Equipamentos Eletronicos",
+  "subnets": {
+    "ipv4": [
+      "45.225.24.0/22"
+    ],
+    "ipv6": [
+      "2804:4574::/32"
+    ]
+  }
+}

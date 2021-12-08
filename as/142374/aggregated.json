@@ -1,0 +1,11 @@
+{
+  "asn": 142374,
+  "handle": "IDNIC-INTRAKOM-ID",
+  "description": "PT Solusi Integra Datakom",
+  "subnets": {
+    "ipv4": [
+      "103.171.184.0/23"
+    ],
+    "ipv6": []
+  }
+}

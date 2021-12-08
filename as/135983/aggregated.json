@@ -1,0 +1,13 @@
+{
+  "asn": 135983,
+  "handle": "TINO-VN",
+  "description": "Tino Group Joint Stock Company",
+  "subnets": {
+    "ipv4": [
+      "103.163.24.0/23",
+      "103.166.176.0/23",
+      "103.167.86.0/23"
+    ],
+    "ipv6": []
+  }
+}

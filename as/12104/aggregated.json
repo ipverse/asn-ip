@@ -1,0 +1,12 @@
+{
+  "asn": 12104,
+  "handle": "CDE",
+  "description": "State Farm Mutual  Automobile Insurance Company",
+  "subnets": {
+    "ipv4": [
+      "12.16.196.0/24",
+      "204.94.39.0/24"
+    ],
+    "ipv6": []
+  }
+}

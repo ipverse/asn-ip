@@ -1,0 +1,11 @@
+{
+  "asn": 199012,
+  "handle": "ZALANDO",
+  "description": "Zalando SE",
+  "subnets": {
+    "ipv4": [
+      "91.240.34.0/24"
+    ],
+    "ipv6": []
+  }
+}

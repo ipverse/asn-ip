@@ -1,0 +1,11 @@
+{
+  "asn": 137657,
+  "handle": "TENGNET-IN",
+  "description": "Ten G Network Solution Private Limited",
+  "subnets": {
+    "ipv4": [
+      "103.121.240.0/22"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 136696,
+  "handle": "SIFI-IN",
+  "description": "Sifi Online Pvt Ltd",
+  "subnets": {
+    "ipv4": [
+      "103.48.108.0/22",
+      "103.103.56.0/22",
+      "121.46.84.0/22"
+    ],
+    "ipv6": []
+  }
+}

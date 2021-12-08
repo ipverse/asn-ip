@@ -1,0 +1,12 @@
+{
+  "asn": 203135,
+  "handle": "EXADEL",
+  "description": "Exadel FLLC",
+  "subnets": {
+    "ipv4": [
+      "79.110.20.0/24",
+      "91.204.13.0/24"
+    ],
+    "ipv6": []
+  }
+}

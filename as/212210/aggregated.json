@@ -1,0 +1,12 @@
+{
+  "asn": 212210,
+  "handle": "WEBSTARLINK",
+  "description": "Sheremet Aleksey",
+  "subnets": {
+    "ipv4": [
+      "93.170.94.0/23",
+      "95.47.174.0/24"
+    ],
+    "ipv6": []
+  }
+}

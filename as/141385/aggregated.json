@@ -1,0 +1,11 @@
+{
+  "asn": 141385,
+  "handle": "INET1-AP",
+  "description": "iNet",
+  "subnets": {
+    "ipv4": [
+      "103.158.2.0/23"
+    ],
+    "ipv6": []
+  }
+}

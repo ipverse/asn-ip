@@ -1,0 +1,13 @@
+{
+  "asn": 61506,
+  "handle": "INSACOM-Y-CIA-LIMITADA",
+  "description": "Insacom y Cia. Limitada",
+  "subnets": {
+    "ipv4": [
+      "138.204.228.0/22"
+    ],
+    "ipv6": [
+      "2803:4640::/32"
+    ]
+  }
+}

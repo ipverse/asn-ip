@@ -1,0 +1,13 @@
+{
+  "asn": 33297,
+  "handle": "VEGAS",
+  "description": "Sumofiber",
+  "subnets": {
+    "ipv4": [
+      "162.252.244.0/24"
+    ],
+    "ipv6": [
+      "2606:a600:8::/48"
+    ]
+  }
+}

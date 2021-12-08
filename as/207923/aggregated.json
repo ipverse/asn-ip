@@ -1,0 +1,13 @@
+{
+  "asn": 207923,
+  "handle": "AIREON",
+  "description": "Ernesto Lahoz Lopez",
+  "subnets": {
+    "ipv4": [
+      "45.158.100.0/22"
+    ],
+    "ipv6": [
+      "2a0f:4c40::/29"
+    ]
+  }
+}

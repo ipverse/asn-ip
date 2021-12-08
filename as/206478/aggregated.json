@@ -1,0 +1,14 @@
+{
+  "asn": 206478,
+  "handle": "LILIFE",
+  "description": "li-life web + it establishment",
+  "subnets": {
+    "ipv4": [
+      "185.174.32.0/22",
+      "195.225.200.0/22"
+    ],
+    "ipv6": [
+      "2a10:4140::/29"
+    ]
+  }
+}

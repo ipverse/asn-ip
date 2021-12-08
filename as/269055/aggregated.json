@@ -1,0 +1,11 @@
+{
+  "asn": 269055,
+  "handle": "GPO-TELECOM-FIBRA-OPTICA",
+  "description": "GPO TELECOM FIBRA OPTICA",
+  "subnets": {
+    "ipv4": [
+      "45.178.160.0/22"
+    ],
+    "ipv6": []
+  }
+}

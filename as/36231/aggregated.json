@@ -1,0 +1,14 @@
+{
+  "asn": 36231,
+  "handle": "TEMPEST-HOSTING",
+  "description": "Tempest Hosting, LLC",
+  "subnets": {
+    "ipv4": [
+      "64.52.81.0/24",
+      "141.193.68.0/24",
+      "142.252.252.0/22",
+      "199.231.233.0/24"
+    ],
+    "ipv6": []
+  }
+}

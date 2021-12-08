@@ -1,0 +1,13 @@
+{
+  "asn": 39975,
+  "handle": "GOCODEIT-INC-02",
+  "description": "GoCodeIT Inc",
+  "subnets": {
+    "ipv4": [
+      "74.119.148.0/24"
+    ],
+    "ipv6": [
+      "2602:fd50:f::/48"
+    ]
+  }
+}

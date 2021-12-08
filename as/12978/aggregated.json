@@ -1,0 +1,18 @@
+{
+  "asn": 12978,
+  "handle": "DOGAN-ONLINE",
+  "description": "ANDROMEDA TV DIGITAL PLATFORM ISLETMECILIGI A.S.",
+  "subnets": {
+    "ipv4": [
+      "31.200.0.0/17",
+      "62.29.0.0/17",
+      "83.66.0.0/16",
+      "94.120.0.0/14",
+      "185.92.214.0/23",
+      "213.243.0.0/18"
+    ],
+    "ipv6": [
+      "2a00:6280::/32"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 264107,
+  "handle": "ABC-TELECOM-COMUNICACAO",
+  "description": "ABC TELECOM - COMUNICACAO EIRELI",
+  "subnets": {
+    "ipv4": [
+      "138.94.36.0/22"
+    ],
+    "ipv6": [
+      "2804:228c:c000::/48"
+    ]
+  }
+}

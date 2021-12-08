@@ -1,0 +1,11 @@
+{
+  "asn": 138254,
+  "handle": "OZONE123-IN",
+  "description": "OZONE BROADBAND SERVICE",
+  "subnets": {
+    "ipv4": [
+      "103.171.76.0/24"
+    ],
+    "ipv6": []
+  }
+}

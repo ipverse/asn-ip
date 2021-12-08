@@ -1,0 +1,13 @@
+{
+  "asn": 136323,
+  "handle": "NGCBPL",
+  "description": "Ngc Broadband Pvt. Ltd.",
+  "subnets": {
+    "ipv4": [
+      "103.93.36.0/22",
+      "103.138.154.0/24",
+      "103.168.57.0/24"
+    ],
+    "ipv6": []
+  }
+}

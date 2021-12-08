@@ -1,0 +1,11 @@
+{
+  "asn": 136498,
+  "handle": "KS-AP",
+  "description": "KS Network",
+  "subnets": {
+    "ipv4": [
+      "45.251.228.0/23"
+    ],
+    "ipv6": []
+  }
+}

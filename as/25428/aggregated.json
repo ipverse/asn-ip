@@ -1,0 +1,15 @@
+{
+  "asn": 25428,
+  "handle": "INFOCO-COLRUYT",
+  "description": "Colruyt Group Services NV",
+  "subnets": {
+    "ipv4": [
+      "91.231.108.0/23",
+      "185.16.240.0/22",
+      "195.26.2.0/23"
+    ],
+    "ipv6": [
+      "2a01:89c0::/32"
+    ]
+  }
+}

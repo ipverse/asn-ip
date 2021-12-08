@@ -1,0 +1,11 @@
+{
+  "asn": 34443,
+  "handle": "PABK",
+  "description": "Postova banka a.s.",
+  "subnets": {
+    "ipv4": [
+      "85.248.235.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 52914,
+  "handle": "ASSOCIACAO-EDUCACIONAL-NOVE",
+  "description": "Associacao Educacional Nove de Julho",
+  "subnets": {
+    "ipv4": [
+      "143.137.100.0/22",
+      "186.251.39.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 44106,
+  "handle": "VIO-NET-INTERNET-PROVIDER",
+  "description": "VIO-NET SRL",
+  "subnets": {
+    "ipv4": [
+      "85.121.56.0/24",
+      "85.121.200.0/22"
+    ],
+    "ipv6": []
+  }
+}

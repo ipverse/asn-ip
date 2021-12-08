@@ -1,0 +1,12 @@
+{
+  "asn": 269746,
+  "handle": "TIERRANET-SAS",
+  "description": "Tierranet S.A.S.",
+  "subnets": {
+    "ipv4": [
+      "45.181.204.0/23",
+      "45.182.41.0/24"
+    ],
+    "ipv6": []
+  }
+}

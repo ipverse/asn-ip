@@ -1,0 +1,13 @@
+{
+  "asn": 140878,
+  "handle": "PNP-AP",
+  "description": "Philippine National Police",
+  "subnets": {
+    "ipv4": [
+      "103.152.214.0/23"
+    ],
+    "ipv6": [
+      "2001:df4:1d80::/48"
+    ]
+  }
+}

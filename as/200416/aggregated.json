@@ -1,0 +1,13 @@
+{
+  "asn": 200416,
+  "handle": "BG-TAL",
+  "description": "Betgenius Limited",
+  "subnets": {
+    "ipv4": [
+      "185.107.198.0/24"
+    ],
+    "ipv6": [
+      "2a06:45c1::/32"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 138215,
+  "handle": "ROYALTHAIPOLICE-AP",
+  "description": "Royal Thai Police",
+  "subnets": {
+    "ipv4": [
+      "103.122.112.0/23"
+    ],
+    "ipv6": [
+      "2001:df6:ab00::/48"
+    ]
+  }
+}

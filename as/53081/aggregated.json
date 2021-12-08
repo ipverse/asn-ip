@@ -1,0 +1,14 @@
+{
+  "asn": 53081,
+  "handle": "NETJACAREI-TELECON-LTDA",
+  "description": "Netjacarei Telecon Ltda",
+  "subnets": {
+    "ipv4": [
+      "143.202.72.0/22",
+      "187.95.16.0/20"
+    ],
+    "ipv6": [
+      "2804:94::/32"
+    ]
+  }
+}

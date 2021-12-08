@@ -1,0 +1,13 @@
+{
+  "asn": 136365,
+  "handle": "SSBMAHAD",
+  "description": "Shri Samarth Broadband",
+  "subnets": {
+    "ipv4": [
+      "103.90.32.0/23",
+      "103.90.34.0/24",
+      "103.146.154.0/23"
+    ],
+    "ipv6": []
+  }
+}

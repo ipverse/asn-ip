@@ -1,0 +1,13 @@
+{
+  "asn": 22497,
+  "handle": "EXOSPEC",
+  "description": "Warren Wireless",
+  "subnets": {
+    "ipv4": [
+      "23.168.32.0/24"
+    ],
+    "ipv6": [
+      "2605:1540::/32"
+    ]
+  }
+}

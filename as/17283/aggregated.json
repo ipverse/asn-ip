@@ -1,0 +1,11 @@
+{
+  "asn": 17283,
+  "handle": "SAFRAPAY-US-01",
+  "description": "Safrapay Inc",
+  "subnets": {
+    "ipv4": [
+      "162.246.232.0/23"
+    ],
+    "ipv6": []
+  }
+}

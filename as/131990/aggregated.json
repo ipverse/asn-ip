@@ -1,0 +1,13 @@
+{
+  "asn": 131990,
+  "handle": "SBHGAMING",
+  "description": "Fukuoka SoftBank Hawks",
+  "subnets": {
+    "ipv4": [
+      "103.173.8.0/24"
+    ],
+    "ipv6": [
+      "2001:df7:8380::/48"
+    ]
+  }
+}

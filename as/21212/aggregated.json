@@ -1,0 +1,12 @@
+{
+  "asn": 21212,
+  "handle": "SIGFOX",
+  "description": "SIGFOX SA",
+  "subnets": {
+    "ipv4": [
+      "185.110.96.0/23",
+      "185.153.137.0/24"
+    ],
+    "ipv6": []
+  }
+}

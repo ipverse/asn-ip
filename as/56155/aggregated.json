@@ -1,0 +1,12 @@
+{
+  "asn": 56155,
+  "handle": "TMASOLUTIONS-VN",
+  "description": "Tuong Minh service private enterprise",
+  "subnets": {
+    "ipv4": [
+      "103.108.136.0/22",
+      "103.199.4.0/22"
+    ],
+    "ipv6": []
+  }
+}

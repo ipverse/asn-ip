@@ -1,0 +1,13 @@
+{
+  "asn": 7582,
+  "handle": "UMAC-AP",
+  "description": "University of Macau",
+  "subnets": {
+    "ipv4": [
+      "161.64.0.0/16"
+    ],
+    "ipv6": [
+      "2001:ff8::/40"
+    ]
+  }
+}

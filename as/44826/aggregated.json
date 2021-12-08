@@ -1,0 +1,12 @@
+{
+  "asn": 44826,
+  "handle": "PCNET-CATV",
+  "description": "P.C. NET-C.A.T.V. SRL",
+  "subnets": {
+    "ipv4": [
+      "89.46.208.0/21",
+      "188.241.88.0/21"
+    ],
+    "ipv6": []
+  }
+}

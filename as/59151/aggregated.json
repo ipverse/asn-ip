@@ -1,0 +1,15 @@
+{
+  "asn": 59151,
+  "handle": "IDNIC-JOGJAPROV-ID",
+  "description": "Bidang Layanan Teknologi dan Informasi Dinas Perhubungan",
+  "subnets": {
+    "ipv4": [
+      "103.131.104.0/23",
+      "103.210.35.0/24",
+      "103.255.15.0/24"
+    ],
+    "ipv6": [
+      "2001:df1:2600::/48"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 52617,
+  "handle": "WF-COMERCIO-DE",
+  "description": "WF COMERCIO DE SUPRIMENTOS DE INFORMATICA LTDA",
+  "subnets": {
+    "ipv4": [
+      "177.124.100.0/22"
+    ],
+    "ipv6": [
+      "2804:d64::/32"
+    ]
+  }
+}

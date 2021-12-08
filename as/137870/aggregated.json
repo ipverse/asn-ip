@@ -1,0 +1,11 @@
+{
+  "asn": 137870,
+  "handle": "IHNET-AP",
+  "description": "IHNetworks, LLC",
+  "subnets": {
+    "ipv4": [
+      "103.116.16.0/23"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 56513,
+  "handle": "OPTISIS",
+  "description": "Optisis d.o.o.",
+  "subnets": {
+    "ipv4": [
+      "91.224.172.0/23"
+    ],
+    "ipv6": [
+      "2001:67c:548::/48"
+    ]
+  }
+}

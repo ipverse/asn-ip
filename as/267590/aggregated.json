@@ -1,0 +1,13 @@
+{
+  "asn": 267590,
+  "handle": "FIBRATECH-INTERNET-DE",
+  "description": "FIBRATECH INTERNET DE ALTA VELOCIDADE LTDA ME",
+  "subnets": {
+    "ipv4": [
+      "45.70.224.0/22"
+    ],
+    "ipv6": [
+      "2804:43cc::/32"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 42008,
+  "handle": "TEUTONET",
+  "description": "teuto.net Netzdienste GmbH",
+  "subnets": {
+    "ipv4": [
+      "212.15.208.0/21"
+    ],
+    "ipv6": [
+      "2001:ae1::/32"
+    ]
+  }
+}

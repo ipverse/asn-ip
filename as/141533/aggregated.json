@@ -1,0 +1,11 @@
+{
+  "asn": 141533,
+  "handle": "JKCONN-IN",
+  "description": "J K Connect",
+  "subnets": {
+    "ipv4": [
+      "103.162.160.0/23"
+    ],
+    "ipv6": []
+  }
+}

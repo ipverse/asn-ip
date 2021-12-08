@@ -1,0 +1,11 @@
+{
+  "asn": 138573,
+  "handle": "BU-AP",
+  "description": "University of Barisal",
+  "subnets": {
+    "ipv4": [
+      "103.133.187.0/24"
+    ],
+    "ipv6": []
+  }
+}

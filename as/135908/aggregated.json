@@ -1,0 +1,13 @@
+{
+  "asn": 135908,
+  "handle": "ECONET-VN",
+  "description": "ECONET VIETNAM CORPORATION",
+  "subnets": {
+    "ipv4": [
+      "103.82.196.0/22"
+    ],
+    "ipv6": [
+      "2001:df6:2200::/48"
+    ]
+  }
+}

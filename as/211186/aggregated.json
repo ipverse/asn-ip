@@ -1,0 +1,13 @@
+{
+  "asn": 211186,
+  "handle": "FASTTELECOMGR",
+  "description": "Fast Telecom P.C.",
+  "subnets": {
+    "ipv4": [
+      "185.14.96.0/24"
+    ],
+    "ipv6": [
+      "2a0c:2580::/30"
+    ]
+  }
+}

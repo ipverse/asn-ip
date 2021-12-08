@@ -1,0 +1,12 @@
+{
+  "asn": 132530,
+  "handle": "BESTECTELECOMLTD-AP",
+  "description": "Bestec Telecom Ltd.",
+  "subnets": {
+    "ipv4": [
+      "103.244.141.0/24",
+      "103.244.143.0/24"
+    ],
+    "ipv6": []
+  }
+}

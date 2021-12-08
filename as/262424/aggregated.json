@@ -1,0 +1,16 @@
+{
+  "asn": 262424,
+  "handle": "INTERSOFT-INTERNET-SOFTWARE",
+  "description": "InterSoft Internet Software EIRELI",
+  "subnets": {
+    "ipv4": [
+      "177.44.128.0/21",
+      "177.44.136.0/22",
+      "177.44.140.0/23"
+    ],
+    "ipv6": [
+      "2804:6164::/34",
+      "2804:6164:8000::/34"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 49158,
+  "handle": "WIFINITY",
+  "description": "Wifinity Ltd",
+  "subnets": {
+    "ipv4": [
+      "37.60.64.0/18",
+      "109.246.0.0/16",
+      "212.9.96.0/19"
+    ],
+    "ipv6": []
+  }
+}

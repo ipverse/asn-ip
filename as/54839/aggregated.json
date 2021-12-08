@@ -1,0 +1,15 @@
+{
+  "asn": 54839,
+  "handle": "EMPIRE",
+  "description": "Lowest Host/Empire Technology LLC",
+  "subnets": {
+    "ipv4": [
+      "192.103.252.0/24",
+      "198.102.28.0/22"
+    ],
+    "ipv6": [
+      "2602:fff9::/40",
+      "2602:fff9:f00::/40"
+    ]
+  }
+}

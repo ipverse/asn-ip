@@ -1,0 +1,11 @@
+{
+  "asn": 32919,
+  "handle": "ISP-PROMESA",
+  "description": "Promesa Enterprises Inc.",
+  "subnets": {
+    "ipv4": [
+      "209.163.220.0/24"
+    ],
+    "ipv6": []
+  }
+}

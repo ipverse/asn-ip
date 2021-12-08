@@ -1,0 +1,11 @@
+{
+  "asn": 266208,
+  "handle": "ALLFIBER-TELECOM-SERVICOS",
+  "description": "Allfiber Telecom Serviços de Telecomunicações",
+  "subnets": {
+    "ipv4": [
+      "192.140.40.0/22"
+    ],
+    "ipv6": []
+  }
+}

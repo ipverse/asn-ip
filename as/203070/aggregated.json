@@ -1,0 +1,14 @@
+{
+  "asn": 203070,
+  "handle": "YAHOO-FRA",
+  "description": "Yahoo! UK Services Limited",
+  "subnets": {
+    "ipv4": [
+      "77.238.180.0/23",
+      "77.238.182.0/24"
+    ],
+    "ipv6": [
+      "2a00:1288:88::/48"
+    ]
+  }
+}

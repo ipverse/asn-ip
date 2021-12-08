@@ -1,0 +1,13 @@
+{
+  "asn": 207498,
+  "handle": "DE-EXPERT",
+  "description": "Expert Mark GmbH",
+  "subnets": {
+    "ipv4": [
+      "212.6.41.0/24"
+    ],
+    "ipv6": [
+      "2a0d:9b00::/32"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 53095,
+  "handle": "AXNET-PROVEDOR-DE",
+  "description": "Axnet Provedor de Internet Comercio Ltda",
+  "subnets": {
+    "ipv4": [
+      "187.102.48.0/20"
+    ],
+    "ipv6": [
+      "2804:43c4::/32"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 395428,
+  "handle": "ELMHURST",
+  "description": "Elmhurst University",
+  "subnets": {
+    "ipv4": [
+      "68.70.126.0/24",
+      "192.217.84.0/24",
+      "206.68.116.0/22"
+    ],
+    "ipv6": []
+  }
+}

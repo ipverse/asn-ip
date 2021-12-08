@@ -1,0 +1,11 @@
+{
+  "asn": 138925,
+  "handle": "ROCKETONLINE-AP",
+  "description": "rocket online",
+  "subnets": {
+    "ipv4": [
+      "103.137.74.0/24"
+    ],
+    "ipv6": []
+  }
+}

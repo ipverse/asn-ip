@@ -1,0 +1,13 @@
+{
+  "asn": 4128,
+  "handle": "RGNET-DFW",
+  "description": "RGnet OU",
+  "subnets": {
+    "ipv4": [
+      "198.180.152.0/24"
+    ],
+    "ipv6": [
+      "2001:418:3807::/48"
+    ]
+  }
+}

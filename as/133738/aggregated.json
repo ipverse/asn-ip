@@ -1,0 +1,11 @@
+{
+  "asn": 133738,
+  "handle": "BOU-AP",
+  "description": "Bangladesh Open University",
+  "subnets": {
+    "ipv4": [
+      "103.103.100.0/22"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 28266,
+  "handle": "VANTE-PROVEDOR-DE",
+  "description": "Vante Provedor de Internet Ltda",
+  "subnets": {
+    "ipv4": [
+      "177.37.0.0/20",
+      "187.17.208.0/20"
+    ],
+    "ipv6": []
+  }
+}

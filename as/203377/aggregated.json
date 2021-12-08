@@ -1,0 +1,16 @@
+{
+  "asn": 203377,
+  "handle": "FIBERSERVER-INTERNET-TEKNOLOJILERI",
+  "description": "Mehmet Uzunca",
+  "subnets": {
+    "ipv4": [
+      "185.136.204.0/23",
+      "185.136.207.0/24",
+      "185.207.39.0/24",
+      "185.254.28.0/24"
+    ],
+    "ipv6": [
+      "2a0b:a280::/48"
+    ]
+  }
+}

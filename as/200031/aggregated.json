@@ -1,0 +1,12 @@
+{
+  "asn": 200031,
+  "handle": "NETCITY-KIELCE",
+  "description": "Przemyslaw Zelazny trading as Netcity",
+  "subnets": {
+    "ipv4": [
+      "45.159.164.0/22",
+      "91.195.56.0/23"
+    ],
+    "ipv6": []
+  }
+}

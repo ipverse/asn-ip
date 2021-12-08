@@ -1,0 +1,13 @@
+{
+  "asn": 262413,
+  "handle": "INTERTRADE-BRASIL-TELECOMUNICACOES",
+  "description": "Intertrade Brasil, Telecomunicações, Multimídia e",
+  "subnets": {
+    "ipv4": [
+      "177.39.0.0/22"
+    ],
+    "ipv6": [
+      "2801:80:190::/48"
+    ]
+  }
+}

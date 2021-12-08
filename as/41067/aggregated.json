@@ -1,0 +1,11 @@
+{
+  "asn": 41067,
+  "handle": "SEB",
+  "description": "SEB Bank JSC",
+  "subnets": {
+    "ipv4": [
+      "193.169.102.0/23"
+    ],
+    "ipv6": []
+  }
+}

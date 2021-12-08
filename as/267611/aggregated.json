@@ -1,0 +1,13 @@
+{
+  "asn": 267611,
+  "handle": "TECHNO-BYTES-TELECOM",
+  "description": "TECHNO BYTES TELECOM",
+  "subnets": {
+    "ipv4": [
+      "45.70.252.0/22"
+    ],
+    "ipv6": [
+      "2804:443c::/32"
+    ]
+  }
+}

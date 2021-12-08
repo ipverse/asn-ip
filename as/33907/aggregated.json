@@ -1,0 +1,12 @@
+{
+  "asn": 33907,
+  "handle": "ORNUS",
+  "description": "Ornus AB",
+  "subnets": {
+    "ipv4": [
+      "193.26.17.0/24",
+      "194.145.172.0/22"
+    ],
+    "ipv6": []
+  }
+}

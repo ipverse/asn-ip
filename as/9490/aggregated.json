@@ -1,0 +1,12 @@
+{
+  "asn": 9490,
+  "handle": "NIS-KR",
+  "description": "Oscar Enterprise",
+  "subnets": {
+    "ipv4": [
+      "168.126.27.0/24",
+      "203.236.74.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 11866,
+  "handle": "EL-MALVERN-PA",
+  "description": "Ellucian Company LP",
+  "subnets": {
+    "ipv4": [
+      "149.24.24.0/23",
+      "149.24.86.0/24",
+      "149.24.144.0/24"
+    ],
+    "ipv6": []
+  }
+}

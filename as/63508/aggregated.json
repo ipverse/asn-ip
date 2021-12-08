@@ -1,0 +1,11 @@
+{
+  "asn": 63508,
+  "handle": "JOGJARINGAN-ID",
+  "description": "PT DINAMIKA MEDIAKOM",
+  "subnets": {
+    "ipv4": [
+      "103.40.120.0/22"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 328288,
+  "handle": "BELANET",
+  "description": "Belanet cc",
+  "subnets": {
+    "ipv4": [
+      "102.165.116.0/22"
+    ],
+    "ipv6": [
+      "2c0f:ee98::/32"
+    ]
+  }
+}

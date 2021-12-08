@@ -1,0 +1,13 @@
+{
+  "asn": 267357,
+  "handle": "LIVENET-TELECOM",
+  "description": "Livenet telecom",
+  "subnets": {
+    "ipv4": [
+      "45.234.104.0/22"
+    ],
+    "ipv6": [
+      "2804:4c38::/32"
+    ]
+  }
+}

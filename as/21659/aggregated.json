@@ -1,0 +1,14 @@
+{
+  "asn": 21659,
+  "handle": "ALT-TELECOM",
+  "description": "Alt Telecom",
+  "subnets": {
+    "ipv4": [
+      "96.126.70.0/24",
+      "142.202.128.0/24"
+    ],
+    "ipv6": [
+      "2602:fdd2::/36"
+    ]
+  }
+}

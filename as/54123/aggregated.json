@@ -1,0 +1,12 @@
+{
+  "asn": 54123,
+  "handle": "CAMC-NET",
+  "description": "COSVI Asset Management Corp.",
+  "subnets": {
+    "ipv4": [
+      "69.79.7.0/24",
+      "207.174.136.0/24"
+    ],
+    "ipv6": []
+  }
+}

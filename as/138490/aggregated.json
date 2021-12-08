@@ -1,0 +1,11 @@
+{
+  "asn": 138490,
+  "handle": "ALLTEL-AP",
+  "description": "Alltel Pty Ltd",
+  "subnets": {
+    "ipv4": [
+      "103.126.207.0/24"
+    ],
+    "ipv6": []
+  }
+}

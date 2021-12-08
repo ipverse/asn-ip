@@ -1,0 +1,13 @@
+{
+  "asn": 269500,
+  "handle": "JFLC-DURAO-TECNOLOGIA",
+  "description": "JFLC DURAO TECNOLOGIA",
+  "subnets": {
+    "ipv4": [
+      "45.186.160.0/22"
+    ],
+    "ipv6": [
+      "2804:6590::/32"
+    ]
+  }
+}

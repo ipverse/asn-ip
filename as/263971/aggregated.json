@@ -1,0 +1,14 @@
+{
+  "asn": 263971,
+  "handle": "FALEMAIS-COMUNICACOES-LTDA",
+  "description": "FaleMais Comunicações LTDA",
+  "subnets": {
+    "ipv4": [
+      "138.255.192.0/22",
+      "170.254.76.0/22"
+    ],
+    "ipv6": [
+      "2804:28a0::/32"
+    ]
+  }
+}

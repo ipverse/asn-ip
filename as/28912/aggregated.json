@@ -1,0 +1,12 @@
+{
+  "asn": 28912,
+  "handle": "OLMA",
+  "description": "AO Investment Firm Olma",
+  "subnets": {
+    "ipv4": [
+      "195.39.206.0/23",
+      "195.47.192.0/24"
+    ],
+    "ipv6": []
+  }
+}

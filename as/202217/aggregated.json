@@ -1,0 +1,13 @@
+{
+  "asn": 202217,
+  "handle": "WILKENRZ",
+  "description": "Wilken Data Service Center GmbH",
+  "subnets": {
+    "ipv4": [
+      "185.49.136.0/22"
+    ],
+    "ipv6": [
+      "2a04:ba80::/29"
+    ]
+  }
+}

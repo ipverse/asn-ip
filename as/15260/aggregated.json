@@ -1,0 +1,12 @@
+{
+  "asn": 15260,
+  "handle": "DWS-NY",
+  "description": "Disney Worldwide Services, Inc.",
+  "subnets": {
+    "ipv4": [
+      "139.104.71.0/24",
+      "157.23.244.0/24"
+    ],
+    "ipv6": []
+  }
+}

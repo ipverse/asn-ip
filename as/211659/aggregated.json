@@ -1,0 +1,12 @@
+{
+  "asn": 211659,
+  "handle": "VIRTUALDROPLET",
+  "description": "Rob Gomien",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a0e:b105:120::/44",
+      "2a10:cc40:100::/43"
+    ]
+  }
+}

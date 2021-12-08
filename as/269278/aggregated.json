@@ -1,0 +1,13 @@
+{
+  "asn": 269278,
+  "handle": "CNT-FIBRAS-LTDA",
+  "description": "CNT FIBRAS LTDA",
+  "subnets": {
+    "ipv4": [
+      "45.183.160.0/22"
+    ],
+    "ipv6": [
+      "2804:6224::/32"
+    ]
+  }
+}

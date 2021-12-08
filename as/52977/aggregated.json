@@ -1,0 +1,16 @@
+{
+  "asn": 52977,
+  "handle": "SUL-ONLINE-TELECOM-LTDA-EPP",
+  "description": "Sul Online Telecom Ltda - EPP",
+  "subnets": {
+    "ipv4": [
+      "143.255.96.0/22",
+      "170.231.4.0/22",
+      "177.39.72.0/21",
+      "200.53.8.0/21"
+    ],
+    "ipv6": [
+      "2804:768::/32"
+    ]
+  }
+}

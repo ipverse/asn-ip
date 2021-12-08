@@ -1,0 +1,14 @@
+{
+  "asn": 136732,
+  "handle": "YELLOWNET-AP",
+  "description": "Yellow Net \u0026 Cyber Cafe",
+  "subnets": {
+    "ipv4": [
+      "36.255.80.0/22",
+      "103.94.216.0/22"
+    ],
+    "ipv6": [
+      "2401:50c0::/32"
+    ]
+  }
+}

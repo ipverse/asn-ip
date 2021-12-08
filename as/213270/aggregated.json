@@ -1,0 +1,13 @@
+{
+  "asn": 213270,
+  "handle": "CYSEC",
+  "description": "Cysec SA",
+  "subnets": {
+    "ipv4": [
+      "37.200.86.0/24"
+    ],
+    "ipv6": [
+      "2a02:f980::/32"
+    ]
+  }
+}

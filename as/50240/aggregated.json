@@ -1,0 +1,11 @@
+{
+  "asn": 50240,
+  "handle": "EXTRACOM",
+  "description": "Extracom Ltd.",
+  "subnets": {
+    "ipv4": [
+      "109.196.16.0/20"
+    ],
+    "ipv6": []
+  }
+}

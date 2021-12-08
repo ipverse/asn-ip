@@ -1,0 +1,12 @@
+{
+  "asn": 210245,
+  "handle": "KNG",
+  "description": "Kuwait National Guard",
+  "subnets": {
+    "ipv4": [
+      "193.32.228.0/23",
+      "193.32.230.0/24"
+    ],
+    "ipv6": []
+  }
+}

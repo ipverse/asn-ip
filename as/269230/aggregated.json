@@ -1,0 +1,13 @@
+{
+  "asn": 269230,
+  "handle": "PERFECT-PROVEDOR-DE",
+  "description": "Perfect Provedor de Internet LTDA",
+  "subnets": {
+    "ipv4": [
+      "45.182.152.0/22"
+    ],
+    "ipv6": [
+      "2804:615c::/32"
+    ]
+  }
+}

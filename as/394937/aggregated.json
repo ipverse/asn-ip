@@ -1,0 +1,12 @@
+{
+  "asn": 394937,
+  "handle": "ATC",
+  "description": "Windstream Communications LLC",
+  "subnets": {
+    "ipv4": [
+      "63.210.210.0/24",
+      "162.247.66.0/23"
+    ],
+    "ipv6": []
+  }
+}

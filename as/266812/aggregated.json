@@ -1,0 +1,13 @@
+{
+  "asn": 266812,
+  "handle": "CONEXIONTOTAL-SA",
+  "description": "CONEXIONTOTAL S.A.",
+  "subnets": {
+    "ipv4": [
+      "45.236.148.0/22"
+    ],
+    "ipv6": [
+      "2803:d8a0::/32"
+    ]
+  }
+}

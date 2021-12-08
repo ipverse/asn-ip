@@ -1,0 +1,12 @@
+{
+  "asn": 136298,
+  "handle": "HYBERNET-IN",
+  "description": "Hyber Networking Private Limited",
+  "subnets": {
+    "ipv4": [
+      "103.88.225.0/24",
+      "103.88.226.0/24"
+    ],
+    "ipv6": []
+  }
+}

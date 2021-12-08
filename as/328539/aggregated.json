@@ -1,0 +1,13 @@
+{
+  "asn": 328539,
+  "handle": "GIGA-COMMUNICATION",
+  "description": "Giga for Telecommunication and Technology Limited",
+  "subnets": {
+    "ipv4": [
+      "102.38.0.0/20",
+      "102.38.16.0/22",
+      "102.38.24.0/22"
+    ],
+    "ipv6": []
+  }
+}

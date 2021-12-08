@@ -1,0 +1,13 @@
+{
+  "asn": 20208,
+  "handle": "WEBJOGGER",
+  "description": "Webjogger Internet Services",
+  "subnets": {
+    "ipv4": [
+      "204.8.80.0/22",
+      "204.15.4.0/23",
+      "204.15.6.0/24"
+    ],
+    "ipv6": []
+  }
+}

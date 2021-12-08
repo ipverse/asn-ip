@@ -1,0 +1,14 @@
+{
+  "asn": 4748,
+  "handle": "RESOLINK-AP",
+  "description": "Resources Link Network Limited",
+  "subnets": {
+    "ipv4": [
+      "203.84.0.0/19",
+      "203.161.4.0/22"
+    ],
+    "ipv6": [
+      "2001:df7:3d00::/48"
+    ]
+  }
+}

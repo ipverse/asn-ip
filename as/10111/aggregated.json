@@ -1,0 +1,11 @@
+{
+  "asn": 10111,
+  "handle": "ZEONET-AP",
+  "description": "Zeofast Network",
+  "subnets": {
+    "ipv4": [
+      "103.149.181.0/24"
+    ],
+    "ipv6": []
+  }
+}

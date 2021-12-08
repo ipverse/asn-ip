@@ -1,0 +1,11 @@
+{
+  "asn": 138113,
+  "handle": "CITINET-ID",
+  "description": "PT Amron Citinet",
+  "subnets": {
+    "ipv4": [
+      "103.126.200.0/22"
+    ],
+    "ipv6": []
+  }
+}

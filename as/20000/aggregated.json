@@ -1,0 +1,11 @@
+{
+  "asn": 20000,
+  "handle": "FULCRM-00",
+  "description": "Fulcrum Analytics, Inc",
+  "subnets": {
+    "ipv4": [
+      "134.195.120.0/24"
+    ],
+    "ipv6": []
+  }
+}

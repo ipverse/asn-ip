@@ -1,0 +1,12 @@
+{
+  "asn": 9780,
+  "handle": "INJE-KR",
+  "description": "INJE UNIVERSITY",
+  "subnets": {
+    "ipv4": [
+      "203.241.224.0/19",
+      "221.161.160.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 204138,
+  "handle": "REHAU-AG",
+  "description": "REHAU AG + Co",
+  "subnets": {
+    "ipv4": [
+      "185.112.124.0/22"
+    ],
+    "ipv6": [
+      "2a06:62c0::/32"
+    ]
+  }
+}

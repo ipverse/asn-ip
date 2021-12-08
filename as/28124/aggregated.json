@@ -1,0 +1,14 @@
+{
+  "asn": 28124,
+  "handle": "UFINET-BRASIL-SA",
+  "description": "UFINET BRASIL S.A.",
+  "subnets": {
+    "ipv4": [
+      "167.249.104.0/22",
+      "187.19.0.0/20"
+    ],
+    "ipv6": [
+      "2804:2b78::/33"
+    ]
+  }
+}

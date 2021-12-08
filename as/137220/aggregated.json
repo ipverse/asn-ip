@@ -1,0 +1,12 @@
+{
+  "asn": 137220,
+  "handle": "TII-SG",
+  "description": "Texas Instruments, Inc",
+  "subnets": {
+    "ipv4": [
+      "192.163.15.0/24",
+      "192.163.17.0/24"
+    ],
+    "ipv6": []
+  }
+}

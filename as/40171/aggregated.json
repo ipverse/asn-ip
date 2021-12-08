@@ -1,0 +1,13 @@
+{
+  "asn": 40171,
+  "handle": "SUNPOWERCORP",
+  "description": "SunPower Corporation",
+  "subnets": {
+    "ipv4": [
+      "63.146.67.0/24",
+      "204.194.111.0/24",
+      "209.37.214.0/24"
+    ],
+    "ipv6": []
+  }
+}

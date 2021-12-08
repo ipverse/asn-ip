@@ -1,0 +1,13 @@
+{
+  "asn": 211447,
+  "handle": "VITRA",
+  "description": "Vitra IT Services GmbH",
+  "subnets": {
+    "ipv4": [
+      "193.200.194.0/24"
+    ],
+    "ipv6": [
+      "2a0a:d6c0:194::/48"
+    ]
+  }
+}

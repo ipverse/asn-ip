@@ -1,0 +1,12 @@
+{
+  "asn": 62735,
+  "handle": "LA-CARE",
+  "description": "L.A. CARE COMMUNITY HEALTH",
+  "subnets": {
+    "ipv4": [
+      "198.51.140.0/24",
+      "198.177.115.0/24"
+    ],
+    "ipv6": []
+  }
+}

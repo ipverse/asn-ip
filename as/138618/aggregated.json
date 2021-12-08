@@ -1,0 +1,13 @@
+{
+  "asn": 138618,
+  "handle": "THANACHARTSEC-TH",
+  "description": "Thanachart Securities Public Company Limited",
+  "subnets": {
+    "ipv4": [
+      "23.226.181.0/24",
+      "23.226.191.0/24",
+      "103.165.120.0/23"
+    ],
+    "ipv6": []
+  }
+}

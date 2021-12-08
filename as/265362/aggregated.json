@@ -1,0 +1,13 @@
+{
+  "asn": 265362,
+  "handle": "BANCO-BS2-SA",
+  "description": "Banco BS2 SA",
+  "subnets": {
+    "ipv4": [
+      "200.12.131.0/24"
+    ],
+    "ipv6": [
+      "2801:80:16e0::/48"
+    ]
+  }
+}

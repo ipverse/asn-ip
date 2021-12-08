@@ -1,0 +1,12 @@
+{
+  "asn": 262801,
+  "handle": "GRUPO-VIVATELECOM-LTDA",
+  "description": "GRUPO VIVATELECOM LTDA",
+  "subnets": {
+    "ipv4": [
+      "186.250.0.0/21",
+      "187.17.48.0/20"
+    ],
+    "ipv6": []
+  }
+}

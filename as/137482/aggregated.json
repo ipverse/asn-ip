@@ -1,0 +1,11 @@
+{
+  "asn": 137482,
+  "handle": "METROTEL-AP",
+  "description": "Metro Tel",
+  "subnets": {
+    "ipv4": [
+      "103.110.56.0/24"
+    ],
+    "ipv6": []
+  }
+}

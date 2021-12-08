@@ -1,0 +1,11 @@
+{
+  "asn": 134601,
+  "handle": "MICROLINK-AP",
+  "description": "Microlink Technology",
+  "subnets": {
+    "ipv4": [
+      "103.120.220.0/22"
+    ],
+    "ipv6": []
+  }
+}

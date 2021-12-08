@@ -1,0 +1,13 @@
+{
+  "asn": 271201,
+  "handle": "VIANET-TELECOMUNICACOES-LTDA",
+  "description": "Vianet Telecomunicacoes Ltda",
+  "subnets": {
+    "ipv4": [
+      "179.49.184.0/22"
+    ],
+    "ipv6": [
+      "2804:77d0::/32"
+    ]
+  }
+}

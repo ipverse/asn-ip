@@ -1,0 +1,13 @@
+{
+  "asn": 36127,
+  "handle": "MCPS",
+  "description": "Miller Canfield",
+  "subnets": {
+    "ipv4": [
+      "134.195.52.0/23"
+    ],
+    "ipv6": [
+      "2602:805:6000::/48"
+    ]
+  }
+}

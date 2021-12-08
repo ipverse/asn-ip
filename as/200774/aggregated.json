@@ -1,0 +1,13 @@
+{
+  "asn": 200774,
+  "handle": "OPLAVUS",
+  "description": "OPLAVUS TEKNOLOJI TELEKOMUNIKASYON LTD. STI.",
+  "subnets": {
+    "ipv4": [
+      "185.96.192.0/22"
+    ],
+    "ipv6": [
+      "2a00:58c0::/48"
+    ]
+  }
+}

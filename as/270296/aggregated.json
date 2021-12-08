@@ -1,0 +1,13 @@
+{
+  "asn": 270296,
+  "handle": "HQV-INFORMATICA-LTDA",
+  "description": "HQV INFORMATICA LTDA",
+  "subnets": {
+    "ipv4": [
+      "200.53.0.0/22"
+    ],
+    "ipv6": [
+      "2804:69dc:8000::/33"
+    ]
+  }
+}

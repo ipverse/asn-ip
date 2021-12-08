@@ -1,0 +1,12 @@
+{
+  "asn": 133796,
+  "handle": "KEMENDAG-ID",
+  "description": "Subbid Sistem Jaringan dan Infrastruktur",
+  "subnets": {
+    "ipv4": [
+      "103.42.205.0/24",
+      "103.108.241.0/24"
+    ],
+    "ipv6": []
+  }
+}

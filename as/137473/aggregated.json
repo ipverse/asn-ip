@@ -1,0 +1,13 @@
+{
+  "asn": 137473,
+  "handle": "LEVELUP-AP",
+  "description": "LevelUP Solutions Pty Ltd",
+  "subnets": {
+    "ipv4": [
+      "103.110.28.0/24"
+    ],
+    "ipv6": [
+      "2402:8e40::/32"
+    ]
+  }
+}

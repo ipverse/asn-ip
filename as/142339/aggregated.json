@@ -1,0 +1,11 @@
+{
+  "asn": 142339,
+  "handle": "IDNIC-KANGENNET-ID",
+  "description": "PT Kangen Network Solusindo",
+  "subnets": {
+    "ipv4": [
+      "103.169.148.0/23"
+    ],
+    "ipv6": []
+  }
+}

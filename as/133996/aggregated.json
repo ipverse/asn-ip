@@ -1,0 +1,12 @@
+{
+  "asn": 133996,
+  "handle": "AAYUINFONET",
+  "description": "AAYU INFONET PVT LTD",
+  "subnets": {
+    "ipv4": [
+      "103.52.248.0/23",
+      "103.52.250.0/24"
+    ],
+    "ipv6": []
+  }
+}

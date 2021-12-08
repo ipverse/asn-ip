@@ -1,0 +1,11 @@
+{
+  "asn": 271339,
+  "handle": "ZEUSNET-TELECOM",
+  "description": "ZEUSNET TELECOM",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2804:79f8::/32"
+    ]
+  }
+}

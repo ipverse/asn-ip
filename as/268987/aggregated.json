@@ -1,0 +1,13 @@
+{
+  "asn": 268987,
+  "handle": "NETLIMIT-TELECOM-LTDA",
+  "description": "NETLIMIT TELECOM LTDA",
+  "subnets": {
+    "ipv4": [
+      "45.177.120.0/22"
+    ],
+    "ipv6": [
+      "2804:5db4::/32"
+    ]
+  }
+}

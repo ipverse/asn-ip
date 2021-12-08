@@ -1,0 +1,11 @@
+{
+  "asn": 142390,
+  "handle": "IDNIC-ABSNET-ID",
+  "description": "PT Abs Multimedia Indonesia",
+  "subnets": {
+    "ipv4": [
+      "103.171.240.0/23"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "asn": 53131,
+  "handle": "GB-TECNOLOGIA-E",
+  "description": "GB TECNOLOGIA E MONITORAMENTO EIRELI",
+  "subnets": {
+    "ipv4": [
+      "177.71.0.0/20",
+      "186.236.96.0/19",
+      "187.121.192.0/19"
+    ],
+    "ipv6": [
+      "2804:194::/32"
+    ]
+  }
+}

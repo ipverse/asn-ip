@@ -1,0 +1,12 @@
+{
+  "asn": 26822,
+  "handle": "DIBC-INTERNET",
+  "description": "DO IT BEST CORP.",
+  "subnets": {
+    "ipv4": [
+      "12.162.57.0/24",
+      "192.34.106.0/24"
+    ],
+    "ipv6": []
+  }
+}

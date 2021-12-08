@@ -1,0 +1,13 @@
+{
+  "asn": 270543,
+  "handle": "GWG-TELCO-TELECOMUNICACOES",
+  "description": "Gwg telco telecomunicaçoes eireli",
+  "subnets": {
+    "ipv4": [
+      "187.73.188.0/22"
+    ],
+    "ipv6": [
+      "2804:6d98::/32"
+    ]
+  }
+}

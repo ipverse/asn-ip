@@ -1,0 +1,15 @@
+{
+  "asn": 18885,
+  "handle": "M2NGAGE2",
+  "description": "M2ngage Telecommunications II Corp.",
+  "subnets": {
+    "ipv4": [
+      "66.9.0.0/17",
+      "66.9.128.0/18",
+      "160.79.0.0/17",
+      "160.79.128.0/18",
+      "209.178.192.0/18"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 198455,
+  "handle": "I2-HOSTING",
+  "description": "Danmarks Tekniske Universitet",
+  "subnets": {
+    "ipv4": [
+      "95.128.24.0/21"
+    ],
+    "ipv6": [
+      "2001:87f::/32"
+    ]
+  }
+}

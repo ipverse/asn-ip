@@ -1,0 +1,11 @@
+{
+  "asn": 131389,
+  "handle": "SEABANK-VN",
+  "description": "SeABank",
+  "subnets": {
+    "ipv4": [
+      "103.241.248.0/22"
+    ],
+    "ipv6": []
+  }
+}

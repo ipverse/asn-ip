@@ -1,0 +1,13 @@
+{
+  "asn": 199998,
+  "handle": "UNOTELEFONI",
+  "description": "Soluno BC AB",
+  "subnets": {
+    "ipv4": [
+      "185.39.126.0/23"
+    ],
+    "ipv6": [
+      "2a01:43a0::/32"
+    ]
+  }
+}

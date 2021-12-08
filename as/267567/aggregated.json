@@ -1,0 +1,13 @@
+{
+  "asn": 267567,
+  "handle": "RADIUN-SERVICOS-DE",
+  "description": "Radiun Serviços de Provedor de Internet LTDA",
+  "subnets": {
+    "ipv4": [
+      "45.70.100.0/22"
+    ],
+    "ipv6": [
+      "2804:4364::/32"
+    ]
+  }
+}

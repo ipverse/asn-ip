@@ -1,0 +1,13 @@
+{
+  "asn": 266965,
+  "handle": "SAMUEL-DE-LUCENA-MARTINS-EPP",
+  "description": "SAMUEL DE LUCENA MARTINS - EPP",
+  "subnets": {
+    "ipv4": [
+      "45.226.60.0/22"
+    ],
+    "ipv6": [
+      "2804:460c::/32"
+    ]
+  }
+}

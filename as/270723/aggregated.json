@@ -1,0 +1,13 @@
+{
+  "asn": 270723,
+  "handle": "POECOM-TELECOM-LTDA",
+  "description": "POECOM TELECOM LTDA",
+  "subnets": {
+    "ipv4": [
+      "187.102.252.0/22"
+    ],
+    "ipv6": [
+      "2804:7060::/32"
+    ]
+  }
+}

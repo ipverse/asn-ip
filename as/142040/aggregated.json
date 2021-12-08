@@ -1,0 +1,13 @@
+{
+  "asn": 142040,
+  "handle": "HKCTNTC-AP",
+  "description": "Hong Kong Cloud Times Network Technology Co.,Limited",
+  "subnets": {
+    "ipv4": [
+      "103.165.112.0/23"
+    ],
+    "ipv6": [
+      "2407:4e40::/48"
+    ]
+  }
+}

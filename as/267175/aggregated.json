@@ -1,0 +1,13 @@
+{
+  "asn": 267175,
+  "handle": "ASBYTE-TELECOMUNICACOES-E",
+  "description": "ASBYTE TELECOMUNICACOES E SERVICOS EM INFORMATICA",
+  "subnets": {
+    "ipv4": [
+      "45.230.212.0/22"
+    ],
+    "ipv6": [
+      "2804:4948::/32"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 264477,
+  "handle": "FLIX-TELECOM",
+  "description": "FLIX TELECOM",
+  "subnets": {
+    "ipv4": [
+      "132.255.108.0/22",
+      "168.227.164.0/23",
+      "168.227.167.0/24"
+    ],
+    "ipv6": []
+  }
+}

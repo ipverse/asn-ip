@@ -1,0 +1,12 @@
+{
+  "asn": 270046,
+  "handle": "FEDERACION-COLOMBIANA-DE",
+  "description": "FEDERACION COLOMBIANA DE MUNICIPIOS",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2803:cae0::/48",
+      "2803:cae0:c000::/47"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 31851,
+  "handle": "UNITELECOM",
+  "description": "Uni-Telecom",
+  "subnets": {
+    "ipv4": [
+      "38.128.240.0/20",
+      "104.219.188.0/22",
+      "167.88.52.0/22"
+    ],
+    "ipv6": []
+  }
+}

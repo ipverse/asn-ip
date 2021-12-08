@@ -1,0 +1,14 @@
+{
+  "asn": 208972,
+  "handle": "GIBIRNET-TR",
+  "description": "GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI",
+  "subnets": {
+    "ipv4": [
+      "38.10.68.0/22",
+      "45.12.52.0/22"
+    ],
+    "ipv6": [
+      "2a0a:4944::/30"
+    ]
+  }
+}

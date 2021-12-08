@@ -1,0 +1,13 @@
+{
+  "asn": 20368,
+  "handle": "SMART-CITY-INCC",
+  "description": "Smart City Networks, L.P.",
+  "subnets": {
+    "ipv4": [
+      "24.56.131.0/24",
+      "24.236.48.0/22",
+      "66.78.248.0/23"
+    ],
+    "ipv6": []
+  }
+}

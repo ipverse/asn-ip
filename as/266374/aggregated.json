@@ -1,0 +1,13 @@
+{
+  "asn": 266374,
+  "handle": "PONTE-DIGITAL",
+  "description": "Ponte Digital",
+  "subnets": {
+    "ipv4": [
+      "170.80.48.0/22"
+    ],
+    "ipv6": [
+      "2804:36d0::/32"
+    ]
+  }
+}

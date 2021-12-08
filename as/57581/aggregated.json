@@ -1,0 +1,12 @@
+{
+  "asn": 57581,
+  "handle": "STREEEMING",
+  "description": "STREEEMING SAS",
+  "subnets": {
+    "ipv4": [
+      "185.27.76.0/22",
+      "194.114.145.0/24"
+    ],
+    "ipv6": []
+  }
+}

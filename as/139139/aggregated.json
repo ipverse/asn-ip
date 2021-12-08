@@ -1,0 +1,13 @@
+{
+  "asn": 139139,
+  "handle": "SYAUNET",
+  "description": "Shenyang Agricultural University",
+  "subnets": {
+    "ipv4": [
+      "103.152.186.0/23"
+    ],
+    "ipv6": [
+      "2406:3340::/32"
+    ]
+  }
+}

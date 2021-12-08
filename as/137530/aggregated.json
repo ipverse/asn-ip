@@ -1,0 +1,11 @@
+{
+  "asn": 137530,
+  "handle": "TRISHALNET-AP",
+  "description": "TRISHALNET",
+  "subnets": {
+    "ipv4": [
+      "103.112.56.0/22"
+    ],
+    "ipv6": []
+  }
+}

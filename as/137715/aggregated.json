@@ -1,0 +1,13 @@
+{
+  "asn": 137715,
+  "handle": "GTJANET",
+  "description": "GTJA Securities",
+  "subnets": {
+    "ipv4": [
+      "103.118.60.0/22"
+    ],
+    "ipv6": [
+      "2403:2b40::/32"
+    ]
+  }
+}

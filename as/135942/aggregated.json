@@ -1,0 +1,14 @@
+{
+  "asn": 135942,
+  "handle": "ADSOTA-VN",
+  "description": "Adsota Corporation",
+  "subnets": {
+    "ipv4": [
+      "103.109.36.0/22",
+      "103.138.112.0/22"
+    ],
+    "ipv6": [
+      "2001:df0:3980::/48"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asn": 136055,
+  "handle": "QIUNET-ID",
+  "description": "PT Queen Network Nusantara",
+  "subnets": {
+    "ipv4": [
+      "103.81.64.0/23"
+    ],
+    "ipv6": []
+  }
+}

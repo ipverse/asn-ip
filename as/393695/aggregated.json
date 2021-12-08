@@ -1,0 +1,11 @@
+{
+  "asn": 393695,
+  "handle": "CRC",
+  "description": "Cooperative Response Center",
+  "subnets": {
+    "ipv4": [
+      "68.114.75.0/24"
+    ],
+    "ipv6": []
+  }
+}

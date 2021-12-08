@@ -1,0 +1,12 @@
+{
+  "asn": 132786,
+  "handle": "BOPNG-AP",
+  "description": "Bank of Papua New Guinea",
+  "subnets": {
+    "ipv4": [
+      "103.153.108.0/24",
+      "103.155.112.0/24"
+    ],
+    "ipv6": []
+  }
+}

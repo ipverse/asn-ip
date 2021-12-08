@@ -1,0 +1,14 @@
+{
+  "asn": 47551,
+  "handle": "MAYAK-NETWORK",
+  "description": "MAYAK NETWORK LLC",
+  "subnets": {
+    "ipv4": [
+      "146.120.252.0/22",
+      "185.78.112.0/22"
+    ],
+    "ipv6": [
+      "2a05:6900::/29"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 267031,
+  "handle": "DUNAS-TELECOM",
+  "description": "DUNAS TELECOM",
+  "subnets": {
+    "ipv4": [
+      "45.227.72.0/22"
+    ],
+    "ipv6": [
+      "2804:4718::/32"
+    ]
+  }
+}

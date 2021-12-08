@@ -1,0 +1,13 @@
+{
+  "asn": 267005,
+  "handle": "WEB-LINK-DIGITAL-EIRELI-ME",
+  "description": "WEB LINK DIGITAL EIRELI - ME",
+  "subnets": {
+    "ipv4": [
+      "45.225.248.0/22"
+    ],
+    "ipv6": [
+      "2804:46b0::/32"
+    ]
+  }
+}

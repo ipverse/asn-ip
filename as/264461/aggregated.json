@@ -1,0 +1,13 @@
+{
+  "asn": 264461,
+  "handle": "ADM-INTERNET-EIRELI",
+  "description": "ADM INTERNET EIRELI",
+  "subnets": {
+    "ipv4": [
+      "132.255.28.0/22"
+    ],
+    "ipv6": [
+      "2804:2008::/32"
+    ]
+  }
+}

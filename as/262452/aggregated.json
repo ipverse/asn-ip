@@ -1,0 +1,13 @@
+{
+  "asn": 262452,
+  "handle": "VCNETWORK-SOLUCOES-TECNOLOGICA",
+  "description": "VCNETWORK SOLUCOES TECNOLOGICA",
+  "subnets": {
+    "ipv4": [
+      "177.52.216.0/22"
+    ],
+    "ipv6": [
+      "2804:3f94::/32"
+    ]
+  }
+}

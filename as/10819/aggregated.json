@@ -1,0 +1,12 @@
+{
+  "asn": 10819,
+  "handle": "ICC",
+  "description": "IFWORLD Inc.",
+  "subnets": {
+    "ipv4": [
+      "205.234.112.0/24",
+      "216.98.160.0/21"
+    ],
+    "ipv6": []
+  }
+}

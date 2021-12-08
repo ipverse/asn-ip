@@ -1,0 +1,13 @@
+{
+  "asn": 263400,
+  "handle": "NEONET-SERVICO-COMUNICACAO",
+  "description": "NEONET SERVIÇO COMUNICAÇÃO MULTIMIDIA LTDA",
+  "subnets": {
+    "ipv4": [
+      "177.222.232.0/21"
+    ],
+    "ipv6": [
+      "2804:15a4::/32"
+    ]
+  }
+}

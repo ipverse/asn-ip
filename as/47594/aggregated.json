@@ -1,0 +1,13 @@
+{
+  "asn": 47594,
+  "handle": "NETCOMLINK",
+  "description": "LC COMLINK",
+  "subnets": {
+    "ipv4": [
+      "213.171.0.0/20",
+      "213.171.16.0/23",
+      "213.171.18.0/24"
+    ],
+    "ipv6": []
+  }
+}

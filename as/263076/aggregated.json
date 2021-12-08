@@ -1,0 +1,13 @@
+{
+  "asn": 263076,
+  "handle": "UNIVERSIDADE-ESTADUAL-DE",
+  "description": "Universidade Estadual de Maringá - UEM",
+  "subnets": {
+    "ipv4": [
+      "186.233.152.0/21"
+    ],
+    "ipv6": [
+      "2801:80:3d0::/48"
+    ]
+  }
+}

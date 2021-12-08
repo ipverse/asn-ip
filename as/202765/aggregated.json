@@ -1,0 +1,12 @@
+{
+  "asn": 202765,
+  "handle": "ANTSERV-NET",
+  "description": "TIS Dialog LLC",
+  "subnets": {
+    "ipv4": [
+      "141.98.28.0/22",
+      "193.39.220.0/22"
+    ],
+    "ipv6": []
+  }
+}

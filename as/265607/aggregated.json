@@ -1,0 +1,13 @@
+{
+  "asn": 265607,
+  "handle": "CONECTARED-SA-DE-CV",
+  "description": "CONECTARED SA DE CV",
+  "subnets": {
+    "ipv4": [
+      "45.188.108.0/22"
+    ],
+    "ipv6": [
+      "2806:363::/35"
+    ]
+  }
+}

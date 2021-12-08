@@ -1,0 +1,12 @@
+{
+  "asn": 138773,
+  "handle": "RFTAR",
+  "description": "RFTAR NETWORKS",
+  "subnets": {
+    "ipv4": [
+      "103.139.219.0/24",
+      "103.167.115.0/24"
+    ],
+    "ipv6": []
+  }
+}

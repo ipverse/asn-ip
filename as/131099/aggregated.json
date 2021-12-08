@@ -1,0 +1,12 @@
+{
+  "asn": 131099,
+  "handle": "CDNSKR-KR-KR",
+  "description": "Korea Internet Security Agency",
+  "subnets": {
+    "ipv4": [
+      "1.18.118.0/24",
+      "210.101.61.0/24"
+    ],
+    "ipv6": []
+  }
+}

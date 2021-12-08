@@ -1,0 +1,15 @@
+{
+  "asn": 4622,
+  "handle": "ID-NIC",
+  "description": "Indonesia Network Information Center",
+  "subnets": {
+    "ipv4": [
+      "203.119.13.0/24",
+      "203.119.52.0/23",
+      "203.119.54.0/24"
+    ],
+    "ipv6": [
+      "2001:dc6::/32"
+    ]
+  }
+}

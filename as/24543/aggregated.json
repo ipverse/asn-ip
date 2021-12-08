@@ -1,0 +1,14 @@
+{
+  "asn": 24543,
+  "handle": "FIRSTDATA-AU",
+  "description": "First Data International",
+  "subnets": {
+    "ipv4": [
+      "202.14.196.0/23",
+      "202.14.198.0/24",
+      "203.17.33.0/24",
+      "203.17.34.0/23"
+    ],
+    "ipv6": []
+  }
+}

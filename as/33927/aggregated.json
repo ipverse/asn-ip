@@ -1,0 +1,12 @@
+{
+  "asn": 33927,
+  "handle": "UKRMIRCOM",
+  "description": "UKRMIRKOM LTD",
+  "subnets": {
+    "ipv4": [
+      "194.6.231.0/24",
+      "194.6.232.0/23"
+    ],
+    "ipv6": []
+  }
+}

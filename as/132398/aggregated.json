@@ -1,0 +1,11 @@
+{
+  "asn": 132398,
+  "handle": "SCEI-AP",
+  "description": "Science and Engineering Institutes",
+  "subnets": {
+    "ipv4": [
+      "103.72.192.0/24"
+    ],
+    "ipv6": []
+  }
+}

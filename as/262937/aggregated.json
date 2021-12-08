@@ -1,0 +1,13 @@
+{
+  "asn": 262937,
+  "handle": "STARBYTE-TELECOM",
+  "description": "StarByte Telecom",
+  "subnets": {
+    "ipv4": [
+      "177.129.172.0/22"
+    ],
+    "ipv6": [
+      "2804:827c::/32"
+    ]
+  }
+}

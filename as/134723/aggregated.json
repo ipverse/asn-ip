@@ -1,0 +1,13 @@
+{
+  "asn": 134723,
+  "handle": "EOL-AP",
+  "description": "Evergreen Online Ltd.",
+  "subnets": {
+    "ipv4": [
+      "103.197.205.0/24"
+    ],
+    "ipv6": [
+      "2403:680::/32"
+    ]
+  }
+}

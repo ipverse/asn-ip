@@ -1,0 +1,11 @@
+{
+  "asn": 24549,
+  "handle": "LAYER-AP",
+  "description": "Layerstack Limited",
+  "subnets": {
+    "ipv4": [
+      "43.228.127.0/24"
+    ],
+    "ipv6": []
+  }
+}

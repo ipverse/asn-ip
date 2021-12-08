@@ -1,0 +1,11 @@
+{
+  "asn": 38179,
+  "handle": "YUYANNET-BACKBONE-AP",
+  "description": "Aperture Science Limited",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2602:fed2:7700::/48"
+    ]
+  }
+}

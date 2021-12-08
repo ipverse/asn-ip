@@ -1,0 +1,13 @@
+{
+  "asn": 211721,
+  "handle": "GRANDI",
+  "description": "Grandi LLC",
+  "subnets": {
+    "ipv4": [
+      "194.153.135.0/24"
+    ],
+    "ipv6": [
+      "2a10:9f40::/29"
+    ]
+  }
+}

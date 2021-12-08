@@ -1,0 +1,13 @@
+{
+  "asn": 29898,
+  "handle": "MONEYGRAM-INTERNATIONAL-INC",
+  "description": "MoneyGram International Inc",
+  "subnets": {
+    "ipv4": [
+      "63.91.129.0/24",
+      "104.244.232.0/21",
+      "207.67.74.0/24"
+    ],
+    "ipv6": []
+  }
+}

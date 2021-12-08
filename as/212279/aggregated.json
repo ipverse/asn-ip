@@ -1,0 +1,12 @@
+{
+  "asn": 212279,
+  "handle": "EDISONLEE55-NETWORK",
+  "description": "Ming-Chien Lee",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2602:feda:c51::/48",
+      "2a0e:8f02:f013::/48"
+    ]
+  }
+}

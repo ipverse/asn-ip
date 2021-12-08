@@ -1,0 +1,12 @@
+{
+  "asn": 21881,
+  "handle": "RRMS-CORONA",
+  "description": "RAPID RESPONSE MONITORING SERVICES INCORPORATED",
+  "subnets": {
+    "ipv4": [
+      "65.115.81.0/24",
+      "216.151.46.0/23"
+    ],
+    "ipv6": []
+  }
+}

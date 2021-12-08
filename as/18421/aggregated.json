@@ -1,0 +1,11 @@
+{
+  "asn": 18421,
+  "handle": "TAISHINBANK-T",
+  "description": "Taishin International Bank",
+  "subnets": {
+    "ipv4": [
+      "202.6.104.0/23"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asn": 27434,
+  "handle": "DG-FASTCHANNEL",
+  "description": "DG",
+  "subnets": {
+    "ipv4": [
+      "199.47.180.0/22"
+    ],
+    "ipv6": []
+  }
+}

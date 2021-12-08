@@ -1,0 +1,13 @@
+{
+  "asn": 131094,
+  "handle": "HYUNDAIMOTORCO-KR-KR",
+  "description": "HYUNDAI MOTOR CO",
+  "subnets": {
+    "ipv4": [
+      "1.232.195.0/24",
+      "103.162.52.0/23",
+      "121.78.27.0/24"
+    ],
+    "ipv6": []
+  }
+}

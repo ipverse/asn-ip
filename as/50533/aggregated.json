@@ -1,0 +1,15 @@
+{
+  "asn": 50533,
+  "handle": "ITENOS",
+  "description": "I.T.E.N.O.S. International Telecom Network Operation Services GmbH",
+  "subnets": {
+    "ipv4": [
+      "145.14.224.0/20",
+      "185.160.248.0/22",
+      "193.151.248.0/22"
+    ],
+    "ipv6": [
+      "2a00:17f1::/32"
+    ]
+  }
+}

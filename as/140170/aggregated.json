@@ -1,0 +1,12 @@
+{
+  "asn": 140170,
+  "handle": "CENSUS-IN",
+  "description": "Office Of The Registrar General India",
+  "subnets": {
+    "ipv4": [
+      "103.66.120.0/24",
+      "103.151.152.0/23"
+    ],
+    "ipv6": []
+  }
+}

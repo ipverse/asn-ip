@@ -1,0 +1,13 @@
+{
+  "asn": 210138,
+  "handle": "FLOWSPEC",
+  "description": "FLOWSPEC LTD",
+  "subnets": {
+    "ipv4": [
+      "176.121.14.0/24"
+    ],
+    "ipv6": [
+      "2001:67c:c4::/48"
+    ]
+  }
+}

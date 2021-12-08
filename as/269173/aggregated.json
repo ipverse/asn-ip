@@ -1,0 +1,13 @@
+{
+  "asn": 269173,
+  "handle": "TECNET-TELECOM",
+  "description": "tecnet telecom",
+  "subnets": {
+    "ipv4": [
+      "45.180.100.0/22"
+    ],
+    "ipv6": [
+      "2804:6088::/32"
+    ]
+  }
+}

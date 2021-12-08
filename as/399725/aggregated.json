@@ -1,0 +1,11 @@
+{
+  "asn": 399725,
+  "handle": "BUZZ-BROADBAND",
+  "description": "ALAWEB Internet Services",
+  "subnets": {
+    "ipv4": [
+      "216.108.216.0/23"
+    ],
+    "ipv6": []
+  }
+}

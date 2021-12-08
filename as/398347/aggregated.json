@@ -1,0 +1,12 @@
+{
+  "asn": 398347,
+  "handle": "ULTATEL-DC03",
+  "description": "ULTATEL",
+  "subnets": {
+    "ipv4": [
+      "139.64.203.0/24",
+      "204.2.43.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 47475,
+  "handle": "LANET-TV",
+  "description": "Lanet Network Ltd",
+  "subnets": {
+    "ipv4": [
+      "91.194.80.0/24",
+      "195.43.146.0/24"
+    ],
+    "ipv6": []
+  }
+}

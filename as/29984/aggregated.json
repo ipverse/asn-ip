@@ -1,0 +1,12 @@
+{
+  "asn": 29984,
+  "handle": "WILLAMETTE",
+  "description": "Willamette University",
+  "subnets": {
+    "ipv4": [
+      "158.104.0.0/16",
+      "192.82.120.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asn": 200341,
+  "handle": "NACKA-ENERGI",
+  "description": "Nacka Energi AB",
+  "subnets": {
+    "ipv4": [
+      "194.71.221.0/24"
+    ],
+    "ipv6": []
+  }
+}

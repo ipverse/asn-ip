@@ -1,0 +1,12 @@
+{
+  "asn": 61256,
+  "handle": "PLL",
+  "description": "Port Lotniczy Lublin SA",
+  "subnets": {
+    "ipv4": [
+      "81.15.188.0/24",
+      "82.160.29.0/24"
+    ],
+    "ipv6": []
+  }
+}

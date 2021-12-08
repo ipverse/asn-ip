@@ -1,0 +1,13 @@
+{
+  "asn": 267355,
+  "handle": "HOSTIDC-INTERNET-DATACENTER",
+  "description": "HOSTIDC INTERNET DATACENTER",
+  "subnets": {
+    "ipv4": [
+      "45.234.92.0/22"
+    ],
+    "ipv6": [
+      "2804:4c30::/32"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asn": 42108,
+  "handle": "SIS",
+  "description": "Ozone Limited",
+  "subnets": {
+    "ipv4": [
+      "91.103.88.0/21"
+    ],
+    "ipv6": []
+  }
+}

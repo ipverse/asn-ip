@@ -1,0 +1,11 @@
+{
+  "asn": 63512,
+  "handle": "GRT-ID",
+  "description": "PT Garuda Rias Teknologi",
+  "subnets": {
+    "ipv4": [
+      "103.41.200.0/22"
+    ],
+    "ipv6": []
+  }
+}

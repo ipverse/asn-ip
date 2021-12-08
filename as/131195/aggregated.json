@@ -1,0 +1,12 @@
+{
+  "asn": 131195,
+  "handle": "SIM-SG-AP",
+  "description": "Singapore Institute of Management",
+  "subnets": {
+    "ipv4": [
+      "203.217.184.0/24",
+      "203.217.186.0/23"
+    ],
+    "ipv6": []
+  }
+}

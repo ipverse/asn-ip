@@ -1,0 +1,13 @@
+{
+  "asn": 34012,
+  "handle": "VELLANCE",
+  "description": "Sentia Netherlands BV",
+  "subnets": {
+    "ipv4": [
+      "162.251.33.0/24"
+    ],
+    "ipv6": [
+      "2a01:40e0:2::/48"
+    ]
+  }
+}

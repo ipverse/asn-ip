@@ -1,0 +1,13 @@
+{
+  "asn": 267018,
+  "handle": "ON-SERVICOS-DIGITAIS",
+  "description": "ON Serviços Digitais EIRELI - EPP",
+  "subnets": {
+    "ipv4": [
+      "45.225.64.0/22"
+    ],
+    "ipv6": [
+      "2804:46e4::/32"
+    ]
+  }
+}

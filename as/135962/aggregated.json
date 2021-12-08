@@ -1,0 +1,11 @@
+{
+  "asn": 135962,
+  "handle": "AIS-VN",
+  "description": "AIS Securitites Joint Stock Company",
+  "subnets": {
+    "ipv4": [
+      "103.135.28.0/24"
+    ],
+    "ipv6": []
+  }
+}

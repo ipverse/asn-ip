@@ -1,0 +1,13 @@
+{
+  "asn": 199341,
+  "handle": "MARGONET",
+  "description": "Margonet S.C. Przemyslaw Parzyjagla i Marcin Janik",
+  "subnets": {
+    "ipv4": [
+      "45.85.184.0/24",
+      "185.93.240.0/24",
+      "194.107.18.0/24"
+    ],
+    "ipv6": []
+  }
+}

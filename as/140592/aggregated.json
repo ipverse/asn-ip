@@ -1,0 +1,17 @@
+{
+  "asn": 140592,
+  "handle": "GOVTECH-WOG-NC",
+  "description": "GOVERNMENT TECHNOLOGY AGENCY",
+  "subnets": {
+    "ipv4": [
+      "160.96.2.0/23",
+      "160.96.6.0/23",
+      "160.96.212.0/22"
+    ],
+    "ipv6": [
+      "2001:df0:314::/46",
+      "2001:df0:31a::/47",
+      "2001:df0:31c::/47"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 31762,
+  "handle": "KIOSWIRELESSLLC",
+  "description": "KIOSK WIRELESS",
+  "subnets": {
+    "ipv4": [
+      "38.141.37.0/24",
+      "185.249.219.0/24"
+    ],
+    "ipv6": []
+  }
+}

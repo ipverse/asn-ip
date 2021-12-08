@@ -1,0 +1,12 @@
+{
+  "asn": 394748,
+  "handle": "CITYOFFORTCOLLINS",
+  "description": "City of Fort Collins",
+  "subnets": {
+    "ipv4": [
+      "198.59.46.0/23",
+      "198.59.48.0/24"
+    ],
+    "ipv6": []
+  }
+}

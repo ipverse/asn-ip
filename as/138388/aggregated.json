@@ -1,0 +1,13 @@
+{
+  "asn": 138388,
+  "handle": "POKHARA-AP",
+  "description": "Pokhara Internet Pvt. Ltd.",
+  "subnets": {
+    "ipv4": [
+      "103.124.96.0/22"
+    ],
+    "ipv6": [
+      "2403:ddc0::/32"
+    ]
+  }
+}

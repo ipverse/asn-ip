@@ -1,0 +1,11 @@
+{
+  "asn": 132458,
+  "handle": "PENTANET-AP",
+  "description": "Pentanet Pty Ltd",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2001:df1:b401::/48"
+    ]
+  }
+}

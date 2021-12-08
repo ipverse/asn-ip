@@ -1,0 +1,12 @@
+{
+  "asn": 136207,
+  "handle": "KBNONLINE-AP",
+  "description": "K B N Online",
+  "subnets": {
+    "ipv4": [
+      "103.83.164.0/22",
+      "203.89.108.0/22"
+    ],
+    "ipv6": []
+  }
+}

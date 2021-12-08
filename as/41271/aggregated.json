@@ -1,0 +1,11 @@
+{
+  "asn": 41271,
+  "handle": "RSK-BANK",
+  "description": "RSK BANK OJSC",
+  "subnets": {
+    "ipv4": [
+      "93.170.178.0/23"
+    ],
+    "ipv6": []
+  }
+}

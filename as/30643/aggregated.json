@@ -1,0 +1,12 @@
+{
+  "asn": 30643,
+  "handle": "TTXCOM",
+  "description": "TTX Company",
+  "subnets": {
+    "ipv4": [
+      "198.153.153.0/24",
+      "198.153.154.0/23"
+    ],
+    "ipv6": []
+  }
+}

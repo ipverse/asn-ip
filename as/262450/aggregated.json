@@ -1,0 +1,13 @@
+{
+  "asn": 262450,
+  "handle": "NORTENET-TELECOMUNICACOES-DO",
+  "description": "NORTENET TELECOMUNICACOES DO BRASIL LTDA - EPP",
+  "subnets": {
+    "ipv4": [
+      "177.52.192.0/21"
+    ],
+    "ipv6": [
+      "2804:3478::/32"
+    ]
+  }
+}

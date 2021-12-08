@@ -1,0 +1,13 @@
+{
+  "asn": 270860,
+  "handle": "MUNDIAL-CENTRAL-DE",
+  "description": "Mundial Central de Comércio e Serviços Eirelli",
+  "subnets": {
+    "ipv4": [
+      "190.124.244.0/22"
+    ],
+    "ipv6": [
+      "2804:728c::/32"
+    ]
+  }
+}

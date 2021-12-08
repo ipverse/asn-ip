@@ -1,0 +1,13 @@
+{
+  "asn": 206057,
+  "handle": "CATVROCIANA",
+  "description": "CATV ROCIANA SL",
+  "subnets": {
+    "ipv4": [
+      "31.214.155.0/24",
+      "46.251.250.0/24",
+      "134.255.210.0/23"
+    ],
+    "ipv6": []
+  }
+}

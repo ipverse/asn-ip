@@ -1,0 +1,13 @@
+{
+  "asn": 211146,
+  "handle": "TRIBE-LT",
+  "description": "Tribe Payments UAB",
+  "subnets": {
+    "ipv4": [
+      "93.190.127.0/24",
+      "185.21.129.0/24",
+      "185.130.88.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asn": 131158,
+  "handle": "NAIST",
+  "description": "Nara Institute of Science and Technology",
+  "subnets": {
+    "ipv4": [
+      "192.218.128.0/23"
+    ],
+    "ipv6": []
+  }
+}

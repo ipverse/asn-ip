@@ -1,0 +1,13 @@
+{
+  "asn": 204081,
+  "handle": "IMENDO",
+  "description": "IMENDO GmbH",
+  "subnets": {
+    "ipv4": [
+      "185.254.232.0/22"
+    ],
+    "ipv6": [
+      "2a0c:53c0::/29"
+    ]
+  }
+}

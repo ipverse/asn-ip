@@ -1,0 +1,13 @@
+{
+  "asn": 15073,
+  "handle": "CPS-197",
+  "description": "California Physicians\u0027 Service",
+  "subnets": {
+    "ipv4": [
+      "8.21.31.0/24",
+      "165.253.102.0/24",
+      "165.253.106.0/24"
+    ],
+    "ipv6": []
+  }
+}

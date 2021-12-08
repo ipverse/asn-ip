@@ -1,0 +1,12 @@
+{
+  "asn": 139418,
+  "handle": "GASATEKNET-ID",
+  "description": "PT Gasatek Bintang Nusantara",
+  "subnets": {
+    "ipv4": [
+      "103.144.18.0/23",
+      "103.174.178.0/23"
+    ],
+    "ipv6": []
+  }
+}

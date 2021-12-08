@@ -1,0 +1,12 @@
+{
+  "asn": 47768,
+  "handle": "INTISTELECOM",
+  "description": "Intis Telecom LLP",
+  "subnets": {
+    "ipv4": [
+      "185.174.232.0/24",
+      "185.174.235.0/24"
+    ],
+    "ipv6": []
+  }
+}

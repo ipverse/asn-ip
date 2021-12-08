@@ -1,0 +1,11 @@
+{
+  "asn": 327851,
+  "handle": "PREPAID-UTILITIES-WORLD",
+  "description": "Prepaid Utilities World CC",
+  "subnets": {
+    "ipv4": [
+      "196.43.253.0/24"
+    ],
+    "ipv6": []
+  }
+}

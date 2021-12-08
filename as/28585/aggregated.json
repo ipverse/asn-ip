@@ -1,0 +1,13 @@
+{
+  "asn": 28585,
+  "handle": "NLINK-COMERCIO-E",
+  "description": "NLINK Comércio e Serviços Ltda",
+  "subnets": {
+    "ipv4": [
+      "187.87.128.0/20"
+    ],
+    "ipv6": [
+      "2804:7c::/32"
+    ]
+  }
+}

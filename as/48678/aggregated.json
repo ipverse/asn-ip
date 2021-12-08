@@ -1,0 +1,18 @@
+{
+  "asn": 48678,
+  "handle": "TR-PENTECH",
+  "description": "PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi",
+  "subnets": {
+    "ipv4": [
+      "45.11.96.0/22",
+      "62.106.94.0/24",
+      "78.135.100.0/24",
+      "85.153.136.0/24",
+      "85.153.142.0/24",
+      "134.255.199.0/24",
+      "212.98.224.0/24",
+      "212.115.30.0/24"
+    ],
+    "ipv6": []
+  }
+}

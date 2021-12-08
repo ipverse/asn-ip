@@ -1,0 +1,13 @@
+{
+  "asn": 37990,
+  "handle": "NRGGOS",
+  "description": "NRG Gladstone Operating Services Pty Ltd",
+  "subnets": {
+    "ipv4": [
+      "203.4.168.0/22"
+    ],
+    "ipv6": [
+      "2001:df0:206::/48"
+    ]
+  }
+}

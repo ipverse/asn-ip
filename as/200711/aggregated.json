@@ -1,0 +1,13 @@
+{
+  "asn": 200711,
+  "handle": "INM",
+  "description": "Telia Inmics-Nebula Oy",
+  "subnets": {
+    "ipv4": [
+      "185.50.88.0/22"
+    ],
+    "ipv6": [
+      "2a01:a7e0::/36"
+    ]
+  }
+}

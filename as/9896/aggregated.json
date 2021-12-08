@@ -1,0 +1,13 @@
+{
+  "asn": 9896,
+  "handle": "PARADISE-AP",
+  "description": "Vodafone New Zealand Limited",
+  "subnets": {
+    "ipv4": [
+      "202.37.60.0/22"
+    ],
+    "ipv6": [
+      "2001:4403:dead::/48"
+    ]
+  }
+}

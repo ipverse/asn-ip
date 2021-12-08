@@ -1,0 +1,17 @@
+{
+  "asn": 40994,
+  "handle": "ALWYZON",
+  "description": "Michael Hohl trading as Hohl IT e.U.",
+  "subnets": {
+    "ipv4": [
+      "31.14.17.0/24",
+      "46.102.156.0/23",
+      "83.138.55.0/24",
+      "86.106.182.0/24"
+    ],
+    "ipv6": [
+      "2a0d:f301::/48",
+      "2a0d:f302::/32"
+    ]
+  }
+}

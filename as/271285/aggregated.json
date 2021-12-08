@@ -1,0 +1,13 @@
+{
+  "asn": 271285,
+  "handle": "MG-TELECOM",
+  "description": "MG TELECOM",
+  "subnets": {
+    "ipv4": [
+      "200.80.104.0/22"
+    ],
+    "ipv6": [
+      "2804:791c::/32"
+    ]
+  }
+}

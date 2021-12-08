@@ -1,0 +1,12 @@
+{
+  "asn": 269882,
+  "handle": "MUNICIPALIDAD-DE-VICENTE",
+  "description": "Municipalidad de Vicente López",
+  "subnets": {
+    "ipv4": [
+      "45.191.56.0/23",
+      "45.191.58.0/24"
+    ],
+    "ipv6": []
+  }
+}

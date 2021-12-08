@@ -1,0 +1,13 @@
+{
+  "asn": 270624,
+  "handle": "LIVE-FIBRA-TELECOM-LTDA",
+  "description": "Live Fibra Telecom Ltda",
+  "subnets": {
+    "ipv4": [
+      "186.237.100.0/22"
+    ],
+    "ipv6": [
+      "2804:6ee0::/32"
+    ]
+  }
+}

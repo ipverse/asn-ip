@@ -1,0 +1,13 @@
+{
+  "asn": 28301,
+  "handle": "DEPARTAMENTO-DE-EDUCACAO",
+  "description": "Departamento de Educação e Cultura do Exército",
+  "subnets": {
+    "ipv4": [
+      "189.38.64.0/20"
+    ],
+    "ipv6": [
+      "2801:80:d0::/48"
+    ]
+  }
+}

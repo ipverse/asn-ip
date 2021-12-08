@@ -1,0 +1,13 @@
+{
+  "asn": 41179,
+  "handle": "MYRASEC",
+  "description": "Myra Security GmbH",
+  "subnets": {
+    "ipv4": [
+      "45.112.86.0/24"
+    ],
+    "ipv6": [
+      "2a02:cb43:2003::/48"
+    ]
+  }
+}

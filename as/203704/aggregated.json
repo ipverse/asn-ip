@@ -1,0 +1,12 @@
+{
+  "asn": 203704,
+  "handle": "ASVIDEOCAM",
+  "description": "TVHoradada Multimedia S.L.",
+  "subnets": {
+    "ipv4": [
+      "149.36.252.0/22",
+      "185.124.7.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 327985,
+  "handle": "IDS-AFRICA",
+  "description": "IDS Africa Limited",
+  "subnets": {
+    "ipv4": [
+      "169.239.232.0/23",
+      "169.239.235.0/24"
+    ],
+    "ipv6": []
+  }
+}

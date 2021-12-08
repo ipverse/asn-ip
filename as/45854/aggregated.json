@@ -1,0 +1,14 @@
+{
+  "asn": 45854,
+  "handle": "TRIMAXITINFRA-IN",
+  "description": "Trimax IT Infrastructure and Services Ltd",
+  "subnets": {
+    "ipv4": [
+      "180.92.160.0/20"
+    ],
+    "ipv6": [
+      "2404:a500::/48",
+      "2404:a500:4::/47"
+    ]
+  }
+}

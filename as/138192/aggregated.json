@@ -1,0 +1,13 @@
+{
+  "asn": 138192,
+  "handle": "SPEED1-AP",
+  "description": "Speed Net",
+  "subnets": {
+    "ipv4": [
+      "103.129.212.0/22"
+    ],
+    "ipv6": [
+      "2403:88c0::/32"
+    ]
+  }
+}

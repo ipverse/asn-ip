@@ -1,0 +1,11 @@
+{
+  "asn": 63100,
+  "handle": "CTCI",
+  "description": "Carnegie Telephone Company, Inc.",
+  "subnets": {
+    "ipv4": [
+      "104.153.0.0/21"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 6006,
+  "handle": "DNIC-ASBLK-0-06055",
+  "description": "DoD Network Information Center",
+  "subnets": {
+    "ipv4": [
+      "143.86.200.0/23",
+      "144.106.243.0/24"
+    ],
+    "ipv6": []
+  }
+}

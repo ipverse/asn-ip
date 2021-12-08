@@ -1,0 +1,13 @@
+{
+  "asn": 265101,
+  "handle": "A-N-DOS",
+  "description": "A. N. dos M. P. de Telecomunicações - MICROTEL",
+  "subnets": {
+    "ipv4": [
+      "200.33.115.0/24"
+    ],
+    "ipv6": [
+      "2801:80:19c0::/48"
+    ]
+  }
+}

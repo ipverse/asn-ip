@@ -1,0 +1,14 @@
+{
+  "asn": 263930,
+  "handle": "MGCOM-NETWORK-LTDA-ME",
+  "description": "Mgcom Network Ltda-ME",
+  "subnets": {
+    "ipv4": [
+      "138.219.124.0/24",
+      "138.219.126.0/23"
+    ],
+    "ipv6": [
+      "2804:27f0::/43"
+    ]
+  }
+}

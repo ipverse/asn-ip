@@ -1,0 +1,13 @@
+{
+  "asn": 265397,
+  "handle": "QNET-INTERNET",
+  "description": "QNET INTERNET",
+  "subnets": {
+    "ipv4": [
+      "168.194.184.0/22"
+    ],
+    "ipv6": [
+      "2804:3374::/32"
+    ]
+  }
+}

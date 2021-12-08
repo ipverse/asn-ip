@@ -1,0 +1,13 @@
+{
+  "asn": 58641,
+  "handle": "TRUNKOZ-IN",
+  "description": "Trunkoz Technologies Pvt. Ltd.",
+  "subnets": {
+    "ipv4": [
+      "103.14.96.0/24"
+    ],
+    "ipv6": [
+      "2401:2d80::/48"
+    ]
+  }
+}

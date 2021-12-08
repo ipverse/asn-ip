@@ -1,0 +1,11 @@
+{
+  "asn": 141068,
+  "handle": "IDNIC-KORLANTAS-ID",
+  "description": "KORLANTAS POLRI",
+  "subnets": {
+    "ipv4": [
+      "103.154.174.0/23"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 136966,
+  "handle": "BCOMM-AP",
+  "description": "Bottle Communications Pty Ltd",
+  "subnets": {
+    "ipv4": [
+      "103.100.196.0/22"
+    ],
+    "ipv6": [
+      "2401:c1c0::/32"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 200382,
+  "handle": "ITANK",
+  "description": "ITank B.V.",
+  "subnets": {
+    "ipv4": [
+      "194.50.20.0/24",
+      "194.50.22.0/23"
+    ],
+    "ipv6": []
+  }
+}

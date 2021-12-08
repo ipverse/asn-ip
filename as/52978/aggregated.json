@@ -1,0 +1,13 @@
+{
+  "asn": 52978,
+  "handle": "RG3NET-COMERCIO-E",
+  "description": "RG3.Net Comercio e Servicos Ltda.",
+  "subnets": {
+    "ipv4": [
+      "177.39.200.0/22"
+    ],
+    "ipv6": [
+      "2804:46c::/32"
+    ]
+  }
+}

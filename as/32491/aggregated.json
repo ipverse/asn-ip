@@ -1,0 +1,13 @@
+{
+  "asn": 32491,
+  "handle": "TUCOWS-3",
+  "description": "Tucows.com Co.",
+  "subnets": {
+    "ipv4": [
+      "64.98.0.0/16"
+    ],
+    "ipv6": [
+      "2604:4000:4000::/48"
+    ]
+  }
+}

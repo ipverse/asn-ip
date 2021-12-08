@@ -1,0 +1,13 @@
+{
+  "asn": 265021,
+  "handle": "LINSFIBRA-PROVEDOR-DE",
+  "description": "LINSFIBRA PROVEDOR DE INTERNET LTDA",
+  "subnets": {
+    "ipv4": [
+      "170.0.160.0/22"
+    ],
+    "ipv6": [
+      "2804:3184::/32"
+    ]
+  }
+}

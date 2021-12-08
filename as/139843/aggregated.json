@@ -1,0 +1,11 @@
+{
+  "asn": 139843,
+  "handle": "BAYSIDECOUNCIL-AP",
+  "description": "Bayside Council",
+  "subnets": {
+    "ipv4": [
+      "103.146.5.0/24"
+    ],
+    "ipv6": []
+  }
+}

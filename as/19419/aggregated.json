@@ -1,0 +1,17 @@
+{
+  "asn": 19419,
+  "handle": "SONY-PICTURES-ENTERTAINMENT",
+  "description": "Sony Pictures Entertainment Inc",
+  "subnets": {
+    "ipv4": [
+      "173.251.240.0/21",
+      "173.251.248.0/22",
+      "185.64.36.0/22",
+      "208.84.224.0/22"
+    ],
+    "ipv6": [
+      "2606:bc00::/32",
+      "2a03:1120::/32"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 45313,
+  "handle": "PEMDA-NAD-ID",
+  "description": "Dinas Perhubungan,komunikasi, informasi dan Telematika -NAD",
+  "subnets": {
+    "ipv4": [
+      "123.108.96.0/22",
+      "123.108.100.0/23",
+      "123.108.103.0/24"
+    ],
+    "ipv6": []
+  }
+}

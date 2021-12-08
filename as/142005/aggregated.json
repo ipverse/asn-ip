@@ -1,0 +1,13 @@
+{
+  "asn": 142005,
+  "handle": "NCTAIWANCOLTD-AP",
+  "description": "NC Taiwan Co., Ltd.",
+  "subnets": {
+    "ipv4": [
+      "103.150.62.0/23",
+      "103.164.130.0/23",
+      "216.107.240.0/22"
+    ],
+    "ipv6": []
+  }
+}

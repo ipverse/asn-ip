@@ -1,0 +1,11 @@
+{
+  "asn": 22590,
+  "handle": "SKAGIT-COUNTY-PUBLIC-HOSPITAL-DISTRICT-2",
+  "description": "Island Hospital",
+  "subnets": {
+    "ipv4": [
+      "204.124.19.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asn": 37166,
+  "handle": "KENYA-AIRWAYS",
+  "description": "Kenya Airways",
+  "subnets": {
+    "ipv4": [
+      "194.9.64.0/23"
+    ],
+    "ipv6": []
+  }
+}

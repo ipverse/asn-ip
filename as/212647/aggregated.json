@@ -1,0 +1,13 @@
+{
+  "asn": 212647,
+  "handle": "SWN",
+  "description": "Spearware Networks LLC",
+  "subnets": {
+    "ipv4": [
+      "165.140.200.0/23"
+    ],
+    "ipv6": [
+      "2602:fc19::/36"
+    ]
+  }
+}

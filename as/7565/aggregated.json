@@ -1,0 +1,12 @@
+{
+  "asn": 7565,
+  "handle": "BDCOM-BD",
+  "description": "BDCOM Online Limited",
+  "subnets": {
+    "ipv4": [
+      "113.11.0.0/17",
+      "114.31.0.0/19"
+    ],
+    "ipv6": []
+  }
+}

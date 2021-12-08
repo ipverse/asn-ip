@@ -1,0 +1,13 @@
+{
+  "asn": 63303,
+  "handle": "TOUCHTONE-NEWARK",
+  "description": "TouchTone Communications",
+  "subnets": {
+    "ipv4": [
+      "165.254.30.0/24",
+      "165.254.166.0/24",
+      "192.104.111.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asn": 9191,
+  "handle": "NEWNET",
+  "description": "Digital Space Group Limited",
+  "subnets": {
+    "ipv4": [
+      "139.242.5.0/24"
+    ],
+    "ipv6": []
+  }
+}

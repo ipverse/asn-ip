@@ -1,0 +1,14 @@
+{
+  "asn": 16831,
+  "handle": "FUJITSU",
+  "description": "Fujitsu Network Communications, Inc.",
+  "subnets": {
+    "ipv4": [
+      "167.254.0.0/16",
+      "168.127.0.0/16",
+      "198.17.76.0/24",
+      "204.253.82.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asn": 132442,
+  "handle": "TIS-AP",
+  "description": "Dhaka Information Technology",
+  "subnets": {
+    "ipv4": [
+      "103.66.178.0/23"
+    ],
+    "ipv6": []
+  }
+}

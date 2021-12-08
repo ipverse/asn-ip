@@ -1,0 +1,12 @@
+{
+  "asn": 135471,
+  "handle": "IDNIC-BOYOLALIKAB-ID",
+  "description": "PEMERINTAH KABUPATEN BOYOLALI",
+  "subnets": {
+    "ipv4": [
+      "103.71.255.0/24",
+      "103.137.37.0/24"
+    ],
+    "ipv6": []
+  }
+}

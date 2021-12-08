@@ -1,0 +1,12 @@
+{
+  "asn": 35530,
+  "handle": "PROLINE",
+  "description": "Proline TM Ltd.",
+  "subnets": {
+    "ipv4": [
+      "93.126.64.0/18",
+      "194.187.128.0/22"
+    ],
+    "ipv6": []
+  }
+}

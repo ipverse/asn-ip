@@ -1,0 +1,13 @@
+{
+  "asn": 52575,
+  "handle": "CLARA-LUZ-INTERNET-LTDA-ME",
+  "description": "Clara Luz Internet Ltda ME",
+  "subnets": {
+    "ipv4": [
+      "177.86.184.0/21"
+    ],
+    "ipv6": [
+      "2804:cec::/32"
+    ]
+  }
+}

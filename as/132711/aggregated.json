@@ -1,0 +1,13 @@
+{
+  "asn": 132711,
+  "handle": "DELLSONICWALL-AP",
+  "description": "SonicWALL",
+  "subnets": {
+    "ipv4": [
+      "103.19.168.0/24"
+    ],
+    "ipv6": [
+      "2001:df5:4c00::/48"
+    ]
+  }
+}

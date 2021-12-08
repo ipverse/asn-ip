@@ -1,0 +1,13 @@
+{
+  "asn": 21996,
+  "handle": "GUAMCELL",
+  "description": "GUAMCELL Communications",
+  "subnets": {
+    "ipv4": [
+      "63.103.50.0/23",
+      "116.68.0.0/19",
+      "202.47.144.0/20"
+    ],
+    "ipv6": []
+  }
+}

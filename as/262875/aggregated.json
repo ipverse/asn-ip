@@ -1,0 +1,13 @@
+{
+  "asn": 262875,
+  "handle": "IP-AMERICA-TELECOM-LTDA",
+  "description": "IP AMERICA TELECOM LTDA",
+  "subnets": {
+    "ipv4": [
+      "45.6.0.0/24",
+      "45.6.2.0/23",
+      "177.11.96.0/24"
+    ],
+    "ipv6": []
+  }
+}

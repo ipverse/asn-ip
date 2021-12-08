@@ -1,0 +1,11 @@
+{
+  "asn": 30580,
+  "handle": "SASKPO",
+  "description": "SaskPower",
+  "subnets": {
+    "ipv4": [
+      "204.83.191.0/24"
+    ],
+    "ipv6": []
+  }
+}

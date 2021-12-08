@@ -1,0 +1,11 @@
+{
+  "asn": 398130,
+  "handle": "MARYLAND-AOC",
+  "description": "Maryland Administrative Office of the Courts (AOC)",
+  "subnets": {
+    "ipv4": [
+      "170.99.0.0/16"
+    ],
+    "ipv6": []
+  }
+}

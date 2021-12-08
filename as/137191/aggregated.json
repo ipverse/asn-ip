@@ -1,0 +1,11 @@
+{
+  "asn": 137191,
+  "handle": "COUPONZVILLA-AP",
+  "description": "Couponz villa",
+  "subnets": {
+    "ipv4": [
+      "103.95.50.0/23"
+    ],
+    "ipv6": []
+  }
+}

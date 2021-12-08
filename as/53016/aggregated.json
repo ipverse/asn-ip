@@ -1,0 +1,13 @@
+{
+  "asn": 53016,
+  "handle": "PRODEPA-EMP-TEC",
+  "description": "PRODEPA - Emp Tec da Inf e Com do Estado do Pará",
+  "subnets": {
+    "ipv4": [
+      "177.74.0.0/18"
+    ],
+    "ipv6": [
+      "2804:1f48::/32"
+    ]
+  }
+}

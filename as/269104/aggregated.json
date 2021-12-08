@@ -1,0 +1,14 @@
+{
+  "asn": 269104,
+  "handle": "TIX-TELECOMUNICACOES-LTDA",
+  "description": "TIX TELECOMUNICACOES LTDA",
+  "subnets": {
+    "ipv4": [
+      "45.179.224.0/22"
+    ],
+    "ipv6": [
+      "2804:e4c:7000::/36",
+      "2804:5f80::/32"
+    ]
+  }
+}

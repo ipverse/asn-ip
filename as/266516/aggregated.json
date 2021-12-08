@@ -1,0 +1,13 @@
+{
+  "asn": 266516,
+  "handle": "NAVEGANET-COMERCIO-E",
+  "description": "Naveganet Comercio e Serviços Eirele",
+  "subnets": {
+    "ipv4": [
+      "170.245.64.0/22"
+    ],
+    "ipv6": [
+      "2804:38fc::/32"
+    ]
+  }
+}

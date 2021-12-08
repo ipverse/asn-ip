@@ -1,0 +1,11 @@
+{
+  "asn": 270284,
+  "handle": "NAVEG-TELECOM",
+  "description": "NAVEG TELECOM",
+  "subnets": {
+    "ipv4": [
+      "201.71.12.0/22"
+    ],
+    "ipv6": []
+  }
+}

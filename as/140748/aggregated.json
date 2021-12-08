@@ -1,0 +1,13 @@
+{
+  "asn": 140748,
+  "handle": "ICTVL-VN",
+  "description": "Vinh Long Department of Information and Communications",
+  "subnets": {
+    "ipv4": [
+      "103.154.180.0/23"
+    ],
+    "ipv6": [
+      "2001:df4:9480::/48"
+    ]
+  }
+}

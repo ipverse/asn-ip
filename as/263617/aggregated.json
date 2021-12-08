@@ -1,0 +1,13 @@
+{
+  "asn": 263617,
+  "handle": "VALEONLINE-PROVEDOR-DE",
+  "description": "VALEONLINE PROVEDOR DE INTERNET E SERVICOS LTDA",
+  "subnets": {
+    "ipv4": [
+      "179.124.200.0/22"
+    ],
+    "ipv6": [
+      "2804:1010::/32"
+    ]
+  }
+}

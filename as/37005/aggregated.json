@@ -1,0 +1,11 @@
+{
+  "asn": 37005,
+  "handle": "ACCESSBK",
+  "description": "ACCESS BANK PLC",
+  "subnets": {
+    "ipv4": [
+      "196.22.6.0/24"
+    ],
+    "ipv6": []
+  }
+}

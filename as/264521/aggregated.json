@@ -1,0 +1,13 @@
+{
+  "asn": 264521,
+  "handle": "SLIM-NET-TELECOM-LTDA",
+  "description": "SLIM NET TELECOM LTDA",
+  "subnets": {
+    "ipv4": [
+      "132.255.212.0/22"
+    ],
+    "ipv6": [
+      "2804:20ec::/32"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 138637,
+  "handle": "VOCPHONE-AP",
+  "description": "VOCPHONE PTY LTD",
+  "subnets": {
+    "ipv4": [
+      "103.135.84.0/22"
+    ],
+    "ipv6": [
+      "2404:77c0::/32"
+    ]
+  }
+}

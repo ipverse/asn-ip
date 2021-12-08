@@ -1,0 +1,12 @@
+{
+  "asn": 19858,
+  "handle": "GENSLER",
+  "description": "Gensler and Associates Architects",
+  "subnets": {
+    "ipv4": [
+      "138.208.5.0/24",
+      "138.208.135.0/24"
+    ],
+    "ipv6": []
+  }
+}

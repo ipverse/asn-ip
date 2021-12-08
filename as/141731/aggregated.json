@@ -1,0 +1,13 @@
+{
+  "asn": 141731,
+  "handle": "MAXHUBLTD-AP",
+  "description": "Max Hub Limited",
+  "subnets": {
+    "ipv4": [
+      "103.162.228.0/23"
+    ],
+    "ipv6": [
+      "2001:df6:180::/48"
+    ]
+  }
+}

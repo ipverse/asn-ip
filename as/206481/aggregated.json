@@ -1,0 +1,15 @@
+{
+  "asn": 206481,
+  "handle": "AIR-AMG",
+  "description": "Anmaguzcer Telecomunicaciones S.L.U",
+  "subnets": {
+    "ipv4": [
+      "86.107.40.0/23",
+      "89.32.189.0/24",
+      "93.114.247.0/24",
+      "185.219.120.0/22",
+      "188.214.212.0/23"
+    ],
+    "ipv6": []
+  }
+}

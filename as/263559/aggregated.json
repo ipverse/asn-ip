@@ -1,0 +1,13 @@
+{
+  "asn": 263559,
+  "handle": "FUNDACAO-EDUCACIONAL-DA",
+  "description": "Fundacao Educacional da Regiao de Joinville",
+  "subnets": {
+    "ipv4": [
+      "186.237.248.0/21"
+    ],
+    "ipv6": [
+      "2801:80:720::/48"
+    ]
+  }
+}

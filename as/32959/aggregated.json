@@ -1,0 +1,12 @@
+{
+  "asn": 32959,
+  "handle": "LITEUP",
+  "description": "LiteUp, Inc.",
+  "subnets": {
+    "ipv4": [
+      "69.22.136.0/24",
+      "69.22.159.0/24"
+    ],
+    "ipv6": []
+  }
+}

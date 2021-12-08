@@ -1,0 +1,13 @@
+{
+  "asn": 18573,
+  "handle": "WCOM-TSENGR",
+  "description": "MCI Communications Services, Inc. d/b/a Verizon Business",
+  "subnets": {
+    "ipv4": [
+      "63.79.176.0/22",
+      "63.102.248.0/21",
+      "166.61.247.0/24"
+    ],
+    "ipv6": []
+  }
+}

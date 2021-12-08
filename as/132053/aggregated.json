@@ -1,0 +1,11 @@
+{
+  "asn": 132053,
+  "handle": "QUALCOMM-IN-AP",
+  "description": "Qualcomm Inc",
+  "subnets": {
+    "ipv4": [
+      "103.229.18.0/23"
+    ],
+    "ipv6": []
+  }
+}

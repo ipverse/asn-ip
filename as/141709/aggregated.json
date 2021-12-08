@@ -1,0 +1,11 @@
+{
+  "asn": 141709,
+  "handle": "CCT-AP",
+  "description": "Clare Cable TeleVision",
+  "subnets": {
+    "ipv4": [
+      "103.162.127.0/24"
+    ],
+    "ipv6": []
+  }
+}

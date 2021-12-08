@@ -1,0 +1,11 @@
+{
+  "asn": 3795,
+  "handle": "BRYNMAWR",
+  "description": "Bryn Mawr College",
+  "subnets": {
+    "ipv4": [
+      "165.106.0.0/16"
+    ],
+    "ipv6": []
+  }
+}

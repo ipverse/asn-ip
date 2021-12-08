@@ -1,0 +1,13 @@
+{
+  "asn": 267627,
+  "handle": "INFINIT-TELECOM",
+  "description": "Infinit Telecom",
+  "subnets": {
+    "ipv4": [
+      "45.71.176.0/22"
+    ],
+    "ipv6": [
+      "2804:4458::/32"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asn": 263600,
+  "handle": "RADIO-LINK-TELECOM",
+  "description": "Radio Link Telecom",
+  "subnets": {
+    "ipv4": [
+      "177.136.64.0/21"
+    ],
+    "ipv6": []
+  }
+}

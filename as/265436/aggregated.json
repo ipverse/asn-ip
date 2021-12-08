@@ -1,0 +1,13 @@
+{
+  "asn": 265436,
+  "handle": "SKYNET-TELECOMUNICACOES",
+  "description": "SkyNet Telecomunicações",
+  "subnets": {
+    "ipv4": [
+      "168.195.168.0/22"
+    ],
+    "ipv6": [
+      "2804:341c::/32"
+    ]
+  }
+}

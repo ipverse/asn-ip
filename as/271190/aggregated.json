@@ -1,0 +1,13 @@
+{
+  "asn": 271190,
+  "handle": "DSW-SERVICO-DE",
+  "description": "DSW SERVICO DE COMUNICACAO MULTIMIDIA EIRELI",
+  "subnets": {
+    "ipv4": [
+      "179.42.120.0/22"
+    ],
+    "ipv6": [
+      "2804:77a4::/32"
+    ]
+  }
+}

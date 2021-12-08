@@ -1,0 +1,14 @@
+{
+  "asn": 57935,
+  "handle": "NRP-TEKNOLOJI",
+  "description": "NRP TEKNOLOJi LiMiTED SiRKETi",
+  "subnets": {
+    "ipv4": [
+      "92.119.56.0/24",
+      "92.119.59.0/24",
+      "104.237.228.0/24",
+      "185.73.115.0/24"
+    ],
+    "ipv6": []
+  }
+}

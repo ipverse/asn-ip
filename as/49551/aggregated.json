@@ -1,0 +1,12 @@
+{
+  "asn": 49551,
+  "handle": "TELESETI",
+  "description": "Teleseti Ltd",
+  "subnets": {
+    "ipv4": [
+      "91.214.220.0/22",
+      "93.171.44.0/22"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 267287,
+  "handle": "MEGANET-PROVEDOR",
+  "description": "MEGANET PROVEDOR",
+  "subnets": {
+    "ipv4": [
+      "45.233.12.0/22"
+    ],
+    "ipv6": [
+      "2804:4b28::/32"
+    ]
+  }
+}

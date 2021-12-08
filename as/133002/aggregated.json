@@ -1,0 +1,12 @@
+{
+  "asn": 133002,
+  "handle": "IITMPUNE",
+  "description": "Indian Institute of Tropical Meteorology",
+  "subnets": {
+    "ipv4": [
+      "103.251.184.0/24",
+      "103.251.186.0/24"
+    ],
+    "ipv6": []
+  }
+}

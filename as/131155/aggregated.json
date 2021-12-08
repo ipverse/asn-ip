@@ -1,0 +1,14 @@
+{
+  "asn": 131155,
+  "handle": "HANABI4",
+  "description": "NTT Communications Corporation",
+  "subnets": {
+    "ipv4": [
+      "163.138.236.0/24",
+      "163.138.253.0/24"
+    ],
+    "ipv6": [
+      "2402:c800:ff70::/48"
+    ]
+  }
+}

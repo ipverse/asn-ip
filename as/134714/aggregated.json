@@ -1,0 +1,12 @@
+{
+  "asn": 134714,
+  "handle": "ETPCL-AP",
+  "description": "Elite Telecom Public Company Limited",
+  "subnets": {
+    "ipv4": [
+      "103.197.196.0/24",
+      "103.197.198.0/23"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 206002,
+  "handle": "SCALAIR-FR",
+  "description": "Scalair SAS",
+  "subnets": {
+    "ipv4": [
+      "185.187.28.0/22"
+    ],
+    "ipv6": [
+      "2a0b:9380::/32"
+    ]
+  }
+}

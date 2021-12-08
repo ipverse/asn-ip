@@ -1,0 +1,13 @@
+{
+  "asn": 133947,
+  "handle": "MEA-AP",
+  "description": "Metropolitan Electricity Authority",
+  "subnets": {
+    "ipv4": [
+      "103.49.148.0/23"
+    ],
+    "ipv6": [
+      "2001:df2:5c00::/48"
+    ]
+  }
+}

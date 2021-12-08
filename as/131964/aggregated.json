@@ -1,0 +1,13 @@
+{
+  "asn": 131964,
+  "handle": "CYBERHOME-3",
+  "description": "FAMILYNET JAPAN CORPORATION",
+  "subnets": {
+    "ipv4": [
+      "160.237.191.0/24"
+    ],
+    "ipv6": [
+      "2400:a140:ffff::/48"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 207307,
+  "handle": "SKIPVETDIGITAL",
+  "description": "Skiptvet digital AS",
+  "subnets": {
+    "ipv4": [
+      "91.205.159.0/24"
+    ],
+    "ipv6": [
+      "2a05:b380::/29"
+    ]
+  }
+}

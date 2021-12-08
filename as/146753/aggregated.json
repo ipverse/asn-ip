@@ -1,0 +1,13 @@
+{
+  "asn": 146753,
+  "handle": "KGNET",
+  "description": "kgzxnet",
+  "subnets": {
+    "ipv4": [
+      "103.169.202.0/23"
+    ],
+    "ipv6": [
+      "2407:a640::/32"
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "asn": 54316,
+  "handle": "AP-FOUNDATION",
+  "description": "AP GP, LLC",
+  "subnets": {
+    "ipv4": [
+      "23.175.208.0/24",
+      "204.137.12.0/24"
+    ],
+    "ipv6": [
+      "2602:fcad:1::/48",
+      "2602:fcad:2::/48"
+    ]
+  }
+}

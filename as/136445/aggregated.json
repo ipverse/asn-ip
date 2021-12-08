@@ -1,0 +1,12 @@
+{
+  "asn": 136445,
+  "handle": "A1DOTNET-AP",
+  "description": "A-1 Dot Net",
+  "subnets": {
+    "ipv4": [
+      "103.112.168.0/24",
+      "103.112.170.0/23"
+    ],
+    "ipv6": []
+  }
+}

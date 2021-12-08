@@ -1,0 +1,15 @@
+{
+  "asn": 263444,
+  "handle": "OPEN-X-TECNOLOGIA-LTDA",
+  "description": "Open X Tecnologia Ltda",
+  "subnets": {
+    "ipv4": [
+      "138.36.164.0/23",
+      "138.36.167.0/24",
+      "177.91.160.0/22"
+    ],
+    "ipv6": [
+      "2804:11dc::/32"
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 262808,
+  "handle": "BRASILNET-TELECOMUNICACOES-LTDA",
+  "description": "Brasilnet Telecomunicações Ltda ME",
+  "subnets": {
+    "ipv4": [
+      "177.37.112.0/20",
+      "177.75.32.0/21",
+      "189.90.112.0/20",
+      "191.253.208.0/20"
+    ],
+    "ipv6": [
+      "2804:1368::/32"
+    ]
+  }
+}

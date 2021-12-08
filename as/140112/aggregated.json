@@ -1,0 +1,12 @@
+{
+  "asn": 140112,
+  "handle": "COMMONBE-IN",
+  "description": "Commonbee Broadband Pvt Ltd",
+  "subnets": {
+    "ipv4": [
+      "103.82.191.0/24",
+      "103.149.160.0/23"
+    ],
+    "ipv6": []
+  }
+}

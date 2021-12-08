@@ -1,0 +1,13 @@
+{
+  "asn": 41507,
+  "handle": "IGT-SPORTSBETTING-SERBIA",
+  "description": "IGT Global Services Limited",
+  "subnets": {
+    "ipv4": [
+      "80.240.144.0/20",
+      "176.122.208.0/23",
+      "192.54.54.0/23"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 263511,
+  "handle": "VIEIRA-ARTS-LTDA-ME",
+  "description": "Vieira Arts Ltda ME",
+  "subnets": {
+    "ipv4": [
+      "191.243.196.0/22",
+      "200.150.192.0/20"
+    ],
+    "ipv6": [
+      "2804:1308::/48"
+    ]
+  }
+}

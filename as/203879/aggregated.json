@@ -1,0 +1,11 @@
+{
+  "asn": 203879,
+  "handle": "ZAPADBANKA",
+  "description": "Zapad banka akcionarsko drustvo - Podgorica",
+  "subnets": {
+    "ipv4": [
+      "81.18.48.0/24"
+    ],
+    "ipv6": []
+  }
+}

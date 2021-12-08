@@ -1,0 +1,13 @@
+{
+  "asn": 210718,
+  "handle": "FIVE-CYBER-HOST-SECURITY",
+  "description": "FIVE CYBER HOST SECURITY S.R.L.",
+  "subnets": {
+    "ipv4": [
+      "193.105.177.0/24"
+    ],
+    "ipv6": [
+      "2a0b:b87:ff12::/48"
+    ]
+  }
+}

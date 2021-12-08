@@ -1,0 +1,11 @@
+{
+  "asn": 148794,
+  "handle": "NSNETCONNECTION-AP",
+  "description": "NS NET CONNECTION",
+  "subnets": {
+    "ipv4": [
+      "103.174.224.0/24"
+    ],
+    "ipv6": []
+  }
+}

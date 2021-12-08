@@ -1,0 +1,12 @@
+{
+  "asn": 62870,
+  "handle": "PMG",
+  "description": "Princeton Medical Group",
+  "subnets": {
+    "ipv4": [
+      "50.201.53.0/24",
+      "192.48.140.0/24"
+    ],
+    "ipv6": []
+  }
+}

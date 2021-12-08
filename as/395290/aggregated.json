@@ -1,0 +1,13 @@
+{
+  "asn": 395290,
+  "handle": "PORTOFPORTLAND",
+  "description": "Port of Portland",
+  "subnets": {
+    "ipv4": [
+      "8.45.163.0/24",
+      "65.158.186.0/24",
+      "216.176.47.0/24"
+    ],
+    "ipv6": []
+  }
+}

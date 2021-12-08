@@ -1,0 +1,13 @@
+{
+  "asn": 52458,
+  "handle": "WISP-INTERNET-ECUADOR",
+  "description": "WISP INTERNET ECUADOR",
+  "subnets": {
+    "ipv4": [
+      "179.60.244.0/22"
+    ],
+    "ipv6": [
+      "2803:480::/32"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asn": 59207,
+  "handle": "MAN-INVESTMENTS-SYD",
+  "description": "Man Investments",
+  "subnets": {
+    "ipv4": [
+      "103.243.18.0/24"
+    ],
+    "ipv6": []
+  }
+}

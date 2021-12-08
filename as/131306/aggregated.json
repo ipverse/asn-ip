@@ -1,0 +1,12 @@
+{
+  "asn": 131306,
+  "handle": "CCI-AP",
+  "description": "CITI Cableworld Inc.",
+  "subnets": {
+    "ipv4": [
+      "103.69.108.0/24",
+      "103.152.9.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asn": 137235,
+  "handle": "KMS-AP",
+  "description": "Kami Mobile Services",
+  "subnets": {
+    "ipv4": [
+      "192.228.110.0/24"
+    ],
+    "ipv6": []
+  }
+}

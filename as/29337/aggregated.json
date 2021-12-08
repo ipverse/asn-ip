@@ -1,0 +1,12 @@
+{
+  "asn": 29337,
+  "handle": "DRAGONET",
+  "description": "Dragonet Comunicaciones SL",
+  "subnets": {
+    "ipv4": [
+      "185.140.188.0/22",
+      "217.70.240.0/20"
+    ],
+    "ipv6": []
+  }
+}

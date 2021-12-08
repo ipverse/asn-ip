@@ -1,0 +1,14 @@
+{
+  "asn": 397546,
+  "handle": "GAMERS-OUTREACH",
+  "description": "Gamers Outreach",
+  "subnets": {
+    "ipv4": [
+      "162.249.187.0/24",
+      "192.122.199.0/24"
+    ],
+    "ipv6": [
+      "2602:fde1:187::/48"
+    ]
+  }
+}

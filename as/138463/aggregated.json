@@ -1,0 +1,11 @@
+{
+  "asn": 138463,
+  "handle": "IBSPL-AP",
+  "description": "Interactive Brokers Singapore Pte. Ltd",
+  "subnets": {
+    "ipv4": [
+      "103.6.65.0/24"
+    ],
+    "ipv6": []
+  }
+}

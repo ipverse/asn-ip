@@ -1,0 +1,12 @@
+{
+  "asn": 269762,
+  "handle": "URUNET-SRL",
+  "description": "Urunet SRL",
+  "subnets": {
+    "ipv4": [
+      "45.181.164.0/23",
+      "45.181.167.0/24"
+    ],
+    "ipv6": []
+  }
+}

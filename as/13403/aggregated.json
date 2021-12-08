@@ -1,0 +1,11 @@
+{
+  "asn": 13403,
+  "handle": "ALAWEB-INTERNET",
+  "description": "ALAWEB Internet Services",
+  "subnets": {
+    "ipv4": [
+      "216.108.217.0/24"
+    ],
+    "ipv6": []
+  }
+}

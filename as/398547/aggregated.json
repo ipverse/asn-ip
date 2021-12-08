@@ -1,0 +1,13 @@
+{
+  "asn": 398547,
+  "handle": "CAPIZMO",
+  "description": "Capizmo, LLC",
+  "subnets": {
+    "ipv4": [
+      "162.142.77.0/24"
+    ],
+    "ipv6": [
+      "2602:fd36::/36"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 264588,
+  "handle": "SKILLNET-TELECOM-CE",
+  "description": "SKILLNET TELECOM - CE",
+  "subnets": {
+    "ipv4": [
+      "138.36.224.0/22"
+    ],
+    "ipv6": [
+      "2804:220c::/32"
+    ]
+  }
+}

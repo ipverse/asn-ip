@@ -1,0 +1,14 @@
+{
+  "asn": 45725,
+  "handle": "KINGS-ID",
+  "description": "Kings Network Indonesia, PT",
+  "subnets": {
+    "ipv4": [
+      "43.230.155.0/24",
+      "103.245.136.0/23",
+      "180.211.88.0/21",
+      "202.150.160.0/20"
+    ],
+    "ipv6": []
+  }
+}

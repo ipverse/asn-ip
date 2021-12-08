@@ -1,0 +1,13 @@
+{
+  "asn": 265288,
+  "handle": "FG-TELECOM",
+  "description": "FG TELECOM",
+  "subnets": {
+    "ipv4": [
+      "168.90.164.0/22"
+    ],
+    "ipv6": [
+      "2804:2d88::/32"
+    ]
+  }
+}

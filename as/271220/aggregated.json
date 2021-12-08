@@ -1,0 +1,13 @@
+{
+  "asn": 271220,
+  "handle": "CLICK-INTERNET-LTDA-ME",
+  "description": "CLICK INTERNET LTDA ME",
+  "subnets": {
+    "ipv4": [
+      "179.49.244.0/22"
+    ],
+    "ipv6": [
+      "2804:7818::/32"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asn": 25609,
+  "handle": "DMC",
+  "description": "Detroit Medical Center",
+  "subnets": {
+    "ipv4": [
+      "155.139.0.0/16"
+    ],
+    "ipv6": []
+  }
+}

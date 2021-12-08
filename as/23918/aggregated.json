@@ -1,0 +1,14 @@
+{
+  "asn": 23918,
+  "handle": "NTTIP-AP",
+  "description": "NTT Australia Pty Ltd",
+  "subnets": {
+    "ipv4": [
+      "153.254.94.0/23",
+      "202.9.112.0/22"
+    ],
+    "ipv6": [
+      "2402:f00::/32"
+    ]
+  }
+}

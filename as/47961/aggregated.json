@@ -1,0 +1,12 @@
+{
+  "asn": 47961,
+  "handle": "SATLINK",
+  "description": "SATLINK COMMUNICATIONS LTD",
+  "subnets": {
+    "ipv4": [
+      "91.207.35.0/24",
+      "216.220.198.0/24"
+    ],
+    "ipv6": []
+  }
+}

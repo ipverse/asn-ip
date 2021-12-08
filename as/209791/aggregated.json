@@ -1,0 +1,12 @@
+{
+  "asn": 209791,
+  "handle": "AREAWIFI",
+  "description": "AREA WIFI TELECOM, S.L.",
+  "subnets": {
+    "ipv4": [
+      "77.224.16.0/24",
+      "93.175.240.0/22"
+    ],
+    "ipv6": []
+  }
+}

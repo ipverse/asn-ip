@@ -1,0 +1,13 @@
+{
+  "asn": 262507,
+  "handle": "GLOBAL-OSI-BRASIL",
+  "description": "Global Osi Brasil Telecomunicações e Conectividade",
+  "subnets": {
+    "ipv4": [
+      "177.55.160.0/20"
+    ],
+    "ipv6": [
+      "2804:54c::/32"
+    ]
+  }
+}

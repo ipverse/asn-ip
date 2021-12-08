@@ -1,0 +1,13 @@
+{
+  "asn": 262624,
+  "handle": "INETSAFE-COMERCIO-DE",
+  "description": "INETSAFE COMERCIO DE EQUIPAMENTOS ELETRONICOS LTDA",
+  "subnets": {
+    "ipv4": [
+      "177.104.16.0/20"
+    ],
+    "ipv6": [
+      "2804:734::/32"
+    ]
+  }
+}

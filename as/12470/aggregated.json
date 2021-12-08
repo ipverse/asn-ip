@@ -1,0 +1,14 @@
+{
+  "asn": 12470,
+  "handle": "GLOBE-DEVELOPMENT-GMBH",
+  "description": "Globe Development GmbH",
+  "subnets": {
+    "ipv4": [
+      "194.59.213.0/24",
+      "212.124.32.0/19"
+    ],
+    "ipv6": [
+      "2a00:1050::/32"
+    ]
+  }
+}

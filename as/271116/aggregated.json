@@ -1,0 +1,13 @@
+{
+  "asn": 271116,
+  "handle": "DTS-TELECOMUNICACOES",
+  "description": "DTS TELECOMUNICAÇÕES",
+  "subnets": {
+    "ipv4": [
+      "179.48.76.0/22"
+    ],
+    "ipv6": [
+      "2804:7680::/32"
+    ]
+  }
+}

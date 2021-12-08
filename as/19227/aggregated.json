@@ -1,0 +1,11 @@
+{
+  "asn": 19227,
+  "handle": "VALNET",
+  "description": "Terra World, Inc.",
+  "subnets": {
+    "ipv4": [
+      "64.254.32.0/19"
+    ],
+    "ipv6": []
+  }
+}

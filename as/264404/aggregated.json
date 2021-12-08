@@ -1,0 +1,15 @@
+{
+  "asn": 264404,
+  "handle": "NETGOOL-TELECOMUNICACOES",
+  "description": "NETGOOL TELECOMUNICACOES",
+  "subnets": {
+    "ipv4": [
+      "131.161.228.0/22",
+      "138.255.16.0/22",
+      "170.82.140.0/22"
+    ],
+    "ipv6": [
+      "2804:1df8::/32"
+    ]
+  }
+}

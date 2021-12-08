@@ -1,0 +1,14 @@
+{
+  "asn": 394828,
+  "handle": "VALTECH-COMMUNICATIONS",
+  "description": "ValTech Communications, LLC",
+  "subnets": {
+    "ipv4": [
+      "50.58.108.0/22",
+      "50.58.112.0/23",
+      "50.59.146.0/23",
+      "174.47.192.0/24"
+    ],
+    "ipv6": []
+  }
+}

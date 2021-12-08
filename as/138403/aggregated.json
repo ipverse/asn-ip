@@ -1,0 +1,11 @@
+{
+  "asn": 138403,
+  "handle": "BISMILLAENTERPRISE-AP",
+  "description": "Bismilla Enterprise",
+  "subnets": {
+    "ipv4": [
+      "103.124.180.0/22"
+    ],
+    "ipv6": []
+  }
+}

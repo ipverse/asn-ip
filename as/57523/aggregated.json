@@ -1,0 +1,13 @@
+{
+  "asn": 57523,
+  "handle": "CHANGWAY",
+  "description": "Chang Way Technologies Co. Limited",
+  "subnets": {
+    "ipv4": [
+      "92.255.57.0/24",
+      "92.255.85.0/24",
+      "185.7.214.0/24"
+    ],
+    "ipv6": []
+  }
+}

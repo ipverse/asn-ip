@@ -1,0 +1,13 @@
+{
+  "asn": 210238,
+  "handle": "DIEFFEITALIA",
+  "description": "Dieffeitalia.it S.r.l.",
+  "subnets": {
+    "ipv4": [
+      "81.22.224.0/22",
+      "185.132.228.0/22",
+      "195.81.66.0/24"
+    ],
+    "ipv6": []
+  }
+}

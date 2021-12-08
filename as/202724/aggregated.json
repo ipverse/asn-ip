@@ -1,0 +1,14 @@
+{
+  "asn": 202724,
+  "handle": "WIFIBLASTER",
+  "description": "WIFIBLASTER SL",
+  "subnets": {
+    "ipv4": [
+      "152.89.32.0/22",
+      "185.156.100.0/22"
+    ],
+    "ipv6": [
+      "2a0d:4f40::/32"
+    ]
+  }
+}

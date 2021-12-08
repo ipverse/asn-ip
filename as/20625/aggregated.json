@@ -1,0 +1,15 @@
+{
+  "asn": 20625,
+  "handle": "HELSINGENET",
+  "description": "Bollnas energi AB",
+  "subnets": {
+    "ipv4": [
+      "62.108.192.0/19",
+      "185.197.92.0/22",
+      "194.14.103.0/24"
+    ],
+    "ipv6": [
+      "2a02:ae8::/29"
+    ]
+  }
+}

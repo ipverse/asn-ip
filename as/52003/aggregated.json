@@ -1,0 +1,13 @@
+{
+  "asn": 52003,
+  "handle": "WICOM-UA",
+  "description": "PP WiCom",
+  "subnets": {
+    "ipv4": [
+      "91.221.178.0/23"
+    ],
+    "ipv6": [
+      "2001:678:374::/48"
+    ]
+  }
+}

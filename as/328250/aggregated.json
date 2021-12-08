@@ -1,0 +1,13 @@
+{
+  "asn": 328250,
+  "handle": "GOLIS-TELECOM",
+  "description": "Golis Telecom Somalia",
+  "subnets": {
+    "ipv4": [
+      "41.223.108.0/23",
+      "41.223.111.0/24",
+      "102.220.40.0/23"
+    ],
+    "ipv6": []
+  }
+}

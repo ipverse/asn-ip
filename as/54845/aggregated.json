@@ -1,0 +1,13 @@
+{
+  "asn": 54845,
+  "handle": "PHX-DATACENTER",
+  "description": "Crexendo Business Solutions, Inc.",
+  "subnets": {
+    "ipv4": [
+      "68.106.64.0/24",
+      "184.178.213.0/24",
+      "207.45.76.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 264359,
+  "handle": "START-TELECOMUNICACOES-EIRELI",
+  "description": "Start Telecomunicações EIRELI",
+  "subnets": {
+    "ipv4": [
+      "131.161.24.0/22",
+      "168.0.192.0/22"
+    ],
+    "ipv6": [
+      "2804:1d4c::/32"
+    ]
+  }
+}

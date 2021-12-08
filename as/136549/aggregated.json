@@ -1,0 +1,11 @@
+{
+  "asn": 136549,
+  "handle": "NET-AP",
+  "description": "NetStrategy Pty Ltd",
+  "subnets": {
+    "ipv4": [
+      "103.92.95.0/24"
+    ],
+    "ipv6": []
+  }
+}

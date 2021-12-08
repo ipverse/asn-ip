@@ -1,0 +1,14 @@
+{
+  "asn": 210531,
+  "handle": "STALLION",
+  "description": "STALLION NETWORK SERVICES LIMITED",
+  "subnets": {
+    "ipv4": [
+      "45.148.146.0/23",
+      "102.129.200.0/24",
+      "102.165.51.0/24",
+      "185.217.136.0/23"
+    ],
+    "ipv6": []
+  }
+}

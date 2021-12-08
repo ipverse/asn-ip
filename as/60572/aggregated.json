@@ -1,0 +1,12 @@
+{
+  "asn": 60572,
+  "handle": "ZENEXITY",
+  "description": "Fabernovel SAS",
+  "subnets": {
+    "ipv4": [
+      "37.60.8.0/21",
+      "91.209.78.0/24"
+    ],
+    "ipv6": []
+  }
+}

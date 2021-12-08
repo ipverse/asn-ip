@@ -1,0 +1,11 @@
+{
+  "asn": 132424,
+  "handle": "BRAMBLESLIMITED-AP",
+  "description": "Brambles Limited",
+  "subnets": {
+    "ipv4": [
+      "103.72.210.0/24"
+    ],
+    "ipv6": []
+  }
+}

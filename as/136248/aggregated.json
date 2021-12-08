@@ -1,0 +1,11 @@
+{
+  "asn": 136248,
+  "handle": "FASTNETBD-AP",
+  "description": "FAST NET BD",
+  "subnets": {
+    "ipv4": [
+      "103.84.252.0/22"
+    ],
+    "ipv6": []
+  }
+}

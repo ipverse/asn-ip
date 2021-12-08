@@ -1,0 +1,12 @@
+{
+  "asn": 399458,
+  "handle": "COMARCH-NET-US-1",
+  "description": "Comarch Inc",
+  "subnets": {
+    "ipv4": [
+      "45.42.152.0/24",
+      "45.42.155.0/24"
+    ],
+    "ipv6": []
+  }
+}

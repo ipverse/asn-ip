@@ -1,0 +1,11 @@
+{
+  "asn": 62207,
+  "handle": "U1HOLDING",
+  "description": "JSC U1 Group",
+  "subnets": {
+    "ipv4": [
+      "141.101.238.0/24"
+    ],
+    "ipv6": []
+  }
+}

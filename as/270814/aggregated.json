@@ -1,0 +1,15 @@
+{
+  "asn": 270814,
+  "handle": "ZAAZ-PROVEDOR-DE",
+  "description": "ZAAZ PROVEDOR DE INTERNET E TELECOMUNICACOES LTDA",
+  "subnets": {
+    "ipv4": [
+      "45.6.32.0/22",
+      "190.123.8.0/23",
+      "191.52.216.0/22"
+    ],
+    "ipv6": [
+      "2804:71d4::/32"
+    ]
+  }
+}

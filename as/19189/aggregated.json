@@ -1,0 +1,13 @@
+{
+  "asn": 19189,
+  "handle": "PULSEPOINT",
+  "description": "Pulsepoint Inc",
+  "subnets": {
+    "ipv4": [
+      "74.214.193.0/24",
+      "74.214.196.0/23",
+      "198.148.26.0/23"
+    ],
+    "ipv6": []
+  }
+}

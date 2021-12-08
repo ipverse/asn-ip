@@ -1,0 +1,13 @@
+{
+  "asn": 270718,
+  "handle": "ACSNET-TELECOM",
+  "description": "ACSNET TELECOM",
+  "subnets": {
+    "ipv4": [
+      "189.90.224.0/22"
+    ],
+    "ipv6": [
+      "2804:704c::/32"
+    ]
+  }
+}

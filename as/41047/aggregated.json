@@ -1,0 +1,14 @@
+{
+  "asn": 41047,
+  "handle": "NL-MLAB",
+  "description": "Bart Vrancken trading as MLaB",
+  "subnets": {
+    "ipv4": [
+      "45.137.184.0/22"
+    ],
+    "ipv6": [
+      "2a0e:a6c1::/32",
+      "2a0e:a6c2::/31"
+    ]
+  }
+}

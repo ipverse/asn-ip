@@ -1,0 +1,11 @@
+{
+  "asn": 43213,
+  "handle": "EKT-IX-RS",
+  "description": "Joint-stock company Internet Exchange MSK-IX",
+  "subnets": {
+    "ipv4": [
+      "195.209.6.0/24"
+    ],
+    "ipv6": []
+  }
+}

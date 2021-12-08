@@ -1,0 +1,11 @@
+{
+  "asn": 7535,
+  "handle": "TISNET",
+  "description": "TISNET Technology Inc.",
+  "subnets": {
+    "ipv4": [
+      "139.223.0.0/16"
+    ],
+    "ipv6": []
+  }
+}

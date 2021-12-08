@@ -1,0 +1,15 @@
+{
+  "asn": 262659,
+  "handle": "ULTRAWAVE-TELECOM",
+  "description": "ULTRAWAVE TELECOM",
+  "subnets": {
+    "ipv4": [
+      "179.127.48.0/20",
+      "187.85.0.0/19",
+      "200.52.16.0/20"
+    ],
+    "ipv6": [
+      "2804:58::/32"
+    ]
+  }
+}

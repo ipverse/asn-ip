@@ -1,0 +1,13 @@
+{
+  "asn": 206155,
+  "handle": "EMERIAUD-NET",
+  "description": "PIERRE EMERIAUD",
+  "subnets": {
+    "ipv4": [
+      "44.151.210.0/24"
+    ],
+    "ipv6": [
+      "2001:678:3cc::/48"
+    ]
+  }
+}

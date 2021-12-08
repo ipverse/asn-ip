@@ -1,0 +1,12 @@
+{
+  "asn": 35918,
+  "handle": "FCE",
+  "description": "Forest City Enterprises, Inc.",
+  "subnets": {
+    "ipv4": [
+      "204.77.16.0/21",
+      "204.77.24.0/24"
+    ],
+    "ipv6": []
+  }
+}

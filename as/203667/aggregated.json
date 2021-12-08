@@ -1,0 +1,14 @@
+{
+  "asn": 203667,
+  "handle": "ZIPNET",
+  "description": "Piotr Gadomski trading as PC Service Piotr Gadomski, Bartosz Gadomski S.C.",
+  "subnets": {
+    "ipv4": [
+      "155.133.40.0/21",
+      "185.233.72.0/22",
+      "193.141.121.0/24",
+      "193.141.177.0/24"
+    ],
+    "ipv6": []
+  }
+}

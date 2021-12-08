@@ -1,0 +1,11 @@
+{
+  "asn": 142329,
+  "handle": "IDNIC-UPR-ID",
+  "description": "Universitas Palangkaraya",
+  "subnets": {
+    "ipv4": [
+      "103.168.21.0/24"
+    ],
+    "ipv6": []
+  }
+}

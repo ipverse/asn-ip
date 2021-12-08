@@ -1,0 +1,13 @@
+{
+  "asn": 268926,
+  "handle": "JACTOS-INTERNET",
+  "description": "JACTOS INTERNET",
+  "subnets": {
+    "ipv4": [
+      "45.176.16.0/22"
+    ],
+    "ipv6": [
+      "2804:5cb8::/32"
+    ]
+  }
+}

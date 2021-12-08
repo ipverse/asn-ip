@@ -1,0 +1,13 @@
+{
+  "asn": 268168,
+  "handle": "FAST-PROVEDOR-NET",
+  "description": "FAST PROVEDOR NET TELECOM LTDA",
+  "subnets": {
+    "ipv4": [
+      "45.170.160.0/22"
+    ],
+    "ipv6": [
+      "2804:5914::/32"
+    ]
+  }
+}

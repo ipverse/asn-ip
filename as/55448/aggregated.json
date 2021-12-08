@@ -1,0 +1,12 @@
+{
+  "asn": 55448,
+  "handle": "GLOBALLOGIC-IN",
+  "description": "GlobalLogic India Ltd.",
+  "subnets": {
+    "ipv4": [
+      "27.50.4.0/23",
+      "202.52.56.0/23"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asn": 135688,
+  "handle": "BESTIN-IN",
+  "description": "Best IT Centre",
+  "subnets": {
+    "ipv4": [
+      "103.66.4.0/22"
+    ],
+    "ipv6": []
+  }
+}

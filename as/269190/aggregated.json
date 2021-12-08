@@ -1,0 +1,13 @@
+{
+  "asn": 269190,
+  "handle": "APACOM-INTERNET",
+  "description": "apa.com internet",
+  "subnets": {
+    "ipv4": [
+      "45.181.180.0/22"
+    ],
+    "ipv6": [
+      "2804:60c8::/32"
+    ]
+  }
+}

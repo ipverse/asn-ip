@@ -1,0 +1,13 @@
+{
+  "asn": 264393,
+  "handle": "NETBRASIL-TELECOM-LTDA",
+  "description": "NetBrasil Telecom LTDA",
+  "subnets": {
+    "ipv4": [
+      "131.161.216.0/22"
+    ],
+    "ipv6": [
+      "2804:1dc8::/32"
+    ]
+  }
+}

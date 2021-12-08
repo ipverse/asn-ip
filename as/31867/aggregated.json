@@ -1,0 +1,11 @@
+{
+  "asn": 31867,
+  "handle": "SCHWARTZNET-BNA",
+  "description": "Schwartz Networks Limited Liability Company",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2604:7c40::/38"
+    ]
+  }
+}

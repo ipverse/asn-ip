@@ -1,0 +1,11 @@
+{
+  "asn": 141679,
+  "handle": "CHINATELECOM-IDC-BTHBD-AP",
+  "description": "China Telecom",
+  "subnets": {
+    "ipv4": [
+      "106.63.0.0/17"
+    ],
+    "ipv6": []
+  }
+}

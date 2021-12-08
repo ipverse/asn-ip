@@ -1,0 +1,13 @@
+{
+  "asn": 44386,
+  "handle": "OZON",
+  "description": "LLC Internet Solutions",
+  "subnets": {
+    "ipv4": [
+      "91.223.93.0/24",
+      "185.73.192.0/22",
+      "195.34.20.0/23"
+    ],
+    "ipv6": []
+  }
+}

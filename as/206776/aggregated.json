@@ -1,0 +1,13 @@
+{
+  "asn": 206776,
+  "handle": "INTERDEX-NETWORK",
+  "description": "Ophidian Network Limited",
+  "subnets": {
+    "ipv4": [
+      "45.89.244.0/23",
+      "45.141.158.0/23",
+      "87.120.36.0/24"
+    ],
+    "ipv6": []
+  }
+}

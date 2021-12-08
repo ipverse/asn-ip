@@ -1,0 +1,13 @@
+{
+  "asn": 48083,
+  "handle": "GETRONICSUK",
+  "description": "Getronics Services UK Limited",
+  "subnets": {
+    "ipv4": [
+      "94.127.96.0/21",
+      "193.53.99.0/24",
+      "193.53.100.0/24"
+    ],
+    "ipv6": []
+  }
+}

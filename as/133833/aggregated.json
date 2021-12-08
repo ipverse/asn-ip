@@ -1,0 +1,11 @@
+{
+  "asn": 133833,
+  "handle": "IDNIC-UOB-ID",
+  "description": "Bank UOB Indonesia",
+  "subnets": {
+    "ipv4": [
+      "180.233.154.0/24"
+    ],
+    "ipv6": []
+  }
+}

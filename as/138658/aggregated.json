@@ -1,0 +1,11 @@
+{
+  "asn": 138658,
+  "handle": "ICOMMUNICATION-AP",
+  "description": "I Communication",
+  "subnets": {
+    "ipv4": [
+      "103.135.208.0/22"
+    ],
+    "ipv6": []
+  }
+}

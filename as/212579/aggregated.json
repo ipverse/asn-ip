@@ -1,0 +1,12 @@
+{
+  "asn": 212579,
+  "handle": "IPEXIA",
+  "description": "IPEXIA SAS",
+  "subnets": {
+    "ipv4": [
+      "185.19.224.0/22",
+      "185.243.16.0/22"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 139688,
+  "handle": "TICTIMORIP",
+  "description": "TIC TIMOR I.P.",
+  "subnets": {
+    "ipv4": [
+      "103.143.164.0/23"
+    ],
+    "ipv6": [
+      "2407:f2c0::/32"
+    ]
+  }
+}

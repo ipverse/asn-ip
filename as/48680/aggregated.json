@@ -1,0 +1,12 @@
+{
+  "asn": 48680,
+  "handle": "COMPITEX",
+  "description": "COMPITEX Ltd",
+  "subnets": {
+    "ipv4": [
+      "94.100.3.0/24",
+      "176.103.176.0/22"
+    ],
+    "ipv6": []
+  }
+}

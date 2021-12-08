@@ -1,0 +1,11 @@
+{
+  "asn": 200282,
+  "handle": "WEINANDNET",
+  "description": "WeinandNet UG (haftungsbeschraenkt)",
+  "subnets": {
+    "ipv4": [
+      "193.46.243.0/24"
+    ],
+    "ipv6": []
+  }
+}

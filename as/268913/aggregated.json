@@ -1,0 +1,13 @@
+{
+  "asn": 268913,
+  "handle": "ARANET-TELECOM-E-CIA-LTDA",
+  "description": "aranet telecom e cia Ltda",
+  "subnets": {
+    "ipv4": [
+      "45.175.228.0/22"
+    ],
+    "ipv6": [
+      "2804:5c84::/32"
+    ]
+  }
+}

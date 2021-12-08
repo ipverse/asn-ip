@@ -1,0 +1,13 @@
+{
+  "asn": 268354,
+  "handle": "ALPHA-CONECTA-LTDA",
+  "description": "Alpha Conecta Ltda.",
+  "subnets": {
+    "ipv4": [
+      "45.239.56.0/22"
+    ],
+    "ipv6": [
+      "2804:4fdc::/32"
+    ]
+  }
+}

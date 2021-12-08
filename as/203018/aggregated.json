@@ -1,0 +1,14 @@
+{
+  "asn": 203018,
+  "handle": "PAMICO",
+  "description": "PAMICO CZECH, s.r.o.",
+  "subnets": {
+    "ipv4": [
+      "85.132.128.0/21",
+      "185.147.248.0/22"
+    ],
+    "ipv6": [
+      "2a07:58c0::/29"
+    ]
+  }
+}

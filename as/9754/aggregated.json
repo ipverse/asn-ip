@@ -1,0 +1,13 @@
+{
+  "asn": 9754,
+  "handle": "CSU-KR",
+  "description": "CHOSUN UNIVERSITY",
+  "subnets": {
+    "ipv4": [
+      "117.16.0.0/19",
+      "203.237.96.0/19",
+      "220.67.192.0/19"
+    ],
+    "ipv6": []
+  }
+}

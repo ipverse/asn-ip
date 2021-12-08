@@ -1,0 +1,14 @@
+{
+  "asn": 141253,
+  "handle": "MUFT-IN",
+  "description": "Hyosec Solutions Private Limited",
+  "subnets": {
+    "ipv4": [
+      "103.145.172.0/24",
+      "103.158.181.0/24",
+      "103.161.3.0/24",
+      "103.169.53.0/24"
+    ],
+    "ipv6": []
+  }
+}

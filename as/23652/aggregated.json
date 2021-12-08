@@ -1,0 +1,11 @@
+{
+  "asn": 23652,
+  "handle": "XLR8-TRANSIT1",
+  "description": "TPG Internet Pty Ltd",
+  "subnets": {
+    "ipv4": [
+      "203.16.25.0/24"
+    ],
+    "ipv6": []
+  }
+}

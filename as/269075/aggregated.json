@@ -1,0 +1,13 @@
+{
+  "asn": 269075,
+  "handle": "GO-NET-TELECOM",
+  "description": "GO-NET TELECOM",
+  "subnets": {
+    "ipv4": [
+      "45.179.108.0/22"
+    ],
+    "ipv6": [
+      "2804:5f14::/32"
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "asn": 53246,
+  "handle": "CYBER-INFO-PROVEDOR",
+  "description": "Cyber Info Provedor de Acesso LTDA ME",
+  "subnets": {
+    "ipv4": [
+      "170.150.40.0/22",
+      "177.21.96.0/19",
+      "191.242.160.0/20"
+    ],
+    "ipv6": [
+      "2804:358::/32"
+    ]
+  }
+}

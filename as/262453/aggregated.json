@@ -1,0 +1,14 @@
+{
+  "asn": 262453,
+  "handle": "GOLD-INTERNET-LTDA",
+  "description": "GOLD INTERNET LTDA",
+  "subnets": {
+    "ipv4": [
+      "170.247.100.0/22",
+      "177.52.240.0/22"
+    ],
+    "ipv6": [
+      "2804:7b0::/32"
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 24246,
+  "handle": "PNAPHKG001-AP",
+  "description": "Internap Network Services (HK) Co. Ltd.",
+  "subnets": {
+    "ipv4": [
+      "64.74.12.0/23",
+      "119.59.72.0/21",
+      "202.56.8.0/21",
+      "203.190.120.0/21"
+    ],
+    "ipv6": [
+      "2400:f800::/32"
+    ]
+  }
+}

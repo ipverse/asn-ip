@@ -1,0 +1,12 @@
+{
+  "asn": 136804,
+  "handle": "WIRELESSINNOVATION-AP",
+  "description": "Wireless Innovation Pty Ltd",
+  "subnets": {
+    "ipv4": [
+      "103.96.132.0/24",
+      "103.139.38.0/24"
+    ],
+    "ipv6": []
+  }
+}

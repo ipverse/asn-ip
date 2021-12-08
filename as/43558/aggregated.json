@@ -1,0 +1,13 @@
+{
+  "asn": 43558,
+  "handle": "FICORA-FI-ANYCAST",
+  "description": "Finnish Transport and Communications Agency",
+  "subnets": {
+    "ipv4": [
+      "87.239.120.0/24"
+    ],
+    "ipv6": [
+      "2001:678:a0::/48"
+    ]
+  }
+}

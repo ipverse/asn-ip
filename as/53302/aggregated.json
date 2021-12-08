@@ -1,0 +1,13 @@
+{
+  "asn": 53302,
+  "handle": "BALTIMORECOUNTYGOVERNMENT",
+  "description": "Baltimore County Government",
+  "subnets": {
+    "ipv4": [
+      "167.102.138.0/24",
+      "204.145.181.0/24",
+      "207.114.31.0/24"
+    ],
+    "ipv6": []
+  }
+}

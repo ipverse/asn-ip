@@ -1,0 +1,13 @@
+{
+  "asn": 21368,
+  "handle": "PHOENIX-IT",
+  "description": "Phoenix IT SRL",
+  "subnets": {
+    "ipv4": [
+      "45.86.136.0/22",
+      "185.109.252.0/23",
+      "185.109.255.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 198812,
+  "handle": "WHITELAKE",
+  "description": "Whitelake Communications Limited",
+  "subnets": {
+    "ipv4": [
+      "91.239.147.0/24"
+    ],
+    "ipv6": [
+      "2001:67c:1240::/48"
+    ]
+  }
+}

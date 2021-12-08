@@ -1,0 +1,12 @@
+{
+  "asn": 53770,
+  "handle": "IQOR",
+  "description": "iQor US Inc.",
+  "subnets": {
+    "ipv4": [
+      "199.127.146.0/24",
+      "199.127.148.0/23"
+    ],
+    "ipv6": []
+  }
+}

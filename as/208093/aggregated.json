@@ -1,0 +1,11 @@
+{
+  "asn": 208093,
+  "handle": "MSK",
+  "description": "Moravskoslezsky kraj",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a0e:2740::/29"
+    ]
+  }
+}

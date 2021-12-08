@@ -1,0 +1,12 @@
+{
+  "asn": 34340,
+  "handle": "BNT",
+  "description": "Bulgarian National TV",
+  "subnets": {
+    "ipv4": [
+      "193.43.26.0/24",
+      "195.242.106.0/23"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 270259,
+  "handle": "E-MAIER-CAMPOS-ME",
+  "description": "E MAIER CAMPOS ME",
+  "subnets": {
+    "ipv4": [
+      "200.107.220.0/22"
+    ],
+    "ipv6": [
+      "2804:6944::/32"
+    ]
+  }
+}

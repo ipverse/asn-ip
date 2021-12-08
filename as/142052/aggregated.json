@@ -1,0 +1,13 @@
+{
+  "asn": 142052,
+  "handle": "MEMPOOLSPACEKK-AP",
+  "description": "Mempool Space K.K.",
+  "subnets": {
+    "ipv4": [
+      "103.165.192.0/24"
+    ],
+    "ipv6": [
+      "2001:df6:7280::/48"
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 44016,
+  "handle": "XSUSENET",
+  "description": "XS Usenet B.V.",
+  "subnets": {
+    "ipv4": [
+      "193.23.60.0/24"
+    ],
+    "ipv6": [
+      "2a09:8400::/29",
+      "2a0f:75c0:1::/48"
+    ]
+  }
+}

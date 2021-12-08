@@ -1,0 +1,13 @@
+{
+  "asn": 265302,
+  "handle": "SULCATEL-COMERCIO-DE",
+  "description": "SULCATEL COMERCIO DE TELEFONIA LTDA - ME",
+  "subnets": {
+    "ipv4": [
+      "168.121.72.0/22"
+    ],
+    "ipv6": [
+      "2804:2dc4::/32"
+    ]
+  }
+}

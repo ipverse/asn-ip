@@ -1,0 +1,11 @@
+{
+  "asn": 136061,
+  "handle": "IDNIC-BPBATAM-ID",
+  "description": "Badan Pengusahaan Batam",
+  "subnets": {
+    "ipv4": [
+      "103.82.180.0/22"
+    ],
+    "ipv6": []
+  }
+}

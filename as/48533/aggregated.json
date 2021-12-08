@@ -1,0 +1,11 @@
+{
+  "asn": 48533,
+  "handle": "TANHOST-UA",
+  "description": "LLC TANHOST",
+  "subnets": {
+    "ipv4": [
+      "195.211.108.0/22"
+    ],
+    "ipv6": []
+  }
+}

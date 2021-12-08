@@ -1,0 +1,14 @@
+{
+  "asn": 133434,
+  "handle": "SGSPACIFIC-AP",
+  "description": "SGS Pacific Pty Ltd",
+  "subnets": {
+    "ipv4": [
+      "103.172.108.0/24",
+      "103.229.1.0/24"
+    ],
+    "ipv6": [
+      "2407:d0c0::/32"
+    ]
+  }
+}

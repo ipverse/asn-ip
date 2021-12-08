@@ -1,0 +1,11 @@
+{
+  "asn": 51575,
+  "handle": "YURTICI-KARGO-NET",
+  "description": "Yurtici kargo servisi a.s.",
+  "subnets": {
+    "ipv4": [
+      "92.45.66.0/24"
+    ],
+    "ipv6": []
+  }
+}

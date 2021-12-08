@@ -1,0 +1,13 @@
+{
+  "asn": 393242,
+  "handle": "BCLC-1",
+  "description": "British Columbia Lottery Corp",
+  "subnets": {
+    "ipv4": [
+      "198.98.184.0/23",
+      "198.162.226.0/23",
+      "198.162.228.0/23"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asn": 131351,
+  "handle": "OCB-VN",
+  "description": "Orient commercial joint stock bank",
+  "subnets": {
+    "ipv4": [
+      "103.28.136.0/22"
+    ],
+    "ipv6": []
+  }
+}

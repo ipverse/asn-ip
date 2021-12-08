@@ -1,0 +1,12 @@
+{
+  "asn": 54704,
+  "handle": "RCU",
+  "description": "Royal Credit Union",
+  "subnets": {
+    "ipv4": [
+      "160.32.255.0/24",
+      "207.170.18.0/24"
+    ],
+    "ipv6": []
+  }
+}

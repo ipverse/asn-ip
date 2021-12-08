@@ -1,0 +1,11 @@
+{
+  "asn": 135468,
+  "handle": "BNET-ID",
+  "description": "PT. Wahana Internet Nusantara",
+  "subnets": {
+    "ipv4": [
+      "103.73.72.0/22"
+    ],
+    "ipv6": []
+  }
+}

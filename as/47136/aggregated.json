@@ -1,0 +1,11 @@
+{
+  "asn": 47136,
+  "handle": "GGNET",
+  "description": "GSS - Generali Shared Services S.c.a.r.l.",
+  "subnets": {
+    "ipv4": [
+      "92.246.32.0/19"
+    ],
+    "ipv6": []
+  }
+}

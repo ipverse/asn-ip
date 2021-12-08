@@ -1,0 +1,13 @@
+{
+  "asn": 266541,
+  "handle": "ITANET-PROVEDOR-DE-INTERNET",
+  "description": "ItaNet - Provedor de Internet",
+  "subnets": {
+    "ipv4": [
+      "160.238.156.0/22"
+    ],
+    "ipv6": [
+      "2804:3d98::/32"
+    ]
+  }
+}

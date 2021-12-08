@@ -1,0 +1,14 @@
+{
+  "asn": 13121,
+  "handle": "NAVIGATOR",
+  "description": "Navigator Online TOV",
+  "subnets": {
+    "ipv4": [
+      "46.231.224.0/21",
+      "213.169.64.0/19"
+    ],
+    "ipv6": [
+      "2a01:6880::/32"
+    ]
+  }
+}

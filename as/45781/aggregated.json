@@ -1,0 +1,16 @@
+{
+  "asn": 45781,
+  "handle": "TOI-BN",
+  "description": "ADVANCED WIRELESS NETWORK COMPANY LIMITED",
+  "subnets": {
+    "ipv4": [
+      "110.49.201.0/24",
+      "119.31.104.0/22",
+      "119.31.119.0/24"
+    ],
+    "ipv6": [
+      "2001:44c8:2000::/48",
+      "2001:44c8:3100::/40"
+    ]
+  }
+}

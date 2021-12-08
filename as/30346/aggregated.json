@@ -1,0 +1,12 @@
+{
+  "asn": 30346,
+  "handle": "TBD",
+  "description": "Sumitomo Mitsui Banking Corporation",
+  "subnets": {
+    "ipv4": [
+      "216.83.80.0/22",
+      "216.83.94.0/24"
+    ],
+    "ipv6": []
+  }
+}

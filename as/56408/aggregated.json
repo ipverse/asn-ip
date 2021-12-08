@@ -1,0 +1,11 @@
+{
+  "asn": 56408,
+  "handle": "AIRPORT-GDANSK",
+  "description": "Gdansk Airport Sp. z o.o.",
+  "subnets": {
+    "ipv4": [
+      "91.223.130.0/24"
+    ],
+    "ipv6": []
+  }
+}

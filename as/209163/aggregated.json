@@ -1,0 +1,13 @@
+{
+  "asn": 209163,
+  "handle": "AUCHAN-IT",
+  "description": "GIE AUCHAN INTERNATIONAL TECHNOLOGY",
+  "subnets": {
+    "ipv4": [
+      "185.204.162.0/24"
+    ],
+    "ipv6": [
+      "2001:678:a48::/48"
+    ]
+  }
+}

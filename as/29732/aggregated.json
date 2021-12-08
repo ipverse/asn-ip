@@ -1,0 +1,12 @@
+{
+  "asn": 29732,
+  "handle": "CTE-ASN1",
+  "description": "Carolina Tractor and Equipment Company",
+  "subnets": {
+    "ipv4": [
+      "207.110.192.0/20",
+      "207.110.208.0/23"
+    ],
+    "ipv6": []
+  }
+}

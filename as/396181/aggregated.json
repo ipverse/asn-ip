@@ -1,0 +1,13 @@
+{
+  "asn": 396181,
+  "handle": "SOUTHERNLINC-PACKETDATA-ASN2",
+  "description": "SouthernLINC Wireless",
+  "subnets": {
+    "ipv4": [
+      "69.5.250.0/24",
+      "69.5.252.0/24",
+      "69.5.254.0/23"
+    ],
+    "ipv6": []
+  }
+}

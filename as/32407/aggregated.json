@@ -1,0 +1,12 @@
+{
+  "asn": 32407,
+  "handle": "FREEDOM-MORTGAGE",
+  "description": "Freedom Mortgage Corporation",
+  "subnets": {
+    "ipv4": [
+      "50.238.14.0/24",
+      "209.43.25.0/24"
+    ],
+    "ipv6": []
+  }
+}

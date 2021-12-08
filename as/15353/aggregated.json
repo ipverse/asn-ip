@@ -1,0 +1,13 @@
+{
+  "asn": 15353,
+  "handle": "LYONL-NETWORK1",
+  "description": "LyonL",
+  "subnets": {
+    "ipv4": [
+      "23.155.240.0/24"
+    ],
+    "ipv6": [
+      "2605:b540::/32"
+    ]
+  }
+}

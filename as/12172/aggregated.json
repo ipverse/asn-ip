@@ -1,0 +1,12 @@
+{
+  "asn": 12172,
+  "handle": "LAKEMARY-ASN",
+  "description": "FISERV Inc.",
+  "subnets": {
+    "ipv4": [
+      "12.179.188.0/24",
+      "205.160.248.0/24"
+    ],
+    "ipv6": []
+  }
+}

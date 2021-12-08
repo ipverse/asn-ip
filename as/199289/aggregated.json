@@ -1,0 +1,13 @@
+{
+  "asn": 199289,
+  "handle": "KOBALT",
+  "description": "Kobalt ApS",
+  "subnets": {
+    "ipv4": [
+      "185.21.232.0/22"
+    ],
+    "ipv6": [
+      "2a00:5a20::/32"
+    ]
+  }
+}

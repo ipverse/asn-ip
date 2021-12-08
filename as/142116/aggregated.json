@@ -1,0 +1,13 @@
+{
+  "asn": 142116,
+  "handle": "UPLINKMEPTYLTD-AP",
+  "description": "UplinkMe",
+  "subnets": {
+    "ipv4": [
+      "103.166.132.0/23"
+    ],
+    "ipv6": [
+      "2407:56c0::/32"
+    ]
+  }
+}

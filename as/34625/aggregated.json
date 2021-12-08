@@ -1,0 +1,12 @@
+{
+  "asn": 34625,
+  "handle": "OSHS",
+  "description": "OSHS Ltd",
+  "subnets": {
+    "ipv4": [
+      "37.75.238.0/23",
+      "212.119.56.0/22"
+    ],
+    "ipv6": []
+  }
+}

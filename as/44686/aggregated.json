@@ -1,0 +1,12 @@
+{
+  "asn": 44686,
+  "handle": "SETI-KR",
+  "description": "SpaceNet LLC",
+  "subnets": {
+    "ipv4": [
+      "91.202.132.0/22",
+      "91.226.56.0/24"
+    ],
+    "ipv6": []
+  }
+}

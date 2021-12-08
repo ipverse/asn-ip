@@ -1,0 +1,13 @@
+{
+  "asn": 266178,
+  "handle": "C2M-SERVICOS-DE",
+  "description": "C2M SERVICOS DE INFORMATICA E TELECOMUNICACOES",
+  "subnets": {
+    "ipv4": [
+      "192.144.64.0/22"
+    ],
+    "ipv6": [
+      "2804:3be4::/32"
+    ]
+  }
+}

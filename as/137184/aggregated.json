@@ -1,0 +1,12 @@
+{
+  "asn": 137184,
+  "handle": "SUNIWAYTELECOM-AP",
+  "description": "Suniway Group of Companies Inc.",
+  "subnets": {
+    "ipv4": [
+      "103.104.100.0/22",
+      "154.198.4.0/22"
+    ],
+    "ipv6": []
+  }
+}

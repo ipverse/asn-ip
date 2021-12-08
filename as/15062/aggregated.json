@@ -1,0 +1,12 @@
+{
+  "asn": 15062,
+  "handle": "MERIDIAN-BUSINESS-CENTERS",
+  "description": "Meridian Business Centers",
+  "subnets": {
+    "ipv4": [
+      "192.152.203.0/24",
+      "198.61.58.0/23"
+    ],
+    "ipv6": []
+  }
+}

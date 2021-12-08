@@ -1,0 +1,11 @@
+{
+  "asn": 45505,
+  "handle": "T-GLOBAL-AP",
+  "description": "T-Global Pte Ltd",
+  "subnets": {
+    "ipv4": [
+      "113.52.154.0/23"
+    ],
+    "ipv6": []
+  }
+}

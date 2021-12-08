@@ -1,0 +1,14 @@
+{
+  "asn": 52752,
+  "handle": "VEGAS-TELECOM-INFORMATICA",
+  "description": "Vegas Telecom Informática Ltda.",
+  "subnets": {
+    "ipv4": [
+      "177.155.160.0/20",
+      "189.76.64.0/20"
+    ],
+    "ipv6": [
+      "2804:11e8::/32"
+    ]
+  }
+}

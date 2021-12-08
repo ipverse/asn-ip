@@ -1,0 +1,13 @@
+{
+  "asn": 52843,
+  "handle": "MAGNOS-A-BOTH-E-CIA-LTDA",
+  "description": "Magnos A. Both e Cia Ltda",
+  "subnets": {
+    "ipv4": [
+      "177.66.40.0/21"
+    ],
+    "ipv6": [
+      "2804:5800::/32"
+    ]
+  }
+}

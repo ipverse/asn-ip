@@ -1,0 +1,11 @@
+{
+  "asn": 59527,
+  "handle": "ASISPACE",
+  "description": "LLC I-SPACE",
+  "subnets": {
+    "ipv4": [
+      "176.123.224.0/19"
+    ],
+    "ipv6": []
+  }
+}

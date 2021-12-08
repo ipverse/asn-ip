@@ -1,0 +1,11 @@
+{
+  "asn": 196912,
+  "handle": "ACH",
+  "description": "ACH 2 d.o.o.",
+  "subnets": {
+    "ipv4": [
+      "91.216.87.0/24"
+    ],
+    "ipv6": []
+  }
+}

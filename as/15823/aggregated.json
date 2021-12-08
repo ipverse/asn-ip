@@ -1,0 +1,13 @@
+{
+  "asn": 15823,
+  "handle": "RADWARE",
+  "description": "Radware Ltd.",
+  "subnets": {
+    "ipv4": [
+      "192.115.180.0/22"
+    ],
+    "ipv6": [
+      "2001:678:c0c::/48"
+    ]
+  }
+}

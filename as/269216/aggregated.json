@@ -1,0 +1,13 @@
+{
+  "asn": 269216,
+  "handle": "FUNDACAO-VALE-DO",
+  "description": "Fundação Vale do Taquari de Educação e Des. Social",
+  "subnets": {
+    "ipv4": [
+      "45.181.7.0/24"
+    ],
+    "ipv6": [
+      "2801:80:36d0::/48"
+    ]
+  }
+}

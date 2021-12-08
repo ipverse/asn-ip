@@ -1,0 +1,14 @@
+{
+  "asn": 43354,
+  "handle": "ZDF",
+  "description": "ZDF Zweites Deutsches Fernsehen",
+  "subnets": {
+    "ipv4": [
+      "91.197.28.0/22",
+      "194.45.94.0/24"
+    ],
+    "ipv6": [
+      "2001:67c:4d0::/48"
+    ]
+  }
+}

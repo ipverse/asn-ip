@@ -1,0 +1,13 @@
+{
+  "asn": 51410,
+  "handle": "FASTNET-LLC",
+  "description": "Fastnet LLC",
+  "subnets": {
+    "ipv4": [
+      "91.217.137.0/24"
+    ],
+    "ipv6": [
+      "2001:67c:13e4::/48"
+    ]
+  }
+}

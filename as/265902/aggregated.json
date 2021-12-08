@@ -1,0 +1,13 @@
+{
+  "asn": 265902,
+  "handle": "VLZ-TELECOM-EIRELI",
+  "description": "VLZ TELECOM EIRELI",
+  "subnets": {
+    "ipv4": [
+      "128.201.212.0/22"
+    ],
+    "ipv6": [
+      "2804:3f9c::/32"
+    ]
+  }
+}

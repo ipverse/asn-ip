@@ -1,0 +1,11 @@
+{
+  "asn": 2426,
+  "handle": "FR-RENATER-RUBIS",
+  "description": "Renater",
+  "subnets": {
+    "ipv4": [
+      "144.204.0.0/16"
+    ],
+    "ipv6": []
+  }
+}

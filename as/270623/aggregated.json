@@ -1,0 +1,13 @@
+{
+  "asn": 270623,
+  "handle": "DATTAS-INTERNET-EIRELI-ME",
+  "description": "DATTAS INTERNET EIRELI-ME",
+  "subnets": {
+    "ipv4": [
+      "186.237.96.0/22"
+    ],
+    "ipv6": [
+      "2804:6edc::/32"
+    ]
+  }
+}

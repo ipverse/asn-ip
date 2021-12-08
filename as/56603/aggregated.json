@@ -1,0 +1,13 @@
+{
+  "asn": 56603,
+  "handle": "TENTORIUM",
+  "description": "Tentorium LLC",
+  "subnets": {
+    "ipv4": [
+      "192.145.96.0/24"
+    ],
+    "ipv6": [
+      "2a09:6280:1::/48"
+    ]
+  }
+}

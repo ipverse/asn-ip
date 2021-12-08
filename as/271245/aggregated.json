@@ -1,0 +1,13 @@
+{
+  "asn": 271245,
+  "handle": "YAUH-TELECOM-PROVEDORES",
+  "description": "Yauh Telecom Provedores",
+  "subnets": {
+    "ipv4": [
+      "170.247.184.0/22"
+    ],
+    "ipv6": [
+      "2804:787c::/32"
+    ]
+  }
+}

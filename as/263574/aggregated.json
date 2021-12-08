@@ -1,0 +1,14 @@
+{
+  "asn": 263574,
+  "handle": "ETECC-FIBRA-OPTICA",
+  "description": "ETECC FIBRA OPTICA",
+  "subnets": {
+    "ipv4": [
+      "138.94.84.0/22",
+      "177.185.40.0/21"
+    ],
+    "ipv6": [
+      "2804:f44::/32"
+    ]
+  }
+}

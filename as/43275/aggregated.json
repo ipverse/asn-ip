@@ -1,0 +1,12 @@
+{
+  "asn": 43275,
+  "handle": "UNET",
+  "description": "PJSC Vimpelcom",
+  "subnets": {
+    "ipv4": [
+      "77.247.208.0/21",
+      "188.65.240.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 46059,
+  "handle": "UM-ID",
+  "description": "Universitas Negeri Malang",
+  "subnets": {
+    "ipv4": [
+      "103.208.94.0/23",
+      "202.52.137.0/24"
+    ],
+    "ipv6": []
+  }
+}

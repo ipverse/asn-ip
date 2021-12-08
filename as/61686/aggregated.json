@@ -1,0 +1,13 @@
+{
+  "asn": 61686,
+  "handle": "FAST-LINK-TELECOM",
+  "description": "Fast Link Telecom",
+  "subnets": {
+    "ipv4": [
+      "131.100.232.0/22"
+    ],
+    "ipv6": [
+      "2804:1cf8::/32"
+    ]
+  }
+}

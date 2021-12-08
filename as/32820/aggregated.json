@@ -1,0 +1,13 @@
+{
+  "asn": 32820,
+  "handle": "NIPISSING",
+  "description": "Nipissing University",
+  "subnets": {
+    "ipv4": [
+      "192.197.167.0/24",
+      "198.96.76.0/22",
+      "204.187.16.0/20"
+    ],
+    "ipv6": []
+  }
+}

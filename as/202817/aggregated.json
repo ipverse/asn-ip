@@ -1,0 +1,13 @@
+{
+  "asn": 202817,
+  "handle": "GIRONAFIBRA",
+  "description": "Girona Fibra SL",
+  "subnets": {
+    "ipv4": [
+      "185.154.8.0/22"
+    ],
+    "ipv6": [
+      "2a07:8b00::/29"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 27623,
+  "handle": "EDM-PUBLIC-LIBRARY",
+  "description": "Edmonton Public Library",
+  "subnets": {
+    "ipv4": [
+      "198.161.203.0/24"
+    ],
+    "ipv6": [
+      "2620:5c:6000::/48"
+    ]
+  }
+}

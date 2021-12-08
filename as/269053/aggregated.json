@@ -1,0 +1,13 @@
+{
+  "asn": 269053,
+  "handle": "3WACCES-ME",
+  "description": "3WACCES ME",
+  "subnets": {
+    "ipv4": [
+      "45.179.52.0/23"
+    ],
+    "ipv6": [
+      "2804:5ebc::/32"
+    ]
+  }
+}

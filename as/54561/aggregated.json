@@ -1,0 +1,15 @@
+{
+  "asn": 54561,
+  "handle": "SECUREDRAGON",
+  "description": "Secure Dragon LLC.",
+  "subnets": {
+    "ipv4": [
+      "198.57.47.0/24",
+      "199.167.29.0/24",
+      "199.167.30.0/23"
+    ],
+    "ipv6": [
+      "2602:fff6:7::/48"
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 33172,
+  "handle": "MERIDIAN-LEASING-CORPORATION",
+  "description": "Meridian Leasing Corporation",
+  "subnets": {
+    "ipv4": [
+      "12.206.4.0/24",
+      "65.203.86.0/24"
+    ],
+    "ipv6": [
+      "2600:805:808::/48"
+    ]
+  }
+}

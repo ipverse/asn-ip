@@ -1,0 +1,12 @@
+{
+  "asn": 59132,
+  "handle": "IDNIC-BI-ID",
+  "description": "Bank Indonesia",
+  "subnets": {
+    "ipv4": [
+      "103.136.80.0/24",
+      "103.243.178.0/24"
+    ],
+    "ipv6": []
+  }
+}

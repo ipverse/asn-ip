@@ -1,0 +1,13 @@
+{
+  "asn": 268172,
+  "handle": "GOLDEN-FIBRA-PROVEDOR",
+  "description": "Golden Fibra Provedor de Internet",
+  "subnets": {
+    "ipv4": [
+      "45.170.200.0/22"
+    ],
+    "ipv6": [
+      "2804:5928::/32"
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 264648,
+  "handle": "FONDO-ROTATORIO-DEL",
+  "description": "Fondo Rotatorio del Ministerio de Relaciones Exteriores",
+  "subnets": {
+    "ipv4": [
+      "200.10.164.0/24"
+    ],
+    "ipv6": [
+      "2801:170:1::/48",
+      "2801:170:2::/47"
+    ]
+  }
+}

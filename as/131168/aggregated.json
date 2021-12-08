@@ -1,0 +1,12 @@
+{
+  "asn": 131168,
+  "handle": "WINDCAVE-AP",
+  "description": "WINDCAVE LIMITED",
+  "subnets": {
+    "ipv4": [
+      "103.232.204.0/23",
+      "203.207.60.0/23"
+    ],
+    "ipv6": []
+  }
+}

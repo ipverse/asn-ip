@@ -1,0 +1,13 @@
+{
+  "asn": 42300,
+  "handle": "TOPCONNECT",
+  "description": "TOP CONNECT OU",
+  "subnets": {
+    "ipv4": [
+      "77.240.240.0/22",
+      "178.236.200.0/22",
+      "194.15.248.0/22"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 51630,
+  "handle": "OPS",
+  "description": "OPS EURL",
+  "subnets": {
+    "ipv4": [
+      "185.76.192.0/22"
+    ],
+    "ipv6": [
+      "2a05:5c00::/29"
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "asn": 52650,
+  "handle": "JOTA-F-TELECOMUNICACOES",
+  "description": "Jota F. Telecomunicações EIRELI",
+  "subnets": {
+    "ipv4": [
+      "131.221.232.0/22",
+      "170.231.252.0/22",
+      "177.53.104.0/22"
+    ],
+    "ipv6": [
+      "2804:1ef0::/32"
+    ]
+  }
+}

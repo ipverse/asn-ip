@@ -1,0 +1,11 @@
+{
+  "asn": 22222,
+  "handle": "OMAHASTEAKS",
+  "description": "Omaha Steaks",
+  "subnets": {
+    "ipv4": [
+      "199.87.175.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asn": 46971,
+  "handle": "FIBXTERNALIP",
+  "description": "First Interstate Bank",
+  "subnets": {
+    "ipv4": [
+      "74.114.2.0/23"
+    ],
+    "ipv6": []
+  }
+}

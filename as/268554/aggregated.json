@@ -1,0 +1,13 @@
+{
+  "asn": 268554,
+  "handle": "CDM-TELECOM",
+  "description": "CDM TELECOM",
+  "subnets": {
+    "ipv4": [
+      "45.163.64.0/22"
+    ],
+    "ipv6": [
+      "2804:52f8:200::/40"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 57587,
+  "handle": "ASINTEGSETISVYAZI",
+  "description": "ISS Ltd.",
+  "subnets": {
+    "ipv4": [
+      "91.233.42.0/23",
+      "193.16.232.0/24"
+    ],
+    "ipv6": []
+  }
+}

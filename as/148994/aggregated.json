@@ -1,0 +1,12 @@
+{
+  "asn": 148994,
+  "handle": "CNC-AP",
+  "description": "Anpple Tech Enterprise",
+  "subnets": {
+    "ipv4": [
+      "192.142.33.0/24",
+      "192.142.34.0/24"
+    ],
+    "ipv6": []
+  }
+}

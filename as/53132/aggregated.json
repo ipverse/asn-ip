@@ -1,0 +1,15 @@
+{
+  "asn": 53132,
+  "handle": "MEGA-GRUPO-DE",
+  "description": "Mega Grupo de Telecomunicações Ltda",
+  "subnets": {
+    "ipv4": [
+      "177.125.144.0/21",
+      "179.107.112.0/20",
+      "186.192.32.0/20"
+    ],
+    "ipv6": [
+      "2804:1668::/32"
+    ]
+  }
+}

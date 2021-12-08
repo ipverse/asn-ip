@@ -1,0 +1,11 @@
+{
+  "asn": 209099,
+  "handle": "NONSTOP",
+  "description": "Limited Liability Company NonStop",
+  "subnets": {
+    "ipv4": [
+      "92.255.168.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 57197,
+  "handle": "SOYUZTELECOM",
+  "description": "Shaporenko Yuri Nikolaevich",
+  "subnets": {
+    "ipv4": [
+      "93.170.44.0/22",
+      "93.170.90.0/23",
+      "95.47.122.0/23",
+      "146.120.244.0/24"
+    ],
+    "ipv6": []
+  }
+}

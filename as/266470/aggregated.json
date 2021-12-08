@@ -1,0 +1,11 @@
+{
+  "asn": 266470,
+  "handle": "GSM-BAHIA-PROVEDOR",
+  "description": "GSM BAHIA PROVEDOR DE INTERNET LTDA",
+  "subnets": {
+    "ipv4": [
+      "170.83.152.0/22"
+    ],
+    "ipv6": []
+  }
+}

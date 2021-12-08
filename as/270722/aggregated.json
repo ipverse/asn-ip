@@ -1,0 +1,13 @@
+{
+  "asn": 270722,
+  "handle": "CSONET-TELECOM",
+  "description": "CSONET TELECOM",
+  "subnets": {
+    "ipv4": [
+      "187.102.248.0/22"
+    ],
+    "ipv6": [
+      "2804:705c::/32"
+    ]
+  }
+}

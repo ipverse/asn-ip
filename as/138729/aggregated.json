@@ -1,0 +1,11 @@
+{
+  "asn": 138729,
+  "handle": "SPEEDOBI-IN",
+  "description": "Speedobits Internet",
+  "subnets": {
+    "ipv4": [
+      "103.138.232.0/23"
+    ],
+    "ipv6": []
+  }
+}

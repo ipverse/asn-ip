@@ -1,0 +1,13 @@
+{
+  "asn": 27820,
+  "handle": "UNIVERSIDAD-TECNICA-PARTICULAR",
+  "description": "Universidad Tecnica Particular de Loja",
+  "subnets": {
+    "ipv4": [
+      "200.0.28.0/22"
+    ],
+    "ipv6": [
+      "2800:130::/32"
+    ]
+  }
+}

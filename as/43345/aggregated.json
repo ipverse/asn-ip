@@ -1,0 +1,14 @@
+{
+  "asn": 43345,
+  "handle": "PCEXTREME-BE",
+  "description": "PCextreme B.V.",
+  "subnets": {
+    "ipv4": [
+      "62.221.250.0/24",
+      "185.94.228.0/24"
+    ],
+    "ipv6": [
+      "2a05:1500:500::/40"
+    ]
+  }
+}

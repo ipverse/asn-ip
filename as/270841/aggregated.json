@@ -1,0 +1,12 @@
+{
+  "asn": 270841,
+  "handle": "NOVANET-MULTIMIDIA-LTDA-ME",
+  "description": "NOVANET MULTIMIDIA LTDA - ME",
+  "subnets": {
+    "ipv4": [
+      "179.43.12.0/24",
+      "179.43.14.0/23"
+    ],
+    "ipv6": []
+  }
+}

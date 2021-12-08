@@ -1,0 +1,16 @@
+{
+  "asn": 263032,
+  "handle": "EMPIRE-SERVICOS-DE",
+  "description": "EMPIRE SERVICOS DE INTERNET LTDA",
+  "subnets": {
+    "ipv4": [
+      "168.90.44.0/22",
+      "170.238.192.0/22",
+      "177.137.56.0/21",
+      "186.250.36.0/22"
+    ],
+    "ipv6": [
+      "2804:2d24::/32"
+    ]
+  }
+}

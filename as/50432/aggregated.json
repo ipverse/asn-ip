@@ -1,0 +1,12 @@
+{
+  "asn": 50432,
+  "handle": "RBS-GBM-UKSTAFF",
+  "description": "Royal Bank of Scotland plc",
+  "subnets": {
+    "ipv4": [
+      "147.114.44.0/23",
+      "147.114.226.0/24"
+    ],
+    "ipv6": []
+  }
+}

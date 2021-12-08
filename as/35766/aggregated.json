@@ -1,0 +1,12 @@
+{
+  "asn": 35766,
+  "handle": "MABNA-CLOUD",
+  "description": "Mizbani Dadehaye Mabna",
+  "subnets": {
+    "ipv4": [
+      "37.130.205.0/24",
+      "37.130.206.0/23"
+    ],
+    "ipv6": []
+  }
+}

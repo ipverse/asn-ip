@@ -1,0 +1,13 @@
+{
+  "asn": 268158,
+  "handle": "SP-TELECOM-LTDA",
+  "description": "S.P. TELECOM LTDA",
+  "subnets": {
+    "ipv4": [
+      "45.170.112.0/22"
+    ],
+    "ipv6": [
+      "2804:58ec::/32"
+    ]
+  }
+}

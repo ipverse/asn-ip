@@ -1,0 +1,13 @@
+{
+  "asn": 41864,
+  "handle": "ZELOBIT",
+  "description": "ZELOBIT LLC",
+  "subnets": {
+    "ipv4": [
+      "95.214.116.0/22"
+    ],
+    "ipv6": [
+      "2a09:f780:1::/48"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 264214,
+  "handle": "GUAPTEL-NET-TELECOM",
+  "description": "Guaptel-Net Telecom",
+  "subnets": {
+    "ipv4": [
+      "138.59.240.0/22"
+    ],
+    "ipv6": [
+      "2804:2450::/32"
+    ]
+  }
+}

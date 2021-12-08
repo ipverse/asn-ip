@@ -1,0 +1,13 @@
+{
+  "asn": 267200,
+  "handle": "MICROLINK-INFORMATICA",
+  "description": "MICROLINK INFORMATICA",
+  "subnets": {
+    "ipv4": [
+      "45.231.56.0/22"
+    ],
+    "ipv6": [
+      "2804:49bc::/32"
+    ]
+  }
+}

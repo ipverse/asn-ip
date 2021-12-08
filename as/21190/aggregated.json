@@ -1,0 +1,11 @@
+{
+  "asn": 21190,
+  "handle": "ALPIQ",
+  "description": "Alpiq AG",
+  "subnets": {
+    "ipv4": [
+      "194.56.100.0/22"
+    ],
+    "ipv6": []
+  }
+}

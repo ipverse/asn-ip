@@ -1,0 +1,11 @@
+{
+  "asn": 45335,
+  "handle": "IKF-IN-AP",
+  "description": "IKF POWERNET",
+  "subnets": {
+    "ipv4": [
+      "180.87.252.0/24"
+    ],
+    "ipv6": []
+  }
+}

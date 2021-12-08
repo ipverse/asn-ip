@@ -1,0 +1,11 @@
+{
+  "asn": 139066,
+  "handle": "NTTDATA-GDS-AP",
+  "description": "NTT Data Global Delivery Services Limited",
+  "subnets": {
+    "ipv4": [
+      "202.142.4.0/24"
+    ],
+    "ipv6": []
+  }
+}

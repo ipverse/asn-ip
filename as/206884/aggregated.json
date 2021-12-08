@@ -1,0 +1,13 @@
+{
+  "asn": 206884,
+  "handle": "FI",
+  "description": "Finansinspektionen",
+  "subnets": {
+    "ipv4": [
+      "194.14.76.0/24"
+    ],
+    "ipv6": [
+      "2001:678:8f8::/48"
+    ]
+  }
+}

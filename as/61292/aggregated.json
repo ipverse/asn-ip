@@ -1,0 +1,13 @@
+{
+  "asn": 61292,
+  "handle": "BLXGRP",
+  "description": "BLIX GROUP AS",
+  "subnets": {
+    "ipv4": [
+      "185.152.34.0/24"
+    ],
+    "ipv6": [
+      "2a02:ed03::/32"
+    ]
+  }
+}

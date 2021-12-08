@@ -1,0 +1,13 @@
+{
+  "asn": 135682,
+  "handle": "AWDHPL-IN",
+  "description": "Advika Web Developments Hosting Pvt Ltd",
+  "subnets": {
+    "ipv4": [
+      "103.69.196.0/24",
+      "103.71.99.0/24",
+      "103.74.54.0/23"
+    ],
+    "ipv6": []
+  }
+}

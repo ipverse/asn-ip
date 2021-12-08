@@ -1,0 +1,11 @@
+{
+  "asn": 267466,
+  "handle": "MVF-NETWORK",
+  "description": "MVF NETWORK",
+  "subnets": {
+    "ipv4": [
+      "192.141.120.0/22"
+    ],
+    "ipv6": []
+  }
+}

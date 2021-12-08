@@ -1,0 +1,13 @@
+{
+  "asn": 30144,
+  "handle": "BQI",
+  "description": "BQ Internet Corporation",
+  "subnets": {
+    "ipv4": [
+      "208.85.120.0/22"
+    ],
+    "ipv6": [
+      "2604:9b80::/32"
+    ]
+  }
+}

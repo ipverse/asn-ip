@@ -1,0 +1,13 @@
+{
+  "asn": 46286,
+  "handle": "COOK-COUNTY",
+  "description": "Cook County",
+  "subnets": {
+    "ipv4": [
+      "12.218.238.0/23",
+      "66.99.240.0/23",
+      "162.217.184.0/22"
+    ],
+    "ipv6": []
+  }
+}

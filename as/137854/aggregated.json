@@ -1,0 +1,15 @@
+{
+  "asn": 137854,
+  "handle": "RELIANTBALIYA-AP",
+  "description": "Reliant Techno Networking Pvt. Ltd.",
+  "subnets": {
+    "ipv4": [
+      "103.115.167.0/24",
+      "103.125.25.0/24",
+      "103.125.26.0/23"
+    ],
+    "ipv6": [
+      "2001:df5:3100::/48"
+    ]
+  }
+}

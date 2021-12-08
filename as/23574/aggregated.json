@@ -1,0 +1,11 @@
+{
+  "asn": 23574,
+  "handle": "KISPRICING-KR-KR",
+  "description": "KISPricing",
+  "subnets": {
+    "ipv4": [
+      "222.110.192.0/24"
+    ],
+    "ipv6": []
+  }
+}

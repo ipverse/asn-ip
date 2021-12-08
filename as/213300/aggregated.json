@@ -1,0 +1,13 @@
+{
+  "asn": 213300,
+  "handle": "BE-SOLUTIONS",
+  "description": "be-solutions GmbH",
+  "subnets": {
+    "ipv4": [
+      "2.56.170.0/24"
+    ],
+    "ipv6": [
+      "2a10:4040::/29"
+    ]
+  }
+}

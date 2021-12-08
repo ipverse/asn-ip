@@ -1,0 +1,12 @@
+{
+  "asn": 208448,
+  "handle": "TTK-TEMIRTAU",
+  "description": "TTK LLP",
+  "subnets": {
+    "ipv4": [
+      "45.132.86.0/23",
+      "176.96.249.0/24"
+    ],
+    "ipv6": []
+  }
+}

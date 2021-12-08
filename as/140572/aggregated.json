@@ -1,0 +1,12 @@
+{
+  "asn": 140572,
+  "handle": "NIMT-AP",
+  "description": "National Institute of Metrology (Thailand)",
+  "subnets": {
+    "ipv4": [
+      "103.150.106.0/23",
+      "110.78.24.0/24"
+    ],
+    "ipv6": []
+  }
+}

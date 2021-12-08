@@ -1,0 +1,12 @@
+{
+  "asn": 264765,
+  "handle": "VANET-TELECOMUNICACIONES-SRL",
+  "description": "VANET TELECOMUNICACIONES S.R.L.",
+  "subnets": {
+    "ipv4": [
+      "45.181.128.0/22",
+      "168.196.224.0/22"
+    ],
+    "ipv6": []
+  }
+}

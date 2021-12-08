@@ -1,0 +1,11 @@
+{
+  "asn": 268816,
+  "handle": "TURBONET-LUZ",
+  "description": "TurboNet Luz",
+  "subnets": {
+    "ipv4": [
+      "45.173.156.0/22"
+    ],
+    "ipv6": []
+  }
+}

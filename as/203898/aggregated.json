@@ -1,0 +1,13 @@
+{
+  "asn": 203898,
+  "handle": "CLOUDFLARENET-UK",
+  "description": "Cloudflare Inc",
+  "subnets": {
+    "ipv4": [
+      "185.122.0.0/24"
+    ],
+    "ipv6": [
+      "2a06:98c0:1000::/48"
+    ]
+  }
+}

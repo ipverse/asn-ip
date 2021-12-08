@@ -1,0 +1,11 @@
+{
+  "asn": 33123,
+  "handle": "AUDANYCBGP4",
+  "description": "Auda Advisor Associates LLC",
+  "subnets": {
+    "ipv4": [
+      "8.10.69.0/24"
+    ],
+    "ipv6": []
+  }
+}

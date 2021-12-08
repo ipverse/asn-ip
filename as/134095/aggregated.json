@@ -1,0 +1,13 @@
+{
+  "asn": 134095,
+  "handle": "ITMX",
+  "description": "TRUE INTERNET CORPORATION CO. LTD.",
+  "subnets": {
+    "ipv4": [
+      "110.170.137.0/24",
+      "110.170.238.0/24",
+      "210.86.152.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 271356,
+  "handle": "TELECOM-DIGITAL",
+  "description": "Telecom Digital",
+  "subnets": {
+    "ipv4": [
+      "45.160.8.0/22"
+    ],
+    "ipv6": [
+      "2804:7a38::/32"
+    ]
+  }
+}

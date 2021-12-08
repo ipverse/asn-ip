@@ -1,0 +1,12 @@
+{
+  "asn": 35946,
+  "handle": "ADEPTRA-INCORPORATED-MULTI-HOMING",
+  "description": "Fair Isaac Corporation",
+  "subnets": {
+    "ipv4": [
+      "207.45.164.0/24",
+      "208.75.94.0/23"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 51314,
+  "handle": "TEVIANT",
+  "description": "LLC Joint Small Enterprise Teviant",
+  "subnets": {
+    "ipv4": [
+      "176.120.106.0/24",
+      "194.213.104.0/23"
+    ],
+    "ipv6": []
+  }
+}

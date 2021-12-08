@@ -1,0 +1,15 @@
+{
+  "asn": 28125,
+  "handle": "ELONET-TECNOLOGIA-LTDA-ME",
+  "description": "Elo.Net Tecnologia Ltda. - ME",
+  "subnets": {
+    "ipv4": [
+      "170.254.224.0/24",
+      "187.19.16.0/20",
+      "191.36.160.0/21"
+    ],
+    "ipv6": [
+      "2804:1488::/32"
+    ]
+  }
+}

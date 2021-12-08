@@ -1,0 +1,14 @@
+{
+  "asn": 265691,
+  "handle": "WI-NET-TELECOM-SAC",
+  "description": "WI-NET TELECOM S.A.C.",
+  "subnets": {
+    "ipv4": [
+      "38.25.0.0/17",
+      "45.5.68.0/22",
+      "161.132.234.0/23",
+      "161.132.236.0/22"
+    ],
+    "ipv6": []
+  }
+}

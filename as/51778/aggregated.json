@@ -1,0 +1,13 @@
+{
+  "asn": 51778,
+  "handle": "ASPRONETIC",
+  "description": "Pronetic GmbH",
+  "subnets": {
+    "ipv4": [
+      "194.5.228.0/22"
+    ],
+    "ipv6": [
+      "2a0c:e740::/33"
+    ]
+  }
+}

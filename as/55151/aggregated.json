@@ -1,0 +1,11 @@
+{
+  "asn": 55151,
+  "handle": "MEHEALTH-NORTH",
+  "description": "Pen Bay Healthcare",
+  "subnets": {
+    "ipv4": [
+      "198.17.233.0/24"
+    ],
+    "ipv6": []
+  }
+}

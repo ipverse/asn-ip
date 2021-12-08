@@ -1,0 +1,12 @@
+{
+  "asn": 206246,
+  "handle": "REACHMEDIASKY",
+  "description": "REACH MEDIA SKY LLP",
+  "subnets": {
+    "ipv4": [
+      "185.192.38.0/23",
+      "185.218.222.0/24"
+    ],
+    "ipv6": []
+  }
+}

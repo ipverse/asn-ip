@@ -1,0 +1,13 @@
+{
+  "asn": 61573,
+  "handle": "IP-TELECOM-BRASIL",
+  "description": "IP TELECOM (BRASIL)",
+  "subnets": {
+    "ipv4": [
+      "138.122.60.0/22"
+    ],
+    "ipv6": [
+      "2804:25e4::/32"
+    ]
+  }
+}

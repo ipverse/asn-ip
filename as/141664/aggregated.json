@@ -1,0 +1,11 @@
+{
+  "asn": 141664,
+  "handle": "IDNIC-CORE-ID",
+  "description": "PT Jaringan Inti Exadata",
+  "subnets": {
+    "ipv4": [
+      "103.162.205.0/24"
+    ],
+    "ipv6": []
+  }
+}

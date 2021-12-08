@@ -1,0 +1,13 @@
+{
+  "asn": 267846,
+  "handle": "CABLE-ONDA-ORIENTAL-SRL",
+  "description": "Cable Onda Oriental, SRL",
+  "subnets": {
+    "ipv4": [
+      "45.176.96.0/22"
+    ],
+    "ipv6": [
+      "2803:cc60::/32"
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 209220,
+  "handle": "ABLATIVEHOSTING",
+  "description": "Ablative Hosting Ltd",
+  "subnets": {
+    "ipv4": [
+      "185.104.122.0/23"
+    ],
+    "ipv6": [
+      "2001:678:a38::/48",
+      "2a06:3000:1000::/36"
+    ]
+  }
+}

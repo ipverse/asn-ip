@@ -1,0 +1,13 @@
+{
+  "asn": 207754,
+  "handle": "COLDERWOOD",
+  "description": "James Colderwood",
+  "subnets": {
+    "ipv4": [
+      "44.131.6.0/24"
+    ],
+    "ipv6": [
+      "2001:678:c40::/48"
+    ]
+  }
+}

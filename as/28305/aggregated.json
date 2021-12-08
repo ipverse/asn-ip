@@ -1,0 +1,14 @@
+{
+  "asn": 28305,
+  "handle": "LGTEL61-INTERNET-LTDA",
+  "description": "LGTEL61 INTERNET LTDA",
+  "subnets": {
+    "ipv4": [
+      "189.39.96.0/20",
+      "189.85.144.0/20"
+    ],
+    "ipv6": [
+      "2804:2898::/32"
+    ]
+  }
+}

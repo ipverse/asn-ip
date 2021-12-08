@@ -1,0 +1,12 @@
+{
+  "asn": 36145,
+  "handle": "PHILLIPS-ACADEMY",
+  "description": "Phillips Academy",
+  "subnets": {
+    "ipv4": [
+      "198.140.202.0/23",
+      "198.140.204.0/24"
+    ],
+    "ipv6": []
+  }
+}

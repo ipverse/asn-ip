@@ -1,0 +1,12 @@
+{
+  "asn": 38820,
+  "handle": "TPI-POLENE-CSLOXINFO",
+  "description": "CS Loxinfo Public Company Limited",
+  "subnets": {
+    "ipv4": [
+      "27.254.247.0/24",
+      "49.231.206.0/24"
+    ],
+    "ipv6": []
+  }
+}

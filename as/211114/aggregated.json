@@ -1,0 +1,14 @@
+{
+  "asn": 211114,
+  "handle": "WEBILOX-INTERNET-HIZMETLERI",
+  "description": "Remzi Ozkarabulut",
+  "subnets": {
+    "ipv4": [
+      "37.140.242.0/24",
+      "45.80.175.0/24",
+      "185.161.122.0/24",
+      "185.193.167.0/24"
+    ],
+    "ipv6": []
+  }
+}

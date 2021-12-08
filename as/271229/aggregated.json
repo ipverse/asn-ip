@@ -1,0 +1,13 @@
+{
+  "asn": 271229,
+  "handle": "AMX-INTERNET-FIBRA-OPTICA",
+  "description": "AMX INTERNET FIBRA ÓPTICA",
+  "subnets": {
+    "ipv4": [
+      "200.49.28.0/22"
+    ],
+    "ipv6": [
+      "2804:783c::/32"
+    ]
+  }
+}

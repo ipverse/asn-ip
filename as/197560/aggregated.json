@@ -1,0 +1,13 @@
+{
+  "asn": 197560,
+  "handle": "VDIS",
+  "description": "Beeks Financial Cloud Ltd",
+  "subnets": {
+    "ipv4": [
+      "170.75.194.0/23"
+    ],
+    "ipv6": [
+      "2a0f:bd40::/32"
+    ]
+  }
+}

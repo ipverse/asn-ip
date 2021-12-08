@@ -1,0 +1,13 @@
+{
+  "asn": 263849,
+  "handle": "STAR-NET-PROVEDOR",
+  "description": "STAR NET - PROVEDOR E SERVICOS DE INTERNET LTDA -",
+  "subnets": {
+    "ipv4": [
+      "138.185.200.0/22"
+    ],
+    "ipv6": [
+      "2804:26b0::/32"
+    ]
+  }
+}

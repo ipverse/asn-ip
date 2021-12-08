@@ -1,0 +1,14 @@
+{
+  "asn": 270574,
+  "handle": "RRNET-PROVEDOR",
+  "description": "RRNET PROVEDOR",
+  "subnets": {
+    "ipv4": [
+      "200.26.240.0/23",
+      "200.26.242.0/24"
+    ],
+    "ipv6": [
+      "2804:6e14::/33"
+    ]
+  }
+}

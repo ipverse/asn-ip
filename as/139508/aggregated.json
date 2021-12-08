@@ -1,0 +1,12 @@
+{
+  "asn": 139508,
+  "handle": "WIDENET-IN",
+  "description": "Wide Netcom India",
+  "subnets": {
+    "ipv4": [
+      "103.146.232.0/23",
+      "103.172.220.0/23"
+    ],
+    "ipv6": []
+  }
+}

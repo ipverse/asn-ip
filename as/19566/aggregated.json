@@ -1,0 +1,13 @@
+{
+  "asn": 19566,
+  "handle": "PASON-SYSTEMS",
+  "description": "Pason Systems Corp",
+  "subnets": {
+    "ipv4": [
+      "69.58.16.0/21"
+    ],
+    "ipv6": [
+      "2607:d700::/32"
+    ]
+  }
+}

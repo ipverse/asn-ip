@@ -1,0 +1,11 @@
+{
+  "asn": 33093,
+  "handle": "NEOGOV",
+  "description": "NEOGOV",
+  "subnets": {
+    "ipv4": [
+      "162.246.160.0/24"
+    ],
+    "ipv6": []
+  }
+}

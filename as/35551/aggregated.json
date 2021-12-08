@@ -1,0 +1,13 @@
+{
+  "asn": 35551,
+  "handle": "ASSIMISIS",
+  "description": "TGL Services (UK) Ltd",
+  "subnets": {
+    "ipv4": [
+      "80.95.48.0/20"
+    ],
+    "ipv6": [
+      "2a00:e520::/32"
+    ]
+  }
+}

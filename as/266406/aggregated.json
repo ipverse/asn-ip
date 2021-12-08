@@ -1,0 +1,13 @@
+{
+  "asn": 266406,
+  "handle": "VOE-INTERNET",
+  "description": "VOE INTERNET",
+  "subnets": {
+    "ipv4": [
+      "170.81.120.0/22"
+    ],
+    "ipv6": [
+      "2804:375c::/32"
+    ]
+  }
+}

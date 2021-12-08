@@ -1,0 +1,13 @@
+{
+  "asn": 12331,
+  "handle": "AUDI-AG",
+  "description": "Audi AG",
+  "subnets": {
+    "ipv4": [
+      "143.164.0.0/16"
+    ],
+    "ipv6": [
+      "2001:678:35c::/48"
+    ]
+  }
+}

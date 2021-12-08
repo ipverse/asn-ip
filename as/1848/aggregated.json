@@ -1,0 +1,13 @@
+{
+  "asn": 1848,
+  "handle": "NATIONAL-AERONAUTICS-AND",
+  "description": "National Aeronautics and Space Administration",
+  "subnets": {
+    "ipv4": [
+      "192.150.28.0/24"
+    ],
+    "ipv6": [
+      "2001:4d0:241a::/48"
+    ]
+  }
+}

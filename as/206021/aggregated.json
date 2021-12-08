@@ -1,0 +1,13 @@
+{
+  "asn": 206021,
+  "handle": "WKSTMK",
+  "description": "Wirtschaftskammer Steiermark",
+  "subnets": {
+    "ipv4": [
+      "185.197.44.0/22"
+    ],
+    "ipv6": [
+      "2a0a:8bc0::/29"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asn": 141010,
+  "handle": "SAMONLINE-AP",
+  "description": "SAM ONLINE",
+  "subnets": {
+    "ipv4": [
+      "202.53.141.0/24"
+    ],
+    "ipv6": []
+  }
+}

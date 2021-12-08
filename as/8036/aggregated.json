@@ -1,0 +1,13 @@
+{
+  "asn": 8036,
+  "handle": "UTULSA",
+  "description": "University of Tulsa",
+  "subnets": {
+    "ipv4": [
+      "129.244.0.0/16"
+    ],
+    "ipv6": [
+      "2605:e340::/40"
+    ]
+  }
+}

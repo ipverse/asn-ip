@@ -1,0 +1,13 @@
+{
+  "asn": 197740,
+  "handle": "TVTRUJILLO",
+  "description": "Television Trujillo S.L.",
+  "subnets": {
+    "ipv4": [
+      "45.151.72.0/22",
+      "89.29.252.0/24",
+      "185.246.199.0/24"
+    ],
+    "ipv6": []
+  }
+}

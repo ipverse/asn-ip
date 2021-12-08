@@ -1,0 +1,14 @@
+{
+  "asn": 267575,
+  "handle": "MARANET-TELECOM-LTDA",
+  "description": "MARANET TELECOM LTDA",
+  "subnets": {
+    "ipv4": [
+      "45.70.160.0/22",
+      "177.74.104.0/22"
+    ],
+    "ipv6": [
+      "2804:4384::/32"
+    ]
+  }
+}

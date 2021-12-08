@@ -1,0 +1,13 @@
+{
+  "asn": 46093,
+  "handle": "PALM-BEACH-COUNTY-FLORIDA",
+  "description": "Palm Beach County",
+  "subnets": {
+    "ipv4": [
+      "68.208.127.0/24",
+      "151.132.0.0/16",
+      "165.161.10.0/23"
+    ],
+    "ipv6": []
+  }
+}

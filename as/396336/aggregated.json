@@ -1,0 +1,13 @@
+{
+  "asn": 396336,
+  "handle": "HHS-DC",
+  "description": "Holzer Health System",
+  "subnets": {
+    "ipv4": [
+      "204.76.158.0/23",
+      "204.76.160.0/22",
+      "204.76.164.0/23"
+    ],
+    "ipv6": []
+  }
+}

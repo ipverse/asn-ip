@@ -1,0 +1,12 @@
+{
+  "asn": 25147,
+  "handle": "SOFIANET",
+  "description": "Ecoplast OOD",
+  "subnets": {
+    "ipv4": [
+      "85.11.144.0/21",
+      "85.11.156.0/22"
+    ],
+    "ipv6": []
+  }
+}

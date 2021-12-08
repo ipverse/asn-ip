@@ -1,0 +1,11 @@
+{
+  "asn": 56751,
+  "handle": "MVS",
+  "description": "Ministry of Internal Affairs of Ukraine",
+  "subnets": {
+    "ipv4": [
+      "91.227.69.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asn": 266163,
+  "handle": "ITANET-TELECOM",
+  "description": "ItaNet Telecom",
+  "subnets": {
+    "ipv4": [
+      "186.2.248.0/22"
+    ],
+    "ipv6": []
+  }
+}

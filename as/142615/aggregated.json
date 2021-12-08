@@ -1,0 +1,11 @@
+{
+  "asn": 142615,
+  "handle": "SARKER-AP",
+  "description": "SARKER COMMUNICATION",
+  "subnets": {
+    "ipv4": [
+      "103.170.231.0/24"
+    ],
+    "ipv6": []
+  }
+}

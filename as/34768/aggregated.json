@@ -1,0 +1,15 @@
+{
+  "asn": 34768,
+  "handle": "VIA",
+  "description": "Smart Hosted Solutions Ltd",
+  "subnets": {
+    "ipv4": [
+      "103.116.111.0/24",
+      "185.94.204.0/22"
+    ],
+    "ipv6": [
+      "2001:df5:5100::/48",
+      "2a04:e9c0::/29"
+    ]
+  }
+}

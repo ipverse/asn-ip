@@ -1,0 +1,12 @@
+{
+  "asn": 60618,
+  "handle": "DXC-EUROPE-ES",
+  "description": "Hewlett Packard France S.A.S.",
+  "subnets": {
+    "ipv4": [
+      "206.164.30.0/24",
+      "206.164.48.0/21"
+    ],
+    "ipv6": []
+  }
+}

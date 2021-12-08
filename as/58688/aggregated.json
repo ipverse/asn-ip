@@ -1,0 +1,11 @@
+{
+  "asn": 58688,
+  "handle": "RADIANT",
+  "description": "Radiant telecommunications",
+  "subnets": {
+    "ipv4": [
+      "103.247.44.0/22"
+    ],
+    "ipv6": []
+  }
+}

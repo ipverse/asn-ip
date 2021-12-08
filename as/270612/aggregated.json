@@ -1,0 +1,13 @@
+{
+  "asn": 270612,
+  "handle": "MNET-TELECOM-PROVEDORIA",
+  "description": "Mnet Telecom Provedoria em Internet Ltda",
+  "subnets": {
+    "ipv4": [
+      "177.23.134.0/23"
+    ],
+    "ipv6": [
+      "2804:6eac::/32"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 131895,
+  "handle": "OIST-OKINAWA",
+  "description": "Okinawa Institute of Science and Technology Graduate University",
+  "subnets": {
+    "ipv4": [
+      "103.226.54.0/24"
+    ],
+    "ipv6": [
+      "2001:df2:d800::/48"
+    ]
+  }
+}

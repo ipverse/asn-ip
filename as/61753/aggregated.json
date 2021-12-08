@@ -1,0 +1,14 @@
+{
+  "asn": 61753,
+  "handle": "CLEYTON-DE-SALES-COSTA-ME",
+  "description": "CLEYTON DE SALES COSTA - ME",
+  "subnets": {
+    "ipv4": [
+      "131.100.16.0/22",
+      "168.181.232.0/22"
+    ],
+    "ipv6": [
+      "2804:1bdc::/32"
+    ]
+  }
+}

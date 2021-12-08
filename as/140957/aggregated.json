@@ -1,0 +1,11 @@
+{
+  "asn": 140957,
+  "handle": "MUMC-AP",
+  "description": "Universal Multimedia Center",
+  "subnets": {
+    "ipv4": [
+      "103.153.198.0/23"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asn": 131112,
+  "handle": "MMTC-ID",
+  "description": "Sekolah Tinggi Multi Media MMTC Yogyakarta",
+  "subnets": {
+    "ipv4": [
+      "103.6.214.0/24"
+    ],
+    "ipv6": []
+  }
+}

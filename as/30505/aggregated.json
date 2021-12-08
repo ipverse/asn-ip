@@ -1,0 +1,11 @@
+{
+  "asn": 30505,
+  "handle": "AT",
+  "description": "Applied Trust",
+  "subnets": {
+    "ipv4": [
+      "204.115.117.0/24"
+    ],
+    "ipv6": []
+  }
+}

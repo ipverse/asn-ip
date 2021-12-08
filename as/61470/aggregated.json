@@ -1,0 +1,13 @@
+{
+  "asn": 61470,
+  "handle": "MUSURIT",
+  "description": "MUSURIT",
+  "subnets": {
+    "ipv4": [
+      "131.0.232.0/22"
+    ],
+    "ipv6": [
+      "2803:f580::/32"
+    ]
+  }
+}

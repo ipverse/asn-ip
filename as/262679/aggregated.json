@@ -1,0 +1,13 @@
+{
+  "asn": 262679,
+  "handle": "SECRETARIA-DE-FAZENDA",
+  "description": "Secretaria de Fazenda de Mato Grosso do Sul",
+  "subnets": {
+    "ipv4": [
+      "187.86.224.0/20"
+    ],
+    "ipv6": [
+      "2804:1f34::/32"
+    ]
+  }
+}

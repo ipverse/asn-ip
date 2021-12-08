@@ -1,0 +1,11 @@
+{
+  "asn": 11270,
+  "handle": "TSCU-01",
+  "description": "TwinStar Credit Union",
+  "subnets": {
+    "ipv4": [
+      "24.104.61.0/24"
+    ],
+    "ipv6": []
+  }
+}

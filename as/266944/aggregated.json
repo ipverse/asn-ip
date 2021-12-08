@@ -1,0 +1,11 @@
+{
+  "asn": 266944,
+  "handle": "CANALBR-INTERNET",
+  "description": "CanalBR Internet",
+  "subnets": {
+    "ipv4": [
+      "45.225.144.0/22"
+    ],
+    "ipv6": []
+  }
+}

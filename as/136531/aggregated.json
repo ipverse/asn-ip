@@ -1,0 +1,13 @@
+{
+  "asn": 136531,
+  "handle": "NETEXPRESSONLINE-AP",
+  "description": "NetExpress Online",
+  "subnets": {
+    "ipv4": [
+      "103.91.228.0/22"
+    ],
+    "ipv6": [
+      "2401:14c0::/32"
+    ]
+  }
+}

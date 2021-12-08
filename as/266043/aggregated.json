@@ -1,0 +1,13 @@
+{
+  "asn": 266043,
+  "handle": "CANET-INTERNET-E",
+  "description": "CANET INTERNET E TELECOM LTDA ME",
+  "subnets": {
+    "ipv4": [
+      "45.4.24.0/22"
+    ],
+    "ipv6": [
+      "2804:39ac::/32"
+    ]
+  }
+}

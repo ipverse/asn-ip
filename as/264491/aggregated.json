@@ -1,0 +1,14 @@
+{
+  "asn": 264491,
+  "handle": "SONIK-SERVICOS-DE",
+  "description": "Sonik Serviços de Comunicação LTDA",
+  "subnets": {
+    "ipv4": [
+      "131.255.176.0/22",
+      "170.247.252.0/22"
+    ],
+    "ipv6": [
+      "2804:2074::/32"
+    ]
+  }
+}

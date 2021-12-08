@@ -1,0 +1,14 @@
+{
+  "asn": 262628,
+  "handle": "2I-SERVICOS-DE",
+  "description": "2i Servicos de Telecomunicacoes do Brasil Ltda.",
+  "subnets": {
+    "ipv4": [
+      "177.86.112.0/22",
+      "200.6.44.0/22"
+    ],
+    "ipv6": [
+      "2804:17f8::/32"
+    ]
+  }
+}

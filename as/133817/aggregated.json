@@ -1,0 +1,13 @@
+{
+  "asn": 133817,
+  "handle": "INTIDATA-ID",
+  "description": "PT Inti Data Telematika",
+  "subnets": {
+    "ipv4": [
+      "103.53.76.0/22"
+    ],
+    "ipv6": [
+      "2402:5580::/32"
+    ]
+  }
+}

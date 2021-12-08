@@ -1,0 +1,12 @@
+{
+  "asn": 393333,
+  "handle": "ATTIVIO-INC",
+  "description": "Attivio, Inc.",
+  "subnets": {
+    "ipv4": [
+      "38.111.61.0/24",
+      "67.200.127.0/24"
+    ],
+    "ipv6": []
+  }
+}

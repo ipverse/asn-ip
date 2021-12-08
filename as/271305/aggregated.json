@@ -1,0 +1,13 @@
+{
+  "asn": 271305,
+  "handle": "TRX-NET-SERVICOS",
+  "description": "TRX NET SERVICOS DE COMUNICACAO MULTIMIDIA EIRELI",
+  "subnets": {
+    "ipv4": [
+      "177.124.80.0/24"
+    ],
+    "ipv6": [
+      "2804:7970::/32"
+    ]
+  }
+}

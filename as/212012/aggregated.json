@@ -1,0 +1,14 @@
+{
+  "asn": 212012,
+  "handle": "TOURS-DTC",
+  "description": "Thales DIS France SA",
+  "subnets": {
+    "ipv4": [
+      "91.240.72.0/24",
+      "185.42.232.0/23"
+    ],
+    "ipv6": [
+      "2a04:7040:1471::/48"
+    ]
+  }
+}

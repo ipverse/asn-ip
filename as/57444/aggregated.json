@@ -1,0 +1,12 @@
+{
+  "asn": 57444,
+  "handle": "INCAS",
+  "description": "INSTITUTUL NATIONAL DE CERCETARI AEROSPATIALE ELIE CARAFOLI - I.N.C.A.S SA",
+  "subnets": {
+    "ipv4": [
+      "85.121.21.0/24",
+      "188.247.234.0/24"
+    ],
+    "ipv6": []
+  }
+}

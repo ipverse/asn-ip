@@ -1,0 +1,12 @@
+{
+  "asn": 57439,
+  "handle": "REDLILY-ANYCAST",
+  "description": "Red Lily Internet Incorporated",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2605:f440:53::/48",
+      "2605:f440:5353::/48"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asn": 271901,
+  "handle": "SECRETARIA-DISTRITAL-DEL",
+  "description": "Secretaria Distrital del Habitat",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2801:1de::/46"
+    ]
+  }
+}

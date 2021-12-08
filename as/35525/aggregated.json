@@ -1,0 +1,11 @@
+{
+  "asn": 35525,
+  "handle": "DIANA-NET",
+  "description": "DIANA-NET SRL",
+  "subnets": {
+    "ipv4": [
+      "185.164.0.0/22"
+    ],
+    "ipv6": []
+  }
+}

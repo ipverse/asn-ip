@@ -1,0 +1,14 @@
+{
+  "asn": 28240,
+  "handle": "VIP-SERVICOS-DE",
+  "description": "VIP - SERVIÇOS DE TELECOMUNICAÇÕES LTDA.",
+  "subnets": {
+    "ipv4": [
+      "170.78.204.0/22",
+      "187.0.160.0/22"
+    ],
+    "ipv6": [
+      "2804:3594::/32"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 53933,
+  "handle": "TELX-TOR",
+  "description": "Telx",
+  "subnets": {
+    "ipv4": [
+      "198.35.60.0/22"
+    ],
+    "ipv6": [
+      "2607:fb58:d200::/40"
+    ]
+  }
+}

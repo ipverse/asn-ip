@@ -1,0 +1,11 @@
+{
+  "asn": 51369,
+  "handle": "FIORD-RU",
+  "description": "LLC TRC FIORD",
+  "subnets": {
+    "ipv4": [
+      "80.77.161.0/24"
+    ],
+    "ipv6": []
+  }
+}

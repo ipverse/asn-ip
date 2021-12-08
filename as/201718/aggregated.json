@@ -1,0 +1,13 @@
+{
+  "asn": 201718,
+  "handle": "ITSUPGBV",
+  "description": "IT Support Groep B.V.",
+  "subnets": {
+    "ipv4": [
+      "185.62.208.0/22"
+    ],
+    "ipv6": [
+      "2a03:120::/32"
+    ]
+  }
+}

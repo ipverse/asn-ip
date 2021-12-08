@@ -1,0 +1,13 @@
+{
+  "asn": 212616,
+  "handle": "KMA-TECHNOLOGY",
+  "description": "K.M.A. Technology Consulting LTD",
+  "subnets": {
+    "ipv4": [
+      "91.230.48.0/24",
+      "93.175.32.0/19",
+      "176.97.214.0/24"
+    ],
+    "ipv6": []
+  }
+}

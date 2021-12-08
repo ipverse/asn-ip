@@ -1,0 +1,13 @@
+{
+  "asn": 271049,
+  "handle": "REDE-EXS-TELECOMUNICACOES",
+  "description": "Rede EXS Telecomunicacoes LTDA",
+  "subnets": {
+    "ipv4": [
+      "187.84.112.0/22"
+    ],
+    "ipv6": [
+      "2804:7578::/32"
+    ]
+  }
+}

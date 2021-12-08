@@ -1,0 +1,13 @@
+{
+  "asn": 39505,
+  "handle": "VESTITEL",
+  "description": "VESTITEL BG",
+  "subnets": {
+    "ipv4": [
+      "78.40.136.0/21",
+      "87.247.248.0/21",
+      "93.93.12.0/23"
+    ],
+    "ipv6": []
+  }
+}

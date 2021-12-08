@@ -1,0 +1,13 @@
+{
+  "asn": 268798,
+  "handle": "JG-TELECOM",
+  "description": "JG TELECOM",
+  "subnets": {
+    "ipv4": [
+      "45.171.140.0/22"
+    ],
+    "ipv6": [
+      "2804:5ad0:f000::/36"
+    ]
+  }
+}

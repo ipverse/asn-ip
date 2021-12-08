@@ -1,0 +1,14 @@
+{
+  "asn": 205321,
+  "handle": "ITK",
+  "description": "itk communications GmbH",
+  "subnets": {
+    "ipv4": [
+      "185.217.248.0/22"
+    ],
+    "ipv6": [
+      "2a0c:af00:be52::/48",
+      "2a0c:af00:f5a1::/48"
+    ]
+  }
+}

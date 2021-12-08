@@ -1,0 +1,13 @@
+{
+  "asn": 399830,
+  "handle": "APOG-SOUTHGATE",
+  "description": "Apogee Telecom Inc.",
+  "subnets": {
+    "ipv4": [
+      "69.80.131.0/24"
+    ],
+    "ipv6": [
+      "2606:7700::/48"
+    ]
+  }
+}

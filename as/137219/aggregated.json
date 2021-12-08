@@ -1,0 +1,14 @@
+{
+  "asn": 137219,
+  "handle": "MELTUS-NETWORKS-AP",
+  "description": "HostUS Solutions LLC",
+  "subnets": {
+    "ipv4": [
+      "44.136.59.0/24"
+    ],
+    "ipv6": [
+      "2402:9e80:24::/48",
+      "2402:e380:307::/48"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 61924,
+  "handle": "3E-TELECOM",
+  "description": "3E TELECOM",
+  "subnets": {
+    "ipv4": [
+      "201.130.88.0/21"
+    ],
+    "ipv6": [
+      "2804:180c::/32"
+    ]
+  }
+}

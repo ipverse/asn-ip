@@ -1,0 +1,14 @@
+{
+  "asn": 263040,
+  "handle": "HYPER-TELECOM",
+  "description": "HYPER TELECOM",
+  "subnets": {
+    "ipv4": [
+      "132.255.180.0/22",
+      "177.129.144.0/22"
+    ],
+    "ipv6": [
+      "2804:8f0::/32"
+    ]
+  }
+}

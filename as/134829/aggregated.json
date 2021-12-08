@@ -1,0 +1,13 @@
+{
+  "asn": 134829,
+  "handle": "PPIP-AP",
+  "description": "PPIP Associated Communication Limited",
+  "subnets": {
+    "ipv4": [
+      "103.92.137.0/24",
+      "103.92.139.0/24",
+      "103.135.104.0/23"
+    ],
+    "ipv6": []
+  }
+}

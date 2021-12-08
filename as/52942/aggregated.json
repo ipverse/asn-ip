@@ -1,0 +1,11 @@
+{
+  "asn": 52942,
+  "handle": "CONEXIS-INTERNET-PROVIDER",
+  "description": "Conexis Internet Provider Ltda",
+  "subnets": {
+    "ipv4": [
+      "177.11.100.0/22"
+    ],
+    "ipv6": []
+  }
+}

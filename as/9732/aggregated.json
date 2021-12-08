@@ -1,0 +1,13 @@
+{
+  "asn": 9732,
+  "handle": "SCIG-AP",
+  "description": "Office of the Government Chief Information Officer (OGCIO)",
+  "subnets": {
+    "ipv4": [
+      "202.128.224.0/19"
+    ],
+    "ipv6": [
+      "2406::/32"
+    ]
+  }
+}

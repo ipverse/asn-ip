@@ -1,0 +1,13 @@
+{
+  "asn": 21858,
+  "handle": "ASCENT-DATA-LLC",
+  "description": "Ascent Data, LLC",
+  "subnets": {
+    "ipv4": [
+      "208.70.64.0/21"
+    ],
+    "ipv6": [
+      "2607:ffa8::/32"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 328671,
+  "handle": "DATAPACKET-MAROC",
+  "description": "Datapacket Maroc SARL",
+  "subnets": {
+    "ipv4": [
+      "102.222.213.0/24",
+      "102.222.215.0/24",
+      "196.19.125.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 138894,
+  "handle": "IDNIC-ASLIRI-ID",
+  "description": "PT ASLI Rancangan Indonesia",
+  "subnets": {
+    "ipv4": [
+      "103.141.40.0/23"
+    ],
+    "ipv6": [
+      "2001:df0:ec80::/48"
+    ]
+  }
+}

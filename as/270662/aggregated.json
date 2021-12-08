@@ -1,0 +1,12 @@
+{
+  "asn": 270662,
+  "handle": "SEMPPRE-ONLINE-LTDA",
+  "description": "SEMPPRE ONLINE LTDA.",
+  "subnets": {
+    "ipv4": [
+      "138.117.248.0/24",
+      "138.117.250.0/23"
+    ],
+    "ipv6": []
+  }
+}

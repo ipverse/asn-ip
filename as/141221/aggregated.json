@@ -1,0 +1,11 @@
+{
+  "asn": 141221,
+  "handle": "EKWINOX-AP",
+  "description": "Aperture Science Limited",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2602:feda:cdc::/48"
+    ]
+  }
+}

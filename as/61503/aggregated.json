@@ -1,0 +1,13 @@
+{
+  "asn": 61503,
+  "handle": "SERVICIOS-DE-TELECOMUNICACIONES",
+  "description": "SERVICIOS DE TELECOMUNICACIONES INTERCABLE LTDA.",
+  "subnets": {
+    "ipv4": [
+      "138.36.252.0/22"
+    ],
+    "ipv6": [
+      "2803:2f80::/32"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asn": 137496,
+  "handle": "MSRSORGANIZATION-AP",
+  "description": "M/S RS Organization",
+  "subnets": {
+    "ipv4": [
+      "103.110.160.0/22"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 269133,
+  "handle": "FUNDACAO-REGIONAL-INTEGRADA",
+  "description": "Fundação Regional Integrada - Campus Santo Angelo",
+  "subnets": {
+    "ipv4": [
+      "45.179.61.0/24"
+    ],
+    "ipv6": [
+      "2801:80:3680::/48"
+    ]
+  }
+}

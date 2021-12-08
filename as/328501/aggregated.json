@@ -1,0 +1,13 @@
+{
+  "asn": 328501,
+  "handle": "PAYGATE",
+  "description": "PAYGATE (PTY) LTD",
+  "subnets": {
+    "ipv4": [
+      "102.64.112.0/23"
+    ],
+    "ipv6": [
+      "2001:43f8:13b0::/48"
+    ]
+  }
+}

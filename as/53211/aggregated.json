@@ -1,0 +1,14 @@
+{
+  "asn": 53211,
+  "handle": "ISPRJ-INFORMATICA-E",
+  "description": "ISPRJ - INFORMÁTICA E TELECOMUNICAÇÕES ME",
+  "subnets": {
+    "ipv4": [
+      "177.87.120.0/22",
+      "186.233.224.0/22"
+    ],
+    "ipv6": [
+      "2804:230::/32"
+    ]
+  }
+}

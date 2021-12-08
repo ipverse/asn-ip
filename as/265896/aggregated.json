@@ -1,0 +1,13 @@
+{
+  "asn": 265896,
+  "handle": "VIVA-TELECOMUNICACOES",
+  "description": "Viva Telecomunicações",
+  "subnets": {
+    "ipv4": [
+      "128.201.188.0/22"
+    ],
+    "ipv6": [
+      "2804:3f7c::/32"
+    ]
+  }
+}

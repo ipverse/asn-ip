@@ -1,0 +1,12 @@
+{
+  "asn": 135269,
+  "handle": "FASTIN",
+  "description": "Fast 4 Technologies",
+  "subnets": {
+    "ipv4": [
+      "103.216.68.0/23",
+      "157.119.200.0/23"
+    ],
+    "ipv6": []
+  }
+}

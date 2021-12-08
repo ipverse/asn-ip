@@ -1,0 +1,13 @@
+{
+  "asn": 205688,
+  "handle": "SERVERA",
+  "description": "UAB SERVERA",
+  "subnets": {
+    "ipv4": [
+      "185.209.138.0/23"
+    ],
+    "ipv6": [
+      "2a0b:4fc1::/32"
+    ]
+  }
+}

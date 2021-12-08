@@ -1,0 +1,14 @@
+{
+  "asn": 137532,
+  "handle": "BHUIYANTELECOM-AP",
+  "description": "Bhuiyan Telecom",
+  "subnets": {
+    "ipv4": [
+      "103.96.70.0/23",
+      "103.112.64.0/23"
+    ],
+    "ipv6": [
+      "2405:e6c0::/32"
+    ]
+  }
+}

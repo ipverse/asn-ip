@@ -1,0 +1,11 @@
+{
+  "asn": 61608,
+  "handle": "FORTLINK-TELECOM",
+  "description": "FORTLINK TELECOM",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2804:8270::/34"
+    ]
+  }
+}

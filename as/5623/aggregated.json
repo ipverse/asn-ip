@@ -1,0 +1,11 @@
+{
+  "asn": 5623,
+  "handle": "ATT-CH-0A",
+  "description": "AT\u0026T Global Network Services Nederland B.V.",
+  "subnets": {
+    "ipv4": [
+      "193.41.110.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 132080,
+  "handle": "MATCORP-AP",
+  "description": "M.A.T Co., Ltd.",
+  "subnets": {
+    "ipv4": [
+      "103.11.216.0/22",
+      "103.136.20.0/23"
+    ],
+    "ipv6": []
+  }
+}

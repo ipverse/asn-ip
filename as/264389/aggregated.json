@@ -1,0 +1,13 @@
+{
+  "asn": 264389,
+  "handle": "ARP-TELECOMUNICACOES-LTDA-EPP",
+  "description": "ARP TELECOMUNICACOES LTDA - EPP",
+  "subnets": {
+    "ipv4": [
+      "131.161.192.0/22"
+    ],
+    "ipv6": [
+      "2804:1db8::/32"
+    ]
+  }
+}

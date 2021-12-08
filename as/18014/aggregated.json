@@ -1,0 +1,11 @@
+{
+  "asn": 18014,
+  "handle": "CITYLINK-SR-AP",
+  "description": "CityLink Corporation, LTD",
+  "subnets": {
+    "ipv4": [
+      "113.29.248.0/22"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 49292,
+  "handle": "GOTANET-DK",
+  "description": "Leissner Data AB",
+  "subnets": {
+    "ipv4": [
+      "5.183.164.0/22"
+    ],
+    "ipv6": [
+      "2a02:922::/35"
+    ]
+  }
+}

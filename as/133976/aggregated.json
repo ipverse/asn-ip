@@ -1,0 +1,12 @@
+{
+  "asn": 133976,
+  "handle": "JAPRATELELINK-IN",
+  "description": "Japra Tele Link Private Limited",
+  "subnets": {
+    "ipv4": [
+      "103.55.164.0/23",
+      "103.55.167.0/24"
+    ],
+    "ipv6": []
+  }
+}

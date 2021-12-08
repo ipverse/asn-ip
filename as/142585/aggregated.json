@@ -1,0 +1,11 @@
+{
+  "asn": 142585,
+  "handle": "CRBPL-AP",
+  "description": "Connect Regional Broadband Pty Ltd",
+  "subnets": {
+    "ipv4": [
+      "103.170.28.0/23"
+    ],
+    "ipv6": []
+  }
+}

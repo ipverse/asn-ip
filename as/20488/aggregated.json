@@ -1,0 +1,13 @@
+{
+  "asn": 20488,
+  "handle": "KIEZ",
+  "description": "Clemens Schrimpe",
+  "subnets": {
+    "ipv4": [
+      "192.70.141.0/24",
+      "192.70.150.0/24",
+      "192.108.92.0/24"
+    ],
+    "ipv6": []
+  }
+}

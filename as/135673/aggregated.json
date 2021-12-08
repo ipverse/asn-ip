@@ -1,0 +1,14 @@
+{
+  "asn": 135673,
+  "handle": "FUTURENET-AP",
+  "description": "Future.Net",
+  "subnets": {
+    "ipv4": [
+      "103.78.160.0/22",
+      "123.108.88.0/22"
+    ],
+    "ipv6": [
+      "2407:d380::/32"
+    ]
+  }
+}

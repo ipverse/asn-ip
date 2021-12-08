@@ -1,0 +1,13 @@
+{
+  "asn": 264181,
+  "handle": "QUEX-COMUNICACAO-LTDA",
+  "description": "QUEX COMUNICACAO LTDA",
+  "subnets": {
+    "ipv4": [
+      "138.97.100.0/22"
+    ],
+    "ipv6": [
+      "2804:23c4::/32"
+    ]
+  }
+}

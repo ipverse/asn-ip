@@ -1,0 +1,13 @@
+{
+  "asn": 196978,
+  "handle": "ASTUMA",
+  "description": "Milos Tuma",
+  "subnets": {
+    "ipv4": [
+      "193.107.252.0/22"
+    ],
+    "ipv6": [
+      "2001:67c:13c4::/48"
+    ]
+  }
+}

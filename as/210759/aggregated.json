@@ -1,0 +1,13 @@
+{
+  "asn": 210759,
+  "handle": "BIT",
+  "description": "Betrieb fuer Informationstechnologie Bremerhaven BIT",
+  "subnets": {
+    "ipv4": [
+      "185.204.98.0/24"
+    ],
+    "ipv6": [
+      "2a0a:f540::/29"
+    ]
+  }
+}

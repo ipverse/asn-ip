@@ -1,0 +1,12 @@
+{
+  "asn": 11527,
+  "handle": "TCS-SOL",
+  "description": "TeleCommunication Systems, Inc.",
+  "subnets": {
+    "ipv4": [
+      "104.152.88.0/22",
+      "199.59.180.0/22"
+    ],
+    "ipv6": []
+  }
+}

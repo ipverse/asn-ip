@@ -1,0 +1,13 @@
+{
+  "asn": 268960,
+  "handle": "STARLINE-SERVICOS-DE",
+  "description": "STARLINE SERVIÇOS DE INTERNET - ME",
+  "subnets": {
+    "ipv4": [
+      "45.176.240.0/22"
+    ],
+    "ipv6": [
+      "2804:5d40::/32"
+    ]
+  }
+}

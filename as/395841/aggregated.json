@@ -1,0 +1,13 @@
+{
+  "asn": 395841,
+  "handle": "TAMCLOUD",
+  "description": "tamCloud, Inc.",
+  "subnets": {
+    "ipv4": [
+      "208.91.188.0/22"
+    ],
+    "ipv6": [
+      "2604:7c0::/36"
+    ]
+  }
+}

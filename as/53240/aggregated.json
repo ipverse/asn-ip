@@ -1,0 +1,17 @@
+{
+  "asn": 53240,
+  "handle": "NET-ONZE-PROVEDOR",
+  "description": "Net Onze Provedor de Acesso a Internet Eireli",
+  "subnets": {
+    "ipv4": [
+      "168.227.148.0/22",
+      "177.20.224.0/19",
+      "177.137.0.0/20",
+      "190.15.32.0/19"
+    ],
+    "ipv6": [
+      "2804:330::/35",
+      "2804:330:3000::/36"
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 17244,
+  "handle": "MCNEESE",
+  "description": "McNeese State University",
+  "subnets": {
+    "ipv4": [
+      "192.251.100.0/22"
+    ],
+    "ipv6": [
+      "2607:f390:7200::/39",
+      "2620:0:d50::/48"
+    ]
+  }
+}

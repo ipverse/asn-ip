@@ -1,0 +1,12 @@
+{
+  "asn": 138694,
+  "handle": "SYNCIT-AP",
+  "description": "SyncIT Bangladesh",
+  "subnets": {
+    "ipv4": [
+      "103.136.204.0/23",
+      "103.136.206.0/24"
+    ],
+    "ipv6": []
+  }
+}

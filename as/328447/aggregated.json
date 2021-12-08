@@ -1,0 +1,11 @@
+{
+  "asn": 328447,
+  "handle": "EKO-ELECTRICITY",
+  "description": "EKO Electricity Distribution PLC",
+  "subnets": {
+    "ipv4": [
+      "102.68.126.0/24"
+    ],
+    "ipv6": []
+  }
+}

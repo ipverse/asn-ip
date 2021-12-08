@@ -1,0 +1,13 @@
+{
+  "asn": 265155,
+  "handle": "BURITI-TELECOM",
+  "description": "BURITI TELECOM",
+  "subnets": {
+    "ipv4": [
+      "143.255.148.0/22"
+    ],
+    "ipv6": [
+      "2804:2b7c::/32"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 199802,
+  "handle": "CAS",
+  "description": "Credit Agricole (Suisse) SA",
+  "subnets": {
+    "ipv4": [
+      "193.8.174.0/24",
+      "194.209.214.0/24"
+    ],
+    "ipv6": []
+  }
+}

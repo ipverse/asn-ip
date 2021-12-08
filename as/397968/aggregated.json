@@ -1,0 +1,14 @@
+{
+  "asn": 397968,
+  "handle": "RTSP-ASN-1",
+  "description": "Ryan Turner Sole Proprietor",
+  "subnets": {
+    "ipv4": [
+      "23.143.48.0/24",
+      "44.34.128.0/21"
+    ],
+    "ipv6": [
+      "2602:fdab::/36"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 266110,
+  "handle": "AECIO-MACARIO-DOS-SANTOS-ME",
+  "description": "AECIO MACARIO DOS SANTOS ME",
+  "subnets": {
+    "ipv4": [
+      "45.5.244.0/22"
+    ],
+    "ipv6": [
+      "2804:3acc::/32"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 200128,
+  "handle": "DNHOST",
+  "description": "DNHOST IKE",
+  "subnets": {
+    "ipv4": [
+      "185.29.24.0/22"
+    ],
+    "ipv6": [
+      "2a02:4901::/32"
+    ]
+  }
+}

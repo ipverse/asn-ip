@@ -1,0 +1,11 @@
+{
+  "asn": 141178,
+  "handle": "SFC-AP",
+  "description": "Super Fast Connectivity",
+  "subnets": {
+    "ipv4": [
+      "103.155.174.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 140050,
+  "handle": "NG-AP",
+  "description": "Next Geekers Pvt. Ltd.",
+  "subnets": {
+    "ipv4": [
+      "103.147.226.0/23"
+    ],
+    "ipv6": [
+      "2001:df4:d180::/48"
+    ]
+  }
+}

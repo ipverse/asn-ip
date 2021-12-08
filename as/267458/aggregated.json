@@ -1,0 +1,14 @@
+{
+  "asn": 267458,
+  "handle": "ITMINDS-CONSULTORIA-EM",
+  "description": "ITMINDS CONSULTORIA EM TECNOLOGIA DA INFORMACAO",
+  "subnets": {
+    "ipv4": [
+      "192.141.32.0/22",
+      "204.157.108.0/22"
+    ],
+    "ipv6": [
+      "2804:41d0::/32"
+    ]
+  }
+}

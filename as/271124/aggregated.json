@@ -1,0 +1,13 @@
+{
+  "asn": 271124,
+  "handle": "JSM-DA-SILVA-ME",
+  "description": "Jsm da Silva me",
+  "subnets": {
+    "ipv4": [
+      "179.42.28.0/22"
+    ],
+    "ipv6": [
+      "2804:76a0::/32"
+    ]
+  }
+}

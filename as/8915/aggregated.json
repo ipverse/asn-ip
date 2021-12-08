@@ -1,0 +1,12 @@
+{
+  "asn": 8915,
+  "handle": "DELFA",
+  "description": "Company Delfa Co. Ltd.",
+  "subnets": {
+    "ipv4": [
+      "80.90.176.0/22",
+      "95.140.144.0/21"
+    ],
+    "ipv6": []
+  }
+}

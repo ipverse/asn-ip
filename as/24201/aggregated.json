@@ -1,0 +1,12 @@
+{
+  "asn": 24201,
+  "handle": "ANDALASMEDIA-ID",
+  "description": "PT. Andalas Media Informatika",
+  "subnets": {
+    "ipv4": [
+      "119.2.64.0/19",
+      "202.87.248.0/21"
+    ],
+    "ipv6": []
+  }
+}

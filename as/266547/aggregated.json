@@ -1,0 +1,13 @@
+{
+  "asn": 266547,
+  "handle": "FASTSIGNAL-COM-E",
+  "description": "Fastsignal Com. e Serv. de informática Ltda",
+  "subnets": {
+    "ipv4": [
+      "160.238.128.0/22"
+    ],
+    "ipv6": [
+      "2804:3db0::/32"
+    ]
+  }
+}

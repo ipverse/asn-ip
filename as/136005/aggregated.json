@@ -1,0 +1,11 @@
+{
+  "asn": 136005,
+  "handle": "RRI-AP",
+  "description": "RAMAN RESEARCH INSTITUTE",
+  "subnets": {
+    "ipv4": [
+      "103.79.119.0/24"
+    ],
+    "ipv6": []
+  }
+}

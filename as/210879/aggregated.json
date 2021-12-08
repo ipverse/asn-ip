@@ -1,0 +1,13 @@
+{
+  "asn": 210879,
+  "handle": "BRICKS",
+  "description": "Bricks SAS",
+  "subnets": {
+    "ipv4": [
+      "31.216.61.0/24"
+    ],
+    "ipv6": [
+      "2a11:4980::/29"
+    ]
+  }
+}

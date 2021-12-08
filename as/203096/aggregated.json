@@ -1,0 +1,11 @@
+{
+  "asn": 203096,
+  "handle": "BUNQ",
+  "description": "bunq B.V.",
+  "subnets": {
+    "ipv4": [
+      "185.40.108.0/22"
+    ],
+    "ipv6": []
+  }
+}

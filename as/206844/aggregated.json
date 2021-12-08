@@ -1,0 +1,13 @@
+{
+  "asn": 206844,
+  "handle": "RIKS",
+  "description": "State Infocommunication Foundation",
+  "subnets": {
+    "ipv4": [
+      "171.22.245.0/24",
+      "171.22.246.0/23",
+      "185.174.160.0/22"
+    ],
+    "ipv6": []
+  }
+}

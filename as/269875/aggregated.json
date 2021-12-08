@@ -1,0 +1,13 @@
+{
+  "asn": 269875,
+  "handle": "SERVICIO-NACIONAL-DEL",
+  "description": "SERVICIO NACIONAL DEL PATRIMONIO CULTURAL (BIBLIOREDES)",
+  "subnets": {
+    "ipv4": [
+      "45.190.16.0/22"
+    ],
+    "ipv6": [
+      "2803:e8e0::/32"
+    ]
+  }
+}

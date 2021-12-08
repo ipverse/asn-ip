@@ -1,0 +1,11 @@
+{
+  "asn": 141018,
+  "handle": "UBX-AP",
+  "description": "UBX Cloud Private Limited",
+  "subnets": {
+    "ipv4": [
+      "103.154.252.0/23"
+    ],
+    "ipv6": []
+  }
+}

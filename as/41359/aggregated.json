@@ -1,0 +1,12 @@
+{
+  "asn": 41359,
+  "handle": "TELEFONZENTRALE",
+  "description": "Telefonzentrale s.r.o.",
+  "subnets": {
+    "ipv4": [
+      "45.82.152.0/24",
+      "185.220.220.0/24"
+    ],
+    "ipv6": []
+  }
+}

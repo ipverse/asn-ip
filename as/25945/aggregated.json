@@ -1,0 +1,13 @@
+{
+  "asn": 25945,
+  "handle": "CBSNSOC-LR",
+  "description": "Leidos CBSNSOC (commercial Business Services Network Security Operations Center)",
+  "subnets": {
+    "ipv4": [
+      "162.253.80.0/24",
+      "162.253.86.0/24",
+      "198.252.203.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 209098,
+  "handle": "BHNIX-PUBLIC",
+  "description": "University of Sarajevo",
+  "subnets": {
+    "ipv4": [
+      "85.209.96.0/22"
+    ],
+    "ipv6": [
+      "2a03:3320:387::/48"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 54713,
+  "handle": "CAMC",
+  "description": "CAMC Health System, Inc.",
+  "subnets": {
+    "ipv4": [
+      "206.193.64.0/24",
+      "206.193.72.0/21",
+      "206.193.80.0/21"
+    ],
+    "ipv6": []
+  }
+}

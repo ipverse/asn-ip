@@ -1,0 +1,13 @@
+{
+  "asn": 6493,
+  "handle": "BEACON-TECHNOLOGIES",
+  "description": "Beacon Technologies, Inc",
+  "subnets": {
+    "ipv4": [
+      "209.120.196.0/22",
+      "209.120.200.0/22",
+      "209.195.192.0/18"
+    ],
+    "ipv6": []
+  }
+}

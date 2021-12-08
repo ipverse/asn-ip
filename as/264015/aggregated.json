@@ -1,0 +1,12 @@
+{
+  "asn": 264015,
+  "handle": "ZONA-SUL-TELECOM-LTDA",
+  "description": "ZONA SUL TELECOM LTDA",
+  "subnets": {
+    "ipv4": [
+      "143.0.192.0/22",
+      "170.246.28.0/23"
+    ],
+    "ipv6": []
+  }
+}

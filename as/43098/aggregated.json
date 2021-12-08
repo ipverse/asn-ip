@@ -1,0 +1,11 @@
+{
+  "asn": 43098,
+  "handle": "SIX",
+  "description": "SIX Telekurs Sweden AB",
+  "subnets": {
+    "ipv4": [
+      "194.68.36.0/24"
+    ],
+    "ipv6": []
+  }
+}

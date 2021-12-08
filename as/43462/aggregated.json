@@ -1,0 +1,13 @@
+{
+  "asn": 43462,
+  "handle": "SMARTCOM",
+  "description": "Smart Com d.o.o.",
+  "subnets": {
+    "ipv4": [
+      "193.46.75.0/24"
+    ],
+    "ipv6": [
+      "2001:67c:1fc::/48"
+    ]
+  }
+}

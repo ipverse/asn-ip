@@ -1,0 +1,13 @@
+{
+  "asn": 266936,
+  "handle": "MT-TELECOM-SUL",
+  "description": "MT-TELECOM SUL",
+  "subnets": {
+    "ipv4": [
+      "45.225.124.0/22"
+    ],
+    "ipv6": [
+      "2804:4594::/32"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 132956,
+  "handle": "VNET",
+  "description": "V NET NETWORKS PVT LTD",
+  "subnets": {
+    "ipv4": [
+      "103.212.16.0/24",
+      "103.212.18.0/23"
+    ],
+    "ipv6": []
+  }
+}

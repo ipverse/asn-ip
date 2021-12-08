@@ -1,0 +1,14 @@
+{
+  "asn": 52748,
+  "handle": "SEITEL-SEIXAS-TELECOMUNICACOES",
+  "description": "Seitel - Seixas Telecomunicações",
+  "subnets": {
+    "ipv4": [
+      "177.137.248.0/21",
+      "177.155.64.0/20"
+    ],
+    "ipv6": [
+      "2804:b30::/32"
+    ]
+  }
+}

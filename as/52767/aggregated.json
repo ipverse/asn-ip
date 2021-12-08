@@ -1,0 +1,13 @@
+{
+  "asn": 52767,
+  "handle": "CAPINZAL-NET",
+  "description": "Capinzal NET",
+  "subnets": {
+    "ipv4": [
+      "177.39.132.0/22"
+    ],
+    "ipv6": [
+      "2804:b58::/32"
+    ]
+  }
+}

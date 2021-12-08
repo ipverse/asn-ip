@@ -1,0 +1,13 @@
+{
+  "asn": 205452,
+  "handle": "DI",
+  "description": "Dansk Industri",
+  "subnets": {
+    "ipv4": [
+      "185.218.40.0/22"
+    ],
+    "ipv6": [
+      "2a0b:d2c0::/29"
+    ]
+  }
+}

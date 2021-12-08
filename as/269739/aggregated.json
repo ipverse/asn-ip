@@ -1,0 +1,11 @@
+{
+  "asn": 269739,
+  "handle": "UBI-NETWORKING-SA-UBIRED",
+  "description": "UBI NETWORKING S.A. (UBIRED)",
+  "subnets": {
+    "ipv4": [
+      "45.181.244.0/22"
+    ],
+    "ipv6": []
+  }
+}

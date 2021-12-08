@@ -1,0 +1,13 @@
+{
+  "asn": 49373,
+  "handle": "FOTONTELECOM-STUB",
+  "description": "JSC Universal Card Technologies",
+  "subnets": {
+    "ipv4": [
+      "91.214.76.0/22"
+    ],
+    "ipv6": [
+      "2a00:1e6a::/32"
+    ]
+  }
+}

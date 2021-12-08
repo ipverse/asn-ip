@@ -1,0 +1,12 @@
+{
+  "asn": 209529,
+  "handle": "WIBER",
+  "description": "WIBER NET SRL",
+  "subnets": {
+    "ipv4": [
+      "185.228.220.0/22",
+      "185.248.72.0/22"
+    ],
+    "ipv6": []
+  }
+}

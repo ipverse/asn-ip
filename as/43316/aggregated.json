@@ -1,0 +1,11 @@
+{
+  "asn": 43316,
+  "handle": "CMA",
+  "description": "Capital Market Authority",
+  "subnets": {
+    "ipv4": [
+      "77.240.130.0/23"
+    ],
+    "ipv6": []
+  }
+}

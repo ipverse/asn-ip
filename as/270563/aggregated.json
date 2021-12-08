@@ -1,0 +1,13 @@
+{
+  "asn": 270563,
+  "handle": "INVINET-PROVEDOR-LTDA-ME",
+  "description": "INVINET PROVEDOR LTDA - ME",
+  "subnets": {
+    "ipv4": [
+      "24.152.28.0/22"
+    ],
+    "ipv6": [
+      "2804:6de8::/32"
+    ]
+  }
+}

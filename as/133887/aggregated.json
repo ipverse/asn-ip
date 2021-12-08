@@ -1,0 +1,12 @@
+{
+  "asn": 133887,
+  "handle": "CYBERHUB-AP",
+  "description": "CyberHub Ltd",
+  "subnets": {
+    "ipv4": [
+      "43.226.216.0/22",
+      "103.45.240.0/22"
+    ],
+    "ipv6": []
+  }
+}

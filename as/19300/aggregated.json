@@ -1,0 +1,12 @@
+{
+  "asn": 19300,
+  "handle": "KUBRA-USA",
+  "description": "Kubra",
+  "subnets": {
+    "ipv4": [
+      "205.216.45.0/24",
+      "209.66.117.0/24"
+    ],
+    "ipv6": []
+  }
+}

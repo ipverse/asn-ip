@@ -1,0 +1,14 @@
+{
+  "asn": 4767,
+  "handle": "AIT-CS",
+  "description": "Computer Science",
+  "subnets": {
+    "ipv4": [
+      "192.41.170.0/24",
+      "203.159.0.0/18"
+    ],
+    "ipv6": [
+      "2403:e240::/32"
+    ]
+  }
+}

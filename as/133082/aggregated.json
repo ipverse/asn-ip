@@ -1,0 +1,11 @@
+{
+  "asn": 133082,
+  "handle": "FIBMESH-AP",
+  "description": "FIBMESH IN LIMITED",
+  "subnets": {
+    "ipv4": [
+      "103.255.80.0/22"
+    ],
+    "ipv6": []
+  }
+}

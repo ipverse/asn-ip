@@ -1,0 +1,13 @@
+{
+  "asn": 328267,
+  "handle": "TYSFLO",
+  "description": "Tysflo (Pty) Ltd",
+  "subnets": {
+    "ipv4": [
+      "160.238.48.0/24"
+    ],
+    "ipv6": [
+      "2001:43f8:1090::/48"
+    ]
+  }
+}

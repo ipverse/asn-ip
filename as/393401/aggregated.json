@@ -1,0 +1,13 @@
+{
+  "asn": 393401,
+  "handle": "HAYSMED",
+  "description": "Hays Medical Center",
+  "subnets": {
+    "ipv4": [
+      "69.77.16.0/24"
+    ],
+    "ipv6": [
+      "2620:6e:c000::/48"
+    ]
+  }
+}

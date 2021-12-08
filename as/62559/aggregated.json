@@ -1,0 +1,12 @@
+{
+  "asn": 62559,
+  "handle": "CITYOFPEORIAAZ",
+  "description": "CITY OF PEORIA",
+  "subnets": {
+    "ipv4": [
+      "70.166.194.0/24",
+      "207.108.129.0/24"
+    ],
+    "ipv6": []
+  }
+}

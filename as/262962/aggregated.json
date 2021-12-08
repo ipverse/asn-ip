@@ -1,0 +1,13 @@
+{
+  "asn": 262962,
+  "handle": "LENCO-TECNOLOGIA-LTDA",
+  "description": "LENCO TECNOLOGIA LTDA",
+  "subnets": {
+    "ipv4": [
+      "131.255.245.0/24",
+      "131.255.246.0/23",
+      "187.85.56.0/22"
+    ],
+    "ipv6": []
+  }
+}

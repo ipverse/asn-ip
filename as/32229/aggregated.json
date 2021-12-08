@@ -1,0 +1,14 @@
+{
+  "asn": 32229,
+  "handle": "JSUMS-ARIN",
+  "description": "Jackson State University",
+  "subnets": {
+    "ipv4": [
+      "143.132.0.0/17",
+      "143.132.128.0/18",
+      "143.132.192.0/20",
+      "143.132.224.0/19"
+    ],
+    "ipv6": []
+  }
+}

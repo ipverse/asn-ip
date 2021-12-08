@@ -1,0 +1,12 @@
+{
+  "asn": 210562,
+  "handle": "DDNS",
+  "description": "Nicolas Embriz",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2001:67c:8cc::/48",
+      "2a0e:97c0:620::/44"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 45532,
+  "handle": "BB-BTCL-AP",
+  "description": "Bangladesh Telegraph \u0026 Telephone Board",
+  "subnets": {
+    "ipv4": [
+      "103.142.142.0/23",
+      "114.130.42.0/23"
+    ],
+    "ipv6": []
+  }
+}

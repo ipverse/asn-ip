@@ -1,0 +1,13 @@
+{
+  "asn": 270914,
+  "handle": "ZAP-TELECOM-LTDA-MRN",
+  "description": "ZAP TELECOM LTDA - MRN",
+  "subnets": {
+    "ipv4": [
+      "179.43.32.0/22"
+    ],
+    "ipv6": [
+      "2804:736c::/32"
+    ]
+  }
+}

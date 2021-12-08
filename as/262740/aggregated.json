@@ -1,0 +1,14 @@
+{
+  "asn": 262740,
+  "handle": "VELOO-NET-LTDA",
+  "description": "VELOO NET LTDA",
+  "subnets": {
+    "ipv4": [
+      "179.97.32.0/20",
+      "186.208.64.0/20"
+    ],
+    "ipv6": [
+      "2804:2bf0::/32"
+    ]
+  }
+}

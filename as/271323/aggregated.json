@@ -1,0 +1,13 @@
+{
+  "asn": 271323,
+  "handle": "CONNECT-TELECOM",
+  "description": "CONNECT TELECOM",
+  "subnets": {
+    "ipv4": [
+      "190.123.68.0/22"
+    ],
+    "ipv6": [
+      "2804:79b8::/32"
+    ]
+  }
+}

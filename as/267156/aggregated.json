@@ -1,0 +1,13 @@
+{
+  "asn": 267156,
+  "handle": "CONECTELL-TELECOM",
+  "description": "CONECTELL TELECOM",
+  "subnets": {
+    "ipv4": [
+      "45.229.152.0/22"
+    ],
+    "ipv6": [
+      "2804:48f8::/32"
+    ]
+  }
+}

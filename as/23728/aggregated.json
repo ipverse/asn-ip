@@ -1,0 +1,13 @@
+{
+  "asn": 23728,
+  "handle": "REPUBLICPOLYTECHNIC",
+  "description": "Republic Polytechnic, Singapore",
+  "subnets": {
+    "ipv4": [
+      "202.21.158.0/23"
+    ],
+    "ipv6": [
+      "2403:4700::/47"
+    ]
+  }
+}

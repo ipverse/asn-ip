@@ -1,0 +1,11 @@
+{
+  "asn": 61114,
+  "handle": "FMS-SG",
+  "description": "FMS Wertmanagement Service Gmbh",
+  "subnets": {
+    "ipv4": [
+      "194.29.79.0/24"
+    ],
+    "ipv6": []
+  }
+}

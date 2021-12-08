@@ -1,0 +1,12 @@
+{
+  "asn": 211113,
+  "handle": "CARMINE-CELLA",
+  "description": "Carmine Cella",
+  "subnets": {
+    "ipv4": [
+      "185.179.216.0/22",
+      "191.96.108.0/23"
+    ],
+    "ipv6": []
+  }
+}

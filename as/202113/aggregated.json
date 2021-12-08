@@ -1,0 +1,14 @@
+{
+  "asn": 202113,
+  "handle": "PLANB",
+  "description": "plan b. solutions GmbH",
+  "subnets": {
+    "ipv4": [
+      "44.130.112.0/24",
+      "185.52.244.0/22"
+    ],
+    "ipv6": [
+      "2a04:c9c0::/29"
+    ]
+  }
+}

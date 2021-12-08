@@ -1,0 +1,13 @@
+{
+  "asn": 10195,
+  "handle": "HAIONNET-KR-KR",
+  "description": "HAIonNet",
+  "subnets": {
+    "ipv4": [
+      "115.144.35.0/24",
+      "115.144.39.0/24",
+      "115.144.56.0/24"
+    ],
+    "ipv6": []
+  }
+}

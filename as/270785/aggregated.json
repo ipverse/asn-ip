@@ -1,0 +1,11 @@
+{
+  "asn": 270785,
+  "handle": "PRNET-PROVEDOR-DE",
+  "description": "PRNET PROVEDOR DE INTERNET LTDA",
+  "subnets": {
+    "ipv4": [
+      "189.51.160.0/22"
+    ],
+    "ipv6": []
+  }
+}

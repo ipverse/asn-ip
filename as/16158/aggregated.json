@@ -1,0 +1,12 @@
+{
+  "asn": 16158,
+  "handle": "COMVERSE",
+  "description": "Mavenir Ltd",
+  "subnets": {
+    "ipv4": [
+      "192.118.48.0/22",
+      "198.202.183.0/24"
+    ],
+    "ipv6": []
+  }
+}

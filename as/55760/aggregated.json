@@ -1,0 +1,13 @@
+{
+  "asn": 55760,
+  "handle": "MUT-AP",
+  "description": "KSC Commercial Internet Co.Ltd.",
+  "subnets": {
+    "ipv4": [
+      "203.188.16.0/20",
+      "203.188.48.0/20",
+      "203.209.48.0/21"
+    ],
+    "ipv6": []
+  }
+}

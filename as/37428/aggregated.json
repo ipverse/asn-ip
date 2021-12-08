@@ -1,0 +1,11 @@
+{
+  "asn": 37428,
+  "handle": "AFRICANBANK",
+  "description": "Africanbank",
+  "subnets": {
+    "ipv4": [
+      "196.15.12.0/24"
+    ],
+    "ipv6": []
+  }
+}

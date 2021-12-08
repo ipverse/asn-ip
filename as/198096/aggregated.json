@@ -1,0 +1,13 @@
+{
+  "asn": 198096,
+  "handle": "CICA",
+  "description": "Junta de Andalucia",
+  "subnets": {
+    "ipv4": [
+      "150.214.0.0/16"
+    ],
+    "ipv6": [
+      "2a00:9ac0::/32"
+    ]
+  }
+}

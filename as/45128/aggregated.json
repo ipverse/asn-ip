@@ -1,0 +1,13 @@
+{
+  "asn": 45128,
+  "handle": "ANSTO-AP",
+  "description": "Australian Nuclear Science and Technology Organisation",
+  "subnets": {
+    "ipv4": [
+      "137.157.0.0/16"
+    ],
+    "ipv6": [
+      "2001:df0:93::/48"
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "asn": 263327,
+  "handle": "ONLINE-SERVICOS-DE",
+  "description": "ONLINE SERVICOS DE TELECOMUNICACOES LTDA",
+  "subnets": {
+    "ipv4": [
+      "45.238.86.0/23",
+      "177.55.253.0/24",
+      "191.7.192.0/19"
+    ],
+    "ipv6": [
+      "2804:145c::/32"
+    ]
+  }
+}

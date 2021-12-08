@@ -1,0 +1,12 @@
+{
+  "asn": 138907,
+  "handle": "KHANBANK-AP",
+  "description": "KHAN BANK LLC",
+  "subnets": {
+    "ipv4": [
+      "103.136.254.0/24",
+      "103.142.76.0/24"
+    ],
+    "ipv6": []
+  }
+}

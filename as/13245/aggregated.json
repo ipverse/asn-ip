@@ -1,0 +1,11 @@
+{
+  "asn": 13245,
+  "handle": "FOLTRON",
+  "description": "Foltron LP",
+  "subnets": {
+    "ipv4": [
+      "185.126.120.0/22"
+    ],
+    "ipv6": []
+  }
+}

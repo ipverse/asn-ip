@@ -1,0 +1,11 @@
+{
+  "asn": 149037,
+  "handle": "MAVORION-AP",
+  "description": "Mavorion Systems",
+  "subnets": {
+    "ipv4": [
+      "103.177.68.0/23"
+    ],
+    "ipv6": []
+  }
+}

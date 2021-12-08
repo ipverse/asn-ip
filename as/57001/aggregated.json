@@ -1,0 +1,11 @@
+{
+  "asn": 57001,
+  "handle": "ASWEBSERVICE",
+  "description": "TOV Webservis",
+  "subnets": {
+    "ipv4": [
+      "91.229.240.0/22"
+    ],
+    "ipv6": []
+  }
+}

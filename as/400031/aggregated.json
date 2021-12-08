@@ -1,0 +1,11 @@
+{
+  "asn": 400031,
+  "handle": "GIGAPACKET",
+  "description": "GigaPacket LLC",
+  "subnets": {
+    "ipv4": [
+      "81.31.192.0/22"
+    ],
+    "ipv6": []
+  }
+}

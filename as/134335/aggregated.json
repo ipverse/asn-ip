@@ -1,0 +1,12 @@
+{
+  "asn": 134335,
+  "handle": "AIRCONNECT",
+  "description": "Air Connect Internet Services Pvt ltd",
+  "subnets": {
+    "ipv4": [
+      "103.94.114.0/24",
+      "103.201.132.0/22"
+    ],
+    "ipv6": []
+  }
+}

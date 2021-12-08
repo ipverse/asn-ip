@@ -1,0 +1,13 @@
+{
+  "asn": 267556,
+  "handle": "EXPLORER-TELECOM-LTDA-ME",
+  "description": "Explorer Telecom Ltda - ME",
+  "subnets": {
+    "ipv4": [
+      "45.70.0.0/22"
+    ],
+    "ipv6": [
+      "2804:4338::/32"
+    ]
+  }
+}

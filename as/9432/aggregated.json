@@ -1,0 +1,12 @@
+{
+  "asn": 9432,
+  "handle": "CANTERBURY",
+  "description": "Vodafone New Zealand Limited",
+  "subnets": {
+    "ipv4": [
+      "132.181.0.0/16",
+      "202.36.178.0/23"
+    ],
+    "ipv6": []
+  }
+}

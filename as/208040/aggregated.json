@@ -1,0 +1,12 @@
+{
+  "asn": 208040,
+  "handle": "GHOFI",
+  "description": "RSS (RAPID SOFTWARE SYSTEMS) CYPRUS LTD",
+  "subnets": {
+    "ipv4": [
+      "193.161.24.0/23",
+      "193.161.28.0/23"
+    ],
+    "ipv6": []
+  }
+}

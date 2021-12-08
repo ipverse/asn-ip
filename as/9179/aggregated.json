@@ -1,0 +1,13 @@
+{
+  "asn": 9179,
+  "handle": "FIDO-ANYCAST",
+  "description": "FidoNet Registration Services Ltd",
+  "subnets": {
+    "ipv4": [
+      "192.88.83.0/24"
+    ],
+    "ipv6": [
+      "2a01:2c0:23db::/48"
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 52878,
+  "handle": "REDE-DE-TELECOMUNICACOES",
+  "description": "REDE DE TELECOMUNICAÇÕES CARAJAS LTDA",
+  "subnets": {
+    "ipv4": [
+      "170.239.0.0/22",
+      "186.232.200.0/21"
+    ],
+    "ipv6": [
+      "2804:93c::/32"
+    ]
+  }
+}

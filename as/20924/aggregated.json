@@ -1,0 +1,14 @@
+{
+  "asn": 20924,
+  "handle": "LUTECH-ICTEAM",
+  "description": "LUTECH S.P.A.",
+  "subnets": {
+    "ipv4": [
+      "80.76.64.0/20",
+      "185.156.132.0/22"
+    ],
+    "ipv6": [
+      "2a01:5880::/32"
+    ]
+  }
+}

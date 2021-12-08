@@ -1,0 +1,11 @@
+{
+  "asn": 138497,
+  "handle": "WEBSOLUTION-AP",
+  "description": "Web Solution",
+  "subnets": {
+    "ipv4": [
+      "103.127.44.0/22"
+    ],
+    "ipv6": []
+  }
+}

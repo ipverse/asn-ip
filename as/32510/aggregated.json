@@ -1,0 +1,12 @@
+{
+  "asn": 32510,
+  "handle": "FOODLION1",
+  "description": "Food Lion, LLC",
+  "subnets": {
+    "ipv4": [
+      "198.190.25.0/24",
+      "198.190.28.0/24"
+    ],
+    "ipv6": []
+  }
+}

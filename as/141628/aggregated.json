@@ -1,0 +1,11 @@
+{
+  "asn": 141628,
+  "handle": "IDNIC-SAPULIDI-NET-ID",
+  "description": "PT Sapu Lintas Digital",
+  "subnets": {
+    "ipv4": [
+      "103.161.146.0/23"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asn": 271607,
+  "handle": "WLINK-PROVEDOR-DE",
+  "description": "WLINK PROVEDOR DE ACESSO A REDES DE TELECOM EIRELI",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2804:7e2c::/32"
+    ]
+  }
+}

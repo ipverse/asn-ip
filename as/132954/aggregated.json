@@ -1,0 +1,12 @@
+{
+  "asn": 132954,
+  "handle": "NXTRADATA",
+  "description": "NXTR DATA LIMITED",
+  "subnets": {
+    "ipv4": [
+      "27.0.140.0/22",
+      "103.255.216.0/22"
+    ],
+    "ipv6": []
+  }
+}

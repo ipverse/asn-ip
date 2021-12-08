@@ -1,0 +1,13 @@
+{
+  "asn": 269025,
+  "handle": "GMAX-TELECOMUNICACAO",
+  "description": "GmaX Telecomunicaçao",
+  "subnets": {
+    "ipv4": [
+      "45.178.128.0/22"
+    ],
+    "ipv6": [
+      "2804:5e50::/32"
+    ]
+  }
+}

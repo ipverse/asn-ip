@@ -1,0 +1,13 @@
+{
+  "asn": 52887,
+  "handle": "ASSOCIACAO-TORRE-DE",
+  "description": "Associação Torre de Vigia de Bíblias e Tratados",
+  "subnets": {
+    "ipv4": [
+      "138.59.56.0/22"
+    ],
+    "ipv6": [
+      "2804:1f06::/32"
+    ]
+  }
+}

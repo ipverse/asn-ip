@@ -1,0 +1,12 @@
+{
+  "asn": 36837,
+  "handle": "TELETRAC",
+  "description": "Teletrac, Inc.",
+  "subnets": {
+    "ipv4": [
+      "67.111.6.0/24",
+      "208.27.128.0/24"
+    ],
+    "ipv6": []
+  }
+}

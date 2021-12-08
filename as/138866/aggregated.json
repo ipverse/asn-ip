@@ -1,0 +1,11 @@
+{
+  "asn": 138866,
+  "handle": "MMD-ID",
+  "description": "PT Mitra Media Data",
+  "subnets": {
+    "ipv4": [
+      "103.140.130.0/23"
+    ],
+    "ipv6": []
+  }
+}

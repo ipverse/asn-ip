@@ -1,0 +1,13 @@
+{
+  "asn": 141732,
+  "handle": "ANPL-AP",
+  "description": "Aone Network Pvt. Ltd",
+  "subnets": {
+    "ipv4": [
+      "103.162.234.0/23"
+    ],
+    "ipv6": [
+      "2407:1e40::/32"
+    ]
+  }
+}

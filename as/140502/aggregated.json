@@ -1,0 +1,11 @@
+{
+  "asn": 140502,
+  "handle": "BAHANNO-AP",
+  "description": "Bahanno",
+  "subnets": {
+    "ipv4": [
+      "103.150.6.0/23"
+    ],
+    "ipv6": []
+  }
+}

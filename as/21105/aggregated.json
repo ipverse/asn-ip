@@ -1,0 +1,11 @@
+{
+  "asn": 21105,
+  "handle": "RTK-TRANZIT",
+  "description": "OOO RTK-Primorye",
+  "subnets": {
+    "ipv4": [
+      "80.89.0.0/20"
+    ],
+    "ipv6": []
+  }
+}

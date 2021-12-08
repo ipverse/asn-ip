@@ -1,0 +1,11 @@
+{
+  "asn": 140856,
+  "handle": "CHINATELECOM-JIANGXI-SHANGRAO-5G-NETWORK",
+  "description": "China Telecom",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "240e:13:804::/48"
+    ]
+  }
+}

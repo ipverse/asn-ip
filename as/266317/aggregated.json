@@ -1,0 +1,14 @@
+{
+  "asn": 266317,
+  "handle": "REVILINK-TELECOM",
+  "description": "REVILINK TELECOM",
+  "subnets": {
+    "ipv4": [
+      "170.238.44.0/24"
+    ],
+    "ipv6": [
+      "2804:35f4::/33",
+      "2804:35f4:8000::/34"
+    ]
+  }
+}

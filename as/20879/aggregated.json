@@ -1,0 +1,11 @@
+{
+  "asn": 20879,
+  "handle": "MICRONET",
+  "description": "RCS \u0026 RDS SA",
+  "subnets": {
+    "ipv4": [
+      "194.176.162.0/24"
+    ],
+    "ipv6": []
+  }
+}

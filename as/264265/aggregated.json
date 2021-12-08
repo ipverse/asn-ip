@@ -1,0 +1,14 @@
+{
+  "asn": 264265,
+  "handle": "VIAWEBRS-TELECOMUNICACOES",
+  "description": "VIAWEBRS TELECOMUNICACOES",
+  "subnets": {
+    "ipv4": [
+      "138.118.196.0/22",
+      "170.246.200.0/22"
+    ],
+    "ipv6": [
+      "2804:2530::/32"
+    ]
+  }
+}

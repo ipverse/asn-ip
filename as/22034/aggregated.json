@@ -1,0 +1,13 @@
+{
+  "asn": 22034,
+  "handle": "MCMNET",
+  "description": "MCMASTER CARR SUPPLY COMPANY",
+  "subnets": {
+    "ipv4": [
+      "12.203.197.0/24",
+      "63.84.162.0/24",
+      "209.64.25.0/24"
+    ],
+    "ipv6": []
+  }
+}

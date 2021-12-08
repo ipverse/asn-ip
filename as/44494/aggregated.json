@@ -1,0 +1,12 @@
+{
+  "asn": 44494,
+  "handle": "VIA-NUMERICA",
+  "description": "CELESTE SAS",
+  "subnets": {
+    "ipv4": [
+      "80.245.16.0/20",
+      "185.81.52.0/22"
+    ],
+    "ipv6": []
+  }
+}

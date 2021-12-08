@@ -1,0 +1,13 @@
+{
+  "asn": 203081,
+  "handle": "GEENET",
+  "description": "Geenet OY",
+  "subnets": {
+    "ipv4": [
+      "185.145.4.0/22"
+    ],
+    "ipv6": [
+      "2a07:44c0::/29"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asn": 4632,
+  "handle": "TMNS",
+  "description": "Telstra Corporation Limited",
+  "subnets": {
+    "ipv4": [
+      "192.131.30.0/24"
+    ],
+    "ipv6": []
+  }
+}

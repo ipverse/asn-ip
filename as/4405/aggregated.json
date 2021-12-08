@@ -1,0 +1,11 @@
+{
+  "asn": 4405,
+  "handle": "CREDITSUISSEGROUP",
+  "description": "Credit Suisse Group",
+  "subnets": {
+    "ipv4": [
+      "198.240.203.0/24"
+    ],
+    "ipv6": []
+  }
+}

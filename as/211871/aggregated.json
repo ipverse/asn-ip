@@ -1,0 +1,15 @@
+{
+  "asn": 211871,
+  "handle": "ODEAWEB",
+  "description": "ODEAWEB Bilisim Teknolojileri Sanayi ve Ticaret Limited Sirketi",
+  "subnets": {
+    "ipv4": [
+      "45.146.161.0/24",
+      "45.158.12.0/24",
+      "45.200.120.0/24",
+      "213.238.179.0/24",
+      "213.238.181.0/24"
+    ],
+    "ipv6": []
+  }
+}

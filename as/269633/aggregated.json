@@ -1,0 +1,13 @@
+{
+  "asn": 269633,
+  "handle": "LCE-TELECOM",
+  "description": "LCE TELECOM",
+  "subnets": {
+    "ipv4": [
+      "45.190.40.0/22"
+    ],
+    "ipv6": [
+      "2804:6784::/32"
+    ]
+  }
+}

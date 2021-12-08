@@ -1,0 +1,12 @@
+{
+  "asn": 28170,
+  "handle": "WMB-SUPERMERCADOS-DO",
+  "description": "WMB SUPERMERCADOS DO BRASIL LTDA",
+  "subnets": {
+    "ipv4": [
+      "187.63.243.0/24",
+      "187.63.252.0/22"
+    ],
+    "ipv6": []
+  }
+}

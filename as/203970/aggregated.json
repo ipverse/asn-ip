@@ -1,0 +1,12 @@
+{
+  "asn": 203970,
+  "handle": "BOSCH-IOT-CLOUD",
+  "description": "Robert Bosch Gesellschaft mit Beschraenkter Haftung",
+  "subnets": {
+    "ipv4": [
+      "139.15.0.0/20",
+      "185.112.176.0/22"
+    ],
+    "ipv6": []
+  }
+}

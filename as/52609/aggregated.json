@@ -1,0 +1,13 @@
+{
+  "asn": 52609,
+  "handle": "EVO-NETWORKS",
+  "description": "EVO Networks",
+  "subnets": {
+    "ipv4": [
+      "179.189.48.0/20"
+    ],
+    "ipv6": [
+      "2804:30bc::/32"
+    ]
+  }
+}

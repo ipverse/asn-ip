@@ -1,0 +1,11 @@
+{
+  "asn": 137168,
+  "handle": "GMLBROADBAND",
+  "description": "Gml Teleservices Private Limites",
+  "subnets": {
+    "ipv4": [
+      "103.55.97.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 14020,
+  "handle": "LONGWOOD-1",
+  "description": "Longwood Gardens Inc.",
+  "subnets": {
+    "ipv4": [
+      "204.108.248.0/24",
+      "216.158.60.0/24"
+    ],
+    "ipv6": []
+  }
+}

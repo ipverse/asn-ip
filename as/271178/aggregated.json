@@ -1,0 +1,13 @@
+{
+  "asn": 271178,
+  "handle": "MCV-SOUSA-ME",
+  "description": "MCV SOUSA ME",
+  "subnets": {
+    "ipv4": [
+      "179.42.128.0/22"
+    ],
+    "ipv6": [
+      "2804:7770::/32"
+    ]
+  }
+}

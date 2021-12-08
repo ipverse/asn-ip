@@ -1,0 +1,11 @@
+{
+  "asn": 38522,
+  "handle": "TELINDONET-ID",
+  "description": "Telindo Nusantara, PT",
+  "subnets": {
+    "ipv4": [
+      "122.49.224.0/21"
+    ],
+    "ipv6": []
+  }
+}

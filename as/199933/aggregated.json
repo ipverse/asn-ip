@@ -1,0 +1,13 @@
+{
+  "asn": 199933,
+  "handle": "ELEKTRANET",
+  "description": "Elektranet Ltd.",
+  "subnets": {
+    "ipv4": [
+      "185.41.120.0/22"
+    ],
+    "ipv6": [
+      "2a01:4de0::/32"
+    ]
+  }
+}

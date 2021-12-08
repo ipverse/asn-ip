@@ -1,0 +1,11 @@
+{
+  "asn": 8576,
+  "handle": "CW-ASPAC",
+  "description": "Vodafone Limited",
+  "subnets": {
+    "ipv4": [
+      "203.169.61.0/24"
+    ],
+    "ipv6": []
+  }
+}

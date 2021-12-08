@@ -1,0 +1,13 @@
+{
+  "asn": 270831,
+  "handle": "MURICI-NET",
+  "description": "MURICI NET",
+  "subnets": {
+    "ipv4": [
+      "189.14.124.0/22"
+    ],
+    "ipv6": [
+      "2804:7214::/32"
+    ]
+  }
+}

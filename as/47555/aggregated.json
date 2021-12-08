@@ -1,0 +1,11 @@
+{
+  "asn": 47555,
+  "handle": "EURASERV-L1",
+  "description": "Diogenius SPRL",
+  "subnets": {
+    "ipv4": [
+      "128.127.181.0/24"
+    ],
+    "ipv6": []
+  }
+}

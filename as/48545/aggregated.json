@@ -1,0 +1,12 @@
+{
+  "asn": 48545,
+  "handle": "ING-DIBA-AG",
+  "description": "ING-DiBa AG",
+  "subnets": {
+    "ipv4": [
+      "185.142.176.0/22",
+      "194.127.138.0/24"
+    ],
+    "ipv6": []
+  }
+}

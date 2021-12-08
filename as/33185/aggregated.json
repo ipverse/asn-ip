@@ -1,0 +1,15 @@
+{
+  "asn": 33185,
+  "handle": "HIVE-DATA-CENTER",
+  "description": "Hive Data Center Inc.",
+  "subnets": {
+    "ipv4": [
+      "45.45.160.0/22",
+      "104.167.216.0/22",
+      "170.39.196.0/22"
+    ],
+    "ipv6": [
+      "2602:fd23::/36"
+    ]
+  }
+}

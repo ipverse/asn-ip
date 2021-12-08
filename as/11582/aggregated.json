@@ -1,0 +1,12 @@
+{
+  "asn": 11582,
+  "handle": "SMART-CITY-SLCC",
+  "description": "Smart City Networks, L.P.",
+  "subnets": {
+    "ipv4": [
+      "24.56.134.0/24",
+      "24.75.204.0/22"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 36703,
+  "handle": "AMT-MANAGED-NETWORKS",
+  "description": "ATC IP LLC",
+  "subnets": {
+    "ipv4": [
+      "38.109.200.0/24",
+      "38.109.225.0/24",
+      "38.128.98.0/24"
+    ],
+    "ipv6": []
+  }
+}

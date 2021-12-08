@@ -1,0 +1,13 @@
+{
+  "asn": 21362,
+  "handle": "KBC-EDS",
+  "description": "Kapsch BusinessCom AG",
+  "subnets": {
+    "ipv4": [
+      "193.41.41.0/24",
+      "193.109.232.0/24",
+      "194.187.92.0/22"
+    ],
+    "ipv6": []
+  }
+}

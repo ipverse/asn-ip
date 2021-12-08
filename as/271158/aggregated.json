@@ -1,0 +1,13 @@
+{
+  "asn": 271158,
+  "handle": "HDC-TELECOM-LINK",
+  "description": "HDC TELECOM LINK DEDICADO FIBRA ÓPTICA TV E TELE",
+  "subnets": {
+    "ipv4": [
+      "191.241.60.0/23"
+    ],
+    "ipv6": [
+      "2804:7724::/32"
+    ]
+  }
+}

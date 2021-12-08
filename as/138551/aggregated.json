@@ -1,0 +1,12 @@
+{
+  "asn": 138551,
+  "handle": "SKYINFOONLINE-AP",
+  "description": "Skyinfo Online",
+  "subnets": {
+    "ipv4": [
+      "103.132.187.0/24",
+      "103.148.108.0/24"
+    ],
+    "ipv6": []
+  }
+}

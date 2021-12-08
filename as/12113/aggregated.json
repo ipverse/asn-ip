@@ -1,0 +1,12 @@
+{
+  "asn": 12113,
+  "handle": "DAWN-FOOD-PRODUCTS",
+  "description": "Dawn Food Products, Inc.",
+  "subnets": {
+    "ipv4": [
+      "63.232.231.0/24",
+      "192.251.34.0/24"
+    ],
+    "ipv6": []
+  }
+}

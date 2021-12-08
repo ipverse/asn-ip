@@ -1,0 +1,11 @@
+{
+  "asn": 209049,
+  "handle": "MICHCOM",
+  "description": "Michcom ISP",
+  "subnets": {
+    "ipv4": [
+      "195.110.180.0/22"
+    ],
+    "ipv6": []
+  }
+}

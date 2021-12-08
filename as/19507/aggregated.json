@@ -1,0 +1,11 @@
+{
+  "asn": 19507,
+  "handle": "NYC-TRANSIT",
+  "description": "New York City Transit Authority",
+  "subnets": {
+    "ipv4": [
+      "170.28.192.0/24"
+    ],
+    "ipv6": []
+  }
+}

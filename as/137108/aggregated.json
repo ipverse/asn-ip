@@ -1,0 +1,11 @@
+{
+  "asn": 137108,
+  "handle": "BKID",
+  "description": "Bank Of India",
+  "subnets": {
+    "ipv4": [
+      "103.109.134.0/23"
+    ],
+    "ipv6": []
+  }
+}

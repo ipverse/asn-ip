@@ -1,0 +1,11 @@
+{
+  "asn": 38089,
+  "handle": "KBANK-KR-KR",
+  "description": "kbank",
+  "subnets": {
+    "ipv4": [
+      "103.77.84.0/23"
+    ],
+    "ipv6": []
+  }
+}

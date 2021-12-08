@@ -1,0 +1,13 @@
+{
+  "asn": 31337,
+  "handle": "ELEET",
+  "description": "ELEET Networks",
+  "subnets": {
+    "ipv4": [
+      "193.178.60.0/22"
+    ],
+    "ipv6": [
+      "2001:67c:1898::/48"
+    ]
+  }
+}

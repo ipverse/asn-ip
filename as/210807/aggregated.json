@@ -1,0 +1,15 @@
+{
+  "asn": 210807,
+  "handle": "LYONS",
+  "description": "Coleraine Share Trading Pty. Ltd.",
+  "subnets": {
+    "ipv4": [
+      "94.124.79.0/24",
+      "103.169.92.0/23"
+    ],
+    "ipv6": [
+      "2407:9e40::/32",
+      "2a11:8080::/29"
+    ]
+  }
+}

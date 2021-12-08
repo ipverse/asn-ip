@@ -1,0 +1,13 @@
+{
+  "asn": 200437,
+  "handle": "KBTO",
+  "description": "Wojewodztwo Mazowieckie",
+  "subnets": {
+    "ipv4": [
+      "185.105.140.0/22"
+    ],
+    "ipv6": [
+      "2a04:edc0::/29"
+    ]
+  }
+}

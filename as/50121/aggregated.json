@@ -1,0 +1,12 @@
+{
+  "asn": 50121,
+  "handle": "NETMAR",
+  "description": "NETMAR Mariusz Wator",
+  "subnets": {
+    "ipv4": [
+      "176.99.48.0/21",
+      "193.242.212.0/23"
+    ],
+    "ipv6": []
+  }
+}

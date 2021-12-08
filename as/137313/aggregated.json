@@ -1,0 +1,11 @@
+{
+  "asn": 137313,
+  "handle": "IDNIC-EKON-ID",
+  "description": "Kementerian Koordinator Bidang Perekonomian",
+  "subnets": {
+    "ipv4": [
+      "103.109.120.0/24"
+    ],
+    "ipv6": []
+  }
+}

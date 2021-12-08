@@ -1,0 +1,14 @@
+{
+  "asn": 132445,
+  "handle": "KHETAN-IN",
+  "description": "Khetan Cable Network Pvt. Limited",
+  "subnets": {
+    "ipv4": [
+      "103.21.52.0/22",
+      "103.76.252.0/22",
+      "115.166.140.0/22",
+      "116.206.148.0/22"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 1612,
+  "handle": "FLUXTEL",
+  "description": "Flux Telecom, LLC",
+  "subnets": {
+    "ipv4": [
+      "199.255.236.0/24",
+      "199.255.239.0/24"
+    ],
+    "ipv6": []
+  }
+}

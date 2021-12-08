@@ -1,0 +1,13 @@
+{
+  "asn": 270515,
+  "handle": "ENTER-TELECOM",
+  "description": "Enter Telecom",
+  "subnets": {
+    "ipv4": [
+      "187.49.152.0/22"
+    ],
+    "ipv6": [
+      "2804:6d24::/32"
+    ]
+  }
+}

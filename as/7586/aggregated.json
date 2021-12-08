@@ -1,0 +1,11 @@
+{
+  "asn": 7586,
+  "handle": "CLOUDFORTIT-AP",
+  "description": "Cloudfort IT",
+  "subnets": {
+    "ipv4": [
+      "103.118.43.0/24"
+    ],
+    "ipv6": []
+  }
+}

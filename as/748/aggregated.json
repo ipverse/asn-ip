@@ -1,0 +1,12 @@
+{
+  "asn": 748,
+  "handle": "DNIC-00",
+  "description": "DoD Network Information Center",
+  "subnets": {
+    "ipv4": [
+      "140.16.106.0/23",
+      "140.17.18.0/23"
+    ],
+    "ipv6": []
+  }
+}

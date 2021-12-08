@@ -1,0 +1,13 @@
+{
+  "asn": 269258,
+  "handle": "NETBOX-TELECOM-EIRELI-ME",
+  "description": "NETBOX TELECOM EIRELI - ME",
+  "subnets": {
+    "ipv4": [
+      "45.183.28.0/22"
+    ],
+    "ipv6": [
+      "2804:61d0::/32"
+    ]
+  }
+}

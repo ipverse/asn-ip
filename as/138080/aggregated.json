@@ -1,0 +1,11 @@
+{
+  "asn": 138080,
+  "handle": "GMIS-ID",
+  "description": "PT Global Media Inti Semesta",
+  "subnets": {
+    "ipv4": [
+      "103.131.16.0/23"
+    ],
+    "ipv6": []
+  }
+}

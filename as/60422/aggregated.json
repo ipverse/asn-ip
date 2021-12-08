@@ -1,0 +1,14 @@
+{
+  "asn": 60422,
+  "handle": "PH",
+  "description": "Powerhosting Aps",
+  "subnets": {
+    "ipv4": [
+      "185.31.76.0/22",
+      "188.116.39.0/24"
+    ],
+    "ipv6": [
+      "2a00:b920::/32"
+    ]
+  }
+}

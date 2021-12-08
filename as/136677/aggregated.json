@@ -1,0 +1,12 @@
+{
+  "asn": 136677,
+  "handle": "BASAK",
+  "description": "Basak Telecom Private Limited",
+  "subnets": {
+    "ipv4": [
+      "103.86.95.0/24",
+      "103.94.104.0/24"
+    ],
+    "ipv6": []
+  }
+}

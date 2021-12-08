@@ -1,0 +1,15 @@
+{
+  "asn": 18115,
+  "handle": "JGS-AP",
+  "description": "Digital Telecommunications Philippines, Inc.",
+  "subnets": {
+    "ipv4": [
+      "112.198.48.0/24",
+      "115.146.133.0/24",
+      "115.146.135.0/24",
+      "122.54.67.0/24",
+      "203.177.228.0/24"
+    ],
+    "ipv6": []
+  }
+}

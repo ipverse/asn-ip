@@ -1,0 +1,13 @@
+{
+  "asn": 267845,
+  "handle": "EXITO-VISION-CABLE-SAS",
+  "description": "Exito Vision Cable S.A.S",
+  "subnets": {
+    "ipv4": [
+      "45.176.92.0/22"
+    ],
+    "ipv6": [
+      "2803:4c60::/32"
+    ]
+  }
+}

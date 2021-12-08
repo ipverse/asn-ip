@@ -1,0 +1,13 @@
+{
+  "asn": 264200,
+  "handle": "R-DE-MELO-NEVES-CONEX-ME",
+  "description": "R DE MELO NEVES CONEX - ME",
+  "subnets": {
+    "ipv4": [
+      "138.97.192.0/22"
+    ],
+    "ipv6": [
+      "2804:2414::/32"
+    ]
+  }
+}

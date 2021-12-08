@@ -1,0 +1,11 @@
+{
+  "asn": 140019,
+  "handle": "IDNIC-UNAI-ID",
+  "description": "Universitas Advent Indonesia",
+  "subnets": {
+    "ipv4": [
+      "103.149.116.0/24"
+    ],
+    "ipv6": []
+  }
+}

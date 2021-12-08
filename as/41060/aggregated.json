@@ -1,0 +1,11 @@
+{
+  "asn": 41060,
+  "handle": "PRIMBANK",
+  "description": "Joint-Stock Commercial Bank Primorye",
+  "subnets": {
+    "ipv4": [
+      "91.213.113.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asn": 34258,
+  "handle": "EUROBANK-EFG",
+  "description": "Eurobank a.d.",
+  "subnets": {
+    "ipv4": [
+      "195.242.76.0/23"
+    ],
+    "ipv6": []
+  }
+}

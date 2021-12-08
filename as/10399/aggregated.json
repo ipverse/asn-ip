@@ -1,0 +1,11 @@
+{
+  "asn": 10399,
+  "handle": "AMAP-AUSTIN-TX-WALLER",
+  "description": "Waller Creek Communications",
+  "subnets": {
+    "ipv4": [
+      "192.12.22.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asn": 10157,
+  "handle": "NHNBUGS-KR-KR",
+  "description": "NHN Bugs",
+  "subnets": {
+    "ipv4": [
+      "103.132.32.0/22"
+    ],
+    "ipv6": []
+  }
+}

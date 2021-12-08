@@ -1,0 +1,12 @@
+{
+  "asn": 39718,
+  "handle": "MIR",
+  "description": "MIR-Telecom LLC",
+  "subnets": {
+    "ipv4": [
+      "81.30.116.0/24",
+      "81.30.118.0/24"
+    ],
+    "ipv6": []
+  }
+}

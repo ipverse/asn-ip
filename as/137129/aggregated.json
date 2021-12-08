@@ -1,0 +1,11 @@
+{
+  "asn": 137129,
+  "handle": "NIXI",
+  "description": "NIXI",
+  "subnets": {
+    "ipv4": [
+      "103.109.220.0/22"
+    ],
+    "ipv6": []
+  }
+}

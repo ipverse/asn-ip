@@ -1,0 +1,11 @@
+{
+  "asn": 3770,
+  "handle": "WORLDPATH",
+  "description": "WorldPath Internet Services",
+  "subnets": {
+    "ipv4": [
+      "216.179.16.0/21"
+    ],
+    "ipv6": []
+  }
+}

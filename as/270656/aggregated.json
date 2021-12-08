@@ -1,0 +1,13 @@
+{
+  "asn": 270656,
+  "handle": "2-M-TELECOM-EIRELI",
+  "description": "2 M TELECOM EIRELI",
+  "subnets": {
+    "ipv4": [
+      "190.11.220.0/22"
+    ],
+    "ipv6": [
+      "2804:6f60::/32"
+    ]
+  }
+}

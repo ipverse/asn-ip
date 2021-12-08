@@ -1,0 +1,11 @@
+{
+  "asn": 149034,
+  "handle": "UNITENETWORKS-AP",
+  "description": "Unite Networks",
+  "subnets": {
+    "ipv4": [
+      "103.177.52.0/23"
+    ],
+    "ipv6": []
+  }
+}

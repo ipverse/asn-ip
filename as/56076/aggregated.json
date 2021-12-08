@@ -1,0 +1,11 @@
+{
+  "asn": 56076,
+  "handle": "HOLCIM-AU",
+  "description": "Holcim Australia",
+  "subnets": {
+    "ipv4": [
+      "180.222.196.0/22"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asn": 38098,
+  "handle": "JTNET02-KR-KR",
+  "description": "JTNet",
+  "subnets": {
+    "ipv4": [
+      "203.228.206.0/24"
+    ],
+    "ipv6": []
+  }
+}

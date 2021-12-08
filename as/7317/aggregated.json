@@ -1,0 +1,14 @@
+{
+  "asn": 7317,
+  "handle": "CSPS",
+  "description": "The First Church of Christ, Scientist",
+  "subnets": {
+    "ipv4": [
+      "168.203.1.0/24",
+      "168.203.2.0/24",
+      "168.203.4.0/24",
+      "168.203.10.0/24"
+    ],
+    "ipv6": []
+  }
+}

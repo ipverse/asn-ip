@@ -1,0 +1,13 @@
+{
+  "asn": 263975,
+  "handle": "SMART-LINK-CONSULTORIA",
+  "description": "Smart Link Consultoria e serviços em telec. LTDA",
+  "subnets": {
+    "ipv4": [
+      "138.255.160.0/22"
+    ],
+    "ipv6": [
+      "2804:28b4::/32"
+    ]
+  }
+}

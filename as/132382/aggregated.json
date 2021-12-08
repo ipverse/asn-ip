@@ -1,0 +1,12 @@
+{
+  "asn": 132382,
+  "handle": "GREENBAY-AP",
+  "description": "Greenbay Communications Pty Ltd",
+  "subnets": {
+    "ipv4": [
+      "103.14.173.0/24",
+      "103.14.174.0/24"
+    ],
+    "ipv6": []
+  }
+}

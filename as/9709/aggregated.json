@@ -1,0 +1,12 @@
+{
+  "asn": 9709,
+  "handle": "KISVAN-KR-KR",
+  "description": "KIS Information Communication,Inc",
+  "subnets": {
+    "ipv4": [
+      "210.116.197.0/24",
+      "210.121.33.0/24"
+    ],
+    "ipv6": []
+  }
+}

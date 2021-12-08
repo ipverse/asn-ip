@@ -1,0 +1,13 @@
+{
+  "asn": 212426,
+  "handle": "FWNETWORKS",
+  "description": "Hey Broadband LTD",
+  "subnets": {
+    "ipv4": [
+      "80.249.128.0/24",
+      "185.190.92.0/23",
+      "193.28.11.0/24"
+    ],
+    "ipv6": []
+  }
+}

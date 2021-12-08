@@ -1,0 +1,13 @@
+{
+  "asn": 18848,
+  "handle": "ALTEC-IND-DOM",
+  "description": "Altec Industries",
+  "subnets": {
+    "ipv4": [
+      "12.34.159.0/24",
+      "64.159.123.0/24",
+      "209.149.164.0/23"
+    ],
+    "ipv6": []
+  }
+}

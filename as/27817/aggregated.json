@@ -1,0 +1,19 @@
+{
+  "asn": 27817,
+  "handle": "RED-NACIONAL-ACADEMICA",
+  "description": "Red Nacional Académica de Tecnología Avanzada - RENATA",
+  "subnets": {
+    "ipv4": [
+      "45.71.7.0/24",
+      "167.249.40.0/22",
+      "186.113.12.0/24",
+      "190.15.0.0/19"
+    ],
+    "ipv6": [
+      "2001:13f8::/32",
+      "2801:0:480::/48",
+      "2801:16:a800::/48",
+      "2801:1c8:230::/46"
+    ]
+  }
+}

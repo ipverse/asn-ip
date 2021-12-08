@@ -1,0 +1,13 @@
+{
+  "asn": 265323,
+  "handle": "F-S-DA-SILVA-JUNIOR-ME",
+  "description": "F. S. da Silva Júnior - ME",
+  "subnets": {
+    "ipv4": [
+      "168.121.204.0/22"
+    ],
+    "ipv6": [
+      "2804:2e18::/32"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 33099,
+  "handle": "DTSNETWORKS",
+  "description": "Digital Technology Solutions Inc.",
+  "subnets": {
+    "ipv4": [
+      "75.141.43.0/24",
+      "192.135.251.0/24"
+    ],
+    "ipv6": []
+  }
+}

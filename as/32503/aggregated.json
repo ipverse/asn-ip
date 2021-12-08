@@ -1,0 +1,12 @@
+{
+  "asn": 32503,
+  "handle": "CU-PRODIGY",
+  "description": "CUProdigy, LLC",
+  "subnets": {
+    "ipv4": [
+      "38.109.172.0/24",
+      "136.228.188.0/22"
+    ],
+    "ipv6": []
+  }
+}

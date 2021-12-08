@@ -1,0 +1,11 @@
+{
+  "asn": 137585,
+  "handle": "CYBERLINKCOMPUTER-AP",
+  "description": "Cyber Link Computer",
+  "subnets": {
+    "ipv4": [
+      "103.114.38.0/24"
+    ],
+    "ipv6": []
+  }
+}

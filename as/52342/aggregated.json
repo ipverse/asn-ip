@@ -1,0 +1,13 @@
+{
+  "asn": 52342,
+  "handle": "CRITICAL-COLOCATION-SA",
+  "description": "Critical Colocation, S.A.",
+  "subnets": {
+    "ipv4": [
+      "186.148.212.0/22"
+    ],
+    "ipv6": [
+      "2800:9b0::/32"
+    ]
+  }
+}

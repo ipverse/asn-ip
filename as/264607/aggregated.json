@@ -1,0 +1,14 @@
+{
+  "asn": 264607,
+  "handle": "ASOCIACION-CIVIL-ALTERMUNDI",
+  "description": "ASOCIACIÓN CIVIL ALTERMUNDI",
+  "subnets": {
+    "ipv4": [
+      "138.255.88.0/24",
+      "138.255.90.0/23"
+    ],
+    "ipv6": [
+      "2801:1e8::/40"
+    ]
+  }
+}

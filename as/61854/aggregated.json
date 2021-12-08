@@ -1,0 +1,13 @@
+{
+  "asn": 61854,
+  "handle": "CLICKNET-TELECOM-PROVEDOR",
+  "description": "CLICKNET TELECOM PROVEDOR DE INTERNET LTDA",
+  "subnets": {
+    "ipv4": [
+      "201.148.96.0/22"
+    ],
+    "ipv6": [
+      "2804:1a54::/32"
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 262841,
+  "handle": "MA-INFORMATICA-LTDA",
+  "description": "M.A. Informática Ltda.",
+  "subnets": {
+    "ipv4": [
+      "177.10.24.0/21",
+      "177.136.216.0/21"
+    ],
+    "ipv6": [
+      "2804:fb0::/32"
+    ]
+  }
+}

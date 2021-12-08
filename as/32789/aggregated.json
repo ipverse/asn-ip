@@ -1,0 +1,12 @@
+{
+  "asn": 32789,
+  "handle": "FMD",
+  "description": "Fasken Martineau DuMoulin",
+  "subnets": {
+    "ipv4": [
+      "199.212.244.0/24",
+      "199.212.246.0/23"
+    ],
+    "ipv6": []
+  }
+}

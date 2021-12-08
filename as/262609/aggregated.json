@@ -1,0 +1,14 @@
+{
+  "asn": 262609,
+  "handle": "CL9-TECNOLOGIAS-LTDA",
+  "description": "CL9 Tecnologias Ltda.",
+  "subnets": {
+    "ipv4": [
+      "177.85.160.0/22",
+      "179.124.192.0/22"
+    ],
+    "ipv6": [
+      "2804:6d8::/32"
+    ]
+  }
+}

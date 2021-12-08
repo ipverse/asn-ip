@@ -1,0 +1,12 @@
+{
+  "asn": 11094,
+  "handle": "RBHS",
+  "description": "Rutgers, The State University",
+  "subnets": {
+    "ipv4": [
+      "130.219.0.0/16",
+      "192.51.192.0/23"
+    ],
+    "ipv6": []
+  }
+}

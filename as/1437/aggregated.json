@@ -1,0 +1,12 @@
+{
+  "asn": 1437,
+  "handle": "VISONEX-LLC",
+  "description": "Visonex LLC",
+  "subnets": {
+    "ipv4": [
+      "98.100.149.0/24",
+      "192.91.0.0/24"
+    ],
+    "ipv6": []
+  }
+}

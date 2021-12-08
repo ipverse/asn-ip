@@ -1,0 +1,11 @@
+{
+  "asn": 140084,
+  "handle": "SINTHIA-AP",
+  "description": "Sinthia Telecom",
+  "subnets": {
+    "ipv4": [
+      "103.148.74.0/23"
+    ],
+    "ipv6": []
+  }
+}

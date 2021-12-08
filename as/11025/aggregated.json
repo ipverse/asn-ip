@@ -1,0 +1,14 @@
+{
+  "asn": 11025,
+  "handle": "COMCAST-HOUSTON",
+  "description": "Comcast Cable Communications, LLC",
+  "subnets": {
+    "ipv4": [
+      "24.149.128.0/18",
+      "24.149.192.0/19",
+      "74.81.128.0/19",
+      "208.110.192.0/19"
+    ],
+    "ipv6": []
+  }
+}

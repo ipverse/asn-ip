@@ -1,0 +1,13 @@
+{
+  "asn": 213395,
+  "handle": "NTXN",
+  "description": "NetX Networks a.s.",
+  "subnets": {
+    "ipv4": [
+      "194.180.154.0/24"
+    ],
+    "ipv6": [
+      "2a10:2e41::/32"
+    ]
+  }
+}

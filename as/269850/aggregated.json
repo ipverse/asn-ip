@@ -1,0 +1,11 @@
+{
+  "asn": 269850,
+  "handle": "AGENCIA-NACIONAL-DE",
+  "description": "AGENCIA NACIONAL DE HIDROCARBUROS",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2801:11:4800::/48"
+    ]
+  }
+}

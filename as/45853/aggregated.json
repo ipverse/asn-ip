@@ -1,0 +1,13 @@
+{
+  "asn": 45853,
+  "handle": "CORPBANK-IN",
+  "description": "Corporation Bank",
+  "subnets": {
+    "ipv4": [
+      "202.62.247.0/24"
+    ],
+    "ipv6": [
+      "2001:df0:455::/48"
+    ]
+  }
+}

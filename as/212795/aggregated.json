@@ -1,0 +1,13 @@
+{
+  "asn": 212795,
+  "handle": "SIT-ATHENE",
+  "description": "Fraunhofer-Gesellschaft zur Foerderung der angewandten Forschung e.V.",
+  "subnets": {
+    "ipv4": [
+      "193.162.137.0/24"
+    ],
+    "ipv6": [
+      "2a10:9040::/29"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 328285,
+  "handle": "EDELNET",
+  "description": "EDELNET CC",
+  "subnets": {
+    "ipv4": [
+      "102.164.64.0/20"
+    ],
+    "ipv6": [
+      "2c0f:ee88::/32"
+    ]
+  }
+}

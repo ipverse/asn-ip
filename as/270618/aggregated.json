@@ -1,0 +1,13 @@
+{
+  "asn": 270618,
+  "handle": "PORTAL-NET-SERVICOS",
+  "description": "PORTAL NET SERVIÇOS DE COMUNICAÇÃO MULTIMIDIA LTDA",
+  "subnets": {
+    "ipv4": [
+      "190.8.160.0/22"
+    ],
+    "ipv6": [
+      "2804:6ec8::/32"
+    ]
+  }
+}

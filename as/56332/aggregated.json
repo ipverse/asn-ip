@@ -1,0 +1,11 @@
+{
+  "asn": 56332,
+  "handle": "RMC",
+  "description": "RMC system-solution GmbH",
+  "subnets": {
+    "ipv4": [
+      "91.220.239.0/24"
+    ],
+    "ipv6": []
+  }
+}

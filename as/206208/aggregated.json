@@ -1,0 +1,12 @@
+{
+  "asn": 206208,
+  "handle": "GESINTEL",
+  "description": "Gesintel Ayora s.l.",
+  "subnets": {
+    "ipv4": [
+      "95.178.39.0/24",
+      "185.158.52.0/22"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "asn": 61295,
+  "handle": "CLOUDLABS",
+  "description": "NETOPS LTD.",
+  "subnets": {
+    "ipv4": [
+      "185.241.213.0/24",
+      "185.241.214.0/23"
+    ],
+    "ipv6": [
+      "2a0c:bf80::/48",
+      "2a0c:bf81::/48"
+    ]
+  }
+}

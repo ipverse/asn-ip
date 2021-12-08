@@ -1,0 +1,13 @@
+{
+  "asn": 203779,
+  "handle": "NORDFIBER",
+  "description": "NORDFIBER AS",
+  "subnets": {
+    "ipv4": [
+      "185.124.52.0/22"
+    ],
+    "ipv6": [
+      "2a06:b040::/29"
+    ]
+  }
+}

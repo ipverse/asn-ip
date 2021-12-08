@@ -1,0 +1,11 @@
+{
+  "asn": 136127,
+  "handle": "TUJUHAKSES-ID",
+  "description": "PT. Tujuh Akses Mentari Prima",
+  "subnets": {
+    "ipv4": [
+      "103.97.4.0/22"
+    ],
+    "ipv6": []
+  }
+}

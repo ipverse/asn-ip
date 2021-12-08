@@ -1,0 +1,11 @@
+{
+  "asn": 64129,
+  "handle": "SERVICIO-DE-INGENIERIA",
+  "description": "SERVICIO DE INGENIERIA GOSUR SPA",
+  "subnets": {
+    "ipv4": [
+      "207.248.0.0/22"
+    ],
+    "ipv6": []
+  }
+}

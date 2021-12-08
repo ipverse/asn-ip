@@ -1,0 +1,11 @@
+{
+  "asn": 264807,
+  "handle": "DATAPAR-SA",
+  "description": "Datapar SA",
+  "subnets": {
+    "ipv4": [
+      "170.238.19.0/24"
+    ],
+    "ipv6": []
+  }
+}

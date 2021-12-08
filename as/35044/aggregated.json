@@ -1,0 +1,13 @@
+{
+  "asn": 35044,
+  "handle": "UNI-INVEST",
+  "description": "UNIVERSAL INVESTMENT GMBH",
+  "subnets": {
+    "ipv4": [
+      "193.189.108.0/23"
+    ],
+    "ipv6": [
+      "2001:67c:484::/48"
+    ]
+  }
+}

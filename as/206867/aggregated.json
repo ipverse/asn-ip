@@ -1,0 +1,12 @@
+{
+  "asn": 206867,
+  "handle": "EASY-FIBRA-SRL",
+  "description": "EASY FIBRA SRL",
+  "subnets": {
+    "ipv4": [
+      "185.173.84.0/22",
+      "195.245.116.0/23"
+    ],
+    "ipv6": []
+  }
+}

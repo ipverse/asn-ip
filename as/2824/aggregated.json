@@ -1,0 +1,12 @@
+{
+  "asn": 2824,
+  "handle": "DB-NA-1",
+  "description": "Deutsche Bank AG",
+  "subnets": {
+    "ipv4": [
+      "160.83.64.0/19",
+      "165.250.0.0/16"
+    ],
+    "ipv6": []
+  }
+}

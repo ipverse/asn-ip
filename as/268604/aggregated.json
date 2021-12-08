@@ -1,0 +1,13 @@
+{
+  "asn": 268604,
+  "handle": "SILAS-E-F",
+  "description": "SILAS E F DE AQUINO ELETROELETRONICOS",
+  "subnets": {
+    "ipv4": [
+      "45.164.24.0/22"
+    ],
+    "ipv6": [
+      "2804:53c0::/32"
+    ]
+  }
+}

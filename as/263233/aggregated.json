@@ -1,0 +1,12 @@
+{
+  "asn": 263233,
+  "handle": "INTEGRAL-COMUNICACIONES-SRL",
+  "description": "Integral Comunicaciones SRL",
+  "subnets": {
+    "ipv4": [
+      "198.50.16.0/21",
+      "200.105.106.0/24"
+    ],
+    "ipv6": []
+  }
+}

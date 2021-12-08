@@ -1,0 +1,13 @@
+{
+  "asn": 265987,
+  "handle": "E-S-Q-DE-LIMA-ME",
+  "description": "E S Q de Lima - ME",
+  "subnets": {
+    "ipv4": [
+      "181.191.44.0/22"
+    ],
+    "ipv6": [
+      "2804:40e0::/33"
+    ]
+  }
+}

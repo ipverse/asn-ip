@@ -1,0 +1,13 @@
+{
+  "asn": 266136,
+  "handle": "RA-INTERNET",
+  "description": "R.A INTERNET",
+  "subnets": {
+    "ipv4": [
+      "45.6.136.0/22"
+    ],
+    "ipv6": [
+      "2804:3b38::/32"
+    ]
+  }
+}

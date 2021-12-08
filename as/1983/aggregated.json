@@ -1,0 +1,12 @@
+{
+  "asn": 1983,
+  "handle": "BERNALILLO",
+  "description": "Bernalillo County",
+  "subnets": {
+    "ipv4": [
+      "160.230.230.0/23",
+      "160.230.232.0/21"
+    ],
+    "ipv6": []
+  }
+}

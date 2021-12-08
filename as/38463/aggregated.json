@@ -1,0 +1,13 @@
+{
+  "asn": 38463,
+  "handle": "AZCOM-AP",
+  "description": "AZ Communications Network, Inc.",
+  "subnets": {
+    "ipv4": [
+      "203.189.8.0/23",
+      "203.189.11.0/24",
+      "203.189.14.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 206364,
+  "handle": "SUOMICOM",
+  "description": "Suomi Communications Oy",
+  "subnets": {
+    "ipv4": [
+      "37.153.133.0/24",
+      "185.163.13.0/24"
+    ],
+    "ipv6": [
+      "2a00:1197::/32"
+    ]
+  }
+}

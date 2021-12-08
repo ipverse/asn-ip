@@ -1,0 +1,14 @@
+{
+  "asn": 270934,
+  "handle": "SILVA-DE-SA-INFORMATICA-LTDA",
+  "description": "Silva de Sá Informática LTDA",
+  "subnets": {
+    "ipv4": [
+      "200.81.144.0/22"
+    ],
+    "ipv6": [
+      "2804:73bc::/47",
+      "2804:73bc:2::/48"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asn": 263147,
+  "handle": "UNIX-METROREDE",
+  "description": "UNIX METROREDE",
+  "subnets": {
+    "ipv4": [
+      "186.219.60.0/22"
+    ],
+    "ipv6": []
+  }
+}

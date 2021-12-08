@@ -1,0 +1,14 @@
+{
+  "asn": 43590,
+  "handle": "FASTENRUS",
+  "description": "Fasten Rus LLC",
+  "subnets": {
+    "ipv4": [
+      "185.128.105.0/24",
+      "185.188.181.0/24"
+    ],
+    "ipv6": [
+      "2001:678:714::/48"
+    ]
+  }
+}

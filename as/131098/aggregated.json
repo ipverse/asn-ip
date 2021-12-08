@@ -1,0 +1,12 @@
+{
+  "asn": 131098,
+  "handle": "BDNSKR-KR-KR",
+  "description": "Korea Internet Security Agency",
+  "subnets": {
+    "ipv4": [
+      "1.18.116.0/24",
+      "210.101.60.0/24"
+    ],
+    "ipv6": []
+  }
+}

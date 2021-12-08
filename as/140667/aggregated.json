@@ -1,0 +1,11 @@
+{
+  "asn": 140667,
+  "handle": "ZAARACOMMUNICATION-AP",
+  "description": "Zaara Communication",
+  "subnets": {
+    "ipv4": [
+      "103.151.133.0/24"
+    ],
+    "ipv6": []
+  }
+}

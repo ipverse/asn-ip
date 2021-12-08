@@ -1,0 +1,14 @@
+{
+  "asn": 14427,
+  "handle": "RAGINGWIRE",
+  "description": "RagingWire Data Centers, Inc.",
+  "subnets": {
+    "ipv4": [
+      "208.185.76.0/24"
+    ],
+    "ipv6": [
+      "2001:438:7d::/48",
+      "2606:9500:3000::/36"
+    ]
+  }
+}

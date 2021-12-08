@@ -1,0 +1,14 @@
+{
+  "asn": 263347,
+  "handle": "CEDNET-PROVEDOR-INTERNET",
+  "description": "CEDNET PROVEDOR INTERNET",
+  "subnets": {
+    "ipv4": [
+      "177.23.96.0/21",
+      "191.37.32.0/19"
+    ],
+    "ipv6": [
+      "2804:14bc::/32"
+    ]
+  }
+}

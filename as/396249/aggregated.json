@@ -1,0 +1,12 @@
+{
+  "asn": 396249,
+  "handle": "SYMMETRY",
+  "description": "Symmetry LLC",
+  "subnets": {
+    "ipv4": [
+      "170.52.192.0/19",
+      "170.52.244.0/24"
+    ],
+    "ipv6": []
+  }
+}

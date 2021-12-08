@@ -1,0 +1,13 @@
+{
+  "asn": 15304,
+  "handle": "WASHOE-NET",
+  "description": "Washoe County",
+  "subnets": {
+    "ipv4": [
+      "148.186.0.0/20"
+    ],
+    "ipv6": [
+      "2620:aa:c000::/48"
+    ]
+  }
+}

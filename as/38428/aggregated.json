@@ -1,0 +1,14 @@
+{
+  "asn": 38428,
+  "handle": "KICC-KR-KR",
+  "description": "Korea Information Communicaions Co.",
+  "subnets": {
+    "ipv4": [
+      "61.33.205.0/24",
+      "61.33.211.0/24",
+      "203.233.72.0/24",
+      "203.233.74.0/24"
+    ],
+    "ipv6": []
+  }
+}

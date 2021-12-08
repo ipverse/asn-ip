@@ -1,0 +1,13 @@
+{
+  "asn": 270013,
+  "handle": "J-AND-J-SPA-INFOFRACTAL",
+  "description": "J AND J SPA (INFOFRACTAL)",
+  "subnets": {
+    "ipv4": [
+      "200.14.81.0/24"
+    ],
+    "ipv6": [
+      "2803:29e0::/32"
+    ]
+  }
+}

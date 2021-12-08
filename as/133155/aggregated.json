@@ -1,0 +1,13 @@
+{
+  "asn": 133155,
+  "handle": "SATELLITE-BD",
+  "description": "Satellite Connection",
+  "subnets": {
+    "ipv4": [
+      "103.253.38.0/23"
+    ],
+    "ipv6": [
+      "2001:df7:d000::/47"
+    ]
+  }
+}

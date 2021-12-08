@@ -1,0 +1,12 @@
+{
+  "asn": 25762,
+  "handle": "BOCUSA",
+  "description": "Bank of China",
+  "subnets": {
+    "ipv4": [
+      "207.140.201.0/24",
+      "208.5.220.0/24"
+    ],
+    "ipv6": []
+  }
+}

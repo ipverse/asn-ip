@@ -1,0 +1,14 @@
+{
+  "asn": 142586,
+  "handle": "MINESERVER-AP",
+  "description": "Ningbo Dahuamao Information Technology Co Ltd",
+  "subnets": {
+    "ipv4": [
+      "103.172.125.0/24"
+    ],
+    "ipv6": [
+      "2406:840:f4cf::/48",
+      "2602:feda:185::/48"
+    ]
+  }
+}

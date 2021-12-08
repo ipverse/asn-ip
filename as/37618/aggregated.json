@@ -1,0 +1,13 @@
+{
+  "asn": 37618,
+  "handle": "TELEMEDIA",
+  "description": "Telemedia (PTY) Ltd",
+  "subnets": {
+    "ipv4": [
+      "154.73.0.0/22"
+    ],
+    "ipv6": [
+      "2c0f:f6e0::/32"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 395604,
+  "handle": "COCORTEZ-2016",
+  "description": "City of Cortez",
+  "subnets": {
+    "ipv4": [
+      "141.193.204.0/23",
+      "206.123.215.0/24"
+    ],
+    "ipv6": []
+  }
+}

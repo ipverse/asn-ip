@@ -1,0 +1,13 @@
+{
+  "asn": 35815,
+  "handle": "URALCOMSETI",
+  "description": "Center-Telekom LLC",
+  "subnets": {
+    "ipv4": [
+      "31.25.24.0/21",
+      "45.9.212.0/22",
+      "109.198.96.0/19"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 29531,
+  "handle": "VM",
+  "description": "VM Telecom, s.r.o.",
+  "subnets": {
+    "ipv4": [
+      "185.216.20.0/22",
+      "212.232.16.0/21"
+    ],
+    "ipv6": []
+  }
+}

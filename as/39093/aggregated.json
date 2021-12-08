@@ -1,0 +1,16 @@
+{
+  "asn": 39093,
+  "handle": "WESTNET-IE",
+  "description": "WESTNET BROADBAND MAYO LIMITED",
+  "subnets": {
+    "ipv4": [
+      "45.158.144.0/22",
+      "88.81.96.0/19",
+      "185.46.252.0/22",
+      "185.212.184.0/22"
+    ],
+    "ipv6": [
+      "2a02:3d8::/32"
+    ]
+  }
+}

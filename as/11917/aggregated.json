@@ -1,0 +1,13 @@
+{
+  "asn": 11917,
+  "handle": "WHATSAPP",
+  "description": "WhatsApp",
+  "subnets": {
+    "ipv4": [
+      "66.111.48.0/22"
+    ],
+    "ipv6": [
+      "2620:13e:1000::/44"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 266159,
+  "handle": "SIN-FIBRA-SERVICOS",
+  "description": "SIN FIBRA SERVIÇOS DE COMUNICAÇÕES LTDA",
+  "subnets": {
+    "ipv4": [
+      "160.19.44.0/22"
+    ],
+    "ipv6": [
+      "2804:3b98::/32"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asn": 24656,
+  "handle": "ARZ",
+  "description": "ARZ Allgemeines Rechenzentrum GmbH",
+  "subnets": {
+    "ipv4": [
+      "193.110.182.0/23"
+    ],
+    "ipv6": []
+  }
+}

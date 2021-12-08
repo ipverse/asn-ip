@@ -1,0 +1,13 @@
+{
+  "asn": 53012,
+  "handle": "SEC-MUN-DE",
+  "description": "SEC MUN DE PLANEJAMENTO, FAZENDA E TEC DA INFORM-S",
+  "subnets": {
+    "ipv4": [
+      "177.67.68.0/24"
+    ],
+    "ipv6": [
+      "2801:80:260::/48"
+    ]
+  }
+}

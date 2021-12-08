@@ -1,0 +1,12 @@
+{
+  "asn": 395133,
+  "handle": "MEDQUEST",
+  "description": "MedQuest Associates, Inc.",
+  "subnets": {
+    "ipv4": [
+      "198.54.230.0/24",
+      "216.235.154.0/24"
+    ],
+    "ipv6": []
+  }
+}

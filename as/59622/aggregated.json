@@ -1,0 +1,14 @@
+{
+  "asn": 59622,
+  "handle": "TVFACTORY",
+  "description": "tv factory AG",
+  "subnets": {
+    "ipv4": [
+      "91.207.178.0/24",
+      "151.252.32.0/21"
+    ],
+    "ipv6": [
+      "2a01:aa40::/32"
+    ]
+  }
+}

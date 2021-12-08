@@ -1,0 +1,14 @@
+{
+  "asn": 262619,
+  "handle": "THIELKE-CIA-LTDA",
+  "description": "Thielke \u0026 Cia Ltda.",
+  "subnets": {
+    "ipv4": [
+      "143.255.100.0/22",
+      "177.86.0.0/21"
+    ],
+    "ipv6": [
+      "2804:2b48::/32"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 54732,
+  "handle": "DOW-NETWORKS",
+  "description": "Dow Networks",
+  "subnets": {
+    "ipv4": [
+      "199.244.96.0/22",
+      "209.49.143.0/24"
+    ],
+    "ipv6": []
+  }
+}

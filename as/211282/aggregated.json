@@ -1,0 +1,13 @@
+{
+  "asn": 211282,
+  "handle": "PG19-BELGOROD",
+  "description": "Consumer Internet Cooperative PG-19",
+  "subnets": {
+    "ipv4": [
+      "80.72.18.0/23"
+    ],
+    "ipv6": [
+      "2a00:8740:600::/40"
+    ]
+  }
+}

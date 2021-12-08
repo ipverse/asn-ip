@@ -1,0 +1,11 @@
+{
+  "asn": 135678,
+  "handle": "AIRNET-IN",
+  "description": "Airnet Broadband",
+  "subnets": {
+    "ipv4": [
+      "103.214.116.0/23"
+    ],
+    "ipv6": []
+  }
+}

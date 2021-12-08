@@ -1,0 +1,13 @@
+{
+  "asn": 6998,
+  "handle": "BRITEVOICE",
+  "description": "Concentrix CVG Brite Voice Systems LLC",
+  "subnets": {
+    "ipv4": [
+      "151.214.20.0/23",
+      "151.214.112.0/20",
+      "151.214.240.0/20"
+    ],
+    "ipv6": []
+  }
+}

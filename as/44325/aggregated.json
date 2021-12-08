@@ -1,0 +1,13 @@
+{
+  "asn": 44325,
+  "handle": "REALTIME",
+  "description": "RealTime d.o.o.",
+  "subnets": {
+    "ipv4": [
+      "91.199.79.0/24"
+    ],
+    "ipv6": [
+      "2001:1af0:9000::/48"
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 271502,
+  "handle": "XYBERNET-TELECOM",
+  "description": "XyberNet Telecom",
+  "subnets": {
+    "ipv4": [
+      "83.150.217.0/24",
+      "181.189.124.0/22"
+    ],
+    "ipv6": [
+      "2804:7c88::/32"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 135459,
+  "handle": "GDSNETWORK-ID",
+  "description": "PT.GLOBALRIAU DATA SOLUSI",
+  "subnets": {
+    "ipv4": [
+      "103.68.0.0/22"
+    ],
+    "ipv6": [
+      "2405:db80::/32"
+    ]
+  }
+}

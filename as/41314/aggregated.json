@@ -1,0 +1,13 @@
+{
+  "asn": 41314,
+  "handle": "MARSOFT",
+  "description": "ECO TRADE Sp. z o. o",
+  "subnets": {
+    "ipv4": [
+      "85.31.224.0/20",
+      "94.72.64.0/18",
+      "185.195.192.0/22"
+    ],
+    "ipv6": []
+  }
+}

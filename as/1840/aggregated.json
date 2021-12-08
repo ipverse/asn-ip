@@ -1,0 +1,12 @@
+{
+  "asn": 1840,
+  "handle": "UNIVERSIDAD-DE-LAS",
+  "description": "Universidad de Las Americas-Puebla",
+  "subnets": {
+    "ipv4": [
+      "140.148.0.0/17",
+      "140.148.128.0/19"
+    ],
+    "ipv6": []
+  }
+}

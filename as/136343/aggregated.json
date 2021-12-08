@@ -1,0 +1,12 @@
+{
+  "asn": 136343,
+  "handle": "CERA39",
+  "description": "Ceralink Communication Pvt Ltd",
+  "subnets": {
+    "ipv4": [
+      "103.93.9.0/24",
+      "103.93.10.0/23"
+    ],
+    "ipv6": []
+  }
+}

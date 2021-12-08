@@ -1,0 +1,11 @@
+{
+  "asn": 203300,
+  "handle": "SPEED",
+  "description": "Zbridge Limited",
+  "subnets": {
+    "ipv4": [
+      "185.139.152.0/22"
+    ],
+    "ipv6": []
+  }
+}

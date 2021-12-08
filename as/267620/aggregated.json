@@ -1,0 +1,13 @@
+{
+  "asn": 267620,
+  "handle": "FIBRANET-INFORMATICA-EIRELI",
+  "description": "FIBRANET INFORMATICA EIRELI ME",
+  "subnets": {
+    "ipv4": [
+      "45.71.124.0/22"
+    ],
+    "ipv6": [
+      "2804:4414::/32"
+    ]
+  }
+}

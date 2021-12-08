@@ -1,0 +1,11 @@
+{
+  "asn": 39112,
+  "handle": "BIK",
+  "description": "Biuro Informacji Kredytowej S.A.",
+  "subnets": {
+    "ipv4": [
+      "195.66.88.0/24"
+    ],
+    "ipv6": []
+  }
+}

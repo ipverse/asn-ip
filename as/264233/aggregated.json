@@ -1,0 +1,14 @@
+{
+  "asn": 264233,
+  "handle": "WF-TELECOM-SERVICOS",
+  "description": "WF -TELECOM SERVIÇOS DE TELECOMUNICAÇOES EIRELE ME",
+  "subnets": {
+    "ipv4": [
+      "138.117.116.0/22",
+      "170.80.100.0/22"
+    ],
+    "ipv6": [
+      "2804:249c::/32"
+    ]
+  }
+}

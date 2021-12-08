@@ -1,0 +1,14 @@
+{
+  "asn": 53180,
+  "handle": "INFORTEL-TELECOMUNICACOES-EIRELI",
+  "description": "INFORTEL TELECOMUNICACOES EIRELI",
+  "subnets": {
+    "ipv4": [
+      "186.226.160.0/20",
+      "209.14.144.0/21"
+    ],
+    "ipv6": [
+      "2804:2ab8::/32"
+    ]
+  }
+}

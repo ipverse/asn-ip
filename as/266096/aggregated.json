@@ -1,0 +1,13 @@
+{
+  "asn": 266096,
+  "handle": "NAVEGAR-PROVEDOR",
+  "description": "NAVEGAR PROVEDOR",
+  "subnets": {
+    "ipv4": [
+      "45.5.104.0/22"
+    ],
+    "ipv6": [
+      "2804:3a90::/32"
+    ]
+  }
+}

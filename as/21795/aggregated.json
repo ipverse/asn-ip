@@ -1,0 +1,13 @@
+{
+  "asn": 21795,
+  "handle": "MSMC",
+  "description": "Mount Saint Mary College",
+  "subnets": {
+    "ipv4": [
+      "184.171.176.0/20",
+      "192.245.86.0/24",
+      "208.138.48.0/20"
+    ],
+    "ipv6": []
+  }
+}

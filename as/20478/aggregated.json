@@ -1,0 +1,13 @@
+{
+  "asn": 20478,
+  "handle": "GENMILLS",
+  "description": "General Mills",
+  "subnets": {
+    "ipv4": [
+      "146.217.0.0/16",
+      "153.13.0.0/16",
+      "198.180.181.0/24"
+    ],
+    "ipv6": []
+  }
+}

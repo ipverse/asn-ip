@@ -1,0 +1,13 @@
+{
+  "asn": 271410,
+  "handle": "SMART-SERVICO-DE",
+  "description": "Smart Serviço de Internet Ltda",
+  "subnets": {
+    "ipv4": [
+      "131.196.28.0/22"
+    ],
+    "ipv6": [
+      "2804:7b18::/32"
+    ]
+  }
+}

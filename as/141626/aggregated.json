@@ -1,0 +1,14 @@
+{
+  "asn": 141626,
+  "handle": "SANDYANET-ID",
+  "description": "PT Sandya Sistem Indonesia",
+  "subnets": {
+    "ipv4": [
+      "103.161.128.0/24",
+      "103.169.226.0/24"
+    ],
+    "ipv6": [
+      "2407:9440::/32"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asn": 138600,
+  "handle": "ABI-AP",
+  "description": "Achiever Broadband Internet",
+  "subnets": {
+    "ipv4": [
+      "103.134.56.0/22"
+    ],
+    "ipv6": []
+  }
+}

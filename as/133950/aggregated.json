@@ -1,0 +1,12 @@
+{
+  "asn": 133950,
+  "handle": "HOOPLAHOSTING-AP",
+  "description": "Hoopla Hosting Limited",
+  "subnets": {
+    "ipv4": [
+      "103.87.121.0/24",
+      "103.96.117.0/24"
+    ],
+    "ipv6": []
+  }
+}

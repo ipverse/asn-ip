@@ -1,0 +1,13 @@
+{
+  "asn": 203311,
+  "handle": "CCDCOE",
+  "description": "NATO Cooperative Cyber Defence Centre of Excellence",
+  "subnets": {
+    "ipv4": [
+      "185.139.252.0/22"
+    ],
+    "ipv6": [
+      "2a07:1180::/29"
+    ]
+  }
+}

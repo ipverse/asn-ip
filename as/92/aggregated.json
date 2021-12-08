@@ -1,0 +1,13 @@
+{
+  "asn": 92,
+  "handle": "CLARKSON",
+  "description": "Clarkson University",
+  "subnets": {
+    "ipv4": [
+      "128.153.0.0/16"
+    ],
+    "ipv6": [
+      "2605:6480::/32"
+    ]
+  }
+}

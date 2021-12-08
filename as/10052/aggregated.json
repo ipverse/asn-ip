@@ -1,0 +1,11 @@
+{
+  "asn": 10052,
+  "handle": "KNU-KR",
+  "description": "Kyungpook National University",
+  "subnets": {
+    "ipv4": [
+      "155.230.0.0/16"
+    ],
+    "ipv6": []
+  }
+}

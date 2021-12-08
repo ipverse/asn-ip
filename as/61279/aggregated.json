@@ -1,0 +1,11 @@
+{
+  "asn": 61279,
+  "handle": "CHIMCOMPLEX",
+  "description": "OLTCHIM SA",
+  "subnets": {
+    "ipv4": [
+      "89.40.20.0/24"
+    ],
+    "ipv6": []
+  }
+}

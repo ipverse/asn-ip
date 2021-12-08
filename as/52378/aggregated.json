@@ -1,0 +1,13 @@
+{
+  "asn": 52378,
+  "handle": "UNIVERSIDAD-NACIONAL-DE",
+  "description": "UNIVERSIDAD NACIONAL DE VILLA MARIA",
+  "subnets": {
+    "ipv4": [
+      "200.124.112.0/21"
+    ],
+    "ipv6": [
+      "2801:0:1d0::/45"
+    ]
+  }
+}

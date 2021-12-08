@@ -1,0 +1,13 @@
+{
+  "asn": 139943,
+  "handle": "IDNIC-GARUTKAB-ID",
+  "description": "Dinas Komunikasi dan Informatika Kabupaten Garut",
+  "subnets": {
+    "ipv4": [
+      "103.134.85.0/24"
+    ],
+    "ipv6": [
+      "2001:df7:c500::/48"
+    ]
+  }
+}

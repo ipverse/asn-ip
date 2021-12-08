@@ -1,0 +1,12 @@
+{
+  "asn": 31223,
+  "handle": "EA-UK-LHR",
+  "description": "Electronic Arts Limited",
+  "subnets": {
+    "ipv4": [
+      "159.153.156.0/22",
+      "159.153.176.0/22"
+    ],
+    "ipv6": []
+  }
+}

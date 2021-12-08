@@ -1,0 +1,13 @@
+{
+  "asn": 198872,
+  "handle": "HAMINAN-ENERGIA",
+  "description": "Haminan Energia Oy",
+  "subnets": {
+    "ipv4": [
+      "5.61.88.0/21"
+    ],
+    "ipv6": [
+      "2a00:b9a0::/32"
+    ]
+  }
+}

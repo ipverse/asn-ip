@@ -1,0 +1,13 @@
+{
+  "asn": 205831,
+  "handle": "RAQCUISINE",
+  "description": "net.de AG",
+  "subnets": {
+    "ipv4": [
+      "185.210.211.0/24"
+    ],
+    "ipv6": [
+      "2a0b:2c0::/29"
+    ]
+  }
+}

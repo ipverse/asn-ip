@@ -1,0 +1,14 @@
+{
+  "asn": 262378,
+  "handle": "COMPUSERVICE-EMPREENDIMENTOS-LTDA",
+  "description": "Compuservice Empreendimentos Ltda",
+  "subnets": {
+    "ipv4": [
+      "170.79.192.0/22",
+      "177.131.16.0/20"
+    ],
+    "ipv6": [
+      "2804:2d80::/32"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 263992,
+  "handle": "TD-TELECOM",
+  "description": "TD Telecom",
+  "subnets": {
+    "ipv4": [
+      "143.0.36.0/22"
+    ],
+    "ipv6": [
+      "2804:2900::/32"
+    ]
+  }
+}

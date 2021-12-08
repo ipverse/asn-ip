@@ -1,0 +1,12 @@
+{
+  "asn": 36478,
+  "handle": "ALLIANTCU",
+  "description": "Alliant Credit Union",
+  "subnets": {
+    "ipv4": [
+      "12.161.138.0/24",
+      "209.251.254.0/24"
+    ],
+    "ipv6": []
+  }
+}

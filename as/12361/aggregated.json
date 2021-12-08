@@ -1,0 +1,18 @@
+{
+  "asn": 12361,
+  "handle": "PANAFONET",
+  "description": "VODAFONE-PANAFON HELLENIC TELECOMMUNICATIONS COMPANY SA",
+  "subnets": {
+    "ipv4": [
+      "62.74.0.0/16",
+      "77.69.38.0/24",
+      "185.72.149.0/24",
+      "185.158.220.0/22",
+      "193.218.112.0/24",
+      "195.46.0.0/19",
+      "195.97.52.0/24",
+      "213.249.0.0/18"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 269758,
+  "handle": "EDUALIANZA",
+  "description": "EDUALIANZA",
+  "subnets": {
+    "ipv4": [
+      "45.183.41.0/24"
+    ],
+    "ipv6": [
+      "2801:13:8800::/48"
+    ]
+  }
+}

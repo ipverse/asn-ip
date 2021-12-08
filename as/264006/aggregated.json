@@ -1,0 +1,13 @@
+{
+  "asn": 264006,
+  "handle": "FIBERLINK-TELECOM-LTDA",
+  "description": "FIBERLINK TELECOM LTDA",
+  "subnets": {
+    "ipv4": [
+      "143.0.176.0/22"
+    ],
+    "ipv6": [
+      "2804:2940::/32"
+    ]
+  }
+}

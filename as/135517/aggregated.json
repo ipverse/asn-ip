@@ -1,0 +1,14 @@
+{
+  "asn": 135517,
+  "handle": "PANDORA-TECHNOLOGY-AP",
+  "description": "Pandora Technology",
+  "subnets": {
+    "ipv4": [
+      "45.252.52.0/22",
+      "103.221.52.0/22"
+    ],
+    "ipv6": [
+      "2400:f8c0::/32"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 396403,
+  "handle": "AVMED",
+  "description": "Avmed",
+  "subnets": {
+    "ipv4": [
+      "12.8.181.0/24",
+      "66.97.190.0/23"
+    ],
+    "ipv6": []
+  }
+}

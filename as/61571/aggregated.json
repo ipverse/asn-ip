@@ -1,0 +1,11 @@
+{
+  "asn": 61571,
+  "handle": "METRO-TECNOLOGIA",
+  "description": "Metro Tecnologia",
+  "subnets": {
+    "ipv4": [
+      "200.0.89.0/24"
+    ],
+    "ipv6": []
+  }
+}

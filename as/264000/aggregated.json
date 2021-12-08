@@ -1,0 +1,13 @@
+{
+  "asn": 264000,
+  "handle": "FIBRAON-FABRICIO-PILONI",
+  "description": "FibraON - Fabricio Piloni Bertolo - ME",
+  "subnets": {
+    "ipv4": [
+      "143.0.124.0/22"
+    ],
+    "ipv6": [
+      "2804:2924::/32"
+    ]
+  }
+}

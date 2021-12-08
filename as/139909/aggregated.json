@@ -1,0 +1,13 @@
+{
+  "asn": 139909,
+  "handle": "COLLECTIVEGATEWAY-AP",
+  "description": "COLLECTIVE GATEWAY",
+  "subnets": {
+    "ipv4": [
+      "103.146.248.0/24"
+    ],
+    "ipv6": [
+      "2001:df2:7480::/48"
+    ]
+  }
+}

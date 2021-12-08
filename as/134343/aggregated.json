@@ -1,0 +1,13 @@
+{
+  "asn": 134343,
+  "handle": "OMSAI",
+  "description": "Om Sai Entertainment",
+  "subnets": {
+    "ipv4": [
+      "58.84.60.0/22",
+      "103.113.252.0/22",
+      "103.197.72.0/22"
+    ],
+    "ipv6": []
+  }
+}

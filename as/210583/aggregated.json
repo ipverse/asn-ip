@@ -1,0 +1,12 @@
+{
+  "asn": 210583,
+  "handle": "KHATAMUNI",
+  "description": "Khatam Academic Institute",
+  "subnets": {
+    "ipv4": [
+      "86.109.61.0/24",
+      "176.116.7.0/24"
+    ],
+    "ipv6": []
+  }
+}

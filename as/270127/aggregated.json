@@ -1,0 +1,11 @@
+{
+  "asn": 270127,
+  "handle": "SECRETARIA-DE-ADMINISTRACION",
+  "description": "SECRETARIA DE ADMINISTRACIÓN Y FINANZAS",
+  "subnets": {
+    "ipv4": [
+      "190.12.145.0/24"
+    ],
+    "ipv6": []
+  }
+}

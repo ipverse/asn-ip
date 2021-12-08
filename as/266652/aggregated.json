@@ -1,0 +1,13 @@
+{
+  "asn": 266652,
+  "handle": "HARPA-NET-LTDA-ME",
+  "description": "HARPA-NET LTDA ME",
+  "subnets": {
+    "ipv4": [
+      "128.201.60.0/22"
+    ],
+    "ipv6": [
+      "2804:3f50::/32"
+    ]
+  }
+}

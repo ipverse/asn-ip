@@ -1,0 +1,13 @@
+{
+  "asn": 206387,
+  "handle": "BLL",
+  "description": "Blekinge Lans Landsting",
+  "subnets": {
+    "ipv4": [
+      "79.171.248.0/21",
+      "194.14.88.0/21",
+      "194.68.104.0/23"
+    ],
+    "ipv6": []
+  }
+}

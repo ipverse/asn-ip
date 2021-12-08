@@ -1,0 +1,13 @@
+{
+  "asn": 19285,
+  "handle": "MYWEBGROCERINC",
+  "description": "MyWebGrocer Inc",
+  "subnets": {
+    "ipv4": [
+      "67.217.122.0/24"
+    ],
+    "ipv6": [
+      "2620:a1::/48"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asn": 141436,
+  "handle": "NET1-AP",
+  "description": "M/S Net Connect",
+  "subnets": {
+    "ipv4": [
+      "103.159.83.0/24"
+    ],
+    "ipv6": []
+  }
+}

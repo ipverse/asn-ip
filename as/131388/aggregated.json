@@ -1,0 +1,12 @@
+{
+  "asn": 131388,
+  "handle": "HTS-VN",
+  "description": "Vietnam HTS., JSC",
+  "subnets": {
+    "ipv4": [
+      "103.24.244.0/22",
+      "103.45.236.0/22"
+    ],
+    "ipv6": []
+  }
+}

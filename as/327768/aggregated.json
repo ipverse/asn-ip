@@ -1,0 +1,11 @@
+{
+  "asn": 327768,
+  "handle": "SOMCAST-NETWORKS",
+  "description": "Somcast Networks LLC",
+  "subnets": {
+    "ipv4": [
+      "154.73.44.0/22"
+    ],
+    "ipv6": []
+  }
+}

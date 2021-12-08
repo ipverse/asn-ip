@@ -1,0 +1,17 @@
+{
+  "asn": 135543,
+  "handle": "NETWORKDYNAMICS-PTY-LTD-AP",
+  "description": "Network Dynamics Pty Ltd",
+  "subnets": {
+    "ipv4": [
+      "45.65.60.0/22",
+      "45.114.204.0/22",
+      "103.37.8.0/23",
+      "103.52.168.0/24",
+      "103.80.136.0/22"
+    ],
+    "ipv6": [
+      "2402:3680::/32"
+    ]
+  }
+}

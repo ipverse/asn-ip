@@ -1,0 +1,13 @@
+{
+  "asn": 136436,
+  "handle": "CIGNA-AP",
+  "description": "CIGNA LIFE INSURANCE NEW ZEALAND LIMITED",
+  "subnets": {
+    "ipv4": [
+      "103.16.174.0/24",
+      "103.140.97.0/24",
+      "170.48.148.0/23"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 263172,
+  "handle": "HORAS-LENIO-ARIEL",
+  "description": "HORAS LENIO ARIEL",
+  "subnets": {
+    "ipv4": [
+      "179.60.200.0/22"
+    ],
+    "ipv6": [
+      "2803:7080::/32"
+    ]
+  }
+}

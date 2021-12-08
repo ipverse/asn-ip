@@ -1,0 +1,13 @@
+{
+  "asn": 270628,
+  "handle": "PRLINK-TELECOMUNICACAO-LTDA",
+  "description": "PRLINK TELECOMUNICACAO LTDA",
+  "subnets": {
+    "ipv4": [
+      "177.70.248.0/22"
+    ],
+    "ipv6": [
+      "2804:6ef0::/32"
+    ]
+  }
+}

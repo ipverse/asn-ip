@@ -1,0 +1,14 @@
+{
+  "asn": 263110,
+  "handle": "LOUVETEL-COMUNICACAO-COMERCIAL",
+  "description": "Louvetel Comunicação Comercial Ltda ME",
+  "subnets": {
+    "ipv4": [
+      "170.239.132.0/22",
+      "177.137.96.0/20"
+    ],
+    "ipv6": [
+      "2804:16f4::/32"
+    ]
+  }
+}

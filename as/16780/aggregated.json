@@ -1,0 +1,11 @@
+{
+  "asn": 16780,
+  "handle": "BANCO-SANTANDER",
+  "description": "Banco Santander",
+  "subnets": {
+    "ipv4": [
+      "170.18.0.0/16"
+    ],
+    "ipv6": []
+  }
+}

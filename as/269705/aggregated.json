@@ -1,0 +1,13 @@
+{
+  "asn": 269705,
+  "handle": "JMS-TELECOM",
+  "description": "Jms Telecom",
+  "subnets": {
+    "ipv4": [
+      "189.201.248.0/22"
+    ],
+    "ipv6": [
+      "2804:68a0::/32"
+    ]
+  }
+}

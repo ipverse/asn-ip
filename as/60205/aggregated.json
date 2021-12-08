@@ -1,0 +1,11 @@
+{
+  "asn": 60205,
+  "handle": "MAGINE",
+  "description": "Magine AB",
+  "subnets": {
+    "ipv4": [
+      "185.25.47.0/24"
+    ],
+    "ipv6": []
+  }
+}

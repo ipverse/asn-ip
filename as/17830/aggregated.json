@@ -1,0 +1,14 @@
+{
+  "asn": 17830,
+  "handle": "POTATO-AP",
+  "description": "LSHIY Network Technology Limited",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a0c:e640:6001::/48",
+      "2a0c:e640:6002::/48",
+      "2a0c:e640:6660::/47",
+      "2a0c:e640:6780::/48"
+    ]
+  }
+}

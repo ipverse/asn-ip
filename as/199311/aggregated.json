@@ -1,0 +1,11 @@
+{
+  "asn": 199311,
+  "handle": "AZRT-LX",
+  "description": "AZERTELECOM",
+  "subnets": {
+    "ipv4": [
+      "134.19.220.0/24"
+    ],
+    "ipv6": []
+  }
+}

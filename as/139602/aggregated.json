@@ -1,0 +1,11 @@
+{
+  "asn": 139602,
+  "handle": "MICRO-AP",
+  "description": "Micro Link",
+  "subnets": {
+    "ipv4": [
+      "103.142.70.0/23"
+    ],
+    "ipv6": []
+  }
+}

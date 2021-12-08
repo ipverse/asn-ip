@@ -1,0 +1,13 @@
+{
+  "asn": 136491,
+  "handle": "TDPT-HK",
+  "description": "Vocom International Telecommunication Inc.",
+  "subnets": {
+    "ipv4": [
+      "116.196.200.0/24",
+      "119.30.50.0/24",
+      "182.238.200.0/24"
+    ],
+    "ipv6": []
+  }
+}

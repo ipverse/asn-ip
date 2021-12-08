@@ -1,0 +1,12 @@
+{
+  "asn": 327751,
+  "handle": "LANDYNAMIX",
+  "description": "LanDynamix",
+  "subnets": {
+    "ipv4": [
+      "102.23.184.0/21",
+      "154.73.72.0/22"
+    ],
+    "ipv6": []
+  }
+}

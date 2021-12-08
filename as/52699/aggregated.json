@@ -1,0 +1,14 @@
+{
+  "asn": 52699,
+  "handle": "ITANET-CONECTA-LTDA",
+  "description": "Itanet Conecta Ltda",
+  "subnets": {
+    "ipv4": [
+      "170.244.0.0/22",
+      "177.223.0.0/20"
+    ],
+    "ipv6": [
+      "2804:c64::/32"
+    ]
+  }
+}

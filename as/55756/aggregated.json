@@ -1,0 +1,12 @@
+{
+  "asn": 55756,
+  "handle": "TCISL-AP",
+  "description": "TATA Communications Internet Services Ltd",
+  "subnets": {
+    "ipv4": [
+      "150.107.120.0/23",
+      "150.107.123.0/24"
+    ],
+    "ipv6": []
+  }
+}

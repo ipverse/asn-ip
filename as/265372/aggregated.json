@@ -1,0 +1,13 @@
+{
+  "asn": 265372,
+  "handle": "ANTENASAT-NETCOM",
+  "description": "AntenaSat NetCom",
+  "subnets": {
+    "ipv4": [
+      "168.205.212.0/23"
+    ],
+    "ipv6": [
+      "2804:2ee0::/32"
+    ]
+  }
+}

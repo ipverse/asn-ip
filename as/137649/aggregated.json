@@ -1,0 +1,12 @@
+{
+  "asn": 137649,
+  "handle": "NETVIS-IN",
+  "description": "Netvision Internet India Pvt Ltd",
+  "subnets": {
+    "ipv4": [
+      "103.120.0.0/24",
+      "103.120.2.0/23"
+    ],
+    "ipv6": []
+  }
+}

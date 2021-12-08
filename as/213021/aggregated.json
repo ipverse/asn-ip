@@ -1,0 +1,15 @@
+{
+  "asn": 213021,
+  "handle": "SAMIPSOLUTIONS",
+  "description": "Skyler Mantysaari trading as Sami M Tmi",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2001:67c:1104::/48",
+      "2a07:22c1:c100::/40",
+      "2a0e:8f02:2010::/48",
+      "2a0e:8f02:2015::/48",
+      "2a0e:8f02:201c::/48"
+    ]
+  }
+}

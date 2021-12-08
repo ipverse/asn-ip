@@ -1,0 +1,12 @@
+{
+  "asn": 137101,
+  "handle": "RENUNETWORKS-IN",
+  "description": "RENU TECHNOLOGIES",
+  "subnets": {
+    "ipv4": [
+      "103.160.103.0/24",
+      "103.212.212.0/22"
+    ],
+    "ipv6": []
+  }
+}

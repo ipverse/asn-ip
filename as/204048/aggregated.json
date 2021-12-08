@@ -1,0 +1,11 @@
+{
+  "asn": 204048,
+  "handle": "VFT",
+  "description": "Joint Stock Volga Shipping",
+  "subnets": {
+    "ipv4": [
+      "89.255.105.0/24"
+    ],
+    "ipv6": []
+  }
+}

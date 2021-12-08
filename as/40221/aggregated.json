@@ -1,0 +1,13 @@
+{
+  "asn": 40221,
+  "handle": "FIDELUS",
+  "description": "Fidelus Technologies, LLC",
+  "subnets": {
+    "ipv4": [
+      "38.133.139.0/24",
+      "38.147.129.0/24",
+      "74.115.120.0/22"
+    ],
+    "ipv6": []
+  }
+}

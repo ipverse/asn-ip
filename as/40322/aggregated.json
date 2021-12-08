@@ -1,0 +1,11 @@
+{
+  "asn": 40322,
+  "handle": "PROPAY-AS3",
+  "description": "Propay Inc",
+  "subnets": {
+    "ipv4": [
+      "97.107.232.0/24"
+    ],
+    "ipv6": []
+  }
+}

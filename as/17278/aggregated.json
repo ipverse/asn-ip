@@ -1,0 +1,11 @@
+{
+  "asn": 17278,
+  "handle": "IONACOLLEGE",
+  "description": "Iona College",
+  "subnets": {
+    "ipv4": [
+      "192.231.231.0/24"
+    ],
+    "ipv6": []
+  }
+}

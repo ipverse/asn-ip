@@ -1,0 +1,12 @@
+{
+  "asn": 25150,
+  "handle": "DCTEL",
+  "description": "DCTel Ltd",
+  "subnets": {
+    "ipv4": [
+      "193.0.228.0/24",
+      "195.189.8.0/22"
+    ],
+    "ipv6": []
+  }
+}

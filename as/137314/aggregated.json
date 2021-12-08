@@ -1,0 +1,11 @@
+{
+  "asn": 137314,
+  "handle": "IDNIC-POLIJE-ID",
+  "description": "Politeknik Negeri Jember",
+  "subnets": {
+    "ipv4": [
+      "103.109.209.0/24"
+    ],
+    "ipv6": []
+  }
+}

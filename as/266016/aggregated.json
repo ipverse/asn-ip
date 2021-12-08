@@ -1,0 +1,11 @@
+{
+  "asn": 266016,
+  "handle": "UNIFIBRA-TELECOMUNICACOES",
+  "description": "UniFibra Telecomunicações",
+  "subnets": {
+    "ipv4": [
+      "170.245.128.0/22"
+    ],
+    "ipv6": []
+  }
+}

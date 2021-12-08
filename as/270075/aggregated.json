@@ -1,0 +1,11 @@
+{
+  "asn": 270075,
+  "handle": "SUPER-REDES-SAS",
+  "description": "SUPER REDES S.A.S",
+  "subnets": {
+    "ipv4": [
+      "200.10.28.0/22"
+    ],
+    "ipv6": []
+  }
+}

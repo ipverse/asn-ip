@@ -1,0 +1,15 @@
+{
+  "asn": 201029,
+  "handle": "REDGUARDIAN-ANTIDDOS",
+  "description": "Redge Technologies sp. z o.o.",
+  "subnets": {
+    "ipv4": [
+      "185.77.76.0/24"
+    ],
+    "ipv6": [
+      "2a00:8dc0:ff00::/46",
+      "2a00:8dc0:ff04::/48",
+      "2a00:8dc0:fffe::/47"
+    ]
+  }
+}

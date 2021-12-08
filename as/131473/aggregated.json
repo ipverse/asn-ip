@@ -1,0 +1,12 @@
+{
+  "asn": 131473,
+  "handle": "SRMU-GROUP-IN",
+  "description": "SRM University",
+  "subnets": {
+    "ipv4": [
+      "103.4.221.0/24",
+      "103.4.222.0/24"
+    ],
+    "ipv6": []
+  }
+}

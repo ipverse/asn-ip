@@ -1,0 +1,11 @@
+{
+  "asn": 61328,
+  "handle": "METROTEC",
+  "description": "OU Metrotec",
+  "subnets": {
+    "ipv4": [
+      "194.31.56.0/24"
+    ],
+    "ipv6": []
+  }
+}

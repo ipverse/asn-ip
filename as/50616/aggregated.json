@@ -1,0 +1,12 @@
+{
+  "asn": 50616,
+  "handle": "AMC",
+  "description": "Telekom Albania SH.A",
+  "subnets": {
+    "ipv4": [
+      "31.22.48.0/20",
+      "109.234.232.0/21"
+    ],
+    "ipv6": []
+  }
+}

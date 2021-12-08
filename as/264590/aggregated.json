@@ -1,0 +1,13 @@
+{
+  "asn": 264590,
+  "handle": "NAVEX-TELECOM",
+  "description": "NAVEX TELECOM",
+  "subnets": {
+    "ipv4": [
+      "138.36.212.0/22"
+    ],
+    "ipv6": [
+      "2804:2230::/32"
+    ]
+  }
+}

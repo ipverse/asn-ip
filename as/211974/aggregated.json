@@ -1,0 +1,12 @@
+{
+  "asn": 211974,
+  "handle": "AIRECOM",
+  "description": "Airecom Internet, S.L.",
+  "subnets": {
+    "ipv4": [
+      "149.34.39.0/24",
+      "149.34.45.0/24"
+    ],
+    "ipv6": []
+  }
+}

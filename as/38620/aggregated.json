@@ -1,0 +1,12 @@
+{
+  "asn": 38620,
+  "handle": "RSMANI-NKN-AP",
+  "description": "National Knowledge Network",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2001:fff::/40",
+      "2409::/40"
+    ]
+  }
+}

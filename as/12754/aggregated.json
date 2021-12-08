@@ -1,0 +1,13 @@
+{
+  "asn": 12754,
+  "handle": "COOLNET",
+  "description": "Coolnet New Communication Provider",
+  "subnets": {
+    "ipv4": [
+      "188.225.128.0/17"
+    ],
+    "ipv6": [
+      "2a00:4e80::/32"
+    ]
+  }
+}

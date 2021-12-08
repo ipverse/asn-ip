@@ -1,0 +1,13 @@
+{
+  "asn": 209815,
+  "handle": "ALTAREA-COGEDIM",
+  "description": "SNC ALTAREA MANAGEMENT",
+  "subnets": {
+    "ipv4": [
+      "194.31.136.0/22"
+    ],
+    "ipv6": [
+      "2a09:1380::/29"
+    ]
+  }
+}

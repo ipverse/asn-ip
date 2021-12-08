@@ -1,0 +1,12 @@
+{
+  "asn": 32149,
+  "handle": "WEBTEAM",
+  "description": "WEBTEAM, INC",
+  "subnets": {
+    "ipv4": [
+      "208.28.88.0/22",
+      "208.28.148.0/24"
+    ],
+    "ipv6": []
+  }
+}

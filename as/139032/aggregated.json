@@ -1,0 +1,11 @@
+{
+  "asn": 139032,
+  "handle": "NTBP-AP",
+  "description": "Nations Trust Banks Plc",
+  "subnets": {
+    "ipv4": [
+      "103.138.180.0/24"
+    ],
+    "ipv6": []
+  }
+}

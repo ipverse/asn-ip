@@ -1,0 +1,12 @@
+{
+  "asn": 18338,
+  "handle": "STARVAN-KR-KR",
+  "description": "DAOUDATA",
+  "subnets": {
+    "ipv4": [
+      "123.140.121.0/24",
+      "222.106.99.0/24"
+    ],
+    "ipv6": []
+  }
+}

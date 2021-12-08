@@ -1,0 +1,12 @@
+{
+  "asn": 37613,
+  "handle": "DOLPHIN-TELECOM",
+  "description": "ETG Integrated Services Ltd. (Dolphin Telecom)",
+  "subnets": {
+    "ipv4": [
+      "41.242.112.0/22",
+      "169.239.188.0/23"
+    ],
+    "ipv6": []
+  }
+}

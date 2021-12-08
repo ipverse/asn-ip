@@ -1,0 +1,11 @@
+{
+  "asn": 398906,
+  "handle": "LUFTCLOUD-ASN-01",
+  "description": "LuftCloud LLC",
+  "subnets": {
+    "ipv4": [
+      "23.166.208.0/24"
+    ],
+    "ipv6": []
+  }
+}

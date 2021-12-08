@@ -1,0 +1,13 @@
+{
+  "asn": 134974,
+  "handle": "OAKLEIGH-FOR-HK2",
+  "description": "Oakleigh Capital Ltd",
+  "subnets": {
+    "ipv4": [
+      "110.92.25.0/24",
+      "110.92.26.0/23",
+      "202.61.64.0/22"
+    ],
+    "ipv6": []
+  }
+}

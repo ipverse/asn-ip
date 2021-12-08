@@ -1,0 +1,12 @@
+{
+  "asn": 210771,
+  "handle": "SETEL-CONECTA",
+  "description": "SETEL CONECTA S.L.",
+  "subnets": {
+    "ipv4": [
+      "185.252.5.0/24",
+      "185.252.6.0/24"
+    ],
+    "ipv6": []
+  }
+}

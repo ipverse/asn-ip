@@ -1,0 +1,12 @@
+{
+  "asn": 140231,
+  "handle": "EZINTERNETPTYLTD-AP",
+  "description": "EZINTERNET PTY LTD",
+  "subnets": {
+    "ipv4": [
+      "103.148.220.0/24",
+      "103.167.249.0/24"
+    ],
+    "ipv6": []
+  }
+}

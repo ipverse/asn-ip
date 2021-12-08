@@ -1,0 +1,13 @@
+{
+  "asn": 16664,
+  "handle": "CC-COMMUNICATIONS",
+  "description": "CC Communications",
+  "subnets": {
+    "ipv4": [
+      "38.70.238.0/24",
+      "64.113.160.0/20",
+      "104.225.214.0/24"
+    ],
+    "ipv6": []
+  }
+}

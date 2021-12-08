@@ -1,0 +1,14 @@
+{
+  "asn": 35372,
+  "handle": "IRANDATA",
+  "description": "Mizban Dadeh Iranian Co. (Ltd)",
+  "subnets": {
+    "ipv4": [
+      "31.130.176.0/24",
+      "62.60.144.0/24",
+      "62.60.160.0/24",
+      "185.232.152.0/24"
+    ],
+    "ipv6": []
+  }
+}

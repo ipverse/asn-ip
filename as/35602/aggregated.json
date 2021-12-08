@@ -1,0 +1,12 @@
+{
+  "asn": 35602,
+  "handle": "ZOL",
+  "description": "TOV Zaporizhya Online",
+  "subnets": {
+    "ipv4": [
+      "91.189.128.0/22",
+      "91.189.132.0/23"
+    ],
+    "ipv6": []
+  }
+}

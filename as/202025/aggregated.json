@@ -1,0 +1,12 @@
+{
+  "asn": 202025,
+  "handle": "WIWAI",
+  "description": "WIWAI TELECOMUNICACIONES SL",
+  "subnets": {
+    "ipv4": [
+      "5.8.252.0/23",
+      "5.8.254.0/24"
+    ],
+    "ipv6": []
+  }
+}

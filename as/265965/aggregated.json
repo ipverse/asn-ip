@@ -1,0 +1,13 @@
+{
+  "asn": 265965,
+  "handle": "PINHAIS-NET-TELECOM",
+  "description": "Pinhais Net Telecom Comercio e Serviços Ltda",
+  "subnets": {
+    "ipv4": [
+      "164.163.172.0/22"
+    ],
+    "ipv6": [
+      "2804:4088::/32"
+    ]
+  }
+}

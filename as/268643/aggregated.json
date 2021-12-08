@@ -1,0 +1,13 @@
+{
+  "asn": 268643,
+  "handle": "GA-DE-MATOS",
+  "description": "ga de matos",
+  "subnets": {
+    "ipv4": [
+      "45.164.232.0/22"
+    ],
+    "ipv6": [
+      "2804:5454::/32"
+    ]
+  }
+}

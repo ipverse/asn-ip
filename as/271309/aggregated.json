@@ -1,0 +1,13 @@
+{
+  "asn": 271309,
+  "handle": "ASA-NET-TELECOM-LTDA",
+  "description": "ASA NET TELECOM LTDA",
+  "subnets": {
+    "ipv4": [
+      "207.248.24.0/22"
+    ],
+    "ipv6": [
+      "2804:7980::/32"
+    ]
+  }
+}

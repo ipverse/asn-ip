@@ -1,0 +1,12 @@
+{
+  "asn": 48589,
+  "handle": "SOW-A",
+  "description": "LIPTEL LLC",
+  "subnets": {
+    "ipv4": [
+      "91.195.68.0/23",
+      "91.211.132.0/22"
+    ],
+    "ipv6": []
+  }
+}

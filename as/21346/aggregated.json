@@ -1,0 +1,13 @@
+{
+  "asn": 21346,
+  "handle": "VISTORM",
+  "description": "Vistorm Limited",
+  "subnets": {
+    "ipv4": [
+      "193.19.196.0/23",
+      "194.125.246.0/23",
+      "195.22.158.0/24"
+    ],
+    "ipv6": []
+  }
+}

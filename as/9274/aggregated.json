@@ -1,0 +1,12 @@
+{
+  "asn": 9274,
+  "handle": "PUSAN-KR-KR",
+  "description": "Pusan National University",
+  "subnets": {
+    "ipv4": [
+      "164.125.0.0/16",
+      "203.232.240.0/21"
+    ],
+    "ipv6": []
+  }
+}

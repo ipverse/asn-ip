@@ -1,0 +1,13 @@
+{
+  "asn": 270734,
+  "handle": "ATM-SOLUCOES-EM",
+  "description": "ATM SOLUÇÕES EM TECNOLOGIA LTDA",
+  "subnets": {
+    "ipv4": [
+      "177.73.253.0/24"
+    ],
+    "ipv6": [
+      "2804:7090::/32"
+    ]
+  }
+}

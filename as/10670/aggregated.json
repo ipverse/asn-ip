@@ -1,0 +1,13 @@
+{
+  "asn": 10670,
+  "handle": "COMPANHIA-DE-TECNOLOGIA",
+  "description": "COMPANHIA DE TECNOLOGIA DA INFORMAÇÃO ESTADO MG",
+  "subnets": {
+    "ipv4": [
+      "200.198.0.0/18"
+    ],
+    "ipv6": [
+      "2804:bd0::/32"
+    ]
+  }
+}

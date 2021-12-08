@@ -1,0 +1,12 @@
+{
+  "asn": 26298,
+  "handle": "NET-BCBSF",
+  "description": "Florida Blue",
+  "subnets": {
+    "ipv4": [
+      "67.59.112.0/22",
+      "157.174.0.0/16"
+    ],
+    "ipv6": []
+  }
+}

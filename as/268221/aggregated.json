@@ -1,0 +1,13 @@
+{
+  "asn": 268221,
+  "handle": "FIBER-BANDA-LARGA",
+  "description": "Fiber Banda Larga Servicos e Telecomunicacoes LTDA",
+  "subnets": {
+    "ipv4": [
+      "45.236.52.0/22"
+    ],
+    "ipv6": [
+      "2804:4dd0::/32"
+    ]
+  }
+}

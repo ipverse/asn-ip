@@ -1,0 +1,13 @@
+{
+  "asn": 265892,
+  "handle": "TELBE-TELECOM-VALINHOS-LTDA",
+  "description": "Telbe Telecom Valinhos LTDA",
+  "subnets": {
+    "ipv4": [
+      "128.201.220.0/22"
+    ],
+    "ipv6": [
+      "2804:3f70::/32"
+    ]
+  }
+}

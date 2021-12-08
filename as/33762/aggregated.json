@@ -1,0 +1,13 @@
+{
+  "asn": 33762,
+  "handle": "RAIN",
+  "description": "Rain Networks (Pty) Ltd",
+  "subnets": {
+    "ipv4": [
+      "41.208.192.0/18",
+      "41.213.0.0/17",
+      "196.2.96.0/19"
+    ],
+    "ipv6": []
+  }
+}

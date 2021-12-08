@@ -1,0 +1,14 @@
+{
+  "asn": 49036,
+  "handle": "EUROLIVETECH",
+  "description": "SIA Euro Live Technologies",
+  "subnets": {
+    "ipv4": [
+      "81.94.238.0/24",
+      "93.191.171.0/24",
+      "185.113.168.0/23",
+      "185.113.170.0/24"
+    ],
+    "ipv6": []
+  }
+}

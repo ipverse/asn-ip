@@ -1,0 +1,13 @@
+{
+  "asn": 263257,
+  "handle": "UNIMED-REGIONAL-MARINGA",
+  "description": "Unimed Regional Maringá",
+  "subnets": {
+    "ipv4": [
+      "191.37.255.0/24"
+    ],
+    "ipv6": [
+      "2801:80:a70::/48"
+    ]
+  }
+}

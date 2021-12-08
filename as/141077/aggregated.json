@@ -1,0 +1,11 @@
+{
+  "asn": 141077,
+  "handle": "RSTNET-ID",
+  "description": "RSTNET",
+  "subnets": {
+    "ipv4": [
+      "103.156.16.0/23"
+    ],
+    "ipv6": []
+  }
+}

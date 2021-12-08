@@ -1,0 +1,13 @@
+{
+  "asn": 269864,
+  "handle": "COMUNICACIONES-METROPOLITANAS-INC",
+  "description": "COMUNICACIONES METROPOLITANAS, INC",
+  "subnets": {
+    "ipv4": [
+      "45.188.248.0/22"
+    ],
+    "ipv6": [
+      "2803:f0e0::/32"
+    ]
+  }
+}

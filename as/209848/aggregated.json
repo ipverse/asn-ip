@@ -1,0 +1,13 @@
+{
+  "asn": 209848,
+  "handle": "CARDCENTER",
+  "description": "UBS Card Center AG",
+  "subnets": {
+    "ipv4": [
+      "212.243.129.0/24",
+      "213.184.88.0/22",
+      "213.190.0.0/22"
+    ],
+    "ipv6": []
+  }
+}

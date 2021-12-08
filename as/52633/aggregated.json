@@ -1,0 +1,13 @@
+{
+  "asn": 52633,
+  "handle": "MARILUZNET-TELECOMUNICACOES",
+  "description": "MariluzNet Telecomunicações",
+  "subnets": {
+    "ipv4": [
+      "177.124.180.0/22"
+    ],
+    "ipv6": [
+      "2804:56b8::/32"
+    ]
+  }
+}

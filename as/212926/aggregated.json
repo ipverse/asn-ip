@@ -1,0 +1,13 @@
+{
+  "asn": 212926,
+  "handle": "HARPA",
+  "description": "Harpa Concert Hall and Conference Centre ohf",
+  "subnets": {
+    "ipv4": [
+      "88.135.70.0/24"
+    ],
+    "ipv6": [
+      "2a07:e8c0::/32"
+    ]
+  }
+}

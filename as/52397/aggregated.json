@@ -1,0 +1,11 @@
+{
+  "asn": 52397,
+  "handle": "CABLE-VIDEO-COLOR-SRL",
+  "description": "Cable Video Color SRL",
+  "subnets": {
+    "ipv4": [
+      "200.7.144.0/22"
+    ],
+    "ipv6": []
+  }
+}

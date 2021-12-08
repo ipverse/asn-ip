@@ -1,0 +1,13 @@
+{
+  "asn": 52238,
+  "handle": "SPEEDYCOM",
+  "description": "SPEEDYCOM",
+  "subnets": {
+    "ipv4": [
+      "190.99.72.0/21"
+    ],
+    "ipv6": [
+      "2803:7260::/32"
+    ]
+  }
+}

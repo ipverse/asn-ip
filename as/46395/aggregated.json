@@ -1,0 +1,12 @@
+{
+  "asn": 46395,
+  "handle": "WEEDEN-GRN",
+  "description": "Piper Jaffray Companies",
+  "subnets": {
+    "ipv4": [
+      "74.118.208.0/24",
+      "74.118.210.0/24"
+    ],
+    "ipv6": []
+  }
+}

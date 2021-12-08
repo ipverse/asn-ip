@@ -1,0 +1,14 @@
+{
+  "asn": 29432,
+  "handle": "TREX",
+  "description": "TREX Regional Exchanges Oy",
+  "subnets": {
+    "ipv4": [
+      "195.140.192.0/22"
+    ],
+    "ipv6": [
+      "2001:67c:2b0::/48",
+      "2001:7f8:1d::/48"
+    ]
+  }
+}

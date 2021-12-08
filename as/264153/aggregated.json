@@ -1,0 +1,13 @@
+{
+  "asn": 264153,
+  "handle": "CABLECOM-TELECOMUNICACOES-LTDA",
+  "description": "Cable.com Telecomunicações LTDA",
+  "subnets": {
+    "ipv4": [
+      "138.59.60.0/22"
+    ],
+    "ipv6": [
+      "2804:2348::/32"
+    ]
+  }
+}

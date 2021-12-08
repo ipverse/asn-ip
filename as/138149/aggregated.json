@@ -1,0 +1,12 @@
+{
+  "asn": 138149,
+  "handle": "MATCHNET-AP",
+  "description": "Match Net",
+  "subnets": {
+    "ipv4": [
+      "103.121.77.0/24",
+      "103.121.78.0/23"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 270528,
+  "handle": "BLI-NETWORK-TELECOMUNICACAO",
+  "description": "B.L.I NETWORK TELECOMUNICACAO LTDA",
+  "subnets": {
+    "ipv4": [
+      "187.95.220.0/22"
+    ],
+    "ipv6": [
+      "2804:6d60:e000::/35"
+    ]
+  }
+}

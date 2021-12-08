@@ -1,0 +1,13 @@
+{
+  "asn": 61060,
+  "handle": "XRCSERVICES",
+  "description": "NXTcom Nederland BV",
+  "subnets": {
+    "ipv4": [
+      "45.66.112.0/22",
+      "185.144.4.0/22",
+      "185.172.160.0/22"
+    ],
+    "ipv6": []
+  }
+}

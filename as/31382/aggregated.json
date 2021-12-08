@@ -1,0 +1,15 @@
+{
+  "asn": 31382,
+  "handle": "KAPSCH",
+  "description": "Kapsch BusinessCom AG",
+  "subnets": {
+    "ipv4": [
+      "148.198.0.0/16",
+      "185.140.84.0/22"
+    ],
+    "ipv6": [
+      "2001:67c:2248::/48",
+      "2a04:c7c0::/29"
+    ]
+  }
+}

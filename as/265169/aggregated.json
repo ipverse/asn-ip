@@ -1,0 +1,13 @@
+{
+  "asn": 265169,
+  "handle": "MEGA-TELECON-PROVEDOR",
+  "description": "MEGA TELECON PROVEDOR DE INTERNET LTDA ME",
+  "subnets": {
+    "ipv4": [
+      "167.249.80.0/22"
+    ],
+    "ipv6": [
+      "2804:2bb0::/32"
+    ]
+  }
+}

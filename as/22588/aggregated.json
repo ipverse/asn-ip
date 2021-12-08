@@ -1,0 +1,13 @@
+{
+  "asn": 22588,
+  "handle": "DOMIN",
+  "description": "DOMINION ENTERPRISES",
+  "subnets": {
+    "ipv4": [
+      "204.154.40.0/22",
+      "204.154.44.0/24",
+      "204.154.46.0/23"
+    ],
+    "ipv6": []
+  }
+}

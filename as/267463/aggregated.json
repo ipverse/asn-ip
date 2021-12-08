@@ -1,0 +1,16 @@
+{
+  "asn": 267463,
+  "handle": "ALL-CONECTA-INTERNET-LTDA-ME",
+  "description": "ALL CONECTA INTERNET LTDA - ME",
+  "subnets": {
+    "ipv4": [
+      "45.239.220.0/23",
+      "187.120.20.0/22",
+      "191.242.104.0/22",
+      "192.141.112.0/22"
+    ],
+    "ipv6": [
+      "2804:126c::/32"
+    ]
+  }
+}

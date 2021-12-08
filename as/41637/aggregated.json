@@ -1,0 +1,13 @@
+{
+  "asn": 41637,
+  "handle": "ROUTING-ANYCAST",
+  "description": "Hosting.de GmbH",
+  "subnets": {
+    "ipv4": [
+      "194.50.113.0/24"
+    ],
+    "ipv6": [
+      "2001:4d8f::/32"
+    ]
+  }
+}

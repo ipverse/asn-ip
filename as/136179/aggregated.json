@@ -1,0 +1,13 @@
+{
+  "asn": 136179,
+  "handle": "GMR-AP",
+  "description": "GMR Infrastructure Ltd",
+  "subnets": {
+    "ipv4": [
+      "103.83.59.0/24"
+    ],
+    "ipv6": [
+      "2001:df7:d200::/48"
+    ]
+  }
+}

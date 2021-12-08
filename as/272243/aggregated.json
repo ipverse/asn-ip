@@ -1,0 +1,11 @@
+{
+  "asn": 272243,
+  "handle": "VPM-SERVICOS-DE",
+  "description": "Vpm Serviços de Comunicação Multimidia",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2804:8428::/32"
+    ]
+  }
+}

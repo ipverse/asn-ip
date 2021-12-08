@@ -1,0 +1,14 @@
+{
+  "asn": 268700,
+  "handle": "SALATIEL-DOS-SANTOS",
+  "description": "Salatiel dos Santos Teles Informatica",
+  "subnets": {
+    "ipv4": [
+      "45.165.124.0/23",
+      "45.165.127.0/24"
+    ],
+    "ipv6": [
+      "2804:5548:8000::/40"
+    ]
+  }
+}

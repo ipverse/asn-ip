@@ -1,0 +1,12 @@
+{
+  "asn": 140252,
+  "handle": "CHINATELECOM-ANHUI-HUAIBEI-5G-NETWORK",
+  "description": "China Telecom",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "240e:9b:f015::/48",
+      "240e:9b:f016::/47"
+    ]
+  }
+}

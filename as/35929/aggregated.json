@@ -1,0 +1,13 @@
+{
+  "asn": 35929,
+  "handle": "BLS",
+  "description": "Bend-La Pine Schools",
+  "subnets": {
+    "ipv4": [
+      "198.237.48.0/22"
+    ],
+    "ipv6": [
+      "2620:3c::/42"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 48136,
+  "handle": "ZORG",
+  "description": "ZORG Robert Wozny",
+  "subnets": {
+    "ipv4": [
+      "95.131.32.0/24"
+    ],
+    "ipv6": [
+      "2001:67c:c::/48"
+    ]
+  }
+}

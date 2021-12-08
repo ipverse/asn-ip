@@ -1,0 +1,13 @@
+{
+  "asn": 399374,
+  "handle": "LERU",
+  "description": "Le-Ru Telephone Company",
+  "subnets": {
+    "ipv4": [
+      "136.175.213.0/24",
+      "173.195.140.0/22",
+      "206.246.29.0/24"
+    ],
+    "ipv6": []
+  }
+}

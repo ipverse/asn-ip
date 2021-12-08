@@ -1,0 +1,11 @@
+{
+  "asn": 139867,
+  "handle": "TASKUS-ASN-PL-AP",
+  "description": "Philippine Long Distance Telephone Co.",
+  "subnets": {
+    "ipv4": [
+      "124.107.226.0/24"
+    ],
+    "ipv6": []
+  }
+}

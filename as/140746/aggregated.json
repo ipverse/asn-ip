@@ -1,0 +1,13 @@
+{
+  "asn": 140746,
+  "handle": "MCT-VN",
+  "description": "MCT Technology Solution Joint Stock Company",
+  "subnets": {
+    "ipv4": [
+      "103.149.170.0/23"
+    ],
+    "ipv6": [
+      "2405:edc0::/48"
+    ]
+  }
+}

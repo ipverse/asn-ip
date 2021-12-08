@@ -1,0 +1,11 @@
+{
+  "asn": 6282,
+  "handle": "FONL",
+  "description": "Fiber Optical Network LLC",
+  "subnets": {
+    "ipv4": [
+      "185.168.157.0/24"
+    ],
+    "ipv6": []
+  }
+}

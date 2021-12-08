@@ -1,0 +1,14 @@
+{
+  "asn": 199462,
+  "handle": "NETISP-UK",
+  "description": "NETISP LTD",
+  "subnets": {
+    "ipv4": [
+      "185.101.76.0/22"
+    ],
+    "ipv6": [
+      "2001:67c:11bc::/48",
+      "2a06:1b80::/29"
+    ]
+  }
+}

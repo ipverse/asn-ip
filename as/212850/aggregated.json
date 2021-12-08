@@ -1,0 +1,13 @@
+{
+  "asn": 212850,
+  "handle": "OMNYA",
+  "description": "Omnia Alkher for internet services Limited Liability/Private Company",
+  "subnets": {
+    "ipv4": [
+      "109.107.155.0/24",
+      "185.120.140.0/24",
+      "195.16.74.0/24"
+    ],
+    "ipv6": []
+  }
+}

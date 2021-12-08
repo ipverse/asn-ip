@@ -1,0 +1,13 @@
+{
+  "asn": 147125,
+  "handle": "IDNIC-DSSNET-ID",
+  "description": "PT Aplikasi Digital Indonesia",
+  "subnets": {
+    "ipv4": [
+      "103.175.205.0/24"
+    ],
+    "ipv6": [
+      "2001:df0:23c0::/48"
+    ]
+  }
+}

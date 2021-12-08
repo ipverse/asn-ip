@@ -1,0 +1,13 @@
+{
+  "asn": 265937,
+  "handle": "ALIANCANET-TELECOM",
+  "description": "ALIANCANET TELECOM",
+  "subnets": {
+    "ipv4": [
+      "164.163.28.0/22"
+    ],
+    "ipv6": [
+      "2804:4024::/32"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 137033,
+  "handle": "RSMNETWORK-AP",
+  "description": "RSM Network",
+  "subnets": {
+    "ipv4": [
+      "103.149.72.0/23"
+    ],
+    "ipv6": [
+      "2001:df5:c780::/48"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 266694,
+  "handle": "FULL-TELECOMUNICACIONES-SA",
+  "description": "FULL TELECOMUNICACIONES S.A",
+  "subnets": {
+    "ipv4": [
+      "45.229.168.0/22"
+    ],
+    "ipv6": [
+      "2803:7520::/32"
+    ]
+  }
+}

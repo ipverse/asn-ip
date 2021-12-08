@@ -1,0 +1,12 @@
+{
+  "asn": 137992,
+  "handle": "LEIDC1-AP",
+  "description": "Leidc Co., Limited",
+  "subnets": {
+    "ipv4": [
+      "103.119.124.0/24",
+      "154.94.3.0/24"
+    ],
+    "ipv6": []
+  }
+}

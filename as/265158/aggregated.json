@@ -1,0 +1,13 @@
+{
+  "asn": 265158,
+  "handle": "ORBE-TELECOM",
+  "description": "ORBE TELECOM",
+  "subnets": {
+    "ipv4": [
+      "167.249.16.0/22"
+    ],
+    "ipv6": [
+      "2804:2b88::/32"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asn": 34670,
+  "handle": "SKATTEFORVALTNINGEN",
+  "description": "Skatteforvaltningen",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a07:42c0::/29"
+    ]
+  }
+}

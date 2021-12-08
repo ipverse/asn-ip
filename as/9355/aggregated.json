@@ -1,0 +1,13 @@
+{
+  "asn": 9355,
+  "handle": "NICT",
+  "description": "National Institute of Information and Communications Technology",
+  "subnets": {
+    "ipv4": [
+      "133.243.0.0/16"
+    ],
+    "ipv6": [
+      "2001:df0:232::/48"
+    ]
+  }
+}

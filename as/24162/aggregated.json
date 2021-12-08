@@ -1,0 +1,13 @@
+{
+  "asn": 24162,
+  "handle": "RECTALE-TW",
+  "description": "RECTALE Inc.",
+  "subnets": {
+    "ipv4": [
+      "103.172.124.0/24"
+    ],
+    "ipv6": [
+      "2407:d1c0::/32"
+    ]
+  }
+}

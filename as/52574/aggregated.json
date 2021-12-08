@@ -1,0 +1,13 @@
+{
+  "asn": 52574,
+  "handle": "WVIRTUALNET-SERVICOS",
+  "description": "Wvirtual.net Serviços",
+  "subnets": {
+    "ipv4": [
+      "179.191.32.0/23"
+    ],
+    "ipv6": [
+      "2804:ce8::/32"
+    ]
+  }
+}

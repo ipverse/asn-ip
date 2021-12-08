@@ -1,0 +1,14 @@
+{
+  "asn": 201907,
+  "handle": "SPUTNIK",
+  "description": "LLC SPUTNIK",
+  "subnets": {
+    "ipv4": [
+      "5.143.224.0/24",
+      "5.143.226.0/24"
+    ],
+    "ipv6": [
+      "2001:67c:60c::/48"
+    ]
+  }
+}

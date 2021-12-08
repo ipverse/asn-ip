@@ -1,0 +1,13 @@
+{
+  "asn": 44431,
+  "handle": "OMNIACCESS",
+  "description": "OmniAccess S.L.",
+  "subnets": {
+    "ipv4": [
+      "38.105.15.0/24",
+      "92.43.224.0/21",
+      "154.58.196.0/24"
+    ],
+    "ipv6": []
+  }
+}

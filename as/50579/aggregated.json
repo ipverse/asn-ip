@@ -1,0 +1,12 @@
+{
+  "asn": 50579,
+  "handle": "SIM-LTD",
+  "description": "Suchasni informatsiyni merezhi, Ltd",
+  "subnets": {
+    "ipv4": [
+      "195.189.214.0/23",
+      "195.191.168.0/23"
+    ],
+    "ipv6": []
+  }
+}

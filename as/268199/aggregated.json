@@ -1,0 +1,13 @@
+{
+  "asn": 268199,
+  "handle": "RIOS-NETWORK",
+  "description": "Rios Network",
+  "subnets": {
+    "ipv4": [
+      "45.235.196.0/22"
+    ],
+    "ipv6": [
+      "2804:4d7c::/32"
+    ]
+  }
+}

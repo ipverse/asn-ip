@@ -1,0 +1,12 @@
+{
+  "asn": 203393,
+  "handle": "ONETRA",
+  "description": "Onetra Bilisim Teknolojileri San. Tic. LTD. STI.",
+  "subnets": {
+    "ipv4": [
+      "185.136.84.0/22",
+      "185.238.28.0/23"
+    ],
+    "ipv6": []
+  }
+}

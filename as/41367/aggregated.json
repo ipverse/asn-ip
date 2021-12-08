@@ -1,0 +1,13 @@
+{
+  "asn": 41367,
+  "handle": "PSN",
+  "description": "Wood Group Management Services Ltd",
+  "subnets": {
+    "ipv4": [
+      "193.32.255.0/24",
+      "194.36.136.0/24",
+      "207.11.243.0/24"
+    ],
+    "ipv6": []
+  }
+}

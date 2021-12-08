@@ -1,0 +1,12 @@
+{
+  "asn": 56262,
+  "handle": "USATV-DAGUPAN-AP",
+  "description": "Dagupan Urban Satellite Vision Inc.",
+  "subnets": {
+    "ipv4": [
+      "103.3.80.0/22",
+      "182.255.40.0/22"
+    ],
+    "ipv6": []
+  }
+}

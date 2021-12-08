@@ -1,0 +1,12 @@
+{
+  "asn": 393850,
+  "handle": "CLEVERSAFE",
+  "description": "IBM",
+  "subnets": {
+    "ipv4": [
+      "129.41.53.0/24",
+      "129.41.60.0/24"
+    ],
+    "ipv6": []
+  }
+}

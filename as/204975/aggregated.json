@@ -1,0 +1,13 @@
+{
+  "asn": 204975,
+  "handle": "BERTIN-IT",
+  "description": "bertin it SASU",
+  "subnets": {
+    "ipv4": [
+      "185.234.40.0/22"
+    ],
+    "ipv6": [
+      "2a0c:ff00::/29"
+    ]
+  }
+}

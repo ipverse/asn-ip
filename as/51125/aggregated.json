@@ -1,0 +1,11 @@
+{
+  "asn": 51125,
+  "handle": "SVOD-INT",
+  "description": "JSC SVOD INTERNATIONAL",
+  "subnets": {
+    "ipv4": [
+      "194.190.100.0/24"
+    ],
+    "ipv6": []
+  }
+}

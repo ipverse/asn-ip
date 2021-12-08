@@ -1,0 +1,13 @@
+{
+  "asn": 267425,
+  "handle": "TSCM-NET-BRASIL",
+  "description": "TSCM NET BRASIL TELECOMUNICAÇÕES LTDA",
+  "subnets": {
+    "ipv4": [
+      "181.191.144.0/22"
+    ],
+    "ipv6": [
+      "2804:4148::/32"
+    ]
+  }
+}

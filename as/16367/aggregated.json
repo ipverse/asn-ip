@@ -1,0 +1,13 @@
+{
+  "asn": 16367,
+  "handle": "SALAMON",
+  "description": "SALAMON INTERNET, s.r.o.",
+  "subnets": {
+    "ipv4": [
+      "194.1.157.0/24",
+      "194.1.215.0/24",
+      "194.1.216.0/24"
+    ],
+    "ipv6": []
+  }
+}

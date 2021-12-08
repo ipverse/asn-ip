@@ -1,0 +1,13 @@
+{
+  "asn": 270732,
+  "handle": "TI8-TECNOLOGIA-E-INOVACAO",
+  "description": "Ti8 Tecnologia e Inovação",
+  "subnets": {
+    "ipv4": [
+      "189.8.120.0/22"
+    ],
+    "ipv6": [
+      "2804:7088::/32"
+    ]
+  }
+}

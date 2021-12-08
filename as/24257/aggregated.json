@@ -1,0 +1,12 @@
+{
+  "asn": 24257,
+  "handle": "JPIX-64ES",
+  "description": "Japan Internet Exchange Co., Ltd.",
+  "subnets": {
+    "ipv4": [
+      "103.2.8.0/23",
+      "202.90.14.0/24"
+    ],
+    "ipv6": []
+  }
+}

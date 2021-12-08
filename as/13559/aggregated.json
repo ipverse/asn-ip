@@ -1,0 +1,13 @@
+{
+  "asn": 13559,
+  "handle": "VIRTUASYS",
+  "description": "VIRTUASYS LLC",
+  "subnets": {
+    "ipv4": [
+      "194.147.71.0/24"
+    ],
+    "ipv6": [
+      "2a0e:8a84::/32"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asn": 142323,
+  "handle": "IDNIC-JARPATINDO-ID",
+  "description": "PT Jaringan Cepat Indonesia",
+  "subnets": {
+    "ipv4": [
+      "103.167.222.0/24"
+    ],
+    "ipv6": []
+  }
+}

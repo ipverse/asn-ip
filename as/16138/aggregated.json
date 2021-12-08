@@ -1,0 +1,12 @@
+{
+  "asn": 16138,
+  "handle": "INTERIAPL",
+  "description": "GRUPA INTERIA.PL MEDIA Sp z.o.o. SK",
+  "subnets": {
+    "ipv4": [
+      "185.69.192.0/22",
+      "217.74.64.0/20"
+    ],
+    "ipv6": []
+  }
+}

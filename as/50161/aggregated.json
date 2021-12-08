@@ -1,0 +1,13 @@
+{
+  "asn": 50161,
+  "handle": "VELES",
+  "description": "PE Vasylchyshyn Iurii Oleksandrovych",
+  "subnets": {
+    "ipv4": [
+      "91.222.168.0/22",
+      "91.239.104.0/22",
+      "195.211.240.0/22"
+    ],
+    "ipv6": []
+  }
+}

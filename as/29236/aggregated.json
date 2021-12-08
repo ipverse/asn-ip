@@ -1,0 +1,13 @@
+{
+  "asn": 29236,
+  "handle": "SCHWEICKERT-DE-WDF",
+  "description": "Schweickert Netzwerktechnik GmbH",
+  "subnets": {
+    "ipv4": [
+      "194.55.159.0/24"
+    ],
+    "ipv6": [
+      "2001:67c:2d28::/48"
+    ]
+  }
+}

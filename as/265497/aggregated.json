@@ -1,0 +1,13 @@
+{
+  "asn": 265497,
+  "handle": "WGS-SERVICO-INF",
+  "description": "WGS serviço inf. e com. produtos ltda - me",
+  "subnets": {
+    "ipv4": [
+      "168.197.184.0/22"
+    ],
+    "ipv6": [
+      "2804:350c::/32"
+    ]
+  }
+}

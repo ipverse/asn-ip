@@ -1,0 +1,13 @@
+{
+  "asn": 141815,
+  "handle": "OUTOFBOX",
+  "description": "Outofbox Networks Private Limited",
+  "subnets": {
+    "ipv4": [
+      "103.167.38.0/23"
+    ],
+    "ipv6": [
+      "2001:df6:a480::/48"
+    ]
+  }
+}

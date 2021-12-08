@@ -1,0 +1,13 @@
+{
+  "asn": 139516,
+  "handle": "SNFIT-IN",
+  "description": "Shiv Nadar Foundation",
+  "subnets": {
+    "ipv4": [
+      "103.147.96.0/23"
+    ],
+    "ipv6": [
+      "2407:8a40:1::/48"
+    ]
+  }
+}

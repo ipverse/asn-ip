@@ -1,0 +1,11 @@
+{
+  "asn": 206069,
+  "handle": "KUFAIRPORT",
+  "description": "JSC Kurumoch International Airport",
+  "subnets": {
+    "ipv4": [
+      "31.41.242.0/24"
+    ],
+    "ipv6": []
+  }
+}

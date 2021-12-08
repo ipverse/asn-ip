@@ -1,0 +1,13 @@
+{
+  "asn": 268667,
+  "handle": "NET-MAIS-SOLUCOES",
+  "description": "NET MAIS SOLUCOES EM REDE LTDA - ME",
+  "subnets": {
+    "ipv4": [
+      "45.165.16.0/22"
+    ],
+    "ipv6": [
+      "2804:54bc::/32"
+    ]
+  }
+}

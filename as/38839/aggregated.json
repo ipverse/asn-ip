@@ -1,0 +1,13 @@
+{
+  "asn": 38839,
+  "handle": "CSPTEK-TW",
+  "description": "CSPTEK LTD. CO.",
+  "subnets": {
+    "ipv4": [
+      "103.159.176.0/23"
+    ],
+    "ipv6": [
+      "2406:d7c0::/32"
+    ]
+  }
+}

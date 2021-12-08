@@ -1,0 +1,13 @@
+{
+  "asn": 38470,
+  "handle": "DIBP-AP",
+  "description": "DEPARTMENT OF IMMIGRATION AND BORDER PROTECTION",
+  "subnets": {
+    "ipv4": [
+      "164.97.0.0/16"
+    ],
+    "ipv6": [
+      "2400:b300::/32"
+    ]
+  }
+}

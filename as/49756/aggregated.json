@@ -1,0 +1,11 @@
+{
+  "asn": 49756,
+  "handle": "PARLANET",
+  "description": "Der Schleswig Holsteinische Landtag",
+  "subnets": {
+    "ipv4": [
+      "194.242.20.0/23"
+    ],
+    "ipv6": []
+  }
+}

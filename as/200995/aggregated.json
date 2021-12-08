@@ -1,0 +1,11 @@
+{
+  "asn": 200995,
+  "handle": "SDNS-ANYCAST-NETWORK",
+  "description": "VIRTUA SYSTEMS SAS",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a03:5840:ffff::/48"
+    ]
+  }
+}

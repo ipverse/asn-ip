@@ -1,0 +1,14 @@
+{
+  "asn": 64067,
+  "handle": "HCITS-AP",
+  "description": "HostCircle IT Solutions PVT LTD",
+  "subnets": {
+    "ipv4": [
+      "110.44.5.0/24",
+      "110.44.6.0/24"
+    ],
+    "ipv6": [
+      "2400:b640::/48"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 213063,
+  "handle": "MICROWIFI",
+  "description": "MicroWiFi SRL",
+  "subnets": {
+    "ipv4": [
+      "185.159.144.0/22",
+      "185.226.165.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 132724,
+  "handle": "NARKOV-AP",
+  "description": "NARKOV Pty Ltd",
+  "subnets": {
+    "ipv4": [
+      "45.114.220.0/22",
+      "103.19.244.0/22"
+    ],
+    "ipv6": [
+      "2400:8380::/32"
+    ]
+  }
+}

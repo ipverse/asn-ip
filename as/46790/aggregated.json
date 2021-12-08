@@ -1,0 +1,14 @@
+{
+  "asn": 46790,
+  "handle": "PHS-WA",
+  "description": "Providence Health \u0026 Services",
+  "subnets": {
+    "ipv4": [
+      "170.173.0.0/21",
+      "170.173.8.0/22",
+      "170.173.20.0/24",
+      "170.173.74.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 20007,
+  "handle": "CIT-ASN-01",
+  "description": "cloudIT",
+  "subnets": {
+    "ipv4": [
+      "38.123.226.0/24",
+      "38.126.245.0/24"
+    ],
+    "ipv6": []
+  }
+}

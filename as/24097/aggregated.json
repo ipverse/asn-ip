@@ -1,0 +1,12 @@
+{
+  "asn": 24097,
+  "handle": "MAGNECOMP-CSLOXINFO-TH-AP",
+  "description": "CS Loxinfo Public Company Limited",
+  "subnets": {
+    "ipv4": [
+      "58.137.48.0/24",
+      "96.30.92.0/24"
+    ],
+    "ipv6": []
+  }
+}

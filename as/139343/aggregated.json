@@ -1,0 +1,11 @@
+{
+  "asn": 139343,
+  "handle": "WENET-AP",
+  "description": "WENET",
+  "subnets": {
+    "ipv4": [
+      "103.141.135.0/24"
+    ],
+    "ipv6": []
+  }
+}

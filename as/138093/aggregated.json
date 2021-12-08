@@ -1,0 +1,14 @@
+{
+  "asn": 138093,
+  "handle": "LINTASMAYA-ID",
+  "description": "PT. LINTASMAYA MULTI MEDIA",
+  "subnets": {
+    "ipv4": [
+      "103.57.11.0/24",
+      "103.130.4.0/23",
+      "103.130.7.0/24",
+      "103.160.150.0/23"
+    ],
+    "ipv6": []
+  }
+}

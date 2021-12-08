@@ -1,0 +1,12 @@
+{
+  "asn": 267019,
+  "handle": "AH-PROVEDOR-TELECOM",
+  "description": "AH PROVEDOR TELECOM",
+  "subnets": {
+    "ipv4": [
+      "45.227.104.0/22",
+      "190.89.251.0/24"
+    ],
+    "ipv6": []
+  }
+}

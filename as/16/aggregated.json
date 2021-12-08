@@ -1,0 +1,15 @@
+{
+  "asn": 16,
+  "handle": "LBL",
+  "description": "Lawrence Berkeley National Laboratory",
+  "subnets": {
+    "ipv4": [
+      "128.3.0.0/16",
+      "131.243.0.0/16",
+      "189.51.245.0/24"
+    ],
+    "ipv6": [
+      "2620:83:8000::/48"
+    ]
+  }
+}

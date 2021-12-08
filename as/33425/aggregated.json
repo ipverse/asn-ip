@@ -1,0 +1,12 @@
+{
+  "asn": 33425,
+  "handle": "COREWEAVE",
+  "description": "CoreWeave, Inc",
+  "subnets": {
+    "ipv4": [
+      "207.53.232.0/22",
+      "216.153.48.0/20"
+    ],
+    "ipv6": []
+  }
+}

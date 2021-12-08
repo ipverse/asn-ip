@@ -1,0 +1,11 @@
+{
+  "asn": 267303,
+  "handle": "CENTRO-OESTE-PROVEDOR",
+  "description": "CENTRO OESTE PROVEDOR",
+  "subnets": {
+    "ipv4": [
+      "45.233.0.0/22"
+    ],
+    "ipv6": []
+  }
+}

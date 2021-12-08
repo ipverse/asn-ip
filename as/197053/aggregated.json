@@ -1,0 +1,12 @@
+{
+  "asn": 197053,
+  "handle": "GLOBAL-COMMUNICATION",
+  "description": "Global Communication AD",
+  "subnets": {
+    "ipv4": [
+      "91.216.71.0/24",
+      "193.16.157.0/24"
+    ],
+    "ipv6": []
+  }
+}

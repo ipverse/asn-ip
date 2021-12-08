@@ -1,0 +1,12 @@
+{
+  "asn": 201109,
+  "handle": "NXT-TELECOM",
+  "description": "LLEIDA WIFI NETWORKS SL",
+  "subnets": {
+    "ipv4": [
+      "146.66.240.0/20",
+      "185.138.16.0/22"
+    ],
+    "ipv6": []
+  }
+}

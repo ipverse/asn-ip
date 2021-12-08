@@ -1,0 +1,13 @@
+{
+  "asn": 23225,
+  "handle": "NORTH-CAROLINA-WIRELESS",
+  "description": "North Carolina Wireless, LLC",
+  "subnets": {
+    "ipv4": [
+      "74.114.120.0/22",
+      "192.81.176.0/22",
+      "208.78.184.0/22"
+    ],
+    "ipv6": []
+  }
+}

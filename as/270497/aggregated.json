@@ -1,0 +1,13 @@
+{
+  "asn": 270497,
+  "handle": "RUTE-MARIA-DA-CUNHA",
+  "description": "RUTE MARIA DA CUNHA",
+  "subnets": {
+    "ipv4": [
+      "24.152.116.0/22"
+    ],
+    "ipv6": [
+      "2804:6cdc::/32"
+    ]
+  }
+}

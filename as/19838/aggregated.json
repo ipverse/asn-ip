@@ -1,0 +1,11 @@
+{
+  "asn": 19838,
+  "handle": "BLUE-WATER-NETWORKS",
+  "description": "Blue Water Networks",
+  "subnets": {
+    "ipv4": [
+      "192.48.218.0/23"
+    ],
+    "ipv6": []
+  }
+}

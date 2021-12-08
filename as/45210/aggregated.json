@@ -1,0 +1,11 @@
+{
+  "asn": 45210,
+  "handle": "METRO-IN",
+  "description": "METRO-nom GmbH",
+  "subnets": {
+    "ipv4": [
+      "164.139.240.0/22"
+    ],
+    "ipv6": []
+  }
+}

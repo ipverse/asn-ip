@@ -1,0 +1,13 @@
+{
+  "asn": 3285,
+  "handle": "HOME-IP",
+  "description": "Company Delfa Co. Ltd.",
+  "subnets": {
+    "ipv4": [
+      "93.100.195.0/24"
+    ],
+    "ipv6": [
+      "2a00:1818::/32"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 52788,
+  "handle": "MEGANET-TELECOMUNICACOES-E",
+  "description": "Meganet Telecomunicaçoes e Internet LTDA",
+  "subnets": {
+    "ipv4": [
+      "177.38.68.0/22"
+    ],
+    "ipv6": [
+      "2804:b84::/32"
+    ]
+  }
+}

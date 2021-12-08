@@ -1,0 +1,13 @@
+{
+  "asn": 50415,
+  "handle": "AHOSTING",
+  "description": "Ahosting a.s.",
+  "subnets": {
+    "ipv4": [
+      "95.215.80.0/22"
+    ],
+    "ipv6": [
+      "2a0c:7840::/29"
+    ]
+  }
+}

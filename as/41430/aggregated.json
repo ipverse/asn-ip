@@ -1,0 +1,11 @@
+{
+  "asn": 41430,
+  "handle": "RNCB",
+  "description": "Russian National Commercial Bank (PAO)",
+  "subnets": {
+    "ipv4": [
+      "195.200.209.0/24"
+    ],
+    "ipv6": []
+  }
+}

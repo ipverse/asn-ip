@@ -1,0 +1,13 @@
+{
+  "asn": 267621,
+  "handle": "IFIBER-TELECOM",
+  "description": "IFIBER TELECOM",
+  "subnets": {
+    "ipv4": [
+      "45.71.164.0/22"
+    ],
+    "ipv6": [
+      "2804:4444::/32"
+    ]
+  }
+}

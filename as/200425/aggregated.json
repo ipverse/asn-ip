@@ -1,0 +1,13 @@
+{
+  "asn": 200425,
+  "handle": "BG-GS1",
+  "description": "Betgenius Limited",
+  "subnets": {
+    "ipv4": [
+      "185.107.196.0/23"
+    ],
+    "ipv6": [
+      "2a06:45c0::/32"
+    ]
+  }
+}

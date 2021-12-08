@@ -1,0 +1,11 @@
+{
+  "asn": 136131,
+  "handle": "TSCN-ID",
+  "description": "PT Tiga Satu Cyber Network",
+  "subnets": {
+    "ipv4": [
+      "103.97.76.0/23"
+    ],
+    "ipv6": []
+  }
+}

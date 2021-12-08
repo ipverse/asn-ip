@@ -1,0 +1,12 @@
+{
+  "asn": 52990,
+  "handle": "VONEX-TELECOMUNICACOES",
+  "description": "Vonex Telecomunicações",
+  "subnets": {
+    "ipv4": [
+      "177.53.16.0/22",
+      "177.53.20.0/23"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 53779,
+  "handle": "BOMGAR",
+  "description": "Bomgar Corporation",
+  "subnets": {
+    "ipv4": [
+      "162.253.2.0/24"
+    ],
+    "ipv6": [
+      "2620:104:600a::/48"
+    ]
+  }
+}

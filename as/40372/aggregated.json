@@ -1,0 +1,12 @@
+{
+  "asn": 40372,
+  "handle": "KAPLAN-LACROSSE",
+  "description": "Schweser",
+  "subnets": {
+    "ipv4": [
+      "71.13.180.0/24",
+      "205.211.0.0/24"
+    ],
+    "ipv6": []
+  }
+}

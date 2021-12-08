@@ -1,0 +1,11 @@
+{
+  "asn": 394066,
+  "handle": "CTC-AS1",
+  "description": "The Chugwater Telephone Company",
+  "subnets": {
+    "ipv4": [
+      "199.48.61.0/24"
+    ],
+    "ipv6": []
+  }
+}

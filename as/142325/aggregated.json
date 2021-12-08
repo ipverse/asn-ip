@@ -1,0 +1,11 @@
+{
+  "asn": 142325,
+  "handle": "IDNIC-TERALINK-ID",
+  "description": "PT. Teralink Djava Multimedia",
+  "subnets": {
+    "ipv4": [
+      "103.169.0.0/23"
+    ],
+    "ipv6": []
+  }
+}

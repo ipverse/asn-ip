@@ -1,0 +1,11 @@
+{
+  "asn": 45576,
+  "handle": "CERNET2-TSINGHUA6-AP",
+  "description": "Tsinghua University",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2402:f000::/32"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 61083,
+  "handle": "DEGIRO",
+  "description": "DeGiro B.V",
+  "subnets": {
+    "ipv4": [
+      "149.13.78.0/23"
+    ],
+    "ipv6": [
+      "2001:978:909::/48"
+    ]
+  }
+}

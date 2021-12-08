@@ -1,0 +1,12 @@
+{
+  "asn": 4655,
+  "handle": "SING-TAO-ELECTRONIC-DAILY",
+  "description": "Sing Tao Electronic Daily",
+  "subnets": {
+    "ipv4": [
+      "203.80.0.0/22",
+      "218.188.78.0/24"
+    ],
+    "ipv6": []
+  }
+}

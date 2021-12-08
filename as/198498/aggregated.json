@@ -1,0 +1,12 @@
+{
+  "asn": 198498,
+  "handle": "DOLNET",
+  "description": "DOLNET GROUP sp. z o.o.",
+  "subnets": {
+    "ipv4": [
+      "91.235.192.0/22",
+      "185.245.192.0/22"
+    ],
+    "ipv6": []
+  }
+}

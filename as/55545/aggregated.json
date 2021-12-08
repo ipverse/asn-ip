@@ -1,0 +1,15 @@
+{
+  "asn": 55545,
+  "handle": "SUT-AP",
+  "description": "Office of Info.Tech. Admin. for Educational Development",
+  "subnets": {
+    "ipv4": [
+      "202.21.140.0/24",
+      "202.28.40.0/22",
+      "203.158.0.0/21"
+    ],
+    "ipv6": [
+      "2001:3c8:c301::/48"
+    ]
+  }
+}

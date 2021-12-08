@@ -1,0 +1,13 @@
+{
+  "asn": 268079,
+  "handle": "BIG-COMERCIO-DE",
+  "description": "Big comercio de equipamentos de informatica ltda",
+  "subnets": {
+    "ipv4": [
+      "45.169.0.0/22"
+    ],
+    "ipv6": [
+      "2804:57ac::/32"
+    ]
+  }
+}

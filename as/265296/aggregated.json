@@ -1,0 +1,13 @@
+{
+  "asn": 265296,
+  "handle": "CAETITE-TELECOM-LTDA",
+  "description": "Caetité Telecom Ltda",
+  "subnets": {
+    "ipv4": [
+      "168.90.216.0/22"
+    ],
+    "ipv6": [
+      "2804:2dac::/35"
+    ]
+  }
+}

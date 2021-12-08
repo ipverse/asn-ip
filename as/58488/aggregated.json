@@ -1,0 +1,12 @@
+{
+  "asn": 58488,
+  "handle": "IDNIC-KKP-ID",
+  "description": "PUSDATIN KKP",
+  "subnets": {
+    "ipv4": [
+      "103.7.52.0/23",
+      "103.93.190.0/23"
+    ],
+    "ipv6": []
+  }
+}

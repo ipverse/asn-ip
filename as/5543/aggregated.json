@@ -1,0 +1,11 @@
+{
+  "asn": 5543,
+  "handle": "TTK-VOLGA-BACKUP",
+  "description": "Joint Stock Company TransTeleCom",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a02:e840:1001::/48"
+    ]
+  }
+}

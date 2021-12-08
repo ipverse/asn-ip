@@ -1,0 +1,12 @@
+{
+  "asn": 200884,
+  "handle": "EFFIX-BE",
+  "description": "Effix Group",
+  "subnets": {
+    "ipv4": [
+      "94.126.50.0/23",
+      "185.92.196.0/22"
+    ],
+    "ipv6": []
+  }
+}

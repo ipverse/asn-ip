@@ -1,0 +1,12 @@
+{
+  "asn": 18335,
+  "handle": "SWU-NET-KR-KR",
+  "description": "Seoul Women University",
+  "subnets": {
+    "ipv4": [
+      "220.72.65.0/24",
+      "220.116.191.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asn": 63861,
+  "handle": "IDNIC-ATM-ID",
+  "description": "PT Aktif Tengah Malam",
+  "subnets": {
+    "ipv4": [
+      "103.48.128.0/22"
+    ],
+    "ipv6": []
+  }
+}

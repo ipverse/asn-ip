@@ -1,0 +1,13 @@
+{
+  "asn": 263340,
+  "handle": "CPW-INTERNET",
+  "description": "CPW Internet",
+  "subnets": {
+    "ipv4": [
+      "191.36.216.0/21"
+    ],
+    "ipv6": [
+      "2804:14a0::/32"
+    ]
+  }
+}

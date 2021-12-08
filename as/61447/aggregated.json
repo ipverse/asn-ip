@@ -1,0 +1,13 @@
+{
+  "asn": 61447,
+  "handle": "INTERNET-SYSTEMS-CONSORTIUM",
+  "description": "Internet Systems Consortium",
+  "subnets": {
+    "ipv4": [
+      "200.93.247.0/24"
+    ],
+    "ipv6": [
+      "2801:1b:2000::/48"
+    ]
+  }
+}

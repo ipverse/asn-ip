@@ -1,0 +1,13 @@
+{
+  "asn": 132139,
+  "handle": "VECLOUD1-AP",
+  "description": "VECLOUD LIMITED",
+  "subnets": {
+    "ipv4": [
+      "103.149.62.0/23"
+    ],
+    "ipv6": [
+      "2405:e440::/32"
+    ]
+  }
+}

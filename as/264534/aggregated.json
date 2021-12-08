@@ -1,0 +1,13 @@
+{
+  "asn": 264534,
+  "handle": "SPOT-PROMOCOES-EVENTOS",
+  "description": "SPOT PROMOÇÕES, EVENTOS E MERCHAND LTDA",
+  "subnets": {
+    "ipv4": [
+      "192.231.176.0/24"
+    ],
+    "ipv6": [
+      "2801:80:e60::/48"
+    ]
+  }
+}

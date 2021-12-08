@@ -1,0 +1,12 @@
+{
+  "asn": 328319,
+  "handle": "AMTEL",
+  "description": "AMTEL LTD",
+  "subnets": {
+    "ipv4": [
+      "102.141.196.0/23",
+      "102.141.198.0/24"
+    ],
+    "ipv6": []
+  }
+}

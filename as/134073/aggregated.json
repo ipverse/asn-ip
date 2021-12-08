@@ -1,0 +1,13 @@
+{
+  "asn": 134073,
+  "handle": "RD-TH-AP",
+  "description": "The Revenue Department",
+  "subnets": {
+    "ipv4": [
+      "103.51.64.0/22"
+    ],
+    "ipv6": [
+      "2001:df2:ac00::/48"
+    ]
+  }
+}

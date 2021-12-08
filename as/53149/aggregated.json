@@ -1,0 +1,13 @@
+{
+  "asn": 53149,
+  "handle": "CAMAQUANET-SERVICO-DE",
+  "description": "CAMAQUANET SERVICO DE COMUNICACAO MULTIMIDIA EIREL",
+  "subnets": {
+    "ipv4": [
+      "186.208.16.0/20"
+    ],
+    "ipv6": [
+      "2804:2ab4::/32"
+    ]
+  }
+}

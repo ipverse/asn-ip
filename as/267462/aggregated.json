@@ -1,0 +1,13 @@
+{
+  "asn": 267462,
+  "handle": "ESPACO-LINK-TELECOMUNICACOES",
+  "description": "Espaço Link Telecomunicações LTDA - ME",
+  "subnets": {
+    "ipv4": [
+      "192.141.84.0/22"
+    ],
+    "ipv6": [
+      "2804:41e0::/32"
+    ]
+  }
+}

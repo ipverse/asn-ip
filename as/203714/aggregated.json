@@ -1,0 +1,12 @@
+{
+  "asn": 203714,
+  "handle": "LLCFLEX",
+  "description": "LLC Flex",
+  "subnets": {
+    "ipv4": [
+      "45.134.60.0/22",
+      "176.53.180.0/22"
+    ],
+    "ipv6": []
+  }
+}

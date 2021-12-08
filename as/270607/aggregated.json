@@ -1,0 +1,13 @@
+{
+  "asn": 270607,
+  "handle": "POWERNET-MINAS-TELECOM-LTDA",
+  "description": "POWERNET MINAS TELECOM LTDA",
+  "subnets": {
+    "ipv4": [
+      "187.17.132.0/22"
+    ],
+    "ipv6": [
+      "2804:6e98::/32"
+    ]
+  }
+}

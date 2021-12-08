@@ -1,0 +1,12 @@
+{
+  "asn": 134181,
+  "handle": "DGEWIN-AP",
+  "description": "Tas Communications Pty Ltd",
+  "subnets": {
+    "ipv4": [
+      "111.235.128.0/22",
+      "203.33.111.0/24"
+    ],
+    "ipv6": []
+  }
+}

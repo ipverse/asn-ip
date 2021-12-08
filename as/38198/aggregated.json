@@ -1,0 +1,13 @@
+{
+  "asn": 38198,
+  "handle": "DIGICELNET-TO",
+  "description": "Digicel Tonga Ltd.",
+  "subnets": {
+    "ipv4": [
+      "202.43.8.0/22",
+      "202.43.12.0/23",
+      "202.43.14.0/24"
+    ],
+    "ipv6": []
+  }
+}

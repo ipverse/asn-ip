@@ -1,0 +1,11 @@
+{
+  "asn": 19942,
+  "handle": "FLOCHI",
+  "description": "Flochi Networks",
+  "subnets": {
+    "ipv4": [
+      "204.10.96.0/21"
+    ],
+    "ipv6": []
+  }
+}

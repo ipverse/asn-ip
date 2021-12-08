@@ -1,0 +1,13 @@
+{
+  "asn": 53245,
+  "handle": "ACTION-INFINITE-COMMUNICATIONS",
+  "description": "ActiON Infinite Communications, Brazil.",
+  "subnets": {
+    "ipv4": [
+      "177.21.64.0/20"
+    ],
+    "ipv6": [
+      "2804:5c78::/32"
+    ]
+  }
+}

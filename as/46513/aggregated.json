@@ -1,0 +1,13 @@
+{
+  "asn": 46513,
+  "handle": "ALARM-PROD-US",
+  "description": "Alarm.com, Inc.",
+  "subnets": {
+    "ipv4": [
+      "149.97.99.0/24",
+      "149.97.124.0/22",
+      "192.155.70.0/23"
+    ],
+    "ipv6": []
+  }
+}

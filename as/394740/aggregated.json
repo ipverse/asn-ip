@@ -1,0 +1,17 @@
+{
+  "asn": 394740,
+  "handle": "CONSOLIDATED-ELECTRIC-COOPERATIVE",
+  "description": "The Consolidated Electric Cooperative, Inc.",
+  "subnets": {
+    "ipv4": [
+      "23.138.160.0/24",
+      "65.49.53.0/24",
+      "67.159.204.0/22",
+      "74.82.0.0/24",
+      "184.105.111.0/24"
+    ],
+    "ipv6": [
+      "2604:c140::/32"
+    ]
+  }
+}

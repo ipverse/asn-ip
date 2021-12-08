@@ -1,0 +1,11 @@
+{
+  "asn": 23706,
+  "handle": "TNT-AP",
+  "description": "AAPT Limited",
+  "subnets": {
+    "ipv4": [
+      "203.26.190.0/24"
+    ],
+    "ipv6": []
+  }
+}

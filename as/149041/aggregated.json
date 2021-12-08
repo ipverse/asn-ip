@@ -1,0 +1,11 @@
+{
+  "asn": 149041,
+  "handle": "SIMPLIFYIT-AP",
+  "description": "Simplify IT",
+  "subnets": {
+    "ipv4": [
+      "103.177.74.0/23"
+    ],
+    "ipv6": []
+  }
+}

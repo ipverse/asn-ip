@@ -1,0 +1,12 @@
+{
+  "asn": 28089,
+  "handle": "BANCO-CENTRAL-DE-VENEZUELA",
+  "description": "BANCO CENTRAL DE VENEZUELA",
+  "subnets": {
+    "ipv4": [
+      "200.35.128.0/23",
+      "200.35.132.0/24"
+    ],
+    "ipv6": []
+  }
+}

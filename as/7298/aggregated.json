@@ -1,0 +1,12 @@
+{
+  "asn": 7298,
+  "handle": "TNEXT-SA",
+  "description": "TNext S.A.",
+  "subnets": {
+    "ipv4": [
+      "200.160.176.0/20",
+      "206.164.152.0/21"
+    ],
+    "ipv6": []
+  }
+}

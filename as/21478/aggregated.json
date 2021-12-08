@@ -1,0 +1,11 @@
+{
+  "asn": 21478,
+  "handle": "PLEX",
+  "description": "Plex Elektronische Informatie",
+  "subnets": {
+    "ipv4": [
+      "213.129.192.0/19"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 270633,
+  "handle": "A-J-RIBEIRO-TELECOMUNICACOES",
+  "description": "a j ribeiro telecomunicacoes",
+  "subnets": {
+    "ipv4": [
+      "190.106.236.0/22"
+    ],
+    "ipv6": [
+      "2804:6f04::/33",
+      "2804:6f04:8000::/34"
+    ]
+  }
+}

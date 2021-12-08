@@ -1,0 +1,13 @@
+{
+  "asn": 267266,
+  "handle": "FRAPORT-BRASIL-SA",
+  "description": "FRAPORT BRASIL S.A. AEROPORTO DE FORTALEZA",
+  "subnets": {
+    "ipv4": [
+      "45.232.44.0/23"
+    ],
+    "ipv6": [
+      "2804:4ad4::/32"
+    ]
+  }
+}

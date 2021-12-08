@@ -1,0 +1,13 @@
+{
+  "asn": 263536,
+  "handle": "EMPRESA-DE-TELECOMUNICACOES",
+  "description": "Empresa de Telecomunicacoes da Alta Mogiana - AMG",
+  "subnets": {
+    "ipv4": [
+      "191.5.128.0/20"
+    ],
+    "ipv6": [
+      "2804:1380::/32"
+    ]
+  }
+}

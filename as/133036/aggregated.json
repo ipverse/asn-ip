@@ -1,0 +1,11 @@
+{
+  "asn": 133036,
+  "handle": "AMADEUS-AP-BLR",
+  "description": "Amadeus Data Processing GmbH",
+  "subnets": {
+    "ipv4": [
+      "168.153.1.0/24"
+    ],
+    "ipv6": []
+  }
+}

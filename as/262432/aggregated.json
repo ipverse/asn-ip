@@ -1,0 +1,12 @@
+{
+  "asn": 262432,
+  "handle": "KOFRE-REPE-COM",
+  "description": "KOFRE REP.E COM. DE TELECOMUNICACOES LTDA",
+  "subnets": {
+    "ipv4": [
+      "177.39.193.0/24",
+      "177.39.195.0/24"
+    ],
+    "ipv6": []
+  }
+}

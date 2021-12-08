@@ -1,0 +1,12 @@
+{
+  "asn": 23057,
+  "handle": "DART-IP",
+  "description": "DART TRANSIT COMPANY",
+  "subnets": {
+    "ipv4": [
+      "63.86.78.0/24",
+      "209.180.65.0/24"
+    ],
+    "ipv6": []
+  }
+}

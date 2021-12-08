@@ -1,0 +1,11 @@
+{
+  "asn": 41526,
+  "handle": "XNAME",
+  "description": "Association XNAME",
+  "subnets": {
+    "ipv4": [
+      "195.234.42.0/24"
+    ],
+    "ipv6": []
+  }
+}

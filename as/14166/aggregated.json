@@ -1,0 +1,12 @@
+{
+  "asn": 14166,
+  "handle": "SOFTCOMCA",
+  "description": "Softcom Inc.",
+  "subnets": {
+    "ipv4": [
+      "209.41.154.0/23",
+      "209.41.156.0/22"
+    ],
+    "ipv6": []
+  }
+}

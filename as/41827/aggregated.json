@@ -1,0 +1,14 @@
+{
+  "asn": 41827,
+  "handle": "VIPNET",
+  "description": "Vipnet.it S.r.l.",
+  "subnets": {
+    "ipv4": [
+      "185.95.132.0/22",
+      "185.168.164.0/22"
+    ],
+    "ipv6": [
+      "2a0b:ea00::/32"
+    ]
+  }
+}

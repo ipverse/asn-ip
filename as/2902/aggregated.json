@@ -1,0 +1,13 @@
+{
+  "asn": 2902,
+  "handle": "WN-WY",
+  "description": "University of Wyoming",
+  "subnets": {
+    "ipv4": [
+      "129.72.0.0/16",
+      "192.65.143.0/24",
+      "198.59.192.0/23"
+    ],
+    "ipv6": []
+  }
+}

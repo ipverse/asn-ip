@@ -1,0 +1,12 @@
+{
+  "asn": 328962,
+  "handle": "JWAFRINIC",
+  "description": "Watchtower Bible and Tract Society of South Africa",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2c0f:eb00:a00::/40",
+      "2c0f:eb00:f00::/40"
+    ]
+  }
+}

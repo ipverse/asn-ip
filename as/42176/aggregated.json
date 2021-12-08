@@ -1,0 +1,13 @@
+{
+  "asn": 42176,
+  "handle": "INTRALOT",
+  "description": "Goldbet S.P.A.",
+  "subnets": {
+    "ipv4": [
+      "92.42.80.0/22",
+      "92.42.84.0/23",
+      "92.42.86.0/24"
+    ],
+    "ipv6": []
+  }
+}

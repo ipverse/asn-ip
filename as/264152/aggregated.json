@@ -1,0 +1,13 @@
+{
+  "asn": 264152,
+  "handle": "NETWORK-DIGITAL-LTDA",
+  "description": "NETWORK DIGITAL LTDA",
+  "subnets": {
+    "ipv4": [
+      "138.94.88.0/22"
+    ],
+    "ipv6": [
+      "2804:2344::/32"
+    ]
+  }
+}

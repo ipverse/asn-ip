@@ -1,0 +1,11 @@
+{
+  "asn": 42887,
+  "handle": "ACC",
+  "description": "ACC Distribution UAB",
+  "subnets": {
+    "ipv4": [
+      "77.75.40.0/21"
+    ],
+    "ipv6": []
+  }
+}

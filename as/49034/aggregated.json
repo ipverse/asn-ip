@@ -1,0 +1,14 @@
+{
+  "asn": 49034,
+  "handle": "LAUDERT",
+  "description": "Laudert GmbH + Co. KG",
+  "subnets": {
+    "ipv4": [
+      "185.39.56.0/22",
+      "193.218.95.0/24"
+    ],
+    "ipv6": [
+      "2a00:f6e0::/32"
+    ]
+  }
+}

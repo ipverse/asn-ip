@@ -1,0 +1,13 @@
+{
+  "asn": 56098,
+  "handle": "UNICO-AU",
+  "description": "Unico Computer Systems Pty Ltd",
+  "subnets": {
+    "ipv4": [
+      "202.127.210.0/23"
+    ],
+    "ipv6": [
+      "2001:df0:fe::/48"
+    ]
+  }
+}

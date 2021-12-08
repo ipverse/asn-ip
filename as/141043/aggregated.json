@@ -1,0 +1,11 @@
+{
+  "asn": 141043,
+  "handle": "PHS-AP",
+  "description": "The Royal Womens Hospital",
+  "subnets": {
+    "ipv4": [
+      "202.69.134.0/24"
+    ],
+    "ipv6": []
+  }
+}

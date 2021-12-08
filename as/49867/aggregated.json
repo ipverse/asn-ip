@@ -1,0 +1,14 @@
+{
+  "asn": 49867,
+  "handle": "XNETCONSULTING",
+  "description": "X-NetConsulting GmbH",
+  "subnets": {
+    "ipv4": [
+      "77.74.80.0/21",
+      "185.211.92.0/22"
+    ],
+    "ipv6": [
+      "2a00:9220::/32"
+    ]
+  }
+}

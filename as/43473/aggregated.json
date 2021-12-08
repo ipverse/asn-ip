@@ -1,0 +1,11 @@
+{
+  "asn": 43473,
+  "handle": "ATE-BANK",
+  "description": "ATE Bank Romania SA",
+  "subnets": {
+    "ipv4": [
+      "91.195.14.0/23"
+    ],
+    "ipv6": []
+  }
+}

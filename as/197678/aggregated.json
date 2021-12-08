@@ -1,0 +1,13 @@
+{
+  "asn": 197678,
+  "handle": "MINISTERSTWO-IT",
+  "description": "MINISTERSTWO IT - Michal Winkler",
+  "subnets": {
+    "ipv4": [
+      "91.230.24.0/24"
+    ],
+    "ipv6": [
+      "2001:67c:2808::/48"
+    ]
+  }
+}

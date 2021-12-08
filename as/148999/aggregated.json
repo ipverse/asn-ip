@@ -1,0 +1,11 @@
+{
+  "asn": 148999,
+  "handle": "APACEINTERNET-AP",
+  "description": "Apace Internet",
+  "subnets": {
+    "ipv4": [
+      "103.175.242.0/23"
+    ],
+    "ipv6": []
+  }
+}

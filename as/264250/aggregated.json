@@ -1,0 +1,11 @@
+{
+  "asn": 264250,
+  "handle": "VIRTUAL-TELECOM",
+  "description": "Virtual Telecom",
+  "subnets": {
+    "ipv4": [
+      "138.118.64.0/22"
+    ],
+    "ipv6": []
+  }
+}

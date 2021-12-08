@@ -1,0 +1,12 @@
+{
+  "asn": 134378,
+  "handle": "ANL-AP",
+  "description": "Alchemy Networks Limited",
+  "subnets": {
+    "ipv4": [
+      "103.63.92.0/22",
+      "103.153.121.0/24"
+    ],
+    "ipv6": []
+  }
+}

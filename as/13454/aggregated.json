@@ -1,0 +1,12 @@
+{
+  "asn": 13454,
+  "handle": "PA-TURNPIKE",
+  "description": "PENNSYLVANIA TURNPIKE COMMISSION",
+  "subnets": {
+    "ipv4": [
+      "8.38.160.0/24",
+      "74.212.26.0/24"
+    ],
+    "ipv6": []
+  }
+}

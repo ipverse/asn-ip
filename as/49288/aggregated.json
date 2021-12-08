@@ -1,0 +1,12 @@
+{
+  "asn": 49288,
+  "handle": "RGSBANK",
+  "description": "PJSC Rosgosstrakh Bank",
+  "subnets": {
+    "ipv4": [
+      "91.212.171.0/24",
+      "91.216.69.0/24"
+    ],
+    "ipv6": []
+  }
+}

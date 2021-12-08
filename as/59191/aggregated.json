@@ -1,0 +1,13 @@
+{
+  "asn": 59191,
+  "handle": "PEERCAST-IN",
+  "description": "PEERCAST TELECOM INDIA PVT LTD",
+  "subnets": {
+    "ipv4": [
+      "103.173.252.0/23"
+    ],
+    "ipv6": [
+      "2407:f440::/32"
+    ]
+  }
+}

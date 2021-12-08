@@ -1,0 +1,13 @@
+{
+  "asn": 263933,
+  "handle": "SISTEM-TELECOM",
+  "description": "Sistem Telecom",
+  "subnets": {
+    "ipv4": [
+      "138.219.48.0/22"
+    ],
+    "ipv6": [
+      "2804:27fc::/32"
+    ]
+  }
+}

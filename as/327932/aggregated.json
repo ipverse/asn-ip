@@ -1,0 +1,13 @@
+{
+  "asn": 327932,
+  "handle": "CONNECTIS-DATA-ANGOLA",
+  "description": "CONNECTIS-DATA ANGOLA LDA",
+  "subnets": {
+    "ipv4": [
+      "102.36.224.0/24",
+      "102.36.227.0/24",
+      "169.239.76.0/22"
+    ],
+    "ipv6": []
+  }
+}

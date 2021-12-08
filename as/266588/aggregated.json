@@ -1,0 +1,13 @@
+{
+  "asn": 266588,
+  "handle": "CONNECT-SERVICOS-DE-INTERNET",
+  "description": "CONNECT SERVICOS DE INTERNET",
+  "subnets": {
+    "ipv4": [
+      "45.7.160.0/22"
+    ],
+    "ipv6": [
+      "2804:3e54::/32"
+    ]
+  }
+}

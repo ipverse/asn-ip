@@ -1,0 +1,15 @@
+{
+  "asn": 28134,
+  "handle": "TKNET-SERVICOS-DE",
+  "description": "TKNET Serviços de Internet LTDA",
+  "subnets": {
+    "ipv4": [
+      "170.81.216.0/22",
+      "187.45.64.0/20",
+      "201.131.80.0/21"
+    ],
+    "ipv6": [
+      "2804:ac0::/32"
+    ]
+  }
+}

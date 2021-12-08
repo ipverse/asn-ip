@@ -1,0 +1,11 @@
+{
+  "asn": 59156,
+  "handle": "BALISOKET-ID",
+  "description": "PT Bali Soket Informindo",
+  "subnets": {
+    "ipv4": [
+      "103.255.120.0/22"
+    ],
+    "ipv6": []
+  }
+}

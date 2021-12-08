@@ -1,0 +1,14 @@
+{
+  "asn": 53242,
+  "handle": "NOGUEIRA-DANTAS-LTDA",
+  "description": "NOGUEIRA \u0026 DANTAS LTDA",
+  "subnets": {
+    "ipv4": [
+      "177.21.0.0/19",
+      "177.136.112.0/20"
+    ],
+    "ipv6": [
+      "2804:334:400::/48"
+    ]
+  }
+}

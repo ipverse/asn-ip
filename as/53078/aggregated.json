@@ -1,0 +1,15 @@
+{
+  "asn": 53078,
+  "handle": "ACESSE-COMUNICACAO-LTDA",
+  "description": "Acesse Comunicação Ltda",
+  "subnets": {
+    "ipv4": [
+      "170.80.252.0/22",
+      "186.193.16.0/20",
+      "187.94.208.0/20"
+    ],
+    "ipv6": [
+      "2804:6bc::/32"
+    ]
+  }
+}

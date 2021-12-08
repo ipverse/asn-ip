@@ -1,0 +1,13 @@
+{
+  "asn": 270568,
+  "handle": "IMEDIATA-TELECOMUNICACOES",
+  "description": "Imediata Telecomunicações",
+  "subnets": {
+    "ipv4": [
+      "201.216.88.0/22"
+    ],
+    "ipv6": [
+      "2804:6dfc::/32"
+    ]
+  }
+}

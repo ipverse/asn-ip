@@ -1,0 +1,11 @@
+{
+  "asn": 138732,
+  "handle": "AVJR-IN",
+  "description": "Avjr Broadband Services",
+  "subnets": {
+    "ipv4": [
+      "103.139.57.0/24"
+    ],
+    "ipv6": []
+  }
+}

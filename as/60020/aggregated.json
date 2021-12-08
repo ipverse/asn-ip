@@ -1,0 +1,11 @@
+{
+  "asn": 60020,
+  "handle": "OGO",
+  "description": "OGO CABLE-INTERNET TRANZACTION SRL",
+  "subnets": {
+    "ipv4": [
+      "188.208.16.0/23"
+    ],
+    "ipv6": []
+  }
+}

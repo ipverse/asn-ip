@@ -1,0 +1,13 @@
+{
+  "asn": 52304,
+  "handle": "NIC-CHILE",
+  "description": "NIC Chile",
+  "subnets": {
+    "ipv4": [
+      "190.124.27.0/24"
+    ],
+    "ipv6": [
+      "2001:1398:121::/48"
+    ]
+  }
+}

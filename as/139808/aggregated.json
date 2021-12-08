@@ -1,0 +1,11 @@
+{
+  "asn": 139808,
+  "handle": "SONYCYBERNET-AP",
+  "description": "Sony Cyber Net",
+  "subnets": {
+    "ipv4": [
+      "103.145.112.0/23"
+    ],
+    "ipv6": []
+  }
+}

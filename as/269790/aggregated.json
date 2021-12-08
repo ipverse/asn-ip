@@ -1,0 +1,13 @@
+{
+  "asn": 269790,
+  "handle": "UNIVERSIDAD-CATOLICA-DE",
+  "description": "UNIVERSIDAD CATÓLICA DE CUENCA",
+  "subnets": {
+    "ipv4": [
+      "45.182.119.0/24"
+    ],
+    "ipv6": [
+      "2801:1a:4800::/48"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 137561,
+  "handle": "WAYLINK-AP",
+  "description": "WayLink (Pvt.) Limited",
+  "subnets": {
+    "ipv4": [
+      "103.113.100.0/22",
+      "103.137.68.0/24",
+      "103.137.70.0/23"
+    ],
+    "ipv6": []
+  }
+}

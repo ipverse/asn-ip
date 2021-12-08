@@ -1,0 +1,13 @@
+{
+  "asn": 138109,
+  "handle": "RASIBINTANG-ID",
+  "description": "PT. Rasi Bintang Perkasa",
+  "subnets": {
+    "ipv4": [
+      "103.126.84.0/22"
+    ],
+    "ipv6": [
+      "2404:7c0::/32"
+    ]
+  }
+}

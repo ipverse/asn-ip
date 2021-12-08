@@ -1,0 +1,13 @@
+{
+  "asn": 269698,
+  "handle": "INTERCLUB-FIBRA-TELECOM-ME",
+  "description": "INTERCLUB FIBRA TELECOM ME",
+  "subnets": {
+    "ipv4": [
+      "45.191.8.0/22"
+    ],
+    "ipv6": [
+      "2804:6884::/32"
+    ]
+  }
+}

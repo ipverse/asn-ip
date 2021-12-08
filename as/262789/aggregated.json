@@ -1,0 +1,12 @@
+{
+  "asn": 262789,
+  "handle": "SIMTERNET-TECNOLOGIA-DA",
+  "description": "Simternet Tecnologia da Informação LTDA",
+  "subnets": {
+    "ipv4": [
+      "177.221.120.0/21",
+      "186.233.128.0/21"
+    ],
+    "ipv6": []
+  }
+}

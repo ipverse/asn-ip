@@ -1,0 +1,13 @@
+{
+  "asn": 38674,
+  "handle": "NLCSJEJU-KR-KR",
+  "description": "NLCS Jeju",
+  "subnets": {
+    "ipv4": [
+      "14.49.192.0/23",
+      "14.49.194.0/24",
+      "218.149.166.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 268173,
+  "handle": "SOUSATECNET-LTDA-ME",
+  "description": "SOUSATEC.NET LTDA ME",
+  "subnets": {
+    "ipv4": [
+      "45.170.216.0/22"
+    ],
+    "ipv6": [
+      "2804:592c::/32"
+    ]
+  }
+}

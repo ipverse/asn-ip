@@ -1,0 +1,15 @@
+{
+  "asn": 137004,
+  "handle": "NETBEATS-AP",
+  "description": "Netbeats Infoway Pvt. Ltd.",
+  "subnets": {
+    "ipv4": [
+      "103.101.233.0/24",
+      "103.113.2.0/24",
+      "103.123.156.0/23"
+    ],
+    "ipv6": [
+      "2001:df2:b500::/48"
+    ]
+  }
+}

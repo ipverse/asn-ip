@@ -1,0 +1,15 @@
+{
+  "asn": 141892,
+  "handle": "IDNIC-SENGKED-ID",
+  "description": "CV Andhika Pratama Sanggoro",
+  "subnets": {
+    "ipv4": [
+      "103.112.138.0/24",
+      "103.163.161.0/24",
+      "202.73.26.0/24"
+    ],
+    "ipv6": [
+      "2001:df6:4e80::/48"
+    ]
+  }
+}

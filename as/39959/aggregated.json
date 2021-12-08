@@ -1,0 +1,12 @@
+{
+  "asn": 39959,
+  "handle": "INTERNEXE-1",
+  "description": "iTeract inc.",
+  "subnets": {
+    "ipv4": [
+      "148.59.220.0/23",
+      "192.81.12.0/22"
+    ],
+    "ipv6": []
+  }
+}

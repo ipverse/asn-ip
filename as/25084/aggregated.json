@@ -1,0 +1,14 @@
+{
+  "asn": 25084,
+  "handle": "CZESTMAN-COM",
+  "description": "Politechnika Czestochowska",
+  "subnets": {
+    "ipv4": [
+      "212.87.240.0/23",
+      "212.87.244.0/22"
+    ],
+    "ipv6": [
+      "2a01:699::/32"
+    ]
+  }
+}

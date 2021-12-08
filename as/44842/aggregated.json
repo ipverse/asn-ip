@@ -1,0 +1,12 @@
+{
+  "asn": 44842,
+  "handle": "SUSI-NETWORK",
+  "description": "Syndicat Mixte Somme Numerique",
+  "subnets": {
+    "ipv4": [
+      "91.199.234.0/24",
+      "185.86.48.0/22"
+    ],
+    "ipv6": []
+  }
+}

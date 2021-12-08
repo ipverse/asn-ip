@@ -1,0 +1,13 @@
+{
+  "asn": 59689,
+  "handle": "KEYADE",
+  "description": "Keyade SASU",
+  "subnets": {
+    "ipv4": [
+      "185.3.128.0/22"
+    ],
+    "ipv6": [
+      "2a02:5cc0::/32"
+    ]
+  }
+}

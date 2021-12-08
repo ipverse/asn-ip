@@ -1,0 +1,12 @@
+{
+  "asn": 21137,
+  "handle": "FR-CAI",
+  "description": "Credit Agricole Corporate and Investment Bank",
+  "subnets": {
+    "ipv4": [
+      "145.248.192.0/21",
+      "194.4.140.0/22"
+    ],
+    "ipv6": []
+  }
+}

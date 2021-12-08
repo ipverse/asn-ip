@@ -1,0 +1,13 @@
+{
+  "asn": 39738,
+  "handle": "TCLM",
+  "description": "Telecom Castilla La Mancha SA",
+  "subnets": {
+    "ipv4": [
+      "82.86.0.0/18",
+      "82.86.64.0/23",
+      "82.87.0.0/16"
+    ],
+    "ipv6": []
+  }
+}

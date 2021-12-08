@@ -1,0 +1,13 @@
+{
+  "asn": 60502,
+  "handle": "ONESYSTEM",
+  "description": "01 SYSTEM SRL",
+  "subnets": {
+    "ipv4": [
+      "185.221.224.0/22"
+    ],
+    "ipv6": [
+      "2a0c:5000::/30"
+    ]
+  }
+}

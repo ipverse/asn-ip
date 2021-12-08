@@ -1,0 +1,15 @@
+{
+  "asn": 46429,
+  "handle": "GENERICCONF-CENTRAL",
+  "description": "Generic Conferencing LLC",
+  "subnets": {
+    "ipv4": [
+      "74.117.188.0/23",
+      "74.117.191.0/24"
+    ],
+    "ipv6": [
+      "2606:680::/43",
+      "2606:680:20::/44"
+    ]
+  }
+}

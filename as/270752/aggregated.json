@@ -1,0 +1,13 @@
+{
+  "asn": 270752,
+  "handle": "FOCUSTELECOMM-TECNOLOGIA-EM",
+  "description": "Focustelecomm Tecnologia em Telecomunicacoes Eirel",
+  "subnets": {
+    "ipv4": [
+      "186.251.32.0/22"
+    ],
+    "ipv6": [
+      "2804:70dc::/32"
+    ]
+  }
+}

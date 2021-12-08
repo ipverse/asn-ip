@@ -1,0 +1,12 @@
+{
+  "asn": 32117,
+  "handle": "BERKSHIRE-HEALTH-SYSTEMS",
+  "description": "Berkshire Health Systems",
+  "subnets": {
+    "ipv4": [
+      "199.190.159.0/24",
+      "209.239.190.0/24"
+    ],
+    "ipv6": []
+  }
+}

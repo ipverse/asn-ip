@@ -1,0 +1,11 @@
+{
+  "asn": 142317,
+  "handle": "IDNIC-COVERNET-ID",
+  "description": "PT Cover Network Indonesia",
+  "subnets": {
+    "ipv4": [
+      "103.168.158.0/23"
+    ],
+    "ipv6": []
+  }
+}

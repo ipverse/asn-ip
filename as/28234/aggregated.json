@@ -1,0 +1,13 @@
+{
+  "asn": 28234,
+  "handle": "WIRELESS-DESENVOLVIMENTO-DE",
+  "description": "Wireless Desenvolvimento de Sistemas Informatizada",
+  "subnets": {
+    "ipv4": [
+      "189.127.192.0/20"
+    ],
+    "ipv6": [
+      "2804:6f34::/32"
+    ]
+  }
+}

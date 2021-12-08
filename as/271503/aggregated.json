@@ -1,0 +1,11 @@
+{
+  "asn": 271503,
+  "handle": "PROVEDOR-SUPERCELL-NET",
+  "description": "PROVEDOR SUPERCELL NET",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2804:7c8c::/32"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 265899,
+  "handle": "NOVAES-HOKI",
+  "description": "Novaes \u0026 Hoki",
+  "subnets": {
+    "ipv4": [
+      "131.196.16.0/22"
+    ],
+    "ipv6": [
+      "2804:3f88::/32"
+    ]
+  }
+}

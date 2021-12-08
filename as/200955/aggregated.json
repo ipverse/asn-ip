@@ -1,0 +1,11 @@
+{
+  "asn": 200955,
+  "handle": "NS-TRANSCONTAINER",
+  "description": "LLC Nauka-Svyaz",
+  "subnets": {
+    "ipv4": [
+      "84.47.143.0/24"
+    ],
+    "ipv6": []
+  }
+}

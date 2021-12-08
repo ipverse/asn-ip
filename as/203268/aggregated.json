@@ -1,0 +1,12 @@
+{
+  "asn": 203268,
+  "handle": "DTC-ISP",
+  "description": "Digital Technology Co.Ltd.",
+  "subnets": {
+    "ipv4": [
+      "136.144.44.0/22",
+      "185.137.244.0/22"
+    ],
+    "ipv6": []
+  }
+}

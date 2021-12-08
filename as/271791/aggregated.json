@@ -1,0 +1,11 @@
+{
+  "asn": 271791,
+  "handle": "CABLE-NORTE-CA",
+  "description": "CABLE NORTE CA.",
+  "subnets": {
+    "ipv4": [
+      "201.221.112.0/23"
+    ],
+    "ipv6": []
+  }
+}

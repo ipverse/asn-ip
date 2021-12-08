@@ -1,0 +1,11 @@
+{
+  "asn": 271862,
+  "handle": "FIBER-LINE-SAC",
+  "description": "FIBER LINE SAC",
+  "subnets": {
+    "ipv4": [
+      "177.126.48.0/22"
+    ],
+    "ipv6": []
+  }
+}

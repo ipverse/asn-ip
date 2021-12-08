@@ -1,0 +1,13 @@
+{
+  "asn": 54697,
+  "handle": "TIAABANK",
+  "description": "EVERBANK FINANCIAL CORP",
+  "subnets": {
+    "ipv4": [
+      "68.153.20.0/24",
+      "162.218.212.0/22",
+      "204.193.133.0/24"
+    ],
+    "ipv6": []
+  }
+}

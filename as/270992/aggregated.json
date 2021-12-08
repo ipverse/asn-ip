@@ -1,0 +1,13 @@
+{
+  "asn": 270992,
+  "handle": "SAMUEL-BARROS-COMUNICACAO",
+  "description": "SAMUEL BARROS COMUNICACAO MULTIMIDIA SCM",
+  "subnets": {
+    "ipv4": [
+      "187.86.160.0/22"
+    ],
+    "ipv6": [
+      "2804:749c::/32"
+    ]
+  }
+}

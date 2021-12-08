@@ -1,0 +1,14 @@
+{
+  "asn": 134303,
+  "handle": "ESCONET-IN",
+  "description": "Esconet Technologies Pvt. Ltd.",
+  "subnets": {
+    "ipv4": [
+      "103.16.76.0/24",
+      "103.61.231.0/24",
+      "103.133.38.0/24",
+      "103.155.147.0/24"
+    ],
+    "ipv6": []
+  }
+}

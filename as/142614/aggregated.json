@@ -1,0 +1,11 @@
+{
+  "asn": 142614,
+  "handle": "LTO-AP",
+  "description": "Linya",
+  "subnets": {
+    "ipv4": [
+      "103.170.218.0/23"
+    ],
+    "ipv6": []
+  }
+}

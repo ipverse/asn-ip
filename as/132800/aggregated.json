@@ -1,0 +1,11 @@
+{
+  "asn": 132800,
+  "handle": "NETEZEN-AP",
+  "description": "Net-E-Zen",
+  "subnets": {
+    "ipv4": [
+      "103.162.230.0/23"
+    ],
+    "ipv6": []
+  }
+}

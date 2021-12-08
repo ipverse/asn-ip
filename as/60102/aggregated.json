@@ -1,0 +1,12 @@
+{
+  "asn": 60102,
+  "handle": "SOVA-CAPITAL",
+  "description": "Sova Capital Limited",
+  "subnets": {
+    "ipv4": [
+      "185.52.200.0/23",
+      "185.52.202.0/24"
+    ],
+    "ipv6": []
+  }
+}

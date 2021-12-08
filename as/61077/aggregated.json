@@ -1,0 +1,11 @@
+{
+  "asn": 61077,
+  "handle": "NP-BASE",
+  "description": "NP Base SRL",
+  "subnets": {
+    "ipv4": [
+      "77.81.96.0/24"
+    ],
+    "ipv6": []
+  }
+}

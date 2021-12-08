@@ -1,0 +1,11 @@
+{
+  "asn": 139919,
+  "handle": "RDCONLINE",
+  "description": "RDC Online",
+  "subnets": {
+    "ipv4": [
+      "103.147.24.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 13002,
+  "handle": "ISIX",
+  "description": "ISIX Communications LLP",
+  "subnets": {
+    "ipv4": [
+      "213.159.96.0/19"
+    ],
+    "ipv6": [
+      "2a02:17e8::/32"
+    ]
+  }
+}

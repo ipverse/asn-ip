@@ -1,0 +1,12 @@
+{
+  "asn": 44313,
+  "handle": "SETSERVICE",
+  "description": "Set Service Ltd.",
+  "subnets": {
+    "ipv4": [
+      "93.155.144.0/21",
+      "93.155.164.0/22"
+    ],
+    "ipv6": []
+  }
+}

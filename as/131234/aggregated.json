@@ -1,0 +1,11 @@
+{
+  "asn": 131234,
+  "handle": "AEDAS-HK",
+  "description": "Aedas Limited",
+  "subnets": {
+    "ipv4": [
+      "202.52.35.0/24"
+    ],
+    "ipv6": []
+  }
+}

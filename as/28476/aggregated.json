@@ -1,0 +1,11 @@
+{
+  "asn": 28476,
+  "handle": "AEROPUERTO-INTERNACIONAL-DE",
+  "description": "Aeropuerto Internacional de la Ciudad de Mexico, S.A. de C.V.",
+  "subnets": {
+    "ipv4": [
+      "201.131.32.0/24"
+    ],
+    "ipv6": []
+  }
+}

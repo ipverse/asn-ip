@@ -1,0 +1,12 @@
+{
+  "asn": 55604,
+  "handle": "KOMSCO-KR-KR",
+  "description": "KOMSCO",
+  "subnets": {
+    "ipv4": [
+      "103.4.48.0/22",
+      "211.187.82.0/24"
+    ],
+    "ipv6": []
+  }
+}

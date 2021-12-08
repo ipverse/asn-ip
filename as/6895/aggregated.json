@@ -1,0 +1,15 @@
+{
+  "asn": 6895,
+  "handle": "ESPANIX",
+  "description": "ASOCIACION ESPANIX",
+  "subnets": {
+    "ipv4": [
+      "193.149.0.0/24",
+      "195.95.153.0/24"
+    ],
+    "ipv6": [
+      "2001:7f8:f::/48",
+      "2a03:5e60::/32"
+    ]
+  }
+}

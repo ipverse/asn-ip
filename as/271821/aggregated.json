@@ -1,0 +1,13 @@
+{
+  "asn": 271821,
+  "handle": "UNIVERSIDAD-TECNICA-DEL-NORTE",
+  "description": "UNIVERSIDAD TECNICA DEL NORTE",
+  "subnets": {
+    "ipv4": [
+      "192.100.198.0/24"
+    ],
+    "ipv6": [
+      "2801:10:6800::/48"
+    ]
+  }
+}

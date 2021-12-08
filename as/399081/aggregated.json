@@ -1,0 +1,12 @@
+{
+  "asn": 399081,
+  "handle": "CENTRANET-FIBER",
+  "description": "Centranet, LLC",
+  "subnets": {
+    "ipv4": [
+      "104.151.144.0/20",
+      "104.151.160.0/20"
+    ],
+    "ipv6": []
+  }
+}

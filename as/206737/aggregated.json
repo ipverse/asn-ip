@@ -1,0 +1,13 @@
+{
+  "asn": 206737,
+  "handle": "ALLPROCESS",
+  "description": "MEDIATELCO SRL",
+  "subnets": {
+    "ipv4": [
+      "185.177.212.0/22"
+    ],
+    "ipv6": [
+      "2a0a:4680::/29"
+    ]
+  }
+}

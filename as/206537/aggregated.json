@@ -1,0 +1,13 @@
+{
+  "asn": 206537,
+  "handle": "FIT-IT-BE",
+  "description": "Fit IT NV",
+  "subnets": {
+    "ipv4": [
+      "185.183.116.0/22"
+    ],
+    "ipv6": [
+      "2a0b:e84::/30"
+    ]
+  }
+}

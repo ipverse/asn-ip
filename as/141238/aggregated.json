@@ -1,0 +1,12 @@
+{
+  "asn": 141238,
+  "handle": "QUALFON-ASN-PL-AP",
+  "description": "Philippine Long Distance Telephone Co.",
+  "subnets": {
+    "ipv4": [
+      "203.213.192.0/23",
+      "203.213.194.0/24"
+    ],
+    "ipv6": []
+  }
+}

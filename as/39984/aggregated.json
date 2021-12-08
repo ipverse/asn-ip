@@ -1,0 +1,16 @@
+{
+  "asn": 39984,
+  "handle": "STARZENTERTAINMENT",
+  "description": "Starz Entertainment Group LLC",
+  "subnets": {
+    "ipv4": [
+      "8.35.13.0/24",
+      "63.147.150.0/24",
+      "174.46.221.0/24",
+      "205.168.251.0/24"
+    ],
+    "ipv6": [
+      "2620:39::/48"
+    ]
+  }
+}

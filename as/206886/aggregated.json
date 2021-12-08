@@ -1,0 +1,14 @@
+{
+  "asn": 206886,
+  "handle": "QPB",
+  "description": "QUAD PLAY BATT S.L.",
+  "subnets": {
+    "ipv4": [
+      "185.172.96.0/22"
+    ],
+    "ipv6": [
+      "2a0b:d00:1::/48",
+      "2a0b:d00:2::/48"
+    ]
+  }
+}

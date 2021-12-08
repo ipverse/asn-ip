@@ -1,0 +1,12 @@
+{
+  "asn": 23273,
+  "handle": "HOSTP-LA",
+  "description": "HostPapa",
+  "subnets": {
+    "ipv4": [
+      "172.96.180.0/22",
+      "204.44.192.0/20"
+    ],
+    "ipv6": []
+  }
+}

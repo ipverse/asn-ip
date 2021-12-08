@@ -1,0 +1,14 @@
+{
+  "asn": 396139,
+  "handle": "ECHOWIBB",
+  "description": "Resound Networks, LLC",
+  "subnets": {
+    "ipv4": [
+      "65.173.108.0/23",
+      "209.251.28.0/22"
+    ],
+    "ipv6": [
+      "2604:4440::/32"
+    ]
+  }
+}

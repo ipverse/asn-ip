@@ -1,0 +1,11 @@
+{
+  "asn": 51228,
+  "handle": "CENBANKCY",
+  "description": "CENTRAL BANK CYPRUS LTD",
+  "subnets": {
+    "ipv4": [
+      "62.228.254.0/23"
+    ],
+    "ipv6": []
+  }
+}

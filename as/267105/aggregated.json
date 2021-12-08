@@ -1,0 +1,13 @@
+{
+  "asn": 267105,
+  "handle": "TECHZONE-PROVEDOR",
+  "description": "TECHZONE PROVEDOR",
+  "subnets": {
+    "ipv4": [
+      "45.229.80.0/22"
+    ],
+    "ipv6": [
+      "2804:4838::/32"
+    ]
+  }
+}

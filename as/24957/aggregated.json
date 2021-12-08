@@ -1,0 +1,14 @@
+{
+  "asn": 24957,
+  "handle": "GN-IX",
+  "description": "Stichting Groningen Internet Exchange",
+  "subnets": {
+    "ipv4": [
+      "193.111.172.0/24",
+      "194.169.248.0/24"
+    ],
+    "ipv6": [
+      "2001:7f8:31::/48"
+    ]
+  }
+}

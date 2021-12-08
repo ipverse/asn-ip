@@ -1,0 +1,13 @@
+{
+  "asn": 267330,
+  "handle": "JLCONECT-PB",
+  "description": "JLCONECT PB",
+  "subnets": {
+    "ipv4": [
+      "45.233.224.0/22"
+    ],
+    "ipv6": [
+      "2804:4bcc::/32"
+    ]
+  }
+}

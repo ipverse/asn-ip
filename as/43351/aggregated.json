@@ -1,0 +1,13 @@
+{
+  "asn": 43351,
+  "handle": "GORENJE-SI",
+  "description": "Gorenje d.d.",
+  "subnets": {
+    "ipv4": [
+      "195.66.69.0/24"
+    ],
+    "ipv6": [
+      "2001:67c:2dd8::/48"
+    ]
+  }
+}

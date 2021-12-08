@@ -1,0 +1,13 @@
+{
+  "asn": 27015,
+  "handle": "FMCH",
+  "description": "FRESENIUS MEDICAL CARE HOLDINGS, INC",
+  "subnets": {
+    "ipv4": [
+      "12.172.67.0/24",
+      "144.121.61.0/24",
+      "199.38.52.0/22"
+    ],
+    "ipv6": []
+  }
+}

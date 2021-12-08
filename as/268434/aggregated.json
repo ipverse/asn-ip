@@ -1,0 +1,13 @@
+{
+  "asn": 268434,
+  "handle": "QUADRI-TELECOM-LTDA-ME",
+  "description": "Quadri Telecom Ltda - ME",
+  "subnets": {
+    "ipv4": [
+      "45.160.236.0/22"
+    ],
+    "ipv6": [
+      "2804:5128::/32"
+    ]
+  }
+}

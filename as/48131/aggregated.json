@@ -1,0 +1,15 @@
+{
+  "asn": 48131,
+  "handle": "I-REGISTRY",
+  "description": "i-registry s.r.o.",
+  "subnets": {
+    "ipv4": [
+      "37.221.116.0/24",
+      "193.33.140.0/24"
+    ],
+    "ipv6": [
+      "2a09:500::/32",
+      "2a0f:ae80::/32"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 11180,
+  "handle": "CX-DATA-PUBLIC",
+  "description": "CX-DATA INC.",
+  "subnets": {
+    "ipv4": [
+      "162.216.52.0/24",
+      "208.67.126.0/24"
+    ],
+    "ipv6": []
+  }
+}

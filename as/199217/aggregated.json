@@ -1,0 +1,13 @@
+{
+  "asn": 199217,
+  "handle": "IKARUS",
+  "description": "IKARUS Security Software GmbH",
+  "subnets": {
+    "ipv4": [
+      "91.212.136.0/24"
+    ],
+    "ipv6": [
+      "2001:67c:168c::/48"
+    ]
+  }
+}

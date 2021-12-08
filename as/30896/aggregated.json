@@ -1,0 +1,11 @@
+{
+  "asn": 30896,
+  "handle": "IWAY-NETWORK",
+  "description": "Afsat Communications Ltd",
+  "subnets": {
+    "ipv4": [
+      "77.220.0.0/20"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 23235,
+  "handle": "BOSMED-88-ENEWTON",
+  "description": "Boston Medical Center",
+  "subnets": {
+    "ipv4": [
+      "50.200.163.0/24",
+      "192.243.213.0/24",
+      "209.249.112.0/24"
+    ],
+    "ipv6": []
+  }
+}

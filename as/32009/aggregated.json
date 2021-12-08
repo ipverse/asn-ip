@@ -1,0 +1,12 @@
+{
+  "asn": 32009,
+  "handle": "PERFECTSERVE-INC",
+  "description": "PERFECTSERVE, INC.",
+  "subnets": {
+    "ipv4": [
+      "12.34.135.0/24",
+      "65.198.236.0/24"
+    ],
+    "ipv6": []
+  }
+}

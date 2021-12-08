@@ -1,0 +1,13 @@
+{
+  "asn": 61767,
+  "handle": "RA-INFORMATICA",
+  "description": "R.A INFORMÁTICA",
+  "subnets": {
+    "ipv4": [
+      "200.77.180.0/22"
+    ],
+    "ipv6": [
+      "2804:18fc::/32"
+    ]
+  }
+}

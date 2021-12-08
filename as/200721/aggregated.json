@@ -1,0 +1,11 @@
+{
+  "asn": 200721,
+  "handle": "DATANET",
+  "description": "Datanet LLP",
+  "subnets": {
+    "ipv4": [
+      "130.193.6.0/24"
+    ],
+    "ipv6": []
+  }
+}

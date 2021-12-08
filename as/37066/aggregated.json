@@ -1,0 +1,11 @@
+{
+  "asn": 37066,
+  "handle": "MFA",
+  "description": "Ministry of Foreign Affairs",
+  "subnets": {
+    "ipv4": [
+      "41.191.80.0/22"
+    ],
+    "ipv6": []
+  }
+}

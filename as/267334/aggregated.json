@@ -1,0 +1,13 @@
+{
+  "asn": 267334,
+  "handle": "ABV-SERVICES-LTDA",
+  "description": "ABV SERVICES LTDA",
+  "subnets": {
+    "ipv4": [
+      "45.233.252.0/22"
+    ],
+    "ipv6": [
+      "2804:4be0::/32"
+    ]
+  }
+}

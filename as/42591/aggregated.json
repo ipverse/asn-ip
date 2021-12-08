@@ -1,0 +1,12 @@
+{
+  "asn": 42591,
+  "handle": "SHB",
+  "description": "Saudi Hollandi Bank",
+  "subnets": {
+    "ipv4": [
+      "5.42.241.0/24",
+      "195.34.68.0/23"
+    ],
+    "ipv6": []
+  }
+}

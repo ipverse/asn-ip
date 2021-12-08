@@ -1,0 +1,13 @@
+{
+  "asn": 270627,
+  "handle": "CONTEL-SEGURANCA-ELETRONICA",
+  "description": "Contel Segurança Eletrônica 24HS LTDA",
+  "subnets": {
+    "ipv4": [
+      "177.221.184.0/22"
+    ],
+    "ipv6": [
+      "2804:6eec::/32"
+    ]
+  }
+}

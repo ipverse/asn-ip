@@ -1,0 +1,11 @@
+{
+  "asn": 201949,
+  "handle": "DICOM",
+  "description": "LLC Real-net",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a04:e080::/29"
+    ]
+  }
+}

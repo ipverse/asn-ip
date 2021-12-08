@@ -1,0 +1,11 @@
+{
+  "asn": 142311,
+  "handle": "IDNIC-JAYANET-ID",
+  "description": "PT Jayanet Technology Nusantara",
+  "subnets": {
+    "ipv4": [
+      "103.168.150.0/23"
+    ],
+    "ipv6": []
+  }
+}

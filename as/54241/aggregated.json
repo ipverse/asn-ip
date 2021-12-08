@@ -1,0 +1,13 @@
+{
+  "asn": 54241,
+  "handle": "BOLT-INTERNET-AZ",
+  "description": "Bolt Internet Inc",
+  "subnets": {
+    "ipv4": [
+      "23.165.16.0/24",
+      "67.131.176.0/21",
+      "209.181.184.0/22"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 206980,
+  "handle": "ANTIDDOSAS",
+  "description": "AntiDDoS Solutions LLC",
+  "subnets": {
+    "ipv4": [
+      "87.251.65.0/24",
+      "185.169.132.0/22"
+    ],
+    "ipv6": []
+  }
+}

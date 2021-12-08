@@ -1,0 +1,11 @@
+{
+  "asn": 30887,
+  "handle": "API-NET",
+  "description": "API Internet P. Gubernat",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2001:67c:4d4::/48"
+    ]
+  }
+}

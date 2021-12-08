@@ -1,0 +1,11 @@
+{
+  "asn": 45434,
+  "handle": "CAMB-COUNCIL-AP",
+  "description": "Campbelltown City Council",
+  "subnets": {
+    "ipv4": [
+      "203.19.160.0/22"
+    ],
+    "ipv6": []
+  }
+}

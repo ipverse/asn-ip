@@ -1,0 +1,13 @@
+{
+  "asn": 61930,
+  "handle": "TELECOMUNICACOES-RIOGRANDENSE-LTDA",
+  "description": "Telecomunicações Riograndense Ltda",
+  "subnets": {
+    "ipv4": [
+      "200.10.56.0/22"
+    ],
+    "ipv6": [
+      "2804:1868::/32"
+    ]
+  }
+}

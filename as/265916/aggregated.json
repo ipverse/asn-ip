@@ -1,0 +1,13 @@
+{
+  "asn": 265916,
+  "handle": "CLAUDINO-SA-LOJAS",
+  "description": "Claudino S/A Lojas de Departamentos",
+  "subnets": {
+    "ipv4": [
+      "131.196.68.0/23"
+    ],
+    "ipv6": [
+      "2801:80:1d30::/48"
+    ]
+  }
+}

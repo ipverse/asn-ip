@@ -1,0 +1,12 @@
+{
+  "asn": 50883,
+  "handle": "NTHILL",
+  "description": "Ninetreehill Broadband Ltd",
+  "subnets": {
+    "ipv4": [
+      "91.216.6.0/24",
+      "178.216.112.0/21"
+    ],
+    "ipv6": []
+  }
+}

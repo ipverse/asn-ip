@@ -1,0 +1,12 @@
+{
+  "asn": 26454,
+  "handle": "HENRYSCHEIN",
+  "description": "Henry Schein Inc",
+  "subnets": {
+    "ipv4": [
+      "12.3.147.0/24",
+      "209.64.143.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 43660,
+  "handle": "SHUPASHKARTRANS",
+  "description": "Shupashkartrans-K Ltd.",
+  "subnets": {
+    "ipv4": [
+      "91.197.172.0/22",
+      "176.121.128.0/18"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 23883,
+  "handle": "MOVACI-CDC-AP",
+  "description": "Movaci Co., Ltd.",
+  "subnets": {
+    "ipv4": [
+      "203.170.50.0/23"
+    ],
+    "ipv6": [
+      "2001:df0:248::/48"
+    ]
+  }
+}

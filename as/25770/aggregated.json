@@ -1,0 +1,11 @@
+{
+  "asn": 25770,
+  "handle": "SHRM",
+  "description": "Society for Human Resource Management",
+  "subnets": {
+    "ipv4": [
+      "198.22.197.0/24"
+    ],
+    "ipv6": []
+  }
+}

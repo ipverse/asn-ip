@@ -1,0 +1,13 @@
+{
+  "asn": 266641,
+  "handle": "LAVRASNET-SERVICOS-DE",
+  "description": "Lavrasnet Servicos de Provedor de Internet Ltda",
+  "subnets": {
+    "ipv4": [
+      "160.238.180.0/22"
+    ],
+    "ipv6": [
+      "2804:3f20::/32"
+    ]
+  }
+}

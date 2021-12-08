@@ -1,0 +1,13 @@
+{
+  "asn": 203985,
+  "handle": "PL-EMULTINET",
+  "description": "Emultinet Sp. z o.o.",
+  "subnets": {
+    "ipv4": [
+      "155.133.82.0/24",
+      "155.133.89.0/24",
+      "156.67.100.0/23"
+    ],
+    "ipv6": []
+  }
+}

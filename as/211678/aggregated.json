@@ -1,0 +1,13 @@
+{
+  "asn": 211678,
+  "handle": "MYFI",
+  "description": "Michaelston y Fedw Internet CIC",
+  "subnets": {
+    "ipv4": [
+      "5.145.178.0/23"
+    ],
+    "ipv6": [
+      "2a10:a8c0::/29"
+    ]
+  }
+}

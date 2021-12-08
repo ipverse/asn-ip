@@ -1,0 +1,13 @@
+{
+  "asn": 270465,
+  "handle": "CRS-SERVICOS-DE",
+  "description": "CRS SERVIÇOS DE COMUNICAÇÃO MULTIMÍDIA EIRELI",
+  "subnets": {
+    "ipv4": [
+      "200.108.188.0/23"
+    ],
+    "ipv6": [
+      "2804:6c64::/32"
+    ]
+  }
+}

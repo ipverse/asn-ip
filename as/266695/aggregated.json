@@ -1,0 +1,14 @@
+{
+  "asn": 266695,
+  "handle": "INTERFAST-PANAMA-SA",
+  "description": "Interfast Panamá S.A.",
+  "subnets": {
+    "ipv4": [
+      "45.229.196.0/22",
+      "64.212.218.0/24"
+    ],
+    "ipv6": [
+      "2803:f520::/32"
+    ]
+  }
+}

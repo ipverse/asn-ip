@@ -1,0 +1,13 @@
+{
+  "asn": 62331,
+  "handle": "TVK",
+  "description": "Media Holding TVK Ltd.",
+  "subnets": {
+    "ipv4": [
+      "31.148.205.0/24",
+      "95.47.189.0/24",
+      "95.47.244.0/24"
+    ],
+    "ipv6": []
+  }
+}

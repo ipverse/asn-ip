@@ -1,0 +1,11 @@
+{
+  "asn": 141049,
+  "handle": "PRONETINDO-ID",
+  "description": "PT Profesional Internet Indonesia",
+  "subnets": {
+    "ipv4": [
+      "103.155.46.0/23"
+    ],
+    "ipv6": []
+  }
+}

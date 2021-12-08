@@ -1,0 +1,16 @@
+{
+  "asn": 11188,
+  "handle": "LACOUNTY-ISD",
+  "description": "LOS ANGELES COUNTY - INTERNAL SERVICESDIVISION",
+  "subnets": {
+    "ipv4": [
+      "66.127.146.0/24",
+      "159.83.0.0/16",
+      "159.225.0.0/16",
+      "170.208.0.0/16",
+      "198.51.213.0/24",
+      "198.51.214.0/24"
+    ],
+    "ipv6": []
+  }
+}

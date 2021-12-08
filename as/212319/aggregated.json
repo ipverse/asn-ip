@@ -1,0 +1,13 @@
+{
+  "asn": 212319,
+  "handle": "TECHPAY",
+  "description": "Tech Solutions LLC",
+  "subnets": {
+    "ipv4": [
+      "88.218.112.0/24"
+    ],
+    "ipv6": [
+      "2a0f:52c1::/48"
+    ]
+  }
+}

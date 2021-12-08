@@ -1,0 +1,11 @@
+{
+  "asn": 13085,
+  "handle": "CARPATICA",
+  "description": "Banca Comerciala Carpatica SA",
+  "subnets": {
+    "ipv4": [
+      "193.239.138.0/23"
+    ],
+    "ipv6": []
+  }
+}

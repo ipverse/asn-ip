@@ -1,0 +1,13 @@
+{
+  "asn": 263527,
+  "handle": "SERRA-GERAL-SOLUCOES",
+  "description": "SERRA GERAL SOLUCOES PARA INTERNET LTDA",
+  "subnets": {
+    "ipv4": [
+      "191.253.40.0/21"
+    ],
+    "ipv6": [
+      "2804:134c::/32"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asn": 51252,
+  "handle": "DSSGROUP",
+  "description": "Ltd. DSS Group",
+  "subnets": {
+    "ipv4": [
+      "91.234.196.0/22"
+    ],
+    "ipv6": []
+  }
+}

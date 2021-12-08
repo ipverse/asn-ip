@@ -1,0 +1,13 @@
+{
+  "asn": 266103,
+  "handle": "G2LINK-SOLUCOES-EM-INTERNET",
+  "description": "G2Link Solucoes em Internet",
+  "subnets": {
+    "ipv4": [
+      "45.5.144.0/22"
+    ],
+    "ipv6": [
+      "2804:3ab0::/32"
+    ]
+  }
+}

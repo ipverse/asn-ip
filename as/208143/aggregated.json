@@ -1,0 +1,13 @@
+{
+  "asn": 208143,
+  "handle": "AMCCOMP-UNIN",
+  "description": "amccomp s.r.o.",
+  "subnets": {
+    "ipv4": [
+      "185.179.34.0/24"
+    ],
+    "ipv6": [
+      "2a02:6c20:5::/48"
+    ]
+  }
+}

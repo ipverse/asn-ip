@@ -1,0 +1,11 @@
+{
+  "asn": 142424,
+  "handle": "UCNI-AP",
+  "description": "Unique Cable Network, Inc.",
+  "subnets": {
+    "ipv4": [
+      "103.168.38.0/23"
+    ],
+    "ipv6": []
+  }
+}

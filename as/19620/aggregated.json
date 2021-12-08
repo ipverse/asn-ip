@@ -1,0 +1,12 @@
+{
+  "asn": 19620,
+  "handle": "KUAIYI-NETWORKS-LLC",
+  "description": "KuaiYi Networks LLC",
+  "subnets": {
+    "ipv4": [
+      "104.193.192.0/22",
+      "172.81.144.0/22"
+    ],
+    "ipv6": []
+  }
+}

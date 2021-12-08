@@ -1,0 +1,12 @@
+{
+  "asn": 9513,
+  "handle": "HKCABLE-HK-AP",
+  "description": "Hong Kong Cable Television Limited",
+  "subnets": {
+    "ipv4": [
+      "203.83.64.0/18",
+      "203.168.128.0/19"
+    ],
+    "ipv6": []
+  }
+}

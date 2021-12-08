@@ -1,0 +1,13 @@
+{
+  "asn": 204988,
+  "handle": "TDH-NET",
+  "description": "TDH-Net ApS",
+  "subnets": {
+    "ipv4": [
+      "185.229.148.0/22"
+    ],
+    "ipv6": [
+      "2a0d:9e00::/29"
+    ]
+  }
+}

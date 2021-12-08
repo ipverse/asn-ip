@@ -1,0 +1,12 @@
+{
+  "asn": 56535,
+  "handle": "ALPARI",
+  "description": "Alpari Ltd.",
+  "subnets": {
+    "ipv4": [
+      "31.44.240.0/22",
+      "31.44.252.0/22"
+    ],
+    "ipv6": []
+  }
+}

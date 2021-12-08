@@ -1,0 +1,13 @@
+{
+  "asn": 52671,
+  "handle": "CONFEDERACAO-NACIONAL-DAS",
+  "description": "Confederação Nacional das Cooperativas do Sicoob",
+  "subnets": {
+    "ipv4": [
+      "177.53.248.0/21"
+    ],
+    "ipv6": [
+      "2804:c14:4000::/34"
+    ]
+  }
+}

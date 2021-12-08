@@ -1,0 +1,12 @@
+{
+  "asn": 55711,
+  "handle": "BRAINPULSE-IN",
+  "description": "Brainpulse Technologies Pvt. Ltd.",
+  "subnets": {
+    "ipv4": [
+      "103.9.222.0/23",
+      "223.130.4.0/22"
+    ],
+    "ipv6": []
+  }
+}

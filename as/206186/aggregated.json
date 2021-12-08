@@ -1,0 +1,14 @@
+{
+  "asn": 206186,
+  "handle": "EPIX-KLOC",
+  "description": "Stowarzyszenie e-Poludnie",
+  "subnets": {
+    "ipv4": [
+      "185.170.225.0/24",
+      "188.241.28.0/24"
+    ],
+    "ipv6": [
+      "2001:678:3b0::/48"
+    ]
+  }
+}

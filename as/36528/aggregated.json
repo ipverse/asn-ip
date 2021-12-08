@@ -1,0 +1,12 @@
+{
+  "asn": 36528,
+  "handle": "SRAM",
+  "description": "SRAM Corp.",
+  "subnets": {
+    "ipv4": [
+      "68.255.220.0/24",
+      "208.49.54.0/24"
+    ],
+    "ipv6": []
+  }
+}

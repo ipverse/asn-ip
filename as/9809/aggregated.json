@@ -1,0 +1,13 @@
+{
+  "asn": 9809,
+  "handle": "NOVANETWORK",
+  "description": "SHENZHEN NOVA TECHNOLOGIES DEVELOPMENT.,LTD.",
+  "subnets": {
+    "ipv4": [
+      "116.214.32.0/19",
+      "116.214.128.0/22",
+      "219.235.224.0/19"
+    ],
+    "ipv6": []
+  }
+}

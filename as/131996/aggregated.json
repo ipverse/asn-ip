@@ -1,0 +1,12 @@
+{
+  "asn": 131996,
+  "handle": "NGNSB-AP",
+  "description": "NEVIGATE GLOBAL NETWORK SDN. BHD.",
+  "subnets": {
+    "ipv4": [
+      "103.69.208.0/23",
+      "103.69.210.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 9189,
+  "handle": "ACCOM",
+  "description": "NetAachen GmbH",
+  "subnets": {
+    "ipv4": [
+      "212.8.128.0/19",
+      "212.66.128.0/19"
+    ],
+    "ipv6": [
+      "2a02:3f0::/32"
+    ]
+  }
+}

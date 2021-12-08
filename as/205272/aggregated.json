@@ -1,0 +1,16 @@
+{
+  "asn": 205272,
+  "handle": "MCAFEE-CSP",
+  "description": "McAfee Germany GmbH",
+  "subnets": {
+    "ipv4": [
+      "185.221.68.0/22",
+      "208.81.65.0/24",
+      "208.81.66.0/24"
+    ],
+    "ipv6": [
+      "2a06:bcc0:6::/47",
+      "2a06:bcc0:8::/48"
+    ]
+  }
+}

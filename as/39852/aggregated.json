@@ -1,0 +1,12 @@
+{
+  "asn": 39852,
+  "handle": "GTK-STPOP",
+  "description": "Guest-Tek Interactive Entertainment LTD",
+  "subnets": {
+    "ipv4": [
+      "62.50.192.0/21",
+      "62.50.207.0/24"
+    ],
+    "ipv6": []
+  }
+}

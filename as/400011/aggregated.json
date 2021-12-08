@@ -1,0 +1,11 @@
+{
+  "asn": 400011,
+  "handle": "DFW-VOXTELESYS-03",
+  "description": "Voxtelesys LLC",
+  "subnets": {
+    "ipv4": [
+      "23.155.18.0/24"
+    ],
+    "ipv6": []
+  }
+}

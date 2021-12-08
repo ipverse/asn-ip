@@ -1,0 +1,12 @@
+{
+  "asn": 202405,
+  "handle": "LLB",
+  "description": "Liechtensteinische Landesbank AG",
+  "subnets": {
+    "ipv4": [
+      "194.147.196.0/22",
+      "194.147.200.0/21"
+    ],
+    "ipv6": []
+  }
+}

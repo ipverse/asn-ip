@@ -1,0 +1,13 @@
+{
+  "asn": 53125,
+  "handle": "B-S-COSTA-TELECOM",
+  "description": "B S Costa Telecom",
+  "subnets": {
+    "ipv4": [
+      "187.108.112.0/20"
+    ],
+    "ipv6": [
+      "2804:27cc::/32"
+    ]
+  }
+}

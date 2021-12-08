@@ -1,0 +1,12 @@
+{
+  "asn": 14358,
+  "handle": "MACKENZIEFINANCIAL",
+  "description": "Mackenzie Financial Corp",
+  "subnets": {
+    "ipv4": [
+      "198.96.46.0/23",
+      "198.96.246.0/23"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asn": 265236,
+  "handle": "PORTOBELLO-SA",
+  "description": "Portobello S.A.",
+  "subnets": {
+    "ipv4": [
+      "200.10.206.0/24"
+    ],
+    "ipv6": []
+  }
+}

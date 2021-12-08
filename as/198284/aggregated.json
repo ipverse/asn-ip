@@ -1,0 +1,13 @@
+{
+  "asn": 198284,
+  "handle": "ASBYSTRICE",
+  "description": "Mesto Velka Bystrice",
+  "subnets": {
+    "ipv4": [
+      "91.232.212.0/22"
+    ],
+    "ipv6": [
+      "2001:678:2d4::/48"
+    ]
+  }
+}

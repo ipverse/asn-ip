@@ -1,0 +1,12 @@
+{
+  "asn": 24866,
+  "handle": "CLOUD-MEGAFON",
+  "description": "PJSC MegaFon",
+  "subnets": {
+    "ipv4": [
+      "178.176.227.0/24",
+      "178.176.228.0/23"
+    ],
+    "ipv6": []
+  }
+}

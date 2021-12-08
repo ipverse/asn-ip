@@ -1,0 +1,13 @@
+{
+  "asn": 268704,
+  "handle": "PERNAMBUCO-TELECOM-LTDA",
+  "description": "PERNAMBUCO TELECOM LTDA",
+  "subnets": {
+    "ipv4": [
+      "45.171.88.0/22"
+    ],
+    "ipv6": [
+      "2804:5978::/32"
+    ]
+  }
+}

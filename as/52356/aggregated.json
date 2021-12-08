@@ -1,0 +1,13 @@
+{
+  "asn": 52356,
+  "handle": "R-H-INTERNATIONAL",
+  "description": "R\u0026H International Telecom Services SA.",
+  "subnets": {
+    "ipv4": [
+      "181.41.154.0/24",
+      "190.14.152.0/22",
+      "196.53.69.0/24"
+    ],
+    "ipv6": []
+  }
+}

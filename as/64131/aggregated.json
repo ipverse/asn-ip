@@ -1,0 +1,11 @@
+{
+  "asn": 64131,
+  "handle": "GLOBALCONNECT-SPA",
+  "description": "GLOBALCONNECT SPA",
+  "subnets": {
+    "ipv4": [
+      "167.249.31.0/24"
+    ],
+    "ipv6": []
+  }
+}

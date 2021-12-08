@@ -1,0 +1,12 @@
+{
+  "asn": 131928,
+  "handle": "IPP-NET",
+  "description": "Tottori Teletopia Co., Ltd.",
+  "subnets": {
+    "ipv4": [
+      "103.106.124.0/22",
+      "219.100.124.0/22"
+    ],
+    "ipv6": []
+  }
+}

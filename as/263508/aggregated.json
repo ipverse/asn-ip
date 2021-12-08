@@ -1,0 +1,13 @@
+{
+  "asn": 263508,
+  "handle": "SIMNET-TELECOMUNICACOES-LTDA",
+  "description": "SIMNET TELECOMUNICACOES LTDA",
+  "subnets": {
+    "ipv4": [
+      "191.243.160.0/20"
+    ],
+    "ipv6": [
+      "2804:12fc::/32"
+    ]
+  }
+}

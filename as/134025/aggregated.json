@@ -1,0 +1,11 @@
+{
+  "asn": 134025,
+  "handle": "DATACT-IN",
+  "description": "Data Cloud Technologies",
+  "subnets": {
+    "ipv4": [
+      "103.149.70.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asn": 34567,
+  "handle": "PORT",
+  "description": "Teleport LLC",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a07:f600:4058::/48"
+    ]
+  }
+}

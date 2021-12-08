@@ -1,0 +1,15 @@
+{
+  "asn": 52965,
+  "handle": "1TELECOM-SERVICOS-DE",
+  "description": "1TELECOM SERVICOS DE TECNOLOGIA EM INTERNET LTDA",
+  "subnets": {
+    "ipv4": [
+      "131.0.224.0/22",
+      "177.36.0.0/20",
+      "179.124.136.0/21"
+    ],
+    "ipv6": [
+      "2804:3b8::/32"
+    ]
+  }
+}

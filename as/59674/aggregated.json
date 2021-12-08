@@ -1,0 +1,14 @@
+{
+  "asn": 59674,
+  "handle": "AYSIMA",
+  "description": "Erhan Mahmut trading as Aysima Bilisim Teknolojileri",
+  "subnets": {
+    "ipv4": [
+      "5.250.240.0/20",
+      "185.67.120.0/22",
+      "185.179.24.0/22",
+      "188.132.184.0/24"
+    ],
+    "ipv6": []
+  }
+}

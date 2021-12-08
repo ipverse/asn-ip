@@ -1,0 +1,13 @@
+{
+  "asn": 265533,
+  "handle": "DIMEX-CAPITAL-SA",
+  "description": "Dimex Capital SA de CV SOFOM ENR",
+  "subnets": {
+    "ipv4": [
+      "192.141.44.0/22"
+    ],
+    "ipv6": [
+      "2801:c4:13::/48"
+    ]
+  }
+}

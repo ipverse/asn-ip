@@ -1,0 +1,13 @@
+{
+  "asn": 24190,
+  "handle": "SET-TH",
+  "description": "The Stock Exchange of Thailand",
+  "subnets": {
+    "ipv4": [
+      "103.136.252.0/23",
+      "119.63.74.0/24",
+      "203.99.252.0/23"
+    ],
+    "ipv6": []
+  }
+}

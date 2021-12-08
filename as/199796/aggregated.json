@@ -1,0 +1,13 @@
+{
+  "asn": 199796,
+  "handle": "MEDIAHUIS",
+  "description": "Mediahuis NV",
+  "subnets": {
+    "ipv4": [
+      "94.100.124.0/22",
+      "185.43.124.0/22",
+      "193.58.7.0/24"
+    ],
+    "ipv6": []
+  }
+}

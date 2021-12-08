@@ -1,0 +1,14 @@
+{
+  "asn": 264084,
+  "handle": "FOXX-PROVIDER-TELECOM",
+  "description": "FOXX PROVIDER TELECOM",
+  "subnets": {
+    "ipv4": [
+      "143.202.248.0/22",
+      "170.81.184.0/22"
+    ],
+    "ipv6": [
+      "2804:2a9c::/32"
+    ]
+  }
+}

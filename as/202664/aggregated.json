@@ -1,0 +1,12 @@
+{
+  "asn": 202664,
+  "handle": "JUMPER",
+  "description": "Jumper GmbH",
+  "subnets": {
+    "ipv4": [
+      "81.92.240.0/23",
+      "185.158.16.0/22"
+    ],
+    "ipv6": []
+  }
+}

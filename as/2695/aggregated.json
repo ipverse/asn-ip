@@ -1,0 +1,13 @@
+{
+  "asn": 2695,
+  "handle": "RJRT01-TOB1",
+  "description": "RJ Reynolds Tobacco Company",
+  "subnets": {
+    "ipv4": [
+      "167.106.246.0/24",
+      "167.106.250.0/23",
+      "167.106.255.0/24"
+    ],
+    "ipv6": []
+  }
+}

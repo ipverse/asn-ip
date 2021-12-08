@@ -1,0 +1,13 @@
+{
+  "asn": 18674,
+  "handle": "FROST-BANK",
+  "description": "Frost National Bank",
+  "subnets": {
+    "ipv4": [
+      "66.136.40.0/24",
+      "75.11.242.0/24",
+      "209.184.178.0/24"
+    ],
+    "ipv6": []
+  }
+}

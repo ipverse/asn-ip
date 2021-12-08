@@ -1,0 +1,13 @@
+{
+  "asn": 265163,
+  "handle": "ARENAJA-SERVICOS-DE",
+  "description": "Arenaja Serviços de telecomunicaçoes",
+  "subnets": {
+    "ipv4": [
+      "143.255.236.0/22"
+    ],
+    "ipv6": [
+      "2804:2b9c::/32"
+    ]
+  }
+}

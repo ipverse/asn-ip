@@ -1,0 +1,14 @@
+{
+  "asn": 17490,
+  "handle": "ETFIBERNET",
+  "description": "3/F,Yi Qing Building,Hua Jing Xin Cheng,Guangzhou",
+  "subnets": {
+    "ipv4": [
+      "61.28.0.0/18",
+      "61.28.64.0/19",
+      "61.28.96.0/20",
+      "211.156.32.0/20"
+    ],
+    "ipv6": []
+  }
+}

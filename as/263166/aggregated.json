@@ -1,0 +1,14 @@
+{
+  "asn": 263166,
+  "handle": "MURBACH-MUCHELIN-LTDA",
+  "description": "Murbach \u0026 Muchelin LTDA",
+  "subnets": {
+    "ipv4": [
+      "170.247.148.0/22",
+      "177.93.188.0/22"
+    ],
+    "ipv6": [
+      "2804:17b4::/32"
+    ]
+  }
+}

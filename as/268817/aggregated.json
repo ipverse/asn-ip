@@ -1,0 +1,14 @@
+{
+  "asn": 268817,
+  "handle": "DECOLA-TELECOM",
+  "description": "DECOLA TELECOM",
+  "subnets": {
+    "ipv4": [
+      "45.173.164.0/22",
+      "204.157.104.0/22"
+    ],
+    "ipv6": [
+      "2804:5b14::/32"
+    ]
+  }
+}

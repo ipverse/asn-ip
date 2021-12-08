@@ -1,0 +1,11 @@
+{
+  "asn": 134747,
+  "handle": "PENINSULA-AP",
+  "description": "Peninsula Health",
+  "subnets": {
+    "ipv4": [
+      "103.197.88.0/24"
+    ],
+    "ipv6": []
+  }
+}

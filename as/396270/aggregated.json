@@ -1,0 +1,12 @@
+{
+  "asn": 396270,
+  "handle": "TCSP-PROD",
+  "description": "TrustCommerce",
+  "subnets": {
+    "ipv4": [
+      "206.82.213.0/24",
+      "208.72.241.0/24"
+    ],
+    "ipv6": []
+  }
+}

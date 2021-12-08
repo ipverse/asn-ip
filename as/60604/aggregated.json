@@ -1,0 +1,12 @@
+{
+  "asn": 60604,
+  "handle": "PRIMARIA-CALARASI",
+  "description": "Primaria Municipiului Calarasi",
+  "subnets": {
+    "ipv4": [
+      "84.239.18.0/24",
+      "89.35.158.0/24"
+    ],
+    "ipv6": []
+  }
+}

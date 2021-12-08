@@ -1,0 +1,11 @@
+{
+  "asn": 137034,
+  "handle": "SAONLINE-AP",
+  "description": "S. A. Online",
+  "subnets": {
+    "ipv4": [
+      "103.102.204.0/22"
+    ],
+    "ipv6": []
+  }
+}

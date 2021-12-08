@@ -1,0 +1,11 @@
+{
+  "asn": 140992,
+  "handle": "GEONET-AP",
+  "description": "GEO NET",
+  "subnets": {
+    "ipv4": [
+      "103.154.160.0/24"
+    ],
+    "ipv6": []
+  }
+}

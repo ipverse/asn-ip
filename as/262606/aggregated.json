@@ -1,0 +1,13 @@
+{
+  "asn": 262606,
+  "handle": "MICROTELL-TELECOM",
+  "description": "Microtell Telecom",
+  "subnets": {
+    "ipv4": [
+      "177.101.32.0/20"
+    ],
+    "ipv6": [
+      "2804:6c8::/32"
+    ]
+  }
+}

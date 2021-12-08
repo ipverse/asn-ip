@@ -1,0 +1,13 @@
+{
+  "asn": 263578,
+  "handle": "FACNET-TELECOM",
+  "description": "FacNet Telecom",
+  "subnets": {
+    "ipv4": [
+      "179.109.64.0/20"
+    ],
+    "ipv6": [
+      "2804:f4c::/32"
+    ]
+  }
+}

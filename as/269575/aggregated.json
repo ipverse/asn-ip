@@ -1,0 +1,13 @@
+{
+  "asn": 269575,
+  "handle": "XIS-1-INTERNET-FIBRA-EIRELI",
+  "description": "XIS 1 INTERNET FIBRA EIRELI",
+  "subnets": {
+    "ipv4": [
+      "45.189.104.0/22"
+    ],
+    "ipv6": [
+      "2804:66ac::/32"
+    ]
+  }
+}

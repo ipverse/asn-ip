@@ -1,0 +1,11 @@
+{
+  "asn": 28020,
+  "handle": "MUNICIPALIDAD-DE-ROSARIO",
+  "description": "Municipalidad de Rosario",
+  "subnets": {
+    "ipv4": [
+      "200.107.81.0/24"
+    ],
+    "ipv6": []
+  }
+}

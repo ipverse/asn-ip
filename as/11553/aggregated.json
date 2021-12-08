@@ -1,0 +1,12 @@
+{
+  "asn": 11553,
+  "handle": "MANNAWEB",
+  "description": "Mannatech INC.",
+  "subnets": {
+    "ipv4": [
+      "8.21.213.0/24",
+      "64.129.105.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 137187,
+  "handle": "WLINK-CDN-AP",
+  "description": "WorldLink Communications",
+  "subnets": {
+    "ipv4": [
+      "103.211.150.0/24",
+      "124.41.244.0/22"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 62392,
+  "handle": "FOSDEM",
+  "description": "FOSDEM VZW",
+  "subnets": {
+    "ipv4": [
+      "185.175.216.0/22"
+    ],
+    "ipv6": [
+      "2001:67c:1810::/48"
+    ]
+  }
+}

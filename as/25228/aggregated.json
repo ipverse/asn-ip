@@ -1,0 +1,12 @@
+{
+  "asn": 25228,
+  "handle": "SKYVISION",
+  "description": "Wifi Capital LTD",
+  "subnets": {
+    "ipv4": [
+      "83.229.100.0/23",
+      "83.229.102.0/24"
+    ],
+    "ipv6": []
+  }
+}

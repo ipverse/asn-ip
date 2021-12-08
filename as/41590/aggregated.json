@@ -1,0 +1,11 @@
+{
+  "asn": 41590,
+  "handle": "U-BLOX",
+  "description": "u-blox AG",
+  "subnets": {
+    "ipv4": [
+      "195.34.88.0/23"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 203765,
+  "handle": "PRONETEUS",
+  "description": "PRONETEUS Sp. z o.o.",
+  "subnets": {
+    "ipv4": [
+      "185.60.230.0/24",
+      "185.124.116.0/22"
+    ],
+    "ipv6": [
+      "2a06:b1c0::/29"
+    ]
+  }
+}

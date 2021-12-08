@@ -1,0 +1,15 @@
+{
+  "asn": 61694,
+  "handle": "SP2TELECOM-LTDA-ME",
+  "description": "SP2TELECOM LTDA ME",
+  "subnets": {
+    "ipv4": [
+      "131.108.252.0/22",
+      "138.185.4.0/22",
+      "168.194.40.0/22"
+    ],
+    "ipv6": [
+      "2804:1d14::/32"
+    ]
+  }
+}

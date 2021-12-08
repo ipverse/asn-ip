@@ -1,0 +1,13 @@
+{
+  "asn": 52834,
+  "handle": "FERJ-FUNDACAO-EDUCACIONAL",
+  "description": "FERJ - Fundação Educacional Regional Jaraguaense",
+  "subnets": {
+    "ipv4": [
+      "177.52.222.0/23"
+    ],
+    "ipv6": [
+      "2801:80:4d0::/48"
+    ]
+  }
+}

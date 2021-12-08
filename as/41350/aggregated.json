@@ -1,0 +1,11 @@
+{
+  "asn": 41350,
+  "handle": "RSU",
+  "description": "OJSC Bank Russian Standard",
+  "subnets": {
+    "ipv4": [
+      "85.223.143.0/24"
+    ],
+    "ipv6": []
+  }
+}

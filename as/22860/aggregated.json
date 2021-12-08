@@ -1,0 +1,14 @@
+{
+  "asn": 22860,
+  "handle": "SERVICIOS-INTERNET-LTDA",
+  "description": "SERVICIOS INTERNET LTDA",
+  "subnets": {
+    "ipv4": [
+      "190.113.0.0/19",
+      "200.24.224.0/20"
+    ],
+    "ipv6": [
+      "2800:8f0::/32"
+    ]
+  }
+}

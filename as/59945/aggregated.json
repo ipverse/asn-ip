@@ -1,0 +1,13 @@
+{
+  "asn": 59945,
+  "handle": "HYNASINSKI",
+  "description": "A. Z. Hynasinscy sp. j.",
+  "subnets": {
+    "ipv4": [
+      "91.224.46.0/23",
+      "185.80.57.0/24",
+      "185.80.58.0/24"
+    ],
+    "ipv6": []
+  }
+}

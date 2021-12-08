@@ -1,0 +1,13 @@
+{
+  "asn": 57093,
+  "handle": "ASYALTA",
+  "description": "Yalta-TV KOM Ltd.",
+  "subnets": {
+    "ipv4": [
+      "81.162.96.0/19",
+      "89.22.240.0/20",
+      "192.166.144.0/23"
+    ],
+    "ipv6": []
+  }
+}

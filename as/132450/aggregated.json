@@ -1,0 +1,12 @@
+{
+  "asn": 132450,
+  "handle": "NEWERAIT",
+  "description": "New Era IT Ltd",
+  "subnets": {
+    "ipv4": [
+      "103.21.193.0/24",
+      "103.152.207.0/24"
+    ],
+    "ipv6": []
+  }
+}

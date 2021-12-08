@@ -1,0 +1,11 @@
+{
+  "asn": 35021,
+  "handle": "E-STOCK",
+  "description": "PJSC Moscow Exchange MICEX-RTS",
+  "subnets": {
+    "ipv4": [
+      "85.118.176.0/21"
+    ],
+    "ipv6": []
+  }
+}

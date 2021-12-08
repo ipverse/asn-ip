@@ -1,0 +1,12 @@
+{
+  "asn": 399635,
+  "handle": "CC-VISA-02",
+  "description": "Cardinal Commerce Corporation",
+  "subnets": {
+    "ipv4": [
+      "198.217.253.0/24",
+      "209.221.29.0/24"
+    ],
+    "ipv6": []
+  }
+}

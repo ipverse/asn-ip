@@ -1,0 +1,15 @@
+{
+  "asn": 46121,
+  "handle": "FTMS-01",
+  "description": "Florida Technology Managed Services, Inc.",
+  "subnets": {
+    "ipv4": [
+      "8.23.88.0/24",
+      "12.228.4.0/22",
+      "74.113.100.0/22",
+      "192.111.49.0/24",
+      "192.250.22.0/23"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 34936,
+  "handle": "NIEWERTH",
+  "description": "Daniel Niewerth",
+  "subnets": {
+    "ipv4": [
+      "204.11.3.0/24"
+    ],
+    "ipv6": [
+      "2001:4ba7::/48"
+    ]
+  }
+}

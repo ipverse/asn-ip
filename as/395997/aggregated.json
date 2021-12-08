@@ -1,0 +1,13 @@
+{
+  "asn": 395997,
+  "handle": "METRO",
+  "description": "Metro Richelieu Inc.",
+  "subnets": {
+    "ipv4": [
+      "199.84.233.0/24",
+      "199.84.234.0/24",
+      "199.84.236.0/23"
+    ],
+    "ipv6": []
+  }
+}

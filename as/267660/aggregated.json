@@ -1,0 +1,13 @@
+{
+  "asn": 267660,
+  "handle": "KABOOM-NET",
+  "description": "KABOOM NET",
+  "subnets": {
+    "ipv4": [
+      "45.224.180.0/22"
+    ],
+    "ipv6": [
+      "2804:44e8::/32"
+    ]
+  }
+}

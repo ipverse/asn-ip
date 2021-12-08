@@ -1,0 +1,12 @@
+{
+  "asn": 13183,
+  "handle": "ISP",
+  "description": "Intesa Sanpaolo S.p.A.",
+  "subnets": {
+    "ipv4": [
+      "62.221.168.0/21",
+      "62.221.176.0/21"
+    ],
+    "ipv6": []
+  }
+}

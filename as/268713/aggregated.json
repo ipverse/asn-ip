@@ -1,0 +1,13 @@
+{
+  "asn": 268713,
+  "handle": "BUTANO-COMERCIO-DE",
+  "description": "BUTANO COMERCIO DE GAS LTDA EPP",
+  "subnets": {
+    "ipv4": [
+      "45.170.24.0/22"
+    ],
+    "ipv6": [
+      "2804:599c::/32"
+    ]
+  }
+}

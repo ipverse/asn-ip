@@ -1,0 +1,13 @@
+{
+  "asn": 266533,
+  "handle": "ICNT-PROVEDOR-DE",
+  "description": "ICNT PROVEDOR DE INTERNET LTDA",
+  "subnets": {
+    "ipv4": [
+      "192.144.116.0/22"
+    ],
+    "ipv6": [
+      "2804:3d78::/32"
+    ]
+  }
+}

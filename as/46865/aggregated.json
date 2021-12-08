@@ -1,0 +1,11 @@
+{
+  "asn": 46865,
+  "handle": "FINANALYTICA",
+  "description": "FinAnalytica",
+  "subnets": {
+    "ipv4": [
+      "198.147.247.0/24"
+    ],
+    "ipv6": []
+  }
+}

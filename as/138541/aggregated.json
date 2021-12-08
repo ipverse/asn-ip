@@ -1,0 +1,11 @@
+{
+  "asn": 138541,
+  "handle": "ACTIVE-AP",
+  "description": "Active Multimedia",
+  "subnets": {
+    "ipv4": [
+      "103.132.176.0/22"
+    ],
+    "ipv6": []
+  }
+}

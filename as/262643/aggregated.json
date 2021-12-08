@@ -1,0 +1,14 @@
+{
+  "asn": 262643,
+  "handle": "BRC-TELECOMUNICACOES-EIRELI",
+  "description": "BRC TELECOMUNICACOES EIRELI",
+  "subnets": {
+    "ipv4": [
+      "177.105.112.0/20",
+      "191.36.208.0/21"
+    ],
+    "ipv6": [
+      "2804:149c::/32"
+    ]
+  }
+}

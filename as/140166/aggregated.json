@@ -1,0 +1,12 @@
+{
+  "asn": 140166,
+  "handle": "RYTHM-IN",
+  "description": "Rythym Broadband Pvt Ltd",
+  "subnets": {
+    "ipv4": [
+      "103.152.21.0/24",
+      "103.156.221.0/24"
+    ],
+    "ipv6": []
+  }
+}

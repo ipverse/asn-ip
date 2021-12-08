@@ -1,0 +1,12 @@
+{
+  "asn": 16523,
+  "handle": "TRUTEL",
+  "description": "Trutel Inc.",
+  "subnets": {
+    "ipv4": [
+      "199.26.80.0/22",
+      "206.165.198.0/24"
+    ],
+    "ipv6": []
+  }
+}

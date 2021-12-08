@@ -1,0 +1,12 @@
+{
+  "asn": 328542,
+  "handle": "MITC-SARL",
+  "description": "Mulangane Information Technology Consult SARL - MITC SARL",
+  "subnets": {
+    "ipv4": [
+      "102.36.168.0/23",
+      "102.36.170.0/24"
+    ],
+    "ipv6": []
+  }
+}

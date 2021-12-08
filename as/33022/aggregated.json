@@ -1,0 +1,12 @@
+{
+  "asn": 33022,
+  "handle": "WELLESLEY-COLLEGE",
+  "description": "Wellesley College",
+  "subnets": {
+    "ipv4": [
+      "149.130.0.0/16",
+      "192.42.89.0/24"
+    ],
+    "ipv6": []
+  }
+}

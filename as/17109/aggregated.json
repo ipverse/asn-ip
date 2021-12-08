@@ -1,0 +1,12 @@
+{
+  "asn": 17109,
+  "handle": "CALITECH",
+  "description": "Calitech",
+  "subnets": {
+    "ipv4": [
+      "192.65.134.0/24",
+      "192.91.234.0/24"
+    ],
+    "ipv6": []
+  }
+}

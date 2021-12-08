@@ -1,0 +1,12 @@
+{
+  "asn": 135462,
+  "handle": "IDNIC-SHOPEE-ID",
+  "description": "PT Shopee International Indonesia",
+  "subnets": {
+    "ipv4": [
+      "103.70.16.0/22",
+      "124.158.136.0/22"
+    ],
+    "ipv6": []
+  }
+}

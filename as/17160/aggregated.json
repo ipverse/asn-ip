@@ -1,0 +1,12 @@
+{
+  "asn": 17160,
+  "handle": "MB-BGP-VEREXP",
+  "description": "Mango Bay Communications, Inc.",
+  "subnets": {
+    "ipv4": [
+      "63.88.202.0/23",
+      "208.206.15.0/24"
+    ],
+    "ipv6": []
+  }
+}

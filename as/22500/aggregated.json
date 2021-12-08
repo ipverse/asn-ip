@@ -1,0 +1,13 @@
+{
+  "asn": 22500,
+  "handle": "MAW-INTF-WORLD",
+  "description": "MAW COMMUNICATIONS",
+  "subnets": {
+    "ipv4": [
+      "66.23.220.0/22",
+      "72.20.213.0/24",
+      "192.81.167.0/24"
+    ],
+    "ipv6": []
+  }
+}

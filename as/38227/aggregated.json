@@ -1,0 +1,14 @@
+{
+  "asn": 38227,
+  "handle": "CSLSAMOA-WS-AP",
+  "description": "Computer Services Ltd",
+  "subnets": {
+    "ipv4": [
+      "123.176.72.0/21",
+      "182.50.72.0/22"
+    ],
+    "ipv6": [
+      "2407:2800::/32"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 15645,
+  "handle": "DE-UKRAINIAN-INTERNET",
+  "description": "DE Ukrainian Internet Exchange (UA-IX)",
+  "subnets": {
+    "ipv4": [
+      "185.119.76.0/22"
+    ],
+    "ipv6": [
+      "2001:7f8:5d::/48"
+    ]
+  }
+}

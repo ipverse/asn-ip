@@ -1,0 +1,13 @@
+{
+  "asn": 264919,
+  "handle": "ULTRACEU-LTDA",
+  "description": "Ultraceu Ltda",
+  "subnets": {
+    "ipv4": [
+      "168.228.228.0/22"
+    ],
+    "ipv6": [
+      "2804:2fe4::/32"
+    ]
+  }
+}

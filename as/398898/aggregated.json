@@ -1,0 +1,13 @@
+{
+  "asn": 398898,
+  "handle": "DEVRY-GHSE",
+  "description": "DeVry Greenhouses",
+  "subnets": {
+    "ipv4": [
+      "23.168.16.0/24"
+    ],
+    "ipv6": [
+      "2602:808:1000::/40"
+    ]
+  }
+}

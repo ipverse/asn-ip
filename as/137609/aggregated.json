@@ -1,0 +1,12 @@
+{
+  "asn": 137609,
+  "handle": "DCSISPL-IN",
+  "description": "Dcs Internet Services Pvt Ltd",
+  "subnets": {
+    "ipv4": [
+      "103.117.33.0/24",
+      "103.117.34.0/23"
+    ],
+    "ipv6": []
+  }
+}

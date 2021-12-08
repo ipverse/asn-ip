@@ -1,0 +1,11 @@
+{
+  "asn": 55584,
+  "handle": "KPX-KR-KR",
+  "description": "Korea Power Exchange",
+  "subnets": {
+    "ipv4": [
+      "211.179.209.0/24"
+    ],
+    "ipv6": []
+  }
+}

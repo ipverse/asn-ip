@@ -1,0 +1,14 @@
+{
+  "asn": 264555,
+  "handle": "TECCLOUD-SERVICOS-DE",
+  "description": "TECCLOUD SERVIÇOS DE TECNOLOGIA AHU LTDA.",
+  "subnets": {
+    "ipv4": [
+      "138.0.160.0/22",
+      "201.7.200.0/21"
+    ],
+    "ipv6": [
+      "2804:2174::/32"
+    ]
+  }
+}

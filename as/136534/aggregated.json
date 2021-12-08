@@ -1,0 +1,13 @@
+{
+  "asn": 136534,
+  "handle": "GUNGCHIL-NET-AP",
+  "description": "GUNGCHIL",
+  "subnets": {
+    "ipv4": [
+      "103.91.232.0/22"
+    ],
+    "ipv6": [
+      "2401:1540::/32"
+    ]
+  }
+}

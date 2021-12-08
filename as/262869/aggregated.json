@@ -1,0 +1,13 @@
+{
+  "asn": 262869,
+  "handle": "G1TELECOM-PROVEDOR-DE",
+  "description": "G1Telecom Provedor de Internet LTDA ME",
+  "subnets": {
+    "ipv4": [
+      "177.11.16.0/22"
+    ],
+    "ipv6": [
+      "2804:1c2c::/32"
+    ]
+  }
+}

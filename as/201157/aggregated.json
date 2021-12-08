@@ -1,0 +1,13 @@
+{
+  "asn": 201157,
+  "handle": "EVOTEC",
+  "description": "Ronny Laborius",
+  "subnets": {
+    "ipv4": [
+      "185.79.64.0/22"
+    ],
+    "ipv6": [
+      "2a03:5c60::/32"
+    ]
+  }
+}

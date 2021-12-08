@@ -1,0 +1,13 @@
+{
+  "asn": 135782,
+  "handle": "NYAK",
+  "description": "Nyak Technologies And Teleservices Pvt Ltd",
+  "subnets": {
+    "ipv4": [
+      "103.82.96.0/22"
+    ],
+    "ipv6": [
+      "2407:ddc0::/32"
+    ]
+  }
+}

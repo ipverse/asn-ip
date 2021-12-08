@@ -1,0 +1,13 @@
+{
+  "asn": 265063,
+  "handle": "COMETA-TELECOMUNICACOES-E",
+  "description": "COMETA TELECOMUNICACOES E SERVICOS LTDA",
+  "subnets": {
+    "ipv4": [
+      "170.231.192.0/22"
+    ],
+    "ipv6": [
+      "2804:3238::/32"
+    ]
+  }
+}

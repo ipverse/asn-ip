@@ -1,0 +1,11 @@
+{
+  "asn": 12834,
+  "handle": "DANFOSS",
+  "description": "Danfoss A/S",
+  "subnets": {
+    "ipv4": [
+      "193.162.34.0/24"
+    ],
+    "ipv6": []
+  }
+}

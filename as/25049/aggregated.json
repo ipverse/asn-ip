@@ -1,0 +1,13 @@
+{
+  "asn": 25049,
+  "handle": "STASCO-UK",
+  "description": "Shell Information Technology International B.V.",
+  "subnets": {
+    "ipv4": [
+      "146.194.0.0/18",
+      "164.136.124.0/24",
+      "164.136.246.0/23"
+    ],
+    "ipv6": []
+  }
+}

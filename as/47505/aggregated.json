@@ -1,0 +1,13 @@
+{
+  "asn": 47505,
+  "handle": "QNS",
+  "description": "STedu Link Net Srl",
+  "subnets": {
+    "ipv4": [
+      "89.36.8.0/21",
+      "91.206.78.0/23",
+      "193.142.208.0/24"
+    ],
+    "ipv6": []
+  }
+}

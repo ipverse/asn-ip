@@ -1,0 +1,11 @@
+{
+  "asn": 137891,
+  "handle": "BETHEFIRST-AP",
+  "description": "Be The First",
+  "subnets": {
+    "ipv4": [
+      "103.116.190.0/23"
+    ],
+    "ipv6": []
+  }
+}

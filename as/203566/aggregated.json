@@ -1,0 +1,13 @@
+{
+  "asn": 203566,
+  "handle": "PL-EGOSKY",
+  "description": "Adam Pacyga",
+  "subnets": {
+    "ipv4": [
+      "45.86.32.0/23"
+    ],
+    "ipv6": [
+      "2a0e:d380::/48"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 270835,
+  "handle": "MEGAJATO-PROVEDOR-DE",
+  "description": "Megajato Provedor de Internet LTDA",
+  "subnets": {
+    "ipv4": [
+      "190.8.28.0/22"
+    ],
+    "ipv6": [
+      "2804:7224::/32"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 18957,
+  "handle": "TAXRESOURCES-1",
+  "description": "TaxAudit.com",
+  "subnets": {
+    "ipv4": [
+      "12.42.126.0/24",
+      "50.237.47.0/24",
+      "161.129.187.0/24"
+    ],
+    "ipv6": []
+  }
+}

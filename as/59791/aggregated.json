@@ -1,0 +1,14 @@
+{
+  "asn": 59791,
+  "handle": "LINQHOST",
+  "description": "LinQhost B.V.",
+  "subnets": {
+    "ipv4": [
+      "185.67.200.0/22",
+      "185.88.148.0/22"
+    ],
+    "ipv6": [
+      "2a05:1180::/29"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 51952,
+  "handle": "KVANT",
+  "description": "KVANT LLC",
+  "subnets": {
+    "ipv4": [
+      "185.183.196.0/23",
+      "185.183.198.0/24"
+    ],
+    "ipv6": []
+  }
+}

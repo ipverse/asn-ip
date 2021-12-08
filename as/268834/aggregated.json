@@ -1,0 +1,13 @@
+{
+  "asn": 268834,
+  "handle": "CARRARO-TELECOM-LTDA-ME",
+  "description": "CARRARO TELECOM LTDA ME",
+  "subnets": {
+    "ipv4": [
+      "45.172.252.0/22"
+    ],
+    "ipv6": [
+      "2804:5b50::/32"
+    ]
+  }
+}

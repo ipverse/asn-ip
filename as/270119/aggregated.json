@@ -1,0 +1,13 @@
+{
+  "asn": 270119,
+  "handle": "EQUINIX-MX-SERVICES-SA-DE-CV",
+  "description": "Equinix MX Services S.A. de C.V",
+  "subnets": {
+    "ipv4": [
+      "201.149.96.0/23"
+    ],
+    "ipv6": [
+      "2806:3be::/32"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 270781,
+  "handle": "MATOS-JUSTWEB",
+  "description": "MATOS \u0026 JUSTWEB",
+  "subnets": {
+    "ipv4": [
+      "201.148.112.0/22"
+    ],
+    "ipv6": [
+      "2804:7150::/32"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 268048,
+  "handle": "SPEEDYNET-COMUNICACAO-MULTIMIDIA",
+  "description": "SpeedyNet Comunicacao Multimídia - Eireli",
+  "subnets": {
+    "ipv4": [
+      "45.168.32.0/22"
+    ],
+    "ipv6": [
+      "2804:5728::/32"
+    ]
+  }
+}

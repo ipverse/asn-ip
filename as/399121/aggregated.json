@@ -1,0 +1,11 @@
+{
+  "asn": 399121,
+  "handle": "CNB-OF-TEXAS",
+  "description": "Citizens National Bank of Texas",
+  "subnets": {
+    "ipv4": [
+      "208.52.167.0/24"
+    ],
+    "ipv6": []
+  }
+}

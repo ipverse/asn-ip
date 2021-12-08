@@ -1,0 +1,11 @@
+{
+  "asn": 21518,
+  "handle": "INTEGRIS-HEALTH",
+  "description": "INTEGRIS Health",
+  "subnets": {
+    "ipv4": [
+      "204.107.242.0/24"
+    ],
+    "ipv6": []
+  }
+}

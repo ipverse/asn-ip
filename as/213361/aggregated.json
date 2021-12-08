@@ -1,0 +1,12 @@
+{
+  "asn": 213361,
+  "handle": "TRIVISONNO",
+  "description": "Paolo Trivisonno",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2602:feda:3d0::/44",
+      "2a0b:b87:ffee::/48"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asn": 59148,
+  "handle": "IDNIC-XPNET-ID",
+  "description": "PT Xepia Prima",
+  "subnets": {
+    "ipv4": [
+      "103.254.104.0/22"
+    ],
+    "ipv6": []
+  }
+}

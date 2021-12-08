@@ -1,0 +1,11 @@
+{
+  "asn": 34356,
+  "handle": "FCNISP",
+  "description": "Fiber Communication Network S.A.R.L",
+  "subnets": {
+    "ipv4": [
+      "185.33.112.0/22"
+    ],
+    "ipv6": []
+  }
+}

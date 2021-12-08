@@ -1,0 +1,14 @@
+{
+  "asn": 57653,
+  "handle": "CTL",
+  "description": "Central Technology Ltd",
+  "subnets": {
+    "ipv4": [
+      "109.69.232.0/21",
+      "185.191.84.0/22"
+    ],
+    "ipv6": [
+      "2a00:1ba8::/32"
+    ]
+  }
+}

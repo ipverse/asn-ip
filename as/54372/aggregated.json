@@ -1,0 +1,12 @@
+{
+  "asn": 54372,
+  "handle": "DROPBOX-CORP",
+  "description": "Dropbox, Inc.",
+  "subnets": {
+    "ipv4": [
+      "64.112.13.0/24",
+      "192.189.200.0/23"
+    ],
+    "ipv6": []
+  }
+}

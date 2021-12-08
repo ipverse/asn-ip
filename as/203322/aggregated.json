@@ -1,0 +1,13 @@
+{
+  "asn": 203322,
+  "handle": "EIMSKIP",
+  "description": "Eimskip Island ehf",
+  "subnets": {
+    "ipv4": [
+      "185.138.172.0/22"
+    ],
+    "ipv6": [
+      "2a07:fc0::/29"
+    ]
+  }
+}

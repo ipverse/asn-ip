@@ -1,0 +1,13 @@
+{
+  "asn": 202017,
+  "handle": "ASMVIG",
+  "description": "ASM VIGEVANO E LOMELLINA SPA",
+  "subnets": {
+    "ipv4": [
+      "185.56.120.0/22"
+    ],
+    "ipv6": [
+      "2a02:52a0::/32"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asn": 139443,
+  "handle": "IDNIC-ITNY-ID",
+  "description": "Institut Teknologi Nasional Yogyakarta",
+  "subnets": {
+    "ipv4": [
+      "103.145.97.0/24"
+    ],
+    "ipv6": []
+  }
+}

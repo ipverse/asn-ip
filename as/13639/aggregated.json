@@ -1,0 +1,13 @@
+{
+  "asn": 13639,
+  "handle": "ING-AMERICAS-WHOLESALE",
+  "description": "ING Financial Services, LLC",
+  "subnets": {
+    "ipv4": [
+      "24.157.48.0/24",
+      "141.155.214.0/24",
+      "156.114.20.0/23"
+    ],
+    "ipv6": []
+  }
+}

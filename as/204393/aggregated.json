@@ -1,0 +1,14 @@
+{
+  "asn": 204393,
+  "handle": "PARVAZ-SYSTEM-INFORMATION-TECHNOLOGY-COMPANY",
+  "description": "Fara Net Gostar Kavoshgaran Aftab",
+  "subnets": {
+    "ipv4": [
+      "81.12.78.0/24",
+      "185.187.48.0/24",
+      "185.221.239.0/24",
+      "212.16.73.0/24"
+    ],
+    "ipv6": []
+  }
+}

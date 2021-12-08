@@ -1,0 +1,11 @@
+{
+  "asn": 271643,
+  "handle": "FLT-TELECOM",
+  "description": "FLT TELECOM",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2804:7eb8::/32"
+    ]
+  }
+}

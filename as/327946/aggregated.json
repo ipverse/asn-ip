@@ -1,0 +1,12 @@
+{
+  "asn": 327946,
+  "handle": "MESH-TELECOM",
+  "description": "Mesh Telecom Pty Ltd",
+  "subnets": {
+    "ipv4": [
+      "102.220.64.0/22",
+      "169.239.80.0/22"
+    ],
+    "ipv6": []
+  }
+}

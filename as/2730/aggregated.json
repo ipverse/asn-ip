@@ -1,0 +1,12 @@
+{
+  "asn": 2730,
+  "handle": "WINKY",
+  "description": "WINKY NETWORKS LLC",
+  "subnets": {
+    "ipv4": [
+      "199.195.232.0/21",
+      "208.144.158.0/23"
+    ],
+    "ipv6": []
+  }
+}

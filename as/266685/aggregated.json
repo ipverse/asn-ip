@@ -1,0 +1,13 @@
+{
+  "asn": 266685,
+  "handle": "COOPERATIVA-DE-AGUA",
+  "description": "COOPERATIVA DE AGUA , ENERGIA Y OTROS SERVICIOS COMUNITARIOS DE DOS DE MAYO LTDA",
+  "subnets": {
+    "ipv4": [
+      "45.228.16.0/22"
+    ],
+    "ipv6": [
+      "2803:a520::/32"
+    ]
+  }
+}

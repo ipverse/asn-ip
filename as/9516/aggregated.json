@@ -1,0 +1,13 @@
+{
+  "asn": 9516,
+  "handle": "SAKURA-AP",
+  "description": "Zhuhai FuYuanLeYu Technology Limited",
+  "subnets": {
+    "ipv4": [
+      "185.129.110.0/24"
+    ],
+    "ipv6": [
+      "2405:84c0:ff25::/48"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asn": 52413,
+  "handle": "MADACOM-SRL",
+  "description": "MADACOM SRL",
+  "subnets": {
+    "ipv4": [
+      "201.220.16.0/21"
+    ],
+    "ipv6": []
+  }
+}

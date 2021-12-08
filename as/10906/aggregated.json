@@ -1,0 +1,13 @@
+{
+  "asn": 10906,
+  "handle": "NUCLEO-DE-INF",
+  "description": "Núcleo de Inf. e Coord. do Ponto BR - NIC.BR",
+  "subnets": {
+    "ipv4": [
+      "200.189.40.0/23"
+    ],
+    "ipv6": [
+      "2001:12f8:8::/47"
+    ]
+  }
+}

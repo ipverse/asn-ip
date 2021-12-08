@@ -1,0 +1,14 @@
+{
+  "asn": 61655,
+  "handle": "MASTERONLINE-PROVEDOR-SCM",
+  "description": "Masteronline Provedor SCM Ltda-me",
+  "subnets": {
+    "ipv4": [
+      "131.100.236.0/22",
+      "168.195.16.0/22"
+    ],
+    "ipv6": [
+      "2804:1c6c::/32"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 39870,
+  "handle": "NETNOD-MMO",
+  "description": "NETNOD Internet Exchange i Sverige AB",
+  "subnets": {
+    "ipv4": [
+      "192.36.134.0/24"
+    ],
+    "ipv6": [
+      "2001:67c:2550::/48"
+    ]
+  }
+}

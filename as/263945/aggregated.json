@@ -1,0 +1,14 @@
+{
+  "asn": 263945,
+  "handle": "PROVENET-INTERNET-SERVICES",
+  "description": "ProveNET - Internet Services",
+  "subnets": {
+    "ipv4": [
+      "138.219.180.0/22",
+      "170.84.72.0/22"
+    ],
+    "ipv6": [
+      "2804:282c::/32"
+    ]
+  }
+}

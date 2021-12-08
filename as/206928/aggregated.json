@@ -1,0 +1,13 @@
+{
+  "asn": 206928,
+  "handle": "PF-ELEKTRON",
+  "description": "P/F Elektron",
+  "subnets": {
+    "ipv4": [
+      "185.171.172.0/22"
+    ],
+    "ipv6": [
+      "2a0a:d500::/29"
+    ]
+  }
+}

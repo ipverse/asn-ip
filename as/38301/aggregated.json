@@ -1,0 +1,11 @@
+{
+  "asn": 38301,
+  "handle": "TREC-GLOBAL-AP",
+  "description": "Sky Internet",
+  "subnets": {
+    "ipv4": [
+      "125.212.63.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 198904,
+  "handle": "DE-50HERTZ",
+  "description": "50Hertz Transmission GmbH",
+  "subnets": {
+    "ipv4": [
+      "5.32.184.0/23"
+    ],
+    "ipv6": [
+      "2a01:6ec0::/32"
+    ]
+  }
+}

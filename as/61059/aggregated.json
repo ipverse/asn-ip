@@ -1,0 +1,11 @@
+{
+  "asn": 61059,
+  "handle": "ETELECOM-MD",
+  "description": "Etelecom International SRL",
+  "subnets": {
+    "ipv4": [
+      "89.44.88.0/22"
+    ],
+    "ipv6": []
+  }
+}

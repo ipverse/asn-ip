@@ -1,0 +1,14 @@
+{
+  "asn": 53107,
+  "handle": "EVEO-SERVICOS-DE",
+  "description": "EVEO Serviços de Internet Ltda.",
+  "subnets": {
+    "ipv4": [
+      "82.118.233.0/24",
+      "149.18.50.0/24",
+      "177.93.104.0/21",
+      "187.108.192.0/20"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 52698,
+  "handle": "OPENTEL-COMERCIO-E",
+  "description": "OPENTEL Comércio e Serviços Ltda",
+  "subnets": {
+    "ipv4": [
+      "177.73.68.0/22"
+    ],
+    "ipv6": [
+      "2804:49d0::/32"
+    ]
+  }
+}

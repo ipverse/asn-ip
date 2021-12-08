@@ -1,0 +1,12 @@
+{
+  "asn": 262817,
+  "handle": "CARDOSONET-INTERNET-E",
+  "description": "CARDOSONET INTERNET E SERVIÇOS DE INFORMÁTICA LTDA",
+  "subnets": {
+    "ipv4": [
+      "138.219.148.0/22",
+      "186.250.120.0/22"
+    ],
+    "ipv6": []
+  }
+}

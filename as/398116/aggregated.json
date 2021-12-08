@@ -1,0 +1,12 @@
+{
+  "asn": 398116,
+  "handle": "FDNY-NETWORKSRV-01",
+  "description": "FDNY",
+  "subnets": {
+    "ipv4": [
+      "65.215.67.0/24",
+      "65.217.217.0/24"
+    ],
+    "ipv6": []
+  }
+}

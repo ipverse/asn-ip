@@ -1,0 +1,11 @@
+{
+  "asn": 140643,
+  "handle": "NETBRIGHT-AP",
+  "description": "Netbright",
+  "subnets": {
+    "ipv4": [
+      "103.151.83.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 202789,
+  "handle": "GLABO-NET",
+  "description": "Glasfaser Bochum GmbH \u0026 Co. KG",
+  "subnets": {
+    "ipv4": [
+      "185.154.112.0/22"
+    ],
+    "ipv6": [
+      "2a07:8c80::/29"
+    ]
+  }
+}

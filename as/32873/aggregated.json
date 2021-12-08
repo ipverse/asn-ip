@@ -1,0 +1,13 @@
+{
+  "asn": 32873,
+  "handle": "COG",
+  "description": "Children\u0027s Oncology Group",
+  "subnets": {
+    "ipv4": [
+      "64.74.175.0/24",
+      "198.181.220.0/24",
+      "216.52.250.0/23"
+    ],
+    "ipv6": []
+  }
+}

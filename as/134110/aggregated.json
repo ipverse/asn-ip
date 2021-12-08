@@ -1,0 +1,11 @@
+{
+  "asn": 134110,
+  "handle": "MIITLIMITED-AP",
+  "description": "MiIT Limited",
+  "subnets": {
+    "ipv4": [
+      "103.53.148.0/22"
+    ],
+    "ipv6": []
+  }
+}

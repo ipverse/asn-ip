@@ -1,0 +1,12 @@
+{
+  "asn": 59869,
+  "handle": "GOTTHARDTV",
+  "description": "Szentgotthardi Varosi Televizio es Kabeluzemelteto KHT",
+  "subnets": {
+    "ipv4": [
+      "81.22.176.0/20",
+      "178.22.224.0/21"
+    ],
+    "ipv6": []
+  }
+}

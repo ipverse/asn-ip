@@ -1,0 +1,13 @@
+{
+  "asn": 55325,
+  "handle": "EASTWATER-TH-AP",
+  "description": "United Information Highway Co.,Ltd.",
+  "subnets": {
+    "ipv4": [
+      "27.254.115.0/24",
+      "115.31.130.0/24",
+      "203.209.124.0/24"
+    ],
+    "ipv6": []
+  }
+}

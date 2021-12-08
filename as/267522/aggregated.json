@@ -1,0 +1,13 @@
+{
+  "asn": 267522,
+  "handle": "GLOBAL-BANDA-LARGA",
+  "description": "GLOBAL BANDA LARGA SERVICOS DE TELECOMUNICACOES LT",
+  "subnets": {
+    "ipv4": [
+      "192.141.100.0/22"
+    ],
+    "ipv6": [
+      "2804:42bc::/32"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 266382,
+  "handle": "MAIS-PROVEDOR-SERVICOS",
+  "description": "Mais Provedor Serviços de Internet Ltda - EPP",
+  "subnets": {
+    "ipv4": [
+      "170.80.184.0/22"
+    ],
+    "ipv6": [
+      "2804:36f4::/32"
+    ]
+  }
+}

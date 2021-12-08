@@ -1,0 +1,13 @@
+{
+  "asn": 267440,
+  "handle": "INFOCO-TELECOM",
+  "description": "INFOCO TELECOM",
+  "subnets": {
+    "ipv4": [
+      "192.141.0.0/22"
+    ],
+    "ipv6": [
+      "2804:418c::/32"
+    ]
+  }
+}

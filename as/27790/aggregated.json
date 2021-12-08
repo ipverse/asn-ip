@@ -1,0 +1,13 @@
+{
+  "asn": 27790,
+  "handle": "UNIVERSIDAD-NACIONAL-DE",
+  "description": "Universidad Nacional de Cordoba",
+  "subnets": {
+    "ipv4": [
+      "200.16.16.0/20"
+    ],
+    "ipv6": [
+      "2801:120::/32"
+    ]
+  }
+}

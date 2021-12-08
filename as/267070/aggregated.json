@@ -1,0 +1,13 @@
+{
+  "asn": 267070,
+  "handle": "FIBRANET-JUIZ-DE",
+  "description": "Fibranet Juiz de Fora Serviços de Telecomunicações",
+  "subnets": {
+    "ipv4": [
+      "45.227.80.0/22"
+    ],
+    "ipv6": [
+      "2804:47ac::/32"
+    ]
+  }
+}

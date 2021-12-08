@@ -1,0 +1,12 @@
+{
+  "asn": 8629,
+  "handle": "MCNTT",
+  "description": "Moscow Center of New Telecommunication Technologies JSC",
+  "subnets": {
+    "ipv4": [
+      "84.253.96.0/19",
+      "195.28.32.0/20"
+    ],
+    "ipv6": []
+  }
+}

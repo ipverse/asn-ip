@@ -1,0 +1,13 @@
+{
+  "asn": 35388,
+  "handle": "BLUE7",
+  "description": "B7C GmbH",
+  "subnets": {
+    "ipv4": [
+      "85.209.24.0/22"
+    ],
+    "ipv6": [
+      "2a09:9240::/29"
+    ]
+  }
+}

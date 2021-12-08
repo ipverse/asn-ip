@@ -1,0 +1,12 @@
+{
+  "asn": 12062,
+  "handle": "DECISIONONE",
+  "description": "Decision One",
+  "subnets": {
+    "ipv4": [
+      "204.152.177.0/24",
+      "204.170.32.0/24"
+    ],
+    "ipv6": []
+  }
+}

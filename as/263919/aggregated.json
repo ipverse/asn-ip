@@ -1,0 +1,14 @@
+{
+  "asn": 263919,
+  "handle": "POWERTECH-INFORMATICA",
+  "description": "POWERTECH INFORMATICA",
+  "subnets": {
+    "ipv4": [
+      "138.185.236.0/22",
+      "170.0.208.0/22"
+    ],
+    "ipv6": [
+      "2804:27bc::/32"
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "asn": 210107,
+  "handle": "PLUSWEB",
+  "description": "PLUSWEB SUNUCU INTERNET HIZMETLERI TICARET LIMITED SIRKETI",
+  "subnets": {
+    "ipv4": [
+      "181.214.153.0/24",
+      "193.36.60.0/23",
+      "194.1.184.0/24",
+      "194.1.192.0/24"
+    ],
+    "ipv6": [
+      "2a05:88c0::/29",
+      "2a07:d840::/29",
+      "2a0a:fa40::/29",
+      "2a0c:580::/29",
+      "2a0c:4a40::/29",
+      "2a0d:d380::/29",
+      "2a0f:c940::/29",
+      "2a10:4b40::/29"
+    ]
+  }
+}

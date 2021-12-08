@@ -1,0 +1,12 @@
+{
+  "asn": 53694,
+  "handle": "CABRINI",
+  "description": "Cabrini College",
+  "subnets": {
+    "ipv4": [
+      "8.225.195.0/24",
+      "204.124.115.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 52642,
+  "handle": "SN-BANDA-LARGA",
+  "description": "SN BANDA LARGA COMERCIO E TELECOMUNICACOES LTDA -",
+  "subnets": {
+    "ipv4": [
+      "177.125.28.0/22"
+    ],
+    "ipv6": [
+      "2804:d98::/32"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asn": 31489,
+  "handle": "PIB",
+  "description": "PJSC ProminvestBank",
+  "subnets": {
+    "ipv4": [
+      "83.137.88.0/21"
+    ],
+    "ipv6": []
+  }
+}

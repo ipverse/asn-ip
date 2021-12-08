@@ -1,0 +1,11 @@
+{
+  "asn": 327896,
+  "handle": "BIZVOIP",
+  "description": "BIZVOIP",
+  "subnets": {
+    "ipv4": [
+      "169.255.240.0/22"
+    ],
+    "ipv6": []
+  }
+}

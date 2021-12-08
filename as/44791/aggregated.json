@@ -1,0 +1,12 @@
+{
+  "asn": 44791,
+  "handle": "VCNETEU",
+  "description": "AVM Impact LTD",
+  "subnets": {
+    "ipv4": [
+      "93.93.208.0/21",
+      "188.65.248.0/21"
+    ],
+    "ipv6": []
+  }
+}

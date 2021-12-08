@@ -1,0 +1,13 @@
+{
+  "asn": 20943,
+  "handle": "NETNOD-LUL",
+  "description": "NETNOD Internet Exchange i Sverige AB",
+  "subnets": {
+    "ipv4": [
+      "194.68.134.0/24"
+    ],
+    "ipv6": [
+      "2001:67c:2558::/48"
+    ]
+  }
+}

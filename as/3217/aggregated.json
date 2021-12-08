@@ -1,0 +1,11 @@
+{
+  "asn": 3217,
+  "handle": "AVANTEL-SPB",
+  "description": "JSC Avantel",
+  "subnets": {
+    "ipv4": [
+      "185.218.68.0/23"
+    ],
+    "ipv6": []
+  }
+}

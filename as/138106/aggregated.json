@@ -1,0 +1,12 @@
+{
+  "asn": 138106,
+  "handle": "LTN-ID",
+  "description": "PT Lintas Telematika Nusantara",
+  "subnets": {
+    "ipv4": [
+      "103.126.9.0/24",
+      "103.126.10.0/23"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 3603,
+  "handle": "UNIVERSITY-DE-LOS-ANDES",
+  "description": "University de Los Andes",
+  "subnets": {
+    "ipv4": [
+      "157.253.0.0/16"
+    ],
+    "ipv6": [
+      "2800:2d0::/32"
+    ]
+  }
+}

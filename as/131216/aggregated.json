@@ -1,0 +1,13 @@
+{
+  "asn": 131216,
+  "handle": "AUTHENTICNETWORK-AP",
+  "description": "Authentic Network",
+  "subnets": {
+    "ipv4": [
+      "103.127.84.0/22"
+    ],
+    "ipv6": [
+      "2404:1d40::/32"
+    ]
+  }
+}

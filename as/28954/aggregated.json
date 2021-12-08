@@ -1,0 +1,15 @@
+{
+  "asn": 28954,
+  "handle": "HUDIKSVALL",
+  "description": "Hudiksvalls kommun",
+  "subnets": {
+    "ipv4": [
+      "80.86.64.0/20",
+      "194.127.130.0/23",
+      "194.127.152.0/23"
+    ],
+    "ipv6": [
+      "2a0a:5a00::/29"
+    ]
+  }
+}

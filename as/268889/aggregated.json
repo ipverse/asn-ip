@@ -1,0 +1,13 @@
+{
+  "asn": 268889,
+  "handle": "JUSTICA-FED-DE",
+  "description": "JUSTICA FED DE PRIM INST SECAO JUD DO CEARA",
+  "subnets": {
+    "ipv4": [
+      "45.175.23.0/24"
+    ],
+    "ipv6": [
+      "2801:80:3550::/48"
+    ]
+  }
+}

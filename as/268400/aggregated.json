@@ -1,0 +1,13 @@
+{
+  "asn": 268400,
+  "handle": "IRANTEC-INFORMATICA",
+  "description": "IRANTEC INFORMATICA",
+  "subnets": {
+    "ipv4": [
+      "45.160.112.0/22"
+    ],
+    "ipv6": [
+      "2804:50a0::/32"
+    ]
+  }
+}

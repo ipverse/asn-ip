@@ -1,0 +1,13 @@
+{
+  "asn": 200308,
+  "handle": "EMDYN",
+  "description": "Emerging Dynamics BV",
+  "subnets": {
+    "ipv4": [
+      "185.248.28.0/22"
+    ],
+    "ipv6": [
+      "2a0d:dd80::/29"
+    ]
+  }
+}

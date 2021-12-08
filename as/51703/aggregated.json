@@ -1,0 +1,13 @@
+{
+  "asn": 51703,
+  "handle": "BOYDAK",
+  "description": "Boydak Holding A.S.",
+  "subnets": {
+    "ipv4": [
+      "85.153.131.0/24",
+      "212.174.139.0/24",
+      "213.153.172.0/24"
+    ],
+    "ipv6": []
+  }
+}

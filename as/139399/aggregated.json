@@ -1,0 +1,11 @@
+{
+  "asn": 139399,
+  "handle": "IDNIC-PNN-ID",
+  "description": "PT Palapa Network Nusantara",
+  "subnets": {
+    "ipv4": [
+      "123.253.246.0/23"
+    ],
+    "ipv6": []
+  }
+}

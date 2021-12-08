@@ -1,0 +1,13 @@
+{
+  "asn": 10187,
+  "handle": "KISDI-KR-KR",
+  "description": "Korea Information Society Developement Institute",
+  "subnets": {
+    "ipv4": [
+      "103.125.108.0/22",
+      "211.34.110.0/23",
+      "211.34.112.0/24"
+    ],
+    "ipv6": []
+  }
+}

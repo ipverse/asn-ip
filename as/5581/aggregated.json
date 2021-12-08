@@ -1,0 +1,11 @@
+{
+  "asn": 5581,
+  "handle": "INTERSPACE-GLOBAL",
+  "description": "INTERSPACE DOOEL Skopje",
+  "subnets": {
+    "ipv4": [
+      "185.230.56.0/22"
+    ],
+    "ipv6": []
+  }
+}

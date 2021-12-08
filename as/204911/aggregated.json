@@ -1,0 +1,13 @@
+{
+  "asn": 204911,
+  "handle": "SYSTEMLOS",
+  "description": "Digitale Partizipation e.V.",
+  "subnets": {
+    "ipv4": [
+      "192.68.11.0/24"
+    ],
+    "ipv6": [
+      "2001:678:a40::/48"
+    ]
+  }
+}

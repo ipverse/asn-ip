@@ -1,0 +1,13 @@
+{
+  "asn": 270537,
+  "handle": "IDNETT-SERVICOS-DE",
+  "description": "IDNETT SERVICOS DE COMUNICAÇAO MULTIMIDIA LTDA",
+  "subnets": {
+    "ipv4": [
+      "189.84.40.0/22"
+    ],
+    "ipv6": [
+      "2804:6d80::/32"
+    ]
+  }
+}

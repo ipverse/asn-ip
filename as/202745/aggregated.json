@@ -1,0 +1,15 @@
+{
+  "asn": 202745,
+  "handle": "LINKEDIN",
+  "description": "LinkedIn Austria GmbH",
+  "subnets": {
+    "ipv4": [
+      "8.39.61.0/24",
+      "144.2.223.0/24",
+      "216.200.149.0/24"
+    ],
+    "ipv6": [
+      "2620:119:50be::/48"
+    ]
+  }
+}

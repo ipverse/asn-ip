@@ -1,0 +1,13 @@
+{
+  "asn": 264957,
+  "handle": "COOPERCITRUS-COOPERATIVA-DE",
+  "description": "Coopercitrus Cooperativa de Produtores Rurais",
+  "subnets": {
+    "ipv4": [
+      "170.0.0.0/22"
+    ],
+    "ipv6": [
+      "2804:1f22::/32"
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "asn": 264502,
+  "handle": "ZNET-TELECOM-LTDA",
+  "description": "ZNET TELECOM LTDA",
+  "subnets": {
+    "ipv4": [
+      "131.255.208.0/22",
+      "138.122.176.0/22",
+      "168.227.92.0/22"
+    ],
+    "ipv6": [
+      "2804:20a0::/32"
+    ]
+  }
+}

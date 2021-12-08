@@ -1,0 +1,13 @@
+{
+  "asn": 57979,
+  "handle": "ES-WIFEX",
+  "description": "WIFI EXTREMENA,S.L",
+  "subnets": {
+    "ipv4": [
+      "185.84.128.0/22",
+      "185.251.92.0/22",
+      "188.119.72.0/22"
+    ],
+    "ipv6": []
+  }
+}

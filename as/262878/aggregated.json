@@ -1,0 +1,11 @@
+{
+  "asn": 262878,
+  "handle": "APN-PROCESSAMENTO-DE",
+  "description": "Apn - Processamento de Dados e Soluçoes em Interne",
+  "subnets": {
+    "ipv4": [
+      "177.11.144.0/21"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asn": 51142,
+  "handle": "EXPRESSNETWORK",
+  "description": "LLC Ekspres Netvork",
+  "subnets": {
+    "ipv4": [
+      "185.189.208.0/23"
+    ],
+    "ipv6": []
+  }
+}

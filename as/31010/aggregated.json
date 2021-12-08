@@ -1,0 +1,13 @@
+{
+  "asn": 31010,
+  "handle": "DTH",
+  "description": "Dennis Thomas",
+  "subnets": {
+    "ipv4": [
+      "91.212.85.0/24"
+    ],
+    "ipv6": [
+      "2001:678:598::/48"
+    ]
+  }
+}

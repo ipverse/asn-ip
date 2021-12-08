@@ -1,0 +1,13 @@
+{
+  "asn": 48446,
+  "handle": "HOSTERSI",
+  "description": "Hostersi Sp. z o.o.",
+  "subnets": {
+    "ipv4": [
+      "91.201.152.0/22"
+    ],
+    "ipv6": [
+      "2a02:c47:4::/48"
+    ]
+  }
+}

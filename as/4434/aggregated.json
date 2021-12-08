@@ -1,0 +1,13 @@
+{
+  "asn": 4434,
+  "handle": "ERX-RADNET1",
+  "description": "PT Rahajasa Media Internet",
+  "subnets": {
+    "ipv4": [
+      "202.154.0.0/18"
+    ],
+    "ipv6": [
+      "2401:5400::/32"
+    ]
+  }
+}

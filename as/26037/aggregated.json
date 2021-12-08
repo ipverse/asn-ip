@@ -1,0 +1,12 @@
+{
+  "asn": 26037,
+  "handle": "RED-DEER-COLLEGE",
+  "description": "Red Deer College",
+  "subnets": {
+    "ipv4": [
+      "192.139.36.0/24",
+      "204.209.16.0/22"
+    ],
+    "ipv6": []
+  }
+}

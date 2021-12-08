@@ -1,0 +1,11 @@
+{
+  "asn": 141033,
+  "handle": "PRANTAENTERPRISE-AP",
+  "description": "Pranta Enterprise",
+  "subnets": {
+    "ipv4": [
+      "103.155.27.0/24"
+    ],
+    "ipv6": []
+  }
+}

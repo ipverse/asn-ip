@@ -1,0 +1,13 @@
+{
+  "asn": 58042,
+  "handle": "BONCH",
+  "description": "State Educational Institution of Higher Vocational Education The Bonch-Bruevich Saint-Petersburg State University of Telecommunications",
+  "subnets": {
+    "ipv4": [
+      "91.238.228.0/22"
+    ],
+    "ipv6": [
+      "2001:67c:13f0::/48"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asn": 139988,
+  "handle": "FLYNET-ID",
+  "description": "PT. GARUDA PRIMA INTERNETINDO",
+  "subnets": {
+    "ipv4": [
+      "103.148.100.0/23"
+    ],
+    "ipv6": []
+  }
+}

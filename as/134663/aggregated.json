@@ -1,0 +1,13 @@
+{
+  "asn": 134663,
+  "handle": "NEUROTENPTELTD-AP",
+  "description": "NeuroTEN Pte Ltd",
+  "subnets": {
+    "ipv4": [
+      "103.76.124.0/24"
+    ],
+    "ipv6": [
+      "2001:df5:7a00::/48"
+    ]
+  }
+}

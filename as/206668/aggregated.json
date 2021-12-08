@@ -1,0 +1,12 @@
+{
+  "asn": 206668,
+  "handle": "MARKETTV",
+  "description": "TVTORG JSC",
+  "subnets": {
+    "ipv4": [
+      "185.179.124.0/23",
+      "185.179.126.0/24"
+    ],
+    "ipv6": []
+  }
+}

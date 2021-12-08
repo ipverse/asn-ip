@@ -1,0 +1,11 @@
+{
+  "asn": 45318,
+  "handle": "IDNIC-ITERA-ID",
+  "description": "Institut Teknologi Sumatera",
+  "subnets": {
+    "ipv4": [
+      "103.211.143.0/24"
+    ],
+    "ipv6": []
+  }
+}

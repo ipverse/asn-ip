@@ -1,0 +1,13 @@
+{
+  "asn": 48641,
+  "handle": "SYNTEGRA",
+  "description": "Syntegra Telecom LLC",
+  "subnets": {
+    "ipv4": [
+      "31.133.96.0/23"
+    ],
+    "ipv6": [
+      "2a04:d040::/29"
+    ]
+  }
+}

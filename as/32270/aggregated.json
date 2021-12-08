@@ -1,0 +1,13 @@
+{
+  "asn": 32270,
+  "handle": "LDTEL",
+  "description": "LD Telecommunications, Inc.",
+  "subnets": {
+    "ipv4": [
+      "64.94.50.0/24",
+      "74.117.24.0/21",
+      "208.65.92.0/22"
+    ],
+    "ipv6": []
+  }
+}

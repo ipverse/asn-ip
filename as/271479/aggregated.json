@@ -1,0 +1,13 @@
+{
+  "asn": 271479,
+  "handle": "KF-TELECOM",
+  "description": "KF TELECOM",
+  "subnets": {
+    "ipv4": [
+      "200.4.108.0/22"
+    ],
+    "ipv6": [
+      "2804:7c28::/32"
+    ]
+  }
+}

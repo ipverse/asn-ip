@@ -1,0 +1,15 @@
+{
+  "asn": 262145,
+  "handle": "COOPERATIVA-DE-ELECTRIFICACION",
+  "description": "Cooperativa de Electrificación Rural de San Carlos R.L. (Coopelesca R.L.)",
+  "subnets": {
+    "ipv4": [
+      "143.208.168.0/22",
+      "168.228.48.0/22",
+      "190.211.96.0/19"
+    ],
+    "ipv6": [
+      "2803:5840::/32"
+    ]
+  }
+}

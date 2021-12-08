@@ -1,0 +1,11 @@
+{
+  "asn": 60811,
+  "handle": "SAIPAYADAK",
+  "description": "Saipa Yadak Co. PLC",
+  "subnets": {
+    "ipv4": [
+      "5.160.192.0/23"
+    ],
+    "ipv6": []
+  }
+}

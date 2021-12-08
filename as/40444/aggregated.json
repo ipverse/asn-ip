@@ -1,0 +1,13 @@
+{
+  "asn": 40444,
+  "handle": "CC",
+  "description": "Constant Contact, Inc",
+  "subnets": {
+    "ipv4": [
+      "64.17.128.0/24",
+      "205.207.104.0/22",
+      "208.75.122.0/23"
+    ],
+    "ipv6": []
+  }
+}

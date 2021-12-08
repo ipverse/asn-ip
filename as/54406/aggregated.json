@@ -1,0 +1,13 @@
+{
+  "asn": 54406,
+  "handle": "CONVERMAX",
+  "description": "Convermax Corp",
+  "subnets": {
+    "ipv4": [
+      "64.4.174.0/24"
+    ],
+    "ipv6": [
+      "2620:9c:2000::/48"
+    ]
+  }
+}

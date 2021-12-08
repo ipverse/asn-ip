@@ -1,0 +1,12 @@
+{
+  "asn": 26945,
+  "handle": "AMRI",
+  "description": "Albany Molecular Research, Inc.",
+  "subnets": {
+    "ipv4": [
+      "66.109.43.0/24",
+      "74.201.149.0/24"
+    ],
+    "ipv6": []
+  }
+}

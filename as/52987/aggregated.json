@@ -1,0 +1,13 @@
+{
+  "asn": 52987,
+  "handle": "FYBERNET-TELEINFORMATICA-LTDA",
+  "description": "Fybernet Teleinformatica Ltda",
+  "subnets": {
+    "ipv4": [
+      "177.52.224.0/21"
+    ],
+    "ipv6": [
+      "2804:494::/32"
+    ]
+  }
+}

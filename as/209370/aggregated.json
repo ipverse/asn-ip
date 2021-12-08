@@ -1,0 +1,13 @@
+{
+  "asn": 209370,
+  "handle": "TELCIANX",
+  "description": "TELCIA COMUNICACIONES S.L.",
+  "subnets": {
+    "ipv4": [
+      "176.222.26.0/24",
+      "176.222.31.0/24",
+      "185.31.236.0/22"
+    ],
+    "ipv6": []
+  }
+}

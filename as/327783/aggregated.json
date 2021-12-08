@@ -1,0 +1,14 @@
+{
+  "asn": 327783,
+  "handle": "SMILE-COMMUNICATION",
+  "description": "Smile Communications (Pty) Ltd",
+  "subnets": {
+    "ipv4": [
+      "154.73.68.0/23",
+      "154.73.70.0/24",
+      "160.242.128.0/21",
+      "169.159.64.0/18"
+    ],
+    "ipv6": []
+  }
+}

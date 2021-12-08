@@ -1,0 +1,13 @@
+{
+  "asn": 61774,
+  "handle": "PROVEDOR-NEWNET",
+  "description": "PROVEDOR NEWNET",
+  "subnets": {
+    "ipv4": [
+      "200.225.136.0/22"
+    ],
+    "ipv6": [
+      "2804:1924::/32"
+    ]
+  }
+}

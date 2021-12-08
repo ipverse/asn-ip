@@ -1,0 +1,14 @@
+{
+  "asn": 39293,
+  "handle": "RTCENTER",
+  "description": "JSC RT Center",
+  "subnets": {
+    "ipv4": [
+      "195.248.236.0/23"
+    ],
+    "ipv6": [
+      "2001:67c:244c::/48",
+      "2a01:a1e0:1::/48"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 48431,
+  "handle": "MAXNET",
+  "description": "Bozorg Net-e Aria",
+  "subnets": {
+    "ipv4": [
+      "95.80.128.0/18",
+      "185.57.132.0/22"
+    ],
+    "ipv6": []
+  }
+}

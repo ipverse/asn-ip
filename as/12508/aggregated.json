@@ -1,0 +1,12 @@
+{
+  "asn": 12508,
+  "handle": "RAINSIDE-SRO",
+  "description": "Rainside s.r.o.",
+  "subnets": {
+    "ipv4": [
+      "164.40.168.0/23",
+      "212.89.224.0/19"
+    ],
+    "ipv6": []
+  }
+}

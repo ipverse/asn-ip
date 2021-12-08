@@ -1,0 +1,13 @@
+{
+  "asn": 213110,
+  "handle": "FR-COTICE",
+  "description": "Association Cotice",
+  "subnets": {
+    "ipv4": [
+      "193.169.46.0/24"
+    ],
+    "ipv6": [
+      "2a0f:b104::/48"
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 25009,
+  "handle": "GRAAL",
+  "description": "Graal Network S.a.R.L.",
+  "subnets": {
+    "ipv4": [
+      "82.96.128.0/18",
+      "185.21.112.0/22"
+    ],
+    "ipv6": [
+      "2a03:240::/32"
+    ]
+  }
+}

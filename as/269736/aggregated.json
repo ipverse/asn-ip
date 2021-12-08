@@ -1,0 +1,13 @@
+{
+  "asn": 269736,
+  "handle": "PACIFIC-NETWORK-COMMUNICATION",
+  "description": "PACIFIC NETWORK COMMUNICATION S.A.",
+  "subnets": {
+    "ipv4": [
+      "45.181.68.0/22"
+    ],
+    "ipv6": [
+      "2803:8960::/32"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 208163,
+  "handle": "STUTTGARTER-VERSICHERUNG",
+  "description": "Stuttgarter Versicherung Holding Aktiengesellschaft",
+  "subnets": {
+    "ipv4": [
+      "45.152.204.0/22"
+    ],
+    "ipv6": [
+      "2a0f:f300::/29"
+    ]
+  }
+}

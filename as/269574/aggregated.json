@@ -1,0 +1,13 @@
+{
+  "asn": 269574,
+  "handle": "SMART-NET",
+  "description": "Smart Net",
+  "subnets": {
+    "ipv4": [
+      "45.189.88.0/22"
+    ],
+    "ipv6": [
+      "2804:66a8::/32"
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 21691,
+  "handle": "TMCC-2",
+  "description": "Toyota Motor Credit Corporation",
+  "subnets": {
+    "ipv4": [
+      "8.18.96.0/23",
+      "8.20.50.0/23",
+      "64.95.109.0/24",
+      "209.249.200.0/24"
+    ],
+    "ipv6": []
+  }
+}

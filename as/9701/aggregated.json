@@ -1,0 +1,12 @@
+{
+  "asn": 9701,
+  "handle": "VIAWEB-KR-KR",
+  "description": "viaweb",
+  "subnets": {
+    "ipv4": [
+      "103.194.253.0/24",
+      "103.194.254.0/23"
+    ],
+    "ipv6": []
+  }
+}

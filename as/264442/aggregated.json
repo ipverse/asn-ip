@@ -1,0 +1,13 @@
+{
+  "asn": 264442,
+  "handle": "TAMAR-COMERCIO-E",
+  "description": "Tamar Comercio e Equipamentos para Informática Ltd",
+  "subnets": {
+    "ipv4": [
+      "131.221.192.0/22"
+    ],
+    "ipv6": [
+      "2804:1ea8::/32"
+    ]
+  }
+}

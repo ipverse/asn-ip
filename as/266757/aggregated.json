@@ -1,0 +1,14 @@
+{
+  "asn": 266757,
+  "handle": "SATELITAL-TELECOMUNICACIONES-SAC",
+  "description": "SATELITAL TELECOMUNICACIONES S.A.C",
+  "subnets": {
+    "ipv4": [
+      "45.5.56.0/22",
+      "45.232.148.0/22",
+      "191.97.59.0/24",
+      "191.97.62.0/24"
+    ],
+    "ipv6": []
+  }
+}

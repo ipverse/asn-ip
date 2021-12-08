@@ -1,0 +1,13 @@
+{
+  "asn": 271118,
+  "handle": "RRG-TELECOM-LTDA",
+  "description": "RRG TELECOM LTDA",
+  "subnets": {
+    "ipv4": [
+      "179.48.148.0/22"
+    ],
+    "ipv6": [
+      "2804:7688::/32"
+    ]
+  }
+}

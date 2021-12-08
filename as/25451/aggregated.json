@@ -1,0 +1,13 @@
+{
+  "asn": 25451,
+  "handle": "RUNTT",
+  "description": "LLC NTT Russia",
+  "subnets": {
+    "ipv4": [
+      "185.105.48.0/22"
+    ],
+    "ipv6": [
+      "2a00:4600::/32"
+    ]
+  }
+}

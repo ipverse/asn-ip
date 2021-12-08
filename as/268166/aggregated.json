@@ -1,0 +1,13 @@
+{
+  "asn": 268166,
+  "handle": "POINT-TELECOM-SERVICOS-LTDA",
+  "description": "POINT TELECOM SERVIÇOS LTDA",
+  "subnets": {
+    "ipv4": [
+      "45.170.180.0/22"
+    ],
+    "ipv6": [
+      "2804:590c::/32"
+    ]
+  }
+}

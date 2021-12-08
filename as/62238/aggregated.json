@@ -1,0 +1,13 @@
+{
+  "asn": 62238,
+  "handle": "SINAICT",
+  "description": "Sina Electronic Development Company (PJS)",
+  "subnets": {
+    "ipv4": [
+      "37.148.248.0/22"
+    ],
+    "ipv6": [
+      "2a05:3100::/29"
+    ]
+  }
+}

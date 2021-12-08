@@ -1,0 +1,11 @@
+{
+  "asn": 142580,
+  "handle": "EOPL-AP",
+  "description": "Edgevirt",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2001:550:2607::/48"
+    ]
+  }
+}

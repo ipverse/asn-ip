@@ -1,0 +1,14 @@
+{
+  "asn": 400209,
+  "handle": "STYGLERIT",
+  "description": "StyglerIT, LLC",
+  "subnets": {
+    "ipv4": [
+      "23.92.48.0/23",
+      "23.249.226.0/23"
+    ],
+    "ipv6": [
+      "2606:8d40::/32"
+    ]
+  }
+}

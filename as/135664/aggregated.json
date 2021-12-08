@@ -1,0 +1,13 @@
+{
+  "asn": 135664,
+  "handle": "GCX-AP",
+  "description": "GLOBAL CLOUD EXCHANGE Co., Ltd.",
+  "subnets": {
+    "ipv4": [
+      "103.78.128.0/22"
+    ],
+    "ipv6": [
+      "2407:c180::/32"
+    ]
+  }
+}

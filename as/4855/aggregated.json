@@ -1,0 +1,12 @@
+{
+  "asn": 4855,
+  "handle": "PI-ID-AP",
+  "description": "Pacific Link Indonesia",
+  "subnets": {
+    "ipv4": [
+      "202.46.64.0/19",
+      "203.123.224.0/19"
+    ],
+    "ipv6": []
+  }
+}

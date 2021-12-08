@@ -1,0 +1,14 @@
+{
+  "asn": 262514,
+  "handle": "TELECOMDADOS-LTDA",
+  "description": "TelecomDados Ltda",
+  "subnets": {
+    "ipv4": [
+      "170.80.64.0/22",
+      "177.55.176.0/20"
+    ],
+    "ipv6": [
+      "2804:568::/32"
+    ]
+  }
+}

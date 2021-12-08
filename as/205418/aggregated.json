@@ -1,0 +1,13 @@
+{
+  "asn": 205418,
+  "handle": "MOZILLA-PARIS",
+  "description": "Mozilla Corporation",
+  "subnets": {
+    "ipv4": [
+      "185.155.183.0/24"
+    ],
+    "ipv6": [
+      "2a00:8c40:235::/48"
+    ]
+  }
+}

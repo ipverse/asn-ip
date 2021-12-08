@@ -1,0 +1,13 @@
+{
+  "asn": 132804,
+  "handle": "SINGTEL-SCSGBDK3",
+  "description": "Singapore Telecommunications Limited",
+  "subnets": {
+    "ipv4": [
+      "103.2.106.0/24"
+    ],
+    "ipv6": [
+      "2404:e600::/48"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 394025,
+  "handle": "ATHOME",
+  "description": "At Home Stores LLC",
+  "subnets": {
+    "ipv4": [
+      "192.149.115.0/24",
+      "199.227.112.0/24"
+    ],
+    "ipv6": []
+  }
+}

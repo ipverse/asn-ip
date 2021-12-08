@@ -1,0 +1,13 @@
+{
+  "asn": 269618,
+  "handle": "LINK-UNIAO-TELECOM-EIRELI-ME",
+  "description": "Link Uniao Telecom EIRELI - ME",
+  "subnets": {
+    "ipv4": [
+      "45.190.24.0/22"
+    ],
+    "ipv6": [
+      "2804:6748::/32"
+    ]
+  }
+}

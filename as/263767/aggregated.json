@@ -1,0 +1,12 @@
+{
+  "asn": 263767,
+  "handle": "CORPORACION-GALA-IT-CA",
+  "description": "CORPORACIÓN GALA IT, C.A.",
+  "subnets": {
+    "ipv4": [
+      "167.250.48.0/23",
+      "167.250.51.0/24"
+    ],
+    "ipv6": []
+  }
+}

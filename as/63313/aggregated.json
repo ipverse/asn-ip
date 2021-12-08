@@ -1,0 +1,13 @@
+{
+  "asn": 63313,
+  "handle": "NCD",
+  "description": "NameCentral, Inc.",
+  "subnets": {
+    "ipv4": [
+      "104.245.120.0/22"
+    ],
+    "ipv6": [
+      "2605:d680::/32"
+    ]
+  }
+}

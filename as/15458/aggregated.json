@@ -1,0 +1,12 @@
+{
+  "asn": 15458,
+  "handle": "TLC",
+  "description": "TriLogiC Group, Ltd.",
+  "subnets": {
+    "ipv4": [
+      "195.38.16.0/23",
+      "195.38.18.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 8647,
+  "handle": "IP-PORT",
+  "description": "IP Port LLC",
+  "subnets": {
+    "ipv4": [
+      "185.23.164.0/22",
+      "193.200.175.0/24"
+    ],
+    "ipv6": [
+      "2a0f:3a00::/29"
+    ]
+  }
+}

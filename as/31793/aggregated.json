@@ -1,0 +1,13 @@
+{
+  "asn": 31793,
+  "handle": "HOTWI-PRIMECAST",
+  "description": "Hotwire Communications",
+  "subnets": {
+    "ipv4": [
+      "8.14.60.0/24",
+      "8.27.125.0/24",
+      "170.250.104.0/23"
+    ],
+    "ipv6": []
+  }
+}

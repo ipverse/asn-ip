@@ -1,0 +1,16 @@
+{
+  "asn": 262993,
+  "handle": "LANTECA-TELECOM-LTDA-ME",
+  "description": "Lanteca Telecom LTDA - ME",
+  "subnets": {
+    "ipv4": [
+      "131.72.172.0/22",
+      "138.122.220.0/22",
+      "170.84.244.0/22",
+      "186.251.72.0/21"
+    ],
+    "ipv6": [
+      "2804:1b80::/32"
+    ]
+  }
+}

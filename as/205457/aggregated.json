@@ -1,0 +1,13 @@
+{
+  "asn": 205457,
+  "handle": "NETSERVICE",
+  "description": "Priorgame, S.L.",
+  "subnets": {
+    "ipv4": [
+      "89.39.216.0/21",
+      "89.42.120.0/21",
+      "185.216.128.0/22"
+    ],
+    "ipv6": []
+  }
+}

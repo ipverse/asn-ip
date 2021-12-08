@@ -1,0 +1,13 @@
+{
+  "asn": 134177,
+  "handle": "RBPL-IN",
+  "description": "Rural Broadband Pvt. Ltd",
+  "subnets": {
+    "ipv4": [
+      "45.113.64.0/22",
+      "103.52.208.0/22",
+      "203.26.234.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 268687,
+  "handle": "V1-TECNOLOGIA",
+  "description": "V1 Tecnologia",
+  "subnets": {
+    "ipv4": [
+      "45.165.140.0/22"
+    ],
+    "ipv6": [
+      "2804:5510::/32"
+    ]
+  }
+}

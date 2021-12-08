@@ -1,0 +1,13 @@
+{
+  "asn": 137324,
+  "handle": "IDNIC-METROCOM-ID",
+  "description": "PT Metrocom Indonesia",
+  "subnets": {
+    "ipv4": [
+      "103.111.162.0/24",
+      "103.120.139.0/24",
+      "103.120.154.0/23"
+    ],
+    "ipv6": []
+  }
+}

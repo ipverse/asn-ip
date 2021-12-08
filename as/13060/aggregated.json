@@ -1,0 +1,11 @@
+{
+  "asn": 13060,
+  "handle": "BASICNET",
+  "description": "Basic Net SpA",
+  "subnets": {
+    "ipv4": [
+      "194.153.131.0/24"
+    ],
+    "ipv6": []
+  }
+}

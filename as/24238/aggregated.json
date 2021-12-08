@@ -1,0 +1,11 @@
+{
+  "asn": 24238,
+  "handle": "DEDICATED-SERVERS-BNE-AP",
+  "description": "Servers Australia Pty. Ltd",
+  "subnets": {
+    "ipv4": [
+      "203.26.192.0/22"
+    ],
+    "ipv6": []
+  }
+}

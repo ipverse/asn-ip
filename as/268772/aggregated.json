@@ -1,0 +1,13 @@
+{
+  "asn": 268772,
+  "handle": "FAST-FIBER-CONNECTION",
+  "description": "fast fiber connection",
+  "subnets": {
+    "ipv4": [
+      "45.172.180.0/22"
+    ],
+    "ipv6": [
+      "2804:5a6c::/32"
+    ]
+  }
+}

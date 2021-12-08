@@ -1,0 +1,14 @@
+{
+  "asn": 41707,
+  "handle": "HSDG-DE",
+  "description": "Hamburg Suedamerikanische Dampfschifffahrts-Gesellschaft KG",
+  "subnets": {
+    "ipv4": [
+      "62.44.32.0/22",
+      "62.44.38.0/23",
+      "62.44.40.0/22",
+      "62.44.46.0/23"
+    ],
+    "ipv6": []
+  }
+}

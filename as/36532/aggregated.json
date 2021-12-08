@@ -1,0 +1,11 @@
+{
+  "asn": 36532,
+  "handle": "EXIM",
+  "description": "Export Import Bank of the U.S",
+  "subnets": {
+    "ipv4": [
+      "208.68.151.0/24"
+    ],
+    "ipv6": []
+  }
+}

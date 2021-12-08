@@ -1,0 +1,11 @@
+{
+  "asn": 132253,
+  "handle": "CPFBOARD-SG",
+  "description": "CPF Board",
+  "subnets": {
+    "ipv4": [
+      "103.8.212.0/23"
+    ],
+    "ipv6": []
+  }
+}

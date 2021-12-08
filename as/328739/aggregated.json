@@ -1,0 +1,13 @@
+{
+  "asn": 328739,
+  "handle": "KENYA-PORTS-AUTHORITY",
+  "description": "KENYA PORTS AUTHORITY",
+  "subnets": {
+    "ipv4": [
+      "154.115.160.0/19"
+    ],
+    "ipv6": [
+      "2001:43f8:1000::/48"
+    ]
+  }
+}

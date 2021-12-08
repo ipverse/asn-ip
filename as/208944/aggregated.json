@@ -1,0 +1,13 @@
+{
+  "asn": 208944,
+  "handle": "KM",
+  "description": "Qatar General Electricty and Water Corporation",
+  "subnets": {
+    "ipv4": [
+      "5.180.36.0/23"
+    ],
+    "ipv6": [
+      "2a09:3740::/29"
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 23336,
+  "handle": "SOLIDSPACE",
+  "description": "SolidSpace LLC",
+  "subnets": {
+    "ipv4": [
+      "66.23.240.0/20",
+      "67.218.192.0/20"
+    ],
+    "ipv6": [
+      "2607:5f80::/32"
+    ]
+  }
+}

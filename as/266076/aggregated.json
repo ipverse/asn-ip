@@ -1,0 +1,13 @@
+{
+  "asn": 266076,
+  "handle": "D-NET-SOLUCOES-E-FIBRA-OPTICA",
+  "description": "D-Net Soluções e Fibra Óptica",
+  "subnets": {
+    "ipv4": [
+      "45.4.240.0/22"
+    ],
+    "ipv6": [
+      "2804:3a30::/32"
+    ]
+  }
+}

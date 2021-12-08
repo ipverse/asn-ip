@@ -1,0 +1,13 @@
+{
+  "asn": 208545,
+  "handle": "SECTOR7",
+  "description": "sector7 GmbH",
+  "subnets": {
+    "ipv4": [
+      "195.8.245.0/24"
+    ],
+    "ipv6": [
+      "2a01:170:1050::/48"
+    ]
+  }
+}

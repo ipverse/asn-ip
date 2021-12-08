@@ -1,0 +1,11 @@
+{
+  "asn": 24434,
+  "handle": "JCU-AP",
+  "description": "Australian Academic and Research Network",
+  "subnets": {
+    "ipv4": [
+      "137.219.0.0/16"
+    ],
+    "ipv6": []
+  }
+}

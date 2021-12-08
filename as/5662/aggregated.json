@@ -1,0 +1,15 @@
+{
+  "asn": 5662,
+  "handle": "WM",
+  "description": "Turner Broadcasting System, Inc.",
+  "subnets": {
+    "ipv4": [
+      "157.166.146.0/23",
+      "157.166.224.0/19",
+      "198.81.230.0/24"
+    ],
+    "ipv6": [
+      "2620:100:e000::/47"
+    ]
+  }
+}

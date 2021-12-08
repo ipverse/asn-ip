@@ -1,0 +1,13 @@
+{
+  "asn": 397016,
+  "handle": "HAWKEYE-TELEPHONE-COMPANY",
+  "description": "Hawkeye Telephone Company",
+  "subnets": {
+    "ipv4": [
+      "74.81.160.0/21",
+      "167.142.123.0/24",
+      "173.215.54.0/24"
+    ],
+    "ipv6": []
+  }
+}

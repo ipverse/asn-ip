@@ -1,0 +1,13 @@
+{
+  "asn": 271120,
+  "handle": "INFONET-TELECOM-COM",
+  "description": "INFONET TELECOM COM E SERVICOS DE INTERNET LTDA",
+  "subnets": {
+    "ipv4": [
+      "179.48.192.0/22"
+    ],
+    "ipv6": [
+      "2804:7690::/33"
+    ]
+  }
+}

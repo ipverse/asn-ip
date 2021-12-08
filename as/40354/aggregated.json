@@ -1,0 +1,12 @@
+{
+  "asn": 40354,
+  "handle": "LOCKTONKC-INTERNET",
+  "description": "Lockton Companies",
+  "subnets": {
+    "ipv4": [
+      "173.198.135.0/24",
+      "173.198.149.0/24"
+    ],
+    "ipv6": []
+  }
+}

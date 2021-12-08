@@ -1,0 +1,12 @@
+{
+  "asn": 60839,
+  "handle": "VID-MEDIA",
+  "description": "Vid Media Ltd.",
+  "subnets": {
+    "ipv4": [
+      "95.47.124.0/23",
+      "178.216.123.0/24"
+    ],
+    "ipv6": []
+  }
+}

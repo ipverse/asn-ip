@@ -1,0 +1,12 @@
+{
+  "asn": 45656,
+  "handle": "BEELINE-KH",
+  "description": "Sotelco Co, Ltd",
+  "subnets": {
+    "ipv4": [
+      "103.54.112.0/24",
+      "103.54.114.0/24"
+    ],
+    "ipv6": []
+  }
+}

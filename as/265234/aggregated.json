@@ -1,0 +1,14 @@
+{
+  "asn": 265234,
+  "handle": "N-MULTIMIDIA-TELECOMUNICACOES",
+  "description": "N-MULTIMIDIA TELECOMUNICACOES LTDA - ME",
+  "subnets": {
+    "ipv4": [
+      "45.172.68.0/22",
+      "168.0.96.0/22"
+    ],
+    "ipv6": [
+      "2804:2cac::/32"
+    ]
+  }
+}

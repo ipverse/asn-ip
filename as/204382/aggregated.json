@@ -1,0 +1,13 @@
+{
+  "asn": 204382,
+  "handle": "ANNATEL-FR",
+  "description": "Annatel Telecom SARL",
+  "subnets": {
+    "ipv4": [
+      "185.250.176.0/22"
+    ],
+    "ipv6": [
+      "2a0c:1040::/29"
+    ]
+  }
+}

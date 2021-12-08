@@ -1,0 +1,11 @@
+{
+  "asn": 140453,
+  "handle": "IDNIC-CIREBONPOWER-ID",
+  "description": "PT Cirebon Energi Prasarana",
+  "subnets": {
+    "ipv4": [
+      "103.153.31.0/24"
+    ],
+    "ipv6": []
+  }
+}

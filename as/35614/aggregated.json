@@ -1,0 +1,14 @@
+{
+  "asn": 35614,
+  "handle": "THERECOMLTD",
+  "description": "Therecom Ltd",
+  "subnets": {
+    "ipv4": [
+      "94.124.166.0/24",
+      "193.105.7.0/24"
+    ],
+    "ipv6": [
+      "2a0c:29c0::/32"
+    ]
+  }
+}

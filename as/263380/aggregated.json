@@ -1,0 +1,13 @@
+{
+  "asn": 263380,
+  "handle": "EASYNET-WORK-LIMITADA",
+  "description": "EasyNet Work Limitada",
+  "subnets": {
+    "ipv4": [
+      "177.74.112.0/21"
+    ],
+    "ipv6": [
+      "2804:1540::/32"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 134912,
+  "handle": "CSPL",
+  "description": "Comtel Services Pvt Ltd",
+  "subnets": {
+    "ipv4": [
+      "103.69.169.0/24",
+      "103.69.170.0/23"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 56043,
+  "handle": "PEPSI-SG",
+  "description": "PepsiCo International",
+  "subnets": {
+    "ipv4": [
+      "165.197.64.0/22",
+      "165.197.216.0/21"
+    ],
+    "ipv6": []
+  }
+}

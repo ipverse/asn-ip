@@ -1,0 +1,13 @@
+{
+  "asn": 265862,
+  "handle": "BM-SOLUCIONES-SRL",
+  "description": "BM SOLUCIONES S.R.L.",
+  "subnets": {
+    "ipv4": [
+      "45.224.188.0/23",
+      "45.224.190.0/24",
+      "45.225.216.0/23"
+    ],
+    "ipv6": []
+  }
+}

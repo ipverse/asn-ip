@@ -1,0 +1,13 @@
+{
+  "asn": 212760,
+  "handle": "RIGUEL",
+  "description": "Eric Fleury",
+  "subnets": {
+    "ipv4": [
+      "44.151.128.0/24"
+    ],
+    "ipv6": [
+      "2001:67c:112c::/48"
+    ]
+  }
+}

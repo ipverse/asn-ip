@@ -1,0 +1,12 @@
+{
+  "asn": 393462,
+  "handle": "IDS-I2-LEVEL3",
+  "description": "IDSolutions",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2620:129:f000::/48",
+      "2620:129:f003::/48"
+    ]
+  }
+}

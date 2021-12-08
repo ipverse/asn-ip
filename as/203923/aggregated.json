@@ -1,0 +1,12 @@
+{
+  "asn": 203923,
+  "handle": "WSMEDIAEU",
+  "description": "World Streamedia, Inc.",
+  "subnets": {
+    "ipv4": [
+      "185.119.220.0/24",
+      "185.119.222.0/24"
+    ],
+    "ipv6": []
+  }
+}

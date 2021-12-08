@@ -1,0 +1,12 @@
+{
+  "asn": 61018,
+  "handle": "PVH",
+  "description": "Tommy Hilfiger B.V.",
+  "subnets": {
+    "ipv4": [
+      "64.250.22.0/23",
+      "185.19.103.0/24"
+    ],
+    "ipv6": []
+  }
+}

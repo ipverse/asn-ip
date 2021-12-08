@@ -1,0 +1,13 @@
+{
+  "asn": 52535,
+  "handle": "ELONET-PROVEDOR-DE",
+  "description": "Elonet Provedor de Internet Ltda",
+  "subnets": {
+    "ipv4": [
+      "177.152.88.0/21"
+    ],
+    "ipv6": [
+      "2804:e04::/32"
+    ]
+  }
+}

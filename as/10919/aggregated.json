@@ -1,0 +1,11 @@
+{
+  "asn": 10919,
+  "handle": "TROYFP",
+  "description": "Troy Corporation",
+  "subnets": {
+    "ipv4": [
+      "74.122.48.0/24"
+    ],
+    "ipv6": []
+  }
+}

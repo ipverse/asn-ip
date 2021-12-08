@@ -1,0 +1,11 @@
+{
+  "asn": 266204,
+  "handle": "SIM-BRAZIL-TELECOM",
+  "description": "SIM BRAZIL TELECOM",
+  "subnets": {
+    "ipv4": [
+      "190.123.196.0/22"
+    ],
+    "ipv6": []
+  }
+}

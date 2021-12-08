@@ -1,0 +1,13 @@
+{
+  "asn": 142421,
+  "handle": "SKIF-AP",
+  "description": "SKIF Enterprises Private Limited",
+  "subnets": {
+    "ipv4": [
+      "103.168.40.0/23"
+    ],
+    "ipv6": [
+      "2001:df6:cc80::/48"
+    ]
+  }
+}

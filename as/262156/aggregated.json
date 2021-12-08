@@ -1,0 +1,13 @@
+{
+  "asn": 262156,
+  "handle": "UNIVERSIDAD-NACIONAL-DE",
+  "description": "Universidad Nacional de Rosario",
+  "subnets": {
+    "ipv4": [
+      "200.3.120.0/21"
+    ],
+    "ipv6": [
+      "2801:0:220::/44"
+    ]
+  }
+}

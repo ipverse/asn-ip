@@ -1,0 +1,13 @@
+{
+  "asn": 395987,
+  "handle": "CSE-MORRISTOWN",
+  "description": "College of St. Elizabeth",
+  "subnets": {
+    "ipv4": [
+      "130.156.42.0/24",
+      "160.72.108.0/24",
+      "192.108.16.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 267229,
+  "handle": "DG-TELECOM-SERVICOS",
+  "description": "DG Telecom Serviços de Telecomunicações LTDA",
+  "subnets": {
+    "ipv4": [
+      "45.231.244.0/22"
+    ],
+    "ipv6": [
+      "2804:4a48::/32"
+    ]
+  }
+}

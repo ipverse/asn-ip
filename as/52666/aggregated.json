@@ -1,0 +1,15 @@
+{
+  "asn": 52666,
+  "handle": "SERGIPEWEB-PROVEDORES-DE",
+  "description": "SERGIPEWEB PROVEDORES DE INTERNET LTDA",
+  "subnets": {
+    "ipv4": [
+      "138.122.84.0/22",
+      "177.53.216.0/21",
+      "179.96.216.0/21"
+    ],
+    "ipv6": [
+      "2804:15b8::/32"
+    ]
+  }
+}

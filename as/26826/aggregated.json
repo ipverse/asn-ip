@@ -1,0 +1,12 @@
+{
+  "asn": 26826,
+  "handle": "OUSD-SOCAL",
+  "description": "Orange Unified School District",
+  "subnets": {
+    "ipv4": [
+      "104.249.68.0/24",
+      "216.100.91.0/24"
+    ],
+    "ipv6": []
+  }
+}

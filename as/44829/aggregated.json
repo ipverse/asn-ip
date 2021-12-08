@@ -1,0 +1,13 @@
+{
+  "asn": 44829,
+  "handle": "MSCIBARRA",
+  "description": "MSCI Barra SA.",
+  "subnets": {
+    "ipv4": [
+      "144.203.144.0/22",
+      "144.203.148.0/23",
+      "195.66.97.0/24"
+    ],
+    "ipv6": []
+  }
+}

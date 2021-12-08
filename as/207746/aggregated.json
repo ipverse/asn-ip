@@ -1,0 +1,13 @@
+{
+  "asn": 207746,
+  "handle": "PROTEUS",
+  "description": "STUDIO PROTEUS, d.o.o., Postojna",
+  "subnets": {
+    "ipv4": [
+      "45.141.168.0/22",
+      "45.146.232.0/22",
+      "193.9.52.0/22"
+    ],
+    "ipv6": []
+  }
+}

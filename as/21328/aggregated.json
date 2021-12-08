@@ -1,0 +1,12 @@
+{
+  "asn": 21328,
+  "handle": "NBP",
+  "description": "National Bank of Poland",
+  "subnets": {
+    "ipv4": [
+      "193.109.212.0/24",
+      "195.85.196.0/24"
+    ],
+    "ipv6": []
+  }
+}

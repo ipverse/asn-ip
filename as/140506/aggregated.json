@@ -1,0 +1,11 @@
+{
+  "asn": 140506,
+  "handle": "RESERVED",
+  "description": "APNIC ASN block",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2602:feda:ae1::/48"
+    ]
+  }
+}

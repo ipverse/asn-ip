@@ -1,0 +1,11 @@
+{
+  "asn": 142447,
+  "handle": "AIR24",
+  "description": "Air24 Network (Opc) Private Limited.",
+  "subnets": {
+    "ipv4": [
+      "103.170.200.0/23"
+    ],
+    "ipv6": []
+  }
+}

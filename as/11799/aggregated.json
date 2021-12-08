@@ -1,0 +1,14 @@
+{
+  "asn": 11799,
+  "handle": "CLARKSYS-INC",
+  "description": "Clarksys Inc.",
+  "subnets": {
+    "ipv4": [
+      "198.78.188.0/24",
+      "207.171.0.0/18"
+    ],
+    "ipv6": [
+      "2607:f238::/32"
+    ]
+  }
+}

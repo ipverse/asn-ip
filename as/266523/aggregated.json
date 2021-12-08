@@ -1,0 +1,13 @@
+{
+  "asn": 266523,
+  "handle": "ADW-TELECOM",
+  "description": "ADW Telecom",
+  "subnets": {
+    "ipv4": [
+      "170.244.228.0/22"
+    ],
+    "ipv6": [
+      "2804:3914::/32"
+    ]
+  }
+}

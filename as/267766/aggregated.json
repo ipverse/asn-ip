@@ -1,0 +1,13 @@
+{
+  "asn": 267766,
+  "handle": "CONNFLEX-SRL",
+  "description": "CONNFLEX SRL",
+  "subnets": {
+    "ipv4": [
+      "45.170.184.0/22"
+    ],
+    "ipv6": [
+      "2803:5ba0::/32"
+    ]
+  }
+}

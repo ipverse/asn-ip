@@ -1,0 +1,12 @@
+{
+  "asn": 204086,
+  "handle": "JARANETPHU",
+  "description": "Jaroslaw Wszol PHU Jaranet",
+  "subnets": {
+    "ipv4": [
+      "82.160.86.0/23",
+      "82.160.138.0/23"
+    ],
+    "ipv6": []
+  }
+}

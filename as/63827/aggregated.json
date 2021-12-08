@@ -1,0 +1,12 @@
+{
+  "asn": 63827,
+  "handle": "ECONDELIGHT",
+  "description": "PT Econdelight",
+  "subnets": {
+    "ipv4": [
+      "43.243.184.0/22",
+      "103.39.15.0/24"
+    ],
+    "ipv6": []
+  }
+}

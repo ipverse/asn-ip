@@ -1,0 +1,12 @@
+{
+  "asn": 15063,
+  "handle": "PWEH",
+  "description": "Pratt and Whitney",
+  "subnets": {
+    "ipv4": [
+      "140.157.66.0/24",
+      "192.249.33.0/24"
+    ],
+    "ipv6": []
+  }
+}

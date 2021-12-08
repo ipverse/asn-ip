@@ -1,0 +1,14 @@
+{
+  "asn": 262779,
+  "handle": "REDE-EXITUS-LTDA",
+  "description": "Rede Exitus Ltda",
+  "subnets": {
+    "ipv4": [
+      "186.227.240.0/20"
+    ],
+    "ipv6": [
+      "2804:3210::/36",
+      "2804:3210:1000::/37"
+    ]
+  }
+}

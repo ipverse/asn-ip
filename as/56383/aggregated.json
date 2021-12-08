@@ -1,0 +1,11 @@
+{
+  "asn": 56383,
+  "handle": "NORDSKY",
+  "description": "NordSky LLC",
+  "subnets": {
+    "ipv4": [
+      "193.47.40.0/24"
+    ],
+    "ipv6": []
+  }
+}

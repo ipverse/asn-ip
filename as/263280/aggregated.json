@@ -1,0 +1,13 @@
+{
+  "asn": 263280,
+  "handle": "I4-TELECOM-LTDA-ME",
+  "description": "I4 Telecom LTDA -ME",
+  "subnets": {
+    "ipv4": [
+      "179.109.88.0/21"
+    ],
+    "ipv6": [
+      "2804:164c::/32"
+    ]
+  }
+}

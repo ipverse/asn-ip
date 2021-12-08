@@ -1,0 +1,11 @@
+{
+  "asn": 271068,
+  "handle": "REDE-FREE-INTERNET-WI-FI",
+  "description": "Rede Free - Internet Wi-fi",
+  "subnets": {
+    "ipv4": [
+      "179.48.72.0/22"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 53687,
+  "handle": "DNI",
+  "description": "DataComm Networks Inc.",
+  "subnets": {
+    "ipv4": [
+      "199.59.152.0/24",
+      "199.59.154.0/23"
+    ],
+    "ipv6": []
+  }
+}

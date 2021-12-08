@@ -1,0 +1,13 @@
+{
+  "asn": 263647,
+  "handle": "IRADIO-COMERCIO-E",
+  "description": "Irádio Comercio e Manutenção de Maquinas LTDA",
+  "subnets": {
+    "ipv4": [
+      "177.75.24.0/21"
+    ],
+    "ipv6": [
+      "2804:10c0::/32"
+    ]
+  }
+}

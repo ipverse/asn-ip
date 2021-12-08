@@ -1,0 +1,13 @@
+{
+  "asn": 36490,
+  "handle": "OWENSCORNING",
+  "description": "Owens-Corning",
+  "subnets": {
+    "ipv4": [
+      "205.204.1.0/24",
+      "205.204.2.0/23",
+      "205.204.5.0/24"
+    ],
+    "ipv6": []
+  }
+}

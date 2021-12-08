@@ -1,0 +1,13 @@
+{
+  "asn": 38407,
+  "handle": "GOEAS-KR-KR",
+  "description": "Gyeonggi-Do Ansan Office of Education",
+  "subnets": {
+    "ipv4": [
+      "1.242.4.0/23",
+      "211.252.20.0/24",
+      "222.117.42.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 270586,
+  "handle": "B2-NETWORKS-MULTIMIDIA-LTDA",
+  "description": "B2 NETWORKS MULTIMIDIA LTDA",
+  "subnets": {
+    "ipv4": [
+      "177.152.100.0/22"
+    ],
+    "ipv6": [
+      "2804:6e48::/32"
+    ]
+  }
+}

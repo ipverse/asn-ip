@@ -1,0 +1,11 @@
+{
+  "asn": 138863,
+  "handle": "IDNIC-BERNOFARM-ID",
+  "description": "PT BERNOFARM",
+  "subnets": {
+    "ipv4": [
+      "103.139.166.0/23"
+    ],
+    "ipv6": []
+  }
+}

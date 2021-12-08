@@ -1,0 +1,14 @@
+{
+  "asn": 28273,
+  "handle": "HISPAMAR-SATELITES-SA",
+  "description": "Hispamar Satélites S/A",
+  "subnets": {
+    "ipv4": [
+      "138.219.125.0/24",
+      "201.33.0.0/21",
+      "201.33.8.0/24",
+      "201.33.14.0/23"
+    ],
+    "ipv6": []
+  }
+}

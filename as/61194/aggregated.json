@@ -1,0 +1,15 @@
+{
+  "asn": 61194,
+  "handle": "CTIGLOBAL-IE",
+  "description": "Business Recovery Services Limited",
+  "subnets": {
+    "ipv4": [
+      "5.159.40.0/21",
+      "46.245.208.0/21",
+      "176.124.246.0/24",
+      "185.61.60.0/22",
+      "185.71.160.0/22"
+    ],
+    "ipv6": []
+  }
+}

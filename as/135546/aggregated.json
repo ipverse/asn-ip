@@ -1,0 +1,12 @@
+{
+  "asn": 135546,
+  "handle": "CORETELNET-AP",
+  "description": "CORETEL NETWORKS (HONG KONG) LIMITED",
+  "subnets": {
+    "ipv4": [
+      "45.254.232.0/22",
+      "103.64.138.0/23"
+    ],
+    "ipv6": []
+  }
+}

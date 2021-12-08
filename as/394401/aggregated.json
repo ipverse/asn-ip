@@ -1,0 +1,12 @@
+{
+  "asn": 394401,
+  "handle": "HEARST-DC4",
+  "description": "Hearst Corporation",
+  "subnets": {
+    "ipv4": [
+      "167.173.80.0/20",
+      "167.173.194.0/24"
+    ],
+    "ipv6": []
+  }
+}

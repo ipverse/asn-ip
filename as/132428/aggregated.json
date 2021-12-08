@@ -1,0 +1,12 @@
+{
+  "asn": 132428,
+  "handle": "QDHIPL-AP",
+  "description": "Quest Diagnostics HTAS India Pvt. Ltd.",
+  "subnets": {
+    "ipv4": [
+      "209.242.245.0/24",
+      "209.242.246.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 266385,
+  "handle": "TR-SERVICOS-DE",
+  "description": "TR Servicos de Telecomunicacoes LTDA-ME",
+  "subnets": {
+    "ipv4": [
+      "170.80.224.0/22"
+    ],
+    "ipv6": [
+      "2804:3708::/32"
+    ]
+  }
+}

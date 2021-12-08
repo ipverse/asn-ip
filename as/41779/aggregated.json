@@ -1,0 +1,13 @@
+{
+  "asn": 41779,
+  "handle": "LAJSINET",
+  "description": "LajsiNET s.r.o.",
+  "subnets": {
+    "ipv4": [
+      "185.211.108.0/22"
+    ],
+    "ipv6": [
+      "2a0b:6440::/29"
+    ]
+  }
+}

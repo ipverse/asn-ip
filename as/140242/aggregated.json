@@ -1,0 +1,12 @@
+{
+  "asn": 140242,
+  "handle": "IBPL-AP",
+  "description": "INDHUANDMAHADEV BROADBAND PVT LIMITED",
+  "subnets": {
+    "ipv4": [
+      "103.149.103.0/24",
+      "103.154.51.0/24"
+    ],
+    "ipv6": []
+  }
+}

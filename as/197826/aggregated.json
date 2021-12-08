@@ -1,0 +1,12 @@
+{
+  "asn": 197826,
+  "handle": "SKYNET-MSK",
+  "description": "LLC Skynet",
+  "subnets": {
+    "ipv4": [
+      "91.227.188.0/22",
+      "194.35.44.0/22"
+    ],
+    "ipv6": []
+  }
+}

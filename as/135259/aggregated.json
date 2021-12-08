@@ -1,0 +1,14 @@
+{
+  "asn": 135259,
+  "handle": "SKYSIKAR",
+  "description": "SKYLINE INFONET PRIVATE LIMITED",
+  "subnets": {
+    "ipv4": [
+      "45.248.192.0/22",
+      "103.217.152.0/22"
+    ],
+    "ipv6": [
+      "2404:98c0::/32"
+    ]
+  }
+}

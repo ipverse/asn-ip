@@ -1,0 +1,13 @@
+{
+  "asn": 36273,
+  "handle": "GWMC-AS1",
+  "description": "Globalive Wireless Management Corp.",
+  "subnets": {
+    "ipv4": [
+      "74.115.192.0/22"
+    ],
+    "ipv6": [
+      "2606:3c00::/32"
+    ]
+  }
+}

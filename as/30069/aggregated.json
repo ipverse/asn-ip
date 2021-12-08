@@ -1,0 +1,13 @@
+{
+  "asn": 30069,
+  "handle": "BLUEJEANS",
+  "description": "Blue Jeans Network, Inc.",
+  "subnets": {
+    "ipv4": [
+      "8.44.57.0/24"
+    ],
+    "ipv6": [
+      "2620:122:8008::/48"
+    ]
+  }
+}

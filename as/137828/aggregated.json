@@ -1,0 +1,11 @@
+{
+  "asn": 137828,
+  "handle": "NETMAT-AP",
+  "description": "Net Matrix",
+  "subnets": {
+    "ipv4": [
+      "103.115.72.0/22"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 54506,
+  "handle": "STAYPINEAPPLE",
+  "description": "Pineapple Hospitality Company",
+  "subnets": {
+    "ipv4": [
+      "23.152.80.0/24"
+    ],
+    "ipv6": [
+      "2602:804:8000::/40"
+    ]
+  }
+}

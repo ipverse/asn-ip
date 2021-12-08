@@ -1,0 +1,11 @@
+{
+  "asn": 271903,
+  "handle": "TELNET-ISP-SAS",
+  "description": "TELNET ISP S.A.S.",
+  "subnets": {
+    "ipv4": [
+      "179.49.224.0/24"
+    ],
+    "ipv6": []
+  }
+}

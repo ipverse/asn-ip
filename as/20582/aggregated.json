@@ -1,0 +1,12 @@
+{
+  "asn": 20582,
+  "handle": "BEEONE",
+  "description": "Beeone Communications SA",
+  "subnets": {
+    "ipv4": [
+      "185.113.20.0/24",
+      "185.113.22.0/23"
+    ],
+    "ipv6": []
+  }
+}

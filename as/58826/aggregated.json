@@ -1,0 +1,16 @@
+{
+  "asn": 58826,
+  "handle": "ICOMBANGLADESHLTD-BD",
+  "description": "ICOM Bangladesh Ltd",
+  "subnets": {
+    "ipv4": [
+      "103.17.180.0/23",
+      "103.56.208.0/23",
+      "192.144.80.0/22"
+    ],
+    "ipv6": [
+      "2402:1d40::/34",
+      "2402:1d40:4000::/35"
+    ]
+  }
+}

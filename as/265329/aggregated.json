@@ -1,0 +1,13 @@
+{
+  "asn": 265329,
+  "handle": "BB-NET-UP-EIRELI-ME",
+  "description": "B.B. NET UP EIRELI -ME",
+  "subnets": {
+    "ipv4": [
+      "168.181.28.0/22"
+    ],
+    "ipv6": [
+      "2804:2e2c::/32"
+    ]
+  }
+}

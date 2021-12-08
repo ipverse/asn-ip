@@ -1,0 +1,13 @@
+{
+  "asn": 267354,
+  "handle": "FOREST-TELECOM",
+  "description": "FOREST TELECOM",
+  "subnets": {
+    "ipv4": [
+      "45.233.80.0/23"
+    ],
+    "ipv6": [
+      "2804:4c2c::/32"
+    ]
+  }
+}

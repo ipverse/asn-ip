@@ -1,0 +1,13 @@
+{
+  "asn": 268081,
+  "handle": "CONNECT-MARANHAO",
+  "description": "CONNECT MARANHAO",
+  "subnets": {
+    "ipv4": [
+      "45.168.72.0/22"
+    ],
+    "ipv6": [
+      "2804:57b4::/32"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 138050,
+  "handle": "IDNIC-DISKOMPROVJABAR-ID",
+  "description": "Dinas Komunikasi Provins Jawa Barat",
+  "subnets": {
+    "ipv4": [
+      "103.122.5.0/24",
+      "103.147.222.0/24"
+    ],
+    "ipv6": []
+  }
+}

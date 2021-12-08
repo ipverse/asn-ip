@@ -1,0 +1,13 @@
+{
+  "asn": 38210,
+  "handle": "RANKSTEL-BD",
+  "description": "Ranks Telecom Ltd.",
+  "subnets": {
+    "ipv4": [
+      "202.72.233.0/24",
+      "202.72.234.0/23",
+      "202.72.236.0/22"
+    ],
+    "ipv6": []
+  }
+}

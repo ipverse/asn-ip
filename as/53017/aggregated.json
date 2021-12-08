@@ -1,0 +1,11 @@
+{
+  "asn": 53017,
+  "handle": "REDE-NOVO-TEMPO",
+  "description": "REDE NOVO TEMPO DE COMUNICAÇÃO",
+  "subnets": {
+    "ipv4": [
+      "177.72.120.0/21"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 19782,
+  "handle": "INDIANAGIGAPOP",
+  "description": "Indiana University",
+  "subnets": {
+    "ipv4": [
+      "149.165.128.0/17"
+    ],
+    "ipv6": [
+      "2001:18e8::/32"
+    ]
+  }
+}

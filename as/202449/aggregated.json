@@ -1,0 +1,13 @@
+{
+  "asn": 202449,
+  "handle": "SYNPSH",
+  "description": "SASU SYNPSH",
+  "subnets": {
+    "ipv4": [
+      "185.254.100.0/22"
+    ],
+    "ipv6": [
+      "2a0c:4b40::/29"
+    ]
+  }
+}

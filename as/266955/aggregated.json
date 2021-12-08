@@ -1,0 +1,13 @@
+{
+  "asn": 266955,
+  "handle": "DIEGO-DE-SAO-MIGUEL-FRANCA",
+  "description": "DIEGO DE SAO MIGUEL FRANCA",
+  "subnets": {
+    "ipv4": [
+      "45.225.240.0/22"
+    ],
+    "ipv6": [
+      "2804:45ec::/32"
+    ]
+  }
+}

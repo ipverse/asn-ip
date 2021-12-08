@@ -1,0 +1,12 @@
+{
+  "asn": 28326,
+  "handle": "TOTAL-TELECOM-LTDA-ME",
+  "description": "Total Telecom LTDA-ME",
+  "subnets": {
+    "ipv4": [
+      "189.50.40.0/21",
+      "189.50.48.0/22"
+    ],
+    "ipv6": []
+  }
+}

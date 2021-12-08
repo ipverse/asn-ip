@@ -1,0 +1,14 @@
+{
+  "asn": 54666,
+  "handle": "INTERNET-MULTIHOMING",
+  "description": "Fugro (USA), INC.",
+  "subnets": {
+    "ipv4": [
+      "66.194.80.0/24",
+      "199.187.15.0/24"
+    ],
+    "ipv6": [
+      "2620:121:3000::/40"
+    ]
+  }
+}

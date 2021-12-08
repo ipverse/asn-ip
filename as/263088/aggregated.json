@@ -1,0 +1,11 @@
+{
+  "asn": 263088,
+  "handle": "LINK-MONITORAMENTO",
+  "description": "Link Monitoramento",
+  "subnets": {
+    "ipv4": [
+      "177.129.77.0/24"
+    ],
+    "ipv6": []
+  }
+}

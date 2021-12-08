@@ -1,0 +1,11 @@
+{
+  "asn": 211192,
+  "handle": "FLOWHOST",
+  "description": "FlowHost",
+  "subnets": {
+    "ipv4": [
+      "154.51.36.0/24"
+    ],
+    "ipv6": []
+  }
+}

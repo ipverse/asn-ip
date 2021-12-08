@@ -1,0 +1,13 @@
+{
+  "asn": 203623,
+  "handle": "ZEROSPACE",
+  "description": "ZeroSpace ICT Services B.V.",
+  "subnets": {
+    "ipv4": [
+      "185.127.108.0/22"
+    ],
+    "ipv6": [
+      "2a06:c8c0::/30"
+    ]
+  }
+}

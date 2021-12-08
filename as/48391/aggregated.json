@@ -1,0 +1,13 @@
+{
+  "asn": 48391,
+  "handle": "PDP",
+  "description": "Pars Data Processing Company (LTD)",
+  "subnets": {
+    "ipv4": [
+      "31.130.185.0/24",
+      "31.130.186.0/24",
+      "193.200.148.0/24"
+    ],
+    "ipv6": []
+  }
+}

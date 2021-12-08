@@ -1,0 +1,13 @@
+{
+  "asn": 22303,
+  "handle": "NEWPALTZEDU",
+  "description": "SUNY College at New Paltz",
+  "subnets": {
+    "ipv4": [
+      "137.140.0.0/16"
+    ],
+    "ipv6": [
+      "2620:67::/48"
+    ]
+  }
+}

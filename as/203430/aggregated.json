@@ -1,0 +1,11 @@
+{
+  "asn": 203430,
+  "handle": "SANET-TRK",
+  "description": "Private Enterprise TRK SANET",
+  "subnets": {
+    "ipv4": [
+      "194.242.97.0/24"
+    ],
+    "ipv6": []
+  }
+}

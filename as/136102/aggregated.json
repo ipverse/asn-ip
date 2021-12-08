@@ -1,0 +1,13 @@
+{
+  "asn": 136102,
+  "handle": "IDNIC-ARUPA-ID",
+  "description": "PT. Arupa Cloud Nusantara",
+  "subnets": {
+    "ipv4": [
+      "103.90.250.0/23",
+      "103.145.194.0/23",
+      "103.145.198.0/23"
+    ],
+    "ipv6": []
+  }
+}

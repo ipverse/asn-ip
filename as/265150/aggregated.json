@@ -1,0 +1,14 @@
+{
+  "asn": 265150,
+  "handle": "ETERNAL-VIDEO-LOCADORA-LTDA",
+  "description": "Eternal Vídeo Locadora Ltda",
+  "subnets": {
+    "ipv4": [
+      "143.208.200.0/22",
+      "170.150.228.0/22"
+    ],
+    "ipv6": [
+      "2804:2b5c::/32"
+    ]
+  }
+}

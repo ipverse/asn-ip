@@ -1,0 +1,12 @@
+{
+  "asn": 135514,
+  "handle": "UTCNET-AP-HK",
+  "description": "United Technologies Corporation",
+  "subnets": {
+    "ipv4": [
+      "192.250.13.0/24",
+      "192.250.14.0/24"
+    ],
+    "ipv6": []
+  }
+}

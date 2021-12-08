@@ -1,0 +1,13 @@
+{
+  "asn": 269003,
+  "handle": "KIMNET-SOLUCOES",
+  "description": "KIMNET SOLUCOES",
+  "subnets": {
+    "ipv4": [
+      "45.177.244.0/22"
+    ],
+    "ipv6": [
+      "2804:5df4::/32"
+    ]
+  }
+}

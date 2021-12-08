@@ -1,0 +1,14 @@
+{
+  "asn": 30721,
+  "handle": "SATGATE",
+  "description": "SatGate LLC",
+  "subnets": {
+    "ipv4": [
+      "77.94.32.0/19",
+      "82.198.0.0/19"
+    ],
+    "ipv6": [
+      "2a02:7200::/32"
+    ]
+  }
+}

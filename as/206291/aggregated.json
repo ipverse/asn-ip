@@ -1,0 +1,13 @@
+{
+  "asn": 206291,
+  "handle": "KLIXA",
+  "description": "Klixa AG",
+  "subnets": {
+    "ipv4": [
+      "185.188.44.0/22"
+    ],
+    "ipv6": [
+      "2a0b:b780::/29"
+    ]
+  }
+}

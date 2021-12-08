@@ -1,0 +1,13 @@
+{
+  "asn": 36709,
+  "handle": "OPTIMA",
+  "description": "NP Information Systems",
+  "subnets": {
+    "ipv4": [
+      "70.102.202.0/24",
+      "198.183.255.0/24",
+      "208.186.30.0/23"
+    ],
+    "ipv6": []
+  }
+}

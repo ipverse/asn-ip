@@ -1,0 +1,13 @@
+{
+  "asn": 7809,
+  "handle": "SYNOPSYS",
+  "description": "Synopsys Inc.",
+  "subnets": {
+    "ipv4": [
+      "198.182.36.0/22"
+    ],
+    "ipv6": [
+      "2a0c:d400:100::/48"
+    ]
+  }
+}

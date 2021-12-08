@@ -1,0 +1,12 @@
+{
+  "asn": 264547,
+  "handle": "DATAZOOM-TELECOM",
+  "description": "DATAZOOM TELECOM",
+  "subnets": {
+    "ipv4": [
+      "138.0.132.0/22",
+      "170.79.8.0/22"
+    ],
+    "ipv6": []
+  }
+}

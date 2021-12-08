@@ -1,0 +1,11 @@
+{
+  "asn": 31390,
+  "handle": "BRAVENETLB",
+  "description": "BRAVENET SARL",
+  "subnets": {
+    "ipv4": [
+      "185.100.216.0/22"
+    ],
+    "ipv6": []
+  }
+}

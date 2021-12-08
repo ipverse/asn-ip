@@ -1,0 +1,13 @@
+{
+  "asn": 328365,
+  "handle": "ZANOG",
+  "description": "Thusa Business Support (Pty) Ltd",
+  "subnets": {
+    "ipv4": [
+      "102.222.100.0/22"
+    ],
+    "ipv6": [
+      "2001:43f8:1702::/47"
+    ]
+  }
+}

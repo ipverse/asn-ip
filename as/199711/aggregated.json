@@ -1,0 +1,14 @@
+{
+  "asn": 199711,
+  "handle": "NBU",
+  "description": "National Cyber and Information Security Agency",
+  "subnets": {
+    "ipv4": [
+      "185.48.20.0/24",
+      "185.48.22.0/23"
+    ],
+    "ipv6": [
+      "2a01:95a0::/32"
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 206893,
+  "handle": "IQ-STORMNETWORKSIQ",
+  "description": "Storm Networks for internet service provider Ltd.",
+  "subnets": {
+    "ipv4": [
+      "185.133.227.0/24",
+      "185.172.228.0/22"
+    ],
+    "ipv6": [
+      "2a0b:81c0::/29"
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 264255,
+  "handle": "INTERFIBRAS-TELECOMUNICACOES-LTDA",
+  "description": "INTERFIBRAS TELECOMUNICACOES LTDA",
+  "subnets": {
+    "ipv4": [
+      "138.118.0.0/22",
+      "170.245.68.0/22"
+    ],
+    "ipv6": [
+      "2804:250c::/32"
+    ]
+  }
+}

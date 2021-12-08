@@ -1,0 +1,11 @@
+{
+  "asn": 134702,
+  "handle": "NETSCOPE-AP",
+  "description": "NETSCOPE",
+  "subnets": {
+    "ipv4": [
+      "103.77.188.0/22"
+    ],
+    "ipv6": []
+  }
+}

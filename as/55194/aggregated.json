@@ -1,0 +1,11 @@
+{
+  "asn": 55194,
+  "handle": "BGSU",
+  "description": "Bowling Green State University",
+  "subnets": {
+    "ipv4": [
+      "129.1.0.0/16"
+    ],
+    "ipv6": []
+  }
+}

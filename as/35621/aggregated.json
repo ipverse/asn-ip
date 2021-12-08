@@ -1,0 +1,13 @@
+{
+  "asn": 35621,
+  "handle": "PERNIK-LAN",
+  "description": "Alexandria Ltd.",
+  "subnets": {
+    "ipv4": [
+      "85.187.220.0/23",
+      "151.237.0.0/20",
+      "151.237.94.0/23"
+    ],
+    "ipv6": []
+  }
+}

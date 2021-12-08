@@ -1,0 +1,11 @@
+{
+  "asn": 9646,
+  "handle": "EGIOS-KR",
+  "description": "eGIOS",
+  "subnets": {
+    "ipv4": [
+      "211.47.160.0/22"
+    ],
+    "ipv6": []
+  }
+}

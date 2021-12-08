@@ -1,0 +1,13 @@
+{
+  "asn": 60799,
+  "handle": "BAADER-BANK-AG",
+  "description": "Baader Bank AG",
+  "subnets": {
+    "ipv4": [
+      "82.98.231.0/24"
+    ],
+    "ipv6": [
+      "2001:67c:1748::/48"
+    ]
+  }
+}

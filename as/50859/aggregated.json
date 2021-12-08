@@ -1,0 +1,12 @@
+{
+  "asn": 50859,
+  "handle": "TATAISENERGO",
+  "description": "TatAisEnergo LLC",
+  "subnets": {
+    "ipv4": [
+      "91.224.106.0/23",
+      "193.43.78.0/24"
+    ],
+    "ipv6": []
+  }
+}

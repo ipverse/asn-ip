@@ -1,0 +1,13 @@
+{
+  "asn": 397171,
+  "handle": "GBP-01",
+  "description": "Green Bay Packaging, INC",
+  "subnets": {
+    "ipv4": [
+      "199.89.162.0/24",
+      "205.213.101.0/24",
+      "205.213.160.0/24"
+    ],
+    "ipv6": []
+  }
+}

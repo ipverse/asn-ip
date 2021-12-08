@@ -1,0 +1,11 @@
+{
+  "asn": 132208,
+  "handle": "NGBPS-IN",
+  "description": "NGBPS LTD",
+  "subnets": {
+    "ipv4": [
+      "103.7.64.0/22"
+    ],
+    "ipv6": []
+  }
+}

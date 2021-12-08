@@ -1,0 +1,13 @@
+{
+  "asn": 209616,
+  "handle": "HESSNET",
+  "description": "Jesper Hess",
+  "subnets": {
+    "ipv4": [
+      "44.145.128.0/24"
+    ],
+    "ipv6": [
+      "2001:678:15c::/48"
+    ]
+  }
+}

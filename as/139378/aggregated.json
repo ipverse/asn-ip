@@ -1,0 +1,13 @@
+{
+  "asn": 139378,
+  "handle": "IDNIC-PTNST-ID",
+  "description": "PT. NEX Solusi Teknologi",
+  "subnets": {
+    "ipv4": [
+      "103.142.202.0/23"
+    ],
+    "ipv6": [
+      "2001:df1:5680::/48"
+    ]
+  }
+}

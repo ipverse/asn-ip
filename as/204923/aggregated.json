@@ -1,0 +1,13 @@
+{
+  "asn": 204923,
+  "handle": "WISPI",
+  "description": "I.T.S. DI VACANTI ANGELO IMPRESA INDIVIDUALE",
+  "subnets": {
+    "ipv4": [
+      "5.61.0.0/21",
+      "80.208.248.0/22",
+      "185.60.240.0/22"
+    ],
+    "ipv6": []
+  }
+}

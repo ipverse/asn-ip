@@ -1,0 +1,12 @@
+{
+  "asn": 393587,
+  "handle": "ULTA-BGP",
+  "description": "Ulta, Inc.",
+  "subnets": {
+    "ipv4": [
+      "104.193.232.0/24",
+      "104.193.234.0/24"
+    ],
+    "ipv6": []
+  }
+}

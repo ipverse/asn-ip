@@ -1,0 +1,13 @@
+{
+  "asn": 268321,
+  "handle": "SM-PASSOS-KAYSER",
+  "description": "SM Passos Kayser Sistemas de Comunicações ME",
+  "subnets": {
+    "ipv4": [
+      "45.238.64.0/22"
+    ],
+    "ipv6": [
+      "2804:4f58::/32"
+    ]
+  }
+}

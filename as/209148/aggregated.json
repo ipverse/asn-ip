@@ -1,0 +1,13 @@
+{
+  "asn": 209148,
+  "handle": "SECUREPOINT",
+  "description": "Securepoint GmbH",
+  "subnets": {
+    "ipv4": [
+      "85.209.184.0/22"
+    ],
+    "ipv6": [
+      "2a09:9c40::/29"
+    ]
+  }
+}

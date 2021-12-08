@@ -1,0 +1,11 @@
+{
+  "asn": 22297,
+  "handle": "JELECOS-01",
+  "description": "Jelecos LLC",
+  "subnets": {
+    "ipv4": [
+      "198.96.221.0/24"
+    ],
+    "ipv6": []
+  }
+}

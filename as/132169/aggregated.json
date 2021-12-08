@@ -1,0 +1,13 @@
+{
+  "asn": 132169,
+  "handle": "KBZONLINE-AP",
+  "description": "Kbz online",
+  "subnets": {
+    "ipv4": [
+      "103.138.202.0/23"
+    ],
+    "ipv6": [
+      "2001:df0:5280::/48"
+    ]
+  }
+}

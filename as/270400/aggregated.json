@@ -1,0 +1,11 @@
+{
+  "asn": 270400,
+  "handle": "CLICK-FIBRA",
+  "description": "Click Fibra",
+  "subnets": {
+    "ipv4": [
+      "190.89.220.0/22"
+    ],
+    "ipv6": []
+  }
+}

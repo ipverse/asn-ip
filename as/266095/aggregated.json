@@ -1,0 +1,13 @@
+{
+  "asn": 266095,
+  "handle": "SIM-TELECOM-EIRELI",
+  "description": "SIM TELECOM EIRELI",
+  "subnets": {
+    "ipv4": [
+      "45.5.102.0/23"
+    ],
+    "ipv6": [
+      "2804:3a8c::/32"
+    ]
+  }
+}

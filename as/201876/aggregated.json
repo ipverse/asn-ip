@@ -1,0 +1,11 @@
+{
+  "asn": 201876,
+  "handle": "NEFILI",
+  "description": "Nefili SAS",
+  "subnets": {
+    "ipv4": [
+      "185.50.112.0/22"
+    ],
+    "ipv6": []
+  }
+}

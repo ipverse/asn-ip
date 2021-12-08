@@ -1,0 +1,11 @@
+{
+  "asn": 139881,
+  "handle": "BDMINTERNET-AP",
+  "description": "BDM Internet",
+  "subnets": {
+    "ipv4": [
+      "103.146.150.0/24"
+    ],
+    "ipv6": []
+  }
+}

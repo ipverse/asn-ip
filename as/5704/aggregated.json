@@ -1,0 +1,13 @@
+{
+  "asn": 5704,
+  "handle": "CARIBE-NET",
+  "description": "Caribbean Internet Service, Corp.",
+  "subnets": {
+    "ipv4": [
+      "209.91.192.0/18"
+    ],
+    "ipv6": [
+      "2607:f00::/32"
+    ]
+  }
+}

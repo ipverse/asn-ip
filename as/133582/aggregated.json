@@ -1,0 +1,11 @@
+{
+  "asn": 133582,
+  "handle": "MINDAUSTRALIA-AP",
+  "description": "Mind Australia",
+  "subnets": {
+    "ipv4": [
+      "103.237.81.0/24"
+    ],
+    "ipv6": []
+  }
+}

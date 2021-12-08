@@ -1,0 +1,13 @@
+{
+  "asn": 271004,
+  "handle": "NETSKY-PROVEDOR-DE",
+  "description": "NETSKY PROVEDOR DE INTERNET LTDA.",
+  "subnets": {
+    "ipv4": [
+      "167.249.96.0/22"
+    ],
+    "ipv6": [
+      "2804:74cc::/32"
+    ]
+  }
+}

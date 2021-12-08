@@ -1,0 +1,15 @@
+{
+  "asn": 61577,
+  "handle": "AMAZONTEL-TELECOMUNICACOES-LTDA",
+  "description": "AMAZONTEL TELECOMUNICACOES LTDA",
+  "subnets": {
+    "ipv4": [
+      "143.137.28.0/24",
+      "143.137.30.0/23"
+    ],
+    "ipv6": [
+      "2804:29b0::/38",
+      "2804:29b0:c00::/38"
+    ]
+  }
+}

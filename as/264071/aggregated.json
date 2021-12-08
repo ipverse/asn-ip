@@ -1,0 +1,13 @@
+{
+  "asn": 264071,
+  "handle": "HOPNET-TELECOM-LTDA",
+  "description": "HOPNET TELECOM LTDA",
+  "subnets": {
+    "ipv4": [
+      "143.137.44.0/22"
+    ],
+    "ipv6": [
+      "2804:2a5c::/32"
+    ]
+  }
+}

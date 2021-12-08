@@ -1,0 +1,13 @@
+{
+  "asn": 30598,
+  "handle": "CCL",
+  "description": "Carnival Corporation",
+  "subnets": {
+    "ipv4": [
+      "12.8.188.0/24",
+      "151.124.128.0/19",
+      "151.124.224.0/19"
+    ],
+    "ipv6": []
+  }
+}

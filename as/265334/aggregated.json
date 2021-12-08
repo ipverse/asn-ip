@@ -1,0 +1,13 @@
+{
+  "asn": 265334,
+  "handle": "MULTI-GLOBAL-COM",
+  "description": "MULTI GLOBAL COM. E SERV. DE INFORMÁTICA LTDA",
+  "subnets": {
+    "ipv4": [
+      "168.181.104.0/22"
+    ],
+    "ipv6": [
+      "2804:2e3c::/32"
+    ]
+  }
+}

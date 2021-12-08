@@ -1,0 +1,12 @@
+{
+  "asn": 131912,
+  "handle": "CYBOZU",
+  "description": "Cybzou,Inc.",
+  "subnets": {
+    "ipv4": [
+      "103.79.12.0/22",
+      "202.253.115.0/24"
+    ],
+    "ipv6": []
+  }
+}

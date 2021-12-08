@@ -1,0 +1,12 @@
+{
+  "asn": 135299,
+  "handle": "TPSL-AP",
+  "description": "TechProcess Payment Services Limited",
+  "subnets": {
+    "ipv4": [
+      "103.112.146.0/24",
+      "103.211.197.0/24"
+    ],
+    "ipv6": []
+  }
+}

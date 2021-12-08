@@ -1,0 +1,13 @@
+{
+  "asn": 203689,
+  "handle": "METLIFE-SERVICES",
+  "description": "METLIFE SERVICES Sp. z o.o.",
+  "subnets": {
+    "ipv4": [
+      "157.25.130.0/23",
+      "157.25.174.0/23",
+      "199.204.10.0/23"
+    ],
+    "ipv6": []
+  }
+}

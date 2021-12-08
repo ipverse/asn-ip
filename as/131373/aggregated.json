@@ -1,0 +1,13 @@
+{
+  "asn": 131373,
+  "handle": "MOST-VN",
+  "description": "Information Center - Ministry of Science and Technology",
+  "subnets": {
+    "ipv4": [
+      "103.13.76.0/22"
+    ],
+    "ipv6": [
+      "2001:df1:b080::/48"
+    ]
+  }
+}

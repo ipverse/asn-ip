@@ -1,0 +1,13 @@
+{
+  "asn": 271078,
+  "handle": "VEM-TECNOLOGIA-EM",
+  "description": "VEM Tecnologia em Informática Ltda",
+  "subnets": {
+    "ipv4": [
+      "45.6.244.0/22"
+    ],
+    "ipv6": [
+      "2804:75ec::/32"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 265813,
+  "handle": "FERCAS-SH",
+  "description": "FERCAS SH",
+  "subnets": {
+    "ipv4": [
+      "192.141.228.0/22"
+    ],
+    "ipv6": [
+      "2803:d820::/32"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 141131,
+  "handle": "IDNIC-KOMATSUKUI-ID",
+  "description": "PT Komatsu Undercarriage Indonesia",
+  "subnets": {
+    "ipv4": [
+      "103.158.143.0/24"
+    ],
+    "ipv6": [
+      "2001:df5:5880::/48"
+    ]
+  }
+}

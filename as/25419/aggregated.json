@@ -1,0 +1,13 @@
+{
+  "asn": 25419,
+  "handle": "MEYLE-MUELLER",
+  "description": "Meyle+Mueller GmbH+Co. KG",
+  "subnets": {
+    "ipv4": [
+      "195.190.138.0/24"
+    ],
+    "ipv6": [
+      "2001:678:22c::/48"
+    ]
+  }
+}

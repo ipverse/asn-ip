@@ -1,0 +1,13 @@
+{
+  "asn": 268097,
+  "handle": "I10-TELECOM-ISP",
+  "description": "i10 Telecom ISP",
+  "subnets": {
+    "ipv4": [
+      "45.169.44.0/22"
+    ],
+    "ipv6": [
+      "2804:57f4::/32"
+    ]
+  }
+}

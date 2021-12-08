@@ -1,0 +1,13 @@
+{
+  "asn": 265623,
+  "handle": "REDES-Y-ASESORIAS",
+  "description": "REDES Y ASESORIAS DEL MAYAB SA DE CV",
+  "subnets": {
+    "ipv4": [
+      "201.46.92.0/22"
+    ],
+    "ipv6": [
+      "2806:3a4::/32"
+    ]
+  }
+}

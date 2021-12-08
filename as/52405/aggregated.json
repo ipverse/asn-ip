@@ -1,0 +1,14 @@
+{
+  "asn": 52405,
+  "handle": "CALETA-VIDEO-CABLE-SRL",
+  "description": "Caleta Video Cable SRL",
+  "subnets": {
+    "ipv4": [
+      "181.118.192.0/20",
+      "190.8.48.0/20"
+    ],
+    "ipv6": [
+      "2803:f300::/32"
+    ]
+  }
+}

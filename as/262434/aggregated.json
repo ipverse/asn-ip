@@ -1,0 +1,15 @@
+{
+  "asn": 262434,
+  "handle": "WIIP-TELECOM-SERVICOS",
+  "description": "WIIP TELECOM SERVIÇOS DE INTERNET LTDA",
+  "subnets": {
+    "ipv4": [
+      "177.44.160.0/20",
+      "186.235.16.0/20",
+      "200.0.48.0/21"
+    ],
+    "ipv6": [
+      "2804:17b8::/32"
+    ]
+  }
+}

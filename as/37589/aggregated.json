@@ -1,0 +1,13 @@
+{
+  "asn": 37589,
+  "handle": "ITISINTERNET",
+  "description": "It Is Internet Pty Ltd",
+  "subnets": {
+    "ipv4": [
+      "41.78.128.0/22"
+    ],
+    "ipv6": [
+      "2c0f:f6f8::/32"
+    ]
+  }
+}

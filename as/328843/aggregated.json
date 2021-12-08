@@ -1,0 +1,13 @@
+{
+  "asn": 328843,
+  "handle": "SOUTHCOAST",
+  "description": "South Coast Fibre (pty) LTD",
+  "subnets": {
+    "ipv4": [
+      "102.220.48.0/22"
+    ],
+    "ipv6": [
+      "2c0f:5e00::/32"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 268739,
+  "handle": "LINK-NET-WORLD",
+  "description": "LINK NET WORLD SERVICO DE COMUNICACAO EI",
+  "subnets": {
+    "ipv4": [
+      "45.172.4.0/22"
+    ],
+    "ipv6": [
+      "2804:5a00::/32"
+    ]
+  }
+}

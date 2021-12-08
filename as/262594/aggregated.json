@@ -1,0 +1,13 @@
+{
+  "asn": 262594,
+  "handle": "4INET-SOROCABA-LTDA-EPP",
+  "description": "4INET SOROCABA LTDA EPP",
+  "subnets": {
+    "ipv4": [
+      "177.84.240.0/21"
+    ],
+    "ipv6": [
+      "2804:68c::/32"
+    ]
+  }
+}

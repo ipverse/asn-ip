@@ -1,0 +1,13 @@
+{
+  "asn": 395273,
+  "handle": "CBAD-EHCS",
+  "description": "Fuse Internet Access",
+  "subnets": {
+    "ipv4": [
+      "8.42.59.0/24",
+      "199.167.61.0/24",
+      "199.243.239.0/24"
+    ],
+    "ipv6": []
+  }
+}

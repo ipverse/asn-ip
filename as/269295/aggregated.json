@@ -1,0 +1,13 @@
+{
+  "asn": 269295,
+  "handle": "WLAN-NETWORK-LTDA",
+  "description": "WLAN NETWORK LTDA",
+  "subnets": {
+    "ipv4": [
+      "45.183.236.0/22"
+    ],
+    "ipv6": [
+      "2804:6268::/32"
+    ]
+  }
+}

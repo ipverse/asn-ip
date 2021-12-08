@@ -1,0 +1,14 @@
+{
+  "asn": 136714,
+  "handle": "STAMPEDE",
+  "description": "Stampede Communications Pvt. Ltd.",
+  "subnets": {
+    "ipv4": [
+      "103.104.44.0/22",
+      "178.248.112.0/21"
+    ],
+    "ipv6": [
+      "2403:d4c0::/32"
+    ]
+  }
+}

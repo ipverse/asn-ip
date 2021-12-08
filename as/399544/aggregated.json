@@ -1,0 +1,14 @@
+{
+  "asn": 399544,
+  "handle": "PEOPLENTECH-LLC",
+  "description": "PeopleNTech, LLC",
+  "subnets": {
+    "ipv4": [
+      "172.110.148.0/23",
+      "172.110.150.0/24"
+    ],
+    "ipv6": [
+      "2602:fc97::/48"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 142050,
+  "handle": "VISIONPLUSINTERNETSERVICE-AP",
+  "description": "Vision Plus Internet Service",
+  "subnets": {
+    "ipv4": [
+      "103.165.186.0/23"
+    ],
+    "ipv6": [
+      "2407:4d40::/32"
+    ]
+  }
+}

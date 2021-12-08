@@ -1,0 +1,13 @@
+{
+  "asn": 42202,
+  "handle": "CGAS",
+  "description": "onway ag",
+  "subnets": {
+    "ipv4": [
+      "185.206.188.0/22"
+    ],
+    "ipv6": [
+      "2a0b:1740::/29"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 271239,
+  "handle": "ALTATECH-SOLUCOES-EM",
+  "description": "Altatech Soluções em Tecnologia EIRELI",
+  "subnets": {
+    "ipv4": [
+      "191.6.5.0/24"
+    ],
+    "ipv6": [
+      "2804:7864::/32"
+    ]
+  }
+}

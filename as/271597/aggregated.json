@@ -1,0 +1,11 @@
+{
+  "asn": 271597,
+  "handle": "NEW-LINK-CONNECT",
+  "description": "NEW LINK CONNECT",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2804:7e04::/32"
+    ]
+  }
+}

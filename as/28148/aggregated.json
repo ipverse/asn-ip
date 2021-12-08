@@ -1,0 +1,13 @@
+{
+  "asn": 28148,
+  "handle": "SAFEWEB-SEGURANCA-DA",
+  "description": "Safeweb Segurança da Informação Ltda",
+  "subnets": {
+    "ipv4": [
+      "177.128.116.0/24"
+    ],
+    "ipv6": [
+      "2801:80:a50::/48"
+    ]
+  }
+}

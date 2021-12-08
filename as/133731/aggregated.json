@@ -1,0 +1,13 @@
+{
+  "asn": 133731,
+  "handle": "TOINTER-AP",
+  "description": "Royal Network Technology Co., Ltd. in Guangzhou",
+  "subnets": {
+    "ipv4": [
+      "103.107.110.0/24",
+      "103.205.120.0/24",
+      "185.216.118.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 328826,
+  "handle": "JUMBO-TECHNOLOGIES",
+  "description": "Jumbo Technologies PTY LTD",
+  "subnets": {
+    "ipv4": [
+      "102.218.192.0/22",
+      "102.220.76.0/22"
+    ],
+    "ipv6": []
+  }
+}

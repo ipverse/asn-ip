@@ -1,0 +1,12 @@
+{
+  "asn": 397548,
+  "handle": "SPECTRUMLINK",
+  "description": "Spectrum Link, Inc.",
+  "subnets": {
+    "ipv4": [
+      "38.91.112.0/21",
+      "38.101.116.0/24"
+    ],
+    "ipv6": []
+  }
+}

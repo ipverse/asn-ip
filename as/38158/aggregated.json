@@ -1,0 +1,13 @@
+{
+  "asn": 38158,
+  "handle": "CBN-NETWORKS-ID",
+  "description": "PT. Cyberindo Aditama",
+  "subnets": {
+    "ipv4": [
+      "121.100.0.0/21"
+    ],
+    "ipv6": [
+      "2402:9800::/32"
+    ]
+  }
+}

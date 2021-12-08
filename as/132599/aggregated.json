@@ -1,0 +1,11 @@
+{
+  "asn": 132599,
+  "handle": "NICTDA-AP",
+  "description": "National Information Communications Technology Development Authority",
+  "subnets": {
+    "ipv4": [
+      "103.16.60.0/22"
+    ],
+    "ipv6": []
+  }
+}

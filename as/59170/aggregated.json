@@ -1,0 +1,12 @@
+{
+  "asn": 59170,
+  "handle": "WALLDEPOT",
+  "description": "Wall Depot Telecom Sevices Ltd",
+  "subnets": {
+    "ipv4": [
+      "45.113.76.0/22",
+      "103.52.224.0/22"
+    ],
+    "ipv6": []
+  }
+}

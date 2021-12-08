@@ -1,0 +1,11 @@
+{
+  "asn": 206731,
+  "handle": "LIZZIENET",
+  "description": "Lizzienet",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a04:ff00:300::/48"
+    ]
+  }
+}

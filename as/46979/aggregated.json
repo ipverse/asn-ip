@@ -1,0 +1,12 @@
+{
+  "asn": 46979,
+  "handle": "MCTC-INTERNET",
+  "description": "Madison County Telephone Company",
+  "subnets": {
+    "ipv4": [
+      "38.81.136.0/21",
+      "173.225.0.0/20"
+    ],
+    "ipv6": []
+  }
+}

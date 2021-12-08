@@ -1,0 +1,14 @@
+{
+  "asn": 27005,
+  "handle": "PNPT",
+  "description": "Pinpoint Communications, Inc.",
+  "subnets": {
+    "ipv4": [
+      "65.39.96.0/19",
+      "69.2.0.0/20",
+      "148.59.212.0/23",
+      "207.254.192.0/20"
+    ],
+    "ipv6": []
+  }
+}

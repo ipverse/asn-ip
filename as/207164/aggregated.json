@@ -1,0 +1,12 @@
+{
+  "asn": 207164,
+  "handle": "PRIMANET",
+  "description": "PRIMANET SRL",
+  "subnets": {
+    "ipv4": [
+      "45.15.224.0/22",
+      "185.164.80.0/22"
+    ],
+    "ipv6": []
+  }
+}

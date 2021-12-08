@@ -1,0 +1,12 @@
+{
+  "asn": 17983,
+  "handle": "COLESMYER-AP",
+  "description": "AAPT Limited",
+  "subnets": {
+    "ipv4": [
+      "157.155.0.0/16",
+      "203.5.128.0/19"
+    ],
+    "ipv6": []
+  }
+}

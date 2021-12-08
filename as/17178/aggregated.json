@@ -1,0 +1,13 @@
+{
+  "asn": 17178,
+  "handle": "MOTIONINDUSTRIES",
+  "description": "Motion Industries, Inc.",
+  "subnets": {
+    "ipv4": [
+      "12.34.152.0/24",
+      "65.210.166.0/24",
+      "192.40.82.0/23"
+    ],
+    "ipv6": []
+  }
+}

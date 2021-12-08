@@ -1,0 +1,12 @@
+{
+  "asn": 14137,
+  "handle": "AICW",
+  "description": "America Internet \u0026 Communications",
+  "subnets": {
+    "ipv4": [
+      "104.192.67.0/24",
+      "104.192.68.0/22"
+    ],
+    "ipv6": []
+  }
+}

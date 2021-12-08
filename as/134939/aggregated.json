@@ -1,0 +1,11 @@
+{
+  "asn": 134939,
+  "handle": "IRINN-BLOCK",
+  "description": "IRINN AS-BLOCK",
+  "subnets": {
+    "ipv4": [
+      "103.171.211.0/24"
+    ],
+    "ipv6": []
+  }
+}

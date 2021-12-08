@@ -1,0 +1,13 @@
+{
+  "asn": 212769,
+  "handle": "MEFIN",
+  "description": "Medifin Leasing Limited",
+  "subnets": {
+    "ipv4": [
+      "37.233.120.0/23",
+      "37.233.123.0/24",
+      "37.233.124.0/24"
+    ],
+    "ipv6": []
+  }
+}

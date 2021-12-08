@@ -1,0 +1,11 @@
+{
+  "asn": 30943,
+  "handle": "UTRANSIT",
+  "description": "Utransit International Carrier Limited",
+  "subnets": {
+    "ipv4": [
+      "217.112.32.0/20"
+    ],
+    "ipv6": []
+  }
+}

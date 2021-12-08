@@ -1,0 +1,13 @@
+{
+  "asn": 206656,
+  "handle": "AUDAXIS",
+  "description": "AUDAXIS SAS",
+  "subnets": {
+    "ipv4": [
+      "185.179.192.0/22"
+    ],
+    "ipv6": [
+      "2a0c:4140::/32"
+    ]
+  }
+}

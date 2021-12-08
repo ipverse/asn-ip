@@ -1,0 +1,12 @@
+{
+  "asn": 132377,
+  "handle": "ELLUCIANNET-AP",
+  "description": "Ellucian Company L.P.",
+  "subnets": {
+    "ipv4": [
+      "149.24.60.0/24",
+      "149.24.124.0/24"
+    ],
+    "ipv6": []
+  }
+}

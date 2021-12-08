@@ -1,0 +1,11 @@
+{
+  "asn": 141648,
+  "handle": "IDNIC-INDOPRIMAAKSES-ID",
+  "description": "PT Indo Prima Akses",
+  "subnets": {
+    "ipv4": [
+      "103.162.60.0/23"
+    ],
+    "ipv6": []
+  }
+}

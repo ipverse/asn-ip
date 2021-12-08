@@ -1,0 +1,11 @@
+{
+  "asn": 139248,
+  "handle": "LSC-MOE-AP",
+  "description": "LSHIY Network Technology Limited",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2404:f4c0:5000::/36"
+    ]
+  }
+}

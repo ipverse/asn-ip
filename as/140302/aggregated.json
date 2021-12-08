@@ -1,0 +1,12 @@
+{
+  "asn": 140302,
+  "handle": "CHINATELECOM-JIANGSU-ZHENJIANG-5G-NETWORK",
+  "description": "China Telecom",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "240e:5a:4900::/41",
+      "240e:5a:4980::/42"
+    ]
+  }
+}

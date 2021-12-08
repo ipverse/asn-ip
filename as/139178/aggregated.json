@@ -1,0 +1,13 @@
+{
+  "asn": 139178,
+  "handle": "NXY-BJ",
+  "description": "Rural Credit Banks Funds Clearing Center",
+  "subnets": {
+    "ipv4": [
+      "103.144.70.0/24"
+    ],
+    "ipv6": [
+      "2405:6940::/48"
+    ]
+  }
+}

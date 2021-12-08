@@ -1,0 +1,11 @@
+{
+  "asn": 41063,
+  "handle": "INFOGUARD",
+  "description": "InfoGuard Network Services AB",
+  "subnets": {
+    "ipv4": [
+      "194.145.165.0/24"
+    ],
+    "ipv6": []
+  }
+}

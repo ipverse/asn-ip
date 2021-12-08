@@ -1,0 +1,13 @@
+{
+  "asn": 209582,
+  "handle": "GOLDINGER",
+  "description": "Goldinger IT GmbH",
+  "subnets": {
+    "ipv4": [
+      "188.190.108.0/22"
+    ],
+    "ipv6": [
+      "2a0d:d1c0::/32"
+    ]
+  }
+}

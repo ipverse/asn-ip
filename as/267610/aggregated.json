@@ -1,0 +1,13 @@
+{
+  "asn": 267610,
+  "handle": "SERVICOS-DE-PROVEDORES",
+  "description": "SERVICOS DE PROVEDORES DE ACESSO AS REDES DE TELEC",
+  "subnets": {
+    "ipv4": [
+      "45.70.248.0/22"
+    ],
+    "ipv6": [
+      "2804:4438::/32"
+    ]
+  }
+}

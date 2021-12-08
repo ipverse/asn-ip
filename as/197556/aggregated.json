@@ -1,0 +1,12 @@
+{
+  "asn": 197556,
+  "handle": "TNS",
+  "description": "TNS-Plus LLP",
+  "subnets": {
+    "ipv4": [
+      "91.215.96.0/23",
+      "91.215.98.0/24"
+    ],
+    "ipv6": []
+  }
+}

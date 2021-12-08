@@ -1,0 +1,13 @@
+{
+  "asn": 263390,
+  "handle": "FNT-TELECOMUNICACOES-E",
+  "description": "FNT Telecomunicações e acesso a redes de Internet",
+  "subnets": {
+    "ipv4": [
+      "177.222.176.0/20"
+    ],
+    "ipv6": [
+      "2804:157c::/32"
+    ]
+  }
+}

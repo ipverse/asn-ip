@@ -1,0 +1,12 @@
+{
+  "asn": 131741,
+  "handle": "IDNIC-LKPP-ID",
+  "description": "Lembaga Kebijakan Pengadaan Barang/Jasa Pemerintah",
+  "subnets": {
+    "ipv4": [
+      "103.13.181.0/24",
+      "180.233.156.0/24"
+    ],
+    "ipv6": []
+  }
+}

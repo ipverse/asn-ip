@@ -1,0 +1,13 @@
+{
+  "asn": 24873,
+  "handle": "ELLINK",
+  "description": "PJSC Rostelecom",
+  "subnets": {
+    "ipv4": [
+      "81.9.64.0/24",
+      "81.9.67.0/24",
+      "81.9.74.0/24"
+    ],
+    "ipv6": []
+  }
+}

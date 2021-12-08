@@ -1,0 +1,13 @@
+{
+  "asn": 25677,
+  "handle": "AUCTIVA",
+  "description": "Auctiva Corporation",
+  "subnets": {
+    "ipv4": [
+      "38.102.35.0/24",
+      "38.113.119.0/24",
+      "208.82.240.0/21"
+    ],
+    "ipv6": []
+  }
+}

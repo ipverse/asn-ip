@@ -1,0 +1,14 @@
+{
+  "asn": 24463,
+  "handle": "ASCIANO-AP",
+  "description": "ASCIANO SERVICES PTY LTD",
+  "subnets": {
+    "ipv4": [
+      "203.21.176.0/24",
+      "203.21.183.0/24",
+      "203.21.187.0/24",
+      "203.21.188.0/24"
+    ],
+    "ipv6": []
+  }
+}

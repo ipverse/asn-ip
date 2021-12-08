@@ -1,0 +1,12 @@
+{
+  "asn": 11529,
+  "handle": "NGUS",
+  "description": "National Grid",
+  "subnets": {
+    "ipv4": [
+      "148.183.0.0/16",
+      "192.146.145.0/24"
+    ],
+    "ipv6": []
+  }
+}

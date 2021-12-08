@@ -1,0 +1,13 @@
+{
+  "asn": 6095,
+  "handle": "NIBR-US-DMZ",
+  "description": "Novartis Institutes for BioMedical Research, Inc.",
+  "subnets": {
+    "ipv4": [
+      "160.62.21.0/24",
+      "160.62.22.0/24",
+      "204.89.58.0/23"
+    ],
+    "ipv6": []
+  }
+}

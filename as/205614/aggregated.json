@@ -1,0 +1,18 @@
+{
+  "asn": 205614,
+  "handle": "MEDIALINE-EUROTRADE-AG",
+  "description": "Medialine EuroTrade AG",
+  "subnets": {
+    "ipv4": [
+      "45.89.160.0/23",
+      "45.135.124.0/22",
+      "185.171.44.0/22",
+      "193.22.251.0/24"
+    ],
+    "ipv6": [
+      "2a0b:e880::/29",
+      "2a0d:1f80::/32",
+      "2a0e:8b40::/29"
+    ]
+  }
+}

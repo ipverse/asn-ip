@@ -1,0 +1,12 @@
+{
+  "asn": 55602,
+  "handle": "KBCARD-KR-KR",
+  "description": "kbcard",
+  "subnets": {
+    "ipv4": [
+      "1.230.104.0/24",
+      "14.39.213.0/24"
+    ],
+    "ipv6": []
+  }
+}

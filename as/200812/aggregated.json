@@ -1,0 +1,11 @@
+{
+  "asn": 200812,
+  "handle": "SYSTELTEL",
+  "description": "System Telecom LLC",
+  "subnets": {
+    "ipv4": [
+      "195.209.191.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 263304,
+  "handle": "TUTASME-NET",
+  "description": "tutasme net",
+  "subnets": {
+    "ipv4": [
+      "191.7.2.0/24",
+      "191.7.4.0/22"
+    ],
+    "ipv6": []
+  }
+}

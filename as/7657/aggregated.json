@@ -1,0 +1,11 @@
+{
+  "asn": 7657,
+  "handle": "VODAFONE-NZ-NGN",
+  "description": "Vodafone New Zealand Limited",
+  "subnets": {
+    "ipv4": [
+      "205.191.208.0/24"
+    ],
+    "ipv6": []
+  }
+}

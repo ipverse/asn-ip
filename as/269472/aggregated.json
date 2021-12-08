@@ -1,0 +1,13 @@
+{
+  "asn": 269472,
+  "handle": "VIA-LOCAL-INTERNET",
+  "description": "Via Local Internet",
+  "subnets": {
+    "ipv4": [
+      "45.187.152.0/22"
+    ],
+    "ipv6": [
+      "2804:6528::/32"
+    ]
+  }
+}

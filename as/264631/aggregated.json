@@ -1,0 +1,13 @@
+{
+  "asn": 264631,
+  "handle": "RED-PARAGUAYA-DE",
+  "description": "RED PARAGUAYA DE TELECOMUNICACIONES SA",
+  "subnets": {
+    "ipv4": [
+      "143.202.208.0/22"
+    ],
+    "ipv6": [
+      "2803:e140::/32"
+    ]
+  }
+}

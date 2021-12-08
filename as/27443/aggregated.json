@@ -1,0 +1,13 @@
+{
+  "asn": 27443,
+  "handle": "LIFEGRID-INTERNET",
+  "description": "LifeGrid Internet",
+  "subnets": {
+    "ipv4": [
+      "204.8.4.0/24",
+      "204.8.7.0/24",
+      "207.250.251.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asn": 138362,
+  "handle": "PLEXUSCLOUD-AP",
+  "description": "PLEXUS CLOUD",
+  "subnets": {
+    "ipv4": [
+      "103.131.144.0/22"
+    ],
+    "ipv6": []
+  }
+}

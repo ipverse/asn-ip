@@ -1,0 +1,13 @@
+{
+  "asn": 398645,
+  "handle": "CUMBYTEL",
+  "description": "PERSONAL TOUCH COMMUNICATIONS, L.P",
+  "subnets": {
+    "ipv4": [
+      "172.96.64.0/20",
+      "208.101.213.0/24",
+      "208.101.214.0/24"
+    ],
+    "ipv6": []
+  }
+}

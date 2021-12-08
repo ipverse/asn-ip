@@ -1,0 +1,13 @@
+{
+  "asn": 269583,
+  "handle": "+NET-TELECOM",
+  "description": "+NET TELECOM",
+  "subnets": {
+    "ipv4": [
+      "45.189.124.0/22"
+    ],
+    "ipv6": [
+      "2804:66cc::/32"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 267114,
+  "handle": "LINK-NET-BANDA",
+  "description": "LINK NET BANDA LARGA EIRELI - ME",
+  "subnets": {
+    "ipv4": [
+      "45.229.120.0/22"
+    ],
+    "ipv6": [
+      "2804:4854::/32"
+    ]
+  }
+}

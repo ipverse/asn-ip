@@ -1,0 +1,13 @@
+{
+  "asn": 131988,
+  "handle": "TANET",
+  "description": "Takehara Cable Network Co,Ltd",
+  "subnets": {
+    "ipv4": [
+      "103.170.124.0/23"
+    ],
+    "ipv6": [
+      "2407:b0c0::/32"
+    ]
+  }
+}

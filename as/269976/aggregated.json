@@ -1,0 +1,13 @@
+{
+  "asn": 269976,
+  "handle": "TV-MAX-CABLE-SA",
+  "description": "TV MAX CABLE S.A.",
+  "subnets": {
+    "ipv4": [
+      "24.152.40.0/22"
+    ],
+    "ipv6": [
+      "2803:f6e0::/32"
+    ]
+  }
+}

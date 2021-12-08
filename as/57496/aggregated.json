@@ -1,0 +1,13 @@
+{
+  "asn": 57496,
+  "handle": "ASNETKOMUNIKACE",
+  "description": "AIRESS CESKO s.r.o.",
+  "subnets": {
+    "ipv4": [
+      "176.101.144.0/20"
+    ],
+    "ipv6": [
+      "2001:67c:2594::/48"
+    ]
+  }
+}

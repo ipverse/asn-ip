@@ -1,0 +1,12 @@
+{
+  "asn": 327808,
+  "handle": "TESUCO-TELECOMMUNICATIONS",
+  "description": "TESUCO TELECOMMUNICATIONS (PTY) LTD",
+  "subnets": {
+    "ipv4": [
+      "154.73.180.0/22",
+      "165.16.240.0/20"
+    ],
+    "ipv6": []
+  }
+}

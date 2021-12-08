@@ -1,0 +1,15 @@
+{
+  "asn": 264496,
+  "handle": "IR-TECNOLOGIA-LTDA-ME",
+  "description": "IR TECNOLOGIA LTDA ME",
+  "subnets": {
+    "ipv4": [
+      "131.255.224.0/22",
+      "143.255.204.0/22",
+      "170.238.72.0/22"
+    ],
+    "ipv6": [
+      "2804:2084::/32"
+    ]
+  }
+}

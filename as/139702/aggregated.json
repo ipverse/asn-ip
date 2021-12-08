@@ -1,0 +1,11 @@
+{
+  "asn": 139702,
+  "handle": "PEU-AP",
+  "description": "Peu Enterprise",
+  "subnets": {
+    "ipv4": [
+      "103.162.86.0/23"
+    ],
+    "ipv6": []
+  }
+}

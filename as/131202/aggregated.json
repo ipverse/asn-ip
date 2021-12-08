@@ -1,0 +1,12 @@
+{
+  "asn": 131202,
+  "handle": "GRAVITY-AP",
+  "description": "Gravity Internet Ltd",
+  "subnets": {
+    "ipv4": [
+      "103.103.218.0/24",
+      "103.133.117.0/24"
+    ],
+    "ipv6": []
+  }
+}

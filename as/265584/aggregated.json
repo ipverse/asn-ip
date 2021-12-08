@@ -1,0 +1,13 @@
+{
+  "asn": 265584,
+  "handle": "YAHOO-DE-MEXICO-SA-DE-CV",
+  "description": "YAHOO DE MEXICO S.A. DE C.V.",
+  "subnets": {
+    "ipv4": [
+      "45.181.42.0/24"
+    ],
+    "ipv6": [
+      "2801:c4:26::/48"
+    ]
+  }
+}

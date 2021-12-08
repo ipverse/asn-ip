@@ -1,0 +1,11 @@
+{
+  "asn": 140401,
+  "handle": "PROXINET-ID",
+  "description": "PT Proxi Jaringan Nusantara",
+  "subnets": {
+    "ipv4": [
+      "103.150.218.0/23"
+    ],
+    "ipv6": []
+  }
+}

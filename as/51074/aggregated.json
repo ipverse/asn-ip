@@ -1,0 +1,17 @@
+{
+  "asn": 51074,
+  "handle": "MABNA",
+  "description": "GOSTARESH-E-ERTEBATAT-E MABNA COMPANY (Private Joint Stock)",
+  "subnets": {
+    "ipv4": [
+      "31.184.128.0/18",
+      "37.130.202.0/23",
+      "37.130.204.0/24",
+      "178.252.128.0/18",
+      "185.115.148.0/22"
+    ],
+    "ipv6": [
+      "2a02:2b58::/29"
+    ]
+  }
+}

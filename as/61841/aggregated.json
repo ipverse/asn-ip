@@ -1,0 +1,13 @@
+{
+  "asn": 61841,
+  "handle": "UNIVERSIDADE-SEVERINO-SOMBRA",
+  "description": "UNIVERSIDADE SEVERINO SOMBRA",
+  "subnets": {
+    "ipv4": [
+      "192.100.251.0/24"
+    ],
+    "ipv6": [
+      "2801:80:b80::/48"
+    ]
+  }
+}

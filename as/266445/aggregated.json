@@ -1,0 +1,15 @@
+{
+  "asn": 266445,
+  "handle": "SEA-TELECOM-LTDA",
+  "description": "SEA TELECOM LTDA",
+  "subnets": {
+    "ipv4": [
+      "149.102.64.0/20",
+      "149.102.81.0/24",
+      "170.82.180.0/22"
+    ],
+    "ipv6": [
+      "2804:37f0::/32"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 37304,
+  "handle": "TULLOW",
+  "description": "Tullow Ghana Ltd",
+  "subnets": {
+    "ipv4": [
+      "196.43.206.0/23"
+    ],
+    "ipv6": [
+      "2001:43f8:240::/47"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 264221,
+  "handle": "LOGNET-SERVICOS-DE",
+  "description": "Lognet Serviços de Telecomunicações EIRELI",
+  "subnets": {
+    "ipv4": [
+      "138.117.36.0/22"
+    ],
+    "ipv6": [
+      "2804:2468::/32"
+    ]
+  }
+}

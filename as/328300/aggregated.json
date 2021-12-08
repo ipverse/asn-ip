@@ -1,0 +1,11 @@
+{
+  "asn": 328300,
+  "handle": "MALAWI-BANK",
+  "description": "National Bank of Malawi",
+  "subnets": {
+    "ipv4": [
+      "102.176.250.0/24"
+    ],
+    "ipv6": []
+  }
+}

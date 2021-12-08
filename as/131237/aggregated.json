@@ -1,0 +1,11 @@
+{
+  "asn": 131237,
+  "handle": "FWDL-AP",
+  "description": "PT. FWD Life Indonesia",
+  "subnets": {
+    "ipv4": [
+      "103.78.192.0/24"
+    ],
+    "ipv6": []
+  }
+}

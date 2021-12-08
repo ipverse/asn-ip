@@ -1,0 +1,13 @@
+{
+  "asn": 267615,
+  "handle": "FIBER-ITAPE",
+  "description": "Fiber Itapê",
+  "subnets": {
+    "ipv4": [
+      "45.71.76.0/22"
+    ],
+    "ipv6": [
+      "2804:4400::/32"
+    ]
+  }
+}

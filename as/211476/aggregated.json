@@ -1,0 +1,13 @@
+{
+  "asn": 211476,
+  "handle": "TECHLOQ-UK",
+  "description": "Techloq Limited",
+  "subnets": {
+    "ipv4": [
+      "185.182.71.0/24"
+    ],
+    "ipv6": [
+      "2a0f:3680::/32"
+    ]
+  }
+}

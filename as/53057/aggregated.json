@@ -1,0 +1,16 @@
+{
+  "asn": 53057,
+  "handle": "REDEHOST-INTERNET-LTDA",
+  "description": "RedeHost Internet Ltda.",
+  "subnets": {
+    "ipv4": [
+      "170.233.84.0/22",
+      "170.247.48.0/22",
+      "177.55.96.0/19",
+      "187.84.224.0/20"
+    ],
+    "ipv6": [
+      "2804:2ae0::/32"
+    ]
+  }
+}

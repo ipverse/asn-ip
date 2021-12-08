@@ -1,0 +1,13 @@
+{
+  "asn": 43311,
+  "handle": "CCM-BENCHMARK-GROUP",
+  "description": "CCM Benchmark Group SAS",
+  "subnets": {
+    "ipv4": [
+      "91.209.35.0/24",
+      "194.169.240.0/24",
+      "195.248.250.0/23"
+    ],
+    "ipv6": []
+  }
+}

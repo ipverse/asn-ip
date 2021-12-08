@@ -1,0 +1,13 @@
+{
+  "asn": 268505,
+  "handle": "DEEP-TELECOM",
+  "description": "Deep Telecom",
+  "subnets": {
+    "ipv4": [
+      "45.162.112.0/22"
+    ],
+    "ipv6": [
+      "2804:5240::/32"
+    ]
+  }
+}

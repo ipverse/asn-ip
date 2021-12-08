@@ -1,0 +1,12 @@
+{
+  "asn": 4563,
+  "handle": "BTMU-AMERICA",
+  "description": "The Bank of Tokyo-Mitsubishi UFJ",
+  "subnets": {
+    "ipv4": [
+      "198.74.135.0/24",
+      "198.74.136.0/24"
+    ],
+    "ipv6": []
+  }
+}

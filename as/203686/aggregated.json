@@ -1,0 +1,11 @@
+{
+  "asn": 203686,
+  "handle": "SYSTEMHOSTING",
+  "description": "SYSTEMHOSTING A/S",
+  "subnets": {
+    "ipv4": [
+      "80.243.117.0/24"
+    ],
+    "ipv6": []
+  }
+}

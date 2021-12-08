@@ -1,0 +1,12 @@
+{
+  "asn": 49602,
+  "handle": "KRENA",
+  "description": "Private Limited Liability Company KRENA",
+  "subnets": {
+    "ipv4": [
+      "81.7.108.0/22",
+      "81.7.112.0/23"
+    ],
+    "ipv6": []
+  }
+}

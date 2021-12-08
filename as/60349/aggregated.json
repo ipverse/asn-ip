@@ -1,0 +1,13 @@
+{
+  "asn": 60349,
+  "handle": "VARTEH",
+  "description": "Varteh LTD",
+  "subnets": {
+    "ipv4": [
+      "194.38.36.0/22"
+    ],
+    "ipv6": [
+      "2a09:6d40::/32"
+    ]
+  }
+}

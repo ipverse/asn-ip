@@ -1,0 +1,11 @@
+{
+  "asn": 22637,
+  "handle": "C-R-T",
+  "description": "Arialink",
+  "subnets": {
+    "ipv4": [
+      "64.125.206.0/24"
+    ],
+    "ipv6": []
+  }
+}

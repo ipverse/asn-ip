@@ -1,0 +1,11 @@
+{
+  "asn": 37993,
+  "handle": "CRANBROOK-AP",
+  "description": "Cranbrook School",
+  "subnets": {
+    "ipv4": [
+      "203.24.137.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 26518,
+  "handle": "RTINET",
+  "description": "Roome Telecommunications",
+  "subnets": {
+    "ipv4": [
+      "63.162.72.0/21",
+      "207.55.64.0/23"
+    ],
+    "ipv6": []
+  }
+}

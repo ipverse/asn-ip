@@ -1,0 +1,12 @@
+{
+  "asn": 51102,
+  "handle": "IMPATT",
+  "description": "IMPATT SRL",
+  "subnets": {
+    "ipv4": [
+      "93.114.176.0/22",
+      "93.114.183.0/24"
+    ],
+    "ipv6": []
+  }
+}

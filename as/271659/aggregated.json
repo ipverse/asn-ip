@@ -1,0 +1,15 @@
+{
+  "asn": 271659,
+  "handle": "AXT-TELECOMUNICACOES-EIRELI",
+  "description": "AXT TELECOMUNICACOES EIRELI",
+  "subnets": {
+    "ipv4": [
+      "38.10.240.0/22"
+    ],
+    "ipv6": [
+      "2804:7efc::/39",
+      "2804:7efc:300::/40",
+      "2804:7efc:400::/39"
+    ]
+  }
+}

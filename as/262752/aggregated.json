@@ -1,0 +1,14 @@
+{
+  "asn": 262752,
+  "handle": "PROVEDOR-OURONET-LTDA",
+  "description": "PROVEDOR OURONET LTDA",
+  "subnets": {
+    "ipv4": [
+      "177.52.144.0/21",
+      "201.139.84.0/22"
+    ],
+    "ipv6": [
+      "2804:1938::/32"
+    ]
+  }
+}

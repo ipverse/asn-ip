@@ -1,0 +1,12 @@
+{
+  "asn": 264761,
+  "handle": "ERGON-CABLE-SRL",
+  "description": "ERGON CABLE S.R.L",
+  "subnets": {
+    "ipv4": [
+      "168.195.184.0/24",
+      "168.195.186.0/23"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 48276,
+  "handle": "LEVEL",
+  "description": "IPSvyaz OOO",
+  "subnets": {
+    "ipv4": [
+      "109.248.196.0/22",
+      "188.130.254.0/24"
+    ],
+    "ipv6": []
+  }
+}

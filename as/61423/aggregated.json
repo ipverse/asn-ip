@@ -1,0 +1,20 @@
+{
+  "asn": 61423,
+  "handle": "JMP",
+  "description": "JMP Technology Services GmbH",
+  "subnets": {
+    "ipv4": [
+      "185.202.132.0/24",
+      "193.200.196.0/24"
+    ],
+    "ipv6": [
+      "2a0a:d6c0::/48",
+      "2a0a:d6c0:2::/47",
+      "2a0a:d6c0:4::/47",
+      "2a0a:d6c0:6::/48",
+      "2a0a:d6c0:efef::/48",
+      "2a0a:d6c0:eff0::/46",
+      "2a0a:d6c0:efff::/48"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 32782,
+  "handle": "NYC-PROD",
+  "description": "Forex Capital Markets L.L.C.",
+  "subnets": {
+    "ipv4": [
+      "93.174.239.0/24",
+      "204.8.240.0/22"
+    ],
+    "ipv6": []
+  }
+}

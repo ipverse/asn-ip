@@ -1,0 +1,13 @@
+{
+  "asn": 268968,
+  "handle": "VELOZONE-TELECOM-EIRELI",
+  "description": "VELOZONE TELECOM EIRELI",
+  "subnets": {
+    "ipv4": [
+      "45.176.36.0/22"
+    ],
+    "ipv6": [
+      "2804:5d60::/32"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asn": 29466,
+  "handle": "VID",
+  "description": "Valsts Ienemumu Dienests",
+  "subnets": {
+    "ipv4": [
+      "194.213.9.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asn": 20745,
+  "handle": "CNIT-ITALIAN-NATIONAL",
+  "description": "CNIT Italian National Consortium for Telecommunications",
+  "subnets": {
+    "ipv4": [
+      "217.9.64.0/20"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 10014,
+  "handle": "NIHON-U",
+  "description": "Nihon University",
+  "subnets": {
+    "ipv4": [
+      "133.43.0.0/16"
+    ],
+    "ipv6": [
+      "2001:df6:8000::/48"
+    ]
+  }
+}

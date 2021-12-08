@@ -1,0 +1,12 @@
+{
+  "asn": 56087,
+  "handle": "URL-NET-AP",
+  "description": "URL Networks",
+  "subnets": {
+    "ipv4": [
+      "38.9.0.0/22",
+      "180.235.108.0/22"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 134259,
+  "handle": "SKYNETBROADBAND-IN",
+  "description": "Skynet",
+  "subnets": {
+    "ipv4": [
+      "103.61.252.0/22",
+      "103.174.252.0/23"
+    ],
+    "ipv6": []
+  }
+}

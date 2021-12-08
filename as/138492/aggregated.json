@@ -1,0 +1,12 @@
+{
+  "asn": 138492,
+  "handle": "CFO-AP",
+  "description": "Chittagong Focus Online",
+  "subnets": {
+    "ipv4": [
+      "103.127.0.0/23",
+      "103.127.2.0/24"
+    ],
+    "ipv6": []
+  }
+}

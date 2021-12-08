@@ -1,0 +1,12 @@
+{
+  "asn": 61509,
+  "handle": "CORREA-RADIO-VISION-SRL",
+  "description": "CORREA RADIO VISION S.R.L.",
+  "subnets": {
+    "ipv4": [
+      "143.255.136.0/22",
+      "170.83.32.0/22"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asn": 45574,
+  "handle": "HSBC-GR-AP",
+  "description": "HSBC EDPI Pvt Ltd.",
+  "subnets": {
+    "ipv4": [
+      "203.171.222.0/24"
+    ],
+    "ipv6": []
+  }
+}

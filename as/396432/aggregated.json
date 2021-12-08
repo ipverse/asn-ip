@@ -1,0 +1,14 @@
+{
+  "asn": 396432,
+  "handle": "JH-US-01",
+  "description": "JAMES HARDIE BUILDING PRODUCTS, Inc.",
+  "subnets": {
+    "ipv4": [
+      "12.157.171.0/24",
+      "66.161.123.0/24",
+      "147.185.149.0/24",
+      "147.185.150.0/23"
+    ],
+    "ipv6": []
+  }
+}

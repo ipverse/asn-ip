@@ -1,0 +1,13 @@
+{
+  "asn": 265037,
+  "handle": "GLOBO-ON-NET-EIRELI",
+  "description": "GLOBO ON NET EIRELI",
+  "subnets": {
+    "ipv4": [
+      "170.84.220.0/22"
+    ],
+    "ipv6": [
+      "2804:31c8::/32"
+    ]
+  }
+}

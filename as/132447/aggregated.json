@@ -1,0 +1,12 @@
+{
+  "asn": 132447,
+  "handle": "HUTCHISON-LK",
+  "description": "Hutchison Telecommunications Lanka (Private) Limited",
+  "subnets": {
+    "ipv4": [
+      "45.121.88.0/22",
+      "103.21.164.0/22"
+    ],
+    "ipv6": []
+  }
+}

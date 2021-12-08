@@ -1,0 +1,13 @@
+{
+  "asn": 7674,
+  "handle": "GOFORS",
+  "description": "NTT Communications Corporation",
+  "subnets": {
+    "ipv4": [
+      "192.47.160.0/24",
+      "192.47.170.0/23",
+      "192.47.172.0/23"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 209023,
+  "handle": "LAGO",
+  "description": "JOSE LAGO ALVAREZ",
+  "subnets": {
+    "ipv4": [
+      "45.9.36.0/22",
+      "188.213.219.0/24",
+      "188.213.240.0/24"
+    ],
+    "ipv6": []
+  }
+}

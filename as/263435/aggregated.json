@@ -1,0 +1,14 @@
+{
+  "asn": 263435,
+  "handle": "MAIS-NET-TECNOLOGIA-INTEGRADA",
+  "description": "MAIS NET TECNOLOGIA INTEGRADA",
+  "subnets": {
+    "ipv4": [
+      "170.80.128.0/22",
+      "177.67.92.0/22"
+    ],
+    "ipv6": [
+      "2804:11bc::/32"
+    ]
+  }
+}

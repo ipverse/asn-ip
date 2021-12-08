@@ -1,0 +1,13 @@
+{
+  "asn": 52411,
+  "handle": "UNIVERSIDAD-DEL-DESARROLLO",
+  "description": "Universidad del Desarrollo",
+  "subnets": {
+    "ipv4": [
+      "45.229.191.0/24",
+      "179.189.217.0/24",
+      "201.221.123.0/24"
+    ],
+    "ipv6": []
+  }
+}

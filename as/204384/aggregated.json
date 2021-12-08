@@ -1,0 +1,12 @@
+{
+  "asn": 204384,
+  "handle": "TRINITY",
+  "description": "LLC OTT UKRAINE",
+  "subnets": {
+    "ipv4": [
+      "178.209.68.0/24",
+      "178.209.80.0/21"
+    ],
+    "ipv6": []
+  }
+}

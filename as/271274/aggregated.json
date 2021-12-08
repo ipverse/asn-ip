@@ -1,0 +1,13 @@
+{
+  "asn": 271274,
+  "handle": "CLICKCEDRO-PROVEDOR-DE",
+  "description": "CLICKCEDRO PROVEDOR DE INTERNET",
+  "subnets": {
+    "ipv4": [
+      "190.12.136.0/22"
+    ],
+    "ipv6": [
+      "2804:78ec::/32"
+    ]
+  }
+}

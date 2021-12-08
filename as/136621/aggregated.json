@@ -1,0 +1,12 @@
+{
+  "asn": 136621,
+  "handle": "SBP-AP",
+  "description": "SBP Corporation Limited",
+  "subnets": {
+    "ipv4": [
+      "103.94.157.0/24",
+      "172.83.127.0/24"
+    ],
+    "ipv6": []
+  }
+}

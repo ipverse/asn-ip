@@ -1,0 +1,13 @@
+{
+  "asn": 271024,
+  "handle": "WLNET-TELECON",
+  "description": "WLNET TELECON",
+  "subnets": {
+    "ipv4": [
+      "45.227.100.0/22"
+    ],
+    "ipv6": [
+      "2804:751c::/32"
+    ]
+  }
+}

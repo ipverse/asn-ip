@@ -1,0 +1,13 @@
+{
+  "asn": 132315,
+  "handle": "INTILLISMART-AU",
+  "description": "Intillismart Pty Ltd",
+  "subnets": {
+    "ipv4": [
+      "103.12.86.0/23"
+    ],
+    "ipv6": [
+      "2406:3c0::/32"
+    ]
+  }
+}

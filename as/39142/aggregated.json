@@ -1,0 +1,14 @@
+{
+  "asn": 39142,
+  "handle": "INTERNETGROUP-CLOUD",
+  "description": "Internet Group AG",
+  "subnets": {
+    "ipv4": [
+      "193.17.24.0/24",
+      "195.191.240.0/23"
+    ],
+    "ipv6": [
+      "2a0a:dc07::/32"
+    ]
+  }
+}

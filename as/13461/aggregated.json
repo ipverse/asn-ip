@@ -1,0 +1,13 @@
+{
+  "asn": 13461,
+  "handle": "OCC",
+  "description": "The Options Clearing Corporation",
+  "subnets": {
+    "ipv4": [
+      "12.96.170.0/24",
+      "198.133.169.0/24",
+      "216.64.213.0/24"
+    ],
+    "ipv6": []
+  }
+}

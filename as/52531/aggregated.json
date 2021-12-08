@@ -1,0 +1,15 @@
+{
+  "asn": 52531,
+  "handle": "DL-INFORMATICA-LTDA",
+  "description": "DL Informatica Ltda",
+  "subnets": {
+    "ipv4": [
+      "170.233.13.0/24",
+      "170.233.14.0/23",
+      "186.225.216.0/21"
+    ],
+    "ipv6": [
+      "2804:df4:8000::/33"
+    ]
+  }
+}

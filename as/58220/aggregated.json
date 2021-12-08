@@ -1,0 +1,13 @@
+{
+  "asn": 58220,
+  "handle": "PEGASNET",
+  "description": "Tomas Budai",
+  "subnets": {
+    "ipv4": [
+      "185.154.60.0/22"
+    ],
+    "ipv6": [
+      "2a02:fac0::/32"
+    ]
+  }
+}

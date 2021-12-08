@@ -1,0 +1,12 @@
+{
+  "asn": 23887,
+  "handle": "PRODATA-TRANSIT-AP",
+  "description": "PRODATA",
+  "subnets": {
+    "ipv4": [
+      "119.63.0.0/20",
+      "202.71.176.0/20"
+    ],
+    "ipv6": []
+  }
+}

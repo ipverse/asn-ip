@@ -1,0 +1,13 @@
+{
+  "asn": 15800,
+  "handle": "COORDINATOR",
+  "description": "COORDINATOR LTD",
+  "subnets": {
+    "ipv4": [
+      "185.12.112.0/22"
+    ],
+    "ipv6": [
+      "2a02:f080::/30"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 52259,
+  "handle": "SERVICIOS-DE-TECNOLOGIA",
+  "description": "SERVICIOS DE TECNOLOGIA APLICADA SRL",
+  "subnets": {
+    "ipv4": [
+      "186.65.80.0/22",
+      "190.108.192.0/22"
+    ],
+    "ipv6": []
+  }
+}

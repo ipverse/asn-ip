@@ -1,0 +1,11 @@
+{
+  "asn": 211520,
+  "handle": "AMBER",
+  "description": "LLC Amber",
+  "subnets": {
+    "ipv4": [
+      "193.124.42.0/24"
+    ],
+    "ipv6": []
+  }
+}

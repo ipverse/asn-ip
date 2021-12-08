@@ -1,0 +1,13 @@
+{
+  "asn": 397374,
+  "handle": "LOANSCIENCE",
+  "description": "Loan Science",
+  "subnets": {
+    "ipv4": [
+      "72.19.16.0/24",
+      "72.19.19.0/24",
+      "216.117.42.0/24"
+    ],
+    "ipv6": []
+  }
+}

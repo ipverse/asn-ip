@@ -1,0 +1,12 @@
+{
+  "asn": 31072,
+  "handle": "KCIC",
+  "description": "Municipal Enterprise City Information Centre",
+  "subnets": {
+    "ipv4": [
+      "193.23.53.0/24",
+      "195.3.196.0/22"
+    ],
+    "ipv6": []
+  }
+}

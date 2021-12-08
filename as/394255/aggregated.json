@@ -1,0 +1,13 @@
+{
+  "asn": 394255,
+  "handle": "BELLMTSDC-DC01",
+  "description": "Bell MTS Data Centres G.P.",
+  "subnets": {
+    "ipv4": [
+      "216.55.208.0/21"
+    ],
+    "ipv6": [
+      "2606:5c80::/32"
+    ]
+  }
+}

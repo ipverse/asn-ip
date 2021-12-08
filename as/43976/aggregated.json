@@ -1,0 +1,11 @@
+{
+  "asn": 43976,
+  "handle": "POSTEITALIANE",
+  "description": "Poste Italiane SpA",
+  "subnets": {
+    "ipv4": [
+      "62.241.24.0/21"
+    ],
+    "ipv6": []
+  }
+}

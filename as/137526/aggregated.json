@@ -1,0 +1,12 @@
+{
+  "asn": 137526,
+  "handle": "PLUSNETINC-AP",
+  "description": "Plusnet inc.",
+  "subnets": {
+    "ipv4": [
+      "103.111.224.0/22",
+      "205.164.182.0/23"
+    ],
+    "ipv6": []
+  }
+}

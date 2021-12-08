@@ -1,0 +1,12 @@
+{
+  "asn": 21122,
+  "handle": "APPLICABLE",
+  "description": "Applicable Ltd",
+  "subnets": {
+    "ipv4": [
+      "193.108.149.0/24",
+      "193.108.151.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 206711,
+  "handle": "DPIT",
+  "description": "Dataplan IT Partner AS",
+  "subnets": {
+    "ipv4": [
+      "185.176.36.0/22"
+    ],
+    "ipv6": [
+      "2a07:ee00::/32"
+    ]
+  }
+}

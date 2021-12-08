@@ -1,0 +1,14 @@
+{
+  "asn": 57706,
+  "handle": "HYBULA",
+  "description": "Hybula B.V.",
+  "subnets": {
+    "ipv4": [
+      "2.58.58.0/24"
+    ],
+    "ipv6": [
+      "2a09:e240::/48",
+      "2a09:e240:2::/48"
+    ]
+  }
+}

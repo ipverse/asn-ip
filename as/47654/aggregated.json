@@ -1,0 +1,12 @@
+{
+  "asn": 47654,
+  "handle": "VKS-INTERNET",
+  "description": "VKS-internet Ltd",
+  "subnets": {
+    "ipv4": [
+      "91.204.240.0/22",
+      "176.115.160.0/21"
+    ],
+    "ipv6": []
+  }
+}

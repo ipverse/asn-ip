@@ -1,0 +1,12 @@
+{
+  "asn": 21723,
+  "handle": "GOCO",
+  "description": "GOCO TECHNOLOGY LIMITED PARTNERSHIP",
+  "subnets": {
+    "ipv4": [
+      "69.36.120.0/22",
+      "74.49.128.0/18"
+    ],
+    "ipv6": []
+  }
+}

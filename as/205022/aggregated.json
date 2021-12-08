@@ -1,0 +1,13 @@
+{
+  "asn": 205022,
+  "handle": "ESCROW",
+  "description": "Joint-stock company Internet Exchange MSK-IX",
+  "subnets": {
+    "ipv4": [
+      "193.232.72.0/23"
+    ],
+    "ipv6": [
+      "2001:6d0:6d08::/48"
+    ]
+  }
+}

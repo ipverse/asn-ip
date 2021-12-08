@@ -1,0 +1,13 @@
+{
+  "asn": 268187,
+  "handle": "MOVE-NETWORK",
+  "description": "Move Network",
+  "subnets": {
+    "ipv4": [
+      "45.171.60.0/22"
+    ],
+    "ipv6": [
+      "2804:5964::/32"
+    ]
+  }
+}

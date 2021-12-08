@@ -1,0 +1,13 @@
+{
+  "asn": 269674,
+  "handle": "PROVEDOR-DE-INTERNET",
+  "description": "PROVEDOR DE INTERNET EZER LTDA",
+  "subnets": {
+    "ipv4": [
+      "45.191.140.0/22"
+    ],
+    "ipv6": [
+      "2804:6830::/32"
+    ]
+  }
+}

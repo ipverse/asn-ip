@@ -1,0 +1,13 @@
+{
+  "asn": 50207,
+  "handle": "CSC-NL",
+  "description": "CSC Computer Sciences BV",
+  "subnets": {
+    "ipv4": [
+      "20.32.176.0/20",
+      "20.133.64.0/20",
+      "20.155.32.0/20"
+    ],
+    "ipv6": []
+  }
+}

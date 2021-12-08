@@ -1,0 +1,12 @@
+{
+  "asn": 136074,
+  "handle": "SARANACIPTAKOMUNIKASI-ID",
+  "description": "PT. Sarana Cipta Komunikasi",
+  "subnets": {
+    "ipv4": [
+      "103.85.4.0/24",
+      "103.85.6.0/23"
+    ],
+    "ipv6": []
+  }
+}

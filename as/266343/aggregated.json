@@ -1,0 +1,13 @@
+{
+  "asn": 266343,
+  "handle": "INFORLINK-SERVICO-DE",
+  "description": "INFORLINK SERVICO DE COMUNICACAO MULTIMIDIA EIRELI",
+  "subnets": {
+    "ipv4": [
+      "170.239.4.0/22"
+    ],
+    "ipv6": [
+      "2804:365c::/32"
+    ]
+  }
+}

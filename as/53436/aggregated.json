@@ -1,0 +1,13 @@
+{
+  "asn": 53436,
+  "handle": "TELLZA",
+  "description": "Tellza Technologies",
+  "subnets": {
+    "ipv4": [
+      "8.38.91.0/24",
+      "198.96.222.0/24",
+      "204.89.238.0/24"
+    ],
+    "ipv6": []
+  }
+}

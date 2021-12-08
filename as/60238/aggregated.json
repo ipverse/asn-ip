@@ -1,0 +1,13 @@
+{
+  "asn": 60238,
+  "handle": "SCAFP",
+  "description": "SCA FORESTPRODUCTS AB",
+  "subnets": {
+    "ipv4": [
+      "192.36.152.0/24",
+      "192.121.74.0/23",
+      "193.235.12.0/22"
+    ],
+    "ipv6": []
+  }
+}

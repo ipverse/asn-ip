@@ -1,0 +1,13 @@
+{
+  "asn": 211357,
+  "handle": "ANTEC",
+  "description": "ANTEC Servicepool GmbH",
+  "subnets": {
+    "ipv4": [
+      "185.251.100.0/22"
+    ],
+    "ipv6": [
+      "2a10:f5c0::/29"
+    ]
+  }
+}

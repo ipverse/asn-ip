@@ -1,0 +1,13 @@
+{
+  "asn": 266365,
+  "handle": "INTERIP-TECNOLOGIA-LTDA-EPP",
+  "description": "INTERIP TECNOLOGIA LTDA - EPP",
+  "subnets": {
+    "ipv4": [
+      "170.80.4.0/24"
+    ],
+    "ipv6": [
+      "2801:80:1ae0::/48"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 24511,
+  "handle": "NETTRUSTLTD-AP",
+  "description": "NET TRUST LIMITED",
+  "subnets": {
+    "ipv4": [
+      "103.138.130.0/23"
+    ],
+    "ipv6": [
+      "2405:e40::/32"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asn": 138899,
+  "handle": "FSIX-ID",
+  "description": "PT. Mega Akses Persada",
+  "subnets": {
+    "ipv4": [
+      "202.73.108.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 142566,
+  "handle": "BAOYUN-AP",
+  "description": "Aperture Science Limited",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2602:feda:d82::/48",
+      "2a0d:2584:f000::/36"
+    ]
+  }
+}

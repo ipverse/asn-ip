@@ -1,0 +1,13 @@
+{
+  "asn": 18741,
+  "handle": "SOUNDHOUND1",
+  "description": "SoundHound, Inc.",
+  "subnets": {
+    "ipv4": [
+      "8.5.161.0/24",
+      "8.25.217.0/24",
+      "198.49.100.0/24"
+    ],
+    "ipv6": []
+  }
+}

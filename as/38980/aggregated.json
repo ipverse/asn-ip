@@ -1,0 +1,12 @@
+{
+  "asn": 38980,
+  "handle": "PRIORBANK-BY",
+  "description": "Priorbank JSC",
+  "subnets": {
+    "ipv4": [
+      "185.137.116.0/24",
+      "217.23.120.0/24"
+    ],
+    "ipv6": []
+  }
+}

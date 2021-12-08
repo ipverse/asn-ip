@@ -1,0 +1,16 @@
+{
+  "asn": 38493,
+  "handle": "ROYALGREENINCBD-TRANSIT-AP",
+  "description": "Royal Green Online Ltd.",
+  "subnets": {
+    "ipv4": [
+      "103.123.8.0/22",
+      "103.151.213.0/24",
+      "103.169.104.0/24",
+      "123.136.24.0/21"
+    ],
+    "ipv6": [
+      "2404:7e00::/32"
+    ]
+  }
+}

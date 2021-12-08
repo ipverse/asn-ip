@@ -1,0 +1,13 @@
+{
+  "asn": 134503,
+  "handle": "FLASH-FIBRES-AP",
+  "description": "BKH ENTERPRISES PTY LTD",
+  "subnets": {
+    "ipv4": [
+      "103.35.80.0/22"
+    ],
+    "ipv6": [
+      "2402:c180::/32"
+    ]
+  }
+}

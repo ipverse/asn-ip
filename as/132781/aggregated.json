@@ -1,0 +1,13 @@
+{
+  "asn": 132781,
+  "handle": "UNICEL",
+  "description": "Unicel Technologies Pvt Ltd",
+  "subnets": {
+    "ipv4": [
+      "103.207.100.0/23",
+      "103.250.30.0/24",
+      "203.153.208.0/24"
+    ],
+    "ipv6": []
+  }
+}

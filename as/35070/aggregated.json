@@ -1,0 +1,13 @@
+{
+  "asn": 35070,
+  "handle": "DIGITAL-VIRGO",
+  "description": "PS MOBILE ACCESS SASU",
+  "subnets": {
+    "ipv4": [
+      "185.223.228.0/22"
+    ],
+    "ipv6": [
+      "2a0d:4040::/29"
+    ]
+  }
+}

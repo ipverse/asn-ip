@@ -1,0 +1,13 @@
+{
+  "asn": 33538,
+  "handle": "MIMECAST-CA",
+  "description": "Mimecast North America Inc",
+  "subnets": {
+    "ipv4": [
+      "170.10.144.0/22"
+    ],
+    "ipv6": [
+      "2620:134:6006::/47"
+    ]
+  }
+}

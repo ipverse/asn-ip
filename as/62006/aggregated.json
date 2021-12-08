@@ -1,0 +1,12 @@
+{
+  "asn": 62006,
+  "handle": "UNECHA-TELESET",
+  "description": "Unecha Television Network Ltd.",
+  "subnets": {
+    "ipv4": [
+      "92.38.43.0/24",
+      "95.46.105.0/24"
+    ],
+    "ipv6": []
+  }
+}

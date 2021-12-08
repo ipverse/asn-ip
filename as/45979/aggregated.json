@@ -1,0 +1,13 @@
+{
+  "asn": 45979,
+  "handle": "KBDATA-KR-KR",
+  "description": "KB DATA SYSTEMS",
+  "subnets": {
+    "ipv4": [
+      "61.42.238.0/23",
+      "211.244.0.0/24",
+      "211.244.5.0/24"
+    ],
+    "ipv6": []
+  }
+}

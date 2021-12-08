@@ -1,0 +1,14 @@
+{
+  "asn": 136956,
+  "handle": "ANATPL-AP",
+  "description": "Assistive Networks and technologies Pvt Ltd",
+  "subnets": {
+    "ipv4": [
+      "103.100.36.0/22",
+      "103.210.132.0/22"
+    ],
+    "ipv6": [
+      "2401:b840::/32"
+    ]
+  }
+}

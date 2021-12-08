@@ -1,0 +1,12 @@
+{
+  "asn": 30376,
+  "handle": "COLLEGE-OF-ST-SCHOLASTICA",
+  "description": "College of St. Scholastica",
+  "subnets": {
+    "ipv4": [
+      "143.110.0.0/18",
+      "143.110.64.0/19"
+    ],
+    "ipv6": []
+  }
+}

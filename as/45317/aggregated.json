@@ -1,0 +1,11 @@
+{
+  "asn": 45317,
+  "handle": "JATARA-ID",
+  "description": "Jaringan Lintas Utara, PT",
+  "subnets": {
+    "ipv4": [
+      "203.190.40.0/21"
+    ],
+    "ipv6": []
+  }
+}

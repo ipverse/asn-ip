@@ -1,0 +1,13 @@
+{
+  "asn": 134967,
+  "handle": "TQL-AP",
+  "description": "TopQuality Limited",
+  "subnets": {
+    "ipv4": [
+      "103.22.244.0/22"
+    ],
+    "ipv6": [
+      "2404:3980::/32"
+    ]
+  }
+}

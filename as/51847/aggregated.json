@@ -1,0 +1,13 @@
+{
+  "asn": 51847,
+  "handle": "NEAROUTE",
+  "description": "Nearoute Limited",
+  "subnets": {
+    "ipv4": [
+      "103.172.182.0/23",
+      "146.19.174.0/24",
+      "154.18.170.0/24"
+    ],
+    "ipv6": []
+  }
+}

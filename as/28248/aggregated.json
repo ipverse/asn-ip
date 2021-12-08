@@ -1,0 +1,16 @@
+{
+  "asn": 28248,
+  "handle": "BRB-BANCO-DE-BRASILIA-SA",
+  "description": "BRB - Banco de Brasília S/A",
+  "subnets": {
+    "ipv4": [
+      "200.11.16.0/23",
+      "200.11.22.0/24",
+      "200.11.26.0/23",
+      "200.11.28.0/24"
+    ],
+    "ipv6": [
+      "2801:80:1aa0::/48"
+    ]
+  }
+}

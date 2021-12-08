@@ -1,0 +1,13 @@
+{
+  "asn": 134496,
+  "handle": "STELCH-AP",
+  "description": "HostUS Solutions LLC",
+  "subnets": {
+    "ipv4": [
+      "117.121.243.0/24"
+    ],
+    "ipv6": [
+      "2402:e380:303::/48"
+    ]
+  }
+}

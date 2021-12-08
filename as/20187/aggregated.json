@@ -1,0 +1,12 @@
+{
+  "asn": 20187,
+  "handle": "PASSPORTHEALTH",
+  "description": "Passport Health Communications, Inc.",
+  "subnets": {
+    "ipv4": [
+      "199.96.232.0/22",
+      "207.65.76.0/23"
+    ],
+    "ipv6": []
+  }
+}

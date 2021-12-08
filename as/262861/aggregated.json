@@ -1,0 +1,14 @@
+{
+  "asn": 262861,
+  "handle": "VIAFIBRA-TELECOMUNICACOES-LTDA",
+  "description": "VIAFIBRA TELECOMUNICAÇÕES LTDA",
+  "subnets": {
+    "ipv4": [
+      "177.10.224.0/21",
+      "191.7.168.0/21"
+    ],
+    "ipv6": [
+      "2804:1450::/32"
+    ]
+  }
+}

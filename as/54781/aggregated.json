@@ -1,0 +1,13 @@
+{
+  "asn": 54781,
+  "handle": "SYSCO",
+  "description": "Sysco Corporation",
+  "subnets": {
+    "ipv4": [
+      "65.125.90.0/24",
+      "69.94.16.0/20",
+      "208.185.48.0/23"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 213206,
+  "handle": "MAP-ASHI",
+  "description": "Ministria e Administrates Publike",
+  "subnets": {
+    "ipv4": [
+      "91.239.145.0/24"
+    ],
+    "ipv6": [
+      "2a07:e0c0::/30"
+    ]
+  }
+}

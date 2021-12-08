@@ -1,0 +1,13 @@
+{
+  "asn": 62106,
+  "handle": "CISBG",
+  "description": "Cable Internet Systems Ltd.",
+  "subnets": {
+    "ipv4": [
+      "91.92.55.0/24",
+      "91.92.56.0/21",
+      "193.164.248.0/22"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asn": 201312,
+  "handle": "BPCBT",
+  "description": "LLC BPC Banking Technologies",
+  "subnets": {
+    "ipv4": [
+      "194.226.51.0/24"
+    ],
+    "ipv6": []
+  }
+}

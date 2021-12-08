@@ -1,0 +1,13 @@
+{
+  "asn": 49792,
+  "handle": "MENET",
+  "description": "Menet LTD",
+  "subnets": {
+    "ipv4": [
+      "45.142.196.0/22"
+    ],
+    "ipv6": [
+      "2a0e:db40::/29"
+    ]
+  }
+}

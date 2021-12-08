@@ -1,0 +1,13 @@
+{
+  "asn": 62270,
+  "handle": "ASPH",
+  "description": "asphericon GmbH",
+  "subnets": {
+    "ipv4": [
+      "193.162.140.0/24"
+    ],
+    "ipv6": [
+      "2a10:8080::/29"
+    ]
+  }
+}

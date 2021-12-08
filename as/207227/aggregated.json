@@ -1,0 +1,13 @@
+{
+  "asn": 207227,
+  "handle": "BOOT",
+  "description": "Bootstrap di Giuseppe La Rocca",
+  "subnets": {
+    "ipv4": [
+      "185.74.36.0/22"
+    ],
+    "ipv6": [
+      "2a05:48c0::/29"
+    ]
+  }
+}

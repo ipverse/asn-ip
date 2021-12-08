@@ -1,0 +1,13 @@
+{
+  "asn": 140214,
+  "handle": "GPIL-AP",
+  "description": "Create Prominent Information Limited",
+  "subnets": {
+    "ipv4": [
+      "103.12.209.0/24",
+      "103.148.145.0/24",
+      "103.173.56.0/24"
+    ],
+    "ipv6": []
+  }
+}

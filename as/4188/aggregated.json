@@ -1,0 +1,12 @@
+{
+  "asn": 4188,
+  "handle": "GILBARCO",
+  "description": "Gilbarco, Inc.",
+  "subnets": {
+    "ipv4": [
+      "12.43.217.0/24",
+      "64.90.126.0/23"
+    ],
+    "ipv6": []
+  }
+}

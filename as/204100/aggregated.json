@@ -1,0 +1,12 @@
+{
+  "asn": 204100,
+  "handle": "PCBK",
+  "description": "ProCredit Bank Sh.a",
+  "subnets": {
+    "ipv4": [
+      "185.114.112.0/23",
+      "185.114.114.0/24"
+    ],
+    "ipv6": []
+  }
+}

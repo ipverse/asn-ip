@@ -1,0 +1,12 @@
+{
+  "asn": 38564,
+  "handle": "NVIDIA-ASIA-IN-GW-AP",
+  "description": "NVIDIA",
+  "subnets": {
+    "ipv4": [
+      "203.18.50.0/24",
+      "216.228.126.0/24"
+    ],
+    "ipv6": []
+  }
+}

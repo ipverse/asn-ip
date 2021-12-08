@@ -1,0 +1,13 @@
+{
+  "asn": 4898,
+  "handle": "OPENTABLE",
+  "description": "Opentable, Inc.",
+  "subnets": {
+    "ipv4": [
+      "66.151.130.0/24",
+      "199.16.145.0/24",
+      "199.16.147.0/24"
+    ],
+    "ipv6": []
+  }
+}

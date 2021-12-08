@@ -1,0 +1,13 @@
+{
+  "asn": 267302,
+  "handle": "ASSOC-USU-SIST",
+  "description": "ASSOC. USU. SIST. TELEC. AFINS DO CENTRO EMPRES SP",
+  "subnets": {
+    "ipv4": [
+      "45.232.232.0/22"
+    ],
+    "ipv6": [
+      "2804:4b60::/32"
+    ]
+  }
+}

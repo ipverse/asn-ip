@@ -1,0 +1,12 @@
+{
+  "asn": 20479,
+  "handle": "TCF-ASN-TCF",
+  "description": "TCF Financial Corporation",
+  "subnets": {
+    "ipv4": [
+      "174.136.129.0/24",
+      "205.167.198.0/23"
+    ],
+    "ipv6": []
+  }
+}

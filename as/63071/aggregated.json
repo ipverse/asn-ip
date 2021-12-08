@@ -1,0 +1,13 @@
+{
+  "asn": 63071,
+  "handle": "STAFFORDCOUNTYPUBLICSCHOOLS",
+  "description": "Stafford County Public Schools",
+  "subnets": {
+    "ipv4": [
+      "38.73.227.0/24",
+      "38.73.233.0/24",
+      "174.66.101.0/24"
+    ],
+    "ipv6": []
+  }
+}

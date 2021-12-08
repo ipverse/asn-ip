@@ -1,0 +1,12 @@
+{
+  "asn": 131287,
+  "handle": "YONDER-AP",
+  "description": "Yonder.Co.Nz Limited",
+  "subnets": {
+    "ipv4": [
+      "103.68.197.0/24",
+      "103.150.170.0/24"
+    ],
+    "ipv6": []
+  }
+}

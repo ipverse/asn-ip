@@ -1,0 +1,13 @@
+{
+  "asn": 4926,
+  "handle": "TELEFONICA-DE-ARGENTINA",
+  "description": "Texas Education Agency",
+  "subnets": {
+    "ipv4": [
+      "168.226.39.0/24",
+      "168.226.40.0/21",
+      "168.226.48.0/23"
+    ],
+    "ipv6": []
+  }
+}

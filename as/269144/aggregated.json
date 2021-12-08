@@ -1,0 +1,13 @@
+{
+  "asn": 269144,
+  "handle": "SILVANET-PROVEDOR-DE",
+  "description": "SILVANET PROVEDOR DE INTERNET LTDA",
+  "subnets": {
+    "ipv4": [
+      "45.179.240.0/22"
+    ],
+    "ipv6": [
+      "2804:6014:8000::/33"
+    ]
+  }
+}

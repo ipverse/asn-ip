@@ -1,0 +1,13 @@
+{
+  "asn": 270916,
+  "handle": "FIBERCON-TELECOMUNICACOES-LTDA",
+  "description": "Fibercon Telecomunicacoes Ltda.",
+  "subnets": {
+    "ipv4": [
+      "177.200.140.0/22"
+    ],
+    "ipv6": [
+      "2804:7374::/32"
+    ]
+  }
+}

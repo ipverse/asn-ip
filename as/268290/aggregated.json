@@ -1,0 +1,11 @@
+{
+  "asn": 268290,
+  "handle": "BIG-NET-PROVEDOR",
+  "description": "Big Net Provedor de Internet Eireli",
+  "subnets": {
+    "ipv4": [
+      "45.237.204.0/22"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 141999,
+  "handle": "RAFATECHSYSTEMSDNBHD-AP",
+  "description": "Rafatech System Sdn Bhd",
+  "subnets": {
+    "ipv4": [
+      "103.164.66.0/24"
+    ],
+    "ipv6": [
+      "2001:df6:4080::/48"
+    ]
+  }
+}

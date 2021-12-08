@@ -1,0 +1,11 @@
+{
+  "asn": 61500,
+  "handle": "PARKNET-SRL",
+  "description": "ParkNet SRL",
+  "subnets": {
+    "ipv4": [
+      "138.121.80.0/22"
+    ],
+    "ipv6": []
+  }
+}

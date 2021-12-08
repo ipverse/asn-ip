@@ -1,0 +1,13 @@
+{
+  "asn": 34574,
+  "handle": "REKSOFT",
+  "description": "Reksoft Co. Ltd.",
+  "subnets": {
+    "ipv4": [
+      "188.64.144.0/21"
+    ],
+    "ipv6": [
+      "2a00:1120::/32"
+    ]
+  }
+}

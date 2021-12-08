@@ -1,0 +1,13 @@
+{
+  "asn": 52729,
+  "handle": "BRNET-INFORMATICA",
+  "description": "BrNet Informatica",
+  "subnets": {
+    "ipv4": [
+      "177.84.216.0/21"
+    ],
+    "ipv6": [
+      "2804:c9c::/32"
+    ]
+  }
+}

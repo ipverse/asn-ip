@@ -1,0 +1,14 @@
+{
+  "asn": 44099,
+  "handle": "RUNISO",
+  "description": "Claranet SAS",
+  "subnets": {
+    "ipv4": [
+      "31.12.64.0/21",
+      "178.248.184.0/21"
+    ],
+    "ipv6": [
+      "2a00:64a0::/32"
+    ]
+  }
+}

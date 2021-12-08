@@ -1,0 +1,11 @@
+{
+  "asn": 262579,
+  "handle": "GE-NETWORK-PROVEDOR",
+  "description": "GE Network Provedor de Internet LTDA",
+  "subnets": {
+    "ipv4": [
+      "177.84.48.0/21"
+    ],
+    "ipv6": []
+  }
+}

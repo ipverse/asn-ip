@@ -1,0 +1,13 @@
+{
+  "asn": 263126,
+  "handle": "XMAX-TELECOM-LTDA",
+  "description": "XMAX TELECOM LTDA.",
+  "subnets": {
+    "ipv4": [
+      "177.92.184.0/21"
+    ],
+    "ipv6": [
+      "2804:1724::/32"
+    ]
+  }
+}

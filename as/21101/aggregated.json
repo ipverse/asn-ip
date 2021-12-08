@@ -1,0 +1,12 @@
+{
+  "asn": 21101,
+  "handle": "SISTEMIUNO",
+  "description": "Sistemi Hardware\u0026Software S.P.A.",
+  "subnets": {
+    "ipv4": [
+      "94.143.96.0/21",
+      "193.109.32.0/21"
+    ],
+    "ipv6": []
+  }
+}

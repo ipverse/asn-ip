@@ -1,0 +1,14 @@
+{
+  "asn": 141370,
+  "handle": "CTTCL-AP",
+  "description": "CAMBODIAN TXT TELECOM CO., LTD.",
+  "subnets": {
+    "ipv4": [
+      "103.157.173.0/24",
+      "156.227.20.0/23"
+    ],
+    "ipv6": [
+      "2001:df5:2880::/48"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 53504,
+  "handle": "PULSENET-OPTIBAND",
+  "description": "PulseNET",
+  "subnets": {
+    "ipv4": [
+      "199.255.168.0/22",
+      "199.255.172.0/23",
+      "199.255.175.0/24"
+    ],
+    "ipv6": []
+  }
+}

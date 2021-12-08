@@ -1,0 +1,12 @@
+{
+  "asn": 43002,
+  "handle": "KTV-GARS-KLIPSO-GMBH",
+  "description": "Klipso GmbH",
+  "subnets": {
+    "ipv4": [
+      "62.93.116.0/22",
+      "195.62.84.0/23"
+    ],
+    "ipv6": []
+  }
+}

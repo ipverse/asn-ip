@@ -1,0 +1,13 @@
+{
+  "asn": 395059,
+  "handle": "BLUESTEMFIBER",
+  "description": "Bluestem Network, LLC",
+  "subnets": {
+    "ipv4": [
+      "104.255.24.0/24",
+      "104.255.27.0/24",
+      "104.255.30.0/23"
+    ],
+    "ipv6": []
+  }
+}

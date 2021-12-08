@@ -1,0 +1,11 @@
+{
+  "asn": 133116,
+  "handle": "KCGM-AP",
+  "description": "Kalgoorlie Consolidated Gold Mines",
+  "subnets": {
+    "ipv4": [
+      "203.28.115.0/24"
+    ],
+    "ipv6": []
+  }
+}

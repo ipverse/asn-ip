@@ -1,0 +1,12 @@
+{
+  "asn": 134137,
+  "handle": "TIDCC-AP",
+  "description": "True Internet Data Center Company Limited",
+  "subnets": {
+    "ipv4": [
+      "103.55.0.0/24",
+      "103.55.3.0/24"
+    ],
+    "ipv6": []
+  }
+}

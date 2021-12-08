@@ -1,0 +1,13 @@
+{
+  "asn": 139901,
+  "handle": "APPLE1-AP",
+  "description": "Apple Communication Ltd.",
+  "subnets": {
+    "ipv4": [
+      "103.85.236.0/22"
+    ],
+    "ipv6": [
+      "2400:b340::/32"
+    ]
+  }
+}

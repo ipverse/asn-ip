@@ -1,0 +1,13 @@
+{
+  "asn": 204741,
+  "handle": "ES-AIRSAT",
+  "description": "AIRSAT COMUNICACIONES S.L.",
+  "subnets": {
+    "ipv4": [
+      "154.61.100.0/22",
+      "154.63.136.0/22",
+      "185.242.24.0/22"
+    ],
+    "ipv6": []
+  }
+}

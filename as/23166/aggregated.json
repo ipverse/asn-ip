@@ -1,0 +1,12 @@
+{
+  "asn": 23166,
+  "handle": "NORVAX",
+  "description": "Norvax, LLC",
+  "subnets": {
+    "ipv4": [
+      "198.98.13.0/24",
+      "199.38.143.0/24"
+    ],
+    "ipv6": []
+  }
+}

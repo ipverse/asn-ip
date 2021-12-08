@@ -1,0 +1,11 @@
+{
+  "asn": 60546,
+  "handle": "EUROUTING",
+  "description": "EU Routing Ltd",
+  "subnets": {
+    "ipv4": [
+      "194.106.198.0/24"
+    ],
+    "ipv6": []
+  }
+}

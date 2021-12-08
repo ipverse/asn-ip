@@ -1,0 +1,11 @@
+{
+  "asn": 139679,
+  "handle": "OEC-AP",
+  "description": "Office of the Electoral Commission",
+  "subnets": {
+    "ipv4": [
+      "103.143.149.0/24"
+    ],
+    "ipv6": []
+  }
+}

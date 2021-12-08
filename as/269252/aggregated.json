@@ -1,0 +1,13 @@
+{
+  "asn": 269252,
+  "handle": "JATO64-TELECOMUNICACOES-EIRELI",
+  "description": "Jato64 Telecomunicações EIRELI.",
+  "subnets": {
+    "ipv4": [
+      "45.181.220.0/22"
+    ],
+    "ipv6": [
+      "2804:61b8::/32"
+    ]
+  }
+}

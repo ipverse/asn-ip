@@ -1,0 +1,12 @@
+{
+  "asn": 24120,
+  "handle": "AEMO-INET-AU",
+  "description": "AEMO - Australian Energy Market Operator Limited",
+  "subnets": {
+    "ipv4": [
+      "146.178.9.0/24",
+      "202.44.76.0/22"
+    ],
+    "ipv6": []
+  }
+}

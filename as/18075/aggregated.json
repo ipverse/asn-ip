@@ -1,0 +1,13 @@
+{
+  "asn": 18075,
+  "handle": "HICAT",
+  "description": "Chupicom Hiroshima Corp.",
+  "subnets": {
+    "ipv4": [
+      "202.56.16.0/20",
+      "202.95.160.0/20",
+      "202.171.80.0/20"
+    ],
+    "ipv6": []
+  }
+}

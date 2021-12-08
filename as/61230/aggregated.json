@@ -1,0 +1,11 @@
+{
+  "asn": 61230,
+  "handle": "IPTT",
+  "description": "Internet Protocol Transit Telecom Ltd.",
+  "subnets": {
+    "ipv4": [
+      "185.67.253.0/24"
+    ],
+    "ipv6": []
+  }
+}

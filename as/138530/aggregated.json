@@ -1,0 +1,15 @@
+{
+  "asn": 138530,
+  "handle": "CHENG-AP",
+  "description": "CHENG TONG TECHNOLOGY CO.,LIMITED",
+  "subnets": {
+    "ipv4": [
+      "103.147.17.0/24",
+      "103.147.18.0/23"
+    ],
+    "ipv6": [
+      "2001:df2:7b80::/48",
+      "2001:df2:7c80::/48"
+    ]
+  }
+}

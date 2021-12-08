@@ -1,0 +1,12 @@
+{
+  "asn": 136268,
+  "handle": "QSRSYSTEMSLTD-AP",
+  "description": "QSR Systems Ltd.",
+  "subnets": {
+    "ipv4": [
+      "103.85.216.0/23",
+      "103.85.219.0/24"
+    ],
+    "ipv6": []
+  }
+}

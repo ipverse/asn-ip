@@ -1,0 +1,11 @@
+{
+  "asn": 38315,
+  "handle": "GAZICOMM-AP",
+  "description": "Gazi Communications",
+  "subnets": {
+    "ipv4": [
+      "203.169.24.0/21"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 52549,
+  "handle": "NET-PREMIUM-LTDA-ME",
+  "description": "NET PREMIUM LTDA - ME",
+  "subnets": {
+    "ipv4": [
+      "177.86.36.0/22",
+      "200.95.176.0/22"
+    ],
+    "ipv6": []
+  }
+}

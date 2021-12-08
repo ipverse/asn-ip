@@ -1,0 +1,13 @@
+{
+  "asn": 263652,
+  "handle": "CMDNET-INTERNET-INFORMATICA",
+  "description": "CMDNET Internet \u0026 Informática Ltda",
+  "subnets": {
+    "ipv4": [
+      "177.74.224.0/20"
+    ],
+    "ipv6": [
+      "2804:10dc::/32"
+    ]
+  }
+}

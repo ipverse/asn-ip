@@ -1,0 +1,11 @@
+{
+  "asn": 262222,
+  "handle": "OFICINA-PROVINCIAL-DE",
+  "description": "Oficina Provincial de Tecnologias de la Información (O.P.T.I.C.)",
+  "subnets": {
+    "ipv4": [
+      "190.185.100.0/22"
+    ],
+    "ipv6": []
+  }
+}

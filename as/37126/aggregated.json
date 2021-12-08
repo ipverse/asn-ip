@@ -1,0 +1,14 @@
+{
+  "asn": 37126,
+  "handle": "BELL-TZ",
+  "description": "Bell Communications Ltd",
+  "subnets": {
+    "ipv4": [
+      "41.222.88.0/21",
+      "154.127.16.0/20"
+    ],
+    "ipv6": [
+      "2c0f:f320::/32"
+    ]
+  }
+}

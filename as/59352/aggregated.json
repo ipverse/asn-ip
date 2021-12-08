@@ -1,0 +1,12 @@
+{
+  "asn": 59352,
+  "handle": "AUSTREME",
+  "description": "Austreme International Limited",
+  "subnets": {
+    "ipv4": [
+      "103.255.252.0/24",
+      "103.255.254.0/24"
+    ],
+    "ipv6": []
+  }
+}

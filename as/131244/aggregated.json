@@ -1,0 +1,12 @@
+{
+  "asn": 131244,
+  "handle": "INVIS-AP",
+  "description": "Invisalign Singapore Pte. Ltd.",
+  "subnets": {
+    "ipv4": [
+      "103.68.133.0/24",
+      "103.68.134.0/23"
+    ],
+    "ipv6": []
+  }
+}

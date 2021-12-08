@@ -1,0 +1,13 @@
+{
+  "asn": 8360,
+  "handle": "ALLIANZ-TECHNOLOGY-SE",
+  "description": "Allianz Technology SE",
+  "subnets": {
+    "ipv4": [
+      "193.58.220.0/23",
+      "194.127.68.0/22",
+      "194.127.72.0/22"
+    ],
+    "ipv6": []
+  }
+}

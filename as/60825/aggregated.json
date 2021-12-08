@@ -1,0 +1,12 @@
+{
+  "asn": 60825,
+  "handle": "CITRIXSYSTEMS-UK",
+  "description": "Citrix Systems UK Ltd.",
+  "subnets": {
+    "ipv4": [
+      "185.25.64.0/23",
+      "185.25.67.0/24"
+    ],
+    "ipv6": []
+  }
+}

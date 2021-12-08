@@ -1,0 +1,13 @@
+{
+  "asn": 271329,
+  "handle": "M-F-A",
+  "description": "M F A PROVEDOR DE INTERNET ISP TUTOIA LTDA",
+  "subnets": {
+    "ipv4": [
+      "45.170.36.0/22"
+    ],
+    "ipv6": [
+      "2804:79d0::/32"
+    ]
+  }
+}

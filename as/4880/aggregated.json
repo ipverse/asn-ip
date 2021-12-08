@@ -1,0 +1,11 @@
+{
+  "asn": 4880,
+  "handle": "LIFELINE",
+  "description": "Lifeline Systems, Company",
+  "subnets": {
+    "ipv4": [
+      "199.36.96.0/22"
+    ],
+    "ipv6": []
+  }
+}

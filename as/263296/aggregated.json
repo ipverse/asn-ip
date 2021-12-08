@@ -1,0 +1,12 @@
+{
+  "asn": 263296,
+  "handle": "INTERFACIL-INTERNET-PROVIDER",
+  "description": "Interfacil - Internet Provider",
+  "subnets": {
+    "ipv4": [
+      "170.150.80.0/22",
+      "177.85.44.0/22"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 136867,
+  "handle": "IDNIC-TELKOMTELSTRA-ID",
+  "description": "PT. Teltranet Aplikasi Solusi (Telkomtelstra)",
+  "subnets": {
+    "ipv4": [
+      "103.104.136.0/24",
+      "103.104.138.0/24"
+    ],
+    "ipv6": []
+  }
+}

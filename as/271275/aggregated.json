@@ -1,0 +1,13 @@
+{
+  "asn": 271275,
+  "handle": "GERACAO-TELECOM-TELECOMUNICACOES",
+  "description": "Geracao Telecom Telecomunicacoes LTDA",
+  "subnets": {
+    "ipv4": [
+      "45.163.0.0/22"
+    ],
+    "ipv6": [
+      "2804:78f0::/32"
+    ]
+  }
+}

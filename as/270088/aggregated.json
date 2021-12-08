@@ -1,0 +1,11 @@
+{
+  "asn": 270088,
+  "handle": "GUAJIRANET-ISP-SAS",
+  "description": "GUAJIRANET ISP S.A.S.",
+  "subnets": {
+    "ipv4": [
+      "170.0.10.0/23"
+    ],
+    "ipv6": []
+  }
+}

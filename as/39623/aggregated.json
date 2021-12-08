@@ -1,0 +1,12 @@
+{
+  "asn": 39623,
+  "handle": "KIRONET",
+  "description": "KiroNet Ltd.",
+  "subnets": {
+    "ipv4": [
+      "95.46.168.0/22",
+      "95.46.172.0/23"
+    ],
+    "ipv6": []
+  }
+}

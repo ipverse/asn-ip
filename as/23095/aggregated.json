@@ -1,0 +1,12 @@
+{
+  "asn": 23095,
+  "handle": "SHARP",
+  "description": "SHARP HealthCare",
+  "subnets": {
+    "ipv4": [
+      "199.164.159.0/24",
+      "199.164.160.0/23"
+    ],
+    "ipv6": []
+  }
+}

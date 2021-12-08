@@ -1,0 +1,12 @@
+{
+  "asn": 56228,
+  "handle": "KORDIA-LTD-AP",
+  "description": "Kordia Limited",
+  "subnets": {
+    "ipv4": [
+      "203.14.20.0/24",
+      "203.195.124.0/24"
+    ],
+    "ipv6": []
+  }
+}

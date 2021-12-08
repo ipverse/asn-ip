@@ -1,0 +1,14 @@
+{
+  "asn": 11810,
+  "handle": "AWEBER-SYSTEMS",
+  "description": "AWeber Systems, Inc.",
+  "subnets": {
+    "ipv4": [
+      "74.201.133.0/24",
+      "204.194.222.0/23"
+    ],
+    "ipv6": [
+      "2620:98:c000::/48"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 395052,
+  "handle": "WF",
+  "description": "Westfield LLC",
+  "subnets": {
+    "ipv4": [
+      "64.3.60.0/24",
+      "216.5.38.0/24"
+    ],
+    "ipv6": []
+  }
+}

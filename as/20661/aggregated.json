@@ -1,0 +1,14 @@
+{
+  "asn": 20661,
+  "handle": "TURKMENTELECOM",
+  "description": "State Company of Electro Communications Turkmentelecom",
+  "subnets": {
+    "ipv4": [
+      "95.85.96.0/19",
+      "217.174.224.0/20"
+    ],
+    "ipv6": [
+      "2a05:2180::/29"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 262857,
+  "handle": "UNIVERSIDADE-FEDERAL-DO",
+  "description": "UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE",
+  "subnets": {
+    "ipv4": [
+      "177.20.128.0/19"
+    ],
+    "ipv6": [
+      "2801:8c::/32"
+    ]
+  }
+}

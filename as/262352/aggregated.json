@@ -1,0 +1,15 @@
+{
+  "asn": 262352,
+  "handle": "NOVA-TELECOM-LTDA",
+  "description": "NOVA TELECOM LTDA",
+  "subnets": {
+    "ipv4": [
+      "131.72.216.0/22",
+      "170.246.104.0/22",
+      "177.126.80.0/20"
+    ],
+    "ipv6": [
+      "2804:820::/32"
+    ]
+  }
+}

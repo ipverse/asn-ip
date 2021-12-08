@@ -1,0 +1,15 @@
+{
+  "asn": 17673,
+  "handle": "MKINET",
+  "description": "MITSUI KNOWLEDGE INDUSTRY CO., LTD.",
+  "subnets": {
+    "ipv4": [
+      "150.67.0.0/16",
+      "203.223.80.0/21",
+      "211.19.32.0/20"
+    ],
+    "ipv6": [
+      "2404:e000::/32"
+    ]
+  }
+}

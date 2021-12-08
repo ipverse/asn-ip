@@ -1,0 +1,11 @@
+{
+  "asn": 202606,
+  "handle": "EXCEPTION-AUT-SYS",
+  "description": "Exception B.V.",
+  "subnets": {
+    "ipv4": [
+      "185.54.216.0/23"
+    ],
+    "ipv6": []
+  }
+}

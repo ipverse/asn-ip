@@ -1,0 +1,14 @@
+{
+  "asn": 262770,
+  "handle": "HELIODORA-ONLINE-LTDA",
+  "description": "Heliodora Online Ltda",
+  "subnets": {
+    "ipv4": [
+      "170.244.244.0/22",
+      "186.232.64.0/21"
+    ],
+    "ipv6": [
+      "2804:1d0::/32"
+    ]
+  }
+}

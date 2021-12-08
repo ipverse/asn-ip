@@ -1,0 +1,13 @@
+{
+  "asn": 268343,
+  "handle": "DT-PROVEDOR-DE",
+  "description": "DT PROVEDOR DE INTERNET LTDA - ME",
+  "subnets": {
+    "ipv4": [
+      "45.238.224.0/22"
+    ],
+    "ipv6": [
+      "2804:4fb0::/32"
+    ]
+  }
+}

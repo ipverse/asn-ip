@@ -1,0 +1,12 @@
+{
+  "asn": 50075,
+  "handle": "ZAYOCLOUD-DE",
+  "description": "Latisys-Denver, LLC",
+  "subnets": {
+    "ipv4": [
+      "65.38.180.0/24",
+      "185.51.7.0/24"
+    ],
+    "ipv6": []
+  }
+}

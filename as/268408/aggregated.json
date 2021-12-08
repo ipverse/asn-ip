@@ -1,0 +1,13 @@
+{
+  "asn": 268408,
+  "handle": "SMART-SOLUCOES",
+  "description": "Smart Soluções",
+  "subnets": {
+    "ipv4": [
+      "45.160.124.0/22"
+    ],
+    "ipv6": [
+      "2804:50c0::/32"
+    ]
+  }
+}

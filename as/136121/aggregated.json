@@ -1,0 +1,11 @@
+{
+  "asn": 136121,
+  "handle": "DIGITNET-ID",
+  "description": "PT Digital Media Telematika",
+  "subnets": {
+    "ipv4": [
+      "103.154.230.0/23"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 264108,
+  "handle": "M-R-REDES",
+  "description": "M R REDES DE TELECOMUNICAÇOES LTDA",
+  "subnets": {
+    "ipv4": [
+      "138.94.24.0/22"
+    ],
+    "ipv6": [
+      "2804:2290::/32"
+    ]
+  }
+}

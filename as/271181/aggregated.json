@@ -1,0 +1,13 @@
+{
+  "asn": 271181,
+  "handle": "WHNET-TELECOM-SERVICOS",
+  "description": "whnet telecom serviços de telecomunicaçoes LTDA",
+  "subnets": {
+    "ipv4": [
+      "190.107.92.0/22"
+    ],
+    "ipv6": [
+      "2804:777c:8000::/33"
+    ]
+  }
+}

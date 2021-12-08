@@ -1,0 +1,14 @@
+{
+  "asn": 14182,
+  "handle": "EDATA",
+  "description": "LexisNexis Risk Data Management Inc.",
+  "subnets": {
+    "ipv4": [
+      "209.243.48.0/20",
+      "216.19.96.0/20"
+    ],
+    "ipv6": [
+      "2620:0:360::/47"
+    ]
+  }
+}

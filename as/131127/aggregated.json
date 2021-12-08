@@ -1,0 +1,12 @@
+{
+  "asn": 131127,
+  "handle": "GTEL-VN",
+  "description": "Global Telecom Corp",
+  "subnets": {
+    "ipv4": [
+      "183.91.160.0/24",
+      "183.91.176.0/20"
+    ],
+    "ipv6": []
+  }
+}

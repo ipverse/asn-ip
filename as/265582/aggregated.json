@@ -1,0 +1,11 @@
+{
+  "asn": 265582,
+  "handle": "WIFMAX-SA-DE-CV",
+  "description": "Wifmax S.A de C.V.",
+  "subnets": {
+    "ipv4": [
+      "45.174.248.0/22"
+    ],
+    "ipv6": []
+  }
+}

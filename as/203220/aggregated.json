@@ -1,0 +1,14 @@
+{
+  "asn": 203220,
+  "handle": "YAHOO-DEB",
+  "description": "Yahoo! UK Services Limited",
+  "subnets": {
+    "ipv4": [
+      "87.248.105.0/24",
+      "87.248.118.0/23"
+    ],
+    "ipv6": [
+      "2a00:1288:80::/48"
+    ]
+  }
+}

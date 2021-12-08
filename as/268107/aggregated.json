@@ -1,0 +1,13 @@
+{
+  "asn": 268107,
+  "handle": "GERENSIS-TELECOM-E",
+  "description": "GERENSIS TELECOM E SERVICOS LTDA - ME",
+  "subnets": {
+    "ipv4": [
+      "45.169.116.0/22"
+    ],
+    "ipv6": [
+      "2804:581c::/32"
+    ]
+  }
+}

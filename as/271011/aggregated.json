@@ -1,0 +1,13 @@
+{
+  "asn": 271011,
+  "handle": "SPEDYNET-TELECOM",
+  "description": "SpedyNet Telecom",
+  "subnets": {
+    "ipv4": [
+      "190.8.172.0/22"
+    ],
+    "ipv6": [
+      "2804:74e8::/32"
+    ]
+  }
+}

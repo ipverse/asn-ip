@@ -1,0 +1,12 @@
+{
+  "asn": 269996,
+  "handle": "HENDERSONNET-SRL",
+  "description": "HENDERSON.NET SRL",
+  "subnets": {
+    "ipv4": [
+      "190.103.88.0/23",
+      "190.103.90.0/24"
+    ],
+    "ipv6": []
+  }
+}

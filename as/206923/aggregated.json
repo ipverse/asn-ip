@@ -1,0 +1,11 @@
+{
+  "asn": 206923,
+  "handle": "SPOTRIX",
+  "description": "NBI SIA",
+  "subnets": {
+    "ipv4": [
+      "185.171.232.0/22"
+    ],
+    "ipv6": []
+  }
+}

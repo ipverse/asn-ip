@@ -1,0 +1,12 @@
+{
+  "asn": 203224,
+  "handle": "WEBPHONE",
+  "description": "Web + Phone GmbH",
+  "subnets": {
+    "ipv4": [
+      "185.141.64.0/22",
+      "185.235.56.0/24"
+    ],
+    "ipv6": []
+  }
+}

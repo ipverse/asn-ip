@@ -1,0 +1,14 @@
+{
+  "asn": 198735,
+  "handle": "HRINS",
+  "description": "Hilal Al-Rafidain for Computer and Internet Services Co., Ltd.",
+  "subnets": {
+    "ipv4": [
+      "5.1.104.0/21",
+      "185.51.220.0/22",
+      "212.15.80.0/21",
+      "217.145.228.0/22"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 265586,
+  "handle": "INBTEL-SA-DE-CV",
+  "description": "INBTEL, S.A. DE C.V.",
+  "subnets": {
+    "ipv4": [
+      "45.175.232.0/22",
+      "200.58.252.0/22"
+    ],
+    "ipv6": []
+  }
+}

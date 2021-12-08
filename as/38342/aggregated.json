@@ -1,0 +1,14 @@
+{
+  "asn": 38342,
+  "handle": "SVCNET",
+  "description": "SHANGHAI VSAT NETWORK SYSTEMS CO.,LTD",
+  "subnets": {
+    "ipv4": [
+      "111.119.144.0/21",
+      "116.193.32.0/19"
+    ],
+    "ipv6": [
+      "2406:4500::/32"
+    ]
+  }
+}

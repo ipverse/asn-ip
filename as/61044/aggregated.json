@@ -1,0 +1,14 @@
+{
+  "asn": 61044,
+  "handle": "SIT",
+  "description": "SIT Internetdiensten B.V.",
+  "subnets": {
+    "ipv4": [
+      "37.148.192.0/21",
+      "185.40.92.0/22"
+    ],
+    "ipv6": [
+      "2a03:10c0::/30"
+    ]
+  }
+}

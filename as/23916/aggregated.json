@@ -1,0 +1,12 @@
+{
+  "asn": 23916,
+  "handle": "HOT-NZ",
+  "description": "HOT Technology",
+  "subnets": {
+    "ipv4": [
+      "202.37.204.0/24",
+      "202.37.206.0/23"
+    ],
+    "ipv6": []
+  }
+}

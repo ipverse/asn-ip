@@ -1,0 +1,13 @@
+{
+  "asn": 28729,
+  "handle": "FORD",
+  "description": "Ford Motor Company Limited",
+  "subnets": {
+    "ipv4": [
+      "19.12.16.0/21"
+    ],
+    "ipv6": [
+      "2620:0:480::/48"
+    ]
+  }
+}

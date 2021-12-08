@@ -1,0 +1,13 @@
+{
+  "asn": 49735,
+  "handle": "ITSMEDIA",
+  "description": "ITSMedia GmbH",
+  "subnets": {
+    "ipv4": [
+      "45.66.84.0/22"
+    ],
+    "ipv6": [
+      "2a10:6ac0::/29"
+    ]
+  }
+}

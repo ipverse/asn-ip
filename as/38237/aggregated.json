@@ -1,0 +1,11 @@
+{
+  "asn": 38237,
+  "handle": "ROOTNETWORKSLLC-AP",
+  "description": "Root Networks, LLC",
+  "subnets": {
+    "ipv4": [
+      "123.253.104.0/24"
+    ],
+    "ipv6": []
+  }
+}

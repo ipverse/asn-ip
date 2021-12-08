@@ -1,0 +1,13 @@
+{
+  "asn": 52281,
+  "handle": "PATRIACELL-CA",
+  "description": "Patriacell, C.A.",
+  "subnets": {
+    "ipv4": [
+      "190.15.168.0/21",
+      "190.15.176.0/20",
+      "200.26.160.0/21"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 38854,
+  "handle": "ZENLAYER-TW",
+  "description": "Zenlayer",
+  "subnets": {
+    "ipv4": [
+      "103.167.50.0/23"
+    ],
+    "ipv6": [
+      "2407:62c0::/32"
+    ]
+  }
+}

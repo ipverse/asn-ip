@@ -1,0 +1,15 @@
+{
+  "asn": 134553,
+  "handle": "I-SKILL-AP",
+  "description": "i-Skill Dynamics Sdn Bhd",
+  "subnets": {
+    "ipv4": [
+      "45.126.88.0/24",
+      "45.126.91.0/24",
+      "103.236.228.0/22"
+    ],
+    "ipv6": [
+      "2001:df1:2a00::/48"
+    ]
+  }
+}

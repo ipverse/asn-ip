@@ -1,0 +1,15 @@
+{
+  "asn": 32312,
+  "handle": "TELECOMSYS-PUBLIC",
+  "description": "Telecommunication Systems, Inc.",
+  "subnets": {
+    "ipv4": [
+      "204.87.180.0/24",
+      "205.159.29.0/24",
+      "209.210.15.0/24",
+      "209.210.26.0/24",
+      "216.221.128.0/20"
+    ],
+    "ipv6": []
+  }
+}

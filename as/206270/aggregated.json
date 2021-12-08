@@ -1,0 +1,13 @@
+{
+  "asn": 206270,
+  "handle": "TNETCZ",
+  "description": "ISP Alliance a.s.",
+  "subnets": {
+    "ipv4": [
+      "185.188.100.0/22"
+    ],
+    "ipv6": [
+      "2a0a:10c0::/29"
+    ]
+  }
+}

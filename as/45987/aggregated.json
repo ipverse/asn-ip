@@ -1,0 +1,13 @@
+{
+  "asn": 45987,
+  "handle": "DONGWHA-KR-KR",
+  "description": "Dongwha Enterprise Co. Ltd.",
+  "subnets": {
+    "ipv4": [
+      "183.109.74.0/24",
+      "210.120.80.0/24",
+      "210.120.82.0/24"
+    ],
+    "ipv6": []
+  }
+}

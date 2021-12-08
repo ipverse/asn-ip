@@ -1,0 +1,13 @@
+{
+  "asn": 264351,
+  "handle": "UNA-TELECOM-ANTIGA-WUZU",
+  "description": "Una Telecom (Antiga Wuzu).",
+  "subnets": {
+    "ipv4": [
+      "131.108.212.0/22"
+    ],
+    "ipv6": [
+      "2804:1d28::/32"
+    ]
+  }
+}

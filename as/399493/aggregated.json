@@ -1,0 +1,13 @@
+{
+  "asn": 399493,
+  "handle": "PETITJEANFIBER-01",
+  "description": "Petit Jean Fiber",
+  "subnets": {
+    "ipv4": [
+      "64.226.16.0/20"
+    ],
+    "ipv6": [
+      "2606:3c40::/32"
+    ]
+  }
+}

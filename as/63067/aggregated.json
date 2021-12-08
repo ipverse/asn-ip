@@ -1,0 +1,11 @@
+{
+  "asn": 63067,
+  "handle": "NJ-CNB-DC03",
+  "description": "City National Bank",
+  "subnets": {
+    "ipv4": [
+      "192.42.96.0/24"
+    ],
+    "ipv6": []
+  }
+}

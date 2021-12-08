@@ -1,0 +1,12 @@
+{
+  "asn": 37491,
+  "handle": "GIGS-BROADBAND",
+  "description": "Gigs Broadband Pty Ltd",
+  "subnets": {
+    "ipv4": [
+      "41.78.228.0/22",
+      "102.221.155.0/24"
+    ],
+    "ipv6": []
+  }
+}

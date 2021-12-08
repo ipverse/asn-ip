@@ -1,0 +1,13 @@
+{
+  "asn": 266077,
+  "handle": "ASSOCIACAO-EDUCATIVA-EVANGELICA",
+  "description": "Associação Educativa Evangélica",
+  "subnets": {
+    "ipv4": [
+      "45.4.96.0/24"
+    ],
+    "ipv6": [
+      "2801:80:1c30::/48"
+    ]
+  }
+}

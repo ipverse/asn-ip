@@ -1,0 +1,13 @@
+{
+  "asn": 61937,
+  "handle": "OQUEI-TELECOM-LTDA-EPP",
+  "description": "Oquei Telecom Ltda EPP",
+  "subnets": {
+    "ipv4": [
+      "200.95.192.0/19"
+    ],
+    "ipv6": [
+      "2804:1884::/32"
+    ]
+  }
+}

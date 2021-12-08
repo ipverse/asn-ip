@@ -1,0 +1,14 @@
+{
+  "asn": 52610,
+  "handle": "ADYLNET-TELECOM",
+  "description": "Adylnet Telecom",
+  "subnets": {
+    "ipv4": [
+      "138.36.160.0/22",
+      "179.189.64.0/20"
+    ],
+    "ipv6": [
+      "2804:d30::/32"
+    ]
+  }
+}

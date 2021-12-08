@@ -1,0 +1,15 @@
+{
+  "asn": 12748,
+  "handle": "IAV",
+  "description": "IAV GmbH Ingenieurgesellschaft Auto und Verkehr",
+  "subnets": {
+    "ipv4": [
+      "185.225.140.0/22",
+      "193.104.216.0/24",
+      "194.31.198.0/24"
+    ],
+    "ipv6": [
+      "2a0d:d400::/29"
+    ]
+  }
+}

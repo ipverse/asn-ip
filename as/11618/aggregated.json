@@ -1,0 +1,13 @@
+{
+  "asn": 11618,
+  "handle": "ACT",
+  "description": "Ignition Bermuda",
+  "subnets": {
+    "ipv4": [
+      "64.37.36.0/22",
+      "64.37.40.0/22",
+      "64.37.47.0/24"
+    ],
+    "ipv6": []
+  }
+}

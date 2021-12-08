@@ -1,0 +1,11 @@
+{
+  "asn": 263317,
+  "handle": "VOXTECH-TELECOM",
+  "description": "VoxTech Telecom",
+  "subnets": {
+    "ipv4": [
+      "191.7.120.0/21"
+    ],
+    "ipv6": []
+  }
+}

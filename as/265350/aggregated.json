@@ -1,0 +1,13 @@
+{
+  "asn": 265350,
+  "handle": "EL-INFORMATICA-LTDA-ME",
+  "description": "EL Informática Ltda ME",
+  "subnets": {
+    "ipv4": [
+      "168.205.32.0/22"
+    ],
+    "ipv6": [
+      "2804:2e84::/32"
+    ]
+  }
+}

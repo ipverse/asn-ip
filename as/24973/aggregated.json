@@ -1,0 +1,14 @@
+{
+  "asn": 24973,
+  "handle": "KOMPLEX",
+  "description": "KONTENT GmbH",
+  "subnets": {
+    "ipv4": [
+      "81.88.32.0/20",
+      "185.117.248.0/22"
+    ],
+    "ipv6": [
+      "2001:880::/32"
+    ]
+  }
+}

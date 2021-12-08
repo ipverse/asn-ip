@@ -1,0 +1,12 @@
+{
+  "asn": 15613,
+  "handle": "COLOGNE-FRANKFURT",
+  "description": "FactSet GmbH",
+  "subnets": {
+    "ipv4": [
+      "213.173.171.0/24",
+      "217.11.192.0/20"
+    ],
+    "ipv6": []
+  }
+}

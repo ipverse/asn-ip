@@ -1,0 +1,13 @@
+{
+  "asn": 265392,
+  "handle": "COOPERATIVA-REGIONAL-AGROPECUARIA",
+  "description": "Cooperativa Regional Agropecuária de Campos Novos",
+  "subnets": {
+    "ipv4": [
+      "200.23.119.0/24"
+    ],
+    "ipv6": [
+      "2801:80:19f0::/48"
+    ]
+  }
+}

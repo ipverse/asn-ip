@@ -1,0 +1,13 @@
+{
+  "asn": 267090,
+  "handle": "VIRTUALNET-PROVEDORES-LTDA-ME",
+  "description": "VIRTUALNET PROVEDORES LTDA ME",
+  "subnets": {
+    "ipv4": [
+      "45.229.0.0/22"
+    ],
+    "ipv6": [
+      "2804:47fc::/32"
+    ]
+  }
+}

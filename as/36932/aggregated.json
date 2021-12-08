@@ -1,0 +1,13 @@
+{
+  "asn": 36932,
+  "handle": "IXPN",
+  "description": "Internet Exchange Point of Nigeria",
+  "subnets": {
+    "ipv4": [
+      "196.49.28.0/24",
+      "196.49.30.0/24",
+      "196.216.149.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 38667,
+  "handle": "KAKAOBANK-KR-KR",
+  "description": "KakaoBank Corp.",
+  "subnets": {
+    "ipv4": [
+      "103.66.192.0/22",
+      "103.254.248.0/23"
+    ],
+    "ipv6": []
+  }
+}

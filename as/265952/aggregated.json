@@ -1,0 +1,13 @@
+{
+  "asn": 265952,
+  "handle": "RAP-10-TELECOMUNICACOES",
+  "description": "Rap 10 Telecomunicações Eireli",
+  "subnets": {
+    "ipv4": [
+      "164.163.16.0/22"
+    ],
+    "ipv6": [
+      "2804:4054::/32"
+    ]
+  }
+}

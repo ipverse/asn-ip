@@ -1,0 +1,13 @@
+{
+  "asn": 267012,
+  "handle": "VIAON-INTERNET-LTDA-ME",
+  "description": "VIAON INTERNET LTDA - ME",
+  "subnets": {
+    "ipv4": [
+      "45.227.120.0/22"
+    ],
+    "ipv6": [
+      "2804:46cc::/32"
+    ]
+  }
+}

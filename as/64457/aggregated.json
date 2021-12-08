@@ -1,0 +1,13 @@
+{
+  "asn": 64457,
+  "handle": "ENAXIM",
+  "description": "Enaxim Corporation",
+  "subnets": {
+    "ipv4": [
+      "185.174.42.0/24"
+    ],
+    "ipv6": [
+      "2a0f:a302:500::/40"
+    ]
+  }
+}

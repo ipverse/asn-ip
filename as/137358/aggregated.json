@@ -1,0 +1,11 @@
+{
+  "asn": 137358,
+  "handle": "JPDN-ID",
+  "description": "PT. Jaringan Prima Data Nusantara",
+  "subnets": {
+    "ipv4": [
+      "103.115.176.0/22"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 15595,
+  "handle": "SKYLINE",
+  "description": "Skyline Electronics Ltd.",
+  "subnets": {
+    "ipv4": [
+      "81.25.224.0/20"
+    ],
+    "ipv6": [
+      "2a02:d300::/29"
+    ]
+  }
+}

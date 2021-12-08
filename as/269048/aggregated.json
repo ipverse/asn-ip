@@ -1,0 +1,13 @@
+{
+  "asn": 269048,
+  "handle": "MAN-WEB-HOSTING-LTDA",
+  "description": "MAN WEB HOSTING LTDA",
+  "subnets": {
+    "ipv4": [
+      "45.178.224.0/23"
+    ],
+    "ipv6": [
+      "2804:5ea8::/32"
+    ]
+  }
+}

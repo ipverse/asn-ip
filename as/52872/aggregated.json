@@ -1,0 +1,17 @@
+{
+  "asn": 52872,
+  "handle": "VOANET-TELECOMUNICACOES-LTDA",
+  "description": "VOANET Telecomunicações Ltda.",
+  "subnets": {
+    "ipv4": [
+      "168.0.236.0/22",
+      "168.181.212.0/24",
+      "168.181.214.0/23",
+      "168.197.136.0/22",
+      "177.128.192.0/21"
+    ],
+    "ipv6": [
+      "2804:88c::/32"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 197440,
+  "handle": "CCTLD-IT-ANYCAST",
+  "description": "Registro del ccTLD it - IIT-CNR",
+  "subnets": {
+    "ipv4": [
+      "194.0.16.0/24"
+    ],
+    "ipv6": [
+      "2001:678:12::/48"
+    ]
+  }
+}

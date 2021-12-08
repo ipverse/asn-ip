@@ -1,0 +1,11 @@
+{
+  "asn": 139691,
+  "handle": "CRAZY-AP",
+  "description": "Crazy Net",
+  "subnets": {
+    "ipv4": [
+      "103.166.40.0/23"
+    ],
+    "ipv6": []
+  }
+}

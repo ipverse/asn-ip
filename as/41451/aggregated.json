@@ -1,0 +1,14 @@
+{
+  "asn": 41451,
+  "handle": "SCHLUETER-SERVER",
+  "description": "Dominik Schlueter",
+  "subnets": {
+    "ipv4": [
+      "195.43.80.0/24"
+    ],
+    "ipv6": [
+      "2a0c:f40::/32",
+      "2a0e:1b07::/32"
+    ]
+  }
+}

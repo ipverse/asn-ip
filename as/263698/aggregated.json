@@ -1,0 +1,15 @@
+{
+  "asn": 263698,
+  "handle": "TRANSDATELECOM-SA",
+  "description": "TRANSDATELECOM S.A",
+  "subnets": {
+    "ipv4": [
+      "190.113.84.0/22",
+      "191.102.36.0/22"
+    ],
+    "ipv6": [
+      "2803:5b00::/32",
+      "2803:aa80::/32"
+    ]
+  }
+}

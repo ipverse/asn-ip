@@ -1,0 +1,13 @@
+{
+  "asn": 134119,
+  "handle": "CNWAPL-AP",
+  "description": "Cirrus Networks (WA) Pty Ltd",
+  "subnets": {
+    "ipv4": [
+      "103.54.68.0/22"
+    ],
+    "ipv6": [
+      "2402:3380::/32"
+    ]
+  }
+}

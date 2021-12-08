@@ -1,0 +1,13 @@
+{
+  "asn": 270704,
+  "handle": "MAIS-NORTE-TELECOM-LTDA",
+  "description": "MAIS NORTE TELECOM LTDA",
+  "subnets": {
+    "ipv4": [
+      "189.127.144.0/22"
+    ],
+    "ipv6": [
+      "2804:7014::/32"
+    ]
+  }
+}

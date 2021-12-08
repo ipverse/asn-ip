@@ -1,0 +1,11 @@
+{
+  "asn": 15170,
+  "handle": "MATCHNET",
+  "description": "Spark Networks Limited",
+  "subnets": {
+    "ipv4": [
+      "64.16.72.0/21"
+    ],
+    "ipv6": []
+  }
+}

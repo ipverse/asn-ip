@@ -1,0 +1,14 @@
+{
+  "asn": 133761,
+  "handle": "FORESTTH-AP",
+  "description": "TRUE INTERNET CORPORATION CO. LTD.",
+  "subnets": {
+    "ipv4": [
+      "110.170.148.0/24",
+      "122.154.20.0/24"
+    ],
+    "ipv6": [
+      "2001:fb0:1071::/48"
+    ]
+  }
+}

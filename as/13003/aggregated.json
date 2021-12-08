@@ -1,0 +1,15 @@
+{
+  "asn": 13003,
+  "handle": "WEBMATIC",
+  "description": "Webmatic Kommunikations GmbH",
+  "subnets": {
+    "ipv4": [
+      "185.184.212.0/24",
+      "212.78.96.0/19"
+    ],
+    "ipv6": [
+      "2a00:1d08::/32",
+      "2a03:40:8000::/33"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 270745,
+  "handle": "FRADENET-SERVICOS-DE",
+  "description": "fradenet serviços de comunicação multimidia eireli",
+  "subnets": {
+    "ipv4": [
+      "177.221.132.0/22"
+    ],
+    "ipv6": [
+      "2804:70bc::/32"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asn": 35006,
+  "handle": "CAMERA",
+  "description": "Camera dei deputati",
+  "subnets": {
+    "ipv4": [
+      "80.64.112.0/20"
+    ],
+    "ipv6": []
+  }
+}

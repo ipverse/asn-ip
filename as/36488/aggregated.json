@@ -1,0 +1,13 @@
+{
+  "asn": 36488,
+  "handle": "SWA-INET",
+  "description": "Southwest Airlines Co.",
+  "subnets": {
+    "ipv4": [
+      "12.191.17.0/24",
+      "65.170.41.0/24",
+      "208.94.154.0/24"
+    ],
+    "ipv6": []
+  }
+}

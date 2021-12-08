@@ -1,0 +1,13 @@
+{
+  "asn": 46660,
+  "handle": "WINSONIC",
+  "description": "WinSonic Digital Cable Systems Network, Ltd.",
+  "subnets": {
+    "ipv4": [
+      "12.32.67.0/24",
+      "38.147.48.0/21",
+      "192.111.25.0/24"
+    ],
+    "ipv6": []
+  }
+}

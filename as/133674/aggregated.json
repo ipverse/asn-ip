@@ -1,0 +1,13 @@
+{
+  "asn": 133674,
+  "handle": "ADARSH-INFOSOLUTIONS",
+  "description": "Adarsh Infosolutions",
+  "subnets": {
+    "ipv4": [
+      "103.232.244.0/23",
+      "103.232.247.0/24",
+      "202.160.144.0/22"
+    ],
+    "ipv6": []
+  }
+}

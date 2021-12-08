@@ -1,0 +1,13 @@
+{
+  "asn": 399816,
+  "handle": "LAER-ATL1",
+  "description": "UnitedLayer, LLC",
+  "subnets": {
+    "ipv4": [
+      "64.29.132.0/24"
+    ],
+    "ipv6": [
+      "2607:f3a0:a004::/48"
+    ]
+  }
+}

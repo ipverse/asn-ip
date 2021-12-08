@@ -1,0 +1,13 @@
+{
+  "asn": 138631,
+  "handle": "ECLIPHP-AP",
+  "description": "HostUS Solutions LLC",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2402:9e80:43::/48",
+      "2402:e380:30f::/48",
+      "2a0e:aa06:100::/48"
+    ]
+  }
+}

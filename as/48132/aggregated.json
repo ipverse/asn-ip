@@ -1,0 +1,13 @@
+{
+  "asn": 48132,
+  "handle": "RUTRONIK",
+  "description": "RUTRONIK Elektronische Bauelemente GmbH",
+  "subnets": {
+    "ipv4": [
+      "91.207.128.0/23"
+    ],
+    "ipv6": [
+      "2001:678:a8::/48"
+    ]
+  }
+}

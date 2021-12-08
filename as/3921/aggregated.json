@@ -1,0 +1,12 @@
+{
+  "asn": 3921,
+  "handle": "AGNOGE",
+  "description": "General Electric Company",
+  "subnets": {
+    "ipv4": [
+      "192.35.34.0/24",
+      "192.35.44.0/24"
+    ],
+    "ipv6": []
+  }
+}

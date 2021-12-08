@@ -1,0 +1,12 @@
+{
+  "asn": 54529,
+  "handle": "LCRC",
+  "description": "Louisiana Cancer Research Center",
+  "subnets": {
+    "ipv4": [
+      "76.165.201.0/24",
+      "207.174.174.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 267141,
+  "handle": "TERABYTE-DE-TERESOPOLIS",
+  "description": "Terabyte de Teresopolis Provedor de Internet LTDA",
+  "subnets": {
+    "ipv4": [
+      "45.229.216.0/22"
+    ],
+    "ipv6": [
+      "2804:48bc::/32"
+    ]
+  }
+}

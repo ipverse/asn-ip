@@ -1,0 +1,14 @@
+{
+  "asn": 49933,
+  "handle": "AKARL-NET",
+  "description": "Alexander Karl",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a0e:8f00:f100::/47",
+      "2a0e:8f00:f103::/48",
+      "2a0e:8f00:f104::/47",
+      "2a0e:8f00:f106::/48"
+    ]
+  }
+}

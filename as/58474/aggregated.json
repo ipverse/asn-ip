@@ -1,0 +1,13 @@
+{
+  "asn": 58474,
+  "handle": "MANGONET-ID",
+  "description": "PT. MATRIXNET GLOBAL INDONESIA",
+  "subnets": {
+    "ipv4": [
+      "43.248.212.0/23",
+      "43.248.214.0/24",
+      "103.28.56.0/22"
+    ],
+    "ipv6": []
+  }
+}

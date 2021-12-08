@@ -1,0 +1,13 @@
+{
+  "asn": 52719,
+  "handle": "ESPECTRO-GALL-LTDA",
+  "description": "ESPECTRO Gall Ltda",
+  "subnets": {
+    "ipv4": [
+      "177.84.72.0/22"
+    ],
+    "ipv6": [
+      "2804:c80::/32"
+    ]
+  }
+}

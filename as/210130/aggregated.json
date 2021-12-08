@@ -1,0 +1,12 @@
+{
+  "asn": 210130,
+  "handle": "OPTILANAS",
+  "description": "NBI SIA",
+  "subnets": {
+    "ipv4": [
+      "77.241.64.0/24",
+      "77.241.66.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 397605,
+  "handle": "NISD-ASN-01",
+  "description": "Northwest ISD",
+  "subnets": {
+    "ipv4": [
+      "198.183.252.0/23",
+      "208.185.249.0/24"
+    ],
+    "ipv6": []
+  }
+}

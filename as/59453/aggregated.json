@@ -1,0 +1,13 @@
+{
+  "asn": 59453,
+  "handle": "ELECTROLUX",
+  "description": "Electrolux Italia SpA",
+  "subnets": {
+    "ipv4": [
+      "194.246.0.0/22",
+      "194.246.21.0/24",
+      "194.246.24.0/24"
+    ],
+    "ipv6": []
+  }
+}

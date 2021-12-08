@@ -1,0 +1,13 @@
+{
+  "asn": 10069,
+  "handle": "SMLINE-KR-KR",
+  "description": "Seoul Metro",
+  "subnets": {
+    "ipv4": [
+      "1.231.20.0/24",
+      "211.54.2.0/24",
+      "218.38.73.0/24"
+    ],
+    "ipv6": []
+  }
+}

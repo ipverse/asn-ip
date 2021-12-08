@@ -1,0 +1,12 @@
+{
+  "asn": 35421,
+  "handle": "DMP",
+  "description": "Data Management Professionals B.V.",
+  "subnets": {
+    "ipv4": [
+      "45.9.56.0/24",
+      "185.168.160.0/24"
+    ],
+    "ipv6": []
+  }
+}

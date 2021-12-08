@@ -1,0 +1,12 @@
+{
+  "asn": 30709,
+  "handle": "REVEAL",
+  "description": "REVEAL SYSTEMS INC",
+  "subnets": {
+    "ipv4": [
+      "209.97.224.0/21",
+      "209.97.232.0/22"
+    ],
+    "ipv6": []
+  }
+}

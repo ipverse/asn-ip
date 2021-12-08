@@ -1,0 +1,11 @@
+{
+  "asn": 45703,
+  "handle": "BKPM-ID",
+  "description": "Badan Koordinasi Penanaman Modal (BKPM)",
+  "subnets": {
+    "ipv4": [
+      "203.114.226.0/23"
+    ],
+    "ipv6": []
+  }
+}

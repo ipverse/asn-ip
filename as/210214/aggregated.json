@@ -1,0 +1,13 @@
+{
+  "asn": 210214,
+  "handle": "PATRIZIA-AG",
+  "description": "PATRIZIA AG",
+  "subnets": {
+    "ipv4": [
+      "194.53.104.0/22"
+    ],
+    "ipv6": [
+      "2a0c:f8c0::/30"
+    ]
+  }
+}

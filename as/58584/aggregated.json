@@ -1,0 +1,11 @@
+{
+  "asn": 58584,
+  "handle": "IDP-AP",
+  "description": "IDP Education Pty Ltd",
+  "subnets": {
+    "ipv4": [
+      "192.132.253.0/24"
+    ],
+    "ipv6": []
+  }
+}

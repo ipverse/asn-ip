@@ -1,0 +1,12 @@
+{
+  "asn": 13928,
+  "handle": "ITRIG-ASN1",
+  "description": "IT Right, Inc",
+  "subnets": {
+    "ipv4": [
+      "199.21.128.0/24",
+      "199.21.130.0/24"
+    ],
+    "ipv6": []
+  }
+}

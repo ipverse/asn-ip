@@ -1,0 +1,12 @@
+{
+  "asn": 396030,
+  "handle": "G2WS",
+  "description": "G2 Web Services LLC",
+  "subnets": {
+    "ipv4": [
+      "174.127.132.0/22",
+      "174.127.188.0/24"
+    ],
+    "ipv6": []
+  }
+}

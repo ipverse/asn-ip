@@ -1,0 +1,13 @@
+{
+  "asn": 270550,
+  "handle": "TELECOMFIBER-SERVICOS-DE",
+  "description": "TELECOMFIBER SERVICOS DE ACESSO A INTERNET EIRELI",
+  "subnets": {
+    "ipv4": [
+      "187.120.168.0/22"
+    ],
+    "ipv6": [
+      "2804:6db4::/32"
+    ]
+  }
+}

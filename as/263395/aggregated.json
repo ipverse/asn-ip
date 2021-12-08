@@ -1,0 +1,14 @@
+{
+  "asn": 263395,
+  "handle": "TINASNET-SERVICOS-E",
+  "description": "TINASNET SERVICOS E ACESSOS A INTERNET LTDA",
+  "subnets": {
+    "ipv4": [
+      "168.194.136.0/22",
+      "177.125.124.0/22"
+    ],
+    "ipv6": [
+      "2804:1590::/32"
+    ]
+  }
+}

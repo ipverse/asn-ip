@@ -1,0 +1,14 @@
+{
+  "asn": 53007,
+  "handle": "VOLVO-DO-BRASIL-VEICULOS-LTDA",
+  "description": "Volvo do Brasil Veículos Ltda.",
+  "subnets": {
+    "ipv4": [
+      "153.112.195.0/24",
+      "192.157.16.0/23",
+      "194.132.122.0/24",
+      "204.156.86.0/24"
+    ],
+    "ipv6": []
+  }
+}

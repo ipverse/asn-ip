@@ -1,0 +1,12 @@
+{
+  "asn": 211341,
+  "handle": "SCOPESKY-FTTX",
+  "description": "ScopeSky for communications, internet and technology services LLC",
+  "subnets": {
+    "ipv4": [
+      "37.98.230.0/24",
+      "85.194.199.0/24"
+    ],
+    "ipv6": []
+  }
+}

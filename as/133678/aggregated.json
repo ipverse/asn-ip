@@ -1,0 +1,12 @@
+{
+  "asn": 133678,
+  "handle": "VIZAGBROADBAND-IN",
+  "description": "Vizag Broadband Communications Pvt Ltd",
+  "subnets": {
+    "ipv4": [
+      "103.122.60.0/24",
+      "103.122.62.0/23"
+    ],
+    "ipv6": []
+  }
+}

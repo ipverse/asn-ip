@@ -1,0 +1,13 @@
+{
+  "asn": 395123,
+  "handle": "CENTRACOM",
+  "description": "CENTRACOM INTERACTIVE",
+  "subnets": {
+    "ipv4": [
+      "69.167.53.0/24",
+      "69.167.54.0/23",
+      "74.50.216.0/21"
+    ],
+    "ipv6": []
+  }
+}

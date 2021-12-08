@@ -1,0 +1,13 @@
+{
+  "asn": 133846,
+  "handle": "IMLONGHAO-AP",
+  "description": "HostUS Solutions LLC",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2402:e380:302::/48",
+      "2602:feda:1bf::/48",
+      "2a09:b280:ff81::/48"
+    ]
+  }
+}

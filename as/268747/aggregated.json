@@ -1,0 +1,13 @@
+{
+  "asn": 268747,
+  "handle": "L-C-S-WIFI-LTDA",
+  "description": "L C S WIFI LTDA",
+  "subnets": {
+    "ipv4": [
+      "45.171.40.0/22"
+    ],
+    "ipv6": [
+      "2804:5a14::/32"
+    ]
+  }
+}

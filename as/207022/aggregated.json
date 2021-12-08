@@ -1,0 +1,11 @@
+{
+  "asn": 207022,
+  "handle": "SKY-LINK",
+  "description": "Sky-Link Srls",
+  "subnets": {
+    "ipv4": [
+      "185.165.90.0/23"
+    ],
+    "ipv6": []
+  }
+}

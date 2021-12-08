@@ -1,0 +1,13 @@
+{
+  "asn": 263271,
+  "handle": "ESTRELAR-WEB-SERVICOS",
+  "description": "Estrelar Web Serviços de Internet LTDA",
+  "subnets": {
+    "ipv4": [
+      "179.108.184.0/21"
+    ],
+    "ipv6": [
+      "2804:1628::/32"
+    ]
+  }
+}

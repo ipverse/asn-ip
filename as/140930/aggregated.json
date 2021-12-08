@@ -1,0 +1,11 @@
+{
+  "asn": 140930,
+  "handle": "PCVDN-AP",
+  "description": "Pabna Cable Vision Dot Net",
+  "subnets": {
+    "ipv4": [
+      "103.153.154.0/23"
+    ],
+    "ipv6": []
+  }
+}

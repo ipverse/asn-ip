@@ -1,0 +1,13 @@
+{
+  "asn": 138337,
+  "handle": "CSC-AP",
+  "description": "CSC Australia Pty Ltd",
+  "subnets": {
+    "ipv4": [
+      "202.90.168.0/24",
+      "202.90.170.0/23",
+      "203.21.160.0/24"
+    ],
+    "ipv6": []
+  }
+}

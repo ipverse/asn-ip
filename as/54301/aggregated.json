@@ -1,0 +1,14 @@
+{
+  "asn": 54301,
+  "handle": "IPHASE",
+  "description": "Interphase Communications, Inc.",
+  "subnets": {
+    "ipv4": [
+      "66.128.192.0/20",
+      "162.248.134.0/23",
+      "192.225.160.0/20",
+      "198.143.0.0/19"
+    ],
+    "ipv6": []
+  }
+}

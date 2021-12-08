@@ -1,0 +1,13 @@
+{
+  "asn": 270018,
+  "handle": "LA-PREVISORA-SA",
+  "description": "LA PREVISORA S.A. COMPAÑIA DE SEGUROS",
+  "subnets": {
+    "ipv4": [
+      "200.23.75.0/24"
+    ],
+    "ipv6": [
+      "2801:1da::/44"
+    ]
+  }
+}

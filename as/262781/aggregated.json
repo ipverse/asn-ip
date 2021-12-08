@@ -1,0 +1,12 @@
+{
+  "asn": 262781,
+  "handle": "RADIOBR-INTERNET-LTDA",
+  "description": "RADIOBR INTERNET LTDA",
+  "subnets": {
+    "ipv4": [
+      "186.233.69.0/24",
+      "186.233.70.0/23"
+    ],
+    "ipv6": []
+  }
+}

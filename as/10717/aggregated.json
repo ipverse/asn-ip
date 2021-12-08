@@ -1,0 +1,13 @@
+{
+  "asn": 10717,
+  "handle": "SCHOLASTIC",
+  "description": "Scholastic Inc.",
+  "subnets": {
+    "ipv4": [
+      "199.19.136.0/22",
+      "199.19.143.0/24",
+      "208.205.75.0/24"
+    ],
+    "ipv6": []
+  }
+}

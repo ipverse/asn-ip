@@ -1,0 +1,13 @@
+{
+  "asn": 211244,
+  "handle": "CANIDAE-SYSTEMS",
+  "description": "Henri Watson",
+  "subnets": {
+    "ipv4": [
+      "44.31.38.0/24"
+    ],
+    "ipv6": [
+      "2a07:22c1:36::/48"
+    ]
+  }
+}

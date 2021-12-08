@@ -1,0 +1,12 @@
+{
+  "asn": 37482,
+  "handle": "BI",
+  "description": "Broadband Innovations",
+  "subnets": {
+    "ipv4": [
+      "41.217.240.0/21",
+      "102.38.32.0/20"
+    ],
+    "ipv6": []
+  }
+}

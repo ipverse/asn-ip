@@ -1,0 +1,12 @@
+{
+  "asn": 38030,
+  "handle": "ALAP-BD",
+  "description": "Alap Communication Ltd.",
+  "subnets": {
+    "ipv4": [
+      "202.73.4.0/24",
+      "202.161.176.0/20"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 16900,
+  "handle": "SEDGWICK-CMS",
+  "description": "Sedgwick Claims Management Services, Inc.",
+  "subnets": {
+    "ipv4": [
+      "204.16.27.0/24",
+      "204.16.30.0/24"
+    ],
+    "ipv6": []
+  }
+}

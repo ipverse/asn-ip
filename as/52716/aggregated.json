@@ -1,0 +1,13 @@
+{
+  "asn": 52716,
+  "handle": "VIABAND-TELECOMUNICACAO-LTDA",
+  "description": "Viaband Telecomunicação Ltda",
+  "subnets": {
+    "ipv4": [
+      "177.84.28.0/22"
+    ],
+    "ipv6": [
+      "2804:257c::/32"
+    ]
+  }
+}

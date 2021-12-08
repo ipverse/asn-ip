@@ -1,0 +1,13 @@
+{
+  "asn": 263648,
+  "handle": "M-N-REDES-DE-COMUNICACOES",
+  "description": "M. N. Redes de Comunicações",
+  "subnets": {
+    "ipv4": [
+      "177.74.136.0/21"
+    ],
+    "ipv6": [
+      "2804:10c4::/32"
+    ]
+  }
+}

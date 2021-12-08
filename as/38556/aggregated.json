@@ -1,0 +1,12 @@
+{
+  "asn": 38556,
+  "handle": "NARAENETWORKS-AP",
+  "description": "Narae Networks",
+  "subnets": {
+    "ipv4": [
+      "116.212.184.0/23",
+      "116.212.186.0/24"
+    ],
+    "ipv6": []
+  }
+}

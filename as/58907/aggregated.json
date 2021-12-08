@@ -1,0 +1,12 @@
+{
+  "asn": 58907,
+  "handle": "AAPPL-AP",
+  "description": "Acquire Asia Pacific Pty Ltd",
+  "subnets": {
+    "ipv4": [
+      "43.230.108.0/22",
+      "103.249.140.0/22"
+    ],
+    "ipv6": []
+  }
+}

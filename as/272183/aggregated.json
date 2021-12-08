@@ -1,0 +1,11 @@
+{
+  "asn": 272183,
+  "handle": "MAGALNET-TELECOM-INTERNET",
+  "description": "MAGALNET TELECOM INTERNET BANDA LARGA",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2804:8334::/32"
+    ]
+  }
+}

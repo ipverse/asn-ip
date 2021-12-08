@@ -1,0 +1,13 @@
+{
+  "asn": 265437,
+  "handle": "VELOZES-INTERNET",
+  "description": "Velozes Internet",
+  "subnets": {
+    "ipv4": [
+      "168.195.176.0/22"
+    ],
+    "ipv6": [
+      "2804:3420::/32"
+    ]
+  }
+}

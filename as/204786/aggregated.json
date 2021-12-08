@@ -1,0 +1,15 @@
+{
+  "asn": 204786,
+  "handle": "FMT32",
+  "description": "serve-u - Buchholz und Suenderhauf GbR",
+  "subnets": {
+    "ipv4": [
+      "185.240.52.0/22",
+      "192.70.149.0/24",
+      "192.108.90.0/24"
+    ],
+    "ipv6": [
+      "2a0c:7280::/29"
+    ]
+  }
+}

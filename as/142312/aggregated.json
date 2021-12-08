@@ -1,0 +1,11 @@
+{
+  "asn": 142312,
+  "handle": "IDNIC-WSPLINK-ID",
+  "description": "PT Wget Solusindo Pratama",
+  "subnets": {
+    "ipv4": [
+      "103.168.28.0/24"
+    ],
+    "ipv6": []
+  }
+}

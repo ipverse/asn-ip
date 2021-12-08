@@ -1,0 +1,13 @@
+{
+  "asn": 137404,
+  "handle": "KCAT-AP",
+  "description": "Kabankalan Community Antenna Television System Inc",
+  "subnets": {
+    "ipv4": [
+      "103.107.80.0/22"
+    ],
+    "ipv6": [
+      "2402:4f40::/32"
+    ]
+  }
+}

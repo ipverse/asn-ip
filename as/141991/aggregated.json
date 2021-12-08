@@ -1,0 +1,11 @@
+{
+  "asn": 141991,
+  "handle": "BENAPOLENET-AP",
+  "description": "Benapole Net",
+  "subnets": {
+    "ipv4": [
+      "103.164.38.0/23"
+    ],
+    "ipv6": []
+  }
+}

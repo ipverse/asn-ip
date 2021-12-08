@@ -1,0 +1,14 @@
+{
+  "asn": 52536,
+  "handle": "D-A-SERVICOS",
+  "description": "D. A. SERVIÇOS DE TELECOMUNICACOES EIRELI",
+  "subnets": {
+    "ipv4": [
+      "131.0.208.0/22",
+      "177.152.112.0/21"
+    ],
+    "ipv6": [
+      "2804:1ad4::/32"
+    ]
+  }
+}

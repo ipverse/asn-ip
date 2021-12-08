@@ -1,0 +1,13 @@
+{
+  "asn": 141257,
+  "handle": "COMPUTER-IN",
+  "description": "Om Computer World",
+  "subnets": {
+    "ipv4": [
+      "45.248.175.0/24",
+      "103.43.33.0/24",
+      "103.158.94.0/23"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 35793,
+  "handle": "ACRONIS",
+  "description": "Acronis International GmbH",
+  "subnets": {
+    "ipv4": [
+      "45.11.128.0/23",
+      "45.11.130.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asn": 59146,
+  "handle": "IDNIC-BPB-ID",
+  "description": "BP Berau Indonesia",
+  "subnets": {
+    "ipv4": [
+      "103.254.48.0/23"
+    ],
+    "ipv6": []
+  }
+}

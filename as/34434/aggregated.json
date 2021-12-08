@@ -1,0 +1,13 @@
+{
+  "asn": 34434,
+  "handle": "RU-SCX",
+  "description": "Server-Center JSC",
+  "subnets": {
+    "ipv4": [
+      "80.246.16.0/21",
+      "80.246.24.0/22",
+      "185.159.44.0/22"
+    ],
+    "ipv6": []
+  }
+}

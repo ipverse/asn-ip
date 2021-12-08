@@ -1,0 +1,13 @@
+{
+  "asn": 264067,
+  "handle": "DIGINET-TECNOLOGIA",
+  "description": "DIGINET TECNOLOGIA",
+  "subnets": {
+    "ipv4": [
+      "143.202.80.0/22"
+    ],
+    "ipv6": [
+      "2804:2a40::/32"
+    ]
+  }
+}

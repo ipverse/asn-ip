@@ -1,0 +1,12 @@
+{
+  "asn": 3254,
+  "handle": "LUCKYNET",
+  "description": "Lucky Net Ltd",
+  "subnets": {
+    "ipv4": [
+      "62.244.0.0/18",
+      "193.193.192.0/19"
+    ],
+    "ipv6": []
+  }
+}

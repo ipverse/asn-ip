@@ -1,0 +1,11 @@
+{
+  "asn": 399790,
+  "handle": "HQ-CFIBER-RTR-01",
+  "description": "Choptank Fiber, LLC.",
+  "subnets": {
+    "ipv4": [
+      "38.134.123.0/24"
+    ],
+    "ipv6": []
+  }
+}

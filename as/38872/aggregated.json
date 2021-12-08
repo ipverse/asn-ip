@@ -1,0 +1,11 @@
+{
+  "asn": 38872,
+  "handle": "ISBNET-IN",
+  "description": "Indian School of Business",
+  "subnets": {
+    "ipv4": [
+      "202.174.120.0/24"
+    ],
+    "ipv6": []
+  }
+}

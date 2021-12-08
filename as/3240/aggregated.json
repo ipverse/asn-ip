@@ -1,0 +1,12 @@
+{
+  "asn": 3240,
+  "handle": "SEKTORNET",
+  "description": "Styrelsen for it og laering",
+  "subnets": {
+    "ipv4": [
+      "194.182.108.0/24",
+      "195.231.128.0/17"
+    ],
+    "ipv6": []
+  }
+}

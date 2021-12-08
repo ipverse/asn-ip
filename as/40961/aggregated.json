@@ -1,0 +1,12 @@
+{
+  "asn": 40961,
+  "handle": "POLMEX",
+  "description": "POLMEX - SERWIS S.C.",
+  "subnets": {
+    "ipv4": [
+      "93.157.72.0/21",
+      "195.189.32.0/22"
+    ],
+    "ipv6": []
+  }
+}

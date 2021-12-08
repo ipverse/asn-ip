@@ -1,0 +1,13 @@
+{
+  "asn": 2863,
+  "handle": "SPRITELINK",
+  "description": "Centor AB",
+  "subnets": {
+    "ipv4": [
+      "195.182.5.0/24"
+    ],
+    "ipv6": [
+      "2001:678:228::/48"
+    ]
+  }
+}

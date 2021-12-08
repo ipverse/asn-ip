@@ -1,0 +1,12 @@
+{
+  "asn": 14311,
+  "handle": "XO-ASN2",
+  "description": "MCI Communications Services, Inc. d/b/a Verizon Business",
+  "subnets": {
+    "ipv4": [
+      "205.158.160.0/22",
+      "207.88.98.0/24"
+    ],
+    "ipv6": []
+  }
+}

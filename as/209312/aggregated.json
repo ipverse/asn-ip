@@ -1,0 +1,13 @@
+{
+  "asn": 209312,
+  "handle": "COMPASS",
+  "description": "Compass Education Holdings Limited",
+  "subnets": {
+    "ipv4": [
+      "154.50.196.0/24"
+    ],
+    "ipv6": [
+      "2001:978:5203::/48"
+    ]
+  }
+}

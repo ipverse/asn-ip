@@ -1,0 +1,13 @@
+{
+  "asn": 44511,
+  "handle": "SYGARD",
+  "description": "PE SLAEN SYGARD",
+  "subnets": {
+    "ipv4": [
+      "91.213.127.0/24"
+    ],
+    "ipv6": [
+      "2a02:20c8:1241::/48"
+    ]
+  }
+}

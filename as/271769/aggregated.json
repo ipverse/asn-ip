@@ -1,0 +1,12 @@
+{
+  "asn": 271769,
+  "handle": "ONIX5-TELECOM-E-COMUNICACOES",
+  "description": "Onix5 telecom e comunicações",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2804:80b8::/36",
+      "2804:80b8:a000::/36"
+    ]
+  }
+}

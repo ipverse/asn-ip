@@ -1,0 +1,12 @@
+{
+  "asn": 138068,
+  "handle": "SUPERSISTEMULTIMA-ID",
+  "description": "PT. Super Sistem Ultima",
+  "subnets": {
+    "ipv4": [
+      "103.122.152.0/24",
+      "103.122.154.0/24"
+    ],
+    "ipv6": []
+  }
+}

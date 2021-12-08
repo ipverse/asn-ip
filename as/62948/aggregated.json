@@ -1,0 +1,12 @@
+{
+  "asn": 62948,
+  "handle": "ALSAT-WIRELESS",
+  "description": "ALSAT Wireless",
+  "subnets": {
+    "ipv4": [
+      "74.119.4.0/22",
+      "162.254.128.0/22"
+    ],
+    "ipv6": []
+  }
+}

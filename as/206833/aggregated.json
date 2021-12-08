@@ -1,0 +1,12 @@
+{
+  "asn": 206833,
+  "handle": "SNELL",
+  "description": "Snell Cuenca Minera S.L",
+  "subnets": {
+    "ipv4": [
+      "185.44.62.0/24",
+      "185.176.68.0/22"
+    ],
+    "ipv6": []
+  }
+}

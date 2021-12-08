@@ -1,0 +1,13 @@
+{
+  "asn": 136429,
+  "handle": "BASNETWORK-AP",
+  "description": "BAS Network",
+  "subnets": {
+    "ipv4": [
+      "103.87.212.0/22"
+    ],
+    "ipv6": [
+      "2404:4e40::/32"
+    ]
+  }
+}

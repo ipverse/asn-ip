@@ -1,0 +1,13 @@
+{
+  "asn": 269370,
+  "handle": "DWNET-BANDA-LARGA",
+  "description": "Dwnet Banda Larga Comunicacao Multimidia e Informa",
+  "subnets": {
+    "ipv4": [
+      "45.185.68.0/22"
+    ],
+    "ipv6": [
+      "2804:6394::/32"
+    ]
+  }
+}

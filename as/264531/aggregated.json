@@ -1,0 +1,13 @@
+{
+  "asn": 264531,
+  "handle": "ULTRA-TELECOM",
+  "description": "ULTRA TELECOM",
+  "subnets": {
+    "ipv4": [
+      "138.0.72.0/22"
+    ],
+    "ipv6": [
+      "2804:2114::/32"
+    ]
+  }
+}

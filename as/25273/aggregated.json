@@ -1,0 +1,16 @@
+{
+  "asn": 25273,
+  "handle": "BCELU",
+  "description": "Broadcasting Center Europe (an RTL Group Company)",
+  "subnets": {
+    "ipv4": [
+      "2.57.172.0/23",
+      "2.57.174.0/24",
+      "81.92.224.0/20",
+      "185.199.248.0/22"
+    ],
+    "ipv6": [
+      "2a02:b8::/32"
+    ]
+  }
+}

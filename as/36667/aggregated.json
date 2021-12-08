@@ -1,0 +1,13 @@
+{
+  "asn": 36667,
+  "handle": "PHIBRO-ANIMAL-HEALTH-CORPORATION-ARIN",
+  "description": "Phibro Animal Health Corporation",
+  "subnets": {
+    "ipv4": [
+      "198.35.120.0/23"
+    ],
+    "ipv6": [
+      "2620:109:6000::/44"
+    ]
+  }
+}

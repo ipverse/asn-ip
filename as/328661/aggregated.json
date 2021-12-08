@@ -1,0 +1,13 @@
+{
+  "asn": 328661,
+  "handle": "C-WAY-COMPUTERS",
+  "description": "C-Way Computers CC",
+  "subnets": {
+    "ipv4": [
+      "102.218.184.0/22",
+      "102.218.228.0/22",
+      "102.222.236.0/23"
+    ],
+    "ipv6": []
+  }
+}

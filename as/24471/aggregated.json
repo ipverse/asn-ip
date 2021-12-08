@@ -1,0 +1,12 @@
+{
+  "asn": 24471,
+  "handle": "GLOBAL-UST-IN",
+  "description": "USsoftware P Ltd.",
+  "subnets": {
+    "ipv4": [
+      "103.12.24.0/22",
+      "203.99.40.0/21"
+    ],
+    "ipv6": []
+  }
+}

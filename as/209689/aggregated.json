@@ -1,0 +1,14 @@
+{
+  "asn": 209689,
+  "handle": "CONCARDIS",
+  "description": "Concardis GmbH",
+  "subnets": {
+    "ipv4": [
+      "185.174.149.0/24",
+      "212.87.208.0/23"
+    ],
+    "ipv6": [
+      "2a0a:580:1120::/48"
+    ]
+  }
+}

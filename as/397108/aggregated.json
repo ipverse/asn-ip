@@ -1,0 +1,12 @@
+{
+  "asn": 397108,
+  "handle": "WNMC",
+  "description": "WNM Communications",
+  "subnets": {
+    "ipv4": [
+      "137.118.226.0/23",
+      "208.72.46.0/23"
+    ],
+    "ipv6": []
+  }
+}

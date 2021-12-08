@@ -1,0 +1,13 @@
+{
+  "asn": 18522,
+  "handle": "YUMBRANDS",
+  "description": "Yum! Brands, Inc.",
+  "subnets": {
+    "ipv4": [
+      "168.182.0.0/21",
+      "168.182.8.0/23",
+      "168.182.16.0/20"
+    ],
+    "ipv6": []
+  }
+}

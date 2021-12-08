@@ -1,0 +1,18 @@
+{
+  "asn": 396503,
+  "handle": "WESTCONNECT-COMMUNICATIONS",
+  "description": "WestConnect Communications",
+  "subnets": {
+    "ipv4": [
+      "23.154.81.0/24",
+      "44.135.116.0/22",
+      "44.135.193.0/24",
+      "44.190.7.0/24",
+      "141.193.4.0/24",
+      "158.51.112.0/24"
+    ],
+    "ipv6": [
+      "2602:fd60::/42"
+    ]
+  }
+}

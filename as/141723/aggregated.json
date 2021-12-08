@@ -1,0 +1,11 @@
+{
+  "asn": 141723,
+  "handle": "BEEONLINE-AP",
+  "description": "BEE ONLINE",
+  "subnets": {
+    "ipv4": [
+      "103.162.186.0/23"
+    ],
+    "ipv6": []
+  }
+}

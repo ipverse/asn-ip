@@ -1,0 +1,13 @@
+{
+  "asn": 61935,
+  "handle": "QUICK-COMUNICACOESNET-LTDA",
+  "description": "Quick Comunicações.net LTDA.",
+  "subnets": {
+    "ipv4": [
+      "201.159.24.0/21"
+    ],
+    "ipv6": [
+      "2804:1878::/32"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asn": 263236,
+  "handle": "ITELSA",
+  "description": "Itelsa",
+  "subnets": {
+    "ipv4": [
+      "66.128.32.0/20"
+    ],
+    "ipv6": []
+  }
+}

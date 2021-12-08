@@ -1,0 +1,11 @@
+{
+  "asn": 268885,
+  "handle": "KINET-PROVEDOR-DE",
+  "description": "KINET PROVEDOR DE INTERNET E SERVICOS DE TELECOM",
+  "subnets": {
+    "ipv4": [
+      "45.175.60.0/22"
+    ],
+    "ipv6": []
+  }
+}

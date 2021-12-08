@@ -1,0 +1,13 @@
+{
+  "asn": 27367,
+  "handle": "PUSHWARE",
+  "description": "Pushware Wireless Inc",
+  "subnets": {
+    "ipv4": [
+      "198.245.176.0/23"
+    ],
+    "ipv6": [
+      "2620:111:e008::/45"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asn": 1780,
+  "handle": "VALNET",
+  "description": "Valmet Oyj",
+  "subnets": {
+    "ipv4": [
+      "139.74.128.0/23"
+    ],
+    "ipv6": []
+  }
+}

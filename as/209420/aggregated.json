@@ -1,0 +1,12 @@
+{
+  "asn": 209420,
+  "handle": "START",
+  "description": "START LLC",
+  "subnets": {
+    "ipv4": [
+      "192.145.16.0/23",
+      "192.145.18.0/24"
+    ],
+    "ipv6": []
+  }
+}

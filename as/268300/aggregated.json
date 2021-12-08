@@ -1,0 +1,13 @@
+{
+  "asn": 268300,
+  "handle": "ATIVAR-TELECOM",
+  "description": "Ativar Telecom",
+  "subnets": {
+    "ipv4": [
+      "45.237.56.0/22"
+    ],
+    "ipv6": [
+      "2804:4f0c::/32"
+    ]
+  }
+}

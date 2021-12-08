@@ -1,0 +1,11 @@
+{
+  "asn": 11213,
+  "handle": "LVLT",
+  "description": "Level 3 Parent, LLC",
+  "subnets": {
+    "ipv4": [
+      "8.36.228.0/23"
+    ],
+    "ipv6": []
+  }
+}

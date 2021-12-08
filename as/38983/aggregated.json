@@ -1,0 +1,13 @@
+{
+  "asn": 38983,
+  "handle": "COPACO-CLOUD-BACKBONE",
+  "description": "Copaco Cloud B.V.",
+  "subnets": {
+    "ipv4": [
+      "188.126.108.0/23"
+    ],
+    "ipv6": [
+      "2a09:f400::/29"
+    ]
+  }
+}

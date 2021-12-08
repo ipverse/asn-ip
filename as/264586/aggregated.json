@@ -1,0 +1,13 @@
+{
+  "asn": 264586,
+  "handle": "SPEED-TELECOMUNICACOES",
+  "description": "SPEED TELECOMUNICACOES",
+  "subnets": {
+    "ipv4": [
+      "138.36.196.0/22"
+    ],
+    "ipv6": [
+      "2804:2204::/32"
+    ]
+  }
+}

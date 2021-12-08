@@ -1,0 +1,14 @@
+{
+  "asn": 61498,
+  "handle": "O4IT-COLOMBIA-SAS",
+  "description": "O4IT Colombia SAS",
+  "subnets": {
+    "ipv4": [
+      "138.117.136.0/23",
+      "190.242.59.0/24"
+    ],
+    "ipv6": [
+      "2803:e840::/32"
+    ]
+  }
+}

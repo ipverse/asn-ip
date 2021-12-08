@@ -1,0 +1,12 @@
+{
+  "asn": 269803,
+  "handle": "INVENTA-TELECOMUNICACIONES-EIRL",
+  "description": "INVENTA TELECOMUNICACIONES EIRL",
+  "subnets": {
+    "ipv4": [
+      "170.81.240.0/23",
+      "170.81.242.0/24"
+    ],
+    "ipv6": []
+  }
+}

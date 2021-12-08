@@ -1,0 +1,13 @@
+{
+  "asn": 269108,
+  "handle": "UNT-TELECOM",
+  "description": "UNT TELECOM",
+  "subnets": {
+    "ipv4": [
+      "45.179.248.0/22"
+    ],
+    "ipv6": [
+      "2804:5f8c::/32"
+    ]
+  }
+}

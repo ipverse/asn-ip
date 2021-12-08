@@ -1,0 +1,13 @@
+{
+  "asn": 63950,
+  "handle": "JWNPL-AP",
+  "description": "Jackie\u0027s Wholesale Nurseries Pty Ltd",
+  "subnets": {
+    "ipv4": [
+      "103.49.16.0/23"
+    ],
+    "ipv6": [
+      "2001:df2:3c00::/45"
+    ]
+  }
+}

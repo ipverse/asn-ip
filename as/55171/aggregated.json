@@ -1,0 +1,11 @@
+{
+  "asn": 55171,
+  "handle": "MTS-HEALTHCARE",
+  "description": "MTS Healthcare",
+  "subnets": {
+    "ipv4": [
+      "162.208.30.0/23"
+    ],
+    "ipv6": []
+  }
+}

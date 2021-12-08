@@ -1,0 +1,11 @@
+{
+  "asn": 203552,
+  "handle": "NOINTERNET",
+  "description": "Internet Elephants LTD",
+  "subnets": {
+    "ipv4": [
+      "185.130.244.0/22"
+    ],
+    "ipv6": []
+  }
+}

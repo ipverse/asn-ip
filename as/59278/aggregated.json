@@ -1,0 +1,12 @@
+{
+  "asn": 59278,
+  "handle": "VNTNET-ID",
+  "description": "PT Jaringan VNT Indonesia",
+  "subnets": {
+    "ipv4": [
+      "103.58.160.0/22",
+      "103.227.240.0/22"
+    ],
+    "ipv6": []
+  }
+}

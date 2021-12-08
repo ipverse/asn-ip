@@ -1,0 +1,13 @@
+{
+  "asn": 262409,
+  "handle": "CLICK82-SERVICOS-DE",
+  "description": "CLICK82 SERVICOS DE COMUNICACAO EIRELI",
+  "subnets": {
+    "ipv4": [
+      "177.38.192.0/21"
+    ],
+    "ipv6": [
+      "2804:400::/32"
+    ]
+  }
+}

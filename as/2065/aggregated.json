@@ -1,0 +1,11 @@
+{
+  "asn": 2065,
+  "handle": "FR-RENATER-HDMON",
+  "description": "Renater",
+  "subnets": {
+    "ipv4": [
+      "162.38.0.0/16"
+    ],
+    "ipv6": []
+  }
+}

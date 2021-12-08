@@ -1,0 +1,13 @@
+{
+  "asn": 52941,
+  "handle": "SPACE-NETWORK-INFORMATICA",
+  "description": "SPACE NETWORK INFORMÁTICA LTDA",
+  "subnets": {
+    "ipv4": [
+      "177.38.40.0/21"
+    ],
+    "ipv6": [
+      "2804:b18::/32"
+    ]
+  }
+}

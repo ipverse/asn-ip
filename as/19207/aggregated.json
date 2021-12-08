@@ -1,0 +1,12 @@
+{
+  "asn": 19207,
+  "handle": "OPENMARKET-INC",
+  "description": "OpenMarket",
+  "subnets": {
+    "ipv4": [
+      "208.93.49.0/24",
+      "208.93.51.0/24"
+    ],
+    "ipv6": []
+  }
+}

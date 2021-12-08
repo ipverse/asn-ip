@@ -1,0 +1,13 @@
+{
+  "asn": 41700,
+  "handle": "FESTO",
+  "description": "Festo AG \u0026 Co. KG",
+  "subnets": {
+    "ipv4": [
+      "141.130.0.0/16"
+    ],
+    "ipv6": [
+      "2001:67c:2fc::/48"
+    ]
+  }
+}

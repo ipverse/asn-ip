@@ -1,0 +1,13 @@
+{
+  "asn": 266121,
+  "handle": "SUPER-SONIC-TELECOM-LTDA",
+  "description": "SUPER SONIC TELECOM LTDA",
+  "subnets": {
+    "ipv4": [
+      "45.6.28.0/22"
+    ],
+    "ipv6": [
+      "2804:3af8::/32"
+    ]
+  }
+}

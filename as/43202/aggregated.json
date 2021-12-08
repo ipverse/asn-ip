@@ -1,0 +1,12 @@
+{
+  "asn": 43202,
+  "handle": "EVN",
+  "description": "Elektrorazpredelenie Yug EAD",
+  "subnets": {
+    "ipv4": [
+      "45.128.4.0/22",
+      "77.85.174.0/24"
+    ],
+    "ipv6": []
+  }
+}

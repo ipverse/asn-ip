@@ -1,0 +1,12 @@
+{
+  "asn": 43913,
+  "handle": "AT-AGES",
+  "description": "Oesterreichische Agentur fuer Gesundheit und Ernaehrungssicherheit GmbH",
+  "subnets": {
+    "ipv4": [
+      "194.37.56.0/21",
+      "194.37.64.0/22"
+    ],
+    "ipv6": []
+  }
+}

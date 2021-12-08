@@ -1,0 +1,13 @@
+{
+  "asn": 58323,
+  "handle": "COMNET",
+  "description": "ComNet Computer im Netzwerk Vertriebs-GmbH",
+  "subnets": {
+    "ipv4": [
+      "164.138.192.0/21"
+    ],
+    "ipv6": [
+      "2a00:bac0::/32"
+    ]
+  }
+}

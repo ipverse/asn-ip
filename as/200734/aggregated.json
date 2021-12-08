@@ -1,0 +1,11 @@
+{
+  "asn": 200734,
+  "handle": "AIRLINK",
+  "description": "AirLink LLC",
+  "subnets": {
+    "ipv4": [
+      "109.248.246.0/24"
+    ],
+    "ipv6": []
+  }
+}

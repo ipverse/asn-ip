@@ -1,0 +1,13 @@
+{
+  "asn": 52824,
+  "handle": "MJ-VENTURA-LTDA",
+  "description": "M.J. VENTURA LTDA",
+  "subnets": {
+    "ipv4": [
+      "177.200.240.0/20"
+    ],
+    "ipv6": [
+      "2804:bc4::/32"
+    ]
+  }
+}

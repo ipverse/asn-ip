@@ -1,0 +1,13 @@
+{
+  "asn": 200693,
+  "handle": "KSAT",
+  "description": "Kongsberg Satellite Services AS",
+  "subnets": {
+    "ipv4": [
+      "192.111.33.0/24"
+    ],
+    "ipv6": [
+      "2001:67c:1548::/48"
+    ]
+  }
+}

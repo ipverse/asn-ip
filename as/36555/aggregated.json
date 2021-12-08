@@ -1,0 +1,13 @@
+{
+  "asn": 36555,
+  "handle": "CITYOFVERNON-1",
+  "description": "City Of Vernon",
+  "subnets": {
+    "ipv4": [
+      "64.194.227.0/24",
+      "65.120.46.0/24",
+      "208.68.8.0/22"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 38914,
+  "handle": "TSI-MMS-MNT",
+  "description": "T-Systems Multimedia Solutions GmbH",
+  "subnets": {
+    "ipv4": [
+      "195.13.40.0/22"
+    ],
+    "ipv6": [
+      "2001:67c:6c4::/48"
+    ]
+  }
+}

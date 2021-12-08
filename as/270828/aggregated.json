@@ -1,0 +1,13 @@
+{
+  "asn": 270828,
+  "handle": "FULL-NET",
+  "description": "FULL NET",
+  "subnets": {
+    "ipv4": [
+      "190.115.220.0/22"
+    ],
+    "ipv6": [
+      "2804:7208::/32"
+    ]
+  }
+}

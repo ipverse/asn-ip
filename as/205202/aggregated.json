@@ -1,0 +1,18 @@
+{
+  "asn": 205202,
+  "handle": "CLOUDFLIGHT",
+  "description": "Cloudflight Austria GmbH",
+  "subnets": {
+    "ipv4": [
+      "185.225.97.0/24",
+      "185.225.98.0/23"
+    ],
+    "ipv6": [
+      "2a0d:ac00::/48",
+      "2a0d:ac00:6::/47",
+      "2a0d:ac00:1000::/48",
+      "2a0d:ac00:1006::/47",
+      "2a0d:ac00:dc01::/48"
+    ]
+  }
+}

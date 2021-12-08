@@ -1,0 +1,12 @@
+{
+  "asn": 21708,
+  "handle": "SDCOE",
+  "description": "San Diego County Office of Education",
+  "subnets": {
+    "ipv4": [
+      "198.133.204.0/24",
+      "209.66.192.0/19"
+    ],
+    "ipv6": []
+  }
+}

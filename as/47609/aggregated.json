@@ -1,0 +1,13 @@
+{
+  "asn": 47609,
+  "handle": "LTMD",
+  "description": "UAB LTMD Networks",
+  "subnets": {
+    "ipv4": [
+      "91.206.132.0/23"
+    ],
+    "ipv6": [
+      "2a00:c700:c000::/34"
+    ]
+  }
+}

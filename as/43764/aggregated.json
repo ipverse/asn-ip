@@ -1,0 +1,12 @@
+{
+  "asn": 43764,
+  "handle": "SEVLUSH",
+  "description": "Electron-Service LTD",
+  "subnets": {
+    "ipv4": [
+      "31.43.224.0/19",
+      "91.195.156.0/23"
+    ],
+    "ipv6": []
+  }
+}

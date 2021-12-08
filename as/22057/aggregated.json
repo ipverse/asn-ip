@@ -1,0 +1,13 @@
+{
+  "asn": 22057,
+  "handle": "SAP-DC-NS",
+  "description": "SAP America Inc.",
+  "subnets": {
+    "ipv4": [
+      "169.145.8.0/21",
+      "169.145.39.0/24",
+      "169.145.64.0/22"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 18433,
+  "handle": "ONESKY-FLIGHT-LLC",
+  "description": "OneSky",
+  "subnets": {
+    "ipv4": [
+      "64.207.201.0/24",
+      "64.207.202.0/23"
+    ],
+    "ipv6": []
+  }
+}

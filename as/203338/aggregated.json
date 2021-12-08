@@ -1,0 +1,13 @@
+{
+  "asn": 203338,
+  "handle": "DDBE-INTERNET",
+  "description": "SA DIMENSION DATA BELGIUM",
+  "subnets": {
+    "ipv4": [
+      "185.138.96.0/22"
+    ],
+    "ipv6": [
+      "2a07:d40::/29"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asn": 22227,
+  "handle": "BAC-INTERNATIONAL-BANK",
+  "description": "BAC International Bank",
+  "subnets": {
+    "ipv4": [
+      "200.46.158.0/24"
+    ],
+    "ipv6": []
+  }
+}

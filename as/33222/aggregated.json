@@ -1,0 +1,13 @@
+{
+  "asn": 33222,
+  "handle": "ASHLEY-FURNITURE-INDUSTRIES",
+  "description": "Ashley Furniture Industries, Inc.",
+  "subnets": {
+    "ipv4": [
+      "8.47.45.0/24",
+      "65.207.240.0/24",
+      "209.206.220.0/24"
+    ],
+    "ipv6": []
+  }
+}

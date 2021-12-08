@@ -1,0 +1,13 @@
+{
+  "asn": 135972,
+  "handle": "ICTQUANGNAM-VN",
+  "description": "Quang Nam Department of Information and Communications",
+  "subnets": {
+    "ipv4": [
+      "103.139.14.0/23"
+    ],
+    "ipv6": [
+      "2001:df0:6380::/48"
+    ]
+  }
+}

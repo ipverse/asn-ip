@@ -1,0 +1,12 @@
+{
+  "asn": 263217,
+  "handle": "PROVINCIA-NET",
+  "description": "PROVINCIA NET",
+  "subnets": {
+    "ipv4": [
+      "179.0.151.0/24",
+      "201.131.102.0/24"
+    ],
+    "ipv6": []
+  }
+}

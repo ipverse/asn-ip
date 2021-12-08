@@ -1,0 +1,13 @@
+{
+  "asn": 134711,
+  "handle": "FTSPL-AP",
+  "description": "Flip TV Services Pty Ltd",
+  "subnets": {
+    "ipv4": [
+      "103.12.188.0/22",
+      "160.202.140.0/22",
+      "220.158.188.0/22"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 31037,
+  "handle": "WAVENET",
+  "description": "Wave Net LLC",
+  "subnets": {
+    "ipv4": [
+      "45.84.38.0/23",
+      "185.101.16.0/22"
+    ],
+    "ipv6": []
+  }
+}

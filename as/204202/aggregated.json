@@ -1,0 +1,13 @@
+{
+  "asn": 204202,
+  "handle": "UNIKLOUD",
+  "description": "UNIKLOUD SAS",
+  "subnets": {
+    "ipv4": [
+      "185.111.44.0/22"
+    ],
+    "ipv6": [
+      "2a06:5ac0::/29"
+    ]
+  }
+}

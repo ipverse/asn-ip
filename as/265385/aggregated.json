@@ -1,0 +1,13 @@
+{
+  "asn": 265385,
+  "handle": "INTERLINE-PROVEDOR",
+  "description": "Interline Provedor",
+  "subnets": {
+    "ipv4": [
+      "170.254.248.0/22"
+    ],
+    "ipv6": [
+      "2804:3344::/32"
+    ]
+  }
+}

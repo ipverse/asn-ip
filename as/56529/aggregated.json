@@ -1,0 +1,12 @@
+{
+  "asn": 56529,
+  "handle": "RUAD",
+  "description": "RuaD-Group LLC",
+  "subnets": {
+    "ipv4": [
+      "45.148.243.0/24",
+      "192.144.4.0/24"
+    ],
+    "ipv6": []
+  }
+}

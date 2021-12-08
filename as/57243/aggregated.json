@@ -1,0 +1,13 @@
+{
+  "asn": 57243,
+  "handle": "BBONE",
+  "description": "BB-ONE.net Limited",
+  "subnets": {
+    "ipv4": [
+      "193.193.166.0/23"
+    ],
+    "ipv6": [
+      "2001:67c:7e4::/48"
+    ]
+  }
+}

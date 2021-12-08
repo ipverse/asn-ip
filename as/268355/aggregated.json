@@ -1,0 +1,13 @@
+{
+  "asn": 268355,
+  "handle": "RESENDE-GONCALVES-TELECOM",
+  "description": "RESENDE \u0026 GONÇALVES TELECOM LTDA",
+  "subnets": {
+    "ipv4": [
+      "45.239.72.0/22"
+    ],
+    "ipv6": [
+      "2804:4fe0::/32"
+    ]
+  }
+}

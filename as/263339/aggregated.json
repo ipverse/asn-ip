@@ -1,0 +1,13 @@
+{
+  "asn": 263339,
+  "handle": "3WLINK-INTERNET-LTDA",
+  "description": "3WLINK INTERNET LTDA",
+  "subnets": {
+    "ipv4": [
+      "191.36.192.0/20"
+    ],
+    "ipv6": [
+      "2804:1498::/32"
+    ]
+  }
+}

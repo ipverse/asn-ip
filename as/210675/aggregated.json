@@ -1,0 +1,13 @@
+{
+  "asn": 210675,
+  "handle": "DSP-LOIRET",
+  "description": "LOIRET FIBRE SAS",
+  "subnets": {
+    "ipv4": [
+      "89.226.32.0/24"
+    ],
+    "ipv6": [
+      "2a00:7180:8014::/46"
+    ]
+  }
+}

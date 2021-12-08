@@ -1,0 +1,13 @@
+{
+  "asn": 48009,
+  "handle": "MICEX",
+  "description": "PJSC Moscow Exchange MICEX-RTS",
+  "subnets": {
+    "ipv4": [
+      "85.118.181.0/24",
+      "91.208.232.0/24",
+      "193.232.39.0/24"
+    ],
+    "ipv6": []
+  }
+}

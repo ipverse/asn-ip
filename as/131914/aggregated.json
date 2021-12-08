@@ -1,0 +1,12 @@
+{
+  "asn": 131914,
+  "handle": "DD-NET",
+  "description": "datadockInc.",
+  "subnets": {
+    "ipv4": [
+      "103.87.178.0/23",
+      "157.185.192.0/20"
+    ],
+    "ipv6": []
+  }
+}

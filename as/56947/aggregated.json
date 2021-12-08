@@ -1,0 +1,13 @@
+{
+  "asn": 56947,
+  "handle": "INTERNETSS",
+  "description": "LLC Cifrovie Seti Urala",
+  "subnets": {
+    "ipv4": [
+      "91.229.108.0/22",
+      "185.7.116.0/23",
+      "188.68.81.0/24"
+    ],
+    "ipv6": []
+  }
+}

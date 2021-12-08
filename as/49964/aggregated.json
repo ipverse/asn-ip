@@ -1,0 +1,11 @@
+{
+  "asn": 49964,
+  "handle": "VERIXI-BACKUP-NETWORK",
+  "description": "VERIXI SA",
+  "subnets": {
+    "ipv4": [
+      "185.185.231.0/24"
+    ],
+    "ipv6": []
+  }
+}

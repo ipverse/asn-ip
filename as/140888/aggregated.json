@@ -1,0 +1,11 @@
+{
+  "asn": 140888,
+  "handle": "MTNDOTCOM-AP",
+  "description": "MTN.COM",
+  "subnets": {
+    "ipv4": [
+      "103.152.236.0/23"
+    ],
+    "ipv6": []
+  }
+}

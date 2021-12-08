@@ -1,0 +1,13 @@
+{
+  "asn": 133304,
+  "handle": "HITECHB-IN",
+  "description": "Hitech Broadband",
+  "subnets": {
+    "ipv4": [
+      "103.105.100.0/24",
+      "103.105.102.0/24",
+      "103.159.30.0/24"
+    ],
+    "ipv6": []
+  }
+}

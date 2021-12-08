@@ -1,0 +1,12 @@
+{
+  "asn": 201435,
+  "handle": "RUSCABLE",
+  "description": "RUSCABLE S.L.",
+  "subnets": {
+    "ipv4": [
+      "185.72.52.0/23",
+      "193.39.216.0/22"
+    ],
+    "ipv6": []
+  }
+}

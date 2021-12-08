@@ -1,0 +1,11 @@
+{
+  "asn": 263877,
+  "handle": "REDE-BANDA-LARGA",
+  "description": "rede banda larga",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2804:271c::/32"
+    ]
+  }
+}

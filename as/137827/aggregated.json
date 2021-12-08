@@ -1,0 +1,14 @@
+{
+  "asn": 137827,
+  "handle": "CYGNALTECHNOLOGIES-AP",
+  "description": "Cygnal Technologies Trading and Services",
+  "subnets": {
+    "ipv4": [
+      "103.115.33.0/24",
+      "103.139.80.0/24"
+    ],
+    "ipv6": [
+      "2001:df7:1300::/48"
+    ]
+  }
+}

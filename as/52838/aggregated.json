@@ -1,0 +1,15 @@
+{
+  "asn": 52838,
+  "handle": "WN-TELECOM-LTDA-ME",
+  "description": "WN TELECOM LTDA - ME",
+  "subnets": {
+    "ipv4": [
+      "138.0.188.0/22",
+      "143.202.92.0/22",
+      "177.66.100.0/22"
+    ],
+    "ipv6": [
+      "2804:bd8::/32"
+    ]
+  }
+}

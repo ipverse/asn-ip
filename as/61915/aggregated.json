@@ -1,0 +1,13 @@
+{
+  "asn": 61915,
+  "handle": "SICALNET-COMERCIO-DE",
+  "description": "SICALNET-Comercio de Equipamentos de Informatica L",
+  "subnets": {
+    "ipv4": [
+      "191.6.152.0/21"
+    ],
+    "ipv6": [
+      "2804:16c4::/32"
+    ]
+  }
+}

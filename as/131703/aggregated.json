@@ -1,0 +1,11 @@
+{
+  "asn": 131703,
+  "handle": "IDNIC-UNJ-ID",
+  "description": "Universitas Negeri Jakarta",
+  "subnets": {
+    "ipv4": [
+      "103.8.12.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 10379,
+  "handle": "DELUXE",
+  "description": "Deluxe Corporation",
+  "subnets": {
+    "ipv4": [
+      "168.135.189.0/24",
+      "168.135.190.0/24",
+      "168.135.201.0/24"
+    ],
+    "ipv6": []
+  }
+}

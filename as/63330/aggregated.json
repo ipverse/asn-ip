@@ -1,0 +1,11 @@
+{
+  "asn": 63330,
+  "handle": "ECTCMN",
+  "description": "Emily Cooperative Telephone Company",
+  "subnets": {
+    "ipv4": [
+      "104.222.64.0/20"
+    ],
+    "ipv6": []
+  }
+}

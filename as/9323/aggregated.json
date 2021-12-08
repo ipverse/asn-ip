@@ -1,0 +1,13 @@
+{
+  "asn": 9323,
+  "handle": "DGUNET-KR",
+  "description": "DONGGUK University",
+  "subnets": {
+    "ipv4": [
+      "210.94.160.0/19",
+      "210.94.192.0/19",
+      "223.195.224.0/19"
+    ],
+    "ipv6": []
+  }
+}

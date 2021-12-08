@@ -1,0 +1,13 @@
+{
+  "asn": 270140,
+  "handle": "OK-HOSTING-SC",
+  "description": "OK HOSTING SC",
+  "subnets": {
+    "ipv4": [
+      "179.0.100.0/22"
+    ],
+    "ipv6": [
+      "2806:3d8::/32"
+    ]
+  }
+}

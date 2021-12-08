@@ -1,0 +1,16 @@
+{
+  "asn": 3258,
+  "handle": "SIAMAKLAUT-DEV",
+  "description": "SIA Maklaut",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a09:2::/48",
+      "2a09:3::/48",
+      "2a09:4::/48",
+      "2a09:5::/48",
+      "2a09:7:2008::/48",
+      "2a0a:acc1::/48"
+    ]
+  }
+}

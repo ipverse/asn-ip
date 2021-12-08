@@ -1,0 +1,14 @@
+{
+  "asn": 37933,
+  "handle": "POLYFONE-AU-AP",
+  "description": "Polyfone Telecom Pty Limited",
+  "subnets": {
+    "ipv4": [
+      "103.198.130.0/24",
+      "202.153.64.0/20"
+    ],
+    "ipv6": [
+      "2403:ca00::/32"
+    ]
+  }
+}

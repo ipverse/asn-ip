@@ -1,0 +1,13 @@
+{
+  "asn": 268688,
+  "handle": "ATM-3G-TOP",
+  "description": "ATM 3G TOP MVNO SISTEMAS DE TELECOMUNICACOES LTDA.",
+  "subnets": {
+    "ipv4": [
+      "45.165.188.0/22"
+    ],
+    "ipv6": [
+      "2804:5514::/32"
+    ]
+  }
+}

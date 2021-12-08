@@ -1,0 +1,12 @@
+{
+  "asn": 30188,
+  "handle": "TELEVERGENCE",
+  "description": "Televergence Solutions Inc.",
+  "subnets": {
+    "ipv4": [
+      "74.120.136.0/24",
+      "74.120.138.0/23"
+    ],
+    "ipv6": []
+  }
+}

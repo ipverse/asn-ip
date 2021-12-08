@@ -1,0 +1,13 @@
+{
+  "asn": 207782,
+  "handle": "CNVL",
+  "description": "CONVAL GRUP VALIDASYON EGITIMI VE DANS.TIC.LTD.STI.",
+  "subnets": {
+    "ipv4": [
+      "45.11.200.0/22",
+      "45.81.100.0/22",
+      "212.6.33.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 28552,
+  "handle": "AXESAT-MEXICO-S-A-DE-CV",
+  "description": "Axesat México, S. A. de C.V.",
+  "subnets": {
+    "ipv4": [
+      "201.159.224.0/20",
+      "201.159.240.0/21"
+    ],
+    "ipv6": []
+  }
+}

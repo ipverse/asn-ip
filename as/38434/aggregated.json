@@ -1,0 +1,13 @@
+{
+  "asn": 38434,
+  "handle": "INFRAWARE-KR-KR",
+  "description": "Infraware Inc.",
+  "subnets": {
+    "ipv4": [
+      "61.96.206.0/24",
+      "211.45.65.0/24",
+      "211.45.70.0/24"
+    ],
+    "ipv6": []
+  }
+}

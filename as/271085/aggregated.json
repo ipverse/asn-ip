@@ -1,0 +1,13 @@
+{
+  "asn": 271085,
+  "handle": "MEGA-REDE-PROVEDORES",
+  "description": "Mega Rede Provedores de Acesso Ltda",
+  "subnets": {
+    "ipv4": [
+      "179.48.108.0/22"
+    ],
+    "ipv6": [
+      "2804:7608::/32"
+    ]
+  }
+}

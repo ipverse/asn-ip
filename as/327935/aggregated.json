@@ -1,0 +1,14 @@
+{
+  "asn": 327935,
+  "handle": "ISPACE",
+  "description": "iSPACE (PTY) LTD",
+  "subnets": {
+    "ipv4": [
+      "196.216.96.0/19"
+    ],
+    "ipv6": [
+      "2001:43f8:900::/48",
+      "2c0f:f500::/32"
+    ]
+  }
+}

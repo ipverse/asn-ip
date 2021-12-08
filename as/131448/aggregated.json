@@ -1,0 +1,12 @@
+{
+  "asn": 131448,
+  "handle": "TGRB-AP",
+  "description": "BEST TARGET (HONG KONG) LIMITED",
+  "subnets": {
+    "ipv4": [
+      "103.69.136.0/22",
+      "116.66.180.0/22"
+    ],
+    "ipv6": []
+  }
+}

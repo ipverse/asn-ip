@@ -1,0 +1,12 @@
+{
+  "asn": 138205,
+  "handle": "RMNETWORK-AP",
+  "description": "RM NETWORK",
+  "subnets": {
+    "ipv4": [
+      "103.129.236.0/23",
+      "103.129.238.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asn": 30774,
+  "handle": "ESC",
+  "description": "ESC - Electronic Service Center",
+  "subnets": {
+    "ipv4": [
+      "82.97.64.0/18"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 22122,
+  "handle": "UNIVERSIDAD-AUTONOMA-DE",
+  "description": "Universidad Autónoma de Yucatán",
+  "subnets": {
+    "ipv4": [
+      "148.209.0.0/16"
+    ],
+    "ipv6": [
+      "2801:c4:19::/48"
+    ]
+  }
+}

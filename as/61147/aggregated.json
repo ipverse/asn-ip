@@ -1,0 +1,11 @@
+{
+  "asn": 61147,
+  "handle": "CALLHOSTED",
+  "description": "CallHosted B.V.",
+  "subnets": {
+    "ipv4": [
+      "195.54.38.0/23"
+    ],
+    "ipv6": []
+  }
+}

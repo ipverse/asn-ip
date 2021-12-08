@@ -1,0 +1,13 @@
+{
+  "asn": 204062,
+  "handle": "ETELECOM",
+  "description": "E. Telecom Segria SLU",
+  "subnets": {
+    "ipv4": [
+      "91.103.148.0/23",
+      "91.103.150.0/24",
+      "185.115.232.0/22"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asn": 393580,
+  "handle": "PEOPLES-HEALTH-NUMBER",
+  "description": "Peoples Health",
+  "subnets": {
+    "ipv4": [
+      "64.132.16.0/24"
+    ],
+    "ipv6": []
+  }
+}

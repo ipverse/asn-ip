@@ -1,0 +1,13 @@
+{
+  "asn": 262806,
+  "handle": "F1NET-LTDA",
+  "description": "F1NET LTDA",
+  "subnets": {
+    "ipv4": [
+      "187.49.48.0/20"
+    ],
+    "ipv6": [
+      "2804:254::/32"
+    ]
+  }
+}

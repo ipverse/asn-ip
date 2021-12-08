@@ -1,0 +1,13 @@
+{
+  "asn": 212710,
+  "handle": "TEAMVIEWER-AMEA",
+  "description": "TeamViewer Germany GmbH",
+  "subnets": {
+    "ipv4": [
+      "193.58.100.0/24"
+    ],
+    "ipv6": [
+      "2a09:2900::/48"
+    ]
+  }
+}

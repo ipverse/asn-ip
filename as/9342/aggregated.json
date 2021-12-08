@@ -1,0 +1,14 @@
+{
+  "asn": 9342,
+  "handle": "ABCNET-AP",
+  "description": "SingTel Optus Pty Ltd",
+  "subnets": {
+    "ipv4": [
+      "144.218.0.0/16",
+      "169.201.0.0/16",
+      "202.6.74.0/24",
+      "203.2.218.0/24"
+    ],
+    "ipv6": []
+  }
+}

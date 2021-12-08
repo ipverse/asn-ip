@@ -1,0 +1,13 @@
+{
+  "asn": 270120,
+  "handle": "VINOC-SAPI-DE-CV",
+  "description": "VINOC, S.A.P.I. DE C.V.",
+  "subnets": {
+    "ipv4": [
+      "187.103.24.0/24"
+    ],
+    "ipv6": [
+      "2806:3bf::/48"
+    ]
+  }
+}

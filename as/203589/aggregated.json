@@ -1,0 +1,13 @@
+{
+  "asn": 203589,
+  "handle": "SERVBIT",
+  "description": "Servbit Research SRL",
+  "subnets": {
+    "ipv4": [
+      "188.211.166.0/24"
+    ],
+    "ipv6": [
+      "2a05:8880:4::/48"
+    ]
+  }
+}

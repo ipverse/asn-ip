@@ -1,0 +1,12 @@
+{
+  "asn": 138614,
+  "handle": "FREXPRESS-AP",
+  "description": "FR Express",
+  "subnets": {
+    "ipv4": [
+      "103.134.169.0/24",
+      "103.134.170.0/23"
+    ],
+    "ipv6": []
+  }
+}

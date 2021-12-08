@@ -1,0 +1,13 @@
+{
+  "asn": 264186,
+  "handle": "AGT-NETWORKS",
+  "description": "AGT NETWORKS",
+  "subnets": {
+    "ipv4": [
+      "138.94.192.0/22"
+    ],
+    "ipv6": [
+      "2804:23d4::/32"
+    ]
+  }
+}

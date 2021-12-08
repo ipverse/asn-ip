@@ -1,0 +1,12 @@
+{
+  "asn": 271703,
+  "handle": "JW-DIRECT-FIBER",
+  "description": "JW DIRECT FIBER CONNECT LTDA ME",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2804:7f80::/32",
+      "2804:7fb0::/32"
+    ]
+  }
+}

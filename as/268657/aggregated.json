@@ -1,0 +1,13 @@
+{
+  "asn": 268657,
+  "handle": "HOPE-INTERNET-LTDA",
+  "description": "HOPE INTERNET - LTDA",
+  "subnets": {
+    "ipv4": [
+      "45.165.48.0/22"
+    ],
+    "ipv6": [
+      "2804:548c::/32"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 61744,
+  "handle": "POWER-NET-TELECOM-EIRELI-ME",
+  "description": "power net telecom eireli-me",
+  "subnets": {
+    "ipv4": [
+      "131.72.128.0/22"
+    ],
+    "ipv6": [
+      "2804:1bb4::/32"
+    ]
+  }
+}

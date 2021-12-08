@@ -1,0 +1,12 @@
+{
+  "asn": 13496,
+  "handle": "BELCAN",
+  "description": "Belcan Corporation",
+  "subnets": {
+    "ipv4": [
+      "199.74.236.0/23",
+      "204.90.74.0/24"
+    ],
+    "ipv6": []
+  }
+}

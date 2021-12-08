@@ -1,0 +1,11 @@
+{
+  "asn": 61106,
+  "handle": "FINDEP",
+  "description": "The financial department of Tomsk region",
+  "subnets": {
+    "ipv4": [
+      "31.211.31.0/24"
+    ],
+    "ipv6": []
+  }
+}

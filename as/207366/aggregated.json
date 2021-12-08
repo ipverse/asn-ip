@@ -1,0 +1,12 @@
+{
+  "asn": 207366,
+  "handle": "REDIUM",
+  "description": "Redium B.V.",
+  "subnets": {
+    "ipv4": [
+      "91.220.231.0/24",
+      "164.138.254.0/24"
+    ],
+    "ipv6": []
+  }
+}

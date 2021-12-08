@@ -1,0 +1,13 @@
+{
+  "asn": 269538,
+  "handle": "CONECTEC-NET-LTDA",
+  "description": "CONECTEC NET LTDA",
+  "subnets": {
+    "ipv4": [
+      "45.188.200.0/22"
+    ],
+    "ipv6": [
+      "2804:6628::/32"
+    ]
+  }
+}

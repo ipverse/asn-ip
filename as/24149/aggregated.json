@@ -1,0 +1,13 @@
+{
+  "asn": 24149,
+  "handle": "ZDNS",
+  "description": "Internet Domain Name System Beijing Engineering Resrarch Center Ltd.",
+  "subnets": {
+    "ipv4": [
+      "150.242.158.0/24"
+    ],
+    "ipv6": [
+      "2401:8d00:2::/48"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 271545,
+  "handle": "USUAL-TELECOM-LTDA",
+  "description": "USUAL TELECOM LTDA",
+  "subnets": {
+    "ipv4": [
+      "190.52.68.0/22"
+    ],
+    "ipv6": [
+      "2804:7d30::/32"
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 132425,
+  "handle": "APC-HOSTING-SG",
+  "description": "APC Hosting Pte Ltd",
+  "subnets": {
+    "ipv4": [
+      "103.14.212.0/22",
+      "124.6.60.0/22"
+    ],
+    "ipv6": [
+      "2400:1480::/48"
+    ]
+  }
+}

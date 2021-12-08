@@ -1,0 +1,14 @@
+{
+  "asn": 208974,
+  "handle": "OGELPRE",
+  "description": "Benedikt Neuffer",
+  "subnets": {
+    "ipv4": [
+      "45.12.168.0/23",
+      "45.12.170.0/24"
+    ],
+    "ipv6": [
+      "2a0e:b500::/29"
+    ]
+  }
+}

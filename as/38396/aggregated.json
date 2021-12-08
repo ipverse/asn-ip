@@ -1,0 +1,14 @@
+{
+  "asn": 38396,
+  "handle": "GOEPJ-KR-KR",
+  "description": "Paju office of Education Gyeonggi Province",
+  "subnets": {
+    "ipv4": [
+      "1.236.0.0/23",
+      "122.203.238.0/24",
+      "175.211.187.0/24",
+      "222.101.116.0/24"
+    ],
+    "ipv6": []
+  }
+}

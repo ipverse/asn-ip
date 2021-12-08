@@ -1,0 +1,13 @@
+{
+  "asn": 262571,
+  "handle": "SM-NETWORKS",
+  "description": "SM Networks",
+  "subnets": {
+    "ipv4": [
+      "177.73.160.0/21"
+    ],
+    "ipv6": [
+      "2804:63c::/32"
+    ]
+  }
+}

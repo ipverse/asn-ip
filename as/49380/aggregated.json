@@ -1,0 +1,11 @@
+{
+  "asn": 49380,
+  "handle": "AMTMGTS",
+  "description": "PJSC Moscow city telephone network",
+  "subnets": {
+    "ipv4": [
+      "91.214.96.0/22"
+    ],
+    "ipv6": []
+  }
+}

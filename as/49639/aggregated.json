@@ -1,0 +1,13 @@
+{
+  "asn": 49639,
+  "handle": "KKH-A",
+  "description": "Kaufmaennische Krankenkasse - KKH",
+  "subnets": {
+    "ipv4": [
+      "91.213.61.0/24"
+    ],
+    "ipv6": [
+      "2001:67c:52c::/48"
+    ]
+  }
+}

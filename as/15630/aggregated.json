@@ -1,0 +1,13 @@
+{
+  "asn": 15630,
+  "handle": "UNED",
+  "description": "Universidad Nacional de Educacion a Distancia - UNED",
+  "subnets": {
+    "ipv4": [
+      "62.204.192.0/19"
+    ],
+    "ipv6": [
+      "2a01:4a80::/32"
+    ]
+  }
+}

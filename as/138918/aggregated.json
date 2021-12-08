@@ -1,0 +1,11 @@
+{
+  "asn": 138918,
+  "handle": "SULAVPAYPVTLTD-AP",
+  "description": "N-Cash",
+  "subnets": {
+    "ipv4": [
+      "103.168.86.0/23"
+    ],
+    "ipv6": []
+  }
+}

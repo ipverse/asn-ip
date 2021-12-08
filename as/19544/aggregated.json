@@ -1,0 +1,14 @@
+{
+  "asn": 19544,
+  "handle": "WINTERSBROADBAND",
+  "description": "Cal.net, Inc.",
+  "subnets": {
+    "ipv4": [
+      "52.129.40.0/22",
+      "208.91.4.0/22"
+    ],
+    "ipv6": [
+      "2602:ff10::/36"
+    ]
+  }
+}

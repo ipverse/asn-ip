@@ -1,0 +1,11 @@
+{
+  "asn": 140963,
+  "handle": "TRANSCOMLIMITED-AP",
+  "description": "Transcom Limited",
+  "subnets": {
+    "ipv4": [
+      "103.153.212.0/23"
+    ],
+    "ipv6": []
+  }
+}

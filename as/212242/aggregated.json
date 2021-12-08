@@ -1,0 +1,13 @@
+{
+  "asn": 212242,
+  "handle": "NO-JETNETT",
+  "description": "Jet Nett AS",
+  "subnets": {
+    "ipv4": [
+      "193.84.71.0/24"
+    ],
+    "ipv6": [
+      "2a10:ff00::/31"
+    ]
+  }
+}

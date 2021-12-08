@@ -1,0 +1,13 @@
+{
+  "asn": 266229,
+  "handle": "LINS-NET-TELECOM-LTDA-ME",
+  "description": "lins. net telecom ltda-me",
+  "subnets": {
+    "ipv4": [
+      "192.144.96.0/22"
+    ],
+    "ipv6": [
+      "2804:3cb0::/32"
+    ]
+  }
+}

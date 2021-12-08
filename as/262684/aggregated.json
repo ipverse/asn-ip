@@ -1,0 +1,13 @@
+{
+  "asn": 262684,
+  "handle": "NET-NEW-LTDA",
+  "description": "Net New Ltda",
+  "subnets": {
+    "ipv4": [
+      "187.94.32.0/20"
+    ],
+    "ipv6": [
+      "2804:78::/32"
+    ]
+  }
+}

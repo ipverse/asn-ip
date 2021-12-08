@@ -1,0 +1,13 @@
+{
+  "asn": 395685,
+  "handle": "ONTARIO-TELEPHONE-COMPANY",
+  "description": "Ontario Telephone Company Inc",
+  "subnets": {
+    "ipv4": [
+      "64.246.224.0/20",
+      "192.190.160.0/21",
+      "199.167.192.0/21"
+    ],
+    "ipv6": []
+  }
+}

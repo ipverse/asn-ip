@@ -1,0 +1,12 @@
+{
+  "asn": 157,
+  "handle": "INTELLIAUTON",
+  "description": "Silicon Graphics International Corp.",
+  "subnets": {
+    "ipv4": [
+      "192.48.180.0/22",
+      "192.48.184.0/21"
+    ],
+    "ipv6": []
+  }
+}

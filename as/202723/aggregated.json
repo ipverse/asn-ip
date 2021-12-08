@@ -1,0 +1,12 @@
+{
+  "asn": 202723,
+  "handle": "VAD-SRL-AS1",
+  "description": "VAD SRL",
+  "subnets": {
+    "ipv4": [
+      "45.93.212.0/22",
+      "89.44.81.0/24"
+    ],
+    "ipv6": []
+  }
+}

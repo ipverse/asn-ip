@@ -1,0 +1,13 @@
+{
+  "asn": 202891,
+  "handle": "MULTICOM-IOT",
+  "description": "AddSecure AB",
+  "subnets": {
+    "ipv4": [
+      "85.117.170.0/23",
+      "85.117.172.0/24",
+      "85.117.180.0/22"
+    ],
+    "ipv6": []
+  }
+}

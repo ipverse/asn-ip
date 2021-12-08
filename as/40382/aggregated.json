@@ -1,0 +1,12 @@
+{
+  "asn": 40382,
+  "handle": "HENNEPIN-COUNTY",
+  "description": "Hennepin County",
+  "subnets": {
+    "ipv4": [
+      "137.70.0.0/16",
+      "204.73.55.0/24"
+    ],
+    "ipv6": []
+  }
+}

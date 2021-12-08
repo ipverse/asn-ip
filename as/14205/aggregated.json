@@ -1,0 +1,11 @@
+{
+  "asn": 14205,
+  "handle": "WANC",
+  "description": "WAN Communications, Inc.",
+  "subnets": {
+    "ipv4": [
+      "64.40.128.0/20"
+    ],
+    "ipv6": []
+  }
+}

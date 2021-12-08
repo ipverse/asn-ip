@@ -1,0 +1,11 @@
+{
+  "asn": 134070,
+  "handle": "LEGALAIDNSW-AP",
+  "description": "Legal Aid Commission of NSW",
+  "subnets": {
+    "ipv4": [
+      "103.51.40.0/24"
+    ],
+    "ipv6": []
+  }
+}

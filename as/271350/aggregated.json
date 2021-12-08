@@ -1,0 +1,13 @@
+{
+  "asn": 271350,
+  "handle": "MIKRONET-PROVEDOR",
+  "description": "MIKRONET PROVEDOR",
+  "subnets": {
+    "ipv4": [
+      "206.0.18.0/23"
+    ],
+    "ipv6": [
+      "2804:7a24::/32"
+    ]
+  }
+}

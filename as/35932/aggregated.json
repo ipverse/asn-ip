@@ -1,0 +1,15 @@
+{
+  "asn": 35932,
+  "handle": "SPLN-ASN-2020",
+  "description": "Splash Wireless Internet, LLC",
+  "subnets": {
+    "ipv4": [
+      "23.164.112.0/24",
+      "38.39.216.0/24",
+      "38.39.222.0/23"
+    ],
+    "ipv6": [
+      "2605:aec0::/32"
+    ]
+  }
+}

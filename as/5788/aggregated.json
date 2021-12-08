@@ -1,0 +1,13 @@
+{
+  "asn": 5788,
+  "handle": "HSSBC-PRIMARY",
+  "description": "Vancouver Coastal Health",
+  "subnets": {
+    "ipv4": [
+      "139.173.72.0/21",
+      "139.173.80.0/21",
+      "139.173.244.0/23"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 49421,
+  "handle": "LINUXLTD",
+  "description": "Linux Ltd.",
+  "subnets": {
+    "ipv4": [
+      "78.83.238.0/23",
+      "149.91.64.0/22"
+    ],
+    "ipv6": []
+  }
+}

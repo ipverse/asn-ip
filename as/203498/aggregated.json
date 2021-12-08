@@ -1,0 +1,13 @@
+{
+  "asn": 203498,
+  "handle": "MSA",
+  "description": "MSA Realty LLC",
+  "subnets": {
+    "ipv4": [
+      "185.254.212.0/22"
+    ],
+    "ipv6": [
+      "2a0c:5640::/29"
+    ]
+  }
+}

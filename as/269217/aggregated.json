@@ -1,0 +1,13 @@
+{
+  "asn": 269217,
+  "handle": "LINK-SELECT",
+  "description": "LINK SELECT",
+  "subnets": {
+    "ipv4": [
+      "45.182.144.0/22"
+    ],
+    "ipv6": [
+      "2804:6128::/33"
+    ]
+  }
+}

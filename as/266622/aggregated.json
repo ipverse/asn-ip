@@ -1,0 +1,13 @@
+{
+  "asn": 266622,
+  "handle": "AZUL-TELECOM-LTDA",
+  "description": "AZUL TELECOM LTDA",
+  "subnets": {
+    "ipv4": [
+      "45.7.212.0/22"
+    ],
+    "ipv6": [
+      "2804:3ed0::/32"
+    ]
+  }
+}

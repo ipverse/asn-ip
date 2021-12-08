@@ -1,0 +1,13 @@
+{
+  "asn": 61282,
+  "handle": "BRAINMILL",
+  "description": "BrainMill AB",
+  "subnets": {
+    "ipv4": [
+      "185.239.220.0/22"
+    ],
+    "ipv6": [
+      "2a09:2681::/32"
+    ]
+  }
+}

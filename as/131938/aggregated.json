@@ -1,0 +1,12 @@
+{
+  "asn": 131938,
+  "handle": "NISSAN-NET",
+  "description": "NISSAN MOTOR CO.,LTD.",
+  "subnets": {
+    "ipv4": [
+      "150.63.64.0/18",
+      "150.63.128.0/17"
+    ],
+    "ipv6": []
+  }
+}

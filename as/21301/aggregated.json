@@ -1,0 +1,13 @@
+{
+  "asn": 21301,
+  "handle": "RBS-FM",
+  "description": "Royal Bank of Scotland plc",
+  "subnets": {
+    "ipv4": [
+      "155.136.56.0/22",
+      "155.136.151.0/24",
+      "155.136.200.0/23"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 271931,
+  "handle": "MAO-CABLE-VISION-SRL",
+  "description": "MAO CABLE VISION, S.R.L.",
+  "subnets": {
+    "ipv4": [
+      "154.206.13.0/24"
+    ],
+    "ipv6": [
+      "2803:da10::/32"
+    ]
+  }
+}

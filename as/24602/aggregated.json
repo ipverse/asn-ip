@@ -1,0 +1,11 @@
+{
+  "asn": 24602,
+  "handle": "RADIONET-T",
+  "description": "Radionet -T Ltd",
+  "subnets": {
+    "ipv4": [
+      "195.88.0.0/23"
+    ],
+    "ipv6": []
+  }
+}

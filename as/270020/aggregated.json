@@ -1,0 +1,14 @@
+{
+  "asn": 270020,
+  "handle": "TV-SANV-S-A-S-ALPAVISION-HD",
+  "description": "T.V. SANV S A S (ALPAVISION HD)",
+  "subnets": {
+    "ipv4": [
+      "177.74.205.0/24"
+    ],
+    "ipv6": [
+      "2803:99e0:10::/45",
+      "2803:99e0:18::/47"
+    ]
+  }
+}

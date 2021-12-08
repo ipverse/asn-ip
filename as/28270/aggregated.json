@@ -1,0 +1,15 @@
+{
+  "asn": 28270,
+  "handle": "VIDEOMAR-REDE-NORDESTE-SA",
+  "description": "Videomar Rede Nordeste S/A",
+  "subnets": {
+    "ipv4": [
+      "177.130.192.0/19",
+      "187.18.128.0/17",
+      "189.45.64.0/18"
+    ],
+    "ipv6": [
+      "2804:880::/32"
+    ]
+  }
+}

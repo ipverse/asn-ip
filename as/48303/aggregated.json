@@ -1,0 +1,14 @@
+{
+  "asn": 48303,
+  "handle": "OVISIT",
+  "description": "OVIS IT Consulting GmbH",
+  "subnets": {
+    "ipv4": [
+      "91.216.44.0/24",
+      "185.199.104.0/22"
+    ],
+    "ipv6": [
+      "2a0a:9bc0::/29"
+    ]
+  }
+}

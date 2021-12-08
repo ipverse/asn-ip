@@ -1,0 +1,13 @@
+{
+  "asn": 264030,
+  "handle": "FIBER-TELECOM-EIRELI-ME",
+  "description": "Fiber Telecom Eireli - Me",
+  "subnets": {
+    "ipv4": [
+      "143.137.40.0/22"
+    ],
+    "ipv6": [
+      "2804:29b4::/32"
+    ]
+  }
+}

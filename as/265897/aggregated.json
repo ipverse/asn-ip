@@ -1,0 +1,13 @@
+{
+  "asn": 265897,
+  "handle": "FNET-TECNOLOGIA-EIRELI-ME",
+  "description": "FNET TECNOLOGIA EIRELI ME",
+  "subnets": {
+    "ipv4": [
+      "128.201.196.0/22"
+    ],
+    "ipv6": [
+      "2804:3f80::/32"
+    ]
+  }
+}

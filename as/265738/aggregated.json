@@ -1,0 +1,13 @@
+{
+  "asn": 265738,
+  "handle": "AGRUPACION-DE-PROVEEDORES",
+  "description": "AGRUPACION DE PROVEEDORES DE SERVICIOS",
+  "subnets": {
+    "ipv4": [
+      "45.7.248.0/22",
+      "138.99.220.0/22",
+      "164.163.128.0/22"
+    ],
+    "ipv6": []
+  }
+}

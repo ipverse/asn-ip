@@ -1,0 +1,14 @@
+{
+  "asn": 140616,
+  "handle": "ZNITSOLUTION-AP",
+  "description": "ZN IT Solution",
+  "subnets": {
+    "ipv4": [
+      "103.115.135.0/24",
+      "103.151.10.0/23"
+    ],
+    "ipv6": [
+      "2406:1140::/32"
+    ]
+  }
+}

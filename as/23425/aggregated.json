@@ -1,0 +1,11 @@
+{
+  "asn": 23425,
+  "handle": "HQ01",
+  "description": "CMRE FSI",
+  "subnets": {
+    "ipv4": [
+      "204.239.3.0/24"
+    ],
+    "ipv6": []
+  }
+}

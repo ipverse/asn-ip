@@ -1,0 +1,13 @@
+{
+  "asn": 52372,
+  "handle": "COOPERATIVA-ELECTRICA-DE",
+  "description": "COOPERATIVA ELECTRICA DE GENERAL DEHEZA LTDA.",
+  "subnets": {
+    "ipv4": [
+      "170.254.164.0/22",
+      "186.5.228.0/22",
+      "190.110.184.0/21"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 140101,
+  "handle": "ESNTPL-AP",
+  "description": "E-Speed Stabilizing Network Technology Pte. Ltd.",
+  "subnets": {
+    "ipv4": [
+      "103.148.127.0/24"
+    ],
+    "ipv6": [
+      "2001:df2:d580::/48"
+    ]
+  }
+}

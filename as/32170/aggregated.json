@@ -1,0 +1,13 @@
+{
+  "asn": 32170,
+  "handle": "SLVRMC",
+  "description": "San Luis Valley Regional Medical Center",
+  "subnets": {
+    "ipv4": [
+      "205.189.99.0/24"
+    ],
+    "ipv6": [
+      "2620:91:a000::/48"
+    ]
+  }
+}

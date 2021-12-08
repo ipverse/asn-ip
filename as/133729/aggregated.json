@@ -1,0 +1,13 @@
+{
+  "asn": 133729,
+  "handle": "EQUINOXLIMITED-AP",
+  "description": "Equinox Limited",
+  "subnets": {
+    "ipv4": [
+      "103.39.114.0/24"
+    ],
+    "ipv6": [
+      "2001:df0:ac00::/44"
+    ]
+  }
+}

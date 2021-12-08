@@ -1,0 +1,16 @@
+{
+  "asn": 35273,
+  "handle": "CITYLINE",
+  "description": "PE Serhii Leonidovich Ponomarov",
+  "subnets": {
+    "ipv4": [
+      "91.235.196.0/22",
+      "93.170.26.0/24",
+      "146.158.31.0/24",
+      "193.142.114.0/24"
+    ],
+    "ipv6": [
+      "2001:678:d0c::/48"
+    ]
+  }
+}

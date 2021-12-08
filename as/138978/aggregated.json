@@ -1,0 +1,11 @@
+{
+  "asn": 138978,
+  "handle": "STARCHWORKS-AP",
+  "description": "Starch Works",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2404:bb40::/32"
+    ]
+  }
+}

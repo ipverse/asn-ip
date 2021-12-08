@@ -1,0 +1,12 @@
+{
+  "asn": 54128,
+  "handle": "POKEMON-BELLEVUE",
+  "description": "The Pokemon Company International, Inc.",
+  "subnets": {
+    "ipv4": [
+      "76.191.87.0/24",
+      "213.86.124.0/24"
+    ],
+    "ipv6": []
+  }
+}

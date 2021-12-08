@@ -1,0 +1,13 @@
+{
+  "asn": 138511,
+  "handle": "NETIER-AP",
+  "description": "Netier Pty Limited",
+  "subnets": {
+    "ipv4": [
+      "103.127.112.0/22"
+    ],
+    "ipv6": [
+      "2404:1ec0::/32"
+    ]
+  }
+}

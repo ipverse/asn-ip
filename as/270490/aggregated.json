@@ -1,0 +1,13 @@
+{
+  "asn": 270490,
+  "handle": "VALE-TELECOM-EIRELI",
+  "description": "VALE TELECOM EIRELI",
+  "subnets": {
+    "ipv4": [
+      "24.152.96.0/22"
+    ],
+    "ipv6": [
+      "2804:6cc4::/32"
+    ]
+  }
+}

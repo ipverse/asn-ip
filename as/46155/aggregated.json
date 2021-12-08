@@ -1,0 +1,13 @@
+{
+  "asn": 46155,
+  "handle": "DEERFIELD-ACADEMY",
+  "description": "Deerfield Academy",
+  "subnets": {
+    "ipv4": [
+      "208.92.240.0/22",
+      "208.92.245.0/24",
+      "208.92.246.0/23"
+    ],
+    "ipv6": []
+  }
+}

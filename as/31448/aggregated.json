@@ -1,0 +1,11 @@
+{
+  "asn": 31448,
+  "handle": "TRANSIT-UA",
+  "description": "TRANSIT UA LLC",
+  "subnets": {
+    "ipv4": [
+      "194.106.208.0/23"
+    ],
+    "ipv6": []
+  }
+}

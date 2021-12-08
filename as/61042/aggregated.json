@@ -1,0 +1,14 @@
+{
+  "asn": 61042,
+  "handle": "SCOPETECHNOLOGY",
+  "description": "Scope Advanced Technology SA",
+  "subnets": {
+    "ipv4": [
+      "185.50.236.0/22",
+      "194.209.41.0/24"
+    ],
+    "ipv6": [
+      "2a01:a820::/32"
+    ]
+  }
+}

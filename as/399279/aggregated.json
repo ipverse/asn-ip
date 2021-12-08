@@ -1,0 +1,13 @@
+{
+  "asn": 399279,
+  "handle": "HEY-BABBL-CA",
+  "description": "BABBL COMMUNICATIONS LTD",
+  "subnets": {
+    "ipv4": [
+      "172.82.40.0/22",
+      "216.120.170.0/23",
+      "216.120.204.0/23"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "asn": 27796,
+  "handle": "GALAXY-COMMUNICATIONS",
+  "description": "Galaxy Communications",
+  "subnets": {
+    "ipv4": [
+      "138.186.142.0/24",
+      "190.14.192.0/20",
+      "190.14.208.0/21",
+      "200.12.208.0/21"
+    ],
+    "ipv6": [
+      "2800:ba0:14::/48",
+      "2803:2e40::/32"
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 141557,
+  "handle": "ODINET-IN",
+  "description": "Odinet Infocom Private Limited",
+  "subnets": {
+    "ipv4": [
+      "103.75.40.0/23",
+      "103.75.43.0/24",
+      "103.163.56.0/23",
+      "103.163.178.0/23"
+    ],
+    "ipv6": [
+      "2001:df6:2280::/48"
+    ]
+  }
+}

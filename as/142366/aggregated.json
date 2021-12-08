@@ -1,0 +1,14 @@
+{
+  "asn": 142366,
+  "handle": "IDNIC-RELABS-ID",
+  "description": "PT Relabs Net Daya Cipta",
+  "subnets": {
+    "ipv4": [
+      "103.170.31.0/24"
+    ],
+    "ipv6": [
+      "2407:b4c0:d::/48",
+      "2407:b4c0:12::/48"
+    ]
+  }
+}

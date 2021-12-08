@@ -1,0 +1,12 @@
+{
+  "asn": 203685,
+  "handle": "SGK",
+  "description": "SGK Projekt sp. z o.o. spolka komandytowa",
+  "subnets": {
+    "ipv4": [
+      "88.199.37.0/24",
+      "157.25.132.0/24"
+    ],
+    "ipv6": []
+  }
+}

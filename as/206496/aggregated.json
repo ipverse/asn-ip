@@ -1,0 +1,12 @@
+{
+  "asn": 206496,
+  "handle": "TDACOMUNICACIONES",
+  "description": "Carlos Javier Sanchez Vazquez",
+  "subnets": {
+    "ipv4": [
+      "45.15.32.0/22",
+      "185.185.64.0/22"
+    ],
+    "ipv6": []
+  }
+}

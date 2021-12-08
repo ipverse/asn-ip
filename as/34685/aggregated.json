@@ -1,0 +1,13 @@
+{
+  "asn": 34685,
+  "handle": "XOVO",
+  "description": "Hosting.de GmbH",
+  "subnets": {
+    "ipv4": [
+      "80.78.80.0/20"
+    ],
+    "ipv6": [
+      "2a01:7f0::/32"
+    ]
+  }
+}

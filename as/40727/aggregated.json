@@ -1,0 +1,13 @@
+{
+  "asn": 40727,
+  "handle": "TELENET",
+  "description": "TELENET Informatique Inc.",
+  "subnets": {
+    "ipv4": [
+      "74.122.244.0/22",
+      "199.91.204.0/22",
+      "199.195.204.0/22"
+    ],
+    "ipv6": []
+  }
+}

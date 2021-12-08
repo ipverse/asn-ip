@@ -1,0 +1,11 @@
+{
+  "asn": 56604,
+  "handle": "MOT",
+  "description": "Ministry Of Transport",
+  "subnets": {
+    "ipv4": [
+      "195.128.131.0/24"
+    ],
+    "ipv6": []
+  }
+}

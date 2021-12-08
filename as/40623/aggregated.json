@@ -1,0 +1,14 @@
+{
+  "asn": 40623,
+  "handle": "GFDL",
+  "description": "NOAA Geophysical Fluid Dynamics Laboratory",
+  "subnets": {
+    "ipv4": [
+      "140.208.0.0/18",
+      "140.208.144.0/20"
+    ],
+    "ipv6": [
+      "2610:20:8020::/44"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 38138,
+  "handle": "INTECHLTD-BD",
+  "description": "Intech Limited",
+  "subnets": {
+    "ipv4": [
+      "114.129.8.0/23",
+      "114.129.10.0/24"
+    ],
+    "ipv6": []
+  }
+}

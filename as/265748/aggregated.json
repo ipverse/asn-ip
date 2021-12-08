@@ -1,0 +1,11 @@
+{
+  "asn": 265748,
+  "handle": "GLNET-SRL",
+  "description": "GLNet SRL",
+  "subnets": {
+    "ipv4": [
+      "190.107.184.0/21"
+    ],
+    "ipv6": []
+  }
+}

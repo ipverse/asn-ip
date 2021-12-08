@@ -1,0 +1,12 @@
+{
+  "asn": 43849,
+  "handle": "SEVER-SVYAZ",
+  "description": "Sever-Svyaz LLC",
+  "subnets": {
+    "ipv4": [
+      "146.158.0.0/21",
+      "146.158.8.0/23"
+    ],
+    "ipv6": []
+  }
+}

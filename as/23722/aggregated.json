@@ -1,0 +1,11 @@
+{
+  "asn": 23722,
+  "handle": "NPBS-AP",
+  "description": "Newcastle Permanent Building Society",
+  "subnets": {
+    "ipv4": [
+      "203.0.124.0/22"
+    ],
+    "ipv6": []
+  }
+}

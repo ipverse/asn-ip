@@ -1,0 +1,11 @@
+{
+  "asn": 59275,
+  "handle": "IDNIC-UMS-ID",
+  "description": "Universitas Muhammadiyah Surakarta",
+  "subnets": {
+    "ipv4": [
+      "103.226.174.0/24"
+    ],
+    "ipv6": []
+  }
+}

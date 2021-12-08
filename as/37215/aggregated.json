@@ -1,0 +1,13 @@
+{
+  "asn": 37215,
+  "handle": "MAREN",
+  "description": "Malawi Research and Education Network - MAREN",
+  "subnets": {
+    "ipv4": [
+      "41.70.0.0/17"
+    ],
+    "ipv6": [
+      "2c0f:ea60::/32"
+    ]
+  }
+}

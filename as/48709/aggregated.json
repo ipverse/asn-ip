@@ -1,0 +1,13 @@
+{
+  "asn": 48709,
+  "handle": "SP-TV",
+  "description": "World of connections Ltd.",
+  "subnets": {
+    "ipv4": [
+      "31.148.24.0/24"
+    ],
+    "ipv6": [
+      "2a02:128:10::/48"
+    ]
+  }
+}

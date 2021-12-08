@@ -1,0 +1,13 @@
+{
+  "asn": 211024,
+  "handle": "DEVPLAYER0",
+  "description": "Jack O\u0027Sullivan",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a0e:97c0:4d0::/48",
+      "2a0e:97c0:4da::/48",
+      "2a0e:97c0:4df::/48"
+    ]
+  }
+}

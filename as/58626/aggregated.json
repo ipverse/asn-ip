@@ -1,0 +1,13 @@
+{
+  "asn": 58626,
+  "handle": "MAGSNETINC-AP",
+  "description": "MAGSNET LIMITED",
+  "subnets": {
+    "ipv4": [
+      "202.5.128.0/23",
+      "202.5.130.0/24",
+      "202.5.133.0/24"
+    ],
+    "ipv6": []
+  }
+}

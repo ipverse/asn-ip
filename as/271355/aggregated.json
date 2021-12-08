@@ -1,0 +1,14 @@
+{
+  "asn": 271355,
+  "handle": "NEOTECH-PROVEDOR-DE",
+  "description": "NEOTECH PROVEDOR DE INTERNET LTDA",
+  "subnets": {
+    "ipv4": [
+      "45.185.165.0/24",
+      "181.214.90.0/24"
+    ],
+    "ipv6": [
+      "2804:7a34::/32"
+    ]
+  }
+}

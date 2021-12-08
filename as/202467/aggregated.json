@@ -1,0 +1,13 @@
+{
+  "asn": 202467,
+  "handle": "INTARNET",
+  "description": "INTARNET",
+  "subnets": {
+    "ipv4": [
+      "185.131.43.0/24"
+    ],
+    "ipv6": [
+      "2a03:a0a1::/32"
+    ]
+  }
+}

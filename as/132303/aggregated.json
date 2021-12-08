@@ -1,0 +1,12 @@
+{
+  "asn": 132303,
+  "handle": "TATA-SKY-AP",
+  "description": "Tata Sky Ltd",
+  "subnets": {
+    "ipv4": [
+      "103.14.46.0/24",
+      "103.78.202.0/23"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 263666,
+  "handle": "ONE-TELECOM-EIRELI",
+  "description": "One Telecom Eireli",
+  "subnets": {
+    "ipv4": [
+      "191.241.48.0/22"
+    ],
+    "ipv6": [
+      "2804:1140::/32"
+    ]
+  }
+}

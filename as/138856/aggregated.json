@@ -1,0 +1,11 @@
+{
+  "asn": 138856,
+  "handle": "IDNIC-PTBRIS-ID",
+  "description": "PT BANK BRIsyariah",
+  "subnets": {
+    "ipv4": [
+      "103.138.216.0/23"
+    ],
+    "ipv6": []
+  }
+}

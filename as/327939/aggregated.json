@@ -1,0 +1,15 @@
+{
+  "asn": 327939,
+  "handle": "LOGICALIS",
+  "description": "Logicalis SA (PTY) Ltd",
+  "subnets": {
+    "ipv4": [
+      "196.13.176.0/21"
+    ],
+    "ipv6": [
+      "2c0f:f078:100::/40",
+      "2c0f:f078:200::/39",
+      "2c0f:f078:400::/40"
+    ]
+  }
+}

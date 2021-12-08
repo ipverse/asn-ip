@@ -1,0 +1,13 @@
+{
+  "asn": 61877,
+  "handle": "ABLIX-TELECOM",
+  "description": "ABLIX TELECOM",
+  "subnets": {
+    "ipv4": [
+      "200.24.88.0/22"
+    ],
+    "ipv6": [
+      "2804:1ab4::/32"
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 269140,
+  "handle": "VRM-TELECOM",
+  "description": "VRM Telecom",
+  "subnets": {
+    "ipv4": [
+      "45.180.152.0/23",
+      "45.180.154.0/24"
+    ],
+    "ipv6": [
+      "2804:6004::/32"
+    ]
+  }
+}

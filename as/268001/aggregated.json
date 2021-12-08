@@ -1,0 +1,13 @@
+{
+  "asn": 268001,
+  "handle": "ABASE-SISTEMAS-E",
+  "description": "ABASE Sistemas e Soluções Ltda",
+  "subnets": {
+    "ipv4": [
+      "45.165.153.0/24"
+    ],
+    "ipv6": [
+      "2801:80:25a0::/48"
+    ]
+  }
+}

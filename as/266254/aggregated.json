@@ -1,0 +1,13 @@
+{
+  "asn": 266254,
+  "handle": "POINTWI-FI-TELECOM",
+  "description": "POINTWI-FI TELECOM",
+  "subnets": {
+    "ipv4": [
+      "45.6.232.0/22"
+    ],
+    "ipv6": [
+      "2804:3d1c::/32"
+    ]
+  }
+}

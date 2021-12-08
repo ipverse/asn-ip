@@ -1,0 +1,13 @@
+{
+  "asn": 398722,
+  "handle": "CENSYS-ARIN-03",
+  "description": "Censys, Inc.",
+  "subnets": {
+    "ipv4": [
+      "167.248.133.0/24"
+    ],
+    "ipv6": [
+      "2602:80d:1000::/48"
+    ]
+  }
+}

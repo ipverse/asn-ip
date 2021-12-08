@@ -1,0 +1,12 @@
+{
+  "asn": 62774,
+  "handle": "CLEVELAND-BROWNS",
+  "description": "Cleveland Browns",
+  "subnets": {
+    "ipv4": [
+      "64.190.155.0/24",
+      "137.83.13.0/24"
+    ],
+    "ipv6": []
+  }
+}

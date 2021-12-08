@@ -1,0 +1,14 @@
+{
+  "asn": 263864,
+  "handle": "CLIC-RAPIDO-TELECOMUNICACAO",
+  "description": "CLIC RAPIDO TELECOMUNICACAO LTDA",
+  "subnets": {
+    "ipv4": [
+      "138.186.164.0/22",
+      "170.79.220.0/22"
+    ],
+    "ipv6": [
+      "2804:26ec::/32"
+    ]
+  }
+}

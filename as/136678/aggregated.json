@@ -1,0 +1,14 @@
+{
+  "asn": 136678,
+  "handle": "BGCPPL-IN",
+  "description": "Bombay Gas Company Proprietary Private Limited",
+  "subnets": {
+    "ipv4": [
+      "103.154.208.0/23",
+      "103.165.10.0/23"
+    ],
+    "ipv6": [
+      "2407:4240::/46"
+    ]
+  }
+}

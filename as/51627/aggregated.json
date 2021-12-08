@@ -1,0 +1,11 @@
+{
+  "asn": 51627,
+  "handle": "TRANS-SPED",
+  "description": "Trans Sped SRL",
+  "subnets": {
+    "ipv4": [
+      "91.220.14.0/24"
+    ],
+    "ipv6": []
+  }
+}

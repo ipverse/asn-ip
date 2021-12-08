@@ -1,0 +1,11 @@
+{
+  "asn": 20784,
+  "handle": "CECA",
+  "description": "Cecabank,S.A.",
+  "subnets": {
+    "ipv4": [
+      "80.68.128.0/20"
+    ],
+    "ipv6": []
+  }
+}

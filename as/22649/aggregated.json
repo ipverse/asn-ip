@@ -1,0 +1,13 @@
+{
+  "asn": 22649,
+  "handle": "CODINGDIRECT",
+  "description": "CodingDirect LLC",
+  "subnets": {
+    "ipv4": [
+      "165.140.176.0/22"
+    ],
+    "ipv6": [
+      "2606:7e40::/32"
+    ]
+  }
+}

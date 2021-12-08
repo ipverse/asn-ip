@@ -1,0 +1,15 @@
+{
+  "asn": 53256,
+  "handle": "MULBERRY",
+  "description": "Mulberry Telecommunications",
+  "subnets": {
+    "ipv4": [
+      "199.36.64.0/22",
+      "208.103.32.0/21",
+      "216.21.184.0/21"
+    ],
+    "ipv6": [
+      "2604:a2c0::/32"
+    ]
+  }
+}

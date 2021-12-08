@@ -1,0 +1,13 @@
+{
+  "asn": 207161,
+  "handle": "US-PHX",
+  "description": "Nagravision SA",
+  "subnets": {
+    "ipv4": [
+      "157.97.100.0/22"
+    ],
+    "ipv6": [
+      "2a04:5c85:4000::/36"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 55271,
+  "handle": "STACK8",
+  "description": "Stack8 Technologies Inc.",
+  "subnets": {
+    "ipv4": [
+      "162.211.232.0/23",
+      "162.211.234.0/24"
+    ],
+    "ipv6": []
+  }
+}

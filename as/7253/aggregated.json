@@ -1,0 +1,11 @@
+{
+  "asn": 7253,
+  "handle": "MAINSTAY-COMMUNICATIONS",
+  "description": "Mainstay Communications",
+  "subnets": {
+    "ipv4": [
+      "96.46.96.0/20"
+    ],
+    "ipv6": []
+  }
+}

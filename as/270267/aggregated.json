@@ -1,0 +1,13 @@
+{
+  "asn": 270267,
+  "handle": "GLOBALWEB-TELECOMUNICACAO",
+  "description": "GLOBALWEB TELECOMUNICAÇÃO",
+  "subnets": {
+    "ipv4": [
+      "200.115.112.0/22"
+    ],
+    "ipv6": [
+      "2804:6964::/32"
+    ]
+  }
+}

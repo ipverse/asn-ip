@@ -1,0 +1,14 @@
+{
+  "asn": 22921,
+  "handle": "METROPLEX",
+  "description": "Metroplex Communications, Inc.",
+  "subnets": {
+    "ipv4": [
+      "64.136.64.0/19",
+      "104.218.128.0/21"
+    ],
+    "ipv6": [
+      "2602:ffa3::/36"
+    ]
+  }
+}

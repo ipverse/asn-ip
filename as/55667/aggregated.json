@@ -1,0 +1,11 @@
+{
+  "asn": 55667,
+  "handle": "IPTELECOM-ID",
+  "description": "PT IP Telecom Multimedia Indonesia",
+  "subnets": {
+    "ipv4": [
+      "49.156.56.0/21"
+    ],
+    "ipv6": []
+  }
+}

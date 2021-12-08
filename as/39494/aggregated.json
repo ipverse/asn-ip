@@ -1,0 +1,13 @@
+{
+  "asn": 39494,
+  "handle": "RU-CENTER",
+  "description": "JSC RU-CENTER",
+  "subnets": {
+    "ipv4": [
+      "79.174.72.0/22",
+      "89.104.64.0/19",
+      "89.111.128.0/18"
+    ],
+    "ipv6": []
+  }
+}

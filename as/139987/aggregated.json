@@ -1,0 +1,11 @@
+{
+  "asn": 139987,
+  "handle": "IDNIC-ACP-ID",
+  "description": "PT Adhikarya Cipta Persada",
+  "subnets": {
+    "ipv4": [
+      "103.147.253.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asn": 15225,
+  "handle": "PERSECO",
+  "description": "Perseco",
+  "subnets": {
+    "ipv4": [
+      "204.154.48.0/21"
+    ],
+    "ipv6": []
+  }
+}

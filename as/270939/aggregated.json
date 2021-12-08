@@ -1,0 +1,13 @@
+{
+  "asn": 270939,
+  "handle": "2MM2-SERVICOS-DE",
+  "description": "2MM2 SERVIÇOS DE TELECOMUNICAÇOES",
+  "subnets": {
+    "ipv4": [
+      "186.26.104.0/22"
+    ],
+    "ipv6": [
+      "2804:73d0::/32"
+    ]
+  }
+}

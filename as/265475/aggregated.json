@@ -1,0 +1,13 @@
+{
+  "asn": 265475,
+  "handle": "MUVNET-TELECOM",
+  "description": "MUVNET TELECOM",
+  "subnets": {
+    "ipv4": [
+      "168.197.24.0/22"
+    ],
+    "ipv6": [
+      "2804:34b8::/32"
+    ]
+  }
+}

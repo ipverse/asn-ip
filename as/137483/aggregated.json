@@ -1,0 +1,11 @@
+{
+  "asn": 137483,
+  "handle": "RD-NETWORK-AP",
+  "description": "Tiger Telecommunication Co. Ltd.",
+  "subnets": {
+    "ipv4": [
+      "202.144.201.0/24"
+    ],
+    "ipv6": []
+  }
+}

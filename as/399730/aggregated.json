@@ -1,0 +1,13 @@
+{
+  "asn": 399730,
+  "handle": "BJN-SAC",
+  "description": "Blue Jeans Network, Inc.",
+  "subnets": {
+    "ipv4": [
+      "208.212.8.0/21"
+    ],
+    "ipv6": [
+      "2620:122:8002::/48"
+    ]
+  }
+}

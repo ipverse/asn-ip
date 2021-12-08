@@ -1,0 +1,13 @@
+{
+  "asn": 267145,
+  "handle": "NETSIM-PROVEDOR-DE",
+  "description": "Netsim Provedor de Sistema de Integracao A Midia L",
+  "subnets": {
+    "ipv4": [
+      "45.230.28.0/22"
+    ],
+    "ipv6": [
+      "2804:48cc::/32"
+    ]
+  }
+}

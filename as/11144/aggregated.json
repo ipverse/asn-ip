@@ -1,0 +1,14 @@
+{
+  "asn": 11144,
+  "handle": "ADVENT-SOFTWARE",
+  "description": "Advent Software",
+  "subnets": {
+    "ipv4": [
+      "216.10.144.0/23",
+      "216.10.146.0/24",
+      "216.10.150.0/23",
+      "216.10.152.0/21"
+    ],
+    "ipv6": []
+  }
+}

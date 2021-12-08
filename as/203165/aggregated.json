@@ -1,0 +1,13 @@
+{
+  "asn": 203165,
+  "handle": "SPCSS",
+  "description": "Statni pokladna Centrum sdilenych sluzeb, s.p.",
+  "subnets": {
+    "ipv4": [
+      "5.145.104.0/21"
+    ],
+    "ipv6": [
+      "2a01:8b40::/32"
+    ]
+  }
+}

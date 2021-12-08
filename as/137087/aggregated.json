@@ -1,0 +1,12 @@
+{
+  "asn": 137087,
+  "handle": "SBNETWORKS-IN",
+  "description": "Sb Networks",
+  "subnets": {
+    "ipv4": [
+      "103.86.104.0/24",
+      "103.86.106.0/23"
+    ],
+    "ipv6": []
+  }
+}

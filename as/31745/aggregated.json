@@ -1,0 +1,13 @@
+{
+  "asn": 31745,
+  "handle": "SPIRETECH",
+  "description": "Spire Technologies",
+  "subnets": {
+    "ipv4": [
+      "69.168.48.0/20"
+    ],
+    "ipv6": [
+      "2604:da00::/36"
+    ]
+  }
+}

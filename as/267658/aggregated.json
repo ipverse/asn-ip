@@ -1,0 +1,13 @@
+{
+  "asn": 267658,
+  "handle": "DALVENISA-ELISA-DE-SOUSA-ME",
+  "description": "Dalvenisa Elisa de Sousa ME",
+  "subnets": {
+    "ipv4": [
+      "45.71.136.0/22"
+    ],
+    "ipv6": [
+      "2804:44dc::/32"
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "asn": 55996,
+  "handle": "CYPRESSTEL",
+  "description": "CYPRESS TELECOM (CHINA) LIMITED",
+  "subnets": {
+    "ipv4": [
+      "43.229.48.0/23",
+      "43.229.50.0/24",
+      "103.20.32.0/22"
+    ],
+    "ipv6": [
+      "2401:cec0::/32"
+    ]
+  }
+}

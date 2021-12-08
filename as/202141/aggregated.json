@@ -1,0 +1,12 @@
+{
+  "asn": 202141,
+  "handle": "MEGANET",
+  "description": "Mega-Net Markwas Marek",
+  "subnets": {
+    "ipv4": [
+      "82.160.140.0/23",
+      "88.199.94.0/23"
+    ],
+    "ipv6": []
+  }
+}

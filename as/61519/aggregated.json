@@ -1,0 +1,13 @@
+{
+  "asn": 61519,
+  "handle": "COOP-DE-PROVISION",
+  "description": "COOP. DE PROVISION DE SERV ELECTRICOS Y OTROS SER PUBLICOS Y SERV SOCIALES Y DE CREDITO Y VIVI",
+  "subnets": {
+    "ipv4": [
+      "168.121.32.0/22"
+    ],
+    "ipv6": [
+      "2803:3540::/32"
+    ]
+  }
+}

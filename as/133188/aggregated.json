@@ -1,0 +1,12 @@
+{
+  "asn": 133188,
+  "handle": "MWH-AU-SYD-00",
+  "description": "Stantec New Zealand Limited",
+  "subnets": {
+    "ipv4": [
+      "159.21.128.0/22",
+      "159.21.140.0/22"
+    ],
+    "ipv6": []
+  }
+}

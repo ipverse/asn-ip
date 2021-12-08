@@ -1,0 +1,12 @@
+{
+  "asn": 210616,
+  "handle": "CR0BAR",
+  "description": "Cr0bar Limited",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a0e:3247:8001::/48",
+      "2a0e:b107:17a0::/44"
+    ]
+  }
+}

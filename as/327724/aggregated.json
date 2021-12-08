@@ -1,0 +1,13 @@
+{
+  "asn": 327724,
+  "handle": "NITA",
+  "description": "National Information Technology Authority Uganda",
+  "subnets": {
+    "ipv4": [
+      "154.72.192.0/19"
+    ],
+    "ipv6": [
+      "2c0f:f750::/32"
+    ]
+  }
+}

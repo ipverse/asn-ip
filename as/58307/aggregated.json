@@ -1,0 +1,13 @@
+{
+  "asn": 58307,
+  "handle": "RIX",
+  "description": "UNITEL-MEDIA Sp. z o.o.",
+  "subnets": {
+    "ipv4": [
+      "91.227.61.0/24"
+    ],
+    "ipv6": [
+      "2001:7f8:6b::/48"
+    ]
+  }
+}

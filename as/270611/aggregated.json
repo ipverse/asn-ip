@@ -1,0 +1,13 @@
+{
+  "asn": 270611,
+  "handle": "FIBERWI-TELECOMUNICACOES",
+  "description": "FIBERWI TELECOMUNICAÇOES",
+  "subnets": {
+    "ipv4": [
+      "187.17.128.0/22"
+    ],
+    "ipv6": [
+      "2804:6ea8::/33"
+    ]
+  }
+}

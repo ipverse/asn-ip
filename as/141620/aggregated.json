@@ -1,0 +1,11 @@
+{
+  "asn": 141620,
+  "handle": "IDNIC-LINKMEDIA-ID",
+  "description": "CV Linkmedia Nusantara",
+  "subnets": {
+    "ipv4": [
+      "103.161.196.0/24"
+    ],
+    "ipv6": []
+  }
+}

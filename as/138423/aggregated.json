@@ -1,0 +1,15 @@
+{
+  "asn": 138423,
+  "handle": "CMPAKLIMITED-ENTCORP",
+  "description": "CMPak Limited",
+  "subnets": {
+    "ipv4": [
+      "111.119.175.0/24",
+      "115.42.72.0/21",
+      "209.150.144.0/21"
+    ],
+    "ipv6": [
+      "2402:ad80:c0::/48"
+    ]
+  }
+}

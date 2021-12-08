@@ -1,0 +1,13 @@
+{
+  "asn": 270848,
+  "handle": "NANUQUE-TELECOM",
+  "description": "NANUQUE TELECOM",
+  "subnets": {
+    "ipv4": [
+      "179.43.24.0/22"
+    ],
+    "ipv6": [
+      "2804:7258::/32"
+    ]
+  }
+}

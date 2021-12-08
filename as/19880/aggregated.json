@@ -1,0 +1,12 @@
+{
+  "asn": 19880,
+  "handle": "REALCOMPII",
+  "description": "REALCOMP II LTD.",
+  "subnets": {
+    "ipv4": [
+      "207.111.176.0/22",
+      "207.111.180.0/23"
+    ],
+    "ipv6": []
+  }
+}

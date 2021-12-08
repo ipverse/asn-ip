@@ -1,0 +1,14 @@
+{
+  "asn": 2579,
+  "handle": "NOKIA-OF-AMERICA-CORPORATION",
+  "description": "Nokia of America Corporation",
+  "subnets": {
+    "ipv4": [
+      "128.203.0.0/16",
+      "135.244.144.0/22",
+      "135.245.108.0/22",
+      "192.75.23.0/24"
+    ],
+    "ipv6": []
+  }
+}

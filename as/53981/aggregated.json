@@ -1,0 +1,13 @@
+{
+  "asn": 53981,
+  "handle": "GOGIINET",
+  "description": "TEXTPLUS, INC.",
+  "subnets": {
+    "ipv4": [
+      "198.1.52.0/22"
+    ],
+    "ipv6": [
+      "2602:ff37::/36"
+    ]
+  }
+}

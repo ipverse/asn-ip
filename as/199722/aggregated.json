@@ -1,0 +1,11 @@
+{
+  "asn": 199722,
+  "handle": "SBERBANKCZ",
+  "description": "Sberbank CZ, a.s.",
+  "subnets": {
+    "ipv4": [
+      "185.45.124.0/22"
+    ],
+    "ipv6": []
+  }
+}

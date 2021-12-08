@@ -1,0 +1,11 @@
+{
+  "asn": 17585,
+  "handle": "PPS-KR-KR",
+  "description": "Public Procurement Service The Republic of Korea",
+  "subnets": {
+    "ipv4": [
+      "211.61.4.0/23"
+    ],
+    "ipv6": []
+  }
+}

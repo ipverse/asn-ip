@@ -1,0 +1,13 @@
+{
+  "asn": 42714,
+  "handle": "UA-KICHKAS",
+  "description": "Kichkas Network Ltd.",
+  "subnets": {
+    "ipv4": [
+      "31.170.128.0/19",
+      "193.200.38.0/23",
+      "195.211.184.0/22"
+    ],
+    "ipv6": []
+  }
+}

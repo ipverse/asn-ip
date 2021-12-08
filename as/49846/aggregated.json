@@ -1,0 +1,13 @@
+{
+  "asn": 49846,
+  "handle": "PROLEXIC-EU",
+  "description": "Akamai International B.V.",
+  "subnets": {
+    "ipv4": [
+      "93.191.175.0/24"
+    ],
+    "ipv6": [
+      "2a01:348:317::/48"
+    ]
+  }
+}

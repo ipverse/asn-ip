@@ -1,0 +1,12 @@
+{
+  "asn": 44021,
+  "handle": "INFEL",
+  "description": "INFEL-KTV DOO",
+  "subnets": {
+    "ipv4": [
+      "79.141.112.0/20",
+      "185.167.44.0/22"
+    ],
+    "ipv6": []
+  }
+}

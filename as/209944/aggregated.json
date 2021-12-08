@@ -1,0 +1,12 @@
+{
+  "asn": 209944,
+  "handle": "ICLOUD-GROUP",
+  "description": "INFOCLOUD GROUP SRL",
+  "subnets": {
+    "ipv4": [
+      "88.218.40.0/22",
+      "212.162.152.0/22"
+    ],
+    "ipv6": []
+  }
+}

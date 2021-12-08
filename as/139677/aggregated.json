@@ -1,0 +1,13 @@
+{
+  "asn": 139677,
+  "handle": "TIM-DETTMAR-AP",
+  "description": "HostUS Solutions LLC",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2402:9e80:58::/48",
+      "2402:e380:313::/48",
+      "2602:fed2:7110::/48"
+    ]
+  }
+}

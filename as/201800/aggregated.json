@@ -1,0 +1,13 @@
+{
+  "asn": 201800,
+  "handle": "DELOVIELINII",
+  "description": "LLP Delovie Linii",
+  "subnets": {
+    "ipv4": [
+      "45.159.104.0/23",
+      "188.68.188.0/24",
+      "188.68.191.0/24"
+    ],
+    "ipv6": []
+  }
+}

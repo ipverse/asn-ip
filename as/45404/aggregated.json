@@ -1,0 +1,14 @@
+{
+  "asn": 45404,
+  "handle": "SHINHANLIFE-KR-KR",
+  "description": "SHINHAN LIFE INSURANCE CO.,LTD.",
+  "subnets": {
+    "ipv4": [
+      "14.35.182.0/24",
+      "121.136.92.0/24",
+      "210.120.57.0/24",
+      "210.124.90.0/24"
+    ],
+    "ipv6": []
+  }
+}

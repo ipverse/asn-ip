@@ -1,0 +1,13 @@
+{
+  "asn": 327859,
+  "handle": "CAPITAL-TECHNOLOGIES",
+  "description": "Capital Technologies",
+  "subnets": {
+    "ipv4": [
+      "169.255.112.0/22"
+    ],
+    "ipv6": [
+      "2c0f:eff0::/32"
+    ]
+  }
+}

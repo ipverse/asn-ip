@@ -1,0 +1,13 @@
+{
+  "asn": 396313,
+  "handle": "MOCTEL",
+  "description": "MocTel",
+  "subnets": {
+    "ipv4": [
+      "23.171.128.0/24"
+    ],
+    "ipv6": [
+      "2602:fef2::/36"
+    ]
+  }
+}

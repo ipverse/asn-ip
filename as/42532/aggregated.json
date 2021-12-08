@@ -1,0 +1,15 @@
+{
+  "asn": 42532,
+  "handle": "VEESP",
+  "description": "FISHNET COMMUNICATIONS LLC",
+  "subnets": {
+    "ipv4": [
+      "77.73.71.0/24",
+      "185.145.245.0/24",
+      "212.6.44.0/24"
+    ],
+    "ipv6": [
+      "2a0c:16c0::/31"
+    ]
+  }
+}

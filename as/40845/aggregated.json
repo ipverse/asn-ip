@@ -1,0 +1,13 @@
+{
+  "asn": 40845,
+  "handle": "NTINET01",
+  "description": "NTINet Inc.",
+  "subnets": {
+    "ipv4": [
+      "72.1.48.0/20"
+    ],
+    "ipv6": [
+      "2606:cd00::/32"
+    ]
+  }
+}

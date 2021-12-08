@@ -1,0 +1,13 @@
+{
+  "asn": 12244,
+  "handle": "SUPREME-SECURITY",
+  "description": "Supreme Security Systems, Inc.",
+  "subnets": {
+    "ipv4": [
+      "107.0.178.0/24",
+      "199.117.167.0/24",
+      "205.166.80.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "asn": 209208,
+  "handle": "POBIEDA",
+  "description": "Marcin Pobieda trading as POBIEDA.PL",
+  "subnets": {
+    "ipv4": [
+      "2.56.68.0/22",
+      "171.22.88.0/22"
+    ],
+    "ipv6": [
+      "2a10:600::/32",
+      "2a10:a00::/32"
+    ]
+  }
+}

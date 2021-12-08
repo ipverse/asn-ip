@@ -1,0 +1,13 @@
+{
+  "asn": 268792,
+  "handle": "FLASH-NETCOM",
+  "description": "FLASH NET.COM",
+  "subnets": {
+    "ipv4": [
+      "45.173.20.0/22"
+    ],
+    "ipv6": [
+      "2804:5abc::/32"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asn": 54140,
+  "handle": "CISCO-OTT",
+  "description": "Cisco Systems, Inc.",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2001:420:ffff::/48"
+    ]
+  }
+}

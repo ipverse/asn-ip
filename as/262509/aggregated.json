@@ -1,0 +1,16 @@
+{
+  "asn": 262509,
+  "handle": "CONEXAO-TELECOM-E",
+  "description": "CONEXAO - TELECOM. E INTERNET LTDA",
+  "subnets": {
+    "ipv4": [
+      "131.196.76.0/22",
+      "168.121.52.0/22",
+      "168.232.120.0/22",
+      "177.67.0.0/21"
+    ],
+    "ipv6": [
+      "2804:558::/32"
+    ]
+  }
+}

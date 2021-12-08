@@ -1,0 +1,13 @@
+{
+  "asn": 201528,
+  "handle": "ORCHID-CELLMARK-CHORLEY",
+  "description": "Orchid Cellmark Ltd",
+  "subnets": {
+    "ipv4": [
+      "185.89.140.0/24"
+    ],
+    "ipv6": [
+      "2a03:83a0:1::/48"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 42236,
+  "handle": "ITRELATION",
+  "description": "IT RELATION AS",
+  "subnets": {
+    "ipv4": [
+      "77.72.48.0/21"
+    ],
+    "ipv6": [
+      "2a05:f700:fffe::/48"
+    ]
+  }
+}

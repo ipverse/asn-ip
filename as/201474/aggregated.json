@@ -1,0 +1,13 @@
+{
+  "asn": 201474,
+  "handle": "AIRCOMSERVICE",
+  "description": "Aircom Service srl",
+  "subnets": {
+    "ipv4": [
+      "178.157.2.0/23",
+      "185.96.128.0/22",
+      "213.159.26.0/23"
+    ],
+    "ipv6": []
+  }
+}

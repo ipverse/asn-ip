@@ -1,0 +1,13 @@
+{
+  "asn": 393294,
+  "handle": "MEGATEL-NETCOM",
+  "description": "Megatel Netcom Corporation",
+  "subnets": {
+    "ipv4": [
+      "45.199.160.0/23",
+      "45.199.164.0/22",
+      "107.150.191.0/24"
+    ],
+    "ipv6": []
+  }
+}

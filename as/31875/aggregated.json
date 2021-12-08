@@ -1,0 +1,12 @@
+{
+  "asn": 31875,
+  "handle": "JACKSON-CO-REMC",
+  "description": "Jackson County Rural Electric Membership Corporation",
+  "subnets": {
+    "ipv4": [
+      "169.136.192.0/19",
+      "174.137.16.0/20"
+    ],
+    "ipv6": []
+  }
+}

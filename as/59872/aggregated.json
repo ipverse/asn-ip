@@ -1,0 +1,11 @@
+{
+  "asn": 59872,
+  "handle": "IPAY",
+  "description": "Icard Services PLC",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a07:c883::/32"
+    ]
+  }
+}

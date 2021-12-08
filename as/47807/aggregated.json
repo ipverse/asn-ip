@@ -1,0 +1,11 @@
+{
+  "asn": 47807,
+  "handle": "PULKOVO",
+  "description": "JSC Pulkovo Airport",
+  "subnets": {
+    "ipv4": [
+      "94.125.8.0/21"
+    ],
+    "ipv6": []
+  }
+}

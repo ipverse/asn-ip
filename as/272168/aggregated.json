@@ -1,0 +1,11 @@
+{
+  "asn": 272168,
+  "handle": "SECOMUL-SERVICO-DE",
+  "description": "Secomul Serviço de Comunicação e Multimídia",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2804:82f8::/32"
+    ]
+  }
+}

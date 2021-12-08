@@ -1,0 +1,13 @@
+{
+  "asn": 52520,
+  "handle": "SOCIEDADE-EDUCACIONAL-SANTO",
+  "description": "Sociedade Educacional Santo Antônio",
+  "subnets": {
+    "ipv4": [
+      "177.129.148.0/22"
+    ],
+    "ipv6": [
+      "2801:80:660::/48"
+    ]
+  }
+}

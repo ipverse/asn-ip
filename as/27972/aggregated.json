@@ -1,0 +1,11 @@
+{
+  "asn": 27972,
+  "handle": "BALBOA-BANK-TRUST",
+  "description": "Balboa Bank Trust",
+  "subnets": {
+    "ipv4": [
+      "200.0.178.0/24"
+    ],
+    "ipv6": []
+  }
+}

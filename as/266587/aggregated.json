@@ -1,0 +1,14 @@
+{
+  "asn": 266587,
+  "handle": "REDE-SULMINEIRA-DE",
+  "description": "Rede Sulmineira de Provedores LTDA",
+  "subnets": {
+    "ipv4": [
+      "45.7.156.0/22"
+    ],
+    "ipv6": [
+      "2804:3e50::/34",
+      "2804:3e50:8000::/36"
+    ]
+  }
+}

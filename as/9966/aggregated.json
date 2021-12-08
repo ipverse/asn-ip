@@ -1,0 +1,12 @@
+{
+  "asn": 9966,
+  "handle": "TAEGUTEC-KR-KR",
+  "description": "TaeguTec",
+  "subnets": {
+    "ipv4": [
+      "58.227.178.0/24",
+      "211.33.202.0/24"
+    ],
+    "ipv6": []
+  }
+}

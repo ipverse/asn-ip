@@ -1,0 +1,13 @@
+{
+  "asn": 146963,
+  "handle": "STRIKE-AP",
+  "description": "STRIKE SYSTEMS PTY LIMITED",
+  "subnets": {
+    "ipv4": [
+      "103.172.100.0/23"
+    ],
+    "ipv6": [
+      "2001:df7:6c80::/48"
+    ]
+  }
+}

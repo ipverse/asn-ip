@@ -1,0 +1,16 @@
+{
+  "asn": 263517,
+  "handle": "ACESSO-TELECOMUNICACOES-LTDA",
+  "description": "Acesso Telecomunicacoes LTDA",
+  "subnets": {
+    "ipv4": [
+      "191.243.224.0/20"
+    ],
+    "ipv6": [
+      "2804:1320::/36",
+      "2804:1320:2000::/35",
+      "2804:1320:4000::/34",
+      "2804:1320:8000::/33"
+    ]
+  }
+}

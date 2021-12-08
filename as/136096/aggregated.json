@@ -1,0 +1,11 @@
+{
+  "asn": 136096,
+  "handle": "IDNIC-TTL-ID",
+  "description": "PT. Terminal Teluk Lamong",
+  "subnets": {
+    "ipv4": [
+      "103.89.155.0/24"
+    ],
+    "ipv6": []
+  }
+}

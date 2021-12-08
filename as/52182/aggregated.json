@@ -1,0 +1,12 @@
+{
+  "asn": 52182,
+  "handle": "TEHNET",
+  "description": "FOP Oleksandr Nagorniy",
+  "subnets": {
+    "ipv4": [
+      "91.222.248.0/22",
+      "195.177.94.0/24"
+    ],
+    "ipv6": []
+  }
+}

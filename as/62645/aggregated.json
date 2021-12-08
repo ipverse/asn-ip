@@ -1,0 +1,13 @@
+{
+  "asn": 62645,
+  "handle": "SNAPNAMES",
+  "description": "SNAPNAMES.COM, INC.",
+  "subnets": {
+    "ipv4": [
+      "209.237.170.0/23"
+    ],
+    "ipv6": [
+      "2620:3f:c009::/48"
+    ]
+  }
+}

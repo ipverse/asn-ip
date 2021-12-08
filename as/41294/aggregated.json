@@ -1,0 +1,11 @@
+{
+  "asn": 41294,
+  "handle": "ZUGERKB",
+  "description": "Zuger Kantonalbank",
+  "subnets": {
+    "ipv4": [
+      "194.176.104.0/24"
+    ],
+    "ipv6": []
+  }
+}

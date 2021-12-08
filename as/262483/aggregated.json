@@ -1,0 +1,13 @@
+{
+  "asn": 262483,
+  "handle": "PREFEITURA-MUNICIPAL-DE",
+  "description": "Prefeitura Municipal de Campo Grande",
+  "subnets": {
+    "ipv4": [
+      "177.53.204.0/22"
+    ],
+    "ipv6": [
+      "2801:80:220::/48"
+    ]
+  }
+}

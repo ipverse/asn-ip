@@ -1,0 +1,11 @@
+{
+  "asn": 45666,
+  "handle": "INGENICO-AP",
+  "description": "INGENICO BU",
+  "subnets": {
+    "ipv4": [
+      "202.89.100.0/22"
+    ],
+    "ipv6": []
+  }
+}

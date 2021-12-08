@@ -1,0 +1,11 @@
+{
+  "asn": 271918,
+  "handle": "CONCEJO-DE-MEDELLIN",
+  "description": "CONCEJO DE MEDELLÍN",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2801:1d:e800::/48"
+    ]
+  }
+}

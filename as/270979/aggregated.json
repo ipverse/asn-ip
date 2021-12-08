@@ -1,0 +1,13 @@
+{
+  "asn": 270979,
+  "handle": "GIPTELECOM-TELECOMUNICACAO-E",
+  "description": "GIPTELECOM TELECOMUNICACAO E TECNOLOGIA DA INFORMA",
+  "subnets": {
+    "ipv4": [
+      "170.150.144.0/22"
+    ],
+    "ipv6": [
+      "2804:7468::/32"
+    ]
+  }
+}

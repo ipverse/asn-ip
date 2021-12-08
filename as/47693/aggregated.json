@@ -1,0 +1,12 @@
+{
+  "asn": 47693,
+  "handle": "LEGENDCOM",
+  "description": "Legend Communications Limited",
+  "subnets": {
+    "ipv4": [
+      "185.43.31.0/24",
+      "185.99.21.0/24"
+    ],
+    "ipv6": []
+  }
+}

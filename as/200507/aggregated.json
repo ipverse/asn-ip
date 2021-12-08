@@ -1,0 +1,13 @@
+{
+  "asn": 200507,
+  "handle": "VUETEL",
+  "description": "Vuetel Italia Spa",
+  "subnets": {
+    "ipv4": [
+      "185.98.160.0/22"
+    ],
+    "ipv6": [
+      "2a01:9200::/32"
+    ]
+  }
+}

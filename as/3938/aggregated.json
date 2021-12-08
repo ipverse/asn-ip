@@ -1,0 +1,13 @@
+{
+  "asn": 3938,
+  "handle": "NTTA",
+  "description": "NTT America, Inc.",
+  "subnets": {
+    "ipv4": [
+      "204.141.124.0/22"
+    ],
+    "ipv6": [
+      "2001:418:1450::/48"
+    ]
+  }
+}

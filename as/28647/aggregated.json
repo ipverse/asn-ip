@@ -1,0 +1,13 @@
+{
+  "asn": 28647,
+  "handle": "GIGA-TV-LTDA-EPP",
+  "description": "GIGA TV LTDA - EPP",
+  "subnets": {
+    "ipv4": [
+      "189.113.192.0/20",
+      "189.113.208.0/21",
+      "201.76.224.0/19"
+    ],
+    "ipv6": []
+  }
+}

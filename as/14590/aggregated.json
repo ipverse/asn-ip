@@ -1,0 +1,14 @@
+{
+  "asn": 14590,
+  "handle": "DESERTSCHOOLS-ASN-1",
+  "description": "Desert Schools Federal Credit Union",
+  "subnets": {
+    "ipv4": [
+      "8.10.179.0/24",
+      "65.89.28.0/24",
+      "72.214.220.0/24",
+      "172.110.164.0/23"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asn": 61403,
+  "handle": "SEVER-TELECOM-CHER",
+  "description": "Sever Telecom JSC",
+  "subnets": {
+    "ipv4": [
+      "178.57.96.0/20"
+    ],
+    "ipv6": []
+  }
+}

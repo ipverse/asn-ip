@@ -1,0 +1,13 @@
+{
+  "asn": 268025,
+  "handle": "PERSZEL-TELECOM-LTDA-ME",
+  "description": "Perszel Telecom LTDA - ME",
+  "subnets": {
+    "ipv4": [
+      "45.167.4.0/22"
+    ],
+    "ipv6": [
+      "2804:56d0::/32"
+    ]
+  }
+}

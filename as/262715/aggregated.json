@@ -1,0 +1,16 @@
+{
+  "asn": 262715,
+  "handle": "CAEZAR-PROVEDOR-DE",
+  "description": "Caezar Provedor de Internet LTDA",
+  "subnets": {
+    "ipv4": [
+      "167.250.88.0/22",
+      "170.233.0.0/22",
+      "187.111.144.0/20",
+      "200.34.160.0/22"
+    ],
+    "ipv6": [
+      "2804:f7c::/32"
+    ]
+  }
+}

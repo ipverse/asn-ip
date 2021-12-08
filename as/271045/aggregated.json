@@ -1,0 +1,13 @@
+{
+  "asn": 271045,
+  "handle": "LOCALNET-SC",
+  "description": "LOCALNET SC",
+  "subnets": {
+    "ipv4": [
+      "201.54.184.0/22"
+    ],
+    "ipv6": [
+      "2804:756c::/32"
+    ]
+  }
+}

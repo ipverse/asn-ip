@@ -1,0 +1,11 @@
+{
+  "asn": 55846,
+  "handle": "BBN-AP",
+  "description": "BRACNet Limited",
+  "subnets": {
+    "ipv4": [
+      "115.127.40.0/22"
+    ],
+    "ipv6": []
+  }
+}

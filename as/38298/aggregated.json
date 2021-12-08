@@ -1,0 +1,13 @@
+{
+  "asn": 38298,
+  "handle": "REDFOX-AP",
+  "description": "Redfox Internet",
+  "subnets": {
+    "ipv4": [
+      "202.144.176.0/21"
+    ],
+    "ipv6": [
+      "2407:6c80::/32"
+    ]
+  }
+}

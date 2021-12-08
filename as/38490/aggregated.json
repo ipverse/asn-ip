@@ -1,0 +1,12 @@
+{
+  "asn": 38490,
+  "handle": "INDOSATM2-NAP-AP",
+  "description": "PT. Indosat Mega Media",
+  "subnets": {
+    "ipv4": [
+      "114.57.32.0/22",
+      "124.81.206.0/23"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asn": 27545,
+  "handle": "2-BYTE",
+  "description": "City National Bank",
+  "subnets": {
+    "ipv4": [
+      "64.74.165.0/24"
+    ],
+    "ipv6": []
+  }
+}

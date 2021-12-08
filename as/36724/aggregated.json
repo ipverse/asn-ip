@@ -1,0 +1,12 @@
+{
+  "asn": 36724,
+  "handle": "HCAS-3",
+  "description": "Hanson Communications, Inc.",
+  "subnets": {
+    "ipv4": [
+      "167.100.4.0/22",
+      "199.223.220.0/22"
+    ],
+    "ipv6": []
+  }
+}

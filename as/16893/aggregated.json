@@ -1,0 +1,12 @@
+{
+  "asn": 16893,
+  "handle": "TZOO",
+  "description": "Travelzoo Inc.",
+  "subnets": {
+    "ipv4": [
+      "74.217.108.0/23",
+      "204.152.92.0/22"
+    ],
+    "ipv6": []
+  }
+}

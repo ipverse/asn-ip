@@ -1,0 +1,13 @@
+{
+  "asn": 41399,
+  "handle": "HOSTCAMP",
+  "description": "PE Burkhard Neumann",
+  "subnets": {
+    "ipv4": [
+      "195.35.103.0/24"
+    ],
+    "ipv6": [
+      "2001:67c:7e0::/48"
+    ]
+  }
+}

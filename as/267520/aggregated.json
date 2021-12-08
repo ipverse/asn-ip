@@ -1,0 +1,13 @@
+{
+  "asn": 267520,
+  "handle": "STREETNET-TELECOM",
+  "description": "Streetnet Telecom",
+  "subnets": {
+    "ipv4": [
+      "201.182.44.0/22"
+    ],
+    "ipv6": [
+      "2804:42b4::/32"
+    ]
+  }
+}

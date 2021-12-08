@@ -1,0 +1,11 @@
+{
+  "asn": 46000,
+  "handle": "KBINSURE-KR-KR",
+  "description": "KB Insurance",
+  "subnets": {
+    "ipv4": [
+      "112.161.191.0/24"
+    ],
+    "ipv6": []
+  }
+}

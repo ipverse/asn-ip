@@ -1,0 +1,11 @@
+{
+  "asn": 270058,
+  "handle": "CABLE-CENTRO-SOCIEDAD-ANONIMA",
+  "description": "CABLE CENTRO SOCIEDAD ANONIMA",
+  "subnets": {
+    "ipv4": [
+      "190.115.200.0/22"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "asn": 5774,
+  "handle": "USPS-001",
+  "description": "United States Postal Service.",
+  "subnets": {
+    "ipv4": [
+      "56.0.0.0/16",
+      "56.105.0.0/16",
+      "56.235.0.0/16"
+    ],
+    "ipv6": [
+      "2610:68::/32"
+    ]
+  }
+}

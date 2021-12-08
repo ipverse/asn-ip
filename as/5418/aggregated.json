@@ -1,0 +1,13 @@
+{
+  "asn": 5418,
+  "handle": "NERDNET",
+  "description": "nerdnet",
+  "subnets": {
+    "ipv4": [
+      "217.170.15.0/24"
+    ],
+    "ipv6": [
+      "2a02:10:100::/48"
+    ]
+  }
+}

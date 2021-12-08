@@ -1,0 +1,13 @@
+{
+  "asn": 264790,
+  "handle": "COOPERATIVA-DE-PROVISION",
+  "description": "COOPERATIVA DE PROVISION DE SERVICIO ELECTRICO Y OTROS SERV DE PIGUE",
+  "subnets": {
+    "ipv4": [
+      "170.79.16.0/22"
+    ],
+    "ipv6": [
+      "2803:b8c0::/32"
+    ]
+  }
+}

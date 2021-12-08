@@ -1,0 +1,13 @@
+{
+  "asn": 57075,
+  "handle": "NETGAZER",
+  "description": "Slashme BV",
+  "subnets": {
+    "ipv4": [
+      "185.104.130.0/23"
+    ],
+    "ipv6": [
+      "2a06:3084::/30"
+    ]
+  }
+}

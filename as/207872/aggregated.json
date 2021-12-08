@@ -1,0 +1,12 @@
+{
+  "asn": 207872,
+  "handle": "CTE1",
+  "description": "CSC Telecom Estonia",
+  "subnets": {
+    "ipv4": [
+      "178.236.203.0/24",
+      "185.213.44.0/24"
+    ],
+    "ipv6": []
+  }
+}

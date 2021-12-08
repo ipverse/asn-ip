@@ -1,0 +1,11 @@
+{
+  "asn": 132667,
+  "handle": "IDNIC-UNJA-ID",
+  "description": "Universitas Jambi",
+  "subnets": {
+    "ipv4": [
+      "103.26.102.0/24"
+    ],
+    "ipv6": []
+  }
+}

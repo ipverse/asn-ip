@@ -1,0 +1,13 @@
+{
+  "asn": 265613,
+  "handle": "TRACERED-SA-DE-CV",
+  "description": "TRACERED SA DE CV",
+  "subnets": {
+    "ipv4": [
+      "45.189.252.0/22"
+    ],
+    "ipv6": [
+      "2806:36a::/32"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 393418,
+  "handle": "LOGIX-HEALTH",
+  "description": "LOGIXHEALTH, INC",
+  "subnets": {
+    "ipv4": [
+      "50.205.140.0/24",
+      "66.97.189.0/24"
+    ],
+    "ipv6": []
+  }
+}

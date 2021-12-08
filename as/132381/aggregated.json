@@ -1,0 +1,13 @@
+{
+  "asn": 132381,
+  "handle": "FUTURENETSOLUTION-AP",
+  "description": "Future Net Solution",
+  "subnets": {
+    "ipv4": [
+      "103.103.98.0/24"
+    ],
+    "ipv6": [
+      "2001:df3:500::/48"
+    ]
+  }
+}

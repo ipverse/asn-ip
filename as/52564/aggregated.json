@@ -1,0 +1,15 @@
+{
+  "asn": 52564,
+  "handle": "BIAZI-TELECOMUNICACOES-LTDA",
+  "description": "Biazi Telecomunicações Ltda Epp",
+  "subnets": {
+    "ipv4": [
+      "131.161.36.0/22",
+      "138.219.144.0/22",
+      "177.85.156.0/22"
+    ],
+    "ipv6": [
+      "2804:1eb8::/32"
+    ]
+  }
+}

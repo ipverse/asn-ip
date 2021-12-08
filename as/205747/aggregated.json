@@ -1,0 +1,13 @@
+{
+  "asn": 205747,
+  "handle": "VNV",
+  "description": "VNV SA",
+  "subnets": {
+    "ipv4": [
+      "185.188.196.0/22"
+    ],
+    "ipv6": [
+      "2a0b:d080::/32"
+    ]
+  }
+}

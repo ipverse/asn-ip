@@ -1,0 +1,13 @@
+{
+  "asn": 54542,
+  "handle": "K-DATA01",
+  "description": "K-Data Systems, LLC",
+  "subnets": {
+    "ipv4": [
+      "107.1.17.0/24",
+      "107.1.18.0/24",
+      "148.59.210.0/23"
+    ],
+    "ipv6": []
+  }
+}

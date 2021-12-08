@@ -1,0 +1,13 @@
+{
+  "asn": 399890,
+  "handle": "OFL-61",
+  "description": "Optelli Fiber LLC",
+  "subnets": {
+    "ipv4": [
+      "23.247.172.0/22"
+    ],
+    "ipv6": [
+      "2602:fc4a::/36"
+    ]
+  }
+}

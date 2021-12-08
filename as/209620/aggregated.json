@@ -1,0 +1,16 @@
+{
+  "asn": 209620,
+  "handle": "MCGMBH",
+  "description": "Dr. Michaelis Consult GmbH",
+  "subnets": {
+    "ipv4": [
+      "78.31.196.0/22",
+      "193.58.91.0/24",
+      "194.55.240.0/22"
+    ],
+    "ipv6": [
+      "2a06:6880::/29",
+      "2a0c:cbc0::/29"
+    ]
+  }
+}

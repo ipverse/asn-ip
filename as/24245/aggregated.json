@@ -1,0 +1,14 @@
+{
+  "asn": 24245,
+  "handle": "PNAPSYD001-AP",
+  "description": "Internap Network Services (Australia) Co. Ltd.",
+  "subnets": {
+    "ipv4": [
+      "111.221.56.0/22",
+      "202.58.136.0/21"
+    ],
+    "ipv6": [
+      "2406:3800::/32"
+    ]
+  }
+}

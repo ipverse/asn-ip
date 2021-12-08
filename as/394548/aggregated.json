@@ -1,0 +1,12 @@
+{
+  "asn": 394548,
+  "handle": "NETBLAZR-BOS",
+  "description": "netBlazr",
+  "subnets": {
+    "ipv4": [
+      "64.112.176.0/21",
+      "168.245.148.0/24"
+    ],
+    "ipv6": []
+  }
+}

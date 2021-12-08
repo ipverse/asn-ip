@@ -1,0 +1,13 @@
+{
+  "asn": 202032,
+  "handle": "GOLINE",
+  "description": "GOLINE SA",
+  "subnets": {
+    "ipv4": [
+      "185.54.80.0/22"
+    ],
+    "ipv6": [
+      "2a02:4460::/32"
+    ]
+  }
+}

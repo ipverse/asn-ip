@@ -1,0 +1,15 @@
+{
+  "asn": 28535,
+  "handle": "MEXICO-RED-DE",
+  "description": "Mexico Red de Telecomunicaciones, S. de R.L. de C.V.",
+  "subnets": {
+    "ipv4": [
+      "177.233.135.0/24",
+      "187.187.53.0/24",
+      "187.187.196.0/22"
+    ],
+    "ipv6": [
+      "2001:1260:4::/48"
+    ]
+  }
+}

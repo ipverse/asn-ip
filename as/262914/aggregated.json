@@ -1,0 +1,11 @@
+{
+  "asn": 262914,
+  "handle": "COMISION-FEDERAL-DE",
+  "description": "Comision Federal de Electricidad",
+  "subnets": {
+    "ipv4": [
+      "159.16.0.0/16"
+    ],
+    "ipv6": []
+  }
+}

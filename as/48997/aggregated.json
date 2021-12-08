@@ -1,0 +1,13 @@
+{
+  "asn": 48997,
+  "handle": "ZORGRING",
+  "description": "Stichting Zorgring Noord Holland Noord",
+  "subnets": {
+    "ipv4": [
+      "194.13.144.0/20",
+      "194.53.3.0/24",
+      "195.88.136.0/23"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 264047,
+  "handle": "FOX-NET-TELECOMUNICACOES-LTDA",
+  "description": "FOX NET TELECOMUNICAÇÕES LTDA",
+  "subnets": {
+    "ipv4": [
+      "143.137.220.0/23",
+      "143.137.222.0/24"
+    ],
+    "ipv6": [
+      "2804:29f4::/32"
+    ]
+  }
+}

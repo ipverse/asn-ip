@@ -1,0 +1,13 @@
+{
+  "asn": 270584,
+  "handle": "BHNET-TELECOMUNICACOES",
+  "description": "Bhnet Telecomunicacoes",
+  "subnets": {
+    "ipv4": [
+      "187.94.4.0/22"
+    ],
+    "ipv6": [
+      "2804:6e40::/32"
+    ]
+  }
+}

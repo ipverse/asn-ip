@@ -1,0 +1,14 @@
+{
+  "asn": 198525,
+  "handle": "CLIMAX",
+  "description": "RAFAL KRAJ trading as Firma Uslugowo-Handlowa CLIMAX",
+  "subnets": {
+    "ipv4": [
+      "91.236.4.0/22",
+      "185.235.206.0/24"
+    ],
+    "ipv6": [
+      "2a10:8640::/31"
+    ]
+  }
+}

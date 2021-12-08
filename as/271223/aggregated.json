@@ -1,0 +1,13 @@
+{
+  "asn": 271223,
+  "handle": "ALLWORD-TELECOM",
+  "description": "Allword Telecom",
+  "subnets": {
+    "ipv4": [
+      "190.109.100.0/22"
+    ],
+    "ipv6": [
+      "2804:7824::/32"
+    ]
+  }
+}

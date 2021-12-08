@@ -1,0 +1,12 @@
+{
+  "asn": 45635,
+  "handle": "FKS-IN",
+  "description": "Future Knowledge Services",
+  "subnets": {
+    "ipv4": [
+      "202.59.248.0/24",
+      "203.215.51.0/24"
+    ],
+    "ipv6": []
+  }
+}

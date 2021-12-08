@@ -1,0 +1,14 @@
+{
+  "asn": 262635,
+  "handle": "MKVEX-LTDA-ME",
+  "description": "MKVEX LTDA ME",
+  "subnets": {
+    "ipv4": [
+      "170.79.48.0/22",
+      "177.86.192.0/21"
+    ],
+    "ipv6": [
+      "2804:758::/32"
+    ]
+  }
+}

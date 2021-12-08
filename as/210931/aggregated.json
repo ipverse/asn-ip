@@ -1,0 +1,12 @@
+{
+  "asn": 210931,
+  "handle": "IBAN",
+  "description": "Borodin Alexey Nikolaevich",
+  "subnets": {
+    "ipv4": [
+      "45.142.211.0/24",
+      "87.251.76.0/23"
+    ],
+    "ipv6": []
+  }
+}

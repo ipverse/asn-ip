@@ -1,0 +1,13 @@
+{
+  "asn": 264544,
+  "handle": "SUPER-NOVA-TELECOM-LTDA",
+  "description": "SUPER NOVA TELECOM LTDA",
+  "subnets": {
+    "ipv4": [
+      "138.0.112.0/22"
+    ],
+    "ipv6": [
+      "2804:213c::/32"
+    ]
+  }
+}

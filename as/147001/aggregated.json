@@ -1,0 +1,13 @@
+{
+  "asn": 147001,
+  "handle": "LANDUPS-AP",
+  "description": "LightNetwork Computing Limited",
+  "subnets": {
+    "ipv4": [
+      "103.135.100.0/24",
+      "103.135.102.0/23",
+      "103.150.173.0/24"
+    ],
+    "ipv6": []
+  }
+}

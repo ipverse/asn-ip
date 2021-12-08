@@ -1,0 +1,13 @@
+{
+  "asn": 38648,
+  "handle": "F-REGI",
+  "description": "F-REGI Co.,Ltd.",
+  "subnets": {
+    "ipv4": [
+      "203.76.164.0/22"
+    ],
+    "ipv6": [
+      "2402:3b00::/32"
+    ]
+  }
+}

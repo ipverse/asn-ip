@@ -1,0 +1,14 @@
+{
+  "asn": 17913,
+  "handle": "GIPLNET-AP",
+  "description": "Guj Info Petro Limited",
+  "subnets": {
+    "ipv4": [
+      "203.77.192.0/24",
+      "203.77.197.0/24",
+      "203.77.198.0/24",
+      "203.77.200.0/23"
+    ],
+    "ipv6": []
+  }
+}

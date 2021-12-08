@@ -1,0 +1,13 @@
+{
+  "asn": 61605,
+  "handle": "SELIGA-TELECOMUNICACOES-DO",
+  "description": "SELIGA TELECOMUNICAÇÕES DO BRASIL EIRELI",
+  "subnets": {
+    "ipv4": [
+      "201.182.14.0/23"
+    ],
+    "ipv6": [
+      "2804:7da4::/32"
+    ]
+  }
+}

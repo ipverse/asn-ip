@@ -1,0 +1,13 @@
+{
+  "asn": 266687,
+  "handle": "SIETE CAPAS SRL",
+  "description": "SIETE CAPAS S.R.L.",
+  "subnets": {
+    "ipv4": [
+      "45.229.44.0/22"
+    ],
+    "ipv6": [
+      "2803:e520::/32"
+    ]
+  }
+}

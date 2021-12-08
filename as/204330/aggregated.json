@@ -1,0 +1,12 @@
+{
+  "asn": 204330,
+  "handle": "MBH-UK",
+  "description": "Master Branch Holding B.V.",
+  "subnets": {
+    "ipv4": [
+      "109.95.124.0/22",
+      "193.57.228.0/22"
+    ],
+    "ipv6": []
+  }
+}

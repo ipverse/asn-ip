@@ -1,0 +1,13 @@
+{
+  "asn": 267415,
+  "handle": "BRASILIANET-PROVEDOR-DE",
+  "description": "BRASILIANET PROVEDOR DE INTERNET LTDA",
+  "subnets": {
+    "ipv4": [
+      "45.234.28.0/22"
+    ],
+    "ipv6": [
+      "2804:4d28::/32"
+    ]
+  }
+}

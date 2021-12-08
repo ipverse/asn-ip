@@ -1,0 +1,12 @@
+{
+  "asn": 38302,
+  "handle": "UNISYS-SYDMTF-AP",
+  "description": "UNISYS AUSTRALIA PTY LIMITED",
+  "subnets": {
+    "ipv4": [
+      "192.207.96.0/23",
+      "203.30.136.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asn": 208234,
+  "handle": "WIMAX-ISP-LB",
+  "description": "Wimax Company SARL",
+  "subnets": {
+    "ipv4": [
+      "45.145.60.0/22"
+    ],
+    "ipv6": []
+  }
+}

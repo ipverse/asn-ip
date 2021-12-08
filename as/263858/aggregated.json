@@ -1,0 +1,13 @@
+{
+  "asn": 263858,
+  "handle": "RS-NET-EIRELI-ME",
+  "description": "RS NET EIRELI ME",
+  "subnets": {
+    "ipv4": [
+      "138.186.48.0/22"
+    ],
+    "ipv6": [
+      "2804:26cc::/32"
+    ]
+  }
+}

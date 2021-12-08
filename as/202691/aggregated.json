@@ -1,0 +1,12 @@
+{
+  "asn": 202691,
+  "handle": "ALTGRSA-Z",
+  "description": "Alt Gr SA",
+  "subnets": {
+    "ipv4": [
+      "185.88.76.0/22",
+      "185.157.72.0/22"
+    ],
+    "ipv6": []
+  }
+}

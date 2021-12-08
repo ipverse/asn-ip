@@ -1,0 +1,13 @@
+{
+  "asn": 269041,
+  "handle": "CARIRANET-PROVEDOR",
+  "description": "CariraNET Provedor",
+  "subnets": {
+    "ipv4": [
+      "45.178.168.0/22"
+    ],
+    "ipv6": [
+      "2804:5e90::/32"
+    ]
+  }
+}

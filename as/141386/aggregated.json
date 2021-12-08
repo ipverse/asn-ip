@@ -1,0 +1,11 @@
+{
+  "asn": 141386,
+  "handle": "KAKHACOMPUTER-AP",
+  "description": "Ka Kha Computer",
+  "subnets": {
+    "ipv4": [
+      "103.158.10.0/23"
+    ],
+    "ipv6": []
+  }
+}

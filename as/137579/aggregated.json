@@ -1,0 +1,11 @@
+{
+  "asn": 137579,
+  "handle": "BOLSYSTEM-AP",
+  "description": "BOL System",
+  "subnets": {
+    "ipv4": [
+      "103.114.20.0/22"
+    ],
+    "ipv6": []
+  }
+}

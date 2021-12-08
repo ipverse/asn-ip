@@ -1,0 +1,13 @@
+{
+  "asn": 263316,
+  "handle": "TELETURBO-TELECOM",
+  "description": "Teleturbo Telecom",
+  "subnets": {
+    "ipv4": [
+      "191.7.112.0/22"
+    ],
+    "ipv6": [
+      "2804:1430::/32"
+    ]
+  }
+}

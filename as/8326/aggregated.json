@@ -1,0 +1,17 @@
+{
+  "asn": 8326,
+  "handle": "PL-BYDMAN-EDU",
+  "description": "University of Technology and Life Sciences Bydgoszcz",
+  "subnets": {
+    "ipv4": [
+      "46.239.128.0/20",
+      "82.146.224.0/19",
+      "89.191.128.0/20",
+      "212.122.192.0/20",
+      "212.122.208.0/21"
+    ],
+    "ipv6": [
+      "2001:908::/30"
+    ]
+  }
+}

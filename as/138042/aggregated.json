@@ -1,0 +1,11 @@
+{
+  "asn": 138042,
+  "handle": "RUNWAYBROADBAND-AP",
+  "description": "Runway Broadband",
+  "subnets": {
+    "ipv4": [
+      "103.120.144.0/22"
+    ],
+    "ipv6": []
+  }
+}

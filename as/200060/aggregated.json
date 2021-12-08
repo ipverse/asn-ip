@@ -1,0 +1,13 @@
+{
+  "asn": 200060,
+  "handle": "SMA",
+  "description": "Sjofartsverket",
+  "subnets": {
+    "ipv4": [
+      "161.54.0.0/16"
+    ],
+    "ipv6": [
+      "2001:67c:2780::/48"
+    ]
+  }
+}

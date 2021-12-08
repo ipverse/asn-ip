@@ -1,0 +1,13 @@
+{
+  "asn": 264307,
+  "handle": "NETCOM-PROVEDOR-DE",
+  "description": "Netcom Provedor de Internet e Comércio Ltda",
+  "subnets": {
+    "ipv4": [
+      "138.122.0.0/22"
+    ],
+    "ipv6": [
+      "2804:25d8::/32"
+    ]
+  }
+}

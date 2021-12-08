@@ -1,0 +1,11 @@
+{
+  "asn": 32460,
+  "handle": "COPS-MONITORING",
+  "description": "C.O.P.S. Monitoring",
+  "subnets": {
+    "ipv4": [
+      "65.115.229.0/24"
+    ],
+    "ipv6": []
+  }
+}

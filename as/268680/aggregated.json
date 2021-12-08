@@ -1,0 +1,12 @@
+{
+  "asn": 268680,
+  "handle": "LITORAL-NET-TELECOM",
+  "description": "litoral net telecom",
+  "subnets": {
+    "ipv4": [
+      "45.164.48.0/23",
+      "45.164.50.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asn": 21343,
+  "handle": "ALLIED",
+  "description": "Allied Standart Limited LLC",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a02:2278:ffff::/48"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asn": 53658,
+  "handle": "SOCKETLABS",
+  "description": "SocketLabs",
+  "subnets": {
+    "ipv4": [
+      "142.0.180.0/22"
+    ],
+    "ipv6": []
+  }
+}

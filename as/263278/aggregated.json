@@ -1,0 +1,13 @@
+{
+  "asn": 263278,
+  "handle": "CEA-TELECOM-SERVICOS",
+  "description": "CEA Telecom - Serviços de Telecomunicações Ltda.",
+  "subnets": {
+    "ipv4": [
+      "186.227.124.0/22"
+    ],
+    "ipv6": [
+      "2804:1648::/32"
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 263503,
+  "handle": "IV-INFORMATICA-LTDA-ME",
+  "description": "IV INFORMATICA LTDA -ME",
+  "subnets": {
+    "ipv4": [
+      "177.73.188.0/22"
+    ],
+    "ipv6": [
+      "2804:12e4::/32",
+      "2804:3e34::/32"
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 262680,
+  "handle": "OPERA-SERVICOS-DE-TELECOM",
+  "description": "OPERA SERVICOS DE TELECOM",
+  "subnets": {
+    "ipv4": [
+      "170.246.208.0/22",
+      "177.126.224.0/20",
+      "187.85.80.0/20",
+      "190.108.96.0/19"
+    ],
+    "ipv6": [
+      "2804:840::/32"
+    ]
+  }
+}

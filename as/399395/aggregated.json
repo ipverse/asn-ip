@@ -1,0 +1,11 @@
+{
+  "asn": 399395,
+  "handle": "SURFBROADBAND-MI-BYCTR",
+  "description": "Surf Air Wireless, LLC",
+  "subnets": {
+    "ipv4": [
+      "168.235.208.0/23"
+    ],
+    "ipv6": []
+  }
+}

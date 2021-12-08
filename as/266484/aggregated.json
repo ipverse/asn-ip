@@ -1,0 +1,13 @@
+{
+  "asn": 266484,
+  "handle": "MT-INTERNET-COMERCIO",
+  "description": "MT INTERNET COMERCIO \u0026 SERVICO LTDA",
+  "subnets": {
+    "ipv4": [
+      "170.83.168.0/22"
+    ],
+    "ipv6": [
+      "2804:3888::/32"
+    ]
+  }
+}

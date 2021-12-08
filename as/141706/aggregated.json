@@ -1,0 +1,14 @@
+{
+  "asn": 141706,
+  "handle": "KOISHI-NETWORK-AP",
+  "description": "HostUS Solutions LLC",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2402:3180::/47",
+      "2402:3180:3::/48",
+      "2402:e380:31b::/48",
+      "2602:feda:3ab::/48"
+    ]
+  }
+}

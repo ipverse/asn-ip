@@ -1,0 +1,15 @@
+{
+  "asn": 61696,
+  "handle": "HV-COM-DE",
+  "description": "HV COM. DE PROD. E SERV.DE INFORMATICA LTDA",
+  "subnets": {
+    "ipv4": [
+      "138.36.232.0/22",
+      "187.120.228.0/23",
+      "201.140.248.0/22"
+    ],
+    "ipv6": [
+      "2804:1ae0::/32"
+    ]
+  }
+}

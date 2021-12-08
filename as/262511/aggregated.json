@@ -1,0 +1,13 @@
+{
+  "asn": 262511,
+  "handle": "UNIVERSIDADE-FEDERAL-DO-PARA",
+  "description": "Universidade Federal do Pará",
+  "subnets": {
+    "ipv4": [
+      "200.239.64.0/18"
+    ],
+    "ipv6": [
+      "2801:80:240::/48"
+    ]
+  }
+}

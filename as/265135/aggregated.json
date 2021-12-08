@@ -1,0 +1,13 @@
+{
+  "asn": 265135,
+  "handle": "TC-NET",
+  "description": "TC NET",
+  "subnets": {
+    "ipv4": [
+      "143.255.20.0/22"
+    ],
+    "ipv6": [
+      "2804:2b1c::/32"
+    ]
+  }
+}

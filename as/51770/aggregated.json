@@ -1,0 +1,11 @@
+{
+  "asn": 51770,
+  "handle": "BCR-MD",
+  "description": "Banca Comerciala Romana Chisinau S.A.",
+  "subnets": {
+    "ipv4": [
+      "91.220.94.0/24"
+    ],
+    "ipv6": []
+  }
+}

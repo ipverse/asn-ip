@@ -1,0 +1,13 @@
+{
+  "asn": 265178,
+  "handle": "LG-BENATO-INFORMATICA-ME",
+  "description": "L.G. BENATO INFORMATICA - ME",
+  "subnets": {
+    "ipv4": [
+      "167.249.128.0/22"
+    ],
+    "ipv6": [
+      "2804:2bd4::/32"
+    ]
+  }
+}

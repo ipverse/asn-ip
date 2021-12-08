@@ -1,0 +1,14 @@
+{
+  "asn": 60707,
+  "handle": "KAPTEYANAS",
+  "description": "Kapteyan Bilisim Teknolojileri San. ve Tic. A.S.",
+  "subnets": {
+    "ipv4": [
+      "91.151.83.0/24",
+      "213.238.172.0/24"
+    ],
+    "ipv6": [
+      "2a0f:6580:106::/48"
+    ]
+  }
+}

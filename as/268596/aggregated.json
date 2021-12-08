@@ -1,0 +1,14 @@
+{
+  "asn": 268596,
+  "handle": "ITANETBAHIA-COMUNICACAO-MULTIMIDIA",
+  "description": "ITANETBAHIA COMUNICAÇÃO MULTIMIDIA EIRELE",
+  "subnets": {
+    "ipv4": [
+      "45.164.40.0/22"
+    ],
+    "ipv6": [
+      "2804:53a0::/35",
+      "2804:53a0:4000::/36"
+    ]
+  }
+}

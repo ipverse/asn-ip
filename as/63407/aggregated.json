@@ -1,0 +1,12 @@
+{
+  "asn": 63407,
+  "handle": "TERRA-MULTI-HOMED",
+  "description": "Terracon Consultants, Inc.",
+  "subnets": {
+    "ipv4": [
+      "192.88.155.0/24",
+      "208.87.162.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 138379,
+  "handle": "SCNBROADBAND-AP",
+  "description": "Satellite Cable Network, Inc.",
+  "subnets": {
+    "ipv4": [
+      "103.131.221.0/24",
+      "103.145.159.0/24"
+    ],
+    "ipv6": []
+  }
+}

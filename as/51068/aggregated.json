@@ -1,0 +1,14 @@
+{
+  "asn": 51068,
+  "handle": "AGANET",
+  "description": "AgaNet Agata Goleniewska",
+  "subnets": {
+    "ipv4": [
+      "194.28.188.0/22",
+      "194.28.200.0/22",
+      "194.28.220.0/22",
+      "194.165.8.0/23"
+    ],
+    "ipv6": []
+  }
+}

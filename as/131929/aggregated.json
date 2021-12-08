@@ -1,0 +1,14 @@
+{
+  "asn": 131929,
+  "handle": "FRUITSNET",
+  "description": "Yamanashi CATV Co,. ltd",
+  "subnets": {
+    "ipv4": [
+      "103.108.232.0/22",
+      "219.100.248.0/22"
+    ],
+    "ipv6": [
+      "2402:73c0::/32"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 200908,
+  "handle": "INTERMANAGED",
+  "description": "Invermae Solutions SL",
+  "subnets": {
+    "ipv4": [
+      "45.144.228.0/22",
+      "45.150.192.0/22"
+    ],
+    "ipv6": []
+  }
+}

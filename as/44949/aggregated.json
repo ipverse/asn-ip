@@ -1,0 +1,14 @@
+{
+  "asn": 44949,
+  "handle": "GIGACODES",
+  "description": "Gigacodes GmbH",
+  "subnets": {
+    "ipv4": [
+      "194.116.150.0/23",
+      "195.160.202.0/23"
+    ],
+    "ipv6": [
+      "2a07:ec80:210::/47"
+    ]
+  }
+}

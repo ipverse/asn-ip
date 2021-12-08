@@ -1,0 +1,13 @@
+{
+  "asn": 201625,
+  "handle": "AITEX",
+  "description": "United Networks SE",
+  "subnets": {
+    "ipv4": [
+      "185.68.164.0/22"
+    ],
+    "ipv6": [
+      "2a05:1220::/29"
+    ]
+  }
+}

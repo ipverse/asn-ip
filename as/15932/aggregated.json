@@ -1,0 +1,14 @@
+{
+  "asn": 15932,
+  "handle": "TGS-INT-NETWORK",
+  "description": "Telenor Global Services AS",
+  "subnets": {
+    "ipv4": [
+      "185.142.240.0/22",
+      "213.230.176.0/21",
+      "213.230.184.0/23",
+      "213.230.188.0/23"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 131632,
+  "handle": "LETSWIN-ASN-1",
+  "description": "LETSWIN TELECOM CO., LTD.",
+  "subnets": {
+    "ipv4": [
+      "103.21.196.0/24",
+      "103.123.0.0/22"
+    ],
+    "ipv6": []
+  }
+}

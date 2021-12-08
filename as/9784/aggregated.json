@@ -1,0 +1,13 @@
+{
+  "asn": 9784,
+  "handle": "KOOKMINCARD1-KR-KR",
+  "description": "kbcard",
+  "subnets": {
+    "ipv4": [
+      "61.78.157.0/24",
+      "210.182.170.0/24",
+      "210.221.57.0/24"
+    ],
+    "ipv6": []
+  }
+}

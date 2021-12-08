@@ -1,0 +1,14 @@
+{
+  "asn": 263913,
+  "handle": "CIDADE-ONLINE-EIRELE",
+  "description": "CIDADE ONLINE EIRELE",
+  "subnets": {
+    "ipv4": [
+      "138.204.240.0/22",
+      "170.231.216.0/22"
+    ],
+    "ipv6": [
+      "2804:279c::/32"
+    ]
+  }
+}

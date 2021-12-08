@@ -1,0 +1,11 @@
+{
+  "asn": 210289,
+  "handle": "AKNET-CORE",
+  "description": "AKNET internet ve bilisim sistemleri limited sirketi",
+  "subnets": {
+    "ipv4": [
+      "195.178.104.0/23"
+    ],
+    "ipv6": []
+  }
+}

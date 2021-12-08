@@ -1,0 +1,12 @@
+{
+  "asn": 64213,
+  "handle": "ERCELITE",
+  "description": "ERC Broadband",
+  "subnets": {
+    "ipv4": [
+      "206.53.142.0/24",
+      "206.83.137.0/24"
+    ],
+    "ipv6": []
+  }
+}

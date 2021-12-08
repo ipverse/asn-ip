@@ -1,0 +1,11 @@
+{
+  "asn": 141111,
+  "handle": "IDNIC-DISKOMINFOSALATIGA-ID",
+  "description": "Dinas Komunikasi dan Informatika Kota Salatiga",
+  "subnets": {
+    "ipv4": [
+      "103.160.9.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asn": 208608,
+  "handle": "HAEMOGLOBIN",
+  "description": "Haemoglobin",
+  "subnets": {
+    "ipv4": [
+      "45.128.16.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "asn": 399760,
+  "handle": "STGRABER-NET",
+  "description": "Stephane Graber, Sole Proprietorship",
+  "subnets": {
+    "ipv4": [
+      "45.45.148.0/24"
+    ],
+    "ipv6": [
+      "2602:fc62:a::/47",
+      "2602:fc62:ee::/48",
+      "2602:fc62:ff::/48"
+    ]
+  }
+}

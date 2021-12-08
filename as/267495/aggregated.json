@@ -1,0 +1,13 @@
+{
+  "asn": 267495,
+  "handle": "BRASIL-CENTRAL-TELECOMUNICACAO",
+  "description": "Brasil Central Telecomunicação",
+  "subnets": {
+    "ipv4": [
+      "192.141.232.0/22"
+    ],
+    "ipv6": [
+      "2804:425c::/32"
+    ]
+  }
+}

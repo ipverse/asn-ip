@@ -1,0 +1,11 @@
+{
+  "asn": 4756,
+  "handle": "KCTDI-KR-KR",
+  "description": "KCTDI",
+  "subnets": {
+    "ipv4": [
+      "123.140.99.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 59467,
+  "handle": "WEZZET",
+  "description": "The first international bookmaker company Ltd.",
+  "subnets": {
+    "ipv4": [
+      "81.161.99.0/24"
+    ],
+    "ipv6": [
+      "2001:67c:28d4::/48",
+      "2001:67c:2b20::/48"
+    ]
+  }
+}

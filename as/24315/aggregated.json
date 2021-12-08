@@ -1,0 +1,11 @@
+{
+  "asn": 24315,
+  "handle": "GATEWAY-TRANSIT",
+  "description": "Gateway Internet",
+  "subnets": {
+    "ipv4": [
+      "203.18.248.0/21"
+    ],
+    "ipv6": []
+  }
+}

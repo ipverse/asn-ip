@@ -1,0 +1,13 @@
+{
+  "asn": 24101,
+  "handle": "UNE-AP",
+  "description": "Australian Academic and Research Network",
+  "subnets": {
+    "ipv4": [
+      "129.180.0.0/16"
+    ],
+    "ipv6": [
+      "2001:df0:ce::/48"
+    ]
+  }
+}

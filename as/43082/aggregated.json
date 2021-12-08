@@ -1,0 +1,12 @@
+{
+  "asn": 43082,
+  "handle": "SERVERSPACE",
+  "description": "IOMART GROUP PLC",
+  "subnets": {
+    "ipv4": [
+      "5.187.17.0/24",
+      "5.187.19.0/24"
+    ],
+    "ipv6": []
+  }
+}

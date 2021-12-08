@@ -1,0 +1,11 @@
+{
+  "asn": 138814,
+  "handle": "TPN-LINK-ID",
+  "description": "PT Telemedia Prima Nusantara",
+  "subnets": {
+    "ipv4": [
+      "103.136.162.0/23"
+    ],
+    "ipv6": []
+  }
+}

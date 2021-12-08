@@ -1,0 +1,11 @@
+{
+  "asn": 146877,
+  "handle": "GIGAFIBER",
+  "description": "GIGA FIBERNET",
+  "subnets": {
+    "ipv4": [
+      "103.172.145.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 5586,
+  "handle": "MCI-INT",
+  "description": "Verizon UK Limited",
+  "subnets": {
+    "ipv4": [
+      "62.191.0.0/19",
+      "166.59.1.0/24",
+      "194.203.212.0/22"
+    ],
+    "ipv6": []
+  }
+}

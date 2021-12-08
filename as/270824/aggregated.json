@@ -1,0 +1,13 @@
+{
+  "asn": 270824,
+  "handle": "ENX-SERVICES",
+  "description": "ENX Services",
+  "subnets": {
+    "ipv4": [
+      "190.115.196.0/22"
+    ],
+    "ipv6": [
+      "2804:71fc::/33"
+    ]
+  }
+}

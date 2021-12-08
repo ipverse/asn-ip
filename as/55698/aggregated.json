@@ -1,0 +1,12 @@
+{
+  "asn": 55698,
+  "handle": "INFOMEDIA-ID",
+  "description": "Infomedia Nusantara PT.",
+  "subnets": {
+    "ipv4": [
+      "103.4.206.0/23",
+      "103.252.163.0/24"
+    ],
+    "ipv6": []
+  }
+}

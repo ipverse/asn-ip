@@ -1,0 +1,13 @@
+{
+  "asn": 22598,
+  "handle": "ALENCO",
+  "description": "ALENCO COMMUNICATIONS, INC",
+  "subnets": {
+    "ipv4": [
+      "67.212.16.0/20",
+      "108.160.176.0/21",
+      "108.160.184.0/22"
+    ],
+    "ipv6": []
+  }
+}

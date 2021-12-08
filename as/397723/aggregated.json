@@ -1,0 +1,13 @@
+{
+  "asn": 397723,
+  "handle": "LAST-MILE-NETWORKS",
+  "description": "Last Mile Networks LLC",
+  "subnets": {
+    "ipv4": [
+      "23.149.80.0/24"
+    ],
+    "ipv6": [
+      "2605:91c0::/32"
+    ]
+  }
+}

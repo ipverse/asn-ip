@@ -1,0 +1,13 @@
+{
+  "asn": 264262,
+  "handle": "BOSSNET-PROVEDOR-DE",
+  "description": "BOSSNET PROVEDOR DE INTERNET - ME",
+  "subnets": {
+    "ipv4": [
+      "138.118.192.0/22"
+    ],
+    "ipv6": [
+      "2804:2524::/32"
+    ]
+  }
+}

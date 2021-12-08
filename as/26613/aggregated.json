@@ -1,0 +1,16 @@
+{
+  "asn": 26613,
+  "handle": "CORPORACION-NACIONAL-DE",
+  "description": "CORPORACION NACIONAL DE TELECOMUNICACIONES - CNT EP",
+  "subnets": {
+    "ipv4": [
+      "190.152.251.0/24",
+      "190.152.252.0/23",
+      "190.214.252.0/23",
+      "201.219.56.0/24"
+    ],
+    "ipv6": [
+      "2800:370:4::/48"
+    ]
+  }
+}

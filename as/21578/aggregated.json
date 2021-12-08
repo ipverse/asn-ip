@@ -1,0 +1,13 @@
+{
+  "asn": 21578,
+  "handle": "UNIVERSIDAD-AUTONOMA-DE",
+  "description": "Universidad autonoma de Bucaramanga",
+  "subnets": {
+    "ipv4": [
+      "190.68.254.0/24"
+    ],
+    "ipv6": [
+      "2801:0:1c0::/45"
+    ]
+  }
+}

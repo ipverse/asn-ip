@@ -1,0 +1,13 @@
+{
+  "asn": 41340,
+  "handle": "SVENSKA",
+  "description": "Telia Company AB",
+  "subnets": {
+    "ipv4": [
+      "82.145.128.0/19",
+      "192.71.229.0/24",
+      "194.132.12.0/22"
+    ],
+    "ipv6": []
+  }
+}

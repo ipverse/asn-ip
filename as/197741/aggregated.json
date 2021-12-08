@@ -1,0 +1,12 @@
+{
+  "asn": 197741,
+  "handle": "ICARDFIN",
+  "description": "Intercard Finance AD",
+  "subnets": {
+    "ipv4": [
+      "82.119.81.0/24",
+      "85.118.90.0/24"
+    ],
+    "ipv6": []
+  }
+}

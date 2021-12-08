@@ -1,0 +1,13 @@
+{
+  "asn": 64250,
+  "handle": "VOCALOGIC",
+  "description": "DialPath",
+  "subnets": {
+    "ipv4": [
+      "38.110.4.0/24",
+      "66.154.5.0/24",
+      "69.61.3.0/24"
+    ],
+    "ipv6": []
+  }
+}

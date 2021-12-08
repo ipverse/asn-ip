@@ -1,0 +1,11 @@
+{
+  "asn": 58479,
+  "handle": "TRISAKTI-ID",
+  "description": "Trisakti University",
+  "subnets": {
+    "ipv4": [
+      "103.28.161.0/24"
+    ],
+    "ipv6": []
+  }
+}

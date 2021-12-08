@@ -1,0 +1,14 @@
+{
+  "asn": 28661,
+  "handle": "HOTLINK-INTERNET-LTDA",
+  "description": "HOTLINK INTERNET LTDA",
+  "subnets": {
+    "ipv4": [
+      "187.33.64.0/19",
+      "189.1.0.0/19"
+    ],
+    "ipv6": [
+      "2804:2070::/32"
+    ]
+  }
+}

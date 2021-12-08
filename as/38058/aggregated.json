@@ -1,0 +1,12 @@
+{
+  "asn": 38058,
+  "handle": "AMDOCSDVCI-IN",
+  "description": "AMDOCS DEVELOPMENT CENTRE INDIA LLP",
+  "subnets": {
+    "ipv4": [
+      "103.245.184.0/23",
+      "202.91.132.0/22"
+    ],
+    "ipv6": []
+  }
+}

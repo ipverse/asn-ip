@@ -1,0 +1,11 @@
+{
+  "asn": 131383,
+  "handle": "PVI-VN",
+  "description": "PVI Holdings",
+  "subnets": {
+    "ipv4": [
+      "103.26.255.0/24"
+    ],
+    "ipv6": []
+  }
+}

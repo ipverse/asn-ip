@@ -1,0 +1,12 @@
+{
+  "asn": 134436,
+  "handle": "TIGL-AP",
+  "description": "The Instillery Group Limited",
+  "subnets": {
+    "ipv4": [
+      "103.193.16.0/24",
+      "202.49.148.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 48990,
+  "handle": "ATALAYATV",
+  "description": "COMUNICACIONES E INFRAESTRUCTURAS DEL SUR SL",
+  "subnets": {
+    "ipv4": [
+      "185.210.88.0/22",
+      "185.235.100.0/22"
+    ],
+    "ipv6": []
+  }
+}

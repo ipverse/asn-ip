@@ -1,0 +1,11 @@
+{
+  "asn": 63877,
+  "handle": "IDNIC-UNIVERSALKENDARI-ID",
+  "description": "PT Universal Internet Service",
+  "subnets": {
+    "ipv4": [
+      "103.54.226.0/23"
+    ],
+    "ipv6": []
+  }
+}

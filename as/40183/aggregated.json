@@ -1,0 +1,12 @@
+{
+  "asn": 40183,
+  "handle": "BTL",
+  "description": "Bell Techlogix",
+  "subnets": {
+    "ipv4": [
+      "12.182.98.0/24",
+      "68.68.89.0/24"
+    ],
+    "ipv6": []
+  }
+}

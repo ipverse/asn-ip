@@ -1,0 +1,13 @@
+{
+  "asn": 265238,
+  "handle": "TEFNET-TECNOLOGIA-INTERNET",
+  "description": "TefNet Tecnologia - Internet Service Provider",
+  "subnets": {
+    "ipv4": [
+      "167.250.244.0/22"
+    ],
+    "ipv6": [
+      "2804:2cb4::/32"
+    ]
+  }
+}

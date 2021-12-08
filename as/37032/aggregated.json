@@ -1,0 +1,12 @@
+{
+  "asn": 37032,
+  "handle": "ALINKGHANA",
+  "description": "Alink Telecom Ghana",
+  "subnets": {
+    "ipv4": [
+      "41.190.69.0/24",
+      "41.190.70.0/24"
+    ],
+    "ipv6": []
+  }
+}

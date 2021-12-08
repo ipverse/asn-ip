@@ -1,0 +1,12 @@
+{
+  "asn": 265590,
+  "handle": "ABIX-TELECOMUNICACIONES-SA",
+  "description": "ABIX TELECOMUNICACIONES S.A. DE C.V.",
+  "subnets": {
+    "ipv4": [
+      "45.178.72.0/22",
+      "63.245.105.0/24"
+    ],
+    "ipv6": []
+  }
+}

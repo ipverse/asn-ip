@@ -1,0 +1,13 @@
+{
+  "asn": 37323,
+  "handle": "NETPAGE",
+  "description": "Netpage Company Limited",
+  "subnets": {
+    "ipv4": [
+      "197.255.192.0/20"
+    ],
+    "ipv6": [
+      "2c0f:fcb8::/32"
+    ]
+  }
+}

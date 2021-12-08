@@ -1,0 +1,12 @@
+{
+  "asn": 209858,
+  "handle": "BAYMA-ES",
+  "description": "BAYMA INTERNET SERVICIOS COMERCIALES, S.L.",
+  "subnets": {
+    "ipv4": [
+      "185.186.183.0/24",
+      "213.184.72.0/22"
+    ],
+    "ipv6": []
+  }
+}

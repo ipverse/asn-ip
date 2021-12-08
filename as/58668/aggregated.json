@@ -1,0 +1,14 @@
+{
+  "asn": 58668,
+  "handle": "BD-LINK-BD",
+  "description": "BD Link Communication Ltd",
+  "subnets": {
+    "ipv4": [
+      "45.251.128.0/22",
+      "103.12.236.0/22"
+    ],
+    "ipv6": [
+      "2403:2c40::/32"
+    ]
+  }
+}

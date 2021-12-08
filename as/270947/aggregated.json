@@ -1,0 +1,13 @@
+{
+  "asn": 270947,
+  "handle": "VC-DE-CARVALHO",
+  "description": "Vc de carvalho telecomunicações",
+  "subnets": {
+    "ipv4": [
+      "138.219.28.0/22"
+    ],
+    "ipv6": [
+      "2804:73f0::/32"
+    ]
+  }
+}

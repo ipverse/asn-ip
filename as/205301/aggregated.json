@@ -1,0 +1,12 @@
+{
+  "asn": 205301,
+  "handle": "DIGITALOCEAN",
+  "description": "Digital Ocean SRL",
+  "subnets": {
+    "ipv4": [
+      "194.242.22.0/23",
+      "194.242.28.0/23"
+    ],
+    "ipv6": []
+  }
+}

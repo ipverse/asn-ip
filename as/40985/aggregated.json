@@ -1,0 +1,11 @@
+{
+  "asn": 40985,
+  "handle": "EET",
+  "description": "Eneco Energy Trade B.V.",
+  "subnets": {
+    "ipv4": [
+      "195.189.216.0/23"
+    ],
+    "ipv6": []
+  }
+}

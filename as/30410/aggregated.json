@@ -1,0 +1,12 @@
+{
+  "asn": 30410,
+  "handle": "FCSO1",
+  "description": "First Coast Service Options, Inc.",
+  "subnets": {
+    "ipv4": [
+      "64.79.0.0/20",
+      "199.36.184.0/22"
+    ],
+    "ipv6": []
+  }
+}

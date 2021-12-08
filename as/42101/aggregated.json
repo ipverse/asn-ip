@@ -1,0 +1,11 @@
+{
+  "asn": 42101,
+  "handle": "PIERRE-LAGOUTTE",
+  "description": "PIERRE-LAGOUTTE",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a10:4646:3::/48"
+    ]
+  }
+}

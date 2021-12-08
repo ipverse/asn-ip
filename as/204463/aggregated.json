@@ -1,0 +1,15 @@
+{
+  "asn": 204463,
+  "handle": "SURAND",
+  "description": "Sur Andalucia de Comunicaciones SL",
+  "subnets": {
+    "ipv4": [
+      "91.221.76.0/23",
+      "91.221.86.0/23",
+      "176.98.222.0/24",
+      "185.113.239.0/24",
+      "185.185.52.0/22"
+    ],
+    "ipv6": []
+  }
+}

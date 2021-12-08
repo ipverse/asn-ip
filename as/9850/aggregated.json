@@ -1,0 +1,12 @@
+{
+  "asn": 9850,
+  "handle": "WOWTV-KR",
+  "description": "WOW-TV",
+  "subnets": {
+    "ipv4": [
+      "211.37.93.0/24",
+      "222.108.54.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 44282,
+  "handle": "MACCABI-HEALTH-CARE-SERVICES",
+  "description": "Maccabi Health Care Services (HMO)",
+  "subnets": {
+    "ipv4": [
+      "91.199.69.0/24",
+      "147.234.24.0/24",
+      "147.234.30.0/23"
+    ],
+    "ipv6": []
+  }
+}

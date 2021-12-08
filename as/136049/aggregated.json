@@ -1,0 +1,16 @@
+{
+  "asn": 136049,
+  "handle": "FILAPAC-AP",
+  "description": "FIL Asia Holdings Pte Limited",
+  "subnets": {
+    "ipv4": [
+      "103.80.220.0/23",
+      "192.223.128.0/24",
+      "192.223.144.0/24"
+    ],
+    "ipv6": [
+      "2401:a6c0:1::/48",
+      "2401:a6c0:2::/48"
+    ]
+  }
+}

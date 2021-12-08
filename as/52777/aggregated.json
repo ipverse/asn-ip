@@ -1,0 +1,15 @@
+{
+  "asn": 52777,
+  "handle": "BR27-SERVICOS-DE",
+  "description": "BR27 Serviços de Tecnologia Ltda.",
+  "subnets": {
+    "ipv4": [
+      "168.196.168.0/22",
+      "177.200.32.0/20"
+    ],
+    "ipv6": [
+      "2804:88:8000::/35",
+      "2804:b6c::/32"
+    ]
+  }
+}

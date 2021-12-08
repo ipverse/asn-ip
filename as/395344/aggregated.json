@@ -1,0 +1,12 @@
+{
+  "asn": 395344,
+  "handle": "IVANTI-BD",
+  "description": "Ivanti, Inc.",
+  "subnets": {
+    "ipv4": [
+      "67.199.253.0/24",
+      "192.206.100.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 141870,
+  "handle": "GVREDDY-IN",
+  "description": "GV REDDY BROADBAND SERVICES",
+  "subnets": {
+    "ipv4": [
+      "103.165.62.0/23"
+    ],
+    "ipv6": [
+      "2001:df6:7480::/48"
+    ]
+  }
+}

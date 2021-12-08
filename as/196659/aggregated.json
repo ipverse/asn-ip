@@ -1,0 +1,13 @@
+{
+  "asn": 196659,
+  "handle": "NBK-KW",
+  "description": "National Bank of Kuwait",
+  "subnets": {
+    "ipv4": [
+      "91.102.232.0/24",
+      "91.102.234.0/23",
+      "91.102.238.0/24"
+    ],
+    "ipv6": []
+  }
+}

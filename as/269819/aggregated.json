@@ -1,0 +1,13 @@
+{
+  "asn": 269819,
+  "handle": "LE-PERA-SERGIO-PATRICIONEO",
+  "description": "LE PERA SERGIO PATRICIO(NEO)",
+  "subnets": {
+    "ipv4": [
+      "45.187.132.0/22"
+    ],
+    "ipv6": [
+      "2803:c760::/32"
+    ]
+  }
+}

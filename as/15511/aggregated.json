@@ -1,0 +1,13 @@
+{
+  "asn": 15511,
+  "handle": "LB-ICONNECT",
+  "description": "iconnect sarl",
+  "subnets": {
+    "ipv4": [
+      "45.159.184.0/23",
+      "45.159.186.0/24",
+      "185.115.100.0/22"
+    ],
+    "ipv6": []
+  }
+}

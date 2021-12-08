@@ -1,0 +1,15 @@
+{
+  "asn": 37211,
+  "handle": "MAX-NET-FOR-INTERNET-SERVICES",
+  "description": "MAX NET FOR INTERNET SERVICES",
+  "subnets": {
+    "ipv4": [
+      "41.78.108.0/22",
+      "102.218.68.0/24",
+      "196.29.179.0/24",
+      "196.202.151.0/24",
+      "196.223.152.0/21"
+    ],
+    "ipv6": []
+  }
+}

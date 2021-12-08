@@ -1,0 +1,13 @@
+{
+  "asn": 4986,
+  "handle": "INTERSTAR",
+  "description": "InterStar Network Services, Inc.",
+  "subnets": {
+    "ipv4": [
+      "69.10.160.0/20"
+    ],
+    "ipv6": [
+      "2607:8b80::/32"
+    ]
+  }
+}

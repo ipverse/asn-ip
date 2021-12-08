@@ -1,0 +1,12 @@
+{
+  "asn": 14995,
+  "handle": "MASERGY",
+  "description": "Masergy Communications, Inc.",
+  "subnets": {
+    "ipv4": [
+      "198.102.250.0/24",
+      "216.250.228.0/23"
+    ],
+    "ipv6": []
+  }
+}

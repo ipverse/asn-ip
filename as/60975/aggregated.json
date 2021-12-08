@@ -1,0 +1,13 @@
+{
+  "asn": 60975,
+  "handle": "PARVATI",
+  "description": "PARVATI SRL",
+  "subnets": {
+    "ipv4": [
+      "185.19.184.0/22"
+    ],
+    "ipv6": [
+      "2a00:43e0::/32"
+    ]
+  }
+}

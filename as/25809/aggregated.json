@@ -1,0 +1,12 @@
+{
+  "asn": 25809,
+  "handle": "BOSE-CORPORATION-US",
+  "description": "Bose Corporation",
+  "subnets": {
+    "ipv4": [
+      "139.68.80.0/21",
+      "139.68.146.0/24"
+    ],
+    "ipv6": []
+  }
+}

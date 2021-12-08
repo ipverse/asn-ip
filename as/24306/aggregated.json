@@ -1,0 +1,12 @@
+{
+  "asn": 24306,
+  "handle": "SKYBB-AP",
+  "description": "Sky Cable Corporation",
+  "subnets": {
+    "ipv4": [
+      "202.81.160.0/24",
+      "202.81.162.0/24"
+    ],
+    "ipv6": []
+  }
+}

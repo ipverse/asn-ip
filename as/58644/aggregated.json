@@ -1,0 +1,12 @@
+{
+  "asn": 58644,
+  "handle": "VONEX-AU",
+  "description": "Vonex Pty Ltd",
+  "subnets": {
+    "ipv4": [
+      "175.158.104.0/24",
+      "175.158.106.0/24"
+    ],
+    "ipv6": []
+  }
+}

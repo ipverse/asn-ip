@@ -1,0 +1,13 @@
+{
+  "asn": 267410,
+  "handle": "2D-TELECOM-LTDA-ME",
+  "description": "2D TELECOM LTDA - ME",
+  "subnets": {
+    "ipv4": [
+      "45.235.92.0/22"
+    ],
+    "ipv6": [
+      "2804:4d10::/32"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asn": 271496,
+  "handle": "BNET-RIO-PROVEDOR",
+  "description": "BNET RIO PROVEDOR DE ACESSO A INTERNET EIRELI",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2804:7c70::/32"
+    ]
+  }
+}

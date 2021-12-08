@@ -1,0 +1,13 @@
+{
+  "asn": 51690,
+  "handle": "APPLIEDTECH",
+  "description": "Applied Technologies, Ltd.",
+  "subnets": {
+    "ipv4": [
+      "91.220.33.0/24",
+      "185.9.200.0/23",
+      "185.9.202.0/24"
+    ],
+    "ipv6": []
+  }
+}

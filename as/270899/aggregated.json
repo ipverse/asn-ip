@@ -1,0 +1,13 @@
+{
+  "asn": 270899,
+  "handle": "WORKSUL-TELECOM",
+  "description": "Worksul Telecom",
+  "subnets": {
+    "ipv4": [
+      "177.91.228.0/22"
+    ],
+    "ipv6": [
+      "2804:7328::/32"
+    ]
+  }
+}

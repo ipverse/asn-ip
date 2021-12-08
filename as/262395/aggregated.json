@@ -1,0 +1,13 @@
+{
+  "asn": 262395,
+  "handle": "WIFI-PLUS-PROVEDOR-LTDA",
+  "description": "WIFI Plus Provedor Ltda.",
+  "subnets": {
+    "ipv4": [
+      "177.129.96.0/22"
+    ],
+    "ipv6": [
+      "2804:8dc::/32"
+    ]
+  }
+}

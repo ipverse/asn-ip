@@ -1,0 +1,12 @@
+{
+  "asn": 42600,
+  "handle": "GMSU-NET",
+  "description": "Global Message Services Ukraine LLC",
+  "subnets": {
+    "ipv4": [
+      "185.46.88.0/22",
+      "185.139.200.0/22"
+    ],
+    "ipv6": []
+  }
+}

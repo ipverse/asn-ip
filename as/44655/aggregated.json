@@ -1,0 +1,13 @@
+{
+  "asn": 44655,
+  "handle": "METROLINE",
+  "description": "MetroLine Sp. z o.o.",
+  "subnets": {
+    "ipv4": [
+      "91.202.124.0/22"
+    ],
+    "ipv6": [
+      "2001:67c:740::/48"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 9358,
+  "handle": "FINDER",
+  "description": "OPTAGE Inc.",
+  "subnets": {
+    "ipv4": [
+      "210.141.128.0/19"
+    ],
+    "ipv6": [
+      "2406:c700::/32"
+    ]
+  }
+}

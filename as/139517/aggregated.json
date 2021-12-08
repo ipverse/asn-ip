@@ -1,0 +1,11 @@
+{
+  "asn": 139517,
+  "handle": "SOFTAID-IN",
+  "description": "Softaid Computers",
+  "subnets": {
+    "ipv4": [
+      "103.143.109.0/24"
+    ],
+    "ipv6": []
+  }
+}

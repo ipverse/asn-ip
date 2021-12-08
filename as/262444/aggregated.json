@@ -1,0 +1,15 @@
+{
+  "asn": 262444,
+  "handle": "XTURBO-PROVEDOR-DE",
+  "description": "XTURBO PROVEDOR DE INTERNET LTDA - EPP",
+  "subnets": {
+    "ipv4": [
+      "177.52.104.0/21",
+      "177.128.8.0/21",
+      "200.79.184.0/21"
+    ],
+    "ipv6": [
+      "2804:d78::/32"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 28392,
+  "handle": "SECRETARIA-DE-LA",
+  "description": "Secretaría de la Hacienda Pública",
+  "subnets": {
+    "ipv4": [
+      "201.131.6.0/23"
+    ],
+    "ipv6": [
+      "2801:c4:b4::/48"
+    ]
+  }
+}

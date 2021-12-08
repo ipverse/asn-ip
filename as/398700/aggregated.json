@@ -1,0 +1,13 @@
+{
+  "asn": 398700,
+  "handle": "CACTUS-INTERNATIONAL-INC",
+  "description": "Cactus International, Inc.",
+  "subnets": {
+    "ipv4": [
+      "216.98.224.0/19"
+    ],
+    "ipv6": [
+      "2605:cc80::/32"
+    ]
+  }
+}

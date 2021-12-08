@@ -1,0 +1,11 @@
+{
+  "asn": 397496,
+  "handle": "INMARSAT-GOVERNMENT",
+  "description": "Inmarsat Government",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2001:550:1b0a::/48"
+    ]
+  }
+}

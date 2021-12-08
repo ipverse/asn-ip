@@ -1,0 +1,14 @@
+{
+  "asn": 136468,
+  "handle": "NSONEINC-AP",
+  "description": "NSONE INC.",
+  "subnets": {
+    "ipv4": [
+      "103.35.251.0/24"
+    ],
+    "ipv6": [
+      "2402:cf80:100a::/47",
+      "2a00:edc0:136::/48"
+    ]
+  }
+}

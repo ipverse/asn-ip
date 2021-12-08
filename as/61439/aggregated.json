@@ -1,0 +1,12 @@
+{
+  "asn": 61439,
+  "handle": "VHOST",
+  "description": "Vhost Meremeta Ltd",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a0d:8040::/29",
+      "2a0f:a1c0::/31"
+    ]
+  }
+}

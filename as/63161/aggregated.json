@@ -1,0 +1,13 @@
+{
+  "asn": 63161,
+  "handle": "SWAROVSKI-NA",
+  "description": "SWAROVSKI NORTH AMERICA LIMITED",
+  "subnets": {
+    "ipv4": [
+      "192.40.202.0/23"
+    ],
+    "ipv6": [
+      "2620:11c:d000::/47"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 212745,
+  "handle": "MAILCOMMERCE",
+  "description": "mailcommerce GmbH",
+  "subnets": {
+    "ipv4": [
+      "45.81.228.0/22"
+    ],
+    "ipv6": [
+      "2a0e:6080::/48"
+    ]
+  }
+}

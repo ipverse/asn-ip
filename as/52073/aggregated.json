@@ -1,0 +1,13 @@
+{
+  "asn": 52073,
+  "handle": "SEAPERF",
+  "description": "SeaPerf",
+  "subnets": {
+    "ipv4": [
+      "195.14.105.0/24"
+    ],
+    "ipv6": [
+      "2a10:4646:120::/44"
+    ]
+  }
+}

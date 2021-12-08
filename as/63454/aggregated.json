@@ -1,0 +1,12 @@
+{
+  "asn": 63454,
+  "handle": "CPGNYLAS1",
+  "description": "City Practice Group of New York LLC",
+  "subnets": {
+    "ipv4": [
+      "192.30.101.0/24",
+      "192.146.255.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 266072,
+  "handle": "GLOBAL-TELECOMUNICACOES-EIRELI",
+  "description": "GLOBAL TELECOMUNICACOES EIRELI - ME",
+  "subnets": {
+    "ipv4": [
+      "45.4.140.0/22"
+    ],
+    "ipv6": [
+      "2804:3a20::/32"
+    ]
+  }
+}

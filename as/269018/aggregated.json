@@ -1,0 +1,13 @@
+{
+  "asn": 269018,
+  "handle": "FIBER-NET-LTDA-ME",
+  "description": "FIBER NET LTDA - ME",
+  "subnets": {
+    "ipv4": [
+      "45.178.116.0/22"
+    ],
+    "ipv6": [
+      "2804:5e34::/32"
+    ]
+  }
+}

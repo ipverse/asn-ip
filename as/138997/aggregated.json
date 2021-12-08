@@ -1,0 +1,15 @@
+{
+  "asn": 138997,
+  "handle": "EDCL-AP",
+  "description": "Eons Data Communications Limited",
+  "subnets": {
+    "ipv4": [
+      "103.138.72.0/22",
+      "103.152.220.0/23"
+    ],
+    "ipv6": [
+      "2404:c140::/32",
+      "2406:2fc0::/32"
+    ]
+  }
+}

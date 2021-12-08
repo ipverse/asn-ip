@@ -1,0 +1,13 @@
+{
+  "asn": 2875,
+  "handle": "JINR",
+  "description": "Joint Institute for Nuclear Research",
+  "subnets": {
+    "ipv4": [
+      "159.93.0.0/16"
+    ],
+    "ipv6": [
+      "2a05:81c0::/29"
+    ]
+  }
+}

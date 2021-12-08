@@ -1,0 +1,13 @@
+{
+  "asn": 267509,
+  "handle": "TRIBUNAL-REGIONAL-FEDERAL",
+  "description": "Tribunal Regional Federal",
+  "subnets": {
+    "ipv4": [
+      "201.182.53.0/24"
+    ],
+    "ipv6": [
+      "2801:80:1df0::/48"
+    ]
+  }
+}

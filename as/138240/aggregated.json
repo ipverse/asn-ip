@@ -1,0 +1,12 @@
+{
+  "asn": 138240,
+  "handle": "NETON-IN",
+  "description": "Net On Broadband Services Private Limited",
+  "subnets": {
+    "ipv4": [
+      "103.127.34.0/24",
+      "103.162.9.0/24"
+    ],
+    "ipv6": []
+  }
+}

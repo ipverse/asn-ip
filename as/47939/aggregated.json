@@ -1,0 +1,15 @@
+{
+  "asn": 47939,
+  "handle": "YALTANET",
+  "description": "TDV Teleradio company Yalta",
+  "subnets": {
+    "ipv4": [
+      "91.205.164.0/22",
+      "176.108.184.0/21",
+      "178.212.64.0/21"
+    ],
+    "ipv6": [
+      "2001:678:344::/48"
+    ]
+  }
+}

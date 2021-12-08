@@ -1,0 +1,14 @@
+{
+  "asn": 28173,
+  "handle": "DINAMICA-TELECOMUNICACOES-LTDA",
+  "description": "Dinamica Telecomunicacoes Ltda",
+  "subnets": {
+    "ipv4": [
+      "177.137.224.0/20",
+      "189.84.208.0/20"
+    ],
+    "ipv6": [
+      "2804:10a0::/32"
+    ]
+  }
+}

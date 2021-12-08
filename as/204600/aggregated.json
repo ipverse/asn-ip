@@ -1,0 +1,13 @@
+{
+  "asn": 204600,
+  "handle": "REPUBLER",
+  "description": "Internet Technologies LLC",
+  "subnets": {
+    "ipv4": [
+      "194.190.116.0/23"
+    ],
+    "ipv6": [
+      "2001:678:600::/48"
+    ]
+  }
+}

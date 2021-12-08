@@ -1,0 +1,11 @@
+{
+  "asn": 138789,
+  "handle": "SMARTC-IN",
+  "description": "Smartclick Internet Pvt Ltd",
+  "subnets": {
+    "ipv4": [
+      "103.135.200.0/24"
+    ],
+    "ipv6": []
+  }
+}

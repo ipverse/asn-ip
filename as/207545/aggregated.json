@@ -1,0 +1,13 @@
+{
+  "asn": 207545,
+  "handle": "INFORMATICA95SERVIZI",
+  "description": "INFORMATICA95 SERVIZI SRLS",
+  "subnets": {
+    "ipv4": [
+      "185.13.164.0/22",
+      "185.146.132.0/23",
+      "185.146.134.0/24"
+    ],
+    "ipv6": []
+  }
+}

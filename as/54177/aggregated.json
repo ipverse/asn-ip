@@ -1,0 +1,13 @@
+{
+  "asn": 54177,
+  "handle": "SJFC",
+  "description": "St. John Fisher College",
+  "subnets": {
+    "ipv4": [
+      "149.69.0.0/16"
+    ],
+    "ipv6": [
+      "2620:14:e000::/48"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 270529,
+  "handle": "PT-DE-LOYOLA-ME",
+  "description": "PT DE LOYOLA ME",
+  "subnets": {
+    "ipv4": [
+      "189.45.184.0/22"
+    ],
+    "ipv6": [
+      "2804:6d64::/32"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 47241,
+  "handle": "IV-TELECOM",
+  "description": "Joint Stock Company TransTeleCom",
+  "subnets": {
+    "ipv4": [
+      "37.98.160.0/19",
+      "46.160.0.0/18",
+      "109.60.128.0/17"
+    ],
+    "ipv6": []
+  }
+}

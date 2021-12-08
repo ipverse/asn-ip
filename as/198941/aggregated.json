@@ -1,0 +1,13 @@
+{
+  "asn": 198941,
+  "handle": "BIANOR",
+  "description": "Bianor Services EOOD",
+  "subnets": {
+    "ipv4": [
+      "193.35.46.0/24"
+    ],
+    "ipv6": [
+      "2a01:288:4008::/48"
+    ]
+  }
+}

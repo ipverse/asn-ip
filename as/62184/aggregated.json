@@ -1,0 +1,13 @@
+{
+  "asn": 62184,
+  "handle": "MNO",
+  "description": "Michal Nowak",
+  "subnets": {
+    "ipv4": [
+      "44.129.105.0/24"
+    ],
+    "ipv6": [
+      "2a0e:9300:42c0::/48"
+    ]
+  }
+}

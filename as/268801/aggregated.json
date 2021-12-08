@@ -1,0 +1,13 @@
+{
+  "asn": 268801,
+  "handle": "INTERTEL-TELECOMUNICACAO-LTDA",
+  "description": "intertel telecomunicacao LTDA",
+  "subnets": {
+    "ipv4": [
+      "45.173.76.0/22"
+    ],
+    "ipv6": [
+      "2804:5adc::/32"
+    ]
+  }
+}

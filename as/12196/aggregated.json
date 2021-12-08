@@ -1,0 +1,13 @@
+{
+  "asn": 12196,
+  "handle": "ETSY",
+  "description": "Etsy Inc.",
+  "subnets": {
+    "ipv4": [
+      "216.0.145.0/24"
+    ],
+    "ipv6": [
+      "2620:11e:900a::/48"
+    ]
+  }
+}

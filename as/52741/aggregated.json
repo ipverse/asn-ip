@@ -1,0 +1,14 @@
+{
+  "asn": 52741,
+  "handle": "MACEDO-E-CASTRO",
+  "description": "Macedo e Castro Informática LTDA",
+  "subnets": {
+    "ipv4": [
+      "143.255.208.0/22",
+      "177.85.104.0/21"
+    ],
+    "ipv6": [
+      "2804:f20::/32"
+    ]
+  }
+}

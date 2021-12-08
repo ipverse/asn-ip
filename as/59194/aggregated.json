@@ -1,0 +1,14 @@
+{
+  "asn": 59194,
+  "handle": "CBOI",
+  "description": "Central Bank of  India",
+  "subnets": {
+    "ipv4": [
+      "103.105.72.0/24",
+      "103.209.26.0/24"
+    ],
+    "ipv6": [
+      "2001:df7:6800::/48"
+    ]
+  }
+}

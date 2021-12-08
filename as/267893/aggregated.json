@@ -1,0 +1,13 @@
+{
+  "asn": 267893,
+  "handle": "UNIVERSIDAD-DEL-MAGDALENA",
+  "description": "UNIVERSIDAD DEL MAGDALENA",
+  "subnets": {
+    "ipv4": [
+      "45.65.200.0/24"
+    ],
+    "ipv6": [
+      "2801:1e:3000::/48"
+    ]
+  }
+}

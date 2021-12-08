@@ -1,0 +1,14 @@
+{
+  "asn": 7603,
+  "handle": "GENECOMPUTINGLTD-AP",
+  "description": "GENE COMPUTING LTD.",
+  "subnets": {
+    "ipv4": [
+      "103.176.196.0/23"
+    ],
+    "ipv6": [
+      "2001:df0:22c0::/48",
+      "2a0f:607:1300::/44"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 262174,
+  "handle": "NEURALSOFT-SRL",
+  "description": "NEURALSOFT S.R.L.",
+  "subnets": {
+    "ipv4": [
+      "179.0.0.0/23",
+      "200.61.254.0/23",
+      "207.248.76.0/23"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 206176,
+  "handle": "GREENEDGE",
+  "description": "GreenEdge B.V.",
+  "subnets": {
+    "ipv4": [
+      "45.135.56.0/22",
+      "195.114.30.0/24"
+    ],
+    "ipv6": []
+  }
+}

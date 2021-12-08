@@ -1,0 +1,13 @@
+{
+  "asn": 267088,
+  "handle": "REDE-SPIRIT-TELECOM",
+  "description": "Rede Spirit Telecom",
+  "subnets": {
+    "ipv4": [
+      "45.228.28.0/22"
+    ],
+    "ipv6": [
+      "2804:47f4::/32"
+    ]
+  }
+}

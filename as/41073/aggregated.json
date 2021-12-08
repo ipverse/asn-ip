@@ -1,0 +1,14 @@
+{
+  "asn": 41073,
+  "handle": "RTE",
+  "description": "Raidio Teilifis Eireann",
+  "subnets": {
+    "ipv4": [
+      "89.207.56.0/21",
+      "185.54.104.0/22"
+    ],
+    "ipv6": [
+      "2a00:1ed8::/29"
+    ]
+  }
+}

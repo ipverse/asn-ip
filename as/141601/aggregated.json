@@ -1,0 +1,12 @@
+{
+  "asn": 141601,
+  "handle": "IDNIC-KOPERASIMABAR-ID",
+  "description": "Koperasi Maju Bareng Bersama",
+  "subnets": {
+    "ipv4": [
+      "103.160.247.0/24",
+      "103.169.70.0/24"
+    ],
+    "ipv6": []
+  }
+}

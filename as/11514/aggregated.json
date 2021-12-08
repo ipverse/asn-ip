@@ -1,0 +1,13 @@
+{
+  "asn": 11514,
+  "handle": "TRANSDATOS",
+  "description": "Transdatos",
+  "subnets": {
+    "ipv4": [
+      "190.111.112.0/21",
+      "200.47.45.0/24",
+      "200.47.46.0/24"
+    ],
+    "ipv6": []
+  }
+}

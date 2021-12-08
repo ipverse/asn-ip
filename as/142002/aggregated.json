@@ -1,0 +1,12 @@
+{
+  "asn": 142002,
+  "handle": "SCLOUDPTELTD",
+  "description": "Scloud Pte Ltd",
+  "subnets": {
+    "ipv4": [
+      "103.164.81.0/24",
+      "165.154.224.0/19"
+    ],
+    "ipv6": []
+  }
+}

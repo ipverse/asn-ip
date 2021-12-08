@@ -1,0 +1,13 @@
+{
+  "asn": 59715,
+  "handle": "SBTAP",
+  "description": "Comune di San Benedetto del Tronto",
+  "subnets": {
+    "ipv4": [
+      "185.5.200.0/22"
+    ],
+    "ipv6": [
+      "2a02:cdc0::/29"
+    ]
+  }
+}

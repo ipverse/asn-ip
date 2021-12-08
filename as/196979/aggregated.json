@@ -1,0 +1,12 @@
+{
+  "asn": 196979,
+  "handle": "PL-POL-NET-MNT",
+  "description": "Marcin Poloczek Polnet",
+  "subnets": {
+    "ipv4": [
+      "193.203.56.0/22",
+      "194.88.214.0/23"
+    ],
+    "ipv6": []
+  }
+}

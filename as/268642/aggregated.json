@@ -1,0 +1,13 @@
+{
+  "asn": 268642,
+  "handle": "CICERO-F-DA-SILVA-FLORESTA",
+  "description": "CICERO F DA SILVA FLORESTA",
+  "subnets": {
+    "ipv4": [
+      "45.164.200.0/22"
+    ],
+    "ipv6": [
+      "2804:5450::/32"
+    ]
+  }
+}

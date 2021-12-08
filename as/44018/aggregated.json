@@ -1,0 +1,12 @@
+{
+  "asn": 44018,
+  "handle": "ACTIVELOGISTICS",
+  "description": "active logistics GmbH",
+  "subnets": {
+    "ipv4": [
+      "195.8.121.0/24",
+      "195.8.122.0/23"
+    ],
+    "ipv6": []
+  }
+}

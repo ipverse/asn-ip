@@ -1,0 +1,11 @@
+{
+  "asn": 264938,
+  "handle": "ONLINE-TELECOM",
+  "description": "Online TELECOM",
+  "subnets": {
+    "ipv4": [
+      "168.232.16.0/22"
+    ],
+    "ipv6": []
+  }
+}

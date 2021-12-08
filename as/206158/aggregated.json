@@ -1,0 +1,11 @@
+{
+  "asn": 206158,
+  "handle": "AS2IDM",
+  "description": "2 IDM",
+  "subnets": {
+    "ipv4": [
+      "154.50.2.0/24"
+    ],
+    "ipv6": []
+  }
+}

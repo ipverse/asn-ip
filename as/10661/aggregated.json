@@ -1,0 +1,11 @@
+{
+  "asn": 10661,
+  "handle": "SF-FIN-LP",
+  "description": "Steadfast Financial LP",
+  "subnets": {
+    "ipv4": [
+      "74.119.224.0/23"
+    ],
+    "ipv6": []
+  }
+}

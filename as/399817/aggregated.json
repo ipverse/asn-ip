@@ -1,0 +1,13 @@
+{
+  "asn": 399817,
+  "handle": "LAER-DWF1",
+  "description": "UnitedLayer, LLC",
+  "subnets": {
+    "ipv4": [
+      "64.29.130.0/24"
+    ],
+    "ipv6": [
+      "2607:f3a0:a002::/48"
+    ]
+  }
+}

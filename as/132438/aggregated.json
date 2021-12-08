@@ -1,0 +1,12 @@
+{
+  "asn": 132438,
+  "handle": "APONIT-AP",
+  "description": "APON IT",
+  "subnets": {
+    "ipv4": [
+      "103.73.44.0/22",
+      "192.144.84.0/22"
+    ],
+    "ipv6": []
+  }
+}

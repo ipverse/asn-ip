@@ -1,0 +1,13 @@
+{
+  "asn": 267264,
+  "handle": "JRFIBER-SERVICOS-DE",
+  "description": "Jrfiber serviços de comunicação",
+  "subnets": {
+    "ipv4": [
+      "45.232.124.0/22"
+    ],
+    "ipv6": [
+      "2804:4acc::/32"
+    ]
+  }
+}

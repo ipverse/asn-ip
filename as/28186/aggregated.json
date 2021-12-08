@@ -1,0 +1,14 @@
+{
+  "asn": 28186,
+  "handle": "ITS-TELECOMUNICACOES-LTDA",
+  "description": "ITS TELECOMUNICACOES LTDA",
+  "subnets": {
+    "ipv4": [
+      "187.44.128.0/17",
+      "189.89.128.0/18"
+    ],
+    "ipv6": [
+      "2804:204::/32"
+    ]
+  }
+}

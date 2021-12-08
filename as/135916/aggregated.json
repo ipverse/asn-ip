@@ -1,0 +1,14 @@
+{
+  "asn": 135916,
+  "handle": "KIENPHONGITS-VN",
+  "description": "descr: No. 14, 256 Bach Dang, Chuong Duong, Hoan Kiem, Hanoi",
+  "subnets": {
+    "ipv4": [
+      "103.94.16.0/22",
+      "202.47.87.0/24",
+      "202.56.57.0/24",
+      "202.94.82.0/24"
+    ],
+    "ipv6": []
+  }
+}

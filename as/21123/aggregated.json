@@ -1,0 +1,12 @@
+{
+  "asn": 21123,
+  "handle": "INCENTIAS",
+  "description": "Asseco Poland SA",
+  "subnets": {
+    "ipv4": [
+      "193.27.204.0/23",
+      "193.109.91.0/24"
+    ],
+    "ipv6": []
+  }
+}

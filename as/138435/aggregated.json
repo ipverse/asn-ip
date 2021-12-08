@@ -1,0 +1,16 @@
+{
+  "asn": 138435,
+  "handle": "YUETAU-HK",
+  "description": "Aperture Science Limited",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2602:feda:d70::/44",
+      "2a0e:46c4:2900::/48",
+      "2a0e:46c4:2910::/48",
+      "2a0e:46c4:2920::/48",
+      "2a0e:46c4:2930::/48",
+      "2a0e:b107:fe0::/44"
+    ]
+  }
+}

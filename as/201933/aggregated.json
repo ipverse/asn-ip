@@ -1,0 +1,13 @@
+{
+  "asn": 201933,
+  "handle": "CXSCE",
+  "description": "CXS Connected Enterprise",
+  "subnets": {
+    "ipv4": [
+      "91.193.116.0/22"
+    ],
+    "ipv6": [
+      "2a06:40c0::/29"
+    ]
+  }
+}

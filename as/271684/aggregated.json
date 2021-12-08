@@ -1,0 +1,13 @@
+{
+  "asn": 271684,
+  "handle": "PRAIA-NET-SERVICOS-LTDA",
+  "description": "Praia Net Servicos LTDA",
+  "subnets": {
+    "ipv4": [
+      "177.70.247.0/24"
+    ],
+    "ipv6": [
+      "2804:7f60::/32"
+    ]
+  }
+}

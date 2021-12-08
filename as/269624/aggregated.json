@@ -1,0 +1,12 @@
+{
+  "asn": 269624,
+  "handle": "DDR-FIBRA-OTICA",
+  "description": "DDR FIBRA OTICA SERVICO E COMERCIO DE TELECOMUNICA",
+  "subnets": {
+    "ipv4": [
+      "45.190.100.0/23",
+      "45.190.103.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 141301,
+  "handle": "SKYCOMIN",
+  "description": "Skycom Infotech",
+  "subnets": {
+    "ipv4": [
+      "103.160.166.0/24",
+      "103.170.64.0/24"
+    ],
+    "ipv6": []
+  }
+}

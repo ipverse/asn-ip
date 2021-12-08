@@ -1,0 +1,12 @@
+{
+  "asn": 24451,
+  "handle": "PDS-GROUP-AP",
+  "description": "Globe Telecom (GMCR,INC)",
+  "subnets": {
+    "ipv4": [
+      "58.71.71.0/24",
+      "203.177.81.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asn": 24163,
+  "handle": "UBBNET-TW",
+  "description": "UNION BROADBAND NETWORK",
+  "subnets": {
+    "ipv4": [
+      "180.218.0.0/16"
+    ],
+    "ipv6": []
+  }
+}

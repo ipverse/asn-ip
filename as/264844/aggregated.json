@@ -1,0 +1,12 @@
+{
+  "asn": 264844,
+  "handle": "INVERSIONES-FRITZ-78",
+  "description": "INVERSIONES FRITZ 78 C.A.(WIFI SOLUTION)",
+  "subnets": {
+    "ipv4": [
+      "170.244.88.0/22",
+      "191.97.16.0/22"
+    ],
+    "ipv6": []
+  }
+}

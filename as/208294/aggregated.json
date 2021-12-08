@@ -1,0 +1,15 @@
+{
+  "asn": 208294,
+  "handle": "RELAYON",
+  "description": "CIA TRIAD SECURITY LLC",
+  "subnets": {
+    "ipv4": [
+      "185.220.101.0/24"
+    ],
+    "ipv6": [
+      "2a0a:4587:2011::/48",
+      "2a0b:f4c2::/47",
+      "2a0b:f4c2:2::/48"
+    ]
+  }
+}

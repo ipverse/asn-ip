@@ -1,0 +1,13 @@
+{
+  "asn": 42102,
+  "handle": "LRNC",
+  "description": "L\u0026R NetCon GmbH trading as L\u0026R NetCon GmbH \u0026 Co. KG",
+  "subnets": {
+    "ipv4": [
+      "77.232.224.0/19"
+    ],
+    "ipv6": [
+      "2a06:3e40::/29"
+    ]
+  }
+}

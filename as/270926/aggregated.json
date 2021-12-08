@@ -1,0 +1,13 @@
+{
+  "asn": 270926,
+  "handle": "T-DOS-S",
+  "description": "T. dos S. Severio - Telecomunicacoes",
+  "subnets": {
+    "ipv4": [
+      "186.26.88.0/22"
+    ],
+    "ipv6": [
+      "2804:739c::/32"
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 58208,
+  "handle": "VCORE",
+  "description": "GEDEFI Conseil EURL",
+  "subnets": {
+    "ipv4": [
+      "5.42.152.0/22",
+      "5.42.159.0/24"
+    ],
+    "ipv6": [
+      "2a01:45c0::/32"
+    ]
+  }
+}

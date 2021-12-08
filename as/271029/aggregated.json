@@ -1,0 +1,11 @@
+{
+  "asn": 271029,
+  "handle": "ESTADO-DE-RORAIMA",
+  "description": "Estado de Roraima",
+  "subnets": {
+    "ipv4": [
+      "190.123.15.0/24"
+    ],
+    "ipv6": []
+  }
+}

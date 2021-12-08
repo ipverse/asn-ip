@@ -1,0 +1,13 @@
+{
+  "asn": 268962,
+  "handle": "CONNECT-TELECOMUNICACOES-E",
+  "description": "CONNECT TELECOMUNICAÇÕES E INTERNET LTDA",
+  "subnets": {
+    "ipv4": [
+      "45.177.4.0/22"
+    ],
+    "ipv6": [
+      "2804:5d48::/32"
+    ]
+  }
+}

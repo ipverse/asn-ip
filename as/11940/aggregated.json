@@ -1,0 +1,12 @@
+{
+  "asn": 11940,
+  "handle": "DIRECTSCOM",
+  "description": "Direct Supply, Inc.",
+  "subnets": {
+    "ipv4": [
+      "8.9.32.0/23",
+      "74.116.50.0/23"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asn": 4352,
+  "handle": "EMRNET-HK-AP",
+  "description": "EMRASIA",
+  "subnets": {
+    "ipv4": [
+      "122.248.16.0/21"
+    ],
+    "ipv6": []
+  }
+}

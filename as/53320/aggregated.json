@@ -1,0 +1,13 @@
+{
+  "asn": 53320,
+  "handle": "INTERACTIVE-INTELLIGENCE-INC",
+  "description": "Genesys Telecommunications Laboratories,Inc.",
+  "subnets": {
+    "ipv4": [
+      "12.44.237.0/24",
+      "135.39.162.0/23",
+      "174.47.105.0/24"
+    ],
+    "ipv6": []
+  }
+}

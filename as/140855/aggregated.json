@@ -1,0 +1,11 @@
+{
+  "asn": 140855,
+  "handle": "CHINATELECOM-JIANGXI-JINGDEZHEN-5G-NETWORK",
+  "description": "China Telecom",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "240e:13:803::/48"
+    ]
+  }
+}

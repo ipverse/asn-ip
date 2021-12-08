@@ -1,0 +1,13 @@
+{
+  "asn": 28188,
+  "handle": "PRONTO-NET-LTDA",
+  "description": "Pronto Net Ltda.",
+  "subnets": {
+    "ipv4": [
+      "177.12.128.0/19",
+      "189.89.224.0/19",
+      "200.229.92.0/22"
+    ],
+    "ipv6": []
+  }
+}

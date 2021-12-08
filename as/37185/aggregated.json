@@ -1,0 +1,12 @@
+{
+  "asn": 37185,
+  "handle": "ISAT-AFRICA",
+  "description": "iSAT Africa Zambia Ltd",
+  "subnets": {
+    "ipv4": [
+      "41.191.116.0/22",
+      "154.73.232.0/22"
+    ],
+    "ipv6": []
+  }
+}

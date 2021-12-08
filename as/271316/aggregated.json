@@ -1,0 +1,13 @@
+{
+  "asn": 271316,
+  "handle": "LP-CONECTA-SERVICO",
+  "description": "LP CONECTA SERVIÇO DE INTERNET",
+  "subnets": {
+    "ipv4": [
+      "200.53.76.0/22"
+    ],
+    "ipv6": [
+      "2804:799c::/32"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 203077,
+  "handle": "VOICENTER-IL02",
+  "description": "Voicenter LTD",
+  "subnets": {
+    "ipv4": [
+      "185.138.168.0/23",
+      "185.138.170.0/24"
+    ],
+    "ipv6": []
+  }
+}

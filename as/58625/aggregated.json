@@ -1,0 +1,11 @@
+{
+  "asn": 58625,
+  "handle": "GMOBILENET-MN",
+  "description": "Gmobilenet Ltd",
+  "subnets": {
+    "ipv4": [
+      "103.14.36.0/22"
+    ],
+    "ipv6": []
+  }
+}

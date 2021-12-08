@@ -1,0 +1,12 @@
+{
+  "asn": 34633,
+  "handle": "UKRINDEX",
+  "description": "UKRINDEX LLC",
+  "subnets": {
+    "ipv4": [
+      "194.88.218.0/23",
+      "194.116.232.0/23"
+    ],
+    "ipv6": []
+  }
+}

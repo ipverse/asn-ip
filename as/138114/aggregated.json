@@ -1,0 +1,13 @@
+{
+  "asn": 138114,
+  "handle": "IDNIC-DISKOMINFOPEMKABTANG-ID",
+  "description": "Diskominfo Kabupaten Tangerang",
+  "subnets": {
+    "ipv4": [
+      "103.125.184.0/23"
+    ],
+    "ipv6": [
+      "2001:df7:2f00::/48"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 270332,
+  "handle": "EXATA-TELECOM",
+  "description": "EXATA TELECOM",
+  "subnets": {
+    "ipv4": [
+      "190.83.108.0/22"
+    ],
+    "ipv6": [
+      "2804:6a60::/32"
+    ]
+  }
+}

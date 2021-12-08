@@ -1,0 +1,13 @@
+{
+  "asn": 269587,
+  "handle": "OMEGA-PROVEDOR-E",
+  "description": "OMEGA PROVEDOR E SERVIÇOS DE INTERNET EIRELI-ME",
+  "subnets": {
+    "ipv4": [
+      "45.188.80.0/22"
+    ],
+    "ipv6": [
+      "2804:66dc::/32"
+    ]
+  }
+}

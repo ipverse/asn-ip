@@ -1,0 +1,12 @@
+{
+  "asn": 42053,
+  "handle": "STARLING",
+  "description": "Starling Bank Limited",
+  "subnets": {
+    "ipv4": [
+      "45.152.92.0/24",
+      "45.152.94.0/24"
+    ],
+    "ipv6": []
+  }
+}

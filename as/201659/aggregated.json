@@ -1,0 +1,13 @@
+{
+  "asn": 201659,
+  "handle": "APHM",
+  "description": "Centre Hospitalier Regional de Marseille",
+  "subnets": {
+    "ipv4": [
+      "185.61.160.0/22"
+    ],
+    "ipv6": [
+      "2a02:7ae0::/32"
+    ]
+  }
+}

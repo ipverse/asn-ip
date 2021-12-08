@@ -1,0 +1,16 @@
+{
+  "asn": 48292,
+  "handle": "INTIBU",
+  "description": "CIKLET ILETISIM TASARIM VE ORG. TIC. LTD. STI.",
+  "subnets": {
+    "ipv4": [
+      "213.238.160.0/22",
+      "213.238.164.0/23"
+    ],
+    "ipv6": [
+      "2a0f:6580::/44",
+      "2a0f:6580:101::/48",
+      "2a0f:6580:103::/48"
+    ]
+  }
+}

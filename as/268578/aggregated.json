@@ -1,0 +1,11 @@
+{
+  "asn": 268578,
+  "handle": "CONECTAFIBER-TELECOM",
+  "description": "Conectafiber Telecom",
+  "subnets": {
+    "ipv4": [
+      "45.163.176.0/22"
+    ],
+    "ipv6": []
+  }
+}

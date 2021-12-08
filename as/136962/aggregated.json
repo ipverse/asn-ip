@@ -1,0 +1,11 @@
+{
+  "asn": 136962,
+  "handle": "EGIX-AP",
+  "description": "Egixnet Networks Limited",
+  "subnets": {
+    "ipv4": [
+      "103.100.152.0/22"
+    ],
+    "ipv6": []
+  }
+}

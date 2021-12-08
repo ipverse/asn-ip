@@ -1,0 +1,13 @@
+{
+  "asn": 3557,
+  "handle": "ISC",
+  "description": "Internet Systems Consortium, Inc.",
+  "subnets": {
+    "ipv4": [
+      "192.5.4.0/23"
+    ],
+    "ipv6": [
+      "2001:500:2e::/47"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asn": 140739,
+  "handle": "USDC-VN",
+  "description": "USDC TECHNOLOGY JSC",
+  "subnets": {
+    "ipv4": [
+      "103.152.48.0/23"
+    ],
+    "ipv6": []
+  }
+}

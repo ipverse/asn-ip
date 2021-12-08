@@ -1,0 +1,12 @@
+{
+  "asn": 267502,
+  "handle": "SSNET-PROVEDOR",
+  "description": "SSNet Provedor",
+  "subnets": {
+    "ipv4": [
+      "201.182.68.0/24",
+      "201.182.70.0/23"
+    ],
+    "ipv6": []
+  }
+}

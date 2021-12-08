@@ -1,0 +1,13 @@
+{
+  "asn": 20965,
+  "handle": "GEANT",
+  "description": "GEANT Vereniging",
+  "subnets": {
+    "ipv4": [
+      "62.40.96.0/19"
+    ],
+    "ipv6": [
+      "2001:798::/32"
+    ]
+  }
+}

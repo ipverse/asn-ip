@@ -1,0 +1,13 @@
+{
+  "asn": 134676,
+  "handle": "XENIALBB1-AP",
+  "description": "Xenial Broadband",
+  "subnets": {
+    "ipv4": [
+      "103.195.204.0/23"
+    ],
+    "ipv6": [
+      "2404:e3c0::/32"
+    ]
+  }
+}

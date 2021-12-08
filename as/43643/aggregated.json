@@ -1,0 +1,11 @@
+{
+  "asn": 43643,
+  "handle": "TAP",
+  "description": "Transportes Aereos Portugueses SA",
+  "subnets": {
+    "ipv4": [
+      "91.198.90.0/24"
+    ],
+    "ipv6": []
+  }
+}

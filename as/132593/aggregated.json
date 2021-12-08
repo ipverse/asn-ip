@@ -1,0 +1,11 @@
+{
+  "asn": 132593,
+  "handle": "HELLOWORLD-AP",
+  "description": "Helloworld Travel Services (NZ) LTD",
+  "subnets": {
+    "ipv4": [
+      "103.114.207.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 211966,
+  "handle": "ROCA-NINT",
+  "description": "Rock Internet SL",
+  "subnets": {
+    "ipv4": [
+      "85.204.36.0/22",
+      "185.81.120.0/22"
+    ],
+    "ipv6": []
+  }
+}

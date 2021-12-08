@@ -1,0 +1,13 @@
+{
+  "asn": 141988,
+  "handle": "OPTIMUS-AP",
+  "description": "Optimus Technologies",
+  "subnets": {
+    "ipv4": [
+      "103.163.246.0/23"
+    ],
+    "ipv6": [
+      "2001:df6:3180::/48"
+    ]
+  }
+}

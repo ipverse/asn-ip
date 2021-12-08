@@ -1,0 +1,14 @@
+{
+  "asn": 63188,
+  "handle": "ICOGUNNISON",
+  "description": "Visionary Communications, Inc.",
+  "subnets": {
+    "ipv4": [
+      "63.251.186.0/23",
+      "64.74.184.0/23",
+      "64.74.186.0/24",
+      "69.25.218.0/24"
+    ],
+    "ipv6": []
+  }
+}

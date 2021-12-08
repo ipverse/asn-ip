@@ -1,0 +1,11 @@
+{
+  "asn": 6209,
+  "handle": "NFL2",
+  "description": "National Football League",
+  "subnets": {
+    "ipv4": [
+      "104.37.88.0/21"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 39222,
+  "handle": "KABELPLUS",
+  "description": "PP Kabel-Plus",
+  "subnets": {
+    "ipv4": [
+      "193.30.245.0/24",
+      "194.165.46.0/24"
+    ],
+    "ipv6": []
+  }
+}

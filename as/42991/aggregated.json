@@ -1,0 +1,12 @@
+{
+  "asn": 42991,
+  "handle": "HNET",
+  "description": "BioNet LLC",
+  "subnets": {
+    "ipv4": [
+      "91.196.36.0/22",
+      "91.204.188.0/22"
+    ],
+    "ipv6": []
+  }
+}

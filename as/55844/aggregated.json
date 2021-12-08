@@ -1,0 +1,15 @@
+{
+  "asn": 55844,
+  "handle": "PROCESSINGCENTER-AP",
+  "description": "TRUE INTERNET CORPORATION CO. LTD.",
+  "subnets": {
+    "ipv4": [
+      "119.46.243.0/24",
+      "203.155.156.0/24"
+    ],
+    "ipv6": [
+      "2001:fb0:1078::/48",
+      "2405:a000:13::/48"
+    ]
+  }
+}

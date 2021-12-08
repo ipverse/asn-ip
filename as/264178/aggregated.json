@@ -1,0 +1,13 @@
+{
+  "asn": 264178,
+  "handle": "COONEXAO-TELECOM-E",
+  "description": "Coonexão Telecom e Informática EIRELI",
+  "subnets": {
+    "ipv4": [
+      "138.99.72.0/22"
+    ],
+    "ipv6": [
+      "2804:23b4::/32"
+    ]
+  }
+}

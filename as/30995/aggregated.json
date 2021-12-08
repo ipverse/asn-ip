@@ -1,0 +1,11 @@
+{
+  "asn": 30995,
+  "handle": "CIBEG",
+  "description": "Vodafone Data",
+  "subnets": {
+    "ipv4": [
+      "41.223.240.0/22"
+    ],
+    "ipv6": []
+  }
+}

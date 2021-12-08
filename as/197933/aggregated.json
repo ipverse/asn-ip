@@ -1,0 +1,13 @@
+{
+  "asn": 197933,
+  "handle": "GIGASET",
+  "description": "Gigaset Communications Polska Sp. z o.o.",
+  "subnets": {
+    "ipv4": [
+      "91.230.17.0/24"
+    ],
+    "ipv6": [
+      "2001:67c:710::/48"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 266152,
+  "handle": "PJM-TELECOM",
+  "description": "PJM TELECOM",
+  "subnets": {
+    "ipv4": [
+      "45.6.36.0/22"
+    ],
+    "ipv6": [
+      "2804:3b7c::/32"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 265724,
+  "handle": "TENEDA-CORPORACION-CIA-LTDA",
+  "description": "Teneda Corporación CIA. LTDA",
+  "subnets": {
+    "ipv4": [
+      "45.6.224.0/22"
+    ],
+    "ipv6": [
+      "2803:9dc0::/32"
+    ]
+  }
+}

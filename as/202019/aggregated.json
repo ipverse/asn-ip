@@ -1,0 +1,12 @@
+{
+  "asn": 202019,
+  "handle": "NUMERGY",
+  "description": "Numergy SAS",
+  "subnets": {
+    "ipv4": [
+      "95.181.220.0/22",
+      "185.39.216.0/22"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 212169,
+  "handle": "TECH-RMMINET",
+  "description": "TECH ROOM INTERNET LTD",
+  "subnets": {
+    "ipv4": [
+      "77.220.200.0/22",
+      "212.23.192.0/24"
+    ],
+    "ipv6": []
+  }
+}

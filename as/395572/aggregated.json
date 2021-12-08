@@ -1,0 +1,12 @@
+{
+  "asn": 395572,
+  "handle": "CLEARWINDS",
+  "description": "Clear Winds Technologies Incorporated",
+  "subnets": {
+    "ipv4": [
+      "12.181.20.0/24",
+      "97.65.10.0/24"
+    ],
+    "ipv6": []
+  }
+}

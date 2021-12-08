@@ -1,0 +1,11 @@
+{
+  "asn": 139632,
+  "handle": "MIRPURNET-AP",
+  "description": "Mirpur Net",
+  "subnets": {
+    "ipv4": [
+      "103.142.184.0/23"
+    ],
+    "ipv6": []
+  }
+}

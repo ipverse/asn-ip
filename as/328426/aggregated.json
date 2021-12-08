@@ -1,0 +1,11 @@
+{
+  "asn": 328426,
+  "handle": "ZONKE-WIFI",
+  "description": "Zonke Wifi Private Company",
+  "subnets": {
+    "ipv4": [
+      "102.130.240.0/21"
+    ],
+    "ipv6": []
+  }
+}

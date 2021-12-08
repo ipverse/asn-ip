@@ -1,0 +1,12 @@
+{
+  "asn": 41245,
+  "handle": "ITRANSITION",
+  "description": "ITRANSITION CJSC",
+  "subnets": {
+    "ipv4": [
+      "93.170.143.0/24",
+      "93.171.6.0/24"
+    ],
+    "ipv6": []
+  }
+}

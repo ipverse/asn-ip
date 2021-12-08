@@ -1,0 +1,13 @@
+{
+  "asn": 266115,
+  "handle": "TELEART-SERVICOS-DE",
+  "description": "TELEART - SERVICOS DE TELEFONIA \u0026 COMUNICACAO",
+  "subnets": {
+    "ipv4": [
+      "45.5.252.0/22"
+    ],
+    "ipv6": [
+      "2804:3ae0::/32"
+    ]
+  }
+}

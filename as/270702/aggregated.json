@@ -1,0 +1,14 @@
+{
+  "asn": 270702,
+  "handle": "ARAXINGU-TELECOMUNICACOES-LTDA",
+  "description": "ARAXINGU TELECOMUNICACOES LTDA",
+  "subnets": {
+    "ipv4": [
+      "186.209.120.0/23",
+      "186.209.123.0/24"
+    ],
+    "ipv6": [
+      "2804:7008::/32"
+    ]
+  }
+}

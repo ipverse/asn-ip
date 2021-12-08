@@ -1,0 +1,13 @@
+{
+  "asn": 25304,
+  "handle": "UNITBV",
+  "description": "Universitatea TRANSILVANIA Brasov",
+  "subnets": {
+    "ipv4": [
+      "193.254.230.0/23"
+    ],
+    "ipv6": [
+      "2001:678:ecc::/48"
+    ]
+  }
+}

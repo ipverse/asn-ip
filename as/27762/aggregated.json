@@ -1,0 +1,12 @@
+{
+  "asn": 27762,
+  "handle": "CONET-NV",
+  "description": "Conet N.V.",
+  "subnets": {
+    "ipv4": [
+      "190.121.223.0/24",
+      "190.121.240.0/20"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asn": 52230,
+  "handle": "MAPFRE-COMPANIA-DE-SEGUROS",
+  "description": "Mapfre Compañia de Seguros",
+  "subnets": {
+    "ipv4": [
+      "200.54.115.0/24"
+    ],
+    "ipv6": []
+  }
+}

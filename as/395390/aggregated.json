@@ -1,0 +1,12 @@
+{
+  "asn": 395390,
+  "handle": "ICSCBROADBAND",
+  "description": "ICS",
+  "subnets": {
+    "ipv4": [
+      "64.64.114.0/24",
+      "149.57.24.0/24"
+    ],
+    "ipv6": []
+  }
+}

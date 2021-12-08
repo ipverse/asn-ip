@@ -1,0 +1,14 @@
+{
+  "asn": 56755,
+  "handle": "SECUREBIT",
+  "description": "Securebit AG",
+  "subnets": {
+    "ipv4": [
+      "146.19.139.0/24"
+    ],
+    "ipv6": [
+      "2a10:ccc0::/48",
+      "2a10:ccc0:300::/48"
+    ]
+  }
+}

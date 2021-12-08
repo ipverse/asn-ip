@@ -1,0 +1,13 @@
+{
+  "asn": 50964,
+  "handle": "KIVBF",
+  "description": "Kommunale Informationsverarbeitung Baden-Franken",
+  "subnets": {
+    "ipv4": [
+      "91.205.76.0/22",
+      "194.59.36.0/22",
+      "194.76.38.0/23"
+    ],
+    "ipv6": []
+  }
+}

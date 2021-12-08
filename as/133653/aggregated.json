@@ -1,0 +1,13 @@
+{
+  "asn": 133653,
+  "handle": "CIS-IN",
+  "description": "Cyber Infrastructure (P) Limited",
+  "subnets": {
+    "ipv4": [
+      "103.47.44.0/22"
+    ],
+    "ipv6": [
+      "2407:39c0::/32"
+    ]
+  }
+}

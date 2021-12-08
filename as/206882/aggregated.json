@@ -1,0 +1,11 @@
+{
+  "asn": 206882,
+  "handle": "WIFILINKS",
+  "description": "WIFILINKS SL",
+  "subnets": {
+    "ipv4": [
+      "193.238.120.0/22"
+    ],
+    "ipv6": []
+  }
+}

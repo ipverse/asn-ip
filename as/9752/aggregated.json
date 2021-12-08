@@ -1,0 +1,15 @@
+{
+  "asn": 9752,
+  "handle": "FKNET-IN",
+  "description": "Flipkart Internet Pvt Ltd",
+  "subnets": {
+    "ipv4": [
+      "103.4.254.0/23",
+      "163.53.76.0/22"
+    ],
+    "ipv6": [
+      "2001:df0:23e::/48",
+      "2401:c280::/32"
+    ]
+  }
+}

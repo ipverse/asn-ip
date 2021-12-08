@@ -1,0 +1,13 @@
+{
+  "asn": 29442,
+  "handle": "INETCOM",
+  "description": "Internet Communications LLC",
+  "subnets": {
+    "ipv4": [
+      "193.135.112.0/22"
+    ],
+    "ipv6": [
+      "2a02:cac0::/29"
+    ]
+  }
+}

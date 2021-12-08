@@ -1,0 +1,13 @@
+{
+  "asn": 203304,
+  "handle": "NETXP",
+  "description": "Almond s.a.s.",
+  "subnets": {
+    "ipv4": [
+      "185.11.190.0/24"
+    ],
+    "ipv6": [
+      "2a03:74c0::/32"
+    ]
+  }
+}

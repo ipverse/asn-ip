@@ -1,0 +1,14 @@
+{
+  "asn": 264228,
+  "handle": "BRASIL-STARLINK-TELECOMUNICACOES",
+  "description": "BRASIL STARLINK TELECOMUNICACOES LTDA - EPP",
+  "subnets": {
+    "ipv4": [
+      "168.195.100.0/22",
+      "190.109.64.0/22"
+    ],
+    "ipv6": [
+      "2804:2488::/32"
+    ]
+  }
+}

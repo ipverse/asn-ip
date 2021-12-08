@@ -1,0 +1,13 @@
+{
+  "asn": 206936,
+  "handle": "FIDOR-SOLUTIONS-AG",
+  "description": "Fidor Solutions AG",
+  "subnets": {
+    "ipv4": [
+      "185.160.240.0/22"
+    ],
+    "ipv6": [
+      "2a0a:8500::/29"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 269256,
+  "handle": "INFOLINK-INTERNET-EIRELI",
+  "description": "INFOLINK INTERNET EIRELI",
+  "subnets": {
+    "ipv4": [
+      "45.183.36.0/22"
+    ],
+    "ipv6": [
+      "2804:61c8::/32"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 262601,
+  "handle": "GTNET-TELECOM",
+  "description": "GtNet Telecom",
+  "subnets": {
+    "ipv4": [
+      "177.75.240.0/20"
+    ],
+    "ipv6": [
+      "2804:6ac::/32"
+    ]
+  }
+}

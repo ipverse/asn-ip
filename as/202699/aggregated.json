@@ -1,0 +1,14 @@
+{
+  "asn": 202699,
+  "handle": "ASSERTECH",
+  "description": "Asser Al-Technologia Information Technology Company Limited",
+  "subnets": {
+    "ipv4": [
+      "45.82.60.0/24",
+      "45.82.63.0/24",
+      "185.21.139.0/24",
+      "185.117.8.0/22"
+    ],
+    "ipv6": []
+  }
+}

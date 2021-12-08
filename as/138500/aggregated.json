@@ -1,0 +1,11 @@
+{
+  "asn": 138500,
+  "handle": "FIBERTEL2-AP",
+  "description": "FIBERTEL FIBERNET PVT. LTD",
+  "subnets": {
+    "ipv4": [
+      "103.127.48.0/23"
+    ],
+    "ipv6": []
+  }
+}

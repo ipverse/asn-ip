@@ -1,0 +1,13 @@
+{
+  "asn": 51374,
+  "handle": "UNICORN-SYSTEMS",
+  "description": "Unicorn Systems ltd.",
+  "subnets": {
+    "ipv4": [
+      "88.203.187.0/24",
+      "88.203.188.0/23",
+      "88.203.190.0/24"
+    ],
+    "ipv6": []
+  }
+}

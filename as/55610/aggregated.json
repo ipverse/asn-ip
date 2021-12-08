@@ -1,0 +1,12 @@
+{
+  "asn": 55610,
+  "handle": "MSAFER-KR-KR",
+  "description": "KAIT",
+  "subnets": {
+    "ipv4": [
+      "61.108.110.0/24",
+      "211.55.53.0/24"
+    ],
+    "ipv6": []
+  }
+}

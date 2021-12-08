@@ -1,0 +1,11 @@
+{
+  "asn": 393256,
+  "handle": "DTE",
+  "description": "DTE Energy Company",
+  "subnets": {
+    "ipv4": [
+      "204.124.152.0/22"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 8519,
+  "handle": "ESA-MOSNET",
+  "description": "European Space Agency (ESA)",
+  "subnets": {
+    "ipv4": [
+      "195.74.160.0/19"
+    ],
+    "ipv6": [
+      "2001:638:30d::/48"
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 398119,
+  "handle": "DORDT-UNIVERSITY",
+  "description": "Dordt University",
+  "subnets": {
+    "ipv4": [
+      "198.97.44.0/24"
+    ],
+    "ipv6": [
+      "2607:fe28:10::/48",
+      "2610:130:3401::/48"
+    ]
+  }
+}

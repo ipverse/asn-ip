@@ -1,0 +1,13 @@
+{
+  "asn": 269194,
+  "handle": "STAR1-INTERNET",
+  "description": "STAR1 INTERNET",
+  "subnets": {
+    "ipv4": [
+      "45.180.216.0/22"
+    ],
+    "ipv6": [
+      "2804:60d4::/32"
+    ]
+  }
+}

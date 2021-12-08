@@ -1,0 +1,13 @@
+{
+  "asn": 212603,
+  "handle": "PAYONE-ECOM",
+  "description": "PAYONE GmbH",
+  "subnets": {
+    "ipv4": [
+      "45.143.176.0/22",
+      "185.60.20.0/24",
+      "195.200.194.0/24"
+    ],
+    "ipv6": []
+  }
+}

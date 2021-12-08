@@ -1,0 +1,13 @@
+{
+  "asn": 267661,
+  "handle": "MCA-INTERNET-PROVIDER-LTDA",
+  "description": "MCA Internet Provider Ltda",
+  "subnets": {
+    "ipv4": [
+      "45.224.160.0/22"
+    ],
+    "ipv6": [
+      "2804:44ec::/32"
+    ]
+  }
+}

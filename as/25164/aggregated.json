@@ -1,0 +1,15 @@
+{
+  "asn": 25164,
+  "handle": "FLUGHAFEN-ZUERICH",
+  "description": "Flughafen Zurich AG",
+  "subnets": {
+    "ipv4": [
+      "193.192.232.0/23",
+      "194.146.212.0/22",
+      "195.177.234.0/23"
+    ],
+    "ipv6": [
+      "2a01:200::/32"
+    ]
+  }
+}

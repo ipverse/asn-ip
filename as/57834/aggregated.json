@@ -1,0 +1,12 @@
+{
+  "asn": 57834,
+  "handle": "BPPETROLLERI",
+  "description": "Bp Petrolleri A.S",
+  "subnets": {
+    "ipv4": [
+      "185.197.124.0/23",
+      "185.197.126.0/24"
+    ],
+    "ipv6": []
+  }
+}

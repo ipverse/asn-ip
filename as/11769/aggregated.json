@@ -1,0 +1,14 @@
+{
+  "asn": 11769,
+  "handle": "MOBILENETICS-LA-GW1",
+  "description": "Mobilenetics Corporation",
+  "subnets": {
+    "ipv4": [
+      "207.246.225.0/24",
+      "207.246.226.0/23",
+      "207.246.228.0/22",
+      "207.246.232.0/21"
+    ],
+    "ipv6": []
+  }
+}

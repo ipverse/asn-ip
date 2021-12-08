@@ -1,0 +1,11 @@
+{
+  "asn": 45160,
+  "handle": "LOTTERYWEST-AP",
+  "description": "Lotteries Commission of Western Australia",
+  "subnets": {
+    "ipv4": [
+      "203.142.222.0/24"
+    ],
+    "ipv6": []
+  }
+}

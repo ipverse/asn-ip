@@ -1,0 +1,11 @@
+{
+  "asn": 137911,
+  "handle": "PMO-AP",
+  "description": "Prime Minister Office",
+  "subnets": {
+    "ipv4": [
+      "103.117.11.0/24"
+    ],
+    "ipv6": []
+  }
+}

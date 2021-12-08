@@ -1,0 +1,13 @@
+{
+  "asn": 201304,
+  "handle": "CENTRALNIC-ANYCAST-E",
+  "description": "CentralNic Ltd",
+  "subnets": {
+    "ipv4": [
+      "212.18.248.0/24"
+    ],
+    "ipv6": [
+      "2a04:2b00:13ee::/48"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 269542,
+  "handle": "TSCM-NET-ANGRA",
+  "description": "TSCM NET ANGRA TELECOMUNICACOES EIRELI",
+  "subnets": {
+    "ipv4": [
+      "45.188.224.0/22"
+    ],
+    "ipv6": [
+      "2804:6638::/32"
+    ]
+  }
+}

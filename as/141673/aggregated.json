@@ -1,0 +1,12 @@
+{
+  "asn": 141673,
+  "handle": "IDNIC-MAMURA-ID",
+  "description": "PT Mamura Inter Media",
+  "subnets": {
+    "ipv4": [
+      "103.124.139.0/24",
+      "103.163.102.0/23"
+    ],
+    "ipv6": []
+  }
+}

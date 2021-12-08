@@ -1,0 +1,12 @@
+{
+  "asn": 31947,
+  "handle": "SWANSON-HEALTH",
+  "description": "Swanson Health Products Inc.",
+  "subnets": {
+    "ipv4": [
+      "64.84.81.0/24",
+      "65.214.229.0/24"
+    ],
+    "ipv6": []
+  }
+}

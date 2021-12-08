@@ -1,0 +1,12 @@
+{
+  "asn": 6146,
+  "handle": "ZUORA",
+  "description": "Zuora, Inc",
+  "subnets": {
+    "ipv4": [
+      "64.79.155.0/24",
+      "136.179.50.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 266534,
+  "handle": "AZECOM-INTERNET",
+  "description": "AZECOM INTERNET",
+  "subnets": {
+    "ipv4": [
+      "160.238.144.0/22"
+    ],
+    "ipv6": [
+      "2804:3d7c::/32"
+    ]
+  }
+}

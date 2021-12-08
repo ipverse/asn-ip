@@ -1,0 +1,12 @@
+{
+  "asn": 56798,
+  "handle": "HIDORA",
+  "description": "HIDORA SA",
+  "subnets": {
+    "ipv4": [
+      "45.86.36.0/24",
+      "193.17.33.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 61394,
+  "handle": "GL-EVENTS-SI",
+  "description": "GL EVENTS SI SNC",
+  "subnets": {
+    "ipv4": [
+      "185.9.152.0/22"
+    ],
+    "ipv6": [
+      "2a03:2fc0::/32"
+    ]
+  }
+}

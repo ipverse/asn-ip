@@ -1,0 +1,13 @@
+{
+  "asn": 132873,
+  "handle": "CONEXIM-AC",
+  "description": "Conexim Australia Pty. Limited",
+  "subnets": {
+    "ipv4": [
+      "203.124.190.0/24"
+    ],
+    "ipv6": [
+      "2401:401::/32"
+    ]
+  }
+}

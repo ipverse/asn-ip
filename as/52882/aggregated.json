@@ -1,0 +1,11 @@
+{
+  "asn": 52882,
+  "handle": "ECRITEL-DO-BRASIL",
+  "description": "Ecritel do Brasil Hospedagem de Dados",
+  "subnets": {
+    "ipv4": [
+      "186.233.200.0/22"
+    ],
+    "ipv6": []
+  }
+}

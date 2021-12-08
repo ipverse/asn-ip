@@ -1,0 +1,12 @@
+{
+  "asn": 42372,
+  "handle": "DNETUA",
+  "description": "Netassist Limited",
+  "subnets": {
+    "ipv4": [
+      "62.205.133.0/24",
+      "193.33.64.0/23"
+    ],
+    "ipv6": []
+  }
+}

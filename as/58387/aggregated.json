@@ -1,0 +1,13 @@
+{
+  "asn": 58387,
+  "handle": "BPOM-ID",
+  "description": "Badan Pengawas Obat dan Makanan",
+  "subnets": {
+    "ipv4": [
+      "103.5.148.0/24",
+      "103.84.118.0/24",
+      "103.116.204.0/23"
+    ],
+    "ipv6": []
+  }
+}

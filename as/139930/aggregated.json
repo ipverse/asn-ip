@@ -1,0 +1,11 @@
+{
+  "asn": 139930,
+  "handle": "MYLAN-AP",
+  "description": "Mylan Laboratories Ltd",
+  "subnets": {
+    "ipv4": [
+      "103.141.207.0/24"
+    ],
+    "ipv6": []
+  }
+}

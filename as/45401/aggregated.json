@@ -1,0 +1,12 @@
+{
+  "asn": 45401,
+  "handle": "NICEPAYMENTS-KR-KR",
+  "description": "NICEPAYMENTS.CO",
+  "subnets": {
+    "ipv4": [
+      "121.133.126.0/24",
+      "211.47.33.0/24"
+    ],
+    "ipv6": []
+  }
+}

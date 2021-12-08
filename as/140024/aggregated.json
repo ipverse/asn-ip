@@ -1,0 +1,11 @@
+{
+  "asn": 140024,
+  "handle": "IDNIC-PELINDO3-ID",
+  "description": "PT Pelabuhan Indonesia III (Persero)",
+  "subnets": {
+    "ipv4": [
+      "103.149.155.0/24"
+    ],
+    "ipv6": []
+  }
+}

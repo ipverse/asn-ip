@@ -1,0 +1,12 @@
+{
+  "asn": 32756,
+  "handle": "CAMBRIANCOLLEGE",
+  "description": "Cambrian College of Applied Arts \u0026 Technology",
+  "subnets": {
+    "ipv4": [
+      "38.112.107.0/24",
+      "192.139.224.0/24"
+    ],
+    "ipv6": []
+  }
+}

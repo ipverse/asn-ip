@@ -1,0 +1,12 @@
+{
+  "asn": 24239,
+  "handle": "TWD2-NET-AP",
+  "description": "Tianhai InfoTech",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a0c:b641:571::/48",
+      "2a0e:aa06:490::/44"
+    ]
+  }
+}

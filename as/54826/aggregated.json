@@ -1,0 +1,14 @@
+{
+  "asn": 54826,
+  "handle": "WITG",
+  "description": "Western I.T. Group Inc.",
+  "subnets": {
+    "ipv4": [
+      "192.96.0.0/24",
+      "192.110.172.0/22"
+    ],
+    "ipv6": [
+      "2604:7480::/47"
+    ]
+  }
+}

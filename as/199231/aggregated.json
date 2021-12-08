@@ -1,0 +1,12 @@
+{
+  "asn": 199231,
+  "handle": "DATALAHTI",
+  "description": "Datalahti Oy",
+  "subnets": {
+    "ipv4": [
+      "185.4.228.0/22",
+      "213.135.92.0/24"
+    ],
+    "ipv6": []
+  }
+}

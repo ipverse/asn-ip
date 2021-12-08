@@ -1,0 +1,11 @@
+{
+  "asn": 138102,
+  "handle": "IDNIC-BARAYA-ID",
+  "description": "PT Baraya Telematika Nusantara",
+  "subnets": {
+    "ipv4": [
+      "103.125.116.0/22"
+    ],
+    "ipv6": []
+  }
+}

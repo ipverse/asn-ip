@@ -1,0 +1,13 @@
+{
+  "asn": 9137,
+  "handle": "UNO",
+  "description": "Uno Communications SpA",
+  "subnets": {
+    "ipv4": [
+      "213.204.0.0/19"
+    ],
+    "ipv6": [
+      "2a02:5640::/29"
+    ]
+  }
+}

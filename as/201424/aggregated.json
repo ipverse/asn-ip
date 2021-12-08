@@ -1,0 +1,13 @@
+{
+  "asn": 201424,
+  "handle": "OLISA",
+  "description": "Olisa Solutions B.V.",
+  "subnets": {
+    "ipv4": [
+      "185.61.196.0/22"
+    ],
+    "ipv6": [
+      "2a02:7c20::/32"
+    ]
+  }
+}

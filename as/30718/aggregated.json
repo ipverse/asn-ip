@@ -1,0 +1,13 @@
+{
+  "asn": 30718,
+  "handle": "SSI-WESTCOAST",
+  "description": "Survey Sampling International, LLC",
+  "subnets": {
+    "ipv4": [
+      "64.0.29.0/24",
+      "198.232.219.0/24",
+      "208.53.56.0/24"
+    ],
+    "ipv6": []
+  }
+}

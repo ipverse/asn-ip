@@ -1,0 +1,11 @@
+{
+  "asn": 28044,
+  "handle": "ADT-SECURITY-SERVICES",
+  "description": "ADT SECURITY SERVICES",
+  "subnets": {
+    "ipv4": [
+      "190.196.34.0/24"
+    ],
+    "ipv6": []
+  }
+}

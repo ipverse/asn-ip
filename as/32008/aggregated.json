@@ -1,0 +1,12 @@
+{
+  "asn": 32008,
+  "handle": "PAYCHEX-L",
+  "description": "Paychex Incorporated",
+  "subnets": {
+    "ipv4": [
+      "63.144.203.0/24",
+      "63.158.114.0/24"
+    ],
+    "ipv6": []
+  }
+}

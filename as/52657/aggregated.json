@@ -1,0 +1,14 @@
+{
+  "asn": 52657,
+  "handle": "NORTE-TELECOMUNICACOES-SERVICOS",
+  "description": "NORTE TELECOMUNICAÇÕES SERVIÇOS DE INTERNET LTDA",
+  "subnets": {
+    "ipv4": [
+      "45.238.123.0/24",
+      "177.104.240.0/20"
+    ],
+    "ipv6": [
+      "2804:5bcc::/32"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 204623,
+  "handle": "NEWLINE",
+  "description": "OOO New Line",
+  "subnets": {
+    "ipv4": [
+      "185.245.36.0/22"
+    ],
+    "ipv6": [
+      "2a12:3580::/29"
+    ]
+  }
+}

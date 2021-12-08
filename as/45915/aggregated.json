@@ -1,0 +1,13 @@
+{
+  "asn": 45915,
+  "handle": "YAHOO-CORP-BWS",
+  "description": "Yahoo! Web Services India Pvt Ltd",
+  "subnets": {
+    "ipv4": [
+      "202.4.164.0/24"
+    ],
+    "ipv6": [
+      "2406:8600:efaf::/48"
+    ]
+  }
+}

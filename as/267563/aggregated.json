@@ -1,0 +1,13 @@
+{
+  "asn": 267563,
+  "handle": "EI-TELECOM-EIRELI-EPP",
+  "description": "EI TELECOM EIRELI - EPP",
+  "subnets": {
+    "ipv4": [
+      "45.70.128.0/22"
+    ],
+    "ipv6": [
+      "2804:4354::/32"
+    ]
+  }
+}

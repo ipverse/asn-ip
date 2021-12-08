@@ -1,0 +1,12 @@
+{
+  "asn": 131779,
+  "handle": "IDNIC-BDSI-DPR-ID",
+  "description": "Bidang Data dan Sarana Informasi (BDSI) Sekjen DPR RI",
+  "subnets": {
+    "ipv4": [
+      "103.16.220.0/24",
+      "103.18.181.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asn": 267234,
+  "handle": "SG-TELECOM",
+  "description": "SG TELECOM",
+  "subnets": {
+    "ipv4": [
+      "45.231.240.0/22"
+    ],
+    "ipv6": []
+  }
+}

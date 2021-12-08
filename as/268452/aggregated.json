@@ -1,0 +1,11 @@
+{
+  "asn": 268452,
+  "handle": "FLASH-SPEED-NET",
+  "description": "FLASH SPEED NET",
+  "subnets": {
+    "ipv4": [
+      "45.160.244.0/22"
+    ],
+    "ipv6": []
+  }
+}

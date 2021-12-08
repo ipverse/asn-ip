@@ -1,0 +1,13 @@
+{
+  "asn": 48386,
+  "handle": "MISAKA-ES",
+  "description": "Misaka Network, Inc.",
+  "subnets": {
+    "ipv4": [
+      "194.156.155.0/24"
+    ],
+    "ipv6": [
+      "2a0d:5642:113::/48"
+    ]
+  }
+}

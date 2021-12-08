@@ -1,0 +1,13 @@
+{
+  "asn": 268275,
+  "handle": "GOOD-TELECOM-PROVEDOR",
+  "description": "GOOD TELECOM PROVEDOR DE INTERNET LTDA",
+  "subnets": {
+    "ipv4": [
+      "45.237.60.0/22"
+    ],
+    "ipv6": [
+      "2804:4ea8::/32"
+    ]
+  }
+}

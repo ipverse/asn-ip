@@ -1,0 +1,13 @@
+{
+  "asn": 262827,
+  "handle": "OBTI-OPERADORA",
+  "description": "OBTI OPERADORA",
+  "subnets": {
+    "ipv4": [
+      "187.84.176.0/20"
+    ],
+    "ipv6": [
+      "2804:ccc::/32"
+    ]
+  }
+}

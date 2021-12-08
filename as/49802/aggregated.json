@@ -1,0 +1,11 @@
+{
+  "asn": 49802,
+  "handle": "ETK",
+  "description": "Elaketurvakeskus",
+  "subnets": {
+    "ipv4": [
+      "91.213.97.0/24"
+    ],
+    "ipv6": []
+  }
+}

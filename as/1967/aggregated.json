@@ -1,0 +1,13 @@
+{
+  "asn": 1967,
+  "handle": "METU-NET",
+  "description": "Middle East Technical University / Orta Dogu Teknik Universitesi",
+  "subnets": {
+    "ipv4": [
+      "144.122.0.0/16"
+    ],
+    "ipv6": [
+      "2001:a98:30::/48"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 35479,
+  "handle": "ACTIVEBC",
+  "description": "ActiveBusinessConsult LLC",
+  "subnets": {
+    "ipv4": [
+      "193.168.128.0/23",
+      "193.168.217.0/24"
+    ],
+    "ipv6": []
+  }
+}

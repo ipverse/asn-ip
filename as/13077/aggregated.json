@@ -1,0 +1,13 @@
+{
+  "asn": 13077,
+  "handle": "NCFU",
+  "description": "North-Caucasus Federal University",
+  "subnets": {
+    "ipv4": [
+      "62.76.116.0/22",
+      "194.242.4.0/23",
+      "195.209.244.0/22"
+    ],
+    "ipv6": []
+  }
+}

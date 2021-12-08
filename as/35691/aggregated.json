@@ -1,0 +1,13 @@
+{
+  "asn": 35691,
+  "handle": "PLAN-COM",
+  "description": "Plan Communications Limited",
+  "subnets": {
+    "ipv4": [
+      "147.78.4.0/23"
+    ],
+    "ipv6": [
+      "2a09:19c0::/48"
+    ]
+  }
+}

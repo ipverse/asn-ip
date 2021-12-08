@@ -1,0 +1,11 @@
+{
+  "asn": 264156,
+  "handle": "TRIADE-INTERNET",
+  "description": "Triade Internet",
+  "subnets": {
+    "ipv4": [
+      "138.99.80.0/23"
+    ],
+    "ipv6": []
+  }
+}

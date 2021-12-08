@@ -1,0 +1,14 @@
+{
+  "asn": 22644,
+  "handle": "TJUH",
+  "description": "Thomas Jefferson University Hospitals",
+  "subnets": {
+    "ipv4": [
+      "147.140.0.0/18",
+      "147.140.80.0/20",
+      "147.140.96.0/19",
+      "147.140.128.0/17"
+    ],
+    "ipv6": []
+  }
+}

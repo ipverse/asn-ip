@@ -1,0 +1,13 @@
+{
+  "asn": 265495,
+  "handle": "RR-SERVICOS-LTDA",
+  "description": "RR SERVICOS LTDA",
+  "subnets": {
+    "ipv4": [
+      "170.78.52.0/22"
+    ],
+    "ipv6": [
+      "2804:3504::/32"
+    ]
+  }
+}

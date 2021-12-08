@@ -1,0 +1,11 @@
+{
+  "asn": 271280,
+  "handle": "GOLD-FIBER-TELECOM",
+  "description": "GOLD FIBER TELECOM",
+  "subnets": {
+    "ipv4": [
+      "190.12.152.0/22"
+    ],
+    "ipv6": []
+  }
+}

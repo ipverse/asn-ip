@@ -1,0 +1,15 @@
+{
+  "asn": 52547,
+  "handle": "PRIMATEC-TELECOM-LTDA",
+  "description": "PRIMATEC TELECOM LTDA",
+  "subnets": {
+    "ipv4": [
+      "170.233.52.0/22",
+      "177.152.176.0/21",
+      "200.11.8.0/21"
+    ],
+    "ipv6": [
+      "2804:e28::/32"
+    ]
+  }
+}

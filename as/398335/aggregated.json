@@ -1,0 +1,13 @@
+{
+  "asn": 398335,
+  "handle": "HELIO",
+  "description": "Helio Broadband, LLC",
+  "subnets": {
+    "ipv4": [
+      "45.42.156.0/22",
+      "64.32.52.0/22",
+      "209.172.24.0/21"
+    ],
+    "ipv6": []
+  }
+}

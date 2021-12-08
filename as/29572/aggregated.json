@@ -1,0 +1,12 @@
+{
+  "asn": 29572,
+  "handle": "GIMAX",
+  "description": "IPport ZAO",
+  "subnets": {
+    "ipv4": [
+      "79.137.172.0/24",
+      "195.177.204.0/23"
+    ],
+    "ipv6": []
+  }
+}

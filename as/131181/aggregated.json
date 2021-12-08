@@ -1,0 +1,12 @@
+{
+  "asn": 131181,
+  "handle": "FTCL-IN-AP",
+  "description": "Financial Technologies Communication Limited",
+  "subnets": {
+    "ipv4": [
+      "103.247.104.0/22",
+      "203.114.240.0/22"
+    ],
+    "ipv6": []
+  }
+}

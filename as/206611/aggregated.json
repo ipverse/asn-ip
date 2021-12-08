@@ -1,0 +1,12 @@
+{
+  "asn": 206611,
+  "handle": "ISPGROUP",
+  "description": "Provider for General Trading and Internet Services, LLC",
+  "subnets": {
+    "ipv4": [
+      "185.181.52.0/22",
+      "192.161.6.0/23"
+    ],
+    "ipv6": []
+  }
+}

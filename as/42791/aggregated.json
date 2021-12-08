@@ -1,0 +1,11 @@
+{
+  "asn": 42791,
+  "handle": "LOTERIJA-SI",
+  "description": "Loterija Slovenije",
+  "subnets": {
+    "ipv4": [
+      "91.213.131.0/24"
+    ],
+    "ipv6": []
+  }
+}

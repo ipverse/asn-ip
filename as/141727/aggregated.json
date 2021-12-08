@@ -1,0 +1,13 @@
+{
+  "asn": 141727,
+  "handle": "ADTPL-AP",
+  "description": "Advanced Design Technology Pty Ltd",
+  "subnets": {
+    "ipv4": [
+      "103.162.204.0/24"
+    ],
+    "ipv6": [
+      "2001:df5:fb80::/48"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 139251,
+  "handle": "JAHANGIRNAGAR-AP",
+  "description": "Jahangirnagar University",
+  "subnets": {
+    "ipv4": [
+      "103.140.98.0/23"
+    ],
+    "ipv6": [
+      "2001:df0:b980::/48"
+    ]
+  }
+}

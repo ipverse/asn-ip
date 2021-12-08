@@ -1,0 +1,13 @@
+{
+  "asn": 205728,
+  "handle": "AT-CF-IT",
+  "description": "Cream Finance IT Austria GmbH",
+  "subnets": {
+    "ipv4": [
+      "185.208.132.0/22"
+    ],
+    "ipv6": [
+      "2a0b:37c0::/29"
+    ]
+  }
+}

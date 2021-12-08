@@ -1,0 +1,13 @@
+{
+  "asn": 395491,
+  "handle": "RADIAN-GROUP-INC",
+  "description": "Radian Group, Inc",
+  "subnets": {
+    "ipv4": [
+      "12.149.13.0/24",
+      "12.161.119.0/24",
+      "208.74.14.0/23"
+    ],
+    "ipv6": []
+  }
+}

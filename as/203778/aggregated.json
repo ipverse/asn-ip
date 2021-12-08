@@ -1,0 +1,12 @@
+{
+  "asn": 203778,
+  "handle": "SPEEDNET",
+  "description": "SPEED-NET Arkadiusz Broniecki",
+  "subnets": {
+    "ipv4": [
+      "185.78.75.0/24",
+      "194.33.76.0/23"
+    ],
+    "ipv6": []
+  }
+}

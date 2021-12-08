@@ -1,0 +1,13 @@
+{
+  "asn": 198002,
+  "handle": "FDLNET-CZ",
+  "description": "FDLnet.CZ, s.r.o.",
+  "subnets": {
+    "ipv4": [
+      "149.255.64.0/19"
+    ],
+    "ipv6": [
+      "2a03:1180::/32"
+    ]
+  }
+}

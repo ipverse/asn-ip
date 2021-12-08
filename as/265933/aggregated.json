@@ -1,0 +1,13 @@
+{
+  "asn": 265933,
+  "handle": "CONNECTX-SERVICOS-DE",
+  "description": "connectx serviços de telecomunicações ltda",
+  "subnets": {
+    "ipv4": [
+      "164.163.0.0/22"
+    ],
+    "ipv6": [
+      "2804:4014::/32"
+    ]
+  }
+}

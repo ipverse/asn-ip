@@ -1,0 +1,13 @@
+{
+  "asn": 27795,
+  "handle": "NETVISION-SA",
+  "description": "Netvision S.A.",
+  "subnets": {
+    "ipv4": [
+      "200.1.200.0/21"
+    ],
+    "ipv6": [
+      "2803:5a40::/32"
+    ]
+  }
+}

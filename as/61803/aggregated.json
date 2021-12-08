@@ -1,0 +1,11 @@
+{
+  "asn": 61803,
+  "handle": "PROVEDOR-CORPORATIVO-INTERNET",
+  "description": "Provedor Corporativo Internet Ltda",
+  "subnets": {
+    "ipv4": [
+      "201.148.208.0/22"
+    ],
+    "ipv6": []
+  }
+}

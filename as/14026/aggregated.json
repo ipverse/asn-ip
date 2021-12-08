@@ -1,0 +1,12 @@
+{
+  "asn": 14026,
+  "handle": "NUCLEO-DE-INF",
+  "description": "Núcleo de Inf. e Coord. do Ponto BR - NIC.BR",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2801:80:1e11::/48",
+      "2801:80:1e21::/48"
+    ]
+  }
+}

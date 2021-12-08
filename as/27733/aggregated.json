@@ -1,0 +1,13 @@
+{
+  "asn": 27733,
+  "handle": "CENTRO-NACIONAL-DE",
+  "description": "Centro Nacional de Computacion",
+  "subnets": {
+    "ipv4": [
+      "200.10.228.0/22"
+    ],
+    "ipv6": [
+      "2001:1320::/32"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 9327,
+  "handle": "HOPCOUNT",
+  "description": "Vodafone New Zealand Limited",
+  "subnets": {
+    "ipv4": [
+      "199.212.93.0/24",
+      "205.233.243.0/24"
+    ],
+    "ipv6": []
+  }
+}

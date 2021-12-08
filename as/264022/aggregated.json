@@ -1,0 +1,14 @@
+{
+  "asn": 264022,
+  "handle": "REDE-CONEXAONET",
+  "description": "REDE CONEXAONET",
+  "subnets": {
+    "ipv4": [
+      "143.0.220.0/22",
+      "170.245.172.0/22"
+    ],
+    "ipv6": [
+      "2804:2990::/32"
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 210951,
+  "handle": "MIEGLNET",
+  "description": "Josef Miegl",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a0c:e640:102d::/48",
+      "2a0c:e640:102e::/47",
+      "2a0e:b107:15d0::/47",
+      "2a0e:b107:15d2::/48"
+    ]
+  }
+}

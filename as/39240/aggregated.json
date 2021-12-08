@@ -1,0 +1,12 @@
+{
+  "asn": 39240,
+  "handle": "SVYAZTELECOM",
+  "description": "SvyazTelecom Ltd.",
+  "subnets": {
+    "ipv4": [
+      "193.164.214.0/23",
+      "195.190.132.0/24"
+    ],
+    "ipv6": []
+  }
+}

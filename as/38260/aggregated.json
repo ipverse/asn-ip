@@ -1,0 +1,11 @@
+{
+  "asn": 38260,
+  "handle": "TNSI-AP",
+  "description": "Transaction Network Services",
+  "subnets": {
+    "ipv4": [
+      "113.197.112.0/20"
+    ],
+    "ipv6": []
+  }
+}

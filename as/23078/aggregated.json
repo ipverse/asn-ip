@@ -1,0 +1,13 @@
+{
+  "asn": 23078,
+  "handle": "LOUDOUN-CNTY-VA-GOVT",
+  "description": "County of Loudoun Virginia",
+  "subnets": {
+    "ipv4": [
+      "38.146.204.0/24",
+      "142.202.200.0/23",
+      "208.255.153.0/24"
+    ],
+    "ipv6": []
+  }
+}

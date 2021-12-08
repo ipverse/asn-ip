@@ -1,0 +1,13 @@
+{
+  "asn": 133838,
+  "handle": "INFOTEK-ID",
+  "description": "PT Infotek Global Network",
+  "subnets": {
+    "ipv4": [
+      "103.143.96.0/23",
+      "103.206.168.0/22",
+      "103.252.12.0/23"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 35704,
+  "handle": "ZIVIT",
+  "description": "ITZBUND",
+  "subnets": {
+    "ipv4": [
+      "80.245.144.0/20"
+    ],
+    "ipv6": [
+      "2a09:1480::/29"
+    ]
+  }
+}

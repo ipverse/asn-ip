@@ -1,0 +1,13 @@
+{
+  "asn": 61766,
+  "handle": "ADENOR-LUIZ-GNOATTO-ME",
+  "description": "Adenor Luiz Gnoatto ME",
+  "subnets": {
+    "ipv4": [
+      "200.24.72.0/21"
+    ],
+    "ipv6": [
+      "2804:18f8::/32"
+    ]
+  }
+}

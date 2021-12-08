@@ -1,0 +1,13 @@
+{
+  "asn": 201635,
+  "handle": "FR-JAUNEDEMARS",
+  "description": "Jaune de Mars SARL",
+  "subnets": {
+    "ipv4": [
+      "185.28.40.0/22"
+    ],
+    "ipv6": [
+      "2a00:72e0::/32"
+    ]
+  }
+}

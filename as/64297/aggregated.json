@@ -1,0 +1,11 @@
+{
+  "asn": 64297,
+  "handle": "GLOBALMANDIRI-ID",
+  "description": "PT Medialink Global Mandiri",
+  "subnets": {
+    "ipv4": [
+      "103.77.204.0/22"
+    ],
+    "ipv6": []
+  }
+}

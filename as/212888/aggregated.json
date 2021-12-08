@@ -1,0 +1,12 @@
+{
+  "asn": 212888,
+  "handle": "JOT23",
+  "description": "Tomasz Kepczynski",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a0e:b107:c00::/47",
+      "2a0e:b107:c03::/48"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 270450,
+  "handle": "CENTER-INFORMATICA-EIRELI-ME",
+  "description": "CENTER INFORMATICA EIRELI - ME",
+  "subnets": {
+    "ipv4": [
+      "200.50.212.0/22"
+    ],
+    "ipv6": [
+      "2804:6c2c::/32"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 399356,
+  "handle": "KOSCIUSKO-CONNECT-01",
+  "description": "Kosciusko Connect LLC",
+  "subnets": {
+    "ipv4": [
+      "206.206.160.0/19"
+    ],
+    "ipv6": [
+      "2606:2ec0::/32"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 48183,
+  "handle": "AP",
+  "description": "Uniwersytet Przyrodniczo Humanistyczny w Siedlcach",
+  "subnets": {
+    "ipv4": [
+      "91.209.20.0/24",
+      "91.210.48.0/22"
+    ],
+    "ipv6": []
+  }
+}

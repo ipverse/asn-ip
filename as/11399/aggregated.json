@@ -1,0 +1,12 @@
+{
+  "asn": 11399,
+  "handle": "WILLIAMSCOLLEGE",
+  "description": "Williams College",
+  "subnets": {
+    "ipv4": [
+      "137.165.0.0/16",
+      "204.225.173.0/24"
+    ],
+    "ipv6": []
+  }
+}

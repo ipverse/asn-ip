@@ -1,0 +1,12 @@
+{
+  "asn": 196743,
+  "handle": "INTERFRAME",
+  "description": "OU Interframe",
+  "subnets": {
+    "ipv4": [
+      "185.191.16.0/22",
+      "188.66.0.0/21"
+    ],
+    "ipv6": []
+  }
+}

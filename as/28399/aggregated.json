@@ -1,0 +1,12 @@
+{
+  "asn": 28399,
+  "handle": "BTU-COMUNICACION-SA-DE-CV",
+  "description": "BTU Comunicacion SA de CV",
+  "subnets": {
+    "ipv4": [
+      "200.33.20.0/24",
+      "201.131.20.0/22"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 269040,
+  "handle": "C-M-A-COSTA-PROVEDOR-ME",
+  "description": "C M A COSTA PROVEDOR - ME",
+  "subnets": {
+    "ipv4": [
+      "45.176.120.0/22"
+    ],
+    "ipv6": [
+      "2804:5e8c::/32"
+    ]
+  }
+}

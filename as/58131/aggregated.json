@@ -1,0 +1,11 @@
+{
+  "asn": 58131,
+  "handle": "OSCE",
+  "description": "Organization for Security and Co-operation in Europe",
+  "subnets": {
+    "ipv4": [
+      "194.8.63.0/24"
+    ],
+    "ipv6": []
+  }
+}

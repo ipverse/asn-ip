@@ -1,0 +1,11 @@
+{
+  "asn": 265633,
+  "handle": "COMUNICACIONES-GALUP-CA",
+  "description": "Comunicaciones Galup C.A",
+  "subnets": {
+    "ipv4": [
+      "170.244.52.0/22"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 17076,
+  "handle": "SR-PRIMARY-BGP",
+  "description": "Stone Ridge Asset Management LLC",
+  "subnets": {
+    "ipv4": [
+      "8.12.244.0/24",
+      "65.215.5.0/24",
+      "208.251.218.0/24"
+    ],
+    "ipv6": []
+  }
+}

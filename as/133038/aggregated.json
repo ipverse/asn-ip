@@ -1,0 +1,11 @@
+{
+  "asn": 133038,
+  "handle": "EXANET",
+  "description": "Exanet Limited",
+  "subnets": {
+    "ipv4": [
+      "202.2.64.0/20"
+    ],
+    "ipv6": []
+  }
+}

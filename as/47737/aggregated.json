@@ -1,0 +1,12 @@
+{
+  "asn": 47737,
+  "handle": "CONSYST-OS",
+  "description": "Konsist-OS, closed joint-stock company",
+  "subnets": {
+    "ipv4": [
+      "78.142.220.0/22",
+      "94.124.168.0/21"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 52963,
+  "handle": "JATIMNET-TELECOM",
+  "description": "JATIMNET TELECOM",
+  "subnets": {
+    "ipv4": [
+      "177.23.224.0/21",
+      "201.150.24.0/22"
+    ],
+    "ipv6": []
+  }
+}

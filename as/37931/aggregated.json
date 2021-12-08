@@ -1,0 +1,13 @@
+{
+  "asn": 37931,
+  "handle": "IBS-SIG",
+  "description": "SingTel Optus Pty Ltd",
+  "subnets": {
+    "ipv4": [
+      "61.88.223.0/24",
+      "203.19.222.0/24",
+      "203.89.5.0/24"
+    ],
+    "ipv6": []
+  }
+}

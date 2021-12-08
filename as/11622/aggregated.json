@@ -1,0 +1,11 @@
+{
+  "asn": 11622,
+  "handle": "OFPD",
+  "description": "Orland Fire Protection District",
+  "subnets": {
+    "ipv4": [
+      "104.238.238.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 270630,
+  "handle": "LOLNET-TELECOMUNICACOES",
+  "description": "LOLNET TELECOMUNICAÇÕES",
+  "subnets": {
+    "ipv4": [
+      "177.70.244.0/23"
+    ],
+    "ipv6": [
+      "2804:6ef8::/35"
+    ]
+  }
+}

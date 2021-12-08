@@ -1,0 +1,12 @@
+{
+  "asn": 33294,
+  "handle": "SOUTH-CENTRAL-CONNECT",
+  "description": "South Central Connect",
+  "subnets": {
+    "ipv4": [
+      "140.82.224.0/21",
+      "216.180.0.0/19"
+    ],
+    "ipv6": []
+  }
+}

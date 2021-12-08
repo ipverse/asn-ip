@@ -1,0 +1,12 @@
+{
+  "asn": 204604,
+  "handle": "SKIPPY",
+  "description": "Thomas Harwood",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a06:e881:4001::/48",
+      "2a06:e881:4002::/48"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asn": 132532,
+  "handle": "COMMSYSAUSTRALIA-AP",
+  "description": "The trustee for The CommSys Australia Unit Trust",
+  "subnets": {
+    "ipv4": [
+      "103.244.196.0/22"
+    ],
+    "ipv6": []
+  }
+}

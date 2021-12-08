@@ -1,0 +1,12 @@
+{
+  "asn": 137568,
+  "handle": "SKYSYSTEMSLTD-AP",
+  "description": "SKY SYSTEMS LTD",
+  "subnets": {
+    "ipv4": [
+      "103.113.172.0/23",
+      "103.113.174.0/24"
+    ],
+    "ipv6": []
+  }
+}

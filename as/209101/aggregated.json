@@ -1,0 +1,12 @@
+{
+  "asn": 209101,
+  "handle": "HUANZHONG",
+  "description": "Huanzhong (Beijing) Data Network Technology Co., Ltd.",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a0e:b107:510::/48",
+      "2a0f:9400:7340::/47"
+    ]
+  }
+}

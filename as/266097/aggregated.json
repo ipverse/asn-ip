@@ -1,0 +1,13 @@
+{
+  "asn": 266097,
+  "handle": "OKEY-NET",
+  "description": "OKEY NET",
+  "subnets": {
+    "ipv4": [
+      "45.4.176.0/22"
+    ],
+    "ipv6": [
+      "2804:3a94::/32"
+    ]
+  }
+}

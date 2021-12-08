@@ -1,0 +1,12 @@
+{
+  "asn": 46680,
+  "handle": "CONTACTUAL",
+  "description": "Contactual, Inc.",
+  "subnets": {
+    "ipv4": [
+      "8.21.164.0/24",
+      "8.25.198.0/24"
+    ],
+    "ipv6": []
+  }
+}

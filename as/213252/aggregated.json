@@ -1,0 +1,13 @@
+{
+  "asn": 213252,
+  "handle": "CENUTA",
+  "description": "Cenuta Telekomunikasyon Anonim Sirketi",
+  "subnets": {
+    "ipv4": [
+      "213.238.183.0/24"
+    ],
+    "ipv6": [
+      "2a0f:6580:100::/48"
+    ]
+  }
+}

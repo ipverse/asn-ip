@@ -1,0 +1,13 @@
+{
+  "asn": 30652,
+  "handle": "JACKHENRY-4",
+  "description": "Jack Henry \u0026 Associates, Inc.",
+  "subnets": {
+    "ipv4": [
+      "74.200.54.0/24",
+      "216.116.88.0/24",
+      "216.116.92.0/23"
+    ],
+    "ipv6": []
+  }
+}

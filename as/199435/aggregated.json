@@ -1,0 +1,13 @@
+{
+  "asn": 199435,
+  "handle": "WIMAXONLINE",
+  "description": "Wimax On Line, S.L.",
+  "subnets": {
+    "ipv4": [
+      "5.34.128.0/19",
+      "185.93.80.0/22",
+      "188.92.124.0/22"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 41555,
+  "handle": "NOVATKL",
+  "description": "Novartis AG",
+  "subnets": {
+    "ipv4": [
+      "170.236.180.0/24",
+      "170.237.95.0/24"
+    ],
+    "ipv6": []
+  }
+}

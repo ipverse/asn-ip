@@ -1,0 +1,13 @@
+{
+  "asn": 268512,
+  "handle": "VOO-TELECOM",
+  "description": "VOO TELECOM",
+  "subnets": {
+    "ipv4": [
+      "45.161.184.0/22"
+    ],
+    "ipv6": [
+      "2804:5258::/32"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asn": 132305,
+  "handle": "FCL1-AP",
+  "description": "First Communication Limited",
+  "subnets": {
+    "ipv4": [
+      "103.9.220.0/24"
+    ],
+    "ipv6": []
+  }
+}

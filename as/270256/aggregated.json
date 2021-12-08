@@ -1,0 +1,13 @@
+{
+  "asn": 270256,
+  "handle": "VILDONET-TELECOM",
+  "description": "VILDONET TELECOM",
+  "subnets": {
+    "ipv4": [
+      "200.108.172.0/22"
+    ],
+    "ipv6": [
+      "2804:6938::/32"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asn": 271451,
+  "handle": "WINLINK-TELECOM",
+  "description": "WinLink Telecom",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2804:7bbc::/32"
+    ]
+  }
+}

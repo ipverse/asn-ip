@@ -1,0 +1,13 @@
+{
+  "asn": 268866,
+  "handle": "JETTCOM-INTERNET-BANDA-LARGA",
+  "description": "JettCom Internet Banda Larga",
+  "subnets": {
+    "ipv4": [
+      "45.174.180.0/22"
+    ],
+    "ipv6": [
+      "2804:5bbc::/32"
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 265278,
+  "handle": "ZAAPNET-TELECOMUNICACOES",
+  "description": "ZAAPNET TELECOMUNICACOES",
+  "subnets": {
+    "ipv4": [
+      "168.90.56.0/22"
+    ],
+    "ipv6": [
+      "2804:2d60::/32",
+      "2804:6940::/32"
+    ]
+  }
+}

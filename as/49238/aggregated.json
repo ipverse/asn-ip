@@ -1,0 +1,13 @@
+{
+  "asn": 49238,
+  "handle": "DRWEB",
+  "description": "DrWeb Ltd",
+  "subnets": {
+    "ipv4": [
+      "195.88.252.0/23"
+    ],
+    "ipv6": [
+      "2a06:aa87:ffff::/48"
+    ]
+  }
+}

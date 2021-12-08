@@ -1,0 +1,15 @@
+{
+  "asn": 262900,
+  "handle": "ASAS-SOLUCOES-DE",
+  "description": "ASAS SOLUCOES DE TELECOMUNICACOES LTDA",
+  "subnets": {
+    "ipv4": [
+      "170.246.192.0/22",
+      "177.23.192.0/21",
+      "177.129.120.0/22"
+    ],
+    "ipv6": [
+      "2804:3a4::/32"
+    ]
+  }
+}

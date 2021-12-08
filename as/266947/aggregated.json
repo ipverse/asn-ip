@@ -1,0 +1,11 @@
+{
+  "asn": 266947,
+  "handle": "LED-DE-LIMA",
+  "description": "Led de Lima Provedora de internet Ltda Me",
+  "subnets": {
+    "ipv4": [
+      "45.225.180.0/22"
+    ],
+    "ipv6": []
+  }
+}

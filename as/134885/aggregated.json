@@ -1,0 +1,13 @@
+{
+  "asn": 134885,
+  "handle": "GITIPL",
+  "description": "Global (India) Tele-Infra Pvt Ltd",
+  "subnets": {
+    "ipv4": [
+      "103.252.52.0/24",
+      "103.252.54.0/23",
+      "114.29.232.0/22"
+    ],
+    "ipv6": []
+  }
+}

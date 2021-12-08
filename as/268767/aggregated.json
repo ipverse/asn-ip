@@ -1,0 +1,13 @@
+{
+  "asn": 268767,
+  "handle": "SKYLINE-PROVEDOR-DE",
+  "description": "Skyline Provedor de Internet LTDA ME",
+  "subnets": {
+    "ipv4": [
+      "45.172.96.0/22"
+    ],
+    "ipv6": [
+      "2804:5a58::/32"
+    ]
+  }
+}

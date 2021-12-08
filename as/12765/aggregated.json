@@ -1,0 +1,12 @@
+{
+  "asn": 12765,
+  "handle": "TOTAL-CONNECT",
+  "description": "TotalEnergies SE",
+  "subnets": {
+    "ipv4": [
+      "141.227.16.0/24",
+      "146.249.225.0/24"
+    ],
+    "ipv6": []
+  }
+}

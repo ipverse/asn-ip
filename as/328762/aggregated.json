@@ -1,0 +1,12 @@
+{
+  "asn": 328762,
+  "handle": "MANSOORA-UNIVERSITY",
+  "description": "Mansoura University",
+  "subnets": {
+    "ipv4": [
+      "102.223.94.0/24",
+      "193.227.50.0/23"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 140905,
+  "handle": "KEEPITAS-AP",
+  "description": "Keepit A/S",
+  "subnets": {
+    "ipv4": [
+      "103.153.54.0/24"
+    ],
+    "ipv6": [
+      "2001:df4:3480::/48"
+    ]
+  }
+}

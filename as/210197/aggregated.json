@@ -1,0 +1,11 @@
+{
+  "asn": 210197,
+  "handle": "AS1TOTALCLOUD",
+  "description": "TOTALCLOUD SAS",
+  "subnets": {
+    "ipv4": [
+      "193.38.32.0/22"
+    ],
+    "ipv6": []
+  }
+}

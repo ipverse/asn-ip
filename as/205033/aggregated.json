@@ -1,0 +1,13 @@
+{
+  "asn": 205033,
+  "handle": "STADT-REGENSBURG",
+  "description": "Stadt Regensburg",
+  "subnets": {
+    "ipv4": [
+      "185.219.244.0/22"
+    ],
+    "ipv6": [
+      "2a0b:f040::/32"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 57517,
+  "handle": "POLICIJA",
+  "description": "Ministrstvo za notranje zadeve",
+  "subnets": {
+    "ipv4": [
+      "193.17.1.0/24"
+    ],
+    "ipv6": [
+      "2001:67c:2430::/46"
+    ]
+  }
+}

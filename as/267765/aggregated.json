@@ -1,0 +1,14 @@
+{
+  "asn": 267765,
+  "handle": "COTAP-LTDA",
+  "description": "COTAP LTDA",
+  "subnets": {
+    "ipv4": [
+      "181.114.160.0/19",
+      "190.3.184.0/21"
+    ],
+    "ipv6": [
+      "2803:5e00::/32"
+    ]
+  }
+}

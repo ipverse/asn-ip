@@ -1,0 +1,13 @@
+{
+  "asn": 262964,
+  "handle": "CWNET-SERVICOS-TECNICOS",
+  "description": "CWNET SERVIÇOS TÉCNICOS",
+  "subnets": {
+    "ipv4": [
+      "186.237.24.0/22"
+    ],
+    "ipv6": [
+      "2804:6250::/32"
+    ]
+  }
+}

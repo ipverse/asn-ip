@@ -1,0 +1,11 @@
+{
+  "asn": 138002,
+  "handle": "GSN-AP",
+  "description": "Global Speech Networks Pty Ltd",
+  "subnets": {
+    "ipv4": [
+      "103.115.233.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asn": 37328,
+  "handle": "WEMABANK",
+  "description": "Wema Bank Plc",
+  "subnets": {
+    "ipv4": [
+      "196.43.215.0/24"
+    ],
+    "ipv6": []
+  }
+}

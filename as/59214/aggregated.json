@@ -1,0 +1,13 @@
+{
+  "asn": 59214,
+  "handle": "WGIL-AP",
+  "description": "Winspeed Group International Limited",
+  "subnets": {
+    "ipv4": [
+      "43.255.52.0/22",
+      "103.227.128.0/22",
+      "103.243.92.0/22"
+    ],
+    "ipv6": []
+  }
+}

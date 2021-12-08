@@ -1,0 +1,12 @@
+{
+  "asn": 40949,
+  "handle": "FLEXITYSOLUTIONS-1",
+  "description": "FLEXITY SOLUTIONS INC",
+  "subnets": {
+    "ipv4": [
+      "68.179.96.0/24",
+      "162.217.240.0/22"
+    ],
+    "ipv6": []
+  }
+}

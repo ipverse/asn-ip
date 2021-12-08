@@ -1,0 +1,12 @@
+{
+  "asn": 262500,
+  "handle": "BS2-SISTEMAS-PARA",
+  "description": "BS2 Sistemas para Internet Ltda.",
+  "subnets": {
+    "ipv4": [
+      "138.118.128.0/23",
+      "177.66.160.0/22"
+    ],
+    "ipv6": []
+  }
+}

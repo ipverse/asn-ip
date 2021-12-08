@@ -1,0 +1,13 @@
+{
+  "asn": 34156,
+  "handle": "BAHN-BLN",
+  "description": "DB Systel GmbH",
+  "subnets": {
+    "ipv4": [
+      "81.200.192.0/20"
+    ],
+    "ipv6": [
+      "2a05:7c0::/32"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 132088,
+  "handle": "WINDCLOUDNETWORK-MO",
+  "description": "Wind Cloud Network Technology Co Ltd",
+  "subnets": {
+    "ipv4": [
+      "103.115.140.0/24",
+      "103.115.142.0/24"
+    ],
+    "ipv6": []
+  }
+}

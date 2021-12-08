@@ -1,0 +1,11 @@
+{
+  "asn": 60150,
+  "handle": "NEW-PRESENCE",
+  "description": "New Presence SRL",
+  "subnets": {
+    "ipv4": [
+      "37.156.4.0/24"
+    ],
+    "ipv6": []
+  }
+}

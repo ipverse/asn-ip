@@ -1,0 +1,14 @@
+{
+  "asn": 52655,
+  "handle": "TI5-TELECOM-LTDA-ME",
+  "description": "Ti5 Telecom LTDA - ME",
+  "subnets": {
+    "ipv4": [
+      "138.94.176.0/22",
+      "177.66.164.0/22"
+    ],
+    "ipv6": [
+      "2804:c00::/32"
+    ]
+  }
+}

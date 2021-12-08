@@ -1,0 +1,15 @@
+{
+  "asn": 29505,
+  "handle": "TRAVEKOM",
+  "description": "Stadtwerke Luebeck GmbH",
+  "subnets": {
+    "ipv4": [
+      "85.233.0.0/19",
+      "149.249.64.0/18",
+      "185.111.68.0/22"
+    ],
+    "ipv6": [
+      "2a07:6c40::/29"
+    ]
+  }
+}

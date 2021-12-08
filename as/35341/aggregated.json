@@ -1,0 +1,11 @@
+{
+  "asn": 35341,
+  "handle": "RODOVID",
+  "description": "OJSC Rodovid Bank",
+  "subnets": {
+    "ipv4": [
+      "193.239.228.0/23"
+    ],
+    "ipv6": []
+  }
+}

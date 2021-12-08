@@ -1,0 +1,11 @@
+{
+  "asn": 137045,
+  "handle": "ATHOYCYBERNET-AP",
+  "description": "Athoy Cyber Net",
+  "subnets": {
+    "ipv4": [
+      "103.102.246.0/23"
+    ],
+    "ipv6": []
+  }
+}

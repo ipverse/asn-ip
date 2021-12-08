@@ -1,0 +1,11 @@
+{
+  "asn": 38986,
+  "handle": "STELEPORT",
+  "description": "Limited LC Sputnik TELEPORT",
+  "subnets": {
+    "ipv4": [
+      "79.171.168.0/21"
+    ],
+    "ipv6": []
+  }
+}

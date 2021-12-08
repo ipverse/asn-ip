@@ -1,0 +1,13 @@
+{
+  "asn": 52634,
+  "handle": "BRNET-TELECOMUNICACOES-LTDA",
+  "description": "BRNet Telecomunicações LTDA",
+  "subnets": {
+    "ipv4": [
+      "177.124.188.0/22"
+    ],
+    "ipv6": [
+      "2804:d7c::/32"
+    ]
+  }
+}

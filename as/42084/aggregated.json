@@ -1,0 +1,12 @@
+{
+  "asn": 42084,
+  "handle": "SKOMUR",
+  "description": "Skomur J. K. Pruscy, D. P. Kaczmarek",
+  "subnets": {
+    "ipv4": [
+      "91.189.0.0/21",
+      "176.107.40.0/21"
+    ],
+    "ipv6": []
+  }
+}

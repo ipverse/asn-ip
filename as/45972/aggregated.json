@@ -1,0 +1,14 @@
+{
+  "asn": 45972,
+  "handle": "KOREALX-KR-KR",
+  "description": "KOREA LAND AND GEOSPATIAL INFORMATIX CORPORATION",
+  "subnets": {
+    "ipv4": [
+      "14.55.65.0/24",
+      "14.55.67.0/24",
+      "14.55.69.0/24",
+      "103.7.190.0/23"
+    ],
+    "ipv6": []
+  }
+}

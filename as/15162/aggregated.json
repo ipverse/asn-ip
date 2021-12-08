@@ -1,0 +1,16 @@
+{
+  "asn": 15162,
+  "handle": "NETMINDERS-SERVER-HOSTING",
+  "description": "Netminders Server Hosting",
+  "subnets": {
+    "ipv4": [
+      "198.144.148.0/24",
+      "198.144.155.0/24",
+      "199.19.93.0/24",
+      "199.66.90.0/24"
+    ],
+    "ipv6": [
+      "2605:bc40::/32"
+    ]
+  }
+}

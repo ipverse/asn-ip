@@ -1,0 +1,11 @@
+{
+  "asn": 210627,
+  "handle": "GRAYSHOTTGIGABIT",
+  "description": "Grayshott Gigabit Limited",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a11:2c0::/29"
+    ]
+  }
+}

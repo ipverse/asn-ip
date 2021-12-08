@@ -1,0 +1,11 @@
+{
+  "asn": 196921,
+  "handle": "BWIRELESS-KUWAIT",
+  "description": "Wireless Mobile Data Company",
+  "subnets": {
+    "ipv4": [
+      "94.187.128.0/18"
+    ],
+    "ipv6": []
+  }
+}

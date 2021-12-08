@@ -1,0 +1,13 @@
+{
+  "asn": 52814,
+  "handle": "INTERNET-PLAY-LTDA",
+  "description": "INTERNET PLAY LTDA",
+  "subnets": {
+    "ipv4": [
+      "177.72.8.0/21"
+    ],
+    "ipv6": [
+      "2804:45e8::/32"
+    ]
+  }
+}

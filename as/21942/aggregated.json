@@ -1,0 +1,12 @@
+{
+  "asn": 21942,
+  "handle": "ON-SEMICONDUCTOR-INC",
+  "description": "ON SEMICONDUCTOR",
+  "subnets": {
+    "ipv4": [
+      "65.197.242.0/24",
+      "91.199.164.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asn": 20459,
+  "handle": "TELECOM-NAMIBIA",
+  "description": "Telecom Namibia",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2c0f:ef08::/32"
+    ]
+  }
+}

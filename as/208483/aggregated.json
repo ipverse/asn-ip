@@ -1,0 +1,11 @@
+{
+  "asn": 208483,
+  "handle": "CATDEPLOYED",
+  "description": "CatDeployed Ltd",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a09:be40:3000::/46"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 140133,
+  "handle": "MWIS-IN",
+  "description": "Myworld Internet Services Pvt Ltd",
+  "subnets": {
+    "ipv4": [
+      "103.80.154.0/23",
+      "103.154.2.0/23",
+      "103.170.90.0/23"
+    ],
+    "ipv6": []
+  }
+}

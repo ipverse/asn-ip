@@ -1,0 +1,12 @@
+{
+  "asn": 7235,
+  "handle": "LANMINDS",
+  "description": "LanMinds, Inc.",
+  "subnets": {
+    "ipv4": [
+      "66.117.128.0/19",
+      "205.149.0.0/21"
+    ],
+    "ipv6": []
+  }
+}

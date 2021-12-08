@@ -1,0 +1,13 @@
+{
+  "asn": 38104,
+  "handle": "HYEJEON-KR-KR",
+  "description": "Hyejeon University",
+  "subnets": {
+    "ipv4": [
+      "59.25.64.0/22",
+      "59.25.68.0/24",
+      "61.34.157.0/24"
+    ],
+    "ipv6": []
+  }
+}

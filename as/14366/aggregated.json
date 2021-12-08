@@ -1,0 +1,14 @@
+{
+  "asn": 14366,
+  "handle": "MNTN",
+  "description": "Rogers Communications Canada Inc.",
+  "subnets": {
+    "ipv4": [
+      "24.102.0.0/18",
+      "24.213.64.0/19",
+      "24.215.0.0/18",
+      "71.19.0.0/17"
+    ],
+    "ipv6": []
+  }
+}

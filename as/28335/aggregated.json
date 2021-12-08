@@ -1,0 +1,13 @@
+{
+  "asn": 28335,
+  "handle": "MAXCOMM-LTDA-EPP",
+  "description": "MAXCOMM LTDA EPP",
+  "subnets": {
+    "ipv4": [
+      "177.129.248.0/21"
+    ],
+    "ipv6": [
+      "2804:db8::/32"
+    ]
+  }
+}

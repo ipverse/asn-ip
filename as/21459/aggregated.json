@@ -1,0 +1,12 @@
+{
+  "asn": 21459,
+  "handle": "GNSEUROPEUK",
+  "description": "Advanced 365 LTD",
+  "subnets": {
+    "ipv4": [
+      "185.203.60.0/22",
+      "217.68.64.0/20"
+    ],
+    "ipv6": []
+  }
+}

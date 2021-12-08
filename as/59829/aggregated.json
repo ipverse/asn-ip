@@ -1,0 +1,14 @@
+{
+  "asn": 59829,
+  "handle": "ARYEL",
+  "description": "Aryel srls",
+  "subnets": {
+    "ipv4": [
+      "154.60.192.0/24",
+      "212.6.50.0/24"
+    ],
+    "ipv6": [
+      "2a0c:2f40::/29"
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 3274,
+  "handle": "CYGATE",
+  "description": "Telia Cygate Oy",
+  "subnets": {
+    "ipv4": [
+      "81.20.224.0/20",
+      "193.28.203.0/24"
+    ],
+    "ipv6": [
+      "2001:67c:110::/48"
+    ]
+  }
+}

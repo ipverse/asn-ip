@@ -1,0 +1,13 @@
+{
+  "asn": 1911,
+  "handle": "DNIC-ASBLK-0-01914",
+  "description": "DoD Network Information Center",
+  "subnets": {
+    "ipv4": [
+      "209.22.51.0/24",
+      "214.3.134.0/23",
+      "214.6.102.0/24"
+    ],
+    "ipv6": []
+  }
+}

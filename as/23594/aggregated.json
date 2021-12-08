@@ -1,0 +1,13 @@
+{
+  "asn": 23594,
+  "handle": "YKKNET-KR-KR",
+  "description": "YKK KOREA CO., LTD.",
+  "subnets": {
+    "ipv4": [
+      "1.255.3.0/24",
+      "103.150.204.0/23",
+      "210.92.34.0/24"
+    ],
+    "ipv6": []
+  }
+}

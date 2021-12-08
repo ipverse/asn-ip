@@ -1,0 +1,14 @@
+{
+  "asn": 45018,
+  "handle": "RIPN-RU-VLV",
+  "description": "Joint-stock company Internet Exchange MSK-IX",
+  "subnets": {
+    "ipv4": [
+      "193.232.137.0/24",
+      "195.209.11.0/24"
+    ],
+    "ipv6": [
+      "2001:67c:1441::/48"
+    ]
+  }
+}

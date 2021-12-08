@@ -1,0 +1,16 @@
+{
+  "asn": 198589,
+  "handle": "JT",
+  "description": "Al-Jazeera Al-Arabiya Company for Communication and Internet LTD",
+  "subnets": {
+    "ipv4": [
+      "5.62.128.0/20",
+      "5.62.144.0/21",
+      "31.7.80.0/21",
+      "37.77.48.0/21",
+      "62.201.196.0/24",
+      "185.69.4.0/22"
+    ],
+    "ipv6": []
+  }
+}

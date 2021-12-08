@@ -1,0 +1,13 @@
+{
+  "asn": 46266,
+  "handle": "MARIANU-IN",
+  "description": "Marian University",
+  "subnets": {
+    "ipv4": [
+      "50.59.52.0/24",
+      "170.76.233.0/24",
+      "199.8.160.0/21"
+    ],
+    "ipv6": []
+  }
+}

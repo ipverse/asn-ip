@@ -1,0 +1,12 @@
+{
+  "asn": 40889,
+  "handle": "GREYSTONE",
+  "description": "Greystone IT, Inc.",
+  "subnets": {
+    "ipv4": [
+      "66.151.108.0/24",
+      "192.64.200.0/23"
+    ],
+    "ipv6": []
+  }
+}

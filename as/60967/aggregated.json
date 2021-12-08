@@ -1,0 +1,11 @@
+{
+  "asn": 60967,
+  "handle": "NSPK",
+  "description": "National system of payment cards Joint-stock Society",
+  "subnets": {
+    "ipv4": [
+      "185.170.0.0/24"
+    ],
+    "ipv6": []
+  }
+}

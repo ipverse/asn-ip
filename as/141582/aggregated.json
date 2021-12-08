@@ -1,0 +1,11 @@
+{
+  "asn": 141582,
+  "handle": "IDNIC-SSV-ID",
+  "description": "PT Sukabumi Sinar Vision",
+  "subnets": {
+    "ipv4": [
+      "103.160.54.0/23"
+    ],
+    "ipv6": []
+  }
+}

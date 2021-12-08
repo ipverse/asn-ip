@@ -1,0 +1,13 @@
+{
+  "asn": 264120,
+  "handle": "G20-TELECOMUNICACOES-LTDA",
+  "description": "G20 Telecomunicacoes Ltda",
+  "subnets": {
+    "ipv4": [
+      "138.97.40.0/22"
+    ],
+    "ipv6": [
+      "2804:22c0::/32"
+    ]
+  }
+}

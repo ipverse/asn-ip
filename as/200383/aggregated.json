@@ -1,0 +1,11 @@
+{
+  "asn": 200383,
+  "handle": "EPB",
+  "description": "EPB EDV-Partner OG",
+  "subnets": {
+    "ipv4": [
+      "194.61.36.0/24"
+    ],
+    "ipv6": []
+  }
+}

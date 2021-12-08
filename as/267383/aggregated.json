@@ -1,0 +1,13 @@
+{
+  "asn": 267383,
+  "handle": "DELNET-TELECOM",
+  "description": "DelNet Telecom",
+  "subnets": {
+    "ipv4": [
+      "45.234.144.0/22"
+    ],
+    "ipv6": [
+      "2804:4ca8::/36"
+    ]
+  }
+}

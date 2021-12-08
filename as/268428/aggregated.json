@@ -1,0 +1,13 @@
+{
+  "asn": 268428,
+  "handle": "CLIENT-SERVICOS-E",
+  "description": "Client Serviços e Telecomunicacoes Ltda",
+  "subnets": {
+    "ipv4": [
+      "45.160.228.0/22"
+    ],
+    "ipv6": [
+      "2804:5110::/32"
+    ]
+  }
+}

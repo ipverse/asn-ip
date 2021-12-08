@@ -1,0 +1,12 @@
+{
+  "asn": 141456,
+  "handle": "BONDHON-AP",
+  "description": "Bondhon Communication",
+  "subnets": {
+    "ipv4": [
+      "103.160.8.0/24",
+      "103.160.20.0/24"
+    ],
+    "ipv6": []
+  }
+}

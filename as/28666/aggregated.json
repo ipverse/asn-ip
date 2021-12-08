@@ -1,0 +1,13 @@
+{
+  "asn": 28666,
+  "handle": "HOSTLOCATION-LTDA",
+  "description": "HOSTLOCATION LTDA",
+  "subnets": {
+    "ipv4": [
+      "189.1.160.0/21"
+    ],
+    "ipv6": [
+      "2804:3414::/32"
+    ]
+  }
+}

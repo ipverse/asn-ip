@@ -1,0 +1,13 @@
+{
+  "asn": 328446,
+  "handle": "OPEN-ACCESS-TECHNOLOGIES",
+  "description": "Open Access Technologies (Pty) Ltd",
+  "subnets": {
+    "ipv4": [
+      "41.222.120.0/21",
+      "169.255.32.0/23",
+      "169.255.35.0/24"
+    ],
+    "ipv6": []
+  }
+}

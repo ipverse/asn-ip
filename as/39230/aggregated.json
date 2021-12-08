@@ -1,0 +1,12 @@
+{
+  "asn": 39230,
+  "handle": "MHP",
+  "description": "PAT Myronivsky Hliboproduct",
+  "subnets": {
+    "ipv4": [
+      "185.212.248.0/24",
+      "195.182.0.0/24"
+    ],
+    "ipv6": []
+  }
+}

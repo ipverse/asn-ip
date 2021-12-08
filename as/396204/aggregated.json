@@ -1,0 +1,12 @@
+{
+  "asn": 396204,
+  "handle": "C1-BGP",
+  "description": "ConvergeOne Holdings Corp",
+  "subnets": {
+    "ipv4": [
+      "50.234.212.0/23",
+      "207.2.82.0/24"
+    ],
+    "ipv6": []
+  }
+}

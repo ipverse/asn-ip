@@ -1,0 +1,11 @@
+{
+  "asn": 18856,
+  "handle": "SCCA",
+  "description": "Seattle Cancer Care Alliance",
+  "subnets": {
+    "ipv4": [
+      "72.14.60.0/22"
+    ],
+    "ipv6": []
+  }
+}

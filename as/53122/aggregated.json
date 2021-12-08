@@ -1,0 +1,15 @@
+{
+  "asn": 53122,
+  "handle": "SUPER-MIDIA-TV-A-CABO-LTDA",
+  "description": "super midia tv a cabo ltda",
+  "subnets": {
+    "ipv4": [
+      "177.36.160.0/20",
+      "187.110.176.0/20",
+      "187.111.160.0/19"
+    ],
+    "ipv6": [
+      "2804:1e10::/32"
+    ]
+  }
+}

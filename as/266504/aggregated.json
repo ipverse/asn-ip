@@ -1,0 +1,13 @@
+{
+  "asn": 266504,
+  "handle": "GTXNET-SOLUCOES-INFORMATIZADAS",
+  "description": "GTXNET SOLUCOES INFORMATIZADAS",
+  "subnets": {
+    "ipv4": [
+      "170.244.160.0/22"
+    ],
+    "ipv6": [
+      "2804:38d4::/32"
+    ]
+  }
+}

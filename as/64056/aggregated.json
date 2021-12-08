@@ -1,0 +1,14 @@
+{
+  "asn": 64056,
+  "handle": "KAZILALLC-AP",
+  "description": "Kazila LLC",
+  "subnets": {
+    "ipv4": [
+      "103.196.180.0/22",
+      "202.173.116.0/22"
+    ],
+    "ipv6": [
+      "2402:f880::/32"
+    ]
+  }
+}

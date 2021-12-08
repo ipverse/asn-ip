@@ -1,0 +1,13 @@
+{
+  "asn": 62082,
+  "handle": "HOSTLAND",
+  "description": "Hostland LTD",
+  "subnets": {
+    "ipv4": [
+      "185.26.120.0/22",
+      "185.37.62.0/24",
+      "185.221.212.0/22"
+    ],
+    "ipv6": []
+  }
+}

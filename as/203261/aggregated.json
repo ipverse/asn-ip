@@ -1,0 +1,12 @@
+{
+  "asn": 203261,
+  "handle": "ASCOR",
+  "description": "ASCOR spolka cywilna",
+  "subnets": {
+    "ipv4": [
+      "82.160.149.0/24",
+      "82.160.150.0/24"
+    ],
+    "ipv6": []
+  }
+}

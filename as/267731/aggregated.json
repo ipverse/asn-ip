@@ -1,0 +1,12 @@
+{
+  "asn": 267731,
+  "handle": "COOPERATIVA-DE-ELECTRICIDAD",
+  "description": "COOPERATIVA DE ELECTRICIDAD SERVICIOS PUBLICOS VIVIENDA Y CREDITO DE V CAÑAS LTD",
+  "subnets": {
+    "ipv4": [
+      "45.166.76.0/23",
+      "45.166.78.0/24"
+    ],
+    "ipv6": []
+  }
+}

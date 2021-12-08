@@ -1,0 +1,11 @@
+{
+  "asn": 56514,
+  "handle": "SPRINT-TELECOM",
+  "description": "Sprint Telecom SRL",
+  "subnets": {
+    "ipv4": [
+      "185.75.54.0/24"
+    ],
+    "ipv6": []
+  }
+}

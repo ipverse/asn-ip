@@ -1,0 +1,11 @@
+{
+  "asn": 54983,
+  "handle": "FSRLAS-01",
+  "description": "FirstService Residential, Inc.",
+  "subnets": {
+    "ipv4": [
+      "199.60.255.0/24"
+    ],
+    "ipv6": []
+  }
+}

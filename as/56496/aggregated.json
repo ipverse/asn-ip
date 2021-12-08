@@ -1,0 +1,12 @@
+{
+  "asn": 56496,
+  "handle": "TV2-DANMARK",
+  "description": "TV2/DANMARK A/S",
+  "subnets": {
+    "ipv4": [
+      "89.19.52.0/23",
+      "91.224.210.0/23"
+    ],
+    "ipv6": []
+  }
+}

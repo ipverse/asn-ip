@@ -1,0 +1,11 @@
+{
+  "asn": 147007,
+  "handle": "M3R-AP",
+  "description": "3R NET",
+  "subnets": {
+    "ipv4": [
+      "103.172.216.0/23"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 327799,
+  "handle": "VIETTEL-BURUNDI",
+  "description": "VIETTEL BURUNDI SA",
+  "subnets": {
+    "ipv4": [
+      "154.73.104.0/22",
+      "154.117.192.0/18"
+    ],
+    "ipv6": []
+  }
+}

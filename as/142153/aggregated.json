@@ -1,0 +1,11 @@
+{
+  "asn": 142153,
+  "handle": "ABNETWORK-AP",
+  "description": "AB NETWORK",
+  "subnets": {
+    "ipv4": [
+      "103.166.250.0/23"
+    ],
+    "ipv6": []
+  }
+}

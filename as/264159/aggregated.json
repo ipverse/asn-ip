@@ -1,0 +1,15 @@
+{
+  "asn": 264159,
+  "handle": "INEXA-TECNOLOGIA-LTDA",
+  "description": "Inexa Tecnologia LTDA.",
+  "subnets": {
+    "ipv4": [
+      "138.99.16.0/22",
+      "168.196.64.0/22"
+    ],
+    "ipv6": [
+      "2804:a8c::/38",
+      "2804:2364::/32"
+    ]
+  }
+}

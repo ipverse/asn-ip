@@ -1,0 +1,12 @@
+{
+  "asn": 43295,
+  "handle": "NETZET-TREND",
+  "description": "Trend Network Serv SRL",
+  "subnets": {
+    "ipv4": [
+      "31.14.43.0/24",
+      "37.156.245.0/24"
+    ],
+    "ipv6": []
+  }
+}

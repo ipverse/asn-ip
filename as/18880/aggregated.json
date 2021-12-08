@@ -1,0 +1,12 @@
+{
+  "asn": 18880,
+  "handle": "LAMRC",
+  "description": "Lam Research Corporation",
+  "subnets": {
+    "ipv4": [
+      "167.191.0.0/16",
+      "198.175.161.0/24"
+    ],
+    "ipv6": []
+  }
+}

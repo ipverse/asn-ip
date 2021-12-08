@@ -1,0 +1,12 @@
+{
+  "asn": 23934,
+  "handle": "TURNSTONE-NZ-AP",
+  "description": "Plan-b Ltd",
+  "subnets": {
+    "ipv4": [
+      "115.126.128.0/21",
+      "202.162.176.0/21"
+    ],
+    "ipv6": []
+  }
+}

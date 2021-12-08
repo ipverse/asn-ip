@@ -1,0 +1,12 @@
+{
+  "asn": 43140,
+  "handle": "TELEFLASH",
+  "description": "Teleflash GmbH",
+  "subnets": {
+    "ipv4": [
+      "46.236.204.0/22",
+      "93.189.174.0/23"
+    ],
+    "ipv6": []
+  }
+}

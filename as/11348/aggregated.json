@@ -1,0 +1,13 @@
+{
+  "asn": 11348,
+  "handle": "MST",
+  "description": "Missouri University of Science and Technology",
+  "subnets": {
+    "ipv4": [
+      "131.151.0.0/16",
+      "192.55.114.0/24",
+      "192.65.97.0/24"
+    ],
+    "ipv6": []
+  }
+}

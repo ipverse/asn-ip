@@ -1,0 +1,13 @@
+{
+  "asn": 5692,
+  "handle": "UNIVERSIDAD-NACIONAL-DE",
+  "description": "Universidad Nacional de La Plata",
+  "subnets": {
+    "ipv4": [
+      "163.10.0.0/16"
+    ],
+    "ipv6": [
+      "2800:340::/32"
+    ]
+  }
+}

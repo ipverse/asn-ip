@@ -1,0 +1,12 @@
+{
+  "asn": 62506,
+  "handle": "WEBPT-01",
+  "description": "WebPT, Inc.",
+  "subnets": {
+    "ipv4": [
+      "72.44.241.0/24",
+      "198.62.255.0/24"
+    ],
+    "ipv6": []
+  }
+}

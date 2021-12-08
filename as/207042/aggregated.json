@@ -1,0 +1,13 @@
+{
+  "asn": 207042,
+  "handle": "SIAV-S-P-A",
+  "description": "Siav S.p.A.",
+  "subnets": {
+    "ipv4": [
+      "185.167.244.0/22"
+    ],
+    "ipv6": [
+      "2001:67c:790::/48"
+    ]
+  }
+}

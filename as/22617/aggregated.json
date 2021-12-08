@@ -1,0 +1,14 @@
+{
+  "asn": 22617,
+  "handle": "SACCOURT",
+  "description": "Superior Court of California, County of Sacramento",
+  "subnets": {
+    "ipv4": [
+      "12.185.27.0/24",
+      "63.80.44.0/24"
+    ],
+    "ipv6": [
+      "2602:806:5000::/44"
+    ]
+  }
+}

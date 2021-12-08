@@ -1,0 +1,11 @@
+{
+  "asn": 270464,
+  "handle": "NEWFAST-TELECOM",
+  "description": "NewFast Telecom",
+  "subnets": {
+    "ipv4": [
+      "200.81.52.0/22"
+    ],
+    "ipv6": []
+  }
+}

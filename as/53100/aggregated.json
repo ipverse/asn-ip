@@ -1,0 +1,13 @@
+{
+  "asn": 53100,
+  "handle": "CRIARE-TELECOMUNICACOES-E",
+  "description": "Criare Telecomunicações e Consultoria Ltda. - EPP",
+  "subnets": {
+    "ipv4": [
+      "187.103.128.0/20"
+    ],
+    "ipv6": [
+      "2804:c0::/32"
+    ]
+  }
+}

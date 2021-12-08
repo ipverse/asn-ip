@@ -1,0 +1,11 @@
+{
+  "asn": 25075,
+  "handle": "SWPS",
+  "description": "SWPS Uniwersytet Humanistycznospoleczny",
+  "subnets": {
+    "ipv4": [
+      "193.201.164.0/24"
+    ],
+    "ipv6": []
+  }
+}

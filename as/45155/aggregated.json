@@ -1,0 +1,11 @@
+{
+  "asn": 45155,
+  "handle": "SENCOR-PH",
+  "description": "SENCOR",
+  "subnets": {
+    "ipv4": [
+      "203.147.104.0/22"
+    ],
+    "ipv6": []
+  }
+}

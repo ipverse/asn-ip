@@ -1,0 +1,13 @@
+{
+  "asn": 133156,
+  "handle": "SSC1-AP",
+  "description": "SS\u0026C Solutions Pty Limited",
+  "subnets": {
+    "ipv4": [
+      "103.75.23.0/24"
+    ],
+    "ipv6": [
+      "2001:df5:2200::/48"
+    ]
+  }
+}

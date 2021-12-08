@@ -1,0 +1,12 @@
+{
+  "asn": 265626,
+  "handle": "SITE-TELECOM-S-DE-RL-DE-CV",
+  "description": "SITE TELECOM, S. DE R.L. DE C.V.",
+  "subnets": {
+    "ipv4": [
+      "201.71.204.0/23",
+      "201.71.206.0/24"
+    ],
+    "ipv6": []
+  }
+}

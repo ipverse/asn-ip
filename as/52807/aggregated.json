@@ -1,0 +1,16 @@
+{
+  "asn": 52807,
+  "handle": "LIGO-TELECOMUNICACOES-LTDA-ME",
+  "description": "LIGO TELECOMUNICACOES LTDA - ME",
+  "subnets": {
+    "ipv4": [
+      "138.36.28.0/22",
+      "167.250.12.0/22",
+      "170.79.24.0/22",
+      "177.53.40.0/21"
+    ],
+    "ipv6": [
+      "2804:2198::/32"
+    ]
+  }
+}

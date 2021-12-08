@@ -1,0 +1,13 @@
+{
+  "asn": 328013,
+  "handle": "ISPAFRIKA",
+  "description": "LiquidCloud",
+  "subnets": {
+    "ipv4": [
+      "66.251.160.0/20",
+      "66.251.176.0/21",
+      "169.255.34.0/24"
+    ],
+    "ipv6": []
+  }
+}

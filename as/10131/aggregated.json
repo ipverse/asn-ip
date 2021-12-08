@@ -1,0 +1,15 @@
+{
+  "asn": 10131,
+  "handle": "CKTELECOM-CK-AP",
+  "description": "Telecom Cook Islands Ltd",
+  "subnets": {
+    "ipv4": [
+      "202.65.32.0/20",
+      "202.65.48.0/21",
+      "202.65.57.0/24",
+      "202.65.58.0/23",
+      "202.65.60.0/24"
+    ],
+    "ipv6": []
+  }
+}

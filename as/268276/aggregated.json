@@ -1,0 +1,13 @@
+{
+  "asn": 268276,
+  "handle": "MEGA-WIFI-EIRELI",
+  "description": "MEGA WIFI - EIRELI",
+  "subnets": {
+    "ipv4": [
+      "45.237.128.0/22"
+    ],
+    "ipv6": [
+      "2804:4eac::/32"
+    ]
+  }
+}

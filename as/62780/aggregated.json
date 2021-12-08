@@ -1,0 +1,12 @@
+{
+  "asn": 62780,
+  "handle": "GOULD",
+  "description": "Gould Paper Corporation",
+  "subnets": {
+    "ipv4": [
+      "198.148.255.0/24",
+      "207.97.187.0/24"
+    ],
+    "ipv6": []
+  }
+}

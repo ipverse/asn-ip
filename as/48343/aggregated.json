@@ -1,0 +1,11 @@
+{
+  "asn": 48343,
+  "handle": "MOESK",
+  "description": "PAO Moscow United Electric-Networking Company",
+  "subnets": {
+    "ipv4": [
+      "193.33.192.0/23"
+    ],
+    "ipv6": []
+  }
+}

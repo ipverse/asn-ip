@@ -1,0 +1,12 @@
+{
+  "asn": 31174,
+  "handle": "RBA",
+  "description": "AO RAIFFEISENBANK",
+  "subnets": {
+    "ipv4": [
+      "193.28.44.0/24",
+      "195.238.72.0/23"
+    ],
+    "ipv6": []
+  }
+}

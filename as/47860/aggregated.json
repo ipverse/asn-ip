@@ -1,0 +1,11 @@
+{
+  "asn": 47860,
+  "handle": "OTC",
+  "description": "OOO OTC",
+  "subnets": {
+    "ipv4": [
+      "89.188.160.0/24"
+    ],
+    "ipv6": []
+  }
+}

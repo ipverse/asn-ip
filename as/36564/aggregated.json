@@ -1,0 +1,13 @@
+{
+  "asn": 36564,
+  "handle": "MENTORGRAPHICS-TAH",
+  "description": "Mentor Graphics Corporation",
+  "subnets": {
+    "ipv4": [
+      "139.181.40.0/22"
+    ],
+    "ipv6": [
+      "2620:107:f0ff::/48"
+    ]
+  }
+}

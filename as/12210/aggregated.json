@@ -1,0 +1,11 @@
+{
+  "asn": 12210,
+  "handle": "CWBANKNET",
+  "description": "Community West Bank",
+  "subnets": {
+    "ipv4": [
+      "168.215.212.0/24"
+    ],
+    "ipv6": []
+  }
+}

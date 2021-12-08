@@ -1,0 +1,11 @@
+{
+  "asn": 40664,
+  "handle": "COMPASSBANK",
+  "description": "Compass Bank",
+  "subnets": {
+    "ipv4": [
+      "192.251.189.0/24"
+    ],
+    "ipv6": []
+  }
+}

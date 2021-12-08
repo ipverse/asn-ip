@@ -1,0 +1,13 @@
+{
+  "asn": 207220,
+  "handle": "IPERION",
+  "description": "Iperion Life Sciences Group",
+  "subnets": {
+    "ipv4": [
+      "185.121.188.0/24"
+    ],
+    "ipv6": [
+      "2a06:a080::/32"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 24997,
+  "handle": "GE-CDN",
+  "description": "Caucasus digital network",
+  "subnets": {
+    "ipv4": [
+      "185.153.52.0/22",
+      "217.11.160.0/20"
+    ],
+    "ipv6": []
+  }
+}

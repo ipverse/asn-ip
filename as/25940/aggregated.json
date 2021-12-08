@@ -1,0 +1,12 @@
+{
+  "asn": 25940,
+  "handle": "TIBCO",
+  "description": "TIBCO Software Inc.",
+  "subnets": {
+    "ipv4": [
+      "160.101.0.0/22",
+      "160.101.128.0/22"
+    ],
+    "ipv6": []
+  }
+}

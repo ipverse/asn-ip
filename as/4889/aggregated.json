@@ -1,0 +1,11 @@
+{
+  "asn": 4889,
+  "handle": "USPSOIG-AS2",
+  "description": "United States Postal Service Office of Inspector General",
+  "subnets": {
+    "ipv4": [
+      "192.154.124.0/23"
+    ],
+    "ipv6": []
+  }
+}

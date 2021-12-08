@@ -1,0 +1,11 @@
+{
+  "asn": 328259,
+  "handle": "WAW-SAS",
+  "description": "WAW SAS",
+  "subnets": {
+    "ipv4": [
+      "196.250.200.0/22"
+    ],
+    "ipv6": []
+  }
+}

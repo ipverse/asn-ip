@@ -1,0 +1,12 @@
+{
+  "asn": 54453,
+  "handle": "MHSD76",
+  "description": "Medicine Hat School District #76",
+  "subnets": {
+    "ipv4": [
+      "199.216.212.0/24",
+      "199.216.215.0/24"
+    ],
+    "ipv6": []
+  }
+}

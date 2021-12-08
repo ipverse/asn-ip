@@ -1,0 +1,13 @@
+{
+  "asn": 271515,
+  "handle": "NET-RP-COMUNICACAO",
+  "description": "NET RP COMUNICACAO MULTIMIDIA E PROVEDOR DE INTERN",
+  "subnets": {
+    "ipv4": [
+      "168.195.210.0/24"
+    ],
+    "ipv6": [
+      "2804:7cbc::/32"
+    ]
+  }
+}

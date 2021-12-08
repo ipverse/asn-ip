@@ -1,0 +1,13 @@
+{
+  "asn": 61829,
+  "handle": "CNET-TELECOM",
+  "description": "CNET TELECOM",
+  "subnets": {
+    "ipv4": [
+      "201.131.164.0/22"
+    ],
+    "ipv6": [
+      "2804:19f8::/32"
+    ]
+  }
+}

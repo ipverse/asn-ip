@@ -1,0 +1,11 @@
+{
+  "asn": 14234,
+  "handle": "ZONAMERICA",
+  "description": "ZONAMERICA",
+  "subnets": {
+    "ipv4": [
+      "200.124.192.0/19"
+    ],
+    "ipv6": []
+  }
+}

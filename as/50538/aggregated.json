@@ -1,0 +1,12 @@
+{
+  "asn": 50538,
+  "handle": "PETROS",
+  "description": "OOO Petrosvyaz",
+  "subnets": {
+    "ipv4": [
+      "37.110.240.0/21",
+      "109.235.216.0/21"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asn": 64030,
+  "handle": "IDNIC-POLINES-ID",
+  "description": "Politeknik Negeri Semarang",
+  "subnets": {
+    "ipv4": [
+      "103.214.229.0/24"
+    ],
+    "ipv6": []
+  }
+}

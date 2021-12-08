@@ -1,0 +1,13 @@
+{
+  "asn": 138320,
+  "handle": "FALCONLINK1-AP",
+  "description": "Falcon Link",
+  "subnets": {
+    "ipv4": [
+      "103.122.252.0/22"
+    ],
+    "ipv6": [
+      "2403:98c0::/32"
+    ]
+  }
+}

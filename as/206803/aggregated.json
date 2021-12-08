@@ -1,0 +1,12 @@
+{
+  "asn": 206803,
+  "handle": "ASTERABIT",
+  "description": "LLC Terabit",
+  "subnets": {
+    "ipv4": [
+      "212.22.79.0/24",
+      "212.22.91.0/24"
+    ],
+    "ipv6": []
+  }
+}

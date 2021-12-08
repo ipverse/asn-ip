@@ -1,0 +1,13 @@
+{
+  "asn": 34499,
+  "handle": "BLACKBOX-LINX",
+  "description": "BlackBox Hosting Ltd",
+  "subnets": {
+    "ipv4": [
+      "185.94.116.0/22"
+    ],
+    "ipv6": [
+      "2a04:c700::/48"
+    ]
+  }
+}

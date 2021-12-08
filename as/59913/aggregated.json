@@ -1,0 +1,12 @@
+{
+  "asn": 59913,
+  "handle": "BDTV",
+  "description": "Aktiebolaget Sappa",
+  "subnets": {
+    "ipv4": [
+      "185.31.140.0/22",
+      "185.105.244.0/22"
+    ],
+    "ipv6": []
+  }
+}

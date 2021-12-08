@@ -1,0 +1,12 @@
+{
+  "asn": 23994,
+  "handle": "TRANSWORKS-TRANSIT-AP",
+  "description": "CONCENTRIX SERVICES INDIA PRIVATE LIMITED",
+  "subnets": {
+    "ipv4": [
+      "203.32.4.0/23",
+      "203.82.249.0/24"
+    ],
+    "ipv6": []
+  }
+}

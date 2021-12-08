@@ -1,0 +1,15 @@
+{
+  "asn": 264872,
+  "handle": "BROTHERS-LAN-HOUSE-LTDA-ME",
+  "description": "Brothers Lan House Ltda Me",
+  "subnets": {
+    "ipv4": [
+      "168.227.48.0/22",
+      "205.164.176.0/22",
+      "209.14.224.0/22"
+    ],
+    "ipv6": [
+      "2804:2f1c::/32"
+    ]
+  }
+}

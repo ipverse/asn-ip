@@ -1,0 +1,13 @@
+{
+  "asn": 269452,
+  "handle": "JEFERSON-MADALENA-EPP",
+  "description": "JEFERSON MADALENA EPP",
+  "subnets": {
+    "ipv4": [
+      "45.184.252.0/22"
+    ],
+    "ipv6": [
+      "2804:64d4::/32"
+    ]
+  }
+}

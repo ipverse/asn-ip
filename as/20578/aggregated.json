@@ -1,0 +1,12 @@
+{
+  "asn": 20578,
+  "handle": "KATELCO",
+  "description": "JSC Kazteleradio",
+  "subnets": {
+    "ipv4": [
+      "213.141.160.0/20",
+      "213.141.176.0/21"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 262506,
+  "handle": "ASERNET-TELECOM",
+  "description": "ASERNET TELECOM",
+  "subnets": {
+    "ipv4": [
+      "177.86.96.0/21"
+    ],
+    "ipv6": [
+      "2804:725c::/32"
+    ]
+  }
+}

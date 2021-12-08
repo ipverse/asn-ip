@@ -1,0 +1,12 @@
+{
+  "asn": 43249,
+  "handle": "JOUVE",
+  "description": "JOUVE SA",
+  "subnets": {
+    "ipv4": [
+      "185.102.82.0/23",
+      "193.108.166.0/23"
+    ],
+    "ipv6": []
+  }
+}

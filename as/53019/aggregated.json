@@ -1,0 +1,13 @@
+{
+  "asn": 53019,
+  "handle": "INFOTEC-SERVICOS-DE",
+  "description": "infotec- serviços de provedor da internet ltda",
+  "subnets": {
+    "ipv4": [
+      "177.70.160.0/20"
+    ],
+    "ipv6": [
+      "2804:5dc::/32"
+    ]
+  }
+}

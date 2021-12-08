@@ -1,0 +1,12 @@
+{
+  "asn": 30879,
+  "handle": "RAI",
+  "description": "Amsterdam Rai B.V.",
+  "subnets": {
+    "ipv4": [
+      "83.97.8.0/21",
+      "195.34.200.0/22"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asn": 16439,
+  "handle": "AMTRAK-IB",
+  "description": "Amtrak",
+  "subnets": {
+    "ipv4": [
+      "198.212.199.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 15355,
+  "handle": "NCC-3-ALL",
+  "description": "North County Communications, Inc.",
+  "subnets": {
+    "ipv4": [
+      "198.51.157.0/24",
+      "198.51.175.0/24",
+      "198.51.248.0/24",
+      "198.147.225.0/24"
+    ],
+    "ipv6": []
+  }
+}

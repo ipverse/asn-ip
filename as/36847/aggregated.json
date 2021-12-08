@@ -1,0 +1,13 @@
+{
+  "asn": 36847,
+  "handle": "DELTA-DENTAL-PLAN-OF-CALIFORNIA",
+  "description": "Delta Dental of California",
+  "subnets": {
+    "ipv4": [
+      "198.232.184.0/22",
+      "198.232.188.0/23",
+      "198.232.191.0/24"
+    ],
+    "ipv6": []
+  }
+}

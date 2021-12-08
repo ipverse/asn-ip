@@ -1,0 +1,11 @@
+{
+  "asn": 138363,
+  "handle": "RASON-AP",
+  "description": "Royal Agricultural Society of NSW",
+  "subnets": {
+    "ipv4": [
+      "103.131.160.0/23"
+    ],
+    "ipv6": []
+  }
+}

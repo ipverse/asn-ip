@@ -1,0 +1,11 @@
+{
+  "asn": 51799,
+  "handle": "FIDELNET",
+  "description": "FIDELNET SRL",
+  "subnets": {
+    "ipv4": [
+      "193.23.4.0/22"
+    ],
+    "ipv6": []
+  }
+}

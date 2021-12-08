@@ -1,0 +1,12 @@
+{
+  "asn": 17576,
+  "handle": "KOSEF-KR-KR",
+  "description": "National Research Foundation of Korea",
+  "subnets": {
+    "ipv4": [
+      "203.253.232.0/24",
+      "221.158.73.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 213151,
+  "handle": "CHRISELSEN",
+  "description": "Christian Elsen",
+  "subnets": {
+    "ipv4": [
+      "185.197.135.0/24"
+    ],
+    "ipv6": [
+      "2001:678:1e8::/48",
+      "2a06:e881:7300::/40"
+    ]
+  }
+}

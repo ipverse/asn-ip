@@ -1,0 +1,13 @@
+{
+  "asn": 33174,
+  "handle": "PRINCE-WILLIAM-COUNTY-VA",
+  "description": "Prince William County Government Department of IT (DoIT)",
+  "subnets": {
+    "ipv4": [
+      "199.34.106.0/24"
+    ],
+    "ipv6": [
+      "2602:fe25::/36"
+    ]
+  }
+}

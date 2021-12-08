@@ -1,0 +1,13 @@
+{
+  "asn": 396212,
+  "handle": "AIMS-COMMUNITY-COLLEGE",
+  "description": "Aims Community College",
+  "subnets": {
+    "ipv4": [
+      "205.169.69.0/24",
+      "205.169.70.0/23",
+      "205.169.248.0/23"
+    ],
+    "ipv6": []
+  }
+}

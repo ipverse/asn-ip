@@ -1,0 +1,13 @@
+{
+  "asn": 266150,
+  "handle": "BORILLE-SERVICOS-DE",
+  "description": "Borille Serviços de Telecomunicações Ltda.",
+  "subnets": {
+    "ipv4": [
+      "160.20.64.0/22"
+    ],
+    "ipv6": [
+      "2804:3b74::/32"
+    ]
+  }
+}

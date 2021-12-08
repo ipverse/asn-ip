@@ -1,0 +1,13 @@
+{
+  "asn": 136975,
+  "handle": "GNET-AP",
+  "description": "Next Tier Trading Company Limited",
+  "subnets": {
+    "ipv4": [
+      "103.101.16.0/22"
+    ],
+    "ipv6": [
+      "2403:3240::/32"
+    ]
+  }
+}

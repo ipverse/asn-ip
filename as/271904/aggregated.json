@@ -1,0 +1,16 @@
+{
+  "asn": 271904,
+  "handle": "CHARTER-COMMUNICATIONS-INTERNATIONAL",
+  "description": "CHARTER COMMUNICATIONS INTERNATIONAL DE VENEZUELA C.A.",
+  "subnets": {
+    "ipv4": [
+      "190.216.226.0/23",
+      "190.216.237.0/24",
+      "190.216.250.0/24",
+      "201.234.227.0/24"
+    ],
+    "ipv6": [
+      "2803:6210::/32"
+    ]
+  }
+}

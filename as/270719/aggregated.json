@@ -1,0 +1,13 @@
+{
+  "asn": 270719,
+  "handle": "F-S-S",
+  "description": "F S S Maia Provedor de Internet ME",
+  "subnets": {
+    "ipv4": [
+      "187.102.212.0/22"
+    ],
+    "ipv6": [
+      "2804:7050::/32"
+    ]
+  }
+}

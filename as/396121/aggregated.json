@@ -1,0 +1,12 @@
+{
+  "asn": 396121,
+  "handle": "BAYER-BERKELEY",
+  "description": "Bayer Corporation",
+  "subnets": {
+    "ipv4": [
+      "149.234.230.0/24",
+      "205.166.66.0/24"
+    ],
+    "ipv6": []
+  }
+}

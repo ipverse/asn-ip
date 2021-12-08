@@ -1,0 +1,17 @@
+{
+  "asn": 49915,
+  "handle": "MEGAPORT-GLOBAL-ACCESS",
+  "description": "Megaport (UK) Limited",
+  "subnets": {
+    "ipv4": [
+      "162.43.136.0/21",
+      "162.43.144.0/20"
+    ],
+    "ipv6": [
+      "2a0a:1800:4::/46",
+      "2a0a:1800:8::/45",
+      "2a0a:1800:10::/45",
+      "2a0a:1800:18::/46"
+    ]
+  }
+}

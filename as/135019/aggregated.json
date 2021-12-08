@@ -1,0 +1,13 @@
+{
+  "asn": 135019,
+  "handle": "AMARNETSYSTEM-AP",
+  "description": "Amar Net System",
+  "subnets": {
+    "ipv4": [
+      "103.106.2.0/24",
+      "103.205.232.0/22",
+      "115.42.52.0/22"
+    ],
+    "ipv6": []
+  }
+}

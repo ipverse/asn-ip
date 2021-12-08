@@ -1,0 +1,13 @@
+{
+  "asn": 28238,
+  "handle": "SATOR-ENGENHARIA-LTDA",
+  "description": "Sator Engenharia Ltda.",
+  "subnets": {
+    "ipv4": [
+      "186.216.224.0/20",
+      "187.0.128.0/21",
+      "187.0.136.0/22"
+    ],
+    "ipv6": []
+  }
+}

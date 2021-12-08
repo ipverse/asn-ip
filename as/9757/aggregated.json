@@ -1,0 +1,12 @@
+{
+  "asn": 9757,
+  "handle": "CMBI-KR-KR",
+  "description": "CMB DONDAEMOON BROADCASTING",
+  "subnets": {
+    "ipv4": [
+      "110.34.64.0/18",
+      "122.128.192.0/18"
+    ],
+    "ipv6": []
+  }
+}

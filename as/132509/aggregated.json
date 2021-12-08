@@ -1,0 +1,13 @@
+{
+  "asn": 132509,
+  "handle": "DAHL-AP",
+  "description": "DIGIWEB ADVANCED HOSTING LIMITED",
+  "subnets": {
+    "ipv4": [
+      "103.244.180.0/22"
+    ],
+    "ipv6": [
+      "2405:f900::/32"
+    ]
+  }
+}

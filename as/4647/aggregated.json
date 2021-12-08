@@ -1,0 +1,12 @@
+{
+  "asn": 4647,
+  "handle": "CENTRANETWORKS-AU",
+  "description": "Centra Networks",
+  "subnets": {
+    "ipv4": [
+      "103.246.28.0/22",
+      "203.30.140.0/24"
+    ],
+    "ipv6": []
+  }
+}

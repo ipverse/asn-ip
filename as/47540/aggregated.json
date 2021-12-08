@@ -1,0 +1,12 @@
+{
+  "asn": 47540,
+  "handle": "GLOBALH",
+  "description": "EUROPA DATA CENTER SRL",
+  "subnets": {
+    "ipv4": [
+      "146.19.75.0/24",
+      "176.126.175.0/24"
+    ],
+    "ipv6": []
+  }
+}

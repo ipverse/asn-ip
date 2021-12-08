@@ -1,0 +1,11 @@
+{
+  "asn": 52789,
+  "handle": "SILVA-NET-PROVEDOR",
+  "description": "SILVA NET PROVEDOR DE INTERNET LTDA",
+  "subnets": {
+    "ipv4": [
+      "177.38.76.0/22"
+    ],
+    "ipv6": []
+  }
+}

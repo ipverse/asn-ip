@@ -1,0 +1,14 @@
+{
+  "asn": 44297,
+  "handle": "ICODIA",
+  "description": "ICODIA SAS",
+  "subnets": {
+    "ipv4": [
+      "46.31.192.0/21",
+      "185.176.168.0/22"
+    ],
+    "ipv6": [
+      "2a0b:f8c0::/29"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asn": 139856,
+  "handle": "BRACBANKLIMITED-AP",
+  "description": "Brac Bank Limited",
+  "subnets": {
+    "ipv4": [
+      "115.127.38.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 270504,
+  "handle": "GERA-NET-PROVEDOR-DE-ACESSO",
+  "description": "Gera-Net Provedor de Acesso",
+  "subnets": {
+    "ipv4": [
+      "24.152.112.0/22"
+    ],
+    "ipv6": [
+      "2804:6cf8::/32"
+    ]
+  }
+}

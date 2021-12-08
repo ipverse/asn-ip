@@ -1,0 +1,13 @@
+{
+  "asn": 266133,
+  "handle": "LOCAL-INTERNET",
+  "description": "LOCAL INTERNET",
+  "subnets": {
+    "ipv4": [
+      "45.6.64.0/22"
+    ],
+    "ipv6": [
+      "2804:3b2c:8000::/36"
+    ]
+  }
+}

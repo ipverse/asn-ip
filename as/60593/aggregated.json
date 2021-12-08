@@ -1,0 +1,11 @@
+{
+  "asn": 60593,
+  "handle": "NR-DC-UK",
+  "description": "Network Rail Infrastructure Limited",
+  "subnets": {
+    "ipv4": [
+      "185.196.134.0/23"
+    ],
+    "ipv6": []
+  }
+}

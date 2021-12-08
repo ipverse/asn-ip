@@ -1,0 +1,13 @@
+{
+  "asn": 30118,
+  "handle": "MIZUHO-BANK-LIMITED-NAT",
+  "description": "Mizuho Bank, Ltd.",
+  "subnets": {
+    "ipv4": [
+      "8.2.79.0/24",
+      "8.11.195.0/24",
+      "208.85.104.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 204626,
+  "handle": "MUCASN",
+  "description": "Modern University College",
+  "subnets": {
+    "ipv4": [
+      "91.218.152.0/23"
+    ],
+    "ipv6": [
+      "2001:678:5f4::/48"
+    ]
+  }
+}

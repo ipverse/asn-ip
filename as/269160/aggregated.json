@@ -1,0 +1,13 @@
+{
+  "asn": 269160,
+  "handle": "NATALY-OLIVEIRA-BLOCK",
+  "description": "Nataly Oliveira Block Provedor de Internet",
+  "subnets": {
+    "ipv4": [
+      "45.181.28.0/22"
+    ],
+    "ipv6": [
+      "2804:6054::/32"
+    ]
+  }
+}

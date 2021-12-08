@@ -1,0 +1,13 @@
+{
+  "asn": 269093,
+  "handle": "RN-TELECOM",
+  "description": "RN TELECOM",
+  "subnets": {
+    "ipv4": [
+      "45.179.172.0/22"
+    ],
+    "ipv6": [
+      "2804:5f58::/32"
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 17823,
+  "handle": "THNIC-ASN-AP",
+  "description": "T.H.NIC Co.,Ltd.",
+  "subnets": {
+    "ipv4": [
+      "103.155.66.0/24",
+      "202.28.1.0/24"
+    ],
+    "ipv6": [
+      "2001:df4:b880::/48"
+    ]
+  }
+}

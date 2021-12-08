@@ -1,0 +1,14 @@
+{
+  "asn": 267518,
+  "handle": "TECHNIK-INFORMATICA-LTDA-ME",
+  "description": "TECHNIK INFORMATICA LTDA - ME",
+  "subnets": {
+    "ipv4": [
+      "201.182.124.0/22"
+    ],
+    "ipv6": [
+      "2804:42ac::/33",
+      "2804:42ac:8000::/34"
+    ]
+  }
+}

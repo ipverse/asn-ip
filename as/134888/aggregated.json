@@ -1,0 +1,12 @@
+{
+  "asn": 134888,
+  "handle": "GIS-IN",
+  "description": "Ganesha Internet Services India Private Limited",
+  "subnets": {
+    "ipv4": [
+      "103.63.29.0/24",
+      "103.63.30.0/24"
+    ],
+    "ipv6": []
+  }
+}

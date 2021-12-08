@@ -1,0 +1,12 @@
+{
+  "asn": 205635,
+  "handle": "CNG",
+  "description": "Kevin Horvat",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a10:2f00:124::/48",
+      "2a10:2f01:2b0::/46"
+    ]
+  }
+}

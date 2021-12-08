@@ -1,0 +1,13 @@
+{
+  "asn": 270708,
+  "handle": "WEBNET-GLOBAL-TELEFONIA",
+  "description": "WEBNET GLOBAL TELEFONIA E COMUNICACAO EIRELI",
+  "subnets": {
+    "ipv4": [
+      "189.127.160.0/22"
+    ],
+    "ipv6": [
+      "2804:7024::/32"
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 266475,
+  "handle": "SEM-FRONTEIRAS-TELECOMUNICACOES",
+  "description": "SEM FRONTEIRAS TELECOMUNICACOES LTDA",
+  "subnets": {
+    "ipv4": [
+      "38.9.112.0/22",
+      "170.83.172.0/22"
+    ],
+    "ipv6": [
+      "2804:3868::/32"
+    ]
+  }
+}

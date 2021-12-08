@@ -1,0 +1,13 @@
+{
+  "asn": 34545,
+  "handle": "WEBINARTEHNOLOGII",
+  "description": "Webinar Tehnologii OOO",
+  "subnets": {
+    "ipv4": [
+      "37.130.192.0/23",
+      "37.130.194.0/24",
+      "185.45.82.0/23"
+    ],
+    "ipv6": []
+  }
+}

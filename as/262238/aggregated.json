@@ -1,0 +1,13 @@
+{
+  "asn": 262238,
+  "handle": "ENNIA-CARIBE-HOLDING-NV",
+  "description": "Ennia Caribe Holding N.V.",
+  "subnets": {
+    "ipv4": [
+      "200.115.179.0/24"
+    ],
+    "ipv6": [
+      "2801:0:310::/48"
+    ]
+  }
+}

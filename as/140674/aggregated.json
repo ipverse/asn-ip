@@ -1,0 +1,12 @@
+{
+  "asn": 140674,
+  "handle": "OCTATECHIT-AP",
+  "description": "Octatech IT",
+  "subnets": {
+    "ipv4": [
+      "103.114.95.0/24",
+      "103.151.170.0/23"
+    ],
+    "ipv6": []
+  }
+}

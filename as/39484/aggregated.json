@@ -1,0 +1,11 @@
+{
+  "asn": 39484,
+  "handle": "POAS",
+  "description": "Pirkan Opiskelija-asunnot Oy",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a02:13c8::/32"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 42820,
+  "handle": "ECONECTIA",
+  "description": "eConectia Uniasser SL",
+  "subnets": {
+    "ipv4": [
+      "5.183.184.0/22",
+      "185.74.240.0/22"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 37673,
+  "handle": "TELEMASTERS",
+  "description": "Telemasters",
+  "subnets": {
+    "ipv4": [
+      "41.77.24.0/21",
+      "196.223.56.0/21"
+    ],
+    "ipv6": []
+  }
+}

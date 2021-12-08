@@ -1,0 +1,15 @@
+{
+  "asn": 59458,
+  "handle": "PURELINE",
+  "description": "Pure Line Co. For Telecommunications \u0026 Internet Ltd.",
+  "subnets": {
+    "ipv4": [
+      "5.149.96.0/24",
+      "5.149.100.0/22",
+      "5.149.105.0/24",
+      "5.149.108.0/23",
+      "5.149.110.0/24"
+    ],
+    "ipv6": []
+  }
+}

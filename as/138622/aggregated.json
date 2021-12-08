@@ -1,0 +1,13 @@
+{
+  "asn": 138622,
+  "handle": "UCS-AP",
+  "description": "Unique Communication Service",
+  "subnets": {
+    "ipv4": [
+      "103.134.226.0/23"
+    ],
+    "ipv6": [
+      "2001:df5:8280::/48"
+    ]
+  }
+}

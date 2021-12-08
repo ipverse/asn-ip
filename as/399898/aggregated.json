@@ -1,0 +1,11 @@
+{
+  "asn": 399898,
+  "handle": "CONEXON-CONNECT",
+  "description": "Conexon Connect",
+  "subnets": {
+    "ipv4": [
+      "147.124.80.0/20"
+    ],
+    "ipv6": []
+  }
+}

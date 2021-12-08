@@ -1,0 +1,13 @@
+{
+  "asn": 26130,
+  "handle": "LIPTINFOR",
+  "description": "LIPTINFOR NIGER SA",
+  "subnets": {
+    "ipv4": [
+      "154.66.220.0/22"
+    ],
+    "ipv6": [
+      "2c0f:eae8::/32"
+    ]
+  }
+}

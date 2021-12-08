@@ -1,0 +1,12 @@
+{
+  "asn": 207976,
+  "handle": "V6NETWORKING",
+  "description": "V6Networking LLC",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2605:6f40::/32",
+      "2605:d7c0::/32"
+    ]
+  }
+}

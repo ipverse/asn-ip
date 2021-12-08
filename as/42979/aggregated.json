@@ -1,0 +1,14 @@
+{
+  "asn": 42979,
+  "handle": "ASGLBLCOM",
+  "description": "SIA Globalcom",
+  "subnets": {
+    "ipv4": [
+      "85.254.1.0/24",
+      "85.254.3.0/24"
+    ],
+    "ipv6": [
+      "2a02:610:ffff::/48"
+    ]
+  }
+}

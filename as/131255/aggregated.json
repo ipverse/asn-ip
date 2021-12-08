@@ -1,0 +1,12 @@
+{
+  "asn": 131255,
+  "handle": "CALIBERPOINT-BUSINESS-AP",
+  "description": "Hexaware Technologies Limited",
+  "subnets": {
+    "ipv4": [
+      "103.194.131.0/24",
+      "202.137.226.0/23"
+    ],
+    "ipv6": []
+  }
+}

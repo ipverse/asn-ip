@@ -1,0 +1,15 @@
+{
+  "asn": 397122,
+  "handle": "NORVADO-NET",
+  "description": "Chequamegon Communications Cooperative, Inc.",
+  "subnets": {
+    "ipv4": [
+      "68.234.64.0/20",
+      "96.47.112.0/20",
+      "206.51.33.0/24"
+    ],
+    "ipv6": [
+      "2606:9080::/32"
+    ]
+  }
+}

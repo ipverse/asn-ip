@@ -1,0 +1,12 @@
+{
+  "asn": 32410,
+  "handle": "HMSTEINSGRP",
+  "description": "Homesite Group Inc",
+  "subnets": {
+    "ipv4": [
+      "199.189.177.0/24",
+      "199.189.178.0/23"
+    ],
+    "ipv6": []
+  }
+}

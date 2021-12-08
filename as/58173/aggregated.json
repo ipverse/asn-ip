@@ -1,0 +1,14 @@
+{
+  "asn": 58173,
+  "handle": "ONWAVE",
+  "description": "Nucleus VP Group Limited",
+  "subnets": {
+    "ipv4": [
+      "5.61.72.0/21",
+      "134.0.80.0/21",
+      "185.18.48.0/22",
+      "185.205.160.0/22"
+    ],
+    "ipv6": []
+  }
+}

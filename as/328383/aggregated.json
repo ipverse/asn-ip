@@ -1,0 +1,13 @@
+{
+  "asn": 328383,
+  "handle": "XTOM-LIMITED",
+  "description": "xTom Limited",
+  "subnets": {
+    "ipv4": [
+      "102.130.48.0/22"
+    ],
+    "ipv6": [
+      "2c0f:ec00::/32"
+    ]
+  }
+}

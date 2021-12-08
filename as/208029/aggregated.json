@@ -1,0 +1,14 @@
+{
+  "asn": 208029,
+  "handle": "MARIOC",
+  "description": "Mario Cnockaert",
+  "subnets": {
+    "ipv4": [
+      "45.13.117.0/24"
+    ],
+    "ipv6": [
+      "2a09:be40:1700::/40",
+      "2a0c:b641:470::/44"
+    ]
+  }
+}

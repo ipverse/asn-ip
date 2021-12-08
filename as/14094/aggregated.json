@@ -1,0 +1,12 @@
+{
+  "asn": 14094,
+  "handle": "BIGLOTS-HQ",
+  "description": "Big Lots Stores, Inc.",
+  "subnets": {
+    "ipv4": [
+      "12.20.122.0/24",
+      "12.109.75.0/24"
+    ],
+    "ipv6": []
+  }
+}

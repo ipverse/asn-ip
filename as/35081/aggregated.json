@@ -1,0 +1,12 @@
+{
+  "asn": 35081,
+  "handle": "URS",
+  "description": "Kyivstar PJSC",
+  "subnets": {
+    "ipv4": [
+      "77.247.216.0/21",
+      "193.239.128.0/23"
+    ],
+    "ipv6": []
+  }
+}

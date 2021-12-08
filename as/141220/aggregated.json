@@ -1,0 +1,11 @@
+{
+  "asn": 141220,
+  "handle": "DISCOVERY24ONLINE-AP",
+  "description": "Discovery 24 Online",
+  "subnets": {
+    "ipv4": [
+      "103.156.180.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 210211,
+  "handle": "SUMUP",
+  "description": "Sumup Limited",
+  "subnets": {
+    "ipv4": [
+      "31.13.226.0/24",
+      "87.121.40.0/23"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 131810,
+  "handle": "KBONECLOUDGP-KR-KR",
+  "description": "KOOKMIN BANK",
+  "subnets": {
+    "ipv4": [
+      "39.123.229.0/24",
+      "112.171.105.0/24"
+    ],
+    "ipv6": []
+  }
+}

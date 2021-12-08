@@ -1,0 +1,13 @@
+{
+  "asn": 59965,
+  "handle": "LEOGIS",
+  "description": "Astralus GmbH",
+  "subnets": {
+    "ipv4": [
+      "185.251.52.0/22"
+    ],
+    "ipv6": [
+      "2a0c:15c0::/29"
+    ]
+  }
+}

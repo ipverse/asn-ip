@@ -1,0 +1,14 @@
+{
+  "asn": 263717,
+  "handle": "SOL-TELECOMUNICACIONES-SA",
+  "description": "SOL TELECOMUNICACIONES S.A.",
+  "subnets": {
+    "ipv4": [
+      "132.255.164.0/22",
+      "167.250.36.0/22",
+      "170.82.144.0/22",
+      "170.84.172.0/22"
+    ],
+    "ipv6": []
+  }
+}

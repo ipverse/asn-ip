@@ -1,0 +1,11 @@
+{
+  "asn": 200560,
+  "handle": "MET-AMSTERDAM",
+  "description": "Metro en Tram (Gemeente Amsterdam)",
+  "subnets": {
+    "ipv4": [
+      "185.103.56.0/22"
+    ],
+    "ipv6": []
+  }
+}

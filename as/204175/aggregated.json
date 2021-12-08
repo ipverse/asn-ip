@@ -1,0 +1,12 @@
+{
+  "asn": 204175,
+  "handle": "AKINOSTRA",
+  "description": "AKINOSTRA S.L.",
+  "subnets": {
+    "ipv4": [
+      "185.177.42.0/23",
+      "185.232.132.0/23"
+    ],
+    "ipv6": []
+  }
+}

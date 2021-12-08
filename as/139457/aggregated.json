@@ -1,0 +1,13 @@
+{
+  "asn": 139457,
+  "handle": "IDNIC-ANTMEDIAHOST-ID",
+  "description": "PT Semut Data Indonesia",
+  "subnets": {
+    "ipv4": [
+      "103.146.62.0/23",
+      "103.167.112.0/23",
+      "202.73.25.0/24"
+    ],
+    "ipv6": []
+  }
+}

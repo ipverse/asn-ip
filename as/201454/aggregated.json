@@ -1,0 +1,14 @@
+{
+  "asn": 201454,
+  "handle": "UPHEADS",
+  "description": "UPHEADS AS",
+  "subnets": {
+    "ipv4": [
+      "45.140.0.0/22",
+      "185.73.24.0/22"
+    ],
+    "ipv6": [
+      "2a05:3f00::/29"
+    ]
+  }
+}

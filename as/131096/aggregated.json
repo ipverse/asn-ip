@@ -1,0 +1,11 @@
+{
+  "asn": 131096,
+  "handle": "MASTERCAR-KR-KR",
+  "description": "Master Motors Management",
+  "subnets": {
+    "ipv4": [
+      "220.75.200.0/24"
+    ],
+    "ipv6": []
+  }
+}

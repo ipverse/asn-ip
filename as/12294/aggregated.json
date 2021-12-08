@@ -1,0 +1,13 @@
+{
+  "asn": 12294,
+  "handle": "TSYSTEMS",
+  "description": "PrJSC VF UKRAINE",
+  "subnets": {
+    "ipv4": [
+      "212.40.32.0/19"
+    ],
+    "ipv6": [
+      "2a01:7c0::/32"
+    ]
+  }
+}

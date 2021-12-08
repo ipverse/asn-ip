@@ -1,0 +1,15 @@
+{
+  "asn": 38766,
+  "handle": "BMP-ID",
+  "description": "PT. Bumi Merbabu Permai",
+  "subnets": {
+    "ipv4": [
+      "114.30.80.0/22",
+      "114.30.85.0/24",
+      "114.30.86.0/23"
+    ],
+    "ipv6": [
+      "2403:ae00::/32"
+    ]
+  }
+}

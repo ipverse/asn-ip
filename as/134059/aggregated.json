@@ -1,0 +1,12 @@
+{
+  "asn": 134059,
+  "handle": "SOFTEARTH",
+  "description": "Softearth Network Pvt Ltd",
+  "subnets": {
+    "ipv4": [
+      "103.51.216.0/22",
+      "220.158.136.0/22"
+    ],
+    "ipv6": []
+  }
+}

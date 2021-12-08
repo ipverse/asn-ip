@@ -1,0 +1,13 @@
+{
+  "asn": 61590,
+  "handle": "DNS-TELECOMUNICACOES-E",
+  "description": "DNS TELECOMUNICACOES E SOLUCOES EM INFORMATICA EIR",
+  "subnets": {
+    "ipv4": [
+      "45.234.12.0/22"
+    ],
+    "ipv6": [
+      "2804:4bf0::/32"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 49963,
+  "handle": "BELRTS",
+  "description": "Regional TeleSystem Ltd",
+  "subnets": {
+    "ipv4": [
+      "93.170.108.0/22",
+      "146.120.176.0/22",
+      "194.190.28.0/22"
+    ],
+    "ipv6": []
+  }
+}

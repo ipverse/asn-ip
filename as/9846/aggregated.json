@@ -1,0 +1,11 @@
+{
+  "asn": 9846,
+  "handle": "FIRSTDATA-KR-KR",
+  "description": "FDIK",
+  "subnets": {
+    "ipv4": [
+      "210.182.8.0/24"
+    ],
+    "ipv6": []
+  }
+}

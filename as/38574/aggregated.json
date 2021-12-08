@@ -1,0 +1,13 @@
+{
+  "asn": 38574,
+  "handle": "LCSD-AS1-AP",
+  "description": "Leisure and Cultural Services Department",
+  "subnets": {
+    "ipv4": [
+      "203.31.32.0/24"
+    ],
+    "ipv6": [
+      "2001:df0:22b::/48"
+    ]
+  }
+}

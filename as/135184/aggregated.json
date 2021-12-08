@@ -1,0 +1,11 @@
+{
+  "asn": 135184,
+  "handle": "TRUEINET-IN",
+  "description": "TRUEiNET NETWORKS",
+  "subnets": {
+    "ipv4": [
+      "103.217.128.0/22"
+    ],
+    "ipv6": []
+  }
+}

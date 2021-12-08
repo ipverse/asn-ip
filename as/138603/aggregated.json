@@ -1,0 +1,11 @@
+{
+  "asn": 138603,
+  "handle": "BJN-INDIA",
+  "description": "Blue Jeans Network",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2001:df1:e307::/48"
+    ]
+  }
+}

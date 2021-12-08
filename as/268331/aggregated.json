@@ -1,0 +1,13 @@
+{
+  "asn": 268331,
+  "handle": "LINK-BARATOCOM-TELECOMUNICACOES",
+  "description": "LINK BARATO.COM TELECOMUNICACOES EIRELI",
+  "subnets": {
+    "ipv4": [
+      "45.238.112.0/22"
+    ],
+    "ipv6": [
+      "2804:4f84::/32"
+    ]
+  }
+}

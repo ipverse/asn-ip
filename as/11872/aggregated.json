@@ -1,0 +1,14 @@
+{
+  "asn": 11872,
+  "handle": "SYRACUSE-UNIVERSITY",
+  "description": "Syracuse University",
+  "subnets": {
+    "ipv4": [
+      "128.230.0.0/16",
+      "149.119.0.0/16"
+    ],
+    "ipv6": [
+      "2620:4e::/48"
+    ]
+  }
+}

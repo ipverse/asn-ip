@@ -1,0 +1,13 @@
+{
+  "asn": 270131,
+  "handle": "FIBRA-Y-SOLUCIONES",
+  "description": "FIBRA Y SOLUCIONES LATINOAMERICANO SA DE CV",
+  "subnets": {
+    "ipv4": [
+      "45.177.176.0/23"
+    ],
+    "ipv6": [
+      "2806:33f::/32"
+    ]
+  }
+}

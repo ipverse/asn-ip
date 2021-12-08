@@ -1,0 +1,12 @@
+{
+  "asn": 3272,
+  "handle": "FUJITSU-SERVICES",
+  "description": "Fujitsu Services A/S",
+  "subnets": {
+    "ipv4": [
+      "193.219.16.0/21",
+      "193.219.24.0/22"
+    ],
+    "ipv6": []
+  }
+}

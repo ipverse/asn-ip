@@ -1,0 +1,13 @@
+{
+  "asn": 395785,
+  "handle": "WISE-ASN-01",
+  "description": "WiseBroadband",
+  "subnets": {
+    "ipv4": [
+      "23.131.128.0/24"
+    ],
+    "ipv6": [
+      "2607:ed80::/32"
+    ]
+  }
+}

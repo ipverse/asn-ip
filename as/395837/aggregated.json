@@ -1,0 +1,13 @@
+{
+  "asn": 395837,
+  "handle": "EIN",
+  "description": "E-Innovations Networking Inc.",
+  "subnets": {
+    "ipv4": [
+      "66.194.75.0/24"
+    ],
+    "ipv6": [
+      "2620:12c:c000::/46"
+    ]
+  }
+}

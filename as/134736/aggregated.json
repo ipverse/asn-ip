@@ -1,0 +1,12 @@
+{
+  "asn": 134736,
+  "handle": "NTTCT-AP",
+  "description": "NTT Communications (Thailand) Co., Ltd. (Yangon Branch)",
+  "subnets": {
+    "ipv4": [
+      "59.153.108.0/22",
+      "103.198.148.0/22"
+    ],
+    "ipv6": []
+  }
+}

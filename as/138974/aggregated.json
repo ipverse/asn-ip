@@ -1,0 +1,11 @@
+{
+  "asn": 138974,
+  "handle": "MESHNETWORK-AP",
+  "description": "MESH NETWORK",
+  "subnets": {
+    "ipv4": [
+      "103.150.68.0/23"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 59065,
+  "handle": "PAYPALCN",
+  "description": "PayPal Network Information Services (Shanghai) Co., Ltd.",
+  "subnets": {
+    "ipv4": [
+      "43.230.181.0/24",
+      "43.230.182.0/24",
+      "103.50.1.0/24",
+      "103.50.2.0/23",
+      "103.59.121.0/24",
+      "103.59.122.0/24"
+    ],
+    "ipv6": []
+  }
+}

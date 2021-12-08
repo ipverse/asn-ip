@@ -1,0 +1,13 @@
+{
+  "asn": 263873,
+  "handle": "CONECTA-NET",
+  "description": "Conecta NET",
+  "subnets": {
+    "ipv4": [
+      "138.186.16.0/22"
+    ],
+    "ipv6": [
+      "2804:2710::/32"
+    ]
+  }
+}

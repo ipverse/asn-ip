@@ -1,0 +1,14 @@
+{
+  "asn": 53093,
+  "handle": "VOAX-TELECOM-SERVICOS-LTDA",
+  "description": "VOAX TELECOM SERVICOS LTDA",
+  "subnets": {
+    "ipv4": [
+      "177.137.88.0/21",
+      "187.95.224.0/19"
+    ],
+    "ipv6": [
+      "2804:158::/32"
+    ]
+  }
+}

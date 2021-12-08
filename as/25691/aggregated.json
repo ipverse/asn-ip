@@ -1,0 +1,12 @@
+{
+  "asn": 25691,
+  "handle": "CTSTATEU",
+  "description": "Connecticut State University System",
+  "subnets": {
+    "ipv4": [
+      "149.152.0.0/20",
+      "155.43.0.0/16"
+    ],
+    "ipv6": []
+  }
+}

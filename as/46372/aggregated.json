@@ -1,0 +1,11 @@
+{
+  "asn": 46372,
+  "handle": "MPS",
+  "description": "Mercury Payment Systems",
+  "subnets": {
+    "ipv4": [
+      "192.225.29.0/24"
+    ],
+    "ipv6": []
+  }
+}

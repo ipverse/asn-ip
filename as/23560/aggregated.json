@@ -1,0 +1,11 @@
+{
+  "asn": 23560,
+  "handle": "METLIFEKOREA-KR-KR",
+  "description": "MetLife Korea",
+  "subnets": {
+    "ipv4": [
+      "61.41.206.0/24"
+    ],
+    "ipv6": []
+  }
+}

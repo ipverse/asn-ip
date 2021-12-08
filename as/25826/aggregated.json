@@ -1,0 +1,13 @@
+{
+  "asn": 25826,
+  "handle": "UOTTAWA",
+  "description": "University of Ottawa",
+  "subnets": {
+    "ipv4": [
+      "137.122.0.0/16",
+      "192.75.139.0/24",
+      "216.48.80.0/20"
+    ],
+    "ipv6": []
+  }
+}

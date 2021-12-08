@@ -1,0 +1,11 @@
+{
+  "asn": 141536,
+  "handle": "INTERLOK-IN",
+  "description": "Interlock Communication",
+  "subnets": {
+    "ipv4": [
+      "103.162.78.0/23"
+    ],
+    "ipv6": []
+  }
+}

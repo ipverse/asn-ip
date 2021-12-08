@@ -1,0 +1,13 @@
+{
+  "asn": 8511,
+  "handle": "-AI",
+  "description": "ASIAINFO TE",
+  "subnets": {
+    "ipv4": [
+      "195.38.160.0/19"
+    ],
+    "ipv6": [
+      "2a11:a380::/29"
+    ]
+  }
+}

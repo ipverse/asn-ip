@@ -1,0 +1,14 @@
+{
+  "asn": 264137,
+  "handle": "CLICKNET-TELECOM",
+  "description": "ClickNet Telecom",
+  "subnets": {
+    "ipv4": [
+      "138.97.96.0/22",
+      "170.0.220.0/22"
+    ],
+    "ipv6": [
+      "2804:2304::/32"
+    ]
+  }
+}

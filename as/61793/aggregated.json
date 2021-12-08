@@ -1,0 +1,13 @@
+{
+  "asn": 61793,
+  "handle": "ELLONET-SOLUCOES-EM",
+  "description": "ELLONET SOLUCOES EM TECNOLOGIA LTDA - ME",
+  "subnets": {
+    "ipv4": [
+      "201.130.28.0/22"
+    ],
+    "ipv6": [
+      "2804:1968::/32"
+    ]
+  }
+}

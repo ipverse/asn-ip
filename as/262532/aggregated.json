@@ -1,0 +1,14 @@
+{
+  "asn": 262532,
+  "handle": "VAS-FREITAS-SERVICOS",
+  "description": "VAS Freitas Servicos de Internet Ltda",
+  "subnets": {
+    "ipv4": [
+      "177.55.240.0/20",
+      "186.249.176.0/20"
+    ],
+    "ipv6": [
+      "2804:ec8::/32"
+    ]
+  }
+}

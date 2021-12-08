@@ -1,0 +1,11 @@
+{
+  "asn": 263636,
+  "handle": "CALLNET-TELECOM",
+  "description": "CALLNET TELECOM",
+  "subnets": {
+    "ipv4": [
+      "177.200.112.0/20"
+    ],
+    "ipv6": []
+  }
+}

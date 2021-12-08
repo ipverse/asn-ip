@@ -1,0 +1,14 @@
+{
+  "asn": 202315,
+  "handle": "ACCENT-AUTOMATISERING",
+  "description": "Accent Assets B.V.",
+  "subnets": {
+    "ipv4": [
+      "194.49.80.0/24",
+      "194.49.82.0/23"
+    ],
+    "ipv6": [
+      "2a0c:c8c0::/47"
+    ]
+  }
+}

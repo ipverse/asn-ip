@@ -1,0 +1,12 @@
+{
+  "asn": 136287,
+  "handle": "FALCONET-IN",
+  "description": "Falconet Internet Pvt.ltd.",
+  "subnets": {
+    "ipv4": [
+      "103.87.24.0/22",
+      "103.164.204.0/23"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 3850,
+  "handle": "NAGRAUSA",
+  "description": "OpenTV Inc",
+  "subnets": {
+    "ipv4": [
+      "198.58.39.0/24",
+      "198.217.5.0/24"
+    ],
+    "ipv6": []
+  }
+}

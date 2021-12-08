@@ -1,0 +1,13 @@
+{
+  "asn": 19568,
+  "handle": "AFFINITYTS",
+  "description": "Affinity Technology Solutions LLC",
+  "subnets": {
+    "ipv4": [
+      "23.170.192.0/24"
+    ],
+    "ipv6": [
+      "2604:92c0::/32"
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 7849,
+  "handle": "CROCKERCOM",
+  "description": "CROCKER COMMUNICATIONS",
+  "subnets": {
+    "ipv4": [
+      "66.59.48.0/20",
+      "161.77.0.0/16"
+    ],
+    "ipv6": [
+      "2001:4918::/32"
+    ]
+  }
+}

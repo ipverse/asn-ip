@@ -1,0 +1,13 @@
+{
+  "asn": 264892,
+  "handle": "GENTE-TELECOM-DO",
+  "description": "Gente Telecom do Brasil Eireli ME",
+  "subnets": {
+    "ipv4": [
+      "168.205.252.0/22"
+    ],
+    "ipv6": [
+      "2804:2f74::/32"
+    ]
+  }
+}

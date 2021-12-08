@@ -1,0 +1,13 @@
+{
+  "asn": 33218,
+  "handle": "BELZONICABLE",
+  "description": "Belzoni Cable, LLC",
+  "subnets": {
+    "ipv4": [
+      "66.245.184.0/21",
+      "74.174.204.0/22",
+      "158.51.148.0/22"
+    ],
+    "ipv6": []
+  }
+}

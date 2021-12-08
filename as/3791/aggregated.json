@@ -1,0 +1,13 @@
+{
+  "asn": 3791,
+  "handle": "ASCENSION-KSWIC",
+  "description": "Ascension Technologies",
+  "subnets": {
+    "ipv4": [
+      "192.206.56.0/24",
+      "199.47.16.0/24",
+      "199.47.18.0/24"
+    ],
+    "ipv6": []
+  }
+}

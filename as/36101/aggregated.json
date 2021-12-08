@@ -1,0 +1,13 @@
+{
+  "asn": 36101,
+  "handle": "APU",
+  "description": "Azusa Pacific University",
+  "subnets": {
+    "ipv4": [
+      "192.190.106.0/24",
+      "199.184.236.0/23",
+      "199.184.238.0/24"
+    ],
+    "ipv6": []
+  }
+}

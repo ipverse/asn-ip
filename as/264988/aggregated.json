@@ -1,0 +1,13 @@
+{
+  "asn": 264988,
+  "handle": "AW-PROVEDOR-LTDA-ME",
+  "description": "aw provedor ltda me",
+  "subnets": {
+    "ipv4": [
+      "170.84.68.0/22"
+    ],
+    "ipv6": [
+      "2804:3108::/32"
+    ]
+  }
+}

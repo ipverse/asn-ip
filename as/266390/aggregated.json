@@ -1,0 +1,14 @@
+{
+  "asn": 266390,
+  "handle": "TAJO-TECNOLOGIA-LTDA",
+  "description": "Tajo Tecnologia Ltda",
+  "subnets": {
+    "ipv4": [
+      "170.80.188.0/22"
+    ],
+    "ipv6": [
+      "2804:371c:2::/48",
+      "2804:371c:8000::/48"
+    ]
+  }
+}

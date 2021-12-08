@@ -1,0 +1,13 @@
+{
+  "asn": 46913,
+  "handle": "WMG-WEBPROP-DMD",
+  "description": "Warner Bros. Records",
+  "subnets": {
+    "ipv4": [
+      "205.143.67.0/24",
+      "205.143.68.0/24",
+      "205.143.70.0/23"
+    ],
+    "ipv6": []
+  }
+}

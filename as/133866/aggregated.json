@@ -1,0 +1,13 @@
+{
+  "asn": 133866,
+  "handle": "UTURN-AP",
+  "description": "U-Turn Technology",
+  "subnets": {
+    "ipv4": [
+      "103.76.44.0/22",
+      "103.133.141.0/24",
+      "116.206.88.0/22"
+    ],
+    "ipv6": []
+  }
+}

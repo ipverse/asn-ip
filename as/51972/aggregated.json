@@ -1,0 +1,13 @@
+{
+  "asn": 51972,
+  "handle": "MIRANET-NET",
+  "description": "SIM-TELECOM LLC.",
+  "subnets": {
+    "ipv4": [
+      "91.222.60.0/22"
+    ],
+    "ipv6": [
+      "2a09:8387:ffff::/48"
+    ]
+  }
+}

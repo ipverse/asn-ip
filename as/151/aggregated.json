@@ -1,0 +1,14 @@
+{
+  "asn": 151,
+  "handle": "IND-NTC",
+  "description": "Hewlett-Packard Company",
+  "subnets": {
+    "ipv4": [
+      "15.216.8.0/24",
+      "15.216.16.0/24",
+      "16.139.64.0/24",
+      "192.170.48.0/22"
+    ],
+    "ipv6": []
+  }
+}

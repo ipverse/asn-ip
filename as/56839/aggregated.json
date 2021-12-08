@@ -1,0 +1,12 @@
+{
+  "asn": 56839,
+  "handle": "DABLTECH",
+  "description": "DABLTECH LTD",
+  "subnets": {
+    "ipv4": [
+      "91.226.245.0/24",
+      "193.150.127.0/24"
+    ],
+    "ipv6": []
+  }
+}

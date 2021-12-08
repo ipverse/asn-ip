@@ -1,0 +1,13 @@
+{
+  "asn": 394710,
+  "handle": "TELMAX-INC",
+  "description": "TelMAX Inc.",
+  "subnets": {
+    "ipv4": [
+      "209.216.96.0/19"
+    ],
+    "ipv6": [
+      "2604:7a40::/32"
+    ]
+  }
+}

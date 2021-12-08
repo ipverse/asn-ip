@@ -1,0 +1,13 @@
+{
+  "asn": 132020,
+  "handle": "NINEWIRE-AP",
+  "description": "NineWire Pty Ltd",
+  "subnets": {
+    "ipv4": [
+      "103.246.234.0/24"
+    ],
+    "ipv6": [
+      "2001:df0:245::/48"
+    ]
+  }
+}

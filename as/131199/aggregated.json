@@ -1,0 +1,14 @@
+{
+  "asn": 131199,
+  "handle": "NEXEON-AP",
+  "description": "Nexeon Technologies, Inc.",
+  "subnets": {
+    "ipv4": [
+      "103.243.188.0/22",
+      "118.103.188.0/22"
+    ],
+    "ipv6": [
+      "2404:1980::/32"
+    ]
+  }
+}

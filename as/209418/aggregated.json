@@ -1,0 +1,13 @@
+{
+  "asn": 209418,
+  "handle": "KUKUA",
+  "description": "Kukua s.r.l.",
+  "subnets": {
+    "ipv4": [
+      "193.17.80.0/22"
+    ],
+    "ipv6": [
+      "2a0c:7d40::/32"
+    ]
+  }
+}

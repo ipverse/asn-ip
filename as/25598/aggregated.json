@@ -1,0 +1,13 @@
+{
+  "asn": 25598,
+  "handle": "FENACO",
+  "description": "fenaco Genossenschaft",
+  "subnets": {
+    "ipv4": [
+      "193.135.4.0/23",
+      "193.200.144.0/24",
+      "195.245.237.0/24"
+    ],
+    "ipv6": []
+  }
+}

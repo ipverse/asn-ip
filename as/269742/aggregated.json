@@ -1,0 +1,12 @@
+{
+  "asn": 269742,
+  "handle": "AVIDTEL-EU",
+  "description": "AVIDTEL E.U.",
+  "subnets": {
+    "ipv4": [
+      "45.180.22.0/23",
+      "45.180.44.0/24"
+    ],
+    "ipv6": []
+  }
+}

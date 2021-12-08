@@ -1,0 +1,12 @@
+{
+  "asn": 44008,
+  "handle": "RBKC",
+  "description": "Royal Borough of Kensington and Chelsea",
+  "subnets": {
+    "ipv4": [
+      "91.237.231.0/24",
+      "193.36.16.0/20"
+    ],
+    "ipv6": []
+  }
+}

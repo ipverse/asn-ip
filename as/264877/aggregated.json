@@ -1,0 +1,14 @@
+{
+  "asn": 264877,
+  "handle": "ROBERVAL-ANTONIO-ROSSI-ME",
+  "description": "ROBERVAL ANTONIO ROSSI ME",
+  "subnets": {
+    "ipv4": [
+      "168.205.40.0/22",
+      "170.239.8.0/22"
+    ],
+    "ipv6": [
+      "2804:2f34::/35"
+    ]
+  }
+}

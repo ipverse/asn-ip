@@ -1,0 +1,13 @@
+{
+  "asn": 46800,
+  "handle": "INFOLOGCORP",
+  "description": "Information Logistics, Inc",
+  "subnets": {
+    "ipv4": [
+      "207.103.0.0/16",
+      "209.71.0.0/17",
+      "209.71.128.0/19"
+    ],
+    "ipv6": []
+  }
+}

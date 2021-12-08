@@ -1,0 +1,11 @@
+{
+  "asn": 43114,
+  "handle": "SVK",
+  "description": "SVK-Telecom LLC",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a11:7240::/29"
+    ]
+  }
+}

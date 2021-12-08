@@ -1,0 +1,16 @@
+{
+  "asn": 28244,
+  "handle": "SENDNET-PROVIDER-LTDA",
+  "description": "Sendnet Provider Ltda",
+  "subnets": {
+    "ipv4": [
+      "170.246.12.0/22",
+      "187.1.0.0/20",
+      "200.215.164.0/22"
+    ],
+    "ipv6": [
+      "2804:2d4:10::/44",
+      "2804:2d4:400::/38"
+    ]
+  }
+}

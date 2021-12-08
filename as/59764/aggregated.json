@@ -1,0 +1,14 @@
+{
+  "asn": 59764,
+  "handle": "ATLANTIC-NET",
+  "description": "Atlantic.Net, INC.",
+  "subnets": {
+    "ipv4": [
+      "89.107.56.0/21",
+      "185.73.36.0/22"
+    ],
+    "ipv6": [
+      "2a03:41a0:10::/44"
+    ]
+  }
+}

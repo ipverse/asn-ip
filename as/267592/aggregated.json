@@ -1,0 +1,13 @@
+{
+  "asn": 267592,
+  "handle": "COLEGIO-DO-REGISTRO",
+  "description": "Colégio do Registro de Imóveis do Paraná",
+  "subnets": {
+    "ipv4": [
+      "45.71.4.0/24"
+    ],
+    "ipv6": [
+      "2801:80:2240::/48"
+    ]
+  }
+}

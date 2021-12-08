@@ -1,0 +1,12 @@
+{
+  "asn": 57480,
+  "handle": "PROJECTPOL",
+  "description": "Adam Siemieniako Projectpol",
+  "subnets": {
+    "ipv4": [
+      "91.232.4.0/23",
+      "195.136.37.0/24"
+    ],
+    "ipv6": []
+  }
+}

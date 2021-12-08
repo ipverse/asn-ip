@@ -1,0 +1,13 @@
+{
+  "asn": 132520,
+  "handle": "MAHAONLINE-IN",
+  "description": "MahaOnline Limited",
+  "subnets": {
+    "ipv4": [
+      "103.245.22.0/24"
+    ],
+    "ipv6": [
+      "2001:df0:453::/48"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 269598,
+  "handle": "NOVA-ERA-TELECOMUNICACOES",
+  "description": "NOVA ERA TELECOMUNICAÇÕES - SERVIÇOS DE INTERNET",
+  "subnets": {
+    "ipv4": [
+      "45.189.180.0/22"
+    ],
+    "ipv6": [
+      "2804:6704::/32"
+    ]
+  }
+}

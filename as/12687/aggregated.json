@@ -1,0 +1,15 @@
+{
+  "asn": 12687,
+  "handle": "URAN",
+  "description": "Association of users of Ukrainian Research \u0026 Academic Network URAN",
+  "subnets": {
+    "ipv4": [
+      "212.111.192.0/20",
+      "212.111.208.0/22",
+      "212.111.212.0/23"
+    ],
+    "ipv6": [
+      "2a01:5c40::/32"
+    ]
+  }
+}

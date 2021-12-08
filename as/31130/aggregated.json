@@ -1,0 +1,12 @@
+{
+  "asn": 31130,
+  "handle": "NMNET",
+  "description": "Tribe Technology Aps",
+  "subnets": {
+    "ipv4": [
+      "62.182.168.0/21",
+      "83.97.96.0/21"
+    ],
+    "ipv6": []
+  }
+}

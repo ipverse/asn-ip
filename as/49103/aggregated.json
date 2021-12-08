@@ -1,0 +1,15 @@
+{
+  "asn": 49103,
+  "handle": "IR-ASRETELECOM",
+  "description": "Asr-e Enteghal-e Dadeha Company (Private J.S.)",
+  "subnets": {
+    "ipv4": [
+      "45.15.248.0/22",
+      "45.86.196.0/22",
+      "45.132.168.0/22",
+      "185.57.164.0/22",
+      "188.34.64.0/18"
+    ],
+    "ipv6": []
+  }
+}

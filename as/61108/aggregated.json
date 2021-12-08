@@ -1,0 +1,13 @@
+{
+  "asn": 61108,
+  "handle": "VENTUS",
+  "description": "Ventus Cloud AG",
+  "subnets": {
+    "ipv4": [
+      "88.218.52.0/22",
+      "178.238.0.0/22",
+      "185.226.40.0/22"
+    ],
+    "ipv6": []
+  }
+}

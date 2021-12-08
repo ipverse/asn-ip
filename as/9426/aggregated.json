@@ -1,0 +1,13 @@
+{
+  "asn": 9426,
+  "handle": "WESTPAC-AP",
+  "description": "SingTel Optus Pty Ltd",
+  "subnets": {
+    "ipv4": [
+      "110.5.80.0/20",
+      "166.120.64.0/19",
+      "203.24.0.0/21"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 265501,
+  "handle": "CONVERGIA-DE-MEXICO-SA-DE-CV",
+  "description": "CONVERGIA DE MEXICO S.A. DE C.V.",
+  "subnets": {
+    "ipv4": [
+      "138.255.116.0/23",
+      "138.255.118.0/24"
+    ],
+    "ipv6": []
+  }
+}

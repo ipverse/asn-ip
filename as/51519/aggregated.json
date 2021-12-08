@@ -1,0 +1,13 @@
+{
+  "asn": 51519,
+  "handle": "BAHNFLOW",
+  "description": "Bahnflow AB",
+  "subnets": {
+    "ipv4": [
+      "45.132.232.0/22"
+    ],
+    "ipv6": [
+      "2a0e:73c0::/29"
+    ]
+  }
+}

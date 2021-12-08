@@ -1,0 +1,13 @@
+{
+  "asn": 268445,
+  "handle": "FASTNET-BRASIL",
+  "description": "FASTNET BRASIL",
+  "subnets": {
+    "ipv4": [
+      "45.160.252.0/22"
+    ],
+    "ipv6": [
+      "2804:5154::/32"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asn": 37487,
+  "handle": "GUINEANET",
+  "description": "guineanet",
+  "subnets": {
+    "ipv4": [
+      "105.235.224.0/20"
+    ],
+    "ipv6": []
+  }
+}

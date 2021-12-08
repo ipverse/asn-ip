@@ -1,0 +1,14 @@
+{
+  "asn": 58631,
+  "handle": "VISTA-AP",
+  "description": "Vista Entertainment Solutions Ltd.",
+  "subnets": {
+    "ipv4": [
+      "103.5.28.0/24",
+      "103.192.197.0/24"
+    ],
+    "ipv6": [
+      "2001:df0:247::/48"
+    ]
+  }
+}

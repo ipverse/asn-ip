@@ -1,0 +1,12 @@
+{
+  "asn": 59195,
+  "handle": "IEX",
+  "description": "Indian Energy Exchange Ltd",
+  "subnets": {
+    "ipv4": [
+      "103.47.91.0/24",
+      "103.142.166.0/24"
+    ],
+    "ipv6": []
+  }
+}

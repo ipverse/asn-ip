@@ -1,0 +1,15 @@
+{
+  "asn": 52940,
+  "handle": "NEMESIS-PROVEDOR-DE",
+  "description": "NEMESIS Provedor de Acesso as Redes de Comunicação",
+  "subnets": {
+    "ipv4": [
+      "168.227.76.0/22",
+      "177.11.92.0/22",
+      "191.7.28.0/22"
+    ],
+    "ipv6": [
+      "2804:1424::/32"
+    ]
+  }
+}

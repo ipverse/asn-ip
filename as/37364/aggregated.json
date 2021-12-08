@@ -1,0 +1,13 @@
+{
+  "asn": 37364,
+  "handle": "TCRA",
+  "description": "TANZANIA COMMUNICATIONS  REGULATORY AUTHORITY (TCRA)",
+  "subnets": {
+    "ipv4": [
+      "196.32.240.0/21"
+    ],
+    "ipv6": [
+      "2001:43f8:330::/48"
+    ]
+  }
+}

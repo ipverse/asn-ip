@@ -1,0 +1,11 @@
+{
+  "asn": 61607,
+  "handle": "ASSOCIACAO-REMESSA",
+  "description": "Associação Remessa",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2804:1f50::/32"
+    ]
+  }
+}

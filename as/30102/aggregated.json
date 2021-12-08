@@ -1,0 +1,11 @@
+{
+  "asn": 30102,
+  "handle": "BALDWIN",
+  "description": "Baldwin County Commission",
+  "subnets": {
+    "ipv4": [
+      "170.249.143.0/24"
+    ],
+    "ipv6": []
+  }
+}

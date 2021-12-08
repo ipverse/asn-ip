@@ -1,0 +1,11 @@
+{
+  "asn": 55897,
+  "handle": "SAKURA-F",
+  "description": "SAKURA Internet // IP ANYCAST BACKBONE",
+  "subnets": {
+    "ipv4": [
+      "219.111.240.0/20"
+    ],
+    "ipv6": []
+  }
+}

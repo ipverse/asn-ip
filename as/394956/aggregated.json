@@ -1,0 +1,11 @@
+{
+  "asn": 394956,
+  "handle": "CAVIUM",
+  "description": "Cavium, Inc",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2620:125:d002::/47"
+    ]
+  }
+}

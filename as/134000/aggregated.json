@@ -1,0 +1,15 @@
+{
+  "asn": 134000,
+  "handle": "GBPSNETWORKS-IN",
+  "description": "GBPS NETWORKS PRIVATE LIMITED",
+  "subnets": {
+    "ipv4": [
+      "45.112.0.0/22",
+      "45.114.60.0/24",
+      "103.51.72.0/22"
+    ],
+    "ipv6": [
+      "2405:11c0::/32"
+    ]
+  }
+}

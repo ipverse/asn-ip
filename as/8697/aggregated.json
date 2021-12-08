@@ -1,0 +1,15 @@
+{
+  "asn": 8697,
+  "handle": "JTC",
+  "description": "Jordan Telecommunications Company",
+  "subnets": {
+    "ipv4": [
+      "2.17.24.0/22",
+      "212.34.0.0/19",
+      "213.139.32.0/19"
+    ],
+    "ipv6": [
+      "2a00:18d8::/32"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 397903,
+  "handle": "SPRINGCOM-01",
+  "description": "Springcom",
+  "subnets": {
+    "ipv4": [
+      "137.220.8.0/21",
+      "172.83.249.0/24"
+    ],
+    "ipv6": []
+  }
+}

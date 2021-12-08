@@ -1,0 +1,12 @@
+{
+  "asn": 42717,
+  "handle": "TRANS-NET",
+  "description": "Uslugi Transportowe I Internetowe Trans-Net Grzegorz Goj",
+  "subnets": {
+    "ipv4": [
+      "91.237.60.0/23",
+      "195.248.254.0/23"
+    ],
+    "ipv6": []
+  }
+}

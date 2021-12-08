@@ -1,0 +1,14 @@
+{
+  "asn": 12930,
+  "handle": "CARDCOMPLETE",
+  "description": "card complete Service Bank AG",
+  "subnets": {
+    "ipv4": [
+      "128.65.128.0/21",
+      "185.102.228.0/22"
+    ],
+    "ipv6": [
+      "2a03:8a80::/32"
+    ]
+  }
+}

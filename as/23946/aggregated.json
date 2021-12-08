@@ -1,0 +1,11 @@
+{
+  "asn": 23946,
+  "handle": "TOPNET-ID",
+  "description": "PT Dunia Informasi Teknologi (TOPNET)",
+  "subnets": {
+    "ipv4": [
+      "202.80.220.0/24"
+    ],
+    "ipv6": []
+  }
+}

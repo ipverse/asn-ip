@@ -1,0 +1,11 @@
+{
+  "asn": 14034,
+  "handle": "SWIRE-COCA-COLA-USA-DRAPER-REDUNDANT-ACCESS",
+  "description": "Swire Coca-Cola, USA",
+  "subnets": {
+    "ipv4": [
+      "204.128.243.0/24"
+    ],
+    "ipv6": []
+  }
+}

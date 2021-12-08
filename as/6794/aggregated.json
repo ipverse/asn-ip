@@ -1,0 +1,11 @@
+{
+  "asn": 6794,
+  "handle": "HRTNET",
+  "description": "HRT - Croatian Radio Television",
+  "subnets": {
+    "ipv4": [
+      "213.5.56.0/21"
+    ],
+    "ipv6": []
+  }
+}

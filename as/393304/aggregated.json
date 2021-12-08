@@ -1,0 +1,13 @@
+{
+  "asn": 393304,
+  "handle": "BHVR",
+  "description": "Behaviour Interactive Inc.",
+  "subnets": {
+    "ipv4": [
+      "198.73.210.0/24"
+    ],
+    "ipv6": [
+      "2620:5e:c000::/48"
+    ]
+  }
+}

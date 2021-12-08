@@ -1,0 +1,13 @@
+{
+  "asn": 29807,
+  "handle": "ZANDOR-ASN-01",
+  "description": "589413 Ontario Ltd",
+  "subnets": {
+    "ipv4": [
+      "208.83.36.0/24"
+    ],
+    "ipv6": [
+      "2620:13:2000::/48"
+    ]
+  }
+}

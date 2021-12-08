@@ -1,0 +1,11 @@
+{
+  "asn": 49652,
+  "handle": "DOMAR",
+  "description": "Domar Treuhand- und Verwaltungs-Anstalt",
+  "subnets": {
+    "ipv4": [
+      "195.254.128.0/23"
+    ],
+    "ipv6": []
+  }
+}

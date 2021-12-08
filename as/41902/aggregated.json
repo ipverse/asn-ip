@@ -1,0 +1,13 @@
+{
+  "asn": 41902,
+  "handle": "SABAH",
+  "description": "TURKUVAZ HABERLESME VE YAYINCILIK A.S.",
+  "subnets": {
+    "ipv4": [
+      "46.17.128.0/23",
+      "46.17.132.0/22",
+      "194.36.160.0/24"
+    ],
+    "ipv6": []
+  }
+}

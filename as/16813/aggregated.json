@@ -1,0 +1,13 @@
+{
+  "asn": 16813,
+  "handle": "AMNH",
+  "description": "American Museum of Natural History",
+  "subnets": {
+    "ipv4": [
+      "216.73.240.0/20"
+    ],
+    "ipv6": [
+      "2620:0:2840::/48"
+    ]
+  }
+}

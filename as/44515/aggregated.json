@@ -1,0 +1,15 @@
+{
+  "asn": 44515,
+  "handle": "IS-ADVANIA",
+  "description": "Advania Island ehf",
+  "subnets": {
+    "ipv4": [
+      "82.221.0.0/17",
+      "212.30.224.0/19"
+    ],
+    "ipv6": [
+      "2a02:f48::/40",
+      "2a02:f48:2100::/40"
+    ]
+  }
+}

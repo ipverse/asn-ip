@@ -1,0 +1,13 @@
+{
+  "asn": 45192,
+  "handle": "APNICTRAINING-DC",
+  "description": "APNIC TRAINING UNIT",
+  "subnets": {
+    "ipv4": [
+      "202.125.97.0/24"
+    ],
+    "ipv6": [
+      "2001:df2:ee01::/48"
+    ]
+  }
+}

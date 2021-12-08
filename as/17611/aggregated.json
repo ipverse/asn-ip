@@ -1,0 +1,13 @@
+{
+  "asn": 17611,
+  "handle": "KHFC-KR-KR",
+  "description": "Korea Housing Finance Corporation",
+  "subnets": {
+    "ipv4": [
+      "211.196.4.0/24",
+      "220.77.21.0/24",
+      "220.77.43.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 44471,
+  "handle": "MENARI",
+  "description": "Thomas Menari",
+  "subnets": {
+    "ipv4": [
+      "44.16.8.0/24"
+    ],
+    "ipv6": [
+      "2001:678:e00::/48"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 21701,
+  "handle": "TRUVEN-HEALTH-ANALYTICS",
+  "description": "Truven Health Analytics, Inc.",
+  "subnets": {
+    "ipv4": [
+      "157.199.0.0/16"
+    ],
+    "ipv6": [
+      "2620:132:6000::/48"
+    ]
+  }
+}

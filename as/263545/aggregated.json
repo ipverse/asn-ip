@@ -1,0 +1,13 @@
+{
+  "asn": 263545,
+  "handle": "BETINI-NET-TELECOM-LTDA",
+  "description": "BETINI NET TELECOM LTDA",
+  "subnets": {
+    "ipv4": [
+      "191.6.0.0/22"
+    ],
+    "ipv6": [
+      "2804:13ac::/32"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asn": 393999,
+  "handle": "ALPINEWEB",
+  "description": "AlpineWEB",
+  "subnets": {
+    "ipv4": [
+      "192.111.214.0/24"
+    ],
+    "ipv6": []
+  }
+}

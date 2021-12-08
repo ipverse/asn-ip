@@ -1,0 +1,12 @@
+{
+  "asn": 24690,
+  "handle": "SZRT-HU",
+  "description": "Szerencsejatek Zrt",
+  "subnets": {
+    "ipv4": [
+      "91.120.58.0/24",
+      "194.88.40.0/24"
+    ],
+    "ipv6": []
+  }
+}

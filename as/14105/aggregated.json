@@ -1,0 +1,11 @@
+{
+  "asn": 14105,
+  "handle": "NO",
+  "description": "Secure IP",
+  "subnets": {
+    "ipv4": [
+      "174.46.255.0/24"
+    ],
+    "ipv6": []
+  }
+}

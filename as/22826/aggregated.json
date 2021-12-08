@@ -1,0 +1,11 @@
+{
+  "asn": 22826,
+  "handle": "CALIPER",
+  "description": "Caliper Corporation",
+  "subnets": {
+    "ipv4": [
+      "198.22.17.0/24"
+    ],
+    "ipv6": []
+  }
+}

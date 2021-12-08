@@ -1,0 +1,13 @@
+{
+  "asn": 24030,
+  "handle": "SCHENKER-SG",
+  "description": "Schenker (Asia Pacific) Pte Ltd",
+  "subnets": {
+    "ipv4": [
+      "167.184.62.0/23",
+      "167.184.64.0/22",
+      "167.184.252.0/22"
+    ],
+    "ipv6": []
+  }
+}

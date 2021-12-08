@@ -1,0 +1,12 @@
+{
+  "asn": 13518,
+  "handle": "CDAC-1",
+  "description": "COMMUNICATIONS DESIGN ACQUISITION CORPORATION",
+  "subnets": {
+    "ipv4": [
+      "65.198.76.0/23",
+      "65.217.160.0/23"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 31182,
+  "handle": "SB24",
+  "description": "Bank Saman",
+  "subnets": {
+    "ipv4": [
+      "193.8.139.0/24"
+    ],
+    "ipv6": [
+      "2001:678:d88::/48"
+    ]
+  }
+}

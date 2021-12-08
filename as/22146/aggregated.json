@@ -1,0 +1,12 @@
+{
+  "asn": 22146,
+  "handle": "LANDAM",
+  "description": "LandAmerica Financial Group, Inc.",
+  "subnets": {
+    "ipv4": [
+      "156.55.32.0/24",
+      "156.55.160.0/22"
+    ],
+    "ipv6": []
+  }
+}

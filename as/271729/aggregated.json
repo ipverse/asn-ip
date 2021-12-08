@@ -1,0 +1,13 @@
+{
+  "asn": 271729,
+  "handle": "BRASIL-WIFI-LTDA-EPP",
+  "description": "Brasil Wifi LTDA - EPP",
+  "subnets": {
+    "ipv4": [
+      "206.0.88.0/23"
+    ],
+    "ipv6": [
+      "2804:8018:6000::/36"
+    ]
+  }
+}

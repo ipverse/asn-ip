@@ -1,0 +1,11 @@
+{
+  "asn": 50225,
+  "handle": "ITSM",
+  "description": "IT Service Management Ltd",
+  "subnets": {
+    "ipv4": [
+      "193.104.177.0/24"
+    ],
+    "ipv6": []
+  }
+}

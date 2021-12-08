@@ -1,0 +1,11 @@
+{
+  "asn": 60390,
+  "handle": "OFDL",
+  "description": "Orell Fuessli AG",
+  "subnets": {
+    "ipv4": [
+      "185.31.180.0/22"
+    ],
+    "ipv6": []
+  }
+}

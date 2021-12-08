@@ -1,0 +1,15 @@
+{
+  "asn": 28920,
+  "handle": "CALL27",
+  "description": "Call27 Telecommunications Ltd",
+  "subnets": {
+    "ipv4": [
+      "91.231.144.0/24",
+      "185.103.228.0/22"
+    ],
+    "ipv6": [
+      "2a06:2e00::/29",
+      "2a0b:67c0::/29"
+    ]
+  }
+}

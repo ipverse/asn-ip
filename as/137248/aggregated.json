@@ -1,0 +1,13 @@
+{
+  "asn": 137248,
+  "handle": "DSCL-AP",
+  "description": "DOTS Solutions Co., Ltd.",
+  "subnets": {
+    "ipv4": [
+      "103.106.8.0/22"
+    ],
+    "ipv6": [
+      "2402:3640::/32"
+    ]
+  }
+}

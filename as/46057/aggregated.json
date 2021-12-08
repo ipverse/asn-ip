@@ -1,0 +1,12 @@
+{
+  "asn": 46057,
+  "handle": "UMM-ID",
+  "description": "Universitas Muhammadiyah Malang",
+  "subnets": {
+    "ipv4": [
+      "103.10.144.0/24",
+      "202.52.52.0/24"
+    ],
+    "ipv6": []
+  }
+}

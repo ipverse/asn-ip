@@ -1,0 +1,12 @@
+{
+  "asn": 22809,
+  "handle": "AMFAM-INS",
+  "description": "American Family Insurance",
+  "subnets": {
+    "ipv4": [
+      "165.200.0.0/16",
+      "204.29.134.0/24"
+    ],
+    "ipv6": []
+  }
+}

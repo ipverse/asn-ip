@@ -1,0 +1,12 @@
+{
+  "asn": 25308,
+  "handle": "CITYLAN",
+  "description": "CityLanCom LTD",
+  "subnets": {
+    "ipv4": [
+      "88.210.0.0/18",
+      "212.118.32.0/19"
+    ],
+    "ipv6": []
+  }
+}

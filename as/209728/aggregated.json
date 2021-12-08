@@ -1,0 +1,13 @@
+{
+  "asn": 209728,
+  "handle": "EXPERTTELECOM",
+  "description": "Expert Telecom LLC",
+  "subnets": {
+    "ipv4": [
+      "5.252.119.0/24",
+      "193.34.235.0/24",
+      "193.168.225.0/24"
+    ],
+    "ipv6": []
+  }
+}

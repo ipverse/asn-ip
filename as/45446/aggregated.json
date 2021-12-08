@@ -1,0 +1,13 @@
+{
+  "asn": 45446,
+  "handle": "MYSOL-PK",
+  "description": "My Solutions Corporation Ltd.",
+  "subnets": {
+    "ipv4": [
+      "202.44.80.0/24",
+      "202.44.82.0/24",
+      "202.44.90.0/23"
+    ],
+    "ipv6": []
+  }
+}

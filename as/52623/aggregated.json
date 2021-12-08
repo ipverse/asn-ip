@@ -1,0 +1,14 @@
+{
+  "asn": 52623,
+  "handle": "EMPRESA-MUNICIPAL-DE",
+  "description": "EMPRESA MUNICIPAL DE PROCESSAMENTO DE DADOS",
+  "subnets": {
+    "ipv4": [
+      "167.250.144.0/22",
+      "177.124.111.0/24"
+    ],
+    "ipv6": [
+      "2801:80:1660::/48"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 264054,
+  "handle": "FALCON-COMUNICACOES-E",
+  "description": "FALCON COMUNICAÇÕES E INFORMATICA",
+  "subnets": {
+    "ipv4": [
+      "143.137.224.0/22"
+    ],
+    "ipv6": [
+      "2804:2a10::/32"
+    ]
+  }
+}

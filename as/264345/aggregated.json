@@ -1,0 +1,13 @@
+{
+  "asn": 264345,
+  "handle": "CONECTA-PROVEDOR-DE",
+  "description": "CONECTA PROVEDOR DE INTERNET LTDA. - ME",
+  "subnets": {
+    "ipv4": [
+      "138.185.144.0/22"
+    ],
+    "ipv6": [
+      "2804:267c::/32"
+    ]
+  }
+}

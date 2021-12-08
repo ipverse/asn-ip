@@ -1,0 +1,13 @@
+{
+  "asn": 268310,
+  "handle": "INTELIGO-TELECOM-LTDA-ME",
+  "description": "Inteligo Telecom LTDA - ME",
+  "subnets": {
+    "ipv4": [
+      "45.237.32.0/22"
+    ],
+    "ipv6": [
+      "2804:4f30::/32"
+    ]
+  }
+}

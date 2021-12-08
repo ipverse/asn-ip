@@ -1,0 +1,13 @@
+{
+  "asn": 18125,
+  "handle": "MAFFIN",
+  "description": "Ministry of Agriculture, Forestry and Fisheries Research Network",
+  "subnets": {
+    "ipv4": [
+      "150.26.0.0/16"
+    ],
+    "ipv6": [
+      "2401:ad00::/32"
+    ]
+  }
+}

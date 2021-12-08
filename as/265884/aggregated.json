@@ -1,0 +1,13 @@
+{
+  "asn": 265884,
+  "handle": "CONSEJO-NACIONAL-DE",
+  "description": "CONSEJO NACIONAL DE INVESTIGACIONES CIENTÍFICAS Y TÉCNICAS (CONICET)",
+  "subnets": {
+    "ipv4": [
+      "45.71.5.0/24"
+    ],
+    "ipv6": [
+      "2801:12:b000::/48"
+    ]
+  }
+}

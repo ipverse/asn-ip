@@ -1,0 +1,12 @@
+{
+  "asn": 7868,
+  "handle": "DATA-LIFE",
+  "description": "Data Life Associates, Inc.",
+  "subnets": {
+    "ipv4": [
+      "192.246.103.0/24",
+      "209.123.190.0/23"
+    ],
+    "ipv6": []
+  }
+}

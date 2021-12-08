@@ -1,0 +1,13 @@
+{
+  "asn": 29263,
+  "handle": "HAAGNET",
+  "description": "Gemeente Den Haag",
+  "subnets": {
+    "ipv4": [
+      "217.68.48.0/20"
+    ],
+    "ipv6": [
+      "2a02:2400::/32"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 44629,
+  "handle": "POINTUA",
+  "description": "PE Sinenko Vitaliy Mihailovich",
+  "subnets": {
+    "ipv4": [
+      "176.106.192.0/19",
+      "178.212.240.0/21",
+      "195.42.130.0/23"
+    ],
+    "ipv6": []
+  }
+}

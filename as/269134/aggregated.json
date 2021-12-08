@@ -1,0 +1,13 @@
+{
+  "asn": 269134,
+  "handle": "2RNET-PROVEDOR-DE-INTERNET",
+  "description": "2RNET PROVEDOR DE INTERNET",
+  "subnets": {
+    "ipv4": [
+      "45.180.128.0/22"
+    ],
+    "ipv6": [
+      "2804:5fec::/32"
+    ]
+  }
+}

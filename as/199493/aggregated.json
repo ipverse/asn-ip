@@ -1,0 +1,14 @@
+{
+  "asn": 199493,
+  "handle": "NETNET",
+  "description": "Krajnalic Komunikacije d.o.o.",
+  "subnets": {
+    "ipv4": [
+      "37.220.64.0/20",
+      "80.243.232.0/22",
+      "109.106.224.0/24",
+      "193.221.196.0/22"
+    ],
+    "ipv6": []
+  }
+}

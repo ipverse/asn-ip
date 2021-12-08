@@ -1,0 +1,13 @@
+{
+  "asn": 11074,
+  "handle": "RBS-CHG",
+  "description": "Sidera Networks LLC",
+  "subnets": {
+    "ipv4": [
+      "76.8.92.0/24"
+    ],
+    "ipv6": [
+      "2606:4000:300::/40"
+    ]
+  }
+}

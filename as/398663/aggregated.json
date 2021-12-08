@@ -1,0 +1,12 @@
+{
+  "asn": 398663,
+  "handle": "SHIPPENSBURG-UNIVERSITY-01",
+  "description": "Shippensburg University",
+  "subnets": {
+    "ipv4": [
+      "157.160.0.0/16",
+      "204.108.172.0/23"
+    ],
+    "ipv6": []
+  }
+}

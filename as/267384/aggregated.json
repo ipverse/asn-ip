@@ -1,0 +1,13 @@
+{
+  "asn": 267384,
+  "handle": "G7-BSB-TELECOM-LTDA",
+  "description": "G7 BSB TELECOM LTDA",
+  "subnets": {
+    "ipv4": [
+      "45.234.196.0/22"
+    ],
+    "ipv6": [
+      "2804:4cac::/32"
+    ]
+  }
+}

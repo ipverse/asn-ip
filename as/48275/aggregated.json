@@ -1,0 +1,13 @@
+{
+  "asn": 48275,
+  "handle": "TSMS-ABKHAZIA",
+  "description": "Republican Unitary Enterprise Abkhazsvyaz",
+  "subnets": {
+    "ipv4": [
+      "37.18.11.0/24",
+      "37.18.12.0/24",
+      "91.207.180.0/23"
+    ],
+    "ipv6": []
+  }
+}

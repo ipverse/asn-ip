@@ -1,0 +1,14 @@
+{
+  "asn": 38185,
+  "handle": "CDACNOIDA-IN",
+  "description": "CDAC Noida, India",
+  "subnets": {
+    "ipv4": [
+      "220.156.184.0/24",
+      "220.156.188.0/23"
+    ],
+    "ipv6": [
+      "2404:4100::/48"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 33091,
+  "handle": "U-CALGARY",
+  "description": "University of Calgary",
+  "subnets": {
+    "ipv4": [
+      "136.159.0.0/16",
+      "198.161.243.0/24"
+    ],
+    "ipv6": []
+  }
+}

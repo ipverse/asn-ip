@@ -1,0 +1,13 @@
+{
+  "asn": 202008,
+  "handle": "DATEK-INST",
+  "description": "DATEK INSTALLASJON AS",
+  "subnets": {
+    "ipv4": [
+      "185.53.188.0/22"
+    ],
+    "ipv6": [
+      "2a02:4060::/29"
+    ]
+  }
+}

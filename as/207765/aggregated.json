@@ -1,0 +1,14 @@
+{
+  "asn": 207765,
+  "handle": "TRANSIT-NETWORKS-LIMITED",
+  "description": "Transit Networks Limited",
+  "subnets": {
+    "ipv4": [
+      "193.200.159.0/24",
+      "193.200.163.0/24",
+      "193.200.167.0/24",
+      "193.200.169.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 37399,
+  "handle": "SWITCHTEL",
+  "description": "Switch Telecom",
+  "subnets": {
+    "ipv4": [
+      "196.216.192.0/22"
+    ],
+    "ipv6": [
+      "2001:43f8:bc0::/48"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 263164,
+  "handle": "PURPLE-SECURITY-MASTER-EIRELI",
+  "description": "Purple Security Master Eireli",
+  "subnets": {
+    "ipv4": [
+      "191.6.164.0/22"
+    ],
+    "ipv6": [
+      "2804:17ac::/32"
+    ]
+  }
+}

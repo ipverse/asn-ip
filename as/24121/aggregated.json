@@ -1,0 +1,16 @@
+{
+  "asn": 24121,
+  "handle": "EQIX-OSAKA-AP",
+  "description": "Equinix Asia Pacific Pte Ltd",
+  "subnets": {
+    "ipv4": [
+      "51.162.184.0/22",
+      "103.8.176.0/21",
+      "112.140.128.0/20",
+      "202.253.244.0/24"
+    ],
+    "ipv6": [
+      "2407:b001::/32"
+    ]
+  }
+}

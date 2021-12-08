@@ -1,0 +1,12 @@
+{
+  "asn": 30729,
+  "handle": "TRANSFERTTK",
+  "description": "TRANSFER Ltd.",
+  "subnets": {
+    "ipv4": [
+      "81.23.192.0/20",
+      "185.18.112.0/22"
+    ],
+    "ipv6": []
+  }
+}

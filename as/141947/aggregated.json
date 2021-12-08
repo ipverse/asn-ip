@@ -1,0 +1,11 @@
+{
+  "asn": 141947,
+  "handle": "IDNIC-LHOST-ID",
+  "description": "PT Loveika Host Nusantara",
+  "subnets": {
+    "ipv4": [
+      "103.166.124.0/23"
+    ],
+    "ipv6": []
+  }
+}

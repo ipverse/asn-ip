@@ -1,0 +1,13 @@
+{
+  "asn": 134347,
+  "handle": "BASE64-AP",
+  "description": "Base64 Pty Ltd",
+  "subnets": {
+    "ipv4": [
+      "203.0.153.0/24"
+    ],
+    "ipv6": [
+      "2001:df4:ac00::/48"
+    ]
+  }
+}

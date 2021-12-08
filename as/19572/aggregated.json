@@ -1,0 +1,13 @@
+{
+  "asn": 19572,
+  "handle": "OMEGASYS-HQ",
+  "description": "Omega Systems Consultants Inc",
+  "subnets": {
+    "ipv4": [
+      "107.0.197.0/24",
+      "209.118.69.0/24",
+      "209.173.248.0/22"
+    ],
+    "ipv6": []
+  }
+}

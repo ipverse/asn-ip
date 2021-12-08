@@ -1,0 +1,12 @@
+{
+  "asn": 43673,
+  "handle": "MULTICARTA",
+  "description": "JSC Multicarta",
+  "subnets": {
+    "ipv4": [
+      "82.196.67.0/24",
+      "91.198.98.0/24"
+    ],
+    "ipv6": []
+  }
+}

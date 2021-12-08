@@ -1,0 +1,15 @@
+{
+  "asn": 139922,
+  "handle": "SMNPL-AP",
+  "description": "Simple Media Network Private Limited",
+  "subnets": {
+    "ipv4": [
+      "103.147.62.0/23",
+      "103.174.84.0/23",
+      "103.174.168.0/23"
+    ],
+    "ipv6": [
+      "2405:acc0::/32"
+    ]
+  }
+}

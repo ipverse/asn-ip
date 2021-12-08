@@ -1,0 +1,11 @@
+{
+  "asn": 29709,
+  "handle": "NEONET",
+  "description": "Northeast Ohio Network for Education Technology",
+  "subnets": {
+    "ipv4": [
+      "204.11.184.0/21"
+    ],
+    "ipv6": []
+  }
+}

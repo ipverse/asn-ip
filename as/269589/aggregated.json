@@ -1,0 +1,13 @@
+{
+  "asn": 269589,
+  "handle": "MECONECTE-COM-BR",
+  "description": "MECONECTE COM BR",
+  "subnets": {
+    "ipv4": [
+      "45.187.84.0/22"
+    ],
+    "ipv6": [
+      "2804:66e4::/32"
+    ]
+  }
+}

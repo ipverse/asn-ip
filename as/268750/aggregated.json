@@ -1,0 +1,14 @@
+{
+  "asn": 268750,
+  "handle": "M-L-J-DANTAS-ME",
+  "description": "M. L. J. DANTAS - ME",
+  "subnets": {
+    "ipv4": [
+      "45.171.104.0/22",
+      "45.172.52.0/22"
+    ],
+    "ipv6": [
+      "2804:5a20::/32"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 59011,
+  "handle": "YLWL",
+  "description": "Beijing Yunlin Network Technology Co.,Ltd.",
+  "subnets": {
+    "ipv4": [
+      "110.40.10.0/23",
+      "120.131.88.0/24",
+      "120.131.124.0/22"
+    ],
+    "ipv6": []
+  }
+}

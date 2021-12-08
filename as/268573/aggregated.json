@@ -1,0 +1,13 @@
+{
+  "asn": 268573,
+  "handle": "GNET-TELECOM-SERVICOS",
+  "description": "GNET TELECOM SERVIÇOS COMUNICAÇÃO LTDA",
+  "subnets": {
+    "ipv4": [
+      "45.163.72.0/22"
+    ],
+    "ipv6": [
+      "2804:5344::/32"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 212918,
+  "handle": "CLICKTEL",
+  "description": "Clicktel SL",
+  "subnets": {
+    "ipv4": [
+      "91.216.254.0/24",
+      "92.119.72.0/22"
+    ],
+    "ipv6": []
+  }
+}

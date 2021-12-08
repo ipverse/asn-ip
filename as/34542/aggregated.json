@@ -1,0 +1,12 @@
+{
+  "asn": 34542,
+  "handle": "SAFRANHE",
+  "description": "SAFRAN HELICOPTER ENGINES SASU",
+  "subnets": {
+    "ipv4": [
+      "156.28.0.0/23",
+      "156.28.182.0/23"
+    ],
+    "ipv6": []
+  }
+}

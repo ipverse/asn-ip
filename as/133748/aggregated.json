@@ -1,0 +1,14 @@
+{
+  "asn": 133748,
+  "handle": "CORETELNET-AP",
+  "description": "Coretel Networks (International) Pte Ltd",
+  "subnets": {
+    "ipv4": [
+      "43.249.248.0/22",
+      "103.41.128.0/22",
+      "203.208.22.0/24",
+      "206.131.192.0/20"
+    ],
+    "ipv6": []
+  }
+}

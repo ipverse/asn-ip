@@ -1,0 +1,11 @@
+{
+  "asn": 269545,
+  "handle": "NETCOMPANY-TELECOM",
+  "description": "NetCompany Telecom",
+  "subnets": {
+    "ipv4": [
+      "45.188.152.0/22"
+    ],
+    "ipv6": []
+  }
+}

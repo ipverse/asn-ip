@@ -1,0 +1,11 @@
+{
+  "asn": 399001,
+  "handle": "TPLLC-CO",
+  "description": "Third Point LLC",
+  "subnets": {
+    "ipv4": [
+      "63.78.16.0/24"
+    ],
+    "ipv6": []
+  }
+}

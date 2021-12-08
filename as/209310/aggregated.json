@@ -1,0 +1,13 @@
+{
+  "asn": 209310,
+  "handle": "BE-KORTALYS",
+  "description": "BE YS Cloud France SASU",
+  "subnets": {
+    "ipv4": [
+      "45.141.112.0/22"
+    ],
+    "ipv6": [
+      "2a0c:1dc0::/32"
+    ]
+  }
+}

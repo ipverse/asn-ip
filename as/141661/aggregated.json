@@ -1,0 +1,11 @@
+{
+  "asn": 141661,
+  "handle": "IDNIC-M2NET-ID",
+  "description": "PT Madiun Multimedia",
+  "subnets": {
+    "ipv4": [
+      "103.162.220.0/23"
+    ],
+    "ipv6": []
+  }
+}

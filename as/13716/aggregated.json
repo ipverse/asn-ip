@@ -1,0 +1,14 @@
+{
+  "asn": 13716,
+  "handle": "ALIGHT-SOLUTIONS-LLC",
+  "description": "Alight Solutions LLC",
+  "subnets": {
+    "ipv4": [
+      "63.73.213.0/24",
+      "63.87.68.0/22",
+      "173.245.170.0/23",
+      "204.152.232.0/21"
+    ],
+    "ipv6": []
+  }
+}

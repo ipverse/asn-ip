@@ -1,0 +1,13 @@
+{
+  "asn": 266376,
+  "handle": "CYBERNET-TELECOM-SERVICOS",
+  "description": "CYBERNET TELECOM SERVIÇOS DE INTERNET LTDA - ME",
+  "subnets": {
+    "ipv4": [
+      "170.80.112.0/22"
+    ],
+    "ipv6": [
+      "2804:36d8::/32"
+    ]
+  }
+}

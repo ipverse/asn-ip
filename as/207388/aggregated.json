@@ -1,0 +1,13 @@
+{
+  "asn": 207388,
+  "handle": "VIMEXX-RICK-MAX-CDN",
+  "description": "Rick Bakker trading as Bakker IT",
+  "subnets": {
+    "ipv4": [
+      "185.13.227.0/24"
+    ],
+    "ipv6": [
+      "2a02:f5c0::/32"
+    ]
+  }
+}

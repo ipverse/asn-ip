@@ -1,0 +1,13 @@
+{
+  "asn": 202831,
+  "handle": "ENSINCA-AS01",
+  "description": "ENSINCA NETWORKS S.L.",
+  "subnets": {
+    "ipv4": [
+      "185.20.108.0/22"
+    ],
+    "ipv6": [
+      "2a00:4de0::/29"
+    ]
+  }
+}

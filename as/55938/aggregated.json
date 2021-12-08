@@ -1,0 +1,14 @@
+{
+  "asn": 55938,
+  "handle": "EXAT-NET-TH",
+  "description": "Expressway Authority of Thailand",
+  "subnets": {
+    "ipv4": [
+      "61.90.209.0/24",
+      "202.94.76.0/23"
+    ],
+    "ipv6": [
+      "2001:df6:5c00::/48"
+    ]
+  }
+}

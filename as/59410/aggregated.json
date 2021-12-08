@@ -1,0 +1,13 @@
+{
+  "asn": 59410,
+  "handle": "BARRITEC",
+  "description": "Barritec Ltd",
+  "subnets": {
+    "ipv4": [
+      "88.151.40.0/21"
+    ],
+    "ipv6": [
+      "2a01:8340::/32"
+    ]
+  }
+}

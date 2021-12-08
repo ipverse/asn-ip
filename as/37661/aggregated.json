@@ -1,0 +1,13 @@
+{
+  "asn": 37661,
+  "handle": "NRAE1",
+  "description": "Nigerian Research and Education Network Limited by Guarantee",
+  "subnets": {
+    "ipv4": [
+      "154.68.192.0/18"
+    ],
+    "ipv6": [
+      "2c0f:f638::/32"
+    ]
+  }
+}

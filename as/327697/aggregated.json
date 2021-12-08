@@ -1,0 +1,12 @@
+{
+  "asn": 327697,
+  "handle": "TELCO-OI",
+  "description": "TELCO OI SAS",
+  "subnets": {
+    "ipv4": [
+      "139.26.0.0/16",
+      "164.160.68.0/22"
+    ],
+    "ipv6": []
+  }
+}

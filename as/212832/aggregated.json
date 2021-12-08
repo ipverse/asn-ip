@@ -1,0 +1,14 @@
+{
+  "asn": 212832,
+  "handle": "REPTIGO",
+  "description": "Association REPTIGO",
+  "subnets": {
+    "ipv4": [
+      "45.152.69.0/24",
+      "45.152.71.0/24"
+    ],
+    "ipv6": [
+      "2a0c:b641:5f0::/44"
+    ]
+  }
+}

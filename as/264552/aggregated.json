@@ -1,0 +1,14 @@
+{
+  "asn": 264552,
+  "handle": "JUSTWEB-TELECOMUNICACOES-LTDA",
+  "description": "JustWeb Telecomunicações LTDA",
+  "subnets": {
+    "ipv4": [
+      "138.0.172.0/22",
+      "170.79.52.0/22"
+    ],
+    "ipv6": [
+      "2804:2164::/32"
+    ]
+  }
+}

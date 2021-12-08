@@ -1,0 +1,13 @@
+{
+  "asn": 270265,
+  "handle": "VAVATEC-TELECOMUNICACOES",
+  "description": "VAVATEC TELECOMUNICACOES",
+  "subnets": {
+    "ipv4": [
+      "200.108.164.0/22"
+    ],
+    "ipv6": [
+      "2804:695c::/32"
+    ]
+  }
+}

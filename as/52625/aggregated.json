@@ -1,0 +1,12 @@
+{
+  "asn": 52625,
+  "handle": "X-PC-TELECOM-LTDA",
+  "description": "X-PC Telecom Ltda",
+  "subnets": {
+    "ipv4": [
+      "167.250.92.0/22",
+      "177.124.148.0/22"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 135115,
+  "handle": "WIMS1-AP",
+  "description": "WIMS ONLINE",
+  "subnets": {
+    "ipv4": [
+      "36.255.188.0/22",
+      "103.209.228.0/22"
+    ],
+    "ipv6": []
+  }
+}

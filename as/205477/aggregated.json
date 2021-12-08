@@ -1,0 +1,13 @@
+{
+  "asn": 205477,
+  "handle": "SENNHEISER-KG",
+  "description": "Sennheiser electronic GmbH \u0026 Co. KG",
+  "subnets": {
+    "ipv4": [
+      "185.217.44.0/22"
+    ],
+    "ipv6": [
+      "2a0b:c340::/29"
+    ]
+  }
+}

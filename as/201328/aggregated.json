@@ -1,0 +1,12 @@
+{
+  "asn": 201328,
+  "handle": "TKK-NET",
+  "description": "Telewizja Kablowa Kolobrzeg, Agencja Uslugowo - Reklamowa sp. z o.o.",
+  "subnets": {
+    "ipv4": [
+      "93.89.192.0/20",
+      "194.24.244.0/23"
+    ],
+    "ipv6": []
+  }
+}

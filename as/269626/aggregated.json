@@ -1,0 +1,13 @@
+{
+  "asn": 269626,
+  "handle": "INDAIAFIBRA-NETWORKING-EIRELI",
+  "description": "Indaiafibra Networking Eireli",
+  "subnets": {
+    "ipv4": [
+      "45.190.108.0/22"
+    ],
+    "ipv6": [
+      "2804:6768::/32"
+    ]
+  }
+}

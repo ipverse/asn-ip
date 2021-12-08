@@ -1,0 +1,14 @@
+{
+  "asn": 22758,
+  "handle": "SAPIENT-DCO",
+  "description": "Sapient Corporation",
+  "subnets": {
+    "ipv4": [
+      "216.250.48.0/22",
+      "216.250.52.0/24",
+      "216.250.55.0/24",
+      "216.250.56.0/21"
+    ],
+    "ipv6": []
+  }
+}

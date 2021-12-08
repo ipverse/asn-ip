@@ -1,0 +1,14 @@
+{
+  "asn": 34578,
+  "handle": "BEDAG",
+  "description": "Bedag Informatik AG",
+  "subnets": {
+    "ipv4": [
+      "159.144.0.0/16",
+      "192.112.254.0/24"
+    ],
+    "ipv6": [
+      "2a00:9480::/32"
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "asn": 48011,
+  "handle": "DIGITURUNC",
+  "description": "Turunc Smart Bilgisayar Ve Teknoloji Ve Dis Tecaret Limited",
+  "subnets": {
+    "ipv4": [
+      "5.172.177.0/24",
+      "81.161.236.0/24",
+      "87.236.161.0/24",
+      "103.130.145.0/24",
+      "185.182.105.0/24",
+      "185.227.136.0/22"
+    ],
+    "ipv6": [
+      "2403:bcc0::/48",
+      "2a0c:6600:1::/48",
+      "2a0c:6600:2::/48"
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "asn": 136262,
+  "handle": "ASIAPACIFICCOMMUNICATIONLIMITED-AP",
+  "description": "Asia Pacific Communication Limited",
+  "subnets": {
+    "ipv4": [
+      "103.85.160.0/22",
+      "103.115.100.0/23",
+      "103.141.8.0/24"
+    ],
+    "ipv6": [
+      "2400:ad40::/32"
+    ]
+  }
+}

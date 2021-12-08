@@ -1,0 +1,13 @@
+{
+  "asn": 270290,
+  "handle": "TESSI-SERVICOS-DE",
+  "description": "TESSI - Serviços de Telecomunicação Ltda",
+  "subnets": {
+    "ipv4": [
+      "201.71.24.0/22"
+    ],
+    "ipv6": [
+      "2804:69c4::/32"
+    ]
+  }
+}

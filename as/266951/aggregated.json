@@ -1,0 +1,13 @@
+{
+  "asn": 266951,
+  "handle": "REDE-CONECTA-TELECOM",
+  "description": "REDE CONECTA TELECOM",
+  "subnets": {
+    "ipv4": [
+      "45.225.176.0/22"
+    ],
+    "ipv6": [
+      "2804:45d0::/32"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 44375,
+  "handle": "AISDP",
+  "description": "Asmanfaraz Sepahan Company (P.J.S)",
+  "subnets": {
+    "ipv4": [
+      "93.126.0.0/18",
+      "193.178.200.0/22"
+    ],
+    "ipv6": []
+  }
+}

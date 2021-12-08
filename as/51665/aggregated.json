@@ -1,0 +1,13 @@
+{
+  "asn": 51665,
+  "handle": "TELEDISCOUNT",
+  "description": "Telediscount AO",
+  "subnets": {
+    "ipv4": [
+      "178.237.192.0/21",
+      "178.237.200.0/22",
+      "178.237.207.0/24"
+    ],
+    "ipv6": []
+  }
+}

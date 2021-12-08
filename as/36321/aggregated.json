@@ -1,0 +1,14 @@
+{
+  "asn": 36321,
+  "handle": "CSTL",
+  "description": "Castle Global Inc.",
+  "subnets": {
+    "ipv4": [
+      "66.187.0.0/24",
+      "199.83.232.0/23"
+    ],
+    "ipv6": [
+      "2620:4e:e000::/48"
+    ]
+  }
+}

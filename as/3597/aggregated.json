@@ -1,0 +1,14 @@
+{
+  "asn": 3597,
+  "handle": "FUNDACION-INNOVAT",
+  "description": "Fundación InnovaT",
+  "subnets": {
+    "ipv4": [
+      "168.96.0.0/16",
+      "200.10.202.0/24"
+    ],
+    "ipv6": [
+      "2001:1318::/32"
+    ]
+  }
+}

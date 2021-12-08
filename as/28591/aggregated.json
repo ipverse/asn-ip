@@ -1,0 +1,14 @@
+{
+  "asn": 28591,
+  "handle": "MCM-TELECOM-LTDA",
+  "description": "MCM Telecom Ltda.",
+  "subnets": {
+    "ipv4": [
+      "177.55.80.0/21",
+      "200.142.144.0/20"
+    ],
+    "ipv6": [
+      "2804:178::/32"
+    ]
+  }
+}

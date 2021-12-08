@@ -1,0 +1,11 @@
+{
+  "asn": 26741,
+  "handle": "CEMC",
+  "description": "CarolinaEast Medical Center",
+  "subnets": {
+    "ipv4": [
+      "138.210.87.0/24"
+    ],
+    "ipv6": []
+  }
+}

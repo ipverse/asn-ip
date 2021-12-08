@@ -1,0 +1,11 @@
+{
+  "asn": 41225,
+  "handle": "FSSNET",
+  "description": "Bartlomiej Kos",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2001:678:e78::/48"
+    ]
+  }
+}

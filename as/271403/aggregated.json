@@ -1,0 +1,11 @@
+{
+  "asn": 271403,
+  "handle": "NP-TELECOM",
+  "description": "NP TELECOM",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2804:7af8::/32"
+    ]
+  }
+}

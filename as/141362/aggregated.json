@@ -1,0 +1,13 @@
+{
+  "asn": 141362,
+  "handle": "TNSCL-AP",
+  "description": "Thai Network Information Center Foundation",
+  "subnets": {
+    "ipv4": [
+      "203.159.77.0/24"
+    ],
+    "ipv6": [
+      "2405:3340:e000::/48"
+    ]
+  }
+}

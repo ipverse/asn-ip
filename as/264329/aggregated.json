@@ -1,0 +1,13 @@
+{
+  "asn": 264329,
+  "handle": "ESTRATEGIA-REDES-DE",
+  "description": "ESTRATEGIA REDES DE TELECOMUNICACOES LTDA",
+  "subnets": {
+    "ipv4": [
+      "138.122.136.0/22"
+    ],
+    "ipv6": [
+      "2804:265c::/32"
+    ]
+  }
+}

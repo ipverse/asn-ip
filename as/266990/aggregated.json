@@ -1,0 +1,11 @@
+{
+  "asn": 266990,
+  "handle": "SOFTX-CONECTIVIDADE",
+  "description": "SoftX Conectividade",
+  "subnets": {
+    "ipv4": [
+      "45.226.84.0/22"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 262537,
+  "handle": "DATASAFEIT-SOLUCOES-EM",
+  "description": "DataSafeIT Soluções em Tecnologia",
+  "subnets": {
+    "ipv4": [
+      "177.72.0.0/21"
+    ],
+    "ipv6": [
+      "2804:5c0::/32"
+    ]
+  }
+}

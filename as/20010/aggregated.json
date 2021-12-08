@@ -1,0 +1,11 @@
+{
+  "asn": 20010,
+  "handle": "IDRC-AS1",
+  "description": "INTERNATIONAL DEVELOPMENT RESEARCH CENTRE",
+  "subnets": {
+    "ipv4": [
+      "198.62.158.0/23"
+    ],
+    "ipv6": []
+  }
+}

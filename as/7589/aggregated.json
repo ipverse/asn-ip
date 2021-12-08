@@ -1,0 +1,11 @@
+{
+  "asn": 7589,
+  "handle": "TELIANET-ENTERPRISE-SERVICES",
+  "description": "Telia AB Routernet/Internet",
+  "subnets": {
+    "ipv4": [
+      "202.163.30.0/23"
+    ],
+    "ipv6": []
+  }
+}

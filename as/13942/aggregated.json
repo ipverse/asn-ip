@@ -1,0 +1,13 @@
+{
+  "asn": 13942,
+  "handle": "CSMV",
+  "description": "Commission Scolaire Marie-Victorin",
+  "subnets": {
+    "ipv4": [
+      "205.236.20.0/23",
+      "205.236.22.0/24",
+      "206.167.230.0/24"
+    ],
+    "ipv6": []
+  }
+}

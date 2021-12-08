@@ -1,0 +1,12 @@
+{
+  "asn": 35346,
+  "handle": "ITNS",
+  "description": "SC ITNS.NET SRL",
+  "subnets": {
+    "ipv4": [
+      "91.242.112.0/21",
+      "194.114.144.0/24"
+    ],
+    "ipv6": []
+  }
+}

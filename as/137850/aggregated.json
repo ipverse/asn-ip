@@ -1,0 +1,13 @@
+{
+  "asn": 137850,
+  "handle": "UNINET-MFU",
+  "description": "Office of Info.Tech. Admin. for Educational Development",
+  "subnets": {
+    "ipv4": [
+      "202.28.44.0/22"
+    ],
+    "ipv6": [
+      "2001:3c8:5505::/48"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 271407,
+  "handle": "JA-TELECOM-NET-LTDA",
+  "description": "J.A TELECOM NET LTDA",
+  "subnets": {
+    "ipv4": [
+      "192.231.117.0/24"
+    ],
+    "ipv6": [
+      "2804:7b08::/32"
+    ]
+  }
+}

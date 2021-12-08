@@ -1,0 +1,12 @@
+{
+  "asn": 36565,
+  "handle": "COUNTY-OF-MONTGOMERY-PA",
+  "description": "County of Montgomery",
+  "subnets": {
+    "ipv4": [
+      "198.7.132.0/24",
+      "198.7.141.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asn": 12443,
+  "handle": "RIGA-DOMES-TECHNOLOGY-CENTER",
+  "description": "Riga Domes Technology Center",
+  "subnets": {
+    "ipv4": [
+      "213.175.124.0/22"
+    ],
+    "ipv6": []
+  }
+}

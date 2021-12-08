@@ -1,0 +1,11 @@
+{
+  "asn": 12465,
+  "handle": "ISP-ASN5",
+  "description": "Banca IMI S.p.A.",
+  "subnets": {
+    "ipv4": [
+      "62.128.80.0/20"
+    ],
+    "ipv6": []
+  }
+}

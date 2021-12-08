@@ -1,0 +1,13 @@
+{
+  "asn": 44865,
+  "handle": "DERSTANDARD",
+  "description": "derStandard.at GmbH",
+  "subnets": {
+    "ipv4": [
+      "194.116.242.0/23"
+    ],
+    "ipv6": [
+      "2001:67c:2b50::/48"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asn": 137513,
+  "handle": "HBLBANKPVTLTD-AP",
+  "description": "HBL Bank Pvt Ltd.",
+  "subnets": {
+    "ipv4": [
+      "103.111.84.0/23"
+    ],
+    "ipv6": []
+  }
+}

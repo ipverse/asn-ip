@@ -1,0 +1,11 @@
+{
+  "asn": 138697,
+  "handle": "ANAC-AP",
+  "description": "Amader Net Ad Communication",
+  "subnets": {
+    "ipv4": [
+      "103.136.62.0/23"
+    ],
+    "ipv6": []
+  }
+}

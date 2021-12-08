@@ -1,0 +1,13 @@
+{
+  "asn": 207085,
+  "handle": "RACKPLACE",
+  "description": "LLC RACKPLACE",
+  "subnets": {
+    "ipv4": [
+      "185.160.90.0/24"
+    ],
+    "ipv6": [
+      "2a07:bbc0::/48"
+    ]
+  }
+}

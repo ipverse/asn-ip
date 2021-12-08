@@ -1,0 +1,12 @@
+{
+  "asn": 18884,
+  "handle": "RCLS",
+  "description": "Ramapo Catskill Library System",
+  "subnets": {
+    "ipv4": [
+      "65.73.54.0/23",
+      "65.73.56.0/21"
+    ],
+    "ipv6": []
+  }
+}

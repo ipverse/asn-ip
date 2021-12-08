@@ -1,0 +1,14 @@
+{
+  "asn": 270516,
+  "handle": "IZOC-SERVICOS-DE",
+  "description": "IZOC SERVICOS DE INTERNET LTDA",
+  "subnets": {
+    "ipv4": [
+      "187.73.180.0/22"
+    ],
+    "ipv6": [
+      "2804:6d28::/48",
+      "2804:6d28:8000::/48"
+    ]
+  }
+}

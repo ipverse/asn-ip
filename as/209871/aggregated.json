@@ -1,0 +1,13 @@
+{
+  "asn": 209871,
+  "handle": "INFOMEDICS",
+  "description": "Infomedics BV",
+  "subnets": {
+    "ipv4": [
+      "84.252.124.0/22"
+    ],
+    "ipv6": [
+      "2a09:6d00::/29"
+    ]
+  }
+}

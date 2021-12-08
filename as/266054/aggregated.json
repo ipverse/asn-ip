@@ -1,0 +1,13 @@
+{
+  "asn": 266054,
+  "handle": "SKILLNET-TELECOMUNICACOES",
+  "description": "Skill.Net Telecomunicações",
+  "subnets": {
+    "ipv4": [
+      "45.4.40.0/22"
+    ],
+    "ipv6": [
+      "2804:39d8::/32"
+    ]
+  }
+}

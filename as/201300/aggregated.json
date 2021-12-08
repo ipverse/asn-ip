@@ -1,0 +1,11 @@
+{
+  "asn": 201300,
+  "handle": "DVS",
+  "description": "DVS Soft Ltd",
+  "subnets": {
+    "ipv4": [
+      "185.79.110.0/23"
+    ],
+    "ipv6": []
+  }
+}

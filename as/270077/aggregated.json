@@ -1,0 +1,13 @@
+{
+  "asn": 270077,
+  "handle": "CABLE-AUDIO-VISION-SRL",
+  "description": "CABLE AUDIO VISIÓN SRL",
+  "subnets": {
+    "ipv4": [
+      "179.48.140.0/22"
+    ],
+    "ipv6": [
+      "2803:f3e0::/32"
+    ]
+  }
+}

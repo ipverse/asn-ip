@@ -1,0 +1,13 @@
+{
+  "asn": 63790,
+  "handle": "CA-LAB",
+  "description": "CyberAgent, Inc.",
+  "subnets": {
+    "ipv4": [
+      "103.167.206.0/23"
+    ],
+    "ipv6": [
+      "2407:a6c0::/32"
+    ]
+  }
+}

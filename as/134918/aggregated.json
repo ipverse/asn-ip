@@ -1,0 +1,14 @@
+{
+  "asn": 134918,
+  "handle": "BLUENET",
+  "description": "Blue Net It Soltions Pvt Ltd",
+  "subnets": {
+    "ipv4": [
+      "103.210.204.0/22"
+    ],
+    "ipv6": [
+      "2405:ca40::/33",
+      "2405:ca40:8000::/35"
+    ]
+  }
+}

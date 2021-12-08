@@ -1,0 +1,13 @@
+{
+  "asn": 203398,
+  "handle": "ROTAREX",
+  "description": "Rotarex S.A.",
+  "subnets": {
+    "ipv4": [
+      "185.135.248.0/22"
+    ],
+    "ipv6": [
+      "2a06:f740::/29"
+    ]
+  }
+}

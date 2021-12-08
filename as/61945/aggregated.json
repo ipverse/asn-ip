@@ -1,0 +1,13 @@
+{
+  "asn": 61945,
+  "handle": "PIX-BRASIL-NETWORKS-LTDA",
+  "description": "PIX BRASIL NETWORKS LTDA",
+  "subnets": {
+    "ipv4": [
+      "201.159.88.0/21"
+    ],
+    "ipv6": [
+      "2804:18a4::/32"
+    ]
+  }
+}

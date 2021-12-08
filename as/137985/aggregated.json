@@ -1,0 +1,12 @@
+{
+  "asn": 137985,
+  "handle": "UBN-AP",
+  "description": "UNLIMITED BROADBAND NETWORK",
+  "subnets": {
+    "ipv4": [
+      "103.119.100.0/23",
+      "103.119.103.0/24"
+    ],
+    "ipv6": []
+  }
+}

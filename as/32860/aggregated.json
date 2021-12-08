@@ -1,0 +1,13 @@
+{
+  "asn": 32860,
+  "handle": "CATS-NET-NETWORK",
+  "description": "Cats-Net Limited",
+  "subnets": {
+    "ipv4": [
+      "196.45.128.0/19"
+    ],
+    "ipv6": [
+      "2c0f:f058::/32"
+    ]
+  }
+}

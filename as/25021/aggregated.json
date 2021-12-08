@@ -1,0 +1,11 @@
+{
+  "asn": 25021,
+  "handle": "CIEF",
+  "description": "Centre Informatique Etat de Fribourg",
+  "subnets": {
+    "ipv4": [
+      "156.25.0.0/16"
+    ],
+    "ipv6": []
+  }
+}

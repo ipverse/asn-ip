@@ -1,0 +1,13 @@
+{
+  "asn": 55683,
+  "handle": "IDNIC-ARGONDATA-ID",
+  "description": "CV Argon Data Interkoneksi",
+  "subnets": {
+    "ipv4": [
+      "103.195.18.0/23"
+    ],
+    "ipv6": [
+      "2001:df6:cc00::/48"
+    ]
+  }
+}

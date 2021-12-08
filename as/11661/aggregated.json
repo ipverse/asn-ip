@@ -1,0 +1,14 @@
+{
+  "asn": 11661,
+  "handle": "SEMICUBIC",
+  "description": "Semicubic Systems LLC",
+  "subnets": {
+    "ipv4": [
+      "44.4.23.0/24"
+    ],
+    "ipv6": [
+      "2602:804:9000::/44",
+      "2607:7c80:58::/48"
+    ]
+  }
+}

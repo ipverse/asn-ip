@@ -1,0 +1,11 @@
+{
+  "asn": 136982,
+  "handle": "INS-AP",
+  "description": "Integranet Network Services",
+  "subnets": {
+    "ipv4": [
+      "103.101.44.0/22"
+    ],
+    "ipv6": []
+  }
+}

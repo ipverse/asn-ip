@@ -1,0 +1,13 @@
+{
+  "asn": 10671,
+  "handle": "COMISION-NACIONAL-DE",
+  "description": "Comision Nacional de Actividades Espaciales",
+  "subnets": {
+    "ipv4": [
+      "200.9.75.0/24",
+      "200.16.80.0/23",
+      "200.16.82.0/24"
+    ],
+    "ipv6": []
+  }
+}

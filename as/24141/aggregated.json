@@ -1,0 +1,13 @@
+{
+  "asn": 24141,
+  "handle": "DMTNET",
+  "description": "Shanghai DMT Information Network cor.,LTD.",
+  "subnets": {
+    "ipv4": [
+      "202.136.208.0/21",
+      "203.176.168.0/24",
+      "203.176.170.0/24"
+    ],
+    "ipv6": []
+  }
+}

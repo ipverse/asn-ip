@@ -1,0 +1,11 @@
+{
+  "asn": 200814,
+  "handle": "GAZIKNET",
+  "description": "LLC Gazik Net",
+  "subnets": {
+    "ipv4": [
+      "193.56.148.0/22"
+    ],
+    "ipv6": []
+  }
+}

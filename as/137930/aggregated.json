@@ -1,0 +1,12 @@
+{
+  "asn": 137930,
+  "handle": "DOOTECH-AP",
+  "description": "Doo Technology Limited",
+  "subnets": {
+    "ipv4": [
+      "103.117.116.0/24",
+      "103.151.210.0/24"
+    ],
+    "ipv6": []
+  }
+}

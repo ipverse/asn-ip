@@ -1,0 +1,13 @@
+{
+  "asn": 266592,
+  "handle": "REAL-LIFE-INTERNET",
+  "description": "REAL LIFE INTERNET",
+  "subnets": {
+    "ipv4": [
+      "45.7.164.0/22"
+    ],
+    "ipv6": [
+      "2804:3e60::/32"
+    ]
+  }
+}

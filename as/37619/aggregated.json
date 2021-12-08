@@ -1,0 +1,13 @@
+{
+  "asn": 37619,
+  "handle": "BSC",
+  "description": "Broadband Systems Corporation",
+  "subnets": {
+    "ipv4": [
+      "41.197.192.0/22"
+    ],
+    "ipv6": [
+      "2c0f:fe60::/32"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 203544,
+  "handle": "WEBDEVIIN",
+  "description": "GIBMEDIA SASU",
+  "subnets": {
+    "ipv4": [
+      "185.119.24.0/22"
+    ],
+    "ipv6": [
+      "2a06:dd80::/29"
+    ]
+  }
+}

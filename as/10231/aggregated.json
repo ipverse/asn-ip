@@ -1,0 +1,13 @@
+{
+  "asn": 10231,
+  "handle": "TECHTRANS-AP",
+  "description": "Tech-trans Telecom Ltd",
+  "subnets": {
+    "ipv4": [
+      "202.85.192.0/22",
+      "202.85.196.0/23",
+      "202.85.201.0/24"
+    ],
+    "ipv6": []
+  }
+}

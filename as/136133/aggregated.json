@@ -1,0 +1,12 @@
+{
+  "asn": 136133,
+  "handle": "SECTIONIO-AP",
+  "description": "SQUIXA PTY LIMITED",
+  "subnets": {
+    "ipv4": [
+      "45.154.180.0/22",
+      "103.107.226.0/23"
+    ],
+    "ipv6": []
+  }
+}

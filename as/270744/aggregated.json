@@ -1,0 +1,13 @@
+{
+  "asn": 270744,
+  "handle": "FORTE-TELECOM-SERVICOS",
+  "description": "Forte Telecom Servicos de Comunicacao Multimidia E",
+  "subnets": {
+    "ipv4": [
+      "138.99.228.0/23"
+    ],
+    "ipv6": [
+      "2804:70b8::/32"
+    ]
+  }
+}

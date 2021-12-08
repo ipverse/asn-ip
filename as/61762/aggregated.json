@@ -1,0 +1,13 @@
+{
+  "asn": 61762,
+  "handle": "CONECTABR-SISTEMAS-DE",
+  "description": "CONECTABR SISTEMAS DE COMUNICAÇÕES LTDA",
+  "subnets": {
+    "ipv4": [
+      "201.139.172.0/22"
+    ],
+    "ipv6": [
+      "2804:18e8::/32"
+    ]
+  }
+}

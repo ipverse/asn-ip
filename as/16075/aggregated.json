@@ -1,0 +1,13 @@
+{
+  "asn": 16075,
+  "handle": "TAZ",
+  "description": "TAZ Verlags- und Vertriebs GmbH",
+  "subnets": {
+    "ipv4": [
+      "193.104.220.0/24"
+    ],
+    "ipv6": [
+      "2001:67c:13c::/48"
+    ]
+  }
+}

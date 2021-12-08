@@ -1,0 +1,11 @@
+{
+  "asn": 142507,
+  "handle": "NHPCIN-IN",
+  "description": "NHPC Limited",
+  "subnets": {
+    "ipv4": [
+      "103.168.252.0/23"
+    ],
+    "ipv6": []
+  }
+}

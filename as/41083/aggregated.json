@@ -1,0 +1,13 @@
+{
+  "asn": 41083,
+  "handle": "NETASTIC",
+  "description": "NETASTiC AG",
+  "subnets": {
+    "ipv4": [
+      "84.39.144.0/21"
+    ],
+    "ipv6": [
+      "2a01:acc0::/32"
+    ]
+  }
+}

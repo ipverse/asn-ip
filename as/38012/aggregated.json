@@ -1,0 +1,11 @@
+{
+  "asn": 38012,
+  "handle": "DOWNERGROUP-AP",
+  "description": "Downer EDI Limited",
+  "subnets": {
+    "ipv4": [
+      "203.20.54.0/23"
+    ],
+    "ipv6": []
+  }
+}

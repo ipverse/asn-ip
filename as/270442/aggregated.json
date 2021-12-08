@@ -1,0 +1,13 @@
+{
+  "asn": 270442,
+  "handle": "G15NET-LTDA",
+  "description": "G15NET LTDA",
+  "subnets": {
+    "ipv4": [
+      "200.14.124.0/22"
+    ],
+    "ipv6": [
+      "2804:6c0c::/32"
+    ]
+  }
+}

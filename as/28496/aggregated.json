@@ -1,0 +1,13 @@
+{
+  "asn": 28496,
+  "handle": "NETWORK-INFORMATION-CENTER",
+  "description": "Network Information Center México",
+  "subnets": {
+    "ipv4": [
+      "200.23.30.0/24"
+    ],
+    "ipv6": [
+      "2001:1221::/48"
+    ]
+  }
+}

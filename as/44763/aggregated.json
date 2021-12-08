@@ -1,0 +1,13 @@
+{
+  "asn": 44763,
+  "handle": "NON",
+  "description": "NATIONAL OILWELL NORWAY AS",
+  "subnets": {
+    "ipv4": [
+      "93.93.72.0/21",
+      "176.241.232.0/21",
+      "185.79.84.0/23"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 267080,
+  "handle": "STARNET-LTDA",
+  "description": "StarNet Ltda",
+  "subnets": {
+    "ipv4": [
+      "45.228.224.0/22"
+    ],
+    "ipv6": [
+      "2804:47d8::/32"
+    ]
+  }
+}

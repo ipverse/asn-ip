@@ -1,0 +1,13 @@
+{
+  "asn": 263920,
+  "handle": "MAST-TELECOMUNICACOES-E",
+  "description": "MAST TELECOMUNICACOES E INFORMATICA LTDA",
+  "subnets": {
+    "ipv4": [
+      "138.185.240.0/22"
+    ],
+    "ipv6": [
+      "2804:27c0::/32"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 43751,
+  "handle": "KEYTRADE",
+  "description": "Keytrade Bank, Belgian branch of Arkea Direct Bank SA (France)",
+  "subnets": {
+    "ipv4": [
+      "93.191.216.0/21"
+    ],
+    "ipv6": [
+      "2a02:4b0::/32"
+    ]
+  }
+}

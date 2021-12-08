@@ -1,0 +1,13 @@
+{
+  "asn": 131589,
+  "handle": "FOXCONN-TW",
+  "description": "Foxconn Technology Group",
+  "subnets": {
+    "ipv4": [
+      "103.227.32.0/22"
+    ],
+    "ipv6": [
+      "2400:b480::/32"
+    ]
+  }
+}

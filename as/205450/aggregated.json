@@ -1,0 +1,11 @@
+{
+  "asn": 205450,
+  "handle": "HOSTMEDIA",
+  "description": "Host Media DOO",
+  "subnets": {
+    "ipv4": [
+      "212.102.102.0/24"
+    ],
+    "ipv6": []
+  }
+}

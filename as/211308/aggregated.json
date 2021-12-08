@@ -1,0 +1,13 @@
+{
+  "asn": 211308,
+  "handle": "NATEIS",
+  "description": "NATEIS EURL",
+  "subnets": {
+    "ipv4": [
+      "176.124.115.0/24"
+    ],
+    "ipv6": [
+      "2a05:9f80::/29"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asn": 132947,
+  "handle": "NAVNITCS-IN",
+  "description": "Navneet Communication Service",
+  "subnets": {
+    "ipv4": [
+      "103.155.206.0/23"
+    ],
+    "ipv6": []
+  }
+}

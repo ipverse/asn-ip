@@ -1,0 +1,12 @@
+{
+  "asn": 28152,
+  "handle": "NAVINET-LTDA",
+  "description": "Navinet Ltda",
+  "subnets": {
+    "ipv4": [
+      "138.185.168.0/22",
+      "187.60.128.0/20"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 396109,
+  "handle": "YOKO-NETWORKS",
+  "description": "Yoko Networks Inc.",
+  "subnets": {
+    "ipv4": [
+      "141.193.56.0/23"
+    ],
+    "ipv6": [
+      "2602:fed0::/36"
+    ]
+  }
+}

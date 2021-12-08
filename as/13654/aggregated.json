@@ -1,0 +1,12 @@
+{
+  "asn": 13654,
+  "handle": "KC-WEB-LLC",
+  "description": "KC Web, Inc.",
+  "subnets": {
+    "ipv4": [
+      "68.171.16.0/20",
+      "209.153.64.0/18"
+    ],
+    "ipv6": []
+  }
+}

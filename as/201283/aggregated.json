@@ -1,0 +1,14 @@
+{
+  "asn": 201283,
+  "handle": "GRANDCENTRIX",
+  "description": "grandcentrix GmbH",
+  "subnets": {
+    "ipv4": [
+      "185.79.124.0/24",
+      "185.79.127.0/24"
+    ],
+    "ipv6": [
+      "2a05:7380::/29"
+    ]
+  }
+}

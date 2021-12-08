@@ -1,0 +1,14 @@
+{
+  "asn": 25520,
+  "handle": "FT",
+  "description": "JSC Futures Telecom",
+  "subnets": {
+    "ipv4": [
+      "78.137.104.0/21",
+      "217.15.16.0/20"
+    ],
+    "ipv6": [
+      "2a02:c0c0::/29"
+    ]
+  }
+}

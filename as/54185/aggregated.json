@@ -1,0 +1,12 @@
+{
+  "asn": 54185,
+  "handle": "PRMI-CORP-AS01",
+  "description": "PRIMARY RESIDENTIAL MORTGAGE",
+  "subnets": {
+    "ipv4": [
+      "38.99.83.0/24",
+      "65.121.72.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 35057,
+  "handle": "HOMELINK",
+  "description": "HOMELINK Limited Liability Company",
+  "subnets": {
+    "ipv4": [
+      "194.31.236.0/23",
+      "194.31.245.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 132623,
+  "handle": "TSUKERU",
+  "description": "Ningbo Dahuamao Information Technology Co Ltd",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2406:840:fcc0::/44",
+      "2406:840:fef7::/48"
+    ]
+  }
+}

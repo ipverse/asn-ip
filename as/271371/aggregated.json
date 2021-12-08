@@ -1,0 +1,13 @@
+{
+  "asn": 271371,
+  "handle": "AALAN-CALDAS-BEZERRA",
+  "description": "AAlan Caldas Bezerra de Oliveira",
+  "subnets": {
+    "ipv4": [
+      "200.4.100.0/22"
+    ],
+    "ipv6": [
+      "2804:7a70::/32"
+    ]
+  }
+}

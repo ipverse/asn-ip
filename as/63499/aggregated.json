@@ -1,0 +1,11 @@
+{
+  "asn": 63499,
+  "handle": "IDNIC-UNP-ID",
+  "description": "Universitas Negeri Padang",
+  "subnets": {
+    "ipv4": [
+      "103.216.87.0/24"
+    ],
+    "ipv6": []
+  }
+}

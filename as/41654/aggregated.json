@@ -1,0 +1,11 @@
+{
+  "asn": 41654,
+  "handle": "INETRA",
+  "description": "Inetra LLC",
+  "subnets": {
+    "ipv4": [
+      "195.189.238.0/23"
+    ],
+    "ipv6": []
+  }
+}

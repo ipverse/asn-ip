@@ -1,0 +1,13 @@
+{
+  "asn": 268787,
+  "handle": "SEU-WIFI-TELECOM-LTDA",
+  "description": "SEU WIFI TELECOM LTDA",
+  "subnets": {
+    "ipv4": [
+      "45.172.204.0/22"
+    ],
+    "ipv6": [
+      "2804:5aa8::/32"
+    ]
+  }
+}

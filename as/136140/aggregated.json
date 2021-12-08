@@ -1,0 +1,11 @@
+{
+  "asn": 136140,
+  "handle": "BANK-AP",
+  "description": "Bank of Western Australia Limited (Bankwest)",
+  "subnets": {
+    "ipv4": [
+      "103.81.102.0/24"
+    ],
+    "ipv6": []
+  }
+}

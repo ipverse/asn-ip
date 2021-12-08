@@ -1,0 +1,12 @@
+{
+  "asn": 16167,
+  "handle": "BREBANK-MBANK-MULTIBANK",
+  "description": "mBank SA",
+  "subnets": {
+    "ipv4": [
+      "185.243.0.0/24",
+      "193.41.230.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asn": 45136,
+  "handle": "SONIC-AP",
+  "description": "Sonic Point Limited",
+  "subnets": {
+    "ipv4": [
+      "119.235.40.0/21"
+    ],
+    "ipv6": []
+  }
+}

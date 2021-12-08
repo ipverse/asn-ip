@@ -1,0 +1,13 @@
+{
+  "asn": 206836,
+  "handle": "FORTYTWO",
+  "description": "Fortytwo Security BV",
+  "subnets": {
+    "ipv4": [
+      "185.175.24.0/22"
+    ],
+    "ipv6": [
+      "2a0b:c900::/29"
+    ]
+  }
+}

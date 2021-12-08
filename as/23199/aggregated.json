@@ -1,0 +1,13 @@
+{
+  "asn": 23199,
+  "handle": "COMDATA-NETWORK",
+  "description": "Comdata,INC",
+  "subnets": {
+    "ipv4": [
+      "64.58.233.0/24",
+      "65.82.130.0/24",
+      "66.20.45.0/24"
+    ],
+    "ipv6": []
+  }
+}

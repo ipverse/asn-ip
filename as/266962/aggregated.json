@@ -1,0 +1,13 @@
+{
+  "asn": 266962,
+  "handle": "G-M-DA-COSTA-INTERNET",
+  "description": "G M DA COSTA INTERNET",
+  "subnets": {
+    "ipv4": [
+      "45.226.124.0/22"
+    ],
+    "ipv6": [
+      "2804:4604::/32"
+    ]
+  }
+}

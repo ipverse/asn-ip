@@ -1,0 +1,11 @@
+{
+  "asn": 44242,
+  "handle": "VALDEMARA-CENTRS-LV",
+  "description": "SIA Valdemara Centrs",
+  "subnets": {
+    "ipv4": [
+      "159.148.30.0/24"
+    ],
+    "ipv6": []
+  }
+}

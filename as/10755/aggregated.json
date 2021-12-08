@@ -1,0 +1,13 @@
+{
+  "asn": 10755,
+  "handle": "DARTMOUTH",
+  "description": "Dartmouth College",
+  "subnets": {
+    "ipv4": [
+      "129.170.0.0/16"
+    ],
+    "ipv6": [
+      "2604:5f00::/32"
+    ]
+  }
+}

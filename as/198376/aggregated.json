@@ -1,0 +1,11 @@
+{
+  "asn": 198376,
+  "handle": "LANDATA",
+  "description": "ZAO NTC Landata",
+  "subnets": {
+    "ipv4": [
+      "91.233.226.0/24"
+    ],
+    "ipv6": []
+  }
+}

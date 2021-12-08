@@ -1,0 +1,11 @@
+{
+  "asn": 20321,
+  "handle": "ALTERNATIVA-GRATIS",
+  "description": "Alternativa Gratis",
+  "subnets": {
+    "ipv4": [
+      "201.216.230.0/24"
+    ],
+    "ipv6": []
+  }
+}

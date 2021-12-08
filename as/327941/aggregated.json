@@ -1,0 +1,15 @@
+{
+  "asn": 327941,
+  "handle": "SIMBANET-MALAWI",
+  "description": "SIMBANET MALAWI LIMITED",
+  "subnets": {
+    "ipv4": [
+      "196.11.80.0/21",
+      "196.223.27.0/24"
+    ],
+    "ipv6": [
+      "2c0f:eb00:1200::/40",
+      "2c0f:f510::/32"
+    ]
+  }
+}

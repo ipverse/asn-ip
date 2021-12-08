@@ -1,0 +1,13 @@
+{
+  "asn": 265950,
+  "handle": "HLP-MOBILE-AND",
+  "description": "HLP MOBILE AND WORLDWIDE TRACKING",
+  "subnets": {
+    "ipv4": [
+      "164.163.108.0/22"
+    ],
+    "ipv6": [
+      "2804:404c::/32"
+    ]
+  }
+}

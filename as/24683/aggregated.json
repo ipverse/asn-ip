@@ -1,0 +1,12 @@
+{
+  "asn": 24683,
+  "handle": "OSU",
+  "description": "State Educational Institution of Higher Professional Education Orenburg State University",
+  "subnets": {
+    "ipv4": [
+      "62.76.152.0/24",
+      "195.2.210.0/23"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 265246,
+  "handle": "ELETRONICA-LAUX-EIRELI-ME",
+  "description": "ELETRONICA LAUX EIRELI - ME",
+  "subnets": {
+    "ipv4": [
+      "167.250.128.0/22"
+    ],
+    "ipv6": [
+      "2804:2cd4::/32"
+    ]
+  }
+}

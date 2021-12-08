@@ -1,0 +1,13 @@
+{
+  "asn": 270237,
+  "handle": "MULT3-TELECOM",
+  "description": "Mult3 Telecom",
+  "subnets": {
+    "ipv4": [
+      "45.189.164.0/22"
+    ],
+    "ipv6": [
+      "2804:68ec::/32"
+    ]
+  }
+}

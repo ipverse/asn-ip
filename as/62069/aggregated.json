@@ -1,0 +1,12 @@
+{
+  "asn": 62069,
+  "handle": "TELECOM-UNION",
+  "description": "Telecommunication Union Ltd.",
+  "subnets": {
+    "ipv4": [
+      "31.148.5.0/24",
+      "92.38.3.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "asn": 208687,
+  "handle": "JURASSIC-FIBRE",
+  "description": "JURASSIC FIBRE LTD",
+  "subnets": {
+    "ipv4": [
+      "45.89.4.0/22",
+      "141.195.128.0/18",
+      "185.147.244.0/23"
+    ],
+    "ipv6": [
+      "2a0a:5580:1002::/47"
+    ]
+  }
+}

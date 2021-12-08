@@ -1,0 +1,16 @@
+{
+  "asn": 265575,
+  "handle": "TECNOLOGIAS-AVANZADAS-S",
+  "description": "Tecnologías Avanzadas S. de R.L. de C.V.",
+  "subnets": {
+    "ipv4": [
+      "45.174.200.0/23",
+      "143.202.76.0/23",
+      "143.202.78.0/24",
+      "158.122.136.0/22",
+      "189.201.240.0/22",
+      "201.174.63.0/24"
+    ],
+    "ipv6": []
+  }
+}

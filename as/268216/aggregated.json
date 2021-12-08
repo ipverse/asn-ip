@@ -1,0 +1,13 @@
+{
+  "asn": 268216,
+  "handle": "HIPERVI-SERVICOS-DE",
+  "description": "HIPERVI SERVICOS DE COMUNICACAO MULTIMIDIA LTDA",
+  "subnets": {
+    "ipv4": [
+      "45.235.248.0/22"
+    ],
+    "ipv6": [
+      "2804:4dbc::/32"
+    ]
+  }
+}

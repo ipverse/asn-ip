@@ -1,0 +1,13 @@
+{
+  "asn": 265307,
+  "handle": "PLANETY-INTERNET-SERVICOS",
+  "description": "PLANETY INTERNET SERVIÇOS E COMUNICAÇÕES LTDA - ME",
+  "subnets": {
+    "ipv4": [
+      "168.90.100.0/22"
+    ],
+    "ipv6": [
+      "2804:2dd8::/32"
+    ]
+  }
+}

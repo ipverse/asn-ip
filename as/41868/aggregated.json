@@ -1,0 +1,13 @@
+{
+  "asn": 41868,
+  "handle": "NVIA",
+  "description": "NVIA GESTION DE DATOS SL",
+  "subnets": {
+    "ipv4": [
+      "103.77.184.0/24",
+      "154.44.188.0/24",
+      "193.219.96.0/24"
+    ],
+    "ipv6": []
+  }
+}

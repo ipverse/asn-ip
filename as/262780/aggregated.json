@@ -1,0 +1,15 @@
+{
+  "asn": 262780,
+  "handle": "NTCOM-TELECOMUNICACOES-EIRELI",
+  "description": "NTCOM Telecomunicações Eireli",
+  "subnets": {
+    "ipv4": [
+      "179.96.192.0/21",
+      "186.235.0.0/20",
+      "201.148.188.0/22"
+    ],
+    "ipv6": [
+      "2804:1a08::/32"
+    ]
+  }
+}

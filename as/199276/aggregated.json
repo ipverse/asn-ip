@@ -1,0 +1,13 @@
+{
+  "asn": 199276,
+  "handle": "ERMAL",
+  "description": "Tele.Co.Albania SHPK",
+  "subnets": {
+    "ipv4": [
+      "77.247.88.0/23",
+      "77.247.91.0/24",
+      "77.247.92.0/22"
+    ],
+    "ipv6": []
+  }
+}

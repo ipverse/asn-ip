@@ -1,0 +1,15 @@
+{
+  "asn": 266636,
+  "handle": "REDE-WORKS-TELECOM",
+  "description": "REDE WORKS TELECOM",
+  "subnets": {
+    "ipv4": [
+      "128.201.56.0/23",
+      "128.201.58.0/24"
+    ],
+    "ipv6": [
+      "2804:3f0c::/38",
+      "2804:3f0c:ed00::/40"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 38928,
+  "handle": "NP-GLONASS",
+  "description": "JSC GLONASS",
+  "subnets": {
+    "ipv4": [
+      "193.232.47.0/24",
+      "193.232.77.0/24"
+    ],
+    "ipv6": []
+  }
+}

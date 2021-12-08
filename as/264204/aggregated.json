@@ -1,0 +1,14 @@
+{
+  "asn": 264204,
+  "handle": "CAS-TELECOMUNICACOES-EIRELI",
+  "description": "CAS TELECOMUNICACOES EIRELI",
+  "subnets": {
+    "ipv4": [
+      "138.97.232.0/22",
+      "170.0.124.0/22"
+    ],
+    "ipv6": [
+      "2804:2424::/32"
+    ]
+  }
+}

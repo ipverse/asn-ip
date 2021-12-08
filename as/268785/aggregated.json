@@ -1,0 +1,12 @@
+{
+  "asn": 268785,
+  "handle": "VLINK-TELECOM",
+  "description": "Vlink Telecom",
+  "subnets": {
+    "ipv4": [
+      "45.172.160.0/23",
+      "45.172.162.0/24"
+    ],
+    "ipv6": []
+  }
+}

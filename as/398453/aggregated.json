@@ -1,0 +1,12 @@
+{
+  "asn": 398453,
+  "handle": "INCOMM-NET3",
+  "description": "InComm",
+  "subnets": {
+    "ipv4": [
+      "74.122.144.0/22",
+      "207.126.142.0/24"
+    ],
+    "ipv6": []
+  }
+}

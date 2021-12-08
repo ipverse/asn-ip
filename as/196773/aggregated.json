@@ -1,0 +1,11 @@
+{
+  "asn": 196773,
+  "handle": "VIAPASS-FR",
+  "description": "VIAPASS SAS",
+  "subnets": {
+    "ipv4": [
+      "83.144.0.0/18"
+    ],
+    "ipv6": []
+  }
+}

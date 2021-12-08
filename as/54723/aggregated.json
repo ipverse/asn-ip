@@ -1,0 +1,11 @@
+{
+  "asn": 54723,
+  "handle": "-MIDWEST-DATA-CENTER",
+  "description": "Midwest Data Center, Inc.",
+  "subnets": {
+    "ipv4": [
+      "130.51.128.0/22"
+    ],
+    "ipv6": []
+  }
+}

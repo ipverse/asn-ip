@@ -1,0 +1,11 @@
+{
+  "asn": 40768,
+  "handle": "GANNETT-ROC",
+  "description": "Democrat and Chronicle",
+  "subnets": {
+    "ipv4": [
+      "159.54.5.0/24"
+    ],
+    "ipv6": []
+  }
+}

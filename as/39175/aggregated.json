@@ -1,0 +1,14 @@
+{
+  "asn": 39175,
+  "handle": "TOUCHTEC",
+  "description": "TouchTec Technology Limited",
+  "subnets": {
+    "ipv4": [
+      "139.28.108.0/22",
+      "185.249.36.0/22"
+    ],
+    "ipv6": [
+      "2a09:d340::/29"
+    ]
+  }
+}

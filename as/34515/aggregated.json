@@ -1,0 +1,13 @@
+{
+  "asn": 34515,
+  "handle": "NEXTNET",
+  "description": "Next Net for Internet and IT Services LTD",
+  "subnets": {
+    "ipv4": [
+      "185.95.184.0/22"
+    ],
+    "ipv6": [
+      "2a09:a0c0::/29"
+    ]
+  }
+}

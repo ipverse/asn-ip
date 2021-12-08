@@ -1,0 +1,11 @@
+{
+  "asn": 28853,
+  "handle": "RAIFFEISEN",
+  "description": "Raiffeisen Bank SA",
+  "subnets": {
+    "ipv4": [
+      "193.138.103.0/24"
+    ],
+    "ipv6": []
+  }
+}

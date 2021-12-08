@@ -1,0 +1,11 @@
+{
+  "asn": 263335,
+  "handle": "ALTERNATIVA-TELECOM",
+  "description": "Alternativa Telecom",
+  "subnets": {
+    "ipv4": [
+      "191.36.136.0/21"
+    ],
+    "ipv6": []
+  }
+}

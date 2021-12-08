@@ -1,0 +1,13 @@
+{
+  "asn": 61824,
+  "handle": "TOP-SERVICOS-DE",
+  "description": "Top Serviços de Telecomunicações Ltda",
+  "subnets": {
+    "ipv4": [
+      "201.131.160.0/22"
+    ],
+    "ipv6": [
+      "2804:19e0::/32"
+    ]
+  }
+}

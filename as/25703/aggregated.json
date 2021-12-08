@@ -1,0 +1,11 @@
+{
+  "asn": 25703,
+  "handle": "OIC-HQ",
+  "description": "Oregon Ice Cream, LLC",
+  "subnets": {
+    "ipv4": [
+      "192.12.45.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 265184,
+  "handle": "HCNETI-TELECOM",
+  "description": "HCNETi TELECOM",
+  "subnets": {
+    "ipv4": [
+      "167.249.160.0/22"
+    ],
+    "ipv6": [
+      "2804:2bec::/32"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asn": 54601,
+  "handle": "FXCM-NYC-HQ",
+  "description": "Forex Capital Markets L.L.C.",
+  "subnets": {
+    "ipv4": [
+      "199.248.199.0/24"
+    ],
+    "ipv6": []
+  }
+}

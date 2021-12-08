@@ -1,0 +1,11 @@
+{
+  "asn": 138367,
+  "handle": "TFNSWOS-AP",
+  "description": "Transport for NSW",
+  "subnets": {
+    "ipv4": [
+      "103.131.208.0/22"
+    ],
+    "ipv6": []
+  }
+}

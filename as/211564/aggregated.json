@@ -1,0 +1,13 @@
+{
+  "asn": 211564,
+  "handle": "TEAMNORR",
+  "description": "TeamNorr IT-Partner AB",
+  "subnets": {
+    "ipv4": [
+      "192.165.11.0/24"
+    ],
+    "ipv6": [
+      "2001:678:fa8::/48"
+    ]
+  }
+}

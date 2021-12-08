@@ -1,0 +1,14 @@
+{
+  "asn": 21485,
+  "handle": "FOILHAT",
+  "description": "Supervenient AB",
+  "subnets": {
+    "ipv4": [
+      "91.231.153.0/24"
+    ],
+    "ipv6": [
+      "2001:67c:15ec::/48",
+      "2a0a:3500::/32"
+    ]
+  }
+}

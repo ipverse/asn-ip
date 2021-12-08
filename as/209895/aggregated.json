@@ -1,0 +1,13 @@
+{
+  "asn": 209895,
+  "handle": "KVANTANETAS",
+  "description": "NBI SIA",
+  "subnets": {
+    "ipv4": [
+      "45.65.124.0/22"
+    ],
+    "ipv6": [
+      "2a09:b00::/29"
+    ]
+  }
+}

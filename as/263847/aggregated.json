@@ -1,0 +1,13 @@
+{
+  "asn": 263847,
+  "handle": "BS-CONECT-TELECOMUNICACOES",
+  "description": "BS CONECT TELECOMUNICAÇOES LTDA",
+  "subnets": {
+    "ipv4": [
+      "138.185.196.0/22"
+    ],
+    "ipv6": [
+      "2804:26a8::/32"
+    ]
+  }
+}

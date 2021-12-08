@@ -1,0 +1,13 @@
+{
+  "asn": 146932,
+  "handle": "SCCNET",
+  "description": "SCC NETWORK PVT LTD",
+  "subnets": {
+    "ipv4": [
+      "103.172.98.0/23"
+    ],
+    "ipv6": [
+      "2407:cf40::/32"
+    ]
+  }
+}

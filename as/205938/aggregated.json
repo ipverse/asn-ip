@@ -1,0 +1,13 @@
+{
+  "asn": 205938,
+  "handle": "DKUUG",
+  "description": "Dkuug/Dansk UNIX-system Bruger Gruppe",
+  "subnets": {
+    "ipv4": [
+      "185.38.172.0/23"
+    ],
+    "ipv6": [
+      "2a01:4260::/32"
+    ]
+  }
+}

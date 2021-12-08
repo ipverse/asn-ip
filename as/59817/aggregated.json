@@ -1,0 +1,13 @@
+{
+  "asn": 59817,
+  "handle": "OXLETECH",
+  "description": "Oxletech Limited",
+  "subnets": {
+    "ipv4": [
+      "185.70.56.0/22"
+    ],
+    "ipv6": [
+      "2a03:34a0::/32"
+    ]
+  }
+}

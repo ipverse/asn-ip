@@ -1,0 +1,13 @@
+{
+  "asn": 9629,
+  "handle": "HYUNDAICAPITAL-KR-KR",
+  "description": "HYUNDAICARD CO.",
+  "subnets": {
+    "ipv4": [
+      "61.40.236.0/24",
+      "125.142.121.0/24",
+      "211.234.27.0/24"
+    ],
+    "ipv6": []
+  }
+}

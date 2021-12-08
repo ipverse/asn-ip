@@ -1,0 +1,12 @@
+{
+  "asn": 29496,
+  "handle": "LINK-SERVICE",
+  "description": "Link-Service Ltd.",
+  "subnets": {
+    "ipv4": [
+      "193.200.76.0/23",
+      "194.146.110.0/24"
+    ],
+    "ipv6": []
+  }
+}

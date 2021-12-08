@@ -1,0 +1,12 @@
+{
+  "asn": 140045,
+  "handle": "MULTICITY-AP",
+  "description": "MultiCity Broad Band Pvt Ltd",
+  "subnets": {
+    "ipv4": [
+      "103.147.86.0/23",
+      "223.29.226.0/24"
+    ],
+    "ipv6": []
+  }
+}

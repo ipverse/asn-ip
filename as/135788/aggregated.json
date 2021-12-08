@@ -1,0 +1,12 @@
+{
+  "asn": 135788,
+  "handle": "VEDANT-IN",
+  "description": "Vedant Broadband",
+  "subnets": {
+    "ipv4": [
+      "103.85.100.0/23",
+      "103.85.103.0/24"
+    ],
+    "ipv6": []
+  }
+}

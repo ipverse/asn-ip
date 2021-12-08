@@ -1,0 +1,12 @@
+{
+  "asn": 38165,
+  "handle": "ADSNET-ID",
+  "description": "PT. AMBHARA DUTA SHANTI",
+  "subnets": {
+    "ipv4": [
+      "114.30.88.0/24",
+      "116.12.40.0/21"
+    ],
+    "ipv6": []
+  }
+}

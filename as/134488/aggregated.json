@@ -1,0 +1,12 @@
+{
+  "asn": 134488,
+  "handle": "CTJ-AP",
+  "description": "Ningbo Dahuamao Information Technology Co Ltd",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2406:840:e800::/48",
+      "2406:840:e80f::/48"
+    ]
+  }
+}

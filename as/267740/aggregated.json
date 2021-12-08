@@ -1,0 +1,13 @@
+{
+  "asn": 267740,
+  "handle": "UNIVERSIDAD-U-LATINA-SRL",
+  "description": "UNIVERSIDAD U LATINA SRL",
+  "subnets": {
+    "ipv4": [
+      "45.168.196.0/22"
+    ],
+    "ipv6": [
+      "2801:18:800::/48"
+    ]
+  }
+}

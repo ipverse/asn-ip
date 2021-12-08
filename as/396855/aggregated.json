@@ -1,0 +1,13 @@
+{
+  "asn": 396855,
+  "handle": "TNC",
+  "description": "TNC COMMUNICATIONS, INC.",
+  "subnets": {
+    "ipv4": [
+      "23.136.16.0/24"
+    ],
+    "ipv6": [
+      "2602:fdd4::/36"
+    ]
+  }
+}

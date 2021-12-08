@@ -1,0 +1,14 @@
+{
+  "asn": 395401,
+  "handle": "WPC-AK",
+  "description": "Whitestone Power \u0026 Communications",
+  "subnets": {
+    "ipv4": [
+      "31.207.56.0/23",
+      "199.200.6.0/23"
+    ],
+    "ipv6": [
+      "2607:7880::/32"
+    ]
+  }
+}

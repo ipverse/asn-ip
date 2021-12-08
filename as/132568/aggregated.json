@@ -1,0 +1,12 @@
+{
+  "asn": 132568,
+  "handle": "INFINET",
+  "description": "Infinet Communictions",
+  "subnets": {
+    "ipv4": [
+      "45.120.16.0/22",
+      "103.24.108.0/22"
+    ],
+    "ipv6": []
+  }
+}

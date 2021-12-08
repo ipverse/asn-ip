@@ -1,0 +1,12 @@
+{
+  "asn": 139073,
+  "handle": "FSIX-AP",
+  "description": "HostUS Solutions LLC",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2402:e380:100::/40",
+      "2402:e380:312::/48"
+    ]
+  }
+}

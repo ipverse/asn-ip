@@ -1,0 +1,13 @@
+{
+  "asn": 263300,
+  "handle": "UNIVERSIDADE-FEDERAL-DE",
+  "description": "Universidade Federal de Santa Catarina",
+  "subnets": {
+    "ipv4": [
+      "150.162.0.0/16"
+    ],
+    "ipv6": [
+      "2801:84::/32"
+    ]
+  }
+}

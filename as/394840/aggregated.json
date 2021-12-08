@@ -1,0 +1,13 @@
+{
+  "asn": 394840,
+  "handle": "BRITESKY",
+  "description": "Britesky Technologies Inc",
+  "subnets": {
+    "ipv4": [
+      "67.219.191.0/24",
+      "72.142.146.0/24",
+      "199.34.12.0/23"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 9020,
+  "handle": "-FRAUNHOFER-IESE-KL",
+  "description": "Fraunhofer-Gesellschaft zur Foerderung der angewandten Forschung e.V.",
+  "subnets": {
+    "ipv4": [
+      "153.96.133.0/24",
+      "153.96.134.0/23"
+    ],
+    "ipv6": []
+  }
+}

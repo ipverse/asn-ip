@@ -1,0 +1,14 @@
+{
+  "asn": 267035,
+  "handle": "MS-TELECOM-LTDA-ME",
+  "description": "MS TELECOM LTDA ME",
+  "subnets": {
+    "ipv4": [
+      "45.167.135.0/24",
+      "45.227.148.0/22"
+    ],
+    "ipv6": [
+      "2804:4728::/32"
+    ]
+  }
+}

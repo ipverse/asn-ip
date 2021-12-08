@@ -1,0 +1,15 @@
+{
+  "asn": 197653,
+  "handle": "ALCATRAZ",
+  "description": "ALCATRAZ INFORMATION SECURITY SARL",
+  "subnets": {
+    "ipv4": [
+      "45.135.72.0/22",
+      "62.122.224.0/22",
+      "94.185.64.0/21",
+      "185.118.16.0/22",
+      "194.146.62.0/24"
+    ],
+    "ipv6": []
+  }
+}

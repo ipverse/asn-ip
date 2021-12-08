@@ -1,0 +1,12 @@
+{
+  "asn": 269934,
+  "handle": "AIR-NETWORK-S-DE-R-L-DE-CV",
+  "description": "AIR NETWORK S. DE R. L. DE C.V.",
+  "subnets": {
+    "ipv4": [
+      "45.190.13.0/24",
+      "190.83.2.0/23"
+    ],
+    "ipv6": []
+  }
+}

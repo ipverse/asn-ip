@@ -1,0 +1,11 @@
+{
+  "asn": 265647,
+  "handle": "BANCO-DE-CREDITO",
+  "description": "BANCO DE CREDITO DE BOLIVIA S.A.",
+  "subnets": {
+    "ipv4": [
+      "170.245.35.0/24"
+    ],
+    "ipv6": []
+  }
+}

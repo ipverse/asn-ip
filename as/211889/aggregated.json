@@ -1,0 +1,12 @@
+{
+  "asn": 211889,
+  "handle": "AIB",
+  "description": "Alizz Islamic Bank SAOC",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a05:24c0:1::/48",
+      "2a05:24c0:2::/48"
+    ]
+  }
+}

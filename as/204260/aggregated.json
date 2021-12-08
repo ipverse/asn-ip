@@ -1,0 +1,14 @@
+{
+  "asn": 204260,
+  "handle": "ROS",
+  "description": "Registers of Scotland",
+  "subnets": {
+    "ipv4": [
+      "185.109.8.0/22",
+      "194.34.0.0/21"
+    ],
+    "ipv6": [
+      "2a02:e600::/30"
+    ]
+  }
+}

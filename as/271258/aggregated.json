@@ -1,0 +1,14 @@
+{
+  "asn": 271258,
+  "handle": "ERICK-TELECOM",
+  "description": "ERICK TELECOM",
+  "subnets": {
+    "ipv4": [
+      "128.201.32.0/23",
+      "128.201.35.0/24"
+    ],
+    "ipv6": [
+      "2804:78ac::/32"
+    ]
+  }
+}

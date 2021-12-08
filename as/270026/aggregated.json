@@ -1,0 +1,13 @@
+{
+  "asn": 270026,
+  "handle": "RED-SERVITEL-CA",
+  "description": "RED SERVITEL, CA",
+  "subnets": {
+    "ipv4": [
+      "189.127.166.0/23"
+    ],
+    "ipv6": [
+      "2803:f9e0::/32"
+    ]
+  }
+}

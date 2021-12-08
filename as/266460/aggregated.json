@@ -1,0 +1,13 @@
+{
+  "asn": 266460,
+  "handle": "NETGO-TELECOMUNICACOES-DO",
+  "description": "NetGo Telecomunicações do Brasil",
+  "subnets": {
+    "ipv4": [
+      "170.82.252.0/22"
+    ],
+    "ipv6": [
+      "2804:3828::/32"
+    ]
+  }
+}

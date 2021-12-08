@@ -1,0 +1,13 @@
+{
+  "asn": 10109,
+  "handle": "TOPNET-MN-AP",
+  "description": "Topica Co.,Ltd",
+  "subnets": {
+    "ipv4": [
+      "119.40.96.0/22",
+      "119.40.100.0/24",
+      "119.40.102.0/23"
+    ],
+    "ipv6": []
+  }
+}

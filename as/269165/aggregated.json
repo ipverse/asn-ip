@@ -1,0 +1,13 @@
+{
+  "asn": 269165,
+  "handle": "GLINK-PROVEDOR-DE-INTERNET",
+  "description": "GLINK Provedor de Internet",
+  "subnets": {
+    "ipv4": [
+      "45.180.16.0/22"
+    ],
+    "ipv6": [
+      "2804:6068::/32"
+    ]
+  }
+}

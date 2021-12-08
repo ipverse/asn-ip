@@ -1,0 +1,13 @@
+{
+  "asn": 210909,
+  "handle": "TUTA",
+  "description": "Tutao GmbH",
+  "subnets": {
+    "ipv4": [
+      "185.205.69.0/24"
+    ],
+    "ipv6": [
+      "2a10:e000:1::/48"
+    ]
+  }
+}

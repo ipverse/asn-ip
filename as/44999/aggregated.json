@@ -1,0 +1,12 @@
+{
+  "asn": 44999,
+  "handle": "MIFRIL",
+  "description": "Mifril+ LLC",
+  "subnets": {
+    "ipv4": [
+      "93.188.120.0/21",
+      "176.62.216.0/21"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asn": 38654,
+  "handle": "INES-NETWORK",
+  "description": "INES Corporation. expire12",
+  "subnets": {
+    "ipv4": [
+      "150.39.0.0/16"
+    ],
+    "ipv6": []
+  }
+}

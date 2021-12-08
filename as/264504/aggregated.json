@@ -1,0 +1,11 @@
+{
+  "asn": 264504,
+  "handle": "CJA-FIBRA",
+  "description": "CJA Fibra",
+  "subnets": {
+    "ipv4": [
+      "131.255.252.0/22"
+    ],
+    "ipv6": []
+  }
+}

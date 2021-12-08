@@ -1,0 +1,13 @@
+{
+  "asn": 262973,
+  "handle": "MAX-TELECOMUNICACOES-LTDA",
+  "description": "Max Telecomunicações Ltda",
+  "subnets": {
+    "ipv4": [
+      "179.108.128.0/19"
+    ],
+    "ipv6": [
+      "2804:ec4::/32"
+    ]
+  }
+}

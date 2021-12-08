@@ -1,0 +1,13 @@
+{
+  "asn": 200474,
+  "handle": "CRFREENET",
+  "description": "CRFreeNet, z.s.",
+  "subnets": {
+    "ipv4": [
+      "185.133.240.0/22"
+    ],
+    "ipv6": [
+      "2a05:fbe0::/31"
+    ]
+  }
+}

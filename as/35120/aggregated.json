@@ -1,0 +1,11 @@
+{
+  "asn": 35120,
+  "handle": "WGTWO",
+  "description": "WORKING GROUP TWO AS",
+  "subnets": {
+    "ipv4": [
+      "45.8.8.0/24"
+    ],
+    "ipv6": []
+  }
+}

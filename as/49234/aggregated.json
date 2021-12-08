@@ -1,0 +1,14 @@
+{
+  "asn": 49234,
+  "handle": "BSI",
+  "description": "Bundesamt fuer Sicherheit in der Informationstechnik",
+  "subnets": {
+    "ipv4": [
+      "77.87.224.0/21",
+      "193.17.240.0/21",
+      "193.24.128.0/18",
+      "193.30.80.0/24"
+    ],
+    "ipv6": []
+  }
+}

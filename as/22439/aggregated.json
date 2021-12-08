@@ -1,0 +1,17 @@
+{
+  "asn": 22439,
+  "handle": "PERFECT-INTERNATIONAL",
+  "description": "Perfect International, Inc",
+  "subnets": {
+    "ipv4": [
+      "64.56.64.0/20",
+      "70.36.96.0/19",
+      "74.81.32.0/19",
+      "74.222.0.0/19",
+      "89.190.158.0/24"
+    ],
+    "ipv6": [
+      "2607:fa98::/35"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 270331,
+  "handle": "MACEIO-TELECOM-TECNOLOGIA",
+  "description": "Maceio Telecom Tecnologia Eirelli",
+  "subnets": {
+    "ipv4": [
+      "190.89.0.0/22"
+    ],
+    "ipv6": [
+      "2804:6a5c:8000::/40"
+    ]
+  }
+}

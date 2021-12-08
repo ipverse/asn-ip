@@ -1,0 +1,13 @@
+{
+  "asn": 266220,
+  "handle": "RFS-TECNOLOGIA-LTDA",
+  "description": "RFS Tecnologia LTDA",
+  "subnets": {
+    "ipv4": [
+      "192.145.216.0/22"
+    ],
+    "ipv6": [
+      "2804:3c90::/32"
+    ]
+  }
+}

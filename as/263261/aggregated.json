@@ -1,0 +1,13 @@
+{
+  "asn": 263261,
+  "handle": "TRIBUNAL-REGIONAL-DO",
+  "description": "TRIBUNAL REGIONAL DO TRABALHO DA 3A REGIAO",
+  "subnets": {
+    "ipv4": [
+      "192.100.177.0/24"
+    ],
+    "ipv6": [
+      "2801:80:2600::/40"
+    ]
+  }
+}

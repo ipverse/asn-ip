@@ -1,0 +1,13 @@
+{
+  "asn": 266912,
+  "handle": "GUBAX-SERVICOS-EM",
+  "description": "GUBAX SERVICOS EM TECNOLOGIA DA INFORMACAO",
+  "subnets": {
+    "ipv4": [
+      "45.224.128.0/22"
+    ],
+    "ipv6": [
+      "2804:4538::/32"
+    ]
+  }
+}

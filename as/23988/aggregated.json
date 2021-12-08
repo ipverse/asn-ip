@@ -1,0 +1,13 @@
+{
+  "asn": 23988,
+  "handle": "PLDTGLOBAL-AP",
+  "description": "PLDT Global Corporation",
+  "subnets": {
+    "ipv4": [
+      "202.183.32.0/23",
+      "202.183.37.0/24",
+      "202.183.38.0/24"
+    ],
+    "ipv6": []
+  }
+}

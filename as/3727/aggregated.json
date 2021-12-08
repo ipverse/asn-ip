@@ -1,0 +1,13 @@
+{
+  "asn": 3727,
+  "handle": "SHRUBB",
+  "description": "Shrubbery Networks",
+  "subnets": {
+    "ipv4": [
+      "198.58.4.0/23"
+    ],
+    "ipv6": [
+      "2001:418:3fe::/48"
+    ]
+  }
+}

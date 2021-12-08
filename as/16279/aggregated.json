@@ -1,0 +1,11 @@
+{
+  "asn": 16279,
+  "handle": "-CITADELE",
+  "description": "AS Citadele banka",
+  "subnets": {
+    "ipv4": [
+      "193.178.176.0/21"
+    ],
+    "ipv6": []
+  }
+}

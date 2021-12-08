@@ -1,0 +1,11 @@
+{
+  "asn": 200880,
+  "handle": "WIREM",
+  "description": "Net-IT SRL",
+  "subnets": {
+    "ipv4": [
+      "185.87.78.0/23"
+    ],
+    "ipv6": []
+  }
+}

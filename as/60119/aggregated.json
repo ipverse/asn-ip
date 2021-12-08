@@ -1,0 +1,13 @@
+{
+  "asn": 60119,
+  "handle": "EDINOS",
+  "description": "Novosibirsk Telecommunication Company Ltd.",
+  "subnets": {
+    "ipv4": [
+      "5.129.176.0/22",
+      "5.129.182.0/23",
+      "5.129.188.0/22"
+    ],
+    "ipv6": []
+  }
+}

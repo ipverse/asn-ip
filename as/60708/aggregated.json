@@ -1,0 +1,13 @@
+{
+  "asn": 60708,
+  "handle": "KAZNIC",
+  "description": "KazNIC Organization",
+  "subnets": {
+    "ipv4": [
+      "91.228.39.0/24"
+    ],
+    "ipv6": [
+      "2a01:7640:400::/48"
+    ]
+  }
+}

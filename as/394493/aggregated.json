@@ -1,0 +1,13 @@
+{
+  "asn": 394493,
+  "handle": "CDK-GLOBAL-HOSTING-FB",
+  "description": "CDK Global, LLC",
+  "subnets": {
+    "ipv4": [
+      "159.117.208.0/21",
+      "159.117.216.0/23",
+      "159.117.219.0/24"
+    ],
+    "ipv6": []
+  }
+}

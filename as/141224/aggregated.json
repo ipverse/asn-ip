@@ -1,0 +1,11 @@
+{
+  "asn": 141224,
+  "handle": "FIBERNETTELECOM-AP",
+  "description": "FiberNet Telecom",
+  "subnets": {
+    "ipv4": [
+      "103.156.190.0/23"
+    ],
+    "ipv6": []
+  }
+}

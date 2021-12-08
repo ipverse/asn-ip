@@ -1,0 +1,14 @@
+{
+  "asn": 28638,
+  "handle": "CENTRO-OESTE-TELECOM-EIRELI",
+  "description": "CENTRO OESTE TELECOM EIRELI",
+  "subnets": {
+    "ipv4": [
+      "138.118.160.0/22",
+      "186.209.216.0/22"
+    ],
+    "ipv6": [
+      "2804:dcc::/32"
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "asn": 36316,
+  "handle": "SHOREHAMTEL",
+  "description": "Shoreham Telephone Company, Inc.",
+  "subnets": {
+    "ipv4": [
+      "67.217.124.0/22",
+      "199.101.176.0/22",
+      "208.65.160.0/21"
+    ],
+    "ipv6": [
+      "2607:4a00::/32"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asn": 204421,
+  "handle": "BPAY",
+  "description": "Bpay SRL",
+  "subnets": {
+    "ipv4": [
+      "185.212.10.0/24"
+    ],
+    "ipv6": []
+  }
+}

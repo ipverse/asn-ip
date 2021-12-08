@@ -1,0 +1,14 @@
+{
+  "asn": 264524,
+  "handle": "CUNHA-E-ZANATO",
+  "description": "Cunha e Zanato telecom LTDA ME",
+  "subnets": {
+    "ipv4": [
+      "138.0.0.0/22",
+      "170.247.36.0/22"
+    ],
+    "ipv6": [
+      "2804:20f8::/32"
+    ]
+  }
+}

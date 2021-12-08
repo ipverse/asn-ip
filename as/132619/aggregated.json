@@ -1,0 +1,11 @@
+{
+  "asn": 132619,
+  "handle": "VICTORIAPOLICE-AP",
+  "description": "VICTORIA POLICE",
+  "subnets": {
+    "ipv4": [
+      "203.25.230.0/23"
+    ],
+    "ipv6": []
+  }
+}

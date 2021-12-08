@@ -1,0 +1,14 @@
+{
+  "asn": 268200,
+  "handle": "LIVE-INTERNET",
+  "description": "LIVE INTERNET",
+  "subnets": {
+    "ipv4": [
+      "45.235.44.0/22",
+      "205.164.64.0/20"
+    ],
+    "ipv6": [
+      "2804:4d80::/32"
+    ]
+  }
+}

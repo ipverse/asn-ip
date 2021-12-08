@@ -1,0 +1,13 @@
+{
+  "asn": 268122,
+  "handle": "LINK-NET-TELECOMUNICACOES",
+  "description": "Link Net Telecomunicações Ltda - ME",
+  "subnets": {
+    "ipv4": [
+      "45.169.184.0/22"
+    ],
+    "ipv6": [
+      "2804:5854::/32"
+    ]
+  }
+}

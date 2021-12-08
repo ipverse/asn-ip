@@ -1,0 +1,12 @@
+{
+  "asn": 10151,
+  "handle": "ITONE-CSLOXINFO-TH-AP",
+  "description": "CS Loxinfo Public Company Limited",
+  "subnets": {
+    "ipv4": [
+      "58.137.205.0/24",
+      "203.147.33.0/24"
+    ],
+    "ipv6": []
+  }
+}

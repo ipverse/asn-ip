@@ -1,0 +1,13 @@
+{
+  "asn": 263030,
+  "handle": "CNET-PROVEDOR-DE",
+  "description": "CNET Provedor de Internet Ltda ME",
+  "subnets": {
+    "ipv4": [
+      "177.8.240.0/21"
+    ],
+    "ipv6": [
+      "2804:a30:c000::/34"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 137940,
+  "handle": "ONLINESTACK-AP",
+  "description": "HostUS Solutions LLC",
+  "subnets": {
+    "ipv4": [
+      "45.142.245.0/24"
+    ],
+    "ipv6": [
+      "2402:e380:309::/48"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 131593,
+  "handle": "PEGATRON-NET",
+  "description": "PEGATRON",
+  "subnets": {
+    "ipv4": [
+      "43.251.60.0/22",
+      "103.42.148.0/23"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asn": 213132,
+  "handle": "GEMEENTEVLISSINGEN",
+  "description": "Gemeente Vlissingen",
+  "subnets": {
+    "ipv4": [
+      "193.33.97.0/24"
+    ],
+    "ipv6": []
+  }
+}

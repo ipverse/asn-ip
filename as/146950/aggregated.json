@@ -1,0 +1,14 @@
+{
+  "asn": 146950,
+  "handle": "HARUUE-AP",
+  "description": "Aperture Science Limited",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2602:feda:b60::/47",
+      "2602:feda:b62::/48",
+      "2602:feda:b64::/48",
+      "2602:feda:b66::/48"
+    ]
+  }
+}

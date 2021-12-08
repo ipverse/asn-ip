@@ -1,0 +1,12 @@
+{
+  "asn": 30276,
+  "handle": "GDCNET-GREEN-DOT-CORPORATION",
+  "description": "Green Dot Corporation",
+  "subnets": {
+    "ipv4": [
+      "63.110.177.0/24",
+      "208.87.176.0/23"
+    ],
+    "ipv6": []
+  }
+}

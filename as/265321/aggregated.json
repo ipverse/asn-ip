@@ -1,0 +1,11 @@
+{
+  "asn": 265321,
+  "handle": "INETRADIO-PROVEDOR-DE-ACESSO",
+  "description": "iNetRadio Provedor de Acesso",
+  "subnets": {
+    "ipv4": [
+      "168.121.172.0/22"
+    ],
+    "ipv6": []
+  }
+}

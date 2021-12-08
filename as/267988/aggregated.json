@@ -1,0 +1,13 @@
+{
+  "asn": 267988,
+  "handle": "JH-SORCI-TELECOMUNICACAO",
+  "description": "JH SORCI TELECOMUNICAÇÃO",
+  "subnets": {
+    "ipv4": [
+      "45.166.196.0/22"
+    ],
+    "ipv6": [
+      "2804:5648::/32"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 269948,
+  "handle": "LUIS-EDUARDO-CID-AIRE-NET",
+  "description": "LUIS EDUARDO CID (AIRE-NET)",
+  "subnets": {
+    "ipv4": [
+      "190.3.164.0/24",
+      "190.3.166.0/23"
+    ],
+    "ipv6": []
+  }
+}

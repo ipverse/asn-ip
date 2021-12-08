@@ -1,0 +1,13 @@
+{
+  "asn": 270812,
+  "handle": "S-R-BRASIL-ME",
+  "description": "S. R. BRASIL - ME",
+  "subnets": {
+    "ipv4": [
+      "200.219.24.0/22"
+    ],
+    "ipv6": [
+      "2804:71cc::/32"
+    ]
+  }
+}

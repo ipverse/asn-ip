@@ -1,0 +1,11 @@
+{
+  "asn": 27243,
+  "handle": "SPOTEX",
+  "description": "Spotex",
+  "subnets": {
+    "ipv4": [
+      "192.54.136.0/24"
+    ],
+    "ipv6": []
+  }
+}

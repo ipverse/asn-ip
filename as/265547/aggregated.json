@@ -1,0 +1,13 @@
+{
+  "asn": 265547,
+  "handle": "GIGNET-SA-DE-CV",
+  "description": "GigNet, S.A. de C.V.",
+  "subnets": {
+    "ipv4": [
+      "45.231.168.0/22"
+    ],
+    "ipv6": [
+      "2806:2fb::/32"
+    ]
+  }
+}

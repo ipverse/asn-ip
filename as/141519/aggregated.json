@@ -1,0 +1,13 @@
+{
+  "asn": 141519,
+  "handle": "YUVACOM-IN",
+  "description": "Yuvaa Communications Private Limited",
+  "subnets": {
+    "ipv4": [
+      "103.162.164.0/24"
+    ],
+    "ipv6": [
+      "2407:19c0::/36"
+    ]
+  }
+}

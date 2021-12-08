@@ -1,0 +1,13 @@
+{
+  "asn": 209961,
+  "handle": "EUROTELECOM",
+  "description": "Eurotelecom SRL",
+  "subnets": {
+    "ipv4": [
+      "2.57.212.0/22",
+      "89.248.67.0/24",
+      "130.193.3.0/24"
+    ],
+    "ipv6": []
+  }
+}

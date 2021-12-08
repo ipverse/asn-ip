@@ -1,0 +1,15 @@
+{
+  "asn": 262333,
+  "handle": "ZUKNET-NETWORKS-LTDA-ME",
+  "description": "ZUKNET Networks Ltda ME",
+  "subnets": {
+    "ipv4": [
+      "170.245.216.0/22",
+      "177.125.32.0/21",
+      "177.234.132.0/22"
+    ],
+    "ipv6": [
+      "2804:1a80::/32"
+    ]
+  }
+}

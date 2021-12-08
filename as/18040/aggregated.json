@@ -1,0 +1,11 @@
+{
+  "asn": 18040,
+  "handle": "TWNIC-TW-BLOCK",
+  "description": "TWNIC-TW-AS-BLOCK",
+  "subnets": {
+    "ipv4": [
+      "61.58.0.0/20"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 270564,
+  "handle": "MASTER-DA-WEB-DATACENTER-LTDA",
+  "description": "MASTER DA WEB DATACENTER LTDA",
+  "subnets": {
+    "ipv4": [
+      "24.152.36.0/22",
+      "181.41.200.0/24"
+    ],
+    "ipv6": []
+  }
+}

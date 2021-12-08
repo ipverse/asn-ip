@@ -1,0 +1,12 @@
+{
+  "asn": 202072,
+  "handle": "TELSERV",
+  "description": "Global Voice Telecom B.V.",
+  "subnets": {
+    "ipv4": [
+      "141.98.98.0/24",
+      "185.45.44.0/22"
+    ],
+    "ipv6": []
+  }
+}

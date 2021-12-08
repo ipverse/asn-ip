@@ -1,0 +1,14 @@
+{
+  "asn": 27543,
+  "handle": "ELLIOTTMGMT",
+  "description": "Elliott Associates",
+  "subnets": {
+    "ipv4": [
+      "216.38.112.0/24",
+      "216.38.114.0/24",
+      "216.38.116.0/23",
+      "216.38.118.0/24"
+    ],
+    "ipv6": []
+  }
+}

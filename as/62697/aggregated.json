@@ -1,0 +1,12 @@
+{
+  "asn": 62697,
+  "handle": "NULEEF-01",
+  "description": "NULEEF COMMUNICATIONS LLC",
+  "subnets": {
+    "ipv4": [
+      "12.15.82.0/24",
+      "12.187.65.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 58922,
+  "handle": "MHPL-AP",
+  "description": "Microchannel Hosting Pty Ltd",
+  "subnets": {
+    "ipv4": [
+      "103.25.53.0/24",
+      "103.204.229.0/24"
+    ],
+    "ipv6": []
+  }
+}

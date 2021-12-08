@@ -1,0 +1,15 @@
+{
+  "asn": 41001,
+  "handle": "SAFESPRINGSE",
+  "description": "Blue Safespring AB",
+  "subnets": {
+    "ipv4": [
+      "185.189.28.0/22",
+      "212.162.144.0/22"
+    ],
+    "ipv6": [
+      "2a09:d400::/32",
+      "2a0a:bcc0::/29"
+    ]
+  }
+}

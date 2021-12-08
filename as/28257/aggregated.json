@@ -1,0 +1,14 @@
+{
+  "asn": 28257,
+  "handle": "CONCEITOS-NET-SERVICOS",
+  "description": "CONCEITOS NET SERVICOS DE COMUNICACAO E MULTIMIDIA",
+  "subnets": {
+    "ipv4": [
+      "138.36.140.0/22",
+      "177.129.40.0/21"
+    ],
+    "ipv6": [
+      "2804:db4::/32"
+    ]
+  }
+}

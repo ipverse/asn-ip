@@ -1,0 +1,12 @@
+{
+  "asn": 57895,
+  "handle": "DIANEL",
+  "description": "Dianel LTD",
+  "subnets": {
+    "ipv4": [
+      "62.133.59.0/24",
+      "109.160.65.0/24"
+    ],
+    "ipv6": []
+  }
+}

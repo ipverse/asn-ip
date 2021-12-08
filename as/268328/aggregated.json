@@ -1,0 +1,13 @@
+{
+  "asn": 268328,
+  "handle": "ALIANCA-LINK-PROVEDOR",
+  "description": "Aliança Link Provedor de Internet",
+  "subnets": {
+    "ipv4": [
+      "45.238.72.0/22"
+    ],
+    "ipv6": [
+      "2804:4f74::/32"
+    ]
+  }
+}

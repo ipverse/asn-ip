@@ -1,0 +1,13 @@
+{
+  "asn": 393233,
+  "handle": "VENTIVTECH",
+  "description": "Aon eSolutions, Inc.",
+  "subnets": {
+    "ipv4": [
+      "8.28.75.0/24",
+      "50.58.239.0/24",
+      "173.0.72.0/24"
+    ],
+    "ipv6": []
+  }
+}

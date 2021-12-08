@@ -1,0 +1,13 @@
+{
+  "asn": 268336,
+  "handle": "A-FROES-DA",
+  "description": "A Fróes da Mota telecomunicaçoes",
+  "subnets": {
+    "ipv4": [
+      "45.238.184.0/22"
+    ],
+    "ipv6": [
+      "2804:4f94::/32"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 61802,
+  "handle": "E2NETWORK-TELECOM-BRASIL-LTDA",
+  "description": "E2Network Telecom Brasil Ltda.",
+  "subnets": {
+    "ipv4": [
+      "201.139.92.0/22"
+    ],
+    "ipv6": [
+      "2804:198c::/32"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asn": 135018,
+  "handle": "MANLYCOUNCIL-AP",
+  "description": "Manly Council",
+  "subnets": {
+    "ipv4": [
+      "103.205.230.0/24"
+    ],
+    "ipv6": []
+  }
+}

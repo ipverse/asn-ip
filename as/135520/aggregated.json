@@ -1,0 +1,11 @@
+{
+  "asn": 135520,
+  "handle": "SATAC-AP",
+  "description": "Interactive Gateway Australia Pty. Ltd.",
+  "subnets": {
+    "ipv4": [
+      "192.43.226.0/24"
+    ],
+    "ipv6": []
+  }
+}

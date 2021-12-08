@@ -1,0 +1,12 @@
+{
+  "asn": 42986,
+  "handle": "PL-IZACOM",
+  "description": "IZACOM Sp. z o.o.",
+  "subnets": {
+    "ipv4": [
+      "194.116.182.0/23",
+      "194.149.88.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asn": 52415,
+  "handle": "SIDERAR-SAIC",
+  "description": "SIDERAR S.A.I.C.",
+  "subnets": {
+    "ipv4": [
+      "190.3.15.0/24"
+    ],
+    "ipv6": []
+  }
+}

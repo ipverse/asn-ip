@@ -1,0 +1,13 @@
+{
+  "asn": 270303,
+  "handle": "GENET-TELECOM-ME",
+  "description": "GENET TELECOM ME",
+  "subnets": {
+    "ipv4": [
+      "201.216.116.0/22"
+    ],
+    "ipv6": [
+      "2804:69f8::/32"
+    ]
+  }
+}

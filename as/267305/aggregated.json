@@ -1,0 +1,13 @@
+{
+  "asn": 267305,
+  "handle": "G-N-SERVICOS",
+  "description": "G \u0026 N SERVICOS DE COMUNICACAO E MULTIMIDIA LTDA",
+  "subnets": {
+    "ipv4": [
+      "45.233.84.0/22"
+    ],
+    "ipv6": [
+      "2804:4b6c::/32"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 267576,
+  "handle": "CONET-TELECOM",
+  "description": "Conet Telecom",
+  "subnets": {
+    "ipv4": [
+      "45.70.176.0/22"
+    ],
+    "ipv6": [
+      "2804:4388::/32"
+    ]
+  }
+}

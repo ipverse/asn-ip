@@ -1,0 +1,12 @@
+{
+  "asn": 200102,
+  "handle": "BE-YS-CLOUD",
+  "description": "BE YS Cloud France SASU",
+  "subnets": {
+    "ipv4": [
+      "185.34.140.0/22",
+      "194.31.51.0/24"
+    ],
+    "ipv6": []
+  }
+}

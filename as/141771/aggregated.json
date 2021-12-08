@@ -1,0 +1,15 @@
+{
+  "asn": 141771,
+  "handle": "CHINANET-HEBEI-ZHANGJIAKOU-MAN",
+  "description": "China Telecom",
+  "subnets": {
+    "ipv4": [
+      "101.251.128.0/20",
+      "182.18.48.0/21",
+      "182.18.80.0/20"
+    ],
+    "ipv6": [
+      "2403:a140:100::/40"
+    ]
+  }
+}

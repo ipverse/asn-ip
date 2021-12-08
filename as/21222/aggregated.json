@@ -1,0 +1,11 @@
+{
+  "asn": 21222,
+  "handle": "ROLEX",
+  "description": "ROLEX SA",
+  "subnets": {
+    "ipv4": [
+      "193.8.16.0/20"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 264177,
+  "handle": "NETTCON-PROVEDOR-DE",
+  "description": "NETTCON PROVEDOR DE INTERNET EIRELI EPP",
+  "subnets": {
+    "ipv4": [
+      "138.94.236.0/22"
+    ],
+    "ipv6": [
+      "2804:23ac::/32"
+    ]
+  }
+}

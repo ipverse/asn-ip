@@ -1,0 +1,11 @@
+{
+  "asn": 212204,
+  "handle": "PSK-CRO",
+  "description": "Hattrick-PSK d.o.o.",
+  "subnets": {
+    "ipv4": [
+      "91.239.120.0/24"
+    ],
+    "ipv6": []
+  }
+}

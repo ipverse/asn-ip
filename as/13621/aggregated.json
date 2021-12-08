@@ -1,0 +1,12 @@
+{
+  "asn": 13621,
+  "handle": "REINSURANCE",
+  "description": "Reinsurance Group of America",
+  "subnets": {
+    "ipv4": [
+      "12.219.219.0/24",
+      "198.190.171.0/24"
+    ],
+    "ipv6": []
+  }
+}

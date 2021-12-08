@@ -1,0 +1,12 @@
+{
+  "asn": 34786,
+  "handle": "VNET",
+  "description": "OOO NPO Intermet",
+  "subnets": {
+    "ipv4": [
+      "62.122.56.0/22",
+      "194.145.216.0/23"
+    ],
+    "ipv6": []
+  }
+}

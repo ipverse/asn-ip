@@ -1,0 +1,13 @@
+{
+  "asn": 61062,
+  "handle": "UNICEF",
+  "description": "UNICEF",
+  "subnets": {
+    "ipv4": [
+      "185.247.196.0/22"
+    ],
+    "ipv6": [
+      "2a0d:cb80::/29"
+    ]
+  }
+}

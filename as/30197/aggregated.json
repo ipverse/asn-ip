@@ -1,0 +1,13 @@
+{
+  "asn": 30197,
+  "handle": "BEST-WESTERN-INTERNATIONAL-INC",
+  "description": "Best Western International",
+  "subnets": {
+    "ipv4": [
+      "206.201.164.0/22",
+      "206.201.168.0/24",
+      "206.201.172.0/22"
+    ],
+    "ipv6": []
+  }
+}

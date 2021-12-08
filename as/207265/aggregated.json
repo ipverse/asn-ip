@@ -1,0 +1,13 @@
+{
+  "asn": 207265,
+  "handle": "REMEDY",
+  "description": "Remedy Entertainment Oyj",
+  "subnets": {
+    "ipv4": [
+      "45.151.128.0/22"
+    ],
+    "ipv6": [
+      "2a10:20c0::/29"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asn": 139503,
+  "handle": "ASWS-IN",
+  "description": "Aniruddha skyline web service",
+  "subnets": {
+    "ipv4": [
+      "103.216.171.0/24"
+    ],
+    "ipv6": []
+  }
+}

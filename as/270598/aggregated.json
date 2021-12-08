@@ -1,0 +1,13 @@
+{
+  "asn": 270598,
+  "handle": "FUSION-INTERNET-WIFI-LTDA",
+  "description": "FUSION INTERNET WIFI LTDA",
+  "subnets": {
+    "ipv4": [
+      "186.219.224.0/22"
+    ],
+    "ipv6": [
+      "2804:6e74::/32"
+    ]
+  }
+}

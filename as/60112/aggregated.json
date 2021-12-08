@@ -1,0 +1,11 @@
+{
+  "asn": 60112,
+  "handle": "CLARINS-HQ",
+  "description": "CLARINS SA",
+  "subnets": {
+    "ipv4": [
+      "193.29.222.0/24"
+    ],
+    "ipv6": []
+  }
+}

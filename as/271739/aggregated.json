@@ -1,0 +1,13 @@
+{
+  "asn": 271739,
+  "handle": "HA-DOS-SANTOS",
+  "description": "H.A. DOS SANTOS SERVIÇO DE INTERNET",
+  "subnets": {
+    "ipv4": [
+      "200.4.115.0/24"
+    ],
+    "ipv6": [
+      "2804:8040::/32"
+    ]
+  }
+}

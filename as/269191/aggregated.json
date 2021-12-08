@@ -1,0 +1,13 @@
+{
+  "asn": 269191,
+  "handle": "PREFEITURA-MUNICIPAL-DE",
+  "description": "Prefeitura Municipal de Joinville",
+  "subnets": {
+    "ipv4": [
+      "45.180.113.0/24"
+    ],
+    "ipv6": [
+      "2801:80:36b0::/48"
+    ]
+  }
+}

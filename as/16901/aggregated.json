@@ -1,0 +1,11 @@
+{
+  "asn": 16901,
+  "handle": "MUTUAL",
+  "description": "MUTUAL OF ENUMCLAW",
+  "subnets": {
+    "ipv4": [
+      "63.145.199.0/24"
+    ],
+    "ipv6": []
+  }
+}

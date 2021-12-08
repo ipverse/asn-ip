@@ -1,0 +1,11 @@
+{
+  "asn": 61971,
+  "handle": "SARLINK",
+  "description": "Sarlink Telecom LLC",
+  "subnets": {
+    "ipv4": [
+      "91.226.136.0/24"
+    ],
+    "ipv6": []
+  }
+}

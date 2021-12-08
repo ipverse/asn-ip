@@ -1,0 +1,13 @@
+{
+  "asn": 18067,
+  "handle": "HUMEIA",
+  "description": "Humeia Corporation",
+  "subnets": {
+    "ipv4": [
+      "210.156.80.0/20"
+    ],
+    "ipv6": [
+      "2406:5200::/32"
+    ]
+  }
+}

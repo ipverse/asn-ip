@@ -1,0 +1,11 @@
+{
+  "asn": 138451,
+  "handle": "MONASHUNI-AP",
+  "description": "Monash University",
+  "subnets": {
+    "ipv4": [
+      "202.58.246.0/24"
+    ],
+    "ipv6": []
+  }
+}

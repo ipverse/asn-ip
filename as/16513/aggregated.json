@@ -1,0 +1,11 @@
+{
+  "asn": 16513,
+  "handle": "COXMEDIA",
+  "description": "Cox Newspapers/AJC",
+  "subnets": {
+    "ipv4": [
+      "169.137.102.0/24"
+    ],
+    "ipv6": []
+  }
+}

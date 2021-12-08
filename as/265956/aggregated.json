@@ -1,0 +1,11 @@
+{
+  "asn": 265956,
+  "handle": "VS-INTERNET",
+  "description": "VS INTERNET",
+  "subnets": {
+    "ipv4": [
+      "164.163.152.0/22"
+    ],
+    "ipv6": []
+  }
+}

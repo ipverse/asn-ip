@@ -1,0 +1,15 @@
+{
+  "asn": 137041,
+  "handle": "SERVER-GROUP-AP",
+  "description": "Server Group BD",
+  "subnets": {
+    "ipv4": [
+      "103.102.236.0/22"
+    ],
+    "ipv6": [
+      "2401:ebc0:3000::/36",
+      "2401:ebc0:4000::/34",
+      "2401:ebc0:8000::/36"
+    ]
+  }
+}

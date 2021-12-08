@@ -1,0 +1,13 @@
+{
+  "asn": 211993,
+  "handle": "SOVERIN",
+  "description": "Soverin B.V.",
+  "subnets": {
+    "ipv4": [
+      "185.233.34.0/24"
+    ],
+    "ipv6": [
+      "2a10:de80::/32"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 394009,
+  "handle": "A10NETWORKS",
+  "description": "A10 Networks Inc.",
+  "subnets": {
+    "ipv4": [
+      "192.67.159.0/24"
+    ],
+    "ipv6": [
+      "2620:108:1000::/40"
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "asn": 268523,
+  "handle": "USAFIBRA-NETTFACIL-TECNOLOGIA",
+  "description": "UsaFibra Nettfacil Tecnologia e Servicos Ltda",
+  "subnets": {
+    "ipv4": [
+      "45.162.160.0/22"
+    ],
+    "ipv6": [
+      "2804:5284::/46",
+      "2804:5284:1000::/36",
+      "2804:5284:2000::/35",
+      "2804:5284:4000::/36",
+      "2804:5284:d000::/48",
+      "2804:5284:e000::/36",
+      "2804:5284:f000::/46"
+    ]
+  }
+}

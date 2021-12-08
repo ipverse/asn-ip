@@ -1,0 +1,12 @@
+{
+  "asn": 22022,
+  "handle": "HUB-GROUP",
+  "description": "Hub Group, Inc.",
+  "subnets": {
+    "ipv4": [
+      "65.89.127.0/24",
+      "216.111.234.0/24"
+    ],
+    "ipv6": []
+  }
+}

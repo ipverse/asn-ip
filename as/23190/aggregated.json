@@ -1,0 +1,13 @@
+{
+  "asn": 23190,
+  "handle": "AES-CORPORATION-01",
+  "description": "AES Pacific Inc.",
+  "subnets": {
+    "ipv4": [
+      "64.210.32.0/21",
+      "65.246.96.0/21",
+      "104.192.251.0/24"
+    ],
+    "ipv6": []
+  }
+}

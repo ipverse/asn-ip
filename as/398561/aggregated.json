@@ -1,0 +1,12 @@
+{
+  "asn": 398561,
+  "handle": "CONASERVICES",
+  "description": "CONA",
+  "subnets": {
+    "ipv4": [
+      "161.162.144.0/20",
+      "161.162.160.0/20"
+    ],
+    "ipv6": []
+  }
+}

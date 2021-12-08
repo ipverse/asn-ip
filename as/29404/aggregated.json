@@ -1,0 +1,12 @@
+{
+  "asn": 29404,
+  "handle": "ELBRACHT-COMPUTER",
+  "description": "Elbracht-Computer Netzwerk \u0026 Grafik Service GmbH",
+  "subnets": {
+    "ipv4": [
+      "185.107.193.0/24",
+      "217.73.144.0/20"
+    ],
+    "ipv6": []
+  }
+}

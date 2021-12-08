@@ -1,0 +1,12 @@
+{
+  "asn": 7962,
+  "handle": "EXISNET",
+  "description": "EXISNET INC",
+  "subnets": {
+    "ipv4": [
+      "64.40.48.0/20",
+      "67.63.176.0/20"
+    ],
+    "ipv6": []
+  }
+}

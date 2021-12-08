@@ -1,0 +1,13 @@
+{
+  "asn": 61729,
+  "handle": "CB-NET-TELECOM-LTDA",
+  "description": "CB NET TELECOM LTDA",
+  "subnets": {
+    "ipv4": [
+      "131.0.204.0/22"
+    ],
+    "ipv6": [
+      "2804:1b74::/32"
+    ]
+  }
+}

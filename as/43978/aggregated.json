@@ -1,0 +1,12 @@
+{
+  "asn": 43978,
+  "handle": "AIDB",
+  "description": "Atos IT Dienstleistung und Beratung GmbH",
+  "subnets": {
+    "ipv4": [
+      "193.24.48.0/20",
+      "194.174.172.0/22"
+    ],
+    "ipv6": []
+  }
+}

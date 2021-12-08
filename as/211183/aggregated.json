@@ -1,0 +1,12 @@
+{
+  "asn": 211183,
+  "handle": "ADMINVPS",
+  "description": "AdminVPS LTD",
+  "subnets": {
+    "ipv4": [
+      "37.140.241.0/24",
+      "193.187.96.0/24"
+    ],
+    "ipv6": []
+  }
+}

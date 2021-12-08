@@ -1,0 +1,13 @@
+{
+  "asn": 270304,
+  "handle": "FIBRAVELOZ-PROVEDOR-DE",
+  "description": "FIBRAVELOZ PROVEDOR DE INTERNET LTDA",
+  "subnets": {
+    "ipv4": [
+      "201.216.124.0/22"
+    ],
+    "ipv6": [
+      "2804:69fc::/32"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 22629,
+  "handle": "NORWORLD",
+  "description": "NORTHWESTERN CORPORATION",
+  "subnets": {
+    "ipv4": [
+      "199.96.16.0/21",
+      "199.96.24.0/22"
+    ],
+    "ipv6": []
+  }
+}

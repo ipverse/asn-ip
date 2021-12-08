@@ -1,0 +1,12 @@
+{
+  "asn": 269929,
+  "handle": "INTERWEB-DAIREAUX-SRL",
+  "description": "INTERWEB-DAIREAUX S.R.L.",
+  "subnets": {
+    "ipv4": [
+      "200.3.10.0/23",
+      "200.34.140.0/24"
+    ],
+    "ipv6": []
+  }
+}

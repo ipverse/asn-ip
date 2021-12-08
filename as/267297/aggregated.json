@@ -1,0 +1,13 @@
+{
+  "asn": 267297,
+  "handle": "NETUNO-DO-BRASIL-TELECOM-LTDA",
+  "description": "NETUNO DO BRASIL TELECOM LTDA",
+  "subnets": {
+    "ipv4": [
+      "45.232.248.0/22"
+    ],
+    "ipv6": [
+      "2804:4b50::/34"
+    ]
+  }
+}

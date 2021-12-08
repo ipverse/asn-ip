@@ -1,0 +1,12 @@
+{
+  "asn": 139786,
+  "handle": "RAINBOW-AP",
+  "description": "Rainbow Network",
+  "subnets": {
+    "ipv4": [
+      "103.145.57.0/24",
+      "103.157.35.0/24"
+    ],
+    "ipv6": []
+  }
+}

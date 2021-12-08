@@ -1,0 +1,11 @@
+{
+  "asn": 24271,
+  "handle": "ICTV",
+  "description": "Iruma CATV co.",
+  "subnets": {
+    "ipv4": [
+      "202.177.64.0/18"
+    ],
+    "ipv6": []
+  }
+}

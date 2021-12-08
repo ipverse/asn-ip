@@ -1,0 +1,13 @@
+{
+  "asn": 7585,
+  "handle": "SUPERLOOP-AP",
+  "description": "SUPERLOOP (AUSTRALIA) PTY LTD",
+  "subnets": {
+    "ipv4": [
+      "203.22.96.0/24",
+      "203.30.138.0/24",
+      "210.9.134.0/24"
+    ],
+    "ipv6": []
+  }
+}

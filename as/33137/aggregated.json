@@ -1,0 +1,11 @@
+{
+  "asn": 33137,
+  "handle": "NG-OFFICE",
+  "description": "NextGen Healthcare",
+  "subnets": {
+    "ipv4": [
+      "38.84.195.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 262576,
+  "handle": "NETHOUSE-TELECOM",
+  "description": "NEThouse Telecom",
+  "subnets": {
+    "ipv4": [
+      "177.84.16.0/22"
+    ],
+    "ipv6": [
+      "2804:3bc0::/32"
+    ]
+  }
+}

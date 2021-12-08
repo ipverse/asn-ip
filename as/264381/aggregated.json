@@ -1,0 +1,15 @@
+{
+  "asn": 264381,
+  "handle": "VIBE-INTERNET-PROVEDOR",
+  "description": "VIBE INTERNET PROVEDOR DE TELECOMUNICAÇÕES LTDA",
+  "subnets": {
+    "ipv4": [
+      "131.161.172.0/22",
+      "168.205.148.0/22",
+      "170.83.164.0/22"
+    ],
+    "ipv6": [
+      "2804:1d9c::/32"
+    ]
+  }
+}

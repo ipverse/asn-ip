@@ -1,0 +1,11 @@
+{
+  "asn": 38720,
+  "handle": "MBTNET-AP",
+  "description": "Tech Mahindra Limited",
+  "subnets": {
+    "ipv4": [
+      "117.104.239.0/24"
+    ],
+    "ipv6": []
+  }
+}

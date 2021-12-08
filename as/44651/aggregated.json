@@ -1,0 +1,13 @@
+{
+  "asn": 44651,
+  "handle": "COMUNIQUE",
+  "description": "Kalasznet Kabel TV Kft",
+  "subnets": {
+    "ipv4": [
+      "85.159.48.0/21",
+      "93.92.56.0/21",
+      "178.21.48.0/21"
+    ],
+    "ipv6": []
+  }
+}

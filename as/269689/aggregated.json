@@ -1,0 +1,14 @@
+{
+  "asn": 269689,
+  "handle": "SERTAO-COMERCIO-E",
+  "description": "SERTÃO COMÉRCIO E SERVIÇOS DE INFORMÁTICA EIRELI",
+  "subnets": {
+    "ipv4": [
+      "45.191.128.0/22"
+    ],
+    "ipv6": [
+      "2804:6864::/39",
+      "2804:6864:ff00::/40"
+    ]
+  }
+}

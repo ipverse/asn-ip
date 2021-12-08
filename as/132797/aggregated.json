@@ -1,0 +1,13 @@
+{
+  "asn": 132797,
+  "handle": "VANUATU-AP",
+  "description": "Vanuatu Internet Exchange (VIX)",
+  "subnets": {
+    "ipv4": [
+      "103.25.229.0/24"
+    ],
+    "ipv6": [
+      "2001:dec::/48"
+    ]
+  }
+}

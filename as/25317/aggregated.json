@@ -1,0 +1,13 @@
+{
+  "asn": 25317,
+  "handle": "MB-T",
+  "description": "MB\u0026T Migration, Beratung \u0026 Training Gesellschaft fuer Datenverarbeitungssysteme mbH",
+  "subnets": {
+    "ipv4": [
+      "213.244.32.0/19"
+    ],
+    "ipv6": [
+      "2a0a:6840::/29"
+    ]
+  }
+}

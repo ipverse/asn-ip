@@ -1,0 +1,11 @@
+{
+  "asn": 55048,
+  "handle": "VMWARE",
+  "description": "VMWare, Inc.",
+  "subnets": {
+    "ipv4": [
+      "136.144.64.0/24"
+    ],
+    "ipv6": []
+  }
+}

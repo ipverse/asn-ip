@@ -1,0 +1,13 @@
+{
+  "asn": 33962,
+  "handle": "DATAHOUSE-EKT",
+  "description": "Filanco LLC",
+  "subnets": {
+    "ipv4": [
+      "164.215.72.0/23"
+    ],
+    "ipv6": [
+      "2a0c:e100::/29"
+    ]
+  }
+}

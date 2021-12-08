@@ -1,0 +1,13 @@
+{
+  "asn": 199815,
+  "handle": "BULIGL",
+  "description": "Biuro Urzadzania Lasu i Geodezji Lesnej Przedsiebiorstwo Panstwowe",
+  "subnets": {
+    "ipv4": [
+      "193.59.176.0/24"
+    ],
+    "ipv6": [
+      "2001:678:870::/48"
+    ]
+  }
+}

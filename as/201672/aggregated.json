@@ -1,0 +1,12 @@
+{
+  "asn": 201672,
+  "handle": "SAP-DC-MOW",
+  "description": "SAP SE",
+  "subnets": {
+    "ipv4": [
+      "157.133.0.0/20",
+      "157.133.237.0/24"
+    ],
+    "ipv6": []
+  }
+}

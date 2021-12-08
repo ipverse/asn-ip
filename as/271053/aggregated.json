@@ -1,0 +1,13 @@
+{
+  "asn": 271053,
+  "handle": "POWERNET-TELECOMUNICACOES",
+  "description": "POWERNET TELECOMUNICACOES",
+  "subnets": {
+    "ipv4": [
+      "177.74.164.0/22"
+    ],
+    "ipv6": [
+      "2804:7588::/32"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asn": 45736,
+  "handle": "ESYS-CHD-AP",
+  "description": "eSys Technologies Pte Ltd",
+  "subnets": {
+    "ipv4": [
+      "203.123.55.0/24"
+    ],
+    "ipv6": []
+  }
+}

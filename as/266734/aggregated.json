@@ -1,0 +1,13 @@
+{
+  "asn": 266734,
+  "handle": "TELEVISION-POR-CABLE-S-R-L",
+  "description": "TELEVISION POR CABLE, S. R. L.",
+  "subnets": {
+    "ipv4": [
+      "45.230.216.0/22"
+    ],
+    "ipv6": [
+      "2803:4320::/32"
+    ]
+  }
+}

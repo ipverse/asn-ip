@@ -1,0 +1,11 @@
+{
+  "asn": 207040,
+  "handle": "OBWAN",
+  "description": "OBWAN NETWORK AND SERVICES S.L.",
+  "subnets": {
+    "ipv4": [
+      "185.163.132.0/22"
+    ],
+    "ipv6": []
+  }
+}

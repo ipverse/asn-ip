@@ -1,0 +1,13 @@
+{
+  "asn": 267276,
+  "handle": "67-TELECOM",
+  "description": "67 TELECOM",
+  "subnets": {
+    "ipv4": [
+      "45.232.212.0/22"
+    ],
+    "ipv6": [
+      "2804:4afc:8000::/33"
+    ]
+  }
+}

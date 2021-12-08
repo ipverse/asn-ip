@@ -1,0 +1,11 @@
+{
+  "asn": 35340,
+  "handle": "DELTABANK",
+  "description": "Public Joint Stock Company Delta Bank",
+  "subnets": {
+    "ipv4": [
+      "193.47.85.0/24"
+    ],
+    "ipv6": []
+  }
+}

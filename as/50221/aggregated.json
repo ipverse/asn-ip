@@ -1,0 +1,11 @@
+{
+  "asn": 50221,
+  "handle": "ICTC",
+  "description": "TOV Ekotehprom",
+  "subnets": {
+    "ipv4": [
+      "193.104.178.0/24"
+    ],
+    "ipv6": []
+  }
+}

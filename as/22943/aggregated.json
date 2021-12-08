@@ -1,0 +1,15 @@
+{
+  "asn": 22943,
+  "handle": "INSURAMCE-SERVICES-OFFICE",
+  "description": "Insurance Services Office",
+  "subnets": {
+    "ipv4": [
+      "162.249.24.0/24",
+      "198.180.203.0/24",
+      "206.208.168.0/22",
+      "206.208.173.0/24",
+      "206.208.174.0/23"
+    ],
+    "ipv6": []
+  }
+}

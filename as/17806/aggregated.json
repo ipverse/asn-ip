@@ -1,0 +1,13 @@
+{
+  "asn": 17806,
+  "handle": "MANGOTELESERVICE-BD",
+  "description": "Mango Teleservices Limited",
+  "subnets": {
+    "ipv4": [
+      "103.248.204.0/22",
+      "114.130.0.0/17",
+      "114.130.192.0/19"
+    ],
+    "ipv6": []
+  }
+}

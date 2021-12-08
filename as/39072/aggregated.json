@@ -1,0 +1,13 @@
+{
+  "asn": 39072,
+  "handle": "OWS",
+  "description": "Open Web Network Solutions SARL",
+  "subnets": {
+    "ipv4": [
+      "185.145.32.0/22",
+      "194.110.164.0/22",
+      "194.116.202.0/23"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 266618,
+  "handle": "MEGA-PROVEDOR-SERVICOS",
+  "description": "MEGA PROVEDOR - SERVICOS DE INTERNET LTDA - ME",
+  "subnets": {
+    "ipv4": [
+      "128.201.72.0/22"
+    ],
+    "ipv6": [
+      "2804:3ebc::/32"
+    ]
+  }
+}

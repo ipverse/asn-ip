@@ -1,0 +1,13 @@
+{
+  "asn": 208929,
+  "handle": "NTAG",
+  "description": "NT Neue Technologie AG",
+  "subnets": {
+    "ipv4": [
+      "45.15.88.0/22"
+    ],
+    "ipv6": [
+      "2a0e:2380::/32"
+    ]
+  }
+}

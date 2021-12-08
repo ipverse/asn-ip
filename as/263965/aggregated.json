@@ -1,0 +1,13 @@
+{
+  "asn": 263965,
+  "handle": "LINET-SERVICOS-DE-COMUNICACAO",
+  "description": "Linet Servicos de Comunicacao",
+  "subnets": {
+    "ipv4": [
+      "138.255.32.0/22"
+    ],
+    "ipv6": [
+      "2804:2880::/32"
+    ]
+  }
+}

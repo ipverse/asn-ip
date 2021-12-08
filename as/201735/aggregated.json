@@ -1,0 +1,13 @@
+{
+  "asn": 201735,
+  "handle": "PROPHASE",
+  "description": "PROPHASE ELECTRONICS, S.L.",
+  "subnets": {
+    "ipv4": [
+      "141.170.212.0/23",
+      "141.170.215.0/24",
+      "185.65.64.0/22"
+    ],
+    "ipv6": []
+  }
+}

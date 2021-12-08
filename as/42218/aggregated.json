@@ -1,0 +1,13 @@
+{
+  "asn": 42218,
+  "handle": "RUSSNET",
+  "description": "JSC ER-Telecom Holding",
+  "subnets": {
+    "ipv4": [
+      "185.204.124.0/22"
+    ],
+    "ipv6": [
+      "2a0a:f6c0::/29"
+    ]
+  }
+}

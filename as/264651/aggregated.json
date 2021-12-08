@@ -1,0 +1,13 @@
+{
+  "asn": 264651,
+  "handle": "COOPERATIVA-DE-SERVICIOS",
+  "description": "Cooperativa de Servicios Publicos y Sociales Luque Ltda.",
+  "subnets": {
+    "ipv4": [
+      "138.186.148.0/22"
+    ],
+    "ipv6": [
+      "2803:fc40::/32"
+    ]
+  }
+}

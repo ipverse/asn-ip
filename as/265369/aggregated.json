@@ -1,0 +1,14 @@
+{
+  "asn": 265369,
+  "handle": "C-COMTELECOM-SERVIOS-LTDA-ME",
+  "description": "C-ComTelecom Servios Ltda-ME",
+  "subnets": {
+    "ipv4": [
+      "138.118.44.0/22",
+      "168.205.100.0/22"
+    ],
+    "ipv6": [
+      "2804:2ed4::/32"
+    ]
+  }
+}

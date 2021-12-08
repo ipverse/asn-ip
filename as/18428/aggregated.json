@@ -1,0 +1,11 @@
+{
+  "asn": 18428,
+  "handle": "MERCYCAT-NET",
+  "description": "Mercycat Network",
+  "subnets": {
+    "ipv4": [
+      "103.172.126.0/23"
+    ],
+    "ipv6": []
+  }
+}

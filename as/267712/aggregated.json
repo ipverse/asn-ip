@@ -1,0 +1,12 @@
+{
+  "asn": 267712,
+  "handle": "EL-ALAMO-SRL",
+  "description": "EL ALAMO S.R.L",
+  "subnets": {
+    "ipv4": [
+      "200.13.64.0/20",
+      "200.226.128.0/18"
+    ],
+    "ipv6": []
+  }
+}

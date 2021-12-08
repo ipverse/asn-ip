@@ -1,0 +1,11 @@
+{
+  "asn": 138452,
+  "handle": "CLICKEARTHONLINE-AP",
+  "description": "Click Earth Online",
+  "subnets": {
+    "ipv4": [
+      "103.161.152.0/23"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 399611,
+  "handle": "OMNIPOINT-INTERNET",
+  "description": "OmniPoint Internet",
+  "subnets": {
+    "ipv4": [
+      "23.165.64.0/24"
+    ],
+    "ipv6": [
+      "2602:fea3::/36"
+    ]
+  }
+}

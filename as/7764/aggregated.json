@@ -1,0 +1,13 @@
+{
+  "asn": 7764,
+  "handle": "CENSUSBUREAU",
+  "description": "U. S. Bureau of the Census",
+  "subnets": {
+    "ipv4": [
+      "148.129.0.0/16"
+    ],
+    "ipv6": [
+      "2610:20:2000::/38"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 54594,
+  "handle": "ILLUMINATE-HILLSBORO",
+  "description": "Illuminate Hillsboro",
+  "subnets": {
+    "ipv4": [
+      "38.100.216.0/22"
+    ],
+    "ipv6": [
+      "2604:a540::/32"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asn": 21833,
+  "handle": "TRINITY-IS",
+  "description": "Trinity Information Services",
+  "subnets": {
+    "ipv4": [
+      "170.232.224.0/20"
+    ],
+    "ipv6": []
+  }
+}

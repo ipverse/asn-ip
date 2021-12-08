@@ -1,0 +1,13 @@
+{
+  "asn": 52781,
+  "handle": "PERTEC-SERVICOS-DE",
+  "description": "Pertec Servicos de Telecomunicacoes ltda",
+  "subnets": {
+    "ipv4": [
+      "177.200.48.0/20"
+    ],
+    "ipv6": [
+      "2804:24d4::/32"
+    ]
+  }
+}

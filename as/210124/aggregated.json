@@ -1,0 +1,11 @@
+{
+  "asn": 210124,
+  "handle": "IPACS",
+  "description": "IP ACS SARL",
+  "subnets": {
+    "ipv4": [
+      "194.34.100.0/23"
+    ],
+    "ipv6": []
+  }
+}

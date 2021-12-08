@@ -1,0 +1,13 @@
+{
+  "asn": 262401,
+  "handle": "GSTN-DO-BRASIL-LTDA",
+  "description": "GSTN DO BRASIL LTDA",
+  "subnets": {
+    "ipv4": [
+      "177.36.128.0/19"
+    ],
+    "ipv6": [
+      "2804:3d4::/32"
+    ]
+  }
+}

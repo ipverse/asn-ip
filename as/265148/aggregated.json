@@ -1,0 +1,13 @@
+{
+  "asn": 265148,
+  "handle": "PONTONET-COMPUTADORES-E",
+  "description": "Pontonet Computadores e Redes Ltda Epp",
+  "subnets": {
+    "ipv4": [
+      "143.255.144.0/22"
+    ],
+    "ipv6": [
+      "2804:2b58::/32"
+    ]
+  }
+}

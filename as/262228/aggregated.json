@@ -1,0 +1,11 @@
+{
+  "asn": 262228,
+  "handle": "NTT-CHILE",
+  "description": "NTT Chile",
+  "subnets": {
+    "ipv4": [
+      "64.76.148.0/23"
+    ],
+    "ipv6": []
+  }
+}

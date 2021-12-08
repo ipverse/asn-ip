@@ -1,0 +1,13 @@
+{
+  "asn": 209492,
+  "handle": "ITSARRIA",
+  "description": "INFORMATICA Y TELECOMUNICACIONES SARRIA S.L.",
+  "subnets": {
+    "ipv4": [
+      "149.12.200.0/23",
+      "154.60.104.0/23",
+      "171.22.84.0/22"
+    ],
+    "ipv6": []
+  }
+}

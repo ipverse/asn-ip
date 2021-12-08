@@ -1,0 +1,13 @@
+{
+  "asn": 141449,
+  "handle": "ALLSAFE-AP",
+  "description": "AllSafe Technologies Pvt Ltd",
+  "subnets": {
+    "ipv4": [
+      "103.159.174.0/23"
+    ],
+    "ipv6": [
+      "2406:d740::/48"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asn": 137121,
+  "handle": "OMNET-IN",
+  "description": "OMNET Broadband Services PVT LTD.",
+  "subnets": {
+    "ipv4": [
+      "103.112.16.0/22"
+    ],
+    "ipv6": []
+  }
+}

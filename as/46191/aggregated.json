@@ -1,0 +1,12 @@
+{
+  "asn": 46191,
+  "handle": "5LINX",
+  "description": "Globalinx",
+  "subnets": {
+    "ipv4": [
+      "199.73.86.0/23",
+      "199.96.214.0/23"
+    ],
+    "ipv6": []
+  }
+}

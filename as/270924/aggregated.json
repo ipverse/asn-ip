@@ -1,0 +1,13 @@
+{
+  "asn": 270924,
+  "handle": "JPA-TELECOM",
+  "description": "JPA Telecom",
+  "subnets": {
+    "ipv4": [
+      "186.26.76.0/22"
+    ],
+    "ipv6": [
+      "2804:7394:8000::/33"
+    ]
+  }
+}

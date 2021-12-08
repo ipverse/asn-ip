@@ -1,0 +1,13 @@
+{
+  "asn": 269606,
+  "handle": "DR-INTERNET-LTDA",
+  "description": "DR INTERNET LTDA",
+  "subnets": {
+    "ipv4": [
+      "45.190.0.0/22"
+    ],
+    "ipv6": [
+      "2804:6724::/32"
+    ]
+  }
+}

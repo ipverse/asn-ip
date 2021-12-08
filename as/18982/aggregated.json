@@ -1,0 +1,15 @@
+{
+  "asn": 18982,
+  "handle": "ONENECK-IT-SOLUTIONS-DEN",
+  "description": "OneNeck IT Services",
+  "subnets": {
+    "ipv4": [
+      "147.202.64.0/21",
+      "147.202.80.0/21",
+      "162.252.108.0/23"
+    ],
+    "ipv6": [
+      "2001:18c8:700::/40"
+    ]
+  }
+}

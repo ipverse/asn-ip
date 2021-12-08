@@ -1,0 +1,11 @@
+{
+  "asn": 201425,
+  "handle": "NETENTREPRISE",
+  "description": "Cirtil",
+  "subnets": {
+    "ipv4": [
+      "188.214.100.0/24"
+    ],
+    "ipv6": []
+  }
+}

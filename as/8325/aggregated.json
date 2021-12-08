@@ -1,0 +1,11 @@
+{
+  "asn": 8325,
+  "handle": "NETIS",
+  "description": "OOO FREEnet Group",
+  "subnets": {
+    "ipv4": [
+      "193.233.48.0/22"
+    ],
+    "ipv6": []
+  }
+}

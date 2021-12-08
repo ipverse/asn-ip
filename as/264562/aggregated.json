@@ -1,0 +1,15 @@
+{
+  "asn": 264562,
+  "handle": "TEX-NET-SERVICOS",
+  "description": "TEX NET SERVIÇOS DE COMUNICAÇÃO EM INFORMATICA LTD",
+  "subnets": {
+    "ipv4": [
+      "45.174.188.0/22",
+      "138.36.0.0/22",
+      "168.232.84.0/22"
+    ],
+    "ipv6": [
+      "2804:2190::/32"
+    ]
+  }
+}

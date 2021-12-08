@@ -1,0 +1,13 @@
+{
+  "asn": 64112,
+  "handle": "PIT-CHILE-SP",
+  "description": "PIT CHILE SP",
+  "subnets": {
+    "ipv4": [
+      "170.247.92.0/22"
+    ],
+    "ipv6": [
+      "2803:3440:9000::/40"
+    ]
+  }
+}

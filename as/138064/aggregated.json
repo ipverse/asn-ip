@@ -1,0 +1,12 @@
+{
+  "asn": 138064,
+  "handle": "JINOM-ID",
+  "description": "PT. Jinom Network Indonesia",
+  "subnets": {
+    "ipv4": [
+      "103.122.64.0/22",
+      "103.175.82.0/23"
+    ],
+    "ipv6": []
+  }
+}

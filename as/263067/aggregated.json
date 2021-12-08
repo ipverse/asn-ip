@@ -1,0 +1,13 @@
+{
+  "asn": 263067,
+  "handle": "VNT-FIBRAS",
+  "description": "VNT FIBRAS",
+  "subnets": {
+    "ipv4": [
+      "45.165.176.0/22"
+    ],
+    "ipv6": [
+      "2804:5550::/32"
+    ]
+  }
+}

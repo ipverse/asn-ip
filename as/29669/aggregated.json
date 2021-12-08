@@ -1,0 +1,11 @@
+{
+  "asn": 29669,
+  "handle": "GEMEDICAL",
+  "description": "GE Medical Systems SCS",
+  "subnets": {
+    "ipv4": [
+      "195.177.212.0/23"
+    ],
+    "ipv6": []
+  }
+}

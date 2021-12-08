@@ -1,0 +1,14 @@
+{
+  "asn": 138467,
+  "handle": "YAHAGI-AP",
+  "description": "Cat Networks K.K.",
+  "subnets": {
+    "ipv4": [
+      "45.92.157.0/24"
+    ],
+    "ipv6": [
+      "2403:5180:16::/48",
+      "2a0f:9400:7100::/47"
+    ]
+  }
+}

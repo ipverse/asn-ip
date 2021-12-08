@@ -1,0 +1,12 @@
+{
+  "asn": 54335,
+  "handle": "RENDERCORELAB",
+  "description": "RENDERCORE LAB INC",
+  "subnets": {
+    "ipv4": [
+      "162.222.112.0/22",
+      "204.16.116.0/22"
+    ],
+    "ipv6": []
+  }
+}

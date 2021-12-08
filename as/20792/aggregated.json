@@ -1,0 +1,14 @@
+{
+  "asn": 20792,
+  "handle": "VISTEC",
+  "description": "VISTEC Internet Service GmbH",
+  "subnets": {
+    "ipv4": [
+      "185.95.192.0/22",
+      "213.216.0.0/19"
+    ],
+    "ipv6": [
+      "2a02:13c0::/32"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 266458,
+  "handle": "MEGGANET-INTERNET-E",
+  "description": "MEGGANET INTERNET E INFORMATICA LTDA",
+  "subnets": {
+    "ipv4": [
+      "170.82.228.0/22"
+    ],
+    "ipv6": [
+      "2804:3820::/32"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 138098,
+  "handle": "IDNIC-MELON-ID",
+  "description": "PT Melon Indonesia",
+  "subnets": {
+    "ipv4": [
+      "103.125.52.0/24",
+      "103.136.8.0/24"
+    ],
+    "ipv6": []
+  }
+}

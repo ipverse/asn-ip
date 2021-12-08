@@ -1,0 +1,13 @@
+{
+  "asn": 11995,
+  "handle": "OHSU",
+  "description": "Oregon Health \u0026 Science University",
+  "subnets": {
+    "ipv4": [
+      "129.95.0.0/16",
+      "137.53.0.0/16",
+      "204.63.232.0/21"
+    ],
+    "ipv6": []
+  }
+}

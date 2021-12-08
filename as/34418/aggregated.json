@@ -1,0 +1,12 @@
+{
+  "asn": 34418,
+  "handle": "GLOBAL-NET",
+  "description": "Global Bilgi Pazarlama ve Cagri Hizmetleri A.S.",
+  "subnets": {
+    "ipv4": [
+      "176.236.215.0/24",
+      "212.252.208.0/22"
+    ],
+    "ipv6": []
+  }
+}

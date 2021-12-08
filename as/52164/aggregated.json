@@ -1,0 +1,13 @@
+{
+  "asn": 52164,
+  "handle": "WE-NET",
+  "description": "WE-NET SRL",
+  "subnets": {
+    "ipv4": [
+      "193.238.86.0/24"
+    ],
+    "ipv6": [
+      "2a11:280::/29"
+    ]
+  }
+}

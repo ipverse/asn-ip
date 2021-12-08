@@ -1,0 +1,11 @@
+{
+  "asn": 43285,
+  "handle": "DFM",
+  "description": "DFM SRL",
+  "subnets": {
+    "ipv4": [
+      "193.230.248.0/24"
+    ],
+    "ipv6": []
+  }
+}

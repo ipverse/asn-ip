@@ -1,0 +1,14 @@
+{
+  "asn": 138259,
+  "handle": "MIFI-IN",
+  "description": "Manish Infocom Private Limited",
+  "subnets": {
+    "ipv4": [
+      "103.124.168.0/23",
+      "103.124.170.0/24"
+    ],
+    "ipv6": [
+      "2406:1d40::/32"
+    ]
+  }
+}

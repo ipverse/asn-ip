@@ -1,0 +1,13 @@
+{
+  "asn": 201896,
+  "handle": "OPENHEADEND",
+  "description": "DVMR SARL",
+  "subnets": {
+    "ipv4": [
+      "185.59.40.0/22"
+    ],
+    "ipv6": [
+      "2a02:68e0::/32"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 263285,
+  "handle": "TIAGO-SILVA-PROVEDORES-ME",
+  "description": "Tiago Silva Provedores ME",
+  "subnets": {
+    "ipv4": [
+      "186.235.252.0/22"
+    ],
+    "ipv6": [
+      "2804:1664::/32"
+    ]
+  }
+}

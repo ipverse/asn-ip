@@ -1,0 +1,14 @@
+{
+  "asn": 268042,
+  "handle": "JETNET-COMUNICACAO-LTDA",
+  "description": "JETNET COMUNICACAO LTDA",
+  "subnets": {
+    "ipv4": [
+      "45.167.180.0/22",
+      "198.32.122.0/24"
+    ],
+    "ipv6": [
+      "2804:5714::/32"
+    ]
+  }
+}

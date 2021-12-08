@@ -1,0 +1,12 @@
+{
+  "asn": 8744,
+  "handle": "MEGAMAX",
+  "description": "OOO MediaSeti",
+  "subnets": {
+    "ipv4": [
+      "92.246.128.0/20",
+      "212.67.0.0/19"
+    ],
+    "ipv6": []
+  }
+}

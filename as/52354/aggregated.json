@@ -1,0 +1,12 @@
+{
+  "asn": 52354,
+  "handle": "ATLANTICA-VIDEO-CABLE-SA",
+  "description": "Atlantica Video Cable S.A.",
+  "subnets": {
+    "ipv4": [
+      "190.14.32.0/22",
+      "190.122.144.0/20"
+    ],
+    "ipv6": []
+  }
+}

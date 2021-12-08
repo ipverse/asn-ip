@@ -1,0 +1,12 @@
+{
+  "asn": 51495,
+  "handle": "AGTS",
+  "description": "Telephone Network of Ashgabat CJSC",
+  "subnets": {
+    "ipv4": [
+      "62.212.248.0/24",
+      "95.47.57.0/24"
+    ],
+    "ipv6": []
+  }
+}

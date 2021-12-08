@@ -1,0 +1,13 @@
+{
+  "asn": 207488,
+  "handle": "SQTELE",
+  "description": "SQ TELECOM, LLC",
+  "subnets": {
+    "ipv4": [
+      "193.29.203.0/24"
+    ],
+    "ipv6": [
+      "2001:678:c10::/48"
+    ]
+  }
+}

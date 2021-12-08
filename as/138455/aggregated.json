@@ -1,0 +1,12 @@
+{
+  "asn": 138455,
+  "handle": "BHS-AP",
+  "description": "Ballarat Health Services",
+  "subnets": {
+    "ipv4": [
+      "103.125.222.0/24",
+      "103.141.233.0/24"
+    ],
+    "ipv6": []
+  }
+}

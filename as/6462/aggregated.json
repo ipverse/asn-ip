@@ -1,0 +1,13 @@
+{
+  "asn": 6462,
+  "handle": "NATGEOGRAPH",
+  "description": "National Geographic Society",
+  "subnets": {
+    "ipv4": [
+      "104.192.166.0/23"
+    ],
+    "ipv6": [
+      "2620:107:6000::/44"
+    ]
+  }
+}

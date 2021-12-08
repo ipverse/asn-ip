@@ -1,0 +1,12 @@
+{
+  "asn": 46889,
+  "handle": "CLEARENT",
+  "description": "Clearent LLC",
+  "subnets": {
+    "ipv4": [
+      "188.116.16.0/24",
+      "198.184.255.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asn": 136871,
+  "handle": "IDNIC-ITENAS-ID",
+  "description": "Institut Teknologi Nasional",
+  "subnets": {
+    "ipv4": [
+      "103.104.130.0/24"
+    ],
+    "ipv6": []
+  }
+}

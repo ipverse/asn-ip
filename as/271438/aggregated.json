@@ -1,0 +1,13 @@
+{
+  "asn": 271438,
+  "handle": "GOVFACILBRASIL-TECNOLOGIA-E",
+  "description": "GOVFACILBRASIL TECNOLOGIA E GESTAO",
+  "subnets": {
+    "ipv4": [
+      "200.36.158.0/24"
+    ],
+    "ipv6": [
+      "2804:7b8c::/32"
+    ]
+  }
+}

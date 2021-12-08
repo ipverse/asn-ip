@@ -1,0 +1,12 @@
+{
+  "asn": 396371,
+  "handle": "FOR-DRL-CLE",
+  "description": "AmeriMark Direct LLC",
+  "subnets": {
+    "ipv4": [
+      "172.110.136.0/22",
+      "192.40.133.0/24"
+    ],
+    "ipv6": []
+  }
+}

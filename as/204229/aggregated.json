@@ -1,0 +1,11 @@
+{
+  "asn": 204229,
+  "handle": "GLOBAL-ROUTER",
+  "description": "Global Router LLC",
+  "subnets": {
+    "ipv4": [
+      "185.241.116.0/22"
+    ],
+    "ipv6": []
+  }
+}

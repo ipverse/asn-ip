@@ -1,0 +1,13 @@
+{
+  "asn": 209272,
+  "handle": "AS43350",
+  "description": "Alviva Holding Limited",
+  "subnets": {
+    "ipv4": [
+      "45.227.252.0/24",
+      "46.161.40.0/24",
+      "88.214.27.0/24"
+    ],
+    "ipv6": []
+  }
+}

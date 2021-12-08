@@ -1,0 +1,11 @@
+{
+  "asn": 268014,
+  "handle": "TRIBUNAL-DE-JUSTICA",
+  "description": "Tribunal de Justiça do Estado do Rio de Janeiro",
+  "subnets": {
+    "ipv4": [
+      "45.166.79.0/24"
+    ],
+    "ipv6": []
+  }
+}

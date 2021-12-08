@@ -1,0 +1,13 @@
+{
+  "asn": 268620,
+  "handle": "MS-BANK-SA-BANCO-DE-CAMBIO",
+  "description": "MS BANK S.A. BANCO DE CÂMBIO",
+  "subnets": {
+    "ipv4": [
+      "192.135.185.0/24"
+    ],
+    "ipv6": [
+      "2801:80:2560::/48"
+    ]
+  }
+}

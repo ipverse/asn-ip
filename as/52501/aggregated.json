@@ -1,0 +1,12 @@
+{
+  "asn": 52501,
+  "handle": "NEWCOM-NICARAGUA-SA",
+  "description": "Newcom Nicaragua, S.A.",
+  "subnets": {
+    "ipv4": [
+      "181.174.124.0/24",
+      "190.53.41.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "asn": 43190,
+  "handle": "GL-IX",
+  "description": "Totaalnet Internet Works B.V.",
+  "subnets": {
+    "ipv4": [
+      "77.95.248.0/21",
+      "91.217.57.0/24",
+      "185.217.32.0/22"
+    ],
+    "ipv6": [
+      "2a00:1478::/32"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 33001,
+  "handle": "CSM-NY",
+  "description": "Cravath, Swaine \u0026 Moore LLP",
+  "subnets": {
+    "ipv4": [
+      "38.79.3.0/24",
+      "38.117.232.0/24",
+      "195.10.200.0/24"
+    ],
+    "ipv6": []
+  }
+}

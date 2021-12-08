@@ -1,0 +1,12 @@
+{
+  "asn": 140055,
+  "handle": "TIMARU-AP",
+  "description": "Timaru District Council",
+  "subnets": {
+    "ipv4": [
+      "103.147.240.0/24",
+      "202.36.155.0/24"
+    ],
+    "ipv6": []
+  }
+}

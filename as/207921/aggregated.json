@@ -1,0 +1,13 @@
+{
+  "asn": 207921,
+  "handle": "PETABYTE",
+  "description": "Milan Paessler",
+  "subnets": {
+    "ipv4": [
+      "195.39.246.0/23"
+    ],
+    "ipv6": [
+      "2a0f:4ac0::/32"
+    ]
+  }
+}

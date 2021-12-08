@@ -1,0 +1,11 @@
+{
+  "asn": 138828,
+  "handle": "TELIO-ID",
+  "description": "PT TELIO INTI NUSA",
+  "subnets": {
+    "ipv4": [
+      "103.137.82.0/23"
+    ],
+    "ipv6": []
+  }
+}

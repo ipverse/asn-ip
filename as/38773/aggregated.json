@@ -1,0 +1,12 @@
+{
+  "asn": 38773,
+  "handle": "CIPUTRA-ID",
+  "description": "CiputraNet",
+  "subnets": {
+    "ipv4": [
+      "103.103.138.0/24",
+      "114.141.88.0/21"
+    ],
+    "ipv6": []
+  }
+}

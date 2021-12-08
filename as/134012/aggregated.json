@@ -1,0 +1,15 @@
+{
+  "asn": 134012,
+  "handle": "LAXMIINTERNETSERVICES-IN",
+  "description": "Laxmi Internet Services Pvt Ltd",
+  "subnets": {
+    "ipv4": [
+      "103.58.96.0/22",
+      "203.76.186.0/24"
+    ],
+    "ipv6": [
+      "2407:4ec0::/46",
+      "2407:4ec0:4::/47"
+    ]
+  }
+}

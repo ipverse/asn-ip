@@ -1,0 +1,11 @@
+{
+  "asn": 142345,
+  "handle": "IDNIC-DGSNET-ID",
+  "description": "PT Digital Gemilang Solusi",
+  "subnets": {
+    "ipv4": [
+      "103.169.42.0/24"
+    ],
+    "ipv6": []
+  }
+}

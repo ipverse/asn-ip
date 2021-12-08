@@ -1,0 +1,12 @@
+{
+  "asn": 49569,
+  "handle": "ZAYMER",
+  "description": "MFC Zaymer LLC",
+  "subnets": {
+    "ipv4": [
+      "45.129.238.0/23",
+      "45.138.146.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 18030,
+  "handle": "PERTH-AP",
+  "description": "Perth Airport PTY Ltd",
+  "subnets": {
+    "ipv4": [
+      "103.130.154.0/23"
+    ],
+    "ipv6": [
+      "2001:df6:e500::/47"
+    ]
+  }
+}

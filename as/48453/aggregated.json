@@ -1,0 +1,12 @@
+{
+  "asn": 48453,
+  "handle": "CNETWORK",
+  "description": "CNETWORK SRL",
+  "subnets": {
+    "ipv4": [
+      "85.122.52.0/23",
+      "85.122.54.0/24"
+    ],
+    "ipv6": []
+  }
+}

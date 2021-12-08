@@ -1,0 +1,11 @@
+{
+  "asn": 23938,
+  "handle": "ARROWENERGY-AP",
+  "description": "Arrow Energy Limited",
+  "subnets": {
+    "ipv4": [
+      "202.3.65.0/24"
+    ],
+    "ipv6": []
+  }
+}

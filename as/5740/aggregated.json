@@ -1,0 +1,14 @@
+{
+  "asn": 5740,
+  "handle": "WORKFORCE",
+  "description": "WorkForce Software LLC",
+  "subnets": {
+    "ipv4": [
+      "74.122.248.0/23",
+      "74.122.252.0/22",
+      "216.162.32.0/24",
+      "216.162.34.0/23"
+    ],
+    "ipv6": []
+  }
+}

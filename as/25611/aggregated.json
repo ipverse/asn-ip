@@ -1,0 +1,13 @@
+{
+  "asn": 25611,
+  "handle": "NSLIJHS",
+  "description": "North Shore Long Island Jewish Health System",
+  "subnets": {
+    "ipv4": [
+      "8.25.157.0/24",
+      "8.44.200.0/24",
+      "69.27.229.0/24"
+    ],
+    "ipv6": []
+  }
+}

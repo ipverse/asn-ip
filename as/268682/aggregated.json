@@ -1,0 +1,13 @@
+{
+  "asn": 268682,
+  "handle": "GMBALLE-ME",
+  "description": "G.M.BALLE - ME",
+  "subnets": {
+    "ipv4": [
+      "45.165.144.0/22"
+    ],
+    "ipv6": [
+      "2804:54fc::/32"
+    ]
+  }
+}

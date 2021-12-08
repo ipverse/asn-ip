@@ -1,0 +1,12 @@
+{
+  "asn": 30158,
+  "handle": "ARIMA-NETWORKS",
+  "description": "ARIMA Networks Inc.",
+  "subnets": {
+    "ipv4": [
+      "66.196.32.0/20",
+      "67.211.192.0/20"
+    ],
+    "ipv6": []
+  }
+}

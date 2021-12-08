@@ -1,0 +1,15 @@
+{
+  "asn": 28245,
+  "handle": "NETDIGIT-TELECOMUNICACOES-LTDA",
+  "description": "NETDIGIT TELECOMUNICACOES LTDA",
+  "subnets": {
+    "ipv4": [
+      "177.21.128.0/20",
+      "187.1.16.0/20",
+      "187.120.128.0/20"
+    ],
+    "ipv6": [
+      "2804:17e8::/32"
+    ]
+  }
+}

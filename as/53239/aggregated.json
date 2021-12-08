@@ -1,0 +1,11 @@
+{
+  "asn": 53239,
+  "handle": "COMPANHIA-DE-GOVERNANCA",
+  "description": "Companhia de Governança Eletrônica do Salvador",
+  "subnets": {
+    "ipv4": [
+      "177.20.0.0/17"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 135844,
+  "handle": "NETIT",
+  "description": "Lightyears Broadband Pvt Ltd",
+  "subnets": {
+    "ipv4": [
+      "103.81.240.0/23",
+      "103.81.242.0/24"
+    ],
+    "ipv6": []
+  }
+}

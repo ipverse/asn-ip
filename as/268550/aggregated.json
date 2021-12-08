@@ -1,0 +1,13 @@
+{
+  "asn": 268550,
+  "handle": "CAMPOS-GERAIS-TELECOM",
+  "description": "Campos Gerais Telecom",
+  "subnets": {
+    "ipv4": [
+      "45.163.52.0/22"
+    ],
+    "ipv6": [
+      "2804:52ec::/32"
+    ]
+  }
+}

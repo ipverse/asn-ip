@@ -1,0 +1,13 @@
+{
+  "asn": 206605,
+  "handle": "FOURTOP",
+  "description": "FourTOP ICT B.V.",
+  "subnets": {
+    "ipv4": [
+      "185.181.212.0/22"
+    ],
+    "ipv6": [
+      "2a0a:de80::/32"
+    ]
+  }
+}

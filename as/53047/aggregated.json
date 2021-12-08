@@ -1,0 +1,13 @@
+{
+  "asn": 53047,
+  "handle": "INTERCOL-TELECOMUNICACOES-LTDA",
+  "description": "Intercol Telecomunicações Ltda EPP",
+  "subnets": {
+    "ipv4": [
+      "177.101.80.0/20"
+    ],
+    "ipv6": [
+      "2804:6f0::/32"
+    ]
+  }
+}

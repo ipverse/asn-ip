@@ -1,0 +1,13 @@
+{
+  "asn": 202349,
+  "handle": "FIBRIX",
+  "description": "Fibercli Proyectos e Innovacion S.L.",
+  "subnets": {
+    "ipv4": [
+      "2.56.86.0/23",
+      "45.141.243.0/24",
+      "45.141.254.0/24"
+    ],
+    "ipv6": []
+  }
+}

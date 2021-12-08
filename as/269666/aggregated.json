@@ -1,0 +1,13 @@
+{
+  "asn": 269666,
+  "handle": "LOOP-TELECOM",
+  "description": "LOOP TELECOM",
+  "subnets": {
+    "ipv4": [
+      "45.189.168.0/22"
+    ],
+    "ipv6": [
+      "2804:6808::/32"
+    ]
+  }
+}

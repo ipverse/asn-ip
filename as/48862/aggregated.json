@@ -1,0 +1,12 @@
+{
+  "asn": 48862,
+  "handle": "ICLOS",
+  "description": "I.C.Lo.S. srl",
+  "subnets": {
+    "ipv4": [
+      "31.15.96.0/21",
+      "217.174.128.0/20"
+    ],
+    "ipv6": []
+  }
+}

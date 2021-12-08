@@ -1,0 +1,12 @@
+{
+  "asn": 60823,
+  "handle": "IFORCE",
+  "description": "IForce IT GmbH",
+  "subnets": {
+    "ipv4": [
+      "185.25.124.0/22",
+      "195.191.254.0/23"
+    ],
+    "ipv6": []
+  }
+}

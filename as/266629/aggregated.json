@@ -1,0 +1,13 @@
+{
+  "asn": 266629,
+  "handle": "HAAS-TELECOMUNICACAO-LTDA",
+  "description": "HAAS TELECOMUNICACAO LTDA",
+  "subnets": {
+    "ipv4": [
+      "128.201.128.0/22"
+    ],
+    "ipv6": [
+      "2804:3eec::/32"
+    ]
+  }
+}

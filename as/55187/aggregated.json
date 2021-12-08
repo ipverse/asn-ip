@@ -1,0 +1,11 @@
+{
+  "asn": 55187,
+  "handle": "AC-CHARTER-WINDTREAM",
+  "description": "Assumption College",
+  "subnets": {
+    "ipv4": [
+      "192.80.61.0/24"
+    ],
+    "ipv6": []
+  }
+}

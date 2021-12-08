@@ -1,0 +1,13 @@
+{
+  "asn": 23309,
+  "handle": "CCCOE-NET",
+  "description": "Contra Costa County Office of Education",
+  "subnets": {
+    "ipv4": [
+      "169.199.0.0/16"
+    ],
+    "ipv6": [
+      "2607:fb78::/32"
+    ]
+  }
+}

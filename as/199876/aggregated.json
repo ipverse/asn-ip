@@ -1,0 +1,13 @@
+{
+  "asn": 199876,
+  "handle": "NOWEDA",
+  "description": "NOWEDA eG Apothekergenossenschaft",
+  "subnets": {
+    "ipv4": [
+      "185.32.244.0/22"
+    ],
+    "ipv6": [
+      "2a00:c8e0::/32"
+    ]
+  }
+}

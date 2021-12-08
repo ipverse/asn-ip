@@ -1,0 +1,15 @@
+{
+  "asn": 142382,
+  "handle": "IDNIC-JNHOST-ID",
+  "description": "PT Klinik Digital Indonesia JNHOST",
+  "subnets": {
+    "ipv4": [
+      "103.172.18.0/23",
+      "202.70.132.0/23"
+    ],
+    "ipv6": [
+      "2602:fd92:c10::/44",
+      "2a0e:b107:1790::/46"
+    ]
+  }
+}

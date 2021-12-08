@@ -1,0 +1,13 @@
+{
+  "asn": 264824,
+  "handle": "COMPANIA-ELECTROMECANICOS-PARA",
+  "description": "COMPAÑIA ELECTROMECANICOS PARA EL DESARROLLO CSED SA",
+  "subnets": {
+    "ipv4": [
+      "45.183.140.0/22"
+    ],
+    "ipv6": [
+      "2803:e360::/32"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 270790,
+  "handle": "MEGALINK-TI-E-TELECOM-LTDA",
+  "description": "MegaLink TI e Telecom LTDA",
+  "subnets": {
+    "ipv4": [
+      "186.233.28.0/22"
+    ],
+    "ipv6": [
+      "2804:7174::/32"
+    ]
+  }
+}

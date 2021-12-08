@@ -1,0 +1,15 @@
+{
+  "asn": 50598,
+  "handle": "SFS-SERVICES-AG",
+  "description": "SFS services AG",
+  "subnets": {
+    "ipv4": [
+      "194.93.112.0/21",
+      "194.93.120.0/23",
+      "194.93.122.0/24"
+    ],
+    "ipv6": [
+      "2a0c:2fc0::/29"
+    ]
+  }
+}

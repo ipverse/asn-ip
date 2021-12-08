@@ -1,0 +1,13 @@
+{
+  "asn": 266308,
+  "handle": "I9NET-PROVEDOR-DE",
+  "description": "i9NET - PROVEDOR DE INTERNET LTDA - ME",
+  "subnets": {
+    "ipv4": [
+      "170.79.140.0/22"
+    ],
+    "ipv6": [
+      "2804:35d0::/32"
+    ]
+  }
+}

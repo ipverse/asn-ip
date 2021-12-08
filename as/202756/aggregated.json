@@ -1,0 +1,13 @@
+{
+  "asn": 202756,
+  "handle": "AS",
+  "description": "RFE/RL, Inc., organizacni slozka",
+  "subnets": {
+    "ipv4": [
+      "62.4.109.0/24",
+      "62.4.110.0/23",
+      "62.4.112.0/22"
+    ],
+    "ipv6": []
+  }
+}

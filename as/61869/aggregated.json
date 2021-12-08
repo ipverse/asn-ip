@@ -1,0 +1,12 @@
+{
+  "asn": 61869,
+  "handle": "MD-PROVEDOR-DE",
+  "description": "MD PROVEDOR DE ACESSO A INTERNET",
+  "subnets": {
+    "ipv4": [
+      "131.0.36.0/22",
+      "138.99.24.0/22"
+    ],
+    "ipv6": []
+  }
+}

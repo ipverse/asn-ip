@@ -1,0 +1,13 @@
+{
+  "asn": 60687,
+  "handle": "INFIBER",
+  "description": "Istad Nett as",
+  "subnets": {
+    "ipv4": [
+      "5.153.104.0/21"
+    ],
+    "ipv6": [
+      "2a00:8f20::/32"
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 266562,
+  "handle": "LETICIA-KELLER-DE-SOUZA-ME",
+  "description": "Leticia Keller de Souza - ME",
+  "subnets": {
+    "ipv4": [
+      "45.65.164.0/22"
+    ],
+    "ipv6": [
+      "2804:3de8::/33",
+      "2804:3de8:e000::/36"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 206497,
+  "handle": "SYSCON",
+  "description": "SYScon GmbH Systeme plus Consulting",
+  "subnets": {
+    "ipv4": [
+      "185.169.56.0/22"
+    ],
+    "ipv6": [
+      "2a0a:3b00::/32"
+    ]
+  }
+}

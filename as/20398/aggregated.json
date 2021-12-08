@@ -1,0 +1,14 @@
+{
+  "asn": 20398,
+  "handle": "CNCS",
+  "description": "Controlled Networks and Communications Solutions, Inc.",
+  "subnets": {
+    "ipv4": [
+      "74.116.138.0/23",
+      "74.116.141.0/24",
+      "199.47.68.0/22",
+      "208.72.24.0/22"
+    ],
+    "ipv6": []
+  }
+}

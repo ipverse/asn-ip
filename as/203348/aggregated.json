@@ -1,0 +1,13 @@
+{
+  "asn": 203348,
+  "handle": "EETT",
+  "description": "Hellenic Telecommunications and Post Commision",
+  "subnets": {
+    "ipv4": [
+      "193.201.166.0/24"
+    ],
+    "ipv6": [
+      "2001:648:25e0::/48"
+    ]
+  }
+}

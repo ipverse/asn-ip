@@ -1,0 +1,12 @@
+{
+  "asn": 136841,
+  "handle": "MTMBALI-ID",
+  "description": "PT MITRA TELEMEDIA MANUNGGAL",
+  "subnets": {
+    "ipv4": [
+      "103.100.172.0/22",
+      "103.151.36.0/23"
+    ],
+    "ipv6": []
+  }
+}

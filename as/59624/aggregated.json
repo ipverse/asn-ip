@@ -1,0 +1,14 @@
+{
+  "asn": 59624,
+  "handle": "KIAE-COMPUTING",
+  "description": "Federal State Institution Russian Scientific Center Kurchatovsky institute",
+  "subnets": {
+    "ipv4": [
+      "144.206.222.0/24",
+      "144.206.224.0/19"
+    ],
+    "ipv6": [
+      "2001:67c:1bec::/48"
+    ]
+  }
+}

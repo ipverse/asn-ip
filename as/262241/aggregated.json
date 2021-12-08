@@ -1,0 +1,16 @@
+{
+  "asn": 262241,
+  "handle": "COOPERATIVA-DE-ELECTRIFICACION",
+  "description": "COOPERATIVA DE ELECTRIFICACION RURAL DE ALFARO RUIZ R.L.",
+  "subnets": {
+    "ipv4": [
+      "138.185.248.0/22",
+      "168.195.124.0/22",
+      "179.60.160.0/21",
+      "190.113.248.0/22",
+      "190.113.252.0/23",
+      "190.113.255.0/24"
+    ],
+    "ipv6": []
+  }
+}

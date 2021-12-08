@@ -1,0 +1,13 @@
+{
+  "asn": 205053,
+  "handle": "AWEB",
+  "description": "Asimia Damaskou",
+  "subnets": {
+    "ipv4": [
+      "185.226.64.0/22"
+    ],
+    "ipv6": [
+      "2a0c:5e00::/32"
+    ]
+  }
+}

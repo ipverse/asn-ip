@@ -1,0 +1,13 @@
+{
+  "asn": 265041,
+  "handle": "INFOTEL-ENG-TELECOM",
+  "description": "INFOTEL ENG. \u0026 TELECOM. SCM EIRELI",
+  "subnets": {
+    "ipv4": [
+      "170.150.136.0/22"
+    ],
+    "ipv6": [
+      "2804:31dc::/32"
+    ]
+  }
+}

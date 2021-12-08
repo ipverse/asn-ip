@@ -1,0 +1,12 @@
+{
+  "asn": 22657,
+  "handle": "PROXIOS",
+  "description": "Proxios",
+  "subnets": {
+    "ipv4": [
+      "8.30.87.0/24",
+      "205.210.0.0/24"
+    ],
+    "ipv6": []
+  }
+}

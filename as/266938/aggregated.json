@@ -1,0 +1,13 @@
+{
+  "asn": 266938,
+  "handle": "LT-SOLUCOES",
+  "description": "LT SOLUCOES",
+  "subnets": {
+    "ipv4": [
+      "45.225.140.0/22"
+    ],
+    "ipv6": [
+      "2804:459c::/32"
+    ]
+  }
+}

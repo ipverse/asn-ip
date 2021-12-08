@@ -1,0 +1,14 @@
+{
+  "asn": 141995,
+  "handle": "CAPL-AP",
+  "description": "Contabo Asia Private Limited",
+  "subnets": {
+    "ipv4": [
+      "103.164.54.0/23",
+      "194.233.64.0/19"
+    ],
+    "ipv6": [
+      "2407:3640::/32"
+    ]
+  }
+}

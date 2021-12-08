@@ -1,0 +1,13 @@
+{
+  "asn": 24817,
+  "handle": "IFINET",
+  "description": "Ifinet Srl",
+  "subnets": {
+    "ipv4": [
+      "81.24.224.0/20"
+    ],
+    "ipv6": [
+      "2a03:9880::/32"
+    ]
+  }
+}

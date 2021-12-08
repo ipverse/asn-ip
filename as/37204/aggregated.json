@@ -1,0 +1,14 @@
+{
+  "asn": 37204,
+  "handle": "TELONE",
+  "description": "Telone PVT Ltd",
+  "subnets": {
+    "ipv4": [
+      "41.220.16.0/20",
+      "197.221.224.0/19"
+    ],
+    "ipv6": [
+      "2c0f:f758::/32"
+    ]
+  }
+}

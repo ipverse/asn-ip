@@ -1,0 +1,11 @@
+{
+  "asn": 328055,
+  "handle": "N-PLUS-ONE",
+  "description": "NPONE",
+  "subnets": {
+    "ipv4": [
+      "169.255.176.0/22"
+    ],
+    "ipv6": []
+  }
+}

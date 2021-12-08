@@ -1,0 +1,15 @@
+{
+  "asn": 1350,
+  "handle": "SEARSNET",
+  "description": "Sears Technology Services Incorporated",
+  "subnets": {
+    "ipv4": [
+      "166.76.0.0/23",
+      "166.76.2.0/24",
+      "166.76.6.0/24",
+      "198.179.147.0/24",
+      "198.179.148.0/24"
+    ],
+    "ipv6": []
+  }
+}

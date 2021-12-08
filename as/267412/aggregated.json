@@ -1,0 +1,12 @@
+{
+  "asn": 267412,
+  "handle": "LINKNET-WIFI-INFORMATICA",
+  "description": "Linknet-Wifi Informática e telecomunicações",
+  "subnets": {
+    "ipv4": [
+      "45.235.65.0/24",
+      "45.235.66.0/23"
+    ],
+    "ipv6": []
+  }
+}

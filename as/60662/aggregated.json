@@ -1,0 +1,13 @@
+{
+  "asn": 60662,
+  "handle": "DATACOMM",
+  "description": "Data Communication \u0026 Software i Grondal Aktiebolag",
+  "subnets": {
+    "ipv4": [
+      "37.122.144.0/22",
+      "185.27.168.0/22",
+      "185.106.180.0/22"
+    ],
+    "ipv6": []
+  }
+}

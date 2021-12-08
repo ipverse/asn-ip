@@ -1,0 +1,13 @@
+{
+  "asn": 52885,
+  "handle": "COOPERATIVA-CENTRAL-AURORA",
+  "description": "Cooperativa Central Aurora Alimentos",
+  "subnets": {
+    "ipv4": [
+      "177.129.78.0/24"
+    ],
+    "ipv6": [
+      "2801:80:3810::/48"
+    ]
+  }
+}

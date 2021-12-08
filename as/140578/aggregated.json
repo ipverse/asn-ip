@@ -1,0 +1,11 @@
+{
+  "asn": 140578,
+  "handle": "BNPP-IN-MUM",
+  "description": "BNP Paribas",
+  "subnets": {
+    "ipv4": [
+      "155.140.246.0/24"
+    ],
+    "ipv6": []
+  }
+}

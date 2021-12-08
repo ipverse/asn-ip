@@ -1,0 +1,12 @@
+{
+  "asn": 197209,
+  "handle": "STN-EU",
+  "description": "STN satelitske komunikacije d.d.",
+  "subnets": {
+    "ipv4": [
+      "91.209.181.0/24",
+      "91.209.251.0/24"
+    ],
+    "ipv6": []
+  }
+}

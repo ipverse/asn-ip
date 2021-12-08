@@ -1,0 +1,11 @@
+{
+  "asn": 328751,
+  "handle": "CRDB-BANK",
+  "description": "CRDB BANK PLC",
+  "subnets": {
+    "ipv4": [
+      "196.45.158.0/24"
+    ],
+    "ipv6": []
+  }
+}

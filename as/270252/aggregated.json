@@ -1,0 +1,13 @@
+{
+  "asn": 270252,
+  "handle": "TVF-INTERNET-RAPIDA-LTDA",
+  "description": "TVF INTERNET RAPIDA LTDA",
+  "subnets": {
+    "ipv4": [
+      "200.110.108.0/22"
+    ],
+    "ipv6": [
+      "2804:6928::/32"
+    ]
+  }
+}

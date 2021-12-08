@@ -1,0 +1,13 @@
+{
+  "asn": 19837,
+  "handle": "STOCK-BUILDING-SUPPLY",
+  "description": "Stock Building Supply",
+  "subnets": {
+    "ipv4": [
+      "206.208.90.0/24",
+      "206.208.93.0/24",
+      "206.208.94.0/24"
+    ],
+    "ipv6": []
+  }
+}

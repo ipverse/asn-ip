@@ -1,0 +1,11 @@
+{
+  "asn": 137862,
+  "handle": "RAINBOWDNET-AP",
+  "description": "M/S Rainbow D Net",
+  "subnets": {
+    "ipv4": [
+      "103.115.240.0/22"
+    ],
+    "ipv6": []
+  }
+}

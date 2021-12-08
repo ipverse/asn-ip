@@ -1,0 +1,13 @@
+{
+  "asn": 49138,
+  "handle": "SBDN-EU",
+  "description": "ServedBy the Net LLC",
+  "subnets": {
+    "ipv4": [
+      "185.138.192.0/22"
+    ],
+    "ipv6": [
+      "2a03:ae00::/32"
+    ]
+  }
+}

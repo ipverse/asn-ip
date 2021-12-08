@@ -1,0 +1,13 @@
+{
+  "asn": 203818,
+  "handle": "MWAM",
+  "description": "Marshall Wace Asset Management Ltd",
+  "subnets": {
+    "ipv4": [
+      "185.122.208.0/22"
+    ],
+    "ipv6": [
+      "2a06:a800::/29"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 269153,
+  "handle": "CONECTE-TELECOM",
+  "description": "Conecte Telecom",
+  "subnets": {
+    "ipv4": [
+      "45.180.236.0/22"
+    ],
+    "ipv6": [
+      "2804:6038::/32"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 9986,
+  "handle": "TMTAPS-AP",
+  "description": "Tmnet, Telekom Malaysia Bhd.",
+  "subnets": {
+    "ipv4": [
+      "45.116.244.0/24",
+      "45.116.246.0/23"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 204078,
+  "handle": "GREENTEAM",
+  "description": "Green Team Internet LTD",
+  "subnets": {
+    "ipv4": [
+      "82.163.142.0/23",
+      "88.202.216.0/24"
+    ],
+    "ipv6": []
+  }
+}

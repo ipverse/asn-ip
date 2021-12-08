@@ -1,0 +1,11 @@
+{
+  "asn": 37654,
+  "handle": "RWEDNET",
+  "description": "Rwanda Ministry of Education",
+  "subnets": {
+    "ipv4": [
+      "154.68.64.0/18"
+    ],
+    "ipv6": []
+  }
+}

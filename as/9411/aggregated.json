@@ -1,0 +1,14 @@
+{
+  "asn": 9411,
+  "handle": "NONTRINET-AP",
+  "description": "Kasetsart University",
+  "subnets": {
+    "ipv4": [
+      "158.108.0.0/16",
+      "192.102.83.0/24"
+    ],
+    "ipv6": [
+      "2406:3100::/32"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 41570,
+  "handle": "SSVC",
+  "description": "Services Sound and Vision Corporation",
+  "subnets": {
+    "ipv4": [
+      "194.34.176.0/22",
+      "194.34.189.0/24"
+    ],
+    "ipv6": []
+  }
+}

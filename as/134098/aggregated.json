@@ -1,0 +1,16 @@
+{
+  "asn": 134098,
+  "handle": "SYLVEON-AP",
+  "description": "Eons Data Communications Limited",
+  "subnets": {
+    "ipv4": [
+      "103.122.116.0/22",
+      "103.152.203.0/24",
+      "185.207.176.0/24"
+    ],
+    "ipv6": [
+      "2403:8ec0::/32",
+      "2a0b:4340:520::/44"
+    ]
+  }
+}

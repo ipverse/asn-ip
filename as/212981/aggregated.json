@@ -1,0 +1,13 @@
+{
+  "asn": 212981,
+  "handle": "SCHILLER",
+  "description": "Schiller AG",
+  "subnets": {
+    "ipv4": [
+      "193.200.186.0/24"
+    ],
+    "ipv6": [
+      "2a0a:d6c0:186::/48"
+    ]
+  }
+}

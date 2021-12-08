@@ -1,0 +1,11 @@
+{
+  "asn": 136028,
+  "handle": "ASTI-AP",
+  "description": "Advanced Science and Technology Institute",
+  "subnets": {
+    "ipv4": [
+      "103.80.140.0/24"
+    ],
+    "ipv6": []
+  }
+}

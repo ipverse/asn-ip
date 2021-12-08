@@ -1,0 +1,12 @@
+{
+  "asn": 8949,
+  "handle": "JHEDBERG",
+  "description": "Johan Hedberg",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2001:67c:560::/48",
+      "2001:67c:7bc::/48"
+    ]
+  }
+}

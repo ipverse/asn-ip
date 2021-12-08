@@ -1,0 +1,13 @@
+{
+  "asn": 45219,
+  "handle": "AEGISCSS-AP",
+  "description": "AEGIS CUSTOMER SUPPORT SERVICES PRIVATE LIMITED",
+  "subnets": {
+    "ipv4": [
+      "114.31.250.0/23",
+      "114.31.252.0/23",
+      "114.31.255.0/24"
+    ],
+    "ipv6": []
+  }
+}

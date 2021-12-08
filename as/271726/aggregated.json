@@ -1,0 +1,11 @@
+{
+  "asn": 271726,
+  "handle": "UNIPONTE-PROVEDOR-DE",
+  "description": "UNIPONTE PROVEDOR DE INTERNET LTDA",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2804:800c::/32"
+    ]
+  }
+}

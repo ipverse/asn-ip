@@ -1,0 +1,13 @@
+{
+  "asn": 136442,
+  "handle": "OCEANWAVE-AP",
+  "description": "Ocean Wave Communication Co., Ltd",
+  "subnets": {
+    "ipv4": [
+      "103.88.48.0/22",
+      "103.172.180.0/23",
+      "203.96.240.0/22"
+    ],
+    "ipv6": []
+  }
+}

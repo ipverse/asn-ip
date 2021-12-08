@@ -1,0 +1,13 @@
+{
+  "asn": 22784,
+  "handle": "SOUTH-ISLAND-NET",
+  "description": "South Island Internet Services Ltd.",
+  "subnets": {
+    "ipv4": [
+      "199.189.172.0/22",
+      "209.94.84.0/24",
+      "209.94.94.0/24"
+    ],
+    "ipv6": []
+  }
+}

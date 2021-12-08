@@ -1,0 +1,13 @@
+{
+  "asn": 40695,
+  "handle": "FHLB-OF",
+  "description": "FHLBanks - Office of Finance",
+  "subnets": {
+    "ipv4": [
+      "38.103.0.0/23",
+      "74.201.8.0/24",
+      "165.193.75.0/24"
+    ],
+    "ipv6": []
+  }
+}

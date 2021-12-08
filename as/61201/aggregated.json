@@ -1,0 +1,13 @@
+{
+  "asn": 61201,
+  "handle": "HTBLA-KLU",
+  "description": "Hohere technische Bundeslehranstalt Klagenfurt",
+  "subnets": {
+    "ipv4": [
+      "193.36.189.0/24"
+    ],
+    "ipv6": [
+      "2a00:eb0:100::/48"
+    ]
+  }
+}

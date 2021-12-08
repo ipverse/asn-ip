@@ -1,0 +1,11 @@
+{
+  "asn": 60813,
+  "handle": "BSABADELL",
+  "description": "Banco Sabadell",
+  "subnets": {
+    "ipv4": [
+      "81.90.96.0/22"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 46328,
+  "handle": "FOUR-U",
+  "description": "Four-U Technologies, LLC",
+  "subnets": {
+    "ipv4": [
+      "72.14.70.0/23",
+      "173.224.16.0/20",
+      "199.193.212.0/22"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 211279,
+  "handle": "ALIANTA-TV",
+  "description": "Alianta-TV S.R.L.",
+  "subnets": {
+    "ipv4": [
+      "178.175.182.0/23",
+      "178.175.184.0/22"
+    ],
+    "ipv6": []
+  }
+}

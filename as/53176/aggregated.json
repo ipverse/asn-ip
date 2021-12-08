@@ -1,0 +1,14 @@
+{
+  "asn": 53176,
+  "handle": "NET-INFORMATICA-LTDA",
+  "description": "NET INFORMÁTICA LTDA",
+  "subnets": {
+    "ipv4": [
+      "186.226.0.0/20",
+      "201.158.24.0/21"
+    ],
+    "ipv6": [
+      "2804:1854::/32"
+    ]
+  }
+}

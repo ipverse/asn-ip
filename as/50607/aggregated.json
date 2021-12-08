@@ -1,0 +1,14 @@
+{
+  "asn": 50607,
+  "handle": "EPIX-KGM",
+  "description": "Stowarzyszenie e-Poludnie",
+  "subnets": {
+    "ipv4": [
+      "91.198.97.0/24",
+      "185.48.9.0/24"
+    ],
+    "ipv6": [
+      "2001:67c:778::/48"
+    ]
+  }
+}

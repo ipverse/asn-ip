@@ -1,0 +1,13 @@
+{
+  "asn": 5058,
+  "handle": "NRL-EXP",
+  "description": "Navy Network Information Center (NNIC)",
+  "subnets": {
+    "ipv4": [
+      "134.207.0.0/16"
+    ],
+    "ipv6": [
+      "2001:480:23::/48"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 269752,
+  "handle": "COLSECOR-COOPERATIVA-LIMITADA",
+  "description": "Colsecor Cooperativa Limitada",
+  "subnets": {
+    "ipv4": [
+      "181.16.170.0/24",
+      "181.16.206.0/23",
+      "181.16.240.0/24"
+    ],
+    "ipv6": []
+  }
+}

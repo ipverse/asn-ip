@@ -1,0 +1,13 @@
+{
+  "asn": 29708,
+  "handle": "FINANCIAL-SECURITY-ASSURANCE",
+  "description": "Assured Guaranty Corp",
+  "subnets": {
+    "ipv4": [
+      "12.173.245.0/24",
+      "170.39.143.0/24",
+      "170.76.150.0/24"
+    ],
+    "ipv6": []
+  }
+}

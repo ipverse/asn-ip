@@ -1,0 +1,13 @@
+{
+  "asn": 135225,
+  "handle": "SMARTNET16",
+  "description": "SMART NET INDIA PVT LTD",
+  "subnets": {
+    "ipv4": [
+      "103.8.116.0/22",
+      "103.104.124.0/22",
+      "103.213.192.0/22"
+    ],
+    "ipv6": []
+  }
+}

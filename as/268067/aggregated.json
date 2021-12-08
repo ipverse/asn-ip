@@ -1,0 +1,13 @@
+{
+  "asn": 268067,
+  "handle": "ESTIVANET-MULTIMIDIA-E",
+  "description": "Estivanet Multimidia e Telecom Ltda",
+  "subnets": {
+    "ipv4": [
+      "45.167.136.0/22"
+    ],
+    "ipv6": [
+      "2804:5778::/32"
+    ]
+  }
+}

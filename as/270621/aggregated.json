@@ -1,0 +1,13 @@
+{
+  "asn": 270621,
+  "handle": "DECOLA-NET-LTDA",
+  "description": "Decola Net LTDA",
+  "subnets": {
+    "ipv4": [
+      "201.216.68.0/22"
+    ],
+    "ipv6": [
+      "2804:6ed4::/32"
+    ]
+  }
+}

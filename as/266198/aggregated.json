@@ -1,0 +1,13 @@
+{
+  "asn": 266198,
+  "handle": "NEW-NET-TELECOM-EIRELI-ME",
+  "description": "NEW NET TELECOM EIRELI - ME",
+  "subnets": {
+    "ipv4": [
+      "160.20.168.0/22"
+    ],
+    "ipv6": [
+      "2804:3c3c::/32"
+    ]
+  }
+}

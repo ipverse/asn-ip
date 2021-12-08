@@ -1,0 +1,13 @@
+{
+  "asn": 268659,
+  "handle": "D-S-ALVES",
+  "description": "D. S. ALVES SERVICOS DE INTERNET",
+  "subnets": {
+    "ipv4": [
+      "45.165.64.0/22"
+    ],
+    "ipv6": [
+      "2804:5494::/32"
+    ]
+  }
+}

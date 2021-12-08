@@ -1,0 +1,13 @@
+{
+  "asn": 271493,
+  "handle": "SPEED-NET-PEDRA",
+  "description": "SPEED NET PEDRA",
+  "subnets": {
+    "ipv4": [
+      "181.232.204.0/22"
+    ],
+    "ipv6": [
+      "2804:7c64::/32"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 52398,
+  "handle": "DIGICEL-SURINAME-NV",
+  "description": "Digicel Suriname NV",
+  "subnets": {
+    "ipv4": [
+      "168.121.84.0/22",
+      "200.7.148.0/22"
+    ],
+    "ipv6": []
+  }
+}

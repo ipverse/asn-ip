@@ -1,0 +1,12 @@
+{
+  "asn": 201660,
+  "handle": "JETSERVER-LTD",
+  "description": "JETSERVER LTD",
+  "subnets": {
+    "ipv4": [
+      "185.56.72.0/22",
+      "195.238.120.0/24"
+    ],
+    "ipv6": []
+  }
+}

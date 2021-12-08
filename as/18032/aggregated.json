@@ -1,0 +1,12 @@
+{
+  "asn": 18032,
+  "handle": "SHINHANSYS-KR-KR",
+  "description": "SHINHAN DS",
+  "subnets": {
+    "ipv4": [
+      "14.36.212.0/24",
+      "59.18.215.0/24"
+    ],
+    "ipv6": []
+  }
+}

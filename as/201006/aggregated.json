@@ -1,0 +1,13 @@
+{
+  "asn": 201006,
+  "handle": "KUUSKAISTAP",
+  "description": "Kuuskaistan Palvelut Oy",
+  "subnets": {
+    "ipv4": [
+      "185.89.52.0/22"
+    ],
+    "ipv6": [
+      "2a05:ce40::/29"
+    ]
+  }
+}

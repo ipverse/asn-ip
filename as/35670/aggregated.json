@@ -1,0 +1,15 @@
+{
+  "asn": 35670,
+  "handle": "IDE-GROUP-MANAGE",
+  "description": "IDE Group Manage Limited",
+  "subnets": {
+    "ipv4": [
+      "77.73.8.0/21",
+      "87.236.248.0/21",
+      "89.207.136.0/23",
+      "89.207.138.0/24",
+      "91.207.110.0/23"
+    ],
+    "ipv6": []
+  }
+}

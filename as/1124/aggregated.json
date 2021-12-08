@@ -1,0 +1,13 @@
+{
+  "asn": 1124,
+  "handle": "UVA-NL",
+  "description": "Universiteit van Amsterdam",
+  "subnets": {
+    "ipv4": [
+      "145.18.0.0/16",
+      "145.109.0.0/16",
+      "146.50.0.0/16"
+    ],
+    "ipv6": []
+  }
+}

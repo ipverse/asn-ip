@@ -1,0 +1,13 @@
+{
+  "asn": 269709,
+  "handle": "FIBERNET-ESPECIALIZADOS-EM",
+  "description": "FIBERNET ESPECIALIZADOS EM INTERNET LTDA",
+  "subnets": {
+    "ipv4": [
+      "190.112.144.0/22"
+    ],
+    "ipv6": [
+      "2804:68b0::/32"
+    ]
+  }
+}

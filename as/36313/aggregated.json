@@ -1,0 +1,12 @@
+{
+  "asn": 36313,
+  "handle": "LTICTASN01",
+  "description": "Lendingtools.com Inc.",
+  "subnets": {
+    "ipv4": [
+      "12.236.202.0/24",
+      "63.79.0.0/24"
+    ],
+    "ipv6": []
+  }
+}

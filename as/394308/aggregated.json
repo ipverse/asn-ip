@@ -1,0 +1,13 @@
+{
+  "asn": 394308,
+  "handle": "TF-178-SJL",
+  "description": "Ting Fiber Inc.",
+  "subnets": {
+    "ipv4": [
+      "64.98.4.0/23"
+    ],
+    "ipv6": [
+      "2606:8e80:3000::/48"
+    ]
+  }
+}

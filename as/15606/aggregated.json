@@ -1,0 +1,13 @@
+{
+  "asn": 15606,
+  "handle": "NASK-DNS-ANYCAST",
+  "description": "NAUKOWA I AKADEMICKA SIEC KOMPUTEROWA INSTYTUT BADAWCZY",
+  "subnets": {
+    "ipv4": [
+      "192.195.72.0/24"
+    ],
+    "ipv6": [
+      "2001:7f9:c::/48"
+    ]
+  }
+}

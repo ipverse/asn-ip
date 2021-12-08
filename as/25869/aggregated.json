@@ -1,0 +1,12 @@
+{
+  "asn": 25869,
+  "handle": "HSBC-US",
+  "description": "HSBC Bank USA",
+  "subnets": {
+    "ipv4": [
+      "204.178.86.0/24",
+      "205.214.176.0/21"
+    ],
+    "ipv6": []
+  }
+}

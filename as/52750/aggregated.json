@@ -1,0 +1,13 @@
+{
+  "asn": 52750,
+  "handle": "FUNDACAO-CENTROS-DE",
+  "description": "Fundação Centros de Ref. em Tecnologias Inovadoras",
+  "subnets": {
+    "ipv4": [
+      "177.71.112.0/20"
+    ],
+    "ipv6": [
+      "2801:80:6d0::/48"
+    ]
+  }
+}

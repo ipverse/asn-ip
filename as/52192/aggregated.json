@@ -1,0 +1,11 @@
+{
+  "asn": 52192,
+  "handle": "HUXNET",
+  "description": "Hugo Blom",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2001:678:f40::/48"
+    ]
+  }
+}

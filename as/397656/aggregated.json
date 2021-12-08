@@ -1,0 +1,13 @@
+{
+  "asn": 397656,
+  "handle": "CENTRIENTRUST",
+  "description": "CENTRIENTRUST LLC",
+  "subnets": {
+    "ipv4": [
+      "23.137.144.0/24"
+    ],
+    "ipv6": [
+      "2602:fdc8::/36"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 1935,
+  "handle": "FR-RENATER-LIMOUSIN",
+  "description": "Renater",
+  "subnets": {
+    "ipv4": [
+      "164.81.0.0/16",
+      "193.160.0.0/24"
+    ],
+    "ipv6": []
+  }
+}

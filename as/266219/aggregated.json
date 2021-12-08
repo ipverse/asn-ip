@@ -1,0 +1,13 @@
+{
+  "asn": 266219,
+  "handle": "VISIO-TELECOM",
+  "description": "VISIO TELECOM",
+  "subnets": {
+    "ipv4": [
+      "192.145.196.0/22"
+    ],
+    "ipv6": [
+      "2804:3c8c::/32"
+    ]
+  }
+}

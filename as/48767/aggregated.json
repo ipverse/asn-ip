@@ -1,0 +1,13 @@
+{
+  "asn": 48767,
+  "handle": "TOMBII-NET",
+  "description": "Tom Blyc",
+  "subnets": {
+    "ipv4": [
+      "185.140.52.0/24"
+    ],
+    "ipv6": [
+      "2a07:1a80::/48"
+    ]
+  }
+}

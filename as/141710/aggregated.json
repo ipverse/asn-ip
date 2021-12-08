@@ -1,0 +1,13 @@
+{
+  "asn": 141710,
+  "handle": "VENTURE1-AP",
+  "description": "Venture Networks Limited",
+  "subnets": {
+    "ipv4": [
+      "103.162.119.0/24"
+    ],
+    "ipv6": [
+      "2001:df5:f180::/48"
+    ]
+  }
+}

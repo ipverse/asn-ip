@@ -1,0 +1,12 @@
+{
+  "asn": 134682,
+  "handle": "KGIS-AP",
+  "description": "TRUE INTERNET CORPORATION CO. LTD.",
+  "subnets": {
+    "ipv4": [
+      "110.170.228.0/24",
+      "203.146.104.0/24"
+    ],
+    "ipv6": []
+  }
+}

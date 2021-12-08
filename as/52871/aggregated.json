@@ -1,0 +1,15 @@
+{
+  "asn": 52871,
+  "handle": "TASCOM-TELECOMUNICACOES-LTDA",
+  "description": "TASCOM TELECOMUNICAÇÕES LTDA",
+  "subnets": {
+    "ipv4": [
+      "177.136.0.0/20",
+      "177.136.32.0/20",
+      "201.157.192.0/18"
+    ],
+    "ipv6": [
+      "2804:870::/32"
+    ]
+  }
+}

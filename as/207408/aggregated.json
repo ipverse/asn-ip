@@ -1,0 +1,14 @@
+{
+  "asn": 207408,
+  "handle": "SERVINGA-EE",
+  "description": "servinga GmbH",
+  "subnets": {
+    "ipv4": [
+      "45.11.183.0/24",
+      "194.76.227.0/24"
+    ],
+    "ipv6": [
+      "2a0b:7140:1::/48"
+    ]
+  }
+}

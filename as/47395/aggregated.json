@@ -1,0 +1,12 @@
+{
+  "asn": 47395,
+  "handle": "SCARTEL",
+  "description": "PJSC MegaFon",
+  "subnets": {
+    "ipv4": [
+      "94.25.128.0/18",
+      "109.188.0.0/17"
+    ],
+    "ipv6": []
+  }
+}

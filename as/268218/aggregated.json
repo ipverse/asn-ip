@@ -1,0 +1,13 @@
+{
+  "asn": 268218,
+  "handle": "CLIPPERNET-PROVEDOR-DE",
+  "description": "ClipperNET Provedor de Internet LTDA - ME",
+  "subnets": {
+    "ipv4": [
+      "45.235.236.0/22"
+    ],
+    "ipv6": [
+      "2804:4dc4::/32"
+    ]
+  }
+}

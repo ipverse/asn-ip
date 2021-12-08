@@ -1,0 +1,11 @@
+{
+  "asn": 59095,
+  "handle": "ACCELIA-W",
+  "description": "Network for Accelia, Inc",
+  "subnets": {
+    "ipv4": [
+      "43.253.64.0/21"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 269489,
+  "handle": "TERA-TELECOM-EIRELI",
+  "description": "TERA TELECOM EIRELI",
+  "subnets": {
+    "ipv4": [
+      "45.187.236.0/22"
+    ],
+    "ipv6": [
+      "2804:656c::/32"
+    ]
+  }
+}

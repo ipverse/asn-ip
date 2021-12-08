@@ -1,0 +1,13 @@
+{
+  "asn": 24510,
+  "handle": "HOLMESGLEN-INSTITUTE-OF-TAFE-AP",
+  "description": "SingTel Optus Pty Ltd",
+  "subnets": {
+    "ipv4": [
+      "103.20.22.0/23",
+      "103.20.48.0/24",
+      "203.33.133.0/24"
+    ],
+    "ipv6": []
+  }
+}

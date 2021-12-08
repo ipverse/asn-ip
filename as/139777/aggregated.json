@@ -1,0 +1,11 @@
+{
+  "asn": 139777,
+  "handle": "WATERNSW-AP",
+  "description": "Water NSW",
+  "subnets": {
+    "ipv4": [
+      "103.145.24.0/23"
+    ],
+    "ipv6": []
+  }
+}

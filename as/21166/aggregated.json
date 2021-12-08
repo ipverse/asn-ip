@@ -1,0 +1,12 @@
+{
+  "asn": 21166,
+  "handle": "SATGATE-LLC",
+  "description": "SatGate LLC",
+  "subnets": {
+    "ipv4": [
+      "77.94.42.0/24",
+      "82.198.13.0/24"
+    ],
+    "ipv6": []
+  }
+}

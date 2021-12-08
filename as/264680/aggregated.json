@@ -1,0 +1,13 @@
+{
+  "asn": 264680,
+  "handle": "ESPACIOS-SRL",
+  "description": "ESPACIOS SRL",
+  "subnets": {
+    "ipv4": [
+      "168.227.4.0/22"
+    ],
+    "ipv6": [
+      "2803:7d40::/32"
+    ]
+  }
+}

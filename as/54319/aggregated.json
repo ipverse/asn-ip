@@ -1,0 +1,13 @@
+{
+  "asn": 54319,
+  "handle": "BRIDGEHEAD-SNAN",
+  "description": "Bridgehead Networks",
+  "subnets": {
+    "ipv4": [
+      "64.129.153.0/24",
+      "207.71.5.0/24",
+      "216.110.82.0/24"
+    ],
+    "ipv6": []
+  }
+}

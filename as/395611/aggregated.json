@@ -1,0 +1,14 @@
+{
+  "asn": 395611,
+  "handle": "MBIX-SERVICES",
+  "description": "Manitoba Internet Exchange Inc",
+  "subnets": {
+    "ipv4": [
+      "198.181.199.0/24"
+    ],
+    "ipv6": [
+      "2602:fd53::/36",
+      "2620:19:4000::/48"
+    ]
+  }
+}

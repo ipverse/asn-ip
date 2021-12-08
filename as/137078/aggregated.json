@@ -1,0 +1,11 @@
+{
+  "asn": 137078,
+  "handle": "AONEONLINE-AP",
+  "description": "A one online",
+  "subnets": {
+    "ipv4": [
+      "103.175.130.0/24"
+    ],
+    "ipv6": []
+  }
+}

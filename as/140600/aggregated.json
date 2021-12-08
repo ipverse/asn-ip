@@ -1,0 +1,11 @@
+{
+  "asn": 140600,
+  "handle": "MSNETZONE-AP",
+  "description": "M/S. NET ZONE",
+  "subnets": {
+    "ipv4": [
+      "103.166.231.0/24"
+    ],
+    "ipv6": []
+  }
+}

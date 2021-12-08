@@ -1,0 +1,14 @@
+{
+  "asn": 263069,
+  "handle": "BRT-COMERCIO-DE",
+  "description": "BRT Comercio de Produtos de Informática LTDA",
+  "subnets": {
+    "ipv4": [
+      "168.0.128.0/22",
+      "186.233.56.0/22"
+    ],
+    "ipv6": [
+      "2804:2cdc::/32"
+    ]
+  }
+}

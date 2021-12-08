@@ -1,0 +1,12 @@
+{
+  "asn": 18937,
+  "handle": "NMC",
+  "description": "National Monitoring Center",
+  "subnets": {
+    "ipv4": [
+      "12.197.228.0/24",
+      "67.129.151.0/24"
+    ],
+    "ipv6": []
+  }
+}

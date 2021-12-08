@@ -1,0 +1,15 @@
+{
+  "asn": 60729,
+  "handle": "ZWIEBELFREUNDE",
+  "description": "Zwiebelfreunde e.V.",
+  "subnets": {
+    "ipv4": [
+      "185.220.102.0/24"
+    ],
+    "ipv6": [
+      "2a03:f85:8::/48",
+      "2a0b:f4c1::/48",
+      "2a0b:f4c1:2::/48"
+    ]
+  }
+}

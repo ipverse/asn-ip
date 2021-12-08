@@ -1,0 +1,12 @@
+{
+  "asn": 60821,
+  "handle": "KYRIBA-EU",
+  "description": "Kyriba SAS",
+  "subnets": {
+    "ipv4": [
+      "185.22.168.0/23",
+      "185.22.170.0/24"
+    ],
+    "ipv6": []
+  }
+}

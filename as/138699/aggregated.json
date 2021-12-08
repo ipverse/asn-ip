@@ -1,0 +1,14 @@
+{
+  "asn": 138699,
+  "handle": "TIKTOK-AP",
+  "description": "TIKTOK PTE. LTD.",
+  "subnets": {
+    "ipv4": [
+      "103.136.220.0/23",
+      "103.136.222.0/24"
+    ],
+    "ipv6": [
+      "2404:9dc0:cd01::/48"
+    ]
+  }
+}

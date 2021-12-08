@@ -1,0 +1,12 @@
+{
+  "asn": 264981,
+  "handle": "NOVANET-WORK",
+  "description": "NOVANET WORK",
+  "subnets": {
+    "ipv4": [
+      "170.0.192.0/22",
+      "170.247.108.0/22"
+    ],
+    "ipv6": []
+  }
+}

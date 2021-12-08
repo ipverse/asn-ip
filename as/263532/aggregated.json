@@ -1,0 +1,13 @@
+{
+  "asn": 263532,
+  "handle": "VIAR-TELECOM-EIRELI-ME",
+  "description": "VIAR TELECOM EIRELI - ME",
+  "subnets": {
+    "ipv4": [
+      "191.5.48.0/21"
+    ],
+    "ipv6": [
+      "2804:1364::/32"
+    ]
+  }
+}

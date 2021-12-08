@@ -1,0 +1,12 @@
+{
+  "asn": 36361,
+  "handle": "QUORA",
+  "description": "Quora Inc",
+  "subnets": {
+    "ipv4": [
+      "50.237.157.0/24",
+      "162.250.133.0/24"
+    ],
+    "ipv6": []
+  }
+}

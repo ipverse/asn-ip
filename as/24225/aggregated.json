@@ -1,0 +1,15 @@
+{
+  "asn": 24225,
+  "handle": "SMA-ID",
+  "description": "PT. Sarana Mukti Adijaya",
+  "subnets": {
+    "ipv4": [
+      "103.67.240.0/22",
+      "103.247.27.0/24",
+      "203.160.48.0/22"
+    ],
+    "ipv6": [
+      "2405:da80::/32"
+    ]
+  }
+}

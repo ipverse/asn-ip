@@ -1,0 +1,15 @@
+{
+  "asn": 58600,
+  "handle": "FLIP-AP",
+  "description": "CallPlus Services Limited",
+  "subnets": {
+    "ipv4": [
+      "103.9.40.0/22",
+      "103.224.128.0/22",
+      "163.47.104.0/22"
+    ],
+    "ipv6": [
+      "2403:c900::/32"
+    ]
+  }
+}

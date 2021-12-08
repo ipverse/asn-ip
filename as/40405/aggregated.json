@@ -1,0 +1,13 @@
+{
+  "asn": 40405,
+  "handle": "BRAZORIA-INET",
+  "description": "Brazoria INET",
+  "subnets": {
+    "ipv4": [
+      "66.199.48.0/20",
+      "199.192.108.0/22",
+      "206.53.8.0/21"
+    ],
+    "ipv6": []
+  }
+}

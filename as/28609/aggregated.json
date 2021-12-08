@@ -1,0 +1,14 @@
+{
+  "asn": 28609,
+  "handle": "INSTITUTO-NUPEF",
+  "description": "Instituto Nupef",
+  "subnets": {
+    "ipv4": [
+      "192.153.88.0/24",
+      "201.46.64.0/20"
+    ],
+    "ipv6": [
+      "2801:80:370::/48"
+    ]
+  }
+}

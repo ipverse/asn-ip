@@ -1,0 +1,13 @@
+{
+  "asn": 135162,
+  "handle": "UP-ITDC-NET",
+  "description": "University of the Philippines",
+  "subnets": {
+    "ipv4": [
+      "202.92.140.0/23"
+    ],
+    "ipv6": [
+      "2400:b000:1000::/48"
+    ]
+  }
+}

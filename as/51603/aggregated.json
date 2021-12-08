@@ -1,0 +1,11 @@
+{
+  "asn": 51603,
+  "handle": "ACME",
+  "description": "Acme Internet Ltd",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a01:56f::/48"
+    ]
+  }
+}

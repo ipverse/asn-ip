@@ -1,0 +1,13 @@
+{
+  "asn": 270622,
+  "handle": "AGINET-DATACENTER-INFORMATICA",
+  "description": "AGINET DATACENTER INFORMATICA LTDA",
+  "subnets": {
+    "ipv4": [
+      "189.50.211.0/24"
+    ],
+    "ipv6": [
+      "2804:6ed8::/32"
+    ]
+  }
+}

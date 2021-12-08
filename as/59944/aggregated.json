@@ -1,0 +1,13 @@
+{
+  "asn": 59944,
+  "handle": "ADAY",
+  "description": "Aday SA",
+  "subnets": {
+    "ipv4": [
+      "185.65.96.0/23"
+    ],
+    "ipv6": [
+      "2a03:1ae0:1::/48"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "asn": 262979,
+  "handle": "OESTELINE-INFORMATICA-LTDA",
+  "description": "OesteLine Informática Ltda.",
+  "subnets": {
+    "ipv4": [
+      "138.186.232.0/22",
+      "168.197.64.0/22",
+      "186.226.48.0/21",
+      "192.144.71.0/24"
+    ],
+    "ipv6": [
+      "2804:9a8::/34",
+      "2804:9a8:8000::/33"
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "asn": 9026,
+  "handle": "ULI-MAIN",
+  "description": "Utility Line Italia S.r.l.",
+  "subnets": {
+    "ipv4": [
+      "62.212.0.0/19",
+      "91.142.143.0/24",
+      "185.120.40.0/22"
+    ],
+    "ipv6": [
+      "2a02:20::/32"
+    ]
+  }
+}

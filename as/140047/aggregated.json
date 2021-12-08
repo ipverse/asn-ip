@@ -1,0 +1,12 @@
+{
+  "asn": 140047,
+  "handle": "QIGL-AP",
+  "description": "QBE Insurance Group Ltd",
+  "subnets": {
+    "ipv4": [
+      "203.0.76.0/23",
+      "203.0.78.0/24"
+    ],
+    "ipv6": []
+  }
+}

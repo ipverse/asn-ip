@@ -1,0 +1,11 @@
+{
+  "asn": 268244,
+  "handle": "SPEEDNET-CR",
+  "description": "SPEEDNET CR",
+  "subnets": {
+    "ipv4": [
+      "45.236.180.0/22"
+    ],
+    "ipv6": []
+  }
+}

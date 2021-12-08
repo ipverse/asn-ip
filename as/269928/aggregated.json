@@ -1,0 +1,13 @@
+{
+  "asn": 269928,
+  "handle": "TELECOMUNICACIONES-RHJ-C-A",
+  "description": "TELECOMUNICACIONES RHJ, C. A.",
+  "subnets": {
+    "ipv4": [
+      "200.108.190.0/24"
+    ],
+    "ipv6": [
+      "2803:32e0::/32"
+    ]
+  }
+}

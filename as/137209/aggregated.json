@@ -1,0 +1,13 @@
+{
+  "asn": 137209,
+  "handle": "ANT-AP",
+  "description": "Allied Net Link Technology Pvt Ltd",
+  "subnets": {
+    "ipv4": [
+      "103.104.232.0/22"
+    ],
+    "ipv6": [
+      "2402:1dc0::/32"
+    ]
+  }
+}

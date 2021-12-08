@@ -1,0 +1,13 @@
+{
+  "asn": 132323,
+  "handle": "PERFECT-IN",
+  "description": "PERFECT INTERNET PVT LTD",
+  "subnets": {
+    "ipv4": [
+      "45.115.188.0/22",
+      "45.116.116.0/22",
+      "103.12.132.0/22"
+    ],
+    "ipv6": []
+  }
+}

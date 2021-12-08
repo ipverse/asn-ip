@@ -1,0 +1,11 @@
+{
+  "asn": 204103,
+  "handle": "LOCHEILNET",
+  "description": "Locheilnet CIC",
+  "subnets": {
+    "ipv4": [
+      "185.72.108.0/22"
+    ],
+    "ipv6": []
+  }
+}

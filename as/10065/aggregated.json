@@ -1,0 +1,12 @@
+{
+  "asn": 10065,
+  "handle": "NICEMONEY2-KR-KR",
+  "description": "NICE TCM",
+  "subnets": {
+    "ipv4": [
+      "175.120.232.0/24",
+      "218.144.142.0/24"
+    ],
+    "ipv6": []
+  }
+}

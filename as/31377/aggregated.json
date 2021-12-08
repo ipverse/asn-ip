@@ -1,0 +1,11 @@
+{
+  "asn": 31377,
+  "handle": "AKAMAI-BOS",
+  "description": "Akamai International B.V.",
+  "subnets": {
+    "ipv4": [
+      "23.1.0.0/24"
+    ],
+    "ipv6": []
+  }
+}

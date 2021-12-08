@@ -1,0 +1,12 @@
+{
+  "asn": 135181,
+  "handle": "KANGLA-IN",
+  "description": "KANGLA ENTERPRISES PRIVATE LIMITED",
+  "subnets": {
+    "ipv4": [
+      "103.83.12.0/24",
+      "103.217.72.0/23"
+    ],
+    "ipv6": []
+  }
+}

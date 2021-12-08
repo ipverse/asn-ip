@@ -1,0 +1,13 @@
+{
+  "asn": 52742,
+  "handle": "HELP-INTERNET",
+  "description": "HELP INTERNET",
+  "subnets": {
+    "ipv4": [
+      "177.130.16.0/20"
+    ],
+    "ipv6": [
+      "2804:cb0::/32"
+    ]
+  }
+}

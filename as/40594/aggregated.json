@@ -1,0 +1,13 @@
+{
+  "asn": 40594,
+  "handle": "BULLE",
+  "description": "Bulle Media Group, Inc.",
+  "subnets": {
+    "ipv4": [
+      "162.212.72.0/23",
+      "162.212.74.0/24",
+      "162.212.76.0/22"
+    ],
+    "ipv6": []
+  }
+}

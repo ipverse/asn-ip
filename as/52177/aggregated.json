@@ -1,0 +1,14 @@
+{
+  "asn": 52177,
+  "handle": "GLECOM",
+  "description": "Resona Glecom AB",
+  "subnets": {
+    "ipv4": [
+      "194.26.208.0/24"
+    ],
+    "ipv6": [
+      "2a0e:b107:b90::/44",
+      "2a12:5800::/29"
+    ]
+  }
+}

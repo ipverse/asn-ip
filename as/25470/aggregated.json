@@ -1,0 +1,13 @@
+{
+  "asn": 25470,
+  "handle": "SCOTTISH-SOUTHERN-PLC",
+  "description": "SSE PLC",
+  "subnets": {
+    "ipv4": [
+      "161.12.5.0/24",
+      "161.12.6.0/23",
+      "161.12.8.0/21"
+    ],
+    "ipv6": []
+  }
+}

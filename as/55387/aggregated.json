@@ -1,0 +1,12 @@
+{
+  "asn": 55387,
+  "handle": "RMGR-MIX",
+  "description": "Japan Communication Inc.",
+  "subnets": {
+    "ipv4": [
+      "27.253.128.0/17",
+      "223.25.128.0/18"
+    ],
+    "ipv6": []
+  }
+}

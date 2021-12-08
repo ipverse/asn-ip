@@ -1,0 +1,13 @@
+{
+  "asn": 53221,
+  "handle": "ENGETRONICS-INTERNET-DATACENTER",
+  "description": "ENGETRONICS INTERNET DATACENTER",
+  "subnets": {
+    "ipv4": [
+      "186.250.240.0/21"
+    ],
+    "ipv6": [
+      "2804:3cb8::/32"
+    ]
+  }
+}

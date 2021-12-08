@@ -1,0 +1,12 @@
+{
+  "asn": 140482,
+  "handle": "IDEANET-ID",
+  "description": "IdeaNet",
+  "subnets": {
+    "ipv4": [
+      "27.112.77.0/24",
+      "103.152.140.0/23"
+    ],
+    "ipv6": []
+  }
+}

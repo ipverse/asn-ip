@@ -1,0 +1,13 @@
+{
+  "asn": 289,
+  "handle": "DNIC-00",
+  "description": "Headquarters, USAISC",
+  "subnets": {
+    "ipv4": [
+      "134.194.0.0/16"
+    ],
+    "ipv6": [
+      "2001:480:36::/48"
+    ]
+  }
+}

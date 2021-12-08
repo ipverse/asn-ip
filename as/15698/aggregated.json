@@ -1,0 +1,13 @@
+{
+  "asn": 15698,
+  "handle": "ENBW-AG",
+  "description": "EnBW Systeme Infrastruktur Support GmbH",
+  "subnets": {
+    "ipv4": [
+      "195.35.72.0/21"
+    ],
+    "ipv6": [
+      "2a0b:f400::/32"
+    ]
+  }
+}

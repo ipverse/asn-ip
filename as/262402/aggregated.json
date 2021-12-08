@@ -1,0 +1,16 @@
+{
+  "asn": 262402,
+  "handle": "ZAP-BL-TELECOMUNICACOES-LTDA",
+  "description": "ZAP BL TELECOMUNICACOES LTDA",
+  "subnets": {
+    "ipv4": [
+      "45.237.148.0/22",
+      "170.150.168.0/22",
+      "177.38.80.0/20",
+      "177.47.64.0/20"
+    ],
+    "ipv6": [
+      "2804:3d8::/32"
+    ]
+  }
+}

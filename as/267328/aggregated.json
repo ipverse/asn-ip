@@ -1,0 +1,13 @@
+{
+  "asn": 267328,
+  "handle": "IBEXNET-TELECOM-LTDA-ME",
+  "description": "IBEXNET TELECOM LTDA-ME",
+  "subnets": {
+    "ipv4": [
+      "45.233.152.0/22"
+    ],
+    "ipv6": [
+      "2804:4bc4::/32"
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 262753,
+  "handle": "VOCE-TELECOMUNICACOES-LTDA",
+  "description": "VOCE TELECOMUNICACOES LTDA",
+  "subnets": {
+    "ipv4": [
+      "186.216.160.0/19",
+      "191.6.96.0/19"
+    ],
+    "ipv6": [
+      "2804:8d4::/32"
+    ]
+  }
+}

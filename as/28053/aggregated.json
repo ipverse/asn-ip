@@ -1,0 +1,12 @@
+{
+  "asn": 28053,
+  "handle": "ONEMAX-SA",
+  "description": "ONEMAX S.A.",
+  "subnets": {
+    "ipv4": [
+      "190.52.224.0/19",
+      "200.89.88.0/21"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asn": 12999,
+  "handle": "FESU",
+  "description": "State Educational institution for High professional education \u0027Far Eastern State University\u0027",
+  "subnets": {
+    "ipv4": [
+      "62.76.6.0/24"
+    ],
+    "ipv6": []
+  }
+}

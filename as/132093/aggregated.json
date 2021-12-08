@@ -1,0 +1,11 @@
+{
+  "asn": 132093,
+  "handle": "TRWH-AP",
+  "description": "The Royal Womens Hospital",
+  "subnets": {
+    "ipv4": [
+      "203.21.88.0/22"
+    ],
+    "ipv6": []
+  }
+}

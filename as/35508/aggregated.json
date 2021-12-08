@@ -1,0 +1,12 @@
+{
+  "asn": 35508,
+  "handle": "TERANET",
+  "description": "iHome LLC",
+  "subnets": {
+    "ipv4": [
+      "79.142.96.0/23",
+      "85.112.96.0/23"
+    ],
+    "ipv6": []
+  }
+}

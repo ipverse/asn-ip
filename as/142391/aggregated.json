@@ -1,0 +1,11 @@
+{
+  "asn": 142391,
+  "handle": "IDNIC-ANPAL-ID",
+  "description": "PT Anugerah Panca Laksana",
+  "subnets": {
+    "ipv4": [
+      "103.169.44.0/23"
+    ],
+    "ipv6": []
+  }
+}

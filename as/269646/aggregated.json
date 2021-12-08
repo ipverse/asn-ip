@@ -1,0 +1,13 @@
+{
+  "asn": 269646,
+  "handle": "M-C-B-DA-FONSECA-TELECOM-ME",
+  "description": "M C B DA FONSECA TELECOM - ME",
+  "subnets": {
+    "ipv4": [
+      "45.190.252.0/22"
+    ],
+    "ipv6": [
+      "2804:67b8::/32"
+    ]
+  }
+}

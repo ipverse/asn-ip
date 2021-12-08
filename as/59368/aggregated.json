@@ -1,0 +1,13 @@
+{
+  "asn": 59368,
+  "handle": "RGTECHNOLOGIES-AP",
+  "description": "R \u0026 G TECHNOLOGIES PTY LTD",
+  "subnets": {
+    "ipv4": [
+      "103.232.96.0/22"
+    ],
+    "ipv6": [
+      "2400:1bc0::/32"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 131423,
+  "handle": "LVHN-VN",
+  "description": "Branch of Long Van System Solution JSC - Hanoi",
+  "subnets": {
+    "ipv4": [
+      "45.119.212.0/22",
+      "103.48.192.0/22"
+    ],
+    "ipv6": []
+  }
+}

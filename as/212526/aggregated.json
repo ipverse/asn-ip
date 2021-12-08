@@ -1,0 +1,13 @@
+{
+  "asn": 212526,
+  "handle": "FREEDELITY",
+  "description": "Freedelity SA",
+  "subnets": {
+    "ipv4": [
+      "193.25.202.0/24"
+    ],
+    "ipv6": [
+      "2a06:8380::/29"
+    ]
+  }
+}

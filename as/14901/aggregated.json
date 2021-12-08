@@ -1,0 +1,13 @@
+{
+  "asn": 14901,
+  "handle": "TAOSNET-NEWMEX",
+  "description": "TAOS NET LLC",
+  "subnets": {
+    "ipv4": [
+      "209.188.112.0/20"
+    ],
+    "ipv6": [
+      "2602:ff85::/36"
+    ]
+  }
+}

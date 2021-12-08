@@ -1,0 +1,13 @@
+{
+  "asn": 263019,
+  "handle": "QUICKNET-TELECOM-LTDA-EPP",
+  "description": "QUICKNET TELECOM LTDA EPP",
+  "subnets": {
+    "ipv4": [
+      "177.10.168.0/22"
+    ],
+    "ipv6": [
+      "2804:2e0c::/32"
+    ]
+  }
+}

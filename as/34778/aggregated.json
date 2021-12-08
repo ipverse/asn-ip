@@ -1,0 +1,12 @@
+{
+  "asn": 34778,
+  "handle": "MENTOR-GRAPHICS",
+  "description": "Mentor Graphics (Ireland) Ltd.",
+  "subnets": {
+    "ipv4": [
+      "139.181.35.0/24",
+      "139.181.38.0/24"
+    ],
+    "ipv6": []
+  }
+}

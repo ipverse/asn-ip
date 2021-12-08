@@ -1,0 +1,11 @@
+{
+  "asn": 393470,
+  "handle": "BLACKLIST",
+  "description": "Mocan Media LLC",
+  "subnets": {
+    "ipv4": [
+      "192.40.46.0/24"
+    ],
+    "ipv6": []
+  }
+}

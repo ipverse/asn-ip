@@ -1,0 +1,14 @@
+{
+  "asn": 58979,
+  "handle": "CLOUDREGISTRY-AP",
+  "description": "Cloud Registry Pty Ltd",
+  "subnets": {
+    "ipv4": [
+      "103.5.92.0/23",
+      "103.5.95.0/24"
+    ],
+    "ipv6": [
+      "2402:8700::/32"
+    ]
+  }
+}

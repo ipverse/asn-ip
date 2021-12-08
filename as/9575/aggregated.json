@@ -1,0 +1,11 @@
+{
+  "asn": 9575,
+  "handle": "KCTC-KR-KR",
+  "description": "KCTC",
+  "subnets": {
+    "ipv4": [
+      "203.236.80.0/24"
+    ],
+    "ipv6": []
+  }
+}

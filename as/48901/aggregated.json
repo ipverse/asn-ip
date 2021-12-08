@@ -1,0 +1,11 @@
+{
+  "asn": 48901,
+  "handle": "DSNET-CSP",
+  "description": "DSNET Ltd",
+  "subnets": {
+    "ipv4": [
+      "81.90.136.0/23"
+    ],
+    "ipv6": []
+  }
+}

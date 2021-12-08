@@ -1,0 +1,13 @@
+{
+  "asn": 12685,
+  "handle": "SIBITEX",
+  "description": "Sibitex Ltd",
+  "subnets": {
+    "ipv4": [
+      "212.76.160.0/19"
+    ],
+    "ipv6": [
+      "2a02:5a60::/32"
+    ]
+  }
+}

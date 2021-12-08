@@ -1,0 +1,14 @@
+{
+  "asn": 269280,
+  "handle": "INARA-SILVA-COSTA",
+  "description": "INARA SILVA COSTA MOREIRA SERVICOS DE MULTIMIDIA",
+  "subnets": {
+    "ipv4": [
+      "45.182.92.0/23",
+      "45.182.94.0/24"
+    ],
+    "ipv6": [
+      "2804:622c::/32"
+    ]
+  }
+}

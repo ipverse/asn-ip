@@ -1,0 +1,13 @@
+{
+  "asn": 43383,
+  "handle": "CLOUD-DIRECT",
+  "description": "alwaysON Limited",
+  "subnets": {
+    "ipv4": [
+      "84.8.0.0/16"
+    ],
+    "ipv6": [
+      "2a02:230::/32"
+    ]
+  }
+}

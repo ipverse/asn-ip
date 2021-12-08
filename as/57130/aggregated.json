@@ -1,0 +1,12 @@
+{
+  "asn": 57130,
+  "handle": "SECPRAL",
+  "description": "Secpral COM SRL",
+  "subnets": {
+    "ipv4": [
+      "91.230.240.0/23",
+      "194.9.22.0/23"
+    ],
+    "ipv6": []
+  }
+}

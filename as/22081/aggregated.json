@@ -1,0 +1,12 @@
+{
+  "asn": 22081,
+  "handle": "CITILAB",
+  "description": "Citigroup",
+  "subnets": {
+    "ipv4": [
+      "199.67.158.0/24",
+      "199.67.168.0/24"
+    ],
+    "ipv6": []
+  }
+}

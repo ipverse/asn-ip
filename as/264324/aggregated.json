@@ -1,0 +1,13 @@
+{
+  "asn": 264324,
+  "handle": "GMAES-TELECOM-LTDA",
+  "description": "GMAES TELECOM LTDA",
+  "subnets": {
+    "ipv4": [
+      "138.122.92.0/22"
+    ],
+    "ipv6": [
+      "2804:2624::/36"
+    ]
+  }
+}

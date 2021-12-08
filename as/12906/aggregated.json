@@ -1,0 +1,11 @@
+{
+  "asn": 12906,
+  "handle": "DELTATRE",
+  "description": "Deltatre S.p.A.",
+  "subnets": {
+    "ipv4": [
+      "188.65.0.0/21"
+    ],
+    "ipv6": []
+  }
+}

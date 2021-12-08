@@ -1,0 +1,12 @@
+{
+  "asn": 61990,
+  "handle": "VAISALA",
+  "description": "Vaisala Oyj",
+  "subnets": {
+    "ipv4": [
+      "192.81.123.0/24",
+      "193.143.230.0/24"
+    ],
+    "ipv6": []
+  }
+}

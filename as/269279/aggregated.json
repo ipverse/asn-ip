@@ -1,0 +1,12 @@
+{
+  "asn": 269279,
+  "handle": "ARENA-TELECOM-COMERCIO",
+  "description": "ARENA TELECOM COMERCIO DE EQUIPAMENTOS DE INFORMA",
+  "subnets": {
+    "ipv4": [
+      "45.183.96.0/23",
+      "45.183.99.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 28628,
+  "handle": "ERICSSON-TELECOMUNICACOES-SA",
+  "description": "ERICSSON TELECOMUNICACOES S.A.",
+  "subnets": {
+    "ipv4": [
+      "198.24.1.0/24",
+      "198.24.4.0/23"
+    ],
+    "ipv6": []
+  }
+}

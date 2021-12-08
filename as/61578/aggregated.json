@@ -1,0 +1,13 @@
+{
+  "asn": 61578,
+  "handle": "ALIANCA-SISTEMAS-DE",
+  "description": "ALIANÇA SISTEMAS DE TELECOMUNICAÇÕES",
+  "subnets": {
+    "ipv4": [
+      "143.208.216.0/22"
+    ],
+    "ipv6": [
+      "2804:2b08::/32"
+    ]
+  }
+}

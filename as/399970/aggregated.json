@@ -1,0 +1,13 @@
+{
+  "asn": 399970,
+  "handle": "ARIN-RS-RND",
+  "description": "ARIN Routing Security",
+  "subnets": {
+    "ipv4": [
+      "149.112.152.0/22"
+    ],
+    "ipv6": [
+      "2602:fc3b::/36"
+    ]
+  }
+}

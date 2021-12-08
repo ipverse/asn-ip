@@ -1,0 +1,11 @@
+{
+  "asn": 203097,
+  "handle": "SOYUZ-UC",
+  "description": "Soyuz LLC",
+  "subnets": {
+    "ipv4": [
+      "91.107.112.0/24"
+    ],
+    "ipv6": []
+  }
+}

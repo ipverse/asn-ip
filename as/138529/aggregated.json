@@ -1,0 +1,11 @@
+{
+  "asn": 138529,
+  "handle": "DATANET-AP",
+  "description": "DATANET WIFI",
+  "subnets": {
+    "ipv4": [
+      "103.127.254.0/24"
+    ],
+    "ipv6": []
+  }
+}

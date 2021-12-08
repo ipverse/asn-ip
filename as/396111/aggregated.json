@@ -1,0 +1,12 @@
+{
+  "asn": 396111,
+  "handle": "BOSCH-IOT-CLOUD-US1",
+  "description": "Robert Bosch LLC",
+  "subnets": {
+    "ipv4": [
+      "209.221.254.0/23",
+      "216.213.52.0/22"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 266517,
+  "handle": "NEW-LIFE-TELECOM-EIRELI-EPP",
+  "description": "New Life Telecom Eireli EPP",
+  "subnets": {
+    "ipv4": [
+      "170.244.68.0/22"
+    ],
+    "ipv6": [
+      "2804:3900::/32"
+    ]
+  }
+}

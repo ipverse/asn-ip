@@ -1,0 +1,13 @@
+{
+  "asn": 17814,
+  "handle": "COMNET-AP-ASN2",
+  "description": "ComNet Telecom International Limited",
+  "subnets": {
+    "ipv4": [
+      "202.0.164.0/24",
+      "202.86.65.0/24",
+      "202.86.66.0/24"
+    ],
+    "ipv6": []
+  }
+}

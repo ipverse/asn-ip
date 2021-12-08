@@ -1,0 +1,11 @@
+{
+  "asn": 328666,
+  "handle": "CAMPASS-PLC",
+  "description": "CAMPASS PLC",
+  "subnets": {
+    "ipv4": [
+      "102.223.6.0/24"
+    ],
+    "ipv6": []
+  }
+}

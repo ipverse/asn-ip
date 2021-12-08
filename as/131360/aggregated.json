@@ -1,0 +1,11 @@
+{
+  "asn": 131360,
+  "handle": "BANKNET-VN",
+  "description": "VietNam national financial switching joint stock company",
+  "subnets": {
+    "ipv4": [
+      "103.9.4.0/22"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 210829,
+  "handle": "VITALVAS",
+  "description": "Vitaliy Vasylenko",
+  "subnets": {
+    "ipv4": [
+      "146.255.190.0/24"
+    ],
+    "ipv6": [
+      "2a11:ad80::/47",
+      "2a11:ad80:9a::/47"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 210252,
+  "handle": "MINTLY",
+  "description": "Mintly Oy",
+  "subnets": {
+    "ipv4": [
+      "193.23.20.0/22"
+    ],
+    "ipv6": [
+      "2a0d:5bc0::/32"
+    ]
+  }
+}

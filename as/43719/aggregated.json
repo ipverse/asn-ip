@@ -1,0 +1,13 @@
+{
+  "asn": 43719,
+  "handle": "IBM-LUXEMBOURG",
+  "description": "IBM Services Financial Sector Luxembourg Sarl",
+  "subnets": {
+    "ipv4": [
+      "91.198.126.0/24"
+    ],
+    "ipv6": [
+      "2001:67c:1b1c::/48"
+    ]
+  }
+}

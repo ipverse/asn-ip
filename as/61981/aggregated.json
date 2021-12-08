@@ -1,0 +1,13 @@
+{
+  "asn": 61981,
+  "handle": "MACH3NET",
+  "description": "Mach3net s.r.o.",
+  "subnets": {
+    "ipv4": [
+      "185.53.4.0/22"
+    ],
+    "ipv6": [
+      "2a01:bda0::/32"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 23644,
+  "handle": "INET-GSBEX-TH",
+  "description": "Internet Thailand Company Ltd.",
+  "subnets": {
+    "ipv4": [
+      "203.151.18.0/24",
+      "203.155.238.0/24"
+    ],
+    "ipv6": []
+  }
+}

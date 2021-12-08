@@ -1,0 +1,13 @@
+{
+  "asn": 271071,
+  "handle": "NAVEGAI-SERVICOS-DE",
+  "description": "NAVEGAI SERVICOS DE TELECOMUNICACOES E INFORMATICA",
+  "subnets": {
+    "ipv4": [
+      "179.48.92.0/22"
+    ],
+    "ipv6": [
+      "2804:75d0::/32"
+    ]
+  }
+}

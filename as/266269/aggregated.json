@@ -1,0 +1,13 @@
+{
+  "asn": 266269,
+  "handle": "MV-TELECOM",
+  "description": "MV TELECOM",
+  "subnets": {
+    "ipv4": [
+      "170.78.96.0/22"
+    ],
+    "ipv6": [
+      "2804:351c::/32"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 270878,
+  "handle": "SPEEDNET-FIBRA",
+  "description": "SPEEDNET FIBRA",
+  "subnets": {
+    "ipv4": [
+      "186.194.0.0/22"
+    ],
+    "ipv6": [
+      "2804:72d4::/32"
+    ]
+  }
+}

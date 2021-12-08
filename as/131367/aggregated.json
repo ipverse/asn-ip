@@ -1,0 +1,12 @@
+{
+  "asn": 131367,
+  "handle": "VONLINE-VN",
+  "description": "Viet Online trading service corporation",
+  "subnets": {
+    "ipv4": [
+      "45.118.148.0/22",
+      "103.20.148.0/22"
+    ],
+    "ipv6": []
+  }
+}

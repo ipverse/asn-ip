@@ -1,0 +1,13 @@
+{
+  "asn": 44998,
+  "handle": "GOBIERNOCANARIAS",
+  "description": "GOBIERNO DE CANARIAS",
+  "subnets": {
+    "ipv4": [
+      "93.188.136.0/21"
+    ],
+    "ipv6": [
+      "2a00:c840::/32"
+    ]
+  }
+}

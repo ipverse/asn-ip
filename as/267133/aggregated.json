@@ -1,0 +1,13 @@
+{
+  "asn": 267133,
+  "handle": "ZHA-SERVICO-DE",
+  "description": "ZHA Servico de Comunicacao Multimidia LTDA",
+  "subnets": {
+    "ipv4": [
+      "45.229.200.0/22"
+    ],
+    "ipv6": [
+      "2804:489c::/32"
+    ]
+  }
+}

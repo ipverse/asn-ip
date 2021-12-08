@@ -1,0 +1,13 @@
+{
+  "asn": 271131,
+  "handle": "GIGA-SUL-TELECOM",
+  "description": "Giga Sul Telecom",
+  "subnets": {
+    "ipv4": [
+      "179.42.72.0/22"
+    ],
+    "ipv6": [
+      "2804:76bc:ffc0::/42"
+    ]
+  }
+}

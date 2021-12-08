@@ -1,0 +1,11 @@
+{
+  "asn": 132284,
+  "handle": "RADIO-NEW-ZEALAND-AP",
+  "description": "Radio New Zealand",
+  "subnets": {
+    "ipv4": [
+      "103.14.3.0/24"
+    ],
+    "ipv6": []
+  }
+}

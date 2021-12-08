@@ -1,0 +1,13 @@
+{
+  "asn": 17567,
+  "handle": "IREX-KR-KR",
+  "description": "Airport Railroad Co ltd",
+  "subnets": {
+    "ipv4": [
+      "59.17.186.0/24",
+      "59.17.188.0/24",
+      "211.170.43.0/24"
+    ],
+    "ipv6": []
+  }
+}

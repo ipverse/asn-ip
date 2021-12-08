@@ -1,0 +1,11 @@
+{
+  "asn": 19144,
+  "handle": "UPMC-SUSQ",
+  "description": "UPMC",
+  "subnets": {
+    "ipv4": [
+      "50.202.239.0/24"
+    ],
+    "ipv6": []
+  }
+}

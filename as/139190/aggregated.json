@@ -1,0 +1,13 @@
+{
+  "asn": 139190,
+  "handle": "GOOGLE-AP",
+  "description": "Google Asia Pacific Pte. Ltd.",
+  "subnets": {
+    "ipv4": [
+      "34.101.0.0/16"
+    ],
+    "ipv6": [
+      "2404:f340:4000::/34"
+    ]
+  }
+}

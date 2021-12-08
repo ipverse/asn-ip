@@ -1,0 +1,12 @@
+{
+  "asn": 49326,
+  "handle": "PACKGROUP",
+  "description": "ZAO Agency PACTUR",
+  "subnets": {
+    "ipv4": [
+      "77.105.145.0/24",
+      "195.14.56.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 269031,
+  "handle": "LIKE-PROVEDOR-DE",
+  "description": "LIKE PROVEDOR DE INTERNET LTDA",
+  "subnets": {
+    "ipv4": [
+      "45.177.60.0/22"
+    ],
+    "ipv6": [
+      "2804:5e68::/32"
+    ]
+  }
+}

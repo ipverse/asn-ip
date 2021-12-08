@@ -1,0 +1,13 @@
+{
+  "asn": 265364,
+  "handle": "ITLINK-TELECOM-LTDA",
+  "description": "ITlink Telecom LTDA",
+  "subnets": {
+    "ipv4": [
+      "168.205.88.0/22"
+    ],
+    "ipv6": [
+      "2804:2ec0::/32"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asn": 41070,
+  "handle": "ARTEM-CATV",
+  "description": "LLC Lorien",
+  "subnets": {
+    "ipv4": [
+      "94.198.216.0/21"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 58401,
+  "handle": "DETELNETWORKS-ID",
+  "description": "PT. DEWATA TELEMATIKA",
+  "subnets": {
+    "ipv4": [
+      "103.23.141.0/24",
+      "103.134.78.0/24"
+    ],
+    "ipv6": []
+  }
+}

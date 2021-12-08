@@ -1,0 +1,12 @@
+{
+  "asn": 13057,
+  "handle": "AP-MOLLER-MAERSK",
+  "description": "A.P. Moller - Maersk A/S",
+  "subnets": {
+    "ipv4": [
+      "62.44.36.0/23",
+      "193.163.240.0/24"
+    ],
+    "ipv6": []
+  }
+}

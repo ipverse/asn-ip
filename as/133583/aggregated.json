@@ -1,0 +1,13 @@
+{
+  "asn": 133583,
+  "handle": "DCSL-AP",
+  "description": "Digicel Carrier Services (Pacific) Limited",
+  "subnets": {
+    "ipv4": [
+      "103.76.32.0/22"
+    ],
+    "ipv6": [
+      "2407:6080::/32"
+    ]
+  }
+}

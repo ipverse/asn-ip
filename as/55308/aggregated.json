@@ -1,0 +1,13 @@
+{
+  "asn": 55308,
+  "handle": "MPI-VN",
+  "description": "Informatics Center-Ministry of Planning and Investment",
+  "subnets": {
+    "ipv4": [
+      "182.236.112.0/22"
+    ],
+    "ipv6": [
+      "2001:df5:3080::/48"
+    ]
+  }
+}

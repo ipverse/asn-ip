@@ -1,0 +1,13 @@
+{
+  "asn": 270429,
+  "handle": "TELEMULTI-FIBER-LTDA",
+  "description": "Telemulti Fiber Ltda.",
+  "subnets": {
+    "ipv4": [
+      "190.111.148.0/22"
+    ],
+    "ipv6": [
+      "2804:6bd8::/32"
+    ]
+  }
+}

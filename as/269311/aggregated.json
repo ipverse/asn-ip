@@ -1,0 +1,13 @@
+{
+  "asn": 269311,
+  "handle": "DNET-BRASIL-LTDA",
+  "description": "DNET BRASIL LTDA",
+  "subnets": {
+    "ipv4": [
+      "45.184.44.0/22"
+    ],
+    "ipv6": [
+      "2804:62ac::/32"
+    ]
+  }
+}

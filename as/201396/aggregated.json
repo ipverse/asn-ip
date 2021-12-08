@@ -1,0 +1,14 @@
+{
+  "asn": 201396,
+  "handle": "ORNG-NORD",
+  "description": "GoeTel GmbH",
+  "subnets": {
+    "ipv4": [
+      "185.75.148.0/24",
+      "188.74.44.0/22"
+    ],
+    "ipv6": [
+      "2a03:4b21::/32"
+    ]
+  }
+}

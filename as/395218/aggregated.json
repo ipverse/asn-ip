@@ -1,0 +1,12 @@
+{
+  "asn": 395218,
+  "handle": "GATESCORP",
+  "description": "GATES CORPORATION",
+  "subnets": {
+    "ipv4": [
+      "8.44.141.0/24",
+      "65.121.44.0/24"
+    ],
+    "ipv6": []
+  }
+}

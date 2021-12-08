@@ -1,0 +1,14 @@
+{
+  "asn": 207968,
+  "handle": "RAPPET",
+  "description": "Raphael Romeo Peters",
+  "subnets": {
+    "ipv4": [
+      "195.39.220.0/24"
+    ],
+    "ipv6": [
+      "2a0e:46c6::/40",
+      "2a0e:b107:d0::/44"
+    ]
+  }
+}

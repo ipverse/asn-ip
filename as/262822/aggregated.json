@@ -1,0 +1,13 @@
+{
+  "asn": 262822,
+  "handle": "WE-RADIO-COMUNICACOES",
+  "description": "WE RADIO COMUNICAÇÕES LTDA EPP",
+  "subnets": {
+    "ipv4": [
+      "186.249.64.0/20"
+    ],
+    "ipv6": [
+      "2804:28c::/32"
+    ]
+  }
+}

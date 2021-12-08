@@ -1,0 +1,11 @@
+{
+  "asn": 30865,
+  "handle": "TAS-IX",
+  "description": "TAS-IX NGO Center for interoperability data",
+  "subnets": {
+    "ipv4": [
+      "185.224.219.0/24"
+    ],
+    "ipv6": []
+  }
+}

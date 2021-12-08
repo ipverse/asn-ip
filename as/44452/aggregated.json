@@ -1,0 +1,11 @@
+{
+  "asn": 44452,
+  "handle": "NETIQ",
+  "description": "netIQ s.r.o.",
+  "subnets": {
+    "ipv4": [
+      "185.177.8.0/22"
+    ],
+    "ipv6": []
+  }
+}

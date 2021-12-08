@@ -1,0 +1,12 @@
+{
+  "asn": 55662,
+  "handle": "IDNIC-CITRAWEB-ID",
+  "description": "CV. CITRAWEB NUSA INFOMEDIA",
+  "subnets": {
+    "ipv4": [
+      "103.71.8.0/24",
+      "103.71.10.0/24"
+    ],
+    "ipv6": []
+  }
+}

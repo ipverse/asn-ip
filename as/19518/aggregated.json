@@ -1,0 +1,15 @@
+{
+  "asn": 19518,
+  "handle": "ROCKISLAND",
+  "description": "Rock Island Communications",
+  "subnets": {
+    "ipv4": [
+      "64.119.0.0/20",
+      "198.163.74.0/24",
+      "207.32.160.0/20"
+    ],
+    "ipv6": [
+      "2605:1500::/32"
+    ]
+  }
+}

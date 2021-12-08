@@ -1,0 +1,18 @@
+{
+  "asn": 8613,
+  "handle": "DAISY-CORPORATE-SERVICES",
+  "description": "Daisy Corporate Services Trading Ltd",
+  "subnets": {
+    "ipv4": [
+      "163.119.6.0/23",
+      "163.119.192.0/18",
+      "185.8.204.0/22",
+      "195.200.128.0/19",
+      "212.102.192.0/19"
+    ],
+    "ipv6": [
+      "2001:67c:13a8::/48",
+      "2a00:b300::/32"
+    ]
+  }
+}

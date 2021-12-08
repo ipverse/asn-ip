@@ -1,0 +1,13 @@
+{
+  "asn": 59990,
+  "handle": "NETRUNNER",
+  "description": "Netrunner Anna Polak",
+  "subnets": {
+    "ipv4": [
+      "91.246.76.0/22"
+    ],
+    "ipv6": [
+      "2a00:1d60:f000::/36"
+    ]
+  }
+}

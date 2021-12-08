@@ -1,0 +1,12 @@
+{
+  "asn": 138590,
+  "handle": "PRIMENETWORKS-AP",
+  "description": "Prime Networks",
+  "subnets": {
+    "ipv4": [
+      "103.134.1.0/24",
+      "103.134.2.0/23"
+    ],
+    "ipv6": []
+  }
+}

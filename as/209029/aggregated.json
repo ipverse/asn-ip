@@ -1,0 +1,12 @@
+{
+  "asn": 209029,
+  "handle": "STS-CLOUD",
+  "description": "Specialized Technical Services (STS) Co.Ltd",
+  "subnets": {
+    "ipv4": [
+      "2.59.53.0/24",
+      "2.59.54.0/23"
+    ],
+    "ipv6": []
+  }
+}

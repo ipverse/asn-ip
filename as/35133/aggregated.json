@@ -1,0 +1,13 @@
+{
+  "asn": 35133,
+  "handle": "HYBULA",
+  "description": "Hybula B.V.",
+  "subnets": {
+    "ipv4": [
+      "2.58.59.0/24"
+    ],
+    "ipv6": [
+      "2a09:e240:1::/48"
+    ]
+  }
+}

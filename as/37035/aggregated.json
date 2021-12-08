@@ -1,0 +1,14 @@
+{
+  "asn": 37035,
+  "handle": "MIC",
+  "description": "MIC TANZANIA LTD",
+  "subnets": {
+    "ipv4": [
+      "41.222.176.0/21",
+      "154.74.0.0/15"
+    ],
+    "ipv6": [
+      "2c0f:f0c0::/31"
+    ]
+  }
+}

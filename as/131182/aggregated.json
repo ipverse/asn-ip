@@ -1,0 +1,13 @@
+{
+  "asn": 131182,
+  "handle": "CROSSPOINT-AP",
+  "description": "Crosspoint Telecommunications Pty Ltd",
+  "subnets": {
+    "ipv4": [
+      "103.36.248.0/23"
+    ],
+    "ipv6": [
+      "2001:df0:c200::/48"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 264514,
+  "handle": "DESCALNET-PROVEDOR-LTDA-ME",
+  "description": "DESCALNET PROVEDOR LTDA - ME",
+  "subnets": {
+    "ipv4": [
+      "132.255.216.0/22"
+    ],
+    "ipv6": [
+      "2804:20c8::/32"
+    ]
+  }
+}

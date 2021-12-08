@@ -1,0 +1,13 @@
+{
+  "asn": 61756,
+  "handle": "NETPONTAL-PROVEDOR-DE",
+  "description": "NETPONTAL PROVEDOR DE INTERNET LTDA - ME",
+  "subnets": {
+    "ipv4": [
+      "131.100.72.0/22"
+    ],
+    "ipv6": [
+      "2804:1be8::/32"
+    ]
+  }
+}

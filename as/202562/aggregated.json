@@ -1,0 +1,16 @@
+{
+  "asn": 202562,
+  "handle": "APERTURE-NETWORKS",
+  "description": "Roelf Wichertjes",
+  "subnets": {
+    "ipv4": [
+      "185.186.64.0/24"
+    ],
+    "ipv6": [
+      "2a0b:6b83::/32",
+      "2a0b:6b86:3fa::/48",
+      "2a0b:6b86:3fc::/48",
+      "2a0b:6b86:3ff::/48"
+    ]
+  }
+}

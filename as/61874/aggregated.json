@@ -1,0 +1,13 @@
+{
+  "asn": 61874,
+  "handle": "SR-DA-SILVA-TELECOMUNICACOES",
+  "description": "S.R. da Silva Telecomunicaçoes",
+  "subnets": {
+    "ipv4": [
+      "131.0.56.0/22"
+    ],
+    "ipv6": [
+      "2804:1aa8::/32"
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 47454,
+  "handle": "SXTNORTH",
+  "description": "60 North ApS",
+  "subnets": {
+    "ipv4": [
+      "45.80.40.0/23",
+      "45.80.42.0/24"
+    ],
+    "ipv6": [
+      "2a0e:3a80::/32"
+    ]
+  }
+}

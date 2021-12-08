@@ -1,0 +1,13 @@
+{
+  "asn": 263480,
+  "handle": "TELNET-SERVICOS-EM",
+  "description": "TELNET - SERVIÇOS EM TELECOMUNICAÇÕES EIRELI - EPP",
+  "subnets": {
+    "ipv4": [
+      "191.242.204.0/22"
+    ],
+    "ipv6": [
+      "2804:1280::/32"
+    ]
+  }
+}

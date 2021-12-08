@@ -1,0 +1,13 @@
+{
+  "asn": 203537,
+  "handle": "ANTISATELECOM",
+  "description": "ANTISA TELECOM S.L.",
+  "subnets": {
+    "ipv4": [
+      "185.130.28.0/22",
+      "185.242.100.0/22",
+      "193.163.126.0/24"
+    ],
+    "ipv6": []
+  }
+}

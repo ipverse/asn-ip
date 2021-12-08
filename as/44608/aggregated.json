@@ -1,0 +1,12 @@
+{
+  "asn": 44608,
+  "handle": "UBF",
+  "description": "United Broadcast Facilities b.v.",
+  "subnets": {
+    "ipv4": [
+      "91.199.177.0/24",
+      "91.230.46.0/24"
+    ],
+    "ipv6": []
+  }
+}

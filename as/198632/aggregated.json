@@ -1,0 +1,11 @@
+{
+  "asn": 198632,
+  "handle": "EE-ESTPAK-IPT",
+  "description": "Telia Eesti AS",
+  "subnets": {
+    "ipv4": [
+      "85.89.32.0/19"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asn": 140552,
+  "handle": "CBBANK-AP",
+  "description": "Co-operative Bank Public Company Limited",
+  "subnets": {
+    "ipv4": [
+      "103.150.78.0/23"
+    ],
+    "ipv6": []
+  }
+}

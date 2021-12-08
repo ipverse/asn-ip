@@ -1,0 +1,14 @@
+{
+  "asn": 32767,
+  "handle": "SAPIOTERRA",
+  "description": "SAPIOTERRA, LLC",
+  "subnets": {
+    "ipv4": [
+      "162.253.124.0/22",
+      "192.70.246.0/23"
+    ],
+    "ipv6": [
+      "2607:c080::/32"
+    ]
+  }
+}

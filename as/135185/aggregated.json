@@ -1,0 +1,12 @@
+{
+  "asn": 135185,
+  "handle": "ATOZINFO-IN",
+  "description": "ATOZ INFOLINK PVT. LTD.",
+  "subnets": {
+    "ipv4": [
+      "103.112.234.0/24",
+      "103.217.249.0/24"
+    ],
+    "ipv6": []
+  }
+}

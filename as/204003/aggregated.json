@@ -1,0 +1,12 @@
+{
+  "asn": 204003,
+  "handle": "ORTGIES-IT",
+  "description": "Jan-Eric Ortgies",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a06:e881:5800::/45",
+      "2a06:e881:580a::/48"
+    ]
+  }
+}

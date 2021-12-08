@@ -1,0 +1,12 @@
+{
+  "asn": 62637,
+  "handle": "MOUND-1",
+  "description": "MOUNDVILLE TELEPHONE COMPANY, INC.",
+  "subnets": {
+    "ipv4": [
+      "137.119.112.0/22",
+      "137.119.116.0/23"
+    ],
+    "ipv6": []
+  }
+}

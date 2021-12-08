@@ -1,0 +1,12 @@
+{
+  "asn": 137999,
+  "handle": "QUINTRON-SYSTEMS-LIMITED",
+  "description": "ISL HK LTD",
+  "subnets": {
+    "ipv4": [
+      "103.248.77.0/24",
+      "103.248.78.0/23"
+    ],
+    "ipv6": []
+  }
+}

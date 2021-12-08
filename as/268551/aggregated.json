@@ -1,0 +1,13 @@
+{
+  "asn": 268551,
+  "handle": "DMC-TELECOM",
+  "description": "DMC TELECOM",
+  "subnets": {
+    "ipv4": [
+      "45.163.76.0/22"
+    ],
+    "ipv6": [
+      "2804:52f0::/32"
+    ]
+  }
+}

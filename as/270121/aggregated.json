@@ -1,0 +1,13 @@
+{
+  "asn": 270121,
+  "handle": "HERFLOR-TI-SA-DE-CV",
+  "description": "Herflor TI S.A. de C.V.",
+  "subnets": {
+    "ipv4": [
+      "190.123.4.0/22"
+    ],
+    "ipv6": [
+      "2806:3c2::/32"
+    ]
+  }
+}

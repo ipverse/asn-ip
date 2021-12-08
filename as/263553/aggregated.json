@@ -1,0 +1,14 @@
+{
+  "asn": 263553,
+  "handle": "GIGANET-INTERNET-E",
+  "description": "GIGANET INTERNET E INFORMATICA",
+  "subnets": {
+    "ipv4": [
+      "170.245.80.0/22",
+      "186.237.152.0/21"
+    ],
+    "ipv6": [
+      "2804:edc::/32"
+    ]
+  }
+}

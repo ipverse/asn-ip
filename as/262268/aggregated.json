@@ -1,0 +1,13 @@
+{
+  "asn": 262268,
+  "handle": "MAX-NET-TELECOMUNICACOES",
+  "description": "MAX NET TELECOMUNICACOES",
+  "subnets": {
+    "ipv4": [
+      "177.23.88.0/21"
+    ],
+    "ipv6": [
+      "2804:a4c::/32"
+    ]
+  }
+}

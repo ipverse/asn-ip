@@ -1,0 +1,15 @@
+{
+  "asn": 206163,
+  "handle": "TBTNET-TELEKOM",
+  "description": "TBTNET TELEKOM LTD. STI.",
+  "subnets": {
+    "ipv4": [
+      "185.194.172.0/22",
+      "194.156.236.0/22"
+    ],
+    "ipv6": [
+      "2a07:f280::/29",
+      "2a0a:86c0::/29"
+    ]
+  }
+}

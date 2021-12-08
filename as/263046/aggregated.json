@@ -1,0 +1,14 @@
+{
+  "asn": 263046,
+  "handle": "NOVANET-TELECOMUNICACOES-LTDA",
+  "description": "NOVANET TELECOMUNICAÇÕES LTDA ME",
+  "subnets": {
+    "ipv4": [
+      "168.90.28.0/22",
+      "177.129.200.0/22"
+    ],
+    "ipv6": [
+      "2804:904::/32"
+    ]
+  }
+}

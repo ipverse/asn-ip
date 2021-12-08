@@ -1,0 +1,12 @@
+{
+  "asn": 58211,
+  "handle": "WS24",
+  "description": "Marco Zebut",
+  "subnets": {
+    "ipv4": [
+      "194.187.140.0/22",
+      "194.213.0.0/24"
+    ],
+    "ipv6": []
+  }
+}

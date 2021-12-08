@@ -1,0 +1,12 @@
+{
+  "asn": 52923,
+  "handle": "NETCAR-INTERNET-TELEC",
+  "description": "Netcar Internet Telec Info e Tecnologia LTDA",
+  "subnets": {
+    "ipv4": [
+      "45.231.144.0/23",
+      "177.184.176.0/20"
+    ],
+    "ipv6": []
+  }
+}

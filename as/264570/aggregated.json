@@ -1,0 +1,13 @@
+{
+  "asn": 264570,
+  "handle": "RIOTEL-TELECOMUNICACOES-LESTE",
+  "description": "RIOTEL TELECOMUNICAÇÕES LESTE- RTL",
+  "subnets": {
+    "ipv4": [
+      "138.36.40.0/22"
+    ],
+    "ipv6": [
+      "2804:21bc::/32"
+    ]
+  }
+}

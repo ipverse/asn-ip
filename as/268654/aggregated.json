@@ -1,0 +1,13 @@
+{
+  "asn": 268654,
+  "handle": "NOVAFIBRA-SC",
+  "description": "NOVAFIBRA SC",
+  "subnets": {
+    "ipv4": [
+      "45.165.4.0/22"
+    ],
+    "ipv6": [
+      "2804:5480::/32"
+    ]
+  }
+}

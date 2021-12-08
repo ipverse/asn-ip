@@ -1,0 +1,11 @@
+{
+  "asn": 25832,
+  "handle": "CIA-DE-PROCESSAMENTO",
+  "description": "Cia. de Processamento de Dados do Estado da Bahia",
+  "subnets": {
+    "ipv4": [
+      "200.187.0.0/18"
+    ],
+    "ipv6": []
+  }
+}

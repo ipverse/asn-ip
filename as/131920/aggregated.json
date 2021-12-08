@@ -1,0 +1,13 @@
+{
+  "asn": 131920,
+  "handle": "WI-GATE2",
+  "description": "WirelessGate, Inc.",
+  "subnets": {
+    "ipv4": [
+      "219.100.28.0/22"
+    ],
+    "ipv6": [
+      "2405:9ac0::/32"
+    ]
+  }
+}

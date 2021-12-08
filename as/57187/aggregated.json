@@ -1,0 +1,14 @@
+{
+  "asn": 57187,
+  "handle": "DATAMENA",
+  "description": "Emirates Integrated Telecommunications Company PJSC",
+  "subnets": {
+    "ipv4": [
+      "94.207.32.0/20"
+    ],
+    "ipv6": [
+      "2a00:f28:20::/48",
+      "2a00:f28:2000::/36"
+    ]
+  }
+}

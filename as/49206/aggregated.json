@@ -1,0 +1,13 @@
+{
+  "asn": 49206,
+  "handle": "PEAKFACTORY",
+  "description": "PeakFactory BV",
+  "subnets": {
+    "ipv4": [
+      "185.41.48.0/22"
+    ],
+    "ipv6": [
+      "2a00:6fa0::/32"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 266383,
+  "handle": "TENNET-PROVEDOR",
+  "description": "TENNET Provedor",
+  "subnets": {
+    "ipv4": [
+      "170.80.196.0/22"
+    ],
+    "ipv6": [
+      "2804:36f8::/32"
+    ]
+  }
+}

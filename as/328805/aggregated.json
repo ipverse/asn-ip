@@ -1,0 +1,13 @@
+{
+  "asn": 328805,
+  "handle": "ZAPTECH",
+  "description": "ZAPTECH LIMITED",
+  "subnets": {
+    "ipv4": [
+      "102.220.184.0/22"
+    ],
+    "ipv6": [
+      "2c0f:5c00::/32"
+    ]
+  }
+}

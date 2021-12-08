@@ -1,0 +1,13 @@
+{
+  "asn": 138523,
+  "handle": "SCSL-AP",
+  "description": "Sylhet Communcation Systems Limited",
+  "subnets": {
+    "ipv4": [
+      "103.127.180.0/22"
+    ],
+    "ipv6": [
+      "2404:2640:8000::/36"
+    ]
+  }
+}

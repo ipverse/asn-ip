@@ -1,0 +1,11 @@
+{
+  "asn": 3284,
+  "handle": "SERVICECLOUD",
+  "description": "ServiceCloud Ltd.",
+  "subnets": {
+    "ipv4": [
+      "141.101.181.0/24"
+    ],
+    "ipv6": []
+  }
+}

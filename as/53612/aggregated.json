@@ -1,0 +1,14 @@
+{
+  "asn": 53612,
+  "handle": "EMM",
+  "description": "EMM Consulting, LLC",
+  "subnets": {
+    "ipv4": [
+      "44.190.31.0/24",
+      "130.51.162.0/23"
+    ],
+    "ipv6": [
+      "2602:fd80::/36"
+    ]
+  }
+}

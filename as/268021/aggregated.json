@@ -1,0 +1,13 @@
+{
+  "asn": 268021,
+  "handle": "ODARA-INTERNET-LTDA",
+  "description": "Odara Internet Ltda",
+  "subnets": {
+    "ipv4": [
+      "45.167.178.0/23"
+    ],
+    "ipv6": [
+      "2804:56c0::/32"
+    ]
+  }
+}

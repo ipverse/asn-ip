@@ -1,0 +1,12 @@
+{
+  "asn": 208720,
+  "handle": "ROS-LTD",
+  "description": "LLC Rosinfokom",
+  "subnets": {
+    "ipv4": [
+      "91.232.188.0/24",
+      "185.160.36.0/22"
+    ],
+    "ipv6": []
+  }
+}

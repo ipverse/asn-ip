@@ -1,0 +1,11 @@
+{
+  "asn": 268393,
+  "handle": "LINKTECH-PROVEDOR-DE-INTERNET",
+  "description": "LINKTECH PROVEDOR DE INTERNET",
+  "subnets": {
+    "ipv4": [
+      "45.160.48.0/22"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 20116,
+  "handle": "CAIXA-ECONOMICA-FEDERAL",
+  "description": "CAIXA ECONOMICA FEDERAL",
+  "subnets": {
+    "ipv4": [
+      "200.201.160.0/20"
+    ],
+    "ipv6": [
+      "2801:b4::/48"
+    ]
+  }
+}

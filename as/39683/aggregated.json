@@ -1,0 +1,12 @@
+{
+  "asn": 39683,
+  "handle": "NETPOINT-SERVICES",
+  "description": "Netpoint Services Ltd.",
+  "subnets": {
+    "ipv4": [
+      "5.61.96.0/21",
+      "195.189.224.0/23"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 131268,
+  "handle": "SCRC-NETWORK-AP",
+  "description": "Sunshine Coast Regional Council",
+  "subnets": {
+    "ipv4": [
+      "103.35.92.0/22",
+      "202.4.188.0/24"
+    ],
+    "ipv6": []
+  }
+}

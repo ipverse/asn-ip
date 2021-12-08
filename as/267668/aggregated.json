@@ -1,0 +1,13 @@
+{
+  "asn": 267668,
+  "handle": "GIGAWEB-TECNOLOGIA",
+  "description": "Gigaweb Tecnologia",
+  "subnets": {
+    "ipv4": [
+      "45.224.72.0/22"
+    ],
+    "ipv6": [
+      "2804:4508::/32"
+    ]
+  }
+}

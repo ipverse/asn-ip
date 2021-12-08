@@ -1,0 +1,12 @@
+{
+  "asn": 137819,
+  "handle": "BEEKS-AP",
+  "description": "Beeks Financial Cloud (Japan)",
+  "subnets": {
+    "ipv4": [
+      "103.100.74.0/23",
+      "185.232.198.0/24"
+    ],
+    "ipv6": []
+  }
+}

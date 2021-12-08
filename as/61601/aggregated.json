@@ -1,0 +1,13 @@
+{
+  "asn": 61601,
+  "handle": "FRIENDS-PROVEDOR-DE",
+  "description": "Friends Provedor de Internet LTDA",
+  "subnets": {
+    "ipv4": [
+      "201.77.148.0/22"
+    ],
+    "ipv6": [
+      "2804:6a14::/32"
+    ]
+  }
+}

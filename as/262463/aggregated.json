@@ -1,0 +1,14 @@
+{
+  "asn": 262463,
+  "handle": "TELECOM-CORDEIROPOLIS-LTDA-ME",
+  "description": "TELECOM CORDEIROPOLIS LTDA - ME",
+  "subnets": {
+    "ipv4": [
+      "177.53.80.0/21",
+      "186.249.24.0/21"
+    ],
+    "ipv6": [
+      "2804:f1c::/32"
+    ]
+  }
+}

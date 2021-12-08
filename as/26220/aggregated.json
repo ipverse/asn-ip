@@ -1,0 +1,12 @@
+{
+  "asn": 26220,
+  "handle": "ANALYSISGROUP",
+  "description": "Analysis Group, Inc.",
+  "subnets": {
+    "ipv4": [
+      "208.85.77.0/24",
+      "208.85.78.0/23"
+    ],
+    "ipv6": []
+  }
+}

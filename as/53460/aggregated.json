@@ -1,0 +1,12 @@
+{
+  "asn": 53460,
+  "handle": "MONCRETELCO",
+  "description": "Mon-Cre Telephone Cooperative, Inc.",
+  "subnets": {
+    "ipv4": [
+      "146.88.216.0/21",
+      "162.213.240.0/21"
+    ],
+    "ipv6": []
+  }
+}

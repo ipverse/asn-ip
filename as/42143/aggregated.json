@@ -1,0 +1,11 @@
+{
+  "asn": 42143,
+  "handle": "IR-IRANAIRPORTS",
+  "description": "Iran Airports \u0026 Air Navigation Company (Private Joint Stock)",
+  "subnets": {
+    "ipv4": [
+      "185.207.52.0/22"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 271867,
+  "handle": "MARIO-BENAVIDES-SERVICIO",
+  "description": "MARIO BENAVIDES SERVICIO DE TELEVISION POR CABLE E.I.R.L (CABLEVISION DEL SUR)",
+  "subnets": {
+    "ipv4": [
+      "200.36.208.0/22"
+    ],
+    "ipv6": [
+      "2803:c10::/32"
+    ]
+  }
+}

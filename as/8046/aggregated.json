@@ -1,0 +1,13 @@
+{
+  "asn": 8046,
+  "handle": "NAPANET",
+  "description": "NapaNet",
+  "subnets": {
+    "ipv4": [
+      "206.81.96.0/21"
+    ],
+    "ipv6": [
+      "2001:470:de::/48"
+    ]
+  }
+}

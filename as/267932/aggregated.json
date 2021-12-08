@@ -1,0 +1,13 @@
+{
+  "asn": 267932,
+  "handle": "CENTRAL-INFORMATION-TECHNOLOGY",
+  "description": "CENTRAL INFORMATION TECHNOLOGY OFFICE (CITO)",
+  "subnets": {
+    "ipv4": [
+      "45.180.120.0/22"
+    ],
+    "ipv6": [
+      "2803:160::/32"
+    ]
+  }
+}

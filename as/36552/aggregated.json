@@ -1,0 +1,11 @@
+{
+  "asn": 36552,
+  "handle": "HBSI-IAD",
+  "description": "Hotel Booking Solutions Incorporated",
+  "subnets": {
+    "ipv4": [
+      "64.191.217.0/24"
+    ],
+    "ipv6": []
+  }
+}

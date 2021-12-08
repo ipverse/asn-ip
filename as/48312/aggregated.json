@@ -1,0 +1,12 @@
+{
+  "asn": 48312,
+  "handle": "ALROSA",
+  "description": "PJSC ALROSA",
+  "subnets": {
+    "ipv4": [
+      "91.202.234.0/23",
+      "91.207.140.0/23"
+    ],
+    "ipv6": []
+  }
+}

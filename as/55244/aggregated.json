@@ -1,0 +1,13 @@
+{
+  "asn": 55244,
+  "handle": "BLUE-01",
+  "description": "Blue Origin Enterprises, L.P.",
+  "subnets": {
+    "ipv4": [
+      "192.16.76.0/22"
+    ],
+    "ipv6": [
+      "2602:802:2000::/40"
+    ]
+  }
+}

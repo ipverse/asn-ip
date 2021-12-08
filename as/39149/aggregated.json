@@ -1,0 +1,13 @@
+{
+  "asn": 39149,
+  "handle": "STS-NETWORKS",
+  "description": "RIN TRANS ACTIV SRL",
+  "subnets": {
+    "ipv4": [
+      "195.135.194.0/24"
+    ],
+    "ipv6": [
+      "2001:678:7dc::/48"
+    ]
+  }
+}

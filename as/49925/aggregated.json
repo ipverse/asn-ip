@@ -1,0 +1,13 @@
+{
+  "asn": 49925,
+  "handle": "STHNET",
+  "description": "LLC South Networks",
+  "subnets": {
+    "ipv4": [
+      "194.190.24.0/22",
+      "194.226.111.0/24",
+      "195.208.108.0/24"
+    ],
+    "ipv6": []
+  }
+}

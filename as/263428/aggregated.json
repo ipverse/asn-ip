@@ -1,0 +1,13 @@
+{
+  "asn": 263428,
+  "handle": "COOP-TRABALHO-PROF",
+  "description": "Iowa Communications Network",
+  "subnets": {
+    "ipv4": [
+      "177.91.37.0/24"
+    ],
+    "ipv6": [
+      "2801:80:850::/48"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 393681,
+  "handle": "ALL-BLUE-SOLUTIONS-INC",
+  "description": "All Blue Solutions Inc.",
+  "subnets": {
+    "ipv4": [
+      "192.67.64.0/23"
+    ],
+    "ipv6": [
+      "2620:ab:4000::/48"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 46911,
+  "handle": "HSMNDC2-1",
+  "description": "Healthsense INC",
+  "subnets": {
+    "ipv4": [
+      "68.65.0.0/21",
+      "68.65.8.0/22"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 328702,
+  "handle": "ADN",
+  "description": "Agence pour le Developpement du NumÃ©rique",
+  "subnets": {
+    "ipv4": [
+      "102.222.216.0/22",
+      "192.196.24.0/21"
+    ],
+    "ipv6": []
+  }
+}

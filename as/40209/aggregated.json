@@ -1,0 +1,14 @@
+{
+  "asn": 40209,
+  "handle": "WICKED-EH-01",
+  "description": "Wicked EH Incorporated",
+  "subnets": {
+    "ipv4": [
+      "23.132.160.0/24",
+      "172.83.252.0/22"
+    ],
+    "ipv6": [
+      "2604:cfc0::/32"
+    ]
+  }
+}

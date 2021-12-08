@@ -1,0 +1,13 @@
+{
+  "asn": 395282,
+  "handle": "HYPERTECDCS",
+  "description": "9512128 Canada Inc.",
+  "subnets": {
+    "ipv4": [
+      "38.74.2.0/24",
+      "45.61.12.0/24",
+      "159.18.5.0/24"
+    ],
+    "ipv6": []
+  }
+}

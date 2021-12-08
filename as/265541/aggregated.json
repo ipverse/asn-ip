@@ -1,0 +1,12 @@
+{
+  "asn": 265541,
+  "handle": "OPERBES-SA-DE-CV",
+  "description": "Operbes, S.A. de C.V.",
+  "subnets": {
+    "ipv4": [
+      "189.204.164.0/23",
+      "189.204.208.0/24"
+    ],
+    "ipv6": []
+  }
+}

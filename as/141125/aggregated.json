@@ -1,0 +1,11 @@
+{
+  "asn": 141125,
+  "handle": "RADMILA-ID",
+  "description": "PT Radmila Pratama Multireka",
+  "subnets": {
+    "ipv4": [
+      "103.158.98.0/23"
+    ],
+    "ipv6": []
+  }
+}

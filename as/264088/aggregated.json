@@ -1,0 +1,11 @@
+{
+  "asn": 264088,
+  "handle": "MATRIX-INTERNET",
+  "description": "Matrix Internet",
+  "subnets": {
+    "ipv4": [
+      "143.208.4.0/22"
+    ],
+    "ipv6": []
+  }
+}

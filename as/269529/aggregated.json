@@ -1,0 +1,13 @@
+{
+  "asn": 269529,
+  "handle": "M2-TELECOMUNICACAO",
+  "description": "M2 TELECOMUNICAÇÃO",
+  "subnets": {
+    "ipv4": [
+      "45.188.180.0/22"
+    ],
+    "ipv6": [
+      "2804:6608::/32"
+    ]
+  }
+}

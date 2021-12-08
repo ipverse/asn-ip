@@ -1,0 +1,13 @@
+{
+  "asn": 139543,
+  "handle": "MAHABAL-IN",
+  "description": "MAHABAL NET SERVICE PROVIDER PRIVATE LIMITED",
+  "subnets": {
+    "ipv4": [
+      "103.171.188.0/23"
+    ],
+    "ipv6": [
+      "2001:df7:7b80::/48"
+    ]
+  }
+}

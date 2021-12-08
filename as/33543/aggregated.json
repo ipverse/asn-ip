@@ -1,0 +1,12 @@
+{
+  "asn": 33543,
+  "handle": "NOBEL-129",
+  "description": "NobelBiz, Inc.",
+  "subnets": {
+    "ipv4": [
+      "63.149.88.0/24",
+      "65.248.16.0/24"
+    ],
+    "ipv6": []
+  }
+}

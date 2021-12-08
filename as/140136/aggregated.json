@@ -1,0 +1,11 @@
+{
+  "asn": 140136,
+  "handle": "SAMLCN",
+  "description": "Samleswari Cable Network",
+  "subnets": {
+    "ipv4": [
+      "103.161.32.0/24"
+    ],
+    "ipv6": []
+  }
+}

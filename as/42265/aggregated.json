@@ -1,0 +1,13 @@
+{
+  "asn": 42265,
+  "handle": "KSYJKL",
+  "description": "Konesali Yhtio Jyvaskyla Oy",
+  "subnets": {
+    "ipv4": [
+      "185.227.44.0/22"
+    ],
+    "ipv6": [
+      "2a0c:9600::/29"
+    ]
+  }
+}

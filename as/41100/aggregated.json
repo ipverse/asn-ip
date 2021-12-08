@@ -1,0 +1,11 @@
+{
+  "asn": 41100,
+  "handle": "IT-ENET-IGPDECAUX",
+  "description": "IGP Decaux spa",
+  "subnets": {
+    "ipv4": [
+      "193.219.109.0/24"
+    ],
+    "ipv6": []
+  }
+}

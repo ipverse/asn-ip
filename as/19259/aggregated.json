@@ -1,0 +1,12 @@
+{
+  "asn": 19259,
+  "handle": "TODITOCOM-SA-DE-CV",
+  "description": "ADT Security Services, Inc.",
+  "subnets": {
+    "ipv4": [
+      "200.23.36.0/23",
+      "200.23.92.0/23"
+    ],
+    "ipv6": []
+  }
+}

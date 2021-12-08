@@ -1,0 +1,14 @@
+{
+  "asn": 53721,
+  "handle": "CORETELLIGENT",
+  "description": "Coretelligent, LLC",
+  "subnets": {
+    "ipv4": [
+      "38.123.231.0/24",
+      "131.239.17.0/24",
+      "173.243.230.0/23",
+      "192.138.164.0/24"
+    ],
+    "ipv6": []
+  }
+}

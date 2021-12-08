@@ -1,0 +1,13 @@
+{
+  "asn": 197202,
+  "handle": "KISTLER",
+  "description": "Kistler Instrumente AG",
+  "subnets": {
+    "ipv4": [
+      "91.223.79.0/24"
+    ],
+    "ipv6": [
+      "2a0b:d5c1:100::/40"
+    ]
+  }
+}

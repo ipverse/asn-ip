@@ -1,0 +1,13 @@
+{
+  "asn": 3592,
+  "handle": "TRINCOLL",
+  "description": "Trinity College",
+  "subnets": {
+    "ipv4": [
+      "157.252.0.0/16",
+      "192.31.112.0/24",
+      "192.107.134.0/24"
+    ],
+    "ipv6": []
+  }
+}

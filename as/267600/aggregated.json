@@ -1,0 +1,13 @@
+{
+  "asn": 267600,
+  "handle": "INFORTEK-PROVEDOR",
+  "description": "INFORTEK PROVEDOR",
+  "subnets": {
+    "ipv4": [
+      "45.71.60.0/22"
+    ],
+    "ipv6": [
+      "2804:43f0::/32"
+    ]
+  }
+}

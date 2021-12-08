@@ -1,0 +1,13 @@
+{
+  "asn": 203144,
+  "handle": "EPG",
+  "description": "Euro Payment Group GmbH",
+  "subnets": {
+    "ipv4": [
+      "185.28.172.0/22"
+    ],
+    "ipv6": [
+      "2a00:a0a0::/46"
+    ]
+  }
+}

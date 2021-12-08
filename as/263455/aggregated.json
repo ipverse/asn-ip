@@ -1,0 +1,13 @@
+{
+  "asn": 263455,
+  "handle": "LEV-TELECOM",
+  "description": "LEV Telecom",
+  "subnets": {
+    "ipv4": [
+      "177.190.132.0/22"
+    ],
+    "ipv6": [
+      "2804:1214::/32"
+    ]
+  }
+}

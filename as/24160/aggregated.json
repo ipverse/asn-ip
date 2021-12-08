@@ -1,0 +1,11 @@
+{
+  "asn": 24160,
+  "handle": "CHIMEI",
+  "description": "Chi Mei Corporation",
+  "subnets": {
+    "ipv4": [
+      "203.160.144.0/20"
+    ],
+    "ipv6": []
+  }
+}

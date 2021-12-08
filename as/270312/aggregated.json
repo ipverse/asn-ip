@@ -1,0 +1,13 @@
+{
+  "asn": 270312,
+  "handle": "INET-PROVEDOR-DE-ACESSO-LTDA",
+  "description": "INET PROVEDOR DE ACESSO LTDA",
+  "subnets": {
+    "ipv4": [
+      "200.108.160.0/22"
+    ],
+    "ipv6": [
+      "2804:6a18::/32"
+    ]
+  }
+}

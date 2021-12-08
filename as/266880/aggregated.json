@@ -1,0 +1,13 @@
+{
+  "asn": 266880,
+  "handle": "BENALCAZAR-ROMERO-LEONARDO",
+  "description": "BENALCAZAR ROMERO LEONARDO ISRAEL (MAXXNET)",
+  "subnets": {
+    "ipv4": [
+      "45.225.44.0/23"
+    ],
+    "ipv6": [
+      "2803:d220::/32"
+    ]
+  }
+}

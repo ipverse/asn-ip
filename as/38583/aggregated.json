@@ -1,0 +1,13 @@
+{
+  "asn": 38583,
+  "handle": "ASEIT-AP",
+  "description": "ASE IT Networks",
+  "subnets": {
+    "ipv4": [
+      "103.249.127.0/24",
+      "113.29.244.0/22",
+      "203.20.69.0/24"
+    ],
+    "ipv6": []
+  }
+}

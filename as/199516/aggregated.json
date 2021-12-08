@@ -1,0 +1,13 @@
+{
+  "asn": 199516,
+  "handle": "PACKNET",
+  "description": "PACKNET LIMITED",
+  "subnets": {
+    "ipv4": [
+      "185.13.80.0/22"
+    ],
+    "ipv6": [
+      "2a02:f380::/29"
+    ]
+  }
+}

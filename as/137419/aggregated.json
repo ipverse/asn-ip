@@ -1,0 +1,13 @@
+{
+  "asn": 137419,
+  "handle": "MILLENIUMCOMPUTER-AP",
+  "description": "Millenium Computer",
+  "subnets": {
+    "ipv4": [
+      "103.107.228.0/22"
+    ],
+    "ipv6": [
+      "2402:5fc0::/32"
+    ]
+  }
+}

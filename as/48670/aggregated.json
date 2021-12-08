@@ -1,0 +1,13 @@
+{
+  "asn": 48670,
+  "handle": "UNIS",
+  "description": "UNIS Ltd.",
+  "subnets": {
+    "ipv4": [
+      "94.230.160.0/21"
+    ],
+    "ipv6": [
+      "2a00:e9e0::/32"
+    ]
+  }
+}

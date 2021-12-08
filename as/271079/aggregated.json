@@ -1,0 +1,13 @@
+{
+  "asn": 271079,
+  "handle": "ASA-SANNRES-TELECOM-LTDA-ME",
+  "description": "Asa-Sannres Telecom Ltda-ME",
+  "subnets": {
+    "ipv4": [
+      "181.191.136.0/22"
+    ],
+    "ipv6": [
+      "2804:75f0::/32"
+    ]
+  }
+}

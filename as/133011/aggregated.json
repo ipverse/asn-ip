@@ -1,0 +1,13 @@
+{
+  "asn": 133011,
+  "handle": "MOBIINDIA",
+  "description": "Mobiwalkers",
+  "subnets": {
+    "ipv4": [
+      "103.14.196.0/24",
+      "103.14.198.0/23",
+      "103.253.171.0/24"
+    ],
+    "ipv6": []
+  }
+}

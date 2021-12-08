@@ -1,0 +1,13 @@
+{
+  "asn": 132596,
+  "handle": "HPES-NZCS-NST",
+  "description": "Hewlett-Packard Australia Pty Ltd",
+  "subnets": {
+    "ipv4": [
+      "139.73.209.0/24",
+      "139.73.223.0/24",
+      "202.2.15.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 40886,
+  "handle": "PRAC",
+  "description": "Plymouth Rock Assurance Corporation",
+  "subnets": {
+    "ipv4": [
+      "12.195.11.0/24",
+      "205.153.88.0/24",
+      "205.153.90.0/23"
+    ],
+    "ipv6": []
+  }
+}

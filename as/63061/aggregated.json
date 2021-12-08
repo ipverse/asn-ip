@@ -1,0 +1,12 @@
+{
+  "asn": 63061,
+  "handle": "CARLSONWAGONLITTRAVEL",
+  "description": "Carlson Wagonlit Travel, Inc",
+  "subnets": {
+    "ipv4": [
+      "198.177.6.0/23",
+      "207.229.90.0/23"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 19184,
+  "handle": "UWECNET",
+  "description": "University of Wisconsin - Eau Claire",
+  "subnets": {
+    "ipv4": [
+      "137.28.0.0/16",
+      "192.133.95.0/24",
+      "192.231.219.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 395899,
+  "handle": "CSI160",
+  "description": "Commission Scolaire des Iles",
+  "subnets": {
+    "ipv4": [
+      "23.139.128.0/24"
+    ],
+    "ipv6": [
+      "2620:14:2000::/48"
+    ]
+  }
+}

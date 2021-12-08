@@ -1,0 +1,16 @@
+{
+  "asn": 53013,
+  "handle": "W-I-X-NET-DO-BRASIL-LTDA-ME",
+  "description": "W I X NET DO BRASIL LTDA - ME",
+  "subnets": {
+    "ipv4": [
+      "177.67.80.0/21",
+      "209.14.7.0/24",
+      "209.14.155.0/24",
+      "209.14.228.0/23"
+    ],
+    "ipv6": [
+      "2804:574::/32"
+    ]
+  }
+}

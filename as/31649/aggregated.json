@@ -1,0 +1,13 @@
+{
+  "asn": 31649,
+  "handle": "RIPN-FDNS-RU-NYC",
+  "description": "Joint-stock company Internet Exchange MSK-IX",
+  "subnets": {
+    "ipv4": [
+      "193.232.141.0/24"
+    ],
+    "ipv6": [
+      "2001:67c:1443::/48"
+    ]
+  }
+}

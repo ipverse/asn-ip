@@ -1,0 +1,14 @@
+{
+  "asn": 264005,
+  "handle": "ROCKETNET-LTDA",
+  "description": "RocketNET LTDA",
+  "subnets": {
+    "ipv4": [
+      "143.0.148.0/22",
+      "168.194.48.0/22"
+    ],
+    "ipv6": [
+      "2804:293c::/32"
+    ]
+  }
+}

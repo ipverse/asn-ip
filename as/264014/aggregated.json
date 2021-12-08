@@ -1,0 +1,13 @@
+{
+  "asn": 264014,
+  "handle": "LED-INTERNET-EIRELI",
+  "description": "Led Internet Eireli",
+  "subnets": {
+    "ipv4": [
+      "143.0.164.0/22"
+    ],
+    "ipv6": [
+      "2804:296c::/32"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 51064,
+  "handle": "GITD-PL",
+  "description": "Glowny Inspektorat Transportu Drogowego",
+  "subnets": {
+    "ipv4": [
+      "91.198.20.0/24",
+      "91.216.125.0/24"
+    ],
+    "ipv6": []
+  }
+}

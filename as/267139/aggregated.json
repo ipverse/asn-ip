@@ -1,0 +1,13 @@
+{
+  "asn": 267139,
+  "handle": "MUNDOCLICK-TELECOM",
+  "description": "MundoClick Telecom",
+  "subnets": {
+    "ipv4": [
+      "45.229.164.0/22"
+    ],
+    "ipv6": [
+      "2804:48b4::/32"
+    ]
+  }
+}

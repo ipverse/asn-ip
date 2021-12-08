@@ -1,0 +1,11 @@
+{
+  "asn": 269267,
+  "handle": "PROLINK-SERVIDOR",
+  "description": "PROLINK SERVIDOR",
+  "subnets": {
+    "ipv4": [
+      "45.182.56.0/22"
+    ],
+    "ipv6": []
+  }
+}

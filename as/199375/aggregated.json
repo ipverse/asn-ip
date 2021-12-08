@@ -1,0 +1,12 @@
+{
+  "asn": 199375,
+  "handle": "TPG",
+  "description": "TELEPERFORMANCE HELLAS SA",
+  "subnets": {
+    "ipv4": [
+      "185.19.44.0/23",
+      "185.19.46.0/24"
+    ],
+    "ipv6": []
+  }
+}

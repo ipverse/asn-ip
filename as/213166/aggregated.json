@@ -1,0 +1,12 @@
+{
+  "asn": 213166,
+  "handle": "UA-HOSTING",
+  "description": "UA-Hosting SIA",
+  "subnets": {
+    "ipv4": [
+      "91.194.110.0/24",
+      "154.59.127.0/24"
+    ],
+    "ipv6": []
+  }
+}

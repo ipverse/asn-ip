@@ -1,0 +1,14 @@
+{
+  "asn": 40916,
+  "handle": "EVALSE",
+  "description": "Evalse, LLC",
+  "subnets": {
+    "ipv4": [
+      "163.123.155.0/24"
+    ],
+    "ipv6": [
+      "2602:fcff::/48",
+      "2a07:22c1:ffe1::/48"
+    ]
+  }
+}

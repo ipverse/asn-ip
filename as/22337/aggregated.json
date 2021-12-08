@@ -1,0 +1,11 @@
+{
+  "asn": 22337,
+  "handle": "DTBNET",
+  "description": "DVS Solutions",
+  "subnets": {
+    "ipv4": [
+      "198.91.74.0/23"
+    ],
+    "ipv6": []
+  }
+}

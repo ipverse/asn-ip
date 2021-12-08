@@ -1,0 +1,13 @@
+{
+  "asn": 52626,
+  "handle": "NOVANET-PROVEDOR-E-WEB-LTDA",
+  "description": "NovaNet Provedor e Web Ltda",
+  "subnets": {
+    "ipv4": [
+      "179.189.192.0/20"
+    ],
+    "ipv6": [
+      "2804:d70::/32"
+    ]
+  }
+}

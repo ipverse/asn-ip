@@ -1,0 +1,13 @@
+{
+  "asn": 52040,
+  "handle": "KITEJ-TELECOM",
+  "description": "Kitej-Telecom LLC",
+  "subnets": {
+    "ipv4": [
+      "91.221.200.0/23",
+      "91.237.200.0/22",
+      "194.60.236.0/22"
+    ],
+    "ipv6": []
+  }
+}

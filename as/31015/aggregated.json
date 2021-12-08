@@ -1,0 +1,11 @@
+{
+  "asn": 31015,
+  "handle": "HILL-KNOWLTON",
+  "description": "Hill and Knowlton Strategies",
+  "subnets": {
+    "ipv4": [
+      "38.99.156.0/24"
+    ],
+    "ipv6": []
+  }
+}

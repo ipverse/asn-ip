@@ -1,0 +1,12 @@
+{
+  "asn": 137788,
+  "handle": "BEACON",
+  "description": "Shanxi Beacon Cloudscape",
+  "subnets": {
+    "ipv4": [
+      "103.117.220.0/22",
+      "103.122.48.0/22"
+    ],
+    "ipv6": []
+  }
+}

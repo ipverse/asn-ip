@@ -1,0 +1,12 @@
+{
+  "asn": 269441,
+  "handle": "MUNDO-FIBRA",
+  "description": "MUNDO FIBRA",
+  "subnets": {
+    "ipv4": [
+      "45.185.36.0/23",
+      "45.185.38.0/24"
+    ],
+    "ipv6": []
+  }
+}

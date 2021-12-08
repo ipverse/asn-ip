@@ -1,0 +1,15 @@
+{
+  "asn": 43073,
+  "handle": "DANAR-WOJTYSIAK",
+  "description": "Artur Wojtysiak trading as Danar Wojtysiak",
+  "subnets": {
+    "ipv4": [
+      "45.128.108.0/22",
+      "91.233.136.0/22",
+      "91.240.106.0/23",
+      "193.32.36.0/24",
+      "195.136.104.0/24"
+    ],
+    "ipv6": []
+  }
+}

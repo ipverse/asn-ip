@@ -1,0 +1,13 @@
+{
+  "asn": 35441,
+  "handle": "AJI",
+  "description": "A. Judicko individuali imone",
+  "subnets": {
+    "ipv4": [
+      "45.66.196.0/22",
+      "84.32.112.0/23",
+      "88.216.88.0/23"
+    ],
+    "ipv6": []
+  }
+}

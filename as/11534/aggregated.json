@@ -1,0 +1,11 @@
+{
+  "asn": 11534,
+  "handle": "PHILA-SCHOOL-DISTRICT",
+  "description": "School District of Philadelphia",
+  "subnets": {
+    "ipv4": [
+      "170.235.0.0/16"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 31438,
+  "handle": "SWMR",
+  "description": "Stadtwerke Marburg GmbH",
+  "subnets": {
+    "ipv4": [
+      "83.137.64.0/21",
+      "212.89.192.0/19"
+    ],
+    "ipv6": []
+  }
+}

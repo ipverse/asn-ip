@@ -1,0 +1,14 @@
+{
+  "asn": 268644,
+  "handle": "ELETROCHIP-INFORMATICA-E",
+  "description": "Eletrochip Informática e Telecomunicações Ltda.",
+  "subnets": {
+    "ipv4": [
+      "45.163.16.0/23"
+    ],
+    "ipv6": [
+      "2804:5458:1000::/36",
+      "2804:5458:2000::/36"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asn": 45589,
+  "handle": "ENERGYAUST",
+  "description": "Ausgrid",
+  "subnets": {
+    "ipv4": [
+      "163.8.0.0/16"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 266985,
+  "handle": "CONECTJET-LAGOS-INTERNET",
+  "description": "CONECTJET LAGOS INTERNET BANDA LARGA LTDA - ME",
+  "subnets": {
+    "ipv4": [
+      "45.226.52.0/22"
+    ],
+    "ipv6": [
+      "2804:465c::/32"
+    ]
+  }
+}

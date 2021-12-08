@@ -1,0 +1,12 @@
+{
+  "asn": 9025,
+  "handle": "SIX-USA",
+  "description": "SIX Group Services AG",
+  "subnets": {
+    "ipv4": [
+      "153.46.30.0/23",
+      "153.46.162.0/23"
+    ],
+    "ipv6": []
+  }
+}

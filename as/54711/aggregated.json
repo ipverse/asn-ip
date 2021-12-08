@@ -1,0 +1,12 @@
+{
+  "asn": 54711,
+  "handle": "HMS",
+  "description": "Healthcare Management Systems, Inc.",
+  "subnets": {
+    "ipv4": [
+      "74.202.39.0/24",
+      "198.105.48.0/20"
+    ],
+    "ipv6": []
+  }
+}

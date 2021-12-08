@@ -1,0 +1,12 @@
+{
+  "asn": 399291,
+  "handle": "FIBERNETPR",
+  "description": "Puerto Rico Fiber Network Inc",
+  "subnets": {
+    "ipv4": [
+      "104.238.192.0/24",
+      "154.64.217.0/24"
+    ],
+    "ipv6": []
+  }
+}

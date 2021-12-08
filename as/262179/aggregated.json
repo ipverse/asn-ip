@@ -1,0 +1,11 @@
+{
+  "asn": 262179,
+  "handle": "TELENETWORK-DE-EL-SALVADOR",
+  "description": "Telenetwork de El Salvador",
+  "subnets": {
+    "ipv4": [
+      "168.243.88.0/21"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 62417,
+  "handle": "DIGITALK-CLOUD-THW",
+  "description": "DIGITALK Limited",
+  "subnets": {
+    "ipv4": [
+      "185.32.78.0/23",
+      "185.231.78.0/24"
+    ],
+    "ipv6": []
+  }
+}

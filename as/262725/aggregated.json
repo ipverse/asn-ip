@@ -1,0 +1,15 @@
+{
+  "asn": 262725,
+  "handle": "RG-SILVEIRA-LTDA",
+  "description": "RG SILVEIRA LTDA",
+  "subnets": {
+    "ipv4": [
+      "186.192.0.0/20",
+      "186.235.64.0/20"
+    ],
+    "ipv6": [
+      "2804:3360::/32",
+      "2804:6464::/32"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 264215,
+  "handle": "WLENET-TELECOM",
+  "description": "Wlenet Telecom",
+  "subnets": {
+    "ipv4": [
+      "138.99.132.0/22"
+    ],
+    "ipv6": [
+      "2804:2454::/32"
+    ]
+  }
+}

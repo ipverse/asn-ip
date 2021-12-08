@@ -1,0 +1,11 @@
+{
+  "asn": 10897,
+  "handle": "CAMARA-DOS-DEPUTADOS",
+  "description": "Camara dos Deputados",
+  "subnets": {
+    "ipv4": [
+      "200.219.132.0/22"
+    ],
+    "ipv6": []
+  }
+}

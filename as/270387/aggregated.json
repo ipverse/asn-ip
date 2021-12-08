@@ -1,0 +1,13 @@
+{
+  "asn": 270387,
+  "handle": "FJNET-TELECON-ME",
+  "description": "FJNET-TELECON -ME",
+  "subnets": {
+    "ipv4": [
+      "190.89.112.0/22"
+    ],
+    "ipv6": [
+      "2804:6b3c::/32"
+    ]
+  }
+}

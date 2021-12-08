@@ -1,0 +1,11 @@
+{
+  "asn": 17875,
+  "handle": "ECBANK-KR-KR",
+  "description": "ec-bank",
+  "subnets": {
+    "ipv4": [
+      "211.183.67.0/24"
+    ],
+    "ipv6": []
+  }
+}

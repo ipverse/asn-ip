@@ -1,0 +1,13 @@
+{
+  "asn": 33292,
+  "handle": "BROADVOICE-BOS",
+  "description": "SYNDEO LLC",
+  "subnets": {
+    "ipv4": [
+      "206.15.130.0/23",
+      "206.15.132.0/22",
+      "206.15.140.0/22"
+    ],
+    "ipv6": []
+  }
+}

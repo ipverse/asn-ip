@@ -1,0 +1,13 @@
+{
+  "asn": 266922,
+  "handle": "GNS-TELECOM",
+  "description": "GNS TELECOM",
+  "subnets": {
+    "ipv4": [
+      "45.224.136.0/22"
+    ],
+    "ipv6": [
+      "2804:4560::/32"
+    ]
+  }
+}

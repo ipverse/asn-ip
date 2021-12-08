@@ -1,0 +1,11 @@
+{
+  "asn": 57330,
+  "handle": "SHARK-NETWORK",
+  "description": "Shark Network Limited",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2001:67c:2964::/48"
+    ]
+  }
+}

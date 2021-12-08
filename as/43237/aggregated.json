@@ -1,0 +1,12 @@
+{
+  "asn": 43237,
+  "handle": "SSNET",
+  "description": "Svyaz-Service Ltd.",
+  "subnets": {
+    "ipv4": [
+      "194.8.72.0/23",
+      "195.114.20.0/23"
+    ],
+    "ipv6": []
+  }
+}

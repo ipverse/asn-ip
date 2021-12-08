@@ -1,0 +1,11 @@
+{
+  "asn": 56234,
+  "handle": "NARATEL-ID",
+  "description": "PT Naraya Telematika",
+  "subnets": {
+    "ipv4": [
+      "117.103.68.0/22"
+    ],
+    "ipv6": []
+  }
+}

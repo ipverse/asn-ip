@@ -1,0 +1,13 @@
+{
+  "asn": 264119,
+  "handle": "UBA-CONECT-TELECOM-LTDA-ME",
+  "description": "UBA CONECT TELECOM LTDA - ME",
+  "subnets": {
+    "ipv4": [
+      "138.59.216.0/22"
+    ],
+    "ipv6": [
+      "2804:22bc::/32"
+    ]
+  }
+}

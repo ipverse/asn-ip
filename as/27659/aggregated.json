@@ -1,0 +1,12 @@
+{
+  "asn": 27659,
+  "handle": "INGENIERIA-E-INFORMATICA",
+  "description": "Ingeniería e Informática Asociada Ltda (IIA Ltda)",
+  "subnets": {
+    "ipv4": [
+      "190.14.48.0/20",
+      "200.6.96.0/19"
+    ],
+    "ipv6": []
+  }
+}

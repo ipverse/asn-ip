@@ -1,0 +1,17 @@
+{
+  "asn": 12303,
+  "handle": "ISZT",
+  "description": "Council of Hungarian Internet Providers",
+  "subnets": {
+    "ipv4": [
+      "5.28.0.0/21",
+      "193.41.47.0/24",
+      "193.239.148.0/23"
+    ],
+    "ipv6": [
+      "2001:738:4::/48",
+      "2a00:e6a0::/32",
+      "2a0f:7ec0:100::/48"
+    ]
+  }
+}

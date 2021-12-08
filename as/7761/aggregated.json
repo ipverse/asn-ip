@@ -1,0 +1,11 @@
+{
+  "asn": 7761,
+  "handle": "MORNINGSTAR",
+  "description": "Morningstar, Inc.",
+  "subnets": {
+    "ipv4": [
+      "206.220.16.0/24"
+    ],
+    "ipv6": []
+  }
+}

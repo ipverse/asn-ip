@@ -1,0 +1,13 @@
+{
+  "asn": 269163,
+  "handle": "L-O-LEANDRO-INTERNET-ME",
+  "description": "L. O. LEANDRO INTERNET - ME",
+  "subnets": {
+    "ipv4": [
+      "45.181.24.0/22"
+    ],
+    "ipv6": [
+      "2804:6060:c000::/34"
+    ]
+  }
+}

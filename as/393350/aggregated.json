@@ -1,0 +1,13 @@
+{
+  "asn": 393350,
+  "handle": "TELTRUST",
+  "description": "Teltrust Corp.",
+  "subnets": {
+    "ipv4": [
+      "198.147.219.0/24"
+    ],
+    "ipv6": [
+      "2001:470:58::/48"
+    ]
+  }
+}

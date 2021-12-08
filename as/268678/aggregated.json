@@ -1,0 +1,13 @@
+{
+  "asn": 268678,
+  "handle": "CSI-SOLUCOES-TECNOLOGICAS",
+  "description": "CSI SOLUCOES TECNOLOGICAS LTDA",
+  "subnets": {
+    "ipv4": [
+      "45.165.148.0/22"
+    ],
+    "ipv6": [
+      "2804:54ec::/32"
+    ]
+  }
+}

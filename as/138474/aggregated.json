@@ -1,0 +1,11 @@
+{
+  "asn": 138474,
+  "handle": "CIRCLENETWORK-AP",
+  "description": "Ashulia Network",
+  "subnets": {
+    "ipv4": [
+      "103.126.148.0/22"
+    ],
+    "ipv6": []
+  }
+}

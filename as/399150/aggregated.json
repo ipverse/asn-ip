@@ -1,0 +1,13 @@
+{
+  "asn": 399150,
+  "handle": "ISPEXCHANGECORP",
+  "description": "ispexchangecorp",
+  "subnets": {
+    "ipv4": [
+      "52.128.192.0/19",
+      "95.164.224.0/22",
+      "95.164.236.0/22"
+    ],
+    "ipv6": []
+  }
+}

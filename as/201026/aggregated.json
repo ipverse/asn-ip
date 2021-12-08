@@ -1,0 +1,13 @@
+{
+  "asn": 201026,
+  "handle": "ZALNOC",
+  "description": "Zalando SE",
+  "subnets": {
+    "ipv4": [
+      "185.85.220.0/22"
+    ],
+    "ipv6": [
+      "2a05:aec0::/29"
+    ]
+  }
+}

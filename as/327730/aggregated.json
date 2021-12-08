@@ -1,0 +1,11 @@
+{
+  "asn": 327730,
+  "handle": "PPF",
+  "description": "PPF PENSION FUND",
+  "subnets": {
+    "ipv4": [
+      "196.11.255.0/24"
+    ],
+    "ipv6": []
+  }
+}

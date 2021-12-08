@@ -1,0 +1,11 @@
+{
+  "asn": 27836,
+  "handle": "SMARTCOM",
+  "description": "Smartcom",
+  "subnets": {
+    "ipv4": [
+      "191.117.64.0/18"
+    ],
+    "ipv6": []
+  }
+}

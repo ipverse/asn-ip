@@ -1,0 +1,11 @@
+{
+  "asn": 134778,
+  "handle": "IRTRUST-AP",
+  "description": "Illawarra Retirement Trust",
+  "subnets": {
+    "ipv4": [
+      "103.5.106.0/24"
+    ],
+    "ipv6": []
+  }
+}

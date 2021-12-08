@@ -1,0 +1,13 @@
+{
+  "asn": 51523,
+  "handle": "GYMN-PERSPEKTIVA",
+  "description": "MOU gymnasium Perspektiva g.o. Samara",
+  "subnets": {
+    "ipv4": [
+      "194.190.158.0/23"
+    ],
+    "ipv6": [
+      "2001:67c:430::/48"
+    ]
+  }
+}

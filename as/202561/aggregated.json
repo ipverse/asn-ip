@@ -1,0 +1,12 @@
+{
+  "asn": 202561,
+  "handle": "HIGHSPEED",
+  "description": "High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.",
+  "subnets": {
+    "ipv4": [
+      "185.200.36.0/22",
+      "194.124.36.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 268714,
+  "handle": "MURILLO-AQUISANER-VIEIRA",
+  "description": "MURILLO AQUISANER VIEIRA",
+  "subnets": {
+    "ipv4": [
+      "45.171.136.0/22"
+    ],
+    "ipv6": [
+      "2804:59a0:1000::/36",
+      "2804:59a0:c000::/36"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asn": 139401,
+  "handle": "PSPNET-ID",
+  "description": "PT PELANGI SURYA PERSADA",
+  "subnets": {
+    "ipv4": [
+      "103.142.182.0/23"
+    ],
+    "ipv6": []
+  }
+}

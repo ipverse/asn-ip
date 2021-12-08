@@ -1,0 +1,11 @@
+{
+  "asn": 268047,
+  "handle": "MASTERINFO-INTERNET",
+  "description": "Masterinfo Internet",
+  "subnets": {
+    "ipv4": [
+      "45.168.4.0/22"
+    ],
+    "ipv6": []
+  }
+}

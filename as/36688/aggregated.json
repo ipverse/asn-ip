@@ -1,0 +1,13 @@
+{
+  "asn": 36688,
+  "handle": "GALILEO-PROCESSING",
+  "description": "Galileo Financial Technologies, Inc.",
+  "subnets": {
+    "ipv4": [
+      "198.203.4.0/24",
+      "199.73.116.0/22",
+      "208.79.116.0/22"
+    ],
+    "ipv6": []
+  }
+}

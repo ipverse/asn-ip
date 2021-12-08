@@ -1,0 +1,13 @@
+{
+  "asn": 63862,
+  "handle": "PASCALNET-ID",
+  "description": "PT Pascal Solusi Nusantara",
+  "subnets": {
+    "ipv4": [
+      "103.49.28.0/22"
+    ],
+    "ipv6": [
+      "2401:f980::/32"
+    ]
+  }
+}

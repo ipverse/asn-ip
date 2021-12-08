@@ -1,0 +1,12 @@
+{
+  "asn": 134258,
+  "handle": "BHAWANI-IN",
+  "description": "Bhawani Cable and Broadband Services",
+  "subnets": {
+    "ipv4": [
+      "103.197.220.0/22",
+      "157.119.168.0/22"
+    ],
+    "ipv6": []
+  }
+}

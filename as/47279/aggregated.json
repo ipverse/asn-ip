@@ -1,0 +1,13 @@
+{
+  "asn": 47279,
+  "handle": "TPIP",
+  "description": "Travelping GmbH",
+  "subnets": {
+    "ipv4": [
+      "185.97.179.0/24"
+    ],
+    "ipv6": [
+      "2a03:4340::/32"
+    ]
+  }
+}

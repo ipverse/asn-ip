@@ -1,0 +1,14 @@
+{
+  "asn": 43830,
+  "handle": "DIGITALENERGY",
+  "description": "Digital Energy LLC",
+  "subnets": {
+    "ipv4": [
+      "31.40.251.0/24",
+      "45.134.255.0/24",
+      "176.118.164.0/23",
+      "185.193.143.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 41312,
+  "handle": "BEMOWONET",
+  "description": "CAPITAL CITY OF WARSAW",
+  "subnets": {
+    "ipv4": [
+      "91.223.78.0/24",
+      "195.74.79.0/24"
+    ],
+    "ipv6": []
+  }
+}

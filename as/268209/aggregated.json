@@ -1,0 +1,13 @@
+{
+  "asn": 268209,
+  "handle": "FENIX-TELECOM",
+  "description": "FENIX TELECOM",
+  "subnets": {
+    "ipv4": [
+      "45.235.68.0/22"
+    ],
+    "ipv6": [
+      "2804:4da0::/32"
+    ]
+  }
+}

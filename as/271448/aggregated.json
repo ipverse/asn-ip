@@ -1,0 +1,13 @@
+{
+  "asn": 271448,
+  "handle": "SUPER-GIGA-NET-LTDA",
+  "description": "Super Giga Net Ltda",
+  "subnets": {
+    "ipv4": [
+      "181.174.252.0/22"
+    ],
+    "ipv6": [
+      "2804:7bb0::/32"
+    ]
+  }
+}

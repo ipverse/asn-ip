@@ -1,0 +1,13 @@
+{
+  "asn": 206352,
+  "handle": "MEDIACONNECTIVE",
+  "description": "Media Connective LLP",
+  "subnets": {
+    "ipv4": [
+      "185.188.254.0/23",
+      "185.217.48.0/22",
+      "185.248.0.0/22"
+    ],
+    "ipv6": []
+  }
+}

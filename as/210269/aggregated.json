@@ -1,0 +1,14 @@
+{
+  "asn": 210269,
+  "handle": "HOSTCIRCLE-NL",
+  "description": "HostCircle B.V.",
+  "subnets": {
+    "ipv4": [
+      "178.237.56.0/22"
+    ],
+    "ipv6": [
+      "2a0d:5540::/47",
+      "2a0d:5540:2::/48"
+    ]
+  }
+}

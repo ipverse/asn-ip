@@ -1,0 +1,14 @@
+{
+  "asn": 203503,
+  "handle": "TICAE",
+  "description": "TICAE TELECOM S.L.",
+  "subnets": {
+    "ipv4": [
+      "185.132.88.0/23",
+      "185.132.91.0/24"
+    ],
+    "ipv6": [
+      "2a06:e144::/30"
+    ]
+  }
+}

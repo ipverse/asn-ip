@@ -1,0 +1,13 @@
+{
+  "asn": 263024,
+  "handle": "ARAUJO-SAT-SERVICOS",
+  "description": "ARAUJO SAT SERVIÇOS DE MULTIMIDIA LTDA",
+  "subnets": {
+    "ipv4": [
+      "186.249.80.0/20"
+    ],
+    "ipv6": [
+      "2804:a20::/32"
+    ]
+  }
+}

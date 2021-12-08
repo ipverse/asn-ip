@@ -1,0 +1,14 @@
+{
+  "asn": 140770,
+  "handle": "DIGILIFE-VN",
+  "description": "Digilife Vietnam Digital Services Company Limited",
+  "subnets": {
+    "ipv4": [
+      "103.161.38.0/23",
+      "103.165.142.0/23"
+    ],
+    "ipv6": [
+      "2407:4940::/48"
+    ]
+  }
+}

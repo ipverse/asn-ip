@@ -1,0 +1,12 @@
+{
+  "asn": 39744,
+  "handle": "HICAMOR",
+  "description": "COMUNICACIONES E INFRAESTRUCTURAS DEL SUR SL",
+  "subnets": {
+    "ipv4": [
+      "185.216.168.0/24",
+      "185.216.170.0/23"
+    ],
+    "ipv6": []
+  }
+}

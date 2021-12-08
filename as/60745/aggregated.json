@@ -1,0 +1,13 @@
+{
+  "asn": 60745,
+  "handle": "HAFSLUND",
+  "description": "Hafslund Produksjon Holding AS",
+  "subnets": {
+    "ipv4": [
+      "185.26.128.0/22"
+    ],
+    "ipv6": [
+      "2a00:8a20::/32"
+    ]
+  }
+}

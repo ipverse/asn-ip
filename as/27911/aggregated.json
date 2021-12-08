@@ -1,0 +1,11 @@
+{
+  "asn": 27911,
+  "handle": "METLIFE-CHILE-SEGUROS-DE-VIDA",
+  "description": "Metlife Chile Seguros de Vida",
+  "subnets": {
+    "ipv4": [
+      "64.76.152.0/24"
+    ],
+    "ipv6": []
+  }
+}

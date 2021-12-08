@@ -1,0 +1,14 @@
+{
+  "asn": 136591,
+  "handle": "MXXCLOUD-AP",
+  "description": "Ningbo Dahuamao Information Technology Co Ltd",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2406:840:e770::/47",
+      "2406:840:e772::/48",
+      "2406:840:e777::/48",
+      "2406:840:e77f::/48"
+    ]
+  }
+}

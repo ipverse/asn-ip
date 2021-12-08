@@ -1,0 +1,13 @@
+{
+  "asn": 59851,
+  "handle": "KYUP",
+  "description": "SiteGround Hosting EOOD",
+  "subnets": {
+    "ipv4": [
+      "77.104.191.0/24",
+      "82.118.240.0/24",
+      "87.118.135.0/24"
+    ],
+    "ipv6": []
+  }
+}

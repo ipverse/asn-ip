@@ -1,0 +1,13 @@
+{
+  "asn": 264986,
+  "handle": "INTERATIVA-NETWORKS",
+  "description": "INTERATIVA NETWORKS",
+  "subnets": {
+    "ipv4": [
+      "170.0.196.0/22"
+    ],
+    "ipv6": [
+      "2804:3100::/32"
+    ]
+  }
+}

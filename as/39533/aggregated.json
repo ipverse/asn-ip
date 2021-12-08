@@ -1,0 +1,14 @@
+{
+  "asn": 39533,
+  "handle": "ASYMPTO",
+  "description": "Asympto Networks Kft.",
+  "subnets": {
+    "ipv4": [
+      "185.233.142.0/23"
+    ],
+    "ipv6": [
+      "2a0c:e707:4000::/34",
+      "2a0c:e707:8000::/34"
+    ]
+  }
+}

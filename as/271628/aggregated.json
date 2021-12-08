@@ -1,0 +1,11 @@
+{
+  "asn": 271628,
+  "handle": "GIGANET-COM",
+  "description": "GIGANET .COM",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2804:7e80::/32"
+    ]
+  }
+}

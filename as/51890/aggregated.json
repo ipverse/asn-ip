@@ -1,0 +1,14 @@
+{
+  "asn": 51890,
+  "handle": "MAYR-MELNHOF",
+  "description": "Mayr-Melnhof Service GmbH",
+  "subnets": {
+    "ipv4": [
+      "91.213.54.0/24",
+      "185.145.20.0/22"
+    ],
+    "ipv6": [
+      "2a04:85c0::/29"
+    ]
+  }
+}

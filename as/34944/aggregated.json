@@ -1,0 +1,13 @@
+{
+  "asn": 34944,
+  "handle": "ZENIT-ARENA",
+  "description": "LLC Zenit-Arena",
+  "subnets": {
+    "ipv4": [
+      "91.201.84.0/23"
+    ],
+    "ipv6": [
+      "2001:678:9d0::/48"
+    ]
+  }
+}

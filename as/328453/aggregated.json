@@ -1,0 +1,14 @@
+{
+  "asn": 328453,
+  "handle": "WEB-AFRICA-NETWORKS",
+  "description": "Web Africa Networks (Pty) Ltd",
+  "subnets": {
+    "ipv4": [
+      "102.65.0.0/16",
+      "102.222.180.0/22"
+    ],
+    "ipv6": [
+      "2c0f:ed28::/32"
+    ]
+  }
+}

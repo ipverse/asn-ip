@@ -1,0 +1,13 @@
+{
+  "asn": 52300,
+  "handle": "INTERNET-LOCAL",
+  "description": "Internet Local",
+  "subnets": {
+    "ipv4": [
+      "190.110.176.0/21"
+    ],
+    "ipv6": [
+      "2803:2ac0::/32"
+    ]
+  }
+}

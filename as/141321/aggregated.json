@@ -1,0 +1,12 @@
+{
+  "asn": 141321,
+  "handle": "NESECURE-IN",
+  "description": "Nesecure Networks Private Limited",
+  "subnets": {
+    "ipv4": [
+      "103.124.171.0/24",
+      "103.157.222.0/23"
+    ],
+    "ipv6": []
+  }
+}

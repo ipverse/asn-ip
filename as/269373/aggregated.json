@@ -1,0 +1,13 @@
+{
+  "asn": 269373,
+  "handle": "RG-TELECOM",
+  "description": "RG TELECOM",
+  "subnets": {
+    "ipv4": [
+      "45.185.112.0/22"
+    ],
+    "ipv6": [
+      "2804:63a0::/32"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 328374,
+  "handle": "SPAR",
+  "description": "The SPAR Group Ltd",
+  "subnets": {
+    "ipv4": [
+      "196.50.3.0/24"
+    ],
+    "ipv6": [
+      "2001:43f8:c90::/48"
+    ]
+  }
+}

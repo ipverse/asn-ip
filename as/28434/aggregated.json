@@ -1,0 +1,12 @@
+{
+  "asn": 28434,
+  "handle": "CEDSAMOVIL-SA-DE-CV",
+  "description": "CEDSAMOVIL SA DE CV",
+  "subnets": {
+    "ipv4": [
+      "45.174.88.0/23",
+      "45.174.90.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 269498,
+  "handle": "PREFEITURA-MUNICIPAL-DE",
+  "description": "Prefeitura Municipal de Lajeado",
+  "subnets": {
+    "ipv4": [
+      "45.187.216.0/22"
+    ],
+    "ipv6": [
+      "2801:80:3770::/46"
+    ]
+  }
+}

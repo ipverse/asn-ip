@@ -1,0 +1,12 @@
+{
+  "asn": 32863,
+  "handle": "NEWSPAPERCLIPS",
+  "description": "NewspaperClips.com",
+  "subnets": {
+    "ipv4": [
+      "38.67.13.0/24",
+      "38.97.16.0/24"
+    ],
+    "ipv6": []
+  }
+}

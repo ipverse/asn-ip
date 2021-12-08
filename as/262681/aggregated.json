@@ -1,0 +1,14 @@
+{
+  "asn": 262681,
+  "handle": "DATACONNECTION-PROVEDOR-DE",
+  "description": "DATACONNECTION - PROVEDOR DE INTERNET LTDA-ME",
+  "subnets": {
+    "ipv4": [
+      "177.70.176.0/20",
+      "187.86.80.0/20"
+    ],
+    "ipv6": [
+      "2804:ad0::/32"
+    ]
+  }
+}

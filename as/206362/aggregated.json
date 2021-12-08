@@ -1,0 +1,13 @@
+{
+  "asn": 206362,
+  "handle": "LV-OSSNET",
+  "description": "SIA OSS Networks",
+  "subnets": {
+    "ipv4": [
+      "212.70.186.0/24"
+    ],
+    "ipv6": [
+      "2001:678:fdc::/48"
+    ]
+  }
+}

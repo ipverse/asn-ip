@@ -1,0 +1,13 @@
+{
+  "asn": 271427,
+  "handle": "ULLTRANET-TELECOM",
+  "description": "Ulltranet Telecom",
+  "subnets": {
+    "ipv4": [
+      "45.167.212.0/22"
+    ],
+    "ipv6": [
+      "2804:7b5c::/32"
+    ]
+  }
+}

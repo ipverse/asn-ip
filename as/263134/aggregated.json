@@ -1,0 +1,13 @@
+{
+  "asn": 263134,
+  "handle": "UNIVERSIDAD-AUTONOMA-DE",
+  "description": "Universidad Autonoma de Queretaro",
+  "subnets": {
+    "ipv4": [
+      "148.220.0.0/16"
+    ],
+    "ipv6": [
+      "2801:f0:16::/48"
+    ]
+  }
+}

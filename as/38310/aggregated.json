@@ -1,0 +1,13 @@
+{
+  "asn": 38310,
+  "handle": "ICAN-AP",
+  "description": "ICAN Solution Private Limited",
+  "subnets": {
+    "ipv4": [
+      "122.200.16.0/22",
+      "122.200.20.0/24",
+      "122.200.22.0/24"
+    ],
+    "ipv6": []
+  }
+}

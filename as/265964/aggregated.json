@@ -1,0 +1,13 @@
+{
+  "asn": 265964,
+  "handle": "FIBER-SCM-EIRELI-EPP",
+  "description": "AS FIBER SCM EIRELI EPP",
+  "subnets": {
+    "ipv4": [
+      "164.163.168.0/22"
+    ],
+    "ipv6": [
+      "2804:4084::/32"
+    ]
+  }
+}

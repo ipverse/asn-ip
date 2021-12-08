@@ -1,0 +1,13 @@
+{
+  "asn": 25143,
+  "handle": "IU",
+  "description": "Company Zagalni Merezhi Ltd",
+  "subnets": {
+    "ipv4": [
+      "91.239.48.0/22",
+      "193.19.228.0/22",
+      "193.238.20.0/22"
+    ],
+    "ipv6": []
+  }
+}

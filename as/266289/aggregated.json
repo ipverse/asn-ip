@@ -1,0 +1,13 @@
+{
+  "asn": 266289,
+  "handle": "MUNDONET-SERVICOS-DE",
+  "description": "Mundonet Servicos de Internet Ltda",
+  "subnets": {
+    "ipv4": [
+      "170.79.0.0/22"
+    ],
+    "ipv6": [
+      "2804:357c::/32"
+    ]
+  }
+}

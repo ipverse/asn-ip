@@ -1,0 +1,11 @@
+{
+  "asn": 135346,
+  "handle": "BTS-AP",
+  "description": "Bismillah Telecom Service",
+  "subnets": {
+    "ipv4": [
+      "103.109.212.0/22"
+    ],
+    "ipv6": []
+  }
+}

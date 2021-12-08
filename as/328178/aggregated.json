@@ -1,0 +1,13 @@
+{
+  "asn": 328178,
+  "handle": "THE-COMPUTER-HUT",
+  "description": "The Computer Hut cc",
+  "subnets": {
+    "ipv4": [
+      "160.226.128.0/20"
+    ],
+    "ipv6": [
+      "2c0f:f1c0::/32"
+    ]
+  }
+}

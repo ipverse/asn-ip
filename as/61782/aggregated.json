@@ -1,0 +1,11 @@
+{
+  "asn": 61782,
+  "handle": "WNNET-TELECOM",
+  "description": "WNNet Telecom",
+  "subnets": {
+    "ipv4": [
+      "200.77.176.0/22"
+    ],
+    "ipv6": []
+  }
+}

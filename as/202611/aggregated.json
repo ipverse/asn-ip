@@ -1,0 +1,11 @@
+{
+  "asn": 202611,
+  "handle": "YCTL",
+  "description": "Yandex.Telecom LLC",
+  "subnets": {
+    "ipv4": [
+      "185.32.185.0/24"
+    ],
+    "ipv6": []
+  }
+}

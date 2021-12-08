@@ -1,0 +1,13 @@
+{
+  "asn": 141383,
+  "handle": "COOLNETPTELTD-AP",
+  "description": "COOLNET PTE. LTD.",
+  "subnets": {
+    "ipv4": [
+      "103.157.250.0/23"
+    ],
+    "ipv6": [
+      "2406:aa40::/32"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 10174,
+  "handle": "MBC-KR-KR",
+  "description": "Munhwa Broadcasting Corporation",
+  "subnets": {
+    "ipv4": [
+      "103.3.36.0/22",
+      "103.164.78.0/23",
+      "203.238.224.0/19"
+    ],
+    "ipv6": []
+  }
+}

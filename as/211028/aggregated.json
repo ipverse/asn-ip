@@ -1,0 +1,13 @@
+{
+  "asn": 211028,
+  "handle": "SAS-TELECOM",
+  "description": "Spetsavtomatikaservice LLP",
+  "subnets": {
+    "ipv4": [
+      "45.138.220.0/23",
+      "185.78.232.0/23",
+      "194.39.108.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 265311,
+  "handle": "BEZERRA-SPEED-INTERNET",
+  "description": "Bezerra Speed Internet",
+  "subnets": {
+    "ipv4": [
+      "168.121.112.0/22"
+    ],
+    "ipv6": [
+      "2804:2de8::/32"
+    ]
+  }
+}

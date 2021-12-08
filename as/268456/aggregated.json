@@ -1,0 +1,13 @@
+{
+  "asn": 268456,
+  "handle": "UNIWEB-TELECOM-EIRELI",
+  "description": "UNIWEB TELECOM EIRELI",
+  "subnets": {
+    "ipv4": [
+      "45.161.88.0/22"
+    ],
+    "ipv6": [
+      "2804:5180::/32"
+    ]
+  }
+}

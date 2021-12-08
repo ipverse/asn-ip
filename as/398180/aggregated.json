@@ -1,0 +1,12 @@
+{
+  "asn": 398180,
+  "handle": "HDERLINK",
+  "description": "HDER Link, LTD",
+  "subnets": {
+    "ipv4": [
+      "161.38.248.0/24",
+      "209.94.87.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 263927,
+  "handle": "MARCIO-MORGUENROTH-EPP",
+  "description": "Marcio Morguenroth EPP",
+  "subnets": {
+    "ipv4": [
+      "138.219.32.0/22"
+    ],
+    "ipv6": [
+      "2804:27e4::/32"
+    ]
+  }
+}

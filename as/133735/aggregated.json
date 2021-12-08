@@ -1,0 +1,12 @@
+{
+  "asn": 133735,
+  "handle": "MCKINSEY-SG",
+  "description": "McKinsey \u0026 Company",
+  "subnets": {
+    "ipv4": [
+      "156.107.26.0/23",
+      "156.107.136.0/22"
+    ],
+    "ipv6": []
+  }
+}

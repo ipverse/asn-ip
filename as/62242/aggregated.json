@@ -1,0 +1,13 @@
+{
+  "asn": 62242,
+  "handle": "CREIS",
+  "description": "CREIS SAS",
+  "subnets": {
+    "ipv4": [
+      "193.23.28.0/24"
+    ],
+    "ipv6": [
+      "2a04:9ac0::/32"
+    ]
+  }
+}

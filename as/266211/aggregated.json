@@ -1,0 +1,13 @@
+{
+  "asn": 266211,
+  "handle": "GERACAO-NET",
+  "description": "GERAÇÃO NET",
+  "subnets": {
+    "ipv4": [
+      "192.144.100.0/22"
+    ],
+    "ipv6": [
+      "2804:3c70::/32"
+    ]
+  }
+}

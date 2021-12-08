@@ -1,0 +1,14 @@
+{
+  "asn": 132300,
+  "handle": "NIPA-TH",
+  "description": "NIPA Technology Co., Ltd",
+  "subnets": {
+    "ipv4": [
+      "103.212.36.0/22",
+      "202.94.168.0/22"
+    ],
+    "ipv6": [
+      "2406:7900:7226::/48"
+    ]
+  }
+}

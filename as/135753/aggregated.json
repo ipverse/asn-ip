@@ -1,0 +1,11 @@
+{
+  "asn": 135753,
+  "handle": "VNET-AIRMAX",
+  "description": "Airmax Internet Private Limited",
+  "subnets": {
+    "ipv4": [
+      "103.74.144.0/22"
+    ],
+    "ipv6": []
+  }
+}

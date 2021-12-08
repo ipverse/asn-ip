@@ -1,0 +1,13 @@
+{
+  "asn": 267626,
+  "handle": "TRIBUNAL-DE-JUSTICA-DE-GOIAS",
+  "description": "Tribunal de Justica de Goias",
+  "subnets": {
+    "ipv4": [
+      "45.71.214.0/23"
+    ],
+    "ipv6": [
+      "2801:80:2250::/47"
+    ]
+  }
+}

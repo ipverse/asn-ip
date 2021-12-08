@@ -1,0 +1,12 @@
+{
+  "asn": 54385,
+  "handle": "TOLLESON",
+  "description": "City of Tolleson",
+  "subnets": {
+    "ipv4": [
+      "72.42.250.0/24",
+      "184.176.1.0/24"
+    ],
+    "ipv6": []
+  }
+}

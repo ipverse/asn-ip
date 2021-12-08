@@ -1,0 +1,13 @@
+{
+  "asn": 270710,
+  "handle": "CENTRO-DE-COMPUTACAO",
+  "description": "Centro de Computação da Aeronáutica de Brasília",
+  "subnets": {
+    "ipv4": [
+      "177.152.120.0/22"
+    ],
+    "ipv6": [
+      "2804:1f44::/32"
+    ]
+  }
+}

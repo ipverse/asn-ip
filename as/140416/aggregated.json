@@ -1,0 +1,13 @@
+{
+  "asn": 140416,
+  "handle": "IDNIC-TRANSTEL-ID",
+  "description": "PT TRANS TELEKOMUNIKASI INDONESIA",
+  "subnets": {
+    "ipv4": [
+      "103.148.86.0/24"
+    ],
+    "ipv6": [
+      "2001:df2:c880::/48"
+    ]
+  }
+}

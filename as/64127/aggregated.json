@@ -1,0 +1,12 @@
+{
+  "asn": 64127,
+  "handle": "XCONNECT-SPA",
+  "description": "XCONNECT SPA",
+  "subnets": {
+    "ipv4": [
+      "167.249.28.0/23",
+      "167.249.30.0/24"
+    ],
+    "ipv6": []
+  }
+}

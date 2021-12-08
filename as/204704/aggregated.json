@@ -1,0 +1,12 @@
+{
+  "asn": 204704,
+  "handle": "PRIMELINE",
+  "description": "primeLine Solutions GmbH",
+  "subnets": {
+    "ipv4": [
+      "45.84.64.0/22",
+      "185.206.88.0/22"
+    ],
+    "ipv6": []
+  }
+}

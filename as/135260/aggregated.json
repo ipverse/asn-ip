@@ -1,0 +1,12 @@
+{
+  "asn": 135260,
+  "handle": "FOURTY2COMM",
+  "description": "42 Communications Pvt. Ltd.",
+  "subnets": {
+    "ipv4": [
+      "45.250.8.0/22",
+      "103.219.16.0/22"
+    ],
+    "ipv6": []
+  }
+}

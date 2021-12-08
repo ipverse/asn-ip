@@ -1,0 +1,13 @@
+{
+  "asn": 27537,
+  "handle": "ACCAAS",
+  "description": "Callcentric Wholesale, Inc.",
+  "subnets": {
+    "ipv4": [
+      "66.193.176.0/23",
+      "199.87.148.0/22",
+      "204.11.192.0/22"
+    ],
+    "ipv6": []
+  }
+}

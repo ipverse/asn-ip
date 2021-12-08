@@ -1,0 +1,13 @@
+{
+  "asn": 328036,
+  "handle": "WIFI-TECHNOLOGIES",
+  "description": "WiFi Technologies",
+  "subnets": {
+    "ipv4": [
+      "41.242.80.0/22"
+    ],
+    "ipv6": [
+      "2c0f:f278::/32"
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 57265,
+  "handle": "STORYBEL",
+  "description": "STORYBEL SNC",
+  "subnets": {
+    "ipv4": [
+      "91.216.41.0/24",
+      "193.200.185.0/24"
+    ],
+    "ipv6": [
+      "2001:678:71c::/48"
+    ]
+  }
+}

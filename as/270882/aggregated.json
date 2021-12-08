@@ -1,0 +1,13 @@
+{
+  "asn": 270882,
+  "handle": "AN-NET-TELECON-EIRELI",
+  "description": "AN NET TELECON EIRELI",
+  "subnets": {
+    "ipv4": [
+      "186.194.4.0/22"
+    ],
+    "ipv6": [
+      "2804:72e4::/32"
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 136786,
+  "handle": "I-BEAM-AP",
+  "description": "Information Beam Company Limited",
+  "subnets": {
+    "ipv4": [
+      "103.97.110.0/24",
+      "103.115.6.0/24"
+    ],
+    "ipv6": [
+      "2001:df1:c700::/47"
+    ]
+  }
+}

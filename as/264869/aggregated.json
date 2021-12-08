@@ -1,0 +1,13 @@
+{
+  "asn": 264869,
+  "handle": "SPEED-MAX-TELECOMUNICACOES",
+  "description": "SPEED MAX TELECOMUNICAÇÕES LTDA ME",
+  "subnets": {
+    "ipv4": [
+      "168.205.216.0/22"
+    ],
+    "ipv6": [
+      "2804:2f10::/32"
+    ]
+  }
+}

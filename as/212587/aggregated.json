@@ -1,0 +1,13 @@
+{
+  "asn": 212587,
+  "handle": "ASGKDRE",
+  "description": "Gemeinsame Kommunale Datenzentrale Recklinghausen Zweckverband",
+  "subnets": {
+    "ipv4": [
+      "194.31.16.0/20"
+    ],
+    "ipv6": [
+      "2a02:100e:6b80::/48"
+    ]
+  }
+}

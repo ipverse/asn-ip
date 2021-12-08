@@ -1,0 +1,13 @@
+{
+  "asn": 61287,
+  "handle": "WLP",
+  "description": "wlan-partner.com AG",
+  "subnets": {
+    "ipv4": [
+      "185.12.128.0/22"
+    ],
+    "ipv6": [
+      "2a03:8d40::/32"
+    ]
+  }
+}

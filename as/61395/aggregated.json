@@ -1,0 +1,13 @@
+{
+  "asn": 61395,
+  "handle": "SYSOPS-FINLAND",
+  "description": "sysops Finland Oy",
+  "subnets": {
+    "ipv4": [
+      "5.83.56.0/21"
+    ],
+    "ipv6": [
+      "2a04:680::/29"
+    ]
+  }
+}

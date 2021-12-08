@@ -1,0 +1,13 @@
+{
+  "asn": 57166,
+  "handle": "STE",
+  "description": "Stefan Brand-Epprecht",
+  "subnets": {
+    "ipv4": [
+      "185.119.106.0/24"
+    ],
+    "ipv6": [
+      "2001:678:918::/48"
+    ]
+  }
+}

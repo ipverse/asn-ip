@@ -1,0 +1,11 @@
+{
+  "asn": 37937,
+  "handle": "EGOVNET",
+  "description": "China eGovNet Information Center",
+  "subnets": {
+    "ipv4": [
+      "59.252.0.0/16"
+    ],
+    "ipv6": []
+  }
+}

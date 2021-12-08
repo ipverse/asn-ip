@@ -1,0 +1,13 @@
+{
+  "asn": 267123,
+  "handle": "MEGANET-TELECON-LTDA",
+  "description": "MEGANET TELECON LTDA",
+  "subnets": {
+    "ipv4": [
+      "45.229.8.0/22"
+    ],
+    "ipv6": [
+      "2804:4878::/32"
+    ]
+  }
+}

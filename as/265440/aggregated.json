@@ -1,0 +1,11 @@
+{
+  "asn": 265440,
+  "handle": "TELNET-SISTEMAS-E",
+  "description": "Telnet Sistemas e Comunicações",
+  "subnets": {
+    "ipv4": [
+      "168.194.200.0/22"
+    ],
+    "ipv6": []
+  }
+}

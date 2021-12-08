@@ -1,0 +1,11 @@
+{
+  "asn": 137706,
+  "handle": "NATIONAL-UNIVERSITY-AP",
+  "description": "National University",
+  "subnets": {
+    "ipv4": [
+      "103.113.200.0/22"
+    ],
+    "ipv6": []
+  }
+}

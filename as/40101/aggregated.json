@@ -1,0 +1,11 @@
+{
+  "asn": 40101,
+  "handle": "FBHS",
+  "description": "FBHS",
+  "subnets": {
+    "ipv4": [
+      "50.232.70.0/24"
+    ],
+    "ipv6": []
+  }
+}

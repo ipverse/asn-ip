@@ -1,0 +1,11 @@
+{
+  "asn": 64304,
+  "handle": "WIN-NAP-ID",
+  "description": "PT WIRELESS INDONESIA",
+  "subnets": {
+    "ipv4": [
+      "103.78.144.0/22"
+    ],
+    "ipv6": []
+  }
+}

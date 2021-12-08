@@ -1,0 +1,12 @@
+{
+  "asn": 196914,
+  "handle": "DON-PLUS",
+  "description": "Don-plus LTD",
+  "subnets": {
+    "ipv4": [
+      "84.47.148.0/23",
+      "193.105.37.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asn": 204859,
+  "handle": "RU-LYCA",
+  "description": "LLC Lycamobile",
+  "subnets": {
+    "ipv4": [
+      "185.237.100.0/24"
+    ],
+    "ipv6": []
+  }
+}

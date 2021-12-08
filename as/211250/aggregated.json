@@ -1,0 +1,12 @@
+{
+  "asn": 211250,
+  "handle": "TELECOMTRADE-UA",
+  "description": "TELECOM TRADE LLC",
+  "subnets": {
+    "ipv4": [
+      "195.64.229.0/24",
+      "195.64.239.0/24"
+    ],
+    "ipv6": []
+  }
+}

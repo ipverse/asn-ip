@@ -1,0 +1,14 @@
+{
+  "asn": 327872,
+  "handle": "IBITS-INTERNET",
+  "description": "IBITS Internet (pty) Ltd",
+  "subnets": {
+    "ipv4": [
+      "169.255.168.0/22",
+      "196.250.128.0/19"
+    ],
+    "ipv6": [
+      "2c0f:f4c8::/32"
+    ]
+  }
+}

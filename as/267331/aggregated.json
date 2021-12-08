@@ -1,0 +1,13 @@
+{
+  "asn": 267331,
+  "handle": "ONEFIBRA-TELECOMUNICACOES-LTDA",
+  "description": "Onefibra Telecomunicações Ltda",
+  "subnets": {
+    "ipv4": [
+      "45.233.240.0/22"
+    ],
+    "ipv6": [
+      "2804:4bd4::/32"
+    ]
+  }
+}

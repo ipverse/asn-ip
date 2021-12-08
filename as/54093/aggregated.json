@@ -1,0 +1,11 @@
+{
+  "asn": 54093,
+  "handle": "MAYO-REGIONAL-HOSPITAL",
+  "description": "Mayo Regional Hospital",
+  "subnets": {
+    "ipv4": [
+      "205.211.148.0/24"
+    ],
+    "ipv6": []
+  }
+}

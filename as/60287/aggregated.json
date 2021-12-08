@@ -1,0 +1,12 @@
+{
+  "asn": 60287,
+  "handle": "ZAPSIBKOMBANK",
+  "description": "Joint Stock West Siberian Commercial Bank",
+  "subnets": {
+    "ipv4": [
+      "37.230.151.0/24",
+      "141.101.179.0/24"
+    ],
+    "ipv6": []
+  }
+}

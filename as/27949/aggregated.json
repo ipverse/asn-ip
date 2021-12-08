@@ -1,0 +1,11 @@
+{
+  "asn": 27949,
+  "handle": "ANSES-ADMINISTRACION-NACIONAL",
+  "description": "ANSES - Administración Nacional de la Seguridad Social",
+  "subnets": {
+    "ipv4": [
+      "200.10.199.0/24"
+    ],
+    "ipv6": []
+  }
+}

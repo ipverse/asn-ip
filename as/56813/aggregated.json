@@ -1,0 +1,13 @@
+{
+  "asn": 56813,
+  "handle": "SCHLUNDTECH",
+  "description": "Schlund Technologies GmbH",
+  "subnets": {
+    "ipv4": [
+      "91.237.88.0/23"
+    ],
+    "ipv6": [
+      "2001:67c:299c::/48"
+    ]
+  }
+}

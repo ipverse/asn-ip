@@ -1,0 +1,13 @@
+{
+  "asn": 264082,
+  "handle": "NATIVA-NETWORK-LTDA-ME",
+  "description": "NATIVA NETWORK LTDA - ME",
+  "subnets": {
+    "ipv4": [
+      "143.202.232.0/22"
+    ],
+    "ipv6": [
+      "2804:2a98::/32"
+    ]
+  }
+}

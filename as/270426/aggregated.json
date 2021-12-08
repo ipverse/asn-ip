@@ -1,0 +1,14 @@
+{
+  "asn": 270426,
+  "handle": "J-R-RIBEIRO-DIAS-EIRELI",
+  "description": "J R RIBEIRO DIAS EIRELI",
+  "subnets": {
+    "ipv4": [
+      "190.111.140.0/24",
+      "190.111.142.0/23"
+    ],
+    "ipv6": [
+      "2804:6bcc::/32"
+    ]
+  }
+}

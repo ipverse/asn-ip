@@ -1,0 +1,12 @@
+{
+  "asn": 209645,
+  "handle": "TRASH-NETWORK",
+  "description": "Jixian Zeng",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2602:feda:d83::/48",
+      "2a0c:e641::/32"
+    ]
+  }
+}

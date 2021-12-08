@@ -1,0 +1,17 @@
+{
+  "asn": 213105,
+  "handle": "MARCELWITSCHEL",
+  "description": "Marcel Witschel",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a0e:b107:770::/45",
+      "2a0e:b107:778::/46",
+      "2a0e:b107:77c::/47",
+      "2a0e:b107:77e::/48",
+      "2a0e:b107:a60::/44",
+      "2a0e:b107:10f0::/44",
+      "2a10:2f00:138::/48"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 10370,
+  "handle": "NORTHWEST-AIRLINES",
+  "description": "Northwest Airlines",
+  "subnets": {
+    "ipv4": [
+      "139.72.0.0/16",
+      "147.118.0.0/16",
+      "170.41.52.0/23"
+    ],
+    "ipv6": []
+  }
+}

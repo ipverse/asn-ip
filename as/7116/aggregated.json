@@ -1,0 +1,13 @@
+{
+  "asn": 7116,
+  "handle": "TOYOTA-EXT",
+  "description": "Toyota Motor Sales, U.S.A., Inc.",
+  "subnets": {
+    "ipv4": [
+      "12.232.148.0/24",
+      "69.25.174.0/24",
+      "162.246.76.0/22"
+    ],
+    "ipv6": []
+  }
+}

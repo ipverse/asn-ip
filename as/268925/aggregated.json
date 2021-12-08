@@ -1,0 +1,13 @@
+{
+  "asn": 268925,
+  "handle": "TELLCORP-TELECOMUNICACOES-CORPORATIVAS",
+  "description": "TELLCORP - TELECOMUNICACOES CORPORATIVAS LTDA",
+  "subnets": {
+    "ipv4": [
+      "45.176.4.0/22"
+    ],
+    "ipv6": [
+      "2804:5cb4::/32"
+    ]
+  }
+}

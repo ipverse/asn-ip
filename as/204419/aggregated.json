@@ -1,0 +1,13 @@
+{
+  "asn": 204419,
+  "handle": "ITNS",
+  "description": "ITNS GmbH",
+  "subnets": {
+    "ipv4": [
+      "185.249.124.0/22"
+    ],
+    "ipv6": [
+      "2a0c:440::/32"
+    ]
+  }
+}

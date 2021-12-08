@@ -1,0 +1,12 @@
+{
+  "asn": 64099,
+  "handle": "COOP-DE-GRAL-VIAMONTE",
+  "description": "COOP DE GRAL VIAMONTE",
+  "subnets": {
+    "ipv4": [
+      "143.202.144.0/22",
+      "190.228.169.0/24"
+    ],
+    "ipv6": []
+  }
+}

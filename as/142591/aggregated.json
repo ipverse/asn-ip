@@ -1,0 +1,12 @@
+{
+  "asn": 142591,
+  "handle": "MYTEK-AP",
+  "description": "MYTEK TRADING PTY LTD",
+  "subnets": {
+    "ipv4": [
+      "185.135.75.0/24",
+      "185.135.76.0/22"
+    ],
+    "ipv6": []
+  }
+}

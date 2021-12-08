@@ -1,0 +1,11 @@
+{
+  "asn": 136241,
+  "handle": "THOMSON1-AP",
+  "description": "Thomson Geer Services",
+  "subnets": {
+    "ipv4": [
+      "103.81.216.0/24"
+    ],
+    "ipv6": []
+  }
+}

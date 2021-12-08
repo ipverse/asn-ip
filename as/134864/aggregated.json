@@ -1,0 +1,12 @@
+{
+  "asn": 134864,
+  "handle": "GIGASOL",
+  "description": "Gigatel Solutions Private Limited",
+  "subnets": {
+    "ipv4": [
+      "45.250.216.0/22",
+      "103.69.4.0/22"
+    ],
+    "ipv6": []
+  }
+}

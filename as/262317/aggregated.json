@@ -1,0 +1,14 @@
+{
+  "asn": 262317,
+  "handle": "ROS-TELECOM",
+  "description": "ROS Telecom",
+  "subnets": {
+    "ipv4": [
+      "177.91.120.0/21",
+      "177.124.64.0/21"
+    ],
+    "ipv6": [
+      "2804:bac::/32"
+    ]
+  }
+}

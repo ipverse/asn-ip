@@ -1,0 +1,11 @@
+{
+  "asn": 271569,
+  "handle": "EDA-INFO",
+  "description": "EDA INFO",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2804:7d90::/32"
+    ]
+  }
+}

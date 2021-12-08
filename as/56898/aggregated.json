@@ -1,0 +1,13 @@
+{
+  "asn": 56898,
+  "handle": "NL-PRIVATEHOST",
+  "description": "Private Host BV",
+  "subnets": {
+    "ipv4": [
+      "185.75.76.0/23",
+      "185.75.78.0/24",
+      "185.240.28.0/22"
+    ],
+    "ipv6": []
+  }
+}

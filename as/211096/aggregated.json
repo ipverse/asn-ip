@@ -1,0 +1,12 @@
+{
+  "asn": 211096,
+  "handle": "SC",
+  "description": "The Supreme Committee for Delivery and Legacy",
+  "subnets": {
+    "ipv4": [
+      "151.216.24.0/21",
+      "185.161.121.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asn": 22515,
+  "handle": "DEPARTAMENTO-DE-POLICIA",
+  "description": "DEPARTAMENTO DE POLICIA FEDERAL",
+  "subnets": {
+    "ipv4": [
+      "200.169.32.0/20"
+    ],
+    "ipv6": []
+  }
+}

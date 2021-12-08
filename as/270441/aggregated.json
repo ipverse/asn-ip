@@ -1,0 +1,13 @@
+{
+  "asn": 270441,
+  "handle": "CONNECT-PEDREIRAS-SERVICOS",
+  "description": "CONNECT PEDREIRAS SERVIÇOS DE INFORMATICA LTDA",
+  "subnets": {
+    "ipv4": [
+      "200.14.56.0/22"
+    ],
+    "ipv6": [
+      "2804:6c08::/32"
+    ]
+  }
+}

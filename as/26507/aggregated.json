@@ -1,0 +1,12 @@
+{
+  "asn": 26507,
+  "handle": "CTSINET",
+  "description": "Computer Transition Services, Inc.",
+  "subnets": {
+    "ipv4": [
+      "12.169.178.0/24",
+      "65.203.109.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 266248,
+  "handle": "NETSV-SERVICO-DE",
+  "description": "NetSV Serviço de Comunicação Multimídia LTDA",
+  "subnets": {
+    "ipv4": [
+      "45.6.220.0/22"
+    ],
+    "ipv6": [
+      "2804:3d04::/32"
+    ]
+  }
+}

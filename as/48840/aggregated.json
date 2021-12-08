@@ -1,0 +1,12 @@
+{
+  "asn": 48840,
+  "handle": "PP",
+  "description": "Perfect Presentation for commercial services",
+  "subnets": {
+    "ipv4": [
+      "95.129.11.0/24",
+      "95.129.12.0/22"
+    ],
+    "ipv6": []
+  }
+}

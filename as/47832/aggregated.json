@@ -1,0 +1,13 @@
+{
+  "asn": 47832,
+  "handle": "RADIVS",
+  "description": "Volker Scheffler",
+  "subnets": {
+    "ipv4": [
+      "217.18.48.0/22"
+    ],
+    "ipv6": [
+      "2a0d:9a40::/29"
+    ]
+  }
+}

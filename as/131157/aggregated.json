@@ -1,0 +1,11 @@
+{
+  "asn": 131157,
+  "handle": "MAGMA-IPV6",
+  "description": "IMS Corporation",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2403:9600::/32"
+    ]
+  }
+}

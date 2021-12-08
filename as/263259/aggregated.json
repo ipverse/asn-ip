@@ -1,0 +1,13 @@
+{
+  "asn": 263259,
+  "handle": "LINK-FIBRA-SERVICOS",
+  "description": "Link Fibra Serviços Comunicação multimidía eireli",
+  "subnets": {
+    "ipv4": [
+      "200.10.48.0/21"
+    ],
+    "ipv6": [
+      "2804:17f0::/32"
+    ]
+  }
+}

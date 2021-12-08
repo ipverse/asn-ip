@@ -1,0 +1,11 @@
+{
+  "asn": 45047,
+  "handle": "CONACOM",
+  "description": "Conacom GmbH",
+  "subnets": {
+    "ipv4": [
+      "93.188.216.0/21"
+    ],
+    "ipv6": []
+  }
+}

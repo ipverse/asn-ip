@@ -1,0 +1,11 @@
+{
+  "asn": 328420,
+  "handle": "BANK-OF-ZAMBIA-VAS",
+  "description": "Bank of Zambia",
+  "subnets": {
+    "ipv4": [
+      "102.130.100.0/24"
+    ],
+    "ipv6": []
+  }
+}

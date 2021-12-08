@@ -1,0 +1,13 @@
+{
+  "asn": 41071,
+  "handle": "OPENPOP",
+  "description": "OPENPOP SA",
+  "subnets": {
+    "ipv4": [
+      "185.90.8.0/22"
+    ],
+    "ipv6": [
+      "2a05:db80::/29"
+    ]
+  }
+}

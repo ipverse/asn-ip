@@ -1,0 +1,13 @@
+{
+  "asn": 42609,
+  "handle": "CONTACT",
+  "description": "Association Contact",
+  "subnets": {
+    "ipv4": [
+      "195.226.215.0/24"
+    ],
+    "ipv6": [
+      "2a10:db00::/32"
+    ]
+  }
+}

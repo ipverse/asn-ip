@@ -1,0 +1,13 @@
+{
+  "asn": 197458,
+  "handle": "OPEC",
+  "description": "Organization of the Petroleum Exporting Countries",
+  "subnets": {
+    "ipv4": [
+      "81.16.154.0/24",
+      "91.239.231.0/24",
+      "194.153.111.0/24"
+    ],
+    "ipv6": []
+  }
+}

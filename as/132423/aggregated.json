@@ -1,0 +1,13 @@
+{
+  "asn": 132423,
+  "handle": "IITB-IN",
+  "description": "Indian Institute of Technology Bombay",
+  "subnets": {
+    "ipv4": [
+      "103.21.124.0/22"
+    ],
+    "ipv6": [
+      "2001:df0:413::/48"
+    ]
+  }
+}

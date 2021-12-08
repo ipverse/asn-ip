@@ -1,0 +1,11 @@
+{
+  "asn": 37366,
+  "handle": "BNA",
+  "description": "Banco National Angola (BNA)",
+  "subnets": {
+    "ipv4": [
+      "196.43.223.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asn": 45448,
+  "handle": "MGPENGUIN-AP",
+  "description": "mgpenguin",
+  "subnets": {
+    "ipv4": [
+      "203.33.70.0/24"
+    ],
+    "ipv6": []
+  }
+}

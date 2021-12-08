@@ -1,0 +1,11 @@
+{
+  "asn": 266244,
+  "handle": "VUPPI-INTERNET",
+  "description": "VUPPI INTERNET",
+  "subnets": {
+    "ipv4": [
+      "192.144.104.0/22"
+    ],
+    "ipv6": []
+  }
+}

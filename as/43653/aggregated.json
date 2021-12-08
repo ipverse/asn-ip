@@ -1,0 +1,12 @@
+{
+  "asn": 43653,
+  "handle": "PEGONET",
+  "description": "PEGO Slovakia, s.r.o.",
+  "subnets": {
+    "ipv4": [
+      "185.183.232.0/22",
+      "213.181.128.0/19"
+    ],
+    "ipv6": []
+  }
+}

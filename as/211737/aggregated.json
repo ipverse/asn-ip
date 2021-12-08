@@ -1,0 +1,13 @@
+{
+  "asn": 211737,
+  "handle": "DDSE",
+  "description": "Duerr Dental SE",
+  "subnets": {
+    "ipv4": [
+      "185.20.1.0/24"
+    ],
+    "ipv6": [
+      "2a11:b080::/29"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 270715,
+  "handle": "TELECOM-SERVICOS-DE",
+  "description": "TELECOM SERVIÇOS DE INTERNET LTDA",
+  "subnets": {
+    "ipv4": [
+      "189.127.180.0/22"
+    ],
+    "ipv6": [
+      "2804:7040::/32"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 209102,
+  "handle": "ALFASERVICE",
+  "description": "Alfa Service s.r.l.",
+  "subnets": {
+    "ipv4": [
+      "2.56.128.0/22"
+    ],
+    "ipv6": [
+      "2a09:c3c0::/29"
+    ]
+  }
+}

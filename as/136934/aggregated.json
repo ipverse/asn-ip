@@ -1,0 +1,11 @@
+{
+  "asn": 136934,
+  "handle": "BOC-AP",
+  "description": "Bank Of Ceylon",
+  "subnets": {
+    "ipv4": [
+      "103.99.100.0/24"
+    ],
+    "ipv6": []
+  }
+}

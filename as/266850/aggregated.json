@@ -1,0 +1,11 @@
+{
+  "asn": 266850,
+  "handle": "NODO-ZERO-BAHIA-SRL",
+  "description": "NODO ZERO BAHIA SRL",
+  "subnets": {
+    "ipv4": [
+      "45.239.116.0/22"
+    ],
+    "ipv6": []
+  }
+}

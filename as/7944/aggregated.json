@@ -1,0 +1,13 @@
+{
+  "asn": 7944,
+  "handle": "DMVOL",
+  "description": "DELMARVA ONLINE",
+  "subnets": {
+    "ipv4": [
+      "64.45.148.0/22",
+      "64.45.152.0/22",
+      "64.238.0.0/23"
+    ],
+    "ipv6": []
+  }
+}

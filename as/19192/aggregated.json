@@ -1,0 +1,13 @@
+{
+  "asn": 19192,
+  "handle": "UNIVERSIDAD-CENTRAL-DE",
+  "description": "Universidad Central de Venezuela",
+  "subnets": {
+    "ipv4": [
+      "190.169.0.0/16"
+    ],
+    "ipv6": [
+      "2800:a010::/32"
+    ]
+  }
+}

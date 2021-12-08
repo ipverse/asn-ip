@@ -1,0 +1,12 @@
+{
+  "asn": 49568,
+  "handle": "INFORMSYAZ",
+  "description": "LLC Convex-Kamensk",
+  "subnets": {
+    "ipv4": [
+      "193.169.122.0/23",
+      "194.28.184.0/22"
+    ],
+    "ipv6": []
+  }
+}

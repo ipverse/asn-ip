@@ -1,0 +1,13 @@
+{
+  "asn": 270701,
+  "handle": "JSV-TELECOM-COMUNICACAO",
+  "description": "JSV TELECOM COMUNICAÇÃO EIRELI",
+  "subnets": {
+    "ipv4": [
+      "189.127.132.0/22"
+    ],
+    "ipv6": [
+      "2804:7010::/32"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 265301,
+  "handle": "UPNET-TELECOMUNICACOES-EIRELI",
+  "description": "UPNET TELECOMUNICACOES EIRELI",
+  "subnets": {
+    "ipv4": [
+      "168.121.76.0/22"
+    ],
+    "ipv6": [
+      "2804:2dc0::/32"
+    ]
+  }
+}

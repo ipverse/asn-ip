@@ -1,0 +1,12 @@
+{
+  "asn": 39365,
+  "handle": "MICROLINES",
+  "description": "Microlines SIA",
+  "subnets": {
+    "ipv4": [
+      "79.135.128.0/19",
+      "185.144.184.0/22"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 37630,
+  "handle": "EY-JHB",
+  "description": "Ernst and Young Services Limited",
+  "subnets": {
+    "ipv4": [
+      "196.13.127.0/24",
+      "196.13.129.0/24",
+      "196.13.130.0/23"
+    ],
+    "ipv6": []
+  }
+}

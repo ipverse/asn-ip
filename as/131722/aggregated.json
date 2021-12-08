@@ -1,0 +1,12 @@
+{
+  "asn": 131722,
+  "handle": "IDNIC-PU-ID",
+  "description": "Kementrian Pekerjaan Umum",
+  "subnets": {
+    "ipv4": [
+      "103.12.84.0/24",
+      "103.211.50.0/23"
+    ],
+    "ipv6": []
+  }
+}

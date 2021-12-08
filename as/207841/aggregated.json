@@ -1,0 +1,14 @@
+{
+  "asn": 207841,
+  "handle": "INFERNO",
+  "description": "Inferno Communications Ltd",
+  "subnets": {
+    "ipv4": [
+      "193.57.144.0/24",
+      "193.57.159.0/24"
+    ],
+    "ipv6": [
+      "2a0f:85c0::/48"
+    ]
+  }
+}

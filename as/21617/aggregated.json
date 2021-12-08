@@ -1,0 +1,13 @@
+{
+  "asn": 21617,
+  "handle": "NARA",
+  "description": "National Archives and Records Administration",
+  "subnets": {
+    "ipv4": [
+      "207.245.160.0/19"
+    ],
+    "ipv6": [
+      "2620:0:2b0::/48"
+    ]
+  }
+}

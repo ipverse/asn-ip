@@ -1,0 +1,12 @@
+{
+  "asn": 26337,
+  "handle": "OIS1",
+  "description": "Oso Grande IP Services, LLC",
+  "subnets": {
+    "ipv4": [
+      "162.215.243.0/24",
+      "162.241.216.0/24"
+    ],
+    "ipv6": []
+  }
+}

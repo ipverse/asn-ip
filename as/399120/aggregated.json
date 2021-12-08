@@ -1,0 +1,13 @@
+{
+  "asn": 399120,
+  "handle": "DDAF-LOU",
+  "description": "Dean Dorton",
+  "subnets": {
+    "ipv4": [
+      "192.243.75.0/24"
+    ],
+    "ipv6": [
+      "2620:a4:2051::/48"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 393564,
+  "handle": "SPOKANE",
+  "description": "Washington State University",
+  "subnets": {
+    "ipv4": [
+      "69.166.36.0/22",
+      "69.166.63.0/24",
+      "192.94.22.0/24"
+    ],
+    "ipv6": []
+  }
+}

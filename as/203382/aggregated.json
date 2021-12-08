@@ -1,0 +1,13 @@
+{
+  "asn": 203382,
+  "handle": "OXID-TELECOM",
+  "description": "Oxid Telecom",
+  "subnets": {
+    "ipv4": [
+      "185.97.100.0/24"
+    ],
+    "ipv6": [
+      "2a06:e044::/44"
+    ]
+  }
+}

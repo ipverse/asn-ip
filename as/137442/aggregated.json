@@ -1,0 +1,14 @@
+{
+  "asn": 137442,
+  "handle": "CAIRNSAIRPORT-AP",
+  "description": "Cairns Airport Pty Ltd",
+  "subnets": {
+    "ipv4": [
+      "203.12.229.0/24",
+      "203.12.230.0/24"
+    ],
+    "ipv6": [
+      "2001:df0:ca00::/47"
+    ]
+  }
+}

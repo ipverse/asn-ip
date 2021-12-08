@@ -1,0 +1,13 @@
+{
+  "asn": 136106,
+  "handle": "FIBERSTAR-ID",
+  "description": "PT. Mega Akses Persada",
+  "subnets": {
+    "ipv4": [
+      "103.87.184.0/22"
+    ],
+    "ipv6": [
+      "2400:d740::/32"
+    ]
+  }
+}

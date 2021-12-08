@@ -1,0 +1,12 @@
+{
+  "asn": 18222,
+  "handle": "DATAHUB-AP",
+  "description": "Data Hub Pvt. Ltd.",
+  "subnets": {
+    "ipv4": [
+      "45.115.216.0/22",
+      "103.90.84.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 44310,
+  "handle": "HSDRN",
+  "description": "INTERNET TECHNOLOGIES LLC",
+  "subnets": {
+    "ipv4": [
+      "195.19.70.0/23",
+      "195.19.220.0/24",
+      "195.93.186.0/23"
+    ],
+    "ipv6": []
+  }
+}

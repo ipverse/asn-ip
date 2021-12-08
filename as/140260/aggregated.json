@@ -1,0 +1,12 @@
+{
+  "asn": 140260,
+  "handle": "CHINATELECOM-ANHUI-XUANCHENG-5G-NETWORK",
+  "description": "China Telecom",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "240e:9b:f02d::/48",
+      "240e:9b:f02e::/47"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 135653,
+  "handle": "URSYS-AP",
+  "description": "URSYS PTY. LTD.",
+  "subnets": {
+    "ipv4": [
+      "203.7.148.0/23"
+    ],
+    "ipv6": [
+      "2001:df6:600::/48"
+    ]
+  }
+}

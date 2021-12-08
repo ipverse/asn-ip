@@ -1,0 +1,13 @@
+{
+  "asn": 32777,
+  "handle": "SMART-CITY-FWCC",
+  "description": "Smart City Networks, L.P.",
+  "subnets": {
+    "ipv4": [
+      "24.56.129.0/24",
+      "24.75.240.0/22",
+      "66.78.242.0/23"
+    ],
+    "ipv6": []
+  }
+}

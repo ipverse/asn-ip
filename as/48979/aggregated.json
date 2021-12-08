@@ -1,0 +1,12 @@
+{
+  "asn": 48979,
+  "handle": "UZINFOCOM",
+  "description": "UZINFOCOM State Unitary Enterprise",
+  "subnets": {
+    "ipv4": [
+      "91.212.89.0/24",
+      "185.8.212.0/23"
+    ],
+    "ipv6": []
+  }
+}

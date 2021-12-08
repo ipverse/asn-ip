@@ -1,0 +1,12 @@
+{
+  "asn": 20519,
+  "handle": "BALTNET",
+  "description": "PJSC Rostelecom",
+  "subnets": {
+    "ipv4": [
+      "89.190.224.0/19",
+      "217.168.64.0/20"
+    ],
+    "ipv6": []
+  }
+}

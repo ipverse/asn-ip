@@ -1,0 +1,11 @@
+{
+  "asn": 137580,
+  "handle": "EWNET-AP",
+  "description": "Everest Wireless Network pvt. ltd",
+  "subnets": {
+    "ipv4": [
+      "103.114.24.0/22"
+    ],
+    "ipv6": []
+  }
+}

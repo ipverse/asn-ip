@@ -1,0 +1,12 @@
+{
+  "asn": 201302,
+  "handle": "VOLNA",
+  "description": "LLC VOLNA",
+  "subnets": {
+    "ipv4": [
+      "95.85.85.0/24",
+      "194.190.7.0/24"
+    ],
+    "ipv6": []
+  }
+}

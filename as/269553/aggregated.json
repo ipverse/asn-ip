@@ -1,0 +1,13 @@
+{
+  "asn": 269553,
+  "handle": "REDE-ONLINE-INTERNET-LTDA",
+  "description": "REDE ONLINE INTERNET LTDA",
+  "subnets": {
+    "ipv4": [
+      "45.185.192.0/22"
+    ],
+    "ipv6": [
+      "2804:665c::/32"
+    ]
+  }
+}

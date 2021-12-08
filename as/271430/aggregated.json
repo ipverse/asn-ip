@@ -1,0 +1,12 @@
+{
+  "asn": 271430,
+  "handle": "LOPES-TELECOM-EIRELI",
+  "description": "LOPES TELECOM EIRELI",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2804:7b68::/44",
+      "2804:7b68:f0::/44"
+    ]
+  }
+}

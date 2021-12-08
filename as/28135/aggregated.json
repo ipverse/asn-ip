@@ -1,0 +1,18 @@
+{
+  "asn": 28135,
+  "handle": "ASSOCIACAO-NACIONAL-PARA",
+  "description": "ASSOCIAÇÃO NACIONAL PARA INCLUSÃO DIGITAL - ANID",
+  "subnets": {
+    "ipv4": [
+      "177.46.0.0/17",
+      "187.45.80.0/20",
+      "187.86.0.0/20",
+      "187.86.16.0/22",
+      "187.86.24.0/21"
+    ],
+    "ipv6": [
+      "2804:88::/35",
+      "2804:88:4000::/36"
+    ]
+  }
+}

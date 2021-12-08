@@ -1,0 +1,13 @@
+{
+  "asn": 264756,
+  "handle": "CABLE-TELEVISION-SATELITAL",
+  "description": "Cable Television Satelital SRL",
+  "subnets": {
+    "ipv4": [
+      "168.195.224.0/22"
+    ],
+    "ipv6": [
+      "2803:c0::/32"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asn": 132432,
+  "handle": "SUKMELAKA-MY",
+  "description": "Jabatan Ketua Menteri Melaka",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2405:4f00::/32"
+    ]
+  }
+}

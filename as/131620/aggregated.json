@@ -1,0 +1,12 @@
+{
+  "asn": 131620,
+  "handle": "SERVCOMP-TW",
+  "description": "SERVCOMPUTING INC",
+  "subnets": {
+    "ipv4": [
+      "103.116.69.0/24",
+      "103.116.70.0/23"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 136081,
+  "handle": "IDNIC-KEBUMENKAB-ID",
+  "description": "PEMERINTAH KABUPATEN KEBUMEN",
+  "subnets": {
+    "ipv4": [
+      "103.86.103.0/24",
+      "103.147.218.0/24"
+    ],
+    "ipv6": []
+  }
+}

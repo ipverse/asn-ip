@@ -1,0 +1,14 @@
+{
+  "asn": 134337,
+  "handle": "R2NET",
+  "description": "R2 Net Solutions Pvt Ltd",
+  "subnets": {
+    "ipv4": [
+      "103.203.224.0/22",
+      "202.66.164.0/22"
+    ],
+    "ipv6": [
+      "2001:df0:d080::/48"
+    ]
+  }
+}

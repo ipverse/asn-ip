@@ -1,0 +1,13 @@
+{
+  "asn": 138547,
+  "handle": "UBRU-UNINET",
+  "description": "Office of Info.Tech. Admin. for Educational Development",
+  "subnets": {
+    "ipv4": [
+      "202.29.20.0/24"
+    ],
+    "ipv6": [
+      "2001:3c8:d109::/48"
+    ]
+  }
+}

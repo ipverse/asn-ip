@@ -1,0 +1,13 @@
+{
+  "asn": 266749,
+  "handle": "RED-WOLF-SRL",
+  "description": "RED WOLF SRL",
+  "subnets": {
+    "ipv4": [
+      "45.4.164.0/22",
+      "138.118.144.0/22",
+      "200.26.236.0/22"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 271211,
+  "handle": "SIVAL-SILVA-ARAUJO-DNET",
+  "description": "SIVAL SILVA ARAUJO - DNET",
+  "subnets": {
+    "ipv4": [
+      "177.36.72.0/22"
+    ],
+    "ipv6": [
+      "2804:77f8::/32"
+    ]
+  }
+}

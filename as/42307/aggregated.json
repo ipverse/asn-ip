@@ -1,0 +1,13 @@
+{
+  "asn": 42307,
+  "handle": "SMHI",
+  "description": "Sveriges Meteorologiska och Hydrologiska Institut",
+  "subnets": {
+    "ipv4": [
+      "91.192.28.0/22"
+    ],
+    "ipv6": [
+      "2001:67c:274::/48"
+    ]
+  }
+}

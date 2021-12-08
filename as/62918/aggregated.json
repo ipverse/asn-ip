@@ -1,0 +1,11 @@
+{
+  "asn": 62918,
+  "handle": "ASTM-INTL",
+  "description": "American Society for Testing and Materials - ASTM",
+  "subnets": {
+    "ipv4": [
+      "198.137.232.0/23"
+    ],
+    "ipv6": []
+  }
+}

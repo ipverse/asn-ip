@@ -1,0 +1,13 @@
+{
+  "asn": 266608,
+  "handle": "OLA-FIBRA-TELECOMUNICACOES",
+  "description": "Ola Fibra Telecomunicacoes LTDA",
+  "subnets": {
+    "ipv4": [
+      "45.7.196.0/22"
+    ],
+    "ipv6": [
+      "2804:3e98::/32"
+    ]
+  }
+}

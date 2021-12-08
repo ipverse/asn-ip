@@ -1,0 +1,13 @@
+{
+  "asn": 268898,
+  "handle": "FIBER-GOLD-TELECOMUNICACOES",
+  "description": "FIBER GOLD TELECOMUNICACOES E SERVICO LTDA",
+  "subnets": {
+    "ipv4": [
+      "45.175.132.0/22"
+    ],
+    "ipv6": [
+      "2804:5c44::/32"
+    ]
+  }
+}

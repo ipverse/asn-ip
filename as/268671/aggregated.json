@@ -1,0 +1,13 @@
+{
+  "asn": 268671,
+  "handle": "RLNET-PROVEDOR",
+  "description": "RLNET PROVEDOR",
+  "subnets": {
+    "ipv4": [
+      "45.165.84.0/22"
+    ],
+    "ipv6": [
+      "2804:54d0::/32"
+    ]
+  }
+}

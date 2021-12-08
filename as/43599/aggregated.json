@@ -1,0 +1,13 @@
+{
+  "asn": 43599,
+  "handle": "NWEWN",
+  "description": "North West Electronics",
+  "subnets": {
+    "ipv4": [
+      "5.172.48.0/20",
+      "37.153.72.0/21",
+      "78.155.224.0/19"
+    ],
+    "ipv6": []
+  }
+}

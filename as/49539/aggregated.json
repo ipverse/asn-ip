@@ -1,0 +1,12 @@
+{
+  "asn": 49539,
+  "handle": "HADARA-FTTH",
+  "description": "InterPal",
+  "subnets": {
+    "ipv4": [
+      "212.106.73.0/24",
+      "217.78.56.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asn": 49907,
+  "handle": "INDECO",
+  "description": "INDECO",
+  "subnets": {
+    "ipv4": [
+      "185.75.55.0/24"
+    ],
+    "ipv6": []
+  }
+}

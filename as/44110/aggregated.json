@@ -1,0 +1,11 @@
+{
+  "asn": 44110,
+  "handle": "WALSALL",
+  "description": "Walsall Metropolitan Borough Council",
+  "subnets": {
+    "ipv4": [
+      "195.88.20.0/23"
+    ],
+    "ipv6": []
+  }
+}

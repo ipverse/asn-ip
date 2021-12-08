@@ -1,0 +1,13 @@
+{
+  "asn": 263926,
+  "handle": "COLARES-PROVEDOR-E",
+  "description": "colares provedor e servicos de internet ltda - me",
+  "subnets": {
+    "ipv4": [
+      "138.219.112.0/22"
+    ],
+    "ipv6": [
+      "2804:27dc::/32"
+    ]
+  }
+}

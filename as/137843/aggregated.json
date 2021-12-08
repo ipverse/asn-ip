@@ -1,0 +1,12 @@
+{
+  "asn": 137843,
+  "handle": "INTERSTELLAR-AP",
+  "description": "INTERSTELLAR",
+  "subnets": {
+    "ipv4": [
+      "103.115.132.0/23",
+      "103.115.134.0/24"
+    ],
+    "ipv6": []
+  }
+}

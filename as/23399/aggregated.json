@@ -1,0 +1,12 @@
+{
+  "asn": 23399,
+  "handle": "VP",
+  "description": "Valley Proteins, Inc.",
+  "subnets": {
+    "ipv4": [
+      "8.42.16.0/24",
+      "50.205.113.0/24"
+    ],
+    "ipv6": []
+  }
+}

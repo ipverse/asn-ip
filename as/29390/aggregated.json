@@ -1,0 +1,14 @@
+{
+  "asn": 29390,
+  "handle": "CTU",
+  "description": "Netassist Limited",
+  "subnets": {
+    "ipv4": [
+      "91.198.133.0/24",
+      "195.10.218.0/24"
+    ],
+    "ipv6": [
+      "2a09:f040::/29"
+    ]
+  }
+}

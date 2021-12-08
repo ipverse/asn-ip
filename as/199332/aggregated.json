@@ -1,0 +1,13 @@
+{
+  "asn": 199332,
+  "handle": "FOON",
+  "description": "Digifoon Group B.V.",
+  "subnets": {
+    "ipv4": [
+      "185.19.236.0/22"
+    ],
+    "ipv6": [
+      "2a02:fe00::/29"
+    ]
+  }
+}

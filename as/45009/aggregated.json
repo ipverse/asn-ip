@@ -1,0 +1,13 @@
+{
+  "asn": 45009,
+  "handle": "BYTEPARK",
+  "description": "Rogier Krieger",
+  "subnets": {
+    "ipv4": [
+      "45.150.40.0/22"
+    ],
+    "ipv6": [
+      "2a0f:9200::/29"
+    ]
+  }
+}

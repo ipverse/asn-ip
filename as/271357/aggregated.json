@@ -1,0 +1,14 @@
+{
+  "asn": 271357,
+  "handle": "FIBRA-DIGITAL-TELECOM-EIRELI",
+  "description": "fibra digital Telecom eireli",
+  "subnets": {
+    "ipv4": [
+      "177.124.108.0/23"
+    ],
+    "ipv6": [
+      "2804:7a3c::/36",
+      "2804:7a3c:f000::/36"
+    ]
+  }
+}

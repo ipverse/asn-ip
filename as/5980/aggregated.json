@@ -1,0 +1,11 @@
+{
+  "asn": 5980,
+  "handle": "DNIC-ASBLK-0-06055",
+  "description": "DoD Network Information Center",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2001:480:90::/48"
+    ]
+  }
+}

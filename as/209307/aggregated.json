@@ -1,0 +1,13 @@
+{
+  "asn": 209307,
+  "handle": "CONVEX-EKB",
+  "description": "LLC Cifrovie Seti Urala",
+  "subnets": {
+    "ipv4": [
+      "95.183.42.0/23",
+      "192.54.76.0/23",
+      "192.54.186.0/23"
+    ],
+    "ipv6": []
+  }
+}

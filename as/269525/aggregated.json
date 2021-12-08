@@ -1,0 +1,11 @@
+{
+  "asn": 269525,
+  "handle": "ISP2-TELECOM",
+  "description": "Isp2 Telecom",
+  "subnets": {
+    "ipv4": [
+      "45.187.250.0/23"
+    ],
+    "ipv6": []
+  }
+}

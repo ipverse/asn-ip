@@ -1,0 +1,12 @@
+{
+  "asn": 138558,
+  "handle": "RCARICKY-NETWORKS-AP",
+  "description": "HostUS Solutions LLC",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2402:9e80:41::/48",
+      "2402:e380:30d::/48"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 31995,
+  "handle": "SCANTRON",
+  "description": "Scantron Corporation",
+  "subnets": {
+    "ipv4": [
+      "208.90.116.0/24",
+      "208.90.118.0/23"
+    ],
+    "ipv6": []
+  }
+}

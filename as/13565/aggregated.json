@@ -1,0 +1,12 @@
+{
+  "asn": 13565,
+  "handle": "ORVIS",
+  "description": "THE ORVIS COMPANY, INC.",
+  "subnets": {
+    "ipv4": [
+      "66.119.112.0/24",
+      "216.168.128.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 45873,
+  "handle": "NEHOS-AU",
+  "description": "Nehos Communications Pty Ltd",
+  "subnets": {
+    "ipv4": [
+      "180.94.236.0/22"
+    ],
+    "ipv6": [
+      "2401:e880::/32"
+    ]
+  }
+}

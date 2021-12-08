@@ -1,0 +1,15 @@
+{
+  "asn": 11554,
+  "handle": "SOLIDNETWORK-01",
+  "description": "SolidNetwork Technologies, Inc.",
+  "subnets": {
+    "ipv4": [
+      "74.123.244.0/22",
+      "104.129.160.0/21",
+      "104.247.88.0/22"
+    ],
+    "ipv6": [
+      "2607:6880::/32"
+    ]
+  }
+}

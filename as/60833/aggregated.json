@@ -1,0 +1,12 @@
+{
+  "asn": 60833,
+  "handle": "NLMK",
+  "description": "OJSC NLMK",
+  "subnets": {
+    "ipv4": [
+      "81.20.194.0/24",
+      "91.229.189.0/24"
+    ],
+    "ipv6": []
+  }
+}

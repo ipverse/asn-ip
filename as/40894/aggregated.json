@@ -1,0 +1,11 @@
+{
+  "asn": 40894,
+  "handle": "INSOL-ASN-01",
+  "description": "Insol",
+  "subnets": {
+    "ipv4": [
+      "208.91.91.0/24"
+    ],
+    "ipv6": []
+  }
+}

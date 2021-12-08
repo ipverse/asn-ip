@@ -1,0 +1,13 @@
+{
+  "asn": 212263,
+  "handle": "ROCKETFIBRE",
+  "description": "Rocket Fibre Ltd",
+  "subnets": {
+    "ipv4": [
+      "185.222.21.0/24"
+    ],
+    "ipv6": [
+      "2a10:f300::/29"
+    ]
+  }
+}

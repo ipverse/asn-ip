@@ -1,0 +1,13 @@
+{
+  "asn": 267580,
+  "handle": "INSTALLNET-SERVICOS-LTDA",
+  "description": "installnet serviços ltda",
+  "subnets": {
+    "ipv4": [
+      "45.70.68.0/22"
+    ],
+    "ipv6": [
+      "2804:43a0::/32"
+    ]
+  }
+}

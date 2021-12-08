@@ -1,0 +1,11 @@
+{
+  "asn": 11350,
+  "handle": "NORTHWESTERN-MEDICAL-CENTER",
+  "description": "NorthWestern Medical Center",
+  "subnets": {
+    "ipv4": [
+      "216.57.112.0/24"
+    ],
+    "ipv6": []
+  }
+}

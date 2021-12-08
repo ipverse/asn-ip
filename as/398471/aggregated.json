@@ -1,0 +1,12 @@
+{
+  "asn": 398471,
+  "handle": "MANSFIELD",
+  "description": "Mansfield University",
+  "subnets": {
+    "ipv4": [
+      "157.62.0.0/16",
+      "204.108.186.0/23"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 135685,
+  "handle": "INETFIB-IN",
+  "description": "INET FIBER PVT LTD",
+  "subnets": {
+    "ipv4": [
+      "103.68.176.0/24",
+      "103.102.86.0/23"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 263005,
+  "handle": "NET-MASTER-TELECOM-LTDA",
+  "description": "Net Master Telecom Ltda",
+  "subnets": {
+    "ipv4": [
+      "186.251.216.0/21"
+    ],
+    "ipv6": [
+      "2804:5090::/32"
+    ]
+  }
+}

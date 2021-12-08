@@ -1,0 +1,13 @@
+{
+  "asn": 264921,
+  "handle": "LASER-PROVEDOR-DE",
+  "description": "LASER PROVEDOR DE INTERNET LTDA - ME",
+  "subnets": {
+    "ipv4": [
+      "168.228.164.0/22"
+    ],
+    "ipv6": [
+      "2804:2ff0::/32"
+    ]
+  }
+}

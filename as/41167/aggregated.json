@@ -1,0 +1,13 @@
+{
+  "asn": 41167,
+  "handle": "REWE-RIS",
+  "description": "REWE Systems GmbH",
+  "subnets": {
+    "ipv4": [
+      "84.38.192.0/20",
+      "217.110.62.0/24",
+      "217.111.44.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 138354,
+  "handle": "LOCALDC-AP",
+  "description": "LocalDC Pty Ltd",
+  "subnets": {
+    "ipv4": [
+      "45.120.36.0/24",
+      "103.131.40.0/23"
+    ],
+    "ipv6": []
+  }
+}

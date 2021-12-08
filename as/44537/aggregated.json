@@ -1,0 +1,11 @@
+{
+  "asn": 44537,
+  "handle": "EUROANSWER-MK",
+  "description": "Euroanswer dooel",
+  "subnets": {
+    "ipv4": [
+      "91.198.59.0/24"
+    ],
+    "ipv6": []
+  }
+}

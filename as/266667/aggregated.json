@@ -1,0 +1,12 @@
+{
+  "asn": 266667,
+  "handle": "TECCIAL",
+  "description": "TECCIAL",
+  "subnets": {
+    "ipv4": [
+      "45.228.172.0/23",
+      "45.228.175.0/24"
+    ],
+    "ipv6": []
+  }
+}

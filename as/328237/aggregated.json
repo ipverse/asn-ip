@@ -1,0 +1,13 @@
+{
+  "asn": 328237,
+  "handle": "MEGA-MAX",
+  "description": "Mega Max Distributors",
+  "subnets": {
+    "ipv4": [
+      "165.73.232.0/22"
+    ],
+    "ipv6": [
+      "2c0f:f1a8::/32"
+    ]
+  }
+}

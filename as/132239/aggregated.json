@@ -1,0 +1,12 @@
+{
+  "asn": 132239,
+  "handle": "ENVESTNET-IN",
+  "description": "Envestnet Asset Management India Pvt. Ltd",
+  "subnets": {
+    "ipv4": [
+      "103.8.62.0/24",
+      "103.227.150.0/24"
+    ],
+    "ipv6": []
+  }
+}

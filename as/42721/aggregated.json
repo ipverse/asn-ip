@@ -1,0 +1,13 @@
+{
+  "asn": 42721,
+  "handle": "VIDEOMAXAVS",
+  "description": "VideoMaxAVS Ltd.",
+  "subnets": {
+    "ipv4": [
+      "194.110.205.0/24"
+    ],
+    "ipv6": [
+      "2a09:6340::/44"
+    ]
+  }
+}

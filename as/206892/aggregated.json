@@ -1,0 +1,16 @@
+{
+  "asn": 206892,
+  "handle": "RENDSZERINF",
+  "description": "Rendszerinformatika Zrt.",
+  "subnets": {
+    "ipv4": [
+      "45.95.44.0/22",
+      "185.161.72.0/22",
+      "185.199.28.0/22",
+      "194.39.44.0/22"
+    ],
+    "ipv6": [
+      "2a07:c280::/32"
+    ]
+  }
+}

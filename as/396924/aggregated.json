@@ -1,0 +1,11 @@
+{
+  "asn": 396924,
+  "handle": "SKYLANDS-NETWORKS",
+  "description": "Skylands Network Services",
+  "subnets": {
+    "ipv4": [
+      "208.86.84.0/22"
+    ],
+    "ipv6": []
+  }
+}

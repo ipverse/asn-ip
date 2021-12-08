@@ -1,0 +1,13 @@
+{
+  "asn": 270753,
+  "handle": "NAVEX-INTERNET-LTDA",
+  "description": "NAVEX INTERNET LTDA",
+  "subnets": {
+    "ipv4": [
+      "179.109.96.0/22"
+    ],
+    "ipv6": [
+      "2804:70e0::/32"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 61391,
+  "handle": "IR-NERN",
+  "description": "Simorgh Scientific Network Services and Communication Company PJS",
+  "subnets": {
+    "ipv4": [
+      "62.60.194.0/24",
+      "62.60.196.0/22",
+      "185.79.96.0/23"
+    ],
+    "ipv6": []
+  }
+}

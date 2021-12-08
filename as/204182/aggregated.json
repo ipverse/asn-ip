@@ -1,0 +1,14 @@
+{
+  "asn": 204182,
+  "handle": "AWV-TELEMATICA",
+  "description": "De Vlaamse Overheid, Agentschap Wegen en Verkeer",
+  "subnets": {
+    "ipv4": [
+      "154.52.34.0/24",
+      "185.105.156.0/22"
+    ],
+    "ipv6": [
+      "2a06:3840::/29"
+    ]
+  }
+}

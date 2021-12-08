@@ -1,0 +1,13 @@
+{
+  "asn": 25126,
+  "handle": "TIWAG-GROUP-NET",
+  "description": "TIWAG-Tiroler Wasserkraft AG",
+  "subnets": {
+    "ipv4": [
+      "193.108.212.0/24"
+    ],
+    "ipv6": [
+      "2001:678:528::/48"
+    ]
+  }
+}

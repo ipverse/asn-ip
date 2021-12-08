@@ -1,0 +1,14 @@
+{
+  "asn": 263608,
+  "handle": "WSNET-TELECOM-LTDA-ME",
+  "description": "WSNET TELECOM LTDA ME",
+  "subnets": {
+    "ipv4": [
+      "170.244.28.0/22",
+      "177.136.96.0/21"
+    ],
+    "ipv6": [
+      "2804:fdc::/32"
+    ]
+  }
+}

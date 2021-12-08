@@ -1,0 +1,11 @@
+{
+  "asn": 56096,
+  "handle": "RESERVED",
+  "description": "APNIC ASN block",
+  "subnets": {
+    "ipv4": [
+      "27.100.7.0/24"
+    ],
+    "ipv6": []
+  }
+}

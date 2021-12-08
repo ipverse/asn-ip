@@ -1,0 +1,12 @@
+{
+  "asn": 394920,
+  "handle": "FTV-IAD",
+  "description": "FTV Business Services LLC",
+  "subnets": {
+    "ipv4": [
+      "192.158.64.0/23",
+      "192.158.71.0/24"
+    ],
+    "ipv6": []
+  }
+}

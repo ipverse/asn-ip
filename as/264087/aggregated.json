@@ -1,0 +1,12 @@
+{
+  "asn": 264087,
+  "handle": "FUNDACAO-PAULISTA-DE",
+  "description": "FUNDACAO PAULISTA DE TECNOLOGIA E EDUCACAO",
+  "subnets": {
+    "ipv4": [
+      "168.195.248.0/22",
+      "200.10.138.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 137181,
+  "handle": "WINDSOR",
+  "description": "Windsor Internet Private Limited",
+  "subnets": {
+    "ipv4": [
+      "103.109.136.0/24",
+      "103.109.139.0/24"
+    ],
+    "ipv6": []
+  }
+}

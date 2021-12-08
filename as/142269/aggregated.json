@@ -1,0 +1,12 @@
+{
+  "asn": 142269,
+  "handle": "KINA-AP",
+  "description": "KINA BANK",
+  "subnets": {
+    "ipv4": [
+      "103.167.47.0/24",
+      "103.175.149.0/24"
+    ],
+    "ipv6": []
+  }
+}

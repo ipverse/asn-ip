@@ -1,0 +1,13 @@
+{
+  "asn": 213187,
+  "handle": "LIDER-NET",
+  "description": "Lider-net Ltd.",
+  "subnets": {
+    "ipv4": [
+      "31.148.252.0/22"
+    ],
+    "ipv6": [
+      "2001:678:d54::/48"
+    ]
+  }
+}

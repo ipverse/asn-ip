@@ -1,0 +1,12 @@
+{
+  "asn": 33961,
+  "handle": "TELCOR",
+  "description": "Telcor Communications SRL",
+  "subnets": {
+    "ipv4": [
+      "81.181.193.0/24",
+      "193.26.10.0/24"
+    ],
+    "ipv6": []
+  }
+}

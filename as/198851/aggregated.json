@@ -1,0 +1,12 @@
+{
+  "asn": 198851,
+  "handle": "NSTI",
+  "description": "NSTI Sp. z o.o.",
+  "subnets": {
+    "ipv4": [
+      "91.239.254.0/24",
+      "193.192.168.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 264697,
+  "handle": "LEWTEL-SRL",
+  "description": "LEWTEL SRL",
+  "subnets": {
+    "ipv4": [
+      "168.232.88.0/24",
+      "168.232.91.0/24"
+    ],
+    "ipv6": []
+  }
+}

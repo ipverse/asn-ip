@@ -1,0 +1,13 @@
+{
+  "asn": 20312,
+  "handle": "FUNDACION-CENTRO-NACIONAL",
+  "description": "Fundación Centro Nacional de Innovación Tecnológica (CENIT)",
+  "subnets": {
+    "ipv4": [
+      "150.185.0.0/16",
+      "150.186.0.0/15",
+      "150.188.0.0/16"
+    ],
+    "ipv6": []
+  }
+}

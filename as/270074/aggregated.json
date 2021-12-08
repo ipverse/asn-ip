@@ -1,0 +1,13 @@
+{
+  "asn": 270074,
+  "handle": "UNIVERSIDAD-DE-LAS-ARTES",
+  "description": "UNIVERSIDAD DE LAS ARTES",
+  "subnets": {
+    "ipv4": [
+      "200.1.112.0/24"
+    ],
+    "ipv6": [
+      "2801:1b:2800::/48"
+    ]
+  }
+}

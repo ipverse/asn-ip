@@ -1,0 +1,13 @@
+{
+  "asn": 132785,
+  "handle": "SNU",
+  "description": "Shiv Nadar University",
+  "subnets": {
+    "ipv4": [
+      "45.114.148.0/24",
+      "45.114.150.0/23",
+      "103.27.164.0/22"
+    ],
+    "ipv6": []
+  }
+}

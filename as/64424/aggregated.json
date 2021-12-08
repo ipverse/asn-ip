@@ -1,0 +1,13 @@
+{
+  "asn": 64424,
+  "handle": "DATAEQUIPMENT",
+  "description": "Data Equipment A/S",
+  "subnets": {
+    "ipv4": [
+      "185.97.192.0/24"
+    ],
+    "ipv6": [
+      "2001:67c:774::/48"
+    ]
+  }
+}

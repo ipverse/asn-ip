@@ -1,0 +1,11 @@
+{
+  "asn": 134845,
+  "handle": "WIAL-AP",
+  "description": "Wellington International Airport Limited",
+  "subnets": {
+    "ipv4": [
+      "103.203.188.0/24"
+    ],
+    "ipv6": []
+  }
+}

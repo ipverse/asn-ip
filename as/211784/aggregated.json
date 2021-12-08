@@ -1,0 +1,13 @@
+{
+  "asn": 211784,
+  "handle": "BEIT",
+  "description": "BEIT GmbH",
+  "subnets": {
+    "ipv4": [
+      "193.102.155.0/24"
+    ],
+    "ipv6": [
+      "2a10:9540::/29"
+    ]
+  }
+}

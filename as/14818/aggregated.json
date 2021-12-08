@@ -1,0 +1,13 @@
+{
+  "asn": 14818,
+  "handle": "CYBERMESA",
+  "description": "Cyber Mesa Computer Systems, Incorporated",
+  "subnets": {
+    "ipv4": [
+      "65.19.0.0/18"
+    ],
+    "ipv6": [
+      "2607:6900::/32"
+    ]
+  }
+}

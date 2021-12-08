@@ -1,0 +1,14 @@
+{
+  "asn": 59239,
+  "handle": "ITELLIMITED-AP",
+  "description": "iTel Limited",
+  "subnets": {
+    "ipv4": [
+      "45.115.12.0/22",
+      "103.253.160.0/22"
+    ],
+    "ipv6": [
+      "2407:e740:10a::/48"
+    ]
+  }
+}

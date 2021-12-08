@@ -1,0 +1,16 @@
+{
+  "asn": 398371,
+  "handle": "ORANGE-COUNTY-BROADBAND-AUTHORITY",
+  "description": "OCBA",
+  "subnets": {
+    "ipv4": [
+      "38.91.60.0/23",
+      "38.92.32.0/22",
+      "134.195.252.0/24",
+      "198.160.26.0/23"
+    ],
+    "ipv6": [
+      "2605:c9c0::/32"
+    ]
+  }
+}

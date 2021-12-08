@@ -1,0 +1,14 @@
+{
+  "asn": 264016,
+  "handle": "SNELL-TELECOMUNICACOES-LTDA",
+  "description": "Snell Telecomunicações Ltda. ME",
+  "subnets": {
+    "ipv4": [
+      "143.0.232.0/22",
+      "177.101.48.0/20"
+    ],
+    "ipv6": [
+      "2804:2974::/32"
+    ]
+  }
+}

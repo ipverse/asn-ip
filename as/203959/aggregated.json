@@ -1,0 +1,13 @@
+{
+  "asn": 203959,
+  "handle": "DEM",
+  "description": "LLC SMARTMEDIANETWORK",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a09:1b80::/29",
+      "2a09:ed80::/29",
+      "2a0c:4dc0::/29"
+    ]
+  }
+}

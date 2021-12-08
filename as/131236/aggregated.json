@@ -1,0 +1,12 @@
+{
+  "asn": 131236,
+  "handle": "GENWORXPTELTD-AP",
+  "description": "Genworx Pte Ltd",
+  "subnets": {
+    "ipv4": [
+      "43.242.184.0/22",
+      "103.38.72.0/22"
+    ],
+    "ipv6": []
+  }
+}

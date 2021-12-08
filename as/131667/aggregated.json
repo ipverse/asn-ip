@@ -1,0 +1,13 @@
+{
+  "asn": 131667,
+  "handle": "GRONEXT",
+  "description": "GRONEXT CO., LTD.",
+  "subnets": {
+    "ipv4": [
+      "103.146.210.0/23"
+    ],
+    "ipv6": [
+      "2405:a040::/32"
+    ]
+  }
+}

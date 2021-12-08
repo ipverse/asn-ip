@@ -1,0 +1,12 @@
+{
+  "asn": 212140,
+  "handle": "METROPOLE-GRENOBLE",
+  "description": "Grenoble-Alpes Metropole EPCI",
+  "subnets": {
+    "ipv4": [
+      "185.205.71.0/24",
+      "185.226.96.0/24"
+    ],
+    "ipv6": []
+  }
+}

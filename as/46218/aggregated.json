@@ -1,0 +1,13 @@
+{
+  "asn": 46218,
+  "handle": "COMPORIUM-BREVARD",
+  "description": "Comporium, Inc",
+  "subnets": {
+    "ipv4": [
+      "207.144.247.0/24"
+    ],
+    "ipv6": [
+      "2607:f281::/32"
+    ]
+  }
+}

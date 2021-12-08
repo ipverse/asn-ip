@@ -1,0 +1,13 @@
+{
+  "asn": 31626,
+  "handle": "ZVITELECOM",
+  "description": "OOO ZVI Telecom",
+  "subnets": {
+    "ipv4": [
+      "188.64.160.0/23",
+      "188.64.163.0/24",
+      "188.64.164.0/24"
+    ],
+    "ipv6": []
+  }
+}

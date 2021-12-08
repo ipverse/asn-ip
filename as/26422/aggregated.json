@@ -1,0 +1,12 @@
+{
+  "asn": 26422,
+  "handle": "ABOUTIT-ONLINE",
+  "description": "About IT Online",
+  "subnets": {
+    "ipv4": [
+      "154.72.56.0/21",
+      "196.46.184.0/22"
+    ],
+    "ipv6": []
+  }
+}

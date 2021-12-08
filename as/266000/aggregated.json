@@ -1,0 +1,13 @@
+{
+  "asn": 266000,
+  "handle": "R-F-DE-SOUZA-JUNIOR",
+  "description": "R F de Souza Junior",
+  "subnets": {
+    "ipv4": [
+      "181.191.40.0/22"
+    ],
+    "ipv6": [
+      "2804:410c::/32"
+    ]
+  }
+}

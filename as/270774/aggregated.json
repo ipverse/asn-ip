@@ -1,0 +1,13 @@
+{
+  "asn": 270774,
+  "handle": "COTEL-TELECOMUNICACOES",
+  "description": "COTEL TELECOMUNICAÇÕES",
+  "subnets": {
+    "ipv4": [
+      "187.63.120.0/22"
+    ],
+    "ipv6": [
+      "2804:7134::/32"
+    ]
+  }
+}

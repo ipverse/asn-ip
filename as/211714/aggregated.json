@@ -1,0 +1,11 @@
+{
+  "asn": 211714,
+  "handle": "MIAC",
+  "description": "BUZ Orlovskoy oblasti MIAC",
+  "subnets": {
+    "ipv4": [
+      "185.225.176.0/24"
+    ],
+    "ipv6": []
+  }
+}

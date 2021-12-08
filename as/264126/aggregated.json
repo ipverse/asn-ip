@@ -1,0 +1,14 @@
+{
+  "asn": 264126,
+  "handle": "SIX-INTERNET-LTDA",
+  "description": "SIX INTERNET LTDA",
+  "subnets": {
+    "ipv4": [
+      "138.59.200.0/23",
+      "138.59.203.0/24"
+    ],
+    "ipv6": [
+      "2804:22d8::/32"
+    ]
+  }
+}

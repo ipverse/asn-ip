@@ -1,0 +1,11 @@
+{
+  "asn": 45380,
+  "handle": "MMAACNC-KR-KR",
+  "description": "MMAAC C",
+  "subnets": {
+    "ipv4": [
+      "175.211.51.0/24"
+    ],
+    "ipv6": []
+  }
+}

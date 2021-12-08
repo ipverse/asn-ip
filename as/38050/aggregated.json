@@ -1,0 +1,11 @@
+{
+  "asn": 38050,
+  "handle": "CPA-AUSTRALIA-AP",
+  "description": "CPA Australia",
+  "subnets": {
+    "ipv4": [
+      "203.190.252.0/23"
+    ],
+    "ipv6": []
+  }
+}

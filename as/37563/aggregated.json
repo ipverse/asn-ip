@@ -1,0 +1,12 @@
+{
+  "asn": 37563,
+  "handle": "SOMTEL",
+  "description": "SOMTEL INTERNATIONAL Ltd",
+  "subnets": {
+    "ipv4": [
+      "102.128.128.0/22",
+      "197.231.200.0/22"
+    ],
+    "ipv6": []
+  }
+}

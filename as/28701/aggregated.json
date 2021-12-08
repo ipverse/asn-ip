@@ -1,0 +1,13 @@
+{
+  "asn": 28701,
+  "handle": "VERTICAL",
+  "description": "vertical GmbH",
+  "subnets": {
+    "ipv4": [
+      "45.156.108.0/22"
+    ],
+    "ipv6": [
+      "2a10:4000::/29"
+    ]
+  }
+}

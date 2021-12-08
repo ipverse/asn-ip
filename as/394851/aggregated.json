@@ -1,0 +1,14 @@
+{
+  "asn": 394851,
+  "handle": "BRIGHTLINK-DEN",
+  "description": "Brightlink Communications LLC",
+  "subnets": {
+    "ipv4": [
+      "162.212.246.0/23",
+      "192.12.128.0/24"
+    ],
+    "ipv6": [
+      "2605:2b40:4000::/34"
+    ]
+  }
+}

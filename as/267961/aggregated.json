@@ -1,0 +1,13 @@
+{
+  "asn": 267961,
+  "handle": "FRAGA-COMUNICACAO-E",
+  "description": "FRAGA COMUNICACAO E MANUTENCAO DE EQUIPAMENTOS",
+  "subnets": {
+    "ipv4": [
+      "45.165.160.0/22"
+    ],
+    "ipv6": [
+      "2804:55dc:2000::/35"
+    ]
+  }
+}

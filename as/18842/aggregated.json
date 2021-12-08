@@ -1,0 +1,13 @@
+{
+  "asn": 18842,
+  "handle": "VERTICAL-SCR",
+  "description": "Business Information Group, Inc.",
+  "subnets": {
+    "ipv4": [
+      "63.121.77.0/24",
+      "65.211.100.0/24",
+      "208.251.220.0/23"
+    ],
+    "ipv6": []
+  }
+}

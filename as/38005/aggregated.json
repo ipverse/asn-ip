@@ -1,0 +1,13 @@
+{
+  "asn": 38005,
+  "handle": "MIMOS-REN-AP",
+  "description": "MIMOS Berhad",
+  "subnets": {
+    "ipv4": [
+      "202.45.136.0/21"
+    ],
+    "ipv6": [
+      "2407:4000::/32"
+    ]
+  }
+}

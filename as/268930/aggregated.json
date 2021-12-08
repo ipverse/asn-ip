@@ -1,0 +1,13 @@
+{
+  "asn": 268930,
+  "handle": "ILHAS-NET-LTDA-ME",
+  "description": "Ilhas Net LTDA - ME",
+  "subnets": {
+    "ipv4": [
+      "45.176.44.0/22"
+    ],
+    "ipv6": [
+      "2804:5cc8::/32"
+    ]
+  }
+}

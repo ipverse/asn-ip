@@ -1,0 +1,11 @@
+{
+  "asn": 42408,
+  "handle": "TSV",
+  "description": "JSC Company Transsviaz",
+  "subnets": {
+    "ipv4": [
+      "79.98.200.0/21"
+    ],
+    "ipv6": []
+  }
+}

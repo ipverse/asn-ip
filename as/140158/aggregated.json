@@ -1,0 +1,13 @@
+{
+  "asn": 140158,
+  "handle": "NAII-IN",
+  "description": "Net Access Internet India Pvt Ltd",
+  "subnets": {
+    "ipv4": [
+      "103.149.196.0/23"
+    ],
+    "ipv6": [
+      "2407:96c0::/32"
+    ]
+  }
+}

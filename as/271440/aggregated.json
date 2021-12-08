@@ -1,0 +1,11 @@
+{
+  "asn": 271440,
+  "handle": "BIRONET-TELECOM",
+  "description": "BIRONET TELECOM",
+  "subnets": {
+    "ipv4": [
+      "200.36.140.0/22"
+    ],
+    "ipv6": []
+  }
+}

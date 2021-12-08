@@ -1,0 +1,13 @@
+{
+  "asn": 265781,
+  "handle": "PALA-PABLO-FEDERICO",
+  "description": "PALA PABLO FEDERICO",
+  "subnets": {
+    "ipv4": [
+      "164.163.56.0/22"
+    ],
+    "ipv6": [
+      "2803:1fc0::/32"
+    ]
+  }
+}

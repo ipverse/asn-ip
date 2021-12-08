@@ -1,0 +1,14 @@
+{
+  "asn": 26943,
+  "handle": "YOUR-ORG-INC-EURO",
+  "description": "YOUR.ORG, INC.",
+  "subnets": {
+    "ipv4": [
+      "199.165.179.0/24",
+      "204.9.51.0/24"
+    ],
+    "ipv6": [
+      "2001:4978:f::/48"
+    ]
+  }
+}

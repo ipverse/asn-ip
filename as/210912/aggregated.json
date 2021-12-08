@@ -1,0 +1,11 @@
+{
+  "asn": 210912,
+  "handle": "YUSERVICE",
+  "description": "LLC YUSERVICE",
+  "subnets": {
+    "ipv4": [
+      "193.232.60.0/22"
+    ],
+    "ipv6": []
+  }
+}

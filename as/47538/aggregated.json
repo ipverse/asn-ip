@@ -1,0 +1,12 @@
+{
+  "asn": 47538,
+  "handle": "ANCOMA",
+  "description": "Swisspro AG",
+  "subnets": {
+    "ipv4": [
+      "194.150.160.0/23",
+      "212.243.121.0/24"
+    ],
+    "ipv6": []
+  }
+}

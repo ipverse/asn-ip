@@ -1,0 +1,11 @@
+{
+  "asn": 134013,
+  "handle": "MASSSOHN-IN",
+  "description": "Mass Computer",
+  "subnets": {
+    "ipv4": [
+      "103.94.64.0/22"
+    ],
+    "ipv6": []
+  }
+}

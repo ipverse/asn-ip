@@ -1,0 +1,13 @@
+{
+  "asn": 132645,
+  "handle": "IDNIC-PPNS-ID",
+  "description": "Politeknik Perkapalan Negeri Surabaya",
+  "subnets": {
+    "ipv4": [
+      "103.24.48.0/22"
+    ],
+    "ipv6": [
+      "2001:df2:b600::/48"
+    ]
+  }
+}

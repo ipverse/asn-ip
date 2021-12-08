@@ -1,0 +1,13 @@
+{
+  "asn": 206917,
+  "handle": "DE-GKVI",
+  "description": "gkv informatik GbR",
+  "subnets": {
+    "ipv4": [
+      "185.172.8.0/22"
+    ],
+    "ipv6": [
+      "2a0a:fd00::/32"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 32402,
+  "handle": "TOWER",
+  "description": "Tower Research Capital LLC",
+  "subnets": {
+    "ipv4": [
+      "64.245.141.0/24",
+      "141.193.137.0/24",
+      "199.7.184.0/23"
+    ],
+    "ipv6": []
+  }
+}

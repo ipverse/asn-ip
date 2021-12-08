@@ -1,0 +1,11 @@
+{
+  "asn": 137809,
+  "handle": "PE-AP",
+  "description": "Pereira Enterprise",
+  "subnets": {
+    "ipv4": [
+      "103.114.92.0/24"
+    ],
+    "ipv6": []
+  }
+}

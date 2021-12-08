@@ -1,0 +1,13 @@
+{
+  "asn": 264835,
+  "handle": "CORPORACION-UNIVERSIDAD-DE",
+  "description": "CORPORACION UNIVERSIDAD DE LA COSTA CUC",
+  "subnets": {
+    "ipv4": [
+      "170.82.40.0/23"
+    ],
+    "ipv6": [
+      "2801:144::/42"
+    ]
+  }
+}

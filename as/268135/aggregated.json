@@ -1,0 +1,13 @@
+{
+  "asn": 268135,
+  "handle": "INTERPLUS-TECNLOGIA",
+  "description": "INTERPLUS TECNLOGIA",
+  "subnets": {
+    "ipv4": [
+      "45.170.4.0/22"
+    ],
+    "ipv6": [
+      "2804:588c::/32"
+    ]
+  }
+}

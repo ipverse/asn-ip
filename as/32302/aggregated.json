@@ -1,0 +1,11 @@
+{
+  "asn": 32302,
+  "handle": "CIBC-US",
+  "description": "CIBC Bank USA",
+  "subnets": {
+    "ipv4": [
+      "66.146.220.0/24"
+    ],
+    "ipv6": []
+  }
+}

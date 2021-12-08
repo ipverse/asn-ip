@@ -1,0 +1,11 @@
+{
+  "asn": 327771,
+  "handle": "MILAN-CABLE",
+  "description": "Milan Cable",
+  "subnets": {
+    "ipv4": [
+      "41.74.112.0/20"
+    ],
+    "ipv6": []
+  }
+}

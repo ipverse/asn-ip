@@ -1,0 +1,11 @@
+{
+  "asn": 38334,
+  "handle": "WPRONET-WHO-PH",
+  "description": "World Health Organization",
+  "subnets": {
+    "ipv4": [
+      "123.176.64.0/21"
+    ],
+    "ipv6": []
+  }
+}

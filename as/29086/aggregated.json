@@ -1,0 +1,13 @@
+{
+  "asn": 29086,
+  "handle": "GITY",
+  "description": "GiTy, a.s.",
+  "subnets": {
+    "ipv4": [
+      "217.64.0.0/20"
+    ],
+    "ipv6": [
+      "2a03:bc00::/32"
+    ]
+  }
+}

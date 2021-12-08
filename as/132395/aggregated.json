@@ -1,0 +1,14 @@
+{
+  "asn": 132395,
+  "handle": "DST",
+  "description": "Unified National Networks",
+  "subnets": {
+    "ipv4": [
+      "103.20.24.0/22",
+      "202.152.88.0/22"
+    ],
+    "ipv6": [
+      "2405:1700::/32"
+    ]
+  }
+}

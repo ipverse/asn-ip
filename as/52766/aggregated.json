@@ -1,0 +1,14 @@
+{
+  "asn": 52766,
+  "handle": "PRINTNET-TELECOMUNICACOES",
+  "description": "Printnet telecomunicaçoes",
+  "subnets": {
+    "ipv4": [
+      "177.39.108.0/22",
+      "177.125.72.0/21"
+    ],
+    "ipv6": [
+      "2804:1098::/32"
+    ]
+  }
+}

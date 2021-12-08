@@ -1,0 +1,12 @@
+{
+  "asn": 196665,
+  "handle": "OPTICOM",
+  "description": "KNC Optikom Ltd",
+  "subnets": {
+    "ipv4": [
+      "91.232.116.0/22",
+      "195.88.52.0/23"
+    ],
+    "ipv6": []
+  }
+}

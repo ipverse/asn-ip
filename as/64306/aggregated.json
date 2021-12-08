@@ -1,0 +1,12 @@
+{
+  "asn": 64306,
+  "handle": "IDNIC-TEMANGGUNGKAB-ID",
+  "description": "PEMERINTAH KABUPATEN TEMANGGUNG",
+  "subnets": {
+    "ipv4": [
+      "103.79.90.0/24",
+      "103.144.5.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 209347,
+  "handle": "FFH",
+  "description": "FNorden e.V. - Freifunk Hannover",
+  "subnets": {
+    "ipv4": [
+      "45.12.203.0/24"
+    ],
+    "ipv6": [
+      "2001:678:978::/48"
+    ]
+  }
+}

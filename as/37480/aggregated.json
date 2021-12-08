@@ -1,0 +1,14 @@
+{
+  "asn": 37480,
+  "handle": "COBRANET",
+  "description": "Cobranet Limited",
+  "subnets": {
+    "ipv4": [
+      "197.149.120.0/22",
+      "197.149.124.0/24"
+    ],
+    "ipv6": [
+      "2c0f:fb98::/32"
+    ]
+  }
+}

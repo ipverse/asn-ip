@@ -1,0 +1,13 @@
+{
+  "asn": 267855,
+  "handle": "CAMARA-DE-COMERCIO-DE-BOGOTA",
+  "description": "CÁMARA DE COMERCIO DE BOGOTA",
+  "subnets": {
+    "ipv4": [
+      "45.174.227.0/24"
+    ],
+    "ipv6": [
+      "2801:1b:800::/48"
+    ]
+  }
+}

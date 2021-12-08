@@ -1,0 +1,15 @@
+{
+  "asn": 55470,
+  "handle": "CYFUTURE-IN",
+  "description": "Cyfuture India Pvt. Ltd.",
+  "subnets": {
+    "ipv4": [
+      "49.50.64.0/18",
+      "103.10.188.0/22",
+      "111.118.176.0/20"
+    ],
+    "ipv6": [
+      "2404:8500::/32"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 267315,
+  "handle": "GIGABYTE-NET",
+  "description": "Gigabyte Net",
+  "subnets": {
+    "ipv4": [
+      "45.233.160.0/22"
+    ],
+    "ipv6": [
+      "2804:4b90::/32"
+    ]
+  }
+}

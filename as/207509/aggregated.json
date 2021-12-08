@@ -1,0 +1,13 @@
+{
+  "asn": 207509,
+  "handle": "VERKKOKAUPPA",
+  "description": "Verkkokauppa.com Oyj",
+  "subnets": {
+    "ipv4": [
+      "185.25.94.0/24"
+    ],
+    "ipv6": [
+      "2a0c:95c0::/29"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 9140,
+  "handle": "HYPERNEPH",
+  "description": "Hyperneph Ltd",
+  "subnets": {
+    "ipv4": [
+      "5.255.136.0/23",
+      "5.255.138.0/24"
+    ],
+    "ipv6": []
+  }
+}

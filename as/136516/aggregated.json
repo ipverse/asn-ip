@@ -1,0 +1,11 @@
+{
+  "asn": 136516,
+  "handle": "UNIQUENET-AP",
+  "description": "Unique Net",
+  "subnets": {
+    "ipv4": [
+      "103.91.144.0/22"
+    ],
+    "ipv6": []
+  }
+}

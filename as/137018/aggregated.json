@@ -1,0 +1,11 @@
+{
+  "asn": 137018,
+  "handle": "BLUE1-AP",
+  "description": "Blue Sky Cable Network",
+  "subnets": {
+    "ipv4": [
+      "103.149.60.0/23"
+    ],
+    "ipv6": []
+  }
+}

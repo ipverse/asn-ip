@@ -1,0 +1,13 @@
+{
+  "asn": 271230,
+  "handle": "FOX-SERVICOS-DE",
+  "description": "FOX SERVICOS DE COMUNICACAO MULTIMIDIA LTDA",
+  "subnets": {
+    "ipv4": [
+      "179.49.252.0/22"
+    ],
+    "ipv6": [
+      "2804:7840::/32"
+    ]
+  }
+}

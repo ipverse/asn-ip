@@ -1,0 +1,16 @@
+{
+  "asn": 263569,
+  "handle": "DIRECT-WIFI-TELECOM-LTDA-ME",
+  "description": "DIRECT WIFI TELECOM LTDA. ME",
+  "subnets": {
+    "ipv4": [
+      "138.118.168.0/22",
+      "168.232.216.0/22",
+      "170.80.208.0/22",
+      "186.249.216.0/22"
+    ],
+    "ipv6": [
+      "2804:f30::/32"
+    ]
+  }
+}

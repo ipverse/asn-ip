@@ -1,0 +1,16 @@
+{
+  "asn": 268432,
+  "handle": "DIGITAL-COMUNICACAO-VIRTUAL",
+  "description": "DIGITAL COMUNICAÇÃO VIRTUAL EIRELI",
+  "subnets": {
+    "ipv4": [
+      "45.160.160.0/22"
+    ],
+    "ipv6": [
+      "2804:5120::/34",
+      "2804:5120:4000::/35",
+      "2804:5120:8000::/34",
+      "2804:5120:c000::/35"
+    ]
+  }
+}

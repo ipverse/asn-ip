@@ -1,0 +1,12 @@
+{
+  "asn": 36305,
+  "handle": "AMTA-AS1",
+  "description": "The Albany Mutual Telephone Association",
+  "subnets": {
+    "ipv4": [
+      "184.94.160.0/20",
+      "192.111.31.0/24"
+    ],
+    "ipv6": []
+  }
+}

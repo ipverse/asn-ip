@@ -1,0 +1,11 @@
+{
+  "asn": 142547,
+  "handle": "FCNNM-AP",
+  "description": "Fatickchari Communication Network",
+  "subnets": {
+    "ipv4": [
+      "103.168.224.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 208142,
+  "handle": "ROCKET-TELECOM",
+  "description": "LLC Rocket Telecom",
+  "subnets": {
+    "ipv4": [
+      "62.140.248.0/24",
+      "185.147.38.0/24"
+    ],
+    "ipv6": []
+  }
+}

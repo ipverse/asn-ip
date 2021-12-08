@@ -1,0 +1,11 @@
+{
+  "asn": 201307,
+  "handle": "SOLAR-COMPANY",
+  "description": "SOLAR COMPANY Spolka Akcyjna",
+  "subnets": {
+    "ipv4": [
+      "155.133.120.0/24"
+    ],
+    "ipv6": []
+  }
+}

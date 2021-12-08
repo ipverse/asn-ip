@@ -1,0 +1,13 @@
+{
+  "asn": 398833,
+  "handle": "BA-CA-VIGER-PUBLIC",
+  "description": "Bombardier Inc.",
+  "subnets": {
+    "ipv4": [
+      "142.19.56.0/24",
+      "142.19.96.0/22",
+      "142.19.104.0/21"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 43066,
+  "handle": "IT-NRW",
+  "description": "Information und Technik Nordrhein-Westfalen",
+  "subnets": {
+    "ipv4": [
+      "93.184.128.0/21",
+      "93.184.136.0/22",
+      "93.184.140.0/23",
+      "93.184.142.0/24"
+    ],
+    "ipv6": [
+      "2a05:d880::/30"
+    ]
+  }
+}

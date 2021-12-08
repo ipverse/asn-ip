@@ -1,0 +1,11 @@
+{
+  "asn": 132360,
+  "handle": "SERVICESTREAM-AP",
+  "description": "Service Stream Limited",
+  "subnets": {
+    "ipv4": [
+      "103.14.228.0/24"
+    ],
+    "ipv6": []
+  }
+}

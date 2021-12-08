@@ -1,0 +1,12 @@
+{
+  "asn": 47517,
+  "handle": "CSSUZ",
+  "description": "State Enterprise of Central Administration of Ukrainian Railroad",
+  "subnets": {
+    "ipv4": [
+      "91.217.112.0/23",
+      "195.242.179.0/24"
+    ],
+    "ipv6": []
+  }
+}

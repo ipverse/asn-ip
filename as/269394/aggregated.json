@@ -1,0 +1,13 @@
+{
+  "asn": 269394,
+  "handle": "MITAS-INTERNET-BANDA",
+  "description": "Mitas - Internet Banda Larga Ltda",
+  "subnets": {
+    "ipv4": [
+      "45.185.216.0/22"
+    ],
+    "ipv6": [
+      "2804:63f4::/32"
+    ]
+  }
+}

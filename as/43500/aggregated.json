@@ -1,0 +1,11 @@
+{
+  "asn": 43500,
+  "handle": "HBO",
+  "description": "HBO ROMANIA SRL",
+  "subnets": {
+    "ipv4": [
+      "195.189.144.0/24"
+    ],
+    "ipv6": []
+  }
+}

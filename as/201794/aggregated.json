@@ -1,0 +1,12 @@
+{
+  "asn": 201794,
+  "handle": "MOSINZHPROEKT",
+  "description": "OJSC Mosinzhproekt",
+  "subnets": {
+    "ipv4": [
+      "185.63.60.0/23",
+      "185.63.62.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asn": 209172,
+  "handle": "SOFTGROUP",
+  "description": "Softgroup AD",
+  "subnets": {
+    "ipv4": [
+      "80.95.20.0/24"
+    ],
+    "ipv6": []
+  }
+}

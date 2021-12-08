@@ -1,0 +1,13 @@
+{
+  "asn": 51744,
+  "handle": "ASJABLONKA",
+  "description": "Non-profit organization Jablonka.cz",
+  "subnets": {
+    "ipv4": [
+      "91.219.244.0/22"
+    ],
+    "ipv6": [
+      "2001:67c:1798::/48"
+    ]
+  }
+}

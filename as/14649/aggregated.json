@@ -1,0 +1,13 @@
+{
+  "asn": 14649,
+  "handle": "COSI-US",
+  "description": "Contengent Online Systems Inc",
+  "subnets": {
+    "ipv4": [
+      "23.130.64.0/24",
+      "104.251.116.0/24",
+      "185.223.128.0/22"
+    ],
+    "ipv6": []
+  }
+}

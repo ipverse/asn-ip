@@ -1,0 +1,11 @@
+{
+  "asn": 34705,
+  "handle": "SYDFYN",
+  "description": "SEF Fiber A/S",
+  "subnets": {
+    "ipv4": [
+      "85.27.128.0/17"
+    ],
+    "ipv6": []
+  }
+}

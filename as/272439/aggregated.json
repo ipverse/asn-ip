@@ -1,0 +1,11 @@
+{
+  "asn": 272439,
+  "handle": "USSENET-TELECOM",
+  "description": "Ussenet Telecom",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2804:8134::/32"
+    ]
+  }
+}

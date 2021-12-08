@@ -1,0 +1,14 @@
+{
+  "asn": 207489,
+  "handle": "RDKIT",
+  "description": "Robbert Jan de Klerk trading as RDK IT Solutions",
+  "subnets": {
+    "ipv4": [
+      "194.76.145.0/24",
+      "194.76.149.0/24"
+    ],
+    "ipv6": [
+      "2a0f:ae40::/32"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 8877,
+  "handle": "POWERNET",
+  "description": "Lir.bg EOOD",
+  "subnets": {
+    "ipv4": [
+      "78.142.60.0/24",
+      "91.148.191.0/24"
+    ],
+    "ipv6": []
+  }
+}

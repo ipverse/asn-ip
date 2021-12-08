@@ -1,0 +1,12 @@
+{
+  "asn": 63147,
+  "handle": "USCP",
+  "description": "United States Capitol Police",
+  "subnets": {
+    "ipv4": [
+      "128.177.179.0/24",
+      "192.42.110.0/24"
+    ],
+    "ipv6": []
+  }
+}

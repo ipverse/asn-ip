@@ -1,0 +1,12 @@
+{
+  "asn": 52042,
+  "handle": "SQUAREFLOW",
+  "description": "SquareFlow Corporation",
+  "subnets": {
+    "ipv4": [
+      "45.154.34.0/23",
+      "185.165.152.0/24"
+    ],
+    "ipv6": []
+  }
+}

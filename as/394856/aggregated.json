@@ -1,0 +1,12 @@
+{
+  "asn": 394856,
+  "handle": "IPACC",
+  "description": "Infinity Insurance Company",
+  "subnets": {
+    "ipv4": [
+      "8.40.216.0/24",
+      "63.84.81.0/24"
+    ],
+    "ipv6": []
+  }
+}

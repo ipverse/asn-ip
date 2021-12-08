@@ -1,0 +1,13 @@
+{
+  "asn": 269520,
+  "handle": "NAFIBRA-AMAMBAI-INTERNET-LTDA",
+  "description": "NAFIBRA AMAMBAI INTERNET LTDA",
+  "subnets": {
+    "ipv4": [
+      "45.188.32.0/22"
+    ],
+    "ipv6": [
+      "2804:65e0::/32"
+    ]
+  }
+}

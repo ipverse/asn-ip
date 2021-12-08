@@ -1,0 +1,13 @@
+{
+  "asn": 395182,
+  "handle": "HEMPFIELDSD-PA",
+  "description": "Hempfield School District",
+  "subnets": {
+    "ipv4": [
+      "67.199.243.0/24"
+    ],
+    "ipv6": [
+      "2620:120:c000::/40"
+    ]
+  }
+}

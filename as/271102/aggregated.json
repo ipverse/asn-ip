@@ -1,0 +1,13 @@
+{
+  "asn": 271102,
+  "handle": "MASTER-LINK-NET-ME",
+  "description": "Master Link Net - ME",
+  "subnets": {
+    "ipv4": [
+      "179.48.220.0/22"
+    ],
+    "ipv6": [
+      "2804:764c::/32"
+    ]
+  }
+}

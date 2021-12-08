@@ -1,0 +1,12 @@
+{
+  "asn": 263196,
+  "handle": "INFOSPORT-SA",
+  "description": "Infosport SA",
+  "subnets": {
+    "ipv4": [
+      "143.202.136.0/22",
+      "186.148.80.0/21"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 201895,
+  "handle": "PATIENTSKY",
+  "description": "PATIENTSKY HOSTING AS",
+  "subnets": {
+    "ipv4": [
+      "185.60.160.0/22"
+    ],
+    "ipv6": [
+      "2a02:73a0:70::/48"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 29553,
+  "handle": "VLINE",
+  "description": "Toya sp.z.o.o",
+  "subnets": {
+    "ipv4": [
+      "188.246.128.0/19",
+      "217.76.112.0/20"
+    ],
+    "ipv6": []
+  }
+}

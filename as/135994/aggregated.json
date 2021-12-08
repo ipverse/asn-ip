@@ -1,0 +1,13 @@
+{
+  "asn": 135994,
+  "handle": "IDCONLINE-VN",
+  "description": "IDC Online Technology and Solutions Corporation",
+  "subnets": {
+    "ipv4": [
+      "103.145.62.0/23"
+    ],
+    "ipv6": [
+      "2405:7b40::/48"
+    ]
+  }
+}

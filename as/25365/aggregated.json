@@ -1,0 +1,13 @@
+{
+  "asn": 25365,
+  "handle": "TOMSOFT",
+  "description": "Tomsoft d.o.o.",
+  "subnets": {
+    "ipv4": [
+      "195.190.136.0/24"
+    ],
+    "ipv6": [
+      "2001:67c:2f24::/48"
+    ]
+  }
+}

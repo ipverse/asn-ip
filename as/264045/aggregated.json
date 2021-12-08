@@ -1,0 +1,13 @@
+{
+  "asn": 264045,
+  "handle": "DL-INTERNET",
+  "description": "DL INTERNET",
+  "subnets": {
+    "ipv4": [
+      "143.137.132.0/22"
+    ],
+    "ipv6": [
+      "2804:29ec::/32"
+    ]
+  }
+}

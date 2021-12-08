@@ -1,0 +1,13 @@
+{
+  "asn": 264876,
+  "handle": "5GTELECOM-AZEVEDO-INFORMATICA",
+  "description": "5GTELECOM AZEVEDO INFORMATICA LTDA.",
+  "subnets": {
+    "ipv4": [
+      "168.227.60.0/22"
+    ],
+    "ipv6": [
+      "2804:2f2c::/32"
+    ]
+  }
+}

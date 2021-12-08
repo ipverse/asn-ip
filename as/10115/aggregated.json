@@ -1,0 +1,14 @@
+{
+  "asn": 10115,
+  "handle": "ATOAS-AP",
+  "description": "SingTel Optus Pty Ltd",
+  "subnets": {
+    "ipv4": [
+      "175.106.28.0/22",
+      "180.149.192.0/22"
+    ],
+    "ipv6": [
+      "2400:bc00:1800::/48"
+    ]
+  }
+}

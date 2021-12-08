@@ -1,0 +1,13 @@
+{
+  "asn": 268060,
+  "handle": "FUNNY-TELECOM-LTDA",
+  "description": "FUNNY TELECOM LTDA",
+  "subnets": {
+    "ipv4": [
+      "45.168.120.0/22"
+    ],
+    "ipv6": [
+      "2804:5758::/32"
+    ]
+  }
+}

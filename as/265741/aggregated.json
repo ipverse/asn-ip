@@ -1,0 +1,12 @@
+{
+  "asn": 265741,
+  "handle": "GPS-SANJUAN-SRL",
+  "description": "GPS SANJUAN SRL.",
+  "subnets": {
+    "ipv4": [
+      "45.172.108.0/22",
+      "128.201.80.0/22"
+    ],
+    "ipv6": []
+  }
+}

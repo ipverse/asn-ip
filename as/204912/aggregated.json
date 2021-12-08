@@ -1,0 +1,12 @@
+{
+  "asn": 204912,
+  "handle": "KIZILAY",
+  "description": "Turkiye Kizilay Dernegi",
+  "subnets": {
+    "ipv4": [
+      "185.225.164.0/23",
+      "185.225.166.0/24"
+    ],
+    "ipv6": []
+  }
+}

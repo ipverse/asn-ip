@@ -1,0 +1,14 @@
+{
+  "asn": 265181,
+  "handle": "S1-TELECOMUNICACOES-E",
+  "description": "S1 Telecomunicações e Sistemas de Informação LTDA",
+  "subnets": {
+    "ipv4": [
+      "167.249.132.0/22",
+      "170.233.36.0/22"
+    ],
+    "ipv6": [
+      "2804:2bdc::/32"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 266272,
+  "handle": "JUNDFIBRA-TELECOMUNICACOES-LTDA",
+  "description": "JundFibra Telecomunicações Ltda Epp",
+  "subnets": {
+    "ipv4": [
+      "170.78.148.0/22"
+    ],
+    "ipv6": [
+      "2804:3528::/32"
+    ]
+  }
+}

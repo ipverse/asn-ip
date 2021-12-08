@@ -1,0 +1,13 @@
+{
+  "asn": 131131,
+  "handle": "VNNIC-VN",
+  "description": "VNNIC-AS-VN",
+  "subnets": {
+    "ipv4": [
+      "117.122.1.0/24"
+    ],
+    "ipv6": [
+      "2001:dc8:2001::/48"
+    ]
+  }
+}

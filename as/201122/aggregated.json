@@ -1,0 +1,13 @@
+{
+  "asn": 201122,
+  "handle": "KSISC",
+  "description": "Krapkowickie Sieci Internetowe sc",
+  "subnets": {
+    "ipv4": [
+      "88.199.172.0/23",
+      "155.133.18.0/23",
+      "156.67.106.0/24"
+    ],
+    "ipv6": []
+  }
+}

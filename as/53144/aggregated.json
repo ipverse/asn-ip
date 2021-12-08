@@ -1,0 +1,14 @@
+{
+  "asn": 53144,
+  "handle": "1TELECOM-SERVICOS-DE",
+  "description": "1TELECOM SERVICOS DE TECNOLOGIA EM INTERNET LTDA",
+  "subnets": {
+    "ipv4": [
+      "177.221.32.0/20",
+      "187.103.64.0/20"
+    ],
+    "ipv6": [
+      "2804:b8::/32"
+    ]
+  }
+}

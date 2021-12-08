@@ -1,0 +1,12 @@
+{
+  "asn": 200299,
+  "handle": "BASESERV",
+  "description": "BaseServ Limited",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a04:ff00:b00b::/48",
+      "2a09:3a00:2000::/48"
+    ]
+  }
+}

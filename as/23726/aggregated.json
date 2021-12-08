@@ -1,0 +1,13 @@
+{
+  "asn": 23726,
+  "handle": "IIFON-AP",
+  "description": "India Internet Foundation",
+  "subnets": {
+    "ipv4": [
+      "103.149.148.0/24"
+    ],
+    "ipv6": [
+      "2001:ded:8000::/48"
+    ]
+  }
+}

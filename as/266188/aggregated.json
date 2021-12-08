@@ -1,0 +1,13 @@
+{
+  "asn": 266188,
+  "handle": "BIPNET-INTERNET-BANDA-LARGA",
+  "description": "bipNET Internet Banda Larga",
+  "subnets": {
+    "ipv4": [
+      "160.20.200.0/22"
+    ],
+    "ipv6": [
+      "2804:3c10::/32"
+    ]
+  }
+}

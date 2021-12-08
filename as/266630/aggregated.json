@@ -1,0 +1,13 @@
+{
+  "asn": 266630,
+  "handle": "FIOS-TECNOLOGIA",
+  "description": "FiOS Tecnologia",
+  "subnets": {
+    "ipv4": [
+      "128.201.136.0/22"
+    ],
+    "ipv6": [
+      "2804:3ef0::/32"
+    ]
+  }
+}

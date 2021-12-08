@@ -1,0 +1,13 @@
+{
+  "asn": 132019,
+  "handle": "EARTHNET",
+  "description": "Earth network technology (Shanghai) Co., Ltd",
+  "subnets": {
+    "ipv4": [
+      "103.69.116.0/22"
+    ],
+    "ipv6": [
+      "2405:f580::/32"
+    ]
+  }
+}

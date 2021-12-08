@@ -1,0 +1,13 @@
+{
+  "asn": 265619,
+  "handle": "XK-NET-SA-DE-CV",
+  "description": "XK NET S.A. DE C.V.",
+  "subnets": {
+    "ipv4": [
+      "45.191.52.0/22"
+    ],
+    "ipv6": [
+      "2806:36f::/32"
+    ]
+  }
+}

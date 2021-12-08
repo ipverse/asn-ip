@@ -1,0 +1,14 @@
+{
+  "asn": 38156,
+  "handle": "ROUTELINK-ID",
+  "description": "Internet Service Provider",
+  "subnets": {
+    "ipv4": [
+      "103.161.62.0/23",
+      "203.190.112.0/21"
+    ],
+    "ipv6": [
+      "2405:a540::/32"
+    ]
+  }
+}

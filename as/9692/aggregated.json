@@ -1,0 +1,13 @@
+{
+  "asn": 9692,
+  "handle": "HWS-KR",
+  "description": "Hanwha Investment   Securities Co., Ltd.",
+  "subnets": {
+    "ipv4": [
+      "1.236.60.0/24",
+      "59.150.19.0/24",
+      "220.64.16.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asn": 135419,
+  "handle": "CABLECONNECT1-AP",
+  "description": "Cableconnect Co.,Ltd",
+  "subnets": {
+    "ipv4": [
+      "103.120.112.0/22"
+    ],
+    "ipv6": []
+  }
+}

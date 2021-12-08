@@ -1,0 +1,13 @@
+{
+  "asn": 269679,
+  "handle": "ASSOCIACAO-NACIONAL-DOS",
+  "description": "ASSOCIACAO NACIONAL DOS PROVEDORES DE INTERNET",
+  "subnets": {
+    "ipv4": [
+      "45.191.18.0/23"
+    ],
+    "ipv6": [
+      "2804:1f3c:4000::/35"
+    ]
+  }
+}

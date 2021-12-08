@@ -1,0 +1,12 @@
+{
+  "asn": 48092,
+  "handle": "NSB",
+  "description": "T2 Mobile LLC",
+  "subnets": {
+    "ipv4": [
+      "94.240.64.0/18",
+      "176.59.96.0/19"
+    ],
+    "ipv6": []
+  }
+}

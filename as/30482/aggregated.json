@@ -1,0 +1,11 @@
+{
+  "asn": 30482,
+  "handle": "PCAP-BOSTON",
+  "description": "Parthenon Capital, LLC",
+  "subnets": {
+    "ipv4": [
+      "64.47.16.0/23"
+    ],
+    "ipv6": []
+  }
+}

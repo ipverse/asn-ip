@@ -1,0 +1,12 @@
+{
+  "asn": 50343,
+  "handle": "NWRK",
+  "description": "New Work SE",
+  "subnets": {
+    "ipv4": [
+      "109.233.152.0/21",
+      "185.169.112.0/22"
+    ],
+    "ipv6": []
+  }
+}

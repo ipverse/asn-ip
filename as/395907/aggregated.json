@@ -1,0 +1,13 @@
+{
+  "asn": 395907,
+  "handle": "CALPINE-ENERGY-SOLUTIONS",
+  "description": "Calpine Energy Solutions, LLC",
+  "subnets": {
+    "ipv4": [
+      "8.18.213.0/24",
+      "38.95.64.0/24",
+      "38.99.65.0/24"
+    ],
+    "ipv6": []
+  }
+}

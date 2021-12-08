@@ -1,0 +1,13 @@
+{
+  "asn": 142448,
+  "handle": "REGICOM",
+  "description": "REGICOM PRIVATE LIMITED",
+  "subnets": {
+    "ipv4": [
+      "103.170.202.0/23"
+    ],
+    "ipv6": [
+      "2001:df7:2680::/48"
+    ]
+  }
+}

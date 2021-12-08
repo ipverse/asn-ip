@@ -1,0 +1,13 @@
+{
+  "asn": 139282,
+  "handle": "NOVUSNETWORK-AP",
+  "description": "Novus Network",
+  "subnets": {
+    "ipv4": [
+      "103.113.175.0/24",
+      "103.137.75.0/24",
+      "103.140.205.0/24"
+    ],
+    "ipv6": []
+  }
+}

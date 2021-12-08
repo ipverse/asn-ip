@@ -1,0 +1,13 @@
+{
+  "asn": 7970,
+  "handle": "LEON-FL-SCHL",
+  "description": "Leon County School District",
+  "subnets": {
+    "ipv4": [
+      "205.223.144.0/20",
+      "205.223.160.0/19",
+      "205.223.192.0/19"
+    ],
+    "ipv6": []
+  }
+}

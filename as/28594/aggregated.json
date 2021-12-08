@@ -1,0 +1,13 @@
+{
+  "asn": 28594,
+  "handle": "ALL-NET-INFORMATICA-LTDA",
+  "description": "All Net Informatica Ltda",
+  "subnets": {
+    "ipv4": [
+      "200.218.240.0/20"
+    ],
+    "ipv6": [
+      "2804:5208::/32"
+    ]
+  }
+}

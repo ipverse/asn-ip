@@ -1,0 +1,11 @@
+{
+  "asn": 24035,
+  "handle": "MOFA-VN",
+  "description": "Ministry of Foreign Affairs of Vietnam - MOFA",
+  "subnets": {
+    "ipv4": [
+      "202.6.2.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 62818,
+  "handle": "SPIRAL-COMMUNICATIONS",
+  "description": "Spiral Solutions and Technologies Inc.",
+  "subnets": {
+    "ipv4": [
+      "162.253.232.0/23",
+      "162.253.236.0/22"
+    ],
+    "ipv6": []
+  }
+}

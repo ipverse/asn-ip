@@ -1,0 +1,13 @@
+{
+  "asn": 263363,
+  "handle": "RADLINK-TELECOMUNICACOES-LTDA",
+  "description": "RADLINK TELECOMUNICACOES LTDA",
+  "subnets": {
+    "ipv4": [
+      "191.37.160.0/21"
+    ],
+    "ipv6": [
+      "2804:14fc::/32"
+    ]
+  }
+}

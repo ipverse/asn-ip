@@ -1,0 +1,14 @@
+{
+  "asn": 268546,
+  "handle": "RIOTELE-REAL-INTERNET",
+  "description": "RIOTELE-REAL INTERNET OPTICA TELECOMUNICACOES",
+  "subnets": {
+    "ipv4": [
+      "45.163.84.0/22",
+      "45.187.120.0/22"
+    ],
+    "ipv6": [
+      "2804:52dc::/32"
+    ]
+  }
+}

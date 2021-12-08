@@ -1,0 +1,13 @@
+{
+  "asn": 268444,
+  "handle": "G-H-J-HOLANDA-ME",
+  "description": "G H J Holanda me",
+  "subnets": {
+    "ipv4": [
+      "45.161.64.0/22"
+    ],
+    "ipv6": [
+      "2804:514c::/32"
+    ]
+  }
+}

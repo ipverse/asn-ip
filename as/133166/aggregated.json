@@ -1,0 +1,12 @@
+{
+  "asn": 133166,
+  "handle": "PERTAMINA-ID",
+  "description": "PT Pertamina (Persero)",
+  "subnets": {
+    "ipv4": [
+      "202.20.106.0/23",
+      "202.20.109.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asn": 147002,
+  "handle": "VMSHELL-AP",
+  "description": "PKI LTD",
+  "subnets": {
+    "ipv4": [
+      "103.172.134.0/24"
+    ],
+    "ipv6": []
+  }
+}

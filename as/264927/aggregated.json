@@ -1,0 +1,13 @@
+{
+  "asn": 264927,
+  "handle": "ABENET-PROVEDORA-DE",
+  "description": "Abenet Provedora de Acesso a Internet LTDA",
+  "subnets": {
+    "ipv4": [
+      "168.228.184.0/22"
+    ],
+    "ipv6": [
+      "2804:3008::/32"
+    ]
+  }
+}

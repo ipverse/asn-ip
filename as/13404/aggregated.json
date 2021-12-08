@@ -1,0 +1,12 @@
+{
+  "asn": 13404,
+  "handle": "GOFIBER",
+  "description": "GoFIBER",
+  "subnets": {
+    "ipv4": [
+      "104.152.244.0/24",
+      "104.152.246.0/23"
+    ],
+    "ipv6": []
+  }
+}

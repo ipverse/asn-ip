@@ -1,0 +1,12 @@
+{
+  "asn": 394944,
+  "handle": "CCCIS",
+  "description": "CCC Information Services Inc.",
+  "subnets": {
+    "ipv4": [
+      "198.204.8.0/24",
+      "198.204.14.0/23"
+    ],
+    "ipv6": []
+  }
+}

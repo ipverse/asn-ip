@@ -1,0 +1,11 @@
+{
+  "asn": 263169,
+  "handle": "VISION-BANCO",
+  "description": "Vision Banco",
+  "subnets": {
+    "ipv4": [
+      "179.0.26.0/24"
+    ],
+    "ipv6": []
+  }
+}

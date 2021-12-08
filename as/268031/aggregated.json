@@ -1,0 +1,13 @@
+{
+  "asn": 268031,
+  "handle": "ONTELL-SERVICOS-DE",
+  "description": "Ontell Serviços de Banda Larga e Tecnologia LTDA",
+  "subnets": {
+    "ipv4": [
+      "45.168.60.0/22"
+    ],
+    "ipv6": [
+      "2804:56e8::/32"
+    ]
+  }
+}

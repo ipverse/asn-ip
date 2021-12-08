@@ -1,0 +1,13 @@
+{
+  "asn": 140603,
+  "handle": "CEATECH-AP",
+  "description": "CEA Technologies PTY LTD",
+  "subnets": {
+    "ipv4": [
+      "203.24.61.0/24"
+    ],
+    "ipv6": [
+      "2001:df3:8f80::/48"
+    ]
+  }
+}

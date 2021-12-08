@@ -1,0 +1,13 @@
+{
+  "asn": 264057,
+  "handle": "DELTA-TELECOM",
+  "description": "DELTA TELECOM",
+  "subnets": {
+    "ipv4": [
+      "143.137.184.0/22"
+    ],
+    "ipv6": [
+      "2804:2a1c::/32"
+    ]
+  }
+}

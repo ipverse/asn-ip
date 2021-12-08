@@ -1,0 +1,13 @@
+{
+  "asn": 270556,
+  "handle": "AGILE-SEGURANCA-ELETRONICA",
+  "description": "ÁGILE SEGURANÇA ELETRÔNICA E INFORMÁTICA EIRELI EP",
+  "subnets": {
+    "ipv4": [
+      "190.115.72.0/22"
+    ],
+    "ipv6": [
+      "2804:6dcc::/32"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 202955,
+  "handle": "IAHOSTER",
+  "description": "IA Hoster N.V.",
+  "subnets": {
+    "ipv4": [
+      "31.207.60.0/22",
+      "185.149.84.0/22"
+    ],
+    "ipv6": []
+  }
+}

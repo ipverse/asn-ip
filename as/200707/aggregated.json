@@ -1,0 +1,13 @@
+{
+  "asn": 200707,
+  "handle": "APPMAIL",
+  "description": "Integrated Digital Services Ltd",
+  "subnets": {
+    "ipv4": [
+      "185.98.176.0/23"
+    ],
+    "ipv6": [
+      "2a00:8000::/32"
+    ]
+  }
+}

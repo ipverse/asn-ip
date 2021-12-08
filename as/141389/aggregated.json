@@ -1,0 +1,13 @@
+{
+  "asn": 141389,
+  "handle": "GBSPL-AP",
+  "description": "GOIP BUSINESS SOLUTION PTE. LTD.",
+  "subnets": {
+    "ipv4": [
+      "103.158.14.0/23"
+    ],
+    "ipv6": [
+      "2406:ac40::/32"
+    ]
+  }
+}

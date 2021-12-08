@@ -1,0 +1,12 @@
+{
+  "asn": 28776,
+  "handle": "SOFTSERVE",
+  "description": "SoftServe Ltd.",
+  "subnets": {
+    "ipv4": [
+      "195.160.232.0/22",
+      "217.9.4.0/23"
+    ],
+    "ipv6": []
+  }
+}

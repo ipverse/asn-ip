@@ -1,0 +1,14 @@
+{
+  "asn": 138596,
+  "handle": "VALLEY1-AP",
+  "description": "Valley International",
+  "subnets": {
+    "ipv4": [
+      "103.134.28.0/22",
+      "103.165.159.0/24"
+    ],
+    "ipv6": [
+      "2404:5bc0::/32"
+    ]
+  }
+}

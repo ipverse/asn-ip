@@ -1,0 +1,11 @@
+{
+  "asn": 4690,
+  "handle": "WIDE-SFO",
+  "description": "WIDE Project",
+  "subnets": {
+    "ipv4": [
+      "202.0.73.0/24"
+    ],
+    "ipv6": []
+  }
+}

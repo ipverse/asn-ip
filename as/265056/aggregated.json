@@ -1,0 +1,13 @@
+{
+  "asn": 265056,
+  "handle": "NSLINK-PROVEDOR-DE",
+  "description": "NSLink Provedor de acesso internet LTDA-ME",
+  "subnets": {
+    "ipv4": [
+      "170.231.148.0/22"
+    ],
+    "ipv6": [
+      "2804:321c::/32"
+    ]
+  }
+}

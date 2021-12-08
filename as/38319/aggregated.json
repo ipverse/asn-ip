@@ -1,0 +1,11 @@
+{
+  "asn": 38319,
+  "handle": "LINCOLN-UNIVERSITY-NZ",
+  "description": "Lincoln University",
+  "subnets": {
+    "ipv4": [
+      "103.240.52.0/22"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 271804,
+  "handle": "CABLEMAX-CXA",
+  "description": "CABLEMAX C.X.A",
+  "subnets": {
+    "ipv4": [
+      "138.36.24.0/24",
+      "138.36.27.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 46974,
+  "handle": "SERVAXNET",
+  "description": "ServaxNet, LLC",
+  "subnets": {
+    "ipv4": [
+      "162.255.224.0/22",
+      "204.141.164.0/22",
+      "204.141.168.0/22"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "asn": 264525,
+  "handle": "COELHO-TECNOLOGIA",
+  "description": "Coelho Tecnologia",
+  "subnets": {
+    "ipv4": [
+      "45.71.80.0/22",
+      "138.0.52.0/22",
+      "138.122.240.0/22"
+    ],
+    "ipv6": [
+      "2804:20fc::/32"
+    ]
+  }
+}

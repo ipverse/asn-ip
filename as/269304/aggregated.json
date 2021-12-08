@@ -1,0 +1,14 @@
+{
+  "asn": 269304,
+  "handle": "BAHIAWEB-TECNOLOGIA-LTDA",
+  "description": "BAHIAWEB TECNOLOGIA LTDA",
+  "subnets": {
+    "ipv4": [
+      "45.184.28.0/22"
+    ],
+    "ipv6": [
+      "2804:6290::/33",
+      "2804:6290:8000::/34"
+    ]
+  }
+}

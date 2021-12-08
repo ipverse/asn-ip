@@ -1,0 +1,11 @@
+{
+  "asn": 52321,
+  "handle": "FIDEICOMISO-DE-ADMINISTRACION",
+  "description": "Fideicomiso de Administración Datacenter Capitalinas",
+  "subnets": {
+    "ipv4": [
+      "190.123.120.0/22"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 268151,
+  "handle": "BRAZNET-TELECOM-SERVICOS",
+  "description": "Braznet Telecom Serviços em Telecomunicação LTDA",
+  "subnets": {
+    "ipv4": [
+      "45.170.76.0/22"
+    ],
+    "ipv6": [
+      "2804:58d0::/32"
+    ]
+  }
+}

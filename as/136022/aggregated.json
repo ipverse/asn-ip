@@ -1,0 +1,13 @@
+{
+  "asn": 136022,
+  "handle": "JANANITECHNOLOGY-AP",
+  "description": "Janani Technology",
+  "subnets": {
+    "ipv4": [
+      "103.134.40.0/22"
+    ],
+    "ipv6": [
+      "2404:5cc0::/32"
+    ]
+  }
+}

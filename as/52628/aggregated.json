@@ -1,0 +1,11 @@
+{
+  "asn": 52628,
+  "handle": "TRIBUNAL-DE-JUSTICA",
+  "description": "Tribunal de Justiça do Estado do Pará",
+  "subnets": {
+    "ipv4": [
+      "177.125.100.0/23"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 271104,
+  "handle": "SN-TELECON-LTDA",
+  "description": "SN TELECON LTDA",
+  "subnets": {
+    "ipv4": [
+      "179.42.4.0/22"
+    ],
+    "ipv6": [
+      "2804:7654::/32"
+    ]
+  }
+}

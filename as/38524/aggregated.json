@@ -1,0 +1,12 @@
+{
+  "asn": 38524,
+  "handle": "LAXONET-ID",
+  "description": "Laxo Global Akses, PT",
+  "subnets": {
+    "ipv4": [
+      "103.38.100.0/22",
+      "119.2.40.0/21"
+    ],
+    "ipv6": []
+  }
+}

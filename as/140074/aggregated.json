@@ -1,0 +1,11 @@
+{
+  "asn": 140074,
+  "handle": "COLLINGE-AP",
+  "description": "RBWiFi",
+  "subnets": {
+    "ipv4": [
+      "103.148.34.0/23"
+    ],
+    "ipv6": []
+  }
+}

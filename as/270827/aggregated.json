@@ -1,0 +1,13 @@
+{
+  "asn": 270827,
+  "handle": "NETLINK-COMERCIO-E",
+  "description": "NETLINK COMERCIO E SERVICOS DE TELECOMUNICACAO LTD",
+  "subnets": {
+    "ipv4": [
+      "200.124.188.0/22"
+    ],
+    "ipv6": [
+      "2804:7204::/32"
+    ]
+  }
+}

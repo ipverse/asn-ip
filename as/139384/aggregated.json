@@ -1,0 +1,11 @@
+{
+  "asn": 139384,
+  "handle": "IDNIC-MOJOKERTOKOTA-ID",
+  "description": "Pemerintah Kota Mojokerto",
+  "subnets": {
+    "ipv4": [
+      "103.142.224.0/24"
+    ],
+    "ipv6": []
+  }
+}

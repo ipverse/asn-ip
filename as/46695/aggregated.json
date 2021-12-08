@@ -1,0 +1,12 @@
+{
+  "asn": 46695,
+  "handle": "REGENT-ASN1",
+  "description": "Regent University",
+  "subnets": {
+    "ipv4": [
+      "70.175.9.0/24",
+      "198.49.157.0/24"
+    ],
+    "ipv6": []
+  }
+}

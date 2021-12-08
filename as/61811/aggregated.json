@@ -1,0 +1,15 @@
+{
+  "asn": 61811,
+  "handle": "STAR-NET-DIVINO-LTDA-EPP",
+  "description": "STAR NET DIVINO LTDA - EPP",
+  "subnets": {
+    "ipv4": [
+      "168.194.132.0/22",
+      "170.247.156.0/22",
+      "201.158.60.0/22"
+    ],
+    "ipv6": [
+      "2804:19ac::/32"
+    ]
+  }
+}

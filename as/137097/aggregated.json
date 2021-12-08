@@ -1,0 +1,12 @@
+{
+  "asn": 137097,
+  "handle": "REACHTEL",
+  "description": "Rohan Media Private Ltd",
+  "subnets": {
+    "ipv4": [
+      "103.105.176.0/23",
+      "103.105.178.0/24"
+    ],
+    "ipv6": []
+  }
+}

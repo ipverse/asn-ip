@@ -1,0 +1,13 @@
+{
+  "asn": 53123,
+  "handle": "POWER-TELECOMUNICACOES-LTDA",
+  "description": "Power Telecomunicações Ltda. - ME",
+  "subnets": {
+    "ipv4": [
+      "187.111.192.0/20"
+    ],
+    "ipv6": [
+      "2804:6478::/32"
+    ]
+  }
+}

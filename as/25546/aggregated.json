@@ -1,0 +1,12 @@
+{
+  "asn": 25546,
+  "handle": "BROOKLANDCOMP",
+  "description": "Brookland Computer Services Limited",
+  "subnets": {
+    "ipv4": [
+      "193.104.152.0/24",
+      "193.169.14.0/23"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 265241,
+  "handle": "DATA-FIBRA-TELECOM",
+  "description": "Data Fibra Telecom",
+  "subnets": {
+    "ipv4": [
+      "168.0.4.0/22",
+      "170.78.28.0/22"
+    ],
+    "ipv6": [
+      "2804:2cc0::/32"
+    ]
+  }
+}

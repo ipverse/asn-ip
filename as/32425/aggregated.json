@@ -1,0 +1,14 @@
+{
+  "asn": 32425,
+  "handle": "SKB3-ARIN-BGP",
+  "description": "Pixel Factory",
+  "subnets": {
+    "ipv4": [
+      "198.181.229.0/24",
+      "208.73.136.0/21"
+    ],
+    "ipv6": [
+      "2620:a8:c000::/48"
+    ]
+  }
+}

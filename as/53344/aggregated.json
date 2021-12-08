@@ -1,0 +1,13 @@
+{
+  "asn": 53344,
+  "handle": "HAUTELOOK",
+  "description": "Nordstrom, Inc.",
+  "subnets": {
+    "ipv4": [
+      "69.169.42.0/23",
+      "128.177.106.0/24",
+      "192.67.75.0/24"
+    ],
+    "ipv6": []
+  }
+}

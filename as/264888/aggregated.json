@@ -1,0 +1,11 @@
+{
+  "asn": 264888,
+  "handle": "MINAS-ONLINE-PROVEDOR",
+  "description": "Minas Online Provedor de Internet LTDA",
+  "subnets": {
+    "ipv4": [
+      "168.227.212.0/22"
+    ],
+    "ipv6": []
+  }
+}

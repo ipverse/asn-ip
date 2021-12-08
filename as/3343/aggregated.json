@@ -1,0 +1,14 @@
+{
+  "asn": 3343,
+  "handle": "RUNNET",
+  "description": "Federal State Institution Federal Scientific Research Institute for System Analysis of the Russian Academy of Sciences",
+  "subnets": {
+    "ipv4": [
+      "80.250.182.0/23",
+      "80.250.184.0/24",
+      "80.250.191.0/24",
+      "85.143.191.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asn": 207657,
+  "handle": "ROSATOM",
+  "description": "JSC Emergency Technical Center of Rosatom",
+  "subnets": {
+    "ipv4": [
+      "45.146.40.0/24"
+    ],
+    "ipv6": []
+  }
+}

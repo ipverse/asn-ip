@@ -1,0 +1,12 @@
+{
+  "asn": 44649,
+  "handle": "INTEGRASOFT-SRL",
+  "description": "Integra Soft SRL",
+  "subnets": {
+    "ipv4": [
+      "193.226.123.0/24",
+      "193.231.162.0/24"
+    ],
+    "ipv6": []
+  }
+}

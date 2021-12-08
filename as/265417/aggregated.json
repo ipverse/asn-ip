@@ -1,0 +1,13 @@
+{
+  "asn": 265417,
+  "handle": "FRASANET-PROV-DE",
+  "description": "Frasanet Prov. de internet e com. de info. ltda",
+  "subnets": {
+    "ipv4": [
+      "168.195.96.0/22"
+    ],
+    "ipv6": [
+      "2804:33c8::/32"
+    ]
+  }
+}

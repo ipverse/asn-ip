@@ -1,0 +1,16 @@
+{
+  "asn": 28309,
+  "handle": "WGO-TELECOMUNICACOES-LTDA",
+  "description": "WGO Telecomunicações Ltda",
+  "subnets": {
+    "ipv4": [
+      "168.228.96.0/22",
+      "179.189.0.0/20",
+      "187.44.64.0/20",
+      "189.38.32.0/20"
+    ],
+    "ipv6": [
+      "2804:16c::/32"
+    ]
+  }
+}

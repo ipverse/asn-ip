@@ -1,0 +1,11 @@
+{
+  "asn": 41509,
+  "handle": "EQUIT",
+  "description": "KBC Securities Magyarorszagi Fioktelepe",
+  "subnets": {
+    "ipv4": [
+      "194.145.156.0/24"
+    ],
+    "ipv6": []
+  }
+}

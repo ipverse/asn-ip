@@ -1,0 +1,14 @@
+{
+  "asn": 31676,
+  "handle": "PENTALOG",
+  "description": "PENTALOG ROMANIA SRL",
+  "subnets": {
+    "ipv4": [
+      "193.27.84.0/23",
+      "194.150.242.0/23"
+    ],
+    "ipv6": [
+      "2001:67c:7d8::/48"
+    ]
+  }
+}

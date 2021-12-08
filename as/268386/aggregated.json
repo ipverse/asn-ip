@@ -1,0 +1,13 @@
+{
+  "asn": 268386,
+  "handle": "DINAMIX-INFO-TELECOM-LTDA",
+  "description": "Dinamix Info Telecom Ltda",
+  "subnets": {
+    "ipv4": [
+      "45.239.224.0/22"
+    ],
+    "ipv6": [
+      "2804:5064::/32"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 271270,
+  "handle": "COSTA-NET",
+  "description": "Costa Net",
+  "subnets": {
+    "ipv4": [
+      "200.106.200.0/22"
+    ],
+    "ipv6": [
+      "2804:78dc::/32"
+    ]
+  }
+}

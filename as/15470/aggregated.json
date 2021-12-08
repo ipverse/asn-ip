@@ -1,0 +1,12 @@
+{
+  "asn": 15470,
+  "handle": "AVERTECH",
+  "description": "AverTech Sp. z o.o.",
+  "subnets": {
+    "ipv4": [
+      "193.239.60.0/22",
+      "195.225.212.0/22"
+    ],
+    "ipv6": []
+  }
+}

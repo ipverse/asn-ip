@@ -1,0 +1,12 @@
+{
+  "asn": 22723,
+  "handle": "UN",
+  "description": "United Nations",
+  "subnets": {
+    "ipv4": [
+      "157.150.0.0/16",
+      "192.132.208.0/24"
+    ],
+    "ipv6": []
+  }
+}

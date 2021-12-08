@@ -1,0 +1,14 @@
+{
+  "asn": 52821,
+  "handle": "TORRES-E-ANSELMI-LTDA",
+  "description": "Torres e Anselmi Ltda",
+  "subnets": {
+    "ipv4": [
+      "138.121.144.0/22",
+      "177.72.156.0/22"
+    ],
+    "ipv6": [
+      "2804:25a4::/32"
+    ]
+  }
+}

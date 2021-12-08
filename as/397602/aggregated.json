@@ -1,0 +1,12 @@
+{
+  "asn": 397602,
+  "handle": "BOREALIS-BROADBAND",
+  "description": "BOREALIS BROADBAND INC.",
+  "subnets": {
+    "ipv4": [
+      "12.17.138.0/23",
+      "12.17.176.0/20"
+    ],
+    "ipv6": []
+  }
+}

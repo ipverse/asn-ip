@@ -1,0 +1,12 @@
+{
+  "asn": 43400,
+  "handle": "SV3",
+  "description": "TOV NEO-TELECOM",
+  "subnets": {
+    "ipv4": [
+      "91.194.238.0/23",
+      "91.241.128.0/19"
+    ],
+    "ipv6": []
+  }
+}

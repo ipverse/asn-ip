@@ -1,0 +1,12 @@
+{
+  "asn": 42325,
+  "handle": "UFINET",
+  "description": "UFINET TELECOM S.A.U.",
+  "subnets": {
+    "ipv4": [
+      "77.72.106.0/23",
+      "77.72.108.0/22"
+    ],
+    "ipv6": []
+  }
+}

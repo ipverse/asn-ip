@@ -1,0 +1,11 @@
+{
+  "asn": 5757,
+  "handle": "GPC",
+  "description": "General Physics Corporation",
+  "subnets": {
+    "ipv4": [
+      "192.149.93.0/24"
+    ],
+    "ipv6": []
+  }
+}

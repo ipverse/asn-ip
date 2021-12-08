@@ -1,0 +1,14 @@
+{
+  "asn": 36742,
+  "handle": "DATA-INTENSITY",
+  "description": "Data Intensity, LLC",
+  "subnets": {
+    "ipv4": [
+      "74.123.56.0/22",
+      "74.123.60.0/23",
+      "74.123.62.0/24",
+      "216.75.149.0/24"
+    ],
+    "ipv6": []
+  }
+}

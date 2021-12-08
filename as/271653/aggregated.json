@@ -1,0 +1,13 @@
+{
+  "asn": 271653,
+  "handle": "ALCOM-WEB-SERVICE-LTDA",
+  "description": "Alcom Web Service Ltda",
+  "subnets": {
+    "ipv4": [
+      "186.227.132.0/22"
+    ],
+    "ipv6": [
+      "2804:7ee4::/32"
+    ]
+  }
+}

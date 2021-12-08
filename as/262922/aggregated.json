@@ -1,0 +1,11 @@
+{
+  "asn": 262922,
+  "handle": "GOBIERNO-DEL-ESTADO-DE-MEXICO",
+  "description": "Gobierno del Estado de Mexico",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2801:c4:15::/48"
+    ]
+  }
+}

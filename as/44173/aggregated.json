@@ -1,0 +1,13 @@
+{
+  "asn": 44173,
+  "handle": "NOCKZ",
+  "description": "National Innovation Center LLC",
+  "subnets": {
+    "ipv4": [
+      "178.212.0.0/22",
+      "185.179.8.0/22",
+      "193.93.212.0/22"
+    ],
+    "ipv6": []
+  }
+}

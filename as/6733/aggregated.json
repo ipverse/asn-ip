@@ -1,0 +1,12 @@
+{
+  "asn": 6733,
+  "handle": "DIMDI",
+  "description": "DIMDI Deutsches Institut fuer medizinische Dokumentation und Information",
+  "subnets": {
+    "ipv4": [
+      "193.108.176.0/24",
+      "194.153.219.0/24"
+    ],
+    "ipv6": []
+  }
+}

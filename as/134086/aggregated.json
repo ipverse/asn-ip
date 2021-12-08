@@ -1,0 +1,13 @@
+{
+  "asn": 134086,
+  "handle": "ETDA",
+  "description": "Electronic Transactions Development Agency",
+  "subnets": {
+    "ipv4": [
+      "103.55.140.0/22"
+    ],
+    "ipv6": [
+      "2402:c980::/32"
+    ]
+  }
+}

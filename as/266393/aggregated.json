@@ -1,0 +1,13 @@
+{
+  "asn": 266393,
+  "handle": "BIGNET-TELECOM",
+  "description": "Bignet Telecom",
+  "subnets": {
+    "ipv4": [
+      "170.81.44.0/22"
+    ],
+    "ipv6": [
+      "2804:3728::/32"
+    ]
+  }
+}

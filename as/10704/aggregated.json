@@ -1,0 +1,12 @@
+{
+  "asn": 10704,
+  "handle": "ML-TELECOM",
+  "description": "ML Telecom",
+  "subnets": {
+    "ipv4": [
+      "200.234.128.0/18",
+      "200.239.192.0/18"
+    ],
+    "ipv6": []
+  }
+}

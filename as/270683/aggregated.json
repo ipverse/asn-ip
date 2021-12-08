@@ -1,0 +1,13 @@
+{
+  "asn": 270683,
+  "handle": "RFF-TELECOMUNICACOES-E",
+  "description": "RFF Telecomunicações e Consultoria LTDA",
+  "subnets": {
+    "ipv4": [
+      "200.187.100.0/22"
+    ],
+    "ipv6": [
+      "2804:6fc4::/32"
+    ]
+  }
+}

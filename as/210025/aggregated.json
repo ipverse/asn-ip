@@ -1,0 +1,16 @@
+{
+  "asn": 210025,
+  "handle": "XXSL",
+  "description": "Chen Qian",
+  "subnets": {
+    "ipv4": [
+      "88.218.204.0/22"
+    ],
+    "ipv6": [
+      "2a09:b280:ffb0::/47",
+      "2a09:b280:ffb2::/48",
+      "2a09:b280:ffbb::/48",
+      "2a09:b280:ffbc::/46"
+    ]
+  }
+}

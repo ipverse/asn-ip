@@ -1,0 +1,13 @@
+{
+  "asn": 266400,
+  "handle": "FERENZ-NETWORKS",
+  "description": "Ferenz Networks",
+  "subnets": {
+    "ipv4": [
+      "170.81.40.0/22"
+    ],
+    "ipv6": [
+      "2804:3744::/32"
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 37123,
+  "handle": "TELCO-ZW",
+  "description": "Telecontract Pvt Ltd",
+  "subnets": {
+    "ipv4": [
+      "41.191.232.0/21",
+      "154.119.80.0/20"
+    ],
+    "ipv6": [
+      "2c0f:f0b8::/32"
+    ]
+  }
+}

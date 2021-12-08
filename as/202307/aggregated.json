@@ -1,0 +1,11 @@
+{
+  "asn": 202307,
+  "handle": "GRIWES-HOMELAB",
+  "description": "Michal Dominiak",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a0b:b87:ffe9::/48"
+    ]
+  }
+}

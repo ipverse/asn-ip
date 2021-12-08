@@ -1,0 +1,12 @@
+{
+  "asn": 45977,
+  "handle": "CKBS-KR-KR",
+  "description": "CANON KOREA INC.",
+  "subnets": {
+    "ipv4": [
+      "203.240.149.0/24",
+      "203.240.150.0/23"
+    ],
+    "ipv6": []
+  }
+}

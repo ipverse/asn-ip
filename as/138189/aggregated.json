@@ -1,0 +1,12 @@
+{
+  "asn": 138189,
+  "handle": "SECURECOM-NZ-AP",
+  "description": "Securecom Ltd",
+  "subnets": {
+    "ipv4": [
+      "103.122.40.0/22",
+      "203.132.4.0/22"
+    ],
+    "ipv6": []
+  }
+}

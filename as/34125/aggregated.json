@@ -1,0 +1,12 @@
+{
+  "asn": 34125,
+  "handle": "BECHTLEFN",
+  "description": "Bechtle GmbH \u0026 Co. KG",
+  "subnets": {
+    "ipv4": [
+      "193.29.2.0/24",
+      "212.2.64.0/19"
+    ],
+    "ipv6": []
+  }
+}

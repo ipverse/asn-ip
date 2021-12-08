@@ -1,0 +1,12 @@
+{
+  "asn": 139709,
+  "handle": "EZSVSNET-AP",
+  "description": "EZSVS SINGAPORE(PTE.) LTD.",
+  "subnets": {
+    "ipv4": [
+      "103.75.236.0/24",
+      "103.143.240.0/23"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 30595,
+  "handle": "URBANOUT",
+  "description": "Urban Outfitters, Inc.",
+  "subnets": {
+    "ipv4": [
+      "198.135.28.0/22",
+      "204.115.126.0/23"
+    ],
+    "ipv6": []
+  }
+}

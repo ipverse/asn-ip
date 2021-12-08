@@ -1,0 +1,13 @@
+{
+  "asn": 211616,
+  "handle": "RZDZDOR",
+  "description": "JSC RZD-Zdorovie",
+  "subnets": {
+    "ipv4": [
+      "93.187.96.0/24",
+      "185.26.55.0/24",
+      "194.190.105.0/24"
+    ],
+    "ipv6": []
+  }
+}

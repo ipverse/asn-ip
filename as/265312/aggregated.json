@@ -1,0 +1,13 @@
+{
+  "asn": 265312,
+  "handle": "PORTAL-CONEXAO-LTDA",
+  "description": "Portal Conexão Ltda",
+  "subnets": {
+    "ipv4": [
+      "168.121.136.0/22"
+    ],
+    "ipv6": [
+      "2804:2dec::/32"
+    ]
+  }
+}

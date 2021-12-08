@@ -1,0 +1,13 @@
+{
+  "asn": 264310,
+  "handle": "MUNDIAL-NET-TELECOM-EPP",
+  "description": "MUNDIAL NET TELECOM - EPP",
+  "subnets": {
+    "ipv4": [
+      "138.122.32.0/22"
+    ],
+    "ipv6": [
+      "2804:25e8::/32"
+    ]
+  }
+}

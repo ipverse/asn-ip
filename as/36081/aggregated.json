@@ -1,0 +1,15 @@
+{
+  "asn": 36081,
+  "handle": "STATE-OF-COLORADO-MNT-NETWORK",
+  "description": "State of Colorado General Government Computer",
+  "subnets": {
+    "ipv4": [
+      "63.225.17.0/24",
+      "156.108.0.0/16",
+      "165.127.0.0/16",
+      "192.70.175.0/24",
+      "192.136.70.0/24"
+    ],
+    "ipv6": []
+  }
+}

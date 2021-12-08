@@ -1,0 +1,13 @@
+{
+  "asn": 212397,
+  "handle": "URAN-KHARKIV",
+  "description": "Association of users of Ukrainian Research \u0026 Academic Network URAN",
+  "subnets": {
+    "ipv4": [
+      "212.111.199.0/24"
+    ],
+    "ipv6": [
+      "2a01:5c40:6::/48"
+    ]
+  }
+}

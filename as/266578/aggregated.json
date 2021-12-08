@@ -1,0 +1,14 @@
+{
+  "asn": 266578,
+  "handle": "SEVENNET-TELECOM",
+  "description": "Sevennet Telecom",
+  "subnets": {
+    "ipv4": [
+      "45.7.77.0/24",
+      "45.7.78.0/23"
+    ],
+    "ipv6": [
+      "2804:3e2c::/32"
+    ]
+  }
+}

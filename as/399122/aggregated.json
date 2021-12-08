@@ -1,0 +1,16 @@
+{
+  "asn": 399122,
+  "handle": "VPSHOUSE",
+  "description": "VPS House Technology Group LLC",
+  "subnets": {
+    "ipv4": [
+      "74.123.96.0/22",
+      "162.251.118.0/24"
+    ],
+    "ipv6": [
+      "2602:fcd5:2::/47",
+      "2602:fcd5:10::/47",
+      "2602:fcd5:18::/46"
+    ]
+  }
+}

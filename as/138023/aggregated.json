@@ -1,0 +1,12 @@
+{
+  "asn": 138023,
+  "handle": "CREATION-AP",
+  "description": "Creation Online",
+  "subnets": {
+    "ipv4": [
+      "103.120.48.0/24",
+      "103.137.108.0/23"
+    ],
+    "ipv6": []
+  }
+}

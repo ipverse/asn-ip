@@ -1,0 +1,12 @@
+{
+  "asn": 265531,
+  "handle": "LUMENET-COMUNICACIONES-S",
+  "description": "LUMENET COMUNICACIONES S. DE R.L. DE C.V.",
+  "subnets": {
+    "ipv4": [
+      "45.6.140.0/22",
+      "64.68.223.0/24"
+    ],
+    "ipv6": []
+  }
+}

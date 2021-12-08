@@ -1,0 +1,11 @@
+{
+  "asn": 39690,
+  "handle": "DIGITALOCEAN-NOC",
+  "description": "Digital Ocean SRL",
+  "subnets": {
+    "ipv4": [
+      "45.82.64.0/22"
+    ],
+    "ipv6": []
+  }
+}

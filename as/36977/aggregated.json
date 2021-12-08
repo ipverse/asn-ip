@@ -1,0 +1,12 @@
+{
+  "asn": 36977,
+  "handle": "AIRTEL-UG",
+  "description": "Airtel Uganda Limited",
+  "subnets": {
+    "ipv4": [
+      "41.221.80.0/20",
+      "197.221.128.0/19"
+    ],
+    "ipv6": []
+  }
+}

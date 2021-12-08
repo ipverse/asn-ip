@@ -1,0 +1,13 @@
+{
+  "asn": 139898,
+  "handle": "DCL-AP",
+  "description": "Digitec Communications Limited",
+  "subnets": {
+    "ipv4": [
+      "43.245.56.0/22"
+    ],
+    "ipv6": [
+      "2405:9f40::/32"
+    ]
+  }
+}

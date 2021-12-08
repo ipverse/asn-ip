@@ -1,0 +1,11 @@
+{
+  "asn": 200354,
+  "handle": "ROUTNET",
+  "description": "LLC Routnet",
+  "subnets": {
+    "ipv4": [
+      "194.107.176.0/22"
+    ],
+    "ipv6": []
+  }
+}

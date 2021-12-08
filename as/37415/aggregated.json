@@ -1,0 +1,13 @@
+{
+  "asn": 37415,
+  "handle": "AFRINET",
+  "description": "AFRINET SARL",
+  "subnets": {
+    "ipv4": [
+      "41.222.216.0/22"
+    ],
+    "ipv6": [
+      "2c0f:eca0::/32"
+    ]
+  }
+}

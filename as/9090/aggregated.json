@@ -1,0 +1,11 @@
+{
+  "asn": 9090,
+  "handle": "PRNE",
+  "description": "PR Newswire Europe Ltd.",
+  "subnets": {
+    "ipv4": [
+      "194.153.136.0/23"
+    ],
+    "ipv6": []
+  }
+}

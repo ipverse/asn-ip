@@ -1,0 +1,12 @@
+{
+  "asn": 137047,
+  "handle": "TATMPL-AP",
+  "description": "TELECOMMUNICATION AND TECHNOLOGY MASTERS (PVT.) LIMITED",
+  "subnets": {
+    "ipv4": [
+      "103.103.43.0/24",
+      "103.120.70.0/23"
+    ],
+    "ipv6": []
+  }
+}

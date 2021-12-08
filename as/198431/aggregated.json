@@ -1,0 +1,12 @@
+{
+  "asn": 198431,
+  "handle": "SKRETKA",
+  "description": "Przedsiebiorstwo Wielobranzowe Skretka Lukasz Piwowarczyk",
+  "subnets": {
+    "ipv4": [
+      "194.31.36.0/23",
+      "194.31.38.0/24"
+    ],
+    "ipv6": []
+  }
+}

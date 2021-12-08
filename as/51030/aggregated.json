@@ -1,0 +1,13 @@
+{
+  "asn": 51030,
+  "handle": "SKYVISION",
+  "description": "Skyvision Business Centre B.V.",
+  "subnets": {
+    "ipv4": [
+      "185.121.224.0/22",
+      "185.188.140.0/23",
+      "185.188.142.0/24"
+    ],
+    "ipv6": []
+  }
+}

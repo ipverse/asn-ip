@@ -1,0 +1,15 @@
+{
+  "asn": 53001,
+  "handle": "NAXI-TELECOMUNICACOES",
+  "description": "NAXI TELECOMUNICACOES",
+  "subnets": {
+    "ipv4": [
+      "131.100.92.0/22",
+      "177.66.144.0/22",
+      "186.235.56.0/22"
+    ],
+    "ipv6": [
+      "2804:15e4::/32"
+    ]
+  }
+}

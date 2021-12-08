@@ -1,0 +1,13 @@
+{
+  "asn": 138539,
+  "handle": "JEWEL-AP",
+  "description": "Jewel Changi Airport Trustee Pte. Ltd.",
+  "subnets": {
+    "ipv4": [
+      "103.132.136.0/22"
+    ],
+    "ipv6": [
+      "2404:39c0::/32"
+    ]
+  }
+}

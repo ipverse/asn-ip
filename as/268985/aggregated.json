@@ -1,0 +1,13 @@
+{
+  "asn": 268985,
+  "handle": "VEM-PRA-UNO",
+  "description": "VEM PRA UNO PROVEDOR DE INTERNET LTDA",
+  "subnets": {
+    "ipv4": [
+      "45.177.152.0/22"
+    ],
+    "ipv6": [
+      "2804:5da8::/32"
+    ]
+  }
+}

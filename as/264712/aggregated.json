@@ -1,0 +1,13 @@
+{
+  "asn": 264712,
+  "handle": "MONICA-E-SENORANS",
+  "description": "MONICA E. SEÑORANS",
+  "subnets": {
+    "ipv4": [
+      "170.150.8.0/22"
+    ],
+    "ipv6": [
+      "2803:eb40::/32"
+    ]
+  }
+}

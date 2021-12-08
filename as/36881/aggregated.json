@@ -1,0 +1,12 @@
+{
+  "asn": 36881,
+  "handle": "MULTITEL",
+  "description": "Multitel Servicos de Telecomunicacoes",
+  "subnets": {
+    "ipv4": [
+      "169.239.108.0/22",
+      "196.32.192.0/21"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 267255,
+  "handle": "FRAPORT-BRASIL-SA",
+  "description": "FRAPORT BRASIL S.A. AEROPORTO DE PORTO ALEGRE",
+  "subnets": {
+    "ipv4": [
+      "45.231.146.0/23"
+    ],
+    "ipv6": [
+      "2804:4aa8::/32"
+    ]
+  }
+}

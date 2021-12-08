@@ -1,0 +1,11 @@
+{
+  "asn": 200306,
+  "handle": "BG-STAMOV",
+  "description": "Ivan Stamov",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2001:678:7e0::/48"
+    ]
+  }
+}

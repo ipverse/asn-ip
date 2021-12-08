@@ -1,0 +1,11 @@
+{
+  "asn": 64123,
+  "handle": "GRUPO-IN-SAS",
+  "description": "GRUPO IN S.A.S",
+  "subnets": {
+    "ipv4": [
+      "186.148.224.0/22"
+    ],
+    "ipv6": []
+  }
+}

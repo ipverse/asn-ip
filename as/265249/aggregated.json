@@ -1,0 +1,14 @@
+{
+  "asn": 265249,
+  "handle": "WOW-SERVICOS-DE",
+  "description": "WOW SERVICOS DE TELECOMUNICACOES EIRELI",
+  "subnets": {
+    "ipv4": [
+      "168.0.112.0/23",
+      "168.0.114.0/24"
+    ],
+    "ipv6": [
+      "2804:2ce4:4000::/34"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asn": 10935,
+  "handle": "RLC-INTERNET",
+  "description": "RLC INTERNET",
+  "subnets": {
+    "ipv4": [
+      "216.197.73.0/24"
+    ],
+    "ipv6": []
+  }
+}

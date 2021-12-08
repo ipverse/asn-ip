@@ -1,0 +1,11 @@
+{
+  "asn": 28102,
+  "handle": "BANCO-AZTECA-PERU",
+  "description": "Banco Azteca Peru",
+  "subnets": {
+    "ipv4": [
+      "200.3.242.0/24"
+    ],
+    "ipv6": []
+  }
+}

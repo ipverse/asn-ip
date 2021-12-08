@@ -1,0 +1,13 @@
+{
+  "asn": 269442,
+  "handle": "VG-NET-SERVICOS-DE-TELECOM",
+  "description": "VG NET SERVIÇOS DE TELECOM",
+  "subnets": {
+    "ipv4": [
+      "45.186.240.0/22"
+    ],
+    "ipv6": [
+      "2804:64b0:4000::/36"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 134997,
+  "handle": "YFNET-AP",
+  "description": "HostUS Solutions LLC",
+  "subnets": {
+    "ipv4": [
+      "103.155.202.0/24"
+    ],
+    "ipv6": [
+      "2402:e380:304::/48"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asn": 264891,
+  "handle": "PORTAL-LINK-TELECOM",
+  "description": "PORTAL LINK TELECOM",
+  "subnets": {
+    "ipv4": [
+      "168.227.112.0/22"
+    ],
+    "ipv6": []
+  }
+}

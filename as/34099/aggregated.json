@@ -1,0 +1,12 @@
+{
+  "asn": 34099,
+  "handle": "ROAD-TECH-COMPUTER-SYSTEMS",
+  "description": "Road Tech Computer Systems Ltd.",
+  "subnets": {
+    "ipv4": [
+      "193.133.123.0/24",
+      "195.245.100.0/23"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 24111,
+  "handle": "NZWIRELESS-CO-NZ-AP",
+  "description": "nzwireless Ltd",
+  "subnets": {
+    "ipv4": [
+      "58.84.224.0/20"
+    ],
+    "ipv6": [
+      "2401:c80::/32"
+    ]
+  }
+}

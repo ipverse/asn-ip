@@ -1,0 +1,12 @@
+{
+  "asn": 14920,
+  "handle": "EVERTEC",
+  "description": "Banco Popular de Puerto Rico",
+  "subnets": {
+    "ipv4": [
+      "64.178.192.0/19",
+      "204.154.228.0/24"
+    ],
+    "ipv6": []
+  }
+}

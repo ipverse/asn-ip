@@ -1,0 +1,13 @@
+{
+  "asn": 262620,
+  "handle": "POX-NETWORK-TELECOMUNICACOES",
+  "description": "Pox Network Telecomunicações Ltda-ME",
+  "subnets": {
+    "ipv4": [
+      "177.86.16.0/21"
+    ],
+    "ipv6": [
+      "2804:718::/32"
+    ]
+  }
+}

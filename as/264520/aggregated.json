@@ -1,0 +1,13 @@
+{
+  "asn": 264520,
+  "handle": "RADIOSCAN-TELECOM-COM",
+  "description": "Radioscan Telecom Com. De Compon. Eletr. Ltda-EPP",
+  "subnets": {
+    "ipv4": [
+      "132.255.248.0/22"
+    ],
+    "ipv6": [
+      "2804:20e8::/32"
+    ]
+  }
+}

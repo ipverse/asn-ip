@@ -1,0 +1,12 @@
+{
+  "asn": 394771,
+  "handle": "THALESAVIONICS",
+  "description": "Thales Avionics",
+  "subnets": {
+    "ipv4": [
+      "38.77.134.0/24",
+      "148.59.170.0/23"
+    ],
+    "ipv6": []
+  }
+}

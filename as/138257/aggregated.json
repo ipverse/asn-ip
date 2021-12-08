@@ -1,0 +1,13 @@
+{
+  "asn": 138257,
+  "handle": "GIGAINFO-IN",
+  "description": "Gigatel Infocomm Pvt Ltd",
+  "subnets": {
+    "ipv4": [
+      "103.154.246.0/23"
+    ],
+    "ipv6": [
+      "2406:6040::/32"
+    ]
+  }
+}

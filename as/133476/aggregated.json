@@ -1,0 +1,13 @@
+{
+  "asn": 133476,
+  "handle": "FIRST-AP",
+  "description": "First Innovation K.K.",
+  "subnets": {
+    "ipv4": [
+      "103.75.212.0/22"
+    ],
+    "ipv6": [
+      "2407:5680::/32"
+    ]
+  }
+}

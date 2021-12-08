@@ -1,0 +1,13 @@
+{
+  "asn": 264093,
+  "handle": "INET-PRO-DISTRIBUICAO",
+  "description": "Inet Pro Distribuição de Dados Ltda",
+  "subnets": {
+    "ipv4": [
+      "138.59.80.0/22"
+    ],
+    "ipv6": [
+      "2804:225c::/36"
+    ]
+  }
+}

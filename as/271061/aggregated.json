@@ -1,0 +1,13 @@
+{
+  "asn": 271061,
+  "handle": "NETLINKPEINFO-LTDA",
+  "description": "NETLINKPE.INFO LTDA",
+  "subnets": {
+    "ipv4": [
+      "45.5.24.0/22"
+    ],
+    "ipv6": [
+      "2804:75a8::/32"
+    ]
+  }
+}

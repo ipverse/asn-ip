@@ -1,0 +1,13 @@
+{
+  "asn": 15199,
+  "handle": "WWU",
+  "description": "Western Washington University",
+  "subnets": {
+    "ipv4": [
+      "140.160.0.0/16"
+    ],
+    "ipv6": [
+      "2620:b8:8000::/48"
+    ]
+  }
+}

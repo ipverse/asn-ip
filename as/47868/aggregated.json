@@ -1,0 +1,14 @@
+{
+  "asn": 47868,
+  "handle": "SUPRO",
+  "description": "SUPRO, spol. s r.o.",
+  "subnets": {
+    "ipv4": [
+      "31.177.24.0/21",
+      "94.125.216.0/21"
+    ],
+    "ipv6": [
+      "2a00:db00::/32"
+    ]
+  }
+}

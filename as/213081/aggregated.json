@@ -1,0 +1,16 @@
+{
+  "asn": 213081,
+  "handle": "UNGLEICH-DCL3",
+  "description": "ungleich glarus ag",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a0a:e5c0:10::/48",
+      "2a0a:e5c0:13::/48",
+      "2a0a:e5c0:16::/48",
+      "2a0a:e5c0:22::/48",
+      "2a0a:e5c0:2a::/48",
+      "2a0a:e5c0:2c::/48"
+    ]
+  }
+}

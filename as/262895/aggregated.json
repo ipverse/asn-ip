@@ -1,0 +1,15 @@
+{
+  "asn": 262895,
+  "handle": "NORTE-LINE-TELECOMUNICACOES",
+  "description": "Norte Line Telecomunicacoes Ltda.",
+  "subnets": {
+    "ipv4": [
+      "177.11.248.0/22",
+      "201.140.208.0/22",
+      "206.62.56.0/22"
+    ],
+    "ipv6": [
+      "2804:394::/32"
+    ]
+  }
+}

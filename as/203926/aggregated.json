@@ -1,0 +1,14 @@
+{
+  "asn": 203926,
+  "handle": "SGT-HK",
+  "description": "SAINT GOBAIN DSI GROUPE GIE",
+  "subnets": {
+    "ipv4": [
+      "159.151.128.0/18",
+      "192.109.143.0/24"
+    ],
+    "ipv6": [
+      "2a07:8144::/36"
+    ]
+  }
+}

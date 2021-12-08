@@ -1,0 +1,13 @@
+{
+  "asn": 5405,
+  "handle": "INTERLINK",
+  "description": "Inter.link GmbH",
+  "subnets": {
+    "ipv4": [
+      "94.103.180.0/24"
+    ],
+    "ipv6": [
+      "2a11:4140::/29"
+    ]
+  }
+}

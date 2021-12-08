@@ -1,0 +1,13 @@
+{
+  "asn": 38644,
+  "handle": "KANDANET",
+  "description": "KANDANET",
+  "subnets": {
+    "ipv4": [
+      "210.173.190.0/24"
+    ],
+    "ipv6": [
+      "2001:3a0:f006::/48"
+    ]
+  }
+}

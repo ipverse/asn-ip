@@ -1,0 +1,13 @@
+{
+  "asn": 37506,
+  "handle": "ZINOX",
+  "description": "Zinox Telecommunications Limited",
+  "subnets": {
+    "ipv4": [
+      "41.220.80.0/20",
+      "165.90.240.0/20",
+      "197.148.80.0/21"
+    ],
+    "ipv6": []
+  }
+}

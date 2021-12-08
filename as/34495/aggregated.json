@@ -1,0 +1,11 @@
+{
+  "asn": 34495,
+  "handle": "KONKURENT",
+  "description": "Konkurent LLC",
+  "subnets": {
+    "ipv4": [
+      "91.235.234.0/24"
+    ],
+    "ipv6": []
+  }
+}

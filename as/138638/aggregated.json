@@ -1,0 +1,14 @@
+{
+  "asn": 138638,
+  "handle": "FENIEASYNET-AP",
+  "description": "Feni Easy Net",
+  "subnets": {
+    "ipv4": [
+      "103.135.88.0/22"
+    ],
+    "ipv6": [
+      "2404:7840:1::/48",
+      "2404:7840:2::/48"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asn": 132994,
+  "handle": "DENABANK",
+  "description": "DENA BANK",
+  "subnets": {
+    "ipv4": [
+      "103.224.110.0/24"
+    ],
+    "ipv6": []
+  }
+}

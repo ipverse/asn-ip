@@ -1,0 +1,13 @@
+{
+  "asn": 263602,
+  "handle": "DITCOM-INTERNET-LTDA",
+  "description": "DITCOM INTERNET LTDA.",
+  "subnets": {
+    "ipv4": [
+      "177.10.220.0/22"
+    ],
+    "ipv6": [
+      "2804:fc4::/32"
+    ]
+  }
+}

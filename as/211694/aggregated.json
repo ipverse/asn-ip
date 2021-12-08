@@ -1,0 +1,13 @@
+{
+  "asn": 211694,
+  "handle": "ALPES-NET",
+  "description": "Alpes Networks SAS",
+  "subnets": {
+    "ipv4": [
+      "185.244.237.0/24"
+    ],
+    "ipv6": [
+      "2a10:a240::/29"
+    ]
+  }
+}

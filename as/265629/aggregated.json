@@ -1,0 +1,11 @@
+{
+  "asn": 265629,
+  "handle": "FIBERNET",
+  "description": "FIBERNET",
+  "subnets": {
+    "ipv4": [
+      "170.239.204.0/22"
+    ],
+    "ipv6": []
+  }
+}

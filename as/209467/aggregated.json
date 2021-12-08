@@ -1,0 +1,13 @@
+{
+  "asn": 209467,
+  "handle": "REMSTAL-BOTE",
+  "description": "Druckhaus Waiblingen Remstal-Bote GmbH",
+  "subnets": {
+    "ipv4": [
+      "91.217.175.0/24"
+    ],
+    "ipv6": [
+      "2001:678:93c::/48"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 17403,
+  "handle": "HSIS",
+  "description": "HyperSurf Internet Services, Inc.",
+  "subnets": {
+    "ipv4": [
+      "66.116.64.0/20",
+      "209.237.0.0/18"
+    ],
+    "ipv6": []
+  }
+}

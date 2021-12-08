@@ -1,0 +1,13 @@
+{
+  "asn": 266604,
+  "handle": "COMPANHIA-ENERGETICA-DE",
+  "description": "COMPANHIA ENERGETICA DE MINAS GERAIS",
+  "subnets": {
+    "ipv4": [
+      "128.201.18.0/23"
+    ],
+    "ipv6": [
+      "2801:80:1ce0::/44"
+    ]
+  }
+}

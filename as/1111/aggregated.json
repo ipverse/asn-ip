@@ -1,0 +1,11 @@
+{
+  "asn": 1111,
+  "handle": "UNIVERSITAET-KLAGENFURT",
+  "description": "Universitaet Klagenfurt",
+  "subnets": {
+    "ipv4": [
+      "143.205.0.0/16"
+    ],
+    "ipv6": []
+  }
+}

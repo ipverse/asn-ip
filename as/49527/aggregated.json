@@ -1,0 +1,12 @@
+{
+  "asn": 49527,
+  "handle": "ROXNET-COM",
+  "description": "SRL ROXNET-COM",
+  "subnets": {
+    "ipv4": [
+      "91.214.200.0/22",
+      "194.15.47.0/24"
+    ],
+    "ipv6": []
+  }
+}

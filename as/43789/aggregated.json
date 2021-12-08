@@ -1,0 +1,11 @@
+{
+  "asn": 43789,
+  "handle": "SLINK",
+  "description": "PE InfoService",
+  "subnets": {
+    "ipv4": [
+      "91.200.57.0/24"
+    ],
+    "ipv6": []
+  }
+}

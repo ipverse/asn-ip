@@ -1,0 +1,13 @@
+{
+  "asn": 59592,
+  "handle": "BACKBONE",
+  "description": "intercolo GmbH",
+  "subnets": {
+    "ipv4": [
+      "94.154.49.0/24"
+    ],
+    "ipv6": [
+      "2a00:ccc2::/32"
+    ]
+  }
+}

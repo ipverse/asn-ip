@@ -1,0 +1,13 @@
+{
+  "asn": 62419,
+  "handle": "IRAQ-FTTH",
+  "description": "I.Q Online for Internet Services and Communications LLC",
+  "subnets": {
+    "ipv4": [
+      "62.201.192.0/24",
+      "62.201.206.0/24",
+      "185.90.104.0/22"
+    ],
+    "ipv6": []
+  }
+}

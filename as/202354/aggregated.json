@@ -1,0 +1,13 @@
+{
+  "asn": 202354,
+  "handle": "BLUESKY",
+  "description": "Blue Sky Telecom LTD",
+  "subnets": {
+    "ipv4": [
+      "91.205.42.0/24",
+      "185.239.179.0/24",
+      "194.127.108.0/22"
+    ],
+    "ipv6": []
+  }
+}

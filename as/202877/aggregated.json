@@ -1,0 +1,13 @@
+{
+  "asn": 202877,
+  "handle": "VEJNET",
+  "description": "VEJNET.CZ s.r.o.",
+  "subnets": {
+    "ipv4": [
+      "185.151.252.0/22"
+    ],
+    "ipv6": [
+      "2a07:7300::/29"
+    ]
+  }
+}

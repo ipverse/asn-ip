@@ -1,0 +1,13 @@
+{
+  "asn": 9836,
+  "handle": "HPCLMUMBAI-IN-AP",
+  "description": "Hindustan Petroleum Corporation Limited",
+  "subnets": {
+    "ipv4": [
+      "203.175.185.0/24"
+    ],
+    "ipv6": [
+      "2001:df0:270::/48"
+    ]
+  }
+}

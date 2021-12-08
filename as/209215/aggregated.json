@@ -1,0 +1,11 @@
+{
+  "asn": 209215,
+  "handle": "MOE-NETWORK",
+  "description": "Moe Network Ltd",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a0e:aa06:460::/44"
+    ]
+  }
+}

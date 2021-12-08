@@ -1,0 +1,11 @@
+{
+  "asn": 271756,
+  "handle": "EQUIPNET-TELECOM",
+  "description": "EQUIPNET TELECOM",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2804:8084::/32"
+    ]
+  }
+}

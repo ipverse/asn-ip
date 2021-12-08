@@ -1,0 +1,13 @@
+{
+  "asn": 265505,
+  "handle": "INTELVID-SA-DE-CV",
+  "description": "INTELVID S.A. DE C.V.",
+  "subnets": {
+    "ipv4": [
+      "45.6.60.0/22"
+    ],
+    "ipv6": [
+      "2806:2e1::/32"
+    ]
+  }
+}

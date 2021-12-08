@@ -1,0 +1,14 @@
+{
+  "asn": 262247,
+  "handle": "BANCO-POPULAR-DOMINICANO",
+  "description": "Banco Popular Dominicano",
+  "subnets": {
+    "ipv4": [
+      "200.23.65.0/24",
+      "201.221.126.0/24"
+    ],
+    "ipv6": [
+      "2801:1a:9000::/48"
+    ]
+  }
+}

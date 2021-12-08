@@ -1,0 +1,15 @@
+{
+  "asn": 203462,
+  "handle": "ASNOVACONN",
+  "description": "NOVACONN SRL",
+  "subnets": {
+    "ipv4": [
+      "2.57.84.0/22",
+      "185.134.68.0/22"
+    ],
+    "ipv6": [
+      "2a06:eb00::/47",
+      "2a06:eb00:2::/48"
+    ]
+  }
+}

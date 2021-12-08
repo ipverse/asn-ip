@@ -1,0 +1,13 @@
+{
+  "asn": 271312,
+  "handle": "ZAP-INTERNET",
+  "description": "ZAP INTERNET",
+  "subnets": {
+    "ipv4": [
+      "187.94.236.0/22"
+    ],
+    "ipv6": [
+      "2804:798c::/32"
+    ]
+  }
+}

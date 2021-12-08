@@ -1,0 +1,13 @@
+{
+  "asn": 268547,
+  "handle": "INFORTREAD-TELECOM",
+  "description": "Infortread Telecom",
+  "subnets": {
+    "ipv4": [
+      "45.163.8.0/22"
+    ],
+    "ipv6": [
+      "2804:52e0::/32"
+    ]
+  }
+}

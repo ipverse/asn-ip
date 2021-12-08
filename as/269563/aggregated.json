@@ -1,0 +1,13 @@
+{
+  "asn": 269563,
+  "handle": "MAX3-TELECOM-LTDA",
+  "description": "MAX3 TELECOM LTDA",
+  "subnets": {
+    "ipv4": [
+      "45.189.8.0/22"
+    ],
+    "ipv6": [
+      "2804:667c::/32"
+    ]
+  }
+}

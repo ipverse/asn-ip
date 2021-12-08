@@ -1,0 +1,12 @@
+{
+  "asn": 131715,
+  "handle": "IDNIC-BTN-ID",
+  "description": "PT. Bank Tabungan Negara (Persero) Tbk",
+  "subnets": {
+    "ipv4": [
+      "103.8.228.0/24",
+      "103.209.130.0/24"
+    ],
+    "ipv6": []
+  }
+}

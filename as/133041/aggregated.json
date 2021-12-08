@@ -1,0 +1,13 @@
+{
+  "asn": 133041,
+  "handle": "TIANXINGROUP-AP",
+  "description": "Tianxin Group Co., Limited",
+  "subnets": {
+    "ipv4": [
+      "45.120.44.0/22",
+      "103.75.0.0/22",
+      "103.140.68.0/23"
+    ],
+    "ipv6": []
+  }
+}

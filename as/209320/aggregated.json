@@ -1,0 +1,13 @@
+{
+  "asn": 209320,
+  "handle": "CC-PLAINELIMAGNE",
+  "description": "Community of communes Plaine Limagne",
+  "subnets": {
+    "ipv4": [
+      "193.25.200.0/24"
+    ],
+    "ipv6": [
+      "2a07:6780::/29"
+    ]
+  }
+}

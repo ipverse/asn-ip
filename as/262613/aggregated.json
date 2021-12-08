@@ -1,0 +1,13 @@
+{
+  "asn": 262613,
+  "handle": "FOCUS-PROVEDORIA-DE-INTERNET",
+  "description": "FOCUS PROVEDORIA DE INTERNET",
+  "subnets": {
+    "ipv4": [
+      "177.85.168.0/22"
+    ],
+    "ipv6": [
+      "2804:6ec::/32"
+    ]
+  }
+}

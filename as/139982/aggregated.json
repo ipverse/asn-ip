@@ -1,0 +1,11 @@
+{
+  "asn": 139982,
+  "handle": "BVSNET-ID",
+  "description": "PT Buana Visualnet Sentra",
+  "subnets": {
+    "ipv4": [
+      "103.148.44.0/23"
+    ],
+    "ipv6": []
+  }
+}

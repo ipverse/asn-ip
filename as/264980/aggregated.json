@@ -1,0 +1,11 @@
+{
+  "asn": 264980,
+  "handle": "MEGAENTER-INTERNET",
+  "description": "MEGAENTER INTERNET",
+  "subnets": {
+    "ipv4": [
+      "170.0.252.0/22"
+    ],
+    "ipv6": []
+  }
+}

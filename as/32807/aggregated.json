@@ -1,0 +1,11 @@
+{
+  "asn": 32807,
+  "handle": "INTERFACE-INC",
+  "description": "INTERFACE INCORPORATED",
+  "subnets": {
+    "ipv4": [
+      "204.238.192.0/24"
+    ],
+    "ipv6": []
+  }
+}

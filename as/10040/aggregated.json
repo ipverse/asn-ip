@@ -1,0 +1,12 @@
+{
+  "asn": 10040,
+  "handle": "NICEVAN-KR-KR",
+  "description": "NICE Information   Telecommunication, Inc",
+  "subnets": {
+    "ipv4": [
+      "121.131.7.0/24",
+      "210.220.104.0/24"
+    ],
+    "ipv6": []
+  }
+}

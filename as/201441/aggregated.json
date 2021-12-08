@@ -1,0 +1,13 @@
+{
+  "asn": 201441,
+  "handle": "EIB",
+  "description": "European Investment Bank",
+  "subnets": {
+    "ipv4": [
+      "193.168.41.0/24",
+      "193.168.42.0/24",
+      "193.168.45.0/24"
+    ],
+    "ipv6": []
+  }
+}

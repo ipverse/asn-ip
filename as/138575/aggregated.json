@@ -1,0 +1,13 @@
+{
+  "asn": 138575,
+  "handle": "APPLE2-AP",
+  "description": "APPLE NET",
+  "subnets": {
+    "ipv4": [
+      "103.133.142.0/23"
+    ],
+    "ipv6": [
+      "2404:4d40::/32"
+    ]
+  }
+}

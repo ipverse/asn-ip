@@ -1,0 +1,11 @@
+{
+  "asn": 11134,
+  "handle": "WEBFIRE-MILTEL",
+  "description": "WebFire Internet Services",
+  "subnets": {
+    "ipv4": [
+      "64.57.224.0/20"
+    ],
+    "ipv6": []
+  }
+}

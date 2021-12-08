@@ -1,0 +1,13 @@
+{
+  "asn": 398263,
+  "handle": "NYC-BROADBAND-PARTNERSHIP",
+  "description": "NYC Broadband Partnership",
+  "subnets": {
+    "ipv4": [
+      "208.64.24.0/21"
+    ],
+    "ipv6": [
+      "2606:11c0::/32"
+    ]
+  }
+}

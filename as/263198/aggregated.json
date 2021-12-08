@@ -1,0 +1,12 @@
+{
+  "asn": 263198,
+  "handle": "INSTITUTO-NACIONAL-DE",
+  "description": "Instituto Nacional de Vitivinicultura",
+  "subnets": {
+    "ipv4": [
+      "190.3.89.0/24",
+      "190.225.160.0/24"
+    ],
+    "ipv6": []
+  }
+}

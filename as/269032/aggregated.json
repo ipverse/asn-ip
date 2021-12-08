@@ -1,0 +1,13 @@
+{
+  "asn": 269032,
+  "handle": "UPNET-TELECOM-LTDA",
+  "description": "UPNET TELECOM LTDA",
+  "subnets": {
+    "ipv4": [
+      "45.178.92.0/22"
+    ],
+    "ipv6": [
+      "2804:5e6c::/32"
+    ]
+  }
+}

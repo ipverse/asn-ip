@@ -1,0 +1,11 @@
+{
+  "asn": 262183,
+  "handle": "MULTI-LINK-SA",
+  "description": "MULTI LINK S.A.",
+  "subnets": {
+    "ipv4": [
+      "190.93.176.0/22"
+    ],
+    "ipv6": []
+  }
+}

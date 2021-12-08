@@ -1,0 +1,13 @@
+{
+  "asn": 263373,
+  "handle": "GIGANET-TELECOM",
+  "description": "GigaNet Telecom",
+  "subnets": {
+    "ipv4": [
+      "191.37.216.0/21"
+    ],
+    "ipv6": [
+      "2804:1524::/32"
+    ]
+  }
+}

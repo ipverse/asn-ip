@@ -1,0 +1,13 @@
+{
+  "asn": 25884,
+  "handle": "WIZARDS",
+  "description": "Wizards of the Coast",
+  "subnets": {
+    "ipv4": [
+      "67.137.221.0/24",
+      "69.8.196.0/22",
+      "199.33.216.0/24"
+    ],
+    "ipv6": []
+  }
+}

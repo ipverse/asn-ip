@@ -1,0 +1,11 @@
+{
+  "asn": 61091,
+  "handle": "PLIUS",
+  "description": "UAB Diginet LTU",
+  "subnets": {
+    "ipv4": [
+      "185.11.24.0/24"
+    ],
+    "ipv6": []
+  }
+}

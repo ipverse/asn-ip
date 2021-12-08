@@ -1,0 +1,11 @@
+{
+  "asn": 62848,
+  "handle": "PMB",
+  "description": "Pacific Mercantile Bank",
+  "subnets": {
+    "ipv4": [
+      "198.160.217.0/24"
+    ],
+    "ipv6": []
+  }
+}

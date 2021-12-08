@@ -1,0 +1,13 @@
+{
+  "asn": 270417,
+  "handle": "UP-DOWN-TELECOM-LTDA",
+  "description": "UP Down Telecom Ltda",
+  "subnets": {
+    "ipv4": [
+      "190.111.108.0/22"
+    ],
+    "ipv6": [
+      "2804:6bb0::/32"
+    ]
+  }
+}

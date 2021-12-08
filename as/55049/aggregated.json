@@ -1,0 +1,12 @@
+{
+  "asn": 55049,
+  "handle": "SCL",
+  "description": "Samlyn Capital, LLC",
+  "subnets": {
+    "ipv4": [
+      "38.65.30.0/24",
+      "192.64.67.0/24"
+    ],
+    "ipv6": []
+  }
+}

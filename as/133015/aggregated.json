@@ -1,0 +1,11 @@
+{
+  "asn": 133015,
+  "handle": "COS-AP",
+  "description": "City of Stirling",
+  "subnets": {
+    "ipv4": [
+      "203.21.40.0/24"
+    ],
+    "ipv6": []
+  }
+}

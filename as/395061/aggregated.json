@@ -1,0 +1,11 @@
+{
+  "asn": 395061,
+  "handle": "SUNMARKFCU",
+  "description": "Sunmark Credit Union",
+  "subnets": {
+    "ipv4": [
+      "198.52.42.0/23"
+    ],
+    "ipv6": []
+  }
+}

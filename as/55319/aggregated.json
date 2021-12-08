@@ -1,0 +1,14 @@
+{
+  "asn": 55319,
+  "handle": "VPBANK-VN",
+  "description": "VietNam Prosperity Joint Stock Commercial Bank",
+  "subnets": {
+    "ipv4": [
+      "103.161.210.0/23",
+      "202.74.56.0/24"
+    ],
+    "ipv6": [
+      "2001:df2:f000::/48"
+    ]
+  }
+}

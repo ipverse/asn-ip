@@ -1,0 +1,12 @@
+{
+  "asn": 19944,
+  "handle": "TA-INSTRUMENTS",
+  "description": "TA Instruments",
+  "subnets": {
+    "ipv4": [
+      "107.0.202.0/24",
+      "208.255.164.0/24"
+    ],
+    "ipv6": []
+  }
+}

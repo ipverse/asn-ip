@@ -1,0 +1,13 @@
+{
+  "asn": 139908,
+  "handle": "HZNET-AP",
+  "description": "Karamay Hzon Network Technology Development Co.,Ltd.",
+  "subnets": {
+    "ipv4": [
+      "103.146.252.0/23"
+    ],
+    "ipv6": [
+      "2405:a3c0::/32"
+    ]
+  }
+}

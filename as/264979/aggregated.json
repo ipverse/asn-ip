@@ -1,0 +1,13 @@
+{
+  "asn": 264979,
+  "handle": "FRISIA-COOPERATIVA-AGROINDUSTRIAL",
+  "description": "FRISIA COOPERATIVA AGROINDUSTRIAL",
+  "subnets": {
+    "ipv4": [
+      "200.23.189.0/24"
+    ],
+    "ipv6": [
+      "2801:80:1930::/48"
+    ]
+  }
+}

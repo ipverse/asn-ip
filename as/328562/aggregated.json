@@ -1,0 +1,11 @@
+{
+  "asn": 328562,
+  "handle": "SWIFT-CONNECT",
+  "description": "Swift Connect Private Company",
+  "subnets": {
+    "ipv4": [
+      "102.23.144.0/20"
+    ],
+    "ipv6": []
+  }
+}

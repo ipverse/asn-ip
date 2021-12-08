@@ -1,0 +1,13 @@
+{
+  "asn": 263542,
+  "handle": "SITNET-PROVIDER",
+  "description": "Sitnet Provider",
+  "subnets": {
+    "ipv4": [
+      "191.5.232.0/22"
+    ],
+    "ipv6": [
+      "2804:13a0::/32"
+    ]
+  }
+}

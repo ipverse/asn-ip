@@ -1,0 +1,12 @@
+{
+  "asn": 395388,
+  "handle": "TRION-KOP",
+  "description": "Trion Group, LLC",
+  "subnets": {
+    "ipv4": [
+      "64.74.154.0/24",
+      "160.72.55.0/24"
+    ],
+    "ipv6": []
+  }
+}

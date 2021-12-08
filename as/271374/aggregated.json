@@ -1,0 +1,13 @@
+{
+  "asn": 271374,
+  "handle": "ASAP-TELECOM-LTDA",
+  "description": "ASAP TELECOM LTDA",
+  "subnets": {
+    "ipv4": [
+      "177.126.60.0/22"
+    ],
+    "ipv6": [
+      "2804:7a7c:1000::/36"
+    ]
+  }
+}

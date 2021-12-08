@@ -1,0 +1,13 @@
+{
+  "asn": 60840,
+  "handle": "TELECOMSERVICEVRN",
+  "description": "OJSC Telecom-Service",
+  "subnets": {
+    "ipv4": [
+      "185.23.80.0/22",
+      "185.144.60.0/22",
+      "195.133.28.0/22"
+    ],
+    "ipv6": []
+  }
+}

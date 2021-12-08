@@ -1,0 +1,12 @@
+{
+  "asn": 49484,
+  "handle": "AUDIOCODES",
+  "description": "Audiocodes Ltd",
+  "subnets": {
+    "ipv4": [
+      "185.49.100.0/24",
+      "195.189.192.0/23"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 53025,
+  "handle": "MENNESYS-COMERCIO-SERVICOS",
+  "description": "MENNE.SYS - Comércio \u0026 Serviços de Informática LTD",
+  "subnets": {
+    "ipv4": [
+      "168.181.136.0/22",
+      "177.73.32.0/22",
+      "186.251.172.0/22"
+    ],
+    "ipv6": []
+  }
+}

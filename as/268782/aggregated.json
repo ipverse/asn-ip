@@ -1,0 +1,13 @@
+{
+  "asn": 268782,
+  "handle": "H-NET-TELECOM-LTDA",
+  "description": "H-NET TELECOM LTDA",
+  "subnets": {
+    "ipv4": [
+      "45.172.240.0/22"
+    ],
+    "ipv6": [
+      "2804:5a94::/32"
+    ]
+  }
+}

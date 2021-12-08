@@ -1,0 +1,12 @@
+{
+  "asn": 399030,
+  "handle": "NTL-030",
+  "description": "NTURNET TECHNOLOGY, LLC",
+  "subnets": {
+    "ipv4": [
+      "104.224.10.0/23",
+      "209.37.186.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 131910,
+  "handle": "SORACOM",
+  "description": "SORACOM, Inc.",
+  "subnets": {
+    "ipv4": [
+      "103.67.220.0/22",
+      "150.91.246.0/23"
+    ],
+    "ipv6": []
+  }
+}

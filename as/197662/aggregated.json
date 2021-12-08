@@ -1,0 +1,12 @@
+{
+  "asn": 197662,
+  "handle": "NC2",
+  "description": "NC2 Network Computer Communication Sas",
+  "subnets": {
+    "ipv4": [
+      "91.223.240.0/24",
+      "185.74.200.0/22"
+    ],
+    "ipv6": []
+  }
+}

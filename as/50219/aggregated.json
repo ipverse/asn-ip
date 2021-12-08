@@ -1,0 +1,12 @@
+{
+  "asn": 50219,
+  "handle": "LNK",
+  "description": "LNK SYSTEMS MUNTENIA SRL",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a0a:6500::/48",
+      "2a0d:f407:a4::/48"
+    ]
+  }
+}

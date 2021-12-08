@@ -1,0 +1,13 @@
+{
+  "asn": 396233,
+  "handle": "TELEMATE-ATL",
+  "description": "TeleMate.Net Software, LLC",
+  "subnets": {
+    "ipv4": [
+      "172.83.50.0/24"
+    ],
+    "ipv6": [
+      "2620:1a:e000::/48"
+    ]
+  }
+}

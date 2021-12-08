@@ -1,0 +1,13 @@
+{
+  "asn": 265100,
+  "handle": "FSI-TELECOMUNICACOES-LTDA",
+  "description": "FSI Telecomunicacoes LTDA",
+  "subnets": {
+    "ipv4": [
+      "170.254.80.0/22"
+    ],
+    "ipv6": [
+      "2804:32d4::/32"
+    ]
+  }
+}

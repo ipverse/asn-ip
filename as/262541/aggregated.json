@@ -1,0 +1,13 @@
+{
+  "asn": 262541,
+  "handle": "ITEMNET-PROVEDOR-DE",
+  "description": "ITEMNET PROVEDOR DE INTERNET LTDA - ME",
+  "subnets": {
+    "ipv4": [
+      "177.72.48.0/21"
+    ],
+    "ipv6": [
+      "2804:5c8::/32"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 63031,
+  "handle": "WEBBYENT",
+  "description": "Webby Enterprises LLC",
+  "subnets": {
+    "ipv4": [
+      "8.19.246.0/24",
+      "192.251.238.0/23"
+    ],
+    "ipv6": []
+  }
+}

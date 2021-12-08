@@ -1,0 +1,13 @@
+{
+  "asn": 134909,
+  "handle": "SOUTHINDIANBANK",
+  "description": "THE SOUTH INDIAN BANK LTD",
+  "subnets": {
+    "ipv4": [
+      "103.212.28.0/22"
+    ],
+    "ipv6": [
+      "2001:df6:5e00::/47"
+    ]
+  }
+}

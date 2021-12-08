@@ -1,0 +1,13 @@
+{
+  "asn": 134905,
+  "handle": "IGENNETWORKS-IN",
+  "description": "iGEN Networks Pvt Ltd",
+  "subnets": {
+    "ipv4": [
+      "103.211.76.0/22"
+    ],
+    "ipv6": [
+      "2407:4cc0::/32"
+    ]
+  }
+}

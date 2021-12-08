@@ -1,0 +1,14 @@
+{
+  "asn": 138636,
+  "handle": "LAKSHMIPURONLINE-AP",
+  "description": "Lakshmipur Online",
+  "subnets": {
+    "ipv4": [
+      "103.135.76.0/23",
+      "103.135.79.0/24"
+    ],
+    "ipv6": [
+      "2404:76c0::/32"
+    ]
+  }
+}

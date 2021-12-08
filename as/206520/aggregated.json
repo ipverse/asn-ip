@@ -1,0 +1,13 @@
+{
+  "asn": 206520,
+  "handle": "HUBLOGISTICS",
+  "description": "HUB logistics Finland Oy",
+  "subnets": {
+    "ipv4": [
+      "185.184.44.0/24"
+    ],
+    "ipv6": [
+      "2a0b:2980::/48"
+    ]
+  }
+}

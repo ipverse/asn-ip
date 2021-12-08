@@ -1,0 +1,15 @@
+{
+  "asn": 19117,
+  "handle": "HEAVYCOMPUTING",
+  "description": "Heavy Computing",
+  "subnets": {
+    "ipv4": [
+      "162.250.192.0/22",
+      "192.154.28.0/22",
+      "199.27.180.0/22"
+    ],
+    "ipv6": [
+      "2604:3e40::/32"
+    ]
+  }
+}

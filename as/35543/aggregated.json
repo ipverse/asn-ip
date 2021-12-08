@@ -1,0 +1,11 @@
+{
+  "asn": 35543,
+  "handle": "TOBANDO",
+  "description": "Tobando AB",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a03:8600:1007::/48"
+    ]
+  }
+}

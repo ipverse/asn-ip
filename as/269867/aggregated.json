@@ -1,0 +1,13 @@
+{
+  "asn": 269867,
+  "handle": "DEPARTAMENTO-ADMINISTRATIVO-DE",
+  "description": "DEPARTAMENTO ADMINISTRATIVO DE CIENCIA, TECNOLOGIA E INNOVACION (COLCIENCIAS)",
+  "subnets": {
+    "ipv4": [
+      "45.189.119.0/24"
+    ],
+    "ipv6": [
+      "2801:15:7000::/48"
+    ]
+  }
+}

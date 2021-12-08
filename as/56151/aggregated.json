@@ -1,0 +1,12 @@
+{
+  "asn": 56151,
+  "handle": "DIGISTAR-VN",
+  "description": "DigiStar Company Limited",
+  "subnets": {
+    "ipv4": [
+      "45.117.172.0/22",
+      "103.254.12.0/22"
+    ],
+    "ipv6": []
+  }
+}

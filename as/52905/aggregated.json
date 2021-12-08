@@ -1,0 +1,13 @@
+{
+  "asn": 52905,
+  "handle": "MIT-INTERNET",
+  "description": "MIT Internet",
+  "subnets": {
+    "ipv4": [
+      "177.11.232.0/21"
+    ],
+    "ipv6": [
+      "2804:aac::/32"
+    ]
+  }
+}

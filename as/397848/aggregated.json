@@ -1,0 +1,13 @@
+{
+  "asn": 397848,
+  "handle": "VIKINGBROADBAND",
+  "description": "VIKING Broadband, Inc.",
+  "subnets": {
+    "ipv4": [
+      "64.66.36.0/22",
+      "65.158.182.0/24",
+      "216.185.216.0/22"
+    ],
+    "ipv6": []
+  }
+}

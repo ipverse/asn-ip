@@ -1,0 +1,12 @@
+{
+  "asn": 196793,
+  "handle": "CLOUDMORE",
+  "description": "Cloudmore AB",
+  "subnets": {
+    "ipv4": [
+      "91.213.0.0/24",
+      "91.236.207.0/24"
+    ],
+    "ipv6": []
+  }
+}

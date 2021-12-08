@@ -1,0 +1,13 @@
+{
+  "asn": 271492,
+  "handle": "VIRTUAL-GIGA-SOLUCOES",
+  "description": "Virtual Giga Solucoes em Servicos Online LTDA",
+  "subnets": {
+    "ipv4": [
+      "206.85.164.0/22"
+    ],
+    "ipv6": [
+      "2804:7c60::/32"
+    ]
+  }
+}

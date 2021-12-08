@@ -1,0 +1,13 @@
+{
+  "asn": 204363,
+  "handle": "BLOXIO",
+  "description": "Frank Meeusen",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a0a:b706:9992::/47",
+      "2a0a:b706:9994::/48",
+      "2a0a:b706:999f::/48"
+    ]
+  }
+}

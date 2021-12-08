@@ -1,0 +1,11 @@
+{
+  "asn": 23084,
+  "handle": "CNA-INSURANCE",
+  "description": "Continental Casualty Co. (CNA)",
+  "subnets": {
+    "ipv4": [
+      "159.10.0.0/16"
+    ],
+    "ipv6": []
+  }
+}

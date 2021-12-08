@@ -1,0 +1,13 @@
+{
+  "asn": 200460,
+  "handle": "TRANQUILLITY",
+  "description": "Mikael Frykholm trading as Tranquillity",
+  "subnets": {
+    "ipv4": [
+      "185.97.32.0/22"
+    ],
+    "ipv6": [
+      "2a00:66c0::/32"
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 131378,
+  "handle": "CLOUDVIET-VN",
+  "description": "Cloud Viet Technology Company Limited",
+  "subnets": {
+    "ipv4": [
+      "103.147.186.0/23",
+      "103.169.168.0/23"
+    ],
+    "ipv6": [
+      "2405:be40::/48"
+    ]
+  }
+}

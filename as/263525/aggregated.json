@@ -1,0 +1,13 @@
+{
+  "asn": 263525,
+  "handle": "DISPOR-DE-TELECOMUNICAES-LTDA",
+  "description": "Dispor de Telecomunicaes Ltda",
+  "subnets": {
+    "ipv4": [
+      "191.253.48.0/20"
+    ],
+    "ipv6": [
+      "2804:1344::/32"
+    ]
+  }
+}

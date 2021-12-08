@@ -1,0 +1,13 @@
+{
+  "asn": 52665,
+  "handle": "AUTOSERVICO-PROCESSAMENTO-DE",
+  "description": "AUTOSERVICO Processamento de Dados Ltda.",
+  "subnets": {
+    "ipv4": [
+      "177.53.136.0/22"
+    ],
+    "ipv6": [
+      "2804:c0c::/32"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 395244,
+  "handle": "LITHIA",
+  "description": "Lithia Motors, Inc.",
+  "subnets": {
+    "ipv4": [
+      "65.113.215.0/24",
+      "208.84.94.0/23"
+    ],
+    "ipv6": []
+  }
+}

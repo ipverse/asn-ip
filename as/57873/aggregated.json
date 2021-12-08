@@ -1,0 +1,13 @@
+{
+  "asn": 57873,
+  "handle": "SONICTEST",
+  "description": "SONICTEST Ltd.",
+  "subnets": {
+    "ipv4": [
+      "37.143.64.0/21",
+      "185.14.216.0/22",
+      "195.34.212.0/23"
+    ],
+    "ipv6": []
+  }
+}

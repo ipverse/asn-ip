@@ -1,0 +1,11 @@
+{
+  "asn": 24494,
+  "handle": "CBCNET-AP",
+  "description": "China Banking Corporation",
+  "subnets": {
+    "ipv4": [
+      "66.198.139.0/24"
+    ],
+    "ipv6": []
+  }
+}

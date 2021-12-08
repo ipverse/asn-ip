@@ -1,0 +1,11 @@
+{
+  "asn": 20379,
+  "handle": "NET-BAKER",
+  "description": "Baker College",
+  "subnets": {
+    "ipv4": [
+      "158.80.0.0/21"
+    ],
+    "ipv6": []
+  }
+}

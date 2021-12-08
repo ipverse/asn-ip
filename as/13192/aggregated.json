@@ -1,0 +1,12 @@
+{
+  "asn": 13192,
+  "handle": "DFACTORY-SARL",
+  "description": "dFactory Sarl.",
+  "subnets": {
+    "ipv4": [
+      "212.44.155.0/24",
+      "213.33.136.0/22"
+    ],
+    "ipv6": []
+  }
+}

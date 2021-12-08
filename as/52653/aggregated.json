@@ -1,0 +1,14 @@
+{
+  "asn": 52653,
+  "handle": "MARLON-L-LARGER-CIA-LTDA",
+  "description": "Marlon L. Larger \u0026 Cia Ltda",
+  "subnets": {
+    "ipv4": [
+      "138.122.180.0/22",
+      "177.221.80.0/20"
+    ],
+    "ipv6": [
+      "2804:bf8::/32"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 269460,
+  "handle": "NEW-NET-LG",
+  "description": "NEW NET LG SOLUCOES TELECOMUNICACOES E INFORMATICA",
+  "subnets": {
+    "ipv4": [
+      "45.187.8.0/22"
+    ],
+    "ipv6": [
+      "2804:64f8::/32"
+    ]
+  }
+}

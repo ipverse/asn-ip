@@ -1,0 +1,11 @@
+{
+  "asn": 131438,
+  "handle": "VNPOST-VN",
+  "description": "VIETNAM POST",
+  "subnets": {
+    "ipv4": [
+      "103.196.16.0/22"
+    ],
+    "ipv6": []
+  }
+}

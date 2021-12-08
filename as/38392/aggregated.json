@@ -1,0 +1,13 @@
+{
+  "asn": 38392,
+  "handle": "GOEYP-KR-KR",
+  "description": "KYONGGI YANGPYEONG OFFICE OF EDUCATION",
+  "subnets": {
+    "ipv4": [
+      "1.237.2.0/23",
+      "121.163.255.0/24",
+      "211.184.234.0/24"
+    ],
+    "ipv6": []
+  }
+}

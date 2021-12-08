@@ -1,0 +1,12 @@
+{
+  "asn": 146902,
+  "handle": "BIGVENTUR-IN",
+  "description": "BIGVENTURES MEDIA PVT LTD",
+  "subnets": {
+    "ipv4": [
+      "103.164.196.0/24",
+      "103.173.136.0/23"
+    ],
+    "ipv6": []
+  }
+}

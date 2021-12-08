@@ -1,0 +1,12 @@
+{
+  "asn": 395077,
+  "handle": "ORION-STELLAR",
+  "description": "Stellar Technologies Inc.",
+  "subnets": {
+    "ipv4": [
+      "38.72.119.0/24",
+      "147.202.28.0/24"
+    ],
+    "ipv6": []
+  }
+}

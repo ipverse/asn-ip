@@ -1,0 +1,12 @@
+{
+  "asn": 31124,
+  "handle": "SEFANET",
+  "description": "Societe Electrique des Forces de l\u0027Aubonne",
+  "subnets": {
+    "ipv4": [
+      "193.164.24.0/22",
+      "217.119.144.0/20"
+    ],
+    "ipv6": []
+  }
+}

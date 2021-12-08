@@ -1,0 +1,11 @@
+{
+  "asn": 24480,
+  "handle": "EPWORTH-MULTIHOME-AU-AP",
+  "description": "Epworth Foundation",
+  "subnets": {
+    "ipv4": [
+      "202.151.32.0/24"
+    ],
+    "ipv6": []
+  }
+}

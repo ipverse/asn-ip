@@ -1,0 +1,13 @@
+{
+  "asn": 328837,
+  "handle": "VTS-CONNECT",
+  "description": "VTS Connect Pty Ltd",
+  "subnets": {
+    "ipv4": [
+      "41.206.214.0/24",
+      "102.220.52.0/24",
+      "102.220.55.0/24"
+    ],
+    "ipv6": []
+  }
+}

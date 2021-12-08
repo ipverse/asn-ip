@@ -1,0 +1,12 @@
+{
+  "asn": 210162,
+  "handle": "SOFTLINKLTD",
+  "description": "Softlink LTD",
+  "subnets": {
+    "ipv4": [
+      "195.7.8.0/23",
+      "195.7.11.0/24"
+    ],
+    "ipv6": []
+  }
+}

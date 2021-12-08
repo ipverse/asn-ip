@@ -1,0 +1,13 @@
+{
+  "asn": 41174,
+  "handle": "SITEVISION",
+  "description": "SiteVision AB",
+  "subnets": {
+    "ipv4": [
+      "185.84.52.0/22"
+    ],
+    "ipv6": [
+      "2a05:a140::/29"
+    ]
+  }
+}

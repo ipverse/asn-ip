@@ -1,0 +1,11 @@
+{
+  "asn": 142404,
+  "handle": "CHINANET-AP",
+  "description": "China Telecom",
+  "subnets": {
+    "ipv4": [
+      "1.71.0.0/21"
+    ],
+    "ipv6": []
+  }
+}

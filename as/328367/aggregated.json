@@ -1,0 +1,11 @@
+{
+  "asn": 328367,
+  "handle": "USEMBASSY-GHANA",
+  "description": "US Embassy, Ghana",
+  "subnets": {
+    "ipv4": [
+      "102.131.16.0/24"
+    ],
+    "ipv6": []
+  }
+}

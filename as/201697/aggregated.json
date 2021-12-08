@@ -1,0 +1,13 @@
+{
+  "asn": 201697,
+  "handle": "SEMAPHOR",
+  "description": "SEMAPHOR",
+  "subnets": {
+    "ipv4": [
+      "45.156.8.0/22"
+    ],
+    "ipv6": [
+      "2001:678:72c::/48"
+    ]
+  }
+}

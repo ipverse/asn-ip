@@ -1,0 +1,14 @@
+{
+  "asn": 43019,
+  "handle": "FARAHNET",
+  "description": "farahnet",
+  "subnets": {
+    "ipv4": [
+      "77.75.88.0/21",
+      "185.206.200.0/22"
+    ],
+    "ipv6": [
+      "2a0b:3f80::/29"
+    ]
+  }
+}

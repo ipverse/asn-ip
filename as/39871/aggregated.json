@@ -1,0 +1,13 @@
+{
+  "asn": 39871,
+  "handle": "NETNOD-GBG",
+  "description": "NETNOD Internet Exchange i Sverige AB",
+  "subnets": {
+    "ipv4": [
+      "192.36.133.0/24"
+    ],
+    "ipv6": [
+      "2001:67c:254c::/48"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asn": 204130,
+  "handle": "DLVSIA",
+  "description": "DLV, sia",
+  "subnets": {
+    "ipv4": [
+      "185.47.8.0/24"
+    ],
+    "ipv6": []
+  }
+}

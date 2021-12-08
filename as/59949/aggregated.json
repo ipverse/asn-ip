@@ -1,0 +1,13 @@
+{
+  "asn": 59949,
+  "handle": "TEL2TEL",
+  "description": "MCNtelecom Telekomunikacios Szolgaltato KFT",
+  "subnets": {
+    "ipv4": [
+      "185.66.52.0/22"
+    ],
+    "ipv6": [
+      "2a04:ffc0:1::/48"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 10466,
+  "handle": "MAGPI",
+  "description": "MAGPI c/o University of Pennsylvania",
+  "subnets": {
+    "ipv4": [
+      "216.27.100.0/23"
+    ],
+    "ipv6": [
+      "2001:468:1800::/40"
+    ]
+  }
+}

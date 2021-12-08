@@ -1,0 +1,11 @@
+{
+  "asn": 38869,
+  "handle": "SKYNET-AP",
+  "description": "Skynetworks LLC",
+  "subnets": {
+    "ipv4": [
+      "121.101.176.0/21"
+    ],
+    "ipv6": []
+  }
+}

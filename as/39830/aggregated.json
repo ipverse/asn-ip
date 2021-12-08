@@ -1,0 +1,11 @@
+{
+  "asn": 39830,
+  "handle": "TIGF",
+  "description": "Transport Infrastructures Gaz France",
+  "subnets": {
+    "ipv4": [
+      "83.173.126.0/24"
+    ],
+    "ipv6": []
+  }
+}

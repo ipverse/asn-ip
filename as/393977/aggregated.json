@@ -1,0 +1,12 @@
+{
+  "asn": 393977,
+  "handle": "GSB",
+  "description": "Great Southern Bank",
+  "subnets": {
+    "ipv4": [
+      "63.96.37.0/24",
+      "204.87.249.0/24"
+    ],
+    "ipv6": []
+  }
+}

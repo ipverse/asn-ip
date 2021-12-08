@@ -1,0 +1,11 @@
+{
+  "asn": 135597,
+  "handle": "GBN-AP",
+  "description": "Gaibandha Broadband Network",
+  "subnets": {
+    "ipv4": [
+      "103.171.250.0/23"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asn": 327821,
+  "handle": "MIXP-MGMNT",
+  "description": "Mauritius Internet Exchange Point",
+  "subnets": {
+    "ipv4": [
+      "196.49.9.0/24"
+    ],
+    "ipv6": []
+  }
+}

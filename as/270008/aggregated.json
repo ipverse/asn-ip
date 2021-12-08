@@ -1,0 +1,12 @@
+{
+  "asn": 270008,
+  "handle": "SOCIEDAD-COMERCIAL-Y",
+  "description": "SOCIEDAD COMERCIAL Y DE SERVICIOS DE INTERNET Y COMUNICACION CHILE SPA",
+  "subnets": {
+    "ipv4": [
+      "189.127.136.0/23",
+      "200.23.140.0/24"
+    ],
+    "ipv6": []
+  }
+}

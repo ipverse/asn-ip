@@ -1,0 +1,13 @@
+{
+  "asn": 263483,
+  "handle": "DIRECT-LAN-TELECOMUNICACOES",
+  "description": "DIRECT LAN TELECOMUNICAÇÕES SOROCABA LTDA",
+  "subnets": {
+    "ipv4": [
+      "191.242.224.0/22"
+    ],
+    "ipv6": [
+      "2804:128c::/32"
+    ]
+  }
+}

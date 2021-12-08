@@ -1,0 +1,13 @@
+{
+  "asn": 60185,
+  "handle": "QP-ICT",
+  "description": "Qatar Petroleum",
+  "subnets": {
+    "ipv4": [
+      "185.2.244.0/22"
+    ],
+    "ipv6": [
+      "2a02:4440::/32"
+    ]
+  }
+}

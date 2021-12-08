@@ -1,0 +1,11 @@
+{
+  "asn": 60195,
+  "handle": "SCARNET",
+  "description": "SCARNET S.C. Michalina Sobotka, Maciej Stachera",
+  "subnets": {
+    "ipv4": [
+      "91.238.166.0/23"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 209605,
+  "handle": "HOSTBALTIC",
+  "description": "UAB Host Baltic",
+  "subnets": {
+    "ipv4": [
+      "141.98.8.0/24",
+      "141.98.10.0/23",
+      "193.31.6.0/24"
+    ],
+    "ipv6": []
+  }
+}

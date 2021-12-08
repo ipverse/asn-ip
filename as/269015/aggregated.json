@@ -1,0 +1,13 @@
+{
+  "asn": 269015,
+  "handle": "PING-PROVEDOR",
+  "description": "Ping Provedor",
+  "subnets": {
+    "ipv4": [
+      "45.178.20.0/22"
+    ],
+    "ipv6": [
+      "2804:5e28::/32"
+    ]
+  }
+}

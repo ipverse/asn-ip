@@ -1,0 +1,13 @@
+{
+  "asn": 53096,
+  "handle": "BNET-TELECOMUNICACOES-LTDA",
+  "description": "Bnet Telecomunicações Ltda",
+  "subnets": {
+    "ipv4": [
+      "187.102.80.0/20"
+    ],
+    "ipv6": [
+      "2804:2f30::/32"
+    ]
+  }
+}

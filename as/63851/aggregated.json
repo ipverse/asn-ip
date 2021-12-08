@@ -1,0 +1,12 @@
+{
+  "asn": 63851,
+  "handle": "BANKALFALAHLTD-AP",
+  "description": "Bank Alfalah Ltd.",
+  "subnets": {
+    "ipv4": [
+      "103.42.152.0/23",
+      "103.42.154.0/24"
+    ],
+    "ipv6": []
+  }
+}

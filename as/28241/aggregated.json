@@ -1,0 +1,14 @@
+{
+  "asn": 28241,
+  "handle": "VERO-INTERNET",
+  "description": "Vero Internet",
+  "subnets": {
+    "ipv4": [
+      "177.70.80.0/20",
+      "187.0.176.0/20"
+    ],
+    "ipv6": [
+      "2804:5d0::/32"
+    ]
+  }
+}

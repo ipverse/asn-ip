@@ -1,0 +1,13 @@
+{
+  "asn": 265054,
+  "handle": "LANXHOUSE-TELECOM",
+  "description": "LANXHOUSE TELECOM",
+  "subnets": {
+    "ipv4": [
+      "170.231.116.0/22"
+    ],
+    "ipv6": [
+      "2804:3214::/32"
+    ]
+  }
+}

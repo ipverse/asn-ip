@@ -1,0 +1,11 @@
+{
+  "asn": 136668,
+  "handle": "IANA-IN",
+  "description": "Iana Solutions Digital India",
+  "subnets": {
+    "ipv4": [
+      "103.157.52.0/23"
+    ],
+    "ipv6": []
+  }
+}

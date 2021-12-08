@@ -1,0 +1,13 @@
+{
+  "asn": 265947,
+  "handle": "INTERADIONET-SERVICOS-DE",
+  "description": "INTERADIONET SERVICOS DE REDES E INTERNET LTDA",
+  "subnets": {
+    "ipv4": [
+      "164.163.76.0/22"
+    ],
+    "ipv6": [
+      "2804:4040::/32"
+    ]
+  }
+}

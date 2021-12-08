@@ -1,0 +1,13 @@
+{
+  "asn": 271228,
+  "handle": "WEB-HOUSE",
+  "description": "WEB HOUSE",
+  "subnets": {
+    "ipv4": [
+      "177.223.152.0/22"
+    ],
+    "ipv6": [
+      "2804:7838::/32"
+    ]
+  }
+}

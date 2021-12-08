@@ -1,0 +1,13 @@
+{
+  "asn": 38121,
+  "handle": "UPASSTV-KR-KR",
+  "description": "LG HelloVision Corp.",
+  "subnets": {
+    "ipv4": [
+      "110.46.172.0/22",
+      "114.30.128.0/17",
+      "123.200.64.0/18"
+    ],
+    "ipv6": []
+  }
+}

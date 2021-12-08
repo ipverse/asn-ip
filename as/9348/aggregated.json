@@ -1,0 +1,11 @@
+{
+  "asn": 9348,
+  "handle": "SLVTSD-CBN-AP",
+  "description": "Vicnet - Victoria\u0027s Network",
+  "subnets": {
+    "ipv4": [
+      "136.154.0.0/16"
+    ],
+    "ipv6": []
+  }
+}

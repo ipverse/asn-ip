@@ -1,0 +1,11 @@
+{
+  "asn": 263182,
+  "handle": "SEGUROS-MERCANTIL",
+  "description": "Seguros Mercantil",
+  "subnets": {
+    "ipv4": [
+      "200.3.0.0/24"
+    ],
+    "ipv6": []
+  }
+}

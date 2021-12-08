@@ -1,0 +1,15 @@
+{
+  "asn": 1197,
+  "handle": "NETWORKABILITY",
+  "description": "Network Ability Limited",
+  "subnets": {
+    "ipv4": [
+      "5.181.8.0/22",
+      "46.182.8.0/21",
+      "176.126.37.0/24"
+    ],
+    "ipv6": [
+      "2a03:8900::/32"
+    ]
+  }
+}

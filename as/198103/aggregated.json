@@ -1,0 +1,11 @@
+{
+  "asn": 198103,
+  "handle": "CCS-CZ",
+  "description": "CCS Ceska spolecnost pro platebni karty s.r.o.",
+  "subnets": {
+    "ipv4": [
+      "91.227.96.0/23"
+    ],
+    "ipv6": []
+  }
+}

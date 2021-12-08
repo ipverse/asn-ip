@@ -1,0 +1,13 @@
+{
+  "asn": 271031,
+  "handle": "PTI-TELECOMUNICACOES-EIRELI",
+  "description": "PTI TELECOMUNICAÇÕES EIRELI",
+  "subnets": {
+    "ipv4": [
+      "186.250.60.0/22"
+    ],
+    "ipv6": [
+      "2804:7534::/32"
+    ]
+  }
+}

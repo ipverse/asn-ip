@@ -1,0 +1,13 @@
+{
+  "asn": 61724,
+  "handle": "MASTERNET-TELECOM-LTDA-ME",
+  "description": "MASTERNET TELECOM LTDA ME",
+  "subnets": {
+    "ipv4": [
+      "131.0.8.0/22"
+    ],
+    "ipv6": [
+      "2804:1b60::/32"
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "asn": 60675,
+  "handle": "NOSTRANET",
+  "description": "Nostranet Telecomunicacions, S.L.",
+  "subnets": {
+    "ipv4": [
+      "62.174.71.0/24",
+      "185.27.136.0/22",
+      "185.114.84.0/22",
+      "185.142.192.0/22",
+      "185.252.8.0/22"
+    ],
+    "ipv6": []
+  }
+}

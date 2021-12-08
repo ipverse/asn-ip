@@ -1,0 +1,11 @@
+{
+  "asn": 137463,
+  "handle": "SPRINTNETWORKS-AP",
+  "description": "Sprint Networks",
+  "subnets": {
+    "ipv4": [
+      "103.109.208.0/24"
+    ],
+    "ipv6": []
+  }
+}

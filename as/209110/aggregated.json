@@ -1,0 +1,15 @@
+{
+  "asn": 209110,
+  "handle": "AMPAREX",
+  "description": "AMPAREX GmbH",
+  "subnets": {
+    "ipv4": [
+      "5.182.40.0/23",
+      "5.182.42.0/24"
+    ],
+    "ipv6": [
+      "2a0e:d800::/47",
+      "2a0e:d800:2::/48"
+    ]
+  }
+}

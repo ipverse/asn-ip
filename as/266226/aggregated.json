@@ -1,0 +1,14 @@
+{
+  "asn": 266226,
+  "handle": "M-D-INTERNET",
+  "description": "M\u0026D INTERNET BANDA LARGA LTDA - ME",
+  "subnets": {
+    "ipv4": [
+      "216.98.217.0/24",
+      "216.98.218.0/23"
+    ],
+    "ipv6": [
+      "2804:3ca4::/32"
+    ]
+  }
+}

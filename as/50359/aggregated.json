@@ -1,0 +1,13 @@
+{
+  "asn": 50359,
+  "handle": "PTBG",
+  "description": "PLAYTECH BULGARIA EOOD",
+  "subnets": {
+    "ipv4": [
+      "82.146.15.0/24",
+      "176.113.92.0/22",
+      "212.72.206.0/24"
+    ],
+    "ipv6": []
+  }
+}

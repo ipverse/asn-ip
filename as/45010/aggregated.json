@@ -1,0 +1,15 @@
+{
+  "asn": 45010,
+  "handle": "MEGATUUTTI",
+  "description": "EuroQuest Oy Ltd",
+  "subnets": {
+    "ipv4": [
+      "62.220.224.0/22",
+      "62.220.252.0/22",
+      "93.90.48.0/20"
+    ],
+    "ipv6": [
+      "2a01:b5a0::/32"
+    ]
+  }
+}

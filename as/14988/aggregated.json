@@ -1,0 +1,16 @@
+{
+  "asn": 14988,
+  "handle": "BTC-GATE1",
+  "description": "Botswana Telecommunications Corporation",
+  "subnets": {
+    "ipv4": [
+      "41.87.160.0/19",
+      "102.219.206.0/24",
+      "168.167.0.0/16",
+      "196.2.2.0/24"
+    ],
+    "ipv6": [
+      "2c0f:ff00::/32"
+    ]
+  }
+}

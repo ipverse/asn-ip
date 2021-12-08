@@ -1,0 +1,12 @@
+{
+  "asn": 197315,
+  "handle": "ASRPK",
+  "description": "Rostovskaya proizvodstvennaya kompaniya Ltd.",
+  "subnets": {
+    "ipv4": [
+      "91.245.64.0/21",
+      "195.162.78.0/23"
+    ],
+    "ipv6": []
+  }
+}

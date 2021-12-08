@@ -1,0 +1,13 @@
+{
+  "asn": 41081,
+  "handle": "WN",
+  "description": "Private enterprise Gorbunov A.A.",
+  "subnets": {
+    "ipv4": [
+      "5.153.182.0/23",
+      "91.216.28.0/24",
+      "195.95.139.0/24"
+    ],
+    "ipv6": []
+  }
+}

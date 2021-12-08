@@ -1,0 +1,11 @@
+{
+  "asn": 61120,
+  "handle": "AIRNET",
+  "description": "Airnet LLC.",
+  "subnets": {
+    "ipv4": [
+      "93.179.120.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 34876,
+  "handle": "SMART-SYSTEMS",
+  "description": "SMART SISTEMZ TECHNOLOJI MMM",
+  "subnets": {
+    "ipv4": [
+      "95.86.128.0/18",
+      "193.8.62.0/23",
+      "193.8.72.0/23"
+    ],
+    "ipv6": []
+  }
+}

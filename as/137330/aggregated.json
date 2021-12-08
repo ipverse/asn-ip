@@ -1,0 +1,13 @@
+{
+  "asn": 137330,
+  "handle": "PMNET-ID",
+  "description": "PT Pisangmas Rayatama Perkasa",
+  "subnets": {
+    "ipv4": [
+      "103.112.136.0/23"
+    ],
+    "ipv6": [
+      "2402:aa40::/32"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 269126,
+  "handle": "NET-ONNE-COMERCIO",
+  "description": "Net Onne - Comércio e Serviço de Informática",
+  "subnets": {
+    "ipv4": [
+      "45.180.72.0/22"
+    ],
+    "ipv6": [
+      "2804:5fd4::/32"
+    ]
+  }
+}

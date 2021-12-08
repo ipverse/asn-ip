@@ -1,0 +1,13 @@
+{
+  "asn": 271166,
+  "handle": "YOU-TELECOM-PROVEDOR",
+  "description": "You Telecom Provedor de Internet Ltda",
+  "subnets": {
+    "ipv4": [
+      "179.42.132.0/22"
+    ],
+    "ipv6": [
+      "2804:7744::/32"
+    ]
+  }
+}

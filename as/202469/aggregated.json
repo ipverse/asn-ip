@@ -1,0 +1,11 @@
+{
+  "asn": 202469,
+  "handle": "IPV4-CLOUD",
+  "description": "IPv4 Hosting SRL",
+  "subnets": {
+    "ipv4": [
+      "5.180.4.0/22"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 35323,
+  "handle": "ETELKO",
+  "description": "e-Telko sp. z o.o.",
+  "subnets": {
+    "ipv4": [
+      "91.187.224.0/19",
+      "194.145.204.0/23"
+    ],
+    "ipv6": []
+  }
+}

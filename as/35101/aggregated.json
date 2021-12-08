@@ -1,0 +1,11 @@
+{
+  "asn": 35101,
+  "handle": "PROXY",
+  "description": "Teicee SARL",
+  "subnets": {
+    "ipv4": [
+      "193.227.130.0/24"
+    ],
+    "ipv6": []
+  }
+}

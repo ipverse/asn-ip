@@ -1,0 +1,11 @@
+{
+  "asn": 42297,
+  "handle": "EITADAT",
+  "description": "Eitadat Oy",
+  "subnets": {
+    "ipv4": [
+      "195.20.16.0/22"
+    ],
+    "ipv6": []
+  }
+}

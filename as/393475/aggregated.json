@@ -1,0 +1,11 @@
+{
+  "asn": 393475,
+  "handle": "DYNATRACE-01",
+  "description": "Dynatrace",
+  "subnets": {
+    "ipv4": [
+      "12.188.200.0/22"
+    ],
+    "ipv6": []
+  }
+}

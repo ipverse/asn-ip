@@ -1,0 +1,11 @@
+{
+  "asn": 46016,
+  "handle": "ANTARA-ID",
+  "description": "LKBN ANTARA",
+  "subnets": {
+    "ipv4": [
+      "183.182.92.0/22"
+    ],
+    "ipv6": []
+  }
+}

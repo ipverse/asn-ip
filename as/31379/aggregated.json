@@ -1,0 +1,11 @@
+{
+  "asn": 31379,
+  "handle": "FPF",
+  "description": "Federal Agency for State Property Management",
+  "subnets": {
+    "ipv4": [
+      "193.151.0.0/22"
+    ],
+    "ipv6": []
+  }
+}

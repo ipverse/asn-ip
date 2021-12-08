@@ -1,0 +1,14 @@
+{
+  "asn": 212944,
+  "handle": "THUR",
+  "description": "Thurgroup Partners GmbH",
+  "subnets": {
+    "ipv4": [
+      "89.35.78.0/23",
+      "185.163.51.0/24"
+    ],
+    "ipv6": [
+      "2a07:dfc0::/32"
+    ]
+  }
+}

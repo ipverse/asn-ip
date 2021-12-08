@@ -1,0 +1,13 @@
+{
+  "asn": 394526,
+  "handle": "ADVOCAREAS1",
+  "description": "AdvoCare International, L.P.",
+  "subnets": {
+    "ipv4": [
+      "8.26.161.0/24",
+      "64.221.8.0/24",
+      "66.51.14.0/24"
+    ],
+    "ipv6": []
+  }
+}

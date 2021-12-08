@@ -1,0 +1,15 @@
+{
+  "asn": 211484,
+  "handle": "BASTIEN-M-G-LANGUEDOC",
+  "description": "Bastien M. G. Languedoc",
+  "subnets": {
+    "ipv4": [
+      "194.87.78.0/24"
+    ],
+    "ipv6": [
+      "2a0e:97c0:364::/48",
+      "2a0e:97c0:36f::/48",
+      "2a0e:97c0:3b1::/48"
+    ]
+  }
+}

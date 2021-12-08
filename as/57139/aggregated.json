@@ -1,0 +1,12 @@
+{
+  "asn": 57139,
+  "handle": "ITC",
+  "description": "OOO IT Connect Group",
+  "subnets": {
+    "ipv4": [
+      "195.208.37.0/24",
+      "195.208.57.0/24"
+    ],
+    "ipv6": []
+  }
+}

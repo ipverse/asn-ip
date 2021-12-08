@@ -1,0 +1,11 @@
+{
+  "asn": 203849,
+  "handle": "UMICORE",
+  "description": "Umicore NV",
+  "subnets": {
+    "ipv4": [
+      "185.120.164.0/23"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 15733,
+  "handle": "ZUMTOBEL",
+  "description": "Zumtobel Group AG",
+  "subnets": {
+    "ipv4": [
+      "146.108.0.0/16"
+    ],
+    "ipv6": [
+      "2a03:39a0::/32"
+    ]
+  }
+}

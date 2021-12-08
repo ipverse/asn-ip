@@ -1,0 +1,11 @@
+{
+  "asn": 141849,
+  "handle": "WAVETEL-IN",
+  "description": "Wavetel Broadband Services",
+  "subnets": {
+    "ipv4": [
+      "103.166.110.0/23"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 21461,
+  "handle": "TRANSFAIRNET",
+  "description": "Haendle \u0026 Korte GmbH",
+  "subnets": {
+    "ipv4": [
+      "93.89.0.0/24",
+      "93.89.5.0/24",
+      "93.89.6.0/23"
+    ],
+    "ipv6": []
+  }
+}

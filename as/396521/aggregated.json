@@ -1,0 +1,14 @@
+{
+  "asn": 396521,
+  "handle": "DSC-ASN-1",
+  "description": "Digicloud Solutions Corporation",
+  "subnets": {
+    "ipv4": [
+      "23.135.192.0/23",
+      "38.18.192.0/19",
+      "38.35.128.0/19",
+      "161.129.80.0/20"
+    ],
+    "ipv6": []
+  }
+}

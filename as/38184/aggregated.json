@@ -1,0 +1,12 @@
+{
+  "asn": 38184,
+  "handle": "INET-TVI-TH",
+  "description": "Internet Thailand Company Ltd.",
+  "subnets": {
+    "ipv4": [
+      "203.150.35.0/24",
+      "203.151.25.0/24"
+    ],
+    "ipv6": []
+  }
+}

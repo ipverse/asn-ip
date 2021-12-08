@@ -1,0 +1,13 @@
+{
+  "asn": 267604,
+  "handle": "REACH-TELECOM",
+  "description": "REACH TELECOM",
+  "subnets": {
+    "ipv4": [
+      "45.71.104.0/23"
+    ],
+    "ipv6": [
+      "2804:4420::/32"
+    ]
+  }
+}

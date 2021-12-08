@@ -1,0 +1,11 @@
+{
+  "asn": 133468,
+  "handle": "ACTIVENETWORK-AP",
+  "description": "Active Network",
+  "subnets": {
+    "ipv4": [
+      "103.96.68.0/23"
+    ],
+    "ipv6": []
+  }
+}

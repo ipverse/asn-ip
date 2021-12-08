@@ -1,0 +1,13 @@
+{
+  "asn": 270397,
+  "handle": "CELNEET-TELECOM",
+  "description": "CELNEET TELECOM",
+  "subnets": {
+    "ipv4": [
+      "190.89.232.0/22"
+    ],
+    "ipv6": [
+      "2804:6b64::/32"
+    ]
+  }
+}

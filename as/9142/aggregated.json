@@ -1,0 +1,13 @@
+{
+  "asn": 9142,
+  "handle": "THE-INTERNEXUS-GROUP-LIMITED",
+  "description": "THE INTERNEXUS GROUP LIMITED",
+  "subnets": {
+    "ipv4": [
+      "86.112.0.0/15",
+      "212.111.128.0/18",
+      "213.40.0.0/16"
+    ],
+    "ipv6": []
+  }
+}

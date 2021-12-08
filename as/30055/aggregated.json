@@ -1,0 +1,12 @@
+{
+  "asn": 30055,
+  "handle": "CROSSLAKECOMMUNICATIONS",
+  "description": "Crosslake Communications",
+  "subnets": {
+    "ipv4": [
+      "69.174.224.0/20",
+      "74.51.176.0/20"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 266185,
+  "handle": "SPIN-TELECOMUNICACOES",
+  "description": "Spin Telecomunicações",
+  "subnets": {
+    "ipv4": [
+      "45.6.96.0/22"
+    ],
+    "ipv6": [
+      "2804:3c04::/32"
+    ]
+  }
+}

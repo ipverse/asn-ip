@@ -1,0 +1,12 @@
+{
+  "asn": 197616,
+  "handle": "OPTRIX-LV",
+  "description": "Optrix SIA",
+  "subnets": {
+    "ipv4": [
+      "80.233.240.0/22",
+      "85.254.136.0/24"
+    ],
+    "ipv6": []
+  }
+}

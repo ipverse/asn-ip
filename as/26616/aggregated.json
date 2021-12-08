@@ -1,0 +1,14 @@
+{
+  "asn": 26616,
+  "handle": "UBX-DATACENTER-E",
+  "description": "Ubx Datacenter e Telecomunicacoes LTDA",
+  "subnets": {
+    "ipv4": [
+      "200.152.48.0/20",
+      "200.229.160.0/20"
+    ],
+    "ipv6": [
+      "2804:3fe4::/32"
+    ]
+  }
+}

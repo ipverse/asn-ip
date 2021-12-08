@@ -1,0 +1,13 @@
+{
+  "asn": 28646,
+  "handle": "CONFEDERACAO-INT-DAS",
+  "description": "Confederação Int. das Coop. Ligadas ao SICREDI",
+  "subnets": {
+    "ipv4": [
+      "201.77.80.0/20"
+    ],
+    "ipv6": [
+      "2801:80::/48"
+    ]
+  }
+}

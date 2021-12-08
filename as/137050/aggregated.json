@@ -1,0 +1,13 @@
+{
+  "asn": 137050,
+  "handle": "STRATEQ-AP",
+  "description": "strateq data centre sdn bhd",
+  "subnets": {
+    "ipv4": [
+      "103.100.204.0/22"
+    ],
+    "ipv6": [
+      "2001:df2:8100::/48"
+    ]
+  }
+}

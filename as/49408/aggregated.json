@@ -1,0 +1,13 @@
+{
+  "asn": 49408,
+  "handle": "SECURITAS-AB",
+  "description": "Securitas AB",
+  "subnets": {
+    "ipv4": [
+      "193.164.84.0/23",
+      "193.235.60.0/24",
+      "194.103.54.0/24"
+    ],
+    "ipv6": []
+  }
+}

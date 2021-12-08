@@ -1,0 +1,13 @@
+{
+  "asn": 43292,
+  "handle": "ISCWEST",
+  "description": "Bitmarck Beratung GmbH",
+  "subnets": {
+    "ipv4": [
+      "194.113.0.0/20",
+      "194.113.16.0/22",
+      "194.113.20.0/23"
+    ],
+    "ipv6": []
+  }
+}

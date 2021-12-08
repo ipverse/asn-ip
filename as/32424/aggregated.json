@@ -1,0 +1,12 @@
+{
+  "asn": 32424,
+  "handle": "SYMBIOTIC-NET",
+  "description": "Network Connection",
+  "subnets": {
+    "ipv4": [
+      "66.85.34.0/24",
+      "205.233.64.0/24"
+    ],
+    "ipv6": []
+  }
+}

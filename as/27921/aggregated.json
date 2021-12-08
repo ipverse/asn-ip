@@ -1,0 +1,12 @@
+{
+  "asn": 27921,
+  "handle": "COLOMBIA-TELECOMUNICACIONES-SA",
+  "description": "COLOMBIA TELECOMUNICACIONES S.A. ESP",
+  "subnets": {
+    "ipv4": [
+      "190.13.96.0/24",
+      "190.13.108.0/24"
+    ],
+    "ipv6": []
+  }
+}

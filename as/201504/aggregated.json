@@ -1,0 +1,12 @@
+{
+  "asn": 201504,
+  "handle": "PL-LUBONET",
+  "description": "Lubonet sp z o o",
+  "subnets": {
+    "ipv4": [
+      "80.73.245.0/24",
+      "185.136.132.0/22"
+    ],
+    "ipv6": []
+  }
+}

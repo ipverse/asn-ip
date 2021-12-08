@@ -1,0 +1,12 @@
+{
+  "asn": 18550,
+  "handle": "FARCAP",
+  "description": "Farallon Capital Management LLC",
+  "subnets": {
+    "ipv4": [
+      "198.154.178.0/23",
+      "208.253.225.0/24"
+    ],
+    "ipv6": []
+  }
+}

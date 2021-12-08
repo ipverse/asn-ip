@@ -1,0 +1,12 @@
+{
+  "asn": 328405,
+  "handle": "LINK-DATACENTER-FOR-DATA-CIRCULATION",
+  "description": "Link Datacenter For Data Circulation",
+  "subnets": {
+    "ipv4": [
+      "102.128.176.0/23",
+      "196.13.244.0/24"
+    ],
+    "ipv6": []
+  }
+}

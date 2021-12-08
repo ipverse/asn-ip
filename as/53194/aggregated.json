@@ -1,0 +1,13 @@
+{
+  "asn": 53194,
+  "handle": "VIA-NOVA-TELECOMUNICACOES",
+  "description": "VIA NOVA TELECOMUNICACOES LTDA",
+  "subnets": {
+    "ipv4": [
+      "186.232.160.0/20"
+    ],
+    "ipv6": [
+      "2804:4a28::/32"
+    ]
+  }
+}

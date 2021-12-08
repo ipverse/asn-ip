@@ -1,0 +1,13 @@
+{
+  "asn": 38231,
+  "handle": "CIMB-CSLOXINFO-TH-AP",
+  "description": "CS Loxinfo Public Company Limited",
+  "subnets": {
+    "ipv4": [
+      "58.137.219.0/24",
+      "167.179.231.0/24",
+      "203.154.227.0/24"
+    ],
+    "ipv6": []
+  }
+}

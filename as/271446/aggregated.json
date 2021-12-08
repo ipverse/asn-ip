@@ -1,0 +1,11 @@
+{
+  "asn": 271446,
+  "handle": "MG-FIBRA",
+  "description": "MG FIBRA",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2804:7ba8::/32"
+    ]
+  }
+}

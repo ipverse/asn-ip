@@ -1,0 +1,12 @@
+{
+  "asn": 136574,
+  "handle": "ZY-AP",
+  "description": "Shanghai Zheye Network Technology Co.,Ltd",
+  "subnets": {
+    "ipv4": [
+      "103.93.77.0/24",
+      "123.253.110.0/24"
+    ],
+    "ipv6": []
+  }
+}

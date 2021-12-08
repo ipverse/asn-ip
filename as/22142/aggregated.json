@@ -1,0 +1,13 @@
+{
+  "asn": 22142,
+  "handle": "FISERV",
+  "description": "Fiserv Solutions, LLC",
+  "subnets": {
+    "ipv4": [
+      "69.51.38.0/23",
+      "208.66.20.0/24",
+      "208.66.22.0/24"
+    ],
+    "ipv6": []
+  }
+}

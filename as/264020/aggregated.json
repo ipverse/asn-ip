@@ -1,0 +1,13 @@
+{
+  "asn": 264020,
+  "handle": "FAST-TELECOM",
+  "description": "FAST TELECOM",
+  "subnets": {
+    "ipv4": [
+      "143.0.144.0/22"
+    ],
+    "ipv6": [
+      "2804:2988::/32"
+    ]
+  }
+}

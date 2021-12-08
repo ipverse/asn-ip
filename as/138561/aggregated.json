@@ -1,0 +1,11 @@
+{
+  "asn": 138561,
+  "handle": "BROADBANDZONENG-AP",
+  "description": "BroadBandZone",
+  "subnets": {
+    "ipv4": [
+      "103.133.4.0/22"
+    ],
+    "ipv6": []
+  }
+}

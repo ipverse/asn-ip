@@ -1,0 +1,11 @@
+{
+  "asn": 63742,
+  "handle": "BSC-VN",
+  "description": "BIDV Securities joint stock company",
+  "subnets": {
+    "ipv4": [
+      "103.219.180.0/22"
+    ],
+    "ipv6": []
+  }
+}

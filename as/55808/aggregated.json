@@ -1,0 +1,11 @@
+{
+  "asn": 55808,
+  "handle": "TRIPLETNET-CORPORATE-AP",
+  "description": "Triple T Internet Company Limited",
+  "subnets": {
+    "ipv4": [
+      "110.164.236.0/24"
+    ],
+    "ipv6": []
+  }
+}

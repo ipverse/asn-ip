@@ -1,0 +1,14 @@
+{
+  "asn": 53005,
+  "handle": "REDE-CONNECT-TELECOM",
+  "description": "Rede Connect Telecom",
+  "subnets": {
+    "ipv4": [
+      "177.66.240.0/21"
+    ],
+    "ipv6": [
+      "2804:548::/32",
+      "2804:65b4::/32"
+    ]
+  }
+}

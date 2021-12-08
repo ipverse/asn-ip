@@ -1,0 +1,11 @@
+{
+  "asn": 393798,
+  "handle": "CPSHR-NET",
+  "description": "Cooperative Personnel Services",
+  "subnets": {
+    "ipv4": [
+      "192.150.42.0/23"
+    ],
+    "ipv6": []
+  }
+}

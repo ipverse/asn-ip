@@ -1,0 +1,11 @@
+{
+  "asn": 17624,
+  "handle": "QUALCOMM-BLR-AP",
+  "description": "Qualcomm Inc",
+  "subnets": {
+    "ipv4": [
+      "202.46.22.0/23"
+    ],
+    "ipv6": []
+  }
+}

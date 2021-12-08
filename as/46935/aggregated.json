@@ -1,0 +1,12 @@
+{
+  "asn": 46935,
+  "handle": "CITYWISPER-NOC",
+  "description": "Citywisper LLC",
+  "subnets": {
+    "ipv4": [
+      "38.66.68.0/23",
+      "38.66.81.0/24"
+    ],
+    "ipv6": []
+  }
+}

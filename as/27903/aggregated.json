@@ -1,0 +1,13 @@
+{
+  "asn": 27903,
+  "handle": "DIGICEL-SA-DE-CV",
+  "description": "DIGICEL S.A. DE C.V.",
+  "subnets": {
+    "ipv4": [
+      "138.255.152.0/22",
+      "170.0.176.0/22",
+      "200.89.80.0/21"
+    ],
+    "ipv6": []
+  }
+}

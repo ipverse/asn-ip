@@ -1,0 +1,12 @@
+{
+  "asn": 12016,
+  "handle": "RETIREMENT-HOUSING-FOUNDATION",
+  "description": "Retirement Housing Foundation",
+  "subnets": {
+    "ipv4": [
+      "65.197.216.0/24",
+      "207.114.196.0/24"
+    ],
+    "ipv6": []
+  }
+}

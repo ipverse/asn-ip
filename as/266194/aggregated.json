@@ -1,0 +1,12 @@
+{
+  "asn": 266194,
+  "handle": "AMAZONET-1-TELECOM-LTDA",
+  "description": "AMAZONET 1 TELECOM LTDA",
+  "subnets": {
+    "ipv4": [
+      "45.5.177.0/24",
+      "45.5.178.0/23"
+    ],
+    "ipv6": []
+  }
+}

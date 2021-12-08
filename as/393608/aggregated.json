@@ -1,0 +1,12 @@
+{
+  "asn": 393608,
+  "handle": "MARKLOGIC-CORP",
+  "description": "Mark Logic Corporation",
+  "subnets": {
+    "ipv4": [
+      "104.193.188.0/23",
+      "209.10.92.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 10152,
+  "handle": "NEC-MELB-DC-AP",
+  "description": "NEC Australia Pty Ltd",
+  "subnets": {
+    "ipv4": [
+      "147.76.0.0/23",
+      "147.76.51.0/24",
+      "147.76.180.0/23"
+    ],
+    "ipv6": []
+  }
+}

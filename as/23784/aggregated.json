@@ -1,0 +1,13 @@
+{
+  "asn": 23784,
+  "handle": "POLEXCHENGE",
+  "description": "SQUARE-ENIX AS",
+  "subnets": {
+    "ipv4": [
+      "124.150.152.0/21",
+      "202.67.48.0/20",
+      "219.117.144.0/20"
+    ],
+    "ipv6": []
+  }
+}

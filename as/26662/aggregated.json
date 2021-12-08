@@ -1,0 +1,12 @@
+{
+  "asn": 26662,
+  "handle": "XEROX-WV",
+  "description": "XEROX CORPORATION",
+  "subnets": {
+    "ipv4": [
+      "13.8.0.0/14",
+      "13.16.0.0/15"
+    ],
+    "ipv6": []
+  }
+}

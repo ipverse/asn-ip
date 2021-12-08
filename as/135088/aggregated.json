@@ -1,0 +1,11 @@
+{
+  "asn": 135088,
+  "handle": "GRID-AP",
+  "description": "Grid Technology Pty Ltd",
+  "subnets": {
+    "ipv4": [
+      "103.208.199.0/24"
+    ],
+    "ipv6": []
+  }
+}

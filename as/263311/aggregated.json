@@ -1,0 +1,13 @@
+{
+  "asn": 263311,
+  "handle": "TELIVUS-INTERNET-LTDA",
+  "description": "TELIVUS INTERNET LTDA",
+  "subnets": {
+    "ipv4": [
+      "191.7.48.0/21"
+    ],
+    "ipv6": [
+      "2804:1414::/32"
+    ]
+  }
+}

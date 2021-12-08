@@ -1,0 +1,11 @@
+{
+  "asn": 199444,
+  "handle": "GUP-MSR",
+  "description": "GUP Moscow Social Register",
+  "subnets": {
+    "ipv4": [
+      "37.230.240.0/24"
+    ],
+    "ipv6": []
+  }
+}

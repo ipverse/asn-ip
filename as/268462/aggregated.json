@@ -1,0 +1,12 @@
+{
+  "asn": 268462,
+  "handle": "FIBROU-TELECOM",
+  "description": "FIBROU TELECOM",
+  "subnets": {
+    "ipv4": [
+      "45.160.80.0/22",
+      "168.196.232.0/23"
+    ],
+    "ipv6": []
+  }
+}

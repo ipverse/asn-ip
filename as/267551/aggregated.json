@@ -1,0 +1,13 @@
+{
+  "asn": 267551,
+  "handle": "DATACOM-TELECOM",
+  "description": "DATACOM TELECOM",
+  "subnets": {
+    "ipv4": [
+      "45.70.48.0/22"
+    ],
+    "ipv6": [
+      "2804:4324::/32"
+    ]
+  }
+}

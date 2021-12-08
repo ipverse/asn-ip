@@ -1,0 +1,12 @@
+{
+  "asn": 1524,
+  "handle": "DNIC-ASBLK-0-01526",
+  "description": "Headquarters, USAISC",
+  "subnets": {
+    "ipv4": [
+      "158.17.0.0/16",
+      "207.133.217.0/24"
+    ],
+    "ipv6": []
+  }
+}

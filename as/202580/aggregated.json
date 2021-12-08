@@ -1,0 +1,12 @@
+{
+  "asn": 202580,
+  "handle": "THE-VALIDUS",
+  "description": "Bimeya LTD",
+  "subnets": {
+    "ipv4": [
+      "141.98.232.0/24",
+      "185.170.129.0/24"
+    ],
+    "ipv6": []
+  }
+}

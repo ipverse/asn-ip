@@ -1,0 +1,13 @@
+{
+  "asn": 267493,
+  "handle": "G2-NETWORKS-EIRELI",
+  "description": "G2 NETWORKS EIRELI",
+  "subnets": {
+    "ipv4": [
+      "201.182.28.0/22"
+    ],
+    "ipv6": [
+      "2804:4254::/32"
+    ]
+  }
+}

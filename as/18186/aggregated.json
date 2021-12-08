@@ -1,0 +1,13 @@
+{
+  "asn": 18186,
+  "handle": "QYCLOUD",
+  "description": "QianYun Network Service Co., Ltd.",
+  "subnets": {
+    "ipv4": [
+      "163.197.42.0/23",
+      "163.197.44.0/22",
+      "163.197.48.0/23"
+    ],
+    "ipv6": []
+  }
+}

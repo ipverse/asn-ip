@@ -1,0 +1,13 @@
+{
+  "asn": 2149,
+  "handle": "COGENT",
+  "description": "Cogent Communications",
+  "subnets": {
+    "ipv4": [
+      "192.33.4.0/24"
+    ],
+    "ipv6": [
+      "2001:500:2::/48"
+    ]
+  }
+}

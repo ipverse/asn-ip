@@ -1,0 +1,13 @@
+{
+  "asn": 265080,
+  "handle": "AD-TELECOM",
+  "description": "AD TELECOM",
+  "subnets": {
+    "ipv4": [
+      "170.233.120.0/22"
+    ],
+    "ipv6": [
+      "2804:3278::/32"
+    ]
+  }
+}

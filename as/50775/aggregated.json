@@ -1,0 +1,13 @@
+{
+  "asn": 50775,
+  "handle": "24H-TV",
+  "description": "OOO 24 chasa TV",
+  "subnets": {
+    "ipv4": [
+      "195.191.208.0/23"
+    ],
+    "ipv6": [
+      "2001:678:48c::/48"
+    ]
+  }
+}

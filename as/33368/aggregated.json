@@ -1,0 +1,13 @@
+{
+  "asn": 33368,
+  "handle": "FXSERVER",
+  "description": "Visual Trading Systems, LLC",
+  "subnets": {
+    "ipv4": [
+      "208.86.24.0/22"
+    ],
+    "ipv6": [
+      "2620:0:1a20::/48"
+    ]
+  }
+}

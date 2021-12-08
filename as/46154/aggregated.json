@@ -1,0 +1,14 @@
+{
+  "asn": 46154,
+  "handle": "FMTJESUP",
+  "description": "Farmers Mutual Telephone Company",
+  "subnets": {
+    "ipv4": [
+      "157.52.32.0/20",
+      "169.197.64.0/21",
+      "173.215.4.0/22",
+      "216.51.203.0/24"
+    ],
+    "ipv6": []
+  }
+}

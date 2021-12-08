@@ -1,0 +1,13 @@
+{
+  "asn": 27360,
+  "handle": "KWIKTRIP",
+  "description": "Kwik Trip Inc.",
+  "subnets": {
+    "ipv4": [
+      "204.86.195.0/24"
+    ],
+    "ipv6": [
+      "2620:13c:8000::/44"
+    ]
+  }
+}

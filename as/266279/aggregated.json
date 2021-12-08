@@ -1,0 +1,13 @@
+{
+  "asn": 266279,
+  "handle": "QUALITY-TELECOM-LTDA",
+  "description": "QUALITY TELECOM LTDA",
+  "subnets": {
+    "ipv4": [
+      "170.78.128.0/22"
+    ],
+    "ipv6": [
+      "2804:3548::/32"
+    ]
+  }
+}

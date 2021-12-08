@@ -1,0 +1,13 @@
+{
+  "asn": 264207,
+  "handle": "PONTONET-TELECOM-LTDA-ME",
+  "description": "PONTONET TELECOM LTDA - ME",
+  "subnets": {
+    "ipv4": [
+      "138.97.212.0/22"
+    ],
+    "ipv6": [
+      "2804:2430::/32"
+    ]
+  }
+}

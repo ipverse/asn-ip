@@ -1,0 +1,11 @@
+{
+  "asn": 9460,
+  "handle": "IBM-USF-BH-AP",
+  "description": "IBM Global Services Australia",
+  "subnets": {
+    "ipv4": [
+      "203.184.64.0/20"
+    ],
+    "ipv6": []
+  }
+}

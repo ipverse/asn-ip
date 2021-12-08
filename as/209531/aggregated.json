@@ -1,0 +1,13 @@
+{
+  "asn": 209531,
+  "handle": "OBECNESIETE",
+  "description": "Obecne siete, s.r.o.",
+  "subnets": {
+    "ipv4": [
+      "147.78.168.0/22"
+    ],
+    "ipv6": [
+      "2a09:27c0::/29"
+    ]
+  }
+}

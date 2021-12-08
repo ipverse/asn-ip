@@ -1,0 +1,13 @@
+{
+  "asn": 22630,
+  "handle": "EMMA-TECH-SOL",
+  "description": "Emma\u0027s Technical Solutions",
+  "subnets": {
+    "ipv4": [
+      "23.128.8.0/24"
+    ],
+    "ipv6": [
+      "2602:fc0e::/40"
+    ]
+  }
+}

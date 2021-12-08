@@ -1,0 +1,11 @@
+{
+  "asn": 136953,
+  "handle": "VOIPHQ-AP",
+  "description": "VOIP HQ LIMITED",
+  "subnets": {
+    "ipv4": [
+      "103.100.26.0/24"
+    ],
+    "ipv6": []
+  }
+}

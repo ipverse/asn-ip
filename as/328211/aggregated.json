@@ -1,0 +1,11 @@
+{
+  "asn": 328211,
+  "handle": "SETIC-FP",
+  "description": "SETIC-FP - ServiÃ§o de Tecnologias de InformaÃ§Ã£o e ComunicaÃ§Ã£o para as FinanÃ§as PÃºblicas",
+  "subnets": {
+    "ipv4": [
+      "80.88.9.0/24"
+    ],
+    "ipv6": []
+  }
+}

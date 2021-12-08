@@ -1,0 +1,13 @@
+{
+  "asn": 41848,
+  "handle": "GAVLE-KOMMUN",
+  "description": "Gavle kommun",
+  "subnets": {
+    "ipv4": [
+      "83.137.8.0/21"
+    ],
+    "ipv6": [
+      "2a02:ea8::/32"
+    ]
+  }
+}

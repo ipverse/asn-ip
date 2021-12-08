@@ -1,0 +1,13 @@
+{
+  "asn": 30043,
+  "handle": "RBAND",
+  "description": "ResortInternet",
+  "subnets": {
+    "ipv4": [
+      "64.110.0.0/21",
+      "64.110.8.0/23",
+      "69.7.112.0/20"
+    ],
+    "ipv6": []
+  }
+}

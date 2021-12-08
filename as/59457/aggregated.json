@@ -1,0 +1,15 @@
+{
+  "asn": 59457,
+  "handle": "AVAX-BOSNIA",
+  "description": "AVAX NET doo za telekomunikacije, racunarski inzenjering, konsalting i promet Lukavac",
+  "subnets": {
+    "ipv4": [
+      "5.149.64.0/23",
+      "5.149.67.0/24",
+      "5.149.68.0/22",
+      "5.149.72.0/21",
+      "5.149.92.0/22"
+    ],
+    "ipv6": []
+  }
+}

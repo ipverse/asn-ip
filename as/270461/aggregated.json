@@ -1,0 +1,13 @@
+{
+  "asn": 270461,
+  "handle": "SGBR-SISTEMAS",
+  "description": "SGBR SISTEMAS",
+  "subnets": {
+    "ipv4": [
+      "200.0.64.0/24"
+    ],
+    "ipv6": [
+      "2801:80:38f0::/48"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 396287,
+  "handle": "NEXTPOWEREDBYNAECLLC",
+  "description": "Next, Powered by NAEC, LLC",
+  "subnets": {
+    "ipv4": [
+      "148.170.192.0/19",
+      "209.73.96.0/19",
+      "216.41.128.0/21"
+    ],
+    "ipv6": []
+  }
+}

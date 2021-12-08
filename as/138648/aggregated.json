@@ -1,0 +1,12 @@
+{
+  "asn": 138648,
+  "handle": "ASLINE-AP",
+  "description": "ASLINE LIMITED",
+  "subnets": {
+    "ipv4": [
+      "45.159.59.0/24",
+      "164.88.96.0/24"
+    ],
+    "ipv6": []
+  }
+}

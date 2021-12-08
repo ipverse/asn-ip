@@ -1,0 +1,12 @@
+{
+  "asn": 38000,
+  "handle": "CRISIL",
+  "description": "Crisil Limited",
+  "subnets": {
+    "ipv4": [
+      "103.91.118.0/24",
+      "203.175.4.0/22"
+    ],
+    "ipv6": []
+  }
+}

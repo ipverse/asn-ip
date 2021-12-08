@@ -1,0 +1,13 @@
+{
+  "asn": 7148,
+  "handle": "GRAPHNET-NET",
+  "description": "Graphnet, Inc.",
+  "subnets": {
+    "ipv4": [
+      "8.11.192.0/24",
+      "192.206.112.0/24",
+      "195.90.32.0/19"
+    ],
+    "ipv6": []
+  }
+}

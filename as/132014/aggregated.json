@@ -1,0 +1,11 @@
+{
+  "asn": 132014,
+  "handle": "NETPOLLER-AP",
+  "description": "NetPoller Limited",
+  "subnets": {
+    "ipv4": [
+      "103.69.230.0/23"
+    ],
+    "ipv6": []
+  }
+}

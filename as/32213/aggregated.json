@@ -1,0 +1,13 @@
+{
+  "asn": 32213,
+  "handle": "BLANK-ROME-LLP",
+  "description": "BLANK ROME LLP",
+  "subnets": {
+    "ipv4": [
+      "38.98.220.0/24",
+      "97.107.167.0/24",
+      "209.160.203.0/24"
+    ],
+    "ipv6": []
+  }
+}

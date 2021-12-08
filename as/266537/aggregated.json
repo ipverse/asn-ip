@@ -1,0 +1,13 @@
+{
+  "asn": 266537,
+  "handle": "BRICK-TELECOMUNICACOES",
+  "description": "BRICK TELECOMUNICACOES",
+  "subnets": {
+    "ipv4": [
+      "45.65.196.0/22"
+    ],
+    "ipv6": [
+      "2804:3d88::/32"
+    ]
+  }
+}

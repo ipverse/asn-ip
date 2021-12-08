@@ -1,0 +1,13 @@
+{
+  "asn": 400231,
+  "handle": "CNL-170",
+  "description": "CCTI NET LLC",
+  "subnets": {
+    "ipv4": [
+      "23.129.40.0/24"
+    ],
+    "ipv6": [
+      "2602:fc03::/36"
+    ]
+  }
+}

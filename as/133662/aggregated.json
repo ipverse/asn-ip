@@ -1,0 +1,12 @@
+{
+  "asn": 133662,
+  "handle": "SHREENET",
+  "description": "SHREENET",
+  "subnets": {
+    "ipv4": [
+      "103.108.148.0/22",
+      "120.138.4.0/22"
+    ],
+    "ipv6": []
+  }
+}

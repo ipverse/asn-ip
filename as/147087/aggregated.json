@@ -1,0 +1,13 @@
+{
+  "asn": 147087,
+  "handle": "IDNIC-JIB-ID",
+  "description": "PT Jaringan Internet Banten",
+  "subnets": {
+    "ipv4": [
+      "103.173.230.0/23"
+    ],
+    "ipv6": [
+      "2001:df7:c180::/48"
+    ]
+  }
+}

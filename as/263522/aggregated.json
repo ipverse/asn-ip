@@ -1,0 +1,14 @@
+{
+  "asn": 263522,
+  "handle": "LGNET-SERVICOS-DE",
+  "description": "LGNET SERVICOS DE TELECOMUNICACOES LTDA",
+  "subnets": {
+    "ipv4": [
+      "131.108.224.0/22",
+      "177.126.216.0/21"
+    ],
+    "ipv6": [
+      "2804:1338::/32"
+    ]
+  }
+}

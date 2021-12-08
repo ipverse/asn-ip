@@ -1,0 +1,13 @@
+{
+  "asn": 21538,
+  "handle": "IGWAN",
+  "description": "IGWAN.NET",
+  "subnets": {
+    "ipv4": [
+      "192.131.134.0/24"
+    ],
+    "ipv6": [
+      "2620:10e:d000::/40"
+    ]
+  }
+}

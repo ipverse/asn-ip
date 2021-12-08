@@ -1,0 +1,13 @@
+{
+  "asn": 35165,
+  "handle": "ASWEBMAX",
+  "description": "Ltd. Web MAX",
+  "subnets": {
+    "ipv4": [
+      "192.162.8.0/22"
+    ],
+    "ipv6": [
+      "2a02:2808:2601::/48"
+    ]
+  }
+}

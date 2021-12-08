@@ -1,0 +1,14 @@
+{
+  "asn": 203660,
+  "handle": "PLESK-INT-GMBH",
+  "description": "Plesk International GmbH",
+  "subnets": {
+    "ipv4": [
+      "91.204.24.0/23",
+      "195.214.233.0/24"
+    ],
+    "ipv6": [
+      "2001:678:744::/48"
+    ]
+  }
+}

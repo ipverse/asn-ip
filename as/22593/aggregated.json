@@ -1,0 +1,15 @@
+{
+  "asn": 22593,
+  "handle": "BCBSNC",
+  "description": "Blue Cross and Blue Shield of North Carolina",
+  "subnets": {
+    "ipv4": [
+      "170.69.164.0/22",
+      "170.69.168.0/21",
+      "170.69.176.0/20",
+      "170.69.192.0/21",
+      "170.69.251.0/24"
+    ],
+    "ipv6": []
+  }
+}

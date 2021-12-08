@@ -1,0 +1,11 @@
+{
+  "asn": 131716,
+  "handle": "IDNIC-EQUNIX-ID",
+  "description": "PT Equnix Business Solutions",
+  "subnets": {
+    "ipv4": [
+      "103.12.20.0/23"
+    ],
+    "ipv6": []
+  }
+}

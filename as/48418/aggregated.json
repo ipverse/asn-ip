@@ -1,0 +1,12 @@
+{
+  "asn": 48418,
+  "handle": "ASSKYNET",
+  "description": "SKYNET S.A.R.L",
+  "subnets": {
+    "ipv4": [
+      "185.254.32.0/23",
+      "185.254.34.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 9731,
+  "handle": "SPEEDCAST-AP",
+  "description": "Speedcast Singapore Pte Ltd",
+  "subnets": {
+    "ipv4": [
+      "202.80.160.0/21",
+      "202.80.172.0/22"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 206830,
+  "handle": "DIGAMAX",
+  "description": "DIGAMAX GESTION DE TELECOMUNICACIONES SL",
+  "subnets": {
+    "ipv4": [
+      "46.24.148.0/24",
+      "185.172.176.0/22"
+    ],
+    "ipv6": []
+  }
+}

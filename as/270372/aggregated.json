@@ -1,0 +1,13 @@
+{
+  "asn": 270372,
+  "handle": "CEUNET-TELECOM-EIRELI",
+  "description": "CEUNET TELECOM EIRELI",
+  "subnets": {
+    "ipv4": [
+      "190.89.108.0/22"
+    ],
+    "ipv6": [
+      "2804:6b04::/32"
+    ]
+  }
+}

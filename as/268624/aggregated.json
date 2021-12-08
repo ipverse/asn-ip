@@ -1,0 +1,14 @@
+{
+  "asn": 268624,
+  "handle": "GAMERS-CLUB-LTDA",
+  "description": "Gamers Club Ltda",
+  "subnets": {
+    "ipv4": [
+      "45.164.124.0/22",
+      "80.94.90.0/24"
+    ],
+    "ipv6": [
+      "2804:5408::/32"
+    ]
+  }
+}

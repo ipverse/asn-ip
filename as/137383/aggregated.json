@@ -1,0 +1,12 @@
+{
+  "asn": 137383,
+  "handle": "IDNIC-MANDIRISEK-ID",
+  "description": "PT. Mandiri Sekuritas",
+  "subnets": {
+    "ipv4": [
+      "103.120.244.0/24",
+      "103.141.228.0/24"
+    ],
+    "ipv6": []
+  }
+}

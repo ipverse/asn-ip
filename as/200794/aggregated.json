@@ -1,0 +1,13 @@
+{
+  "asn": 200794,
+  "handle": "ZGELETTRONICA-IT",
+  "description": "Z.G. Elettronica di Zilio Giancarlo",
+  "subnets": {
+    "ipv4": [
+      "149.13.146.0/23",
+      "149.13.152.0/22",
+      "149.100.162.0/23"
+    ],
+    "ipv6": []
+  }
+}

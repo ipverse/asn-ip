@@ -1,0 +1,13 @@
+{
+  "asn": 141777,
+  "handle": "XSUSENETBV-AP",
+  "description": "XS Usenet",
+  "subnets": {
+    "ipv4": [
+      "103.163.220.0/24"
+    ],
+    "ipv6": [
+      "2001:df6:2980::/48"
+    ]
+  }
+}

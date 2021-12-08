@@ -1,0 +1,12 @@
+{
+  "asn": 20329,
+  "handle": "DIAMONDNET",
+  "description": "Sallisaw Municipal Authority",
+  "subnets": {
+    "ipv4": [
+      "23.236.16.0/20",
+      "206.126.200.0/22"
+    ],
+    "ipv6": []
+  }
+}

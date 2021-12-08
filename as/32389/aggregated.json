@@ -1,0 +1,11 @@
+{
+  "asn": 32389,
+  "handle": "BERKLEE",
+  "description": "Berklee College of Music",
+  "subnets": {
+    "ipv4": [
+      "192.136.22.0/24"
+    ],
+    "ipv6": []
+  }
+}

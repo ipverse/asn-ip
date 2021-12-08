@@ -1,0 +1,12 @@
+{
+  "asn": 206397,
+  "handle": "GENIUS-GUARD",
+  "description": "Geniusx Ltd",
+  "subnets": {
+    "ipv4": [
+      "185.186.52.0/23",
+      "185.186.54.0/24"
+    ],
+    "ipv6": []
+  }
+}

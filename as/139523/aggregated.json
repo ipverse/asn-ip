@@ -1,0 +1,13 @@
+{
+  "asn": 139523,
+  "handle": "ATTIPL-IN",
+  "description": "All Time Tele Infra Pvt Ltd",
+  "subnets": {
+    "ipv4": [
+      "103.142.164.0/23"
+    ],
+    "ipv6": [
+      "2405:3d40::/32"
+    ]
+  }
+}

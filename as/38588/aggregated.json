@@ -1,0 +1,11 @@
+{
+  "asn": 38588,
+  "handle": "FIL-AP",
+  "description": "Felicity IDC Limited",
+  "subnets": {
+    "ipv4": [
+      "103.168.140.0/23"
+    ],
+    "ipv6": []
+  }
+}

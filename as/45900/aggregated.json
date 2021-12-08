@@ -1,0 +1,13 @@
+{
+  "asn": 45900,
+  "handle": "SBV-VN",
+  "description": "Department of Infomatic - The State Bank of Viet Nam",
+  "subnets": {
+    "ipv4": [
+      "202.58.245.0/24"
+    ],
+    "ipv6": [
+      "2001:df4:d600::/48"
+    ]
+  }
+}

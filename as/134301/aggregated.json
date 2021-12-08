@@ -1,0 +1,13 @@
+{
+  "asn": 134301,
+  "handle": "GOMTESH-IN",
+  "description": "GOMTESH INFOTECH PRIVATE LIMITED",
+  "subnets": {
+    "ipv4": [
+      "103.62.147.0/24",
+      "103.80.34.0/23",
+      "103.98.53.0/24"
+    ],
+    "ipv6": []
+  }
+}

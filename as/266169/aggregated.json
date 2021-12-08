@@ -1,0 +1,13 @@
+{
+  "asn": 266169,
+  "handle": "MUNDO-NET-SERVICOS",
+  "description": "Mundo net serviços de rede de comunicação virtual",
+  "subnets": {
+    "ipv4": [
+      "45.6.188.0/22"
+    ],
+    "ipv6": [
+      "2804:3bc4::/32"
+    ]
+  }
+}

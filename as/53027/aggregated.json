@@ -1,0 +1,12 @@
+{
+  "asn": 53027,
+  "handle": "VALE-SA",
+  "description": "Vale S/A",
+  "subnets": {
+    "ipv4": [
+      "142.40.182.0/23",
+      "142.40.184.0/21"
+    ],
+    "ipv6": []
+  }
+}

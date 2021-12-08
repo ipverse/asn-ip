@@ -1,0 +1,13 @@
+{
+  "asn": 52660,
+  "handle": "ESERV-INFORMATICA-E",
+  "description": "e.serv informatica e tecnologia ltda.",
+  "subnets": {
+    "ipv4": [
+      "177.66.248.0/21"
+    ],
+    "ipv6": [
+      "2804:c04::/32"
+    ]
+  }
+}

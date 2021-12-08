@@ -1,0 +1,16 @@
+{
+  "asn": 265330,
+  "handle": "PONTO-A-PONTO",
+  "description": "Ponto a Ponto Telecom do Brasil",
+  "subnets": {
+    "ipv4": [
+      "168.181.60.0/22"
+    ],
+    "ipv6": [
+      "2804:2e30:21::/48",
+      "2804:2e30:22::/47",
+      "2804:2e30:31::/48",
+      "2804:2e30:32::/48"
+    ]
+  }
+}

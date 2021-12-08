@@ -1,0 +1,13 @@
+{
+  "asn": 266671,
+  "handle": "CONFIARED-SRL",
+  "description": "CONFIARED S.R.L.",
+  "subnets": {
+    "ipv4": [
+      "45.225.75.0/24"
+    ],
+    "ipv6": [
+      "2803:1920::/32"
+    ]
+  }
+}

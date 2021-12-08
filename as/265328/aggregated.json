@@ -1,0 +1,13 @@
+{
+  "asn": 265328,
+  "handle": "MASTER-NET-INFORMATICA",
+  "description": "Master Net Informática e Eventos Ltda",
+  "subnets": {
+    "ipv4": [
+      "168.181.64.0/22"
+    ],
+    "ipv6": [
+      "2804:2e28::/32"
+    ]
+  }
+}

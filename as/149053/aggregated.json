@@ -1,0 +1,11 @@
+{
+  "asn": 149053,
+  "handle": "BOGURAONLINE1-AP",
+  "description": "Bogra Online",
+  "subnets": {
+    "ipv4": [
+      "103.177.124.0/23"
+    ],
+    "ipv6": []
+  }
+}

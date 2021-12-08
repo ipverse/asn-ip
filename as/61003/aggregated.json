@@ -1,0 +1,15 @@
+{
+  "asn": 61003,
+  "handle": "GLOBALTELEHOST",
+  "description": "GlobalTeleHost Corp.",
+  "subnets": {
+    "ipv4": [
+      "185.177.229.0/24",
+      "193.108.116.0/23",
+      "193.108.118.0/24"
+    ],
+    "ipv6": [
+      "2604:86c0:f000::/40"
+    ]
+  }
+}

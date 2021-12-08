@@ -1,0 +1,11 @@
+{
+  "asn": 52713,
+  "handle": "PATRUS-TRANSPORTES-URGENTES",
+  "description": "Patrus Transportes Urgentes",
+  "subnets": {
+    "ipv4": [
+      "177.73.252.0/24"
+    ],
+    "ipv6": []
+  }
+}

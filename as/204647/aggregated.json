@@ -1,0 +1,13 @@
+{
+  "asn": 204647,
+  "handle": "MIXNET",
+  "description": "MIXNET TELEKOMUNIKASYON HIZMETLERI AS",
+  "subnets": {
+    "ipv4": [
+      "185.244.116.0/22"
+    ],
+    "ipv6": [
+      "2a0d:2c80::/29"
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 28193,
+  "handle": "UNIVERSIDADE-ESTADUAL-DE",
+  "description": "UNIVERSIDADE ESTADUAL DE LONDRINA",
+  "subnets": {
+    "ipv4": [
+      "189.90.64.0/20",
+      "191.52.64.0/18"
+    ],
+    "ipv6": [
+      "2801:80:70::/48"
+    ]
+  }
+}

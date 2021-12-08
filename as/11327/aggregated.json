@@ -1,0 +1,12 @@
+{
+  "asn": 11327,
+  "handle": "NCI-GROUP-INC",
+  "description": "NCI Group, Inc.",
+  "subnets": {
+    "ipv4": [
+      "192.112.39.0/24",
+      "205.167.42.0/23"
+    ],
+    "ipv6": []
+  }
+}

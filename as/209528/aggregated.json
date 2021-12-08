@@ -1,0 +1,15 @@
+{
+  "asn": 209528,
+  "handle": "MYWEBCITY",
+  "description": "Mywebcity Denmark Aps",
+  "subnets": {
+    "ipv4": [
+      "45.135.64.0/22",
+      "185.162.136.0/22"
+    ],
+    "ipv6": [
+      "2a09:2bc0::/32",
+      "2a0e:8940::/29"
+    ]
+  }
+}

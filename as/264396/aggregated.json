@@ -1,0 +1,13 @@
+{
+  "asn": 264396,
+  "handle": "KEPLER-SISTEMAS-LTDA-ME",
+  "description": "Kepler Sistemas Ltda ME",
+  "subnets": {
+    "ipv4": [
+      "192.153.120.0/24"
+    ],
+    "ipv6": [
+      "2801:80:d10::/48"
+    ]
+  }
+}

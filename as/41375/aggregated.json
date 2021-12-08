@@ -1,0 +1,12 @@
+{
+  "asn": 41375,
+  "handle": "SNT",
+  "description": "PJSC WITH FOREIGN INVESTMENTS SINTEZ OIL",
+  "subnets": {
+    "ipv4": [
+      "91.220.255.0/24",
+      "195.200.196.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 47715,
+  "handle": "ASPECTNET",
+  "description": "Valeo ApS",
+  "subnets": {
+    "ipv4": [
+      "195.190.31.0/24"
+    ],
+    "ipv6": [
+      "2a01:afa0::/32"
+    ]
+  }
+}

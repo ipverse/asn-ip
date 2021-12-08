@@ -1,0 +1,11 @@
+{
+  "asn": 26014,
+  "handle": "FECI-FDG",
+  "description": "Florida East Coast Industries",
+  "subnets": {
+    "ipv4": [
+      "192.207.49.0/24"
+    ],
+    "ipv6": []
+  }
+}

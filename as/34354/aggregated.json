@@ -1,0 +1,12 @@
+{
+  "asn": 34354,
+  "handle": "SKATVIS",
+  "description": "SIA SkaTVis",
+  "subnets": {
+    "ipv4": [
+      "85.158.72.0/21",
+      "89.221.112.0/20"
+    ],
+    "ipv6": []
+  }
+}

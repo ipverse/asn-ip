@@ -1,0 +1,13 @@
+{
+  "asn": 203065,
+  "handle": "TODAYCONCEPTS",
+  "description": "Today Concepts B.V.",
+  "subnets": {
+    "ipv4": [
+      "185.145.60.0/22"
+    ],
+    "ipv6": [
+      "2a02:cc9::/32"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 141052,
+  "handle": "IDNIC-IAINM-ID",
+  "description": "Institut Agama Islam Negeri Metro",
+  "subnets": {
+    "ipv4": [
+      "103.152.52.0/24"
+    ],
+    "ipv6": [
+      "2001:df3:f780::/48"
+    ]
+  }
+}

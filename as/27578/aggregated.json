@@ -1,0 +1,13 @@
+{
+  "asn": 27578,
+  "handle": "AIRBRIDGE",
+  "description": "AirBridge Broadband LLC",
+  "subnets": {
+    "ipv4": [
+      "38.94.112.0/22",
+      "38.141.32.0/22",
+      "38.141.40.0/22"
+    ],
+    "ipv6": []
+  }
+}

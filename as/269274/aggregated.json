@@ -1,0 +1,13 @@
+{
+  "asn": 269274,
+  "handle": "VIANET-TELECOM",
+  "description": "VIANET TELECOM",
+  "subnets": {
+    "ipv4": [
+      "45.182.168.0/22"
+    ],
+    "ipv6": [
+      "2804:6214::/32"
+    ]
+  }
+}

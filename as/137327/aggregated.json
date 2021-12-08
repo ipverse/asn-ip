@@ -1,0 +1,13 @@
+{
+  "asn": 137327,
+  "handle": "IDNIC-HANGTUAH-ID",
+  "description": "Universitas Hang Tuah",
+  "subnets": {
+    "ipv4": [
+      "103.112.122.0/23"
+    ],
+    "ipv6": [
+      "2001:df4:a900::/48"
+    ]
+  }
+}

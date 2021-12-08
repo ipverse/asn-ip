@@ -1,0 +1,13 @@
+{
+  "asn": 327997,
+  "handle": "NODE-AFRICA",
+  "description": "Node Africa Limited",
+  "subnets": {
+    "ipv4": [
+      "169.239.252.0/22"
+    ],
+    "ipv6": [
+      "2c0f:f5b8::/32"
+    ]
+  }
+}

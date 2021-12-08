@@ -1,0 +1,12 @@
+{
+  "asn": 398192,
+  "handle": "ARDOT-NET-01",
+  "description": "Arkansas Department of Transportation",
+  "subnets": {
+    "ipv4": [
+      "199.48.0.0/24",
+      "199.48.3.0/24"
+    ],
+    "ipv6": []
+  }
+}

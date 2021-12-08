@@ -1,0 +1,11 @@
+{
+  "asn": 23748,
+  "handle": "CAT-AP",
+  "description": "Cat Networks K.K.",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a12:a300::/29"
+    ]
+  }
+}

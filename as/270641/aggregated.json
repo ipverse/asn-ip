@@ -1,0 +1,13 @@
+{
+  "asn": 270641,
+  "handle": "YAS-TELECOMUNICACOES-EIRELI",
+  "description": "YAS TELECOMUNICACOES EIRELI",
+  "subnets": {
+    "ipv4": [
+      "177.11.28.0/23"
+    ],
+    "ipv6": [
+      "2804:6f24::/32"
+    ]
+  }
+}

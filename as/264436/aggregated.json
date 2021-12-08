@@ -1,0 +1,14 @@
+{
+  "asn": 264436,
+  "handle": "CLICKIP-PROVEDORES-DE",
+  "description": "CLICKIP PROVEDORES DE ACESSO LTDA",
+  "subnets": {
+    "ipv4": [
+      "45.169.176.0/22",
+      "131.255.8.0/22"
+    ],
+    "ipv6": [
+      "2804:1e90::/32"
+    ]
+  }
+}

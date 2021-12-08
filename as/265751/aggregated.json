@@ -1,0 +1,14 @@
+{
+  "asn": 265751,
+  "handle": "COOPERATIVA-DE-PROVISION",
+  "description": "Cooperativa de Provisión de Obras y Servicios Públicos de Balnearia Ltda.",
+  "subnets": {
+    "ipv4": [
+      "190.108.216.0/24",
+      "190.108.218.0/23"
+    ],
+    "ipv6": [
+      "2803:7600::/32"
+    ]
+  }
+}

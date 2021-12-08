@@ -1,0 +1,13 @@
+{
+  "asn": 269103,
+  "handle": "CENTRO-DE-NEGOCIOS",
+  "description": "CENTRO DE NEGOCIOS CONTEMPORANEO LTDA",
+  "subnets": {
+    "ipv4": [
+      "45.179.212.0/22"
+    ],
+    "ipv6": [
+      "2804:5f7c::/32"
+    ]
+  }
+}

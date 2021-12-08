@@ -1,0 +1,15 @@
+{
+  "asn": 47237,
+  "handle": "NURTELECOM-RIPE",
+  "description": "NUR Telecom LLC",
+  "subnets": {
+    "ipv4": [
+      "185.117.148.0/22",
+      "194.152.36.0/23",
+      "195.216.237.0/24"
+    ],
+    "ipv6": [
+      "2a0b:d7c0::/29"
+    ]
+  }
+}

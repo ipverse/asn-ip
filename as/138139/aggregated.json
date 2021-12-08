@@ -1,0 +1,11 @@
+{
+  "asn": 138139,
+  "handle": "GARNET-ID",
+  "description": "PT Jaringan Komunikasi Lintas Data",
+  "subnets": {
+    "ipv4": [
+      "103.133.144.0/23"
+    ],
+    "ipv6": []
+  }
+}

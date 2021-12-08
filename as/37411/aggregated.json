@@ -1,0 +1,12 @@
+{
+  "asn": 37411,
+  "handle": "STORAGE",
+  "description": "First in Business Solutions",
+  "subnets": {
+    "ipv4": [
+      "41.79.172.0/22",
+      "196.251.137.0/24"
+    ],
+    "ipv6": []
+  }
+}

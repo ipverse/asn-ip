@@ -1,0 +1,12 @@
+{
+  "asn": 44787,
+  "handle": "IRIDEOS-BG",
+  "description": "IRIDEOS S.P.A.",
+  "subnets": {
+    "ipv4": [
+      "185.82.0.0/22",
+      "213.149.192.0/19"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "asn": 44794,
+  "handle": "PEERIXNET",
+  "description": "PEERIX LTD",
+  "subnets": {
+    "ipv4": [
+      "185.235.80.0/24"
+    ],
+    "ipv6": [
+      "2a0d:4d00::/46",
+      "2a0d:4d00:80::/48",
+      "2a0d:4d00:82::/47"
+    ]
+  }
+}

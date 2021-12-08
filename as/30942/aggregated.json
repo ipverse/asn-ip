@@ -1,0 +1,11 @@
+{
+  "asn": 30942,
+  "handle": "ISAFE",
+  "description": "iSAFE Zrt.",
+  "subnets": {
+    "ipv4": [
+      "194.246.102.0/24"
+    ],
+    "ipv6": []
+  }
+}

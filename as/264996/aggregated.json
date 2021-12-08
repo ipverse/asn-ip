@@ -1,0 +1,14 @@
+{
+  "asn": 264996,
+  "handle": "SERVLINK-TELECOM-LTDA-ME",
+  "description": "SERVLINK TELECOM LTDA - ME",
+  "subnets": {
+    "ipv4": [
+      "45.179.130.0/24",
+      "170.84.84.0/22"
+    ],
+    "ipv6": [
+      "2804:3124::/32"
+    ]
+  }
+}

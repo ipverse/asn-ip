@@ -1,0 +1,12 @@
+{
+  "asn": 18697,
+  "handle": "GREEN-MOUNTAIN-POWER",
+  "description": "GREEN MOUNTAIN POWER CORPORATION",
+  "subnets": {
+    "ipv4": [
+      "170.46.0.0/16",
+      "204.164.72.0/24"
+    ],
+    "ipv6": []
+  }
+}

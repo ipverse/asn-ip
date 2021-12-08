@@ -1,0 +1,12 @@
+{
+  "asn": 18552,
+  "handle": "SPI-BGP-BDR",
+  "description": "Sony Pictures Imageworks, Inc.",
+  "subnets": {
+    "ipv4": [
+      "74.222.152.0/21",
+      "160.33.0.0/19"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 397078,
+  "handle": "RNETWORKS",
+  "description": "rNetworks, LLC",
+  "subnets": {
+    "ipv4": [
+      "64.112.52.0/22",
+      "204.16.46.0/24"
+    ],
+    "ipv6": []
+  }
+}

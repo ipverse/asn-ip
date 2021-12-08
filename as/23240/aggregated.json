@@ -1,0 +1,12 @@
+{
+  "asn": 23240,
+  "handle": "LCA-EXTRANET",
+  "description": "LifeCare Assurance Company",
+  "subnets": {
+    "ipv4": [
+      "8.23.232.0/24",
+      "74.62.36.0/24"
+    ],
+    "ipv6": []
+  }
+}

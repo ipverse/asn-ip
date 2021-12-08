@@ -1,0 +1,12 @@
+{
+  "asn": 201545,
+  "handle": "BARO",
+  "description": "AGRAVIS Ost GmbH \u0026 Co. KG",
+  "subnets": {
+    "ipv4": [
+      "185.69.176.0/24",
+      "185.69.178.0/24"
+    ],
+    "ipv6": []
+  }
+}

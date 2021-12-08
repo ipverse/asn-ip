@@ -1,0 +1,14 @@
+{
+  "asn": 44220,
+  "handle": "PARFUMURI-FEMEI",
+  "description": "Parfumuri Femei.com SRL",
+  "subnets": {
+    "ipv4": [
+      "89.45.46.0/24",
+      "188.213.49.0/24",
+      "188.213.134.0/24",
+      "188.240.208.0/24"
+    ],
+    "ipv6": []
+  }
+}

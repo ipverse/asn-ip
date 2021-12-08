@@ -1,0 +1,14 @@
+{
+  "asn": 43638,
+  "handle": "KOLPORTER",
+  "description": "Infover Spolka Akcyjna",
+  "subnets": {
+    "ipv4": [
+      "91.197.152.0/22",
+      "141.138.160.0/21"
+    ],
+    "ipv6": [
+      "2a01:9380::/32"
+    ]
+  }
+}

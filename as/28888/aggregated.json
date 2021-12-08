@@ -1,0 +1,11 @@
+{
+  "asn": 28888,
+  "handle": "DTT-NL",
+  "description": "Deloitte Group Support Centre BV",
+  "subnets": {
+    "ipv4": [
+      "170.194.16.0/21"
+    ],
+    "ipv6": []
+  }
+}

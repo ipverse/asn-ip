@@ -1,0 +1,13 @@
+{
+  "asn": 137102,
+  "handle": "HTPL-IN",
+  "description": "Hustel Telecom Pvt. Ltd.",
+  "subnets": {
+    "ipv4": [
+      "103.107.252.0/22"
+    ],
+    "ipv6": [
+      "2406:6140::/32"
+    ]
+  }
+}

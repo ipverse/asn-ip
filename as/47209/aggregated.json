@@ -1,0 +1,12 @@
+{
+  "asn": 47209,
+  "handle": "EUROWIN",
+  "description": "Sage Spain S.L.",
+  "subnets": {
+    "ipv4": [
+      "93.189.176.0/23",
+      "93.189.179.0/24"
+    ],
+    "ipv6": []
+  }
+}

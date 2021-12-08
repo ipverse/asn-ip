@@ -1,0 +1,11 @@
+{
+  "asn": 140204,
+  "handle": "OMSCN",
+  "description": "Om Sai Cable Network",
+  "subnets": {
+    "ipv4": [
+      "103.155.226.0/23"
+    ],
+    "ipv6": []
+  }
+}

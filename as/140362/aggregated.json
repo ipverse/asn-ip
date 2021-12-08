@@ -1,0 +1,11 @@
+{
+  "asn": 140362,
+  "handle": "LINUSCLOUD-AP",
+  "description": "Aperture Science Limited",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2602:feda:ad0::/44"
+    ]
+  }
+}

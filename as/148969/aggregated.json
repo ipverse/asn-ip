@@ -1,0 +1,14 @@
+{
+  "asn": 148969,
+  "handle": "CHINANET-JIANGXI-LINKONG-IDC",
+  "description": "China Telecom",
+  "subnets": {
+    "ipv4": [
+      "106.227.16.0/20"
+    ],
+    "ipv6": [
+      "240e:13:8000::/37",
+      "240e:960:c00::/40"
+    ]
+  }
+}

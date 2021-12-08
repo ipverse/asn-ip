@@ -1,0 +1,11 @@
+{
+  "asn": 149000,
+  "handle": "ANWARENTERPRISE-AP",
+  "description": "Anwar enterprise",
+  "subnets": {
+    "ipv4": [
+      "103.176.2.0/23"
+    ],
+    "ipv6": []
+  }
+}

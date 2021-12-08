@@ -1,0 +1,12 @@
+{
+  "asn": 60221,
+  "handle": "KOHLER-AG",
+  "description": "HANS KOHLER A G",
+  "subnets": {
+    "ipv4": [
+      "194.147.234.0/23",
+      "194.147.236.0/23"
+    ],
+    "ipv6": []
+  }
+}

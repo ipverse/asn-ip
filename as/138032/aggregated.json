@@ -1,0 +1,13 @@
+{
+  "asn": 138032,
+  "handle": "NETSECOPS-AP",
+  "description": "NetSecOps Limited",
+  "subnets": {
+    "ipv4": [
+      "103.174.186.0/23"
+    ],
+    "ipv6": [
+      "2001:df7:cf80::/48"
+    ]
+  }
+}

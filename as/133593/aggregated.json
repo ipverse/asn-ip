@@ -1,0 +1,15 @@
+{
+  "asn": 133593,
+  "handle": "VBCBROADBAND",
+  "description": "VIZAG BROADCASTING COMPANY PVT. LTD",
+  "subnets": {
+    "ipv4": [
+      "45.115.76.0/22",
+      "103.40.48.0/22",
+      "123.108.200.0/21",
+      "125.62.192.0/20",
+      "125.62.208.0/21"
+    ],
+    "ipv6": []
+  }
+}

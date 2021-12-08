@@ -1,0 +1,13 @@
+{
+  "asn": 61859,
+  "handle": "LUUP-TELECOMUNICACOES-LTDA-ME",
+  "description": "Luup Telecomunicações LTDA - ME",
+  "subnets": {
+    "ipv4": [
+      "201.149.116.0/22"
+    ],
+    "ipv6": [
+      "2804:1a70::/32"
+    ]
+  }
+}

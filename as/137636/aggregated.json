@@ -1,0 +1,12 @@
+{
+  "asn": 137636,
+  "handle": "TELIGUS",
+  "description": "Teligus Networks Private Limited",
+  "subnets": {
+    "ipv4": [
+      "103.124.108.0/24",
+      "103.160.121.0/24"
+    ],
+    "ipv6": []
+  }
+}

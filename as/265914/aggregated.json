@@ -1,0 +1,13 @@
+{
+  "asn": 265914,
+  "handle": "POUPNET-SERVICOS-DE",
+  "description": "POUPNET SERVICOS DE TELECOMUNICACAO LTDA",
+  "subnets": {
+    "ipv4": [
+      "131.196.164.0/22"
+    ],
+    "ipv6": [
+      "2804:3fc8::/32"
+    ]
+  }
+}

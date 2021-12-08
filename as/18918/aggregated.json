@@ -1,0 +1,13 @@
+{
+  "asn": 18918,
+  "handle": "UNOCOMM",
+  "description": "Uno Communications Inc.",
+  "subnets": {
+    "ipv4": [
+      "204.14.244.0/22"
+    ],
+    "ipv6": [
+      "2604:1040::/32"
+    ]
+  }
+}

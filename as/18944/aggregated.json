@@ -1,0 +1,13 @@
+{
+  "asn": 18944,
+  "handle": "HEAP",
+  "description": "AS18944 LLC",
+  "subnets": {
+    "ipv4": [
+      "141.193.244.0/24"
+    ],
+    "ipv6": [
+      "2602:fbfe::/48"
+    ]
+  }
+}

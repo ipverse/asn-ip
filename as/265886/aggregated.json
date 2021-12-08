@@ -1,0 +1,13 @@
+{
+  "asn": 265886,
+  "handle": "UNIVERSO-DIGITAL-TELECOMUNICACOES",
+  "description": "Universo Digital Telecomunicações LTDA ME",
+  "subnets": {
+    "ipv4": [
+      "128.201.192.0/22"
+    ],
+    "ipv6": [
+      "2804:3f58::/32"
+    ]
+  }
+}

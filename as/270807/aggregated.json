@@ -1,0 +1,13 @@
+{
+  "asn": 270807,
+  "handle": "BELLA-JANELA-IND",
+  "description": "Bella Janela Ind. de Cortinas Ltda.",
+  "subnets": {
+    "ipv4": [
+      "200.12.153.0/24"
+    ],
+    "ipv6": [
+      "2801:80:3990::/48"
+    ]
+  }
+}

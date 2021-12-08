@@ -1,0 +1,11 @@
+{
+  "asn": 138001,
+  "handle": "GALAXY1-AP",
+  "description": "Galaxy Net",
+  "subnets": {
+    "ipv4": [
+      "103.153.230.0/23"
+    ],
+    "ipv6": []
+  }
+}

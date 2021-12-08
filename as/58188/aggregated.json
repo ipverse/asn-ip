@@ -1,0 +1,12 @@
+{
+  "asn": 58188,
+  "handle": "SHARPSTREAM",
+  "description": "Sharpstream Ltd",
+  "subnets": {
+    "ipv4": [
+      "91.193.244.0/22",
+      "193.27.42.0/24"
+    ],
+    "ipv6": []
+  }
+}

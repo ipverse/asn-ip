@@ -1,0 +1,13 @@
+{
+  "asn": 266156,
+  "handle": "SERVICOS-DE-COMUNICACAO-LTDA",
+  "description": "SERVICOS DE COMUNICACAO LTDA",
+  "subnets": {
+    "ipv4": [
+      "192.144.68.0/23"
+    ],
+    "ipv6": [
+      "2804:3b8c::/32"
+    ]
+  }
+}

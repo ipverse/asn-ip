@@ -1,0 +1,11 @@
+{
+  "asn": 55217,
+  "handle": "TRIWEST-HA-DC1",
+  "description": "TRIWEST HEALTHCARE ALLIANCE",
+  "subnets": {
+    "ipv4": [
+      "65.125.228.0/22"
+    ],
+    "ipv6": []
+  }
+}

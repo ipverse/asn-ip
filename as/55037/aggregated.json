@@ -1,0 +1,14 @@
+{
+  "asn": 55037,
+  "handle": "FIRST-BUSEY-CORPORATION",
+  "description": "Busey Bank",
+  "subnets": {
+    "ipv4": [
+      "67.131.127.0/24",
+      "198.56.52.0/22"
+    ],
+    "ipv6": [
+      "2620:13a:8000::/40"
+    ]
+  }
+}

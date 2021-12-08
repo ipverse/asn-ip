@@ -1,0 +1,11 @@
+{
+  "asn": 267747,
+  "handle": "ANDESAT-PERU-SAC",
+  "description": "Andesat Peru SAC",
+  "subnets": {
+    "ipv4": [
+      "45.167.228.0/22"
+    ],
+    "ipv6": []
+  }
+}

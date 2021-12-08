@@ -1,0 +1,14 @@
+{
+  "asn": 146969,
+  "handle": "SBT-SC",
+  "description": "SB Technology Corp.",
+  "subnets": {
+    "ipv4": [
+      "103.173.104.0/23",
+      "157.70.240.0/20"
+    ],
+    "ipv6": [
+      "2407:e540::/32"
+    ]
+  }
+}

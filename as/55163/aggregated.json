@@ -1,0 +1,14 @@
+{
+  "asn": 55163,
+  "handle": "LINKEDIN",
+  "description": "LinkedIn Corporation",
+  "subnets": {
+    "ipv4": [
+      "108.174.2.0/23",
+      "108.174.4.0/24"
+    ],
+    "ipv6": [
+      "2620:109:c006::/48"
+    ]
+  }
+}

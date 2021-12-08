@@ -1,0 +1,14 @@
+{
+  "asn": 60398,
+  "handle": "CITCO",
+  "description": "Communication and International Trading Company S.A.R.L",
+  "subnets": {
+    "ipv4": [
+      "217.150.81.0/24",
+      "217.150.82.0/23",
+      "217.150.84.0/23",
+      "217.150.87.0/24"
+    ],
+    "ipv6": []
+  }
+}

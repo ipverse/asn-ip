@@ -1,0 +1,11 @@
+{
+  "asn": 55848,
+  "handle": "AI-MEDIA-AP",
+  "description": "Access innovation Media",
+  "subnets": {
+    "ipv4": [
+      "202.52.142.0/24"
+    ],
+    "ipv6": []
+  }
+}

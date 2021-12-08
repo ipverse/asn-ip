@@ -1,0 +1,13 @@
+{
+  "asn": 47775,
+  "handle": "UBN-TRANSIT",
+  "description": "JSC Ufanet",
+  "subnets": {
+    "ipv4": [
+      "213.5.104.0/22"
+    ],
+    "ipv6": [
+      "2a02:1c8:5::/48"
+    ]
+  }
+}

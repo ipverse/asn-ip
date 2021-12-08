@@ -1,0 +1,12 @@
+{
+  "asn": 52624,
+  "handle": "EDSON-MARTINS-PROVEDOR",
+  "description": "EDSON MARTINS PROVEDOR LTDA ME",
+  "subnets": {
+    "ipv4": [
+      "177.124.140.0/22",
+      "186.251.92.0/22"
+    ],
+    "ipv6": []
+  }
+}

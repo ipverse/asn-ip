@@ -1,0 +1,12 @@
+{
+  "asn": 200976,
+  "handle": "LIFESTREAM",
+  "description": "Lifestream Ltd",
+  "subnets": {
+    "ipv4": [
+      "37.18.127.0/24",
+      "185.198.112.0/22"
+    ],
+    "ipv6": []
+  }
+}

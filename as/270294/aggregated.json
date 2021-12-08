@@ -1,0 +1,14 @@
+{
+  "asn": 270294,
+  "handle": "LIKELINK-SERVICOS-LTDA",
+  "description": "LIKELINK SERVICOS LTDA",
+  "subnets": {
+    "ipv4": [
+      "201.77.100.0/22"
+    ],
+    "ipv6": [
+      "2804:69d4::/33",
+      "2804:69d4:8000::/34"
+    ]
+  }
+}

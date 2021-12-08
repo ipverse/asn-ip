@@ -1,0 +1,13 @@
+{
+  "asn": 61592,
+  "handle": "FORTLINK-INTERNET-CORPORATIVA",
+  "description": "FORTLINK INTERNET CORPORATIVA",
+  "subnets": {
+    "ipv4": [
+      "45.234.100.0/22"
+    ],
+    "ipv6": [
+      "2804:4c34::/32"
+    ]
+  }
+}

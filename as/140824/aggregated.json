@@ -1,0 +1,13 @@
+{
+  "asn": 140824,
+  "handle": "VNIDC-VN",
+  "description": "VNIDC TECHNOLOGY COMPANY LIMITED",
+  "subnets": {
+    "ipv4": [
+      "103.172.60.0/23"
+    ],
+    "ipv6": [
+      "2407:cbc0::/48"
+    ]
+  }
+}

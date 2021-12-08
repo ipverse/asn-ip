@@ -1,0 +1,13 @@
+{
+  "asn": 264002,
+  "handle": "MVA-TELECOM",
+  "description": "MVA TELECOM",
+  "subnets": {
+    "ipv4": [
+      "143.0.60.0/22"
+    ],
+    "ipv6": [
+      "2804:2930::/32"
+    ]
+  }
+}

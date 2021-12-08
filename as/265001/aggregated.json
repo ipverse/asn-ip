@@ -1,0 +1,13 @@
+{
+  "asn": 265001,
+  "handle": "PR-COMUNICACAO-LTDA",
+  "description": "PR Comunicação Ltda",
+  "subnets": {
+    "ipv4": [
+      "170.84.0.0/22"
+    ],
+    "ipv6": [
+      "2804:313c::/32"
+    ]
+  }
+}

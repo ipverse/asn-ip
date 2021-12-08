@@ -1,0 +1,12 @@
+{
+  "asn": 327962,
+  "handle": "PACKETSKY",
+  "description": "Magnalec (Pty) Ltd t/a PacketSky",
+  "subnets": {
+    "ipv4": [
+      "102.141.240.0/20",
+      "169.239.176.0/22"
+    ],
+    "ipv6": []
+  }
+}

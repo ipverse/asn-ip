@@ -1,0 +1,11 @@
+{
+  "asn": 134242,
+  "handle": "UTBOX-AP",
+  "description": "UTBox Pty Ltd",
+  "subnets": {
+    "ipv4": [
+      "103.111.16.0/22"
+    ],
+    "ipv6": []
+  }
+}

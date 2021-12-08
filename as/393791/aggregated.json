@@ -1,0 +1,12 @@
+{
+  "asn": 393791,
+  "handle": "BIDS-NJ",
+  "description": "BIDS Trading L.P.",
+  "subnets": {
+    "ipv4": [
+      "173.241.83.0/24",
+      "173.241.92.0/24"
+    ],
+    "ipv6": []
+  }
+}

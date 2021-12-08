@@ -1,0 +1,11 @@
+{
+  "asn": 11931,
+  "handle": "NYC-EDC-165",
+  "description": "NYCEDC",
+  "subnets": {
+    "ipv4": [
+      "65.215.83.0/24"
+    ],
+    "ipv6": []
+  }
+}

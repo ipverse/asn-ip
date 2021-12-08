@@ -1,0 +1,13 @@
+{
+  "asn": 267010,
+  "handle": "NET-MAIS-SERVICOS",
+  "description": "NET MAIS SERVIÇOS DE TELECOMUNICAÇÕES LTDA",
+  "subnets": {
+    "ipv4": [
+      "45.227.84.0/22"
+    ],
+    "ipv6": [
+      "2804:46c4::/32"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 204644,
+  "handle": "STUMPNERNET",
+  "description": "Stumpner Netservice UG (haftungsbeschraenkt)",
+  "subnets": {
+    "ipv4": [
+      "45.130.104.0/24",
+      "45.130.107.0/24",
+      "194.35.120.0/24"
+    ],
+    "ipv6": []
+  }
+}

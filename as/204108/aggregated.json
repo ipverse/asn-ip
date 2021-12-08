@@ -1,0 +1,13 @@
+{
+  "asn": 204108,
+  "handle": "ROS-MAIN",
+  "description": "S.U.E. DPR Republic Operator of Networks",
+  "subnets": {
+    "ipv4": [
+      "185.114.136.0/22",
+      "185.229.232.0/22",
+      "185.253.40.0/22"
+    ],
+    "ipv6": []
+  }
+}

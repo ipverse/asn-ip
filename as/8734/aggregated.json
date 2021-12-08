@@ -1,0 +1,12 @@
+{
+  "asn": 8734,
+  "handle": "DZI-BG",
+  "description": "DZI Obshto Zastrahovane",
+  "subnets": {
+    "ipv4": [
+      "87.120.140.0/24",
+      "95.43.206.0/24"
+    ],
+    "ipv6": []
+  }
+}

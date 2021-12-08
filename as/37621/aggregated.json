@@ -1,0 +1,13 @@
+{
+  "asn": 37621,
+  "handle": "CIPHERWAVE",
+  "description": "Cipherwave",
+  "subnets": {
+    "ipv4": [
+      "102.218.60.0/22",
+      "102.218.140.0/22",
+      "102.218.216.0/22"
+    ],
+    "ipv6": []
+  }
+}

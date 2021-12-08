@@ -1,0 +1,13 @@
+{
+  "asn": 267574,
+  "handle": "ELTECWEB-PROVEDOR-DE",
+  "description": "ELTECWEB PROVEDOR DE INTERNET LTDA",
+  "subnets": {
+    "ipv4": [
+      "45.70.28.0/22"
+    ],
+    "ipv6": [
+      "2804:4380::/32"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asn": 132666,
+  "handle": "IDNIC-BANDARLAMPUNGKOTA-ID",
+  "description": "Dinas Komunikasi dan Informatika Kota Bandar Lampung",
+  "subnets": {
+    "ipv4": [
+      "103.149.212.0/23"
+    ],
+    "ipv6": []
+  }
+}

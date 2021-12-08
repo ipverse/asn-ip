@@ -1,0 +1,13 @@
+{
+  "asn": 400069,
+  "handle": "SONICSPECTRUM-01",
+  "description": "SonicPCS",
+  "subnets": {
+    "ipv4": [
+      "12.148.221.0/24",
+      "50.109.132.0/24",
+      "50.109.163.0/24"
+    ],
+    "ipv6": []
+  }
+}

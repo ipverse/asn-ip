@@ -1,0 +1,13 @@
+{
+  "asn": 198853,
+  "handle": "I2BASQUE",
+  "description": "Fundacion ikerbasque",
+  "subnets": {
+    "ipv4": [
+      "185.12.104.0/22"
+    ],
+    "ipv6": [
+      "2a00:93c0::/32"
+    ]
+  }
+}

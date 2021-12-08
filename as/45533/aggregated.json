@@ -1,0 +1,13 @@
+{
+  "asn": 45533,
+  "handle": "CGD-TH-AP",
+  "description": "The Comptroller General\u0027s Department",
+  "subnets": {
+    "ipv4": [
+      "203.170.16.0/22"
+    ],
+    "ipv6": [
+      "2001:df6:b000::/48"
+    ]
+  }
+}

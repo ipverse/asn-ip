@@ -1,0 +1,13 @@
+{
+  "asn": 271640,
+  "handle": "UNIVERSIDADE-FEDERAL-DE",
+  "description": "UNIVERSIDADE FEDERAL DE VICOSA",
+  "subnets": {
+    "ipv4": [
+      "200.235.128.0/17"
+    ],
+    "ipv6": [
+      "2801:80:3e80::/48"
+    ]
+  }
+}

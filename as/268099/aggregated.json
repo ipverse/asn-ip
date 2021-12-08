@@ -1,0 +1,13 @@
+{
+  "asn": 268099,
+  "handle": "BJ-NET-BANDA-LARGA-LTDA",
+  "description": "BJ NET BANDA LARGA LTDA",
+  "subnets": {
+    "ipv4": [
+      "45.169.88.0/22"
+    ],
+    "ipv6": [
+      "2804:57fc::/32"
+    ]
+  }
+}

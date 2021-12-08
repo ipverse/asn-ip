@@ -1,0 +1,13 @@
+{
+  "asn": 269682,
+  "handle": "SEVEN-TELECOM-EIRELI",
+  "description": "SEVEN TELECOM EIRELI",
+  "subnets": {
+    "ipv4": [
+      "45.191.168.0/22"
+    ],
+    "ipv6": [
+      "2804:6848::/32"
+    ]
+  }
+}

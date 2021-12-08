@@ -1,0 +1,13 @@
+{
+  "asn": 132805,
+  "handle": "SINGTEL-SCSGKC23",
+  "description": "Singapore Telecommunications Limited",
+  "subnets": {
+    "ipv4": [
+      "103.2.107.0/24"
+    ],
+    "ipv6": [
+      "2404:e601::/48"
+    ]
+  }
+}

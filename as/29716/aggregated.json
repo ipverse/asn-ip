@@ -1,0 +1,13 @@
+{
+  "asn": 29716,
+  "handle": "ASNOTS",
+  "description": "Otsuka America Pharmaceutical, Inc.",
+  "subnets": {
+    "ipv4": [
+      "192.48.142.0/24",
+      "205.211.91.0/24",
+      "209.76.199.0/24"
+    ],
+    "ipv6": []
+  }
+}

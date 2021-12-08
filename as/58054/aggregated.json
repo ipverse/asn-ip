@@ -1,0 +1,12 @@
+{
+  "asn": 58054,
+  "handle": "TV-NET-UA",
+  "description": "TV-NET LLC",
+  "subnets": {
+    "ipv4": [
+      "176.113.160.0/22",
+      "176.113.168.0/21"
+    ],
+    "ipv6": []
+  }
+}

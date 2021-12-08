@@ -1,0 +1,12 @@
+{
+  "asn": 11548,
+  "handle": "HERITAGE-UNIV",
+  "description": "Heritage University",
+  "subnets": {
+    "ipv4": [
+      "216.186.19.0/24",
+      "216.186.98.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 263459,
+  "handle": "INTERLINK-COMUNICACAO-VIRTUAL",
+  "description": "Interlink Comunicacao Virtual LTDA ME",
+  "subnets": {
+    "ipv4": [
+      "177.190.168.0/21"
+    ],
+    "ipv6": [
+      "2804:1224::/32"
+    ]
+  }
+}

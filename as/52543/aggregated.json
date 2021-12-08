@@ -1,0 +1,13 @@
+{
+  "asn": 52543,
+  "handle": "ATL-COMERCIO-E",
+  "description": "ATL Comércio e Serviços de Informática Ltda",
+  "subnets": {
+    "ipv4": [
+      "179.107.64.0/20"
+    ],
+    "ipv6": [
+      "2804:e14::/32"
+    ]
+  }
+}

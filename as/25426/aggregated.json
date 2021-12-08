@@ -1,0 +1,12 @@
+{
+  "asn": 25426,
+  "handle": "BRAINTEC",
+  "description": "D.FI Services SAS",
+  "subnets": {
+    "ipv4": [
+      "185.147.0.0/24",
+      "193.93.8.0/22"
+    ],
+    "ipv6": []
+  }
+}

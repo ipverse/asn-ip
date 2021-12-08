@@ -1,0 +1,11 @@
+{
+  "asn": 62120,
+  "handle": "ROMSERVICE",
+  "description": "Romservice Telecomunicatii SRL",
+  "subnets": {
+    "ipv4": [
+      "89.44.105.0/24"
+    ],
+    "ipv6": []
+  }
+}

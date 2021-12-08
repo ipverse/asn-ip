@@ -1,0 +1,13 @@
+{
+  "asn": 206201,
+  "handle": "DCI",
+  "description": "Giuseppe di Munno trading as Di Munno Consultant Informatique",
+  "subnets": {
+    "ipv4": [
+      "185.193.180.0/24"
+    ],
+    "ipv6": [
+      "2a0a:3bc0::/32"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asn": 141636,
+  "handle": "IDNIC-MDP-ID",
+  "description": "PT Mega Data Perkasa",
+  "subnets": {
+    "ipv4": [
+      "103.162.16.0/23"
+    ],
+    "ipv6": []
+  }
+}

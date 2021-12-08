@@ -1,0 +1,11 @@
+{
+  "asn": 213175,
+  "handle": "TESLA-SVYAZ",
+  "description": "Tesla Svyaz LLC.",
+  "subnets": {
+    "ipv4": [
+      "93.179.67.0/24"
+    ],
+    "ipv6": []
+  }
+}

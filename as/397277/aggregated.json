@@ -1,0 +1,13 @@
+{
+  "asn": 397277,
+  "handle": "NAUAS",
+  "description": "NAU Country Insurance Company",
+  "subnets": {
+    "ipv4": [
+      "216.71.100.0/23"
+    ],
+    "ipv6": [
+      "2620:64:a000::/48"
+    ]
+  }
+}

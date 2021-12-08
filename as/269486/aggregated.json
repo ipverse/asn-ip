@@ -1,0 +1,12 @@
+{
+  "asn": 269486,
+  "handle": "RR-SOARES-INTERNET",
+  "description": "R.R SOARES INTERNET",
+  "subnets": {
+    "ipv4": [
+      "45.185.164.0/24",
+      "45.185.166.0/23"
+    ],
+    "ipv6": []
+  }
+}

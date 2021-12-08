@@ -1,0 +1,11 @@
+{
+  "asn": 271691,
+  "handle": "SUPPERNET-SERVICOS-DE",
+  "description": "SUPPERNET SERVICOS DE TELECOMUNICACOES",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2804:7f7c::/32"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 28610,
+  "handle": "DEBIAN-SIGNAL-COMUNICACAO",
+  "description": "DEBIAN SIGNAL COMUNICAÇÃO MULTIMIDIA LTDA ME",
+  "subnets": {
+    "ipv4": [
+      "186.209.88.0/22"
+    ],
+    "ipv6": [
+      "2804:dc0::/32"
+    ]
+  }
+}

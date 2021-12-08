@@ -1,0 +1,14 @@
+{
+  "asn": 35065,
+  "handle": "LEIPZIGER-MESSE",
+  "description": "Leipziger Messe GmbH",
+  "subnets": {
+    "ipv4": [
+      "89.190.136.0/22",
+      "195.16.80.0/22"
+    ],
+    "ipv6": [
+      "2a10:9a40::/40"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 30367,
+  "handle": "STRATEGIC-VALUE-PARTNERS",
+  "description": "Strategic Value Partners",
+  "subnets": {
+    "ipv4": [
+      "91.213.3.0/24",
+      "208.99.248.0/24"
+    ],
+    "ipv6": []
+  }
+}

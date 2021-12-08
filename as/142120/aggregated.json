@@ -1,0 +1,11 @@
+{
+  "asn": 142120,
+  "handle": "MCSOL-AP",
+  "description": "McSOL Pvt Ltd",
+  "subnets": {
+    "ipv4": [
+      "103.166.150.0/23"
+    ],
+    "ipv6": []
+  }
+}

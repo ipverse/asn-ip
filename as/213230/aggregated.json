@@ -1,0 +1,13 @@
+{
+  "asn": 213230,
+  "handle": "HETZNER-CLOUD2",
+  "description": "Hetzner Online GmbH",
+  "subnets": {
+    "ipv4": [
+      "5.161.0.0/16"
+    ],
+    "ipv6": [
+      "2a01:4ff::/40"
+    ]
+  }
+}

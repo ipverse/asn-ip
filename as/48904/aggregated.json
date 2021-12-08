@@ -1,0 +1,13 @@
+{
+  "asn": 48904,
+  "handle": "VAGGERYDENERGI",
+  "description": "Vaggeryds Energi AB",
+  "subnets": {
+    "ipv4": [
+      "185.204.8.0/22",
+      "193.180.96.0/22",
+      "217.72.16.0/20"
+    ],
+    "ipv6": []
+  }
+}

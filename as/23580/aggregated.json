@@ -1,0 +1,12 @@
+{
+  "asn": 23580,
+  "handle": "SEGYE-KR-KR",
+  "description": "DAILY SPORTSWORLD",
+  "subnets": {
+    "ipv4": [
+      "58.102.128.0/23",
+      "210.91.16.0/23"
+    ],
+    "ipv6": []
+  }
+}

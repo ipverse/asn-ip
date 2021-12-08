@@ -1,0 +1,13 @@
+{
+  "asn": 12203,
+  "handle": "POP1",
+  "description": "Sterling National Bank",
+  "subnets": {
+    "ipv4": [
+      "198.252.189.0/24",
+      "198.252.190.0/23",
+      "198.252.192.0/24"
+    ],
+    "ipv6": []
+  }
+}

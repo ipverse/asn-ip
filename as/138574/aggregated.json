@@ -1,0 +1,13 @@
+{
+  "asn": 138574,
+  "handle": "GLOBALNET-AP",
+  "description": "Global Network",
+  "subnets": {
+    "ipv4": [
+      "103.133.134.0/23"
+    ],
+    "ipv6": [
+      "2001:df7:e480::/48"
+    ]
+  }
+}

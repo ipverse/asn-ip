@@ -1,0 +1,13 @@
+{
+  "asn": 12915,
+  "handle": "EPAG",
+  "description": "EPAG Domainservices GmbH",
+  "subnets": {
+    "ipv4": [
+      "212.123.32.0/19"
+    ],
+    "ipv6": [
+      "2604:4000:8000::/48"
+    ]
+  }
+}

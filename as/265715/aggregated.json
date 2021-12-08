@@ -1,0 +1,13 @@
+{
+  "asn": 265715,
+  "handle": "LLAMADAIP-SRL",
+  "description": "LLAMADAIP S.R.L.",
+  "subnets": {
+    "ipv4": [
+      "45.65.148.0/22"
+    ],
+    "ipv6": [
+      "2803:55c0::/32"
+    ]
+  }
+}

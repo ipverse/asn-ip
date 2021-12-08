@@ -1,0 +1,13 @@
+{
+  "asn": 268384,
+  "handle": "JC-TELECOM",
+  "description": "JC TELECOM",
+  "subnets": {
+    "ipv4": [
+      "45.239.80.0/22"
+    ],
+    "ipv6": [
+      "2804:505c::/32"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asn": 132999,
+  "handle": "RICHA-IN",
+  "description": "Richa Telecom",
+  "subnets": {
+    "ipv4": [
+      "103.141.88.0/23"
+    ],
+    "ipv6": []
+  }
+}

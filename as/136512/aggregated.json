@@ -1,0 +1,11 @@
+{
+  "asn": 136512,
+  "handle": "ABBANK-AP",
+  "description": "AB Bank Limited",
+  "subnets": {
+    "ipv4": [
+      "103.91.104.0/23"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asn": 140090,
+  "handle": "HKNET-AP",
+  "description": "HK Net",
+  "subnets": {
+    "ipv4": [
+      "103.148.98.0/23"
+    ],
+    "ipv6": []
+  }
+}

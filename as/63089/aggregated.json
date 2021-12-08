@@ -1,0 +1,12 @@
+{
+  "asn": 63089,
+  "handle": "SST",
+  "description": "Salina Spavinaw Telephone Company, Inc",
+  "subnets": {
+    "ipv4": [
+      "104.156.16.0/20",
+      "104.243.176.0/20"
+    ],
+    "ipv6": []
+  }
+}

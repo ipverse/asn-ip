@@ -1,0 +1,11 @@
+{
+  "asn": 138294,
+  "handle": "SKYDATA",
+  "description": "Sky Data Labs",
+  "subnets": {
+    "ipv4": [
+      "103.130.204.0/23"
+    ],
+    "ipv6": []
+  }
+}

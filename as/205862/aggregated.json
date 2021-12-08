@@ -1,0 +1,16 @@
+{
+  "asn": 205862,
+  "handle": "FEDERAL-SERVICE-ARKEA",
+  "description": "FEDERAL SERVICE GIE",
+  "subnets": {
+    "ipv4": [
+      "185.204.40.0/22"
+    ],
+    "ipv6": [
+      "2a0d:b00:2901::/48",
+      "2a0d:b00:3501::/48",
+      "2a0d:b00:3502::/48",
+      "2a0d:b00:9201::/48"
+    ]
+  }
+}

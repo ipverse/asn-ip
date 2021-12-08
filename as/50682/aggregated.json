@@ -1,0 +1,11 @@
+{
+  "asn": 50682,
+  "handle": "LIDAS",
+  "description": "Lidas Prod SRL",
+  "subnets": {
+    "ipv4": [
+      "85.121.160.0/23"
+    ],
+    "ipv6": []
+  }
+}

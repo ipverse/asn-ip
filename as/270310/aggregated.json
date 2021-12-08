@@ -1,0 +1,14 @@
+{
+  "asn": 270310,
+  "handle": "ELETRONIC-SPORT-S",
+  "description": "ELETRONIC SPORT S BRASILIA LTD ME",
+  "subnets": {
+    "ipv4": [
+      "201.77.144.0/23",
+      "201.77.147.0/24"
+    ],
+    "ipv6": [
+      "2804:6a10::/32"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 270685,
+  "handle": "SUMER-NET-SERVICOS",
+  "description": "SUMER NET SERVICOS DE TELECOMUNICACOES LTDA",
+  "subnets": {
+    "ipv4": [
+      "177.200.232.0/23"
+    ],
+    "ipv6": [
+      "2804:6fcc::/32"
+    ]
+  }
+}

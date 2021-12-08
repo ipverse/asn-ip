@@ -1,0 +1,12 @@
+{
+  "asn": 32837,
+  "handle": "WCL-50",
+  "description": "Williams \u0026 Connolly, LLP",
+  "subnets": {
+    "ipv4": [
+      "50.59.101.0/24",
+      "173.226.64.0/24"
+    ],
+    "ipv6": []
+  }
+}

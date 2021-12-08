@@ -1,0 +1,11 @@
+{
+  "asn": 204532,
+  "handle": "KOMPANION-BANK",
+  "description": "Kompanion Bank CJSC",
+  "subnets": {
+    "ipv4": [
+      "95.47.168.0/23"
+    ],
+    "ipv6": []
+  }
+}

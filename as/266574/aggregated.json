@@ -1,0 +1,13 @@
+{
+  "asn": 266574,
+  "handle": "GMT-MULTIMIDIA",
+  "description": "GMT Multimídia",
+  "subnets": {
+    "ipv4": [
+      "160.238.232.0/22"
+    ],
+    "ipv6": [
+      "2804:3e1c::/32"
+    ]
+  }
+}

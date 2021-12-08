@@ -1,0 +1,12 @@
+{
+  "asn": 48035,
+  "handle": "IRKUT-IAP",
+  "description": "Scientific Production Corporation Irkut PJSC",
+  "subnets": {
+    "ipv4": [
+      "194.226.31.0/24",
+      "195.19.20.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 268361,
+  "handle": "CONECTIV-PROVEDOR-DE",
+  "description": "CONECTIV PROVEDOR DE ACESSO A INTERNET LTDA",
+  "subnets": {
+    "ipv4": [
+      "45.238.208.0/22"
+    ],
+    "ipv6": [
+      "2804:4ff8::/32"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 31504,
+  "handle": "SVT-COM",
+  "description": "SVT-COM LTD",
+  "subnets": {
+    "ipv4": [
+      "194.88.220.0/23",
+      "195.128.252.0/23"
+    ],
+    "ipv6": []
+  }
+}

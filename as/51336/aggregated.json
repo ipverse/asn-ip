@@ -1,0 +1,16 @@
+{
+  "asn": 51336,
+  "handle": "GEMZO",
+  "description": "Gemzo information technology Private Joint-Stock company",
+  "subnets": {
+    "ipv4": [
+      "109.73.240.0/20",
+      "178.214.64.0/19",
+      "178.215.216.0/21",
+      "185.61.200.0/22",
+      "185.186.176.0/22",
+      "185.203.66.0/24"
+    ],
+    "ipv6": []
+  }
+}

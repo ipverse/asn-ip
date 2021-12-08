@@ -1,0 +1,13 @@
+{
+  "asn": 26760,
+  "handle": "SKTC-NET",
+  "description": "Southern Kansas Telephone Co., Inc.",
+  "subnets": {
+    "ipv4": [
+      "64.71.96.0/19",
+      "67.213.16.0/20",
+      "74.221.192.0/20"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 208930,
+  "handle": "PWINTERBIT",
+  "description": "Przedsiebiorstwo Wielobranzowe INTERBIT Sp. z o.o.",
+  "subnets": {
+    "ipv4": [
+      "81.6.136.0/24"
+    ],
+    "ipv6": [
+      "2001:678:f00::/48"
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 63294,
+  "handle": "DFTMAIN",
+  "description": "DigitalFilm Tree LLC",
+  "subnets": {
+    "ipv4": [
+      "38.102.229.0/24",
+      "216.10.76.0/24"
+    ],
+    "ipv6": [
+      "2605:64c0::/32"
+    ]
+  }
+}

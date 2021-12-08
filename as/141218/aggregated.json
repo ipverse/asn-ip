@@ -1,0 +1,13 @@
+{
+  "asn": 141218,
+  "handle": "WEBMASTERY-AP",
+  "description": "Webmastery",
+  "subnets": {
+    "ipv4": [
+      "103.156.162.0/24"
+    ],
+    "ipv6": [
+      "2406:8b40::/39"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 20285,
+  "handle": "INFINITECAMPUS",
+  "description": "Infinite Campus, Incorporated",
+  "subnets": {
+    "ipv4": [
+      "65.124.140.0/24",
+      "198.73.96.0/21",
+      "207.225.137.0/24"
+    ],
+    "ipv6": []
+  }
+}

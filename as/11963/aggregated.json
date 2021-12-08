@@ -1,0 +1,12 @@
+{
+  "asn": 11963,
+  "handle": "PENNWELL",
+  "description": "PennWell Corporation",
+  "subnets": {
+    "ipv4": [
+      "184.185.98.0/24",
+      "205.157.160.0/19"
+    ],
+    "ipv6": []
+  }
+}

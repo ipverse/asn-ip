@@ -1,0 +1,13 @@
+{
+  "asn": 395868,
+  "handle": "FBISD-ASNONE",
+  "description": "Fort Bend Independent School District",
+  "subnets": {
+    "ipv4": [
+      "168.69.253.0/24",
+      "199.72.83.0/24",
+      "209.34.56.0/24"
+    ],
+    "ipv6": []
+  }
+}

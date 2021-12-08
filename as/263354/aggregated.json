@@ -1,0 +1,15 @@
+{
+  "asn": 263354,
+  "handle": "AERO-NETWORKS-LTDA",
+  "description": "AERO NETWORKS LTDA",
+  "subnets": {
+    "ipv4": [
+      "191.37.88.0/24",
+      "191.37.90.0/23",
+      "191.37.92.0/22"
+    ],
+    "ipv6": [
+      "2804:14d8:c000::/34"
+    ]
+  }
+}

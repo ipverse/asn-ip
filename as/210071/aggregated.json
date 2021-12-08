@@ -1,0 +1,11 @@
+{
+  "asn": 210071,
+  "handle": "SPEEDNET",
+  "description": "Speednet LLC",
+  "subnets": {
+    "ipv4": [
+      "194.36.177.0/24"
+    ],
+    "ipv6": []
+  }
+}

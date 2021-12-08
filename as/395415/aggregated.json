@@ -1,0 +1,12 @@
+{
+  "asn": 395415,
+  "handle": "QT-SEC",
+  "description": "Quiktrip Corporation",
+  "subnets": {
+    "ipv4": [
+      "8.42.249.0/24",
+      "148.78.84.0/22"
+    ],
+    "ipv6": []
+  }
+}

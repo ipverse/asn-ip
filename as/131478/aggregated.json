@@ -1,0 +1,13 @@
+{
+  "asn": 131478,
+  "handle": "CLARENCE-AP",
+  "description": "CLARENCE PROFESSIONAL OFFICES PTY. LIMITED",
+  "subnets": {
+    "ipv4": [
+      "103.121.128.0/22"
+    ],
+    "ipv6": [
+      "2403:6c40::/32"
+    ]
+  }
+}

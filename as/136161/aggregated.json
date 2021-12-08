@@ -1,0 +1,13 @@
+{
+  "asn": 136161,
+  "handle": "HARBOURTELPTYLTD-AP",
+  "description": "Harbourtel Pty Ltd",
+  "subnets": {
+    "ipv4": [
+      "103.82.124.0/24",
+      "103.92.94.0/24",
+      "103.112.104.0/23"
+    ],
+    "ipv6": []
+  }
+}

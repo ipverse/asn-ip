@@ -1,0 +1,12 @@
+{
+  "asn": 32848,
+  "handle": "TRANS",
+  "description": "TransFirst Holdings Inc.",
+  "subnets": {
+    "ipv4": [
+      "8.28.72.0/24",
+      "63.235.61.0/24"
+    ],
+    "ipv6": []
+  }
+}

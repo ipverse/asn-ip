@@ -1,0 +1,13 @@
+{
+  "asn": 270760,
+  "handle": "AR-TELECOM-LTDA",
+  "description": "AR TELECOM LTDA",
+  "subnets": {
+    "ipv4": [
+      "179.109.116.0/22"
+    ],
+    "ipv6": [
+      "2804:70fc::/32"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 201559,
+  "handle": "MAIVA",
+  "description": "United Networks SE",
+  "subnets": {
+    "ipv4": [
+      "185.70.216.0/22"
+    ],
+    "ipv6": [
+      "2a05:2c00::/30"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asn": 11695,
+  "handle": "THESTREET-DOT-COM",
+  "description": "TheStreet.Com",
+  "subnets": {
+    "ipv4": [
+      "204.69.255.0/24"
+    ],
+    "ipv6": []
+  }
+}

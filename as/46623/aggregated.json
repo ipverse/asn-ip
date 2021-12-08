@@ -1,0 +1,12 @@
+{
+  "asn": 46623,
+  "handle": "FISHBACK",
+  "description": "Fishback Financial Corporation",
+  "subnets": {
+    "ipv4": [
+      "96.2.250.0/24",
+      "216.16.102.0/24"
+    ],
+    "ipv6": []
+  }
+}

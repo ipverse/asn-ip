@@ -1,0 +1,11 @@
+{
+  "asn": 132340,
+  "handle": "VENUSTELCO-BD",
+  "description": "Venus Telecom Limited",
+  "subnets": {
+    "ipv4": [
+      "103.13.148.0/22"
+    ],
+    "ipv6": []
+  }
+}

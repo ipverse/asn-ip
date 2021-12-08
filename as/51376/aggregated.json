@@ -1,0 +1,13 @@
+{
+  "asn": 51376,
+  "handle": "MOBIDENGI",
+  "description": "ZAO Mobi.Dengi",
+  "subnets": {
+    "ipv4": [
+      "188.227.27.0/24",
+      "188.227.89.0/24",
+      "188.227.90.0/24"
+    ],
+    "ipv6": []
+  }
+}

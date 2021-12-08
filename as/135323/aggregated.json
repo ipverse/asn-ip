@@ -1,0 +1,12 @@
+{
+  "asn": 135323,
+  "handle": "TTYS-AP",
+  "description": "Talk To You Soon Pty Limited",
+  "subnets": {
+    "ipv4": [
+      "103.215.128.0/22",
+      "202.58.233.0/24"
+    ],
+    "ipv6": []
+  }
+}

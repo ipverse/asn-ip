@@ -1,0 +1,14 @@
+{
+  "asn": 265016,
+  "handle": "ATLANET-TELECOMUNICACOES-LTDA",
+  "description": "Atlanet Telecomunicacoes Ltda",
+  "subnets": {
+    "ipv4": [
+      "170.84.164.0/22"
+    ],
+    "ipv6": [
+      "2804:3174::/36",
+      "2804:3174:8000::/36"
+    ]
+  }
+}

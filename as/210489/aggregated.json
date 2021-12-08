@@ -1,0 +1,14 @@
+{
+  "asn": 210489,
+  "handle": "BEYOND",
+  "description": "Beyond Relationship Marketing GmbH",
+  "subnets": {
+    "ipv4": [
+      "45.135.96.0/22",
+      "45.141.16.0/22",
+      "46.161.220.0/22",
+      "185.222.32.0/22"
+    ],
+    "ipv6": []
+  }
+}

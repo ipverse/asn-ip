@@ -1,0 +1,14 @@
+{
+  "asn": 203615,
+  "handle": "DATACONSULT",
+  "description": "DATA CONSULT SAL",
+  "subnets": {
+    "ipv4": [
+      "185.127.180.0/23",
+      "185.127.182.0/24"
+    ],
+    "ipv6": [
+      "2a06:cb00::/29"
+    ]
+  }
+}

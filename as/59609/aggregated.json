@@ -1,0 +1,11 @@
+{
+  "asn": 59609,
+  "handle": "JP-SLUZBENI-GLASNIK",
+  "description": "JP Sluzbeni Glasnik",
+  "subnets": {
+    "ipv4": [
+      "194.32.150.0/24"
+    ],
+    "ipv6": []
+  }
+}

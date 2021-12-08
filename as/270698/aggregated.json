@@ -1,0 +1,13 @@
+{
+  "asn": 270698,
+  "handle": "HD-CONNECT-INTERNET-LTDA",
+  "description": "HD CONNECT INTERNET LTDA",
+  "subnets": {
+    "ipv4": [
+      "177.39.8.0/22"
+    ],
+    "ipv6": [
+      "2804:6ff8::/32"
+    ]
+  }
+}

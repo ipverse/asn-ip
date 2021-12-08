@@ -1,0 +1,13 @@
+{
+  "asn": 136332,
+  "handle": "ADRIINFO",
+  "description": "Adri Infocom Pvt Ltd",
+  "subnets": {
+    "ipv4": [
+      "103.89.56.0/22"
+    ],
+    "ipv6": [
+      "2405:2540::/32"
+    ]
+  }
+}

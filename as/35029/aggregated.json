@@ -1,0 +1,12 @@
+{
+  "asn": 35029,
+  "handle": "GRIZ-INET-SERVICE",
+  "description": "WebLine LTD",
+  "subnets": {
+    "ipv4": [
+      "5.101.38.0/24",
+      "31.44.185.0/24"
+    ],
+    "ipv6": []
+  }
+}

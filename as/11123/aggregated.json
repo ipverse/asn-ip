@@ -1,0 +1,13 @@
+{
+  "asn": 11123,
+  "handle": "UIA",
+  "description": "Ultimate Internet Access, Inc",
+  "subnets": {
+    "ipv4": [
+      "66.146.0.0/17",
+      "206.251.64.0/19",
+      "216.66.246.0/24"
+    ],
+    "ipv6": []
+  }
+}

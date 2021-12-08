@@ -1,0 +1,13 @@
+{
+  "asn": 134944,
+  "handle": "JIFFY",
+  "description": "Jiffy Cable And Datacom Private Limited",
+  "subnets": {
+    "ipv4": [
+      "103.126.228.0/22"
+    ],
+    "ipv6": [
+      "2404:ca40::/32"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asn": 265967,
+  "handle": "VOAFIBRA-ISP",
+  "description": "VOAFIBRA ISP",
+  "subnets": {
+    "ipv4": [
+      "131.196.40.0/22"
+    ],
+    "ipv6": []
+  }
+}

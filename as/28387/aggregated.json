@@ -1,0 +1,13 @@
+{
+  "asn": 28387,
+  "handle": "COMPUTADORAS-Y-SERVICIOS",
+  "description": "Computadoras y Servicios Especiales SA de CV",
+  "subnets": {
+    "ipv4": [
+      "45.174.84.0/24",
+      "45.174.86.0/23",
+      "201.131.200.0/22"
+    ],
+    "ipv6": []
+  }
+}

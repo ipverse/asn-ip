@@ -1,0 +1,12 @@
+{
+  "asn": 135148,
+  "handle": "AHG-AU",
+  "description": "AUTOMOTIVE HOLDINGS GROUP LIMITED",
+  "subnets": {
+    "ipv4": [
+      "103.44.101.0/24",
+      "103.211.48.0/24"
+    ],
+    "ipv6": []
+  }
+}

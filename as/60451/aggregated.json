@@ -1,0 +1,12 @@
+{
+  "asn": 60451,
+  "handle": "AS3MINDS",
+  "description": "Threeminds S.r.l.",
+  "subnets": {
+    "ipv4": [
+      "185.30.180.0/22",
+      "185.135.92.0/22"
+    ],
+    "ipv6": []
+  }
+}

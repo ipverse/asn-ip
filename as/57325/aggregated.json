@@ -1,0 +1,13 @@
+{
+  "asn": 57325,
+  "handle": "AS204765",
+  "description": "123Telcom BV trading as Partell",
+  "subnets": {
+    "ipv4": [
+      "185.239.60.0/22"
+    ],
+    "ipv6": [
+      "2a01:52e0::/32"
+    ]
+  }
+}

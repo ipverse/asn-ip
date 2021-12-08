@@ -1,0 +1,11 @@
+{
+  "asn": 38286,
+  "handle": "PPCTV-AP",
+  "description": "Phnom Penh Cable TV",
+  "subnets": {
+    "ipv4": [
+      "122.252.176.0/21"
+    ],
+    "ipv6": []
+  }
+}

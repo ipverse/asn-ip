@@ -1,0 +1,11 @@
+{
+  "asn": 201329,
+  "handle": "REINACHBL",
+  "description": "Gemeinde Reinach BL",
+  "subnets": {
+    "ipv4": [
+      "162.12.200.0/22"
+    ],
+    "ipv6": []
+  }
+}

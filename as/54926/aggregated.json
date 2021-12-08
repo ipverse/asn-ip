@@ -1,0 +1,12 @@
+{
+  "asn": 54926,
+  "handle": "GRIDWAY-COMPUTING-COPORATION",
+  "description": "GridWay Computing Corporation",
+  "subnets": {
+    "ipv4": [
+      "139.60.168.0/23",
+      "139.60.170.0/24"
+    ],
+    "ipv6": []
+  }
+}

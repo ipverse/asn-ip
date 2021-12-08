@@ -1,0 +1,13 @@
+{
+  "asn": 15123,
+  "handle": "FBEMC",
+  "description": "French Broad EMC",
+  "subnets": {
+    "ipv4": [
+      "67.218.213.0/24",
+      "72.250.232.0/24",
+      "136.175.72.0/22"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 23344,
+  "handle": "DSS-EDGE",
+  "description": "Disney Worldwide Services, Inc.",
+  "subnets": {
+    "ipv4": [
+      "139.104.212.0/24"
+    ],
+    "ipv6": [
+      "2620:138:301e::/48"
+    ]
+  }
+}

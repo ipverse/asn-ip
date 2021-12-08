@@ -1,0 +1,11 @@
+{
+  "asn": 262389,
+  "handle": "VITORIA-DATA-CENTER",
+  "description": "VITORIA DATA CENTER",
+  "subnets": {
+    "ipv4": [
+      "177.129.64.0/22"
+    ],
+    "ipv6": []
+  }
+}

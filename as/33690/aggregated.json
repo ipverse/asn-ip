@@ -1,0 +1,13 @@
+{
+  "asn": 33690,
+  "handle": "AUREON",
+  "description": "Aureon Network Services",
+  "subnets": {
+    "ipv4": [
+      "70.35.0.0/24",
+      "198.211.143.0/24",
+      "206.72.27.0/24"
+    ],
+    "ipv6": []
+  }
+}

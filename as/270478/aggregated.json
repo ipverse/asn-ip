@@ -1,0 +1,13 @@
+{
+  "asn": 270478,
+  "handle": "CAPITALNET-MS",
+  "description": "CapitalNet MS",
+  "subnets": {
+    "ipv4": [
+      "200.106.128.0/22"
+    ],
+    "ipv6": [
+      "2804:6c94::/32"
+    ]
+  }
+}

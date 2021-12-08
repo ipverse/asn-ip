@@ -1,0 +1,13 @@
+{
+  "asn": 9357,
+  "handle": "FNC-NET",
+  "description": "FNC-NET",
+  "subnets": {
+    "ipv4": [
+      "133.250.128.0/17"
+    ],
+    "ipv6": [
+      "2001:df0:401::/48"
+    ]
+  }
+}

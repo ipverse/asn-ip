@@ -1,0 +1,11 @@
+{
+  "asn": 132070,
+  "handle": "INTERVOLVE-MANAGED-AP",
+  "description": "Intervolve Pty Ltd",
+  "subnets": {
+    "ipv4": [
+      "101.234.164.0/24"
+    ],
+    "ipv6": []
+  }
+}

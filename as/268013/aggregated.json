@@ -1,0 +1,13 @@
+{
+  "asn": 268013,
+  "handle": "OPTFIBER-TELECOMUNICACOES-EIRELLI",
+  "description": "Optfiber Telecomunicações Eirelli",
+  "subnets": {
+    "ipv4": [
+      "45.167.152.0/22"
+    ],
+    "ipv6": [
+      "2804:56a0::/32"
+    ]
+  }
+}

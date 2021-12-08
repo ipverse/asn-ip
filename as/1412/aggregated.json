@@ -1,0 +1,13 @@
+{
+  "asn": 1412,
+  "handle": "GRVYUS-PIT-A",
+  "description": "Gravity Interactive, Inc.",
+  "subnets": {
+    "ipv4": [
+      "128.241.92.0/22"
+    ],
+    "ipv6": [
+      "2001:418:4005::/48"
+    ]
+  }
+}

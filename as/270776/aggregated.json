@@ -1,0 +1,13 @@
+{
+  "asn": 270776,
+  "handle": "HIPERLINK-TELECOM-LTDA",
+  "description": "Hiperlink Telecom LTDA",
+  "subnets": {
+    "ipv4": [
+      "200.39.140.0/22"
+    ],
+    "ipv6": [
+      "2804:713c::/32"
+    ]
+  }
+}

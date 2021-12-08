@@ -1,0 +1,11 @@
+{
+  "asn": 328500,
+  "handle": "AMC-TELECOM",
+  "description": "A.M.C Telecom",
+  "subnets": {
+    "ipv4": [
+      "102.64.116.0/22"
+    ],
+    "ipv6": []
+  }
+}

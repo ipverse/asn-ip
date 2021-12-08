@@ -1,0 +1,12 @@
+{
+  "asn": 20313,
+  "handle": "SMSI",
+  "description": "Smith Micro Software, Inc.",
+  "subnets": {
+    "ipv4": [
+      "162.223.139.0/24",
+      "162.223.140.0/22"
+    ],
+    "ipv6": []
+  }
+}

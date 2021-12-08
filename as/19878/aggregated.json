@@ -1,0 +1,14 @@
+{
+  "asn": 19878,
+  "handle": "MEDIMPACT",
+  "description": "MedImpact Healthcare Systems, Inc.",
+  "subnets": {
+    "ipv4": [
+      "198.54.236.0/23",
+      "198.54.239.0/24",
+      "208.91.224.0/24",
+      "208.91.228.0/22"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 21506,
+  "handle": "FUNDACAO-UNIVERSIDADE-DE",
+  "description": "Fundação Universidade de Brasília",
+  "subnets": {
+    "ipv4": [
+      "164.41.0.0/16"
+    ],
+    "ipv6": [
+      "2801:80:b90::/48"
+    ]
+  }
+}

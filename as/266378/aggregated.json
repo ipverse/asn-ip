@@ -1,0 +1,11 @@
+{
+  "asn": 266378,
+  "handle": "INTER-NITRO",
+  "description": "Inter Nitro",
+  "subnets": {
+    "ipv4": [
+      "170.80.124.0/22"
+    ],
+    "ipv6": []
+  }
+}

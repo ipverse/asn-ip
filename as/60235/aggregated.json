@@ -1,0 +1,12 @@
+{
+  "asn": 60235,
+  "handle": "NEO-SCALE",
+  "description": "neo-scale GmbH",
+  "subnets": {
+    "ipv4": [
+      "88.218.108.0/22",
+      "185.139.96.0/22"
+    ],
+    "ipv6": []
+  }
+}

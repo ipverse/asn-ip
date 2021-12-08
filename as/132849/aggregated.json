@@ -1,0 +1,11 @@
+{
+  "asn": 132849,
+  "handle": "BANDWIDTH-AP",
+  "description": "Bandwidth Holdings PTY LTD",
+  "subnets": {
+    "ipv4": [
+      "103.170.102.0/23"
+    ],
+    "ipv6": []
+  }
+}

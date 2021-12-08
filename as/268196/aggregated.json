@@ -1,0 +1,12 @@
+{
+  "asn": 268196,
+  "handle": "LINKNET-SOLUCOES",
+  "description": "LinkNet Solucoes",
+  "subnets": {
+    "ipv4": [
+      "45.235.124.0/23",
+      "45.235.127.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 38770,
+  "handle": "TM-ID",
+  "description": "PT. Tangara Mitrakom",
+  "subnets": {
+    "ipv4": [
+      "114.134.64.0/23",
+      "114.134.70.0/24"
+    ],
+    "ipv6": []
+  }
+}

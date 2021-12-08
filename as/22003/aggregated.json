@@ -1,0 +1,13 @@
+{
+  "asn": 22003,
+  "handle": "PT",
+  "description": "PALANTIR TECHNOLOGIES INC.",
+  "subnets": {
+    "ipv4": [
+      "8.4.231.0/24",
+      "62.67.195.0/24",
+      "198.97.14.0/23"
+    ],
+    "ipv6": []
+  }
+}

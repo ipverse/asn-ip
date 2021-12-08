@@ -1,0 +1,13 @@
+{
+  "asn": 398849,
+  "handle": "DSS-CACHE",
+  "description": "Disney Streaming Services",
+  "subnets": {
+    "ipv4": [
+      "139.104.98.0/24"
+    ],
+    "ipv6": [
+      "2620:138:30ff::/48"
+    ]
+  }
+}

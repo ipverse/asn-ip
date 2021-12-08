@@ -1,0 +1,11 @@
+{
+  "asn": 134353,
+  "handle": "NETCOCLOUD-VIRTUAIIZATION-TECHNOLOGY",
+  "description": "Netcocloud Technology",
+  "subnets": {
+    "ipv4": [
+      "103.129.44.0/22"
+    ],
+    "ipv6": []
+  }
+}

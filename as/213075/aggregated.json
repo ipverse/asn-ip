@@ -1,0 +1,13 @@
+{
+  "asn": 213075,
+  "handle": "STARTRU",
+  "description": "Start.Ru LLC",
+  "subnets": {
+    "ipv4": [
+      "193.200.250.0/24"
+    ],
+    "ipv6": [
+      "2a0d:d81::/32"
+    ]
+  }
+}

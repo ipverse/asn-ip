@@ -1,0 +1,12 @@
+{
+  "asn": 55405,
+  "handle": "EXABYTES-AP",
+  "description": "Exa Bytes Network Sdn.Bhd.",
+  "subnets": {
+    "ipv4": [
+      "103.13.122.0/23",
+      "202.157.182.0/23"
+    ],
+    "ipv6": []
+  }
+}

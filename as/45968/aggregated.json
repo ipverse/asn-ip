@@ -1,0 +1,12 @@
+{
+  "asn": 45968,
+  "handle": "KONACENTER-KR-KR",
+  "description": "KONAI",
+  "subnets": {
+    "ipv4": [
+      "119.197.122.0/24",
+      "203.235.54.0/24"
+    ],
+    "ipv6": []
+  }
+}

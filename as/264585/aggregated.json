@@ -1,0 +1,13 @@
+{
+  "asn": 264585,
+  "handle": "FLASH-NET-PROVEDOR-LTDA-ME",
+  "description": "Flash Net Provedor Ltda - ME",
+  "subnets": {
+    "ipv4": [
+      "138.36.192.0/22"
+    ],
+    "ipv6": [
+      "2804:2200::/32"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 272185,
+  "handle": "UNITEC-PROVEDORA-DE",
+  "description": "UNITEC PROVEDORA DE INTERNET E TELECOM LTDA",
+  "subnets": {
+    "ipv4": [
+      "200.106.215.0/24"
+    ],
+    "ipv6": [
+      "2804:833c::/32"
+    ]
+  }
+}

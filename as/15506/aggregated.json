@@ -1,0 +1,11 @@
+{
+  "asn": 15506,
+  "handle": "ASTODO",
+  "description": "TODO GmbH",
+  "subnets": {
+    "ipv4": [
+      "62.169.0.0/21"
+    ],
+    "ipv6": []
+  }
+}

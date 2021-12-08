@@ -1,0 +1,12 @@
+{
+  "asn": 17381,
+  "handle": "WSI-ECOM-WEST",
+  "description": "Williams-Sonoma",
+  "subnets": {
+    "ipv4": [
+      "45.45.128.0/23",
+      "199.87.8.0/21"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 60344,
+  "handle": "ASKLEPIOS",
+  "description": "Asklepios Kliniken GmbH",
+  "subnets": {
+    "ipv4": [
+      "141.49.0.0/16",
+      "185.29.188.0/23"
+    ],
+    "ipv6": []
+  }
+}

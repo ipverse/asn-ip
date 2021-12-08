@@ -1,0 +1,11 @@
+{
+  "asn": 263014,
+  "handle": "ATP-DATA",
+  "description": "ATP DATA",
+  "subnets": {
+    "ipv4": [
+      "177.10.88.0/22"
+    ],
+    "ipv6": []
+  }
+}

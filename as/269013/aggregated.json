@@ -1,0 +1,11 @@
+{
+  "asn": 269013,
+  "handle": "TSNET-TELECOM",
+  "description": "TSNET TELECOM",
+  "subnets": {
+    "ipv4": [
+      "45.177.248.0/23"
+    ],
+    "ipv6": []
+  }
+}

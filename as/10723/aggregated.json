@@ -1,0 +1,12 @@
+{
+  "asn": 10723,
+  "handle": "MGL-40",
+  "description": "Meritage Group LP",
+  "subnets": {
+    "ipv4": [
+      "74.212.143.0/24",
+      "192.30.150.0/23"
+    ],
+    "ipv6": []
+  }
+}

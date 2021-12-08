@@ -1,0 +1,13 @@
+{
+  "asn": 207675,
+  "handle": "BFIEDLERNET",
+  "description": "BEN-FIEDLER",
+  "subnets": {
+    "ipv4": [
+      "193.36.107.0/24"
+    ],
+    "ipv6": [
+      "2a0d:d740:107::/48"
+    ]
+  }
+}

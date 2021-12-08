@@ -1,0 +1,12 @@
+{
+  "asn": 265810,
+  "handle": "COOPERATIVA-DE-SERVICIOS",
+  "description": "COOPERATIVA DE SERVICIOS PUBLICOS ALTOS DE CHIPION LTDA",
+  "subnets": {
+    "ipv4": [
+      "201.182.1.0/24",
+      "201.182.3.0/24"
+    ],
+    "ipv6": []
+  }
+}

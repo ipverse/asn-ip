@@ -1,0 +1,11 @@
+{
+  "asn": 35001,
+  "handle": "MYOWN",
+  "description": "MyOwn sprl",
+  "subnets": {
+    "ipv4": [
+      "193.189.135.0/24"
+    ],
+    "ipv6": []
+  }
+}

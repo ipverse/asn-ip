@@ -1,0 +1,13 @@
+{
+  "asn": 398636,
+  "handle": "832-COMMUNICATIONS",
+  "description": "832 Communications, LLC",
+  "subnets": {
+    "ipv4": [
+      "67.216.235.0/24",
+      "148.59.90.0/24",
+      "193.149.170.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 141466,
+  "handle": "DIGISIGMA-SG",
+  "description": "Vocom International Telecommunication Inc.",
+  "subnets": {
+    "ipv4": [
+      "103.215.127.0/24",
+      "150.129.216.0/24"
+    ],
+    "ipv6": []
+  }
+}

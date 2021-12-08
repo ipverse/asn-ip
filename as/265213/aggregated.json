@@ -1,0 +1,11 @@
+{
+  "asn": 265213,
+  "handle": "BRUMART-INTERNET",
+  "description": "BRUMART internet",
+  "subnets": {
+    "ipv4": [
+      "167.250.104.0/22"
+    ],
+    "ipv6": []
+  }
+}

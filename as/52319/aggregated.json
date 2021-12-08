@@ -1,0 +1,11 @@
+{
+  "asn": 52319,
+  "handle": "TECPETROL",
+  "description": "Tecpetrol",
+  "subnets": {
+    "ipv4": [
+      "190.220.5.0/24"
+    ],
+    "ipv6": []
+  }
+}

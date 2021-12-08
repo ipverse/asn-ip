@@ -1,0 +1,16 @@
+{
+  "asn": 52928,
+  "handle": "JANAJA-SERVICOS-LTDA",
+  "description": "JANAJÁ SERVIÇOS LTDA",
+  "subnets": {
+    "ipv4": [
+      "131.108.244.0/22",
+      "167.250.100.0/22",
+      "177.93.112.0/21",
+      "177.185.64.0/19"
+    ],
+    "ipv6": [
+      "2804:aec::/32"
+    ]
+  }
+}

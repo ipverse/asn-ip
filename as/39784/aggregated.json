@@ -1,0 +1,12 @@
+{
+  "asn": 39784,
+  "handle": "NOKIANET-AMSTERDAM",
+  "description": "Nokia Oyj",
+  "subnets": {
+    "ipv4": [
+      "93.183.19.0/24",
+      "189.50.64.0/20"
+    ],
+    "ipv6": []
+  }
+}

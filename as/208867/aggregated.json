@@ -1,0 +1,13 @@
+{
+  "asn": 208867,
+  "handle": "ALTUS-COMMUNICATIONS-INC",
+  "description": "ALTUS COMMUNICATIONS, INC.",
+  "subnets": {
+    "ipv4": [
+      "45.14.80.0/22",
+      "45.80.96.0/22",
+      "45.85.128.0/22"
+    ],
+    "ipv6": []
+  }
+}

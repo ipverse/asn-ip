@@ -1,0 +1,13 @@
+{
+  "asn": 21582,
+  "handle": "NAU",
+  "description": "Northern Arizona University",
+  "subnets": {
+    "ipv4": [
+      "134.114.0.0/16",
+      "198.60.189.0/24",
+      "207.246.0.0/19"
+    ],
+    "ipv6": []
+  }
+}

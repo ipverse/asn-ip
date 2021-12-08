@@ -1,0 +1,13 @@
+{
+  "asn": 270279,
+  "handle": "WIMAXNET-LTDA",
+  "description": "WIMAXNET LTDA",
+  "subnets": {
+    "ipv4": [
+      "200.124.172.0/22"
+    ],
+    "ipv6": [
+      "2804:6994::/32"
+    ]
+  }
+}

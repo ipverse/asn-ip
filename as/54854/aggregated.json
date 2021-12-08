@@ -1,0 +1,11 @@
+{
+  "asn": 54854,
+  "handle": "BORDERBGPNETWORK",
+  "description": "Blueport Commerce",
+  "subnets": {
+    "ipv4": [
+      "199.120.209.0/24"
+    ],
+    "ipv6": []
+  }
+}

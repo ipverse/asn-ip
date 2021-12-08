@@ -1,0 +1,15 @@
+{
+  "asn": 263026,
+  "handle": "IBL-BANDA-LARGA",
+  "description": "IBL Banda Larga Internet Informatica LTDA",
+  "subnets": {
+    "ipv4": [
+      "45.163.24.0/22",
+      "138.36.20.0/23",
+      "186.249.208.0/21"
+    ],
+    "ipv6": [
+      "2804:a28::/32"
+    ]
+  }
+}

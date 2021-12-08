@@ -1,0 +1,12 @@
+{
+  "asn": 397881,
+  "handle": "STINGERS",
+  "description": "Stingers Inc.",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2605:5fc0::/32",
+      "2a0f:300::/32"
+    ]
+  }
+}

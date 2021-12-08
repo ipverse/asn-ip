@@ -1,0 +1,13 @@
+{
+  "asn": 47589,
+  "handle": "KTC3G",
+  "description": "Kuwait Telecommunication Company (Under Association)",
+  "subnets": {
+    "ipv4": [
+      "37.231.0.0/16",
+      "94.128.0.0/15",
+      "185.192.236.0/22"
+    ],
+    "ipv6": []
+  }
+}

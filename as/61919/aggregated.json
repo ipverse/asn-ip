@@ -1,0 +1,13 @@
+{
+  "asn": 61919,
+  "handle": "AR3-SERVICOS-EIRELI-ME",
+  "description": "AR3 Servicos EIRELI ME",
+  "subnets": {
+    "ipv4": [
+      "190.112.204.0/22"
+    ],
+    "ipv6": [
+      "2804:17d8::/32"
+    ]
+  }
+}

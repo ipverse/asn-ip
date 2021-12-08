@@ -1,0 +1,13 @@
+{
+  "asn": 42626,
+  "handle": "ATAUNI",
+  "description": "ATATURK-UNIVERSITESI",
+  "subnets": {
+    "ipv4": [
+      "95.183.216.0/22",
+      "193.255.58.0/24",
+      "194.27.48.0/23"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 54488,
+  "handle": "QXC-COMMUNICATIONS",
+  "description": "QxC Communications, Inc.",
+  "subnets": {
+    "ipv4": [
+      "64.139.152.0/21",
+      "162.255.60.0/22"
+    ],
+    "ipv6": []
+  }
+}

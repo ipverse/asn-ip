@@ -1,0 +1,12 @@
+{
+  "asn": 62609,
+  "handle": "DCCA-WTC",
+  "description": "NTT DATA Services, LLC",
+  "subnets": {
+    "ipv4": [
+      "208.79.28.0/23",
+      "208.79.30.0/24"
+    ],
+    "ipv6": []
+  }
+}

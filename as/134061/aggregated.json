@@ -1,0 +1,13 @@
+{
+  "asn": 134061,
+  "handle": "MILANINDUSTRIES-AP",
+  "description": "MILAN INDUSTRIES PTY. LTD.",
+  "subnets": {
+    "ipv4": [
+      "103.50.34.0/23",
+      "103.209.188.0/23",
+      "103.223.138.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asn": 265820,
+  "handle": "SERVICIO-DE-ADMINISTRACION",
+  "description": "SERVICIO DE ADMINISTRACIÓN DE RENTAS",
+  "subnets": {
+    "ipv4": [
+      "45.71.52.0/24"
+    ],
+    "ipv6": []
+  }
+}

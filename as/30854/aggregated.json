@@ -1,0 +1,11 @@
+{
+  "asn": 30854,
+  "handle": "VELNET-AS1",
+  "description": "VELNET, LLC",
+  "subnets": {
+    "ipv4": [
+      "213.79.0.0/19"
+    ],
+    "ipv6": []
+  }
+}

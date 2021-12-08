@@ -1,0 +1,13 @@
+{
+  "asn": 52382,
+  "handle": "FACULTE-DES-SCIENCES",
+  "description": "Main Line Health, Inc.",
+  "subnets": {
+    "ipv4": [
+      "200.115.182.0/23"
+    ],
+    "ipv6": [
+      "2801:0:330::/48"
+    ]
+  }
+}

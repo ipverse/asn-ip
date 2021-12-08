@@ -1,0 +1,13 @@
+{
+  "asn": 263922,
+  "handle": "SPEED-TURBO-TELECOM",
+  "description": "SPEED TURBO TELECOM",
+  "subnets": {
+    "ipv4": [
+      "138.219.96.0/22"
+    ],
+    "ipv6": [
+      "2804:27c8::/32"
+    ]
+  }
+}

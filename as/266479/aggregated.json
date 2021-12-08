@@ -1,0 +1,13 @@
+{
+  "asn": 266479,
+  "handle": "CONNECT-FIBRA",
+  "description": "CONNECT FIBRA",
+  "subnets": {
+    "ipv4": [
+      "170.244.44.0/22"
+    ],
+    "ipv6": [
+      "2804:3878::/32"
+    ]
+  }
+}

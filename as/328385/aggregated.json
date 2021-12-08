@@ -1,0 +1,11 @@
+{
+  "asn": 328385,
+  "handle": "RRA",
+  "description": "Rwanda Revenue Authority (RRA)",
+  "subnets": {
+    "ipv4": [
+      "102.130.32.0/21"
+    ],
+    "ipv6": []
+  }
+}

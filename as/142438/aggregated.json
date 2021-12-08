@@ -1,0 +1,16 @@
+{
+  "asn": 142438,
+  "handle": "KSMNW-AP",
+  "description": "Ningbo Dahuamao Information Technology Co Ltd",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2406:840:8000::/36",
+      "2406:840:fef8::/48",
+      "2a05:1087::/32",
+      "2a0c:b641:130::/44",
+      "2a0e:b107:da0::/44",
+      "2a0e:b107:14a0::/44"
+    ]
+  }
+}

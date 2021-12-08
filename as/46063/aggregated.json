@@ -1,0 +1,13 @@
+{
+  "asn": 46063,
+  "handle": "GRAHANET-ID",
+  "description": "PT.Graha Telekomunikasi Indonesia",
+  "subnets": {
+    "ipv4": [
+      "27.112.64.0/24",
+      "27.112.66.0/23",
+      "27.112.68.0/22"
+    ],
+    "ipv6": []
+  }
+}

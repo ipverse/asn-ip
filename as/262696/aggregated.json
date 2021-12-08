@@ -1,0 +1,12 @@
+{
+  "asn": 262696,
+  "handle": "TURBONET-TELECOMUNICACOES",
+  "description": "Turbonet Telecomunicações",
+  "subnets": {
+    "ipv4": [
+      "177.86.64.0/22",
+      "187.95.80.0/20"
+    ],
+    "ipv6": []
+  }
+}

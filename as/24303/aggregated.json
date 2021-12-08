@@ -1,0 +1,11 @@
+{
+  "asn": 24303,
+  "handle": "GOLDCORP-AU",
+  "description": "Gold Corporation",
+  "subnets": {
+    "ipv4": [
+      "202.44.116.0/22"
+    ],
+    "ipv6": []
+  }
+}

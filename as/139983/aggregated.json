@@ -1,0 +1,13 @@
+{
+  "asn": 139983,
+  "handle": "BCMEDIA-ID",
+  "description": "PT. Borneo Cakrawala Media",
+  "subnets": {
+    "ipv4": [
+      "103.148.48.0/23"
+    ],
+    "ipv6": [
+      "2405:cb40::/32"
+    ]
+  }
+}

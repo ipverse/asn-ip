@@ -1,0 +1,13 @@
+{
+  "asn": 47691,
+  "handle": "INFOTEH",
+  "description": "Infoteh LLC",
+  "subnets": {
+    "ipv4": [
+      "45.132.205.0/24"
+    ],
+    "ipv6": [
+      "2a06:1301:4090::/48"
+    ]
+  }
+}

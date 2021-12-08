@@ -1,0 +1,12 @@
+{
+  "asn": 56146,
+  "handle": "GLOBALCORP-VN",
+  "description": "Global informatics solution corporation",
+  "subnets": {
+    "ipv4": [
+      "223.27.104.0/23",
+      "223.27.108.0/22"
+    ],
+    "ipv6": []
+  }
+}

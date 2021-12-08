@@ -1,0 +1,11 @@
+{
+  "asn": 272238,
+  "handle": "RCL-NET-PROVEDOR",
+  "description": "RCL NET PROVEDOR DE SERVIÇOS DE TELECOMUNICAÇÃO",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2804:8414::/32"
+    ]
+  }
+}

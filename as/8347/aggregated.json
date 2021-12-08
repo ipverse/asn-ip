@@ -1,0 +1,12 @@
+{
+  "asn": 8347,
+  "handle": "CALLCENTRIC-WHOLESALE-INC",
+  "description": "Callcentric Wholesale Inc",
+  "subnets": {
+    "ipv4": [
+      "192.117.64.0/20",
+      "192.117.208.0/20"
+    ],
+    "ipv6": []
+  }
+}

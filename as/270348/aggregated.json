@@ -1,0 +1,13 @@
+{
+  "asn": 270348,
+  "handle": "SIDIA-INSTITUTO-DE",
+  "description": "Sidia Instituto de Ciencia e Tecnologia",
+  "subnets": {
+    "ipv4": [
+      "190.83.28.0/22"
+    ],
+    "ipv6": [
+      "2801:80:38b0::/48"
+    ]
+  }
+}

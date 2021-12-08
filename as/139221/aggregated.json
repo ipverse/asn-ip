@@ -1,0 +1,13 @@
+{
+  "asn": 139221,
+  "handle": "AUVERA-AP",
+  "description": "AUVERA TECHNOLOGY GROUP PTY LTD",
+  "subnets": {
+    "ipv4": [
+      "103.139.249.0/24"
+    ],
+    "ipv6": [
+      "2001:df0:9d80::/48"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 57237,
+  "handle": "HEROS",
+  "description": "Heros Communication Holding Ltd.",
+  "subnets": {
+    "ipv4": [
+      "77.71.116.0/22",
+      "77.71.120.0/21"
+    ],
+    "ipv6": []
+  }
+}

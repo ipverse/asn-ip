@@ -1,0 +1,12 @@
+{
+  "asn": 268731,
+  "handle": "E@SY-INTERNET",
+  "description": "e@sy Internet",
+  "subnets": {
+    "ipv4": [
+      "45.171.212.0/24",
+      "45.171.214.0/23"
+    ],
+    "ipv6": []
+  }
+}

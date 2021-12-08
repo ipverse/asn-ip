@@ -1,0 +1,13 @@
+{
+  "asn": 271273,
+  "handle": "NET-FORT-TELECOM",
+  "description": "NET FORT Telecom",
+  "subnets": {
+    "ipv4": [
+      "45.229.132.0/22"
+    ],
+    "ipv6": [
+      "2804:78e8::/32"
+    ]
+  }
+}

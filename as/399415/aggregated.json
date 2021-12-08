@@ -1,0 +1,11 @@
+{
+  "asn": 399415,
+  "handle": "WPS-01",
+  "description": "Westminster Public Schools",
+  "subnets": {
+    "ipv4": [
+      "138.199.105.0/24"
+    ],
+    "ipv6": []
+  }
+}

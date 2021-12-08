@@ -1,0 +1,15 @@
+{
+  "asn": 23367,
+  "handle": "GENADAP",
+  "description": "Genesis Adaptive Hosting, INC.",
+  "subnets": {
+    "ipv4": [
+      "64.250.112.0/20",
+      "206.198.181.0/24",
+      "206.198.182.0/23"
+    ],
+    "ipv6": [
+      "2605:1080::/32"
+    ]
+  }
+}

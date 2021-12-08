@@ -1,0 +1,11 @@
+{
+  "asn": 31114,
+  "handle": "NAC-LT",
+  "description": "Fitek LT UAB",
+  "subnets": {
+    "ipv4": [
+      "193.23.59.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 49002,
+  "handle": "RUPOST",
+  "description": "JSC Russian Post",
+  "subnets": {
+    "ipv4": [
+      "91.215.36.0/22",
+      "195.209.150.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 268401,
+  "handle": "NETSTART-MULTIMIDIA-E",
+  "description": "NETSTART MULTIMIDIA E COMUNICACAO LTDA",
+  "subnets": {
+    "ipv4": [
+      "45.239.252.0/22"
+    ],
+    "ipv6": [
+      "2804:50a4:8000::/33"
+    ]
+  }
+}

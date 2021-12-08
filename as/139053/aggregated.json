@@ -1,0 +1,12 @@
+{
+  "asn": 139053,
+  "handle": "JHONGKARENGINEERS-AP",
+  "description": "Jhongkar Engineers",
+  "subnets": {
+    "ipv4": [
+      "103.138.250.0/23",
+      "103.214.82.0/24"
+    ],
+    "ipv6": []
+  }
+}

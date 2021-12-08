@@ -1,0 +1,11 @@
+{
+  "asn": 33270,
+  "handle": "PMCSAZ",
+  "description": "Preferred Medical Claim Solutions",
+  "subnets": {
+    "ipv4": [
+      "70.182.224.0/24"
+    ],
+    "ipv6": []
+  }
+}

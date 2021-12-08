@@ -1,0 +1,12 @@
+{
+  "asn": 62048,
+  "handle": "ACAI",
+  "description": "Avini cultural and Art Institute",
+  "subnets": {
+    "ipv4": [
+      "94.182.227.0/24",
+      "188.253.2.0/23"
+    ],
+    "ipv6": []
+  }
+}

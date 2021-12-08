@@ -1,0 +1,13 @@
+{
+  "asn": 133874,
+  "handle": "MYNIC-AP",
+  "description": "MYNIC Berhad",
+  "subnets": {
+    "ipv4": [
+      "103.44.108.0/24"
+    ],
+    "ipv6": [
+      "2001:ddc::/48"
+    ]
+  }
+}

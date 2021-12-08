@@ -1,0 +1,13 @@
+{
+  "asn": 264195,
+  "handle": "LAJENET-TELECOM",
+  "description": "Lajenet Telecom",
+  "subnets": {
+    "ipv4": [
+      "138.97.196.0/22"
+    ],
+    "ipv6": [
+      "2804:2400::/32"
+    ]
+  }
+}

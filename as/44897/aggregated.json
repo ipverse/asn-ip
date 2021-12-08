@@ -1,0 +1,12 @@
+{
+  "asn": 44897,
+  "handle": "MAG",
+  "description": "PE Grebenjukoff A V",
+  "subnets": {
+    "ipv4": [
+      "91.220.174.0/24",
+      "195.230.96.0/24"
+    ],
+    "ipv6": []
+  }
+}

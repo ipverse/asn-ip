@@ -1,0 +1,12 @@
+{
+  "asn": 29209,
+  "handle": "SPBMTS",
+  "description": "MTS PJSC",
+  "subnets": {
+    "ipv4": [
+      "5.144.125.0/24",
+      "217.66.144.0/22"
+    ],
+    "ipv6": []
+  }
+}

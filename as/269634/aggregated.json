@@ -1,0 +1,13 @@
+{
+  "asn": 269634,
+  "handle": "FIXTELL-TELECOM-NE-LTDA",
+  "description": "FIXTELL TELECOM NE LTDA",
+  "subnets": {
+    "ipv4": [
+      "45.190.120.0/22"
+    ],
+    "ipv6": [
+      "2804:6788::/32"
+    ]
+  }
+}

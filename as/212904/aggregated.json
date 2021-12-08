@@ -1,0 +1,11 @@
+{
+  "asn": 212904,
+  "handle": "FR-2LINFO",
+  "description": "2LINFO SARL",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a09:4c2:4a::/48"
+    ]
+  }
+}

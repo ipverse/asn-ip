@@ -1,0 +1,13 @@
+{
+  "asn": 52317,
+  "handle": "INTERNET-WINDS-AG",
+  "description": "Internet Winds AG",
+  "subnets": {
+    "ipv4": [
+      "190.112.40.0/22"
+    ],
+    "ipv6": [
+      "2803:720::/32"
+    ]
+  }
+}

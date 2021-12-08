@@ -1,0 +1,13 @@
+{
+  "asn": 44492,
+  "handle": "MKTECHNOLOGIYA",
+  "description": "MKTechnologiya Ltd.",
+  "subnets": {
+    "ipv4": [
+      "91.233.144.0/22",
+      "91.233.148.0/23",
+      "195.216.194.0/23"
+    ],
+    "ipv6": []
+  }
+}

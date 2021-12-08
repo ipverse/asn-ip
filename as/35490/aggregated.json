@@ -1,0 +1,11 @@
+{
+  "asn": 35490,
+  "handle": "SCJU-CLUJ",
+  "description": "Spitalul Clinic Judetean de Urgenta Cluj",
+  "subnets": {
+    "ipv4": [
+      "91.236.223.0/24"
+    ],
+    "ipv6": []
+  }
+}

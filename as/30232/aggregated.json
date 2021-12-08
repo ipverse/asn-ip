@@ -1,0 +1,11 @@
+{
+  "asn": 30232,
+  "handle": "MOVACI-US1",
+  "description": "Movaci Technology",
+  "subnets": {
+    "ipv4": [
+      "192.135.194.0/23"
+    ],
+    "ipv6": []
+  }
+}

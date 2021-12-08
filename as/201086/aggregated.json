@@ -1,0 +1,17 @@
+{
+  "asn": 201086,
+  "handle": "SERVERPLUS",
+  "description": "Mahsum Celik trading as ServerPlusInternet Sunucu Hizmetleri",
+  "subnets": {
+    "ipv4": [
+      "185.86.82.0/24",
+      "185.254.94.0/24",
+      "193.36.63.0/24"
+    ],
+    "ipv6": [
+      "2a05:6f80::/29",
+      "2a05:b700::/29",
+      "2a0b:8d00::/29"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 52806,
+  "handle": "ITMNETWORKS-LTDA",
+  "description": "ITMNETWORKS LTDA",
+  "subnets": {
+    "ipv4": [
+      "177.53.148.0/22"
+    ],
+    "ipv6": [
+      "2804:4154::/32"
+    ]
+  }
+}

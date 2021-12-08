@@ -1,0 +1,13 @@
+{
+  "asn": 264206,
+  "handle": "MIXCONECT-TELECOM-LTDA-ME",
+  "description": "Mixconect Telecom Ltda ME",
+  "subnets": {
+    "ipv4": [
+      "138.97.180.0/22"
+    ],
+    "ipv6": [
+      "2804:242c::/32"
+    ]
+  }
+}

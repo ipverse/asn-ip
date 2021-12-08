@@ -1,0 +1,14 @@
+{
+  "asn": 4043,
+  "handle": "MIC",
+  "description": "Montana Internet Corporation",
+  "subnets": {
+    "ipv4": [
+      "206.127.64.0/18",
+      "209.161.128.0/19"
+    ],
+    "ipv6": [
+      "2607:f6b8::/32"
+    ]
+  }
+}

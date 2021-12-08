@@ -1,0 +1,12 @@
+{
+  "asn": 45379,
+  "handle": "UNIST-KR-KR",
+  "description": "Ulsan National Institute of Science and Technology",
+  "subnets": {
+    "ipv4": [
+      "114.70.0.0/20",
+      "114.70.16.0/22"
+    ],
+    "ipv6": []
+  }
+}

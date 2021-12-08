@@ -1,0 +1,13 @@
+{
+  "asn": 53165,
+  "handle": "GUAIBA-TELECOM",
+  "description": "Guaiba Telecom",
+  "subnets": {
+    "ipv4": [
+      "186.216.240.0/20"
+    ],
+    "ipv6": [
+      "2804:190::/32"
+    ]
+  }
+}

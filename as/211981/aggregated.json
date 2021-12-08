@@ -1,0 +1,12 @@
+{
+  "asn": 211981,
+  "handle": "SERVICE-PI",
+  "description": "Argonet LLC",
+  "subnets": {
+    "ipv4": [
+      "185.139.116.0/23",
+      "185.139.119.0/24"
+    ],
+    "ipv6": []
+  }
+}

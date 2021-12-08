@@ -1,0 +1,13 @@
+{
+  "asn": 45675,
+  "handle": "KMN-TOKYO",
+  "description": "Jupiter Telecommunications Co., Ltd.",
+  "subnets": {
+    "ipv4": [
+      "203.174.224.0/19",
+      "210.4.160.0/19",
+      "219.111.192.0/20"
+    ],
+    "ipv6": []
+  }
+}

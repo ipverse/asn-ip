@@ -1,0 +1,13 @@
+{
+  "asn": 270082,
+  "handle": "IWAY-TELECOM-SOCIEDAD",
+  "description": "IWAY TELECOM SOCIEDAD ANONIMA CERRADA",
+  "subnets": {
+    "ipv4": [
+      "179.48.52.0/22"
+    ],
+    "ipv6": [
+      "2803:abe0::/32"
+    ]
+  }
+}

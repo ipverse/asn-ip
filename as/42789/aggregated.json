@@ -1,0 +1,14 @@
+{
+  "asn": 42789,
+  "handle": "GVDNET",
+  "description": "GVD Antenneforening",
+  "subnets": {
+    "ipv4": [
+      "92.43.72.0/21",
+      "193.33.190.0/23"
+    ],
+    "ipv6": [
+      "2a01:5e80::/32"
+    ]
+  }
+}

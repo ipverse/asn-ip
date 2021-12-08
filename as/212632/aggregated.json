@@ -1,0 +1,13 @@
+{
+  "asn": 212632,
+  "handle": "ALFALAVAL",
+  "description": "Alfa Laval Lund AB",
+  "subnets": {
+    "ipv4": [
+      "212.39.32.0/24",
+      "212.39.34.0/24",
+      "212.39.63.0/24"
+    ],
+    "ipv6": []
+  }
+}

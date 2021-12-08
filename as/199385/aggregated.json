@@ -1,0 +1,14 @@
+{
+  "asn": 199385,
+  "handle": "TSL",
+  "description": "Trustmarque Solutions Limited",
+  "subnets": {
+    "ipv4": [
+      "141.8.216.0/23",
+      "141.8.218.0/24",
+      "141.8.220.0/23",
+      "193.142.119.0/24"
+    ],
+    "ipv6": []
+  }
+}

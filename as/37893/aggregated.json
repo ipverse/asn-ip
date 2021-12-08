@@ -1,0 +1,13 @@
+{
+  "asn": 37893,
+  "handle": "TRADEWEB-TKO",
+  "description": "TradeWeb Europe Limited",
+  "subnets": {
+    "ipv4": [
+      "195.217.200.0/24",
+      "202.6.119.0/24",
+      "202.129.254.0/24"
+    ],
+    "ipv6": []
+  }
+}

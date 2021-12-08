@@ -1,0 +1,11 @@
+{
+  "asn": 5003,
+  "handle": "GIGAN-2",
+  "description": "Insync Internet Services, Inc.",
+  "subnets": {
+    "ipv4": [
+      "207.170.64.0/18"
+    ],
+    "ipv6": []
+  }
+}

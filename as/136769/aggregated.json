@@ -1,0 +1,12 @@
+{
+  "asn": 136769,
+  "handle": "WINGTECJAPANGK-AP",
+  "description": "WingTecJapan G.K",
+  "subnets": {
+    "ipv4": [
+      "103.100.189.0/24",
+      "103.100.190.0/23"
+    ],
+    "ipv6": []
+  }
+}

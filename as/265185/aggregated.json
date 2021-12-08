@@ -1,0 +1,14 @@
+{
+  "asn": 265185,
+  "handle": "VIANET-LTDA-ME",
+  "description": "VIANET LTDA ME",
+  "subnets": {
+    "ipv4": [
+      "167.250.0.0/22",
+      "168.196.16.0/22"
+    ],
+    "ipv6": [
+      "2804:2bf8::/32"
+    ]
+  }
+}

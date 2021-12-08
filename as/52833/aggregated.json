@@ -1,0 +1,14 @@
+{
+  "asn": 52833,
+  "handle": "GLOBOTECH-TELECOM-LTDA-ME",
+  "description": "GLOBOTECH TELECOM LTDA - ME",
+  "subnets": {
+    "ipv4": [
+      "138.94.80.0/22",
+      "177.53.196.0/22"
+    ],
+    "ipv6": [
+      "2804:27ac::/32"
+    ]
+  }
+}

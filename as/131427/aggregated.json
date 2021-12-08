@@ -1,0 +1,12 @@
+{
+  "asn": 131427,
+  "handle": "AOHOAVIET-VN",
+  "description": "AOHOAVIET-VN",
+  "subnets": {
+    "ipv4": [
+      "103.53.228.0/22",
+      "103.127.192.0/22"
+    ],
+    "ipv6": []
+  }
+}

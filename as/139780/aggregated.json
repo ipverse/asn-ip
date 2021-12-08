@@ -1,0 +1,12 @@
+{
+  "asn": 139780,
+  "handle": "BIC-AP",
+  "description": "Brother\u0027s ICT Connectivity",
+  "subnets": {
+    "ipv4": [
+      "103.115.254.0/24",
+      "103.145.45.0/24"
+    ],
+    "ipv6": []
+  }
+}

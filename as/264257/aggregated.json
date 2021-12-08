@@ -1,0 +1,11 @@
+{
+  "asn": 264257,
+  "handle": "LIVRE-WIFI-TELECOM",
+  "description": "Livre WiFi Telecom",
+  "subnets": {
+    "ipv4": [
+      "138.118.108.0/22"
+    ],
+    "ipv6": []
+  }
+}

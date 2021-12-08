@@ -1,0 +1,13 @@
+{
+  "asn": 25500,
+  "handle": "NTUU-KPI",
+  "description": "Association of users of Ukrainian Research \u0026 Academic Network URAN",
+  "subnets": {
+    "ipv4": [
+      "77.47.128.0/17"
+    ],
+    "ipv6": [
+      "2a02:db0::/32"
+    ]
+  }
+}

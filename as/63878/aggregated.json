@@ -1,0 +1,11 @@
+{
+  "asn": 63878,
+  "handle": "VICTORYNET-ID",
+  "description": "PT Victory Network Indonesia",
+  "subnets": {
+    "ipv4": [
+      "103.236.188.0/22"
+    ],
+    "ipv6": []
+  }
+}

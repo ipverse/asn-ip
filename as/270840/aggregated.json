@@ -1,0 +1,13 @@
+{
+  "asn": 270840,
+  "handle": "ESTADO-VIRTUAL-SOLUCOES",
+  "description": "Estado Virtual Soluções em Tecnologia",
+  "subnets": {
+    "ipv4": [
+      "179.0.168.0/22"
+    ],
+    "ipv6": [
+      "2804:7238::/32"
+    ]
+  }
+}

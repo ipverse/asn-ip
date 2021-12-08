@@ -1,0 +1,14 @@
+{
+  "asn": 61741,
+  "handle": "FG-INTERLIGA-LTDA",
+  "description": "FG INTERLIGA LTDA",
+  "subnets": {
+    "ipv4": [
+      "131.72.192.0/22",
+      "170.82.184.0/22"
+    ],
+    "ipv6": [
+      "2804:1ba4::/32"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 135369,
+  "handle": "EBDC-AP",
+  "description": "ENTERPRISE \u0026 BUSINESS DATE CENTRE (HK) LIMITED",
+  "subnets": {
+    "ipv4": [
+      "103.103.244.0/24",
+      "103.215.124.0/23",
+      "157.119.20.0/24"
+    ],
+    "ipv6": []
+  }
+}

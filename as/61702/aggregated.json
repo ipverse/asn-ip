@@ -1,0 +1,13 @@
+{
+  "asn": 61702,
+  "handle": "DELTA-TELECOM",
+  "description": "DELTA TELECOM",
+  "subnets": {
+    "ipv4": [
+      "131.0.220.0/22"
+    ],
+    "ipv6": [
+      "2804:1afc::/32"
+    ]
+  }
+}

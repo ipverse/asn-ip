@@ -1,0 +1,12 @@
+{
+  "asn": 140806,
+  "handle": "PVS-VN",
+  "description": "PVS TELECOM CO.LTD.,",
+  "subnets": {
+    "ipv4": [
+      "103.168.50.0/23",
+      "103.176.92.0/24"
+    ],
+    "ipv6": []
+  }
+}

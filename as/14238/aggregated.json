@@ -1,0 +1,12 @@
+{
+  "asn": 14238,
+  "handle": "INNOVATIVE-NETWORKS",
+  "description": "Innovative Networks LLC",
+  "subnets": {
+    "ipv4": [
+      "104.153.176.0/22",
+      "199.15.128.0/21"
+    ],
+    "ipv6": []
+  }
+}

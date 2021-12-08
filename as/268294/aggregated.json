@@ -1,0 +1,13 @@
+{
+  "asn": 268294,
+  "handle": "NOVOLINK-FIBRA",
+  "description": "NovoLink Fibra",
+  "subnets": {
+    "ipv4": [
+      "45.237.196.0/22"
+    ],
+    "ipv6": [
+      "2804:4ef4::/32"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 37639,
+  "handle": "WANATEL",
+  "description": "Platoon trade and Invest 149 PTy",
+  "subnets": {
+    "ipv4": [
+      "169.255.44.0/23",
+      "196.6.122.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 399139,
+  "handle": "CLOUDFITTERS-NTW-01",
+  "description": "Cloudfitters",
+  "subnets": {
+    "ipv4": [
+      "193.22.144.0/24",
+      "209.142.68.0/24"
+    ],
+    "ipv6": [
+      "2602:fea7:d00::/40"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 209315,
+  "handle": "TROLLHATTAN-ENERGI",
+  "description": "Trollhattan Energi AB",
+  "subnets": {
+    "ipv4": [
+      "193.180.232.0/24",
+      "193.180.234.0/24"
+    ],
+    "ipv6": []
+  }
+}

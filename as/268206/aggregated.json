@@ -1,0 +1,11 @@
+{
+  "asn": 268206,
+  "handle": "COMMUNITY-NET-INTERNET",
+  "description": "Community Net Internet e Informática",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2804:4d94::/32"
+    ]
+  }
+}

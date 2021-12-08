@@ -1,0 +1,11 @@
+{
+  "asn": 38693,
+  "handle": "TSNET-KR-KR",
+  "description": "Korea Transportation Safety Authority",
+  "subnets": {
+    "ipv4": [
+      "183.101.94.0/23"
+    ],
+    "ipv6": []
+  }
+}

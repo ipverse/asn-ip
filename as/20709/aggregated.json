@@ -1,0 +1,12 @@
+{
+  "asn": 20709,
+  "handle": "TICOM",
+  "description": "Techinform Ltd",
+  "subnets": {
+    "ipv4": [
+      "81.17.137.0/24",
+      "81.17.143.0/24"
+    ],
+    "ipv6": []
+  }
+}

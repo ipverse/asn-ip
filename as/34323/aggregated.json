@@ -1,0 +1,11 @@
+{
+  "asn": 34323,
+  "handle": "IPCOM",
+  "description": "IP Com Ltd",
+  "subnets": {
+    "ipv4": [
+      "185.93.186.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asn": 269448,
+  "handle": "GIGNET-TELECOM",
+  "description": "Gignet Telecom",
+  "subnets": {
+    "ipv4": [
+      "45.187.16.0/22"
+    ],
+    "ipv6": []
+  }
+}

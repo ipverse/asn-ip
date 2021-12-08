@@ -1,0 +1,11 @@
+{
+  "asn": 56569,
+  "handle": "KOMBANK",
+  "description": "Komercijalna banka a.d. Beograd",
+  "subnets": {
+    "ipv4": [
+      "192.162.52.0/22"
+    ],
+    "ipv6": []
+  }
+}

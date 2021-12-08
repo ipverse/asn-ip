@@ -1,0 +1,13 @@
+{
+  "asn": 267566,
+  "handle": "EMERSON-FREITAS-MOTA",
+  "description": "EMERSON FREITAS MOTA",
+  "subnets": {
+    "ipv4": [
+      "45.70.64.0/22"
+    ],
+    "ipv6": [
+      "2804:4360::/32"
+    ]
+  }
+}

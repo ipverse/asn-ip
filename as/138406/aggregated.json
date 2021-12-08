@@ -1,0 +1,11 @@
+{
+  "asn": 138406,
+  "handle": "NAHID-AP",
+  "description": "Nahid Internet Services",
+  "subnets": {
+    "ipv4": [
+      "103.161.150.0/24"
+    ],
+    "ipv6": []
+  }
+}

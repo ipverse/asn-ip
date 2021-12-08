@@ -1,0 +1,13 @@
+{
+  "asn": 270037,
+  "handle": "COMWIFI-TELECOMUNICACIONES-EIRL",
+  "description": "COMWIFI TELECOMUNICACIONES E.I.R.L",
+  "subnets": {
+    "ipv4": [
+      "191.52.212.0/22"
+    ],
+    "ipv6": [
+      "2803:15e0::/32"
+    ]
+  }
+}

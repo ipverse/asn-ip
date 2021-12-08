@@ -1,0 +1,13 @@
+{
+  "asn": 269848,
+  "handle": "UNIVERSIDAD-REGIONAL-AMAZONICA",
+  "description": "UNIVERSIDAD REGIONAL AMAZÓNICA IKIAM",
+  "subnets": {
+    "ipv4": [
+      "45.182.117.0/24"
+    ],
+    "ipv6": [
+      "2801:1f:4800::/48"
+    ]
+  }
+}

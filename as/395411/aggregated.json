@@ -1,0 +1,11 @@
+{
+  "asn": 395411,
+  "handle": "SMY-ISP",
+  "description": "City of Smyrna, GA",
+  "subnets": {
+    "ipv4": [
+      "38.66.223.0/24"
+    ],
+    "ipv6": []
+  }
+}

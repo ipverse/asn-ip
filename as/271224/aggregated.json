@@ -1,0 +1,13 @@
+{
+  "asn": 271224,
+  "handle": "CONNECT-TELECOMUNICACOES-FIBRA",
+  "description": "CONNECT TELECOMUNICACOES FIBRA OPTICA LTDA",
+  "subnets": {
+    "ipv4": [
+      "179.49.212.0/22"
+    ],
+    "ipv6": [
+      "2804:7828::/32"
+    ]
+  }
+}

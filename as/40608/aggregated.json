@@ -1,0 +1,12 @@
+{
+  "asn": 40608,
+  "handle": "HCTNEBRASKA",
+  "description": "HERSHEY COOPERATIVE TELEPHONE CO",
+  "subnets": {
+    "ipv4": [
+      "192.52.74.0/23",
+      "199.27.64.0/22"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 28142,
+  "handle": "DIGITAL-DESIGN-SERVICOS",
+  "description": "DIGITAL DESIGN SERVIÇOS DE TELECOMUNICAÇÕES EIRELI",
+  "subnets": {
+    "ipv4": [
+      "186.224.64.0/20",
+      "187.49.80.0/20"
+    ],
+    "ipv6": [
+      "2804:fc::/32"
+    ]
+  }
+}

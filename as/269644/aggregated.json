@@ -1,0 +1,13 @@
+{
+  "asn": 269644,
+  "handle": "FORMOSA-INTERNET-E",
+  "description": "FORMOSA INTERNET E TELECOMUNICAÇÕES LTDA",
+  "subnets": {
+    "ipv4": [
+      "45.190.88.0/22"
+    ],
+    "ipv6": [
+      "2804:67b0::/32"
+    ]
+  }
+}

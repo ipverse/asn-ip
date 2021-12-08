@@ -1,0 +1,11 @@
+{
+  "asn": 201100,
+  "handle": "ANET-MAIN",
+  "description": "LLC Demo-Club",
+  "subnets": {
+    "ipv4": [
+      "185.85.216.0/22"
+    ],
+    "ipv6": []
+  }
+}

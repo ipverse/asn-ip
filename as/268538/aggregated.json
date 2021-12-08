@@ -1,0 +1,13 @@
+{
+  "asn": 268538,
+  "handle": "CONECTA-NETWORK-TELECOM-LTDA",
+  "description": "Conecta Network Telecom LTDA",
+  "subnets": {
+    "ipv4": [
+      "45.162.196.0/22"
+    ],
+    "ipv6": [
+      "2804:52bc::/32"
+    ]
+  }
+}

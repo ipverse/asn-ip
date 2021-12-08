@@ -1,0 +1,11 @@
+{
+  "asn": 266716,
+  "handle": "CABLE-VIDEO-PERU-SAC",
+  "description": "CABLE VIDEO PERU SAC",
+  "subnets": {
+    "ipv4": [
+      "45.230.196.0/22"
+    ],
+    "ipv6": []
+  }
+}

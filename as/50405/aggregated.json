@@ -1,0 +1,12 @@
+{
+  "asn": 50405,
+  "handle": "SLOG",
+  "description": "Swisslog Holding AG",
+  "subnets": {
+    "ipv4": [
+      "193.8.200.0/24",
+      "194.56.228.0/23"
+    ],
+    "ipv6": []
+  }
+}

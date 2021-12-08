@@ -1,0 +1,11 @@
+{
+  "asn": 142123,
+  "handle": "CNBN1-AP",
+  "description": "Central Net Broadband Network",
+  "subnets": {
+    "ipv4": [
+      "103.166.166.0/23"
+    ],
+    "ipv6": []
+  }
+}

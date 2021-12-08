@@ -1,0 +1,12 @@
+{
+  "asn": 147071,
+  "handle": "BOCHENGZOU-CN",
+  "description": "Aperture Science Limited",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2602:feda:df0::/48",
+      "2602:feda:dff::/48"
+    ]
+  }
+}

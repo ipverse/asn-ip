@@ -1,0 +1,14 @@
+{
+  "asn": 132351,
+  "handle": "NPCINET-IN",
+  "description": "National Payment Corporation Of India",
+  "subnets": {
+    "ipv4": [
+      "103.14.161.0/24",
+      "103.14.162.0/24"
+    ],
+    "ipv6": [
+      "2001:df0:2f3::/48"
+    ]
+  }
+}

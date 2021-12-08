@@ -1,0 +1,13 @@
+{
+  "asn": 266736,
+  "handle": "UNIVERSIDAD-TECNOLOGICA-DE",
+  "description": "Universidad Tecnologica de Pereira",
+  "subnets": {
+    "ipv4": [
+      "201.131.90.0/23"
+    ],
+    "ipv6": [
+      "2801:0:4c0::/48"
+    ]
+  }
+}

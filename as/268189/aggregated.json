@@ -1,0 +1,13 @@
+{
+  "asn": 268189,
+  "handle": "CHAPECO-VOIP-TELECOMUNICACOES",
+  "description": "CHAPECÓ VOIP TELECOMUNICAÇÕES",
+  "subnets": {
+    "ipv4": [
+      "45.235.136.0/22"
+    ],
+    "ipv6": [
+      "2804:4d50::/32"
+    ]
+  }
+}

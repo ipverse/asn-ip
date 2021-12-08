@@ -1,0 +1,12 @@
+{
+  "asn": 199723,
+  "handle": "STRZYZOWSKI-NET",
+  "description": "Strzyzowski.Net Janusz Gomolka spolka komandytowa",
+  "subnets": {
+    "ipv4": [
+      "185.41.128.0/22",
+      "185.252.180.0/22"
+    ],
+    "ipv6": []
+  }
+}

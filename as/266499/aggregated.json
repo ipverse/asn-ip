@@ -1,0 +1,11 @@
+{
+  "asn": 266499,
+  "handle": "HC-TELECOM-PROVEDOR",
+  "description": "HC TELECOM PROVEDOR DE INTERNET EIRELI-ME",
+  "subnets": {
+    "ipv4": [
+      "170.244.148.0/22"
+    ],
+    "ipv6": []
+  }
+}

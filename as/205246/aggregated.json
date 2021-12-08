@@ -1,0 +1,11 @@
+{
+  "asn": 205246,
+  "handle": "RU-SOCHITEL",
+  "description": "LLC SochiTelecom",
+  "subnets": {
+    "ipv4": [
+      "185.39.18.0/24"
+    ],
+    "ipv6": []
+  }
+}

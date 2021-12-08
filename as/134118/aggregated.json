@@ -1,0 +1,14 @@
+{
+  "asn": 134118,
+  "handle": "BECA3-AP",
+  "description": "Beca Corporate Holdings Limited",
+  "subnets": {
+    "ipv4": [
+      "202.27.124.0/22"
+    ],
+    "ipv6": [
+      "2402:3580:8011::/48",
+      "2402:3580:9011::/48"
+    ]
+  }
+}

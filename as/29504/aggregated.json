@@ -1,0 +1,13 @@
+{
+  "asn": 29504,
+  "handle": "LBCFREE",
+  "description": "Freenet Liberec, z.s.",
+  "subnets": {
+    "ipv4": [
+      "185.193.84.0/22"
+    ],
+    "ipv6": [
+      "2a0a:3640::/29"
+    ]
+  }
+}

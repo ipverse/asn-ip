@@ -1,0 +1,12 @@
+{
+  "asn": 28721,
+  "handle": "ALLNET-CLOUD",
+  "description": "ALLNET CLOUD SRL",
+  "subnets": {
+    "ipv4": [
+      "81.180.83.0/24",
+      "81.181.199.0/24"
+    ],
+    "ipv6": []
+  }
+}

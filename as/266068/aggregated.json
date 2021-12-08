@@ -1,0 +1,13 @@
+{
+  "asn": 266068,
+  "handle": "TRIBUNAL-DE-JUSTICA",
+  "description": "Tribunal de Justiça do Estado de Sergipe",
+  "subnets": {
+    "ipv4": [
+      "45.5.14.0/24"
+    ],
+    "ipv6": [
+      "2801:80:1c20::/48"
+    ]
+  }
+}

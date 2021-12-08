@@ -1,0 +1,13 @@
+{
+  "asn": 62989,
+  "handle": "IUP",
+  "description": "Indiana University of Pennsylvania",
+  "subnets": {
+    "ipv4": [
+      "144.80.0.0/16",
+      "192.231.220.0/24",
+      "204.108.176.0/23"
+    ],
+    "ipv6": []
+  }
+}

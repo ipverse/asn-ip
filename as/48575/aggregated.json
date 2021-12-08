@@ -1,0 +1,12 @@
+{
+  "asn": 48575,
+  "handle": "KEYNET-CLOUD",
+  "description": "Keynet AG",
+  "subnets": {
+    "ipv4": [
+      "185.156.220.0/23",
+      "185.156.222.0/24"
+    ],
+    "ipv6": []
+  }
+}

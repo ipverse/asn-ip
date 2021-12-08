@@ -1,0 +1,14 @@
+{
+  "asn": 263089,
+  "handle": "V-DE-M-VARGAS",
+  "description": "V de M Vargas",
+  "subnets": {
+    "ipv4": [
+      "168.195.232.0/22",
+      "186.250.24.0/22"
+    ],
+    "ipv6": [
+      "2804:2a60::/32"
+    ]
+  }
+}

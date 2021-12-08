@@ -1,0 +1,13 @@
+{
+  "asn": 210072,
+  "handle": "ARCTARUS",
+  "description": "Arctarus Limited",
+  "subnets": {
+    "ipv4": [
+      "185.167.182.0/24"
+    ],
+    "ipv6": [
+      "2a10:4a80::/32"
+    ]
+  }
+}

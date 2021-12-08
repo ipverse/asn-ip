@@ -1,0 +1,13 @@
+{
+  "asn": 270288,
+  "handle": "WISP-SOLUCOES-DE-ACESSO-LTDA",
+  "description": "WISP SOLUCOES DE ACESSO LTDA",
+  "subnets": {
+    "ipv4": [
+      "200.123.232.0/22"
+    ],
+    "ipv6": [
+      "2804:69bc:8000::/33"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 64446,
+  "handle": "DE-ROHWERDER",
+  "description": "Rohwerder Datasystems GmbH",
+  "subnets": {
+    "ipv4": [
+      "185.155.192.0/22",
+      "194.93.8.0/22"
+    ],
+    "ipv6": []
+  }
+}

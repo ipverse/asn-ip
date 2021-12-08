@@ -1,0 +1,13 @@
+{
+  "asn": 202188,
+  "handle": "TIMRA",
+  "description": "Timra Kommun",
+  "subnets": {
+    "ipv4": [
+      "194.132.8.0/24"
+    ],
+    "ipv6": [
+      "2001:67c:748::/48"
+    ]
+  }
+}

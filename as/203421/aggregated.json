@@ -1,0 +1,14 @@
+{
+  "asn": 203421,
+  "handle": "BALTICBROADBAND",
+  "description": "Baltic Broadband Limited",
+  "subnets": {
+    "ipv4": [
+      "185.135.104.0/22",
+      "193.160.188.0/22"
+    ],
+    "ipv6": [
+      "2a06:f300::/29"
+    ]
+  }
+}

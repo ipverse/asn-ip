@@ -1,0 +1,12 @@
+{
+  "asn": 212705,
+  "handle": "GEEKNET",
+  "description": "GEEK NETWORKS PTY LIMITED",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2406:9dc0:70::/44",
+      "2602:feda:b70::/48"
+    ]
+  }
+}

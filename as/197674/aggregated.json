@@ -1,0 +1,12 @@
+{
+  "asn": 197674,
+  "handle": "WIN-DSL",
+  "description": "WIN DSL s.a.r.l",
+  "subnets": {
+    "ipv4": [
+      "95.129.0.0/21",
+      "185.72.216.0/22"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asn": 63983,
+  "handle": "QLDHEALTH-AP",
+  "description": "Queensland Health",
+  "subnets": {
+    "ipv4": [
+      "165.86.40.0/21"
+    ],
+    "ipv6": []
+  }
+}

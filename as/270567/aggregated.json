@@ -1,0 +1,13 @@
+{
+  "asn": 270567,
+  "handle": "CONNECT-TI-TELECOM",
+  "description": "CONNECT TI \u0026 TELECOM",
+  "subnets": {
+    "ipv4": [
+      "201.216.80.0/22"
+    ],
+    "ipv6": [
+      "2804:6df8::/32"
+    ]
+  }
+}

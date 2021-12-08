@@ -1,0 +1,13 @@
+{
+  "asn": 62366,
+  "handle": "STOLICA",
+  "description": "Stolica Telecom Ltd.",
+  "subnets": {
+    "ipv4": [
+      "93.171.135.0/24",
+      "95.46.1.0/24",
+      "146.158.76.0/23"
+    ],
+    "ipv6": []
+  }
+}

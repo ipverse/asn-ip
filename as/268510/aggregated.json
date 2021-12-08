@@ -1,0 +1,13 @@
+{
+  "asn": 268510,
+  "handle": "JS-INTERNET",
+  "description": "JS INTERNET",
+  "subnets": {
+    "ipv4": [
+      "45.161.144.0/22"
+    ],
+    "ipv6": [
+      "2804:5250::/32"
+    ]
+  }
+}

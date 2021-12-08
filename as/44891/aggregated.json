@@ -1,0 +1,14 @@
+{
+  "asn": 44891,
+  "handle": "AS24SEVEN",
+  "description": "24 Seven Communications Ltd",
+  "subnets": {
+    "ipv4": [
+      "93.94.120.0/21",
+      "185.86.216.0/24"
+    ],
+    "ipv6": [
+      "2a00:9ce0::/32"
+    ]
+  }
+}

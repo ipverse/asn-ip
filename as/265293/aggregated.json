@@ -1,0 +1,11 @@
+{
+  "asn": 265293,
+  "handle": "SPEEDMAX-INTERNET-BANDA-LARGA",
+  "description": "SPEEDMAX INTERNET BANDA LARGA",
+  "subnets": {
+    "ipv4": [
+      "168.121.12.0/22"
+    ],
+    "ipv6": []
+  }
+}

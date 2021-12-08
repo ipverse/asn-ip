@@ -1,0 +1,13 @@
+{
+  "asn": 13238,
+  "handle": "YANDEX",
+  "description": "YANDEX LLC",
+  "subnets": {
+    "ipv4": [
+      "93.158.179.0/24"
+    ],
+    "ipv6": [
+      "2a02:6b8:81::/48"
+    ]
+  }
+}

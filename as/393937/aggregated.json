@@ -1,0 +1,11 @@
+{
+  "asn": 393937,
+  "handle": "MCS-PUBLIC-NET",
+  "description": "Medical Card System, Inc.",
+  "subnets": {
+    "ipv4": [
+      "192.107.111.0/24"
+    ],
+    "ipv6": []
+  }
+}

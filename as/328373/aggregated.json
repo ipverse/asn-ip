@@ -1,0 +1,11 @@
+{
+  "asn": 328373,
+  "handle": "VILLAGE-OPERATOR",
+  "description": "Village Operator",
+  "subnets": {
+    "ipv4": [
+      "102.131.60.0/22"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 59859,
+  "handle": "CERISEMEDIA",
+  "description": "Cerise Media SAS",
+  "subnets": {
+    "ipv4": [
+      "185.68.148.0/22"
+    ],
+    "ipv6": [
+      "2a03:2be0::/32"
+    ]
+  }
+}

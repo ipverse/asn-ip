@@ -1,0 +1,13 @@
+{
+  "asn": 267457,
+  "handle": "INTERMAX-INTERNET-LTDA",
+  "description": "INTERMAX INTERNET LTDA",
+  "subnets": {
+    "ipv4": [
+      "181.191.192.0/22"
+    ],
+    "ipv6": [
+      "2804:41cc::/32"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asn": 140459,
+  "handle": "STREAKY-ID",
+  "description": "PT Mikrotik Indonesia Streaky",
+  "subnets": {
+    "ipv4": [
+      "103.153.82.0/23"
+    ],
+    "ipv6": []
+  }
+}

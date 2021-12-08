@@ -1,0 +1,16 @@
+{
+  "asn": 12079,
+  "handle": "CELLCO-PART",
+  "description": "MCI Communications Services, Inc. d/b/a Verizon Business",
+  "subnets": {
+    "ipv4": [
+      "137.188.0.0/16",
+      "153.114.0.0/16",
+      "162.115.0.0/18",
+      "162.115.128.0/18"
+    ],
+    "ipv6": [
+      "2620:101:b000::/41"
+    ]
+  }
+}

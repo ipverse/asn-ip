@@ -1,0 +1,11 @@
+{
+  "asn": 131430,
+  "handle": "BAOVIETBANK-VN",
+  "description": "Bao Viet bank",
+  "subnets": {
+    "ipv4": [
+      "103.56.168.0/22"
+    ],
+    "ipv6": []
+  }
+}

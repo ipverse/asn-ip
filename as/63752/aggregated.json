@@ -1,0 +1,13 @@
+{
+  "asn": 63752,
+  "handle": "ICTHOABINH-VN",
+  "description": "Hoa Binh Department of Information and Communications",
+  "subnets": {
+    "ipv4": [
+      "103.211.212.0/22"
+    ],
+    "ipv6": [
+      "2001:df0:6480::/48"
+    ]
+  }
+}

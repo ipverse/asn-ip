@@ -1,0 +1,13 @@
+{
+  "asn": 8296,
+  "handle": "HBVB",
+  "description": "HBVB Private Unlimited",
+  "subnets": {
+    "ipv4": [
+      "185.123.237.0/24",
+      "185.123.238.0/24",
+      "194.50.118.0/24"
+    ],
+    "ipv6": []
+  }
+}

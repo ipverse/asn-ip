@@ -1,0 +1,14 @@
+{
+  "asn": 132894,
+  "handle": "TPIXPL-AP",
+  "description": "TPIX PTY LTD",
+  "subnets": {
+    "ipv4": [
+      "103.27.132.0/22"
+    ],
+    "ipv6": [
+      "2402:7b40::/32",
+      "2405:fa80::/32"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 132837,
+  "handle": "OTSB-AP",
+  "description": "Orient Telecoms Sdn. Bhd",
+  "subnets": {
+    "ipv4": [
+      "103.248.108.0/22"
+    ],
+    "ipv6": [
+      "2406:f700::/32"
+    ]
+  }
+}

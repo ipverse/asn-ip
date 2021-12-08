@@ -1,0 +1,12 @@
+{
+  "asn": 34190,
+  "handle": "MICROCOM-UA",
+  "description": "Microcom Ltd.",
+  "subnets": {
+    "ipv4": [
+      "193.107.24.0/22",
+      "195.95.210.0/23"
+    ],
+    "ipv6": []
+  }
+}

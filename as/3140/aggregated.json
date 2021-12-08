@@ -1,0 +1,13 @@
+{
+  "asn": 3140,
+  "handle": "TJHSST",
+  "description": "The Thomas Jefferson High School for Science and Tech.",
+  "subnets": {
+    "ipv4": [
+      "198.38.16.0/20"
+    ],
+    "ipv6": [
+      "2001:468:cc0::/48"
+    ]
+  }
+}

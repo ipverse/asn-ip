@@ -1,0 +1,14 @@
+{
+  "asn": 265962,
+  "handle": "WASAT-TELECOM-LTDA-ME",
+  "description": "Wasat Telecom Ltda - Me",
+  "subnets": {
+    "ipv4": [
+      "164.163.140.0/22"
+    ],
+    "ipv6": [
+      "2804:1a14:3000::/36",
+      "2804:407c::/32"
+    ]
+  }
+}

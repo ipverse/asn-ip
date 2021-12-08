@@ -1,0 +1,12 @@
+{
+  "asn": 8120,
+  "handle": "BESTWEB",
+  "description": "First Light Fiber",
+  "subnets": {
+    "ipv4": [
+      "209.94.96.0/19",
+      "216.179.0.0/17"
+    ],
+    "ipv6": []
+  }
+}

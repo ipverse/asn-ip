@@ -1,0 +1,11 @@
+{
+  "asn": 60010,
+  "handle": "FIVENEINS",
+  "description": "Five Neins Inc",
+  "subnets": {
+    "ipv4": [
+      "194.50.199.0/24"
+    ],
+    "ipv6": []
+  }
+}

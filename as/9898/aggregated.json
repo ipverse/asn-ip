@@ -1,0 +1,12 @@
+{
+  "asn": 9898,
+  "handle": "IQHIVE-AP",
+  "description": "Bypass Network Services",
+  "subnets": {
+    "ipv4": [
+      "202.36.16.0/21",
+      "202.36.24.0/22"
+    ],
+    "ipv6": []
+  }
+}

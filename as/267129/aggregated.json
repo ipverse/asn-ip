@@ -1,0 +1,13 @@
+{
+  "asn": 267129,
+  "handle": "PIMENTEL-NETWORK-LTDA",
+  "description": "Pimentel Network LTDA",
+  "subnets": {
+    "ipv4": [
+      "45.229.160.0/22"
+    ],
+    "ipv6": [
+      "2804:4890::/33"
+    ]
+  }
+}

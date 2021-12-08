@@ -1,0 +1,11 @@
+{
+  "asn": 269114,
+  "handle": "NRCONNECT-INTERNET",
+  "description": "NRConnect Internet",
+  "subnets": {
+    "ipv4": [
+      "45.180.28.0/22"
+    ],
+    "ipv6": []
+  }
+}

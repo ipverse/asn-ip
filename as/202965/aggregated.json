@@ -1,0 +1,12 @@
+{
+  "asn": 202965,
+  "handle": "DONTV-PRIM",
+  "description": "Dontv-Prim SRL",
+  "subnets": {
+    "ipv4": [
+      "45.67.117.0/24",
+      "91.242.72.0/23"
+    ],
+    "ipv6": []
+  }
+}

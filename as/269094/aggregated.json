@@ -1,0 +1,14 @@
+{
+  "asn": 269094,
+  "handle": "LIG10-TELECOMUNICACOES-EIRELI",
+  "description": "LIG10 TELECOMUNICACOES EIRELI",
+  "subnets": {
+    "ipv4": [
+      "45.179.176.0/22",
+      "45.238.7.0/24"
+    ],
+    "ipv6": [
+      "2804:5f5c::/32"
+    ]
+  }
+}

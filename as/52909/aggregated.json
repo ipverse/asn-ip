@@ -1,0 +1,13 @@
+{
+  "asn": 52909,
+  "handle": "VOX-TELECOMUNICACOES-DO",
+  "description": "Vox Telecomunicações do Brasil Ltda",
+  "subnets": {
+    "ipv4": [
+      "177.23.136.0/21"
+    ],
+    "ipv6": [
+      "2804:ab4::/32"
+    ]
+  }
+}

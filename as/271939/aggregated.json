@@ -1,0 +1,11 @@
+{
+  "asn": 271939,
+  "handle": "REDES-ELIAS-CA",
+  "description": "REDES ELIAS, C.A.",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2803:4610::/32"
+    ]
+  }
+}

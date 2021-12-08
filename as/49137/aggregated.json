@@ -1,0 +1,12 @@
+{
+  "asn": 49137,
+  "handle": "REALNOT",
+  "description": "ADSN",
+  "subnets": {
+    "ipv4": [
+      "84.246.216.0/22",
+      "84.246.220.0/24"
+    ],
+    "ipv6": []
+  }
+}

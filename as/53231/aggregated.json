@@ -1,0 +1,14 @@
+{
+  "asn": 53231,
+  "handle": "GRUPOHOST-COMUNICACAO-MULTIMIDIA",
+  "description": "GRUPOHOST COMUNICACAO MULTIMIDIA LTDA",
+  "subnets": {
+    "ipv4": [
+      "131.72.60.0/22",
+      "177.8.160.0/20"
+    ],
+    "ipv6": [
+      "2804:1674::/32"
+    ]
+  }
+}

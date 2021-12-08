@@ -1,0 +1,14 @@
+{
+  "asn": 37305,
+  "handle": "FON",
+  "description": "Frontier Optical Networks Ltd",
+  "subnets": {
+    "ipv4": [
+      "41.79.8.0/22",
+      "197.231.176.0/21"
+    ],
+    "ipv6": [
+      "2c0f:fc70::/32"
+    ]
+  }
+}

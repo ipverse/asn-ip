@@ -1,0 +1,12 @@
+{
+  "asn": 40284,
+  "handle": "GSCBN",
+  "description": "Glenwood Springs Community Broadband Network",
+  "subnets": {
+    "ipv4": [
+      "74.114.4.0/22",
+      "208.72.64.0/21"
+    ],
+    "ipv6": []
+  }
+}

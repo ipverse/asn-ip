@@ -1,0 +1,14 @@
+{
+  "asn": 59584,
+  "handle": "INDIKOM",
+  "description": "INDIKOM LLC",
+  "subnets": {
+    "ipv4": [
+      "91.211.4.0/22",
+      "176.123.216.0/22"
+    ],
+    "ipv6": [
+      "2a0e:e6c0:4000::/36"
+    ]
+  }
+}

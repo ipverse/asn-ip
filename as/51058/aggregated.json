@@ -1,0 +1,13 @@
+{
+  "asn": 51058,
+  "handle": "RDNS",
+  "description": "Sascha Bielski",
+  "subnets": {
+    "ipv4": [
+      "91.229.194.0/23"
+    ],
+    "ipv6": [
+      "2001:678:c0::/48"
+    ]
+  }
+}

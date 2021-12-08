@@ -1,0 +1,12 @@
+{
+  "asn": 38305,
+  "handle": "OTAGO-UNIVERSITY-NZ-AP",
+  "description": "University of Otago",
+  "subnets": {
+    "ipv4": [
+      "139.80.0.0/16",
+      "202.27.239.0/24"
+    ],
+    "ipv6": []
+  }
+}

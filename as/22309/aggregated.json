@@ -1,0 +1,11 @@
+{
+  "asn": 22309,
+  "handle": "ASN1",
+  "description": "Kitsap Credit Union",
+  "subnets": {
+    "ipv4": [
+      "207.224.239.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 147304,
+  "handle": "ANAPL-AP",
+  "description": "Arista Networks Australia Pty Ltd",
+  "subnets": {
+    "ipv4": [
+      "103.174.171.0/24"
+    ],
+    "ipv6": [
+      "2001:df7:cd81::/48"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asn": 393708,
+  "handle": "4EOS-COM",
+  "description": "4EOS",
+  "subnets": {
+    "ipv4": [
+      "50.224.2.0/24"
+    ],
+    "ipv6": []
+  }
+}

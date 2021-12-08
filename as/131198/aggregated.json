@@ -1,0 +1,14 @@
+{
+  "asn": 131198,
+  "handle": "MEDIATRIBELIMITED-AP",
+  "description": "Mediatribe Limited",
+  "subnets": {
+    "ipv4": [
+      "103.250.116.0/22"
+    ],
+    "ipv6": [
+      "2400:e780:1000::/39",
+      "2400:e780:1200::/40"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 54030,
+  "handle": "SUMMIT-SOL",
+  "description": "Summit Solutions, LLC",
+  "subnets": {
+    "ipv4": [
+      "50.58.191.0/24"
+    ],
+    "ipv6": [
+      "2001:550:3500::/48"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 270242,
+  "handle": "EVEREST-TELECOM-EIRELI-ME",
+  "description": "EVEREST TELECOM EIRELI - ME",
+  "subnets": {
+    "ipv4": [
+      "187.62.68.0/22"
+    ],
+    "ipv6": [
+      "2804:6900::/32"
+    ]
+  }
+}

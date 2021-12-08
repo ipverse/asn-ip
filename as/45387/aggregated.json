@@ -1,0 +1,11 @@
+{
+  "asn": 45387,
+  "handle": "KOCES-KR-KR",
+  "description": "KOCES",
+  "subnets": {
+    "ipv4": [
+      "211.53.211.0/24"
+    ],
+    "ipv6": []
+  }
+}

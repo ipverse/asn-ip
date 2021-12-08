@@ -1,0 +1,11 @@
+{
+  "asn": 33778,
+  "handle": "MANTRAC-GROUP",
+  "description": "Mantrac Group",
+  "subnets": {
+    "ipv4": [
+      "196.201.24.0/21"
+    ],
+    "ipv6": []
+  }
+}

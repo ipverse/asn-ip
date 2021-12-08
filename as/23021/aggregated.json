@@ -1,0 +1,11 @@
+{
+  "asn": 23021,
+  "handle": "BTC-SD",
+  "description": "The Bermuda Telephone Company, Limited.",
+  "subnets": {
+    "ipv4": [
+      "196.1.107.0/24"
+    ],
+    "ipv6": []
+  }
+}

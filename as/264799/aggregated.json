@@ -1,0 +1,11 @@
+{
+  "asn": 264799,
+  "handle": "ARIA-TEL-SAS-ESP",
+  "description": "ARIA TEL SAS ESP",
+  "subnets": {
+    "ipv4": [
+      "170.78.56.0/22"
+    ],
+    "ipv6": []
+  }
+}

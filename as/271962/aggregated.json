@@ -1,0 +1,11 @@
+{
+  "asn": 271962,
+  "handle": "CABLE-MASTER-COMUNICACIONES",
+  "description": "CABLE MASTER COMUNICACIONES SAC",
+  "subnets": {
+    "ipv4": [
+      "45.231.32.0/22"
+    ],
+    "ipv6": []
+  }
+}

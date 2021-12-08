@@ -1,0 +1,13 @@
+{
+  "asn": 399603,
+  "handle": "APPSYNERGY",
+  "description": "APPSYNERGY INC",
+  "subnets": {
+    "ipv4": [
+      "64.112.14.0/24"
+    ],
+    "ipv6": [
+      "2602:fc9c::/36"
+    ]
+  }
+}

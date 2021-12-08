@@ -1,0 +1,13 @@
+{
+  "asn": 62386,
+  "handle": "ASPILINK-NET",
+  "description": "Aspilink Ltd.",
+  "subnets": {
+    "ipv4": [
+      "79.124.2.0/23",
+      "95.158.136.0/22",
+      "95.158.140.0/23"
+    ],
+    "ipv6": []
+  }
+}

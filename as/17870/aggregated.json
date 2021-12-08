@@ -1,0 +1,13 @@
+{
+  "asn": 17870,
+  "handle": "KHU-KR-KR",
+  "description": "Kyung Hee University",
+  "subnets": {
+    "ipv4": [
+      "163.180.0.0/17",
+      "163.180.128.0/18",
+      "163.180.241.0/24"
+    ],
+    "ipv6": []
+  }
+}

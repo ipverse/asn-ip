@@ -1,0 +1,11 @@
+{
+  "asn": 35299,
+  "handle": "ASC2K",
+  "description": "C2k",
+  "subnets": {
+    "ipv4": [
+      "85.31.136.0/21"
+    ],
+    "ipv6": []
+  }
+}

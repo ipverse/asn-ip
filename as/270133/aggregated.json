@@ -1,0 +1,13 @@
+{
+  "asn": 270133,
+  "handle": "FIBERWIFI-SA-DE-CV",
+  "description": "Fiberwifi SA de CV",
+  "subnets": {
+    "ipv4": [
+      "38.123.65.0/24"
+    ],
+    "ipv6": [
+      "2806:3d5::/32"
+    ]
+  }
+}

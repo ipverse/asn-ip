@@ -1,0 +1,13 @@
+{
+  "asn": 271337,
+  "handle": "LIKENET-TELECOM-EIRELI",
+  "description": "LIKENET TELECOM EIRELI",
+  "subnets": {
+    "ipv4": [
+      "200.106.222.0/23"
+    ],
+    "ipv6": [
+      "2804:79f0::/32"
+    ]
+  }
+}

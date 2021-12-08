@@ -1,0 +1,12 @@
+{
+  "asn": 205538,
+  "handle": "CITYWIRELESS",
+  "description": "City Wireless B.V.",
+  "subnets": {
+    "ipv4": [
+      "185.214.89.0/24",
+      "185.214.90.0/23"
+    ],
+    "ipv6": []
+  }
+}

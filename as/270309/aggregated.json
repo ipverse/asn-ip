@@ -1,0 +1,12 @@
+{
+  "asn": 270309,
+  "handle": "TURBONET-PROVEDOR-DE",
+  "description": "TURBONET - Provedor de Acesso a Internet",
+  "subnets": {
+    "ipv4": [
+      "201.77.104.0/23",
+      "201.77.106.0/24"
+    ],
+    "ipv6": []
+  }
+}

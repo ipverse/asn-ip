@@ -1,0 +1,13 @@
+{
+  "asn": 18326,
+  "handle": "SPORTSTOTOKOREA-KR-KR",
+  "description": "Sports Toto Korea",
+  "subnets": {
+    "ipv4": [
+      "61.41.168.0/24",
+      "218.236.2.0/24",
+      "222.107.151.0/24"
+    ],
+    "ipv6": []
+  }
+}

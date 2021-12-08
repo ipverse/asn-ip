@@ -1,0 +1,13 @@
+{
+  "asn": 53067,
+  "handle": "R-R-PROVEDOR-DE-INTERNET-LTDA",
+  "description": "R\u0026R PROVEDOR DE INTERNET LTDA",
+  "subnets": {
+    "ipv4": [
+      "187.86.112.0/20"
+    ],
+    "ipv6": [
+      "2804:e50::/32"
+    ]
+  }
+}

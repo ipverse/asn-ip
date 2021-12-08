@@ -1,0 +1,12 @@
+{
+  "asn": 395029,
+  "handle": "STN-001",
+  "description": "STN Incorporated",
+  "subnets": {
+    "ipv4": [
+      "38.100.103.0/24",
+      "38.111.218.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 13702,
+  "handle": "INGRAM-BOOK-GROUP",
+  "description": "Ingram Book Group",
+  "subnets": {
+    "ipv4": [
+      "198.183.164.0/22",
+      "198.252.232.0/24"
+    ],
+    "ipv6": []
+  }
+}

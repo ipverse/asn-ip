@@ -1,0 +1,11 @@
+{
+  "asn": 47587,
+  "handle": "VIPCOMP",
+  "description": "VIP Computer Bt.",
+  "subnets": {
+    "ipv4": [
+      "37.17.175.0/24"
+    ],
+    "ipv6": []
+  }
+}

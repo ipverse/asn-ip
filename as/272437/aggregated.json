@@ -1,0 +1,11 @@
+{
+  "asn": 272437,
+  "handle": "USE-CONECT",
+  "description": "USE CONECT",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2804:812c::/32"
+    ]
+  }
+}

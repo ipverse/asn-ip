@@ -1,0 +1,12 @@
+{
+  "asn": 48540,
+  "handle": "ASMTI",
+  "description": "Mettler Toledo International Inc.",
+  "subnets": {
+    "ipv4": [
+      "194.14.97.0/24",
+      "194.68.2.0/24"
+    ],
+    "ipv6": []
+  }
+}

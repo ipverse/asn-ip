@@ -1,0 +1,13 @@
+{
+  "asn": 270741,
+  "handle": "NOSSANET-FORTALEZA",
+  "description": "NossaNet Fortaleza",
+  "subnets": {
+    "ipv4": [
+      "179.109.112.0/22"
+    ],
+    "ipv6": [
+      "2804:70ac::/32"
+    ]
+  }
+}

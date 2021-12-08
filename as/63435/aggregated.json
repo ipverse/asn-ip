@@ -1,0 +1,13 @@
+{
+  "asn": 63435,
+  "handle": "MONTEREY-01",
+  "description": "County of Monterey",
+  "subnets": {
+    "ipv4": [
+      "192.92.176.0/24",
+      "199.58.28.0/23",
+      "205.154.248.0/24"
+    ],
+    "ipv6": []
+  }
+}

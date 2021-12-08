@@ -1,0 +1,12 @@
+{
+  "asn": 55695,
+  "handle": "UIN-ID",
+  "description": "Universitas Islam Negeri Sunan Kalijaga Yogyakarta",
+  "subnets": {
+    "ipv4": [
+      "103.25.54.0/23",
+      "202.0.92.0/23"
+    ],
+    "ipv6": []
+  }
+}

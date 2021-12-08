@@ -1,0 +1,12 @@
+{
+  "asn": 61092,
+  "handle": "SA123NET",
+  "description": "123 NET CPT (PTY) LTD",
+  "subnets": {
+    "ipv4": [
+      "164.160.116.0/22",
+      "169.255.36.0/22"
+    ],
+    "ipv6": []
+  }
+}

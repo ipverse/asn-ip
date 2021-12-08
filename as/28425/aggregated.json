@@ -1,0 +1,12 @@
+{
+  "asn": 28425,
+  "handle": "CONVERGENCIA-INALAMBRICA-SA",
+  "description": "Convergencia Inalámbrica S.A. de C.V.",
+  "subnets": {
+    "ipv4": [
+      "45.231.108.0/22",
+      "200.23.144.0/24"
+    ],
+    "ipv6": []
+  }
+}

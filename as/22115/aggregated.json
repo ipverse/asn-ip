@@ -1,0 +1,12 @@
+{
+  "asn": 22115,
+  "handle": "YOUMAKER",
+  "description": "Youmaker Corporation",
+  "subnets": {
+    "ipv4": [
+      "8.5.251.0/24",
+      "155.254.224.0/23"
+    ],
+    "ipv6": []
+  }
+}

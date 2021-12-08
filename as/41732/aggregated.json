@@ -1,0 +1,16 @@
+{
+  "asn": 41732,
+  "handle": "HOSTINGFUZE",
+  "description": "MIHAILA VALENTIN-EUGEN",
+  "subnets": {
+    "ipv4": [
+      "89.43.62.0/24"
+    ],
+    "ipv6": [
+      "2a03:9c00:d::/48",
+      "2a0e:b107:ad0::/44",
+      "2a0f:9400:7310::/48",
+      "2a0f:9400:7312::/48"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 14417,
+  "handle": "LANDSTAR",
+  "description": "Landstar System Inc",
+  "subnets": {
+    "ipv4": [
+      "170.203.249.0/24",
+      "170.203.250.0/23",
+      "170.203.252.0/22"
+    ],
+    "ipv6": []
+  }
+}

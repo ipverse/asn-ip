@@ -1,0 +1,12 @@
+{
+  "asn": 201804,
+  "handle": "AUTOINS",
+  "description": "Russian Association of Motor Insurers",
+  "subnets": {
+    "ipv4": [
+      "193.232.59.0/24",
+      "194.85.24.0/24"
+    ],
+    "ipv6": []
+  }
+}

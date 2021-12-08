@@ -1,0 +1,13 @@
+{
+  "asn": 8995,
+  "handle": "JOGBACK",
+  "description": "LM Jogback Datakonsult",
+  "subnets": {
+    "ipv4": [
+      "192.165.82.0/24"
+    ],
+    "ipv6": [
+      "2001:678:394::/48"
+    ]
+  }
+}

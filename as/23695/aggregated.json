@@ -1,0 +1,11 @@
+{
+  "asn": 23695,
+  "handle": "ELGANET-ID",
+  "description": "ELGANET-ASN PT. Elga Yasa Media Internet Service",
+  "subnets": {
+    "ipv4": [
+      "202.173.64.0/19"
+    ],
+    "ipv6": []
+  }
+}

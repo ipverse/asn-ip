@@ -1,0 +1,16 @@
+{
+  "asn": 18019,
+  "handle": "COTTONCANDYCLOUD-AP",
+  "description": "Cotton Candy Cloud Pte Ltd",
+  "subnets": {
+    "ipv4": [
+      "43.228.144.0/22",
+      "103.84.216.0/22"
+    ],
+    "ipv6": [
+      "2400:a440:1::/48",
+      "2400:a440:2::/47",
+      "2400:a440:4::/48"
+    ]
+  }
+}

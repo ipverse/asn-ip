@@ -1,0 +1,14 @@
+{
+  "asn": 328339,
+  "handle": "2MINTERNETSOLUTIONS",
+  "description": "WANT THE FIBRE INTERNET",
+  "subnets": {
+    "ipv4": [
+      "102.134.72.0/23",
+      "102.134.74.0/24"
+    ],
+    "ipv6": [
+      "2c0f:ef48::/32"
+    ]
+  }
+}

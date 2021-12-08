@@ -1,0 +1,13 @@
+{
+  "asn": 32289,
+  "handle": "SWIFT-TRANSPORTATION-CORPORATION-INC",
+  "description": "Swift Transportation Co. Inc.",
+  "subnets": {
+    "ipv4": [
+      "65.218.200.0/23",
+      "199.79.28.0/22",
+      "209.203.108.0/23"
+    ],
+    "ipv6": []
+  }
+}

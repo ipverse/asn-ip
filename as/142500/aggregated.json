@@ -1,0 +1,15 @@
+{
+  "asn": 142500,
+  "handle": "NIXI-IN",
+  "description": "National Internet Exchange of India",
+  "subnets": {
+    "ipv4": [
+      "1.10.10.0/24"
+    ],
+    "ipv6": [
+      "2001:de2::/48",
+      "2001:fff::/32",
+      "2409::/32"
+    ]
+  }
+}

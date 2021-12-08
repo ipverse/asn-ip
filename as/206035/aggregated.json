@@ -1,0 +1,12 @@
+{
+  "asn": 206035,
+  "handle": "IT-2IRETEGAS",
+  "description": "2i Rete Gas S.p.A.",
+  "subnets": {
+    "ipv4": [
+      "185.148.188.0/23",
+      "185.148.190.0/24"
+    ],
+    "ipv6": []
+  }
+}

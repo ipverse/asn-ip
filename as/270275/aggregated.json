@@ -1,0 +1,13 @@
+{
+  "asn": 270275,
+  "handle": "VERDEFIBRA-PROVEDOR-DE",
+  "description": "VerdeFibra Provedor de Internet",
+  "subnets": {
+    "ipv4": [
+      "200.124.88.0/22"
+    ],
+    "ipv6": [
+      "2804:6984::/32"
+    ]
+  }
+}

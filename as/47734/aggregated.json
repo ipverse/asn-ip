@@ -1,0 +1,12 @@
+{
+  "asn": 47734,
+  "handle": "METROPOLITAN",
+  "description": "METROPOLITAN HQ NET SRL",
+  "subnets": {
+    "ipv4": [
+      "91.206.194.0/23",
+      "195.254.182.0/23"
+    ],
+    "ipv6": []
+  }
+}

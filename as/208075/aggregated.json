@@ -1,0 +1,13 @@
+{
+  "asn": 208075,
+  "handle": "RSVO-MIRIT-SOCHI",
+  "description": "Federal State Unitary Enterprise of the Order of the Red Banner of Labour Russian Broad-casting and Notification Network",
+  "subnets": {
+    "ipv4": [
+      "91.230.182.0/24"
+    ],
+    "ipv6": [
+      "2a0a:af40::/32"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 25522,
+  "handle": "TRAVELPORT-AUSTRIA",
+  "description": "Travelport Austria GmbH",
+  "subnets": {
+    "ipv4": [
+      "194.153.120.0/21"
+    ],
+    "ipv6": [
+      "2001:67c:704::/48"
+    ]
+  }
+}

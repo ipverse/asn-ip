@@ -1,0 +1,12 @@
+{
+  "asn": 14913,
+  "handle": "MEDIA-NEWS-GROUP",
+  "description": "MEDIA NEWS GROUP",
+  "subnets": {
+    "ipv4": [
+      "199.35.99.0/24",
+      "199.88.148.0/23"
+    ],
+    "ipv6": []
+  }
+}

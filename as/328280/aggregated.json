@@ -1,0 +1,13 @@
+{
+  "asn": 328280,
+  "handle": "LNDR1",
+  "description": "L\u0027Agence Nationale de RÃ©glementation des TÃ©lÃ©communications (ANRT)",
+  "subnets": {
+    "ipv4": [
+      "102.165.189.0/24"
+    ],
+    "ipv6": [
+      "2001:43f8:10f0::/48"
+    ]
+  }
+}

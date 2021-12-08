@@ -1,0 +1,11 @@
+{
+  "asn": 41183,
+  "handle": "NATIONAL-BANK-OF-HUNGARY",
+  "description": "National Bank of Hungary",
+  "subnets": {
+    "ipv4": [
+      "194.140.248.0/24"
+    ],
+    "ipv6": []
+  }
+}

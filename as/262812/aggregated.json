@@ -1,0 +1,14 @@
+{
+  "asn": 262812,
+  "handle": "KHD-SILVESTRI-E-CIA-LTDA",
+  "description": "K.H.D. SILVESTRI E CIA LTDA",
+  "subnets": {
+    "ipv4": [
+      "186.250.112.0/22",
+      "200.66.112.0/20"
+    ],
+    "ipv6": [
+      "2804:268::/32"
+    ]
+  }
+}

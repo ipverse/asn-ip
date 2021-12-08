@@ -1,0 +1,13 @@
+{
+  "asn": 264733,
+  "handle": "CHACO-COMUNICACIONES-SA",
+  "description": "CHACO COMUNICACIONES S.A.",
+  "subnets": {
+    "ipv4": [
+      "191.97.120.0/21"
+    ],
+    "ipv6": [
+      "2803:d280::/32"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 213216,
+  "handle": "VNP-CORPORATE",
+  "description": "VNP DIGITAL Ltd.",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2602:fcff:11::/48",
+      "2602:fcff:16::/48"
+    ]
+  }
+}

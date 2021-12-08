@@ -1,0 +1,12 @@
+{
+  "asn": 16049,
+  "handle": "CPB-SOFTWARE-AUSTRIA-GMBH",
+  "description": "CPB-Software (Austria) GmbH",
+  "subnets": {
+    "ipv4": [
+      "193.41.94.0/24",
+      "193.41.232.0/24"
+    ],
+    "ipv6": []
+  }
+}

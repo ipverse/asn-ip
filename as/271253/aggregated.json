@@ -1,0 +1,15 @@
+{
+  "asn": 271253,
+  "handle": "LINK-BRASIL-TELECOMUNICACOES",
+  "description": "LINK BRASIL TELECOMUNICACOES LTDA",
+  "subnets": {
+    "ipv4": [
+      "131.255.56.0/22"
+    ],
+    "ipv6": [
+      "2804:7898:4000::/48",
+      "2804:7898:5000::/48",
+      "2804:7898:5ff0::/44"
+    ]
+  }
+}

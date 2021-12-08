@@ -1,0 +1,12 @@
+{
+  "asn": 37373,
+  "handle": "AUC",
+  "description": "Ashesi University College",
+  "subnets": {
+    "ipv4": [
+      "41.79.96.0/22",
+      "196.13.192.0/21"
+    ],
+    "ipv6": []
+  }
+}

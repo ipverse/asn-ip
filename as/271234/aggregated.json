@@ -1,0 +1,11 @@
+{
+  "asn": 271234,
+  "handle": "WORLDCONECT-TELECOM",
+  "description": "WorldConect telecom",
+  "subnets": {
+    "ipv4": [
+      "190.109.116.0/22"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 43228,
+  "handle": "SIMPLE-TEL",
+  "description": "SimpleTelecom LLC",
+  "subnets": {
+    "ipv4": [
+      "185.190.104.0/23",
+      "185.190.106.0/24"
+    ],
+    "ipv6": []
+  }
+}

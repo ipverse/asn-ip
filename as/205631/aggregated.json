@@ -1,0 +1,13 @@
+{
+  "asn": 205631,
+  "handle": "PCEXTREME-HAG",
+  "description": "PCextreme B.V.",
+  "subnets": {
+    "ipv4": [
+      "185.95.30.0/24"
+    ],
+    "ipv6": [
+      "2a05:1500:400::/40"
+    ]
+  }
+}

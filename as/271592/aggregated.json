@@ -1,0 +1,11 @@
+{
+  "asn": 271592,
+  "handle": "NETS-PROVEDOR-DE",
+  "description": "NETS PROVEDOR DE INTERNET TELECOM LTDA",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2804:7df0::/32"
+    ]
+  }
+}

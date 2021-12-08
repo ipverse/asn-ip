@@ -1,0 +1,11 @@
+{
+  "asn": 396408,
+  "handle": "PUBLICINET",
+  "description": "City of Greensboro, NC",
+  "subnets": {
+    "ipv4": [
+      "38.83.140.0/23"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 137316,
+  "handle": "PDU-ID",
+  "description": "PT. PANCA DUTA UTAMA",
+  "subnets": {
+    "ipv4": [
+      "103.109.124.0/22",
+      "116.90.176.0/21"
+    ],
+    "ipv6": [
+      "2402:7ac0::/32"
+    ]
+  }
+}

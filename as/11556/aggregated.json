@@ -1,0 +1,15 @@
+{
+  "asn": 11556,
+  "handle": "CABLE-WIRELESS-PANAMA",
+  "description": "Cable \u0026 Wireless Panama",
+  "subnets": {
+    "ipv4": [
+      "186.72.0.0/14",
+      "190.32.0.0/14",
+      "201.224.0.0/14"
+    ],
+    "ipv6": [
+      "2800:350::/29"
+    ]
+  }
+}

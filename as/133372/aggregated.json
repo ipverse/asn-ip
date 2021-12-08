@@ -1,0 +1,13 @@
+{
+  "asn": 133372,
+  "handle": "INTERAPTUSLIMITED-AP",
+  "description": "Interaptus Limited",
+  "subnets": {
+    "ipv4": [
+      "103.225.212.0/22"
+    ],
+    "ipv6": [
+      "2404:d180:1a::/48"
+    ]
+  }
+}

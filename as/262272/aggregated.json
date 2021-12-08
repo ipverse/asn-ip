@@ -1,0 +1,15 @@
+{
+  "asn": 262272,
+  "handle": "FIT-TELECOM-EIRELI",
+  "description": "FIT Telecom Eireli",
+  "subnets": {
+    "ipv4": [
+      "138.36.180.0/22",
+      "177.154.32.0/20",
+      "187.120.144.0/20"
+    ],
+    "ipv6": [
+      "2804:21f8::/32"
+    ]
+  }
+}

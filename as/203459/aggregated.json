@@ -1,0 +1,14 @@
+{
+  "asn": 203459,
+  "handle": "ALMARAJIRAQ",
+  "description": "AL-MARAJ AL-ALAMIYA Co",
+  "subnets": {
+    "ipv4": [
+      "185.133.224.0/23",
+      "185.133.226.0/24"
+    ],
+    "ipv6": [
+      "2a06:7fc0::/29"
+    ]
+  }
+}

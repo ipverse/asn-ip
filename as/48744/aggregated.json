@@ -1,0 +1,12 @@
+{
+  "asn": 48744,
+  "handle": "CDISCOUNT",
+  "description": "Cdiscount SA",
+  "subnets": {
+    "ipv4": [
+      "62.122.8.0/21",
+      "185.240.124.0/22"
+    ],
+    "ipv6": []
+  }
+}

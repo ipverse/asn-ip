@@ -1,0 +1,11 @@
+{
+  "asn": 132054,
+  "handle": "RISINGSTAR-AP",
+  "description": "Rising Star Cable TV Services",
+  "subnets": {
+    "ipv4": [
+      "103.148.224.0/23"
+    ],
+    "ipv6": []
+  }
+}

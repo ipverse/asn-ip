@@ -1,0 +1,11 @@
+{
+  "asn": 262830,
+  "handle": "PLUG-PROVEDOR-INTERNET-LTDA",
+  "description": "Plug Provedor Internet LTDA",
+  "subnets": {
+    "ipv4": [
+      "177.8.32.0/20"
+    ],
+    "ipv6": []
+  }
+}

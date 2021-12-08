@@ -1,0 +1,12 @@
+{
+  "asn": 37281,
+  "handle": "GVA-CONGO",
+  "description": "GVA Congo",
+  "subnets": {
+    "ipv4": [
+      "41.75.64.0/20",
+      "164.160.18.0/23"
+    ],
+    "ipv6": []
+  }
+}

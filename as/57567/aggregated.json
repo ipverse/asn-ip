@@ -1,0 +1,13 @@
+{
+  "asn": 57567,
+  "handle": "DUMARCA",
+  "description": "Dumarca Services Limited",
+  "subnets": {
+    "ipv4": [
+      "103.39.40.0/23",
+      "185.86.44.0/23",
+      "185.86.46.0/24"
+    ],
+    "ipv6": []
+  }
+}

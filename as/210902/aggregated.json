@@ -1,0 +1,12 @@
+{
+  "asn": 210902,
+  "handle": "DAVID-DENIS",
+  "description": "David \u0026 Denis Inc.",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2602:fcf6:106::/48",
+      "2a0b:b87:ff10::/48"
+    ]
+  }
+}

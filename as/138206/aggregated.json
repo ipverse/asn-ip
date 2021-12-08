@@ -1,0 +1,11 @@
+{
+  "asn": 138206,
+  "handle": "VTMB-AP",
+  "description": "Bank First",
+  "subnets": {
+    "ipv4": [
+      "192.251.148.0/24"
+    ],
+    "ipv6": []
+  }
+}

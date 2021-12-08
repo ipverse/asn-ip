@@ -1,0 +1,12 @@
+{
+  "asn": 210311,
+  "handle": "SIARHEI-ZHARAU",
+  "description": "Siarhei Zharau",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a09:e1c1:eff0::/44",
+      "2a0e:aa01:aa10::/44"
+    ]
+  }
+}

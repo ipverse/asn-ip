@@ -1,0 +1,13 @@
+{
+  "asn": 47339,
+  "handle": "SATFA",
+  "description": "SpeedCast Netherlands B.V.",
+  "subnets": {
+    "ipv4": [
+      "93.190.184.0/24",
+      "109.71.184.0/24",
+      "109.71.191.0/24"
+    ],
+    "ipv6": []
+  }
+}

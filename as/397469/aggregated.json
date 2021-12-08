@@ -1,0 +1,11 @@
+{
+  "asn": 397469,
+  "handle": "SPECTEROPS-01",
+  "description": "SpecterOps",
+  "subnets": {
+    "ipv4": [
+      "104.145.229.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asn": 33878,
+  "handle": "ATFBANK",
+  "description": "JSC ATFBank",
+  "subnets": {
+    "ipv4": [
+      "195.38.22.0/24"
+    ],
+    "ipv6": []
+  }
+}

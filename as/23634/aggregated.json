@@ -1,0 +1,13 @@
+{
+  "asn": 23634,
+  "handle": "E-DNS-JP",
+  "description": "WIDE Project",
+  "subnets": {
+    "ipv4": [
+      "192.50.43.0/24"
+    ],
+    "ipv6": [
+      "2001:200:c000::/35"
+    ]
+  }
+}

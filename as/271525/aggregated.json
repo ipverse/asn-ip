@@ -1,0 +1,11 @@
+{
+  "asn": 271525,
+  "handle": "DETROX-NETWORKS-E",
+  "description": "Detrox Networks e Internet LTDA",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2804:7ce4::/32"
+    ]
+  }
+}

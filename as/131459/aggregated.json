@@ -1,0 +1,13 @@
+{
+  "asn": 131459,
+  "handle": "VCPL-IN",
+  "description": "88c, Race Course Road, Coimbatore 641018",
+  "subnets": {
+    "ipv4": [
+      "43.250.40.0/22",
+      "103.5.112.0/22",
+      "103.242.136.0/22"
+    ],
+    "ipv6": []
+  }
+}

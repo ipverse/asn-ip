@@ -1,0 +1,11 @@
+{
+  "asn": 42365,
+  "handle": "CREDICOM-GR",
+  "description": "VIVABANK AE",
+  "subnets": {
+    "ipv4": [
+      "195.22.154.0/23"
+    ],
+    "ipv6": []
+  }
+}

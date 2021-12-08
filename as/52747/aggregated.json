@@ -1,0 +1,14 @@
+{
+  "asn": 52747,
+  "handle": "WSP-SERVICOS-DE",
+  "description": "Wsp Serviços de Telecomunicações Ltda",
+  "subnets": {
+    "ipv4": [
+      "138.99.108.0/22",
+      "177.130.48.0/20"
+    ],
+    "ipv6": [
+      "2804:235c::/32"
+    ]
+  }
+}

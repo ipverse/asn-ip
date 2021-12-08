@@ -1,0 +1,14 @@
+{
+  "asn": 52726,
+  "handle": "TXFIBER-TELECOM-EIRELI",
+  "description": "TxFiber Telecom Eireli",
+  "subnets": {
+    "ipv4": [
+      "170.247.124.0/22",
+      "177.223.96.0/20"
+    ],
+    "ipv6": [
+      "2804:c98::/32"
+    ]
+  }
+}

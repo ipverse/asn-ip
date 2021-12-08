@@ -1,0 +1,13 @@
+{
+  "asn": 135946,
+  "handle": "STTTTLA-VN",
+  "description": "Long An Department of Information and Communications",
+  "subnets": {
+    "ipv4": [
+      "103.106.220.0/22"
+    ],
+    "ipv6": [
+      "2001:df3:b500::/48"
+    ]
+  }
+}

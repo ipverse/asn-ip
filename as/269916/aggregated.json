@@ -1,0 +1,13 @@
+{
+  "asn": 269916,
+  "handle": "EAST-NET-SAS",
+  "description": "EAST NET S.A.S.",
+  "subnets": {
+    "ipv4": [
+      "45.191.188.0/22"
+    ],
+    "ipv6": [
+      "2803:fce0::/32"
+    ]
+  }
+}

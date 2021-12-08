@@ -1,0 +1,12 @@
+{
+  "asn": 20414,
+  "handle": "HWASN",
+  "description": "Hunton Andrews Kurth LLP",
+  "subnets": {
+    "ipv4": [
+      "148.170.240.0/22",
+      "148.170.244.0/23"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 51447,
+  "handle": "ROOTLAYERNET",
+  "description": "RootLayer Web Services Ltd.",
+  "subnets": {
+    "ipv4": [
+      "45.137.20.0/22",
+      "185.222.56.0/23",
+      "185.222.58.0/24"
+    ],
+    "ipv6": []
+  }
+}

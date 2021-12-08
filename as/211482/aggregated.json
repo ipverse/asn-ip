@@ -1,0 +1,12 @@
+{
+  "asn": 211482,
+  "handle": "NAMGROUP",
+  "description": "Namirial spa",
+  "subnets": {
+    "ipv4": [
+      "185.217.29.0/24",
+      "185.217.31.0/24"
+    ],
+    "ipv6": []
+  }
+}

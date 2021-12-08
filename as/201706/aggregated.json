@@ -1,0 +1,15 @@
+{
+  "asn": 201706,
+  "handle": "SERVICEPIPE",
+  "description": "SERVICEPIPE LLC",
+  "subnets": {
+    "ipv4": [
+      "185.35.4.0/22",
+      "185.66.84.0/22",
+      "185.169.152.0/22"
+    ],
+    "ipv6": [
+      "2a0a:4d00::/29"
+    ]
+  }
+}

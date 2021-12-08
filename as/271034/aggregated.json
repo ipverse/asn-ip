@@ -1,0 +1,13 @@
+{
+  "asn": 271034,
+  "handle": "GM-TELECOM-LTDA",
+  "description": "GM Telecom LTDA",
+  "subnets": {
+    "ipv4": [
+      "45.5.248.0/22"
+    ],
+    "ipv6": [
+      "2804:7540::/35"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 51527,
+  "handle": "AUTOEVER-EUROPE",
+  "description": "Hyundai AutoEver Europe GmbH",
+  "subnets": {
+    "ipv4": [
+      "91.217.230.0/24",
+      "185.106.8.0/22"
+    ],
+    "ipv6": []
+  }
+}

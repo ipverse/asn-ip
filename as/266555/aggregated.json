@@ -1,0 +1,17 @@
+{
+  "asn": 266555,
+  "handle": "ISPNET-TELECOMUNICACOES-LTDA",
+  "description": "ISPNET TELECOMUNICACOES LTDA - EPP",
+  "subnets": {
+    "ipv4": [
+      "138.122.236.0/22",
+      "160.238.220.0/22",
+      "168.232.116.0/22",
+      "177.70.128.0/20",
+      "201.149.120.0/22"
+    ],
+    "ipv6": [
+      "2804:3dd0::/32"
+    ]
+  }
+}

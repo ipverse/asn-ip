@@ -1,0 +1,11 @@
+{
+  "asn": 56923,
+  "handle": "VIRTUALFORT",
+  "description": "Virtualfort OOO",
+  "subnets": {
+    "ipv4": [
+      "185.200.16.0/22"
+    ],
+    "ipv6": []
+  }
+}

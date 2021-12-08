@@ -1,0 +1,13 @@
+{
+  "asn": 207580,
+  "handle": "GREENBONE-NETWORKS",
+  "description": "Greenbone Networks GmbH",
+  "subnets": {
+    "ipv4": [
+      "45.135.104.0/24"
+    ],
+    "ipv6": [
+      "2a0e:6b40::/48"
+    ]
+  }
+}

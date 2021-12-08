@@ -1,0 +1,13 @@
+{
+  "asn": 268109,
+  "handle": "PRO-TELECOM-SERVICOS",
+  "description": "PRO TELECOM SERVIÇOS DE COMUNICAÇÃO M. LTDA",
+  "subnets": {
+    "ipv4": [
+      "45.168.128.0/22"
+    ],
+    "ipv6": [
+      "2804:5824::/32"
+    ]
+  }
+}

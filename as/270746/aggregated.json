@@ -1,0 +1,17 @@
+{
+  "asn": 270746,
+  "handle": "HBC-TELECOM-MULTIMIDIA-LTDA",
+  "description": "HBC TELECOM MULTIMIDIA LTDA",
+  "subnets": {
+    "ipv4": [
+      "190.93.32.0/22"
+    ],
+    "ipv6": [
+      "2804:70c0::/46",
+      "2804:70c0:a::/48",
+      "2804:70c0:10::/48",
+      "2804:70c0:13::/48",
+      "2804:70c0:32::/48"
+    ]
+  }
+}

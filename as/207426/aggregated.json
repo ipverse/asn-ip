@@ -1,0 +1,13 @@
+{
+  "asn": 207426,
+  "handle": "GSS",
+  "description": "GSS-Media KG",
+  "subnets": {
+    "ipv4": [
+      "185.81.240.0/24"
+    ],
+    "ipv6": [
+      "2a03:65e0::/32"
+    ]
+  }
+}

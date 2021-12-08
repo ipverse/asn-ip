@@ -1,0 +1,13 @@
+{
+  "asn": 61595,
+  "handle": "TELIC-TECHNOLOGIES",
+  "description": "TELIC TECHNOLOGIES",
+  "subnets": {
+    "ipv4": [
+      "45.165.80.0/22"
+    ],
+    "ipv6": [
+      "2804:54c8::/32"
+    ]
+  }
+}

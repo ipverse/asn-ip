@@ -1,0 +1,12 @@
+{
+  "asn": 17487,
+  "handle": "ICBCASIA-AP",
+  "description": "Industrial and Commercial Bank of China (Asia) Ltd",
+  "subnets": {
+    "ipv4": [
+      "218.188.87.0/24",
+      "220.241.83.0/24"
+    ],
+    "ipv6": []
+  }
+}

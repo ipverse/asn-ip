@@ -1,0 +1,15 @@
+{
+  "asn": 54111,
+  "handle": "ONENECK-IT-SOLUTIONS-BND",
+  "description": "OneNeck IT Solutions LLC",
+  "subnets": {
+    "ipv4": [
+      "65.127.128.0/24",
+      "208.42.120.0/21"
+    ],
+    "ipv6": [
+      "2001:18c8:800::/40",
+      "2620:a7:8000::/48"
+    ]
+  }
+}

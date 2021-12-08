@@ -1,0 +1,14 @@
+{
+  "asn": 397797,
+  "handle": "CITYOFMARSHALL-01",
+  "description": "City of Marshall",
+  "subnets": {
+    "ipv4": [
+      "35.62.0.0/21",
+      "205.137.240.0/22"
+    ],
+    "ipv6": [
+      "2605:6640::/32"
+    ]
+  }
+}

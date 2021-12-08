@@ -1,0 +1,12 @@
+{
+  "asn": 39266,
+  "handle": "RESO",
+  "description": "OSAO RESO-Garantia",
+  "subnets": {
+    "ipv4": [
+      "77.242.14.0/24",
+      "195.66.78.0/24"
+    ],
+    "ipv6": []
+  }
+}

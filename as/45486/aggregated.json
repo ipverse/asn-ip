@@ -1,0 +1,11 @@
+{
+  "asn": 45486,
+  "handle": "HOSTCORP-AP",
+  "description": "HostCorp Internet",
+  "subnets": {
+    "ipv4": [
+      "113.52.128.0/22"
+    ],
+    "ipv6": []
+  }
+}

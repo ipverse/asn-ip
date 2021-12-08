@@ -1,0 +1,15 @@
+{
+  "asn": 13246,
+  "handle": "INETWIRE",
+  "description": "InterNetWire Communications GmbH",
+  "subnets": {
+    "ipv4": [
+      "80.86.1.0/24",
+      "95.130.16.0/21",
+      "185.181.192.0/22"
+    ],
+    "ipv6": [
+      "2a02:2940::/32"
+    ]
+  }
+}

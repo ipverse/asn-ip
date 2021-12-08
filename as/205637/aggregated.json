@@ -1,0 +1,11 @@
+{
+  "asn": 205637,
+  "handle": "VRI",
+  "description": "Dienst Infrastructuur Verkeer en Vervoer",
+  "subnets": {
+    "ipv4": [
+      "185.211.184.0/22"
+    ],
+    "ipv6": []
+  }
+}

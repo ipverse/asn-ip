@@ -1,0 +1,13 @@
+{
+  "asn": 12184,
+  "handle": "FORRESTER-RESEARCH",
+  "description": "Forrester Research",
+  "subnets": {
+    "ipv4": [
+      "64.72.79.0/24",
+      "74.201.44.0/23",
+      "204.179.229.0/24"
+    ],
+    "ipv6": []
+  }
+}

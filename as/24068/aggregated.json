@@ -1,0 +1,15 @@
+{
+  "asn": 24068,
+  "handle": "REDTONE-MY",
+  "description": "REDtone Telecommunication Sdn Bhd",
+  "subnets": {
+    "ipv4": [
+      "45.116.236.0/22",
+      "103.251.200.0/22",
+      "202.133.81.0/24",
+      "202.133.82.0/23",
+      "202.171.48.0/20"
+    ],
+    "ipv6": []
+  }
+}

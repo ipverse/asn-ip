@@ -1,0 +1,13 @@
+{
+  "asn": 207207,
+  "handle": "YL30",
+  "description": "Yandex.OFD LLC",
+  "subnets": {
+    "ipv4": [
+      "185.32.186.0/24"
+    ],
+    "ipv6": [
+      "2001:678:384::/48"
+    ]
+  }
+}

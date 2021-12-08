@@ -1,0 +1,12 @@
+{
+  "asn": 10198,
+  "handle": "CUP-KR-KR",
+  "description": "Catholic University of Pusan",
+  "subnets": {
+    "ipv4": [
+      "203.232.208.0/21",
+      "210.93.62.0/23"
+    ],
+    "ipv6": []
+  }
+}

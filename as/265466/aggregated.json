@@ -1,0 +1,13 @@
+{
+  "asn": 265466,
+  "handle": "GOLFINHO-INTERNET",
+  "description": "Golfinho Internet",
+  "subnets": {
+    "ipv4": [
+      "168.196.176.0/22"
+    ],
+    "ipv6": [
+      "2804:3494::/32"
+    ]
+  }
+}

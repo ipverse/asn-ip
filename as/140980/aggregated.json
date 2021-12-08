@@ -1,0 +1,11 @@
+{
+  "asn": 140980,
+  "handle": "NALTAVISION-AP",
+  "description": "Nalta Vision",
+  "subnets": {
+    "ipv4": [
+      "103.154.16.0/24"
+    ],
+    "ipv6": []
+  }
+}

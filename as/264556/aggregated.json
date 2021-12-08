@@ -1,0 +1,14 @@
+{
+  "asn": 264556,
+  "handle": "L-GARCIA-COMUNICACOES-ME",
+  "description": "L. Garcia Comunicações ME",
+  "subnets": {
+    "ipv4": [
+      "138.0.204.0/22",
+      "168.227.88.0/22"
+    ],
+    "ipv6": [
+      "2804:2178::/32"
+    ]
+  }
+}

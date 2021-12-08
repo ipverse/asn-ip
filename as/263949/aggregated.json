@@ -1,0 +1,14 @@
+{
+  "asn": 263949,
+  "handle": "MEGA-INTERNET-LTDA-ME",
+  "description": "Mega Internet LTDA ME",
+  "subnets": {
+    "ipv4": [
+      "138.255.4.0/22",
+      "170.247.240.0/22"
+    ],
+    "ipv6": [
+      "2804:283c::/32"
+    ]
+  }
+}

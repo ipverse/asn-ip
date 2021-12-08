@@ -1,0 +1,13 @@
+{
+  "asn": 263284,
+  "handle": "TOPMEGA-INTERNET-E",
+  "description": "Topmega Internet e Informática LTDA -ME",
+  "subnets": {
+    "ipv4": [
+      "179.107.48.0/21"
+    ],
+    "ipv6": [
+      "2804:165c::/32"
+    ]
+  }
+}

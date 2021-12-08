@@ -1,0 +1,12 @@
+{
+  "asn": 202953,
+  "handle": "UKAVISBUDGETGROUP",
+  "description": "Avis Budget Services Ltd.",
+  "subnets": {
+    "ipv4": [
+      "185.149.4.0/24",
+      "185.149.6.0/24"
+    ],
+    "ipv6": []
+  }
+}

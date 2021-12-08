@@ -1,0 +1,13 @@
+{
+  "asn": 53189,
+  "handle": "TOQUE-TELECOM-LTDA",
+  "description": "Toque Telecom Ltda",
+  "subnets": {
+    "ipv4": [
+      "170.83.84.0/22",
+      "186.227.128.0/22",
+      "186.227.136.0/21"
+    ],
+    "ipv6": []
+  }
+}

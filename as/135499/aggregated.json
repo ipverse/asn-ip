@@ -1,0 +1,11 @@
+{
+  "asn": 135499,
+  "handle": "TIGER-PL-AP",
+  "description": "Philippine Long Distance Telephone Co.",
+  "subnets": {
+    "ipv4": [
+      "210.213.219.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 136079,
+  "handle": "IDNIC-AMIKOM-ID",
+  "description": "STMIK Amikom Yogyakarta",
+  "subnets": {
+    "ipv4": [
+      "103.86.100.0/23",
+      "202.91.9.0/24"
+    ],
+    "ipv6": []
+  }
+}

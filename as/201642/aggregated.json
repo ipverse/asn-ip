@@ -1,0 +1,13 @@
+{
+  "asn": 201642,
+  "handle": "NCS-BG",
+  "description": "NetCom Service ltd",
+  "subnets": {
+    "ipv4": [
+      "85.196.128.0/22"
+    ],
+    "ipv6": [
+      "2a01:288:4005::/48"
+    ]
+  }
+}

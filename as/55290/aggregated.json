@@ -1,0 +1,14 @@
+{
+  "asn": 55290,
+  "handle": "DTCC-CDZ-CVO",
+  "description": "Depository Trust \u0026 Clearing Corporation",
+  "subnets": {
+    "ipv4": [
+      "167.188.4.0/23",
+      "167.188.246.0/23",
+      "207.45.43.0/24",
+      "207.45.44.0/23"
+    ],
+    "ipv6": []
+  }
+}

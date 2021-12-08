@@ -1,0 +1,15 @@
+{
+  "asn": 20640,
+  "handle": "TITAN-NETWORKS",
+  "description": "Titan Networks Internet \u0026 Telecommunications Service Providing GmbH",
+  "subnets": {
+    "ipv4": [
+      "82.206.0.0/17",
+      "217.140.64.0/19",
+      "217.173.128.0/19"
+    ],
+    "ipv6": [
+      "2001:4b88::/32"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 58986,
+  "handle": "IDLE2-IN",
+  "description": "IDLE ANTS MEDIA PRIVATE LIMITED",
+  "subnets": {
+    "ipv4": [
+      "103.25.124.0/24",
+      "103.240.144.0/22"
+    ],
+    "ipv6": []
+  }
+}

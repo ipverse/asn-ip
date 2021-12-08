@@ -1,0 +1,13 @@
+{
+  "asn": 142054,
+  "handle": "TSTITSOLUTIONSBD-AP",
+  "description": "TST IT Solutions BD",
+  "subnets": {
+    "ipv4": [
+      "103.166.24.0/23"
+    ],
+    "ipv6": [
+      "2001:df6:7a80::/48"
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 201210,
+  "handle": "TRIGONON",
+  "description": "TRIGONON DATA SERVICES LTD",
+  "subnets": {
+    "ipv4": [
+      "185.82.36.0/22"
+    ],
+    "ipv6": [
+      "2001:4d70::/32",
+      "2a05:8cc0::/29"
+    ]
+  }
+}

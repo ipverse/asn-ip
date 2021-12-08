@@ -1,0 +1,14 @@
+{
+  "asn": 56141,
+  "handle": "DSP-VN",
+  "description": "Danang ICT Infrastructure Development Center",
+  "subnets": {
+    "ipv4": [
+      "49.156.52.0/22",
+      "103.101.76.0/22"
+    ],
+    "ipv6": [
+      "2001:df2:9b00::/48"
+    ]
+  }
+}

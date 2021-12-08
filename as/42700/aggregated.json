@@ -1,0 +1,13 @@
+{
+  "asn": 42700,
+  "handle": "REALIS",
+  "description": "Realis Informacijske tehnologije d.o.o.",
+  "subnets": {
+    "ipv4": [
+      "194.110.199.0/24"
+    ],
+    "ipv6": [
+      "2001:678:1ec::/48"
+    ]
+  }
+}

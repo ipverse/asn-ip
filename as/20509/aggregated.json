@@ -1,0 +1,11 @@
+{
+  "asn": 20509,
+  "handle": "ELKO-GRUPA",
+  "description": "Elko Grupa as",
+  "subnets": {
+    "ipv4": [
+      "193.178.232.0/23"
+    ],
+    "ipv6": []
+  }
+}

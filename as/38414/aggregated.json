@@ -1,0 +1,13 @@
+{
+  "asn": 38414,
+  "handle": "GOESH-KR-KR",
+  "description": "Gyeonggi  siheung office of education",
+  "subnets": {
+    "ipv4": [
+      "1.242.6.0/23",
+      "211.252.21.0/24",
+      "222.117.82.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 211622,
+  "handle": "PWTSAI",
+  "description": "TSAI, PANG-WEI",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2403:7f40:e000::/48",
+      "2a0c:9a40:82c0::/48"
+    ]
+  }
+}

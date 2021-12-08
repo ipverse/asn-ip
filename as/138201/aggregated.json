@@ -1,0 +1,11 @@
+{
+  "asn": 138201,
+  "handle": "MGGS-AP",
+  "description": "Melbourne Girls Grammar School",
+  "subnets": {
+    "ipv4": [
+      "203.4.224.0/24"
+    ],
+    "ipv6": []
+  }
+}

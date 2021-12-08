@@ -1,0 +1,13 @@
+{
+  "asn": 49130,
+  "handle": "SYSELEVEN",
+  "description": "SysEleven GmbH",
+  "subnets": {
+    "ipv4": [
+      "185.56.106.0/24"
+    ],
+    "ipv6": [
+      "2a00:7fc0:8000::/48"
+    ]
+  }
+}

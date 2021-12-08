@@ -1,0 +1,13 @@
+{
+  "asn": 47969,
+  "handle": "MWR-LD4",
+  "description": "Moneywheel Research Zrt.",
+  "subnets": {
+    "ipv4": [
+      "45.95.112.0/24",
+      "45.158.78.0/23",
+      "185.95.16.0/22"
+    ],
+    "ipv6": []
+  }
+}

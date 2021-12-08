@@ -1,0 +1,13 @@
+{
+  "asn": 201530,
+  "handle": "LVM",
+  "description": "LVM Landwirtschaftlicher Versicherungsverein Muenster a.G.",
+  "subnets": {
+    "ipv4": [
+      "91.222.44.0/22"
+    ],
+    "ipv6": [
+      "2001:67c:764::/48"
+    ]
+  }
+}

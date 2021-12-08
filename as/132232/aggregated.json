@@ -1,0 +1,13 @@
+{
+  "asn": 132232,
+  "handle": "DCS",
+  "description": "Data Centre Services",
+  "subnets": {
+    "ipv4": [
+      "103.7.252.0/22"
+    ],
+    "ipv6": [
+      "2403:8700::/32"
+    ]
+  }
+}

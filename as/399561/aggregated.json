@@ -1,0 +1,13 @@
+{
+  "asn": 399561,
+  "handle": "RTCONN-CDN",
+  "description": "Right Connection, Inc.",
+  "subnets": {
+    "ipv4": [
+      "163.123.163.0/24"
+    ],
+    "ipv6": [
+      "2602:fc91:163::/48"
+    ]
+  }
+}

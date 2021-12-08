@@ -1,0 +1,11 @@
+{
+  "asn": 13474,
+  "handle": "BANCO-DE-GALICIA",
+  "description": "Banco de Galicia y Buenos Aires",
+  "subnets": {
+    "ipv4": [
+      "161.190.0.0/17"
+    ],
+    "ipv6": []
+  }
+}

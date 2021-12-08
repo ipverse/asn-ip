@@ -1,0 +1,12 @@
+{
+  "asn": 24539,
+  "handle": "SYNOPSYS-INDC",
+  "description": "Synopsys",
+  "subnets": {
+    "ipv4": [
+      "149.117.222.0/24",
+      "198.182.52.0/23"
+    ],
+    "ipv6": []
+  }
+}

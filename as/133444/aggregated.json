@@ -1,0 +1,14 @@
+{
+  "asn": 133444,
+  "handle": "N21-MY",
+  "description": "Altel Communications Sdn Bhd",
+  "subnets": {
+    "ipv4": [
+      "45.120.128.0/22",
+      "103.229.112.0/22"
+    ],
+    "ipv6": [
+      "2400:df80::/32"
+    ]
+  }
+}

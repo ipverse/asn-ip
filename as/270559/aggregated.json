@@ -1,0 +1,13 @@
+{
+  "asn": 270559,
+  "handle": "XIS-2-INTERNET-FIBRA-LTDA",
+  "description": "XIS 2 INTERNET FIBRA LTDA",
+  "subnets": {
+    "ipv4": [
+      "201.216.76.0/22"
+    ],
+    "ipv6": [
+      "2804:6dd8::/32"
+    ]
+  }
+}

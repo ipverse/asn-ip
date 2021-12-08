@@ -1,0 +1,14 @@
+{
+  "asn": 272221,
+  "handle": "CENTRAL-DO-TI-LTDA",
+  "description": "Central do TI LTDA",
+  "subnets": {
+    "ipv4": [
+      "138.204.44.0/24",
+      "179.61.225.0/24"
+    ],
+    "ipv6": [
+      "2804:83cc::/32"
+    ]
+  }
+}

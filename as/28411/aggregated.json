@@ -1,0 +1,13 @@
+{
+  "asn": 28411,
+  "handle": "AIRE-CABLE-SA-DE-CV",
+  "description": "Aire Cable S.A. de C.V.",
+  "subnets": {
+    "ipv4": [
+      "138.219.36.0/22",
+      "168.194.0.0/22",
+      "170.247.228.0/22"
+    ],
+    "ipv6": []
+  }
+}

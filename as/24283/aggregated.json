@@ -1,0 +1,12 @@
+{
+  "asn": 24283,
+  "handle": "MIEDEN-NET",
+  "description": "MIEDEN SYSTEM SOLUTION .LTD",
+  "subnets": {
+    "ipv4": [
+      "202.78.248.0/23",
+      "202.78.250.0/24"
+    ],
+    "ipv6": []
+  }
+}

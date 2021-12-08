@@ -1,0 +1,13 @@
+{
+  "asn": 20201,
+  "handle": "CARYCO-TECH",
+  "description": "Caryco Tech",
+  "subnets": {
+    "ipv4": [
+      "199.15.99.0/24",
+      "199.15.100.0/24",
+      "199.15.102.0/23"
+    ],
+    "ipv6": []
+  }
+}

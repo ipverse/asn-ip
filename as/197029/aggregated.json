@@ -1,0 +1,13 @@
+{
+  "asn": 197029,
+  "handle": "LAM",
+  "description": "LAM plus s.r.o.",
+  "subnets": {
+    "ipv4": [
+      "80.92.240.0/20"
+    ],
+    "ipv6": [
+      "2a02:cbe0::/31"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 206775,
+  "handle": "NOVOMIND",
+  "description": "novomind AG",
+  "subnets": {
+    "ipv4": [
+      "185.124.243.0/24"
+    ],
+    "ipv6": [
+      "2a10:1340::/29"
+    ]
+  }
+}

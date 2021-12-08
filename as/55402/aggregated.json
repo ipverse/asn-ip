@@ -1,0 +1,12 @@
+{
+  "asn": 55402,
+  "handle": "PNB1COM-PH",
+  "description": "Philippine National Bank",
+  "subnets": {
+    "ipv4": [
+      "103.110.47.0/24",
+      "202.58.236.0/23"
+    ],
+    "ipv6": []
+  }
+}

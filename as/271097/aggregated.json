@@ -1,0 +1,13 @@
+{
+  "asn": 271097,
+  "handle": "RB-REDES-E",
+  "description": "RB REDES E SERVIÇOS DE PROVEDORES DE ACESSO EIRELI",
+  "subnets": {
+    "ipv4": [
+      "179.48.116.0/22"
+    ],
+    "ipv6": [
+      "2804:7638::/32"
+    ]
+  }
+}

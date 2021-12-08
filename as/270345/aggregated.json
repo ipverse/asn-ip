@@ -1,0 +1,13 @@
+{
+  "asn": 270345,
+  "handle": "TECH-FIBRA-PROVEDOR",
+  "description": "TECH FIBRA PROVEDOR DE INTERNET LTDA - ME",
+  "subnets": {
+    "ipv4": [
+      "190.83.40.0/22"
+    ],
+    "ipv6": [
+      "2804:6a94:4000::/34"
+    ]
+  }
+}

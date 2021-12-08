@@ -1,0 +1,12 @@
+{
+  "asn": 28088,
+  "handle": "INVERSIONES-APOLO-SA-DE-CV",
+  "description": "Inversiones Apolo S.A. de C.V.",
+  "subnets": {
+    "ipv4": [
+      "181.199.176.0/20",
+      "200.59.24.0/21"
+    ],
+    "ipv6": []
+  }
+}

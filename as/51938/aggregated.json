@@ -1,0 +1,12 @@
+{
+  "asn": 51938,
+  "handle": "MEDSYSTEMS",
+  "description": "GlobeMed Solutions SAL",
+  "subnets": {
+    "ipv4": [
+      "185.54.96.0/23",
+      "185.54.99.0/24"
+    ],
+    "ipv6": []
+  }
+}

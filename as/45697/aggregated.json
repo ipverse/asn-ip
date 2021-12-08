@@ -1,0 +1,11 @@
+{
+  "asn": 45697,
+  "handle": "UBAYA-ID",
+  "description": "Universitas Surabaya",
+  "subnets": {
+    "ipv4": [
+      "203.114.224.0/23"
+    ],
+    "ipv6": []
+  }
+}

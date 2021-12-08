@@ -1,0 +1,12 @@
+{
+  "asn": 393546,
+  "handle": "ARUP",
+  "description": "ARUP LABORATORIES",
+  "subnets": {
+    "ipv4": [
+      "12.10.132.0/23",
+      "192.69.2.0/23"
+    ],
+    "ipv6": []
+  }
+}

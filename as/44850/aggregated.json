@@ -1,0 +1,12 @@
+{
+  "asn": 44850,
+  "handle": "IRD",
+  "description": "EPA Institut de Recherche pour le Developpement",
+  "subnets": {
+    "ipv4": [
+      "91.203.32.0/23",
+      "91.203.35.0/24"
+    ],
+    "ipv6": []
+  }
+}

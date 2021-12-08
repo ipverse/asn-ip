@@ -1,0 +1,11 @@
+{
+  "asn": 30358,
+  "handle": "SHC-DIRECT-LLC",
+  "description": "SHC Direct, LLC",
+  "subnets": {
+    "ipv4": [
+      "198.232.221.0/24"
+    ],
+    "ipv6": []
+  }
+}

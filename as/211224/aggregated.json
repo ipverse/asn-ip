@@ -1,0 +1,12 @@
+{
+  "asn": 211224,
+  "handle": "JB3",
+  "description": "Joseph Banks",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2602:fcd3:105::/48",
+      "2a0f:85c1:23::/48"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 133297,
+  "handle": "AEROWAY",
+  "description": "Aeroway Networks Private Limited",
+  "subnets": {
+    "ipv4": [
+      "43.251.80.0/23",
+      "43.251.82.0/24",
+      "103.254.128.0/23"
+    ],
+    "ipv6": []
+  }
+}

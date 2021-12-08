@@ -1,0 +1,14 @@
+{
+  "asn": 263573,
+  "handle": "HYPER-NET-TELECOMUNICACOES",
+  "description": "HYPER NET TELECOMUNICACOES LTDA ME",
+  "subnets": {
+    "ipv4": [
+      "170.231.240.0/22",
+      "177.184.216.0/22"
+    ],
+    "ipv6": [
+      "2804:f40::/32"
+    ]
+  }
+}

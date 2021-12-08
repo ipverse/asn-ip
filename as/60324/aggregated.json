@@ -1,0 +1,11 @@
+{
+  "asn": 60324,
+  "handle": "LTV-ASS",
+  "description": "VSIA Latvijas Televizija",
+  "subnets": {
+    "ipv4": [
+      "159.148.191.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 39110,
+  "handle": "OE9HAMNET",
+  "description": "Fabian Friesenecker trading as VLBGIT Friesenecker e.U.",
+  "subnets": {
+    "ipv4": [
+      "44.190.2.0/24",
+      "44.190.28.0/24"
+    ],
+    "ipv6": [
+      "2a10:9980:254::/48"
+    ]
+  }
+}

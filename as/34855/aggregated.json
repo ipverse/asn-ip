@@ -1,0 +1,13 @@
+{
+  "asn": 34855,
+  "handle": "STROY-TELECOM",
+  "description": "Stroy-Telecom LTD",
+  "subnets": {
+    "ipv4": [
+      "185.96.0.0/22"
+    ],
+    "ipv6": [
+      "2a04:5180::/29"
+    ]
+  }
+}

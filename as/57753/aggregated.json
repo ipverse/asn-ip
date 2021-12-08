@@ -1,0 +1,12 @@
+{
+  "asn": 57753,
+  "handle": "RADIST",
+  "description": "Radist LTD",
+  "subnets": {
+    "ipv4": [
+      "91.197.104.0/22",
+      "91.233.220.0/22"
+    ],
+    "ipv6": []
+  }
+}

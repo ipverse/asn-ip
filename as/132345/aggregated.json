@@ -1,0 +1,11 @@
+{
+  "asn": 132345,
+  "handle": "FRIENDSSCH-AP",
+  "description": "The Friends School",
+  "subnets": {
+    "ipv4": [
+      "202.20.69.0/24"
+    ],
+    "ipv6": []
+  }
+}

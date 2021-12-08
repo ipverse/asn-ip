@@ -1,0 +1,13 @@
+{
+  "asn": 30177,
+  "handle": "FIBER-SOUTH-01",
+  "description": "Cobb R\u0026D, LLC",
+  "subnets": {
+    "ipv4": [
+      "162.142.104.0/21"
+    ],
+    "ipv6": [
+      "2605:b7c0::/32"
+    ]
+  }
+}

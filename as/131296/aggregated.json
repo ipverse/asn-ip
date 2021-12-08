@@ -1,0 +1,12 @@
+{
+  "asn": 131296,
+  "handle": "REXNETWORKS-AP",
+  "description": "REXNETWORKS LIMITED",
+  "subnets": {
+    "ipv4": [
+      "103.68.228.0/22",
+      "180.222.124.0/22"
+    ],
+    "ipv6": []
+  }
+}

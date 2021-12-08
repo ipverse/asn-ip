@@ -1,0 +1,13 @@
+{
+  "asn": 52932,
+  "handle": "TECNOWIRELESS-TELECOM-LTDA",
+  "description": "Tecnowireless Telecom Ltda",
+  "subnets": {
+    "ipv4": [
+      "177.185.112.0/21"
+    ],
+    "ipv6": [
+      "2804:28b0::/32"
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 263720,
+  "handle": "SURPORAIRE-SA",
+  "description": "SURPORAIRE SA",
+  "subnets": {
+    "ipv4": [
+      "132.255.200.0/23",
+      "132.255.203.0/24"
+    ],
+    "ipv6": [
+      "2803:5780::/32"
+    ]
+  }
+}

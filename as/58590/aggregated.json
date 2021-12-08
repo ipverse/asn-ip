@@ -1,0 +1,13 @@
+{
+  "asn": 58590,
+  "handle": "AMTRON-IN",
+  "description": "Assam Electronics Development Corp Ltd",
+  "subnets": {
+    "ipv4": [
+      "103.8.248.0/22"
+    ],
+    "ipv6": [
+      "2403:bd00::/32"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 265823,
+  "handle": "NETROPOLYS-SA",
+  "description": "NETROPOLYS S.A.",
+  "subnets": {
+    "ipv4": [
+      "132.255.8.0/22",
+      "192.141.92.0/22"
+    ],
+    "ipv6": []
+  }
+}

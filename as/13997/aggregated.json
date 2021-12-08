@@ -1,0 +1,12 @@
+{
+  "asn": 13997,
+  "handle": "RD-CHI",
+  "description": "Rapid Displays, Inc",
+  "subnets": {
+    "ipv4": [
+      "198.185.166.0/24",
+      "198.235.0.0/24"
+    ],
+    "ipv6": []
+  }
+}

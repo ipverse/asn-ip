@@ -1,0 +1,13 @@
+{
+  "asn": 267273,
+  "handle": "PORTAL-PIAUI",
+  "description": "PORTAL PIAUI",
+  "subnets": {
+    "ipv4": [
+      "45.232.200.0/23"
+    ],
+    "ipv6": [
+      "2804:4af0::/32"
+    ]
+  }
+}

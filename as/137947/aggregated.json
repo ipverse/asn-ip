@@ -1,0 +1,11 @@
+{
+  "asn": 137947,
+  "handle": "PRIMEBANK-AP",
+  "description": "Prime Bank Ltd",
+  "subnets": {
+    "ipv4": [
+      "103.118.0.0/23"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 132329,
+  "handle": "FIRSTSRC-IN",
+  "description": "Firstsource Solutions Ltd",
+  "subnets": {
+    "ipv4": [
+      "103.12.169.0/24",
+      "103.12.170.0/23",
+      "203.217.136.0/24"
+    ],
+    "ipv6": []
+  }
+}

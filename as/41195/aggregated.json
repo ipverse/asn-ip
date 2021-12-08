@@ -1,0 +1,13 @@
+{
+  "asn": 41195,
+  "handle": "NETFINITY",
+  "description": "Netfinity Grup SRL",
+  "subnets": {
+    "ipv4": [
+      "176.118.186.0/23"
+    ],
+    "ipv6": [
+      "2a0d:ca47::/47"
+    ]
+  }
+}

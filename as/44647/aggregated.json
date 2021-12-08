@@ -1,0 +1,13 @@
+{
+  "asn": 44647,
+  "handle": "ARIO",
+  "description": "Ario, d.o.o.",
+  "subnets": {
+    "ipv4": [
+      "92.53.128.0/19"
+    ],
+    "ipv6": [
+      "2a00:1c80::/29"
+    ]
+  }
+}

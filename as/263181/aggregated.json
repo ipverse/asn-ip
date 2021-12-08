@@ -1,0 +1,13 @@
+{
+  "asn": 263181,
+  "handle": "COOPERATIVA-TELEFONICA-DE",
+  "description": "Cooperativa Telefónica de Grand Bourg",
+  "subnets": {
+    "ipv4": [
+      "186.177.192.0/19"
+    ],
+    "ipv6": [
+      "2803:4c80::/32"
+    ]
+  }
+}

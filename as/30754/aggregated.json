@@ -1,0 +1,11 @@
+{
+  "asn": 30754,
+  "handle": "FI-PARLIAMENT",
+  "description": "Parliament of Finland",
+  "subnets": {
+    "ipv4": [
+      "217.71.144.0/20"
+    ],
+    "ipv6": []
+  }
+}

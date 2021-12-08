@@ -1,0 +1,13 @@
+{
+  "asn": 42893,
+  "handle": "NWLINK",
+  "description": "Nord-West Link NP",
+  "subnets": {
+    "ipv4": [
+      "146.66.160.0/19",
+      "146.66.192.0/20",
+      "178.252.64.0/18"
+    ],
+    "ipv6": []
+  }
+}

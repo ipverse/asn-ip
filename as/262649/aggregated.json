@@ -1,0 +1,15 @@
+{
+  "asn": 262649,
+  "handle": "SIDYS-COMUNICACOES-LTDA",
+  "description": "Sidys Comunicações Ltda.",
+  "subnets": {
+    "ipv4": [
+      "138.219.204.0/22",
+      "170.238.92.0/22",
+      "177.105.176.0/20"
+    ],
+    "ipv6": [
+      "2804:770::/32"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 263417,
+  "handle": "UNIVERSIDADE-CATOLICA-DOM",
+  "description": "UNIVERSIDADE CATOLICA DOM BOSCO",
+  "subnets": {
+    "ipv4": [
+      "191.37.253.0/24"
+    ],
+    "ipv6": [
+      "2801:80:9e0::/48"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 52557,
+  "handle": "FLYNET-TELECOM-LTDA-ME",
+  "description": "FLYNET TELECOM LTDA - ME",
+  "subnets": {
+    "ipv4": [
+      "177.86.8.0/21"
+    ],
+    "ipv6": [
+      "2804:cd0::/32"
+    ]
+  }
+}

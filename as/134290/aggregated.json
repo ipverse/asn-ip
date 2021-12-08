@@ -1,0 +1,13 @@
+{
+  "asn": 134290,
+  "handle": "ARROW46",
+  "description": "Arrow Touch Wireless Internet Private Limited",
+  "subnets": {
+    "ipv4": [
+      "103.83.104.0/22",
+      "103.140.23.0/24",
+      "103.171.38.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asn": 31209,
+  "handle": "AS12CONNECT",
+  "description": "12Connect B.V.",
+  "subnets": {
+    "ipv4": [
+      "109.71.104.0/22"
+    ],
+    "ipv6": []
+  }
+}

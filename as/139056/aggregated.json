@@ -1,0 +1,12 @@
+{
+  "asn": 139056,
+  "handle": "FOCL-AP",
+  "description": "FAST ONE (CAMBODIA) CO., LTD",
+  "subnets": {
+    "ipv4": [
+      "103.139.16.0/23",
+      "154.214.2.0/23"
+    ],
+    "ipv6": []
+  }
+}

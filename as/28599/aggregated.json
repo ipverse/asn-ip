@@ -1,0 +1,13 @@
+{
+  "asn": 28599,
+  "handle": "ITALNET-TELECOMUNICACOES-LTDA",
+  "description": "Italnet Telecomunicações Ltda",
+  "subnets": {
+    "ipv4": [
+      "201.7.224.0/19"
+    ],
+    "ipv6": [
+      "2804:15ec::/32"
+    ]
+  }
+}

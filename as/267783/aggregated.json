@@ -1,0 +1,13 @@
+{
+  "asn": 267783,
+  "handle": "QUALCOM-TELESISTEMAS-CA",
+  "description": "QUALCOM TELESISTEMAS C.A.",
+  "subnets": {
+    "ipv4": [
+      "45.170.110.0/23"
+    ],
+    "ipv6": [
+      "2803:f7a0::/32"
+    ]
+  }
+}

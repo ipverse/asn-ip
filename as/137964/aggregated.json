@@ -1,0 +1,14 @@
+{
+  "asn": 137964,
+  "handle": "NEXTGENONLINE-AP",
+  "description": "Next Gen Online",
+  "subnets": {
+    "ipv4": [
+      "103.114.61.0/24",
+      "103.118.152.0/23"
+    ],
+    "ipv6": [
+      "2001:df5:cf00::/48"
+    ]
+  }
+}

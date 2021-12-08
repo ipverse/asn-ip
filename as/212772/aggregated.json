@@ -1,0 +1,13 @@
+{
+  "asn": 212772,
+  "handle": "ADGUARD",
+  "description": "AdGuard Software Limited",
+  "subnets": {
+    "ipv4": [
+      "94.140.14.0/23"
+    ],
+    "ipv6": [
+      "2a10:50c0::/48"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "asn": 139247,
+  "handle": "PPPWAW-AP",
+  "description": "LSHIY Network Technology Limited",
+  "subnets": {
+    "ipv4": [
+      "208.99.48.0/24"
+    ],
+    "ipv6": [
+      "2404:f4c0:ff01::/48",
+      "2404:f4c0:ff04::/48",
+      "2404:f4c0:ff06::/48",
+      "2404:f4c0:ff0f::/48",
+      "2602:fc1d::/40"
+    ]
+  }
+}

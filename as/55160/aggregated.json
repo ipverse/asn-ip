@@ -1,0 +1,12 @@
+{
+  "asn": 55160,
+  "handle": "INTELLINETCORP",
+  "description": "IntelliNet Corporation",
+  "subnets": {
+    "ipv4": [
+      "198.45.120.0/22",
+      "198.45.124.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 30241,
+  "handle": "EXCELLIPATH",
+  "description": "ExcelliPath, LLC.",
+  "subnets": {
+    "ipv4": [
+      "38.22.18.0/23",
+      "192.163.24.0/22"
+    ],
+    "ipv6": [
+      "2602:fd68::/36"
+    ]
+  }
+}

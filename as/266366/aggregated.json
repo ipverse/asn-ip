@@ -1,0 +1,13 @@
+{
+  "asn": 266366,
+  "handle": "GIGA-NET-TELECOMUNICACOES",
+  "description": "GIGA NET TELECOMUNICACOES EIRELI - ME",
+  "subnets": {
+    "ipv4": [
+      "170.80.32.0/22"
+    ],
+    "ipv6": [
+      "2804:36b4::/32"
+    ]
+  }
+}

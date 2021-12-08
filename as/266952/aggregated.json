@@ -1,0 +1,13 @@
+{
+  "asn": 266952,
+  "handle": "ACESSO-FIBRA",
+  "description": "Acesso Fibra",
+  "subnets": {
+    "ipv4": [
+      "45.225.252.0/22"
+    ],
+    "ipv6": [
+      "2804:45d4::/32"
+    ]
+  }
+}

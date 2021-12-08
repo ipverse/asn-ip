@@ -1,0 +1,12 @@
+{
+  "asn": 27468,
+  "handle": "GOODWILL-INDUSTRIES-OF-ORANGE-COUNTY",
+  "description": "Goodwill Industries of Orange County",
+  "subnets": {
+    "ipv4": [
+      "65.198.25.0/24",
+      "65.214.155.0/24"
+    ],
+    "ipv6": []
+  }
+}

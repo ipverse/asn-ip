@@ -1,0 +1,13 @@
+{
+  "asn": 20704,
+  "handle": "FUNKNETZ",
+  "description": "www.Funknetz.at LE GmbH",
+  "subnets": {
+    "ipv4": [
+      "81.92.242.0/23",
+      "81.92.244.0/22",
+      "217.196.64.0/19"
+    ],
+    "ipv6": []
+  }
+}

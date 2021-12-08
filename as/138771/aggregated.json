@@ -1,0 +1,13 @@
+{
+  "asn": 138771,
+  "handle": "SPECIFIC",
+  "description": "Specific Net Pvt. Ltd.",
+  "subnets": {
+    "ipv4": [
+      "103.71.16.0/23",
+      "103.71.18.0/24",
+      "103.139.4.0/23"
+    ],
+    "ipv6": []
+  }
+}

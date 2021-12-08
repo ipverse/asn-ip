@@ -1,0 +1,14 @@
+{
+  "asn": 57957,
+  "handle": "ERUXO",
+  "description": "eruxo llc in liquidation",
+  "subnets": {
+    "ipv4": [
+      "176.111.216.0/22",
+      "176.111.220.0/23"
+    ],
+    "ipv6": [
+      "2001:67c:2800::/48"
+    ]
+  }
+}

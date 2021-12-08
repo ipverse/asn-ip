@@ -1,0 +1,13 @@
+{
+  "asn": 397250,
+  "handle": "69-55-21X",
+  "description": "Leader Communications LLC",
+  "subnets": {
+    "ipv4": [
+      "69.55.213.0/24",
+      "205.174.152.0/24",
+      "207.32.198.0/24"
+    ],
+    "ipv6": []
+  }
+}

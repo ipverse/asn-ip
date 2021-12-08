@@ -1,0 +1,11 @@
+{
+  "asn": 48988,
+  "handle": "KTEC2",
+  "description": "OAO Inter RAO EES",
+  "subnets": {
+    "ipv4": [
+      "193.36.38.0/24"
+    ],
+    "ipv6": []
+  }
+}

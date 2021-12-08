@@ -1,0 +1,12 @@
+{
+  "asn": 263090,
+  "handle": "MN-DOS-SANTOS-INFORMATICA",
+  "description": "m.n. dos santos informatica",
+  "subnets": {
+    "ipv4": [
+      "186.250.72.0/21",
+      "201.150.88.0/22"
+    ],
+    "ipv6": []
+  }
+}

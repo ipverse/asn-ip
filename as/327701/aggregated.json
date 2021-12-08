@@ -1,0 +1,12 @@
+{
+  "asn": 327701,
+  "handle": "SABINET",
+  "description": "Sabinet  Gateway",
+  "subnets": {
+    "ipv4": [
+      "196.4.84.0/24",
+      "198.54.80.0/24"
+    ],
+    "ipv6": []
+  }
+}

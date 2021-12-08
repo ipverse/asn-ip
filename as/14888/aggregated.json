@@ -1,0 +1,13 @@
+{
+  "asn": 14888,
+  "handle": "FNNI",
+  "description": "First National Bank of Omaha",
+  "subnets": {
+    "ipv4": [
+      "12.36.206.0/24",
+      "204.58.232.0/22",
+      "216.205.192.0/20"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 56418,
+  "handle": "ASNIXADMIN",
+  "description": "MIkhail Lavkin",
+  "subnets": {
+    "ipv4": [
+      "93.171.198.0/23",
+      "185.213.136.0/24",
+      "192.144.48.0/24"
+    ],
+    "ipv6": []
+  }
+}

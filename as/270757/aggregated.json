@@ -1,0 +1,13 @@
+{
+  "asn": 270757,
+  "handle": "VIP-NET-PROVEDOR",
+  "description": "VIP NET PROVEDOR DE SERVICOS DE INTERNET LTDA",
+  "subnets": {
+    "ipv4": [
+      "200.39.132.0/22"
+    ],
+    "ipv6": [
+      "2804:70f0::/32"
+    ]
+  }
+}

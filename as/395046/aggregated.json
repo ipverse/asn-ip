@@ -1,0 +1,12 @@
+{
+  "asn": 395046,
+  "handle": "SEXING-TECHNOLOGIES",
+  "description": "Sexing Technologies",
+  "subnets": {
+    "ipv4": [
+      "69.64.28.0/22",
+      "196.55.36.0/22"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asn": 59287,
+  "handle": "IDNIC-MAXIMEDIA-ID",
+  "description": "PT Maximedia Cakrawala",
+  "subnets": {
+    "ipv4": [
+      "103.231.80.0/23"
+    ],
+    "ipv6": []
+  }
+}

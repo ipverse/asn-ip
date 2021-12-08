@@ -1,0 +1,14 @@
+{
+  "asn": 41289,
+  "handle": "DWD",
+  "description": "Deutscher Wetterdienst",
+  "subnets": {
+    "ipv4": [
+      "141.17.0.0/16",
+      "141.38.0.0/16"
+    ],
+    "ipv6": [
+      "2001:67c:1364::/48"
+    ]
+  }
+}

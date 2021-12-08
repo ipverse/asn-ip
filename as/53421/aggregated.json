@@ -1,0 +1,12 @@
+{
+  "asn": 53421,
+  "handle": "TROYOHIO-TROYSCHOOLS",
+  "description": "Troy City School District",
+  "subnets": {
+    "ipv4": [
+      "199.244.16.0/21",
+      "199.244.24.0/23"
+    ],
+    "ipv6": []
+  }
+}

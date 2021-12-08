@@ -1,0 +1,12 @@
+{
+  "asn": 14614,
+  "handle": "STARKEY",
+  "description": "Starkey Laboratories, Inc.",
+  "subnets": {
+    "ipv4": [
+      "167.100.116.0/23",
+      "167.100.118.0/24"
+    ],
+    "ipv6": []
+  }
+}

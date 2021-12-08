@@ -1,0 +1,15 @@
+{
+  "asn": 268738,
+  "handle": "M3-NET-FIBRA-LTDA-ME",
+  "description": "M3 Net Fibra LTDA - ME",
+  "subnets": {
+    "ipv4": [
+      "45.71.28.0/22",
+      "45.171.44.0/22"
+    ],
+    "ipv6": [
+      "2804:59fc::/34",
+      "2804:59fc:c000::/34"
+    ]
+  }
+}

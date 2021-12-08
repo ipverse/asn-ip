@@ -1,0 +1,12 @@
+{
+  "asn": 131944,
+  "handle": "KADOKAWA-NET",
+  "description": "KADOKAWA DWANGO CORPORATION",
+  "subnets": {
+    "ipv4": [
+      "103.115.217.0/24",
+      "103.115.218.0/23"
+    ],
+    "ipv6": []
+  }
+}

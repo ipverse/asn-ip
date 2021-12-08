@@ -1,0 +1,13 @@
+{
+  "asn": 205543,
+  "handle": "GHZ",
+  "description": "Gigahertz GmbH",
+  "subnets": {
+    "ipv4": [
+      "185.214.236.0/22"
+    ],
+    "ipv6": [
+      "2a0b:af40::/29"
+    ]
+  }
+}

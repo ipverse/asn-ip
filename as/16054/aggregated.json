@@ -1,0 +1,13 @@
+{
+  "asn": 16054,
+  "handle": "NSOELSV",
+  "description": "PJSC Rostelecom",
+  "subnets": {
+    "ipv4": [
+      "95.191.129.0/24",
+      "213.228.96.0/21",
+      "217.70.96.0/19"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 267598,
+  "handle": "W-COM-INTERNET",
+  "description": "W-COM Internet",
+  "subnets": {
+    "ipv4": [
+      "45.70.244.0/22"
+    ],
+    "ipv6": [
+      "2804:43e8::/32"
+    ]
+  }
+}

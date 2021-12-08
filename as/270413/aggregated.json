@@ -1,0 +1,13 @@
+{
+  "asn": 270413,
+  "handle": "PGF-SERVICO-DE",
+  "description": "PGF SERVICO DE TELECOMUNICACOES LTDA",
+  "subnets": {
+    "ipv4": [
+      "190.89.244.0/22"
+    ],
+    "ipv6": [
+      "2804:6ba0::/32"
+    ]
+  }
+}

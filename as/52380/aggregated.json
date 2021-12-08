@@ -1,0 +1,12 @@
+{
+  "asn": 52380,
+  "handle": "SISTA-SA",
+  "description": "Sista S.A.",
+  "subnets": {
+    "ipv4": [
+      "179.60.152.0/21",
+      "186.65.84.0/22"
+    ],
+    "ipv6": []
+  }
+}

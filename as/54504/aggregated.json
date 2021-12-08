@@ -1,0 +1,12 @@
+{
+  "asn": 54504,
+  "handle": "HEITAS",
+  "description": "Heitman LLC.",
+  "subnets": {
+    "ipv4": [
+      "199.196.189.0/24",
+      "199.196.190.0/24"
+    ],
+    "ipv6": []
+  }
+}

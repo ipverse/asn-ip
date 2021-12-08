@@ -1,0 +1,12 @@
+{
+  "asn": 209161,
+  "handle": "ALANTIC",
+  "description": "ALANTIC, UAB",
+  "subnets": {
+    "ipv4": [
+      "193.24.0.0/23",
+      "193.24.4.0/23"
+    ],
+    "ipv6": []
+  }
+}

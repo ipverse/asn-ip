@@ -1,0 +1,11 @@
+{
+  "asn": 18960,
+  "handle": "HORNELL-INTERNET-PRIMARY",
+  "description": "Hornell Brewing Co., Inc.",
+  "subnets": {
+    "ipv4": [
+      "207.40.1.0/24"
+    ],
+    "ipv6": []
+  }
+}

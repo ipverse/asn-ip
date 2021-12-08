@@ -1,0 +1,11 @@
+{
+  "asn": 269183,
+  "handle": "SIM-TELECOMUNICACAO-E",
+  "description": "sim telecomunicação e multimidia",
+  "subnets": {
+    "ipv4": [
+      "45.181.108.0/22"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 45347,
+  "handle": "DTZAPL-AP",
+  "description": "DTZ Australia Pty Ltd",
+  "subnets": {
+    "ipv4": [
+      "202.3.67.0/24",
+      "202.129.214.0/24"
+    ],
+    "ipv6": []
+  }
+}

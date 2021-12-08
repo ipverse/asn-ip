@@ -1,0 +1,13 @@
+{
+  "asn": 267262,
+  "handle": "UNIT-FIBRA-LTDA",
+  "description": "Unit Fibra LTDA",
+  "subnets": {
+    "ipv4": [
+      "45.232.100.0/22"
+    ],
+    "ipv6": [
+      "2804:4ac4::/32"
+    ]
+  }
+}

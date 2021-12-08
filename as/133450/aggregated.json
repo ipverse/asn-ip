@@ -1,0 +1,11 @@
+{
+  "asn": 133450,
+  "handle": "CU-AP",
+  "description": "University Of Chittagong",
+  "subnets": {
+    "ipv4": [
+      "103.94.128.0/22"
+    ],
+    "ipv6": []
+  }
+}

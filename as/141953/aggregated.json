@@ -1,0 +1,11 @@
+{
+  "asn": 141953,
+  "handle": "IDNIC-BRIDS-ID",
+  "description": "PT BRI Danareksa Sekuritas",
+  "subnets": {
+    "ipv4": [
+      "103.166.162.0/24"
+    ],
+    "ipv6": []
+  }
+}

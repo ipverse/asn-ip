@@ -1,0 +1,11 @@
+{
+  "asn": 59157,
+  "handle": "IDNIC-STKS-ID",
+  "description": "Sekolah Tinggi Kesejahteraan Sosial",
+  "subnets": {
+    "ipv4": [
+      "103.212.232.0/24"
+    ],
+    "ipv6": []
+  }
+}

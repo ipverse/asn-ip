@@ -1,0 +1,13 @@
+{
+  "asn": 266149,
+  "handle": "BDC-TELECOM",
+  "description": "BDC TELECOM",
+  "subnets": {
+    "ipv4": [
+      "160.19.168.0/22"
+    ],
+    "ipv6": [
+      "2804:3b70::/32"
+    ]
+  }
+}

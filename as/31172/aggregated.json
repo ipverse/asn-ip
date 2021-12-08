@@ -1,0 +1,13 @@
+{
+  "asn": 31172,
+  "handle": "QFAST",
+  "description": "QFast Telecom B.V.",
+  "subnets": {
+    "ipv4": [
+      "87.239.96.0/21"
+    ],
+    "ipv6": [
+      "2001:67c:1f0::/48"
+    ]
+  }
+}
