@@ -27,7 +27,6 @@ The resulting JSON will look similar to this:
   "asn": 1234,
   "handle": "FORTUM",
   "description": "Fortum",
-  "announced-at": "2021-11-20",
   "subnets": {
     "ipv4": [
       "132.171.0.0/16",
