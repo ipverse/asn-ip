@@ -1,4 +1,9 @@
 # AS50710 (EARTHLINK)
 # EarthLink Ltd. Communications&Internet Services
 #
-2a03:4b40::/29
+2a03:4b40:5180::/47
+2a03:4b40:5182::/48
+2a03:4b40:5280::/48
+2a03:4b40:5400::/47
+2a03:4b40:5600::/47
+2a03:4b40:7fff::/48

@@ -3,7 +3,9 @@
   "handle": "AL-AKHAWAYN",
   "description": "Al\u0027Akhawayn University",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "196.43.236.0/24"
+    ],
     "ipv6": []
   }
 }

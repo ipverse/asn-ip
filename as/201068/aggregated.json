@@ -4,6 +4,7 @@
   "description": "AK-COM S.C. Blaut Andrzej Kozlowski Krzysztof",
   "subnets": {
     "ipv4": [
+      "91.232.143.0/24",
       "155.133.7.0/24"
     ],
     "ipv6": []

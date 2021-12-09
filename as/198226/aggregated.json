@@ -3,7 +3,9 @@
   "handle": "KP",
   "description": "Komsomolskaya Pravda CJSC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "95.163.94.0/23"
+    ],
     "ipv6": []
   }
 }

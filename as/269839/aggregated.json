@@ -3,9 +3,7 @@
   "handle": "C-R-SRL",
   "description": "C \u0026 R S.R.L.",
   "subnets": {
-    "ipv4": [
-      "45.188.163.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

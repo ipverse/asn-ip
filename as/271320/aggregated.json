@@ -4,6 +4,7 @@
   "description": "CONEX PROVEDOR",
   "subnets": {
     "ipv4": [
+      "200.215.236.0/23",
       "200.215.238.0/24"
     ],
     "ipv6": [

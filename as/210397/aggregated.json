@@ -3,7 +3,9 @@
   "handle": "DIEDERIK",
   "description": "Diederik Focko de Zee",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.225.124.0/24"
+    ],
     "ipv6": [
       "2001:678:7ec::/48"
     ]

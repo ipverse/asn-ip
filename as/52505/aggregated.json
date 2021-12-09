@@ -1,0 +1,11 @@
+{
+  "asn": 52505,
+  "handle": "CBRNET",
+  "description": "CBRNET",
+  "subnets": {
+    "ipv4": [
+      "152.231.16.0/21"
+    ],
+    "ipv6": []
+  }
+}

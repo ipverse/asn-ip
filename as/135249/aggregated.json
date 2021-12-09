@@ -3,9 +3,7 @@
   "handle": "JULI",
   "description": "Achievers Broadband Internet Services",
   "subnets": {
-    "ipv4": [
-      "103.148.118.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

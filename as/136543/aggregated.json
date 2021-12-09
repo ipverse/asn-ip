@@ -3,9 +3,7 @@
   "handle": "DFL-AP",
   "description": "Dolomite Finance Limited",
   "subnets": {
-    "ipv4": [
-      "115.30.65.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

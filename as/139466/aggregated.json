@@ -1,0 +1,11 @@
+{
+  "asn": 139466,
+  "handle": "LCHS-AP",
+  "description": "Latrobe Community Health Service",
+  "subnets": {
+    "ipv4": [
+      "103.141.199.0/24"
+    ],
+    "ipv6": []
+  }
+}

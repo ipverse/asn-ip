@@ -3,10 +3,7 @@
   "handle": "DEVOPSYS",
   "description": "Devopsys SAS",
   "subnets": {
-    "ipv4": [
-      "159.100.43.0/24",
-      "159.100.44.0/22"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

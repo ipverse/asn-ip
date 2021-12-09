@@ -3,9 +3,7 @@
   "handle": "ITSM",
   "description": "IT Service Management Ltd",
   "subnets": {
-    "ipv4": [
-      "193.104.177.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

@@ -3,9 +3,7 @@
   "handle": "AT",
   "description": "Applied Trust",
   "subnets": {
-    "ipv4": [
-      "204.115.117.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

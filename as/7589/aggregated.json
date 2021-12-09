@@ -1,7 +1,7 @@
 {
   "asn": 7589,
-  "handle": "TELIANET-ENTERPRISE-SERVICES",
-  "description": "Telia AB Routernet/Internet",
+  "handle": "TELIACARRIERAB-AP-ENTERPRISE-SERVICES",
+  "description": "Telia Carrier AB",
   "subnets": {
     "ipv4": [
       "202.163.30.0/23"

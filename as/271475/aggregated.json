@@ -3,7 +3,9 @@
   "handle": "FOX-CONNECT",
   "description": "FOX CONNECT",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "181.189.96.0/22"
+    ],
     "ipv6": [
       "2804:7c18::/32"
     ]

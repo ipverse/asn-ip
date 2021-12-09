@@ -3,9 +3,7 @@
   "handle": "SIE-CGEI-ASN-2",
   "description": "Sony Interactive Entertainment LLC",
   "subnets": {
-    "ipv4": [
-      "100.42.103.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

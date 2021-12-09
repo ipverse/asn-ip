@@ -3,7 +3,9 @@
   "handle": "MEDIARED-TELECOMUNICACIONES-SA",
   "description": "Mediared Telecomunicaciones S.A de C.V.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "187.103.28.0/24"
+    ],
     "ipv6": []
   }
 }

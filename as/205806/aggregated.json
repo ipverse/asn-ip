@@ -3,7 +3,10 @@
   "handle": "STADTWERKE-NEUSTRELITZ",
   "description": "Stadtwerke Neustrelitz GmbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "149.249.224.0/20",
+      "185.206.44.0/22"
+    ],
     "ipv6": []
   }
 }
