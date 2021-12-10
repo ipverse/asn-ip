@@ -3,11 +3,7 @@
   "handle": "JOSE-OLIVEIRA-DE",
   "description": "JOSE OLIVEIRA DE LIMA DDSAT NET TELECOM E INF - ME",
   "subnets": {
-    "ipv4": [
-      "170.239.44.0/22"
-    ],
-    "ipv6": [
-      "2804:3648::/32"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

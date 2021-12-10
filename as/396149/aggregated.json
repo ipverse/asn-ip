@@ -3,9 +3,7 @@
   "handle": "SBFWI-NETWORK",
   "description": "SBFWI",
   "subnets": {
-    "ipv4": [
-      "38.92.104.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

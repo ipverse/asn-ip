@@ -3,7 +3,9 @@
   "handle": "IDNIC-UNSRAT-ID",
   "description": "Universitas Islam Negeri Mataram",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.85.95.0/24"
+    ],
     "ipv6": []
   }
 }

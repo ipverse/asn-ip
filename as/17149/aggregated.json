@@ -4,6 +4,7 @@
   "description": "Global Caribbean Network",
   "subnets": {
     "ipv4": [
+      "38.92.104.0/22",
       "208.72.228.0/22",
       "208.79.96.0/22",
       "208.94.170.0/23"

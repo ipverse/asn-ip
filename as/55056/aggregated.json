@@ -4,7 +4,8 @@
   "description": "Central Bancompany, Inc.",
   "subnets": {
     "ipv4": [
-      "199.255.160.0/22"
+      "199.255.160.0/23",
+      "199.255.162.0/24"
     ],
     "ipv6": []
   }

@@ -3,9 +3,7 @@
   "handle": "BOUYGTEL-B2B",
   "description": "Bouygues Telecom SA",
   "subnets": {
-    "ipv4": [
-      "89.90.212.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

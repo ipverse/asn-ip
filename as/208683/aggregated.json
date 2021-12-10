@@ -4,8 +4,7 @@
   "description": "Datacenter The Factory Roermond B.V.",
   "subnets": {
     "ipv4": [
-      "45.89.132.0/22",
-      "193.142.154.0/23"
+      "45.89.132.0/22"
     ],
     "ipv6": [
       "2a0b:cf00::/32",

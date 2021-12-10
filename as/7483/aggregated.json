@@ -3,9 +3,7 @@
   "handle": "SKYCLOUD-NET",
   "description": "Skycloud Computing co., Ltd.",
   "subnets": {
-    "ipv4": [
-      "103.175.166.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

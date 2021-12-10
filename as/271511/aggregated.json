@@ -4,7 +4,7 @@
   "description": "EMPRESA COCAIENSE DE TELECOMUNICACAO LTDA",
   "subnets": {
     "ipv4": [
-      "45.185.116.0/22"
+      "45.185.116.0/24"
     ],
     "ipv6": []
   }

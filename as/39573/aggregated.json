@@ -3,9 +3,7 @@
   "handle": "SKYNETTELECOM",
   "description": "SKYNET CABLE SRL",
   "subnets": {
-    "ipv4": [
-      "81.181.152.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

@@ -4,6 +4,7 @@
   "description": "CityLanCom LTD",
   "subnets": {
     "ipv4": [
+      "88.210.29.0/24",
       "88.210.49.0/24"
     ],
     "ipv6": []
