@@ -1,6 +1,6 @@
 # ipverse-asn-ip
 
-IPv4 and IPv6 subnets (e.g. 100.2.30.0/22) grouped by the announcing autonomous systems. The subnets are aggregated to save space.  
+IPv4 and IPv6 subnets (e.g. 100.2.30.0/22) organized by announcing autonomous systems. The subnets are aggregated to save space.  
 
 This repository is updated daily.
 
