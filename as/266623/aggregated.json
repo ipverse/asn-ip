@@ -4,7 +4,8 @@
   "description": "Pedro F Arruda Junior ME",
   "subnets": {
     "ipv4": [
-      "128.201.76.0/22"
+      "128.201.76.0/22",
+      "170.238.44.0/24"
     ],
     "ipv6": [
       "2804:3ed4::/32"

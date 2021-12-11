@@ -1,0 +1,11 @@
+{
+  "asn": 147160,
+  "handle": "IDNIC-BPKH-ID",
+  "description": "Badan Pengelola Keuangan Haji",
+  "subnets": {
+    "ipv4": [
+      "103.162.89.0/24"
+    ],
+    "ipv6": []
+  }
+}

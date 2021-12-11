@@ -1,0 +1,11 @@
+{
+  "asn": 147158,
+  "handle": "IDNIC-CLOUD4C-ID",
+  "description": "PT Cloud Four Cee Services",
+  "subnets": {
+    "ipv4": [
+      "103.177.104.0/23"
+    ],
+    "ipv6": []
+  }
+}

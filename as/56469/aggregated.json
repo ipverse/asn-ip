@@ -3,9 +3,7 @@
   "handle": "CITYNET",
   "description": "Citynet Datacom Ltd",
   "subnets": {
-    "ipv4": [
-      "185.131.204.0/22"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2a06:de00::/29"
     ]

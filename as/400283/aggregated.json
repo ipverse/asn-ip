@@ -1,0 +1,11 @@
+{
+  "asn": 400283,
+  "handle": "ENDLESS-GROUP",
+  "description": "Endless Group",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2602:fbf9::/40"
+    ]
+  }
+}

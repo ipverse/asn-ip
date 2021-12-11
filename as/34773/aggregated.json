@@ -4,9 +4,6 @@
   "description": "Vhost Meremeta Ltd",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2a0a:1b80::/30",
-      "2a0a:1b84::/31"
-    ]
+    "ipv6": []
   }
 }

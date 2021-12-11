@@ -4,7 +4,8 @@
   "description": "Abraj Libya Co For Communications \u0026 information Technology",
   "subnets": {
     "ipv4": [
-      "195.234.120.0/22"
+      "195.234.120.0/23",
+      "195.234.122.0/24"
     ],
     "ipv6": []
   }

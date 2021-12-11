@@ -3,9 +3,7 @@
   "handle": "TELECABLECARTAYA2",
   "description": "Telecable Cartaya S.L.",
   "subnets": {
-    "ipv4": [
-      "45.90.52.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

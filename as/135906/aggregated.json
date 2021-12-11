@@ -1,0 +1,13 @@
+{
+  "asn": 135906,
+  "handle": "BOOKING247-VN",
+  "description": "BOOKING247 COMPANY LIMITED",
+  "subnets": {
+    "ipv4": [
+      "103.177.38.0/23"
+    ],
+    "ipv6": [
+      "2001:df0:1b40::/48"
+    ]
+  }
+}
