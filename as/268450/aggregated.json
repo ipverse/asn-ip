@@ -3,7 +3,9 @@
   "handle": "BRNETWORKS-TELECOM-EIRELI",
   "description": "BRNETWORKS TELECOM EIRELI",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.161.76.0/22"
+    ],
     "ipv6": []
   }
 }

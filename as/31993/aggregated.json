@@ -3,10 +3,7 @@
   "handle": "AFS-SLC",
   "description": "Zayo Bandwidth",
   "subnets": {
-    "ipv4": [
-      "64.158.69.0/24",
-      "67.213.172.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

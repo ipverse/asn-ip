@@ -3,10 +3,7 @@
   "handle": "ITGRATION",
   "description": "ITgration GmbH",
   "subnets": {
-    "ipv4": [
-      "62.3.43.0/24",
-      "146.19.146.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

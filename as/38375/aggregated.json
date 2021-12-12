@@ -4,8 +4,7 @@
   "description": "Unit 1801-1806 \u0026 1826-1832, Winland International Center",
   "subnets": {
     "ipv4": [
-      "119.42.136.0/24",
-      "119.42.138.0/24"
+      "119.42.136.0/21"
     ],
     "ipv6": []
   }
