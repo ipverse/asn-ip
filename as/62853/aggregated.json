@@ -1,0 +1,11 @@
+{
+  "asn": 62853,
+  "handle": "HKGO-US",
+  "description": "hkgo LLC",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2602:fbf6:800::/37"
+    ]
+  }
+}

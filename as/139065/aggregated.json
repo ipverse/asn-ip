@@ -3,7 +3,9 @@
   "handle": "ATCL-AP",
   "description": "Apeiro8 Technology Co., Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.142.60.0/23"
+    ],
     "ipv6": []
   }
 }

@@ -1,0 +1,11 @@
+{
+  "asn": 1926,
+  "handle": "UTANET",
+  "description": "Tampere University Foundation",
+  "subnets": {
+    "ipv4": [
+      "153.1.0.0/16"
+    ],
+    "ipv6": []
+  }
+}

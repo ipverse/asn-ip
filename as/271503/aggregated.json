@@ -3,7 +3,9 @@
   "handle": "PROVEDOR-SUPERCELL-NET",
   "description": "PROVEDOR SUPERCELL NET",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "181.233.140.0/22"
+    ],
     "ipv6": [
       "2804:7c8c::/32"
     ]

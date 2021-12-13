@@ -1,0 +1,12 @@
+{
+  "asn": 138919,
+  "handle": "FUBUKINETWORK-HK",
+  "description": "CodecCloud (HK) Limited",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2404:9ec0:114::/48",
+      "2602:feda:af7::/48"
+    ]
+  }
+}

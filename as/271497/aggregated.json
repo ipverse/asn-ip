@@ -3,7 +3,9 @@
   "handle": "CONFIBER-TELCOMUNICACOES-LTDA",
   "description": "Confiber Telcomunicações ltda",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "181.233.184.0/22"
+    ],
     "ipv6": [
       "2804:7c74::/32"
     ]

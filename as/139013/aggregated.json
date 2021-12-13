@@ -4,7 +4,8 @@
   "description": "Hi-Tech Online Services",
   "subnets": {
     "ipv4": [
-      "103.100.232.0/22"
+      "103.100.232.0/23",
+      "103.100.234.0/24"
     ],
     "ipv6": []
   }

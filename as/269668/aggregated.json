@@ -3,7 +3,9 @@
   "handle": "NAZASEG-TELECOM",
   "description": "NAZASEG TELECOM",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.191.28.0/22"
+    ],
     "ipv6": []
   }
 }

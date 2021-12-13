@@ -3,7 +3,9 @@
   "handle": "MARINER",
   "description": "Mariner Select, L.P.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "64.95.15.0/24"
+    ],
     "ipv6": []
   }
 }

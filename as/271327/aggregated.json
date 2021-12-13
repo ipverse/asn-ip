@@ -3,7 +3,9 @@
   "handle": "BEM-MAIS-SERVICOS",
   "description": "BEM MAIS SERVIÇOS DE TELECOMUNICAÇÕES",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "181.232.144.0/22"
+    ],
     "ipv6": [
       "2804:79c8::/32"
     ]

@@ -3,7 +3,10 @@
   "handle": "CONNECT2FIRST-LLC",
   "description": "Connect 2 First Internet, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "64.127.132.0/22",
+      "64.127.136.0/22"
+    ],
     "ipv6": [
       "2606:25c0::/32"
     ]
