@@ -3,9 +3,7 @@
   "handle": "FLEXSI",
   "description": "FLEXSI SAS",
   "subnets": {
-    "ipv4": [
-      "185.144.112.0/22"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

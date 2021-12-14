@@ -1,0 +1,11 @@
+{
+  "asn": 138436,
+  "handle": "CHINATELECOM-SHAANXI-BAOJI-5G-NETWORK",
+  "description": "China Telecom",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "240e:bf:b8fc::/46"
+    ]
+  }
+}

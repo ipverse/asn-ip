@@ -3,9 +3,7 @@
   "handle": "SUCURANET",
   "description": "Sucura Networks Inc",
   "subnets": {
-    "ipv4": [
-      "199.115.195.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

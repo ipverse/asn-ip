@@ -3,7 +3,9 @@
   "handle": "UNAFIBER-TELECOM-LTDA",
   "description": "UNAFIBER TELECOM LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "181.232.176.0/22"
+    ],
     "ipv6": [
       "2804:7cc0::/32"
     ]

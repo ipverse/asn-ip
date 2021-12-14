@@ -3,7 +3,9 @@
   "handle": "COMMTEL-TRANSMISSAO-DE",
   "description": "COMMTEL TRANSMISSAO DE DADOS E INTERNET LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.7.4.0/22"
+    ],
     "ipv6": []
   }
 }

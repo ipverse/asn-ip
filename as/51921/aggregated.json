@@ -3,7 +3,9 @@
   "handle": "INTSYS",
   "description": "OOO Integral telesystems",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.133.2.0/24"
+    ],
     "ipv6": []
   }
 }

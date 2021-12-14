@@ -1,9 +1,11 @@
 {
   "asn": 211851,
-  "handle": "OPENTELECOMRU",
+  "handle": "UP-NETWORK",
   "description": "Victor UETTWILLER",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "85.209.176.0/24"
+    ],
     "ipv6": []
   }
 }

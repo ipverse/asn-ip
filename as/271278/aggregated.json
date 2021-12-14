@@ -3,7 +3,9 @@
   "handle": "A-B-OLIVEIRA",
   "description": "A B OLIVEIRA TELECOMUNICACAO E INFORMARTICA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "179.49.192.0/22"
+    ],
     "ipv6": []
   }
 }

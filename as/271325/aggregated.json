@@ -4,7 +4,8 @@
   "description": "LACKNET SERVIÇOS DE TELECOMUNICAÇÕES",
   "subnets": {
     "ipv4": [
-      "179.0.116.0/22"
+      "179.0.116.0/23",
+      "179.0.119.0/24"
     ],
     "ipv6": []
   }

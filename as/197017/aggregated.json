@@ -3,7 +3,9 @@
   "handle": "NICEIC",
   "description": "NICEIC Group Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "178.22.208.0/21"
+    ],
     "ipv6": []
   }
 }

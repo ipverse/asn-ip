@@ -3,7 +3,9 @@
   "handle": "WIFIKLODZKO",
   "description": "Artur Bogusz trading as WIFI.KLODZKO.PL Sp. J.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.166.220.0/22"
+    ],
     "ipv6": []
   }
 }

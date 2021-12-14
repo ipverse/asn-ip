@@ -4,7 +4,8 @@
   "description": "Apeiro8 Technology Co., Ltd.",
   "subnets": {
     "ipv4": [
-      "192.142.60.0/23"
+      "192.142.61.0/24",
+      "192.142.62.0/24"
     ],
     "ipv6": []
   }

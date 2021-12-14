@@ -4,8 +4,6 @@
   "description": "Dreamhack AB",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2a05:2242::/32"
-    ]
+    "ipv6": []
   }
 }

@@ -4,8 +4,6 @@
   "description": "Citynet Datacom Ltd",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2a06:de00::/29"
-    ]
+    "ipv6": []
   }
 }

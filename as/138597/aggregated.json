@@ -1,0 +1,12 @@
+{
+  "asn": 138597,
+  "handle": "CHINATELECOM-SHAANXI-HANZHONG-5G-NETWORK",
+  "description": "China Telecom",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "240e:bf:b8f0::/47",
+      "240e:bf:b8f2::/48"
+    ]
+  }
+}

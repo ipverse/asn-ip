@@ -3,9 +3,7 @@
   "handle": "COXMEDIA",
   "description": "Cox Newspapers/AJC",
   "subnets": {
-    "ipv4": [
-      "169.137.102.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

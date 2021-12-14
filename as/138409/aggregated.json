@@ -1,0 +1,12 @@
+{
+  "asn": 138409,
+  "handle": "CHINATELECOM-SHAANXI-TONGCHUAN-5G-NETWORK",
+  "description": "China Telecom",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "240e:bf:b8f9::/48",
+      "240e:bf:b8fa::/47"
+    ]
+  }
+}

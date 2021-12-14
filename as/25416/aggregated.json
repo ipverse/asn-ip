@@ -3,10 +3,7 @@
   "handle": "AGA",
   "description": "Aga Gas AB",
   "subnets": {
-    "ipv4": [
-      "193.180.184.0/22",
-      "193.180.188.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

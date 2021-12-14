@@ -3,9 +3,7 @@
   "handle": "DFNN-AP",
   "description": "Sky Internet",
   "subnets": {
-    "ipv4": [
-      "121.97.36.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

@@ -3,9 +3,7 @@
   "handle": "SUPERINTENDENCIA-DE-ADMINISTRACION",
   "description": "Superintendencia de Administración tributaria",
   "subnets": {
-    "ipv4": [
-      "45.191.247.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

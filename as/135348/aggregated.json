@@ -1,0 +1,11 @@
+{
+  "asn": 135348,
+  "handle": "QANTASAIRLTD-AP",
+  "description": "QANTAS Airways Limited",
+  "subnets": {
+    "ipv4": [
+      "168.134.138.0/24"
+    ],
+    "ipv6": []
+  }
+}

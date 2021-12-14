@@ -3,11 +3,7 @@
   "handle": "BANDCON",
   "description": "Bandcon",
   "subnets": {
-    "ipv4": [
-      "209.107.223.0/24"
-    ],
-    "ipv6": [
-      "2001:4de0:2106::/47"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

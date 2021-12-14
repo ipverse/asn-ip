@@ -1,0 +1,11 @@
+{
+  "asn": 45947,
+  "handle": "SECUREPAY-AP",
+  "description": "SecurePay Pty Ltd",
+  "subnets": {
+    "ipv4": [
+      "202.43.86.0/24"
+    ],
+    "ipv6": []
+  }
+}

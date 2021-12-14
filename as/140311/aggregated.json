@@ -1,0 +1,11 @@
+{
+  "asn": 140311,
+  "handle": "CHINATELECOM-GUANGDONG-JIANGMEN-5G-NETWORK",
+  "description": "China Telecom",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "240e:5e:10a0::/44"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asn": 140318,
+  "handle": "CHINATELECOM-GUANGDONG-HEYUAN-5G-NETWORK",
+  "description": "China Telecom",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "240e:5e:10b0::/44"
+    ]
+  }
+}

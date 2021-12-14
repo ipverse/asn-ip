@@ -4,9 +4,6 @@
   "description": "Fan Zhang",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2a0e:b107:110::/47",
-      "2a0e:b107:11e::/48"
-    ]
+    "ipv6": []
   }
 }

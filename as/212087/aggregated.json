@@ -3,11 +3,7 @@
   "handle": "GERRIEVANBOVEN",
   "description": "Gerrie van boven ltd.",
   "subnets": {
-    "ipv4": [
-      "45.141.20.0/24",
-      "45.152.189.0/24",
-      "194.61.28.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

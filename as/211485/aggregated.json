@@ -4,9 +4,6 @@
   "description": "Kornel Varkonyi",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2a0e:b107:1100::/44",
-      "2a10:2f00:16d::/48"
-    ]
+    "ipv6": []
   }
 }

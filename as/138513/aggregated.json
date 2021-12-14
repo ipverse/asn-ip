@@ -1,0 +1,12 @@
+{
+  "asn": 138513,
+  "handle": "CHINATELECOM-SHAANXI-WEINAN-5G-NETWORK",
+  "description": "China Telecom",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "240e:bf:b8f6::/47",
+      "240e:bf:b8f8::/48"
+    ]
+  }
+}
