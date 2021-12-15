@@ -1,0 +1,13 @@
+{
+  "asn": 11049,
+  "handle": "DYN",
+  "description": "Oracle Corporation",
+  "subnets": {
+    "ipv4": [
+      "129.91.224.0/20",
+      "129.91.240.0/22",
+      "129.91.248.0/21"
+    ],
+    "ipv6": []
+  }
+}

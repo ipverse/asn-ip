@@ -3,7 +3,9 @@
   "handle": "ASREAL",
   "description": "RealTelecom Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "31.135.178.0/24"
+    ],
     "ipv6": []
   }
 }

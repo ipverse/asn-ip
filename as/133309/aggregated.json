@@ -3,12 +3,7 @@
   "handle": "ACCESSSMART",
   "description": "Access Smart Solutions India Pvt Ltd",
   "subnets": {
-    "ipv4": [
-      "103.49.206.0/24",
-      "103.229.129.0/24",
-      "202.3.72.0/23",
-      "203.202.233.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

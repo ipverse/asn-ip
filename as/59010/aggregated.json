@@ -4,7 +4,8 @@
   "description": "UnionFriend Network information service Co.,LTD",
   "subnets": {
     "ipv4": [
-      "103.230.200.0/22"
+      "103.230.200.0/22",
+      "103.241.95.0/24"
     ],
     "ipv6": []
   }

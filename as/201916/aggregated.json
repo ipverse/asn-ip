@@ -4,7 +4,7 @@
   "description": "PaySend Processing LLC",
   "subnets": {
     "ipv4": [
-      "185.59.216.0/23",
+      "185.59.216.0/24",
       "185.59.218.0/24"
     ],
     "ipv6": []

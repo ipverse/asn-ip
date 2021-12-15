@@ -1,0 +1,13 @@
+{
+  "asn": 211752,
+  "handle": "VE",
+  "description": "Vattenfall Eurofiber GmbH",
+  "subnets": {
+    "ipv4": [
+      "195.8.125.0/24"
+    ],
+    "ipv6": [
+      "2a0a:fcc0::/32"
+    ]
+  }
+}

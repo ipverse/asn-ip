@@ -3,7 +3,9 @@
   "handle": "MAGNA-BATISTA-DE-SOUZA-ME",
   "description": "MAGNA BATISTA DE SOUZA - ME",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "181.233.136.0/22"
+    ],
     "ipv6": [
       "2804:7c58::/32"
     ]

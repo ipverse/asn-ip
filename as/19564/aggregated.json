@@ -4,7 +4,9 @@
   "description": "Louisiana Tech University",
   "subnets": {
     "ipv4": [
-      "138.47.0.0/16"
+      "138.47.0.0/17",
+      "138.47.128.0/18",
+      "138.47.192.0/19"
     ],
     "ipv6": []
   }

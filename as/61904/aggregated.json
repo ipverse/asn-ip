@@ -3,10 +3,7 @@
   "handle": "POLLYNET-TELECOM-LTDA",
   "description": "Pollynet Telecom Ltda",
   "subnets": {
-    "ipv4": [
-      "138.97.228.0/22",
-      "191.37.184.0/21"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

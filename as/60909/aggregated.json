@@ -4,7 +4,8 @@
   "description": "HOTMIN COMMUNICATIONS SRL",
   "subnets": {
     "ipv4": [
-      "85.120.92.0/23"
+      "85.120.92.0/23",
+      "93.114.216.0/22"
     ],
     "ipv6": []
   }

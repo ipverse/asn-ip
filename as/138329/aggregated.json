@@ -3,7 +3,9 @@
   "handle": "KWS-AP",
   "description": "Kenstar Web Solutions Private Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.123.220.0/22"
+    ],
     "ipv6": []
   }
 }
