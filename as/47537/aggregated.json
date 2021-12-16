@@ -3,9 +3,7 @@
   "handle": "WEEPEE",
   "description": "WeePee NV",
   "subnets": {
-    "ipv4": [
-      "37.143.1.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

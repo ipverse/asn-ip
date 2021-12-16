@@ -3,12 +3,7 @@
   "handle": "DNIC-ASBLK-00-00726",
   "description": "DoD Network Information Center",
   "subnets": {
-    "ipv4": [
-      "140.2.0.0/17",
-      "209.22.50.0/24",
-      "214.62.128.0/17",
-      "214.63.192.0/18"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

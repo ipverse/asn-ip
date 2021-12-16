@@ -3,13 +3,7 @@
   "handle": "CLUE",
   "description": "AAGlenn Internetworking Company",
   "subnets": {
-    "ipv4": [
-      "185.203.204.0/22"
-    ],
-    "ipv6": [
-      "2a0c:d2c0::/32",
-      "2a0c:d2c2::/32",
-      "2a0c:d2c4::/32"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

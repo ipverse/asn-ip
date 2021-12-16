@@ -1,0 +1,11 @@
+{
+  "asn": 140656,
+  "handle": "CHINATELECOM-GUIZHOU-QIANXINAN-5G-NETWORK",
+  "description": "China Telecom",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "240e:183:8220::/46"
+    ]
+  }
+}

@@ -3,7 +3,10 @@
   "handle": "T-CONNECT",
   "description": "T-CONNECT SAS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.68.230.0/23",
+      "185.156.27.0/24"
+    ],
     "ipv6": []
   }
 }

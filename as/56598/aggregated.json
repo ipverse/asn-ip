@@ -4,7 +4,7 @@
   "description": "Netbarista SASU",
   "subnets": {
     "ipv4": [
-      "193.168.204.0/22"
+      "193.168.204.0/23"
     ],
     "ipv6": [
       "2a09:6980::/29",

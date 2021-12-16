@@ -3,9 +3,7 @@
   "handle": "SPORTINGBET-AP",
   "description": "Sportingbet Australia Pty Ltd",
   "subnets": {
-    "ipv4": [
-      "122.102.19.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

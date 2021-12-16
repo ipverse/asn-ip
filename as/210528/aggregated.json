@@ -1,0 +1,12 @@
+{
+  "asn": 210528,
+  "handle": "VINCENT55",
+  "description": "Chun-Hung Yang",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2407:9240:2800::/40",
+      "2407:9240:8000::/40"
+    ]
+  }
+}

@@ -3,9 +3,7 @@
   "handle": "C-IV",
   "description": "California Statewide Automated Welfare System Consortium IV",
   "subnets": {
-    "ipv4": [
-      "67.124.160.0/20"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

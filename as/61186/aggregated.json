@@ -3,9 +3,7 @@
   "handle": "ZENDESK-INTL",
   "description": "Zendesk International Limited",
   "subnets": {
-    "ipv4": [
-      "188.172.135.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

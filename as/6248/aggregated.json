@@ -3,7 +3,9 @@
   "handle": "DEKA-R-D",
   "description": "DEKA Research \u0026 Development Corp",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "158.51.177.0/24"
+    ],
     "ipv6": []
   }
 }

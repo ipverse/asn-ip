@@ -1,0 +1,11 @@
+{
+  "asn": 146944,
+  "handle": "UNET",
+  "description": "Vnetwork",
+  "subnets": {
+    "ipv4": [
+      "103.172.88.0/23"
+    ],
+    "ipv6": []
+  }
+}

@@ -4,11 +4,9 @@
   "description": "Joint-stock company Internet Exchange MSK-IX",
   "subnets": {
     "ipv4": [
-      "194.85.254.0/23",
-      "195.209.0.0/24"
+      "194.85.254.0/23"
     ],
     "ipv6": [
-      "2a09:bd00:ffcc::/48",
       "2a0c:a9c7:2::/47"
     ]
   }

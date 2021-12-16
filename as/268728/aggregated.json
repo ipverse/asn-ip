@@ -3,7 +3,9 @@
   "handle": "SETNET32-COMUNICACAO-MULTIMIDIA",
   "description": "SETNET32 COMUNICACAO MULTIMIDIA EIRELI-ME",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.171.192.0/22"
+    ],
     "ipv6": [
       "2804:59d4::/32"
     ]

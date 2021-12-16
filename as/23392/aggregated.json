@@ -3,9 +3,7 @@
   "handle": "VWFS",
   "description": "VW CREDIT, INC",
   "subnets": {
-    "ipv4": [
-      "204.248.39.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

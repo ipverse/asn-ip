@@ -4,7 +4,8 @@
   "description": "Georgia Aquarium, INC.",
   "subnets": {
     "ipv4": [
-      "74.255.42.0/24"
+      "74.255.42.0/24",
+      "165.140.248.0/24"
     ],
     "ipv6": []
   }

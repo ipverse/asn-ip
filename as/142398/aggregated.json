@@ -3,7 +3,9 @@
   "handle": "IDNIC-DIGTANET-ID",
   "description": "PT Digital Akses Nusantara",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.172.120.0/23"
+    ],
     "ipv6": []
   }
 }

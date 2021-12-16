@@ -3,7 +3,9 @@
   "handle": "KONECTAMAIS-SCM-LTDA",
   "description": "KONECTAMAIS SCM LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "190.115.80.0/22"
+    ],
     "ipv6": []
   }
 }

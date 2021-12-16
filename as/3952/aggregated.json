@@ -3,10 +3,7 @@
   "handle": "TELLABS",
   "description": "Infinera Corporation",
   "subnets": {
-    "ipv4": [
-      "205.233.147.0/24",
-      "205.236.51.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

@@ -4,8 +4,6 @@
   "description": "Momentum Broadband Inc.",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2606:4fc0::/43"
-    ]
+    "ipv6": []
   }
 }

@@ -4,10 +4,8 @@
   "description": "gkv informatik GbR",
   "subnets": {
     "ipv4": [
-      "185.172.8.0/22"
+      "185.172.10.0/23"
     ],
-    "ipv6": [
-      "2a0a:fd00::/32"
-    ]
+    "ipv6": []
   }
 }
