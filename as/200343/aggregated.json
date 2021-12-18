@@ -3,9 +3,7 @@
   "handle": "NETFNET",
   "description": "NETFNET LLC",
   "subnets": {
-    "ipv4": [
-      "194.110.52.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

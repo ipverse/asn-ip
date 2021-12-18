@@ -3,10 +3,7 @@
   "handle": "ASOCIACION-DE-RED",
   "description": "ASOCIACIÓN DE RED AVANZADA GUATEMALTECA PARA LA INVESTIGACIÓN Y LA EDUCACIÓN (IXP GT)",
   "subnets": {
-    "ipv4": [
-      "45.68.4.0/22",
-      "168.234.77.0/24"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2801:12:e800::/48"
     ]

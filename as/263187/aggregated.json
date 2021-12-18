@@ -4,7 +4,8 @@
   "description": "Netking Solutions Limited",
   "subnets": {
     "ipv4": [
-      "179.51.252.0/22"
+      "179.51.253.0/24",
+      "179.51.254.0/23"
     ],
     "ipv6": []
   }

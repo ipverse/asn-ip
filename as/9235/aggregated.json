@@ -3,7 +3,9 @@
   "handle": "FOCUSDIRECT-PH",
   "description": "Focus Pacific",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.10.254.0/23"
+    ],
     "ipv6": []
   }
 }

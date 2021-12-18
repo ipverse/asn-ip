@@ -1,11 +1,9 @@
 {
   "asn": 131812,
-  "handle": "HUMAXNETWORKS-KR",
+  "handle": "HUMAXNETWORKS-KR-KR",
   "description": "Humax Networks, INC.",
   "subnets": {
-    "ipv4": [
-      "221.140.33.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

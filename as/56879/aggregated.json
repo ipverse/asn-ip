@@ -4,10 +4,8 @@
   "description": "POKROVSKIY RUDNIK",
   "subnets": {
     "ipv4": [
-      "91.228.116.0/23"
+      "91.228.117.0/24"
     ],
-    "ipv6": [
-      "2001:67c:19f8::/48"
-    ]
+    "ipv6": []
   }
 }

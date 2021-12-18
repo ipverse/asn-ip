@@ -4,8 +4,7 @@
   "description": "FIBERJET TELEINFORMATICA EIRELI",
   "subnets": {
     "ipv4": [
-      "177.85.240.0/22",
-      "209.14.232.0/22"
+      "177.85.240.0/22"
     ],
     "ipv6": [
       "2804:6e84::/32"

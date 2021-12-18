@@ -3,7 +3,9 @@
   "handle": "SEACON-AP",
   "description": "TRUE INTERNET CORPORATION CO. LTD.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "171.102.38.0/24"
+    ],
     "ipv6": []
   }
 }

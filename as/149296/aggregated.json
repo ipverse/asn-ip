@@ -1,0 +1,11 @@
+{
+  "asn": 149296,
+  "handle": "SPEXIAL-NETWORKS-AP",
+  "description": "Zappie Host LLC",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a06:a001:a110::/44"
+    ]
+  }
+}

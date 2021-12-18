@@ -3,7 +3,11 @@
   "handle": "HD-NET-PROVIDER",
   "description": "HD NET PROVIDER serviços de comunicação multimídia",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "201.49.244.0/22"
+    ],
+    "ipv6": [
+      "2804:734c::/32"
+    ]
   }
 }

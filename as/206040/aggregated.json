@@ -3,7 +3,9 @@
   "handle": "EXPI-AS1",
   "description": "Expisoft AB",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.198.80.0/24"
+    ],
     "ipv6": []
   }
 }

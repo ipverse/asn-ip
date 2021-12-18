@@ -3,7 +3,9 @@
   "handle": "LMGB-SERVICOS-DE",
   "description": "LMGB SERVIÇOS DE TELECOMUNICAÇOES E INTERNET LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "200.215.224.0/22"
+    ],
     "ipv6": [
       "2804:7ab4::/32"
     ]

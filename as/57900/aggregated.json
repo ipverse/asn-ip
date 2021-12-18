@@ -4,7 +4,8 @@
   "description": "Saudi British Bank",
   "subnets": {
     "ipv4": [
-      "193.27.7.0/24"
+      "193.27.7.0/24",
+      "195.34.69.0/24"
     ],
     "ipv6": []
   }

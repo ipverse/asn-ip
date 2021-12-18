@@ -3,9 +3,7 @@
   "handle": "ITOUCHVISION",
   "description": "iTouch Vision LTD",
   "subnets": {
-    "ipv4": [
-      "185.144.223.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

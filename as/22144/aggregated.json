@@ -3,9 +3,7 @@
   "handle": "CHAPMAN",
   "description": "Chapman and Cutler",
   "subnets": {
-    "ipv4": [
-      "65.207.212.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

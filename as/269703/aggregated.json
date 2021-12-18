@@ -4,7 +4,8 @@
   "description": "ANTONIO C C DOS SANTOS",
   "subnets": {
     "ipv4": [
-      "45.191.92.0/22"
+      "45.191.92.0/23",
+      "45.191.94.0/24"
     ],
     "ipv6": []
   }

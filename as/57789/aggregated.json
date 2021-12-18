@@ -1,0 +1,11 @@
+{
+  "asn": 57789,
+  "handle": "HOMENET",
+  "description": "HomeNet Technologies sp. z o.o.",
+  "subnets": {
+    "ipv4": [
+      "31.135.192.0/20"
+    ],
+    "ipv6": []
+  }
+}

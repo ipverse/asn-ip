@@ -3,7 +3,9 @@
   "handle": "ZEUSNET-TELECOM",
   "description": "ZEUSNET TELECOM",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "181.233.0.0/22"
+    ],
     "ipv6": []
   }
 }
