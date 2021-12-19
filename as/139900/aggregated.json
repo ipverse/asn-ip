@@ -3,9 +3,7 @@
   "handle": "RELIANCE-CABLE-AP",
   "description": "RELIANCE CATV AND ENTERTAINMENT SERVICES",
   "subnets": {
-    "ipv4": [
-      "103.146.206.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

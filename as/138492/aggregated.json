@@ -4,8 +4,7 @@
   "description": "Chittagong Focus Online",
   "subnets": {
     "ipv4": [
-      "103.127.0.0/23",
-      "103.127.2.0/24"
+      "103.127.0.0/23"
     ],
     "ipv6": []
   }

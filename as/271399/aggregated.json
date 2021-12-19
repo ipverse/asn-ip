@@ -3,7 +3,9 @@
   "handle": "SGPIEDADENET-PROVEDOR-DE",
   "description": "SGPIEDADENET-PROVEDOR DE INTERNET LTDA - ME",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "181.233.64.0/22"
+    ],
     "ipv6": []
   }
 }

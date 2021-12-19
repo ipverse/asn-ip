@@ -4,7 +4,8 @@
   "description": "Pardaz Gostar Ertebatat Berelian Limited Liability Company",
   "subnets": {
     "ipv4": [
-      "178.21.163.0/24"
+      "178.21.163.0/24",
+      "195.245.70.0/24"
     ],
     "ipv6": [
       "2a0a:eb40::/29"
