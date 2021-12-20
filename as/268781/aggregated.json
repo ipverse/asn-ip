@@ -3,7 +3,11 @@
   "handle": "SOS-REDES-TECNOLOGIA",
   "description": "SOS REDES TECNOLOGIA E INOVACAO LTDA.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.172.236.0/22"
+    ],
+    "ipv6": [
+      "2804:5a90::/32"
+    ]
   }
 }

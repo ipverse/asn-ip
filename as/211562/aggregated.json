@@ -3,7 +3,9 @@
   "handle": "ANDREWNET",
   "description": "Andrew Asciutto Trading as andrewnet",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.41.37.0/24"
+    ],
     "ipv6": [
       "2602:fc26::/48",
       "2602:fc26:2::/48",

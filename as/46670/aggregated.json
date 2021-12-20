@@ -4,8 +4,7 @@
   "description": "MARKETING ASSOCIATES, LLC",
   "subnets": {
     "ipv4": [
-      "204.90.52.0/23",
-      "204.90.55.0/24"
+      "204.90.52.0/22"
     ],
     "ipv6": []
   }

@@ -3,11 +3,7 @@
   "handle": "MARUMBIT-TECNOLOGIA-DA",
   "description": "MarumBIT Tecnologia da Informação",
   "subnets": {
-    "ipv4": [
-      "190.103.152.0/22"
-    ],
-    "ipv6": [
-      "2804:73c4::/32"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

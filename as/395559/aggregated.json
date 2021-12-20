@@ -4,6 +4,7 @@
   "description": "Force Broadband LLC",
   "subnets": {
     "ipv4": [
+      "192.69.138.0/24",
       "199.188.116.0/22"
     ],
     "ipv6": []

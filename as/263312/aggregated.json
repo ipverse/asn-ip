@@ -3,7 +3,9 @@
   "handle": "BIZPRO-PROCESSOS-DE",
   "description": "BizPro Processos de Negócios Ltda.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "191.6.7.0/24"
+    ],
     "ipv6": []
   }
 }
