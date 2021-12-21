@@ -3,7 +3,9 @@
   "handle": "GAINC-NY-1",
   "description": "Forex.com",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "65.51.93.0/24"
+    ],
     "ipv6": [
       "2620:f6:8000::/48"
     ]

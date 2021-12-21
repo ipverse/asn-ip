@@ -3,7 +3,11 @@
   "handle": "IR-FCP",
   "description": "Pardaz Gostar Ertebatat Berelian Limited Liability Company",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.110.236.0/24",
+      "185.110.238.0/23",
+      "195.245.70.0/24"
+    ],
     "ipv6": [
       "2a0a:eb40::/29"
     ]

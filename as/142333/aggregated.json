@@ -3,7 +3,9 @@
   "handle": "IDNIC-DELIMANET-ID",
   "description": "PT Triguna Akses Teknologi",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.169.32.0/24"
+    ],
     "ipv6": []
   }
 }

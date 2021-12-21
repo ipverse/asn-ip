@@ -1,0 +1,11 @@
+{
+  "asn": 141888,
+  "handle": "IDNIC-MAROSKAB-ID",
+  "description": "Pemerintah Kabupaten Maros",
+  "subnets": {
+    "ipv4": [
+      "103.55.56.0/24"
+    ],
+    "ipv6": []
+  }
+}

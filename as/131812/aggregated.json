@@ -3,7 +3,9 @@
   "handle": "HUMAXNETWORKS-KR-KR",
   "description": "Humax Networks, INC.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "221.140.31.0/24"
+    ],
     "ipv6": []
   }
 }

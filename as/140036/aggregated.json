@@ -1,0 +1,11 @@
+{
+  "asn": 140036,
+  "handle": "GTARTS-ITO-NETWORK-AP",
+  "description": "AresFlare Network Limited",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2404:49c0:a::/48"
+    ]
+  }
+}

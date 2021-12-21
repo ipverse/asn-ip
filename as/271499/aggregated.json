@@ -3,7 +3,9 @@
   "handle": "YOU-NET-SERV",
   "description": "YOU NET SERV E COMERCIO DE TELECOMUNICACOES LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "181.233.52.0/22"
+    ],
     "ipv6": [
       "2804:7c7c::/32"
     ]

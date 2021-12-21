@@ -3,9 +3,7 @@
   "handle": "FAIRNET-AP",
   "description": "Fair Net",
   "subnets": {
-    "ipv4": [
-      "103.89.245.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

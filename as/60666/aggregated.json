@@ -3,7 +3,9 @@
   "handle": "KOLVY",
   "description": "KOLVY LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "84.54.6.0/24"
+    ],
     "ipv6": []
   }
 }

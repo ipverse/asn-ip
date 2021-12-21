@@ -1,7 +1,7 @@
 {
   "asn": 136140,
-  "handle": "BANK-AP",
-  "description": "Bank of Western Australia Limited (Bankwest)",
+  "handle": "CBA-AP",
+  "description": "Commonwealth Bank of Australia",
   "subnets": {
     "ipv4": [
       "103.81.102.0/24"

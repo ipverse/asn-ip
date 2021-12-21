@@ -4,7 +4,8 @@
   "description": "PE Krasnyj Andrij Hennadijovych",
   "subnets": {
     "ipv4": [
-      "5.153.175.0/24"
+      "5.153.175.0/24",
+      "5.153.178.0/24"
     ],
     "ipv6": []
   }
