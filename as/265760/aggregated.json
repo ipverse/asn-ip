@@ -3,7 +3,12 @@
   "handle": "PECHIEU-GASTON",
   "description": "PECHIEU GASTON",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "181.224.164.0/22"
+    ],
+    "ipv6": [
+      "2800:381:5151::/48",
+      "2803:9300::/32"
+    ]
   }
 }

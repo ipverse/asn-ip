@@ -4,7 +4,8 @@
   "description": "Custom Computer Specialists, Inc.",
   "subnets": {
     "ipv4": [
-      "63.118.175.0/24"
+      "63.118.175.0/24",
+      "69.74.173.0/24"
     ],
     "ipv6": []
   }

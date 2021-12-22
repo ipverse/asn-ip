@@ -4,8 +4,7 @@
   "description": "FALCAO NET PROVEDOR DE INTERNET EIRELI",
   "subnets": {
     "ipv4": [
-      "138.59.44.0/22",
-      "170.239.80.0/22"
+      "138.59.44.0/22"
     ],
     "ipv6": [
       "2804:2228::/32"

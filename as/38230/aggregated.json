@@ -3,7 +3,12 @@
   "handle": "NAVICENET-AP",
   "description": "Forhosting",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "103.158.222.0/24"
+    ],
+    "ipv6": [
+      "2a0e:46c4:101::/48",
+      "2a0e:46c4:200::/48"
+    ]
   }
 }

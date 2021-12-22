@@ -4,8 +4,6 @@
   "description": "WebSatMedia Pte Ltd",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2402:e600::/32"
-    ]
+    "ipv6": []
   }
 }

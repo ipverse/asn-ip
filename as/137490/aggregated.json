@@ -3,11 +3,8 @@
   "handle": "NAVICE-AP",
   "description": "Forhosting",
   "subnets": {
-    "ipv4": [
-      "103.158.222.0/24"
-    ],
+    "ipv4": [],
     "ipv6": [
-      "2a0e:46c4:101::/48",
       "2a0e:b107:21::/48"
     ]
   }

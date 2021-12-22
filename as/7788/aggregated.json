@@ -1,0 +1,11 @@
+{
+  "asn": 7788,
+  "handle": "MAGMA-COMM",
+  "description": "Magma Communications Ltd.",
+  "subnets": {
+    "ipv4": [
+      "72.142.143.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -3,9 +3,7 @@
   "handle": "SIS-AP",
   "description": "Sniperhill Internet Services LLC",
   "subnets": {
-    "ipv4": [
-      "103.148.71.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

@@ -1,0 +1,11 @@
+{
+  "asn": 26564,
+  "handle": "NEW-CANAAN",
+  "description": "Town of New Canaan",
+  "subnets": {
+    "ipv4": [
+      "167.206.190.0/24"
+    ],
+    "ipv6": []
+  }
+}

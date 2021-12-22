@@ -4,8 +4,7 @@
   "description": "Provedor Inter.Net",
   "subnets": {
     "ipv4": [
-      "160.19.248.0/23",
-      "160.19.250.0/24"
+      "160.19.248.0/22"
     ],
     "ipv6": []
   }

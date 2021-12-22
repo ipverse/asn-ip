@@ -3,7 +3,9 @@
   "handle": "VALI",
   "description": "Vali Impex SRL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "89.34.106.0/24"
+    ],
     "ipv6": []
   }
 }

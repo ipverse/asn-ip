@@ -4,6 +4,7 @@
   "description": "Iona College",
   "subnets": {
     "ipv4": [
+      "69.74.221.0/24",
       "192.231.231.0/24"
     ],
     "ipv6": []

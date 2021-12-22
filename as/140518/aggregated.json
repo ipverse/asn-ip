@@ -1,0 +1,12 @@
+{
+  "asn": 140518,
+  "handle": "CHINATELECOM-GUANGXI-BEIHAI-5G-NETWORK",
+  "description": "China Telecom",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "240e:a7:7fde::/47",
+      "240e:a7:7fe0::/48"
+    ]
+  }
+}

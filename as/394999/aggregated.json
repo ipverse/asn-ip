@@ -3,9 +3,7 @@
   "handle": "K2S-USNET",
   "description": "Know 2Solutions LLC",
   "subnets": {
-    "ipv4": [
-      "52.129.24.0/22"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

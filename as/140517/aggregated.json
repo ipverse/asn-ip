@@ -1,0 +1,12 @@
+{
+  "asn": 140517,
+  "handle": "CHINATELECOM-GUANGXI-WUZHOU-5G-NETWORK",
+  "description": "China Telecom",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "240e:a7:7fdb::/48",
+      "240e:a7:7fdc::/47"
+    ]
+  }
+}

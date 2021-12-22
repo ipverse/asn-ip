@@ -3,7 +3,11 @@
   "handle": "CABO-FIBRA-INTERNET",
   "description": "CABO FIBRA INTERNET",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.182.248.0/22"
+    ],
+    "ipv6": [
+      "2804:619c::/32"
+    ]
   }
 }

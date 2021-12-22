@@ -4,6 +4,7 @@
   "description": "Betrieb fuer Informationstechnologie Bremerhaven BIT",
   "subnets": {
     "ipv4": [
+      "185.204.96.0/23",
       "185.204.98.0/24"
     ],
     "ipv6": [

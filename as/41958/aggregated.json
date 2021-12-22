@@ -3,10 +3,7 @@
   "handle": "COBION-DE",
   "description": "IBM Deutschland GmbH",
   "subnets": {
-    "ipv4": [
-      "194.153.113.0/24",
-      "206.253.226.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

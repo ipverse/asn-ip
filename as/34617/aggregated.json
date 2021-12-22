@@ -3,9 +3,7 @@
   "handle": "SOFTWAREONE",
   "description": "SoftwareONE AG",
   "subnets": {
-    "ipv4": [
-      "193.104.185.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

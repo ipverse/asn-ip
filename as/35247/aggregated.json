@@ -4,6 +4,7 @@
   "description": "Cosmos Wireless Ltd",
   "subnets": {
     "ipv4": [
+      "62.228.232.0/24",
       "213.169.154.0/24"
     ],
     "ipv6": []
