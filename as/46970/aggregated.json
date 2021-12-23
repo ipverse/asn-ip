@@ -4,6 +4,7 @@
   "description": "Allband Communications Cooperative",
   "subnets": {
     "ipv4": [
+      "38.65.228.0/23",
       "38.103.122.0/24",
       "64.119.48.0/24",
       "64.119.53.0/24",

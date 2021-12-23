@@ -1,0 +1,12 @@
+{
+  "asn": 140377,
+  "handle": "CHINATELECOM-HUNAN-SHAOYANG-5G-NETWORK",
+  "description": "China Telecom",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "240e:96b:6027::/48",
+      "240e:96b:6028::/47"
+    ]
+  }
+}

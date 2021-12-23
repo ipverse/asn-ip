@@ -1,0 +1,12 @@
+{
+  "asn": 140368,
+  "handle": "CHINATELECOM-HUNAN-ZHUZHOU-5G-NETWORK",
+  "description": "China Telecom",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "240e:96b:600c::/47",
+      "240e:96b:600e::/48"
+    ]
+  }
+}

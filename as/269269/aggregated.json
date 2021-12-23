@@ -3,7 +3,9 @@
   "handle": "V1-INFORMATICA",
   "description": "V1 Informática",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.183.8.0/22"
+    ],
     "ipv6": []
   }
 }

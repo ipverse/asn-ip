@@ -4,6 +4,7 @@
   "description": "Ascent Networks Inc",
   "subnets": {
     "ipv4": [
+      "45.45.195.0/24",
       "162.212.20.0/22"
     ],
     "ipv6": []

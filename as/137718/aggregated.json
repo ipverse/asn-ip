@@ -4,7 +4,8 @@
   "description": "Beijing Volcano Engine Technology Co., Ltd.",
   "subnets": {
     "ipv4": [
-      "180.184.64.0/20"
+      "180.184.64.0/20",
+      "180.184.192.0/20"
     ],
     "ipv6": []
   }

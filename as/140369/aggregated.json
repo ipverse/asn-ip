@@ -1,0 +1,12 @@
+{
+  "asn": 140369,
+  "handle": "CHINATELECOM-HUNAN-XIANGTAN-5G-NETWORK",
+  "description": "China Telecom",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "240e:96b:600f::/48",
+      "240e:96b:6010::/47"
+    ]
+  }
+}

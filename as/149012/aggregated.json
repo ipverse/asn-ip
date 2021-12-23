@@ -3,9 +3,7 @@
   "handle": "SYSTEMS2-AP",
   "description": "Systems Limited",
   "subnets": {
-    "ipv4": [
-      "103.176.83.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

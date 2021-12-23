@@ -3,9 +3,7 @@
   "handle": "GAMESACORP",
   "description": "GAMESA CORPORACION TECNOLOGICA S.A.",
   "subnets": {
-    "ipv4": [
-      "91.212.79.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

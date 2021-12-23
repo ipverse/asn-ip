@@ -4,6 +4,7 @@
   "description": "Kuuskaistan Palvelut Oy",
   "subnets": {
     "ipv4": [
+      "2.58.220.0/22",
       "185.89.52.0/22"
     ],
     "ipv6": [

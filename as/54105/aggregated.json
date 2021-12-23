@@ -3,9 +3,7 @@
   "handle": "SSM-NET",
   "description": "Second Street",
   "subnets": {
-    "ipv4": [
-      "199.19.88.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

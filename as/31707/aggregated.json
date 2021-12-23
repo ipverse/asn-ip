@@ -3,7 +3,10 @@
   "handle": "MATI",
   "description": "MAI - Moscow Aviation Institute (National Research University)",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.54.176.0/24",
+      "194.54.178.0/24"
+    ],
     "ipv6": []
   }
 }

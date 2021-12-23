@@ -3,7 +3,9 @@
   "handle": "SQUILD",
   "description": "SQUILD GmbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "109.233.136.0/21"
+    ],
     "ipv6": []
   }
 }

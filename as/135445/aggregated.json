@@ -3,7 +3,11 @@
   "handle": "IDNIC-AIRPAY-ID",
   "description": "PT. Airpay International Indonesia",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "124.158.129.0/24",
+      "124.158.131.0/24",
+      "124.158.140.0/24"
+    ],
     "ipv6": []
   }
 }

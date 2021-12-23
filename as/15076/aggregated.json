@@ -3,10 +3,7 @@
   "handle": "LERWO34OS",
   "description": "Delgado Industries, LLC",
   "subnets": {
-    "ipv4": [
-      "64.235.0.0/20",
-      "216.177.32.0/19"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

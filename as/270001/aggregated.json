@@ -3,7 +3,9 @@
   "handle": "NAZARETH-SRL-NEXT",
   "description": "NAZARETH S.R.L. (NEXT)",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "200.142.236.0/23"
+    ],
     "ipv6": []
   }
 }

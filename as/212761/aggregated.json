@@ -1,0 +1,11 @@
+{
+  "asn": 212761,
+  "handle": "ISP-BROK-X",
+  "description": "PE Brok-X",
+  "subnets": {
+    "ipv4": [
+      "185.41.23.0/24"
+    ],
+    "ipv6": []
+  }
+}

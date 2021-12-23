@@ -1,0 +1,12 @@
+{
+  "asn": 140378,
+  "handle": "CHINATELECOM-HUNAN-DOUDI-5G-NETWORK",
+  "description": "China Telecom",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "240e:96b:602a::/47",
+      "240e:96b:602c::/48"
+    ]
+  }
+}

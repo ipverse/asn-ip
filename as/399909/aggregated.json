@@ -1,0 +1,13 @@
+{
+  "asn": 399909,
+  "handle": "NETBLK-FRANKLIN-COLLEGE",
+  "description": "Franklin College of Indiana",
+  "subnets": {
+    "ipv4": [
+      "192.207.174.0/23",
+      "192.207.176.0/23",
+      "192.207.178.0/24"
+    ],
+    "ipv6": []
+  }
+}
