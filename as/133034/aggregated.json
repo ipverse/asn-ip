@@ -4,7 +4,8 @@
   "description": "Virtual American Companies (BD) Limited",
   "subnets": {
     "ipv4": [
-      "103.251.232.0/23"
+      "103.251.232.0/23",
+      "103.251.234.0/24"
     ],
     "ipv6": []
   }

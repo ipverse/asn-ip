@@ -4,6 +4,7 @@
   "description": "Spectrotel Inc",
   "subnets": {
     "ipv4": [
+      "68.66.5.0/24",
       "156.146.102.0/24"
     ],
     "ipv6": []

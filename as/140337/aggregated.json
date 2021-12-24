@@ -1,0 +1,11 @@
+{
+  "asn": 140337,
+  "handle": "CHINATELECOM-FUJIAN-NANPING-5G-NETWORK",
+  "description": "China Telecom",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "240e:267:9000::/38"
+    ]
+  }
+}

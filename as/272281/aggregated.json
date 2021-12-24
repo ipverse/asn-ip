@@ -1,0 +1,11 @@
+{
+  "asn": 272281,
+  "handle": "WORKENGNET-TELECOM",
+  "description": "Workeng.Net Telecom",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2804:84c8::/32"
+    ]
+  }
+}

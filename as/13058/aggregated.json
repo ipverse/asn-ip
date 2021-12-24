@@ -4,8 +4,6 @@
   "description": "serve-u - Buchholz und Suenderhauf GbR",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2a0c:7286::/32"
-    ]
+    "ipv6": []
   }
 }

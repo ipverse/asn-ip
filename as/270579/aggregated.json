@@ -3,7 +3,9 @@
   "handle": "ISP-MAIS-PROVEDOR",
   "description": "ISP MAIS PROVEDOR DE INTERNET LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "189.126.84.0/22"
+    ],
     "ipv6": []
   }
 }

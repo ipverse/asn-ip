@@ -3,7 +3,10 @@
   "handle": "PROVNET-TELECOM",
   "description": "PROVNET TELECOM",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "143.255.8.0/22",
+      "170.231.144.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -4,9 +4,7 @@
   "description": "Roshangaran Ertebatat Rayaneh",
   "subnets": {
     "ipv4": [
-      "31.130.176.0/21",
-      "31.130.184.0/22",
-      "31.130.190.0/23"
+      "31.130.176.0/20"
     ],
     "ipv6": []
   }

@@ -3,7 +3,9 @@
   "handle": "NCSC2",
   "description": "UK Ministry of Defence",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "25.129.196.0/23"
+    ],
     "ipv6": []
   }
 }

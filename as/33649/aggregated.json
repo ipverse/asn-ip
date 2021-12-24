@@ -3,9 +3,7 @@
   "handle": "SHENTEL",
   "description": "Shenandoah Cable Television LLC",
   "subnets": {
-    "ipv4": [
-      "72.46.75.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

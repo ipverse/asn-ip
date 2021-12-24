@@ -4,6 +4,7 @@
   "description": "PT. Airpay International Indonesia",
   "subnets": {
     "ipv4": [
+      "103.69.177.0/24",
       "124.158.129.0/24",
       "124.158.131.0/24",
       "124.158.140.0/24"

@@ -1,0 +1,11 @@
+{
+  "asn": 140331,
+  "handle": "CHINATELECOM-FUJIAN-NINGDE-5G-NETWORK",
+  "description": "China Telecom",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "240e:267:3000::/38"
+    ]
+  }
+}

@@ -3,9 +3,7 @@
   "handle": "TOTAL-ELETRONICA-TELECOMUNICACOES",
   "description": "Total Eletronica Telecomunicacoes Eireli",
   "subnets": {
-    "ipv4": [
-      "200.39.54.0/24"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2804:81b8::/33"
     ]

@@ -4,8 +4,7 @@
   "description": "SUPER STAR ELECTRONICS LIMITED",
   "subnets": {
     "ipv4": [
-      "103.114.168.0/23",
-      "103.114.171.0/24"
+      "103.114.168.0/22"
     ],
     "ipv6": []
   }

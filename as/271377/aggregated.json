@@ -3,7 +3,9 @@
   "handle": "TORRES-ALVES-E",
   "description": "Torres Alves e Brandao Ltda - ME",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "181.189.92.0/22"
+    ],
     "ipv6": [
       "2804:7a88::/32"
     ]

@@ -3,7 +3,9 @@
   "handle": "AMS-HST",
   "description": "HEWLETT PACKARD ENTERPRISE COMPANY",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "16.9.0.0/17"
+    ],
     "ipv6": []
   }
 }

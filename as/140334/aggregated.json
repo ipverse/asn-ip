@@ -1,0 +1,11 @@
+{
+  "asn": 140334,
+  "handle": "CHINATELECOM-FUJIAN-ZHANGZHOU-5G-NETWORK",
+  "description": "China Telecom",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "240e:267:6000::/38"
+    ]
+  }
+}

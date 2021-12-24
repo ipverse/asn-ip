@@ -1,0 +1,11 @@
+{
+  "asn": 140333,
+  "handle": "CHINATELECOM-FUJIAN-QUANZHOU-5G-NETWORK",
+  "description": "China Telecom",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "240e:267:5000::/38"
+    ]
+  }
+}
