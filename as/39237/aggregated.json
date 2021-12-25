@@ -3,7 +3,10 @@
   "handle": "ITS",
   "description": "I.T.S. SH.P.K.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.169.164.0/23",
+      "194.169.166.0/24"
+    ],
     "ipv6": []
   }
 }

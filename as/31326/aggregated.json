@@ -3,9 +3,7 @@
   "handle": "MTR-SVIAZ",
   "description": "LTD MTR-Sviaz",
   "subnets": {
-    "ipv4": [
-      "83.136.237.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

@@ -4,8 +4,7 @@
   "description": "Solid Systems LLC",
   "subnets": {
     "ipv4": [
-      "172.81.56.0/23",
-      "172.81.58.0/24"
+      "172.81.56.0/23"
     ],
     "ipv6": []
   }

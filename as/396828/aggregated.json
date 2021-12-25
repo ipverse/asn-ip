@@ -4,7 +4,6 @@
   "description": "VeriSign Global Registry Services",
   "subnets": {
     "ipv4": [
-      "72.13.34.0/24",
       "209.112.116.0/24",
       "209.112.120.0/24"
     ],

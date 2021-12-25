@@ -1,13 +1,10 @@
 {
   "asn": 140224,
-  "handle": "WSCLOUDX-AP",
-  "description": "White-Sand Cloud Computing(HK) Co., LIMITED",
+  "handle": "SGPL-AP",
+  "description": "STARCLOUD GLOBAL PTE., LTD.",
   "subnets": {
     "ipv4": [
-      "39.109.0.0/23",
-      "39.109.3.0/24",
-      "39.109.4.0/22",
-      "39.109.8.0/21",
+      "39.109.0.0/20",
       "39.109.16.0/22",
       "39.109.20.0/24",
       "39.109.34.0/23",

@@ -4,7 +4,8 @@
   "description": "Voronezh Telecom LLC",
   "subnets": {
     "ipv4": [
-      "194.58.36.0/24"
+      "194.58.36.0/24",
+      "194.61.232.0/24"
     ],
     "ipv6": []
   }

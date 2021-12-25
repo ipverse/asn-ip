@@ -4,8 +4,6 @@
   "description": "Netrad Telecom SRL",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2a0d:f407:1003::/48"
-    ]
+    "ipv6": []
   }
 }

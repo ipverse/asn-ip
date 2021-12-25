@@ -3,7 +3,9 @@
   "handle": "JSOUZANET-TELECOM",
   "description": "JSOUZANET TELECOM",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "138.185.124.0/22"
+    ],
     "ipv6": []
   }
 }

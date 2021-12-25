@@ -3,10 +3,7 @@
   "handle": "FREGAT-TV-LTD",
   "description": "Fregat TV Ltd.",
   "subnets": {
-    "ipv4": [
-      "109.122.40.0/21",
-      "109.122.48.0/21"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

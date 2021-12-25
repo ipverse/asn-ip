@@ -3,7 +3,9 @@
   "handle": "UNIVERSITY-OF-MISSOURI-SYSTEM-INTER-CAMPUS-NETWORK",
   "description": "University of Missouri - dba the Missouri Research and Education Network (MOREnet)",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "150.199.90.0/24"
+    ],
     "ipv6": []
   }
 }

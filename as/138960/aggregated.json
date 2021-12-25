@@ -4,7 +4,7 @@
   "description": "Social Islami Bank Limited",
   "subnets": {
     "ipv4": [
-      "103.137.196.0/23"
+      "103.137.196.0/24"
     ],
     "ipv6": []
   }
