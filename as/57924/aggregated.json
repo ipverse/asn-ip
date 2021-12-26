@@ -3,7 +3,9 @@
   "handle": "DONBASS-WATER",
   "description": "Utility enterprise Company Donbass Water",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.236.171.0/24"
+    ],
     "ipv6": []
   }
 }

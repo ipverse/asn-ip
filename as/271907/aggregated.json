@@ -4,6 +4,7 @@
   "description": "COLNETWORK C.A.",
   "subnets": {
     "ipv4": [
+      "181.233.88.0/22",
       "185.223.78.0/24"
     ],
     "ipv6": [

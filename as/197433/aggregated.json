@@ -4,7 +4,7 @@
   "description": "TOV Telecommunication Company Orion",
   "subnets": {
     "ipv4": [
-      "91.221.132.0/23",
+      "91.221.132.0/24",
       "146.120.124.0/22"
     ],
     "ipv6": []

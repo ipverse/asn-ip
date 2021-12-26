@@ -1,0 +1,11 @@
+{
+  "asn": 137464,
+  "handle": "CITY-COMPUTER-AP",
+  "description": "City Computer",
+  "subnets": {
+    "ipv4": [
+      "103.109.236.0/24"
+    ],
+    "ipv6": []
+  }
+}

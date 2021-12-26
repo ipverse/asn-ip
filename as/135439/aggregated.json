@@ -3,7 +3,9 @@
   "handle": "ADNET-ID",
   "description": "PT ADNET MEDIA INDONESIA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.214.238.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "NETBONE",
   "description": "Netbone Telekomunikasyon A.S.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.94.151.0/24"
+    ],
     "ipv6": []
   }
 }

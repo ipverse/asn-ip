@@ -3,7 +3,9 @@
   "handle": "DAANCOMM",
   "description": "DAAN COMMUNICATIONS PRIVATE LMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.171.135.0/24"
+    ],
     "ipv6": []
   }
 }

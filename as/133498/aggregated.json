@@ -3,12 +3,7 @@
   "handle": "DLSU-AP",
   "description": "De La Salle University Incorporated",
   "subnets": {
-    "ipv4": [
-      "103.231.240.0/23",
-      "103.231.242.0/24"
-    ],
-    "ipv6": [
-      "2001:df5:e800::/48"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }
