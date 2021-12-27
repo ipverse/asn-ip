@@ -4,6 +4,7 @@
   "description": "Max Hub Limited",
   "subnets": {
     "ipv4": [
+      "103.120.163.0/24",
       "103.162.228.0/23"
     ],
     "ipv6": [

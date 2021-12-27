@@ -4,7 +4,7 @@
   "description": "Al-Mahara Trading FZCO",
   "subnets": {
     "ipv4": [
-      "130.255.0.0/23",
+      "130.255.0.0/24",
       "130.255.2.0/24"
     ],
     "ipv6": []
