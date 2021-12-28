@@ -4,7 +4,8 @@
   "description": "Critical Hub Networks",
   "subnets": {
     "ipv4": [
-      "209.91.216.0/24"
+      "209.91.216.0/24",
+      "209.91.255.0/24"
     ],
     "ipv6": []
   }

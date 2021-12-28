@@ -3,7 +3,9 @@
   "handle": "RKSHOSTING",
   "description": "RKS HOSTING LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.149.198.0/24"
+    ],
     "ipv6": []
   }
 }

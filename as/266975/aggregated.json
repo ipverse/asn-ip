@@ -3,7 +3,9 @@
   "handle": "WIRECONECT-SERVICO-DE",
   "description": "WIRECONECT SERVICO DE INTERNET LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.226.36.0/23"
+    ],
     "ipv6": []
   }
 }

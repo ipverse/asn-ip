@@ -3,9 +3,7 @@
   "handle": "KCTDI-KR",
   "description": "KCTDI",
   "subnets": {
-    "ipv4": [
-      "123.140.99.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

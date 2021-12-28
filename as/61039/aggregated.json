@@ -3,7 +3,9 @@
   "handle": "ZMZ",
   "description": "OAO ZMZ",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.235.169.0/24"
+    ],
     "ipv6": []
   }
 }

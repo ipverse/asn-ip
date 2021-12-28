@@ -4,6 +4,7 @@
   "description": "WSNL BROADBAND PRIVATE LIMITED",
   "subnets": {
     "ipv4": [
+      "103.170.1.0/24",
       "103.174.246.0/23"
     ],
     "ipv6": []

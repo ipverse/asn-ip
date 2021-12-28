@@ -3,7 +3,9 @@
   "handle": "VOXNET-TELECOM",
   "description": "VOXNET TELECOM",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "168.228.188.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -4,6 +4,7 @@
   "description": "PT. Sarana InsanMuda Selaras",
   "subnets": {
     "ipv4": [
+      "111.92.164.0/24",
       "111.92.166.0/24",
       "111.92.169.0/24",
       "111.92.170.0/24",

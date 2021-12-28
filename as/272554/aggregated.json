@@ -1,0 +1,11 @@
+{
+  "asn": 272554,
+  "handle": "LOG-FI",
+  "description": "Log Fi",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2804:850c::/32"
+    ]
+  }
+}

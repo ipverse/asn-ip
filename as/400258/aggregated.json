@@ -4,6 +4,7 @@
   "description": "Professional Satellite Service, Inc.",
   "subnets": {
     "ipv4": [
+      "70.186.20.0/24",
       "216.98.168.0/22"
     ],
     "ipv6": []
