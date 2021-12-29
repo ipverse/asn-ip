@@ -1,0 +1,11 @@
+{
+  "asn": 210383,
+  "handle": "SANDER",
+  "description": "Sander Post",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a0e:fd45:2b60::/48"
+    ]
+  }
+}

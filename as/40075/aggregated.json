@@ -3,7 +3,9 @@
   "handle": "RADIOLOGYLTD",
   "description": "Radiology LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "206.169.6.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,9 +3,7 @@
   "handle": "STACKSNET",
   "description": "Shanghai Stacks Network Co., Ltd",
   "subnets": {
-    "ipv4": [
-      "103.98.164.0/22"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

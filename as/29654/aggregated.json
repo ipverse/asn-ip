@@ -3,9 +3,7 @@
   "handle": "BACKBONE",
   "description": "Backbone Internet Services GMBH",
   "subnets": {
-    "ipv4": [
-      "81.31.128.0/20"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

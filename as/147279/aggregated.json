@@ -3,9 +3,7 @@
   "handle": "OPTOCOMM-IN",
   "description": "OPTO COMMUNICATIONS PRIVATE LIMITED",
   "subnets": {
-    "ipv4": [
-      "103.176.235.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

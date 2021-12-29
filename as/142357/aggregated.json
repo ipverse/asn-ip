@@ -1,0 +1,11 @@
+{
+  "asn": 142357,
+  "handle": "IDNIC-BURATEL-ID",
+  "description": "PT Baubau Sarana Telekomunikasi",
+  "subnets": {
+    "ipv4": [
+      "103.168.247.0/24"
+    ],
+    "ipv6": []
+  }
+}

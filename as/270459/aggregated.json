@@ -3,11 +3,7 @@
   "handle": "GENESIS-COM-DE",
   "description": "GÊNESIS COM DE COMPUTADORES LTDA - ME",
   "subnets": {
-    "ipv4": [
-      "200.26.244.0/22"
-    ],
-    "ipv6": [
-      "2804:6c50::/32"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

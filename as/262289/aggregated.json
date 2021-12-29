@@ -3,7 +3,9 @@
   "handle": "SINGULAR-COMUNICACOES-MULTIMIDIA",
   "description": "Singular Comunicações Multimidia Ltda",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "186.232.76.0/22"
+    ],
     "ipv6": []
   }
 }

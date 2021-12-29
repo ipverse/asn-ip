@@ -3,7 +3,9 @@
   "handle": "TERA-FIBER-TELECOMUNICACOES",
   "description": "Tera Fiber Telecomunicações Ltda",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.226.138.0/23"
+    ],
     "ipv6": [
       "2804:4614:c000::/34"
     ]

@@ -4,7 +4,8 @@
   "description": "Emporia State University",
   "subnets": {
     "ipv4": [
-      "198.248.0.0/19"
+      "198.248.0.0/19",
+      "198.248.132.0/22"
     ],
     "ipv6": [
       "2001:49d0:140::/42"

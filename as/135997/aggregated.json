@@ -4,7 +4,7 @@
   "description": "EVN Finance Joint Stock Company",
   "subnets": {
     "ipv4": [
-      "103.146.18.0/24"
+      "103.146.18.0/23"
     ],
     "ipv6": []
   }

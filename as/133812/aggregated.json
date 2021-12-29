@@ -3,10 +3,7 @@
   "handle": "IDNIC-LCMNETWORKS-ID",
   "description": "LCM NETWORKS",
   "subnets": {
-    "ipv4": [
-      "103.52.3.0/24",
-      "103.87.70.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

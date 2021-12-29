@@ -3,11 +3,7 @@
   "handle": "HMONNET01",
   "description": "HMon Networks",
   "subnets": {
-    "ipv4": [
-      "199.73.28.0/24",
-      "199.73.30.0/24",
-      "199.223.251.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }
