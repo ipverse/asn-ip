@@ -3,7 +3,9 @@
   "handle": "A-M-GODINHO",
   "description": "A M GODINHO TELECOMUNICAÇÕES EIRELI - ME",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "168.90.132.0/22"
+    ],
     "ipv6": []
   }
 }

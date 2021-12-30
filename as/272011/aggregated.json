@@ -3,7 +3,11 @@
   "handle": "TELEMARCH-SRL",
   "description": "TELEMARCH S.R.L",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "181.214.25.0/24"
+    ],
+    "ipv6": [
+      "2803:d910::/32"
+    ]
   }
 }

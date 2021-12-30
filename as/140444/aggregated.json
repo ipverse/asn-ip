@@ -1,0 +1,11 @@
+{
+  "asn": 140444,
+  "handle": "IDNIC-BINAWAN-ID",
+  "description": "Universitas Binawan",
+  "subnets": {
+    "ipv4": [
+      "103.153.42.0/23"
+    ],
+    "ipv6": []
+  }
+}

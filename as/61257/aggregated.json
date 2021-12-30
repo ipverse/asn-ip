@@ -3,9 +3,7 @@
   "handle": "SAPSAN-MENEDZHMENT",
   "description": "OOO SAPSAN-MENEDZhMENT",
   "subnets": {
-    "ipv4": [
-      "37.230.255.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

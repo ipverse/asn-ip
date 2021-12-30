@@ -3,9 +3,7 @@
   "handle": "PROD-MAIN-DR",
   "description": "OptionMonster Holdings, Inc",
   "subnets": {
-    "ipv4": [
-      "185.189.119.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

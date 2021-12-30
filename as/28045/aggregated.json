@@ -4,8 +4,6 @@
   "description": "Paco Telecom",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2a0e:b107:201::/48"
-    ]
+    "ipv6": []
   }
 }

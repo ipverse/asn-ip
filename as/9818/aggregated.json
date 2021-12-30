@@ -1,0 +1,13 @@
+{
+  "asn": 9818,
+  "handle": "IFLAB",
+  "description": "Internet Finance Laboratory",
+  "subnets": {
+    "ipv4": [
+      "103.174.94.0/23"
+    ],
+    "ipv6": [
+      "2400:1160::/32"
+    ]
+  }
+}

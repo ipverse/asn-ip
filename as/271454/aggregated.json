@@ -3,7 +3,9 @@
   "handle": "GUSTAVISON-RIBEIRO-GOMES-ME",
   "description": "Gustavison Ribeiro Gomes ME",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "181.233.4.0/22"
+    ],
     "ipv6": [
       "2804:7bc8::/32"
     ]

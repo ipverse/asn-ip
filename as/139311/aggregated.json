@@ -3,9 +3,7 @@
   "handle": "STELLAIT-AP",
   "description": "Stella IT",
   "subnets": {
-    "ipv4": [
-      "103.178.34.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

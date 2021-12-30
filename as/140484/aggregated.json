@@ -1,0 +1,12 @@
+{
+  "asn": 140484,
+  "handle": "CHINATELECOM-ZHEJIANG-SHENGJI-EPCCE-NETWORK",
+  "description": "China Telecom",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "240e:397:300::/40",
+      "240e:397:400::/39"
+    ]
+  }
+}

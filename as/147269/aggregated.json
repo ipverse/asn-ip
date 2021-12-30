@@ -1,0 +1,13 @@
+{
+  "asn": 147269,
+  "handle": "DATAWINGS-IN",
+  "description": "Datawings Teleinfra Pvt Ltd",
+  "subnets": {
+    "ipv4": [
+      "103.176.192.0/23"
+    ],
+    "ipv6": [
+      "2400:34a0::/32"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 140497,
+  "handle": "CHINATELECOM-ZHEJIANG-ZHOUSHAN-5G-NETWORK",
+  "description": "China Telecom",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "240e:397:2400::/39",
+      "240e:397:2600::/40"
+    ]
+  }
+}

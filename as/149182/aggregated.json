@@ -1,0 +1,11 @@
+{
+  "asn": 149182,
+  "handle": "SUPERFAST-IN",
+  "description": "SUPERFAST NETSOL",
+  "subnets": {
+    "ipv4": [
+      "103.178.0.0/23"
+    ],
+    "ipv6": []
+  }
+}
