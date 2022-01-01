@@ -3,7 +3,9 @@
   "handle": "BDMINTERNET-AP",
   "description": "BDM Internet",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.146.150.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -4,8 +4,7 @@
   "description": "Dinas Komunikasi Informatika dan Statistik Kota Cirebon",
   "subnets": {
     "ipv4": [
-      "103.105.142.0/24",
-      "103.155.29.0/24"
+      "103.105.142.0/24"
     ],
     "ipv6": []
   }

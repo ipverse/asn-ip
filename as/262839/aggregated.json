@@ -3,7 +3,9 @@
   "handle": "YAWL-TELECOMUNICACAO-E",
   "description": "Yawl Telecomunicação e Rep. de Informática Ltda.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "186.251.240.0/21"
+    ],
     "ipv6": []
   }
 }

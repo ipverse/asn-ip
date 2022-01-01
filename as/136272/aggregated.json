@@ -3,7 +3,10 @@
   "handle": "SUNONLINE-AP",
   "description": "SUN ONLINE",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.85.232.0/22",
+      "116.204.140.0/22"
+    ],
     "ipv6": []
   }
 }

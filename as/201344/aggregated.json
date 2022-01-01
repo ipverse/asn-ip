@@ -3,9 +3,7 @@
   "handle": "ARCPLACE-AG",
   "description": "Arcplace AG",
   "subnets": {
-    "ipv4": [
-      "185.77.68.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

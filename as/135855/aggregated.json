@@ -3,7 +3,9 @@
   "handle": "APPLESTL-IN",
   "description": "Applesoft Technologies",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.79.100.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -4,6 +4,8 @@
   "description": "Cajutel (SL) Sarl Limited",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2c0f:eb60::/32"
+    ]
   }
 }

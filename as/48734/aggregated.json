@@ -3,9 +3,7 @@
   "handle": "CECCAR",
   "description": "Corpul Expertilor Contabili si Contabililor Autorizati din Romania",
   "subnets": {
-    "ipv4": [
-      "5.154.233.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

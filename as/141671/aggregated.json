@@ -3,7 +3,9 @@
   "handle": "IDNIC-ZEUSS-ID",
   "description": "PT Samudera Kilat Indonesia",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.162.240.0/23"
+    ],
     "ipv6": []
   }
 }

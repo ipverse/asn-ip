@@ -4,6 +4,7 @@
   "description": "FIVE CYBER HOST SECURITY S.R.L.",
   "subnets": {
     "ipv4": [
+      "193.31.28.0/24",
       "193.105.177.0/24"
     ],
     "ipv6": [

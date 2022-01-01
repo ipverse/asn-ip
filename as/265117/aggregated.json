@@ -3,9 +3,7 @@
   "handle": "COMPLEXA-TECNOLOGIA-DA",
   "description": "Complexa Tecnologia da Informação",
   "subnets": {
-    "ipv4": [
-      "143.208.176.0/22"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2804:2ac4::/32"
     ]

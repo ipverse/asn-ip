@@ -3,9 +3,7 @@
   "handle": "REDE-OPTICA",
   "description": "Rede Óptica",
   "subnets": {
-    "ipv4": [
-      "201.216.100.0/22"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

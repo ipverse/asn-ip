@@ -1,0 +1,11 @@
+{
+  "asn": 149312,
+  "handle": "RAPIDBROADBAN-AP",
+  "description": "Rapid Broadband",
+  "subnets": {
+    "ipv4": [
+      "103.178.188.0/24"
+    ],
+    "ipv6": []
+  }
+}

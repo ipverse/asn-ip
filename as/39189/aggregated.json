@@ -3,7 +3,9 @@
   "handle": "NET-2K",
   "description": "PP 2K Merezha",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.34.72.0/22"
+    ],
     "ipv6": []
   }
 }

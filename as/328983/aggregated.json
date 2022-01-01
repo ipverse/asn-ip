@@ -4,6 +4,7 @@
   "description": "Comsys (GH) Limited",
   "subnets": {
     "ipv4": [
+      "196.61.42.0/24",
       "196.61.47.0/24"
     ],
     "ipv6": []
