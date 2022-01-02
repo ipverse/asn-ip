@@ -4,7 +4,8 @@
   "description": "BIZZARRO AGENCY LLC",
   "subnets": {
     "ipv4": [
-      "172.98.12.0/24"
+      "172.98.12.0/24",
+      "208.99.54.0/24"
     ],
     "ipv6": []
   }

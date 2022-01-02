@@ -3,7 +3,9 @@
   "handle": "IDNIC-KARANGASEMKOMINFO-ID",
   "description": "Diskominfo Karangasem",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.160.160.0/24"
+    ],
     "ipv6": []
   }
 }

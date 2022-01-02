@@ -4,7 +4,8 @@
   "description": "University of Alabama in Huntsville",
   "subnets": {
     "ipv4": [
-      "146.229.0.0/16"
+      "146.229.0.0/16",
+      "207.157.74.0/23"
     ],
     "ipv6": []
   }
