@@ -3,7 +3,10 @@
   "handle": "SMDT1",
   "description": "SociÃ©tÃ© Malienne de Transmission et de Diffusion",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "102.165.96.0/23",
+      "102.165.99.0/24"
+    ],
     "ipv6": []
   }
 }

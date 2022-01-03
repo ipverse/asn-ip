@@ -3,7 +3,9 @@
   "handle": "NEXTLY",
   "description": "Nextly SASU",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "141.11.190.0/24"
+    ],
     "ipv6": []
   }
 }

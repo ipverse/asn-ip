@@ -1,0 +1,13 @@
+{
+  "asn": 139074,
+  "handle": "TDL-AP",
+  "description": "TECHNOLOGY DIRECTIONS LIMITED",
+  "subnets": {
+    "ipv4": [
+      "103.139.78.0/23"
+    ],
+    "ipv6": [
+      "2404:ddc0:6000::/36"
+    ]
+  }
+}

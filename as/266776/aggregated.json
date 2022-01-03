@@ -3,7 +3,9 @@
   "handle": "SOCIEDAD-CONSULTORES-EN",
   "description": "SOCIEDAD CONSULTORES EN INFORMATICA VARGAS Y COMPAÑIA LIMITADA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "170.78.112.0/22"
+    ],
     "ipv6": []
   }
 }

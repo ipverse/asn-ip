@@ -3,9 +3,7 @@
   "handle": "ALPHACENTRI",
   "description": "AlphaCentri",
   "subnets": {
-    "ipv4": [
-      "165.140.124.0/22"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

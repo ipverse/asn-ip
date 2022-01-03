@@ -3,7 +3,10 @@
   "handle": "ADSNET-ID",
   "description": "PT. AMBHARA DUTA SHANTI",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.83.140.0/23",
+      "103.83.142.0/24"
+    ],
     "ipv6": []
   }
 }

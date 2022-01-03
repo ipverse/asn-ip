@@ -3,9 +3,7 @@
   "handle": "GOHOSTED-CUSTOMERS",
   "description": "Webdiensten.nu LTD",
   "subnets": {
-    "ipv4": [
-      "41.71.227.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

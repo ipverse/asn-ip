@@ -3,9 +3,7 @@
   "handle": "DTL-AP",
   "description": "DiGiSpice Technologies Ltd",
   "subnets": {
-    "ipv4": [
-      "103.158.18.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

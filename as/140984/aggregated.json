@@ -3,11 +3,7 @@
   "handle": "WTWHIGHTECHCOMPAN-AP",
   "description": "WTW HIGHTECH COMPANY INC",
   "subnets": {
-    "ipv4": [
-      "103.154.61.0/24"
-    ],
-    "ipv6": [
-      "2407:8bc0::/40"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }
