@@ -1,13 +1,11 @@
 {
   "asn": 141592,
-  "handle": "IDNIC-INFONET-ID",
+  "handle": "INFONUSA-ID",
   "description": "PT Infonet Nusa Solusindo",
   "subnets": {
     "ipv4": [
       "103.160.178.0/23"
     ],
-    "ipv6": [
-      "2001:df0:3040::/48"
-    ]
+    "ipv6": []
   }
 }

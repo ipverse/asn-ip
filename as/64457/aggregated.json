@@ -4,6 +4,7 @@
   "description": "Enaxim Corporation",
   "subnets": {
     "ipv4": [
+      "185.172.36.0/24",
       "185.174.42.0/24"
     ],
     "ipv6": [

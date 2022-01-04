@@ -1,0 +1,11 @@
+{
+  "asn": 33006,
+  "handle": "LOGICALHOST",
+  "description": "Logical Host, LLC",
+  "subnets": {
+    "ipv4": [
+      "23.157.64.0/24"
+    ],
+    "ipv6": []
+  }
+}

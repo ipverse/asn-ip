@@ -4,8 +4,6 @@
   "description": "Freifunk Frankfurt am Main e.V.",
   "subnets": {
     "ipv4": [
-      "94.45.240.0/23",
-      "94.45.244.0/22",
       "185.206.208.0/22"
     ],
     "ipv6": [

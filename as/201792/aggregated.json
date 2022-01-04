@@ -3,10 +3,7 @@
   "handle": "BETA-TELECO",
   "description": "Beta Teleco S.A.R.L",
   "subnets": {
-    "ipv4": [
-      "91.196.216.0/24",
-      "91.196.219.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

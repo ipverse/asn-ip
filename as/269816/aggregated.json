@@ -4,6 +4,7 @@
   "description": "TELE MON, S.R.L.",
   "subnets": {
     "ipv4": [
+      "38.7.80.0/20",
       "45.186.12.0/22"
     ],
     "ipv6": [

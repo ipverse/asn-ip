@@ -4,7 +4,6 @@
   "description": "FIBER net lb s.a.r.l",
   "subnets": {
     "ipv4": [
-      "95.214.212.0/23",
       "221.128.145.0/24"
     ],
     "ipv6": []

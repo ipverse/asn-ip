@@ -4,7 +4,8 @@
   "description": "Symbio Networks Pty Ltd",
   "subnets": {
     "ipv4": [
-      "66.234.160.0/23"
+      "66.234.160.0/23",
+      "66.234.164.0/24"
     ],
     "ipv6": []
   }
