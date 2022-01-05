@@ -3,7 +3,9 @@
   "handle": "WEBHORIZON",
   "description": "Abdullah Mukhtar Wadekar trading as \u0027WebHorizon\u0027",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "41.216.182.0/24"
+    ],
     "ipv6": [
       "2a0e:97c0:381::/48",
       "2a0e:97c0:382::/48"

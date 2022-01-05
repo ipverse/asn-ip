@@ -4,7 +4,8 @@
   "description": "National Football League",
   "subnets": {
     "ipv4": [
-      "204.141.128.0/20"
+      "204.141.132.0/22",
+      "204.141.136.0/21"
     ],
     "ipv6": []
   }

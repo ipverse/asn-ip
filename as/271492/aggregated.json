@@ -4,8 +4,11 @@
   "description": "Virtual Giga Solucoes em Servicos Online LTDA",
   "subnets": {
     "ipv4": [
+      "181.224.76.0/22",
       "206.85.164.0/22"
     ],
-    "ipv6": []
+    "ipv6": [
+      "2804:7c60::/32"
+    ]
   }
 }

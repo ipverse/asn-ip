@@ -3,7 +3,9 @@
   "handle": "PUBLICDNS-AP",
   "description": "HostLink",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "116.206.128.0/24"
+    ],
     "ipv6": [
       "2407:c280:ffff::/48"
     ]

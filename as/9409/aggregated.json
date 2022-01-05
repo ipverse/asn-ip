@@ -1,0 +1,12 @@
+{
+  "asn": 9409,
+  "handle": "CITYLINE-HK",
+  "description": "CityLine (Hong Kong) Limited",
+  "subnets": {
+    "ipv4": [
+      "202.82.89.0/24",
+      "210.176.100.0/24"
+    ],
+    "ipv6": []
+  }
+}

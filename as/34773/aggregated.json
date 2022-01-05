@@ -3,9 +3,7 @@
   "handle": "VHOST",
   "description": "Vhost Meremeta Ltd",
   "subnets": {
-    "ipv4": [
-      "194.8.28.0/24"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2a0a:1b80::/30"
     ]

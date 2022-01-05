@@ -4,6 +4,7 @@
   "description": "Conexon Connect",
   "subnets": {
     "ipv4": [
+      "110.239.48.0/20",
       "147.124.80.0/20"
     ],
     "ipv6": []

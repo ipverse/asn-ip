@@ -3,11 +3,7 @@
   "handle": "ATSI",
   "description": "ANEXIO TECHNOLOGY SERVICES, INC.",
   "subnets": {
-    "ipv4": [
-      "23.235.56.0/21",
-      "38.135.68.0/22",
-      "38.135.76.0/22"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2607:e280:4000::/34"
     ]

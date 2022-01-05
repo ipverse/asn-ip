@@ -3,9 +3,7 @@
   "handle": "EUROTELECOM",
   "description": "Eurotelecom SRL",
   "subnets": {
-    "ipv4": [
-      "2.57.212.0/22"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

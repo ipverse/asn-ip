@@ -1,0 +1,11 @@
+{
+  "asn": 400289,
+  "handle": "MFWIRELESS",
+  "description": "MFWireless",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2606:9440::/32"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asn": 55822,
+  "handle": "MYIX-MY",
+  "description": "Persatuan Pengendali Internet Malaysia (MyIX)",
+  "subnets": {
+    "ipv4": [
+      "218.100.75.0/24"
+    ],
+    "ipv6": []
+  }
+}

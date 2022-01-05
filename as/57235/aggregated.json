@@ -3,11 +3,7 @@
   "handle": "CHAPARRASANEH",
   "description": "Chapar Rasaneh",
   "subnets": {
-    "ipv4": [
-      "81.31.224.0/20",
-      "81.31.240.0/23",
-      "81.31.248.0/22"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

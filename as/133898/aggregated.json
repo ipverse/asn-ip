@@ -3,12 +3,7 @@
   "handle": "FLIPTVPTYLIMITED-AP",
   "description": "FLIP TV PTY LIMITED",
   "subnets": {
-    "ipv4": [
-      "43.227.108.0/22",
-      "103.197.145.0/24",
-      "103.197.146.0/23",
-      "203.23.68.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

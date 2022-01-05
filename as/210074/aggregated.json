@@ -1,0 +1,12 @@
+{
+  "asn": 210074,
+  "handle": "B-DINGEMANS-PRIVATE",
+  "description": "Sebastiaan Dingemans",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a0e:b107:9f5::/48",
+      "2a10:2f00:17b::/48"
+    ]
+  }
+}
