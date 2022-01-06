@@ -3,7 +3,9 @@
   "handle": "S2BNET",
   "description": "S2B-NET SARL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.23.52.0/24"
+    ],
     "ipv6": []
   }
 }

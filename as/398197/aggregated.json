@@ -3,7 +3,9 @@
   "handle": "REMOTE-SUB-SERVICES-01",
   "description": "EpicUp.com",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "140.99.0.0/16"
+    ],
     "ipv6": [
       "2600:33e0::/27"
     ]

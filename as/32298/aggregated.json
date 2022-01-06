@@ -4,8 +4,7 @@
   "description": "Evoque Data Center Solutions",
   "subnets": {
     "ipv4": [
-      "64.255.192.0/19",
-      "147.185.148.0/24"
+      "64.255.192.0/19"
     ],
     "ipv6": [
       "2600:cc00:1::/48",

@@ -1,0 +1,11 @@
+{
+  "asn": 149009,
+  "handle": "DSIPL-AP",
+  "description": "Dubai Sky Internet",
+  "subnets": {
+    "ipv4": [
+      "103.176.4.0/23"
+    ],
+    "ipv6": []
+  }
+}

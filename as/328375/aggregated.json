@@ -4,7 +4,8 @@
   "description": "Vlocity Communications (pty) Ltd",
   "subnets": {
     "ipv4": [
-      "102.130.80.0/22"
+      "102.130.81.0/24",
+      "102.130.82.0/24"
     ],
     "ipv6": []
   }

@@ -3,7 +3,9 @@
   "handle": "DMESON-CARLOS-BARBOZA",
   "description": "DMESON CARLOS BARBOZA GONÇALVES DO NASCIMENTO",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "186.209.160.0/22"
+    ],
     "ipv6": [
       "2804:7b14::/32"
     ]

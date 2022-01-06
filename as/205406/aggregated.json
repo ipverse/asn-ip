@@ -3,7 +3,11 @@
   "handle": "ACCESS2IT-SECONDARY",
   "description": "Access2.IT Group B.V.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.152.9.0/24",
+      "194.39.216.0/23",
+      "195.88.218.0/23"
+    ],
     "ipv6": []
   }
 }

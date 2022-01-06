@@ -3,7 +3,11 @@
   "handle": "LUIZ-CARLOS-GARCIA",
   "description": "Luiz Carlos Garcia \u0026 Garcia LTDA - ME",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "170.84.4.0/22"
+    ],
+    "ipv6": [
+      "2804:7554::/32"
+    ]
   }
 }

@@ -3,7 +3,10 @@
   "handle": "TSP",
   "description": "Technosphere Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.150.180.0/23",
+      "193.108.44.0/23"
+    ],
     "ipv6": [
       "2a0d:7ec0::/31"
     ]

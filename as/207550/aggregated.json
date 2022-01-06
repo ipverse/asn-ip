@@ -4,9 +4,6 @@
   "description": "Trond Arne Runde",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2a0e:b107:ee0::/44",
-      "2a10:2f00:111::/48"
-    ]
+    "ipv6": []
   }
 }

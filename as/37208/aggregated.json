@@ -4,7 +4,8 @@
   "description": "Afcom (SL) Limited",
   "subnets": {
     "ipv4": [
-      "41.78.84.0/22"
+      "41.78.84.0/23",
+      "41.78.87.0/24"
     ],
     "ipv6": []
   }

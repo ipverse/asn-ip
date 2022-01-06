@@ -1,0 +1,11 @@
+{
+  "asn": 149418,
+  "handle": "MSMONLINE-AP",
+  "description": "MSM Online",
+  "subnets": {
+    "ipv4": [
+      "103.179.14.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asn": 14445,
+  "handle": "PEACEWEB",
+  "description": "PeaceWeb",
+  "subnets": {
+    "ipv4": [
+      "23.170.241.0/24"
+    ],
+    "ipv6": []
+  }
+}

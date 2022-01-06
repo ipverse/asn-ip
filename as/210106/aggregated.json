@@ -1,0 +1,12 @@
+{
+  "asn": 210106,
+  "handle": "OHOST",
+  "description": "OHOST LLC",
+  "subnets": {
+    "ipv4": [
+      "45.144.155.0/24",
+      "93.123.16.0/24"
+    ],
+    "ipv6": []
+  }
+}

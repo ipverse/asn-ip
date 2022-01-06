@@ -4,7 +4,8 @@
   "description": "FUENSALIDA SERGIO ANDRES(INTERFLASH)",
   "subnets": {
     "ipv4": [
-      "45.232.0.0/22"
+      "45.232.1.0/24",
+      "45.232.2.0/23"
     ],
     "ipv6": []
   }

@@ -3,7 +3,10 @@
   "handle": "NIMT-AP",
   "description": "National Institute of Metrology (Thailand)",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "83.118.48.0/24",
+      "103.150.106.0/24"
+    ],
     "ipv6": []
   }
 }

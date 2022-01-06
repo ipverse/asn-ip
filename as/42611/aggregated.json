@@ -1,0 +1,11 @@
+{
+  "asn": 42611,
+  "handle": "ZZOOMM",
+  "description": "Zzoomm plc",
+  "subnets": {
+    "ipv4": [
+      "149.102.32.0/19"
+    ],
+    "ipv6": []
+  }
+}

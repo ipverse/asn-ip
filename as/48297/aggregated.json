@@ -3,12 +3,7 @@
   "handle": "DOORHAN",
   "description": "LLC Avtomaticheskie vorota - 2000",
   "subnets": {
-    "ipv4": [
-      "91.209.94.0/24",
-      "91.227.195.0/24"
-    ],
-    "ipv6": [
-      "2001:67c:1304::/48"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

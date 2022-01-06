@@ -4,8 +4,7 @@
   "description": "METROFLEX TELECOMUNICACOES LTDA",
   "subnets": {
     "ipv4": [
-      "186.216.0.0/18",
-      "187.62.224.0/19"
+      "187.62.255.0/24"
     ],
     "ipv6": []
   }

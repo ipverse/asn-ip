@@ -4,7 +4,8 @@
   "description": "Blue Diamond Network Co., Ltd.",
   "subnets": {
     "ipv4": [
-      "5.34.204.0/24"
+      "5.34.204.0/24",
+      "5.34.206.0/24"
     ],
     "ipv6": []
   }
