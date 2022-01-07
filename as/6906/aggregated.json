@@ -3,7 +3,9 @@
   "handle": "GEANT-APOLLO",
   "description": "SIA Tet",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "81.198.174.0/24"
+    ],
     "ipv6": []
   }
 }

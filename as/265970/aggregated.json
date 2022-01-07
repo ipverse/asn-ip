@@ -1,11 +1,10 @@
 {
   "asn": 265970,
-  "handle": "CAMPONET-TELECOM",
-  "description": "CampoNet Telecom",
+  "handle": "CB-MACEDO-PROVEDOR",
+  "description": "C.B. MACEDO PROVEDOR DE INTERNET",
   "subnets": {
     "ipv4": [
-      "164.163.192.0/22",
-      "179.49.179.0/24"
+      "164.163.192.0/22"
     ],
     "ipv6": [
       "2804:409c::/32",

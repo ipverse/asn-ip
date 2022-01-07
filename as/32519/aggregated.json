@@ -1,0 +1,11 @@
+{
+  "asn": 32519,
+  "handle": "DMITI-SERVICES",
+  "description": "DMIT Cloud Services",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2605:52c0:4000::/48"
+    ]
+  }
+}

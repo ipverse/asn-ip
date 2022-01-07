@@ -3,9 +3,7 @@
   "handle": "ANDREWCORP-NOVA",
   "description": "Andrew Corp.",
   "subnets": {
-    "ipv4": [
-      "198.135.210.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

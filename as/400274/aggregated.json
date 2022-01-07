@@ -1,0 +1,11 @@
+{
+  "asn": 400274,
+  "handle": "CONTEXTLOGIC",
+  "description": "Wish",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2602:80d:2000::/47"
+    ]
+  }
+}

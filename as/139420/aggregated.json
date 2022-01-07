@@ -1,0 +1,11 @@
+{
+  "asn": 139420,
+  "handle": "IDNIC-ATS-ID",
+  "description": "PT. Alif Teknologi Sinergi",
+  "subnets": {
+    "ipv4": [
+      "103.144.16.0/23"
+    ],
+    "ipv6": []
+  }
+}

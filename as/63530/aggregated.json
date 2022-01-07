@@ -3,10 +3,7 @@
   "handle": "GHSXGENET",
   "description": "Beijing Guanghuan newsletter network communication technology limited liability company",
   "subnets": {
-    "ipv4": [
-      "103.207.184.0/23",
-      "103.207.186.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

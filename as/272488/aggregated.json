@@ -3,9 +3,7 @@
   "handle": "NET-WIL",
   "description": "NET WIL",
   "subnets": {
-    "ipv4": [
-      "45.224.70.0/24"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2804:81f4::/32"
     ]
