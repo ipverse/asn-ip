@@ -1,0 +1,12 @@
+{
+  "asn": 400268,
+  "handle": "SWIFTCURRENT-CONNECT",
+  "description": "Pierce Pepin Cooperative Services",
+  "subnets": {
+    "ipv4": [
+      "140.106.32.0/22",
+      "140.106.36.0/23"
+    ],
+    "ipv6": []
+  }
+}

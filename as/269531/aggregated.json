@@ -4,7 +4,8 @@
   "description": "Gildemberg de Souza Andrade Acesso a Internet EPP",
   "subnets": {
     "ipv4": [
-      "45.188.44.0/22"
+      "45.188.44.0/24",
+      "45.188.46.0/23"
     ],
     "ipv6": [
       "2804:6610::/32"

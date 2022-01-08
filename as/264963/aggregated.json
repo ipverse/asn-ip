@@ -3,7 +3,11 @@
   "handle": "CONECTALINK-TELECOMUNICACOES",
   "description": "ConectaLink Telecomunicacoes",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "170.0.68.0/22"
+    ],
+    "ipv6": [
+      "2804:3098::/32"
+    ]
   }
 }

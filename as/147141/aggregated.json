@@ -1,0 +1,11 @@
+{
+  "asn": 147141,
+  "handle": "IDNIC-MITRAINET-ID",
+  "description": "PT Mitra Internet Indonesia",
+  "subnets": {
+    "ipv4": [
+      "103.176.94.0/24"
+    ],
+    "ipv6": []
+  }
+}

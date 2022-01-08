@@ -3,7 +3,9 @@
   "handle": "LEDYVANHA-MENESES-ALENCAR",
   "description": "Ledyvanha Meneses Alencar",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "186.209.172.0/22"
+    ],
     "ipv6": [
       "2804:79bc::/32"
     ]

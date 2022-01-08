@@ -4,7 +4,9 @@
   "description": "iPlace Internet \u0026 Network Services GmbH",
   "subnets": {
     "ipv4": [
-      "86.111.32.0/19",
+      "86.111.32.0/20",
+      "86.111.48.0/21",
+      "86.111.56.0/22",
       "213.163.224.0/19"
     ],
     "ipv6": [

@@ -4,7 +4,8 @@
   "description": "EPM Telecomunicaciones S.A. E.S.P.",
   "subnets": {
     "ipv4": [
-      "190.71.0.0/16"
+      "190.71.0.0/16",
+      "200.116.192.0/18"
     ],
     "ipv6": []
   }

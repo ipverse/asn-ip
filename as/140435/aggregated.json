@@ -1,0 +1,11 @@
+{
+  "asn": 140435,
+  "handle": "IDNIC-E-SMART-B-ID",
+  "description": "CV. E-Smart B",
+  "subnets": {
+    "ipv4": [
+      "103.152.45.0/24"
+    ],
+    "ipv6": []
+  }
+}

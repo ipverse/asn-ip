@@ -3,12 +3,7 @@
   "handle": "DLAYER",
   "description": "Digit Layer B.V.",
   "subnets": {
-    "ipv4": [
-      "45.153.10.0/23",
-      "185.170.211.0/24"
-    ],
-    "ipv6": [
-      "2a0a:68c0:ff00::/40"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

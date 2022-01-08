@@ -4,6 +4,8 @@
   "description": "KAIBA ISP TELECOMUNICACOES EIRELI",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2804:7bd8::/32"
+    ]
   }
 }

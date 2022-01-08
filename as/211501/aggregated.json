@@ -3,7 +3,9 @@
   "handle": "HIGHTIDEGROUP",
   "description": "High Tide Group Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.26.238.0/24"
+    ],
     "ipv6": [
       "2001:67c:10d8::/48",
       "2a11:75c0::/29"

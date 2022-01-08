@@ -3,7 +3,9 @@
   "handle": "SERVICO-NACIONAL-DE",
   "description": "SERVIÇO NACIONAL DE APRENDIZAGEM COMERCIAL - SENAC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.229.75.0/24"
+    ],
     "ipv6": []
   }
 }

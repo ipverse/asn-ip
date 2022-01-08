@@ -3,7 +3,9 @@
   "handle": "FNPLM-IN",
   "description": "Fans Networks Private Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.141.168.0/23"
+    ],
     "ipv6": []
   }
 }
