@@ -4,6 +4,7 @@
   "description": "Ambyre LTD",
   "subnets": {
     "ipv4": [
+      "45.61.160.0/24",
       "85.202.160.0/24"
     ],
     "ipv6": [

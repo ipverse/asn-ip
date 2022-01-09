@@ -3,7 +3,9 @@
   "handle": "SITRONICS",
   "description": "JSC SITRONICS Telecom Solutions",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.248.94.0/24"
+    ],
     "ipv6": []
   }
 }

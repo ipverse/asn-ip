@@ -4,6 +4,8 @@
   "description": "Memorial Sloan-Kettering Cancer Center",
   "subnets": {
     "ipv4": [
+      "47.19.115.0/24",
+      "47.19.120.0/24",
       "140.163.0.0/16"
     ],
     "ipv6": []

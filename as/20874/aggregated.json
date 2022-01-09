@@ -3,7 +3,9 @@
   "handle": "INFOSYS",
   "description": "Information Systems Company",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.111.160.0/22"
+    ],
     "ipv6": []
   }
 }

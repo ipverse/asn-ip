@@ -3,7 +3,10 @@
   "handle": "MAHATAA-AP",
   "description": "Mahataa Information India Private Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "27.63.160.0/19",
+      "223.224.198.0/24"
+    ],
     "ipv6": []
   }
 }

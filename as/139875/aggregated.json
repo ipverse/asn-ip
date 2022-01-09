@@ -4,6 +4,7 @@
   "description": "Noakhali Internet Exchange",
   "subnets": {
     "ipv4": [
+      "103.113.193.0/24",
       "103.146.134.0/24"
     ],
     "ipv6": [

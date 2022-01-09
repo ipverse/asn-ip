@@ -3,9 +3,7 @@
   "handle": "NETSAT",
   "description": "Globecomm Network Services Corporation",
   "subnets": {
-    "ipv4": [
-      "64.49.150.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

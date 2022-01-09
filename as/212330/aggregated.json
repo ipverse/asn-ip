@@ -3,7 +3,13 @@
   "handle": "IRAQIXP",
   "description": "Civilisation Information Technology, communication and internet services Co., LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "31.223.185.0/24",
+      "185.16.25.0/24",
+      "185.113.104.0/24",
+      "185.113.106.0/24",
+      "193.3.137.0/24"
+    ],
     "ipv6": []
   }
 }

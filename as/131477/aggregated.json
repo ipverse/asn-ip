@@ -4,6 +4,7 @@
   "description": "Shanghai Huajuan Information Technology Co., Ltd.",
   "subnets": {
     "ipv4": [
+      "45.114.40.0/22",
       "103.116.75.0/24",
       "112.169.175.0/24",
       "124.108.20.0/24",

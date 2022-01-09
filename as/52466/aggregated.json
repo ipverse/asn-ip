@@ -3,7 +3,9 @@
   "handle": "UNIVISA-SA",
   "description": "Univisa S.A.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "181.224.174.0/23"
+    ],
     "ipv6": []
   }
 }

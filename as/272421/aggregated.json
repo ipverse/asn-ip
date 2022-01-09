@@ -3,7 +3,9 @@
   "handle": "POWER-FIBRA-TELECOMUNICACOES",
   "description": "Power Fibra Telecomunicacoes LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.9.50.0/24"
+    ],
     "ipv6": [
       "2804:80ec::/36"
     ]
