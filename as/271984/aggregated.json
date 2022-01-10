@@ -3,9 +3,7 @@
   "handle": "AGENCIA-CONECTIVIDAD-CORDOBA",
   "description": "AGENCIA CONECTIVIDAD CORDOBA SOCIEDAD DEL ESTADO",
   "subnets": {
-    "ipv4": [
-      "181.96.243.0/24"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2803:8110::/32"
     ]

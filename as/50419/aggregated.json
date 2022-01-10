@@ -1,0 +1,13 @@
+{
+  "asn": 50419,
+  "handle": "EXASTACK",
+  "description": "Eye Pea Ltd.",
+  "subnets": {
+    "ipv4": [
+      "109.95.184.0/23"
+    ],
+    "ipv6": [
+      "2001:67c:118::/48"
+    ]
+  }
+}

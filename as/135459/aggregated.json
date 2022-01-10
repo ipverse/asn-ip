@@ -4,10 +4,8 @@
   "description": "PT.GLOBALRIAU DATA SOLUSI",
   "subnets": {
     "ipv4": [
-      "103.68.0.0/22"
+      "103.68.3.0/24"
     ],
-    "ipv6": [
-      "2405:db80::/32"
-    ]
+    "ipv6": []
   }
 }

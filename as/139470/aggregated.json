@@ -3,11 +3,7 @@
   "handle": "ONECHRONOS-AP",
   "description": "OCX GROUP INC.",
   "subnets": {
-    "ipv4": [
-      "103.141.214.0/23"
-    ],
-    "ipv6": [
-      "2405:22c0::/32"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

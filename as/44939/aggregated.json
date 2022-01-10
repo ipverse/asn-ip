@@ -3,7 +3,9 @@
   "handle": "SAILWEB-SRL",
   "description": "SAILWEB SRL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.142.196.0/22"
+    ],
     "ipv6": []
   }
 }

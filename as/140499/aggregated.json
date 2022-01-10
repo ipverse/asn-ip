@@ -3,7 +3,10 @@
   "handle": "KTPL-AP",
   "description": "Khan Telecommunications PVT LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.149.241.0/24",
+      "103.169.64.0/24"
+    ],
     "ipv6": []
   }
 }

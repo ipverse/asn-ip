@@ -1,0 +1,13 @@
+{
+  "asn": 400070,
+  "handle": "HURLL-LABS-NET01",
+  "description": "HahnURL",
+  "subnets": {
+    "ipv4": [
+      "23.189.80.0/23"
+    ],
+    "ipv6": [
+      "2602:80c:9000::/44"
+    ]
+  }
+}
