@@ -4,7 +4,8 @@
   "description": "cinthia cristina da silva",
   "subnets": {
     "ipv4": [
-      "45.172.40.0/22"
+      "45.172.40.0/23",
+      "45.172.42.0/24"
     ],
     "ipv6": [
       "2804:5a1c::/32"

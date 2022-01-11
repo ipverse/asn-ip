@@ -1,0 +1,11 @@
+{
+  "asn": 857,
+  "handle": "GONET-ASN-17",
+  "description": "GONET",
+  "subnets": {
+    "ipv4": [
+      "204.40.224.0/24"
+    ],
+    "ipv6": []
+  }
+}

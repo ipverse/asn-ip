@@ -3,7 +3,9 @@
   "handle": "FIBRACONN-SERVICOS-DE",
   "description": "FIBRACONN SERVIÇOS DE TELECOMUNICACOES LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "201.94.144.0/22"
+    ],
     "ipv6": [
       "2804:7c4c::/32"
     ]

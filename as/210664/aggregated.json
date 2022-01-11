@@ -4,8 +4,6 @@
   "description": "Virtua-Networks SARL",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2a05:4b40::/32"
-    ]
+    "ipv6": []
   }
 }

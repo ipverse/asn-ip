@@ -3,7 +3,9 @@
   "handle": "VIANET-INFORMATICA",
   "description": "VIANET INFORMATICA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.188.204.0/23"
+    ],
     "ipv6": [
       "2804:661c::/32"
     ]

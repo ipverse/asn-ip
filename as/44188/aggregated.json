@@ -3,7 +3,9 @@
   "handle": "PASTORINI",
   "description": "Pastorini Teledistribucion S.L.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.165.4.0/22"
+    ],
     "ipv6": []
   }
 }

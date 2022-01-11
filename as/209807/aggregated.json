@@ -3,7 +3,9 @@
   "handle": "BIPGROUP",
   "description": "BIP GROUP S A",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "109.232.240.0/24"
+    ],
     "ipv6": []
   }
 }

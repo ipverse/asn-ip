@@ -4,10 +4,6 @@
   "description": "Tsung-Yi Yu, Sole Proprietorship",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2602:fc23:100::/44",
-      "2602:feda:cb0::/48",
-      "2a0f:607:1002::/48"
-    ]
+    "ipv6": []
   }
 }

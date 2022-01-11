@@ -4,11 +4,8 @@
   "description": "CAIOBA FIBRA COMUNICAÇÕES LTDA",
   "subnets": {
     "ipv4": [
-      "45.4.236.0/22",
       "45.160.108.0/22"
     ],
-    "ipv6": [
-      "2804:39e8::/32"
-    ]
+    "ipv6": []
   }
 }

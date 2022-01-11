@@ -3,10 +3,7 @@
   "handle": "SNAUTO",
   "description": "Sonic Automotive, Inc.",
   "subnets": {
-    "ipv4": [
-      "65.221.6.0/24",
-      "209.198.207.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

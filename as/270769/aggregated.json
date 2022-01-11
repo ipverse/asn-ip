@@ -3,7 +3,9 @@
   "handle": "T-DE-OLIVEIRA-FARIAS",
   "description": "T DE OLIVEIRA FARIAS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "190.8.24.0/22"
+    ],
     "ipv6": []
   }
 }

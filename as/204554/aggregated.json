@@ -3,7 +3,10 @@
   "handle": "BG-PRESTIGE-AB",
   "description": "PRESTIGE-AB Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "85.187.215.0/24",
+      "151.237.28.0/24"
+    ],
     "ipv6": []
   }
 }
