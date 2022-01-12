@@ -4,6 +4,8 @@
   "description": "JONATAN S COSTA COMUNICACAO MULTIMIDIA ME",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2804:7d88::/32"
+    ]
   }
 }

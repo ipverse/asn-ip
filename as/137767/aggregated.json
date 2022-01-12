@@ -3,9 +3,7 @@
   "handle": "SGMNET",
   "description": "Shanghai General Motor Corporation Limited",
   "subnets": {
-    "ipv4": [
-      "210.75.88.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

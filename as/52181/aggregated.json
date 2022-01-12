@@ -3,9 +3,7 @@
   "handle": "ALPHA-TELECOM",
   "description": "Alpha Telecom SRL",
   "subnets": {
-    "ipv4": [
-      "85.120.43.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

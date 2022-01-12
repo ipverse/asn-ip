@@ -4,7 +4,8 @@
   "description": "Choptank Fiber, LLC.",
   "subnets": {
     "ipv4": [
-      "38.134.123.0/24"
+      "38.134.123.0/24",
+      "45.150.58.0/24"
     ],
     "ipv6": []
   }

@@ -4,8 +4,6 @@
   "description": "Sky Kalak Net for Communication Services LTD",
   "subnets": {
     "ipv4": [
-      "185.253.77.0/24",
-      "185.253.78.0/24",
       "193.56.135.0/24"
     ],
     "ipv6": []

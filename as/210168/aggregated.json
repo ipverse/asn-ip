@@ -3,7 +3,9 @@
   "handle": "GWB-NET",
   "description": "Christian Tramnitz",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "5.1.127.0/24"
+    ],
     "ipv6": [
       "2a02:e747::/48"
     ]

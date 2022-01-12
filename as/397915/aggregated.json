@@ -3,7 +3,9 @@
   "handle": "CASTWAY",
   "description": "CASTWAY-CDN, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "208.88.245.0/24"
+    ],
     "ipv6": []
   }
 }

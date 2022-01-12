@@ -3,7 +3,9 @@
   "handle": "VIMAR-SERVICIOS-CA",
   "description": "VIMAR SERVICIOS C.A. (GLOBAL REDEX)",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "200.33.206.0/24"
+    ],
     "ipv6": []
   }
 }

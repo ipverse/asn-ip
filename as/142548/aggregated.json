@@ -1,0 +1,13 @@
+{
+  "asn": 142548,
+  "handle": "QDCI-AP",
+  "description": "QUANTUM DATA COMMUNICATIONS, INC.",
+  "subnets": {
+    "ipv4": [
+      "45.123.128.0/24",
+      "59.153.136.0/24",
+      "203.99.82.0/24"
+    ],
+    "ipv6": []
+  }
+}

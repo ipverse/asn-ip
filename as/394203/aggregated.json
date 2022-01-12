@@ -3,9 +3,7 @@
   "handle": "FROST-AND-SULLIVAN-AS302",
   "description": "Frost \u0026 Sullivan",
   "subnets": {
-    "ipv4": [
-      "66.162.220.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

@@ -1,0 +1,14 @@
+{
+  "asn": 140350,
+  "handle": "CHINATELECOM-YUNNAN-DALI-5G-NETWORK",
+  "description": "China Telecom",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "240e:44d:5740::/42",
+      "240e:44d:5840::/42",
+      "240e:44d:5940::/42",
+      "240e:44d:5a40::/42"
+    ]
+  }
+}

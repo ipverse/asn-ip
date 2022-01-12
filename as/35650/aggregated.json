@@ -3,7 +3,10 @@
   "handle": "TELNG",
   "description": "TelNG Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.95.155.0/24",
+      "195.95.185.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -1,0 +1,14 @@
+{
+  "asn": 140358,
+  "handle": "CHINATELECOM-YUNNAN-QUJING-5G-NETWORK",
+  "description": "China Telecom",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "240e:44d:e40::/42",
+      "240e:44d:f40::/42",
+      "240e:44d:1040::/42",
+      "240e:44d:1140::/42"
+    ]
+  }
+}

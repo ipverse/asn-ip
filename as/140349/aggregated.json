@@ -1,0 +1,14 @@
+{
+  "asn": 140349,
+  "handle": "CHINATELECOM-YUNNAN-CHUXIONG-5G-NETWORK",
+  "description": "China Telecom",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "240e:44d:2b40::/42",
+      "240e:44d:2c40::/42",
+      "240e:44d:2d40::/42",
+      "240e:44d:2e40::/42"
+    ]
+  }
+}

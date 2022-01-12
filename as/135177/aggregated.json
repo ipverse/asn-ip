@@ -3,7 +3,9 @@
   "handle": "SGCI-IN",
   "description": "Sgci Private Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.141.216.0/23"
+    ],
     "ipv6": []
   }
 }
