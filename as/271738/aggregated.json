@@ -3,7 +3,9 @@
   "handle": "JP-SPEEDYNET-SERVICOS",
   "description": "Jp Speedynet Servicos de Comunicacao LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "138.204.45.0/24"
+    ],
     "ipv6": [
       "2804:803c::/32"
     ]

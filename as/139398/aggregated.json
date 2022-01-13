@@ -4,7 +4,7 @@
   "description": "PT. Pusat Informasi Kredit",
   "subnets": {
     "ipv4": [
-      "144.48.12.0/22"
+      "144.48.12.0/23"
     ],
     "ipv6": [
       "2001:df0:ed00::/48"

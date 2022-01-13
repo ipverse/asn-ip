@@ -3,7 +3,9 @@
   "handle": "KIAN",
   "description": "Kian Iranian Smart Technologies Development Group (PJS)",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.254.166.0/24"
+    ],
     "ipv6": []
   }
 }

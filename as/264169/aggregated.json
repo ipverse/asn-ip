@@ -4,8 +4,7 @@
   "description": "WSP PROGRESSO E SERV DE TELECOMUNICACAO LTDA - ME",
   "subnets": {
     "ipv4": [
-      "138.94.201.0/24",
-      "138.94.202.0/23"
+      "138.94.200.0/22"
     ],
     "ipv6": [
       "2804:238c::/35"

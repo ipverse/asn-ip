@@ -4,10 +4,6 @@
   "description": "Hung Yun Tseng",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2602:feda:c70::/44",
-      "2a0e:8f02:f011::/48",
-      "2a0e:b107:1330::/44"
-    ]
+    "ipv6": []
   }
 }

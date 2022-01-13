@@ -1,10 +1,10 @@
 {
   "asn": 132376,
-  "handle": "RESERVED",
-  "description": "APNIC ASN block",
+  "handle": "BASKETASIA-AP",
+  "description": "Basketasia Sdn. Bhd.",
   "subnets": {
     "ipv4": [
-      "103.15.136.0/23",
+      "103.15.137.0/24",
       "103.15.139.0/24"
     ],
     "ipv6": []

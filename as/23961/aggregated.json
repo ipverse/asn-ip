@@ -4,8 +4,6 @@
   "description": "Cat Networks Hong Kong Limited",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2403:5180::/48"
-    ]
+    "ipv6": []
   }
 }

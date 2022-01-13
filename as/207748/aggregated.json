@@ -4,9 +4,6 @@
   "description": "Stephen Fraser",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2001:67c:2f68::/48",
-      "2a06:e881:7100::/46"
-    ]
+    "ipv6": []
   }
 }

@@ -1,0 +1,12 @@
+{
+  "asn": 210658,
+  "handle": "TEKNOBILTELEKOM",
+  "description": "TEKNOBIL TELEKOM INTERNET BILISIM VE ILETISIM HIZMETLERI Ltd. Sti.",
+  "subnets": {
+    "ipv4": [
+      "5.181.16.0/24",
+      "185.169.183.0/24"
+    ],
+    "ipv6": []
+  }
+}

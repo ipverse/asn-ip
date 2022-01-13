@@ -3,11 +3,7 @@
   "handle": "M174-AP",
   "description": "174.net.nz Limited",
   "subnets": {
-    "ipv4": [
-      "103.106.66.0/23"
-    ],
-    "ipv6": [
-      "2402:3e40::/32"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

@@ -4,7 +4,6 @@
   "description": "Altavox SASU",
   "subnets": {
     "ipv4": [
-      "95.178.88.0/22",
       "185.88.9.0/24"
     ],
     "ipv6": [

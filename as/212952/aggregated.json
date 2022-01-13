@@ -3,7 +3,9 @@
   "handle": "SPADEMAN-LUKE",
   "description": "Spademan Luke",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "44.31.58.0/24"
+    ],
     "ipv6": [
       "2a0c:b641:5d0::/48",
       "2a0c:b641:5d2::/48"
