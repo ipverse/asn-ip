@@ -4,6 +4,7 @@
   "description": "SMART-NETWORK SRL",
   "subnets": {
     "ipv4": [
+      "178.175.191.0/24",
       "185.173.146.0/23"
     ],
     "ipv6": [

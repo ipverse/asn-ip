@@ -3,7 +3,9 @@
   "handle": "TRIBUNAL-REGIONAL-DO",
   "description": "TRIBUNAL REGIONAL DO TRABALHO-14a.REGIÃO",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "200.33.83.0/24"
+    ],
     "ipv6": []
   }
 }

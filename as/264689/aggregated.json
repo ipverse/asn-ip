@@ -4,7 +4,8 @@
   "description": "Luciano Gabriel Chersanaz (Ubnet Datacenter)",
   "subnets": {
     "ipv4": [
-      "168.228.140.0/22"
+      "168.228.140.0/24",
+      "168.228.142.0/24"
     ],
     "ipv6": []
   }

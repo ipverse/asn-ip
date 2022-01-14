@@ -3,7 +3,9 @@
   "handle": "ELECOM-NT",
   "description": "Kiberlinks LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.168.226.0/24"
+    ],
     "ipv6": []
   }
 }

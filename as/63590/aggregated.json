@@ -1,0 +1,12 @@
+{
+  "asn": 63590,
+  "handle": "HEBBTN",
+  "description": "Hebei Broadcasting\u0026TV Network",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2400:7100::/32",
+      "2401:d40::/32"
+    ]
+  }
+}

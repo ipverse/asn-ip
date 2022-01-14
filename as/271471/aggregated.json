@@ -3,7 +3,9 @@
   "handle": "BIT-CENTER-INFORMATICA-EIRELI",
   "description": "BIT CENTER INFORMATICA EIRELI",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "181.233.28.0/22"
+    ],
     "ipv6": [
       "2804:7c08::/32"
     ]

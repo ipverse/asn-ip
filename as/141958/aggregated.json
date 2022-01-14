@@ -1,0 +1,11 @@
+{
+  "asn": 141958,
+  "handle": "IDNIC-KEMENPORA-ID",
+  "description": "Kementerian Pemuda dan Olahraga",
+  "subnets": {
+    "ipv4": [
+      "103.166.224.0/24"
+    ],
+    "ipv6": []
+  }
+}

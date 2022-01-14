@@ -3,7 +3,9 @@
   "handle": "IDNIC-RELABS-ID",
   "description": "PT Relabs Net Daya Cipta",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.170.31.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "RESERVED",
   "description": "RIPE NCC ASN block",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.150.188.0/22"
+    ],
     "ipv6": []
   }
 }

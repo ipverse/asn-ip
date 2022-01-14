@@ -3,9 +3,7 @@
   "handle": "SCION-BACKBONE",
   "description": "Princeton University",
   "subnets": {
-    "ipv4": [
-      "66.180.191.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

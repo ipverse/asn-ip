@@ -3,9 +3,7 @@
   "handle": "MALEK",
   "description": "DataShift Holdings Limited",
   "subnets": {
-    "ipv4": [
-      "91.231.182.0/24"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2a0e:ec00::/32"
     ]
