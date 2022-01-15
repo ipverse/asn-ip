@@ -3,7 +3,9 @@
   "handle": "ONLINK-TELECOM-LTDA",
   "description": "ONLINK TELECOM LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "170.245.4.0/22"
+    ],
     "ipv6": []
   }
 }

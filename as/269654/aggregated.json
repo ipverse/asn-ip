@@ -4,10 +4,8 @@
   "description": "J\u0026J Net Telecomunicações LTDA",
   "subnets": {
     "ipv4": [
-      "45.190.232.0/22"
+      "45.190.235.0/24"
     ],
-    "ipv6": [
-      "2804:67d8::/32"
-    ]
+    "ipv6": []
   }
 }

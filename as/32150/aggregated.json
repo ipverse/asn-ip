@@ -3,11 +3,7 @@
   "handle": "BRADFITZ-DANGA",
   "description": "DANGA INTERACTIVE",
   "subnets": {
-    "ipv4": [
-      "198.49.126.0/24"
-    ],
-    "ipv6": [
-      "2602:fbef:36::/48"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

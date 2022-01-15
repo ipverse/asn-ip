@@ -4,8 +4,7 @@
   "description": "Bose Corporation",
   "subnets": {
     "ipv4": [
-      "139.68.80.0/21",
-      "139.68.146.0/24"
+      "139.68.80.0/21"
     ],
     "ipv6": []
   }

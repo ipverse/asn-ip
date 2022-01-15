@@ -1,0 +1,13 @@
+{
+  "asn": 270532,
+  "handle": "CONECTA-SSA",
+  "description": "CONECTA SSA",
+  "subnets": {
+    "ipv4": [
+      "187.49.148.0/23"
+    ],
+    "ipv6": [
+      "2804:6d6c::/33"
+    ]
+  }
+}

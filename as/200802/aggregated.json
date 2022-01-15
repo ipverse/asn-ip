@@ -3,7 +3,10 @@
   "handle": "PSVS",
   "description": "Prime-Service LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.95.104.0/23",
+      "185.95.106.0/24"
+    ],
     "ipv6": []
   }
 }

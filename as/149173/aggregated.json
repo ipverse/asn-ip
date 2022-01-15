@@ -3,7 +3,9 @@
   "handle": "HBISC-AP",
   "description": "Hindukush Bridge ICT Services Company",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.177.206.0/23"
+    ],
     "ipv6": []
   }
 }

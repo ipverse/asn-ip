@@ -3,9 +3,7 @@
   "handle": "ORANGE2-AP",
   "description": "Orange Communication",
   "subnets": {
-    "ipv4": [
-      "103.109.94.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

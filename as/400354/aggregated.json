@@ -1,0 +1,11 @@
+{
+  "asn": 400354,
+  "handle": "DC-IPCC1-AJ",
+  "description": "ALPHANET CORP",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2606:a240::/32"
+    ]
+  }
+}
