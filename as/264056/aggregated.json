@@ -3,7 +3,9 @@
   "handle": "ULIVIERI-TELECOM",
   "description": "ULIVIERI TELECOM",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "143.202.36.0/22"
+    ],
     "ipv6": []
   }
 }

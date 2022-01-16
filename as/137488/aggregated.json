@@ -4,7 +4,8 @@
   "description": "IceWarp Technologies Pvt. Ltd.",
   "subnets": {
     "ipv4": [
-      "103.161.42.0/23"
+      "103.161.42.0/23",
+      "185.119.219.0/24"
     ],
     "ipv6": []
   }

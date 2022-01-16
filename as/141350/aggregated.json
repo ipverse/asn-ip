@@ -3,9 +3,7 @@
   "handle": "ICTBS-KH-AP",
   "description": "ICTBS CO., LTD.",
   "subnets": {
-    "ipv4": [
-      "103.157.101.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

@@ -4,6 +4,7 @@
   "description": "Badan Riset dan Inovasi Nasional",
   "subnets": {
     "ipv4": [
+      "103.144.45.0/24",
       "103.178.218.0/24"
     ],
     "ipv6": []

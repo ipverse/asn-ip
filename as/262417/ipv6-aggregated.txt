@@ -1,4 +1,8 @@
 # AS262417 (ULTRATELECOM-PROVEDORA-DE)
 # UltraTelecom Provedora de Internet
 #
-2804:e24::/32
+2804:e24::/48
+2804:e24:fe00::/42
+2804:e24:fe80::/42
+2804:e24:fff0::/48
+2804:e24:fffa::/48

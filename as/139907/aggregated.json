@@ -3,7 +3,9 @@
   "handle": "PARSA-AP",
   "description": "PARSA TELECOMMUNICATION PVT. LTD.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.146.218.0/23"
+    ],
     "ipv6": []
   }
 }

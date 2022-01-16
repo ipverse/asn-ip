@@ -4,7 +4,8 @@
   "description": "francisco alipio secundino andrade",
   "subnets": {
     "ipv4": [
-      "45.172.72.0/23"
+      "45.172.72.0/23",
+      "45.172.75.0/24"
     ],
     "ipv6": []
   }

@@ -3,7 +3,9 @@
   "handle": "RONALDO-RICARDO-DOS-SANTOS-ME",
   "description": "RONALDO RICARDO DOS SANTOS ME",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "201.182.60.0/22"
+    ],
     "ipv6": []
   }
 }

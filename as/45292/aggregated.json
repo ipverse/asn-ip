@@ -4,7 +4,6 @@
   "description": "Lembaga Ilmu Pengetahuan Indonesia - LIPI",
   "subnets": {
     "ipv4": [
-      "103.144.45.0/24",
       "203.160.128.0/24"
     ],
     "ipv6": [

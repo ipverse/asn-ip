@@ -3,9 +3,7 @@
   "handle": "IX-NET",
   "description": "Shanghai Yuantong Technologies Co., Ltd",
   "subnets": {
-    "ipv4": [
-      "103.114.28.0/22"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }
