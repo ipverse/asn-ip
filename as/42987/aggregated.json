@@ -3,9 +3,7 @@
   "handle": "VM-LGFL",
   "description": "Virgin Media Limited",
   "subnets": {
-    "ipv4": [
-      "91.236.56.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

@@ -4,7 +4,8 @@
   "description": "JC2000 Telecomunicações Ltda",
   "subnets": {
     "ipv4": [
-      "170.245.76.0/22"
+      "170.245.76.0/23",
+      "170.245.78.0/24"
     ],
     "ipv6": []
   }

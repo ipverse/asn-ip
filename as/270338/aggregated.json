@@ -3,7 +3,9 @@
   "handle": "SOL-TELECOM-LTDA",
   "description": "SOL TELECOM LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "190.112.132.0/22"
+    ],
     "ipv6": []
   }
 }

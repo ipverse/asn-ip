@@ -4,7 +4,8 @@
   "description": "Apple Communication Ltd.",
   "subnets": {
     "ipv4": [
-      "103.85.236.0/22"
+      "103.85.236.0/23",
+      "103.85.239.0/24"
     ],
     "ipv6": [
       "2400:b340::/32"

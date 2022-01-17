@@ -3,7 +3,9 @@
   "handle": "DANIEL-MARECHAL",
   "description": "DANIEL MARECHAL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.228.76.0/22"
+    ],
     "ipv6": []
   }
 }

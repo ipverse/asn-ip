@@ -3,10 +3,7 @@
   "handle": "TOMNET",
   "description": "TOM-NET Tomasz Chmielewski",
   "subnets": {
-    "ipv4": [
-      "46.21.217.0/24",
-      "46.21.218.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

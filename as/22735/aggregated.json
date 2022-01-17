@@ -3,7 +3,9 @@
   "handle": "GOVT-NAMIBIA",
   "description": "Government of the Republic of Namibia",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "154.0.192.0/18"
+    ],
     "ipv6": []
   }
 }

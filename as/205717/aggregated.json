@@ -4,7 +4,8 @@
   "description": "National Cash Desk LLC",
   "subnets": {
     "ipv4": [
-      "78.140.236.0/22"
+      "78.140.236.0/23",
+      "78.140.239.0/24"
     ],
     "ipv6": []
   }

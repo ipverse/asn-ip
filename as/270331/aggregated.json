@@ -4,10 +4,9 @@
   "description": "Maceio Telecom Tecnologia Eirelli",
   "subnets": {
     "ipv4": [
-      "190.89.0.0/22"
+      "190.89.1.0/24",
+      "190.89.2.0/23"
     ],
-    "ipv6": [
-      "2804:6a5c:8000::/40"
-    ]
+    "ipv6": []
   }
 }

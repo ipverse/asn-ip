@@ -4,7 +4,8 @@
   "description": "DART INDUSTRIES INC.",
   "subnets": {
     "ipv4": [
-      "97.71.151.0/24"
+      "97.71.151.0/24",
+      "159.234.0.0/16"
     ],
     "ipv6": []
   }

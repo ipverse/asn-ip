@@ -3,7 +3,9 @@
   "handle": "MVI-TELECOM-LTDA-ME",
   "description": "MVi TELECOM LTDA ME",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "181.233.72.0/22"
+    ],
     "ipv6": [
       "2804:7b78::/32"
     ]
