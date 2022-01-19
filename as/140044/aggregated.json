@@ -1,0 +1,11 @@
+{
+  "asn": 140044,
+  "handle": "BASEIT-AP",
+  "description": "Base IT",
+  "subnets": {
+    "ipv4": [
+      "103.179.154.0/24"
+    ],
+    "ipv6": []
+  }
+}

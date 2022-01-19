@@ -3,7 +3,9 @@
   "handle": "DC-IPCC1-AJ",
   "description": "ALPHANET CORP",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "154.219.4.0/24"
+    ],
     "ipv6": [
       "2606:a240::/32"
     ]

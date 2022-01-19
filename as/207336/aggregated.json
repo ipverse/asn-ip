@@ -3,9 +3,7 @@
   "handle": "LUIS-SAMARA",
   "description": "Luis+ Samara Ltd.",
   "subnets": {
-    "ipv4": [
-      "31.148.97.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

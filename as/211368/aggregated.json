@@ -3,11 +3,7 @@
   "handle": "WEB1",
   "description": "Web1 Oy",
   "subnets": {
-    "ipv4": [
-      "193.163.5.0/24"
-    ],
-    "ipv6": [
-      "2a10:f2c0::/29"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

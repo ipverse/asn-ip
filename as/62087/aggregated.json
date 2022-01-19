@@ -4,7 +4,7 @@
   "description": "Host Europe GmbH",
   "subnets": {
     "ipv4": [
-      "64.96.192.0/19"
+      "64.96.208.0/20"
     ],
     "ipv6": [
       "2a01:9760:2::/48"

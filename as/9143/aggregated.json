@@ -1,0 +1,11 @@
+{
+  "asn": 9143,
+  "handle": "ZIGGO",
+  "description": "Ziggo B.V.",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2001:67c:1b9c::/48"
+    ]
+  }
+}

@@ -3,7 +3,9 @@
   "handle": "FACILITUDE-SERVICOS-DE",
   "description": "FACILITUDE SERVICOS DE COMUNICAO LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "181.189.100.0/22"
+    ],
     "ipv6": [
       "2804:7ae4::/32"
     ]

@@ -4,7 +4,8 @@
   "description": "INTERATIVA TECNOLOGIA, INFORMACAO E COMUNICACAO LT",
   "subnets": {
     "ipv4": [
-      "138.118.40.0/22"
+      "138.118.41.0/24",
+      "138.118.42.0/23"
     ],
     "ipv6": [
       "2804:2514::/32"

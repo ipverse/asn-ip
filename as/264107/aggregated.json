@@ -4,10 +4,9 @@
   "description": "ABC TELECOM - COMUNICACAO EIRELI",
   "subnets": {
     "ipv4": [
-      "138.94.36.0/22"
+      "138.94.37.0/24",
+      "138.94.38.0/23"
     ],
-    "ipv6": [
-      "2804:228c:c000::/48"
-    ]
+    "ipv6": []
   }
 }

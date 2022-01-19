@@ -3,9 +3,7 @@
   "handle": "TIITACSISP-AP",
   "description": "Tiitacs IT and IT Solutions",
   "subnets": {
-    "ipv4": [
-      "103.41.8.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

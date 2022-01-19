@@ -3,7 +3,9 @@
   "handle": "ALGOSPAN",
   "description": "PICO GLOBAL LTD.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "46.255.0.0/21"
+    ],
     "ipv6": []
   }
 }

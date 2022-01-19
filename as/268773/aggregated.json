@@ -3,7 +3,11 @@
   "handle": "LIDER-TELECOMUNICACOES-EIRELI",
   "description": "Lider Telecomunicaçoes Eireli",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "138.99.56.0/22",
+      "168.121.28.0/22",
+      "186.232.73.0/24"
+    ],
     "ipv6": []
   }
 }

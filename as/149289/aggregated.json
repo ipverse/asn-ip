@@ -1,0 +1,11 @@
+{
+  "asn": 149289,
+  "handle": "PLT-AP",
+  "description": "Palash Link Technology",
+  "subnets": {
+    "ipv4": [
+      "103.178.26.0/23"
+    ],
+    "ipv6": []
+  }
+}

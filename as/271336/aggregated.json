@@ -3,7 +3,9 @@
   "handle": "JOSE-PEREIRA-ROMAO",
   "description": "JOSE PEREIRA ROMAO SERVICO E TELECOMUNICACAO",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "177.71.100.0/22"
+    ],
     "ipv6": []
   }
 }

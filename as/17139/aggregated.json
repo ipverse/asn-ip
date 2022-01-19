@@ -4,6 +4,7 @@
   "description": "Corporate Colocation Inc.",
   "subnets": {
     "ipv4": [
+      "8.48.84.0/24",
       "38.17.48.0/21",
       "66.117.0.0/20",
       "66.234.144.0/24",

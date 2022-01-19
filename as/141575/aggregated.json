@@ -3,7 +3,9 @@
   "handle": "BHARATIP-AP-IN",
   "description": "Bharat Digital Network Private Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.160.196.0/24"
+    ],
     "ipv6": []
   }
 }

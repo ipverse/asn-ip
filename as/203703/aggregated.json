@@ -4,7 +4,8 @@
   "description": "GLOBAL WEB GROUP LLC",
   "subnets": {
     "ipv4": [
-      "185.7.144.0/23"
+      "185.7.144.0/23",
+      "185.124.188.0/22"
     ],
     "ipv6": []
   }

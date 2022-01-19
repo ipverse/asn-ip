@@ -3,7 +3,9 @@
   "handle": "NEOS-SG-AP",
   "description": "Neos Asia Pacific Pte Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.228.194.0/23"
+    ],
     "ipv6": []
   }
 }

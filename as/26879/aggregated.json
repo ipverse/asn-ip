@@ -3,7 +3,9 @@
   "handle": "GXT",
   "description": "GX Technology Corp",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "204.27.213.0/24"
+    ],
     "ipv6": []
   }
 }

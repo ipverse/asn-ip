@@ -3,7 +3,9 @@
   "handle": "JABNET",
   "description": "Fitnete Mujaj trading as N.SH J@B - NET",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.254.116.0/23"
+    ],
     "ipv6": []
   }
 }

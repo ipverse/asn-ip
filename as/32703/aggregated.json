@@ -4,6 +4,7 @@
   "description": "Intelligent Fiber Network",
   "subnets": {
     "ipv4": [
+      "23.247.180.0/24",
       "64.184.0.0/17",
       "69.160.192.0/19",
       "104.218.0.0/21",

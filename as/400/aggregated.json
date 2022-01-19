@@ -3,7 +3,9 @@
   "handle": "AFCONC-BLOCK1",
   "description": "Air Force Systems Networking",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "201.131.56.0/22"
+    ],
     "ipv6": []
   }
 }

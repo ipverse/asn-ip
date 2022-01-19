@@ -3,9 +3,7 @@
   "handle": "SCOPESKY-FTTX",
   "description": "ScopeSky for communications, internet and technology services LLC",
   "subnets": {
-    "ipv4": [
-      "85.113.90.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

@@ -1,0 +1,12 @@
+{
+  "asn": 132945,
+  "handle": "GIGABITPORT",
+  "description": "GIGABIT PORT",
+  "subnets": {
+    "ipv4": [
+      "45.65.52.0/22",
+      "103.252.148.0/22"
+    ],
+    "ipv6": []
+  }
+}
