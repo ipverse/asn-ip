@@ -1,9 +1,10 @@
 {
   "asn": 207876,
-  "handle": "NEWWAVE",
+  "handle": "NEWAVE-SET",
   "description": "Roland Delia trading as NEWAVE",
   "subnets": {
     "ipv4": [
+      "185.80.227.0/24",
       "192.109.210.0/24",
       "192.109.217.0/24",
       "192.109.219.0/24",

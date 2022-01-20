@@ -4,6 +4,7 @@
   "description": "Netz Leipzig GmbH",
   "subnets": {
     "ipv4": [
+      "91.208.192.0/24",
       "195.85.222.0/24",
       "212.6.40.0/24"
     ],

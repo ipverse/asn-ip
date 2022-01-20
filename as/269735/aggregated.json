@@ -4,8 +4,7 @@
   "description": "KALU DE COLOMBIA SAS",
   "subnets": {
     "ipv4": [
-      "45.181.188.0/24",
-      "45.181.191.0/24"
+      "45.181.188.0/22"
     ],
     "ipv6": []
   }

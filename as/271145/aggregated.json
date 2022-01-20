@@ -4,6 +4,7 @@
   "description": "SPE PIAUI CONECTADO S/A",
   "subnets": {
     "ipv4": [
+      "170.150.244.0/24",
       "201.71.216.0/22"
     ],
     "ipv6": [

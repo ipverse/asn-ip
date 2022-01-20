@@ -4,6 +4,7 @@
   "description": "Zadara Storage, Inc.",
   "subnets": {
     "ipv4": [
+      "38.100.28.0/24",
       "154.50.199.0/24"
     ],
     "ipv6": []

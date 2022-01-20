@@ -3,7 +3,9 @@
   "handle": "KALIANET-PUBLIC-AP",
   "description": "Tonga Communications Corporation",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.239.160.0/24"
+    ],
     "ipv6": []
   }
 }

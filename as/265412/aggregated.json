@@ -3,7 +3,11 @@
   "handle": "SMANET-INFORMATICA-EIRELI-ME",
   "description": "SMANET INFORMÁTICA EIRELI ME",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "168.194.220.0/22"
+    ],
+    "ipv6": [
+      "2804:33b4::/32"
+    ]
   }
 }

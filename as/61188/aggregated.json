@@ -3,7 +3,9 @@
   "handle": "HOTWIRE",
   "description": "Hotwire",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.213.47.0/24"
+    ],
     "ipv6": []
   }
 }

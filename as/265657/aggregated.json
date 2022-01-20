@@ -4,7 +4,8 @@
   "description": "SERVICABLE CIA. LTDA.",
   "subnets": {
     "ipv4": [
-      "170.246.84.0/22"
+      "170.246.84.0/23",
+      "170.246.86.0/24"
     ],
     "ipv6": []
   }

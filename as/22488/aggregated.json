@@ -3,11 +3,7 @@
   "handle": "CENGAGE-NYALB",
   "description": "Cengage Learning Inc",
   "subnets": {
-    "ipv4": [
-      "69.32.170.0/24",
-      "69.32.175.0/24",
-      "140.244.0.0/16"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

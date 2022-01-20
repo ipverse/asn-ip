@@ -3,7 +3,9 @@
   "handle": "VOIPANDIS",
   "description": "Voip and Internet Services ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.67.23.0/24"
+    ],
     "ipv6": []
   }
 }

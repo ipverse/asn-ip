@@ -3,7 +3,9 @@
   "handle": "SAC",
   "description": "BLUE DIAMOND GROWERS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "205.173.77.0/24"
+    ],
     "ipv6": []
   }
 }

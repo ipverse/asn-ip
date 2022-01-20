@@ -3,7 +3,9 @@
   "handle": "SYSTEMNET-NO",
   "description": "Henning Solberg",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.214.200.0/21"
+    ],
     "ipv6": []
   }
 }

@@ -4,6 +4,7 @@
   "description": "International Telcom, Ltd.",
   "subnets": {
     "ipv4": [
+      "194.169.144.0/21",
       "198.7.112.0/20",
       "202.92.224.0/21"
     ],

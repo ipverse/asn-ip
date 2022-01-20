@@ -4,6 +4,7 @@
   "description": "EDEKA DIGITAL GmbH",
   "subnets": {
     "ipv4": [
+      "193.21.128.0/24",
       "193.21.248.0/21"
     ],
     "ipv6": []

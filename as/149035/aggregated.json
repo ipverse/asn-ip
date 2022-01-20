@@ -1,0 +1,11 @@
+{
+  "asn": 149035,
+  "handle": "QUANTUMBROADBAND-AP",
+  "description": "Quantum Broadband",
+  "subnets": {
+    "ipv4": [
+      "103.177.54.0/23"
+    ],
+    "ipv6": []
+  }
+}
