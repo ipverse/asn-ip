@@ -4,7 +4,8 @@
   "description": "Turotto Bilisim Teknoloji Ltd. Sti.",
   "subnets": {
     "ipv4": [
-      "45.143.98.0/24"
+      "45.143.98.0/24",
+      "193.160.215.0/24"
     ],
     "ipv6": []
   }

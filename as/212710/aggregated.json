@@ -4,7 +4,7 @@
   "description": "TeamViewer Germany GmbH",
   "subnets": {
     "ipv4": [
-      "193.58.100.0/24"
+      "193.58.100.0/23"
     ],
     "ipv6": [
       "2a09:2900::/48"

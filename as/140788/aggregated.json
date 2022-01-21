@@ -3,9 +3,7 @@
   "handle": "CATIEDU-VN",
   "description": "Catiedu Online Training Academy Company Limited",
   "subnets": {
-    "ipv4": [
-      "103.164.36.0/23"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2407:34c0::/48"
     ]

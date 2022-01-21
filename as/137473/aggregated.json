@@ -4,7 +4,7 @@
   "description": "LevelUP Solutions Pty Ltd",
   "subnets": {
     "ipv4": [
-      "103.110.28.0/24"
+      "103.110.28.0/23"
     ],
     "ipv6": [
       "2402:8e40::/32"

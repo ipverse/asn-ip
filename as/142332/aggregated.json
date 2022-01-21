@@ -3,9 +3,7 @@
   "handle": "IDNIC-TELNETINDONESIA-ID",
   "description": "PT Telekomunikasi Internet Indonesia",
   "subnets": {
-    "ipv4": [
-      "103.169.40.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

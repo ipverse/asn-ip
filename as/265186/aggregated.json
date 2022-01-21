@@ -1,10 +1,11 @@
 {
   "asn": 265186,
-  "handle": "POWERNET-SOLUCOES-EM",
-  "description": "Powernet Soluções em Informática Ltda Me",
+  "handle": "POWERNET-SOLUES-EM",
+  "description": "Powernet Solues em Informtica Ltda Me",
   "subnets": {
     "ipv4": [
-      "167.249.136.0/22"
+      "167.249.136.0/23",
+      "167.249.138.0/24"
     ],
     "ipv6": []
   }

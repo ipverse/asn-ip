@@ -1,9 +1,11 @@
 {
   "asn": 267998,
   "handle": "ASA-GROUP-MONITORAMENTO",
-  "description": "ASA GROUP MONITORAMENTO E SERVIÇOS DE TELECOM",
+  "description": "ASA GROUP MONITORAMENTO E SERVIOS DE TELECOM",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.167.96.0/22"
+    ],
     "ipv6": []
   }
 }

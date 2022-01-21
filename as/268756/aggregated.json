@@ -1,12 +1,14 @@
 {
   "asn": 268756,
-  "handle": "HYPERFIBRA-TELECOMUNICACOES-E",
-  "description": "Hyperfibra Telecomunicações e Engenharia LTDA",
+  "handle": "HYPERFIBRA-TELECOMUNICAES-E",
+  "description": "Hyperfibra Telecomunicaes e Engenharia LTDA",
   "subnets": {
     "ipv4": [
       "45.172.80.0/22",
       "191.96.2.0/24"
     ],
-    "ipv6": []
+    "ipv6": [
+      "2804:5a38::/32"
+    ]
   }
 }

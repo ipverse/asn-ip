@@ -1,0 +1,12 @@
+{
+  "asn": 147273,
+  "handle": "MARUTIVV-IN",
+  "description": "Maruti Interactive Network Private Limited",
+  "subnets": {
+    "ipv4": [
+      "103.148.164.0/24",
+      "103.159.201.0/24"
+    ],
+    "ipv6": []
+  }
+}

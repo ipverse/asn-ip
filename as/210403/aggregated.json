@@ -1,0 +1,12 @@
+{
+  "asn": 210403,
+  "handle": "LWS",
+  "description": "Groupe LWS SARL",
+  "subnets": {
+    "ipv4": [
+      "78.138.45.0/24",
+      "78.138.58.0/24"
+    ],
+    "ipv6": []
+  }
+}

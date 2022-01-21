@@ -1,10 +1,10 @@
 {
   "asn": 264171,
-  "handle": "MD-BRASIL-TELECOMUNICACOES",
-  "description": "MD Brasil telecomunicações Ltda EPP",
+  "handle": "MD-BRASIL-TELECOMUNICAES",
+  "description": "MD Brasil telecomunicaes Ltda EPP",
   "subnets": {
     "ipv4": [
-      "138.99.96.0/24"
+      "138.99.96.0/22"
     ],
     "ipv6": []
   }

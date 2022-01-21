@@ -4,7 +4,9 @@
   "description": "Tonga Communications Corporation",
   "subnets": {
     "ipv4": [
-      "103.239.160.0/24"
+      "103.239.160.0/24",
+      "175.176.144.0/22",
+      "202.134.24.0/21"
     ],
     "ipv6": []
   }

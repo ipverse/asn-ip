@@ -1,12 +1,14 @@
 {
   "asn": 52812,
-  "handle": "JOSE-WAGNER-PEDROSA-ROCHA-ME",
-  "description": "JOSÉ WAGNER PEDROSA ROCHA - ME",
+  "handle": "JOS-WAGNER-PEDROSA-ROCHA-ME",
+  "description": "JOS WAGNER PEDROSA ROCHA - ME",
   "subnets": {
     "ipv4": [
       "138.219.68.0/22",
       "177.75.16.0/21"
     ],
-    "ipv6": []
+    "ipv6": [
+      "2804:bb4::/32"
+    ]
   }
 }

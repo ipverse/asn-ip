@@ -1,9 +1,11 @@
 {
   "asn": 271476,
   "handle": "P-H-RODRIGUES",
-  "description": "P H Rodrigues Marques Telecomunicações",
+  "description": "P H Rodrigues Marques Telecomunicaes",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "181.233.128.0/22"
+    ],
     "ipv6": [
       "2804:7c1c::/32"
     ]

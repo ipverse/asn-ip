@@ -4,7 +4,8 @@
   "description": "PT Whiz Digital Berjaya",
   "subnets": {
     "ipv4": [
-      "103.167.236.0/23"
+      "103.167.236.0/23",
+      "103.178.197.0/24"
     ],
     "ipv6": []
   }

@@ -3,7 +3,12 @@
   "handle": "NMICA-01",
   "description": "NMICA, LLC",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "23.169.160.0/24",
+      "198.207.210.0/24"
+    ],
+    "ipv6": [
+      "2602:fe0e::/36"
+    ]
   }
 }

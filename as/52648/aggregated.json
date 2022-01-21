@@ -1,11 +1,13 @@
 {
   "asn": 52648,
-  "handle": "CONSORCIO-CONECTE",
-  "description": "Consórcio Conecte",
+  "handle": "CONSRCIO-CONECTE",
+  "description": "Consrcio Conecte",
   "subnets": {
     "ipv4": [
       "45.190.48.0/22"
     ],
-    "ipv6": []
+    "ipv6": [
+      "2804:6750::/32"
+    ]
   }
 }

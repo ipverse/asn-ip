@@ -1,11 +1,13 @@
 {
   "asn": 265205,
-  "handle": "UNONET-TELECOMUNICACOES-LTDA",
-  "description": "UnoNet Telecomunicações LTDA",
+  "handle": "UNONET-TELECOMUNICAES-LTDA",
+  "description": "UnoNet Telecomunicaes LTDA",
   "subnets": {
     "ipv4": [
-      "167.250.70.0/24"
+      "167.250.68.0/22"
     ],
-    "ipv6": []
+    "ipv6": [
+      "2804:2c3c::/32"
+    ]
   }
 }

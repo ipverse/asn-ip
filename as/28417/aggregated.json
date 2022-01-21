@@ -1,7 +1,7 @@
 {
   "asn": 28417,
-  "handle": "UNIVERSIDAD-AUTONOMA-DE",
-  "description": "Universidad Autónoma de Chiapas",
+  "handle": "UNIVERSIDAD-AUTNOMA-DE",
+  "description": "Universidad Autnoma de Chiapas",
   "subnets": {
     "ipv4": [
       "148.222.11.0/24",
@@ -20,9 +20,7 @@
       "148.222.50.0/24",
       "148.222.60.0/22",
       "148.222.127.0/24",
-      "148.222.140.0/22",
-      "148.222.188.0/22",
-      "148.222.252.0/22"
+      "148.222.128.0/17"
     ],
     "ipv6": []
   }

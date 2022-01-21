@@ -1,11 +1,10 @@
 {
   "asn": 266325,
-  "handle": "SOURCE-CONNECT-TELECOMUNICACOES",
-  "description": "SOURCE CONNECT TELECOMUNICAÇÕES EIRELI ME",
+  "handle": "SOURCE-CONNECT-TELECOMUNICAES",
+  "description": "SOURCE CONNECT TELECOMUNICAES EIRELI ME",
   "subnets": {
     "ipv4": [
-      "170.238.96.0/23",
-      "170.238.98.0/24"
+      "170.238.96.0/23"
     ],
     "ipv6": [
       "2804:3614::/32"

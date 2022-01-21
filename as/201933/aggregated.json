@@ -4,6 +4,7 @@
   "description": "CXS Connected Enterprise",
   "subnets": {
     "ipv4": [
+      "45.90.42.0/24",
       "91.193.116.0/22"
     ],
     "ipv6": [

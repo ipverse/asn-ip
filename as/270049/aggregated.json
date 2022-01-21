@@ -4,6 +4,7 @@
   "description": "MARVICNET CIA LTDA",
   "subnets": {
     "ipv4": [
+      "66.231.78.0/24",
       "131.161.220.0/22"
     ],
     "ipv6": []

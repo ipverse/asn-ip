@@ -1,0 +1,11 @@
+{
+  "asn": 38945,
+  "handle": "OBE-ANYCAST",
+  "description": "Obenetwork AB",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a03:8600:1::/48"
+    ]
+  }
+}
