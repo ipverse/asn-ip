@@ -3,7 +3,9 @@
   "handle": "GDIT-CSRA-01",
   "description": "General Dynamics Information Technology, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "155.95.104.0/23"
+    ],
     "ipv6": []
   }
 }

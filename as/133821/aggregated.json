@@ -1,0 +1,11 @@
+{
+  "asn": 133821,
+  "handle": "IDNIC-MCS-ID",
+  "description": "PT Maxindo Content Solution",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2001:df1:c600::/48"
+    ]
+  }
+}

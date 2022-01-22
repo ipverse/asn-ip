@@ -4,6 +4,7 @@
   "description": "Onur Sonmez trading as Dedifix",
   "subnets": {
     "ipv4": [
+      "45.67.98.0/24",
       "185.227.34.0/24"
     ],
     "ipv6": []

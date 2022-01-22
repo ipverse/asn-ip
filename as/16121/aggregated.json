@@ -3,10 +3,7 @@
   "handle": "ONLINE",
   "description": "RC TEAM SA",
   "subnets": {
-    "ipv4": [
-      "193.226.111.0/24",
-      "194.105.12.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

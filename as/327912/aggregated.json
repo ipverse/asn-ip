@@ -3,7 +3,9 @@
   "handle": "NATIONAL-HEALTH-INSURANCE-FUND",
   "description": "National Health Insurance Fund (NHIF)",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "196.13.105.0/24"
+    ],
     "ipv6": []
   }
 }

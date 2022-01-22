@@ -3,7 +3,10 @@
   "handle": "SNS5326924",
   "description": "Kunal Speednet Solutions Pvt Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.22.140.0/22",
+      "182.50.68.0/22"
+    ],
     "ipv6": []
   }
 }

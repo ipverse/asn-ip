@@ -3,9 +3,7 @@
   "handle": "IDNIC-M2NET-ID",
   "description": "PT Madiun Multimedia",
   "subnets": {
-    "ipv4": [
-      "103.162.220.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

@@ -3,9 +3,7 @@
   "handle": "GOLDENDEAL",
   "description": "Golden Deal S.A.",
   "subnets": {
-    "ipv4": [
-      "194.116.168.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

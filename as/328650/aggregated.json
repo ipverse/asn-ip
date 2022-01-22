@@ -3,7 +3,9 @@
   "handle": "UNIVERSITE-VIRTUELLE-DU-SENEGAL",
   "description": "Universite Virtuelle du Senegal",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "102.36.136.0/22"
+    ],
     "ipv6": []
   }
 }

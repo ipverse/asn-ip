@@ -4,6 +4,8 @@
   "description": "CloudNX",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a05:1083:ada0::/44"
+    ]
   }
 }

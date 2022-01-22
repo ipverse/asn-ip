@@ -3,7 +3,9 @@
   "handle": "TACOMA-PIERCE-COUNTY-HEALTH-DEPARTMENT",
   "description": "Tacoma-Pierce County Health Department",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.103.155.0/24"
+    ],
     "ipv6": []
   }
 }

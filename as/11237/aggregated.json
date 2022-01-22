@@ -4,8 +4,7 @@
   "description": "UNIVERSIDAD EAFIT",
   "subnets": {
     "ipv4": [
-      "200.12.186.0/23",
-      "200.12.188.0/23"
+      "200.12.176.0/20"
     ],
     "ipv6": []
   }

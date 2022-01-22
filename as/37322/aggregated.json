@@ -3,9 +3,7 @@
   "handle": "GVA-CONGO",
   "description": "GVA Congo",
   "subnets": {
-    "ipv4": [
-      "197.255.186.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

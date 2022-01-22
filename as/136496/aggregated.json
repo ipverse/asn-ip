@@ -1,0 +1,13 @@
+{
+  "asn": 136496,
+  "handle": "DPU-AP",
+  "description": "Dhurakij Pundit University",
+  "subnets": {
+    "ipv4": [
+      "103.175.124.0/23"
+    ],
+    "ipv6": [
+      "2001:df7:f580::/48"
+    ]
+  }
+}

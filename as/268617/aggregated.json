@@ -4,7 +4,8 @@
   "description": "G7 Telecom servicos de Internet LTDA.",
   "subnets": {
     "ipv4": [
-      "45.164.132.0/22"
+      "45.164.133.0/24",
+      "45.164.135.0/24"
     ],
     "ipv6": [
       "2804:53f0::/32"

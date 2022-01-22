@@ -3,7 +3,9 @@
   "handle": "KEPLERIN-IN",
   "description": "Kepler Internet Pvt Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.137.248.0/22"
+    ],
     "ipv6": []
   }
 }

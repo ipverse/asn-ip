@@ -3,7 +3,9 @@
   "handle": "CONNECT-MOBILITY",
   "description": "Connect",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "172.99.152.0/22"
+    ],
     "ipv6": []
   }
 }

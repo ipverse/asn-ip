@@ -1,0 +1,11 @@
+{
+  "asn": 30626,
+  "handle": "EAMC-INET",
+  "description": "East Alabama Medical Center",
+  "subnets": {
+    "ipv4": [
+      "198.136.146.0/24"
+    ],
+    "ipv6": []
+  }
+}

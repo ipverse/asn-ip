@@ -4,6 +4,7 @@
   "description": "Oster Communications, Inc.",
   "subnets": {
     "ipv4": [
+      "77.83.240.0/24",
       "204.91.96.0/22",
       "204.92.44.0/22"
     ],

@@ -3,7 +3,9 @@
   "handle": "ERIETIMESPUBLISHING",
   "description": "Times Publishing Company",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "204.80.158.0/24"
+    ],
     "ipv6": []
   }
 }

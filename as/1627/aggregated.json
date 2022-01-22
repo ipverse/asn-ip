@@ -3,7 +3,9 @@
   "handle": "TOWNEBANK",
   "description": "TowneBank",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.30.90.0/24"
+    ],
     "ipv6": []
   }
 }
