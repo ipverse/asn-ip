@@ -3,9 +3,7 @@
   "handle": "PGHOSTING-DRESDEN",
   "description": "Patrick Gaertke",
   "subnets": {
-    "ipv4": [
-      "91.190.240.0/21"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

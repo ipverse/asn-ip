@@ -4,6 +4,7 @@
   "description": "Neterra Ltd.",
   "subnets": {
     "ipv4": [
+      "62.192.168.0/24",
       "94.154.132.0/22"
     ],
     "ipv6": []
