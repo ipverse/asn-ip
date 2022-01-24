@@ -4,10 +4,6 @@
   "description": "Hebei Broadcasting\u0026TV Network",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2400:7100::/32",
-      "2400:fb40::/32",
-      "2401:d40::/32"
-    ]
+    "ipv6": []
   }
 }

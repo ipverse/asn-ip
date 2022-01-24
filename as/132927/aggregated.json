@@ -3,7 +3,9 @@
   "handle": "OISTEL-IN",
   "description": "Oistel Telecom Private Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.76.166.0/23"
+    ],
     "ipv6": []
   }
 }

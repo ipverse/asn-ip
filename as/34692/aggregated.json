@@ -4,6 +4,8 @@
   "description": "Cojan Holdings LTD",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a0b:b86:12::/48"
+    ]
   }
 }

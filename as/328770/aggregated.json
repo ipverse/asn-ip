@@ -3,7 +3,9 @@
   "handle": "SIMBA-MEDIA-GHANA",
   "description": "SIMBA MEDIA GHANA LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "154.65.21.0/24"
+    ],
     "ipv6": []
   }
 }

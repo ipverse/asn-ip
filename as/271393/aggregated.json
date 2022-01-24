@@ -3,7 +3,9 @@
   "handle": "WALTER-ROSITO-JUNIOR-ME",
   "description": "WALTER ROSITO JUNIOR - ME",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "181.189.120.0/22"
+    ],
     "ipv6": [
       "2804:7ad0::/32"
     ]

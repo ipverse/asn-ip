@@ -3,7 +3,9 @@
   "handle": "FASTMEGA",
   "description": "FAST MEGA NETWORKS SARL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.249.104.0/22"
+    ],
     "ipv6": []
   }
 }

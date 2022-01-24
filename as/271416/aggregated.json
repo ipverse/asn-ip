@@ -3,7 +3,9 @@
   "handle": "P-R-MARCHIORETO",
   "description": "P R MARCHIORETO",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "181.189.40.0/22"
+    ],
     "ipv6": [
       "2804:7b30::/32"
     ]

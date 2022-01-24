@@ -3,7 +3,9 @@
   "handle": "QUANTUMBROADBAND-AP",
   "description": "Quantum Broadband",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.177.54.0/23"
+    ],
     "ipv6": []
   }
 }

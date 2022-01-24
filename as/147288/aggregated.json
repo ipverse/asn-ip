@@ -1,0 +1,11 @@
+{
+  "asn": 147288,
+  "handle": "SPIDERNT-IN",
+  "description": "SPIDER NET",
+  "subnets": {
+    "ipv4": [
+      "103.174.132.0/23"
+    ],
+    "ipv6": []
+  }
+}

@@ -4,7 +4,8 @@
   "description": "Startek Australia Pty Ltd",
   "subnets": {
     "ipv4": [
-      "202.180.253.0/24"
+      "202.180.253.0/24",
+      "202.180.255.0/24"
     ],
     "ipv6": []
   }

@@ -3,7 +3,9 @@
   "handle": "WEB-RIVER-TELECOMUNICAES-LTDA",
   "description": "Web River Telecomunicaes Ltda",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.167.172.0/22"
+    ],
     "ipv6": []
   }
 }

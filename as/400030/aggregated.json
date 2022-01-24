@@ -1,0 +1,13 @@
+{
+  "asn": 400030,
+  "handle": "WFCC-MOBY",
+  "description": "Western Fibre Communications Corp.",
+  "subnets": {
+    "ipv4": [
+      "165.140.228.0/22"
+    ],
+    "ipv6": [
+      "2606:8440::/32"
+    ]
+  }
+}
