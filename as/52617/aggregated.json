@@ -4,8 +4,6 @@
   "description": "WF COMERCIO DE SUPRIMENTOS DE INFORMATICA LTDA",
   "subnets": {
     "ipv4": [
-      "45.161.94.0/24",
-      "160.238.166.0/24",
       "177.124.100.0/22"
     ],
     "ipv6": [

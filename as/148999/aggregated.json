@@ -3,7 +3,9 @@
   "handle": "APACEINTERNET-AP",
   "description": "Apace Internet",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.175.242.0/24"
+    ],
     "ipv6": []
   }
 }

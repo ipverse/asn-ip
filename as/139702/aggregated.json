@@ -4,7 +4,7 @@
   "description": "Peu Enterprise",
   "subnets": {
     "ipv4": [
-      "103.162.86.0/23"
+      "103.162.86.0/24"
     ],
     "ipv6": []
   }

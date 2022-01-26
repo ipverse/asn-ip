@@ -4,6 +4,7 @@
   "description": "Asia Pacific Broadband Fixed Lines Co., Ltd.",
   "subnets": {
     "ipv4": [
+      "60.244.64.0/22",
       "60.244.80.0/23",
       "60.244.82.0/24",
       "60.244.84.0/23",

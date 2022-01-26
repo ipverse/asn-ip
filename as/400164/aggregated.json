@@ -4,7 +4,8 @@
   "description": "Open Fiber USA, LLC",
   "subnets": {
     "ipv4": [
-      "38.83.164.0/22"
+      "38.83.164.0/22",
+      "38.88.164.0/22"
     ],
     "ipv6": []
   }

@@ -3,9 +3,7 @@
   "handle": "ICL-AP",
   "description": "IP Communications Limited",
   "subnets": {
-    "ipv4": [
-      "103.174.214.0/23"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2400:1620::/32"
     ]

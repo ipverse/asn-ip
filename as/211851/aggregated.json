@@ -4,6 +4,8 @@
   "description": "Victor UETTWILLER",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a0c:b641:620::/44"
+    ]
   }
 }

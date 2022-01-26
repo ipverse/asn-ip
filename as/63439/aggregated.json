@@ -3,9 +3,7 @@
   "handle": "RECURLY",
   "description": "Recurly Inc.",
   "subnets": {
-    "ipv4": [
-      "50.227.178.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

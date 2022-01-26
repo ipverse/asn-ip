@@ -4,7 +4,7 @@
   "description": "WI GO INTERNET SA DE CV",
   "subnets": {
     "ipv4": [
-      "45.177.40.0/22"
+      "45.177.40.0/24"
     ],
     "ipv6": []
   }
