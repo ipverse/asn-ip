@@ -3,7 +3,9 @@
   "handle": "CONNECTCONQUISTA-INTERNET-EIRELI",
   "description": "CONNECTCONQUISTA INTERNET EIRELI",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "128.201.244.0/22"
+    ],
     "ipv6": []
   }
 }

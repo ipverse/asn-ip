@@ -1,0 +1,11 @@
+{
+  "asn": 400299,
+  "handle": "DIGIPRZ-SOCAL-01",
+  "description": "DigitalPrez Consulting",
+  "subnets": {
+    "ipv4": [
+      "38.79.88.0/24"
+    ],
+    "ipv6": []
+  }
+}

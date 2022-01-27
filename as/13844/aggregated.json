@@ -4,7 +4,8 @@
   "description": "St. John\u0027s Riverside Hospital",
   "subnets": {
     "ipv4": [
-      "107.181.30.0/24"
+      "107.181.30.0/24",
+      "131.239.86.0/24"
     ],
     "ipv6": []
   }

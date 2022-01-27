@@ -4,6 +4,7 @@
   "description": "Bhutan Telecom Ltd",
   "subnets": {
     "ipv4": [
+      "119.2.96.0/20",
       "202.144.128.0/19"
     ],
     "ipv6": [

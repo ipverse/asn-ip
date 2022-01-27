@@ -4,6 +4,7 @@
   "description": "Darkness Reigns (Holding) B.V.",
   "subnets": {
     "ipv4": [
+      "185.17.72.0/22",
       "185.100.56.0/24"
     ],
     "ipv6": [

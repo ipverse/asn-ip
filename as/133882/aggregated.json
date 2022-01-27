@@ -4,7 +4,8 @@
   "description": "PARAGON INTERNET GROUP LIMITED",
   "subnets": {
     "ipv4": [
-      "103.44.220.0/24"
+      "103.44.220.0/24",
+      "103.87.189.0/24"
     ],
     "ipv6": [
       "2001:df1:9c00::/48",

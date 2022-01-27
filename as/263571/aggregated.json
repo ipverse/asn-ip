@@ -3,7 +3,9 @@
   "handle": "CONECTE-TELECOMUNICAES-LTDA",
   "description": "CONECTE TELECOMUNICAES LTDA.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "177.55.88.0/21"
+    ],
     "ipv6": []
   }
 }

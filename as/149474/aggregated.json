@@ -1,0 +1,11 @@
+{
+  "asn": 149474,
+  "handle": "YOURNET-AP",
+  "description": "Your Net",
+  "subnets": {
+    "ipv4": [
+      "103.180.112.0/24"
+    ],
+    "ipv6": []
+  }
+}

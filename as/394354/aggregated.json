@@ -4,7 +4,6 @@
   "description": "CIRA Canadian Internet Registration Authority Autorit Canadienne pour les enregistrements Internet",
   "subnets": {
     "ipv4": [
-      "149.112.120.0/24",
       "162.219.49.0/24",
       "162.219.50.0/24",
       "162.219.55.0/24",
@@ -18,7 +17,6 @@
       "2620:10a:8022::/48",
       "2620:10a:8053::/48",
       "2620:10a:8055::/48",
-      "2620:10a:8056::/48",
       "2620:10a:80ab::/48",
       "2620:10a:80ae::/48",
       "2620:10a:80e7::/48",

@@ -1,0 +1,11 @@
+{
+  "asn": 272045,
+  "handle": "FIBER-FIX-SAC",
+  "description": "FIBER FIX S.A.C.",
+  "subnets": {
+    "ipv4": [
+      "191.96.159.0/24"
+    ],
+    "ipv6": []
+  }
+}

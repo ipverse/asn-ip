@@ -4,6 +4,7 @@
   "description": "A K C PROV DE ACESSO AS REDES DE TEL. E INF EIRELI",
   "subnets": {
     "ipv4": [
+      "186.65.92.0/23",
       "186.65.95.0/24"
     ],
     "ipv6": []
