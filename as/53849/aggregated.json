@@ -4,6 +4,8 @@
   "description": "Vernon Communications Cooperative",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2603:b0ae::/32"
+    ]
   }
 }

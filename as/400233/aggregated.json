@@ -1,0 +1,11 @@
+{
+  "asn": 400233,
+  "handle": "COSA-CITYHALL",
+  "description": "City of San Angelo",
+  "subnets": {
+    "ipv4": [
+      "74.200.142.0/24"
+    ],
+    "ipv6": []
+  }
+}

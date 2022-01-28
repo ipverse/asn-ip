@@ -4,6 +4,7 @@
   "description": "Valley Health System",
   "subnets": {
     "ipv4": [
+      "47.19.136.0/24",
       "208.85.100.0/22"
     ],
     "ipv6": []

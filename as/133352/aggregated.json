@@ -4,6 +4,7 @@
   "description": "PT. Berdikari Prima Mandiri",
   "subnets": {
     "ipv4": [
+      "43.250.76.0/22",
       "103.231.200.0/22"
     ],
     "ipv6": []

@@ -3,7 +3,10 @@
   "handle": "CYTRACOM",
   "description": "My Digital Shield, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "104.225.212.0/24",
+      "162.251.245.0/24"
+    ],
     "ipv6": []
   }
 }

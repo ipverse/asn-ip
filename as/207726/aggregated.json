@@ -1,0 +1,12 @@
+{
+  "asn": 207726,
+  "handle": "NUNO-DE-MATOS-FLORA",
+  "description": "Nuno de Matos Flora",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a0e:b107:560::/48",
+      "2a0e:b107:1060::/44"
+    ]
+  }
+}

@@ -3,9 +3,7 @@
   "handle": "DIRECTINS",
   "description": "Direct General Corporation",
   "subnets": {
-    "ipv4": [
-      "216.1.183.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

@@ -4,7 +4,8 @@
   "description": "HI SPEED NET WORK S.A.R.L",
   "subnets": {
     "ipv4": [
-      "185.252.100.0/22"
+      "185.252.100.0/22",
+      "212.30.32.0/24"
     ],
     "ipv6": []
   }

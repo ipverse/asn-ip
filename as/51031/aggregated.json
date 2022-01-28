@@ -3,9 +3,7 @@
   "handle": "NRJNET",
   "description": "LLC Energy Telecom",
   "subnets": {
-    "ipv4": [
-      "193.105.175.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

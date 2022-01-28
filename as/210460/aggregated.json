@@ -3,7 +3,9 @@
   "handle": "LK",
   "description": "IP Kovaleva Liliya Nikolaevna",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.209.49.0/24"
+    ],
     "ipv6": [
       "2a12:5b80::/32"
     ]

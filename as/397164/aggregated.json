@@ -3,9 +3,7 @@
   "handle": "VELOCITY-WIRELESS-NYC",
   "description": "Velocity Wireless LLC",
   "subnets": {
-    "ipv4": [
-      "23.135.80.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

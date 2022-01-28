@@ -3,7 +3,9 @@
   "handle": "INTERLAX-FR",
   "description": "INTERLAX",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.223.79.0/24"
+    ],
     "ipv6": []
   }
 }

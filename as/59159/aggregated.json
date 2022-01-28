@@ -4,11 +4,10 @@
   "description": "PDIS - BADAN PENGKAJIAN DAN PENERAPAN TEKNOLOGI",
   "subnets": {
     "ipv4": [
-      "103.224.136.0/22"
+      "103.224.136.0/23"
     ],
     "ipv6": [
-      "2400:9280:10::/48",
-      "2400:9280:12::/48"
+      "2400:9280:10::/48"
     ]
   }
 }

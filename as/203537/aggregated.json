@@ -3,7 +3,10 @@
   "handle": "ANTISATELECOM",
   "description": "ANTISA TELECOM S.L.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.130.28.0/22",
+      "193.163.126.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -1,0 +1,11 @@
+{
+  "asn": 137015,
+  "handle": "STARNETWORKBD-AP",
+  "description": "Star Network BD",
+  "subnets": {
+    "ipv4": [
+      "103.179.156.0/24"
+    ],
+    "ipv6": []
+  }
+}

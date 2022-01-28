@@ -3,7 +3,9 @@
   "handle": "TOSHTELEQABUL",
   "description": "ToshTeleQabul Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "31.148.196.0/24"
+    ],
     "ipv6": []
   }
 }

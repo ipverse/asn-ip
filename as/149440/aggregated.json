@@ -1,0 +1,11 @@
+{
+  "asn": 149440,
+  "handle": "EVOXTENTERPRISE-AP",
+  "description": "Evoxt Enterprise",
+  "subnets": {
+    "ipv4": [
+      "103.179.142.0/24"
+    ],
+    "ipv6": []
+  }
+}

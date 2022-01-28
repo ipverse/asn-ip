@@ -3,9 +3,7 @@
   "handle": "MERIT-26",
   "description": "Merit Network Inc.",
   "subnets": {
-    "ipv4": [
-      "142.54.8.0/21"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

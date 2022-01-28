@@ -4,6 +4,7 @@
   "description": "Zzoomm plc",
   "subnets": {
     "ipv4": [
+      "91.193.8.0/24",
       "149.102.32.0/19"
     ],
     "ipv6": []

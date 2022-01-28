@@ -3,11 +3,7 @@
   "handle": "KABELDEUTSCHLAND",
   "description": "Vodafone Deutschland GmbH",
   "subnets": {
-    "ipv4": [
-      "77.22.252.0/22",
-      "77.23.248.0/21",
-      "95.90.212.0/22"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

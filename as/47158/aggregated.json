@@ -3,7 +3,10 @@
   "handle": "VAMU",
   "description": "IT LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.243.33.0/24",
+      "95.161.128.0/22"
+    ],
     "ipv6": []
   }
 }

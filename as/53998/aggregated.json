@@ -3,7 +3,9 @@
   "handle": "NSC-AS01",
   "description": "Pizza Hut Connect, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.33.23.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -4,6 +4,7 @@
   "description": "CV HOTSPOT, S.R.L.",
   "subnets": {
     "ipv4": [
+      "191.101.36.0/24",
       "200.26.184.0/24"
     ],
     "ipv6": [

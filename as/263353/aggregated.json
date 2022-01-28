@@ -3,7 +3,9 @@
   "handle": "YARA-DOS-SANTOS-BARREIRO-ME",
   "description": "YARA DOS SANTOS BARREIRO - ME",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "191.37.64.0/22"
+    ],
     "ipv6": []
   }
 }

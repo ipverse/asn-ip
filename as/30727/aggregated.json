@@ -3,9 +3,7 @@
   "handle": "SYSLINK",
   "description": "Syslink software AG",
   "subnets": {
-    "ipv4": [
-      "80.241.96.0/20"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

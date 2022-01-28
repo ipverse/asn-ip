@@ -3,7 +3,9 @@
   "handle": "INALAN-TELECOMUNICACOES-LTDA",
   "description": "INALAN TELECOMUNICACOES LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "181.224.28.0/22"
+    ],
     "ipv6": [
       "2804:7c14::/32"
     ]

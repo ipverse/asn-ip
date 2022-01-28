@@ -4,8 +4,8 @@
   "description": "Comcast International Holdings UK Limited",
   "subnets": {
     "ipv4": [
-      "184.120.0.0/20",
-      "184.120.32.0/19",
+      "184.120.0.0/18",
+      "184.120.128.0/19",
       "184.124.2.0/24"
     ],
     "ipv6": [

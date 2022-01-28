@@ -4,7 +4,8 @@
   "description": "Floor and Decor Outlets of America, Inc.",
   "subnets": {
     "ipv4": [
-      "161.199.34.0/24"
+      "161.199.34.0/24",
+      "209.59.238.0/24"
     ],
     "ipv6": []
   }

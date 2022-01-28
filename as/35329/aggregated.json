@@ -3,9 +3,7 @@
   "handle": "GD-EMEA-DC-CGN3",
   "description": "Host Europe GmbH",
   "subnets": {
-    "ipv4": [
-      "62.138.32.0/20"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

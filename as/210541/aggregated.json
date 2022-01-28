@@ -4,6 +4,7 @@
   "description": "PE Khvostneko Oleksii",
   "subnets": {
     "ipv4": [
+      "31.42.112.0/21",
       "31.42.120.0/24",
       "31.128.242.0/23"
     ],

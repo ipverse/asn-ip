@@ -4,7 +4,8 @@
   "description": "Berry-IT Incorporated",
   "subnets": {
     "ipv4": [
-      "38.123.12.0/24"
+      "38.123.12.0/24",
+      "104.219.0.0/21"
     ],
     "ipv6": [
       "2605:bfc0::/32"

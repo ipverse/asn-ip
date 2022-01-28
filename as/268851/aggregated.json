@@ -3,9 +3,7 @@
   "handle": "FIBRATELL-SOLUCOES-EM",
   "description": "FIBRATELL SOLUCOES EM TI \u0026 TELECOM EIRELI",
   "subnets": {
-    "ipv4": [
-      "45.174.64.0/22"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2804:5b80::/32"
     ]

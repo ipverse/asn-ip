@@ -3,9 +3,7 @@
   "handle": "T-INDUSTRIAL",
   "description": "T-Industrial Networks Ltd",
   "subnets": {
-    "ipv4": [
-      "185.238.140.0/22"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

@@ -4,8 +4,7 @@
   "description": "PCB Piezotronics, Inc.",
   "subnets": {
     "ipv4": [
-      "67.209.50.0/24",
-      "148.150.6.0/24"
+      "67.209.50.0/24"
     ],
     "ipv6": []
   }
