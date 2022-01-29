@@ -1,12 +1,11 @@
 {
   "asn": 20446,
-  "handle": "HIGHWINDS3",
+  "handle": "STACKPATH-CDN",
   "description": "Highwinds Network Group, Inc.",
   "subnets": {
     "ipv4": [
       "64.145.64.0/24",
       "69.16.174.0/23",
-      "98.184.12.0/24",
       "151.139.128.0/24",
       "151.139.130.0/24",
       "151.139.254.0/23",

@@ -1,0 +1,11 @@
+{
+  "asn": 271604,
+  "handle": "SIMPSON-INTERNET-VIA",
+  "description": "SIMPSON INTERNET VIA RADIO WI-FI - EIRELI",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2804:7e20::/32"
+    ]
+  }
+}

@@ -3,9 +3,7 @@
   "handle": "TELESENS",
   "description": "Telesens Ventures Ltd",
   "subnets": {
-    "ipv4": [
-      "194.0.150.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

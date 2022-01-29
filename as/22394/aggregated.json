@@ -1,7 +1,7 @@
 {
   "asn": 22394,
   "handle": "CELLCO",
-  "description": "MCI Communications Services, Inc. d/b/a Verizon Business",
+  "description": "Verizon Business",
   "subnets": {
     "ipv4": [
       "63.41.0.0/16",
@@ -185,7 +185,6 @@
       "2607:f160:12::/48",
       "2607:f160:25::/48",
       "2607:f160:2e::/48",
-      "2607:f160:30::/47",
       "2607:f160:37::/48",
       "2607:f160:3e::/48"
     ]

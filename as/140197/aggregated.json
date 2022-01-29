@@ -3,7 +3,9 @@
   "handle": "NCSPL",
   "description": "NetConnect Services Private Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.156.102.0/23"
+    ],
     "ipv6": []
   }
 }

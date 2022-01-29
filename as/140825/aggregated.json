@@ -1,0 +1,14 @@
+{
+  "asn": 140825,
+  "handle": "HOSTINGVIET-VN",
+  "description": "Thien Quang Digital technology joint stock company",
+  "subnets": {
+    "ipv4": [
+      "103.180.132.0/22"
+    ],
+    "ipv6": [
+      "2001:df0:5b40::/48",
+      "2001:df0:5bc0::/48"
+    ]
+  }
+}

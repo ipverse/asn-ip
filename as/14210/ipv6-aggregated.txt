@@ -1,8 +1,9 @@
 # AS14210 (EDGECAST-DCA)
-# MCI Communications Services, Inc. d/b/a Verizon Business
+# Verizon Business
 #
 2600:40fc:1003::/48
-2600:40fc:1010::/46
+2600:40fc:1010::/48
+2600:40fc:1012::/47
 2600:40fc:1014::/47
 2600:40fc:1016::/48
 2606:2800:4032::/47

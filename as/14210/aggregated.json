@@ -1,7 +1,7 @@
 {
   "asn": 14210,
   "handle": "EDGECAST-DCA",
-  "description": "MCI Communications Services, Inc. d/b/a Verizon Business",
+  "description": "Verizon Business",
   "subnets": {
     "ipv4": [
       "64.12.192.0/23",
@@ -49,7 +49,8 @@
     ],
     "ipv6": [
       "2600:40fc:1003::/48",
-      "2600:40fc:1010::/46",
+      "2600:40fc:1010::/48",
+      "2600:40fc:1012::/47",
       "2600:40fc:1014::/47",
       "2600:40fc:1016::/48",
       "2606:2800:4032::/47",

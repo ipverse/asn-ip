@@ -3,9 +3,7 @@
   "handle": "IDNIC-DISDIKKEPRI-ID",
   "description": "Dinas Pendidikan Provinsi Kepulauan Riau",
   "subnets": {
-    "ipv4": [
-      "103.162.141.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

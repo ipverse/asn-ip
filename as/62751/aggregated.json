@@ -3,9 +3,7 @@
   "handle": "HSAUWC",
   "description": "HSA-UWC",
   "subnets": {
-    "ipv4": [
-      "173.251.110.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }
