@@ -4,9 +4,10 @@
   "description": "LUCIANA P. DA SILVA-INFORMATICA-ME",
   "subnets": {
     "ipv4": [
-      "45.186.99.0/24"
+      "45.186.96.0/22"
     ],
     "ipv6": [
+      "2804:6474::/33",
       "2804:6474:c000::/34"
     ]
   }

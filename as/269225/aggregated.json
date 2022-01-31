@@ -3,7 +3,9 @@
   "handle": "MELO-GIUNTINI-LTDA-EPP",
   "description": "MELO \u0026 GIUNTINI LTDA - EPP",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.182.48.0/22"
+    ],
     "ipv6": []
   }
 }

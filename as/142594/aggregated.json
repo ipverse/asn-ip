@@ -3,9 +3,12 @@
   "handle": "SPEEDYPAGELTD-AP",
   "description": "SpeedyPage Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.95.19.0/24"
+    ],
     "ipv6": [
-      "2001:df7:1d80::/48"
+      "2001:df7:1d80::/48",
+      "2a06:a000:1d0::/44"
     ]
   }
 }

@@ -3,7 +3,9 @@
   "handle": "IDNIC-IKI-INDONESIA-ID",
   "description": "IKI INDONESIA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.172.144.0/24"
+    ],
     "ipv6": []
   }
 }

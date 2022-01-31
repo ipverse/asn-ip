@@ -3,7 +3,9 @@
   "handle": "IDNIC-DIAZA-ID",
   "description": "PT Diaza Lintas Asia",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.173.140.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "ECMZ",
   "description": "MUNICIPAL ENTERPRISE OF THE CITY OF NIZHY NOVGOROD SINGLE CENTER MUNICIPAL ORDER",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "94.141.124.0/24"
+    ],
     "ipv6": []
   }
 }

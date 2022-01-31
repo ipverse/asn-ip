@@ -1,0 +1,13 @@
+{
+  "asn": 57848,
+  "handle": "SKYZ",
+  "description": "Robert Walters",
+  "subnets": {
+    "ipv4": [
+      "45.131.152.0/24"
+    ],
+    "ipv6": [
+      "2a0b:2540::/32"
+    ]
+  }
+}

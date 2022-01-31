@@ -3,7 +3,9 @@
   "handle": "MOBILETNET",
   "description": "America ISP",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "207.182.96.0/19"
+    ],
     "ipv6": []
   }
 }

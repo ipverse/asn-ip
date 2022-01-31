@@ -3,7 +3,9 @@
   "handle": "MILEHIGHWALRUS-US",
   "description": "August Internet",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.149.39.0/24"
+    ],
     "ipv6": [
       "2602:fc09:980::/48",
       "2602:fc09:990::/48",

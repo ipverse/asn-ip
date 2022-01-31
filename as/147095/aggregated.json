@@ -1,0 +1,11 @@
+{
+  "asn": 147095,
+  "handle": "IDNIC-ABC-ID",
+  "description": "PT Angkasa Bintan Cemerlang",
+  "subnets": {
+    "ipv4": [
+      "103.174.62.0/23"
+    ],
+    "ipv6": []
+  }
+}

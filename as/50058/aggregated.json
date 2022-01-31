@@ -4,6 +4,13 @@
   "description": "August Internet Limited",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a0e:b107:14d2::/47",
+      "2a0e:b107:14d4::/46",
+      "2a0e:b107:14d8::/48",
+      "2a0e:b107:14da::/47",
+      "2a0e:b107:14dd::/48",
+      "2a0e:b107:14df::/48"
+    ]
   }
 }

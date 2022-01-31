@@ -4,8 +4,7 @@
   "description": "LENILSON FERREIRA DOS SANTOS",
   "subnets": {
     "ipv4": [
-      "45.187.204.0/23",
-      "45.187.206.0/24"
+      "45.187.204.0/22"
     ],
     "ipv6": [
       "2804:6588::/32"
