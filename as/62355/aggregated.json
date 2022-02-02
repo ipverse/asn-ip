@@ -1,0 +1,11 @@
+{
+  "asn": 62355,
+  "handle": "NECO",
+  "description": "Neko LLC",
+  "subnets": {
+    "ipv4": [
+      "195.19.93.0/24"
+    ],
+    "ipv6": []
+  }
+}

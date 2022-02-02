@@ -3,7 +3,9 @@
   "handle": "NYC-NET-01",
   "description": "Setplex",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "104.224.16.0/24"
+    ],
     "ipv6": []
   }
 }

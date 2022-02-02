@@ -3,9 +3,7 @@
   "handle": "CORESPACE",
   "description": "CoreSpace, Inc.",
   "subnets": {
-    "ipv4": [
-      "199.188.144.0/22"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

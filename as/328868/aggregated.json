@@ -3,10 +3,7 @@
   "handle": "SSL",
   "description": "Spearhead Sales (Pty) Ltd",
   "subnets": {
-    "ipv4": [
-      "102.219.240.0/23",
-      "102.219.242.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

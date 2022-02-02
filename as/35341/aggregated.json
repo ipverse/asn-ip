@@ -3,9 +3,7 @@
   "handle": "RODOVID",
   "description": "OJSC Rodovid Bank",
   "subnets": {
-    "ipv4": [
-      "193.239.228.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

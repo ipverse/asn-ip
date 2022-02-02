@@ -4,6 +4,8 @@
   "description": "OPLAVUS TEKNOLOJI TELEKOMUNIKASYON LTD. STI.",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a00:58c0::/48"
+    ]
   }
 }

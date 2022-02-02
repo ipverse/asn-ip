@@ -4,6 +4,7 @@
   "description": "ITS TELECOMUNICACOES LTDA",
   "subnets": {
     "ipv4": [
+      "177.8.224.0/20",
       "187.44.128.0/17",
       "189.89.128.0/18"
     ],

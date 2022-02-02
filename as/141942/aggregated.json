@@ -3,7 +3,9 @@
   "handle": "IDNIC-JOI-ID",
   "description": "PT Jaringan Optik Indonesia",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.166.92.0/23"
+    ],
     "ipv6": []
   }
 }

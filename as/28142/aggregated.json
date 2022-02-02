@@ -4,7 +4,9 @@
   "description": "DIGITAL DESIGN SERVIOS DE TELECOMUNICAES EIRELI",
   "subnets": {
     "ipv4": [
-      "186.224.64.0/20",
+      "186.224.64.0/22",
+      "186.224.68.0/23",
+      "186.224.72.0/21",
       "187.49.80.0/20"
     ],
     "ipv6": [

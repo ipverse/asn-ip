@@ -4,8 +4,7 @@
   "description": "Global (India) Tele-Infra Pvt Ltd",
   "subnets": {
     "ipv4": [
-      "103.252.52.0/24",
-      "103.252.54.0/23",
+      "103.252.52.0/22",
       "114.29.232.0/22"
     ],
     "ipv6": []

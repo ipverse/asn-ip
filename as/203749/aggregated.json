@@ -3,11 +3,7 @@
   "handle": "HN",
   "description": "Hutchinson Networks Ltd",
   "subnets": {
-    "ipv4": [
-      "149.5.128.0/24",
-      "149.5.131.0/24",
-      "149.7.38.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

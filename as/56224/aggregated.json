@@ -4,6 +4,7 @@
   "description": "PRISAC AVIATION TECHNOLOGIES PRIVATE LIMITED",
   "subnets": {
     "ipv4": [
+      "103.150.152.0/23",
       "202.12.80.0/22"
     ],
     "ipv6": []

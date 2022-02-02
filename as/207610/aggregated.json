@@ -3,10 +3,7 @@
   "handle": "ALLSGROUP-NETWORK",
   "description": "Association ALLSGROUP",
   "subnets": {
-    "ipv4": [
-      "193.26.21.0/24",
-      "193.26.22.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

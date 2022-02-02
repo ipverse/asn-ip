@@ -1,0 +1,11 @@
+{
+  "asn": 50229,
+  "handle": "RIGNET-SOIL",
+  "description": "Rignet AS",
+  "subnets": {
+    "ipv4": [
+      "109.71.145.0/24"
+    ],
+    "ipv6": []
+  }
+}
