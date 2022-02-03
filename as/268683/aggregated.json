@@ -3,7 +3,11 @@
   "handle": "REDE-BANDA-LARGA",
   "description": "rede banda larga",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.165.164.0/23"
+    ],
+    "ipv6": [
+      "2804:5500::/34"
+    ]
   }
 }

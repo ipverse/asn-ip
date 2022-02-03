@@ -4,8 +4,6 @@
   "description": "TOV Telekanal TONIS",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2001:67c:2bf0::/48"
-    ]
+    "ipv6": []
   }
 }

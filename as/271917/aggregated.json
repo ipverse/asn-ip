@@ -4,7 +4,8 @@
   "description": "SOLUCIONES TECNICAS VENEZUELA, C.A.",
   "subnets": {
     "ipv4": [
-      "103.83.193.0/24"
+      "103.83.193.0/24",
+      "181.189.76.0/22"
     ],
     "ipv6": []
   }

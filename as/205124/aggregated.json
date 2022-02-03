@@ -3,7 +3,9 @@
   "handle": "TELEHOST-COLO",
   "description": "Telehost SRL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "5.180.112.0/22"
+    ],
     "ipv6": []
   }
 }

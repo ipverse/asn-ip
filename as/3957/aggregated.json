@@ -3,10 +3,7 @@
   "handle": "AIP",
   "description": "American Institute of Physics Incorporated",
   "subnets": {
-    "ipv4": [
-      "192.58.150.0/24",
-      "208.76.206.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

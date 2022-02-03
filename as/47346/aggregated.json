@@ -1,11 +1,9 @@
 {
   "asn": 47346,
-  "handle": "ELECOM-NT",
-  "description": "Kiberlinks LLC",
+  "handle": "RESERVED",
+  "description": "RIPE NCC ASN block",
   "subnets": {
-    "ipv4": [
-      "193.168.226.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

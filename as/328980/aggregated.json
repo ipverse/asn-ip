@@ -3,7 +3,9 @@
   "handle": "ISOT",
   "description": "International School of Tanganyika",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "102.218.146.0/23"
+    ],
     "ipv6": []
   }
 }

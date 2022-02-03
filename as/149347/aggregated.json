@@ -1,0 +1,13 @@
+{
+  "asn": 149347,
+  "handle": "IDNIC-WIMATE-ID",
+  "description": "CV Wistel IT Solution",
+  "subnets": {
+    "ipv4": [
+      "103.179.218.0/23"
+    ],
+    "ipv6": [
+      "2001:df0:54c0::/48"
+    ]
+  }
+}

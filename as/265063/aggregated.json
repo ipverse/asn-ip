@@ -3,7 +3,9 @@
   "handle": "COMETA-TELECOMUNICACOES-E",
   "description": "COMETA TELECOMUNICACOES E SERVICOS LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "170.231.192.0/24"
+    ],
     "ipv6": []
   }
 }

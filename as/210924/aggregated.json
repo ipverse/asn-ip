@@ -3,7 +3,9 @@
   "handle": "SSDNETWORKS",
   "description": "ssd networks limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.96.138.0/24"
+    ],
     "ipv6": []
   }
 }

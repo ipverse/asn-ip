@@ -4,6 +4,7 @@
   "description": "YOTTA NETWORK SERVICES PRIVATE LIMITED",
   "subnets": {
     "ipv4": [
+      "43.242.36.0/22",
       "45.118.160.0/22",
       "45.119.148.0/22",
       "103.58.164.0/22",

@@ -4,6 +4,7 @@
   "description": "FiberNet Communications L.C.",
   "subnets": {
     "ipv4": [
+      "23.247.204.0/22",
       "67.55.137.0/24",
       "67.55.139.0/24",
       "67.55.144.0/22",

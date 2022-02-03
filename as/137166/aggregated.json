@@ -4,6 +4,7 @@
   "description": "Digital Satellite Connect Pvt Ltd",
   "subnets": {
     "ipv4": [
+      "45.115.52.0/24",
       "45.115.54.0/24",
       "103.87.164.0/22",
       "103.120.238.0/24",

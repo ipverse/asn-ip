@@ -3,7 +3,9 @@
   "handle": "JUSTNET-TELECOMUNICACOES-LTDA",
   "description": "JUSTNET - TELECOMUNICACOES LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "181.214.245.0/24"
+    ],
     "ipv6": [
       "2804:84e8::/32"
     ]

@@ -3,10 +3,7 @@
   "handle": "THANACHART-CAPITAL",
   "description": "CS Loxinfo Public Company Limited",
   "subnets": {
-    "ipv4": [
-      "58.137.185.0/24",
-      "203.150.247.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

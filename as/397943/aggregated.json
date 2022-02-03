@@ -3,11 +3,7 @@
   "handle": "CLRUS-BROADBAND-LLC-1",
   "description": "Clarus Data INC",
   "subnets": {
-    "ipv4": [
-      "69.64.120.0/22"
-    ],
-    "ipv6": [
-      "2605:68c0:1::/48"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

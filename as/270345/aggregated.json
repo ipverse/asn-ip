@@ -4,10 +4,9 @@
   "description": "TECH FIBRA PROVEDOR DE INTERNET LTDA - ME",
   "subnets": {
     "ipv4": [
-      "190.83.40.0/22"
+      "190.83.40.0/24",
+      "190.83.42.0/24"
     ],
-    "ipv6": [
-      "2804:6a94:4000::/34"
-    ]
+    "ipv6": []
   }
 }

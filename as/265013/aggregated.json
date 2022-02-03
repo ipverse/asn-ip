@@ -3,10 +3,7 @@
   "handle": "EMPRESARIAL-NET-BANDA",
   "description": "Empresarial Net Banda Larga LTDA",
   "subnets": {
-    "ipv4": [
-      "170.81.88.0/22",
-      "170.84.240.0/22"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

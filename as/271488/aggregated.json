@@ -3,7 +3,9 @@
   "handle": "REALDATA-TELECOMUNICAES-E",
   "description": "REALDATA TELECOMUNICAES E TECNOLOGIA LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "181.189.88.0/22"
+    ],
     "ipv6": [
       "2804:7c50::/32"
     ]

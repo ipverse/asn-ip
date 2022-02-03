@@ -4,6 +4,8 @@
   "description": "Sine Nomine Associates Inc.",
   "subnets": {
     "ipv4": [
+      "12.43.214.0/24",
+      "12.156.76.0/24",
       "198.44.193.0/24"
     ],
     "ipv6": []

@@ -1,14 +1,9 @@
 {
   "asn": 395800,
-  "handle": "GREYBEARD",
+  "handle": "THIS-ASN-IS-HIJACKED",
   "description": "Greybeard Technology LLC",
   "subnets": {
-    "ipv4": [
-      "67.110.192.0/20",
-      "67.110.208.0/21",
-      "93.177.96.0/24",
-      "185.218.132.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

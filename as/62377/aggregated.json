@@ -4,7 +4,6 @@
   "description": "Rockwell Automation B.V.",
   "subnets": {
     "ipv4": [
-      "205.175.199.0/24",
       "205.175.202.0/23"
     ],
     "ipv6": []

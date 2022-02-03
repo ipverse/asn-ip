@@ -1,0 +1,11 @@
+{
+  "asn": 52483,
+  "handle": "AEPROVI",
+  "description": "Aeprovi",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2001:13c7:6f80::/48"
+    ]
+  }
+}

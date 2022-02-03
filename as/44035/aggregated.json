@@ -3,7 +3,9 @@
   "handle": "RU-AXIOMA",
   "description": "Nemerov Evgeniy Vladimirovish PE",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "89.105.128.0/21"
+    ],
     "ipv6": []
   }
 }

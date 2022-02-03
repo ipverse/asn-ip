@@ -1,0 +1,11 @@
+{
+  "asn": 210202,
+  "handle": "RAVENLABS",
+  "description": "Raven Labs Limited",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a0f:85c1:50::/48"
+    ]
+  }
+}

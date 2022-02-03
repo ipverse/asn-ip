@@ -1,0 +1,11 @@
+{
+  "asn": 400269,
+  "handle": "USWIFI",
+  "description": "USwifi LLC",
+  "subnets": {
+    "ipv4": [
+      "12.169.242.0/24"
+    ],
+    "ipv6": []
+  }
+}

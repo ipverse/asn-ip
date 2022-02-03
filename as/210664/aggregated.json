@@ -3,7 +3,9 @@
   "handle": "VNETX",
   "description": "Virtua-Networks SARL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.150.90.0/24"
+    ],
     "ipv6": [
       "2a05:4b40::/32"
     ]

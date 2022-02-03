@@ -3,9 +3,7 @@
   "handle": "SBERBANK-BAIKAL",
   "description": "Sberbank of Russia PJSC",
   "subnets": {
-    "ipv4": [
-      "195.43.144.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }
