@@ -3,7 +3,9 @@
   "handle": "NUL",
   "description": "National University of Lesotho",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "197.220.128.0/19"
+    ],
     "ipv6": []
   }
 }

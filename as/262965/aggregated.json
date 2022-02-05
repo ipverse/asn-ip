@@ -1,0 +1,13 @@
+{
+  "asn": 262965,
+  "handle": "TEEVO-SA-COMRCIO",
+  "description": "TEEVO SA Comrcio e Servio de Informtica",
+  "subnets": {
+    "ipv4": [
+      "186.237.28.0/22"
+    ],
+    "ipv6": [
+      "2804:ea4::/32"
+    ]
+  }
+}

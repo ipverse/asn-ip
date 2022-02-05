@@ -3,9 +3,7 @@
   "handle": "OMNIX",
   "description": "Megaport (Bulgaria) EAD",
   "subnets": {
-    "ipv4": [
-      "201.222.40.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

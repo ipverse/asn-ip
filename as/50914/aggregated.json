@@ -3,9 +3,7 @@
   "handle": "SURFTELECOMS",
   "description": "WPD TELECOMS LIMITED",
   "subnets": {
-    "ipv4": [
-      "185.73.87.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

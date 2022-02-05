@@ -4,7 +4,8 @@
   "description": "LEANDRO DA SILVA CONCEICAO",
   "subnets": {
     "ipv4": [
-      "200.108.180.0/22"
+      "200.108.180.0/23",
+      "200.108.183.0/24"
     ],
     "ipv6": []
   }

@@ -3,10 +3,7 @@
   "handle": "EPN-BA",
   "description": "SOFTNET d.o.o.",
   "subnets": {
-    "ipv4": [
-      "80.65.160.0/20",
-      "217.199.128.0/20"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

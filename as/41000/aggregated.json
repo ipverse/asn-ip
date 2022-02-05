@@ -4,6 +4,7 @@
   "description": "Freethought Internet Limited",
   "subnets": {
     "ipv4": [
+      "44.131.2.0/24",
       "176.74.16.0/21",
       "176.124.70.0/24",
       "185.86.108.0/22",

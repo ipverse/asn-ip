@@ -4,7 +4,6 @@
   "description": "Volta Communications Sp.z.o.o.",
   "subnets": {
     "ipv4": [
-      "81.95.192.0/21",
       "81.95.200.0/23",
       "81.95.203.0/24",
       "81.95.204.0/22",

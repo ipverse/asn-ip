@@ -4,7 +4,8 @@
   "description": "SPACENET PROVEDOR TELECOM LTDA",
   "subnets": {
     "ipv4": [
-      "45.188.72.0/22"
+      "45.188.72.0/22",
+      "177.137.137.0/24"
     ],
     "ipv6": []
   }

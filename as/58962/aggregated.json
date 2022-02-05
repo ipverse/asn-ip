@@ -4,11 +4,7 @@
   "description": "SiChuan Century LiXin Financial Management Consulting Co., LTD",
   "subnets": {
     "ipv4": [
-      "43.243.24.0/22",
-      "43.255.168.0/23",
-      "43.255.170.0/24",
       "103.27.208.0/22",
-      "103.239.176.0/22",
       "103.254.220.0/22"
     ],
     "ipv6": []

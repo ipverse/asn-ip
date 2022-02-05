@@ -3,9 +3,12 @@
   "handle": "WYBT-NET",
   "description": "Tobias Fiebig",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.91.12.0/22"
+    ],
     "ipv6": [
-      "2a06:d1c0::/32"
+      "2a06:d1c0::/32",
+      "2a0e:a40::/29"
     ]
   }
 }

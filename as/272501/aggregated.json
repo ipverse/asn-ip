@@ -3,9 +3,7 @@
   "handle": "COTIA-FIBER-TELECOMUNICAES",
   "description": "Cotia Fiber Telecomunicaes e Servios LTDA",
   "subnets": {
-    "ipv4": [
-      "189.50.222.0/24"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2804:8224::/32"
     ]

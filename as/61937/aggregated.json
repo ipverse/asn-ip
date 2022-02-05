@@ -4,6 +4,7 @@
   "description": "Oquei Telecom Ltda EPP",
   "subnets": {
     "ipv4": [
+      "189.45.167.0/24",
       "200.95.192.0/19"
     ],
     "ipv6": [

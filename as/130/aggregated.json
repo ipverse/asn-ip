@@ -3,9 +3,7 @@
   "handle": "CSOCNET",
   "description": "Space Communications Division",
   "subnets": {
-    "ipv4": [
-      "209.209.2.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

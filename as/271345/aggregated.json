@@ -3,7 +3,10 @@
   "handle": "ND-TELECOM-FIBRA",
   "description": "ND TELECOM FIBRA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "181.189.60.0/23",
+      "181.189.62.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,9 +3,7 @@
   "handle": "WI-GATE",
   "description": "WirelessGate, Inc.",
   "subnets": {
-    "ipv4": [
-      "103.226.44.0/22"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

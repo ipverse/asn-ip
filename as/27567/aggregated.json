@@ -3,7 +3,9 @@
   "handle": "GRAY",
   "description": "Gray \u0026 Company, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "216.174.23.0/24"
+    ],
     "ipv6": []
   }
 }

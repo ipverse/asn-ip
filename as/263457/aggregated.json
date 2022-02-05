@@ -3,7 +3,9 @@
   "handle": "ALPINET-INFORMTICA-LTDA",
   "description": "Alpinet Informtica Ltda",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "177.190.152.0/21"
+    ],
     "ipv6": []
   }
 }

@@ -1,0 +1,11 @@
+{
+  "asn": 45715,
+  "handle": "IDNIC-KEMHAN-ID",
+  "description": "PUSDATIN KEMHAN RI",
+  "subnets": {
+    "ipv4": [
+      "45.250.100.0/22"
+    ],
+    "ipv6": []
+  }
+}
