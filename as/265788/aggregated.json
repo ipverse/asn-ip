@@ -4,7 +4,8 @@
   "description": "Denis Javier Rodrguez Guzmn(BRYMANET)",
   "subnets": {
     "ipv4": [
-      "192.141.164.0/22"
+      "192.141.164.0/23",
+      "192.141.166.0/24"
     ],
     "ipv6": []
   }

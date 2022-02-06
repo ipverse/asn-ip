@@ -3,9 +3,7 @@
   "handle": "HEAA-AP",
   "description": "Hamid Electronics and Automobiles",
   "subnets": {
-    "ipv4": [
-      "103.172.28.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

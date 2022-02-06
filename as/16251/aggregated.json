@@ -1,0 +1,11 @@
+{
+  "asn": 16251,
+  "handle": "HOGSKOLAN-I-GAVLE",
+  "description": "Hogskolan i Gavle",
+  "subnets": {
+    "ipv4": [
+      "130.243.0.0/20"
+    ],
+    "ipv6": []
+  }
+}

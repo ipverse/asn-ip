@@ -3,9 +3,7 @@
   "handle": "SPEED-LINK-EIRELI-ME",
   "description": "Speed Link EIRELI ME",
   "subnets": {
-    "ipv4": [
-      "128.201.208.0/22"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

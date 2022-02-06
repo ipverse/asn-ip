@@ -3,9 +3,7 @@
   "handle": "SSI-ID",
   "description": "PT. Sumatra Sistem Integrasi",
   "subnets": {
-    "ipv4": [
-      "103.42.40.0/22"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

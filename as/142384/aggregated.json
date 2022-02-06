@@ -3,7 +3,9 @@
   "handle": "IDNIC-DISKOMINFOKABJEMBER-ID",
   "description": "Dinas Komunikasi Dan Informatika Kabupaten Jember",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "123.176.121.0/24"
+    ],
     "ipv6": []
   }
 }

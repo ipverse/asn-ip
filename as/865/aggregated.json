@@ -1,0 +1,11 @@
+{
+  "asn": 865,
+  "handle": "GONET-ASN-17",
+  "description": "GONET",
+  "subnets": {
+    "ipv4": [
+      "204.41.232.0/24"
+    ],
+    "ipv6": []
+  }
+}

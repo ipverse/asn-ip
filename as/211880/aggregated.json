@@ -3,9 +3,7 @@
   "handle": "TELVIRGAL",
   "description": "Telecomunicaciones Virtuales Gallegas SRL",
   "subnets": {
-    "ipv4": [
-      "45.153.124.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

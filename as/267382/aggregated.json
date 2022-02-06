@@ -3,7 +3,9 @@
   "handle": "EXABYTE-TECNOLOGIA-LTDA-ME",
   "description": "EXABYTE TECNOLOGIA LTDA. - ME",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.234.140.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -1,0 +1,11 @@
+{
+  "asn": 328998,
+  "handle": "UGANDAIXP-MGT",
+  "description": "Uganda Internet eXchange Point",
+  "subnets": {
+    "ipv4": [
+      "196.49.15.0/24"
+    ],
+    "ipv6": []
+  }
+}

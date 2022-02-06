@@ -3,9 +3,7 @@
   "handle": "JETCOMS-ID",
   "description": "PT Jetcoms Netindo",
   "subnets": {
-    "ipv4": [
-      "103.10.138.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

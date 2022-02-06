@@ -3,9 +3,7 @@
   "handle": "DATAUTAMA-ID",
   "description": "Datautama Dinamika, PT",
   "subnets": {
-    "ipv4": [
-      "175.184.238.0/24"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2403:ba00:202f::/48"
     ]

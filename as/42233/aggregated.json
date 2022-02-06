@@ -1,0 +1,11 @@
+{
+  "asn": 42233,
+  "handle": "ASNOOOLUX",
+  "description": "OOO Lux",
+  "subnets": {
+    "ipv4": [
+      "203.132.144.0/21"
+    ],
+    "ipv6": []
+  }
+}

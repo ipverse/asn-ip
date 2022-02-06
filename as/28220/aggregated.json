@@ -4,6 +4,7 @@
   "description": "CABO SERVICOS DE TELECOMUNICACOES LTDA",
   "subnets": {
     "ipv4": [
+      "143.255.112.0/22",
       "177.89.0.0/16",
       "179.190.128.0/17",
       "186.236.192.0/19",

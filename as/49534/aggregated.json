@@ -3,9 +3,7 @@
   "handle": "COMLINES-NET",
   "description": "M-Telecom OOO",
   "subnets": {
-    "ipv4": [
-      "193.106.148.0/22"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }
