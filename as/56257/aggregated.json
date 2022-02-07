@@ -4,8 +4,6 @@
   "description": "Balai Penyedia dan Pengelola Pembiayaan Telekomunikasi dan Informatika",
   "subnets": {
     "ipv4": [
-      "103.18.153.0/24",
-      "103.22.164.0/23",
       "103.29.170.0/23"
     ],
     "ipv6": []

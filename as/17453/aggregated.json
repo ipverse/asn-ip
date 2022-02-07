@@ -3,10 +3,7 @@
   "handle": "CYQ",
   "description": "AUTONOMOUS SYTEM FOR MUMBAI-IDC",
   "subnets": {
-    "ipv4": [
-      "202.46.196.0/22",
-      "202.46.200.0/22"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

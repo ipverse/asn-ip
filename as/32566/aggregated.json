@@ -3,7 +3,9 @@
   "handle": "DUNAVANT",
   "description": "Dunavant Enterprises, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "66.194.157.0/24"
+    ],
     "ipv6": []
   }
 }

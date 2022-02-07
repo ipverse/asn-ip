@@ -4,7 +4,7 @@
   "description": "Elite Computer, LDA",
   "subnets": {
     "ipv4": [
-      "103.99.164.0/23"
+      "103.99.164.0/24"
     ],
     "ipv6": []
   }

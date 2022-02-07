@@ -4,6 +4,7 @@
   "description": "Euronext Technologies SAS",
   "subnets": {
     "ipv4": [
+      "212.107.68.0/23",
       "212.197.236.0/22"
     ],
     "ipv6": []

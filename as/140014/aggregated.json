@@ -3,7 +3,11 @@
   "handle": "IDNIC-KEMENPAR-ID",
   "description": "KEMENTERIAN PARIWISATA DAN EKONOMI KREATIF",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "103.149.47.0/24"
+    ],
+    "ipv6": [
+      "2001:df3:1280::/48"
+    ]
   }
 }

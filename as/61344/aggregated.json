@@ -3,7 +3,10 @@
   "handle": "INLAN-NET",
   "description": "IN-Lan LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "93.170.48.0/23",
+      "93.170.98.0/23"
+    ],
     "ipv6": []
   }
 }

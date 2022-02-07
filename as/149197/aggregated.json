@@ -3,7 +3,9 @@
   "handle": "GIRDHARI-IN",
   "description": "Girdhari Computers",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.177.228.0/23"
+    ],
     "ipv6": []
   }
 }
