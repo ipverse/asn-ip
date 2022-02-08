@@ -3,11 +3,7 @@
   "handle": "BROWSERWORLDIT-AP",
   "description": "Browser World IT",
   "subnets": {
-    "ipv4": [
-      "103.145.70.0/23"
-    ],
-    "ipv6": [
-      "2405:7cc0::/32"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

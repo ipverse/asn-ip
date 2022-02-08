@@ -3,7 +3,9 @@
   "handle": "CBRE-HK",
   "description": "CBRE Pty Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.37.228.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -4,7 +4,8 @@
   "description": "HEMINGFORD TELEPHONE",
   "subnets": {
     "ipv4": [
-      "23.29.80.0/20"
+      "23.29.80.0/20",
+      "103.122.101.0/24"
     ],
     "ipv6": []
   }

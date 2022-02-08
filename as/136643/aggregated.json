@@ -3,7 +3,11 @@
   "handle": "NETRAJ-IN",
   "description": "Net-raj Technology Pvt Ltd Opc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.97.203.0/24",
+      "103.131.24.0/23",
+      "103.131.26.0/24"
+    ],
     "ipv6": []
   }
 }

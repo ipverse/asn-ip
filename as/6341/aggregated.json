@@ -4,7 +4,7 @@
   "description": "Wisconsin Electric Power Company",
   "subnets": {
     "ipv4": [
-      "156.76.192.0/18"
+      "156.76.0.0/16"
     ],
     "ipv6": []
   }

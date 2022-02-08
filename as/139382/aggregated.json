@@ -3,9 +3,7 @@
   "handle": "MTT-ID",
   "description": "PT Multi Teknologi Telematika",
   "subnets": {
-    "ipv4": [
-      "103.142.241.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

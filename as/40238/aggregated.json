@@ -4,7 +4,6 @@
   "description": "Jostens",
   "subnets": {
     "ipv4": [
-      "167.237.0.0/16",
       "192.189.112.0/24"
     ],
     "ipv6": []

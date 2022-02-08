@@ -1,0 +1,12 @@
+{
+  "asn": 398325,
+  "handle": "SALTANT-SOLUTIONS",
+  "description": "Saltant Solutions LLC",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2602:fed2:7126::/48",
+      "2605:e040::/32"
+    ]
+  }
+}

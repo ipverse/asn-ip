@@ -4,10 +4,11 @@
   "description": "LC SERVICOS TELECOMUNICACOES E INFORMATICA EIRELI",
   "subnets": {
     "ipv4": [
+      "45.181.76.0/24",
       "164.163.4.0/24"
     ],
     "ipv6": [
-      "2804:7b64:c000::/34"
+      "2804:7b64::/32"
     ]
   }
 }

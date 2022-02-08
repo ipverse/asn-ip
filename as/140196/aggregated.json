@@ -3,9 +3,7 @@
   "handle": "SINGHTEL-IN",
   "description": "Singh Televentures",
   "subnets": {
-    "ipv4": [
-      "103.155.172.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

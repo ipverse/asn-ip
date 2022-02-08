@@ -3,7 +3,9 @@
   "handle": "IDNIC-POLMAN-ID",
   "description": "Politeknik Manufaktur Negeri Bandung",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.48.27.0/24"
+    ],
     "ipv6": []
   }
 }
