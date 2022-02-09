@@ -4,6 +4,7 @@
   "description": "Asimia Damaskou",
   "subnets": {
     "ipv4": [
+      "154.43.70.0/23",
       "185.226.64.0/22"
     ],
     "ipv6": [

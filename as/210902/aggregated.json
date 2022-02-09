@@ -3,9 +3,7 @@
   "handle": "DAVID-DENIS",
   "description": "David \u0026 Denis Inc.",
   "subnets": {
-    "ipv4": [
-      "207.167.84.0/22"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2602:fbe3::/36",
       "2602:fc01::/36",

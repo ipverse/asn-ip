@@ -4,7 +4,7 @@
   "description": "PROTEC ARGENTINA S.A.",
   "subnets": {
     "ipv4": [
-      "45.172.140.0/22"
+      "45.172.140.0/24"
     ],
     "ipv6": []
   }

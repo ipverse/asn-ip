@@ -4,7 +4,8 @@
   "description": "TRANSMITT TELECOM",
   "subnets": {
     "ipv4": [
-      "45.234.248.0/22"
+      "45.234.248.0/22",
+      "168.181.212.0/24"
     ],
     "ipv6": []
   }

@@ -3,7 +3,9 @@
   "handle": "IPNET-COMUNICAES-LTDA",
   "description": "Ipnet Comunicaes LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "168.205.228.0/22"
+    ],
     "ipv6": [
       "2804:2f14::/32"
     ]

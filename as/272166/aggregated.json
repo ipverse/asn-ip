@@ -4,6 +4,8 @@
   "description": "GOLDEN TECHNOLOGIA LTDA - ME",
   "subnets": {
     "ipv4": [
+      "45.235.126.0/24",
+      "45.235.240.0/22",
       "177.44.191.0/24"
     ],
     "ipv6": []

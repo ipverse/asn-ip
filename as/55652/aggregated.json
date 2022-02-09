@@ -4,7 +4,8 @@
   "description": "Sumidhaz Permata Bunda, PT",
   "subnets": {
     "ipv4": [
-      "27.121.80.0/21"
+      "27.121.80.0/21",
+      "103.179.64.0/23"
     ],
     "ipv6": []
   }

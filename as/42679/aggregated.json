@@ -3,7 +3,9 @@
   "handle": "IPT",
   "description": "IPT d.o.o.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "89.164.96.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "SBPL",
   "description": "Sona Business Pvt. Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "188.213.84.0/23"
+    ],
     "ipv6": []
   }
 }

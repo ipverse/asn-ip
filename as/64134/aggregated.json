@@ -3,9 +3,7 @@
   "handle": "VISNETWORK-SRL",
   "description": "VISNETWORK SRL",
   "subnets": {
-    "ipv4": [
-      "191.101.63.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

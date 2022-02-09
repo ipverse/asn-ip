@@ -3,7 +3,10 @@
   "handle": "O-TEPLOSET",
   "description": "Odintsovskaya teploset, JSC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.87.76.0/24",
+      "195.133.32.0/24"
+    ],
     "ipv6": []
   }
 }

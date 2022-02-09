@@ -3,11 +3,7 @@
   "handle": "TIAGO-MUNIZ-DA-SILVA-ME",
   "description": "tiago muniz da silva m.e",
   "subnets": {
-    "ipv4": [
-      "45.5.140.0/22"
-    ],
-    "ipv6": [
-      "2804:3a9c::/32"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

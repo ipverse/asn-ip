@@ -3,7 +3,9 @@
   "handle": "FMTSJLLC-SAJ",
   "description": "FMT SJ LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "23.139.176.0/24"
+    ],
     "ipv6": []
   }
 }

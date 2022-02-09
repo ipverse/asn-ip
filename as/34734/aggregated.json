@@ -1,0 +1,14 @@
+{
+  "asn": 34734,
+  "handle": "EXPRESS-EQUINIX-NEW-YORK",
+  "description": "A\u0026F Networks B.V.",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a11:3780::/29",
+      "2a11:3880::/29",
+      "2a11:3980::/29",
+      "2a11:3a80::/29"
+    ]
+  }
+}

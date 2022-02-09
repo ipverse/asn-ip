@@ -3,9 +3,7 @@
   "handle": "SOHANET",
   "description": "Soha Jin",
   "subnets": {
-    "ipv4": [
-      "44.159.73.0/24"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2404:7ac0:6b4::/48",
       "2a0e:aa06:400::/44"

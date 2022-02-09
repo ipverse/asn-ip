@@ -4,7 +4,8 @@
   "description": "Maeil Business Newspaper",
   "subnets": {
     "ipv4": [
-      "203.238.56.0/22"
+      "203.238.56.0/22",
+      "220.72.24.0/24"
     ],
     "ipv6": []
   }

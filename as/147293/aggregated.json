@@ -1,11 +1,13 @@
 {
   "asn": 147293,
   "handle": "NEAROUTE-AP",
-  "description": "ALLIANCE INTELLIGENT TECHNOLOGIES PTE. LTD.",
+  "description": "NEAROUTE LIMITED",
   "subnets": {
     "ipv4": [
       "146.19.174.0/24"
     ],
-    "ipv6": []
+    "ipv6": [
+      "2001:df0:64c0::/48"
+    ]
   }
 }

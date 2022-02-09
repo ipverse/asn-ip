@@ -3,7 +3,9 @@
   "handle": "MAURICIO-DE-OLIVEIRA",
   "description": "MAURICIO DE OLIVEIRA PROVEDOR DE INTERNET - ME",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "200.106.177.0/24"
+    ],
     "ipv6": [
       "2804:7f88::/32"
     ]

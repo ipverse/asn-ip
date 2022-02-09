@@ -3,7 +3,9 @@
   "handle": "MWC-BH-ITC",
   "description": "Mitchell-Wayne Technologies",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "64.129.223.0/24"
+    ],
     "ipv6": []
   }
 }

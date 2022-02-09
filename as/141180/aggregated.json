@@ -3,7 +3,9 @@
   "handle": "HIPL-AP",
   "description": "HUAWEI INTERNATIONAL PTE. LTD.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "87.119.0.0/24"
+    ],
     "ipv6": [
       "2405:f080:9ff::/48"
     ]

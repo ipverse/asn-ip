@@ -1,0 +1,11 @@
+{
+  "asn": 149497,
+  "handle": "SONARGAONSUPERNET-AP",
+  "description": "Sonargaon Supernet",
+  "subnets": {
+    "ipv4": [
+      "103.181.72.0/23"
+    ],
+    "ipv6": []
+  }
+}

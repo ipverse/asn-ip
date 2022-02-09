@@ -4,8 +4,7 @@
   "description": "catalyst2 Services Limited",
   "subnets": {
     "ipv4": [
-      "84.18.192.0/19",
-      "185.136.250.0/23"
+      "84.18.192.0/19"
     ],
     "ipv6": [
       "2001:4c20::/32"

@@ -3,7 +3,9 @@
   "handle": "PLANETT-PROVEDORA-DE-IN-LTDA",
   "description": "PLANETT PROVEDORA DE IN LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "177.39.104.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "LOPES-TELECOM-EIRELI",
   "description": "LOPES TELECOM EIRELI",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "186.209.164.0/22"
+    ],
     "ipv6": [
       "2804:7b68::/44",
       "2804:7b68:f0::/44"

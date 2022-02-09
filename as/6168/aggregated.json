@@ -3,10 +3,7 @@
   "handle": "EK-GROUP",
   "description": "Emirates Airline",
   "subnets": {
-    "ipv4": [
-      "131.108.190.0/23",
-      "168.228.102.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

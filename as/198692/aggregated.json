@@ -4,6 +4,7 @@
   "description": "Bytesnet Groningen B.V.",
   "subnets": {
     "ipv4": [
+      "82.150.138.0/24",
       "91.238.154.0/23"
     ],
     "ipv6": [

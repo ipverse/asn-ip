@@ -1,0 +1,11 @@
+{
+  "asn": 10650,
+  "handle": "EXTREME",
+  "description": "Extreme Internet",
+  "subnets": {
+    "ipv4": [
+      "46.6.120.0/21"
+    ],
+    "ipv6": []
+  }
+}

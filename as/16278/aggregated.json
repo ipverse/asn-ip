@@ -4,7 +4,8 @@
   "description": "Sentia Netherlands BV",
   "subnets": {
     "ipv4": [
-      "89.30.224.0/22"
+      "89.30.224.0/22",
+      "195.95.177.0/24"
     ],
     "ipv6": [
       "2a02:20b2::/32"

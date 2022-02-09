@@ -1,0 +1,11 @@
+{
+  "asn": 3231,
+  "handle": "RESERVED",
+  "description": "RIPE NCC ASN block",
+  "subnets": {
+    "ipv4": [
+      "161.132.3.0/24"
+    ],
+    "ipv6": []
+  }
+}
