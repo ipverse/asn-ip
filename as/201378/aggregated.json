@@ -4,7 +4,8 @@
   "description": "Zajil International Telecom Company W.L.L.",
   "subnets": {
     "ipv4": [
-      "80.184.162.0/24"
+      "80.184.162.0/24",
+      "80.184.196.0/22"
     ],
     "ipv6": []
   }

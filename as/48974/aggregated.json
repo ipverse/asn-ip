@@ -1,0 +1,12 @@
+{
+  "asn": 48974,
+  "handle": "I-INVEST",
+  "description": "SC ITNS.NET SRL",
+  "subnets": {
+    "ipv4": [
+      "195.88.104.0/23",
+      "195.88.146.0/23"
+    ],
+    "ipv6": []
+  }
+}

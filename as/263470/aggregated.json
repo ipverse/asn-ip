@@ -4,7 +4,7 @@
   "description": "WAY.COM PROVEDOR BANDA LARGA EIRELI",
   "subnets": {
     "ipv4": [
-      "170.83.200.0/24",
+      "170.83.200.0/22",
       "191.242.48.0/21"
     ],
     "ipv6": [

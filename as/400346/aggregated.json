@@ -4,7 +4,8 @@
   "description": "Apogee Telecom Inc.",
   "subnets": {
     "ipv4": [
-      "64.189.193.0/24"
+      "64.189.193.0/24",
+      "64.189.198.0/24"
     ],
     "ipv6": []
   }

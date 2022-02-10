@@ -4,6 +4,7 @@
   "description": "Conference America, Inc.",
   "subnets": {
     "ipv4": [
+      "8.20.245.0/24",
       "199.233.192.0/24"
     ],
     "ipv6": []

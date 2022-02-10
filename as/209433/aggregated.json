@@ -1,0 +1,14 @@
+{
+  "asn": 209433,
+  "handle": "ASNCMTL",
+  "description": "COMTEL TOTAL-NETWORKS SRL",
+  "subnets": {
+    "ipv4": [
+      "45.86.136.0/24",
+      "193.226.80.0/24",
+      "193.230.184.0/24",
+      "193.230.208.0/24"
+    ],
+    "ipv6": []
+  }
+}

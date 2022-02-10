@@ -4,7 +4,8 @@
   "description": "L.C.DE CARVALHO CARNEIRO-ME",
   "subnets": {
     "ipv4": [
-      "168.90.136.0/22"
+      "168.90.137.0/24",
+      "168.90.138.0/23"
     ],
     "ipv6": []
   }

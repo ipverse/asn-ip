@@ -4,8 +4,6 @@
   "description": "GNRede Telecom",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2804:8208::/32"
-    ]
+    "ipv6": []
   }
 }

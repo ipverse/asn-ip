@@ -3,11 +3,7 @@
   "handle": "PADICOM",
   "description": "PADICOM SOLUTIONS SRL",
   "subnets": {
-    "ipv4": [
-      "193.226.80.0/24",
-      "193.230.184.0/24",
-      "193.230.208.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

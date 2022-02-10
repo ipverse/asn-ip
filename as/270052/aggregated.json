@@ -3,7 +3,9 @@
   "handle": "ARANDA-CARDOZO-LIDER-RAMON",
   "description": "ARANDA CARDOZO LIDER RAMON",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "138.59.224.0/22"
+    ],
     "ipv6": []
   }
 }

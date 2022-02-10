@@ -3,7 +3,9 @@
   "handle": "IDNIC-BLACKFAOS-ID",
   "description": "PT Blackfaos Data Nusantara",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.175.84.0/23"
+    ],
     "ipv6": []
   }
 }

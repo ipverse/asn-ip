@@ -3,7 +3,10 @@
   "handle": "IDNIC-ISN-ID",
   "description": "PT. InfoMedia Solusi Net",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.105.192.0/24",
+      "103.105.195.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,9 +3,7 @@
   "handle": "ZUIJLEN",
   "description": "Remco van Zuijlen",
   "subnets": {
-    "ipv4": [
-      "44.137.0.0/16"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2a0e:46c3:200::/40",
       "2a0e:b107:220::/44"

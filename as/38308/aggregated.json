@@ -3,7 +3,9 @@
   "handle": "AUGUSTINTERNET-AP",
   "description": "August Internet",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "203.77.180.0/22"
+    ],
     "ipv6": [
       "2602:fc23:10e::/48",
       "2602:feda:184::/48"
