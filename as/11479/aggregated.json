@@ -4,8 +4,7 @@
   "description": "Oracle Corporation",
   "subnets": {
     "ipv4": [
-      "129.157.64.0/19",
-      "198.51.38.0/24"
+      "129.157.64.0/19"
     ],
     "ipv6": []
   }

@@ -4,7 +4,8 @@
   "description": "Central de Comun. e Tecnologia Kenedy \u0026 Santo LTDA",
   "subnets": {
     "ipv4": [
-      "45.162.220.0/22"
+      "45.162.220.0/23",
+      "45.162.222.0/24"
     ],
     "ipv6": [
       "2804:52b4::/32"

@@ -4,7 +4,8 @@
   "description": "International Textile Group, Inc.",
   "subnets": {
     "ipv4": [
-      "168.241.0.0/16"
+      "168.241.0.0/16",
+      "198.22.137.0/24"
     ],
     "ipv6": []
   }

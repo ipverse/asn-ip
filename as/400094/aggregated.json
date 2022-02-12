@@ -1,0 +1,11 @@
+{
+  "asn": 400094,
+  "handle": "ANTERIOR-BROADBAND",
+  "description": "Anterior Broadband",
+  "subnets": {
+    "ipv4": [
+      "205.159.34.0/24"
+    ],
+    "ipv6": []
+  }
+}

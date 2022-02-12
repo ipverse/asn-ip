@@ -1,0 +1,11 @@
+{
+  "asn": 201831,
+  "handle": "ACTIVETRADES",
+  "description": "ActivTrades Plc.",
+  "subnets": {
+    "ipv4": [
+      "185.62.152.0/24"
+    ],
+    "ipv6": []
+  }
+}

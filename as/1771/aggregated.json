@@ -4,7 +4,6 @@
   "description": "X.25 Holding AS",
   "subnets": {
     "ipv4": [
-      "193.84.51.0/24",
       "193.201.220.0/22"
     ],
     "ipv6": []

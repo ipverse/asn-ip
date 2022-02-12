@@ -1,0 +1,12 @@
+{
+  "asn": 26282,
+  "handle": "SYMANTEC-US",
+  "description": "Avago Technologies U.S. Inc.",
+  "subnets": {
+    "ipv4": [
+      "130.119.1.0/24",
+      "130.119.2.0/24"
+    ],
+    "ipv6": []
+  }
+}

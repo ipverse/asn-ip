@@ -3,9 +3,7 @@
   "handle": "IDNIC-SIJAYA-ID",
   "description": "PT Solusi Jaya Nusantara",
   "subnets": {
-    "ipv4": [
-      "103.179.216.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

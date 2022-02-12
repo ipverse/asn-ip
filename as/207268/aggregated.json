@@ -4,6 +4,9 @@
   "description": "STRATEGIC EXPLORATIONS LTD",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a0c:b641:7a1::/48",
+      "2a0c:b641:7a2::/48"
+    ]
   }
 }

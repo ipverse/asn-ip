@@ -3,7 +3,9 @@
   "handle": "RB",
   "description": "Riyad bank",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.205.24.0/22"
+    ],
     "ipv6": [
       "2a00:1560:d::/48"
     ]

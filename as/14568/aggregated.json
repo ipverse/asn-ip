@@ -4,7 +4,6 @@
   "description": "North American Van Lines",
   "subnets": {
     "ipv4": [
-      "206.208.243.0/24",
       "206.208.244.0/24"
     ],
     "ipv6": []

@@ -3,11 +3,7 @@
   "handle": "FX-PRIMARY",
   "description": "CallPlus Services Limited",
   "subnets": {
-    "ipv4": [
-      "223.165.16.0/22"
-    ],
-    "ipv6": [
-      "2403:c200::/32"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

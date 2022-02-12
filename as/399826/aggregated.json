@@ -1,0 +1,13 @@
+{
+  "asn": 399826,
+  "handle": "WBI-CB",
+  "description": "Webiffi LLC",
+  "subnets": {
+    "ipv4": [
+      "23.131.56.0/24"
+    ],
+    "ipv6": [
+      "2606:a9c0::/32"
+    ]
+  }
+}

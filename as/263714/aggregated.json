@@ -3,7 +3,9 @@
   "handle": "APICASA-SA-MEGAPACA",
   "description": "APICASA S.A. (MEGAPACA)",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "201.131.73.0/24"
+    ],
     "ipv6": []
   }
 }

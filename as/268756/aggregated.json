@@ -4,11 +4,8 @@
   "description": "Hyperfibra Telecomunicaes e Engenharia LTDA",
   "subnets": {
     "ipv4": [
-      "45.172.80.0/22",
-      "191.96.2.0/24"
+      "45.172.80.0/22"
     ],
-    "ipv6": [
-      "2804:5a38::/32"
-    ]
+    "ipv6": []
   }
 }

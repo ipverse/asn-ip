@@ -4,8 +4,7 @@
   "description": "American Center for Physics",
   "subnets": {
     "ipv4": [
-      "149.28.0.0/22",
-      "149.28.4.0/23",
+      "149.28.5.0/24",
       "208.76.207.0/24"
     ],
     "ipv6": []
