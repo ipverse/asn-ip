@@ -4,9 +4,6 @@
   "description": "Jan Betik",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2602:feda:3e0::/44",
-      "2a0e:b107:ae0::/44"
-    ]
+    "ipv6": []
   }
 }

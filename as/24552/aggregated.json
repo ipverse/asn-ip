@@ -3,9 +3,7 @@
   "handle": "AVAGOTECH-AP",
   "description": "Avago Technologies Internatonal Sales Pte. Ltd.",
   "subnets": {
-    "ipv4": [
-      "135.14.217.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

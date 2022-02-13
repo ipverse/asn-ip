@@ -3,10 +3,7 @@
   "handle": "IDNIC-INETKU-ID",
   "description": "PT. Pemuda Berkarya Manunggal",
   "subnets": {
-    "ipv4": [
-      "103.224.100.0/22",
-      "103.227.144.0/22"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

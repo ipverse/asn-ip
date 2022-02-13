@@ -3,9 +3,7 @@
   "handle": "NZICA-NET-NZ",
   "description": "Institute of Chartered Accountants of New Zealand",
   "subnets": {
-    "ipv4": [
-      "202.27.78.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

@@ -1,0 +1,12 @@
+{
+  "asn": 400304,
+  "handle": "REDOUBT-NET",
+  "description": "REDOUBT NETWORKS",
+  "subnets": {
+    "ipv4": [
+      "193.149.164.0/24",
+      "216.181.107.0/24"
+    ],
+    "ipv6": []
+  }
+}

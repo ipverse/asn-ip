@@ -3,7 +3,10 @@
   "handle": "PREFERRED-NETWORKS",
   "description": "Pyramid.Net",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "216.163.196.0/23",
+      "216.163.200.0/21"
+    ],
     "ipv6": []
   }
 }

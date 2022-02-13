@@ -4,8 +4,7 @@
   "description": "KTB COMPUTER SERVICES COMPANY LIMITED",
   "subnets": {
     "ipv4": [
-      "103.162.109.0/24",
-      "167.94.112.0/24"
+      "167.94.112.0/23"
     ],
     "ipv6": []
   }

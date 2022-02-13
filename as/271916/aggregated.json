@@ -3,7 +3,9 @@
   "handle": "TELECABLE-BANILEJO-SRL",
   "description": "TELECABLE BANILEJO S.R.L",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.194.48.0/22"
+    ],
     "ipv6": [
       "2803:4a10::/32"
     ]

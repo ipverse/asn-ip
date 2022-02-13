@@ -3,7 +3,11 @@
   "handle": "GLOBALH",
   "description": "GLOBAL HOST 23 S.R.L",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "146.19.75.0/24",
+      "149.12.125.0/24",
+      "176.126.175.0/24"
+    ],
     "ipv6": []
   }
 }

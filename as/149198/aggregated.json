@@ -3,7 +3,9 @@
   "handle": "SICARE-IN",
   "description": "Si Care Private Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.177.154.0/23"
+    ],
     "ipv6": []
   }
 }

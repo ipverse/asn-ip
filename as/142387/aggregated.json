@@ -3,7 +3,9 @@
   "handle": "IDNIC-IJE-ID",
   "description": "PT Integrasi Jaringan Ekosistem",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.172.24.0/23"
+    ],
     "ipv6": []
   }
 }

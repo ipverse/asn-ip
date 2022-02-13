@@ -3,9 +3,7 @@
   "handle": "VAMOSNET-TELECOMUNICAES-LTDA",
   "description": "VAMOSNET TELECOMUNICAES LTDA",
   "subnets": {
-    "ipv4": [
-      "177.72.144.0/23"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2804:8234::/32"
     ]

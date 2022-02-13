@@ -3,10 +3,7 @@
   "handle": "SBSPL-IN",
   "description": "Shiva Broadband Services Pvt Ltd",
   "subnets": {
-    "ipv4": [
-      "103.106.152.0/23",
-      "103.106.154.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

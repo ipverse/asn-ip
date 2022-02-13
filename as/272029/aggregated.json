@@ -1,0 +1,11 @@
+{
+  "asn": 272029,
+  "handle": "FIBER-CABLE-EIRL",
+  "description": "FIBER CABLE E.I.R.L.",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2803:9510::/32"
+    ]
+  }
+}
