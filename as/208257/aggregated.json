@@ -3,7 +3,9 @@
   "handle": "SIMPLE2",
   "description": "CELENETWORKS SL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.251.70.0/24"
+    ],
     "ipv6": [
       "2a0f:f200::/29"
     ]

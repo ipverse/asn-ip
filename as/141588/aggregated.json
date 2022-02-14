@@ -4,8 +4,7 @@
   "description": "PT Natakarya Mediatama",
   "subnets": {
     "ipv4": [
-      "103.160.136.0/24",
-      "103.228.24.0/22"
+      "103.160.136.0/24"
     ],
     "ipv6": []
   }

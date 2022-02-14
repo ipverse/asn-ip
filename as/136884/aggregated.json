@@ -3,7 +3,9 @@
   "handle": "IDNIC-JATIM-ID",
   "description": "Dinas Komunikasi dan Informatika Provinsi jawa timur",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.106.74.0/23"
+    ],
     "ipv6": []
   }
 }

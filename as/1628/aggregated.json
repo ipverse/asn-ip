@@ -3,10 +3,7 @@
   "handle": "COMMDNS",
   "description": "Community DNS Ltd.",
   "subnets": {
-    "ipv4": [
-      "74.116.176.0/24",
-      "74.116.178.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }
