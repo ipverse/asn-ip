@@ -3,9 +3,7 @@
   "handle": "EPWIFI",
   "description": "Daniel Calderon Dominguez",
   "subnets": {
-    "ipv4": [
-      "185.244.234.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

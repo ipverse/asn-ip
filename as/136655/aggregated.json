@@ -3,7 +3,9 @@
   "handle": "IPCONIPL-IN",
   "description": "IPCON INTERNATIONAL PRIVATE LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.97.103.0/24"
+    ],
     "ipv6": []
   }
 }

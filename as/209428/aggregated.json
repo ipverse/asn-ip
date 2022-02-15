@@ -4,6 +4,8 @@
   "description": "DSCW SAS",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a09:5ec0::/29"
+    ]
   }
 }

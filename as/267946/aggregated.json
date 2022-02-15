@@ -4,7 +4,8 @@
   "description": "MARIA JUSCINEIDE FERREIRA",
   "subnets": {
     "ipv4": [
-      "45.166.64.0/22"
+      "45.166.64.0/22",
+      "191.7.2.0/24"
     ],
     "ipv6": [
       "2804:55a0::/32"

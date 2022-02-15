@@ -4,6 +4,7 @@
   "description": "Neolink Telecomunicaes LTDA",
   "subnets": {
     "ipv4": [
+      "45.175.116.0/22",
       "45.235.192.0/22",
       "131.255.48.0/22",
       "138.219.208.0/22",

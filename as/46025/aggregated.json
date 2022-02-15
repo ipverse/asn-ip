@@ -3,7 +3,9 @@
   "handle": "CBN-GLOBAL-ID",
   "description": "PT. Cyberindo Aditama",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "101.50.19.0/24"
+    ],
     "ipv6": [
       "2402:9800:4004::/48"
     ]

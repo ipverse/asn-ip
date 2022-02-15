@@ -3,9 +3,7 @@
   "handle": "SHIPCOITPVTLTD-AP",
   "description": "Shipco IT Pvt Ltd",
   "subnets": {
-    "ipv4": [
-      "103.13.0.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

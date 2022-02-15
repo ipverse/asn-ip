@@ -3,7 +3,9 @@
   "handle": "PRACHAR",
   "description": "Pracharnama Media Pvt. Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.111.40.0/22"
+    ],
     "ipv6": []
   }
 }

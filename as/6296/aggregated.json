@@ -3,9 +3,7 @@
   "handle": "MIND",
   "description": "InfoStructure",
   "subnets": {
-    "ipv4": [
-      "69.9.128.0/19"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

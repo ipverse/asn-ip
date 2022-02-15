@@ -4,7 +4,8 @@
   "description": "PT Giga Digital Nusantara",
   "subnets": {
     "ipv4": [
-      "103.159.194.0/23"
+      "103.159.194.0/23",
+      "103.172.71.0/24"
     ],
     "ipv6": []
   }
