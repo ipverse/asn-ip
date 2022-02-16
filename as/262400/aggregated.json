@@ -3,12 +3,7 @@
   "handle": "VIRTUALIS-PROVEDOR-DE",
   "description": "Virtualis Provedor de Telecomunicaes Eireli",
   "subnets": {
-    "ipv4": [
-      "170.231.8.0/22",
-      "177.38.64.0/22"
-    ],
-    "ipv6": [
-      "2804:3d0::/32"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

@@ -3,9 +3,7 @@
   "handle": "OPEN-BIN-1",
   "description": "Public Joint-Stock Company Bank Otkritie Financial Corporation",
   "subnets": {
-    "ipv4": [
-      "195.239.54.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

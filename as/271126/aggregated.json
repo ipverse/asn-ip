@@ -4,7 +4,8 @@
   "description": "GLEIBSON DOS SANTOS ALVES DE SA",
   "subnets": {
     "ipv4": [
-      "179.42.37.0/24"
+      "179.42.37.0/24",
+      "179.42.39.0/24"
     ],
     "ipv6": []
   }

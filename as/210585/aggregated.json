@@ -3,7 +3,9 @@
   "handle": "ISO-CHEMIE",
   "description": "Iso-Chemie GmbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.23.211.0/24"
+    ],
     "ipv6": []
   }
 }

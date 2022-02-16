@@ -1,0 +1,12 @@
+{
+  "asn": 400045,
+  "handle": "DUMONT-TELEPHONE-COMPANY",
+  "description": "Dumont Telephone Company",
+  "subnets": {
+    "ipv4": [
+      "66.43.196.0/24",
+      "167.142.243.0/24"
+    ],
+    "ipv6": []
+  }
+}

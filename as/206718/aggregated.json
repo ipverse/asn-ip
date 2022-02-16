@@ -4,8 +4,7 @@
   "description": "RFE/RL, Inc., organizacni slozka",
   "subnets": {
     "ipv4": [
-      "62.4.108.0/24",
-      "62.4.116.0/24"
+      "62.4.108.0/24"
     ],
     "ipv6": []
   }

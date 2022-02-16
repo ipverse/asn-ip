@@ -4,7 +4,7 @@
   "description": "SPIE Cloud Services SAS",
   "subnets": {
     "ipv4": [
-      "37.18.42.0/24",
+      "37.18.42.0/23",
       "185.52.127.0/24"
     ],
     "ipv6": [

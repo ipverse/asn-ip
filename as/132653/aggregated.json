@@ -4,8 +4,7 @@
   "description": "PT Transdata Sejahtera",
   "subnets": {
     "ipv4": [
-      "103.25.208.0/22",
-      "202.46.152.0/22"
+      "202.46.154.0/24"
     ],
     "ipv6": []
   }

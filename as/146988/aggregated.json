@@ -3,7 +3,9 @@
   "handle": "ASTHANETWORKS-AP",
   "description": "Astha Networks",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.172.112.0/24"
+    ],
     "ipv6": []
   }
 }
