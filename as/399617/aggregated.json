@@ -3,7 +3,9 @@
   "handle": "DALLAS-COUNTY-DATA",
   "description": "Satellite Center, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "104.249.146.0/24"
+    ],
     "ipv6": []
   }
 }

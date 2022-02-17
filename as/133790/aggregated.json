@@ -4,8 +4,6 @@
   "description": "Zeofast Network",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2001:df3:3a80::/48"
-    ]
+    "ipv6": []
   }
 }

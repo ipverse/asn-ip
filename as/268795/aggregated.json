@@ -4,7 +4,8 @@
   "description": "TELECONSULT TELECOMUNICACOES EIRELI",
   "subnets": {
     "ipv4": [
-      "45.172.196.0/22"
+      "45.172.197.0/24",
+      "45.172.198.0/23"
     ],
     "ipv6": [
       "2804:5ac4::/34"

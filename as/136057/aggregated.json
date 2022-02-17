@@ -3,7 +3,9 @@
   "handle": "IDNIC-PLATINUMCYBER-ID",
   "description": "PT.PLATINUM CITRA INDONESIA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.82.126.0/23"
+    ],
     "ipv6": []
   }
 }

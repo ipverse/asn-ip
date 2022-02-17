@@ -3,9 +3,7 @@
   "handle": "PRO-HOTELS",
   "description": "Pro Hotels S.R.L.",
   "subnets": {
-    "ipv4": [
-      "89.47.192.0/22"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

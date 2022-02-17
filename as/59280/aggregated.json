@@ -3,7 +3,9 @@
   "handle": "IDNIC-KAILIGLOBAL-ID",
   "description": "PT. Kaili Global",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.228.24.0/22"
+    ],
     "ipv6": []
   }
 }

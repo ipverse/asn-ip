@@ -4,6 +4,7 @@
   "description": "Bodis, LLC",
   "subnets": {
     "ipv4": [
+      "199.59.242.0/24",
       "216.120.146.0/23"
     ],
     "ipv6": []

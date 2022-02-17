@@ -4,8 +4,7 @@
   "description": "Northern Point Technology Private Limited",
   "subnets": {
     "ipv4": [
-      "143.92.105.0/24",
-      "143.92.106.0/23"
+      "143.92.104.0/22"
     ],
     "ipv6": []
   }

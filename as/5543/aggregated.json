@@ -3,11 +3,7 @@
   "handle": "ALTROUTER-ASN1",
   "description": "Joint Stock Company TransTeleCom",
   "subnets": {
-    "ipv4": [
-      "193.22.6.0/24"
-    ],
-    "ipv6": [
-      "2a12:6740::/32"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }
