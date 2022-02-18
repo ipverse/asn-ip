@@ -3,7 +3,9 @@
   "handle": "IDNIC-PLNBATAM-ID",
   "description": "PT Pelayanan Listrik Nasional (PLN) Batam",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.172.170.0/24"
+    ],
     "ipv6": []
   }
 }

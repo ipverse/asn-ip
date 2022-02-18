@@ -4,7 +4,8 @@
   "description": "Dynamic Connection SRL",
   "subnets": {
     "ipv4": [
-      "89.40.24.0/21"
+      "89.40.24.0/21",
+      "194.88.202.0/23"
     ],
     "ipv6": []
   }

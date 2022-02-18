@@ -1,0 +1,11 @@
+{
+  "asn": 132601,
+  "handle": "ISMAIL-AP",
+  "description": "Ismail It Solution",
+  "subnets": {
+    "ipv4": [
+      "103.181.180.0/23"
+    ],
+    "ipv6": []
+  }
+}

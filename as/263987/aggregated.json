@@ -3,9 +3,7 @@
   "handle": "ESOLUTION-INFORMATICA",
   "description": "ESOLUTION INFORMATICA",
   "subnets": {
-    "ipv4": [
-      "138.255.180.0/22"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2804:28ec::/32"
     ]

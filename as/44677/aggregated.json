@@ -3,11 +3,7 @@
   "handle": "MTS-KRV",
   "description": "MTS PJSC",
   "subnets": {
-    "ipv4": [
-      "92.39.68.0/24"
-    ],
-    "ipv6": [
-      "2a00:1898::/32"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

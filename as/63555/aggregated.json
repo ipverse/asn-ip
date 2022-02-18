@@ -3,7 +3,9 @@
   "handle": "CNBIDCC",
   "description": "Beijing Beilong Yunhai Network Data Technology Corporation",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "223.0.0.0/15"
+    ],
     "ipv6": []
   }
 }

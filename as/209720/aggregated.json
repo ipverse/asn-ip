@@ -1,0 +1,11 @@
+{
+  "asn": 209720,
+  "handle": "MULTINET-LUG",
+  "description": "LLC Multinet-Lugan",
+  "subnets": {
+    "ipv4": [
+      "92.118.134.0/24"
+    ],
+    "ipv6": []
+  }
+}

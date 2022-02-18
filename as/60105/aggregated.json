@@ -3,9 +3,7 @@
   "handle": "HOME-GROUP",
   "description": "Home Group Ltd",
   "subnets": {
-    "ipv4": [
-      "185.8.89.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

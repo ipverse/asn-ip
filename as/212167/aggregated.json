@@ -3,7 +3,9 @@
   "handle": "PAU-EDU",
   "description": "Pamukkale University",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.255.52.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,11 @@
   "handle": "C-V-DE-MELO-FNET",
   "description": "C V DE MELO FNET",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "181.232.200.0/22"
+    ],
+    "ipv6": [
+      "2804:7c54::/32"
+    ]
   }
 }

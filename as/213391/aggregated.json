@@ -3,7 +3,9 @@
   "handle": "A2-CUSTOMER",
   "description": "Access2.IT Group B.V.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.228.251.0/24"
+    ],
     "ipv6": []
   }
 }

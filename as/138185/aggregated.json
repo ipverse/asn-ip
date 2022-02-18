@@ -3,7 +3,9 @@
   "handle": "COSMICNETPVTLTD-AP",
   "description": "COSMIC NET PRIVATE LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.129.132.0/22"
+    ],
     "ipv6": []
   }
 }

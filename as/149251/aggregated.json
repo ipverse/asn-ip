@@ -3,9 +3,7 @@
   "handle": "FROZECOMM-IN",
   "description": "Froze Communications Private Limited",
   "subnets": {
-    "ipv4": [
-      "103.179.106.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

@@ -4,7 +4,7 @@
   "description": "Managed Hosting Services, LLC",
   "subnets": {
     "ipv4": [
-      "198.183.220.0/24",
+      "198.183.220.0/23",
       "198.183.223.0/24"
     ],
     "ipv6": []

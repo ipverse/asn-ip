@@ -4,8 +4,11 @@
   "description": "MEGA DAT INFORMTICA E TELECOM",
   "subnets": {
     "ipv4": [
-      "138.0.109.0/24"
+      "138.0.108.0/22"
     ],
-    "ipv6": []
+    "ipv6": [
+      "2804:73e4::/33",
+      "2804:73e4:8000::/34"
+    ]
   }
 }

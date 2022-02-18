@@ -3,7 +3,12 @@
   "handle": "COBASO-NET",
   "description": "Cobaso, LLC.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.45.193.0/24"
+    ],
+    "ipv6": [
+      "2602:fc5d:ba6::/48",
+      "2602:fc5d:c0a::/48"
+    ]
   }
 }

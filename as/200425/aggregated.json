@@ -4,7 +4,7 @@
   "description": "Betgenius Limited",
   "subnets": {
     "ipv4": [
-      "185.107.196.0/23"
+      "185.107.196.0/24"
     ],
     "ipv6": [
       "2a06:45c0::/32"
