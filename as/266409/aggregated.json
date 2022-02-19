@@ -1,11 +1,10 @@
 {
   "asn": 266409,
-  "handle": "SECW-TELECOM",
-  "description": "SECW TELECOM",
+  "handle": "LUCELIA-PATRICIA-ESCAJADILLO",
+  "description": "LUCELIA PATRICIA ESCAJADILLO DE LA TORRE",
   "subnets": {
     "ipv4": [
-      "170.81.68.0/22",
-      "177.126.47.0/24"
+      "170.81.68.0/22"
     ],
     "ipv6": [
       "2804:3764::/32"

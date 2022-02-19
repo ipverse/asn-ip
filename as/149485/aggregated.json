@@ -4,6 +4,7 @@
   "description": "MonoCloud Pty Ltd",
   "subnets": {
     "ipv4": [
+      "45.138.211.0/24",
       "103.181.1.0/24"
     ],
     "ipv6": []

@@ -4,8 +4,7 @@
   "description": "HCL Technologies Germany GmbH",
   "subnets": {
     "ipv4": [
-      "185.161.80.0/24",
-      "185.161.82.0/23"
+      "185.161.80.0/22"
     ],
     "ipv6": []
   }

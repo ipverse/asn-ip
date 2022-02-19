@@ -4,8 +4,7 @@
   "description": "Reliance Industries Limited",
   "subnets": {
     "ipv4": [
-      "116.50.64.0/18",
-      "203.199.41.0/24"
+      "116.50.64.0/18"
     ],
     "ipv6": [
       "2402:8e00::/32"

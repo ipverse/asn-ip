@@ -4,11 +4,13 @@
   "description": "GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI",
   "subnets": {
     "ipv4": [
+      "5.182.247.0/24",
       "31.210.37.0/24",
       "31.210.38.0/24",
       "38.10.68.0/22",
       "38.41.52.0/22",
-      "45.12.54.0/23"
+      "45.12.54.0/23",
+      "178.159.35.0/24"
     ],
     "ipv6": [
       "2a0a:4944::/30"

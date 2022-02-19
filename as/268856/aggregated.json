@@ -3,9 +3,7 @@
   "handle": "GUMNET-SERVIOS-DE",
   "description": "GUMNET SERVIOS DE PROVEDOR DE INTERNET LTDA.",
   "subnets": {
-    "ipv4": [
-      "45.174.152.0/22"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

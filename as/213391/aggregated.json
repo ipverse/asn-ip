@@ -4,6 +4,7 @@
   "description": "Access2.IT Group B.V.",
   "subnets": {
     "ipv4": [
+      "77.83.240.0/24",
       "185.228.251.0/24"
     ],
     "ipv6": []

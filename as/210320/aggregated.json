@@ -3,9 +3,7 @@
   "handle": "ZH-NETWORK",
   "description": "Zihan Sun",
   "subnets": {
-    "ipv4": [
-      "174.136.238.0/24"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2404:f4c0:a002::/48",
       "2404:f4c0:a004::/47",

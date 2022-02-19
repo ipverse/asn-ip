@@ -4,6 +4,8 @@
   "description": "Gamers Outreach",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2602:fde1:bb8::/48"
+    ]
   }
 }

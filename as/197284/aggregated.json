@@ -3,9 +3,7 @@
   "handle": "PANTELSK",
   "description": "Turk Telekom International SK, s.r.o",
   "subnets": {
-    "ipv4": [
-      "91.245.7.0/24"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2a03:6e0:8000::/33"
     ]

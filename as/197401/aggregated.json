@@ -3,9 +3,7 @@
   "handle": "U2NET",
   "description": "LLC Upravlyayushaya kompaniya Nash Dom",
   "subnets": {
-    "ipv4": [
-      "46.21.240.0/22"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

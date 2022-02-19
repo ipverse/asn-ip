@@ -4,6 +4,8 @@
   "description": "Christopher Munz-Michielin",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2602:fed2:7107::/48"
+    ]
   }
 }

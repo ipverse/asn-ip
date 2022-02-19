@@ -3,7 +3,10 @@
   "handle": "SMARTLINK-ISP",
   "description": "Smart Link Company for Internet Service, special company and limited responsibility",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.157.53.0/24",
+      "45.157.54.0/23"
+    ],
     "ipv6": []
   }
 }

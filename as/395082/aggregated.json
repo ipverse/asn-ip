@@ -3,9 +3,7 @@
   "handle": "BODIS-NJ",
   "description": "Bodis, LLC",
   "subnets": {
-    "ipv4": [
-      "199.59.241.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

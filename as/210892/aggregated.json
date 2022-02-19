@@ -4,8 +4,7 @@
   "description": "Lightspeed Networks Ltd",
   "subnets": {
     "ipv4": [
-      "5.1.45.0/24",
-      "37.44.228.0/22"
+      "5.1.45.0/24"
     ],
     "ipv6": []
   }

@@ -4,8 +4,7 @@
   "description": "Netlike Telekomunikasyon Hizmetleri AS",
   "subnets": {
     "ipv4": [
-      "185.14.173.0/24",
-      "185.14.174.0/23"
+      "185.14.172.0/22"
     ],
     "ipv6": []
   }

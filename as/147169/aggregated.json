@@ -1,0 +1,11 @@
+{
+  "asn": 147169,
+  "handle": "IDNIC-TOPUPGROUP-ID",
+  "description": "CV Top Up Group",
+  "subnets": {
+    "ipv4": [
+      "103.177.106.0/24"
+    ],
+    "ipv6": []
+  }
+}

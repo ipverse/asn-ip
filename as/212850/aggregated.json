@@ -4,6 +4,7 @@
   "description": "Omnia Alkher for internet services Limited Liability/Private Company",
   "subnets": {
     "ipv4": [
+      "45.194.26.0/24",
       "109.107.155.0/24",
       "185.120.140.0/24"
     ],
