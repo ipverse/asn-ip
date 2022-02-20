@@ -3,7 +3,9 @@
   "handle": "TREJJCOMMS",
   "description": "TREJJ COMMUNICATIONS LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "37.44.212.0/24"
+    ],
     "ipv6": []
   }
 }

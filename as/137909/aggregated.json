@@ -3,11 +3,7 @@
   "handle": "GLOBIUS-AP",
   "description": "VMHaus Limited",
   "subnets": {
-    "ipv4": [
-      "142.202.137.0/24"
-    ],
-    "ipv6": [
-      "2a09:be40:ba02::/48"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

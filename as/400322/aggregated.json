@@ -1,0 +1,11 @@
+{
+  "asn": 400322,
+  "handle": "NGTEL",
+  "description": "NGTel",
+  "subnets": {
+    "ipv4": [
+      "205.235.16.0/21"
+    ],
+    "ipv6": []
+  }
+}

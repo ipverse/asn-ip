@@ -3,7 +3,11 @@
   "handle": "BRAINTRUST-AP",
   "description": "Braintrust Ltd",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "103.247.72.0/22"
+    ],
+    "ipv6": [
+      "2402:f300::/32"
+    ]
   }
 }

@@ -4,9 +4,6 @@
   "description": "ColoMichigan LLC",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2620:11f:7005::/48",
-      "2620:11f:700a::/48"
-    ]
+    "ipv6": []
   }
 }

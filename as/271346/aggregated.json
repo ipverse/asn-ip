@@ -3,7 +3,11 @@
   "handle": "ROGERIO-VICENTE-DE-SOUZA-EPP",
   "description": "ROGERIO VICENTE DE SOUZA - EPP",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "177.126.40.0/22"
+    ],
+    "ipv6": [
+      "2804:7a14::/32"
+    ]
   }
 }
