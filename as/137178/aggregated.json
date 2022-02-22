@@ -3,7 +3,9 @@
   "handle": "INVENSYS",
   "description": "Invensys Networks Pvt. Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.110.167.0/24"
+    ],
     "ipv6": []
   }
 }

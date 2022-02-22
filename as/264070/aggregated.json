@@ -3,7 +3,9 @@
   "handle": "FARIA-SCHIMITH-LTDA-ME",
   "description": "FARIA \u0026 SCHIMITH LTDA - ME",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "143.202.180.0/22"
+    ],
     "ipv6": []
   }
 }

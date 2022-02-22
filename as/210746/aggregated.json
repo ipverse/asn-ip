@@ -4,6 +4,7 @@
   "description": "HYPERMAIL Ltd.",
   "subnets": {
     "ipv4": [
+      "85.187.45.0/24",
       "151.237.23.0/24"
     ],
     "ipv6": []

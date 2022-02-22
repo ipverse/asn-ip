@@ -3,7 +3,9 @@
   "handle": "AJU-KR",
   "description": "AJU Internet Technology",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "211.196.209.0/24"
+    ],
     "ipv6": []
   }
 }

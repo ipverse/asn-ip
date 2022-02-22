@@ -4,7 +4,7 @@
   "description": "noctell provedor de internet",
   "subnets": {
     "ipv4": [
-      "170.79.206.0/24"
+      "170.79.204.0/22"
     ],
     "ipv6": []
   }

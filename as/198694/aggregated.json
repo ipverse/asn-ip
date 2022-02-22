@@ -3,11 +3,7 @@
   "handle": "DOTXS-NL",
   "description": "dotXS Holding B.V.",
   "subnets": {
-    "ipv4": [
-      "37.220.168.0/21"
-    ],
-    "ipv6": [
-      "2a00:d1c0::/32"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

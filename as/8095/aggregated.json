@@ -1,0 +1,11 @@
+{
+  "asn": 8095,
+  "handle": "NETVALUE",
+  "description": "Netvalue, Inc.",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a0e:b107:14d0::/44"
+    ]
+  }
+}

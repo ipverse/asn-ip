@@ -3,9 +3,7 @@
   "handle": "CTGDFCL",
   "description": "China Duty Free group",
   "subnets": {
-    "ipv4": [
-      "111.223.240.0/22"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }
