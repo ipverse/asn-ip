@@ -4,8 +4,7 @@
   "description": "SYSTEMCOMP INFORMATICA E TELECOMUNICACAO EIRELI",
   "subnets": {
     "ipv4": [
-      "45.191.228.0/24",
-      "45.191.231.0/24"
+      "45.191.228.0/22"
     ],
     "ipv6": []
   }

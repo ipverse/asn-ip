@@ -4,7 +4,6 @@
   "description": "PT Interkoneksi Dan Komunikasi Indonesia",
   "subnets": {
     "ipv4": [
-      "103.154.172.0/24",
       "103.161.76.0/24"
     ],
     "ipv6": []

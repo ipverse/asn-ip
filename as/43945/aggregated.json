@@ -3,11 +3,7 @@
   "handle": "NETSTYLE2",
   "description": "NETSTYLE A. LTD",
   "subnets": {
-    "ipv4": [
-      "160.116.0.0/24"
-    ],
-    "ipv6": [
-      "2a00:55a0:2::/48"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

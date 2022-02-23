@@ -1,7 +1,7 @@
 {
   "asn": 10032,
   "handle": "HGC-AP",
-  "description": "Hutchison GlobalCenter Limited",
+  "description": "HGC GLOBALCENTRE (HONG KONG) LIMITED",
   "subnets": {
     "ipv4": [
       "43.252.132.0/22",
@@ -22,8 +22,7 @@
       "218.189.68.0/22"
     ],
     "ipv6": [
-      "2401:5a00:b000::/48",
-      "2401:5a00:ffff::/48"
+      "2401:5a00::/32"
     ]
   }
 }

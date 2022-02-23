@@ -4,6 +4,7 @@
   "description": "Microscan Computers Private Limited",
   "subnets": {
     "ipv4": [
+      "38.41.64.0/24",
       "43.231.132.0/22",
       "43.231.212.0/22",
       "43.231.236.0/22",

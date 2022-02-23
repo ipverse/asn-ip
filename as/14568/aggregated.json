@@ -3,9 +3,7 @@
   "handle": "SIRVA",
   "description": "North American Van Lines",
   "subnets": {
-    "ipv4": [
-      "206.208.244.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

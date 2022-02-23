@@ -3,9 +3,7 @@
   "handle": "IPRONTO",
   "description": "Ipronto Communications B.V.",
   "subnets": {
-    "ipv4": [
-      "185.128.11.0/24"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2a0f:5ac0::/32"
     ]

@@ -4,7 +4,8 @@
   "description": "T-LESTE TELECOMUNICACOES LESTE DE SAO PAULO LTDA",
   "subnets": {
     "ipv4": [
-      "189.1.80.0/21"
+      "189.1.80.0/21",
+      "189.1.95.0/24"
     ],
     "ipv6": []
   }

@@ -3,11 +3,7 @@
   "handle": "MICROPACT-ASH-DC",
   "description": "MicroPact Global, Inc",
   "subnets": {
-    "ipv4": [
-      "64.132.40.0/24",
-      "205.241.44.0/24",
-      "205.241.46.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

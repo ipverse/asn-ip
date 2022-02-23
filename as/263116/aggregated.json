@@ -4,7 +4,8 @@
   "description": "HELP NET TELECOM E INFORMTICA LTDA - ME",
   "subnets": {
     "ipv4": [
-      "177.184.220.0/22"
+      "177.184.220.0/22",
+      "179.109.8.0/21"
     ],
     "ipv6": []
   }

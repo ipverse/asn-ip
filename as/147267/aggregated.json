@@ -3,7 +3,9 @@
   "handle": "GBPLGLOBAL-IN",
   "description": "GBPL GLOBAL BROADBAND PRIVATE LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.176.116.0/24"
+    ],
     "ipv6": []
   }
 }

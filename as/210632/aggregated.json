@@ -4,7 +4,8 @@
   "description": "Floofy Hosting LLC",
   "subnets": {
     "ipv4": [
-      "144.172.80.0/24"
+      "144.172.80.0/24",
+      "166.0.224.0/23"
     ],
     "ipv6": []
   }

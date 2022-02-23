@@ -3,9 +3,7 @@
   "handle": "FWDL-AP",
   "description": "PT. FWD Life Indonesia",
   "subnets": {
-    "ipv4": [
-      "103.78.192.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

@@ -1,0 +1,12 @@
+{
+  "asn": 210449,
+  "handle": "SKYLARNET-NL",
+  "description": "SkylarNET B.V",
+  "subnets": {
+    "ipv4": [
+      "146.19.224.0/24",
+      "178.211.141.0/24"
+    ],
+    "ipv6": []
+  }
+}

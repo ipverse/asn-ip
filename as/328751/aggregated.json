@@ -3,7 +3,9 @@
   "handle": "CRDB-BANK",
   "description": "CRDB BANK PLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "102.217.211.0/24"
+    ],
     "ipv6": []
   }
 }

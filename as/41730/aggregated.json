@@ -4,6 +4,7 @@
   "description": "Dazzlework Ltd.",
   "subnets": {
     "ipv4": [
+      "185.64.84.0/23",
       "193.201.240.0/22"
     ],
     "ipv6": []
