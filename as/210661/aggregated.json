@@ -1,0 +1,11 @@
+{
+  "asn": 210661,
+  "handle": "EXENSA",
+  "description": "EXENSA SAS",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a0e:97c0:570::/44"
+    ]
+  }
+}

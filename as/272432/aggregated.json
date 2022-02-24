@@ -3,7 +3,9 @@
   "handle": "MAGAZINE-LUIZA-SA",
   "description": "MAGAZINE LUIZA S/A",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "148.59.72.0/24"
+    ],
     "ipv6": [
       "2801:80:3ea0::/48"
     ]

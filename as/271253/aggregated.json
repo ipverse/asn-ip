@@ -4,7 +4,8 @@
   "description": "LINK BRASIL TELECOMUNICACOES LTDA",
   "subnets": {
     "ipv4": [
-      "131.255.56.0/22"
+      "131.255.56.0/22",
+      "164.163.192.0/22"
     ],
     "ipv6": [
       "2804:7898:4000::/47",

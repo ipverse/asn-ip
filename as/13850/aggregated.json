@@ -1,0 +1,11 @@
+{
+  "asn": 13850,
+  "handle": "FRACTALCORE",
+  "description": "FractalCore LLC",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2620:a6:e000::/48"
+    ]
+  }
+}

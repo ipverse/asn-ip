@@ -1,0 +1,11 @@
+{
+  "asn": 210348,
+  "handle": "MWM-NETWORK",
+  "description": "MWM Communication SARL",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a0f:ca87:c::/48"
+    ]
+  }
+}

@@ -3,9 +3,7 @@
   "handle": "OCTOPUS",
   "description": "Octopus Telecom",
   "subnets": {
-    "ipv4": [
-      "192.96.137.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

@@ -4,7 +4,7 @@
   "description": "SITA OnAir Switzerland SARL",
   "subnets": {
     "ipv4": [
-      "57.190.0.0/20",
+      "57.190.0.0/19",
       "195.122.92.0/24"
     ],
     "ipv6": []

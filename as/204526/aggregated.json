@@ -3,7 +3,9 @@
   "handle": "RICK-NET",
   "description": "Rick Bakker trading as Bakker IT",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "94.177.9.0/24"
+    ],
     "ipv6": [
       "2001:678:a10::/48"
     ]

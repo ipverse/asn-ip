@@ -3,9 +3,7 @@
   "handle": "FRAVATEL-EIRL",
   "description": "Fravatel EIRL",
   "subnets": {
-    "ipv4": [
-      "190.105.240.0/20"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

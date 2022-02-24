@@ -3,9 +3,7 @@
   "handle": "GANDI-MANOEL-DO-AMARAL",
   "description": "GANDI MANOEL DO AMARAL",
   "subnets": {
-    "ipv4": [
-      "168.205.130.0/23"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2804:2ec4::/32"
     ]

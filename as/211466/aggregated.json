@@ -4,7 +4,8 @@
   "description": "Ministry of Telecom and Information Technology",
   "subnets": {
     "ipv4": [
-      "185.153.160.0/22"
+      "185.153.160.0/23",
+      "185.153.163.0/24"
     ],
     "ipv6": []
   }

@@ -3,7 +3,9 @@
   "handle": "CBSMSB-AP",
   "description": "Conduent Business Services Malaysia Sdn. Bhd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.165.164.0/24"
+    ],
     "ipv6": []
   }
 }

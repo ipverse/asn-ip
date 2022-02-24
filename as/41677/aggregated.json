@@ -3,9 +3,7 @@
   "handle": "LANSERVICES",
   "description": "2005 LAN Services B.V.",
   "subnets": {
-    "ipv4": [
-      "193.219.116.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }
