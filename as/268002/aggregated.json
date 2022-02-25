@@ -3,7 +3,9 @@
   "handle": "INFORME-SERVIOS-DE",
   "description": "INFORME SERVIOS DE PROCESSAMENTO DE DADOS LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.166.232.0/22"
+    ],
     "ipv6": [
       "2804:5678::/32"
     ]

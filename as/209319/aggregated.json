@@ -1,0 +1,14 @@
+{
+  "asn": 209319,
+  "handle": "IPV6ROUTING",
+  "description": "IPV6Routing LLC",
+  "subnets": {
+    "ipv4": [
+      "45.150.220.0/22",
+      "85.209.204.0/22"
+    ],
+    "ipv6": [
+      "2a09:9f40::/29"
+    ]
+  }
+}

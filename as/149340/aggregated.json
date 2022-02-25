@@ -1,0 +1,11 @@
+{
+  "asn": 149340,
+  "handle": "IDNIC-DHINET-ID",
+  "description": "PT Digital Hasanah Indonesia",
+  "subnets": {
+    "ipv4": [
+      "103.178.147.0/24"
+    ],
+    "ipv6": []
+  }
+}

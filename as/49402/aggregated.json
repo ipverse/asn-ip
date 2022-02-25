@@ -4,7 +4,8 @@
   "description": "Comtrade programske resitve d.o.o.",
   "subnets": {
     "ipv4": [
-      "185.56.220.0/22",
+      "185.56.220.0/23",
+      "185.56.222.0/24",
       "193.169.48.0/23"
     ],
     "ipv6": []

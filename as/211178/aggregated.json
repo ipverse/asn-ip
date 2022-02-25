@@ -4,6 +4,7 @@
   "description": "Digital Infrastructure LTD",
   "subnets": {
     "ipv4": [
+      "94.176.96.0/24",
       "154.61.152.0/24",
       "193.3.34.0/24"
     ],

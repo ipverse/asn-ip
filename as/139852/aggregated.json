@@ -1,0 +1,11 @@
+{
+  "asn": 139852,
+  "handle": "HCP-AP",
+  "description": "Home Credit Philippines",
+  "subnets": {
+    "ipv4": [
+      "103.146.59.0/24"
+    ],
+    "ipv6": []
+  }
+}

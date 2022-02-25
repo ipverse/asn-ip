@@ -3,9 +3,7 @@
   "handle": "MD-BRASIL-TELECOMUNICAES",
   "description": "MD Brasil telecomunicaes Ltda EPP",
   "subnets": {
-    "ipv4": [
-      "138.99.96.0/22"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

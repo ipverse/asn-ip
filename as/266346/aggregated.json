@@ -3,7 +3,11 @@
   "handle": "ATIVA-COMUNICAO-MULTIMDIA",
   "description": "ATIVA COMUNICAO MULTIMDIA LTDA-ME.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "170.239.92.0/22"
+    ],
+    "ipv6": [
+      "2804:3668::/32"
+    ]
   }
 }

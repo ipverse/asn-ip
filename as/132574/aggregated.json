@@ -3,7 +3,10 @@
   "handle": "SOCPLIND",
   "description": "SOCPLIND",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.117.4.0/22",
+      "103.17.0.0/22"
+    ],
     "ipv6": []
   }
 }

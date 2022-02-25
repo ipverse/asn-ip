@@ -4,6 +4,7 @@
   "description": "SMITH BAGLEY INC",
   "subnets": {
     "ipv4": [
+      "67.132.2.0/24",
       "192.199.224.0/20"
     ],
     "ipv6": []

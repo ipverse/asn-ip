@@ -4,8 +4,7 @@
   "description": "Xantaro Holding GmbH",
   "subnets": {
     "ipv4": [
-      "185.16.196.0/23",
-      "185.16.198.0/24"
+      "185.16.196.0/22"
     ],
     "ipv6": [
       "2a03:dfc0::/47",

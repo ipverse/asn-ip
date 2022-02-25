@@ -4,7 +4,7 @@
   "description": "Opulent Cloud",
   "subnets": {
     "ipv4": [
-      "190.102.112.0/23"
+      "190.102.112.0/24"
     ],
     "ipv6": []
   }

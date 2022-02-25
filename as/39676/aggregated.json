@@ -1,13 +1,9 @@
 {
   "asn": 39676,
-  "handle": "TECHNO-R",
+  "handle": "UNUSED",
   "description": "LLC Real-net",
   "subnets": {
-    "ipv4": [
-      "185.175.72.0/22"
-    ],
-    "ipv6": [
-      "2a0b:d700::/29"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }
