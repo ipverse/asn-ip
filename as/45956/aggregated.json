@@ -4,7 +4,6 @@
   "description": "SA Power Networks",
   "subnets": {
     "ipv4": [
-      "159.13.0.0/24",
       "159.13.216.0/21"
     ],
     "ipv6": []

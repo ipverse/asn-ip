@@ -3,7 +3,9 @@
   "handle": "HKBIL-AP",
   "description": "HONG KONG BRIDGE INFO-TECH LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "39.109.81.0/24"
+    ],
     "ipv6": [
       "2403:e840:8000::/33"
     ]

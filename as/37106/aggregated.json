@@ -3,7 +3,9 @@
   "handle": "ODUA",
   "description": "ODUA TELECOMS LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "41.222.40.0/21"
+    ],
     "ipv6": []
   }
 }

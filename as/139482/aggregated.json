@@ -3,9 +3,7 @@
   "handle": "VILMAX-IN",
   "description": "Vilas Internet Services Pvt Ltd",
   "subnets": {
-    "ipv4": [
-      "103.173.14.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

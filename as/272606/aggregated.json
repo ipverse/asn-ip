@@ -1,0 +1,11 @@
+{
+  "asn": 272606,
+  "handle": "DNS-FIBRA-LTDA",
+  "description": "DNS FIBRA LTDA",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2804:85e0::/32"
+    ]
+  }
+}

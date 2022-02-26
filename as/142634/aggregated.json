@@ -1,0 +1,12 @@
+{
+  "asn": 142634,
+  "handle": "WUTEXCHANGE-AP",
+  "description": "Nanjing Echofa Precision Mould Manufacturing Co., Ltd.",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2406:840:e242::/48",
+      "2602:fd92:633::/48"
+    ]
+  }
+}

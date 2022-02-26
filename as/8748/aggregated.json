@@ -4,6 +4,7 @@
   "description": "Blekinge Tekniska Hogskola",
   "subnets": {
     "ipv4": [
+      "193.11.184.0/21",
       "194.47.128.0/19"
     ],
     "ipv6": []

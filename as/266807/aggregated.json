@@ -3,7 +3,9 @@
   "handle": "COOPERATIVA-DE-SERVICIOS",
   "description": "COOPERATIVA DE SERVICIOS PBLICOS 19 DE SETIEMBRE LTDA.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.238.192.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,9 +3,7 @@
   "handle": "LTNET",
   "description": "Marek Smutny",
   "subnets": {
-    "ipv4": [
-      "95.143.128.0/20"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2a03:2a80::/32"
     ]

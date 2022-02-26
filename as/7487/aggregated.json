@@ -3,7 +3,10 @@
   "handle": "NTTDATA-AP",
   "description": "NTT DATA GLOBAL DELIVERY SERVICES PVT LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "65.249.244.0/23",
+      "202.12.101.0/24"
+    ],
     "ipv6": []
   }
 }

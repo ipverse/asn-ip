@@ -3,11 +3,7 @@
   "handle": "TF-178",
   "description": "Ting Fiber Inc.",
   "subnets": {
-    "ipv4": [
-      "98.124.192.0/18"
-    ],
-    "ipv6": [
-      "2620:10f:5000::/47"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

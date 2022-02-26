@@ -3,9 +3,7 @@
   "handle": "XNET",
   "description": "IrpenComunikaciaService Municipal Enterprise",
   "subnets": {
-    "ipv4": [
-      "46.229.54.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }
