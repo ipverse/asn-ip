@@ -4,6 +4,7 @@
   "description": "SB4Host Datacenter",
   "subnets": {
     "ipv4": [
+      "154.16.7.0/24",
       "181.215.254.0/24"
     ],
     "ipv6": [

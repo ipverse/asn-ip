@@ -3,9 +3,7 @@
   "handle": "UNIVERSIDAD-DE-MONTERREY",
   "description": "Universidad de Monterrey",
   "subnets": {
-    "ipv4": [
-      "148.238.0.0/16"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

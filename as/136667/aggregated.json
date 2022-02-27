@@ -4,8 +4,7 @@
   "description": "Space Applications Centre",
   "subnets": {
     "ipv4": [
-      "103.99.192.0/23",
-      "103.99.195.0/24"
+      "103.99.192.0/22"
     ],
     "ipv6": []
   }

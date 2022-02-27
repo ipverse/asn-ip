@@ -1,0 +1,11 @@
+{
+  "asn": 149359,
+  "handle": "IDNIC-PDM-ID",
+  "description": "PT Persada Data Multimedia",
+  "subnets": {
+    "ipv4": [
+      "103.180.118.0/24"
+    ],
+    "ipv6": []
+  }
+}

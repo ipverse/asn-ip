@@ -3,7 +3,9 @@
   "handle": "SMISHCRAFT",
   "description": "Adam Goodenough",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "44.31.80.0/24"
+    ],
     "ipv6": [
       "2a0e:b107:1788::/48"
     ]

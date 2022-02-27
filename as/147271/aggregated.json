@@ -1,0 +1,11 @@
+{
+  "asn": 147271,
+  "handle": "SHIVANET-IN",
+  "description": "Shiva Network",
+  "subnets": {
+    "ipv4": [
+      "103.177.62.0/24"
+    ],
+    "ipv6": []
+  }
+}

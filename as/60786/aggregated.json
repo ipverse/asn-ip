@@ -3,7 +3,9 @@
   "handle": "AVAMEHR",
   "description": "Ava Mehr Informatics Company (Private Joint Stock)",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.107.245.0/24"
+    ],
     "ipv6": [
       "2a04:c147::/32"
     ]

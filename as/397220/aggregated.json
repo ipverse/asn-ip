@@ -1,0 +1,12 @@
+{
+  "asn": 397220,
+  "handle": "ULTRADNS",
+  "description": "NeuStar, Inc.",
+  "subnets": {
+    "ipv4": [
+      "156.154.140.0/24",
+      "156.154.142.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -3,7 +3,10 @@
   "handle": "ONEGB",
   "description": "1GB LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "95.47.112.0/22",
+      "195.234.4.0/23"
+    ],
     "ipv6": []
   }
 }

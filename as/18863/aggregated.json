@@ -3,9 +3,7 @@
   "handle": "BPL-232",
   "description": "Barbary Partners",
   "subnets": {
-    "ipv4": [
-      "64.28.238.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

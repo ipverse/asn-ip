@@ -3,10 +3,7 @@
   "handle": "ONET",
   "description": "TOV Onet",
   "subnets": {
-    "ipv4": [
-      "89.21.76.0/22",
-      "89.21.95.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

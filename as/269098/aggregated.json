@@ -4,8 +4,6 @@
   "description": "AbsamHost Internet Data Center",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2804:5f6c::/35"
-    ]
+    "ipv6": []
   }
 }

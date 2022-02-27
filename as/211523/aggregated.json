@@ -3,7 +3,11 @@
   "handle": "GSLB",
   "description": "Mihaly Szummer",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "185.200.246.0/24"
+    ],
+    "ipv6": [
+      "2001:678:f28::/48"
+    ]
   }
 }

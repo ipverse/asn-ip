@@ -4,7 +4,8 @@
   "description": "PT. Gratelindo Lintas Global",
   "subnets": {
     "ipv4": [
-      "103.124.160.0/22"
+      "103.124.160.0/24",
+      "103.124.162.0/23"
     ],
     "ipv6": []
   }

@@ -3,7 +3,9 @@
   "handle": "THECYBERWEB",
   "description": "The Cyber Web, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.126.77.0/24"
+    ],
     "ipv6": []
   }
 }

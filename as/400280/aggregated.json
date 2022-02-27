@@ -3,7 +3,9 @@
   "handle": "WINSONIC-EXCHANGE",
   "description": "Winsonic Digital Exchange Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.66.200.0/21"
+    ],
     "ipv6": []
   }
 }
