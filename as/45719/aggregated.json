@@ -3,10 +3,7 @@
   "handle": "NAWALA-ID",
   "description": "Nawala Project  - DNS Filtering Project",
   "subnets": {
-    "ipv4": [
-      "180.131.146.0/23",
-      "202.125.82.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

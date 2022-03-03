@@ -3,7 +3,9 @@
   "handle": "EDMUNDO-ANTONIO-BORBA",
   "description": "edmundo antonio borba da silveira-me",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.231.15.0/24"
+    ],
     "ipv6": []
   }
 }

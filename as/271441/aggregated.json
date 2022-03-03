@@ -3,9 +3,9 @@
   "handle": "JA-TELECOMPE",
   "description": "J.A TELECOM.PE",
   "subnets": {
-    "ipv4": [],
-    "ipv6": [
-      "2804:7b94::/32"
-    ]
+    "ipv4": [
+      "181.233.92.0/24"
+    ],
+    "ipv6": []
   }
 }

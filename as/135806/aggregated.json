@@ -4,7 +4,8 @@
   "description": "Ranchhodrai Telecom Pvt Ltd",
   "subnets": {
     "ipv4": [
-      "103.79.8.0/22"
+      "103.79.8.0/22",
+      "103.155.206.0/23"
     ],
     "ipv6": []
   }

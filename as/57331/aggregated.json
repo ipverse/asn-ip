@@ -4,10 +4,7 @@
   "description": "Republican Unitary Enterprise Research and Development Center of Information Resources and Communications",
   "subnets": {
     "ipv4": [
-      "79.170.108.0/22",
-      "178.172.212.0/24",
-      "217.21.40.0/23",
-      "217.21.42.0/24"
+      "79.170.108.0/22"
     ],
     "ipv6": []
   }

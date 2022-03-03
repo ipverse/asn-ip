@@ -1,0 +1,12 @@
+{
+  "asn": 48268,
+  "handle": "INTERFIBER",
+  "description": "Inter Fiber s.r.o.",
+  "subnets": {
+    "ipv4": [
+      "78.108.188.0/23",
+      "94.198.230.0/23"
+    ],
+    "ipv6": []
+  }
+}

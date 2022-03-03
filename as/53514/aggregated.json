@@ -3,9 +3,7 @@
   "handle": "BMS",
   "description": "Blessey Marine Service, Inc.",
   "subnets": {
-    "ipv4": [
-      "50.59.225.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "BSC",
   "description": "Broadband Systems Corporation",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "197.243.125.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -1,0 +1,11 @@
+{
+  "asn": 271949,
+  "handle": "AX-INTERNET-SA",
+  "description": "AX INTERNET SA",
+  "subnets": {
+    "ipv4": [
+      "128.201.171.0/24"
+    ],
+    "ipv6": []
+  }
+}

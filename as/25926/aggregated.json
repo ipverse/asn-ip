@@ -3,9 +3,7 @@
   "handle": "HOSTUS-SOLUTIONS-LLC",
   "description": "HostUS",
   "subnets": {
-    "ipv4": [
-      "185.120.7.0/24"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2602:ffc5:34::/48"
     ]

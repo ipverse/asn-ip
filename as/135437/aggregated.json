@@ -4,8 +4,7 @@
   "description": "New Generation Internet Services Limited",
   "subnets": {
     "ipv4": [
-      "45.250.252.0/22",
-      "103.219.168.0/22"
+      "45.250.252.0/22"
     ],
     "ipv6": []
   }

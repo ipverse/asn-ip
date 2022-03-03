@@ -1,0 +1,11 @@
+{
+  "asn": 399741,
+  "handle": "MIDWEST-CABLE",
+  "description": "Midwest Cable",
+  "subnets": {
+    "ipv4": [
+      "159.197.136.0/24"
+    ],
+    "ipv6": []
+  }
+}

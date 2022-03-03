@@ -4,8 +4,11 @@
   "description": "SiChuan XunYou Network Technologe Limit, co",
   "subnets": {
     "ipv4": [
-      "103.139.136.0/24"
+      "103.139.136.0/24",
+      "129.227.174.0/23"
     ],
-    "ipv6": []
+    "ipv6": [
+      "2404:e5c0::/32"
+    ]
   }
 }

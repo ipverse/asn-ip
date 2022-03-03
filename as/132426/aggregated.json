@@ -4,8 +4,11 @@
   "description": "Altel Communications Sdn Bhd",
   "subnets": {
     "ipv4": [
+      "43.239.252.0/22",
       "103.20.224.0/22"
     ],
-    "ipv6": []
+    "ipv6": [
+      "2405:4700::/32"
+    ]
   }
 }

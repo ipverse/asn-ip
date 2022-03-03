@@ -3,10 +3,7 @@
   "handle": "KONKURENT",
   "description": "Konkurent LLC",
   "subnets": {
-    "ipv4": [
-      "91.235.234.0/24",
-      "193.9.22.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

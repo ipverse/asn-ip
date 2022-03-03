@@ -4,7 +4,8 @@
   "description": "Bharat Digital Network Private Limited",
   "subnets": {
     "ipv4": [
-      "103.160.196.0/23"
+      "103.160.196.0/23",
+      "103.182.108.0/23"
     ],
     "ipv6": []
   }

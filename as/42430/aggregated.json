@@ -3,11 +3,7 @@
   "handle": "HOMELAN",
   "description": "Limited liability company Byte-SD",
   "subnets": {
-    "ipv4": [
-      "188.0.96.0/19",
-      "193.93.52.0/22",
-      "194.0.206.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

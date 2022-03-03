@@ -3,7 +3,9 @@
   "handle": "PRIME",
   "description": "Prime Telecom SRL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.47.144.0/24"
+    ],
     "ipv6": []
   }
 }

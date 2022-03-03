@@ -4,9 +4,6 @@
   "description": "Amrica Latina Educacional Adm. e Servios LTDA",
   "subnets": {
     "ipv4": [
-      "131.0.152.0/22",
-      "187.60.0.0/20",
-      "200.142.208.0/20",
       "200.189.16.0/20"
     ],
     "ipv6": []

@@ -3,9 +3,7 @@
   "handle": "IRISPRINTING",
   "description": "IRIS PRINTING SA",
   "subnets": {
-    "ipv4": [
-      "91.245.195.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

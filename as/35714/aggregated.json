@@ -3,12 +3,7 @@
   "handle": "INFOSERVICE-UA",
   "description": "PP Infoservis-Link",
   "subnets": {
-    "ipv4": [
-      "31.128.100.0/22",
-      "31.128.104.0/21",
-      "31.128.120.0/21",
-      "194.79.8.0/22"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

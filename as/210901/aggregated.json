@@ -1,0 +1,11 @@
+{
+  "asn": 210901,
+  "handle": "SE-PE",
+  "description": "AB Piteenergi",
+  "subnets": {
+    "ipv4": [
+      "217.17.64.0/20"
+    ],
+    "ipv6": []
+  }
+}

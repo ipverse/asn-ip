@@ -1,0 +1,11 @@
+{
+  "asn": 47271,
+  "handle": "WISEKEY",
+  "description": "WISEKEY SA",
+  "subnets": {
+    "ipv4": [
+      "91.209.3.0/24"
+    ],
+    "ipv6": []
+  }
+}

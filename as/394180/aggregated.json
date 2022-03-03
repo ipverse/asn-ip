@@ -3,7 +3,9 @@
   "handle": "DIGITALSYSTEM",
   "description": "Digitalsystem Technology Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.207.62.0/24"
+    ],
     "ipv6": []
   }
 }

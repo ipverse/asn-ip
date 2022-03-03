@@ -4,6 +4,7 @@
   "description": "Telit Communications PLC",
   "subnets": {
     "ipv4": [
+      "141.226.112.0/22",
       "185.86.40.0/22"
     ],
     "ipv6": [

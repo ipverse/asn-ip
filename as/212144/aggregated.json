@@ -3,9 +3,7 @@
   "handle": "HG-NETWORK-01",
   "description": "OOO XMAC",
   "subnets": {
-    "ipv4": [
-      "185.227.134.0/23"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2a01:64e0::/32",
       "2a05:9a40::/29",

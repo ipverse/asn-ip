@@ -4,6 +4,7 @@
   "description": "Pacnet Business Solutions LTD",
   "subnets": {
     "ipv4": [
+      "222.126.128.0/23",
       "222.126.132.0/22",
       "222.126.136.0/21",
       "222.126.144.0/20",

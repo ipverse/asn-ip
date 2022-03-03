@@ -3,9 +3,7 @@
   "handle": "TOURISMAUSTRALIA-AP",
   "description": "Tourism Australia",
   "subnets": {
-    "ipv4": [
-      "103.67.250.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

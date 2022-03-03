@@ -4,6 +4,7 @@
   "description": "G-Core Rus LLC",
   "subnets": {
     "ipv4": [
+      "95.181.181.0/24",
       "193.17.93.0/24"
     ],
     "ipv6": [

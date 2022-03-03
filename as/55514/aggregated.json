@@ -4,7 +4,6 @@
   "description": "Electricity Generating Authority of Thailand",
   "subnets": {
     "ipv4": [
-      "110.164.196.0/24",
       "171.102.38.0/23",
       "182.255.8.0/21",
       "203.209.90.0/24"

@@ -1,9 +1,12 @@
 {
   "asn": 7480,
-  "handle": "YIBMICL-AP",
-  "description": "Yichen International Building Materials Industry Co., Ltd.",
+  "handle": "STEVEYI-NETWORK",
+  "description": "Tsung-Yi Yu",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a0f:607:1003::/48",
+      "2a0f:607:1005::/48"
+    ]
   }
 }

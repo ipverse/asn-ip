@@ -3,9 +3,7 @@
   "handle": "GLINK-AP",
   "description": "Global Link Internet Limited",
   "subnets": {
-    "ipv4": [
-      "103.140.170.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

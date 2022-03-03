@@ -4,6 +4,8 @@
   "description": "HELOISA SAMPAIO PINTO TELECOMUNICACOES",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2804:7de8::/32"
+    ]
   }
 }

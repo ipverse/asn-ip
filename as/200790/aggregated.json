@@ -3,9 +3,7 @@
   "handle": "RTOWERS",
   "description": "JSC Russian Towers",
   "subnets": {
-    "ipv4": [
-      "37.18.23.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

@@ -3,9 +3,7 @@
   "handle": "SKYLINE1-AP",
   "description": "SKYLINE NETWORKS COMPANY LIMITED",
   "subnets": {
-    "ipv4": [
-      "103.151.250.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

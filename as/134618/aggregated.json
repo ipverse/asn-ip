@@ -3,12 +3,7 @@
   "handle": "GERBANGAKSES-ID",
   "description": "PT Rabik Bangun Nusantara",
   "subnets": {
-    "ipv4": [
-      "113.59.234.0/23",
-      "113.59.236.0/23"
-    ],
-    "ipv6": [
-      "2400:b080::/47"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

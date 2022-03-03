@@ -1,0 +1,14 @@
+{
+  "asn": 38790,
+  "handle": "SPIRIT-TELECOM",
+  "description": "Spirit Telecom (Australia) Pty Ltd",
+  "subnets": {
+    "ipv4": [
+      "103.39.55.0/24",
+      "103.39.84.0/23",
+      "103.208.155.0/24",
+      "137.59.196.0/22"
+    ],
+    "ipv6": []
+  }
+}

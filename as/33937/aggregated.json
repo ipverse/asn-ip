@@ -3,10 +3,7 @@
   "handle": "SENORG-HU",
   "description": "Sf Hungary Kft.",
   "subnets": {
-    "ipv4": [
-      "79.172.251.0/24",
-      "217.113.62.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

@@ -4,7 +4,8 @@
   "description": "Joint Stock Company Investment Company FINAM",
   "subnets": {
     "ipv4": [
-      "78.41.193.0/24"
+      "78.41.192.0/23",
+      "78.41.195.0/24"
     ],
     "ipv6": []
   }
