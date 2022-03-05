@@ -4,7 +4,8 @@
   "description": "SIEBEN SERGIO OVIDIO (INTRAGIGA)",
   "subnets": {
     "ipv4": [
-      "200.59.212.0/23"
+      "200.59.212.0/23",
+      "200.59.214.0/24"
     ],
     "ipv6": []
   }

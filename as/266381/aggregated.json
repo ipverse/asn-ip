@@ -4,6 +4,7 @@
   "description": "Inteligence Net",
   "subnets": {
     "ipv4": [
+      "143.202.6.0/24",
       "170.80.244.0/22"
     ],
     "ipv6": [

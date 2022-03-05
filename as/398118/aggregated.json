@@ -3,10 +3,7 @@
   "handle": "CVOAG-01",
   "description": "Commonwealth of Virginia Office of the Attorney General",
   "subnets": {
-    "ipv4": [
-      "159.169.60.0/23",
-      "159.169.62.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

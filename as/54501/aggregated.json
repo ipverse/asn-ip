@@ -4,6 +4,7 @@
   "description": "Sequachee Valley Electric Cooperative",
   "subnets": {
     "ipv4": [
+      "52.124.56.0/24",
       "137.83.40.0/21",
       "147.160.24.0/21",
       "149.19.184.0/21",

@@ -4,6 +4,7 @@
   "description": "LCE TELECOM",
   "subnets": {
     "ipv4": [
+      "45.5.140.0/22",
       "45.190.40.0/22"
     ],
     "ipv6": [

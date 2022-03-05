@@ -3,7 +3,9 @@
   "handle": "FSITSYSTEME",
   "description": "FS IT-Systeme UG",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.245.63.0/24"
+    ],
     "ipv6": [
       "2a12:66c0::/32"
     ]

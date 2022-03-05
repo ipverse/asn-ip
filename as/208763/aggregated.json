@@ -4,13 +4,12 @@
   "description": "Alexander Becker trading as Bitflow Development",
   "subnets": {
     "ipv4": [
-      "38.20.202.0/24",
       "185.86.225.0/24"
     ],
     "ipv6": [
       "2a0e:8f02:21a0::/47",
       "2a0e:8f02:21a2::/48",
-      "2a0e:8f02:21a5::/48"
+      "2a0e:8f02:21a4::/47"
     ]
   }
 }

@@ -3,11 +3,7 @@
   "handle": "ULTRADNS",
   "description": "NeuStar, Inc.",
   "subnets": {
-    "ipv4": [
-      "204.74.104.0/23"
-    ],
-    "ipv6": [
-      "2610:a1:3084::/47"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }
