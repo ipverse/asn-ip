@@ -1,0 +1,15 @@
+{
+  "asn": 11055,
+  "handle": "MIDCONTINENT-COMMUNICATIONS",
+  "description": "Midcontinent Communications",
+  "subnets": {
+    "ipv4": [
+      "66.45.139.0/24",
+      "96.2.233.0/24"
+    ],
+    "ipv6": [
+      "2001:48f8:f320::/44",
+      "2605:4a80:ef00::/40"
+    ]
+  }
+}

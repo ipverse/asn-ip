@@ -3,7 +3,11 @@
   "handle": "GRASSROOTS",
   "description": "GrassRoots Limited",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "193.107.23.0/24"
+    ],
+    "ipv6": [
+      "2a11:4580::/29"
+    ]
   }
 }

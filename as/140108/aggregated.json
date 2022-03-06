@@ -3,9 +3,7 @@
   "handle": "AIRSONBR-IN",
   "description": "Airson Broadband",
   "subnets": {
-    "ipv4": [
-      "103.149.97.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

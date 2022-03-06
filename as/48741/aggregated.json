@@ -4,6 +4,8 @@
   "description": "Dataphoton, Inc",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a06:a001:a020::/48"
+    ]
   }
 }

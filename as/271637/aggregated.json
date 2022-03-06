@@ -4,6 +4,8 @@
   "description": "LG PROVEDOR E SOLUES EM INFORMTICA LTDA",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2804:7ea4::/32"
+    ]
   }
 }

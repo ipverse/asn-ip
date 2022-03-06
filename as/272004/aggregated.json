@@ -1,0 +1,11 @@
+{
+  "asn": 272004,
+  "handle": "EGP-COMUNICACIONES-SAC",
+  "description": "EGP COMUNICACIONES S.A.C",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2803:6910::/32"
+    ]
+  }
+}

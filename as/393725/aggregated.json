@@ -3,9 +3,7 @@
   "handle": "VALENCEHEALTH",
   "description": "Valence Health, Inc.",
   "subnets": {
-    "ipv4": [
-      "104.193.125.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

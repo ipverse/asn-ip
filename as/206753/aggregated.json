@@ -3,9 +3,7 @@
   "handle": "PAYPAL-RU",
   "description": "Limited Liability Company Non-Banking Credit Institution PayPal RU",
   "subnets": {
-    "ipv4": [
-      "185.177.52.0/22"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

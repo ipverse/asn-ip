@@ -3,9 +3,7 @@
   "handle": "UAZAES",
   "description": "State Enterprise National Atomic Energy Generator Company ENERGOATOM",
   "subnets": {
-    "ipv4": [
-      "80.84.191.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

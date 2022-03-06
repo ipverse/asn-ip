@@ -1,0 +1,11 @@
+{
+  "asn": 136025,
+  "handle": "ORACLE-AP",
+  "description": "Oracle Corporation",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2405:ba00:8701::/48"
+    ]
+  }
+}

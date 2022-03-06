@@ -3,7 +3,9 @@
   "handle": "SCISPL-IN",
   "description": "Secure Cable And Internet Services Private Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.176.162.0/23"
+    ],
     "ipv6": []
   }
 }

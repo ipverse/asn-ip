@@ -3,9 +3,7 @@
   "handle": "SYSTELTEL",
   "description": "System Telecom LLC",
   "subnets": {
-    "ipv4": [
-      "195.209.191.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

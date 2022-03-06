@@ -4,6 +4,7 @@
   "description": "SFCTEK BILISIM YAZILIM VE TELEKOMUNIKASYON HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI",
   "subnets": {
     "ipv4": [
+      "45.158.59.0/24",
       "185.254.239.0/24",
       "193.17.6.0/24",
       "193.111.78.0/24",

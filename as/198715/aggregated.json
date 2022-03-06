@@ -3,7 +3,9 @@
   "handle": "ASORBITA",
   "description": "Orbita Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "176.115.64.0/20"
+    ],
     "ipv6": []
   }
 }

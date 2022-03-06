@@ -3,7 +3,9 @@
   "handle": "CONNECT-LP-SERVICO",
   "description": "Connect LP - SERVICO DE COMUNICACAO MULTIMIDIA LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "138.204.46.0/23"
+    ],
     "ipv6": [
       "2804:84f8::/32"
     ]

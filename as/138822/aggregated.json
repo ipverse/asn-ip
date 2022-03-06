@@ -4,6 +4,7 @@
   "description": "PT Jaya Komunikasi Indonesia",
   "subnets": {
     "ipv4": [
+      "103.55.222.0/24",
       "103.137.38.0/23"
     ],
     "ipv6": []

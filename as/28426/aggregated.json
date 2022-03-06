@@ -3,9 +3,7 @@
   "handle": "VAMRA-COMUNICACIONES-SA-DE-CV",
   "description": "VAMRA COMUNICACIONES S.A. DE C.V.",
   "subnets": {
-    "ipv4": [
-      "45.168.230.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }
