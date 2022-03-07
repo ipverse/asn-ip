@@ -1,0 +1,11 @@
+{
+  "asn": 149636,
+  "handle": "HASANBROADBANDNET-AP",
+  "description": "Hasan Broadband Net",
+  "subnets": {
+    "ipv4": [
+      "103.183.62.0/23"
+    ],
+    "ipv6": []
+  }
+}

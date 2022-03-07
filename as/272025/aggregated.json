@@ -3,7 +3,9 @@
   "handle": "NETV-SPA",
   "description": "NETV SPA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "181.224.64.0/22"
+    ],
     "ipv6": []
   }
 }

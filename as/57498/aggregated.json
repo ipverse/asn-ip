@@ -3,7 +3,10 @@
   "handle": "SMART-M-SOLUTIONS",
   "description": "SMART-M SOLUTIONS LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.227.42.0/24",
+      "194.187.30.0/23"
+    ],
     "ipv6": []
   }
 }

@@ -1,0 +1,11 @@
+{
+  "asn": 400442,
+  "handle": "VULPINE-01",
+  "description": "Vulpine Networks",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2602:fbc7::/40"
+    ]
+  }
+}

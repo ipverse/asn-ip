@@ -1,0 +1,11 @@
+{
+  "asn": 2027,
+  "handle": "MILKYWAN",
+  "description": "MilkyWan",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a0e:e700::/31"
+    ]
+  }
+}

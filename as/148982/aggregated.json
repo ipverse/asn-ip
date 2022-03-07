@@ -4,8 +4,7 @@
   "description": "Akari Networks Limited",
   "subnets": {
     "ipv4": [
-      "154.215.2.0/23",
-      "154.221.2.0/23"
+      "154.221.3.0/24"
     ],
     "ipv6": []
   }

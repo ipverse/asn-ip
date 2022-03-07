@@ -4,6 +4,7 @@
   "description": "Andreas Fahl trading as Megaservers.de",
   "subnets": {
     "ipv4": [
+      "45.117.55.0/24",
       "103.4.250.0/24",
       "103.216.0.0/22",
       "115.42.47.0/24",

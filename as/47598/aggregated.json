@@ -3,7 +3,9 @@
   "handle": "KHTEL",
   "description": "PE Khersontelecom",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.206.110.0/23"
+    ],
     "ipv6": []
   }
 }

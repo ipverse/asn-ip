@@ -3,7 +3,9 @@
   "handle": "WISPLAN-SPA",
   "description": "WISPLAN SPA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.239.48.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -1,11 +1,9 @@
 {
   "asn": 59450,
-  "handle": "BAKER-ANYCAST",
+  "handle": "BAKER",
   "description": "Baker Group Ltd",
   "subnets": {
-    "ipv4": [
-      "91.197.32.0/22"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "CARRASCO-Y-REYES",
   "description": "CARRASCO Y REYES SERVICIOS INFORMTICOS LIMITADA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.239.216.0/22"
+    ],
     "ipv6": []
   }
 }

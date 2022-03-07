@@ -3,9 +3,7 @@
   "handle": "PMA-INTERNET",
   "description": "Preferred Managing Agency, LLC",
   "subnets": {
-    "ipv4": [
-      "72.42.251.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }
