@@ -4,6 +4,7 @@
   "description": "4G Telecom",
   "subnets": {
     "ipv4": [
+      "38.43.72.0/22",
       "169.255.24.0/22"
     ],
     "ipv6": []

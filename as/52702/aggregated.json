@@ -3,11 +3,7 @@
   "handle": "SPEED-LINE-TELECOMUNICAES",
   "description": "SPEED LINE TELECOMUNICAES LTDA - ME",
   "subnets": {
-    "ipv4": [
-      "177.223.16.0/20"
-    ],
-    "ipv6": [
-      "2804:c68::/32"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

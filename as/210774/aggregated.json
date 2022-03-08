@@ -3,7 +3,9 @@
   "handle": "IUT",
   "description": "Inha University in Tashkent",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.190.159.0/24"
+    ],
     "ipv6": []
   }
 }

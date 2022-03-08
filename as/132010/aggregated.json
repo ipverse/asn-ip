@@ -3,9 +3,7 @@
   "handle": "XIERPU-AP",
   "description": "XIERPU INDUSTRIAL CO., LIMITED",
   "subnets": {
-    "ipv4": [
-      "103.148.122.0/24"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2001:df2:d280::/48",
       "2001:df2:d380::/48",

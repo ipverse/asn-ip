@@ -4,7 +4,7 @@
   "description": "DIGITAL SOLUTIONS OOD",
   "subnets": {
     "ipv4": [
-      "185.110.60.0/22"
+      "185.110.60.0/24"
     ],
     "ipv6": [
       "2a06:5500::/29"

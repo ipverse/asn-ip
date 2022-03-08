@@ -4,7 +4,6 @@
   "description": "New Jersey State Library",
   "subnets": {
     "ipv4": [
-      "192.107.43.0/24",
       "209.212.0.0/19"
     ],
     "ipv6": []

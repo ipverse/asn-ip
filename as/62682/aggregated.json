@@ -4,6 +4,7 @@
   "description": "Hillbilly Wireless INC.",
   "subnets": {
     "ipv4": [
+      "38.65.88.0/24",
       "162.219.112.0/21"
     ],
     "ipv6": []

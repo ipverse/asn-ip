@@ -4,7 +4,8 @@
   "description": "PT Gaf Solusindo Media",
   "subnets": {
     "ipv4": [
-      "103.166.178.0/24"
+      "103.166.178.0/24",
+      "103.178.38.0/24"
     ],
     "ipv6": []
   }

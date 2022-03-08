@@ -4,6 +4,8 @@
   "description": "Avs Net Comunicacoes e Servicos de Informatica",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2804:8138::/32"
+    ]
   }
 }

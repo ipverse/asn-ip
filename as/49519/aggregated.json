@@ -3,7 +3,9 @@
   "handle": "IHCB-GROUP",
   "description": "ASSOCIATION IHCB GROUP",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.13.117.0/24"
+    ],
     "ipv6": [
       "2a0c:b642:5000::/43"
     ]
