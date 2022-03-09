@@ -1,0 +1,11 @@
+{
+  "asn": 17442,
+  "handle": "CHINANETCENTER-AP",
+  "description": "Internet Service Provider in China",
+  "subnets": {
+    "ipv4": [
+      "103.75.147.0/24"
+    ],
+    "ipv6": []
+  }
+}

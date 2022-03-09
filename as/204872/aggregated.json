@@ -4,6 +4,7 @@
   "description": "SC ITNS.NET SRL",
   "subnets": {
     "ipv4": [
+      "45.15.244.0/22",
       "45.150.180.0/22"
     ],
     "ipv6": []

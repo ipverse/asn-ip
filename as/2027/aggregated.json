@@ -3,8 +3,12 @@
   "handle": "MILKYWAN",
   "description": "MilkyWan",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.13.104.0/22",
+      "80.67.167.0/24"
+    ],
     "ipv6": [
+      "2a0b:cbc0::/32",
       "2a0e:e700::/31"
     ]
   }

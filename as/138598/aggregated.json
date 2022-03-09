@@ -1,0 +1,11 @@
+{
+  "asn": 138598,
+  "handle": "NEVIGATE-AP",
+  "description": "PT Nevigate Telekomunikasi Indonesia",
+  "subnets": {
+    "ipv4": [
+      "103.134.51.0/24"
+    ],
+    "ipv6": []
+  }
+}

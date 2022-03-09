@@ -3,7 +3,9 @@
   "handle": "SJCTS-AP",
   "description": "St. Joseph Cable TV System",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.161.240.0/23"
+    ],
     "ipv6": []
   }
 }

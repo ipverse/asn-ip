@@ -3,9 +3,7 @@
   "handle": "REYVI-INTERNET-LTDA",
   "description": "REYVI INTERNET LTDA",
   "subnets": {
-    "ipv4": [
-      "138.97.112.0/22"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2804:2374::/32"
     ]

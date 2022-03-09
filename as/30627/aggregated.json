@@ -3,11 +3,7 @@
   "handle": "EON-NET",
   "description": "Everyone.net, Inc.",
   "subnets": {
-    "ipv4": [
-      "209.249.170.0/23",
-      "209.249.172.0/23",
-      "216.200.145.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

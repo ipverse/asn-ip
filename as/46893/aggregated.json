@@ -3,10 +3,7 @@
   "handle": "TRANSWORKS",
   "description": "TransWorks",
   "subnets": {
-    "ipv4": [
-      "198.62.2.0/23",
-      "198.62.6.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

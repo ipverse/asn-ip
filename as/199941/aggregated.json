@@ -3,10 +3,7 @@
   "handle": "EASYCONN",
   "description": "Retelit Digital Services S.p.A.",
   "subnets": {
-    "ipv4": [
-      "185.41.212.0/22",
-      "212.104.56.0/21"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

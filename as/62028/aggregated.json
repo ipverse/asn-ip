@@ -3,7 +3,9 @@
   "handle": "DOMTELE",
   "description": "PE Bedniy Alexander Sergeevich",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "31.135.181.0/24"
+    ],
     "ipv6": []
   }
 }

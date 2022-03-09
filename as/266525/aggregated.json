@@ -4,7 +4,8 @@
   "description": "MAX TELECOMUNICACOES LTDA - ME",
   "subnets": {
     "ipv4": [
-      "45.65.212.0/22"
+      "45.65.212.0/22",
+      "186.219.52.0/22"
     ],
     "ipv6": [
       "2804:3d58::/32"

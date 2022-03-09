@@ -3,7 +3,9 @@
   "handle": "INTELLIGENCE-HOSTING-LLC",
   "description": "Intelligence Hosting LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "5.252.80.0/24"
+    ],
     "ipv6": []
   }
 }
