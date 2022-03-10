@@ -3,9 +3,7 @@
   "handle": "AILERON",
   "description": "Aileron LLC",
   "subnets": {
-    "ipv4": [
-      "37.230.201.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

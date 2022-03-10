@@ -4,7 +4,8 @@
   "description": "RT NICOLAU TELECOMUNICAO - ME",
   "subnets": {
     "ipv4": [
-      "45.165.128.0/22"
+      "45.165.129.0/24",
+      "45.165.130.0/23"
     ],
     "ipv6": []
   }

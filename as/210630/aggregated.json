@@ -1,0 +1,11 @@
+{
+  "asn": 210630,
+  "handle": "INCOGNET",
+  "description": "IncogNET LLC",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2602:fc24:11::/48"
+    ]
+  }
+}

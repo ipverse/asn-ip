@@ -3,7 +3,9 @@
   "handle": "KAMENSKTEL",
   "description": "Closed Joint Stock Company Radiotelephone",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.106.56.0/22"
+    ],
     "ipv6": []
   }
 }

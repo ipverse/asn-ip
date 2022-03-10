@@ -3,7 +3,9 @@
   "handle": "NWSC",
   "description": "National Water And Sewerage Corporation",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "196.43.226.0/24"
+    ],
     "ipv6": []
   }
 }

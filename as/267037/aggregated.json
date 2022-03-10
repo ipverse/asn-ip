@@ -4,7 +4,8 @@
   "description": "ACITEL TELECOMUNICAOES LTDA",
   "subnets": {
     "ipv4": [
-      "45.227.232.0/22"
+      "45.227.232.0/23",
+      "45.227.234.0/24"
     ],
     "ipv6": []
   }

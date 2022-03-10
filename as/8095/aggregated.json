@@ -3,7 +3,9 @@
   "handle": "NETVALUE",
   "description": "Netvalue, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "23.133.8.0/24"
+    ],
     "ipv6": []
   }
 }

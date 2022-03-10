@@ -4,7 +4,8 @@
   "description": "Leyre Rivera Martin",
   "subnets": {
     "ipv4": [
-      "185.250.203.0/24"
+      "185.250.200.0/24",
+      "185.250.202.0/23"
     ],
     "ipv6": []
   }

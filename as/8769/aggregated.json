@@ -1,6 +1,6 @@
 {
   "asn": 8769,
-  "handle": "DEVINIX",
+  "handle": "ITTOTAL",
   "description": "Devinix Solutions AB",
   "subnets": {
     "ipv4": [
@@ -15,6 +15,7 @@
       "194.103.34.0/24"
     ],
     "ipv6": [
+      "2a00:d820::/32",
       "2a06:9c40::/29"
     ]
   }

@@ -3,7 +3,9 @@
   "handle": "COMVISION",
   "description": "Com Vision Betreibergesellschaft mbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.248.67.0/24"
+    ],
     "ipv6": []
   }
 }

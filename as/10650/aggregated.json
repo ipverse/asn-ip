@@ -3,7 +3,9 @@
   "handle": "EXTREME",
   "description": "Extreme Internet",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.145.224.0/22"
+    ],
     "ipv6": []
   }
 }

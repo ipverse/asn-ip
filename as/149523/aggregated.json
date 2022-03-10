@@ -1,0 +1,11 @@
+{
+  "asn": 149523,
+  "handle": "SELIMSHEIKH-AP",
+  "description": "Internet Carrier",
+  "subnets": {
+    "ipv4": [
+      "103.182.150.0/23"
+    ],
+    "ipv6": []
+  }
+}

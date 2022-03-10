@@ -4,6 +4,7 @@
   "description": "INTERCITY FIBER NETWORKS PRIVATE LIMITED",
   "subnets": {
     "ipv4": [
+      "103.157.129.0/24",
       "103.173.195.0/24"
     ],
     "ipv6": []
