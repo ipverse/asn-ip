@@ -3,7 +3,10 @@
   "handle": "SD4",
   "description": "SD4 SAS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "2.57.236.0/22",
+      "92.118.207.0/24"
+    ],
     "ipv6": []
   }
 }

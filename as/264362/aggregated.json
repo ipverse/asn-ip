@@ -4,8 +4,7 @@
   "description": "Teranet comunicacoes multimidia ltda",
   "subnets": {
     "ipv4": [
-      "131.161.44.0/23",
-      "131.161.47.0/24"
+      "131.161.44.0/22"
     ],
     "ipv6": []
   }

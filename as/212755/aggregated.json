@@ -3,13 +3,7 @@
   "handle": "EXACLOUD",
   "description": "ExaCloud Factory, S.L.",
   "subnets": {
-    "ipv4": [
-      "91.233.197.0/24",
-      "92.249.50.0/24",
-      "154.6.162.0/23"
-    ],
-    "ipv6": [
-      "2a0a:b440::/29"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

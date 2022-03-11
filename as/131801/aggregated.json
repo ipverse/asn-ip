@@ -1,0 +1,15 @@
+{
+  "asn": 131801,
+  "handle": "IPIC-KR",
+  "description": "Korea Institute of Patent Information",
+  "subnets": {
+    "ipv4": [
+      "103.171.230.0/24",
+      "203.242.169.0/24",
+      "203.242.170.0/23",
+      "203.242.172.0/24",
+      "203.242.247.0/24"
+    ],
+    "ipv6": []
+  }
+}

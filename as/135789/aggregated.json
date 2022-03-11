@@ -4,7 +4,8 @@
   "description": "Denet Connect Services Pvt Ltd",
   "subnets": {
     "ipv4": [
-      "103.79.97.0/24"
+      "103.79.97.0/24",
+      "103.152.62.0/24"
     ],
     "ipv6": []
   }

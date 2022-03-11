@@ -1,0 +1,11 @@
+{
+  "asn": 400228,
+  "handle": "STARLIGHTFIBER-01",
+  "description": "Starlight Fiber Ltd",
+  "subnets": {
+    "ipv4": [
+      "23.128.56.0/24"
+    ],
+    "ipv6": []
+  }
+}

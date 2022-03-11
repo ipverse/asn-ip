@@ -4,7 +4,7 @@
   "description": "PT Jejaring Mitra Persada",
   "subnets": {
     "ipv4": [
-      "103.123.104.0/23",
+      "103.123.104.0/24",
       "103.123.107.0/24"
     ],
     "ipv6": []

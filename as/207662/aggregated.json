@@ -3,7 +3,9 @@
   "handle": "KATIECHAPMAN",
   "description": "Benjamin Chapman",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "141.11.186.0/24"
+    ],
     "ipv6": [
       "2a0e:97c0:76f::/48"
     ]

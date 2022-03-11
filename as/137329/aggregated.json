@@ -4,7 +4,8 @@
   "description": "PT. ARTHA LINTAS DATA MANDIRI",
   "subnets": {
     "ipv4": [
-      "103.106.216.0/22"
+      "103.106.217.0/24",
+      "103.106.218.0/23"
     ],
     "ipv6": [
       "2402:4840::/32"

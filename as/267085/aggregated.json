@@ -1,9 +1,11 @@
 {
   "asn": 267085,
-  "handle": "VERO-INTERNET",
-  "description": "Vero Internet",
+  "handle": "G4-TELECOM-LTDA",
+  "description": "G4 Telecom LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.228.240.0/22"
+    ],
     "ipv6": []
   }
 }

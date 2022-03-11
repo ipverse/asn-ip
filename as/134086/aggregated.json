@@ -4,7 +4,8 @@
   "description": "Electronic Transactions Development Agency",
   "subnets": {
     "ipv4": [
-      "103.55.140.0/22"
+      "103.55.140.0/22",
+      "203.113.21.0/24"
     ],
     "ipv6": [
       "2402:c980::/32"

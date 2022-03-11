@@ -4,6 +4,7 @@
   "description": "CLOUD COMUNICACOES LTDA ME",
   "subnets": {
     "ipv4": [
+      "143.208.212.0/22",
       "170.81.220.0/22",
       "186.251.108.0/22"
     ],

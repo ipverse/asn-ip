@@ -4,6 +4,7 @@
   "description": "Comlink Telecom Ltd.",
   "subnets": {
     "ipv4": [
+      "185.247.80.0/22",
       "195.182.128.0/19"
     ],
     "ipv6": []

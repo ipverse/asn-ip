@@ -1,0 +1,11 @@
+{
+  "asn": 49810,
+  "handle": "IP-IT-LAB",
+  "description": "ip-it consult GmbH",
+  "subnets": {
+    "ipv4": [
+      "45.84.146.0/24"
+    ],
+    "ipv6": []
+  }
+}

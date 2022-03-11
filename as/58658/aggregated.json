@@ -4,7 +4,9 @@
   "description": "DingFeng XinHui(HongKong) Technology Limited",
   "subnets": {
     "ipv4": [
-      "149.29.64.0/18"
+      "149.29.64.0/18",
+      "156.237.128.0/17",
+      "156.240.128.0/18"
     ],
     "ipv6": []
   }

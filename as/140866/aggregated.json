@@ -4,7 +4,8 @@
   "description": "TRUE PACKET SDN BHD",
   "subnets": {
     "ipv4": [
-      "103.141.84.0/23"
+      "103.141.84.0/23",
+      "103.152.166.0/23"
     ],
     "ipv6": []
   }
