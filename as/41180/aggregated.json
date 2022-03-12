@@ -3,9 +3,7 @@
   "handle": "RFERL-MOSCOW",
   "description": "RFE/RL, Inc., organizacni slozka",
   "subnets": {
-    "ipv4": [
-      "195.248.66.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

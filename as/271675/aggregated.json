@@ -3,9 +3,7 @@
   "handle": "CCONNECT-ACESSO-A",
   "description": "cconnect acesso a internet ltda",
   "subnets": {
-    "ipv4": [
-      "200.36.219.0/24"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2804:7f3c::/32"
     ]

@@ -1,0 +1,11 @@
+{
+  "asn": 132490,
+  "handle": "MBSM-AP",
+  "description": "Mbsm Enterprise",
+  "subnets": {
+    "ipv4": [
+      "103.183.141.0/24"
+    ],
+    "ipv6": []
+  }
+}

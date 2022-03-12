@@ -3,7 +3,9 @@
   "handle": "BIGDATA",
   "description": "Big Data Broadband Pvt. Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.144.114.0/24"
+    ],
     "ipv6": []
   }
 }

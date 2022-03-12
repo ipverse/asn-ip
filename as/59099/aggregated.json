@@ -3,7 +3,9 @@
   "handle": "CLOUD-SDN",
   "description": "BroadBand Tower, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "210.231.216.0/22"
+    ],
     "ipv6": []
   }
 }

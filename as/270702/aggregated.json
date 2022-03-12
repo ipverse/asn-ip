@@ -4,6 +4,8 @@
   "description": "ARAXINGU TELECOMUNICACOES LTDA",
   "subnets": {
     "ipv4": [
+      "45.168.9.0/24",
+      "45.179.123.0/24",
       "170.238.46.0/24",
       "186.209.120.0/22"
     ],

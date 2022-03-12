@@ -3,11 +3,7 @@
   "handle": "ECOTEL-STREAM",
   "description": "ecotel communication ag",
   "subnets": {
-    "ipv4": [
-      "212.122.128.0/22"
-    ],
-    "ipv6": [
-      "2a01:5c8:800::/48"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

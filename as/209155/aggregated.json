@@ -3,7 +3,9 @@
   "handle": "ONEHOSTPLANET",
   "description": "Onehostplanet s.r.o.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "2.59.220.0/22"
+    ],
     "ipv6": []
   }
 }

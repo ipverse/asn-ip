@@ -1,0 +1,12 @@
+{
+  "asn": 208392,
+  "handle": "ITSAP",
+  "description": "It Saport Ltd.",
+  "subnets": {
+    "ipv4": [
+      "185.17.1.0/24",
+      "185.112.80.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -4,8 +4,6 @@
   "description": "FxTransit LTD",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2a0e:b107:911::/48"
-    ]
+    "ipv6": []
   }
 }

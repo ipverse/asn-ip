@@ -3,7 +3,9 @@
   "handle": "A-C-N-DE-MOURA-ME",
   "description": "A C N DE MOURA - ME",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "149.78.224.0/23"
+    ],
     "ipv6": [
       "2804:84ec::/32"
     ]

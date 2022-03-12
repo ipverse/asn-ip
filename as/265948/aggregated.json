@@ -3,7 +3,9 @@
   "handle": "WANDA-BENTO-DE",
   "description": "WANDA BENTO DE MORAIS SILVA - ME",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "164.163.92.0/22"
+    ],
     "ipv6": [
       "2804:4044::/32"
     ]

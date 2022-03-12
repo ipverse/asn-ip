@@ -3,7 +3,9 @@
   "handle": "DIGITAL-WS-01",
   "description": "EpicUp Holdings Inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "23.161.224.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,12 @@
   "handle": "POA-INTERNET",
   "description": "POA INTERNET KENYA LIMITED",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "102.135.169.0/24",
+      "102.135.170.0/24"
+    ],
+    "ipv6": [
+      "2c0f:eb78::/32"
+    ]
   }
 }

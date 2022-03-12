@@ -1,0 +1,11 @@
+{
+  "asn": 272623,
+  "handle": "FIBER-NET-SERVICOS",
+  "description": "FIBER NET SERVICOS DE TELECOMUNICACOES LTDA",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2804:8620::/32"
+    ]
+  }
+}

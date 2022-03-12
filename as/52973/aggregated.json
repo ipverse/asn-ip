@@ -4,6 +4,7 @@
   "description": "YIPI Telecom LTDA.",
   "subnets": {
     "ipv4": [
+      "143.137.179.0/24",
       "186.216.192.0/20"
     ],
     "ipv6": [

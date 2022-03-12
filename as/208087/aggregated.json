@@ -4,6 +4,7 @@
   "description": "Novosibirsk Telecommunication Company Ltd.",
   "subnets": {
     "ipv4": [
+      "146.120.158.0/23",
       "146.120.246.0/23"
     ],
     "ipv6": []

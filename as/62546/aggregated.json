@@ -3,7 +3,9 @@
   "handle": "FRISCOTXISD",
   "description": "Frisco Independent School District",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "198.17.32.0/24"
+    ],
     "ipv6": []
   }
 }

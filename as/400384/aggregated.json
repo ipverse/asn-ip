@@ -1,0 +1,11 @@
+{
+  "asn": 400384,
+  "handle": "HOSTINGS-HOUSE-US",
+  "description": "Hostings House",
+  "subnets": {
+    "ipv4": [
+      "103.181.98.0/24"
+    ],
+    "ipv6": []
+  }
+}

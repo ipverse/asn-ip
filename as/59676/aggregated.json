@@ -3,9 +3,7 @@
   "handle": "A4N-EXT",
   "description": "Network Services Ltd.",
   "subnets": {
-    "ipv4": [
-      "193.105.150.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

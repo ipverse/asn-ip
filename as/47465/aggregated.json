@@ -3,7 +3,9 @@
   "handle": "HTCZ",
   "description": "Limited liability company Sovtest IP",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.204.144.0/22"
+    ],
     "ipv6": []
   }
 }
