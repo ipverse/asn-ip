@@ -3,9 +3,7 @@
   "handle": "CDNTV-TECNOLOGIA-LTDA",
   "description": "CDNTV TECNOLOGIA LTDA",
   "subnets": {
-    "ipv4": [
-      "45.173.46.0/24"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2804:8388::/48",
       "2804:8388:4000::/34",

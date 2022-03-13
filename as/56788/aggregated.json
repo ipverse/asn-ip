@@ -3,7 +3,9 @@
   "handle": "SCHLICHTNER2",
   "description": "In(n) Energie GmbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.166.8.0/24"
+    ],
     "ipv6": []
   }
 }

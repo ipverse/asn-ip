@@ -3,7 +3,9 @@
   "handle": "SAMPARKESTATES-IN",
   "description": "SAMPARK ESTATES PVT. LTD.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.167.74.0/23"
+    ],
     "ipv6": []
   }
 }

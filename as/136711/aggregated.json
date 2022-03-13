@@ -3,7 +3,9 @@
   "handle": "SOFT2",
   "description": "Softech Studio",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.95.12.0/24"
+    ],
     "ipv6": []
   }
 }

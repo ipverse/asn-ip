@@ -4,8 +4,7 @@
   "description": "OOO Sestroretskoe Cable Television",
   "subnets": {
     "ipv4": [
-      "195.211.216.0/24",
-      "195.211.218.0/23"
+      "195.211.216.0/22"
     ],
     "ipv6": []
   }

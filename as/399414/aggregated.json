@@ -4,6 +4,7 @@
   "description": "City Tech Systems",
   "subnets": {
     "ipv4": [
+      "23.176.48.0/24",
       "45.59.140.0/22"
     ],
     "ipv6": [

@@ -4,6 +4,7 @@
   "description": "Vedant Broadband",
   "subnets": {
     "ipv4": [
+      "103.85.100.0/24",
       "103.85.103.0/24"
     ],
     "ipv6": []

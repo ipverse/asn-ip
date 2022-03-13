@@ -1,0 +1,11 @@
+{
+  "asn": 59747,
+  "handle": "NIX-DR",
+  "description": "NIX.CZ z.s.p.o.",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a02:38:1111::/48"
+    ]
+  }
+}

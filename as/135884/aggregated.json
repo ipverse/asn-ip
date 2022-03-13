@@ -4,6 +4,8 @@
   "description": "MAGNET BRAINS SOFTWARE TECHNOLOGY PRIVATE LIMITED",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2400:11c0::/32"
+    ]
   }
 }
