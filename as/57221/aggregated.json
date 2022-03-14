@@ -3,7 +3,9 @@
   "handle": "LASNET",
   "description": "LASNET Uslugi Komputerowe Robert Gulbinowicz",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "81.163.8.0/21"
+    ],
     "ipv6": []
   }
 }

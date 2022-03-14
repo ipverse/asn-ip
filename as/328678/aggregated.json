@@ -3,7 +3,9 @@
   "handle": "UFI-2C-COMMUNICATIONS",
   "description": "2C UFi COMMUNICATIONS LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "102.222.239.0/24"
+    ],
     "ipv6": []
   }
 }

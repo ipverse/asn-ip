@@ -4,7 +4,6 @@
   "description": "ABN TURBONET",
   "subnets": {
     "ipv4": [
-      "168.205.130.0/24",
       "177.131.136.0/22"
     ],
     "ipv6": []

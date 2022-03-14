@@ -4,6 +4,7 @@
   "description": "Forhosting",
   "subnets": {
     "ipv4": [
+      "103.169.89.0/24",
       "103.170.21.0/24"
     ],
     "ipv6": [

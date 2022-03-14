@@ -3,7 +3,11 @@
   "handle": "REDCABLES-NZ-AP",
   "description": "ITS, University of Waikato",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "163.7.136.0/23"
+    ],
+    "ipv6": [
+      "2404:138:4011::/48"
+    ]
   }
 }
