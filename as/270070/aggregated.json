@@ -4,8 +4,7 @@
   "description": "ESCOM COMUNICACIONES SRL",
   "subnets": {
     "ipv4": [
-      "45.185.205.0/24",
-      "45.185.206.0/23"
+      "45.185.204.0/22"
     ],
     "ipv6": []
   }

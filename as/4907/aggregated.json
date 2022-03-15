@@ -3,9 +3,7 @@
   "handle": "DIEL",
   "description": "Dulles Internet Exchange, LLC",
   "subnets": {
-    "ipv4": [
-      "38.78.134.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

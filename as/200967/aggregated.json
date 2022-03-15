@@ -3,9 +3,7 @@
   "handle": "EBS",
   "description": "Erisim Saglayicilari Birligi",
   "subnets": {
-    "ipv4": [
-      "213.14.227.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

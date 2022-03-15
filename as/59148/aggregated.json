@@ -3,7 +3,9 @@
   "handle": "IDNIC-XPNET-ID",
   "description": "PT Xepia Prima",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.254.104.0/22"
+    ],
     "ipv6": []
   }
 }

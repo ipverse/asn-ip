@@ -3,9 +3,7 @@
   "handle": "REMKI1-AP",
   "description": "Remki Communications Private Limited",
   "subnets": {
-    "ipv4": [
-      "103.173.246.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

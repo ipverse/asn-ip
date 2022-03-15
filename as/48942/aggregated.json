@@ -1,0 +1,13 @@
+{
+  "asn": 48942,
+  "handle": "DENET",
+  "description": "Daniel Eriksson Teknik AB",
+  "subnets": {
+    "ipv4": [
+      "194.71.205.0/24"
+    ],
+    "ipv6": [
+      "2a01:280:398::/48"
+    ]
+  }
+}

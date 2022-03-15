@@ -4,6 +4,7 @@
   "description": "Tishomingo Connect, LLC",
   "subnets": {
     "ipv4": [
+      "74.115.80.0/22",
       "74.126.160.0/20",
       "216.246.216.0/21"
     ],

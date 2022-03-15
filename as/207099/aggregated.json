@@ -3,12 +3,7 @@
   "handle": "DIGITALFIBRA",
   "description": "DIGITAL FIBRA TV S.L.",
   "subnets": {
-    "ipv4": [
-      "185.155.65.0/24",
-      "185.155.66.0/24",
-      "185.196.64.0/22",
-      "185.210.18.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

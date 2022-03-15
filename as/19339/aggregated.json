@@ -3,9 +3,7 @@
   "handle": "DIDATA-NE",
   "description": "Dimension Data North America, Inc.",
   "subnets": {
-    "ipv4": [
-      "204.56.86.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

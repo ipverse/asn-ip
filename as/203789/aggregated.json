@@ -4,6 +4,7 @@
   "description": "Mixvoip S.A.",
   "subnets": {
     "ipv4": [
+      "81.2.148.0/24",
       "185.123.216.0/22"
     ],
     "ipv6": []

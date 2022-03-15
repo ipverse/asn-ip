@@ -3,7 +3,9 @@
   "handle": "SWIFTNET-AP",
   "description": "Swift Net",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.145.133.0/24"
+    ],
     "ipv6": []
   }
 }

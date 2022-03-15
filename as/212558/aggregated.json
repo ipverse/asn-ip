@@ -3,7 +3,9 @@
   "handle": "KOROL",
   "description": "FOP Korol Irina Oleksandrivna",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.9.28.0/24"
+    ],
     "ipv6": []
   }
 }

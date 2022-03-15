@@ -4,7 +4,8 @@
   "description": "Jackson Healthcare, LLC",
   "subnets": {
     "ipv4": [
-      "138.43.116.0/22"
+      "138.43.116.0/23",
+      "138.43.118.0/24"
     ],
     "ipv6": []
   }

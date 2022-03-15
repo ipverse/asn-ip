@@ -3,7 +3,11 @@
   "handle": "JAVI-H",
   "description": "Javier Hurtado Nuno",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "193.38.249.0/24"
+    ],
+    "ipv6": [
+      "2a0c:b641:1d0::/48"
+    ]
   }
 }
