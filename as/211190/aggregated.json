@@ -3,7 +3,10 @@
   "handle": "QUICKNET",
   "description": "QUICKNET LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "176.97.221.0/24",
+      "176.126.123.0/24"
+    ],
     "ipv6": []
   }
 }

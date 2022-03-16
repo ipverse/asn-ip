@@ -3,7 +3,9 @@
   "handle": "MTS-STREAM",
   "description": "MTS PJSC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.236.183.0/24"
+    ],
     "ipv6": []
   }
 }

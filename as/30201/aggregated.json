@@ -3,9 +3,7 @@
   "handle": "VENDINI",
   "description": "Vendini Tickets",
   "subnets": {
-    "ipv4": [
-      "38.88.17.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

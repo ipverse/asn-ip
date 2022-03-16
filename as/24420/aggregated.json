@@ -3,9 +3,7 @@
   "handle": "CNNIC-CAFNET-AP",
   "description": "Chinese Academy of Forestry",
   "subnets": {
-    "ipv4": [
-      "203.83.56.0/21"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

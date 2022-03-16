@@ -3,9 +3,10 @@
   "handle": "FATIMA-CUENCA",
   "description": "Fatima Cuenca",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.70.141.0/24"
+    ],
     "ipv6": [
-      "2606:c140::/32",
       "2a09:be45::/32",
       "2a09:be46::/32",
       "2a12:49c0::/30",

@@ -3,11 +3,7 @@
   "handle": "ZAYO-NSV",
   "description": "Zayo Bandwidth",
   "subnets": {
-    "ipv4": [
-      "69.195.0.0/20",
-      "208.67.56.0/22",
-      "208.91.200.0/22"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

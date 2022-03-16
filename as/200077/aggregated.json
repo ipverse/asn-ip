@@ -3,9 +3,7 @@
   "handle": "CCNTT",
   "description": "NTT CLOUD COMMUNICATIONS SAS",
   "subnets": {
-    "ipv4": [
-      "185.37.222.0/24"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2a00:fa60:1510::/44"
     ]

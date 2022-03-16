@@ -4,6 +4,7 @@
   "description": "FORTLINK INTERNET CORPORATIVA",
   "subnets": {
     "ipv4": [
+      "45.224.216.0/22",
       "45.234.100.0/22"
     ],
     "ipv6": [

@@ -4,7 +4,8 @@
   "description": "FIBERNET ESPECIALIZADOS EM INTERNET LTDA",
   "subnets": {
     "ipv4": [
-      "190.112.144.0/22"
+      "190.112.144.0/23",
+      "190.112.146.0/24"
     ],
     "ipv6": [
       "2804:68b0::/32"

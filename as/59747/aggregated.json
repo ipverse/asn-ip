@@ -3,7 +3,9 @@
   "handle": "NIX-DR",
   "description": "NIX.CZ z.s.p.o.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.207.230.0/24"
+    ],
     "ipv6": [
       "2a02:38:1111::/48"
     ]

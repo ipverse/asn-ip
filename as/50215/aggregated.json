@@ -1,0 +1,11 @@
+{
+  "asn": 50215,
+  "handle": "MASTERMSK",
+  "description": "MASTER LLC",
+  "subnets": {
+    "ipv4": [
+      "45.93.20.0/24"
+    ],
+    "ipv6": []
+  }
+}

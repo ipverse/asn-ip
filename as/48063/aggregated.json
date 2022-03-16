@@ -3,11 +3,7 @@
   "handle": "NETPONT",
   "description": "NETPONT SRL",
   "subnets": {
-    "ipv4": [
-      "85.121.150.0/24",
-      "85.121.218.0/24",
-      "86.106.188.0/22"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

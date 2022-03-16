@@ -4,7 +4,8 @@
   "description": "CONECTA - PROVEDOR DE INTERNET LTDA.",
   "subnets": {
     "ipv4": [
-      "190.89.80.0/22"
+      "190.89.81.0/24",
+      "190.89.82.0/23"
     ],
     "ipv6": []
   }

@@ -1,0 +1,13 @@
+{
+  "asn": 62005,
+  "handle": "BV-EU",
+  "description": "BlueVPS OU",
+  "subnets": {
+    "ipv4": [
+      "213.109.192.0/24"
+    ],
+    "ipv6": [
+      "2a10:1fc0:2::/48"
+    ]
+  }
+}

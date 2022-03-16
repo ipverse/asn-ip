@@ -4,6 +4,7 @@
   "description": "Micro Servizi di Linguanti Claudia \u0026 C. S.A.S.",
   "subnets": {
     "ipv4": [
+      "38.41.36.0/22",
       "178.19.172.0/22",
       "185.251.124.0/22"
     ],

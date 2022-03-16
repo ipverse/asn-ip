@@ -1,11 +1,9 @@
 {
   "asn": 45036,
-  "handle": "IPEX",
+  "handle": "IPEX-NO",
   "description": "IP Excess AB",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2a12:a4c0::/29"
-    ]
+    "ipv6": []
   }
 }

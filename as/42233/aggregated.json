@@ -3,7 +3,9 @@
   "handle": "ASNOOOLUX",
   "description": "OOO Lux",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "217.144.168.0/22"
+    ],
     "ipv6": []
   }
 }

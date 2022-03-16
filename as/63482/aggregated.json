@@ -3,7 +3,9 @@
   "handle": "FNW-MIDDLEVILLE",
   "description": "FreedomNet",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "168.235.212.0/22"
+    ],
     "ipv6": []
   }
 }

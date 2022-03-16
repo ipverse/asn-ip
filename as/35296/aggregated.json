@@ -4,6 +4,8 @@
   "description": "NSC KIPT",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a00:fc00:e009::/48"
+    ]
   }
 }

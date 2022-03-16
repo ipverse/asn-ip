@@ -1,0 +1,11 @@
+{
+  "asn": 11145,
+  "handle": "VRIS-11149",
+  "description": "Verizon Business",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2600:807:21c::/48"
+    ]
+  }
+}
