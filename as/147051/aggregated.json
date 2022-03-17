@@ -1,0 +1,13 @@
+{
+  "asn": 147051,
+  "handle": "ETH-AP",
+  "description": "CBROS Technologies Limited",
+  "subnets": {
+    "ipv4": [
+      "203.33.188.0/24"
+    ],
+    "ipv6": [
+      "2400:1360:c000::/34"
+    ]
+  }
+}

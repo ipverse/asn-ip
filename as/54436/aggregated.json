@@ -3,9 +3,7 @@
   "handle": "VIN-RANGE1",
   "description": "VIN Solutions, Inc",
   "subnets": {
-    "ipv4": [
-      "50.59.43.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

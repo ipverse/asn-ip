@@ -3,7 +3,9 @@
   "handle": "INSTITUTO-CURITIBA-DE",
   "description": "Instituto Curitiba de Informtica",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "177.125.176.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,12 @@
   "handle": "VRSN-AC50-340",
   "description": "VeriSign Global Registry Services",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "69.36.153.0/24",
+      "192.42.175.0/24",
+      "192.82.133.0/24",
+      "216.168.228.0/24"
+    ],
     "ipv6": []
   }
 }

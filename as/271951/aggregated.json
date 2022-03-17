@@ -3,10 +3,7 @@
   "handle": "IT-PRONETWORK-CA",
   "description": "IT PRONETWORK C.A.",
   "subnets": {
-    "ipv4": [
-      "38.41.190.0/24",
-      "206.162.245.0/24"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2803:3610::/32"
     ]

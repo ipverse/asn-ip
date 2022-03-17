@@ -4,6 +4,7 @@
   "description": "NH Broadband, LLC",
   "subnets": {
     "ipv4": [
+      "38.7.152.0/22",
       "66.231.210.0/23"
     ],
     "ipv6": []

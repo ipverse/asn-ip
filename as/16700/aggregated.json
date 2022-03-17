@@ -4,6 +4,7 @@
   "description": "City of Thomasville Utilities",
   "subnets": {
     "ipv4": [
+      "23.247.216.0/22",
       "64.39.128.0/19",
       "66.220.176.0/20",
       "66.252.200.0/21",

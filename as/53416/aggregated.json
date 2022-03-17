@@ -3,9 +3,7 @@
   "handle": "RMSOURCE-INC-DURHAM-DATACENTER-NC",
   "description": "RMSource Inc.",
   "subnets": {
-    "ipv4": [
-      "8.224.178.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

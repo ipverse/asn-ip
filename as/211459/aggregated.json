@@ -3,7 +3,9 @@
   "handle": "ATHAMEDIANETWORK",
   "description": "Atha Media Prima CV.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.233.151.0/24"
+    ],
     "ipv6": []
   }
 }

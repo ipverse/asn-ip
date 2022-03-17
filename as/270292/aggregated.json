@@ -4,7 +4,8 @@
   "description": "CONECTTE TELECOM LTDA",
   "subnets": {
     "ipv4": [
-      "201.71.192.0/22"
+      "201.71.192.0/23",
+      "201.71.194.0/24"
     ],
     "ipv6": []
   }

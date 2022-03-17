@@ -4,8 +4,7 @@
   "description": "ATL Data Centers LLC",
   "subnets": {
     "ipv4": [
-      "161.8.32.0/19",
-      "204.141.16.0/22"
+      "161.8.32.0/19"
     ],
     "ipv6": []
   }

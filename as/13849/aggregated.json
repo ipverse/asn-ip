@@ -1,0 +1,13 @@
+{
+  "asn": 13849,
+  "handle": "BLOCKINETIC",
+  "description": "Blockinetic LLC",
+  "subnets": {
+    "ipv4": [
+      "23.133.82.0/24"
+    ],
+    "ipv6": [
+      "2602:fbb5::/36"
+    ]
+  }
+}
