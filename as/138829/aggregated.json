@@ -4,7 +4,7 @@
   "description": "PT Capoeng Digital Nusantara",
   "subnets": {
     "ipv4": [
-      "103.11.132.0/23",
+      "103.11.132.0/24",
       "103.137.110.0/23"
     ],
     "ipv6": [

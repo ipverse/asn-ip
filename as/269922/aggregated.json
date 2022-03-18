@@ -3,7 +3,9 @@
   "handle": "68-MEDIA-SA",
   "description": "68 MEDIA S.A.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.191.164.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "OPEN-PEERING",
   "description": "Broadband Hosting B.V",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "82.150.133.0/24"
+    ],
     "ipv6": []
   }
 }

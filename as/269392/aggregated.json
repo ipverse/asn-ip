@@ -3,7 +3,9 @@
   "handle": "J-FLIX-JNIOR-ME",
   "description": "J FLIX JNIOR - ME",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.184.176.0/22"
+    ],
     "ipv6": []
   }
 }

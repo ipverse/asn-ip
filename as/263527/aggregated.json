@@ -4,6 +4,7 @@
   "description": "SERRA GERAL SOLUCOES PARA INTERNET LTDA",
   "subnets": {
     "ipv4": [
+      "45.171.78.0/24",
       "191.253.40.0/21"
     ],
     "ipv6": [

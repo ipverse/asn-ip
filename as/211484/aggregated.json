@@ -1,6 +1,6 @@
 {
   "asn": 211484,
-  "handle": "ASSOCIATION-IT-JUNIOR",
+  "handle": "IT-JUNIOR",
   "description": "Association IT-JUNIOR",
   "subnets": {
     "ipv4": [
@@ -8,7 +8,7 @@
     ],
     "ipv6": [
       "2a0e:97c0:36f::/48",
-      "2a0e:97c0:3b0::/44"
+      "2a0e:97c0:3b0::/48"
     ]
   }
 }

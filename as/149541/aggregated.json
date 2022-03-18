@@ -1,0 +1,11 @@
+{
+  "asn": 149541,
+  "handle": "JRCOM-IN",
+  "description": "JR COMMUNICATIONS",
+  "subnets": {
+    "ipv4": [
+      "103.181.148.0/23"
+    ],
+    "ipv6": []
+  }
+}

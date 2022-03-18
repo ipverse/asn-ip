@@ -4,6 +4,7 @@
   "description": "Boulder County Government",
   "subnets": {
     "ipv4": [
+      "97.107.70.0/24",
       "192.188.155.0/24"
     ],
     "ipv6": []

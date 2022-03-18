@@ -4,7 +4,8 @@
   "description": "AL-MARAJ AL-ALAMIYA Co",
   "subnets": {
     "ipv4": [
-      "185.133.224.0/22"
+      "185.133.225.0/24",
+      "185.133.226.0/23"
     ],
     "ipv6": []
   }
