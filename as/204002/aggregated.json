@@ -1,0 +1,11 @@
+{
+  "asn": 204002,
+  "handle": "ADITROCLOUD",
+  "description": "Aditro Shared Services Oy",
+  "subnets": {
+    "ipv4": [
+      "185.43.90.0/24"
+    ],
+    "ipv6": []
+  }
+}

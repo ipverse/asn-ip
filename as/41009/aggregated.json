@@ -4,7 +4,6 @@
   "description": "PP Vizit-Service",
   "subnets": {
     "ipv4": [
-      "195.64.231.0/24",
       "195.189.60.0/22"
     ],
     "ipv6": [

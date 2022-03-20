@@ -3,7 +3,9 @@
   "handle": "WSNL-IN",
   "description": "WSNL BROADBAND PRIVATE LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.174.246.0/23"
+    ],
     "ipv6": []
   }
 }

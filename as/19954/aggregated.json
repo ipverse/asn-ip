@@ -3,9 +3,7 @@
   "handle": "ATDESK",
   "description": "Automated Trading Desk",
   "subnets": {
-    "ipv4": [
-      "204.130.247.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

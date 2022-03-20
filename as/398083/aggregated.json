@@ -4,6 +4,7 @@
   "description": "Ting Wireless",
   "subnets": {
     "ipv4": [
+      "5.104.72.0/24",
       "5.133.124.0/24"
     ],
     "ipv6": []

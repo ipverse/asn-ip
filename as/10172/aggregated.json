@@ -1,0 +1,11 @@
+{
+  "asn": 10172,
+  "handle": "KBBOOK-KR",
+  "description": "KYOBO BOOK CENTER",
+  "subnets": {
+    "ipv4": [
+      "103.182.126.0/23"
+    ],
+    "ipv6": []
+  }
+}

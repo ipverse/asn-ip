@@ -1,0 +1,11 @@
+{
+  "asn": 149407,
+  "handle": "IDNIC-SUNMOTOR-ID",
+  "description": "PT Sun Star Motor",
+  "subnets": {
+    "ipv4": [
+      "103.183.6.0/23"
+    ],
+    "ipv6": []
+  }
+}

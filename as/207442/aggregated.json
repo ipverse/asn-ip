@@ -3,7 +3,9 @@
   "handle": "TIQANYAT-AL-SHABKA",
   "description": "Tiqaniyat Al-shabkah for Internet Services Co.Ltd Private Company",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.219.112.0/24"
+    ],
     "ipv6": []
   }
 }

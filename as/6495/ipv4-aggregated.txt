@@ -1,4 +1,7 @@
 # AS6495 (HSBC-MEXICO-SA)
 # HSBC Mexico, S.A., Institucion de Banca Multiple, Grupo Financiero HSBC
 #
-200.16.32.0/19
+200.16.32.0/20
+200.16.48.0/22
+200.16.53.0/24
+200.16.54.0/23

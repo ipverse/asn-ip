@@ -3,7 +3,9 @@
   "handle": "A-C-DA-S-GOMES-CIA-LTDA-EPP",
   "description": "A C DA S GOMES \u0026 CIA LTDA - EPP",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.179.232.0/22"
+    ],
     "ipv6": []
   }
 }

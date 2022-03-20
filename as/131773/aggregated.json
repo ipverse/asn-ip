@@ -4,7 +4,7 @@
   "description": "PT WISUANDHA NETWORK GLOBALINDO",
   "subnets": {
     "ipv4": [
-      "103.134.244.0/22"
+      "103.134.244.0/24"
     ],
     "ipv6": []
   }

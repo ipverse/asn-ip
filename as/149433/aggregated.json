@@ -3,7 +3,9 @@
   "handle": "FM-AP",
   "description": "FM Networks",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.179.128.0/24"
+    ],
     "ipv6": []
   }
 }

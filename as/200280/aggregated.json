@@ -4,6 +4,8 @@
   "description": "Cameron Sharp",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a0a:4a40:2270::/48"
+    ]
   }
 }
