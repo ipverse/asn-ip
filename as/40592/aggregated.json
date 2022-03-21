@@ -1,0 +1,11 @@
+{
+  "asn": 40592,
+  "handle": "SPG-CORP",
+  "description": "DACS-IX",
+  "subnets": {
+    "ipv4": [
+      "199.59.210.0/24"
+    ],
+    "ipv6": []
+  }
+}

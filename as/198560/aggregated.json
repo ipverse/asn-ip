@@ -4,7 +4,8 @@
   "description": "ITCare Pawel Staszewski",
   "subnets": {
     "ipv4": [
-      "91.236.128.0/24"
+      "91.236.128.0/24",
+      "185.240.136.0/23"
     ],
     "ipv6": []
   }

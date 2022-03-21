@@ -3,9 +3,7 @@
   "handle": "ASGOLDWARE",
   "description": "GOLDWARE s.r.o.",
   "subnets": {
-    "ipv4": [
-      "91.237.236.0/22"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2001:67c:2b7c::/48"
     ]

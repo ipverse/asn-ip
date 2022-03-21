@@ -4,6 +4,7 @@
   "description": "STILLO NET PROVEDOR LTDA ME",
   "subnets": {
     "ipv4": [
+      "45.185.60.0/23",
       "45.185.62.0/24"
     ],
     "ipv6": [

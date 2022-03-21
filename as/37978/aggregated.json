@@ -4,7 +4,6 @@
   "description": "Telstra Networking Tasmania",
   "subnets": {
     "ipv4": [
-      "103.173.176.0/24",
       "110.76.176.0/22",
       "147.41.0.0/16",
       "147.109.0.0/16",

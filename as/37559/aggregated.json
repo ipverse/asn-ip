@@ -3,7 +3,9 @@
   "handle": "ORANGE-BISSAU",
   "description": "Orange Bissau",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "197.214.80.0/20"
+    ],
     "ipv6": []
   }
 }

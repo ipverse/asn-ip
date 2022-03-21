@@ -3,7 +3,10 @@
   "handle": "WORLDVIS-IN",
   "description": "World Vision Networks Private Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.91.127.0/24",
+      "103.116.24.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "TCI",
   "description": "TCi Sp. z o.o.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "171.25.216.0/24"
+    ],
     "ipv6": []
   }
 }
