@@ -4,6 +4,7 @@
   "description": "Northwest Open Access Network",
   "subnets": {
     "ipv4": [
+      "23.133.24.0/24",
       "64.113.6.0/23",
       "64.113.8.0/24",
       "64.113.18.0/23",

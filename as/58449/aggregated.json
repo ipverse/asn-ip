@@ -4,8 +4,7 @@
   "description": "PT Nusa Satu Inti Artha",
   "subnets": {
     "ipv4": [
-      "103.10.129.0/24",
-      "103.10.130.0/23"
+      "103.10.128.0/22"
     ],
     "ipv6": []
   }

@@ -4,7 +4,8 @@
   "description": "Net Sini Fiber Home Telecomunicao LTDA - me",
   "subnets": {
     "ipv4": [
-      "45.169.200.0/23"
+      "45.169.200.0/23",
+      "45.169.202.0/24"
     ],
     "ipv6": [
       "2804:5894::/32"

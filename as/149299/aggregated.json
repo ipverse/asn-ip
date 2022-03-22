@@ -3,9 +3,7 @@
   "handle": "NINEPACKET-AP",
   "description": "NinePacket, Inc.",
   "subnets": {
-    "ipv4": [
-      "103.178.55.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

@@ -4,8 +4,6 @@
   "description": "August Internet Limited",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2602:fc23:10d::/48"
-    ]
+    "ipv6": []
   }
 }

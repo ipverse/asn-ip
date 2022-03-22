@@ -4,7 +4,6 @@
   "description": "China Unicom Guangdong IP network",
   "subnets": {
     "ipv4": [
-      "43.146.0.0/22",
       "43.254.128.0/22",
       "58.254.129.0/24",
       "58.254.131.0/24",

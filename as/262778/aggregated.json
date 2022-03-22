@@ -3,10 +3,7 @@
   "handle": "IDSUL-SERVICOS-DE",
   "description": "IDSUL SERVICOS DE INTERNET LTDA",
   "subnets": {
-    "ipv4": [
-      "186.233.9.0/24",
-      "186.233.10.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

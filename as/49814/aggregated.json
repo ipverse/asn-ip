@@ -1,0 +1,12 @@
+{
+  "asn": 49814,
+  "handle": "TOMGATE",
+  "description": "TomGate LLC",
+  "subnets": {
+    "ipv4": [
+      "31.24.24.0/21",
+      "176.65.32.0/19"
+    ],
+    "ipv6": []
+  }
+}

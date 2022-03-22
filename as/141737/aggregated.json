@@ -1,0 +1,11 @@
+{
+  "asn": 141737,
+  "handle": "RAPIDNETWORK-AP",
+  "description": "Rapid Network",
+  "subnets": {
+    "ipv4": [
+      "103.182.212.0/23"
+    ],
+    "ipv6": []
+  }
+}

@@ -3,9 +3,7 @@
   "handle": "CREDICOM-GR",
   "description": "VIVABANK AE",
   "subnets": {
-    "ipv4": [
-      "195.22.154.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

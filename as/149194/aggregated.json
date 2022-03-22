@@ -3,7 +3,9 @@
   "handle": "ADL-IN",
   "description": "Airtel Digital Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.178.50.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -1,0 +1,12 @@
+{
+  "asn": 208731,
+  "handle": "UNGLEICH-CLIMATE",
+  "description": "ungleich glarus ag",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a0a:e5c0:13::/48",
+      "2a0a:e5c0:2c::/48"
+    ]
+  }
+}

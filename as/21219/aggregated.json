@@ -4,6 +4,7 @@
   "description": "PRIVATE JOINT STOCK COMPANY DATAGROUP",
   "subnets": {
     "ipv4": [
+      "80.91.169.0/24",
       "93.183.236.0/24",
       "195.114.133.0/24",
       "195.178.150.0/24"

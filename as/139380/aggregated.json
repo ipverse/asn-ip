@@ -3,7 +3,9 @@
   "handle": "IDNIC-BOMMAKSES-ID",
   "description": "PT BOMM AKSES TEKNOLOGI",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.142.242.0/24"
+    ],
     "ipv6": []
   }
 }

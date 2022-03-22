@@ -3,9 +3,7 @@
   "handle": "ENDSIGHT-CL-1",
   "description": "Endsight",
   "subnets": {
-    "ipv4": [
-      "75.98.81.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }
