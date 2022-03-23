@@ -3,9 +3,7 @@
   "handle": "SYSTEMHOSTING",
   "description": "SYSTEMHOSTING A/S",
   "subnets": {
-    "ipv4": [
-      "80.243.117.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

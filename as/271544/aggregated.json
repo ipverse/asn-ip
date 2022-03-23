@@ -3,7 +3,9 @@
   "handle": "NOOVA-TECNOLOGIA-EM",
   "description": "NOOVA TECNOLOGIA EM TELECOMUNICACAO LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.41.196.0/22"
+    ],
     "ipv6": [
       "2804:7d2c::/32"
     ]

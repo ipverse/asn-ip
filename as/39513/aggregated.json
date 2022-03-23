@@ -3,7 +3,9 @@
   "handle": "ONECOM",
   "description": "TOV ONECOM",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.93.76.0/22"
+    ],
     "ipv6": []
   }
 }

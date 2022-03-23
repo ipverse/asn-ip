@@ -3,9 +3,7 @@
   "handle": "LOCKHART-POWER",
   "description": "Lockhart Power Company",
   "subnets": {
-    "ipv4": [
-      "75.141.85.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

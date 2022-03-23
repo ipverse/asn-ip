@@ -4,6 +4,7 @@
   "description": "TECHTRON ARGENTINA S.A.",
   "subnets": {
     "ipv4": [
+      "45.172.141.0/24",
       "45.172.143.0/24",
       "170.79.180.0/22"
     ],

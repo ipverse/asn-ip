@@ -4,8 +4,6 @@
   "description": "Intelligent Tools",
   "subnets": {
     "ipv4": [
-      "43.231.112.0/22",
-      "103.50.204.0/22",
       "103.153.141.0/24"
     ],
     "ipv6": []

@@ -4,6 +4,8 @@
   "description": "Michael Gamsjaeger PE",
   "subnets": {
     "ipv4": [
+      "193.194.102.0/23",
+      "193.194.104.0/24",
       "195.66.91.0/24"
     ],
     "ipv6": []

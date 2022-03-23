@@ -3,9 +3,7 @@
   "handle": "AIGPB",
   "description": "Falcon Private Bank AG",
   "subnets": {
-    "ipv4": [
-      "194.209.52.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

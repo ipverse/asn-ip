@@ -3,10 +3,7 @@
   "handle": "GESTIONIZA",
   "description": "GESTIONIZA TELECOM SLU",
   "subnets": {
-    "ipv4": [
-      "185.147.16.0/22",
-      "185.248.77.0/24"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2a10:4e80::/29"
     ]

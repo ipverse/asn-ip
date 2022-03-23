@@ -3,7 +3,9 @@
   "handle": "YAKSHEN",
   "description": "Yaksh Enterprises",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.158.104.0/23"
+    ],
     "ipv6": [
       "2001:df5:ab80::/48"
     ]
