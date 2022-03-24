@@ -3,7 +3,10 @@
   "handle": "PIX-BRASIL-NETWORKS-LTDA",
   "description": "PIX BRASIL NETWORKS LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "201.159.89.0/24",
+      "201.159.92.0/23"
+    ],
     "ipv6": []
   }
 }

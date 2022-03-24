@@ -4,8 +4,7 @@
   "description": "Authentic Network",
   "subnets": {
     "ipv4": [
-      "103.127.84.0/23",
-      "103.127.86.0/24"
+      "103.127.84.0/22"
     ],
     "ipv6": []
   }

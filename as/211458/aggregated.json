@@ -3,7 +3,9 @@
   "handle": "IH-NET",
   "description": "IH-NETWORK SHPK",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.23.110.0/24"
+    ],
     "ipv6": []
   }
 }

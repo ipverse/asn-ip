@@ -3,9 +3,7 @@
   "handle": "EDGOO-CUSTOMERS",
   "description": "EDGOO NETWORKS UNIPESSOAL LDA",
   "subnets": {
-    "ipv4": [
-      "91.240.243.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

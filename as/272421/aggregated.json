@@ -4,7 +4,8 @@
   "description": "Power Fibra Telecomunicacoes LTDA",
   "subnets": {
     "ipv4": [
-      "38.9.50.0/24"
+      "38.9.50.0/24",
+      "168.90.189.0/24"
     ],
     "ipv6": [
       "2804:80ec::/36"

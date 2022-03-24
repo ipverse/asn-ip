@@ -1,0 +1,12 @@
+{
+  "asn": 135438,
+  "handle": "MST-AP",
+  "description": "M.D SOFT TECHNOLOGY",
+  "subnets": {
+    "ipv4": [
+      "103.111.12.0/24",
+      "103.111.14.0/23"
+    ],
+    "ipv6": []
+  }
+}

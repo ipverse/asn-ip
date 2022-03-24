@@ -4,8 +4,7 @@
   "description": "Netdirect Wireless Technology (Pty) Ltd",
   "subnets": {
     "ipv4": [
-      "102.218.64.0/23",
-      "102.218.66.0/24"
+      "102.218.64.0/22"
     ],
     "ipv6": []
   }

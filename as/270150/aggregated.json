@@ -4,6 +4,7 @@
   "description": "EISIP SA DE CV",
   "subnets": {
     "ipv4": [
+      "45.176.191.0/24",
       "181.232.172.0/22"
     ],
     "ipv6": []

@@ -4,6 +4,8 @@
   "description": "Bunny \u0026 Tomato Interconnect, Inc.",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a09:b280:ff90::/48"
+    ]
   }
 }

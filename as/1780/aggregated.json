@@ -4,6 +4,7 @@
   "description": "Valmet Oyj",
   "subnets": {
     "ipv4": [
+      "139.74.126.0/23",
       "139.74.128.0/23"
     ],
     "ipv6": []

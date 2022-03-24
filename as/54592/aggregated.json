@@ -3,12 +3,7 @@
   "handle": "PHOENIXSOFT",
   "description": "Phoenixsoft, Inc.",
   "subnets": {
-    "ipv4": [
-      "70.182.55.0/24",
-      "74.202.143.0/24",
-      "192.84.167.0/24",
-      "206.169.153.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

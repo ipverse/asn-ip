@@ -3,7 +3,9 @@
   "handle": "WEB-CONNECT",
   "description": "Web Connect",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "181.233.175.0/24"
+    ],
     "ipv6": []
   }
 }

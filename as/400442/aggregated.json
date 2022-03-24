@@ -3,7 +3,9 @@
   "handle": "VULPINE-01",
   "description": "Vulpine Networks",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "23.133.168.0/24"
+    ],
     "ipv6": []
   }
 }

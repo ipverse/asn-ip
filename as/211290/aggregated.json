@@ -1,0 +1,12 @@
+{
+  "asn": 211290,
+  "handle": "IT-PZSI",
+  "description": "ISTITUTO POLIGRAFICO E ZECCA DELLO STATO S.P.A.",
+  "subnets": {
+    "ipv4": [
+      "147.78.212.0/23",
+      "147.78.214.0/24"
+    ],
+    "ipv6": []
+  }
+}
