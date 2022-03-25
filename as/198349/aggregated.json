@@ -3,10 +3,7 @@
   "handle": "BALENO",
   "description": "Baleno S.r.l.",
   "subnets": {
-    "ipv4": [
-      "91.233.254.0/23",
-      "185.19.140.0/22"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

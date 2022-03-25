@@ -3,7 +3,9 @@
   "handle": "SIA-LAT",
   "description": "SIA L.A.T",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "159.148.249.0/24"
+    ],
     "ipv6": [
       "2a03:6a0::/32"
     ]

@@ -3,10 +3,7 @@
   "handle": "DIALTELECOMRO",
   "description": "RCS \u0026 RDS SA",
   "subnets": {
-    "ipv4": [
-      "81.180.112.0/20",
-      "176.223.0.0/18"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

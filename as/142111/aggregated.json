@@ -3,9 +3,7 @@
   "handle": "AIYUN-AP",
   "description": "Ningbo Dahuamao Information Technology Co Ltd",
   "subnets": {
-    "ipv4": [
-      "103.180.108.0/24"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2406:840:f40f::/48"
     ]

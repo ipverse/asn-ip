@@ -3,10 +3,7 @@
   "handle": "TELE2-FIXED-SWEDEN",
   "description": "Tele2 Sverige AB",
   "subnets": {
-    "ipv4": [
-      "193.180.247.0/24",
-      "193.234.87.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

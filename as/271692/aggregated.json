@@ -3,7 +3,9 @@
   "handle": "JEFFERSON-COSTA-DA",
   "description": "JEFFERSON COSTA DA SILVA VIANA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.167.82.0/24"
+    ],
     "ipv6": []
   }
 }

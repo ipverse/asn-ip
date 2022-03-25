@@ -3,7 +3,10 @@
   "handle": "ATLL-AP",
   "description": "Allied Telesis Labs Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "202.36.163.0/24",
+      "202.49.72.0/22"
+    ],
     "ipv6": []
   }
 }

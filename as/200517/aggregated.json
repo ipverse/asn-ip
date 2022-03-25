@@ -3,7 +3,13 @@
   "handle": "MS-DEUTSCHLAND",
   "description": "Microsoft Deutschland MCIO GmbH",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "51.4.0.0/15",
+      "51.8.0.0/16",
+      "51.18.0.0/16"
+    ],
+    "ipv6": [
+      "2a01:4180::/33"
+    ]
   }
 }

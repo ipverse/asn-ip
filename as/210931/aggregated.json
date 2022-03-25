@@ -3,9 +3,7 @@
   "handle": "IBAN",
   "description": "Borodin Alexey Nikolaevich",
   "subnets": {
-    "ipv4": [
-      "87.251.76.0/24"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2a0c:b641:6f1::/48",
       "2a0c:b641:6f2::/48"

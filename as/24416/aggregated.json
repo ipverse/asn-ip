@@ -3,7 +3,9 @@
   "handle": "CNNIC-PRIMETELECOM-AP",
   "description": "Beijing Primezone Technologies Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "219.237.224.0/24"
+    ],
     "ipv6": []
   }
 }

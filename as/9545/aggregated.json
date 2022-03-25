@@ -4,8 +4,6 @@
   "description": "Asia Pacific Network Information Centre",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2001:dd8:f::/48"
-    ]
+    "ipv6": []
   }
 }

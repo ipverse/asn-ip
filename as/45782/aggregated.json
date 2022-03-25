@@ -3,9 +3,7 @@
   "handle": "PHILIPPINEAIRLINES-PH-AP",
   "description": "Sky Internet",
   "subnets": {
-    "ipv4": [
-      "210.4.6.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }
