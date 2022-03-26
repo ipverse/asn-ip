@@ -3,12 +3,7 @@
   "handle": "NETCETERA-TELECOMUNICAES-LTDA",
   "description": "Netcetera Telecomunicaes Ltda.",
   "subnets": {
-    "ipv4": [
-      "177.130.64.0/20",
-      "186.194.240.0/20"
-    ],
-    "ipv6": [
-      "2804:154::/32"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

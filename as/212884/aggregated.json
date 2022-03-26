@@ -4,7 +4,8 @@
   "description": "Veyron Networks Ltd",
   "subnets": {
     "ipv4": [
-      "23.153.48.0/24"
+      "23.153.48.0/24",
+      "154.6.150.0/24"
     ],
     "ipv6": []
   }

@@ -4,7 +4,8 @@
   "description": "SPEEDFAST TELECOM LTDA",
   "subnets": {
     "ipv4": [
-      "170.233.20.0/24"
+      "170.233.20.0/24",
+      "170.233.23.0/24"
     ],
     "ipv6": []
   }

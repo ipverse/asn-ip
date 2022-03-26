@@ -4,6 +4,8 @@
   "description": "ULTRANET NETWORK",
   "subnets": {
     "ipv4": [
+      "177.85.16.0/21",
+      "179.125.0.0/21",
       "201.182.48.0/22"
     ],
     "ipv6": [

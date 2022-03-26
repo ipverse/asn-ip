@@ -4,7 +4,8 @@
   "description": "VIDATEL SERVICOS CONVERGENTES EM TELECOMUNICACOES",
   "subnets": {
     "ipv4": [
-      "192.141.248.0/22"
+      "192.141.249.0/24",
+      "192.141.250.0/23"
     ],
     "ipv6": []
   }

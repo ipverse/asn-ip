@@ -3,7 +3,12 @@
   "handle": "COOPERATIVA-DE-SERVICIOS",
   "description": "COOPERATIVA DE SERVICIOS MULTIPLES REG",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.188.136.0/22",
+      "45.188.188.0/22",
+      "179.42.160.0/21",
+      "190.89.172.0/22"
+    ],
     "ipv6": []
   }
 }

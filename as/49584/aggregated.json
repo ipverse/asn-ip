@@ -1,0 +1,11 @@
+{
+  "asn": 49584,
+  "handle": "DATAXION",
+  "description": "Dataxion SAS",
+  "subnets": {
+    "ipv4": [
+      "185.179.114.0/24"
+    ],
+    "ipv6": []
+  }
+}

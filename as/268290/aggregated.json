@@ -4,7 +4,8 @@
   "description": "Big Net Provedor de Internet Eireli",
   "subnets": {
     "ipv4": [
-      "45.237.204.0/22"
+      "45.237.204.0/23",
+      "45.237.206.0/24"
     ],
     "ipv6": []
   }

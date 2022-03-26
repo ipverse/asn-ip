@@ -4,7 +4,8 @@
   "description": "Evolution Latvia SIA",
   "subnets": {
     "ipv4": [
-      "45.80.53.0/24"
+      "45.80.53.0/24",
+      "45.80.54.0/24"
     ],
     "ipv6": []
   }

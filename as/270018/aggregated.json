@@ -3,7 +3,9 @@
   "handle": "LA-PREVISORA-SA",
   "description": "LA PREVISORA S.A. COMPAIA DE SEGUROS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "200.23.75.0/24"
+    ],
     "ipv6": []
   }
 }

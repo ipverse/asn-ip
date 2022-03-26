@@ -4,7 +4,8 @@
   "description": "Alpla-Werke Alwin Lehner GmbH und CoKG",
   "subnets": {
     "ipv4": [
-      "193.186.110.0/23"
+      "193.186.107.0/24",
+      "193.186.108.0/24"
     ],
     "ipv6": []
   }

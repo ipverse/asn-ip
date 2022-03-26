@@ -3,7 +3,9 @@
   "handle": "MEGANET-TELECOM",
   "description": "MegaNet Telecom",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.236.72.0/22"
+    ],
     "ipv6": []
   }
 }

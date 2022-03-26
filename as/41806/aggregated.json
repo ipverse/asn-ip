@@ -4,6 +4,7 @@
   "description": "COMPANIA NATIONALA DE TRANSPORT AL ENERGIEI ELECTRICE TRANSELECTRICA S.A.",
   "subnets": {
     "ipv4": [
+      "193.230.137.0/24",
       "194.176.176.0/24"
     ],
     "ipv6": []
