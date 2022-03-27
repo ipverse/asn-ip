@@ -3,7 +3,9 @@
   "handle": "LOGAR-INTERNET-EIRELE-EPP",
   "description": "LOGAR INTERNET EIRELE EPP",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.71.232.0/22"
+    ],
     "ipv6": []
   }
 }

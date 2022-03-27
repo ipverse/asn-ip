@@ -3,7 +3,9 @@
   "handle": "EJ-TELECOM-LTDA-ME",
   "description": "EJ TELECOM LTDA - ME",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.225.20.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "GURTAM",
   "description": "Gurtam ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.149.109.0/24"
+    ],
     "ipv6": []
   }
 }

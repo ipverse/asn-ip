@@ -4,8 +4,7 @@
   "description": "KONECTAMAIS SCM LTDA",
   "subnets": {
     "ipv4": [
-      "190.115.80.0/23",
-      "190.115.82.0/24"
+      "190.115.80.0/22"
     ],
     "ipv6": []
   }

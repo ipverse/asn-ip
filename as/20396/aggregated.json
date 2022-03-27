@@ -4,8 +4,7 @@
   "description": "The Fashion Institute of Design and Merchandising",
   "subnets": {
     "ipv4": [
-      "65.166.16.0/24",
-      "206.135.17.0/24"
+      "65.166.16.0/24"
     ],
     "ipv6": []
   }

@@ -3,7 +3,9 @@
   "handle": "GOLDEN-TECHNOLOGIA-LTDA-ME",
   "description": "GOLDEN TECHNOLOGIA LTDA - ME",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.174.64.0/22"
+    ],
     "ipv6": []
   }
 }

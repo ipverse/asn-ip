@@ -3,7 +3,9 @@
   "handle": "ZNTU",
   "description": "Zaporizhzhe National Technical University",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.8.51.0/24"
+    ],
     "ipv6": []
   }
 }

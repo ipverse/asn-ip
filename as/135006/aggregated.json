@@ -4,6 +4,7 @@
   "description": "Bit Huitong (Beijing) Information Co., Ltd.",
   "subnets": {
     "ipv4": [
+      "59.152.32.0/24",
       "59.152.35.0/24"
     ],
     "ipv6": []

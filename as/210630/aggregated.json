@@ -3,9 +3,10 @@
   "handle": "INCOGNET",
   "description": "IncogNET LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.59.116.0/24"
+    ],
     "ipv6": [
-      "2602:fc24:11::/48",
       "2602:fc24:14::/46"
     ]
   }
