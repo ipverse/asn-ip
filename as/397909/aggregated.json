@@ -3,7 +3,9 @@
   "handle": "EGUSD-01",
   "description": "Elk Grove Unified School District",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "207.166.54.0/24"
+    ],
     "ipv6": []
   }
 }

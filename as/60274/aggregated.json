@@ -4,6 +4,7 @@
   "description": "EDV Consulting Zoichter GmbH",
   "subnets": {
     "ipv4": [
+      "185.123.176.0/22",
       "185.233.67.0/24"
     ],
     "ipv6": [

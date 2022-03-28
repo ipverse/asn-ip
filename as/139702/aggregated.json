@@ -3,9 +3,7 @@
   "handle": "PEU-AP",
   "description": "Peu Enterprise",
   "subnets": {
-    "ipv4": [
-      "103.162.86.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

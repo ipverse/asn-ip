@@ -3,11 +3,7 @@
   "handle": "NEOJAIME-OLIVEIRA-RIBEIRO-ME",
   "description": "neojaime oliveira ribeiro me",
   "subnets": {
-    "ipv4": [
-      "131.161.224.0/22"
-    ],
-    "ipv6": [
-      "2804:1dd8::/32"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

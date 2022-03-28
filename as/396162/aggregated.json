@@ -3,7 +3,9 @@
   "handle": "ANICO-3030",
   "description": "American National Insurance Company",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "170.76.146.0/24"
+    ],
     "ipv6": []
   }
 }

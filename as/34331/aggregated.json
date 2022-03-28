@@ -1,0 +1,11 @@
+{
+  "asn": 34331,
+  "handle": "KIEVNET",
+  "description": "TOV KS PLUS",
+  "subnets": {
+    "ipv4": [
+      "109.86.0.0/24"
+    ],
+    "ipv6": []
+  }
+}

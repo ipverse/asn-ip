@@ -4,8 +4,7 @@
   "description": "Netvoice Data Security GmbH",
   "subnets": {
     "ipv4": [
-      "109.69.168.0/21",
-      "185.123.176.0/22"
+      "109.69.168.0/21"
     ],
     "ipv6": [
       "2a00:1498::/32"

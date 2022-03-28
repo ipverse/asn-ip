@@ -3,7 +3,9 @@
   "handle": "CORREOS-CHILE",
   "description": "Correos Chile",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "201.238.220.0/24"
+    ],
     "ipv6": []
   }
 }
