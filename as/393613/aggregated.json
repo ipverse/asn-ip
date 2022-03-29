@@ -4,6 +4,7 @@
   "description": "Virginia Credit Union, Inc.",
   "subnets": {
     "ipv4": [
+      "192.48.103.0/24",
       "204.13.156.0/23"
     ],
     "ipv6": []

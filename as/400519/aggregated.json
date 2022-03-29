@@ -3,7 +3,9 @@
   "handle": "DEVELOPED-METHODS",
   "description": "Developed Methods LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "147.185.221.0/24"
+    ],
     "ipv6": []
   }
 }

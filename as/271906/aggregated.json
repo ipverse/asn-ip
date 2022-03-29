@@ -3,7 +3,9 @@
   "handle": "WEBLINK-SRL",
   "description": "WebLink SRL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "200.85.143.0/24"
+    ],
     "ipv6": []
   }
 }

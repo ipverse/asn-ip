@@ -3,9 +3,7 @@
   "handle": "STEVEYI-NETWORK",
   "description": "Tsung-Yi Yu, Sole Proprietorship",
   "subnets": {
-    "ipv4": [
-      "165.140.142.0/24"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2602:fc23::/36",
       "2606:b0c0::/32"

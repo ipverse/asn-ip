@@ -3,9 +3,7 @@
   "handle": "SOFTVIJAY-IN",
   "description": "Vijay Software",
   "subnets": {
-    "ipv4": [
-      "103.180.68.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

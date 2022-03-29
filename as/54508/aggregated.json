@@ -3,9 +3,7 @@
   "handle": "ST-ROC",
   "description": "ShoreTel, Inc.",
   "subnets": {
-    "ipv4": [
-      "199.77.193.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

@@ -3,9 +3,7 @@
   "handle": "FLOWHOST",
   "description": "FlowHost",
   "subnets": {
-    "ipv4": [
-      "154.51.36.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

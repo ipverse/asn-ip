@@ -3,7 +3,13 @@
   "handle": "AILON-RODRIGO-OLIVEIRA",
   "description": "Ailon Rodrigo Oliveira Lima ME",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "168.228.12.0/24",
+      "168.228.15.0/24"
+    ],
+    "ipv6": [
+      "2804:2f98::/34",
+      "2804:2f98:c000::/34"
+    ]
   }
 }
