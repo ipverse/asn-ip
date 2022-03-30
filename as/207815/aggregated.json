@@ -3,12 +3,7 @@
   "handle": "AS1-LSM",
   "description": "Luis Sanchez Martin",
   "subnets": {
-    "ipv4": [
-      "194.11.16.0/24",
-      "194.11.19.0/24",
-      "194.11.25.0/24",
-      "194.11.83.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

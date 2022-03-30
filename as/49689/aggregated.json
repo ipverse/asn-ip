@@ -1,0 +1,11 @@
+{
+  "asn": 49689,
+  "handle": "CORESYSTEM-LABS",
+  "description": "CORESYSTEM SASU",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a10:8b40:1001::/48"
+    ]
+  }
+}

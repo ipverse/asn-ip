@@ -1,0 +1,13 @@
+{
+  "asn": 149051,
+  "handle": "DNB-AP",
+  "description": "Digital Nasional Berhad",
+  "subnets": {
+    "ipv4": [
+      "103.177.134.0/23"
+    ],
+    "ipv6": [
+      "2400:3a60::/32"
+    ]
+  }
+}

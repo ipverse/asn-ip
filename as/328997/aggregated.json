@@ -3,7 +3,9 @@
   "handle": "RIMATEL",
   "description": "RIMATEL-SA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "102.216.216.0/24"
+    ],
     "ipv6": []
   }
 }

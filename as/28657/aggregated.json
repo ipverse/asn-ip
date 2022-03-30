@@ -4,9 +4,7 @@
   "description": "MD Brasil - Tecnologia da Informao Ltda",
   "subnets": {
     "ipv4": [
-      "138.99.96.0/22",
-      "187.73.144.0/20",
-      "201.71.240.0/20"
+      "138.99.96.0/22"
     ],
     "ipv6": [
       "2804:40::/35",

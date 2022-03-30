@@ -3,7 +3,9 @@
   "handle": "BADJELLY-SA",
   "description": "BADJELLY S.A.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "201.131.37.0/24"
+    ],
     "ipv6": []
   }
 }

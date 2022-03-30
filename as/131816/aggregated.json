@@ -1,0 +1,11 @@
+{
+  "asn": 131816,
+  "handle": "IBKI-KR",
+  "description": "IBK Insurance",
+  "subnets": {
+    "ipv4": [
+      "175.195.74.0/23"
+    ],
+    "ipv6": []
+  }
+}

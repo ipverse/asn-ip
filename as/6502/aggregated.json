@@ -3,7 +3,9 @@
   "handle": "INTEGRA-ELIX",
   "description": "Allstream Business US, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "207.173.2.0/24"
+    ],
     "ipv6": []
   }
 }

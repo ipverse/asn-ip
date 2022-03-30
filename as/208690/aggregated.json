@@ -4,10 +4,6 @@
   "description": "SAKANO YUTA",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2a0e:97c0:6d1::/48",
-      "2a0e:97c0:6d3::/48",
-      "2a0e:97c0:6d4::/48"
-    ]
+    "ipv6": []
   }
 }

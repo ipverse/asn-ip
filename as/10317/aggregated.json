@@ -4,6 +4,7 @@
   "description": "Cuc International",
   "subnets": {
     "ipv4": [
+      "198.245.183.0/24",
       "206.28.153.0/24"
     ],
     "ipv6": []

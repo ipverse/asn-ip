@@ -3,9 +3,7 @@
   "handle": "KD-INTERNET",
   "description": "KD INTERNET",
   "subnets": {
-    "ipv4": [
-      "168.181.68.0/22"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

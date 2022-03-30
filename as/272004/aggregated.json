@@ -3,7 +3,9 @@
   "handle": "EGP-COMUNICACIONES-SAC",
   "description": "EGP COMUNICACIONES S.A.C",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.43.108.0/22"
+    ],
     "ipv6": [
       "2803:6910::/32"
     ]

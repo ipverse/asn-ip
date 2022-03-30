@@ -4,8 +4,6 @@
   "description": "Aeprovi",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2001:13c7:6f80::/48"
-    ]
+    "ipv6": []
   }
 }
