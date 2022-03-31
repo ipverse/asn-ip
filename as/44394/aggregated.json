@@ -1,0 +1,11 @@
+{
+  "asn": 44394,
+  "handle": "OBENETWORK",
+  "description": "Obenetwork AB",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a03:8600:6::/48"
+    ]
+  }
+}

@@ -4,6 +4,8 @@
   "description": "SIMPSON INTERNET VIA RADIO WI-FI - EIRELI",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2804:7e20::/32"
+    ]
   }
 }

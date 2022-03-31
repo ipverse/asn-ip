@@ -1,0 +1,11 @@
+{
+  "asn": 149412,
+  "handle": "IDNIC-CDI-ID",
+  "description": "PT Centris Data Indonesia",
+  "subnets": {
+    "ipv4": [
+      "103.183.94.0/24"
+    ],
+    "ipv6": []
+  }
+}

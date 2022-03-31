@@ -1,0 +1,11 @@
+{
+  "asn": 14516,
+  "handle": "INVESTEC-2",
+  "description": "Investec Bank Ltd",
+  "subnets": {
+    "ipv4": [
+      "185.197.52.0/24"
+    ],
+    "ipv6": []
+  }
+}

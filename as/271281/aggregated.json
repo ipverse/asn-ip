@@ -3,7 +3,9 @@
   "handle": "AINET-INTERNET-EAMP;INFORMATICA",
   "description": "Ainet internet eamp;informatica ltda",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "190.12.128.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -1,0 +1,12 @@
+{
+  "asn": 63893,
+  "handle": "CCPGP-TW",
+  "description": "Chang Chun Petrochemical Co., Ltd.",
+  "subnets": {
+    "ipv4": [
+      "103.180.14.0/23",
+      "103.180.16.0/22"
+    ],
+    "ipv6": []
+  }
+}

@@ -3,10 +3,7 @@
   "handle": "DDOSING-BGP-NETWORK",
   "description": "DDOSING NETWORK",
   "subnets": {
-    "ipv4": [
-      "43.224.224.0/22",
-      "212.95.128.0/19"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

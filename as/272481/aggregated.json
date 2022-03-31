@@ -4,8 +4,7 @@
   "description": "SV PROVEDOR DE INTERNET LTDA - ME",
   "subnets": {
     "ipv4": [
-      "5.180.148.0/24",
-      "181.215.182.0/24"
+      "5.180.148.0/24"
     ],
     "ipv6": [
       "2804:81dc::/32"

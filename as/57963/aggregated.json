@@ -3,13 +3,7 @@
   "handle": "LYNET-INTERNETT",
   "description": "GLOBALCONNECT AS",
   "subnets": {
-    "ipv4": [
-      "37.191.128.0/17",
-      "77.234.48.0/21",
-      "185.129.156.0/22"
-    ],
-    "ipv6": [
-      "2a00:c440::/29"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

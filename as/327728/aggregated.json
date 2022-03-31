@@ -3,7 +3,9 @@
   "handle": "CTV",
   "description": "Cable Television Network Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "154.72.20.0/22"
+    ],
     "ipv6": [
       "2c0f:f6b0::/32"
     ]

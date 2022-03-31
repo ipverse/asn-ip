@@ -3,7 +3,9 @@
   "handle": "TAURUSTECHNOLOGYSRLS",
   "description": "Taurus Technology S.R.L.S",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "115.167.100.0/22"
+    ],
     "ipv6": []
   }
 }

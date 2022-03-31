@@ -1,0 +1,11 @@
+{
+  "asn": 212250,
+  "handle": "HORIZONSCOPE",
+  "description": "Horizon Scope Mobile Telecom WLL",
+  "subnets": {
+    "ipv4": [
+      "185.254.13.0/24"
+    ],
+    "ipv6": []
+  }
+}

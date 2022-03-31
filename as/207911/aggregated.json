@@ -4,6 +4,7 @@
   "description": "LINKTEL-NW LTD",
   "subnets": {
     "ipv4": [
+      "95.161.240.0/24",
       "194.33.82.0/24"
     ],
     "ipv6": []
