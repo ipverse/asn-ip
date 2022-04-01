@@ -4,6 +4,7 @@
   "description": "PT Solnet Indonesia",
   "subnets": {
     "ipv4": [
+      "103.185.36.0/23",
       "223.130.21.0/24"
     ],
     "ipv6": [

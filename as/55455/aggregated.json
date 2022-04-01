@@ -3,9 +3,7 @@
   "handle": "TDASL-AU",
   "description": "TECH DATA ADVANCED SOLUTIONS (ANZ) LIMITED",
   "subnets": {
-    "ipv4": [
-      "203.22.107.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

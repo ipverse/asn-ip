@@ -4,6 +4,8 @@
   "description": "MIHAILA VALENTIN-EUGEN",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a03:9c00:d::/48"
+    ]
   }
 }

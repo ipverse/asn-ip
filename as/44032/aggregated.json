@@ -3,7 +3,14 @@
   "handle": "TRC-CITY",
   "description": "FOP Kolesnichenko Nataliya Anatoliivna",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "81.162.225.0/24",
+      "81.162.226.0/23",
+      "81.162.228.0/22",
+      "81.162.232.0/21",
+      "81.162.240.0/20",
+      "195.2.236.0/23"
+    ],
     "ipv6": []
   }
 }

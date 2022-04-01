@@ -3,7 +3,9 @@
   "handle": "S3COMPANY",
   "description": "S3 Company Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "88.80.150.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,9 +3,7 @@
   "handle": "R2K",
   "description": "RIM2000",
   "subnets": {
-    "ipv4": [
-      "195.123.182.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "IPEX-NO",
   "description": "IP Excess AB",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.53.40.0/24"
+    ],
     "ipv6": [
       "2a12:a4c2::/32"
     ]

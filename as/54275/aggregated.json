@@ -3,11 +3,7 @@
   "handle": "NETRIX",
   "description": "Cyber Development Group International, LLC",
   "subnets": {
-    "ipv4": [
-      "174.64.44.0/24"
-    ],
-    "ipv6": [
-      "2001:57a:f201::/48"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

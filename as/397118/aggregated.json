@@ -1,0 +1,11 @@
+{
+  "asn": 397118,
+  "handle": "GLENWOOD-BGP",
+  "description": "Glenwood Telephone Company",
+  "subnets": {
+    "ipv4": [
+      "137.118.88.0/23"
+    ],
+    "ipv6": []
+  }
+}

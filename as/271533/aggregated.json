@@ -3,7 +3,9 @@
   "handle": "COMNETFIBRA-COMERCIALIZAO-DE",
   "description": "COMNETFIBRA COMERCIALIZAO DE INTERNET",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "181.189.112.0/22"
+    ],
     "ipv6": [
       "2804:7d04::/32"
     ]

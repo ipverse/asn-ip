@@ -3,9 +3,9 @@
   "handle": "ROSENET",
   "description": "Sarah Rose, Sole Proprietorship",
   "subnets": {
-    "ipv4": [],
-    "ipv6": [
-      "2602:fba2:fff::/48"
-    ]
+    "ipv4": [
+      "23.133.248.0/24"
+    ],
+    "ipv6": []
   }
 }

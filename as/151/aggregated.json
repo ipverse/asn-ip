@@ -3,9 +3,7 @@
   "handle": "IND-NTC",
   "description": "Hewlett-Packard Company",
   "subnets": {
-    "ipv4": [
-      "192.170.48.0/22"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

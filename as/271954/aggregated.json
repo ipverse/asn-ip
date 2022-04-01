@@ -1,0 +1,11 @@
+{
+  "asn": 271954,
+  "handle": "UNIDAD-DE-SALUD",
+  "description": "UNIDAD DE SALUD DE IBAGUE USI - ESE",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2801:181::/48"
+    ]
+  }
+}

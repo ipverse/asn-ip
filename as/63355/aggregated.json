@@ -3,7 +3,9 @@
   "handle": "SALMON-BAY-TECHNOLOGY-01",
   "description": "SALMON BAY TECHNOLOGY",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "142.202.44.0/24"
+    ],
     "ipv6": []
   }
 }

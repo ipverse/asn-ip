@@ -4,6 +4,7 @@
   "description": "Energo-Pro Varna LTD",
   "subnets": {
     "ipv4": [
+      "85.217.148.0/24",
       "176.116.144.0/24"
     ],
     "ipv6": []

@@ -4,6 +4,7 @@
   "description": "Interhost Communication Solutions Ltd.",
   "subnets": {
     "ipv4": [
+      "45.150.108.0/24",
       "89.33.28.0/23",
       "107.150.178.0/23",
       "176.223.65.0/24",
