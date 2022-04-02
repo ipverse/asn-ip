@@ -3,9 +3,7 @@
   "handle": "TNEC",
   "description": "The National Examinations Council of Tanzania",
   "subnets": {
-    "ipv4": [
-      "102.219.28.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

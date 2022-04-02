@@ -3,7 +3,9 @@
   "handle": "ROYALBS-IN",
   "description": "Royal Broadband Services",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.136.209.0/24"
+    ],
     "ipv6": []
   }
 }

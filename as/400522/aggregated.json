@@ -1,0 +1,11 @@
+{
+  "asn": 400522,
+  "handle": "ROOTCLOUD",
+  "description": "rootcloud LLC",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a11:f700::/29"
+    ]
+  }
+}

@@ -3,9 +3,7 @@
   "handle": "ACCESS4-AP",
   "description": "ACCESS COMMUNICATION",
   "subnets": {
-    "ipv4": [
-      "103.140.166.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

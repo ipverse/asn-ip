@@ -1,0 +1,12 @@
+{
+  "asn": 213121,
+  "handle": "EBRZ",
+  "description": "Erstes Burgenlaendisches Rechenzentrum GmbH",
+  "subnets": {
+    "ipv4": [
+      "31.7.92.0/22",
+      "93.157.184.0/24"
+    ],
+    "ipv6": []
+  }
+}

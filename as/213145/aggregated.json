@@ -3,7 +3,10 @@
   "handle": "FIBIMNET",
   "description": "FIBIM FIBERNET GSM SANAYI VE TICARET ANONIM SIRKETI",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.117.99.0/24",
+      "185.117.120.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,9 +3,7 @@
   "handle": "IONEXT-TELECOMMUNICATIONS-GROUP",
   "description": "IONEXT TELECOMMUNICATIONS GROUP, SAPI de CV",
   "subnets": {
-    "ipv4": [
-      "45.185.244.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

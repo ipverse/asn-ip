@@ -1,0 +1,11 @@
+{
+  "asn": 400194,
+  "handle": "WIRE3",
+  "description": "Wire 3 LLC",
+  "subnets": {
+    "ipv4": [
+      "207.90.196.0/22"
+    ],
+    "ipv6": []
+  }
+}

@@ -3,9 +3,7 @@
   "handle": "SOFTEARTH",
   "description": "Softearth Network Pvt Ltd",
   "subnets": {
-    "ipv4": [
-      "220.158.139.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

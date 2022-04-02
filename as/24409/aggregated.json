@@ -4,7 +4,7 @@
   "description": "China Internet Network Infomation Center",
   "subnets": {
     "ipv4": [
-      "42.83.201.0/24",
+      "42.83.200.0/23",
       "125.208.33.0/24",
       "125.208.34.0/23",
       "203.119.29.0/24"

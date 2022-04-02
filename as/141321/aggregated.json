@@ -3,9 +3,7 @@
   "handle": "NESECURE-IN",
   "description": "Nesecure Networks Private Limited",
   "subnets": {
-    "ipv4": [
-      "103.157.222.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

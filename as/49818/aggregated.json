@@ -3,9 +3,7 @@
   "handle": "KABELSAT-2000",
   "description": "KABELSAT-2000 Kft.",
   "subnets": {
-    "ipv4": [
-      "81.22.228.0/22"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

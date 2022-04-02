@@ -4,10 +4,8 @@
   "description": "Rede EXS Telecomunicacoes LTDA",
   "subnets": {
     "ipv4": [
-      "187.84.112.0/22"
+      "187.84.112.0/23"
     ],
-    "ipv6": [
-      "2804:7578::/32"
-    ]
+    "ipv6": []
   }
 }

@@ -3,9 +3,7 @@
   "handle": "IDNIC-SMMNETWORK-ID",
   "description": "PT Segara Muncar Media",
   "subnets": {
-    "ipv4": [
-      "103.167.11.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }
