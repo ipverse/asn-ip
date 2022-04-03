@@ -4,8 +4,6 @@
   "description": "4ISP SRL",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2a00:8c60:c::/48"
-    ]
+    "ipv6": []
   }
 }

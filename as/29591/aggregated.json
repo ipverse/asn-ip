@@ -3,7 +3,12 @@
   "handle": "NETAPP-EMEA",
   "description": "NETAPP Holding and Manufacturing BV",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "217.70.208.0/21",
+      "217.70.216.0/22",
+      "217.70.220.0/23",
+      "217.70.223.0/24"
+    ],
     "ipv6": [
       "2a00:1da0::/32"
     ]

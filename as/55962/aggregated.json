@@ -4,6 +4,8 @@
   "description": "Beijing Kuaishou Technology Co., Ltd.",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2402:5ec0::/32"
+    ]
   }
 }

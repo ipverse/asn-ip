@@ -3,7 +3,12 @@
   "handle": "LSGIUSEPPE",
   "description": "Giuseppe La Spina",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.141.215.0/24"
+    ],
+    "ipv6": [
+      "2a0e:8f02:f039::/48",
+      "2a0e:b107:1710::/44"
+    ]
   }
 }

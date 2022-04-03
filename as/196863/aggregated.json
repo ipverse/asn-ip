@@ -3,7 +3,11 @@
   "handle": "HATANET",
   "description": "HATANET Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.223.88.0/24",
+      "91.227.206.0/23",
+      "91.234.0.0/22"
+    ],
     "ipv6": []
   }
 }

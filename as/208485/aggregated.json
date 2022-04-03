@@ -4,6 +4,7 @@
   "description": "Nese Mala trading as Moon Dc",
   "subnets": {
     "ipv4": [
+      "5.34.192.0/21",
       "31.40.2.0/23",
       "45.9.30.0/24",
       "45.90.84.0/24",

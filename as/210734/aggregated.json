@@ -4,6 +4,11 @@
   "description": "Miye Zhou",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2602:fc09:aa::/48",
+      "2602:fc09:bb::/48",
+      "2602:fc09:cc::/48",
+      "2602:fc09:dd::/48"
+    ]
   }
 }

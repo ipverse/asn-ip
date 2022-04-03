@@ -4,6 +4,7 @@
   "description": "OTILIA ANTONIA CELSO",
   "subnets": {
     "ipv4": [
+      "24.152.34.0/23",
       "190.89.176.0/22"
     ],
     "ipv6": []

@@ -3,9 +3,7 @@
   "handle": "SYSTEM-NET-LTDA-ME",
   "description": "AS SYSTEM NET LTDA ME",
   "subnets": {
-    "ipv4": [
-      "170.78.176.0/22"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }
