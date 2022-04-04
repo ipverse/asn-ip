@@ -3,7 +3,10 @@
   "handle": "ALLCLOUD-AP",
   "description": "ALLCLOUD LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.202.102.0/24",
+      "193.239.150.0/24"
+    ],
     "ipv6": []
   }
 }

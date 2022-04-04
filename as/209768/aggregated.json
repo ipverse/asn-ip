@@ -4,6 +4,8 @@
   "description": "white2net Srl",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a12:5844:1212::/48"
+    ]
   }
 }

@@ -3,7 +3,9 @@
   "handle": "ONDA-NETWORK-S-DE-RL",
   "description": "Onda Network S de R.L",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.170.32.0/22"
+    ],
     "ipv6": []
   }
 }

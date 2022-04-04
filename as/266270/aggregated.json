@@ -3,9 +3,7 @@
   "handle": "WBR-TELECOM",
   "description": "WBR Telecom",
   "subnets": {
-    "ipv4": [
-      "170.78.134.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }
