@@ -3,10 +3,7 @@
   "handle": "ICOMT",
   "description": "ICOMT Inc.",
   "subnets": {
-    "ipv4": [
-      "210.155.224.0/21",
-      "210.155.240.0/20"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "JANTECHCS",
   "description": "Trevor Janssen",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "46.37.109.0/24"
+    ],
     "ipv6": []
   }
 }

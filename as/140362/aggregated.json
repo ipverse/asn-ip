@@ -5,7 +5,9 @@
   "subnets": {
     "ipv4": [],
     "ipv6": [
-      "2602:feda:ad0::/44"
+      "2602:feda:adb::/48",
+      "2602:feda:adc::/48",
+      "2602:feda:adf::/48"
     ]
   }
 }

@@ -3,9 +3,7 @@
   "handle": "MOBILENETICS-LA-GW1",
   "description": "Mobilenetics Corporation",
   "subnets": {
-    "ipv4": [
-      "207.246.235.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

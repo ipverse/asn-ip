@@ -3,9 +3,7 @@
   "handle": "VNNIC-4BYTE-ASBLOCK-AP",
   "description": "VNNIC-4byte-ASBLOCK-AP",
   "subnets": {
-    "ipv4": [
-      "103.56.160.0/22"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

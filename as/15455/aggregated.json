@@ -3,7 +3,9 @@
   "handle": "EMBANK",
   "description": "OJSC Energomashbank",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.124.171.0/24"
+    ],
     "ipv6": []
   }
 }

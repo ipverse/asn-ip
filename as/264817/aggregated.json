@@ -3,7 +3,9 @@
   "handle": "REFINERIA-DOMINICANA-DE",
   "description": "REFINERIA DOMINICANA DE PETROLEO PDV S.A",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "170.81.8.0/22"
+    ],
     "ipv6": [
       "2801:184:e::/47"
     ]

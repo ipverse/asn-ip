@@ -1,0 +1,13 @@
+{
+  "asn": 43054,
+  "handle": "IASO",
+  "description": "IASO Backup Technology BV",
+  "subnets": {
+    "ipv4": [
+      "154.61.132.0/24",
+      "154.62.136.0/24",
+      "193.200.214.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -3,7 +3,9 @@
   "handle": "WEINANDNET",
   "description": "WeinandNet UG (haftungsbeschraenkt)",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.46.243.0/24"
+    ],
     "ipv6": []
   }
 }

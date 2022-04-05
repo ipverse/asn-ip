@@ -4,7 +4,8 @@
   "description": "Guangdong Yunjie Communication Co., Ltd.",
   "subnets": {
     "ipv4": [
-      "103.144.52.0/23"
+      "103.144.52.0/23",
+      "103.150.212.0/24"
     ],
     "ipv6": []
   }

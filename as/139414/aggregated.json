@@ -3,7 +3,9 @@
   "handle": "IDNIC-KUDUSKAB-ID",
   "description": "Pemerintah Kabupaten Kudus",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "175.106.16.0/24"
+    ],
     "ipv6": []
   }
 }

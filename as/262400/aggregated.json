@@ -4,6 +4,8 @@
   "description": "Virtualis Provedor de Telecomunicaes Eireli",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2804:3d0::/32"
+    ]
   }
 }

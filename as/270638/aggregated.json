@@ -4,10 +4,8 @@
   "description": "SELL TELECOM SERVICOS E COMERCIO EM TELECOMUNICACA",
   "subnets": {
     "ipv4": [
-      "181.192.116.0/22"
+      "181.192.116.0/23"
     ],
-    "ipv6": [
-      "2804:6f18::/32"
-    ]
+    "ipv6": []
   }
 }

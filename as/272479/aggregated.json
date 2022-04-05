@@ -3,11 +3,7 @@
   "handle": "ERNESSON-RODRIGUES-LTDA",
   "description": "ERNESSON RODRIGUES LTDA",
   "subnets": {
-    "ipv4": [
-      "191.96.158.0/24"
-    ],
-    "ipv6": [
-      "2804:81d4::/32"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

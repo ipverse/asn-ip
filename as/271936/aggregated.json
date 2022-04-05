@@ -3,7 +3,9 @@
   "handle": "SERVICIOS-DE-TELECOMUNICACIONES",
   "description": "SERVICIOS DE TELECOMUNICACIONES ATVCABLE CIA. LTDA.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "157.100.204.0/24"
+    ],
     "ipv6": []
   }
 }
