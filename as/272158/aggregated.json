@@ -3,7 +3,9 @@
   "handle": "RPCNET-INTERNET-INFORMATICA",
   "description": "Rpcnet Internet Informatica",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "138.97.150.0/24"
+    ],
     "ipv6": [
       "2804:82d0::/32"
     ]

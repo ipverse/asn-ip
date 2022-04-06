@@ -3,7 +3,9 @@
   "handle": "FERDINANDZINK",
   "description": "Ferdinand Zink trading as Tube-Hosting",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.142.113.0/24"
+    ],
     "ipv6": [
       "2a12:8640::/29",
       "2a12:89c0::/29",

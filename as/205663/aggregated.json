@@ -3,9 +3,7 @@
   "handle": "LCMTELECOM",
   "description": "LA COMARCA MADRID TELECOM S.L.",
   "subnets": {
-    "ipv4": [
-      "185.210.16.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

@@ -3,11 +3,7 @@
   "handle": "MSPL",
   "description": "Macro Signal Pvt Ltd",
   "subnets": {
-    "ipv4": [
-      "103.127.20.0/22"
-    ],
-    "ipv6": [
-      "2400:35a0::/32"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

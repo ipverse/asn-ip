@@ -3,7 +3,9 @@
   "handle": "FC",
   "description": "VAT Bank Finance and Credit",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.50.169.0/24"
+    ],
     "ipv6": []
   }
 }

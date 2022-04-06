@@ -4,6 +4,8 @@
   "description": "CANDEIAS NET TELECOM COMUNICACOES LTDA",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2804:7e18::/32"
+    ]
   }
 }

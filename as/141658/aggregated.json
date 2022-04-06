@@ -3,7 +3,9 @@
   "handle": "IDNIC-GENERASIMULTIINDONUSA-ID",
   "description": "PT Generasi Multi Indonusa",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.162.168.0/24"
+    ],
     "ipv6": []
   }
 }

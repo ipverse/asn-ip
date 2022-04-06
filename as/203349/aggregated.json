@@ -3,9 +3,7 @@
   "handle": "ABICOM",
   "description": "ABICOM SAS",
   "subnets": {
-    "ipv4": [
-      "185.135.236.0/22"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

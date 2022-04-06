@@ -4,8 +4,11 @@
   "description": "Developed Methods LLC",
   "subnets": {
     "ipv4": [
+      "23.133.216.0/24",
       "147.185.221.0/24"
     ],
-    "ipv6": []
+    "ipv6": [
+      "2602:fbaf:ab::/48"
+    ]
   }
 }

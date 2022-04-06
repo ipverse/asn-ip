@@ -1,0 +1,13 @@
+{
+  "asn": 48213,
+  "handle": "ABICOM",
+  "description": "ABICOM SAS",
+  "subnets": {
+    "ipv4": [
+      "185.135.236.0/22"
+    ],
+    "ipv6": [
+      "2a07:980::/29"
+    ]
+  }
+}

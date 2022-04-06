@@ -4,7 +4,8 @@
   "description": "Wink Communication",
   "subnets": {
     "ipv4": [
-      "103.108.112.0/22"
+      "103.108.113.0/24",
+      "103.108.114.0/24"
     ],
     "ipv6": []
   }

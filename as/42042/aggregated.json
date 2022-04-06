@@ -3,7 +3,9 @@
   "handle": "KAMALINK",
   "description": "JSC Kama-Link",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "89.250.222.0/24"
+    ],
     "ipv6": []
   }
 }

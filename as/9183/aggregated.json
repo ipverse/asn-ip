@@ -4,6 +4,7 @@
   "description": "Robert Bosch Gesellschaft mit Beschraenkter Haftung",
   "subnets": {
     "ipv4": [
+      "139.15.8.0/21",
       "139.15.16.0/20",
       "139.15.32.0/19",
       "139.15.64.0/18",

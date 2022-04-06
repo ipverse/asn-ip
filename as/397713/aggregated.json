@@ -3,7 +3,9 @@
   "handle": "ARCHULETA-INNOVATION-DESIGNS",
   "description": "Mt San Rafael Hospital",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "66.36.112.0/24"
+    ],
     "ipv6": []
   }
 }

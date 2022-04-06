@@ -1,0 +1,11 @@
+{
+  "asn": 200681,
+  "handle": "ZAPPIE-HOST-LLC",
+  "description": "Zappie Host LLC",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a06:a005:400::/44"
+    ]
+  }
+}

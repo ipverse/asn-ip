@@ -4,6 +4,7 @@
   "description": "LLC VEELAN",
   "subnets": {
     "ipv4": [
+      "185.24.41.0/24",
       "194.87.81.0/24"
     ],
     "ipv6": []

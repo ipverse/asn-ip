@@ -1,0 +1,11 @@
+{
+  "asn": 211270,
+  "handle": "THREEKNET",
+  "description": "3KNET Telecom LLC",
+  "subnets": {
+    "ipv4": [
+      "194.61.34.0/23"
+    ],
+    "ipv6": []
+  }
+}

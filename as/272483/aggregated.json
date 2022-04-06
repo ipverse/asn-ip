@@ -3,7 +3,9 @@
   "handle": "MAIKEL-SCHMIDT",
   "description": "MAIKEL SCHMIDT",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.144.124.0/22"
+    ],
     "ipv6": [
       "2804:81e0::/32"
     ]

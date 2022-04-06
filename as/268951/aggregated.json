@@ -4,7 +4,8 @@
   "description": "F5 INFORMATICA COMERCIO DE PRODUTOS ELETRONICOS LT",
   "subnets": {
     "ipv4": [
-      "45.176.196.0/22"
+      "45.176.196.0/23",
+      "45.176.198.0/24"
     ],
     "ipv6": [
       "2804:5d1c::/32"

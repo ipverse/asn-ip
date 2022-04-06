@@ -3,7 +3,9 @@
   "handle": "YEREMEYEVA",
   "description": "Private Entrepreneur Yeremeyeva Nataliya Igorevna",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "212.3.114.0/24"
+    ],
     "ipv6": []
   }
 }

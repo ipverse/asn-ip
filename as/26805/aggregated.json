@@ -4,6 +4,7 @@
   "description": "Federal Home Loan Bank of San Francisco",
   "subnets": {
     "ipv4": [
+      "45.164.62.0/23",
       "64.129.227.0/24",
       "204.126.124.0/23"
     ],

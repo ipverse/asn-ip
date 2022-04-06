@@ -4,10 +4,8 @@
   "description": "Freifunk Regensburg e.V.",
   "subnets": {
     "ipv4": [
-      "194.156.22.0/23"
+      "194.156.23.0/24"
     ],
-    "ipv6": [
-      "2001:678:ddc::/48"
-    ]
+    "ipv6": []
   }
 }

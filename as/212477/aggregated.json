@@ -1,7 +1,7 @@
 {
   "asn": 212477,
   "handle": "ROYALE",
-  "description": "Direct-On Holding BV",
+  "description": "RoyaleHosting BV",
   "subnets": {
     "ipv4": [
       "45.59.169.0/24",
@@ -10,7 +10,6 @@
       "45.146.5.0/24",
       "103.163.186.0/23",
       "103.170.154.0/23",
-      "185.234.13.0/24",
       "194.26.194.0/24"
     ],
     "ipv6": [

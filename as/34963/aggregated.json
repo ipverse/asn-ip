@@ -3,9 +3,7 @@
   "handle": "GREEN-OPERATOR",
   "description": "GREEN OPERATOR SP ZOO",
   "subnets": {
-    "ipv4": [
-      "195.136.140.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

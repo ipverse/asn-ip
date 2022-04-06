@@ -4,6 +4,7 @@
   "description": "Exito Vision Cable S.A.S",
   "subnets": {
     "ipv4": [
+      "38.44.32.0/19",
       "45.176.92.0/22"
     ],
     "ipv6": [

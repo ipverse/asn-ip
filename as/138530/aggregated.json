@@ -4,9 +4,6 @@
   "description": "CHENG TONG TECHNOLOGY CO.,LIMITED",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2001:df2:7b80::/48",
-      "2001:df2:7c80::/48"
-    ]
+    "ipv6": []
   }
 }
