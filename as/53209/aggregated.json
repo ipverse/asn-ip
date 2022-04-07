@@ -4,6 +4,7 @@
   "description": "Mantiqueira Tecnologia Ltda.",
   "subnets": {
     "ipv4": [
+      "45.71.228.0/22",
       "177.11.136.0/21",
       "186.233.176.0/21"
     ],

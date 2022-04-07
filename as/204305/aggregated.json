@@ -3,7 +3,9 @@
   "handle": "ANSYSTEMS",
   "description": "LLC ANsystems",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.88.196.0/24"
+    ],
     "ipv6": []
   }
 }

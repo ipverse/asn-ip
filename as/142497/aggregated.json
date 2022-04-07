@@ -3,7 +3,9 @@
   "handle": "NETIXBB-IN",
   "description": "NETIX BROADBAND PRIVATE LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.169.167.0/24"
+    ],
     "ipv6": []
   }
 }

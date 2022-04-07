@@ -3,9 +3,7 @@
   "handle": "OXAHOST",
   "description": "OXAHOST",
   "subnets": {
-    "ipv4": [
-      "102.219.176.0/22"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

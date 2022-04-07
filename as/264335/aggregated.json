@@ -3,11 +3,7 @@
   "handle": "NETWAP-TELECOM-EIRELI-ME",
   "description": "NETWAP TELECOM EIRELI - ME",
   "subnets": {
-    "ipv4": [
-      "138.185.24.0/22"
-    ],
-    "ipv6": [
-      "2804:2640::/32"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

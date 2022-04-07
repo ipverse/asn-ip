@@ -4,6 +4,7 @@
   "description": "PATIENTSKY HOSTING AS",
   "subnets": {
     "ipv4": [
+      "85.117.228.0/24",
       "185.60.160.0/22"
     ],
     "ipv6": [

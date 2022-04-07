@@ -3,7 +3,9 @@
   "handle": "SITERNET-SRL",
   "description": "SITERNET SRL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "181.118.128.0/20"
+    ],
     "ipv6": []
   }
 }

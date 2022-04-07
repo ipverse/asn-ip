@@ -4,7 +4,8 @@
   "description": "The Farm Post Production Ltd",
   "subnets": {
     "ipv4": [
-      "185.248.248.0/23"
+      "185.248.248.0/23",
+      "185.248.250.0/24"
     ],
     "ipv6": []
   }

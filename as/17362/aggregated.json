@@ -4,7 +4,7 @@
   "description": "Nestegg, LLC",
   "subnets": {
     "ipv4": [
-      "69.50.12.0/22"
+      "69.50.12.0/24"
     ],
     "ipv6": []
   }

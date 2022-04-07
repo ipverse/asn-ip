@@ -3,9 +3,7 @@
   "handle": "PI-ID-AP",
   "description": "Pacific Link Indonesia",
   "subnets": {
-    "ipv4": [
-      "202.46.80.0/22"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

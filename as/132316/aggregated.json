@@ -3,9 +3,7 @@
   "handle": "DATPIXEL-AP",
   "description": "HostUS Solutions LLC",
   "subnets": {
-    "ipv4": [
-      "185.158.150.0/24"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2402:e380:300::/48"
     ]
