@@ -3,7 +3,9 @@
   "handle": "ROSNEFT",
   "description": "Rosneft Deutschland GmbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "149.249.10.0/23"
+    ],
     "ipv6": []
   }
 }

@@ -1,0 +1,11 @@
+{
+  "asn": 400013,
+  "handle": "WAUPACA-FOUNDRY-INC",
+  "description": "Waupaca Foundry, Inc.",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2602:80c:1000::/48"
+    ]
+  }
+}

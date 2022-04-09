@@ -3,7 +3,9 @@
   "handle": "IDNIC-INTELMEDIA-ID",
   "description": "PT Indo Telemedia Solusi",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.180.122.0/23"
+    ],
     "ipv6": []
   }
 }

@@ -4,6 +4,8 @@
   "description": "jose austragesilo marques de meneses - scm",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2804:839c::/32"
+    ]
   }
 }

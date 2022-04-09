@@ -3,7 +3,9 @@
   "handle": "KVHK-AP",
   "description": "Kingviews Adamas Systems Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.119.137.0/24"
+    ],
     "ipv6": []
   }
 }

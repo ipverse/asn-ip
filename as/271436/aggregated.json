@@ -3,12 +3,7 @@
   "handle": "IMPACTO-NET-TELECOM",
   "description": "IMPACTO NET TELECOM",
   "subnets": {
-    "ipv4": [
-      "181.233.56.0/22",
-      "187.63.239.0/24"
-    ],
-    "ipv6": [
-      "2804:7b84::/32"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

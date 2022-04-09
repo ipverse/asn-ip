@@ -3,7 +3,12 @@
   "handle": "DHAVLERK2-IN",
   "description": "DHAVLE INFORMATION",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.182.114.0/23",
+      "103.184.254.0/23",
+      "103.185.0.0/21",
+      "103.185.12.0/22"
+    ],
     "ipv6": []
   }
 }

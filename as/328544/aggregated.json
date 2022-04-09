@@ -4,7 +4,8 @@
   "description": "Technical Support Solutions (Pty) Ltd",
   "subnets": {
     "ipv4": [
-      "102.36.156.0/22"
+      "102.36.156.0/22",
+      "102.68.88.0/21"
     ],
     "ipv6": []
   }

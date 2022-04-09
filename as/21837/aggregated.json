@@ -4,6 +4,7 @@
   "description": "Opera Software Americas LLC",
   "subnets": {
     "ipv4": [
+      "107.167.96.0/22",
       "107.167.100.0/24",
       "107.167.104.0/21",
       "107.167.116.0/22",

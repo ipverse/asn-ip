@@ -3,9 +3,7 @@
   "handle": "SMERNO-LTD",
   "description": "Smerno (Pty) Ltd",
   "subnets": {
-    "ipv4": [
-      "102.68.88.0/21"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2c0f:ecd0::/32"
     ]

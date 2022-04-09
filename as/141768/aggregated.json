@@ -4,6 +4,7 @@
   "description": "HONG KONG BRIDGE INFO-TECH LIMITED",
   "subnets": {
     "ipv4": [
+      "39.109.77.0/24",
       "39.109.81.0/24",
       "39.109.83.0/24",
       "39.109.86.0/23"
