@@ -3,11 +3,7 @@
   "handle": "MICROSOFT-CORP-MSN-BLOCK",
   "description": "Microsoft Corporation",
   "subnets": {
-    "ipv4": [
-      "131.107.132.0/24"
-    ],
-    "ipv6": [
-      "2001:4898:8020::/48"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

@@ -4,8 +4,7 @@
   "description": "NETDIGIT TELECOMUNICACOES LTDA",
   "subnets": {
     "ipv4": [
-      "187.120.132.0/23",
-      "187.120.136.0/21"
+      "187.120.132.0/23"
     ],
     "ipv6": [
       "2804:17e8::/32"

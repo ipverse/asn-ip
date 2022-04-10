@@ -3,7 +3,9 @@
   "handle": "ONION",
   "description": "ONION NETWORKS LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "83.137.158.0/24"
+    ],
     "ipv6": [
       "2a06:a000:190::/44"
     ]

@@ -3,7 +3,9 @@
   "handle": "ECLIPSE",
   "description": "KCOM GROUP LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.46.80.0/20"
+    ],
     "ipv6": [
       "2a02:c2c0::/29"
     ]

@@ -3,11 +3,7 @@
   "handle": "AUSTRADE-AU-AP",
   "description": "Austrade",
   "subnets": {
-    "ipv4": [
-      "203.17.218.0/23",
-      "203.17.221.0/24",
-      "203.17.223.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

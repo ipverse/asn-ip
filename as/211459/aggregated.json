@@ -4,6 +4,7 @@
   "description": "Atha Media Prima CV.",
   "subnets": {
     "ipv4": [
+      "185.222.243.0/24",
       "194.233.151.0/24"
     ],
     "ipv6": []

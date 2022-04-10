@@ -4,6 +4,7 @@
   "description": "Universidad de Costa Rica",
   "subnets": {
     "ipv4": [
+      "163.178.8.0/24",
       "163.178.16.0/22",
       "163.178.48.0/20",
       "163.178.64.0/21",

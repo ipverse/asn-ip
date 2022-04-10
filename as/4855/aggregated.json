@@ -4,7 +4,7 @@
   "description": "Pacific Link Indonesia",
   "subnets": {
     "ipv4": [
-      "202.46.80.0/24"
+      "202.46.80.0/22"
     ],
     "ipv6": []
   }

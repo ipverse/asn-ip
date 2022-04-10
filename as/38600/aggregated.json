@@ -3,9 +3,7 @@
   "handle": "SMART-AXIATA-KH",
   "description": "Smart Axiata Co., Ltd.",
   "subnets": {
-    "ipv4": [
-      "202.56.3.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

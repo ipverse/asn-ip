@@ -3,9 +3,7 @@
   "handle": "MYWEB",
   "description": "MYWEB LIMITED",
   "subnets": {
-    "ipv4": [
-      "45.143.222.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

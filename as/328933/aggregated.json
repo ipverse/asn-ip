@@ -1,0 +1,11 @@
+{
+  "asn": 328933,
+  "handle": "IBC",
+  "description": "Intrasurf Broadband cc",
+  "subnets": {
+    "ipv4": [
+      "102.219.20.0/24"
+    ],
+    "ipv6": []
+  }
+}

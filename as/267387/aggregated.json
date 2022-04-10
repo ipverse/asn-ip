@@ -4,8 +4,7 @@
   "description": "ARLEN HENRIQUE MATIAS DOS SANTOS NET ME",
   "subnets": {
     "ipv4": [
-      "45.234.244.0/23",
-      "45.234.247.0/24"
+      "45.234.244.0/22"
     ],
     "ipv6": [
       "2804:4cb8::/32"

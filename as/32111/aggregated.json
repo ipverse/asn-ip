@@ -1,0 +1,12 @@
+{
+  "asn": 32111,
+  "handle": "CITIGROUP-JAPAN",
+  "description": "Citigroup",
+  "subnets": {
+    "ipv4": [
+      "192.193.74.0/24",
+      "192.193.142.0/24"
+    ],
+    "ipv6": []
+  }
+}
