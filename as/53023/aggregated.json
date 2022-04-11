@@ -3,7 +3,9 @@
   "handle": "ADYLNET-TELECOM",
   "description": "Adylnet Telecom",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "177.72.224.0/21"
+    ],
     "ipv6": []
   }
 }

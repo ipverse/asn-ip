@@ -4,6 +4,7 @@
   "description": "Webster Bank",
   "subnets": {
     "ipv4": [
+      "12.216.193.0/24",
       "12.227.185.0/24"
     ],
     "ipv6": []

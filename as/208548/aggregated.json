@@ -3,9 +3,7 @@
   "handle": "ISG",
   "description": "Kjartan Hrafnkelsson",
   "subnets": {
-    "ipv4": [
-      "185.244.95.0/24"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2a0e:b107:1408::/48"
     ]

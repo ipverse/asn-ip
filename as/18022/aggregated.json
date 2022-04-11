@@ -4,7 +4,6 @@
   "description": "SMART NET",
   "subnets": {
     "ipv4": [
-      "103.85.35.0/24",
       "160.202.128.0/22"
     ],
     "ipv6": []

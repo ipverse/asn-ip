@@ -3,7 +3,9 @@
   "handle": "GIANLUCA-DICIOCIA-TRADING-P9-SOLUTIONS",
   "description": "Gianluca Diciocia trading as P9 SOLUTIONS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.151.159.0/24"
+    ],
     "ipv6": []
   }
 }

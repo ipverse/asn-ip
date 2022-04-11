@@ -3,7 +3,9 @@
   "handle": "NETENMICASA-SPA",
   "description": "NETENMICASA SpA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "181.189.20.0/22"
+    ],
     "ipv6": []
   }
 }

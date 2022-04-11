@@ -3,12 +3,7 @@
   "handle": "SDSA",
   "description": "Samsung SDS America, Inc.",
   "subnets": {
-    "ipv4": [
-      "8.30.92.0/24",
-      "8.35.94.0/23",
-      "8.37.192.0/24",
-      "8.46.38.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

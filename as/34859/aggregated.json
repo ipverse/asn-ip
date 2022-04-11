@@ -3,11 +3,7 @@
   "handle": "ZYNLINE",
   "description": "ZYN LINE LLC",
   "subnets": {
-    "ipv4": [
-      "91.184.228.0/23",
-      "91.184.242.0/23",
-      "194.35.115.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

@@ -3,9 +3,7 @@
   "handle": "METLIFE",
   "description": "JOINT-STOCK COMPANY SOVCOMBANK LIFE",
   "subnets": {
-    "ipv4": [
-      "141.101.191.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

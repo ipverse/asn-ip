@@ -3,10 +3,7 @@
   "handle": "LOGITEL",
   "description": "Logitel Ltd.",
   "subnets": {
-    "ipv4": [
-      "176.110.108.0/24",
-      "195.88.192.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

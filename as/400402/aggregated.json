@@ -4,6 +4,7 @@
   "description": "Hosting Bot, LLC",
   "subnets": {
     "ipv4": [
+      "23.134.168.0/24",
       "64.44.152.0/24"
     ],
     "ipv6": []

@@ -3,9 +3,7 @@
   "handle": "RRINFORMATICS-IN",
   "description": "RR INFORMATICS",
   "subnets": {
-    "ipv4": [
-      "103.14.208.0/22"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }
