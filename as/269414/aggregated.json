@@ -4,10 +4,8 @@
   "description": "TOTAL FIBRA SERVICOS DE PROVEDORES DE INTERNET",
   "subnets": {
     "ipv4": [
-      "45.186.72.0/22"
+      "45.186.74.0/24"
     ],
-    "ipv6": [
-      "2804:6438::/32"
-    ]
+    "ipv6": []
   }
 }

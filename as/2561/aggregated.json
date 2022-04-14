@@ -4,7 +4,7 @@
   "description": "Egyptian Universities Network (EUN)",
   "subnets": {
     "ipv4": [
-      "193.227.1.0/24",
+      "193.227.0.0/23",
       "193.227.5.0/24",
       "193.227.6.0/23",
       "193.227.8.0/21",

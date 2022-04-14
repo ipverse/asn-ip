@@ -4,8 +4,6 @@
   "description": "LIME",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2600:1a0f:2000::/48"
-    ]
+    "ipv6": []
   }
 }

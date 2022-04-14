@@ -3,7 +3,9 @@
   "handle": "EIGHTJOY-NETWORK-LLC",
   "description": "EightJoy Network LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "202.58.105.0/24"
+    ],
     "ipv6": []
   }
 }

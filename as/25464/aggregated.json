@@ -4,7 +4,8 @@
   "description": "Telesign Mobile Limited",
   "subnets": {
     "ipv4": [
-      "195.43.45.0/24"
+      "195.43.45.0/24",
+      "195.43.46.0/24"
     ],
     "ipv6": []
   }

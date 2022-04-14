@@ -1,11 +1,10 @@
 {
   "asn": 211367,
-  "handle": "HNGNET",
+  "handle": "HTELECOM",
   "description": "Hayden Andrew Nicholson Goult",
   "subnets": {
     "ipv4": [],
     "ipv6": [
-      "2a06:a005:420::/44",
       "2a0d:2582:100::/44",
       "2a0d:2582:120::/43",
       "2a0d:2582:160::/43"

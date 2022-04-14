@@ -4,8 +4,7 @@
   "description": "Eugene School District 4J",
   "subnets": {
     "ipv4": [
-      "158.165.0.0/16",
-      "192.135.183.0/24"
+      "158.165.0.0/16"
     ],
     "ipv6": [
       "2620:d4::/48"

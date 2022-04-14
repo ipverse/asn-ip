@@ -3,9 +3,7 @@
   "handle": "GUP-MSR",
   "description": "GUP Moscow Social Register",
   "subnets": {
-    "ipv4": [
-      "37.230.240.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

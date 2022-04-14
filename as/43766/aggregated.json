@@ -4,6 +4,7 @@
   "description": "Mobile Telecommunication Company Saudi Arabia Joint-Stock company",
   "subnets": {
     "ipv4": [
+      "23.209.112.0/22",
       "51.36.0.0/16",
       "51.39.0.0/17",
       "51.39.128.0/19",

@@ -1,0 +1,11 @@
+{
+  "asn": 399976,
+  "handle": "NOVANETWORKS",
+  "description": "Nova Networks",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2602:80c:2000::/40"
+    ]
+  }
+}

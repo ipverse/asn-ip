@@ -3,7 +3,11 @@
   "handle": "HIPERLIG-INFORMTICA-LTDA-ME",
   "description": "Hiperlig Informtica Ltda ME",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "131.108.12.0/22"
+    ],
+    "ipv6": [
+      "2804:1cb0::/32"
+    ]
   }
 }

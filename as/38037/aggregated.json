@@ -4,7 +4,7 @@
   "description": "InternetNZ",
   "subnets": {
     "ipv4": [
-      "103.70.24.0/24"
+      "103.70.24.0/22"
     ],
     "ipv6": []
   }

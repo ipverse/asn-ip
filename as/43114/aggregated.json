@@ -3,7 +3,11 @@
   "handle": "SVK",
   "description": "SVK-Telecom LLC",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "89.23.124.0/22"
+    ],
+    "ipv6": [
+      "2a11:7240::/29"
+    ]
   }
 }

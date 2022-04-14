@@ -1,0 +1,13 @@
+{
+  "asn": 272113,
+  "handle": "COOPERATIVA-ELECTRICA-Y",
+  "description": "COOPERATIVA ELECTRICA Y OTROS SERVICIOS PUBLICOS DE FERRE LIMITADA",
+  "subnets": {
+    "ipv4": [
+      "186.56.60.0/24",
+      "186.56.107.0/24",
+      "201.251.242.0/24"
+    ],
+    "ipv6": []
+  }
+}

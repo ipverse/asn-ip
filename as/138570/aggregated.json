@@ -1,10 +1,11 @@
 {
   "asn": 138570,
-  "handle": "ARESFLARE-AP",
-  "description": "AresFlare Network Limited",
+  "handle": "RESERVED",
+  "description": "APNIC ASN block",
   "subnets": {
     "ipv4": [
-      "103.133.88.0/22"
+      "103.133.89.0/24",
+      "103.133.90.0/23"
     ],
     "ipv6": []
   }

@@ -3,7 +3,9 @@
   "handle": "MANCON-COX-CAVALIER-FAILOVER",
   "description": "Mancon",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "216.54.82.0/23"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "JUSTIA-FEDERAL-DE",
   "description": "Justia Federal de 1 instncia em Pernambuco",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.100.168.0/24"
+    ],
     "ipv6": []
   }
 }

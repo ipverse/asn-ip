@@ -3,12 +3,7 @@
   "handle": "NETCOMM",
   "description": "Network Communications",
   "subnets": {
-    "ipv4": [
-      "24.204.24.0/21",
-      "24.204.32.0/19",
-      "173.0.32.0/20",
-      "199.33.80.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

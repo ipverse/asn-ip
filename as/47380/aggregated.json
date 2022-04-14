@@ -3,10 +3,7 @@
   "handle": "MADINFOR",
   "description": "MADINFOR, S.L.",
   "subnets": {
-    "ipv4": [
-      "31.222.111.0/24",
-      "185.93.232.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

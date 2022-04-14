@@ -3,9 +3,7 @@
   "handle": "GCL-AP",
   "description": "Gen2 Consulting Limited",
   "subnets": {
-    "ipv4": [
-      "154.38.64.0/20"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

@@ -4,7 +4,8 @@
   "description": "Bob\u0027s Discount Furniture, LLC",
   "subnets": {
     "ipv4": [
-      "12.206.9.0/24"
+      "12.206.9.0/24",
+      "174.77.117.0/24"
     ],
     "ipv6": []
   }

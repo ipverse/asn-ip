@@ -4,6 +4,7 @@
   "description": "Lotte Data Communication Company",
   "subnets": {
     "ipv4": [
+      "61.110.96.0/22",
       "61.110.100.0/24",
       "125.60.64.0/19",
       "202.30.171.0/24",

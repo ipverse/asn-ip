@@ -1,0 +1,13 @@
+{
+  "asn": 49268,
+  "handle": "AMPR-BE",
+  "description": "Hermes Telecom BVBA",
+  "subnets": {
+    "ipv4": [
+      "44.144.0.0/24"
+    ],
+    "ipv6": [
+      "2a01:9480::/32"
+    ]
+  }
+}

@@ -3,7 +3,9 @@
   "handle": "RITAOHIO",
   "description": "Regional Income Tax Agency",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "71.67.213.0/24"
+    ],
     "ipv6": []
   }
 }

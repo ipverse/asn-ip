@@ -1,0 +1,11 @@
+{
+  "asn": 399678,
+  "handle": "CARRIER-AMER",
+  "description": "Carrier Corporation",
+  "subnets": {
+    "ipv4": [
+      "161.145.172.0/22"
+    ],
+    "ipv6": []
+  }
+}

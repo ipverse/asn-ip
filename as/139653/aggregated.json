@@ -4,9 +4,6 @@
   "description": "Soon Keat Neo",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2a0e:46c4:100::/48",
-      "2a0e:46c4:1000::/40"
-    ]
+    "ipv6": []
   }
 }

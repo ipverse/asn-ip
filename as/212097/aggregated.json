@@ -4,6 +4,7 @@
   "description": "VIMTEL TELECOMUNICACIONES SL",
   "subnets": {
     "ipv4": [
+      "45.81.88.0/22",
       "62.133.36.0/22",
       "178.19.36.0/22",
       "185.227.102.0/24",

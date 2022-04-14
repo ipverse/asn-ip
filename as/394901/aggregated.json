@@ -4,7 +4,8 @@
   "description": "Element Critical",
   "subnets": {
     "ipv4": [
-      "130.250.0.0/18"
+      "130.250.0.0/20",
+      "130.250.32.0/19"
     ],
     "ipv6": []
   }

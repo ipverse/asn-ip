@@ -4,7 +4,8 @@
   "description": "NG BILGI TEKNOLOJI SANAYI VE TICARET ANONIM SIRKETI",
   "subnets": {
     "ipv4": [
-      "185.137.212.0/22"
+      "185.137.212.0/23",
+      "185.137.214.0/24"
     ],
     "ipv6": []
   }

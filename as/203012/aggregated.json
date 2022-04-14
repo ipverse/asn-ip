@@ -4,8 +4,6 @@
   "description": "GESTIONIZA TELECOM SLU",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2a10:4e80::/29"
-    ]
+    "ipv6": []
   }
 }

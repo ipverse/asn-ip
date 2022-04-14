@@ -4,7 +4,8 @@
   "description": "Bart Vrancken trading as MLaB",
   "subnets": {
     "ipv4": [
-      "45.137.184.0/22"
+      "45.137.184.0/22",
+      "87.237.165.0/24"
     ],
     "ipv6": [
       "2a0e:a6c1::/32",

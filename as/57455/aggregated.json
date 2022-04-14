@@ -1,0 +1,13 @@
+{
+  "asn": 57455,
+  "handle": "FILANCO-LTD-UA",
+  "description": "Filanco Ukraine Ltd.",
+  "subnets": {
+    "ipv4": [
+      "31.28.1.0/24",
+      "31.28.2.0/24",
+      "193.222.52.0/22"
+    ],
+    "ipv6": []
+  }
+}

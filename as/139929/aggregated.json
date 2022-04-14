@@ -4,8 +4,6 @@
   "description": "Chicago Trading Company (CTC) Limited",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2001:df2:b080::/48"
-    ]
+    "ipv6": []
   }
 }

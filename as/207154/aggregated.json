@@ -3,7 +3,9 @@
   "handle": "LUSEYA-PLYUS",
   "description": "PE Luseya Plyus",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "93.170.220.0/22"
+    ],
     "ipv6": []
   }
 }

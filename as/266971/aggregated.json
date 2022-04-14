@@ -1,0 +1,11 @@
+{
+  "asn": 266971,
+  "handle": "REDE-MEGAS-INTERNET",
+  "description": "Rede Megas Internet",
+  "subnets": {
+    "ipv4": [
+      "45.225.8.0/22"
+    ],
+    "ipv6": []
+  }
+}

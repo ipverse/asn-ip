@@ -1,0 +1,11 @@
+{
+  "asn": 40264,
+  "handle": "CHARTER-NA",
+  "description": "Charter Communications",
+  "subnets": {
+    "ipv4": [
+      "192.62.232.0/21"
+    ],
+    "ipv6": []
+  }
+}

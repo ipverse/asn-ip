@@ -4,6 +4,7 @@
   "description": "MASTER LLC",
   "subnets": {
     "ipv4": [
+      "31.41.244.0/24",
       "45.93.20.0/24"
     ],
     "ipv6": []

@@ -4,10 +4,8 @@
   "description": "The University of the West IndiesSt Augustine Camp",
   "subnets": {
     "ipv4": [
-      "64.28.128.0/21",
-      "64.28.138.0/24",
-      "64.28.140.0/23",
-      "64.28.142.0/24"
+      "64.28.128.0/24",
+      "64.28.140.0/24"
     ],
     "ipv6": []
   }

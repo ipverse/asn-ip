@@ -1,10 +1,11 @@
 {
   "asn": 136473,
-  "handle": "NSOFNETWORKSLTD-AP",
-  "description": "Nsof Networks Ltd",
+  "handle": "METANETWORKSLTD-AP",
+  "description": "Meta Networks Ltd",
   "subnets": {
     "ipv4": [
-      "208.56.26.0/24"
+      "208.56.26.0/24",
+      "208.56.39.0/24"
     ],
     "ipv6": []
   }

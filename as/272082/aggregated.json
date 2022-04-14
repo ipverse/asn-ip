@@ -4,6 +4,8 @@
   "description": "JARM TELECOMUNICACIONES SRL",
   "subnets": {
     "ipv4": [
+      "181.214.17.0/24",
+      "181.214.182.0/24",
       "181.232.190.0/24"
     ],
     "ipv6": []
