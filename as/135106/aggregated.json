@@ -4,7 +4,7 @@
   "description": "CareTel Pty Ltd",
   "subnets": {
     "ipv4": [
-      "103.209.124.0/23"
+      "103.209.124.0/24"
     ],
     "ipv6": [
       "2405:ed80::/32"

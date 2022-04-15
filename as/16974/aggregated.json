@@ -3,9 +3,7 @@
   "handle": "WESTSTAR-PHX-001",
   "description": "WestStar Multimedia Entertainment, Inc.",
   "subnets": {
-    "ipv4": [
-      "198.233.190.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

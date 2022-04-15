@@ -4,7 +4,6 @@
   "description": "Freeman Health System",
   "subnets": {
     "ipv4": [
-      "12.156.158.0/24",
       "161.199.161.0/24"
     ],
     "ipv6": []

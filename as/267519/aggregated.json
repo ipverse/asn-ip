@@ -4,8 +4,7 @@
   "description": "CONEXAO INFORMATICA SILVA LTDA",
   "subnets": {
     "ipv4": [
-      "201.182.152.0/23",
-      "201.182.154.0/24"
+      "201.182.152.0/22"
     ],
     "ipv6": [
       "2804:42b0::/32"

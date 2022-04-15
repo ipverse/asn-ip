@@ -1,0 +1,11 @@
+{
+  "asn": 206203,
+  "handle": "ASHNET",
+  "description": "Ashley Statuto",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2602:fb8a:10::/48"
+    ]
+  }
+}

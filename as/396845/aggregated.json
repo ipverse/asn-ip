@@ -3,9 +3,7 @@
   "handle": "DV-PRIMARY-ASN1",
   "description": "Delivra, Inc.",
   "subnets": {
-    "ipv4": [
-      "141.193.209.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

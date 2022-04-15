@@ -4,6 +4,7 @@
   "description": "PPHU GoldNET Dariusz Pluta",
   "subnets": {
     "ipv4": [
+      "88.135.184.0/24",
       "155.133.90.0/23"
     ],
     "ipv6": []

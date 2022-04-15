@@ -4,10 +4,10 @@
   "description": "Echigo Internet Exchange",
   "subnets": {
     "ipv4": [
-      "58.84.254.0/23"
+      "117.102.169.0/24"
     ],
     "ipv6": [
-      "2402:a800:fff0::/48"
+      "2400:e000:105::/48"
     ]
   }
 }

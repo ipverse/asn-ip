@@ -1,0 +1,11 @@
+{
+  "asn": 271612,
+  "handle": "LOGO-TELECOM",
+  "description": "LOGO Telecom",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2804:7e40::/32"
+    ]
+  }
+}

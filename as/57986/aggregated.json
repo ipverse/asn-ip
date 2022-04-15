@@ -4,8 +4,7 @@
   "description": "Sigma IT Infrastructures Development Co. (Ltd.)",
   "subnets": {
     "ipv4": [
-      "45.15.201.0/24",
-      "45.15.202.0/24"
+      "45.15.200.0/22"
     ],
     "ipv6": []
   }

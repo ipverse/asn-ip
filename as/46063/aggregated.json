@@ -4,9 +4,7 @@
   "description": "PT.Graha Telekomunikasi Indonesia",
   "subnets": {
     "ipv4": [
-      "27.112.64.0/24",
-      "27.112.66.0/23",
-      "27.112.68.0/22"
+      "27.112.64.0/21"
     ],
     "ipv6": []
   }

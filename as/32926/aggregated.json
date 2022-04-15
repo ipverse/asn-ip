@@ -4,6 +4,7 @@
   "description": "Massachusetts State Lottery Commission",
   "subnets": {
     "ipv4": [
+      "50.223.149.0/24",
       "63.115.70.0/24",
       "65.166.250.0/24"
     ],

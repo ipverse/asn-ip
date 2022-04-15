@@ -1,0 +1,11 @@
+{
+  "asn": 206523,
+  "handle": "PUT",
+  "description": "Poznan University of Technology",
+  "subnets": {
+    "ipv4": [
+      "150.254.129.0/24"
+    ],
+    "ipv6": []
+  }
+}
