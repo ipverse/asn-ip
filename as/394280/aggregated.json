@@ -4,7 +4,8 @@
   "description": "Integrated Network Concepts",
   "subnets": {
     "ipv4": [
-      "66.205.248.0/23"
+      "66.205.248.0/23",
+      "204.153.26.0/23"
     ],
     "ipv6": []
   }

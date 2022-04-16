@@ -4,8 +4,6 @@
   "description": "On Mais Fibra",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2804:8674::/32"
-    ]
+    "ipv6": []
   }
 }

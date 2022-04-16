@@ -3,7 +3,9 @@
   "handle": "LU",
   "description": "Global Broadband Solution Inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "217.171.84.0/24"
+    ],
     "ipv6": []
   }
 }

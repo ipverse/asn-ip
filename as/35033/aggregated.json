@@ -3,9 +3,7 @@
   "handle": "FUJITSU",
   "description": "Fujitsu Services A/S",
   "subnets": {
-    "ipv4": [
-      "85.236.64.0/19"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

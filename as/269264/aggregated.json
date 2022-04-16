@@ -4,7 +4,8 @@
   "description": "AJNS PROVEDOR DE INTENRET LTDA",
   "subnets": {
     "ipv4": [
-      "45.183.64.0/22"
+      "45.183.64.0/23",
+      "45.183.66.0/24"
     ],
     "ipv6": [
       "2804:61e8::/32"

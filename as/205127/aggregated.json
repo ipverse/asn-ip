@@ -3,9 +3,7 @@
   "handle": "EURO-NET",
   "description": "PP Euronet",
   "subnets": {
-    "ipv4": [
-      "193.32.68.0/22"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

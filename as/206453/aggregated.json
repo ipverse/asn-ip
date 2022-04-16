@@ -3,9 +3,7 @@
   "handle": "RLAN",
   "description": "R\u0027LAN SARL",
   "subnets": {
-    "ipv4": [
-      "185.186.72.0/22"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

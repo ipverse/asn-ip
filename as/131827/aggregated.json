@@ -1,0 +1,11 @@
+{
+  "asn": 131827,
+  "handle": "JEJUBANK-KR",
+  "description": "jejubank",
+  "subnets": {
+    "ipv4": [
+      "211.193.255.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -3,7 +3,10 @@
   "handle": "GREENNETWORKS-LCC",
   "description": "GreenNetworks LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.136.52.0/22",
+      "91.192.8.0/24"
+    ],
     "ipv6": []
   }
 }

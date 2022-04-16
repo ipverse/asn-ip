@@ -3,7 +3,9 @@
   "handle": "BRENAC",
   "description": "BRENAC EURL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "171.22.144.0/24"
+    ],
     "ipv6": []
   }
 }

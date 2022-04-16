@@ -3,7 +3,9 @@
   "handle": "BACKOFFICE-PH",
   "description": "Back Office Inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.247.38.0/23"
+    ],
     "ipv6": []
   }
 }

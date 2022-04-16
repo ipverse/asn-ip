@@ -3,7 +3,9 @@
   "handle": "IDNIC-UAD-ID",
   "description": "Universitas Ahmad Dahlan",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.19.180.0/22"
+    ],
     "ipv6": []
   }
 }
