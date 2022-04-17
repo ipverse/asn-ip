@@ -3,7 +3,9 @@
   "handle": "NSUCLOUD-KR",
   "description": "ISOLUTION",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "125.138.176.0/21"
+    ],
     "ipv6": []
   }
 }

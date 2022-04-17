@@ -3,7 +3,9 @@
   "handle": "CASENETLLC",
   "description": "Casenet, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "170.76.135.0/24"
+    ],
     "ipv6": []
   }
 }

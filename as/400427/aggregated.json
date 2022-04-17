@@ -1,0 +1,11 @@
+{
+  "asn": 400427,
+  "handle": "IQ-FIBER",
+  "description": "IQ Fiber",
+  "subnets": {
+    "ipv4": [
+      "206.225.0.0/22"
+    ],
+    "ipv6": []
+  }
+}

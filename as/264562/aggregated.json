@@ -4,7 +4,8 @@
   "description": "TEX NET SERVIOS DE COMUNICAO EM INFORMATICA LTD",
   "subnets": {
     "ipv4": [
-      "45.174.188.0/22",
+      "45.174.188.0/23",
+      "45.174.191.0/24",
       "138.36.0.0/22",
       "168.232.84.0/22"
     ],
