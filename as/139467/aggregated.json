@@ -3,7 +3,9 @@
   "handle": "CBBL-AP",
   "description": "Community Bank Bangladesh Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.141.204.0/23"
+    ],
     "ipv6": []
   }
 }

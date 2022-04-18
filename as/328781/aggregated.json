@@ -3,10 +3,7 @@
   "handle": "LIDA-MASS-LINK",
   "description": "LIDA MASS LINK LIMITED",
   "subnets": {
-    "ipv4": [
-      "102.217.120.0/22",
-      "102.221.104.0/22"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

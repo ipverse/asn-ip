@@ -4,6 +4,7 @@
   "description": "Fundaco para Inovaes Tecnolgicas - FITec",
   "subnets": {
     "ipv4": [
+      "131.0.68.0/24",
       "131.0.71.0/24"
     ],
     "ipv6": []

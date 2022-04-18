@@ -3,7 +3,9 @@
   "handle": "DIDANATANECA-ID",
   "description": "PT. DIDANATANECA ANUGERAH SEJAHTERA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.145.200.0/23"
+    ],
     "ipv6": []
   }
 }

@@ -3,9 +3,7 @@
   "handle": "BROADLINK-AP",
   "description": "BroadLink Networks and Communications",
   "subnets": {
-    "ipv4": [
-      "103.134.219.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

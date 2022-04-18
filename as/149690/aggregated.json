@@ -1,0 +1,11 @@
+{
+  "asn": 149690,
+  "handle": "IDNIC-ALIMEDIAHOST-ID",
+  "description": "CV Ali Media Network",
+  "subnets": {
+    "ipv4": [
+      "103.186.33.0/24"
+    ],
+    "ipv6": []
+  }
+}
