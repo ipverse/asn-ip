@@ -1,0 +1,11 @@
+{
+  "asn": 400546,
+  "handle": "EXAGRID",
+  "description": "Exagrid",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2602:fbab:e0::/48"
+    ]
+  }
+}

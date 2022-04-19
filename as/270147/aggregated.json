@@ -1,0 +1,11 @@
+{
+  "asn": 270147,
+  "handle": "FLYNODE-DE-MEXICO-SA-DE-CV",
+  "description": "Flynode de Mexico, SA de CV",
+  "subnets": {
+    "ipv4": [
+      "136.175.124.0/24"
+    ],
+    "ipv6": []
+  }
+}

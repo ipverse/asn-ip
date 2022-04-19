@@ -1,4 +1,5 @@
 # AS7642 (DHIRAAGU-MV-AP)
 # Dhiraagu Pvt.Ltd.
 #
-2406:e400::/32
+2406:e400:a000::/46
+2406:e400:a004::/47

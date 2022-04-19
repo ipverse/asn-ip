@@ -3,7 +3,10 @@
   "handle": "POWERLINK-AP",
   "description": "Power Link Dot Net",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.112.236.0/24",
+      "103.112.238.0/23"
+    ],
     "ipv6": []
   }
 }

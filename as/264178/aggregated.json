@@ -4,10 +4,8 @@
   "description": "Coonexo Telecom e Informtica EIRELI",
   "subnets": {
     "ipv4": [
-      "138.99.72.0/22"
+      "138.99.75.0/24"
     ],
-    "ipv6": [
-      "2804:23b4::/32"
-    ]
+    "ipv6": []
   }
 }

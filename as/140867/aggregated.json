@@ -3,9 +3,7 @@
   "handle": "IGCL-AP",
   "description": "International gateway co., Ltd",
   "subnets": {
-    "ipv4": [
-      "103.113.47.0/24"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2402:b740:8000::/33"
     ]

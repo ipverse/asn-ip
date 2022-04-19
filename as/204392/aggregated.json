@@ -4,8 +4,7 @@
   "description": "Koleje Dolnoslaskie S.A.",
   "subnets": {
     "ipv4": [
-      "78.159.88.0/24",
-      "155.133.60.0/24"
+      "78.159.88.0/24"
     ],
     "ipv6": []
   }

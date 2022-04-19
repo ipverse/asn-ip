@@ -4,8 +4,6 @@
   "description": "Sinewave, Inc.",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2604:2f40::/32"
-    ]
+    "ipv6": []
   }
 }
