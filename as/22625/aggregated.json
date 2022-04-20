@@ -3,9 +3,7 @@
   "handle": "IMDC",
   "description": "Iron Mountain Data Center",
   "subnets": {
-    "ipv4": [
-      "66.35.32.0/19"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

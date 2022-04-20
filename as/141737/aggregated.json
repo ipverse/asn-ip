@@ -3,7 +3,9 @@
   "handle": "RAPIDNETWORK-AP",
   "description": "Rapid Network",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.182.212.0/23"
+    ],
     "ipv6": []
   }
 }

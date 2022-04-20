@@ -3,7 +3,9 @@
   "handle": "GOHOSTED",
   "description": "GoHosted.eu LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "41.71.223.0/24"
+    ],
     "ipv6": [
       "2a0e:b107:960::/44"
     ]

@@ -1,0 +1,12 @@
+{
+  "asn": 266841,
+  "handle": "GALANET-SOLUTION-CA",
+  "description": "GALANET SOLUTION C.A.",
+  "subnets": {
+    "ipv4": [
+      "170.83.76.0/22",
+      "207.138.36.0/22"
+    ],
+    "ipv6": []
+  }
+}

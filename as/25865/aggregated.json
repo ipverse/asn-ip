@@ -4,8 +4,7 @@
   "description": "Pinnacle Telecom, LLC.",
   "subnets": {
     "ipv4": [
-      "162.211.18.0/23",
-      "199.15.192.0/21"
+      "199.15.192.0/24"
     ],
     "ipv6": []
   }

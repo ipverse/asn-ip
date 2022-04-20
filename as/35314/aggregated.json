@@ -3,9 +3,7 @@
   "handle": "FIBERING-TORINO",
   "description": "Fibering S.p.a.",
   "subnets": {
-    "ipv4": [
-      "85.31.160.0/21"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

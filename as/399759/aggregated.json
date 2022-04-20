@@ -4,8 +4,6 @@
   "description": "Uber Wireless LLP",
   "subnets": {
     "ipv4": [
-      "12.7.35.0/24",
-      "12.191.122.0/24",
       "216.73.168.0/22"
     ],
     "ipv6": []

@@ -4,6 +4,7 @@
   "description": "Transasia LLC",
   "subnets": {
     "ipv4": [
+      "5.42.219.0/24",
       "193.124.6.0/24"
     ],
     "ipv6": []

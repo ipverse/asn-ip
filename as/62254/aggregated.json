@@ -1,0 +1,13 @@
+{
+  "asn": 62254,
+  "handle": "AVARN-FI",
+  "description": "Avarn Security Oy",
+  "subnets": {
+    "ipv4": [
+      "91.233.141.0/24"
+    ],
+    "ipv6": [
+      "2a0e:e180::/48"
+    ]
+  }
+}

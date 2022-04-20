@@ -3,10 +3,7 @@
   "handle": "CEO-EASTTX",
   "description": "Computers, Electronics, Office, Etc, Ltd.",
   "subnets": {
-    "ipv4": [
-      "184.7.192.0/24",
-      "184.7.206.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }
