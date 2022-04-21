@@ -3,9 +3,7 @@
   "handle": "CORVISA",
   "description": "Corvisa LLC",
   "subnets": {
-    "ipv4": [
-      "134.199.16.0/21"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

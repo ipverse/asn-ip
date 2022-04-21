@@ -4,7 +4,8 @@
   "description": "University of Texas System",
   "subnets": {
     "ipv4": [
-      "129.114.128.0/17"
+      "129.114.128.0/17",
+      "204.158.4.0/24"
     ],
     "ipv6": []
   }

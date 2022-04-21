@@ -3,7 +3,9 @@
   "handle": "DIGITAL-CANDEIAS",
   "description": "Digital Candeias",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.7.0.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -1,0 +1,11 @@
+{
+  "asn": 270149,
+  "handle": "CFE-TELECOMUNICACIONES-E",
+  "description": "CFE TELECOMUNICACIONES E INTERNET PARA TODOS",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2806:3c8::/32"
+    ]
+  }
+}

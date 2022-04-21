@@ -4,6 +4,7 @@
   "description": "ENHANCED COMMUNICATIONS, S.L.",
   "subnets": {
     "ipv4": [
+      "38.44.18.0/24",
       "185.163.49.0/24"
     ],
     "ipv6": []

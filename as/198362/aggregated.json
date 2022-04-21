@@ -3,12 +3,7 @@
   "handle": "HELIACAL",
   "description": "HELIACAL NETWORKS LTD",
   "subnets": {
-    "ipv4": [
-      "91.234.48.0/24"
-    ],
-    "ipv6": [
-      "2001:470:5f::/48",
-      "2a00:5540:5014::/48"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

@@ -4,7 +4,8 @@
   "description": "Flash Net Provedor Ltda - ME",
   "subnets": {
     "ipv4": [
-      "138.36.192.0/22"
+      "138.36.192.0/22",
+      "167.249.59.0/24"
     ],
     "ipv6": [
       "2804:2200::/32"

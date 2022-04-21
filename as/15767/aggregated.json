@@ -3,7 +3,9 @@
   "handle": "ABANKA",
   "description": "Abanka Vipa d.d.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.35.122.0/24"
+    ],
     "ipv6": []
   }
 }

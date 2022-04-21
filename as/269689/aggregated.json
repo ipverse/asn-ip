@@ -4,8 +4,7 @@
   "description": "SERTAO COMERCIO E SERVICOS DE INFORMATICA EIRELI",
   "subnets": {
     "ipv4": [
-      "45.191.128.0/23",
-      "45.191.130.0/24"
+      "45.191.128.0/22"
     ],
     "ipv6": [
       "2804:6864::/39"

@@ -3,7 +3,9 @@
   "handle": "SARNET",
   "description": "Ministry for Scientific and Technological Development, Higher Education and Information Society of the Republic of Srpska",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "78.28.128.0/18"
+    ],
     "ipv6": []
   }
 }

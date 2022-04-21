@@ -3,9 +3,7 @@
   "handle": "EEMONT1-AP",
   "description": "Eemont Private Limited",
   "subnets": {
-    "ipv4": [
-      "103.166.202.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "HONCOOP-TECHNOLOGY-SERVICES",
   "description": "Honcoop Technology Services",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "23.142.64.0/24"
+    ],
     "ipv6": [
       "2620:34:2000::/48"
     ]

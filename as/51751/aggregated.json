@@ -3,7 +3,9 @@
   "handle": "SSTU",
   "description": "Saratov State Tehnical University",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "82.137.176.0/20"
+    ],
     "ipv6": []
   }
 }

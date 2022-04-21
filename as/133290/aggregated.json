@@ -3,7 +3,9 @@
   "handle": "BOBCPL-IN",
   "description": "Bob Communications Private Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.146.223.0/24"
+    ],
     "ipv6": []
   }
 }
