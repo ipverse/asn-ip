@@ -1,0 +1,12 @@
+{
+  "asn": 149547,
+  "handle": "INDIGAT-IN",
+  "description": "INDIGO GATEWAY",
+  "subnets": {
+    "ipv4": [
+      "103.184.150.0/23",
+      "103.184.246.0/23"
+    ],
+    "ipv6": []
+  }
+}

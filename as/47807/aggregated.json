@@ -3,9 +3,7 @@
   "handle": "PULKOVO",
   "description": "Smart Telecom Limited",
   "subnets": {
-    "ipv4": [
-      "94.125.8.0/21"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

@@ -4,8 +4,7 @@
   "description": "Morehouse College",
   "subnets": {
     "ipv4": [
-      "69.87.160.0/20",
-      "69.87.180.0/22"
+      "69.87.160.0/20"
     ],
     "ipv6": []
   }

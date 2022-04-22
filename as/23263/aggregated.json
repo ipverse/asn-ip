@@ -4,6 +4,7 @@
   "description": "E.L. Internet Northwest",
   "subnets": {
     "ipv4": [
+      "63.64.47.0/24",
       "192.183.176.0/24",
       "205.220.208.0/24"
     ],

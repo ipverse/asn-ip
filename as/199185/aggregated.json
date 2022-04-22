@@ -3,9 +3,7 @@
   "handle": "TSCLLC",
   "description": "LLC Technoserv Consulting",
   "subnets": {
-    "ipv4": [
-      "188.64.148.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "CARDGATE-NET-AP",
   "description": "CardGate.net Pty Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.136.123.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,11 @@
   "handle": "RB7-TELECOMUNICAES-EIRELI",
   "description": "RB7 Telecomunicaes EIRELI",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.234.36.0/22"
+    ],
+    "ipv6": [
+      "2804:4c40::/32"
+    ]
   }
 }

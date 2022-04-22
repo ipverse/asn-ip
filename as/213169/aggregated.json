@@ -1,11 +1,12 @@
 {
   "asn": 213169,
-  "handle": "CATIXS",
+  "handle": "CATIXS-AKA",
   "description": "Catixs Ltd",
   "subnets": {
     "ipv4": [],
     "ipv6": [
-      "2a06:a005:350::/44"
+      "2a06:a005:350::/44",
+      "2a0f:9400:7724::/48"
     ]
   }
 }

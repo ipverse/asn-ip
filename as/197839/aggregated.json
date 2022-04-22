@@ -4,7 +4,8 @@
   "description": "RAXEL TELEKOMUNIKACJA MAZOWIECKA SP Z O O SPOLKA KOMANDYTOWA",
   "subnets": {
     "ipv4": [
-      "91.226.100.0/22"
+      "91.226.100.0/22",
+      "194.246.98.0/24"
     ],
     "ipv6": []
   }

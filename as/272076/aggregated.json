@@ -1,0 +1,11 @@
+{
+  "asn": 272076,
+  "handle": "FIBRA100-SAS",
+  "description": "FIBRA100 S.A.S.",
+  "subnets": {
+    "ipv4": [
+      "181.189.16.0/24"
+    ],
+    "ipv6": []
+  }
+}

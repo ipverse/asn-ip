@@ -4,12 +4,8 @@
   "description": "Andreas Fink trading as Fink Telecom Services GmbH",
   "subnets": {
     "ipv4": [
-      "79.134.224.0/19",
-      "102.22.104.0/22",
-      "185.22.52.0/22"
+      "79.134.224.0/19"
     ],
-    "ipv6": [
-      "2a01:528::/32"
-    ]
+    "ipv6": []
   }
 }

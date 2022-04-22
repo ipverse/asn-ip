@@ -4,7 +4,8 @@
   "description": "Applesoft Technologies",
   "subnets": {
     "ipv4": [
-      "103.79.100.0/22"
+      "103.79.101.0/24",
+      "103.79.103.0/24"
     ],
     "ipv6": []
   }

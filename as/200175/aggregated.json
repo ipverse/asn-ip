@@ -4,7 +4,8 @@
   "description": "LLC Planet of flowers",
   "subnets": {
     "ipv4": [
-      "194.87.82.0/24"
+      "194.87.82.0/24",
+      "195.19.201.0/24"
     ],
     "ipv6": []
   }

@@ -3,7 +3,9 @@
   "handle": "DATABENTO",
   "description": "Databento, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "209.127.152.0/24"
+    ],
     "ipv6": []
   }
 }

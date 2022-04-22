@@ -1,11 +1,9 @@
 {
   "asn": 15767,
-  "handle": "ABANKA",
-  "description": "Abanka Vipa d.d.",
+  "handle": "NKBM",
+  "description": "Nova Kreditna Banka Maribor d.d.",
   "subnets": {
-    "ipv4": [
-      "195.35.122.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

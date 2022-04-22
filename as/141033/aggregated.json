@@ -3,7 +3,9 @@
   "handle": "PRANTAENTERPRISE-AP",
   "description": "Pranta Enterprise",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.155.27.0/24"
+    ],
     "ipv6": []
   }
 }
