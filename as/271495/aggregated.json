@@ -3,7 +3,11 @@
   "handle": "BEZERRA-DA-SILVA-E-LIMA-LTDA",
   "description": "BEZERRA DA SILVA E LIMA LTDA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "181.224.84.0/22"
+    ],
+    "ipv6": [
+      "2804:7c6c::/32"
+    ]
   }
 }

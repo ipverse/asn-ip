@@ -3,7 +3,10 @@
   "handle": "SKYCOM",
   "description": "Sky Commodities India Pvt Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.111.48.0/23",
+      "103.111.50.0/24"
+    ],
     "ipv6": []
   }
 }

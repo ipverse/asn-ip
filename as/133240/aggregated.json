@@ -3,7 +3,11 @@
   "handle": "WAVETREE",
   "description": "WAVETREE NETWORKS PVT LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.47.78.0/24",
+      "103.230.101.0/24",
+      "103.230.102.0/23"
+    ],
     "ipv6": []
   }
 }

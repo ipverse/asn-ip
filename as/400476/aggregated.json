@@ -1,0 +1,13 @@
+{
+  "asn": 400476,
+  "handle": "TAILSCALE",
+  "description": "Tailscale Inc.",
+  "subnets": {
+    "ipv4": [
+      "23.132.248.0/24"
+    ],
+    "ipv6": [
+      "2606:b740:1::/48"
+    ]
+  }
+}

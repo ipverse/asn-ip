@@ -3,9 +3,7 @@
   "handle": "PDI-HQ-INET",
   "description": "Premier Designs, Inc",
   "subnets": {
-    "ipv4": [
-      "12.238.96.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

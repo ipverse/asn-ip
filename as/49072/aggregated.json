@@ -3,11 +3,7 @@
   "handle": "SAMIR-JAFFERALI",
   "description": "Samir Jafferali",
   "subnets": {
-    "ipv4": [
-      "79.143.48.0/24"
-    ],
-    "ipv6": [
-      "2a06:7a07::/43"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

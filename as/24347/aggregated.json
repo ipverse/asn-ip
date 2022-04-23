@@ -3,10 +3,7 @@
   "handle": "INTERGEN-WGTN-NZ",
   "description": "Intergen Limited",
   "subnets": {
-    "ipv4": [
-      "103.29.244.0/23",
-      "202.126.80.0/22"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

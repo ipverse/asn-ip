@@ -3,10 +3,7 @@
   "handle": "NUOS",
   "description": "National University of Science and Technology",
   "subnets": {
-    "ipv4": [
-      "196.220.96.0/24",
-      "196.220.100.0/22"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

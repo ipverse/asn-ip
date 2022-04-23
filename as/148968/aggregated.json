@@ -4,7 +4,8 @@
   "description": "Falcore Investments Pty Ltd",
   "subnets": {
     "ipv4": [
-      "103.174.228.0/23"
+      "103.174.228.0/23",
+      "103.182.40.0/23"
     ],
     "ipv6": [
       "2001:df7:d980::/48",

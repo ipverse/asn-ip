@@ -3,7 +3,11 @@
   "handle": "HUENET",
   "description": "Rafael Simioni",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "205.189.203.0/24"
+    ],
+    "ipv6": [
+      "2602:fb87::/40"
+    ]
   }
 }

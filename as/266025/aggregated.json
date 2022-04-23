@@ -3,7 +3,9 @@
   "handle": "OPTICA-TELECOM-LTDA",
   "description": "OPTICA TELECOM LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "170.245.55.0/24"
+    ],
     "ipv6": []
   }
 }

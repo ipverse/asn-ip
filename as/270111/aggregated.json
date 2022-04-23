@@ -3,9 +3,7 @@
   "handle": "COMUNICACIN-POR-FIBRA",
   "description": "Comunicacin por Fibra SA de CV",
   "subnets": {
-    "ipv4": [
-      "189.51.168.0/22"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }
