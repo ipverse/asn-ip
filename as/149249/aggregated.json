@@ -1,0 +1,11 @@
+{
+  "asn": 149249,
+  "handle": "RUCHICOM-IN",
+  "description": "Ruchi Communication",
+  "subnets": {
+    "ipv4": [
+      "103.172.155.0/24"
+    ],
+    "ipv6": []
+  }
+}

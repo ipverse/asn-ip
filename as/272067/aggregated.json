@@ -1,0 +1,14 @@
+{
+  "asn": 272067,
+  "handle": "UNIVERSIDAD-ESTATAL-DE",
+  "description": "Universidad Estatal de Bolivar",
+  "subnets": {
+    "ipv4": [
+      "181.224.197.0/24"
+    ],
+    "ipv6": [
+      "2800:68:18::/48",
+      "2801:16:9800::/48"
+    ]
+  }
+}

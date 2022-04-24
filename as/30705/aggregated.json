@@ -3,11 +3,7 @@
   "handle": "FARGO-VOXTELESYS-01",
   "description": "Voxtelesys LLC",
   "subnets": {
-    "ipv4": [
-      "23.155.16.0/24"
-    ],
-    "ipv6": [
-      "2605:b9c0::/34"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

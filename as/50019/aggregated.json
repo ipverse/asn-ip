@@ -4,7 +4,9 @@
   "description": "TURKLOKASYON TELEKOM VE BILISIM TEKNOLOJILERI",
   "subnets": {
     "ipv4": [
-      "45.131.196.0/22"
+      "45.131.196.0/22",
+      "185.128.113.0/24",
+      "185.128.114.0/24"
     ],
     "ipv6": []
   }

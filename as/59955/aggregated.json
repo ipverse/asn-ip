@@ -3,7 +3,10 @@
   "handle": "ABS",
   "description": "Advanced Broadband Services S.A.L",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.9.137.0/24",
+      "185.9.138.0/23"
+    ],
     "ipv6": []
   }
 }

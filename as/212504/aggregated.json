@@ -1,0 +1,11 @@
+{
+  "asn": 212504,
+  "handle": "ADKYNET",
+  "description": "AdKyNet SAS",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a10:4646:140::/44"
+    ]
+  }
+}
