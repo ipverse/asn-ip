@@ -1,0 +1,12 @@
+{
+  "asn": 210000,
+  "handle": "DAOPORT",
+  "description": "ANCLOPT LIMITED",
+  "subnets": {
+    "ipv4": [
+      "176.119.223.0/24",
+      "194.156.188.0/24"
+    ],
+    "ipv6": []
+  }
+}

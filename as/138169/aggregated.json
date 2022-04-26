@@ -1,0 +1,14 @@
+{
+  "asn": 138169,
+  "handle": "ASEAN-INTERNATIONAL-INFORMATION-GARDEN-IDC",
+  "description": "China Telecom",
+  "subnets": {
+    "ipv4": [
+      "180.138.248.0/23"
+    ],
+    "ipv6": [
+      "240e:250:2a00::/40",
+      "240e:951:2c00::/38"
+    ]
+  }
+}

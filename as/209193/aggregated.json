@@ -3,7 +3,11 @@
   "handle": "SUPERCELL-FTTH",
   "description": "SUPER CELL NETWORK FOR INTERNET SERVICES LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "82.129.18.0/23",
+      "82.129.20.0/24",
+      "82.129.22.0/23"
+    ],
     "ipv6": []
   }
 }

@@ -3,10 +3,7 @@
   "handle": "MEDIA-COMMERCE-PER-SAC",
   "description": "MEDIA COMMERCE PER S.A.C",
   "subnets": {
-    "ipv4": [
-      "179.43.93.0/24",
-      "179.43.94.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "SFMPL-AP",
   "description": "SBI Funds Management Private Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.121.192.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,10 +3,7 @@
   "handle": "RUEDA-SISTEMAS",
   "description": "RUEDA SISTEMAS, S.L.",
   "subnets": {
-    "ipv4": [
-      "86.104.184.0/23",
-      "185.80.29.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

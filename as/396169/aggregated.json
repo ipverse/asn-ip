@@ -3,7 +3,9 @@
   "handle": "GHCIL-01",
   "description": "HCI, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "23.155.208.0/24"
+    ],
     "ipv6": []
   }
 }

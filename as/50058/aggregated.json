@@ -1,9 +1,18 @@
 {
   "asn": 50058,
-  "handle": "GALAXY-SERVICES",
+  "handle": "AUGUST-INTERNET",
   "description": "August Internet Limited",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "23.133.8.0/24",
+      "165.140.142.0/24",
+      "216.146.28.0/22"
+    ],
+    "ipv6": [
+      "2602:fbf6::/36",
+      "2602:fc23::/36",
+      "2606:b0c0::/32",
+      "2a05:b0c7::/32"
+    ]
   }
 }

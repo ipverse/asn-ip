@@ -4,7 +4,7 @@
   "description": "Glenwood Springs Community Broadband Network",
   "subnets": {
     "ipv4": [
-      "64.184.233.0/24",
+      "64.184.232.0/23",
       "74.114.4.0/22",
       "208.72.64.0/21"
     ],

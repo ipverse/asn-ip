@@ -3,7 +3,9 @@
   "handle": "SECRETARIA-DA-FAZENDA",
   "description": "SECRETARIA DA FAZENDA DO ESTADO DO PIAUI",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "200.23.148.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -4,7 +4,9 @@
   "description": "CIRO FERREIRA DA CUNHA SIQUEIRA - CONDOMIWEB - ME",
   "subnets": {
     "ipv4": [
-      "179.109.120.0/22"
+      "179.109.120.0/22",
+      "181.189.8.0/23",
+      "181.189.11.0/24"
     ],
     "ipv6": []
   }

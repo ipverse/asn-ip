@@ -3,9 +3,7 @@
   "handle": "RML-AP",
   "description": "Route Mobile Limited",
   "subnets": {
-    "ipv4": [
-      "103.16.57.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }
