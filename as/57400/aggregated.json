@@ -1,0 +1,11 @@
+{
+  "asn": 57400,
+  "handle": "INTERVIA",
+  "description": "Intervia B.V.",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a03:4f80::/32"
+    ]
+  }
+}

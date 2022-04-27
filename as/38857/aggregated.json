@@ -3,7 +3,9 @@
   "handle": "ESOFT-TRANSIT-AP",
   "description": "Esoft Technologies Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "202.166.184.0/24"
+    ],
     "ipv6": []
   }
 }

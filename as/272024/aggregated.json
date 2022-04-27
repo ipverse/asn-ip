@@ -3,9 +3,10 @@
   "handle": "EVERNET-SAS",
   "description": "EVERNET SAS",
   "subnets": {
-    "ipv4": [],
-    "ipv6": [
-      "2803:2510::/32"
-    ]
+    "ipv4": [
+      "181.189.24.0/23",
+      "181.189.26.0/24"
+    ],
+    "ipv6": []
   }
 }

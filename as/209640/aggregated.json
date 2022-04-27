@@ -3,10 +3,7 @@
   "handle": "ZEONTEHNOMD",
   "description": "ZEON-TEHNO SRL",
   "subnets": {
-    "ipv4": [
-      "149.3.189.0/24",
-      "149.3.191.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

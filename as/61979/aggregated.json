@@ -4,7 +4,8 @@
   "description": "Stolica Svyazi Ltd.",
   "subnets": {
     "ipv4": [
-      "92.38.44.0/22"
+      "92.38.44.0/22",
+      "95.47.53.0/24"
     ],
     "ipv6": []
   }

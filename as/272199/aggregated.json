@@ -1,0 +1,11 @@
+{
+  "asn": 272199,
+  "handle": "ENTELCO-TELECOM",
+  "description": "ENTELCO TELECOM",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2804:8374:8000::/33"
+    ]
+  }
+}

@@ -4,6 +4,7 @@
   "description": "PT. Cipta Informatika Cemerlang",
   "subnets": {
     "ipv4": [
+      "103.21.95.0/24",
       "103.151.92.0/23",
       "113.212.160.0/22",
       "113.212.164.0/23",

@@ -3,7 +3,9 @@
   "handle": "ROICO",
   "description": "Roico Net Kft",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.224.4.0/22"
+    ],
     "ipv6": []
   }
 }

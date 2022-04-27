@@ -3,9 +3,7 @@
   "handle": "UAKRON",
   "description": "The University of Akron",
   "subnets": {
-    "ipv4": [
-      "130.101.0.0/17"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

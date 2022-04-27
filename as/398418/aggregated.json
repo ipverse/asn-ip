@@ -3,9 +3,7 @@
   "handle": "AGCORP",
   "description": "Arenal Group",
   "subnets": {
-    "ipv4": [
-      "8.2.200.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

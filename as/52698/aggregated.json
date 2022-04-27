@@ -4,6 +4,7 @@
   "description": "OPENTEL Comrcio e Servios Ltda",
   "subnets": {
     "ipv4": [
+      "45.190.89.0/24",
       "177.73.68.0/22"
     ],
     "ipv6": [

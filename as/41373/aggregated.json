@@ -3,10 +3,7 @@
   "handle": "BT-PLC",
   "description": "NATIONAL HEALTH SERVICE",
   "subnets": {
-    "ipv4": [
-      "91.232.153.0/24",
-      "194.176.105.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

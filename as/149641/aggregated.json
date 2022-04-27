@@ -1,0 +1,12 @@
+{
+  "asn": 149641,
+  "handle": "HKXC-AP",
+  "description": "Hong Kong Beecloud System Technology Services Limited",
+  "subnets": {
+    "ipv4": [
+      "38.47.48.0/24",
+      "154.91.202.0/23"
+    ],
+    "ipv6": []
+  }
+}

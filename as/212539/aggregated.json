@@ -1,12 +1,9 @@
 {
   "asn": 212539,
-  "handle": "MASALA",
+  "handle": "OTTER",
   "description": "Francesco Masala",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2a0e:97c0:3f0::/46",
-      "2a0e:97c0:3f4::/48"
-    ]
+    "ipv6": []
   }
 }

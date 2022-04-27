@@ -4,6 +4,8 @@
   "description": "Ding Yu",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2602:fc52:330::/48"
+    ]
   }
 }

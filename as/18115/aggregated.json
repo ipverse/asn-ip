@@ -4,6 +4,7 @@
   "description": "Digital Telecommunications Philippines, Inc.",
   "subnets": {
     "ipv4": [
+      "27.110.128.0/24",
       "112.198.48.0/24",
       "115.146.133.0/24",
       "115.146.135.0/24",

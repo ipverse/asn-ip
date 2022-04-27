@@ -3,7 +3,9 @@
   "handle": "VIEIRA-E-LARA-LTDA",
   "description": "VIEIRA E LARA LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.183.72.0/22"
+    ],
     "ipv6": [
       "2804:62d4::/32"
     ]
