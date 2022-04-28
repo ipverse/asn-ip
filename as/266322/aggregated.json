@@ -4,6 +4,7 @@
   "description": "E. SILVA AZEDO EIRELI - ME",
   "subnets": {
     "ipv4": [
+      "170.238.103.0/24",
       "170.238.120.0/22"
     ],
     "ipv6": [

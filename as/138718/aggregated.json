@@ -4,7 +4,8 @@
   "description": "Ekowebtech It Services Pvt Ltd",
   "subnets": {
     "ipv4": [
-      "103.113.104.0/22"
+      "103.113.104.0/22",
+      "103.186.48.0/24"
     ],
     "ipv6": []
   }

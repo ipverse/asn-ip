@@ -4,6 +4,7 @@
   "description": "Fiber Optical Network LLC",
   "subnets": {
     "ipv4": [
+      "64.43.100.0/22",
       "64.43.112.0/22",
       "91.236.90.0/23",
       "176.113.100.0/22",

@@ -3,9 +3,7 @@
   "handle": "NRC-NET",
   "description": "United States Nuclear Regulatory Commission",
   "subnets": {
-    "ipv4": [
-      "148.184.180.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

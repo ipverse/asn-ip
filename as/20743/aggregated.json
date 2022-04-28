@@ -1,0 +1,11 @@
+{
+  "asn": 20743,
+  "handle": "SWX",
+  "description": "SIX Swiss Exchange AG",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a01:4642:100::/40"
+    ]
+  }
+}

@@ -3,11 +3,7 @@
   "handle": "RICHMOND-IX-CORPORATE-TRANSIT",
   "description": "Richmond-IX Corporation",
   "subnets": {
-    "ipv4": [
-      "23.152.192.0/24"
-    ],
-    "ipv6": [
-      "2620:134:1000::/44"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

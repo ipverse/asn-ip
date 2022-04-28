@@ -3,9 +3,7 @@
   "handle": "NDICOMMX-SA-DE-CV",
   "description": "NDI.COM.MX SA DE CV",
   "subnets": {
-    "ipv4": [
-      "131.196.247.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

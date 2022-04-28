@@ -1,0 +1,13 @@
+{
+  "asn": 272193,
+  "handle": "SPNETFIBRA-PROVEDOR-NETWORKING",
+  "description": "SPnetFibra Provedor Networking Ltda",
+  "subnets": {
+    "ipv4": [
+      "45.186.164.0/23"
+    ],
+    "ipv6": [
+      "2804:64b8:c000::/34"
+    ]
+  }
+}

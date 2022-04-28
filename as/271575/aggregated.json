@@ -3,7 +3,9 @@
   "handle": "FASTWAY-TELECOM-COMUNICACOES",
   "description": "Fastway Telecom Comunicacoes - EIRELI",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "179.63.124.0/22"
+    ],
     "ipv6": [
       "2804:7da8::/32"
     ]

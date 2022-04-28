@@ -3,9 +3,7 @@
   "handle": "NCHC",
   "description": "Johnson \u0026 Johnson",
   "subnets": {
-    "ipv4": [
-      "199.65.240.0/21"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }
