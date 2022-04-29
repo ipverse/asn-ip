@@ -4,6 +4,8 @@
   "description": "Tsung-Yi Yu",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a0e:aa02:1::/48"
+    ]
   }
 }

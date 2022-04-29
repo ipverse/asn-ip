@@ -4,7 +4,6 @@
   "description": "Rede Free - Internet Wi-fi",
   "subnets": {
     "ipv4": [
-      "177.200.153.0/24",
       "179.48.72.0/22"
     ],
     "ipv6": []

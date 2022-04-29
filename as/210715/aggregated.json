@@ -3,7 +3,9 @@
   "handle": "PISKOT",
   "description": "Nik Rozman",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "212.192.29.0/24"
+    ],
     "ipv6": [
       "2602:fed2:711b::/48",
       "2a07:22c1:38::/48",

@@ -1,0 +1,12 @@
+{
+  "asn": 149536,
+  "handle": "NSBNETWORK1-IN",
+  "description": "NSB NETWORKS PVT LTD",
+  "subnets": {
+    "ipv4": [
+      "103.184.11.0/24",
+      "103.215.202.0/24"
+    ],
+    "ipv6": []
+  }
+}

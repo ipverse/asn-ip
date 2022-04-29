@@ -1,13 +1,9 @@
 {
   "asn": 49877,
-  "handle": "ASTORE-TRADING-LLC",
+  "handle": "-ASTORE",
   "description": "ASTOR TRADING LLC",
   "subnets": {
-    "ipv4": [
-      "45.83.179.0/24",
-      "87.251.70.0/23",
-      "185.153.196.0/22"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

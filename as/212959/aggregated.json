@@ -4,6 +4,7 @@
   "description": "Applied solutions LLC",
   "subnets": {
     "ipv4": [
+      "192.124.171.0/24",
       "194.87.16.0/24"
     ],
     "ipv6": []

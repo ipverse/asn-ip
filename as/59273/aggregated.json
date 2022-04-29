@@ -4,6 +4,7 @@
   "description": "PT KOMUNIKASI LINTAS NUSA",
   "subnets": {
     "ipv4": [
+      "103.178.91.0/24",
       "103.226.48.0/22"
     ],
     "ipv6": []

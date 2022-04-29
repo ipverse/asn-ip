@@ -3,9 +3,7 @@
   "handle": "DNET-IN",
   "description": "Dnet E Solutions Pvt Ltd",
   "subnets": {
-    "ipv4": [
-      "103.110.16.0/22"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

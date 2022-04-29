@@ -3,11 +3,7 @@
   "handle": "ARIASPA",
   "description": "Tiscali Italia S.P.A.",
   "subnets": {
-    "ipv4": [
-      "159.20.192.0/21",
-      "188.135.160.0/23",
-      "188.135.200.0/21"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

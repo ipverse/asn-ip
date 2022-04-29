@@ -3,11 +3,7 @@
   "handle": "FASTLY-IT",
   "description": "Fastly",
   "subnets": {
-    "ipv4": [
-      "8.18.217.0/24"
-    ],
-    "ipv6": [
-      "2620:11a:c081::/48"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

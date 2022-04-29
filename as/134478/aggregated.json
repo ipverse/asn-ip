@@ -4,6 +4,8 @@
   "description": "LSHIY Network Technology Limited",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2406:840:e180::/44"
+    ]
   }
 }

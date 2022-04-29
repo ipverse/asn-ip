@@ -1,0 +1,11 @@
+{
+  "asn": 20529,
+  "handle": "AS1-ALFA-SAFETY",
+  "description": "Alfa-Safety SARL",
+  "subnets": {
+    "ipv4": [
+      "217.147.204.0/22"
+    ],
+    "ipv6": []
+  }
+}
