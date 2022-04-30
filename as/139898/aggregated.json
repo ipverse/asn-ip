@@ -4,7 +4,8 @@
   "description": "Digitec Communications Limited",
   "subnets": {
     "ipv4": [
-      "43.245.56.0/22"
+      "43.245.56.0/22",
+      "103.146.201.0/24"
     ],
     "ipv6": [
       "2405:9f40::/32"

@@ -4,7 +4,8 @@
   "description": "Hardwork Cable and Internet Services Pvt Ltd",
   "subnets": {
     "ipv4": [
-      "103.54.100.0/22"
+      "103.54.101.0/24",
+      "103.54.102.0/23"
     ],
     "ipv6": [
       "2001:df4:200::/47"

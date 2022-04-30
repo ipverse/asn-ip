@@ -3,7 +3,9 @@
   "handle": "REDE-SMART-SOLUCAO",
   "description": "REDE SMART SOLUCAO EM INTERNET EIRELI",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.168.140.0/22"
+    ],
     "ipv6": []
   }
 }

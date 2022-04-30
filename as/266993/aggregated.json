@@ -3,9 +3,7 @@
   "handle": "AR-CONNECT-LTDA",
   "description": "AR Connect LTDA",
   "subnets": {
-    "ipv4": [
-      "45.226.108.0/22"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2804:4680::/32"
     ]

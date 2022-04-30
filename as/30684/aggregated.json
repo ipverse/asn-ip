@@ -3,10 +3,7 @@
   "handle": "ESOLUTIONS-DATAFORTRESS",
   "description": "eSolutionsGroup Ltd.",
   "subnets": {
-    "ipv4": [
-      "192.67.32.0/22",
-      "204.225.138.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

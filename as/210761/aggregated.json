@@ -1,11 +1,12 @@
 {
   "asn": 210761,
-  "handle": "PUDU",
+  "handle": "PUDUTEST",
   "description": "Pudu, LLC",
   "subnets": {
     "ipv4": [],
     "ipv6": [
-      "2a06:e881:8222::/48"
+      "2a06:e881:8222::/48",
+      "2a0e:b107:19c7::/48"
     ]
   }
 }

@@ -1,0 +1,11 @@
+{
+  "asn": 400189,
+  "handle": "PACKET-COVE-ASN-01",
+  "description": "PacketCove, LLC",
+  "subnets": {
+    "ipv4": [
+      "185.65.200.0/24"
+    ],
+    "ipv6": []
+  }
+}

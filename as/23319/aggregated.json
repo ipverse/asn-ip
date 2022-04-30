@@ -4,7 +4,6 @@
   "description": "Chrome Data Solutions, LP",
   "subnets": {
     "ipv4": [
-      "192.104.255.0/24",
       "192.122.255.0/24"
     ],
     "ipv6": []

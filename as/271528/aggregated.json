@@ -4,6 +4,8 @@
   "description": "Cleidison Clisse Alves Pereira",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2804:7cf0::/32"
+    ]
   }
 }

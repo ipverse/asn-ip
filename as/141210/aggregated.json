@@ -1,0 +1,11 @@
+{
+  "asn": 141210,
+  "handle": "GRAND-AP",
+  "description": "Grand Unicom Corp",
+  "subnets": {
+    "ipv4": [
+      "103.173.188.0/23"
+    ],
+    "ipv6": []
+  }
+}
