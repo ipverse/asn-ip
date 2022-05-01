@@ -3,7 +3,9 @@
   "handle": "BRUR-AP",
   "description": "Begum Rokeya University, Rangpur",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.124.32.0/22"
+    ],
     "ipv6": []
   }
 }

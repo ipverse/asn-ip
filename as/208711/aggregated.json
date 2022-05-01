@@ -4,7 +4,8 @@
   "description": "DESAFIO INTERNET S.L.",
   "subnets": {
     "ipv4": [
-      "45.80.84.0/22"
+      "45.80.84.0/22",
+      "185.92.247.0/24"
     ],
     "ipv6": []
   }

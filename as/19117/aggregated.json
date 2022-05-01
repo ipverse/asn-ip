@@ -3,9 +3,7 @@
   "handle": "HEAVYCOMPUTING",
   "description": "Heavy Computing",
   "subnets": {
-    "ipv4": [
-      "192.154.28.0/22"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

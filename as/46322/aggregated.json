@@ -4,6 +4,8 @@
   "description": "Conductor, Inc.",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2620:119:c000::/44"
+    ]
   }
 }

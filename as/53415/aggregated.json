@@ -3,7 +3,9 @@
   "handle": "TRB",
   "description": "TRB Advisors LP",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.98.122.0/24"
+    ],
     "ipv6": []
   }
 }

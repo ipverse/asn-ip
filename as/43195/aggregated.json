@@ -3,9 +3,7 @@
   "handle": "WISEKEY",
   "description": "WISEKEY SA",
   "subnets": {
-    "ipv4": [
-      "91.198.11.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

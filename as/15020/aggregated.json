@@ -4,6 +4,8 @@
   "description": "Bandito Networks, Inc",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2602:fc2a::/36"
+    ]
   }
 }

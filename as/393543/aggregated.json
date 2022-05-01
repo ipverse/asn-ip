@@ -3,9 +3,7 @@
   "handle": "IMPAQ-INTERNATIONAL",
   "description": "IMPAQ International LLC",
   "subnets": {
-    "ipv4": [
-      "192.108.127.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

@@ -1,0 +1,11 @@
+{
+  "asn": 35430,
+  "handle": "LAYERSWITCH",
+  "description": "LayerSwitch B.V.",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a05:8c80::/29"
+    ]
+  }
+}

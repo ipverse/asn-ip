@@ -3,11 +3,7 @@
   "handle": "OSSUR",
   "description": "Ossur hf",
   "subnets": {
-    "ipv4": [
-      "185.147.180.0/22"
-    ],
-    "ipv6": [
-      "2a07:5900::/29"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }
