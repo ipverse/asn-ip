@@ -4,6 +4,7 @@
   "description": "LLP Kompaniya Hoster.KZ",
   "subnets": {
     "ipv4": [
+      "89.33.41.0/24",
       "188.241.216.0/24"
     ],
     "ipv6": []

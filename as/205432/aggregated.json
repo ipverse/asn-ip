@@ -1,0 +1,12 @@
+{
+  "asn": 205432,
+  "handle": "WILLIAM",
+  "description": "William Weber",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a06:a005:680::/43",
+      "2a06:a005:6a0::/44"
+    ]
+  }
+}

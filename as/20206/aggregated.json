@@ -3,9 +3,7 @@
   "handle": "ASI-BUSINESS",
   "description": "ASI Business Solutions, Inc.",
   "subnets": {
-    "ipv4": [
-      "65.175.7.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

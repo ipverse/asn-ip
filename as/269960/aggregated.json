@@ -4,8 +4,7 @@
   "description": "INNOVA SOLUTIONS S.A. DE C.V.",
   "subnets": {
     "ipv4": [
-      "170.82.36.0/23",
-      "170.82.38.0/24"
+      "170.82.36.0/22"
     ],
     "ipv6": []
   }
