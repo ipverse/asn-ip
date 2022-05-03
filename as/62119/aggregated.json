@@ -3,7 +3,9 @@
   "handle": "ROOT",
   "description": "root SAS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.147.109.0/24"
+    ],
     "ipv6": [
       "2a12:42c0::/29"
     ]

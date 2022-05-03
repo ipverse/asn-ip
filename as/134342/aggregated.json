@@ -3,9 +3,7 @@
   "handle": "QCPL-IN",
   "description": "Quest Consultancy Pvt Ltd",
   "subnets": {
-    "ipv4": [
-      "45.126.8.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

@@ -3,9 +3,7 @@
   "handle": "TIDC-TW",
   "description": "Taiwan Envirotech Development Corp.",
   "subnets": {
-    "ipv4": [
-      "103.99.88.0/22"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

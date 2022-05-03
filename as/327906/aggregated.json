@@ -4,7 +4,6 @@
   "description": "Embarq Limited",
   "subnets": {
     "ipv4": [
-      "102.217.144.0/22",
       "169.255.104.0/22"
     ],
     "ipv6": []

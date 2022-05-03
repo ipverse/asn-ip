@@ -4,6 +4,7 @@
   "description": "PGF SERVICO DE TELECOMUNICACOES LTDA",
   "subnets": {
     "ipv4": [
+      "170.0.76.0/22",
       "170.245.122.0/23",
       "190.89.244.0/22"
     ],

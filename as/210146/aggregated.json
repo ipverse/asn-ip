@@ -4,8 +4,6 @@
   "description": "Sierra Wireless SA",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2001:678:8cc::/48"
-    ]
+    "ipv6": []
   }
 }

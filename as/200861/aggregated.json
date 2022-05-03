@@ -3,11 +3,7 @@
   "handle": "TS-EMEA",
   "description": "TABLEAU SOFTWARE UK LTD",
   "subnets": {
-    "ipv4": [
-      "185.93.88.0/24"
-    ],
-    "ipv6": [
-      "2a03:8fe0::/32"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

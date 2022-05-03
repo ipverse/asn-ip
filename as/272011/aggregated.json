@@ -3,7 +3,9 @@
   "handle": "TELEMARCH-SRL",
   "description": "TELEMARCH S.R.L",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "181.214.25.0/24"
+    ],
     "ipv6": []
   }
 }

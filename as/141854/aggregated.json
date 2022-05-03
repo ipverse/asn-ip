@@ -1,0 +1,11 @@
+{
+  "asn": 141854,
+  "handle": "SWAMINET-IN",
+  "description": "Swami Net Services",
+  "subnets": {
+    "ipv4": [
+      "103.156.206.0/23"
+    ],
+    "ipv6": []
+  }
+}

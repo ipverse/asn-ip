@@ -3,7 +3,9 @@
   "handle": "ELIAS",
   "description": "Elias Eskes",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "2.58.57.0/24"
+    ],
     "ipv6": []
   }
 }

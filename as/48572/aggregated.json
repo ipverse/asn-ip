@@ -4,8 +4,7 @@
   "description": "Flughafen Koeln/Bonn GmbH",
   "subnets": {
     "ipv4": [
-      "91.209.121.0/24",
-      "194.110.25.0/24"
+      "91.209.121.0/24"
     ],
     "ipv6": []
   }

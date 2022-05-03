@@ -3,7 +3,12 @@
   "handle": "UNONET-TELECOMUNICAES-LTDA",
   "description": "UnoNet Telecomunicaes LTDA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "167.250.68.0/23",
+      "167.250.71.0/24"
+    ],
+    "ipv6": [
+      "2804:2c3c::/32"
+    ]
   }
 }
