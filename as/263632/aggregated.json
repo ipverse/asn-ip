@@ -4,11 +4,8 @@
   "description": "Intersete Telecom limitada - ME",
   "subnets": {
     "ipv4": [
-      "177.137.152.0/21",
-      "179.125.96.0/21"
+      "177.137.156.0/23"
     ],
-    "ipv6": [
-      "2804:1060::/32"
-    ]
+    "ipv6": []
   }
 }

@@ -3,11 +3,7 @@
   "handle": "ECHOWIBB",
   "description": "Resound Networks, LLC",
   "subnets": {
-    "ipv4": [
-      "65.173.108.0/23"
-    ],
-    "ipv6": [
-      "2604:4440::/32"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "ELEMENTS",
   "description": "JSC Elements Enterprises",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "176.96.226.0/24"
+    ],
     "ipv6": []
   }
 }

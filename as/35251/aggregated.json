@@ -4,6 +4,7 @@
   "description": "Zhihua Lu trading as HostHub",
   "subnets": {
     "ipv4": [
+      "1.178.208.0/24",
       "14.192.48.0/24",
       "23.133.1.0/24",
       "23.133.5.0/24",

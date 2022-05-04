@@ -3,7 +3,10 @@
   "handle": "NOVELCOMM",
   "description": "Novelcomm OE",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "154.57.2.0/24",
+      "154.57.15.0/24"
+    ],
     "ipv6": []
   }
 }

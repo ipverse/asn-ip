@@ -3,7 +3,9 @@
   "handle": "GLOBAL-CONECT-LTDA",
   "description": "Global Conect Ltda",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "186.195.64.0/20"
+    ],
     "ipv6": []
   }
 }

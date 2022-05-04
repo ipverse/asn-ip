@@ -4,6 +4,7 @@
   "description": "GIGA BYTE TELECOMUNICACOES LTDA",
   "subnets": {
     "ipv4": [
+      "138.186.44.0/22",
       "168.228.92.0/22",
       "177.155.208.0/20"
     ],

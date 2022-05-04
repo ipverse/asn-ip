@@ -4,6 +4,7 @@
   "description": "KT Solutions S.r.l.s",
   "subnets": {
     "ipv4": [
+      "149.34.50.0/24",
       "185.232.236.0/22"
     ],
     "ipv6": []

@@ -4,7 +4,6 @@
   "description": "Advanced Broadband Services S.A.L",
   "subnets": {
     "ipv4": [
-      "185.9.136.0/24",
       "185.9.138.0/23"
     ],
     "ipv6": []

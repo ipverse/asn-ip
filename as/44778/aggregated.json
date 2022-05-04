@@ -4,8 +4,7 @@
   "description": "Enterprise Incubator Foundation",
   "subnets": {
     "ipv4": [
-      "185.149.141.0/24",
-      "185.149.142.0/24"
+      "185.149.140.0/22"
     ],
     "ipv6": []
   }

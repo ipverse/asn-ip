@@ -3,7 +3,9 @@
   "handle": "ADRIA",
   "description": "ADRIA SRL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.230.234.0/24"
+    ],
     "ipv6": []
   }
 }

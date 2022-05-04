@@ -3,11 +3,7 @@
   "handle": "MORLEY-HC",
   "description": "Morley Companies Incorporated",
   "subnets": {
-    "ipv4": [
-      "23.176.112.0/24"
-    ],
-    "ipv6": [
-      "2620:94:e000::/48"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

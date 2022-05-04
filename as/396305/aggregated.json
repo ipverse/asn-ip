@@ -4,6 +4,7 @@
   "description": "Clarksville Connected Utilities",
   "subnets": {
     "ipv4": [
+      "38.44.128.0/19",
       "83.229.48.0/22",
       "170.76.155.0/24",
       "170.76.214.0/23",

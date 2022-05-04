@@ -4,7 +4,7 @@
   "description": "SCI-Network pInc.",
   "subnets": {
     "ipv4": [
-      "77.111.124.0/24"
+      "77.111.124.0/23"
     ],
     "ipv6": [
       "2a12:b540::/29"

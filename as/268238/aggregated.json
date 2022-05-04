@@ -4,6 +4,8 @@
   "description": "Clicknet Telecom. Provedor de Internet LTDA",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2804:4e14::/32"
+    ]
   }
 }

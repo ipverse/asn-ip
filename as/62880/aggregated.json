@@ -3,12 +3,7 @@
   "handle": "CMCV",
   "description": "Carolina Mountain Cablevision, Inc.",
   "subnets": {
-    "ipv4": [
-      "64.147.212.0/22",
-      "72.27.236.0/23",
-      "72.27.238.0/24",
-      "149.20.224.0/21"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }
