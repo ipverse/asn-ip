@@ -3,7 +3,10 @@
   "handle": "EDF-DE-ARAGAO",
   "description": "E.D.F DE ARAGAO TELECOMUNICAOES EIRELE - ME",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "200.50.196.0/24",
+      "200.50.199.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,9 +3,7 @@
   "handle": "WLF-NETWOLOB",
   "description": "LOBOS NETWORKING LTD",
   "subnets": {
-    "ipv4": [
-      "88.218.32.0/22"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

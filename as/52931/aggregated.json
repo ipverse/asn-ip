@@ -4,7 +4,8 @@
   "description": "Netvip Telecomunicaes Ltda",
   "subnets": {
     "ipv4": [
-      "177.185.96.0/21"
+      "177.185.96.0/21",
+      "177.185.111.0/24"
     ],
     "ipv6": []
   }

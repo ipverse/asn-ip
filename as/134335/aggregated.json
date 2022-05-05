@@ -4,8 +4,7 @@
   "description": "Air Connect Internet Services Pvt ltd",
   "subnets": {
     "ipv4": [
-      "103.201.133.0/24",
-      "103.201.135.0/24"
+      "103.201.132.0/22"
     ],
     "ipv6": []
   }

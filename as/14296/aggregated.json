@@ -1,0 +1,13 @@
+{
+  "asn": 14296,
+  "handle": "SPRINGFD",
+  "description": "Spring Fire Department",
+  "subnets": {
+    "ipv4": [
+      "104.36.227.0/24"
+    ],
+    "ipv6": [
+      "2602:80e:8000::/44"
+    ]
+  }
+}

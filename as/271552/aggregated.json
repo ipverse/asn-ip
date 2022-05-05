@@ -3,7 +3,9 @@
   "handle": "ARGUSNET-COMRCIO-REPRESENTAO",
   "description": "Argusnet Comrcio,Representao e Servios Ltda",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "181.232.216.0/22"
+    ],
     "ipv6": []
   }
 }

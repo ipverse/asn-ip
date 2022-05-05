@@ -4,7 +4,8 @@
   "description": "Kwame Nkrumah University of Science and Technology",
   "subnets": {
     "ipv4": [
-      "129.122.0.0/18"
+      "129.122.0.0/23",
+      "129.122.30.0/24"
     ],
     "ipv6": []
   }

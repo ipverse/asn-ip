@@ -4,9 +4,6 @@
   "description": "WebFast Tecnologia",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2804:8434::/48",
-      "2804:8434:300::/47"
-    ]
+    "ipv6": []
   }
 }

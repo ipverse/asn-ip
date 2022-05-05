@@ -3,11 +3,7 @@
   "handle": "SLC-VOXTELESYS-02",
   "description": "Voxtelesys LLC",
   "subnets": {
-    "ipv4": [
-      "23.155.17.0/24"
-    ],
-    "ipv6": [
-      "2605:b9c0:4000::/34"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

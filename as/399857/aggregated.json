@@ -3,11 +3,7 @@
   "handle": "RAINWAY",
   "description": "Rainway, Inc.",
   "subnets": {
-    "ipv4": [
-      "72.18.64.0/22"
-    ],
-    "ipv6": [
-      "2606:6340::/32"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

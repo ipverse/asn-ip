@@ -1,0 +1,11 @@
+{
+  "asn": 132051,
+  "handle": "AIRITINDIA-IN",
+  "description": "Esto Internet private limited",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2404:9d00::/32"
+    ]
+  }
+}

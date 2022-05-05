@@ -4,7 +4,8 @@
   "description": "IRG WIFI Service Pvt. Ltd.",
   "subnets": {
     "ipv4": [
-      "103.79.232.0/22"
+      "103.79.233.0/24",
+      "103.79.234.0/23"
     ],
     "ipv6": []
   }

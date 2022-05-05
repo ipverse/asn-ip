@@ -4,6 +4,7 @@
   "description": "HanStrong Online Services",
   "subnets": {
     "ipv4": [
+      "43.92.215.0/24",
       "43.92.218.0/23",
       "43.92.222.0/24",
       "103.74.52.0/23",

@@ -3,7 +3,9 @@
   "handle": "NEXT",
   "description": "PE Fedyaev Evgeniy Aleksandrovich",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.199.222.0/24"
+    ],
     "ipv6": []
   }
 }

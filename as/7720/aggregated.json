@@ -3,9 +3,7 @@
   "handle": "SKYWOLF-AP",
   "description": "LSHIY Network Technology Limited",
   "subnets": {
-    "ipv4": [
-      "208.99.48.0/24"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2602:fc1d::/47"
     ]
