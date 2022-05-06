@@ -4,6 +4,7 @@
   "description": "IBM Business Recovery Service",
   "subnets": {
     "ipv4": [
+      "8.15.207.0/24",
       "12.109.164.0/24",
       "32.96.43.0/24",
       "32.97.100.0/24",

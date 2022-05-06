@@ -3,11 +3,7 @@
   "handle": "CAPGROUP-NA",
   "description": "The Capital Group Companies, Inc.",
   "subnets": {
-    "ipv4": [
-      "148.107.3.0/24",
-      "148.107.20.0/23",
-      "148.107.31.0/24"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2620:82:4000::/48"
     ]

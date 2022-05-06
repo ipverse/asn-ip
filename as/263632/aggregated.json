@@ -3,7 +3,10 @@
   "handle": "INTERSETE-TELECOM-LIMITADA-ME",
   "description": "Intersete Telecom limitada - ME",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "177.137.152.0/21",
+      "179.125.96.0/21"
+    ],
     "ipv6": []
   }
 }

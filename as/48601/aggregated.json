@@ -3,9 +3,7 @@
   "handle": "GKBN",
   "description": "Group of Companies Bulletin of Estate Ltd.",
   "subnets": {
-    "ipv4": [
-      "92.255.54.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

@@ -4,6 +4,7 @@
   "description": "WIFINITY GLOBAL NETWORK, S.L.",
   "subnets": {
     "ipv4": [
+      "45.144.12.0/24",
       "85.117.244.0/22",
       "93.92.224.0/22",
       "93.187.132.0/22",

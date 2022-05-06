@@ -4,10 +4,13 @@
   "description": "Northcentral Electric Power Association",
   "subnets": {
     "ipv4": [
+      "38.81.184.0/22",
       "98.143.184.0/21",
       "203.55.71.0/24",
       "216.169.150.0/24"
     ],
-    "ipv6": []
+    "ipv6": [
+      "2606:5bc0::/32"
+    ]
   }
 }
