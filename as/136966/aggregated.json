@@ -4,7 +4,8 @@
   "description": "Bottle Communications Pty Ltd",
   "subnets": {
     "ipv4": [
-      "103.100.196.0/22"
+      "103.100.196.0/23",
+      "103.100.198.0/24"
     ],
     "ipv6": [
       "2401:c1c0::/32"

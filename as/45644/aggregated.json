@@ -1,0 +1,11 @@
+{
+  "asn": 45644,
+  "handle": "SBI-EMS-NET-IN",
+  "description": "IT-Networking Department",
+  "subnets": {
+    "ipv4": [
+      "192.12.109.0/24"
+    ],
+    "ipv6": []
+  }
+}

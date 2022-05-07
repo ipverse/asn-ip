@@ -3,7 +3,9 @@
   "handle": "ESPACE-NETWORKS",
   "description": "ESpace Networks",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "98.158.224.0/23"
+    ],
     "ipv6": []
   }
 }

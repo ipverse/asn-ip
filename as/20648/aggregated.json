@@ -1,0 +1,11 @@
+{
+  "asn": 20648,
+  "handle": "RAN-NETWORKS",
+  "description": "RAN Networks S.L.",
+  "subnets": {
+    "ipv4": [
+      "146.19.2.0/24"
+    ],
+    "ipv6": []
+  }
+}

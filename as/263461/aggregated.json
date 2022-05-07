@@ -4,8 +4,7 @@
   "description": "ONLINE DATA CENTER CONS EM INF E LOC DE BENS E SER",
   "subnets": {
     "ipv4": [
-      "177.190.148.0/22",
-      "185.202.237.0/24"
+      "177.190.148.0/22"
     ],
     "ipv6": [
       "2804:122c::/32"

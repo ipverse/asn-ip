@@ -4,6 +4,7 @@
   "description": "Wisper ISP, Inc.",
   "subnets": {
     "ipv4": [
+      "192.68.255.0/24",
       "208.84.188.0/22"
     ],
     "ipv6": []

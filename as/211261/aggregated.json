@@ -4,6 +4,7 @@
   "description": "FIBRANET TELECOMUNICACIONES SL",
   "subnets": {
     "ipv4": [
+      "5.253.157.0/24",
       "5.253.159.0/24",
       "91.210.126.0/24",
       "103.226.194.0/23",

@@ -3,7 +3,9 @@
   "handle": "TMG-181",
   "description": "THE MARMON GROUP, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "12.192.3.0/24"
+    ],
     "ipv6": []
   }
 }

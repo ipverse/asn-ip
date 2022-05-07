@@ -4,6 +4,7 @@
   "description": "The Intermountain Rural Electric Association",
   "subnets": {
     "ipv4": [
+      "38.143.229.0/24",
       "67.148.152.0/24"
     ],
     "ipv6": []

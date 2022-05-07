@@ -3,9 +3,7 @@
   "handle": "UNIVERSIDAD-CATOLICA-DE",
   "description": "UNIVERSIDAD CATOLICA DE HONDURAS",
   "subnets": {
-    "ipv4": [
-      "200.9.120.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

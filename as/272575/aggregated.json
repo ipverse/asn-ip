@@ -3,7 +3,9 @@
   "handle": "DELTA-R-SEGURANCA-E-SERVICOS",
   "description": "DELTA R SEGURANCA E SERVICOS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "205.164.104.0/22"
+    ],
     "ipv6": [
       "2804:8560::/32"
     ]

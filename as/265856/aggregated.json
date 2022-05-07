@@ -4,7 +4,8 @@
   "description": "Miguel Araya(Servicios Rosario)",
   "subnets": {
     "ipv4": [
-      "170.231.204.0/22"
+      "170.231.204.0/23",
+      "170.231.206.0/24"
     ],
     "ipv6": []
   }

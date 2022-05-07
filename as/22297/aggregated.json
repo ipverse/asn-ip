@@ -3,9 +3,7 @@
   "handle": "JELECOS-01",
   "description": "Jelecos LLC",
   "subnets": {
-    "ipv4": [
-      "198.96.221.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }
