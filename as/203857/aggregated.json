@@ -1,0 +1,16 @@
+{
+  "asn": 203857,
+  "handle": "ROUTE48-MONITORING",
+  "description": "Zappie Host LLC",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a06:a005:4d2::/47",
+      "2a06:a005:4d4::/47",
+      "2a06:a005:4d7::/48",
+      "2a06:a005:5e8::/47",
+      "2a06:a005:5ec::/48",
+      "2a06:a005:5ee::/47"
+    ]
+  }
+}

@@ -3,7 +3,9 @@
   "handle": "YUYANNET-SERVICE-RIPE",
   "description": "YANG HAOJING",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "44.159.70.0/24"
+    ],
     "ipv6": [
       "2a0c:b641:76a::/48"
     ]

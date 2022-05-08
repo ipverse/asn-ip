@@ -4,8 +4,6 @@
   "description": "HostLink",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2407:c280:ffff::/48"
-    ]
+    "ipv6": []
   }
 }

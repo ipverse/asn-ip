@@ -4,8 +4,6 @@
   "description": "Minet Communication",
   "subnets": {
     "ipv4": [
-      "45.250.64.0/24",
-      "103.144.193.0/24",
       "103.151.38.0/24"
     ],
     "ipv6": []

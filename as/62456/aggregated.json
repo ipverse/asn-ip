@@ -4,6 +4,7 @@
   "description": "WEBHANE Bilisim Teknolojileri Ticaret Limited Sirketi",
   "subnets": {
     "ipv4": [
+      "77.47.142.0/24",
       "93.180.135.0/24"
     ],
     "ipv6": []

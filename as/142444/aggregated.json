@@ -3,7 +3,9 @@
   "handle": "HSBINTER-IN",
   "description": "HSB INTERNET SERVICE",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.170.66.0/23"
+    ],
     "ipv6": []
   }
 }

@@ -4,6 +4,9 @@
   "description": "Christian Care Ministries, Inc.",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2602:80f:5000::/47",
+      "2602:80f:5003::/48"
+    ]
   }
 }

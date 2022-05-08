@@ -4,8 +4,7 @@
   "description": "Martin Fassl trading as fassma.net e.U.",
   "subnets": {
     "ipv4": [
-      "185.92.200.0/23",
-      "185.92.203.0/24"
+      "185.92.200.0/22"
     ],
     "ipv6": [
       "2a03:8d20::/48",

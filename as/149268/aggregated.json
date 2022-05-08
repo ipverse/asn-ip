@@ -1,0 +1,13 @@
+{
+  "asn": 149268,
+  "handle": "ROARNET-IN",
+  "description": "Roarnet Broadband Pvt Ltd",
+  "subnets": {
+    "ipv4": [
+      "103.144.193.0/24",
+      "103.181.3.0/24",
+      "103.182.82.0/23"
+    ],
+    "ipv6": []
+  }
+}

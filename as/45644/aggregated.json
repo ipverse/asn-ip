@@ -4,6 +4,7 @@
   "description": "IT-Networking Department",
   "subnets": {
     "ipv4": [
+      "45.121.44.0/24",
       "192.12.109.0/24"
     ],
     "ipv6": []

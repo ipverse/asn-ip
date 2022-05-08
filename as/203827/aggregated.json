@@ -3,7 +3,9 @@
   "handle": "PRONET",
   "description": "Professional Network Corporation",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.255.220.0/22"
+    ],
     "ipv6": []
   }
 }
