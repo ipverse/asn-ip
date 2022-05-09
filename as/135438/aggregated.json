@@ -4,8 +4,7 @@
   "description": "M.D SOFT TECHNOLOGY",
   "subnets": {
     "ipv4": [
-      "103.111.13.0/24",
-      "103.111.14.0/24"
+      "103.111.12.0/22"
     ],
     "ipv6": []
   }

@@ -4,7 +4,8 @@
   "description": "Managed Hosted Applications Limited",
   "subnets": {
     "ipv4": [
-      "103.249.60.0/22"
+      "103.249.60.0/23",
+      "103.249.63.0/24"
     ],
     "ipv6": []
   }

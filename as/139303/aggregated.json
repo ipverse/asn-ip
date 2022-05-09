@@ -3,7 +3,9 @@
   "handle": "CHANDINA-ONLINE-AP",
   "description": "Chandina Online",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.74.231.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -1,0 +1,11 @@
+{
+  "asn": 149774,
+  "handle": "VIATECH-AP",
+  "description": "ViaTech",
+  "subnets": {
+    "ipv4": [
+      "103.186.21.0/24"
+    ],
+    "ipv6": []
+  }
+}
