@@ -1,4 +1,5 @@
 # AS133304 (HITECHB-IN)
 # Hitech Broadband
 #
-2400:5ca0::/32
+2400:5ca0:1::/48
+2400:5ca0:2::/48

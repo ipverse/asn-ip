@@ -3,7 +3,10 @@
   "handle": "EPICUP-COM",
   "description": "EpicUp Holdings Inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "23.130.112.0/24",
+      "23.130.240.0/24"
+    ],
     "ipv6": []
   }
 }

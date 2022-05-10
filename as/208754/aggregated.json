@@ -3,7 +3,12 @@
   "handle": "ITKULOV",
   "description": "Itkulov Maksat",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "77.73.128.0/24",
+      "80.66.70.0/24",
+      "80.66.75.0/24",
+      "80.66.77.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -4,6 +4,8 @@
   "description": "Parsun Network Solutions PTY LTD",
   "subnets": {
     "ipv4": [
+      "45.146.240.0/22",
+      "82.115.0.0/22",
       "87.236.166.0/24",
       "188.209.155.0/24"
     ],

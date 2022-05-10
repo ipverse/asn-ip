@@ -3,9 +3,7 @@
   "handle": "SOUTHERN-CROSSROADS-SOX",
   "description": "Georgia Institute of Technology",
   "subnets": {
-    "ipv4": [
-      "38.29.189.0/24"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2607:f7b8::/32"
     ]

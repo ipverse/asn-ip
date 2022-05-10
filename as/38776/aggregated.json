@@ -3,7 +3,9 @@
   "handle": "REKADATA-ID",
   "description": "PT Rekadata Pratama Medianet",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.133.148.0/22"
+    ],
     "ipv6": []
   }
 }

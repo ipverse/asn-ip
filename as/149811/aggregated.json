@@ -1,0 +1,11 @@
+{
+  "asn": 149811,
+  "handle": "FSPL-AP",
+  "description": "FTP Solutions Pty Ltd",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2400:7660:ffff::/48"
+    ]
+  }
+}

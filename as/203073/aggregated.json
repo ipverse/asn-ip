@@ -3,7 +3,9 @@
   "handle": "GIOVEADSL",
   "description": "G.T. SRL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.119.224.0/22"
+    ],
     "ipv6": []
   }
 }

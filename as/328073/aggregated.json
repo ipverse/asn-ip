@@ -4,6 +4,7 @@
   "description": "Ion Telecom and Technology",
   "subnets": {
     "ipv4": [
+      "38.50.0.0/19",
       "164.160.144.0/22"
     ],
     "ipv6": []

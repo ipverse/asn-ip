@@ -3,9 +3,7 @@
   "handle": "ALLNET-CLOUD",
   "description": "ALLNET CLOUD SRL",
   "subnets": {
-    "ipv4": [
-      "81.180.83.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "TIFCMPL-IN",
   "description": "Tapee Infocom Private Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.120.126.0/23"
+    ],
     "ipv6": []
   }
 }
