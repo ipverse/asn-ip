@@ -4,6 +4,7 @@
   "description": "SITELCO SPA",
   "subnets": {
     "ipv4": [
+      "38.43.78.0/24",
       "179.49.236.0/22"
     ],
     "ipv6": []

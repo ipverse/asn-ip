@@ -3,7 +3,12 @@
   "handle": "WAHWAY-AP",
   "description": "HostUS Solutions LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "43.226.111.0/24",
+      "61.29.210.0/23",
+      "118.103.167.0/24",
+      "210.16.183.0/24"
+    ],
     "ipv6": []
   }
 }

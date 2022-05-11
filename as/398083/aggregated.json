@@ -3,9 +3,7 @@
   "handle": "TING-WIRELESS",
   "description": "Ting Wireless",
   "subnets": {
-    "ipv4": [
-      "5.133.124.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

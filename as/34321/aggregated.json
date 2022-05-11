@@ -3,7 +3,9 @@
   "handle": "LDK",
   "description": "Institute of strategic marks.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.242.95.0/24"
+    ],
     "ipv6": []
   }
 }

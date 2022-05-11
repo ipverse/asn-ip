@@ -4,7 +4,8 @@
   "description": "BLUEWEB NETWORK SOLUTIONS PVT.LTD.",
   "subnets": {
     "ipv4": [
-      "103.42.248.0/22"
+      "103.42.248.0/22",
+      "103.146.38.0/24"
     ],
     "ipv6": []
   }
