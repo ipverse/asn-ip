@@ -3,9 +3,7 @@
   "handle": "GGAMAUR-SG",
   "description": "Genossenschaft GGA Maur",
   "subnets": {
-    "ipv4": [
-      "213.188.32.0/19"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

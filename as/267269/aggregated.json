@@ -3,11 +3,7 @@
   "handle": "SUDESTE-WVC-TELECOM-LTDA-EPP",
   "description": "SUDESTE WVC TELECOM LTDA. - EPP",
   "subnets": {
-    "ipv4": [
-      "45.232.132.0/22"
-    ],
-    "ipv6": [
-      "2804:4ae0::/32"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

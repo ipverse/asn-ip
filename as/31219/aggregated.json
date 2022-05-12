@@ -3,7 +3,9 @@
   "handle": "MENTHANET-HU",
   "description": "Beltav Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "213.134.0.0/19"
+    ],
     "ipv6": []
   }
 }

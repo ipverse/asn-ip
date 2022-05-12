@@ -3,9 +3,7 @@
   "handle": "COLWIFI-SAS",
   "description": "COLWIFI S.A.S.",
   "subnets": {
-    "ipv4": [
-      "154.64.222.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

@@ -4,7 +4,8 @@
   "description": "Nataly Oliveira Block Provedor de Internet",
   "subnets": {
     "ipv4": [
-      "45.181.28.0/23"
+      "45.181.28.0/23",
+      "45.181.30.0/24"
     ],
     "ipv6": [
       "2804:6054::/33"

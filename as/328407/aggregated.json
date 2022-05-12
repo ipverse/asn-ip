@@ -3,9 +3,7 @@
   "handle": "CONGO-BROADBAND",
   "description": "STE CONGO BROADBAND SPRL",
   "subnets": {
-    "ipv4": [
-      "102.128.64.0/21"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

@@ -3,11 +3,7 @@
   "handle": "FBME-BANK",
   "description": "FBME BANK LTD",
   "subnets": {
-    "ipv4": [
-      "87.236.32.0/22",
-      "87.236.36.0/24",
-      "87.236.38.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

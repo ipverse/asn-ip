@@ -3,7 +3,9 @@
   "handle": "NEPALIARMY-AP",
   "description": "Nepali Army",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.163.137.0/24"
+    ],
     "ipv6": []
   }
 }

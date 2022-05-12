@@ -3,7 +3,9 @@
   "handle": "PL-FASTNET",
   "description": "FAST NET Michal Szipluk",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "176.58.17.0/24"
+    ],
     "ipv6": []
   }
 }

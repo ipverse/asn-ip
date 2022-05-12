@@ -1,0 +1,11 @@
+{
+  "asn": 149610,
+  "handle": "ITSRVIC-IN",
+  "description": "It Service Center",
+  "subnets": {
+    "ipv4": [
+      "103.181.60.0/23"
+    ],
+    "ipv6": []
+  }
+}

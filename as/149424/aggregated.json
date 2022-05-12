@@ -4,8 +4,6 @@
   "description": "APNIC ASN block",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2602:fc23:161::/48"
-    ]
+    "ipv6": []
   }
 }

@@ -3,9 +3,7 @@
   "handle": "SMART-AP",
   "description": "SMART NET",
   "subnets": {
-    "ipv4": [
-      "160.202.128.0/22"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

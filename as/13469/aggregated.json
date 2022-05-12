@@ -4,6 +4,7 @@
   "description": "Stingray",
   "subnets": {
     "ipv4": [
+      "38.74.4.0/24",
       "192.48.220.0/24"
     ],
     "ipv6": []

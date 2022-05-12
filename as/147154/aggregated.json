@@ -1,0 +1,13 @@
+{
+  "asn": 147154,
+  "handle": "IDNIC-PASSNET-ID",
+  "description": "PT Pass Internet Indonesia",
+  "subnets": {
+    "ipv4": [
+      "103.176.227.0/24"
+    ],
+    "ipv6": [
+      "2001:df0:7c40::/48"
+    ]
+  }
+}

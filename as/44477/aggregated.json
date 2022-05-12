@@ -4,7 +4,8 @@
   "description": "STARK INDUSTRIES SOLUTIONS LTD",
   "subnets": {
     "ipv4": [
-      "5.182.39.0/24"
+      "5.182.39.0/24",
+      "146.19.75.0/24"
     ],
     "ipv6": []
   }
