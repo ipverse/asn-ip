@@ -3,10 +3,7 @@
   "handle": "DCSI-AP",
   "description": "Dasca Cable Services, Inc.",
   "subnets": {
-    "ipv4": [
-      "103.91.140.0/22",
-      "123.253.48.0/22"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

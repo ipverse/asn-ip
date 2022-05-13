@@ -3,7 +3,9 @@
   "handle": "4WNET-ES-TELECOMUNICAES",
   "description": "4WNET ES TELECOMUNICAES EIRELE ME",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.188.206.0/24"
+    ],
     "ipv6": []
   }
 }

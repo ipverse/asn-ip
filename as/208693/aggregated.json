@@ -4,6 +4,7 @@
   "description": "Art Of Automation Glasvezel B.V.",
   "subnets": {
     "ipv4": [
+      "91.132.243.0/24",
       "185.185.204.0/22"
     ],
     "ipv6": [

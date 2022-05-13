@@ -4,8 +4,7 @@
   "description": "Gigaline Teleservices Opc Private Limited",
   "subnets": {
     "ipv4": [
-      "103.115.128.0/22",
-      "103.170.48.0/23"
+      "103.115.128.0/22"
     ],
     "ipv6": []
   }

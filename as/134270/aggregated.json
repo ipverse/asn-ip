@@ -3,9 +3,7 @@
   "handle": "PLANETWIFI-IN",
   "description": "Planet Wi Fi Private Limited",
   "subnets": {
-    "ipv4": [
-      "103.195.24.0/22"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

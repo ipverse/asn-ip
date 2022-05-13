@@ -3,7 +3,9 @@
   "handle": "SOBOBA",
   "description": "Soboba Casino",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.149.155.0/24"
+    ],
     "ipv6": []
   }
 }

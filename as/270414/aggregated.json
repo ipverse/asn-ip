@@ -4,11 +4,10 @@
   "description": "DIGITAL TELECOM SERVICOS E COMERCIOS LTDA",
   "subnets": {
     "ipv4": [
-      "190.89.252.0/23",
-      "190.89.255.0/24"
+      "190.89.252.0/22"
     ],
     "ipv6": [
-      "2804:6ba4::/33"
+      "2804:6ba4::/32"
     ]
   }
 }

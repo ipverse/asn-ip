@@ -4,7 +4,8 @@
   "description": "Internet Invest Ltd.",
   "subnets": {
     "ipv4": [
-      "78.27.224.0/19"
+      "78.27.224.0/19",
+      "195.177.116.0/22"
     ],
     "ipv6": []
   }

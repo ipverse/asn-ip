@@ -3,9 +3,7 @@
   "handle": "ITECHNET-ID",
   "description": "PT. Intelex Technet Global",
   "subnets": {
-    "ipv4": [
-      "103.247.40.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

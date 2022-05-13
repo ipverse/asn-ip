@@ -3,10 +3,7 @@
   "handle": "CYBERSOURCE-SC4",
   "description": "VISA INTERNATIONAL SERVICE ASSOCIATION",
   "subnets": {
-    "ipv4": [
-      "66.185.180.0/22",
-      "66.185.184.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

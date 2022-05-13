@@ -1,0 +1,11 @@
+{
+  "asn": 272123,
+  "handle": "WORLD-CABLE-RED-SRL",
+  "description": "WORLD CABLE RED, S.R.L.",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2803:6f10::/32"
+    ]
+  }
+}

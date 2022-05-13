@@ -4,10 +4,8 @@
   "description": "CRISTIAN MARY HILGEMBERG BUENO - ME",
   "subnets": {
     "ipv4": [
-      "45.176.148.0/22"
+      "45.176.148.0/23"
     ],
-    "ipv6": [
-      "2804:5e04::/33"
-    ]
+    "ipv6": []
   }
 }

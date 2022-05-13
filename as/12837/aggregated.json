@@ -4,6 +4,7 @@
   "description": "LIMITED LIABILITY COMPANY 1 CLAUD LAB",
   "subnets": {
     "ipv4": [
+      "31.24.208.0/21",
       "91.196.196.0/22"
     ],
     "ipv6": [
