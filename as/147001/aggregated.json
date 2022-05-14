@@ -4,6 +4,7 @@
   "description": "LightNetwork Computing Limited",
   "subnets": {
     "ipv4": [
+      "103.100.157.0/24",
       "103.135.101.0/24",
       "103.140.9.0/24",
       "103.150.173.0/24",

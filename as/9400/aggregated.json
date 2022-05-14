@@ -1,0 +1,11 @@
+{
+  "asn": 9400,
+  "handle": "CORENETINC-AP",
+  "description": "CoreNET Inc.",
+  "subnets": {
+    "ipv4": [
+      "103.91.219.0/24"
+    ],
+    "ipv6": []
+  }
+}

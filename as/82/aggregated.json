@@ -1,0 +1,13 @@
+{
+  "asn": 82,
+  "handle": "TWG-DEMO",
+  "description": "Attachmate Corp.",
+  "subnets": {
+    "ipv4": [
+      "192.149.26.0/24"
+    ],
+    "ipv6": [
+      "2620:113:8043::/48"
+    ]
+  }
+}

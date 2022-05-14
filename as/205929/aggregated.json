@@ -4,9 +4,6 @@
   "description": "Abzieher GmbH",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2a06:89c2:3000::/36",
-      "2a06:89c3:5010::/48"
-    ]
+    "ipv6": []
   }
 }

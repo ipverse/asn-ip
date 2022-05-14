@@ -3,7 +3,9 @@
   "handle": "MOSSYOAK",
   "description": "HAAS OUTDOORS, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "208.72.16.0/23"
+    ],
     "ipv6": []
   }
 }

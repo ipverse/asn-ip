@@ -3,7 +3,9 @@
   "handle": "DV-COMERCIO-EM",
   "description": "D.V Comercio em Telecomunicacoes de Rede LTDA-ME",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "143.202.8.0/22"
+    ],
     "ipv6": []
   }
 }
