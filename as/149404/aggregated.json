@@ -1,0 +1,11 @@
+{
+  "asn": 149404,
+  "handle": "IDNIC-CEPATMULTIDATA-ID",
+  "description": "PT Cepat Multi Data",
+  "subnets": {
+    "ipv4": [
+      "103.183.8.0/23"
+    ],
+    "ipv6": []
+  }
+}

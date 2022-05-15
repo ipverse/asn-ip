@@ -3,7 +3,9 @@
   "handle": "DSCL-AP",
   "description": "NZ Network Enterprise Co., Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "182.54.238.0/24"
+    ],
     "ipv6": []
   }
 }

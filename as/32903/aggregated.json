@@ -3,11 +3,7 @@
   "handle": "AMC2",
   "description": "Atlantic Metro Communications II, Inc.",
   "subnets": {
-    "ipv4": [
-      "208.78.29.0/24"
-    ],
-    "ipv6": [
-      "2001:1980:4444::/48"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

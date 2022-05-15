@@ -3,7 +3,9 @@
   "handle": "COPC-FIBERNET-1",
   "description": "City of Palm Coast",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "216.120.164.0/24"
+    ],
     "ipv6": []
   }
 }

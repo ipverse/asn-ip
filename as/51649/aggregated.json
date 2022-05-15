@@ -3,9 +3,7 @@
   "handle": "NEKOLLC",
   "description": "Neko LLC.",
   "subnets": {
-    "ipv4": [
-      "103.166.246.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

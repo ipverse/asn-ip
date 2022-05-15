@@ -3,7 +3,9 @@
   "handle": "SERTINET-CA",
   "description": "SERTINET, C.A.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "201.131.65.0/24"
+    ],
     "ipv6": []
   }
 }

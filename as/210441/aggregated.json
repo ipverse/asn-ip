@@ -3,7 +3,9 @@
   "handle": "TIMS-IT",
   "description": "TIMS IT SASAU",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "89.117.96.0/22"
+    ],
     "ipv6": []
   }
 }

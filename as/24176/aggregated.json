@@ -1,0 +1,11 @@
+{
+  "asn": 24176,
+  "handle": "NETNAMHCMC-AP",
+  "description": "Branch of Netnam Company in Ho Chi Minh City",
+  "subnets": {
+    "ipv4": [
+      "210.86.233.0/24"
+    ],
+    "ipv6": []
+  }
+}

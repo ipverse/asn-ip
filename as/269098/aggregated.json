@@ -4,7 +4,7 @@
   "description": "AbsamHost Internet Data Center",
   "subnets": {
     "ipv4": [
-      "45.165.116.0/22"
+      "45.165.116.0/24"
     ],
     "ipv6": []
   }

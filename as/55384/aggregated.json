@@ -3,7 +3,9 @@
   "handle": "FRONTNET-EXP",
   "description": "StarPorte Project",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "133.4.0.0/18"
+    ],
     "ipv6": []
   }
 }
