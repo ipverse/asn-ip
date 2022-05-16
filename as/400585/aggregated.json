@@ -1,0 +1,12 @@
+{
+  "asn": 400585,
+  "handle": "MBI-ASN01",
+  "description": "Michael Baker International, Inc.",
+  "subnets": {
+    "ipv4": [
+      "23.134.152.0/23",
+      "23.134.154.0/24"
+    ],
+    "ipv6": []
+  }
+}

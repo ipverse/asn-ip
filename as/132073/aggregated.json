@@ -1,0 +1,11 @@
+{
+  "asn": 132073,
+  "handle": "WAVENET-AP",
+  "description": "Wave Net",
+  "subnets": {
+    "ipv4": [
+      "103.186.52.0/23"
+    ],
+    "ipv6": []
+  }
+}

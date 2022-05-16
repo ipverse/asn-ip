@@ -3,9 +3,7 @@
   "handle": "WHITE2NET",
   "description": "white2net Srl",
   "subnets": {
-    "ipv4": [
-      "185.228.1.0/24"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2a12:5840:1f2::/48",
       "2a12:5844:1212::/48"

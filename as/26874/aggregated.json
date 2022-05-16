@@ -3,10 +3,7 @@
   "handle": "LTC-INET",
   "description": "Fidelity National Financial Inc.",
   "subnets": {
-    "ipv4": [
-      "69.36.26.0/23",
-      "199.74.216.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

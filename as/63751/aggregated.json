@@ -4,7 +4,8 @@
   "description": "Vietcombank securities Company limited",
   "subnets": {
     "ipv4": [
-      "103.221.212.0/22"
+      "103.221.212.0/23",
+      "103.221.214.0/24"
     ],
     "ipv6": []
   }
