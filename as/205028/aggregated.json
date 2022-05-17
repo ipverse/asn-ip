@@ -3,10 +3,7 @@
   "handle": "APPS",
   "description": "Viacheslav Adamanov",
   "subnets": {
-    "ipv4": [
-      "193.110.174.0/23",
-      "194.156.76.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

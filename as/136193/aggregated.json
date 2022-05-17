@@ -3,16 +3,7 @@
   "handle": "CHINATELECOM-HUBEI-JINGZHOU-IDC",
   "description": "Jingzhou, Hubei Province, P.R.China.",
   "subnets": {
-    "ipv4": [
-      "116.207.96.0/23",
-      "116.207.100.0/22",
-      "116.207.112.0/22",
-      "116.207.118.0/24",
-      "221.233.41.0/24"
-    ],
-    "ipv6": [
-      "240e:d:a000::/37",
-      "240e:95d::/37"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

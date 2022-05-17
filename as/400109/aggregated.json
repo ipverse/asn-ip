@@ -4,7 +4,7 @@
   "description": "Go Technology Management, LLC",
   "subnets": {
     "ipv4": [
-      "208.98.20.0/22"
+      "208.98.20.0/24"
     ],
     "ipv6": []
   }

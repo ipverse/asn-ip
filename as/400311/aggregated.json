@@ -3,7 +3,9 @@
   "handle": "IRN",
   "description": "EDISON PROPERTIES, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "8.7.246.0/24"
+    ],
     "ipv6": []
   }
 }

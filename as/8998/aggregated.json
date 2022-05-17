@@ -3,9 +3,9 @@
   "handle": "TUMTTL",
   "description": "Russian company LLC",
   "subnets": {
-    "ipv4": [],
-    "ipv6": [
-      "2a02:dc00:9::/48"
-    ]
+    "ipv4": [
+      "91.203.38.0/24"
+    ],
+    "ipv6": []
   }
 }

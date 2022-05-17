@@ -4,9 +4,6 @@
   "description": "Keaton Alexander Guger Lair",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2605:f440:5600::/47",
-      "2605:f440:5652::/47"
-    ]
+    "ipv6": []
   }
 }

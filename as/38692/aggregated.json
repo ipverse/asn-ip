@@ -4,6 +4,8 @@
   "description": "Jeollabukdo Office Of Education Research And Information Institute",
   "subnets": {
     "ipv4": [
+      "14.55.70.0/23",
+      "14.55.72.0/23",
       "203.234.101.0/24",
       "203.234.107.0/24",
       "211.39.70.0/23",

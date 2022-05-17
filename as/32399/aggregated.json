@@ -3,7 +3,10 @@
   "handle": "ALORICA",
   "description": "ALORICA INC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "112.198.24.0/23",
+      "142.192.242.0/24"
+    ],
     "ipv6": []
   }
 }

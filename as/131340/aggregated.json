@@ -1,0 +1,11 @@
+{
+  "asn": 131340,
+  "handle": "TAQWAIT-AP",
+  "description": "Taqwa IT",
+  "subnets": {
+    "ipv4": [
+      "202.133.90.0/24"
+    ],
+    "ipv6": []
+  }
+}
