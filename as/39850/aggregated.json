@@ -4,8 +4,7 @@
   "description": "OAO National Bank TRUST",
   "subnets": {
     "ipv4": [
-      "194.50.104.0/24",
-      "194.226.143.0/24"
+      "194.50.104.0/24"
     ],
     "ipv6": []
   }

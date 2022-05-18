@@ -4,6 +4,7 @@
   "description": "Telefonica Global Solutions USA, INC",
   "subnets": {
     "ipv4": [
+      "66.119.64.0/21",
       "66.231.224.0/22",
       "66.231.230.0/23",
       "66.231.232.0/21",

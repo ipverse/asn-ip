@@ -3,7 +3,9 @@
   "handle": "GEEKNETWORKS-AP",
   "description": "GEEK INSIDE NETWORKS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.153.152.0/23"
+    ],
     "ipv6": []
   }
 }

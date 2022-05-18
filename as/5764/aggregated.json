@@ -3,7 +3,9 @@
   "handle": "CONVOKE",
   "description": "Convoke Communications Corp.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "204.225.71.0/24"
+    ],
     "ipv6": []
   }
 }

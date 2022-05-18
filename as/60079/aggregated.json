@@ -4,7 +4,8 @@
   "description": "Electromagnetic Field Ltd.",
   "subnets": {
     "ipv4": [
-      "45.15.104.0/22"
+      "45.15.104.0/22",
+      "151.216.128.0/17"
     ],
     "ipv6": [
       "2a05:e201::/32"

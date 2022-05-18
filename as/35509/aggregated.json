@@ -1,0 +1,11 @@
+{
+  "asn": 35509,
+  "handle": "TURKCELL-DIGITAL-SERVICES",
+  "description": "Global Iletisim Hizmetleri A.S.",
+  "subnets": {
+    "ipv4": [
+      "195.155.104.0/23"
+    ],
+    "ipv6": []
+  }
+}

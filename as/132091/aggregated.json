@@ -3,9 +3,7 @@
   "handle": "ALPHAINFONETWORK",
   "description": "AlphaInfonet",
   "subnets": {
-    "ipv4": [
-      "103.225.72.0/22"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

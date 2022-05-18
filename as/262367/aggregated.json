@@ -3,10 +3,7 @@
   "handle": "SW-COMERCIO-E",
   "description": "SW COMERCIO E SERVICOS DE COMUNICACAO MULTIMIDIA",
   "subnets": {
-    "ipv4": [
-      "170.231.212.0/22",
-      "177.128.40.0/22"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2804:323c::/32"
     ]

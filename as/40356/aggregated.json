@@ -4,10 +4,8 @@
   "description": "Tascom Global Network",
   "subnets": {
     "ipv4": [
-      "189.126.136.0/24"
+      "189.126.136.0/23"
     ],
-    "ipv6": [
-      "2001:12a4:ffff::/48"
-    ]
+    "ipv6": []
   }
 }

@@ -4,6 +4,7 @@
   "description": "Tianhai InfoTech",
   "subnets": {
     "ipv4": [
+      "45.9.11.0/24",
       "103.140.8.0/24",
       "156.96.106.0/24"
     ],

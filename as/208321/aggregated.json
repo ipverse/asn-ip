@@ -3,7 +3,9 @@
   "handle": "ITSR",
   "description": "Sebastian Tobias Reimers",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.235.88.0/24"
+    ],
     "ipv6": [
       "2a0b:e200:1::/48"
     ]

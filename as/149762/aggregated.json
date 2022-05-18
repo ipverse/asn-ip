@@ -1,0 +1,12 @@
+{
+  "asn": 149762,
+  "handle": "HAKUHODO-AP",
+  "description": "KSC Commercial Internet Co.Ltd.",
+  "subnets": {
+    "ipv4": [
+      "58.181.182.0/24",
+      "210.86.218.0/24"
+    ],
+    "ipv6": []
+  }
+}

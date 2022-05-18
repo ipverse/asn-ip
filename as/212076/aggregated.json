@@ -3,7 +3,9 @@
   "handle": "PARDISCO",
   "description": "Dadeh Rayanesh Abri Pardis Private Joint Stock Company",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.231.65.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -1,0 +1,13 @@
+{
+  "asn": 149102,
+  "handle": "KHANHCHIICT-VN",
+  "description": "KHANH CHI ICT COMPANY LIMITED",
+  "subnets": {
+    "ipv4": [
+      "103.187.2.0/23"
+    ],
+    "ipv6": [
+      "2400:77e0::/48"
+    ]
+  }
+}

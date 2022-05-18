@@ -3,7 +3,9 @@
   "handle": "CENTROIN-PROVEDOR-DE",
   "description": "CENTROIN PROVEDOR DE SERV. INTERNET. LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "200.225.48.0/20"
+    ],
     "ipv6": []
   }
 }

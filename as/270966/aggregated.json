@@ -4,6 +4,8 @@
   "description": "4WNET ES TELECOMUNICAES EIRELE ME",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2804:5984:f000::/36"
+    ]
   }
 }

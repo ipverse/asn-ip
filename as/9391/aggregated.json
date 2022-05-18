@@ -1,0 +1,13 @@
+{
+  "asn": 9391,
+  "handle": "GUANGDONG-HIGHWAY-BROADBAND",
+  "description": "GUANGDONG HIGHWAY BROADBAND NETWORK SERVICE CENTE",
+  "subnets": {
+    "ipv4": [
+      "210.77.96.0/19",
+      "211.156.224.0/20",
+      "218.97.224.0/20"
+    ],
+    "ipv6": []
+  }
+}

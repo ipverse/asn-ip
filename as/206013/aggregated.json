@@ -1,0 +1,11 @@
+{
+  "asn": 206013,
+  "handle": "PINGDAY",
+  "description": "Pingday AB",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2001:67c:10e4::/48"
+    ]
+  }
+}

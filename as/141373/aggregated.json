@@ -4,7 +4,6 @@
   "description": "HostCram",
   "subnets": {
     "ipv4": [
-      "59.83.132.0/22",
       "59.83.176.0/22"
     ],
     "ipv6": []
