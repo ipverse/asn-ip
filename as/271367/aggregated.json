@@ -4,10 +4,10 @@
   "description": "RAYAI FIBRA - PROVEDOR DE ACESSO A INTERNET EIRELI",
   "subnets": {
     "ipv4": [
-      "200.36.218.0/23"
+      "200.36.216.0/22"
     ],
     "ipv6": [
-      "2804:7a60:fe00::/39"
+      "2804:7a60::/32"
     ]
   }
 }

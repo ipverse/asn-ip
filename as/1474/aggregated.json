@@ -3,7 +3,9 @@
   "handle": "DNIC-ASBLK-0-01477",
   "description": "Headquarters, USAISC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "6.49.64.0/20"
+    ],
     "ipv6": []
   }
 }

@@ -4,7 +4,8 @@
   "description": "QDS NETWORKS SA DE CV",
   "subnets": {
     "ipv4": [
-      "45.167.252.0/22"
+      "45.167.253.0/24",
+      "45.167.254.0/23"
     ],
     "ipv6": []
   }

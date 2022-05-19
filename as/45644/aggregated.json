@@ -3,7 +3,9 @@
   "handle": "SBI-EMS-NET-IN",
   "description": "IT-Networking Department",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.121.44.0/24"
+    ],
     "ipv6": []
   }
 }

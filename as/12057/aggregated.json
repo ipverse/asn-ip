@@ -3,11 +3,7 @@
   "handle": "LIVEVOX-2",
   "description": "LiveVox, INC.",
   "subnets": {
-    "ipv4": [
-      "8.14.80.0/24",
-      "204.115.206.0/23",
-      "204.154.231.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

@@ -4,7 +4,7 @@
   "description": "Platform.sh SAS",
   "subnets": {
     "ipv4": [
-      "188.116.58.0/23"
+      "188.116.58.0/24"
     ],
     "ipv6": []
   }

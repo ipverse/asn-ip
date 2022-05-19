@@ -3,7 +3,9 @@
   "handle": "WAVESNET-IN",
   "description": "Kalchuri Consultancy Services Private Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.138.211.0/24"
+    ],
     "ipv6": []
   }
 }

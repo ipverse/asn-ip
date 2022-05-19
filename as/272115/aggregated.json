@@ -1,0 +1,11 @@
+{
+  "asn": 272115,
+  "handle": "MINISTERIO-DE-HACIENDA",
+  "description": "MINISTERIO DE HACIENDA Y CREDITO PUBLICO",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2801:171::/45"
+    ]
+  }
+}

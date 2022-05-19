@@ -3,7 +3,9 @@
   "handle": "IISPL-AP",
   "description": "IJ Internet Services (PVT.) Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.135.44.0/23"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "EII-TELECOM-SA-DE-CV",
   "description": "Eii Telecom S.A de C.V.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.176.239.0/24"
+    ],
     "ipv6": []
   }
 }

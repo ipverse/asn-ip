@@ -4,9 +4,6 @@
   "description": "Tomas North t/a QuackNet",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2a06:a005:437::/48",
-      "2a06:a005:4d8::/48"
-    ]
+    "ipv6": []
   }
 }

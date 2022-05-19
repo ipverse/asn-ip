@@ -3,7 +3,9 @@
   "handle": "CIRRASCALE-CLOUD-01",
   "description": "Cirrascale Cloud Services LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "8.19.55.0/24"
+    ],
     "ipv6": []
   }
 }

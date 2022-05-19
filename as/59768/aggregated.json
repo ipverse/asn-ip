@@ -3,7 +3,9 @@
   "handle": "ZP-16X-2",
   "description": "FOP Markovskiy Denis Vadimovich",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.236.184.0/24"
+    ],
     "ipv6": []
   }
 }

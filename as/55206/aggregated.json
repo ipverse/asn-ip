@@ -4,8 +4,7 @@
   "description": "Foothills School Division No. 38",
   "subnets": {
     "ipv4": [
-      "199.216.240.0/24",
-      "199.216.242.0/23"
+      "199.216.240.0/24"
     ],
     "ipv6": []
   }

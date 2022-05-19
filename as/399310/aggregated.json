@@ -1,0 +1,11 @@
+{
+  "asn": 399310,
+  "handle": "SOUTH-SOUND-911",
+  "description": "South Sound 911",
+  "subnets": {
+    "ipv4": [
+      "192.103.206.0/23"
+    ],
+    "ipv6": []
+  }
+}

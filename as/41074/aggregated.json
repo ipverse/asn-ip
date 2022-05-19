@@ -3,7 +3,9 @@
   "handle": "ASSOFTWARE-HOSTING",
   "description": "AS SOFTWARE HOSTING SL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.239.21.0/24"
+    ],
     "ipv6": []
   }
 }
