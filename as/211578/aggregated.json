@@ -3,9 +3,7 @@
   "handle": "OKSUMTELEKOMUNIKASYON",
   "description": "Emrecan Oksum",
   "subnets": {
-    "ipv4": [
-      "45.85.249.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

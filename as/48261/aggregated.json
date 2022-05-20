@@ -3,10 +3,7 @@
   "handle": "OY-SERVICE",
   "description": "United Networks Ltd.",
   "subnets": {
-    "ipv4": [
-      "87.249.55.0/24",
-      "89.104.97.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

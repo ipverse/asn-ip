@@ -4,8 +4,7 @@
   "description": "M.A Network Service",
   "subnets": {
     "ipv4": [
-      "103.97.204.0/23",
-      "103.97.206.0/24"
+      "103.97.204.0/22"
     ],
     "ipv6": []
   }

@@ -3,7 +3,9 @@
   "handle": "PROVICAR",
   "description": "Avatel Sur SL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.214.15.0/24"
+    ],
     "ipv6": []
   }
 }

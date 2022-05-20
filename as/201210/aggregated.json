@@ -4,7 +4,8 @@
   "description": "TRIGONON DATA SERVICES LTD",
   "subnets": {
     "ipv4": [
-      "185.82.36.0/22"
+      "185.82.36.0/24",
+      "185.82.38.0/23"
     ],
     "ipv6": [
       "2001:4d70::/32",

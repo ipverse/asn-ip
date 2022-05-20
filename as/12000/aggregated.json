@@ -3,11 +3,7 @@
   "handle": "FMR-AS4",
   "description": "Fidelity Investments",
   "subnets": {
-    "ipv4": [
-      "155.199.255.0/24",
-      "192.223.130.0/24",
-      "192.223.245.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

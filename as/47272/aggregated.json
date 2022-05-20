@@ -4,8 +4,6 @@
   "description": "LLC Real-net",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2a02:6160::/32"
-    ]
+    "ipv6": []
   }
 }

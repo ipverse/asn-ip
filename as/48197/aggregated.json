@@ -4,9 +4,7 @@
   "description": "UNISTREAM COMMERCIAL BANK (JSC)",
   "subnets": {
     "ipv4": [
-      "94.127.152.0/22",
-      "94.127.156.0/23",
-      "94.127.159.0/24"
+      "94.127.152.0/21"
     ],
     "ipv6": []
   }

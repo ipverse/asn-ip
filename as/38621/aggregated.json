@@ -3,9 +3,7 @@
   "handle": "LLNW-DEL",
   "description": "Limelight Networks, Inc.",
   "subnets": {
-    "ipv4": [
-      "111.119.19.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

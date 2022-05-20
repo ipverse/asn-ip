@@ -3,7 +3,9 @@
   "handle": "IDNIC-DISKOMINFOSUBANG-ID",
   "description": "Dinas Komunikasi Dan Informatika Kabupaten Subang",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.156.88.0/24"
+    ],
     "ipv6": []
   }
 }

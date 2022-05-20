@@ -4,6 +4,11 @@
   "description": "Aperture Science Limited",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2602:feda:f020::/48",
+      "2602:feda:f027::/48",
+      "2602:ffc5:610::/44",
+      "2a0e:da40:140::/44"
+    ]
   }
 }

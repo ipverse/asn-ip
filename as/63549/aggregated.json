@@ -3,12 +3,7 @@
   "handle": "TULONGNET",
   "description": "LiaoNing Tulong Science \u0026 Technology Co.,Ltd.",
   "subnets": {
-    "ipv4": [
-      "45.248.132.0/22",
-      "45.248.236.0/22",
-      "59.153.72.0/22",
-      "103.198.72.0/22"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

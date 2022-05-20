@@ -1,0 +1,11 @@
+{
+  "asn": 149600,
+  "handle": "NIXI-IN",
+  "description": "NIXI-CSC Data center",
+  "subnets": {
+    "ipv4": [
+      "45.249.241.0/24"
+    ],
+    "ipv6": []
+  }
+}

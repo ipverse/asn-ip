@@ -3,9 +3,7 @@
   "handle": "PROVEDOR-INTERNET",
   "description": "Provedor Inter.Net",
   "subnets": {
-    "ipv4": [
-      "160.19.248.0/22"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }
