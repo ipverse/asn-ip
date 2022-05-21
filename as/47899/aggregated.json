@@ -3,7 +3,9 @@
   "handle": "TMMTS",
   "description": "MTS PJSC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "94.102.176.0/20"
+    ],
     "ipv6": []
   }
 }

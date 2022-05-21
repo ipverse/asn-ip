@@ -3,7 +3,9 @@
   "handle": "SICIPL",
   "description": "Supersonic Isp Connectivity India Pvt Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.112.212.0/22"
+    ],
     "ipv6": []
   }
 }

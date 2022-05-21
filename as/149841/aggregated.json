@@ -1,0 +1,11 @@
+{
+  "asn": 149841,
+  "handle": "LIGHTNING1-AP",
+  "description": "Lightning IP",
+  "subnets": {
+    "ipv4": [
+      "103.187.240.0/23"
+    ],
+    "ipv6": []
+  }
+}

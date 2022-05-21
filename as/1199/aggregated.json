@@ -3,7 +3,9 @@
   "handle": "SPEELTUIN",
   "description": "SURF B.V.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "145.111.0.0/16"
+    ],
     "ipv6": []
   }
 }

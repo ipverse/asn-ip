@@ -3,7 +3,9 @@
   "handle": "ACI-WORLDWIDE",
   "description": "ACI Worldwide, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "139.131.144.0/20"
+    ],
     "ipv6": []
   }
 }

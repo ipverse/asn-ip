@@ -3,10 +3,7 @@
   "handle": "DECOLA-NET-LTDA",
   "description": "Decola Net LTDA",
   "subnets": {
-    "ipv4": [
-      "187.109.116.0/22",
-      "201.216.68.0/22"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

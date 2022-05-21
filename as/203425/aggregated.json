@@ -3,10 +3,7 @@
   "handle": "ROCKFORDIT",
   "description": "SysGroup plc",
   "subnets": {
-    "ipv4": [
-      "151.236.215.0/24",
-      "185.105.64.0/22"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

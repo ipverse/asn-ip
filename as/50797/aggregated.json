@@ -3,9 +3,7 @@
   "handle": "NORD",
   "description": "Elixe Co.,Ltd",
   "subnets": {
-    "ipv4": [
-      "92.255.46.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

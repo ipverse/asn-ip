@@ -3,7 +3,9 @@
   "handle": "ELLFIBER",
   "description": "Ell Innovations Pvt Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.100.220.0/22"
+    ],
     "ipv6": []
   }
 }

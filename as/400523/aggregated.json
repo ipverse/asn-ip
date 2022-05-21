@@ -3,9 +3,7 @@
   "handle": "MEL",
   "description": "Mandon Express",
   "subnets": {
-    "ipv4": [
-      "23.133.136.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

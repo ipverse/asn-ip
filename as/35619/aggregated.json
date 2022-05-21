@@ -4,6 +4,7 @@
   "description": "Kevin Buehl",
   "subnets": {
     "ipv4": [
+      "45.131.184.0/23",
       "185.248.132.0/24"
     ],
     "ipv6": [
