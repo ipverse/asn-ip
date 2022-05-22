@@ -3,7 +3,9 @@
   "handle": "ETS-TELEPHONE-COMPANY",
   "description": "ETS TELEPHONE COMPANY, INC.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "162.253.240.0/22"
+    ],
     "ipv6": []
   }
 }

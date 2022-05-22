@@ -4,6 +4,7 @@
   "description": "Goldman Sachs International",
   "subnets": {
     "ipv4": [
+      "154.1.167.0/24",
       "154.1.168.0/24",
       "154.1.170.0/24",
       "154.1.172.0/23",

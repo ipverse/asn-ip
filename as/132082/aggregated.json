@@ -3,7 +3,9 @@
   "handle": "GLOBAL2-AP",
   "description": "Global Infosys Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.108.147.0/24"
+    ],
     "ipv6": []
   }
 }

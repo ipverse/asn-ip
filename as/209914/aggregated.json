@@ -3,7 +3,9 @@
   "handle": "AFANASEV",
   "description": "FOP AFANASEV",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "212.79.126.0/24"
+    ],
     "ipv6": []
   }
 }

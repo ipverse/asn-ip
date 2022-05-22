@@ -3,9 +3,7 @@
   "handle": "ANDREWNET",
   "description": "andrewnet llc",
   "subnets": {
-    "ipv4": [
-      "45.41.37.0/24"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2602:fc26::/47",
       "2602:fc26:2::/48",

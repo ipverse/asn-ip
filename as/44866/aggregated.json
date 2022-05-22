@@ -4,6 +4,7 @@
   "description": "FOP Fedasiuk Oksana Petrivna",
   "subnets": {
     "ipv4": [
+      "31.42.181.0/24",
       "92.118.79.0/24"
     ],
     "ipv6": []

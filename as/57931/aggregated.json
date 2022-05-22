@@ -3,7 +3,9 @@
   "handle": "DATRION",
   "description": "DATRION LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.146.228.0/24"
+    ],
     "ipv6": []
   }
 }

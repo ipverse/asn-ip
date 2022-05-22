@@ -3,9 +3,7 @@
   "handle": "NESAS",
   "description": "NIssan Automotive Europe SAS",
   "subnets": {
-    "ipv4": [
-      "77.94.224.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }
