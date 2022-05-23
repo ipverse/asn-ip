@@ -1,0 +1,13 @@
+{
+  "asn": 208624,
+  "handle": "BILLY",
+  "description": "IBILLY MEDIA GROUP LTD",
+  "subnets": {
+    "ipv4": [
+      "44.131.22.0/24"
+    ],
+    "ipv6": [
+      "2a0e:fd45:c00::/40"
+    ]
+  }
+}

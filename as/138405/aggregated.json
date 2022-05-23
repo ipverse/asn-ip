@@ -3,7 +3,9 @@
   "handle": "L-KS",
   "description": "Shijiazhuang Xuding Technology Co., Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "202.144.196.0/24"
+    ],
     "ipv6": []
   }
 }

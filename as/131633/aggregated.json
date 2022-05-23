@@ -4,7 +4,6 @@
   "description": "Sakura Internet Ltd.",
   "subnets": {
     "ipv4": [
-      "103.127.237.0/24",
       "103.127.238.0/24"
     ],
     "ipv6": []

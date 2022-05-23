@@ -3,7 +3,9 @@
   "handle": "ETIIR",
   "description": "ETIIR",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.132.188.0/22"
+    ],
     "ipv6": []
   }
 }

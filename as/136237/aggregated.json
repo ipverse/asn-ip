@@ -4,7 +4,8 @@
   "description": "Shanghai Shuangyu Communication Technology co.,Ltd.",
   "subnets": {
     "ipv4": [
-      "103.84.136.0/22"
+      "103.84.136.0/22",
+      "103.131.178.0/23"
     ],
     "ipv6": [
       "2400:a040::/32"

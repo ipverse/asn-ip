@@ -1,0 +1,11 @@
+{
+  "asn": 134467,
+  "handle": "SMPL-AP",
+  "description": "Syangja Media",
+  "subnets": {
+    "ipv4": [
+      "103.160.82.0/24"
+    ],
+    "ipv6": []
+  }
+}
