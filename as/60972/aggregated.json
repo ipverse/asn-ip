@@ -3,7 +3,9 @@
   "handle": "LBIX",
   "description": "iShack SAL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.95.255.0/24"
+    ],
     "ipv6": []
   }
 }

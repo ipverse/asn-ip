@@ -3,9 +3,7 @@
   "handle": "ASHYPERHOSTING",
   "description": "Internet Elephants LTD",
   "subnets": {
-    "ipv4": [
-      "185.159.184.0/22"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

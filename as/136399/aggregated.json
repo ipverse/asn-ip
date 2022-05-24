@@ -4,7 +4,8 @@
   "description": "Bambu Wireless Solutions Inc.",
   "subnets": {
     "ipv4": [
-      "192.140.216.0/24"
+      "103.85.69.0/24",
+      "192.140.216.0/23"
     ],
     "ipv6": []
   }

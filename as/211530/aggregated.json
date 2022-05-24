@@ -3,7 +3,9 @@
   "handle": "CIREX-CLOUD",
   "description": "Telecom-Birzha, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.206.126.0/24"
+    ],
     "ipv6": []
   }
 }

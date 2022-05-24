@@ -1,0 +1,11 @@
+{
+  "asn": 49600,
+  "handle": "NEARIP",
+  "description": "NEAR IP, S.L.",
+  "subnets": {
+    "ipv4": [
+      "193.37.65.0/24"
+    ],
+    "ipv6": []
+  }
+}

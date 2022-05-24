@@ -3,7 +3,9 @@
   "handle": "AMS-LR4-CORES",
   "description": "HEWLETT PACKARD ENTERPRISE COMPANY",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "16.7.0.0/24"
+    ],
     "ipv6": []
   }
 }

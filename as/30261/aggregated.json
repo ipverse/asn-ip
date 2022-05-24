@@ -4,7 +4,6 @@
   "description": "Treasure State Internet",
   "subnets": {
     "ipv4": [
-      "76.191.88.0/24",
       "205.207.148.0/23"
     ],
     "ipv6": []

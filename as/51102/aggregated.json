@@ -3,10 +3,7 @@
   "handle": "IMPATT",
   "description": "IMPATT SRL",
   "subnets": {
-    "ipv4": [
-      "93.114.176.0/23",
-      "93.114.183.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

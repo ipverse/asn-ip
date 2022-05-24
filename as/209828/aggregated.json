@@ -4,6 +4,7 @@
   "description": "Genc BT Bilisim Teknolojileri Limited Sirketi",
   "subnets": {
     "ipv4": [
+      "178.255.218.0/24",
       "194.5.237.0/24"
     ],
     "ipv6": []

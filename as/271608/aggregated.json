@@ -3,9 +3,7 @@
   "handle": "PLUS-INTERNET-TELECOM",
   "description": "plus internet telecom",
   "subnets": {
-    "ipv4": [
-      "189.126.88.0/24"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2804:7e30::/32"
     ]

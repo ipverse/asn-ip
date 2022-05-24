@@ -3,9 +3,7 @@
   "handle": "ASLEANDOMAINS",
   "description": "Zbridge Limited",
   "subnets": {
-    "ipv4": [
-      "185.159.192.0/22"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

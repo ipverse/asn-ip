@@ -3,7 +3,9 @@
   "handle": "CONTI",
   "description": "Continental AG",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.60.76.0/22"
+    ],
     "ipv6": []
   }
 }

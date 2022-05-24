@@ -3,7 +3,10 @@
   "handle": "BOLITEL-SRL",
   "description": "BOLITEL SRL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "131.100.200.0/23",
+      "131.100.202.0/24"
+    ],
     "ipv6": []
   }
 }

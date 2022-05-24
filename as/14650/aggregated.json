@@ -4,10 +4,10 @@
   "description": "Ncleo de Inf. e Coord. do Ponto BR - NIC.BR",
   "subnets": {
     "ipv4": [
-      "200.219.158.0/23"
+      "200.219.158.0/24"
     ],
     "ipv6": [
-      "2001:12f8:c::/47"
+      "2001:12f8:d::/48"
     ]
   }
 }

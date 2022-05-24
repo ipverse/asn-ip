@@ -3,7 +3,9 @@
   "handle": "VETRUGNO",
   "description": "Frederic Vetrugno",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.146.6.0/24"
+    ],
     "ipv6": []
   }
 }

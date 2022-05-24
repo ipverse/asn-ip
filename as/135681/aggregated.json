@@ -4,8 +4,7 @@
   "description": "Indian Commodity Exchange Ltd.",
   "subnets": {
     "ipv4": [
-      "103.68.27.0/24",
-      "103.69.30.0/24"
+      "103.68.27.0/24"
     ],
     "ipv6": []
   }

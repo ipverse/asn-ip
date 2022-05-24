@@ -4,8 +4,7 @@
   "description": "Gulfsat Autonomous System",
   "subnets": {
     "ipv4": [
-      "41.204.96.0/19",
-      "197.158.64.0/18"
+      "197.158.74.0/24"
     ],
     "ipv6": []
   }
