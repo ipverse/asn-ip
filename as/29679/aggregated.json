@@ -3,7 +3,9 @@
   "handle": "EXPANSION",
   "description": "Liberation SARL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.22.107.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "IDNIC-INDINET-ID",
   "description": "PT Borneo Digital Indonusa",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.165.0.0/23"
+    ],
     "ipv6": []
   }
 }

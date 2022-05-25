@@ -3,7 +3,9 @@
   "handle": "SIMPSON-INTERNET-VIA",
   "description": "SIMPSON INTERNET VIA RADIO WI-FI - EIRELI",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "179.63.128.0/22"
+    ],
     "ipv6": [
       "2804:7e20::/32"
     ]

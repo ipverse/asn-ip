@@ -1,0 +1,11 @@
+{
+  "asn": 149483,
+  "handle": "CITYONLINE-AP",
+  "description": "City Online",
+  "subnets": {
+    "ipv4": [
+      "103.180.203.0/24"
+    ],
+    "ipv6": []
+  }
+}

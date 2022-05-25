@@ -4,7 +4,8 @@
   "description": "LUIS DA SILVA SIQUEIRA JUNIOR 01962174581",
   "subnets": {
     "ipv4": [
-      "45.165.90.0/23"
+      "45.165.88.0/24",
+      "45.165.91.0/24"
     ],
     "ipv6": []
   }

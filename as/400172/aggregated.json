@@ -3,7 +3,9 @@
   "handle": "RACKORBIT",
   "description": "RackOrbit, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "66.59.222.0/24"
+    ],
     "ipv6": [
       "2602:fb6a:100::/47",
       "2602:fb6a:102::/48"

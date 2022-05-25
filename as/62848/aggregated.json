@@ -3,9 +3,7 @@
   "handle": "PMB",
   "description": "Pacific Mercantile Bank",
   "subnets": {
-    "ipv4": [
-      "198.160.217.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

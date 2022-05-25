@@ -3,14 +3,7 @@
   "handle": "HNPCNET",
   "description": "KuanggongLu, Pingdingshan, Henan, China",
   "subnets": {
-    "ipv4": [
-      "43.255.4.0/22",
-      "103.238.252.0/22",
-      "110.76.192.0/18",
-      "110.77.0.0/17",
-      "119.31.192.0/19",
-      "210.76.0.0/19"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

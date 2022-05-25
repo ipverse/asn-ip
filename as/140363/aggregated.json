@@ -3,9 +3,7 @@
   "handle": "MPL-AP",
   "description": "Media Platform Lab Co., Ltd.",
   "subnets": {
-    "ipv4": [
-      "103.149.218.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

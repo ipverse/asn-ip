@@ -3,7 +3,9 @@
   "handle": "GARAY-DIEGO-SEBASTIAN",
   "description": "Garay Diego Sebastian",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "179.63.32.0/22"
+    ],
     "ipv6": []
   }
 }

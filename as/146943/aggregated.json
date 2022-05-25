@@ -3,9 +3,7 @@
   "handle": "TIER4CLOU",
   "description": "Tier 4 Cloud Services",
   "subnets": {
-    "ipv4": [
-      "103.172.151.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

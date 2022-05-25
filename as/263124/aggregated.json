@@ -3,7 +3,10 @@
   "handle": "ZAP-TELECOM-LTDA",
   "description": "ZAP TELECOM LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "138.186.92.0/22",
+      "177.92.136.0/21"
+    ],
     "ipv6": [
       "2804:171c::/32"
     ]

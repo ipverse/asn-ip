@@ -3,7 +3,9 @@
   "handle": "IDNIC-GOGIGA-ID",
   "description": "PT Gogiga Media Teknologi",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.179.64.0/24"
+    ],
     "ipv6": []
   }
 }

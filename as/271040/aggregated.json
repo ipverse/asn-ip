@@ -3,7 +3,9 @@
   "handle": "LIGA-SERVICOS-EM",
   "description": "LIGA SERVICOS EM TELECOMUNICACOES LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "200.94.252.0/24"
+    ],
     "ipv6": []
   }
 }

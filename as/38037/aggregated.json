@@ -3,7 +3,9 @@
   "handle": "INTERNET-AP",
   "description": "InternetNZ",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.70.24.0/22"
+    ],
     "ipv6": []
   }
 }

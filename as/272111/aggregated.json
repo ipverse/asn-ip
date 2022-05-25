@@ -1,0 +1,11 @@
+{
+  "asn": 272111,
+  "handle": "DATA-ONLINE-PERU-SAC",
+  "description": "DATA ONLINE PERU S.A.C.",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2803:f710::/32"
+    ]
+  }
+}

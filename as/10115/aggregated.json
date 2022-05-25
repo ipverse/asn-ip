@@ -3,13 +3,7 @@
   "handle": "ATOAS-AP",
   "description": "SingTel Optus Pty Ltd",
   "subnets": {
-    "ipv4": [
-      "175.106.28.0/22",
-      "180.149.193.0/24",
-      "180.149.194.0/23"
-    ],
-    "ipv6": [
-      "2400:bc00:1800::/48"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

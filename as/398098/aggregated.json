@@ -3,9 +3,7 @@
   "handle": "AZURE-MSPEERING-02",
   "description": "City National Bank",
   "subnets": {
-    "ipv4": [
-      "63.199.123.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }
