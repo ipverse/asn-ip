@@ -1,0 +1,11 @@
+{
+  "asn": 272697,
+  "handle": "B-HOST-BRASIL",
+  "description": "B Host Brasil - Internet Datacenter",
+  "subnets": {
+    "ipv4": [
+      "130.185.238.0/24"
+    ],
+    "ipv6": []
+  }
+}

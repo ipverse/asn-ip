@@ -3,7 +3,9 @@
   "handle": "DE-316",
   "description": "DatPixel Entertainment Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "31.25.11.0/24"
+    ],
     "ipv6": []
   }
 }

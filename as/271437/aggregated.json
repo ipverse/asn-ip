@@ -3,7 +3,9 @@
   "handle": "JMV-TECHNOLOGY-EIRELI-EPP",
   "description": "JMV Technology Eireli - EPP",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.225.80.0/24"
+    ],
     "ipv6": [
       "2804:7b88::/32"
     ]

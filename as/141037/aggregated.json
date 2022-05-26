@@ -1,0 +1,11 @@
+{
+  "asn": 141037,
+  "handle": "IQTEL-AP",
+  "description": "IQ-TEL",
+  "subnets": {
+    "ipv4": [
+      "103.186.219.0/24"
+    ],
+    "ipv6": []
+  }
+}

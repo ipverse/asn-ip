@@ -3,11 +3,7 @@
   "handle": "PATRICK7",
   "description": "Patrick Velder",
   "subnets": {
-    "ipv4": [
-      "185.117.14.0/24"
-    ],
-    "ipv6": [
-      "2a06:8280:20::/44"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

@@ -3,7 +3,10 @@
   "handle": "ZTK",
   "description": "United Service Department of Tula LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.149.161.0/24",
+      "185.179.224.0/24"
+    ],
     "ipv6": [
       "2a05:2940::/32"
     ]

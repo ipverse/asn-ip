@@ -3,7 +3,9 @@
   "handle": "NUBIRDZ",
   "description": "Nubirdz / Nubirdz Computers",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "158.51.28.0/22"
+    ],
     "ipv6": []
   }
 }

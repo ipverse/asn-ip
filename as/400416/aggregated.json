@@ -3,7 +3,9 @@
   "handle": "TRADINGVIEW-INC",
   "description": "TradingView, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "104.238.216.0/24"
+    ],
     "ipv6": []
   }
 }

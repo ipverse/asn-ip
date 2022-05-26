@@ -4,6 +4,7 @@
   "description": "SERVICIO Y EQUIPO EN TELEFONA INTERNET Y TV S.A. DE C.V.",
   "subnets": {
     "ipv4": [
+      "177.225.216.0/21",
       "177.241.236.0/22",
       "177.242.64.0/19",
       "177.246.216.0/21",
