@@ -4,6 +4,7 @@
   "description": "BEZERRA DA SILVA E LIMA LTDA",
   "subnets": {
     "ipv4": [
+      "181.224.84.0/22",
       "200.196.128.0/22"
     ],
     "ipv6": []

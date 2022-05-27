@@ -3,9 +3,7 @@
   "handle": "ATATELECOM-AP",
   "description": "ATA TELECOM Co., Ltd",
   "subnets": {
-    "ipv4": [
-      "209.146.117.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

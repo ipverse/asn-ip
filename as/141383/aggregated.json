@@ -3,7 +3,9 @@
   "handle": "COOLNETPTELTD-AP",
   "description": "COOLNET PTE. LTD.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.157.250.0/23"
+    ],
     "ipv6": []
   }
 }

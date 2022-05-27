@@ -3,9 +3,7 @@
   "handle": "NETERRAIP",
   "description": "Neterra Ltd.",
   "subnets": {
-    "ipv4": [
-      "62.192.168.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

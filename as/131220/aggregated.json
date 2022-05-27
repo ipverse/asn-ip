@@ -3,10 +3,7 @@
   "handle": "OMD-AP",
   "description": "Optimum Media Direction Pty Ltd",
   "subnets": {
-    "ipv4": [
-      "103.68.106.0/24",
-      "103.68.198.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

@@ -4,6 +4,7 @@
   "description": "Cooperative Afra ertebatat-e-sabet-e Rasa Co",
   "subnets": {
     "ipv4": [
+      "31.25.95.0/24",
       "45.142.188.0/22",
       "46.209.162.0/24",
       "79.132.200.0/22",

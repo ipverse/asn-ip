@@ -1,0 +1,11 @@
+{
+  "asn": 272653,
+  "handle": "UAIFIBRA-TELECOM",
+  "description": "UaiFibra Telecom",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2804:8694::/32"
+    ]
+  }
+}

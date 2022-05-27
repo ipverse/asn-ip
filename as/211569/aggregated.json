@@ -4,8 +4,6 @@
   "description": "Energiedienst Holding AG",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2a10:e480::/29"
-    ]
+    "ipv6": []
   }
 }

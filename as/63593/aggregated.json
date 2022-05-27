@@ -1,0 +1,13 @@
+{
+  "asn": 63593,
+  "handle": "OPPO",
+  "description": "Guangdong HeyTap Technology Co., Ltd.",
+  "subnets": {
+    "ipv4": [
+      "129.227.29.0/24",
+      "129.227.30.0/24",
+      "129.227.193.0/24"
+    ],
+    "ipv6": []
+  }
+}

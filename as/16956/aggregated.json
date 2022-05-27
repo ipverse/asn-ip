@@ -3,7 +3,9 @@
   "handle": "CATTARAUGUS-COUNTY",
   "description": "Cattaraugus County",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "205.159.248.0/24"
+    ],
     "ipv6": []
   }
 }

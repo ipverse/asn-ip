@@ -3,7 +3,9 @@
   "handle": "CENTURYLINK-MTIPS4-HLR",
   "description": "CenturyLink Communications, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "204.153.231.0/24"
+    ],
     "ipv6": []
   }
 }

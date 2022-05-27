@@ -3,7 +3,9 @@
   "handle": "HOSTDESIGNS",
   "description": "HOST DESIGNS, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "66.170.134.0/24"
+    ],
     "ipv6": []
   }
 }

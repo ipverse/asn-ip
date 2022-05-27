@@ -4,7 +4,7 @@
   "description": "NewsBank Inc.",
   "subnets": {
     "ipv4": [
-      "204.126.80.0/23"
+      "204.126.80.0/24"
     ],
     "ipv6": []
   }

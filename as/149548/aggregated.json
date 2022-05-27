@@ -3,9 +3,7 @@
   "handle": "LAURELOS-IN",
   "description": "LAUREL OS SOLUTIONS",
   "subnets": {
-    "ipv4": [
-      "103.184.150.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

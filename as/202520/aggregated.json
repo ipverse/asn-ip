@@ -3,10 +3,7 @@
   "handle": "GREENDC",
   "description": "GDC ENERGY GROUP LLC",
   "subnets": {
-    "ipv4": [
-      "37.203.245.0/24",
-      "193.110.0.0/22"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }
