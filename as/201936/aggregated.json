@@ -3,7 +3,9 @@
   "handle": "RGHL1",
   "description": "REDSTART GROUP HOLDING LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "94.241.132.0/22"
+    ],
     "ipv6": []
   }
 }

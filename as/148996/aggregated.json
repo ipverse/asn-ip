@@ -3,9 +3,7 @@
   "handle": "ROROKO-INTERNET-AP",
   "description": "Zappie Host LLC",
   "subnets": {
-    "ipv4": [
-      "195.80.49.0/24"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2a06:a005:60::/43",
       "2a06:a005:2e0::/44",

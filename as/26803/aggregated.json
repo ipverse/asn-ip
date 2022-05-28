@@ -4,7 +4,6 @@
   "description": "Fiber Internet Center",
   "subnets": {
     "ipv4": [
-      "64.118.160.0/20",
       "66.201.32.0/19"
     ],
     "ipv6": [

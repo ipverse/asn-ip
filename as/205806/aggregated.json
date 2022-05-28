@@ -4,6 +4,7 @@
   "description": "Stadtwerke Neustrelitz GmbH",
   "subnets": {
     "ipv4": [
+      "149.249.196.0/22",
       "149.249.224.0/20",
       "149.249.240.0/22",
       "185.147.168.0/22",

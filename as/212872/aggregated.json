@@ -4,10 +4,11 @@
   "description": "Serverio technologijos MB",
   "subnets": {
     "ipv4": [
-      "45.87.106.0/23"
+      "45.87.104.0/22"
     ],
     "ipv6": [
-      "2a0e:9100::/29"
+      "2a0e:9100::/29",
+      "2a0e:a240::/29"
     ]
   }
 }

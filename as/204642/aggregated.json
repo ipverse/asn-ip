@@ -4,8 +4,7 @@
   "description": "Adecco IT Services SAS",
   "subnets": {
     "ipv4": [
-      "185.244.124.0/22",
-      "193.203.96.0/23"
+      "185.244.124.0/22"
     ],
     "ipv6": []
   }

@@ -4,11 +4,10 @@
   "description": "Sarah Rose, Sole Proprietorship",
   "subnets": {
     "ipv4": [
-      "23.133.248.0/23"
+      "23.133.248.0/24"
     ],
     "ipv6": [
-      "2602:fba2::/32",
-      "2606:c740::/32"
+      "2602:fba2::/32"
     ]
   }
 }

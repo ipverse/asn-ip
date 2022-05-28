@@ -1,0 +1,11 @@
+{
+  "asn": 272682,
+  "handle": "G3-INTERNETNET",
+  "description": "G3 INTERNET.NET",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2804:8704::/32"
+    ]
+  }
+}

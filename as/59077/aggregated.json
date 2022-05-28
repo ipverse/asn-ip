@@ -3,7 +3,9 @@
   "handle": "UCLOUD-NET",
   "description": "Shanghai UCloud Information Technology Company Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "106.75.151.0/24"
+    ],
     "ipv6": []
   }
 }

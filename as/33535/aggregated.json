@@ -3,10 +3,7 @@
   "handle": "NYDN-33",
   "description": "New York Daily News, L.P.",
   "subnets": {
-    "ipv4": [
-      "208.64.109.0/24",
-      "208.64.110.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "WEBSAM-IN",
   "description": "WEB SAMADHAN",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.184.242.0/23"
+    ],
     "ipv6": []
   }
 }

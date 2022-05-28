@@ -3,9 +3,7 @@
   "handle": "METEOR",
   "description": "Meteor Network LLC",
   "subnets": {
-    "ipv4": [
-      "213.173.33.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

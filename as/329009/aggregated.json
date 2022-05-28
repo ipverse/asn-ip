@@ -1,0 +1,11 @@
+{
+  "asn": 329009,
+  "handle": "SPECTRUM-INTERNET-SERVICE",
+  "description": "Spectrum Internet Service Ltd",
+  "subnets": {
+    "ipv4": [
+      "102.216.212.0/24"
+    ],
+    "ipv6": []
+  }
+}

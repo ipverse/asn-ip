@@ -1,0 +1,11 @@
+{
+  "asn": 149528,
+  "handle": "INDIBANK-IN",
+  "description": "INDIAN BANK",
+  "subnets": {
+    "ipv4": [
+      "103.183.72.0/23"
+    ],
+    "ipv6": []
+  }
+}

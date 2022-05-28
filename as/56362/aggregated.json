@@ -3,7 +3,9 @@
   "handle": "INTETICSFE",
   "description": "Intetics FE",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.223.110.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,9 +3,7 @@
   "handle": "SKYNET-TELECOM-EIRELI",
   "description": "SKYNET TELECOM EIRELI",
   "subnets": {
-    "ipv4": [
-      "168.196.76.0/22"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

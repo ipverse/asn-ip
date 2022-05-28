@@ -3,7 +3,9 @@
   "handle": "QONEXA",
   "description": "Cas Ebbers trading as Qonexa",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "141.11.34.0/24"
+    ],
     "ipv6": [
       "2a0d:2406:2000::/39"
     ]

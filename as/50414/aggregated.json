@@ -3,7 +3,9 @@
   "handle": "CODE-BGP",
   "description": "Code BGP Single Member P.C.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "212.46.55.0/24"
+    ],
     "ipv6": [
       "2a12:bc0::/48"
     ]

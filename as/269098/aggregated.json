@@ -3,7 +3,9 @@
   "handle": "ABSAMHOST-INTERNET-DATA",
   "description": "AbsamHost Internet Data Center",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.165.116.0/22"
+    ],
     "ipv6": []
   }
 }

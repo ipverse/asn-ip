@@ -3,10 +3,7 @@
   "handle": "MNTN",
   "description": "Rogers Communications Canada Inc.",
   "subnets": {
-    "ipv4": [
-      "24.102.0.0/18",
-      "24.215.0.0/18"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

@@ -1,0 +1,11 @@
+{
+  "asn": 60445,
+  "handle": "YASUDANET",
+  "description": "YASUDA NETWORK LTD",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a12:f8c0::/29"
+    ]
+  }
+}
