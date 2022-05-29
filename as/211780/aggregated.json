@@ -3,7 +3,9 @@
   "handle": "UNICO",
   "description": "FOP PYLKEVYCH DARIA GRIGORIVNA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.211.122.0/24"
+    ],
     "ipv6": []
   }
 }

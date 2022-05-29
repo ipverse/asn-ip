@@ -3,7 +3,9 @@
   "handle": "TXFIBER-TELECOM-EIRELI",
   "description": "TxFiber Telecom Eireli",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "177.223.106.0/24"
+    ],
     "ipv6": []
   }
 }

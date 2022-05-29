@@ -3,7 +3,9 @@
   "handle": "JBH-AP",
   "description": "JBH NET",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.177.243.0/24"
+    ],
     "ipv6": []
   }
 }

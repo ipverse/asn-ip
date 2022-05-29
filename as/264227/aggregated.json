@@ -3,7 +3,9 @@
   "handle": "INOVE-COMERCIO-E",
   "description": "INOVE COMERCIO E SERVIOS DE TELECOMUNICACOES LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "190.109.76.0/22"
+    ],
     "ipv6": []
   }
 }

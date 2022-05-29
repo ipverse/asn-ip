@@ -3,11 +3,7 @@
   "handle": "A-B-DA-SILVA-MULTIMIDIA-ME",
   "description": "A B DA SILVA MULTIMIDIA - ME",
   "subnets": {
-    "ipv4": [
-      "190.89.150.0/24"
-    ],
-    "ipv6": [
-      "2804:6afc::/32"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }
