@@ -3,10 +3,7 @@
   "handle": "GPL-ID",
   "description": "PT Giga Prima Lestari",
   "subnets": {
-    "ipv4": [
-      "103.57.192.0/23",
-      "103.57.194.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

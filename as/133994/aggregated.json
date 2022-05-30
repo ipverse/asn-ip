@@ -4,7 +4,8 @@
   "description": "NET ONAIR NETWORKS PVT LTD",
   "subnets": {
     "ipv4": [
-      "103.53.80.0/22"
+      "103.53.81.0/24",
+      "103.53.82.0/23"
     ],
     "ipv6": []
   }

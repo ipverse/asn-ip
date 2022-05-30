@@ -4,10 +4,11 @@
   "description": "Conect- Provedor de Internet Ltda-ME",
   "subnets": {
     "ipv4": [
-      "45.7.116.0/22"
+      "45.7.116.0/23"
     ],
     "ipv6": [
-      "2804:3e44::/32"
+      "2804:3e44::/36",
+      "2804:3e44:2000::/36"
     ]
   }
 }

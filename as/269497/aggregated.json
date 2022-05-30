@@ -3,9 +3,12 @@
   "handle": "LENILSON-FERREIRA-DOS-SANTOS",
   "description": "LENILSON FERREIRA DOS SANTOS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.187.204.0/23",
+      "45.187.206.0/24"
+    ],
     "ipv6": [
-      "2804:6588:c000::/34"
+      "2804:6588::/32"
     ]
   }
 }

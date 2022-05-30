@@ -3,7 +3,9 @@
   "handle": "MAYSNET-SA-DE-CV",
   "description": "MAYSNET SA DE CV",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.7.64.0/24"
+    ],
     "ipv6": []
   }
 }

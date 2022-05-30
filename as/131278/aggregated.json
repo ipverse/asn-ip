@@ -3,9 +3,7 @@
   "handle": "ABIRTEL-IIG",
   "description": "Abir Telecommunications Ltd",
   "subnets": {
-    "ipv4": [
-      "103.110.192.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

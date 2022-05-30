@@ -4,6 +4,7 @@
   "description": "CS Loxinfo Public Company Limited",
   "subnets": {
     "ipv4": [
+      "58.137.108.0/24",
       "203.209.99.0/24"
     ],
     "ipv6": []

@@ -4,8 +4,6 @@
   "description": "Szervernet Ltd",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2a00:e300::/32"
-    ]
+    "ipv6": []
   }
 }

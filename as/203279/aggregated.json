@@ -1,9 +1,11 @@
 {
   "asn": 203279,
-  "handle": "MSYS-UNUS1",
+  "handle": "MSYS-ESSE",
   "description": "Bjoern Maenken",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a0a:4540:101::/48"
+    ]
   }
 }

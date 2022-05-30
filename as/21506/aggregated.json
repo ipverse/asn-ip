@@ -3,7 +3,9 @@
   "handle": "FUNDAO-UNIVERSIDADE-DE",
   "description": "Fundao Universidade de Braslia",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "164.41.0.0/16"
+    ],
     "ipv6": []
   }
 }

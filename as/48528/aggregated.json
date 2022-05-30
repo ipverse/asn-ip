@@ -3,7 +3,9 @@
   "handle": "LIFETELECOM",
   "description": "LIFETELECOM LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "212.22.71.0/24"
+    ],
     "ipv6": []
   }
 }

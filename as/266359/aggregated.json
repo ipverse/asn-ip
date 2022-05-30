@@ -3,9 +3,7 @@
   "handle": "NR-SERVIOS-DE-INTERNET-LTDA",
   "description": "NR SERVIOS DE INTERNET LTDA.",
   "subnets": {
-    "ipv4": [
-      "170.239.218.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

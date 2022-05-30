@@ -3,7 +3,9 @@
   "handle": "MOKADI",
   "description": "P.H.U. MOKADI Wieslawa Kazmierczak",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "178.219.96.0/20"
+    ],
     "ipv6": []
   }
 }
