@@ -3,10 +3,7 @@
   "handle": "ONE-CENTER-INFORMATICA",
   "description": "ONE CENTER INFORMATICA EIRELI-EPP",
   "subnets": {
-    "ipv4": [
-      "138.0.224.0/22",
-      "186.235.32.0/20"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

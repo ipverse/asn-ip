@@ -3,9 +3,7 @@
   "handle": "ASINITS",
   "description": "TOV Innovative IT systems",
   "subnets": {
-    "ipv4": [
-      "91.245.213.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

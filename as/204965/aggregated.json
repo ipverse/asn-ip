@@ -3,10 +3,7 @@
   "handle": "MED360GRAD",
   "description": "Med360Grad AG",
   "subnets": {
-    "ipv4": [
-      "185.231.212.0/23",
-      "185.231.214.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

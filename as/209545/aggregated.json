@@ -3,9 +3,7 @@
   "handle": "TSYS-ESA",
   "description": "I.T.E.N.O.S. International Telecom Network Operation Services GmbH",
   "subnets": {
-    "ipv4": [
-      "134.101.126.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

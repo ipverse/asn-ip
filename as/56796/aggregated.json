@@ -4,9 +4,6 @@
   "description": "Informatics Solutions Limited",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2001:678:9c8::/48",
-      "2001:678:a80::/48"
-    ]
+    "ipv6": []
   }
 }

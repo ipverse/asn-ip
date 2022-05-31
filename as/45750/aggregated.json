@@ -3,9 +3,7 @@
   "handle": "MAGITELECOM-HK",
   "description": "MagiTelecom Limited",
   "subnets": {
-    "ipv4": [
-      "110.92.76.0/22"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }
