@@ -1,0 +1,11 @@
+{
+  "asn": 57539,
+  "handle": "MEGASERVER",
+  "description": "eServer s.r.o.",
+  "subnets": {
+    "ipv4": [
+      "178.218.219.0/24"
+    ],
+    "ipv6": []
+  }
+}

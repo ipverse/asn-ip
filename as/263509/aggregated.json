@@ -4,7 +4,8 @@
   "description": "Turbovip Telecom Ltda",
   "subnets": {
     "ipv4": [
-      "191.243.176.0/20"
+      "191.243.176.0/21",
+      "191.243.184.0/22"
     ],
     "ipv6": []
   }

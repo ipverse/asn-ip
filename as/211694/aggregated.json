@@ -4,6 +4,7 @@
   "description": "Alpes Networks SAS",
   "subnets": {
     "ipv4": [
+      "91.229.132.0/23",
       "185.244.237.0/24"
     ],
     "ipv6": [

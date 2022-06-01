@@ -4,7 +4,6 @@
   "description": "Fiber Link BD",
   "subnets": {
     "ipv4": [
-      "103.165.158.0/24",
       "202.94.165.0/24"
     ],
     "ipv6": [

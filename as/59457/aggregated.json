@@ -4,12 +4,10 @@
   "description": "AVAX NET doo za telekomunikacije, racunarski inzenjering, konsalting i promet Lukavac",
   "subnets": {
     "ipv4": [
-      "5.149.64.0/23",
+      "5.149.65.0/24",
       "5.149.67.0/24",
-      "5.149.68.0/22",
-      "5.149.72.0/22",
-      "5.149.76.0/23",
-      "5.149.92.0/22"
+      "5.149.68.0/23",
+      "5.149.70.0/24"
     ],
     "ipv6": []
   }

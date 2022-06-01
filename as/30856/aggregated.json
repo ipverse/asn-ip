@@ -4,9 +4,7 @@
   "description": "OJSC EVRAZ Nizhny Tagil Metallurgical Plant",
   "subnets": {
     "ipv4": [
-      "217.114.240.0/22",
-      "217.114.244.0/23",
-      "217.114.246.0/24"
+      "217.114.240.0/21"
     ],
     "ipv6": []
   }

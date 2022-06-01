@@ -3,9 +3,7 @@
   "handle": "YUSERVICE",
   "description": "LLC YUSERVICE",
   "subnets": {
-    "ipv4": [
-      "193.232.60.0/22"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

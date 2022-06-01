@@ -3,7 +3,9 @@
   "handle": "FIGUEIREDO-E-SILVA-EPP",
   "description": "FIGUEIREDO E SILVA - EPP",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "168.0.20.0/22"
+    ],
     "ipv6": []
   }
 }

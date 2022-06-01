@@ -3,9 +3,7 @@
   "handle": "HBHGA",
   "description": "The Original Honey Baked Ham Company of Georgia, Inc.",
   "subnets": {
-    "ipv4": [
-      "216.253.66.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

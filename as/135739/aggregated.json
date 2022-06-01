@@ -3,10 +3,7 @@
   "handle": "INETWORK-IN",
   "description": "Inetwork Solutions Pvt Ltd",
   "subnets": {
-    "ipv4": [
-      "103.76.101.0/24",
-      "103.76.102.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }
