@@ -3,9 +3,7 @@
   "handle": "CHINANET-JIANGSU-NANJING-MAN",
   "description": "China Telecom",
   "subnets": {
-    "ipv4": [
-      "121.229.144.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "MEGA-CENTRUM-PLUS",
   "description": "MEGA CENTRUM PLUS Ryszard Zak",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "156.67.107.0/24"
+    ],
     "ipv6": []
   }
 }

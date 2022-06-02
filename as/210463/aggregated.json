@@ -3,7 +3,9 @@
   "handle": "CRYTEKGMBH",
   "description": "Crytek GmbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "146.19.77.0/24"
+    ],
     "ipv6": []
   }
 }

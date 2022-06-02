@@ -3,7 +3,9 @@
   "handle": "MASISNET",
   "description": "KIM-RAY Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "31.47.199.0/24"
+    ],
     "ipv6": []
   }
 }

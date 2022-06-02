@@ -4,7 +4,6 @@
   "description": "M.G. Mead and Company",
   "subnets": {
     "ipv4": [
-      "74.85.90.0/23",
       "192.245.253.0/24"
     ],
     "ipv6": []

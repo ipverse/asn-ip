@@ -3,7 +3,13 @@
   "handle": "STC-NET",
   "description": "Selena Telecom LLC",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "94.137.64.0/21",
+      "94.137.80.0/21",
+      "94.137.88.0/24"
+    ],
+    "ipv6": [
+      "2a05:c440::/48"
+    ]
   }
 }

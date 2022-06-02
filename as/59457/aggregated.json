@@ -3,12 +3,7 @@
   "handle": "AVAX-BOSNIA",
   "description": "AVAX NET doo za telekomunikacije, racunarski inzenjering, konsalting i promet Lukavac",
   "subnets": {
-    "ipv4": [
-      "5.149.65.0/24",
-      "5.149.67.0/24",
-      "5.149.68.0/23",
-      "5.149.70.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

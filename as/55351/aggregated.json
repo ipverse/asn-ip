@@ -4,7 +4,8 @@
   "description": "KAIZEN INFONET PRIVATE LIMITED",
   "subnets": {
     "ipv4": [
-      "43.252.196.0/24"
+      "43.252.196.0/24",
+      "183.182.88.0/24"
     ],
     "ipv6": []
   }

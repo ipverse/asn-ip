@@ -1,0 +1,11 @@
+{
+  "asn": 149693,
+  "handle": "IDNIC-DATAMEDIA-ID",
+  "description": "PT Jaringan Datamedia Nusantara",
+  "subnets": {
+    "ipv4": [
+      "103.186.97.0/24"
+    ],
+    "ipv6": []
+  }
+}

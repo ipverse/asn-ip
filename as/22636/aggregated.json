@@ -4,8 +4,7 @@
   "description": "Nova Scotia Power, Inc.",
   "subnets": {
     "ipv4": [
-      "142.67.0.0/18",
-      "142.67.192.0/18"
+      "142.67.0.0/21"
     ],
     "ipv6": []
   }

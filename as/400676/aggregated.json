@@ -4,7 +4,8 @@
   "description": "illumifin Corporation",
   "subnets": {
     "ipv4": [
-      "35.131.152.0/24"
+      "35.131.152.0/24",
+      "158.120.126.0/24"
     ],
     "ipv6": []
   }

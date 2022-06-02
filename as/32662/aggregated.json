@@ -3,9 +3,7 @@
   "handle": "GMCR",
   "description": "GREEN MOUNTAIN COFFEE ROASTERS, INC.",
   "subnets": {
-    "ipv4": [
-      "159.18.191.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

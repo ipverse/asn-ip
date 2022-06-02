@@ -3,7 +3,10 @@
   "handle": "MW-CABLE",
   "description": "Midwest Cable",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "207.170.64.0/18",
+      "209.16.0.0/18"
+    ],
     "ipv6": [
       "2a12:f3c0::/29"
     ]

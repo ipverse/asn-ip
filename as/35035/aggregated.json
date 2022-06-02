@@ -3,7 +3,9 @@
   "handle": "UTCP",
   "description": "C.S.T. Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.18.88.0/23"
+    ],
     "ipv6": []
   }
 }

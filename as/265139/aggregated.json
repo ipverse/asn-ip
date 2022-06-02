@@ -4,7 +4,8 @@
   "description": "OXENTE NET EMPREENDIMENTOS LTDA - EPP",
   "subnets": {
     "ipv4": [
-      "143.255.52.0/22"
+      "143.255.52.0/22",
+      "186.216.30.0/24"
     ],
     "ipv6": [
       "2804:2b2c::/32"

@@ -3,9 +3,7 @@
   "handle": "IDNIC-PRODIGY-ID",
   "description": "PT Interactive Prima Online",
   "subnets": {
-    "ipv4": [
-      "209.133.79.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

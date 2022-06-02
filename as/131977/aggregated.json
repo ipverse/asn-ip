@@ -1,11 +1,9 @@
 {
   "asn": 131977,
-  "handle": "ASJPFCHIBA",
+  "handle": "JPF-WEB",
   "description": "Japan Photo Finish Corporation",
   "subnets": {
-    "ipv4": [
-      "103.159.140.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

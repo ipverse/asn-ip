@@ -3,9 +3,7 @@
   "handle": "EECS",
   "description": "East-European Communication Services Ltd",
   "subnets": {
-    "ipv4": [
-      "193.28.186.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

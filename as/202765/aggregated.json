@@ -3,9 +3,7 @@
   "handle": "ANTSERV-NET",
   "description": "TIS Dialog LLC",
   "subnets": {
-    "ipv4": [
-      "193.39.220.0/22"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }
