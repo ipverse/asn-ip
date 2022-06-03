@@ -4,6 +4,7 @@
   "description": "Airtel Rwanda Ltd",
   "subnets": {
     "ipv4": [
+      "41.243.20.0/24",
       "154.159.245.0/24"
     ],
     "ipv6": []

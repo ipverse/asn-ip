@@ -4,6 +4,7 @@
   "description": "A B DA SILVA MULTIMIDIA - ME",
   "subnets": {
     "ipv4": [
+      "190.89.148.0/24",
       "190.89.150.0/24"
     ],
     "ipv6": [

@@ -3,9 +3,7 @@
   "handle": "LUIS-SEVERO-ZAPAD",
   "description": "LTD Luis+Severo-Zapad",
   "subnets": {
-    "ipv4": [
-      "193.35.109.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

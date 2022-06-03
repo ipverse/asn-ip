@@ -3,9 +3,7 @@
   "handle": "CARUS",
   "description": "Carus Tech AB LTD",
   "subnets": {
-    "ipv4": [
-      "185.217.4.0/22"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

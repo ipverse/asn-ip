@@ -3,7 +3,9 @@
   "handle": "AVNIINFOTECH",
   "description": "AVNI INFOTECH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "137.59.8.0/22"
+    ],
     "ipv6": []
   }
 }

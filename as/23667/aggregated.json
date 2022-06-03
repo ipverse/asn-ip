@@ -4,8 +4,7 @@
   "description": "Commonwealth Bureau of Meteorology",
   "subnets": {
     "ipv4": [
-      "134.178.0.0/16",
-      "192.245.111.0/24"
+      "134.178.0.0/16"
     ],
     "ipv6": []
   }

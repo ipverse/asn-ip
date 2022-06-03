@@ -3,7 +3,9 @@
   "handle": "TPRK",
   "description": "OOO Telepark",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.233.150.0/23"
+    ],
     "ipv6": []
   }
 }

@@ -4,8 +4,7 @@
   "description": "City of Colorado Springs",
   "subnets": {
     "ipv4": [
-      "158.120.0.0/21",
-      "204.131.210.0/24"
+      "158.120.0.0/21"
     ],
     "ipv6": []
   }

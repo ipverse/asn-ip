@@ -3,7 +3,10 @@
   "handle": "WHITEHAT",
   "description": "WhiteHat Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "136.175.224.0/22",
+      "165.140.8.0/22"
+    ],
     "ipv6": [
       "2602:fbe9::/36",
       "2602:fcf6::/36"

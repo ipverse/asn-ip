@@ -4,7 +4,8 @@
   "description": "ROMERO JOSE ALBERTO",
   "subnets": {
     "ipv4": [
-      "45.191.84.0/23"
+      "45.191.84.0/23",
+      "45.191.87.0/24"
     ],
     "ipv6": []
   }

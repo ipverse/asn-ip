@@ -3,9 +3,7 @@
   "handle": "SONA-AS2",
   "description": "Sona Business B.V.",
   "subnets": {
-    "ipv4": [
-      "45.133.160.0/22"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

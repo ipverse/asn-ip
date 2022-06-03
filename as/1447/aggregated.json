@@ -4,7 +4,6 @@
   "description": "Chipotle Mexican Grill, INC",
   "subnets": {
     "ipv4": [
-      "63.150.164.0/24",
       "198.13.74.0/23"
     ],
     "ipv6": []

@@ -3,7 +3,9 @@
   "handle": "AIC-AP",
   "description": "ASIA INTEL Communications",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.104.242.0/23"
+    ],
     "ipv6": []
   }
 }
