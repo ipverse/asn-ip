@@ -4,7 +4,6 @@
   "description": "University of Michigan - Dearborn",
   "subnets": {
     "ipv4": [
-      "35.7.224.0/19",
       "141.215.0.0/16"
     ],
     "ipv6": []

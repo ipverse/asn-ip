@@ -4,6 +4,7 @@
   "description": "DOVETEL COMMUNICATIONS, LLC.",
   "subnets": {
     "ipv4": [
+      "162.213.56.0/22",
       "199.16.176.0/22",
       "199.115.120.0/22",
       "199.182.56.0/22",

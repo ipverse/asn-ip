@@ -3,7 +3,9 @@
   "handle": "NETJOIN",
   "description": "Michele Pietravalle trading as NetJoin",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.188.230.0/23"
+    ],
     "ipv6": [
       "2a12:e6c0::/47",
       "2a12:e6c0:2::/48"

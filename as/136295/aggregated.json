@@ -3,10 +3,7 @@
   "handle": "JBPL",
   "description": "Jadhav Broadband Private Limited",
   "subnets": {
-    "ipv4": [
-      "103.111.113.0/24",
-      "103.111.114.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

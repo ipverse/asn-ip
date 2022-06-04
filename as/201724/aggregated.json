@@ -3,9 +3,7 @@
   "handle": "MOSTOSTAL",
   "description": "Mostostal Power Development Sp zoo",
   "subnets": {
-    "ipv4": [
-      "81.15.196.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

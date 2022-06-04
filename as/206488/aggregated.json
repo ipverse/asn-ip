@@ -3,9 +3,7 @@
   "handle": "AS1-SELECTASTERISCO",
   "description": "Select Asterisco S.L.",
   "subnets": {
-    "ipv4": [
-      "185.185.92.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

@@ -1,0 +1,11 @@
+{
+  "asn": 149732,
+  "handle": "IDNIC-CONNEXIST-ID",
+  "description": "PT Connexist Indonesia",
+  "subnets": {
+    "ipv4": [
+      "103.188.13.0/24"
+    ],
+    "ipv6": []
+  }
+}

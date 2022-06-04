@@ -3,7 +3,9 @@
   "handle": "EGHERT-INFORMTICA-LTDA-ME",
   "description": "Eghert Informtica Ltda ME",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "179.63.76.0/22"
+    ],
     "ipv6": [
       "2804:7d28::/32"
     ]

@@ -1,0 +1,13 @@
+{
+  "asn": 57373,
+  "handle": "ESIEA-PEDAGO",
+  "description": "Groupe ESIEA Association declaree",
+  "subnets": {
+    "ipv4": [
+      "94.143.228.0/24"
+    ],
+    "ipv6": [
+      "2a12:a580::/29"
+    ]
+  }
+}

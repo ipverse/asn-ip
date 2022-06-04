@@ -4,7 +4,6 @@
   "description": "Iranian Presidential Administration",
   "subnets": {
     "ipv4": [
-      "37.137.37.0/24",
       "194.225.148.0/23"
     ],
     "ipv6": []

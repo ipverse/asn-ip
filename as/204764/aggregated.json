@@ -4,6 +4,7 @@
   "description": "INTERNATIONAL BUSINESS MACHINES CORPORATION",
   "subnets": {
     "ipv4": [
+      "129.35.23.0/24",
       "185.179.180.0/22"
     ],
     "ipv6": []

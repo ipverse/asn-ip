@@ -4,7 +4,8 @@
   "description": "Ten G Network Solution Private Limited",
   "subnets": {
     "ipv4": [
-      "103.121.240.0/22"
+      "103.121.240.0/24",
+      "103.121.242.0/23"
     ],
     "ipv6": []
   }

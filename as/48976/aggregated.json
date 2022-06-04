@@ -4,8 +4,6 @@
   "description": "Nearoute Limited",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2a12:e100:4::/48"
-    ]
+    "ipv6": []
   }
 }
