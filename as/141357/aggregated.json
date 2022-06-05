@@ -1,0 +1,11 @@
+{
+  "asn": 141357,
+  "handle": "FIRSTNETWORK-AP",
+  "description": "FIRST NETWORK",
+  "subnets": {
+    "ipv4": [
+      "103.174.230.0/23"
+    ],
+    "ipv6": []
+  }
+}

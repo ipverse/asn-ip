@@ -3,11 +3,7 @@
   "handle": "AIS-2022",
   "description": "African Network Information Center - ( AfriNIC Ltd. )",
   "subnets": {
-    "ipv4": [
-      "196.61.0.0/22"
-    ],
-    "ipv6": [
-      "2001:43f8:220::/48"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

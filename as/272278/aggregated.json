@@ -3,7 +3,9 @@
   "handle": "MVW-TELECOMUNICAES",
   "description": "MVW Telecomunicaes",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "179.42.30.0/24"
+    ],
     "ipv6": [
       "2804:84bc::/32"
     ]
