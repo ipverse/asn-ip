@@ -4,9 +4,12 @@
   "description": "HGC GLOBALCENTRE (HONG KONG) LIMITED",
   "subnets": {
     "ipv4": [
+      "1.38.56.0/22",
       "1.38.209.0/24",
       "1.38.210.0/23"
     ],
-    "ipv6": []
+    "ipv6": [
+      "2402:3a80:c026::/48"
+    ]
   }
 }

@@ -3,7 +3,9 @@
   "handle": "V-R-TELECOM-LTDA-EPP",
   "description": "V \u0026 R TELECOM LTDA EPP",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.5.6.0/23"
+    ],
     "ipv6": []
   }
 }

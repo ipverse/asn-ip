@@ -3,13 +3,7 @@
   "handle": "ZEUG",
   "description": "Maximilian Schieder trading as Zeug e.K.",
   "subnets": {
-    "ipv4": [
-      "2.58.54.0/24",
-      "45.12.120.0/24",
-      "45.86.127.0/24"
-    ],
-    "ipv6": [
-      "2a0e:46c0::/31"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

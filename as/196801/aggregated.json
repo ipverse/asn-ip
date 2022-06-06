@@ -3,7 +3,9 @@
   "handle": "ASCHIMBG",
   "description": "Chimimport Plc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "95.87.251.0/24"
+    ],
     "ipv6": []
   }
 }
