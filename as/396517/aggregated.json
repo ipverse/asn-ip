@@ -3,7 +3,9 @@
   "handle": "AIROCOMM-01",
   "description": "AiroComm, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "198.21.82.0/23"
+    ],
     "ipv6": []
   }
 }

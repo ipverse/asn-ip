@@ -1,0 +1,13 @@
+{
+  "asn": 271646,
+  "handle": "ULTRALINK-TELECOM-LTDA-ME",
+  "description": "ULTRALINK TELECOM LTDA - ME",
+  "subnets": {
+    "ipv4": [
+      "167.249.70.0/23"
+    ],
+    "ipv6": [
+      "2804:7ec4::/33"
+    ]
+  }
+}

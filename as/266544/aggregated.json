@@ -3,7 +3,9 @@
   "handle": "GLINK-TECNOLOGIA-LTDA",
   "description": "GLINK TECNOLOGIA LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.65.204.0/22"
+    ],
     "ipv6": [
       "2804:3da4::/32"
     ]

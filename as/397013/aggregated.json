@@ -3,7 +3,9 @@
   "handle": "ALEGEUS-02-US",
   "description": "ALEGEUS TECHNOLOGIES, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "198.252.168.0/24"
+    ],
     "ipv6": []
   }
 }

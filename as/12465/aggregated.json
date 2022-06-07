@@ -3,9 +3,7 @@
   "handle": "ISP-ASN5",
   "description": "Intesa Sanpaolo S.p.A.",
   "subnets": {
-    "ipv4": [
-      "62.128.80.0/20"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

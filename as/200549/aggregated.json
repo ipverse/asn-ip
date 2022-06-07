@@ -1,0 +1,11 @@
+{
+  "asn": 200549,
+  "handle": "CLDIN-OOB-ES",
+  "description": "CLDIN B.V.",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a00:5ac0::/48"
+    ]
+  }
+}

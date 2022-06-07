@@ -3,7 +3,11 @@
   "handle": "GNET-SERVICOS-DE",
   "description": "GNET SERVICOS DE COMUNICACAO E MULTIMIDIA EIRELI",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "143.208.92.0/22"
+    ],
+    "ipv6": [
+      "2804:2ad8::/32"
+    ]
   }
 }

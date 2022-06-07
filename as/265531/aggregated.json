@@ -4,8 +4,7 @@
   "description": "LUMENET COMUNICACIONES S. DE R.L. DE C.V.",
   "subnets": {
     "ipv4": [
-      "45.6.140.0/24",
-      "45.6.142.0/23",
+      "45.6.140.0/22",
       "64.68.223.0/24"
     ],
     "ipv6": []

@@ -3,7 +3,9 @@
   "handle": "FLORES-MESSA-JORGE",
   "description": "FLORES MESSA JORGE MARCELO (MSS INTERNET)",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.176.86.0/23"
+    ],
     "ipv6": []
   }
 }

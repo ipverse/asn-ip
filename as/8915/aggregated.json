@@ -3,7 +3,9 @@
   "handle": "DELFA",
   "description": "Company Delfa Co. Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "80.90.176.0/22"
+    ],
     "ipv6": [
       "2a00:1818::/32"
     ]

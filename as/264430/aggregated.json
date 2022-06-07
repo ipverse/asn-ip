@@ -3,7 +3,11 @@
   "handle": "RESERV-INTERNET-LTDA",
   "description": "RESERV INTERNET LTDA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "131.221.196.0/22"
+    ],
+    "ipv6": [
+      "2804:1e74::/32"
+    ]
   }
 }

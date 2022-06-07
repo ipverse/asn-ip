@@ -3,7 +3,9 @@
   "handle": "PRISAC-AP",
   "description": "PRISAC AVIATION TECHNOLOGIES PRIVATE LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.112.201.0/24"
+    ],
     "ipv6": []
   }
 }

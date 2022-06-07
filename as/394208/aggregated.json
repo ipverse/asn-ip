@@ -3,9 +3,7 @@
   "handle": "CANCAPITAL",
   "description": "CAN Capital, Inc.",
   "subnets": {
-    "ipv4": [
-      "50.233.63.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

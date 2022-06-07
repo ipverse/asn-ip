@@ -3,7 +3,9 @@
   "handle": "HT",
   "description": "Hawe Telekom Sp. z.o.o.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "37.139.148.0/23"
+    ],
     "ipv6": []
   }
 }
