@@ -3,7 +3,9 @@
   "handle": "IDNIC-DATAMEDIA-ID",
   "description": "PT Jaringan Datamedia Nusantara",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.186.96.0/23"
+    ],
     "ipv6": []
   }
 }

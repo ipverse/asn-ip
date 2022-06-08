@@ -3,7 +3,9 @@
   "handle": "NET-COM-LTDA",
   "description": "NET\u0026COM LTDA.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.179.200.0/23"
+    ],
     "ipv6": []
   }
 }

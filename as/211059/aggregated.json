@@ -4,8 +4,11 @@
   "description": "Tribeka Web Advisors S.A.",
   "subnets": {
     "ipv4": [
+      "194.135.24.0/24",
       "195.133.20.0/24"
     ],
-    "ipv6": []
+    "ipv6": [
+      "2a11:4c0:4::/48"
+    ]
   }
 }

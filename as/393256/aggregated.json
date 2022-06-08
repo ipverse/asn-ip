@@ -4,6 +4,7 @@
   "description": "DTE Energy Company",
   "subnets": {
     "ipv4": [
+      "162.9.0.0/17",
       "204.124.152.0/22"
     ],
     "ipv6": []

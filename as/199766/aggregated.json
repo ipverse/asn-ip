@@ -3,10 +3,7 @@
   "handle": "SOVEREIGN",
   "description": "Sovereign Business Integration Group plc",
   "subnets": {
-    "ipv4": [
-      "91.229.187.0/24",
-      "185.43.144.0/22"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2a04:9600::/29"
     ]

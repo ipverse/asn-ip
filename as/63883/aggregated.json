@@ -4,7 +4,6 @@
   "description": "PT Senosan Multi Artha",
   "subnets": {
     "ipv4": [
-      "103.40.92.0/23",
       "103.62.202.0/23"
     ],
     "ipv6": []

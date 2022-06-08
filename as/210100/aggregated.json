@@ -4,7 +4,8 @@
   "description": "Pedro Javier Pantoja Alcaraz",
   "subnets": {
     "ipv4": [
-      "193.142.32.0/22"
+      "193.142.33.0/24",
+      "193.142.34.0/23"
     ],
     "ipv6": []
   }

@@ -3,7 +3,9 @@
   "handle": "SOMETHINGHOST",
   "description": "SOMETHING SINGLE MEMBER P.C.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "213.5.128.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "BROWSEPOINT",
   "description": "BrowsePoint Telecom Nigeria Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "102.217.8.0/22"
+    ],
     "ipv6": []
   }
 }

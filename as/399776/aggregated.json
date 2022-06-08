@@ -1,0 +1,11 @@
+{
+  "asn": 399776,
+  "handle": "PBC-SEA-WA-POP",
+  "description": "Premera Blue Cross",
+  "subnets": {
+    "ipv4": [
+      "199.187.88.0/23"
+    ],
+    "ipv6": []
+  }
+}

@@ -3,9 +3,7 @@
   "handle": "LINNITSOLUTION-AP",
   "description": "Linn IT Solution Company Limited",
   "subnets": {
-    "ipv4": [
-      "103.149.50.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

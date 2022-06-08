@@ -3,7 +3,9 @@
   "handle": "PREMIERPLUS",
   "description": "TOV Premier Plus",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.220.104.0/24"
+    ],
     "ipv6": []
   }
 }

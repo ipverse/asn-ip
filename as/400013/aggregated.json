@@ -3,7 +3,9 @@
   "handle": "WAUPACA-FOUNDRY-INC",
   "description": "Waupaca Foundry, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "47.225.227.0/24"
+    ],
     "ipv6": [
       "2602:80c:1000::/48",
       "2602:80c:1005::/48",
