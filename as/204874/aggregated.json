@@ -3,7 +3,9 @@
   "handle": "SWISHHOST",
   "description": "Swish Technologies B.V.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.57.166.0/24"
+    ],
     "ipv6": [
       "2a03:5840:280::/44"
     ]

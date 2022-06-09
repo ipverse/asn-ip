@@ -4,6 +4,7 @@
   "description": "Freeport-McMoRan Inc.",
   "subnets": {
     "ipv4": [
+      "157.30.0.0/22",
       "157.30.8.0/22",
       "157.30.28.0/22"
     ],

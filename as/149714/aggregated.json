@@ -3,7 +3,9 @@
   "handle": "IDNIC-LAROS-ID",
   "description": "PT Lare Osing Ndo",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.186.212.0/23"
+    ],
     "ipv6": []
   }
 }

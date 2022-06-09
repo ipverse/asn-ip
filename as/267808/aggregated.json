@@ -4,8 +4,7 @@
   "description": "Empresa de Servicios de TV por Cable SA",
   "subnets": {
     "ipv4": [
-      "45.172.24.0/24",
-      "45.172.26.0/23"
+      "45.172.24.0/22"
     ],
     "ipv6": []
   }

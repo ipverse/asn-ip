@@ -1,0 +1,11 @@
+{
+  "asn": 400503,
+  "handle": "DAN-SMITH-LLC",
+  "description": "Dan Smith LLC",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2602:fbb4::/40"
+    ]
+  }
+}

@@ -4,7 +4,8 @@
   "description": "Real Image Internet",
   "subnets": {
     "ipv4": [
-      "41.204.0.0/19"
+      "41.204.0.0/19",
+      "196.28.7.0/24"
     ],
     "ipv6": []
   }

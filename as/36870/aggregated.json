@@ -3,7 +3,10 @@
   "handle": "IT-WORX",
   "description": "ITWorx",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "196.22.5.0/24",
+      "196.22.7.0/24"
+    ],
     "ipv6": []
   }
 }

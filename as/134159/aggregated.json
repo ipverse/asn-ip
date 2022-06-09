@@ -3,7 +3,9 @@
   "handle": "NMSTL-AP",
   "description": "NMS TECHNOLOGIES LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.115.226.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,10 +3,7 @@
   "handle": "SDCN1",
   "description": "BORDERS ONLINE LTD",
   "subnets": {
-    "ipv4": [
-      "185.34.61.0/24",
-      "198.52.46.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

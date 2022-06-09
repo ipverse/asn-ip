@@ -3,7 +3,9 @@
   "handle": "OPENOFFICE",
   "description": "Bacher EDV-Beratung AG",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "80.76.0.0/21"
+    ],
     "ipv6": []
   }
 }
