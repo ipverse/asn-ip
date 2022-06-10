@@ -1,0 +1,11 @@
+{
+  "asn": 272491,
+  "handle": "ALLPHA-TELECOM",
+  "description": "Allpha Telecom",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2804:8200::/32"
+    ]
+  }
+}

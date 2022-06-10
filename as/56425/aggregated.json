@@ -3,7 +3,9 @@
   "handle": "HANDY",
   "description": "JSC HandySolutions",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.223.138.0/24"
+    ],
     "ipv6": []
   }
 }

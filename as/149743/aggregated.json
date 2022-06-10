@@ -1,0 +1,11 @@
+{
+  "asn": 149743,
+  "handle": "IDNIC-GGI-ID",
+  "description": "PT Global Green Indonesia",
+  "subnets": {
+    "ipv4": [
+      "103.189.64.0/23"
+    ],
+    "ipv6": []
+  }
+}

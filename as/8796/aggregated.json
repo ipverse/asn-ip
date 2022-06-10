@@ -3,7 +3,9 @@
   "handle": "FD-298",
   "description": "FASTNET DATA INC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "154.31.136.0/21"
+    ],
     "ipv6": [
       "2602:fce1:200::/48",
       "2602:fce1:221::/48",

@@ -4,7 +4,6 @@
   "description": "PT Rajeg Media Telekomunikasi",
   "subnets": {
     "ipv4": [
-      "103.162.145.0/24",
       "103.167.170.0/23"
     ],
     "ipv6": []

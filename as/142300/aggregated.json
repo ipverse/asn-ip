@@ -1,0 +1,13 @@
+{
+  "asn": 142300,
+  "handle": "KK-AP",
+  "description": "KK TELECOM PRIVATE LIMITED",
+  "subnets": {
+    "ipv4": [
+      "103.150.208.0/23",
+      "103.167.162.0/24",
+      "223.29.228.0/23"
+    ],
+    "ipv6": []
+  }
+}

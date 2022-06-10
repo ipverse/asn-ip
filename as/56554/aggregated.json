@@ -4,8 +4,6 @@
   "description": "Internet Society",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2001:67c:370::/48"
-    ]
+    "ipv6": []
   }
 }

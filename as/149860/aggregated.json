@@ -1,0 +1,11 @@
+{
+  "asn": 149860,
+  "handle": "FTLINK-AP",
+  "description": "F.T LINK BD",
+  "subnets": {
+    "ipv4": [
+      "103.189.66.0/24"
+    ],
+    "ipv6": []
+  }
+}

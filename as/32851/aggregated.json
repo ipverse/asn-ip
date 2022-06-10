@@ -4,6 +4,7 @@
   "description": "Wal-Mart Stores, Inc.",
   "subnets": {
     "ipv4": [
+      "63.79.88.0/22",
       "161.168.0.0/16",
       "184.185.65.0/24"
     ],

@@ -4,8 +4,7 @@
   "description": "M. M. SERVIOS DE INFORMTICA LTDA ME",
   "subnets": {
     "ipv4": [
-      "190.111.136.0/24",
-      "190.111.138.0/23"
+      "190.111.136.0/22"
     ],
     "ipv6": [
       "2804:6dc4::/32"

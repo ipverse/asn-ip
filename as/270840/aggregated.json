@@ -4,7 +4,8 @@
   "description": "Estado Virtual Solues em Tecnologia",
   "subnets": {
     "ipv4": [
-      "179.0.168.0/22"
+      "179.0.168.0/24",
+      "179.0.170.0/23"
     ],
     "ipv6": [
       "2804:7238::/32"

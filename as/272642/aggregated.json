@@ -1,0 +1,11 @@
+{
+  "asn": 272642,
+  "handle": "FIBRA-FIRE-NET",
+  "description": "Fibra Fire Net Comunicacoes LTDA",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2804:866c::/32"
+    ]
+  }
+}

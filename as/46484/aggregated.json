@@ -3,9 +3,7 @@
   "handle": "MFENET",
   "description": "McAfee, LLC",
   "subnets": {
-    "ipv4": [
-      "161.69.226.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

@@ -1,0 +1,11 @@
+{
+  "asn": 133916,
+  "handle": "NEXTTECHBD-AP",
+  "description": "Next Tech BD",
+  "subnets": {
+    "ipv4": [
+      "103.187.94.0/24"
+    ],
+    "ipv6": []
+  }
+}
