@@ -4,8 +4,7 @@
   "description": "SURVIVOR Bilisim Teknolojileri A.S.",
   "subnets": {
     "ipv4": [
-      "185.78.84.0/23",
-      "185.78.87.0/24",
+      "185.78.84.0/22",
       "185.174.68.0/22"
     ],
     "ipv6": []

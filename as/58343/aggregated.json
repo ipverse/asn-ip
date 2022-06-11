@@ -3,7 +3,9 @@
   "handle": "CORE-TELECOMPUTING-SE",
   "description": "Advania Sverige 35 AB",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.105.113.0/24"
+    ],
     "ipv6": [
       "2001:67c:644::/48",
       "2a02:24a0::/32"

@@ -3,9 +3,7 @@
   "handle": "AGRESTE-ONLINE-LTDA-ME",
   "description": "AGRESTE ONLINE LTDA - ME",
   "subnets": {
-    "ipv4": [
-      "170.245.120.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

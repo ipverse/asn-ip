@@ -4,6 +4,7 @@
   "description": "PT Relabs Net Daya Cipta",
   "subnets": {
     "ipv4": [
+      "103.163.184.0/24",
       "103.170.30.0/23"
     ],
     "ipv6": [

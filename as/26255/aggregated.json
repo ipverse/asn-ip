@@ -4,6 +4,7 @@
   "description": "Oakton Community College",
   "subnets": {
     "ipv4": [
+      "63.250.227.0/24",
       "192.234.14.0/23",
       "192.234.16.0/24"
     ],

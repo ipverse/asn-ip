@@ -3,9 +3,7 @@
   "handle": "MTL10",
   "description": "Moya Telcom (PTY) Limited",
   "subnets": {
-    "ipv4": [
-      "102.217.60.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

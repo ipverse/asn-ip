@@ -3,7 +3,9 @@
   "handle": "TEC-NET",
   "description": "TEC NET",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "128.201.34.0/24"
+    ],
     "ipv6": [
       "2804:7dbc::/32"
     ]

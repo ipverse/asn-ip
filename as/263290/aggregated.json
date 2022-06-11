@@ -3,7 +3,9 @@
   "handle": "IMUNIDADE-DIGITAL-SERVICOS",
   "description": "IMUNIDADE DIGITAL SERVICOS EM COMUNICACAO LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "201.7.164.0/24"
+    ],
     "ipv6": []
   }
 }

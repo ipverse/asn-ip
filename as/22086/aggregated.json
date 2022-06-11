@@ -3,9 +3,7 @@
   "handle": "AMERICAN-CENTRAL-GAS",
   "description": "American Central Gas Technologies, Inc",
   "subnets": {
-    "ipv4": [
-      "65.70.64.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

@@ -4,7 +4,6 @@
   "description": "Ispwifi",
   "subnets": {
     "ipv4": [
-      "91.218.48.0/22",
       "185.104.191.0/24"
     ],
     "ipv6": []
