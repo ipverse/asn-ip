@@ -3,7 +3,11 @@
   "handle": "COMORESTELECOM",
   "description": "Comores Telecom",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "197.255.224.0/20"
+    ],
+    "ipv6": [
+      "2c0f:f560::/32"
+    ]
   }
 }

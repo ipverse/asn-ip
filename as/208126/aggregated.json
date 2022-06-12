@@ -1,0 +1,11 @@
+{
+  "asn": 208126,
+  "handle": "VINET-HU",
+  "description": "ViNetwork Kft.",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a12:91c0::/29"
+    ]
+  }
+}

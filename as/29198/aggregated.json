@@ -3,7 +3,9 @@
   "handle": "SCHENKER",
   "description": "Schenker und Co AG",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "80.121.150.0/24"
+    ],
     "ipv6": []
   }
 }

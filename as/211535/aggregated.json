@@ -3,7 +3,12 @@
   "handle": "CANDYHORSES",
   "description": "Candy Horses LLC",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "23.133.40.0/24"
+    ],
+    "ipv6": [
+      "2602:fbec::/36",
+      "2a10:4741::/44"
+    ]
   }
 }

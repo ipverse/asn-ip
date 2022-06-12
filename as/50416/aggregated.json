@@ -3,7 +3,9 @@
   "handle": "TKBBANK",
   "description": "PUBLIC JOINT STOCK COMPANY TRANSCAPITALBANK",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.232.101.0/24"
+    ],
     "ipv6": []
   }
 }

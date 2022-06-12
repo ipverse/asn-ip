@@ -3,7 +3,10 @@
   "handle": "DAREBIN-AU",
   "description": "City of Darebin",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "202.3.79.0/24",
+      "202.14.98.0/24"
+    ],
     "ipv6": []
   }
 }

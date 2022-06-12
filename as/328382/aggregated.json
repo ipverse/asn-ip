@@ -3,7 +3,9 @@
   "handle": "IPWORLD",
   "description": "IP WORLD MOCAMBIQUE, LDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "102.130.60.0/22"
+    ],
     "ipv6": []
   }
 }

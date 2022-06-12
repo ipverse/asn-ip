@@ -4,7 +4,8 @@
   "description": "Cosmopolitan Communications Limited",
   "subnets": {
     "ipv4": [
-      "103.95.96.0/22",
+      "103.95.96.0/23",
+      "103.95.99.0/24",
       "103.197.204.0/24",
       "103.197.206.0/23"
     ],

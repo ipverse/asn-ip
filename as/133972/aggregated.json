@@ -3,7 +3,12 @@
   "handle": "SKYTELEVENTURES",
   "description": "sky televentures services pvt ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.51.32.0/23",
+      "103.51.35.0/24",
+      "192.140.228.0/23",
+      "192.140.231.0/24"
+    ],
     "ipv6": []
   }
 }
