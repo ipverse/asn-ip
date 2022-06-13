@@ -1,0 +1,13 @@
+{
+  "asn": 149093,
+  "handle": "VPSVIETNAM-VN",
+  "description": "VPS VIET NAM COMPANY LIMITED",
+  "subnets": {
+    "ipv4": [
+      "103.186.24.0/23"
+    ],
+    "ipv6": [
+      "2400:6ca0::/48"
+    ]
+  }
+}

@@ -3,7 +3,9 @@
   "handle": "PARHAN",
   "description": "Karno Tejarat Yasin Company PJS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.96.153.0/24"
+    ],
     "ipv6": []
   }
 }

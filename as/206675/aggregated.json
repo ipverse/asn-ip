@@ -3,7 +3,9 @@
   "handle": "IRANARGHAM",
   "description": "National Cash Register Iran Co.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "77.104.100.0/24"
+    ],
     "ipv6": []
   }
 }
