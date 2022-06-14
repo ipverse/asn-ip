@@ -4,6 +4,8 @@
   "description": "Exagrid",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2602:fbab:e0::/48"
+    ]
   }
 }

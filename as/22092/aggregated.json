@@ -3,11 +3,7 @@
   "handle": "TELEFNICA-BRASIL-SA",
   "description": "TELEFNICA BRASIL S.A",
   "subnets": {
-    "ipv4": [
-      "201.159.148.0/22"
-    ],
-    "ipv6": [
-      "2804:19f0::/32"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

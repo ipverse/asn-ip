@@ -4,6 +4,7 @@
   "description": "Feenix Communications Limited",
   "subnets": {
     "ipv4": [
+      "38.110.164.0/22",
       "103.208.140.0/22",
       "103.250.118.0/24",
       "163.47.109.0/24",

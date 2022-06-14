@@ -3,7 +3,11 @@
   "handle": "SPEEDNET-FRUTAL-INTERNET",
   "description": "SPEEDNET FRUTAL INTERNET FIBRA E WIRELESS",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.239.232.0/22"
+    ],
+    "ipv6": [
+      "2804:5070::/32"
+    ]
   }
 }

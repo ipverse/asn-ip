@@ -3,7 +3,9 @@
   "handle": "XHOST-INTERNET-SOLUTIONS",
   "description": "XHOST INTERNET SOLUTIONS LP",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "80.66.83.0/24"
+    ],
     "ipv6": []
   }
 }

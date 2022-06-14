@@ -3,10 +3,7 @@
   "handle": "UNIC",
   "description": "Unic AG",
   "subnets": {
-    "ipv4": [
-      "193.17.194.0/24",
-      "195.191.132.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

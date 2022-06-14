@@ -1,0 +1,14 @@
+{
+  "asn": 39182,
+  "handle": "NETEX",
+  "description": "Netex Limited",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a11:2680::/29",
+      "2a12:4100::/29",
+      "2a12:4400::/29",
+      "2a12:ae00::/29"
+    ]
+  }
+}
