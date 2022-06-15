@@ -4,7 +4,8 @@
   "description": "Westminster Public Schools",
   "subnets": {
     "ipv4": [
-      "138.199.105.0/24"
+      "138.199.105.0/24",
+      "165.140.54.0/24"
     ],
     "ipv6": []
   }

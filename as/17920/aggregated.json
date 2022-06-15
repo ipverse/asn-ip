@@ -4,8 +4,7 @@
   "description": "LSHIY Network Technology Limited",
   "subnets": {
     "ipv4": [
-      "203.17.208.0/22",
-      "203.18.102.0/24"
+      "203.17.208.0/22"
     ],
     "ipv6": [
       "2404:f4c0:1000::/40"

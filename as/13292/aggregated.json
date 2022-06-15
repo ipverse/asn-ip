@@ -3,7 +3,9 @@
   "handle": "WILLIBALD-HAMBAMMER-TRADING",
   "description": "Willibald Hambammer trading as BK-DAT Electronics e.U.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "213.173.64.0/19"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "SAZALSARKER-AP",
   "description": "Taherpur Online",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.185.21.0/24"
+    ],
     "ipv6": []
   }
 }

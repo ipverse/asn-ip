@@ -4,6 +4,7 @@
   "description": "Cablevision Systems Corp.",
   "subnets": {
     "ipv4": [
+      "65.51.28.0/22",
       "69.74.21.0/24",
       "167.206.119.0/24",
       "167.206.120.0/24",

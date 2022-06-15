@@ -4,7 +4,7 @@
   "description": "ZSL Amusement and Investment Co. Ltd.",
   "subnets": {
     "ipv4": [
-      "103.95.132.0/22"
+      "103.95.132.0/24"
     ],
     "ipv6": []
   }

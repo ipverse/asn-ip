@@ -3,7 +3,10 @@
   "handle": "SCHMELZER",
   "description": "Mario Schmelzer",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "94.124.115.0/24",
+      "103.203.180.0/22"
+    ],
     "ipv6": [
       "2a0b:a1c0::/29"
     ]

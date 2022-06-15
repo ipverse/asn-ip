@@ -1,0 +1,13 @@
+{
+  "asn": 149866,
+  "handle": "SSCNPL-AP",
+  "description": "Super Sitapaila Cable Net Pvt. Ltd",
+  "subnets": {
+    "ipv4": [
+      "103.189.160.0/23"
+    ],
+    "ipv6": [
+      "2400:8760::/32"
+    ]
+  }
+}

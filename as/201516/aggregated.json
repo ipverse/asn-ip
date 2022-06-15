@@ -3,9 +3,7 @@
   "handle": "AXESS-ONLINE-2",
   "description": "Axess OnLine SARL",
   "subnets": {
-    "ipv4": [
-      "194.110.166.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

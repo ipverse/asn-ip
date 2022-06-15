@@ -3,7 +3,9 @@
   "handle": "M-A-LINK",
   "description": "M A Link Telecomunicacoes Consortes Ltda",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "190.89.22.0/24"
+    ],
     "ipv6": [
       "2804:7db8::/32"
     ]

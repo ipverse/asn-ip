@@ -3,9 +3,7 @@
   "handle": "ACCL-AP",
   "description": "Akij Cement Company Limited",
   "subnets": {
-    "ipv4": [
-      "103.155.96.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

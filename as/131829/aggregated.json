@@ -1,0 +1,12 @@
+{
+  "asn": 131829,
+  "handle": "SBISB-KR",
+  "description": "SBI SAVINGS BANK",
+  "subnets": {
+    "ipv4": [
+      "121.254.187.0/24",
+      "211.234.112.0/24"
+    ],
+    "ipv6": []
+  }
+}
