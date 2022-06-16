@@ -4,7 +4,8 @@
   "description": "PT BNI Life Insurance",
   "subnets": {
     "ipv4": [
-      "103.63.233.0/24"
+      "103.63.233.0/24",
+      "103.204.118.0/24"
     ],
     "ipv6": []
   }

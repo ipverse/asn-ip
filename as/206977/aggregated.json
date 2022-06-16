@@ -3,9 +3,7 @@
   "handle": "KTH-PROJECT2022-RPKI",
   "description": "Sergio R. Hernandez Torres",
   "subnets": {
-    "ipv4": [
-      "192.150.82.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

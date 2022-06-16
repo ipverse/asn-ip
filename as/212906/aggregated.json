@@ -3,11 +3,7 @@
   "handle": "MONEROJ-CA",
   "description": "Moneroj s.r.o.",
   "subnets": {
-    "ipv4": [
-      "45.153.160.0/24"
-    ],
-    "ipv6": [
-      "2a0f:9100::/32"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

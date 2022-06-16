@@ -1,0 +1,13 @@
+{
+  "asn": 205094,
+  "handle": "PERSONAL-PACKET",
+  "description": "Tivon Haeberlein",
+  "subnets": {
+    "ipv4": [
+      "213.142.154.0/23"
+    ],
+    "ipv6": [
+      "2a12:f140::/29"
+    ]
+  }
+}

@@ -3,7 +3,9 @@
   "handle": "INFOCLOUD-SRL",
   "description": "INFOCLOUD SRL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "176.119.211.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -1,0 +1,11 @@
+{
+  "asn": 14478,
+  "handle": "RECURSE-CENTER",
+  "description": "Recurse Center",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2602:fb65::/47"
+    ]
+  }
+}

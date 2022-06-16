@@ -3,7 +3,9 @@
   "handle": "MOSTOVOYE-BYURO",
   "description": "Mostovoye Byuro Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "212.193.96.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,12 +3,7 @@
   "handle": "ALKON-SAS",
   "description": "ALKON SAS",
   "subnets": {
-    "ipv4": [
-      "45.231.214.0/23",
-      "45.233.143.0/24"
-    ],
-    "ipv6": [
-      "2803:4f20::/32"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

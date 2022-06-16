@@ -3,11 +3,7 @@
   "handle": "SOUTHCLOUDPTYLTD-AP",
   "description": "SouthCloud Pty Ltd",
   "subnets": {
-    "ipv4": [
-      "103.154.192.0/23"
-    ],
-    "ipv6": [
-      "2406:5d40::/32"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

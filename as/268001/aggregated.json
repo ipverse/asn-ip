@@ -3,11 +3,7 @@
   "handle": "ABASE-SISTEMAS-E-SOLUES-LTDA",
   "description": "ABASE Sistemas e Solues Ltda",
   "subnets": {
-    "ipv4": [
-      "45.165.153.0/24"
-    ],
-    "ipv6": [
-      "2801:80:25a0::/48"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

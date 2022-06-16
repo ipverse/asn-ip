@@ -3,7 +3,9 @@
   "handle": "ENF",
   "description": "Enf Sp. z o.o.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "178.219.16.0/24"
+    ],
     "ipv6": []
   }
 }

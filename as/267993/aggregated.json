@@ -3,7 +3,11 @@
   "handle": "ALPHA-FIBRA-SERVICOS",
   "description": "ALPHA FIBRA SERVICOS DE COMUNICACAO MULTIMIDIA SCM",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.167.204.0/22"
+    ],
+    "ipv6": [
+      "2804:565c::/32"
+    ]
   }
 }

@@ -1,4 +1,7 @@
 # AS265181 (S1-TELECOMUNICAES-E)
 # S1 Telecomunicaes e Sistemas de Informao LTDA
 #
-2804:2bdc::/32
+2804:2bdc::/40
+2804:2bdc:600::/39
+2804:2bdc:800::/40
+2804:2bdc:c00::/40

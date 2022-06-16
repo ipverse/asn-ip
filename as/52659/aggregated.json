@@ -3,7 +3,11 @@
   "handle": "MARALEX-335-SERVICOS",
   "description": "Maralex 335 Servicos de Provedor na Internet LTDA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "177.66.172.0/22"
+    ],
+    "ipv6": [
+      "2804:2614::/32"
+    ]
   }
 }

@@ -1,7 +1,7 @@
 {
   "asn": 134478,
   "handle": "JSMSR-AP",
-  "description": "LSHIY Network Technology Limited",
+  "description": "Wuhan LSHIY Network Technology Co., Ltd.",
   "subnets": {
     "ipv4": [],
     "ipv6": [
@@ -9,6 +9,7 @@
       "2a06:a005:580::/44",
       "2a06:a005:950::/47",
       "2a06:a005:952::/48",
+      "2a06:a005:d00::/44",
       "2a0e:b107:ea2::/48"
     ]
   }

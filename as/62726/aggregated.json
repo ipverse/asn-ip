@@ -3,9 +3,7 @@
   "handle": "WWS-PEN-01",
   "description": "Windward Software Inc.",
   "subnets": {
-    "ipv4": [
-      "198.97.237.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }
