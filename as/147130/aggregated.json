@@ -1,0 +1,11 @@
+{
+  "asn": 147130,
+  "handle": "IDNIC-MINTANET-ID",
+  "description": "PT Mintanet Data Nusantara",
+  "subnets": {
+    "ipv4": [
+      "103.176.121.0/24"
+    ],
+    "ipv6": []
+  }
+}

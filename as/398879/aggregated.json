@@ -4,7 +4,8 @@
   "description": "Susquehanna Broadband, LLC",
   "subnets": {
     "ipv4": [
-      "66.118.24.0/22"
+      "66.118.24.0/22",
+      "158.51.11.0/24"
     ],
     "ipv6": []
   }

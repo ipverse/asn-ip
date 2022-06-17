@@ -4,10 +4,8 @@
   "description": "Wifi Nepal Private Limited",
   "subnets": {
     "ipv4": [
-      "103.166.100.0/23"
+      "103.166.100.0/24"
     ],
-    "ipv6": [
-      "2407:54c0::/32"
-    ]
+    "ipv6": []
   }
 }

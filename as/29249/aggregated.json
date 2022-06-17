@@ -3,9 +3,7 @@
   "handle": "SIGMA",
   "description": "Auditorska firma Audit Consalting LLC",
   "subnets": {
-    "ipv4": [
-      "195.85.250.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

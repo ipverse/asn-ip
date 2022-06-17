@@ -3,7 +3,9 @@
   "handle": "VINET-HU",
   "description": "ViNetwork Kft.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "217.13.110.0/24"
+    ],
     "ipv6": [
       "2a12:91c0::/29"
     ]

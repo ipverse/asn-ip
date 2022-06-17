@@ -3,7 +3,9 @@
   "handle": "BIGBANG-US",
   "description": "Oxun Networks",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "154.37.152.0/22"
+    ],
     "ipv6": []
   }
 }

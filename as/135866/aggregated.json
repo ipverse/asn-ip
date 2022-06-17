@@ -3,10 +3,7 @@
   "handle": "LUCKYAIR",
   "description": "Lucky Airnet Pvt Ltd.",
   "subnets": {
-    "ipv4": [
-      "103.79.164.0/24",
-      "103.79.166.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

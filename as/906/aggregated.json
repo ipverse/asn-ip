@@ -1,0 +1,12 @@
+{
+  "asn": 906,
+  "handle": "DMIT-LEGACY",
+  "description": "DMIT Cloud Services",
+  "subnets": {
+    "ipv4": [
+      "45.88.192.0/23",
+      "154.31.112.0/21"
+    ],
+    "ipv6": []
+  }
+}

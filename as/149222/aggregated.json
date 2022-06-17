@@ -3,7 +3,9 @@
   "handle": "DGPL123-IN",
   "description": "DREAMNET GIGAFIBER PRIVATE LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.179.104.0/23"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "BERRYBYTE",
   "description": "BerryByte Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "104.167.215.0/24"
+    ],
     "ipv6": [
       "2a06:a005:b70::/44",
       "2a06:a005:b80::/43"

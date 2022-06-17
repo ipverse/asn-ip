@@ -3,9 +3,7 @@
   "handle": "ISEG",
   "description": "Groupe I.S.E.G",
   "subnets": {
-    "ipv4": [
-      "185.144.12.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

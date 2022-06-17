@@ -4,7 +4,8 @@
   "description": "Gemini Europe, LTD",
   "subnets": {
     "ipv4": [
-      "8.44.203.0/24"
+      "8.44.203.0/24",
+      "162.217.118.0/24"
     ],
     "ipv6": []
   }
