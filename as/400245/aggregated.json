@@ -4,7 +4,8 @@
   "description": "AlphaCentri Corporation",
   "subnets": {
     "ipv4": [
-      "165.140.124.0/24"
+      "165.140.124.0/24",
+      "165.140.127.0/24"
     ],
     "ipv6": []
   }

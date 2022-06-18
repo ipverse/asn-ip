@@ -3,9 +3,7 @@
   "handle": "PADUMC-IN",
   "description": "Padum Computers",
   "subnets": {
-    "ipv4": [
-      "103.155.74.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

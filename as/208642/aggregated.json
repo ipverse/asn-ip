@@ -3,7 +3,10 @@
   "handle": "IT-WINET",
   "description": "WI-NET S.R.L.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "85.116.144.0/22",
+      "185.202.244.0/22"
+    ],
     "ipv6": []
   }
 }

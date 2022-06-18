@@ -3,7 +3,9 @@
   "handle": "TGNA-WZDX",
   "description": "TEGNA Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "167.8.119.0/24"
+    ],
     "ipv6": []
   }
 }

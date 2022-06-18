@@ -1,0 +1,11 @@
+{
+  "asn": 140646,
+  "handle": "RESETDATAPTYLTD-AP",
+  "description": "ResetData Pty Ltd",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2400:88e0::/32"
+    ]
+  }
+}

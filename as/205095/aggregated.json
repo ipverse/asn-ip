@@ -3,7 +3,9 @@
   "handle": "MERIDIAN-BUSINESS-GRUP",
   "description": "Meridian Business Grup SRL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "85.120.57.0/24"
+    ],
     "ipv6": []
   }
 }
