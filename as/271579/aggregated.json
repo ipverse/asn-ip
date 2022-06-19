@@ -4,8 +4,6 @@
   "description": "TEC NET",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2804:7dbc::/32"
-    ]
+    "ipv6": []
   }
 }

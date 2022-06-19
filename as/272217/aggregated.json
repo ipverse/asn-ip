@@ -3,7 +3,9 @@
   "handle": "DATAENV-TECNOLOGIA-EM",
   "description": "Dataenv Tecnologia em Informacao Ltda.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "200.194.172.0/23"
+    ],
     "ipv6": [
       "2804:83c0::/32"
     ]

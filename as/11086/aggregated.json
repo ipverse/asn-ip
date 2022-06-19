@@ -4,6 +4,7 @@
   "description": "Pitney Bowes Incorporated",
   "subnets": {
     "ipv4": [
+      "103.247.64.0/24",
       "193.242.234.0/24",
       "199.33.137.0/24",
       "199.231.32.0/22",

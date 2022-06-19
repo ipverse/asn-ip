@@ -3,7 +3,10 @@
   "handle": "MUSURIT",
   "description": "MUSURIT",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "131.0.233.0/24",
+      "131.0.234.0/23"
+    ],
     "ipv6": []
   }
 }

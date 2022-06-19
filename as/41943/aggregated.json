@@ -3,7 +3,9 @@
   "handle": "VMI-KISTA",
   "description": "Vaddo Media Information IS AB",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "84.246.134.0/24"
+    ],
     "ipv6": []
   }
 }

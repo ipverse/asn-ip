@@ -1,0 +1,11 @@
+{
+  "asn": 11930,
+  "handle": "CAT",
+  "description": "Cat Networks, Inc.",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2604:e4c0::/48"
+    ]
+  }
+}
