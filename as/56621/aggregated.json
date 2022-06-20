@@ -3,7 +3,10 @@
   "handle": "INTEXLTD",
   "description": "Innovation Technologies Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.238.88.0/22",
+      "195.128.153.0/24"
+    ],
     "ipv6": []
   }
 }

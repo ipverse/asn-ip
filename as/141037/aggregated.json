@@ -3,7 +3,9 @@
   "handle": "IQTEL-AP",
   "description": "IQ-TEL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.186.218.0/23"
+    ],
     "ipv6": []
   }
 }

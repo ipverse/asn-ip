@@ -4,8 +4,7 @@
   "description": "Florestawii Telecom Servicos de Comunicacao LTDA M",
   "subnets": {
     "ipv4": [
-      "45.172.76.0/23",
-      "45.172.78.0/24"
+      "45.172.76.0/22"
     ],
     "ipv6": []
   }

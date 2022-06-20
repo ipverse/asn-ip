@@ -3,7 +3,9 @@
   "handle": "EYASB-AP",
   "description": "Ernst \u0026 Young Advisory Sdn Bhd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.92.18.0/24"
+    ],
     "ipv6": []
   }
 }
