@@ -1,0 +1,12 @@
+{
+  "asn": 7578,
+  "handle": "GSLNETWORKS-AP",
+  "description": "GSL Networks Pty LTD",
+  "subnets": {
+    "ipv4": [
+      "31.217.251.0/24",
+      "103.137.13.0/24"
+    ],
+    "ipv6": []
+  }
+}

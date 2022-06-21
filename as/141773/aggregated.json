@@ -4,8 +4,7 @@
   "description": "Bangladesh Data Center Company Limited",
   "subnets": {
     "ipv4": [
-      "103.163.210.0/23",
-      "203.112.220.0/23"
+      "103.163.210.0/23"
     ],
     "ipv6": []
   }

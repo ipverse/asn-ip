@@ -4,7 +4,8 @@
   "description": "SELIGA TELECOMUNICAES DO BRASIL EIRELI",
   "subnets": {
     "ipv4": [
-      "179.63.178.0/23"
+      "179.63.178.0/23",
+      "201.182.14.0/23"
     ],
     "ipv6": [
       "2804:7da4::/32"

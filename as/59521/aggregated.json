@@ -4,6 +4,7 @@
   "description": "Stichting Kabeltelevisie Pijnacker",
   "subnets": {
     "ipv4": [
+      "45.80.38.0/23",
       "45.115.108.0/22",
       "45.149.52.0/24",
       "103.55.100.0/22",

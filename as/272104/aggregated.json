@@ -1,0 +1,13 @@
+{
+  "asn": 272104,
+  "handle": "LATINCABLE-SRL",
+  "description": "LATINCABLE S.R.L.",
+  "subnets": {
+    "ipv4": [
+      "38.44.236.0/22"
+    ],
+    "ipv6": [
+      "2803:9710::/32"
+    ]
+  }
+}

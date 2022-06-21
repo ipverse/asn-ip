@@ -3,7 +3,9 @@
   "handle": "DEPTAN-ID",
   "description": "KEMENTERIAN PERTANIAN REPUBLIK INDONESIA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "203.190.37.0/24"
+    ],
     "ipv6": []
   }
 }

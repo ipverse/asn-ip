@@ -3,7 +3,9 @@
   "handle": "INTRINO",
   "description": "Intrino Sp. z o.o.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "80.82.24.0/24"
+    ],
     "ipv6": []
   }
 }

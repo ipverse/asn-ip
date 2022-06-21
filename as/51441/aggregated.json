@@ -3,7 +3,9 @@
   "handle": "AGRICOVER",
   "description": "Agricover SA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "89.46.244.0/24"
+    ],
     "ipv6": []
   }
 }

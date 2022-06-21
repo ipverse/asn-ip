@@ -3,9 +3,7 @@
   "handle": "AFFINITY-INTER",
   "description": "Affinity Internet, Inc",
   "subnets": {
-    "ipv4": [
-      "64.41.127.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }
