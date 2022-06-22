@@ -3,12 +3,7 @@
   "handle": "LUX-MSK-VOL",
   "description": "Luxoft Professional Romania S.R.L.",
   "subnets": {
-    "ipv4": [
-      "84.47.146.0/24",
-      "85.91.124.0/23",
-      "85.91.127.0/24",
-      "213.208.171.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

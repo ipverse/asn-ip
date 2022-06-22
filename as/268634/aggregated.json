@@ -3,7 +3,9 @@
   "handle": "BRAZILIAN-TELECOMUNICAES-LTDA",
   "description": "Brazilian Telecomunicaes Ltda - Me",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "187.49.144.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "NYC-DC-02",
   "description": "Exiger LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.68.150.0/24"
+    ],
     "ipv6": []
   }
 }

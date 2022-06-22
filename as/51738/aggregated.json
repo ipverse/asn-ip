@@ -3,10 +3,7 @@
   "handle": "UKRAINKA",
   "description": "FOP Masaltsev Denis Leonidovich",
   "subnets": {
-    "ipv4": [
-      "194.50.144.0/22",
-      "195.162.64.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

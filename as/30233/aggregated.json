@@ -4,7 +4,6 @@
   "description": "Paychex Incorporated",
   "subnets": {
     "ipv4": [
-      "141.123.232.0/22",
       "141.123.252.0/22"
     ],
     "ipv6": []

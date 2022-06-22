@@ -1,0 +1,11 @@
+{
+  "asn": 272725,
+  "handle": "SILASNET-PROVEDOR",
+  "description": "SILASNET PROVEDOR",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2804:87ac::/32"
+    ]
+  }
+}

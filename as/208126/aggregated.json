@@ -4,6 +4,7 @@
   "description": "ViNetwork Kft.",
   "subnets": {
     "ipv4": [
+      "217.13.105.0/24",
       "217.13.110.0/24"
     ],
     "ipv6": [

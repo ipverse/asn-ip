@@ -3,7 +3,9 @@
   "handle": "TECNET-TELECOM-EIRELI-ME",
   "description": "TECNET TELECOM EIRELI ME",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "168.228.216.0/22"
+    ],
     "ipv6": [
       "2804:3014::/32"
     ]

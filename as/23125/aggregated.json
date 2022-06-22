@@ -3,9 +3,7 @@
   "handle": "BWW-DC",
   "description": "Buffalo Wild Wings",
   "subnets": {
-    "ipv4": [
-      "207.189.164.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

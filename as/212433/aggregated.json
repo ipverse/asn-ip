@@ -3,7 +3,9 @@
   "handle": "TAKSITBOL",
   "description": "Taksitbol Bilisim Teknolojileri Ith. Ihr. San. ve Tic. Ltd. Sti.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.143.98.0/24"
+    ],
     "ipv6": []
   }
 }

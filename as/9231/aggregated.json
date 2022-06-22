@@ -4,6 +4,7 @@
   "description": "China Mobile Hong Kong Company Limited",
   "subnets": {
     "ipv4": [
+      "58.82.194.0/23",
       "58.82.240.0/24",
       "182.239.72.0/21",
       "182.239.80.0/21",

@@ -3,13 +3,7 @@
   "handle": "DNIC-0",
   "description": "DoD Network Information Center",
   "subnets": {
-    "ipv4": [
-      "199.9.86.0/24",
-      "199.9.89.0/24",
-      "199.9.90.0/23",
-      "199.9.94.0/24",
-      "199.113.182.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

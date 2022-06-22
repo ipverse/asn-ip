@@ -3,7 +3,9 @@
   "handle": "CONTINENTAL-EMPREENDIMENTOS-EIRELI",
   "description": "CONTINENTAL EMPREENDIMENTOS EIRELI-ME",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.238.76.0/22"
+    ],
     "ipv6": []
   }
 }

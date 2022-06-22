@@ -4,7 +4,7 @@
   "description": "RDS TECNOLOGIA-ME",
   "subnets": {
     "ipv4": [
-      "190.89.20.0/23",
+      "190.89.21.0/24",
       "190.89.23.0/24"
     ],
     "ipv6": [

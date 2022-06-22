@@ -3,7 +3,9 @@
   "handle": "LARITEX-TV",
   "description": "SC LARITEX-TV SRL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "178.175.158.0/24"
+    ],
     "ipv6": []
   }
 }

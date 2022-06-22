@@ -3,7 +3,9 @@
   "handle": "GNTL-AP",
   "description": "Global Network Transit Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.30.16.0/22"
+    ],
     "ipv6": []
   }
 }
