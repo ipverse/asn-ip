@@ -1,0 +1,11 @@
+{
+  "asn": 149813,
+  "handle": "MANANETLIMITED-AP",
+  "description": "ManaNet",
+  "subnets": {
+    "ipv4": [
+      "103.186.244.0/23"
+    ],
+    "ipv6": []
+  }
+}

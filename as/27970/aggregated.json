@@ -3,13 +3,7 @@
   "handle": "ONEPACKET-NETWORKS-INC",
   "description": "OnePacket Networks Inc.",
   "subnets": {
-    "ipv4": [
-      "91.221.208.0/23",
-      "185.5.134.0/23",
-      "194.143.130.0/23"
-    ],
-    "ipv6": [
-      "2a00:12f0::/32"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

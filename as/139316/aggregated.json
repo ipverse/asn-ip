@@ -3,12 +3,7 @@
   "handle": "CHINANET-HUBEI-HUANGGANG-IDC",
   "description": "China Telecom",
   "subnets": {
-    "ipv4": [
-      "61.136.182.0/24"
-    ],
-    "ipv6": [
-      "240e:105:f500::/40",
-      "240e:95d:2800::/37"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

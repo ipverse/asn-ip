@@ -3,7 +3,9 @@
   "handle": "UNIBASE",
   "description": "Unibase Telecom Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "198.73.54.0/24"
+    ],
     "ipv6": []
   }
 }

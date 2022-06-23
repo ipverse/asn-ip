@@ -3,9 +3,7 @@
   "handle": "TIC-GUMS",
   "description": "TIC Gums, Inc.",
   "subnets": {
-    "ipv4": [
-      "69.7.103.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

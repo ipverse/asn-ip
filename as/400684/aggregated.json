@@ -1,0 +1,11 @@
+{
+  "asn": 400684,
+  "handle": "ZOOMFIBER-01",
+  "description": "Zoom Fiber",
+  "subnets": {
+    "ipv4": [
+      "38.100.191.0/24"
+    ],
+    "ipv6": []
+  }
+}

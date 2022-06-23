@@ -4,6 +4,8 @@
   "description": "Radiospoor Welkom (Pty) Ltd",
   "subnets": {
     "ipv4": [
+      "102.215.21.0/24",
+      "102.215.22.0/24",
       "102.220.232.0/22"
     ],
     "ipv6": [

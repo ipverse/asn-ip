@@ -3,9 +3,7 @@
   "handle": "OT-PULSATION-2",
   "description": "Oceanet Technology SAS",
   "subnets": {
-    "ipv4": [
-      "185.47.240.0/22"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

@@ -3,9 +3,7 @@
   "handle": "ADS",
   "description": "Advanced Disposal Services, Inc.",
   "subnets": {
-    "ipv4": [
-      "128.136.59.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

@@ -4,6 +4,7 @@
   "description": "Net4India Ltd",
   "subnets": {
     "ipv4": [
+      "185.246.220.0/24",
       "221.128.197.0/24"
     ],
     "ipv6": []

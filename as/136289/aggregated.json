@@ -3,9 +3,7 @@
   "handle": "BBRGCOM-IN",
   "description": "Bbrg Communiction And Internet Pvt Ltd",
   "subnets": {
-    "ipv4": [
-      "103.155.234.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }
