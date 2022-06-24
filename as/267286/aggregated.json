@@ -3,11 +3,7 @@
   "handle": "DJG-PROVEDOR-E",
   "description": "DJG PROVEDOR E SERVICOS DE TELECOMUNICACOES",
   "subnets": {
-    "ipv4": [
-      "45.233.8.0/22"
-    ],
-    "ipv6": [
-      "2804:4b24::/32"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

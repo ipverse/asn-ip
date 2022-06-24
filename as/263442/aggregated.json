@@ -4,6 +4,7 @@
   "description": "GIALES FISCHER GRUTZMANN \u0026 CIA LTDA",
   "subnets": {
     "ipv4": [
+      "177.10.92.0/22",
       "177.91.144.0/20"
     ],
     "ipv6": [

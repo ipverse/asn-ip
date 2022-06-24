@@ -3,7 +3,9 @@
   "handle": "IDNIC-ERUDEYE-ID",
   "description": "PT. Erudeye Indonesia",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.238.138.0/23"
+    ],
     "ipv6": []
   }
 }

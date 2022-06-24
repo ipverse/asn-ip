@@ -4,8 +4,7 @@
   "description": "Naveganet Comercio e Servio LTDA",
   "subnets": {
     "ipv4": [
-      "190.89.144.0/23",
-      "190.89.146.0/24"
+      "190.89.144.0/22"
     ],
     "ipv6": []
   }

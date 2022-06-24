@@ -4,6 +4,7 @@
   "description": "NMMN New Media Markets \u0026 Networks IT-Services GmbH",
   "subnets": {
     "ipv4": [
+      "185.45.110.0/23",
       "185.166.200.0/22",
       "188.94.24.0/21",
       "195.124.48.0/24",

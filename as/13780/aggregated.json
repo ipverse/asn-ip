@@ -4,8 +4,7 @@
   "description": "Milehighwalrus Network",
   "subnets": {
     "ipv4": [
-      "23.128.88.0/24",
-      "192.149.39.0/24"
+      "23.128.88.0/24"
     ],
     "ipv6": [
       "2602:fc09::/40",

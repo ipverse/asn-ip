@@ -4,6 +4,7 @@
   "description": "LEVNET TELECOM E INFORMATICA LTDA",
   "subnets": {
     "ipv4": [
+      "45.65.132.0/22",
       "179.42.13.0/24"
     ],
     "ipv6": [

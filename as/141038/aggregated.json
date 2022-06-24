@@ -3,7 +3,9 @@
   "handle": "CHAUDDAGRAM-AP",
   "description": "Chauddagram Broadband",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.155.42.0/24"
+    ],
     "ipv6": []
   }
 }
