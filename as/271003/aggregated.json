@@ -3,7 +3,9 @@
   "handle": "MARILETE-PEREIRA-DOS-SANTOS",
   "description": "MARILETE PEREIRA DOS SANTOS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "177.129.100.0/22"
+    ],
     "ipv6": []
   }
 }

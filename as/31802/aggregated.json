@@ -1,0 +1,11 @@
+{
+  "asn": 31802,
+  "handle": "COSR",
+  "description": "City of San Rafael",
+  "subnets": {
+    "ipv4": [
+      "199.88.113.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asn": 44428,
+  "handle": "RESERVED",
+  "description": "RIPE NCC ASN block",
+  "subnets": {
+    "ipv4": [
+      "201.49.188.0/24"
+    ],
+    "ipv6": []
+  }
+}

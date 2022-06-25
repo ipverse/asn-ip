@@ -4,8 +4,7 @@
   "description": "Spectrum Software Solutions Inc.",
   "subnets": {
     "ipv4": [
-      "204.15.236.0/23",
-      "204.15.239.0/24"
+      "204.15.236.0/22"
     ],
     "ipv6": []
   }

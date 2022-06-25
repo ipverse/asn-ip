@@ -3,9 +3,7 @@
   "handle": "NEXTGENHEALTH",
   "description": "NextGen Healthcare Information Systems, LLC.",
   "subnets": {
-    "ipv4": [
-      "199.245.144.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

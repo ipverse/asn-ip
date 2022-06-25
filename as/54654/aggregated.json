@@ -3,7 +3,9 @@
   "handle": "MILLSCOLLEGE",
   "description": "Mills College",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "144.91.0.0/18"
+    ],
     "ipv6": []
   }
 }
