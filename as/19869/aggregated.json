@@ -4,6 +4,7 @@
   "description": "EnCana Corporation",
   "subnets": {
     "ipv4": [
+      "78.109.235.0/24",
       "142.56.64.0/18",
       "142.56.128.0/18"
     ],

@@ -4,7 +4,6 @@
   "description": "Peace Corps",
   "subnets": {
     "ipv4": [
-      "50.232.232.0/24",
       "65.205.231.0/24"
     ],
     "ipv6": [

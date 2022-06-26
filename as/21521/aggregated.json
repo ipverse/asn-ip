@@ -3,7 +3,9 @@
   "handle": "BANCTEC",
   "description": "HOV Services, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.252.0.0/21"
+    ],
     "ipv6": []
   }
 }

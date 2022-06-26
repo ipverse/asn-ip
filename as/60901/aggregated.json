@@ -1,0 +1,11 @@
+{
+  "asn": 60901,
+  "handle": "CH-1SWISS1",
+  "description": "1SWISS1 SA",
+  "subnets": {
+    "ipv4": [
+      "185.241.87.0/24"
+    ],
+    "ipv6": []
+  }
+}

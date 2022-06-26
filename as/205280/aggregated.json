@@ -4,8 +4,6 @@
   "description": "Svelge OU",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2a12:e240:d5e0::/48"
-    ]
+    "ipv6": []
   }
 }
