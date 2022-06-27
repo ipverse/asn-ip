@@ -3,7 +3,9 @@
   "handle": "RU-HOSTER",
   "description": "Udovikhin Evgenii",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "176.32.36.0/22"
+    ],
     "ipv6": []
   }
 }

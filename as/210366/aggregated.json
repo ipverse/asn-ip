@@ -3,7 +3,9 @@
   "handle": "WGUS",
   "description": "Wargaming Group Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.12.213.0/24"
+    ],
     "ipv6": []
   }
 }

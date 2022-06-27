@@ -3,7 +3,9 @@
   "handle": "BREWSTER-ASN-01",
   "description": "Brewster Academy",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "204.124.236.0/23"
+    ],
     "ipv6": []
   }
 }

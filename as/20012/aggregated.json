@@ -3,7 +3,9 @@
   "handle": "INTERNET-HOLDINGS",
   "description": "Internet Holdings LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "168.158.0.0/16"
+    ],
     "ipv6": []
   }
 }

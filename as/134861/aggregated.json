@@ -3,7 +3,9 @@
   "handle": "BROADSTAR-IN",
   "description": "BroadStar Net India Pvt.Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.205.112.0/22"
+    ],
     "ipv6": []
   }
 }
