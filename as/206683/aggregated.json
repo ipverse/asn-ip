@@ -3,7 +3,9 @@
   "handle": "MSIC",
   "description": "Moravskoslezske inovacni centrum Ostrava, a.s.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.8.238.0/24"
+    ],
     "ipv6": []
   }
 }

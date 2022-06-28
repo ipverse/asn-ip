@@ -3,7 +3,9 @@
   "handle": "CRIV-NET-TELECOM-LTDA-ME",
   "description": "CRIV NET TELECOM LTDA . ME",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "179.48.91.0/24"
+    ],
     "ipv6": [
       "2804:804c::/32"
     ]

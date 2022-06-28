@@ -3,9 +3,7 @@
   "handle": "SUNC-AP",
   "description": "Sun Cybercafe",
   "subnets": {
-    "ipv4": [
-      "123.253.98.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

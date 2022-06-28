@@ -4,6 +4,7 @@
   "description": "Padideh Sazan Poshtvar Co. PJS",
   "subnets": {
     "ipv4": [
+      "31.41.35.0/24",
       "188.95.89.0/24"
     ],
     "ipv6": []

@@ -3,10 +3,7 @@
   "handle": "GELEXIY-IN",
   "description": "Gelexiy Cab Net",
   "subnets": {
-    "ipv4": [
-      "103.83.86.0/23",
-      "103.148.205.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

@@ -3,9 +3,7 @@
   "handle": "INNOVA-AM",
   "description": "Innova Co S.A.R.L.",
   "subnets": {
-    "ipv4": [
-      "109.105.159.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }
