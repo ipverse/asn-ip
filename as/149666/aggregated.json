@@ -1,0 +1,11 @@
+{
+  "asn": 149666,
+  "handle": "IDNIC-BADAKGS-ID",
+  "description": "PT Badak Global Swatantra",
+  "subnets": {
+    "ipv4": [
+      "103.183.100.0/23"
+    ],
+    "ipv6": []
+  }
+}

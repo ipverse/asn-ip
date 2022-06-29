@@ -3,9 +3,7 @@
   "handle": "SBMOFFSHORE",
   "description": "SBM Offshore USA, Inc.",
   "subnets": {
-    "ipv4": [
-      "12.45.164.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

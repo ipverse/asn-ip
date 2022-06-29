@@ -3,9 +3,7 @@
   "handle": "AP-XNET",
   "description": "APXNet, Inc",
   "subnets": {
-    "ipv4": [
-      "40.136.196.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

@@ -4,7 +4,8 @@
   "description": "Penta Solutions Limited",
   "subnets": {
     "ipv4": [
-      "103.103.32.0/22"
+      "103.103.32.0/24",
+      "103.103.34.0/23"
     ],
     "ipv6": []
   }

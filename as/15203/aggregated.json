@@ -3,9 +3,7 @@
   "handle": "MHMRAHC",
   "description": "MHMRA",
   "subnets": {
-    "ipv4": [
-      "192.30.246.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

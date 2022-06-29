@@ -3,9 +3,7 @@
   "handle": "DNIC-ASBLK-0-01601",
   "description": "DoD Network Information Center",
   "subnets": {
-    "ipv4": [
-      "6.50.44.0/22"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

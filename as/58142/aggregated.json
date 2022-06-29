@@ -1,0 +1,14 @@
+{
+  "asn": 58142,
+  "handle": "RASANE",
+  "description": "Samaneh Sama Pishro Persian Communications and Information Development Company PJS",
+  "subnets": {
+    "ipv4": [
+      "5.34.192.0/21",
+      "5.34.200.0/22",
+      "5.34.205.0/24",
+      "5.34.206.0/24"
+    ],
+    "ipv6": []
+  }
+}

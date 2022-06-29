@@ -4,8 +4,7 @@
   "description": "European Union Intellectual Property Office",
   "subnets": {
     "ipv4": [
-      "109.232.208.0/24",
-      "109.232.212.0/22"
+      "109.232.208.0/21"
     ],
     "ipv6": []
   }

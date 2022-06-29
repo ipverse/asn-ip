@@ -4,6 +4,7 @@
   "description": "AIA Life Insurance Company limited",
   "subnets": {
     "ipv4": [
+      "103.189.70.0/24",
       "103.246.104.0/24"
     ],
     "ipv6": []

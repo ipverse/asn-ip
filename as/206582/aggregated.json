@@ -3,7 +3,9 @@
   "handle": "INVEST-TRANZIT",
   "description": "SC ITNS.NET SRL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.31.104.0/22"
+    ],
     "ipv6": []
   }
 }

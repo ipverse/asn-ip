@@ -3,7 +3,9 @@
   "handle": "PACKETFRAME",
   "description": "Packetframe",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "66.248.234.0/24"
+    ],
     "ipv6": [
       "2602:809:300b::/48"
     ]

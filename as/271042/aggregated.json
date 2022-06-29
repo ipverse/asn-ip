@@ -4,6 +4,7 @@
   "description": "BOT INTERNET E SERVICOS DE TELECOMUNICACOES LTDA",
   "subnets": {
     "ipv4": [
+      "177.12.214.0/24",
       "177.36.16.0/22"
     ],
     "ipv6": [

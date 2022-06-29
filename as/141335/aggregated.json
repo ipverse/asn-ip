@@ -4,7 +4,8 @@
   "description": "Shriram City Union Finance Limited",
   "subnets": {
     "ipv4": [
-      "103.86.6.0/24"
+      "103.86.6.0/24",
+      "103.160.99.0/24"
     ],
     "ipv6": []
   }

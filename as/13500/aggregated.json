@@ -3,9 +3,7 @@
   "handle": "ATLANCOMP",
   "description": "NTT Security (US) Inc.",
   "subnets": {
-    "ipv4": [
-      "198.252.200.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

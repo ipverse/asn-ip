@@ -4,6 +4,7 @@
   "description": "IPTP NETWORKS S.A.C.",
   "subnets": {
     "ipv4": [
+      "38.50.51.0/24",
       "45.236.172.0/23"
     ],
     "ipv6": []
