@@ -4,6 +4,7 @@
   "description": "Mike Marchal",
   "subnets": {
     "ipv4": [
+      "31.24.249.0/24",
       "87.239.48.0/24"
     ],
     "ipv6": [

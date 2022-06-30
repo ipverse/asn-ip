@@ -3,7 +3,9 @@
   "handle": "MIKU-NETWORK",
   "description": "Wuhan LSHIY Network Technology Co., Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.152.227.0/24"
+    ],
     "ipv6": [
       "2404:f4c0:f740::/44"
     ]

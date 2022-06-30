@@ -1,0 +1,11 @@
+{
+  "asn": 2836,
+  "handle": "BAGNET",
+  "description": "Bengt Arne Gorden Data",
+  "subnets": {
+    "ipv4": [
+      "192.121.86.0/24"
+    ],
+    "ipv6": []
+  }
+}

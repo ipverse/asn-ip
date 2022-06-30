@@ -3,7 +3,9 @@
   "handle": "SFC-AP",
   "description": "Super Fast Connectivity",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.155.174.0/23"
+    ],
     "ipv6": []
   }
 }

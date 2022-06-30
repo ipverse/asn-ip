@@ -3,7 +3,11 @@
   "handle": "BRANDAO-SERVICOS-DE",
   "description": "BRANDAO SERVICOS DE COMUNICACAO LTDA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.166.152.0/22"
+    ],
+    "ipv6": [
+      "2804:55e8::/32"
+    ]
   }
 }

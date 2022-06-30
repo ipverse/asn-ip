@@ -3,9 +3,7 @@
   "handle": "RUCHICOM-IN",
   "description": "Ruchi Communication",
   "subnets": {
-    "ipv4": [
-      "103.172.155.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

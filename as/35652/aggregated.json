@@ -3,9 +3,7 @@
   "handle": "GREY",
   "description": "Grey Communications Group Ltd",
   "subnets": {
-    "ipv4": [
-      "195.234.80.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

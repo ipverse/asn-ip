@@ -3,10 +3,7 @@
   "handle": "REDEBR-TELECOM",
   "description": "RedeBr Telecom",
   "subnets": {
-    "ipv4": [
-      "138.97.12.0/22",
-      "168.196.88.0/22"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2804:229c::/32"
     ]

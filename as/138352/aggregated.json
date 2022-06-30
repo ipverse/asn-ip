@@ -3,7 +3,9 @@
   "handle": "TIGERNETCOLTD-AP",
   "description": "Tiger Net Company Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.174.186.0/23"
+    ],
     "ipv6": [
       "2001:df7:cf80::/48"
     ]

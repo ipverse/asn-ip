@@ -3,7 +3,9 @@
   "handle": "NYMAGDIA-LT-CL",
   "description": "Magnetar Capital LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "74.113.149.0/24"
+    ],
     "ipv6": []
   }
 }
