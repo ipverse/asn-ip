@@ -3,7 +3,9 @@
   "handle": "VANDERFIELDPTYLTD-AP",
   "description": "Vanderfield Pty Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.126.187.0/24"
+    ],
     "ipv6": []
   }
 }

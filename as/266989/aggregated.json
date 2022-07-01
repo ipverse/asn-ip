@@ -4,8 +4,7 @@
   "description": "ETH ENTERPRISE TECNOLOGIA LTDA",
   "subnets": {
     "ipv4": [
-      "45.226.80.0/22",
-      "200.229.64.0/21"
+      "45.226.80.0/22"
     ],
     "ipv6": [
       "2804:4670::/32"

@@ -3,7 +3,9 @@
   "handle": "NETEXPERT",
   "description": "Netexpert Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.189.228.0/23"
+    ],
     "ipv6": []
   }
 }

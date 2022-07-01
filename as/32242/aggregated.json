@@ -3,10 +3,7 @@
   "handle": "ULTRA-KING",
   "description": "Ultra Kings Limited",
   "subnets": {
-    "ipv4": [
-      "103.6.5.0/24",
-      "172.102.3.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

@@ -3,9 +3,7 @@
   "handle": "FIVE-GROUP-NET",
   "description": "Five Group Ltd",
   "subnets": {
-    "ipv4": [
-      "194.44.179.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

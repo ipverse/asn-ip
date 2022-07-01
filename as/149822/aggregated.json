@@ -1,0 +1,11 @@
+{
+  "asn": 149822,
+  "handle": "FDFN-AP",
+  "description": "Friends Digital Fiber Network",
+  "subnets": {
+    "ipv4": [
+      "103.187.30.0/23"
+    ],
+    "ipv6": []
+  }
+}

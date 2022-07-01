@@ -3,7 +3,12 @@
   "handle": "ORIXINET-TELECOM-LTDA-EPP",
   "description": "Orixinet Telecom Ltda - Epp",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "38.7.136.0/23",
+      "131.72.96.0/22"
+    ],
+    "ipv6": [
+      "2804:1b68::/32"
+    ]
   }
 }

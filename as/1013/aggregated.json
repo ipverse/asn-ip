@@ -1,9 +1,9 @@
 {
   "asn": 1013,
+  "handle": "BFIL",
+  "description": "Bernardi Family Investments, LLC",
   "subnets": {
-    "ipv4": [
-      "170.200.69.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

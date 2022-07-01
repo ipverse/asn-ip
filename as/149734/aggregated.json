@@ -1,0 +1,11 @@
+{
+  "asn": 149734,
+  "handle": "PEDEE-ID",
+  "description": "PEDEE",
+  "subnets": {
+    "ipv4": [
+      "103.188.176.0/24"
+    ],
+    "ipv6": []
+  }
+}

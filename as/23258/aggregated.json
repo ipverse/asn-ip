@@ -3,9 +3,7 @@
   "handle": "PARAMO",
   "description": "Paramount Pictures",
   "subnets": {
-    "ipv4": [
-      "204.110.112.0/20"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

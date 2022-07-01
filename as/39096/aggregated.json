@@ -4,7 +4,8 @@
   "description": "Joint-stock Commercial Innovation bank UKRSIBBANK",
   "subnets": {
     "ipv4": [
-      "195.60.200.0/23"
+      "195.60.200.0/23",
+      "195.60.203.0/24"
     ],
     "ipv6": []
   }

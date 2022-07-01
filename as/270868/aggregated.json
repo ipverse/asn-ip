@@ -3,9 +3,9 @@
   "handle": "IP-TELECOM-E-SISTEMAS-LTDA",
   "description": "IP TELECOM E SISTEMAS LTDA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": [
-      "2804:72ac::/32"
-    ]
+    "ipv4": [
+      "186.216.19.0/24"
+    ],
+    "ipv6": []
   }
 }

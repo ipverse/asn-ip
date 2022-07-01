@@ -3,9 +3,7 @@
   "handle": "STARTTELECOM",
   "description": "Start Telecom LLC",
   "subnets": {
-    "ipv4": [
-      "185.237.220.0/22"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2a0d:7a00::/29"
     ]

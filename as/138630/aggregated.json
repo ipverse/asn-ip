@@ -4,6 +4,7 @@
   "description": "GIGABIT SOLUTION LIMITED",
   "subnets": {
     "ipv4": [
+      "103.153.5.0/24",
       "154.213.30.0/23"
     ],
     "ipv6": []

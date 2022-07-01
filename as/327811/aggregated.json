@@ -3,12 +3,7 @@
   "handle": "COMAIR",
   "description": "Comair Limited",
   "subnets": {
-    "ipv4": [
-      "196.13.106.0/24",
-      "196.43.250.0/24"
-    ],
-    "ipv6": [
-      "2001:43fd::/48"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

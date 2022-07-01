@@ -3,7 +3,9 @@
   "handle": "RNJ-TELECOM-LTDA",
   "description": "RNJ TELECOM LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.44.104.0/22"
+    ],
     "ipv6": [
       "2804:8170::/32"
     ]

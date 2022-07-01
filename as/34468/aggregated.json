@@ -3,9 +3,7 @@
   "handle": "SM-SSIS",
   "description": "S.P.A. Societa\u0027 Servizi Informatici Sammarinesi - S.S.I.S.",
   "subnets": {
-    "ipv4": [
-      "45.65.80.0/22"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

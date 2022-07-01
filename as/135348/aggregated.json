@@ -4,6 +4,7 @@
   "description": "QANTAS Airways Limited",
   "subnets": {
     "ipv4": [
+      "139.163.131.0/24",
       "168.134.136.0/23",
       "168.134.138.0/24"
     ],

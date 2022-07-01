@@ -1,0 +1,11 @@
+{
+  "asn": 132875,
+  "handle": "NATIONALPACS-AP",
+  "description": "National Pacs Limited",
+  "subnets": {
+    "ipv4": [
+      "103.190.86.0/23"
+    ],
+    "ipv6": []
+  }
+}

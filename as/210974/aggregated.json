@@ -4,7 +4,8 @@
   "description": "AjyalFi Company for Information and Communication Technology LLC",
   "subnets": {
     "ipv4": [
-      "5.44.254.0/24"
+      "5.44.254.0/24",
+      "212.192.2.0/24"
     ],
     "ipv6": []
   }

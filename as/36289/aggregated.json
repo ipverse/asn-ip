@@ -4,6 +4,7 @@
   "description": "Valor Christian High School",
   "subnets": {
     "ipv4": [
+      "199.117.106.0/24",
       "209.209.24.0/24"
     ],
     "ipv6": [
