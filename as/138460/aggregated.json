@@ -3,9 +3,7 @@
   "handle": "AUIX-AP",
   "description": "AU IX Pty Limited",
   "subnets": {
-    "ipv4": [
-      "103.125.246.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

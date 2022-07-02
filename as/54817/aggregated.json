@@ -3,9 +3,7 @@
   "handle": "HYPESTATUS",
   "description": "Webby Enterprises LLC",
   "subnets": {
-    "ipv4": [
-      "184.174.18.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

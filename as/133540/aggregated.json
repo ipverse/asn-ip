@@ -3,7 +3,9 @@
   "handle": "EARTHFACTOR-AP",
   "description": "EarthFactor Pvt Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.234.144.0/23"
+    ],
     "ipv6": []
   }
 }

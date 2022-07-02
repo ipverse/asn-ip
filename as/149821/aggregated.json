@@ -1,0 +1,11 @@
+{
+  "asn": 149821,
+  "handle": "HOSTTIER-AP",
+  "description": "HOSTTIER",
+  "subnets": {
+    "ipv4": [
+      "103.187.22.0/23"
+    ],
+    "ipv6": []
+  }
+}

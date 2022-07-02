@@ -4,7 +4,8 @@
   "description": "PT Badak Global Swatantra",
   "subnets": {
     "ipv4": [
-      "103.183.100.0/23"
+      "103.183.100.0/23",
+      "103.184.66.0/23"
     ],
     "ipv6": []
   }

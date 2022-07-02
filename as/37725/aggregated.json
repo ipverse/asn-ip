@@ -3,7 +3,9 @@
   "handle": "GMPLS",
   "description": "101 SYSTEMS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "102.219.22.0/24"
+    ],
     "ipv6": []
   }
 }

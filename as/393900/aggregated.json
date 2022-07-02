@@ -3,11 +3,7 @@
   "handle": "IQT1",
   "description": "In-Q-Tel, Inc.",
   "subnets": {
-    "ipv4": [
-      "192.132.59.0/24"
-    ],
-    "ipv6": [
-      "2620:a8:4000::/48"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

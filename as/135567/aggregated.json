@@ -3,7 +3,10 @@
   "handle": "APL-AP",
   "description": "AirMax Private Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.51.51.0/24",
+      "103.123.115.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -4,10 +4,9 @@
   "description": "DATTAS INTERNET EIRELI-ME",
   "subnets": {
     "ipv4": [
-      "186.237.96.0/22"
+      "186.237.96.0/23",
+      "186.237.98.0/24"
     ],
-    "ipv6": [
-      "2804:6edc::/32"
-    ]
+    "ipv6": []
   }
 }

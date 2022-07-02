@@ -4,7 +4,6 @@
   "description": "Lyondell Chemical Company",
   "subnets": {
     "ipv4": [
-      "153.47.0.0/23",
       "161.16.0.0/23",
       "165.249.0.0/23",
       "192.84.168.0/24",

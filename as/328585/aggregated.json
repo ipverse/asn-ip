@@ -3,10 +3,7 @@
   "handle": "MEGAMORE",
   "description": "MegaMore Wireless Broadband Limited",
   "subnets": {
-    "ipv4": [
-      "102.23.164.0/22",
-      "102.216.195.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }
