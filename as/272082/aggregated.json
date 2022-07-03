@@ -3,7 +3,9 @@
   "handle": "JARM-TELECOMUNICACIONES-SRL",
   "description": "JARM TELECOMUNICACIONES SRL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "181.214.17.0/24"
+    ],
     "ipv6": []
   }
 }

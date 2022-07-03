@@ -4,7 +4,9 @@
   "description": "Contemporary Computer Services Inc.",
   "subnets": {
     "ipv4": [
-      "216.155.240.0/20"
+      "216.155.240.0/22",
+      "216.155.244.0/23",
+      "216.155.246.0/24"
     ],
     "ipv6": []
   }

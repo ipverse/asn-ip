@@ -1,0 +1,11 @@
+{
+  "asn": 134851,
+  "handle": "FINOS-IN",
+  "description": "FINOS SOFTWARE SOLUTION",
+  "subnets": {
+    "ipv4": [
+      "103.188.114.0/23"
+    ],
+    "ipv6": []
+  }
+}

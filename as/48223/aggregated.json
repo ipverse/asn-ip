@@ -3,7 +3,9 @@
   "handle": "SENATOR",
   "description": "Senator Telecom Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "93.187.184.0/21"
+    ],
     "ipv6": []
   }
 }

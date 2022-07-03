@@ -3,7 +3,9 @@
   "handle": "BEST-ID",
   "description": "PT. Bentang Selaras Teknologi",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.77.156.0/22"
+    ],
     "ipv6": []
   }
 }

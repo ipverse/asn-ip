@@ -3,7 +3,10 @@
   "handle": "HAPAY",
   "description": "SZCZECINSKI.COM",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "155.133.88.0/24",
+      "193.254.246.0/23"
+    ],
     "ipv6": []
   }
 }

@@ -1,0 +1,11 @@
+{
+  "asn": 953,
+  "handle": "MW-UUN",
+  "description": "Midwest Cable",
+  "subnets": {
+    "ipv4": [
+      "63.161.89.0/24"
+    ],
+    "ipv6": []
+  }
+}

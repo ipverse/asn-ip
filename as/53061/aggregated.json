@@ -3,7 +3,9 @@
   "handle": "G2NET-SUL-PROVEDOR-LTDA",
   "description": "G2NET SUL PROVEDOR LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "187.85.142.0/24"
+    ],
     "ipv6": [
       "2804:117c::/32"
     ]

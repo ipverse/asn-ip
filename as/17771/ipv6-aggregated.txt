@@ -1,7 +1,6 @@
 # AS17771 (SOUTHONLINE-AP)
 # Southern Online Bio Technologies Ltd
 #
-2405:1e00::/45
-2405:1e00:8::/48
-2405:1e00:20::/48
+2405:1e00::/42
+2405:1e00:40::/43
 2405:1e00:fe::/47

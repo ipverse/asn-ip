@@ -4,6 +4,8 @@
   "description": "Ncleo de Inf. e Coord. do Ponto BR - NIC.BR",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2001:12f8:c::/48"
+    ]
   }
 }
