@@ -4,7 +4,8 @@
   "description": "ALCIONE DE SANTANA LIMA ME",
   "subnets": {
     "ipv4": [
-      "177.12.209.0/24"
+      "177.12.209.0/24",
+      "177.12.211.0/24"
     ],
     "ipv6": []
   }

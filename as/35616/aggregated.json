@@ -3,7 +3,9 @@
   "handle": "PERCHEY",
   "description": "CREIS SAS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.23.29.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "MARLICO-JOSE-DA",
   "description": "MARLICO JOSE DA SILA INFORMATICA ME",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.166.132.0/22"
+    ],
     "ipv6": []
   }
 }
