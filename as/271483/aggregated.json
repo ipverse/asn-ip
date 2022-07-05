@@ -4,8 +4,7 @@
   "description": "Topnet e Fibrax Provedor de Acesso e Telecom LTDA",
   "subnets": {
     "ipv4": [
-      "168.121.244.0/22",
-      "186.237.99.0/24"
+      "168.121.244.0/22"
     ],
     "ipv6": []
   }

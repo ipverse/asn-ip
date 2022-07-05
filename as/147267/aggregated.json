@@ -1,11 +1,9 @@
 {
   "asn": 147267,
-  "handle": "GBPLGLOBAL-IN",
-  "description": "GBPL GLOBAL BROADBAND PRIVATE LIMITED",
+  "handle": "RESERVED",
+  "description": "APNIC ASN block",
   "subnets": {
-    "ipv4": [
-      "103.176.116.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

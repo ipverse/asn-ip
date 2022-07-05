@@ -4,7 +4,8 @@
   "description": "cconnect acesso a internet ltda",
   "subnets": {
     "ipv4": [
-      "45.167.9.0/24"
+      "45.167.9.0/24",
+      "45.233.219.0/24"
     ],
     "ipv6": [
       "2804:7f3c::/32"

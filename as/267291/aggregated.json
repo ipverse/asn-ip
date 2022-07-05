@@ -4,10 +4,8 @@
   "description": "satynet telecom ltda -me",
   "subnets": {
     "ipv4": [
-      "45.233.36.0/22"
+      "45.233.38.0/24"
     ],
-    "ipv6": [
-      "2804:4b38::/32"
-    ]
+    "ipv6": []
   }
 }

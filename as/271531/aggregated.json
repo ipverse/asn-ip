@@ -3,7 +3,9 @@
   "handle": "TURBO-LOGNET-TLN-TELECOM-LTDA",
   "description": "TURBO LOGNET TLN TELECOM LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "170.83.244.0/22"
+    ],
     "ipv6": []
   }
 }

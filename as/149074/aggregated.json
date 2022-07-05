@@ -1,0 +1,13 @@
+{
+  "asn": 149074,
+  "handle": "UMP-VN",
+  "description": "University of Medicine and Pharmacy at Ho Chi Minh City",
+  "subnets": {
+    "ipv4": [
+      "103.180.96.0/23"
+    ],
+    "ipv6": [
+      "2001:df0:5940::/48"
+    ]
+  }
+}

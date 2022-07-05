@@ -3,7 +3,9 @@
   "handle": "LIGUENET-TELECOM-LTDA-EPP",
   "description": "LIGUENET TELECOM LTDA - EPP",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.65.192.0/22"
+    ],
     "ipv6": []
   }
 }

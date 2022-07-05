@@ -3,9 +3,7 @@
   "handle": "SV-PROVEDOR-DE",
   "description": "SV PROVEDOR DE INTERNET LTDA - ME",
   "subnets": {
-    "ipv4": [
-      "5.180.148.0/24"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2804:81dc::/32"
     ]

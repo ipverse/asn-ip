@@ -4,6 +4,7 @@
   "description": "Redge Technologies sp. z o.o.",
   "subnets": {
     "ipv4": [
+      "185.73.211.0/24",
       "185.77.76.0/24"
     ],
     "ipv6": [
