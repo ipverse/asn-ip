@@ -3,7 +3,9 @@
   "handle": "GKG-NET-TELECON-EIRELI",
   "description": "Gkg Net Telecon Eireli",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.186.100.0/22"
+    ],
     "ipv6": [
       "2804:6458::/32"
     ]

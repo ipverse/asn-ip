@@ -4,6 +4,8 @@
   "description": "Providence University College \u0026 Theological Seminary",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2620:68:6000::/48"
+    ]
   }
 }

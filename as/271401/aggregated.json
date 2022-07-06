@@ -3,7 +3,9 @@
   "handle": "ATUAL-TELECOM",
   "description": "ATUAL TELECOM",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "177.126.44.0/22"
+    ],
     "ipv6": []
   }
 }

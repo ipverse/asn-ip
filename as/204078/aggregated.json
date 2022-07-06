@@ -4,7 +4,7 @@
   "description": "Green Team Internet LTD",
   "subnets": {
     "ipv4": [
-      "82.163.142.0/23",
+      "82.163.142.0/24",
       "88.202.216.0/24"
     ],
     "ipv6": []

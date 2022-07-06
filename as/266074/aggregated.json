@@ -3,7 +3,9 @@
   "handle": "URSICH-CONSULTORIA-EM",
   "description": "URSICH CONSULTORIA EM INFORMATICA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.4.152.0/22"
+    ],
     "ipv6": [
       "2804:3a28:4000::/34"
     ]

@@ -1,0 +1,12 @@
+{
+  "asn": 139690,
+  "handle": "DBS-NET-1-AP",
+  "description": "DBS Bank Ltd",
+  "subnets": {
+    "ipv4": [
+      "45.65.2.0/23",
+      "124.155.216.0/24"
+    ],
+    "ipv6": []
+  }
+}

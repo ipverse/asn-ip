@@ -4,6 +4,9 @@
   "description": "Zambia Internet Exchange Point",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a0e:6c40::/29",
+      "2a10:5f80::/29"
+    ]
   }
 }

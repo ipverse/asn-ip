@@ -3,7 +3,9 @@
   "handle": "ADITROCLOUD",
   "description": "SD Worx Shared Services Finland Oy",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.43.90.0/24"
+    ],
     "ipv6": []
   }
 }

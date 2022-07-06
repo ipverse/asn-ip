@@ -1,0 +1,11 @@
+{
+  "asn": 209481,
+  "handle": "HIPER",
+  "description": "UAB Hiperinternetas",
+  "subnets": {
+    "ipv4": [
+      "171.22.240.0/22"
+    ],
+    "ipv6": []
+  }
+}

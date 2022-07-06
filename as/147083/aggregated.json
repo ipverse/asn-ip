@@ -3,9 +3,7 @@
   "handle": "IDNIC-SKYLINK-ID",
   "description": "PT Skylink Technology Nusantara",
   "subnets": {
-    "ipv4": [
-      "103.173.168.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

@@ -3,11 +3,7 @@
   "handle": "CORENETINC-AP",
   "description": "CoreNET Inc.",
   "subnets": {
-    "ipv4": [
-      "103.91.219.0/24"
-    ],
-    "ipv6": [
-      "2001:df0:a540::/48"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

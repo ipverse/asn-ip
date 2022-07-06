@@ -4,6 +4,9 @@
   "description": "DXC Technology South Africa (Pty) Ltd",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a0e:be80::/29",
+      "2a10:5b80::/29"
+    ]
   }
 }

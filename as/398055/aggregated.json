@@ -3,9 +3,7 @@
   "handle": "OCEANSIDE-UFSD",
   "description": "Oceanside Union Free School District",
   "subnets": {
-    "ipv4": [
-      "170.24.186.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

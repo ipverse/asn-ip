@@ -3,7 +3,9 @@
   "handle": "GOLDRING",
   "description": "GOLDRING SA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.186.128.0/24"
+    ],
     "ipv6": []
   }
 }

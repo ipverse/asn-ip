@@ -4,6 +4,7 @@
   "description": "Activision Publishing, Inc.",
   "subnets": {
     "ipv4": [
+      "8.29.52.0/23",
       "64.111.160.0/22",
       "64.111.164.0/24",
       "64.111.167.0/24",

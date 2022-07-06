@@ -4,6 +4,9 @@
   "description": "Euroweb SRL",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a02:c580::/29",
+      "2a09:ef40::/29"
+    ]
   }
 }

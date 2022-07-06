@@ -3,7 +3,10 @@
   "handle": "SILVERNET-TECNOLOGIA-LTDA-ME",
   "description": "Silvernet Tecnologia Ltda - Me",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.164.220.0/23",
+      "45.164.223.0/24"
+    ],
     "ipv6": [
       "2804:54c0::/32"
     ]

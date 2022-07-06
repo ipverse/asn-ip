@@ -3,7 +3,10 @@
   "handle": "RACZEK-NET",
   "description": "F.H.U. RACZEK-NET Bozena Rak",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.228.89.0/24",
+      "91.228.92.0/22"
+    ],
     "ipv6": []
   }
 }

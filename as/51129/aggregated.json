@@ -1,0 +1,13 @@
+{
+  "asn": 51129,
+  "handle": "MARK-MILES",
+  "description": "Mark Miles",
+  "subnets": {
+    "ipv4": [
+      "67.63.171.0/24"
+    ],
+    "ipv6": [
+      "2a12:dd47:80b0::/44"
+    ]
+  }
+}

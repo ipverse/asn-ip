@@ -4,7 +4,6 @@
   "description": "Headquarters, USAISC",
   "subnets": {
     "ipv4": [
-      "6.50.20.0/22",
       "153.103.0.0/16"
     ],
     "ipv6": []

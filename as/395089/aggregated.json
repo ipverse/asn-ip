@@ -4,6 +4,7 @@
   "description": "Hextet Systems",
   "subnets": {
     "ipv4": [
+      "174.34.248.0/22",
       "192.160.102.0/24"
     ],
     "ipv6": [

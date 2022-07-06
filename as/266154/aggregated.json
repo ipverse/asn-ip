@@ -3,7 +3,9 @@
   "handle": "WJ-INTERNET",
   "description": "WJ Internet",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.140.8.0/22"
+    ],
     "ipv6": [
       "2804:3b84::/32"
     ]

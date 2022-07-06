@@ -3,7 +3,9 @@
   "handle": "CONECWEB-SERVICOS-DE",
   "description": "CONECWEB SERVICOS DE COMUNICACAO LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.183.180.0/22"
+    ],
     "ipv6": [
       "2804:6314::/32"
     ]

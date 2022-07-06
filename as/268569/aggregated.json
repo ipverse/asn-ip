@@ -4,7 +4,8 @@
   "description": "RETIRO TELECOM E INTERNET LTDA ME",
   "subnets": {
     "ipv4": [
-      "45.163.88.0/22"
+      "45.163.88.0/22",
+      "177.86.26.0/24"
     ],
     "ipv6": [
       "2804:5334::/32"
