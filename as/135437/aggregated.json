@@ -3,7 +3,9 @@
   "handle": "NGISL-AP",
   "description": "New Generation Internet Services Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.219.234.0/23"
+    ],
     "ipv6": []
   }
 }

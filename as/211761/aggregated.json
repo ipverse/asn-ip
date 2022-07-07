@@ -3,9 +3,7 @@
   "handle": "TOKEN-LTD",
   "description": "Token LTD",
   "subnets": {
-    "ipv4": [
-      "102.223.180.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

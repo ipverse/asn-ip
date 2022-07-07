@@ -3,9 +3,7 @@
   "handle": "CONECT-MAIS",
   "description": "CONECT MAIS",
   "subnets": {
-    "ipv4": [
-      "200.4.123.0/24"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2804:7a28::/34"
     ]

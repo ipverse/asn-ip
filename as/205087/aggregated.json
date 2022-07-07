@@ -3,9 +3,7 @@
   "handle": "OVHCLOUD-TEST",
   "description": "OVH SAS",
   "subnets": {
-    "ipv4": [
-      "192.31.246.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

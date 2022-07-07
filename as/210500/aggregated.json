@@ -1,0 +1,11 @@
+{
+  "asn": 210500,
+  "handle": "STADT-WITHUR",
+  "description": "Stadtverwaltung Winterthur",
+  "subnets": {
+    "ipv4": [
+      "193.8.88.0/22"
+    ],
+    "ipv6": []
+  }
+}

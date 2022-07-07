@@ -4,8 +4,6 @@
   "description": "Lancaster University Network Services Limited",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2a01:8900::/32"
-    ]
+    "ipv6": []
   }
 }

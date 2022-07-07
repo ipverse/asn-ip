@@ -3,12 +3,7 @@
   "handle": "VERIZON-BUSINESS-MAE",
   "description": "Verizon Business",
   "subnets": {
-    "ipv4": [
-      "150.225.0.0/16",
-      "204.29.239.0/24"
-    ],
-    "ipv6": [
-      "2001:570::/48"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

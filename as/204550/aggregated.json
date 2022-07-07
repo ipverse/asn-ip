@@ -1,0 +1,11 @@
+{
+  "asn": 204550,
+  "handle": "AAG-TESTLAB",
+  "description": "Andritz AG",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a06:a005:d26::/48"
+    ]
+  }
+}

@@ -3,7 +3,10 @@
   "handle": "STARCAMP-SERVICOS-EM",
   "description": "STARCAMP SERVICOS EM TELECOMUNICACOES EIRELI - EPP",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.160.249.0/24",
+      "45.160.251.0/24"
+    ],
     "ipv6": [
       "2804:5130::/34"
     ]

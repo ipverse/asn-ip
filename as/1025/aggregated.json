@@ -1,0 +1,11 @@
+{
+  "asn": 1025,
+  "handle": "VCHS-1",
+  "description": "Valor Christian High School",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2602:fcb8::/36"
+    ]
+  }
+}

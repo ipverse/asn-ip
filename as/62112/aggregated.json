@@ -4,7 +4,8 @@
   "description": "XConnect Services Limited",
   "subnets": {
     "ipv4": [
-      "92.240.4.0/24"
+      "92.240.4.0/24",
+      "92.240.15.0/24"
     ],
     "ipv6": []
   }

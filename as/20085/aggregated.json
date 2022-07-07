@@ -4,6 +4,8 @@
   "description": "The University of Akron",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2606:fc0::/32"
+    ]
   }
 }

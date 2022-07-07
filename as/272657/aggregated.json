@@ -3,9 +3,7 @@
   "handle": "U-D-TAMANDAR-ME",
   "description": "U D Tamandar-me",
   "subnets": {
-    "ipv4": [
-      "186.216.36.0/24"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2804:86a4::/32"
     ]

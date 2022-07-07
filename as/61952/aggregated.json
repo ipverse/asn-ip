@@ -3,11 +3,7 @@
   "handle": "COULDEE",
   "description": "OU cloud.ee",
   "subnets": {
-    "ipv4": [
-      "185.46.20.0/22"
-    ],
-    "ipv6": [
-      "2a01:82a0::/32"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }
