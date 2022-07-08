@@ -4,6 +4,7 @@
   "description": "Parlem Telecom Companyia de Telecomunicacions SA",
   "subnets": {
     "ipv4": [
+      "185.112.0.0/22",
       "194.26.172.0/23"
     ],
     "ipv6": []

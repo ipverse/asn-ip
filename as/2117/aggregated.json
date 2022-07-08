@@ -1,0 +1,12 @@
+{
+  "asn": 2117,
+  "handle": "EUROPEAN-SOUTHERN-OBSERVATORY",
+  "description": "European Southern Observatory",
+  "subnets": {
+    "ipv4": [
+      "134.171.0.0/18",
+      "134.171.64.0/20"
+    ],
+    "ipv6": []
+  }
+}

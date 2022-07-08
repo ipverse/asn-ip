@@ -4,7 +4,6 @@
   "description": "Flame Networks Private Limited",
   "subnets": {
     "ipv4": [
-      "102.38.192.0/18",
       "103.151.111.0/24"
     ],
     "ipv6": []

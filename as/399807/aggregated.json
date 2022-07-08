@@ -3,7 +3,9 @@
   "handle": "MERBIO-01",
   "description": "Meridian Bioscience Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "173.197.158.0/24"
+    ],
     "ipv6": []
   }
 }

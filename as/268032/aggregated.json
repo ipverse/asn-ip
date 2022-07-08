@@ -3,7 +3,9 @@
   "handle": "PRINCESA-AUTO-CENTER",
   "description": "PRINCESA AUTO CENTER - COMERCIO E SERVICO DE AUTO",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.166.172.0/22"
+    ],
     "ipv6": [
       "2804:56ec::/32"
     ]

@@ -1,0 +1,11 @@
+{
+  "asn": 147080,
+  "handle": "IDNIC-PAXCYBER-ID",
+  "description": "PT Paxcyber Sekuriti Indonesia",
+  "subnets": {
+    "ipv4": [
+      "103.171.179.0/24"
+    ],
+    "ipv6": []
+  }
+}

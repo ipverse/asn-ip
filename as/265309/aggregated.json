@@ -3,7 +3,9 @@
   "handle": "LIVE-SERVICOS-DE",
   "description": "LIVE SERVICOS DE TELECOMUNICAES LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "168.90.236.0/22"
+    ],
     "ipv6": []
   }
 }

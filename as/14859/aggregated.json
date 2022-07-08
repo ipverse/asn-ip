@@ -4,8 +4,7 @@
   "description": "CENTRAL ARIZONA COLLEGE",
   "subnets": {
     "ipv4": [
-      "65.182.144.0/22",
-      "65.182.152.0/21"
+      "65.182.144.0/20"
     ],
     "ipv6": []
   }

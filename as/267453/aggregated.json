@@ -3,7 +3,9 @@
   "handle": "NETICABO-TELECOM-LTDA-ME",
   "description": "Neticabo Telecom Ltda - ME",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "181.191.49.0/24"
+    ],
     "ipv6": [
       "2804:41bc::/36"
     ]

@@ -3,9 +3,7 @@
   "handle": "AGINET-DATACENTER-INFORMATICA",
   "description": "AGINET DATACENTER INFORMATICA LTDA",
   "subnets": {
-    "ipv4": [
-      "189.50.211.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

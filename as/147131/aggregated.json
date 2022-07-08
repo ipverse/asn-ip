@@ -3,7 +3,9 @@
   "handle": "IDNIC-GFIBER-ID",
   "description": "PT Global Sarana Elektronika",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.176.96.0/23"
+    ],
     "ipv6": []
   }
 }

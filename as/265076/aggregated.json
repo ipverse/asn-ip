@@ -3,11 +3,7 @@
   "handle": "CRERAL-COMRCIO-E",
   "description": "Creral Comrcio e Servios de Telecomunicaes Ltd",
   "subnets": {
-    "ipv4": [
-      "132.255.33.0/24",
-      "132.255.34.0/24",
-      "170.233.40.0/22"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2804:3268::/32"
     ]

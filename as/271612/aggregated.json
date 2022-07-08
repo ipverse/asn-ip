@@ -3,7 +3,10 @@
   "handle": "LOGO-TELECOM",
   "description": "LOGO Telecom",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.164.49.0/24",
+      "179.63.92.0/24"
+    ],
     "ipv6": [
       "2804:7e40::/32"
     ]

@@ -4,6 +4,7 @@
   "description": "Oliver Horscht is trading as SYNLINQ",
   "subnets": {
     "ipv4": [
+      "2.56.251.0/24",
       "5.180.252.0/22",
       "5.253.244.0/23",
       "37.114.34.0/24",

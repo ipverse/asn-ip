@@ -3,9 +3,7 @@
   "handle": "BRS-CH-AS01",
   "description": "Rothschild \u0026 Co Bank AG",
   "subnets": {
-    "ipv4": [
-      "194.11.204.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

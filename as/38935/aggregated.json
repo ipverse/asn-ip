@@ -3,10 +3,7 @@
   "handle": "FASTWEB-RO",
   "description": "SC Fastweb SRL",
   "subnets": {
-    "ipv4": [
-      "193.169.144.0/23",
-      "195.254.134.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }
