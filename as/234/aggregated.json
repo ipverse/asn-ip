@@ -1,0 +1,11 @@
+{
+  "asn": 234,
+  "handle": "NETHER-RESEARCH",
+  "description": "Nether.Net",
+  "subnets": {
+    "ipv4": [
+      "198.105.19.0/24"
+    ],
+    "ipv6": []
+  }
+}

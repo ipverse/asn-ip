@@ -4,6 +4,7 @@
   "description": "TELA, Incorporated",
   "subnets": {
     "ipv4": [
+      "100.42.17.0/24",
       "208.90.16.0/21"
     ],
     "ipv6": []

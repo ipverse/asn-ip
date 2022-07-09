@@ -3,7 +3,9 @@
   "handle": "DIGIANA-IN",
   "description": "Digiana Speed Net Private Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.185.242.0/23"
+    ],
     "ipv6": []
   }
 }

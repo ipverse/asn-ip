@@ -3,9 +3,7 @@
   "handle": "MG-FIBRA",
   "description": "MG FIBRA",
   "subnets": {
-    "ipv4": [
-      "181.174.236.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

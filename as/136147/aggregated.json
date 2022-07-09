@@ -3,9 +3,7 @@
   "handle": "BAAC-NET-AP",
   "description": "Bank for Agriculture and Agricultural Co-operative",
   "subnets": {
-    "ipv4": [
-      "103.105.73.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

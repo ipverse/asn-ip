@@ -3,7 +3,9 @@
   "handle": "ONEMARKETING",
   "description": "ONE Marketing A/S",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.45.184.0/22"
+    ],
     "ipv6": []
   }
 }

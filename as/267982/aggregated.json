@@ -3,7 +3,9 @@
   "handle": "FONETALK-SERVIOS-DE",
   "description": "Fonetalk Servios de Telefonia Eireli",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.167.28.0/22"
+    ],
     "ipv6": []
   }
 }

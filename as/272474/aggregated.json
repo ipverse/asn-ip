@@ -3,9 +3,9 @@
   "handle": "NEW-WORD-INFORMATICA-LTDA",
   "description": "NEW WORD INFORMATICA LTDA",
   "subnets": {
-    "ipv4": [
-      "186.250.45.0/24"
-    ],
-    "ipv6": []
+    "ipv4": [],
+    "ipv6": [
+      "2804:81c0::/32"
+    ]
   }
 }

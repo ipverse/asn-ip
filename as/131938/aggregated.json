@@ -4,8 +4,7 @@
   "description": "NISSAN MOTOR CO.,LTD.",
   "subnets": {
     "ipv4": [
-      "150.63.64.0/18",
-      "150.63.128.0/17"
+      "150.63.0.0/16"
     ],
     "ipv6": []
   }

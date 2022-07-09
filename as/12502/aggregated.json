@@ -4,7 +4,6 @@
   "description": "Dr.-Ing. Nepustil \u0026 Co. GmbH Internet Service Center Ingenieurgesellschaft fuer Systemsoftware und Kommunikationstechnik",
   "subnets": {
     "ipv4": [
-      "185.142.184.0/23",
       "193.96.243.0/24",
       "193.105.105.0/24",
       "194.55.100.0/23",
@@ -12,8 +11,7 @@
     ],
     "ipv6": [
       "2001:67c:684::/48",
-      "2001:14f8::/32",
-      "2a07:2f00:1337::/48"
+      "2001:14f8::/32"
     ]
   }
 }

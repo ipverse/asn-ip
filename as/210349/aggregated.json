@@ -3,9 +3,7 @@
   "handle": "NETIBAL",
   "description": "NETIBAL SH.P.K",
   "subnets": {
-    "ipv4": [
-      "45.155.77.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

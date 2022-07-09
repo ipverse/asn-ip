@@ -4,7 +4,8 @@
   "description": "End to End Networks",
   "subnets": {
     "ipv4": [
-      "74.114.136.0/22"
+      "74.114.136.0/23",
+      "74.114.139.0/24"
     ],
     "ipv6": []
   }
