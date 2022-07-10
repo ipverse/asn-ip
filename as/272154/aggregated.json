@@ -1,0 +1,13 @@
+{
+  "asn": 272154,
+  "handle": "DIRECCION-NACIONAL-DE-ADUANAS",
+  "description": "DIRECCION NACIONAL DE ADUANAS",
+  "subnets": {
+    "ipv4": [
+      "190.103.188.0/24"
+    ],
+    "ipv6": [
+      "2801:14:5800::/48"
+    ]
+  }
+}

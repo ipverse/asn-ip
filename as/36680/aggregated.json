@@ -3,7 +3,9 @@
   "handle": "EQUITY-NATIONAL",
   "description": "Equity National Title Insurance Company",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "70.168.76.0/24"
+    ],
     "ipv6": []
   }
 }

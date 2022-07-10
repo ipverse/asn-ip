@@ -1,0 +1,13 @@
+{
+  "asn": 1030,
+  "handle": "DOMAIN",
+  "description": "Domain Privacy LLC",
+  "subnets": {
+    "ipv4": [
+      "141.11.111.0/24"
+    ],
+    "ipv6": [
+      "2602:fb46:1::/48"
+    ]
+  }
+}

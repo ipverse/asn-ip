@@ -4,6 +4,10 @@
   "description": "Ultra Kings Limited",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2400:95c0::/32",
+      "2402:8900::/32",
+      "2620:48:a000::/48"
+    ]
   }
 }

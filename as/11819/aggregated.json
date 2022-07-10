@@ -3,7 +3,9 @@
   "handle": "SMITH-ASSOCIATES",
   "description": "Smith \u0026 Associates",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "206.160.213.0/24"
+    ],
     "ipv6": []
   }
 }
