@@ -3,9 +3,7 @@
   "handle": "CYBERNODE-HOST",
   "description": "CYBERNODE LTD.",
   "subnets": {
-    "ipv4": [
-      "74.119.149.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

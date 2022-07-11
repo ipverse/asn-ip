@@ -4,8 +4,7 @@
   "description": "MaxNOC Communications, LLC.",
   "subnets": {
     "ipv4": [
-      "67.210.16.0/20",
-      "192.30.56.0/22"
+      "67.210.16.0/20"
     ],
     "ipv6": []
   }

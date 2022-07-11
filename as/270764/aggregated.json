@@ -3,9 +3,7 @@
   "handle": "ECXON-DATACENTER-LTDA",
   "description": "Ecxon Datacenter LTDA",
   "subnets": {
-    "ipv4": [
-      "189.127.164.0/23"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2804:7110::/32"
     ]

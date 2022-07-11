@@ -4,9 +4,6 @@
   "description": "Pudu, LLC",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2a06:a005:2d1::/48",
-      "2a0e:b107:19c7::/48"
-    ]
+    "ipv6": []
   }
 }

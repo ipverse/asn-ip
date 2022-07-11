@@ -3,7 +3,10 @@
   "handle": "SUPERNETMAIS-TELECOMUNICAES-LTDA",
   "description": "SUPERNETMAIS TELECOMUNICAES LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.179.133.0/24",
+      "45.179.134.0/23"
+    ],
     "ipv6": [
       "2804:5f24::/32"
     ]

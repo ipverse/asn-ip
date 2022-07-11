@@ -3,7 +3,9 @@
   "handle": "SRISAI1-IN",
   "description": "Shree Sai Vision",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.177.172.0/23"
+    ],
     "ipv6": []
   }
 }
