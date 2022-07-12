@@ -4,6 +4,7 @@
   "description": "Tele2 Sverige AB",
   "subnets": {
     "ipv4": [
+      "193.138.148.0/24",
       "194.176.96.0/24"
     ],
     "ipv6": []

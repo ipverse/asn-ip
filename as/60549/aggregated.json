@@ -4,6 +4,7 @@
   "description": "PIK LLC",
   "subnets": {
     "ipv4": [
+      "77.83.0.0/24",
       "77.243.83.0/24"
     ],
     "ipv6": []

@@ -4,6 +4,8 @@
   "description": "MCN Ltd",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a03:5840:260::/48"
+    ]
   }
 }

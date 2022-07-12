@@ -3,9 +3,7 @@
   "handle": "FOX-SOLUCOES-TELECOM",
   "description": "FOX SOLUCOES TELECOM",
   "subnets": {
-    "ipv4": [
-      "45.178.140.0/22"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

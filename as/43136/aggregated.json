@@ -3,9 +3,7 @@
   "handle": "INFOTRUST-NET",
   "description": "NTT Security (Switzerland) AG",
   "subnets": {
-    "ipv4": [
-      "194.60.70.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

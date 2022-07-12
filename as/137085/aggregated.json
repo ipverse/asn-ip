@@ -4,6 +4,7 @@
   "description": "Ani Broadband Service Pvt Ltd",
   "subnets": {
     "ipv4": [
+      "27.123.240.0/24",
       "43.225.248.0/22",
       "103.55.63.0/24",
       "103.68.21.0/24",

@@ -4,6 +4,7 @@
   "description": "SERVLINK TELECOM LTDA - ME",
   "subnets": {
     "ipv4": [
+      "45.173.100.0/22",
       "45.179.128.0/22",
       "170.84.84.0/22"
     ],

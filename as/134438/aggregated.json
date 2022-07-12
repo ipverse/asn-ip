@@ -4,7 +4,8 @@
   "description": "TRUE INTERNET CORPORATION CO. LTD.",
   "subnets": {
     "ipv4": [
-      "110.170.17.0/24"
+      "110.170.17.0/24",
+      "203.107.165.0/24"
     ],
     "ipv6": []
   }

@@ -3,7 +3,9 @@
   "handle": "ASNCFG",
   "description": "Condor Flugdienst GmbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.124.112.0/24"
+    ],
     "ipv6": []
   }
 }

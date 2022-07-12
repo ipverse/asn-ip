@@ -1,0 +1,13 @@
+{
+  "asn": 150004,
+  "handle": "CTGPL-AP",
+  "description": "Check Networks",
+  "subnets": {
+    "ipv4": [
+      "103.190.128.0/24"
+    ],
+    "ipv6": [
+      "2400:9060:1000::/36"
+    ]
+  }
+}

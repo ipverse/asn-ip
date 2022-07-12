@@ -3,7 +3,9 @@
   "handle": "JACIARA-SOARES-DOS",
   "description": "Jaciara Soares Dos Santos Cunha",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.187.192.0/22"
+    ],
     "ipv6": [
       "2804:653c::/32"
     ]

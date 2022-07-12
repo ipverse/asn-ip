@@ -4,11 +4,6 @@
   "description": "MrSheepNET LTD",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2a0c:e642:10::/44",
-      "2a0c:e642:2a::/48",
-      "2a0c:e642:40::/44",
-      "2a0c:e642:70::/44"
-    ]
+    "ipv6": []
   }
 }

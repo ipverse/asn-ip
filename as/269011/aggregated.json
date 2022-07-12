@@ -4,10 +4,8 @@
   "description": "NOX INFORMATICA EIRELI - ME",
   "subnets": {
     "ipv4": [
-      "45.176.80.0/22"
+      "45.176.82.0/23"
     ],
-    "ipv6": [
-      "2804:5e18::/33"
-    ]
+    "ipv6": []
   }
 }

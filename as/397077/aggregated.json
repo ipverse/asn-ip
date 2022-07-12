@@ -4,7 +4,8 @@
   "description": "Sony Interactive Entertainment LLC.",
   "subnets": {
     "ipv4": [
-      "160.33.160.0/23"
+      "160.33.160.0/23",
+      "160.33.162.0/24"
     ],
     "ipv6": []
   }

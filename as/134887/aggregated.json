@@ -3,7 +3,9 @@
   "handle": "PYRAMID",
   "description": "Pyramid Infocom Pvt. Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.204.192.0/22"
+    ],
     "ipv6": []
   }
 }

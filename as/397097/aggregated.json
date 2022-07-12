@@ -1,0 +1,13 @@
+{
+  "asn": 397097,
+  "handle": "IMA-MODERN",
+  "description": "Infrastructure Management Associates, Inc.",
+  "subnets": {
+    "ipv4": [
+      "23.137.8.0/24"
+    ],
+    "ipv6": [
+      "2602:fb64::/36"
+    ]
+  }
+}
