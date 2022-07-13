@@ -1,0 +1,13 @@
+{
+  "asn": 212341,
+  "handle": "CSN-DATACENTER-IX-CUSTOMERS",
+  "description": "Stephan Rakowski",
+  "subnets": {
+    "ipv4": [
+      "185.66.178.0/24"
+    ],
+    "ipv6": [
+      "2a05:900::/29"
+    ]
+  }
+}

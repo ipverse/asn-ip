@@ -4,7 +4,8 @@
   "description": "PRONTO FIBRA TELECOMUNICACOES LTDA",
   "subnets": {
     "ipv4": [
-      "170.239.224.0/22"
+      "170.239.224.0/22",
+      "177.53.230.0/23"
     ],
     "ipv6": [
       "2804:3690::/32"

@@ -3,7 +3,9 @@
   "handle": "SM-COMUNICACIONES-SRL",
   "description": "SM COMUNICACIONES S.R.L.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "131.255.240.0/23"
+    ],
     "ipv6": []
   }
 }

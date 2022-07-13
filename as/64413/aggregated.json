@@ -3,11 +3,7 @@
   "handle": "AVAGOSTAR",
   "description": "Avagostar Sarv Co. Ltd.",
   "subnets": {
-    "ipv4": [
-      "185.189.120.0/22",
-      "185.233.12.0/22",
-      "185.237.8.0/22"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

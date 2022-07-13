@@ -3,9 +3,7 @@
   "handle": "ISXL",
   "description": "IT Support XL LLC",
   "subnets": {
-    "ipv4": [
-      "45.59.180.0/22"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2606:4240::/32"
     ]

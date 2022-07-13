@@ -1,0 +1,13 @@
+{
+  "asn": 150111,
+  "handle": "BLARHOST-AP",
+  "description": "Blar Host",
+  "subnets": {
+    "ipv4": [
+      "103.190.199.0/24"
+    ],
+    "ipv6": [
+      "2001:df0:f1c0::/48"
+    ]
+  }
+}

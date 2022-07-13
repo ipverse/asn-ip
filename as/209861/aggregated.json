@@ -3,7 +3,9 @@
   "handle": "CHRISTOFFERUNES",
   "description": "Christoffer Aasum Unes",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "146.19.210.0/24"
+    ],
     "ipv6": [
       "2a0c:b641:80::/48",
       "2a0e:b107:f0::/47"

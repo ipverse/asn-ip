@@ -3,7 +3,9 @@
   "handle": "CITYBROADBAND",
   "description": "City Broadband Pvt Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.47.56.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -4,7 +4,6 @@
   "description": "AKKOCLOUD NETWORK LTD",
   "subnets": {
     "ipv4": [
-      "185.217.109.0/24",
       "185.218.4.0/23"
     ],
     "ipv6": []

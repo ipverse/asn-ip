@@ -1,0 +1,11 @@
+{
+  "asn": 272719,
+  "handle": "SABINNET-PROVEDOR-DE",
+  "description": "sabinnet provedor de internet eirelli",
+  "subnets": {
+    "ipv4": [
+      "192.40.69.0/24"
+    ],
+    "ipv6": []
+  }
+}

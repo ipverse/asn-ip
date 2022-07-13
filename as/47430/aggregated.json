@@ -3,10 +3,7 @@
   "handle": "GOODSERVER",
   "description": "IE Litvinskiy Aleksandr Dmitrievich",
   "subnets": {
-    "ipv4": [
-      "91.200.146.0/24",
-      "92.119.228.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

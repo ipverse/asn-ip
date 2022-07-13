@@ -3,10 +3,7 @@
   "handle": "FASTLINE",
   "description": "HUANG HR CO., LTD.",
   "subnets": {
-    "ipv4": [
-      "103.122.188.0/22",
-      "103.153.177.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }
