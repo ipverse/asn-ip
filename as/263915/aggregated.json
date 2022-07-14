@@ -3,9 +3,7 @@
   "handle": "CONNECTRONIC-SERVICOS-LTDA",
   "description": "Connectronic Servicos Ltda",
   "subnets": {
-    "ipv4": [
-      "138.204.224.0/22"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2804:27a8::/32"
     ]

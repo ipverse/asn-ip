@@ -3,7 +3,9 @@
   "handle": "VIVA-TELECOMUNICAES",
   "description": "Viva Telecomunicaes",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "128.201.191.0/24"
+    ],
     "ipv6": [
       "2804:3f7c::/32"
     ]

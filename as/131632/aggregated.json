@@ -3,9 +3,7 @@
   "handle": "LETSWIN-ASN-1",
   "description": "LETSWIN TELECOM CO., LTD.",
   "subnets": {
-    "ipv4": [
-      "103.21.196.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

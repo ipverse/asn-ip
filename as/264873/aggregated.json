@@ -3,7 +3,9 @@
   "handle": "NETHOME-PROVEDOR-DE",
   "description": "NETHOME PROVEDOR DE INTERNET DE RIO BONITO LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "168.227.52.0/22"
+    ],
     "ipv6": [
       "2804:2f20::/32"
     ]

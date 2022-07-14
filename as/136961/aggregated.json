@@ -3,7 +3,9 @@
   "handle": "APOLLOGLOBAL-AP",
   "description": "Apollo Global Corporation",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "165.220.232.0/21"
+    ],
     "ipv6": []
   }
 }

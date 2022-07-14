@@ -4,9 +4,10 @@
   "description": "INVINET PROVEDOR LTDA - ME",
   "subnets": {
     "ipv4": [
-      "24.152.28.0/23",
-      "24.152.30.0/24"
+      "24.152.28.0/22"
     ],
-    "ipv6": []
+    "ipv6": [
+      "2804:6de8::/32"
+    ]
   }
 }

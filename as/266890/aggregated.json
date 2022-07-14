@@ -3,7 +3,9 @@
   "handle": "HERNANDEZ-RUBEN-GOLDERNET",
   "description": "HERNANDEZ RUBEN (GOLDERNET)",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.160.156.0/22"
+    ],
     "ipv6": []
   }
 }

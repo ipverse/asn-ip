@@ -3,7 +3,9 @@
   "handle": "HSCL-AP",
   "description": "Horizon Sources Company Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.185.222.0/23"
+    ],
     "ipv6": []
   }
 }

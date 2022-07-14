@@ -3,7 +3,9 @@
   "handle": "IDNIC-PMS-ID",
   "description": "PT Pricom Media Solusi",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.184.167.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -4,7 +4,8 @@
   "description": "HIPERVI SERVICOS DE COMUNICACAO MULTIMIDIA LTDA",
   "subnets": {
     "ipv4": [
-      "45.235.248.0/22"
+      "45.235.248.0/23",
+      "45.235.251.0/24"
     ],
     "ipv6": [
       "2804:4dbc::/32"

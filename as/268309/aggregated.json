@@ -3,7 +3,9 @@
   "handle": "TI5-TELECOM-LTDA",
   "description": "Ti5 Telecom LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.238.48.0/24"
+    ],
     "ipv6": []
   }
 }

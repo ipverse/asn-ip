@@ -3,9 +3,7 @@
   "handle": "TOMATOWEB-BD",
   "description": "Tomato Web (Pvt) Limited",
   "subnets": {
-    "ipv4": [
-      "103.151.168.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

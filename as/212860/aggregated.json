@@ -4,6 +4,7 @@
   "description": "AIRNET llc",
   "subnets": {
     "ipv4": [
+      "176.96.241.0/24",
       "176.96.243.0/24"
     ],
     "ipv6": []

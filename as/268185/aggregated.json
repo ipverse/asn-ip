@@ -3,7 +3,9 @@
   "handle": "J-C-COMERCIO",
   "description": "J. C. COMERCIO E SERVICOS DE PROVEDOR DE INTERNET",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.170.204.0/22"
+    ],
     "ipv6": [
       "2804:595c::/32"
     ]

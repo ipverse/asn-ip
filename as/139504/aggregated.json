@@ -3,9 +3,7 @@
   "handle": "MINETCOM",
   "description": "Minet Communication",
   "subnets": {
-    "ipv4": [
-      "103.151.38.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }
