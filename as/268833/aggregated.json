@@ -3,11 +3,7 @@
   "handle": "INOVE-TELECOM-LTDA",
   "description": "INOVE TELECOM LTDA",
   "subnets": {
-    "ipv4": [
-      "45.173.232.0/22"
-    ],
-    "ipv6": [
-      "2804:5b4c::/32"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

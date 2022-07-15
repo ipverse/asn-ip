@@ -1,0 +1,11 @@
+{
+  "asn": 211347,
+  "handle": "CPOSO",
+  "description": "CPO of Samara region",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a04:7e00:1::/48"
+    ]
+  }
+}

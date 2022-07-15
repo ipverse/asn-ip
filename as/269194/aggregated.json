@@ -4,6 +4,7 @@
   "description": "STAR1 INTERNET",
   "subnets": {
     "ipv4": [
+      "45.179.236.0/22",
       "45.180.216.0/22"
     ],
     "ipv6": [

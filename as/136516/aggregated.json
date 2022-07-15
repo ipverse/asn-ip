@@ -3,10 +3,7 @@
   "handle": "UNIQUENET-AP",
   "description": "Unique Net",
   "subnets": {
-    "ipv4": [
-      "103.91.146.0/23",
-      "103.190.16.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

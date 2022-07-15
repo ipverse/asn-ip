@@ -4,8 +4,10 @@
   "description": "INHAMBUPE ON-LINE COM COM. E SERV. DE INFORMTICA",
   "subnets": {
     "ipv4": [
-      "131.161.66.0/23"
+      "131.161.64.0/22"
     ],
-    "ipv6": []
+    "ipv6": [
+      "2804:1d74::/32"
+    ]
   }
 }

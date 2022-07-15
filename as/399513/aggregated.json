@@ -4,8 +4,6 @@
   "description": "IT Support XL LLC",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2606:4240::/32"
-    ]
+    "ipv6": []
   }
 }

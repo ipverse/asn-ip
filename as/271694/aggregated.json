@@ -4,8 +4,7 @@
   "description": "MAURICIO DE OLIVEIRA PROVEDOR DE INTERNET - ME",
   "subnets": {
     "ipv4": [
-      "186.216.37.0/24",
-      "200.106.177.0/24"
+      "186.216.37.0/24"
     ],
     "ipv6": [
       "2804:7f88::/32"

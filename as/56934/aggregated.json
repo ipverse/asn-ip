@@ -3,7 +3,9 @@
   "handle": "CRAFTHOSTING",
   "description": "IE Zhemoedov Sergey Mihaylovich",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.93.200.0/24"
+    ],
     "ipv6": []
   }
 }

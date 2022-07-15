@@ -1,0 +1,11 @@
+{
+  "asn": 150000,
+  "handle": "DBS-AP",
+  "description": "Data-Beam Business Solution",
+  "subnets": {
+    "ipv4": [
+      "103.190.138.0/24"
+    ],
+    "ipv6": []
+  }
+}

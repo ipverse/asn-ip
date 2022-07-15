@@ -1,0 +1,13 @@
+{
+  "asn": 1052,
+  "handle": "COEUR-D-ALENE-TRIBE",
+  "description": "Coeur d\u0027 Alene Tribe",
+  "subnets": {
+    "ipv4": [
+      "23.162.144.0/24",
+      "66.35.8.0/24",
+      "205.210.19.0/24"
+    ],
+    "ipv6": []
+  }
+}

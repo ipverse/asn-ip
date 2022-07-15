@@ -3,7 +3,9 @@
   "handle": "SAFARICOM-TEL",
   "description": "SAFARICOM TELECOMMUNICATIONS ETHIOPIA PLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "102.218.48.0/22"
+    ],
     "ipv6": []
   }
 }
