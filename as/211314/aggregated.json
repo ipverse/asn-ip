@@ -3,11 +3,7 @@
   "handle": "CHRISTOPHE-DECAIX",
   "description": "Christophe-Decaix",
   "subnets": {
-    "ipv4": [
-      "193.124.3.0/24",
-      "194.87.187.0/24",
-      "194.87.222.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

@@ -3,7 +3,11 @@
   "handle": "MUNICIPIO-DE-MACAE",
   "description": "MUNICIPIO DE MACAE",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "200.0.202.0/23"
+    ],
+    "ipv6": [
+      "2801:80:3870::/48"
+    ]
   }
 }

@@ -4,6 +4,7 @@
   "description": "Megalink Servicos Ltda",
   "subnets": {
     "ipv4": [
+      "45.179.134.0/24",
       "170.83.212.0/22",
       "191.242.216.0/22"
     ],

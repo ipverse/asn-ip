@@ -3,7 +3,9 @@
   "handle": "617A-1",
   "description": "617A Corporation",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.42.245.0/24"
+    ],
     "ipv6": [
       "2602:fcc3::/48",
       "2602:fcc3:ab0::/48"

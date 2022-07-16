@@ -3,9 +3,7 @@
   "handle": "BGC-AP",
   "description": "Rackspace.com Hong Kong Limited",
   "subnets": {
-    "ipv4": [
-      "203.60.128.0/20"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

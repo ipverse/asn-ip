@@ -1,9 +1,11 @@
 {
   "asn": 203915,
-  "handle": "ISHRAKRAHMAN",
+  "handle": "ISHRAK",
   "description": "Ishrak Rahman",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a06:a005:1290::/44"
+    ]
   }
 }

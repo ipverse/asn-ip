@@ -4,10 +4,8 @@
   "description": "NETSEG INTERNET EIRELI",
   "subnets": {
     "ipv4": [
-      "45.6.68.0/22"
+      "45.6.70.0/24"
     ],
-    "ipv6": [
-      "2804:7480::/32"
-    ]
+    "ipv6": []
   }
 }

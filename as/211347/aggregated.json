@@ -3,7 +3,9 @@
   "handle": "CPOSO",
   "description": "CPO of Samara region",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "178.237.207.0/24"
+    ],
     "ipv6": [
       "2a04:7e00:1::/48"
     ]

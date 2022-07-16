@@ -3,12 +3,9 @@
   "handle": "UNITEC-PROVEDORA-DE",
   "description": "UNITEC PROVEDORA DE INTERNET E TELECOM LTDA",
   "subnets": {
-    "ipv4": [
-      "200.106.215.0/24"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2804:833c::/35",
-      "2804:833c:2000::/38",
       "2804:833c:8000::/33"
     ]
   }
