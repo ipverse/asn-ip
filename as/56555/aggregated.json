@@ -1,0 +1,11 @@
+{
+  "asn": 56555,
+  "handle": "LBG-GRC-PROJECT",
+  "description": "LayerBridge SRL",
+  "subnets": {
+    "ipv4": [
+      "172.82.91.0/24"
+    ],
+    "ipv6": []
+  }
+}

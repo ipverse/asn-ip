@@ -4,10 +4,10 @@
   "description": "SETI - SERVICOS DE TECNOLOGIA E INTERNET LTDA",
   "subnets": {
     "ipv4": [
-      "179.42.96.0/23",
-      "179.42.99.0/24"
+      "179.42.96.0/22"
     ],
     "ipv6": [
+      "2804:77c4::/36",
       "2804:77c4:8000::/36"
     ]
   }

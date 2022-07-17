@@ -4,7 +4,8 @@
   "description": "CEA Telecom - Servios de Telecomunicaes Ltda.",
   "subnets": {
     "ipv4": [
-      "186.227.124.0/22"
+      "186.227.124.0/23",
+      "186.227.126.0/24"
     ],
     "ipv6": []
   }

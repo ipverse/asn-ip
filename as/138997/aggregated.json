@@ -4,6 +4,7 @@
   "description": "Eons Data Communications Limited",
   "subnets": {
     "ipv4": [
+      "45.62.172.0/23",
       "103.168.154.0/23"
     ],
     "ipv6": [

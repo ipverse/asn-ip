@@ -3,9 +3,7 @@
   "handle": "PG-IP6",
   "description": "Procter \u0026 Gamble Service GmbH",
   "subnets": {
-    "ipv4": [
-      "193.17.99.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

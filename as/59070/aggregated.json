@@ -3,7 +3,11 @@
   "handle": "ZLDT",
   "description": "Chengdu Zhongli Data Technology Co.,Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "43.241.248.0/22",
+      "103.37.176.0/22",
+      "120.54.64.0/18"
+    ],
     "ipv6": []
   }
 }

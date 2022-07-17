@@ -3,7 +3,10 @@
   "handle": "SHEIKH-INC",
   "description": "Terra World, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "64.254.37.0/24",
+      "64.254.43.0/24"
+    ],
     "ipv6": []
   }
 }
