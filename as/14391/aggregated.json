@@ -3,7 +3,10 @@
   "handle": "WNSC-NET-12-40-212-0-1",
   "description": "Automatic Data Processing, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "12.40.212.0/22",
+      "170.146.46.0/24"
+    ],
     "ipv6": []
   }
 }

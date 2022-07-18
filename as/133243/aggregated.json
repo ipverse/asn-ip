@@ -3,10 +3,7 @@
   "handle": "WEBLINK-IN",
   "description": "Weblink Infoways Private Limited",
   "subnets": {
-    "ipv4": [
-      "103.210.144.0/22",
-      "139.5.48.0/22"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

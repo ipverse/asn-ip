@@ -4,7 +4,8 @@
   "description": "PT Ring Media Nusantara",
   "subnets": {
     "ipv4": [
-      "103.162.62.0/23"
+      "103.162.62.0/23",
+      "103.190.170.0/23"
     ],
     "ipv6": []
   }

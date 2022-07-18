@@ -3,7 +3,9 @@
   "handle": "BL20-LLC",
   "description": "BL20 LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.195.5.0/24"
+    ],
     "ipv6": []
   }
 }

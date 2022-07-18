@@ -4,7 +4,8 @@
   "description": "Satcom Networks Africa",
   "subnets": {
     "ipv4": [
-      "41.223.228.0/22"
+      "41.223.228.0/22",
+      "102.219.28.0/24"
     ],
     "ipv6": []
   }

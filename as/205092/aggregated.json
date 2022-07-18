@@ -4,10 +4,6 @@
   "description": "Philipp Klos",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2a06:a005:930::/44",
-      "2a0d:2682:8000::/44",
-      "2a0e:97c0:b00::/48"
-    ]
+    "ipv6": []
   }
 }

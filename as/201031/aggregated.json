@@ -3,7 +3,9 @@
   "handle": "SMART-WAVES-NETWORK",
   "description": "Smart Waves for Information Technology Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.88.24.0/22"
+    ],
     "ipv6": []
   }
 }

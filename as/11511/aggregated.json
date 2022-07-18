@@ -4,8 +4,6 @@
   "description": "Crete Carrier Corporation",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2602:80d:4000::/40"
-    ]
+    "ipv6": []
   }
 }

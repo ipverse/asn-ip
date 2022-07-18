@@ -3,7 +3,9 @@
   "handle": "IHIO",
   "description": "Iran Health Insurance Organization",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.198.160.0/22"
+    ],
     "ipv6": []
   }
 }

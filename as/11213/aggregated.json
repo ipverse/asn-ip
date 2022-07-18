@@ -3,11 +3,7 @@
   "handle": "LVLT",
   "description": "Level 3 Parent, LLC",
   "subnets": {
-    "ipv4": [
-      "8.8.244.0/23",
-      "8.18.122.0/24",
-      "8.36.228.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

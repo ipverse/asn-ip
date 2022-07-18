@@ -3,7 +3,9 @@
   "handle": "ACADEMYHEALTH",
   "description": "Academy Health",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.95.163.0/24"
+    ],
     "ipv6": []
   }
 }
