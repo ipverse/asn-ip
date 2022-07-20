@@ -4,8 +4,6 @@
   "description": "Clarity Fiber Solutions",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2604:d240::/32"
-    ]
+    "ipv6": []
   }
 }

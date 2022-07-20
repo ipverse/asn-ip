@@ -3,12 +3,7 @@
   "handle": "RFLCLOUD",
   "description": "Ruifeng Co., Ltd.",
   "subnets": {
-    "ipv4": [
-      "103.140.169.0/24",
-      "103.141.76.0/24"
-    ],
-    "ipv6": [
-      "2001:df0:ee80::/48"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

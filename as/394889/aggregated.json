@@ -4,7 +4,8 @@
   "description": "REPUBLIC NATIONAL DISTRIBUTING COMPANY",
   "subnets": {
     "ipv4": [
-      "199.48.172.0/22"
+      "199.48.172.0/22",
+      "209.211.36.0/24"
     ],
     "ipv6": [
       "2620:135:a000::/40"

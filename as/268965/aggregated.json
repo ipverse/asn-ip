@@ -3,7 +3,9 @@
   "handle": "LINKNEW-TELECOM",
   "description": "LINKNEW TELECOM",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.176.179.0/24"
+    ],
     "ipv6": []
   }
 }

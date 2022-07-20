@@ -4,7 +4,9 @@
   "description": "Hulum Almustakbal Company for Communication Engineering and Services Ltd",
   "subnets": {
     "ipv4": [
+      "37.236.157.0/24",
       "37.237.54.0/24",
+      "37.238.218.0/24",
       "185.141.8.0/22"
     ],
     "ipv6": []

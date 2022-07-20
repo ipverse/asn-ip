@@ -3,9 +3,7 @@
   "handle": "X-NET-COMUNICACOES-LTDA",
   "description": "x-net comunicacoes LTDA",
   "subnets": {
-    "ipv4": [
-      "190.83.4.0/22"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2804:6a38:f0::/44",
       "2804:6a38:1000::/36",

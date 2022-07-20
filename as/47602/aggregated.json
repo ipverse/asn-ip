@@ -3,12 +3,7 @@
   "handle": "PROFISOL",
   "description": "Profisol Telecom S.R.L.",
   "subnets": {
-    "ipv4": [
-      "185.72.242.0/24"
-    ],
-    "ipv6": [
-      "2a04:2b87::/32",
-      "2a09:4200::/29"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

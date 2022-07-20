@@ -1,0 +1,11 @@
+{
+  "asn": 149784,
+  "handle": "BESPOKE1-AP",
+  "description": "Bespoke Technology",
+  "subnets": {
+    "ipv4": [
+      "103.190.206.0/24"
+    ],
+    "ipv6": []
+  }
+}

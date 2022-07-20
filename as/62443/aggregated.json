@@ -3,9 +3,7 @@
   "handle": "LUIS-ZS",
   "description": "Luis+Zapadnaya Sibir Ltd.",
   "subnets": {
-    "ipv4": [
-      "95.47.201.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

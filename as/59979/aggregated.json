@@ -3,7 +3,9 @@
   "handle": "KLEIN-DATA",
   "description": "Daniel Stjernholm Andersen trading as Klein-Data",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.130.143.0/24"
+    ],
     "ipv6": []
   }
 }

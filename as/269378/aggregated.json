@@ -3,9 +3,9 @@
   "handle": "INFINITE-TELECOM",
   "description": "INFINITE TELECOM",
   "subnets": {
-    "ipv4": [],
-    "ipv6": [
-      "2804:63b4::/32"
-    ]
+    "ipv4": [
+      "45.185.141.0/24"
+    ],
+    "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "ANDELYN-BIOSCIENCES-01",
   "description": "Andelyn Biosciences, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.45.146.0/24"
+    ],
     "ipv6": []
   }
 }

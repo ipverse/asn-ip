@@ -4,7 +4,8 @@
   "description": "Tbilisi City Hall",
   "subnets": {
     "ipv4": [
-      "185.83.36.0/22"
+      "185.83.36.0/23",
+      "185.83.38.0/24"
     ],
     "ipv6": []
   }

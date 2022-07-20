@@ -4,7 +4,8 @@
   "description": "INTERLES COMUNICACOES LTDA",
   "subnets": {
     "ipv4": [
-      "138.97.85.0/24"
+      "138.97.84.0/23",
+      "138.97.87.0/24"
     ],
     "ipv6": [
       "2804:2308:4000::/48"

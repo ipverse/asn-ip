@@ -1,0 +1,13 @@
+{
+  "asn": 329035,
+  "handle": "TA44",
+  "description": "Telsense",
+  "subnets": {
+    "ipv4": [
+      "102.216.24.0/24"
+    ],
+    "ipv6": [
+      "2c0f:4c80::/32"
+    ]
+  }
+}

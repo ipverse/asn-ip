@@ -4,7 +4,8 @@
   "description": "ZAP TCHE PROVEDOR DE INTERNET LTDA",
   "subnets": {
     "ipv4": [
-      "177.22.48.0/20"
+      "177.22.48.0/21",
+      "177.22.56.0/22"
     ],
     "ipv6": []
   }

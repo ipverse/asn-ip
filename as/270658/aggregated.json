@@ -3,7 +3,11 @@
   "handle": "SHS-TELECOMUNICACOES-LTDA",
   "description": "SHS TELECOMUNICACOES LTDA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "179.191.44.0/22"
+    ],
+    "ipv6": [
+      "2804:6f68::/32"
+    ]
   }
 }

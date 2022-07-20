@@ -1,0 +1,13 @@
+{
+  "asn": 205558,
+  "handle": "ANACOM",
+  "description": "Autoridade Nacional de Comunicacoes (Anacom)",
+  "subnets": {
+    "ipv4": [
+      "185.214.32.0/24"
+    ],
+    "ipv6": [
+      "2a0b:94c0::/48"
+    ]
+  }
+}

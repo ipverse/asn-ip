@@ -3,9 +3,7 @@
   "handle": "PO-AP",
   "description": "Paralekha Online",
   "subnets": {
-    "ipv4": [
-      "103.185.225.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

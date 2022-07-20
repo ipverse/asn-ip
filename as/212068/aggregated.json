@@ -1,0 +1,14 @@
+{
+  "asn": 212068,
+  "handle": "SHINRA",
+  "description": "Shinra Electric Power Company Limited",
+  "subnets": {
+    "ipv4": [
+      "139.28.205.0/24"
+    ],
+    "ipv6": [
+      "2a0d:1a40:7a01::/48",
+      "2a0d:1a40:7a02::/48"
+    ]
+  }
+}
