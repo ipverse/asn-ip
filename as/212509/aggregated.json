@@ -4,6 +4,8 @@
   "description": "ONENEO GmbH",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a0e:7a03::/32"
+    ]
   }
 }

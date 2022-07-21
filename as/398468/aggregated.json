@@ -4,10 +4,8 @@
   "description": "VMS Networks LLC",
   "subnets": {
     "ipv4": [
-      "23.171.176.0/23"
+      "23.171.176.0/24"
     ],
-    "ipv6": [
-      "2602:fcd4::/36"
-    ]
+    "ipv6": []
   }
 }

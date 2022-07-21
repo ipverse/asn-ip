@@ -3,7 +3,9 @@
   "handle": "NEWPIRVINE",
   "description": "Newport Corporation",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.101.10.0/24"
+    ],
     "ipv6": []
   }
 }

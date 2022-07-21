@@ -4,7 +4,6 @@
   "description": "Pathology Associates Medical Laboratories",
   "subnets": {
     "ipv4": [
-      "67.105.128.0/24",
       "206.82.168.0/21"
     ],
     "ipv6": []

@@ -1,0 +1,11 @@
+{
+  "asn": 212208,
+  "handle": "GCS-RTB",
+  "description": "GCS E-SANTE BRETAGNE",
+  "subnets": {
+    "ipv4": [
+      "93.93.152.0/21"
+    ],
+    "ipv6": []
+  }
+}

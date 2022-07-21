@@ -1,13 +1,11 @@
 {
   "asn": 28162,
-  "handle": "IBL-TELECOMUNICAES-LTDA",
-  "description": "IBL Telecomunicaes Ltda.",
+  "handle": "G6-INTERNET",
+  "description": "G6 Internet",
   "subnets": {
     "ipv4": [
       "186.250.192.0/20"
     ],
-    "ipv6": [
-      "2804:28::/32"
-    ]
+    "ipv6": []
   }
 }

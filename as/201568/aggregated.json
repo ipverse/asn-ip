@@ -4,8 +4,7 @@
   "description": "HBO Holding Uzletviteli Tanacsado Csoport Zrt.",
   "subnets": {
     "ipv4": [
-      "185.60.69.0/24",
-      "185.60.71.0/24"
+      "185.60.68.0/22"
     ],
     "ipv6": []
   }

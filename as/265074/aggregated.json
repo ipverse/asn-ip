@@ -3,9 +3,7 @@
   "handle": "PROVEDOR-ULTRANET",
   "description": "PROVEDOR ULTRANET",
   "subnets": {
-    "ipv4": [
-      "170.231.227.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

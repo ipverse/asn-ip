@@ -3,7 +3,9 @@
   "handle": "PAULO-CESAR-OLIVEIRA",
   "description": "PAULO CESAR OLIVEIRA DA SILVA 05852075698",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "181.189.4.0/22"
+    ],
     "ipv6": []
   }
 }

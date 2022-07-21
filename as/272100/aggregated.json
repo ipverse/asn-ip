@@ -3,7 +3,9 @@
   "handle": "NOVOPOS-CA",
   "description": "NOVOPOS C.A",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "200.26.185.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,9 +3,7 @@
   "handle": "MEYER-TELECOM",
   "description": "MEYER TELECOM",
   "subnets": {
-    "ipv4": [
-      "128.201.96.0/23"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2804:3f38:9000::/36"
     ]

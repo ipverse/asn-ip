@@ -1,0 +1,11 @@
+{
+  "asn": 149895,
+  "handle": "IDNIC-AP1-ID",
+  "description": "PT Angkasa Pura I",
+  "subnets": {
+    "ipv4": [
+      "103.189.252.0/23"
+    ],
+    "ipv6": []
+  }
+}

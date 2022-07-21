@@ -1,0 +1,11 @@
+{
+  "asn": 25186,
+  "handle": "TRANSIT-VPN",
+  "description": "Orange S.A.",
+  "subnets": {
+    "ipv4": [
+      "193.57.5.0/24"
+    ],
+    "ipv6": []
+  }
+}

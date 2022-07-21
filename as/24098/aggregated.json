@@ -1,0 +1,11 @@
+{
+  "asn": 24098,
+  "handle": "EDGEIX-SYD",
+  "description": "They Call Me Joe",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2400:3120:fff0::/44"
+    ]
+  }
+}

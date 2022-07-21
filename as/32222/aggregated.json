@@ -3,7 +3,9 @@
   "handle": "ACCESSLINE-COM-2000",
   "description": "AccessLine Communications Corp.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "64.28.121.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "RADINS-TELECOMUNICAES",
   "description": "Radins Telecomunicaes",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "131.0.76.0/23"
+    ],
     "ipv6": []
   }
 }

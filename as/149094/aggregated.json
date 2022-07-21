@@ -1,0 +1,13 @@
+{
+  "asn": 149094,
+  "handle": "THMREFRIGERATION-VN",
+  "description": "THM REFRIGERATION TECHNICIANS COMPANY LIMITED",
+  "subnets": {
+    "ipv4": [
+      "103.186.146.0/23"
+    ],
+    "ipv6": [
+      "2001:df0:aa40::/48"
+    ]
+  }
+}

@@ -4,6 +4,7 @@
   "description": "LIDERI TELECOM",
   "subnets": {
     "ipv4": [
+      "168.196.207.0/24",
       "186.208.0.0/20"
     ],
     "ipv6": [

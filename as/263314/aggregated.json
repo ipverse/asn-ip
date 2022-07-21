@@ -3,9 +3,7 @@
   "handle": "ATALINK-TELECOMUNICACOES",
   "description": "ATALINK TELECOMUNICACOES",
   "subnets": {
-    "ipv4": [
-      "179.191.8.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

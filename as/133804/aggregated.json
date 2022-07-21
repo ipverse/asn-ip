@@ -3,9 +3,7 @@
   "handle": "IDNIC-FIC-ID",
   "description": "PT FANGBIAN ISKAN CORPORINDO",
   "subnets": {
-    "ipv4": [
-      "103.47.228.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

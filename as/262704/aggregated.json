@@ -3,7 +3,9 @@
   "handle": "FD-INFORMATICA-LTDA-EPP",
   "description": "FD Informatica Ltda EPP",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.177.115.0/24"
+    ],
     "ipv6": [
       "2804:ee8::/32"
     ]
