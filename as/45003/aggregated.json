@@ -3,7 +3,9 @@
   "handle": "VTB-UFA",
   "description": "VTB Bank (Public Joint-Stock Company)",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.5.178.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,10 @@
   "handle": "HIHART",
   "description": "H. I. Cable, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.131.243.0/24",
+      "38.135.107.0/24"
+    ],
     "ipv6": []
   }
 }

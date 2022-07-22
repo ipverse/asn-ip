@@ -1,0 +1,11 @@
+{
+  "asn": 9690,
+  "handle": "SMARTRONET-KR",
+  "description": "SMARTRO",
+  "subnets": {
+    "ipv4": [
+      "220.93.96.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -4,6 +4,7 @@
   "description": "Micro Hosting Private Limited",
   "subnets": {
     "ipv4": [
+      "43.230.203.0/24",
       "89.47.59.0/24",
       "103.127.28.0/22",
       "103.127.156.0/23",

@@ -3,7 +3,9 @@
   "handle": "DATAGRID-NETWORK",
   "description": "DATA GRID NETWORK LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.234.102.0/24"
+    ],
     "ipv6": [
       "2a10:da80::/29"
     ]

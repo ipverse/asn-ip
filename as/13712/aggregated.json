@@ -4,6 +4,7 @@
   "description": "Saint Marys University of Minnesota",
   "subnets": {
     "ipv4": [
+      "140.190.120.0/21",
       "140.190.192.0/18"
     ],
     "ipv6": []

@@ -1,0 +1,11 @@
+{
+  "asn": 149681,
+  "handle": "IDNIC-OSA-ID",
+  "description": "PT Oreo Smart Access",
+  "subnets": {
+    "ipv4": [
+      "103.185.40.0/23"
+    ],
+    "ipv6": []
+  }
+}

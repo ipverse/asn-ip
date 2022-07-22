@@ -4,6 +4,7 @@
   "description": "Sky Network Television Ltd",
   "subnets": {
     "ipv4": [
+      "60.234.181.0/24",
       "60.234.184.0/24",
       "60.234.190.0/24",
       "60.234.192.0/24",

@@ -4,6 +4,7 @@
   "description": "FULL DATA COMUNICACIONES C.A.",
   "subnets": {
     "ipv4": [
+      "38.43.192.0/18",
       "45.186.200.0/22"
     ],
     "ipv6": []

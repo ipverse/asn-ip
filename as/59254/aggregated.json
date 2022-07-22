@@ -1,0 +1,11 @@
+{
+  "asn": 59254,
+  "handle": "BRAINNET",
+  "description": "Brain NET",
+  "subnets": {
+    "ipv4": [
+      "103.224.12.0/22"
+    ],
+    "ipv6": []
+  }
+}
