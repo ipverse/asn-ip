@@ -4,7 +4,8 @@
   "description": "IT Spectrum Company Limited",
   "subnets": {
     "ipv4": [
-      "103.83.188.0/22"
+      "103.83.188.0/22",
+      "103.149.51.0/24"
     ],
     "ipv6": []
   }

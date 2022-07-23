@@ -3,11 +3,7 @@
   "handle": "W-DA-S-PAIXAO",
   "description": "W da S Paixao",
   "subnets": {
-    "ipv4": [
-      "45.187.128.0/22"
-    ],
-    "ipv6": [
-      "2804:6510::/32"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

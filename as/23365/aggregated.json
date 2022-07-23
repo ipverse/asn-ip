@@ -3,10 +3,7 @@
   "handle": "IFBYPHONE",
   "description": "DialogTech, Inc.",
   "subnets": {
-    "ipv4": [
-      "52.129.14.0/24",
-      "64.74.105.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

@@ -3,11 +3,7 @@
   "handle": "APCI",
   "description": "Air Products \u0026 Chemicals, Inc.",
   "subnets": {
-    "ipv4": [
-      "204.27.156.0/24"
-    ],
-    "ipv6": [
-      "2620:146:d::/48"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "OYAMA-BAHIA-DA-SILVA",
   "description": "Oyama Bahia da Silva",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "177.124.144.0/22"
+    ],
     "ipv6": [
       "2804:7d4::/32"
     ]

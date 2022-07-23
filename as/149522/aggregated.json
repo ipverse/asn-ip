@@ -3,11 +3,7 @@
   "handle": "ONECUBITCOLTD-AP",
   "description": "OneCubit Co., Ltd.",
   "subnets": {
-    "ipv4": [
-      "103.182.122.0/24"
-    ],
-    "ipv6": [
-      "2400:5ce0::/44"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

@@ -3,9 +3,7 @@
   "handle": "ITERGO-CCH",
   "description": "ITERGO Informationstechnologie GmbH",
   "subnets": {
-    "ipv4": [
-      "193.53.111.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }
