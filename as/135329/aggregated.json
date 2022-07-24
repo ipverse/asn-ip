@@ -1,0 +1,13 @@
+{
+  "asn": 135329,
+  "handle": "SYMPHONY-AP",
+  "description": "Symphony Communication Public Company Limited",
+  "subnets": {
+    "ipv4": [
+      "83.118.72.0/24"
+    ],
+    "ipv6": [
+      "2400:6280:160::/48"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asn": 140056,
+  "handle": "CHINANET-MAOMING-AP",
+  "description": "China Telecom",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "240e:1f:ce00::/40"
+    ]
+  }
+}

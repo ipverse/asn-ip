@@ -1,0 +1,11 @@
+{
+  "asn": 204005,
+  "handle": "BP-NET",
+  "description": "Billing Panel Limited",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a12:dd47:8130::/48"
+    ]
+  }
+}

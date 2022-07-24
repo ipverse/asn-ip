@@ -3,7 +3,10 @@
   "handle": "CCBSPL-IN",
   "description": "Crystal Clear Broadband Services Pvt. Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.134.252.0/23",
+      "103.175.96.0/23"
+    ],
     "ipv6": []
   }
 }

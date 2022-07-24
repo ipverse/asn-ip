@@ -3,9 +3,7 @@
   "handle": "NODESDIRECT",
   "description": "Nodes Direct",
   "subnets": {
-    "ipv4": [
-      "184.175.196.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }
