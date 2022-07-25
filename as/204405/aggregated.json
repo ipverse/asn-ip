@@ -4,6 +4,8 @@
   "description": "Durnet.cz sro",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a02:17a5::/32"
+    ]
   }
 }

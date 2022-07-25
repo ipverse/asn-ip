@@ -3,7 +3,9 @@
   "handle": "ICOM",
   "description": "ICOM Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.212.17.0/24"
+    ],
     "ipv6": []
   }
 }

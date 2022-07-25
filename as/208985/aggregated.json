@@ -4,6 +4,9 @@
   "description": "Niklas Polte",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2001:67c:914::/48",
+      "2a0d:2682::/33"
+    ]
   }
 }

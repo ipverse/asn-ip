@@ -3,7 +3,11 @@
   "handle": "TELECOMAVELDE",
   "description": "Carmine Cella",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.133.104.0/23",
+      "81.31.231.0/24",
+      "178.253.26.0/23"
+    ],
     "ipv6": []
   }
 }
