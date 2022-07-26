@@ -3,7 +3,9 @@
   "handle": "DASSAULTSYSTEMES",
   "description": "DASSAULT SYSTEMES SE",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "160.231.112.0/24"
+    ],
     "ipv6": []
   }
 }

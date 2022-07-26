@@ -4,6 +4,7 @@
   "description": "UAB Hiperinternetas",
   "subnets": {
     "ipv4": [
+      "130.180.224.0/19",
       "171.22.240.0/22"
     ],
     "ipv6": []

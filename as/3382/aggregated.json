@@ -4,8 +4,7 @@
   "description": "University of Indonesia",
   "subnets": {
     "ipv4": [
-      "152.118.0.0/16",
-      "192.41.206.0/24"
+      "152.118.0.0/16"
     ],
     "ipv6": []
   }

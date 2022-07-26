@@ -1,0 +1,13 @@
+{
+  "asn": 206880,
+  "handle": "AGILIMO",
+  "description": "agilimo Consulting GmbH",
+  "subnets": {
+    "ipv4": [
+      "185.20.232.0/24"
+    ],
+    "ipv6": [
+      "2a12:6ac0::/29"
+    ]
+  }
+}

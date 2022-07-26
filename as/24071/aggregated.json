@@ -3,9 +3,7 @@
   "handle": "GARENA-PHIL-PH",
   "description": "ePLDT Inc.",
   "subnets": {
-    "ipv4": [
-      "125.5.3.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

@@ -3,9 +3,7 @@
   "handle": "PICANHA-NET",
   "description": "Picanha Networks Inc.",
   "subnets": {
-    "ipv4": [
-      "204.174.100.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

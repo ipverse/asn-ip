@@ -3,7 +3,9 @@
   "handle": "TERA-CORP",
   "description": "Tera Corp",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "191.37.169.0/24"
+    ],
     "ipv6": [
       "2804:7518::/32"
     ]

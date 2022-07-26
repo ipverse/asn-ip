@@ -3,11 +3,7 @@
   "handle": "T-B-VALENTE-CIA-LTDA",
   "description": "T. B. VALENTE \u0026 CIA LTDA",
   "subnets": {
-    "ipv4": [
-      "131.161.60.0/22"
-    ],
-    "ipv6": [
-      "2804:1d5c::/32"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

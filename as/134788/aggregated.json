@@ -4,8 +4,7 @@
   "description": "Parasat Cable TV, Inc",
   "subnets": {
     "ipv4": [
-      "103.62.152.0/22",
-      "206.62.40.0/22"
+      "103.62.152.0/22"
     ],
     "ipv6": []
   }

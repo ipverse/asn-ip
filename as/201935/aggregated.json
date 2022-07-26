@@ -4,6 +4,7 @@
   "description": "Skylogic Mediterraneo s.r.l",
   "subnets": {
     "ipv4": [
+      "8.39.88.0/24",
       "82.85.176.0/24",
       "84.254.130.0/24",
       "84.254.137.0/24",

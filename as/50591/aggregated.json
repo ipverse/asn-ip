@@ -4,8 +4,7 @@
   "description": "Boomerang Rayaneh",
   "subnets": {
     "ipv4": [
-      "109.230.64.0/19",
-      "109.230.96.0/20"
+      "109.230.64.0/19"
     ],
     "ipv6": []
   }

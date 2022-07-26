@@ -4,7 +4,7 @@
   "description": "Aironet Broadband Private Limited",
   "subnets": {
     "ipv4": [
-      "103.161.234.0/23"
+      "103.161.234.0/24"
     ],
     "ipv6": []
   }

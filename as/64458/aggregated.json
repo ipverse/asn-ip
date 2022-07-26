@@ -4,6 +4,7 @@
   "description": "Mizban Dade Pasargad",
   "subnets": {
     "ipv4": [
+      "185.81.97.0/24",
       "194.59.170.0/24"
     ],
     "ipv6": []

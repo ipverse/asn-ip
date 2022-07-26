@@ -3,10 +3,7 @@
   "handle": "AACL-AP",
   "description": "Arif Azim Ltd",
   "subnets": {
-    "ipv4": [
-      "103.147.233.0/24",
-      "103.230.252.0/22"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

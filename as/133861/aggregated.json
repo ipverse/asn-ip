@@ -3,7 +3,10 @@
   "handle": "HUPOLIMITED-AP",
   "description": "HUPO LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.251.90.0/24",
+      "149.30.202.0/24"
+    ],
     "ipv6": []
   }
 }

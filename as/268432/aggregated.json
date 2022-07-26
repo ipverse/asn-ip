@@ -4,7 +4,8 @@
   "description": "DIGITAL COMUNICAO VIRTUAL EIRELI",
   "subnets": {
     "ipv4": [
-      "45.160.160.0/22"
+      "45.160.160.0/23",
+      "45.160.162.0/24"
     ],
     "ipv6": [
       "2804:5120::/32"
