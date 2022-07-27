@@ -3,7 +3,9 @@
   "handle": "TURKUENERGIA",
   "description": "Oy Turku Energia Abo Energi AB",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.163.185.0/24"
+    ],
     "ipv6": []
   }
 }

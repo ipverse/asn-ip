@@ -1,13 +1,13 @@
 {
   "asn": 210815,
-  "handle": "SHOUYU",
+  "handle": "SHOUYUNETWORK",
   "description": "Feng, Zhe",
   "subnets": {
     "ipv4": [],
     "ipv6": [
+      "2a0e:aa07:e027::/48",
       "2a0f:9400:7390::/47",
       "2a0f:9400:7392::/48",
-      "2a0f:9400:7395::/48",
       "2a0f:9400:7398::/48"
     ]
   }

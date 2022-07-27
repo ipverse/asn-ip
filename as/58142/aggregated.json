@@ -3,7 +3,10 @@
   "handle": "RASANE",
   "description": "Samaneh Sama Pishro Persian Communications and Information Development Company PJS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "5.34.192.0/21",
+      "5.34.200.0/22"
+    ],
     "ipv6": []
   }
 }

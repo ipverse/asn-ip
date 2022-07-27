@@ -3,7 +3,11 @@
   "handle": "SPEEDDIG",
   "description": "Speedmaxx Digital Networks Pvt Ltd",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "103.112.8.0/22"
+    ],
+    "ipv6": [
+      "2407:6fc0::/32"
+    ]
   }
 }

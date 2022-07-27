@@ -3,7 +3,9 @@
   "handle": "FIBRA-FIRE-NET",
   "description": "Fibra Fire Net Comunicacoes LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.70.52.0/24"
+    ],
     "ipv6": [
       "2804:866c::/32"
     ]

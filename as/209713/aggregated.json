@@ -3,9 +3,7 @@
   "handle": "YRA-MURM",
   "description": "Game Insight UAB",
   "subnets": {
-    "ipv4": [
-      "185.253.151.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

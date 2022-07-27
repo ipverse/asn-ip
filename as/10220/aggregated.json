@@ -3,7 +3,9 @@
   "handle": "INTERFAST-ID",
   "description": "PT. Kreasi Sejahtera Teknologi",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "202.51.198.0/24"
+    ],
     "ipv6": []
   }
 }

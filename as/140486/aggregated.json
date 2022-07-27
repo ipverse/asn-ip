@@ -3,13 +3,7 @@
   "handle": "CHINATELECOM-ZHEJIANG-JINHUA-5GC-NETWORK",
   "description": "China Telecom",
   "subnets": {
-    "ipv4": [
-      "36.21.128.0/17",
-      "36.28.128.0/17",
-      "115.220.65.0/24",
-      "115.233.186.0/24",
-      "183.137.128.0/17"
-    ],
+    "ipv4": [],
     "ipv6": [
       "240e:471::/32",
       "240e:473:ff01::/48",

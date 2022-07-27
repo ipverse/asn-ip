@@ -4,6 +4,8 @@
   "description": "Taiwan Cooperative Bank",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2400:c780::/32"
+    ]
   }
 }

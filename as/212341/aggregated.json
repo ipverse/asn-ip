@@ -3,11 +3,7 @@
   "handle": "CSN-DATACENTER-CIX",
   "description": "Stephan Rakowski, trading as CSN Solutions e.K.",
   "subnets": {
-    "ipv4": [
-      "185.66.178.0/24"
-    ],
-    "ipv6": [
-      "2a05:900::/29"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

@@ -4,8 +4,7 @@
   "description": "Maxnet Online Limited",
   "subnets": {
     "ipv4": [
-      "103.209.80.0/24",
-      "103.209.82.0/24"
+      "103.209.80.0/22"
     ],
     "ipv6": []
   }

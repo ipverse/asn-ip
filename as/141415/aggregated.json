@@ -3,9 +3,7 @@
   "handle": "CMI-IDN-AP",
   "description": "China Mobile International Limited",
   "subnets": {
-    "ipv4": [
-      "223.119.52.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "GERRYWEBER",
   "description": "GERRY WEBER International AG",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "209.206.39.0/24"
+    ],
     "ipv6": []
   }
 }

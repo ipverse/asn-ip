@@ -1,0 +1,12 @@
+{
+  "asn": 150044,
+  "handle": "MIEUXTECH-IN",
+  "description": "Mieux Technologies Pvt Ltd",
+  "subnets": {
+    "ipv4": [
+      "103.178.248.0/24",
+      "103.190.95.0/24"
+    ],
+    "ipv6": []
+  }
+}

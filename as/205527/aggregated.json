@@ -4,7 +4,8 @@
   "description": "OPEN TEXT CORPORATION",
   "subnets": {
     "ipv4": [
-      "149.235.16.0/20"
+      "149.235.16.0/20",
+      "192.67.53.0/24"
     ],
     "ipv6": []
   }

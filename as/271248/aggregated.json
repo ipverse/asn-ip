@@ -3,7 +3,9 @@
   "handle": "MYNETS-SERVICOS-DE",
   "description": "MYNETS SERVICOS DE COMUNICACAO LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "200.106.208.0/22"
+    ],
     "ipv6": [
       "2804:7884::/32"
     ]

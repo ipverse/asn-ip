@@ -1,0 +1,11 @@
+{
+  "asn": 204844,
+  "handle": "NCSE-NETWORK",
+  "description": "NCSE NETWORK LTD",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a12:dd47:8000::/48"
+    ]
+  }
+}

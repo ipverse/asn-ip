@@ -4,7 +4,8 @@
   "description": "Black Hills State University",
   "subnets": {
     "ipv4": [
-      "198.177.154.0/24"
+      "198.177.154.0/24",
+      "204.52.252.0/24"
     ],
     "ipv6": []
   }

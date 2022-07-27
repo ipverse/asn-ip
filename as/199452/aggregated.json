@@ -1,9 +1,10 @@
 {
   "asn": 199452,
   "handle": "MS3",
-  "description": "MS3 Network Ltd",
+  "description": "MS3 Networks Ltd",
   "subnets": {
     "ipv4": [
+      "154.61.46.0/24",
       "154.61.50.0/24"
     ],
     "ipv6": []

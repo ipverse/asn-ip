@@ -4,6 +4,7 @@
   "description": "LLC Fintender-crypto",
   "subnets": {
     "ipv4": [
+      "185.179.87.0/24",
       "185.232.231.0/24"
     ],
     "ipv6": []

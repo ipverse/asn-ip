@@ -3,7 +3,9 @@
   "handle": "ETH-ENTERPRISE-TECNOLOGIA",
   "description": "ETH ENTERPRISE TECNOLOGIA LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.226.80.0/22"
+    ],
     "ipv6": [
       "2804:4670::/32"
     ]
