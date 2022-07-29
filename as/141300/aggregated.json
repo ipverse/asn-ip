@@ -3,7 +3,9 @@
   "handle": "VWPL-IN",
   "description": "Vrd Webservices Pvt Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.160.108.0/23"
+    ],
     "ipv6": []
   }
 }

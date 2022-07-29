@@ -3,7 +3,9 @@
   "handle": "XANTERRA",
   "description": "XANTERRA Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "12.172.100.0/24"
+    ],
     "ipv6": []
   }
 }

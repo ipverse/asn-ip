@@ -4,7 +4,6 @@
   "description": "Octopus Cloud Computing (Shanghai) Co., Ltd",
   "subnets": {
     "ipv4": [
-      "45.195.242.0/23",
       "103.186.112.0/23"
     ],
     "ipv6": []

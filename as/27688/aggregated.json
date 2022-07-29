@@ -3,9 +3,7 @@
   "handle": "WINFNET-TELECOM-WIRELESS-LTDA",
   "description": "Winfnet Telecom Wireless Ltda",
   "subnets": {
-    "ipv4": [
-      "200.159.128.0/19"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2804:54a0::/32"
     ]

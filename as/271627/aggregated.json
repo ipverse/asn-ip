@@ -3,7 +3,9 @@
   "handle": "ZAP-TELECOM-EIRELI",
   "description": "ZAP TELECOM EIRELI",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.178.80.0/24"
+    ],
     "ipv6": [
       "2804:7e7c::/32"
     ]

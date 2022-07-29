@@ -3,7 +3,11 @@
   "handle": "KINNIKU-NET",
   "description": "DWANGO Co.,Ltd.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "202.223.10.0/23"
+    ],
+    "ipv6": [
+      "2404:ce00:ff00::/40"
+    ]
   }
 }

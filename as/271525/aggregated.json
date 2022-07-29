@@ -3,7 +3,9 @@
   "handle": "DETROX-NETWORKS-E",
   "description": "Detrox Networks e Internet LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "179.63.17.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -1,10 +1,8 @@
 {
   "asn": 263092,
-  "handle": "VOUS-SOLUCOES-INTELIGENTES",
-  "description": "VOUS SOLUCOES INTELIGENTES LTDA",
   "subnets": {
     "ipv4": [
-      "186.209.112.0/21"
+      "186.209.118.0/23"
     ],
     "ipv6": [
       "2804:97c::/32"

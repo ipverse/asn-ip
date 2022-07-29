@@ -1,0 +1,13 @@
+{
+  "asn": 203619,
+  "handle": "CASTRO",
+  "description": "Tomas Oliveira Valente Leite de Castro",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a06:a005:1410::/44",
+      "2a06:a005:1420::/43",
+      "2a06:a005:1440::/43"
+    ]
+  }
+}

@@ -3,7 +3,9 @@
   "handle": "MCR-CAMPOS-INFORMATICA",
   "description": "M.C.R. CAMPOS INFORMATICA E TELECOMUNICAES-ME",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "168.121.124.0/24"
+    ],
     "ipv6": [
       "2804:2248::/32"
     ]

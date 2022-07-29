@@ -4,6 +4,7 @@
   "description": "1 Touch BD Online Ltd.",
   "subnets": {
     "ipv4": [
+      "103.106.184.0/24",
       "103.106.187.0/24"
     ],
     "ipv6": []

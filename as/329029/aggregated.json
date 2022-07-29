@@ -1,0 +1,11 @@
+{
+  "asn": 329029,
+  "handle": "MN3",
+  "description": "Mymanga Networks",
+  "subnets": {
+    "ipv4": [
+      "102.215.32.0/23"
+    ],
+    "ipv6": []
+  }
+}

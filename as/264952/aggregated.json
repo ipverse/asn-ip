@@ -3,9 +3,7 @@
   "handle": "GSG-TELECOM-SERVICOS-LTDA-ME",
   "description": "GSG TELECOM SERVICOS LTDA - ME",
   "subnets": {
-    "ipv4": [
-      "168.232.241.0/24"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2804:3074::/32"
     ]

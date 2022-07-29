@@ -4,8 +4,7 @@
   "description": "NOVA NET TECNOLOGIA LTDA - ME",
   "subnets": {
     "ipv4": [
-      "131.0.4.0/23",
-      "131.0.7.0/24"
+      "131.0.4.0/22"
     ],
     "ipv6": [
       "2804:1a58::/33",

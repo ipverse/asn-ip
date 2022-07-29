@@ -3,7 +3,9 @@
   "handle": "HYPOHR",
   "description": "Hypo-Leasing-Kroatien d.o.o.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.78.34.0/23"
+    ],
     "ipv6": []
   }
 }

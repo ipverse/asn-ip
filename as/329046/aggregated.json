@@ -4,6 +4,7 @@
   "description": "CFM WIRELESS (PTY) LTD",
   "subnets": {
     "ipv4": [
+      "41.85.71.0/24",
       "102.216.22.0/24"
     ],
     "ipv6": []

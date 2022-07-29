@@ -3,7 +3,9 @@
   "handle": "IBSL1",
   "description": "Intech Business Solutions (Pty) Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "102.215.64.0/22"
+    ],
     "ipv6": []
   }
 }

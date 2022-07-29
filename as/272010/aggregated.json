@@ -1,0 +1,11 @@
+{
+  "asn": 272010,
+  "handle": "CLEARNET-SA",
+  "description": "CLEARNET S.A.",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2803:5910::/32"
+    ]
+  }
+}
