@@ -9,6 +9,7 @@ This repository is updated daily.
 - Route advertisment check, see if/how the routes of a specific autonomous system are seen (even over time, thanks to Git's changelog)
 - Find out more about a specific ASN (autonomous system number) using the provided lookup table (currently .csv format only) or use it in your own software project for bulk/offline use
 - Statistical analysis purposes, e.g. the number of public IPv4 addresses currently announced vs unused/unassigned
+- OSINT/CTI Cyber Threat Intelligence
 
 ## How to use
 
