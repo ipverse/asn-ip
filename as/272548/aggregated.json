@@ -3,7 +3,9 @@
   "handle": "BORGES-ALEXANDRE-CIA-LTDA",
   "description": "BORGES ALEXANDRE \u0026 CIA LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "181.232.232.0/22"
+    ],
     "ipv6": [
       "2804:84f4::/32"
     ]

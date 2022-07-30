@@ -4,6 +4,7 @@
   "description": "CBVISION S.A.",
   "subnets": {
     "ipv4": [
+      "45.171.120.0/24",
       "45.189.56.0/22"
     ],
     "ipv6": [

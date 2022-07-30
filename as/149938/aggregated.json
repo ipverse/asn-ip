@@ -1,0 +1,11 @@
+{
+  "asn": 149938,
+  "handle": "IDNIC-ATHANET-ID",
+  "description": "PT Atha Internet Nusantara",
+  "subnets": {
+    "ipv4": [
+      "103.5.149.0/24"
+    ],
+    "ipv6": []
+  }
+}
