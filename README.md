@@ -19,7 +19,7 @@ IPv4 and IPv6 subnets (e.g. 100.2.30.0/22) organized by announcing autonomous sy
 }
 ```
 
-Additionally, a list of autonomous systems with their ASN and description is provided in the ```as.csv``` file:
+Additionally, a list of autonomous systems with their AS number (ASN), AS name and description is provided in the ```as.csv``` file:
 ```
 asn,handle,description
 0,IANA-RSVD,"Internet Assigned Numbers Authority"
