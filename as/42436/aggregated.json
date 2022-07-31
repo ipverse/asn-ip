@@ -3,7 +3,9 @@
   "handle": "CA",
   "description": "Consumers Association",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "143.41.0.0/21"
+    ],
     "ipv6": []
   }
 }

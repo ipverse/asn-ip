@@ -1,0 +1,12 @@
+{
+  "asn": 150129,
+  "handle": "WALITELECOM-AP",
+  "description": "WaliTel",
+  "subnets": {
+    "ipv4": [
+      "103.153.117.0/24",
+      "103.154.65.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -3,7 +3,9 @@
   "handle": "ALLTEC-INTERNET",
   "description": "ALLTEC INTERNET",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "186.209.124.0/22"
+    ],
     "ipv6": [
       "2804:700c::/32"
     ]

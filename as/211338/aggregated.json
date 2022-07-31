@@ -3,9 +3,7 @@
   "handle": "WEBMEDIA-NIJMEGEN",
   "description": "Kenneth Wolfs trading as Webmedia - Nijmegen",
   "subnets": {
-    "ipv4": [
-      "109.105.198.0/24"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2a0d:2406:3000::/48"
     ]

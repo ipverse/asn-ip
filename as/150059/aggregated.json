@@ -1,0 +1,11 @@
+{
+  "asn": 150059,
+  "handle": "DIGITAL21-IN",
+  "description": "Digital Network Solution",
+  "subnets": {
+    "ipv4": [
+      "103.5.104.0/24"
+    ],
+    "ipv6": []
+  }
+}

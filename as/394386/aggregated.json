@@ -3,9 +3,7 @@
   "handle": "OCAN",
   "description": "OANDA (Canada) Corporation ULC",
   "subnets": {
-    "ipv4": [
-      "192.247.0.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }
