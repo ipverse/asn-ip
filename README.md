@@ -1,6 +1,10 @@
 # ipverse-asn-ip
 
-IPv4 and IPv6 subnets (e.g. 100.2.30.0/22) organized by announcing autonomous systems. The subnets are aggregated to save space.  
+IPv4 and IPv6 subnets (e.g. 100.2.30.0/22) organized by announcing autonomous systems. The subnets are aggregated to save space.
+Additionally, list of autonomous systems with their ASN and description is provided in the ```as.csv``` file:
+```
+...
+```
 
 This repository is updated daily.
 
@@ -41,7 +45,7 @@ The resulting JSON will look similar to this:
 }
 ```
 
-To download the latest lookup table used to enhance the generated route data:  
+To download the latest autonomous system lookup table used to enhance the generated route data:  
 ```$ curl https://raw.githubusercontent.com/ipverse/asn-ip/master/as.csv```
 
 If you plan to use the routing data for firewalling purposes, have a look at:
