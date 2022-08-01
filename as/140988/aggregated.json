@@ -1,0 +1,11 @@
+{
+  "asn": 140988,
+  "handle": "SIMEC1-AP",
+  "description": "SIMEC SYSTEM LTD.",
+  "subnets": {
+    "ipv4": [
+      "103.66.168.0/23"
+    ],
+    "ipv6": []
+  }
+}

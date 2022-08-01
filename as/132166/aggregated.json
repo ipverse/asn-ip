@@ -3,7 +3,9 @@
   "handle": "RIDA-AP",
   "description": "Rida Communication Private Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.6.132.0/22"
+    ],
     "ipv6": []
   }
 }

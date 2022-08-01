@@ -3,7 +3,9 @@
   "handle": "CONNECT-TELECOMUNICACOES-LTDA",
   "description": "CONNECT TELECOMUNICACOES LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.181.184.0/22"
+    ],
     "ipv6": []
   }
 }

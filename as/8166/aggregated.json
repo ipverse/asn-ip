@@ -3,10 +3,7 @@
   "handle": "PRISMNET",
   "description": "PrismNet, Ltd.",
   "subnets": {
-    "ipv4": [
-      "205.238.184.0/22",
-      "209.198.128.0/19"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

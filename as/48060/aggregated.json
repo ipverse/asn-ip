@@ -3,11 +3,7 @@
   "handle": "BERTSCHI",
   "description": "Bertschi AG",
   "subnets": {
-    "ipv4": [
-      "194.147.70.0/24"
-    ],
-    "ipv6": [
-      "2001:678:4c4::/48"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

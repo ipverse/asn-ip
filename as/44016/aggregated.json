@@ -4,6 +4,7 @@
   "description": "XS Usenet B.V.",
   "subnets": {
     "ipv4": [
+      "91.235.168.0/24",
       "193.23.60.0/24"
     ],
     "ipv6": [

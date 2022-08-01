@@ -3,7 +3,9 @@
   "handle": "MAILBOX",
   "description": "Mailbox Internet Hizmetleri Ltd. Sti.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.133.39.0/24"
+    ],
     "ipv6": []
   }
 }

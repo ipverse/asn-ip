@@ -3,7 +3,9 @@
   "handle": "IRUM",
   "description": "IRUM SA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "5.154.186.0/24"
+    ],
     "ipv6": []
   }
 }
