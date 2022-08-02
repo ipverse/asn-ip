@@ -1,0 +1,11 @@
+{
+  "asn": 272744,
+  "handle": "DC-INTERNET-EIRELI",
+  "description": "DC INTERNET EIRELI",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2804:87fc::/32"
+    ]
+  }
+}

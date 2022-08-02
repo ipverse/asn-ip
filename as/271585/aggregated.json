@@ -3,9 +3,7 @@
   "handle": "XIS-3-PROVEDORES",
   "description": "XIS 3 PROVEDORES DE INTERNET VIA FIBRA LTDA",
   "subnets": {
-    "ipv4": [
-      "201.216.79.0/24"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2804:7dd4::/32"
     ]

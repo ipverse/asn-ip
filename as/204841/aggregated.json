@@ -1,9 +1,11 @@
 {
   "asn": 204841,
-  "handle": "T-INDUSTRIAL",
-  "description": "T-Industrial Networks Ltd",
+  "handle": "AVSYSTEM",
+  "description": "AVSYSTEM SLAWOMIR WOLF SPOLKA JAWNA",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a06:a005:434::/48"
+    ]
   }
 }

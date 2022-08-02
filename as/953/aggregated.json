@@ -3,9 +3,7 @@
   "handle": "MW-UUN",
   "description": "Midwest Cable",
   "subnets": {
-    "ipv4": [
-      "63.161.89.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

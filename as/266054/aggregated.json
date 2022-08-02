@@ -4,7 +4,8 @@
   "description": "Skill.Net Telecomunicaes",
   "subnets": {
     "ipv4": [
-      "45.4.40.0/22"
+      "45.4.40.0/24",
+      "45.4.42.0/23"
     ],
     "ipv6": [
       "2804:39d8::/32",

@@ -4,6 +4,7 @@
   "description": "Joseph Farnell",
   "subnets": {
     "ipv4": [
+      "88.151.9.0/24",
       "149.34.51.0/24"
     ],
     "ipv6": [

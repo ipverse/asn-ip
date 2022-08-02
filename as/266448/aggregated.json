@@ -4,6 +4,7 @@
   "description": "XP Tecnologia Ltda",
   "subnets": {
     "ipv4": [
+      "138.0.0.0/22",
       "170.82.220.0/22"
     ],
     "ipv6": [

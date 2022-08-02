@@ -3,12 +3,7 @@
   "handle": "NETCOM-TERESOPOLIS-INFORMATICA",
   "description": "NETCOM TERESOPOLIS INFORMATICA E INTERNET LTDA-ME",
   "subnets": {
-    "ipv4": [
-      "168.90.116.0/22",
-      "177.125.0.0/21"
-    ],
-    "ipv6": [
-      "2804:7e0::/32"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

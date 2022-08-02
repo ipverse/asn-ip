@@ -3,11 +3,7 @@
   "handle": "BITNET-AP",
   "description": "Bit Net Technology",
   "subnets": {
-    "ipv4": [
-      "49.128.1.0/24",
-      "103.89.24.0/22",
-      "182.161.67.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

@@ -4,6 +4,7 @@
   "description": "OOO ComLine",
   "subnets": {
     "ipv4": [
+      "91.239.227.0/24",
       "185.63.196.0/22"
     ],
     "ipv6": []
