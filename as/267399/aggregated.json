@@ -1,0 +1,12 @@
+{
+  "asn": 267399,
+  "handle": "TOP-37-ESTACOES",
+  "description": "TOP 37 ESTACOES E REDES DE TELECOMUNICACOES LTDA",
+  "subnets": {
+    "ipv4": [
+      "45.235.32.0/22",
+      "138.94.204.0/22"
+    ],
+    "ipv6": []
+  }
+}

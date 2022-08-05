@@ -4,6 +4,7 @@
   "description": "EVONET SRL",
   "subnets": {
     "ipv4": [
+      "38.50.46.0/23",
       "45.148.192.0/23"
     ],
     "ipv6": []

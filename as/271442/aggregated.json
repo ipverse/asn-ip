@@ -1,0 +1,13 @@
+{
+  "asn": 271442,
+  "handle": "ATIVALINK-INTERNET-E",
+  "description": "ATIVALINK INTERNET E SOLUES EM TELECOMUNICAES",
+  "subnets": {
+    "ipv4": [
+      "207.248.28.0/22"
+    ],
+    "ipv6": [
+      "2804:7b98::/32"
+    ]
+  }
+}

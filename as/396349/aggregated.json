@@ -4,7 +4,6 @@
   "description": "Five College Net, LLC",
   "subnets": {
     "ipv4": [
-      "148.85.0.0/16",
       "192.80.66.0/24"
     ],
     "ipv6": []

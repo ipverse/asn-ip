@@ -1,11 +1,9 @@
 {
   "asn": 58110,
-  "handle": "IPVOLUME",
-  "description": "IP Volume LTD",
+  "handle": "RESERVED",
+  "description": "RIPE NCC ASN block",
   "subnets": {
-    "ipv4": [
-      "45.15.140.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

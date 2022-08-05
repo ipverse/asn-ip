@@ -3,7 +3,9 @@
   "handle": "RBS",
   "description": "LLC Runet Business Systems",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.226.174.0/24"
+    ],
     "ipv6": []
   }
 }

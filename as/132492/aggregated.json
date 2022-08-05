@@ -3,7 +3,9 @@
   "handle": "ARTC-AP",
   "description": "Australian Rail Track Corporation Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.148.251.0/24"
+    ],
     "ipv6": []
   }
 }

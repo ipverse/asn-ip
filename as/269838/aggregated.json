@@ -4,7 +4,8 @@
   "description": "MENA CORNEJO HECTOR ELIAS (TECMESH)",
   "subnets": {
     "ipv4": [
-      "45.186.140.0/23"
+      "45.186.140.0/23",
+      "45.229.6.0/24"
     ],
     "ipv6": []
   }
