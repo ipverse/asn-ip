@@ -4,6 +4,7 @@
   "description": "Questrade Inc.",
   "subnets": {
     "ipv4": [
+      "192.31.251.0/24",
       "204.89.196.0/24"
     ],
     "ipv6": []

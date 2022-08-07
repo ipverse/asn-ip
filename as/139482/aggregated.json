@@ -4,10 +4,8 @@
   "description": "Vilas Internet Services Pvt Ltd",
   "subnets": {
     "ipv4": [
-      "103.173.14.0/23"
+      "103.173.15.0/24"
     ],
-    "ipv6": [
-      "2405:9540::/32"
-    ]
+    "ipv6": []
   }
 }

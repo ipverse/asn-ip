@@ -3,9 +3,7 @@
   "handle": "IBRLINK-PROVEDOR-DE",
   "description": "IBRLINK PROVEDOR DE BANDA LARGA",
   "subnets": {
-    "ipv4": [
-      "170.82.233.0/24"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2804:3824::/32"
     ]
