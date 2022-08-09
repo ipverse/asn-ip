@@ -3,7 +3,9 @@
   "handle": "ZETTA-TELECOMUNICACOES-E",
   "description": "ZETTA TELECOMUNICACOES E SERVICOS LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "179.0.32.0/22"
+    ],
     "ipv6": []
   }
 }

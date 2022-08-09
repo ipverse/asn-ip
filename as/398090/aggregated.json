@@ -3,7 +3,9 @@
   "handle": "LAMBDA",
   "description": "Lambda",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "104.171.200.0/22"
+    ],
     "ipv6": []
   }
 }

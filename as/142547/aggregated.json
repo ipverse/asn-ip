@@ -3,9 +3,7 @@
   "handle": "FCNNM-AP",
   "description": "Fatickchari Communication Network",
   "subnets": {
-    "ipv4": [
-      "103.168.225.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

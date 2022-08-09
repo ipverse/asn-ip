@@ -3,7 +3,10 @@
   "handle": "COLOMX-LLC",
   "description": "ColoMX LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "134.172.128.0/18",
+      "198.176.53.0/24"
+    ],
     "ipv6": []
   }
 }

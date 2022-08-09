@@ -3,7 +3,9 @@
   "handle": "CHINATELECOM-HEILONGJIANG-IDC",
   "description": "Heilongjiang Province, P.R.China.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "43.225.208.0/22"
+    ],
     "ipv6": [
       "240e:1:800::/37",
       "240e:85:8000::/37",

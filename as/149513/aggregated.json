@@ -3,9 +3,7 @@
   "handle": "SLNTCL-AP",
   "description": "Shenzhen lesuyun Network Technology Co., Ltd",
   "subnets": {
-    "ipv4": [
-      "103.181.164.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

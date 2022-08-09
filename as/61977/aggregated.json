@@ -1,0 +1,13 @@
+{
+  "asn": 61977,
+  "handle": "PATH-GLOBAL-UK-LIMITED",
+  "description": "Path Global UK Limited",
+  "subnets": {
+    "ipv4": [
+      "38.143.153.0/24"
+    ],
+    "ipv6": [
+      "2a13:1500::/29"
+    ]
+  }
+}

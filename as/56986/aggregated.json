@@ -3,12 +3,7 @@
   "handle": "TELECABLECL",
   "description": "Telecable Clientes, S.L.",
   "subnets": {
-    "ipv4": [
-      "185.150.80.0/22",
-      "185.203.20.0/22"
-    ],
-    "ipv6": [
-      "2a0a:e9c0::/29"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

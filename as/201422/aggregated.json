@@ -4,7 +4,7 @@
   "description": "Treconet Oy",
   "subnets": {
     "ipv4": [
-      "185.75.128.0/22"
+      "185.75.128.0/24"
     ],
     "ipv6": []
   }

@@ -4,6 +4,7 @@
   "description": "PE Mykhaylo Sydorenko",
   "subnets": {
     "ipv4": [
+      "84.246.107.0/24",
       "194.9.91.0/24"
     ],
     "ipv6": []
