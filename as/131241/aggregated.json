@@ -1,0 +1,11 @@
+{
+  "asn": 131241,
+  "handle": "ACLEDABANKPLC-AP",
+  "description": "ACLEDA Bank Plc.",
+  "subnets": {
+    "ipv4": [
+      "103.83.162.0/23"
+    ],
+    "ipv6": []
+  }
+}

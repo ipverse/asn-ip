@@ -3,7 +3,9 @@
   "handle": "NM1737-AP",
   "description": "MANISHA TRADERS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.164.46.0/24"
+    ],
     "ipv6": []
   }
 }

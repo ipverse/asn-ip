@@ -3,7 +3,9 @@
   "handle": "PP-TELECOMMUNICATION-NETWORK",
   "description": "PP Telecommunication",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.22.148.0/22"
+    ],
     "ipv6": []
   }
 }

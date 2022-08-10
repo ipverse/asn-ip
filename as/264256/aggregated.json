@@ -3,7 +3,9 @@
   "handle": "SNOWLAND-PARTICIPACOES-E",
   "description": "SNOWLAND PARTICIPACOES E CONSULTORIA LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "200.5.9.0/24"
+    ],
     "ipv6": []
   }
 }
