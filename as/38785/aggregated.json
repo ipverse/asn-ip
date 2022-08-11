@@ -4,6 +4,7 @@
   "description": "PT. BORNEO BROADBAND TECHNOLOGY",
   "subnets": {
     "ipv4": [
+      "103.113.125.0/24",
       "103.113.126.0/23",
       "121.101.184.0/21"
     ],

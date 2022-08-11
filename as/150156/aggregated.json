@@ -1,0 +1,11 @@
+{
+  "asn": 150156,
+  "handle": "M99IT-AP",
+  "description": "99IT",
+  "subnets": {
+    "ipv4": [
+      "103.112.62.0/23"
+    ],
+    "ipv6": []
+  }
+}

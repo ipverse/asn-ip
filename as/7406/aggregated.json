@@ -1,0 +1,11 @@
+{
+  "asn": 7406,
+  "handle": "PDX-DC",
+  "description": "B\u0026R Auto",
+  "subnets": {
+    "ipv4": [
+      "65.220.3.0/24"
+    ],
+    "ipv6": []
+  }
+}

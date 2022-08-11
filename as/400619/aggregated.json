@@ -3,7 +3,9 @@
   "handle": "AROSS",
   "description": "AROSSCLOUD INC.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "107.151.200.0/21"
+    ],
     "ipv6": []
   }
 }

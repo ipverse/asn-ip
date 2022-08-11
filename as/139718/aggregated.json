@@ -3,7 +3,11 @@
   "handle": "TORNADO3-AP",
   "description": "Tornado Networks (Pvt.) Limited",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "103.144.10.0/23"
+    ],
+    "ipv6": [
+      "2001:df1:a880::/48"
+    ]
   }
 }

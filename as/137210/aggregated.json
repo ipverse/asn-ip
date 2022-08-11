@@ -3,11 +3,7 @@
   "handle": "PATHIBHARA-NP",
   "description": "Pathibhara Network Pvt. Ltd.",
   "subnets": {
-    "ipv4": [
-      "103.104.248.0/22"
-    ],
-    "ipv6": [
-      "2402:23c0::/32"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

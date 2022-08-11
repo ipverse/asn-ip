@@ -3,7 +3,9 @@
   "handle": "SECTRA",
   "description": "Sectra Imaging IT Solutions AB",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "5.252.128.0/24"
+    ],
     "ipv6": []
   }
 }

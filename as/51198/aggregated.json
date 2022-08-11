@@ -4,6 +4,7 @@
   "description": "Servada B.V.",
   "subnets": {
     "ipv4": [
+      "45.132.9.0/24",
       "45.132.10.0/24"
     ],
     "ipv6": [
