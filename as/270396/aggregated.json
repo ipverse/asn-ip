@@ -4,8 +4,7 @@
   "description": "VeloxNett servios de comunicao multimdia",
   "subnets": {
     "ipv4": [
-      "190.89.216.0/24",
-      "190.89.218.0/23"
+      "190.89.216.0/22"
     ],
     "ipv6": []
   }

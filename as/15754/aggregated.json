@@ -3,7 +3,9 @@
   "handle": "TECHNOLOGY45",
   "description": "OOO Taxtelecom",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.208.98.0/24"
+    ],
     "ipv6": []
   }
 }

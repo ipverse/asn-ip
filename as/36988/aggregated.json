@@ -3,7 +3,9 @@
   "handle": "AFRICELL-LINTEL",
   "description": "Africell Sierra Leone Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "41.223.132.0/22"
+    ],
     "ipv6": []
   }
 }

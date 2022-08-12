@@ -3,7 +3,9 @@
   "handle": "DIGITALWORLD-AP",
   "description": "Digital World",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.178.79.0/24"
+    ],
     "ipv6": []
   }
 }

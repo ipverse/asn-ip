@@ -3,10 +3,7 @@
   "handle": "WNTTELE",
   "description": "WNT Telecommunication GmbH",
   "subnets": {
-    "ipv4": [
-      "185.31.28.0/24",
-      "185.31.30.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

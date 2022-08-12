@@ -3,9 +3,7 @@
   "handle": "TECH99-AP",
   "description": "TECH99",
   "subnets": {
-    "ipv4": [
-      "103.146.194.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

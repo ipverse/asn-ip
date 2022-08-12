@@ -3,9 +3,7 @@
   "handle": "PINNA-86",
   "description": "Pinnacle Telecom, LLC.",
   "subnets": {
-    "ipv4": [
-      "199.15.192.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

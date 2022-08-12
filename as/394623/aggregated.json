@@ -3,7 +3,9 @@
   "handle": "AHA-MH-BGP",
   "description": "American Hospital Association",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "66.220.38.0/24"
+    ],
     "ipv6": []
   }
 }

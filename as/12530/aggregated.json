@@ -3,12 +3,7 @@
   "handle": "GOLDENTELECOM-UKRAINE",
   "description": "Kyivstar PJSC",
   "subnets": {
-    "ipv4": [
-      "62.64.64.0/18",
-      "83.170.192.0/18",
-      "85.223.128.0/17",
-      "89.162.128.0/17"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

@@ -3,9 +3,7 @@
   "handle": "REDE-TUXNET",
   "description": "Rede - TuxNet",
   "subnets": {
-    "ipv4": [
-      "186.195.0.0/20"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2804:5780::/32"
     ]

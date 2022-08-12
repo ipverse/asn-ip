@@ -3,7 +3,10 @@
   "handle": "NORD-CONNECT",
   "description": "Nord Connect OU",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.199.126.0/24",
+      "91.203.28.0/22"
+    ],
     "ipv6": []
   }
 }

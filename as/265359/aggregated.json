@@ -3,7 +3,10 @@
   "handle": "GOTCHA-NET-INTERNET-PROVIDER",
   "description": "gotcha net internet provider",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "168.181.244.0/24",
+      "168.181.246.0/23"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "MICHCOM",
   "description": "Michcom ISP",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.110.176.0/21"
+    ],
     "ipv6": []
   }
 }

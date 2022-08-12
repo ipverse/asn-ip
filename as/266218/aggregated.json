@@ -3,7 +3,9 @@
   "handle": "DDL-LINE-TELECOM-LTDA",
   "description": "DDL LINE TELECOM LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.145.192.0/22"
+    ],
     "ipv6": []
   }
 }
