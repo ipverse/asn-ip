@@ -1,6 +1,8 @@
 # ipverse-asn-ip
 
-IPv4 and IPv6 subnets (e.g. 100.2.30.0/22) organized by announcing autonomous systems (AS). All subnets are aggregated to save space. The data is available in TXT and JSON format. This is a JSON example for AS1234:
+IPv4 and IPv6 networks in CIDR notation (e.g. 100.2.30.0/22) organized by announcing autonomous systems (AS).
+All networks are aggregated to save space.
+The data is available in TXT and JSON format. This is a JSON example for AS1234:
 ```
 {
   "asn": 1234,
@@ -19,7 +21,7 @@ IPv4 and IPv6 subnets (e.g. 100.2.30.0/22) organized by announcing autonomous sy
 }
 ```
 
-For a list of autonomous systems with their AS number (ASN) see https://github.com/ipverse/asn-info
+For a list of autonomous systems with their AS number (ASN) and description see https://github.com/ipverse/asn-info
 
 This repository is updated daily.
 
@@ -31,10 +33,10 @@ This repository is updated daily.
 
 ## How to use
 
-To download the announced subnets for a specific autonomous system (AS1234 IPv4 adresses in this example), try:  
+To download the announced networks for a specific autonomous system (AS1234 IPv4 adresses in this example), try:  
 ```$ curl https://raw.githubusercontent.com/ipverse/asn-ip/master/as/1234/ipv4-aggregated.txt```
 
-The same for all IPv6 subnets from AS1234:  
+The same for all IPv6 networks from AS1234:  
 ```$ curl https://raw.githubusercontent.com/ipverse/asn-ip/master/as/1234/ipv6-aggregated.txt```
 
 The data (IPv4 + IPv4 combined) is available in JSON format as well:  
