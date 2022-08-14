@@ -4,8 +4,7 @@
   "description": "Gazipur Network System",
   "subnets": {
     "ipv4": [
-      "103.116.116.0/22",
-      "103.157.92.0/24"
+      "103.116.116.0/22"
     ],
     "ipv6": []
   }

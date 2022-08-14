@@ -1,0 +1,11 @@
+{
+  "asn": 272675,
+  "handle": "WEBSMART-INTERNET",
+  "description": "WebSmart Internet",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2804:86ec::/32"
+    ]
+  }
+}

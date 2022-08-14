@@ -4,8 +4,7 @@
   "description": "NORTHWEST FEDERAL CREDIT UNION",
   "subnets": {
     "ipv4": [
-      "63.147.192.0/24",
-      "65.155.42.0/24"
+      "63.147.192.0/24"
     ],
     "ipv6": []
   }

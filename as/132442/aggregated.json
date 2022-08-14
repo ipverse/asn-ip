@@ -3,7 +3,9 @@
   "handle": "TIS-AP",
   "description": "Dhaka Information Technology",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.66.178.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "PUSATMEDIA-ID",
   "description": "PT Pusat Media Indonesia",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.6.204.0/22"
+    ],
     "ipv6": []
   }
 }

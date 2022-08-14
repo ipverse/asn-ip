@@ -4,6 +4,7 @@
   "description": "NIC (National Information Center)- SDAIA ( Saudi Data and Artificial Intelligence Authority )",
   "subnets": {
     "ipv4": [
+      "86.60.49.0/24",
       "86.60.96.0/24"
     ],
     "ipv6": []

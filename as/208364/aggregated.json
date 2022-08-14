@@ -3,9 +3,7 @@
   "handle": "SERVADA",
   "description": "Servada B.V.",
   "subnets": {
-    "ipv4": [
-      "45.132.8.0/24"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2a0e:6540:d16::/48",
       "2a0e:6540:d32::/48"

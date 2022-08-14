@@ -3,9 +3,7 @@
   "handle": "MIRAINTERNET",
   "description": "Mira Internet ApS",
   "subnets": {
-    "ipv4": [
-      "212.70.2.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

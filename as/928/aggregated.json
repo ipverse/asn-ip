@@ -4,9 +4,6 @@
   "description": "GVVME",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2602:fc26:66::/48",
-      "2606:d640:ff00::/40"
-    ]
+    "ipv6": []
   }
 }

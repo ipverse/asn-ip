@@ -4,8 +4,6 @@
   "description": "Wicom Networks LLC",
   "subnets": {
     "ipv4": [
-      "43.250.125.0/24",
-      "43.250.126.0/23",
       "103.254.120.0/24"
     ],
     "ipv6": []
