@@ -3,7 +3,9 @@
   "handle": "ITKVARTAL",
   "description": "IT Kvartal Telecom Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.165.50.0/24"
+    ],
     "ipv6": []
   }
 }

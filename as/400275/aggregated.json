@@ -3,7 +3,9 @@
   "handle": "PHOENIXNAP-AUS",
   "description": "SECURED SERVERS LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "131.153.204.0/24"
+    ],
     "ipv6": []
   }
 }

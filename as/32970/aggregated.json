@@ -3,7 +3,9 @@
   "handle": "FNIS-6",
   "description": "Fidelity National Information Services, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "198.84.8.0/24"
+    ],
     "ipv6": []
   }
 }

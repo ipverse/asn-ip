@@ -3,9 +3,7 @@
   "handle": "SMM",
   "description": "The Science Museum of Minnesota",
   "subnets": {
-    "ipv4": [
-      "205.215.192.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

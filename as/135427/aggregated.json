@@ -3,7 +3,9 @@
   "handle": "MYANMARNETWORK-AP",
   "description": "Myanmar Network Company Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.250.201.0/24"
+    ],
     "ipv6": []
   }
 }

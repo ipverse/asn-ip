@@ -3,7 +3,9 @@
   "handle": "GHC-ASN-01",
   "description": "CANGURO HOSTING",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "161.199.35.0/24"
+    ],
     "ipv6": []
   }
 }

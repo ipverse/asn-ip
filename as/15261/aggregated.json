@@ -4,7 +4,9 @@
   "description": "Zellius Telecommunications Inc.",
   "subnets": {
     "ipv4": [
-      "69.89.36.0/24"
+      "67.230.89.0/24",
+      "69.89.36.0/24",
+      "162.222.110.0/23"
     ],
     "ipv6": []
   }

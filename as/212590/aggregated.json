@@ -3,9 +3,7 @@
   "handle": "METELECOM",
   "description": "Middle East Telecommunications Co. LLC",
   "subnets": {
-    "ipv4": [
-      "185.193.243.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

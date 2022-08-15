@@ -3,9 +3,7 @@
   "handle": "NEXUSPIPE",
   "description": "Nexus Networks LTD",
   "subnets": {
-    "ipv4": [
-      "181.214.172.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }
