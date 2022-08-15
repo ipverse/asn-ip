@@ -2,7 +2,7 @@
 
 IPv4 and IPv6 networks in CIDR notation (e.g. 100.2.30.0/22) organized by announcing autonomous systems (AS).
 All networks are aggregated to save space.
-The data is available both in **TXT** Plaintext or **JSON** format.  
+The data is available in both **TXT** Plaintext and **JSON** format.  
 
 This is a JSON example for AS1234:
 ```
