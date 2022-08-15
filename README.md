@@ -21,7 +21,7 @@ The data is available in TXT and JSON format. This is a JSON example for AS1234:
 }
 ```
 
-For a list of autonomous systems with their AS number (ASN) and description see https://github.com/ipverse/asn-info
+For a list of autonomous systems with their AS number (ASN) and description see [ipverse-asn-info](https://github.com/ipverse/asn-info)
 
 This repository is updated daily.
 
@@ -42,10 +42,10 @@ The same for all IPv6 networks from AS1234:
 The data (IPv4 + IPv4 combined) is available in JSON format as well:  
 ```$ curl https://raw.githubusercontent.com/ipverse/asn-ip/master/as/1234/aggregated.json```
 
-To download the latest autonomous system lookup table used to enhance the generated route data:  
+To download the latest autonomous system list which is used enhance the generated route data:  
 ```$ curl -O https://raw.githubusercontent.com/ipverse/asn-info/master/as.csv```
 
-See https://github.com/ipverse/asn-info for more information about ```as.csv```  
+See [ipverse-asn-info](https://github.com/ipverse/asn-info) for more information on ```as.csv```  
 
 If you plan to use the routing data for firewalling purposes, have a look at:
 
