@@ -4,7 +4,8 @@
   "description": "Ebenezar Communications Private Limited",
   "subnets": {
     "ipv4": [
-      "103.118.188.0/22"
+      "103.118.188.0/23",
+      "103.118.190.0/24"
     ],
     "ipv6": []
   }

@@ -3,11 +3,7 @@
   "handle": "FRI3DCAMPNET-BY-HERMES-TELECOM",
   "description": "Hermes Telecom BVBA",
   "subnets": {
-    "ipv4": [
-      "151.216.16.0/20"
-    ],
-    "ipv6": [
-      "2001:7fc:1::/48"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

@@ -1,12 +1,12 @@
 {
   "asn": 47158,
-  "handle": "HUIZE-LTD",
+  "handle": "HUIZE-NET",
   "description": "IT LTD",
   "subnets": {
     "ipv4": [],
     "ipv6": [
       "2a06:a005:5ab::/48",
-      "2a06:a005:1731::/48"
+      "2a06:a005:1732::/48"
     ]
   }
 }

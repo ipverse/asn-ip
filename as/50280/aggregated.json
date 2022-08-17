@@ -4,6 +4,8 @@
   "description": "Ministry Of Civil Service, Kingdom of Saudi Arabia",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a0c:e500::/29"
+    ]
   }
 }

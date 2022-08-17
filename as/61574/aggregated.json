@@ -3,7 +3,9 @@
   "handle": "UNIVERSIDADE-FEDERAL-DE",
   "description": "UNIVERSIDADE FEDERAL DE MINAS GERAIS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "208.87.173.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "SPEEDBIT",
   "description": "SPEEDBIT s.a.r.l",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.222.48.0/22"
+    ],
     "ipv6": []
   }
 }

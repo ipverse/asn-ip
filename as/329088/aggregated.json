@@ -1,0 +1,13 @@
+{
+  "asn": 329088,
+  "handle": "WFS1",
+  "description": "Westnet Fibre Solutions",
+  "subnets": {
+    "ipv4": [
+      "102.215.68.0/22"
+    ],
+    "ipv6": [
+      "2c0f:6480::/32"
+    ]
+  }
+}

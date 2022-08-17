@@ -3,9 +3,7 @@
   "handle": "EURONA",
   "description": "EURONA WIRELESS TELECOM, S.A.",
   "subnets": {
-    "ipv4": [
-      "188.119.192.0/19"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

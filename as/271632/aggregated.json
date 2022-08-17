@@ -3,7 +3,9 @@
   "handle": "MIRANTE-NETWORK-COMUNICACAO",
   "description": "MIRANTE NETWORK COMUNICACAO LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "131.72.246.0/24"
+    ],
     "ipv6": [
       "2804:7e90::/37",
       "2804:7e90:fc00::/38"

@@ -3,11 +3,7 @@
   "handle": "REDE-ISP",
   "description": "REDE ISP",
   "subnets": {
-    "ipv4": [
-      "168.194.116.0/22"
-    ],
-    "ipv6": [
-      "2804:337c::/32"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

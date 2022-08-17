@@ -3,7 +3,10 @@
   "handle": "FIBERPLUS2AS",
   "description": "FIBERPLUS COMUNICATIONS, SL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.193.172.0/24",
+      "185.193.174.0/23"
+    ],
     "ipv6": []
   }
 }

@@ -4,9 +4,6 @@
   "description": "HostUS Solutions LLC",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2402:9e80:58::/48",
-      "2602:fed2:7110::/48"
-    ]
+    "ipv6": []
   }
 }
