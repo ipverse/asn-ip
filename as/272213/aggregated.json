@@ -4,7 +4,8 @@
   "description": "POUPA NET TELECOM LTDA",
   "subnets": {
     "ipv4": [
-      "38.50.168.0/22"
+      "38.50.168.0/23",
+      "38.50.171.0/24"
     ],
     "ipv6": [
       "2804:83b4::/32"

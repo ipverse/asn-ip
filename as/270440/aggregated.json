@@ -3,7 +3,9 @@
   "handle": "MARKAN-COMERCIO-E",
   "description": "Markan comercio e servios EIRELI-ME",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "200.13.84.0/22"
+    ],
     "ipv6": [
       "2804:6c04::/32"
     ]

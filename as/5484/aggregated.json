@@ -4,6 +4,7 @@
   "description": "Shabakeh Gostar Shahriyar Co. (Ltd.)",
   "subnets": {
     "ipv4": [
+      "81.163.0.0/21",
       "185.46.216.0/22",
       "185.128.152.0/23"
     ],

@@ -3,7 +3,9 @@
   "handle": "R-R-COMERCIO",
   "description": "R\u0026R comercio de informartica e equipamentos LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "177.74.196.0/23"
+    ],
     "ipv6": []
   }
 }

@@ -1,0 +1,11 @@
+{
+  "asn": 150165,
+  "handle": "ARKNETWORK-AP",
+  "description": "ARK Network",
+  "subnets": {
+    "ipv4": [
+      "103.143.236.0/23"
+    ],
+    "ipv6": []
+  }
+}

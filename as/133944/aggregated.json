@@ -3,9 +3,7 @@
   "handle": "TRAFFICFORCE-INTERNET-SERVICES",
   "description": "trafficforce, UAB",
   "subnets": {
-    "ipv4": [
-      "160.19.92.0/23"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2a12:f180::/29"
     ]

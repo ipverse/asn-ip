@@ -3,12 +3,7 @@
   "handle": "SSD-ASN-1",
   "description": "Synapsis.io",
   "subnets": {
-    "ipv4": [
-      "172.110.143.0/24"
-    ],
-    "ipv6": [
-      "2602:fc8a::/48",
-      "2602:fc8a:2::/48"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

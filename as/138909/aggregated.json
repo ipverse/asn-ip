@@ -4,7 +4,6 @@
   "description": "Luminous Technology",
   "subnets": {
     "ipv4": [
-      "103.95.108.0/23",
       "103.137.0.0/23"
     ],
     "ipv6": []

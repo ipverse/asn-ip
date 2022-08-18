@@ -4,7 +4,8 @@
   "description": "Tower Hill Insurance Group",
   "subnets": {
     "ipv4": [
-      "64.57.0.0/20"
+      "64.57.0.0/22",
+      "64.57.14.0/24"
     ],
     "ipv6": []
   }

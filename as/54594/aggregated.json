@@ -4,6 +4,7 @@
   "description": "Illuminate Hillsboro",
   "subnets": {
     "ipv4": [
+      "38.87.112.0/22",
       "38.100.216.0/22"
     ],
     "ipv6": [

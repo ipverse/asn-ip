@@ -4,6 +4,9 @@
   "description": "NORTHERN CABLE AND FIBER, LLC",
   "subnets": {
     "ipv4": [
+      "74.80.154.0/24",
+      "74.80.157.0/24",
+      "74.80.158.0/24",
       "149.51.0.0/16"
     ],
     "ipv6": []

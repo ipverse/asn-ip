@@ -4,8 +4,7 @@
   "description": "Netpark Communication",
   "subnets": {
     "ipv4": [
-      "103.107.132.0/22",
-      "103.191.240.0/24"
+      "103.107.132.0/22"
     ],
     "ipv6": []
   }
