@@ -4,6 +4,7 @@
   "description": "Red Bytes LLC",
   "subnets": {
     "ipv4": [
+      "31.41.244.0/24",
       "176.113.115.0/24"
     ],
     "ipv6": []

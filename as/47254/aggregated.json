@@ -4,8 +4,6 @@
   "description": "Wi-Fi Communication S.r.l.",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2a02:d1c0::/29"
-    ]
+    "ipv6": []
   }
 }

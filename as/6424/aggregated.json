@@ -3,7 +3,9 @@
   "handle": "ERITAP",
   "description": "Arend Brouwer trading as ERITAP",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.229.81.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,11 +3,7 @@
   "handle": "NETSTART-MULTIMIDIA-E",
   "description": "NETSTART MULTIMIDIA E COMUNICACAO LTDA",
   "subnets": {
-    "ipv4": [
-      "45.239.254.0/23"
-    ],
-    "ipv6": [
-      "2804:50a4:8000::/33"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

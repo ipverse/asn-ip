@@ -3,7 +3,11 @@
   "handle": "M2-ONLINE",
   "description": "M2 ONLINE",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.71.84.0/22"
+    ],
+    "ipv6": [
+      "2804:4418::/32"
+    ]
   }
 }

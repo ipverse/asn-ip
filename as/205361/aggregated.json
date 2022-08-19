@@ -4,6 +4,7 @@
   "description": "Ekotrans Limited Liability Company",
   "subnets": {
     "ipv4": [
+      "5.180.48.0/24",
       "108.165.224.0/24",
       "176.57.50.0/24",
       "185.135.157.0/24"

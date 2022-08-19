@@ -3,7 +3,9 @@
   "handle": "IFSL1",
   "description": "Icon Fiber Solutions ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "102.215.76.0/22"
+    ],
     "ipv6": []
   }
 }

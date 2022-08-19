@@ -3,9 +3,7 @@
   "handle": "ALURA",
   "description": "Alura Business Solutions, LLC",
   "subnets": {
-    "ipv4": [
-      "192.100.82.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

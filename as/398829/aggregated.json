@@ -3,9 +3,7 @@
   "handle": "JONESCOLLEGE",
   "description": "Jones College",
   "subnets": {
-    "ipv4": [
-      "207.181.39.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

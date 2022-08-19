@@ -3,11 +3,7 @@
   "handle": "NORTHERNDATACLOUD",
   "description": "Northern Data Software GmbH",
   "subnets": {
-    "ipv4": [
-      "91.194.200.0/24"
-    ],
-    "ipv6": [
-      "2a10:9640::/29"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

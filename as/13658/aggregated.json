@@ -3,11 +3,7 @@
   "handle": "QUANTIL",
   "description": "QUANTIL, INC",
   "subnets": {
-    "ipv4": [
-      "163.171.246.0/24"
-    ],
-    "ipv6": [
-      "2a01:53c0:fd00::/48"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

@@ -1,9 +1,11 @@
 {
   "asn": 57450,
-  "handle": "RESERVED",
-  "description": "RIPE NCC ASN block",
+  "handle": "AMPED-SERVERS",
+  "description": "Amped Servers LTD",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a13:1500:3be::/48"
+    ]
   }
 }

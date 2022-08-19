@@ -3,7 +3,9 @@
   "handle": "CTGPL-AP",
   "description": "Check Networks",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.190.128.0/24"
+    ],
     "ipv6": []
   }
 }

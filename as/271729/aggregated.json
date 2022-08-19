@@ -3,7 +3,9 @@
   "handle": "BRASIL-WIFI-LTDA-EPP",
   "description": "Brasil Wifi LTDA - EPP",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "166.0.141.0/24"
+    ],
     "ipv6": [
       "2804:8018:5000::/36",
       "2804:8018:8000::/36"

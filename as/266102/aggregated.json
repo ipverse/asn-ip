@@ -3,7 +3,9 @@
   "handle": "NET-SPEED-BA",
   "description": "Net Speed BA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.5.228.0/22"
+    ],
     "ipv6": [
       "2804:3aa8::/32"
     ]

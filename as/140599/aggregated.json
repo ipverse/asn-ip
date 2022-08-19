@@ -3,7 +3,9 @@
   "handle": "COMFACCORPORATION-AP",
   "description": "COMFAC CORPORATION",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "87.121.117.0/24"
+    ],
     "ipv6": [
       "2001:df3:8e80::/48"
     ]
