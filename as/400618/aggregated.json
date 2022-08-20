@@ -4,6 +4,7 @@
   "description": "Prime Security Corp.",
   "subnets": {
     "ipv4": [
+      "38.6.224.0/22",
       "103.144.148.0/23"
     ],
     "ipv6": []

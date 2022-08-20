@@ -4,6 +4,7 @@
   "description": "Arthur BOUSQUET",
   "subnets": {
     "ipv4": [
+      "170.39.217.0/24",
       "170.39.218.0/24"
     ],
     "ipv6": []

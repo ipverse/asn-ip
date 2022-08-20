@@ -3,11 +3,7 @@
   "handle": "SEVEN-TELECOM-LTDA",
   "description": "SEVEN TELECOM LTDA",
   "subnets": {
-    "ipv4": [
-      "45.191.168.0/22"
-    ],
-    "ipv6": [
-      "2804:6848::/32"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

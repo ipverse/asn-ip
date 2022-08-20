@@ -1,0 +1,13 @@
+{
+  "asn": 14836,
+  "handle": "CITY-OF-TORONTO",
+  "description": "City of Toronto",
+  "subnets": {
+    "ipv4": [
+      "198.96.187.0/24",
+      "204.138.232.0/24",
+      "204.187.67.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -3,9 +3,7 @@
   "handle": "WIZNET-IN",
   "description": "Wizbyte Networks Private Limited",
   "subnets": {
-    "ipv4": [
-      "103.133.168.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

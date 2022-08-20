@@ -3,11 +3,7 @@
   "handle": "AZETEL",
   "description": "AZETEL LLC",
   "subnets": {
-    "ipv4": [
-      "195.26.8.0/24"
-    ],
-    "ipv6": [
-      "2a0f:4a40::/29"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

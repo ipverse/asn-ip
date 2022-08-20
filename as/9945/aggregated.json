@@ -3,10 +3,7 @@
   "handle": "YFGC-KR",
   "description": "yoido full gaspel church",
   "subnets": {
-    "ipv4": [
-      "14.57.151.0/24",
-      "114.200.239.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }
