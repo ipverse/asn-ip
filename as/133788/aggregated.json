@@ -3,9 +3,7 @@
   "handle": "UNN-BN",
   "description": "Unified National Networks",
   "subnets": {
-    "ipv4": [
-      "103.42.208.0/22"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

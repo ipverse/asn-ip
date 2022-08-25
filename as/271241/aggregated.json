@@ -4,6 +4,7 @@
   "description": "Fbnet Telecom",
   "subnets": {
     "ipv4": [
+      "45.176.156.0/22",
       "179.48.80.0/22"
     ],
     "ipv6": [

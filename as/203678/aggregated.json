@@ -4,7 +4,8 @@
   "description": "No Problem Managed IT Services Ltd",
   "subnets": {
     "ipv4": [
-      "185.125.140.0/22"
+      "185.125.140.0/24",
+      "185.125.142.0/23"
     ],
     "ipv6": []
   }

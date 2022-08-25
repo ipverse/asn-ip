@@ -4,7 +4,8 @@
   "description": "ABC Computer Systems Ltd",
   "subnets": {
     "ipv4": [
-      "223.29.248.0/22"
+      "223.29.248.0/23",
+      "223.29.250.0/24"
     ],
     "ipv6": []
   }

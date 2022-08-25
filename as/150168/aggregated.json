@@ -1,0 +1,11 @@
+{
+  "asn": 150168,
+  "handle": "CHANDGAON-AP",
+  "description": "Chandgaon Net Communication",
+  "subnets": {
+    "ipv4": [
+      "103.193.10.0/23"
+    ],
+    "ipv6": []
+  }
+}

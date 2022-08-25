@@ -4,7 +4,8 @@
   "description": "WIFI TELEKOM BILISIM SANAYI VE TICARET ANONIM SIRKETI",
   "subnets": {
     "ipv4": [
-      "185.202.240.0/22"
+      "185.202.240.0/24",
+      "185.202.242.0/23"
     ],
     "ipv6": [
       "2a0a:e240::/31"

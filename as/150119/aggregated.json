@@ -3,7 +3,9 @@
   "handle": "G-ABLE-AP",
   "description": "United Information Highway Co.,Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "202.22.11.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -4,6 +4,7 @@
   "description": "Ettelaat Fanavarn-E Tookan Co Ltd",
   "subnets": {
     "ipv4": [
+      "91.186.193.0/24",
       "194.59.215.0/24"
     ],
     "ipv6": []

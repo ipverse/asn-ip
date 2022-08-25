@@ -3,10 +3,7 @@
   "handle": "WBAGPL-AP",
   "description": "Wireline B and G Pty Ltd",
   "subnets": {
-    "ipv4": [
-      "103.1.188.0/22",
-      "103.19.172.0/22"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

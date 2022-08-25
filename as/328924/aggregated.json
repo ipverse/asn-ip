@@ -3,9 +3,7 @@
   "handle": "ATS",
   "description": "AVISTA Telecom SA",
   "subnets": {
-    "ipv4": [
-      "102.218.168.0/22"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

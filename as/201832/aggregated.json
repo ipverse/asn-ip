@@ -4,11 +4,10 @@
   "description": "COSIMO Vertriebs und Beratungs GmbH",
   "subnets": {
     "ipv4": [
-      "185.62.148.0/23"
+      "185.62.148.0/24"
     ],
     "ipv6": [
-      "2a03:560::/47",
-      "2a03:560:148::/47"
+      "2a03:560:148::/48"
     ]
   }
 }
