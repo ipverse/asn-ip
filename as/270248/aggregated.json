@@ -3,7 +3,9 @@
   "handle": "VIA-FIBER-INTERNET",
   "description": "VIA FIBER INTERNET E TELECOMUNICAES",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "200.107.116.0/22"
+    ],
     "ipv6": [
       "2804:6918::/32"
     ]

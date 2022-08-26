@@ -1,0 +1,11 @@
+{
+  "asn": 62532,
+  "handle": "EDGE-DISCOVERY",
+  "description": "NJEDge.Net, Inc.",
+  "subnets": {
+    "ipv4": [
+      "130.156.13.0/24"
+    ],
+    "ipv6": []
+  }
+}

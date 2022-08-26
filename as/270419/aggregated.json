@@ -3,7 +3,9 @@
   "handle": "FIBER-WEB-SERVICES-LTDA",
   "description": "FIBER WEB SERVICES LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "190.115.64.0/22"
+    ],
     "ipv6": [
       "2804:6bb8::/32"
     ]

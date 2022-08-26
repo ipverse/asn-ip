@@ -4,9 +4,6 @@
   "description": "Remco van Zuijlen",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2a0e:46c3:200::/40",
-      "2a0e:b107:220::/44"
-    ]
+    "ipv6": []
   }
 }

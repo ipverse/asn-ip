@@ -4,7 +4,7 @@
   "description": "Netzi Broadband Services Pvt Ltd",
   "subnets": {
     "ipv4": [
-      "103.99.36.0/23",
+      "103.99.36.0/24",
       "103.99.38.0/24",
       "103.111.44.0/22"
     ],

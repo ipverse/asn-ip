@@ -4,8 +4,7 @@
   "description": "G20 Telecomunicacoes Ltda",
   "subnets": {
     "ipv4": [
-      "138.97.41.0/24",
-      "138.97.42.0/24"
+      "138.97.40.0/22"
     ],
     "ipv6": [
       "2804:22c0::/32"

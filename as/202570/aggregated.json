@@ -4,7 +4,8 @@
   "description": "BILLING SOLUTION Ltd.",
   "subnets": {
     "ipv4": [
-      "92.43.155.0/24"
+      "92.43.155.0/24",
+      "92.43.157.0/24"
     ],
     "ipv6": []
   }

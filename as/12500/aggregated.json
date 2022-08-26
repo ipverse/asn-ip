@@ -3,7 +3,11 @@
   "handle": "RCS-PNZ",
   "description": "JSC Ruscentrosvyaz",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.103.192.0/22",
+      "193.194.153.0/24",
+      "193.194.154.0/24"
+    ],
     "ipv6": []
   }
 }

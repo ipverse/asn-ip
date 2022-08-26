@@ -3,7 +3,9 @@
   "handle": "BDSOLUTIONONLINE-AP",
   "description": "BD Solution Online",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.87.235.0/24"
+    ],
     "ipv6": []
   }
 }

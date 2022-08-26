@@ -3,7 +3,9 @@
   "handle": "BRAINPS",
   "description": "Brain PEACE Science Foundation, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "104.249.174.0/24"
+    ],
     "ipv6": []
   }
 }

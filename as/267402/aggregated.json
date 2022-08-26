@@ -3,7 +3,9 @@
   "handle": "A-P-P-AMARAL-DIGITAL-NET",
   "description": "A P P AMARAL - DIGITAL NET",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.234.200.0/22"
+    ],
     "ipv6": []
   }
 }

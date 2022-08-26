@@ -3,7 +3,9 @@
   "handle": "DAOPORTEXPERIMENTAL",
   "description": "ANCLOPT LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "31.41.34.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "PURE-IP-EUROPE-BV",
   "description": "Pure IP Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "154.59.106.0/23"
+    ],
     "ipv6": []
   }
 }

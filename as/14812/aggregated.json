@@ -1,0 +1,11 @@
+{
+  "asn": 14812,
+  "handle": "CNSX-PRIMARY",
+  "description": "CNSX",
+  "subnets": {
+    "ipv4": [
+      "38.64.246.0/23"
+    ],
+    "ipv6": []
+  }
+}

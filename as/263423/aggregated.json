@@ -3,7 +3,9 @@
   "handle": "PROTEL-NET-TELECOM-LTDA-ME",
   "description": "PROTEL NET TELECOM LTDA. - ME",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "179.106.168.0/21"
+    ],
     "ipv6": [
       "2804:1608::/32"
     ]

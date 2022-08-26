@@ -4,9 +4,7 @@
   "description": "Roome Telecommunications",
   "subnets": {
     "ipv4": [
-      "63.162.72.0/21",
-      "165.140.88.0/22",
-      "207.55.64.0/23"
+      "165.140.88.0/22"
     ],
     "ipv6": []
   }

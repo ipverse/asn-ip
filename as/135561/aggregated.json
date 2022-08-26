@@ -3,7 +3,9 @@
   "handle": "CIYUANTEC-AP",
   "description": "Ci Yuan Technology Co., Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.117.40.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "ENTEE-UK",
   "description": "AFerry Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "89.207.152.0/21"
+    ],
     "ipv6": []
   }
 }

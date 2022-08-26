@@ -3,7 +3,9 @@
   "handle": "GSM-BAHIA-PROVEDOR",
   "description": "GSM BAHIA PROVEDOR DE INTERNET LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "170.83.152.0/22"
+    ],
     "ipv6": [
       "2804:3854::/32"
     ]

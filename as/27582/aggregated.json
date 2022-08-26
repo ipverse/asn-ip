@@ -4,8 +4,6 @@
   "description": "TierPoint, LLC",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2600:2c01:1000::/36"
-    ]
+    "ipv6": []
   }
 }

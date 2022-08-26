@@ -3,7 +3,9 @@
   "handle": "PLANET-INTERNET",
   "description": "PLANET INTERNET",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "168.228.84.0/22"
+    ],
     "ipv6": [
       "2804:2fb0::/32"
     ]

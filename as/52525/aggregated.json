@@ -3,7 +3,9 @@
   "handle": "INPASUPRI-COM-DE",
   "description": "INPASUPRI - Com. de Suprimentos p/Inf. Ltda",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "179.106.64.0/21"
+    ],
     "ipv6": [
       "2804:de8::/32"
     ]

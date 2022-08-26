@@ -1,0 +1,11 @@
+{
+  "asn": 141992,
+  "handle": "DOCAJ-AP",
+  "description": "Department of Communities and Justice (DCJ)",
+  "subnets": {
+    "ipv4": [
+      "103.164.30.0/24"
+    ],
+    "ipv6": []
+  }
+}

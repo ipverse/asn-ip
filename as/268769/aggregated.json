@@ -3,7 +3,9 @@
   "handle": "WEB-FIBRA-SERGIPE",
   "description": "WEB FIBRA SERGIPE TELECOMUNICAES LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.172.124.0/22"
+    ],
     "ipv6": []
   }
 }

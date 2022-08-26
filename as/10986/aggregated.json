@@ -3,7 +3,10 @@
   "handle": "PULSAR-CONSULTING-SRL",
   "description": "PULSAR CONSULTING S.R.L.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "200.69.28.0/23",
+      "200.69.31.0/24"
+    ],
     "ipv6": []
   }
 }

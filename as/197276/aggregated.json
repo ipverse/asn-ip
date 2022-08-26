@@ -3,9 +3,7 @@
   "handle": "TE",
   "description": "LLC Telecom-express",
   "subnets": {
-    "ipv4": [
-      "91.217.190.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

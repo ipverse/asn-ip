@@ -3,9 +3,7 @@
   "handle": "TPHASN-001",
   "description": "The Printing House",
   "subnets": {
-    "ipv4": [
-      "204.138.138.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "PORTO-NET-EIRELI-EPP",
   "description": "PORTO NET EIRELI - EPP",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.224.164.0/22"
+    ],
     "ipv6": [
       "2804:44f0::/32"
     ]

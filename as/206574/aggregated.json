@@ -1,0 +1,11 @@
+{
+  "asn": 206574,
+  "handle": "WIFIBER",
+  "description": "Flexonet ApS",
+  "subnets": {
+    "ipv4": [
+      "185.105.183.0/24"
+    ],
+    "ipv6": []
+  }
+}

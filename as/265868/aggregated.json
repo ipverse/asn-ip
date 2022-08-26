@@ -3,10 +3,7 @@
   "handle": "GETCOM-SAS",
   "description": "GETCOM SAS",
   "subnets": {
-    "ipv4": [
-      "45.226.29.0/24",
-      "45.226.30.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

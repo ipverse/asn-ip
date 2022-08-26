@@ -1,0 +1,11 @@
+{
+  "asn": 1650,
+  "handle": "CAMBRIDGEMA-PUBLIC-SCHOOLS",
+  "description": "Cambridge Public Schools",
+  "subnets": {
+    "ipv4": [
+      "204.167.95.0/24"
+    ],
+    "ipv6": []
+  }
+}

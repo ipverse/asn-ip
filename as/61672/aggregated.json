@@ -3,7 +3,9 @@
   "handle": "ENTELVIAS-PROVEDOR-DE",
   "description": "Entelvias provedor de internet ltda",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "131.108.100.0/22"
+    ],
     "ipv6": [
       "2804:1cbc::/32"
     ]
