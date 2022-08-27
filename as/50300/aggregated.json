@@ -1,6 +1,7 @@
 {
   "asn": 50300,
   "handle": "CUSTDC",
+  "description": "CustodianDC Limited",
   "subnets": {
     "ipv4": [
       "5.102.168.0/23",

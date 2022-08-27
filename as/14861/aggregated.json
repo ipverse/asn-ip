@@ -1,6 +1,7 @@
 {
   "asn": 14861,
   "handle": "ISC-GROUP",
+  "description": "ISC Group",
   "subnets": {
     "ipv4": [
       "65.168.228.0/23",

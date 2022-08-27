@@ -1,6 +1,7 @@
 {
   "asn": 203021,
   "handle": "HAIGEKASSA",
+  "description": "Eesti Haigekassa",
   "subnets": {
     "ipv4": [
       "185.147.120.0/22"

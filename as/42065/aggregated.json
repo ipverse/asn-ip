@@ -1,6 +1,7 @@
 {
   "asn": 42065,
   "handle": "ETELECOM",
+  "description": "ZAO ElectronTelecom",
   "subnets": {
     "ipv4": [
       "83.243.64.0/21",

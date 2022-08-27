@@ -1,6 +1,7 @@
 {
   "asn": 63479,
   "handle": "HAMWAN",
+  "description": "HamWAN",
   "subnets": {
     "ipv4": [
       "44.12.6.0/23",

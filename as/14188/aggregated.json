@@ -1,6 +1,7 @@
 {
   "asn": 14188,
   "handle": "ASHLANDFIBERNETWORK",
+  "description": "Ashland Fiber Network",
   "subnets": {
     "ipv4": [
       "66.241.64.0/19",

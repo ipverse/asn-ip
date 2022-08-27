@@ -1,6 +1,7 @@
 {
   "asn": 201101,
   "handle": "NATSEN-NC",
+  "description": "NATS (En Route) Ltd",
   "subnets": {
     "ipv4": [
       "159.197.28.0/23",

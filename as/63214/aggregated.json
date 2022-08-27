@@ -1,6 +1,7 @@
 {
   "asn": 63214,
   "handle": "MUSL-RANGE1",
+  "description": "Multi-State Lottery Association",
   "subnets": {
     "ipv4": [
       "104.219.253.0/24",

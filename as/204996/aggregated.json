@@ -1,6 +1,7 @@
 {
   "asn": 204996,
   "handle": "TMNET",
+  "description": "Telemix AS",
   "subnets": {
     "ipv4": [
       "45.67.8.0/22",

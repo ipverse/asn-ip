@@ -1,6 +1,7 @@
 {
   "asn": 21559,
   "handle": "OSNET",
+  "description": "OSNET Wireless",
   "subnets": {
     "ipv4": [
       "38.2.160.0/19",

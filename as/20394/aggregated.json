@@ -1,6 +1,7 @@
 {
   "asn": 20394,
   "handle": "MASHELL-TELECOM",
+  "description": "Rainier Connect",
   "subnets": {
     "ipv4": [
       "69.10.192.0/19",

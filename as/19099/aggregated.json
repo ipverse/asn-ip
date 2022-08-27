@@ -1,6 +1,7 @@
 {
   "asn": 19099,
   "handle": "RAMBUS",
+  "description": "Rambus",
   "subnets": {
     "ipv4": [
       "192.86.86.0/24",

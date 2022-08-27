@@ -1,6 +1,7 @@
 {
   "asn": 6843,
   "handle": "DIGINET",
+  "description": "Diginet shpk",
   "subnets": {
     "ipv4": [
       "185.120.36.0/22"

@@ -1,7 +1,7 @@
 {
   "asn": 7667,
   "handle": "KDDILABS",
-  "description": "",
+  "description": "autonomous-system object for KDDILAB",
   "subnets": {
     "ipv4": [
       "192.26.91.0/24",

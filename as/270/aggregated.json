@@ -1,6 +1,7 @@
 {
   "asn": 270,
-  "handle": "NASA",
+  "handle": "NATIONAL-AERONAUTICS-AND",
+  "description": "National Aeronautics and Space Administration",
   "subnets": {
     "ipv4": [
       "128.102.0.0/16",

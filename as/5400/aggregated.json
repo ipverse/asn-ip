@@ -1,6 +1,7 @@
 {
   "asn": 5400,
   "handle": "BT",
+  "description": "British Telecommunications PLC",
   "subnets": {
     "ipv4": [
       "46.248.8.0/22",

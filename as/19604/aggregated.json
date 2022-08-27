@@ -1,6 +1,7 @@
 {
   "asn": 19604,
   "handle": "IBM-RALEIGH-CL",
+  "description": "IBM",
   "subnets": {
     "ipv4": [
       "32.97.17.0/24",

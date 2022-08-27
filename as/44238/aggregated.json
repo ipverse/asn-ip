@@ -1,6 +1,7 @@
 {
   "asn": 44238,
   "handle": "METEONEWS",
+  "description": "MeteoNews AG",
   "subnets": {
     "ipv4": [
       "91.195.238.0/23"

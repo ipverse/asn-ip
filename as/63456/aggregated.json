@@ -1,6 +1,7 @@
 {
   "asn": 63456,
   "handle": "ACI",
+  "description": "ACI",
   "subnets": {
     "ipv4": [
       "192.122.149.0/24"

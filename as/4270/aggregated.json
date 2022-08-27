@@ -1,7 +1,7 @@
 {
   "asn": 4270,
-  "handle": "ADR6",
-  "description": "",
+  "handle": "RED-DE-INTERCONEXION",
+  "description": "Red de Interconexion Universitaria",
   "subnets": {
     "ipv4": [
       "170.210.0.0/16"

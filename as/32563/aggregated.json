@@ -1,6 +1,7 @@
 {
   "asn": 32563,
   "handle": "SRCMTL",
+  "description": "Societe Radio Canada",
   "subnets": {
     "ipv4": [
       "159.33.64.0/19",

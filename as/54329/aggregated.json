@@ -1,6 +1,7 @@
 {
   "asn": 54329,
   "handle": "SUMO",
+  "description": "Sumofiber",
   "subnets": {
     "ipv4": [
       "38.59.192.0/19",

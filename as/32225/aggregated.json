@@ -1,6 +1,7 @@
 {
   "asn": 32225,
   "handle": "MCGRAW-BCM",
+  "description": "BCM One, Inc.",
   "subnets": {
     "ipv4": [
       "136.228.182.0/23"

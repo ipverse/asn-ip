@@ -1,6 +1,7 @@
 {
   "asn": 7925,
   "handle": "WVNET",
+  "description": "West Virginia Network for Educational Telecomputing",
   "subnets": {
     "ipv4": [
       "129.71.0.0/16",

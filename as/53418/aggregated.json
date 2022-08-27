@@ -1,6 +1,7 @@
 {
   "asn": 53418,
   "handle": "DIRECTV-LOSANGELES",
+  "description": "DirecTV Operations",
   "subnets": {
     "ipv4": [
       "147.21.64.0/22",

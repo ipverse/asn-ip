@@ -1,6 +1,7 @@
 {
   "asn": 11985,
   "handle": "SSA",
+  "description": "Social Security Administration",
   "subnets": {
     "ipv4": [
       "137.200.0.0/18",

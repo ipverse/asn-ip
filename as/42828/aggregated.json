@@ -1,6 +1,7 @@
 {
   "asn": 42828,
   "handle": "TOPNETLB",
+  "description": "Top Net SARL",
   "subnets": {
     "ipv4": [
       "185.84.104.0/24",

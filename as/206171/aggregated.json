@@ -1,6 +1,7 @@
 {
   "asn": 206171,
   "handle": "IRIDIUM-RUSSIA",
+  "description": "Iridium Service LLC",
   "subnets": {
     "ipv4": [
       "5.3.83.0/24",

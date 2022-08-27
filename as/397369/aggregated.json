@@ -1,6 +1,7 @@
 {
   "asn": 397369,
   "handle": "LVHN-INET-01",
+  "description": "LVHN",
   "subnets": {
     "ipv4": [
       "167.12.22.0/23",

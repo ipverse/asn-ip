@@ -1,6 +1,7 @@
 {
   "asn": 11714,
   "handle": "NETWORK-NEBRASKA",
+  "description": "Network Nebraska",
   "subnets": {
     "ipv4": [
       "72.15.160.0/19",

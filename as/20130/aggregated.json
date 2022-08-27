@@ -1,6 +1,7 @@
 {
   "asn": 20130,
   "handle": "DEPAUL",
+  "description": "Depaul University",
   "subnets": {
     "ipv4": [
       "75.102.192.0/18",

@@ -1,6 +1,7 @@
 {
   "asn": 1700,
   "handle": "RICE",
+  "description": "Rice University",
   "subnets": {
     "ipv4": [
       "192.136.153.0/24"

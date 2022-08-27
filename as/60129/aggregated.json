@@ -1,6 +1,7 @@
 {
   "asn": 60129,
   "handle": "CSTI-NET",
+  "description": "CSTI SA",
   "subnets": {
     "ipv4": [
       "185.56.24.0/22",

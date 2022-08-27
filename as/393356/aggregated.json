@@ -1,6 +1,7 @@
 {
   "asn": 393356,
   "handle": "RALEIGH-ENV",
+  "description": "ENV",
   "subnets": {
     "ipv4": [
       "209.116.16.0/24"

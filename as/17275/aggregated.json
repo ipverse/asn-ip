@@ -1,6 +1,7 @@
 {
   "asn": 17275,
   "handle": "FMAC-I-BILLING",
+  "description": "Federal Home Loan Mortgage Corporation",
   "subnets": {
     "ipv4": [
       "161.107.0.0/23",

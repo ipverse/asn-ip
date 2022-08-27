@@ -1,6 +1,7 @@
 {
   "asn": 3762,
   "handle": "INSTINET",
+  "description": "Instinet",
   "subnets": {
     "ipv4": [
       "170.16.0.0/16",

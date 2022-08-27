@@ -1,7 +1,7 @@
 {
   "asn": 28639,
-  "handle": "DRR3",
-  "description": "",
+  "handle": "LOCALNET-NETWORK",
+  "description": "LocalNet Network",
   "subnets": {
     "ipv4": [
       "177.129.68.0/22",

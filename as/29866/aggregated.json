@@ -1,6 +1,7 @@
 {
   "asn": 29866,
   "handle": "OPTICALTEL",
+  "description": "OPTICALTEL",
   "subnets": {
     "ipv4": [
       "24.48.128.0/19",

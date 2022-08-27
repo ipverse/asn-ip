@@ -1,6 +1,7 @@
 {
   "asn": 53407,
   "handle": "UTOPIA-FIBER",
+  "description": "UTOPIA",
   "subnets": {
     "ipv4": [
       "8.22.12.0/22",

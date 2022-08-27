@@ -1,6 +1,7 @@
 {
   "asn": 57900,
   "handle": "SAUDI-BRITISH-BANK",
+  "description": "Saudi British Bank",
   "subnets": {
     "ipv4": [
       "193.27.7.0/24",

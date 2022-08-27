@@ -1,6 +1,7 @@
 {
   "asn": 398772,
   "handle": "FIBERASN-US",
+  "description": "Fiber Optical Network LLC",
   "subnets": {
     "ipv4": [
       "45.136.60.0/22",

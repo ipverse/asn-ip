@@ -1,6 +1,7 @@
 {
   "asn": 18618,
   "handle": "WCENTRALN",
+  "description": "west central wireless",
   "subnets": {
     "ipv4": [
       "63.172.40.0/21",

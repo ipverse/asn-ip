@@ -1,6 +1,7 @@
 {
   "asn": 396024,
   "handle": "NORTHWESTMLS",
+  "description": "Northwest Multiple Listing Service",
   "subnets": {
     "ipv4": [
       "67.218.3.0/24"

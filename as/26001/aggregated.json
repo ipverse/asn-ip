@@ -1,6 +1,7 @@
 {
   "asn": 26001,
   "handle": "BLUIP",
+  "description": "BLUIP INC",
   "subnets": {
     "ipv4": [
       "199.168.176.0/21",

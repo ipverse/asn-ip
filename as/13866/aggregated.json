@@ -1,6 +1,7 @@
 {
   "asn": 13866,
   "handle": "CCOUNTRY",
+  "description": "Computer Country",
   "subnets": {
     "ipv4": [
       "63.168.20.0/23",

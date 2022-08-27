@@ -1,6 +1,7 @@
 {
   "asn": 209256,
   "handle": "STRAZNET",
+  "description": "Straznet AB",
   "subnets": {
     "ipv4": [
       "194.6.243.0/24",

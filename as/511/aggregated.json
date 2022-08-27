@@ -1,6 +1,7 @@
 {
   "asn": 511,
   "handle": "SCOEC",
+  "description": "Greenville Health System",
   "subnets": {
     "ipv4": [
       "199.15.151.0/24"

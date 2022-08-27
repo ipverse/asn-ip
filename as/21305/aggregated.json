@@ -1,6 +1,7 @@
 {
   "asn": 21305,
   "handle": "IPTEL",
+  "description": "IP TelCom LLC",
   "subnets": {
     "ipv4": [
       "79.98.48.0/22",

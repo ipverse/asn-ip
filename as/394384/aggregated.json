@@ -1,6 +1,7 @@
 {
   "asn": 394384,
   "handle": "EDGE-BROADBAND",
+  "description": "Edge Broadband",
   "subnets": {
     "ipv4": [
       "24.235.3.0/24",

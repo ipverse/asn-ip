@@ -1,6 +1,7 @@
 {
   "asn": 31515,
   "handle": "INMARSAT",
+  "description": "INMARSAT GLOBAL LIMITED",
   "subnets": {
     "ipv4": [
       "161.30.5.0/24",

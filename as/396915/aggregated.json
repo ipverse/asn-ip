@@ -1,6 +1,7 @@
 {
   "asn": 396915,
   "handle": "AIRE-INTERNET-01",
+  "description": "Aire Internet",
   "subnets": {
     "ipv4": [
       "198.245.14.0/23",

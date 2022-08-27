@@ -1,6 +1,7 @@
 {
   "asn": 1379,
-  "handle": "SIL-249",
+  "handle": "SINCH-INTERCONNECT-LLC",
+  "description": "SINCH INTERCONNECT LLC",
   "subnets": {
     "ipv4": [
       "74.117.8.0/22",

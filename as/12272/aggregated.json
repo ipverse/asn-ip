@@ -1,6 +1,7 @@
 {
   "asn": 12272,
   "handle": "MEDATA-PROD",
+  "description": "Medata Inc.",
   "subnets": {
     "ipv4": [
       "199.101.232.0/22"

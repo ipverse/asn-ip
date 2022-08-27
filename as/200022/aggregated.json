@@ -1,6 +1,7 @@
 {
   "asn": 200022,
   "handle": "AIRNET",
+  "description": "AirNet Ltd",
   "subnets": {
     "ipv4": [
       "141.101.210.0/24"

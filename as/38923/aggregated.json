@@ -1,6 +1,7 @@
 {
   "asn": 38923,
   "handle": "TELSAT",
+  "description": "Pawel Kowalski BGCOM",
   "subnets": {
     "ipv4": [
       "83.142.136.0/21",

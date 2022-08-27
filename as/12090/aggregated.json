@@ -1,6 +1,7 @@
 {
   "asn": 12090,
   "handle": "NET-AAA",
+  "description": "AAA National",
   "subnets": {
     "ipv4": [
       "12.16.22.0/24",

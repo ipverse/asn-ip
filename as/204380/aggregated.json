@@ -1,6 +1,7 @@
 {
   "asn": 204380,
   "handle": "STARBRIDGE-LV",
+  "description": "SIA Starbridge",
   "subnets": {
     "ipv4": [
       "78.28.225.0/24"

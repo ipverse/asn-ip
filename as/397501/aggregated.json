@@ -1,6 +1,7 @@
 {
   "asn": 397501,
   "handle": "PURDUE-RESNET",
+  "description": "Purdue University",
   "subnets": {
     "ipv4": [
       "128.211.64.0/24",

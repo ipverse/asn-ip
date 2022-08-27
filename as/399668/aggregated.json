@@ -1,6 +1,7 @@
 {
   "asn": 399668,
   "handle": "E-PLANNING-US",
+  "description": "e-planning",
   "subnets": {
     "ipv4": [
       "172.98.26.0/23",

@@ -1,6 +1,7 @@
 {
   "asn": 23512,
   "handle": "RGTS-SJ",
+  "description": "Rockefeller Group Telecommunications Service",
   "subnets": {
     "ipv4": [
       "63.117.210.0/24"

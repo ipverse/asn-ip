@@ -1,6 +1,7 @@
 {
   "asn": 30312,
   "handle": "NETGATE",
+  "description": "Netgate",
   "subnets": {
     "ipv4": [
       "192.207.126.0/24",

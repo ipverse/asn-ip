@@ -1,6 +1,7 @@
 {
   "asn": 14288,
   "handle": "MPINET",
+  "description": "MPInet",
   "subnets": {
     "ipv4": [
       "66.90.0.0/18",

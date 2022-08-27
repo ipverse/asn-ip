@@ -1,7 +1,7 @@
 {
   "asn": 263057,
-  "handle": "CLA19",
-  "description": "",
+  "handle": "CONNECT-NETWORK",
+  "description": "Connect Network",
   "subnets": {
     "ipv4": [
       "168.228.16.0/22",

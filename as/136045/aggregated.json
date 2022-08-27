@@ -1,7 +1,7 @@
 {
   "asn": 136045,
   "handle": "DOWNSTREAM-AP",
-  "description": "",
+  "description": "Downstream Connect",
   "subnets": {
     "ipv4": [
       "103.168.218.0/24"

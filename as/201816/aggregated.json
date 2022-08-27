@@ -1,6 +1,7 @@
 {
   "asn": 201816,
   "handle": "KALMAR",
+  "description": "Kalmar lans landsting",
   "subnets": {
     "ipv4": [
       "193.235.215.0/24",

@@ -1,6 +1,7 @@
 {
   "asn": 201603,
   "handle": "AIRNET-SK",
+  "description": "AIRNET s.r.o.",
   "subnets": {
     "ipv4": [
       "91.217.32.0/23",

@@ -1,6 +1,7 @@
 {
   "asn": 396921,
   "handle": "US-CBP",
+  "description": "U.S. Customs and Border Protection",
   "subnets": {
     "ipv4": [
       "167.144.1.0/24",

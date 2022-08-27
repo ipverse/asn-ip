@@ -1,6 +1,7 @@
 {
   "asn": 427,
   "handle": "AFCONC-BLOCK1",
+  "description": "Air Force Systems Networking",
   "subnets": {
     "ipv4": [
       "132.3.12.0/22",

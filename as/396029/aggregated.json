@@ -1,6 +1,7 @@
 {
   "asn": 396029,
   "handle": "ACT-SVCS-01",
+  "description": "Account Services",
   "subnets": {
     "ipv4": [
       "174.34.241.0/24"

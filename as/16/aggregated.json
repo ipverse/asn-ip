@@ -1,6 +1,7 @@
 {
   "asn": 16,
   "handle": "LBL",
+  "description": "Lawrence Berkeley National Laboratory",
   "subnets": {
     "ipv4": [
       "128.3.0.0/16",

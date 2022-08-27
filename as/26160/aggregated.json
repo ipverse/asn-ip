@@ -1,6 +1,7 @@
 {
   "asn": 26160,
   "handle": "LCEC-BGPNET-YHWH",
+  "description": "LCEC",
   "subnets": {
     "ipv4": [
       "76.7.47.0/24",

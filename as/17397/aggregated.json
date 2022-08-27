@@ -1,6 +1,7 @@
 {
   "asn": 17397,
   "handle": "OPTIMAL-PAYMENTS",
+  "description": "Paysafe",
   "subnets": {
     "ipv4": [
       "38.74.6.0/23",

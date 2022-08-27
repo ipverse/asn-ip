@@ -1,6 +1,7 @@
 {
   "asn": 202230,
   "handle": "NORSK-TIPPING",
+  "description": "Norsk Tipping AS",
   "subnets": {
     "ipv4": [
       "185.32.88.0/22"

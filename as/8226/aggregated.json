@@ -1,6 +1,7 @@
 {
   "asn": 8226,
   "handle": "AM-NIC",
+  "description": "Arpinet LLC",
   "subnets": {
     "ipv4": [
       "109.68.120.0/22",

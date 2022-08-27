@@ -1,6 +1,7 @@
 {
   "asn": 43031,
   "handle": "V-LAN",
+  "description": "V-LAN OOO",
   "subnets": {
     "ipv4": [
       "85.202.0.0/20"

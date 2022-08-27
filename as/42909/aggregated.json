@@ -1,6 +1,7 @@
 {
   "asn": 42909,
   "handle": "COMMUNITYDNS",
+  "description": "Community DNS Limited",
   "subnets": {
     "ipv4": [
       "74.116.176.0/24",

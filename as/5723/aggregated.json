@@ -1,6 +1,7 @@
 {
   "asn": 5723,
   "handle": "JHU",
+  "description": "Johns Hopkins University",
   "subnets": {
     "ipv4": [
       "128.220.0.0/16",

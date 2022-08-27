@@ -1,6 +1,7 @@
 {
   "asn": 200660,
   "handle": "INTERHOSTLLP",
+  "description": "Interhost LLP",
   "subnets": {
     "ipv4": [
       "91.208.243.0/24",

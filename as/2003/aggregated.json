@@ -1,6 +1,7 @@
 {
   "asn": 2003,
   "handle": "EPRI-PA",
+  "description": "Electric Power Research Institute",
   "subnets": {
     "ipv4": [
       "144.58.40.0/24",

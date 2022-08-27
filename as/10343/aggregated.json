@@ -1,6 +1,7 @@
 {
   "asn": 10343,
-  "handle": "NASA",
+  "handle": "NATIONAL-AERONAUTICS-AND",
+  "description": "National Aeronautics and Space Administration",
   "subnets": {
     "ipv4": [
       "129.99.0.0/16",

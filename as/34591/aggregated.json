@@ -1,6 +1,7 @@
 {
   "asn": 34591,
   "handle": "SIGINT",
+  "description": "signal interrupt GmbH",
   "subnets": {
     "ipv4": [
       "193.30.19.0/24",

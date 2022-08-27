@@ -1,6 +1,7 @@
 {
   "asn": 49083,
   "handle": "MEMONET",
+  "description": "MEMONET SAS",
   "subnets": {
     "ipv4": [
       "95.131.240.0/21",

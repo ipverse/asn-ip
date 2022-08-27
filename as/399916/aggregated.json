@@ -1,6 +1,7 @@
 {
   "asn": 399916,
   "handle": "PACKETSTREAM-NAM",
+  "description": "PACKETSTREAM LLC",
   "subnets": {
     "ipv4": [
       "45.89.255.0/24",

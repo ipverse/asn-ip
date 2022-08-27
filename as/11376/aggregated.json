@@ -1,6 +1,7 @@
 {
   "asn": 11376,
   "handle": "CHOICE-BGP",
+  "description": "Choice Logistics, Inc.",
   "subnets": {
     "ipv4": [
       "198.202.255.0/24"

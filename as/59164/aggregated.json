@@ -1,6 +1,7 @@
 {
   "asn": 59164,
-  "description": "",
+  "handle": "IRINN-BLOCK",
+  "description": "IRINN AS-BLOCK",
   "subnets": {
     "ipv4": [
       "103.200.40.0/22",

@@ -1,6 +1,7 @@
 {
   "asn": 40224,
   "handle": "SELECTCOM-TELECOM",
+  "description": "Selectcom Telecom",
   "subnets": {
     "ipv4": [
       "24.129.192.0/20",

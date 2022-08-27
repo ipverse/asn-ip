@@ -1,6 +1,7 @@
 {
   "asn": 9031,
   "handle": "EDPNET",
+  "description": "EDPNET NV",
   "subnets": {
     "ipv4": [
       "77.109.64.0/18",

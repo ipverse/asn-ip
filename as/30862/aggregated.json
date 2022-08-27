@@ -1,6 +1,7 @@
 {
   "asn": 30862,
   "handle": "ATOS-CH",
+  "description": "Atos AG",
   "subnets": {
     "ipv4": [
       "194.56.132.0/22",

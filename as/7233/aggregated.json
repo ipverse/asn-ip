@@ -1,6 +1,7 @@
 {
   "asn": 7233,
   "handle": "YAHOO-US",
+  "description": "Yahoo",
   "subnets": {
     "ipv4": [
       "98.136.0.0/20",

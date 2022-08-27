@@ -1,6 +1,7 @@
 {
   "asn": 400119,
   "handle": "IRV-NIDR",
+  "description": "PIMCO",
   "subnets": {
     "ipv4": [
       "8.41.176.0/24",

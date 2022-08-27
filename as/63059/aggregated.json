@@ -1,6 +1,7 @@
 {
   "asn": 63059,
-  "handle": "-CISCO-SYSTEMS",
+  "handle": "CISCO-SYSTEMS",
+  "description": "Cisco Systems, Inc.",
   "subnets": {
     "ipv4": [
       "207.18.164.0/24"

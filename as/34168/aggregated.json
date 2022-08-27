@@ -1,6 +1,7 @@
 {
   "asn": 34168,
   "handle": "ELCOM-ISP",
+  "description": "PJSC Rostelecom",
   "subnets": {
     "ipv4": [
       "84.53.192.0/18"

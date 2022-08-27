@@ -1,6 +1,7 @@
 {
   "asn": 59853,
   "handle": "T-CONNECT",
+  "description": "T-CONNECT SAS",
   "subnets": {
     "ipv4": [
       "185.68.228.0/22",

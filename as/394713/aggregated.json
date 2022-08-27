@@ -1,6 +1,7 @@
 {
   "asn": 394713,
   "handle": "ISCGROUP",
+  "description": "Integration Station",
   "subnets": {
     "ipv4": [
       "50.200.214.0/23",

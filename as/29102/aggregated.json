@@ -1,6 +1,7 @@
 {
   "asn": 29102,
   "handle": "UPC-NET",
+  "description": "PJSC Ukrainian Processing Center",
   "subnets": {
     "ipv4": [
       "91.233.101.0/24",

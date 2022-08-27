@@ -1,6 +1,7 @@
 {
   "asn": 202737,
   "handle": "TRANSACTEU",
+  "description": "TRANSACT EUROPE EAD",
   "subnets": {
     "ipv4": [
       "185.60.65.0/24"

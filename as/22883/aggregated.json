@@ -1,6 +1,7 @@
 {
   "asn": 22883,
   "handle": "CONDENAST",
+  "description": "CondeNast Publications",
   "subnets": {
     "ipv4": [
       "69.2.124.0/23",

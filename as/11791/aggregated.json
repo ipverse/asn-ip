@@ -1,6 +1,7 @@
 {
   "asn": 11791,
   "handle": "SLC-IDENT",
+  "description": "IdenTrust",
   "subnets": {
     "ipv4": [
       "192.35.174.0/23",

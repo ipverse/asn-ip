@@ -1,6 +1,7 @@
 {
   "asn": 39040,
   "handle": "NTSWORKSPACEAG",
+  "description": "NTS workspace AG",
   "subnets": {
     "ipv4": [
       "77.95.120.0/24"

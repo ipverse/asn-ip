@@ -1,6 +1,7 @@
 {
   "asn": 131542,
-  "description": "",
+  "handle": "CHINA-INTERNET-NETWORK",
+  "description": "China Internet Network Information Center",
   "subnets": {
     "ipv4": [
       "43.242.204.0/22",

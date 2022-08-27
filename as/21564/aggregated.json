@@ -1,6 +1,7 @@
 {
   "asn": 21564,
   "handle": "NS-PROVINCIAL",
+  "description": "Nova Scotia Provincial Government",
   "subnets": {
     "ipv4": [
       "64.15.48.0/20",

@@ -1,6 +1,7 @@
 {
   "asn": 531,
   "handle": "DNIC-00",
+  "description": "Headquarters, USAISC",
   "subnets": {
     "ipv4": [
       "6.16.207.0/24",

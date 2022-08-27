@@ -1,6 +1,7 @@
 {
   "asn": 7021,
   "handle": "VRIS",
+  "description": "Verizon Business",
   "subnets": {
     "ipv4": [
       "206.46.128.0/24",

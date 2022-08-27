@@ -1,6 +1,7 @@
 {
   "asn": 57506,
   "handle": "PDMT",
+  "description": "Politiets IKT-tjenester (PIT)",
   "subnets": {
     "ipv4": [
       "163.174.0.0/18"

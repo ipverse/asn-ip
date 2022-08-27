@@ -1,6 +1,7 @@
 {
   "asn": 63015,
   "handle": "DALLAS-DATACENTER",
+  "description": "Dallas Data Center",
   "subnets": {
     "ipv4": [
       "162.250.224.0/22",

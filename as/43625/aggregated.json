@@ -1,6 +1,7 @@
 {
   "asn": 43625,
   "handle": "WI-FI-SYSTEM",
+  "description": "Wi-Fi System di GianCarlo Forno",
   "subnets": {
     "ipv4": [
       "91.198.84.0/24",

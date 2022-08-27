@@ -1,6 +1,7 @@
 {
   "asn": 201822,
   "handle": "BP",
+  "description": "Buypass AS",
   "subnets": {
     "ipv4": [
       "81.173.42.0/24",

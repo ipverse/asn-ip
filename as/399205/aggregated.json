@@ -1,6 +1,7 @@
 {
   "asn": 399205,
   "handle": "MAYSTREET-INET-01",
+  "description": "Maystreet",
   "subnets": {
     "ipv4": [
       "204.225.64.0/24"

@@ -1,6 +1,7 @@
 {
   "asn": 190,
   "handle": "DNIC-00",
+  "description": "Navy Network Information Center (NNIC)",
   "subnets": {
     "ipv4": [
       "192.86.77.0/24",

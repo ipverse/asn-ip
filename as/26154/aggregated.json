@@ -1,6 +1,7 @@
 {
   "asn": 26154,
   "handle": "VOIP-MINUTES-EXCHANGE",
+  "description": "VOIP ME",
   "subnets": {
     "ipv4": [
       "38.76.73.0/24"

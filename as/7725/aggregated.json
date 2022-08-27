@@ -1,6 +1,7 @@
 {
   "asn": 7725,
   "handle": "COMCAST",
+  "description": "Comcast Cable Communications, LLC",
   "subnets": {
     "ipv4": [
       "23.34.63.0/24",

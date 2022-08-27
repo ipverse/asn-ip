@@ -1,6 +1,7 @@
 {
   "asn": 43,
   "handle": "BNL",
+  "description": "Brookhaven National Laboratory",
   "subnets": {
     "ipv4": [
       "130.199.0.0/16",

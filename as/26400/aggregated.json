@@ -1,6 +1,7 @@
 {
   "asn": 26400,
   "handle": "IAMOTEL",
+  "description": "IAMO Telephone Company",
   "subnets": {
     "ipv4": [
       "64.111.57.0/24",

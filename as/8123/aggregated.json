@@ -1,6 +1,7 @@
 {
   "asn": 8123,
   "handle": "POLYBASE",
+  "description": "Polybase",
   "subnets": {
     "ipv4": [
       "206.82.249.0/24"

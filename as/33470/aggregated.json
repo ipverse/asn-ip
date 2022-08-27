@@ -1,6 +1,7 @@
 {
   "asn": 33470,
   "handle": "CANBYTELEPHONEASSOCIATION",
+  "description": "Canby Telephone Association",
   "subnets": {
     "ipv4": [
       "65.182.224.0/19",

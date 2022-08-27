@@ -1,6 +1,7 @@
 {
   "asn": 14799,
   "handle": "EXP-EC2000",
+  "description": "Experian",
   "subnets": {
     "ipv4": [
       "167.107.0.0/16",

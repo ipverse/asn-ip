@@ -1,6 +1,7 @@
 {
   "asn": 3912,
   "handle": "CHECS",
+  "description": "CHECS",
   "subnets": {
     "ipv4": [
       "63.225.1.0/24",

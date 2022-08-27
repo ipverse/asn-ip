@@ -1,6 +1,7 @@
 {
   "asn": 396995,
   "handle": "BGP",
+  "description": "Morris Hospital",
   "subnets": {
     "ipv4": [
       "50.229.28.0/23"

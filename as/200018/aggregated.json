@@ -1,6 +1,7 @@
 {
   "asn": 200018,
   "handle": "JONKOPING-COUNTY-NET",
+  "description": "Jonkopings lans landsting",
   "subnets": {
     "ipv4": [
       "194.103.112.0/24",

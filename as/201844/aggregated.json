@@ -1,6 +1,7 @@
 {
   "asn": 201844,
   "handle": "RU-KORUS",
+  "description": "LLC Korus",
   "subnets": {
     "ipv4": [
       "80.64.22.0/23"

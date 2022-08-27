@@ -1,6 +1,7 @@
 {
   "asn": 50927,
   "handle": "ISP-DELTA",
+  "description": "Private enterprise Delta",
   "subnets": {
     "ipv4": [
       "91.216.22.0/24",

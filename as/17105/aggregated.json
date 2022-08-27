@@ -1,6 +1,7 @@
 {
   "asn": 17105,
   "handle": "NISA-STL",
+  "description": "NISA Investment Advisors",
   "subnets": {
     "ipv4": [
       "192.135.218.0/24",

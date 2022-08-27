@@ -1,6 +1,7 @@
 {
   "asn": 398662,
   "handle": "SBC2",
+  "description": "SBFiber",
   "subnets": {
     "ipv4": [
       "206.55.219.0/24"

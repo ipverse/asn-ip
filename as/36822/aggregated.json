@@ -1,6 +1,7 @@
 {
   "asn": 36822,
   "handle": "NYMEX-EXTRANET",
+  "description": "NEW YORK MERCANTILE EXCHANGE",
   "subnets": {
     "ipv4": [
       "204.77.88.0/24"

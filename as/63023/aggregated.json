@@ -1,6 +1,7 @@
 {
   "asn": 63023,
   "handle": "GLOBALTELEHOST",
+  "description": "GTHost",
   "subnets": {
     "ipv4": [
       "2.59.62.0/24",

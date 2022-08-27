@@ -1,6 +1,7 @@
 {
   "asn": 210687,
   "handle": "QWIRELESS",
+  "description": "QWireless srls",
   "subnets": {
     "ipv4": [
       "45.156.61.0/24",

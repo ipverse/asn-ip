@@ -1,6 +1,7 @@
 {
   "asn": 44201,
   "handle": "BNB",
+  "description": "Bulgarian National Bank",
   "subnets": {
     "ipv4": [
       "91.209.146.0/24"

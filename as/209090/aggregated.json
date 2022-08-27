@@ -1,6 +1,7 @@
 {
   "asn": 209090,
   "handle": "STOLON",
+  "description": "Association Stolon",
   "subnets": {
     "ipv4": [
       "80.67.186.0/24",

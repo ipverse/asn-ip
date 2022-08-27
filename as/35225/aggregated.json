@@ -1,6 +1,7 @@
 {
   "asn": 35225,
   "handle": "HRVATSKE-CESTE",
+  "description": "Hrvatske ceste",
   "subnets": {
     "ipv4": [
       "91.212.31.0/24"

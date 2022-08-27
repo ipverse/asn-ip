@@ -1,6 +1,7 @@
 {
   "asn": 8002,
   "handle": "STEALTH",
+  "description": "Stealth Communications",
   "subnets": {
     "ipv4": [
       "192.68.29.0/24",

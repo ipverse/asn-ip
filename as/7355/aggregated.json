@@ -1,6 +1,7 @@
 {
   "asn": 7355,
   "handle": "MEITCA",
+  "description": "Mitsubishi Electric ITA (HSL)",
   "subnets": {
     "ipv4": [
       "137.203.0.0/16"

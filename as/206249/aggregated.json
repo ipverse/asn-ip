@@ -1,6 +1,7 @@
 {
   "asn": 206249,
   "handle": "TENNET",
+  "description": "TenneT TSO B.V.",
   "subnets": {
     "ipv4": [
       "193.177.237.0/24"

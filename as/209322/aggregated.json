@@ -1,6 +1,7 @@
 {
   "asn": 209322,
   "handle": "DE-SECUNET",
+  "description": "secunet Security Networks AG",
   "subnets": {
     "ipv4": [
       "45.67.76.0/22"

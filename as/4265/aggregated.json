@@ -1,6 +1,7 @@
 {
   "asn": 4265,
   "handle": "CERNET",
+  "description": "California Education and Research Federation Network",
   "subnets": {
     "ipv4": [
       "12.130.88.0/21",

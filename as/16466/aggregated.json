@@ -1,6 +1,7 @@
 {
   "asn": 16466,
   "handle": "AVAYA-ONECLOUD",
+  "description": "Avaya Inc.",
   "subnets": {
     "ipv4": [
       "135.169.112.0/21",

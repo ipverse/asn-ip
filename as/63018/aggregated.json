@@ -1,6 +1,7 @@
 {
   "asn": 63018,
   "handle": "DEDICATED",
+  "description": "Dedicated.com",
   "subnets": {
     "ipv4": [
       "14.1.28.0/22",

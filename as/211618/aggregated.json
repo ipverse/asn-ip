@@ -1,6 +1,7 @@
 {
   "asn": 211618,
   "handle": "MEDMA",
+  "description": "LLC Roslabsystem",
   "subnets": {
     "ipv4": [
       "2.59.160.0/24"

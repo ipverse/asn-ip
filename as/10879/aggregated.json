@@ -1,6 +1,7 @@
 {
   "asn": 10879,
   "handle": "UHC",
+  "description": "Unitedhealthcare",
   "subnets": {
     "ipv4": [
       "128.35.0.0/16",

@@ -1,6 +1,7 @@
 {
   "asn": 50778,
   "handle": "SQLI",
+  "description": "SQLI SA",
   "subnets": {
     "ipv4": [
       "193.27.68.0/23",

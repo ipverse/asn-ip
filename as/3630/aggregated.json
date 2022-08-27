@@ -1,6 +1,7 @@
 {
   "asn": 3630,
   "handle": "NYSERNET-BLK",
+  "description": "NYSERNet",
   "subnets": {
     "ipv4": [
       "199.109.94.0/24",

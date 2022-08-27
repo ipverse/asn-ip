@@ -1,6 +1,7 @@
 {
   "asn": 23413,
   "handle": "VM-AW-US",
+  "description": "AirWatch LLC",
   "subnets": {
     "ipv4": [
       "192.30.64.0/23",

@@ -1,6 +1,7 @@
 {
   "asn": 14291,
   "handle": "ANTIETAM",
+  "description": "Antietam Broadband",
   "subnets": {
     "ipv4": [
       "24.49.32.0/19",

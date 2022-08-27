@@ -1,6 +1,7 @@
 {
   "asn": 50158,
   "handle": "CONNECT-LLC",
+  "description": "Connect LLC",
   "subnets": {
     "ipv4": [
       "194.247.184.0/23"

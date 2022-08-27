@@ -1,6 +1,7 @@
 {
   "asn": 3402,
   "handle": "ATS",
+  "description": "Acilis Telecom Backbone",
   "subnets": {
     "ipv4": [
       "8.2.200.0/21"

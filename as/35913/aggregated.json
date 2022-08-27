@@ -1,6 +1,7 @@
 {
   "asn": 35913,
   "handle": "DEDIPATH-LLC",
+  "description": "DediPath",
   "subnets": {
     "ipv4": [
       "2.56.116.0/22",

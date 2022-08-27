@@ -1,6 +1,7 @@
 {
   "asn": 200601,
   "handle": "SWISSNEUTRALNET",
+  "description": "SwissNeutralNet",
   "subnets": {
     "ipv4": [
       "185.250.56.0/22",

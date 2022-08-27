@@ -1,6 +1,7 @@
 {
   "asn": 21904,
   "handle": "POWER1COM",
+  "description": "PowerOne",
   "subnets": {
     "ipv4": [
       "68.64.96.0/24",

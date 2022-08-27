@@ -1,6 +1,7 @@
 {
   "asn": 32809,
   "handle": "DRN",
+  "description": "Dickey Rural Networks",
   "subnets": {
     "ipv4": [
       "63.141.0.0/20",

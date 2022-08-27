@@ -1,6 +1,7 @@
 {
   "asn": 57227,
   "handle": "ASSUBNET05",
+  "description": "Subnet LLC",
   "subnets": {
     "ipv4": [
       "81.24.85.0/24",

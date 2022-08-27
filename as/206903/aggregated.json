@@ -1,6 +1,7 @@
 {
   "asn": 206903,
   "handle": "SMCPSAS",
+  "description": "SMCP HOLDING SAS",
   "subnets": {
     "ipv4": [
       "185.172.152.0/22"

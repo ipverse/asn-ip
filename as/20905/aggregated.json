@@ -1,6 +1,7 @@
 {
   "asn": 20905,
   "handle": "BANCOESPANAAS",
+  "description": "Banco de Espana",
   "subnets": {
     "ipv4": [
       "77.73.200.0/22",

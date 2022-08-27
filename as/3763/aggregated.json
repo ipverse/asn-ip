@@ -1,6 +1,7 @@
 {
   "asn": 3763,
   "handle": "BELD-1",
+  "description": "BELD",
   "subnets": {
     "ipv4": [
       "24.233.94.0/24"

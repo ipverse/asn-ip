@@ -1,6 +1,7 @@
 {
   "asn": 203078,
   "handle": "SAP-FIELDGLASS",
+  "description": "SAP SE",
   "subnets": {
     "ipv4": [
       "157.133.224.0/22",

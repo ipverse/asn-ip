@@ -1,6 +1,7 @@
 {
   "asn": 203443,
   "handle": "INDERTCONNECTION",
+  "description": "INDERT CONNECTION LP",
   "subnets": {
     "ipv4": [
       "185.126.164.0/22",

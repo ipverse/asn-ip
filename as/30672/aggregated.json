@@ -1,6 +1,7 @@
 {
   "asn": 30672,
-  "handle": "QMACS-6",
+  "handle": "QMACS",
+  "description": "QMACS",
   "subnets": {
     "ipv4": [
       "12.200.112.0/24",

@@ -1,6 +1,7 @@
 {
   "asn": 26794,
   "handle": "DCN",
+  "description": "Dakota Carrier Network",
   "subnets": {
     "ipv4": [
       "63.131.176.0/20",

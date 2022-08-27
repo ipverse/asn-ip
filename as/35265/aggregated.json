@@ -1,6 +1,7 @@
 {
   "asn": 35265,
   "handle": "EWR-WO",
+  "description": "EWR AG",
   "subnets": {
     "ipv4": [
       "194.213.31.0/24"

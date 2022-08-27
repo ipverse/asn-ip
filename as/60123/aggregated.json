@@ -1,6 +1,7 @@
 {
   "asn": 60123,
   "handle": "REMSCHEID",
+  "description": "Stadtverwaltung Remscheid",
   "subnets": {
     "ipv4": [
       "194.99.144.0/21",

@@ -1,6 +1,7 @@
 {
   "asn": 802,
   "handle": "YORKU",
+  "description": "York University",
   "subnets": {
     "ipv4": [
       "130.63.0.0/16",

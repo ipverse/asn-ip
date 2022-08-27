@@ -1,7 +1,7 @@
 {
   "asn": 137403,
   "handle": "SALTSYNC-AP",
-  "description": "",
+  "description": "Sync Communication(Saltsync)",
   "subnets": {
     "ipv4": [
       "103.107.160.0/22",

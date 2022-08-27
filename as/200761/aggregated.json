@@ -1,6 +1,7 @@
 {
   "asn": 200761,
   "handle": "REALCOMM",
+  "description": "Real Comm srl",
   "subnets": {
     "ipv4": [
       "185.17.156.0/22",

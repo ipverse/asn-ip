@@ -1,6 +1,7 @@
 {
   "asn": 24981,
   "handle": "PRIVATBANKLV",
+  "description": "AS Privatbank",
   "subnets": {
     "ipv4": [
       "193.201.66.0/23"

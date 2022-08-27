@@ -1,6 +1,7 @@
 {
   "asn": 33614,
   "handle": "CITY-OF-SAN-DIEGO",
+  "description": "City of San Diego",
   "subnets": {
     "ipv4": [
       "156.29.3.0/24",

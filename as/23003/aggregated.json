@@ -1,6 +1,7 @@
 {
   "asn": 23003,
   "handle": "MWAA",
+  "description": "Metropolitan Washington Airports Authority",
   "subnets": {
     "ipv4": [
       "205.153.92.0/24",

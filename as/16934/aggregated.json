@@ -1,6 +1,7 @@
 {
   "asn": 16934,
   "handle": "LEACO-INTERNET",
+  "description": "Leaco Rural Telephone",
   "subnets": {
     "ipv4": [
       "68.233.144.0/20",

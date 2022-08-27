@@ -1,6 +1,7 @@
 {
   "asn": 201612,
   "handle": "NICAT-MINICAST",
+  "description": "nic.at GmbH",
   "subnets": {
     "ipv4": [
       "194.0.24.0/24",

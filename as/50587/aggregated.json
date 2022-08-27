@@ -1,6 +1,7 @@
 {
   "asn": 50587,
   "handle": "ATB",
+  "description": "LLC M ADVICE",
   "subnets": {
     "ipv4": [
       "193.105.94.0/24"

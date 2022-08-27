@@ -1,6 +1,7 @@
 {
   "asn": 40440,
   "handle": "NRTC-CA",
+  "description": "NRTC Communications",
   "subnets": {
     "ipv4": [
       "45.62.64.0/19"

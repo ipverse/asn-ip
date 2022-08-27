@@ -1,6 +1,7 @@
 {
   "asn": 29875,
   "handle": "CPLSW",
+  "description": "Clinical Pathology Laboratories",
   "subnets": {
     "ipv4": [
       "198.186.7.0/24",

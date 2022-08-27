@@ -1,6 +1,7 @@
 {
   "asn": 1842,
   "handle": "USGS",
+  "description": "United States Geological Survey",
   "subnets": {
     "ipv4": [
       "130.118.152.0/24",

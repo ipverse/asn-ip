@@ -1,6 +1,7 @@
 {
   "asn": 2021,
   "handle": "UNISYS-INT",
+  "description": "Unisys Corporation",
   "subnets": {
     "ipv4": [
       "192.59.56.0/22",

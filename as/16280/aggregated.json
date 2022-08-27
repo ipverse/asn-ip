@@ -1,6 +1,7 @@
 {
   "asn": 16280,
   "handle": "BCRT",
+  "description": "BorsodChem Zrt",
   "subnets": {
     "ipv4": [
       "194.149.48.0/23",

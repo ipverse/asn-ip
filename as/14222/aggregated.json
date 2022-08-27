@@ -1,6 +1,7 @@
 {
   "asn": 14222,
   "handle": "NFCU",
+  "description": "Navy Federal Credit Union",
   "subnets": {
     "ipv4": [
       "198.51.240.0/24",

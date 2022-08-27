@@ -1,6 +1,7 @@
 {
   "asn": 394209,
   "handle": "ECBOCES-VNETS",
+  "description": "East Central BOCES",
   "subnets": {
     "ipv4": [
       "170.76.154.0/24",

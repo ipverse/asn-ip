@@ -1,6 +1,7 @@
 {
   "asn": 11734,
   "handle": "CONNECTRIA-ASN-1",
+  "description": "Connectria",
   "subnets": {
     "ipv4": [
       "8.6.80.0/24",

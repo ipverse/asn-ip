@@ -1,6 +1,7 @@
 {
   "asn": 19051,
   "handle": "SIMPLISAFE-01",
+  "description": "SimpliSafe",
   "subnets": {
     "ipv4": [
       "207.180.141.0/24"

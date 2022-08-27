@@ -1,6 +1,7 @@
 {
   "asn": 61234,
   "handle": "COMMTO-LN",
+  "description": "Cyren Inc",
   "subnets": {
     "ipv4": [
       "84.39.157.0/24",

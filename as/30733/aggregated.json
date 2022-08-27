@@ -1,6 +1,7 @@
 {
   "asn": 30733,
   "handle": "GLOBUS",
+  "description": "JSC Globus-Telecom",
   "subnets": {
     "ipv4": [
       "82.198.160.0/19",

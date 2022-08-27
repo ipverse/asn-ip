@@ -1,6 +1,7 @@
 {
   "asn": 3389,
   "handle": "FORDSRL",
+  "description": "Ford Motor Company",
   "subnets": {
     "ipv4": [
       "19.12.72.0/21",

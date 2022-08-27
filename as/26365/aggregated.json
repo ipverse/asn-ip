@@ -1,6 +1,7 @@
 {
   "asn": 26365,
   "handle": "IOT-PRIMARY",
+  "description": "Image One Technologies",
   "subnets": {
     "ipv4": [
       "192.48.105.0/24"

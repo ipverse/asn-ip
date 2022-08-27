@@ -1,6 +1,7 @@
 {
   "asn": 53832,
   "handle": "BOYCOM",
+  "description": "Boycom Cablevision",
   "subnets": {
     "ipv4": [
       "192.129.112.0/20",

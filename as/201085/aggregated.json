@@ -1,6 +1,7 @@
 {
   "asn": 201085,
   "handle": "ANTEMETA-ASN01",
+  "description": "ANTEMETA SAS",
   "subnets": {
     "ipv4": [
       "157.97.136.0/21",

@@ -1,6 +1,7 @@
 {
   "asn": 32922,
   "handle": "ATCCOMMICATIONS",
+  "description": "ATC Communications",
   "subnets": {
     "ipv4": [
       "169.150.100.0/23",

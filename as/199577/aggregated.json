@@ -1,6 +1,7 @@
 {
   "asn": 199577,
   "handle": "DIGIRET-LV",
+  "description": "Digimoney-SIA",
   "subnets": {
     "ipv4": [
       "80.233.187.0/24",

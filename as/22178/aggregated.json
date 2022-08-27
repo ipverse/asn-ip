@@ -1,6 +1,7 @@
 {
   "asn": 22178,
   "handle": "PA-SENATE",
+  "description": "Senate of Pennsylvania",
   "subnets": {
     "ipv4": [
       "170.47.0.0/16"

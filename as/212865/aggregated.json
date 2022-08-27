@@ -1,6 +1,7 @@
 {
   "asn": 212865,
   "handle": "NETCONNECT",
+  "description": "netconnect AG",
   "subnets": {
     "ipv4": [
       "2.59.120.0/22",

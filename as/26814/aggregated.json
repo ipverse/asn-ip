@@ -1,6 +1,7 @@
 {
   "asn": 26814,
   "handle": "COBNET",
+  "description": "City of Birmingham",
   "subnets": {
     "ipv4": [
       "199.87.16.0/21",

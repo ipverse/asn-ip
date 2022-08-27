@@ -1,7 +1,7 @@
 {
   "asn": 136958,
   "handle": "UNICOM-GUANGZHOU-IDC",
-  "description": "",
+  "description": "China Unicom Guangdong IP network",
   "subnets": {
     "ipv4": [
       "43.254.128.0/22",

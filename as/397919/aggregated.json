@@ -1,6 +1,7 @@
 {
   "asn": 397919,
   "handle": "NETSPI-CORPORATE",
+  "description": "NetSPI",
   "subnets": {
     "ipv4": [
       "76.76.14.0/24"

@@ -1,6 +1,7 @@
 {
   "asn": 30313,
   "handle": "IRS",
+  "description": "Internal Revenue Service",
   "subnets": {
     "ipv4": [
       "152.216.0.0/20"

@@ -1,6 +1,7 @@
 {
   "asn": 11205,
   "handle": "CITY-OF-PHILADELPHIA",
+  "description": "City of Philadelphia",
   "subnets": {
     "ipv4": [
       "170.115.0.0/16"

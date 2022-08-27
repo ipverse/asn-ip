@@ -1,6 +1,7 @@
 {
   "asn": 46454,
   "handle": "AS1",
+  "description": "WCS",
   "subnets": {
     "ipv4": [
       "68.64.72.0/23",

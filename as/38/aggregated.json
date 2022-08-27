@@ -1,6 +1,7 @@
 {
   "asn": 38,
   "handle": "UIUC",
+  "description": "University of Illinois",
   "subnets": {
     "ipv4": [
       "72.36.64.0/18",

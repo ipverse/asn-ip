@@ -1,6 +1,7 @@
 {
   "asn": 21983,
   "handle": "AURORNET",
+  "description": "Aurora Networking",
   "subnets": {
     "ipv4": [
       "199.244.56.0/21"

@@ -1,6 +1,7 @@
 {
   "asn": 44334,
   "handle": "RTLNET",
+  "description": "M6 Distribution Digital SAS",
   "subnets": {
     "ipv4": [
       "92.61.160.0/21",

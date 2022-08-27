@@ -1,6 +1,7 @@
 {
   "asn": 29283,
   "handle": "ADP-TELECOM",
+  "description": "Hub One SA",
   "subnets": {
     "ipv4": [
       "85.184.64.0/19",

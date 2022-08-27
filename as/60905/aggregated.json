@@ -1,6 +1,7 @@
 {
   "asn": 60905,
   "handle": "EURO-STRADA",
+  "description": "EURO Strada SRL",
   "subnets": {
     "ipv4": [
       "128.0.48.0/22"

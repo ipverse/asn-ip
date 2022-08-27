@@ -1,6 +1,7 @@
 {
   "asn": 201081,
   "handle": "SMARTADSERVER",
+  "description": "SmartAdServer SAS",
   "subnets": {
     "ipv4": [
       "185.86.136.0/22"

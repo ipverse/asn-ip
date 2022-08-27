@@ -1,6 +1,7 @@
 {
   "asn": 21774,
   "handle": "GSCNET",
+  "description": "The Exchange Global Server Center",
   "subnets": {
     "ipv4": [
       "66.46.141.0/24",

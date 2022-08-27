@@ -1,6 +1,7 @@
 {
   "asn": 203768,
   "handle": "E-CONTROL",
+  "description": "Energie-Control Austria",
   "subnets": {
     "ipv4": [
       "91.233.191.0/24"

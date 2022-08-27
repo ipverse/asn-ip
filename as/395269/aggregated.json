@@ -1,6 +1,7 @@
 {
   "asn": 395269,
   "handle": "WAHL-CLIPPER",
+  "description": "Wahl Clipper",
   "subnets": {
     "ipv4": [
       "50.224.69.0/24"

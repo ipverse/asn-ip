@@ -1,6 +1,7 @@
 {
   "asn": 40090,
   "handle": "RGC-WIRELESS",
+  "description": "RGC Wireless",
   "subnets": {
     "ipv4": [
       "23.139.64.0/23",

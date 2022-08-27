@@ -1,6 +1,7 @@
 {
   "asn": 61168,
   "handle": "PLANET-SERVICE",
+  "description": "Planet Service SARL",
   "subnets": {
     "ipv4": [
       "185.16.44.0/22"

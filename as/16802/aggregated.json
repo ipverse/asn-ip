@@ -1,6 +1,7 @@
 {
   "asn": 16802,
-  "handle": "IESO",
+  "handle": "INDEPENDENT-ELECTRICITY-SYSTEM",
+  "description": "Independent Electricity System Operator",
   "subnets": {
     "ipv4": [
       "142.9.0.0/16"

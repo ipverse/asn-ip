@@ -1,6 +1,7 @@
 {
   "asn": 54800,
   "handle": "LAREDOISD",
+  "description": "Laredo ISD",
   "subnets": {
     "ipv4": [
       "198.232.222.0/23",

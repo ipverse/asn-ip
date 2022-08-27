@@ -1,7 +1,7 @@
 {
   "asn": 131117,
   "handle": "CBN-MPLS-ID",
-  "description": "",
+  "description": "MPLS Network Provider",
   "subnets": {
     "ipv4": [
       "101.50.16.0/24"

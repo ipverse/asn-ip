@@ -1,6 +1,7 @@
 {
   "asn": 15596,
   "handle": "IP-CUSTOMERS",
+  "description": "IP Port LLC",
   "subnets": {
     "ipv4": [
       "31.42.112.0/20",

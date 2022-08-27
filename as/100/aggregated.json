@@ -1,6 +1,7 @@
 {
   "asn": 100,
   "handle": "FMC-CTC",
+  "description": "FMC Central Engineering Laboratories",
   "subnets": {
     "ipv4": [
       "12.30.153.0/24",

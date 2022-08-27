@@ -1,6 +1,7 @@
 {
   "asn": 48111,
   "handle": "WESTNETZ",
+  "description": "Westnetz w.V.",
   "subnets": {
     "ipv4": [
       "185.142.180.0/23"

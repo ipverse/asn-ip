@@ -1,6 +1,7 @@
 {
   "asn": 204059,
   "handle": "NEUTRINET",
+  "description": "Neutrinet ASBL",
   "subnets": {
     "ipv4": [
       "80.67.181.0/24",

@@ -1,6 +1,7 @@
 {
   "asn": 239,
   "handle": "UTORONTO",
+  "description": "University of Toronto",
   "subnets": {
     "ipv4": [
       "128.100.0.0/16",

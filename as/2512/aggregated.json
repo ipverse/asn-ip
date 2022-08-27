@@ -1,6 +1,7 @@
 {
   "asn": 2512,
-  "description": "",
+  "handle": "TCP",
+  "description": "TCP",
   "subnets": {
     "ipv4": [
       "157.14.0.0/19",

@@ -1,6 +1,7 @@
 {
   "asn": 57275,
   "handle": "CERTRO",
+  "description": "Centrul National de Raspuns la Incidente de Securitate Cibernetica",
   "subnets": {
     "ipv4": [
       "192.166.122.0/24"

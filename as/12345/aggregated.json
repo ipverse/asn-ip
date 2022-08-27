@@ -1,6 +1,7 @@
 {
   "asn": 12345,
-  "handle": "ORG-GSS1-RIPE",
+  "handle": "GENERAL-SOFTWARE-SRL",
+  "description": "General Software s.r.l.",
   "subnets": {
     "ipv4": [
       "212.47.32.0/19"

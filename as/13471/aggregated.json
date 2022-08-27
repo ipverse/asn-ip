@@ -1,6 +1,7 @@
 {
   "asn": 13471,
-  "handle": "PFSWEB",
+  "handle": "PFS-WEB",
+  "description": "PFS Web",
   "subnets": {
     "ipv4": [
       "12.18.76.0/23",

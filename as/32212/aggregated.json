@@ -1,6 +1,7 @@
 {
   "asn": 32212,
   "handle": "HSB-EDGE",
+  "description": "Sky Fiber Internet",
   "subnets": {
     "ipv4": [
       "38.70.200.0/21",

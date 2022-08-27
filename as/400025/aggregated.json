@@ -1,6 +1,7 @@
 {
   "asn": 400025,
   "handle": "LCISD",
+  "description": "Lapeer ISD",
   "subnets": {
     "ipv4": [
       "136.228.46.0/24",

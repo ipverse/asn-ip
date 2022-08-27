@@ -1,6 +1,7 @@
 {
   "asn": 11260,
   "handle": "EASTLINK-HSI",
+  "description": "EastLink",
   "subnets": {
     "ipv4": [
       "24.89.192.0/18",

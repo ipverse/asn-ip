@@ -1,6 +1,7 @@
 {
   "asn": 20705,
   "handle": "HSBC-UK",
+  "description": "HSBC Bank plc",
   "subnets": {
     "ipv4": [
       "91.214.4.0/22",

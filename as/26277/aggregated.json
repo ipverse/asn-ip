@@ -1,6 +1,7 @@
 {
   "asn": 26277,
   "handle": "PREMIANET",
+  "description": "Las Vegas NV Datacenter",
   "subnets": {
     "ipv4": [
       "64.235.33.0/24",

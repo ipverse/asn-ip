@@ -1,6 +1,7 @@
 {
   "asn": 40370,
   "handle": "BCDTRAVELINET1",
+  "description": "BCD Travel",
   "subnets": {
     "ipv4": [
       "65.161.30.0/24",

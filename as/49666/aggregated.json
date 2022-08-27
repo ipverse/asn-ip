@@ -1,6 +1,7 @@
 {
   "asn": 49666,
   "handle": "TIC-GW",
+  "description": "Telecommunication Infrastructure Company",
   "subnets": {
     "ipv4": [
       "2.188.0.0/23",

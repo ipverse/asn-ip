@@ -1,6 +1,7 @@
 {
   "asn": 16719,
   "handle": "NASD",
+  "description": "Financial Industry Regulatory Authority, Inc.",
   "subnets": {
     "ipv4": [
       "75.98.60.0/23",

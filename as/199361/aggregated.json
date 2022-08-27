@@ -1,6 +1,7 @@
 {
   "asn": 199361,
   "handle": "MIXPLAT-PROCESSING-LLC",
+  "description": "LLC Mixplat Processing",
   "subnets": {
     "ipv4": [
       "185.20.76.0/24",

@@ -1,7 +1,7 @@
 {
   "asn": 133246,
   "handle": "SOFTWORLD-IN",
-  "description": "",
+  "description": "softnet network",
   "subnets": {
     "ipv4": [
       "43.240.8.0/22",

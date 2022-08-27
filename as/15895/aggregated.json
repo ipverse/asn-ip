@@ -1,6 +1,7 @@
 {
   "asn": 15895,
   "handle": "KSNET",
+  "description": "Kyivstar PJSC",
   "subnets": {
     "ipv4": [
       "5.248.0.0/16",

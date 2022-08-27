@@ -1,6 +1,7 @@
 {
   "asn": 61081,
   "handle": "DEFAULTROUTE",
+  "description": "DEFAULTROUTE LIMITED",
   "subnets": {
     "ipv4": [
       "185.24.72.0/22"

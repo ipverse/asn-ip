@@ -1,6 +1,7 @@
 {
   "asn": 22223,
   "handle": "MVTV-AS1",
+  "description": "MVTV Wireless",
   "subnets": {
     "ipv4": [
       "139.60.104.0/22",

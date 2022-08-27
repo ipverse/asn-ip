@@ -1,6 +1,7 @@
 {
   "asn": 6122,
   "handle": "ICN",
+  "description": "Iowa Communications Network",
   "subnets": {
     "ipv4": [
       "147.92.0.0/23",

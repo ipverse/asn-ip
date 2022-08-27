@@ -1,6 +1,7 @@
 {
   "asn": 34858,
   "handle": "TELEZON",
+  "description": "Telezon-Seti LCC",
   "subnets": {
     "ipv4": [
       "91.195.100.0/23",

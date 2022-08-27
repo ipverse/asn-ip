@@ -1,6 +1,7 @@
 {
   "asn": 40809,
   "handle": "PRIMEXM-NETWORKS",
+  "description": "PrimeXM Networks",
   "subnets": {
     "ipv4": [
       "162.255.144.0/22"

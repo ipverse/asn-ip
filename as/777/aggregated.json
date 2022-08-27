@@ -1,6 +1,7 @@
 {
   "asn": 777,
-  "description": "",
+  "handle": "CEA-SACLAY",
+  "description": "CEA-Saclay",
   "subnets": {
     "ipv4": [
       "132.165.0.0/16",

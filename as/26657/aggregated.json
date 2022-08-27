@@ -1,6 +1,7 @@
 {
   "asn": 26657,
   "handle": "NEUROPACE-CORPORATE-SITE",
+  "description": "Neuropace",
   "subnets": {
     "ipv4": [
       "209.37.101.0/24"

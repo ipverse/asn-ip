@@ -1,6 +1,7 @@
 {
   "asn": 30425,
   "handle": "UTA-1",
+  "description": "Utah Transit Authority",
   "subnets": {
     "ipv4": [
       "204.126.146.0/23"

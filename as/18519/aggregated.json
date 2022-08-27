@@ -1,6 +1,7 @@
 {
   "asn": 18519,
   "handle": "MEDIAPOLIS-TELEPHONE-COMPANY",
+  "description": "MTC Technologies",
   "subnets": {
     "ipv4": [
       "172.81.16.0/22"

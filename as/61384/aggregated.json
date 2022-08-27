@@ -1,6 +1,7 @@
 {
   "asn": 61384,
   "handle": "NEON-ISP",
+  "description": "TK NEON Ltd.",
   "subnets": {
     "ipv4": [
       "93.170.132.0/23",

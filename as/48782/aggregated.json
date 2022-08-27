@@ -1,6 +1,7 @@
 {
   "asn": 48782,
   "handle": "FRONTEX",
+  "description": "European Border and Coast Guard Agency - Frontex",
   "subnets": {
     "ipv4": [
       "91.212.30.0/24"

@@ -1,6 +1,7 @@
 {
   "asn": 24291,
-  "description": "",
+  "handle": "RESERVED",
+  "description": "APNIC ASN block",
   "subnets": {
     "ipv4": [
       "150.56.0.0/24",

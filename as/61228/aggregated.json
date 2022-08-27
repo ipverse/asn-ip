@@ -1,6 +1,7 @@
 {
   "asn": 61228,
   "handle": "BGP-NETWORKS-LLC",
+  "description": "BGP NETWORKS LLC",
   "subnets": {
     "ipv4": [
       "103.166.247.0/24"

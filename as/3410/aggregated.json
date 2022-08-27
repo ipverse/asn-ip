@@ -1,6 +1,7 @@
 {
   "asn": 3410,
   "handle": "CORNELLCOLLEGE",
+  "description": "Cornell College",
   "subnets": {
     "ipv4": [
       "144.62.0.0/17"

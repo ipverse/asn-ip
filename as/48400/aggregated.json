@@ -1,6 +1,7 @@
 {
   "asn": 48400,
   "handle": "TRUNK",
+  "description": "MTS PJSC",
   "subnets": {
     "ipv4": [
       "62.220.48.0/21",

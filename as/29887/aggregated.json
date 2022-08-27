@@ -1,6 +1,7 @@
 {
   "asn": 29887,
   "handle": "IMNISP",
+  "description": "IMNisp",
   "subnets": {
     "ipv4": [
       "170.52.42.0/23"

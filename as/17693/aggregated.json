@@ -1,6 +1,7 @@
 {
   "asn": 17693,
-  "description": "",
+  "handle": "NEKONET-INTERNET",
+  "description": "NEKONET Internet",
   "subnets": {
     "ipv4": [
       "103.2.24.0/22",

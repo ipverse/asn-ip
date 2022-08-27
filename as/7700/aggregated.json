@@ -1,7 +1,7 @@
 {
   "asn": 7700,
   "handle": "SINGTEL-DVBIP-AP",
-  "description": "",
+  "description": "Singapore Telecommunications (SINGTEL Internet Exchange)",
   "subnets": {
     "ipv4": [
       "103.30.32.0/22",

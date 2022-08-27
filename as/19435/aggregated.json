@@ -1,6 +1,7 @@
 {
   "asn": 19435,
   "handle": "DNET-ISP",
+  "description": "Dnet Internet Services",
   "subnets": {
     "ipv4": [
       "64.85.176.0/23",

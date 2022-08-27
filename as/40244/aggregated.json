@@ -1,6 +1,7 @@
 {
   "asn": 40244,
   "handle": "TURNKEY-INTERNET",
+  "description": "Turnkey Internet Inc.",
   "subnets": {
     "ipv4": [
       "64.128.116.0/23",

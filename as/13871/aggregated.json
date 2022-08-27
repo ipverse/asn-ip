@@ -1,6 +1,7 @@
 {
   "asn": 13871,
   "handle": "TELEBYTE-NW",
+  "description": "Telebyte NW",
   "subnets": {
     "ipv4": [
       "204.87.157.0/24",

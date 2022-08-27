@@ -1,6 +1,7 @@
 {
   "asn": 57419,
   "handle": "LLCFLEX-TR",
+  "description": "LLC Flex",
   "subnets": {
     "ipv4": [
       "185.207.3.0/24"

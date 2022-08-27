@@ -1,6 +1,7 @@
 {
   "asn": 398866,
   "handle": "INTERBANK-01",
+  "description": "InterBank",
   "subnets": {
     "ipv4": [
       "141.193.143.0/24",

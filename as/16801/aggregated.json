@@ -1,6 +1,7 @@
 {
   "asn": 16801,
   "handle": "ET-NET",
+  "description": "Energy Transfer LP",
   "subnets": {
     "ipv4": [
       "63.105.50.0/23",

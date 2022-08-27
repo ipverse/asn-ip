@@ -1,6 +1,7 @@
 {
   "asn": 29822,
   "handle": "ARCHER1",
+  "description": "Archer and Greiner",
   "subnets": {
     "ipv4": [
       "65.207.105.0/24",

@@ -1,6 +1,7 @@
 {
   "asn": 394333,
   "handle": "TRANSATEL-US",
+  "description": "TRANSATEL",
   "subnets": {
     "ipv4": [
       "204.69.235.0/24"

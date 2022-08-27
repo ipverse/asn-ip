@@ -1,6 +1,7 @@
 {
   "asn": 26830,
   "handle": "OPERS",
+  "description": "OPERS",
   "subnets": {
     "ipv4": [
       "204.126.253.0/24"

@@ -1,6 +1,7 @@
 {
   "asn": 51966,
   "handle": "RESTENA-ANYCAST",
+  "description": "Fondation RESTENA",
   "subnets": {
     "ipv4": [
       "194.0.23.0/24"

@@ -1,6 +1,7 @@
 {
   "asn": 210600,
   "handle": "SELIGDAR",
+  "description": "PJSC Seligdar",
   "subnets": {
     "ipv4": [
       "213.135.74.0/24"

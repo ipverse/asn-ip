@@ -1,6 +1,7 @@
 {
   "asn": 8,
   "handle": "RICE",
+  "description": "Rice University",
   "subnets": {
     "ipv4": [
       "128.42.0.0/16",

@@ -1,6 +1,7 @@
 {
   "asn": 8317,
   "handle": "NETACCESS",
+  "description": "Netaccess SRL",
   "subnets": {
     "ipv4": [
       "194.88.238.0/23",

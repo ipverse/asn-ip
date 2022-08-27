@@ -1,6 +1,7 @@
 {
   "asn": 6618,
   "handle": "JOHNS-122",
+  "description": "Johns Hopkins HealthCare",
   "subnets": {
     "ipv4": [
       "12.181.141.0/24"

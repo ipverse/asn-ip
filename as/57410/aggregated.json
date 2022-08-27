@@ -1,6 +1,7 @@
 {
   "asn": 57410,
   "handle": "M-BECON",
+  "description": "ZAO Mordovsky Bekon",
   "subnets": {
     "ipv4": [
       "194.116.169.0/24"

@@ -1,6 +1,7 @@
 {
   "asn": 23079,
   "handle": "ARVEST-AS1",
+  "description": "Arvest Bank Operations",
   "subnets": {
     "ipv4": [
       "63.99.28.0/24",

@@ -1,6 +1,7 @@
 {
   "asn": 54636,
   "handle": "DBIO",
+  "description": "Rackspace Hosting",
   "subnets": {
     "ipv4": [
       "199.182.60.0/23"

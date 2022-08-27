@@ -1,6 +1,7 @@
 {
   "asn": 63459,
   "handle": "INSTINET-LSET",
+  "description": "Instinet",
   "subnets": {
     "ipv4": [
       "170.16.180.0/22"

@@ -1,6 +1,7 @@
 {
   "asn": 46844,
   "handle": "ST-BGP",
+  "description": "Sharktech",
   "subnets": {
     "ipv4": [
       "37.9.44.0/22",

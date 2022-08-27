@@ -1,6 +1,7 @@
 {
   "asn": 206616,
   "handle": "CH-WWCOM-1",
+  "description": "wwcom AG",
   "subnets": {
     "ipv4": [
       "185.149.92.0/22",

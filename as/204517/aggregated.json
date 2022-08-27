@@ -1,6 +1,7 @@
 {
   "asn": 204517,
   "handle": "PVCP",
+  "description": "GIE PVCP Services",
   "subnets": {
     "ipv4": [
       "185.242.138.0/24"

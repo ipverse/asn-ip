@@ -1,6 +1,7 @@
 {
   "asn": 15765,
   "handle": "MIMER",
+  "description": "Tafjord Connect AS",
   "subnets": {
     "ipv4": [
       "45.15.108.0/22",

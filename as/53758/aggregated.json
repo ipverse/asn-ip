@@ -1,6 +1,7 @@
 {
   "asn": 53758,
   "handle": "INVALID-NETWORK",
+  "description": "Invalid Network",
   "subnets": {
     "ipv4": [
       "23.128.96.0/24"

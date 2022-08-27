@@ -1,6 +1,7 @@
 {
   "asn": 31633,
   "handle": "LANTELECOM",
+  "description": "PP Lan-Telecom",
   "subnets": {
     "ipv4": [
       "91.192.128.0/22"

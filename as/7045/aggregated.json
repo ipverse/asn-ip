@@ -1,6 +1,7 @@
 {
   "asn": 7045,
   "handle": "WEATHER",
+  "description": "THE WEATHER CHANNEL, LLC",
   "subnets": {
     "ipv4": [
       "65.202.103.0/24",

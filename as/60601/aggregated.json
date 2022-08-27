@@ -1,6 +1,7 @@
 {
   "asn": 60601,
-  "handle": "ORG-HS66-RIPE",
+  "handle": "ASSOCIATION-NEUTRAL-NETWORK",
+  "description": "Association Neutral Network Lab",
   "subnets": {
     "ipv4": [
       "185.11.216.0/24"

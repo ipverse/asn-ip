@@ -1,7 +1,7 @@
 {
   "asn": 28000,
-  "handle": "AIL",
-  "description": "",
+  "handle": "RESERVED",
+  "description": "LACNIC - Latin American and Caribbean IP address",
   "subnets": {
     "ipv4": [
       "168.121.184.0/22",

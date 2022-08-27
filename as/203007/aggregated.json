@@ -1,6 +1,7 @@
 {
   "asn": 203007,
   "handle": "ERAS",
+  "description": "ERAS SAS",
   "subnets": {
     "ipv4": [
       "185.147.240.0/22"

@@ -1,6 +1,7 @@
 {
   "asn": 53764,
   "handle": "DMWIRELESS",
+  "description": "DM Wireless LLC",
   "subnets": {
     "ipv4": [
       "52.128.24.0/22",

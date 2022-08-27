@@ -1,6 +1,7 @@
 {
   "asn": 23400,
   "handle": "IAPC",
+  "description": "Internet Access Point Corporation",
   "subnets": {
     "ipv4": [
       "63.247.96.0/20"

@@ -1,7 +1,7 @@
 {
   "asn": 133119,
   "handle": "UNICOM-CN",
-  "description": "",
+  "description": "China Unicom IP network",
   "subnets": {
     "ipv4": [
       "116.181.0.0/16",

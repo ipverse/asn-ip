@@ -1,6 +1,7 @@
 {
   "asn": 399012,
   "handle": "DART",
+  "description": "Des Moines Regional Transit Authority (DART)",
   "subnets": {
     "ipv4": [
       "144.86.180.0/23"

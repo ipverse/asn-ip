@@ -1,6 +1,7 @@
 {
   "asn": 16791,
   "handle": "DIGITAL-AGENT",
+  "description": "Digital Agent",
   "subnets": {
     "ipv4": [
       "63.73.10.0/23",

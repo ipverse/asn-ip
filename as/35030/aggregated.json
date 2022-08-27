@@ -1,6 +1,7 @@
 {
   "asn": 35030,
   "handle": "COMFONE-GRX",
+  "description": "Comfone AG",
   "subnets": {
     "ipv4": [
       "77.32.227.0/24",

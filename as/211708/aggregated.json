@@ -1,6 +1,7 @@
 {
   "asn": 211708,
   "handle": "MRTS-TERMINAL",
+  "description": "LLC MRTS Terminal",
   "subnets": {
     "ipv4": [
       "212.22.88.0/24"

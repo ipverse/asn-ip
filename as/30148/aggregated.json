@@ -1,6 +1,7 @@
 {
   "asn": 30148,
   "handle": "SUCURI-SEC",
+  "description": "Sucuri",
   "subnets": {
     "ipv4": [
       "66.248.200.0/22",

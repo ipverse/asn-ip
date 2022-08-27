@@ -1,6 +1,7 @@
 {
   "asn": 53294,
   "handle": "FOX-NEWS-CHANNEL-NETWORK",
+  "description": "Fox News Channel",
   "subnets": {
     "ipv4": [
       "74.120.97.0/24",

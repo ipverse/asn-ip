@@ -1,6 +1,7 @@
 {
   "asn": 50949,
   "handle": "AGRONET-RU",
+  "description": "Agronet LLC",
   "subnets": {
     "ipv4": [
       "92.51.4.0/23",

@@ -1,6 +1,7 @@
 {
   "asn": 32760,
   "handle": "AURIS1",
+  "description": "Auris, LLC.",
   "subnets": {
     "ipv4": [
       "8.10.50.0/24",

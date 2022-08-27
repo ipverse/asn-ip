@@ -1,6 +1,7 @@
 {
   "asn": 29985,
   "handle": "AMN-HEALTHCARE",
+  "description": "AMN Healthcare",
   "subnets": {
     "ipv4": [
       "66.193.206.0/23",

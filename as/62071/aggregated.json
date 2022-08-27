@@ -1,6 +1,7 @@
 {
   "asn": 62071,
   "handle": "DATAHOST",
+  "description": "Datahost SRL",
   "subnets": {
     "ipv4": [
       "185.212.8.0/24"

@@ -1,6 +1,7 @@
 {
   "asn": 16705,
   "handle": "LOGIC-CAYMAN-TELECAYMAN",
+  "description": "TeleCayman",
   "subnets": {
     "ipv4": [
       "65.171.98.0/24",

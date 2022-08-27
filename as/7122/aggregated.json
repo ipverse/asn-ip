@@ -1,6 +1,7 @@
 {
   "asn": 7122,
   "handle": "MTS",
+  "description": "Bell Canada",
   "subnets": {
     "ipv4": [
       "64.4.64.0/19",

@@ -1,6 +1,7 @@
 {
   "asn": 44064,
   "handle": "CHRONOSAT",
+  "description": "ChronoSat GmbH",
   "subnets": {
     "ipv4": [
       "91.199.14.0/24"

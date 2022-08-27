@@ -1,6 +1,7 @@
 {
   "asn": 12389,
   "handle": "ROSTELECOM",
+  "description": "PJSC Rostelecom",
   "subnets": {
     "ipv4": [
       "2.16.20.0/23",

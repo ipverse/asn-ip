@@ -1,6 +1,7 @@
 {
   "asn": 201774,
   "handle": "FINSERVICE",
+  "description": "JSC Bank Finservice",
   "subnets": {
     "ipv4": [
       "178.170.228.0/24"

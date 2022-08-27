@@ -1,6 +1,7 @@
 {
   "asn": 198631,
   "handle": "REGIONH",
+  "description": "Region Hovedstaden",
   "subnets": {
     "ipv4": [
       "128.0.72.0/22",

@@ -1,6 +1,7 @@
 {
   "asn": 398847,
   "handle": "GTE-FINANCIAL01",
+  "description": "GTE Financial",
   "subnets": {
     "ipv4": [
       "24.227.90.0/24",

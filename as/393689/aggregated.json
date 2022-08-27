@@ -1,6 +1,7 @@
 {
   "asn": 393689,
   "handle": "NLM-NCCS",
+  "description": "National Library of Medicine",
   "subnets": {
     "ipv4": [
       "165.112.6.0/23",

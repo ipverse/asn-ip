@@ -1,6 +1,7 @@
 {
   "asn": 26224,
-  "handle": "INTER-1189",
+  "handle": "INCOMM",
+  "description": "InComm",
   "subnets": {
     "ipv4": [
       "66.147.172.0/22",

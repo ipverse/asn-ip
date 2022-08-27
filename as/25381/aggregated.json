@@ -1,6 +1,7 @@
 {
   "asn": 25381,
   "handle": "SVT",
+  "description": "LLC Svyaztranzit",
   "subnets": {
     "ipv4": [
       "85.234.112.0/23",
