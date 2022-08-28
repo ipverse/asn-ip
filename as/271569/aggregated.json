@@ -3,7 +3,9 @@
   "handle": "EDA-INFO",
   "description": "EDA INFO",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "179.63.28.0/22"
+    ],
     "ipv6": [
       "2804:7d90::/32"
     ]

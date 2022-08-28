@@ -3,7 +3,9 @@
   "handle": "RIO-GRANDE-DO",
   "description": "RIO GRANDE DO SUL DEFENSORIA PUBLICA DO EST. DO RS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "181.232.254.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "IDNIC-HIGO-ID",
   "description": "PT Higo Fitur Indonesia",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.141.230.0/23"
+    ],
     "ipv6": []
   }
 }

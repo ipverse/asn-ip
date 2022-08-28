@@ -3,7 +3,9 @@
   "handle": "ACESSY-FIBRA-LTDA",
   "description": "ACESSY FIBRA LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.224.204.0/22"
+    ],
     "ipv6": [
       "2804:44fc::/32"
     ]

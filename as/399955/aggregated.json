@@ -3,7 +3,10 @@
   "handle": "CLOUDDATA-NETWORKS-1",
   "description": "CLOUDDATA NETWORKS INC.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.195.155.0/24",
+      "154.91.159.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -1,0 +1,11 @@
+{
+  "asn": 149010,
+  "handle": "ASIA1-AP",
+  "description": "Asia Server Host Pte. Ltd.",
+  "subnets": {
+    "ipv4": [
+      "103.148.243.0/24"
+    ],
+    "ipv6": []
+  }
+}

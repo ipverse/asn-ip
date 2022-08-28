@@ -4,7 +4,8 @@
   "description": "PLANETCLICK TELECOMUNICACOES LTDA",
   "subnets": {
     "ipv4": [
-      "160.20.204.0/22"
+      "160.20.205.0/24",
+      "160.20.206.0/23"
     ],
     "ipv6": []
   }
