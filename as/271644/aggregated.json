@@ -3,7 +3,9 @@
   "handle": "INFOVALE-INFORMATICA-LTDA",
   "description": "INFOVALE INFORMATICA LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "177.129.220.0/22"
+    ],
     "ipv6": [
       "2804:7ebc::/32"
     ]

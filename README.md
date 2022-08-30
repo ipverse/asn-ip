@@ -23,9 +23,9 @@ This is a JSON example for AS1234:
 }
 ```
 
-For a list of autonomous systems with their AS number (ASN) and description see [ipverse-asn-info](https://github.com/ipverse/asn-info)
+This repository is updated daily by pulling all routing announcements from a BGP routing table and merging it with the list of known autonomous systems.
 
-This repository is updated daily.
+For a list of autonomous systems with their AS number (ASN) and description see [ipverse-asn-info](https://github.com/ipverse/asn-info)
 
 ## Use cases
 - Firewalling, e.g. to ban all IP addresses from that notorious, Spam-friendly network provider

@@ -3,7 +3,10 @@
   "handle": "HENDALL",
   "description": "Hendall inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.70.7.0/24",
+      "38.100.5.0/24"
+    ],
     "ipv6": []
   }
 }

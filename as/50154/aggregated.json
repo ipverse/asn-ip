@@ -3,7 +3,10 @@
   "handle": "ION-NOKIA",
   "description": "Nokia Oyj",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "135.92.192.0/24",
+      "135.103.192.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "CHR-TELECOM",
   "description": "CHR TELECOM",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "138.0.124.0/22"
+    ],
     "ipv6": []
   }
 }

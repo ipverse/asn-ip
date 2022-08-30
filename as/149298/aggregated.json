@@ -3,7 +3,9 @@
   "handle": "UDYAN-AP",
   "description": "EIRTEL Services",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "116.204.152.0/24"
+    ],
     "ipv6": []
   }
 }

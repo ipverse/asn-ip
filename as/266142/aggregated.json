@@ -3,7 +3,9 @@
   "handle": "BAHIADADOS-TELECOM-LTDA",
   "description": "Bahiadados Telecom Ltda.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "186.65.104.0/22"
+    ],
     "ipv6": [
       "2804:3b54::/32"
     ]

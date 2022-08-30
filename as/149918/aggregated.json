@@ -3,7 +3,9 @@
   "handle": "NAPINFO-ID",
   "description": "PT. NAP Info Lintas Nusa",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.80.94.0/23"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "IN-THE-SWIM",
   "description": "In The Swim",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "74.9.174.0/24"
+    ],
     "ipv6": []
   }
 }

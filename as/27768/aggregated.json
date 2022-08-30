@@ -4,6 +4,8 @@
   "description": "COMPAIA PARAGUAYA DE COMUNICACIONES S.A. (COPACO S.A.)",
   "subnets": {
     "ipv4": [
+      "177.250.0.0/15",
+      "190.23.0.0/16",
       "201.217.0.0/18",
       "216.184.116.0/22"
     ],

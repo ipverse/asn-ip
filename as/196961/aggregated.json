@@ -4,6 +4,7 @@
   "description": "Teleport LLC",
   "subnets": {
     "ipv4": [
+      "31.170.250.0/24",
       "109.205.160.0/21"
     ],
     "ipv6": []

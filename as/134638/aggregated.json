@@ -3,7 +3,11 @@
   "handle": "TM2-ID",
   "description": "PT.Tangara Mitrakom",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "114.134.65.0/24",
+      "114.134.69.0/24",
+      "114.134.70.0/23"
+    ],
     "ipv6": []
   }
 }

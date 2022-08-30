@@ -3,7 +3,9 @@
   "handle": "CONECT-TELECOM-LTDA-ME",
   "description": "CONECT TELECOM LTDA - ME",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.163.112.0/22"
+    ],
     "ipv6": [
       "2804:5350::/46",
       "2804:5350:4::/48"

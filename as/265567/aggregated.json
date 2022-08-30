@@ -3,10 +3,7 @@
   "handle": "KROLIK-SOLUTIONS-SA-DE-CV",
   "description": "Krolik Solutions S.A de C.V.",
   "subnets": {
-    "ipv4": [
-      "45.169.236.0/23",
-      "45.169.238.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

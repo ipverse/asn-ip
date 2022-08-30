@@ -3,11 +3,7 @@
   "handle": "CHAR-CO-FL-SB",
   "description": "The School Board of Charlotte County, FL",
   "subnets": {
-    "ipv4": [
-      "204.63.240.0/21",
-      "204.86.168.0/21",
-      "204.86.176.0/21"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

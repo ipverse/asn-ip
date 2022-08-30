@@ -3,7 +3,9 @@
   "handle": "EPIX-POLMIX",
   "description": "Stowarzyszenie e-Poludnie",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "94.246.185.0/24"
+    ],
     "ipv6": []
   }
 }

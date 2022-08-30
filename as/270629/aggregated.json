@@ -3,7 +3,9 @@
   "handle": "SERGIO-L-CARVALHO",
   "description": "Sergio L Carvalho Servios de Com Eireli",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "177.70.252.0/22"
+    ],
     "ipv6": [
       "2804:6ef4::/32"
     ]

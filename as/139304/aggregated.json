@@ -3,7 +3,9 @@
   "handle": "NSW-BUSINESS-CHAMBER-AP",
   "description": "NSW Business Chamber Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.140.253.0/24"
+    ],
     "ipv6": []
   }
 }

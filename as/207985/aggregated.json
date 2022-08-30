@@ -3,7 +3,9 @@
   "handle": "OSUAN",
   "description": "OSUAN S.r.l.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.34.196.0/23"
+    ],
     "ipv6": []
   }
 }

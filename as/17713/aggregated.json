@@ -3,7 +3,9 @@
   "handle": "NSYSU-TW",
   "description": "National Sun Yat-sen University",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "140.117.0.0/16"
+    ],
     "ipv6": []
   }
 }

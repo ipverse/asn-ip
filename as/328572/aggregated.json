@@ -3,7 +3,9 @@
   "handle": "DASH-FIBRE",
   "description": "Dash Fibre (Pty) Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "102.23.124.0/22"
+    ],
     "ipv6": []
   }
 }

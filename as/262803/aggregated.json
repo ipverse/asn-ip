@@ -4,8 +4,7 @@
   "description": "NETULTRA PROVEDOR DE INTERNET",
   "subnets": {
     "ipv4": [
-      "186.250.16.0/22",
-      "186.250.22.0/23"
+      "186.250.16.0/21"
     ],
     "ipv6": []
   }

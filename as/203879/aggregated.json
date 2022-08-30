@@ -3,7 +3,9 @@
   "handle": "ZAPADBANKA",
   "description": "Zapad banka akcionarsko drustvo - Podgorica",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "81.18.48.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "EE-BURFA-TECH",
   "description": "Burfa Tech OU",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.148.76.0/22"
+    ],
     "ipv6": []
   }
 }

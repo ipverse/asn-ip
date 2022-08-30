@@ -3,7 +3,10 @@
   "handle": "CDCL",
   "description": "CloudIDC Digital Company Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.11.78.0/24",
+      "144.48.35.0/24"
+    ],
     "ipv6": []
   }
 }

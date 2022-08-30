@@ -3,7 +3,9 @@
   "handle": "SOLITECHLTD-AP",
   "description": "Solitech Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.166.98.0/23"
+    ],
     "ipv6": []
   }
 }

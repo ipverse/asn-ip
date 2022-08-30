@@ -4,9 +4,7 @@
   "description": "Telecomunicaciones de America S.A. de C.V.",
   "subnets": {
     "ipv4": [
-      "168.243.48.0/22",
-      "168.243.52.0/24",
-      "168.243.54.0/23"
+      "168.243.48.0/21"
     ],
     "ipv6": []
   }

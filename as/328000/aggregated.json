@@ -3,9 +3,7 @@
   "handle": "BANQUE-COMMERCIALE-DU-CONGO",
   "description": "Banque Commerciale Du Congo- B.C.D.C",
   "subnets": {
-    "ipv4": [
-      "196.13.110.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

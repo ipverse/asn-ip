@@ -3,7 +3,9 @@
   "handle": "CMNET-PROVEDOR-DE",
   "description": "CMNET PROVEDOR DE INTERNET EIRELLI",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.163.96.0/22"
+    ],
     "ipv6": []
   }
 }

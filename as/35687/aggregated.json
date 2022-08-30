@@ -3,9 +3,7 @@
   "handle": "GARNESDATA",
   "description": "Garnes Data AS",
   "subnets": {
-    "ipv4": [
-      "194.247.48.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

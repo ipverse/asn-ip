@@ -3,7 +3,9 @@
   "handle": "DALINK-TELECOM-LTDA",
   "description": "DaLink Telecom LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "209.14.6.0/24"
+    ],
     "ipv6": [
       "2804:8854::/32"
     ]

@@ -3,7 +3,9 @@
   "handle": "MISAKA-UK",
   "description": "Misaka Network, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.142.244.0/24"
+    ],
     "ipv6": [
       "2a0f:3b03::/32"
     ]

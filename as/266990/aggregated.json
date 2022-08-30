@@ -3,7 +3,9 @@
   "handle": "SOFTX-CONECTIVIDADE",
   "description": "SoftX Conectividade",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.226.84.0/22"
+    ],
     "ipv6": []
   }
 }

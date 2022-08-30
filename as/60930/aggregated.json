@@ -3,9 +3,7 @@
   "handle": "INTEMMSK",
   "description": "Intem LLC",
   "subnets": {
-    "ipv4": [
-      "45.9.20.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

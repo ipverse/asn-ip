@@ -3,7 +3,9 @@
   "handle": "IDNIC-GGI-ID",
   "description": "PT Global Green Indonesia",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.189.64.0/23"
+    ],
     "ipv6": []
   }
 }

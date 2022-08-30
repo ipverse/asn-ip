@@ -4,6 +4,7 @@
   "description": "Harvard University",
   "subnets": {
     "ipv4": [
+      "18.2.128.0/19",
       "18.2.192.0/19"
     ],
     "ipv6": [

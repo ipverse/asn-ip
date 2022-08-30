@@ -3,9 +3,7 @@
   "handle": "BAKER-AUBURNHILLS",
   "description": "Baker College",
   "subnets": {
-    "ipv4": [
-      "158.80.24.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

@@ -3,9 +3,7 @@
   "handle": "GIRO-TELECOMUNICACOES-DO",
   "description": "GIRO TELECOMUNICACOES DO BRASIL LTDA",
   "subnets": {
-    "ipv4": [
-      "166.0.148.0/23"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2804:83a8::/32"
     ]
