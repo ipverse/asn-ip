@@ -3,7 +3,9 @@
   "handle": "MAX-FIBRA-MAIS-VELOZ-LTDA",
   "description": "MAX FIBRA MAIS VELOZ LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "201.7.164.0/24"
+    ],
     "ipv6": [
       "2804:8610::/32"
     ]

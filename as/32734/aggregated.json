@@ -3,10 +3,7 @@
   "handle": "2CONOC",
   "description": "2checkout.com",
   "subnets": {
-    "ipv4": [
-      "64.128.115.0/24",
-      "162.221.60.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

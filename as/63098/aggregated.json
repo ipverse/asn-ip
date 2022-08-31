@@ -4,8 +4,6 @@
   "description": "FOX CORPORATION",
   "subnets": {
     "ipv4": [
-      "8.20.48.0/24",
-      "8.24.192.0/24",
       "192.34.88.0/23"
     ],
     "ipv6": []

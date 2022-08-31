@@ -1,0 +1,13 @@
+{
+  "asn": 400511,
+  "handle": "CWAVEFIBER",
+  "description": "Clearwave Communications",
+  "subnets": {
+    "ipv4": [
+      "134.22.0.0/17"
+    ],
+    "ipv6": [
+      "2606:7280::/32"
+    ]
+  }
+}

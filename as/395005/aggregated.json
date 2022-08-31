@@ -3,9 +3,7 @@
   "handle": "CITY-OF-EASTON",
   "description": "City of Easton",
   "subnets": {
-    "ipv4": [
-      "216.164.193.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

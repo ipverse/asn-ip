@@ -2,7 +2,7 @@
 
 IPv4 and IPv6 networks in CIDR notation (e.g. 100.2.30.0/22) organized by announcing autonomous systems (AS).
 All networks are aggregated to save space.
-The data is available in both **TXT** Plaintext and **JSON** format.  
+The data is available in both **TXT** plaintext and **JSON** format.  
 
 This is a JSON example for AS1234:
 ```
@@ -23,9 +23,9 @@ This is a JSON example for AS1234:
 }
 ```
 
-This repository is updated daily by pulling all routing announcements from a BGP routing table and merging it with the list of known autonomous systems.
+This repository is updated daily by pulling all route prefix announcements from the BGP routing table and merging it with a list of known autonomous systems.
 
-For a list of autonomous systems with their AS number (ASN) and description see [ipverse-asn-info](https://github.com/ipverse/asn-info)
+For the list of autonomous systems with their AS number (ASN) and description see [ipverse-asn-info](https://github.com/ipverse/asn-info)
 
 ## Use cases
 - Firewalling, e.g. to ban all IP addresses from that notorious, Spam-friendly network provider

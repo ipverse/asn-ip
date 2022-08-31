@@ -3,9 +3,7 @@
   "handle": "ICONNECT-NET-AP",
   "description": "Choice Phone LLC",
   "subnets": {
-    "ipv4": [
-      "49.128.107.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

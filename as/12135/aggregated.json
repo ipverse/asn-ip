@@ -3,7 +3,9 @@
   "handle": "PROINTERNET-DO-BRASIL-LTDA",
   "description": "Prointernet do Brasil Ltda",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "200.194.176.0/20"
+    ],
     "ipv6": []
   }
 }

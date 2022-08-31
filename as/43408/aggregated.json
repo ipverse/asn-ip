@@ -4,7 +4,9 @@
   "description": "Orange Cyberdefense UK Limited",
   "subnets": {
     "ipv4": [
-      "87.238.200.0/21"
+      "87.238.200.0/22",
+      "87.238.204.0/24",
+      "87.238.206.0/23"
     ],
     "ipv6": [
       "2a00:1cd0:1::/48",

@@ -1,0 +1,13 @@
+{
+  "asn": 149123,
+  "handle": "ITCLOUD-VN",
+  "description": "VU GIA TECHNOLOGY INVESTMENT JOINT STOCK COMPANY",
+  "subnets": {
+    "ipv4": [
+      "103.146.122.0/23"
+    ],
+    "ipv6": [
+      "2400:a0e0::/48"
+    ]
+  }
+}

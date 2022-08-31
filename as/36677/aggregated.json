@@ -3,9 +3,7 @@
   "handle": "KATUN-1",
   "description": "Katun Corporation",
   "subnets": {
-    "ipv4": [
-      "206.221.168.0/22"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

@@ -3,12 +3,7 @@
   "handle": "COSTA-ESMERALDA-NET-LTDA-ME",
   "description": "Costa Esmeralda Net Ltda Me",
   "subnets": {
-    "ipv4": [
-      "170.78.212.0/22",
-      "177.74.240.0/20"
-    ],
-    "ipv6": [
-      "2804:10e0::/32"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

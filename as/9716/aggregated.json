@@ -3,7 +3,9 @@
   "handle": "FOXTEL-AP",
   "description": "Foxtel Management Pty Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "203.18.236.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,9 +3,7 @@
   "handle": "PATH-NETWORK",
   "description": "Path Network, Inc.",
   "subnets": {
-    "ipv4": [
-      "205.178.176.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

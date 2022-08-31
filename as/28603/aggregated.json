@@ -4,7 +4,10 @@
   "description": "STIHL Ferramentas Motorizadas LTDA",
   "subnets": {
     "ipv4": [
-      "201.46.0.0/20"
+      "201.46.0.0/21",
+      "201.46.8.0/22",
+      "201.46.13.0/24",
+      "201.46.14.0/23"
     ],
     "ipv6": []
   }

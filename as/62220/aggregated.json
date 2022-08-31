@@ -1,0 +1,11 @@
+{
+  "asn": 62220,
+  "handle": "LVRTC-VARAM",
+  "description": "State Regional Development Agency",
+  "subnets": {
+    "ipv4": [
+      "195.244.158.0/24"
+    ],
+    "ipv6": []
+  }
+}

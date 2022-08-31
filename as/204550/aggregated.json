@@ -4,6 +4,8 @@
   "description": "Andritz AG",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a05:6740:40c4::/48"
+    ]
   }
 }
