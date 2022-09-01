@@ -3,10 +3,7 @@
   "handle": "PRIENAI-UNIVERSITY-OF-APPLIED-SCIENCES",
   "description": "trafficforce, UAB",
   "subnets": {
-    "ipv4": [
-      "5.42.208.0/24",
-      "185.19.200.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "FIBERSOFT-IN",
   "description": "Fibersoft Infranet Private Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.189.244.0/24"
+    ],
     "ipv6": []
   }
 }

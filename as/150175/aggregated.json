@@ -1,0 +1,11 @@
+{
+  "asn": 150175,
+  "handle": "KOTBARIONLINE-AP",
+  "description": "Kotbari Online",
+  "subnets": {
+    "ipv4": [
+      "103.205.36.0/24"
+    ],
+    "ipv6": []
+  }
+}

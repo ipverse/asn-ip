@@ -4,8 +4,7 @@
   "description": "Netcom Internet Service",
   "subnets": {
     "ipv4": [
-      "103.159.72.0/23",
-      "114.130.68.0/24"
+      "103.159.72.0/23"
     ],
     "ipv6": []
   }

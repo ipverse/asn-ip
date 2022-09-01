@@ -3,12 +3,7 @@
   "handle": "LUX-RU-MOSCOW-DC",
   "description": "Luxoft Professional Romania S.R.L.",
   "subnets": {
-    "ipv4": [
-      "84.47.167.0/24",
-      "85.91.107.0/24",
-      "85.91.123.0/24",
-      "213.208.171.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

@@ -3,9 +3,7 @@
   "handle": "FULLNET-SOLUTIONS-SAS",
   "description": "FULLNET SOLUTIONS S.A.S.",
   "subnets": {
-    "ipv4": [
-      "200.106.184.0/22"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

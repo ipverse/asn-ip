@@ -3,11 +3,7 @@
   "handle": "WASAT-TELECOM-LTDA-ME",
   "description": "Wasat Telecom Ltda - Me",
   "subnets": {
-    "ipv4": [
-      "164.163.140.0/22"
-    ],
-    "ipv6": [
-      "2804:407c::/32"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

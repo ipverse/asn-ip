@@ -3,7 +3,11 @@
   "handle": "VORGUVARA",
   "description": "Oixio AS",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "185.45.140.0/22"
+    ],
+    "ipv6": [
+      "2a01:8020::/32"
+    ]
   }
 }

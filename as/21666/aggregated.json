@@ -1,5 +1,7 @@
 {
   "asn": 21666,
+  "handle": "OSF-ASN-01",
+  "description": "OSF Healthcare System",
   "subnets": {
     "ipv4": [
       "38.65.207.0/24",

@@ -3,14 +3,7 @@
   "handle": "CEGETEL",
   "description": "Societe Francaise Du Radiotelephone - SFR SA",
   "subnets": {
-    "ipv4": [
-      "78.112.0.0/12",
-      "84.4.0.0/14",
-      "88.136.0.0/14",
-      "88.140.0.0/15",
-      "88.142.0.0/16",
-      "195.115.0.0/16"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

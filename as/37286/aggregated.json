@@ -4,8 +4,7 @@
   "description": "Nigeria ICT Forum of Partnership Institutions",
   "subnets": {
     "ipv4": [
-      "41.76.248.0/21",
-      "102.220.96.0/22"
+      "41.76.248.0/21"
     ],
     "ipv6": [
       "2c0f:ff20::/32"

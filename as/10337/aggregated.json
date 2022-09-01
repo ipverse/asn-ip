@@ -3,10 +3,7 @@
   "handle": "IBMAS400DIV",
   "description": "IBM AS/400 Division",
   "subnets": {
-    "ipv4": [
-      "129.42.161.0/24",
-      "129.42.162.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

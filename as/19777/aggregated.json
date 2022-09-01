@@ -3,9 +3,7 @@
   "handle": "TAMARAC-SEATTLE",
   "description": "ENV",
   "subnets": {
-    "ipv4": [
-      "66.194.73.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

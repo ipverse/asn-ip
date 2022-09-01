@@ -3,9 +3,7 @@
   "handle": "GROUPON",
   "description": "Groupon Sp. z o.o.",
   "subnets": {
-    "ipv4": [
-      "91.238.246.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

@@ -1,0 +1,13 @@
+{
+  "asn": 149787,
+  "handle": "PIL-AP",
+  "description": "PPIP International Limited",
+  "subnets": {
+    "ipv4": [
+      "103.186.86.0/23"
+    ],
+    "ipv6": [
+      "2001:df0:a5c0::/48"
+    ]
+  }
+}
