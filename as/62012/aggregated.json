@@ -4,8 +4,7 @@
   "description": "Generali Osiguranje Srbija",
   "subnets": {
     "ipv4": [
-      "185.64.172.0/23",
-      "185.64.174.0/24"
+      "185.64.172.0/22"
     ],
     "ipv6": []
   }

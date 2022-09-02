@@ -1,0 +1,11 @@
+{
+  "asn": 272750,
+  "handle": "SBS-NET-SERVICOS",
+  "description": "SBS NET SERVICOS DE TELECOMUNICACOES EIRELI",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2804:8814::/32"
+    ]
+  }
+}

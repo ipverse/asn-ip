@@ -4,10 +4,6 @@
   "description": "SKYWTH.COM LTD",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2602:feda:d30::/44",
-      "2a0e:b107:e70::/44",
-      "2a10:2f00:15c::/48"
-    ]
+    "ipv6": []
   }
 }

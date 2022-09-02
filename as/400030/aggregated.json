@@ -4,6 +4,7 @@
   "description": "Western Fibre Communications Corp.",
   "subnets": {
     "ipv4": [
+      "64.7.48.0/20",
       "165.140.228.0/22"
     ],
     "ipv6": [

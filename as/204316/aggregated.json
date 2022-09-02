@@ -1,0 +1,13 @@
+{
+  "asn": 204316,
+  "handle": "LINKBROADBAND",
+  "description": "Link broadbands limited",
+  "subnets": {
+    "ipv4": [
+      "154.62.185.0/24"
+    ],
+    "ipv6": [
+      "2a12:dc40::/48"
+    ]
+  }
+}

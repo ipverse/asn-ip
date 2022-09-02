@@ -4,7 +4,6 @@
   "description": "Cottage Health",
   "subnets": {
     "ipv4": [
-      "87.229.115.0/24",
       "206.169.44.0/24"
     ],
     "ipv6": []

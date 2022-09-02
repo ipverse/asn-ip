@@ -3,7 +3,10 @@
   "handle": "KUBBUR",
   "description": "KUBBUR Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.61.174.0/24",
+      "216.146.30.0/23"
+    ],
     "ipv6": []
   }
 }
