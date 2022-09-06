@@ -3,7 +3,9 @@
   "handle": "RED-AMONES-SAC",
   "description": "RED AMONES S.A.C.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "179.63.4.0/24"
+    ],
     "ipv6": []
   }
 }

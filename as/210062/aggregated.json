@@ -1,9 +1,11 @@
 {
   "asn": 210062,
-  "handle": "FLEXFIBRE",
-  "description": "Flexfibre Ltd",
+  "handle": "BARRITEL-LON-THN",
+  "description": "Barritel Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "88.151.46.0/23"
+    ],
     "ipv6": []
   }
 }

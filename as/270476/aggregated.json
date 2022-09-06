@@ -3,7 +3,9 @@
   "handle": "KONECTE-TELECOM",
   "description": "KONECTE TELECOM",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "200.50.204.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -4,11 +4,6 @@
   "description": "Thomas Riley Brown",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2a06:a005:488::/46",
-      "2a06:a005:1af0::/44",
-      "2a06:a005:1b00::/43",
-      "2a06:a005:1b20::/44"
-    ]
+    "ipv6": []
   }
 }

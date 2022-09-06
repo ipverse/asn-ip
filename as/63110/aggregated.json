@@ -3,9 +3,7 @@
   "handle": "ZUORA-CORP-USWEST",
   "description": "Zuora, Inc",
   "subnets": {
-    "ipv4": [
-      "8.33.140.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "HIDDOS",
   "description": "Beijing Haiyu Technology Co. Ltd..",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.41.0.0/22"
+    ],
     "ipv6": []
   }
 }

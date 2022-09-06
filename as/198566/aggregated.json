@@ -3,7 +3,9 @@
   "handle": "ULINES",
   "description": "PE UKRAINSKI DROTOVI MEREJI",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.236.139.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -1,9 +1,11 @@
 {
   "asn": 205087,
-  "handle": "OVHCLOUD-TEST",
-  "description": "OVH SAS",
+  "handle": "ONESOFTWARE",
+  "description": "ONE SOFTWARE SRL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "37.143.169.0/24"
+    ],
     "ipv6": []
   }
 }
