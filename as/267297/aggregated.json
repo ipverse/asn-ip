@@ -4,7 +4,8 @@
   "description": "NETUNO DO BRASIL TELECOM LTDA",
   "subnets": {
     "ipv4": [
-      "45.232.248.0/22"
+      "45.232.248.0/23",
+      "45.232.250.0/24"
     ],
     "ipv6": [
       "2804:4b50::/34"

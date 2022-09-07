@@ -1,0 +1,12 @@
+{
+  "asn": 399183,
+  "handle": "DEEPINTENT",
+  "description": "DeepIntent, Inc.",
+  "subnets": {
+    "ipv4": [
+      "8.3.3.0/24",
+      "8.3.222.0/24"
+    ],
+    "ipv6": []
+  }
+}

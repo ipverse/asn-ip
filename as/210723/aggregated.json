@@ -3,9 +3,7 @@
   "handle": "GALEIDO",
   "description": "Galeido Services Oy",
   "subnets": {
-    "ipv4": [
-      "149.5.214.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

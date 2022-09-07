@@ -3,9 +3,7 @@
   "handle": "LOS2020NET",
   "description": "Autonomous non-profit organization Local Organizing Structure UEFA Euro 2020",
   "subnets": {
-    "ipv4": [
-      "195.96.82.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

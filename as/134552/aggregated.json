@@ -4,8 +4,6 @@
   "description": "Geotel Bangladesh IT Ltd.",
   "subnets": {
     "ipv4": [
-      "103.195.0.0/22",
-      "139.5.132.0/22",
       "203.190.0.0/22"
     ],
     "ipv6": []

@@ -1,5 +1,7 @@
 {
   "asn": 19023,
+  "handle": "TCSL-38",
+  "description": "Terminix",
   "subnets": {
     "ipv4": [
       "199.191.74.0/24",

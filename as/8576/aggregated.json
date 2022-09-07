@@ -3,10 +3,7 @@
   "handle": "CW-ASPAC",
   "description": "Vodafone Limited",
   "subnets": {
-    "ipv4": [
-      "202.89.23.0/24",
-      "203.169.61.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

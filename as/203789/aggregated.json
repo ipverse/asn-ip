@@ -1,11 +1,10 @@
 {
   "asn": 203789,
-  "handle": "TELECOM-LUXEMBOURG-INTERNATIONAL",
+  "handle": "LUXNETWORK-INTERNATIONAL",
   "description": "LUXNETWORK S.A.",
   "subnets": {
     "ipv4": [
-      "81.2.148.0/24",
-      "185.123.216.0/22"
+      "81.2.148.0/24"
     ],
     "ipv6": []
   }

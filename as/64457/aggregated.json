@@ -3,10 +3,7 @@
   "handle": "ENAXIM",
   "description": "Enaxim Corporation",
   "subnets": {
-    "ipv4": [
-      "45.154.35.0/24",
-      "185.165.155.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "ASTARZATBEAMP",
   "description": "BEAMSP ISP NETWORK LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "94.154.184.0/24"
+    ],
     "ipv6": []
   }
 }

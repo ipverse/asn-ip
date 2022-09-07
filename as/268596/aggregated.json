@@ -4,7 +4,8 @@
   "description": "ITANETBAHIA COMUNICAO MULTIMIDIA EIRELE",
   "subnets": {
     "ipv4": [
-      "45.164.40.0/22"
+      "45.164.40.0/23",
+      "45.164.43.0/24"
     ],
     "ipv6": [
       "2804:53a0::/35",

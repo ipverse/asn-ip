@@ -1,0 +1,11 @@
+{
+  "asn": 7354,
+  "handle": "DEDIOUTLET-NETWORK",
+  "description": "DediOutlet, LLC",
+  "subnets": {
+    "ipv4": [
+      "64.112.72.0/22"
+    ],
+    "ipv6": []
+  }
+}

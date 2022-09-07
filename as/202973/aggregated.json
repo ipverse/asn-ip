@@ -1,0 +1,11 @@
+{
+  "asn": 202973,
+  "handle": "PARTNER",
+  "description": "Partner LLC",
+  "subnets": {
+    "ipv4": [
+      "82.115.223.0/24"
+    ],
+    "ipv6": []
+  }
+}

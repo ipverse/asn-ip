@@ -1,0 +1,11 @@
+{
+  "asn": 149921,
+  "handle": "IDNIC-MANDIRIGLOBAL-ID",
+  "description": "PT Mandiri Global Data",
+  "subnets": {
+    "ipv4": [
+      "103.190.230.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -3,7 +3,9 @@
   "handle": "TELECOMPY-TECNOLOGIA-NA",
   "description": "telecompy tecnologia na comunicao ltda-me",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "186.216.20.0/24"
+    ],
     "ipv6": []
   }
 }

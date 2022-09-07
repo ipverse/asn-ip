@@ -3,11 +3,7 @@
   "handle": "JEMNETWORKS-SRL",
   "description": "JEMNETWORKS, S.R.L.",
   "subnets": {
-    "ipv4": [
-      "38.51.188.0/24"
-    ],
-    "ipv6": [
-      "2803:1490::/32"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }
