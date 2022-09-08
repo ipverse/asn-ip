@@ -1,0 +1,14 @@
+{
+  "asn": 205574,
+  "handle": "BORAS-STAD",
+  "description": "Boras Kommun",
+  "subnets": {
+    "ipv4": [
+      "148.160.240.0/20",
+      "192.71.16.0/24"
+    ],
+    "ipv6": [
+      "2001:67c:1890::/48"
+    ]
+  }
+}

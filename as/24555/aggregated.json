@@ -1,0 +1,11 @@
+{
+  "asn": 24555,
+  "handle": "APRICOT-APNIC",
+  "description": "Asia Pacific Network Information Centre",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2001:df9::/32"
+    ]
+  }
+}

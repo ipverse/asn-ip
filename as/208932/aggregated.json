@@ -4,7 +4,8 @@
   "description": "Teleglobal Communication Services Limited",
   "subnets": {
     "ipv4": [
-      "103.149.49.0/24"
+      "103.149.49.0/24",
+      "193.5.46.0/24"
     ],
     "ipv6": []
   }

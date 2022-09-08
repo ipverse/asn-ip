@@ -3,7 +3,9 @@
   "handle": "PRIMORSKY",
   "description": "KGKU ITC Primorskogo kraya",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.143.92.0/24"
+    ],
     "ipv6": []
   }
 }

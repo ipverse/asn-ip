@@ -3,7 +3,9 @@
   "handle": "SWAZI-MOBILE",
   "description": "Swazi Mobile Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "165.73.132.0/22"
+    ],
     "ipv6": []
   }
 }

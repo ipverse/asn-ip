@@ -3,12 +3,7 @@
   "handle": "SOL-CABLEVISIN-SAS-ESP",
   "description": "Sol Cablevisin S.A.S E.S.P",
   "subnets": {
-    "ipv4": [
-      "179.43.104.0/22",
-      "179.43.108.0/23",
-      "179.43.110.0/24",
-      "190.211.140.0/22"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

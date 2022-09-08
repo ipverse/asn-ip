@@ -3,9 +3,7 @@
   "handle": "GEOTEL-IT-AP",
   "description": "Geotel Bangladesh IT Ltd.",
   "subnets": {
-    "ipv4": [
-      "203.190.0.0/22"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "SJRMC",
   "description": "San Juan Regional Medical Center Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "205.201.195.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,10 @@
   "handle": "VMPSIP-IN",
   "description": "Vmps Internet Private Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.155.208.0/23",
+      "103.160.64.0/23"
+    ],
     "ipv6": []
   }
 }

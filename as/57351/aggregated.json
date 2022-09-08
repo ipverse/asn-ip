@@ -3,7 +3,9 @@
   "handle": "HYPR",
   "description": "HYPR HELIX LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.85.15.0/24"
+    ],
     "ipv6": [
       "2a0e:97c0:520::/44"
     ]

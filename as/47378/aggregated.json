@@ -4,8 +4,7 @@
   "description": "VIP-Technologies Ltd.",
   "subnets": {
     "ipv4": [
-      "91.204.100.0/22",
-      "193.107.188.0/22"
+      "91.204.103.0/24"
     ],
     "ipv6": []
   }

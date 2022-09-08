@@ -3,7 +3,9 @@
   "handle": "MATRIX-IN",
   "description": "Matrix Broadband",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.180.66.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -4,6 +4,7 @@
   "description": "Colocation America Corporation",
   "subnets": {
     "ipv4": [
+      "66.249.140.0/23",
       "67.203.8.0/21",
       "67.203.16.0/21",
       "67.207.168.0/21",

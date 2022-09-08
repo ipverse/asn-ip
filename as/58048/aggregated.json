@@ -4,8 +4,7 @@
   "description": "Bezheckaya Internet Company ltd.",
   "subnets": {
     "ipv4": [
-      "91.238.25.0/24",
-      "91.238.26.0/23"
+      "91.238.24.0/22"
     ],
     "ipv6": []
   }

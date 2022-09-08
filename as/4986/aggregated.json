@@ -4,7 +4,8 @@
   "description": "InterStar Network Services, Inc.",
   "subnets": {
     "ipv4": [
-      "69.10.160.0/20"
+      "69.10.160.0/20",
+      "74.123.100.0/22"
     ],
     "ipv6": [
       "2607:8b80::/32"

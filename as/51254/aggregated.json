@@ -3,10 +3,7 @@
   "handle": "AS1-GIANTS",
   "description": "Giants For Renting Computer Systems Company W.L.L.",
   "subnets": {
-    "ipv4": [
-      "185.133.124.0/22",
-      "185.154.188.0/22"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

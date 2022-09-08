@@ -1,0 +1,12 @@
+{
+  "asn": 60295,
+  "handle": "OPEN-EARS",
+  "description": "Jan Czmok",
+  "subnets": {
+    "ipv4": [
+      "193.47.84.0/24",
+      "195.20.216.0/23"
+    ],
+    "ipv6": []
+  }
+}

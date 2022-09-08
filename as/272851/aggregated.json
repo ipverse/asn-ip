@@ -1,0 +1,11 @@
+{
+  "asn": 272851,
+  "handle": "GIGA-FIBRA-SAS",
+  "description": "GIGA FIBRA SAS",
+  "subnets": {
+    "ipv4": [
+      "38.52.144.0/20"
+    ],
+    "ipv6": []
+  }
+}

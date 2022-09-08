@@ -4,11 +4,8 @@
   "description": "IMImobile Pvt Ltd",
   "subnets": {
     "ipv4": [
-      "103.10.9.0/24",
       "103.20.164.0/24"
     ],
-    "ipv6": [
-      "2001:df5:3800::/48"
-    ]
+    "ipv6": []
   }
 }
