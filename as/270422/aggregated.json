@@ -1,13 +1,11 @@
 {
   "asn": 270422,
-  "handle": "EXNET-SOLUCOES-DE",
+  "handle": "EXNET-SOLUCOES",
   "description": "Exnet Solucoes de Internet Ltda",
   "subnets": {
     "ipv4": [
       "190.89.248.0/22"
     ],
-    "ipv6": [
-      "2804:6bbc::/32"
-    ]
+    "ipv6": []
   }
 }

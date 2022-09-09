@@ -1,0 +1,11 @@
+{
+  "asn": 206510,
+  "handle": "ROMAV-COMUNICATII",
+  "description": "Romav Comunicatii SRL",
+  "subnets": {
+    "ipv4": [
+      "80.96.20.0/24"
+    ],
+    "ipv6": []
+  }
+}

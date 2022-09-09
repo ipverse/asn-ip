@@ -3,7 +3,9 @@
   "handle": "ETP",
   "description": "AO ETP",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "176.119.142.0/24"
+    ],
     "ipv6": []
   }
 }

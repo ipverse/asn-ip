@@ -3,7 +3,9 @@
   "handle": "CAMAU-VN",
   "description": "Department of Information and Communications of Ca Mau Province",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.159.22.0/23"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "ARPAN-AP",
   "description": "Forhosting",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.174.246.0/24"
+    ],
     "ipv6": [
       "2a0e:46c4:1310::/48",
       "2a0e:46c4:1312::/47",

@@ -4,8 +4,6 @@
   "description": "Entergy Services, LLC",
   "subnets": {
     "ipv4": [
-      "148.127.0.0/16",
-      "148.193.0.0/16",
       "198.8.0.0/21"
     ],
     "ipv6": []

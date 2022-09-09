@@ -3,7 +3,9 @@
   "handle": "VTECH-EU",
   "description": "VTech Electronics Europe B.V.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.82.128.0/24"
+    ],
     "ipv6": []
   }
 }

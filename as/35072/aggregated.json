@@ -3,9 +3,7 @@
   "handle": "SERCO-GROUP",
   "description": "Serco Group PLC",
   "subnets": {
-    "ipv4": [
-      "193.117.48.0/21"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

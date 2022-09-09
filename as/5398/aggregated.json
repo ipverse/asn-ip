@@ -1,0 +1,11 @@
+{
+  "asn": 5398,
+  "handle": "SA",
+  "description": "AS5398 SA",
+  "subnets": {
+    "ipv4": [
+      "46.21.20.0/23"
+    ],
+    "ipv6": []
+  }
+}

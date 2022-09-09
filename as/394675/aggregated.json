@@ -3,9 +3,7 @@
   "handle": "DIA",
   "description": "Denver Investments",
   "subnets": {
-    "ipv4": [
-      "216.156.206.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

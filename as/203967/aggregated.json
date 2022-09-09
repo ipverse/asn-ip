@@ -3,7 +3,9 @@
   "handle": "ATLT-AS1",
   "description": "ARCTICTEL LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.44.82.0/24"
+    ],
     "ipv6": []
   }
 }

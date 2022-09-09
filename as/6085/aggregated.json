@@ -1,0 +1,11 @@
+{
+  "asn": 6085,
+  "handle": "SITA-IPNET",
+  "description": "Societe Internationale de Telecommunications Aeronautiques",
+  "subnets": {
+    "ipv4": [
+      "57.0.255.0/24"
+    ],
+    "ipv6": []
+  }
+}

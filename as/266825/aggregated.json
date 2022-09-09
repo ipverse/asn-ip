@@ -3,7 +3,9 @@
   "handle": "BIGMEDIA-ARGENTINA-SA",
   "description": "BIGMEDIA ARGENTINA S.A.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.238.8.0/22"
+    ],
     "ipv6": []
   }
 }

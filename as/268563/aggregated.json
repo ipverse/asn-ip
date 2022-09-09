@@ -1,11 +1,13 @@
 {
   "asn": 268563,
-  "handle": "LIGNET-SERVICOS-DE",
+  "handle": "LIGNET-SERVICOS",
   "description": "LIGNET SERVICOS DE COMUNICACAO MULTIMIDIA EIRELI",
   "subnets": {
     "ipv4": [
       "45.163.168.0/22"
     ],
-    "ipv6": []
+    "ipv6": [
+      "2804:5318::/32"
+    ]
   }
 }

@@ -3,7 +3,9 @@
   "handle": "NETVERSOR-4",
   "description": "Netversor GmbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.140.126.0/24"
+    ],
     "ipv6": []
   }
 }

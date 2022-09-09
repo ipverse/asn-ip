@@ -1,6 +1,6 @@
 {
   "asn": 6400,
-  "handle": "COMPAA-DOMINICANA-DE",
+  "handle": "COMPAA-DOMINICANA",
   "description": "Compaa Dominicana de Telfonos S. A.",
   "subnets": {
     "ipv4": [
@@ -14,6 +14,7 @@
       "152.0.0.0/16",
       "179.52.0.0/15",
       "186.6.0.0/15",
+      "190.12.192.0/19",
       "190.80.128.0/17",
       "190.166.0.0/15",
       "196.3.74.0/23",

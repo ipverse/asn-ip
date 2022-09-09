@@ -4,7 +4,8 @@
   "description": "Harkatien Puhelin Oy",
   "subnets": {
     "ipv4": [
-      "45.82.16.0/22"
+      "45.82.16.0/22",
+      "46.23.160.0/20"
     ],
     "ipv6": []
   }

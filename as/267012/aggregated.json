@@ -1,13 +1,11 @@
 {
   "asn": 267012,
-  "handle": "INTERCOL-SERVIOS-DE",
+  "handle": "INTERCOL-SERVIOS",
   "description": "Intercol Servios de Internet Ltda",
   "subnets": {
     "ipv4": [
       "45.227.120.0/22"
     ],
-    "ipv6": [
-      "2804:46cc::/32"
-    ]
+    "ipv6": []
   }
 }

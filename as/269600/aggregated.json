@@ -1,13 +1,11 @@
 {
   "asn": 269600,
-  "handle": "FOURFIBRAS-SERVIOS-DE",
+  "handle": "FOURFIBRAS-SERVIOS",
   "description": "Fourfibras Servios de Telecom LTDA",
   "subnets": {
     "ipv4": [
       "45.187.80.0/22"
     ],
-    "ipv6": [
-      "2804:670c::/32"
-    ]
+    "ipv6": []
   }
 }

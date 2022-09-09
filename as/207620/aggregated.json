@@ -4,7 +4,8 @@
   "description": "Kentwifi Iletisim Hizmetleri LTD Sirketi",
   "subnets": {
     "ipv4": [
-      "91.224.170.0/24"
+      "91.224.170.0/24",
+      "185.249.255.0/24"
     ],
     "ipv6": []
   }

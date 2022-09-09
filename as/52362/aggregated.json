@@ -1,6 +1,6 @@
 {
   "asn": 52362,
-  "handle": "SERVICIOS-INNOVADORES-DE",
+  "handle": "SERVICIOS-INNOVADORES",
   "description": "Servicios Innovadores de Comunicacin y Entretenimiento, S.A.",
   "subnets": {
     "ipv4": [
@@ -99,7 +99,9 @@
       "2803:d100:ef00::/41",
       "2803:d100:ef80::/42",
       "2803:d100:f040::/42",
-      "2803:d100:f080::/41"
+      "2803:d100:f080::/41",
+      "2803:d100:f200::/42",
+      "2803:d100:f240::/43"
     ]
   }
 }

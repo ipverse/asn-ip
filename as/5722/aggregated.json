@@ -1,6 +1,6 @@
 {
   "asn": 5722,
-  "handle": "UNIVERSIDAD-NACIONAL-DE",
+  "handle": "UNIVERSIDAD-NACIONAL",
   "description": "Universidad Nacional de Colombia",
   "subnets": {
     "ipv4": [
@@ -27,6 +27,7 @@
       "2800:8a0:8000::/36",
       "2800:8a0:a000::/37",
       "2800:8a0:a800::/38",
+      "2800:8a0:b000::/37",
       "2800:8a0:b800::/38",
       "2800:8a0:c400::/38"
     ]

@@ -1,13 +1,11 @@
 {
   "asn": 270456,
-  "handle": "VARIAX-SERVICOS-DE",
+  "handle": "VARIAX-SERVICOS",
   "description": "VARIAX SERVICOS DE INTERNET LTDA",
   "subnets": {
     "ipv4": [
       "190.124.252.0/22"
     ],
-    "ipv6": [
-      "2804:6c44::/32"
-    ]
+    "ipv6": []
   }
 }
