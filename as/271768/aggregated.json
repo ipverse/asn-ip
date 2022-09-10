@@ -1,9 +1,11 @@
 {
   "asn": 271768,
-  "handle": "BW-TELECOM-LTDA",
+  "handle": "BW-TELECOM",
   "description": "BW Telecom LTDA.",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2804:80b4::/32"
+    ]
   }
 }

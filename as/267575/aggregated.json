@@ -1,6 +1,6 @@
 {
   "asn": 267575,
-  "handle": "MARANET-TELECOM-LTDA",
+  "handle": "MARANET-TELECOM",
   "description": "MARANET TELECOM LTDA",
   "subnets": {
     "ipv4": [
@@ -8,8 +8,8 @@
       "177.74.104.0/22"
     ],
     "ipv6": [
-      "2804:2bec::/33",
-      "2804:4384::/33"
+      "2804:2bec::/32",
+      "2804:4384::/32"
     ]
   }
 }

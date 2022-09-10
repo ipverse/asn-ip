@@ -3,11 +3,7 @@
   "handle": "DRAGONWINGS",
   "description": "Marvin Van Bakkum trading as Dragon Wings",
   "subnets": {
-    "ipv4": [
-      "44.190.38.0/24"
-    ],
-    "ipv6": [
-      "2a0e:8f02:f002::/48"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

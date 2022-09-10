@@ -1,11 +1,13 @@
 {
   "asn": 271555,
-  "handle": "SDMNET-INFORMATICA-LTDA-ME",
+  "handle": "SDMNET-INFORMATICA-LTDA",
   "description": "SDMNET INFORMATICA LTDA - ME",
   "subnets": {
     "ipv4": [
       "181.232.212.0/22"
     ],
-    "ipv6": []
+    "ipv6": [
+      "2804:7d58::/32"
+    ]
   }
 }

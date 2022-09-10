@@ -4,10 +4,8 @@
   "description": "PORTAL NET TELECOM SERVICOS DE COMUNICACOES LTDA",
   "subnets": {
     "ipv4": [
-      "45.166.184.0/22"
+      "45.166.186.0/23"
     ],
-    "ipv6": [
-      "2804:55ec::/32"
-    ]
+    "ipv6": []
   }
 }

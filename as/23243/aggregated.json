@@ -1,12 +1,9 @@
 {
   "asn": 23243,
-  "handle": "COMCEL-GUATEMALA-SA",
+  "handle": "COMCEL-GUATEMALA",
   "description": "COMCEL GUATEMALA S.A.",
   "subnets": {
     "ipv4": [
-      "45.196.0.0/21",
-      "45.196.8.0/22",
-      "45.196.12.0/23",
       "45.229.40.0/23",
       "104.117.68.0/22",
       "143.208.180.0/22",

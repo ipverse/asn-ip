@@ -1,11 +1,10 @@
 {
   "asn": 27947,
-  "handle": "TELCONET-SA",
+  "handle": "TELCONET",
   "description": "Telconet S.A",
   "subnets": {
     "ipv4": [
       "23.219.144.0/22",
-      "45.71.252.0/24",
       "45.199.178.0/24",
       "64.46.64.0/19",
       "69.65.128.0/19",

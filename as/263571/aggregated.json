@@ -1,10 +1,11 @@
 {
   "asn": 263571,
-  "handle": "CONECTE-TELECOMUNICAES-LTDA",
+  "handle": "CONECTE-TELECOMUNICAES",
   "description": "CONECTE TELECOMUNICAES LTDA.",
   "subnets": {
     "ipv4": [
-      "177.55.88.0/21"
+      "177.55.88.0/22",
+      "177.55.94.0/23"
     ],
     "ipv6": []
   }

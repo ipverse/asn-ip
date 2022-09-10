@@ -4,8 +4,7 @@
   "description": "ALLREDE TELECOM (TI5)",
   "subnets": {
     "ipv4": [
-      "45.238.48.0/24",
-      "45.238.51.0/24"
+      "45.238.48.0/22"
     ],
     "ipv6": []
   }

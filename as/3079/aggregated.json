@@ -3,9 +3,7 @@
   "handle": "CITI13",
   "description": "Citicorp",
   "subnets": {
-    "ipv4": [
-      "45.164.42.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

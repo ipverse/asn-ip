@@ -1,0 +1,11 @@
+{
+  "asn": 271957,
+  "handle": "SOMOS-NETWORKS-COLOMBIA",
+  "description": "SOMOS NETWORKS COLOMBIA S.A.S. BIC",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2803:f610::/32"
+    ]
+  }
+}

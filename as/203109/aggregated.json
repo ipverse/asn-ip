@@ -3,9 +3,7 @@
   "handle": "INTELLICOM",
   "description": "Intellicom Ireland Ltd",
   "subnets": {
-    "ipv4": [
-      "185.144.124.0/22"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

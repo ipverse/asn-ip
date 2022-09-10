@@ -1,13 +1,11 @@
 {
   "asn": 270859,
-  "handle": "VOEX-TELECOM-LTDA",
+  "handle": "VOEX-TELECOM",
   "description": "VOEX TELECOM LTDA",
   "subnets": {
     "ipv4": [
       "179.43.8.0/22"
     ],
-    "ipv6": [
-      "2804:7288::/32"
-    ]
+    "ipv6": []
   }
 }

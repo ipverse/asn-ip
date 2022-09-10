@@ -3,7 +3,9 @@
   "handle": "DURGA",
   "description": "Durga Broadband Pvt. Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.133.248.0/22"
+    ],
     "ipv6": []
   }
 }

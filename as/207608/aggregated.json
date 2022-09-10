@@ -3,7 +3,9 @@
   "handle": "AHTEK",
   "description": "AHTek AS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.191.31.0/24"
+    ],
     "ipv6": [
       "2001:678:60c::/48"
     ]

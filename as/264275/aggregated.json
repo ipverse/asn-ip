@@ -1,15 +1,12 @@
 {
   "asn": 264275,
-  "handle": "ROLIM-NET-TECNOLOGIA-LTDA",
+  "handle": "ROLIM-NET-TECNOLOGIA",
   "description": "ROLIM NET TECNOLOGIA LTDA",
   "subnets": {
     "ipv4": [
       "138.121.24.0/22",
       "168.232.188.0/22",
-      "205.164.80.0/22",
-      "205.164.84.0/24",
-      "205.164.86.0/23",
-      "205.164.88.0/21"
+      "205.164.80.0/20"
     ],
     "ipv6": [
       "2804:2558::/48",

@@ -4,6 +4,7 @@
   "description": "Automatic Data Processing, Inc.",
   "subnets": {
     "ipv4": [
+      "24.104.148.0/23",
       "170.146.1.0/24",
       "170.146.2.0/24",
       "170.146.24.0/22",

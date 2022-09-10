@@ -1,10 +1,11 @@
 {
   "asn": 264266,
-  "handle": "L-K-INFORMATICA-LTDA-ME",
+  "handle": "L-K-INFORMATICA-LTDA",
   "description": "L \u0026 K INFORMATICA LTDA - ME",
   "subnets": {
     "ipv4": [
-      "138.118.228.0/22"
+      "138.118.228.0/24",
+      "138.118.230.0/23"
     ],
     "ipv6": []
   }

@@ -1,10 +1,9 @@
 {
   "asn": 263684,
-  "handle": "INTERNET-SERVICES-SA",
+  "handle": "INTERNET-SERVICES",
   "description": "Internet Services S.A.",
   "subnets": {
     "ipv4": [
-      "45.224.8.0/22",
       "170.244.56.0/22",
       "200.0.210.0/23",
       "200.0.215.0/24",
