@@ -3,7 +3,10 @@
   "handle": "BIZTELECOM",
   "description": "BILOUD SRL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "86.105.231.0/24",
+      "93.115.1.0/24"
+    ],
     "ipv6": []
   }
 }

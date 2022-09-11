@@ -3,7 +3,11 @@
   "handle": "NET-ONNE-COMRCIO",
   "description": "Net Onne - Comrcio e Servio de Informtica",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.180.72.0/22"
+    ],
+    "ipv6": [
+      "2804:5fd4::/32"
+    ]
   }
 }

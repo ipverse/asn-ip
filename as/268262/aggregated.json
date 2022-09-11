@@ -4,10 +4,8 @@
   "description": "INNOVA TECNOLOGIA LTDA ME",
   "subnets": {
     "ipv4": [
-      "45.237.24.0/22"
+      "45.237.26.0/23"
     ],
-    "ipv6": [
-      "2804:4e74::/32"
-    ]
+    "ipv6": []
   }
 }

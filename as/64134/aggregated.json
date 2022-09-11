@@ -1,10 +1,11 @@
 {
   "asn": 64134,
-  "handle": "VISNETWORK-SRL",
+  "handle": "VISNETWORK",
   "description": "VISNETWORK SRL",
   "subnets": {
     "ipv4": [
-      "38.44.240.0/21"
+      "38.44.240.0/21",
+      "38.52.161.0/24"
     ],
     "ipv6": []
   }

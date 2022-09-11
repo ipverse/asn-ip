@@ -4,6 +4,7 @@
   "description": "Transaction Network Services, Inc.",
   "subnets": {
     "ipv4": [
+      "83.126.17.0/24",
       "204.14.0.0/21"
     ],
     "ipv6": []

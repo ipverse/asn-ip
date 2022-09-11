@@ -3,7 +3,12 @@
   "handle": "IPVX-SOLUTIONS",
   "description": "IPvX Solutions LLC",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "23.140.248.0/23"
+    ],
+    "ipv6": [
+      "2602:fc23:100::/44",
+      "2a06:a005:8b0::/44"
+    ]
   }
 }

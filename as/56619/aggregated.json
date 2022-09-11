@@ -3,10 +3,7 @@
   "handle": "KSB",
   "description": "Safety Integrated Systems Ltd",
   "subnets": {
-    "ipv4": [
-      "77.35.107.0/24",
-      "77.35.108.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

@@ -4,6 +4,7 @@
   "description": "FOP Obuhov Oleg Gennadiyovich",
   "subnets": {
     "ipv4": [
+      "31.135.178.0/24",
       "31.135.180.0/24"
     ],
     "ipv6": []

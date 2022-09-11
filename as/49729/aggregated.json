@@ -4,7 +4,9 @@
   "description": "Open Joint Stock Company Commercial Bank Modulbank",
   "subnets": {
     "ipv4": [
-      "185.137.76.0/22"
+      "91.228.88.0/24",
+      "185.137.76.0/22",
+      "195.64.126.0/24"
     ],
     "ipv6": []
   }

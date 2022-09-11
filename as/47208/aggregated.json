@@ -3,11 +3,7 @@
   "handle": "PARAGON",
   "description": "Paragon Data GmbH",
   "subnets": {
-    "ipv4": [
-      "195.160.160.0/23"
-    ],
-    "ipv6": [
-      "2001:67c:19ec::/48"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

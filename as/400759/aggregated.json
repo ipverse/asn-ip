@@ -1,5 +1,7 @@
 {
   "asn": 400759,
+  "handle": "AMERICAN-CLOUD-01",
+  "description": "American Cloud LLC",
   "subnets": {
     "ipv4": [
       "23.230.68.0/24",

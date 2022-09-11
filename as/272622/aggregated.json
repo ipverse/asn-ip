@@ -1,9 +1,11 @@
 {
   "asn": 272622,
-  "handle": "IL-SANTOS-CIA",
+  "handle": "IL-SANTOS",
   "description": "I.L DOS SANTOS \u0026 CIA LTDA",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2804:861c::/32"
+    ]
   }
 }
