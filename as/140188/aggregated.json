@@ -3,9 +3,7 @@
   "handle": "THREESBSDPLM-IN",
   "description": "3sbs Datacom Private Limited",
   "subnets": {
-    "ipv4": [
-      "103.156.98.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

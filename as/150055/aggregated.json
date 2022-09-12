@@ -1,0 +1,11 @@
+{
+  "asn": 150055,
+  "handle": "DIGISNAP-IN",
+  "description": "DIGITAL SNAP",
+  "subnets": {
+    "ipv4": [
+      "103.191.208.0/23"
+    ],
+    "ipv6": []
+  }
+}

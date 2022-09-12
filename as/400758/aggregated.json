@@ -1,0 +1,11 @@
+{
+  "asn": 400758,
+  "handle": "CORTAVIS-ASN1",
+  "description": "CORTAVIS",
+  "subnets": {
+    "ipv4": [
+      "157.254.169.0/24"
+    ],
+    "ipv6": []
+  }
+}

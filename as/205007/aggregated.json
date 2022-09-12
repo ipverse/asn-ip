@@ -4,6 +4,7 @@
   "description": "Maxim Azarov trading as eServer",
   "subnets": {
     "ipv4": [
+      "45.89.55.0/24",
       "185.48.250.0/24"
     ],
     "ipv6": []

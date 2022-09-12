@@ -3,9 +3,7 @@
   "handle": "4B42-UG",
   "description": "4b42 UG",
   "subnets": {
-    "ipv4": [
-      "45.148.116.0/22"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2a0f:e400::/32"
     ]

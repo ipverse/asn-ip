@@ -3,9 +3,7 @@
   "handle": "ARKCOM-IN",
   "description": "A Telecommunications Pvt Ltd.",
   "subnets": {
-    "ipv4": [
-      "103.114.64.0/22"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

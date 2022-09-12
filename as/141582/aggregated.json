@@ -3,7 +3,9 @@
   "handle": "IDNIC-SSV-ID",
   "description": "PT Sukabumi Sinar Vision",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.160.54.0/23"
+    ],
     "ipv6": []
   }
 }

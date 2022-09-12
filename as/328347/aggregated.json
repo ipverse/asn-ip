@@ -4,7 +4,7 @@
   "description": "No Barrier Communications",
   "subnets": {
     "ipv4": [
-      "102.132.80.0/20"
+      "102.132.80.0/22"
     ],
     "ipv6": []
   }

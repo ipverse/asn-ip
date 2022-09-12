@@ -4,6 +4,8 @@
   "description": "Jori Vanneste",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a12:4944:d000::/47"
+    ]
   }
 }
