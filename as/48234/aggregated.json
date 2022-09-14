@@ -3,10 +3,7 @@
   "handle": "ILCA",
   "description": "OOO IT-Region",
   "subnets": {
-    "ipv4": [
-      "79.173.96.0/21",
-      "185.181.203.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

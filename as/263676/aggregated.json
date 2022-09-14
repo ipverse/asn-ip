@@ -3,7 +3,9 @@
   "handle": "NETMG-INFORMTICA",
   "description": "NetMG Informtica Ltda.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "191.241.176.0/21"
+    ],
     "ipv6": []
   }
 }

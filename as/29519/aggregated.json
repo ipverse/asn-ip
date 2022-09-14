@@ -1,0 +1,11 @@
+{
+  "asn": 29519,
+  "handle": "ATOS-TEST-NL",
+  "description": "Atos Nederland B.V.",
+  "subnets": {
+    "ipv4": [
+      "212.25.209.0/24"
+    ],
+    "ipv6": []
+  }
+}

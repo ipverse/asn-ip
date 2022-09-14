@@ -3,7 +3,9 @@
   "handle": "DEVELIA",
   "description": "DEVELIA SA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.182.40.0/24"
+    ],
     "ipv6": []
   }
 }

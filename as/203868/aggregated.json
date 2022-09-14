@@ -4,6 +4,8 @@
   "description": "Rifqi Arief Pamungkas",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a06:a005:15df::/48"
+    ]
   }
 }

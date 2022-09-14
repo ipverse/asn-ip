@@ -4,7 +4,7 @@
   "description": "Global Digital Network S.L.",
   "subnets": {
     "ipv4": [
-      "185.234.224.0/23"
+      "185.234.224.0/22"
     ],
     "ipv6": [
       "2a0d:2f00::/48"

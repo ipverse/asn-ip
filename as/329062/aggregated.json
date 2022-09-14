@@ -1,0 +1,11 @@
+{
+  "asn": 329062,
+  "handle": "BCT2",
+  "description": "Baremetal Computer Traders",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2c0f:1880::/32"
+    ]
+  }
+}
