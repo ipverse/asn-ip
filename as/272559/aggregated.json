@@ -3,7 +3,9 @@
   "handle": "ULISSES-OLIVEIRA-SANTOS",
   "description": "ULISSES DE OLIVEIRA SANTOS - ME",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.52.132.0/22"
+    ],
     "ipv6": [
       "2804:8520::/32"
     ]

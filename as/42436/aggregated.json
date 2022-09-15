@@ -4,7 +4,8 @@
   "description": "Consumers Association",
   "subnets": {
     "ipv4": [
-      "143.41.0.0/21"
+      "143.41.0.0/21",
+      "194.169.144.0/21"
     ],
     "ipv6": []
   }

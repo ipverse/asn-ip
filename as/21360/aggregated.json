@@ -4,8 +4,7 @@
   "description": "Empirion Telekommunikations Services GmbH",
   "subnets": {
     "ipv4": [
-      "80.245.192.0/20",
-      "185.82.120.0/22"
+      "80.245.192.0/20"
     ],
     "ipv6": [
       "2a00:1628::/32"

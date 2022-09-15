@@ -1,0 +1,11 @@
+{
+  "asn": 54310,
+  "handle": "LUDIA-YUL-01",
+  "description": "Ludia",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2602:fb25::/48"
+    ]
+  }
+}

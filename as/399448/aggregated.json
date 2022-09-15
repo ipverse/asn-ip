@@ -1,9 +1,12 @@
 {
   "asn": 399448,
-  "handle": "PEACEWEB",
+  "handle": "UPDEDICATED",
   "description": "PeaceWeb",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2606:18c0::/45",
+      "2606:18c0:8::/48"
+    ]
   }
 }

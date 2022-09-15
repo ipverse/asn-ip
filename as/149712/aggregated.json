@@ -1,9 +1,11 @@
 {
   "asn": 149712,
   "handle": "LINKTEL-ID",
-  "description": "PT Lingkar Kabel Telekomunikasi",
+  "description": "KabelTelekom",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.186.194.0/23"
+    ],
     "ipv6": []
   }
 }

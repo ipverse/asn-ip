@@ -3,7 +3,9 @@
   "handle": "KN0X",
   "description": "KNOX Industries Inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "107.161.154.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,11 +3,7 @@
   "handle": "MF-TV-CABO-EIRELI",
   "description": "MF TV  Cabo EIRELI",
   "subnets": {
-    "ipv4": [
-      "131.196.236.0/22"
-    ],
-    "ipv6": [
-      "2804:4038::/32"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

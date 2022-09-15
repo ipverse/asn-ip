@@ -4,6 +4,7 @@
   "description": "Waterfront International Ltd.",
   "subnets": {
     "ipv4": [
+      "38.45.224.0/24",
       "209.47.207.0/24"
     ],
     "ipv6": []

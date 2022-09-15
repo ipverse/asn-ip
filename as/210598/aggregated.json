@@ -3,7 +3,9 @@
   "handle": "MICROWEB",
   "description": "Francesco Fabbro trading as Microweb Sas",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "109.107.152.0/24"
+    ],
     "ipv6": []
   }
 }

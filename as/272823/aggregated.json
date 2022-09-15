@@ -3,7 +3,9 @@
   "handle": "SILVA-CORRALES-DANIEL",
   "description": "SILVA CORRALES DANIEL FERNANDO (SMARTNET)",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.10.102.0/24"
+    ],
     "ipv6": [
       "2803:9490::/38",
       "2803:9490:400::/39",

@@ -3,7 +3,9 @@
   "handle": "OMAHSA-IN",
   "description": "Om-Asha Net Private Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.189.221.0/24"
+    ],
     "ipv6": []
   }
 }

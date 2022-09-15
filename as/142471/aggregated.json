@@ -3,7 +3,9 @@
   "handle": "QUICKLINK-IN",
   "description": "QUICKLINK BROADBAND",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.170.88.0/24"
+    ],
     "ipv6": []
   }
 }

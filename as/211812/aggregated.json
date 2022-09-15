@@ -4,8 +4,6 @@
   "description": "Hugo DERAVE",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2a10:4646:18::/48"
-    ]
+    "ipv6": []
   }
 }
