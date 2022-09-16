@@ -1,0 +1,13 @@
+{
+  "asn": 60808,
+  "handle": "TALENTEDVISION",
+  "description": "Parsun Network Solutions PTY LTD",
+  "subnets": {
+    "ipv4": [
+      "188.253.96.0/19"
+    ],
+    "ipv6": [
+      "2a05:ec80::/29"
+    ]
+  }
+}

@@ -1,9 +1,11 @@
 {
   "asn": 205848,
-  "handle": "DATAHOSTINGLTD",
-  "description": "Data Hosting LTD",
+  "handle": "DOMINIK-POHL",
+  "description": "Dominik Pohl",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a12:dd47:8049::/48"
+    ]
   }
 }

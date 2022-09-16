@@ -3,7 +3,9 @@
   "handle": "GOAIRNET-IN",
   "description": "Goairnet Wireless Broadband Pvt. Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.80.166.0/23"
+    ],
     "ipv6": []
   }
 }

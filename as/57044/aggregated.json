@@ -4,6 +4,7 @@
   "description": "JSC ER-Telecom Holding",
   "subnets": {
     "ipv4": [
+      "5.3.47.0/24",
       "5.3.54.0/24",
       "5.77.16.0/20",
       "5.165.80.0/20",

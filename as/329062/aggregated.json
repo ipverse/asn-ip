@@ -3,7 +3,9 @@
   "handle": "BCT2",
   "description": "Baremetal Computer Traders",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "102.216.0.0/22"
+    ],
     "ipv6": [
       "2c0f:1880::/32"
     ]

@@ -3,9 +3,7 @@
   "handle": "ARRIVAL",
   "description": "ARRIVAL Ltd",
   "subnets": {
-    "ipv4": [
-      "185.137.157.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

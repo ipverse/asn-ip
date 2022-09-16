@@ -1,0 +1,11 @@
+{
+  "asn": 150308,
+  "handle": "CITYDOTNET-AP",
+  "description": "CITY DOT NET",
+  "subnets": {
+    "ipv4": [
+      "103.232.142.0/24"
+    ],
+    "ipv6": []
+  }
+}

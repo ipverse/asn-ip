@@ -3,11 +3,7 @@
   "handle": "FANAPTELECOM",
   "description": "Tose\u0027h Fanavari Ertebabat Pasargad Arian Co. PJS",
   "subnets": {
-    "ipv4": [
-      "78.158.169.0/24",
-      "78.158.179.0/24",
-      "213.195.16.0/21"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

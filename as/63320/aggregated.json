@@ -3,9 +3,7 @@
   "handle": "BIRCHBOX",
   "description": "Birchbox, Inc.",
   "subnets": {
-    "ipv4": [
-      "68.168.42.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }
