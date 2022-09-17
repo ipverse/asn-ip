@@ -1,9 +1,11 @@
 {
   "asn": 266750,
-  "handle": "CONECTADOZ-SRL",
+  "handle": "CONECTADOZ",
   "description": "CONECTADOZ S.R.L.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.231.248.0/22"
+    ],
     "ipv6": []
   }
 }

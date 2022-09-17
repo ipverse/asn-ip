@@ -1,9 +1,12 @@
 {
   "asn": 27771,
-  "handle": "INSTITUTO-VENEZOLANO-DE",
+  "handle": "INSTITUTO-VENEZOLANO-INVESTIGACIONES",
   "description": "Instituto Venezolano de Investigaciones Cientificas",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "190.170.128.0/18",
+      "192.65.152.0/24"
+    ],
     "ipv6": []
   }
 }

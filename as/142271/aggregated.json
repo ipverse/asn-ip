@@ -3,9 +3,7 @@
   "handle": "DOUBLESQUARE-AP",
   "description": "DoubleSquare Networks Inc.",
   "subnets": {
-    "ipv4": [
-      "103.167.66.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

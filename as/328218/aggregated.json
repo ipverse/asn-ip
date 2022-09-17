@@ -1,0 +1,14 @@
+{
+  "asn": 328218,
+  "handle": "WASP",
+  "description": "Wireless Associate Service Providers CC",
+  "subnets": {
+    "ipv4": [
+      "160.19.128.0/21",
+      "160.19.136.0/24",
+      "160.19.141.0/24",
+      "160.19.142.0/23"
+    ],
+    "ipv6": []
+  }
+}

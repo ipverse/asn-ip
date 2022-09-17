@@ -1,0 +1,11 @@
+{
+  "asn": 150302,
+  "handle": "FENICYBERLINK-AP",
+  "description": "Feni Cyber Link",
+  "subnets": {
+    "ipv4": [
+      "103.217.98.0/23"
+    ],
+    "ipv6": []
+  }
+}

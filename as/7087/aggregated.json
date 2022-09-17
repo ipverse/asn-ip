@@ -3,7 +3,9 @@
   "handle": "ADMINISTRACIN-REDES-COLOMSAT",
   "description": "Administracin de Redes Colomsat S.A.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "200.52.144.0/20"
+    ],
     "ipv6": []
   }
 }

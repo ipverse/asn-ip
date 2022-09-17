@@ -1,4 +1,5 @@
 # AS267033 (SERRASUL-TELECOM)
 # serrasul telecom ltda
 #
-2804:4720::/32
+2804:4720::/40
+2804:4720:8000::/39

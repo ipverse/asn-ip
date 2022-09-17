@@ -4,6 +4,7 @@
   "description": "DevAndHost SL",
   "subnets": {
     "ipv4": [
+      "38.52.180.0/22",
       "185.251.14.0/24"
     ],
     "ipv6": []
