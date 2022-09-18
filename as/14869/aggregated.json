@@ -4,7 +4,6 @@
   "description": "Union Springs Telephone Company",
   "subnets": {
     "ipv4": [
-      "65.110.60.0/22",
       "104.244.144.0/21"
     ],
     "ipv6": []

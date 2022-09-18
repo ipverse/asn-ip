@@ -4,8 +4,7 @@
   "description": "Barahi Internet Technologies Pvt. Ltd.",
   "subnets": {
     "ipv4": [
-      "103.137.200.0/23",
-      "103.137.202.0/24"
+      "103.137.200.0/22"
     ],
     "ipv6": []
   }

@@ -3,7 +3,9 @@
   "handle": "EWSDSNETWORKSINC-AP",
   "description": "EWS DS Networks Inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.186.138.0/23"
+    ],
     "ipv6": []
   }
 }

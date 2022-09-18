@@ -3,7 +3,10 @@
   "handle": "HIPERLINEAS",
   "description": "HiperLine LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "31.41.32.0/24",
+      "146.19.59.0/24"
+    ],
     "ipv6": []
   }
 }

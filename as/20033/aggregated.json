@@ -3,13 +3,7 @@
   "handle": "NOAA-NCDC",
   "description": "National Climatic Data Center",
   "subnets": {
-    "ipv4": [
-      "192.67.134.0/24",
-      "192.153.129.0/24",
-      "205.167.24.0/23"
-    ],
-    "ipv6": [
-      "2610:20:8040::/44"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

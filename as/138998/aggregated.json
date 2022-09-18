@@ -1,0 +1,11 @@
+{
+  "asn": 138998,
+  "handle": "HPLINKINTERNET-AP",
+  "description": "HPLink",
+  "subnets": {
+    "ipv4": [
+      "103.7.4.0/24"
+    ],
+    "ipv6": []
+  }
+}

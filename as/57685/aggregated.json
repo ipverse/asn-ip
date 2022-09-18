@@ -3,11 +3,7 @@
   "handle": "TRANS-IX-CONNECT",
   "description": "Webfra B.V.",
   "subnets": {
-    "ipv4": [
-      "91.199.219.0/24"
-    ],
-    "ipv6": [
-      "2a06:4a80::/32"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }
