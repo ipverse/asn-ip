@@ -1,0 +1,11 @@
+{
+  "asn": 150316,
+  "handle": "PRNETWORK-AP",
+  "description": "PR Network",
+  "subnets": {
+    "ipv4": [
+      "103.5.216.0/23"
+    ],
+    "ipv6": []
+  }
+}

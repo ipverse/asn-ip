@@ -3,9 +3,7 @@
   "handle": "NIS-AP",
   "description": "Netcom Internet Service",
   "subnets": {
-    "ipv4": [
-      "103.159.72.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

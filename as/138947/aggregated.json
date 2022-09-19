@@ -3,7 +3,9 @@
   "handle": "NTC-APC",
   "description": "NORTHERN TRUST CORPORATION",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.124.128.0/22"
+    ],
     "ipv6": []
   }
 }

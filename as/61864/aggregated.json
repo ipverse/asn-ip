@@ -3,7 +3,9 @@
   "handle": "NETVISION-TELECOM",
   "description": "NETVISION TELECOM LTDA - ME",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "201.148.160.0/22"
+    ],
     "ipv6": []
   }
 }

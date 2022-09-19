@@ -3,7 +3,9 @@
   "handle": "DRS-TECNOLOGIA",
   "description": "DRS Tecnologia",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.191.200.0/22"
+    ],
     "ipv6": []
   }
 }
