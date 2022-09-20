@@ -4,6 +4,7 @@
   "description": "VD NETWORKS INDIA PVT LTD",
   "subnets": {
     "ipv4": [
+      "103.25.164.0/24",
       "103.182.153.0/24"
     ],
     "ipv6": []

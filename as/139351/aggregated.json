@@ -3,9 +3,7 @@
   "handle": "AERONET-AP",
   "description": "AERO COMMUNICATIONS BROADBAND PVT. LTD",
   "subnets": {
-    "ipv4": [
-      "103.141.158.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

@@ -4,7 +4,8 @@
   "description": "GoldKey Corporation",
   "subnets": {
     "ipv4": [
-      "172.85.76.0/22"
+      "172.85.76.0/23",
+      "172.85.78.0/24"
     ],
     "ipv6": []
   }

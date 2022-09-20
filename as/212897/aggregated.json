@@ -1,11 +1,10 @@
 {
   "asn": 212897,
-  "handle": "ANNATELECOM",
-  "description": "DevAndHost SL",
+  "handle": "RESERVED",
+  "description": "RIPE NCC ASN block",
   "subnets": {
     "ipv4": [
-      "38.52.180.0/22",
-      "185.251.14.0/24"
+      "38.52.180.0/22"
     ],
     "ipv6": []
   }

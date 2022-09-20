@@ -1,0 +1,14 @@
+{
+  "asn": 147038,
+  "handle": "CHINANET-QINGYANG-IDC",
+  "description": "China Telecom",
+  "subnets": {
+    "ipv4": [
+      "60.164.36.0/23"
+    ],
+    "ipv6": [
+      "240e:8:1200::/47",
+      "240e:8:1204::/47"
+    ]
+  }
+}

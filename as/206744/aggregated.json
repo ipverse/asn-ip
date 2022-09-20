@@ -3,7 +3,9 @@
   "handle": "SISTEME-COLO",
   "description": "SC ITNS.NET SRL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.86.17.0/24"
+    ],
     "ipv6": []
   }
 }

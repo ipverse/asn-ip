@@ -3,7 +3,9 @@
   "handle": "TALLEYINC",
   "description": "Talley Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "65.241.4.0/24"
+    ],
     "ipv6": []
   }
 }

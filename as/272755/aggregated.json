@@ -4,6 +4,8 @@
   "description": "Nova Net RN",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2804:882c::/32"
+    ]
   }
 }

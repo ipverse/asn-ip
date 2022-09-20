@@ -3,11 +3,7 @@
   "handle": "NEOLANE-INC",
   "description": "Adobe Inc.",
   "subnets": {
-    "ipv4": [
-      "192.161.136.0/23"
-    ],
-    "ipv6": [
-      "2a03:ad40:420::/48"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }
