@@ -1,0 +1,11 @@
+{
+  "asn": 150315,
+  "handle": "VIRTURY-AP",
+  "description": "saidu polytechnic college of sciences",
+  "subnets": {
+    "ipv4": [
+      "103.151.111.0/24"
+    ],
+    "ipv6": []
+  }
+}

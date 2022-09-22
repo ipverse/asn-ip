@@ -1,0 +1,11 @@
+{
+  "asn": 271818,
+  "handle": "INSTITUTO-NACIONAL-SALUD",
+  "description": "INSTITUTO NACIONAL DE SALUD",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2801:12:100::/44"
+    ]
+  }
+}

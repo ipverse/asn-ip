@@ -3,9 +3,7 @@
   "handle": "WSN-TW-NET",
   "description": "Worldstar Network 2F, No 9, Aly 77, Ln 100, Fulin Road, Shilin Dist., Taipei Taiwan 111",
   "subnets": {
-    "ipv4": [
-      "43.251.57.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

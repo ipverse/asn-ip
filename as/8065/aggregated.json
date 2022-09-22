@@ -3,13 +3,7 @@
   "handle": "EPM-TELECOMUNICACIONES",
   "description": "EPM Telecomunicaciones S.A. E.S.P.",
   "subnets": {
-    "ipv4": [
-      "181.129.0.0/16",
-      "181.143.0.0/16",
-      "181.204.0.0/16",
-      "190.71.0.0/16",
-      "200.116.192.0/18"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

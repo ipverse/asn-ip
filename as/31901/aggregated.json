@@ -3,9 +3,7 @@
   "handle": "JOHNSON-COUNTY-LIBRARY",
   "description": "Johnson County Library",
   "subnets": {
-    "ipv4": [
-      "67.135.148.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

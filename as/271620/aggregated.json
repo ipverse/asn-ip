@@ -3,7 +3,9 @@
   "handle": "PORTONET-SERVICOS-TELECOMUNICAO",
   "description": "Portonet Servicos de Telecomunicao Ltda",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "186.216.7.0/24"
+    ],
     "ipv6": [
       "2804:7e60::/32"
     ]

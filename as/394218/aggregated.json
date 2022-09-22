@@ -4,6 +4,7 @@
   "description": "VXI Global Solutions, LLC",
   "subnets": {
     "ipv4": [
+      "74.80.217.0/24",
       "74.80.221.0/24"
     ],
     "ipv6": []

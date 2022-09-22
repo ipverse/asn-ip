@@ -3,7 +3,9 @@
   "handle": "A2Z",
   "description": "A2Z TELECOMUNICACIONES, S.L.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "89.37.80.0/22"
+    ],
     "ipv6": []
   }
 }

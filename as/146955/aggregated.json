@@ -3,9 +3,7 @@
   "handle": "FLAMENETWORKS1-AP",
   "description": "Flame Networks Private Limited",
   "subnets": {
-    "ipv4": [
-      "103.151.111.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

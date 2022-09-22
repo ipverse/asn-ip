@@ -3,7 +3,10 @@
   "handle": "SNI-TELECOM",
   "description": "SNI Telecom",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "170.80.216.0/22",
+      "177.86.240.0/22"
+    ],
     "ipv6": []
   }
 }

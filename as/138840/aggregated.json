@@ -3,10 +3,7 @@
   "handle": "HSP-NAP-ID",
   "description": "PT. PARSAORAN GLOBAL DATATRANS - NAP",
   "subnets": {
-    "ipv4": [
-      "103.134.184.0/24",
-      "103.139.162.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

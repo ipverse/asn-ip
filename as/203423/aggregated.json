@@ -1,0 +1,12 @@
+{
+  "asn": 203423,
+  "handle": "FISHPORT-NETWORK",
+  "description": "FISHPORT NETWORK INC.",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2400:70e0:3420::/47",
+      "2400:70e0:3422::/48"
+    ]
+  }
+}

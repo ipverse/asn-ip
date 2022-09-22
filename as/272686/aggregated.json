@@ -3,7 +3,9 @@
   "handle": "J-R-BARBOSA-NETO",
   "description": "J R BARBOSA NETO",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "154.6.150.0/24"
+    ],
     "ipv6": [
       "2804:8714::/32"
     ]
