@@ -3,7 +3,11 @@
   "handle": "D-M-R-MENESES-EIRELI",
   "description": "D. M. R. DE MENESES EIRELI - ME",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "167.250.164.0/22"
+    ],
+    "ipv6": [
+      "2804:2cfc::/32"
+    ]
   }
 }

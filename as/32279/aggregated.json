@@ -4,6 +4,8 @@
   "description": "University of Botswana",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2001:43f8:2a0::/48"
+    ]
   }
 }

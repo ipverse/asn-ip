@@ -3,7 +3,11 @@
   "handle": "WBD",
   "description": "HBO Europe s.r.o.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "157.166.64.0/24"
+    ],
+    "ipv6": [
+      "2a12:b40:1::/48"
+    ]
   }
 }

@@ -4,7 +4,8 @@
   "description": "HubFlake Solutions SRL",
   "subnets": {
     "ipv4": [
-      "74.119.149.0/24"
+      "74.119.149.0/24",
+      "193.38.53.0/24"
     ],
     "ipv6": [
       "2602:fbcf:b1::/48",

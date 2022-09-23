@@ -4,6 +4,7 @@
   "description": "Kuroit Limited",
   "subnets": {
     "ipv4": [
+      "152.89.171.0/24",
       "193.176.28.0/24"
     ],
     "ipv6": [

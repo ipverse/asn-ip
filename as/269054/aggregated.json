@@ -3,7 +3,9 @@
   "handle": "JOAO-MARCOS-MAURICIO",
   "description": "JOAO MARCOS E MAURICIO BORGES LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.178.226.0/23"
+    ],
     "ipv6": []
   }
 }

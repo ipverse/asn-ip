@@ -1,0 +1,11 @@
+{
+  "asn": 45021,
+  "handle": "NODL",
+  "description": "BIP21 SAS",
+  "subnets": {
+    "ipv4": [
+      "86.104.228.0/24"
+    ],
+    "ipv6": []
+  }
+}

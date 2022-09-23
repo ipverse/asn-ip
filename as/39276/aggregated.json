@@ -3,7 +3,9 @@
   "handle": "BLUESCREEN",
   "description": "Blue Screen SRL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.238.91.0/24"
+    ],
     "ipv6": []
   }
 }
