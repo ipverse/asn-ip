@@ -3,9 +3,7 @@
   "handle": "ITHS-ASN-002",
   "description": "IT Hosting Services, LLC.",
   "subnets": {
-    "ipv4": [
-      "165.254.199.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

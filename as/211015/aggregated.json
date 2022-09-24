@@ -3,7 +3,9 @@
   "handle": "HO-LECN-DC02",
   "description": "UK Home Office (The Secretary of State for the Home Department)",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "51.64.255.0/24"
+    ],
     "ipv6": []
   }
 }

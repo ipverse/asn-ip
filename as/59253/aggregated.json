@@ -4,6 +4,7 @@
   "description": "Leaseweb Asia Pacific pte. ltd.",
   "subnets": {
     "ipv4": [
+      "23.106.48.0/21",
       "23.106.64.0/20",
       "23.106.120.0/21",
       "23.106.248.0/21",

@@ -3,9 +3,7 @@
   "handle": "G4NET-PROVEDORES",
   "description": "G4net provedores ltda ME",
   "subnets": {
-    "ipv4": [
-      "45.239.140.0/22"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

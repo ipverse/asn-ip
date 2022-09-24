@@ -3,7 +3,9 @@
   "handle": "NZ-NETWORK-AP",
   "description": "HostUS Solutions LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "154.16.66.0/24"
+    ],
     "ipv6": []
   }
 }

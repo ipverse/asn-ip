@@ -3,7 +3,9 @@
   "handle": "HHXYTC-AP",
   "description": "haoxiangyun",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "176.65.136.0/24"
+    ],
     "ipv6": []
   }
 }

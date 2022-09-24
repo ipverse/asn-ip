@@ -1,0 +1,13 @@
+{
+  "asn": 206447,
+  "handle": "LLHOST-IX",
+  "description": "LLHost Inc",
+  "subnets": {
+    "ipv4": [
+      "185.37.8.0/24"
+    ],
+    "ipv6": [
+      "2a10:c947::/32"
+    ]
+  }
+}

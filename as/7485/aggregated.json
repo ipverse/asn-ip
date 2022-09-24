@@ -1,0 +1,11 @@
+{
+  "asn": 7485,
+  "handle": "SAMART-AMI",
+  "description": "Samart Infonet Co., Ltd.",
+  "subnets": {
+    "ipv4": [
+      "210.246.198.0/23"
+    ],
+    "ipv6": []
+  }
+}

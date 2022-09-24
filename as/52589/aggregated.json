@@ -4,8 +4,10 @@
   "description": "MULTLINK TELECOM",
   "subnets": {
     "ipv4": [
-      "177.87.47.0/24"
+      "177.87.44.0/22"
     ],
-    "ipv6": []
+    "ipv6": [
+      "2804:1ad8::/32"
+    ]
   }
 }
