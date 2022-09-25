@@ -4,7 +4,8 @@
   "description": "VISALINK SERVICOS DE COMUNICACAO LTDA. - ME",
   "subnets": {
     "ipv4": [
-      "177.87.108.0/22"
+      "177.87.108.0/23",
+      "177.87.110.0/24"
     ],
     "ipv6": []
   }

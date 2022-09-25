@@ -3,9 +3,7 @@
   "handle": "SERVICIO-INGENIERIA-GOSUR-SPA",
   "description": "SERVICIO DE INGENIERIA GOSUR SPA",
   "subnets": {
-    "ipv4": [
-      "207.248.3.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

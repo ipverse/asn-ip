@@ -4,6 +4,8 @@
   "description": "OGUN BAYRAKTAR trading as OZBAY BILISIM INTERNET HIZMETLERI",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a0c:b641:e0::/44"
+    ]
   }
 }

@@ -4,6 +4,7 @@
   "description": "HTTVSERVER TECHNOLOGY COMPANY LIMITED",
   "subnets": {
     "ipv4": [
+      "103.6.248.0/23",
       "103.170.120.0/23",
       "103.180.132.0/22",
       "103.182.16.0/23",

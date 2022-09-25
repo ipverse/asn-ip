@@ -4,6 +4,7 @@
   "description": "CONEXAO SERVICOS DE COMUNICACAO MULTIMIDIA LTDA-ME",
   "subnets": {
     "ipv4": [
+      "138.121.220.0/22",
       "186.219.144.0/20"
     ],
     "ipv6": [
