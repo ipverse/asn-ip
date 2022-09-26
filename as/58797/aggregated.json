@@ -3,9 +3,7 @@
   "handle": "CARPATHIAHOSTING-HK",
   "description": "Carpathia Hosting",
   "subnets": {
-    "ipv4": [
-      "103.245.31.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

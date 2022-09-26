@@ -3,7 +3,9 @@
   "handle": "AGRO-ID",
   "description": "Agency for Animal Identification and Registration",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.12.11.0/24"
+    ],
     "ipv6": []
   }
 }

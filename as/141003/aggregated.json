@@ -3,11 +3,7 @@
   "handle": "JONEYCABLENETWORK-AP",
   "description": "Jony Cable Network",
   "subnets": {
-    "ipv4": [
-      "103.154.188.0/23"
-    ],
-    "ipv6": [
-      "2001:df6:f680::/48"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }
