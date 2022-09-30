@@ -3,10 +3,7 @@
   "handle": "JSEPHTON",
   "description": "Jack Sephton",
   "subnets": {
-    "ipv4": [
-      "195.114.15.0/24",
-      "195.114.126.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

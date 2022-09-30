@@ -3,7 +3,9 @@
   "handle": "NEXTHOP-ANYCAST",
   "description": "Nexthop AS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "176.110.116.0/23"
+    ],
     "ipv6": []
   }
 }

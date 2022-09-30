@@ -1,0 +1,11 @@
+{
+  "asn": 150319,
+  "handle": "HBCT-AP",
+  "description": "HOMENET BROADBAND COMMUNICATION AND TECHNOLOGIES",
+  "subnets": {
+    "ipv4": [
+      "103.10.194.0/23"
+    ],
+    "ipv6": []
+  }
+}

@@ -3,7 +3,9 @@
   "handle": "HAMS-AP",
   "description": "HAMS Garments Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.140.95.0/24"
+    ],
     "ipv6": []
   }
 }

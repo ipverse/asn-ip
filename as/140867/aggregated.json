@@ -4,6 +4,7 @@
   "description": "International gateway co., Ltd",
   "subnets": {
     "ipv4": [
+      "103.113.45.0/24",
       "103.113.46.0/23"
     ],
     "ipv6": [

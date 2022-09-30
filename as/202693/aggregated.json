@@ -1,0 +1,12 @@
+{
+  "asn": 202693,
+  "handle": "MOSEL",
+  "description": "Erik Marc Schneider trading as mosel.cloud",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a06:c640::/31",
+      "2a06:c642::/32"
+    ]
+  }
+}

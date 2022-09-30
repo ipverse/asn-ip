@@ -3,7 +3,10 @@
   "handle": "ASNET",
   "description": "Baxet Group Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.149.222.0/23",
+      "91.149.232.0/23"
+    ],
     "ipv6": [
       "2605:e440:1::/48"
     ]

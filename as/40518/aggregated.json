@@ -3,7 +3,9 @@
   "handle": "MANOR-CARE",
   "description": "HCR Manorcare",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "206.82.164.0/22"
+    ],
     "ipv6": []
   }
 }

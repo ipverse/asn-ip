@@ -4,6 +4,7 @@
   "description": "Kryon Management S.R.L.",
   "subnets": {
     "ipv4": [
+      "194.102.41.0/24",
       "194.187.20.0/22"
     ],
     "ipv6": []

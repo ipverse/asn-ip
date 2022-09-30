@@ -3,7 +3,9 @@
   "handle": "EM-IT",
   "description": "Michael Gamsjaeger PE",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.66.91.0/24"
+    ],
     "ipv6": []
   }
 }
