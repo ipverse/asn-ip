@@ -3,11 +3,7 @@
   "handle": "ETDA",
   "description": "Electronic Transactions Development Agency",
   "subnets": {
-    "ipv4": [
-      "203.113.21.0/24"
-    ],
-    "ipv6": [
-      "2402:c980:141::/48"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

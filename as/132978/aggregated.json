@@ -4,7 +4,8 @@
   "description": "Airline Internet Solutions India Private Limited",
   "subnets": {
     "ipv4": [
-      "103.104.108.0/22"
+      "103.104.108.0/22",
+      "103.170.156.0/24"
     ],
     "ipv6": []
   }

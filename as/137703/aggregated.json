@@ -4,7 +4,8 @@
   "description": "Noakhali Broadband Network",
   "subnets": {
     "ipv4": [
-      "103.113.192.0/22"
+      "103.113.192.0/22",
+      "103.133.210.0/24"
     ],
     "ipv6": [
       "2404:5e40::/47",
