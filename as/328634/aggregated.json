@@ -3,7 +3,9 @@
   "handle": "FINANCE-TRUST-BANK",
   "description": "FINANCE TRUST BANK LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "102.223.248.0/24"
+    ],
     "ipv6": []
   }
 }

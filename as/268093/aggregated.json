@@ -3,11 +3,7 @@
   "handle": "L-F-AMARAL-EIRELI",
   "description": "L F DO AMARAL EIRELI ME",
   "subnets": {
-    "ipv4": [
-      "45.169.28.0/22"
-    ],
-    "ipv6": [
-      "2804:57e4::/32"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

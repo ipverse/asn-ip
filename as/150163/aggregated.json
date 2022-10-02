@@ -3,7 +3,9 @@
   "handle": "CSG-AP",
   "description": "CSG Systems International INC.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.20.244.0/24"
+    ],
     "ipv6": []
   }
 }

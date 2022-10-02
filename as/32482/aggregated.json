@@ -4,6 +4,8 @@
   "description": "Bandwidth Inc.",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2605:7840:2000::/36"
+    ]
   }
 }

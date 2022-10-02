@@ -3,9 +3,7 @@
   "handle": "CLOUDIE",
   "description": "Cloudie Networks Limited",
   "subnets": {
-    "ipv4": [
-      "23.134.88.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

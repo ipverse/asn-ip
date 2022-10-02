@@ -4,6 +4,9 @@
   "description": "Robin CRETIN",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2001:67c:8f4::/48",
+      "2a0c:b641:660::/44"
+    ]
   }
 }

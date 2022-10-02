@@ -3,7 +3,9 @@
   "handle": "SUISSE",
   "description": "Suisse Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.169.175.0/24"
+    ],
     "ipv6": []
   }
 }

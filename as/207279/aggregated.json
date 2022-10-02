@@ -1,0 +1,13 @@
+{
+  "asn": 207279,
+  "handle": "MARKAHOST-TELEKOMUNIKASYON-LIMITED-SIRKETI",
+  "description": "MARKAHOST TELEKOMUNIKASYON VE TICARET LIMITED SIRKETI",
+  "subnets": {
+    "ipv4": [
+      "45.143.99.0/24",
+      "78.135.87.0/24",
+      "213.238.182.0/24"
+    ],
+    "ipv6": []
+  }
+}
