@@ -3,12 +3,9 @@
   "handle": "GCHUNG",
   "description": "Guhyun Chung",
   "subnets": {
-    "ipv4": [
-      "38.117.93.0/24"
-    ],
+    "ipv4": [],
     "ipv6": [
-      "2602:fd50:fab::/48",
-      "2602:fd50:fac::/48"
+      "2602:fd50:fab::/48"
     ]
   }
 }

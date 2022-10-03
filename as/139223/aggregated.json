@@ -4,7 +4,8 @@
   "description": "NTECH COMMUNICATION",
   "subnets": {
     "ipv4": [
-      "103.139.253.0/24"
+      "103.139.253.0/24",
+      "103.175.127.0/24"
     ],
     "ipv6": []
   }

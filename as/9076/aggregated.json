@@ -3,7 +3,10 @@
   "handle": "INIT",
   "description": "PA EVOLUTION S.R.L.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "212.104.0.0/19",
+      "212.104.32.0/20"
+    ],
     "ipv6": []
   }
 }

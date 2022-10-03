@@ -3,7 +3,9 @@
   "handle": "IR-ASSOFMAR",
   "description": "Association of Martyrs and Veterans",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.199.64.0/22"
+    ],
     "ipv6": []
   }
 }

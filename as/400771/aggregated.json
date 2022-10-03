@@ -1,0 +1,11 @@
+{
+  "asn": 400771,
+  "handle": "CODEHOF",
+  "description": "Codehof LLC",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2620:b0:2000::/48"
+    ]
+  }
+}

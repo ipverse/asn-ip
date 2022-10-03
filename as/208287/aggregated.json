@@ -3,7 +3,9 @@
   "handle": "DCHOST",
   "description": "DC Host INC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "31.210.39.0/24"
+    ],
     "ipv6": []
   }
 }
