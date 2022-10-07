@@ -3,7 +3,9 @@
   "handle": "KUXONET",
   "description": "Kuxo Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.155.235.0/24"
+    ],
     "ipv6": []
   }
 }

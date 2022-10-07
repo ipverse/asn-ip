@@ -3,7 +3,9 @@
   "handle": "SMKTG",
   "description": "Universal Furniture International Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "66.194.125.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -4,7 +4,8 @@
   "description": "AIRTIME TECHNOLOGY SRL",
   "subnets": {
     "ipv4": [
-      "181.232.190.0/24"
+      "181.232.190.0/24",
+      "191.96.164.0/24"
     ],
     "ipv6": []
   }

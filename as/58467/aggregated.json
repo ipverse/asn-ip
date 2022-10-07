@@ -3,9 +3,7 @@
   "handle": "LAHORESTOCKEXCHANGE",
   "description": "Brain NET",
   "subnets": {
-    "ipv4": [
-      "203.128.10.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

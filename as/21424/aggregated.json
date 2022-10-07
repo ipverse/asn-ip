@@ -3,10 +3,7 @@
   "handle": "ING-BELGIUM",
   "description": "ING Belgium NV",
   "subnets": {
-    "ipv4": [
-      "193.58.128.0/23",
-      "193.178.209.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

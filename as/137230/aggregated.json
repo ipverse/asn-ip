@@ -3,7 +3,9 @@
   "handle": "MRL-AP",
   "description": "Mineral Resources Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.167.67.0/24"
+    ],
     "ipv6": []
   }
 }

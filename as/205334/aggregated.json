@@ -4,7 +4,8 @@
   "description": "FIBERPLUS COMUNICATIONS, SL",
   "subnets": {
     "ipv4": [
-      "185.193.172.0/22"
+      "185.193.172.0/22",
+      "185.211.41.0/24"
     ],
     "ipv6": []
   }

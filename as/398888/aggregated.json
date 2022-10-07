@@ -4,6 +4,7 @@
   "description": "Rapid Wireless, LLC",
   "subnets": {
     "ipv4": [
+      "128.254.220.0/24",
       "163.123.216.0/24"
     ],
     "ipv6": []
