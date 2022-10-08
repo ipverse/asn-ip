@@ -3,7 +3,9 @@
   "handle": "NAKUMATT-HOLDINGS",
   "description": "Nakumatt Holdings Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "196.41.91.0/24"
+    ],
     "ipv6": []
   }
 }

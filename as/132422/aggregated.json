@@ -3,13 +3,7 @@
   "handle": "TELECOM-HK",
   "description": "Hong Kong Business Telecom Limited",
   "subnets": {
-    "ipv4": [
-      "45.121.212.0/22",
-      "154.38.64.0/20",
-      "155.235.232.0/21",
-      "155.235.240.0/22",
-      "160.181.160.0/19"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

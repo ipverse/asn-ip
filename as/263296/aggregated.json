@@ -3,7 +3,9 @@
   "handle": "INTERFACIL-INTERNET-PROVIDER",
   "description": "Interfacil - Internet Provider",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "170.150.81.0/24"
+    ],
     "ipv6": []
   }
 }

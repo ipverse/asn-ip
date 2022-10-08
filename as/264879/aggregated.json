@@ -4,8 +4,7 @@
   "description": "Nova Internet e Tecnologia Ltda Me",
   "subnets": {
     "ipv4": [
-      "168.227.124.0/24",
-      "168.227.126.0/23"
+      "168.227.124.0/22"
     ],
     "ipv6": [
       "2804:2f3c::/32"

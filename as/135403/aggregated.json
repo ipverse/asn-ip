@@ -1,0 +1,11 @@
+{
+  "asn": 135403,
+  "handle": "AUCKLANDTRANSPORT-AP",
+  "description": "Auckland Transport",
+  "subnets": {
+    "ipv4": [
+      "103.180.48.0/24"
+    ],
+    "ipv6": []
+  }
+}
