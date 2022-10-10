@@ -4,6 +4,7 @@
   "description": "NETCOM PLUS, C.A",
   "subnets": {
     "ipv4": [
+      "45.158.170.0/23",
       "45.182.140.0/23"
     ],
     "ipv6": [
