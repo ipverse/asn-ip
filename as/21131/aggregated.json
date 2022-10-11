@@ -3,9 +3,7 @@
   "handle": "SACURA",
   "description": "TOV Unitrade Pro",
   "subnets": {
-    "ipv4": [
-      "193.34.60.0/22"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

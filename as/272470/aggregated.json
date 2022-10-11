@@ -3,7 +3,9 @@
   "handle": "ISABELA-SOUSA-ROCHA",
   "description": "Isabela Sousa Rocha Brito lemes",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "191.101.135.0/24"
+    ],
     "ipv6": [
       "2804:81b0::/32"
     ]

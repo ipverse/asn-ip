@@ -4,7 +4,8 @@
   "description": "Commonwealth Bank of Australia",
   "subnets": {
     "ipv4": [
-      "103.81.102.0/24"
+      "103.81.102.0/24",
+      "140.168.243.0/24"
     ],
     "ipv6": []
   }

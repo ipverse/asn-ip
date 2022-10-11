@@ -4,7 +4,6 @@
   "description": "Andhra Bank",
   "subnets": {
     "ipv4": [
-      "103.98.54.0/24",
       "103.196.117.0/24"
     ],
     "ipv6": []

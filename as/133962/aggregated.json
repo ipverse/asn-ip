@@ -1,0 +1,11 @@
+{
+  "asn": 133962,
+  "handle": "LIMRASERONET-IN",
+  "description": "limras eronet broadband service private limited",
+  "subnets": {
+    "ipv4": [
+      "103.191.26.0/24"
+    ],
+    "ipv6": []
+  }
+}

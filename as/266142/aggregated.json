@@ -4,6 +4,7 @@
   "description": "Bahiadados Telecom Ltda.",
   "subnets": {
     "ipv4": [
+      "45.189.32.0/24",
       "186.65.104.0/22"
     ],
     "ipv6": [

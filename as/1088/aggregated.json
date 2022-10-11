@@ -1,0 +1,11 @@
+{
+  "asn": 1088,
+  "handle": "FASTBRIDGE-FIBER-RDNG-PA-01",
+  "description": "FastBridge Fiber",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2606:ea40::/32"
+    ]
+  }
+}

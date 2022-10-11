@@ -3,7 +3,9 @@
   "handle": "WFLARE-LTD",
   "description": "wFlareLTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "23.138.232.0/24"
+    ],
     "ipv6": [
       "2a12:dd47:8270::/44"
     ]

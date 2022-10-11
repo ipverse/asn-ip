@@ -4,8 +4,7 @@
   "description": "UP CONECT PROVEDOR LTDA",
   "subnets": {
     "ipv4": [
-      "201.77.4.0/23",
-      "201.77.6.0/24"
+      "201.77.4.0/22"
     ],
     "ipv6": [
       "2804:7028::/32"

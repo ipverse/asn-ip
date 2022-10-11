@@ -1,0 +1,11 @@
+{
+  "asn": 138233,
+  "handle": "PROTON-IN",
+  "description": "Proton Internet Llp",
+  "subnets": {
+    "ipv4": [
+      "103.181.200.0/24"
+    ],
+    "ipv6": []
+  }
+}

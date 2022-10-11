@@ -3,9 +3,7 @@
   "handle": "KOMPAS-ID",
   "description": "PT Kompas Cyber Media",
   "subnets": {
-    "ipv4": [
-      "202.61.112.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

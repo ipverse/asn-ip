@@ -1,0 +1,12 @@
+{
+  "asn": 150353,
+  "handle": "BRAINTELCO-AP",
+  "description": "Brain NET",
+  "subnets": {
+    "ipv4": [
+      "122.129.86.0/24",
+      "203.128.20.0/24"
+    ],
+    "ipv6": []
+  }
+}

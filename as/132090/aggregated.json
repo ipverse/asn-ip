@@ -3,7 +3,9 @@
   "handle": "MSPL-AP",
   "description": "Mify Solutions Pvt. Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "202.148.52.0/24"
+    ],
     "ipv6": []
   }
 }
