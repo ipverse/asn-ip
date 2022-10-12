@@ -1,0 +1,11 @@
+{
+  "asn": 50902,
+  "handle": "DNS0EU",
+  "description": "DNS0.EU A.D.",
+  "subnets": {
+    "ipv4": [
+      "193.110.81.0/24"
+    ],
+    "ipv6": []
+  }
+}

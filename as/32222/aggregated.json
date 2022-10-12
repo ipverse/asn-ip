@@ -4,7 +4,8 @@
   "description": "AccessLine Communications Corp.",
   "subnets": {
     "ipv4": [
-      "64.28.121.0/24"
+      "64.28.121.0/24",
+      "72.53.173.0/24"
     ],
     "ipv6": []
   }

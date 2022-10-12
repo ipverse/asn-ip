@@ -3,9 +3,7 @@
   "handle": "LUMETA-SOM-NJ",
   "description": "Lumeta Corp",
   "subnets": {
-    "ipv4": [
-      "65.246.240.0/21"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

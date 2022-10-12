@@ -3,7 +3,9 @@
   "handle": "I-TOWER-ISP",
   "description": "Information Tower Company for General Trading and Information Technology / Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.134.242.0/24"
+    ],
     "ipv6": []
   }
 }

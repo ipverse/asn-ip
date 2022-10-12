@@ -1,9 +1,12 @@
 {
   "asn": 205663,
-  "handle": "LCMTELECOM",
-  "description": "LA COMARCA MADRID TELECOM S.L.",
+  "handle": "ISOFONE-COMMUNICATIONS",
+  "description": "Isofone Communications LLC",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2602:fd92:cd1::/48",
+      "2602:fd92:cd2::/47"
+    ]
   }
 }

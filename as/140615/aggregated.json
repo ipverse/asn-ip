@@ -1,0 +1,11 @@
+{
+  "asn": 140615,
+  "handle": "HONGLEONGBANK-AP",
+  "description": "Hong Leong Bank Berhad",
+  "subnets": {
+    "ipv4": [
+      "103.151.3.0/24"
+    ],
+    "ipv6": []
+  }
+}
