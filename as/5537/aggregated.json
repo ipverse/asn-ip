@@ -4,8 +4,6 @@
   "description": "JSC RU-CENTER",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2a01:d8::/32"
-    ]
+    "ipv6": []
   }
 }

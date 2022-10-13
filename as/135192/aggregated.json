@@ -3,7 +3,11 @@
   "handle": "RVCPREM",
   "description": "Rv Broadband Services Pvt Ltd",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "103.218.132.0/22"
+    ],
+    "ipv6": [
+      "2001:df5:dd80::/48"
+    ]
   }
 }

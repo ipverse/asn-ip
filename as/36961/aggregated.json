@@ -4,8 +4,7 @@
   "description": "Broadband Home Limited",
   "subnets": {
     "ipv4": [
-      "41.202.0.0/19",
-      "197.148.224.0/19"
+      "41.202.0.0/19"
     ],
     "ipv6": []
   }

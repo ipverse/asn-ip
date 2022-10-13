@@ -1,0 +1,11 @@
+{
+  "asn": 135174,
+  "handle": "ESHOP-IN",
+  "description": "e-Shop",
+  "subnets": {
+    "ipv4": [
+      "103.216.91.0/24"
+    ],
+    "ipv6": []
+  }
+}

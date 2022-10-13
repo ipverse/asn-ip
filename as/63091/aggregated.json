@@ -3,9 +3,7 @@
   "handle": "H3BIO",
   "description": "H3 Biomedicine Inc",
   "subnets": {
-    "ipv4": [
-      "192.65.138.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

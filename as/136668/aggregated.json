@@ -3,7 +3,9 @@
   "handle": "IANA-IN",
   "description": "Iana Solutions Digital India",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.157.52.0/23"
+    ],
     "ipv6": []
   }
 }

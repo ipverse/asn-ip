@@ -3,7 +3,9 @@
   "handle": "TRX-NET-SERVICOS",
   "description": "TRX NET SERVICOS DE COMUNICACAO MULTIMIDIA EIRELI",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "177.124.80.0/22"
+    ],
     "ipv6": []
   }
 }
