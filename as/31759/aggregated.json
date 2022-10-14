@@ -4,6 +4,7 @@
   "description": "La Rabida Hospital",
   "subnets": {
     "ipv4": [
+      "68.255.42.0/24",
       "68.255.128.0/24"
     ],
     "ipv6": []

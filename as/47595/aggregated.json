@@ -3,12 +3,7 @@
   "handle": "ZAO-RU-NIC",
   "description": "JSC RU-CENTER",
   "subnets": {
-    "ipv4": [
-      "31.177.86.0/23"
-    ],
-    "ipv6": [
-      "2a02:2090:9800::/48",
-      "2a02:2090:a800::/48"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

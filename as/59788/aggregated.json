@@ -3,7 +3,9 @@
   "handle": "NORTHLAYER-AS1",
   "description": "Northlayer ehf",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.44.82.0/24"
+    ],
     "ipv6": []
   }
 }

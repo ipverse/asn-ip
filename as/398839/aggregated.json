@@ -1,10 +1,11 @@
 {
   "asn": 398839,
-  "handle": "ALLIANCE-TELECOM",
+  "handle": "ALLIANCE-TELECOM-CA",
   "description": "Alliance Telecom",
   "subnets": {
     "ipv4": [
-      "208.93.164.0/23"
+      "208.93.164.0/23",
+      "208.93.166.0/24"
     ],
     "ipv6": []
   }

@@ -4,8 +4,7 @@
   "description": "Sai Sri Technologies (OPC) Private Limited",
   "subnets": {
     "ipv4": [
-      "103.165.95.0/24",
-      "157.240.157.0/24"
+      "103.165.95.0/24"
     ],
     "ipv6": [
       "2407:48c0::/32"

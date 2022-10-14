@@ -4,7 +4,8 @@
   "description": "VERITA NETWORKS SOCIEDAD LIMITADA",
   "subnets": {
     "ipv4": [
-      "45.132.2.0/24"
+      "45.132.2.0/24",
+      "193.111.211.0/24"
     ],
     "ipv6": []
   }

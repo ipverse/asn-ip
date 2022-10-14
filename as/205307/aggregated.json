@@ -1,0 +1,11 @@
+{
+  "asn": 205307,
+  "handle": "PRIVATE-MOBILITY",
+  "description": "PM Factory BV",
+  "subnets": {
+    "ipv4": [
+      "82.150.146.0/24"
+    ],
+    "ipv6": []
+  }
+}

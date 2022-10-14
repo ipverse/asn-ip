@@ -3,7 +3,9 @@
   "handle": "IDLE2-IN",
   "description": "IDLE ANTS MEDIA PRIVATE LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.240.146.0/23"
+    ],
     "ipv6": []
   }
 }

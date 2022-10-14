@@ -4,7 +4,8 @@
   "description": "Minjun Kang trading as CLOUDSQUARE",
   "subnets": {
     "ipv4": [
-      "45.11.184.0/24"
+      "45.11.184.0/24",
+      "199.48.178.0/24"
     ],
     "ipv6": []
   }

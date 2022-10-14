@@ -1,0 +1,12 @@
+{
+  "asn": 36894,
+  "handle": "GOC",
+  "description": "National Computer Board",
+  "subnets": {
+    "ipv4": [
+      "102.140.176.0/20",
+      "196.13.125.0/24"
+    ],
+    "ipv6": []
+  }
+}

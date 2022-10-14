@@ -4,8 +4,6 @@
   "description": "PE Computer Systems and Networks",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2a02:128:5::/48"
-    ]
+    "ipv6": []
   }
 }

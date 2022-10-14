@@ -4,8 +4,6 @@
   "description": "CJSC Digital Design",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2001:67c:19f0::/48"
-    ]
+    "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "ANDERSON-ALCANTARA-DOS",
   "description": "ANDERSON ALCANTARA DOS DOS SANTOS EIRELI",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "168.232.128.0/22"
+    ],
     "ipv6": []
   }
 }

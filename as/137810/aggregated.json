@@ -4,7 +4,6 @@
   "description": "Adel Online",
   "subnets": {
     "ipv4": [
-      "103.114.99.0/24",
       "103.138.24.0/24"
     ],
     "ipv6": []

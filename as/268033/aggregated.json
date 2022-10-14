@@ -3,7 +3,9 @@
   "handle": "AVI-SOLUES",
   "description": "Avi Solues",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.166.200.0/22"
+    ],
     "ipv6": []
   }
 }
