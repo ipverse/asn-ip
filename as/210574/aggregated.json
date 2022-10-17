@@ -4,6 +4,7 @@
   "description": "YUNUS EMRE ATILGAN POYRAZ HOSTING",
   "subnets": {
     "ipv4": [
+      "5.180.81.0/24",
       "46.37.99.0/24",
       "109.122.196.0/24",
       "141.98.112.0/24",

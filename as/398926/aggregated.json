@@ -3,7 +3,9 @@
   "handle": "SCCC-01",
   "description": "St. Charles Community College",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "163.123.227.0/24"
+    ],
     "ipv6": []
   }
 }

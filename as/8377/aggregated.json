@@ -3,7 +3,9 @@
   "handle": "PETERLINK",
   "description": "Awanti Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.242.0.0/19"
+    ],
     "ipv6": []
   }
 }

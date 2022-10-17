@@ -3,7 +3,10 @@
   "handle": "ARMOUR-AP",
   "description": "Armour Technologies Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.132.225.0/24",
+      "103.132.226.0/24"
+    ],
     "ipv6": []
   }
 }

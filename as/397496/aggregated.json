@@ -3,7 +3,9 @@
   "handle": "INMARSAT-GOVERNMENT",
   "description": "Inmarsat Government",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "74.84.57.0/24"
+    ],
     "ipv6": [
       "2001:550:1b0a::/48"
     ]
