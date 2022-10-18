@@ -1,0 +1,13 @@
+{
+  "asn": 202548,
+  "handle": "QUADRIS",
+  "description": "Quadris Ltd",
+  "subnets": {
+    "ipv4": [
+      "45.130.45.0/24"
+    ],
+    "ipv6": [
+      "2a0f:a040::/29"
+    ]
+  }
+}

@@ -4,6 +4,7 @@
   "description": "GwangJuHaNam Office of Education",
   "subnets": {
     "ipv4": [
+      "59.12.223.0/24",
       "121.133.199.0/24",
       "122.203.248.0/24",
       "124.138.164.0/23",

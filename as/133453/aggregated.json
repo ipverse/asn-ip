@@ -3,7 +3,9 @@
   "handle": "MOGULSS-AP",
   "description": "Mogul Service and Support Co., Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.229.176.0/22"
+    ],
     "ipv6": []
   }
 }

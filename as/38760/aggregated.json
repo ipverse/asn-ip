@@ -4,6 +4,7 @@
   "description": "PT Media Sarana Akses",
   "subnets": {
     "ipv4": [
+      "103.99.164.0/22",
       "103.217.208.0/22"
     ],
     "ipv6": [

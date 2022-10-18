@@ -4,7 +4,8 @@
   "description": "Marlink Tanzania Limited",
   "subnets": {
     "ipv4": [
-      "41.216.216.0/21"
+      "41.216.216.0/21",
+      "102.214.46.0/23"
     ],
     "ipv6": []
   }

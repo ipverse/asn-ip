@@ -3,7 +3,9 @@
   "handle": "LIFEWATCH-SERVICES",
   "description": "LIFEWATCH SERVICES INC.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "204.68.184.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,9 +3,7 @@
   "handle": "NET365",
   "description": "Legend Telecom Ltd",
   "subnets": {
-    "ipv4": [
-      "185.41.228.0/22"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

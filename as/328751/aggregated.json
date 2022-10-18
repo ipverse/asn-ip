@@ -4,7 +4,6 @@
   "description": "CRDB BANK PLC",
   "subnets": {
     "ipv4": [
-      "102.216.25.0/24",
       "102.217.211.0/24"
     ],
     "ipv6": []

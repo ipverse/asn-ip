@@ -4,7 +4,8 @@
   "description": "IVCOM TELECOMUNICACOES - EIRELI",
   "subnets": {
     "ipv4": [
-      "201.46.80.0/22"
+      "201.46.80.0/23",
+      "201.46.82.0/24"
     ],
     "ipv6": [
       "2804:68f4::/32"

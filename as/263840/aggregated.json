@@ -4,6 +4,7 @@
   "description": "JSOUZANET TELECOM",
   "subnets": {
     "ipv4": [
+      "45.164.198.0/24",
       "138.185.124.0/22"
     ],
     "ipv6": []

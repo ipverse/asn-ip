@@ -3,9 +3,7 @@
   "handle": "ONEGRID",
   "description": "OneGrid LLC",
   "subnets": {
-    "ipv4": [
-      "45.132.98.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }
