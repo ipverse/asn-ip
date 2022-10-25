@@ -4,6 +4,7 @@
   "description": "Disney Worldwide Services, Inc.",
   "subnets": {
     "ipv4": [
+      "192.147.170.0/24",
       "198.187.190.0/24"
     ],
     "ipv6": []

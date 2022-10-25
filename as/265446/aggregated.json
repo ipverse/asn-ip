@@ -3,7 +3,9 @@
   "handle": "FASTNET-TELECOM",
   "description": "FASTNET TELECOM LTDA - ME",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "204.157.234.0/24"
+    ],
     "ipv6": [
       "2804:3444::/32"
     ]

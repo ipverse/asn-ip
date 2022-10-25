@@ -1,9 +1,11 @@
 {
   "asn": 61916,
-  "handle": "STARGATEWAY-INFORMATICA-E",
+  "handle": "STARGATEWAY-INFORMATICA-TELECOMUNICACOES",
   "description": "Stargateway Informatica e Telecomunicacoes Ltda",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "179.124.14.0/23"
+    ],
     "ipv6": []
   }
 }

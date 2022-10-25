@@ -1,9 +1,11 @@
 {
   "asn": 50666,
-  "handle": "RESERVED",
-  "description": "RIPE NCC ASN block",
+  "handle": "LIGAT",
+  "description": "LigaT, Clicksound Unip Lda",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.228.160.0/22"
+    ],
     "ipv6": []
   }
 }

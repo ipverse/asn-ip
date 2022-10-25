@@ -1,9 +1,12 @@
 {
   "asn": 202000,
-  "handle": "RUSPROD",
-  "description": "Open Joint-Stock Company RUSSKY PRODUCT",
+  "handle": "MBHOMESERVER",
+  "description": "Manuel Biagini",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a0e:97c0:c50::/44",
+      "2a0e:b107:1ca0::/44"
+    ]
   }
 }

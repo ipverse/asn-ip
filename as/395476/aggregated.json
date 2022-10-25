@@ -4,7 +4,8 @@
   "description": "S4 Communications LLC",
   "subnets": {
     "ipv4": [
-      "12.36.195.0/24"
+      "12.36.194.0/23",
+      "12.133.206.0/24"
     ],
     "ipv6": []
   }

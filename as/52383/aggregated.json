@@ -4,7 +4,9 @@
   "description": "Cooperativa Elctrica de Azul Ltda.",
   "subnets": {
     "ipv4": [
-      "186.65.96.0/21"
+      "186.65.96.0/22",
+      "186.65.100.0/23",
+      "186.65.103.0/24"
     ],
     "ipv6": []
   }

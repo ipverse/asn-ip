@@ -4,8 +4,7 @@
   "description": "Roberts Communications Network, LLC",
   "subnets": {
     "ipv4": [
-      "66.209.93.0/24",
-      "192.33.0.0/23"
+      "192.33.1.0/24"
     ],
     "ipv6": []
   }

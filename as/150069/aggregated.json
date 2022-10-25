@@ -1,0 +1,11 @@
+{
+  "asn": 150069,
+  "handle": "CNISPL-IN",
+  "description": "CLOUDNET INTERNET SERVICE PVT LTD",
+  "subnets": {
+    "ipv4": [
+      "103.21.6.0/23"
+    ],
+    "ipv6": []
+  }
+}

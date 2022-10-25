@@ -1,0 +1,11 @@
+{
+  "asn": 400379,
+  "handle": "COUNTY-OF-MADERA",
+  "description": "County of Madera",
+  "subnets": {
+    "ipv4": [
+      "63.192.182.0/24"
+    ],
+    "ipv6": []
+  }
+}

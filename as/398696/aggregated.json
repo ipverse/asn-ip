@@ -3,7 +3,9 @@
   "handle": "MSSOLUTIONS",
   "description": "MS Solutions",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "216.250.240.0/22"
+    ],
     "ipv6": []
   }
 }

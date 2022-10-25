@@ -4,8 +4,7 @@
   "description": "KIEHL IT SERVICES, LLC",
   "subnets": {
     "ipv4": [
-      "192.30.62.0/23",
-      "206.10.70.0/24"
+      "192.30.62.0/23"
     ],
     "ipv6": [
       "2602:fdd5::/36"

@@ -1,4 +1,6 @@
 # AS35619 (BUEHL)
 # Kevin Buehl
 #
-2a10:ccc2::/36
+2a10:ccc2::/48
+2a10:ccc2:20::/48
+2a10:ccc2:570::/44

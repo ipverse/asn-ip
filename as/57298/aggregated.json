@@ -1,11 +1,9 @@
 {
   "asn": 57298,
-  "handle": "LUIS-DON",
-  "description": "Luis+Don Ltd.",
+  "handle": "RESERVED",
+  "description": "RIPE NCC ASN block",
   "subnets": {
-    "ipv4": [
-      "93.171.162.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

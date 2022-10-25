@@ -1,0 +1,11 @@
+{
+  "asn": 131847,
+  "handle": "KDHC",
+  "description": "Korea District Heating Corporation",
+  "subnets": {
+    "ipv4": [
+      "103.141.190.0/23"
+    ],
+    "ipv6": []
+  }
+}

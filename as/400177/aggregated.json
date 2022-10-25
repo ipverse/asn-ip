@@ -4,9 +4,6 @@
   "description": "rootcloud LLC",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2a11:f900::/29",
-      "2a11:fb00::/29"
-    ]
+    "ipv6": []
   }
 }

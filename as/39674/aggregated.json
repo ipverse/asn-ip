@@ -3,10 +3,7 @@
   "handle": "SOLUTIOS",
   "description": "Yorkshire Tech Limited",
   "subnets": {
-    "ipv4": [
-      "193.93.152.0/24",
-      "193.93.154.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

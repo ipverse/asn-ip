@@ -3,11 +3,7 @@
   "handle": "WHITEIRON",
   "description": "White Iron LLC",
   "subnets": {
-    "ipv4": [
-      "38.97.235.0/24"
-    ],
-    "ipv6": [
-      "2602:fcc1::/36"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

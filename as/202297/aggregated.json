@@ -4,8 +4,7 @@
   "description": "Skylon Solutions Limited",
   "subnets": {
     "ipv4": [
-      "109.248.43.0/24",
-      "185.165.153.0/24"
+      "109.248.43.0/24"
     ],
     "ipv6": [
       "2001:678:aa4::/48",

@@ -3,9 +3,7 @@
   "handle": "NEVADA-RENO",
   "description": "Sierra Pacific Power Co.",
   "subnets": {
-    "ipv4": [
-      "198.180.160.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

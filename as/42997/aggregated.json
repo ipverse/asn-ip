@@ -3,9 +3,7 @@
   "handle": "TRODAT",
   "description": "TRODAT SRL",
   "subnets": {
-    "ipv4": [
-      "86.106.173.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

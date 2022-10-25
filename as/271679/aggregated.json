@@ -1,9 +1,11 @@
 {
   "asn": 271679,
-  "handle": "RENOVTEC-SERVICOS-DE",
+  "handle": "RENOVTEC-SERVICOS-TECNOLOGIA",
   "description": "RENOVTEC SERVICOS DE TECNOLOGIA EIRELI",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2804:7f4c::/32"
+    ]
   }
 }

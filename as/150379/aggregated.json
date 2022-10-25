@@ -1,0 +1,11 @@
+{
+  "asn": 150379,
+  "handle": "JPNETWORKBD-AP",
+  "description": "J.P. Network BD",
+  "subnets": {
+    "ipv4": [
+      "103.23.254.0/23"
+    ],
+    "ipv6": []
+  }
+}

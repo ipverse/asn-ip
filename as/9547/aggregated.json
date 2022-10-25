@@ -3,7 +3,9 @@
   "handle": "STGEORGE-AU-AP",
   "description": "St. George Bank",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "166.120.192.0/21"
+    ],
     "ipv6": []
   }
 }

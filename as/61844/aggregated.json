@@ -1,12 +1,12 @@
 {
   "asn": 61844,
-  "handle": "NEW-MASTER-TELECOM",
-  "description": "NEW MASTER TELECOM OPERADORA DE TELECOMUNICAES L",
+  "handle": "PATH-TELECOM",
+  "description": "PATH TELECOM S.A.",
   "subnets": {
     "ipv4": [
       "45.177.252.0/23",
       "45.177.254.0/24",
-      "45.179.21.0/24",
+      "45.179.20.0/22",
       "138.255.78.0/23",
       "138.255.212.0/22",
       "177.87.40.0/23",

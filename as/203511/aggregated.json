@@ -1,0 +1,12 @@
+{
+  "asn": 203511,
+  "handle": "OZBAY",
+  "description": "OZBAY BILISIM INTERNET HIZMETLERI LIMITED SIRKETI",
+  "subnets": {
+    "ipv4": [
+      "193.169.239.0/24",
+      "193.169.250.0/24"
+    ],
+    "ipv6": []
+  }
+}

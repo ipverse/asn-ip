@@ -4,6 +4,7 @@
   "description": "Internet bolaget Sverige AB",
   "subnets": {
     "ipv4": [
+      "2.59.28.0/24",
       "46.252.2.0/24",
       "185.89.36.0/22"
     ],

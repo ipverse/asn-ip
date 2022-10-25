@@ -1,0 +1,12 @@
+{
+  "asn": 56769,
+  "handle": "DONCLIP",
+  "description": "Donclip LLC",
+  "subnets": {
+    "ipv4": [
+      "178.22.24.0/24",
+      "185.218.0.0/24"
+    ],
+    "ipv6": []
+  }
+}

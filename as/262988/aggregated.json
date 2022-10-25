@@ -4,7 +4,8 @@
   "description": "Pombonet Telecomunicaes e Informtica",
   "subnets": {
     "ipv4": [
-      "168.90.80.0/22",
+      "168.90.80.0/24",
+      "168.90.82.0/23",
       "179.125.64.0/19",
       "186.251.8.0/22"
     ],

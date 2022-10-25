@@ -4,6 +4,8 @@
   "description": "Rede Free - Internet Wi-fi",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2804:75c4::/32"
+    ]
   }
 }

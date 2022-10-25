@@ -1,0 +1,11 @@
+{
+  "asn": 208830,
+  "handle": "IFANR-NL",
+  "description": "ifanr Inc.",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a0e:7581::/32"
+    ]
+  }
+}

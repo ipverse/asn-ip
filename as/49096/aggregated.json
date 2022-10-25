@@ -3,9 +3,7 @@
   "handle": "GEODIS-WILSON-HOLDING",
   "description": "Geodis Wilson Holding AB",
   "subnets": {
-    "ipv4": [
-      "193.235.7.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

@@ -4,6 +4,7 @@
   "description": "Patron Technology Persia Ltd",
   "subnets": {
     "ipv4": [
+      "5.42.223.0/24",
       "194.180.224.0/24"
     ],
     "ipv6": []

@@ -3,9 +3,7 @@
   "handle": "NUTRISYSTEM",
   "description": "Nutrisystem, Inc",
   "subnets": {
-    "ipv4": [
-      "65.202.219.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

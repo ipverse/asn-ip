@@ -4,6 +4,7 @@
   "description": "Enjoyvc Cloud Group Limited.",
   "subnets": {
     "ipv4": [
+      "8.23.132.0/24",
       "23.236.64.0/24",
       "31.24.86.0/24",
       "38.84.164.0/24",

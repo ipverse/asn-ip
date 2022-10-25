@@ -4,6 +4,7 @@
   "description": "Dash Eliran Electronics Ltd",
   "subnets": {
     "ipv4": [
+      "31.193.185.0/24",
       "83.229.2.0/24"
     ],
     "ipv6": [

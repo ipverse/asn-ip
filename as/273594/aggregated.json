@@ -1,0 +1,11 @@
+{
+  "asn": 273594,
+  "handle": "WIFINET-TELECOM-PARNAMIRIM",
+  "description": "Wifinet Telecom Parnamirim",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2804:8948::/32"
+    ]
+  }
+}

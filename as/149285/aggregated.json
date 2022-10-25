@@ -3,9 +3,7 @@
   "handle": "MYTHRA-AP",
   "description": "Aperture Science Limited",
   "subnets": {
-    "ipv4": [
-      "89.23.88.0/24"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2602:feda:e40::/44"
     ]

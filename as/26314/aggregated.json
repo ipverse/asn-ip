@@ -3,10 +3,7 @@
   "handle": "TI-AUTOMOTIVE",
   "description": "TI GROUP AUTOMOTIVE SYSTEMS, L.L.C.",
   "subnets": {
-    "ipv4": [
-      "205.203.176.0/21",
-      "205.203.184.0/22"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

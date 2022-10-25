@@ -4,7 +4,7 @@
   "description": "WARP CONNECTION SRL",
   "subnets": {
     "ipv4": [
-      "185.22.0.0/22"
+      "185.22.3.0/24"
     ],
     "ipv6": [
       "2a04:1bc0::/32",

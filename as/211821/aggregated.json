@@ -4,7 +4,8 @@
   "description": "Individual Entrepreneur Bakaev Ivan Vladimirovich",
   "subnets": {
     "ipv4": [
-      "45.159.211.0/24"
+      "45.159.211.0/24",
+      "193.93.60.0/24"
     ],
     "ipv6": []
   }

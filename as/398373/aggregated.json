@@ -3,7 +3,9 @@
   "handle": "SERVERDESTROYERS",
   "description": "Server Destroyers LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "157.254.248.0/22"
+    ],
     "ipv6": []
   }
 }

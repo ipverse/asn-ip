@@ -3,10 +3,7 @@
   "handle": "SVT",
   "description": "GIGAS HOSTING S.A.",
   "subnets": {
-    "ipv4": [
-      "95.130.48.0/23",
-      "95.130.52.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

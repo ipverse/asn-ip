@@ -3,7 +3,10 @@
   "handle": "MEDIANA",
   "description": "Yugtelegroup Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "89.21.72.0/22",
+      "185.95.64.0/24"
+    ],
     "ipv6": []
   }
 }

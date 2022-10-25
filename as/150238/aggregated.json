@@ -1,0 +1,13 @@
+{
+  "asn": 150238,
+  "handle": "IDNIC-SHARTEL-ID",
+  "description": "PT Shanum Sarana Telekomunikasi",
+  "subnets": {
+    "ipv4": [
+      "103.20.108.0/23"
+    ],
+    "ipv6": [
+      "2406:20c0:e002::/47"
+    ]
+  }
+}

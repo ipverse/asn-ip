@@ -1,7 +1,7 @@
 {
   "asn": 6621,
   "handle": "HNS-DIRECPC",
-  "description": "Hughes Network Systems",
+  "description": "Hughes Network Systems, LLC",
   "subnets": {
     "ipv4": [
       "65.88.96.0/20",
@@ -52,7 +52,7 @@
       "67.47.0.0/20",
       "67.47.16.0/23",
       "67.47.18.0/24",
-      "67.47.22.0/23",
+      "67.47.23.0/24",
       "67.47.24.0/21",
       "67.47.32.0/19",
       "67.47.80.0/20",

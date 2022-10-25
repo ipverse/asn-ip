@@ -1,0 +1,13 @@
+{
+  "asn": 14114,
+  "handle": "SAP-NIE",
+  "description": "SAP America Inc.",
+  "subnets": {
+    "ipv4": [
+      "169.145.103.0/24"
+    ],
+    "ipv6": [
+      "2001:678:f88::/48"
+    ]
+  }
+}

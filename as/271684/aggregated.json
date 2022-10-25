@@ -3,7 +3,9 @@
   "handle": "PRAIA-NET-SERVICOS",
   "description": "Praia Net Servicos LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "177.70.247.0/24"
+    ],
     "ipv6": [
       "2804:7f60::/32"
     ]

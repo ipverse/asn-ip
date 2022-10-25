@@ -3,7 +3,9 @@
   "handle": "L-N-CAMPOS",
   "description": "L N DE CAMPOS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "177.52.140.0/22"
+    ],
     "ipv6": []
   }
 }

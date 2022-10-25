@@ -4,7 +4,8 @@
   "description": "Ningbo Dahuamao Information Technology Co Ltd",
   "subnets": {
     "ipv4": [
-      "103.190.178.0/24"
+      "103.190.178.0/24",
+      "185.232.207.0/24"
     ],
     "ipv6": [
       "2406:840:fed1::/48"

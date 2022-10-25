@@ -1,11 +1,9 @@
 {
   "asn": 132060,
-  "handle": "EQUATE-AP",
-  "description": "Equate Technologies Pty Ltd",
+  "handle": "APNIC-32-BIT",
+  "description": "APNIC 32-bit ASN block",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2001:df3:7600::/48"
-    ]
+    "ipv6": []
   }
 }

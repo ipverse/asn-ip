@@ -4,7 +4,7 @@
   "description": "POWER FIBRA SERVICOS DE COMUNICACAO LTDA",
   "subnets": {
     "ipv4": [
-      "45.6.124.0/22"
+      "45.6.124.0/24"
     ],
     "ipv6": []
   }

@@ -4,8 +4,6 @@
   "description": "The Museum of the Bible, Inc",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2620:13f:4000::/44"
-    ]
+    "ipv6": []
   }
 }
