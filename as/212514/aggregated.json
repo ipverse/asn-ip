@@ -4,8 +4,6 @@
   "description": "Association ECOWAN",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2a0e:46c4:2810::/44"
-    ]
+    "ipv6": []
   }
 }

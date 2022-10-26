@@ -3,7 +3,9 @@
   "handle": "KOZITSKIY-AM",
   "description": "Kozitskiy A.M. PI",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.75.84.0/22"
+    ],
     "ipv6": []
   }
 }

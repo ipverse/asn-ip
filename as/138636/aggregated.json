@@ -3,7 +3,9 @@
   "handle": "LAKSHMIPURONLINE-AP",
   "description": "Lakshmipur Online",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.135.76.0/22"
+    ],
     "ipv6": []
   }
 }

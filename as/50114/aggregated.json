@@ -3,7 +3,9 @@
   "handle": "KAIC",
   "description": "Kerman Auto Industries Co (KAIC)",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.245.71.0/24"
+    ],
     "ipv6": []
   }
 }

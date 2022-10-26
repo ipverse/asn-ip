@@ -4,6 +4,7 @@
   "description": "REVEL BUSINESS GROUP SRL",
   "subnets": {
     "ipv4": [
+      "5.83.38.0/24",
       "193.219.119.0/24"
     ],
     "ipv6": []

@@ -3,7 +3,9 @@
   "handle": "TODAYVISION-BD",
   "description": "Today Vision",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.99.248.0/23"
+    ],
     "ipv6": []
   }
 }

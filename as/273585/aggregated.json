@@ -1,0 +1,11 @@
+{
+  "asn": 273585,
+  "handle": "OPTIMUS-FIBER-TELECOM",
+  "description": "OPTIMUS FIBER TELECOM LTDA",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2804:8928::/32"
+    ]
+  }
+}

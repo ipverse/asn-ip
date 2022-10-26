@@ -3,7 +3,10 @@
   "handle": "NH-AP",
   "description": "Net @ Home",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.134.202.0/24",
+      "103.187.245.0/24"
+    ],
     "ipv6": []
   }
 }

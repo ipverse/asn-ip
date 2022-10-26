@@ -3,7 +3,9 @@
   "handle": "ASHANET-AP",
   "description": "ashanet bd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.147.40.0/23"
+    ],
     "ipv6": []
   }
 }

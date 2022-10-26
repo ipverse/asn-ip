@@ -3,7 +3,9 @@
   "handle": "RSMNETWORK-AP",
   "description": "RSM Network",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.149.72.0/23"
+    ],
     "ipv6": []
   }
 }

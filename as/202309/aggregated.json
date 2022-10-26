@@ -1,0 +1,11 @@
+{
+  "asn": 202309,
+  "handle": "RADIBASE",
+  "description": "Radibase EOOD",
+  "subnets": {
+    "ipv4": [
+      "62.68.70.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asn": 134495,
+  "handle": "ERIS-AP",
+  "description": "Eris",
+  "subnets": {
+    "ipv4": [
+      "103.24.16.0/23"
+    ],
+    "ipv6": []
+  }
+}

@@ -4,8 +4,6 @@
   "description": "Frontier Communications of America, Inc.",
   "subnets": {
     "ipv4": [
-      "45.52.89.0/24",
-      "45.52.193.0/24",
       "50.121.66.0/23",
       "50.121.72.0/22",
       "50.121.76.0/24",

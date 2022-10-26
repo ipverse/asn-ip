@@ -1,0 +1,11 @@
+{
+  "asn": 400224,
+  "handle": "TARLETON",
+  "description": "Tarleton State University",
+  "subnets": {
+    "ipv4": [
+      "173.255.36.0/24"
+    ],
+    "ipv6": []
+  }
+}

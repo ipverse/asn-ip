@@ -3,7 +3,9 @@
   "handle": "NT-TELECOMUNICACOES-JANAUBA",
   "description": "NT TELECOMUNICACOES DE JANAUBA LTDA - ME",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "177.86.208.0/21"
+    ],
     "ipv6": []
   }
 }

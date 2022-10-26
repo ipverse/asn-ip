@@ -1,0 +1,12 @@
+{
+  "asn": 1083,
+  "handle": "AGK-CONSULTING-INC",
+  "description": "AGK Consulting, Inc.",
+  "subnets": {
+    "ipv4": [
+      "198.96.222.0/24",
+      "206.223.60.0/24"
+    ],
+    "ipv6": []
+  }
+}
