@@ -4,6 +4,8 @@
   "description": "Dongyu Zhang",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a0e:97c6:5a00::/40"
+    ]
   }
 }

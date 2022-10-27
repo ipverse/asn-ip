@@ -3,10 +3,7 @@
   "handle": "DMBZ",
   "description": "Dmytro Moiseiev",
   "subnets": {
-    "ipv4": [
-      "193.28.255.0/24",
-      "193.29.1.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

@@ -3,9 +3,7 @@
   "handle": "GOLSI",
   "description": "PE Sira Olha",
   "subnets": {
-    "ipv4": [
-      "195.128.248.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

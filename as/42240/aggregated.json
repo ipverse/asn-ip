@@ -3,10 +3,7 @@
   "handle": "VARITI-INT",
   "description": "Variti LLC",
   "subnets": {
-    "ipv4": [
-      "185.46.175.0/24",
-      "185.161.79.0/24"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2a0a:e440::/48"
     ]

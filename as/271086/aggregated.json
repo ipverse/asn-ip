@@ -1,9 +1,11 @@
 {
   "asn": 271086,
-  "handle": "J-R-F-DOS-SANTOS-TELECOM-ME",
+  "handle": "J-R-F-SANTOS-TELECOM",
   "description": "J. R. F. DOS SANTOS TELECOM - ME",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "179.48.112.0/22"
+    ],
     "ipv6": []
   }
 }

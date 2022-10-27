@@ -3,11 +3,7 @@
   "handle": "TECH-WORLD-SOLUCOES",
   "description": "TECH WORLD - SOLUCOES EM INTERNET LTDA - ME",
   "subnets": {
-    "ipv4": [
-      "190.120.32.0/22"
-    ],
-    "ipv6": [
-      "2804:6bec::/32"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

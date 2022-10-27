@@ -3,10 +3,7 @@
   "handle": "POUPA-NET-TELECOM",
   "description": "POUPA NET TELECOM LTDA",
   "subnets": {
-    "ipv4": [
-      "38.50.168.0/23",
-      "38.50.170.0/24"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2804:83b4::/32"
     ]

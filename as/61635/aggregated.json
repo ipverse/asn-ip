@@ -3,7 +3,9 @@
   "handle": "GOPLEX-TELECOMUNICACOES-INTERNET",
   "description": "GOPLEX TELECOMUNICACOES E INTERNET LTDA - ME",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "131.100.24.0/22"
+    ],
     "ipv6": []
   }
 }

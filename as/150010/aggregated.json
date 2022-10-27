@@ -4,6 +4,7 @@
   "description": "Leroy Networks And Services Private Limited",
   "subnets": {
     "ipv4": [
+      "103.44.117.0/24",
       "103.145.228.0/23"
     ],
     "ipv6": []

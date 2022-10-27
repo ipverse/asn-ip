@@ -4,7 +4,8 @@
   "description": "NETBOX TELECOM EIRELI - ME",
   "subnets": {
     "ipv4": [
-      "45.183.28.0/22"
+      "45.183.28.0/22",
+      "45.239.140.0/22"
     ],
     "ipv6": [
       "2804:61d0::/32"

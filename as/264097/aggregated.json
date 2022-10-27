@@ -3,7 +3,9 @@
   "handle": "WIID-TELECOMUNICAES-BRASIL",
   "description": "WIID Telecomunicaes do Brasil",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "138.59.144.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,9 +3,7 @@
   "handle": "WARPCON",
   "description": "WARP CONNECTION SRL",
   "subnets": {
-    "ipv4": [
-      "185.22.3.0/24"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2a04:1bc0::/32",
       "2a04:1bc3::/32",

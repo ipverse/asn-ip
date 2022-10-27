@@ -4,7 +4,6 @@
   "description": "IotMedia Lab",
   "subnets": {
     "ipv4": [
-      "103.20.198.0/24",
       "103.188.235.0/24"
     ],
     "ipv6": []

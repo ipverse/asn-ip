@@ -3,7 +3,10 @@
   "handle": "DISHNETWORK",
   "description": "AL-MARAJ AL-ALAMIYA Co",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.122.252.0/23",
+      "185.122.255.0/24"
+    ],
     "ipv6": []
   }
 }

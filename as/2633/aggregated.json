@@ -1,0 +1,11 @@
+{
+  "asn": 2633,
+  "handle": "NAS1",
+  "description": "National Academy of Sciences",
+  "subnets": {
+    "ipv4": [
+      "214.9.168.0/24"
+    ],
+    "ipv6": []
+  }
+}
