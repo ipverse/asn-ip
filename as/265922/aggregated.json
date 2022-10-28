@@ -3,9 +3,7 @@
   "handle": "GRUPO-AJS-PORTO",
   "description": "Grupo AJS Porto",
   "subnets": {
-    "ipv4": [
-      "131.196.108.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

@@ -4,7 +4,6 @@
   "description": "Hostzors Inc.",
   "subnets": {
     "ipv4": [
-      "52.128.160.0/19",
       "162.252.24.0/21"
     ],
     "ipv6": []

@@ -3,7 +3,9 @@
   "handle": "ARC-INFORMATIQUE",
   "description": "ARC Informatique",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "154.115.140.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,9 +3,7 @@
   "handle": "REP-DE",
   "description": "Siemens Gamesa Renewable Energy Service GmbH",
   "subnets": {
-    "ipv4": [
-      "178.23.48.0/22"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

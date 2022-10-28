@@ -1,0 +1,11 @@
+{
+  "asn": 10563,
+  "handle": "ROCHELLEUTILITIES",
+  "description": "Rochelle Municipal Utilities",
+  "subnets": {
+    "ipv4": [
+      "204.8.160.0/24"
+    ],
+    "ipv6": []
+  }
+}

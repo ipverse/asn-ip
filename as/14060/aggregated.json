@@ -4,7 +4,8 @@
   "description": "Brookdale Senior Living Inc",
   "subnets": {
     "ipv4": [
-      "168.215.198.0/24"
+      "168.215.198.0/24",
+      "199.102.248.0/22"
     ],
     "ipv6": []
   }

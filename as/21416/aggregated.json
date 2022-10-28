@@ -4,6 +4,7 @@
   "description": "The Technical center of Internet Limited Liability Company",
   "subnets": {
     "ipv4": [
+      "62.76.253.0/24",
       "212.193.104.0/21",
       "212.193.114.0/23"
     ],

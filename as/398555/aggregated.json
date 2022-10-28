@@ -1,0 +1,11 @@
+{
+  "asn": 398555,
+  "handle": "CONCOR-2",
+  "description": "Concordia University Nebraska",
+  "subnets": {
+    "ipv4": [
+      "192.111.36.0/24"
+    ],
+    "ipv6": []
+  }
+}

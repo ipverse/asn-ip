@@ -1,0 +1,11 @@
+{
+  "asn": 1097,
+  "handle": "AERON-BB",
+  "description": "Aeron Broadband",
+  "subnets": {
+    "ipv4": [
+      "198.102.29.0/24"
+    ],
+    "ipv6": []
+  }
+}

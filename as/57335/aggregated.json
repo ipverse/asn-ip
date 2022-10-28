@@ -4,8 +4,6 @@
   "description": "AAGlenn Internetworking Company",
   "subnets": {
     "ipv4": [
-      "45.130.232.0/22",
-      "45.154.216.0/24",
       "185.203.204.0/23",
       "185.203.206.0/24"
     ],
