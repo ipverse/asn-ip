@@ -1,0 +1,11 @@
+{
+  "asn": 400588,
+  "handle": "VILLE-DE-LONGUEUIL",
+  "description": "Ville de Longueuil",
+  "subnets": {
+    "ipv4": [
+      "164.152.157.0/24"
+    ],
+    "ipv6": []
+  }
+}

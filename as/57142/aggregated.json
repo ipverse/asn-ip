@@ -1,0 +1,11 @@
+{
+  "asn": 57142,
+  "handle": "GH23",
+  "description": "Global Host 23 SRLS",
+  "subnets": {
+    "ipv4": [
+      "176.126.175.0/24"
+    ],
+    "ipv6": []
+  }
+}

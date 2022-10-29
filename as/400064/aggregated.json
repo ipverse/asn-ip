@@ -1,0 +1,11 @@
+{
+  "asn": 400064,
+  "handle": "QUESTAVOLTA",
+  "description": "Questa Volta",
+  "subnets": {
+    "ipv4": [
+      "165.140.140.0/23"
+    ],
+    "ipv6": []
+  }
+}

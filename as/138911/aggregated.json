@@ -4,8 +4,7 @@
   "description": "United Information Highway Co.,Ltd.",
   "subnets": {
     "ipv4": [
-      "103.40.191.0/24",
-      "119.110.238.0/24"
+      "103.40.191.0/24"
     ],
     "ipv6": [
       "2400:6280:10c::/48",

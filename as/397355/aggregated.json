@@ -3,9 +3,7 @@
   "handle": "ISERV-SWITCH",
   "description": "The Iserv Company, LLC",
   "subnets": {
-    "ipv4": [
-      "207.231.112.0/20"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

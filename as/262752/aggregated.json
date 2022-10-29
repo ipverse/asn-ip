@@ -3,7 +3,11 @@
   "handle": "PROVEDOR-OURONET",
   "description": "PROVEDOR OURONET LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "177.52.144.0/23",
+      "177.52.149.0/24",
+      "177.52.151.0/24"
+    ],
     "ipv6": [
       "2804:1938::/32"
     ]

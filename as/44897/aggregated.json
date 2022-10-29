@@ -1,9 +1,12 @@
 {
   "asn": 44897,
   "handle": "MIR",
-  "description": "Oleksandr Hrebeniukov",
+  "description": "PE Hrebeniukov Oleksandr Valeriiovych",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.220.174.0/24",
+      "195.230.96.0/24"
+    ],
     "ipv6": []
   }
 }

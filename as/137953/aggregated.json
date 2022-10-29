@@ -1,0 +1,11 @@
+{
+  "asn": 137953,
+  "handle": "BIS-AP",
+  "description": "Bismillah IT Solution",
+  "subnets": {
+    "ipv4": [
+      "103.243.245.0/24"
+    ],
+    "ipv6": []
+  }
+}
