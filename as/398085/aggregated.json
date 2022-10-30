@@ -1,0 +1,11 @@
+{
+  "asn": 398085,
+  "handle": "IHA-01",
+  "description": "Trinity Health IHA Medical Group",
+  "subnets": {
+    "ipv4": [
+      "199.178.198.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -4,7 +4,7 @@
   "description": "Wellesley College",
   "subnets": {
     "ipv4": [
-      "149.130.0.0/16",
+      "149.130.0.0/17",
       "192.42.89.0/24"
     ],
     "ipv6": []

@@ -4,6 +4,7 @@
   "description": "RADNET TELECOM, C.A",
   "subnets": {
     "ipv4": [
+      "138.186.6.0/23",
       "161.22.39.0/24"
     ],
     "ipv6": []

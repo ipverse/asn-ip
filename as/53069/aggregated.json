@@ -3,10 +3,7 @@
   "handle": "DIRECTLINK-TELECOMUNICACOES",
   "description": "DIRECTLINK TELECOMUNICACOES LTDA",
   "subnets": {
-    "ipv4": [
-      "187.86.192.0/23",
-      "187.86.194.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

@@ -4,6 +4,7 @@
   "description": "Deloitte Touche Tohmatsu Services, Inc.",
   "subnets": {
     "ipv4": [
+      "167.219.134.0/24",
       "170.194.152.0/21",
       "170.194.168.0/21",
       "170.194.176.0/20"

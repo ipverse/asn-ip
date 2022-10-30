@@ -3,7 +3,10 @@
   "handle": "AMADEUS-TN",
   "description": "Amadeus Data Processing GmbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "168.153.144.0/23",
+      "168.153.146.0/24"
+    ],
     "ipv6": []
   }
 }
