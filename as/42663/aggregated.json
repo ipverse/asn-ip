@@ -3,7 +3,9 @@
   "handle": "LATVIJASTALRUNIS",
   "description": "SIA LATVIJAS TALRUNIS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "213.175.78.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "POIG",
   "description": "POIG Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "178.173.0.0/17"
+    ],
     "ipv6": [
       "2a07:3480::/29"
     ]

@@ -1,0 +1,11 @@
+{
+  "asn": 213239,
+  "handle": "NORTHLAYER-AS2",
+  "description": "Northlayer ehf",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a06:a005:d2f::/48"
+    ]
+  }
+}

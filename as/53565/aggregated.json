@@ -4,7 +4,8 @@
   "description": "Hoyos Consulting LLC",
   "subnets": {
     "ipv4": [
-      "199.45.8.0/22"
+      "199.45.9.0/24",
+      "199.45.10.0/24"
     ],
     "ipv6": []
   }

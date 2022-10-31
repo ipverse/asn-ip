@@ -3,7 +3,9 @@
   "handle": "CURBASN",
   "description": "Curb Mobility, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "64.110.153.0/24"
+    ],
     "ipv6": []
   }
 }

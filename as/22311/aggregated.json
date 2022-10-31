@@ -3,7 +3,9 @@
   "handle": "FAIRNET-LLC",
   "description": "FAIRNET LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "208.185.135.0/24"
+    ],
     "ipv6": []
   }
 }
