@@ -4,7 +4,9 @@
   "description": "REGIE MUNICIPALE D\u0027ELECTRICITE DE CREUTZWALD",
   "subnets": {
     "ipv4": [
-      "185.109.172.0/22"
+      "185.94.220.0/22",
+      "185.109.172.0/22",
+      "213.232.108.0/22"
     ],
     "ipv6": [
       "2a02:4e80::/32"

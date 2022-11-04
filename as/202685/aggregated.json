@@ -3,7 +3,11 @@
   "handle": "AGGROSOPERATIONS",
   "description": "Aggros Operations Ltd.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "23.133.8.0/24"
+    ],
+    "ipv6": [
+      "2a12:dd47:8500::/40"
+    ]
   }
 }

@@ -3,14 +3,7 @@
   "handle": "CORTEZ-ON-LINE",
   "description": "CORTEZ ON LINE PROVEDOR DE INTERNET LTDA - ME",
   "subnets": {
-    "ipv4": [
-      "168.227.108.0/22",
-      "170.82.92.0/22",
-      "186.192.16.0/20",
-      "191.241.40.0/21"
-    ],
-    "ipv6": [
-      "2804:1138::/32"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

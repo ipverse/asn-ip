@@ -3,7 +3,9 @@
   "handle": "CLEAR-DDOS",
   "description": "ClearDDoS Technologies",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "104.193.95.0/24"
+    ],
     "ipv6": []
   }
 }

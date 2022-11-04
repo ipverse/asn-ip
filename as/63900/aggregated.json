@@ -1,0 +1,11 @@
+{
+  "asn": 63900,
+  "handle": "TTC-MPLS",
+  "description": "Telecom Technology Center",
+  "subnets": {
+    "ipv4": [
+      "115.42.119.0/24"
+    ],
+    "ipv6": []
+  }
+}

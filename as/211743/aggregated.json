@@ -3,9 +3,7 @@
   "handle": "ALAN-SOLUTIONS",
   "description": "Alan Solutions",
   "subnets": {
-    "ipv4": [
-      "195.26.6.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

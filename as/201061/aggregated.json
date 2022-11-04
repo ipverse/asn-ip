@@ -4,9 +4,6 @@
   "description": "Thomas Brodkorb",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2a00:f826:25::/48",
-      "2a01:367:abcd::/48"
-    ]
+    "ipv6": []
   }
 }

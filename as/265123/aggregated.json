@@ -3,10 +3,7 @@
   "handle": "CONNECT-VIRADOURO-PROVEDOR",
   "description": "Connect Viradouro Provedor de Internet Ltda",
   "subnets": {
-    "ipv4": [
-      "143.202.164.0/22",
-      "170.245.152.0/22"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

@@ -1,0 +1,11 @@
+{
+  "asn": 209440,
+  "handle": "GNS-CNCS",
+  "description": "Gabinete Nacional de Seguranca (GNS)",
+  "subnets": {
+    "ipv4": [
+      "92.118.109.0/24"
+    ],
+    "ipv6": []
+  }
+}

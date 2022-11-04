@@ -4,7 +4,8 @@
   "description": "Digital Candeias",
   "subnets": {
     "ipv4": [
-      "45.7.0.0/22"
+      "45.7.0.0/22",
+      "172.101.0.0/24"
     ],
     "ipv6": []
   }

@@ -3,9 +3,7 @@
   "handle": "ITNETWORK",
   "description": "IT ADMIRABLE SERVICE LTD",
   "subnets": {
-    "ipv4": [
-      "195.178.4.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

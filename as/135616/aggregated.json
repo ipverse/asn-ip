@@ -1,0 +1,12 @@
+{
+  "asn": 135616,
+  "handle": "TSU-AP",
+  "description": "Office of Info.Tech. Admin. for Educational Development",
+  "subnets": {
+    "ipv4": [
+      "202.28.64.0/24",
+      "202.28.66.0/24"
+    ],
+    "ipv6": []
+  }
+}

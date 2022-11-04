@@ -3,10 +3,7 @@
   "handle": "EVO",
   "description": "EVO Merchant Services, LLC",
   "subnets": {
-    "ipv4": [
-      "65.202.43.0/24",
-      "65.220.98.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

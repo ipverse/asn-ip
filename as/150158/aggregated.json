@@ -3,7 +3,9 @@
   "handle": "PHS-AP",
   "description": "Istanaimpian Corporation Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.223.154.0/24"
+    ],
     "ipv6": []
   }
 }
