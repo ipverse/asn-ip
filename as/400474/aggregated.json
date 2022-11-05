@@ -1,0 +1,11 @@
+{
+  "asn": 400474,
+  "handle": "GHOSTFIBER",
+  "description": "GhostFiber",
+  "subnets": {
+    "ipv4": [
+      "23.132.168.0/24"
+    ],
+    "ipv6": []
+  }
+}

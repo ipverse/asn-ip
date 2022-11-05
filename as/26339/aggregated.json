@@ -3,10 +3,7 @@
   "handle": "JAS-NETWORKS-INC",
   "description": "The Iserv Company, LLC",
   "subnets": {
-    "ipv4": [
-      "69.51.128.0/19",
-      "198.144.80.0/20"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

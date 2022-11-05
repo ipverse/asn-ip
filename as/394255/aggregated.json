@@ -3,11 +3,7 @@
   "handle": "BELLMTSDC-DC01",
   "description": "Equinix, Inc.",
   "subnets": {
-    "ipv4": [
-      "216.55.208.0/21"
-    ],
-    "ipv6": [
-      "2606:5c80::/32"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

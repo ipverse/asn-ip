@@ -3,7 +3,9 @@
   "handle": "ISOFONE-COMMUNICATIONS",
   "description": "Isofone Communications LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "23.142.24.0/22"
+    ],
     "ipv6": [
       "2602:fd92:cd3::/48",
       "2602:fd92:cd4::/48"

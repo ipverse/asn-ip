@@ -4,11 +4,8 @@
   "description": "Hamid Electronics and Automobiles",
   "subnets": {
     "ipv4": [
-      "103.165.158.0/24",
       "103.172.28.0/24"
     ],
-    "ipv6": [
-      "2407:4ac0::/32"
-    ]
+    "ipv6": []
   }
 }

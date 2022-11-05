@@ -3,9 +3,7 @@
   "handle": "HOSTUS-NETOPS",
   "description": "HostUS Solutions LLC",
   "subnets": {
-    "ipv4": [
-      "185.227.71.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

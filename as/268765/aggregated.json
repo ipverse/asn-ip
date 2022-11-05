@@ -3,7 +3,9 @@
   "handle": "VINNINET-TELECOM",
   "description": "VINNI.NET TELECOM LTDA ME",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.172.120.0/22"
+    ],
     "ipv6": [
       "2804:5a54::/32"
     ]

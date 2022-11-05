@@ -3,9 +3,7 @@
   "handle": "VOLTERRA-02",
   "description": "Volterra Inc",
   "subnets": {
-    "ipv4": [
-      "192.231.5.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

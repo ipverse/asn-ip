@@ -4,6 +4,9 @@
   "description": "Wuhan LSHIY Network Technology Co., Ltd.",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2404:f4c0:fa02::/47",
+      "2404:f4c0:fa0a::/48"
+    ]
   }
 }

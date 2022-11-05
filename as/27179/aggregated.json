@@ -1,0 +1,11 @@
+{
+  "asn": 27179,
+  "handle": "IWEL",
+  "description": "Invisalink Wireless",
+  "subnets": {
+    "ipv4": [
+      "104.192.194.0/23"
+    ],
+    "ipv6": []
+  }
+}

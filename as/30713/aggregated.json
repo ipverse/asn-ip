@@ -4,6 +4,7 @@
   "description": "York Region District School Board",
   "subnets": {
     "ipv4": [
+      "209.221.88.0/24",
       "209.221.90.0/23",
       "209.221.92.0/22"
     ],

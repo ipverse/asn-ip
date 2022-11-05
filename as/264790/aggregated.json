@@ -3,7 +3,9 @@
   "handle": "COOPERATIVA-PROVISION-SERVICIO",
   "description": "COOPERATIVA DE PROVISION DE SERVICIO ELECTRICO Y OTROS SERV DE PIGUE",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "170.79.16.0/24"
+    ],
     "ipv6": []
   }
 }
