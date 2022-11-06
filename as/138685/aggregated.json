@@ -4,7 +4,8 @@
   "description": "Mahidol Wittayanusorn School",
   "subnets": {
     "ipv4": [
-      "103.44.44.0/24"
+      "103.44.44.0/24",
+      "110.170.134.0/24"
     ],
     "ipv6": [
       "2001:3c8:243::/48",

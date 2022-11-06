@@ -3,11 +3,7 @@
   "handle": "INCO-1",
   "description": "INCOGNITO SOFTWARE INC.",
   "subnets": {
-    "ipv4": [
-      "199.233.95.0/24"
-    ],
-    "ipv6": [
-      "2620:ae:c000::/48"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

@@ -4,7 +4,7 @@
   "description": "M/s Speed Net Communication",
   "subnets": {
     "ipv4": [
-      "103.125.96.0/23",
+      "103.125.97.0/24",
       "103.125.98.0/24"
     ],
     "ipv6": []

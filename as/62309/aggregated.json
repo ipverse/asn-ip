@@ -1,9 +1,11 @@
 {
   "asn": 62309,
-  "handle": "RESERVED",
-  "description": "RIPE NCC ASN block",
+  "handle": "CHROMATEL",
+  "description": "Shawn Rassi trading as Chromatel",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2001:67c:af0::/48"
+    ]
   }
 }

@@ -1,0 +1,11 @@
+{
+  "asn": 59956,
+  "handle": "EU-IX",
+  "description": "PP Lurenet",
+  "subnets": {
+    "ipv4": [
+      "176.117.80.0/20"
+    ],
+    "ipv6": []
+  }
+}
