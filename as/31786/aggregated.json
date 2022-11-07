@@ -3,7 +3,10 @@
   "handle": "ZOOMINGWORK-LLC",
   "description": "PloxHost",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "172.111.48.0/24",
+      "199.253.30.0/24"
+    ],
     "ipv6": []
   }
 }

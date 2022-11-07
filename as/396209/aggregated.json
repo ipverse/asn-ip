@@ -4,7 +4,8 @@
   "description": "Enclara Pharmacia, Inc.",
   "subnets": {
     "ipv4": [
-      "65.247.40.0/23"
+      "65.247.40.0/23",
+      "208.176.52.0/24"
     ],
     "ipv6": []
   }
