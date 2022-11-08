@@ -1,11 +1,9 @@
 {
   "asn": 60383,
-  "handle": "NUGPB",
+  "handle": "GAZPROMBANK",
   "description": "Gazprombank (Joint-stock Company)",
   "subnets": {
-    "ipv4": [
-      "212.193.172.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

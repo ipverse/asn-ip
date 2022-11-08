@@ -4,8 +4,6 @@
   "description": "MoccaCloud Hosting LTD.",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2a12:dd47:81d0::/44"
-    ]
+    "ipv6": []
   }
 }

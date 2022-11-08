@@ -3,9 +3,7 @@
   "handle": "HUMEDICA",
   "description": "Humedica, Inc.",
   "subnets": {
-    "ipv4": [
-      "162.247.173.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

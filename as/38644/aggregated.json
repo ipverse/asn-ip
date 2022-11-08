@@ -4,6 +4,7 @@
   "description": "KANDANET",
   "subnets": {
     "ipv4": [
+      "115.69.238.0/24",
       "210.173.190.0/24"
     ],
     "ipv6": [

@@ -4,8 +4,7 @@
   "description": "WinSonic Digital Cable Systems Network, Ltd.",
   "subnets": {
     "ipv4": [
-      "38.147.48.0/21",
-      "192.111.25.0/24"
+      "38.147.48.0/21"
     ],
     "ipv6": []
   }

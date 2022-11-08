@@ -4,6 +4,7 @@
   "description": "ConectHost Datacenter",
   "subnets": {
     "ipv4": [
+      "104.234.80.0/24",
       "181.215.254.0/24"
     ],
     "ipv6": [

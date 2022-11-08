@@ -3,7 +3,9 @@
   "handle": "PH-285",
   "description": "Pegboard Hosting Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "198.51.75.0/24"
+    ],
     "ipv6": []
   }
 }

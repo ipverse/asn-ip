@@ -4,7 +4,8 @@
   "description": "NZ Safety Blackwoods",
   "subnets": {
     "ipv4": [
-      "103.183.142.0/23"
+      "103.183.142.0/23",
+      "202.37.197.0/24"
     ],
     "ipv6": []
   }

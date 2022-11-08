@@ -4,6 +4,8 @@
   "description": "D P DOS SANTOS SERVICOS DE INTERNET",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2804:7ee0::/32"
+    ]
   }
 }

@@ -4,7 +4,8 @@
   "description": "Interfacil - Internet Provider",
   "subnets": {
     "ipv4": [
-      "170.150.81.0/24"
+      "170.150.81.0/24",
+      "177.85.45.0/24"
     ],
     "ipv6": []
   }

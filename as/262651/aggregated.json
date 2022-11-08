@@ -4,7 +4,9 @@
   "description": "LIBnet Comunicao Interativa Ltda",
   "subnets": {
     "ipv4": [
-      "177.105.192.0/24"
+      "131.255.128.0/22",
+      "143.208.88.0/22",
+      "177.105.192.0/20"
     ],
     "ipv6": []
   }

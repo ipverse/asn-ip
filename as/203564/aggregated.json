@@ -4,6 +4,8 @@
   "description": "Timber Hill (Europe) AG",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a0a:d6c0:2035::/48"
+    ]
   }
 }

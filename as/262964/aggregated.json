@@ -3,9 +3,7 @@
   "handle": "CWNET-SERVIOS-TCNICOS",
   "description": "CWNET SERVIOS TCNICOS",
   "subnets": {
-    "ipv4": [
-      "186.237.24.0/22"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "SOCIAL-BLADE",
   "description": "Social Blade LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.83.1.0/24"
+    ],
     "ipv6": [
       "2602:810:5002::/48"
     ]

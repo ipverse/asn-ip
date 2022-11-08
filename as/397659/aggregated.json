@@ -3,7 +3,10 @@
   "handle": "GLWIZ",
   "description": "Group of Goldline",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.34.152.0/22",
+      "216.66.42.0/24"
+    ],
     "ipv6": []
   }
 }
