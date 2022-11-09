@@ -1,0 +1,11 @@
+{
+  "asn": 393351,
+  "handle": "AMERISBANK",
+  "description": "Ameris Bank",
+  "subnets": {
+    "ipv4": [
+      "38.101.53.0/24"
+    ],
+    "ipv6": []
+  }
+}

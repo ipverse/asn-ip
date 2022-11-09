@@ -1,0 +1,12 @@
+{
+  "asn": 149818,
+  "handle": "CONPL-AP",
+  "description": "COCOA ORIENTAL NETWORK (SINGAPORE) PTE. LTD.",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2400:7860:300::/40",
+      "2400:7860:400::/40"
+    ]
+  }
+}

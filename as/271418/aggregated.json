@@ -1,0 +1,11 @@
+{
+  "asn": 271418,
+  "handle": "FREYNET-TELECOM",
+  "description": "freynet telecom",
+  "subnets": {
+    "ipv4": [
+      "181.224.40.0/22"
+    ],
+    "ipv6": []
+  }
+}

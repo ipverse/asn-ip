@@ -4,7 +4,9 @@
   "description": "Drustvo za telekomunikacije Orion telekom doo Beograd-Zemun",
   "subnets": {
     "ipv4": [
-      "5.172.32.0/21",
+      "5.172.33.0/24",
+      "5.172.34.0/23",
+      "5.172.36.0/22",
       "46.16.104.0/22",
       "46.16.108.0/23",
       "46.16.110.0/24",

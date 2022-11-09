@@ -3,7 +3,9 @@
   "handle": "C-T-ARAUJO",
   "description": "C T DE ARAUJO - ME",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "170.244.36.0/22"
+    ],
     "ipv6": []
   }
 }

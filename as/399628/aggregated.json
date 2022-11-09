@@ -4,10 +4,11 @@
   "description": "Internet Measurement Research",
   "subnets": {
     "ipv4": [
+      "209.188.108.0/24",
       "209.237.154.0/24"
     ],
     "ipv6": [
-      "2620:96:a000::/48"
+      "2620:96:a000::/47"
     ]
   }
 }

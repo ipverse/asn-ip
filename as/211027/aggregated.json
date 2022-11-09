@@ -4,6 +4,14 @@
   "description": "Perfect Cloud Technologies LLC",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a11:780::/29",
+      "2a11:e86::/32",
+      "2a11:af06::/36",
+      "2a11:af06:5000::/36",
+      "2a11:af06:8000::/36",
+      "2a11:af06:c000::/36",
+      "2a11:af07::/32"
+    ]
   }
 }

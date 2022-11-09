@@ -3,7 +3,9 @@
   "handle": "RHYS",
   "description": "Rhys Williams",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "23.129.128.0/24"
+    ],
     "ipv6": [
       "2a0b:6b86:200::/40"
     ]

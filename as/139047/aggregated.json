@@ -3,9 +3,7 @@
   "handle": "RFL-AP",
   "description": "Royal Freemasons Ltd",
   "subnets": {
-    "ipv4": [
-      "103.120.216.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

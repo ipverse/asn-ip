@@ -3,7 +3,9 @@
   "handle": "H-NEWS-TELECOMUNICACOES",
   "description": "H NEWS TELECOMUNICACOES E INFORMATICA LTDA - ME",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.5.84.0/22"
+    ],
     "ipv6": []
   }
 }

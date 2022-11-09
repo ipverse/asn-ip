@@ -3,9 +3,7 @@
   "handle": "RIVULETNETWORKS-AP",
   "description": "Rivulet Networks",
   "subnets": {
-    "ipv4": [
-      "103.55.156.0/24"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2001:df1:48c0::/48"
     ]

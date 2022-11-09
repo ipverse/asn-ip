@@ -1,0 +1,11 @@
+{
+  "asn": 395852,
+  "handle": "WEBAPP-IO-01",
+  "description": "webapp.io",
+  "subnets": {
+    "ipv4": [
+      "23.143.88.0/24"
+    ],
+    "ipv6": []
+  }
+}
