@@ -3,9 +3,7 @@
   "handle": "RPEER",
   "description": "rPeer Inc.",
   "subnets": {
-    "ipv4": [
-      "91.235.170.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "FIBER-SYS-TELECOM",
   "description": "FIBER SYS TELECOM LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "190.9.84.0/22"
+    ],
     "ipv6": [
       "2804:7dfc::/32"
     ]

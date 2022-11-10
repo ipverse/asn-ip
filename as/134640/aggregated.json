@@ -4,6 +4,7 @@
   "description": "PT DCI Indonesia",
   "subnets": {
     "ipv4": [
+      "103.22.205.0/24",
       "103.22.206.0/23"
     ],
     "ipv6": []

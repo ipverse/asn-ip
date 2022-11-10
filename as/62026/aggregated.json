@@ -3,7 +3,9 @@
   "handle": "FTS-TURKEY",
   "description": "FINK TELEKOMUNIKASYON HIZMETLERI TICARET LIMITED SIRKETI",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "178.211.156.0/24"
+    ],
     "ipv6": []
   }
 }

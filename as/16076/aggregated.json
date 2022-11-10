@@ -4,6 +4,7 @@
   "description": "Infotech S.r.l",
   "subnets": {
     "ipv4": [
+      "185.100.252.0/22",
       "194.177.64.0/19"
     ],
     "ipv6": []

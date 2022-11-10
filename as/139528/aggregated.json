@@ -3,9 +3,7 @@
   "handle": "ULTR0N",
   "description": "Ultron Broadband Private Limited",
   "subnets": {
-    "ipv4": [
-      "103.146.108.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

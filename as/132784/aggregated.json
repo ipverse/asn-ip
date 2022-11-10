@@ -3,7 +3,9 @@
   "handle": "SKYNE-IN",
   "description": "Ski Network Services Private Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.174.199.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -1,13 +1,11 @@
 {
   "asn": 48704,
-  "handle": "OPENCELL",
-  "description": "Freshwave Networks Limited",
+  "handle": "FRESHWAVE",
+  "description": "Freshwave Services Limited",
   "subnets": {
     "ipv4": [
       "185.171.220.0/22"
     ],
-    "ipv6": [
-      "2a0d:9d40::/29"
-    ]
+    "ipv6": []
   }
 }

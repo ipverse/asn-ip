@@ -1,0 +1,11 @@
+{
+  "asn": 273612,
+  "handle": "F-BARRETO-SERVICOS-INTERNET",
+  "description": "F A BARRETO SERVICOS DE INTERNET",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2804:8990:8000::/33"
+    ]
+  }
+}

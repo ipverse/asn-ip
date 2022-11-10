@@ -3,9 +3,7 @@
   "handle": "REBOOTMONKEY",
   "description": "Reboot Monkeys B.V.",
   "subnets": {
-    "ipv4": [
-      "185.252.193.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

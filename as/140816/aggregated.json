@@ -3,11 +3,7 @@
   "handle": "INTERNETVENO-VN",
   "description": "Internet Khong Trung Company",
   "subnets": {
-    "ipv4": [
-      "103.186.100.0/23"
-    ],
-    "ipv6": [
-      "2400:6f60::/48"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

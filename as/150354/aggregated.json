@@ -1,0 +1,11 @@
+{
+  "asn": 150354,
+  "handle": "BUCPL-AP",
+  "description": "Bluehub Unified Communications Pty Ltd",
+  "subnets": {
+    "ipv4": [
+      "103.18.234.0/23"
+    ],
+    "ipv6": []
+  }
+}
