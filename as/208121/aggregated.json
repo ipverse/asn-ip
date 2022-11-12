@@ -4,8 +4,7 @@
   "description": "BEAMSP ISP NETWORK LTD",
   "subnets": {
     "ipv4": [
-      "45.151.140.0/22",
-      "185.231.140.0/22"
+      "45.151.140.0/22"
     ],
     "ipv6": []
   }

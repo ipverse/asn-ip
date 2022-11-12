@@ -1,15 +1,9 @@
 {
   "asn": 48871,
-  "handle": "SALDAB",
+  "handle": "DUSTIN-MS-SE-2",
   "description": "Dustin Sverige AB",
   "subnets": {
-    "ipv4": [
-      "185.30.152.0/22",
-      "185.50.40.0/22",
-      "195.49.172.0/22"
-    ],
-    "ipv6": [
-      "2a04:4240::/29"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

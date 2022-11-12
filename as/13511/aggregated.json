@@ -4,7 +4,8 @@
   "description": "Univision Communications Inc.",
   "subnets": {
     "ipv4": [
-      "192.155.112.0/21"
+      "192.155.112.0/22",
+      "192.155.116.0/23"
     ],
     "ipv6": []
   }

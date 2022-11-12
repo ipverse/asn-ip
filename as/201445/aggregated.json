@@ -1,0 +1,11 @@
+{
+  "asn": 201445,
+  "handle": "SIMPLE-INFORMATION",
+  "description": "Simple Information Limited",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a06:a005:1c79::/48"
+    ]
+  }
+}

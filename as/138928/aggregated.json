@@ -3,7 +3,10 @@
   "handle": "CELLARMASTERS-NON-AP",
   "description": "Cellarmaster Wines Pty Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "49.255.9.0/24",
+      "203.34.43.0/24"
+    ],
     "ipv6": []
   }
 }

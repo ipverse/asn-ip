@@ -1,0 +1,11 @@
+{
+  "asn": 142539,
+  "handle": "SHUNKHLAIGROUP-AP",
+  "description": "Shunkhlai Group",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2407:95c0::/32"
+    ]
+  }
+}

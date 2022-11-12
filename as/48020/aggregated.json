@@ -4,6 +4,7 @@
   "description": "Maimona Wireless S.L.",
   "subnets": {
     "ipv4": [
+      "45.67.184.0/22",
       "89.45.208.0/24"
     ],
     "ipv6": []

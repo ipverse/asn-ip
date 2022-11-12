@@ -4,6 +4,7 @@
   "description": "CENTRAL DE REDES Y COMUNICACIONES DE GUATEMALA, SOCIEDAD ANONIMA",
   "subnets": {
     "ipv4": [
+      "38.52.208.0/21",
       "190.121.207.0/24"
     ],
     "ipv6": [
