@@ -3,9 +3,7 @@
   "handle": "SEQURE-NETWORKS",
   "description": "SEQURE NETWORKS SRL",
   "subnets": {
-    "ipv4": [
-      "204.157.251.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

@@ -4,7 +4,6 @@
   "description": "CHINANET Guangdong province network",
   "subnets": {
     "ipv4": [
-      "42.240.128.0/20",
       "42.240.176.0/20",
       "42.240.192.0/18",
       "43.231.80.0/20",

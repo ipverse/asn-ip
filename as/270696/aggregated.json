@@ -3,7 +3,9 @@
   "handle": "BW-20-INTERNET-TELECOM",
   "description": "BW 2.0 Internet Telecom Ltda.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "189.90.236.0/22"
+    ],
     "ipv6": []
   }
 }

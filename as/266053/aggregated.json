@@ -3,7 +3,9 @@
   "handle": "DESBRAVADORA-INTERNET-COMUNICAO",
   "description": "Desbravadora Internet e Comunicao Eireli",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.4.16.0/22"
+    ],
     "ipv6": []
   }
 }

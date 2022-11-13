@@ -3,7 +3,9 @@
   "handle": "KMCLAS",
   "description": "Kreative Multimedia Company Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.109.229.0/24"
+    ],
     "ipv6": []
   }
 }

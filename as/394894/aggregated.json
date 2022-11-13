@@ -3,11 +3,7 @@
   "handle": "CONDUIT-FRE2-01",
   "description": "Conduit Implementations, LLC",
   "subnets": {
-    "ipv4": [
-      "199.248.189.0/24"
-    ],
-    "ipv6": [
-      "2602:fd64:100::/40"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

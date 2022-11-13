@@ -3,9 +3,7 @@
   "handle": "FUSEMAIL",
   "description": "MailAnyone.net",
   "subnets": {
-    "ipv4": [
-      "208.70.135.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }
