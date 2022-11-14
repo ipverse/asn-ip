@@ -4,7 +4,6 @@
   "description": "IP Excess AB",
   "subnets": {
     "ipv4": [
-      "193.53.40.0/24",
       "194.32.144.0/23"
     ],
     "ipv6": [

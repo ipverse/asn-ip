@@ -3,7 +3,9 @@
   "handle": "DONTV-PRIM",
   "description": "Dontv-Prim SRL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "178.175.151.0/24"
+    ],
     "ipv6": []
   }
 }

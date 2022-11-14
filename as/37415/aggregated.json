@@ -4,10 +4,8 @@
   "description": "AFRINET SARL",
   "subnets": {
     "ipv4": [
-      "41.222.216.0/22"
+      "41.222.217.0/24"
     ],
-    "ipv6": [
-      "2c0f:eca0::/32"
-    ]
+    "ipv6": []
   }
 }

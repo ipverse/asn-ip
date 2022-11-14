@@ -3,7 +3,9 @@
   "handle": "MUNICIPALIDAD-MALAGUEO",
   "description": "MUNICIPALIDAD DE MALAGUEO",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.141.148.0/22"
+    ],
     "ipv6": []
   }
 }

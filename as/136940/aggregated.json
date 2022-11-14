@@ -3,7 +3,9 @@
   "handle": "COMSATLTD-AP",
   "description": "ComSat Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.99.174.0/24"
+    ],
     "ipv6": []
   }
 }
