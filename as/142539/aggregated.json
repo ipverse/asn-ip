@@ -3,7 +3,9 @@
   "handle": "SHUNKHLAIGROUP-AP",
   "description": "Shunkhlai Group",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.168.178.0/23"
+    ],
     "ipv6": [
       "2407:95c0::/32"
     ]

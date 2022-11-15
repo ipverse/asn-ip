@@ -1,9 +1,12 @@
 {
   "asn": 51661,
-  "handle": "RESERVED",
-  "description": "RIPE NCC ASN block",
+  "handle": "ALLSTARNET",
+  "description": "Allstar Net s.r.o.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.160.20.0/23",
+      "185.160.23.0/24"
+    ],
     "ipv6": []
   }
 }

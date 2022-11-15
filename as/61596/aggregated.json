@@ -3,7 +3,9 @@
   "handle": "HUGE-NETWORKS-SEGURANA",
   "description": "Huge Networks Segurana da Informao LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.167.236.0/24"
+    ],
     "ipv6": []
   }
 }

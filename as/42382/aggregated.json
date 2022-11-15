@@ -4,10 +4,9 @@
   "description": "CERNER CORPORATION PTY LIMITED",
   "subnets": {
     "ipv4": [
-      "45.124.40.0/23"
+      "45.124.41.0/24"
     ],
     "ipv6": [
-      "2400:e440:400::/41",
       "2400:e440:500::/41"
     ]
   }

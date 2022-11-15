@@ -4,8 +4,7 @@
   "description": "American Bankers Association",
   "subnets": {
     "ipv4": [
-      "198.242.42.0/24",
-      "207.19.80.0/24"
+      "198.242.42.0/24"
     ],
     "ipv6": []
   }

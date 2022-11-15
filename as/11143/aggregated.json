@@ -4,8 +4,6 @@
   "description": "OEConnection, LLC",
   "subnets": {
     "ipv4": [
-      "70.62.201.0/24",
-      "173.189.177.0/24",
       "204.9.97.0/24"
     ],
     "ipv6": []

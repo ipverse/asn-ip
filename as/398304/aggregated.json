@@ -4,6 +4,7 @@
   "description": "The IT Guy",
   "subnets": {
     "ipv4": [
+      "45.8.204.0/24",
       "162.218.242.0/24"
     ],
     "ipv6": [

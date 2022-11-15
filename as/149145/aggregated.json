@@ -1,0 +1,11 @@
+{
+  "asn": 149145,
+  "handle": "VNETWORK-TELECOM-VN",
+  "description": "VNETWORK TELECOMMUNICATION SERVICES COMPANY LIMITED",
+  "subnets": {
+    "ipv4": [
+      "103.161.23.0/24"
+    ],
+    "ipv6": []
+  }
+}

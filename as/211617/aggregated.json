@@ -4,6 +4,7 @@
   "description": "Gabriel ARGENTIERI",
   "subnets": {
     "ipv4": [
+      "185.186.67.0/24",
       "194.56.226.0/24"
     ],
     "ipv6": [

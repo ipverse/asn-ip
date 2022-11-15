@@ -3,9 +3,7 @@
   "handle": "FIBERNTI-IN",
   "description": "Fibernetisp Pvt Ltd",
   "subnets": {
-    "ipv4": [
-      "103.114.220.0/22"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

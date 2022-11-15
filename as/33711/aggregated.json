@@ -1,0 +1,11 @@
+{
+  "asn": 33711,
+  "handle": "IP-TELECOM",
+  "description": "IP Carrier",
+  "subnets": {
+    "ipv4": [
+      "80.76.49.0/24"
+    ],
+    "ipv6": []
+  }
+}

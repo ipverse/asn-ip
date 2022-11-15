@@ -3,9 +3,7 @@
   "handle": "CLOUDSTACK-VN",
   "description": "CLOUDSTACK COMPANY LIMITED",
   "subnets": {
-    "ipv4": [
-      "23.142.82.0/24"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2001:df0:2040::/48",
       "2001:df6:fc80::/48",
