@@ -3,11 +3,7 @@
   "handle": "NOCSULT",
   "description": "Nocsult Ltd",
   "subnets": {
-    "ipv4": [
-      "147.78.7.0/24"
-    ],
-    "ipv6": [
-      "2a09:19c0:8000::/48"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

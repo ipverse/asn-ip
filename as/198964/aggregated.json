@@ -3,11 +3,7 @@
   "handle": "DESCOM",
   "description": "Solteq Oyj",
   "subnets": {
-    "ipv4": [
-      "5.104.80.0/21"
-    ],
-    "ipv6": [
-      "2a06:1cc0::/32"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

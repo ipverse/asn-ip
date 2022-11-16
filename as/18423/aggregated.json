@@ -1,0 +1,11 @@
+{
+  "asn": 18423,
+  "handle": "RAID-TW",
+  "description": "RAID Networks Co., Ltd.",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2406:9040::/32"
+    ]
+  }
+}

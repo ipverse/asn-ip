@@ -3,11 +3,7 @@
   "handle": "THOMSON-NELSON",
   "description": "Nelson a division of Thomson Canada Ltd.",
   "subnets": {
-    "ipv4": [
-      "67.70.225.0/24",
-      "69.32.164.0/24",
-      "69.32.189.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

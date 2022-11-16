@@ -3,7 +3,9 @@
   "handle": "BPPPTI-ID",
   "description": "Balai Penyedia dan Pengelola Pembiayaan Telekomunikasi dan Informatika",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.18.240.0/24"
+    ],
     "ipv6": []
   }
 }

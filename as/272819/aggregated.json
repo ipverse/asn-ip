@@ -4,8 +4,6 @@
   "description": "BOSCONET S.A.S.",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2803:6490::/32"
-    ]
+    "ipv6": []
   }
 }

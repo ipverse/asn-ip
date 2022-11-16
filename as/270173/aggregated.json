@@ -1,0 +1,11 @@
+{
+  "asn": 270173,
+  "handle": "INTERNET-EXCHANGE-SERVICES",
+  "description": "INTERNET EXCHANGE SERVICES YUCATAN",
+  "subnets": {
+    "ipv4": [
+      "45.164.108.0/24"
+    ],
+    "ipv6": []
+  }
+}

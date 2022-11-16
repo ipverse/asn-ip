@@ -3,7 +3,9 @@
   "handle": "WIRELAN",
   "description": "Wirelan SAS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.241.210.0/23"
+    ],
     "ipv6": []
   }
 }
