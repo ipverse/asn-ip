@@ -3,9 +3,7 @@
   "handle": "TERANET-COMUNICACOES-MULTIMIDIA",
   "description": "Teranet comunicacoes multimidia ltda",
   "subnets": {
-    "ipv4": [
-      "131.161.45.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

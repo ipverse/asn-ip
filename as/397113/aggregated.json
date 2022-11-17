@@ -1,0 +1,11 @@
+{
+  "asn": 397113,
+  "handle": "INGRESS-AUDIO-01",
+  "description": "Ingress Audio, LLC",
+  "subnets": {
+    "ipv4": [
+      "45.199.149.0/24"
+    ],
+    "ipv6": []
+  }
+}

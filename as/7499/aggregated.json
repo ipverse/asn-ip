@@ -4,8 +4,7 @@
   "description": "Cloud Network Services (HK) Ltd.",
   "subnets": {
     "ipv4": [
-      "202.182.240.0/24",
-      "202.182.248.0/21"
+      "202.182.240.0/20"
     ],
     "ipv6": []
   }

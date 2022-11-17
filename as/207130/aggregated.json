@@ -3,9 +3,7 @@
   "handle": "RKTCLOUD",
   "description": "rktcloud SPC",
   "subnets": {
-    "ipv4": [
-      "185.166.92.0/22"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

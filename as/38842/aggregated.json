@@ -1,0 +1,11 @@
+{
+  "asn": 38842,
+  "handle": "DNSNET",
+  "description": "DNS INTERNATIONAL",
+  "subnets": {
+    "ipv4": [
+      "103.160.226.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -3,7 +3,9 @@
   "handle": "WALTER-DEL-DUCA",
   "description": "Walter Del Duca",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.110.4.0/23"
+    ],
     "ipv6": []
   }
 }

@@ -1,0 +1,13 @@
+{
+  "asn": 22974,
+  "handle": "CHARTER-MICHIGAN-DETROIT-C3",
+  "description": "Charter Communications",
+  "subnets": {
+    "ipv4": [
+      "192.62.248.0/21"
+    ],
+    "ipv6": [
+      "2602:107:4700::/40"
+    ]
+  }
+}

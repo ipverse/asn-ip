@@ -3,7 +3,9 @@
   "handle": "LIBERTY",
   "description": "SC ITNS.NET SRL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.35.52.0/22"
+    ],
     "ipv6": []
   }
 }

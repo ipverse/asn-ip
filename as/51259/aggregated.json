@@ -3,9 +3,7 @@
   "handle": "ARCUS",
   "description": "Arcus Novus UAB",
   "subnets": {
-    "ipv4": [
-      "77.94.56.0/21"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

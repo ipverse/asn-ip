@@ -1,0 +1,13 @@
+{
+  "asn": 264036,
+  "handle": "CRM-SERVICOS-INTERNET",
+  "description": "CRM SERVICOS DE INTERNET LTDA",
+  "subnets": {
+    "ipv4": [
+      "143.137.120.0/22"
+    ],
+    "ipv6": [
+      "2804:29d0::/32"
+    ]
+  }
+}

@@ -4,6 +4,7 @@
   "description": "FAST PROVEDOR NET TELECOM LTDA",
   "subnets": {
     "ipv4": [
+      "45.162.136.0/22",
       "45.170.160.0/22"
     ],
     "ipv6": [
