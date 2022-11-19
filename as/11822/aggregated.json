@@ -1,0 +1,11 @@
+{
+  "asn": 11822,
+  "handle": "AFCU",
+  "description": "Arizona Federal Credit Union",
+  "subnets": {
+    "ipv4": [
+      "174.64.46.0/24"
+    ],
+    "ipv6": []
+  }
+}

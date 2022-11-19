@@ -3,11 +3,7 @@
   "handle": "IDNIC-ATHANET-ID",
   "description": "PT Atha Internet Nusantara",
   "subnets": {
-    "ipv4": [
-      "103.5.149.0/24"
-    ],
-    "ipv6": [
-      "2a0e:97c0:376::/48"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

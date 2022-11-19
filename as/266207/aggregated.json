@@ -4,6 +4,7 @@
   "description": "Onitel Telecomunicacoes",
   "subnets": {
     "ipv4": [
+      "170.80.36.0/24",
       "216.98.208.0/22"
     ],
     "ipv6": [

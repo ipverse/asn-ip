@@ -4,6 +4,7 @@
   "description": "National Academy of Sciences",
   "subnets": {
     "ipv4": [
+      "198.49.206.0/24",
       "214.9.168.0/24"
     ],
     "ipv6": []

@@ -1,0 +1,11 @@
+{
+  "asn": 400527,
+  "handle": "PROPONENT",
+  "description": "Proponent",
+  "subnets": {
+    "ipv4": [
+      "199.74.205.0/24"
+    ],
+    "ipv6": []
+  }
+}

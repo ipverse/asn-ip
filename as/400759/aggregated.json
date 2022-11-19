@@ -4,6 +4,7 @@
   "description": "American Cloud LLC",
   "subnets": {
     "ipv4": [
+      "23.141.200.0/24",
       "23.230.68.0/24",
       "45.38.46.0/24"
     ],

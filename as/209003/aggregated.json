@@ -1,0 +1,11 @@
+{
+  "asn": 209003,
+  "handle": "WIBI",
+  "description": "WIBI SRLS",
+  "subnets": {
+    "ipv4": [
+      "91.208.108.0/24"
+    ],
+    "ipv6": []
+  }
+}

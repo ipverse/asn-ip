@@ -1,7 +1,7 @@
 {
   "asn": 263327,
-  "handle": "HTM-SERVIOS-TELECOMUNICAES",
-  "description": "HTM Servios de Telecomunicaes EIRELI",
+  "handle": "HTM-SERVICOS-TELECOMUNICACOES",
+  "description": "HTM SERVICOS DE TELECOMUNICACOES LTDA",
   "subnets": {
     "ipv4": [
       "191.7.192.0/19"
@@ -24,7 +24,6 @@
       "2804:2468:c488::/48",
       "2804:2468:c888::/48",
       "2804:2468:e080::/48",
-      "2804:2468:e888::/48",
       "2804:2468:ec80::/48"
     ]
   }

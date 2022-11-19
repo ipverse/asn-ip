@@ -4,7 +4,8 @@
   "description": "PROVEDOR SUPERCELL NET",
   "subnets": {
     "ipv4": [
-      "181.233.140.0/22"
+      "181.233.140.0/23",
+      "181.233.142.0/24"
     ],
     "ipv6": [
       "2804:7c8c::/32"

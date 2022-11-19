@@ -4,12 +4,6 @@
   "description": "Suse Technology Limited",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2a06:a005:1d70::/44",
-      "2a06:a005:1f90::/44",
-      "2a06:a005:1fa0::/44",
-      "2a06:a005:1fd0::/44",
-      "2a06:a005:1fe0::/44"
-    ]
+    "ipv6": []
   }
 }

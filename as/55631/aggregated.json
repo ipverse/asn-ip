@@ -3,13 +3,7 @@
   "handle": "KSURE",
   "description": "Korea trade insurance corporation",
   "subnets": {
-    "ipv4": [
-      "211.32.193.0/24",
-      "211.32.194.0/24",
-      "211.32.196.0/24",
-      "211.32.201.0/24",
-      "221.149.236.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

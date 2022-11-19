@@ -3,7 +3,9 @@
   "handle": "ADMINS-LB",
   "description": "ADMINS LEBANON S.A.R.L",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.111.4.0/22"
+    ],
     "ipv6": []
   }
 }

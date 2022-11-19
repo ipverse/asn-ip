@@ -3,7 +3,9 @@
   "handle": "R8BRODNE-IN",
   "description": "R8brodnet Networks Private Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.160.222.0/24"
+    ],
     "ipv6": []
   }
 }

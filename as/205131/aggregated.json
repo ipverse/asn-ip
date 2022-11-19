@@ -3,7 +3,9 @@
   "handle": "MSTRADE",
   "description": "MS TRADE SOLUTION TECHNOLOGY LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.54.159.0/24"
+    ],
     "ipv6": []
   }
 }

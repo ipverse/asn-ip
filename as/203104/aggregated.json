@@ -1,0 +1,11 @@
+{
+  "asn": 203104,
+  "handle": "IBKR",
+  "description": "IBKR Financial Services AG",
+  "subnets": {
+    "ipv4": [
+      "194.209.145.0/24"
+    ],
+    "ipv6": []
+  }
+}

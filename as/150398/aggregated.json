@@ -1,0 +1,12 @@
+{
+  "asn": 150398,
+  "handle": "ZBPL-AP",
+  "description": "Zoom Broadband",
+  "subnets": {
+    "ipv4": [
+      "45.149.92.0/23",
+      "103.30.26.0/23"
+    ],
+    "ipv6": []
+  }
+}

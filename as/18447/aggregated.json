@@ -4,7 +4,8 @@
   "description": "Affinity Internet, Inc",
   "subnets": {
     "ipv4": [
-      "64.41.127.0/24"
+      "64.41.127.0/24",
+      "66.113.135.0/24"
     ],
     "ipv6": []
   }

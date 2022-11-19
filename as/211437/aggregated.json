@@ -3,7 +3,9 @@
   "handle": "SURLYNET",
   "description": "Gareth Woolridge",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "80.76.50.0/24"
+    ],
     "ipv6": [
       "2a0e:97c0:390::/44"
     ]
