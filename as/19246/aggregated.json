@@ -3,7 +3,10 @@
   "handle": "ACT2000",
   "description": "Antigua Computer Technology Co. Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "69.50.64.0/24",
+      "69.50.79.0/24"
+    ],
     "ipv6": []
   }
 }

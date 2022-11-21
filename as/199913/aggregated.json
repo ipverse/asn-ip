@@ -4,8 +4,7 @@
   "description": "VozTelecom Andalucia, S.L.U.",
   "subnets": {
     "ipv4": [
-      "185.42.120.0/23",
-      "185.42.122.0/24"
+      "185.42.120.0/23"
     ],
     "ipv6": []
   }

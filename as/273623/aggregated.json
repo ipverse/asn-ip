@@ -1,0 +1,11 @@
+{
+  "asn": 273623,
+  "handle": "SPEEDNET-ACARA",
+  "description": "SPEEDNET ACARA LTDA",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2804:89bc::/32"
+    ]
+  }
+}

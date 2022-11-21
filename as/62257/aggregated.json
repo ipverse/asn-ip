@@ -3,7 +3,10 @@
   "handle": "KARDOX",
   "description": "Mohsen Nikkhah trading as Kardox",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.147.150.0/24",
+      "194.147.170.0/24"
+    ],
     "ipv6": [
       "2a12:eb80::/29"
     ]
