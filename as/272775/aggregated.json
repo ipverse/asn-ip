@@ -3,7 +3,9 @@
   "handle": "COSTA-RODRIGUES-SERVIO",
   "description": "costa \u0026 rodrigues servio de telecomunicaes ltda",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.56.81.0/24"
+    ],
     "ipv6": [
       "2804:8880::/32"
     ]

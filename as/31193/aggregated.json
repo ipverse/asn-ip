@@ -3,7 +3,9 @@
   "handle": "VIATELE",
   "description": "VIA Teleport LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.26.134.0/24"
+    ],
     "ipv6": []
   }
 }

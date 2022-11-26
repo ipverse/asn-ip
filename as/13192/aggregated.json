@@ -3,9 +3,7 @@
   "handle": "DFACTORY-SARL",
   "description": "dFactory Sarl.",
   "subnets": {
-    "ipv4": [
-      "213.33.136.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

@@ -4,6 +4,7 @@
   "description": "Maria Irma Salazar",
   "subnets": {
     "ipv4": [
+      "181.232.175.0/24",
       "201.131.199.0/24"
     ],
     "ipv6": []

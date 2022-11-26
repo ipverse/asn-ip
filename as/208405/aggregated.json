@@ -3,7 +3,9 @@
   "handle": "SINET-ISP",
   "description": "SINET ISP. LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "213.139.212.0/22"
+    ],
     "ipv6": []
   }
 }

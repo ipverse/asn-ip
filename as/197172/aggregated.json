@@ -3,7 +3,9 @@
   "handle": "NICENETPLUS",
   "description": "NICENET PLUS ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.198.4.0/24"
+    ],
     "ipv6": []
   }
 }

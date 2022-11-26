@@ -4,6 +4,8 @@
   "description": "Nanjing Echofa Precision Mould Manufacturing Co., Ltd.",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2407:d340:7129::/48"
+    ]
   }
 }
