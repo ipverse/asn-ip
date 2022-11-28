@@ -4,6 +4,9 @@
   "description": "Diego Duimel trading as RidieHosting",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a0a:6040:ff10::/46",
+      "2a12:dd47:807b::/48"
+    ]
   }
 }

@@ -1,0 +1,11 @@
+{
+  "asn": 150404,
+  "handle": "THUNDER-AP",
+  "description": "Aperture Science Limited",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2400:58a0:1800::/44"
+    ]
+  }
+}

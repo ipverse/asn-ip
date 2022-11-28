@@ -3,7 +3,9 @@
   "handle": "GOLD-TELECOMUNICACOES-LTDA-ME",
   "description": "GOLD TELECOMUNICACOES LTDA - ME",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "167.250.232.0/24"
+    ],
     "ipv6": []
   }
 }

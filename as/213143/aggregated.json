@@ -3,11 +3,7 @@
   "handle": "VALVISIO",
   "description": "valvisio international AG",
   "subnets": {
-    "ipv4": [
-      "45.84.196.0/24"
-    ],
-    "ipv6": [
-      "2a09:e683:4::/48"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

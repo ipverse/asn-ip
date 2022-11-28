@@ -3,7 +3,9 @@
   "handle": "PLACEX",
   "description": "ungleich GmbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.203.113.0/24"
+    ],
     "ipv6": []
   }
 }

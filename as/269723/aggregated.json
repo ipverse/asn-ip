@@ -3,7 +3,9 @@
   "handle": "FIBRANET-TECNOLOGIA",
   "description": "FIBRANET TECNOLOGIA LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "187.62.72.0/22"
+    ],
     "ipv6": []
   }
 }

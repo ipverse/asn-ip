@@ -3,7 +3,11 @@
   "handle": "MTL12",
   "description": "Microboss Technologies Ltd",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "102.214.60.0/22"
+    ],
+    "ipv6": [
+      "2c0f:7c80::/32"
+    ]
   }
 }
