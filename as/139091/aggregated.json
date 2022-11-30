@@ -3,9 +3,7 @@
   "handle": "SHMBN",
   "description": "Shanghai MBN telecommunication technology Co., LTD.",
   "subnets": {
-    "ipv4": [
-      "103.140.14.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

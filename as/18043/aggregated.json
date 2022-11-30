@@ -3,9 +3,7 @@
   "handle": "GETOP-TW",
   "description": "GETOP Automatic System Inc.",
   "subnets": {
-    "ipv4": [
-      "202.5.4.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

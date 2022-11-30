@@ -4,7 +4,8 @@
   "description": "MATEUS FREITAS ANTONIO LTDA",
   "subnets": {
     "ipv4": [
-      "186.219.232.0/22"
+      "186.219.232.0/23",
+      "186.219.235.0/24"
     ],
     "ipv6": [
       "2804:6e9c::/32"

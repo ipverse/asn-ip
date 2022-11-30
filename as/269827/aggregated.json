@@ -3,12 +3,7 @@
   "handle": "VIGINET-CA",
   "description": "VIGINET C.A",
   "subnets": {
-    "ipv4": [
-      "190.97.237.0/24",
-      "190.97.243.0/24"
-    ],
-    "ipv6": [
-      "2803:d760:c000::/34"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

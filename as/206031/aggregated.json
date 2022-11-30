@@ -4,6 +4,7 @@
   "description": "KNAPP System Integration GmbH",
   "subnets": {
     "ipv4": [
+      "89.207.124.0/24",
       "193.16.242.0/24"
     ],
     "ipv6": []

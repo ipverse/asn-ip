@@ -1,0 +1,11 @@
+{
+  "asn": 203270,
+  "handle": "RU-FORTUM",
+  "description": "PAO Fortum",
+  "subnets": {
+    "ipv4": [
+      "109.68.206.0/24"
+    ],
+    "ipv6": []
+  }
+}
