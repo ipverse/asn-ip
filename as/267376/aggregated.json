@@ -3,11 +3,7 @@
   "handle": "RS-INTERNET",
   "description": "RS INTERNET LTDA",
   "subnets": {
-    "ipv4": [
-      "45.234.184.0/22"
-    ],
-    "ipv6": [
-      "2804:4c88::/32"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

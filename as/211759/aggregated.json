@@ -1,9 +1,11 @@
 {
   "asn": 211759,
-  "handle": "RESTORE",
-  "description": "reStore LLC",
+  "handle": "MIKU-NET",
+  "description": "Miku Network Technology Limited",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a12:3fc2:ab40::/48"
+    ]
   }
 }

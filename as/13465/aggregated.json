@@ -3,9 +3,7 @@
   "handle": "HAUTE-VITESSE",
   "description": "Haute-Vitesse.com",
   "subnets": {
-    "ipv4": [
-      "134.195.188.0/22"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

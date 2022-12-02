@@ -3,7 +3,9 @@
   "handle": "IDNIC-TRANSDATAID-ID",
   "description": "CV Trans Data Solution",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.164.148.0/23"
+    ],
     "ipv6": []
   }
 }

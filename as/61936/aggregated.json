@@ -1,13 +1,13 @@
 {
   "asn": 61936,
-  "handle": "VIATEC-TELECOMUNICAES-EIRELI",
-  "description": "VIATEC TELECOMUNICAES EIRELI",
+  "handle": "VIATEC-TELECOMUNICAES",
+  "description": "VIATEC TELECOMUNICAES LTDA",
   "subnets": {
     "ipv4": [
       "201.158.8.0/21"
     ],
     "ipv6": [
-      "2804:1880:8000::/33"
+      "2804:1880::/32"
     ]
   }
 }

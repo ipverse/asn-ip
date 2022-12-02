@@ -4,7 +4,8 @@
   "description": "Adelaide Venue Management Corporation",
   "subnets": {
     "ipv4": [
-      "103.80.251.0/24"
+      "103.80.251.0/24",
+      "103.189.210.0/24"
     ],
     "ipv6": []
   }

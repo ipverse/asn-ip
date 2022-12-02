@@ -4,7 +4,9 @@
   "description": "Duomenu apdorojimo centras LTD",
   "subnets": {
     "ipv4": [
+      "46.23.100.0/22",
       "77.47.178.0/23",
+      "85.158.148.0/22",
       "178.23.189.0/24"
     ],
     "ipv6": []

@@ -3,7 +3,10 @@
   "handle": "REDI-NET",
   "description": "REDI Net",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "162.252.60.0/22",
+      "199.229.236.0/23"
+    ],
     "ipv6": []
   }
 }

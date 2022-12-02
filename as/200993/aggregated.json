@@ -1,0 +1,12 @@
+{
+  "asn": 200993,
+  "handle": "YANLV",
+  "description": "Yanislav Basiuk",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a06:a005:855::/48",
+      "2a06:a005:1d52::/48"
+    ]
+  }
+}
