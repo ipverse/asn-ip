@@ -3,7 +3,9 @@
   "handle": "VIANANET-FIBRA",
   "description": "Viananet Fibra",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "168.205.28.0/22"
+    ],
     "ipv6": []
   }
 }

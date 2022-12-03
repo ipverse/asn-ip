@@ -4,8 +4,6 @@
   "description": "DuckCloud Network INC.",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2a12:dd47:8200::/44"
-    ]
+    "ipv6": []
   }
 }

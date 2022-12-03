@@ -1,0 +1,13 @@
+{
+  "asn": 22710,
+  "handle": "CHARTER-LOUSIANA-C3",
+  "description": "Charter Communications",
+  "subnets": {
+    "ipv4": [
+      "192.61.64.0/21"
+    ],
+    "ipv6": [
+      "2602:107:4600::/40"
+    ]
+  }
+}

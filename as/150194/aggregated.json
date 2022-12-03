@@ -1,0 +1,11 @@
+{
+  "asn": 150194,
+  "handle": "IDNIC-AFANET-ID",
+  "description": "CV Afanet Multimedia",
+  "subnets": {
+    "ipv4": [
+      "103.49.150.0/24"
+    ],
+    "ipv6": []
+  }
+}

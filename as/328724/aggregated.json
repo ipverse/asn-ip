@@ -4,7 +4,8 @@
   "description": "ISAT AFRICA KENYA LTD",
   "subnets": {
     "ipv4": [
-      "102.222.44.0/23"
+      "102.222.44.0/23",
+      "102.222.46.0/24"
     ],
     "ipv6": []
   }

@@ -3,7 +3,9 @@
   "handle": "HUBFLAKE",
   "description": "HubFlake Solutions SRL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.38.53.0/24"
+    ],
     "ipv6": [
       "2a12:79c1:1::/48"
     ]
