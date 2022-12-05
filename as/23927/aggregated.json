@@ -3,7 +3,9 @@
   "handle": "MILCOM-AP",
   "description": "Milcom Systems Co.,Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "202.182.28.0/22"
+    ],
     "ipv6": []
   }
 }

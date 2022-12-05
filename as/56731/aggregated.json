@@ -1,0 +1,11 @@
+{
+  "asn": 56731,
+  "handle": "LIYING-NETWORK",
+  "description": "LiyingNetwork LLC",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a12:dd47:8e20::/44"
+    ]
+  }
+}

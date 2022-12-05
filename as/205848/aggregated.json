@@ -3,14 +3,7 @@
   "handle": "DOMINIK-POHL",
   "description": "Dominik Pohl",
   "subnets": {
-    "ipv4": [
-      "128.254.204.0/24"
-    ],
-    "ipv6": [
-      "2a05:dfc7:4200::/39",
-      "2a06:a005:cf0::/44",
-      "2a06:a005:1271::/48",
-      "2a0a:6040:f500::/40"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

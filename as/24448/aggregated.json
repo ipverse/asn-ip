@@ -3,7 +3,9 @@
   "handle": "NDSINDIA",
   "description": "Synamedia Technologies (India) Private Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "203.21.7.0/24"
+    ],
     "ipv6": []
   }
 }
