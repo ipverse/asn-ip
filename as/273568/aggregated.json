@@ -3,7 +3,9 @@
   "handle": "UNICA-TELECOM-EIRELI",
   "description": "UNICA TELECOM EIRELI",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "170.238.212.0/22"
+    ],
     "ipv6": [
       "2804:364c::/32",
       "2804:88e8::/32"

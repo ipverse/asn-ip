@@ -1,0 +1,13 @@
+{
+  "asn": 272854,
+  "handle": "TELECOMUNICACIONES-SILVERDATA-CA",
+  "description": "TELECOMUNICACIONES SILVERDATA, C.A.",
+  "subnets": {
+    "ipv4": [
+      "38.56.95.0/24"
+    ],
+    "ipv6": [
+      "2803:c290::/32"
+    ]
+  }
+}

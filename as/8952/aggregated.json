@@ -4,7 +4,8 @@
   "description": "NTT Europe Limited",
   "subnets": {
     "ipv4": [
-      "165.254.10.0/23"
+      "165.254.10.0/23",
+      "209.24.2.0/24"
     ],
     "ipv6": []
   }

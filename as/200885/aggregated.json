@@ -1,0 +1,11 @@
+{
+  "asn": 200885,
+  "handle": "TLC",
+  "description": "Tang Li Chun",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a06:a005:5::/48"
+    ]
+  }
+}

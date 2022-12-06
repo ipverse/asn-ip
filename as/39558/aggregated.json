@@ -4,6 +4,7 @@
   "description": "IP Resurs Ltd.",
   "subnets": {
     "ipv4": [
+      "5.8.20.0/24",
       "195.244.4.0/23"
     ],
     "ipv6": []

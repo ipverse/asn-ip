@@ -4,6 +4,7 @@
   "description": "PAPANET REDESUL TELECOM",
   "subnets": {
     "ipv4": [
+      "45.191.72.0/23",
       "131.108.56.0/22"
     ],
     "ipv6": []

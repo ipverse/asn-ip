@@ -1,0 +1,12 @@
+{
+  "asn": 200975,
+  "handle": "DOMINIK-POHL",
+  "description": "Dominik Pohl",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a05:dfc7:4200::/39",
+      "2a0a:6040:f500::/40"
+    ]
+  }
+}

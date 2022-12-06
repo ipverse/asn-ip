@@ -1,0 +1,11 @@
+{
+  "asn": 150200,
+  "handle": "IDNIC-SWAINET-ID",
+  "description": "PT Sarana Working Akses Indonesia",
+  "subnets": {
+    "ipv4": [
+      "103.196.40.0/23"
+    ],
+    "ipv6": []
+  }
+}
