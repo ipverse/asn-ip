@@ -4,6 +4,7 @@
   "description": "Standart AG, LLC",
   "subnets": {
     "ipv4": [
+      "178.250.187.0/24",
       "193.0.227.0/24"
     ],
     "ipv6": [

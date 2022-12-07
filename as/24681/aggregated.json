@@ -3,7 +3,9 @@
   "handle": "SUMIX-UA",
   "description": "Sumix Ukraine LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.110.184.0/23"
+    ],
     "ipv6": []
   }
 }

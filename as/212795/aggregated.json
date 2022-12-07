@@ -4,7 +4,8 @@
   "description": "Fraunhofer-Gesellschaft zur Foerderung der angewandten Forschung e.V.",
   "subnets": {
     "ipv4": [
-      "161.51.128.0/22"
+      "161.51.128.0/22",
+      "193.162.137.0/24"
     ],
     "ipv6": []
   }

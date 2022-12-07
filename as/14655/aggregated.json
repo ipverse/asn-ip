@@ -3,9 +3,7 @@
   "handle": "HAMPTONU",
   "description": "Hampton University",
   "subnets": {
-    "ipv4": [
-      "137.198.0.0/16"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

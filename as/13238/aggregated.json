@@ -4,6 +4,7 @@
   "description": "YANDEX LLC",
   "subnets": {
     "ipv4": [
+      "90.156.181.0/24",
       "93.158.179.0/24"
     ],
     "ipv6": [

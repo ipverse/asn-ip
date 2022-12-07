@@ -4,6 +4,7 @@
   "description": "JY Mobile Communications",
   "subnets": {
     "ipv4": [
+      "37.34.88.0/21",
       "43.254.128.0/22",
       "45.141.235.0/24",
       "46.3.134.0/24",

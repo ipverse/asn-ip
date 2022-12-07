@@ -1,0 +1,11 @@
+{
+  "asn": 400099,
+  "handle": "SMART-NET-01",
+  "description": "Alliance Data Services LLC",
+  "subnets": {
+    "ipv4": [
+      "64.27.182.0/23"
+    ],
+    "ipv6": []
+  }
+}

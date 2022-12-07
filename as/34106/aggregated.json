@@ -3,12 +3,7 @@
   "handle": "TELEGRAAF",
   "description": "Mediahuis Technology \u0026 Product Studio NV",
   "subnets": {
-    "ipv4": [
-      "94.100.112.0/20",
-      "217.196.32.0/20"
-    ],
-    "ipv6": [
-      "2a02:310::/32"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

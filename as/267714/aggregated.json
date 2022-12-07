@@ -3,7 +3,9 @@
   "handle": "VILA-RIVERA-GUSTAVO-ARIEL",
   "description": "VILA RIVERA GUSTAVO ARIEL(DAFinternet)",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.165.44.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -4,6 +4,9 @@
   "description": "Christopher Mundschau",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a05:4140:1f80::/43",
+      "2a06:a005:20d0::/44"
+    ]
   }
 }

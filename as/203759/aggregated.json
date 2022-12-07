@@ -4,6 +4,7 @@
   "description": "INTAC Services GmbH",
   "subnets": {
     "ipv4": [
+      "45.83.160.0/24",
       "185.86.191.0/24"
     ],
     "ipv6": [

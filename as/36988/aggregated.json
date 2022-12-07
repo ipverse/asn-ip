@@ -4,7 +4,8 @@
   "description": "Africell Sierra Leone Limited",
   "subnets": {
     "ipv4": [
-      "41.223.132.0/22",
+      "41.223.132.0/23",
+      "41.223.135.0/24",
       "102.220.249.0/24"
     ],
     "ipv6": []

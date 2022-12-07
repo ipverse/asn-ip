@@ -1,9 +1,11 @@
 {
   "asn": 61575,
-  "handle": "UNIVERSIDADE-FEDERAL-DE",
+  "handle": "UNIVERSIDADE-FEDERAL-MINAS",
   "description": "UNIVERSIDADE FEDERAL DE MINAS GERAIS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "184.164.247.0/24"
+    ],
     "ipv6": []
   }
 }

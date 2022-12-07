@@ -3,9 +3,7 @@
   "handle": "CONTACT",
   "description": "Contact Company, Ltd",
   "subnets": {
-    "ipv4": [
-      "62.84.104.0/21"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }
