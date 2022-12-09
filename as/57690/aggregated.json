@@ -3,7 +3,9 @@
   "handle": "INTERPHONE",
   "description": "INTERPHONE GROUP LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.128.24.0/22"
+    ],
     "ipv6": []
   }
 }

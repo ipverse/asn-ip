@@ -4,7 +4,8 @@
   "description": "ALISSON HENRIQUE DUARTE SERVICOS - ME",
   "subnets": {
     "ipv4": [
-      "45.239.236.0/23"
+      "45.239.236.0/23",
+      "45.239.238.0/24"
     ],
     "ipv6": [
       "2804:5074::/32"

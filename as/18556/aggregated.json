@@ -1,0 +1,11 @@
+{
+  "asn": 18556,
+  "handle": "SCIF",
+  "description": "State Compensation Insurance Fund",
+  "subnets": {
+    "ipv4": [
+      "206.202.70.0/24"
+    ],
+    "ipv6": []
+  }
+}

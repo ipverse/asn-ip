@@ -1,0 +1,11 @@
+{
+  "asn": 200731,
+  "handle": "JSN",
+  "description": "Jonathan Smith",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a06:a005:116c::/48"
+    ]
+  }
+}

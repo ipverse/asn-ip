@@ -4,7 +4,8 @@
   "description": "Supersonic Isp Connectivity India Pvt Ltd",
   "subnets": {
     "ipv4": [
-      "103.112.212.0/22"
+      "103.112.212.0/22",
+      "103.190.66.0/23"
     ],
     "ipv6": []
   }

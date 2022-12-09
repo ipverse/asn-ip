@@ -3,11 +3,7 @@
   "handle": "NEXXG-NET",
   "description": "PT Antar Mitra Prakarsa",
   "subnets": {
-    "ipv4": [
-      "43.247.108.0/22",
-      "45.124.248.0/22",
-      "103.244.252.0/22"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

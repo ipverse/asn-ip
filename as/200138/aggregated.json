@@ -4,7 +4,8 @@
   "description": "IBM BTO Business Consulting Services Sp. z o.o.",
   "subnets": {
     "ipv4": [
-      "129.35.156.0/24"
+      "129.35.156.0/24",
+      "193.31.19.0/24"
     ],
     "ipv6": []
   }

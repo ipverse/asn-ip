@@ -1,0 +1,11 @@
+{
+  "asn": 202044,
+  "handle": "GETECHBROTHERS-INTERNET",
+  "description": "Getechbrothers, MB",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a13:c40::/30"
+    ]
+  }
+}

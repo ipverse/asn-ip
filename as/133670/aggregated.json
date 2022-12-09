@@ -1,0 +1,11 @@
+{
+  "asn": 133670,
+  "handle": "RJSERVICE-IN",
+  "description": "RJ SERVICES",
+  "subnets": {
+    "ipv4": [
+      "103.100.245.0/24"
+    ],
+    "ipv6": []
+  }
+}

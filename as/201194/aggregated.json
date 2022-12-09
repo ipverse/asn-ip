@@ -4,7 +4,8 @@
   "description": "Kavoshgar Novin Karamad Co.Ltd",
   "subnets": {
     "ipv4": [
-      "45.81.16.0/22"
+      "45.81.16.0/22",
+      "185.201.49.0/24"
     ],
     "ipv6": []
   }

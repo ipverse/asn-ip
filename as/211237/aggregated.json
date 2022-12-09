@@ -4,6 +4,7 @@
   "description": "FORTR TELEKOMUNIKASYON SANAYI VE TICARET LIMITED SIRKETI",
   "subnets": {
     "ipv4": [
+      "5.45.39.0/24",
       "31.43.164.0/24",
       "45.65.113.0/24",
       "45.87.163.0/24",

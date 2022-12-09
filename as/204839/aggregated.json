@@ -3,9 +3,7 @@
   "handle": "KONICAMINOLTA-EU-CLOUD",
   "description": "KONICA MINOLTA BUSINESS SOLUTIONS DENMARK A/S",
   "subnets": {
-    "ipv4": [
-      "185.233.196.0/22"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

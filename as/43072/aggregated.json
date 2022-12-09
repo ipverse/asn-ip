@@ -4,8 +4,7 @@
   "description": "Stack Network Limited",
   "subnets": {
     "ipv4": [
-      "24.233.0.0/19",
-      "134.172.192.0/18"
+      "24.233.0.0/19"
     ],
     "ipv6": []
   }
