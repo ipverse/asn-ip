@@ -1,0 +1,11 @@
+{
+  "asn": 150460,
+  "handle": "IDNIC-AKSENT-ID",
+  "description": "PT Akses Sentral Teknologi",
+  "subnets": {
+    "ipv4": [
+      "103.46.4.0/23"
+    ],
+    "ipv6": []
+  }
+}

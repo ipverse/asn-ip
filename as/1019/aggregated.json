@@ -1,0 +1,11 @@
+{
+  "asn": 1019,
+  "handle": "SOTERAHEALTH",
+  "description": "Sotera Health",
+  "subnets": {
+    "ipv4": [
+      "8.28.165.0/24"
+    ],
+    "ipv6": []
+  }
+}

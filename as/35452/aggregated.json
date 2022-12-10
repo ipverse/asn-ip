@@ -3,7 +3,10 @@
   "handle": "CIMS-LON-UK",
   "description": "Affinion International Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "62.172.173.0/24",
+      "206.98.232.0/24"
+    ],
     "ipv6": []
   }
 }

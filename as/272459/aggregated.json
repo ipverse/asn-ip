@@ -3,9 +3,7 @@
   "handle": "CINET-TELECOMUNICACOES-EIRELI",
   "description": "CINET TELECOMUNICACOES EIRELI",
   "subnets": {
-    "ipv4": [
-      "132.255.129.0/24"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2804:8184::/32"
     ]

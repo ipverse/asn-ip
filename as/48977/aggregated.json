@@ -3,9 +3,7 @@
   "handle": "STEPCOM",
   "description": "Descartes Systems (Belgium) NV",
   "subnets": {
-    "ipv4": [
-      "94.126.128.0/21"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

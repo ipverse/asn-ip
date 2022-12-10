@@ -3,9 +3,7 @@
   "handle": "FOURSQUARE",
   "description": "Foursquare Labs Inc.",
   "subnets": {
-    "ipv4": [
-      "104.129.143.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

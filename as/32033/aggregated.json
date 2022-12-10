@@ -3,11 +3,7 @@
   "handle": "EXXONMOBIL-UTEC",
   "description": "ExxonMobil Global Services Company",
   "subnets": {
-    "ipv4": [
-      "150.127.225.0/24",
-      "150.127.254.0/24",
-      "158.21.0.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

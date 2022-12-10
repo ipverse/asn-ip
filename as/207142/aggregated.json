@@ -1,9 +1,14 @@
 {
   "asn": 207142,
-  "handle": "ANZHI",
-  "description": "Anzhi LLC",
+  "handle": "YENPIN-KUO",
+  "description": "YenPin Kuo",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "172.98.204.0/23",
+      "173.240.13.0/24",
+      "173.240.14.0/24",
+      "199.43.200.0/22"
+    ],
     "ipv6": []
   }
 }

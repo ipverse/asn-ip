@@ -1,0 +1,11 @@
+{
+  "asn": 203269,
+  "handle": "MNAGEL-NETWORK",
+  "description": "Malte Nagel",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2001:67c:428::/48"
+    ]
+  }
+}

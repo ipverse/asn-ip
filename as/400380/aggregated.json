@@ -3,7 +3,10 @@
   "handle": "PERMIAN-FIBER",
   "description": "PIONEER NATURAL RESOURCES USA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "81.199.36.0/22",
+      "81.199.144.0/23"
+    ],
     "ipv6": []
   }
 }

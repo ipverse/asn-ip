@@ -3,7 +3,9 @@
   "handle": "TARLETON",
   "description": "Tarleton State University",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "173.255.36.0/24"
+    ],
     "ipv6": []
   }
 }

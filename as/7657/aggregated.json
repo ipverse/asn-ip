@@ -3,9 +3,7 @@
   "handle": "VODAFONE-NZ-NGN",
   "description": "Vodafone New Zealand Limited",
   "subnets": {
-    "ipv4": [
-      "202.37.136.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

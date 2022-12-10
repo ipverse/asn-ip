@@ -4,8 +4,7 @@
   "description": "Province of New Brunswick",
   "subnets": {
     "ipv4": [
-      "142.139.0.0/16",
-      "162.252.135.0/24"
+      "142.139.0.0/16"
     ],
     "ipv6": []
   }

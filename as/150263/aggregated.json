@@ -1,0 +1,11 @@
+{
+  "asn": 150263,
+  "handle": "IDNIC-ALNET-ID",
+  "description": "PT Alnet Telekomunikasi Indonesia",
+  "subnets": {
+    "ipv4": [
+      "103.31.118.0/24"
+    ],
+    "ipv6": []
+  }
+}
