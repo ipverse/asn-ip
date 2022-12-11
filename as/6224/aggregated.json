@@ -4,12 +4,8 @@
   "description": "CenturyLink Communications, LLC",
   "subnets": {
     "ipv4": [
-      "165.224.130.0/23",
-      "165.224.132.0/24",
       "199.254.201.0/24"
     ],
-    "ipv6": [
-      "2610:e8::/33"
-    ]
+    "ipv6": []
   }
 }

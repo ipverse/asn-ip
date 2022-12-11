@@ -1,0 +1,12 @@
+{
+  "asn": 200840,
+  "handle": "BIZBETA",
+  "description": "BIZBETA LTD",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a06:a005:1dc0::/44",
+      "2a0a:6040:c400::/40"
+    ]
+  }
+}

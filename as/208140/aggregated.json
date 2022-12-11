@@ -4,8 +4,7 @@
   "description": "Elm Company PJS",
   "subnets": {
     "ipv4": [
-      "95.86.33.0/24",
-      "95.86.35.0/24"
+      "95.86.33.0/24"
     ],
     "ipv6": []
   }

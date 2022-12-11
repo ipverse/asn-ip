@@ -4,10 +4,8 @@
   "description": "Armour Technologies Ltd.",
   "subnets": {
     "ipv4": [
-      "103.132.224.0/22"
+      "103.132.227.0/24"
     ],
-    "ipv6": [
-      "2404:4140::/32"
-    ]
+    "ipv6": []
   }
 }

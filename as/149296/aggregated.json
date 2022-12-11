@@ -3,7 +3,9 @@
   "handle": "SPEXIAL-NETWORKS-AP",
   "description": "Zappie Host LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "23.26.230.0/24"
+    ],
     "ipv6": [
       "2a06:1287:3700::/40",
       "2a06:a005:3cc::/48",

@@ -4,8 +4,7 @@
   "description": "Accuris Technologies Ltd.",
   "subnets": {
     "ipv4": [
-      "23.130.137.0/24",
-      "172.99.232.0/24"
+      "23.130.137.0/24"
     ],
     "ipv6": [
       "2602:fcd3:8::/48",

@@ -4,7 +4,8 @@
   "description": "Panstwowa Wyzsza Szkola Zawodowa w Nysie",
   "subnets": {
     "ipv4": [
-      "89.42.163.0/24"
+      "89.42.163.0/24",
+      "91.210.236.0/24"
     ],
     "ipv6": []
   }

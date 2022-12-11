@@ -3,7 +3,9 @@
   "handle": "ELEKTRAFI",
   "description": "ELEKTRAFI LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "207.242.223.0/24"
+    ],
     "ipv6": [
       "2606:91c0::/32"
     ]

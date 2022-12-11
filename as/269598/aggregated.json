@@ -3,7 +3,9 @@
   "handle": "NOVA-ERA-TELECOMUNICAES",
   "description": "NOVA ERA TELECOMUNICAES - SERVIOS DE INTERNET",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.189.180.0/22"
+    ],
     "ipv6": []
   }
 }

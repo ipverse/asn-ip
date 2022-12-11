@@ -3,10 +3,7 @@
   "handle": "HDD-BROADBAND",
   "description": "HDD Broadband Inc.",
   "subnets": {
-    "ipv4": [
-      "45.59.139.0/24",
-      "198.62.196.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }
