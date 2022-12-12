@@ -3,7 +3,9 @@
   "handle": "NAU",
   "description": "National Aviation University",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.178.34.0/24"
+    ],
     "ipv6": [
       "2001:67c:1518::/48"
     ]

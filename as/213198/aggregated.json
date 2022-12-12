@@ -3,7 +3,9 @@
   "handle": "OCTAVACZ",
   "description": "OCTAVA DEFENCE, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.64.238.0/24"
+    ],
     "ipv6": []
   }
 }

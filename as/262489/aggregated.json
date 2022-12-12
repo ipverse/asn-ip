@@ -4,6 +4,8 @@
   "description": "Telecomunicaes Sapucai Telecom Ltda",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2804:18d4::/32"
+    ]
   }
 }

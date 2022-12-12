@@ -3,9 +3,7 @@
   "handle": "RMDK",
   "description": "SIA RMDK",
   "subnets": {
-    "ipv4": [
-      "178.213.48.0/21"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

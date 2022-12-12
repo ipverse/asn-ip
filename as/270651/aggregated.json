@@ -4,10 +4,9 @@
   "description": "PROVEDOR MSB DE COMUNICACOES EIRELI",
   "subnets": {
     "ipv4": [
-      "138.117.244.0/22"
+      "138.117.244.0/24",
+      "138.117.246.0/23"
     ],
-    "ipv6": [
-      "2804:6f4c:4000::/34"
-    ]
+    "ipv6": []
   }
 }

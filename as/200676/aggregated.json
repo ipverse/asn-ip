@@ -1,0 +1,12 @@
+{
+  "asn": 200676,
+  "handle": "SJOHNSON",
+  "description": "Svens Jansons",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a06:a005:45e::/48",
+      "2a06:a005:2680::/44"
+    ]
+  }
+}

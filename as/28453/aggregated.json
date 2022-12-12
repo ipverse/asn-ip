@@ -3,7 +3,9 @@
   "handle": "GK-TELECOMUNICACIONES",
   "description": "GK TELECOMUNICACIONES SA DE CV",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "138.36.152.0/22"
+    ],
     "ipv6": []
   }
 }
