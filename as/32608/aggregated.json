@@ -3,9 +3,7 @@
   "handle": "MIDASPLUS-INC",
   "description": "MIDASPLUS INC.",
   "subnets": {
-    "ipv4": [
-      "12.54.115.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

@@ -3,9 +3,7 @@
   "handle": "NDB",
   "description": "Joint Stock Company Public Trust Bank",
   "subnets": {
-    "ipv4": [
-      "185.191.141.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

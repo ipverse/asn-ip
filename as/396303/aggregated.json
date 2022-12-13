@@ -4,6 +4,8 @@
   "description": "Black Mesa Corporation",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2602:feda:f0f0::/44"
+    ]
   }
 }

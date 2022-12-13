@@ -1,0 +1,11 @@
+{
+  "asn": 150457,
+  "handle": "DSP-AP",
+  "description": "DSP",
+  "subnets": {
+    "ipv4": [
+      "103.47.102.0/24"
+    ],
+    "ipv6": []
+  }
+}

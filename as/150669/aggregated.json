@@ -1,0 +1,11 @@
+{
+  "asn": 150669,
+  "handle": "SNC-AP",
+  "description": "Speed Net Connection",
+  "subnets": {
+    "ipv4": [
+      "103.51.52.0/23"
+    ],
+    "ipv6": []
+  }
+}

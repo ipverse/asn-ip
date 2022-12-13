@@ -3,9 +3,7 @@
   "handle": "WAIA-4BYTE-AP",
   "description": "Internet Association of Australia Inc.",
   "subnets": {
-    "ipv4": [
-      "203.26.72.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

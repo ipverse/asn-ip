@@ -3,9 +3,7 @@
   "handle": "CONEXO-GLOBAL-COMUNICAO",
   "description": "CONEXO GLOBAL COMUNICAO LTDA ME",
   "subnets": {
-    "ipv4": [
-      "189.36.248.0/22"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

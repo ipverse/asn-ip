@@ -3,7 +3,11 @@
   "handle": "GLAUCA-CARRIER",
   "description": "AS207960 Cyfyngedig",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "193.3.165.0/24"
+    ],
+    "ipv6": [
+      "2a11:f2c0:1::/48"
+    ]
   }
 }

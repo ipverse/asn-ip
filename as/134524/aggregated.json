@@ -4,6 +4,7 @@
   "description": "LinkNet Communication International Limited",
   "subnets": {
     "ipv4": [
+      "43.246.168.0/22",
       "103.35.144.0/22"
     ],
     "ipv6": []

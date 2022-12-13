@@ -3,7 +3,9 @@
   "handle": "ADS-17",
   "description": "CDK Global, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.191.250.0/24"
+    ],
     "ipv6": []
   }
 }

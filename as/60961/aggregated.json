@@ -4,7 +4,8 @@
   "description": "Damen Shipyards Gorinchem B.V.",
   "subnets": {
     "ipv4": [
-      "185.22.188.0/22"
+      "185.22.189.0/24",
+      "185.22.190.0/23"
     ],
     "ipv6": []
   }

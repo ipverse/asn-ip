@@ -3,9 +3,7 @@
   "handle": "BIBLV",
   "description": "AS Baltic International Bank",
   "subnets": {
-    "ipv4": [
-      "80.233.130.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

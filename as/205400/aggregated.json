@@ -4,6 +4,7 @@
   "description": "VIVO CONNECTION spol. s r.o.",
   "subnets": {
     "ipv4": [
+      "85.132.136.0/22",
       "185.219.164.0/22"
     ],
     "ipv6": [
