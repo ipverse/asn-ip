@@ -3,7 +3,9 @@
   "handle": "J-S-CASTRO-BANDEIRA-FORTE",
   "description": "J. S. DE CASTRO BANDEIRA FORTE",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "187.63.232.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -1,0 +1,12 @@
+{
+  "asn": 397772,
+  "handle": "NTS-MCALLEN-01",
+  "description": "NTS Communications, LLC",
+  "subnets": {
+    "ipv4": [
+      "38.50.216.0/23",
+      "38.50.218.0/24"
+    ],
+    "ipv6": []
+  }
+}

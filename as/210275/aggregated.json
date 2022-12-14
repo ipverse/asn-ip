@@ -4,6 +4,7 @@
   "description": "Saudi Information Technology Company Ltd",
   "subnets": {
     "ipv4": [
+      "83.229.65.0/24",
       "176.105.148.0/22"
     ],
     "ipv6": []

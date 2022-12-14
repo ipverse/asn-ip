@@ -1,0 +1,13 @@
+{
+  "asn": 150419,
+  "handle": "SUBCOPTYLTD-AP",
+  "description": "SubCo Pty Ltd",
+  "subnets": {
+    "ipv4": [
+      "103.37.62.0/23"
+    ],
+    "ipv6": [
+      "2400:bfe0::/32"
+    ]
+  }
+}

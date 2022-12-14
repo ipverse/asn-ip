@@ -4,6 +4,7 @@
   "description": "INSPITELE SOLUTIONS PRIVATE LIMITED",
   "subnets": {
     "ipv4": [
+      "103.31.40.0/24",
       "103.176.134.0/23"
     ],
     "ipv6": []

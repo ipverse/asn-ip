@@ -3,7 +3,9 @@
   "handle": "SIMNET-UA",
   "description": "FOP Demchuk Sergiy Olexandrovuch",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "31.134.120.0/21"
+    ],
     "ipv6": []
   }
 }

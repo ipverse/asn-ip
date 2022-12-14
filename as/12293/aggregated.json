@@ -1,0 +1,11 @@
+{
+  "asn": 12293,
+  "handle": "XVID",
+  "description": "Xvid Services OU",
+  "subnets": {
+    "ipv4": [
+      "45.132.64.0/22"
+    ],
+    "ipv6": []
+  }
+}

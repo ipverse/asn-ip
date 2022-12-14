@@ -3,13 +3,7 @@
   "handle": "PASSLIR",
   "description": "Passit Media And Communication Pvt. Ltd.",
   "subnets": {
-    "ipv4": [
-      "103.106.100.0/23",
-      "103.106.103.0/24"
-    ],
-    "ipv6": [
-      "2402:53c0::/36",
-      "2402:53c0:3000::/36"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

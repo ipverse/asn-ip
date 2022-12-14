@@ -3,10 +3,7 @@
   "handle": "RACC2000",
   "description": "RACC Enterprises, LLC",
   "subnets": {
-    "ipv4": [
-      "216.10.64.0/23",
-      "216.10.66.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

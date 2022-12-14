@@ -4,6 +4,7 @@
   "description": "Odine Solutions FZ-LLC",
   "subnets": {
     "ipv4": [
+      "178.22.8.0/24",
       "178.22.12.0/24",
       "194.62.141.0/24"
     ],

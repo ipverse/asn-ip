@@ -3,9 +3,7 @@
   "handle": "DGI",
   "description": "Digitale Gardermoen IS",
   "subnets": {
-    "ipv4": [
-      "194.60.75.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

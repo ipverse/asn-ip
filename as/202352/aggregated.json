@@ -3,7 +3,9 @@
   "handle": "MIBIT",
   "description": "CONECTA 3 TELECOM S.L.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.93.123.0/24"
+    ],
     "ipv6": [
       "2a05:6584::/32"
     ]

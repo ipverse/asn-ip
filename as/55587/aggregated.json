@@ -4,7 +4,6 @@
   "description": "GORayNet",
   "subnets": {
     "ipv4": [
-      "49.50.20.0/22",
       "49.50.24.0/21"
     ],
     "ipv6": []

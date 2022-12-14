@@ -4,6 +4,7 @@
   "description": "NTS Communications, LLC",
   "subnets": {
     "ipv4": [
+      "38.50.216.0/22",
       "38.50.220.0/23"
     ],
     "ipv6": []

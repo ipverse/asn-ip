@@ -3,7 +3,10 @@
   "handle": "IMUN-ID",
   "description": "PT Internet Mulia Untuk Negeri",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.147.156.0/23",
+      "103.170.24.0/23"
+    ],
     "ipv6": []
   }
 }

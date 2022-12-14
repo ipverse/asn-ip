@@ -1,0 +1,11 @@
+{
+  "asn": 200733,
+  "handle": "AMGROUP",
+  "description": "LLC AMGROUP",
+  "subnets": {
+    "ipv4": [
+      "212.22.90.0/24"
+    ],
+    "ipv6": []
+  }
+}

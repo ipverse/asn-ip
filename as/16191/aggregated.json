@@ -3,10 +3,7 @@
   "handle": "ICANET",
   "description": "B.B.Bell SPA",
   "subnets": {
-    "ipv4": [
-      "81.30.0.0/20",
-      "185.127.32.0/22"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

@@ -4,7 +4,8 @@
   "description": "Qwistel Network Service Private Limited",
   "subnets": {
     "ipv4": [
-      "103.127.130.0/24"
+      "103.127.130.0/24",
+      "103.176.17.0/24"
     ],
     "ipv6": []
   }

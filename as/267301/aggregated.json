@@ -3,9 +3,7 @@
   "handle": "TEUTONET-TELECOMUNICACOES",
   "description": "TEUTONET TELECOMUNICACOES LTDA",
   "subnets": {
-    "ipv4": [
-      "45.232.24.0/22"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2804:4b5c::/32"
     ]

@@ -4,8 +4,7 @@
   "description": "New Connect Telecomunicaes Ltda",
   "subnets": {
     "ipv4": [
-      "38.51.124.0/22",
-      "209.14.156.0/24"
+      "38.51.124.0/22"
     ],
     "ipv6": [
       "2804:8510::/32"

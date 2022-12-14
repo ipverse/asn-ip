@@ -1,9 +1,11 @@
 {
   "asn": 201949,
-  "handle": "UNUSED",
-  "description": "LLC Real-net",
+  "handle": "AS24875",
+  "description": "Seed Technologies LTD.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.88.8.0/24"
+    ],
     "ipv6": []
   }
 }

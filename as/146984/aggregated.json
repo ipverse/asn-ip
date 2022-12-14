@@ -1,0 +1,13 @@
+{
+  "asn": 146984,
+  "handle": "MF-SENDAI",
+  "description": "INTERNET MULTIFEED CO.",
+  "subnets": {
+    "ipv4": [
+      "115.69.236.0/24"
+    ],
+    "ipv6": [
+      "2400:b420::/32"
+    ]
+  }
+}
