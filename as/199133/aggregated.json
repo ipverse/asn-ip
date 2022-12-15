@@ -3,9 +3,7 @@
   "handle": "VIA-VOX",
   "description": "Via-Vox Ltd",
   "subnets": {
-    "ipv4": [
-      "5.63.16.0/21"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

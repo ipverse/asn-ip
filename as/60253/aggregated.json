@@ -1,0 +1,11 @@
+{
+  "asn": 60253,
+  "handle": "ELASTICHOSTS-LON-B",
+  "description": "Host Europe GmbH",
+  "subnets": {
+    "ipv4": [
+      "92.205.200.0/21"
+    ],
+    "ipv6": []
+  }
+}

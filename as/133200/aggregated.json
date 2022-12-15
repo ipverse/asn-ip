@@ -1,0 +1,11 @@
+{
+  "asn": 133200,
+  "handle": "NEOCOMISP-AP",
+  "description": "NeocomISP Limited",
+  "subnets": {
+    "ipv4": [
+      "167.179.18.0/24"
+    ],
+    "ipv6": []
+  }
+}

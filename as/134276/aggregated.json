@@ -3,7 +3,9 @@
   "handle": "ORBITB-IN",
   "description": "Orbit Broadband",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.163.192.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -1,0 +1,11 @@
+{
+  "asn": 150261,
+  "handle": "IDNIC-CYBERMEDIA-ID",
+  "description": "PT Cybermedia Network Nusantara",
+  "subnets": {
+    "ipv4": [
+      "103.22.216.0/23"
+    ],
+    "ipv6": []
+  }
+}

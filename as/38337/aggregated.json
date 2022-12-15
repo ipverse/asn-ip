@@ -4,6 +4,7 @@
   "description": "NIU Telecommunications Inc",
   "subnets": {
     "ipv4": [
+      "45.88.66.0/24",
       "45.128.235.0/24",
       "85.92.115.0/24",
       "85.158.149.0/24",

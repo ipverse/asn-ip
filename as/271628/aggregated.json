@@ -4,8 +4,6 @@
   "description": "GIGANET FIBRA",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2804:7e80::/32"
-    ]
+    "ipv6": []
   }
 }

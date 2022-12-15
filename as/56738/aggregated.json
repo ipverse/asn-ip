@@ -1,9 +1,11 @@
 {
   "asn": 56738,
-  "handle": "RESERVED",
-  "description": "RIPE NCC ASN block",
+  "handle": "SBGIX",
+  "description": "Association Exanot",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a0c:b641:3e0::/44"
+    ]
   }
 }

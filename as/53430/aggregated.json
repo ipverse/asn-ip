@@ -3,7 +3,9 @@
   "handle": "AMERINET-GPO",
   "description": "Amerinet",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "74.122.124.0/22"
+    ],
     "ipv6": []
   }
 }

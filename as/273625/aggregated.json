@@ -4,6 +4,8 @@
   "description": "EDSON DE SOUZA DON AQUINO - ME",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2804:89c4::/32"
+    ]
   }
 }

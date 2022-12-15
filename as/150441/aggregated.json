@@ -1,0 +1,11 @@
+{
+  "asn": 150441,
+  "handle": "FIS-AP",
+  "description": "F4 Internet Solutions",
+  "subnets": {
+    "ipv4": [
+      "103.42.52.0/23"
+    ],
+    "ipv6": []
+  }
+}
