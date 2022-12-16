@@ -3,7 +3,9 @@
   "handle": "MANISHAITH-IN",
   "description": "MANISHA IT HARDWARE",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.191.34.0/23"
+    ],
     "ipv6": []
   }
 }

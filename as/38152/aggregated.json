@@ -4,6 +4,7 @@
   "description": "PT Antar Mitra Prakarsa",
   "subnets": {
     "ipv4": [
+      "103.193.120.0/22",
       "103.244.252.0/22"
     ],
     "ipv6": []

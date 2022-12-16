@@ -1,0 +1,12 @@
+{
+  "asn": 17571,
+  "handle": "NCSOFT",
+  "description": "ncsoft",
+  "subnets": {
+    "ipv4": [
+      "209.35.156.0/24",
+      "209.35.188.0/23"
+    ],
+    "ipv6": []
+  }
+}

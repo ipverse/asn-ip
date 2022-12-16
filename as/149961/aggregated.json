@@ -3,7 +3,9 @@
   "handle": "IDNIC-BOMATEKNOLOGI-ID",
   "description": "PT Boma Eka Solusi Teknologi",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.184.183.0/24"
+    ],
     "ipv6": []
   }
 }

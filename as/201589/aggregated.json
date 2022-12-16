@@ -1,0 +1,13 @@
+{
+  "asn": 201589,
+  "handle": "EDGEAMLLC",
+  "description": "EDGEAM LLC",
+  "subnets": {
+    "ipv4": [
+      "5.101.71.0/24"
+    ],
+    "ipv6": [
+      "2a13:1ec0:1000::/44"
+    ]
+  }
+}

@@ -4,6 +4,7 @@
   "description": "PT Total Trimitra Teknologi",
   "subnets": {
     "ipv4": [
+      "103.131.218.0/24",
       "103.233.108.0/22"
     ],
     "ipv6": []

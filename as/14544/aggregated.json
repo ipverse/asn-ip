@@ -3,7 +3,10 @@
   "handle": "RETEK",
   "description": "Oracle Corporation",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "207.127.64.0/21",
+      "207.127.80.0/21"
+    ],
     "ipv6": []
   }
 }

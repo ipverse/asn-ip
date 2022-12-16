@@ -3,7 +3,9 @@
   "handle": "ATIMA-CREATIONS",
   "description": "Atima Creations LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "102.219.139.0/24"
+    ],
     "ipv6": []
   }
 }

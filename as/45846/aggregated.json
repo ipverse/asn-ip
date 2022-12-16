@@ -3,11 +3,7 @@
   "handle": "FSW-SHIGA-POP",
   "description": "Foresightwave INC.",
   "subnets": {
-    "ipv4": [
-      "121.50.48.0/21"
-    ],
-    "ipv6": [
-      "2400:ac00::/32"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

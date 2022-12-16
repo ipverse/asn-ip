@@ -3,7 +3,9 @@
   "handle": "ANGELS-SERVICO-COMUNICACAO",
   "description": "ANGELS SERVICO DE COMUNICACAO MULTIMIDIA LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "200.152.9.0/24"
+    ],
     "ipv6": []
   }
 }
