@@ -1,0 +1,11 @@
+{
+  "asn": 150579,
+  "handle": "WWCMLG-IN",
+  "description": "Wonderworld Communication",
+  "subnets": {
+    "ipv4": [
+      "103.181.22.0/24"
+    ],
+    "ipv6": []
+  }
+}

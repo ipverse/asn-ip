@@ -3,7 +3,9 @@
   "handle": "SCNABI-AP",
   "description": "Spectrum Cable network and broadband, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.183.192.0/23"
+    ],
     "ipv6": []
   }
 }

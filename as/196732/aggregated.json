@@ -3,9 +3,7 @@
   "handle": "RANDOMCAPITAL",
   "description": "Random Capital Zrt.",
   "subnets": {
-    "ipv4": [
-      "193.104.53.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

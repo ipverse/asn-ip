@@ -3,11 +3,7 @@
   "handle": "SECDES",
   "description": "Secure Designs, Inc.",
   "subnets": {
-    "ipv4": [
-      "66.193.68.0/24",
-      "216.54.201.0/24",
-      "216.54.217.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

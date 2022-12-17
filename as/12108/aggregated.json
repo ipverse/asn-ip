@@ -4,8 +4,7 @@
   "description": "PROFIT DEVELOPERS INC",
   "subnets": {
     "ipv4": [
-      "208.79.189.0/24",
-      "208.79.190.0/24"
+      "208.79.188.0/22"
     ],
     "ipv6": []
   }

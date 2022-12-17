@@ -3,9 +3,7 @@
   "handle": "CORTEX-IT",
   "description": "Cortex IT SA",
   "subnets": {
-    "ipv4": [
-      "5.187.56.0/21"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2a01:41c0::/32"
     ]

@@ -1,0 +1,13 @@
+{
+  "asn": 200638,
+  "handle": "JH-COMPUTERS",
+  "description": "JH-Computers GmbH",
+  "subnets": {
+    "ipv4": [
+      "81.163.195.0/24"
+    ],
+    "ipv6": [
+      "2a13:3640::/29"
+    ]
+  }
+}
