@@ -1,0 +1,12 @@
+{
+  "asn": 200570,
+  "handle": "IM-EVIL",
+  "description": "Evil Corp, LLC",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2602:fafd:6c::/46",
+      "2a0a:6040:ee00::/40"
+    ]
+  }
+}

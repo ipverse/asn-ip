@@ -3,9 +3,7 @@
   "handle": "SERVLET-LLC",
   "description": "Logical Solutions Inc",
   "subnets": {
-    "ipv4": [
-      "206.55.221.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

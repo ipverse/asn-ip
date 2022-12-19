@@ -4,6 +4,7 @@
   "description": "Mobile TeleSystems JLLC",
   "subnets": {
     "ipv4": [
+      "5.100.208.0/21",
       "46.56.40.0/21",
       "46.56.56.0/21",
       "46.56.64.0/18",
