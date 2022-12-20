@@ -3,9 +3,7 @@
   "handle": "RDSI",
   "description": "Rurbanc Data Services, Inc.",
   "subnets": {
-    "ipv4": [
-      "208.75.54.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

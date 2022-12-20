@@ -1,0 +1,12 @@
+{
+  "asn": 140115,
+  "handle": "LAYANPL-IN",
+  "description": "Laya Network Private Limited",
+  "subnets": {
+    "ipv4": [
+      "103.143.108.0/24",
+      "103.154.35.0/24"
+    ],
+    "ipv6": []
+  }
+}

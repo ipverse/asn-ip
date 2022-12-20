@@ -3,10 +3,7 @@
   "handle": "ALANTIC",
   "description": "ALTIC IT, UAB",
   "subnets": {
-    "ipv4": [
-      "193.24.0.0/23",
-      "193.24.4.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

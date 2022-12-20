@@ -1,0 +1,12 @@
+{
+  "asn": 400724,
+  "handle": "EZPNET",
+  "description": "EZProvider Networks, Inc.",
+  "subnets": {
+    "ipv4": [
+      "209.54.117.0/24",
+      "209.54.126.0/23"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asn": 329105,
+  "handle": "LUSAKA-IXP-MGT",
+  "description": "Lusaka Internet Exchange point",
+  "subnets": {
+    "ipv4": [
+      "196.49.88.0/24"
+    ],
+    "ipv6": []
+  }
+}

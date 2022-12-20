@@ -1,0 +1,12 @@
+{
+  "asn": 58944,
+  "handle": "TELIN-HK",
+  "description": "Telekomunikasi Indonesia International (Hong Kong) Limited",
+  "subnets": {
+    "ipv4": [
+      "103.26.92.0/24",
+      "103.26.94.0/24"
+    ],
+    "ipv6": []
+  }
+}

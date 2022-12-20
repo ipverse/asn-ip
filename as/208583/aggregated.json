@@ -3,7 +3,9 @@
   "handle": "SHADOWFORCE",
   "description": "Baffin Bay Networks AB",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.181.177.0/24"
+    ],
     "ipv6": []
   }
 }

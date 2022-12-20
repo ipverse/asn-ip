@@ -3,9 +3,7 @@
   "handle": "IDNIC-BPKPENABUR-ID",
   "description": "YAYASAN BADAN PENDIDIKAN KRISTEN PENABUR (YBPK)",
   "subnets": {
-    "ipv4": [
-      "103.68.136.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

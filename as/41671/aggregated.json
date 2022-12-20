@@ -3,7 +3,9 @@
   "handle": "HARMONY-NICK-LTD",
   "description": "SERVER.UA LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "146.19.198.0/24"
+    ],
     "ipv6": []
   }
 }

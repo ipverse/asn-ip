@@ -3,7 +3,9 @@
   "handle": "CLARKE-MULTIHOME-IP-BLOCK",
   "description": "Clarke Broadcasting Corporation",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "204.10.88.0/24"
+    ],
     "ipv6": []
   }
 }

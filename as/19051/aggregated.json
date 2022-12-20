@@ -3,9 +3,7 @@
   "handle": "SIMPLISAFE-01",
   "description": "SimpliSafe",
   "subnets": {
-    "ipv4": [
-      "207.180.141.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "STREET-RECIFE-SERVICO",
   "description": "STREET RECIFE SERVICO DE COMUNICACAO LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.236.60.0/22"
+    ],
     "ipv6": []
   }
 }
