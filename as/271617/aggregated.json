@@ -3,7 +3,9 @@
   "handle": "PAULO-R-S",
   "description": "Paulo R. S Rodriques teleconicaoes",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.162.202.0/23"
+    ],
     "ipv6": [
       "2804:7e54::/32"
     ]

@@ -3,11 +3,7 @@
   "handle": "PEPELYAEV",
   "description": "IE Pepelyaev V.A.",
   "subnets": {
-    "ipv4": [
-      "37.79.227.0/24",
-      "37.79.228.0/23",
-      "37.79.230.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

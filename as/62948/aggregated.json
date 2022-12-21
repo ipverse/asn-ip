@@ -3,11 +3,7 @@
   "handle": "ALRB-ALSAT",
   "description": "Air Link Rural Broadband, LLC",
   "subnets": {
-    "ipv4": [
-      "44.46.20.0/24",
-      "74.119.4.0/22",
-      "162.254.128.0/22"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

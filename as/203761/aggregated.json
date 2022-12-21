@@ -3,9 +3,7 @@
   "handle": "ACS-HARTMANN",
   "description": "ACS Hartmann",
   "subnets": {
-    "ipv4": [
-      "134.97.128.0/17"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

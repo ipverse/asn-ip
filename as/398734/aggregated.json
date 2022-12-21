@@ -4,7 +4,6 @@
   "description": "Fleettel INC",
   "subnets": {
     "ipv4": [
-      "38.80.70.0/24",
       "165.140.100.0/22"
     ],
     "ipv6": []

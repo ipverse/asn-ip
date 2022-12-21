@@ -1,0 +1,11 @@
+{
+  "asn": 202118,
+  "handle": "LAIN-NETWORKS",
+  "description": "Lain Networks Limited",
+  "subnets": {
+    "ipv4": [
+      "173.240.13.0/24"
+    ],
+    "ipv6": []
+  }
+}

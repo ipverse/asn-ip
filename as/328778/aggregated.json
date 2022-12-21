@@ -4,11 +4,10 @@
   "description": "Star Network Marketing Services Company (Proprietary) Limited",
   "subnets": {
     "ipv4": [
-      "102.221.4.0/23"
+      "102.221.4.0/24"
     ],
     "ipv6": [
       "2a02:f406:fed0::/48",
-      "2a02:f406:ff50::/48",
       "2c0f:800::/32"
     ]
   }

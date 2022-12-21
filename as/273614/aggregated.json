@@ -1,0 +1,11 @@
+{
+  "asn": 273614,
+  "handle": "CONEXAO-BRASIL",
+  "description": "Conexao Brasil",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2804:8998::/32"
+    ]
+  }
+}

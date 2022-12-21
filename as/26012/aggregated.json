@@ -3,9 +3,7 @@
   "handle": "NET-OHIO-BWC",
   "description": "Ohio Bureau of Worker\u0027s Compensation",
   "subnets": {
-    "ipv4": [
-      "192.131.99.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

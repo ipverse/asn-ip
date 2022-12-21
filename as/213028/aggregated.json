@@ -4,6 +4,7 @@
   "description": "DD webhosting B.V.",
   "subnets": {
     "ipv4": [
+      "194.87.74.0/24",
       "194.135.124.0/24"
     ],
     "ipv6": [

@@ -3,7 +3,9 @@
   "handle": "VNTU",
   "description": "Vinnytsia National Technical University",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.146.140.0/22"
+    ],
     "ipv6": []
   }
 }

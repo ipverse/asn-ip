@@ -3,11 +3,7 @@
   "handle": "AERO-NETWORKS",
   "description": "AERO NETWORKS LTDA",
   "subnets": {
-    "ipv4": [
-      "191.37.88.0/21"
-    ],
-    "ipv6": [
-      "2804:14d8:c000::/34"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

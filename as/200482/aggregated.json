@@ -1,0 +1,12 @@
+{
+  "asn": 200482,
+  "handle": "NEXSERV",
+  "description": "nexserv GmbH",
+  "subnets": {
+    "ipv4": [
+      "84.32.217.0/24",
+      "193.58.145.0/24"
+    ],
+    "ipv6": []
+  }
+}

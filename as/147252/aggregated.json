@@ -1,0 +1,11 @@
+{
+  "asn": 147252,
+  "handle": "NSNW-IN",
+  "description": "New Speed Net Works",
+  "subnets": {
+    "ipv4": [
+      "103.42.164.0/23"
+    ],
+    "ipv6": []
+  }
+}

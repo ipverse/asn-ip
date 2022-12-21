@@ -3,7 +3,14 @@
   "handle": "HIZHOSTING",
   "description": "Cnc Bilisim Hizmetleri Ins San Tic Ltd Sti",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "2.56.152.0/22",
+      "31.210.54.0/24",
+      "146.19.57.0/24",
+      "185.242.160.0/22",
+      "195.85.207.0/24",
+      "195.85.216.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,12 +3,7 @@
   "handle": "PEOPLES-FIBRE",
   "description": "Swish Fibre Ltd",
   "subnets": {
-    "ipv4": [
-      "193.17.86.0/24",
-      "193.17.176.0/23"
-    ],
-    "ipv6": [
-      "2a0f:9d80::/32"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

@@ -4,8 +4,6 @@
   "description": "Linn IT Solution Company Limited",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2400:ecc0::/32"
-    ]
+    "ipv6": []
   }
 }

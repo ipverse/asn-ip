@@ -1,12 +1,9 @@
 {
   "asn": 209257,
-  "handle": "KIT",
+  "handle": "K-NET-LO",
   "description": "Klett IT GmbH",
   "subnets": {
-    "ipv4": [
-      "185.186.221.0/24",
-      "185.186.223.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "EUROLAN",
   "description": "UKRGEOKON LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.190.148.0/23"
+    ],
     "ipv6": []
   }
 }

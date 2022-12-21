@@ -3,7 +3,9 @@
   "handle": "OPENMARKET-INC-2",
   "description": "OpenMarket",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "202.22.167.0/24"
+    ],
     "ipv6": []
   }
 }

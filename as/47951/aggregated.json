@@ -3,9 +3,7 @@
   "handle": "ARMEVA",
   "description": "Armeva Yazilim ve Danismanlik Anonim Sirketi",
   "subnets": {
-    "ipv4": [
-      "194.104.137.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

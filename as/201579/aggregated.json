@@ -3,9 +3,7 @@
   "handle": "HOSTGNOME",
   "description": "HOSTGNOME LTD",
   "subnets": {
-    "ipv4": [
-      "193.138.195.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }
