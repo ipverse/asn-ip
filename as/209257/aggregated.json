@@ -3,7 +3,9 @@
   "handle": "K-NET-LO",
   "description": "Klett IT GmbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.186.221.0/24"
+    ],
     "ipv6": []
   }
 }

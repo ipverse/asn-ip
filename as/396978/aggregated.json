@@ -3,9 +3,7 @@
   "handle": "CARGURUS-01",
   "description": "CarGurus, Inc.",
   "subnets": {
-    "ipv4": [
-      "209.163.105.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

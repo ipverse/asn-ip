@@ -1,0 +1,11 @@
+{
+  "asn": 15040,
+  "handle": "SEMTELCO",
+  "description": "SEMTELCO, INC",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2602:fabc::/40"
+    ]
+  }
+}

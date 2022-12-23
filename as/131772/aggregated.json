@@ -3,7 +3,9 @@
   "handle": "IDNIC-ATWEB-ID",
   "description": "PT Mitra Persada Lentera Sejahtera",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.16.78.0/24"
+    ],
     "ipv6": []
   }
 }

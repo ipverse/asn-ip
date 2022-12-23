@@ -1,0 +1,11 @@
+{
+  "asn": 209026,
+  "handle": "WTICARO",
+  "description": "WT SRLS",
+  "subnets": {
+    "ipv4": [
+      "185.253.236.0/22"
+    ],
+    "ipv6": []
+  }
+}

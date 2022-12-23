@@ -1,0 +1,12 @@
+{
+  "asn": 200351,
+  "handle": "QUANTUM-NET",
+  "description": "Guanzhong Chen",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a06:a005:26c8::/48",
+      "2a12:bec0:c0::/44"
+    ]
+  }
+}

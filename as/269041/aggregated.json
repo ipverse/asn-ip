@@ -3,9 +3,7 @@
   "handle": "GRUPO-JLF-NET",
   "description": "Grupo JLF-NET",
   "subnets": {
-    "ipv4": [
-      "45.178.168.0/22"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2804:5e90::/32"
     ]

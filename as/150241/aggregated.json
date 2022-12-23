@@ -1,0 +1,11 @@
+{
+  "asn": 150241,
+  "handle": "IDNIC-AMT-ASIANET-ID",
+  "description": "PT Asianet Media Teknologi",
+  "subnets": {
+    "ipv4": [
+      "103.66.38.0/24"
+    ],
+    "ipv6": []
+  }
+}

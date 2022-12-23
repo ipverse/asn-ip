@@ -4,6 +4,7 @@
   "description": "MARY ANN LIEBERT, INC",
   "subnets": {
     "ipv4": [
+      "47.19.26.0/24",
       "207.198.130.0/24"
     ],
     "ipv6": []

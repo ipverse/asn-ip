@@ -3,12 +3,7 @@
   "handle": "INFOGENIE",
   "description": "INFOGENIE Technologies",
   "subnets": {
-    "ipv4": [
-      "41.77.80.0/22",
-      "41.77.84.0/23"
-    ],
-    "ipv6": [
-      "2c0f:f3d8::/32"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

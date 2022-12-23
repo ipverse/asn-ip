@@ -3,7 +3,9 @@
   "handle": "MCKINNEYISD",
   "description": "McKinney ISD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "208.94.128.0/22"
+    ],
     "ipv6": []
   }
 }

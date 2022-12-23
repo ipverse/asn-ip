@@ -3,7 +3,9 @@
   "handle": "HMU-VN",
   "description": "Hanoi Medical University",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.254.16.0/22"
+    ],
     "ipv6": []
   }
 }

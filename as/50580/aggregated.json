@@ -1,0 +1,11 @@
+{
+  "asn": 50580,
+  "handle": "MARIO",
+  "description": "Mario Networks Limited",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a06:a005:2390::/44"
+    ]
+  }
+}

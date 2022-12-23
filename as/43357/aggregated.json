@@ -3,7 +3,9 @@
   "handle": "OWL",
   "description": "Owl Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.127.167.0/24"
+    ],
     "ipv6": [
       "2a07:d881::/32",
       "2a07:d882::/32",
