@@ -4,8 +4,6 @@
   "description": "Inligo Networks Pty Ltd",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2400:16e0::/32"
-    ]
+    "ipv6": []
   }
 }

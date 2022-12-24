@@ -1,0 +1,11 @@
+{
+  "asn": 57277,
+  "handle": "BAIKAL-IX-TRANSIT",
+  "description": "LLC Zero Kilometer",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2001:678:74c::/48"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asn": 210171,
+  "handle": "AVP-TECHNOLOGY",
+  "description": "LLC AVP-Technology",
+  "subnets": {
+    "ipv4": [
+      "109.107.167.0/24"
+    ],
+    "ipv6": []
+  }
+}

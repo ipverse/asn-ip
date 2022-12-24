@@ -3,11 +3,7 @@
   "handle": "KFON-IN",
   "description": "Kernel Fibernet Online Network Pvt Ltd",
   "subnets": {
-    "ipv4": [
-      "103.157.167.0/24"
-    ],
-    "ipv6": [
-      "2406:a340::/32"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

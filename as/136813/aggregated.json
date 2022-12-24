@@ -4,7 +4,7 @@
   "description": "NCC Bank, Bangladesh",
   "subnets": {
     "ipv4": [
-      "103.97.120.0/24"
+      "103.97.120.0/22"
     ],
     "ipv6": []
   }

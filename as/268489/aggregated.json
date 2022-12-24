@@ -3,11 +3,7 @@
   "handle": "ADM-DIGITAL-TELECOM",
   "description": "ADM DIGITAL TELECOM SERVICOS DE COMUNICACAO MULTIM",
   "subnets": {
-    "ipv4": [
-      "45.162.16.0/22"
-    ],
-    "ipv6": [
-      "2804:5200::/32"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

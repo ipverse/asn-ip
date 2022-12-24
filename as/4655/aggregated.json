@@ -4,8 +4,7 @@
   "description": "Sing Tao Electronic Daily",
   "subnets": {
     "ipv4": [
-      "203.80.0.0/22",
-      "218.188.78.0/24"
+      "203.80.0.0/22"
     ],
     "ipv6": []
   }
