@@ -4,6 +4,10 @@
   "description": "IPvX Solutions LLC",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2602:fafd:1::/48",
+      "2602:fafd:2::/47",
+      "2602:fafd:4::/48"
+    ]
   }
 }

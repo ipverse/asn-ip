@@ -3,7 +3,9 @@
   "handle": "MATHEUS-F-M",
   "description": "Matheus F M Freire Servios de Comunicao - ME",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.230.4.0/22"
+    ],
     "ipv6": []
   }
 }

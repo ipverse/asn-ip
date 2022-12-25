@@ -4,9 +4,6 @@
   "description": "Xiaodong Yang",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2a0a:6040:d700::/44",
-      "2a12:3fc2:e100::/44"
-    ]
+    "ipv6": []
   }
 }

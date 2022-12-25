@@ -3,7 +3,9 @@
   "handle": "ANGLOAMERICANSCHOOL",
   "description": "ANO Anglo-American School of Moscow",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.144.29.0/24"
+    ],
     "ipv6": []
   }
 }

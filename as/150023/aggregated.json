@@ -3,7 +3,10 @@
   "handle": "HERTZMEGA-IN",
   "description": "MEGAHERTZ SOLUTIONS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.190.158.0/23",
+      "103.191.32.0/23"
+    ],
     "ipv6": []
   }
 }

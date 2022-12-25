@@ -1,0 +1,11 @@
+{
+  "asn": 150681,
+  "handle": "R1DOTNET-AP",
+  "description": "R-1 dot net",
+  "subnets": {
+    "ipv4": [
+      "103.53.160.0/24"
+    ],
+    "ipv6": []
+  }
+}
