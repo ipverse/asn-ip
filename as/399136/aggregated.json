@@ -3,9 +3,7 @@
   "handle": "QL",
   "description": "QUADIX LLC",
   "subnets": {
-    "ipv4": [
-      "23.172.113.0/24"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2602:fcc8::/36"
     ]

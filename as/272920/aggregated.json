@@ -1,0 +1,12 @@
+{
+  "asn": 272920,
+  "handle": "UNIDAD-ADMINISTRATIVA-ESPECIAL",
+  "description": "UNIDAD ADMINISTRATIVA ESPECIAL DE AERONAUTICA CIVIL",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2801:1c9::/48",
+      "2801:1c9:4::/48"
+    ]
+  }
+}

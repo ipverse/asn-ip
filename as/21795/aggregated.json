@@ -3,7 +3,10 @@
   "handle": "MSMC",
   "description": "Mount Saint Mary College",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "184.171.176.0/20",
+      "192.245.86.0/24"
+    ],
     "ipv6": []
   }
 }

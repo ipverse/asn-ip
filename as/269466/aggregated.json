@@ -4,6 +4,7 @@
   "description": "W da S Paixao",
   "subnets": {
     "ipv4": [
+      "45.84.88.0/24",
       "45.187.128.0/22"
     ],
     "ipv6": [
