@@ -3,11 +3,7 @@
   "handle": "MT-NET-SERVIOS",
   "description": "MT NET SERVIOS DE INTERNET DE NOVO HORIZONTE",
   "subnets": {
-    "ipv4": [
-      "45.165.204.0/22"
-    ],
-    "ipv6": [
-      "2804:5520::/32"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

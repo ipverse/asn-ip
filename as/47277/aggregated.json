@@ -3,9 +3,7 @@
   "handle": "LWLCOM-TEST",
   "description": "LWLcom GmbH",
   "subnets": {
-    "ipv4": [
-      "45.151.240.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "VAMARK",
   "description": "\u0027\u0027IT FRUIT\u0027\u0027 S.R.L.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.83.176.0/23"
+    ],
     "ipv6": []
   }
 }

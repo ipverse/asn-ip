@@ -3,7 +3,9 @@
   "handle": "FORKSYSTEMS",
   "description": "FORK SYSTEMS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.57.173.0/24"
+    ],
     "ipv6": []
   }
 }
