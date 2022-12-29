@@ -3,7 +3,9 @@
   "handle": "COLOMICHIGAN",
   "description": "ColoMichigan LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "74.80.184.0/24"
+    ],
     "ipv6": []
   }
 }

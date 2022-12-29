@@ -1,9 +1,11 @@
 {
   "asn": 203749,
-  "handle": "HN",
-  "description": "Hutchinson Networks Ltd",
+  "handle": "O2CLOUD",
+  "description": "O2 Cloud, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.53.52.0/24"
+    ],
     "ipv6": []
   }
 }

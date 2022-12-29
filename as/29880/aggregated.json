@@ -3,9 +3,7 @@
   "handle": "PAYROLL-WC",
   "description": "Payroll Systems, LLC",
   "subnets": {
-    "ipv4": [
-      "50.232.119.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

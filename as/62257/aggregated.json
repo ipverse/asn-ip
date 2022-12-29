@@ -4,6 +4,7 @@
   "description": "Mohsen Nikkhah trading as Kardox",
   "subnets": {
     "ipv4": [
+      "45.139.9.0/24",
       "194.147.170.0/24"
     ],
     "ipv6": [

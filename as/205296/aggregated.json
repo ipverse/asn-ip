@@ -3,12 +3,7 @@
   "handle": "OMEGANET",
   "description": "Internet OmegaNET Sp. z o.o.",
   "subnets": {
-    "ipv4": [
-      "185.222.5.0/24",
-      "185.222.6.0/24"
-    ],
-    "ipv6": [
-      "2a0c:8440::/48"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

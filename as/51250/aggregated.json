@@ -1,0 +1,11 @@
+{
+  "asn": 51250,
+  "handle": "PRIMEX",
+  "description": "Serhii Khomenko",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a12:304::/30"
+    ]
+  }
+}

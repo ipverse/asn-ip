@@ -4,6 +4,7 @@
   "description": "Paul Flores",
   "subnets": {
     "ipv4": [
+      "93.186.69.0/24",
       "185.170.58.0/24"
     ],
     "ipv6": []

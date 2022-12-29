@@ -4,8 +4,11 @@
   "description": "Onet IDC Company",
   "subnets": {
     "ipv4": [
+      "103.59.170.0/23",
       "103.90.228.0/22"
     ],
-    "ipv6": []
+    "ipv6": [
+      "2400:cee0::/32"
+    ]
   }
 }

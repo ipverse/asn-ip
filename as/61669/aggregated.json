@@ -3,11 +3,7 @@
   "handle": "VEXPERT-TELECOM-EIRELI",
   "description": "Vexpert Telecom Eireli",
   "subnets": {
-    "ipv4": [
-      "131.108.12.0/22"
-    ],
-    "ipv6": [
-      "2804:1cb0::/32"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

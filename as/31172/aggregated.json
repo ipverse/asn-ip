@@ -3,7 +3,9 @@
   "handle": "QFAST",
   "description": "Dragonfly Holding B.V.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "87.239.100.0/22"
+    ],
     "ipv6": []
   }
 }

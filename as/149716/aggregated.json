@@ -3,7 +3,9 @@
   "handle": "IDNIC-MAHAKAMGLOBALMEDIA-ID",
   "description": "PT Mahakam Global Media",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.186.210.0/24"
+    ],
     "ipv6": []
   }
 }

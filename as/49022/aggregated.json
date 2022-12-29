@@ -1,0 +1,12 @@
+{
+  "asn": 49022,
+  "handle": "PM",
+  "description": "Polymer Mana Medicine Co.",
+  "subnets": {
+    "ipv4": [
+      "91.243.119.0/24",
+      "185.190.25.0/24"
+    ],
+    "ipv6": []
+  }
+}
