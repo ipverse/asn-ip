@@ -1,0 +1,11 @@
+{
+  "asn": 149688,
+  "handle": "IDNIC-SNT-ID",
+  "description": "PT Satelit Nusantara Tiga",
+  "subnets": {
+    "ipv4": [
+      "103.185.254.0/24"
+    ],
+    "ipv6": []
+  }
+}

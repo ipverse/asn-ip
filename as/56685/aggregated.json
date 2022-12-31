@@ -3,9 +3,7 @@
   "handle": "POST-SERVICE",
   "description": "LLC Post Service",
   "subnets": {
-    "ipv4": [
-      "91.230.218.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

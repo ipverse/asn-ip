@@ -1,11 +1,13 @@
 {
   "asn": 149749,
   "handle": "MORIZT-ID",
-  "description": "PT.PRATAMA KOMUNIKA SEJAHTERA",
+  "description": "Morizt ID",
   "subnets": {
     "ipv4": [
       "103.189.110.0/23"
     ],
-    "ipv6": []
+    "ipv6": [
+      "2001:df0:d540::/48"
+    ]
   }
 }

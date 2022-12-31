@@ -3,7 +3,9 @@
   "handle": "QIAGEN-01",
   "description": "QIAGEN SHARED SERVICES, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.55.245.0/24"
+    ],
     "ipv6": []
   }
 }

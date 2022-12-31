@@ -3,7 +3,9 @@
   "handle": "JKCONN-IN",
   "description": "J K Connect",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.162.160.0/24"
+    ],
     "ipv6": []
   }
 }

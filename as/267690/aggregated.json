@@ -4,8 +4,7 @@
   "description": "ELDA SALERNO(FULLNET)",
   "subnets": {
     "ipv4": [
-      "45.162.20.0/23",
-      "192.67.23.0/24"
+      "45.162.20.0/23"
     ],
     "ipv6": []
   }

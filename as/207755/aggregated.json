@@ -4,6 +4,7 @@
   "description": "Rory Bolton",
   "subnets": {
     "ipv4": [
+      "44.31.173.0/24",
       "44.131.15.0/24"
     ],
     "ipv6": []

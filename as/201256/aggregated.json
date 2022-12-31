@@ -3,7 +3,9 @@
   "handle": "OUTMAV",
   "description": "Outmav Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.92.45.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -4,8 +4,7 @@
   "description": "Dalenys Payment SAS",
   "subnets": {
     "ipv4": [
-      "80.70.222.0/23",
-      "80.89.122.0/24"
+      "80.70.222.0/23"
     ],
     "ipv6": [
       "2a02:d48:bb::/48"
