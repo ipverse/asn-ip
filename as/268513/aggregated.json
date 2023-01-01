@@ -3,12 +3,7 @@
   "handle": "RFC-SOUZA",
   "description": "RFC DE SOUZA LTDA",
   "subnets": {
-    "ipv4": [
-      "45.161.212.0/23",
-      "45.161.215.0/24"
-    ],
-    "ipv6": [
-      "2804:525c::/33"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

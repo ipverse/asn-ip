@@ -1,0 +1,11 @@
+{
+  "asn": 149326,
+  "handle": "IDNIC-POLTERA-ID",
+  "description": "Politeknik Negeri Madura",
+  "subnets": {
+    "ipv4": [
+      "103.178.222.0/24"
+    ],
+    "ipv6": []
+  }
+}

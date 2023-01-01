@@ -4,6 +4,7 @@
   "description": "wFlareLTD",
   "subnets": {
     "ipv4": [
+      "23.145.56.0/24",
       "104.37.43.0/24"
     ],
     "ipv6": [

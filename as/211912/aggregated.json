@@ -1,0 +1,12 @@
+{
+  "asn": 211912,
+  "handle": "DEM",
+  "description": "Yuri Demenin",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a0d:7d80::/29",
+      "2a10:a980::/29"
+    ]
+  }
+}

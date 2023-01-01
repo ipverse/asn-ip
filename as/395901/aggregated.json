@@ -3,10 +3,7 @@
   "handle": "ATLDC-01",
   "description": "ATL Data Centers LLC",
   "subnets": {
-    "ipv4": [
-      "185.213.222.0/23",
-      "204.141.16.0/22"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

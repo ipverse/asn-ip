@@ -3,7 +3,9 @@
   "handle": "THE-NATIONAL-BANK",
   "description": "The National Bank PLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.240.148.0/24"
+    ],
     "ipv6": []
   }
 }
