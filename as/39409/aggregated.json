@@ -4,6 +4,7 @@
   "description": "Sebastian-Wilhelm Graf",
   "subnets": {
     "ipv4": [
+      "37.153.156.0/24",
       "185.216.8.0/24"
     ],
     "ipv6": [

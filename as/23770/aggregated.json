@@ -1,7 +1,7 @@
 {
   "asn": 23770,
-  "handle": "RESERVED",
-  "description": "APNIC ASN block",
+  "handle": "NCBS-IN",
+  "description": "National Centre for Biological Sciences",
   "subnets": {
     "ipv4": [
       "158.144.174.0/23",

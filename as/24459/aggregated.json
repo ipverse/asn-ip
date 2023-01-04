@@ -1,7 +1,7 @@
 {
   "asn": 24459,
-  "handle": "RESERVED",
-  "description": "APNIC ASN block",
+  "handle": "NETVALUE-AP",
+  "description": "Netvalue Limited",
   "subnets": {
     "ipv4": [
       "103.248.176.0/22",

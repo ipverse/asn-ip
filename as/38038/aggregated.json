@@ -1,7 +1,7 @@
 {
   "asn": 38038,
-  "handle": "RESERVED",
-  "description": "APNIC ASN block",
+  "handle": "LITNETWORKS-AP",
+  "description": "Lit Networks Pty Ltd",
   "subnets": {
     "ipv4": [
       "103.152.222.0/23",

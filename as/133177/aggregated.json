@@ -3,7 +3,9 @@
   "handle": "WICOM-AP",
   "description": "Wicom Networks LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.254.120.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,9 +3,7 @@
   "handle": "ITEL7PTYLTD-AP",
   "description": "ITEL7 PTY LTD",
   "subnets": {
-    "ipv4": [
-      "103.136.112.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

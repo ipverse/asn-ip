@@ -1,0 +1,11 @@
+{
+  "asn": 46539,
+  "handle": "SHADOW-INTERNET",
+  "description": "Shadow Internet Ltd",
+  "subnets": {
+    "ipv4": [
+      "23.159.144.0/24"
+    ],
+    "ipv6": []
+  }
+}

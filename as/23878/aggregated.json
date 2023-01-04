@@ -1,7 +1,7 @@
 {
   "asn": 23878,
-  "handle": "RESERVED",
-  "description": "APNIC ASN block",
+  "handle": "SOFTSOURCE-AP",
+  "description": "Softsource Ltd",
   "subnets": {
     "ipv4": [
       "182.16.152.0/22",

@@ -3,11 +3,7 @@
   "handle": "HYPERNET-AP",
   "description": "HYPERNET",
   "subnets": {
-    "ipv4": [
-      "103.191.96.0/23"
-    ],
-    "ipv6": [
-      "2400:95a0::/32"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

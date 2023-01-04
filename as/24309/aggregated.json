@@ -1,7 +1,7 @@
 {
   "asn": 24309,
   "handle": "CABLELITE-AP",
-  "description": "Atria Convergence Technologies Pvt. Ltd. Broadband Internet Service Provider INDIA",
+  "description": "Atria Convergence Technologies Pvt. Ltd.,",
   "subnets": {
     "ipv4": [
       "23.62.12.0/23",
@@ -113,7 +113,7 @@
       "2406:7400:90::/46",
       "2406:7400:94::/47",
       "2406:7400:96::/48",
-      "2406:7400:98::/47",
+      "2406:7400:98::/46",
       "2406:7400:b0::/46",
       "2406:7400:b7::/48",
       "2406:7400:b8::/46",
@@ -123,6 +123,7 @@
       "2406:7400:f2::/48",
       "2406:7400:f5::/48",
       "2406:7400:101::/48",
+      "2406:7400:102::/48",
       "2600:140f:c000::/48"
     ]
   }

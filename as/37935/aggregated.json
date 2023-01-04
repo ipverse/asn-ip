@@ -1,7 +1,7 @@
 {
   "asn": 37935,
-  "handle": "RESERVED",
-  "description": "APNIC ASN block",
+  "handle": "IBM-ABS-AP",
+  "description": "IBM Australia Ltd",
   "subnets": {
     "ipv4": [
       "129.41.45.0/24"
