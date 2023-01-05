@@ -1,6 +1,4 @@
 # AS136210 (ITSPECTRUM-AP)
 # IT Spectrum Company Limited
 #
-2400:ecc0::/35
-2400:ecc0:9000::/36
-2400:ecc0:f000::/36
+2400:ecc0::/32

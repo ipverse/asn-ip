@@ -3,9 +3,7 @@
   "handle": "CSQUARED",
   "description": "C Squared Systems, LLC",
   "subnets": {
-    "ipv4": [
-      "192.80.74.0/23"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2620:13d:4000::/48",
       "2620:13d:400a::/48"

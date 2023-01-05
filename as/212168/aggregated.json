@@ -3,7 +3,9 @@
   "handle": "PRPR",
   "description": "prprCloud Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.46.81.0/24"
+    ],
     "ipv6": [
       "2407:d340:f000::/40"
     ]

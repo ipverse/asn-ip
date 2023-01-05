@@ -3,7 +3,9 @@
   "handle": "WEBLICATIONS",
   "description": "Weblications, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "8.27.76.0/23"
+    ],
     "ipv6": []
   }
 }

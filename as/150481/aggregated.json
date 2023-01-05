@@ -1,0 +1,11 @@
+{
+  "asn": 150481,
+  "handle": "IDNIC-HAMENGKU-ID",
+  "description": "PT Hamengku Karya",
+  "subnets": {
+    "ipv4": [
+      "103.115.35.0/24"
+    ],
+    "ipv6": []
+  }
+}

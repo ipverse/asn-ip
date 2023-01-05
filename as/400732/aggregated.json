@@ -1,0 +1,13 @@
+{
+  "asn": 400732,
+  "handle": "RIVERNET",
+  "description": "RiverNet, LLC",
+  "subnets": {
+    "ipv4": [
+      "23.140.136.0/24"
+    ],
+    "ipv6": [
+      "2602:fb59::/36"
+    ]
+  }
+}

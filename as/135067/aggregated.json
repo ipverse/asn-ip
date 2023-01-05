@@ -4,11 +4,10 @@
   "description": "LOGICOM TECHNOLOGY CO.,LIMITED",
   "subnets": {
     "ipv4": [
-      "103.208.1.0/24",
-      "154.91.142.0/23"
+      "154.91.142.0/24"
     ],
     "ipv6": [
-      "2001:df3:bc80::/47"
+      "2001:df3:bc81::/48"
     ]
   }
 }

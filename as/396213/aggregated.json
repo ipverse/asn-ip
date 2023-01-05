@@ -1,0 +1,11 @@
+{
+  "asn": 396213,
+  "handle": "USCUPSTATE",
+  "description": "USC Upstate",
+  "subnets": {
+    "ipv4": [
+      "64.53.18.0/24"
+    ],
+    "ipv6": []
+  }
+}

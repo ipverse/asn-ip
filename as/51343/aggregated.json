@@ -4,8 +4,7 @@
   "description": "Telecom Service LLC",
   "subnets": {
     "ipv4": [
-      "178.214.32.0/19",
-      "212.22.95.0/24"
+      "178.214.32.0/19"
     ],
     "ipv6": []
   }

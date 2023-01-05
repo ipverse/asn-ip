@@ -3,7 +3,12 @@
   "handle": "NEOTECH-PROVEDOR-INTERNET",
   "description": "NEOTECH PROVEDOR DE INTERNET LTDA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.185.165.0/24",
+      "181.232.136.0/22"
+    ],
+    "ipv6": [
+      "2804:7a34::/32"
+    ]
   }
 }

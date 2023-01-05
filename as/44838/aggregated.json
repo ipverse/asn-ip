@@ -3,12 +3,7 @@
   "handle": "NET-SVEBUT",
   "description": "Nordisk e-handel AB",
   "subnets": {
-    "ipv4": [
-      "46.183.24.0/21",
-      "91.203.40.0/22"
-    ],
-    "ipv6": [
-      "2a02:7340::/32"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

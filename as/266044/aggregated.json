@@ -4,6 +4,7 @@
   "description": "NICNET TELECOMUNICACOES LTDA",
   "subnets": {
     "ipv4": [
+      "38.41.196.0/22",
       "45.4.32.0/22",
       "141.136.62.0/24"
     ],
