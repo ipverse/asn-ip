@@ -3,7 +3,9 @@
   "handle": "DOVER-INTERNET",
   "description": "Dover Internet Services",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "163.123.154.0/24"
+    ],
     "ipv6": []
   }
 }

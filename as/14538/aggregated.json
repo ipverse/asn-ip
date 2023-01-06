@@ -1,0 +1,11 @@
+{
+  "asn": 14538,
+  "handle": "HEC-NETWORK",
+  "description": "Harrisonburg Electric Commission",
+  "subnets": {
+    "ipv4": [
+      "50.205.160.0/24"
+    ],
+    "ipv6": []
+  }
+}

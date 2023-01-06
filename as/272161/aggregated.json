@@ -3,9 +3,7 @@
   "handle": "RED-FIBRA-TELECOMUNICACAES",
   "description": "RED FIBRA TELECOMUNICACAES LTDA",
   "subnets": {
-    "ipv4": [
-      "192.40.69.0/24"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2804:82dc::/32"
     ]

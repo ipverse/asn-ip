@@ -4,9 +4,6 @@
   "description": "Yanislav Basiuk",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2a06:a005:1160::/48",
-      "2a06:a005:1d52::/48"
-    ]
+    "ipv6": []
   }
 }

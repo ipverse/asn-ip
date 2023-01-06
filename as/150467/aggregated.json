@@ -1,0 +1,11 @@
+{
+  "asn": 150467,
+  "handle": "IDNIC-HFM-ID",
+  "description": "PT Handayani Fiber Media",
+  "subnets": {
+    "ipv4": [
+      "103.103.115.0/24"
+    ],
+    "ipv6": []
+  }
+}

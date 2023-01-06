@@ -1,0 +1,11 @@
+{
+  "asn": 210147,
+  "handle": "AM-ISPSUPPORT",
+  "description": "ISP SUPPORT LLC",
+  "subnets": {
+    "ipv4": [
+      "217.113.9.0/24"
+    ],
+    "ipv6": []
+  }
+}

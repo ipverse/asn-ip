@@ -3,11 +3,7 @@
   "handle": "DIOVETECH",
   "description": "Diovetech s.r.o. - v likvidaci",
   "subnets": {
-    "ipv4": [
-      "192.144.56.0/22"
-    ],
-    "ipv6": [
-      "2a0f:3300::/29"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

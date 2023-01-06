@@ -4,6 +4,7 @@
   "description": "TECNOLOGIA BANCARIA S/A",
   "subnets": {
     "ipv4": [
+      "170.78.216.0/22",
       "177.73.144.0/22"
     ],
     "ipv6": []

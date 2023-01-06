@@ -4,7 +4,8 @@
   "description": "Nova Internet Services, Inc.",
   "subnets": {
     "ipv4": [
-      "209.251.224.0/21"
+      "209.251.224.0/22",
+      "209.251.228.0/23"
     ],
     "ipv6": []
   }
