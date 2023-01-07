@@ -3,7 +3,9 @@
   "handle": "WIFIWALA-IN",
   "description": "Swip Wifi Network Private Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.190.91.0/24"
+    ],
     "ipv6": []
   }
 }

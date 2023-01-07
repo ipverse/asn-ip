@@ -4,8 +4,11 @@
   "description": "MANSOORAH TELECOMMUNICATIONS",
   "subnets": {
     "ipv4": [
+      "103.52.34.0/23",
       "103.174.195.0/24"
     ],
-    "ipv6": []
+    "ipv6": [
+      "2001:df1:ac40::/48"
+    ]
   }
 }

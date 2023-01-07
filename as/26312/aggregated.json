@@ -3,12 +3,7 @@
   "handle": "AXIA-TECHNOLOGY-PARTNERS-LLC",
   "description": "Axia Technology Partners, LLC",
   "subnets": {
-    "ipv4": [
-      "8.20.246.0/24",
-      "8.29.144.0/22",
-      "38.109.184.0/22",
-      "198.91.76.0/22"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "HNIELSEN-NETWORKS",
   "description": "Kasper Nielsen trading as HNielsen Networks",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.87.251.0/24"
+    ],
     "ipv6": [
       "2a0b:b600:3c05::/48"
     ]

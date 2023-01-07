@@ -1,0 +1,11 @@
+{
+  "asn": 40963,
+  "handle": "PRAID",
+  "description": "LLC SMARTMEDIANETWORK",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a11:f340::/29"
+    ]
+  }
+}

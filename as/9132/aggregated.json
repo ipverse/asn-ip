@@ -3,9 +3,7 @@
   "handle": "BROADNET",
   "description": "Plusnet GmbH",
   "subnets": {
-    "ipv4": [
-      "212.110.193.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

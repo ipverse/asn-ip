@@ -3,11 +3,7 @@
   "handle": "GIR",
   "description": "Grupul Industrial Roman GIR S.A.",
   "subnets": {
-    "ipv4": [
-      "193.28.151.0/24"
-    ],
-    "ipv6": [
-      "2001:67c:2120::/48"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

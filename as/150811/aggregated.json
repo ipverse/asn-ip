@@ -1,0 +1,11 @@
+{
+  "asn": 150811,
+  "handle": "KHULNAONLINE-AP",
+  "description": "Khulna Online",
+  "subnets": {
+    "ipv4": [
+      "103.65.240.0/23"
+    ],
+    "ipv6": []
+  }
+}

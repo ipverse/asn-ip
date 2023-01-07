@@ -4,7 +4,8 @@
   "description": "IPDC SOLUTIONS PTE LTD",
   "subnets": {
     "ipv4": [
-      "103.117.128.0/22"
+      "103.117.129.0/24",
+      "103.117.130.0/23"
     ],
     "ipv6": []
   }

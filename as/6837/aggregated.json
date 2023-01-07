@@ -3,10 +3,7 @@
   "handle": "SWISSCOM-BBCS",
   "description": "Swisscom (Schweiz) AG",
   "subnets": {
-    "ipv4": [
-      "193.17.55.0/24",
-      "193.17.64.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

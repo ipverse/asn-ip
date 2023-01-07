@@ -4,6 +4,7 @@
   "description": "Al\u0027Akhawayn University",
   "subnets": {
     "ipv4": [
+      "193.194.32.0/19",
       "196.43.236.0/24"
     ],
     "ipv6": []

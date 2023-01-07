@@ -3,9 +3,7 @@
   "handle": "IDNIC-OCBCNISP-ID",
   "description": "PT Bank OCBC NISP",
   "subnets": {
-    "ipv4": [
-      "103.174.14.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }
