@@ -4,6 +4,7 @@
   "description": "Anze Jensterle",
   "subnets": {
     "ipv4": [
+      "44.31.178.0/24",
       "44.127.33.0/24"
     ],
     "ipv6": [

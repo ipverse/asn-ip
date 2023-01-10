@@ -4,6 +4,7 @@
   "description": "NB-PEI Educational Computer Network",
   "subnets": {
     "ipv4": [
+      "67.210.128.0/20",
       "131.202.0.0/16",
       "138.73.0.0/16",
       "138.119.0.0/16",

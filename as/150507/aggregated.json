@@ -1,0 +1,11 @@
+{
+  "asn": 150507,
+  "handle": "IDNIC-MNK-ID",
+  "description": "CV Maudy Network Komunikasi",
+  "subnets": {
+    "ipv4": [
+      "103.56.92.0/23"
+    ],
+    "ipv6": []
+  }
+}

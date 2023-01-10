@@ -3,12 +3,7 @@
   "handle": "ATEINCO",
   "description": "Tecnocratica Centro de Datos, S.L.",
   "subnets": {
-    "ipv4": [
-      "193.247.194.0/23",
-      "193.247.214.0/23"
-    ],
-    "ipv6": [
-      "2a0f:f180::/32"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

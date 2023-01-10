@@ -4,9 +4,10 @@
   "description": "ARVANCLOUD GLOBAL TECHNOLOGIES L.L.C",
   "subnets": {
     "ipv4": [
-      "185.215.232.0/24",
-      "185.215.234.0/23"
+      "185.215.232.0/22"
     ],
-    "ipv6": []
+    "ipv6": [
+      "2a0d:4ac0::/46"
+    ]
   }
 }

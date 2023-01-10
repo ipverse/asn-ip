@@ -4,6 +4,7 @@
   "description": "DEFAULTROUTE LIMITED",
   "subnets": {
     "ipv4": [
+      "89.28.208.0/21",
       "185.24.72.0/22"
     ],
     "ipv6": [

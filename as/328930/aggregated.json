@@ -4,6 +4,8 @@
   "description": "The National Examinations Council of Tanzania",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2001:43fc:2000::/48"
+    ]
   }
 }

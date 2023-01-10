@@ -1,0 +1,11 @@
+{
+  "asn": 150708,
+  "handle": "MASTERIT-AP",
+  "description": "Master IT",
+  "subnets": {
+    "ipv4": [
+      "103.65.226.0/23"
+    ],
+    "ipv6": []
+  }
+}
