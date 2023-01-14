@@ -3,7 +3,9 @@
   "handle": "KAPITAL-SVYAZ",
   "description": "LLC KAPITAL-SVYAZ",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "212.107.248.0/21"
+    ],
     "ipv6": []
   }
 }

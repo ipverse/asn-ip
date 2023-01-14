@@ -4,7 +4,8 @@
   "description": "Broad Based Communications Limited",
   "subnets": {
     "ipv4": [
-      "41.76.192.0/21"
+      "41.76.192.0/21",
+      "41.203.120.0/23"
     ],
     "ipv6": []
   }

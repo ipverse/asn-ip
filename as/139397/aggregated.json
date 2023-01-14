@@ -3,7 +3,9 @@
   "handle": "IDNIC-MNI-ID",
   "description": "PT. Multimedia Network Indonesia",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "123.253.252.0/22"
+    ],
     "ipv6": []
   }
 }

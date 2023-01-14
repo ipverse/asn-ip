@@ -1,0 +1,11 @@
+{
+  "asn": 200219,
+  "handle": "POB",
+  "description": "Pierre-Olivier Bourgeois",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a06:a005:2b10::/44"
+    ]
+  }
+}

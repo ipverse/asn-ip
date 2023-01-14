@@ -1,0 +1,11 @@
+{
+  "asn": 273644,
+  "handle": "MULTI-CONNECT-FIBRA",
+  "description": "Multi Connect Fibra LTDA",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2804:8a08::/32"
+    ]
+  }
+}

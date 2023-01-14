@@ -3,7 +3,9 @@
   "handle": "L-SILVA-SANTOS-INFORMATICA",
   "description": "L DA SILVA SANTOS INFORMATICA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.7.92.0/22"
+    ],
     "ipv6": [
       "2804:7ab0::/32"
     ]

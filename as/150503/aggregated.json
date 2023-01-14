@@ -3,7 +3,9 @@
   "handle": "IDNIC-ITNET-ID",
   "description": "PT Indo Tungkal Net",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.126.238.0/24"
+    ],
     "ipv6": []
   }
 }

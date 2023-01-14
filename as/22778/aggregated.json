@@ -3,7 +3,10 @@
   "handle": "AMARRDOORS",
   "description": "Amarr Garage Doors",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "63.88.74.0/24",
+      "74.202.157.0/24"
+    ],
     "ipv6": []
   }
 }

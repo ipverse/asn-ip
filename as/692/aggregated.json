@@ -3,7 +3,9 @@
   "handle": "DK-CUROTEC",
   "description": "CuroTec ApS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "64.224.12.0/22"
+    ],
     "ipv6": [
       "2a10:5940::/29"
     ]

@@ -4,6 +4,10 @@
   "description": "Alexander Hjelm",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a09:be40:28fa::/47",
+      "2a09:be40:28fc::/48",
+      "2a09:be40:28fe::/47"
+    ]
   }
 }

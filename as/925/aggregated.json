@@ -3,7 +3,9 @@
   "handle": "SIFIBE",
   "description": "SiFibe, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "205.233.14.0/24"
+    ],
     "ipv6": []
   }
 }

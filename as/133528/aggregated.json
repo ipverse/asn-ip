@@ -4,7 +4,7 @@
   "description": "M/S Step Net System (SNS)",
   "subnets": {
     "ipv4": [
-      "103.131.88.0/22"
+      "103.131.91.0/24"
     ],
     "ipv6": []
   }

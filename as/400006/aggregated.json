@@ -4,6 +4,7 @@
   "description": "DigitalMonks LLC",
   "subnets": {
     "ipv4": [
+      "45.146.7.0/24",
       "208.99.62.0/24"
     ],
     "ipv6": [

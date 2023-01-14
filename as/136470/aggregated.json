@@ -1,0 +1,11 @@
+{
+  "asn": 136470,
+  "handle": "BMS-BNG-AP",
+  "description": "B.M.S College Of Engineering",
+  "subnets": {
+    "ipv4": [
+      "103.88.182.0/24"
+    ],
+    "ipv6": []
+  }
+}
