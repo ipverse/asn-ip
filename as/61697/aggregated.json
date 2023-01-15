@@ -3,7 +3,9 @@
   "handle": "AIRCONECT-COMUNICACOES",
   "description": "AIRCONECT-COMUNICACOES LTDA-ME",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "201.7.212.0/24"
+    ],
     "ipv6": []
   }
 }

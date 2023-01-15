@@ -3,7 +3,9 @@
   "handle": "ATPLDC-IN",
   "description": "AUTOCRATIC TECHNOLOGY PRIVATE LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.77.6.0/24"
+    ],
     "ipv6": []
   }
 }
