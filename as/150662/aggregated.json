@@ -1,0 +1,11 @@
+{
+  "asn": 150662,
+  "handle": "DANIEL24-AP",
+  "description": "Daniel-24",
+  "subnets": {
+    "ipv4": [
+      "103.49.100.0/23"
+    ],
+    "ipv6": []
+  }
+}

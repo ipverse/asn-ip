@@ -3,7 +3,10 @@
   "handle": "NEXTNET-LAB",
   "description": "Next Network Research Laboratory, Graduate School of Science and Engineering, Hosei University",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.37.88.0/23",
+      "103.151.41.0/24"
+    ],
     "ipv6": []
   }
 }

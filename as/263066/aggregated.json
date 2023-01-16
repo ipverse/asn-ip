@@ -4,9 +4,7 @@
   "description": "RVNet - R V PORTELA AGUIAR \u0026 CIA LTDA",
   "subnets": {
     "ipv4": [
-      "177.137.170.0/24",
-      "177.137.173.0/24",
-      "177.137.175.0/24"
+      "177.137.160.0/20"
     ],
     "ipv6": []
   }

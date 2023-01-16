@@ -1,9 +1,11 @@
 {
   "asn": 208328,
-  "handle": "MALINDEX",
-  "description": "Li Ma",
+  "handle": "ORG-LA1783-RIPE",
+  "description": "Luigi Labate",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a0e:97c0:640::/44"
+    ]
   }
 }

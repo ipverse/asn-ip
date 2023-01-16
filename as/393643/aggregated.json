@@ -4,7 +4,6 @@
   "description": "GlobusFamily",
   "subnets": {
     "ipv4": [
-      "50.207.100.0/24",
       "65.126.176.0/24"
     ],
     "ipv6": []

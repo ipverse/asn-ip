@@ -1,0 +1,12 @@
+{
+  "asn": 400338,
+  "handle": "GIGABEAM-INTERNET-YKM",
+  "description": "Gigabeam Internet",
+  "subnets": {
+    "ipv4": [
+      "64.224.8.0/23",
+      "64.224.22.0/23"
+    ],
+    "ipv6": []
+  }
+}
