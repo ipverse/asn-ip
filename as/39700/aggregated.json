@@ -1,0 +1,11 @@
+{
+  "asn": 39700,
+  "handle": "SIGNET-RESEARCH",
+  "description": "Signet B.V.",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2001:4cb9::/32"
+    ]
+  }
+}

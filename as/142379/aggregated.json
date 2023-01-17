@@ -3,7 +3,11 @@
   "handle": "ISC-DC-ID",
   "description": "PT. INDONESIA SUPER CORRIDOR - DATA CENTER",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "103.91.26.0/24"
+    ],
+    "ipv6": [
+      "2001:df0:f500::/48"
+    ]
   }
 }
