@@ -1,0 +1,11 @@
+{
+  "asn": 63051,
+  "handle": "CRITICALHOSTING-USA",
+  "description": "Critical Hosting, Inc.",
+  "subnets": {
+    "ipv4": [
+      "140.99.224.0/22"
+    ],
+    "ipv6": []
+  }
+}

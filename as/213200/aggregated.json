@@ -4,7 +4,8 @@
   "description": "Ferdinand Zink trading as Tube-Hosting",
   "subnets": {
     "ipv4": [
-      "83.137.158.0/23"
+      "83.137.158.0/23",
+      "178.210.237.0/24"
     ],
     "ipv6": []
   }

@@ -4,6 +4,8 @@
   "description": "Sukhdeep Kohli",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a0a:6040:2a00::/40"
+    ]
   }
 }

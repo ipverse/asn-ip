@@ -1,0 +1,11 @@
+{
+  "asn": 50868,
+  "handle": "VOIPSTARR",
+  "description": "VoIPStarr B.V.",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a0d:2406:4000::/48"
+    ]
+  }
+}

@@ -3,9 +3,7 @@
   "handle": "MANDALANET-ID",
   "description": "PT Mandala Desa Warnana",
   "subnets": {
-    "ipv4": [
-      "103.153.126.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

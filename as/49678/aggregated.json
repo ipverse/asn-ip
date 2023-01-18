@@ -3,9 +3,7 @@
   "handle": "ZETLINK",
   "description": "INTERKVM HOST SRL",
   "subnets": {
-    "ipv4": [
-      "146.19.139.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

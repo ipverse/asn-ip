@@ -4,8 +4,7 @@
   "description": "PT Telemedia Komunikasi Pratama",
   "subnets": {
     "ipv4": [
-      "103.168.190.0/24",
-      "103.186.35.0/24"
+      "103.168.190.0/24"
     ],
     "ipv6": []
   }

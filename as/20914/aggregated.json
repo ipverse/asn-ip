@@ -4,7 +4,7 @@
   "description": "Bacher EDV-Beratung AG",
   "subnets": {
     "ipv4": [
-      "80.76.0.0/21"
+      "80.76.0.0/20"
     ],
     "ipv6": [
       "2a00:ce8::/32"

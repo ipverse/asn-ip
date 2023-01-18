@@ -1,9 +1,11 @@
 {
   "asn": 209369,
-  "handle": "ARKATEK",
-  "description": "Arkatek Ltd.",
+  "handle": "TCPRO",
+  "description": "The Cloud Provider s.r.o.",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a13:5280::/29"
+    ]
   }
 }

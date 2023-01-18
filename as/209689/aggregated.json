@@ -4,6 +4,7 @@
   "description": "Concardis GmbH",
   "subnets": {
     "ipv4": [
+      "185.174.149.0/24",
       "212.87.208.0/22"
     ],
     "ipv6": []

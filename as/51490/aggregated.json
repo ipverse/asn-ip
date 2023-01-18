@@ -3,10 +3,7 @@
   "handle": "PROPER",
   "description": "Proper Support LLP",
   "subnets": {
-    "ipv4": [
-      "89.36.38.0/24",
-      "89.36.139.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

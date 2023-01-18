@@ -1,9 +1,11 @@
 {
   "asn": 270966,
-  "handle": "4WNET-ES-TELECOMUNICAES",
-  "description": "4WNET ES TELECOMUNICAES EIRELE ME",
+  "handle": "4W-NET-ES",
+  "description": "4W NET ES TELECOMUNICACOES LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "140.99.104.0/24"
+    ],
     "ipv6": []
   }
 }

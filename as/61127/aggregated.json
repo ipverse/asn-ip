@@ -3,9 +3,7 @@
   "handle": "RDC",
   "description": "SIA RD Consult",
   "subnets": {
-    "ipv4": [
-      "141.98.184.0/22"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }
