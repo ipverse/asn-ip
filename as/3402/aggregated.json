@@ -3,7 +3,9 @@
   "handle": "ATS",
   "description": "Acilis Telecom Backbone",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "8.2.207.0/24"
+    ],
     "ipv6": []
   }
 }

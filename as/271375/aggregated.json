@@ -4,7 +4,7 @@
   "description": "ZEEP INTERNET",
   "subnets": {
     "ipv4": [
-      "190.185.96.0/23"
+      "190.185.96.0/24"
     ],
     "ipv6": []
   }

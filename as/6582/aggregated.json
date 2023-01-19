@@ -3,13 +3,7 @@
   "handle": "FRII",
   "description": "Front Range Internet Inc.",
   "subnets": {
-    "ipv4": [
-      "65.183.64.0/19",
-      "205.159.182.0/24",
-      "216.17.128.0/17"
-    ],
-    "ipv6": [
-      "2607:fa88::/32"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

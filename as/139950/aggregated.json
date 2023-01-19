@@ -1,0 +1,11 @@
+{
+  "asn": 139950,
+  "handle": "IDNIC-ANRI-ID",
+  "description": "Arsip Nasional Republik Indonesia",
+  "subnets": {
+    "ipv4": [
+      "103.147.69.0/24"
+    ],
+    "ipv6": []
+  }
+}

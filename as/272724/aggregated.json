@@ -1,0 +1,11 @@
+{
+  "asn": 272724,
+  "handle": "FACILITA-PROVEDOR-INTERNET",
+  "description": "Facilita provedor de internet ltda",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2804:87a8::/32"
+    ]
+  }
+}

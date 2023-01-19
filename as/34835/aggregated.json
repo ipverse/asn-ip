@@ -3,7 +3,9 @@
   "handle": "PADUCHNET",
   "description": "Michal Paduch trading as PaduchNET",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.158.72.0/22"
+    ],
     "ipv6": []
   }
 }

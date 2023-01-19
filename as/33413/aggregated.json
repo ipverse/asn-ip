@@ -3,7 +3,9 @@
   "handle": "BETA-OFFSHORE",
   "description": "Beta Offshore",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "198.37.7.0/24"
+    ],
     "ipv6": []
   }
 }

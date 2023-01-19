@@ -4,6 +4,7 @@
   "description": "PRIMEDIA ARMOEKADATA INTERNET, PT.",
   "subnets": {
     "ipv4": [
+      "202.146.33.0/24",
       "202.146.37.0/24",
       "202.146.39.0/24"
     ],

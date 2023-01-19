@@ -4,6 +4,7 @@
   "description": "ACHARE BROADBAND OPC PRIVATE LIMITED",
   "subnets": {
     "ipv4": [
+      "103.169.79.0/24",
       "103.210.126.0/24"
     ],
     "ipv6": []
