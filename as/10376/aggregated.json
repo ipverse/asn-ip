@@ -3,9 +3,7 @@
   "handle": "WELLSFARGO-10376",
   "description": "Wells Fargo \u0026 Company",
   "subnets": {
-    "ipv4": [
-      "204.86.144.0/22"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

@@ -3,9 +3,7 @@
   "handle": "LEGACY-INFOGIX",
   "description": "Precisely Software Incorporated",
   "subnets": {
-    "ipv4": [
-      "198.17.178.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

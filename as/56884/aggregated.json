@@ -1,0 +1,14 @@
+{
+  "asn": 56884,
+  "handle": "TKBYTECH",
+  "description": "T.K Bytech LTD",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a05:f300::/29",
+      "2a11:a100::/29",
+      "2a12:4b40::/29",
+      "2a13:c800::/29"
+    ]
+  }
+}

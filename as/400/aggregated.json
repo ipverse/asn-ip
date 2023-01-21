@@ -4,7 +4,8 @@
   "description": "Air Force Systems Networking",
   "subnets": {
     "ipv4": [
-      "132.3.104.0/21"
+      "132.3.104.0/21",
+      "217.113.21.0/24"
     ],
     "ipv6": []
   }

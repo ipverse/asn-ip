@@ -1,0 +1,11 @@
+{
+  "asn": 202400,
+  "handle": "TAIPEI101",
+  "description": "TAIPEI101 NETWORK LTD",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a06:a005:15d4::/46"
+    ]
+  }
+}

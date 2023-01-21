@@ -3,9 +3,7 @@
   "handle": "PRAYAGNET-IN",
   "description": "PRAYAG CABLE NET",
   "subnets": {
-    "ipv4": [
-      "103.169.78.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

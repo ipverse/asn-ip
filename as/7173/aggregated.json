@@ -1,0 +1,11 @@
+{
+  "asn": 7173,
+  "handle": "INSTITUTO-NACIONAL-ASTROFISICA",
+  "description": "Instituto Nacional de Astrofisica, Optica y Electronica",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2801:c4:20::/48"
+    ]
+  }
+}

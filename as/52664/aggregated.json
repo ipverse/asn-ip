@@ -3,10 +3,7 @@
   "handle": "IHNOVECOM-TELECOMUNICACOES-SERVICOS",
   "description": "IHNOVECOM TELECOMUNICACOES E SERVICOS LTDA",
   "subnets": {
-    "ipv4": [
-      "177.67.200.0/21",
-      "177.136.160.0/21"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2804:c08::/32"
     ]
