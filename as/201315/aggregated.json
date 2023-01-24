@@ -3,7 +3,9 @@
   "handle": "BOOMTIME",
   "description": "SIA Boomtime",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "85.254.48.0/24"
+    ],
     "ipv6": []
   }
 }

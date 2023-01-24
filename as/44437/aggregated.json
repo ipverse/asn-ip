@@ -3,11 +3,7 @@
   "handle": "FORHOSTING",
   "description": "Angelo Kreikamp trading as Forhosting",
   "subnets": {
-    "ipv4": [
-      "185.244.24.0/24"
-    ],
-    "ipv6": [
-      "2a05:1080::/32"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

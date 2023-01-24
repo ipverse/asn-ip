@@ -4,8 +4,6 @@
   "description": "Ethernic LLC",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2602:fd3e::/36"
-    ]
+    "ipv6": []
   }
 }

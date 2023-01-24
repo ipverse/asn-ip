@@ -3,7 +3,9 @@
   "handle": "NICKBOUWHUIS",
   "description": "Nick Bouwhuis",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.244.24.0/24"
+    ],
     "ipv6": [
       "2001:678:d64::/48"
     ]

@@ -1,0 +1,11 @@
+{
+  "asn": 205627,
+  "handle": "DAIMLERTRUCK",
+  "description": "Daimler Truck AG",
+  "subnets": {
+    "ipv4": [
+      "170.2.128.0/23"
+    ],
+    "ipv6": []
+  }
+}

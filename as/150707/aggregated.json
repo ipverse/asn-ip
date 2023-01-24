@@ -1,0 +1,11 @@
+{
+  "asn": 150707,
+  "handle": "ROMBLON-AP",
+  "description": "Romblon Cable Corporation",
+  "subnets": {
+    "ipv4": [
+      "103.65.222.0/23"
+    ],
+    "ipv6": []
+  }
+}
