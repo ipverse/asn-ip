@@ -3,7 +3,9 @@
   "handle": "GIGANET-FIBRA",
   "description": "GIGANET FIBRA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "200.3.242.0/24"
+    ],
     "ipv6": [
       "2804:7e80::/32"
     ]

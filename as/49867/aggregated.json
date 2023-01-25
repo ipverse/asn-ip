@@ -1,9 +1,11 @@
 {
   "asn": 49867,
-  "handle": "RESERVED",
-  "description": "RIPE NCC ASN block",
+  "handle": "B00B",
+  "description": "Bing Yang trading as B00B Collective",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a13:c007:8000::/44"
+    ]
   }
 }

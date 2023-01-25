@@ -4,7 +4,7 @@
   "description": "PT Network Lintas Fiberindo",
   "subnets": {
     "ipv4": [
-      "103.155.166.0/23"
+      "103.155.166.0/24"
     ],
     "ipv6": []
   }

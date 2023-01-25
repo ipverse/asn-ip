@@ -4,6 +4,7 @@
   "description": "Officine Informatiche Srl",
   "subnets": {
     "ipv4": [
+      "195.32.0.0/22",
       "195.32.107.0/24",
       "195.32.108.0/22"
     ],

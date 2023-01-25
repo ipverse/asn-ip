@@ -4,10 +4,8 @@
   "description": "MAXUEL QUERINO DA SILVA - ME",
   "subnets": {
     "ipv4": [
-      "45.175.216.0/22"
+      "45.175.219.0/24"
     ],
-    "ipv6": [
-      "2804:5ca8::/32"
-    ]
+    "ipv6": []
   }
 }

@@ -1,0 +1,11 @@
+{
+  "asn": 7411,
+  "handle": "WINTERSTORM",
+  "description": "StormNet Communications",
+  "subnets": {
+    "ipv4": [
+      "202.92.18.0/24"
+    ],
+    "ipv6": []
+  }
+}

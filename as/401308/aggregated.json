@@ -3,9 +3,7 @@
   "handle": "NOMAD-AIR",
   "description": "Nomad Air, LLC",
   "subnets": {
-    "ipv4": [
-      "172.110.184.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

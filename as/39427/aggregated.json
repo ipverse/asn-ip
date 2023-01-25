@@ -3,10 +3,7 @@
   "handle": "GITTIGIDIYOR",
   "description": "GittiGidiyor Bilgi Teknolojileri San.Tic.A.S.",
   "subnets": {
-    "ipv4": [
-      "93.187.64.0/24",
-      "93.187.67.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "PEER-1-INTERNET",
   "description": "Peer 1 Internet Service LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.105.3.0/24"
+    ],
     "ipv6": []
   }
 }

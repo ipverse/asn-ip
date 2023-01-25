@@ -4,6 +4,7 @@
   "description": "Jon Arve Vanvik",
   "subnets": {
     "ipv4": [
+      "185.147.35.0/24",
       "216.146.26.0/24"
     ],
     "ipv6": [

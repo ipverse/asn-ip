@@ -4,6 +4,7 @@
   "description": "ADVANCED WIRELESS NETWORK COMPANY LIMITED",
   "subnets": {
     "ipv4": [
+      "83.118.101.0/24",
       "110.170.144.0/24"
     ],
     "ipv6": []

@@ -4,6 +4,7 @@
   "description": "Methean Professional, LLC",
   "subnets": {
     "ipv4": [
+      "65.87.0.0/20",
       "65.87.16.0/21"
     ],
     "ipv6": []

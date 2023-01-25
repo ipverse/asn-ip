@@ -4,7 +4,6 @@
   "description": "Autoridad Nacional para la Innovacin Gubernamental",
   "subnets": {
     "ipv4": [
-      "167.250.112.0/24",
       "168.77.210.0/23",
       "168.77.212.0/23"
     ],

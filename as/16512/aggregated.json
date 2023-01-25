@@ -1,0 +1,11 @@
+{
+  "asn": 16512,
+  "handle": "CORETRANSIT",
+  "description": "Rackifi LLC",
+  "subnets": {
+    "ipv4": [
+      "216.10.10.0/24"
+    ],
+    "ipv6": []
+  }
+}
