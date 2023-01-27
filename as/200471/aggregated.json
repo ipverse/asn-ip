@@ -1,0 +1,11 @@
+{
+  "asn": 200471,
+  "handle": "NOVARTIS-RU",
+  "description": "Novartis AG",
+  "subnets": {
+    "ipv4": [
+      "160.62.10.0/24"
+    ],
+    "ipv6": []
+  }
+}

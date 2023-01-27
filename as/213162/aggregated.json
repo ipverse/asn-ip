@@ -4,7 +4,8 @@
   "description": "SVA System Vertrieb Alexander GmbH",
   "subnets": {
     "ipv4": [
-      "83.138.57.0/24"
+      "83.138.57.0/24",
+      "176.116.120.0/22"
     ],
     "ipv6": [
       "2a0f:fa40::/29"

@@ -4,6 +4,7 @@
   "description": "Aritno Comm. V.",
   "subnets": {
     "ipv4": [
+      "45.152.190.0/24",
       "179.61.134.0/24"
     ],
     "ipv6": []

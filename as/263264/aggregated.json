@@ -4,7 +4,8 @@
   "description": "GRUPO CONECTA TELECOM SCM LTDA EPP",
   "subnets": {
     "ipv4": [
-      "186.209.220.0/22"
+      "186.209.220.0/23",
+      "186.209.223.0/24"
     ],
     "ipv6": [
       "2804:160c::/36",

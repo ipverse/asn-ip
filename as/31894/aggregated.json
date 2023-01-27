@@ -3,7 +3,9 @@
   "handle": "STARCOMWI",
   "description": "Star Communications LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "12.159.93.0/24"
+    ],
     "ipv6": []
   }
 }

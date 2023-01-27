@@ -1,0 +1,11 @@
+{
+  "asn": 149737,
+  "handle": "IDNIC-DATALINTAS-ID",
+  "description": "PT Data Lintas Media Indonesia",
+  "subnets": {
+    "ipv4": [
+      "103.188.252.0/23"
+    ],
+    "ipv6": []
+  }
+}

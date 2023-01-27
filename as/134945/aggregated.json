@@ -3,7 +3,9 @@
   "handle": "BLUESKY8",
   "description": "Blue Sky Broadband Pvt. Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.84.236.0/22"
+    ],
     "ipv6": []
   }
 }

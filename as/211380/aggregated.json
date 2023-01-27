@@ -1,0 +1,11 @@
+{
+  "asn": 211380,
+  "handle": "SIMULHOST",
+  "description": "Simulhost Limited",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a06:a005:1d5a::/48"
+    ]
+  }
+}

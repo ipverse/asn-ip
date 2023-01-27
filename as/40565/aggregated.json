@@ -4,9 +4,7 @@
   "description": "AIRLINE TARIFF PUBLISHING CO",
   "subnets": {
     "ipv4": [
-      "199.16.33.0/24",
-      "208.31.80.0/24",
-      "208.184.135.0/24"
+      "208.31.80.0/24"
     ],
     "ipv6": []
   }

@@ -4,7 +4,8 @@
   "description": "FASTTEL BROADBAND (PRIVATE) LIMITED",
   "subnets": {
     "ipv4": [
-      "103.53.162.0/24"
+      "103.53.162.0/24",
+      "103.174.4.0/24"
     ],
     "ipv6": []
   }

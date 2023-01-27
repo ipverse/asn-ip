@@ -3,7 +3,9 @@
   "handle": "NOELWARE-LLC",
   "description": "Noelware, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "74.119.149.0/24"
+    ],
     "ipv6": [
       "2a0f:9400:6120::/46",
       "2a0f:9400:612a::/48"

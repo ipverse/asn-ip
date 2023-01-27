@@ -4,6 +4,7 @@
   "description": "Internet Wireless System SARL",
   "subnets": {
     "ipv4": [
+      "5.59.193.0/24",
       "92.119.185.0/24",
       "185.233.8.0/22"
     ],

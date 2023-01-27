@@ -4,7 +4,8 @@
   "description": "LNRS Data Services Limited",
   "subnets": {
     "ipv4": [
-      "145.43.248.0/22"
+      "145.43.249.0/24",
+      "145.43.250.0/23"
     ],
     "ipv6": []
   }

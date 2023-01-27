@@ -4,8 +4,7 @@
   "description": "WEBSUL TELECOMUNICACOES LTDA",
   "subnets": {
     "ipv4": [
-      "143.202.212.0/22",
-      "177.86.48.0/21"
+      "143.202.212.0/22"
     ],
     "ipv6": [
       "2804:72c::/32"
