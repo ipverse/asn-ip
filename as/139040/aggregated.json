@@ -4,6 +4,7 @@
   "description": "Philippine Long Distance Telephone Co.",
   "subnets": {
     "ipv4": [
+      "119.92.217.0/24",
       "122.55.180.0/24"
     ],
     "ipv6": []

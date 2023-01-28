@@ -1,0 +1,11 @@
+{
+  "asn": 400446,
+  "handle": "TCTZBNK-OPS",
+  "description": "The Citizens Bank",
+  "subnets": {
+    "ipv4": [
+      "198.168.122.0/23"
+    ],
+    "ipv6": []
+  }
+}

@@ -3,7 +3,9 @@
   "handle": "SERVER-AP",
   "description": "Server Galactic Private Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.38.250.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -4,6 +4,7 @@
   "description": "Alsycon B.V.",
   "subnets": {
     "ipv4": [
+      "93.114.187.0/24",
       "185.133.39.0/24"
     ],
     "ipv6": []

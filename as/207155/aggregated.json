@@ -3,9 +3,7 @@
   "handle": "HOMEWEBDEV",
   "description": "Home Web Development LLP",
   "subnets": {
-    "ipv4": [
-      "185.183.212.0/22"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

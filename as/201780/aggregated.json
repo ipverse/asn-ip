@@ -4,7 +4,8 @@
   "description": "State Enterprise Information Court Systems",
   "subnets": {
     "ipv4": [
-      "94.179.112.0/24"
+      "94.179.112.0/24",
+      "185.36.59.0/24"
     ],
     "ipv6": []
   }

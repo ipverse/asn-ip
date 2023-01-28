@@ -3,9 +3,7 @@
   "handle": "GARANNTOR-HOSTING",
   "description": "Garanntor Hosting Limited",
   "subnets": {
-    "ipv4": [
-      "164.160.128.0/22"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

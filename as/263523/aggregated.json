@@ -3,11 +3,7 @@
   "handle": "FPS-TELECOM",
   "description": "FPS TELECOM",
   "subnets": {
-    "ipv4": [
-      "191.253.16.0/22"
-    ],
-    "ipv6": [
-      "2804:133c::/32"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

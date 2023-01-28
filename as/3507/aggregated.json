@@ -4,6 +4,7 @@
   "description": "Capehart Associates",
   "subnets": {
     "ipv4": [
+      "45.156.157.0/24",
       "202.92.20.0/24"
     ],
     "ipv6": []

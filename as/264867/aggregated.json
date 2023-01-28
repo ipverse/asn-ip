@@ -3,7 +3,9 @@
   "handle": "CLICK-TELECOMUNICAO",
   "description": "Click Telecomunicao Ltda ME",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "168.205.224.0/22"
+    ],
     "ipv6": []
   }
 }

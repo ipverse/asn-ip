@@ -4,9 +4,6 @@
   "description": "Reisenbauer Holding OUE",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2a05:c680::/29",
-      "2a0c:e6c0::/29"
-    ]
+    "ipv6": []
   }
 }

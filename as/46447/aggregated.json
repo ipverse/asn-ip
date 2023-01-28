@@ -4,8 +4,7 @@
   "description": "North American Derivatives Exchange, Inc.",
   "subnets": {
     "ipv4": [
-      "38.99.231.0/24",
-      "64.127.196.0/22"
+      "38.99.231.0/24"
     ],
     "ipv6": []
   }

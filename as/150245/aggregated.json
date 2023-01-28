@@ -1,0 +1,11 @@
+{
+  "asn": 150245,
+  "handle": "IDNIC-SAKTINET-ID",
+  "description": "PT Sakti Media Telekomunikasi",
+  "subnets": {
+    "ipv4": [
+      "103.23.98.0/23"
+    ],
+    "ipv6": []
+  }
+}
