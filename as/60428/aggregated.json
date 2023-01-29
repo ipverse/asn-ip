@@ -3,11 +3,7 @@
   "handle": "WHATZZ",
   "description": "WHATZZ Bt.",
   "subnets": {
-    "ipv4": [
-      "185.130.89.0/24"
-    ],
-    "ipv6": [
-      "2a0e:a5c0::/48"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

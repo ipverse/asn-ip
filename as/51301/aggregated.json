@@ -3,9 +3,7 @@
   "handle": "SYSPERTEC",
   "description": "SysperTec Communication SAS",
   "subnets": {
-    "ipv4": [
-      "185.135.188.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

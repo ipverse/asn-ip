@@ -1,0 +1,11 @@
+{
+  "asn": 150508,
+  "handle": "IDNIC-NET2I-ID",
+  "description": "PT Network Interbridge Indonesia",
+  "subnets": {
+    "ipv4": [
+      "103.126.26.0/24"
+    ],
+    "ipv6": []
+  }
+}

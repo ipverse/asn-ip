@@ -3,11 +3,7 @@
   "handle": "MAINSTREET",
   "description": "Mainstreet Ltda",
   "subnets": {
-    "ipv4": [
-      "190.97.168.0/22"
-    ],
-    "ipv6": [
-      "2800:be0::/32"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }
