@@ -1,0 +1,12 @@
+{
+  "asn": 200241,
+  "handle": "OCEANWAVES",
+  "description": "OCEAN WAVES DATA LIMITED",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a0f:9400:6300::/43",
+      "2a0f:9400:6320::/45"
+    ]
+  }
+}

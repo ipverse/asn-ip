@@ -3,7 +3,9 @@
   "handle": "PERSZEL-TELECOM",
   "description": "Perszel Telecom LTDA - ME",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.167.4.0/22"
+    ],
     "ipv6": []
   }
 }

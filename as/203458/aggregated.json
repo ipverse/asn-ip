@@ -4,6 +4,7 @@
   "description": "UNLIMITED IS LIMITED",
   "subnets": {
     "ipv4": [
+      "87.247.148.0/23",
       "91.188.206.0/24",
       "185.255.170.0/23"
     ],
