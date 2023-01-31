@@ -4,10 +4,6 @@
   "description": "SHADOWRHYTHM LIMITED",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2a06:a005:1165::/48",
-      "2a06:a005:116d::/48",
-      "2a06:a005:116e::/48"
-    ]
+    "ipv6": []
   }
 }

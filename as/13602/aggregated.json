@@ -4,6 +4,7 @@
   "description": "I-Evolve Technology Services",
   "subnets": {
     "ipv4": [
+      "8.224.32.0/24",
       "151.181.237.0/24",
       "208.79.79.0/24"
     ],

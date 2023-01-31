@@ -3,9 +3,7 @@
   "handle": "SENIOR",
   "description": "Senior Internet Ltd",
   "subnets": {
-    "ipv4": [
-      "193.33.254.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

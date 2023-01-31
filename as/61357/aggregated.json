@@ -1,9 +1,11 @@
 {
   "asn": 61357,
-  "handle": "RESERVED",
-  "description": "RIPE NCC ASN block",
+  "handle": "AHOLD",
+  "description": "Koninklijke Ahold Delhaize N.V.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "141.93.10.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -1,0 +1,11 @@
+{
+  "asn": 201216,
+  "handle": "LOLO-COMPANY",
+  "description": "Lolo Company AB",
+  "subnets": {
+    "ipv4": [
+      "193.181.192.0/24"
+    ],
+    "ipv6": []
+  }
+}

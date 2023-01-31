@@ -3,7 +3,9 @@
   "handle": "CAPITAL-FINANCIAL",
   "description": "Capital Financial Services SA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "80.96.46.0/24"
+    ],
     "ipv6": []
   }
 }

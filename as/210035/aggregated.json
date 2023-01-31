@@ -3,7 +3,9 @@
   "handle": "STIFTUNG-MATHIAS-SPITAL-RHEINE",
   "description": "Stiftung Mathias-Spital Rheine",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.203.227.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -4,8 +4,7 @@
   "description": "Mobius Wireless Solutions Ltd",
   "subnets": {
     "ipv4": [
-      "14.102.156.0/24",
-      "14.102.159.0/24"
+      "14.102.156.0/22"
     ],
     "ipv6": []
   }

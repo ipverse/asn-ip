@@ -3,7 +3,9 @@
   "handle": "TECHNOLOGYINVESTORSINC",
   "description": "Technology Investors, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "207.201.214.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "RUNEXIS",
   "description": "INTERNOD LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "88.218.60.0/22"
+    ],
     "ipv6": []
   }
 }
