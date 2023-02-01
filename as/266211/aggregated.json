@@ -4,6 +4,7 @@
   "description": "GERACAO NET",
   "subnets": {
     "ipv4": [
+      "45.229.164.0/22",
       "192.144.100.0/22"
     ],
     "ipv6": [

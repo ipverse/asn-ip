@@ -4,8 +4,7 @@
   "description": "SIGMA A spolka z ograniczona odpowiedzialnoscia",
   "subnets": {
     "ipv4": [
-      "91.210.239.0/24",
-      "156.67.124.0/24"
+      "91.210.239.0/24"
     ],
     "ipv6": []
   }

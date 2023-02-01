@@ -3,10 +3,7 @@
   "handle": "LTH",
   "description": "Leeson Telecom Holdings Ltd",
   "subnets": {
-    "ipv4": [
-      "217.115.121.0/24",
-      "217.115.124.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

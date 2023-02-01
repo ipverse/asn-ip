@@ -3,11 +3,7 @@
   "handle": "WILLOW-AP",
   "description": "WILLOW TECHNOLOGY CORPORATION PTY LTD",
   "subnets": {
-    "ipv4": [
-      "103.145.236.0/23"
-    ],
-    "ipv6": [
-      "2405:8e40::/32"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

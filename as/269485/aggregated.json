@@ -3,11 +3,7 @@
   "handle": "JRNETWORKS-TELECOM",
   "description": "JRNETWORKS Telecom",
   "subnets": {
-    "ipv4": [
-      "45.187.200.0/22"
-    ],
-    "ipv6": [
-      "2804:655c::/32"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

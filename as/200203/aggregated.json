@@ -1,0 +1,11 @@
+{
+  "asn": 200203,
+  "handle": "EASYHOSTER",
+  "description": "EASY HOSTER LIMITED",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a13:d800:2000::/36"
+    ]
+  }
+}

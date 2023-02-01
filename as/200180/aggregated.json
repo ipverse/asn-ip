@@ -1,0 +1,11 @@
+{
+  "asn": 200180,
+  "handle": "PREMIUMFAST",
+  "description": "PT. Premium Fast Network",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a06:a005:1c7a::/48"
+    ]
+  }
+}

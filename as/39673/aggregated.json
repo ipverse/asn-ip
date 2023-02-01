@@ -4,6 +4,8 @@
   "description": "Krzysztof Krych trading as Nakigoto",
   "subnets": {
     "ipv4": [
+      "91.209.40.0/24",
+      "91.209.48.0/24",
       "91.209.50.0/24"
     ],
     "ipv6": [

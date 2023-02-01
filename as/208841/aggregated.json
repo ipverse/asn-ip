@@ -3,7 +3,9 @@
   "handle": "SVALYAVANET",
   "description": "Vitalii Igorevich Zubyk",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "2.58.204.0/22"
+    ],
     "ipv6": []
   }
 }
