@@ -4,8 +4,7 @@
   "description": "CEMM SERVICOS DE PROVEDORES E INFORMATICA LTDA ME",
   "subnets": {
     "ipv4": [
-      "45.160.120.0/24",
-      "45.160.122.0/24"
+      "45.160.120.0/22"
     ],
     "ipv6": []
   }

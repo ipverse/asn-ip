@@ -4,7 +4,8 @@
   "description": "BANCO DAVIVIENDA S.A",
   "subnets": {
     "ipv4": [
-      "190.146.113.0/24"
+      "190.146.113.0/24",
+      "200.81.56.0/24"
     ],
     "ipv6": []
   }

@@ -4,6 +4,9 @@
   "description": "Alexander Doerr",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a0e:97c0:a60::/46",
+      "2a0e:97c0:a64::/47"
+    ]
   }
 }

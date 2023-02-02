@@ -3,7 +3,9 @@
   "handle": "IDNIC-PEMKABBERAU-ID",
   "description": "Pemerintah Kabupaten Berau",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.203.162.0/24"
+    ],
     "ipv6": []
   }
 }

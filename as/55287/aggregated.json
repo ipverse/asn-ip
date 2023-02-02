@@ -3,9 +3,7 @@
   "handle": "SLSOT-NET-1",
   "description": "Surplus Lines Stamping Office of Texas",
   "subnets": {
-    "ipv4": [
-      "199.227.40.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

@@ -1,0 +1,11 @@
+{
+  "asn": 63379,
+  "handle": "MNSCA",
+  "description": "Sun Country Airlines",
+  "subnets": {
+    "ipv4": [
+      "45.59.148.0/24"
+    ],
+    "ipv6": []
+  }
+}

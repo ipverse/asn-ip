@@ -3,7 +3,9 @@
   "handle": "BZL",
   "description": "BREEZLE LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "176.105.253.0/24"
+    ],
     "ipv6": [
       "2a06:a005:2::/48",
       "2a0d:c740:f::/48",

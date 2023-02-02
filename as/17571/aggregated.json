@@ -3,10 +3,7 @@
   "handle": "NCSOFT",
   "description": "ncsoft",
   "subnets": {
-    "ipv4": [
-      "209.35.156.0/24",
-      "209.35.189.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

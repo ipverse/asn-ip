@@ -1,0 +1,11 @@
+{
+  "asn": 202452,
+  "handle": "FLOW-ALP2",
+  "description": "Flow Swiss AG",
+  "subnets": {
+    "ipv4": [
+      "194.5.128.0/22"
+    ],
+    "ipv6": []
+  }
+}
