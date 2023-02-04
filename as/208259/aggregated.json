@@ -3,11 +3,7 @@
   "handle": "SAMATECH",
   "description": "INERA.CZ s.r.o.",
   "subnets": {
-    "ipv4": [
-      "45.129.107.0/24"
-    ],
-    "ipv6": [
-      "2a0e:47c7:1000::/48"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

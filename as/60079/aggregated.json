@@ -3,7 +3,9 @@
   "handle": "EMF",
   "description": "Electromagnetic Field Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.15.104.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -4,10 +4,6 @@
   "description": "Zappie Host LLC",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2a06:a001:a110::/44",
-      "2a0e:b107:1810::/44",
-      "2a0e:b107:1840::/44"
-    ]
+    "ipv6": []
   }
 }

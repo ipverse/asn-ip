@@ -1,0 +1,11 @@
+{
+  "asn": 139133,
+  "handle": "GZ-EGOVNET",
+  "description": "Guangzhou Digital Government Operation Center",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2406:5ac0::/32"
+    ]
+  }
+}

@@ -3,7 +3,9 @@
   "handle": "ARIN-CODEFORHOST",
   "description": "CodeforHost Inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "104.247.108.0/24"
+    ],
     "ipv6": [
       "2602:fc06:1::/48"
     ]

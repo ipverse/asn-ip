@@ -1,0 +1,11 @@
+{
+  "asn": 19974,
+  "handle": "SKYPACKET-TEKRIDGE",
+  "description": "SkyPacket",
+  "subnets": {
+    "ipv4": [
+      "104.192.164.0/24"
+    ],
+    "ipv6": []
+  }
+}

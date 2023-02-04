@@ -3,7 +3,9 @@
   "handle": "CAITHNESS",
   "description": "Caithness Energy LLC.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "66.80.119.0/24"
+    ],
     "ipv6": []
   }
 }
