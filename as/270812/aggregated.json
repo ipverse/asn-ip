@@ -3,7 +3,9 @@
   "handle": "RIZZINET-SOLUCOES-EM",
   "description": "RizziNET Solucoes em Internet LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "200.219.24.0/22"
+    ],
     "ipv6": []
   }
 }

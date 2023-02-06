@@ -3,7 +3,9 @@
   "handle": "IPFIX",
   "description": "IPFIX SASU",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.176.68.0/22"
+    ],
     "ipv6": []
   }
 }

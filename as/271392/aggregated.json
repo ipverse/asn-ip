@@ -3,7 +3,9 @@
   "handle": "EXPRESSNET-TELECOM",
   "description": "Expressnet Telecom",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "177.126.56.0/22"
+    ],
     "ipv6": [
       "2804:7ac8::/32"
     ]
