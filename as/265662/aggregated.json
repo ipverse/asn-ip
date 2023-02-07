@@ -4,7 +4,6 @@
   "description": "TLINK SPA",
   "subnets": {
     "ipv4": [
-      "38.131.9.0/24",
       "45.4.0.0/22"
     ],
     "ipv6": []

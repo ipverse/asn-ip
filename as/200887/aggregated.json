@@ -1,0 +1,11 @@
+{
+  "asn": 200887,
+  "handle": "VELCOM",
+  "description": "Velcom Srl",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a13:1584::/30"
+    ]
+  }
+}

@@ -3,9 +3,7 @@
   "handle": "SCGS",
   "description": "Comcable SA",
   "subnets": {
-    "ipv4": [
-      "88.86.224.0/19"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

@@ -4,8 +4,6 @@
   "description": "The Wright Center",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2620:32:6000::/48"
-    ]
+    "ipv6": []
   }
 }

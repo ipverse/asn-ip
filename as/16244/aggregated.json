@@ -4,7 +4,6 @@
   "description": "CSIS SECURITY GROUP A/S",
   "subnets": {
     "ipv4": [
-      "185.113.228.0/24",
       "185.113.230.0/23"
     ],
     "ipv6": [

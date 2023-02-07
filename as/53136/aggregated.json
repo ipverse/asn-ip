@@ -3,7 +3,9 @@
   "handle": "SVA-INTERNET",
   "description": "SVA INTERNET LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "187.84.64.0/20"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "LANCELOT",
   "description": "Lancelot BV",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "89.34.170.0/24"
+    ],
     "ipv6": []
   }
 }

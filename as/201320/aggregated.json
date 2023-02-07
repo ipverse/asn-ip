@@ -3,7 +3,9 @@
   "handle": "ATC",
   "description": "Advanced Technology for Communications Services Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.48.93.0/24"
+    ],
     "ipv6": []
   }
 }

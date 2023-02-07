@@ -4,7 +4,8 @@
   "description": "STE INTERNET SMART SOLUTIONS",
   "subnets": {
     "ipv4": [
-      "196.203.112.0/22"
+      "196.203.112.0/22",
+      "197.11.128.0/18"
     ],
     "ipv6": []
   }
