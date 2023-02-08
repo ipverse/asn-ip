@@ -1,0 +1,11 @@
+{
+  "asn": 200105,
+  "handle": "MOEQING",
+  "description": "MoeQing Network, LLC",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a0a:6040:5300::/40"
+    ]
+  }
+}

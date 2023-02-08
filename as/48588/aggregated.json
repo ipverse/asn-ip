@@ -3,7 +3,9 @@
   "handle": "DWEBS-DR",
   "description": "DWebs Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.182.28.0/24"
+    ],
     "ipv6": []
   }
 }

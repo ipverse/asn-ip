@@ -3,10 +3,7 @@
   "handle": "INETON",
   "description": "INETON RETELE DE COMUNICATII S.R.L.",
   "subnets": {
-    "ipv4": [
-      "84.247.16.0/24",
-      "217.156.27.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

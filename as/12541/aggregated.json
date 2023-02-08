@@ -3,7 +3,9 @@
   "handle": "EVOLUTIO-DATACENTER",
   "description": "EVOLUTIO CLOUD ENABLER S.A. UNIPERSONAL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "136.238.21.0/24"
+    ],
     "ipv6": []
   }
 }

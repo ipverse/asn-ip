@@ -3,7 +3,10 @@
   "handle": "SSPW-WP-PODLASKIE",
   "description": "Wojewodztwo Podlaskie",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "130.180.199.0/24",
+      "152.89.52.0/22"
+    ],
     "ipv6": []
   }
 }

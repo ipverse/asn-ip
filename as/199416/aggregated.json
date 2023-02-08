@@ -3,7 +3,9 @@
   "handle": "VULTUS",
   "description": "Maciej Szoll",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "176.121.112.0/20"
+    ],
     "ipv6": []
   }
 }

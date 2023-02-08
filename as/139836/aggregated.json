@@ -3,11 +3,7 @@
   "handle": "CCSCL-AP",
   "description": "COMMRUN COMMUNICATION SERVICE (HONGKONG) CO., LIMITED",
   "subnets": {
-    "ipv4": [
-      "103.146.8.0/23"
-    ],
-    "ipv6": [
-      "2001:df2:3880::/48"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

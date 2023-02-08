@@ -3,9 +3,7 @@
   "handle": "MAGNA-HOLLAND",
   "description": "Magna Donnelly Corporation",
   "subnets": {
-    "ipv4": [
-      "216.118.223.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

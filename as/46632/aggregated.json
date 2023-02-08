@@ -4,6 +4,7 @@
   "description": "Southwest Arkansas Telephone Cooperative",
   "subnets": {
     "ipv4": [
+      "38.44.0.0/21",
       "67.223.197.0/24",
       "67.223.198.0/23",
       "67.223.200.0/23",

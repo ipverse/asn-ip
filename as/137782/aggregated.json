@@ -4,8 +4,6 @@
   "description": "STATE GRID SHANGHAI MUNICIPAL ELECTRIC POWER COMPANY",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2403:fec0::/32"
-    ]
+    "ipv6": []
   }
 }

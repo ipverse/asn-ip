@@ -4,8 +4,10 @@
   "description": "Information and Communications Technology Authority",
   "subnets": {
     "ipv4": [
-      "41.76.172.0/24"
+      "41.76.168.0/21"
     ],
-    "ipv6": []
+    "ipv6": [
+      "2c0f:7200::/32"
+    ]
   }
 }

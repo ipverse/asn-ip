@@ -4,7 +4,8 @@
   "description": "TechHub company for trading investment and technology",
   "subnets": {
     "ipv4": [
-      "141.98.244.0/22"
+      "141.98.244.0/23",
+      "141.98.247.0/24"
     ],
     "ipv6": []
   }

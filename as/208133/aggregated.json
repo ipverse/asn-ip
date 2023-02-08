@@ -3,11 +3,7 @@
   "handle": "CARANTE",
   "description": "Stichting ASVZ",
   "subnets": {
-    "ipv4": [
-      "185.228.200.0/22"
-    ],
-    "ipv6": [
-      "2a0d:3a00::/29"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

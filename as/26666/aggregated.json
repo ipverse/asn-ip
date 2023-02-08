@@ -1,0 +1,11 @@
+{
+  "asn": 26666,
+  "handle": "INTERSERVER-LAX",
+  "description": "Interserver, Inc",
+  "subnets": {
+    "ipv4": [
+      "216.219.95.0/24"
+    ],
+    "ipv6": []
+  }
+}

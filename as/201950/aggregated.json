@@ -1,0 +1,11 @@
+{
+  "asn": 201950,
+  "handle": "CONNECT-MED",
+  "description": "ELECTRA TELECOM SAS",
+  "subnets": {
+    "ipv4": [
+      "79.110.50.0/24"
+    ],
+    "ipv6": []
+  }
+}
