@@ -3,11 +3,7 @@
   "handle": "ONIYN-AP",
   "description": "ONiYN Pty Ltd",
   "subnets": {
-    "ipv4": [
-      "103.65.244.0/22"
-    ],
-    "ipv6": [
-      "2405:af80::/32"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

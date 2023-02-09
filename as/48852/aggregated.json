@@ -3,10 +3,7 @@
   "handle": "BUNT",
   "description": "Bunt Studio SRL",
   "subnets": {
-    "ipv4": [
-      "91.212.74.0/24",
-      "193.36.89.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

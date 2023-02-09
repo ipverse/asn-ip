@@ -1,0 +1,12 @@
+{
+  "asn": 9806,
+  "handle": "BJENET",
+  "description": "Beijing Educational Information Network Service Center Co., Ltd",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2407:4f00:1::/48",
+      "2407:4f00:2::/48"
+    ]
+  }
+}

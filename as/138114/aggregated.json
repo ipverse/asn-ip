@@ -4,8 +4,7 @@
   "description": "Diskominfo Kabupaten Tangerang",
   "subnets": {
     "ipv4": [
-      "103.125.184.0/23",
-      "202.87.177.0/24"
+      "103.125.184.0/23"
     ],
     "ipv6": []
   }

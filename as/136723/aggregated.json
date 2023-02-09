@@ -1,9 +1,11 @@
 {
   "asn": 136723,
-  "handle": "KNPLMZN",
-  "description": "Kartik Network Pvt Ltd",
+  "handle": "MLGENT-IN",
+  "description": "MLG ENTERPRISES",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.182.196.0/24"
+    ],
     "ipv6": []
   }
 }

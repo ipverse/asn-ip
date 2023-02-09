@@ -3,7 +3,9 @@
   "handle": "SOCIEDADE-PADRE-ANCHIETA",
   "description": "Sociedade PADRE ANCHIETA DE ENSINO",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "177.105.96.0/21"
+    ],
     "ipv6": []
   }
 }

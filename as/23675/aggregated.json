@@ -4,7 +4,8 @@
   "description": "Taiwan Semiconductor Manufacturing Company, Ltd.",
   "subnets": {
     "ipv4": [
-      "106.105.110.0/24"
+      "106.105.110.0/24",
+      "202.126.74.0/23"
     ],
     "ipv6": []
   }

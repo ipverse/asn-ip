@@ -1,9 +1,11 @@
 {
   "asn": 57934,
-  "handle": "AUTOMERIDIAN",
-  "description": "IT SUPPORT \u0026 CONSULTING SRL",
+  "handle": "MIAWOO",
+  "description": "Miaowoo LLC",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a0a:6040:5800::/40"
+    ]
   }
 }

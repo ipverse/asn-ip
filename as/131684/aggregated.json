@@ -3,7 +3,9 @@
   "handle": "UNIVERSALCONNECTIONSTECHNOLOGIES-AP",
   "description": "Universal Connections Technologies (M) Sdn. Bhd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.69.175.0/24"
+    ],
     "ipv6": []
   }
 }

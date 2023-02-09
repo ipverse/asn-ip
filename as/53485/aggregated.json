@@ -1,0 +1,11 @@
+{
+  "asn": 53485,
+  "handle": "LON-NIDR",
+  "description": "PIMCO",
+  "subnets": {
+    "ipv4": [
+      "144.77.144.0/24"
+    ],
+    "ipv6": []
+  }
+}

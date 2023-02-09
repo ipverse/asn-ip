@@ -3,7 +3,10 @@
   "handle": "NET-0X2A",
   "description": "Private Entreprise Zharkov Mukola Mukolayovuch",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.211.116.0/23",
+      "91.211.119.0/24"
+    ],
     "ipv6": []
   }
 }

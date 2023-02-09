@@ -3,7 +3,9 @@
   "handle": "IP-SOLUCOES-TECNOLOGICAS",
   "description": "IP SOLUCOES TECNOLOGICAS LTDA - ME",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.229.12.0/22"
+    ],
     "ipv6": []
   }
 }

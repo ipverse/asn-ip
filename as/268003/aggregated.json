@@ -4,10 +4,10 @@
   "description": "CITY NET INTERNET EIRELI ME",
   "subnets": {
     "ipv4": [
-      "45.167.100.0/24"
+      "45.167.100.0/22"
     ],
     "ipv6": [
-      "2804:567c:400::/38"
+      "2804:567c::/37"
     ]
   }
 }

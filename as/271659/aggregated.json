@@ -4,7 +4,8 @@
   "description": "AXT TELECOMUNICACOES EIRELI",
   "subnets": {
     "ipv4": [
-      "38.10.240.0/22"
+      "38.10.240.0/24",
+      "38.10.242.0/23"
     ],
     "ipv6": [
       "2804:7efc::/37",
