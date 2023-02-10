@@ -3,7 +3,9 @@
   "handle": "NCRYPTD",
   "description": "NCRYPTD LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "23.147.136.0/24"
+    ],
     "ipv6": [
       "2602:29f:1a0::/43",
       "2602:29f:1c0::/44",

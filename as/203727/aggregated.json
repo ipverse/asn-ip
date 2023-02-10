@@ -4,6 +4,7 @@
   "description": "Daniil Yevchenko",
   "subnets": {
     "ipv4": [
+      "77.91.68.0/24",
       "77.91.124.0/24"
     ],
     "ipv6": []

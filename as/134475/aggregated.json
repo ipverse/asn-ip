@@ -4,6 +4,7 @@
   "description": "HTS Solutions Private Limited",
   "subnets": {
     "ipv4": [
+      "36.255.197.0/24",
       "103.73.34.0/24",
       "103.160.129.0/24",
       "103.178.141.0/24",

@@ -4,7 +4,8 @@
   "description": "Stadtwerke Muerzzuschlag GmbH",
   "subnets": {
     "ipv4": [
-      "81.21.112.0/20"
+      "81.21.112.0/20",
+      "185.178.0.0/22"
     ],
     "ipv6": [
       "2a0a:4d80::/29"

@@ -1,0 +1,11 @@
+{
+  "asn": 6149,
+  "handle": "TENET-2",
+  "description": "TENET (The UNINET Project)",
+  "subnets": {
+    "ipv4": [
+      "154.115.0.0/24"
+    ],
+    "ipv6": []
+  }
+}

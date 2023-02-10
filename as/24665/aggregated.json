@@ -3,10 +3,7 @@
   "handle": "SUTC",
   "description": "PJSC Rostelecom",
   "subnets": {
-    "ipv4": [
-      "81.20.160.0/20",
-      "95.141.0.0/20"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

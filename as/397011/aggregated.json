@@ -3,11 +3,7 @@
   "handle": "US-TX-UCAAS-XCHANGE-FW",
   "description": "Mavenir Systems, Inc.",
   "subnets": {
-    "ipv4": [
-      "45.145.172.0/24"
-    ],
-    "ipv6": [
-      "2605:ca40:1::/48"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

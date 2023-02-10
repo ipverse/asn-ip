@@ -4,8 +4,6 @@
   "description": "Netassist Limited",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2a0d:c00::/29"
-    ]
+    "ipv6": []
   }
 }

@@ -4,8 +4,7 @@
   "description": "Private Entreprise Zharkov Mukola Mukolayovuch",
   "subnets": {
     "ipv4": [
-      "91.211.116.0/23",
-      "91.211.119.0/24"
+      "91.211.116.0/22"
     ],
     "ipv6": []
   }

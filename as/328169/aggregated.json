@@ -4,6 +4,7 @@
   "description": "Swazi Mobile Limited",
   "subnets": {
     "ipv4": [
+      "102.214.160.0/22",
       "165.73.132.0/22"
     ],
     "ipv6": []

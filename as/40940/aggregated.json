@@ -3,7 +3,9 @@
   "handle": "VURGE",
   "description": "VURGE INC.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "204.194.64.0/21"
+    ],
     "ipv6": []
   }
 }

@@ -4,7 +4,7 @@
   "description": "Antennen-Interessengemeinschaft Geroldsgruen e.V.",
   "subnets": {
     "ipv4": [
-      "94.154.138.0/24"
+      "94.154.138.0/23"
     ],
     "ipv6": [
       "2a0e:7a01::/32",
