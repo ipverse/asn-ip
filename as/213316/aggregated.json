@@ -3,7 +3,9 @@
   "handle": "COCONUT-RIPE",
   "description": "Coconut Networks Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "141.11.0.0/24"
+    ],
     "ipv6": [
       "2a0c:e643:8080::/48",
       "2a0c:e643:abcd::/48",
@@ -11,7 +13,6 @@
       "2a0c:e643:cafe::/48",
       "2a0c:e643:face::/48",
       "2a0c:e643:fade::/48",
-      "2a0c:e643:feda::/48",
       "2a0c:e643:feed::/48",
       "2a0f:9400:8018::/48",
       "2a10:2f01:241::/48",

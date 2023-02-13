@@ -4,6 +4,7 @@
   "description": "OctoSEC LTD",
   "subnets": {
     "ipv4": [
+      "45.61.167.0/24",
       "134.195.137.0/24"
     ],
     "ipv6": [

@@ -4,6 +4,7 @@
   "description": "E.W de Aguiar Lima e Comercio EPP",
   "subnets": {
     "ipv4": [
+      "38.156.24.0/21",
       "168.195.152.0/22"
     ],
     "ipv6": [

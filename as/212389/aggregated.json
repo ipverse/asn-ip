@@ -1,0 +1,11 @@
+{
+  "asn": 212389,
+  "handle": "MIKENETWORKS",
+  "description": "MikeNetworks BV",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a12:4942:4009::/48"
+    ]
+  }
+}
