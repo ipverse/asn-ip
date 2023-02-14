@@ -3,7 +3,9 @@
   "handle": "VIPNET-BUKINA-FASO",
   "description": "VIPNET BUKINA FASO",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "102.222.123.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -1,0 +1,11 @@
+{
+  "asn": 395035,
+  "handle": "LIVEOAK-FIBER",
+  "description": "LiveOak Fiber",
+  "subnets": {
+    "ipv4": [
+      "216.150.8.0/21"
+    ],
+    "ipv6": []
+  }
+}

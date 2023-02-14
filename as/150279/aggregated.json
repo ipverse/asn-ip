@@ -3,7 +3,9 @@
   "handle": "IDNIC-LNS-ID",
   "description": "PT Lintas Network Solusi",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.99.27.0/24"
+    ],
     "ipv6": []
   }
 }

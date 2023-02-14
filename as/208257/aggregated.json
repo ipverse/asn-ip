@@ -4,6 +4,7 @@
   "description": "CELENETWORKS SL",
   "subnets": {
     "ipv4": [
+      "151.248.20.0/22",
       "185.251.70.0/24"
     ],
     "ipv6": [

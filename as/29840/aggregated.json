@@ -1,0 +1,11 @@
+{
+  "asn": 29840,
+  "handle": "GRAM-NET2",
+  "description": "Grambling State University",
+  "subnets": {
+    "ipv4": [
+      "76.165.48.0/24"
+    ],
+    "ipv6": []
+  }
+}

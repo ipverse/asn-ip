@@ -3,7 +3,9 @@
   "handle": "MYTHICALKITTEN",
   "description": "Material Global Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "87.247.149.0/24"
+    ],
     "ipv6": [
       "2602:fac2:6::/48",
       "2602:fafd:f01::/48",

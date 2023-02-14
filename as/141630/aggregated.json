@@ -3,9 +3,7 @@
   "handle": "IDNIC-OEMJI-ID",
   "description": "PT.OMEGA MEDIA GLOBAL",
   "subnets": {
-    "ipv4": [
-      "203.161.23.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

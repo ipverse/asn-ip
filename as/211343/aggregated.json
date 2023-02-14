@@ -3,9 +3,7 @@
   "handle": "HYPERGUARD",
   "description": "HyperGuard LP",
   "subnets": {
-    "ipv4": [
-      "194.31.9.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }
