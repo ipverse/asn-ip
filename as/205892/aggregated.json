@@ -4,6 +4,7 @@
   "description": "Nomical Ltd",
   "subnets": {
     "ipv4": [
+      "95.129.28.0/22",
       "185.190.72.0/22"
     ],
     "ipv6": [

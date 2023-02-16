@@ -1,0 +1,11 @@
+{
+  "asn": 55550,
+  "handle": "APCL-AP",
+  "description": "Asia Pacific Communication Limited",
+  "subnets": {
+    "ipv4": [
+      "103.115.100.0/24"
+    ],
+    "ipv6": []
+  }
+}

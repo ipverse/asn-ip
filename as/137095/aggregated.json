@@ -3,7 +3,11 @@
   "handle": "DLISPL",
   "description": "Dm Lot Infotech Solutions Private Limited",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "103.113.64.0/22"
+    ],
+    "ipv6": [
+      "2407:6240::/39"
+    ]
   }
 }

@@ -4,8 +4,6 @@
   "description": "Shared Services Canada",
   "subnets": {
     "ipv4": [
-      "142.236.0.0/17",
-      "198.103.221.0/24",
       "205.193.114.0/24"
     ],
     "ipv6": []

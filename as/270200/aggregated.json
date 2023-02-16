@@ -3,7 +3,9 @@
   "handle": "MEGABIT-TELECOMUNICACIONES",
   "description": "MEGABIT TELECOMUNICACIONES SA DE CV",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "190.9.108.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -1,0 +1,11 @@
+{
+  "asn": 27477,
+  "handle": "POLAR-PUBLIC-HUB-POP",
+  "description": "IBM",
+  "subnets": {
+    "ipv4": [
+      "192.147.88.0/24"
+    ],
+    "ipv6": []
+  }
+}

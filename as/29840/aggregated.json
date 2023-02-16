@@ -4,6 +4,7 @@
   "description": "Grambling State University",
   "subnets": {
     "ipv4": [
+      "76.78.86.0/24",
       "76.165.48.0/24"
     ],
     "ipv6": []
