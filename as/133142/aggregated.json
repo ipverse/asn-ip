@@ -3,15 +3,7 @@
   "handle": "TRIVAGO-AP",
   "description": "Trivago Hong Kong Limited",
   "subnets": {
-    "ipv4": [
-      "110.79.9.0/24"
-    ],
-    "ipv6": [
-      "2001:df6:f000::/48",
-      "2a0b:1302::/34",
-      "2a0b:1302:4000::/48",
-      "2a0b:1306:9::/48",
-      "2a0b:1306:b::/48"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

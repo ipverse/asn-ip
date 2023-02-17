@@ -3,7 +3,9 @@
   "handle": "OCTET",
   "description": "OCTET TELECOM LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.153.172.0/22"
+    ],
     "ipv6": []
   }
 }

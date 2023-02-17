@@ -3,7 +3,9 @@
   "handle": "GIGANET-TELECOM",
   "description": "GIGANET TELECOM LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.170.239.0/24"
+    ],
     "ipv6": [
       "2804:871c::/32"
     ]

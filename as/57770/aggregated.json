@@ -4,6 +4,7 @@
   "description": "ETHERDARK LTD",
   "subnets": {
     "ipv4": [
+      "62.112.136.0/22",
       "148.222.240.0/22"
     ],
     "ipv6": []

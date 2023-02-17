@@ -1,0 +1,11 @@
+{
+  "asn": 9438,
+  "handle": "NETRO-AP",
+  "description": "SingTel Optus Pty Ltd",
+  "subnets": {
+    "ipv4": [
+      "203.17.122.0/24"
+    ],
+    "ipv6": []
+  }
+}

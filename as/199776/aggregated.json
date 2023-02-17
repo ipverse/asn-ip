@@ -3,7 +3,9 @@
   "handle": "FILIPPETTI",
   "description": "Filippetti Spa",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.46.140.0/23"
+    ],
     "ipv6": []
   }
 }

@@ -1,0 +1,11 @@
+{
+  "asn": 206390,
+  "handle": "REPORTLINKER",
+  "description": "ReportLinker SAS",
+  "subnets": {
+    "ipv4": [
+      "185.187.208.0/22"
+    ],
+    "ipv6": []
+  }
+}

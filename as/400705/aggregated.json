@@ -3,9 +3,7 @@
   "handle": "HIGHLAND-NET",
   "description": "Highland Networks, LLC",
   "subnets": {
-    "ipv4": [
-      "45.134.108.0/22"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2602:fd92:c70::/44",
       "2606:d0c0:1::/48"

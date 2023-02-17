@@ -4,6 +4,7 @@
   "description": "Access Media Holdings, LLC",
   "subnets": {
     "ipv4": [
+      "24.219.0.0/24",
       "24.219.2.0/23",
       "24.219.4.0/24",
       "24.219.7.0/24",

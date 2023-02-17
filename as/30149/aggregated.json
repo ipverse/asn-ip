@@ -4,6 +4,7 @@
   "description": "The Goldman Sachs Group, Inc.",
   "subnets": {
     "ipv4": [
+      "65.220.38.0/23",
       "216.239.144.0/20"
     ],
     "ipv6": []

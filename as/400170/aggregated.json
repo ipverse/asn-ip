@@ -4,7 +4,8 @@
   "description": "LISIMS INTERNET AND TECHNOLOGY SERVICES INC.",
   "subnets": {
     "ipv4": [
-      "23.128.82.0/24"
+      "137.83.14.0/24",
+      "199.19.78.0/23"
     ],
     "ipv6": [
       "2606:8640::/32"
