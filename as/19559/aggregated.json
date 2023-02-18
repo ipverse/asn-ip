@@ -3,9 +3,7 @@
   "handle": "MC-3254",
   "description": "Maximus Canada",
   "subnets": {
-    "ipv4": [
-      "208.81.184.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

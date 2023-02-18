@@ -3,9 +3,7 @@
   "handle": "CHAMPIONS-AP",
   "description": "Champion Infometrics Pvt Ltd",
   "subnets": {
-    "ipv4": [
-      "103.170.163.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

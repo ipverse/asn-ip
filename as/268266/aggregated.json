@@ -3,9 +3,7 @@
   "handle": "BRB-NET-PROVEDORA",
   "description": "BRB NET PROVEDORA DE INTERNET LTDA",
   "subnets": {
-    "ipv4": [
-      "45.237.40.0/22"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

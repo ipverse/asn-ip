@@ -3,7 +3,9 @@
   "handle": "ME-BRIDGE",
   "description": "ME BRIDGE TELECOM FZCO",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "77.81.176.0/24"
+    ],
     "ipv6": []
   }
 }

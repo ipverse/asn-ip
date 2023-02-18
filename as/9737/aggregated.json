@@ -1,0 +1,11 @@
+{
+  "asn": 9737,
+  "handle": "TOTNET-TH-AP",
+  "description": "TOT Public Company Limited",
+  "subnets": {
+    "ipv4": [
+      "1.2.166.0/24"
+    ],
+    "ipv6": []
+  }
+}

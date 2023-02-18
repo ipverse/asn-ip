@@ -1,0 +1,11 @@
+{
+  "asn": 49548,
+  "handle": "NSA-NET",
+  "description": "NSA Networks LLC",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a0a:6040:df10::/44"
+    ]
+  }
+}

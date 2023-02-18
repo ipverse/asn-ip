@@ -4,6 +4,7 @@
   "description": "Beijing CNISP Technology Co., Ltd.",
   "subnets": {
     "ipv4": [
+      "31.14.38.0/23",
       "43.231.184.0/24",
       "43.231.187.0/24",
       "45.192.186.0/23",

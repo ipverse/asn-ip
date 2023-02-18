@@ -1,9 +1,11 @@
 {
   "asn": 134663,
-  "handle": "RESERVED",
-  "description": "APNIC ASN block",
+  "handle": "IWEB-AP",
+  "description": "I-WEB",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.72.138.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "NET-RPIDA-BRASIL-EIRELI",
   "description": "Net Rpida Brasil Eireli - ME",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "179.124.48.0/21"
+    ],
     "ipv6": []
   }
 }

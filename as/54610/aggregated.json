@@ -4,9 +4,6 @@
   "description": "Eastern Maine Healthcare Systems",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2401:4900:80a0::/43",
-      "2401:4900:80c0::/44"
-    ]
+    "ipv6": []
   }
 }

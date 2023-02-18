@@ -1,0 +1,11 @@
+{
+  "asn": 150324,
+  "handle": "DOTSISNETWORK-AP",
+  "description": "DOTSIS NETWORK",
+  "subnets": {
+    "ipv4": [
+      "103.12.78.0/23"
+    ],
+    "ipv6": []
+  }
+}
