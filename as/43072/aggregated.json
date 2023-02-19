@@ -3,7 +3,9 @@
   "handle": "THESTACK",
   "description": "Stack Network Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "24.233.0.0/19"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "OLYMPIC-ASP",
   "description": "Digital Exchange Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "202.36.230.0/24"
+    ],
     "ipv6": []
   }
 }

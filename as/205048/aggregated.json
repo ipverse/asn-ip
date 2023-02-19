@@ -3,7 +3,10 @@
   "handle": "AHREMENKO",
   "description": "PE Akhremenko Sergiy Victorovich",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "31.43.190.0/24",
+      "91.204.112.0/22"
+    ],
     "ipv6": []
   }
 }

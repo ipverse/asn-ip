@@ -3,7 +3,11 @@
   "handle": "NAKOM",
   "description": "NAKOM d.o.o.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "95.143.144.0/20"
+    ],
+    "ipv6": [
+      "2a00:1da8::/32"
+    ]
   }
 }

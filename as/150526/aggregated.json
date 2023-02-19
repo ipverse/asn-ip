@@ -1,0 +1,11 @@
+{
+  "asn": 150526,
+  "handle": "IDNIC-GISAKA-ID",
+  "description": "PT Giandra Saka Media",
+  "subnets": {
+    "ipv4": [
+      "103.149.42.0/24"
+    ],
+    "ipv6": []
+  }
+}

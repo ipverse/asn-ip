@@ -3,9 +3,7 @@
   "handle": "OL",
   "description": "Objectif Lune Inc.",
   "subnets": {
-    "ipv4": [
-      "192.132.0.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

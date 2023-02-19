@@ -3,7 +3,9 @@
   "handle": "DFC-WASH",
   "description": "U.S. International Development Finance Corporation",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.236.2.0/24"
+    ],
     "ipv6": []
   }
 }
