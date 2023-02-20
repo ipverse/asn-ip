@@ -3,9 +3,7 @@
   "handle": "SUNHK-DATA-AP",
   "description": "Sun Network (Hong Kong) Limited",
   "subnets": {
-    "ipv4": [
-      "202.146.222.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

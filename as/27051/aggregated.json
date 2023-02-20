@@ -4,6 +4,7 @@
   "description": "DoD Network Information Center",
   "subnets": {
     "ipv4": [
+      "214.6.207.0/24",
       "214.6.208.0/24",
       "214.6.237.0/24"
     ],

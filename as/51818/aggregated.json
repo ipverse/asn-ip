@@ -1,11 +1,9 @@
 {
   "asn": 51818,
-  "handle": "MOE-BGP",
+  "handle": "GPC-RS",
   "description": "Moe BGP Co.",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2a0e:b107:1af0::/44"
-    ]
+    "ipv6": []
   }
 }
