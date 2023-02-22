@@ -1,9 +1,11 @@
 {
   "asn": 272206,
-  "handle": "NEXFULL-INFORMTICA-E",
+  "handle": "NEXFULL-INFORMTICA-SERVIOS",
   "description": "Nexfull Informtica e servios Diversos LTDA - ME.",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2804:8394::/32"
+    ]
   }
 }

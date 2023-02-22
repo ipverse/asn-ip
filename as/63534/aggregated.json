@@ -3,10 +3,7 @@
   "handle": "CQCNET",
   "description": "SHENZHEN CHUNQIU YUNJISUAN",
   "subnets": {
-    "ipv4": [
-      "103.61.189.0/24",
-      "103.61.190.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

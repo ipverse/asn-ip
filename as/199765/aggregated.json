@@ -1,0 +1,11 @@
+{
+  "asn": 199765,
+  "handle": "HOSTARIS-NET",
+  "description": "Hostaris Limited",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a07:54c5:1600::/40"
+    ]
+  }
+}

@@ -4,10 +4,8 @@
   "description": "Algerian Academic Research Network",
   "subnets": {
     "ipv4": [
-      "193.194.64.0/19"
+      "193.194.93.0/24"
     ],
-    "ipv6": [
-      "2001:4340::/32"
-    ]
+    "ipv6": []
   }
 }

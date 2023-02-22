@@ -1,0 +1,11 @@
+{
+  "asn": 55158,
+  "handle": "RIVEN",
+  "description": "Riven",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2605:9c0:1::/48"
+    ]
+  }
+}

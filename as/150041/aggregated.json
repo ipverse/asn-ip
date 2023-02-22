@@ -3,7 +3,9 @@
   "handle": "CLASICCOM-IN",
   "description": "CLASSIC COMMUNICATION",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.189.134.0/23"
+    ],
     "ipv6": []
   }
 }

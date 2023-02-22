@@ -4,8 +4,7 @@
   "description": "Network Merchants Limited",
   "subnets": {
     "ipv4": [
-      "91.197.92.0/23",
-      "91.197.94.0/24"
+      "91.197.92.0/22"
     ],
     "ipv6": []
   }

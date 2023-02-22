@@ -4,6 +4,8 @@
   "description": "Schokker IT B.V.",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a10:9903:302::/48"
+    ]
   }
 }

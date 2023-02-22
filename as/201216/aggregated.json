@@ -4,6 +4,7 @@
   "description": "Lolo Company AB",
   "subnets": {
     "ipv4": [
+      "185.253.108.0/24",
       "193.181.192.0/24"
     ],
     "ipv6": []

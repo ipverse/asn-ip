@@ -4,6 +4,7 @@
   "description": "Genesys IT Solutions",
   "subnets": {
     "ipv4": [
+      "38.56.252.0/22",
       "209.127.222.0/24"
     ],
     "ipv6": []

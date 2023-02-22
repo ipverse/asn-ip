@@ -3,9 +3,9 @@
   "handle": "VIA-CLOUD-SERVIDORES",
   "description": "VIA CLOUD SERVIDORES LTDA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": [
-      "2804:814c::/32"
-    ]
+    "ipv4": [
+      "179.63.13.0/24"
+    ],
+    "ipv6": []
   }
 }
