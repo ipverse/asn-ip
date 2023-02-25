@@ -3,7 +3,9 @@
   "handle": "BRUMANET-TELECOM",
   "description": "BrumaNet Telecom",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "131.221.156.0/22"
+    ],
     "ipv6": [
       "2804:1e50::/32"
     ]

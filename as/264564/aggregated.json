@@ -4,6 +4,8 @@
   "description": "VIVA SERVICOS DE COMUNICACAO LTDA - ME",
   "subnets": {
     "ipv4": [
+      "45.233.84.0/24",
+      "45.233.86.0/23",
       "138.36.4.0/22",
       "168.232.148.0/22",
       "170.81.80.0/22"

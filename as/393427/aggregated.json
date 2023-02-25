@@ -4,8 +4,7 @@
   "description": "PorterTech Consulting LLC",
   "subnets": {
     "ipv4": [
-      "37.156.174.0/24",
-      "89.43.35.0/24"
+      "23.26.128.0/19"
     ],
     "ipv6": []
   }

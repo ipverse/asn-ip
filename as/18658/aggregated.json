@@ -1,0 +1,11 @@
+{
+  "asn": 18658,
+  "handle": "ECHD-AS1",
+  "description": "ECTOR COUNTY HOSPITAL DISTRICT",
+  "subnets": {
+    "ipv4": [
+      "208.67.136.0/22"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asn": 150593,
+  "handle": "DATAEX-IN",
+  "description": "Dataexpress Pvt Ltd",
+  "subnets": {
+    "ipv4": [
+      "103.85.180.0/23"
+    ],
+    "ipv6": []
+  }
+}

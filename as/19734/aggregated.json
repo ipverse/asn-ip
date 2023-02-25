@@ -3,7 +3,9 @@
   "handle": "NTS-NACOGDOCHES-01",
   "description": "NTS Communications, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.50.222.0/23"
+    ],
     "ipv6": []
   }
 }

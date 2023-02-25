@@ -3,7 +3,10 @@
   "handle": "ZECHTECH",
   "description": "ZechTech LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.199.148.0/24",
+      "195.230.143.0/24"
+    ],
     "ipv6": []
   }
 }

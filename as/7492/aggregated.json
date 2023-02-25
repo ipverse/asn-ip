@@ -1,0 +1,13 @@
+{
+  "asn": 7492,
+  "handle": "HYPER-ARMOR-BACKBONE",
+  "description": "Nexware",
+  "subnets": {
+    "ipv4": [
+      "103.157.244.0/23"
+    ],
+    "ipv6": [
+      "2001:df5:3680::/48"
+    ]
+  }
+}
