@@ -1,0 +1,11 @@
+{
+  "asn": 150267,
+  "handle": "IDNIC-LANRI-ID",
+  "description": "Lembaga Administrasi Negara Republik Indonesia",
+  "subnets": {
+    "ipv4": [
+      "103.69.255.0/24"
+    ],
+    "ipv6": []
+  }
+}

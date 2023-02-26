@@ -1,11 +1,13 @@
 {
   "asn": 270700,
-  "handle": "VALDERIO-CONCEIO-OLIVEIRA",
-  "description": "Valderio da conceio oliveira almeida -ME",
+  "handle": "SPEED-FIBRA-NETWORK",
+  "description": "Speed Fibra Network",
   "subnets": {
     "ipv4": [
       "177.87.84.0/22"
     ],
-    "ipv6": []
+    "ipv6": [
+      "2804:7000::/32"
+    ]
   }
 }

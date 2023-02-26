@@ -4,9 +4,6 @@
   "description": "SLASH TRES HAUT DEBIT",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2001:67c:1308::/48",
-      "2a10:4646:b::/48"
-    ]
+    "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "EPIX-WAW-GLOBALMIX",
   "description": "Stowarzyszenie e-Poludnie",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.165.149.0/24"
+    ],
     "ipv6": []
   }
 }

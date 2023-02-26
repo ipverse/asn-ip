@@ -3,9 +3,7 @@
   "handle": "SAP-DC",
   "description": "SAP America Inc.",
   "subnets": {
-    "ipv4": [
-      "157.133.16.0/21"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

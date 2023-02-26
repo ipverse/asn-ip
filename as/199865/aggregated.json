@@ -1,0 +1,11 @@
+{
+  "asn": 199865,
+  "handle": "CLUBNODE",
+  "description": "Clubnode CommV",
+  "subnets": {
+    "ipv4": [
+      "179.61.181.0/24"
+    ],
+    "ipv6": []
+  }
+}

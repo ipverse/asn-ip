@@ -3,7 +3,9 @@
   "handle": "GETWELL-NETWORK",
   "description": "GetWellNetwork, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "68.71.224.0/20"
+    ],
     "ipv6": []
   }
 }

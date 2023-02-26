@@ -3,9 +3,7 @@
   "handle": "OECONNECTION",
   "description": "OEConnection, LLC",
   "subnets": {
-    "ipv4": [
-      "204.9.97.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }
