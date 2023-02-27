@@ -3,7 +3,9 @@
   "handle": "ZARAINFO",
   "description": "Zara Infotech",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.82.72.0/22"
+    ],
     "ipv6": []
   }
 }

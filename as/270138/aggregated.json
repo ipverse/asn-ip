@@ -3,7 +3,9 @@
   "handle": "AIRFASTER",
   "description": "Airfaster S.A. de C.V.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "200.49.244.0/22"
+    ],
     "ipv6": []
   }
 }

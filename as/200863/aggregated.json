@@ -4,6 +4,7 @@
   "description": "Przedsiebiorstwo Handlowo Uslugowe  Kamdex Grzegorz Sztuczka",
   "subnets": {
     "ipv4": [
+      "185.78.148.0/22",
       "185.93.72.0/22"
     ],
     "ipv6": []

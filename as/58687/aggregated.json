@@ -3,11 +3,7 @@
   "handle": "LOGITECH-AP",
   "description": "Logi-tech Pty Ltd",
   "subnets": {
-    "ipv4": [
-      "103.15.128.0/22"
-    ],
-    "ipv6": [
-      "2404:dd00::/32"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }
