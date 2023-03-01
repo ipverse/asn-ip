@@ -3,9 +3,7 @@
   "handle": "BERLINER-VERLAG",
   "description": "Berliner Verlag GmbH",
   "subnets": {
-    "ipv4": [
-      "195.74.70.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

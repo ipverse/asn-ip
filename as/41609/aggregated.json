@@ -3,11 +3,7 @@
   "handle": "AID",
   "description": "Standart AG, LLC",
   "subnets": {
-    "ipv4": [
-      "178.250.190.0/23"
-    ],
-    "ipv6": [
-      "2a00:4080::/48"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

@@ -1,13 +1,11 @@
 {
   "asn": 53008,
-  "handle": "PONTAL-CABO",
-  "description": "Pontal Cabo Ltda",
+  "handle": "CABONNET-INTERNET",
+  "description": "CABONNET INTERNET LTDA",
   "subnets": {
     "ipv4": [
       "177.185.160.0/20"
     ],
-    "ipv6": [
-      "2804:b1c::/32"
-    ]
+    "ipv6": []
   }
 }

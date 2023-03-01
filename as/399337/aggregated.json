@@ -1,0 +1,14 @@
+{
+  "asn": 399337,
+  "handle": "NETCRAWLER-INC",
+  "description": "Netcrawler Inc",
+  "subnets": {
+    "ipv4": [
+      "38.20.224.0/22",
+      "38.45.0.0/20",
+      "38.70.176.0/21",
+      "38.130.120.0/21"
+    ],
+    "ipv6": []
+  }
+}

@@ -3,7 +3,9 @@
   "handle": "TWISTIC-LTD",
   "description": "Twistic Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.25.207.0/24"
+    ],
     "ipv6": []
   }
 }

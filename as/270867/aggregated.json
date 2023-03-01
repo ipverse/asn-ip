@@ -3,9 +3,7 @@
   "handle": "RIVERTTEL-CONNECT-MAIS",
   "description": "RIVERTTEL CONNECT MAIS",
   "subnets": {
-    "ipv4": [
-      "179.43.44.0/22"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

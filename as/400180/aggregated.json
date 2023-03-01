@@ -4,6 +4,7 @@
   "description": "The Farmers Mutual Telephone Company of Stanton, Iowa",
   "subnets": {
     "ipv4": [
+      "38.22.192.0/20",
       "167.142.190.0/24",
       "192.230.130.0/24",
       "207.199.225.0/24",

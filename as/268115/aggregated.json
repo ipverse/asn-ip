@@ -3,10 +3,7 @@
   "handle": "R-NOGUEIRA-COMERCIO",
   "description": "R. A. NOGUEIRA COMERCIO DE EQUIPAMENTOS DE INFORMA",
   "subnets": {
-    "ipv4": [
-      "45.169.132.0/23",
-      "45.169.135.0/24"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2804:583c::/32"
     ]

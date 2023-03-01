@@ -1,0 +1,13 @@
+{
+  "asn": 211011,
+  "handle": "SYSTEMS",
+  "description": "VirtCube Networks",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a05:4140:22::/48",
+      "2a06:a005:15df::/48",
+      "2a06:a005:2d80::/44"
+    ]
+  }
+}

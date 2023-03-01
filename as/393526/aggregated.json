@@ -1,0 +1,11 @@
+{
+  "asn": 393526,
+  "handle": "SILVERGATE-US",
+  "description": "Silvergate",
+  "subnets": {
+    "ipv4": [
+      "160.72.208.0/24"
+    ],
+    "ipv6": []
+  }
+}

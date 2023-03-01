@@ -3,7 +3,9 @@
   "handle": "ENEVE-TELECOMUNICACOES",
   "description": "ENEVE TELECOMUNICACOES LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "191.253.52.0/24"
+    ],
     "ipv6": [
       "2804:82c4::/32"
     ]

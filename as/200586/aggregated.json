@@ -3,7 +3,11 @@
   "handle": "DISCOUNTHOST",
   "description": "DiscountHost Ltd",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "109.122.216.0/24"
+    ],
+    "ipv6": [
+      "2001:67c:b64::/48"
+    ]
   }
 }

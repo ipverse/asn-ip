@@ -3,11 +3,7 @@
   "handle": "MEGA-AP",
   "description": "Mega Cable",
   "subnets": {
-    "ipv4": [
-      "103.167.78.0/23"
-    ],
-    "ipv6": [
-      "2407:65c0::/32"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

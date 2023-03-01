@@ -4,7 +4,6 @@
   "description": "Abenet Provedora de Acesso a Internet LTDA",
   "subnets": {
     "ipv4": [
-      "45.166.203.0/24",
       "168.228.184.0/22"
     ],
     "ipv6": [

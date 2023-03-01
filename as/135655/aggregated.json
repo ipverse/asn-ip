@@ -3,9 +3,7 @@
   "handle": "SEOPL-AP",
   "description": "Shell Energy Operations Pty Ltd",
   "subnets": {
-    "ipv4": [
-      "103.78.50.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }
