@@ -3,7 +3,9 @@
   "handle": "GRBINFO-IN",
   "description": "GRB INFOTECH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.185.100.0/24"
+    ],
     "ipv6": []
   }
 }

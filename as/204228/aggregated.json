@@ -4,6 +4,8 @@
   "description": "Jan Egil Vestbo",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2001:67c:24d8::/48"
+    ]
   }
 }

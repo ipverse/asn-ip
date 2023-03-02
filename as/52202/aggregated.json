@@ -3,7 +3,9 @@
   "handle": "ALEWIJNSE",
   "description": "Alewijnse Marine Galati SA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.86.241.0/24"
+    ],
     "ipv6": []
   }
 }

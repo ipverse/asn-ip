@@ -4,7 +4,8 @@
   "description": "PT. Jaringan Prima Data Nusantara",
   "subnets": {
     "ipv4": [
-      "103.115.176.0/22"
+      "103.115.176.0/23",
+      "103.115.178.0/24"
     ],
     "ipv6": []
   }

@@ -3,9 +3,7 @@
   "handle": "EKA",
   "description": "LLC Fuel Company EKA",
   "subnets": {
-    "ipv4": [
-      "141.101.197.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

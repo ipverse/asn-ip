@@ -4,6 +4,8 @@
   "description": "Mikol Net Telecomunicaoes LTDA Eirele ME",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2804:54f0::/32"
+    ]
   }
 }

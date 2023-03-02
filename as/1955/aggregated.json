@@ -4,6 +4,7 @@
   "description": "KIFU (Governmental Info Tech Development Agency)",
   "subnets": {
     "ipv4": [
+      "146.110.0.0/16",
       "192.146.134.0/23",
       "192.160.172.0/24",
       "192.188.242.0/23",

@@ -1,0 +1,13 @@
+{
+  "asn": 272807,
+  "handle": "TELECABLE-PUERTO-PLATA",
+  "description": "TELECABLE PUERTO PLATA SRL",
+  "subnets": {
+    "ipv4": [
+      "206.85.184.0/22"
+    ],
+    "ipv6": [
+      "2803:5890::/32"
+    ]
+  }
+}
