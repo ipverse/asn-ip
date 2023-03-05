@@ -3,7 +3,9 @@
   "handle": "MAXIMA-ID",
   "description": "PT. Maxima Data",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "202.51.56.0/23"
+    ],
     "ipv6": []
   }
 }

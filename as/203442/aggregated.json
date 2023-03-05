@@ -3,7 +3,9 @@
   "handle": "DELTA-CORE",
   "description": "Association Delta-Core",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.148.118.0/24"
+    ],
     "ipv6": []
   }
 }

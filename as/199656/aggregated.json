@@ -1,0 +1,11 @@
+{
+  "asn": 199656,
+  "handle": "ZYC-NETWORK",
+  "description": "ZYC Network LLC",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a12:dd47:8ed0::/48"
+    ]
+  }
+}

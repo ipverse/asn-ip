@@ -3,13 +3,9 @@
   "handle": "PLK",
   "description": "Miglovets Egor Andreevich",
   "subnets": {
-    "ipv4": [
-      "45.146.7.0/24",
-      "91.231.182.0/24"
-    ],
+    "ipv4": [],
     "ipv6": [
-      "2a0c:b641:6f0::/47",
-      "2a0c:b641:6f4::/48",
+      "2a0c:b641:6f1::/48",
       "2a0c:b641:970::/44"
     ]
   }

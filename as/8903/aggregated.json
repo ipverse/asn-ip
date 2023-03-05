@@ -4,6 +4,7 @@
   "description": "EVOLUTIO CLOUD ENABLER S.A. UNIPERSONAL",
   "subnets": {
     "ipv4": [
+      "84.18.0.0/19",
       "92.60.160.0/20",
       "136.238.21.0/24",
       "136.238.211.0/24",

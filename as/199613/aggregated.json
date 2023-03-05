@@ -1,0 +1,13 @@
+{
+  "asn": 199613,
+  "handle": "BLING",
+  "description": "Bling Network LLC",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a0a:6040:7d11::/48",
+      "2a0a:6040:7d90::/48",
+      "2a0a:6040:7da2::/48"
+    ]
+  }
+}
