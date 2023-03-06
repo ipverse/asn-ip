@@ -3,9 +3,7 @@
   "handle": "NUXT-CLOUD",
   "description": "Nuxt Hosting Solution Limited",
   "subnets": {
-    "ipv4": [
-      "194.58.33.0/24"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2a0c:b641:3b0::/44"
     ]

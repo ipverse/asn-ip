@@ -1,0 +1,13 @@
+{
+  "asn": 57247,
+  "handle": "MOTUS",
+  "description": "Motus A/S",
+  "subnets": {
+    "ipv4": [
+      "194.116.230.0/24"
+    ],
+    "ipv6": [
+      "2a02:4680::/29"
+    ]
+  }
+}

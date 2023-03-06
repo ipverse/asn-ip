@@ -1,0 +1,11 @@
+{
+  "asn": 150915,
+  "handle": "IDNIC-BGPWESTKAL-ID",
+  "description": "PT Borneo Global Persada",
+  "subnets": {
+    "ipv4": [
+      "103.97.198.0/24"
+    ],
+    "ipv6": []
+  }
+}

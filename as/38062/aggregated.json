@@ -3,9 +3,7 @@
   "handle": "BETFAIR-AU-AP",
   "description": "Betfair Technology Pty. Ltd.",
   "subnets": {
-    "ipv4": [
-      "210.4.80.0/21"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

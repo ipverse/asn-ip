@@ -4,8 +4,6 @@
   "description": "Hampshire County Council",
   "subnets": {
     "ipv4": [
-      "91.223.46.0/24",
-      "91.224.26.0/23",
       "91.225.16.0/22",
       "194.11.18.0/24"
     ],

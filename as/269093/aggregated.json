@@ -3,7 +3,9 @@
   "handle": "RN-TELECOM",
   "description": "RN TELECOM",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.179.172.0/22"
+    ],
     "ipv6": []
   }
 }

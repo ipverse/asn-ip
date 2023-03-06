@@ -4,6 +4,7 @@
   "description": "Trans World Enterprise Services (Private) Limited",
   "subnets": {
     "ipv4": [
+      "103.84.56.0/24",
       "103.140.30.0/23",
       "119.63.138.0/24",
       "119.73.99.0/24",

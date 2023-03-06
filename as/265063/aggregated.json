@@ -3,7 +3,9 @@
   "handle": "COMETA-TELECOM",
   "description": "COMETA TELECOM LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "170.231.192.0/22"
+    ],
     "ipv6": [
       "2804:3238::/32"
     ]
