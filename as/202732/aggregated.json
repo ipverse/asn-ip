@@ -4,10 +4,6 @@
   "description": "Esteban de Jesus Hernandez Angulo",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2a06:a005:1163::/48",
-      "2a06:a005:1501::/48",
-      "2a12:dd47:8290::/48"
-    ]
+    "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "CENTRO-NACIONAL-COMPUTACION",
   "description": "Centro Nacional de Computacion",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "200.10.228.0/22"
+    ],
     "ipv6": []
   }
 }

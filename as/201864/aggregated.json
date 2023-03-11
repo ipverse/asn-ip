@@ -1,9 +1,11 @@
 {
   "asn": 201864,
-  "handle": "UNUSED",
-  "description": "LLC Real-net",
+  "handle": "TRENCH",
+  "description": "TRENCH NETWORKS LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "146.19.138.0/24"
+    ],
     "ipv6": []
   }
 }

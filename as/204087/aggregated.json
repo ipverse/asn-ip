@@ -4,8 +4,6 @@
   "description": "Playstar",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2a06:a005:5aa::/48"
-    ]
+    "ipv6": []
   }
 }

@@ -4,8 +4,7 @@
   "description": "RED Medical Systems GmbH",
   "subnets": {
     "ipv4": [
-      "45.95.108.0/23",
-      "45.95.111.0/24"
+      "45.95.108.0/22"
     ],
     "ipv6": []
   }

@@ -1,11 +1,11 @@
 {
   "asn": 211860,
-  "handle": "REMY-MARTIN",
+  "handle": "RMY",
   "description": "Remy MARTIN",
   "subnets": {
     "ipv4": [],
     "ipv6": [
-      "2a0e:8f02:2220::/48"
+      "2a0e:8f02:2220::/47"
     ]
   }
 }

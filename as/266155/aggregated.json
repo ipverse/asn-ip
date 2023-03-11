@@ -3,7 +3,11 @@
   "handle": "UNIPRIME-CENTRAL-CENTRAL",
   "description": "UNIPRIME CENTRAL-CENTRAL INTER DE COOP DE CREDITO",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "200.106.144.0/22"
+    ],
+    "ipv6": [
+      "2804:3b88::/32"
+    ]
   }
 }

@@ -1,13 +1,9 @@
 {
   "asn": 262810,
-  "handle": "C-R-BARDI",
-  "description": "C. R. BARDI \u0026 CIA LTDA - ME",
+  "handle": "IFIBER-TELECOM",
+  "description": "IFIBER TELECOM",
   "subnets": {
-    "ipv4": [
-      "186.250.84.0/22"
-    ],
-    "ipv6": [
-      "2804:85b0:8000::/33"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

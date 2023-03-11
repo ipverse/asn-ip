@@ -1,9 +1,12 @@
 {
   "asn": 202525,
-  "handle": "FLEXSI",
-  "description": "FLEXSI SAS",
+  "handle": "CHUNMING",
+  "description": "CHUN-MING OU",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.123.217.0/24",
+      "103.123.218.0/24"
+    ],
     "ipv6": []
   }
 }

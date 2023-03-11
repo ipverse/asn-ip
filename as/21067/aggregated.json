@@ -4,6 +4,7 @@
   "description": "KANDU forening",
   "subnets": {
     "ipv4": [
+      "151.216.128.0/17",
       "185.110.148.0/22"
     ],
     "ipv6": [

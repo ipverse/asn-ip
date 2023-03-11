@@ -3,7 +3,9 @@
   "handle": "JARVIT",
   "description": "JARVIT SRL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.17.32.0/24"
+    ],
     "ipv6": []
   }
 }

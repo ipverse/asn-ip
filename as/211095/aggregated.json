@@ -1,0 +1,13 @@
+{
+  "asn": 211095,
+  "handle": "MBS-USINGEN",
+  "description": "Media Broadcast Satellite GmbH",
+  "subnets": {
+    "ipv4": [
+      "145.249.98.0/24"
+    ],
+    "ipv6": [
+      "2a12:7ec0::/29"
+    ]
+  }
+}

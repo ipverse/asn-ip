@@ -4,8 +4,7 @@
   "description": "Fundao Universidade Alto Vale do Rio do Peixe",
   "subnets": {
     "ipv4": [
-      "45.238.172.0/24",
-      "45.238.174.0/23"
+      "45.238.172.0/22"
     ],
     "ipv6": [
       "2801:80:2430::/48"
