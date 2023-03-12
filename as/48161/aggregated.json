@@ -4,6 +4,7 @@
   "description": "NEXTGEN COMMUNICATIONS SRL",
   "subnets": {
     "ipv4": [
+      "31.14.27.0/24",
       "46.214.0.0/17",
       "46.214.128.0/18",
       "46.214.192.0/19",

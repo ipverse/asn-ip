@@ -3,7 +3,9 @@
   "handle": "KMAPL-AP",
   "description": "KIA MOTORS AUSTRALIA PTY LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.155.55.0/24"
+    ],
     "ipv6": []
   }
 }

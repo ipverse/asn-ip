@@ -3,7 +3,14 @@
   "handle": "MARINTER-TELECOM",
   "description": "Marinter Telecom Ltda.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "177.93.138.0/23",
+      "177.93.142.0/24",
+      "187.87.16.0/20",
+      "189.84.80.0/20"
+    ],
+    "ipv6": [
+      "2804:c8::/32"
+    ]
   }
 }

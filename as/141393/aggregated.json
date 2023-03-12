@@ -1,9 +1,11 @@
 {
   "asn": 141393,
-  "handle": "RESERVED",
-  "description": "APNIC ASN block",
+  "handle": "ROSHNI-AP",
+  "description": "Roshni Broadband Network",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.84.58.0/23"
+    ],
     "ipv6": []
   }
 }

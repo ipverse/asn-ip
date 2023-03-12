@@ -4,10 +4,9 @@
   "description": "Beca Corporate Holdings Limited",
   "subnets": {
     "ipv4": [
-      "202.27.124.0/22"
+      "202.27.124.0/23",
+      "202.27.127.0/24"
     ],
-    "ipv6": [
-      "2402:3580:9011::/48"
-    ]
+    "ipv6": []
   }
 }
