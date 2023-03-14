@@ -3,11 +3,7 @@
   "handle": "MAXIMELAVIEILLE",
   "description": "Maxime LAVIEILLE",
   "subnets": {
-    "ipv4": [
-      "45.135.251.0/24"
-    ],
-    "ipv6": [
-      "2a12:dd47:5d00::/40"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

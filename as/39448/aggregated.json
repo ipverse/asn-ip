@@ -1,0 +1,11 @@
+{
+  "asn": 39448,
+  "handle": "MYNET-CLOUDSERVICES",
+  "description": "MYNET S.R.L.",
+  "subnets": {
+    "ipv4": [
+      "178.238.50.0/24"
+    ],
+    "ipv6": []
+  }
+}

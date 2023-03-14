@@ -1,0 +1,11 @@
+{
+  "asn": 204907,
+  "handle": "AIR-BANK",
+  "description": "Air Bank a.s.",
+  "subnets": {
+    "ipv4": [
+      "185.33.158.0/24"
+    ],
+    "ipv6": []
+  }
+}

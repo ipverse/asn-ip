@@ -1,9 +1,11 @@
 {
   "asn": 49072,
-  "handle": "SAMIR-JAFFERALI",
-  "description": "Samir Jafferali",
+  "handle": "NOVATECH-BG",
+  "description": "Novatech EOOD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "77.246.210.0/24"
+    ],
     "ipv6": []
   }
 }

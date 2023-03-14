@@ -3,7 +3,9 @@
   "handle": "OHZ",
   "description": "Oihalitz Fernandez Gil ruiz",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "147.78.120.0/24"
+    ],
     "ipv6": [
       "2a06:a005:2e70::/44"
     ]

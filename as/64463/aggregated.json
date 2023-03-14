@@ -1,0 +1,11 @@
+{
+  "asn": 64463,
+  "handle": "TISMI",
+  "description": "Tismi BV",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a0b:5800::/32"
+    ]
+  }
+}

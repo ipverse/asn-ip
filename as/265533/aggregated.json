@@ -4,10 +4,9 @@
   "description": "Dimex Capital SA de CV SOFOM ENR",
   "subnets": {
     "ipv4": [
-      "192.141.44.0/22"
+      "192.141.45.0/24",
+      "192.141.47.0/24"
     ],
-    "ipv6": [
-      "2801:c4:13::/48"
-    ]
+    "ipv6": []
   }
 }

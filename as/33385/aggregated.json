@@ -3,11 +3,7 @@
   "handle": "MEPEEPS",
   "description": "Mepeeps Inc",
   "subnets": {
-    "ipv4": [
-      "23.183.16.0/24"
-    ],
-    "ipv6": [
-      "2602:fc60::/40"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

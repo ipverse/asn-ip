@@ -1,0 +1,11 @@
+{
+  "asn": 200136,
+  "handle": "LIBRAHOST",
+  "description": "LibraHost",
+  "subnets": {
+    "ipv4": [
+      "163.5.143.0/24"
+    ],
+    "ipv6": []
+  }
+}

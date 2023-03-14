@@ -3,7 +3,12 @@
   "handle": "IPROYAL",
   "description": "IPRoyal Services FZE LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "89.44.207.0/24",
+      "103.205.24.0/24",
+      "185.236.61.0/24",
+      "193.42.53.0/24"
+    ],
     "ipv6": []
   }
 }
