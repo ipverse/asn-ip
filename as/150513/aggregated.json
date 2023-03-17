@@ -1,0 +1,12 @@
+{
+  "asn": 150513,
+  "handle": "IDNIC-MBIZ-ID",
+  "description": "PT Brilliant Ecommerce Berjaya",
+  "subnets": {
+    "ipv4": [
+      "103.139.207.0/24",
+      "103.195.28.0/24"
+    ],
+    "ipv6": []
+  }
+}

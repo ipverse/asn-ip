@@ -1,0 +1,11 @@
+{
+  "asn": 131101,
+  "handle": "BNKSYS",
+  "description": "BNK SYSTEM",
+  "subnets": {
+    "ipv4": [
+      "221.164.9.0/24"
+    ],
+    "ipv6": []
+  }
+}

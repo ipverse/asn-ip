@@ -4,7 +4,7 @@
   "description": "India International Bullion Exchange Ifsc Ltd",
   "subnets": {
     "ipv4": [
-      "103.76.192.0/24"
+      "103.76.192.0/23"
     ],
     "ipv6": []
   }

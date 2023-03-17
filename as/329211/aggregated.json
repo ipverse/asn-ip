@@ -1,0 +1,13 @@
+{
+  "asn": 329211,
+  "handle": "NOVIA-EAST-AFRICA",
+  "description": "Novia East Africa Ltd",
+  "subnets": {
+    "ipv4": [
+      "102.212.236.0/22"
+    ],
+    "ipv6": [
+      "2c0f:3980::/32"
+    ]
+  }
+}

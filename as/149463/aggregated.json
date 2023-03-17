@@ -1,0 +1,11 @@
+{
+  "asn": 149463,
+  "handle": "CHINANET-GANSU-JINCHANG-5G-MAN-NETWORK",
+  "description": "China Telecom",
+  "subnets": {
+    "ipv4": [
+      "118.181.132.0/24"
+    ],
+    "ipv6": []
+  }
+}

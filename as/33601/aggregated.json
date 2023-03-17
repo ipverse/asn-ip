@@ -1,0 +1,11 @@
+{
+  "asn": 33601,
+  "handle": "OUTREACHBROADBAND",
+  "description": "Outreach Broadband, Inc.",
+  "subnets": {
+    "ipv4": [
+      "104.234.9.0/24"
+    ],
+    "ipv6": []
+  }
+}

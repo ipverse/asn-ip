@@ -3,7 +3,9 @@
   "handle": "BENIN-IX",
   "description": "ISOCEL SA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "196.49.8.0/24"
+    ],
     "ipv6": []
   }
 }

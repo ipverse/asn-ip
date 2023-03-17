@@ -3,7 +3,9 @@
   "handle": "MAHABANK",
   "description": "Bank Of Maharashtra",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.91.50.0/24"
+    ],
     "ipv6": []
   }
 }

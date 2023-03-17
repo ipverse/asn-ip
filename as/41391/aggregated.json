@@ -4,6 +4,8 @@
   "description": "Clusters GmbH",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a00:1418:f::/48"
+    ]
   }
 }

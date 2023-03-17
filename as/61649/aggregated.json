@@ -4,6 +4,7 @@
   "description": "CONECT TELECOMUNICACOES COMUNICACOES E MULTIMIDIA",
   "subnets": {
     "ipv4": [
+      "45.6.232.0/22",
       "131.100.188.0/22",
       "167.249.148.0/22",
       "170.238.60.0/22"

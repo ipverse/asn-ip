@@ -1,0 +1,11 @@
+{
+  "asn": 26686,
+  "handle": "DATACENTER-DFW1",
+  "description": "PowerHouse",
+  "subnets": {
+    "ipv4": [
+      "38.96.240.0/24"
+    ],
+    "ipv6": []
+  }
+}

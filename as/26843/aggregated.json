@@ -4,8 +4,6 @@
   "description": "UICI Student Insurance Division",
   "subnets": {
     "ipv4": [
-      "45.160.160.0/23",
-      "45.160.162.0/24",
       "63.97.167.0/24",
       "65.210.198.0/24"
     ],

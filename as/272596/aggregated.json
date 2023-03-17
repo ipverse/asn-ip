@@ -1,0 +1,12 @@
+{
+  "asn": 272596,
+  "handle": "G5-PROVEDORES",
+  "description": "G5 provedores",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2804:85b8::/34",
+      "2804:85b8:c000::/34"
+    ]
+  }
+}

@@ -3,7 +3,9 @@
   "handle": "SP-US-EAST1",
   "description": "Samaritan\u0027s Purse",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "216.39.244.0/22"
+    ],
     "ipv6": []
   }
 }
