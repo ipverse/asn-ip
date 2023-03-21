@@ -3,7 +3,9 @@
   "handle": "HYLNETWORK",
   "description": "HyLife LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "198.169.11.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,10 +3,7 @@
   "handle": "TRCOFMD",
   "description": "Transplant Resource Center of Maryland, Inc.",
   "subnets": {
-    "ipv4": [
-      "192.67.2.0/24",
-      "209.60.239.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

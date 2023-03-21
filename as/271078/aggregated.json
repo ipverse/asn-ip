@@ -4,7 +4,8 @@
   "description": "VEM Tecnologia em Informtica Ltda",
   "subnets": {
     "ipv4": [
-      "45.6.244.0/22"
+      "45.6.244.0/23",
+      "45.6.247.0/24"
     ],
     "ipv6": [
       "2804:75ec::/32"

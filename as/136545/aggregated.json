@@ -3,10 +3,7 @@
   "handle": "BLUENET",
   "description": "KLAYER LLC",
   "subnets": {
-    "ipv4": [
-      "59.153.60.0/22",
-      "148.178.0.0/17"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

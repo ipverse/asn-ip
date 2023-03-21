@@ -1,0 +1,12 @@
+{
+  "asn": 59534,
+  "handle": "NAVIGATOR-MUROM",
+  "description": "Navigator Ltd",
+  "subnets": {
+    "ipv4": [
+      "91.242.213.0/24",
+      "176.53.148.0/22"
+    ],
+    "ipv6": []
+  }
+}

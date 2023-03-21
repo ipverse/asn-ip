@@ -1,0 +1,11 @@
+{
+  "asn": 149465,
+  "handle": "CHINANET-GANSU-WUWEI-5G-MAN-NETWORK",
+  "description": "China Telecom",
+  "subnets": {
+    "ipv4": [
+      "118.181.130.0/24"
+    ],
+    "ipv6": []
+  }
+}

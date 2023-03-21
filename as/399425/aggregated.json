@@ -3,7 +3,9 @@
   "handle": "CONSUMERS-CREDIT-UNION",
   "description": "Consumers Credit Union",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "66.186.196.0/24"
+    ],
     "ipv6": []
   }
 }

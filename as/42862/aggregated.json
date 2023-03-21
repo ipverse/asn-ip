@@ -4,6 +4,7 @@
   "description": "OJSC Aeroport Koltsovo",
   "subnets": {
     "ipv4": [
+      "31.41.242.0/24",
       "87.229.130.0/24"
     ],
     "ipv6": []

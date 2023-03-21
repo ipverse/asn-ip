@@ -3,7 +3,9 @@
   "handle": "FAIRNETZ",
   "description": "FairNetz GmbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "77.73.110.0/24"
+    ],
     "ipv6": [
       "2a09:a540::/29"
     ]
