@@ -3,7 +3,9 @@
   "handle": "NAGARRO",
   "description": "NAGARRO IQUEST TECHNOLOGIES SRL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.117.242.0/23"
+    ],
     "ipv6": []
   }
 }

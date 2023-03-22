@@ -4,8 +4,10 @@
   "description": "Ancora Telecom",
   "subnets": {
     "ipv4": [
-      "177.37.46.0/24"
+      "177.37.44.0/22"
     ],
-    "ipv6": []
+    "ipv6": [
+      "2804:6cfc::/32"
+    ]
   }
 }

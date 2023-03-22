@@ -3,9 +3,7 @@
   "handle": "HOOKM",
   "description": "Buc Mobile Inc",
   "subnets": {
-    "ipv4": [
-      "192.70.214.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

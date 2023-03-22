@@ -3,9 +3,7 @@
   "handle": "FYBERNET-TELEINFORMATICA",
   "description": "Fybernet Teleinformatica Ltda",
   "subnets": {
-    "ipv4": [
-      "177.52.224.0/21"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

@@ -3,11 +3,7 @@
   "handle": "SUL-CONECT-TELECOM-EIRELI",
   "description": "SUL CONECT TELECOM EIRELI",
   "subnets": {
-    "ipv4": [
-      "45.238.128.0/22"
-    ],
-    "ipv6": [
-      "2804:4f6c::/32"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

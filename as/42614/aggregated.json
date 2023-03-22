@@ -3,7 +3,9 @@
   "handle": "RADIO-NET",
   "description": "RadioNet SRL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "89.43.200.0/23"
+    ],
     "ipv6": []
   }
 }

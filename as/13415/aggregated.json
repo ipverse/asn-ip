@@ -4,6 +4,7 @@
   "description": "FirstDigital Communications, LLC",
   "subnets": {
     "ipv4": [
+      "38.41.124.0/22",
       "66.60.96.0/19",
       "66.85.16.0/22",
       "67.206.160.0/20",

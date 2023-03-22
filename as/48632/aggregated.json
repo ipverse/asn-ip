@@ -3,7 +3,9 @@
   "handle": "BTS-HOLDINGS-PLC",
   "description": "BTS HOLDINGS PLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.209.217.0/24"
+    ],
     "ipv6": []
   }
 }

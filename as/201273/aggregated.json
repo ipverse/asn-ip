@@ -3,7 +3,9 @@
   "handle": "CUBE2",
   "description": "cubequadrat OU",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.161.249.0/24"
+    ],
     "ipv6": []
   }
 }

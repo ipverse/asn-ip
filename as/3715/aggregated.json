@@ -4,7 +4,8 @@
   "description": "The Boeing Company",
   "subnets": {
     "ipv4": [
-      "192.76.229.0/24"
+      "192.76.229.0/24",
+      "192.76.230.0/24"
     ],
     "ipv6": []
   }

@@ -3,9 +3,7 @@
   "handle": "IMPART",
   "description": "Cloud Impart, Ltd.",
   "subnets": {
-    "ipv4": [
-      "23.149.120.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

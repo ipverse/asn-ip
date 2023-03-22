@@ -4,7 +4,8 @@
   "description": "SEVEN NETWORK TELECOMUNICACOES LTDA",
   "subnets": {
     "ipv4": [
-      "45.162.64.0/22"
+      "45.162.64.0/22",
+      "45.187.152.0/23"
     ],
     "ipv6": [
       "2804:5394::/32"

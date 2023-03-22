@@ -1,0 +1,11 @@
+{
+  "asn": 273710,
+  "handle": "HAPPYNET",
+  "description": "Happynet LTDA",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2804:8b14::/32"
+    ]
+  }
+}
