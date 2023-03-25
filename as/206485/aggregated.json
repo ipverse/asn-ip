@@ -1,9 +1,11 @@
 {
   "asn": 206485,
-  "handle": "UGB",
-  "description": "UGB Hosting OU",
+  "handle": "SONICASN",
+  "description": "SONIC INC SAL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.129.136.0/22"
+    ],
     "ipv6": []
   }
 }

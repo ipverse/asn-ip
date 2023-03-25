@@ -1,0 +1,13 @@
+{
+  "asn": 150834,
+  "handle": "IDATA-VN",
+  "description": "IDATA TECHNOLOGY SOLUTIONS COMPANY LIMITED",
+  "subnets": {
+    "ipv4": [
+      "103.118.28.0/23"
+    ],
+    "ipv6": [
+      "2400:eea0::/48"
+    ]
+  }
+}

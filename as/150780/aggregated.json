@@ -1,0 +1,11 @@
+{
+  "asn": 150780,
+  "handle": "KUMARIBANKLIMITED-AP",
+  "description": "Kumari Bank Limited",
+  "subnets": {
+    "ipv4": [
+      "103.93.22.0/23"
+    ],
+    "ipv6": []
+  }
+}

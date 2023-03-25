@@ -3,12 +3,7 @@
   "handle": "INIC-IN",
   "description": "Inic Communications Pvt. Ltd.",
   "subnets": {
-    "ipv4": [
-      "103.83.248.0/22",
-      "103.217.88.0/22"
-    ],
-    "ipv6": [
-      "2001:df2:1fc0::/48"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

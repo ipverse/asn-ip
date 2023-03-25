@@ -1,0 +1,11 @@
+{
+  "asn": 149599,
+  "handle": "BTNPL3013-IN",
+  "description": "Belltel Network Pvt Ltd.",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2400:84e0::/32"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asn": 273713,
+  "handle": "WEB-LAN-PROVEDOR",
+  "description": "Web Lan Provedor de Internet LTDA",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2804:8b20::/32"
+    ]
+  }
+}

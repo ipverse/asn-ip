@@ -1,9 +1,11 @@
 {
   "asn": 210907,
-  "handle": "PEACEWEB",
-  "description": "Delta IP B.V.",
+  "handle": "STEADCLOUD",
+  "description": "Steadcloud B.V.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "23.174.80.0/24"
+    ],
     "ipv6": []
   }
 }

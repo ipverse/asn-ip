@@ -1,0 +1,12 @@
+{
+  "asn": 199177,
+  "handle": "SSMIDGE-1",
+  "description": "Tanyu Trifonov",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a0e:b107:b10::/48",
+      "2a13:c007:8300::/40"
+    ]
+  }
+}
