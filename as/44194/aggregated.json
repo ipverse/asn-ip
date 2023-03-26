@@ -4,7 +4,8 @@
   "description": "Foerderverein Freie Netzwerke e.V.",
   "subnets": {
     "ipv4": [
-      "77.87.48.0/22"
+      "77.87.49.0/24",
+      "77.87.50.0/23"
     ],
     "ipv6": [
       "2001:bf7::/32"

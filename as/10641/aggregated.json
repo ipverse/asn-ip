@@ -3,9 +3,7 @@
   "handle": "TICKETMASTER",
   "description": "TicketMaster Corp.",
   "subnets": {
-    "ipv4": [
-      "142.0.113.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

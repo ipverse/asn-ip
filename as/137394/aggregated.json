@@ -3,7 +3,12 @@
   "handle": "DRU-AP",
   "description": "Dhonburi Rajabhat University",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "103.107.70.0/24",
+      "202.28.54.0/24"
+    ],
+    "ipv6": [
+      "2001:df3:c700::/48"
+    ]
   }
 }

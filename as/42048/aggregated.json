@@ -3,7 +3,9 @@
   "handle": "SFU",
   "description": "Siberian Federal University",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.218.136.0/22"
+    ],
     "ipv6": []
   }
 }

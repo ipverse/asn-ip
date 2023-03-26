@@ -3,7 +3,9 @@
   "handle": "PGNET",
   "description": "Kancelaria Prezesa Rady Ministrow",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.32.49.0/24"
+    ],
     "ipv6": []
   }
 }

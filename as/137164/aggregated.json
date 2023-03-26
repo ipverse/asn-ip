@@ -4,7 +4,8 @@
   "description": "Rudra Technosurf Private Limited",
   "subnets": {
     "ipv4": [
-      "103.112.216.0/22"
+      "103.112.216.0/24",
+      "103.112.218.0/23"
     ],
     "ipv6": []
   }

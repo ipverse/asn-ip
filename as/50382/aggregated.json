@@ -3,7 +3,9 @@
   "handle": "GES",
   "description": "MUP GorElectroSvjaz, Novosibirsk.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.232.96.0/23"
+    ],
     "ipv6": []
   }
 }

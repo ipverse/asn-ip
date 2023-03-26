@@ -3,7 +3,9 @@
   "handle": "ULTRANET",
   "description": "ULTRANET LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.141.107.0/24"
+    ],
     "ipv6": [
       "2804:8750::/32"
     ]
