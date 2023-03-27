@@ -4,9 +4,6 @@
   "description": "The Storck Foundation, A.s.b.l.",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2a06:a005:e30::/44",
-      "2a06:a005:2560::/44"
-    ]
+    "ipv6": []
   }
 }
