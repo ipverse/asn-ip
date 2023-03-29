@@ -1,0 +1,11 @@
+{
+  "asn": 200220,
+  "handle": "SERVINGA-ES",
+  "description": "servinga GmbH",
+  "subnets": {
+    "ipv4": [
+      "79.132.135.0/24"
+    ],
+    "ipv6": []
+  }
+}

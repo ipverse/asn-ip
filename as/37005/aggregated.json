@@ -4,6 +4,7 @@
   "description": "ACCESS BANK PLC",
   "subnets": {
     "ipv4": [
+      "102.212.229.0/24",
       "196.22.6.0/24"
     ],
     "ipv6": []

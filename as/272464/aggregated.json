@@ -1,0 +1,11 @@
+{
+  "asn": 272464,
+  "handle": "I-7-PROVEDOR-INTERNET",
+  "description": "i 7 Provedor de internet LTDA",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2804:8198::/32"
+    ]
+  }
+}

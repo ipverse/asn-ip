@@ -3,7 +3,9 @@
   "handle": "MAGISTRALY-RU",
   "description": "PJSC Vimpelcom",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "79.140.64.0/20"
+    ],
     "ipv6": []
   }
 }

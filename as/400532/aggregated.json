@@ -1,0 +1,11 @@
+{
+  "asn": 400532,
+  "handle": "FFTECH01",
+  "description": "Fairfield Technology",
+  "subnets": {
+    "ipv4": [
+      "206.209.107.0/24"
+    ],
+    "ipv6": []
+  }
+}

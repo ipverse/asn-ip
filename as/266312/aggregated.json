@@ -4,7 +4,8 @@
   "description": "NaveNet servicos de internet ltda",
   "subnets": {
     "ipv4": [
-      "170.238.56.0/22"
+      "170.238.56.0/22",
+      "181.224.52.0/22"
     ],
     "ipv6": [
       "2804:35e0::/36",

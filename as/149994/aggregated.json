@@ -4,6 +4,7 @@
   "description": "Rego Communications Ltd",
   "subnets": {
     "ipv4": [
+      "103.112.207.0/24",
       "103.151.248.0/24",
       "103.190.82.0/23"
     ],

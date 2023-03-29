@@ -1,0 +1,12 @@
+{
+  "asn": 63777,
+  "handle": "STARCLUSTER",
+  "description": "National Institutes of Natural Sciences National Astronomical Observatory of JAPAN",
+  "subnets": {
+    "ipv4": [
+      "133.40.7.0/24",
+      "133.40.108.0/24"
+    ],
+    "ipv6": []
+  }
+}

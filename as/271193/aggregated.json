@@ -4,7 +4,8 @@
   "description": "Meganet Telecomumicacoes Ltda",
   "subnets": {
     "ipv4": [
-      "179.49.144.0/23"
+      "179.49.144.0/23",
+      "179.49.146.0/24"
     ],
     "ipv6": [
       "2804:77b0::/32"

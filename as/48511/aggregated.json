@@ -3,7 +3,9 @@
   "handle": "SECTOR-TELECOM",
   "description": "Sector Telecom Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "95.46.196.0/24"
+    ],
     "ipv6": []
   }
 }

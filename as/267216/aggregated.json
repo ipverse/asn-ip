@@ -3,7 +3,9 @@
   "handle": "DTN-TELECOM",
   "description": "DTN TELECOM",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.231.174.0/23"
+    ],
     "ipv6": []
   }
 }

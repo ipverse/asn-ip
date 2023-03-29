@@ -3,7 +3,10 @@
   "handle": "ROBERVAL-ANTONIO-ROSSI",
   "description": "ROBERVAL ANTONIO ROSSI ME",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "168.205.40.0/22",
+      "170.239.8.0/22"
+    ],
     "ipv6": []
   }
 }

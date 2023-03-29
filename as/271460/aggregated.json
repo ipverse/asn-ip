@@ -3,11 +3,7 @@
   "handle": "VIA-WIRELESS-INTERNET",
   "description": "VIA WIRELESS INTERNET LTDA",
   "subnets": {
-    "ipv4": [
-      "181.224.52.0/22"
-    ],
-    "ipv6": [
-      "2804:7be0::/32"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }
