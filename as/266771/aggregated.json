@@ -4,7 +4,8 @@
   "description": "MAKRONET CONSULTING TECNOLOGIA E INFORMATICA LIMITADA",
   "subnets": {
     "ipv4": [
-      "45.232.176.0/22"
+      "45.232.176.0/22",
+      "160.19.202.0/23"
     ],
     "ipv6": []
   }

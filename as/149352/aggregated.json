@@ -4,7 +4,7 @@
   "description": "PT Bank OCBC NISP",
   "subnets": {
     "ipv4": [
-      "103.174.14.0/24"
+      "103.174.14.0/23"
     ],
     "ipv6": [
       "2001:df0:a40::/48"

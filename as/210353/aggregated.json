@@ -4,7 +4,8 @@
   "description": "PJSC NATIONAL POWER COMPANY UKRENERGO (NPC UKRENERGO)",
   "subnets": {
     "ipv4": [
-      "195.114.130.0/24"
+      "195.114.130.0/24",
+      "195.123.120.0/23"
     ],
     "ipv6": []
   }

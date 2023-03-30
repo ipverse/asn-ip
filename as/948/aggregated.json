@@ -3,7 +3,9 @@
   "handle": "JANTECHCS",
   "description": "JanTech Computer Services",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.163.29.0/24"
+    ],
     "ipv6": []
   }
 }

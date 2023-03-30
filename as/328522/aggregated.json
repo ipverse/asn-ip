@@ -3,7 +3,11 @@
   "handle": "CYNOX-IT",
   "description": "Cynox-IT Limited",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "102.64.6.0/24"
+    ],
+    "ipv6": [
+      "2001:43f8:13c0::/48"
+    ]
   }
 }

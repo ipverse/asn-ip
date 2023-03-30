@@ -3,7 +3,9 @@
   "handle": "NAIB",
   "description": "National Aquarium in Baltimore",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "208.184.211.0/24"
+    ],
     "ipv6": []
   }
 }

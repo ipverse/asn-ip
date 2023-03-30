@@ -1,0 +1,11 @@
+{
+  "asn": 273679,
+  "handle": "PARA-MINISTERIO-PUBLICO",
+  "description": "PARA MINISTERIO PUBLICO",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2801:80:4000::/40"
+    ]
+  }
+}

@@ -3,9 +3,7 @@
   "handle": "EZNET",
   "description": "EZNet LIMITED",
   "subnets": {
-    "ipv4": [
-      "45.154.252.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

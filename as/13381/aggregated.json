@@ -3,7 +3,9 @@
   "handle": "CMET-SACI",
   "description": "CMET SACI",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "200.112.224.0/19"
+    ],
     "ipv6": []
   }
 }

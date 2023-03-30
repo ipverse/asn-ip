@@ -3,10 +3,7 @@
   "handle": "HOSTKEY-FI",
   "description": "HOSTKEY B.V.",
   "subnets": {
-    "ipv4": [
-      "212.237.216.0/22",
-      "213.193.212.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

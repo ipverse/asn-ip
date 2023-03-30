@@ -1,0 +1,11 @@
+{
+  "asn": 329091,
+  "handle": "EXPERIAN-JHB",
+  "description": "Experian South Africa (Proprietary) Limited",
+  "subnets": {
+    "ipv4": [
+      "102.215.48.0/24"
+    ],
+    "ipv6": []
+  }
+}

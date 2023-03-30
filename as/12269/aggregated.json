@@ -3,10 +3,7 @@
   "handle": "GROUPON-PROD1",
   "description": "Groupon, Inc.",
   "subnets": {
-    "ipv4": [
-      "50.115.208.0/22",
-      "199.91.52.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

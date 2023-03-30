@@ -4,6 +4,7 @@
   "description": "efero GmbH",
   "subnets": {
     "ipv4": [
+      "45.136.220.0/24",
       "45.136.222.0/24"
     ],
     "ipv6": [

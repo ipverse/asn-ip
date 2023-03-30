@@ -3,9 +3,7 @@
   "handle": "ENABLE-1",
   "description": "Energy Transfer LP",
   "subnets": {
-    "ipv4": [
-      "104.255.123.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

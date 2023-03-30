@@ -3,7 +3,10 @@
   "handle": "MBNET",
   "description": "Michael Bussmann",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.22.253.0/24",
+      "195.74.40.0/22"
+    ],
     "ipv6": []
   }
 }

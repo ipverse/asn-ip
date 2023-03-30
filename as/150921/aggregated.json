@@ -1,0 +1,11 @@
+{
+  "asn": 150921,
+  "handle": "IDNIC-SATUID-ID",
+  "description": "PT Satu Akses Indonesia",
+  "subnets": {
+    "ipv4": [
+      "103.196.15.0/24"
+    ],
+    "ipv6": []
+  }
+}

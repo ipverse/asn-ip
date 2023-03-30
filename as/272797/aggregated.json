@@ -3,7 +3,11 @@
   "handle": "DSI-DOMINICANA",
   "description": "DSI DOMINICANA S.R.L",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "181.232.191.0/24"
+    ],
+    "ipv6": [
+      "2803:c890::/32"
+    ]
   }
 }
