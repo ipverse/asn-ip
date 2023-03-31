@@ -4,8 +4,7 @@
   "description": "PROREDES INTERNET SERVICOS DE INFORMATICA LTDA - M",
   "subnets": {
     "ipv4": [
-      "45.238.44.0/22",
-      "177.46.3.0/24"
+      "45.238.44.0/22"
     ],
     "ipv6": [
       "2804:4f38::/32"

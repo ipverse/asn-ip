@@ -1,10 +1,10 @@
 {
   "asn": 396937,
-  "handle": "FABRA",
+  "handle": "BEECREEK",
   "description": "Bee Creek Communications, Inc.",
   "subnets": {
     "ipv4": [
-      "158.51.248.0/24"
+      "158.51.248.0/23"
     ],
     "ipv6": []
   }

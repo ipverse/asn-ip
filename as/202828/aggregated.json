@@ -3,9 +3,7 @@
   "handle": "HHY",
   "description": "Ho Ho Yeung",
   "subnets": {
-    "ipv4": [
-      "206.53.57.0/24"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2602:fafd:f12::/48",
       "2a05:dfc7:2100::/40",

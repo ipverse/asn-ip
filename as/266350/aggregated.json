@@ -4,8 +4,7 @@
   "description": "KATER FIBRA TELECOMUNICACOES",
   "subnets": {
     "ipv4": [
-      "170.239.72.0/22",
-      "186.216.32.0/24"
+      "170.239.72.0/22"
     ],
     "ipv6": [
       "2804:3678::/32"

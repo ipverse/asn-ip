@@ -4,6 +4,7 @@
   "description": "Akamai Technologies, Inc.",
   "subnets": {
     "ipv4": [
+      "2.17.108.0/22",
       "2.17.192.0/22",
       "2.19.4.0/22",
       "2.21.175.0/24",

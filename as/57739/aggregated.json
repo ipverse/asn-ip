@@ -3,10 +3,7 @@
   "handle": "DOGADO-AMS",
   "description": "dogado GmbH",
   "subnets": {
-    "ipv4": [
-      "93.90.183.0/24",
-      "178.250.169.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

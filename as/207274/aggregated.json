@@ -3,9 +3,7 @@
   "handle": "BINAX",
   "description": "BINAX sp z.o.o.",
   "subnets": {
-    "ipv4": [
-      "185.225.205.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

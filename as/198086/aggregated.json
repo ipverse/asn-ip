@@ -3,7 +3,9 @@
   "handle": "NETATELYE",
   "description": "Net Atelye Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "31.44.249.0/24"
+    ],
     "ipv6": []
   }
 }

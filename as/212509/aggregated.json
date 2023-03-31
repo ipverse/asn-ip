@@ -3,7 +3,10 @@
   "handle": "ON-ISP",
   "description": "ONENEO GmbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "94.154.136.0/24",
+      "193.38.32.0/24"
+    ],
     "ipv6": []
   }
 }

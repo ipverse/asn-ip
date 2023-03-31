@@ -1,0 +1,11 @@
+{
+  "asn": 36561,
+  "handle": "YOUTUBE",
+  "description": "Google LLC",
+  "subnets": {
+    "ipv4": [
+      "165.85.150.0/24"
+    ],
+    "ipv6": []
+  }
+}

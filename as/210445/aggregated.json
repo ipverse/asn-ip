@@ -3,7 +3,9 @@
   "handle": "CRENET",
   "description": "CHEN-YI WANG",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "23.150.56.0/24"
+    ],
     "ipv6": [
       "2400:70e0:bac::/48",
       "2a06:a005:f60::/44",

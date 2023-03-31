@@ -3,7 +3,9 @@
   "handle": "LAURENT-PASCAL",
   "description": "Pascal LAURENT",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.137.203.0/24"
+    ],
     "ipv6": []
   }
 }

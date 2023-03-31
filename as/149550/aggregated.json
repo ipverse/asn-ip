@@ -3,7 +3,11 @@
   "handle": "MAZCRET-IN",
   "description": "MAZENTA CREATIONS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.109.244.0/24",
+      "103.183.232.0/24",
+      "103.184.186.0/23"
+    ],
     "ipv6": []
   }
 }
