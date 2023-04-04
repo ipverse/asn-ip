@@ -3,7 +3,11 @@
   "handle": "FUJITSU",
   "description": "Fujitsu Telecommunications Europe Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.65.220.0/24",
+      "192.131.79.0/24",
+      "192.150.140.0/24"
+    ],
     "ipv6": []
   }
 }

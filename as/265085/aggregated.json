@@ -4,7 +4,7 @@
   "description": "Linfortel Internet",
   "subnets": {
     "ipv4": [
-      "170.233.24.0/22"
+      "170.233.24.0/23"
     ],
     "ipv6": [
       "2804:3290::/32"

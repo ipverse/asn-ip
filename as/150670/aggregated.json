@@ -3,9 +3,7 @@
   "handle": "SOLORDP-CLIENT-AP",
   "description": "SoloRDP",
   "subnets": {
-    "ipv4": [
-      "81.22.135.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

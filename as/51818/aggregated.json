@@ -3,7 +3,9 @@
   "handle": "GPC-RS",
   "description": "Moe BGP Co.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "149.112.53.0/24"
+    ],
     "ipv6": []
   }
 }

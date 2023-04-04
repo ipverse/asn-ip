@@ -3,7 +3,9 @@
   "handle": "BPC-164",
   "description": "Boston PainCare Center",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "65.206.6.0/24"
+    ],
     "ipv6": []
   }
 }

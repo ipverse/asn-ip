@@ -3,7 +3,9 @@
   "handle": "NWML-2",
   "description": "New WT Miami, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "198.161.132.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,11 @@
   "handle": "GLORYMEGA-IN",
   "description": "GLORY MEGAHERTZ",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.190.174.0/23",
+      "103.191.232.0/23",
+      "103.191.238.0/23"
+    ],
     "ipv6": []
   }
 }

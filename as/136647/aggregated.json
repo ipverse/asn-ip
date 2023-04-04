@@ -3,7 +3,9 @@
   "handle": "AROGAYA-IN",
   "description": "Alpha Arogaya India Private Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.100.168.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "AIRNET1-IN",
   "description": "AIRNET WIFI",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.52.32.0/24"
+    ],
     "ipv6": []
   }
 }

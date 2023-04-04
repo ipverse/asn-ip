@@ -3,7 +3,10 @@
   "handle": "SINGARENI-IN",
   "description": "SINGARENI HOME ENTERTAINMENT PRIVATE LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.49.124.0/23",
+      "103.51.62.0/23"
+    ],
     "ipv6": []
   }
 }
