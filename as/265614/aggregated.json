@@ -4,7 +4,8 @@
   "description": "META NETWORKS SA DE CV",
   "subnets": {
     "ipv4": [
-      "45.190.76.0/22"
+      "45.190.76.0/23",
+      "45.190.79.0/24"
     ],
     "ipv6": []
   }

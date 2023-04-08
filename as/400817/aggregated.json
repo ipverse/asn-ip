@@ -4,7 +4,8 @@
   "description": "Turnium Network Solutions Inc.",
   "subnets": {
     "ipv4": [
-      "154.3.124.0/22"
+      "154.3.124.0/24",
+      "154.3.127.0/24"
     ],
     "ipv6": [
       "2602:296:63::/48",

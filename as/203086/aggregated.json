@@ -4,7 +4,8 @@
   "description": "Firma Handlowo Uslugowa RuszelNet Lukasz Ruszel",
   "subnets": {
     "ipv4": [
-      "91.150.190.0/24"
+      "91.150.190.0/24",
+      "193.243.154.0/23"
     ],
     "ipv6": []
   }

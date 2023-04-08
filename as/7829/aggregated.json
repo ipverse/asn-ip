@@ -3,7 +3,9 @@
   "handle": "GEOLINKS",
   "description": "GeoLinks",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "174.34.70.0/24"
+    ],
     "ipv6": []
   }
 }

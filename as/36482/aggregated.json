@@ -1,0 +1,11 @@
+{
+  "asn": 36482,
+  "handle": "PLACER",
+  "description": "County of Placer",
+  "subnets": {
+    "ipv4": [
+      "199.103.51.0/24"
+    ],
+    "ipv6": []
+  }
+}

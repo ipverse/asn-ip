@@ -3,11 +3,7 @@
   "handle": "SGFNPL-IN",
   "description": "SG FIBERNET PRIVATE LIMITED",
   "subnets": {
-    "ipv4": [
-      "103.168.222.0/23"
-    ],
-    "ipv6": [
-      "2001:df6:df80::/48"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }
