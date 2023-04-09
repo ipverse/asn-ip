@@ -3,7 +3,9 @@
   "handle": "TP-PLC",
   "description": "Travis Perkins Trading Company Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.39.96.0/22"
+    ],
     "ipv6": []
   }
 }

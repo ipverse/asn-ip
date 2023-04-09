@@ -3,7 +3,9 @@
   "handle": "JELLYVISION",
   "description": "The Jellyvision Lab, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "216.80.92.0/24"
+    ],
     "ipv6": []
   }
 }

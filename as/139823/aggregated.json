@@ -3,9 +3,7 @@
   "handle": "DHRUBOTECHLIMITED-AP",
   "description": "DhruboTech Limited",
   "subnets": {
-    "ipv4": [
-      "103.145.204.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }
