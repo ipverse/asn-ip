@@ -1,0 +1,11 @@
+{
+  "asn": 151064,
+  "handle": "FICTECHNOLOGIES-AP",
+  "description": "Fic Technologies",
+  "subnets": {
+    "ipv4": [
+      "103.234.12.0/24"
+    ],
+    "ipv6": []
+  }
+}

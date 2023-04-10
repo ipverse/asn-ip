@@ -4,10 +4,8 @@
   "description": "SERGIO PEREIRA DE SOUZA - ME",
   "subnets": {
     "ipv4": [
-      "45.70.108.0/22"
+      "45.70.111.0/24"
     ],
-    "ipv6": [
-      "2804:4344::/32"
-    ]
+    "ipv6": []
   }
 }

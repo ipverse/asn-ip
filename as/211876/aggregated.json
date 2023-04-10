@@ -4,9 +4,6 @@
   "description": "fixmix Technologies Ltd",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2a05:1083:ff00::/48",
-      "2a0c:e640::/36"
-    ]
+    "ipv6": []
   }
 }

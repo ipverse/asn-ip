@@ -3,7 +3,9 @@
   "handle": "TURKBIL",
   "description": "Turkbil Teknoloji Ltd. Sti.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "64.50.167.0/24"
+    ],
     "ipv6": []
   }
 }

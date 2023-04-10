@@ -3,10 +3,7 @@
   "handle": "ACS-PUBLIC",
   "description": "Ascensus College Savings, Inc",
   "subnets": {
-    "ipv4": [
-      "192.88.18.0/23",
-      "206.19.51.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }
