@@ -4,7 +4,6 @@
   "description": "PT Mitra Solusi Telematika",
   "subnets": {
     "ipv4": [
-      "103.67.218.0/24",
       "103.225.208.0/24"
     ],
     "ipv6": []

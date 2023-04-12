@@ -4,6 +4,7 @@
   "description": "Shenzhen Pengcheng communication network Co., Ltd",
   "subnets": {
     "ipv4": [
+      "45.248.108.0/23",
       "103.191.242.0/23"
     ],
     "ipv6": []

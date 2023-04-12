@@ -4,8 +4,6 @@
   "description": "SPnetFibra Provedor Networking Ltda",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2804:835c::/32"
-    ]
+    "ipv6": []
   }
 }

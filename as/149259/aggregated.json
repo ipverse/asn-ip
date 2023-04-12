@@ -3,7 +3,10 @@
   "handle": "NIXI",
   "description": "NIXI",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.187.250.0/23",
+      "103.188.30.0/23"
+    ],
     "ipv6": []
   }
 }

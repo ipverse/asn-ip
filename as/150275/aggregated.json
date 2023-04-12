@@ -1,0 +1,11 @@
+{
+  "asn": 150275,
+  "handle": "IDNIC-SEMNETWORK-ID",
+  "description": "PT Singoedan Media Network",
+  "subnets": {
+    "ipv4": [
+      "103.18.45.0/24"
+    ],
+    "ipv6": []
+  }
+}

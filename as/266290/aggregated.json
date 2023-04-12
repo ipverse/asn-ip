@@ -4,8 +4,7 @@
   "description": "Zennet Comunicao Digital e Info Ltda",
   "subnets": {
     "ipv4": [
-      "170.79.160.0/24",
-      "170.79.162.0/23"
+      "170.79.160.0/22"
     ],
     "ipv6": [
       "2804:3580::/32"

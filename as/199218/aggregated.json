@@ -1,0 +1,11 @@
+{
+  "asn": 199218,
+  "handle": "PROTONVPN-2",
+  "description": "Proton AG",
+  "subnets": {
+    "ipv4": [
+      "104.234.212.0/24"
+    ],
+    "ipv6": []
+  }
+}

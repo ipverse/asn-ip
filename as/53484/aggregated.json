@@ -3,7 +3,9 @@
   "handle": "WL-NA",
   "description": "Williams Lea",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "104.192.180.0/22"
+    ],
     "ipv6": []
   }
 }

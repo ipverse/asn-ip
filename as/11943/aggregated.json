@@ -1,0 +1,11 @@
+{
+  "asn": 11943,
+  "handle": "NTS-LAREDO-01",
+  "description": "Vexus Fiber",
+  "subnets": {
+    "ipv4": [
+      "38.158.140.0/22"
+    ],
+    "ipv6": []
+  }
+}

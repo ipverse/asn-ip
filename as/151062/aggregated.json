@@ -1,0 +1,11 @@
+{
+  "asn": 151062,
+  "handle": "CUBE",
+  "description": "Zappie Host LLC",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2602:fc23:160::/44"
+    ]
+  }
+}
