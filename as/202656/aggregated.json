@@ -1,9 +1,13 @@
 {
   "asn": 202656,
-  "handle": "PREPROCESS",
-  "description": "Samuel Lewis",
+  "handle": "XSERVER-NL",
+  "description": "Ivanov Vitaliy Sergeevich",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "193.203.50.0/23"
+    ],
+    "ipv6": [
+      "2a13:f580:7::/48"
+    ]
   }
 }

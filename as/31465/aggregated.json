@@ -3,7 +3,9 @@
   "handle": "PSKZ-ESHDI",
   "description": "PS Internet Company LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.215.138.0/24"
+    ],
     "ipv6": []
   }
 }

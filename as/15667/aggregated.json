@@ -4,6 +4,7 @@
   "description": "IDT Corporation",
   "subnets": {
     "ipv4": [
+      "80.15.239.0/24",
       "213.166.96.0/19"
     ],
     "ipv6": []

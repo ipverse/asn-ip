@@ -1,0 +1,11 @@
+{
+  "asn": 151188,
+  "handle": "M4NIC-AP",
+  "description": "404 Network Information Co.",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2602:faa8:1::/48"
+    ]
+  }
+}

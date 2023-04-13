@@ -3,7 +3,9 @@
   "handle": "HST",
   "description": "Haosing Technology Co., Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.144.34.0/23"
+    ],
     "ipv6": []
   }
 }

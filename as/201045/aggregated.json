@@ -3,7 +3,9 @@
   "handle": "IT-IFMGROUP-GE",
   "description": "IFM Infomaster Spa",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.71.47.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,9 +3,7 @@
   "handle": "WAVCOM",
   "description": "Highline Services, LLC",
   "subnets": {
-    "ipv4": [
-      "198.98.88.0/21"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

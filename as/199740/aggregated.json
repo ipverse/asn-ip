@@ -1,0 +1,11 @@
+{
+  "asn": 199740,
+  "handle": "KOOPJESERVER",
+  "description": "Koopjeserver BV",
+  "subnets": {
+    "ipv4": [
+      "146.19.162.0/24"
+    ],
+    "ipv6": []
+  }
+}

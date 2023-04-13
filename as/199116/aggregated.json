@@ -1,0 +1,13 @@
+{
+  "asn": 199116,
+  "handle": "REZEL",
+  "description": "Association Rezel",
+  "subnets": {
+    "ipv4": [
+      "137.194.8.0/22"
+    ],
+    "ipv6": [
+      "2a09:6847::/32"
+    ]
+  }
+}

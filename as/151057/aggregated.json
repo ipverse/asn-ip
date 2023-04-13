@@ -1,0 +1,11 @@
+{
+  "asn": 151057,
+  "handle": "TORRONGO-AP",
+  "description": "Torrongo Communications",
+  "subnets": {
+    "ipv4": [
+      "103.122.206.0/23"
+    ],
+    "ipv6": []
+  }
+}

@@ -3,7 +3,9 @@
   "handle": "SOFIASAT",
   "description": "Venus REIT OOD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "83.142.16.0/21"
+    ],
     "ipv6": []
   }
 }

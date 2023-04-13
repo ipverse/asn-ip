@@ -3,9 +3,7 @@
   "handle": "OMYCRON",
   "description": "Omycron SAS",
   "subnets": {
-    "ipv4": [
-      "185.118.116.0/22"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

@@ -3,9 +3,7 @@
   "handle": "NOKIANRU",
   "description": "Nokian Renkaat Oyj",
   "subnets": {
-    "ipv4": [
-      "185.192.196.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }
