@@ -1,0 +1,11 @@
+{
+  "asn": 400028,
+  "handle": "ASBURY-UNIVERSITY-AS01",
+  "description": "Asbury University",
+  "subnets": {
+    "ipv4": [
+      "148.59.183.0/24"
+    ],
+    "ipv6": []
+  }
+}

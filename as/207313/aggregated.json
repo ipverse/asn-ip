@@ -3,7 +3,9 @@
   "handle": "UIN",
   "description": "UKRAINIAN INTERNET NETWORKS LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.216.207.0/24"
+    ],
     "ipv6": []
   }
 }

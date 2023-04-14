@@ -3,7 +3,9 @@
   "handle": "VIGLOBAL-IN",
   "description": "VI GLOBAL FIBERTEL PVT LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.124.28.0/23"
+    ],
     "ipv6": []
   }
 }

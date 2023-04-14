@@ -3,9 +3,11 @@
   "handle": "M4NIC-AP",
   "description": "404 Network Information Co.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.244.163.0/24"
+    ],
     "ipv6": [
-      "2602:faa8:1::/48"
+      "2001:df2:45c0::/48"
     ]
   }
 }

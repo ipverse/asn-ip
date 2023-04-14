@@ -3,7 +3,9 @@
   "handle": "ANPM",
   "description": "Agentia Nationala pentru Protectia Mediului",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.110.5.0/24"
+    ],
     "ipv6": []
   }
 }

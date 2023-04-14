@@ -3,9 +3,7 @@
   "handle": "NETNET-CET",
   "description": "Northeast Texas Consortium (NETnet)",
   "subnets": {
-    "ipv4": [
-      "68.69.48.0/20"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

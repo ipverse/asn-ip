@@ -1,0 +1,13 @@
+{
+  "asn": 40850,
+  "handle": "UPIX",
+  "description": "UPIX NETWORKS INTERNATIONAL LLC",
+  "subnets": {
+    "ipv4": [
+      "138.118.116.0/22",
+      "177.128.128.0/22",
+      "191.5.56.0/22"
+    ],
+    "ipv6": []
+  }
+}

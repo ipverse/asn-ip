@@ -1,9 +1,11 @@
 {
   "asn": 213293,
-  "handle": "SETIAWAN",
+  "handle": "ARIF-ID",
   "description": "Arif Setiawan",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a0a:6040:9a00::/40"
+    ]
   }
 }

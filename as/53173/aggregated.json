@@ -4,12 +4,10 @@
   "description": "SOBRALNET SERVICOS E TELECOMUNICACOES LTDA - ME",
   "subnets": {
     "ipv4": [
-      "177.44.176.0/21",
       "177.44.189.0/24",
       "186.225.80.0/20"
     ],
     "ipv6": [
-      "2804:e4c::/38",
       "2804:e4c:8000::/38"
     ]
   }

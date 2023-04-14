@@ -3,7 +3,9 @@
   "handle": "JMA-PROVEDORES-INTERNET",
   "description": "JMA Provedores de Internet Ltda",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.166.106.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,11 @@
   "handle": "MENTOS-INTERNET-SERVICE",
   "description": "MENTOS COUPLE, INC.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.221.190.0/23",
+      "176.117.64.0/22",
+      "176.117.88.0/21"
+    ],
     "ipv6": []
   }
 }

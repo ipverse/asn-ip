@@ -3,11 +3,7 @@
   "handle": "SMSELAB",
   "description": "SMS ELAB PRIVATE LIMITED",
   "subnets": {
-    "ipv4": [
-      "103.172.254.0/23"
-    ],
-    "ipv6": [
-      "2001:df7:8180::/48"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

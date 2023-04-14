@@ -3,11 +3,7 @@
   "handle": "FCP-NETWORK",
   "description": "Asiatech Data Transmission company",
   "subnets": {
-    "ipv4": [
-      "46.143.62.0/24",
-      "79.127.19.0/24",
-      "89.235.97.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

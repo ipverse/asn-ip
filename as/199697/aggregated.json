@@ -3,7 +3,9 @@
   "handle": "ITPROSTEER",
   "description": "LLC IT PROSTEER",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.37.158.0/24"
+    ],
     "ipv6": []
   }
 }

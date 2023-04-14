@@ -4,9 +4,7 @@
   "description": "Industrias John Deere Argentina S.A",
   "subnets": {
     "ipv4": [
-      "204.55.128.0/23",
-      "204.55.131.0/24",
-      "204.55.132.0/23"
+      "204.55.128.0/20"
     ],
     "ipv6": [
       "2801:118::/48"
