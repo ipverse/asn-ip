@@ -4,11 +4,8 @@
   "description": "Fixa Telecomunicaes do Brasil Ltda",
   "subnets": {
     "ipv4": [
-      "168.0.180.0/22",
-      "170.80.220.0/22"
+      "170.80.221.0/24"
     ],
-    "ipv6": [
-      "2804:2d50::/32"
-    ]
+    "ipv6": []
   }
 }

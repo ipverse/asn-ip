@@ -3,11 +3,7 @@
   "handle": "KRAKR1901",
   "description": "KRAKR Enterprises Inc",
   "subnets": {
-    "ipv4": [
-      "216.174.159.0/24"
-    ],
-    "ipv6": [
-      "2605:8040::/32"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

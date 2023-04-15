@@ -3,9 +3,7 @@
   "handle": "DIVINETWORKS",
   "description": "DiViNetworks LTD.",
   "subnets": {
-    "ipv4": [
-      "103.30.208.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

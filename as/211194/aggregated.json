@@ -4,8 +4,6 @@
   "description": "ITMG-Consulting SAS",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2001:67c:b28::/48"
-    ]
+    "ipv6": []
   }
 }

@@ -1,0 +1,11 @@
+{
+  "asn": 9301,
+  "handle": "EWN-AP",
+  "description": "Cynergic Pty Ltd",
+  "subnets": {
+    "ipv4": [
+      "203.5.127.0/24"
+    ],
+    "ipv6": []
+  }
+}

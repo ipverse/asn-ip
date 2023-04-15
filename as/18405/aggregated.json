@@ -3,10 +3,7 @@
   "handle": "SNOWREGAL-AP",
   "description": "Cynergic Pty Ltd",
   "subnets": {
-    "ipv4": [
-      "122.200.168.0/24",
-      "203.5.127.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

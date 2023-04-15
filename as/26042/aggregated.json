@@ -1,0 +1,11 @@
+{
+  "asn": 26042,
+  "handle": "FIBER-STATE-01",
+  "description": "FiberState, LLC",
+  "subnets": {
+    "ipv4": [
+      "23.145.120.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -4,7 +4,8 @@
   "description": "Virtuaalinfra OU",
   "subnets": {
     "ipv4": [
-      "85.92.119.0/24"
+      "85.92.119.0/24",
+      "194.48.211.0/24"
     ],
     "ipv6": []
   }
