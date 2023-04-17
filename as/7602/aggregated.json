@@ -4,6 +4,7 @@
   "description": "Sai gon Postel Corporation",
   "subnets": {
     "ipv4": [
+      "23.8.232.0/24",
       "103.200.60.0/22",
       "116.118.0.0/17",
       "180.93.0.0/16",

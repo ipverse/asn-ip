@@ -1,0 +1,11 @@
+{
+  "asn": 36345,
+  "handle": "PNMABQ-1",
+  "description": "Public Service Company of New Mexico",
+  "subnets": {
+    "ipv4": [
+      "192.147.68.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -3,7 +3,9 @@
   "handle": "M-MENEIS-MIRANDA-EIRELI",
   "description": "M A DE MENEIS MIRANDA EIRELI",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "186.195.244.0/23"
+    ],
     "ipv6": [
       "2804:72c4::/32"
     ]

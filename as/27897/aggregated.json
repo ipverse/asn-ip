@@ -3,7 +3,9 @@
   "handle": "SEGIC-USACH",
   "description": "SEGIC USACH LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "158.170.0.0/16"
+    ],
     "ipv6": []
   }
 }
