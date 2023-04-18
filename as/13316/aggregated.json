@@ -4,8 +4,7 @@
   "description": "SES Sistemas Electrnicos S.A.",
   "subnets": {
     "ipv4": [
-      "190.103.0.0/21",
-      "190.103.8.0/22",
+      "190.103.0.0/20",
       "200.11.112.0/21"
     ],
     "ipv6": []

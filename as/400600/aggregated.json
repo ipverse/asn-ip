@@ -1,0 +1,11 @@
+{
+  "asn": 400600,
+  "handle": "ISIT-ISP",
+  "description": "ISIT Group",
+  "subnets": {
+    "ipv4": [
+      "38.132.208.0/24"
+    ],
+    "ipv6": []
+  }
+}

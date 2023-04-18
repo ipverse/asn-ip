@@ -4,7 +4,8 @@
   "description": "LLC Mobile Television Systems",
   "subnets": {
     "ipv4": [
-      "185.39.204.0/22"
+      "46.45.49.0/24",
+      "46.45.50.0/24"
     ],
     "ipv6": []
   }

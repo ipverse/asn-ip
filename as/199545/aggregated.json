@@ -1,0 +1,11 @@
+{
+  "asn": 199545,
+  "handle": "STACKET",
+  "description": "Stacket Group ApS",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2001:67c:bec::/48"
+    ]
+  }
+}

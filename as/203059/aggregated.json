@@ -4,7 +4,8 @@
   "description": "Consorzio Energetico Val Venosta Soc. Coop.",
   "subnets": {
     "ipv4": [
-      "45.91.120.0/24"
+      "45.91.120.0/24",
+      "91.218.77.0/24"
     ],
     "ipv6": [
       "2a13:5080::/29"

@@ -3,9 +3,7 @@
   "handle": "POWERNETUK",
   "description": "Digital Space Group Limited",
   "subnets": {
-    "ipv4": [
-      "195.60.0.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

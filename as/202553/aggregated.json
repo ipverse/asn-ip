@@ -1,6 +1,6 @@
 {
   "asn": 202553,
-  "handle": "DUO-NL",
+  "handle": "ODCN-NL",
   "description": "Dienst Uitvoering Onderwijs",
   "subnets": {
     "ipv4": [
@@ -15,6 +15,7 @@
       "2a04:9a00:1001::/48",
       "2a04:9a00:1002::/47",
       "2a04:9a00:1005::/48",
+      "2a04:9a00:1007::/48",
       "2a04:9a00:100e::/48"
     ]
   }

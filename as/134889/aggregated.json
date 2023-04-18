@@ -3,9 +3,7 @@
   "handle": "INTOFFICE",
   "description": "INTERNETOFFICE PRIVATE LIMITED",
   "subnets": {
-    "ipv4": [
-      "103.171.96.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

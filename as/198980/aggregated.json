@@ -1,9 +1,11 @@
 {
   "asn": 198980,
-  "handle": "LOVELY",
-  "description": "Crate.io AT GmbH",
+  "handle": "XUVM",
+  "description": "XuVM, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "89.251.22.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "MINGO-NET-COMUNICACAO",
   "description": "MINGO NET COMUNICACAO LTDA ME",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "168.195.8.0/22"
+    ],
     "ipv6": []
   }
 }
