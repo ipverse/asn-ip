@@ -1,0 +1,13 @@
+{
+  "asn": 53939,
+  "handle": "DLR-SEATTLE",
+  "description": "Telx",
+  "subnets": {
+    "ipv4": [
+      "192.235.116.0/22"
+    ],
+    "ipv6": [
+      "2607:fb58:d300::/40"
+    ]
+  }
+}

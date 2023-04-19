@@ -4,7 +4,8 @@
   "description": "Japan Internet Exchange Co., Ltd.",
   "subnets": {
     "ipv4": [
-      "210.171.224.0/21"
+      "210.171.226.0/23",
+      "210.171.228.0/22"
     ],
     "ipv6": [
       "2400:3000::/32"

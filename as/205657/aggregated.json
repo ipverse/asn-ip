@@ -3,7 +3,9 @@
   "handle": "SPA-TELECOM",
   "description": "SPA-Telecom OOO",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "37.18.17.0/24"
+    ],
     "ipv6": []
   }
 }

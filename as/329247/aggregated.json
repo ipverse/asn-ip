@@ -1,0 +1,11 @@
+{
+  "asn": 329247,
+  "handle": "SWIFT-FIBRE",
+  "description": "Swift Fibre",
+  "subnets": {
+    "ipv4": [
+      "102.212.24.0/22"
+    ],
+    "ipv6": []
+  }
+}

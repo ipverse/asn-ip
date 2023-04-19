@@ -3,10 +3,9 @@
   "handle": "DIGIRES",
   "description": "Digital Residence B.V.",
   "subnets": {
-    "ipv4": [
-      "93.157.0.0/21",
-      "195.5.163.0/24"
-    ],
-    "ipv6": []
+    "ipv4": [],
+    "ipv6": [
+      "2001:67c:54::/48"
+    ]
   }
 }

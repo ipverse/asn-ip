@@ -1,9 +1,11 @@
 {
   "asn": 207986,
-  "handle": "MOUA",
-  "description": "THE STATE COMPANY \u0027MARKET OPERATOR\u0027",
+  "handle": "ECOM-BANK",
+  "description": "LLC ECOM BANK",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.9.211.0/24"
+    ],
     "ipv6": []
   }
 }

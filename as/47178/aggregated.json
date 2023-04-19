@@ -4,8 +4,7 @@
   "description": "Connessioni Metropolitane S.r.l.",
   "subnets": {
     "ipv4": [
-      "93.188.112.0/21",
-      "185.99.224.0/22"
+      "185.99.227.0/24"
     ],
     "ipv6": []
   }

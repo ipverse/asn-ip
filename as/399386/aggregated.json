@@ -3,7 +3,9 @@
   "handle": "LCOUNTY",
   "description": "Laramie County Government",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.88.131.0/24"
+    ],
     "ipv6": []
   }
 }

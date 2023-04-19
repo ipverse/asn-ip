@@ -3,7 +3,10 @@
   "handle": "NOROSHKIN",
   "description": "Individual entrepreneur Noroshkin Vladimir Aleksandrovich",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.234.64.0/23",
+      "91.234.68.0/22"
+    ],
     "ipv6": []
   }
 }
