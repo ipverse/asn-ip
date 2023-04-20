@@ -4,8 +4,6 @@
   "description": "Digital Residence B.V.",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2001:67c:54::/48"
-    ]
+    "ipv6": []
   }
 }

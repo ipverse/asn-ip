@@ -3,7 +3,9 @@
   "handle": "CUOFCO",
   "description": "Credit Union of Colorado",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "67.134.167.0/24"
+    ],
     "ipv6": []
   }
 }

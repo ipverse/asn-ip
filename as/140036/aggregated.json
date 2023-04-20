@@ -1,9 +1,11 @@
 {
   "asn": 140036,
-  "handle": "RESERVED",
-  "description": "APNIC ASN block",
+  "handle": "NUFLAYER-AP",
+  "description": "NUFLAYER",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.132.42.0/23"
+    ],
     "ipv6": []
   }
 }

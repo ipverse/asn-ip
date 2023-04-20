@@ -1,0 +1,11 @@
+{
+  "asn": 273711,
+  "handle": "HD-SOUSA-PROVEDORES",
+  "description": "HD de Sousa provedores",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2804:8b18::/32"
+    ]
+  }
+}

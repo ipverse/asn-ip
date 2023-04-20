@@ -4,8 +4,10 @@
   "description": "LinkNet Solucoes",
   "subnets": {
     "ipv4": [
-      "45.235.125.0/24"
+      "45.235.124.0/23"
     ],
-    "ipv6": []
+    "ipv6": [
+      "2804:4d70::/32"
+    ]
   }
 }

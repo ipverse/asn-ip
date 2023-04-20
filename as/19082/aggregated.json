@@ -4,7 +4,6 @@
   "description": "EVEREST BROADBAND NETWORKS",
   "subnets": {
     "ipv4": [
-      "64.49.64.0/19",
       "216.236.128.0/19"
     ],
     "ipv6": []

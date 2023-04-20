@@ -3,9 +3,7 @@
   "handle": "TESTOUTCORP",
   "description": "TestOut Corporation",
   "subnets": {
-    "ipv4": [
-      "67.136.67.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

@@ -3,9 +3,7 @@
   "handle": "CONNECT-MED",
   "description": "CONNECT MED SAS",
   "subnets": {
-    "ipv4": [
-      "79.110.50.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

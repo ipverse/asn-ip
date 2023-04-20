@@ -3,7 +3,9 @@
   "handle": "DNETB-IN",
   "description": "D NET BROADBAND",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.188.160.0/23"
+    ],
     "ipv6": []
   }
 }

@@ -4,6 +4,7 @@
   "description": "Interaptus Limited",
   "subnets": {
     "ipv4": [
+      "72.9.140.0/24",
       "103.225.212.0/22"
     ],
     "ipv6": [

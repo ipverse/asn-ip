@@ -1,7 +1,7 @@
 {
   "asn": 16807,
-  "handle": "IBM-EI",
-  "description": "IBM - Events Infrastructure",
+  "handle": "KYN-EVENTS",
+  "description": "Kyndryl",
   "subnets": {
     "ipv4": [
       "129.42.1.0/24",

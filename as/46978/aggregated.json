@@ -4,7 +4,7 @@
   "description": "Bytesize Internet LLC",
   "subnets": {
     "ipv4": [
-      "23.187.147.0/24"
+      "23.187.146.0/23"
     ],
     "ipv6": [
       "2606:7540:5::/48",

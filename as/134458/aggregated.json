@@ -1,13 +1,11 @@
 {
   "asn": 134458,
-  "handle": "PHYADSMEDIA-AP",
-  "description": "Phyads Media",
+  "handle": "RESERVED",
+  "description": "APNIC ASN block",
   "subnets": {
     "ipv4": [
       "103.160.96.0/23"
     ],
-    "ipv6": [
-      "2001:df5:9a80::/48"
-    ]
+    "ipv6": []
   }
 }

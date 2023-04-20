@@ -4,7 +4,8 @@
   "description": "TECNONET SINAL DE INTERNET LTDA",
   "subnets": {
     "ipv4": [
-      "24.152.20.0/24"
+      "24.152.20.0/24",
+      "24.152.22.0/23"
     ],
     "ipv6": []
   }

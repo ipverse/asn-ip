@@ -1,0 +1,13 @@
+{
+  "asn": 136984,
+  "handle": "MERCURYNZ-AP",
+  "description": "Mercury NZ Limited",
+  "subnets": {
+    "ipv4": [
+      "103.173.251.0/24"
+    ],
+    "ipv6": [
+      "2406:5a00:100::/40"
+    ]
+  }
+}

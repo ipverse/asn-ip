@@ -4,6 +4,7 @@
   "description": "Cloud Information Technology (Intl) Telecom Group LIMITED",
   "subnets": {
     "ipv4": [
+      "49.128.198.0/24",
       "61.97.249.0/24",
       "103.86.84.0/24",
       "103.86.86.0/24",
