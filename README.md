@@ -4,7 +4,17 @@ IPv4 and IPv6 networks in CIDR notation (e.g. 100.2.30.0/22) organized by announ
 All networks are aggregated to save space.
 The data is available in both **TXT** plaintext and **JSON** format.  
 
-This is a JSON example for AS1234:
+This is a IPv4 TXT plaintext example for AS1234:
+```
+# AS1234 (FORTUM)
+# Fortum
+#
+132.171.0.0/16
+137.96.0.0/16
+193.110.32.0/21
+```
+
+And this is a JSON example for the same AS (JSON format includes both, IPv4 and IPv6):
 ```
 {
   "asn": 1234,
