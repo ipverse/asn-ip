@@ -1,0 +1,11 @@
+{
+  "asn": 150796,
+  "handle": "DGBBANKPLC-AP",
+  "description": "DGB BANK PLC.",
+  "subnets": {
+    "ipv4": [
+      "103.210.210.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,9 +1,12 @@
 {
   "asn": 272082,
-  "handle": "JARM-TELECOMUNICACIONES-SRL",
+  "handle": "JARM-TELECOMUNICACIONES",
   "description": "JARM TELECOMUNICACIONES SRL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "204.157.241.0/24",
+      "204.157.247.0/24"
+    ],
     "ipv6": []
   }
 }

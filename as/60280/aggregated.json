@@ -4,6 +4,7 @@
   "description": "Republican Unitary Enterprise National Traffic Exchange Center",
   "subnets": {
     "ipv4": [
+      "93.125.25.0/24",
       "185.11.76.0/22"
     ],
     "ipv6": [
