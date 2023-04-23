@@ -1,0 +1,11 @@
+{
+  "asn": 61427,
+  "handle": "SARGASSO-DC",
+  "description": "Sargasso N1 Limited",
+  "subnets": {
+    "ipv4": [
+      "194.88.13.0/24"
+    ],
+    "ipv6": []
+  }
+}

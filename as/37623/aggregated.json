@@ -3,10 +3,7 @@
   "handle": "SURFLINE-GHANA",
   "description": "SURFLINE COMMUNICATION LIMITED",
   "subnets": {
-    "ipv4": [
-      "41.242.136.0/22",
-      "154.114.252.0/22"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

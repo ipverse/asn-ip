@@ -3,7 +3,10 @@
   "handle": "ADENO",
   "description": "Oleksii Namiatov",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "77.91.77.0/24",
+      "185.149.146.0/24"
+    ],
     "ipv6": [
       "2a0c:b641:9c0::/44"
     ]

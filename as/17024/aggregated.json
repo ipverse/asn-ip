@@ -1,0 +1,11 @@
+{
+  "asn": 17024,
+  "handle": "BLUEFURMAINAS",
+  "description": "BlueFur Networking Services",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2602:fe69:e06::/48"
+    ]
+  }
+}

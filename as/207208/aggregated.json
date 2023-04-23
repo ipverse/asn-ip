@@ -1,9 +1,11 @@
 {
   "asn": 207208,
   "handle": "MEVIX",
-  "description": "Meverywhere sp. z o.o.",
+  "description": "MEVSPACE sp. z o.o.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.1.217.0/24"
+    ],
     "ipv6": []
   }
 }

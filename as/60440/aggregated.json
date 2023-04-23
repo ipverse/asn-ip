@@ -3,7 +3,9 @@
   "handle": "DRAE",
   "description": "Defaultroute DMCC LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "5.133.83.0/24"
+    ],
     "ipv6": []
   }
 }
