@@ -4,7 +4,8 @@
   "description": "Big Marshyangdi Net Pvt. Ltd.",
   "subnets": {
     "ipv4": [
-      "103.155.20.0/24"
+      "103.155.20.0/24",
+      "103.157.90.0/24"
     ],
     "ipv6": []
   }

@@ -4,8 +4,10 @@
   "description": "MK NET TELECOM EIRELI-ME",
   "subnets": {
     "ipv4": [
-      "45.161.199.0/24"
+      "45.161.196.0/22"
     ],
-    "ipv6": []
+    "ipv6": [
+      "2804:51b8::/32"
+    ]
   }
 }

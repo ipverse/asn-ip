@@ -1,0 +1,11 @@
+{
+  "asn": 151200,
+  "handle": "MIRPURTECH-AP",
+  "description": "Mirpur Tech",
+  "subnets": {
+    "ipv4": [
+      "103.69.76.0/23"
+    ],
+    "ipv6": []
+  }
+}

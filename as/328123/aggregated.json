@@ -3,7 +3,9 @@
   "handle": "CAMPOST",
   "description": "Cameroon Postal Services-CAMPOST",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "165.73.144.0/20"
+    ],
     "ipv6": []
   }
 }

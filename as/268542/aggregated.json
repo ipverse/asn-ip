@@ -3,7 +3,9 @@
   "handle": "ANGELO-RAPHAEL",
   "description": "Angelo Raphael",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.238.148.0/22"
+    ],
     "ipv6": []
   }
 }

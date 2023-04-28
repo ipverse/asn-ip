@@ -4,7 +4,6 @@
   "description": "Schlumberger Limited",
   "subnets": {
     "ipv4": [
-      "192.23.15.0/24",
       "192.23.46.0/24"
     ],
     "ipv6": []

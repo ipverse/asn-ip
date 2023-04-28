@@ -3,7 +3,10 @@
   "handle": "QUICKMEG",
   "description": "QuickMeg Inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "136.175.125.0/24",
+      "173.0.0.0/22"
+    ],
     "ipv6": []
   }
 }

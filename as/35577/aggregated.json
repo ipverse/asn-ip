@@ -4,6 +4,7 @@
   "description": "SPECIAL INTERNET OPERATIONS SRL",
   "subnets": {
     "ipv4": [
+      "193.33.33.0/24",
       "194.117.234.0/23"
     ],
     "ipv6": []

@@ -3,10 +3,7 @@
   "handle": "RESISOFT",
   "description": "Resisoft, Inc.",
   "subnets": {
-    "ipv4": [
-      "204.10.169.0/24",
-      "204.10.170.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }
