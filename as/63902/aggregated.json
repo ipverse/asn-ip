@@ -4,6 +4,7 @@
   "description": "SHINE TELECOM CO., LTD.",
   "subnets": {
     "ipv4": [
+      "103.94.235.0/24",
       "103.116.14.0/23",
       "141.11.80.0/23"
     ],

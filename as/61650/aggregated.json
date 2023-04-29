@@ -4,6 +4,7 @@
   "description": "WIRELESSNET INTERNET SOLUTIONS LTDA - ME",
   "subnets": {
     "ipv4": [
+      "45.185.12.0/24",
       "131.100.204.0/22",
       "187.49.4.0/23"
     ],

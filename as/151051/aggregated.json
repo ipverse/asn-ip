@@ -1,0 +1,11 @@
+{
+  "asn": 151051,
+  "handle": "CLASSICBROADBAND-AP",
+  "description": "Classic Broadband",
+  "subnets": {
+    "ipv4": [
+      "103.121.179.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -3,12 +3,9 @@
   "handle": "HAMBSD",
   "description": "SR2 Communications Limited",
   "subnets": {
-    "ipv4": [
-      "44.31.75.0/24"
-    ],
+    "ipv4": [],
     "ipv6": [
-      "2001:678:b34::/48",
-      "2a11:f2c0:ffe0::/44"
+      "2001:678:b34::/48"
     ]
   }
 }

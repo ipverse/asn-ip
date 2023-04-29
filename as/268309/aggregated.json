@@ -3,7 +3,9 @@
   "handle": "TILOG-TELECOM",
   "description": "TILOG TELECOM LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.238.48.0/22"
+    ],
     "ipv6": []
   }
 }

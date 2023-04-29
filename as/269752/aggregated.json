@@ -3,7 +3,9 @@
   "handle": "COLSECOR-COOPERATIVA-LIMITADA",
   "description": "Colsecor Cooperativa Limitada",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "181.16.170.0/24"
+    ],
     "ipv6": []
   }
 }
