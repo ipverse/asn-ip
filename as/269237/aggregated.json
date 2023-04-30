@@ -4,8 +4,7 @@
   "description": "CarandaiNet Servios de Internet Ltda.",
   "subnets": {
     "ipv4": [
-      "45.182.204.0/22",
-      "191.7.0.0/23"
+      "45.182.204.0/22"
     ],
     "ipv6": [
       "2804:617c::/32"

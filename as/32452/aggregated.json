@@ -4,6 +4,7 @@
   "description": "JMP Securities, LLC",
   "subnets": {
     "ipv4": [
+      "38.99.48.0/24",
       "38.102.34.0/24",
       "216.52.10.0/23"
     ],

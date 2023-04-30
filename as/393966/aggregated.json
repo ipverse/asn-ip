@@ -4,7 +4,8 @@
   "description": "Capilano University",
   "subnets": {
     "ipv4": [
-      "204.239.152.0/22"
+      "204.239.152.0/22",
+      "209.87.30.0/24"
     ],
     "ipv6": []
   }
