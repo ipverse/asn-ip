@@ -3,7 +3,9 @@
   "handle": "DUQUESNE-CAPITAL-MANAGEMENT-LLC",
   "description": "DUQUESNE CAPITAL MANAGEMENT LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "65.220.102.0/24"
+    ],
     "ipv6": []
   }
 }

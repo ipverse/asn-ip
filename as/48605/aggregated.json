@@ -1,0 +1,12 @@
+{
+  "asn": 48605,
+  "handle": "GETSERVERS",
+  "description": "GetServers Ltd",
+  "subnets": {
+    "ipv4": [
+      "149.5.115.0/24",
+      "181.215.32.0/24"
+    ],
+    "ipv6": []
+  }
+}

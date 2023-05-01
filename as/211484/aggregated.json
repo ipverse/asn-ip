@@ -4,8 +4,6 @@
   "description": "Association IT-JUNIOR",
   "subnets": {
     "ipv4": [
-      "136.0.77.0/24",
-      "136.0.78.0/24",
       "146.19.48.0/24"
     ],
     "ipv6": []
