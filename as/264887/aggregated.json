@@ -4,7 +4,6 @@
   "description": "VOAR TELECOM",
   "subnets": {
     "ipv4": [
-      "45.180.90.0/24",
       "168.227.185.0/24"
     ],
     "ipv6": [

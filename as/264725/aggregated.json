@@ -3,7 +3,9 @@
   "handle": "COOP-PROV-SERV",
   "description": "COOP. DE PROV. DE SERV. TELEF. PRESIDENTE DERQUI LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "170.231.176.0/22"
+    ],
     "ipv6": []
   }
 }

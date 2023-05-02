@@ -3,7 +3,9 @@
   "handle": "LUCKYNET2-IN",
   "description": "Lucky Internet Services Pvt Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.181.140.0/24"
+    ],
     "ipv6": []
   }
 }

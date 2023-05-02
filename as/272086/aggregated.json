@@ -4,8 +4,7 @@
   "description": "CENTRAL DE SERVICIOS DIGITALES S.A.S.",
   "subnets": {
     "ipv4": [
-      "189.85.40.0/23",
-      "189.85.42.0/24"
+      "189.85.40.0/22"
     ],
     "ipv6": []
   }

@@ -4,6 +4,7 @@
   "description": "Outreach Broadband, Inc.",
   "subnets": {
     "ipv4": [
+      "50.114.64.0/24",
       "104.234.9.0/24"
     ],
     "ipv6": []

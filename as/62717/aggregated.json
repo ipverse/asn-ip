@@ -3,7 +3,9 @@
   "handle": "GRASSROOTS-TECHNOLOGY",
   "description": "Harmonize Networks Inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.69.142.0/24"
+    ],
     "ipv6": []
   }
 }
