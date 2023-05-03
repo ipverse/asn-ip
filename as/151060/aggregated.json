@@ -1,0 +1,11 @@
+{
+  "asn": 151060,
+  "handle": "TELEWIRE-AP",
+  "description": "Telewire Communications",
+  "subnets": {
+    "ipv4": [
+      "103.124.30.0/24"
+    ],
+    "ipv6": []
+  }
+}

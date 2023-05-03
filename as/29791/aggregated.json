@@ -3,14 +3,7 @@
   "handle": "VOXEL-DOT-NET",
   "description": "Internap Holding LLC",
   "subnets": {
-    "ipv4": [
-      "64.95.158.0/23",
-      "64.95.160.0/23",
-      "216.52.199.0/24"
-    ],
-    "ipv6": [
-      "2600:c07::/48",
-      "2a02:b50:4012::/48"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

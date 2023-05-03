@@ -3,7 +3,9 @@
   "handle": "PODAON-NL-1",
   "description": "Podaon SIA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.131.182.0/24"
+    ],
     "ipv6": []
   }
 }

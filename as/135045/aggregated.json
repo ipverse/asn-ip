@@ -3,9 +3,7 @@
   "handle": "UNITYNET-AP",
   "description": "Unity Net",
   "subnets": {
-    "ipv4": [
-      "103.112.164.0/22"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

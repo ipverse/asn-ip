@@ -1,9 +1,11 @@
 {
   "asn": 141199,
-  "handle": "RESERVED",
-  "description": "APNIC ASN block",
+  "handle": "CLPC-AP",
+  "description": "Century Link Plus Co,.Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.160.146.0/24"
+    ],
     "ipv6": []
   }
 }

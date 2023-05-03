@@ -4,6 +4,7 @@
   "description": "servinga GmbH",
   "subnets": {
     "ipv4": [
+      "78.138.9.0/24",
       "79.132.135.0/24"
     ],
     "ipv6": [

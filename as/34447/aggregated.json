@@ -3,9 +3,7 @@
   "handle": "ASMYISPLB",
   "description": "My ISP SARL",
   "subnets": {
-    "ipv4": [
-      "185.82.34.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

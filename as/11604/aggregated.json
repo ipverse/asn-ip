@@ -4,7 +4,8 @@
   "description": "Heller Information Services, Inc.",
   "subnets": {
     "ipv4": [
-      "216.194.192.0/21"
+      "216.194.192.0/21",
+      "216.194.252.0/22"
     ],
     "ipv6": []
   }

@@ -1,0 +1,11 @@
+{
+  "asn": 31987,
+  "handle": "PERSISTENT-TELECOM",
+  "description": "Persistent Telecom INC",
+  "subnets": {
+    "ipv4": [
+      "74.80.224.0/24"
+    ],
+    "ipv6": []
+  }
+}

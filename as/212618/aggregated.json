@@ -4,8 +4,6 @@
   "description": "Frost Node LLC",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2a05:dfc1:1fe0::/48"
-    ]
+    "ipv6": []
   }
 }

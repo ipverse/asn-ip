@@ -3,10 +3,7 @@
   "handle": "SPARKPLUG-SOUTHWEST-LLC",
   "description": "Sparkplug Southwest, LLC.",
   "subnets": {
-    "ipv4": [
-      "66.17.80.0/20",
-      "96.46.66.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }
