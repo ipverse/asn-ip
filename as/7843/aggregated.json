@@ -4,6 +4,7 @@
   "description": "Charter Communications Inc",
   "subnets": {
     "ipv4": [
+      "16.14.192.0/20",
       "16.14.228.0/22",
       "16.14.236.0/22",
       "16.191.0.0/23",

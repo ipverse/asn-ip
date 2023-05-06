@@ -1,0 +1,11 @@
+{
+  "asn": 135072,
+  "handle": "CENTRICS-AP",
+  "description": "Centrics Networks Pte Ltd",
+  "subnets": {
+    "ipv4": [
+      "103.153.67.0/24"
+    ],
+    "ipv6": []
+  }
+}

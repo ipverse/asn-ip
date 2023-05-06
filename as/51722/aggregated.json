@@ -4,6 +4,7 @@
   "description": "TEKNOSOS BILISIM HIZMETLERI VE TIC. LTD. STI.",
   "subnets": {
     "ipv4": [
+      "93.89.209.0/24",
       "192.124.182.0/24"
     ],
     "ipv6": []

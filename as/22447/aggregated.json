@@ -1,0 +1,11 @@
+{
+  "asn": 22447,
+  "handle": "ZING-ISP-01",
+  "description": "Zing Broadband",
+  "subnets": {
+    "ipv4": [
+      "166.0.140.0/24"
+    ],
+    "ipv6": []
+  }
+}

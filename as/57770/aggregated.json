@@ -3,9 +3,7 @@
   "handle": "ETHERDARK",
   "description": "ETHERDARK LTD",
   "subnets": {
-    "ipv4": [
-      "62.112.136.0/21"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

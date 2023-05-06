@@ -1,9 +1,11 @@
 {
   "asn": 61112,
-  "handle": "VALI",
-  "description": "Vali Impex SRL",
+  "handle": "AKILELTD",
+  "description": "AKILE LTD",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a0e:97c0:7d1::/48"
+    ]
   }
 }

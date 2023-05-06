@@ -3,9 +3,7 @@
   "handle": "XUVM",
   "description": "XuVM, LLC",
   "subnets": {
-    "ipv4": [
-      "89.251.22.0/24"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2a13:df80::/29"
     ]

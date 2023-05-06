@@ -3,7 +3,9 @@
   "handle": "G4-SOLUCOES-EM",
   "description": "G4 SOLUCOES EM INTERNET E MULTIMIDIA LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "108.165.103.0/24"
+    ],
     "ipv6": [
       "2804:85dc::/32"
     ]

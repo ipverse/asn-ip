@@ -3,9 +3,7 @@
   "handle": "OCDE",
   "description": "CRATIS d.o.o.",
   "subnets": {
-    "ipv4": [
-      "194.56.75.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

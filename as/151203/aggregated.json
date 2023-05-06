@@ -1,0 +1,11 @@
+{
+  "asn": 151203,
+  "handle": "FIBREUPPTYLTD-AP",
+  "description": "Fibre Up Pty Ltd",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2406:1fc0::/32"
+    ]
+  }
+}

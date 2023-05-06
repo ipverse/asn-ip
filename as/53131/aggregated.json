@@ -3,10 +3,7 @@
   "handle": "GB-TECNOLOGIA-MONITORAMENTO",
   "description": "GB TECNOLOGIA E MONITORAMENTO EIRELI",
   "subnets": {
-    "ipv4": [
-      "186.236.96.0/19",
-      "187.121.192.0/19"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2804:194::/32"
     ]

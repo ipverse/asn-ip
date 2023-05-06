@@ -4,6 +4,7 @@
   "description": "SuperNet Infocomm",
   "subnets": {
     "ipv4": [
+      "38.7.145.0/24",
       "103.161.248.0/23"
     ],
     "ipv6": [

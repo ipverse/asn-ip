@@ -3,7 +3,9 @@
   "handle": "VOFO-SV1",
   "description": "vofo corporation",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "154.31.51.0/24"
+    ],
     "ipv6": []
   }
 }

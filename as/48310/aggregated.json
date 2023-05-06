@@ -3,9 +3,7 @@
   "handle": "IMSD",
   "description": "IMS DYNAMICS SASU",
   "subnets": {
-    "ipv4": [
-      "185.77.112.0/22"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

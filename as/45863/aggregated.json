@@ -1,0 +1,11 @@
+{
+  "asn": 45863,
+  "handle": "YAHOO-AP",
+  "description": "Yahoo Inc.",
+  "subnets": {
+    "ipv4": [
+      "27.123.32.0/24"
+    ],
+    "ipv6": []
+  }
+}
