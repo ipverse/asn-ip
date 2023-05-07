@@ -3,7 +3,9 @@
   "handle": "SGBIPL",
   "description": "Sg Broadband Internet Pvt.ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.140.254.0/23"
+    ],
     "ipv6": []
   }
 }

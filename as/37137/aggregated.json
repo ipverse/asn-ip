@@ -4,7 +4,8 @@
   "description": "Vodacom Business (Kenya) Limited",
   "subnets": {
     "ipv4": [
-      "41.79.252.0/22"
+      "41.79.252.0/23",
+      "41.79.254.0/24"
     ],
     "ipv6": []
   }
