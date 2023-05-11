@@ -4,9 +4,9 @@
   "description": "Asser Al-Technologia Information Technology Company Limited",
   "subnets": {
     "ipv4": [
+      "45.82.60.0/24",
       "45.82.63.0/24",
-      "185.117.8.0/24",
-      "185.117.10.0/23"
+      "185.117.8.0/22"
     ],
     "ipv6": []
   }

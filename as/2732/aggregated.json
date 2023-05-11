@@ -4,7 +4,8 @@
   "description": "Valliant Telephone Co INC",
   "subnets": {
     "ipv4": [
-      "107.152.48.0/20"
+      "107.152.48.0/20",
+      "209.215.111.0/24"
     ],
     "ipv6": [
       "2607:23c0::/32"

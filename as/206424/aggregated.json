@@ -3,7 +3,9 @@
   "handle": "NRB",
   "description": "NRB-CAPITAL llc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.233.105.0/24"
+    ],
     "ipv6": []
   }
 }

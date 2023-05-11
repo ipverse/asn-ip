@@ -3,7 +3,9 @@
   "handle": "ISD-NETWORKS",
   "description": "ISD NETWORKS S.A DE C.V",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "168.121.240.0/22"
+    ],
     "ipv6": []
   }
 }

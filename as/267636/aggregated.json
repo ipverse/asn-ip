@@ -4,8 +4,7 @@
   "description": "VIACONNECT PROVEDOR DE INTERNET BANDA LARGA LTDAME",
   "subnets": {
     "ipv4": [
-      "45.224.24.0/23",
-      "45.224.27.0/24"
+      "45.224.24.0/22"
     ],
     "ipv6": [
       "2804:4480::/33",

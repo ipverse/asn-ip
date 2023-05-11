@@ -3,9 +3,13 @@
   "handle": "MARCOGROSSI",
   "description": "Marco Grossi",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "163.5.199.0/24"
+    ],
     "ipv6": [
-      "2a0c:b641:6c6::/47"
+      "2a0c:b641:6c6::/47",
+      "2a0c:b641:6cc::/48",
+      "2a0c:b641:6cf::/48"
     ]
   }
 }
