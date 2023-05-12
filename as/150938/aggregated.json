@@ -1,0 +1,11 @@
+{
+  "asn": 150938,
+  "handle": "IDNIC-MITRAGLOBALTELEMEDIA-ID",
+  "description": "PT Mitra Global Telemedia",
+  "subnets": {
+    "ipv4": [
+      "103.212.177.0/24"
+    ],
+    "ipv6": []
+  }
+}

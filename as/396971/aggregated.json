@@ -1,0 +1,11 @@
+{
+  "asn": 396971,
+  "handle": "BRIDGPT-COMM-01",
+  "description": "Bridge Point Communication",
+  "subnets": {
+    "ipv4": [
+      "23.147.24.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -3,10 +3,7 @@
   "handle": "AC3-AP",
   "description": "AUSTRALIAN CENTRE FOR ADVANCED COMPUTING AND COMMUNICATION PTY LTD",
   "subnets": {
-    "ipv4": [
-      "202.93.248.0/24",
-      "203.8.81.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

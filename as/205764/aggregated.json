@@ -3,7 +3,9 @@
   "handle": "GENO",
   "description": "Gesundheit Nord Klinikverbund Bremen gGmbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.15.187.0/24"
+    ],
     "ipv6": []
   }
 }

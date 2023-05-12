@@ -1,0 +1,11 @@
+{
+  "asn": 400714,
+  "handle": "ABH",
+  "description": "AB Handshake Corporation",
+  "subnets": {
+    "ipv4": [
+      "204.225.223.0/24"
+    ],
+    "ipv6": []
+  }
+}

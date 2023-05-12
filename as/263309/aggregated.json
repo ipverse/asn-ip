@@ -4,9 +4,9 @@
   "description": "LaraNet Telecomunicaes e Servios EIRALI",
   "subnets": {
     "ipv4": [
-      "191.7.32.0/24",
+      "191.7.32.0/22",
       "191.7.36.0/24",
-      "191.7.38.0/24"
+      "191.7.38.0/23"
     ],
     "ipv6": [
       "2804:1404::/32"

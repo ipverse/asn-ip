@@ -1,7 +1,11 @@
 {
   "asn": 40544,
+  "handle": "PARADOX-NETWORKS",
+  "description": "ParadoxNetworks, LLC",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2602:fa7e::/36"
+    ]
   }
 }
