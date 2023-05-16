@@ -3,9 +3,7 @@
   "handle": "MYOBNZLIMITED-AP",
   "description": "MYOB NZ Limited",
   "subnets": {
-    "ipv4": [
-      "202.50.111.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

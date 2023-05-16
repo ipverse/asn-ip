@@ -3,9 +3,7 @@
   "handle": "OCTOGENCY-NETWORK",
   "description": "OctoGency SARL",
   "subnets": {
-    "ipv4": [
-      "91.197.6.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

@@ -1,0 +1,11 @@
+{
+  "asn": 11343,
+  "handle": "WHOOP",
+  "description": "Whoop, Inc.",
+  "subnets": {
+    "ipv4": [
+      "50.170.101.0/24"
+    ],
+    "ipv6": []
+  }
+}

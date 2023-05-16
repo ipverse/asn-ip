@@ -3,11 +3,7 @@
   "handle": "HPWR",
   "description": "TvNetTel Kft.",
   "subnets": {
-    "ipv4": [
-      "5.149.240.0/24",
-      "5.149.243.0/24",
-      "5.149.244.0/22"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

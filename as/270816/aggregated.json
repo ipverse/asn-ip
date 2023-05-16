@@ -4,8 +4,7 @@
   "description": "ZAMTECH COM TELECOMUNICACOES LTDA",
   "subnets": {
     "ipv4": [
-      "138.59.180.0/23",
-      "138.59.183.0/24"
+      "138.59.180.0/22"
     ],
     "ipv6": [
       "2804:71dc::/32"

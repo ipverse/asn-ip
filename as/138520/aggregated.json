@@ -3,13 +3,7 @@
   "handle": "LNSPL-AP",
   "description": "Lalu Network Solutions Private Limited",
   "subnets": {
-    "ipv4": [
-      "103.84.81.0/24",
-      "103.127.164.0/22",
-      "183.87.42.0/24"
-    ],
-    "ipv6": [
-      "2404:24c0::/32"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

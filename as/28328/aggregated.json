@@ -4,6 +4,8 @@
   "description": "EBR Informtica Ltda",
   "subnets": {
     "ipv4": [
+      "187.49.18.0/24",
+      "187.49.27.0/24",
       "189.14.192.0/19"
     ],
     "ipv6": [

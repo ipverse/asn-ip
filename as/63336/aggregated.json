@@ -4,7 +4,6 @@
   "description": "Adventist Healthcare",
   "subnets": {
     "ipv4": [
-      "63.69.66.0/24",
       "64.112.116.0/24"
     ],
     "ipv6": []

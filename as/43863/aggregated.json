@@ -3,10 +3,7 @@
   "handle": "GUARDOO",
   "description": "Guardoo LTD",
   "subnets": {
-    "ipv4": [
-      "45.87.220.0/22",
-      "185.192.125.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }
