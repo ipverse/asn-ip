@@ -1,0 +1,11 @@
+{
+  "asn": 39974,
+  "handle": "ALTITUDE-ISP",
+  "description": "Altitude ISP LLC",
+  "subnets": {
+    "ipv4": [
+      "45.199.188.0/24"
+    ],
+    "ipv6": []
+  }
+}

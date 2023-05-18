@@ -4,6 +4,7 @@
   "description": "Fast Speed Link Network Pvt Ltd",
   "subnets": {
     "ipv4": [
+      "103.197.104.0/23",
       "103.214.76.0/22"
     ],
     "ipv6": []

@@ -3,7 +3,9 @@
   "handle": "UAGROUP",
   "description": "UAGROUP LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.200.84.0/23"
+    ],
     "ipv6": []
   }
 }

@@ -4,6 +4,7 @@
   "description": "Expereo International BV",
   "subnets": {
     "ipv4": [
+      "5.253.88.0/23",
       "37.26.224.0/21",
       "45.81.220.0/22",
       "45.93.84.0/23",

@@ -4,7 +4,8 @@
   "description": "Master Net Informtica e Eventos Ltda",
   "subnets": {
     "ipv4": [
-      "168.181.64.0/22"
+      "168.181.64.0/24",
+      "168.181.67.0/24"
     ],
     "ipv6": [
       "2804:2e28::/32"

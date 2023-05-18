@@ -3,9 +3,7 @@
   "handle": "FLASHNET",
   "description": "PHU Flashnet - Mariusz Sikora",
   "subnets": {
-    "ipv4": [
-      "77.65.218.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }
