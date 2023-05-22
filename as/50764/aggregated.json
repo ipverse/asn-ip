@@ -1,0 +1,11 @@
+{
+  "asn": 50764,
+  "handle": "NEO-BACKBONE",
+  "description": "EVRY Sweden AB",
+  "subnets": {
+    "ipv4": [
+      "192.46.71.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,7 +1,7 @@
 {
   "asn": 138611,
-  "handle": "RESERVED",
-  "description": "APNIC ASN block",
+  "handle": "UNITECHINTERNET-AP",
+  "description": "Unitech Internet",
   "subnets": {
     "ipv4": [
       "103.14.200.0/24"

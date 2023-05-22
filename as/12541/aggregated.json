@@ -3,9 +3,7 @@
   "handle": "EBC-INNER",
   "description": "Evolutio Business Connectivity S.L.",
   "subnets": {
-    "ipv4": [
-      "136.238.211.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

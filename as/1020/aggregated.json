@@ -4,8 +4,6 @@
   "description": "Midwest Cable",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2a12:f3c0:20::/48"
-    ]
+    "ipv6": []
   }
 }
