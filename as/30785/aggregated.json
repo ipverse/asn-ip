@@ -3,9 +3,7 @@
   "handle": "RADIK",
   "description": "Radik BV",
   "subnets": {
-    "ipv4": [
-      "82.150.140.0/22"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

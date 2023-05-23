@@ -3,7 +3,9 @@
   "handle": "PTABPL-AP",
   "description": "Pace Telecom and Brodcasting Private Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.204.33.0/24"
+    ],
     "ipv6": []
   }
 }

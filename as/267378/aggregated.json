@@ -4,6 +4,7 @@
   "description": "CWMC TELECOM LTDA ME",
   "subnets": {
     "ipv4": [
+      "45.184.232.0/22",
       "45.234.192.0/22"
     ],
     "ipv6": [

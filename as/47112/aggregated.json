@@ -3,11 +3,7 @@
   "handle": "BINCK-NL",
   "description": "BinckBank N.V",
   "subnets": {
-    "ipv4": [
-      "193.30.143.0/24",
-      "194.50.102.0/24",
-      "195.242.160.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

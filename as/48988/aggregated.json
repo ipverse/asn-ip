@@ -1,9 +1,11 @@
 {
   "asn": 48988,
-  "handle": "RESERVED",
-  "description": "RIPE NCC ASN block",
+  "handle": "KZ-MSS",
+  "description": "HAICOM LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "213.148.0.0/19"
+    ],
     "ipv6": []
   }
 }

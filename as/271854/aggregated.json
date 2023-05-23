@@ -3,9 +3,7 @@
   "handle": "GRUPO-NOREDZONE-ISP-SPA",
   "description": "GRUPO NOREDZONE ISP SPA",
   "subnets": {
-    "ipv4": [
-      "45.162.135.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }
