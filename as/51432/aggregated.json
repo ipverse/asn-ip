@@ -1,0 +1,12 @@
+{
+  "asn": 51432,
+  "handle": "BEEVPN",
+  "description": "BeeVPN ApS",
+  "subnets": {
+    "ipv4": [
+      "185.55.208.0/22",
+      "217.15.160.0/20"
+    ],
+    "ipv6": []
+  }
+}

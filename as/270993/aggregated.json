@@ -4,10 +4,8 @@
   "description": "edilde menezes noronha",
   "subnets": {
     "ipv4": [
-      "186.232.220.0/22"
+      "186.232.223.0/24"
     ],
-    "ipv6": [
-      "2804:74a0::/32"
-    ]
+    "ipv6": []
   }
 }

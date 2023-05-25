@@ -3,7 +3,9 @@
   "handle": "ANTRATSIT-UA-NET",
   "description": "Polunin Eduard Evgenyevich",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.125.224.0/22"
+    ],
     "ipv6": []
   }
 }

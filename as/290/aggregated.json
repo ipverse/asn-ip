@@ -3,7 +3,11 @@
   "handle": "SHOWNET",
   "description": "Interop Show Network",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.0.0.0/16",
+      "130.128.0.0/15",
+      "202.17.220.0/23"
+    ],
     "ipv6": [
       "2001:3e8::/32"
     ]

@@ -1,0 +1,13 @@
+{
+  "asn": 210281,
+  "handle": "WAICORE",
+  "description": "WAIcore Hosting LTD.",
+  "subnets": {
+    "ipv4": [
+      "185.106.92.0/24",
+      "193.233.134.0/24",
+      "194.36.177.0/24"
+    ],
+    "ipv6": []
+  }
+}

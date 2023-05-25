@@ -3,7 +3,9 @@
   "handle": "IDNIC-JABNET-ID",
   "description": "PT Jujur Amanah Barokah",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.194.46.0/24"
+    ],
     "ipv6": []
   }
 }

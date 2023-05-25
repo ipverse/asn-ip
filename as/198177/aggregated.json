@@ -3,9 +3,7 @@
   "handle": "EKINO",
   "description": "EKINO SAS",
   "subnets": {
-    "ipv4": [
-      "130.193.24.0/21"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

@@ -1,9 +1,11 @@
 {
   "asn": 61106,
-  "handle": "RESERVED",
-  "description": "RIPE NCC ASN block",
+  "handle": "PSCLOUD-UZ",
+  "description": "PS Cloud Services LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "81.162.54.0/23"
+    ],
     "ipv6": []
   }
 }

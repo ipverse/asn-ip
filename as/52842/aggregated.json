@@ -4,6 +4,7 @@
   "description": "FUSAONET COMUNICAO E INFORMATICA LTDA",
   "subnets": {
     "ipv4": [
+      "45.188.196.0/22",
       "177.66.108.0/22"
     ],
     "ipv6": [

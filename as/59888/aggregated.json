@@ -1,9 +1,11 @@
 {
   "asn": 59888,
-  "handle": "MEGA-NET-COM-UA",
-  "description": "PE Grinkiv Nadia Oliksandrivna",
+  "handle": "MARMIN",
+  "description": "MARMIN Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "212.1.200.0/21"
+    ],
     "ipv6": []
   }
 }

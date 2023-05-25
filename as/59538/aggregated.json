@@ -1,0 +1,13 @@
+{
+  "asn": 59538,
+  "handle": "ZH-NET",
+  "description": "ZH NETWORK LIMITED",
+  "subnets": {
+    "ipv4": [
+      "23.150.11.0/24"
+    ],
+    "ipv6": [
+      "2a0f:7800:100::/40"
+    ]
+  }
+}

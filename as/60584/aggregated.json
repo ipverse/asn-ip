@@ -1,0 +1,13 @@
+{
+  "asn": 60584,
+  "handle": "PRIME",
+  "description": "Prime Studio s.r.o.",
+  "subnets": {
+    "ipv4": [
+      "193.200.243.0/24"
+    ],
+    "ipv6": [
+      "2a06:18c0::/29"
+    ]
+  }
+}

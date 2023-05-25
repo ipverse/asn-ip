@@ -4,7 +4,8 @@
   "description": "Nevskiy Syndicat OOO",
   "subnets": {
     "ipv4": [
-      "178.236.138.0/24"
+      "178.236.138.0/24",
+      "193.32.200.0/24"
     ],
     "ipv6": []
   }

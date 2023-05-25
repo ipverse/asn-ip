@@ -3,7 +3,9 @@
   "handle": "ALTONET-TELECOM",
   "description": "ALTONET TELECOM",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "177.129.100.0/22"
+    ],
     "ipv6": []
   }
 }

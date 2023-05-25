@@ -1,0 +1,11 @@
+{
+  "asn": 132042,
+  "handle": "MANUX-AP",
+  "description": "Manux Networks Ltd",
+  "subnets": {
+    "ipv4": [
+      "103.5.226.0/24"
+    ],
+    "ipv6": []
+  }
+}

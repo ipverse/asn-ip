@@ -3,7 +3,9 @@
   "handle": "CITRAMEDIA-ID",
   "description": "PT. Citramedia Network",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.186.56.0/24"
+    ],
     "ipv6": []
   }
 }

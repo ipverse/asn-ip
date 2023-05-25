@@ -3,9 +3,7 @@
   "handle": "AP-BEATO-INFORMATICA",
   "description": "A.P. BEATO - INFORMATICA - ME",
   "subnets": {
-    "ipv4": [
-      "45.188.196.0/22"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }
