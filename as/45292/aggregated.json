@@ -3,9 +3,7 @@
   "handle": "LIPI-ID",
   "description": "Lembaga Ilmu Pengetahuan Indonesia - LIPI",
   "subnets": {
-    "ipv4": [
-      "203.160.128.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

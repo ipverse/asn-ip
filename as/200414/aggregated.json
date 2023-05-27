@@ -3,12 +3,7 @@
   "handle": "MULTIPLAYPL",
   "description": "Multiplay Sp. z o.o. Sp. K.",
   "subnets": {
-    "ipv4": [
-      "178.219.128.0/24",
-      "178.219.131.0/24",
-      "178.219.132.0/22",
-      "178.219.136.0/21"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

@@ -1,0 +1,11 @@
+{
+  "asn": 150949,
+  "handle": "IDNIC-RHOST-ID",
+  "description": "PT RumahNET Internusa",
+  "subnets": {
+    "ipv4": [
+      "103.79.244.0/23"
+    ],
+    "ipv6": []
+  }
+}

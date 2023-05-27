@@ -3,9 +3,7 @@
   "handle": "COMPSYS",
   "description": "COMP.SYS SRL",
   "subnets": {
-    "ipv4": [
-      "185.190.208.0/22"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

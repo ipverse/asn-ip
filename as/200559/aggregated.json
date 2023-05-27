@@ -1,0 +1,11 @@
+{
+  "asn": 200559,
+  "handle": "BOTKYRKA-KOMMUN",
+  "description": "Botkyrka Kommun",
+  "subnets": {
+    "ipv4": [
+      "192.71.40.0/23"
+    ],
+    "ipv6": []
+  }
+}

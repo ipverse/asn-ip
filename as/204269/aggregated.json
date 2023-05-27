@@ -3,13 +3,7 @@
   "handle": "AIR",
   "description": "Air Broadband Limited",
   "subnets": {
-    "ipv4": [
-      "154.62.140.0/22",
-      "185.116.112.0/23",
-      "185.116.114.0/24"
-    ],
-    "ipv6": [
-      "2a05:7a80::/30"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

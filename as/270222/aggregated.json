@@ -1,0 +1,14 @@
+{
+  "asn": 270222,
+  "handle": "ORION-NETWORKS",
+  "description": "ORION NETWORKS SA DE CV",
+  "subnets": {
+    "ipv4": [
+      "186.26.75.0/24"
+    ],
+    "ipv6": [
+      "2806:20d:5235::/48",
+      "2806:3c3::/32"
+    ]
+  }
+}

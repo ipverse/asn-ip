@@ -4,6 +4,7 @@
   "description": "Antigua Computer Technology Co. Ltd.",
   "subnets": {
     "ipv4": [
+      "38.57.52.0/23",
       "69.50.64.0/22",
       "69.50.68.0/23",
       "69.50.71.0/24",

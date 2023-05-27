@@ -3,9 +3,7 @@
   "handle": "TMTR-O",
   "description": "TrackMotors LLC",
   "subnets": {
-    "ipv4": [
-      "194.31.67.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }
