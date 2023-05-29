@@ -3,9 +3,7 @@
   "handle": "SPACENET-IN",
   "description": "Space Broadband",
   "subnets": {
-    "ipv4": [
-      "103.132.229.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

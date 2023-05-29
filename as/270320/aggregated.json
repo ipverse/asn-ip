@@ -1,11 +1,13 @@
 {
   "asn": 270320,
-  "handle": "X-NET-COMUNICACOES",
-  "description": "x-net comunicacoes LTDA",
+  "handle": "X-NET",
+  "description": "X NET",
   "subnets": {
     "ipv4": [
       "190.83.4.0/22"
     ],
-    "ipv6": []
+    "ipv6": [
+      "2804:6a38:4000::/34"
+    ]
   }
 }

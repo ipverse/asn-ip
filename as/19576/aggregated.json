@@ -4,8 +4,7 @@
   "description": "Eastern University",
   "subnets": {
     "ipv4": [
-      "204.78.13.0/24",
-      "204.78.14.0/23"
+      "204.78.0.0/20"
     ],
     "ipv6": []
   }
