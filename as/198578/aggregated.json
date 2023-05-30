@@ -4,6 +4,7 @@
   "description": "Fiberlink LLC",
   "subnets": {
     "ipv4": [
+      "138.112.0.0/20",
       "216.93.96.0/19"
     ],
     "ipv6": []

@@ -3,7 +3,9 @@
   "handle": "TRIBUNAL-CONTAS-MARANHAO",
   "description": "Tribunal de Contas do Estado do Maranhao",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.227.4.0/24"
+    ],
     "ipv6": []
   }
 }

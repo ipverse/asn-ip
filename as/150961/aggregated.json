@@ -1,0 +1,11 @@
+{
+  "asn": 150961,
+  "handle": "IDNIC-KLIKPAS-ID",
+  "description": "PT. Pandeglang Akses Semesta",
+  "subnets": {
+    "ipv4": [
+      "103.230.81.0/24"
+    ],
+    "ipv6": []
+  }
+}

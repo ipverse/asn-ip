@@ -1,0 +1,11 @@
+{
+  "asn": 54484,
+  "handle": "GC-IPBACKHAUL-LA",
+  "description": "A+ Wireless, Inc.",
+  "subnets": {
+    "ipv4": [
+      "138.229.78.0/24"
+    ],
+    "ipv6": []
+  }
+}

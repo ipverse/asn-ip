@@ -4,7 +4,7 @@
   "description": "PT Subnet Data Nusantara",
   "subnets": {
     "ipv4": [
-      "103.170.100.0/23"
+      "103.170.100.0/24"
     ],
     "ipv6": [
       "2407:c6c0::/32"

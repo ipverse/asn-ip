@@ -1,0 +1,11 @@
+{
+  "asn": 151176,
+  "handle": "TELDROPS-IN",
+  "description": "Teldrops It Network Services",
+  "subnets": {
+    "ipv4": [
+      "103.255.28.0/24"
+    ],
+    "ipv6": []
+  }
+}

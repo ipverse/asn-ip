@@ -3,9 +3,7 @@
   "handle": "SATLINK",
   "description": "Satlink S.A.",
   "subnets": {
-    "ipv4": [
-      "200.5.212.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }
