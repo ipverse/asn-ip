@@ -3,7 +3,9 @@
   "handle": "WANDOOR",
   "description": "Wandoor Multiventures Pvt Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.127.100.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -1,0 +1,13 @@
+{
+  "asn": 151114,
+  "handle": "KSCCL-IN",
+  "description": "Karimnagar Smart City Corporation Limited",
+  "subnets": {
+    "ipv4": [
+      "103.211.168.0/23"
+    ],
+    "ipv6": [
+      "2001:df2:8340::/48"
+    ]
+  }
+}

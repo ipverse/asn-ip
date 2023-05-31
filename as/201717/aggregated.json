@@ -3,7 +3,11 @@
   "handle": "PARALLEL",
   "description": "66 Parallel LLC",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "141.101.225.0/24"
+    ],
+    "ipv6": [
+      "2a03:5a00:35::/48"
+    ]
   }
 }

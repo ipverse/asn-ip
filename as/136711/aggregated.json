@@ -4,8 +4,7 @@
   "description": "I NET COMMUNICATIONS",
   "subnets": {
     "ipv4": [
-      "103.95.12.0/24",
-      "103.102.18.0/23"
+      "103.95.12.0/24"
     ],
     "ipv6": []
   }

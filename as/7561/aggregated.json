@@ -3,10 +3,7 @@
   "handle": "SAMSUNGELEC",
   "description": "Samsung Electronics Co.",
   "subnets": {
-    "ipv4": [
-      "103.39.36.0/22",
-      "211.43.176.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

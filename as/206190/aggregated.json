@@ -4,6 +4,7 @@
   "description": "Alathrae Company for Information Technology Limited",
   "subnets": {
     "ipv4": [
+      "185.104.156.0/22",
       "185.194.8.0/22"
     ],
     "ipv6": []

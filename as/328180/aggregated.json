@@ -4,8 +4,7 @@
   "description": "Bank of Kigali Ltd",
   "subnets": {
     "ipv4": [
-      "156.38.8.0/22",
-      "156.38.14.0/23"
+      "156.38.8.0/21"
     ],
     "ipv6": []
   }

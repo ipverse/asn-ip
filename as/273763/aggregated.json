@@ -1,0 +1,11 @@
+{
+  "asn": 273763,
+  "handle": "CONEXAO-NET-FIBRA",
+  "description": "Conexao Net Fibra LTDA - ME",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2804:8bd8::/32"
+    ]
+  }
+}

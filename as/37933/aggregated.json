@@ -3,10 +3,7 @@
   "handle": "POLYFONE-AU-AP",
   "description": "Polyfone Telecom Pty Limited",
   "subnets": {
-    "ipv4": [
-      "103.198.130.0/24",
-      "202.153.64.0/20"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

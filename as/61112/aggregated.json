@@ -3,7 +3,9 @@
   "handle": "AKILELTD",
   "description": "AKILE LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.232.213.0/24"
+    ],
     "ipv6": [
       "2a0e:97c0:7d2::/48",
       "2a0e:97c0:7d4::/48"

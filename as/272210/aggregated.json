@@ -3,7 +3,9 @@
   "handle": "GIRO-TELECOMUNICACOES-BRASIL",
   "description": "GIRO TELECOMUNICACOES DO BRASIL LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "104.234.164.0/24"
+    ],
     "ipv6": []
   }
 }
