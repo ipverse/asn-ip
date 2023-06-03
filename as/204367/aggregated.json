@@ -1,0 +1,11 @@
+{
+  "asn": 204367,
+  "handle": "CBK",
+  "description": "Commercial Bank of kuwait",
+  "subnets": {
+    "ipv4": [
+      "193.42.223.0/24"
+    ],
+    "ipv6": []
+  }
+}

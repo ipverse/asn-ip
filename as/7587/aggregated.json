@@ -4,6 +4,8 @@
   "description": "TRANSMEDIA-ID",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2001:d68::/48"
+    ]
   }
 }

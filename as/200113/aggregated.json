@@ -4,7 +4,8 @@
   "description": "Global Servers LTD",
   "subnets": {
     "ipv4": [
-      "194.87.251.0/24"
+      "194.87.251.0/24",
+      "195.211.167.0/24"
     ],
     "ipv6": []
   }

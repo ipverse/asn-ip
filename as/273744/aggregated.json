@@ -3,9 +3,7 @@
   "handle": "MOG",
   "description": "MOG LTDA",
   "subnets": {
-    "ipv4": [
-      "191.7.3.0/24"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2804:8b9c::/32"
     ]

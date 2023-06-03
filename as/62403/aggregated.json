@@ -4,7 +4,7 @@
   "description": "Disk Group Ltd.",
   "subnets": {
     "ipv4": [
-      "185.36.100.0/22"
+      "185.36.100.0/24"
     ],
     "ipv6": []
   }

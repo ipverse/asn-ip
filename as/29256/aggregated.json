@@ -4,7 +4,8 @@
   "description": "Syrian Telecommunication Private Closed Joint Stock Company",
   "subnets": {
     "ipv4": [
-      "5.0.0.0/16",
+      "5.0.0.0/18",
+      "5.0.128.0/17",
       "5.104.128.0/21",
       "5.134.200.0/21",
       "5.134.224.0/19",

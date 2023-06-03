@@ -4,6 +4,7 @@
   "description": "Cloud Compliance Solutions",
   "subnets": {
     "ipv4": [
+      "38.126.217.0/24",
       "38.127.115.0/24",
       "144.86.168.0/24"
     ],

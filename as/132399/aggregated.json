@@ -4,7 +4,8 @@
   "description": "International organization of Aeronautics Telecommunications (SITA)",
   "subnets": {
     "ipv4": [
-      "57.191.64.0/22"
+      "57.191.64.0/22",
+      "57.191.95.0/24"
     ],
     "ipv6": []
   }
