@@ -3,7 +3,9 @@
   "handle": "PTT",
   "description": "High 5 Games, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "8.41.102.0/24"
+    ],
     "ipv6": []
   }
 }

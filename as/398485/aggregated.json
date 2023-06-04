@@ -4,6 +4,8 @@
   "description": "DFINITY USA Research, LLC",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2602:fb2b::/36"
+    ]
   }
 }

@@ -3,7 +3,9 @@
   "handle": "AOP",
   "description": "AOP",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "147.185.90.0/23"
+    ],
     "ipv6": [
       "2606:6f40::/32"
     ]

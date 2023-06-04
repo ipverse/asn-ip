@@ -4,6 +4,8 @@
   "description": "CF TELECOMUNICACOES LTDA",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2804:86e4::/32"
+    ]
   }
 }

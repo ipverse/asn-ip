@@ -3,10 +3,7 @@
   "handle": "BYTEANIA-LTD",
   "description": "Byteania Holdings Ltd.",
   "subnets": {
-    "ipv4": [
-      "185.177.82.0/24",
-      "185.188.7.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

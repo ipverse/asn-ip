@@ -3,9 +3,7 @@
   "handle": "MUXBROADBANDP-AP",
   "description": "MUX BROADBAND (PRIVATE) LIMITED",
   "subnets": {
-    "ipv4": [
-      "103.84.57.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

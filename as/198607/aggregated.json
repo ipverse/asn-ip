@@ -3,7 +3,10 @@
   "handle": "MATIAS-MARION",
   "description": "Matias MARION",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "163.5.158.0/24",
+      "163.5.239.0/24"
+    ],
     "ipv6": []
   }
 }

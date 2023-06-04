@@ -4,6 +4,7 @@
   "description": "Great Lakes Energy Connections Inc.",
   "subnets": {
     "ipv4": [
+      "23.154.184.0/24",
       "72.46.32.0/20",
       "96.46.0.0/20",
       "135.129.64.0/19",

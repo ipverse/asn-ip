@@ -3,10 +3,7 @@
   "handle": "GCTKL-AP",
   "description": "GA CLOUD TECHNOLOGY (HONG KONG) LIMITED",
   "subnets": {
-    "ipv4": [
-      "107.151.198.0/24",
-      "206.119.47.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

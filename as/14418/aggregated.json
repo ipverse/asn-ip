@@ -4,6 +4,7 @@
   "description": "Depository Trust \u0026 Clearing Corporation",
   "subnets": {
     "ipv4": [
+      "167.188.2.0/24",
       "167.188.44.0/24",
       "167.188.80.0/24",
       "167.188.84.0/24",
