@@ -4,7 +4,8 @@
   "description": "TOP ON SERVICOS DE MULTIMIDIA LTDA ME",
   "subnets": {
     "ipv4": [
-      "186.237.108.0/22"
+      "186.237.109.0/24",
+      "186.237.110.0/23"
     ],
     "ipv6": []
   }

@@ -4,10 +4,6 @@
   "description": "Paolo Trivisonno",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2602:feda:3d2::/47",
-      "2602:feda:3d4::/46",
-      "2602:feda:3d8::/45"
-    ]
+    "ipv6": []
   }
 }

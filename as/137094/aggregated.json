@@ -3,7 +3,10 @@
   "handle": "GCPLN",
   "description": "Genisys Communication Private Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.107.150.0/24",
+      "103.152.199.0/24"
+    ],
     "ipv6": []
   }
 }
