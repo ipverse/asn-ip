@@ -4,7 +4,7 @@
   "description": "PLANETA NET TELECOM",
   "subnets": {
     "ipv4": [
-      "45.188.148.0/24",
+      "45.188.148.0/22",
       "168.181.12.0/22"
     ],
     "ipv6": [

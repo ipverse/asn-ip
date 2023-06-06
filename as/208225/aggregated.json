@@ -3,7 +3,9 @@
   "handle": "GLOBALLOGIC-HR-ZAG",
   "description": "GlobalLogic d.d.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "213.190.24.0/24"
+    ],
     "ipv6": []
   }
 }

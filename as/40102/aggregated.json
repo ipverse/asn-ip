@@ -4,8 +4,7 @@
   "description": "Montgomery College.",
   "subnets": {
     "ipv4": [
-      "160.253.0.0/17",
-      "160.253.128.0/18"
+      "160.253.0.0/16"
     ],
     "ipv6": []
   }

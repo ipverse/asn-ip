@@ -4,6 +4,7 @@
   "description": "InfoRR Solucoes em Tecnologia",
   "subnets": {
     "ipv4": [
+      "108.165.140.0/24",
       "138.219.128.0/22"
     ],
     "ipv6": [

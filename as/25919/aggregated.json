@@ -3,9 +3,7 @@
   "handle": "CMDGL-1",
   "description": "CMD Group",
   "subnets": {
-    "ipv4": [
-      "199.164.150.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

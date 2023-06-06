@@ -3,9 +3,7 @@
   "handle": "IBM-USF-BH-AP",
   "description": "IBM Global Services Australia",
   "subnets": {
-    "ipv4": [
-      "203.184.64.0/20"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

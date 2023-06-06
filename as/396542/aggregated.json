@@ -1,0 +1,15 @@
+{
+  "asn": 396542,
+  "handle": "VRSN-AC50-340",
+  "description": "VeriSign Global Registry Services",
+  "subnets": {
+    "ipv4": [
+      "192.68.130.0/24",
+      "192.153.247.0/24"
+    ],
+    "ipv6": [
+      "2001:500:30ff::/48",
+      "2001:501:8a29::/48"
+    ]
+  }
+}

@@ -3,9 +3,7 @@
   "handle": "WASANTARA-ID",
   "description": "PT Bhakti Wasantara Net",
   "subnets": {
-    "ipv4": [
-      "202.159.64.0/19"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }
