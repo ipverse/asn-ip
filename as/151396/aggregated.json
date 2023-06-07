@@ -1,0 +1,13 @@
+{
+  "asn": 151396,
+  "handle": "VTPL-AP",
+  "description": "VNS Technology Pvt Ltd",
+  "subnets": {
+    "ipv4": [
+      "103.134.219.0/24",
+      "103.186.7.0/24",
+      "103.214.1.0/24"
+    ],
+    "ipv6": []
+  }
+}

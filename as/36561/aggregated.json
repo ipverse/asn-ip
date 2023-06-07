@@ -3,9 +3,7 @@
   "handle": "YOUTUBE",
   "description": "Google LLC",
   "subnets": {
-    "ipv4": [
-      "165.85.150.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

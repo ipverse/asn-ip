@@ -4,6 +4,7 @@
   "description": "Dmytro Moiseiev",
   "subnets": {
     "ipv4": [
+      "193.29.4.0/24",
       "193.29.8.0/24"
     ],
     "ipv6": []

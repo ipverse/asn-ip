@@ -4,9 +4,6 @@
   "description": "TANG MAN TO ANTONY",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2a12:dd47:8029::/48",
-      "2a12:dd47:8048::/48"
-    ]
+    "ipv6": []
   }
 }

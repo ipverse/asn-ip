@@ -3,7 +3,9 @@
   "handle": "ASKRIVONET",
   "description": "Spolek Krivonet",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.159.92.0/22"
+    ],
     "ipv6": []
   }
 }

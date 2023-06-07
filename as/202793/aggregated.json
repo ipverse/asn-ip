@@ -4,6 +4,7 @@
   "description": "OCTET TELECOM LIMITED",
   "subnets": {
     "ipv4": [
+      "65.110.44.0/24",
       "185.153.172.0/22"
     ],
     "ipv6": [

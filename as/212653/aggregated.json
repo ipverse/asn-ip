@@ -4,6 +4,7 @@
   "description": "NETFY SARL",
   "subnets": {
     "ipv4": [
+      "185.185.43.0/24",
       "193.34.79.0/24"
     ],
     "ipv6": [

@@ -4,6 +4,7 @@
   "description": "Mailbox Internet Hizmetleri Ltd. Sti.",
   "subnets": {
     "ipv4": [
+      "45.9.2.0/24",
       "89.43.41.0/24"
     ],
     "ipv6": []

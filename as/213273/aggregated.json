@@ -4,6 +4,7 @@
   "description": "OSISM GmbH",
   "subnets": {
     "ipv4": [
+      "81.163.192.0/23",
       "81.163.194.0/24"
     ],
     "ipv6": [

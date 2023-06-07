@@ -3,7 +3,9 @@
   "handle": "IDNIC-CDI-ID",
   "description": "PT Centris Data Indonesia",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.191.94.0/24"
+    ],
     "ipv6": []
   }
 }

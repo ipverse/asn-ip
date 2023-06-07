@@ -3,7 +3,13 @@
   "handle": "BROWNRICE-INTERNET-1",
   "description": "Brownrice Internet, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "8.28.86.0/23",
+      "45.141.129.0/24",
+      "158.51.40.0/22",
+      "172.97.100.0/22",
+      "209.182.252.0/22"
+    ],
     "ipv6": []
   }
 }

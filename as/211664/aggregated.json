@@ -4,6 +4,7 @@
   "description": "Q-MEX Networks GmbH",
   "subnets": {
     "ipv4": [
+      "91.232.22.0/23",
       "185.226.241.0/24"
     ],
     "ipv6": []

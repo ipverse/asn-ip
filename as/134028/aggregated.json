@@ -1,9 +1,11 @@
 {
   "asn": 134028,
-  "handle": "RESERVED",
-  "description": "IRINN AS-BLOCK",
+  "handle": "AKASI",
+  "description": "AKASI NETWORKS PVT LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.58.42.0/24"
+    ],
     "ipv6": []
   }
 }
