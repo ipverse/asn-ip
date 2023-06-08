@@ -3,7 +3,9 @@
   "handle": "HOSCO",
   "description": "PJSC South Hozmosgan Steel (Hosco)",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.196.151.0/24"
+    ],
     "ipv6": []
   }
 }

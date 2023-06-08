@@ -3,7 +3,9 @@
   "handle": "NBIP-NAWAS-DK",
   "description": "Stichting NBIP-NaWas",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.131.61.0/24"
+    ],
     "ipv6": []
   }
 }

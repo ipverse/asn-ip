@@ -4,7 +4,8 @@
   "description": "LINKPLUS COMERCIO DE SUPRIMENTOS DE INFORMATICA",
   "subnets": {
     "ipv4": [
-      "181.192.124.0/22"
+      "181.192.124.0/23",
+      "181.192.127.0/24"
     ],
     "ipv6": []
   }

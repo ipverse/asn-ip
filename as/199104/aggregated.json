@@ -3,9 +3,7 @@
   "handle": "DB-POLAND",
   "description": "Deutsche Bank AG",
   "subnets": {
-    "ipv4": [
-      "160.83.24.0/22"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

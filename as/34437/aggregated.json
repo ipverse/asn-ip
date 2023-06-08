@@ -3,11 +3,7 @@
   "handle": "COVERTHART",
   "description": "CovertHart Networks",
   "subnets": {
-    "ipv4": [
-      "209.46.0.0/24"
-    ],
-    "ipv6": [
-      "2602:2ac::/36"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

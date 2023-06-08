@@ -3,10 +3,7 @@
   "handle": "GLOBALOFFSHORE",
   "description": "Global Offshore Host Limited",
   "subnets": {
-    "ipv4": [
-      "104.160.4.0/24",
-      "104.160.10.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

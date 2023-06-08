@@ -1,0 +1,11 @@
+{
+  "asn": 40846,
+  "handle": "ALN-ASN-0",
+  "description": "Atomic Link Networks",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2602:2e4:100::/48"
+    ]
+  }
+}

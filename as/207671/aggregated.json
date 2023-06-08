@@ -4,9 +4,6 @@
   "description": "Julian Voss",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2001:678:bbc::/48",
-      "2a0f:4ac4::/41"
-    ]
+    "ipv6": []
   }
 }

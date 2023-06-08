@@ -3,11 +3,7 @@
   "handle": "MDS-INTERNET-SERVIO",
   "description": "MDS INTERNET E SERVIO DE INFORMTICA LTDA. ME",
   "subnets": {
-    "ipv4": [
-      "45.224.168.0/22"
-    ],
-    "ipv6": [
-      "2804:4554::/32"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

@@ -4,8 +4,6 @@
   "description": "Cloudie Networks, LLC.",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2602:fba1:666::/48"
-    ]
+    "ipv6": []
   }
 }

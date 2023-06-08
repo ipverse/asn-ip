@@ -1,0 +1,11 @@
+{
+  "asn": 62883,
+  "handle": "SCCMHA",
+  "description": "Saginaw County Community Mental Health Authority",
+  "subnets": {
+    "ipv4": [
+      "206.168.185.0/24"
+    ],
+    "ipv6": []
+  }
+}
