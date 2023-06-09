@@ -1,0 +1,13 @@
+{
+  "asn": 63065,
+  "handle": "HIBOO-NETWORKS",
+  "description": "Hiboo Networks Inc.",
+  "subnets": {
+    "ipv4": [
+      "64.65.56.0/22"
+    ],
+    "ipv6": [
+      "2607:15c0::/32"
+    ]
+  }
+}

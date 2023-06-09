@@ -4,6 +4,7 @@
   "description": "NRB-CAPITAL llc",
   "subnets": {
     "ipv4": [
+      "46.8.27.0/24",
       "193.233.105.0/24"
     ],
     "ipv6": []

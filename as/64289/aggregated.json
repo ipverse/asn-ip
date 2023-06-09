@@ -1,0 +1,11 @@
+{
+  "asn": 64289,
+  "handle": "MAC-ARNE-LLC",
+  "description": "Macarne LLC",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2602:2ea::/45"
+    ]
+  }
+}

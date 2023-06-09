@@ -1,0 +1,12 @@
+{
+  "asn": 199018,
+  "handle": "ASXKRME",
+  "description": "Xkrme Network LLC",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a0a:6040:6408::/48",
+      "2a0a:6040:6410::/48"
+    ]
+  }
+}

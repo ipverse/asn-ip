@@ -3,10 +3,7 @@
   "handle": "LOGMEIN-EMEA-1",
   "description": "LogMeIn, Inc.",
   "subnets": {
-    "ipv4": [
-      "64.74.17.0/24",
-      "64.74.18.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

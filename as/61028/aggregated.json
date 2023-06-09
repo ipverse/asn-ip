@@ -4,7 +4,8 @@
   "description": "Stadtwerke Schwedt GmbH",
   "subnets": {
     "ipv4": [
-      "109.226.166.0/24"
+      "109.226.166.0/24",
+      "109.226.181.0/24"
     ],
     "ipv6": []
   }

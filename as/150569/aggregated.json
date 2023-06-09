@@ -1,0 +1,11 @@
+{
+  "asn": 150569,
+  "handle": "WWF-IN",
+  "description": "WORLDWIDE FIBER",
+  "subnets": {
+    "ipv4": [
+      "103.99.146.0/23"
+    ],
+    "ipv6": []
+  }
+}

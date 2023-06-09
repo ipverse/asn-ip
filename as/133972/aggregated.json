@@ -4,8 +4,7 @@
   "description": "sky televentures services pvt ltd",
   "subnets": {
     "ipv4": [
-      "192.140.228.0/23",
-      "192.140.231.0/24"
+      "192.140.228.0/22"
     ],
     "ipv6": []
   }

@@ -3,7 +3,9 @@
   "handle": "KALPAK-MUKHOPADHYAY-NETWORK-LAB",
   "description": "Kalpak Mukhopadhyay",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "44.31.175.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -1,0 +1,11 @@
+{
+  "asn": 400538,
+  "handle": "QSI-NETWORK-SOLUTIONS",
+  "description": "QSi Network Solutions",
+  "subnets": {
+    "ipv4": [
+      "159.112.239.0/24"
+    ],
+    "ipv6": []
+  }
+}
