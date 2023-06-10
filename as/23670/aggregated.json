@@ -3,11 +3,7 @@
   "handle": "HOSTDC-AU",
   "description": "Oz Servers Pty Ltd",
   "subnets": {
-    "ipv4": [
-      "202.51.169.0/24",
-      "202.51.170.0/24",
-      "203.9.26.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

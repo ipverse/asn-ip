@@ -4,6 +4,7 @@
   "description": "Titan DataCenters France SAS",
   "subnets": {
     "ipv4": [
+      "94.143.225.0/24",
       "185.63.172.0/22",
       "213.225.239.0/24"
     ],

@@ -3,12 +3,7 @@
   "handle": "PL-MAVERICK",
   "description": "Maverick Network sp. z o.o",
   "subnets": {
-    "ipv4": [
-      "194.116.252.0/23",
-      "194.187.72.0/22"
-    ],
-    "ipv6": [
-      "2a01:5e00::/32"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

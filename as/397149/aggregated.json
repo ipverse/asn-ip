@@ -1,0 +1,11 @@
+{
+  "asn": 397149,
+  "handle": "SDSU-SNAPDRAGON",
+  "description": "San Diego State University",
+  "subnets": {
+    "ipv4": [
+      "70.164.115.0/24"
+    ],
+    "ipv6": []
+  }
+}

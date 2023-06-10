@@ -1,0 +1,11 @@
+{
+  "asn": 400004,
+  "handle": "SECURENET",
+  "description": "SecureNet",
+  "subnets": {
+    "ipv4": [
+      "23.186.16.0/24"
+    ],
+    "ipv6": []
+  }
+}

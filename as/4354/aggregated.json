@@ -4,7 +4,6 @@
   "description": "EnerNOC, Inc.",
   "subnets": {
     "ipv4": [
-      "8.192.1.0/24",
       "8.192.160.0/24"
     ],
     "ipv6": []

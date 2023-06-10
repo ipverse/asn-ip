@@ -3,9 +3,7 @@
   "handle": "HTNETWORKS-AP",
   "description": "HT Networks Co Ltd",
   "subnets": {
-    "ipv4": [
-      "103.120.121.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "DKBS",
   "description": "DKB Service GmbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.234.38.0/23"
+    ],
     "ipv6": []
   }
 }

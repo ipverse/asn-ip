@@ -1,0 +1,11 @@
+{
+  "asn": 50135,
+  "handle": "EPIAS",
+  "description": "Enerji Piyasalari Isletme A.S.",
+  "subnets": {
+    "ipv4": [
+      "92.42.4.0/24"
+    ],
+    "ipv6": []
+  }
+}

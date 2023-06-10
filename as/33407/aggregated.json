@@ -3,7 +3,9 @@
   "handle": "STRAYERUNVERSITY",
   "description": "Strayer University",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.103.22.0/24"
+    ],
     "ipv6": []
   }
 }

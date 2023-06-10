@@ -3,7 +3,10 @@
   "handle": "XDEER-AP",
   "description": "Xdeer Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "85.133.218.0/24",
+      "183.90.190.0/24"
+    ],
     "ipv6": []
   }
 }
