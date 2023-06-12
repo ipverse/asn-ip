@@ -3,9 +3,7 @@
   "handle": "TXNET",
   "description": "TXNet Communications LLC",
   "subnets": {
-    "ipv4": [
-      "204.197.168.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

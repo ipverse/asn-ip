@@ -1,0 +1,11 @@
+{
+  "asn": 198170,
+  "handle": "WANHOST",
+  "description": "Association WAN-HOST",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a10:4646:361::/48"
+    ]
+  }
+}
