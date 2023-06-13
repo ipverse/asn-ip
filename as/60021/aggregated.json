@@ -3,9 +3,7 @@
   "handle": "EDGE",
   "description": "EDGE CLOUD NETWORK TECHNOLOGY PTE. LTD.",
   "subnets": {
-    "ipv4": [
-      "203.147.240.0/21"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

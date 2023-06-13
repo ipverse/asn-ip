@@ -3,7 +3,9 @@
   "handle": "INESCOP",
   "description": "INSTITUTO TECNOLOGICO DEL CALZADO Y CONEXAS INESCOP",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.76.31.0/24"
+    ],
     "ipv6": []
   }
 }

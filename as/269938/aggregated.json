@@ -3,7 +3,9 @@
   "handle": "ADN-TELECOM",
   "description": "ADN TELECOM S.A.C.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "190.83.60.0/23"
+    ],
     "ipv6": []
   }
 }

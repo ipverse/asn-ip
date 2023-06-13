@@ -3,7 +3,9 @@
   "handle": "TPCHEL",
   "description": "JSC Teplopribor",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.208.183.0/24"
+    ],
     "ipv6": []
   }
 }

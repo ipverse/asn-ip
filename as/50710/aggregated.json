@@ -1,13 +1,13 @@
 {
   "asn": 50710,
   "handle": "EARTHLINK",
-  "description": "EarthLink Ltd. Communications\u0026Internet Services",
+  "description": "Earthlink Telecommunications Equipment Trading \u0026 Services DMCC",
   "subnets": {
     "ipv4": [
       "37.237.124.0/22",
       "37.237.187.0/24",
       "78.109.236.0/23",
-      "185.52.100.0/24"
+      "185.52.100.0/23"
     ],
     "ipv6": []
   }

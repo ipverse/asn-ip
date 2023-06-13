@@ -3,7 +3,9 @@
   "handle": "WFC",
   "description": "LLC Center Buketov",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "62.76.203.0/24"
+    ],
     "ipv6": []
   }
 }

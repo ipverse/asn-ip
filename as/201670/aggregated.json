@@ -4,6 +4,7 @@
   "description": "S.C. INFOTECH-GRUP S.R.L.",
   "subnets": {
     "ipv4": [
+      "163.5.184.0/24",
       "185.229.64.0/24"
     ],
     "ipv6": [

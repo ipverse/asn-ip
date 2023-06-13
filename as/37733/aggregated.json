@@ -1,0 +1,13 @@
+{
+  "asn": 37733,
+  "handle": "STHD1",
+  "description": "SLASH TRES HAUT DEBIT",
+  "subnets": {
+    "ipv4": [
+      "102.215.220.0/23"
+    ],
+    "ipv6": [
+      "2c0f:6680::/32"
+    ]
+  }
+}
