@@ -1,9 +1,11 @@
 {
   "asn": 47821,
   "handle": "IT-MAX",
-  "description": "INTERNET INVEST LIMITED",
+  "description": "Skillvps LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.242.242.0/24"
+    ],
     "ipv6": []
   }
 }

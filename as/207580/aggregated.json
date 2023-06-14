@@ -3,7 +3,11 @@
   "handle": "GREENBONE-NETWORKS",
   "description": "Greenbone AG",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.135.104.0/24"
+    ],
+    "ipv6": [
+      "2a0e:6b40::/48"
+    ]
   }
 }

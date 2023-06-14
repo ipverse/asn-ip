@@ -4,7 +4,8 @@
   "description": "The Dun \u0026 Bradstreet Corporation",
   "subnets": {
     "ipv4": [
-      "159.137.48.0/22",
+      "159.137.48.0/23",
+      "159.137.51.0/24",
       "159.137.52.0/23"
     ],
     "ipv6": []

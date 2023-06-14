@@ -3,7 +3,9 @@
   "handle": "VISLOM-LIMITED",
   "description": "Semih Mehmet CAN",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "85.115.210.0/24"
+    ],
     "ipv6": []
   }
 }

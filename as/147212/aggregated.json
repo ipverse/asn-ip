@@ -3,7 +3,9 @@
   "handle": "PAYNET-IN",
   "description": "Paynet Digital Network Private Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.97.244.0/23"
+    ],
     "ipv6": []
   }
 }

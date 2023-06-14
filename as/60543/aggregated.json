@@ -1,0 +1,12 @@
+{
+  "asn": 60543,
+  "handle": "AVAILABLE",
+  "description": "CIS VALLEY SAS",
+  "subnets": {
+    "ipv4": [
+      "91.238.150.0/23",
+      "195.78.82.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -4,8 +4,11 @@
   "description": "BSB TIC SOLUCES LTDA - EPP",
   "subnets": {
     "ipv4": [
+      "45.4.184.0/22",
       "191.5.172.0/24"
     ],
-    "ipv6": []
+    "ipv6": [
+      "2804:39cc::/32"
+    ]
   }
 }

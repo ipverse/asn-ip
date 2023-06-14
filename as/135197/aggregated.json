@@ -4,7 +4,7 @@
   "description": "Multi Commodity Exchange Of India Ltd",
   "subnets": {
     "ipv4": [
-      "103.216.76.0/24",
+      "103.216.76.0/23",
       "103.216.79.0/24"
     ],
     "ipv6": []

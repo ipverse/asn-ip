@@ -3,7 +3,9 @@
   "handle": "SMCC-ASN-01",
   "description": "Southwest Mississippi Community College",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "207.181.46.0/24"
+    ],
     "ipv6": []
   }
 }
