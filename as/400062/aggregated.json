@@ -1,0 +1,11 @@
+{
+  "asn": 400062,
+  "handle": "CALL-NETWORKS",
+  "description": "Call Networks, Inc",
+  "subnets": {
+    "ipv4": [
+      "165.140.106.0/24"
+    ],
+    "ipv6": []
+  }
+}

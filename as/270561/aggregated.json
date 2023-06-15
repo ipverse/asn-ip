@@ -4,7 +4,8 @@
   "description": "net rapida telecomunicaes do brasil",
   "subnets": {
     "ipv4": [
-      "189.85.116.0/22"
+      "189.85.116.0/24",
+      "189.85.118.0/23"
     ],
     "ipv6": [
       "2804:6de0::/32"

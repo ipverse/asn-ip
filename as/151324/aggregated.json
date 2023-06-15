@@ -1,0 +1,11 @@
+{
+  "asn": 151324,
+  "handle": "BCTNI-AP",
+  "description": "Bongao Cable Television Network Inc.",
+  "subnets": {
+    "ipv4": [
+      "103.196.176.0/23"
+    ],
+    "ipv6": []
+  }
+}

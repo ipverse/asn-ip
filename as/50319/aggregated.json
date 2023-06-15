@@ -1,9 +1,11 @@
 {
   "asn": 50319,
-  "handle": "NORISKITGROUP",
+  "handle": "DUSTIN-MS-NL",
   "description": "NORISK IT Groep B.V.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.84.196.0/22"
+    ],
     "ipv6": []
   }
 }

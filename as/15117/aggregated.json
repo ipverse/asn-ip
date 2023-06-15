@@ -4,7 +4,7 @@
   "description": "Anheuser-Busch Companies Inc.",
   "subnets": {
     "ipv4": [
-      "151.145.128.0/17",
+      "151.145.224.0/19",
       "170.100.240.0/20"
     ],
     "ipv6": []

@@ -3,11 +3,7 @@
   "handle": "HOSTCRAM",
   "description": "HostCram LLC",
   "subnets": {
-    "ipv4": [
-      "23.26.68.0/24",
-      "23.26.91.0/24",
-      "166.0.29.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

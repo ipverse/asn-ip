@@ -1,0 +1,11 @@
+{
+  "asn": 204946,
+  "handle": "EAFNOSUPPORT",
+  "description": "EAFNOSUPPORT LTD",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2001:678:b0c::/48"
+    ]
+  }
+}

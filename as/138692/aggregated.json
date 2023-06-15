@@ -3,10 +3,7 @@
   "handle": "POLLYIT-AP",
   "description": "Polly IT",
   "subnets": {
-    "ipv4": [
-      "103.136.201.0/24",
-      "103.136.202.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }
