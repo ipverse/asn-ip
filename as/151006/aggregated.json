@@ -1,0 +1,11 @@
+{
+  "asn": 151006,
+  "handle": "IDNIC-NIMNET-ID",
+  "description": "PT Nesta Indo Media",
+  "subnets": {
+    "ipv4": [
+      "103.217.224.0/24"
+    ],
+    "ipv6": []
+  }
+}

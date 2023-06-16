@@ -3,7 +3,9 @@
   "handle": "RTCLOUD-3RD",
   "description": "RTCloud, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.107.130.0/23"
+    ],
     "ipv6": []
   }
 }

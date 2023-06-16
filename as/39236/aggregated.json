@@ -1,0 +1,13 @@
+{
+  "asn": 39236,
+  "handle": "NO-NRA",
+  "description": "Nedre Romerike Avlopsselskap IKS",
+  "subnets": {
+    "ipv4": [
+      "77.74.220.0/24"
+    ],
+    "ipv6": [
+      "2001:678:7cc::/48"
+    ]
+  }
+}

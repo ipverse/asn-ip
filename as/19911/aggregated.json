@@ -1,0 +1,11 @@
+{
+  "asn": 19911,
+  "handle": "SECURITYSERVICES",
+  "description": "Neustar Security Services",
+  "subnets": {
+    "ipv4": [
+      "74.115.25.0/24"
+    ],
+    "ipv6": []
+  }
+}

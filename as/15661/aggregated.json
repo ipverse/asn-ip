@@ -4,7 +4,7 @@
   "description": "Bank J. Safra Sarasin AG",
   "subnets": {
     "ipv4": [
-      "160.219.0.0/16"
+      "160.219.128.0/20"
     ],
     "ipv6": []
   }

@@ -3,7 +3,9 @@
   "handle": "PARLEMENT-01",
   "description": "Parlement Technologies, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.231.234.0/24"
+    ],
     "ipv6": []
   }
 }
