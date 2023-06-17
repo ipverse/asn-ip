@@ -4,7 +4,8 @@
   "description": "State Educational Institution of Higher Vocational Education The Bonch-Bruevich Saint-Petersburg State University of Telecommunications",
   "subnets": {
     "ipv4": [
-      "91.238.228.0/22"
+      "91.238.228.0/22",
+      "94.140.222.0/24"
     ],
     "ipv6": []
   }

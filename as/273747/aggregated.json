@@ -3,9 +3,7 @@
   "handle": "TECH-IN-SOLUCOES",
   "description": "TECH IN SOLUCOES LTDA",
   "subnets": {
-    "ipv4": [
-      "179.109.121.0/24"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2804:8ba8::/32"
     ]

@@ -3,9 +3,7 @@
   "handle": "BYWAVE",
   "description": "BYWAVE NETWORK LTD",
   "subnets": {
-    "ipv4": [
-      "43.243.193.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

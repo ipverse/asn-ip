@@ -3,10 +3,7 @@
   "handle": "KUTCHTELELINK-IN",
   "description": "Kutch Telelink Private Limited",
   "subnets": {
-    "ipv4": [
-      "36.255.242.0/23",
-      "103.30.224.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

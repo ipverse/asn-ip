@@ -3,9 +3,7 @@
   "handle": "IDNIC-AMANDANET-ID",
   "description": "AMANDANET",
   "subnets": {
-    "ipv4": [
-      "103.171.244.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

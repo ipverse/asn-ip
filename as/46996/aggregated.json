@@ -4,7 +4,10 @@
   "description": "New York City Health \u0026 Hospitals Corporation",
   "subnets": {
     "ipv4": [
-      "67.221.16.0/24"
+      "64.251.37.0/24",
+      "64.251.38.0/24",
+      "67.221.16.0/24",
+      "67.221.18.0/23"
     ],
     "ipv6": []
   }

@@ -1,0 +1,11 @@
+{
+  "asn": 35864,
+  "handle": "APUS-5",
+  "description": "American Public University System",
+  "subnets": {
+    "ipv4": [
+      "206.152.131.0/24"
+    ],
+    "ipv6": []
+  }
+}

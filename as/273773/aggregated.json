@@ -1,0 +1,11 @@
+{
+  "asn": 273773,
+  "handle": "UP-TELECOMUNICAES",
+  "description": "UP TELECOMUNICAES",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2804:8c00::/32"
+    ]
+  }
+}

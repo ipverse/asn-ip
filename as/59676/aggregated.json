@@ -1,9 +1,16 @@
 {
   "asn": 59676,
-  "handle": "A4N-EXT",
+  "handle": "A4N-OFFNET",
   "description": "Network Services Ltd.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "31.13.6.0/24",
+      "91.212.90.0/24",
+      "95.215.175.0/24"
+    ],
+    "ipv6": [
+      "2001:67c:2278::/48",
+      "2a00:10e8:2::/48"
+    ]
   }
 }

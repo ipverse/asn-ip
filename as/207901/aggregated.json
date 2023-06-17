@@ -4,8 +4,7 @@
   "description": "NetPOP di Christian Berti",
   "subnets": {
     "ipv4": [
-      "195.206.246.0/23",
-      "195.216.202.0/23"
+      "195.206.246.0/23"
     ],
     "ipv6": [
       "2a09:5a00::/32"

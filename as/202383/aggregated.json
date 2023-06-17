@@ -1,0 +1,12 @@
+{
+  "asn": 202383,
+  "handle": "EL-K-STIL",
+  "description": "EL.K.STIL LLC",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2001:678:6c4::/48",
+      "2001:678:724::/48"
+    ]
+  }
+}
