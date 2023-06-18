@@ -4,6 +4,7 @@
   "description": "Walla Walla University",
   "subnets": {
     "ipv4": [
+      "74.85.80.0/21",
       "192.147.172.0/23"
     ],
     "ipv6": []

@@ -1,0 +1,11 @@
+{
+  "asn": 400644,
+  "handle": "BGPKIT-LLC",
+  "description": "BGPKIT LLC",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2620:aa:a000::/48"
+    ]
+  }
+}

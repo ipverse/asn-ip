@@ -3,7 +3,9 @@
   "handle": "IDNIC-PHINISIDATA-ID",
   "description": "PT Phinisi Global Data",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.101.155.0/24"
+    ],
     "ipv6": []
   }
 }

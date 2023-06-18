@@ -3,7 +3,10 @@
   "handle": "KOMETA",
   "description": "KOMETA LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "5.8.80.0/21",
+      "31.44.176.0/21"
+    ],
     "ipv6": []
   }
 }

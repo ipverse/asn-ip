@@ -4,6 +4,7 @@
   "description": "SCS Broadband",
   "subnets": {
     "ipv4": [
+      "74.114.123.0/24",
       "141.193.5.0/24"
     ],
     "ipv6": []
