@@ -3,7 +3,10 @@
   "handle": "CLASSIC-GOLD-FUTERS-CSLOXINFO-TH",
   "description": "CS Loxinfo Public Company Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "61.90.157.0/24",
+      "202.183.202.0/24"
+    ],
     "ipv6": []
   }
 }

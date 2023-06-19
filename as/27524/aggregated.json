@@ -3,7 +3,9 @@
   "handle": "XEEX-COMMUNICATIONS",
   "description": "OCTALION INC.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "162.213.131.0/24"
+    ],
     "ipv6": []
   }
 }
