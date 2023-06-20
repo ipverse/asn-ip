@@ -1,0 +1,11 @@
+{
+  "asn": 14213,
+  "handle": "MONTEREY-BAY-K12",
+  "description": "Monterey County Office of Education",
+  "subnets": {
+    "ipv4": [
+      "205.155.53.0/24"
+    ],
+    "ipv6": []
+  }
+}

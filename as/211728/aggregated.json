@@ -3,9 +3,7 @@
   "handle": "GEODE",
   "description": "Geode Host AS",
   "subnets": {
-    "ipv4": [
-      "166.0.244.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

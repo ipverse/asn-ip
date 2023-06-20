@@ -1,0 +1,11 @@
+{
+  "asn": 273000,
+  "handle": "TELCOM-MIKROTIK-PERU",
+  "description": "TELCOM MIKROTIK PERU S.A.C.",
+  "subnets": {
+    "ipv4": [
+      "38.56.118.0/23"
+    ],
+    "ipv6": []
+  }
+}

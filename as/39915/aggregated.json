@@ -3,11 +3,7 @@
   "handle": "PREM",
   "description": "Premiere Conferencing Ireland Ltd",
   "subnets": {
-    "ipv4": [
-      "80.75.210.0/24",
-      "80.75.212.0/24",
-      "193.37.37.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

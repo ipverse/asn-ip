@@ -4,7 +4,8 @@
   "description": "GUJARAT ISP SERVICES LIMITED",
   "subnets": {
     "ipv4": [
-      "103.177.192.0/24"
+      "103.177.192.0/24",
+      "103.218.105.0/24"
     ],
     "ipv6": []
   }

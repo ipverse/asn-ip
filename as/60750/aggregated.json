@@ -4,7 +4,6 @@
   "description": "Falco ISP Services B.V.",
   "subnets": {
     "ipv4": [
-      "85.203.11.0/24",
       "185.26.108.0/22"
     ],
     "ipv6": [

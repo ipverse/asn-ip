@@ -4,7 +4,7 @@
   "description": "OESTE SERVICOS DE INTERNET LTDA.",
   "subnets": {
     "ipv4": [
-      "179.42.92.0/23"
+      "179.42.92.0/24"
     ],
     "ipv6": [
       "2804:76f8::/32"

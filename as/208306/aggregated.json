@@ -3,7 +3,9 @@
   "handle": "LARSA",
   "description": "Larsa Mountain for Information Technology Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "176.222.63.0/24"
+    ],
     "ipv6": []
   }
 }

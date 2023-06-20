@@ -4,7 +4,9 @@
   "description": "Fort Bend Independent School District",
   "subnets": {
     "ipv4": [
-      "209.34.56.0/24"
+      "168.69.253.0/24",
+      "209.34.56.0/24",
+      "209.160.234.0/24"
     ],
     "ipv6": []
   }

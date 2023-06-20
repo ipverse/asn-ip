@@ -3,10 +3,7 @@
   "handle": "ETS-TELCO-LAYTON-UT-1103",
   "description": "ETS TELECOM",
   "subnets": {
-    "ipv4": [
-      "23.147.88.0/24",
-      "107.161.52.0/22"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

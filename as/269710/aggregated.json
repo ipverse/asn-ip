@@ -4,8 +4,7 @@
   "description": "GIGA NET SERVIOS DE INTERNET LTDA",
   "subnets": {
     "ipv4": [
-      "190.112.149.0/24",
-      "190.112.151.0/24"
+      "190.112.148.0/22"
     ],
     "ipv6": [
       "2804:68b4::/34",

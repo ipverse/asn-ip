@@ -3,10 +3,7 @@
   "handle": "AUREON",
   "description": "Aureon Network Services",
   "subnets": {
-    "ipv4": [
-      "70.35.0.0/24",
-      "206.72.27.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }
