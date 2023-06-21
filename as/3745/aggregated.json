@@ -4,6 +4,8 @@
   "description": "NTT DATA Services Holdings Corporation",
   "subnets": {
     "ipv4": [
+      "102.129.66.0/24",
+      "102.129.72.0/24",
       "148.9.64.0/18",
       "148.9.242.0/23",
       "148.9.244.0/23"

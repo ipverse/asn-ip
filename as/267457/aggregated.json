@@ -3,9 +3,7 @@
   "handle": "INTERMAX-INTERNET",
   "description": "INTERMAX INTERNET LTDA",
   "subnets": {
-    "ipv4": [
-      "181.191.192.0/22"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

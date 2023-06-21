@@ -1,0 +1,11 @@
+{
+  "asn": 400530,
+  "handle": "DCS-01",
+  "description": "Dubuque Community Schools",
+  "subnets": {
+    "ipv4": [
+      "198.190.197.0/24"
+    ],
+    "ipv6": []
+  }
+}

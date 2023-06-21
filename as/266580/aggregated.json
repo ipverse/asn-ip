@@ -3,7 +3,9 @@
   "handle": "PC-INFO-TELECOM-EIRELI",
   "description": "PC INFO TELECOM EIRELI - ME",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.7.48.0/22"
+    ],
     "ipv6": []
   }
 }

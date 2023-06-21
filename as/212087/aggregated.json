@@ -1,9 +1,11 @@
 {
   "asn": 212087,
-  "handle": "GERRIEVANBOVEN",
-  "description": "Gerrie van boven ltd.",
+  "handle": "JOTELULU",
+  "description": "JOTELULU S.L.U.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "154.49.232.0/23"
+    ],
     "ipv6": []
   }
 }

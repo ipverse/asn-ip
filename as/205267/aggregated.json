@@ -1,0 +1,11 @@
+{
+  "asn": 205267,
+  "handle": "NOVALINK-NETWORKS",
+  "description": "NovaLink Networks Ltd.",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a12:4946:4040::/44"
+    ]
+  }
+}

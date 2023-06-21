@@ -4,7 +4,8 @@
   "description": "A B DA SILVA TELECOMUNICACOES",
   "subnets": {
     "ipv4": [
-      "45.163.192.0/22"
+      "45.163.192.0/22",
+      "186.211.48.0/20"
     ],
     "ipv6": [
       "2804:5304::/32"

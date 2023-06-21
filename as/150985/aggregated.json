@@ -1,0 +1,11 @@
+{
+  "asn": 150985,
+  "handle": "IDNIC-YADICA-ID",
+  "description": "PT Yadica Multimedia Nusantara",
+  "subnets": {
+    "ipv4": [
+      "103.228.18.0/24"
+    ],
+    "ipv6": []
+  }
+}

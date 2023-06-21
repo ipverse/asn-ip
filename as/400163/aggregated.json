@@ -1,0 +1,11 @@
+{
+  "asn": 400163,
+  "handle": "REDCREEK-01",
+  "description": "Red Creek Telecom",
+  "subnets": {
+    "ipv4": [
+      "23.137.232.0/24"
+    ],
+    "ipv6": []
+  }
+}
