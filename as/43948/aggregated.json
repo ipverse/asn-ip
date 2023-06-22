@@ -3,11 +3,7 @@
   "handle": "GLESYS",
   "description": "GleSYS AB",
   "subnets": {
-    "ipv4": [
-      "193.108.196.0/24"
-    ],
-    "ipv6": [
-      "2a02:752:2::/48"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

@@ -3,10 +3,7 @@
   "handle": "SPOKEN",
   "description": "Spoken Communications",
   "subnets": {
-    "ipv4": [
-      "69.8.228.0/24",
-      "216.116.138.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

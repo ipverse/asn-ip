@@ -4,6 +4,7 @@
   "description": "IXcellerate LLC",
   "subnets": {
     "ipv4": [
+      "185.1.67.0/24",
       "185.90.144.0/22"
     ],
     "ipv6": []

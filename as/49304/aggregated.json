@@ -3,7 +3,11 @@
   "handle": "SAKURA",
   "description": "SAKURA LINK LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.247.177.0/24",
+      "103.25.84.0/22",
+      "146.19.135.0/24"
+    ],
     "ipv6": [
       "2a10:cc44:15c::/48"
     ]

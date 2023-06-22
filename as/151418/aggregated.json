@@ -1,0 +1,12 @@
+{
+  "asn": 151418,
+  "handle": "JUNKAI-AP",
+  "description": "Ningbo Dahuamao Information Technology Co Ltd",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2406:840:9102::/48",
+      "2406:840:9104::/48"
+    ]
+  }
+}

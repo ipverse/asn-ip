@@ -4,6 +4,9 @@
   "description": "City of Westfield (Gas \u0026 Electric Light Department)",
   "subnets": {
     "ipv4": [
+      "38.52.224.0/21",
+      "38.52.232.0/22",
+      "38.52.236.0/24",
       "107.189.32.0/20",
       "107.189.48.0/21",
       "107.189.56.0/23",

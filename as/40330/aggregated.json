@@ -3,7 +3,9 @@
   "handle": "LSNB",
   "description": "Lone Star National Bank",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.129.76.0/24"
+    ],
     "ipv6": []
   }
 }

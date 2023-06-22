@@ -1,9 +1,11 @@
 {
   "asn": 208398,
-  "handle": "GRAPHICSRED",
-  "description": "Graphic.red, Marjeta Kovacic s.p.",
+  "handle": "TELETECH",
+  "description": "Teletech d.o.o. Beograd",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a02:6b8::/29"
+    ]
   }
 }

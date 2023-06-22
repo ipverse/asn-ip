@@ -4,7 +4,8 @@
   "description": "Isofone Communications LLC",
   "subnets": {
     "ipv4": [
-      "23.142.27.0/24"
+      "23.142.27.0/24",
+      "108.165.47.0/24"
     ],
     "ipv6": []
   }

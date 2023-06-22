@@ -1,9 +1,11 @@
 {
   "asn": 212722,
-  "handle": "NEXTWAVE-ISP",
-  "description": "ALMASFOOFA for Communication \u0026 Internet Ltd",
+  "handle": "HOOP7MOBTELECOM",
+  "description": "7HOOP MOB TELECOM LLC",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a10:500::/32"
+    ]
   }
 }

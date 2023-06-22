@@ -4,8 +4,6 @@
   "description": "Dynu Systems Incorporated",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2600:c05:3010::/48"
-    ]
+    "ipv6": []
   }
 }

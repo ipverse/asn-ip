@@ -4,6 +4,7 @@
   "description": "SEQURE NETWORKS SRL",
   "subnets": {
     "ipv4": [
+      "38.156.246.0/24",
       "204.157.251.0/24"
     ],
     "ipv6": [

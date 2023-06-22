@@ -3,7 +3,9 @@
   "handle": "RRNET-PROVEDOR",
   "description": "RRNET PROVEDOR",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "200.26.240.0/22"
+    ],
     "ipv6": []
   }
 }
