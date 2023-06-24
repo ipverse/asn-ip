@@ -1,0 +1,11 @@
+{
+  "asn": 134068,
+  "handle": "RKUB-AP",
+  "description": "Rajshahi Krishi Unnayan Bank",
+  "subnets": {
+    "ipv4": [
+      "103.56.0.0/23"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asn": 400704,
+  "handle": "NEWCONNECT-01",
+  "description": "NewConnect, LLC",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2602:fa97::/40"
+    ]
+  }
+}

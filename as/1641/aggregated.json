@@ -3,10 +3,7 @@
   "handle": "STAPLES-SPP",
   "description": "Staples Contract \u0026 Commercial, Inc.",
   "subnets": {
-    "ipv4": [
-      "12.229.190.0/23",
-      "174.47.191.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

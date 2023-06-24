@@ -1,0 +1,11 @@
+{
+  "asn": 38757,
+  "handle": "ICONPLN-ID-AP-NAP",
+  "description": "PT INDONESIA COMNETS PLUS",
+  "subnets": {
+    "ipv4": [
+      "103.144.132.0/23"
+    ],
+    "ipv6": []
+  }
+}

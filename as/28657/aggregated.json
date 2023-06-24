@@ -3,9 +3,7 @@
   "handle": "MD-BRASIL-TECNOLOGIA",
   "description": "MD Brasil - Tecnologia da Informao Ltda",
   "subnets": {
-    "ipv4": [
-      "138.99.96.0/22"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2804:40::/35",
       "2804:40:2000::/36",

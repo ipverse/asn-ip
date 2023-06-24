@@ -3,9 +3,7 @@
   "handle": "CLOUD24-IN",
   "description": "Sampath Venkateswara Cloud24 Pvt Ltd.",
   "subnets": {
-    "ipv4": [
-      "103.169.178.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

@@ -4,7 +4,7 @@
   "description": "Universidad Nacional de Mar del Plata",
   "subnets": {
     "ipv4": [
-      "170.80.24.0/22",
+      "170.80.24.0/23",
       "200.0.182.0/23"
     ],
     "ipv6": []

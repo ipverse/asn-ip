@@ -4,6 +4,7 @@
   "description": "Netglria Servios de Internet Ltda",
   "subnets": {
     "ipv4": [
+      "45.161.166.0/24",
       "191.241.184.0/21"
     ],
     "ipv6": [
