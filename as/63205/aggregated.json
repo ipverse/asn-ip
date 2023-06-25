@@ -4,7 +4,8 @@
   "description": "Elwood Union Free School District",
   "subnets": {
     "ipv4": [
-      "206.226.135.0/24"
+      "206.226.135.0/24",
+      "206.226.155.0/24"
     ],
     "ipv6": []
   }

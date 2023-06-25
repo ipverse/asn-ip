@@ -4,8 +4,6 @@
   "description": "Internet Limited",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2602:fcf6:ff7::/48"
-    ]
+    "ipv6": []
   }
 }

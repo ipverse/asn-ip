@@ -3,7 +3,9 @@
   "handle": "INFO-INTERNET-AP",
   "description": "Info Internet Service",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.85.196.0/22"
+    ],
     "ipv6": []
   }
 }
