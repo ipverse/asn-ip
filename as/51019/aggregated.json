@@ -3,7 +3,9 @@
   "handle": "KTT",
   "description": "Kjartan Hrafnkelsson",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "204.10.193.0/24"
+    ],
     "ipv6": [
       "2001:67c:bdc::/48",
       "2a05:dfc1:ff00::/48",

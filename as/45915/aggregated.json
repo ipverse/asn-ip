@@ -4,6 +4,7 @@
   "description": "Yahoo Inc.",
   "subnets": {
     "ipv4": [
+      "113.20.18.0/24",
       "202.4.164.0/24"
     ],
     "ipv6": [

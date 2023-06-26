@@ -3,7 +3,9 @@
   "handle": "HARVARD",
   "description": "Harvard University",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "12.130.80.0/24"
+    ],
     "ipv6": []
   }
 }

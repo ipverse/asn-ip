@@ -1,0 +1,11 @@
+{
+  "asn": 141610,
+  "handle": "IDNIC-NDMNET-ID",
+  "description": "PT Nusa Data Multimedia",
+  "subnets": {
+    "ipv4": [
+      "103.160.14.0/24"
+    ],
+    "ipv6": []
+  }
+}

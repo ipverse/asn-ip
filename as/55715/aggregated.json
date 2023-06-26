@@ -4,7 +4,6 @@
   "description": "Advanced Data Centres Limited",
   "subnets": {
     "ipv4": [
-      "103.239.228.0/22",
       "202.52.152.0/24"
     ],
     "ipv6": []

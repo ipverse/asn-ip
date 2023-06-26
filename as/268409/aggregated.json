@@ -3,7 +3,9 @@
   "handle": "TELEART-INTERNET",
   "description": "Teleart Internet",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.160.136.0/22"
+    ],
     "ipv6": []
   }
 }

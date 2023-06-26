@@ -3,7 +3,9 @@
   "handle": "REGIKA",
   "description": "Sajad Charipour",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.255.68.0/22"
+    ],
     "ipv6": []
   }
 }
