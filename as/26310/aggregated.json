@@ -1,0 +1,11 @@
+{
+  "asn": 26310,
+  "handle": "EASLEY-UTILITIES",
+  "description": "Easley Combined Utilities",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2620:b4:a000::/48"
+    ]
+  }
+}

@@ -3,7 +3,10 @@
   "handle": "ELWICO",
   "description": "Elwico s.c.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "77.65.190.0/23",
+      "178.213.216.0/21"
+    ],
     "ipv6": []
   }
 }

@@ -3,9 +3,7 @@
   "handle": "DDOS-MITIGATION-NETWORK",
   "description": "Wieske\u0027s Crew GmbH",
   "subnets": {
-    "ipv4": [
-      "185.205.216.0/22"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2a0b:cc0::/32"
     ]

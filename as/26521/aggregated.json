@@ -3,9 +3,7 @@
   "handle": "BMTC",
   "description": "Bryn Mawr Trust Company",
   "subnets": {
-    "ipv4": [
-      "204.77.171.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

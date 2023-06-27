@@ -4,6 +4,7 @@
   "description": "Sarah Rossius",
   "subnets": {
     "ipv4": [
+      "62.3.50.0/24",
       "194.28.98.0/23"
     ],
     "ipv6": [

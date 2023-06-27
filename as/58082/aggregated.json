@@ -4,7 +4,7 @@
   "description": "Messagenet S.p.A.",
   "subnets": {
     "ipv4": [
-      "109.233.132.0/22"
+      "109.233.132.0/24"
     ],
     "ipv6": []
   }

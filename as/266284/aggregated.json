@@ -4,7 +4,8 @@
   "description": "ADAO DA SILVA NORTE-TEL TELECOMUNICACOES EIRELI",
   "subnets": {
     "ipv4": [
-      "170.79.84.0/22"
+      "170.79.85.0/24",
+      "170.79.86.0/23"
     ],
     "ipv6": [
       "2804:3568::/32"
