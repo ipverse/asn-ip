@@ -3,7 +3,9 @@
   "handle": "CDAGOVN",
   "description": "Shared Services Canada",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "205.194.57.0/24"
+    ],
     "ipv6": []
   }
 }

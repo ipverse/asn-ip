@@ -3,7 +3,9 @@
   "handle": "GROOVE-TELECOM-EIRELI",
   "description": "GROOVE TELECOM EIRELI",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "181.224.95.0/24"
+    ],
     "ipv6": [
       "2804:7ecc::/32"
     ]

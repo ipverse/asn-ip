@@ -4,7 +4,6 @@
   "description": "DXNW by NTT Communications Corporation",
   "subnets": {
     "ipv4": [
-      "163.138.254.0/24",
       "192.47.166.0/24"
     ],
     "ipv6": [

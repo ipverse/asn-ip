@@ -3,7 +3,9 @@
   "handle": "BRICKSHELF",
   "description": "Brickshelf II, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "23.153.8.0/24"
+    ],
     "ipv6": [
       "2001:4810::/32"
     ]

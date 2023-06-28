@@ -3,7 +3,11 @@
   "handle": "3AP-GRUPO-PERTO",
   "description": "3AP Grupo Perto",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "179.43.44.0/22"
+    ],
+    "ipv6": [
+      "2804:72a8::/32"
+    ]
   }
 }

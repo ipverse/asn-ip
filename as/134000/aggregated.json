@@ -3,12 +3,7 @@
   "handle": "GBPSNETWORKS-IN",
   "description": "GBPS NETWORKS PRIVATE LIMITED",
   "subnets": {
-    "ipv4": [
-      "45.112.0.0/22",
-      "103.51.72.0/22"
-    ],
-    "ipv6": [
-      "2405:11c0::/32"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

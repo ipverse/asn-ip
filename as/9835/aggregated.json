@@ -4,6 +4,7 @@
   "description": "National Electronics and Computer Technology Center",
   "subnets": {
     "ipv4": [
+      "164.115.7.0/24",
       "164.115.9.0/24",
       "164.115.15.0/24",
       "164.115.19.0/24",

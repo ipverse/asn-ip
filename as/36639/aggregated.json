@@ -1,0 +1,12 @@
+{
+  "asn": 36639,
+  "handle": "CS100EQ",
+  "description": "Cloudshape Inc",
+  "subnets": {
+    "ipv4": [
+      "206.206.101.0/24",
+      "206.206.102.0/23"
+    ],
+    "ipv6": []
+  }
+}

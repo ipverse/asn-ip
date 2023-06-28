@@ -1,0 +1,12 @@
+{
+  "asn": 207776,
+  "handle": "EDNT",
+  "description": "EDNT GmbH Energie-Daten-Netzwerk-Technik",
+  "subnets": {
+    "ipv4": [
+      "194.50.7.0/24",
+      "194.50.8.0/24"
+    ],
+    "ipv6": []
+  }
+}
