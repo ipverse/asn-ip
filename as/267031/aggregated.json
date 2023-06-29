@@ -3,9 +3,7 @@
   "handle": "DUNAS-TELECOM",
   "description": "DUNAS TELECOM",
   "subnets": {
-    "ipv4": [
-      "45.227.74.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "GIMAX",
   "description": "OOO IPPORT",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "79.137.172.0/24"
+    ],
     "ipv6": []
   }
 }

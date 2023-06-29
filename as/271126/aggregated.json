@@ -3,7 +3,9 @@
   "handle": "GLEIBSON-SANTOS-ALVES",
   "description": "GLEIBSON DOS SANTOS ALVES DE SA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "179.42.36.0/22"
+    ],
     "ipv6": []
   }
 }

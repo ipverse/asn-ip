@@ -3,11 +3,7 @@
   "handle": "SKYLINE-PROVEDOR-INTERNET",
   "description": "Skyline Provedor de Internet LTDA ME",
   "subnets": {
-    "ipv4": [
-      "45.172.96.0/22"
-    ],
-    "ipv6": [
-      "2804:5a58::/32"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

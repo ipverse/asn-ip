@@ -3,9 +3,7 @@
   "handle": "DK-ILVA",
   "description": "Ilva A/S",
   "subnets": {
-    "ipv4": [
-      "193.16.146.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }
