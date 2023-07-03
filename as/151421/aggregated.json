@@ -1,0 +1,11 @@
+{
+  "asn": 151421,
+  "handle": "YNC-AP",
+  "description": "Yes Net Communication",
+  "subnets": {
+    "ipv4": [
+      "103.228.10.0/23"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asn": 46983,
+  "handle": "CL-ASN-01",
+  "description": "crunchdev LLC",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2602:815:3000::/44"
+    ]
+  }
+}

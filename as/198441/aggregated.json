@@ -3,7 +3,9 @@
   "handle": "MIGTELECOM",
   "description": "MANVEL PASHIKYAN VAGHINAK",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "83.139.23.0/24"
+    ],
     "ipv6": []
   }
 }
