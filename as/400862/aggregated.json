@@ -1,0 +1,12 @@
+{
+  "asn": 400862,
+  "handle": "CCH1-IPV4-01",
+  "description": "Castle \u0026 Cooke Hawaii",
+  "subnets": {
+    "ipv4": [
+      "8.3.72.0/24",
+      "209.188.110.0/24"
+    ],
+    "ipv6": []
+  }
+}

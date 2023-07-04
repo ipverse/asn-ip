@@ -4,8 +4,6 @@
   "description": "Bignet Telecom",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2804:3728::/32"
-    ]
+    "ipv6": []
   }
 }

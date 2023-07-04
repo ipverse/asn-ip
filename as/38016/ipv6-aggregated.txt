@@ -1,4 +1,5 @@
 # AS38016 (NOK-IP-NET-LABS)
 # Nokia Solutions and Networks Australia Pty Ltd
 #
-2406:c800::/32
+2406:c800:a1ca::/48
+2406:c800:e000::/48

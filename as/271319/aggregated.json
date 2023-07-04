@@ -4,8 +4,6 @@
   "description": "PLUSNET BRASIL DIGITAL PROVEDOR DE INTERNET LTDA",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2804:79a8::/32"
-    ]
+    "ipv6": []
   }
 }

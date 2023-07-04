@@ -3,7 +3,9 @@
   "handle": "WESTERN2-AP",
   "description": "Western ICT Solutions Services",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.212.160.0/24"
+    ],
     "ipv6": []
   }
 }
