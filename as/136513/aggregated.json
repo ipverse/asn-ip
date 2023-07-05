@@ -4,8 +4,7 @@
   "description": "Corporate Technologies Incorporated",
   "subnets": {
     "ipv4": [
-      "103.152.86.0/23",
-      "156.246.25.0/24"
+      "103.152.86.0/23"
     ],
     "ipv6": []
   }

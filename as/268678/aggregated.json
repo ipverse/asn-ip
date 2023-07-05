@@ -4,6 +4,7 @@
   "description": "CSI SOLUCOES TECNOLOGICAS LTDA",
   "subnets": {
     "ipv4": [
+      "45.4.153.0/24",
       "45.165.148.0/22"
     ],
     "ipv6": [

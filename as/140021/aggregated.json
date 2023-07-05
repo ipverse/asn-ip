@@ -3,9 +3,7 @@
   "handle": "IDNIC-BRANKAS-ID",
   "description": "PT Brankas Teknologi Indonesia",
   "subnets": {
-    "ipv4": [
-      "103.149.138.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

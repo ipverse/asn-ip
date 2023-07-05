@@ -4,7 +4,7 @@
   "description": "Cianet Provedor de Internet EIRELI",
   "subnets": {
     "ipv4": [
-      "164.163.100.0/22"
+      "164.163.100.0/24"
     ],
     "ipv6": []
   }

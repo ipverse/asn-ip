@@ -3,11 +3,7 @@
   "handle": "QIICT",
   "description": "KPN B.V.",
   "subnets": {
-    "ipv4": [
-      "46.243.40.0/21"
-    ],
-    "ipv6": [
-      "2a00:9a40::/32"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

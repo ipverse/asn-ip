@@ -4,7 +4,8 @@
   "description": "BONAFE E OLIVEIRA LTDA",
   "subnets": {
     "ipv4": [
-      "45.162.80.0/23"
+      "45.162.80.0/23",
+      "179.43.10.0/24"
     ],
     "ipv6": []
   }

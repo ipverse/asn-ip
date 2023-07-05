@@ -3,7 +3,9 @@
   "handle": "ADAKSERVER",
   "description": "FanAvaran Imen Aria",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "217.114.46.0/24"
+    ],
     "ipv6": []
   }
 }

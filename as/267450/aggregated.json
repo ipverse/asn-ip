@@ -4,6 +4,7 @@
   "description": "oliveira \u0026 sousa comunicaes Ltda",
   "subnets": {
     "ipv4": [
+      "170.245.80.0/22",
       "181.191.212.0/22"
     ],
     "ipv6": [

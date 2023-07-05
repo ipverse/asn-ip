@@ -3,9 +3,7 @@
   "handle": "SMARTADSERVER",
   "description": "H2H Interactif Inc",
   "subnets": {
-    "ipv4": [
-      "199.187.192.0/22"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

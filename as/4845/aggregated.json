@@ -3,7 +3,9 @@
   "handle": "SINGTEL-TW",
   "description": "Singapore Telecom Taiwan Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "202.165.128.0/19"
+    ],
     "ipv6": []
   }
 }

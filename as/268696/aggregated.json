@@ -4,6 +4,7 @@
   "description": "TUDDO INTERNET LTDA",
   "subnets": {
     "ipv4": [
+      "38.250.240.0/22",
       "45.165.244.0/22"
     ],
     "ipv6": [

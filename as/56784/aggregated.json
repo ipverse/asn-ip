@@ -3,11 +3,7 @@
   "handle": "MULTIHOST",
   "description": "Limited liability company MultiHOST MSK",
   "subnets": {
-    "ipv4": [
-      "185.42.12.0/22"
-    ],
-    "ipv6": [
-      "2a01:5f20::/32"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

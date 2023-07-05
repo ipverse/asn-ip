@@ -1,13 +1,9 @@
 {
   "asn": 204248,
-  "handle": "EDSI-CDN",
+  "handle": "SITC",
   "description": "EDSI-Tech Sarl",
   "subnets": {
-    "ipv4": [
-      "185.109.242.0/24"
-    ],
-    "ipv6": [
-      "2a04:c007::/32"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }
