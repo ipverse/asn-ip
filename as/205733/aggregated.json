@@ -1,9 +1,11 @@
 {
   "asn": 205733,
-  "handle": "CARUS",
-  "description": "Carus Tech AB LTD",
+  "handle": "HOSTIFOX",
+  "description": "HOSTIFOX INTERNET VE BILISIM HIZMETLERI TICARET SANAYI LIMITED SIRKETI",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "88.209.249.0/24"
+    ],
     "ipv6": []
   }
 }

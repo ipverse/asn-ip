@@ -4,8 +4,7 @@
   "description": "NOCTEL TELECOM E REDES LTDA",
   "subnets": {
     "ipv4": [
-      "181.189.116.0/23",
-      "181.189.119.0/24"
+      "181.189.116.0/22"
     ],
     "ipv6": [
       "2804:7c04::/32"

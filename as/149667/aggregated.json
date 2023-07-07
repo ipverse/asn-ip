@@ -4,6 +4,7 @@
   "description": "PT Gading Bhakti Utama",
   "subnets": {
     "ipv4": [
+      "103.156.221.0/24",
       "103.184.56.0/24"
     ],
     "ipv6": [

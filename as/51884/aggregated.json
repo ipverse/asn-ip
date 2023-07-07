@@ -3,7 +3,9 @@
   "handle": "TERATEL",
   "description": "Tera Telecom Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.220.166.0/24"
+    ],
     "ipv6": []
   }
 }

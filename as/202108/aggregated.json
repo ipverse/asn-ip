@@ -4,10 +4,6 @@
   "description": "united-domains AG",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2a00:a8e0:1::/48",
-      "2a00:a8e0:2::/48",
-      "2a00:a8e0:210::/48"
-    ]
+    "ipv6": []
   }
 }

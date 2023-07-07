@@ -4,8 +4,7 @@
   "description": "MLS Property Information Network",
   "subnets": {
     "ipv4": [
-      "199.180.215.0/24",
-      "216.195.13.0/24"
+      "199.180.215.0/24"
     ],
     "ipv6": []
   }

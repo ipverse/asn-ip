@@ -3,7 +3,11 @@
   "handle": "EXION",
   "description": "Exion Networks SA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "31.3.129.0/24",
+      "31.3.130.0/23",
+      "31.3.132.0/22"
+    ],
     "ipv6": []
   }
 }

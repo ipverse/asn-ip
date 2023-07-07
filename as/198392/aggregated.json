@@ -4,7 +4,8 @@
   "description": "Petrochemical Industries Co. /Shareholding Public",
   "subnets": {
     "ipv4": [
-      "31.217.224.0/23"
+      "31.217.224.0/23",
+      "31.217.226.0/24"
     ],
     "ipv6": []
   }

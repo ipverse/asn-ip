@@ -4,10 +4,10 @@
   "description": "MADISON TECHNOLOGIES MALAYSIA PLT",
   "subnets": {
     "ipv4": [
-      "103.157.198.0/23"
+      "103.157.199.0/24"
     ],
     "ipv6": [
-      "2001:df5:2a80::/47"
+      "2001:df5:2a81::/48"
     ]
   }
 }

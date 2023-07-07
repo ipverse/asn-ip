@@ -3,7 +3,9 @@
   "handle": "TV-MYTISCHI",
   "description": "TV Mytischi MAU",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.152.120.0/23"
+    ],
     "ipv6": []
   }
 }

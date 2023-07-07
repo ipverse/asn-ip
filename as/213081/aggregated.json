@@ -4,6 +4,8 @@
   "description": "ungleich glarus ag",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a0a:e5c0:2d::/48"
+    ]
   }
 }

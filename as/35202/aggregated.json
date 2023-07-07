@@ -3,7 +3,11 @@
   "handle": "ONTHEGO",
   "description": "Samuel Aschwanden",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "5.180.116.0/22"
+    ],
+    "ipv6": [
+      "2a0a:6400::/29"
+    ]
   }
 }

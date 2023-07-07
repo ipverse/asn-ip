@@ -4,8 +4,7 @@
   "description": "Vital Data Ltd",
   "subnets": {
     "ipv4": [
-      "202.7.5.0/24",
-      "202.7.6.0/23"
+      "202.7.4.0/22"
     ],
     "ipv6": []
   }

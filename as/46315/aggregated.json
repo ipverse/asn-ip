@@ -4,6 +4,7 @@
   "description": "Blossom Telephone Company",
   "subnets": {
     "ipv4": [
+      "38.56.206.0/23",
       "162.246.228.0/22"
     ],
     "ipv6": []

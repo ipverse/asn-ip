@@ -1,0 +1,12 @@
+{
+  "asn": 151352,
+  "handle": "LIGHT-AP",
+  "description": "Light Moon Networks Limited",
+  "subnets": {
+    "ipv4": [
+      "103.176.0.0/23",
+      "103.224.172.0/23"
+    ],
+    "ipv6": []
+  }
+}

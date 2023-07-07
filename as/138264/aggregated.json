@@ -4,7 +4,8 @@
   "description": "Ablink Network Opc Private Limited",
   "subnets": {
     "ipv4": [
-      "103.132.29.0/24"
+      "103.132.29.0/24",
+      "103.132.30.0/24"
     ],
     "ipv6": []
   }

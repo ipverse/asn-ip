@@ -3,9 +3,7 @@
   "handle": "PAC12",
   "description": "Pac-12 Conferences",
   "subnets": {
-    "ipv4": [
-      "209.116.79.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

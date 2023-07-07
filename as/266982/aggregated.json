@@ -3,7 +3,9 @@
   "handle": "CENTERNET-TELECOM",
   "description": "CENTERNET TELECOM LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.224.12.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -4,10 +4,6 @@
   "description": "Junaid Uppal",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2a06:a005:17::/48",
-      "2a06:a005:1e::/48",
-      "2a06:a005:852::/48"
-    ]
+    "ipv6": []
   }
 }
