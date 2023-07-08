@@ -3,11 +3,7 @@
   "handle": "LYKE-NET-TELECOM",
   "description": "LYKE NET TELECOM SOLUES EM TELECOMUNICAES LTDA",
   "subnets": {
-    "ipv4": [
-      "45.163.152.0/22"
-    ],
-    "ipv6": [
-      "2804:5310::/32"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

@@ -4,6 +4,8 @@
   "description": "MEGA TELECOM FIBRA",
   "subnets": {
     "ipv4": [
+      "177.46.35.0/24",
+      "177.46.36.0/24",
       "181.233.80.0/22"
     ],
     "ipv6": [

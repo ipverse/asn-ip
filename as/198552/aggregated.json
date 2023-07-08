@@ -3,7 +3,9 @@
   "handle": "GAMMANET",
   "description": "Gammanet LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.29.99.0/24"
+    ],
     "ipv6": []
   }
 }

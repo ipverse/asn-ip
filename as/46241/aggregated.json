@@ -1,0 +1,11 @@
+{
+  "asn": 46241,
+  "handle": "WASHTENAW-ISD",
+  "description": "Washtenaw ISD",
+  "subnets": {
+    "ipv4": [
+      "204.25.200.0/21"
+    ],
+    "ipv6": []
+  }
+}

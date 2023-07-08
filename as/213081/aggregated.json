@@ -3,9 +3,12 @@
   "handle": "UNGLEICH-PLACE10",
   "description": "ungleich glarus ag",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "148.222.250.0/24"
+    ],
     "ipv6": [
-      "2a0a:e5c0:2d::/48"
+      "2a0a:e5c0:2d::/48",
+      "2a0a:e5c0:2e::/48"
     ]
   }
 }

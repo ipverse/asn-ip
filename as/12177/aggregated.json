@@ -3,11 +3,7 @@
   "handle": "ETS-TELEPHONE-COMPANY",
   "description": "Grande Communications Networks, LLC",
   "subnets": {
-    "ipv4": [
-      "104.202.240.0/23",
-      "104.202.244.0/23",
-      "104.202.246.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

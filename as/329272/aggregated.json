@@ -1,0 +1,12 @@
+{
+  "asn": 329272,
+  "handle": "SERVERCORE-AFRICA-LTD",
+  "description": "Servercore Africa Ltd",
+  "subnets": {
+    "ipv4": [
+      "102.214.68.0/22",
+      "213.148.16.0/23"
+    ],
+    "ipv6": []
+  }
+}

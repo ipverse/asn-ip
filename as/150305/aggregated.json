@@ -3,7 +3,9 @@
   "handle": "VFSAPL-AP",
   "description": "Volkswagen Financial Services Australia Pty Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.250.40.0/24"
+    ],
     "ipv6": []
   }
 }
