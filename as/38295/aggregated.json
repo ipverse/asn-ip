@@ -3,7 +3,10 @@
   "handle": "ALPHAWEST-AP",
   "description": "Alphawest Services Pty Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "203.28.81.0/24",
+      "203.28.82.0/24"
+    ],
     "ipv6": []
   }
 }

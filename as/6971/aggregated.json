@@ -3,11 +3,7 @@
   "handle": "VMX-US1",
   "description": "Verimatrix, Inc.",
   "subnets": {
-    "ipv4": [
-      "192.207.34.0/23"
-    ],
-    "ipv6": [
-      "2620:ba:c000::/48"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

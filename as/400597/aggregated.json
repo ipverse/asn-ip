@@ -3,7 +3,9 @@
   "handle": "SILICONDUST",
   "description": "Silicondust USA, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "23.141.8.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "FUSD",
   "description": "Fontana Unified School District",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "208.64.34.0/23"
+    ],
     "ipv6": []
   }
 }
