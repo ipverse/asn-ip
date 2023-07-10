@@ -1,0 +1,12 @@
+{
+  "asn": 400863,
+  "handle": "NORTHEBRIDGE",
+  "description": "NortheBridge North America L.L.C.",
+  "subnets": {
+    "ipv4": [
+      "23.26.168.0/21",
+      "108.165.134.0/23"
+    ],
+    "ipv6": []
+  }
+}

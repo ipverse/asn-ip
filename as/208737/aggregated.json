@@ -4,6 +4,7 @@
   "description": "myPose Technologies AD",
   "subnets": {
     "ipv4": [
+      "78.159.130.0/24",
       "91.92.54.0/24"
     ],
     "ipv6": []

@@ -3,7 +3,9 @@
   "handle": "TICTIMORIP",
   "description": "TIC TIMOR I.P.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.143.164.0/23"
+    ],
     "ipv6": []
   }
 }
