@@ -3,7 +3,10 @@
   "handle": "BILROM",
   "description": "Bilrom Bilisim ve Medya Hizmetleri Sanayi ve Ticaret A.S.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.40.84.0/22",
+      "185.123.103.0/24"
+    ],
     "ipv6": []
   }
 }

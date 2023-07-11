@@ -4,6 +4,7 @@
   "description": "Wingel cooperation co.,Ltd",
   "subnets": {
     "ipv4": [
+      "103.120.120.0/22",
       "103.140.236.0/23"
     ],
     "ipv6": []

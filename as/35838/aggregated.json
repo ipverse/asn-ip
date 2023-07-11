@@ -3,11 +3,7 @@
   "handle": "CCANET",
   "description": "CCANET Limited",
   "subnets": {
-    "ipv4": [
-      "178.255.80.0/21"
-    ],
-    "ipv6": [
-      "2a02:1788::/32"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

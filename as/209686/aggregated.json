@@ -1,0 +1,14 @@
+{
+  "asn": 209686,
+  "handle": "GUO",
+  "description": "Xingyu Guo",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a05:dfc1:5a01::/48",
+      "2a05:dfc1:5a02::/47",
+      "2a05:dfc1:5a04::/47",
+      "2a05:dfc1:5a06::/48"
+    ]
+  }
+}
