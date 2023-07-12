@@ -1,0 +1,11 @@
+{
+  "asn": 151479,
+  "handle": "DPL-AP",
+  "description": "Digital Payments Limited",
+  "subnets": {
+    "ipv4": [
+      "103.230.94.0/23"
+    ],
+    "ipv6": []
+  }
+}

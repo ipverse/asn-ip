@@ -3,11 +3,7 @@
   "handle": "NEERJA-AP",
   "description": "Neerja Softwares Pvt Ltd",
   "subnets": {
-    "ipv4": [
-      "103.118.16.0/23"
-    ],
-    "ipv6": [
-      "2001:df5:c100::/48"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

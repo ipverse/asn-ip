@@ -4,7 +4,8 @@
   "description": "MANVEL PASHIKYAN VAGHINAK",
   "subnets": {
     "ipv4": [
-      "83.139.23.0/24"
+      "83.139.23.0/24",
+      "185.86.193.0/24"
     ],
     "ipv6": []
   }

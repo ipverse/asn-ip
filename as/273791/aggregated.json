@@ -1,0 +1,11 @@
+{
+  "asn": 273791,
+  "handle": "TRIVELOZ-PROVEDOR-INTERNET",
+  "description": "Triveloz provedor de internet ltda",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2804:8c40::/32"
+    ]
+  }
+}

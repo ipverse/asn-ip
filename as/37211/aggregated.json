@@ -3,7 +3,9 @@
   "handle": "MAX-NET-FOR-INTERNET-SERVICES",
   "description": "MAX NET FOR INTERNET SERVICES",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "102.218.70.0/24"
+    ],
     "ipv6": []
   }
 }

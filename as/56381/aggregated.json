@@ -4,7 +4,7 @@
   "description": "level66.network UG (haftungsbeschraenkt)",
   "subnets": {
     "ipv4": [
-      "141.98.136.0/23"
+      "141.98.136.0/24"
     ],
     "ipv6": [
       "2a09:11c0::/48",

@@ -3,7 +3,9 @@
   "handle": "PIO-HOSTING",
   "description": "PIO-Hosting GmbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.62.32.0/24"
+    ],
     "ipv6": [
       "2a10:ca80::/48"
     ]
