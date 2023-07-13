@@ -3,7 +3,9 @@
   "handle": "IDNIC-NEUTRON-ID",
   "description": "PT Neutron Mitra Nusantara",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.110.100.0/23"
+    ],
     "ipv6": []
   }
 }

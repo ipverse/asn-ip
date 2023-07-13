@@ -1,0 +1,11 @@
+{
+  "asn": 200403,
+  "handle": "AIRTEL-NET",
+  "description": "Airtel Net Ltd",
+  "subnets": {
+    "ipv4": [
+      "82.114.48.0/24"
+    ],
+    "ipv6": []
+  }
+}

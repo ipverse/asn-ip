@@ -3,9 +3,7 @@
   "handle": "NATIONAL-KNOWLEDGE-NETWORK",
   "description": "National Knowledge Network",
   "subnets": {
-    "ipv4": [
-      "36.50.36.0/24"
-    ],
+    "ipv4": [],
     "ipv6": [
       "240a:ee00::/28"
     ]

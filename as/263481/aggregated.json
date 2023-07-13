@@ -4,7 +4,8 @@
   "description": "Nova Serv de Com Multimidia Ltda",
   "subnets": {
     "ipv4": [
-      "191.242.208.0/21"
+      "191.242.210.0/23",
+      "191.242.212.0/22"
     ],
     "ipv6": [
       "2804:1284::/32"

@@ -3,9 +3,7 @@
   "handle": "WHITEHAT-US-HOU-03",
   "description": "WhiteHat Security, Inc.",
   "subnets": {
-    "ipv4": [
-      "162.244.5.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

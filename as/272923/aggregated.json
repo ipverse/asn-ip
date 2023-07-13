@@ -1,0 +1,11 @@
+{
+  "asn": 272923,
+  "handle": "GIGABIT-TELECOM-EIRL",
+  "description": "GIGABIT TELECOM E.I.R.L.",
+  "subnets": {
+    "ipv4": [
+      "38.9.40.0/22"
+    ],
+    "ipv6": []
+  }
+}

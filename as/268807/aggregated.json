@@ -3,7 +3,11 @@
   "handle": "CAIXA-ASSISTNCIA-FUNCIONRIOS",
   "description": "Caixa de Assistncia dos Funcionrios do BB CASSI",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.173.13.0/24"
+    ],
+    "ipv6": [
+      "2801:80:34a0::/48"
+    ]
   }
 }

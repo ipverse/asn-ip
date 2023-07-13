@@ -3,7 +3,10 @@
   "handle": "APNICRANDNET-TUI-AU",
   "description": "APNIC Research and Development",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "203.10.61.0/24",
+      "203.147.108.0/23"
+    ],
     "ipv6": []
   }
 }

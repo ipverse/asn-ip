@@ -3,7 +3,9 @@
   "handle": "SMARTCONN-IN",
   "description": "Oasis Smart Connect Pvt Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.221.236.0/23"
+    ],
     "ipv6": []
   }
 }
