@@ -1,0 +1,11 @@
+{
+  "asn": 36311,
+  "handle": "CCU-ATT-01",
+  "description": "Capital Credit Union",
+  "subnets": {
+    "ipv4": [
+      "12.53.26.0/24"
+    ],
+    "ipv6": []
+  }
+}

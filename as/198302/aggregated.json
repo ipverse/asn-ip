@@ -3,9 +3,7 @@
   "handle": "APHELION",
   "description": "Aphelion Consulting AB",
   "subnets": {
-    "ipv4": [
-      "185.206.66.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

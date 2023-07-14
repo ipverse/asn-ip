@@ -3,9 +3,7 @@
   "handle": "FASTCDN2-AP",
   "description": "S.I Group",
   "subnets": {
-    "ipv4": [
-      "136.228.152.0/22"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }
