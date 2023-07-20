@@ -1,0 +1,11 @@
+{
+  "asn": 270185,
+  "handle": "PETROLEOS-MEXICANOS",
+  "description": "Petroleos Mexicanos",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2806:1020:b02::/48"
+    ]
+  }
+}

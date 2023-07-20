@@ -3,11 +3,7 @@
   "handle": "TIMKEVIN",
   "description": "Tim Kevin",
   "subnets": {
-    "ipv4": [
-      "199.43.202.0/24"
-    ],
-    "ipv6": [
-      "2a13:b487::/36"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

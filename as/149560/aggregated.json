@@ -1,0 +1,13 @@
+{
+  "asn": 149560,
+  "handle": "AAYOGNET-IN",
+  "description": "AAYOG NETWORK PVT LTD",
+  "subnets": {
+    "ipv4": [
+      "103.185.104.0/23"
+    ],
+    "ipv6": [
+      "2001:df0:97c0::/48"
+    ]
+  }
+}

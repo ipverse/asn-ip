@@ -4,7 +4,8 @@
   "description": "eins energie in sachsen GmbH \u0026 Co. KG",
   "subnets": {
     "ipv4": [
-      "81.27.232.0/21",
+      "81.27.232.0/22",
+      "81.27.236.0/23",
       "185.205.156.0/22"
     ],
     "ipv6": [

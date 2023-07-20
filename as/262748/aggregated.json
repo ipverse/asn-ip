@@ -3,14 +3,7 @@
   "handle": "NETJAT-PROVEDOR-ACESSO",
   "description": "NetJat Provedor de Acesso a Internet",
   "subnets": {
-    "ipv4": [
-      "138.185.164.0/22",
-      "168.197.72.0/22",
-      "177.85.88.0/22",
-      "186.208.96.0/20"
-    ],
-    "ipv6": [
-      "2804:cac::/32"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "IDNIC-CITRA-BERDIKARI-NUSANTARA-ID",
   "description": "PT.CITRA BERDIKARI NUSANTARA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.142.254.0/24"
+    ],
     "ipv6": []
   }
 }

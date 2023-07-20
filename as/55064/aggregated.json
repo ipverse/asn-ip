@@ -4,6 +4,7 @@
   "description": "Arista Networks, Inc.",
   "subnets": {
     "ipv4": [
+      "74.123.29.0/24",
       "162.210.129.0/24",
       "162.210.130.0/23"
     ],

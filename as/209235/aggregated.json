@@ -4,6 +4,7 @@
   "description": "Fibercli Proyectos e Innovacion S.L.",
   "subnets": {
     "ipv4": [
+      "62.106.88.0/24",
       "185.130.194.0/24"
     ],
     "ipv6": []

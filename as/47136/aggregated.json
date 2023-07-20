@@ -4,7 +4,8 @@
   "description": "Generali Operations Service Platform S.r.l.",
   "subnets": {
     "ipv4": [
-      "92.246.32.0/19"
+      "92.246.32.0/19",
+      "185.230.167.0/24"
     ],
     "ipv6": []
   }

@@ -4,6 +4,7 @@
   "description": "Afrique Technologies \u0026 Services (VipNet)",
   "subnets": {
     "ipv4": [
+      "102.222.120.0/23",
       "102.223.28.0/22",
       "197.159.192.0/19"
     ],

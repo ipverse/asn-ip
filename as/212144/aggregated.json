@@ -3,7 +3,9 @@
   "handle": "FUTURE-NETWORK-01",
   "description": "trafficforce, UAB",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "94.154.118.0/24"
+    ],
     "ipv6": [
       "2a01:64e0::/32",
       "2a05:9a40::/30",

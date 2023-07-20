@@ -1,0 +1,11 @@
+{
+  "asn": 27919,
+  "handle": "IXP-ECUADOR",
+  "description": "IXP ECUADOR",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2803:b4c0::/32"
+    ]
+  }
+}

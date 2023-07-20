@@ -4,9 +4,6 @@
   "description": "Ishmeet Thethi",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2a07:54c1:3400::/39",
-      "2a0a:280:2400::/40"
-    ]
+    "ipv6": []
   }
 }

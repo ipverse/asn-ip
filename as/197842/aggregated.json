@@ -4,7 +4,10 @@
   "description": "Yusuf Baris Sarikaya trading as \u0027HOSTEGRO HOSTING SATIS\u0027",
   "subnets": {
     "ipv4": [
-      "104.234.120.0/24"
+      "89.251.30.0/24",
+      "104.234.120.0/24",
+      "108.165.72.0/24",
+      "163.5.222.0/24"
     ],
     "ipv6": []
   }

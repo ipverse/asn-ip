@@ -4,7 +4,8 @@
   "description": "MEDIANOVA INTERNET HIZMETLERI VE TICARET ANONIM SIRKETI",
   "subnets": {
     "ipv4": [
-      "31.3.0.0/22",
+      "31.3.1.0/24",
+      "31.3.2.0/23",
       "31.3.4.0/23",
       "31.3.7.0/24",
       "80.91.216.0/24",

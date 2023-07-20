@@ -3,9 +3,7 @@
   "handle": "ISIT-ISP",
   "description": "ISIT Group",
   "subnets": {
-    "ipv4": [
-      "23.152.232.0/24"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2606:c5c0::/48"
     ]

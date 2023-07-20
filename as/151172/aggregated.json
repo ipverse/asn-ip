@@ -1,0 +1,11 @@
+{
+  "asn": 151172,
+  "handle": "CSBBANK-IN",
+  "description": "Csb Bank Ltd",
+  "subnets": {
+    "ipv4": [
+      "103.204.50.0/24"
+    ],
+    "ipv6": []
+  }
+}

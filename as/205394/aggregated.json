@@ -4,6 +4,7 @@
   "description": "CSL (DualCom) Limited",
   "subnets": {
     "ipv4": [
+      "46.226.74.0/24",
       "139.28.100.0/22",
       "185.201.164.0/22"
     ],

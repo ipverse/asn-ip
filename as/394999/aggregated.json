@@ -1,9 +1,11 @@
 {
   "asn": 394999,
-  "handle": "K2S-USNET",
-  "description": "Know 2Solutions LLC",
+  "handle": "K0MWB",
+  "description": "K0MWB",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2602:814:e000::/44"
+    ]
   }
 }

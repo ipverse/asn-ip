@@ -1,9 +1,11 @@
 {
   "asn": 198362,
-  "handle": "HELIACAL",
-  "description": "HELIACAL NETWORKS LTD",
+  "handle": "NETHUK2",
+  "description": "NETH LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "176.117.79.0/24"
+    ],
     "ipv6": []
   }
 }

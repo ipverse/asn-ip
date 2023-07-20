@@ -1,9 +1,11 @@
 {
   "asn": 149424,
-  "handle": "RESERVED",
-  "description": "APNIC ASN block",
+  "handle": "HOSTLINKHK-AP",
+  "description": "HOSTLINK (HK) LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.91.150.0/24"
+    ],
     "ipv6": []
   }
 }

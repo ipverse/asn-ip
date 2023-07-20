@@ -1,0 +1,12 @@
+{
+  "asn": 58339,
+  "handle": "MARIA",
+  "description": "MARIA STYLE LTD",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a05:dfc1:5f15::/48",
+      "2a05:dfc1:5f35::/48"
+    ]
+  }
+}

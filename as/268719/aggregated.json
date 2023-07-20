@@ -3,9 +3,7 @@
   "handle": "FMAX-TELECOMUNICACOES",
   "description": "FMAX TELECOMUNICACOES LTDA",
   "subnets": {
-    "ipv4": [
-      "45.170.80.0/22"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }
