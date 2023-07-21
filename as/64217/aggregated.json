@@ -4,6 +4,7 @@
   "description": "LTD Broadband LLC",
   "subnets": {
     "ipv4": [
+      "136.175.26.0/24",
       "163.182.165.0/24"
     ],
     "ipv6": []

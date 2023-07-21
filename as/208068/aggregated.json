@@ -3,7 +3,11 @@
   "handle": "GERLACH",
   "description": "Luca Christian Gerlach",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "62.197.134.0/24",
+      "185.103.72.0/24",
+      "185.202.110.0/24"
+    ],
     "ipv6": []
   }
 }

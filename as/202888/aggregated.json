@@ -4,6 +4,9 @@
   "description": "UPSTREAM NETWORK LTD",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a12:3fc2:5555::/48",
+      "2a12:3fc2:c000::/36"
+    ]
   }
 }

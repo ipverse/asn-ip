@@ -3,10 +3,7 @@
   "handle": "KDSS-23",
   "description": "Kratos Defense \u0026 Security Solutions, Inc.",
   "subnets": {
-    "ipv4": [
-      "209.255.244.0/22",
-      "216.197.80.0/20"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

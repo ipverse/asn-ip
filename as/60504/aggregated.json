@@ -1,0 +1,11 @@
+{
+  "asn": 60504,
+  "handle": "SPIKE-TELECOM-LLC",
+  "description": "Spike Telecom LLC",
+  "subnets": {
+    "ipv4": [
+      "91.235.205.0/24"
+    ],
+    "ipv6": []
+  }
+}

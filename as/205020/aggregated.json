@@ -1,0 +1,11 @@
+{
+  "asn": 205020,
+  "handle": "DATAGRID-NETWORK",
+  "description": "DataGrid Network GmbH",
+  "subnets": {
+    "ipv4": [
+      "5.11.28.0/22"
+    ],
+    "ipv6": []
+  }
+}

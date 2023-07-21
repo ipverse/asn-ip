@@ -1,9 +1,13 @@
 {
   "asn": 48297,
-  "handle": "DOORHAN",
-  "description": "LLC Avtomaticheskie vorota - 2000",
+  "handle": "TPC-NET",
+  "description": "The Penguin Collective Ltd",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "103.208.84.0/24"
+    ],
+    "ipv6": [
+      "2a12:bec0:410::/44"
+    ]
   }
 }

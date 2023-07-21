@@ -3,9 +3,7 @@
   "handle": "AIRNETF-IN",
   "description": "AIRNET FIBER SOLUTIONS",
   "subnets": {
-    "ipv4": [
-      "103.175.31.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

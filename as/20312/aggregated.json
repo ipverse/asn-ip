@@ -4,9 +4,7 @@
   "description": "Fundacin Centro Nacional de Innovacin Tecnolgica (CENIT)",
   "subnets": {
     "ipv4": [
-      "150.185.0.0/16",
-      "150.186.0.0/15",
-      "150.188.0.0/16"
+      "150.185.0.0/16"
     ],
     "ipv6": []
   }

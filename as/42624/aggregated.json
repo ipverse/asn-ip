@@ -3,7 +3,9 @@
   "handle": "SIMPLECARRIER",
   "description": "Simple Carrier LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.196.9.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -4,10 +4,8 @@
   "description": "Toolsoft Tecnologia Ltda",
   "subnets": {
     "ipv4": [
-      "168.90.52.0/22"
+      "168.90.55.0/24"
     ],
-    "ipv6": [
-      "2804:2df4::/32"
-    ]
+    "ipv6": []
   }
 }

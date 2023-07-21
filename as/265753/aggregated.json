@@ -4,6 +4,7 @@
   "description": "CW HOLDINGS, S.A.",
   "subnets": {
     "ipv4": [
+      "107.166.0.0/22",
       "131.196.52.0/22"
     ],
     "ipv6": [

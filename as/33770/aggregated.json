@@ -4,8 +4,6 @@
   "description": "Liquid Telecommunications Kenya Limited",
   "subnets": {
     "ipv4": [
-      "152.108.149.0/24",
-      "152.108.190.0/24",
       "217.21.114.0/24"
     ],
     "ipv6": []

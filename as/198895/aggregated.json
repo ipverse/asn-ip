@@ -3,7 +3,10 @@
   "handle": "TECHADE",
   "description": "Techade Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.140.133.0/24",
+      "46.229.242.0/24"
+    ],
     "ipv6": []
   }
 }
