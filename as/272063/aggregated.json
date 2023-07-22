@@ -3,7 +3,10 @@
   "handle": "PROVEEDORES-TECNOLOGICOS-PK",
   "description": "PROVEEDORES TECNOLOGICOS PK, C.A.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.45.53.0/24",
+      "38.45.54.0/24"
+    ],
     "ipv6": []
   }
 }

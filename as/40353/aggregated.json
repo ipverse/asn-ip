@@ -3,11 +3,7 @@
   "handle": "LUNEXGROUP",
   "description": "Lunex Group Inc",
   "subnets": {
-    "ipv4": [
-      "38.99.248.0/24",
-      "162.252.164.0/23",
-      "162.252.166.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

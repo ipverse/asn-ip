@@ -4,7 +4,6 @@
   "description": "QLD VoIP Services",
   "subnets": {
     "ipv4": [
-      "103.115.90.0/24",
       "103.184.174.0/24"
     ],
     "ipv6": []

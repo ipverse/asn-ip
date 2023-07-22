@@ -3,7 +3,9 @@
   "handle": "FIZNET-ID",
   "description": "PT Hafiz Jaya Infotama",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.73.76.0/22"
+    ],
     "ipv6": []
   }
 }

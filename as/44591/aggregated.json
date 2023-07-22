@@ -3,7 +3,9 @@
   "handle": "TSI-ING-DIRECT",
   "description": "ING Bank N.V.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.199.173.0/24"
+    ],
     "ipv6": []
   }
 }

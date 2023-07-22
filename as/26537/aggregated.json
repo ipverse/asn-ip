@@ -3,9 +3,7 @@
   "handle": "FITCHRATINGS-NEWYORK",
   "description": "FITCHRATINGS",
   "subnets": {
-    "ipv4": [
-      "209.133.94.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

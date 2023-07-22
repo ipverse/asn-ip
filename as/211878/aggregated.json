@@ -1,0 +1,12 @@
+{
+  "asn": 211878,
+  "handle": "ALLSIMPLE",
+  "description": "All Simple Internet Services LLP",
+  "subnets": {
+    "ipv4": [
+      "45.152.88.0/23",
+      "45.152.90.0/24"
+    ],
+    "ipv6": []
+  }
+}

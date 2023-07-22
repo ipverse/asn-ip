@@ -3,7 +3,9 @@
   "handle": "SPARKTELL-USPENSKIY",
   "description": "OOO SPARK TELL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "79.137.134.0/24"
+    ],
     "ipv6": []
   }
 }
