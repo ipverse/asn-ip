@@ -4,8 +4,7 @@
   "description": "Viva Tecnologia Telecom",
   "subnets": {
     "ipv4": [
-      "170.81.100.0/22",
-      "206.0.88.0/24"
+      "170.81.100.0/22"
     ],
     "ipv6": [
       "2804:376c::/32"

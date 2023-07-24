@@ -1,0 +1,12 @@
+{
+  "asn": 48231,
+  "handle": "CRENET",
+  "description": "CRE Network, LLC",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2602:fa93::/40",
+      "2a0e:b107:2680::/44"
+    ]
+  }
+}

@@ -3,7 +3,9 @@
   "handle": "ADKYNET",
   "description": "AdKyNet SAS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.218.21.0/24"
+    ],
     "ipv6": [
       "2a0e:97c0:9f0::/44",
       "2a0e:b107:9f0::/48",
