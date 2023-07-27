@@ -4,6 +4,7 @@
   "description": "Semih Mehmet CAN",
   "subnets": {
     "ipv4": [
+      "66.54.232.0/24",
       "154.6.120.0/24"
     ],
     "ipv6": []

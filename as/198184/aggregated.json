@@ -4,7 +4,6 @@
   "description": "FIDUCIAL CLOUD SASU",
   "subnets": {
     "ipv4": [
-      "91.232.40.0/22",
       "185.22.196.0/22"
     ],
     "ipv6": []

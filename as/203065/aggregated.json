@@ -1,9 +1,11 @@
 {
   "asn": 203065,
-  "handle": "TODAYCONCEPTS",
-  "description": "Today Concepts B.V.",
+  "handle": "EU-LISA",
+  "description": "eu-LISA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.254.34.0/24"
+    ],
     "ipv6": []
   }
 }

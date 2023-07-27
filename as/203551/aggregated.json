@@ -4,6 +4,7 @@
   "description": "GO-NET Spolka z o.o.",
   "subnets": {
     "ipv4": [
+      "84.234.117.0/24",
       "217.11.142.0/24"
     ],
     "ipv6": []

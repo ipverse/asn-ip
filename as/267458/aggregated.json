@@ -4,6 +4,7 @@
   "description": "ITMINDS CONSULTORIA EM TECNOLOGIA DA INFORMACAO",
   "subnets": {
     "ipv4": [
+      "45.185.24.0/24",
       "192.141.32.0/22",
       "204.157.108.0/22"
     ],

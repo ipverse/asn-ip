@@ -3,7 +3,9 @@
   "handle": "FLEXNET",
   "description": "Flexnet LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "46.32.174.0/24"
+    ],
     "ipv6": []
   }
 }

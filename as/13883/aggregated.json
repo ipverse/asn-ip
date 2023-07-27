@@ -3,9 +3,7 @@
   "handle": "BB-FAX-SERVER",
   "description": "Contractors Register, Inc.",
   "subnets": {
-    "ipv4": [
-      "63.84.194.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

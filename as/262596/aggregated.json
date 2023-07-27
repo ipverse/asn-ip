@@ -3,11 +3,7 @@
   "handle": "JUNTO-TELECOM-SERVIOS",
   "description": "JUNTO TELECOM SERVIOS DE TELECOMUNICAES LTDA",
   "subnets": {
-    "ipv4": [
-      "177.75.176.0/20"
-    ],
-    "ipv6": [
-      "2804:694::/32"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

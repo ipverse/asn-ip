@@ -4,6 +4,7 @@
   "description": "China Mobile Communications Corporation",
   "subnets": {
     "ipv4": [
+      "117.135.222.0/24",
       "117.187.7.0/24",
       "117.187.21.0/24",
       "117.187.22.0/24",

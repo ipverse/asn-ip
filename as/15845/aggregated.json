@@ -3,9 +3,7 @@
   "handle": "CITC-IRS-SERVICE",
   "description": "Computers in the City Ltd",
   "subnets": {
-    "ipv4": [
-      "193.227.200.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

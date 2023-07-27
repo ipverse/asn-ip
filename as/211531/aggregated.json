@@ -3,7 +3,10 @@
   "handle": "ASULTRANORDNET",
   "description": "ULTRA-NORDNET SRL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "80.245.87.0/24",
+      "149.3.184.0/24"
+    ],
     "ipv6": []
   }
 }

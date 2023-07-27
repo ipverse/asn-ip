@@ -1,0 +1,12 @@
+{
+  "asn": 61142,
+  "handle": "CWEBER",
+  "description": "Claudio Michael Weber",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a13:df80:480::/44",
+      "2a13:df80:4a1::/48"
+    ]
+  }
+}
