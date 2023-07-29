@@ -4,8 +4,6 @@
   "description": "Internet Systems Consortium",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2801:1b:2000::/48"
-    ]
+    "ipv6": []
   }
 }

@@ -3,9 +3,7 @@
   "handle": "MYTEK-AP",
   "description": "MYTEK TRADING PTY LTD",
   "subnets": {
-    "ipv4": [
-      "38.47.0.0/19"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

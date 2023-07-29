@@ -1,0 +1,11 @@
+{
+  "asn": 151525,
+  "handle": "IDNIC-GLOBALDATA-ID",
+  "description": "PT. GLOBAL TRANSMISI DATA",
+  "subnets": {
+    "ipv4": [
+      "103.241.174.0/23"
+    ],
+    "ipv6": []
+  }
+}

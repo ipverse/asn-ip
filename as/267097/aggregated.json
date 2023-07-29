@@ -3,7 +3,9 @@
   "handle": "ORM-CABO-ANANINDEUA",
   "description": "ORM CABO ANANINDEUA LTDA.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.227.228.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,9 +3,7 @@
   "handle": "PSPV2-IN",
   "description": "CPV Division , Ministry of External Affairs",
   "subnets": {
-    "ipv4": [
-      "103.106.106.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

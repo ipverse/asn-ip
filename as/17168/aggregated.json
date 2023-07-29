@@ -4,6 +4,7 @@
   "description": "Thomson Reuters U.S. LLC",
   "subnets": {
     "ipv4": [
+      "155.46.206.0/24",
       "155.46.208.0/23"
     ],
     "ipv6": []

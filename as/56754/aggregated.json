@@ -1,0 +1,11 @@
+{
+  "asn": 56754,
+  "handle": "FOXTELAS",
+  "description": "Foxtel Srl",
+  "subnets": {
+    "ipv4": [
+      "91.227.109.0/24"
+    ],
+    "ipv6": []
+  }
+}

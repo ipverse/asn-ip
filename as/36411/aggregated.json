@@ -4,6 +4,7 @@
   "description": "Google LLC",
   "subnets": {
     "ipv4": [
+      "104.134.233.0/24",
       "104.134.237.0/24"
     ],
     "ipv6": []

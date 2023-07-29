@@ -3,12 +3,7 @@
   "handle": "CINENET-AS2-AP",
   "description": "SUPERLOOP (AUSTRALIA) PTY LTD",
   "subnets": {
-    "ipv4": [
-      "103.28.160.0/24",
-      "103.87.210.0/23"
-    ],
-    "ipv6": [
-      "2401:380::/32"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

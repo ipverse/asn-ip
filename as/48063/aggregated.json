@@ -1,9 +1,13 @@
 {
   "asn": 48063,
-  "handle": "RESERVED",
-  "description": "RIPE NCC ASN block",
+  "handle": "MILLENIUM",
+  "description": "Millenium Internet Exchange Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "41.191.212.0/22",
+      "41.242.144.0/21",
+      "196.50.2.0/24"
+    ],
     "ipv6": []
   }
 }

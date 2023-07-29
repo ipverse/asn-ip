@@ -1,0 +1,13 @@
+{
+  "asn": 273774,
+  "handle": "MAXDATA-SISTEMAS",
+  "description": "MAXDATA SISTEMAS LTDA",
+  "subnets": {
+    "ipv4": [
+      "45.177.250.0/23"
+    ],
+    "ipv6": [
+      "2804:8c04::/32"
+    ]
+  }
+}

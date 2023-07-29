@@ -3,10 +3,7 @@
   "handle": "ENESKOKEN",
   "description": "ENES KOKEN",
   "subnets": {
-    "ipv4": [
-      "91.190.190.0/24",
-      "180.178.161.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

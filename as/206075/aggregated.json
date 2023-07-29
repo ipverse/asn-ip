@@ -3,7 +3,9 @@
   "handle": "MAXIMILIAN-JACOBSEN",
   "description": "Maximilian Jacobsen",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.153.55.0/24"
+    ],
     "ipv6": [
       "2a07:e041::/32"
     ]
