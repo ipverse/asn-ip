@@ -3,10 +3,7 @@
   "handle": "SIRUS-AS2",
   "description": "Sirus, Inc",
   "subnets": {
-    "ipv4": [
-      "64.235.128.0/22",
-      "64.235.136.0/21"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

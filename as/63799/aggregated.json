@@ -1,0 +1,11 @@
+{
+  "asn": 63799,
+  "handle": "GHOST",
+  "description": "Ghost Network",
+  "subnets": {
+    "ipv4": [
+      "103.108.46.0/23"
+    ],
+    "ipv6": []
+  }
+}

@@ -3,7 +3,9 @@
   "handle": "SEQTO",
   "description": "Aiden Pinder trading as SEQTO",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "23.26.224.0/24"
+    ],
     "ipv6": []
   }
 }

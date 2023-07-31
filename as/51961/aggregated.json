@@ -3,10 +3,7 @@
   "handle": "SVXPVT",
   "description": "Standart AG, LLC",
   "subnets": {
-    "ipv4": [
-      "178.250.184.0/23",
-      "178.250.190.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }
