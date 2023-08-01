@@ -3,7 +3,9 @@
   "handle": "SEVANETWORKS-IN",
   "description": "SEVA NETWORKS PVT LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.207.148.0/22"
+    ],
     "ipv6": []
   }
 }

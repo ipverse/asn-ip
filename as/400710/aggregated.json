@@ -3,7 +3,9 @@
   "handle": "MDO",
   "description": "MOCKDO LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "23.137.200.0/24"
+    ],
     "ipv6": []
   }
 }

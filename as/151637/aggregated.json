@@ -1,0 +1,11 @@
+{
+  "asn": 151637,
+  "handle": "EMC-AP",
+  "description": "Erdenet Mining Corporation",
+  "subnets": {
+    "ipv4": [
+      "103.215.14.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -4,8 +4,7 @@
   "description": "Hawaii Department of Education",
   "subnets": {
     "ipv4": [
-      "165.248.0.0/16",
-      "204.174.26.0/24"
+      "165.248.0.0/16"
     ],
     "ipv6": []
   }

@@ -1,0 +1,11 @@
+{
+  "asn": 399002,
+  "handle": "NOVA1NET",
+  "description": "Nova Cablevision, Inc.",
+  "subnets": {
+    "ipv4": [
+      "205.164.96.0/21"
+    ],
+    "ipv6": []
+  }
+}

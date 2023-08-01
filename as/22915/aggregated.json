@@ -3,7 +3,9 @@
   "handle": "FUTUREQUEST-INC",
   "description": "FutureQuest, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "69.5.0.0/19"
+    ],
     "ipv6": []
   }
 }

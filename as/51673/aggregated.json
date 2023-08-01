@@ -3,9 +3,7 @@
   "handle": "DVB",
   "description": "DZ Bank AG Deutsche-Zentralgenossenschaftsbank",
   "subnets": {
-    "ipv4": [
-      "91.220.36.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

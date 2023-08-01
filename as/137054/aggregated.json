@@ -3,9 +3,7 @@
   "handle": "THORN-AP",
   "description": "Radio Rentals",
   "subnets": {
-    "ipv4": [
-      "203.28.223.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

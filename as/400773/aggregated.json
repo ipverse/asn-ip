@@ -1,0 +1,11 @@
+{
+  "asn": 400773,
+  "handle": "BOSTON-FIBER",
+  "description": "Boston Fiber LLC",
+  "subnets": {
+    "ipv4": [
+      "23.157.24.0/24"
+    ],
+    "ipv6": []
+  }
+}

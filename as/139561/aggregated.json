@@ -3,7 +3,9 @@
   "handle": "IMPIRIUS",
   "description": "Impirius Infratech Pvt. Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.147.89.0/24"
+    ],
     "ipv6": []
   }
 }

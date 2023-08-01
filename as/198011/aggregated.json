@@ -1,9 +1,11 @@
 {
   "asn": 198011,
-  "handle": "TILIA",
-  "description": "Zavarovalnica Tilia, d.d.",
+  "handle": "WESERVE-BELGIUM",
+  "description": "Weserve Belgium B.V.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.105.76.0/22"
+    ],
     "ipv6": []
   }
 }

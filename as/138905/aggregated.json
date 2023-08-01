@@ -3,7 +3,9 @@
   "handle": "ENTC-AP",
   "description": "Epic Network Telecom Co.,Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.201.232.0/22"
+    ],
     "ipv6": []
   }
 }

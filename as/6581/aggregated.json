@@ -1,0 +1,13 @@
+{
+  "asn": 6581,
+  "handle": "PATHLINK",
+  "description": "Pathlink Technology",
+  "subnets": {
+    "ipv4": [
+      "174.219.36.0/23"
+    ],
+    "ipv6": [
+      "2600:1010:b0ae::/48"
+    ]
+  }
+}

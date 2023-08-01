@@ -4,6 +4,7 @@
   "description": "CABLE COLOR LLC",
   "subnets": {
     "ipv4": [
+      "38.252.192.0/22",
       "216.66.34.0/24"
     ],
     "ipv6": []

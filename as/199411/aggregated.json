@@ -4,8 +4,7 @@
   "description": "Spoldzielnia Mieszkaniowa Metalowiec W Krasniku",
   "subnets": {
     "ipv4": [
-      "185.17.160.0/22",
-      "185.24.88.0/22"
+      "185.17.160.0/22"
     ],
     "ipv6": []
   }

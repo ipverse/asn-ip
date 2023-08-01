@@ -3,7 +3,10 @@
   "handle": "ZOOM-NETWORKS",
   "description": "Zoom Networks (Pty) Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "102.38.53.0/24",
+      "102.38.54.0/24"
+    ],
     "ipv6": []
   }
 }
