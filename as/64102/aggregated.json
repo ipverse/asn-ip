@@ -3,12 +3,7 @@
   "handle": "ORACLE-CORPORATION",
   "description": "Oracle Corporation",
   "subnets": {
-    "ipv4": [
-      "129.91.14.0/24",
-      "144.22.0.0/17"
-    ],
-    "ipv6": [
-      "2801:1:8806::/48"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

@@ -4,7 +4,8 @@
   "description": "InZernet Technologies, LLC",
   "subnets": {
     "ipv4": [
-      "23.179.16.0/24"
+      "23.179.16.0/24",
+      "207.174.63.0/24"
     ],
     "ipv6": []
   }

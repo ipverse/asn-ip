@@ -3,12 +3,7 @@
   "handle": "BERTRAM-COMMUNICATIONS-DCB",
   "description": "Bertram Communications LLC",
   "subnets": {
-    "ipv4": [
-      "97.107.32.0/20",
-      "104.192.244.0/22"
-    ],
-    "ipv6": [
-      "2607:580::/32"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

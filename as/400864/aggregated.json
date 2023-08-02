@@ -3,9 +3,7 @@
   "handle": "TNX-DFW1",
   "description": "Telnetrix, LLC",
   "subnets": {
-    "ipv4": [
-      "198.145.42.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

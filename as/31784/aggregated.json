@@ -1,0 +1,11 @@
+{
+  "asn": 31784,
+  "handle": "BAINBRIDGE-1",
+  "description": "City of Bainbridge",
+  "subnets": {
+    "ipv4": [
+      "69.7.72.0/22"
+    ],
+    "ipv6": []
+  }
+}

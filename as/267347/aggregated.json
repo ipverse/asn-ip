@@ -3,7 +3,9 @@
   "handle": "PEGASUS-TELECOM",
   "description": "PEGASUS TELECOM",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.233.180.0/22"
+    ],
     "ipv6": []
   }
 }

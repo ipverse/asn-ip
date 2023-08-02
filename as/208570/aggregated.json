@@ -4,7 +4,8 @@
   "description": "Spark Technical Services for Communication Ltd",
   "subnets": {
     "ipv4": [
-      "45.128.120.0/22"
+      "45.128.120.0/22",
+      "185.63.85.0/24"
     ],
     "ipv6": []
   }

@@ -4,10 +4,9 @@
   "description": "UP CABLE SERVIOS DE INTERNET LTDA",
   "subnets": {
     "ipv4": [
-      "45.166.168.0/22"
+      "45.166.168.0/23",
+      "45.166.171.0/24"
     ],
-    "ipv6": [
-      "2804:5624::/32"
-    ]
+    "ipv6": []
   }
 }

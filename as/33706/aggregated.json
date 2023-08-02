@@ -3,7 +3,9 @@
   "handle": "USA-INFINITY",
   "description": "USA INFINITY BROADBAND LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "108.165.173.0/24"
+    ],
     "ipv6": []
   }
 }

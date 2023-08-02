@@ -1,9 +1,11 @@
 {
   "asn": 209224,
-  "handle": "TELEBAECKER",
-  "description": "TeleBaecker UG (haftungsbeschraenkt)",
+  "handle": "CYBERHUB",
+  "description": "CYBERHUB INTERNATIONAL LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "5.42.89.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -4,8 +4,7 @@
   "description": "Zoom Networks (Pty) Ltd",
   "subnets": {
     "ipv4": [
-      "102.38.53.0/24",
-      "102.38.54.0/24"
+      "102.38.52.0/22"
     ],
     "ipv6": []
   }

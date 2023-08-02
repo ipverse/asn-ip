@@ -3,7 +3,9 @@
   "handle": "ACCESSNETWORKS",
   "description": "TRANSMEDIA-ID",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "202.180.0.0/24"
+    ],
     "ipv6": [
       "2001:d68::/48"
     ]

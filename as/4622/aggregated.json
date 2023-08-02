@@ -4,9 +4,11 @@
   "description": "Indonesia Network Information Center",
   "subnets": {
     "ipv4": [
-      "203.119.53.0/24",
-      "203.119.55.0/24"
+      "203.119.13.0/24",
+      "203.119.52.0/22"
     ],
-    "ipv6": []
+    "ipv6": [
+      "2001:dc6::/32"
+    ]
   }
 }

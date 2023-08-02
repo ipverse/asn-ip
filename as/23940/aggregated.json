@@ -3,9 +3,7 @@
   "handle": "RAPL-AP",
   "description": "Refinitiv Australia PTY Limited",
   "subnets": {
-    "ipv4": [
-      "198.80.129.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }
