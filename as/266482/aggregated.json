@@ -3,11 +3,7 @@
   "handle": "LAZARIN-INTERNET",
   "description": "LAZARIN INTERNET LTDA",
   "subnets": {
-    "ipv4": [
-      "170.83.104.0/22"
-    ],
-    "ipv6": [
-      "2804:3880::/32"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

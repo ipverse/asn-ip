@@ -1,0 +1,13 @@
+{
+  "asn": 151085,
+  "handle": "IVANTI-IN",
+  "description": "IVANTI TECHNOLOGY INDIA PRIVATE LIMITED",
+  "subnets": {
+    "ipv4": [
+      "103.135.122.0/23"
+    ],
+    "ipv6": [
+      "2001:df2:6540::/48"
+    ]
+  }
+}

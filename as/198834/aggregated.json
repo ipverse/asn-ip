@@ -3,9 +3,7 @@
   "handle": "SPIKE-TELECOM-LLC",
   "description": "Spike Telecom LLC",
   "subnets": {
-    "ipv4": [
-      "103.238.130.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

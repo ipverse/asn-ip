@@ -4,8 +4,6 @@
   "description": "HostUS",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2602:ffc5:34::/48"
-    ]
+    "ipv6": []
   }
 }

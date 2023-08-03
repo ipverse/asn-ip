@@ -4,7 +4,8 @@
   "description": "PE Beauchiere Remy",
   "subnets": {
     "ipv4": [
-      "91.231.228.0/24"
+      "91.231.228.0/24",
+      "217.197.110.0/24"
     ],
     "ipv6": []
   }

@@ -4,7 +4,6 @@
   "description": "Hewlett-Packard Australia Pty Ltd",
   "subnets": {
     "ipv4": [
-      "192.46.144.0/24",
       "202.2.15.0/24"
     ],
     "ipv6": []

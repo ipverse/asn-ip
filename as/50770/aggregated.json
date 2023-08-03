@@ -4,6 +4,7 @@
   "description": "FIBER FAST SARL",
   "subnets": {
     "ipv4": [
+      "38.172.157.0/24",
       "185.177.211.0/24"
     ],
     "ipv6": []

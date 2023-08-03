@@ -3,7 +3,9 @@
   "handle": "XTDEF-LIMITED-AP",
   "description": "HostUS Solutions LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "85.237.222.0/24"
+    ],
     "ipv6": [
       "2402:9e80:200::/46",
       "2a0c:9a40:8c82::/48"

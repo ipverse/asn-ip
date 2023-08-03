@@ -4,6 +4,9 @@
   "description": "Rok Potocnik, s.p.",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2001:678:ba8::/48",
+      "2a05:dfc7:de00::/39"
+    ]
   }
 }

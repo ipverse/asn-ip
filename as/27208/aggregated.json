@@ -3,9 +3,7 @@
   "handle": "RSRCORP",
   "description": "RSR Corporation",
   "subnets": {
-    "ipv4": [
-      "38.114.110.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }
