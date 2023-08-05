@@ -3,10 +3,7 @@
   "handle": "HIGHWAYNET",
   "description": "Floor 9,Hua Sheng Building No.1 Lane 519 Ao Men Road,Shanghai",
   "subnets": {
-    "ipv4": [
-      "118.242.32.0/21",
-      "118.242.40.0/22"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

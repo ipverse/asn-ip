@@ -4,6 +4,7 @@
   "description": "Istqrar for Servers Services Ltd",
   "subnets": {
     "ipv4": [
+      "45.65.112.0/24",
       "45.84.58.0/24",
       "45.94.31.0/24",
       "45.130.200.0/24",

@@ -4,7 +4,6 @@
   "description": "Banco General, S.A.",
   "subnets": {
     "ipv4": [
-      "45.65.254.0/24",
       "64.116.191.0/24"
     ],
     "ipv6": []

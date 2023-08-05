@@ -4,9 +4,6 @@
   "description": "PT Atharva Telematika Persada",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2a05:dfc7:bc00::/39",
-      "2a0a:280:2a00::/40"
-    ]
+    "ipv6": []
   }
 }

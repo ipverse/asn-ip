@@ -3,7 +3,9 @@
   "handle": "POLISMYNDIGHETEN",
   "description": "Polismyndigheten",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "147.186.0.0/16"
+    ],
     "ipv6": []
   }
 }

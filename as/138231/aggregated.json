@@ -3,7 +3,10 @@
   "handle": "IIITA-IN",
   "description": "Indian Institute Of Information Technology Allahabad",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.119.35.0/24",
+      "103.142.225.0/24"
+    ],
     "ipv6": []
   }
 }

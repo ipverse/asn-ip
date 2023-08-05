@@ -3,7 +3,9 @@
   "handle": "SKTTYNET",
   "description": "Andreas Martin Steiro",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.221.64.0/24"
+    ],
     "ipv6": [
       "2a0e:97c0:b11::/48",
       "2a0e:97c0:b12::/48",
