@@ -3,7 +3,9 @@
   "handle": "XFIBER-IL",
   "description": "Lanir communication LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.116.226.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -4,8 +4,7 @@
   "description": "Internet Connections, Inc.",
   "subnets": {
     "ipv4": [
-      "209.114.1.0/24",
-      "209.114.3.0/24"
+      "209.114.1.0/24"
     ],
     "ipv6": []
   }

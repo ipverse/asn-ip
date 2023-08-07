@@ -1,0 +1,11 @@
+{
+  "asn": 138164,
+  "handle": "MUST-AP",
+  "description": "Macau University of Science and Technology",
+  "subnets": {
+    "ipv4": [
+      "103.240.56.0/24"
+    ],
+    "ipv6": []
+  }
+}
