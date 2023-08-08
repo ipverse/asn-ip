@@ -1,9 +1,11 @@
 {
   "asn": 211962,
-  "handle": "YASMIEN-NASSER",
-  "description": "Yasmien Nasser",
+  "handle": "RICARDO",
+  "description": "Ricardo Holguin Postigo",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a06:1287:d800::/39"
+    ]
   }
 }

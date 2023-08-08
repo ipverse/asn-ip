@@ -3,9 +3,7 @@
   "handle": "DCN-AP",
   "description": "Digital Communication Network",
   "subnets": {
-    "ipv4": [
-      "103.236.107.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

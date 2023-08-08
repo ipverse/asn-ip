@@ -4,6 +4,7 @@
   "description": "Triple T Broadband Public Company Limited",
   "subnets": {
     "ipv4": [
+      "27.130.252.0/24",
       "103.170.130.0/23"
     ],
     "ipv6": [

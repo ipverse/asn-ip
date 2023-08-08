@@ -4,7 +4,7 @@
   "description": "Multitel Servicos de Telecomunicacoes",
   "subnets": {
     "ipv4": [
-      "169.239.108.0/22",
+      "169.239.110.0/23",
       "196.32.192.0/21"
     ],
     "ipv6": []

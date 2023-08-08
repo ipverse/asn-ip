@@ -1,0 +1,11 @@
+{
+  "asn": 50124,
+  "handle": "EASIO-COM",
+  "description": "EASIO-COM SASU",
+  "subnets": {
+    "ipv4": [
+      "45.11.185.0/24"
+    ],
+    "ipv6": []
+  }
+}

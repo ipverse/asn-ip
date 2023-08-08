@@ -3,7 +3,11 @@
   "handle": "ZGOCLOUD",
   "description": "ZgoShop, Inc.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "23.158.24.0/24"
+    ],
+    "ipv6": [
+      "2602:fa56::/40"
+    ]
   }
 }

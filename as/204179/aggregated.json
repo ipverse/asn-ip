@@ -3,7 +3,9 @@
   "handle": "ERIKLARSSON",
   "description": "Lars Erik Reuterborg Larsson",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "109.74.24.0/23"
+    ],
     "ipv6": [
       "2a0d:41c0::/32"
     ]

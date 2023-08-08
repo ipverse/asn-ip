@@ -1,0 +1,11 @@
+{
+  "asn": 63152,
+  "handle": "CASCADE-COMMUNICATIONS-01",
+  "description": "Cascade Communications Company",
+  "subnets": {
+    "ipv4": [
+      "216.49.174.0/23"
+    ],
+    "ipv6": []
+  }
+}

@@ -3,11 +3,7 @@
   "handle": "MOZILLA-SFO1",
   "description": "Mozilla Corporation",
   "subnets": {
-    "ipv4": [
-      "63.245.222.0/24"
-    ],
-    "ipv6": [
-      "2620:101:80fb::/48"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

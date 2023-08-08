@@ -4,6 +4,7 @@
   "description": "AdKyNet SAS",
   "subnets": {
     "ipv4": [
+      "83.150.217.0/24",
       "185.218.21.0/24"
     ],
     "ipv6": [

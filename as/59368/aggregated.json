@@ -3,7 +3,9 @@
   "handle": "CODEBLUE-AP",
   "description": "Fujifilm Codeblue Australia Pty Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.232.96.0/22"
+    ],
     "ipv6": [
       "2400:1bc0::/32"
     ]
