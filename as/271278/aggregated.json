@@ -4,6 +4,7 @@
   "description": "A B OLIVEIRA TELECOMUNICACAO E INFORMARTICA",
   "subnets": {
     "ipv4": [
+      "168.197.14.0/24",
       "179.49.192.0/22"
     ],
     "ipv6": [

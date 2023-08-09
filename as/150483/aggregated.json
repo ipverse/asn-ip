@@ -3,7 +3,9 @@
   "handle": "IDNIC-KNA-ID",
   "description": "PT Kuantan Net Akses",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.54.168.0/24"
+    ],
     "ipv6": []
   }
 }

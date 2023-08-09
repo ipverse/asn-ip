@@ -3,7 +3,9 @@
   "handle": "ADS",
   "description": "ADS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "207.59.33.0/24"
+    ],
     "ipv6": []
   }
 }

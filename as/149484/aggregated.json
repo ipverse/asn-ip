@@ -3,9 +3,7 @@
   "handle": "WTPL-AP",
   "description": "WorldLink Telecom Private Limited",
   "subnets": {
-    "ipv4": [
-      "103.180.242.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

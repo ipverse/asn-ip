@@ -3,7 +3,9 @@
   "handle": "BANFIELD",
   "description": "Banfield",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "209.66.89.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -4,8 +4,7 @@
   "description": "PT CITRAWEB DIGITAL MULTISOLUSI",
   "subnets": {
     "ipv4": [
-      "103.123.16.0/23",
-      "103.123.18.0/24"
+      "103.123.16.0/22"
     ],
     "ipv6": []
   }

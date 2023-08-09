@@ -3,7 +3,9 @@
   "handle": "CASELLAWASTE",
   "description": "Casella Waste System Inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "8.40.93.0/24"
+    ],
     "ipv6": [
       "2620:131:8008::/45"
     ]

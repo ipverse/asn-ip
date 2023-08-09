@@ -4,8 +4,6 @@
   "description": "Easley Combined Utilities",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2620:b4:a000::/48"
-    ]
+    "ipv6": []
   }
 }

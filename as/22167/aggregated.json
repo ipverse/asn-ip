@@ -3,9 +3,7 @@
   "handle": "FINTECH-INTERNET",
   "description": "Fintech",
   "subnets": {
-    "ipv4": [
-      "67.129.188.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "UCTM",
   "description": "University of Chemical Technology And Metallurgy",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.30.228.0/22"
+    ],
     "ipv6": []
   }
 }
