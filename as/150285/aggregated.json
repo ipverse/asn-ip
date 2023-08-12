@@ -4,7 +4,8 @@
   "description": "Long Mao Home Center Co.ltd.,",
   "subnets": {
     "ipv4": [
-      "103.38.8.0/24"
+      "103.38.8.0/24",
+      "103.250.76.0/24"
     ],
     "ipv6": []
   }

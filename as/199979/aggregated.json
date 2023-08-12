@@ -3,9 +3,7 @@
   "handle": "PIB",
   "description": "Palestine Islamic Bank Public shareholding company",
   "subnets": {
-    "ipv4": [
-      "212.11.92.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

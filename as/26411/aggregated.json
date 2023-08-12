@@ -3,7 +3,9 @@
   "handle": "PRERENDER-NET",
   "description": "Saas.group LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.207.43.0/24"
+    ],
     "ipv6": []
   }
 }

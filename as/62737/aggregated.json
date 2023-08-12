@@ -3,7 +3,9 @@
   "handle": "PARINC",
   "description": "Psychological Assessment Resources, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "74.203.137.0/24"
+    ],
     "ipv6": []
   }
 }

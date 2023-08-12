@@ -4,6 +4,7 @@
   "description": "QualiSpace Inc",
   "subnets": {
     "ipv4": [
+      "23.226.120.0/24",
       "23.226.124.0/22"
     ],
     "ipv6": []

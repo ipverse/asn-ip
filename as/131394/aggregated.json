@@ -3,9 +3,7 @@
   "handle": "CLOUDOVS-VN",
   "description": "Cloudovs Vietnam Technology Joint Stock Company",
   "subnets": {
-    "ipv4": [
-      "103.243.107.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

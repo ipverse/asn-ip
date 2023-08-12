@@ -1,0 +1,12 @@
+{
+  "asn": 398224,
+  "handle": "UNITEDBANK-01",
+  "description": "United Bankshares, Inc.",
+  "subnets": {
+    "ipv4": [
+      "63.68.190.0/23",
+      "208.200.98.0/23"
+    ],
+    "ipv6": []
+  }
+}
