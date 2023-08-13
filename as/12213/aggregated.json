@@ -4,6 +4,7 @@
   "description": "Cyxtera Technologies Inc",
   "subnets": {
     "ipv4": [
+      "24.170.132.0/22",
       "72.21.21.0/24",
       "74.80.242.0/24",
       "74.80.248.0/24",

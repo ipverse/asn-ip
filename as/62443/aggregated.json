@@ -1,9 +1,11 @@
 {
   "asn": 62443,
-  "handle": "LUIS-ZS",
-  "description": "Luis+Zapadnaya Sibir Ltd.",
+  "handle": "VTNS",
+  "description": "Nicolas VUILLERMET",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a13:cc80::/31"
+    ]
   }
 }

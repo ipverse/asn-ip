@@ -1,0 +1,11 @@
+{
+  "asn": 6488,
+  "handle": "DS-0",
+  "description": "AMUG",
+  "subnets": {
+    "ipv4": [
+      "206.197.47.0/24"
+    ],
+    "ipv6": []
+  }
+}

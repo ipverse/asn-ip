@@ -1,0 +1,12 @@
+{
+  "asn": 53928,
+  "handle": "FORTINET",
+  "description": "Fortinet Inc.",
+  "subnets": {
+    "ipv4": [
+      "96.45.34.0/24",
+      "96.45.37.0/24"
+    ],
+    "ipv6": []
+  }
+}
