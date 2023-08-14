@@ -3,7 +3,9 @@
   "handle": "EPITECH",
   "description": "EPITECH ECOLE INFORMATIQUE NOUV TECHNOL A.D",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "188.94.191.0/24"
+    ],
     "ipv6": []
   }
 }

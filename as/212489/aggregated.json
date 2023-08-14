@@ -3,7 +3,9 @@
   "handle": "EPITA",
   "description": "ASSO EPITA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.243.117.0/24"
+    ],
     "ipv6": []
   }
 }

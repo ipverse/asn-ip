@@ -3,7 +3,9 @@
   "handle": "NHRINET",
   "description": "National Health Research Institutes",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "211.76.160.0/20"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "TN-CUSTOM",
   "description": "Stefan Wild",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "156.67.15.0/24"
+    ],
     "ipv6": []
   }
 }

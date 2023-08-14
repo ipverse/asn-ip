@@ -3,7 +3,9 @@
   "handle": "COMONE-SERVICES-LTD",
   "description": "CompOne",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "208.94.251.0/24"
+    ],
     "ipv6": []
   }
 }

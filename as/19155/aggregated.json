@@ -4,6 +4,7 @@
   "description": "Vystar Credit Union",
   "subnets": {
     "ipv4": [
+      "216.109.240.0/21",
       "216.109.253.0/24"
     ],
     "ipv6": []

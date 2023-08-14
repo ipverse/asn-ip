@@ -3,7 +3,9 @@
   "handle": "SUPBIOTECH",
   "description": "Institut Superieur Des Biotechnologies",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.231.126.0/24"
+    ],
     "ipv6": []
   }
 }

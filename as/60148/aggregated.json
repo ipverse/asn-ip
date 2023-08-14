@@ -4,6 +4,7 @@
   "description": "Information Technology Company (ITC)",
   "subnets": {
     "ipv4": [
+      "2.181.223.0/24",
       "2.184.254.0/23",
       "2.187.253.0/24",
       "78.38.237.0/24",
