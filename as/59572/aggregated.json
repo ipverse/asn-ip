@@ -3,7 +3,10 @@
   "handle": "NETASK",
   "description": "Netask.pl Konopielko Michal",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "78.31.214.0/24",
+      "193.35.1.0/24"
+    ],
     "ipv6": []
   }
 }

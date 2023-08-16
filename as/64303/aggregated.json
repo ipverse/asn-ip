@@ -3,7 +3,9 @@
   "handle": "IDNIC-UNISBA-ID",
   "description": "Universitas Islam Bandung",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.78.195.0/24"
+    ],
     "ipv6": []
   }
 }

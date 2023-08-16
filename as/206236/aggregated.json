@@ -3,7 +3,9 @@
   "handle": "CHRISD",
   "description": "Christian Dieckhoff",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.245.66.0/24"
+    ],
     "ipv6": [
       "2a10:1a40::/29"
     ]

@@ -3,9 +3,7 @@
   "handle": "DNS4EU",
   "description": "Whalebone, s.r.o.",
   "subnets": {
-    "ipv4": [
-      "193.224.59.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

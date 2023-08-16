@@ -3,12 +3,7 @@
   "handle": "CLOUDFITTERS-NTW-01",
   "description": "Cloudfitters",
   "subnets": {
-    "ipv4": [
-      "63.161.107.0/24",
-      "209.142.68.0/24"
-    ],
-    "ipv6": [
-      "2602:fea7:d00::/40"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

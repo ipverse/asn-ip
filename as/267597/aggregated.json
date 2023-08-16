@@ -4,7 +4,8 @@
   "description": "VIRTUALNET SERVICOS DE INFORMATICA LTDA - ME",
   "subnets": {
     "ipv4": [
-      "45.71.72.0/22"
+      "45.71.72.0/24",
+      "45.71.74.0/23"
     ],
     "ipv6": []
   }

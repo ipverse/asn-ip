@@ -3,7 +3,9 @@
   "handle": "UPMC-SOMERSET",
   "description": "UPMC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "198.177.199.0/24"
+    ],
     "ipv6": []
   }
 }

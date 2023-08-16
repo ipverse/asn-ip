@@ -4,7 +4,7 @@
   "description": "Good Samaritan Hospital",
   "subnets": {
     "ipv4": [
-      "199.189.18.0/23",
+      "199.189.19.0/24",
       "199.189.20.0/23"
     ],
     "ipv6": []

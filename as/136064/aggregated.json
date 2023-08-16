@@ -3,10 +3,7 @@
   "handle": "IDNIC-WINTEL-ID",
   "description": "PT. WINUSA CIPTA TELEMATIKA",
   "subnets": {
-    "ipv4": [
-      "103.83.116.0/24",
-      "103.83.118.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

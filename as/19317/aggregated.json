@@ -1,0 +1,11 @@
+{
+  "asn": 19317,
+  "handle": "BSKY-POP-1",
+  "description": "Bluesky Social, PBC",
+  "subnets": {
+    "ipv4": [
+      "108.179.139.0/24"
+    ],
+    "ipv6": []
+  }
+}

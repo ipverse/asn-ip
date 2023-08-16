@@ -1,0 +1,11 @@
+{
+  "asn": 151544,
+  "handle": "IDNIC-PANDAWANETWORK-ID",
+  "description": "CV Pandawa Network",
+  "subnets": {
+    "ipv4": [
+      "103.245.159.0/24"
+    ],
+    "ipv6": []
+  }
+}

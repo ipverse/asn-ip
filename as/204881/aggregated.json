@@ -3,7 +3,10 @@
   "handle": "GREEN-IT",
   "description": "GREEN IT GmbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.213.235.0/24",
+      "91.240.163.0/24"
+    ],
     "ipv6": [
       "2a12:fd40::/29"
     ]

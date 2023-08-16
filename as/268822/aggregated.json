@@ -4,6 +4,8 @@
   "description": "VILA RESENDE TELECOMUNICAES LTDA ME.",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2804:5b28::/32"
+    ]
   }
 }
