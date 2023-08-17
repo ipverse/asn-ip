@@ -4,8 +4,11 @@
   "description": "LTN Global Communications Inc",
   "subnets": {
     "ipv4": [
-      "46.247.64.0/23"
+      "46.247.64.0/23",
+      "46.247.67.0/24"
     ],
-    "ipv6": []
+    "ipv6": [
+      "2607:54c0:3::/48"
+    ]
   }
 }

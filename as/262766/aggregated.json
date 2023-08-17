@@ -4,6 +4,7 @@
   "description": "VITAL NET",
   "subnets": {
     "ipv4": [
+      "45.5.171.0/24",
       "186.232.16.0/20"
     ],
     "ipv6": [

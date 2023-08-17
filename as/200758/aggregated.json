@@ -3,11 +3,7 @@
   "handle": "TKWY",
   "description": "Just Eat Takeaway.com NV",
   "subnets": {
-    "ipv4": [
-      "185.97.40.0/22"
-    ],
-    "ipv6": [
-      "2a06:480::/29"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

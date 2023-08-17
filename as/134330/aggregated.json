@@ -4,8 +4,7 @@
   "description": "Sst Infotech India Private Limited",
   "subnets": {
     "ipv4": [
-      "103.30.72.0/23",
-      "103.155.147.0/24"
+      "103.30.72.0/23"
     ],
     "ipv6": [
       "2001:df1:5340::/48"

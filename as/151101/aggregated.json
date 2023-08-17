@@ -4,6 +4,7 @@
   "description": "Sphatik Network Private Limited",
   "subnets": {
     "ipv4": [
+      "103.136.189.0/24",
       "103.221.238.0/23"
     ],
     "ipv6": [

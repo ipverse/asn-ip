@@ -3,7 +3,9 @@
   "handle": "TRANSCOMLIMITED-AP",
   "description": "Transcom Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.153.212.0/23"
+    ],
     "ipv6": []
   }
 }

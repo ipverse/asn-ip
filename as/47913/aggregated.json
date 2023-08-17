@@ -4,7 +4,8 @@
   "description": "Moshonkin Ilia Sergeevich",
   "subnets": {
     "ipv4": [
-      "5.252.28.0/22"
+      "5.252.28.0/22",
+      "185.117.28.0/23"
     ],
     "ipv6": []
   }

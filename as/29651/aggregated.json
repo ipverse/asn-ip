@@ -3,9 +3,7 @@
   "handle": "CTCS",
   "description": "JSC RT Labs",
   "subnets": {
-    "ipv4": [
-      "82.196.138.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

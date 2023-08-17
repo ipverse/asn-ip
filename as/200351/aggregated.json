@@ -3,7 +3,9 @@
   "handle": "QUANTUM-NET",
   "description": "Guanzhong Chen",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "23.160.152.0/24"
+    ],
     "ipv6": [
       "2602:fa43::/47",
       "2602:fa43:10::/44",

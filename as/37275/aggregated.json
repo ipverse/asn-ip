@@ -3,7 +3,9 @@
   "handle": "ETC",
   "description": "ETC (Pty) Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "41.78.140.0/22"
+    ],
     "ipv6": []
   }
 }

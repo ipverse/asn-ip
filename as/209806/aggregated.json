@@ -3,7 +3,9 @@
   "handle": "VAPRIX-GROUP",
   "description": "Vaprix Group Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "83.143.112.0/24"
+    ],
     "ipv6": []
   }
 }

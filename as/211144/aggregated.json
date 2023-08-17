@@ -3,9 +3,7 @@
   "handle": "FARNELL",
   "description": "Joseph Farnell",
   "subnets": {
-    "ipv4": [
-      "23.132.185.0/24"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2a0f:9400:7005::/48"
     ]

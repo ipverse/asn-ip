@@ -3,14 +3,7 @@
   "handle": "CONECTA-MINAS-TELECOM",
   "description": "Conecta Minas Telecom LTDA",
   "subnets": {
-    "ipv4": [
-      "138.117.204.0/22",
-      "168.181.80.0/22",
-      "177.125.80.0/20",
-      "177.221.72.0/21"
-    ],
-    "ipv6": [
-      "2804:ca4::/32"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }
