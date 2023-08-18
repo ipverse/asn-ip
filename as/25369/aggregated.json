@@ -4,6 +4,7 @@
   "description": "Hydra Communications Ltd",
   "subnets": {
     "ipv4": [
+      "5.102.39.0/24",
       "5.105.38.0/23",
       "5.105.79.0/24",
       "5.105.90.0/23",

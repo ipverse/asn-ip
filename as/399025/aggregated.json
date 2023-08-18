@@ -1,0 +1,11 @@
+{
+  "asn": 399025,
+  "handle": "WESTNETWORKS-GNV-FL-02",
+  "description": "West Networks LLC",
+  "subnets": {
+    "ipv4": [
+      "23.138.241.0/24"
+    ],
+    "ipv6": []
+  }
+}

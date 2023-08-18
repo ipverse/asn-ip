@@ -3,7 +3,9 @@
   "handle": "VIVACREDIT",
   "description": "Viva Credit IFN SA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "92.119.188.0/24"
+    ],
     "ipv6": []
   }
 }

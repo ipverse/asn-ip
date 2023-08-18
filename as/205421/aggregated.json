@@ -3,7 +3,9 @@
   "handle": "CLOUDEXIS",
   "description": "CloudExis LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "23.147.40.0/24"
+    ],
     "ipv6": []
   }
 }

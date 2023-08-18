@@ -3,7 +3,9 @@
   "handle": "IL-NOORCOM",
   "description": "NoorCom Communication Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.66.96.0/24"
+    ],
     "ipv6": [
       "2a12:7940::/29"
     ]

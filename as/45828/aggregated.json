@@ -3,11 +3,7 @@
   "handle": "DIVERSE-AU-AP",
   "description": "DIVERSE SERVICES (WA) PTY LTD",
   "subnets": {
-    "ipv4": [
-      "103.103.84.0/23",
-      "103.103.86.0/24",
-      "203.217.148.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

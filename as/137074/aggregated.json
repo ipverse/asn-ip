@@ -4,7 +4,8 @@
   "description": "Responsible Internet Sustainability Effort",
   "subnets": {
     "ipv4": [
-      "103.104.16.0/22",
+      "103.104.16.0/23",
+      "103.104.18.0/24",
       "116.89.246.0/23"
     ],
     "ipv6": []

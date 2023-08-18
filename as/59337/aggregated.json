@@ -1,0 +1,12 @@
+{
+  "asn": 59337,
+  "handle": "I4HK-AP",
+  "description": "i4HK Limited",
+  "subnets": {
+    "ipv4": [
+      "114.112.247.0/24",
+      "223.252.161.0/24"
+    ],
+    "ipv6": []
+  }
+}
