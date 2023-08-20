@@ -1,6 +1,5 @@
 # AS37315 (CIPHERWAVE)
 # Cipherwave
 #
-2c0f:ec80::/32
-2c0f:f6e8::/32
-2c0f:fb40::/32
+2c0f:ec80:8000::/36
+2c0f:ec80:c000::/36

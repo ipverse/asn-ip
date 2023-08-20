@@ -4,7 +4,6 @@
   "description": "REDLAM S.R.L",
   "subnets": {
     "ipv4": [
-      "45.168.80.0/24",
       "45.169.52.0/23"
     ],
     "ipv6": []

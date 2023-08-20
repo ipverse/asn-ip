@@ -4,10 +4,6 @@
   "description": "Moritz Mantel",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2a06:de01:70::/48",
-      "2a06:de01:7c::/46",
-      "2a13:df80:1300::/45"
-    ]
+    "ipv6": []
   }
 }
