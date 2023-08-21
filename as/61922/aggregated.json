@@ -1,7 +1,7 @@
 {
   "asn": 61922,
-  "handle": "CONEXAO-TELEMATICA",
-  "description": "Conexao Telematica",
+  "handle": "CONEXAO-TELEMATICA-XCELLINK",
+  "description": "Conexao Telematica XcelLink",
   "subnets": {
     "ipv4": [
       "189.127.172.0/24",

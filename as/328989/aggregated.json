@@ -4,8 +4,7 @@
   "description": "SMARTCLOUD AFRICA LIMITED",
   "subnets": {
     "ipv4": [
-      "102.217.124.0/23",
-      "102.217.127.0/24"
+      "102.217.124.0/22"
     ],
     "ipv6": []
   }
