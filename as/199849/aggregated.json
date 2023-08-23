@@ -3,7 +3,9 @@
   "handle": "APA",
   "description": "Gostaresh Etrtebatate Apadana Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.44.112.0/22"
+    ],
     "ipv6": []
   }
 }

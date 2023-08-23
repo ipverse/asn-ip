@@ -3,9 +3,7 @@
   "handle": "BBVA-SEGUROS-VIDA",
   "description": "BBVA SEGUROS DE VIDA S.A",
   "subnets": {
-    "ipv4": [
-      "190.8.74.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

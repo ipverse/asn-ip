@@ -3,9 +3,7 @@
   "handle": "CORPORATE-ONE-FCU",
   "description": "Corporate One Federal Credit Union",
   "subnets": {
-    "ipv4": [
-      "8.45.132.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

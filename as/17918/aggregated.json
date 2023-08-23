@@ -4,11 +4,9 @@
   "description": "AUSTRALIAN CENTRE FOR ADVANCED COMPUTING AND COMMUNICATION PTY LTD",
   "subnets": {
     "ipv4": [
-      "14.192.160.0/19",
       "117.53.160.0/20",
       "119.77.0.0/18",
       "202.44.98.0/23",
-      "202.93.250.0/23",
       "202.129.128.0/19"
     ],
     "ipv6": [

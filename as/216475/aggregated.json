@@ -1,0 +1,13 @@
+{
+  "asn": 216475,
+  "handle": "NKTELECOM",
+  "description": "NKtelecom INC",
+  "subnets": {
+    "ipv4": [
+      "185.170.10.0/24"
+    ],
+    "ipv6": [
+      "2a0c:dd80:2000::/48"
+    ]
+  }
+}
