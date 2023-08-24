@@ -1,0 +1,11 @@
+{
+  "asn": 150976,
+  "handle": "IDNIC-MSNET-ID",
+  "description": "PT Mekarsari Digital Teknologi",
+  "subnets": {
+    "ipv4": [
+      "103.242.234.0/24"
+    ],
+    "ipv6": []
+  }
+}

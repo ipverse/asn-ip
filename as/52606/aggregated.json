@@ -4,6 +4,7 @@
   "description": "BRASILNETS COM. ATAC. DE EQ. INFORMATICA LTDA ME",
   "subnets": {
     "ipv4": [
+      "45.184.15.0/24",
       "177.125.40.0/22"
     ],
     "ipv6": []

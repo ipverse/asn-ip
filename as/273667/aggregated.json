@@ -4,9 +4,6 @@
   "description": "CAMPELO ROCHA SERVICOS DE COMUNICACAO E MULTIMIDIA",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2804:7be8:c004::/47",
-      "2804:8a68::/32"
-    ]
+    "ipv6": []
   }
 }

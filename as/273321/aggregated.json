@@ -1,0 +1,11 @@
+{
+  "asn": 273321,
+  "handle": "AGRO-TELECOM",
+  "description": "AGRO TELECOM",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2804:8ce4::/32"
+    ]
+  }
+}

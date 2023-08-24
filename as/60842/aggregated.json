@@ -3,7 +3,9 @@
   "handle": "HUIZE-HOLDINGS",
   "description": "Huize Holdings LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.87.32.0/24"
+    ],
     "ipv6": []
   }
 }

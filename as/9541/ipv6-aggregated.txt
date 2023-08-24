@@ -1,9 +1,7 @@
 # AS9541 (CYBERNET-AP)
 # Cyber Internet Services (Private) Limited
 #
-2400:adc0::/46
-2400:adc0:4::/47
-2400:adc0:6::/48
+2400:adc0::/45
 2400:adc0:10::/46
 2400:adc0:14::/47
 2400:adc0:20::/47
