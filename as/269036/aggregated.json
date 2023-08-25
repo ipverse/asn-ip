@@ -4,7 +4,8 @@
   "description": "ATEX NET TELECOMUNICACOES LTDA",
   "subnets": {
     "ipv4": [
-      "45.178.172.0/22"
+      "45.178.172.0/22",
+      "200.188.218.0/23"
     ],
     "ipv6": [
       "2804:5e7c::/32"

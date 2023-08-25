@@ -3,9 +3,7 @@
   "handle": "TELETOK-AP",
   "description": "Telecommunications Tokelau Corporation - Teletok",
   "subnets": {
-    "ipv4": [
-      "27.96.31.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

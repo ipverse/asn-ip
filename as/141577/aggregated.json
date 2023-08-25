@@ -1,0 +1,11 @@
+{
+  "asn": 141577,
+  "handle": "IDNIC-MDNUSANTARA-ID",
+  "description": "PT Meta Data Nusantara",
+  "subnets": {
+    "ipv4": [
+      "103.158.25.0/24"
+    ],
+    "ipv6": []
+  }
+}

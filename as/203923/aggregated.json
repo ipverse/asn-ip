@@ -3,9 +3,7 @@
   "handle": "WSMEDIAEU",
   "description": "World Streamedia, Inc.",
   "subnets": {
-    "ipv4": [
-      "185.119.222.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

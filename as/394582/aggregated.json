@@ -1,0 +1,12 @@
+{
+  "asn": 394582,
+  "handle": "BINARY-US",
+  "description": "binaryMedia LLC",
+  "subnets": {
+    "ipv4": [
+      "204.80.96.0/23",
+      "204.80.98.0/24"
+    ],
+    "ipv6": []
+  }
+}

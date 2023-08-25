@@ -3,9 +3,7 @@
   "handle": "FBNET-IN",
   "description": "FUTURE NETSANCHAR LIMITED",
   "subnets": {
-    "ipv4": [
-      "43.250.252.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

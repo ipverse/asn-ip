@@ -4,10 +4,10 @@
   "description": "BIT CENTER INFORMATICA EIRELI",
   "subnets": {
     "ipv4": [
-      "181.233.28.0/22"
+      "181.233.28.0/23"
     ],
     "ipv6": [
-      "2804:7c08::/32"
+      "2804:7c08::/33"
     ]
   }
 }
