@@ -4,6 +4,7 @@
   "description": "SERVICIOS DE TELECOMUNICACIONES INTERCABLE LTDA.",
   "subnets": {
     "ipv4": [
+      "38.250.124.0/22",
       "138.36.252.0/22"
     ],
     "ipv6": [

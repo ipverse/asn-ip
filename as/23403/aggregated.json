@@ -1,9 +1,11 @@
 {
   "asn": 23403,
-  "handle": "THE-COURIER-JOURNAL",
-  "description": "The Courier-Journal, inc.",
+  "handle": "HALFBAT",
+  "description": "Half Bat LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.16.104.0/24"
+    ],
     "ipv6": []
   }
 }

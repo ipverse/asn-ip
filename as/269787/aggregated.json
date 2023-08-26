@@ -3,9 +3,7 @@
   "handle": "ASOCIACION-CAMARA-INFOCOMUNICACION",
   "description": "ASOCIACION CAMARA DE INFOCOMUNICACION Y TECNOLOGIA",
   "subnets": {
-    "ipv4": [
-      "198.186.207.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

@@ -3,9 +3,7 @@
   "handle": "CG-WW-NET",
   "description": "Intersection Design and Technology",
   "subnets": {
-    "ipv4": [
-      "52.119.0.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

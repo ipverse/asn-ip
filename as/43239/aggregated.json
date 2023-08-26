@@ -3,9 +3,7 @@
   "handle": "BARSAN",
   "description": "Barsan Global Lojistik Anonim Sirketi",
   "subnets": {
-    "ipv4": [
-      "185.187.107.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

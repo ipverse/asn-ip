@@ -3,7 +3,9 @@
   "handle": "MATRIX",
   "description": "Matrix Telecom Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "171.22.28.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "DIANEL",
   "description": "Dianel LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "62.133.59.0/24"
+    ],
     "ipv6": []
   }
 }

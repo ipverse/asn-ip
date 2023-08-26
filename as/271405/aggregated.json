@@ -3,7 +3,9 @@
   "handle": "SPACEINFO",
   "description": "SpaceInfo LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "181.224.62.0/24"
+    ],
     "ipv6": []
   }
 }

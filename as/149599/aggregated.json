@@ -4,8 +4,6 @@
   "description": "Belltel Network Pvt Ltd.",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2400:84e0::/32"
-    ]
+    "ipv6": []
   }
 }

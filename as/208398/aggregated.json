@@ -3,7 +3,9 @@
   "handle": "TELETECH",
   "description": "Teletech d.o.o. Beograd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "37.9.95.0/24"
+    ],
     "ipv6": [
       "2a02:6b8::/29"
     ]

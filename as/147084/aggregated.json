@@ -4,7 +4,8 @@
   "description": "PT Anum Nusantara Media",
   "subnets": {
     "ipv4": [
-      "103.63.191.0/24"
+      "103.63.191.0/24",
+      "103.173.133.0/24"
     ],
     "ipv6": []
   }

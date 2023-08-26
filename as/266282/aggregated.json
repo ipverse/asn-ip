@@ -4,8 +4,7 @@
   "description": "V-LINK FIBRA - PROVEDOR DE INTERNET",
   "subnets": {
     "ipv4": [
-      "170.79.76.0/23",
-      "170.79.78.0/24"
+      "170.79.76.0/22"
     ],
     "ipv6": [
       "2804:3560::/32"

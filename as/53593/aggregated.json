@@ -1,0 +1,12 @@
+{
+  "asn": 53593,
+  "handle": "ZCONNECT-01",
+  "description": "zConnect",
+  "subnets": {
+    "ipv4": [
+      "38.110.5.0/24",
+      "38.110.15.0/24"
+    ],
+    "ipv6": []
+  }
+}
