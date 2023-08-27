@@ -3,9 +3,7 @@
   "handle": "NASULEX-AP",
   "description": "Forhosting",
   "subnets": {
-    "ipv4": [
-      "23.247.170.0/24"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2602:fc15::/44"
     ]

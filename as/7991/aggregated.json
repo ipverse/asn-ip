@@ -3,9 +3,7 @@
   "handle": "CENTURYLINK-LEGACY-SAVVIS-ASIA-TRANSIT",
   "description": "CenturyLink Communications, LLC",
   "subnets": {
-    "ipv4": [
-      "205.139.16.0/20"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

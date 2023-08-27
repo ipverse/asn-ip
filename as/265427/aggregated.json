@@ -4,7 +4,8 @@
   "description": "SELKO INTERNET PROVEDOR E SERVICOS DE TECNOLOGIA",
   "subnets": {
     "ipv4": [
-      "168.195.192.0/22"
+      "168.195.192.0/24",
+      "168.195.194.0/23"
     ],
     "ipv6": [
       "2804:33f4::/32"

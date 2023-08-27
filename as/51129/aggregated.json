@@ -3,7 +3,11 @@
   "handle": "MARK-MILES",
   "description": "Mark Miles",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "63.96.50.0/23"
+    ],
+    "ipv6": [
+      "2602:fed2:7313::/48"
+    ]
   }
 }

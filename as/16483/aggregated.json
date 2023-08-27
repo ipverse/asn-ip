@@ -4,6 +4,8 @@
   "description": "Raa Data Services, Inc.",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2604:acc0::/32"
+    ]
   }
 }

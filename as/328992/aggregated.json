@@ -3,9 +3,7 @@
   "handle": "BONUS-1000F",
   "description": "Bonus 1000F",
   "subnets": {
-    "ipv4": [
-      "102.212.4.0/22"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

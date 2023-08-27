@@ -3,9 +3,7 @@
   "handle": "GOSTREAM",
   "description": "Gostream B.V.",
   "subnets": {
-    "ipv4": [
-      "93.93.104.0/22"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }
