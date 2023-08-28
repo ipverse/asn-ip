@@ -4,6 +4,7 @@
   "description": "Jaune de Mars SAS",
   "subnets": {
     "ipv4": [
+      "91.198.88.0/24",
       "185.28.40.0/22"
     ],
     "ipv6": []

@@ -3,7 +3,9 @@
   "handle": "WNET",
   "description": "Infotech EDV-Systeme GmbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.236.144.0/22"
+    ],
     "ipv6": []
   }
 }
