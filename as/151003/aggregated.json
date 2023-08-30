@@ -1,0 +1,11 @@
+{
+  "asn": 151003,
+  "handle": "TRIAKSES-ID",
+  "description": "PT. Tri Akses Nusantara",
+  "subnets": {
+    "ipv4": [
+      "103.213.234.0/23"
+    ],
+    "ipv6": []
+  }
+}

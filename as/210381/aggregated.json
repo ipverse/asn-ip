@@ -1,9 +1,11 @@
 {
   "asn": 210381,
-  "handle": "EVAN-SH",
+  "handle": "EVANSH",
   "description": "Evan MORVAN",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a05:dfc1:6300::/47"
+    ]
   }
 }

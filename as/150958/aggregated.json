@@ -1,0 +1,11 @@
+{
+  "asn": 150958,
+  "handle": "IDNIC-FDN-ID",
+  "description": "PT Fiber Data Nusantara",
+  "subnets": {
+    "ipv4": [
+      "103.81.111.0/24"
+    ],
+    "ipv6": []
+  }
+}

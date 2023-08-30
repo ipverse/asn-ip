@@ -1,0 +1,11 @@
+{
+  "asn": 273310,
+  "handle": "ERELINE-PROVEDOR-INTERNET",
+  "description": "ERELINE PROVEDOR DE INTERNET LTDA",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2804:8c80::/32"
+    ]
+  }
+}

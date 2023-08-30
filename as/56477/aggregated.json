@@ -3,7 +3,11 @@
   "handle": "NTKLTD",
   "description": "OOO WestCall Ltd.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "91.224.182.0/23"
+    ],
+    "ipv6": [
+      "2a00:c4c0::/32"
+    ]
   }
 }

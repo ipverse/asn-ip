@@ -3,7 +3,9 @@
   "handle": "LPS-6",
   "description": "Black Knight IP Holding Company, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.177.216.0/22"
+    ],
     "ipv6": []
   }
 }

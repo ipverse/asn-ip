@@ -1,0 +1,11 @@
+{
+  "asn": 64103,
+  "handle": "CABASE-CAMARA-ARG",
+  "description": "CABASE Camara Arg de Base de Datos y Serv en Linea",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2001:13c7:601d::/48"
+    ]
+  }
+}

@@ -3,11 +3,7 @@
   "handle": "DELMARVA",
   "description": "Delmarva Power \u0026 Light Company",
   "subnets": {
-    "ipv4": [
-      "138.39.22.0/23",
-      "138.39.24.0/24",
-      "138.39.47.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

@@ -3,9 +3,7 @@
   "handle": "BGTPL",
   "description": "BLITS GLOBAL TECHNOLOGIES PVT LTD",
   "subnets": {
-    "ipv4": [
-      "103.167.128.0/23"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2001:df1:e4c0::/48"
     ]

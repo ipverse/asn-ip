@@ -1,11 +1,13 @@
 {
   "asn": 43397,
   "handle": "ITEMS",
-  "description": "items management GmbH",
+  "description": "items management GmbH trading as \u0027items GmbH \u0026 Co. KG\u0027",
   "subnets": {
     "ipv4": [
       "91.194.230.0/23"
     ],
-    "ipv6": []
+    "ipv6": [
+      "2001:67c:d04::/48"
+    ]
   }
 }

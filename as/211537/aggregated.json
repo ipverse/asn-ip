@@ -4,7 +4,8 @@
   "description": "S.A.S. SECURITA ANTIFRAUD SYSTEM LTD",
   "subnets": {
     "ipv4": [
-      "91.198.57.0/24"
+      "91.198.57.0/24",
+      "130.250.197.0/24"
     ],
     "ipv6": []
   }
