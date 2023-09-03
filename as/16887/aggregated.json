@@ -3,7 +3,12 @@
   "handle": "AETHERNETSANANTONIO",
   "description": "Aethernet LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "173.226.142.0/23",
+      "192.171.116.0/22",
+      "199.193.216.0/23",
+      "199.193.220.0/22"
+    ],
     "ipv6": []
   }
 }

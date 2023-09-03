@@ -4,7 +4,8 @@
   "description": "Global Companies LLC",
   "subnets": {
     "ipv4": [
-      "206.243.36.0/24"
+      "206.243.36.0/24",
+      "208.90.77.0/24"
     ],
     "ipv6": []
   }

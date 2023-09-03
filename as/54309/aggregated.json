@@ -1,7 +1,11 @@
 {
   "asn": 54309,
+  "handle": "NEGU",
+  "description": "NEGU",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "23.160.184.0/24"
+    ],
     "ipv6": []
   }
 }

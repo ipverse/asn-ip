@@ -4,6 +4,7 @@
   "description": "DIGICONTROL SERVIOS DE PROVEDORES LTDA",
   "subnets": {
     "ipv4": [
+      "45.171.230.0/24",
       "177.11.64.0/21"
     ],
     "ipv6": [

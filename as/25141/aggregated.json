@@ -4,7 +4,8 @@
   "description": "Teleradiocompany Soniko-Svyaz Ltd",
   "subnets": {
     "ipv4": [
-      "93.157.8.0/22"
+      "93.157.8.0/23",
+      "93.157.10.0/24"
     ],
     "ipv6": []
   }

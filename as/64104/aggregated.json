@@ -4,6 +4,7 @@
   "description": "CABASE Camara Arg de Base de Datos y Serv en Linea",
   "subnets": {
     "ipv4": [
+      "138.204.253.0/24",
       "201.182.137.0/24"
     ],
     "ipv6": []

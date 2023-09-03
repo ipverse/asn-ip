@@ -3,12 +3,7 @@
   "handle": "OERL-AP",
   "description": "Origin Energy Retail Limited",
   "subnets": {
-    "ipv4": [
-      "45.127.92.0/22",
-      "103.111.176.0/22"
-    ],
-    "ipv6": [
-      "2402:a040::/32"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "CABASE-CAMARA-ARG",
   "description": "CABASE Camara Arg de Base de Datos y Serv en Linea",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "138.204.244.0/24"
+    ],
     "ipv6": [
       "2001:13c7:6016::/48"
     ]

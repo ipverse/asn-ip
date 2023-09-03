@@ -3,7 +3,9 @@
   "handle": "VOIPRO",
   "description": "Digifoon Group B.V.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "79.171.192.0/21"
+    ],
     "ipv6": []
   }
 }

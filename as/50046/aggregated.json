@@ -4,6 +4,8 @@
   "description": "Landry JUGE",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a10:4647::/48"
+    ]
   }
 }

@@ -4,6 +4,8 @@
   "description": "TRUMVPS Company Limited",
   "subnets": {
     "ipv4": [
+      "181.215.22.0/24",
+      "202.126.106.0/24",
       "217.20.240.0/24"
     ],
     "ipv6": []

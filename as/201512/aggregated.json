@@ -1,0 +1,11 @@
+{
+  "asn": 201512,
+  "handle": "WILDBERRIES",
+  "description": "LLC Wildberries",
+  "subnets": {
+    "ipv4": [
+      "185.62.202.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -4,7 +4,8 @@
   "description": "Moraine Valley Community College",
   "subnets": {
     "ipv4": [
-      "64.107.8.0/21"
+      "64.107.8.0/21",
+      "68.170.4.0/22"
     ],
     "ipv6": []
   }

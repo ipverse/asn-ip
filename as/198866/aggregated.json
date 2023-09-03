@@ -1,0 +1,11 @@
+{
+  "asn": 198866,
+  "handle": "CROSSNET",
+  "description": "Crossnet AB",
+  "subnets": {
+    "ipv4": [
+      "194.71.114.0/24"
+    ],
+    "ipv6": []
+  }
+}

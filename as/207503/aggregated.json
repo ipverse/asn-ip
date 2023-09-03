@@ -4,6 +4,7 @@
   "description": "neu-medianet GmbH",
   "subnets": {
     "ipv4": [
+      "82.193.248.0/24",
       "185.102.242.0/23"
     ],
     "ipv6": []

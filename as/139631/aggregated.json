@@ -3,9 +3,7 @@
   "handle": "LSSPL-AP",
   "description": "Lodestone Software Services Pvt. Ltd.",
   "subnets": {
-    "ipv4": [
-      "103.142.169.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

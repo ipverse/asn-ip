@@ -1,0 +1,11 @@
+{
+  "asn": 216389,
+  "handle": "TECHNI-HEBERG",
+  "description": "TECHNI-HEBERG SAS",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a13:df80:1d00::/40"
+    ]
+  }
+}

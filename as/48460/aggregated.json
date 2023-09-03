@@ -3,7 +3,9 @@
   "handle": "GREENCO-DR",
   "description": "ServerHouse Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.234.234.0/24"
+    ],
     "ipv6": []
   }
 }

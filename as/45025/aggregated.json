@@ -4,8 +4,7 @@
   "description": "Online Technologies LTD",
   "subnets": {
     "ipv4": [
-      "151.0.0.0/19",
-      "151.0.36.0/22"
+      "151.0.0.0/19"
     ],
     "ipv6": []
   }

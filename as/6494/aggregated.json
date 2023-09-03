@@ -3,11 +3,7 @@
   "handle": "COGENT",
   "description": "Cogent Communications",
   "subnets": {
-    "ipv4": [
-      "66.28.16.0/24",
-      "66.250.16.0/21",
-      "206.5.12.0/22"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

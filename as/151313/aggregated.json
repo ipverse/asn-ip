@@ -1,0 +1,13 @@
+{
+  "asn": 151313,
+  "handle": "TAIBAO-KEJI-NET",
+  "description": "Pacific Insurance Technology Co., Ltd",
+  "subnets": {
+    "ipv4": [
+      "103.230.110.0/23"
+    ],
+    "ipv6": [
+      "2401:1160::/32"
+    ]
+  }
+}

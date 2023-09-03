@@ -1,0 +1,12 @@
+{
+  "asn": 151782,
+  "handle": "XINGNET-AP",
+  "description": "Ningbo Dahuamao Information Technology Co Ltd",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2406:840:fe60::/48",
+      "2406:840:fedd::/48"
+    ]
+  }
+}

@@ -4,7 +4,9 @@
   "description": "HOSTUMO BILISIM TEKNOLOJILERI SANAYI TICARET LIMITED SIRKETI",
   "subnets": {
     "ipv4": [
-      "166.0.2.0/23"
+      "166.0.2.0/23",
+      "192.67.161.0/24",
+      "194.87.33.0/24"
     ],
     "ipv6": []
   }

@@ -1,11 +1,9 @@
 {
   "asn": 200955,
-  "handle": "NS-TRANSCONTAINER",
+  "handle": "NAUKA-SVAYZ",
   "description": "LLC Nauka-Svyaz",
   "subnets": {
-    "ipv4": [
-      "84.47.143.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

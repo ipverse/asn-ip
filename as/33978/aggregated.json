@@ -3,9 +3,7 @@
   "handle": "YAPIC",
   "description": "Collective Production Enterprise Yapic.Net",
   "subnets": {
-    "ipv4": [
-      "194.150.174.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

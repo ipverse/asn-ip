@@ -4,9 +4,6 @@
   "description": "Marcel Koeppel",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2a05:dfc1:7b03::/48",
-      "2a05:dfc1:7b04::/47"
-    ]
+    "ipv6": []
   }
 }

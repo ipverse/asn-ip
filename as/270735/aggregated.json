@@ -4,6 +4,8 @@
   "description": "COMPUTIZE NETWORK TELECOMUNICACOES LTDA",
   "subnets": {
     "ipv4": [
+      "177.36.145.0/24",
+      "177.36.151.0/24",
       "177.221.142.0/23"
     ],
     "ipv6": [

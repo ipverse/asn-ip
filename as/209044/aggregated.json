@@ -3,9 +3,7 @@
   "handle": "ABAKUS",
   "description": "synaforce GmbH",
   "subnets": {
-    "ipv4": [
-      "185.254.1.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

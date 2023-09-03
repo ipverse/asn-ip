@@ -1,0 +1,11 @@
+{
+  "asn": 36527,
+  "handle": "RINCON-WIRELESS-1",
+  "description": "Rincon Wireless",
+  "subnets": {
+    "ipv4": [
+      "23.160.136.0/24"
+    ],
+    "ipv6": []
+  }
+}

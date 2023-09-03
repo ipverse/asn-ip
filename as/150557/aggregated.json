@@ -1,0 +1,11 @@
+{
+  "asn": 150557,
+  "handle": "IDNIC-HASTEL-ID",
+  "description": "PT HASIBUAN TELEKOMUNIKASI INDONESIA",
+  "subnets": {
+    "ipv4": [
+      "103.95.22.0/23"
+    ],
+    "ipv6": []
+  }
+}

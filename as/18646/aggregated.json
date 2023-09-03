@@ -4,6 +4,7 @@
   "description": "Bitmax, Inc.",
   "subnets": {
     "ipv4": [
+      "23.161.72.0/24",
       "38.146.216.0/24"
     ],
     "ipv6": [

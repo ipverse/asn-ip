@@ -3,11 +3,7 @@
   "handle": "JPNET-INTERNET-DIGITAL-EIRELI",
   "description": "JP.NET INTERNET DIGITAL EIRELI",
   "subnets": {
-    "ipv4": [
-      "45.191.23.0/24"
-    ],
-    "ipv6": [
-      "2804:8720::/32"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

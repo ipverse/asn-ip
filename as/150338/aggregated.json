@@ -3,9 +3,7 @@
   "handle": "FAT-AP",
   "description": "fat fat la company",
   "subnets": {
-    "ipv4": [
-      "103.15.221.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

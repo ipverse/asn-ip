@@ -1,0 +1,11 @@
+{
+  "asn": 151553,
+  "handle": "IDNIC-LINUSNET-ID",
+  "description": "PT Koloni Lintas Nusantara",
+  "subnets": {
+    "ipv4": [
+      "103.255.98.0/23"
+    ],
+    "ipv6": []
+  }
+}

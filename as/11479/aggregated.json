@@ -3,7 +3,9 @@
   "handle": "BRM-SUN",
   "description": "Oracle Corporation",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "148.87.64.0/18"
+    ],
     "ipv6": [
       "2606:b400:800c::/48"
     ]

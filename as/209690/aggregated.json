@@ -1,0 +1,12 @@
+{
+  "asn": 209690,
+  "handle": "TELECOMAVENIDA",
+  "description": "TELECOMUNICACIONES AVENIDA SL",
+  "subnets": {
+    "ipv4": [
+      "91.132.244.0/24",
+      "91.132.246.0/23"
+    ],
+    "ipv6": []
+  }
+}

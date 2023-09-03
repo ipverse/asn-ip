@@ -3,9 +3,7 @@
   "handle": "NUVEM-TELECOM",
   "description": "NUVEM TELECOM",
   "subnets": {
-    "ipv4": [
-      "168.227.240.0/22"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

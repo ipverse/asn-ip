@@ -4,6 +4,7 @@
   "description": "International Telnet Inc.",
   "subnets": {
     "ipv4": [
+      "66.103.128.0/24",
       "192.42.255.0/24"
     ],
     "ipv6": []
