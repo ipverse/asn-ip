@@ -3,7 +3,9 @@
   "handle": "ICAL-INDSTRIA-CALCINAO",
   "description": "ICAL - Indstria de Calcinao Ltda",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "177.129.76.0/24"
+    ],
     "ipv6": []
   }
 }

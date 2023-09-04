@@ -1,11 +1,13 @@
 {
   "asn": 216375,
-  "handle": "MA2098",
+  "handle": "RHZMA31",
   "description": "M Alhuda",
   "subnets": {
     "ipv4": [],
     "ipv6": [
-      "2a0e:b107:27e8::/45"
+      "2a0e:b107:27e8::/45",
+      "2a13:df80:3806::/48",
+      "2a13:df80:8800::/44"
     ]
   }
 }

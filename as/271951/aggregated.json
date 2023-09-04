@@ -3,7 +3,9 @@
   "handle": "4-EVER-PLUG-CA",
   "description": "4 EVER PLUG,C.A.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.252.184.0/22"
+    ],
     "ipv6": []
   }
 }
