@@ -4,8 +4,6 @@
   "description": "VELiNK INTERNET BR",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2804:7200::/32"
-    ]
+    "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "TSURUHANE",
   "description": "TSURUHANE JAPAN LTD.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.157.143.0/24"
+    ],
     "ipv6": []
   }
 }

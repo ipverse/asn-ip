@@ -3,9 +3,7 @@
   "handle": "SNL-AP",
   "description": "Skandha Networks LLP",
   "subnets": {
-    "ipv4": [
-      "103.248.73.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

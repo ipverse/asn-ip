@@ -3,7 +3,9 @@
   "handle": "PG8GLOBAL",
   "description": "PG8 Global LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "62.60.148.0/22"
+    ],
     "ipv6": []
   }
 }

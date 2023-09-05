@@ -3,7 +3,9 @@
   "handle": "COMING",
   "description": "ABCDE GROUP COMPANY LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.255.46.0/24"
+    ],
     "ipv6": []
   }
 }

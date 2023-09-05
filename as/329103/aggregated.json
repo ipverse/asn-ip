@@ -3,7 +3,9 @@
   "handle": "NS3",
   "description": "NINETEC SARL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "41.190.228.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -4,6 +4,7 @@
   "description": "Lanet Network Ltd",
   "subnets": {
     "ipv4": [
+      "91.208.116.0/24",
       "176.110.0.0/19"
     ],
     "ipv6": []

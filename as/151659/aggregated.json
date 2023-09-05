@@ -3,7 +3,9 @@
   "handle": "NEW-AP",
   "description": "New Pakistan Cable Network",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.251.255.0/24"
+    ],
     "ipv6": []
   }
 }
