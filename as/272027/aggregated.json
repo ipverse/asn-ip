@@ -3,7 +3,9 @@
   "handle": "LAUAM-MEGARED-TELECOM",
   "description": "LAUAM MEGARED TELECOM, S.R.L.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.253.88.0/21"
+    ],
     "ipv6": []
   }
 }

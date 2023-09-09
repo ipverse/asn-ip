@@ -3,7 +3,9 @@
   "handle": "ASN23GAI-IN",
   "description": "GEEKYANTS INDIA PVT LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.252.242.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,10 +3,7 @@
   "handle": "MISIGNAL",
   "description": "MiSignal",
   "subnets": {
-    "ipv4": [
-      "23.155.176.0/23",
-      "23.155.178.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

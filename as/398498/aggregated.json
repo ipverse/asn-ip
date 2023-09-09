@@ -3,9 +3,7 @@
   "handle": "BANKOZK-OZK",
   "description": "Bank OZK",
   "subnets": {
-    "ipv4": [
-      "8.48.123.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

@@ -1,0 +1,11 @@
+{
+  "asn": 400859,
+  "handle": "EXO-BROADBAND",
+  "description": "EXO BROADBAND",
+  "subnets": {
+    "ipv4": [
+      "102.129.166.0/24"
+    ],
+    "ipv6": []
+  }
+}

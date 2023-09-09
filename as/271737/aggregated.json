@@ -3,7 +3,9 @@
   "handle": "NEONET-COMUNICAO-MULTIMIDIA",
   "description": "Neonet Comunicao Multimidia Ltda ME",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "179.125.13.0/24"
+    ],
     "ipv6": [
       "2804:8038::/32"
     ]

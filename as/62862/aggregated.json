@@ -3,7 +3,9 @@
   "handle": "RAPID-FIBER-INTERNET-LLC",
   "description": "Rapid Fiber Internet, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "81.21.144.0/20"
+    ],
     "ipv6": []
   }
 }

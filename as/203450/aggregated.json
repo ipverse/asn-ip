@@ -3,9 +3,7 @@
   "handle": "LOGICPRIM",
   "description": "Edera Group a.s.",
   "subnets": {
-    "ipv4": [
-      "185.134.160.0/22"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2a06:ed40::/29"
     ]

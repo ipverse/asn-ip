@@ -3,7 +3,9 @@
   "handle": "UNISCALE",
   "description": "Uniscale Denmark ApS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "85.117.228.0/24"
+    ],
     "ipv6": []
   }
 }

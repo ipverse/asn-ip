@@ -3,7 +3,9 @@
   "handle": "GRANICUS-VISION",
   "description": "Granicus, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "66.179.18.0/23"
+    ],
     "ipv6": []
   }
 }

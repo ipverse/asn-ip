@@ -3,7 +3,9 @@
   "handle": "COCONUT",
   "description": "Coconut Networks Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.155.222.0/24"
+    ],
     "ipv6": [
       "2a0c:e643:aaa1::/48",
       "2a0c:e643:aaa2::/48",
