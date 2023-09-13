@@ -1,0 +1,11 @@
+{
+  "asn": 216346,
+  "handle": "INDC",
+  "description": "General Secretariat of the council of Ministers",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a13:4e00::/29"
+    ]
+  }
+}

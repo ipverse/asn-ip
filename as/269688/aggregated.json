@@ -4,7 +4,8 @@
   "description": "ITATIAIA INFORMATICA E TELECOMUNICACOES LTDA ME",
   "subnets": {
     "ipv4": [
-      "45.191.216.0/22"
+      "45.191.216.0/23",
+      "45.191.218.0/24"
     ],
     "ipv6": [
       "2804:6860::/34"

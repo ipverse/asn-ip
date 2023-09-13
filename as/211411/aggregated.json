@@ -4,6 +4,7 @@
   "description": "Francesco Ascione",
   "subnets": {
     "ipv4": [
+      "192.112.246.0/24",
       "192.251.50.0/24",
       "206.197.20.0/24"
     ],

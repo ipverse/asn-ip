@@ -3,9 +3,7 @@
   "handle": "KISP151",
   "description": "KiSP Inc",
   "subnets": {
-    "ipv4": [
-      "216.95.240.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

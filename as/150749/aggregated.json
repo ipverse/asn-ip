@@ -3,7 +3,9 @@
   "handle": "AFMBCORPORATION-AP",
   "description": "AFMB Corporation",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.83.238.0/23"
+    ],
     "ipv6": []
   }
 }

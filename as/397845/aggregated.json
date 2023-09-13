@@ -3,11 +3,7 @@
   "handle": "ELEVEN-DIMENSIONS-INC",
   "description": "Eleven Dimensions Inc",
   "subnets": {
-    "ipv4": [
-      "23.145.8.0/24"
-    ],
-    "ipv6": [
-      "2605:5040::/32"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

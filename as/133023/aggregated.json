@@ -3,7 +3,9 @@
   "handle": "VIRTUALPLATFORM-AP",
   "description": "ITNow Pty Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.219.63.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -1,0 +1,11 @@
+{
+  "asn": 213394,
+  "handle": "CLEVERCLOUD",
+  "description": "Clever Cloud SAS",
+  "subnets": {
+    "ipv4": [
+      "185.133.116.0/22"
+    ],
+    "ipv6": []
+  }
+}

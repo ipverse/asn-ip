@@ -3,7 +3,9 @@
   "handle": "HYPERNET-TCNICA-EM",
   "description": "Hypernet Tcnica em Redes de Comunicao e Compone",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "138.118.254.0/23"
+    ],
     "ipv6": []
   }
 }

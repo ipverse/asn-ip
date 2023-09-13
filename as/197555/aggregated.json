@@ -3,7 +3,14 @@
   "handle": "SMARTMIETEN",
   "description": "SMARTMIETEN TECH PRIVATE LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.139.210.0/23",
+      "173.239.200.0/24",
+      "173.244.51.0/24",
+      "192.142.28.0/24",
+      "192.142.85.0/24",
+      "192.142.93.0/24"
+    ],
     "ipv6": []
   }
 }
