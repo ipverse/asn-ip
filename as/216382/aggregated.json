@@ -3,9 +3,11 @@
   "handle": "LAYER",
   "description": "LAYER MARKETING SERVICES L.L.C",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.119.138.0/24"
+    ],
     "ipv6": [
-      "2602:fafd:f51::/48"
+      "2602:fafd:f50::/47"
     ]
   }
 }

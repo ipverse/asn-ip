@@ -4,6 +4,9 @@
   "description": "Neustar Security Services",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2610:a1:1018::/48",
+      "2610:a1:30fd::/48"
+    ]
   }
 }

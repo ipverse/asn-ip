@@ -3,7 +3,9 @@
   "handle": "PATHFINDER-TELECOM-COMERCIO",
   "description": "PATHFINDER TELECOM, COMERCIO E SERVICOS LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "200.194.176.0/22"
+    ],
     "ipv6": [
       "2804:7f24::/32"
     ]

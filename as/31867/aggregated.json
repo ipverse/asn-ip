@@ -4,10 +4,8 @@
   "description": "Schwartz Networks Limited Liability Company",
   "subnets": {
     "ipv4": [
-      "163.123.178.0/23"
+      "163.123.179.0/24"
     ],
-    "ipv6": [
-      "2604:7c40:100::/40"
-    ]
+    "ipv6": []
   }
 }

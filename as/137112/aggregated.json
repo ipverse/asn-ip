@@ -1,9 +1,11 @@
 {
   "asn": 137112,
-  "handle": "SHREYASI-IN",
-  "description": "Shreyashi Infotech Pvt Ltd",
+  "handle": "SPEEDTUCH-IN",
+  "description": "SPEED TOUCH PRIVATE LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.248.242.0/24"
+    ],
     "ipv6": []
   }
 }
