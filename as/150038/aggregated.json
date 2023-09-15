@@ -1,0 +1,12 @@
+{
+  "asn": 150038,
+  "handle": "TECHNET22-IN",
+  "description": "NETSAT TECHNOLOGY PRIVATE LIMITED",
+  "subnets": {
+    "ipv4": [
+      "103.6.120.0/24",
+      "103.29.80.0/23"
+    ],
+    "ipv6": []
+  }
+}

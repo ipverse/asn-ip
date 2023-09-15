@@ -3,7 +3,9 @@
   "handle": "EBECOMM-IN",
   "description": "Ebenezar Communications Private Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.118.188.0/22"
+    ],
     "ipv6": []
   }
 }

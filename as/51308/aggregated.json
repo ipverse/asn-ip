@@ -1,9 +1,11 @@
 {
   "asn": 51308,
-  "handle": "H4N",
+  "handle": "HOST4NERD-LLC",
   "description": "HOST4NERD LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.21.254.0/24"
+    ],
     "ipv6": []
   }
 }

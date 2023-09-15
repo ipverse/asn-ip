@@ -1,0 +1,13 @@
+{
+  "asn": 329305,
+  "handle": "GLOBAL-CLOUD-INFRASTRUCTURE-SOLUTIONS",
+  "description": "GLOBAL CLOUD INFRASTRUCTURE SOLUTIONS (PTY) LTD",
+  "subnets": {
+    "ipv4": [
+      "102.211.116.0/22"
+    ],
+    "ipv6": [
+      "2c0f:5440::/48"
+    ]
+  }
+}

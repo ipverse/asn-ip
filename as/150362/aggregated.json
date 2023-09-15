@@ -1,0 +1,13 @@
+{
+  "asn": 150362,
+  "handle": "KURIYAMA-NET",
+  "description": "Mamireimu Net Work\u0027s",
+  "subnets": {
+    "ipv4": [
+      "103.149.4.0/23"
+    ],
+    "ipv6": [
+      "2400:f7a0::/32"
+    ]
+  }
+}

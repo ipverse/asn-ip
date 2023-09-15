@@ -1,0 +1,12 @@
+{
+  "asn": 211775,
+  "handle": "NGFL",
+  "description": "London Grid for Learning Trust",
+  "subnets": {
+    "ipv4": [
+      "5.150.8.0/21",
+      "194.59.0.0/23"
+    ],
+    "ipv6": []
+  }
+}

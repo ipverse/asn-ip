@@ -3,7 +3,9 @@
   "handle": "LIFEHOST360",
   "description": "lifehost360.com OU",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.253.111.0/24"
+    ],
     "ipv6": []
   }
 }

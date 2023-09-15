@@ -3,7 +3,9 @@
   "handle": "VELINK-INTERNET-BR",
   "description": "VELiNK INTERNET BR",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "200.219.28.0/22"
+    ],
     "ipv6": []
   }
 }

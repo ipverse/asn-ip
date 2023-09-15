@@ -3,9 +3,7 @@
   "handle": "VIA-NUMERICA",
   "description": "CELESTE SAS",
   "subnets": {
-    "ipv4": [
-      "80.245.16.0/20"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

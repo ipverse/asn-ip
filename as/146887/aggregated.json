@@ -3,10 +3,7 @@
   "handle": "NOOBTECH-IN",
   "description": "NOOB TECHNOLOGIES PRIVATE LIMITED",
   "subnets": {
-    "ipv4": [
-      "103.173.40.0/24",
-      "203.207.0.0/20"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }
