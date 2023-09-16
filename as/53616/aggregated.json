@@ -4,6 +4,8 @@
   "description": "ASYMPTOTE NETWORK, LLC",
   "subnets": {
     "ipv4": [
+      "104.234.4.0/24",
+      "108.165.102.0/24",
       "157.254.171.0/24"
     ],
     "ipv6": [

@@ -4,7 +4,9 @@
   "description": "Instituto Tecnolgico y de Estudios Superiores de Monterrey",
   "subnets": {
     "ipv4": [
-      "131.178.0.0/16",
+      "131.178.192.0/21",
+      "131.178.200.0/23",
+      "131.178.208.0/21",
       "200.23.145.0/24",
       "200.23.146.0/24",
       "200.23.149.0/24",

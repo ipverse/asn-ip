@@ -4,8 +4,7 @@
   "description": "AirLink Broadband Limited",
   "subnets": {
     "ipv4": [
-      "102.68.137.0/24",
-      "102.68.138.0/23"
+      "102.68.136.0/22"
     ],
     "ipv6": []
   }

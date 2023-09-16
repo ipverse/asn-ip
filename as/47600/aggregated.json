@@ -1,0 +1,11 @@
+{
+  "asn": 47600,
+  "handle": "RUBIXDATACENTER",
+  "description": "RUBIX DATACENTER SAS",
+  "subnets": {
+    "ipv4": [
+      "80.245.56.0/24"
+    ],
+    "ipv6": []
+  }
+}

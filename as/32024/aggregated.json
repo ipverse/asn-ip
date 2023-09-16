@@ -1,0 +1,11 @@
+{
+  "asn": 32024,
+  "handle": "BLUEFI-1",
+  "description": "Blueficity",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2607:69c0::/34"
+    ]
+  }
+}

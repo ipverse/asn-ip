@@ -3,9 +3,7 @@
   "handle": "INTERMAX-SERVICOS-COMUNICACAO",
   "description": "INTERMAX SERVICOS DE COMUNICACAO LTDA",
   "subnets": {
-    "ipv4": [
-      "38.252.206.0/24"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2804:8104::/32"
     ]

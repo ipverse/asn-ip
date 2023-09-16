@@ -3,7 +3,10 @@
   "handle": "HOSTIFOX",
   "description": "HOSTIFOX INTERNET VE BILISIM HIZMETLERI TICARET SANAYI LIMITED SIRKETI",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.14.167.0/24",
+      "146.19.9.0/24"
+    ],
     "ipv6": []
   }
 }

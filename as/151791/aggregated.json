@@ -1,0 +1,11 @@
+{
+  "asn": 151791,
+  "handle": "AMADER-AP",
+  "description": "Amader Internet Connection",
+  "subnets": {
+    "ipv4": [
+      "103.72.64.0/23"
+    ],
+    "ipv6": []
+  }
+}

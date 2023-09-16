@@ -1,0 +1,11 @@
+{
+  "asn": 2599,
+  "handle": "PJSC-VIMPELCOM",
+  "description": "PJSC Vimpelcom",
+  "subnets": {
+    "ipv4": [
+      "194.186.65.0/24"
+    ],
+    "ipv6": []
+  }
+}

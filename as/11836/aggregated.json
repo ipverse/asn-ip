@@ -3,7 +3,9 @@
   "handle": "ICNET",
   "description": "Intercom",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "216.240.105.0/24"
+    ],
     "ipv6": []
   }
 }

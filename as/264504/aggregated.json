@@ -3,7 +3,9 @@
   "handle": "LESS-CABLE",
   "description": "Less Cable LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "131.255.252.0/22"
+    ],
     "ipv6": []
   }
 }

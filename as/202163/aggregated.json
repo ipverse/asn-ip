@@ -3,10 +3,7 @@
   "handle": "ALENIA",
   "description": "Leonardo S.p.A.",
   "subnets": {
-    "ipv4": [
-      "185.51.13.0/24",
-      "185.51.14.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

@@ -1,0 +1,11 @@
+{
+  "asn": 273076,
+  "handle": "RADANET",
+  "description": "RADANET SRL",
+  "subnets": {
+    "ipv4": [
+      "168.196.96.0/22"
+    ],
+    "ipv6": []
+  }
+}

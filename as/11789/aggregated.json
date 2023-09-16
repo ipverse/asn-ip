@@ -4,7 +4,7 @@
   "description": "Surf Air Wireless, LLC",
   "subnets": {
     "ipv4": [
-      "23.145.32.0/24",
+      "23.145.32.0/23",
       "147.129.160.0/20"
     ],
     "ipv6": []

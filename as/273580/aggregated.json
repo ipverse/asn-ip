@@ -4,6 +4,8 @@
   "description": "Go Fibra Servio de Telecomunicaes LTDA",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2804:8918::/32"
+    ]
   }
 }

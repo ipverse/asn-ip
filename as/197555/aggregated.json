@@ -4,6 +4,7 @@
   "description": "SMARTMIETEN TECH PRIVATE LIMITED",
   "subnets": {
     "ipv4": [
+      "5.180.105.0/24",
       "45.139.210.0/23",
       "173.239.200.0/24",
       "173.244.51.0/24",
