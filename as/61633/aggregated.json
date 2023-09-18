@@ -4,6 +4,7 @@
   "description": "LINKWAP INTERNET FIBRA OPTICA",
   "subnets": {
     "ipv4": [
+      "45.230.28.0/22",
       "131.100.148.0/22"
     ],
     "ipv6": [

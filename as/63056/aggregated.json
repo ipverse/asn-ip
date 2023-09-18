@@ -3,7 +3,11 @@
   "handle": "HOOPESTON-AREA-SCHOOLS",
   "description": "Hoopeston Area Schools",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "192.5.203.0/24"
+    ],
+    "ipv6": [
+      "2620:c6::/48"
+    ]
   }
 }

@@ -3,7 +3,9 @@
   "handle": "TEAM-AIR-EXPRESS",
   "description": "Team Worldwide",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.146.112.0/24"
+    ],
     "ipv6": []
   }
 }

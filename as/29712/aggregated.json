@@ -3,9 +3,7 @@
   "handle": "GALAXY",
   "description": "FiservGALAXY 2000 Division",
   "subnets": {
-    "ipv4": [
-      "198.246.218.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

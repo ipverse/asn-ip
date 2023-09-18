@@ -1,0 +1,11 @@
+{
+  "asn": 216296,
+  "handle": "MOETRACE",
+  "description": "Moe Limited",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a13:a5c7:1400::/40"
+    ]
+  }
+}

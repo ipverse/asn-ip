@@ -3,12 +3,7 @@
   "handle": "LOOPNET-AP",
   "description": "Loop Networks Pvt. Ltd.",
   "subnets": {
-    "ipv4": [
-      "103.75.148.0/23",
-      "123.253.120.0/24"
-    ],
-    "ipv6": [
-      "2407:5280:300::/45"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }
