@@ -3,9 +3,7 @@
   "handle": "GESUNDHEITSCLOUD",
   "description": "d4l data4life gGmbH",
   "subnets": {
-    "ipv4": [
-      "194.246.34.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

@@ -4,6 +4,7 @@
   "description": "Host Media DOO",
   "subnets": {
     "ipv4": [
+      "45.153.5.0/24",
       "141.11.5.0/24"
     ],
     "ipv6": []

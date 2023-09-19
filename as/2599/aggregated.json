@@ -3,9 +3,9 @@
   "handle": "PJSC-VIMPELCOM",
   "description": "PJSC Vimpelcom",
   "subnets": {
-    "ipv4": [
-      "194.186.65.0/24"
-    ],
-    "ipv6": []
+    "ipv4": [],
+    "ipv6": [
+      "2a03:8700::/32"
+    ]
   }
 }
