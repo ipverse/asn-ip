@@ -4,11 +4,8 @@
   "description": "PEER2 NETWORKS DO BRASIL LTDA",
   "subnets": {
     "ipv4": [
-      "45.71.48.0/24",
-      "45.160.216.0/22"
+      "45.71.48.0/24"
     ],
-    "ipv6": [
-      "2804:44e0::/32"
-    ]
+    "ipv6": []
   }
 }

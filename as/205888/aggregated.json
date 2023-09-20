@@ -3,10 +3,7 @@
   "handle": "ENEBRO",
   "description": "AVATEL TELECOM, SA",
   "subnets": {
-    "ipv4": [
-      "79.142.187.0/24",
-      "188.85.140.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

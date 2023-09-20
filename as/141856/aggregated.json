@@ -3,7 +3,9 @@
   "handle": "ASCSCISP-IN",
   "description": "A S C S C DIGITAL PRIVATE LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.168.94.0/23"
+    ],
     "ipv6": []
   }
 }

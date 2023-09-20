@@ -1,0 +1,11 @@
+{
+  "asn": 49144,
+  "handle": "ITCOM",
+  "description": "PJSC Vimpelcom",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a03:8700:6000::/36"
+    ]
+  }
+}

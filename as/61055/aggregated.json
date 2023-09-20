@@ -4,8 +4,7 @@
   "description": "Roshangar Rayaneh Tehran Co. Ltd.",
   "subnets": {
     "ipv4": [
-      "185.10.72.0/23",
-      "185.10.75.0/24"
+      "185.10.72.0/22"
     ],
     "ipv6": []
   }

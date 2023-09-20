@@ -3,7 +3,10 @@
   "handle": "IPUBLICATIONS",
   "description": "iPublications Holding B.V.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "79.110.60.0/24",
+      "91.209.79.0/24"
+    ],
     "ipv6": [
       "2a0c:3bc0::/29"
     ]

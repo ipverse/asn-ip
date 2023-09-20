@@ -1,12 +1,11 @@
 {
   "asn": 9886,
-  "handle": "MC-AP",
-  "description": "Zhuhai FuYuanLeYu Technology Limited",
+  "handle": "CTCSCITECHLIMITED-AP",
+  "description": "CTCSCI TECH LIMITED",
   "subnets": {
     "ipv4": [],
     "ipv6": [
       "2405:84c0:8100::/44",
-      "2405:84c0:9727::/48",
       "2405:84c0:ff11::/48",
       "2405:84c0:ff13::/48",
       "2405:84c0:ff1f::/48"
