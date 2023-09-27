@@ -4,6 +4,7 @@
   "description": "Northcentral Electric Power Association",
   "subnets": {
     "ipv4": [
+      "38.39.24.0/21",
       "38.81.184.0/22",
       "98.143.184.0/21",
       "104.153.244.0/22",

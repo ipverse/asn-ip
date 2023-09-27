@@ -3,7 +3,9 @@
   "handle": "AZTEC-MARKETPLACE",
   "description": "AZTEC MARKETPLACE DOO",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.247.137.0/24"
+    ],
     "ipv6": []
   }
 }

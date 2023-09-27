@@ -3,7 +3,9 @@
   "handle": "IRATI-FIBRA-PROVEDOR",
   "description": "IRATI FIBRA PROVEDOR DE INTERNET LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.167.4.0/23"
+    ],
     "ipv6": [
       "2804:8b84::/32"
     ]

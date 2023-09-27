@@ -3,9 +3,7 @@
   "handle": "MCCTELECOM",
   "description": "LKS Infraestructuras IT SL",
   "subnets": {
-    "ipv4": [
-      "217.76.240.0/22"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

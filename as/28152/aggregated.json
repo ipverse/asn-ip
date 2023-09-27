@@ -3,10 +3,7 @@
   "handle": "NAVINET",
   "description": "Navinet Ltda",
   "subnets": {
-    "ipv4": [
-      "138.185.168.0/22",
-      "187.60.128.0/20"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

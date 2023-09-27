@@ -1,0 +1,13 @@
+{
+  "asn": 33197,
+  "handle": "SG-OFS",
+  "description": "Sidus Group, LLC",
+  "subnets": {
+    "ipv4": [
+      "206.168.164.0/24"
+    ],
+    "ipv6": [
+      "2607:e100::/40"
+    ]
+  }
+}

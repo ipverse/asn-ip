@@ -3,7 +3,9 @@
   "handle": "ANTHROPIC",
   "description": "Anthropic, PBC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "160.79.104.0/23"
+    ],
     "ipv6": [
       "2607:6bc0::/48"
     ]

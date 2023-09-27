@@ -1,9 +1,11 @@
 {
   "asn": 32201,
-  "handle": "USATEC-MALVERN-PA",
-  "description": "Cantaloupe Inc.",
+  "handle": "HUSKY-TECHNOLOGIES",
+  "description": "Husky Technologies",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "142.46.50.0/24"
+    ],
     "ipv6": []
   }
 }
