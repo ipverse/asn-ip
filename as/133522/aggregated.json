@@ -1,0 +1,12 @@
+{
+  "asn": 133522,
+  "handle": "LEMON-AP",
+  "description": "LEMON TELECOMMUNICATIONS LIMITED",
+  "subnets": {
+    "ipv4": [
+      "156.227.32.0/21",
+      "156.227.40.0/24"
+    ],
+    "ipv6": []
+  }
+}

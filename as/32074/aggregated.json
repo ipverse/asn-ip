@@ -4,7 +4,8 @@
   "description": "CrossLink Professional Tax Solutions, LLC",
   "subnets": {
     "ipv4": [
-      "50.201.233.0/24"
+      "50.201.233.0/24",
+      "147.185.224.0/24"
     ],
     "ipv6": []
   }

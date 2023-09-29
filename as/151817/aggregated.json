@@ -1,0 +1,11 @@
+{
+  "asn": 151817,
+  "handle": "ZAPPIEHOST-AP",
+  "description": "Zappie Host LLC",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2404:3d80::/32"
+    ]
+  }
+}

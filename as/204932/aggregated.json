@@ -3,7 +3,9 @@
   "handle": "FRIKTORIANET",
   "description": "George Sgouridis trading as Friktoria.com - Data Center Services.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.246.164.0/24"
+    ],
     "ipv6": []
   }
 }

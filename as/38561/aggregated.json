@@ -4,6 +4,7 @@
   "description": "NTT Australia Solutions Pty Ltd",
   "subnets": {
     "ipv4": [
+      "192.67.236.0/22",
       "202.9.112.0/22"
     ],
     "ipv6": []

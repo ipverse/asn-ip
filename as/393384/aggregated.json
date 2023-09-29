@@ -3,10 +3,7 @@
   "handle": "US-KONTIKI-2",
   "description": "Kollective Technology, Inc.",
   "subnets": {
-    "ipv4": [
-      "162.220.117.0/24",
-      "162.220.118.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

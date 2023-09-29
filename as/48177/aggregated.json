@@ -4,6 +4,7 @@
   "description": "IGT INTERACTIVE LTD",
   "subnets": {
     "ipv4": [
+      "94.198.15.0/24",
       "160.238.60.0/24"
     ],
     "ipv6": []

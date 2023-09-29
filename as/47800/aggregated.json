@@ -3,11 +3,7 @@
   "handle": "IM-IF",
   "description": "TOV Teleradiocompany Intermedia",
   "subnets": {
-    "ipv4": [
-      "91.208.116.0/24",
-      "91.241.120.0/21",
-      "91.243.0.0/19"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

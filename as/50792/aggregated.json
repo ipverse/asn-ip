@@ -1,9 +1,11 @@
 {
   "asn": 50792,
-  "handle": "RESERVED",
-  "description": "RIPE NCC ASN block",
+  "handle": "YANGIGROUP",
+  "description": "FC LLC Yangi-Group",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.76.15.0/24"
+    ],
     "ipv6": []
   }
 }

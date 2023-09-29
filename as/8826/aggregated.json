@@ -3,7 +3,10 @@
   "handle": "SIEMENS-UAE2",
   "description": "SIEMENS AG",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "141.29.164.0/24",
+      "141.29.236.0/24"
+    ],
     "ipv6": []
   }
 }

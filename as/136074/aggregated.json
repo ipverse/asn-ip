@@ -3,7 +3,9 @@
   "handle": "SARANACIPTAKOMUNIKASI-ID",
   "description": "PT. Sarana Cipta Komunikasi",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.85.4.0/22"
+    ],
     "ipv6": []
   }
 }

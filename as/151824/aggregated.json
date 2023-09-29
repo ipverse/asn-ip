@@ -1,0 +1,11 @@
+{
+  "asn": 151824,
+  "handle": "ANYPOINTPTYLTD-AP",
+  "description": "Anypoint",
+  "subnets": {
+    "ipv4": [
+      "103.150.71.0/24"
+    ],
+    "ipv6": []
+  }
+}
