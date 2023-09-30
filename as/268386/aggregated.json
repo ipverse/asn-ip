@@ -3,7 +3,9 @@
   "handle": "DINAMIX-INFO-TELECOM",
   "description": "Dinamix Info Telecom Ltda",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.239.224.0/22"
+    ],
     "ipv6": []
   }
 }

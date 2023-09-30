@@ -3,7 +3,9 @@
   "handle": "SUNET",
   "description": "i SW, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "149.97.116.0/22"
+    ],
     "ipv6": []
   }
 }

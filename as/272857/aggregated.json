@@ -1,0 +1,11 @@
+{
+  "asn": 272857,
+  "handle": "MAXI-CABLE-CA",
+  "description": "MAXI CABLE C.A",
+  "subnets": {
+    "ipv4": [
+      "38.255.72.0/22"
+    ],
+    "ipv6": []
+  }
+}

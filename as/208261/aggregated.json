@@ -4,7 +4,6 @@
   "description": "Pomme Telecom SASU",
   "subnets": {
     "ipv4": [
-      "62.204.43.0/24",
       "193.58.43.0/24"
     ],
     "ipv6": [

@@ -3,11 +3,7 @@
   "handle": "GRUPO-SOLUCOES-REDEON",
   "description": "GRUPO DE SOLUCOES REDEON E SERVICOS DE MULTIMIDIA",
   "subnets": {
-    "ipv4": [
-      "138.204.64.0/22"
-    ],
-    "ipv6": [
-      "2804:2758::/32"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

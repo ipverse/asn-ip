@@ -3,7 +3,9 @@
   "handle": "TMA",
   "description": "T.M.A Serv SRL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "89.42.36.0/23"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "AMRITANET-IN",
   "description": "Amrita Vishwa Vidyapeetham",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.10.27.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,9 +3,7 @@
   "handle": "BILMARKPTYLTD-AP",
   "description": "Bilmark Pty Ltd",
   "subnets": {
-    "ipv4": [
-      "103.68.179.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

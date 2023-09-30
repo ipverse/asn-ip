@@ -4,8 +4,7 @@
   "description": "Universidad de La Punta",
   "subnets": {
     "ipv4": [
-      "201.222.56.0/22",
-      "204.199.12.0/24"
+      "201.222.56.0/22"
     ],
     "ipv6": []
   }
