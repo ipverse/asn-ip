@@ -3,7 +3,9 @@
   "handle": "INETWORKS",
   "description": "VA SOLUTIONS SARL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.123.72.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -1,0 +1,11 @@
+{
+  "asn": 150521,
+  "handle": "IDNIC-PPU-ID",
+  "description": "Politeknik Pekerjaan Umum",
+  "subnets": {
+    "ipv4": [
+      "103.75.66.0/24"
+    ],
+    "ipv6": []
+  }
+}

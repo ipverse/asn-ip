@@ -3,7 +3,9 @@
   "handle": "TWODL-AP",
   "description": "TP Western Odisha Distribution Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.254.91.0/24"
+    ],
     "ipv6": []
   }
 }

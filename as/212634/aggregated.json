@@ -3,9 +3,7 @@
   "handle": "NOTIFY",
   "description": "Notify Software Solutions Ltd",
   "subnets": {
-    "ipv4": [
-      "185.149.24.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

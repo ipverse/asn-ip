@@ -4,8 +4,7 @@
   "description": "Narayana Provedor de Internet Ltda",
   "subnets": {
     "ipv4": [
-      "170.247.196.0/22",
-      "177.67.152.0/22"
+      "170.247.196.0/22"
     ],
     "ipv6": [
       "2804:588::/32"

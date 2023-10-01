@@ -4,6 +4,7 @@
   "description": "MIKRONET PROVEDOR",
   "subnets": {
     "ipv4": [
+      "45.167.110.0/24",
       "181.189.64.0/22"
     ],
     "ipv6": [

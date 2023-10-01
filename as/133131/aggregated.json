@@ -1,0 +1,11 @@
+{
+  "asn": 133131,
+  "handle": "NVSNI-AP",
+  "description": "NEW VISION SATELLITE NETWORK INC.",
+  "subnets": {
+    "ipv4": [
+      "103.167.252.0/23"
+    ],
+    "ipv6": []
+  }
+}
