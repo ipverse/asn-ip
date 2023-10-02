@@ -3,11 +3,7 @@
   "handle": "N-T-TECHNOLOGY",
   "description": "N.T. Technology, Inc.",
   "subnets": {
-    "ipv4": [
-      "206.223.144.0/22"
-    ],
-    "ipv6": [
-      "2607:f0a0::/32"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

@@ -4,9 +4,6 @@
   "description": "Christopher Dziomba",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2a06:e881:3500::/44",
-      "2a0b:b87:ffe3::/48"
-    ]
+    "ipv6": []
   }
 }

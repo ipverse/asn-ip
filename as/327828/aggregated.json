@@ -4,8 +4,7 @@
   "description": "Somali Optical Networks",
   "subnets": {
     "ipv4": [
-      "154.118.240.0/23",
-      "154.118.243.0/24"
+      "154.118.240.0/22"
     ],
     "ipv6": []
   }

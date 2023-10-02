@@ -4,8 +4,6 @@
   "description": "pppwaw",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2404:f4c0:ff07::/48"
-    ]
+    "ipv6": []
   }
 }

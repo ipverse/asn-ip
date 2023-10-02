@@ -3,7 +3,9 @@
   "handle": "GRUPO-TELMAX",
   "description": "GRUPO TELMAX",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "200.229.217.0/24"
+    ],
     "ipv6": []
   }
 }
