@@ -3,10 +3,7 @@
   "handle": "ING-AMERICAS-WHOLESALE",
   "description": "ING Financial Services, LLC",
   "subnets": {
-    "ipv4": [
-      "24.157.48.0/24",
-      "141.155.214.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

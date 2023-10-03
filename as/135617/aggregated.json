@@ -3,10 +3,7 @@
   "handle": "MARRIOTT-TH-AP",
   "description": "Phuket Marriott Resort \u0026 Spa, Merlin Beach",
   "subnets": {
-    "ipv4": [
-      "103.40.144.0/24",
-      "184.82.132.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

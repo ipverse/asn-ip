@@ -3,7 +3,9 @@
   "handle": "CYBERRI",
   "description": "Cyberri Technologies Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "23.160.40.0/24"
+    ],
     "ipv6": [
       "2602:fa4a::/40",
       "2a05:dfc1:6069::/48"

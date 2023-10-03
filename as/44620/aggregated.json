@@ -3,7 +3,10 @@
   "handle": "TRES",
   "description": "TRES TEKNOLOJI ANONIM SIRKETI",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "77.92.146.0/24",
+      "212.68.32.0/24"
+    ],
     "ipv6": []
   }
 }

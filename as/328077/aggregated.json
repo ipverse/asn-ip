@@ -3,7 +3,10 @@
   "handle": "RING-MOBILE-PTY-LTD",
   "description": "Trinity IT Solutions (Pty) Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "164.160.148.0/23",
+      "164.160.151.0/24"
+    ],
     "ipv6": []
   }
 }

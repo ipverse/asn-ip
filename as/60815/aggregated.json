@@ -4,6 +4,7 @@
   "description": "Data Net Company for Communications Limited",
   "subnets": {
     "ipv4": [
+      "62.32.39.0/24",
       "185.20.24.0/22",
       "185.89.88.0/22"
     ],

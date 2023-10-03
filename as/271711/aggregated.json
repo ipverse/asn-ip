@@ -3,7 +3,9 @@
   "handle": "LIGMAX-PROVEDOR-ACESSO",
   "description": "LIGMAX PROVEDOR DE ACESSO A INTERNET LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "200.50.144.0/22"
+    ],
     "ipv6": [
       "2804:7fd0::/32"
     ]

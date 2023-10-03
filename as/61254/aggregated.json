@@ -4,8 +4,6 @@
   "description": "ESTOXY OU",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2a13:adc0::/48"
-    ]
+    "ipv6": []
   }
 }

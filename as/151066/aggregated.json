@@ -3,9 +3,7 @@
   "handle": "INI-AP",
   "description": "Imperial network inc",
   "subnets": {
-    "ipv4": [
-      "103.254.214.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

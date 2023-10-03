@@ -3,7 +3,10 @@
   "handle": "ADWA-NET",
   "description": "Waldemar Sebastian Wawer",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.8.61.0/24",
+      "193.8.182.0/23"
+    ],
     "ipv6": []
   }
 }

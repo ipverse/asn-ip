@@ -1,0 +1,11 @@
+{
+  "asn": 150918,
+  "handle": "IDNIC-BCAI-ID",
+  "description": "PT Asuransi Umum BCA",
+  "subnets": {
+    "ipv4": [
+      "103.151.91.0/24"
+    ],
+    "ipv6": []
+  }
+}
