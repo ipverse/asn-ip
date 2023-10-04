@@ -3,9 +3,7 @@
   "handle": "CONCORD",
   "description": "JSC JSCB CONCORD",
   "subnets": {
-    "ipv4": [
-      "176.126.161.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

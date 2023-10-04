@@ -3,7 +3,11 @@
   "handle": "RADIOTEKHNIKA",
   "description": "TTC Radiotechnika LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "31.131.80.0/21",
+      "194.1.168.0/24",
+      "194.1.170.0/23"
+    ],
     "ipv6": []
   }
 }

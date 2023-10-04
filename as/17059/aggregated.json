@@ -4,6 +4,7 @@
   "description": "Almendras Communications LLC",
   "subnets": {
     "ipv4": [
+      "206.168.205.0/24",
       "206.168.206.0/23"
     ],
     "ipv6": []

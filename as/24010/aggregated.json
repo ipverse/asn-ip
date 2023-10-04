@@ -3,9 +3,7 @@
   "handle": "HELLMANN-HK-AP",
   "description": "Hellmann Worldwide Logistics",
   "subnets": {
-    "ipv4": [
-      "202.130.132.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

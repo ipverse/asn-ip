@@ -4,9 +4,6 @@
   "description": "Dennis Przytarski",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2400:54a0:2050::/48",
-      "2a0c:b641:9e2::/47"
-    ]
+    "ipv6": []
   }
 }

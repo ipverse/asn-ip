@@ -3,11 +3,7 @@
   "handle": "WYOMING-MEDICAL-CENTER",
   "description": "Wyoming Medical Center, Inc.",
   "subnets": {
-    "ipv4": [
-      "204.68.151.0/24",
-      "204.145.171.0/24",
-      "205.167.90.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

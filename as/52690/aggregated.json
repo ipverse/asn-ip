@@ -3,11 +3,7 @@
   "handle": "VIA-PERSONAL-TECNOLOGIA",
   "description": "VIA PERSONAL TECNOLOGIA, INFORMAO E COMUNICAO",
   "subnets": {
-    "ipv4": [
-      "177.107.16.0/20"
-    ],
-    "ipv6": [
-      "2804:5d34::/32"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

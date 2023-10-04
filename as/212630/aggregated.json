@@ -1,0 +1,13 @@
+{
+  "asn": 212630,
+  "handle": "LUXAIRPORT",
+  "description": "Societe de l\u0027aeroport de Luxembourg SA",
+  "subnets": {
+    "ipv4": [
+      "82.117.241.0/24"
+    ],
+    "ipv6": [
+      "2a0b:53c0::/32"
+    ]
+  }
+}

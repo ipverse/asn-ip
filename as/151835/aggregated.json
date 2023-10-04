@@ -1,0 +1,11 @@
+{
+  "asn": 151835,
+  "handle": "AIRNET-BSL-AP",
+  "description": "Airnet Communication",
+  "subnets": {
+    "ipv4": [
+      "103.240.2.0/24"
+    ],
+    "ipv6": []
+  }
+}

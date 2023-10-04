@@ -3,9 +3,7 @@
   "handle": "LENDLEASE-USA-1",
   "description": "Lendlease",
   "subnets": {
-    "ipv4": [
-      "8.22.192.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

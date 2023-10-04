@@ -4,7 +4,6 @@
   "description": "Lewis \u0026 Clark College",
   "subnets": {
     "ipv4": [
-      "149.175.0.0/16",
       "192.54.243.0/24"
     ],
     "ipv6": []

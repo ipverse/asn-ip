@@ -4,7 +4,8 @@
   "description": "IGMAX COMERCIO E SERVICO DE TELECOMUNICACOES LTDA",
   "subnets": {
     "ipv4": [
-      "45.168.92.0/23"
+      "45.168.92.0/23",
+      "45.168.95.0/24"
     ],
     "ipv6": [
       "2804:570c::/32"

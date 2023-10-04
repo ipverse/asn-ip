@@ -4,7 +4,8 @@
   "description": "Mv Net Solutions Pvt. Ltd",
   "subnets": {
     "ipv4": [
-      "103.97.90.0/23"
+      "103.97.90.0/23",
+      "103.170.149.0/24"
     ],
     "ipv6": []
   }

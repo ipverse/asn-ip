@@ -4,6 +4,7 @@
   "description": "Windstream Communications LLC",
   "subnets": {
     "ipv4": [
+      "5.249.184.0/22",
       "12.169.8.0/24",
       "14.102.232.0/24",
       "23.172.160.0/24",
