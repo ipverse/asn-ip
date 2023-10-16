@@ -3,7 +3,9 @@
   "handle": "SKYNET-PRESTAO-SCM",
   "description": "SkyNet Prestao S.C.M. LTDA. ME.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "177.23.40.0/21"
+    ],
     "ipv6": []
   }
 }

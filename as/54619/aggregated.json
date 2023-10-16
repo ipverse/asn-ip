@@ -3,7 +3,10 @@
   "handle": "GHCSCW",
   "description": "GROUP HEALTH COOPERATIVE OF SOUTH CENTRAL WISCONSIN",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "75.141.38.0/24",
+      "147.202.206.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,13 @@
   "handle": "ARKWEST-COMMUICATIONS",
   "description": "Arkwest Communications Inc",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "98.159.64.0/20",
+      "162.249.228.0/22",
+      "206.84.84.0/22"
+    ],
+    "ipv6": [
+      "2605:3b00::/36"
+    ]
   }
 }

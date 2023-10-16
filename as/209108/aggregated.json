@@ -3,7 +3,11 @@
   "handle": "TPIT",
   "description": "Trans-Pack Logisztika Kft.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "80.68.151.0/24"
+    ],
+    "ipv6": [
+      "2a12:f640::/29"
+    ]
   }
 }

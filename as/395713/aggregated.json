@@ -3,7 +3,9 @@
   "handle": "ALLIED-SOLUTIONS-LLC-US",
   "description": "ALLIED SOLUTIONS LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "64.56.212.0/22"
+    ],
     "ipv6": []
   }
 }

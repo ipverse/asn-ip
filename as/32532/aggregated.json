@@ -3,7 +3,9 @@
   "handle": "KMC-37",
   "description": "Kuakini Medical Center",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "168.215.226.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,11 @@
   "handle": "MARCOS-LUIZ-ALMEIDA",
   "description": "MARCOS LUIZ DE ALMEIDA ME",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.171.208.0/22"
+    ],
+    "ipv6": [
+      "2804:59f0::/32"
+    ]
   }
 }

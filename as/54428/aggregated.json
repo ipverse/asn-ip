@@ -3,7 +3,9 @@
   "handle": "FRD",
   "description": "DRS Technologies, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "12.216.216.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "RAIN-GROUP-HOLDINGS",
   "description": "RAIN GROUP HOLDINGS (PTY) LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "154.73.252.0/22"
+    ],
     "ipv6": []
   }
 }

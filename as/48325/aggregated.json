@@ -3,7 +3,9 @@
   "handle": "BAZTEL",
   "description": "BazTel Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.137.240.0/22"
+    ],
     "ipv6": []
   }
 }

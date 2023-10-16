@@ -3,7 +3,10 @@
   "handle": "PIXEL-TELECOMUNICAES",
   "description": "PIXEL TELECOMUNICAES",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "138.204.176.0/22",
+      "170.233.220.0/22"
+    ],
     "ipv6": []
   }
 }

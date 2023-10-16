@@ -3,7 +3,11 @@
   "handle": "KMENET",
   "description": "KME, spol. s r. o.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "185.149.128.0/22"
+    ],
+    "ipv6": [
+      "2a07:6880::/32"
+    ]
   }
 }

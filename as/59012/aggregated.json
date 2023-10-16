@@ -3,7 +3,11 @@
   "handle": "SINOGRAIN",
   "description": "China Grain Reserves Group LTD.Company",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "103.110.136.0/22"
+    ],
+    "ipv6": [
+      "2402:8bc0::/32"
+    ]
   }
 }

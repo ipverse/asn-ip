@@ -3,7 +3,9 @@
   "handle": "WASHCORP-AS2",
   "description": "Washington Corporations",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "216.240.126.0/23"
+    ],
     "ipv6": []
   }
 }

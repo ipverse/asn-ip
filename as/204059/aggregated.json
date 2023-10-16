@@ -3,7 +3,12 @@
   "handle": "NEUTRINET",
   "description": "Neutrinet ASBL",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "80.67.181.0/24",
+      "80.67.191.0/24"
+    ],
+    "ipv6": [
+      "2001:913:1000::/36"
+    ]
   }
 }

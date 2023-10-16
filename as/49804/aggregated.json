@@ -3,7 +3,9 @@
   "handle": "MIPSGROUP",
   "description": "Mips Group LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "94.131.223.0/24"
+    ],
     "ipv6": []
   }
 }

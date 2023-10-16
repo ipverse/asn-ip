@@ -3,7 +3,11 @@
   "handle": "ULTRATELECOM-PROVEDORA-INTERNET",
   "description": "UltraTelecom Provedora de Internet",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "177.37.64.0/19"
+    ],
+    "ipv6": [
+      "2804:e24::/32"
+    ]
   }
 }

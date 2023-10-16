@@ -3,7 +3,10 @@
   "handle": "INDIVIDUALENTREPRENEUREDUARDURUZOVAS",
   "description": "individual entrepreneur Eduard Uruzov",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.103.111.0/24",
+      "185.109.22.0/23"
+    ],
     "ipv6": []
   }
 }

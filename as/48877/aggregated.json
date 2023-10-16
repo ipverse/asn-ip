@@ -3,7 +3,10 @@
   "handle": "YUNICOM",
   "description": "Yunicom Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "178.34.84.0/23",
+      "178.34.86.0/24"
+    ],
     "ipv6": []
   }
 }

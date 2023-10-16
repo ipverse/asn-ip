@@ -3,7 +3,10 @@
   "handle": "SDCWA-ORG",
   "description": "San Diego County Water Authority",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "12.232.23.0/24",
+      "216.103.0.0/23"
+    ],
     "ipv6": []
   }
 }

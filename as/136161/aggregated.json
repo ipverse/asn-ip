@@ -3,7 +3,11 @@
   "handle": "ANYCASTHOLDINGS-AP",
   "description": "ANYCAST HOLDINGS PTY LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.82.124.0/24",
+      "103.92.94.0/24",
+      "103.112.104.0/23"
+    ],
     "ipv6": []
   }
 }

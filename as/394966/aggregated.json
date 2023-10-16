@@ -3,7 +3,9 @@
   "handle": "DFCU",
   "description": "Direct Federal Credit Union",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "207.172.64.0/24"
+    ],
     "ipv6": []
   }
 }

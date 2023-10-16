@@ -3,7 +3,9 @@
   "handle": "ANDRES-POZZI",
   "description": "ANDRES POZZI (PUNTONETINTERNET)",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "168.197.196.0/22"
+    ],
     "ipv6": []
   }
 }

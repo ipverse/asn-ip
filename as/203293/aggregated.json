@@ -3,7 +3,11 @@
   "handle": "REGIONETZ",
   "description": "Norbert Herter trading as Regionetz.net",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "185.139.92.0/22"
+    ],
+    "ipv6": [
+      "2a07:1440::/29"
+    ]
   }
 }

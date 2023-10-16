@@ -3,7 +3,9 @@
   "handle": "NAEGELE",
   "description": "Naegele IT-Service GmbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.150.69.0/24"
+    ],
     "ipv6": []
   }
 }

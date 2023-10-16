@@ -3,7 +3,10 @@
   "handle": "AHSYS",
   "description": "Atlantic Health System",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "198.140.183.0/24",
+      "198.140.184.0/24"
+    ],
     "ipv6": []
   }
 }

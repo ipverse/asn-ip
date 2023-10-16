@@ -3,7 +3,12 @@
   "handle": "SUA-TELECOM",
   "description": "SUA TELECOM LTDA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.181.56.0/22",
+      "138.0.148.0/22"
+    ],
+    "ipv6": [
+      "2804:6078::/32"
+    ]
   }
 }

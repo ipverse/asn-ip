@@ -3,7 +3,9 @@
   "handle": "THEKO-ID",
   "description": "PT Theko Digital Solusindo",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.142.200.0/23"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,11 @@
   "handle": "NEWCOM-NICARAGUA",
   "description": "Newcom Nicaragua, S.A.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "181.174.124.0/24",
+      "190.53.41.0/24",
+      "208.96.129.0/24"
+    ],
     "ipv6": []
   }
 }

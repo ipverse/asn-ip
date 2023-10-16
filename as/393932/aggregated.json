@@ -3,7 +3,9 @@
   "handle": "PROMU-ASN-01",
   "description": "Groupe Promutuel",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "142.202.186.0/23"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "FERNANDO-NAGEL",
   "description": "Fernando Nagel e Cia. Ltda.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "191.243.192.0/22"
+    ],
     "ipv6": []
   }
 }

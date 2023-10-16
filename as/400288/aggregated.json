@@ -3,7 +3,9 @@
   "handle": "TAMAANI-01",
   "description": "Kativik Regional Government",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "142.82.240.0/20"
+    ],
     "ipv6": []
   }
 }

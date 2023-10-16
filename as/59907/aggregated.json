@@ -3,7 +3,10 @@
   "handle": "IMSHEALTH",
   "description": "IQVIA SOLUTIONS HQ LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "162.44.7.0/24",
+      "162.44.224.0/23"
+    ],
     "ipv6": []
   }
 }

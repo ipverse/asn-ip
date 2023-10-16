@@ -3,7 +3,9 @@
   "handle": "TRIUV",
   "description": "Frendy Oy",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.244.92.0/24"
+    ],
     "ipv6": []
   }
 }

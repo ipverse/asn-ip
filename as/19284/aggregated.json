@@ -3,7 +3,9 @@
   "handle": "AGSTAR",
   "description": "Compeer Financial, ACA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "208.88.228.0/22"
+    ],
     "ipv6": []
   }
 }

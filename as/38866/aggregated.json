@@ -3,7 +3,9 @@
   "handle": "MSC-HKG-AP",
   "description": "Mediterranean Shipping Company (Hong Kong) Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "202.168.95.0/24"
+    ],
     "ipv6": []
   }
 }

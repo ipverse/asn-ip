@@ -3,7 +3,10 @@
   "handle": "DXC-EUROPE-ES",
   "description": "Enterprise Services France SAS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "206.164.30.0/24",
+      "206.164.48.0/21"
+    ],
     "ipv6": []
   }
 }

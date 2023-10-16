@@ -3,7 +3,9 @@
   "handle": "GENERIS-SYSTEM",
   "description": "Generis System Telecom SAS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.43.68.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "CONNECT-HOUSE",
   "description": "CONNECT HOUSE",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "186.194.14.0/23"
+    ],
     "ipv6": []
   }
 }

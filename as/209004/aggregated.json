@@ -3,7 +3,9 @@
   "handle": "AMEX-ME",
   "description": "AMEX (MIDDLE EAST) B.S.C. (CLOSED)",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.11.72.0/23"
+    ],
     "ipv6": []
   }
 }

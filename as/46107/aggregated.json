@@ -3,7 +3,9 @@
   "handle": "TPG-GLOBAL",
   "description": "TPG Global, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "207.243.26.0/24"
+    ],
     "ipv6": []
   }
 }

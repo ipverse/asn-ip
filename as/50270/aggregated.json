@@ -3,7 +3,11 @@
   "handle": "NPT",
   "description": "Nasjonal kommunikasjonsmyndighet",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "109.233.0.0/21"
+    ],
+    "ipv6": [
+      "2a02:2368::/32"
+    ]
   }
 }

@@ -3,7 +3,9 @@
   "handle": "CMCC",
   "description": "Canadian Museum of Civilization",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "204.19.14.0/24"
+    ],
     "ipv6": []
   }
 }

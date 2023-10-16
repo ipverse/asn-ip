@@ -3,7 +3,10 @@
   "handle": "MOGEIX",
   "description": "Association GIXE",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "89.234.129.0/24",
+      "195.250.40.0/24"
+    ],
     "ipv6": []
   }
 }

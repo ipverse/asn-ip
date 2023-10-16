@@ -3,7 +3,9 @@
   "handle": "CENTE-5",
   "description": "Centene Corporation",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "184.175.146.0/24"
+    ],
     "ipv6": []
   }
 }

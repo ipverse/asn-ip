@@ -3,7 +3,9 @@
   "handle": "GNRU",
   "description": "Global Networks Telecom LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.80.144.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "SKYNET-ID",
   "description": "PT Skynet Lintas Nusantara",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.156.128.0/24"
+    ],
     "ipv6": []
   }
 }

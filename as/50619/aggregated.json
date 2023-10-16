@@ -3,7 +3,9 @@
   "handle": "DOMOKOM",
   "description": "VISIUM LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.245.249.0/24"
+    ],
     "ipv6": []
   }
 }

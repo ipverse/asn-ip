@@ -3,7 +3,9 @@
   "handle": "TOPNET",
   "description": "Top Net BG LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "95.43.114.0/24"
+    ],
     "ipv6": []
   }
 }

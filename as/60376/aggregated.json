@@ -3,7 +3,10 @@
   "handle": "NET-BINERO-KRM1",
   "description": "Binero AB",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.99.188.0/22",
+      "195.26.10.0/23"
+    ],
     "ipv6": []
   }
 }

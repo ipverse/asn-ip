@@ -3,7 +3,9 @@
   "handle": "VOICECOM-NET",
   "description": "Voice Communication LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "95.66.226.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "AGDTECH-AU",
   "description": "AGD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.59.183.0/24"
+    ],
     "ipv6": []
   }
 }

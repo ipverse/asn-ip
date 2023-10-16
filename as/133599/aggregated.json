@@ -3,7 +3,9 @@
   "handle": "SL1-AP",
   "description": "Stuff Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "119.15.67.0/24"
+    ],
     "ipv6": []
   }
 }

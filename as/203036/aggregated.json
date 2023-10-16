@@ -3,7 +3,9 @@
   "handle": "GPS-2",
   "description": "THREDD UK LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.194.104.0/23"
+    ],
     "ipv6": []
   }
 }

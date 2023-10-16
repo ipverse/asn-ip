@@ -3,7 +3,9 @@
   "handle": "ASSTALNET",
   "description": "OOO Stalnet",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "178.219.176.0/20"
+    ],
     "ipv6": []
   }
 }

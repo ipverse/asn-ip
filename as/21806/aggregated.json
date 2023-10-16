@@ -3,7 +3,11 @@
   "handle": "NATIONAL-FUEL",
   "description": "National Fuel Gas Distribution Corporation",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "205.235.160.0/24",
+      "205.235.173.0/24",
+      "205.235.175.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "JOSE-NILTON-FREITAS",
   "description": "Jose Nilton de Freitas e Cia LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "168.194.84.0/22"
+    ],
     "ipv6": []
   }
 }

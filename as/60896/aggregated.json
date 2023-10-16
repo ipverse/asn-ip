@@ -3,7 +3,9 @@
   "handle": "SISTEM",
   "description": "Sistem Network Company Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.24.80.0/22"
+    ],
     "ipv6": []
   }
 }

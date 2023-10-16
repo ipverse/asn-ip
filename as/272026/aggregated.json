@@ -3,7 +3,10 @@
   "handle": "HERNAN-GALEANO-KIM",
   "description": "HERNAN GALEANO KIM (HERKIM - SOLUCIONES TECNOLOGICAS)",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "167.250.236.0/23",
+      "177.11.254.0/23"
+    ],
     "ipv6": []
   }
 }

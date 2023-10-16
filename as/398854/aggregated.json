@@ -3,7 +3,9 @@
   "handle": "ULTRANETWIFI",
   "description": "Ultranet, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.95.200.0/22"
+    ],
     "ipv6": []
   }
 }

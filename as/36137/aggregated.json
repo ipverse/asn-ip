@@ -3,7 +3,9 @@
   "handle": "PEG-FR",
   "description": "PEG TECH INC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "107.148.64.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "PL-AMICA",
   "description": "AMICA SA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.51.116.0/24"
+    ],
     "ipv6": []
   }
 }

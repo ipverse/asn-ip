@@ -3,7 +3,9 @@
   "handle": "VOL",
   "description": "Limited Liability Company Vostok On-Line",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "89.28.128.0/21"
+    ],
     "ipv6": []
   }
 }

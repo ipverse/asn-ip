@@ -3,7 +3,9 @@
   "handle": "RTK",
   "description": "Regionalna Telewizja Kablowa Spolka Jawna L.Iwanski i Wspolnicy",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "83.218.96.0/19"
+    ],
     "ipv6": []
   }
 }

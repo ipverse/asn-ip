@@ -3,7 +3,11 @@
   "handle": "DINAMICA-TELECOM-EIRELLI",
   "description": "DINAMICA TELECOM EIRELLI",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.232.40.0/22"
+    ],
+    "ipv6": [
+      "2804:4ad0::/32"
+    ]
   }
 }

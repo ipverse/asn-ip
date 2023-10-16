@@ -3,7 +3,10 @@
   "handle": "NEL",
   "description": "Nodal Exchange, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "216.230.24.0/24",
+      "216.230.26.0/23"
+    ],
     "ipv6": []
   }
 }

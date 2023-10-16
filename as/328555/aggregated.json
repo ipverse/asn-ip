@@ -3,7 +3,9 @@
   "handle": "TIMELESS-NETWORK-SERVICES",
   "description": "Timeless Network Services Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "102.36.228.0/22"
+    ],
     "ipv6": []
   }
 }

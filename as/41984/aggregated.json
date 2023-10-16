@@ -3,7 +3,10 @@
   "handle": "MCC",
   "description": "Confort L\u0026CC SRL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "37.120.240.0/23",
+      "193.34.108.0/22"
+    ],
     "ipv6": []
   }
 }

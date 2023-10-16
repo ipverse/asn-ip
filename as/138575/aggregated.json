@@ -3,7 +3,9 @@
   "handle": "APPLE2-AP",
   "description": "APPLE NET",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.133.140.0/22"
+    ],
     "ipv6": []
   }
 }

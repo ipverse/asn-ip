@@ -3,9 +3,11 @@
   "handle": "NOSSA-TELECOM-TELECOMUNICAES",
   "description": "Nossa Telecom Telecomunicaes Ltda",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "200.142.188.0/22"
+    ],
     "ipv6": [
-      "2804:18bc:4000::/34"
+      "2804:18bc::/32"
     ]
   }
 }

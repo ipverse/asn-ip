@@ -3,7 +3,12 @@
   "handle": "INFOSERVIC-INFORMATICA-TELECOMUNICAO",
   "description": "INFOSERVIC INFORMATICA TELECOMUNICAO LTDA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "170.233.76.0/22",
+      "191.243.48.0/22"
+    ],
+    "ipv6": [
+      "2804:12bc::/32"
+    ]
   }
 }

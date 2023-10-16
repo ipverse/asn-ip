@@ -3,7 +3,9 @@
   "handle": "UNO-TELECOM",
   "description": "UNO TELECOM LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.179.64.0/22"
+    ],
     "ipv6": []
   }
 }

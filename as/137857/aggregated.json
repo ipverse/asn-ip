@@ -3,7 +3,9 @@
   "handle": "NYT-AP",
   "description": "NYT Hong Kong Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "170.149.234.0/23"
+    ],
     "ipv6": []
   }
 }

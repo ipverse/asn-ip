@@ -3,7 +3,10 @@
   "handle": "LLC3DATADC",
   "description": "LLC 3data DC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "109.107.169.0/24",
+      "193.27.228.0/24"
+    ],
     "ipv6": []
   }
 }

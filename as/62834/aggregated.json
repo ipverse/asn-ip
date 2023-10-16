@@ -3,7 +3,9 @@
   "handle": "PALIG",
   "description": "Pan-American Life Insurance Group, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "162.250.64.0/21"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,12 @@
   "handle": "CCT-AP",
   "description": "Clare Cable TeleVision",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "103.162.127.0/24",
+      "103.180.50.0/24"
+    ],
+    "ipv6": [
+      "2400:aea0::/32"
+    ]
   }
 }

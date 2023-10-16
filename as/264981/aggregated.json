@@ -3,7 +3,9 @@
   "handle": "NOVANET-WORK",
   "description": "NOVANET WORK",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "170.0.192.0/22"
+    ],
     "ipv6": []
   }
 }

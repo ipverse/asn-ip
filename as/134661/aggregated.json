@@ -3,7 +3,9 @@
   "handle": "IDNIC-SIF-ID",
   "description": "SHINHAN INDO FINANCE",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.212.234.0/24"
+    ],
     "ipv6": []
   }
 }

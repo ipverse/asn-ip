@@ -3,7 +3,9 @@
   "handle": "GREENLIGHT",
   "description": "Greenlight Innovation Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.223.68.0/22"
+    ],
     "ipv6": []
   }
 }

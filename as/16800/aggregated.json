@@ -3,7 +3,10 @@
   "handle": "NBS90",
   "description": "Nedbank Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "163.199.128.0/24",
+      "163.201.128.0/24"
+    ],
     "ipv6": []
   }
 }

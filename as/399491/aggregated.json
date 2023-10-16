@@ -3,7 +3,12 @@
   "handle": "VIOLA-COMMUNICATIONS",
   "description": "Viola Communications Inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "69.161.34.0/24",
+      "69.161.39.0/24",
+      "69.161.40.0/23",
+      "74.206.50.0/23"
+    ],
     "ipv6": []
   }
 }

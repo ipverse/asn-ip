@@ -3,7 +3,10 @@
   "handle": "MACHCLOUD",
   "description": "MachCloud B.V.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.138.216.0/22",
+      "194.26.76.0/22"
+    ],
     "ipv6": []
   }
 }

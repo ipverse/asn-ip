@@ -3,7 +3,9 @@
   "handle": "MINISTRY-OF-ECONOMY",
   "description": "Ministry of Economy",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "168.101.0.0/16"
+    ],
     "ipv6": []
   }
 }

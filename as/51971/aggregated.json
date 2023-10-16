@@ -3,7 +3,9 @@
   "handle": "SKOLKOVO",
   "description": "Skolkovo Managment LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.220.219.0/24"
+    ],
     "ipv6": []
   }
 }

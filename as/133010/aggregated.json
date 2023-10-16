@@ -3,7 +3,10 @@
   "handle": "ECLERX-IN",
   "description": "Eclerx Services Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.76.26.0/23",
+      "63.116.78.0/23"
+    ],
     "ipv6": []
   }
 }

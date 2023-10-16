@@ -3,7 +3,9 @@
   "handle": "SHAHR",
   "description": "Shahr Bank PJSC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.91.152.0/22"
+    ],
     "ipv6": []
   }
 }

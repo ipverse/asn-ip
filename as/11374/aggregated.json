@@ -3,7 +3,12 @@
   "handle": "WORKSMART-NETWORK-BACKBONE",
   "description": "Panterra Networks, Inc.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "208.77.4.0/22"
+    ],
+    "ipv6": [
+      "2602:fe6f:1::/48",
+      "2602:fe6f:2::/47"
+    ]
   }
 }

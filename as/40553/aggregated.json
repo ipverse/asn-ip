@@ -3,7 +3,9 @@
   "handle": "CUYAHOGA-COUNTY",
   "description": "Cuyahoga County Information Services center",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "208.90.52.0/22"
+    ],
     "ipv6": []
   }
 }

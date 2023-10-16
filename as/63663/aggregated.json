@@ -3,7 +3,9 @@
   "handle": "YHHL",
   "description": "Beijing YunHaiHuLian Science and Technology Co., Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.119.107.0/24"
+    ],
     "ipv6": []
   }
 }

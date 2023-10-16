@@ -3,7 +3,9 @@
   "handle": "GTRL",
   "description": "Gibson Thomas Rental Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.131.88.0/24"
+    ],
     "ipv6": []
   }
 }

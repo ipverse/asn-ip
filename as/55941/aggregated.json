@@ -3,7 +3,9 @@
   "handle": "CBOE-AU",
   "description": "Cboe Australia Pty Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "202.94.78.0/23"
+    ],
     "ipv6": []
   }
 }

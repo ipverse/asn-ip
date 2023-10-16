@@ -3,7 +3,9 @@
   "handle": "ROAMDATA",
   "description": "ROAM Data Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "74.115.84.0/22"
+    ],
     "ipv6": []
   }
 }

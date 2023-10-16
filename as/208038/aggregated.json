@@ -3,7 +3,9 @@
   "handle": "ITTAK",
   "description": "Melnichuk Mikhailo",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "93.170.122.0/24"
+    ],
     "ipv6": []
   }
 }

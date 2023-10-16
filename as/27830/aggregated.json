@@ -3,7 +3,9 @@
   "handle": "PAN-AMERICAN-ENERGY-LLC",
   "description": "Pan American Energy LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "200.4.59.0/24"
+    ],
     "ipv6": []
   }
 }

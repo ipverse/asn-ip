@@ -3,7 +3,11 @@
   "handle": "SLASCONSULTING",
   "description": "SLAS Consulting, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.87.240.0/22",
+      "64.40.20.0/23",
+      "204.2.21.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "SURFSAFE",
   "description": "Internet Vikings International AB",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.116.240.0/22"
+    ],
     "ipv6": []
   }
 }

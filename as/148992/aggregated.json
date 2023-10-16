@@ -3,7 +3,9 @@
   "handle": "CGP-AP",
   "description": "CHANGXIN GLOBAL PTE.LTD.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.175.164.0/23"
+    ],
     "ipv6": []
   }
 }

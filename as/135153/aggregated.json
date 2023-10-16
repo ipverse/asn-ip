@@ -3,7 +3,9 @@
   "handle": "KASSAWINPTYLTD-AP",
   "description": "Kassawin Pty Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.211.6.0/23"
+    ],
     "ipv6": []
   }
 }

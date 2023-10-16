@@ -3,7 +3,10 @@
   "handle": "MARCHEX",
   "description": "Marchex, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "8.20.80.0/24",
+      "174.137.112.0/20"
+    ],
     "ipv6": []
   }
 }

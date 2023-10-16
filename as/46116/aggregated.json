@@ -3,7 +3,9 @@
   "handle": "FIXNETIX-ARIN-BGP",
   "description": "Fixnetix Inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "20.156.186.0/24"
+    ],
     "ipv6": []
   }
 }

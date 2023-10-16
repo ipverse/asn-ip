@@ -3,7 +3,10 @@
   "handle": "PRINCEWILLIAMCOSCHOOLS",
   "description": "Prince William County Public Schools",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "204.122.110.0/23",
+      "204.122.112.0/23"
+    ],
     "ipv6": []
   }
 }

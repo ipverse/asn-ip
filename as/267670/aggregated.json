@@ -3,7 +3,12 @@
   "handle": "NETLINK-TELECOM",
   "description": "NetLink Telecom",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.224.187.0/24",
+      "45.224.200.0/23"
+    ],
+    "ipv6": [
+      "2804:4510::/32"
+    ]
   }
 }

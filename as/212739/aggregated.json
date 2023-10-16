@@ -3,7 +3,9 @@
   "handle": "DE-ENERGIE-ZIEGLER",
   "description": "Energie Ziegler GmbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.163.191.0/24"
+    ],
     "ipv6": []
   }
 }

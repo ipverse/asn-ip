@@ -3,7 +3,10 @@
   "handle": "CAMPLINK",
   "description": "Camplink",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.203.192.0/22",
+      "206.251.192.0/20"
+    ],
     "ipv6": []
   }
 }

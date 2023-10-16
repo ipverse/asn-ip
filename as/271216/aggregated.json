@@ -3,7 +3,11 @@
   "handle": "C-SANCHES-SOUZA",
   "description": "C Sanches de Souza",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "177.36.76.0/22"
+    ],
+    "ipv6": [
+      "2804:7808::/32"
+    ]
   }
 }

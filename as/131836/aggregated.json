@@ -3,7 +3,9 @@
   "handle": "HWGI",
   "description": "Firstfire Marine Insurance",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "59.18.252.0/24"
+    ],
     "ipv6": []
   }
 }

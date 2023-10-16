@@ -3,7 +3,10 @@
   "handle": "LUX-TV",
   "description": "LUX-TV Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.215.20.0/22",
+      "109.197.248.0/21"
+    ],
     "ipv6": []
   }
 }

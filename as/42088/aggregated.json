@@ -3,7 +3,9 @@
   "handle": "DBOSOFT",
   "description": "DBO SOFT LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.212.249.0/24"
+    ],
     "ipv6": []
   }
 }

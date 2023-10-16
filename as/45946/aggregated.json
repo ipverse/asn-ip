@@ -3,7 +3,9 @@
   "handle": "AIRNZ-AS2-NZ",
   "description": "Air New Zealand Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "162.112.0.0/16"
+    ],
     "ipv6": []
   }
 }

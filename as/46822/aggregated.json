@@ -3,7 +3,9 @@
   "handle": "ARGONST",
   "description": "Argon ST Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.111.136.0/24"
+    ],
     "ipv6": []
   }
 }

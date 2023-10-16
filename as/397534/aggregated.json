@@ -3,7 +3,10 @@
   "handle": "IWU-PUBLIC-01",
   "description": "Indiana Wesleyan University (Marion College)",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.8.16.0/21",
+      "199.8.24.0/22"
+    ],
     "ipv6": []
   }
 }

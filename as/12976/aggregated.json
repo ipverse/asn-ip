@@ -3,7 +3,12 @@
   "handle": "CWSVYAZ",
   "description": "CITIC Telecom CPC Rus LLC",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "212.65.64.0/19",
+      "213.152.128.0/19"
+    ],
+    "ipv6": [
+      "2a01:6e0::/32"
+    ]
   }
 }

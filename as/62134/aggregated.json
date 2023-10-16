@@ -3,7 +3,9 @@
   "handle": "IHNET-EU",
   "description": "IHNetworks, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.46.120.0/22"
+    ],
     "ipv6": []
   }
 }

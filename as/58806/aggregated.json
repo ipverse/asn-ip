@@ -3,7 +3,9 @@
   "handle": "UTCC-TH",
   "description": "The University of Thai Chamber of Commerce,",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "171.102.40.0/24"
+    ],
     "ipv6": []
   }
 }

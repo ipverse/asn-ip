@@ -3,7 +3,11 @@
   "handle": "SAGA-INTERNET",
   "description": "Saga Internet",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "170.78.228.0/22"
+    ],
+    "ipv6": [
+      "2804:3550::/32"
+    ]
   }
 }

@@ -3,7 +3,9 @@
   "handle": "CPI-SOLUTIONS",
   "description": "CPI Solutions",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "66.59.43.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,12 @@
   "handle": "SHELFSPACE",
   "description": "Thomas James Elliott",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "193.53.36.0/24",
+      "194.1.151.0/24"
+    ],
+    "ipv6": [
+      "2001:67c:1bac::/48"
+    ]
   }
 }

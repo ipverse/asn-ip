@@ -3,7 +3,9 @@
   "handle": "GENESIS-DATA",
   "description": "Genesis Data SAS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "138.186.188.0/22"
+    ],
     "ipv6": []
   }
 }

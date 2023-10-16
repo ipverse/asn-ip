@@ -3,7 +3,10 @@
   "handle": "AMWAJ",
   "description": "Nuetel Communications B.S.C",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "87.236.136.0/21",
+      "185.236.132.0/22"
+    ],
     "ipv6": []
   }
 }

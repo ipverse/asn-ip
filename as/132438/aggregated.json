@@ -3,7 +3,11 @@
   "handle": "APONIT-AP",
   "description": "APON IT",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "103.73.44.0/23"
+    ],
+    "ipv6": [
+      "2406:ec80::/32"
+    ]
   }
 }

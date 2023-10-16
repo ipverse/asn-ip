@@ -3,7 +3,9 @@
   "handle": "KZVKTECH",
   "description": "VK Tech Kazakhstan LLP",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "176.123.176.0/22"
+    ],
     "ipv6": []
   }
 }

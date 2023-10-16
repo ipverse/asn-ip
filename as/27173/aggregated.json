@@ -3,7 +3,9 @@
   "handle": "WEEMO-1",
   "description": "Sightcall Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "162.252.232.0/22"
+    ],
     "ipv6": []
   }
 }

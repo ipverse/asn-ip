@@ -3,7 +3,9 @@
   "handle": "LHM-ASN-2247211",
   "description": "Liberty Healthcare Management Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.182.114.0/24"
+    ],
     "ipv6": []
   }
 }

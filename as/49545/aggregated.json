@@ -3,7 +3,9 @@
   "handle": "STROYTELECOM-YUG",
   "description": "StroyTelecom-Yug Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.79.44.0/22"
+    ],
     "ipv6": []
   }
 }

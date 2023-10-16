@@ -3,7 +3,11 @@
   "handle": "MW-TELECOM-SOLUES",
   "description": "MW TELECOM SOLUES EM TELECOMUNICAOES DO AGRESTE",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.229.108.0/22"
+    ],
+    "ipv6": [
+      "2804:4844::/32"
+    ]
   }
 }

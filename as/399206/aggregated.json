@@ -3,7 +3,9 @@
   "handle": "ASSOCIATED-COMPUTER-SYSTEMS",
   "description": "Associated Computer Systems, Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "104.224.3.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,11 @@
   "handle": "LD-PRODUTOS-INFORMATICA",
   "description": "LD PRODUTOS DE INFORMATICA EIRELI - ME",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.71.236.0/22"
+    ],
+    "ipv6": [
+      "2804:4454::/32"
+    ]
   }
 }

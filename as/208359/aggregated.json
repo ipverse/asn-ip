@@ -3,7 +3,9 @@
   "handle": "BMCOTOMOTIV",
   "description": "BMC Otomotiv Sanayi ve Ticaret A.S",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "188.119.108.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "LANTECH-SOLUCIONES-SOCIEDAD",
   "description": "LANTECH SOLUCIONES SOCIEDAD DE RESPONSABILIDAD LIMITADA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.167.121.0/24"
+    ],
     "ipv6": []
   }
 }

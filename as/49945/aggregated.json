@@ -3,7 +3,10 @@
   "handle": "ALIF",
   "description": "OJSC Alif Bank",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.33.130.0/23",
+      "193.33.136.0/24"
+    ],
     "ipv6": []
   }
 }

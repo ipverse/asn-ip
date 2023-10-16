@@ -3,7 +3,9 @@
   "handle": "ROSSIA-AIRLINES",
   "description": "JSC ROSSIYA-AIRLINES",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "217.195.76.0/24"
+    ],
     "ipv6": []
   }
 }

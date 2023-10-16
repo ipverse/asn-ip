@@ -3,7 +3,11 @@
   "handle": "CENTERSAT-TELECOMUNICACOES",
   "description": "CENTERSAT TELECOMUNICACOES LTDA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.161.192.0/22"
+    ],
+    "ipv6": [
+      "2804:51dc::/32"
+    ]
   }
 }

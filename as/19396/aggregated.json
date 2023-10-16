@@ -3,7 +3,9 @@
   "handle": "HFI",
   "description": "Haynes Furniture Company Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "216.54.61.0/24"
+    ],
     "ipv6": []
   }
 }

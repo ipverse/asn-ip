@@ -3,7 +3,9 @@
   "handle": "NTERO",
   "description": "Ntero Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "217.174.145.0/24"
+    ],
     "ipv6": []
   }
 }

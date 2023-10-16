@@ -3,7 +3,9 @@
   "handle": "NEANETT",
   "description": "NTE MARKED AS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "31.186.88.0/21"
+    ],
     "ipv6": []
   }
 }

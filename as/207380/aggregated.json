@@ -3,7 +3,9 @@
   "handle": "TECHNOTORG",
   "description": "LLC PF TECHNOTORG",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.223.18.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "CR-INTERNET-APUCARANA",
   "description": "CR INTERNET APUCARANA LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "179.51.192.0/22"
+    ],
     "ipv6": []
   }
 }

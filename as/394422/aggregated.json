@@ -3,7 +3,9 @@
   "handle": "JRI-AS1",
   "description": "James Richardson International Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "205.200.190.0/24"
+    ],
     "ipv6": []
   }
 }

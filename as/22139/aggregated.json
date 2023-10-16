@@ -3,7 +3,9 @@
   "handle": "MARIN-COUNTY-01",
   "description": "County of Marin",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.88.79.0/24"
+    ],
     "ipv6": []
   }
 }

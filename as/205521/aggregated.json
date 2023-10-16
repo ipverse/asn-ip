@@ -3,7 +3,9 @@
   "handle": "RAHYAB",
   "description": "Rahyab Payam Gostaran Co. P.J.S",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.215.124.0/22"
+    ],
     "ipv6": []
   }
 }

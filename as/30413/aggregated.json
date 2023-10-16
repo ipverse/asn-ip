@@ -3,7 +3,10 @@
   "handle": "BENEFITFOCUS",
   "description": "Benefitfocus.com, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.235.102.0/24",
+      "198.24.42.0/24"
+    ],
     "ipv6": []
   }
 }

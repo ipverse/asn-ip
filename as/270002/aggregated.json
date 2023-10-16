@@ -3,7 +3,9 @@
   "handle": "SIEBEN-SERGIO-OVIDIO",
   "description": "SIEBEN SERGIO OVIDIO (INTRAGIGA)",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "200.59.212.0/22"
+    ],
     "ipv6": []
   }
 }

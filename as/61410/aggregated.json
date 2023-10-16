@@ -3,7 +3,9 @@
   "handle": "CSISTEALTH",
   "description": "CSS Stealth ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.230.215.0/24"
+    ],
     "ipv6": []
   }
 }

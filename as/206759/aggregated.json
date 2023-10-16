@@ -3,7 +3,9 @@
   "handle": "SYTRA",
   "description": "Sytra, s.r.o.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.177.4.0/22"
+    ],
     "ipv6": []
   }
 }

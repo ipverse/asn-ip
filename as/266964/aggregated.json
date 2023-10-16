@@ -3,7 +3,11 @@
   "handle": "INFOWAYNET-TELECOM",
   "description": "INFOWAYNET TELECOM",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.225.232.0/22"
+    ],
+    "ipv6": [
+      "2804:4608:8000::/33"
+    ]
   }
 }

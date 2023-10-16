@@ -3,7 +3,10 @@
   "handle": "RU-ATVC",
   "description": "PJSC Rostelecom",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "62.192.224.0/19",
+      "185.199.4.0/22"
+    ],
     "ipv6": []
   }
 }

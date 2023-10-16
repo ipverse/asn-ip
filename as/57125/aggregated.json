@@ -3,7 +3,9 @@
   "handle": "INTERMED",
   "description": "Intermed LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.227.8.0/22"
+    ],
     "ipv6": []
   }
 }

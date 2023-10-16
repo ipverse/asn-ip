@@ -3,7 +3,9 @@
   "handle": "BALTNETAS",
   "description": "MyFatDigital Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "212.103.44.0/22"
+    ],
     "ipv6": []
   }
 }

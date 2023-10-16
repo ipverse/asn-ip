@@ -3,7 +3,9 @@
   "handle": "ARPC",
   "description": "Shazand Petrochemical Company (Private Joint Stock)",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "31.184.164.0/24"
+    ],
     "ipv6": []
   }
 }

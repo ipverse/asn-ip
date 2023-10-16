@@ -3,7 +3,9 @@
   "handle": "NOVA-TELEVISION",
   "description": "NOVA BROADCASTING GROUP EOOD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "213.145.96.0/24"
+    ],
     "ipv6": []
   }
 }

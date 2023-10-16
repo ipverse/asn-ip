@@ -3,7 +3,10 @@
   "handle": "FL-PR-ASN1",
   "description": "FIREFI LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.51.150.0/23",
+      "198.52.242.0/24"
+    ],
     "ipv6": []
   }
 }

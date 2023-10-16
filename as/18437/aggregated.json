@@ -3,7 +3,9 @@
   "handle": "PITT-OHIO-EXPRESS",
   "description": "Pitt-Ohio Express, LLC.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "216.24.47.0/24"
+    ],
     "ipv6": []
   }
 }

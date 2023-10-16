@@ -3,7 +3,9 @@
   "handle": "CIRHLD",
   "description": "Circuit Holdings",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "165.140.122.0/24"
+    ],
     "ipv6": []
   }
 }

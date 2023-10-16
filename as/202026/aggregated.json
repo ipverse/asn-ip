@@ -3,7 +3,10 @@
   "handle": "ASCANIA",
   "description": "Ascania Group LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.56.16.0/23",
+      "185.56.18.0/24"
+    ],
     "ipv6": []
   }
 }

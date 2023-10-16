@@ -3,7 +3,11 @@
   "handle": "SOLUCOES-ULTRA",
   "description": "SOLUCOES ULTRA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "186.233.24.0/22"
+    ],
+    "ipv6": [
+      "2804:714c::/32"
+    ]
   }
 }

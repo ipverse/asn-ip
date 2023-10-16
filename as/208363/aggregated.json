@@ -3,7 +3,11 @@
   "handle": "CELLHIREFRANCE",
   "description": "Cellhire France SARL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.128.112.0/22",
+      "78.41.42.0/24",
+      "188.93.38.0/23"
+    ],
     "ipv6": []
   }
 }

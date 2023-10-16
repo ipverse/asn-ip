@@ -3,7 +3,9 @@
   "handle": "WAKEMED",
   "description": "WakeMed",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "216.77.41.0/24"
+    ],
     "ipv6": []
   }
 }

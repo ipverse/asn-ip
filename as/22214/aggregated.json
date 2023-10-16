@@ -3,7 +3,9 @@
   "handle": "MEDELAINC",
   "description": "Medela Inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "50.206.34.0/24"
+    ],
     "ipv6": []
   }
 }

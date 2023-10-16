@@ -3,7 +3,10 @@
   "handle": "TRANSITEC",
   "description": "TRANSITEC Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "178.217.176.0/21",
+      "195.95.214.0/23"
+    ],
     "ipv6": []
   }
 }

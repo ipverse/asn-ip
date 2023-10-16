@@ -3,7 +3,9 @@
   "handle": "LISANDRO-POZZO-ARDIZZI",
   "description": "LISANDRO POZZO ARDIZZI",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.4.100.0/22"
+    ],
     "ipv6": []
   }
 }

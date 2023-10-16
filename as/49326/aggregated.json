@@ -3,7 +3,9 @@
   "handle": "PACGROUP",
   "description": "AO PACTOUR Agency",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.14.56.0/24"
+    ],
     "ipv6": []
   }
 }

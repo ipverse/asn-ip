@@ -3,7 +3,9 @@
   "handle": "LIFEHOUSE-AU",
   "description": "LIFEHOUSE AUSTRALIA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.239.212.0/24"
+    ],
     "ipv6": []
   }
 }

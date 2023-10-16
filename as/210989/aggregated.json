@@ -3,7 +3,9 @@
   "handle": "VAC",
   "description": "Private institution of culture Museum Victoria - the Art of Being Contemporary",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "78.40.222.0/24"
+    ],
     "ipv6": []
   }
 }

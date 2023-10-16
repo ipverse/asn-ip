@@ -3,7 +3,9 @@
   "handle": "IDC-CORPORATE-SOLUCOES",
   "description": "IDC CORPORATE - SOLUCOES DE DATA CENTER LTDA - EPP",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "131.0.100.0/22"
+    ],
     "ipv6": []
   }
 }

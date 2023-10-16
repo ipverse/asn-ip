@@ -3,7 +3,9 @@
   "handle": "VIA-SUL-PROVEDOR",
   "description": "Via Sul Provedor de Acesso a Internet LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "138.59.48.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "GEIDEA",
   "description": "Geidea Technology Co ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.202.231.0/24"
+    ],
     "ipv6": []
   }
 }

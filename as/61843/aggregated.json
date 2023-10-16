@@ -3,7 +3,9 @@
   "handle": "ADP-BRASIL",
   "description": "ADP Brasil LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "200.0.72.0/24"
+    ],
     "ipv6": []
   }
 }

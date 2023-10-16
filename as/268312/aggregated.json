@@ -3,7 +3,11 @@
   "handle": "PROREDES-INTERNET-SERVICOS",
   "description": "PROREDES INTERNET SERVICOS DE INFORMATICA LTDA - M",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.238.44.0/22"
+    ],
+    "ipv6": [
+      "2804:4f38::/32"
+    ]
   }
 }

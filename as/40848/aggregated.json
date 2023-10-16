@@ -3,7 +3,9 @@
   "handle": "FMFCU",
   "description": "Franklin Mint FCU",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "146.145.140.0/24"
+    ],
     "ipv6": []
   }
 }

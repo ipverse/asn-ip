@@ -3,7 +3,9 @@
   "handle": "INFOTELECOM-BANDA-LARGA",
   "description": "InfoTelecom Banda Larga",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "168.232.124.0/22"
+    ],
     "ipv6": []
   }
 }

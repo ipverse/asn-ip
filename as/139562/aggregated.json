@@ -3,7 +3,9 @@
   "handle": "JBB-IN",
   "description": "Jolly Broadband Pvt Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.80.60.0/22"
+    ],
     "ipv6": []
   }
 }

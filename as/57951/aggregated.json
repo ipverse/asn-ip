@@ -3,7 +3,11 @@
   "handle": "YACAST-FRANCE",
   "description": "Yacast France SAS",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "37.188.88.0/21"
+    ],
+    "ipv6": [
+      "2a00:c340::/32"
+    ]
   }
 }

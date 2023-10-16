@@ -3,7 +3,9 @@
   "handle": "ZENITH-BANK-GH",
   "description": "Zenith Bank Ghana Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "196.216.180.0/22"
+    ],
     "ipv6": []
   }
 }

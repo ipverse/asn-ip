@@ -3,7 +3,9 @@
   "handle": "ADPNET-ID",
   "description": "PT. Arka Data Primatama",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.92.224.0/22"
+    ],
     "ipv6": []
   }
 }

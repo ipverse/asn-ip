@@ -3,7 +3,9 @@
   "handle": "ARKTIKA",
   "description": "Trade and logistics facility ARKTIKA Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.149.117.0/24"
+    ],
     "ipv6": []
   }
 }

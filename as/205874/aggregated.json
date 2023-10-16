@@ -3,7 +3,9 @@
   "handle": "BG-ZEROBAIT",
   "description": "Zero Bait EOOD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "151.237.25.0/24"
+    ],
     "ipv6": []
   }
 }

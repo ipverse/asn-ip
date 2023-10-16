@@ -3,7 +3,11 @@
   "handle": "CYPREA-AP",
   "description": "Cyprea Private Limited",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "103.173.79.0/24"
+    ],
+    "ipv6": [
+      "2001:df7:9980::/48"
+    ]
   }
 }

@@ -3,7 +3,9 @@
   "handle": "SOLVIANS",
   "description": "SOLVIANS IT-Solutions GmbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.239.16.0/22"
+    ],
     "ipv6": []
   }
 }

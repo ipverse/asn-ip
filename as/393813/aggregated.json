@@ -3,7 +3,10 @@
   "handle": "QUANTUM-HEALTH",
   "description": "Quantum Health Inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "69.12.55.0/24",
+      "192.86.255.0/24"
+    ],
     "ipv6": []
   }
 }

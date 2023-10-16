@@ -3,7 +3,10 @@
   "handle": "SINCH",
   "description": "Sinch AB",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.202.208.0/24",
+      "193.201.153.0/24"
+    ],
     "ipv6": []
   }
 }

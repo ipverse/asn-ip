@@ -3,7 +3,9 @@
   "handle": "POET-ASN-01",
   "description": "POET, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "66.128.178.0/24"
+    ],
     "ipv6": []
   }
 }

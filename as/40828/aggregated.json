@@ -3,7 +3,10 @@
   "handle": "REITMR",
   "description": "The RMR Group LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "96.47.240.0/23",
+      "96.47.248.0/21"
+    ],
     "ipv6": []
   }
 }

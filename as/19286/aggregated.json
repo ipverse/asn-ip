@@ -3,7 +3,9 @@
   "handle": "MORADNET",
   "description": "Morad Communications Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "64.141.125.0/24"
+    ],
     "ipv6": []
   }
 }

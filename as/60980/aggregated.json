@@ -3,7 +3,9 @@
   "handle": "ORIONNET-ZLGK",
   "description": "45KA LLC.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "109.226.247.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "CYBERLINK-TRANSIT",
   "description": "Cyberlink AG",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.247.146.0/24"
+    ],
     "ipv6": []
   }
 }

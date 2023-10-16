@@ -3,7 +3,11 @@
   "handle": "NEOLOG-TECNOLOGIA",
   "description": "NEOLOG TECNOLOGIA LTDA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "131.255.28.0/22"
+    ],
+    "ipv6": [
+      "2804:1ecc::/32"
+    ]
   }
 }

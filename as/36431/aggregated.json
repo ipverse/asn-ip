@@ -3,7 +3,10 @@
   "handle": "PIH1",
   "description": "PIH Health, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.189.18.0/23",
+      "199.189.20.0/23"
+    ],
     "ipv6": []
   }
 }

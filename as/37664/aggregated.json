@@ -3,7 +3,10 @@
   "handle": "RAYACC",
   "description": "Raya Contact Center",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "196.10.97.0/24",
+      "196.50.22.0/23"
+    ],
     "ipv6": []
   }
 }

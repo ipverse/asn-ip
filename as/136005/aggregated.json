@@ -3,7 +3,9 @@
   "handle": "RRI-AP",
   "description": "RAMAN RESEARCH INSTITUTE",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.79.119.0/24"
+    ],
     "ipv6": []
   }
 }

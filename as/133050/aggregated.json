@@ -3,7 +3,9 @@
   "handle": "CNCNA-AP",
   "description": "Peakhour Technologies Pty Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.247.184.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "CRC",
   "description": "California Resources Corporation",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "198.190.134.0/23"
+    ],
     "ipv6": []
   }
 }

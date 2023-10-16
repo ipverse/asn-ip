@@ -3,7 +3,9 @@
   "handle": "NBL-AP",
   "description": "Nepal Bank Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.184.138.0/23"
+    ],
     "ipv6": []
   }
 }

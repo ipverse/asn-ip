@@ -3,7 +3,9 @@
   "handle": "FAITID",
   "description": "Foundation for Assistance for Internet Technologies and Infrastructure Development",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "176.121.16.0/22"
+    ],
     "ipv6": []
   }
 }

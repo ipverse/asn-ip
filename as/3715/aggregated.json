@@ -3,7 +3,10 @@
   "handle": "THEBOE",
   "description": "The Boeing Company",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.76.229.0/24",
+      "192.76.230.0/23"
+    ],
     "ipv6": []
   }
 }

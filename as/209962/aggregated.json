@@ -3,7 +3,9 @@
   "handle": "MRSKVOLGI",
   "description": "MRSK Volgi PJSC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.36.176.0/24"
+    ],
     "ipv6": []
   }
 }

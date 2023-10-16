@@ -3,7 +3,9 @@
   "handle": "USI",
   "description": "USI INSURANCE SERVICES",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "139.60.216.0/22"
+    ],
     "ipv6": []
   }
 }

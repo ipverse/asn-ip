@@ -3,7 +3,9 @@
   "handle": "INTECH-GLOBAL",
   "description": "INTECH GLOBAL, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.232.167.0/24"
+    ],
     "ipv6": []
   }
 }

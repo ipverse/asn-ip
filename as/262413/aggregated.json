@@ -3,7 +3,9 @@
   "handle": "INTERTRADE-BRASIL-TELECOMUNICAES",
   "description": "Intertrade Brasil, Telecomunicaes, Multimdia e",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "177.39.0.0/22"
+    ],
     "ipv6": []
   }
 }

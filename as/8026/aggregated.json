@@ -3,7 +3,9 @@
   "handle": "EMPRESA-COLOMBIANA-PETROLEOS",
   "description": "EMPRESA COLOMBIANA DE PETROLEOS, ECOPETROL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "200.4.16.0/20"
+    ],
     "ipv6": []
   }
 }

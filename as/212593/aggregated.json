@@ -3,7 +3,9 @@
   "handle": "EXPERTWARE",
   "description": "EXPERTWARE SRL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "217.156.24.0/23"
+    ],
     "ipv6": []
   }
 }

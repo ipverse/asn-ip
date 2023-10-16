@@ -3,7 +3,9 @@
   "handle": "MLCINTER",
   "description": "Mlcinternet Pvt Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.79.160.0/22"
+    ],
     "ipv6": []
   }
 }

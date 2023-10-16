@@ -3,7 +3,9 @@
   "handle": "LOYOLA",
   "description": "Loyola University Maryland",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "144.126.0.0/17"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "DCPA",
   "description": "Denver Center for the Performing Arts",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.107.173.0/24"
+    ],
     "ipv6": []
   }
 }

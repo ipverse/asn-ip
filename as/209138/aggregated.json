@@ -3,7 +3,9 @@
   "handle": "DEEPNET",
   "description": "Lorenzo Rossi",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.167.104.0/22"
+    ],
     "ipv6": []
   }
 }

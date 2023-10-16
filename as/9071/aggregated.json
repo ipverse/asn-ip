@@ -3,7 +3,10 @@
   "handle": "ORBOTECH",
   "description": "ORBOTECH LTD.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.118.24.0/23",
+      "192.118.27.0/24"
+    ],
     "ipv6": []
   }
 }

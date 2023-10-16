@@ -3,7 +3,10 @@
   "handle": "DEUTSCHEBANK-TR",
   "description": "Deutsche Bank - TR",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "160.83.34.0/23",
+      "160.83.176.0/23"
+    ],
     "ipv6": []
   }
 }

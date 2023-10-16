@@ -3,7 +3,9 @@
   "handle": "INVESTORS-TFI",
   "description": "INVESTORS HOLDING SPOLKA AKCYJNA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.150.123.0/24"
+    ],
     "ipv6": []
   }
 }

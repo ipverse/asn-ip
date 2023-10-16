@@ -3,7 +3,9 @@
   "handle": "SIBENTEL",
   "description": "OOO Sibenergotelecom",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.190.56.0/22"
+    ],
     "ipv6": []
   }
 }

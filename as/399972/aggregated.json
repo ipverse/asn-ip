@@ -3,7 +3,9 @@
   "handle": "COMMUNITY-BANK-OF-MS",
   "description": "Community Bank",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "12.13.255.0/24"
+    ],
     "ipv6": []
   }
 }

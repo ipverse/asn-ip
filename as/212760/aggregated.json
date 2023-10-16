@@ -3,7 +3,9 @@
   "handle": "RIGUEL",
   "description": "Eric Fleury",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "44.151.128.0/24"
+    ],
     "ipv6": []
   }
 }

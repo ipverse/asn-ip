@@ -3,7 +3,9 @@
   "handle": "CABLEONE",
   "description": "LEBANON SERVICES COMPANY SARL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.70.227.0/24"
+    ],
     "ipv6": []
   }
 }

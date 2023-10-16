@@ -3,7 +3,9 @@
   "handle": "ICL-AP",
   "description": "Istanaimpian Corporation Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.138.192.0/23"
+    ],
     "ipv6": []
   }
 }

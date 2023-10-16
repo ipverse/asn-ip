@@ -3,7 +3,10 @@
   "handle": "INTERFONICA",
   "description": "INTERFONICA LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "31.44.248.0/23",
+      "185.242.116.0/22"
+    ],
     "ipv6": []
   }
 }

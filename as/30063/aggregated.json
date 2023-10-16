@@ -3,7 +3,10 @@
   "handle": "DEDICONET",
   "description": "SWITCH, LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "74.120.240.0/21",
+      "74.122.224.0/21"
+    ],
     "ipv6": []
   }
 }

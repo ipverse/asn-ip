@@ -3,7 +3,9 @@
   "handle": "IPARED",
   "description": "IPARED S.A.S.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "189.45.176.0/22"
+    ],
     "ipv6": []
   }
 }

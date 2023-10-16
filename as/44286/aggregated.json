@@ -4,6 +4,9 @@
   "description": "crossip communications gmbh",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2001:67c:139c::/48",
+      "2a02:2410::/32"
+    ]
   }
 }

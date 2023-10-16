@@ -3,7 +3,10 @@
   "handle": "EQUASENS-PHARMAGEST",
   "description": "Equasens SA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "176.120.128.0/19",
+      "194.8.148.0/22"
+    ],
     "ipv6": []
   }
 }

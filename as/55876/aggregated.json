@@ -3,7 +3,9 @@
   "handle": "EFTEX-AU",
   "description": "EFTEX",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "202.74.49.0/24"
+    ],
     "ipv6": []
   }
 }

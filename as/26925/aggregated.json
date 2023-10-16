@@ -3,7 +3,12 @@
   "handle": "SMART-CITY-DCCC",
   "description": "Smart City Networks, L.P.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "23.92.196.0/22",
+      "66.78.216.0/21",
+      "67.217.26.0/24",
+      "208.115.84.0/23"
+    ],
     "ipv6": []
   }
 }

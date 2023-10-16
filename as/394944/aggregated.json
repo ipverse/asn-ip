@@ -3,7 +3,10 @@
   "handle": "CCCIS",
   "description": "CCC Intelligent Solutions Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "198.204.8.0/24",
+      "198.204.14.0/23"
+    ],
     "ipv6": []
   }
 }

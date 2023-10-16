@@ -3,7 +3,9 @@
   "handle": "ERST-BANK",
   "description": "Serhii Khomenko",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "86.111.228.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "NET-SISQTEL-NET1",
   "description": "SISKIYOU TELEPHONE COMPANY",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "137.119.64.0/20"
+    ],
     "ipv6": []
   }
 }

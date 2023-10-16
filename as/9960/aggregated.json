@@ -3,7 +3,9 @@
   "handle": "DGB",
   "description": "The Daegu Bank, Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "61.85.70.0/24"
+    ],
     "ipv6": []
   }
 }

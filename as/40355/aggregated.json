@@ -3,7 +3,9 @@
   "handle": "SUNDANCE-NET",
   "description": "Sundance International LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.244.88.0/22"
+    ],
     "ipv6": [
       "2607:e680::/32"
     ]

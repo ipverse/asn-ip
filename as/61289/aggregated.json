@@ -3,7 +3,9 @@
   "handle": "OSONET",
   "description": "OSONET Piotr Grzesiak Tadeusz Lukasik Jan Michlik s.c.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.228.80.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "PROTAHUB",
   "description": "Protahub Telekomunikasyon ve Bilisim Teknolojileri AS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.115.209.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,10 @@
   "handle": "LIENVIETBANK-VN",
   "description": "LienViet Post Joint stock Commercial Bank",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.221.86.0/24",
+      "202.9.80.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "EGIOS",
   "description": "eGIOS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "211.47.160.0/22"
+    ],
     "ipv6": []
   }
 }

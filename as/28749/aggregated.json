@@ -3,7 +3,9 @@
   "handle": "MSC",
   "description": "MSC Mediterranean Shipping Company SA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.138.73.0/24"
+    ],
     "ipv6": []
   }
 }

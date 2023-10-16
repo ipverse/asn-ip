@@ -3,7 +3,9 @@
   "handle": "SAJID018",
   "description": "B-fi Networks Pvt. Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.122.232.0/22"
+    ],
     "ipv6": []
   }
 }

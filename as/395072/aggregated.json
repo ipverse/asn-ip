@@ -3,7 +3,10 @@
   "handle": "ODBM-3000",
   "description": "Our Daily Bread Ministries",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "67.59.39.0/24",
+      "204.225.122.0/23"
+    ],
     "ipv6": []
   }
 }

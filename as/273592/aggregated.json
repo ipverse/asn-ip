@@ -4,6 +4,8 @@
   "description": "FIBER MAX SERVICOS DE TELECOMUNICACAO LTDA - ME",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2804:8940::/32"
+    ]
   }
 }

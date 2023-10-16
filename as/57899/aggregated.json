@@ -3,7 +3,9 @@
   "handle": "IZMV",
   "description": "CrimeaCom South LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.236.134.0/23"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,10 @@
   "handle": "BANKOZK-DALLAS",
   "description": "Bank OZK",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "198.199.200.0/24",
+      "209.215.105.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "GIGANODES-NET",
   "description": "Rashmi Sharma trading as \u0027GigaNodes\u0027",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "50.114.207.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "MYFATDIGITAL",
   "description": "MyFatDigital Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.190.157.0/24"
+    ],
     "ipv6": []
   }
 }

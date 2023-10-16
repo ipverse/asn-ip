@@ -3,7 +3,9 @@
   "handle": "GLN",
   "description": "Eugene N. Polishchuk",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.155.90.0/23"
+    ],
     "ipv6": []
   }
 }

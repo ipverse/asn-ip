@@ -3,7 +3,9 @@
   "handle": "BTCS-BSPS-ASN-1",
   "description": "BROADRIDGE SECURITIES PROCESSING SOLUTIONS, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.167.248.0/22"
+    ],
     "ipv6": []
   }
 }

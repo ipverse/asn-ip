@@ -3,7 +3,9 @@
   "handle": "CABLE-SELVA-CENTRAL",
   "description": "CABLE SELVA CENTRAL S.A.C.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "200.123.228.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "GOLDEN-HOUR-01",
   "description": "2024 Rayford Road, L.P.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "173.252.144.0/24"
+    ],
     "ipv6": []
   }
 }

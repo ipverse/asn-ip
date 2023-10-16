@@ -3,7 +3,11 @@
   "handle": "FILA-NET",
   "description": "FILA-NET",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.228.60.0/22"
+    ],
+    "ipv6": [
+      "2803:b920::/32"
+    ]
   }
 }

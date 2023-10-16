@@ -3,7 +3,9 @@
   "handle": "HOSTVIRTUAL",
   "description": "NetActuate Inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.54.34.0/24"
+    ],
     "ipv6": []
   }
 }

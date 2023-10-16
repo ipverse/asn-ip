@@ -3,7 +3,11 @@
   "handle": "7-SUL-TELECOM",
   "description": "7 Sul Telecom",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "138.36.200.0/22"
+    ],
+    "ipv6": [
+      "2804:2218::/32"
+    ]
   }
 }

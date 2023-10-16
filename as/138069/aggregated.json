@@ -3,7 +3,9 @@
   "handle": "IDNIC-CITRAHOST-ID",
   "description": "PT CITRAWEB DIGITAL MULTISOLUSI",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.123.16.0/22"
+    ],
     "ipv6": []
   }
 }

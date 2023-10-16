@@ -3,7 +3,9 @@
   "handle": "FUTURNET",
   "description": "FUTURNET S.A.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "168.181.24.0/22"
+    ],
     "ipv6": []
   }
 }

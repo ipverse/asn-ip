@@ -3,7 +3,11 @@
   "handle": "CODEX-STREAMING",
   "description": "Codex Streaming Company LLC",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "23.154.144.0/24"
+    ],
+    "ipv6": [
+      "2605:b3c0::/32"
+    ]
   }
 }

@@ -3,7 +3,9 @@
   "handle": "NETSPB",
   "description": "Net Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.36.35.0/24"
+    ],
     "ipv6": []
   }
 }

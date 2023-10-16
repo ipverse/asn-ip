@@ -3,7 +3,10 @@
   "handle": "SST-IN",
   "description": "Sankrish Systems And Technologies Pvt Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "36.255.168.0/22",
+      "103.199.172.0/22"
+    ],
     "ipv6": []
   }
 }

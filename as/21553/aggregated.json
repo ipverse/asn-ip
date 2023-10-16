@@ -3,7 +3,10 @@
   "handle": "ASP-MAIN",
   "description": "Aspirus, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "204.10.109.0/24",
+      "216.99.223.0/24"
+    ],
     "ipv6": []
   }
 }

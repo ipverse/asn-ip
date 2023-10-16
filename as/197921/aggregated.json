@@ -3,7 +3,9 @@
   "handle": "HBTF",
   "description": "The housing Bank for Trade and Finance PLC.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "141.0.0.0/21"
+    ],
     "ipv6": []
   }
 }

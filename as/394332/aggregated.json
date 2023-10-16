@@ -3,7 +3,9 @@
   "handle": "ALDOGROUPINC",
   "description": "Aldo Group Inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.89.139.0/24"
+    ],
     "ipv6": []
   }
 }

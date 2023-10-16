@@ -4,6 +4,8 @@
   "description": "Bruno Emanuel Pereira Pinto Silva",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a06:a005:a0e::/48"
+    ]
   }
 }

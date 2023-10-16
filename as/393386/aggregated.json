@@ -3,7 +3,10 @@
   "handle": "LIBERTY-LINK-HOLDEN",
   "description": "Liberty Link LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "130.51.182.0/23",
+      "136.175.216.0/22"
+    ],
     "ipv6": []
   }
 }

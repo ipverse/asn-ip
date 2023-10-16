@@ -3,7 +3,9 @@
   "handle": "FLEX-CHF",
   "description": "Flextronics International Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "158.116.48.0/22"
+    ],
     "ipv6": []
   }
 }

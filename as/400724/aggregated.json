@@ -3,7 +3,9 @@
   "handle": "EZPNET",
   "description": "EZProvider Networks, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "209.54.112.0/20"
+    ],
     "ipv6": []
   }
 }

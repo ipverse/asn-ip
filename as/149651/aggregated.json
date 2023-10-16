@@ -3,7 +3,9 @@
   "handle": "BETTER-AP",
   "description": "Better Cloud Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "202.43.234.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "VEJLEKOM",
   "description": "Vejle Kommune",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.232.140.0/22"
+    ],
     "ipv6": []
   }
 }

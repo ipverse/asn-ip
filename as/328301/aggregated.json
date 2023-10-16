@@ -3,7 +3,9 @@
   "handle": "MESSAGELABS",
   "description": "MESSAGE LABS AFRICA LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "196.216.245.0/24"
+    ],
     "ipv6": []
   }
 }

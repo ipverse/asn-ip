@@ -3,7 +3,9 @@
   "handle": "MDECA",
   "description": "MDECA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "209.34.112.0/20"
+    ],
     "ipv6": []
   }
 }

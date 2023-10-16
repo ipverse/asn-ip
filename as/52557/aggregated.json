@@ -3,7 +3,11 @@
   "handle": "FLYNET-TELECOM",
   "description": "FLYNET TELECOM LTDA - ME",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "177.86.8.0/21"
+    ],
+    "ipv6": [
+      "2804:cd0::/32"
+    ]
   }
 }

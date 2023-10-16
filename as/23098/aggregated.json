@@ -3,7 +3,10 @@
   "handle": "PHOENIX-PLANO-EDS",
   "description": "American Airlines Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "144.9.32.0/19",
+      "144.9.233.0/24"
+    ],
     "ipv6": []
   }
 }

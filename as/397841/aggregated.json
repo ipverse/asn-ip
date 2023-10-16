@@ -3,7 +3,9 @@
   "handle": "NEW-MEXICO-ORTHOPAEDICS",
   "description": "New Mexico Orthopaedics Associates PC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "204.10.186.0/24"
+    ],
     "ipv6": []
   }
 }

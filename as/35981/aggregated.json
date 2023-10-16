@@ -3,7 +3,9 @@
   "handle": "GRAYBAR",
   "description": "GRAYBAR ELECTRIC CO. INC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "208.94.184.0/22"
+    ],
     "ipv6": []
   }
 }

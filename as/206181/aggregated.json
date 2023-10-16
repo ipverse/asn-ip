@@ -3,7 +3,9 @@
   "handle": "EK-VOSTOK",
   "description": "JOINT-STOCK COMPANY ENERGOSBYTOVAYA KOMPANIYA VOSTOK",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.193.248.0/22"
+    ],
     "ipv6": []
   }
 }

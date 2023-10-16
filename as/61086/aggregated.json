@@ -3,7 +3,9 @@
   "handle": "ORTEC",
   "description": "GIE ORTEC SERVICES",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.19.136.0/22"
+    ],
     "ipv6": []
   }
 }

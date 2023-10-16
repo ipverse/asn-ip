@@ -3,7 +3,9 @@
   "handle": "E2NET-TELECOMUNICAOES",
   "description": "E2NET TELECOMUNICAOES - LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "160.20.180.0/22"
+    ],
     "ipv6": [
       "2804:3c44::/32"
     ]

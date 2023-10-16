@@ -3,7 +3,9 @@
   "handle": "THAICOM-PUBLIC-AP",
   "description": "THAICOM Public Company Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "203.192.32.0/19"
+    ],
     "ipv6": []
   }
 }

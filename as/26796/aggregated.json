@@ -3,7 +3,9 @@
   "handle": "MEUS-DC1",
   "description": "Mitsubishi Electric US, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.34.48.0/23"
+    ],
     "ipv6": []
   }
 }

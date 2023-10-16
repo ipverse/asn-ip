@@ -3,7 +3,11 @@
   "handle": "ALTTAB-INFORMATICA",
   "description": "ALTTAB INFORMATICA LTDA - ME",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "200.50.192.0/22"
+    ],
+    "ipv6": [
+      "2804:6c18:8000::/33"
+    ]
   }
 }

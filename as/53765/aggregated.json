@@ -3,7 +3,9 @@
   "handle": "SFFEDCU",
   "description": "San Francisco Federal Credit Union",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "12.208.11.0/24"
+    ],
     "ipv6": []
   }
 }

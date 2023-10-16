@@ -3,7 +3,12 @@
   "handle": "H24-FR",
   "description": "Julien Dinterich",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "185.45.252.0/23"
+    ],
+    "ipv6": [
+      "2a01:81e0::/47",
+      "2a01:81e0:2::/48"
+    ]
   }
 }

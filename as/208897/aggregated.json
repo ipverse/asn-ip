@@ -3,7 +3,9 @@
   "handle": "LASTEL",
   "description": "Lasarte Telecomunicaciones, S.L.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.15.132.0/22"
+    ],
     "ipv6": []
   }
 }

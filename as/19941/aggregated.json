@@ -3,7 +3,9 @@
   "handle": "CONCORDIA-UNIVERSITY-CHICAGO",
   "description": "Concordia University Chicago",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "66.99.8.0/22"
+    ],
     "ipv6": []
   }
 }

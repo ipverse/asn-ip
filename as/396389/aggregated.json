@@ -3,7 +3,9 @@
   "handle": "OAA-COX",
   "description": "Omaha Airport Authority",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "72.204.211.0/24"
+    ],
     "ipv6": []
   }
 }

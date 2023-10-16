@@ -3,7 +3,9 @@
   "handle": "ALIC-1",
   "description": "Ameritas Life Insurance Corp",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "69.12.28.0/22"
+    ],
     "ipv6": []
   }
 }

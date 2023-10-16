@@ -3,7 +3,9 @@
   "handle": "DNL-NETWORK-TELECOMUNICAES",
   "description": "DNL NETWORK TELECOMUNICAES LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.141.188.0/22"
+    ],
     "ipv6": []
   }
 }

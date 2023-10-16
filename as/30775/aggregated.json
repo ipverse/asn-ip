@@ -3,7 +3,9 @@
   "handle": "MKS",
   "description": "UAB Worldline Lietuva",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.29.39.0/24"
+    ],
     "ipv6": []
   }
 }

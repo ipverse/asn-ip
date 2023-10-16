@@ -3,7 +3,9 @@
   "handle": "BEMIS-MANUFACTURING",
   "description": "BEMIS MANUFACTURING COMPANY",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "209.209.2.0/24"
+    ],
     "ipv6": []
   }
 }

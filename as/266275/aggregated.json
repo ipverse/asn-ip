@@ -3,7 +3,11 @@
   "handle": "JEFFERSON-KAYAM-ROCHA",
   "description": "JEFFERSON KAYAM DA ROCHA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "170.78.180.0/22"
+    ],
+    "ipv6": [
+      "2804:3538::/32"
+    ]
   }
 }

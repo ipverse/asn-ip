@@ -3,7 +3,10 @@
   "handle": "HOMETVPRO",
   "description": "SIA HomeTV Pro",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.116.209.0/24",
+      "185.116.211.0/24"
+    ],
     "ipv6": []
   }
 }

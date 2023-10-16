@@ -3,7 +3,9 @@
   "handle": "LAKESPC",
   "description": "Lakes PC Help, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "170.178.148.0/22"
+    ],
     "ipv6": []
   }
 }

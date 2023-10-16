@@ -3,7 +3,10 @@
   "handle": "FNS",
   "description": "OPTIV SECURITY INC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "8.28.83.0/24",
+      "8.38.243.0/24"
+    ],
     "ipv6": []
   }
 }

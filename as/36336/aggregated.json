@@ -3,7 +3,11 @@
   "handle": "NATIXIS",
   "description": "Natixis Advisors, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.242.0.0/24",
+      "63.118.94.0/24",
+      "206.136.227.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "DSBN",
   "description": "District School Board of Niagara",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.30.97.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "IBL-JC",
   "description": "Interactive Brokers LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "8.37.184.0/24"
+    ],
     "ipv6": []
   }
 }

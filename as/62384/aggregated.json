@@ -3,7 +3,9 @@
   "handle": "RADIOSERVICE",
   "description": "Radio Service Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "37.221.128.0/19"
+    ],
     "ipv6": []
   }
 }

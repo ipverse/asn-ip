@@ -3,7 +3,10 @@
   "handle": "ACTEWAGL1-AP",
   "description": "Actew Distribution Ltd and Jemena Networks (ACT) Pty Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "202.14.247.0/24",
+      "202.14.248.0/23"
+    ],
     "ipv6": []
   }
 }

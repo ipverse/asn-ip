@@ -3,7 +3,9 @@
   "handle": "CNS-AP",
   "description": "Cloud Network Services (HK) Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "202.182.240.0/20"
+    ],
     "ipv6": []
   }
 }

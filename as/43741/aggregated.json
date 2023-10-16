@@ -3,7 +3,9 @@
   "handle": "SITIRIT",
   "description": "Sitirit-Telecom Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.0.130.0/23"
+    ],
     "ipv6": []
   }
 }

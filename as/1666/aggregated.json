@@ -3,7 +3,10 @@
   "handle": "VFN-MEMBERS",
   "description": "ANS Communications",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.45.53.0/24",
+      "199.45.54.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "SEIC",
   "description": "Sakhalin Energy Limited Liability Company",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.40.0.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "MARTIGNETTI",
   "description": "MARTIGNETTI COMPANIES",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "65.211.0.0/24"
+    ],
     "ipv6": []
   }
 }

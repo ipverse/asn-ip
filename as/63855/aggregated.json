@@ -3,7 +3,9 @@
   "handle": "XIAOMIHKLIMITED",
   "description": "XIAOMI H.K. Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "43.224.244.0/22"
+    ],
     "ipv6": []
   }
 }

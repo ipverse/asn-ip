@@ -3,7 +3,10 @@
   "handle": "FR-RAIMU-2",
   "description": "Renater",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "139.124.0.0/16",
+      "147.94.0.0/16"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "CORELAB",
   "description": "Core Laboratories",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "12.45.169.0/24"
+    ],
     "ipv6": []
   }
 }

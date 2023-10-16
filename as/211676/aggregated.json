@@ -3,7 +3,9 @@
   "handle": "DK-IBF",
   "description": "IKAST BETONVAREFABRIK A/S",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.244.224.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "ECONOTEL",
   "description": "LLC Econotel",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "79.135.248.0/21"
+    ],
     "ipv6": []
   }
 }

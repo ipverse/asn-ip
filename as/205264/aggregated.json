@@ -3,7 +3,9 @@
   "handle": "ROCKETNET",
   "description": "RocketNet Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "93.170.74.0/23"
+    ],
     "ipv6": []
   }
 }

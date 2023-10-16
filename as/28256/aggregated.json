@@ -3,7 +3,10 @@
   "handle": "HPE-AUTOMOTORES-BRASIL",
   "description": "HPE AUTOMOTORES DO BRASIL LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "187.16.160.0/21",
+      "187.16.172.0/22"
+    ],
     "ipv6": []
   }
 }

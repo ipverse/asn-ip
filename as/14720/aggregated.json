@@ -3,7 +3,9 @@
   "handle": "GAMMANETWORKING-EAST",
   "description": "Gamma Networking Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "66.152.64.0/19"
+    ],
     "ipv6": []
   }
 }

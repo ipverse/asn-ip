@@ -3,7 +3,9 @@
   "handle": "SYNTEGRATE-AP",
   "description": "Syntegrate",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.254.180.0/22"
+    ],
     "ipv6": []
   }
 }

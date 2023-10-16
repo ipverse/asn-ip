@@ -3,7 +3,10 @@
   "handle": "BOOST",
   "description": "Boost (Suisse) SA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.227.48.0/24",
+      "185.247.64.0/22"
+    ],
     "ipv6": []
   }
 }

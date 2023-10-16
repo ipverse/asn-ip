@@ -3,7 +3,10 @@
   "handle": "WIRECARD",
   "description": "PagoNxt Merchant Solutions S.L.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.60.56.0/22",
+      "195.93.244.0/23"
+    ],
     "ipv6": []
   }
 }

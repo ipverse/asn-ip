@@ -3,7 +3,9 @@
   "handle": "MRI",
   "description": "Media Region Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.186.1.0/24"
+    ],
     "ipv6": []
   }
 }

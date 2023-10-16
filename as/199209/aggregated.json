@@ -3,7 +3,9 @@
   "handle": "INTERNETSECURITIES-BULGARIA",
   "description": "Internet Securities Bulgaria Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.216.253.0/24"
+    ],
     "ipv6": []
   }
 }

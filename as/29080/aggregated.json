@@ -3,7 +3,9 @@
   "handle": "BULBANK",
   "description": "Unicredit-Bulbank-AD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.68.200.0/23"
+    ],
     "ipv6": []
   }
 }

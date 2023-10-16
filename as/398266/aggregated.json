@@ -3,7 +3,12 @@
   "handle": "ZIPLINK-SYSTEMS",
   "description": "ZipLink Systems LLC",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "130.51.202.0/23",
+      "216.230.18.0/24"
+    ],
+    "ipv6": [
+      "2602:feae::/36"
+    ]
   }
 }

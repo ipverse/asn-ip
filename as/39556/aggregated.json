@@ -3,7 +3,9 @@
   "handle": "PINHOSTING",
   "description": "PIN Hosting Europe GmbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.232.28.0/22"
+    ],
     "ipv6": []
   }
 }

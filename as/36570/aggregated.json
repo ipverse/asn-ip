@@ -3,7 +3,10 @@
   "handle": "KOCO-TV",
   "description": "Hearst-Argyle Television, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "167.173.20.0/24",
+      "167.173.212.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "DGH-PUBLIC",
   "description": "Dayton General Hospital",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "66.225.5.0/24"
+    ],
     "ipv6": []
   }
 }

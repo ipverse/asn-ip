@@ -3,7 +3,9 @@
   "handle": "AS080780",
   "description": "Clnetworks Inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "74.114.148.0/22"
+    ],
     "ipv6": []
   }
 }

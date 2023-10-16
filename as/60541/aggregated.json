@@ -3,7 +3,9 @@
   "handle": "VOICESIMPLIFIED",
   "description": "Voice Simplified Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.29.208.0/22"
+    ],
     "ipv6": []
   }
 }

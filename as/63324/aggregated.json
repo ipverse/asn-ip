@@ -3,7 +3,9 @@
   "handle": "CMTA-2",
   "description": "Capital Metropolitan Transportation Authority",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "104.254.144.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "UNIMED-SUL-CAPIXABA",
   "description": "UNIMED SUL CAPIXABA COOPERATIVA DE TRABALHO MDICO",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.225.100.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "TGNA-WTOL",
   "description": "TEGNA Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "167.8.111.0/24"
+    ],
     "ipv6": []
   }
 }

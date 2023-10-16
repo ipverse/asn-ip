@@ -3,7 +3,9 @@
   "handle": "LIGO-FIBRA",
   "description": "LIGO FIBRA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "177.152.108.0/22"
+    ],
     "ipv6": []
   }
 }

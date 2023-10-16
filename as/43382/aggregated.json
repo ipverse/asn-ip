@@ -3,7 +3,11 @@
   "handle": "IFOLOR-FIKA",
   "description": "Ifolor AG",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "77.74.170.0/23"
+    ],
+    "ipv6": [
+      "2001:67c:2700::/48"
+    ]
   }
 }

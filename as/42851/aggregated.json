@@ -3,7 +3,9 @@
   "handle": "ELIABE",
   "description": "Elia Asset N.V",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "77.74.88.0/21"
+    ],
     "ipv6": []
   }
 }

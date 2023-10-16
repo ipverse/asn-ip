@@ -3,7 +3,9 @@
   "handle": "VOXLINE-CONTACT-CENTER",
   "description": "Voxline Contact Center Interm de Ped LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "200.10.183.0/24"
+    ],
     "ipv6": []
   }
 }

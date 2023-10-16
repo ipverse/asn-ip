@@ -3,7 +3,9 @@
   "handle": "SI-ID",
   "description": "PT Samudera Indonesia Tbk.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.7.225.0/24"
+    ],
     "ipv6": []
   }
 }

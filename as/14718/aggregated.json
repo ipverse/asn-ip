@@ -3,7 +3,9 @@
   "handle": "LENEXA-DR",
   "description": "NATIONAL INDEMNITY COMPANY",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.111.2.0/23"
+    ],
     "ipv6": []
   }
 }

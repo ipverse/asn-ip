@@ -3,7 +3,9 @@
   "handle": "KATIPO-NZ",
   "description": "Katipo Communications Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "202.70.130.0/24"
+    ],
     "ipv6": []
   }
 }

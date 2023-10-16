@@ -3,7 +3,11 @@
   "handle": "CENTERCLICK",
   "description": "CenterClick LLC",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "192.133.6.0/24"
+    ],
+    "ipv6": [
+      "2620:9a:e000::/44"
+    ]
   }
 }

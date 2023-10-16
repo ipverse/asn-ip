@@ -3,7 +3,10 @@
   "handle": "VIAE",
   "description": "ViaEuropa i Lund AB",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "93.182.128.0/18",
+      "185.123.228.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "CHSNJ-ASN1",
   "description": "Cooper University Hospital",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "162.252.228.0/22"
+    ],
     "ipv6": []
   }
 }

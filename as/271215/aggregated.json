@@ -1,9 +1,13 @@
 {
   "asn": 271215,
-  "handle": "CAIQUE-ALMEIDA-SILVA",
-  "description": "CAIQUE ALMEIDA SILVA - ME",
+  "handle": "4CJ-SERVICOS-TELECOMUNICACOES",
+  "description": "4CJ SERVICOS E TELECOMUNICACOES LTDA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "179.48.124.0/22"
+    ],
+    "ipv6": [
+      "2804:7804::/32"
+    ]
   }
 }

@@ -3,7 +3,9 @@
   "handle": "MM-WORLDNET",
   "description": "M\u0026M GMbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.7.56.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "SKTNET",
   "description": "OOO Sestroretskoe Cable Television",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.211.216.0/22"
+    ],
     "ipv6": []
   }
 }

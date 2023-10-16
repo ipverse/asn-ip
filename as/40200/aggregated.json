@@ -3,7 +3,10 @@
   "handle": "MUNSON-CHARTER-ATT",
   "description": "Munson Healthcare",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.253.184.0/21",
+      "204.63.200.0/21"
+    ],
     "ipv6": []
   }
 }

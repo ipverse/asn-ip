@@ -3,7 +3,11 @@
   "handle": "VISUALPHONE-SCM",
   "description": "VISUALPHONE-SCM LTDA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "191.7.176.0/21"
+    ],
+    "ipv6": [
+      "2804:1458::/32"
+    ]
   }
 }

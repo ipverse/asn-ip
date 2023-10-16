@@ -3,7 +3,9 @@
   "handle": "MILLICOM-CHAD",
   "description": "MILLICOM CHAD SA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "154.73.160.0/21"
+    ],
     "ipv6": []
   }
 }

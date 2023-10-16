@@ -3,7 +3,11 @@
   "handle": "STATEFAIRCC",
   "description": "State Fair Community College",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "192.65.0.0/24"
+    ],
+    "ipv6": [
+      "2620:12f:6000::/44"
+    ]
   }
 }

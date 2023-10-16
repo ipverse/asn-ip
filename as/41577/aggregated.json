@@ -3,7 +3,9 @@
   "handle": "METALLUMGROUP",
   "description": "Thommen Services AG",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.138.216.0/24"
+    ],
     "ipv6": []
   }
 }

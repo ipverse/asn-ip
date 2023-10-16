@@ -3,7 +3,12 @@
   "handle": "TWAI",
   "description": "FRIT",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "199.169.192.0/21"
+    ],
+    "ipv6": [
+      "2605:3100:fffb::/48",
+      "2605:3100:fffc::/47"
+    ]
   }
 }

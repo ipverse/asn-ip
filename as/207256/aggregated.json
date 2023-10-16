@@ -3,7 +3,10 @@
   "handle": "ZOLOTAREV",
   "description": "Individual Entrepreneur Nikita A. Zolotarev",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "85.142.251.0/24",
+      "212.192.45.0/24"
+    ],
     "ipv6": []
   }
 }

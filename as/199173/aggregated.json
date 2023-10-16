@@ -3,7 +3,10 @@
   "handle": "TECHNOLUX",
   "description": "TechnoLux Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "85.187.218.0/23",
+      "85.187.224.0/21"
+    ],
     "ipv6": []
   }
 }

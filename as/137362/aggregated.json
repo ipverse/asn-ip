@@ -3,7 +3,9 @@
   "handle": "IDNIC-PEMKOTSURAKARTA-ID",
   "description": "Pemerintah Kota Surakarta",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.115.227.0/24"
+    ],
     "ipv6": []
   }
 }

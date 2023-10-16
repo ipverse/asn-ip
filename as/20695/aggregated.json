@@ -3,7 +3,9 @@
   "handle": "C1UK",
   "description": "Capital One (Europe) Plc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "217.169.160.0/20"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,11 @@
   "handle": "EKOLINE",
   "description": "EKO-LINE Sp. z o.o.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.137.227.0/24",
+      "91.220.222.0/24",
+      "213.156.101.0/24"
+    ],
     "ipv6": []
   }
 }

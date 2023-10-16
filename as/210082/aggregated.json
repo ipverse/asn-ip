@@ -3,7 +3,9 @@
   "handle": "YOVIL",
   "description": "YOVIL Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "92.242.176.0/24"
+    ],
     "ipv6": []
   }
 }

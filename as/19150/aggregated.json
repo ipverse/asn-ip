@@ -3,7 +3,9 @@
   "handle": "ABCWUA",
   "description": "Albuquerque Bernalillo County Water Utility Authority",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "142.202.67.0/24"
+    ],
     "ipv6": []
   }
 }

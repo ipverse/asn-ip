@@ -3,7 +3,9 @@
   "handle": "CITY-OF-SACRAMENTO",
   "description": "City of Sacramento",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "208.87.80.0/22"
+    ],
     "ipv6": []
   }
 }

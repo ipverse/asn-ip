@@ -3,7 +3,12 @@
   "handle": "GUNADARMA-ID",
   "description": "Gunadarma University",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "202.124.198.0/23",
+      "202.125.94.0/23"
+    ],
+    "ipv6": [
+      "2001:df0:255::/48"
+    ]
   }
 }

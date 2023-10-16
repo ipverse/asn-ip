@@ -3,7 +3,11 @@
   "handle": "NIC-CHILE",
   "description": "NIC Chile",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "200.16.112.0/24"
+    ],
+    "ipv6": [
+      "2001:1398:275::/48"
+    ]
   }
 }

@@ -3,7 +3,9 @@
   "handle": "PROVIDERPL",
   "description": "Provider sp. z o.o.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.187.144.0/22"
+    ],
     "ipv6": []
   }
 }

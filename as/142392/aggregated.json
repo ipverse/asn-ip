@@ -3,7 +3,9 @@
   "handle": "IDNIC-NETLINK-ID",
   "description": "PT Netlink Lintas Data",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.171.79.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "BOISE-CASCADE",
   "description": "Boise Cascade Corporation",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "204.99.192.0/20"
+    ],
     "ipv6": []
   }
 }

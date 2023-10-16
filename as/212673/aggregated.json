@@ -3,7 +3,9 @@
   "handle": "INTEGRAL",
   "description": "OOO TRK \u0027\u0027INTEGRAL\u0027\u0027",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.236.2.0/23"
+    ],
     "ipv6": []
   }
 }

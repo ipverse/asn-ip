@@ -3,7 +3,9 @@
   "handle": "OCCENTUS",
   "description": "Occentus Network SL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.114.175.0/24"
+    ],
     "ipv6": []
   }
 }

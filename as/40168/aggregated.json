@@ -3,7 +3,9 @@
   "handle": "BATTPLUS",
   "description": "Batteries Plus, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "207.67.62.0/24"
+    ],
     "ipv6": []
   }
 }

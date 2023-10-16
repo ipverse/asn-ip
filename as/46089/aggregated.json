@@ -3,7 +3,10 @@
   "handle": "AS2-NAVIS",
   "description": "Navis",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.83.222.0/24",
+      "199.125.15.0/24"
+    ],
     "ipv6": []
   }
 }

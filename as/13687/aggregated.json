@@ -3,7 +3,11 @@
   "handle": "LCCN",
   "description": "Love City Community Network",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "66.59.216.0/24"
+    ],
+    "ipv6": [
+      "2604:ea40::/32"
+    ]
   }
 }

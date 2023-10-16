@@ -3,7 +3,9 @@
   "handle": "TEHNOMANIA",
   "description": "Tehnomania d.o.o.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "213.202.85.0/24"
+    ],
     "ipv6": []
   }
 }

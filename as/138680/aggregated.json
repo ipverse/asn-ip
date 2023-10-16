@@ -3,7 +3,9 @@
   "handle": "COLLECTIONHOUSE-AP",
   "description": "COLLECTION HOUSE LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.136.86.0/24"
+    ],
     "ipv6": []
   }
 }

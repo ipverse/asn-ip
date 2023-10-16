@@ -3,7 +3,9 @@
   "handle": "QUARTZ-MATRIX",
   "description": "QUARTZ MATRIX SRL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "89.44.144.0/24"
+    ],
     "ipv6": []
   }
 }

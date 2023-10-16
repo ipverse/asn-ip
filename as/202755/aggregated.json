@@ -3,7 +3,9 @@
   "handle": "AURUS",
   "description": "KOESIO Networks SASU",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.155.172.0/22"
+    ],
     "ipv6": []
   }
 }

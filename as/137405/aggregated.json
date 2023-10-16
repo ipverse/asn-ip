@@ -3,7 +3,9 @@
   "handle": "KAPL-AP",
   "description": "KERING ASIA PACIFIC LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.149.83.0/24"
+    ],
     "ipv6": []
   }
 }

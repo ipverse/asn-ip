@@ -3,7 +3,9 @@
   "handle": "TFOMSSK",
   "description": "Territorial Fund of Obligatory Medical Insurance of the Stavropol region",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.19.212.0/24"
+    ],
     "ipv6": []
   }
 }

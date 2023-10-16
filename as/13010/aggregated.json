@@ -3,7 +3,9 @@
   "handle": "MTS",
   "description": "MTS Internet GmbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "212.28.96.0/19"
+    ],
     "ipv6": []
   }
 }

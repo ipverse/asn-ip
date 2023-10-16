@@ -3,7 +3,9 @@
   "handle": "BARTOLINI",
   "description": "BRT S.p.A.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.69.68.0/22"
+    ],
     "ipv6": []
   }
 }

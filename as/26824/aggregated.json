@@ -3,7 +3,11 @@
   "handle": "VLUZNET-US",
   "description": "VLUZNET",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "208.79.182.0/23"
+    ],
+    "ipv6": [
+      "2001:550:6c04::/48"
+    ]
   }
 }

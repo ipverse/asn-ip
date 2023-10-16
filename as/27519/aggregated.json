@@ -3,7 +3,9 @@
   "handle": "CASIOI",
   "description": "Casio America, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "208.198.116.0/22"
+    ],
     "ipv6": []
   }
 }

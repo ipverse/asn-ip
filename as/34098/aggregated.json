@@ -3,7 +3,9 @@
   "handle": "ZENIT-BANK",
   "description": "OJSC Bank ZENIT",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.186.83.0/24"
+    ],
     "ipv6": []
   }
 }

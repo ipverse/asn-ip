@@ -3,7 +3,9 @@
   "handle": "APPLYHOME",
   "description": "KOREA APPRAISAL BOARD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "61.43.243.0/24"
+    ],
     "ipv6": []
   }
 }

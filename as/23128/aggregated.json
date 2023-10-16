@@ -3,7 +3,9 @@
   "handle": "KIRTON-BANK",
   "description": "KIRTON BANK S.A. - BANCO MULTIPLO",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "200.152.224.0/20"
+    ],
     "ipv6": []
   }
 }

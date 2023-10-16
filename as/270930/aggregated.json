@@ -3,7 +3,11 @@
   "handle": "NIVEL-3-TELECOM",
   "description": "NIVEL 3 TELECOM LTDA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "138.94.40.0/22"
+    ],
+    "ipv6": [
+      "2804:73ac::/32"
+    ]
   }
 }

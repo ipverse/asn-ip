@@ -3,7 +3,13 @@
   "handle": "NICNET-TELECOMUNICACOES",
   "description": "NICNET TELECOMUNICACOES LTDA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "38.41.196.0/22",
+      "45.4.32.0/22",
+      "141.136.62.0/24"
+    ],
+    "ipv6": [
+      "2804:39b0::/32"
+    ]
   }
 }

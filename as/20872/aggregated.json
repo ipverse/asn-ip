@@ -3,7 +3,9 @@
   "handle": "URALSIB",
   "description": "PJSC BANK URALSIB",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.234.190.0/24"
+    ],
     "ipv6": []
   }
 }

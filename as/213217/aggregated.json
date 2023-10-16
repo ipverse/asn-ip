@@ -3,7 +3,9 @@
   "handle": "DATALINE24",
   "description": "DataLine24 LLP",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.143.88.0/24"
+    ],
     "ipv6": []
   }
 }

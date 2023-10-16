@@ -3,7 +3,9 @@
   "handle": "IMANSAMANEH",
   "description": "Iman Samaneh Sepehr LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.141.244.0/22"
+    ],
     "ipv6": []
   }
 }

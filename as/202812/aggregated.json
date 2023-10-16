@@ -3,7 +3,11 @@
   "handle": "ELITS-SERVICES",
   "description": "Iver Accelerate AB",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "185.149.44.0/22"
+    ],
+    "ipv6": [
+      "2a07:6480::/29"
+    ]
   }
 }

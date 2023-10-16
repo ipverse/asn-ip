@@ -3,7 +3,9 @@
   "handle": "PL-JBG-2",
   "description": "JBG-2 Spolka z o.o.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.101.129.0/24"
+    ],
     "ipv6": []
   }
 }

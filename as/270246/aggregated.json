@@ -3,7 +3,9 @@
   "handle": "DALZOCHIO-MATOS",
   "description": "DALZOCHIO E MATOS LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.191.36.0/22"
+    ],
     "ipv6": []
   }
 }

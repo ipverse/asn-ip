@@ -3,7 +3,9 @@
   "handle": "TUDONLINE-SERVICOS-COMERCIO",
   "description": "TUDONLINE SERVICOS E COMERCIO LTDA ME",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.141.224.0/22"
+    ],
     "ipv6": [
       "2804:4228::/33"
     ]

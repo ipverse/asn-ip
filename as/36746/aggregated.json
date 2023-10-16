@@ -3,7 +3,9 @@
   "handle": "SYMQUEST-SB-NET",
   "description": "SymQuest Group. Inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "8.224.11.0/24"
+    ],
     "ipv6": []
   }
 }

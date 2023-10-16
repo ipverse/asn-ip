@@ -3,7 +3,10 @@
   "handle": "CONTACTPL",
   "description": "CONTACT.PL SPOLKA Z OGRANICZONA ODPOWIEDZIALNOSCIA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.194.140.0/23",
+      "91.194.166.0/23"
+    ],
     "ipv6": []
   }
 }

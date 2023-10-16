@@ -3,7 +3,10 @@
   "handle": "AFD",
   "description": "Agence Francaise de Developpement",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.104.90.0/23",
+      "194.104.92.0/23"
+    ],
     "ipv6": []
   }
 }

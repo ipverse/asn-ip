@@ -3,7 +3,11 @@
   "handle": "VEX-TELECOM-SERVIOS",
   "description": "VEX TELECOM SERVIOS DE TELECOMUNICAO LTDA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "177.124.16.0/22"
+    ],
+    "ipv6": [
+      "2804:3700::/32"
+    ]
   }
 }

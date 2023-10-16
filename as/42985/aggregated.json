@@ -3,7 +3,9 @@
   "handle": "ROMEO-GESTIONI",
   "description": "Romeo Gestioni S.p.a.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "85.116.255.0/24"
+    ],
     "ipv6": []
   }
 }

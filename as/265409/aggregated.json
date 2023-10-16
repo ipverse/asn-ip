@@ -3,7 +3,9 @@
   "handle": "RNET-SERVICOS-INTERNET",
   "description": "RNET SERVICOS DE INTERNET LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "168.194.212.0/22"
+    ],
     "ipv6": [
       "2804:33a4::/32"
     ]

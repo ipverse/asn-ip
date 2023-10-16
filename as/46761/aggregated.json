@@ -3,7 +3,10 @@
   "handle": "SHORELAND",
   "description": "Shoreland, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.243.73.0/24",
+      "207.67.24.0/24"
+    ],
     "ipv6": []
   }
 }

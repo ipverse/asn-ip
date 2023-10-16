@@ -3,7 +3,9 @@
   "handle": "IGC-TYN",
   "description": "Intelsat General Corporation",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.96.79.0/24"
+    ],
     "ipv6": []
   }
 }

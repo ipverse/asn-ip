@@ -3,7 +3,10 @@
   "handle": "INSPIREIT-AP",
   "description": "Ricoh Australia PTY LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "27.100.0.0/22",
+      "27.131.216.0/22"
+    ],
     "ipv6": []
   }
 }

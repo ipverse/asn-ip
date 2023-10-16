@@ -3,7 +3,11 @@
   "handle": "S-D-PROVEDOR",
   "description": "S. D. PROVEDOR E INFORMATICA LTDA ME",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.71.68.0/22"
+    ],
+    "ipv6": [
+      "2804:43f4::/32"
+    ]
   }
 }

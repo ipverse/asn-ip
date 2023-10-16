@@ -3,7 +3,11 @@
   "handle": "NETFLESH-TELECOM-COM",
   "description": "NETFLESH TELECOM E COM DE PROD DE INFORMAT LTDA-ME",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "192.141.144.0/22"
+    ],
+    "ipv6": [
+      "2804:42ec::/32"
+    ]
   }
 }

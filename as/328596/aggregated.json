@@ -3,7 +3,9 @@
   "handle": "MIND-THE-SPEED",
   "description": "Mind the Speed (PTY) Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.145.128.0/19"
+    ],
     "ipv6": []
   }
 }

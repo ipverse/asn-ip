@@ -3,7 +3,9 @@
   "handle": "VICARIATOROMA",
   "description": "Vicariato di Roma",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.177.209.0/24"
+    ],
     "ipv6": []
   }
 }

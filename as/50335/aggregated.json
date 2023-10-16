@@ -3,7 +3,10 @@
   "handle": "PANDA-SECURITY",
   "description": "PANDA SECURITY S.L.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.216.218.0/24",
+      "193.104.218.0/24"
+    ],
     "ipv6": []
   }
 }

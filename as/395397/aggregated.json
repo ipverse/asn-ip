@@ -3,7 +3,9 @@
   "handle": "COSMO-INC-5665",
   "description": "Cosmopolitan Medical Communications",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "24.252.172.0/24"
+    ],
     "ipv6": []
   }
 }

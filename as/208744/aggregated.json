@@ -3,7 +3,10 @@
   "handle": "UGTCLOUD",
   "description": "UGT LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "154.6.140.0/23",
+      "185.247.94.0/23"
+    ],
     "ipv6": []
   }
 }

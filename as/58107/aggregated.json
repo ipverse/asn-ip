@@ -3,7 +3,9 @@
   "handle": "PERMENERGO",
   "description": "OJSC MRSK Urala",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.209.9.0/24"
+    ],
     "ipv6": []
   }
 }

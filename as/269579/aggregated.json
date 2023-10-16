@@ -3,9 +3,11 @@
   "handle": "INTERNET-TURBINADA",
   "description": "INTERNET TURBINADA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.189.96.0/22"
+    ],
     "ipv6": [
-      "2804:66bc:8000::/33"
+      "2804:66bc::/32"
     ]
   }
 }

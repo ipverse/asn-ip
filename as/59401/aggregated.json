@@ -3,7 +3,9 @@
   "handle": "FGDB",
   "description": "Fondul de Garantare a Depozitelor in Sistemul Bancar",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.240.188.0/24"
+    ],
     "ipv6": []
   }
 }

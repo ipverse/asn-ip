@@ -3,7 +3,11 @@
   "handle": "NET-MINAS-FIBRA",
   "description": "NET MINAS FIBRA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.237.104.0/22"
+    ],
+    "ipv6": [
+      "2804:4ec0::/32"
+    ]
   }
 }

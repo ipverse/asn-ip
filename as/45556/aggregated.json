@@ -3,7 +3,9 @@
   "handle": "SCANCOM-VN",
   "description": "Scancom Vietnam Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "203.161.178.0/24"
+    ],
     "ipv6": []
   }
 }

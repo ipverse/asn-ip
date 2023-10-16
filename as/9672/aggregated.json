@@ -3,7 +3,9 @@
   "handle": "WEST-AUSTRALIAN-NEWSPAPERS-AP",
   "description": "SingTel Optus Pty Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "202.41.193.0/24"
+    ],
     "ipv6": []
   }
 }

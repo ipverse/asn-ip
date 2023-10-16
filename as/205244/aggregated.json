@@ -3,7 +3,9 @@
   "handle": "FIRSTCOM",
   "description": "Artur Imeraj trading as FIRST.COM",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.224.100.0/22"
+    ],
     "ipv6": []
   }
 }

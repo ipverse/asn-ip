@@ -3,7 +3,9 @@
   "handle": "ALTALINK",
   "description": "AltaLink LP",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "208.81.8.0/23"
+    ],
     "ipv6": []
   }
 }

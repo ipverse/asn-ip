@@ -3,7 +3,9 @@
   "handle": "CSCI-3662",
   "description": "Central Security Communications, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "104.36.162.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "IRIS-AP",
   "description": "IRIS SOFTWARE TECHNOLOGIES PRIVATE LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.81.103.0/24"
+    ],
     "ipv6": []
   }
 }

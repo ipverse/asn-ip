@@ -3,7 +3,9 @@
   "handle": "LMB-ID",
   "description": "PT. LIMA MENARA BINTANG",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.104.204.0/22"
+    ],
     "ipv6": []
   }
 }

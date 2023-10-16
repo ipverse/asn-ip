@@ -3,7 +3,9 @@
   "handle": "JEWEL-AP",
   "description": "Jewel Changi Airport Trustee Pte. Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.132.136.0/22"
+    ],
     "ipv6": []
   }
 }

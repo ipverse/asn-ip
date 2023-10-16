@@ -3,7 +3,9 @@
   "handle": "LEIDOS-AP",
   "description": "LEIDOS AUSTRALIA PTY LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.93.108.0/22"
+    ],
     "ipv6": []
   }
 }

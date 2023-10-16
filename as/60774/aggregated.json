@@ -3,7 +3,11 @@
   "handle": "ASTAKENET",
   "description": "TakeNet GmbH",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "194.15.88.0/21"
+    ],
+    "ipv6": [
+      "2a09:2800::/29"
+    ]
   }
 }

@@ -3,7 +3,11 @@
   "handle": "NET-GUIBOR",
   "description": "NET GUIBOR",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "168.0.0.0/22"
+    ],
+    "ipv6": [
+      "2804:2cbc::/35"
+    ]
   }
 }

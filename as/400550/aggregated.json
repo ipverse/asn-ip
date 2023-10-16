@@ -4,6 +4,10 @@
   "description": "Suburban Marine, Inc.",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2602:fb9e::/48",
+      "2602:fb9e:2::/47",
+      "2602:fb9e:16::/47"
+    ]
   }
 }

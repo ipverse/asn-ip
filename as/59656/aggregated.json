@@ -3,7 +3,9 @@
   "handle": "ER76",
   "description": "GBU Yaroslavskoy Oblasti Electrony Region",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.29.19.0/24"
+    ],
     "ipv6": []
   }
 }

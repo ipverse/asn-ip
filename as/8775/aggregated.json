@@ -3,7 +3,9 @@
   "handle": "ICMM-UB-RAS",
   "description": "Institute of continuous media mechanics of the Ural branch of the Russian Academy of Science",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.69.156.0/22"
+    ],
     "ipv6": []
   }
 }

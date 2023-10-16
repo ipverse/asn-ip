@@ -3,7 +3,9 @@
   "handle": "PPI",
   "description": "Payment Processing Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "207.173.217.0/24"
+    ],
     "ipv6": []
   }
 }

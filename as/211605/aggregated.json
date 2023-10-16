@@ -3,7 +3,9 @@
   "handle": "VECTORTEL",
   "description": "LLC Vectortel",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "62.76.87.0/24"
+    ],
     "ipv6": []
   }
 }

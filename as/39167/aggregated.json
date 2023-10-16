@@ -3,7 +3,9 @@
   "handle": "KALIBR",
   "description": "PJSC Kalibr",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.34.192.0/22"
+    ],
     "ipv6": []
   }
 }

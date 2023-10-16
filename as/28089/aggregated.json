@@ -3,7 +3,10 @@
   "handle": "BANCO-CENTRAL-VENEZUELA",
   "description": "BANCO CENTRAL DE VENEZUELA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "200.35.128.0/23",
+      "200.35.132.0/23"
+    ],
     "ipv6": []
   }
 }

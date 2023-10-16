@@ -3,7 +3,11 @@
   "handle": "TAKEAWAY",
   "description": "Takeaway.com Group B.V.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "185.167.255.0/24"
+    ],
+    "ipv6": [
+      "2a07:b300::/29"
+    ]
   }
 }

@@ -3,7 +3,11 @@
   "handle": "RDSPL-AP",
   "description": "Redd digital services pty ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.9.240.0/22",
+      "123.253.40.0/24",
+      "123.253.43.0/24"
+    ],
     "ipv6": []
   }
 }

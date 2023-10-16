@@ -3,7 +3,13 @@
   "handle": "FIBRAVELOZ-PROVEDOR-INTERNET",
   "description": "FIBRAVELOZ PROVEDOR DE INTERNET LTDA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "201.216.124.0/22"
+    ],
+    "ipv6": [
+      "2804:69fc:100::/40",
+      "2804:69fc:200::/39",
+      "2804:69fc:400::/39"
+    ]
   }
 }

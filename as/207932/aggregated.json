@@ -3,7 +3,10 @@
   "handle": "NETNORDICSOLUTIONSAB",
   "description": "NetNordic Sweden AB",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.127.200.0/23",
+      "194.127.212.0/23"
+    ],
     "ipv6": []
   }
 }

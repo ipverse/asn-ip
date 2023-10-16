@@ -3,7 +3,9 @@
   "handle": "LUNARDIGITAL",
   "description": "Lunar Digital Solutions Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.194.252.0/23"
+    ],
     "ipv6": []
   }
 }

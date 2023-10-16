@@ -3,9 +3,11 @@
   "handle": "EXNET-SOLUCOES-INTERNET",
   "description": "Exnet Solucoes de Internet Ltda",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "190.89.248.0/22"
+    ],
     "ipv6": [
-      "2804:6bbc::/33"
+      "2804:6bbc::/32"
     ]
   }
 }

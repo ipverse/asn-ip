@@ -3,7 +3,9 @@
   "handle": "SERCOM",
   "description": "Sercom Ltda",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "201.182.52.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,11 @@
   "handle": "FIBER01-IN",
   "description": "Trishakti Technologix Limited",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "103.160.30.0/23"
+    ],
+    "ipv6": [
+      "2001:df5:9280::/48"
+    ]
   }
 }

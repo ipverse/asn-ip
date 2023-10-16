@@ -3,7 +3,12 @@
   "handle": "CONECT-TELECOM",
   "description": "CONECT TELECOM",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "168.195.252.0/22",
+      "177.128.136.0/22"
+    ],
+    "ipv6": [
+      "2804:874:8000::/33"
+    ]
   }
 }

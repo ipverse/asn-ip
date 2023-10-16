@@ -3,7 +3,10 @@
   "handle": "IDNIC-MAMURA-ID",
   "description": "PT Mamura Inter Media",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.163.102.0/23",
+      "202.57.20.0/23"
+    ],
     "ipv6": []
   }
 }

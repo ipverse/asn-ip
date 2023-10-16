@@ -3,7 +3,10 @@
   "handle": "TMGAS",
   "description": "Taylor Made Golf Company, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "8.25.43.0/24",
+      "192.173.5.0/24"
+    ],
     "ipv6": []
   }
 }

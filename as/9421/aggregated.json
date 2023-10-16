@@ -3,7 +3,10 @@
   "handle": "EISNET-AP",
   "description": "AAPT Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "203.12.171.0/24",
+      "203.55.112.0/24"
+    ],
     "ipv6": []
   }
 }

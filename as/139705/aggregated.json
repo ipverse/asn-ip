@@ -3,7 +3,9 @@
   "handle": "TNSI-AP",
   "description": "Transaction Network Services",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "154.18.144.0/24"
+    ],
     "ipv6": []
   }
 }

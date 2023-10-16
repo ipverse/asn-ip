@@ -3,7 +3,11 @@
   "handle": "RELAXGAMING",
   "description": "Relax Gaming Ltd",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "185.137.16.0/22"
+    ],
+    "ipv6": [
+      "2a03:6bc0::/29"
+    ]
   }
 }

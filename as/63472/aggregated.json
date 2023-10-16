@@ -3,7 +3,9 @@
   "handle": "EINETWORK",
   "description": "eiNetwork",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "208.89.32.0/22"
+    ],
     "ipv6": []
   }
 }

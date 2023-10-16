@@ -3,7 +3,9 @@
   "handle": "MHN",
   "description": "Magellan Health Services",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "204.193.64.0/19"
+    ],
     "ipv6": []
   }
 }

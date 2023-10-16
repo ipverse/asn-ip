@@ -3,7 +3,9 @@
   "handle": "RED-NACIONAL-GUATEMALA",
   "description": "Red Nacional de Guatemala, MAYANet",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "168.234.106.0/24"
+    ],
     "ipv6": []
   }
 }

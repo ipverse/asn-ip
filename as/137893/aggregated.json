@@ -3,7 +3,9 @@
   "handle": "SURVEILLANCE-AP",
   "description": "SURVEILLANCE AUSTRALIA PTY. LTD.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.229.4.0/24"
+    ],
     "ipv6": []
   }
 }

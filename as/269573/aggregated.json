@@ -3,7 +3,9 @@
   "handle": "F-S-COMETTI",
   "description": "F. S. Cometti",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.189.72.0/22"
+    ],
     "ipv6": []
   }
 }

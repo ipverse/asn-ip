@@ -3,7 +3,9 @@
   "handle": "LH-NET-TELECOMUNICAES",
   "description": "LH - NET - TELECOMUNICAES",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "190.120.236.0/22"
+    ],
     "ipv6": []
   }
 }

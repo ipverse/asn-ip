@@ -3,7 +3,9 @@
   "handle": "WALMART-CN",
   "description": "Wal-mart (China) Investment Co., Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "43.229.218.0/23"
+    ],
     "ipv6": []
   }
 }

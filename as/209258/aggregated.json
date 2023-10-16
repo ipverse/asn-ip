@@ -3,7 +3,9 @@
   "handle": "TSYSI",
   "description": "TSYS Europe (Netherlands) B.V.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "31.12.88.0/24"
+    ],
     "ipv6": []
   }
 }

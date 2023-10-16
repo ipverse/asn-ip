@@ -3,7 +3,9 @@
   "handle": "TELICITY-COMMUNICATIONS",
   "description": "Telicity Communications SASU",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "89.234.174.0/23"
+    ],
     "ipv6": []
   }
 }

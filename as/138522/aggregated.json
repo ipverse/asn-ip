@@ -3,7 +3,9 @@
   "handle": "CHOCOLATE-BROADBAND-AP",
   "description": "Chocolate Broadband",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.127.176.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,10 @@
   "handle": "FRAXION",
   "description": "Fraxion Communications Inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "23.155.144.0/24",
+      "74.49.155.0/24"
+    ],
     "ipv6": []
   }
 }

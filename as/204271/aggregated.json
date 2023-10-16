@@ -3,7 +3,9 @@
   "handle": "SHOWJET",
   "description": "ShowJet OOO",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "62.89.193.0/24"
+    ],
     "ipv6": []
   }
 }

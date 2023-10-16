@@ -3,7 +3,11 @@
   "handle": "SIGNATURE1-AP",
   "description": "Signature International",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "103.40.156.0/23"
+    ],
+    "ipv6": [
+      "2400:c360::/32"
+    ]
   }
 }

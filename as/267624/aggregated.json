@@ -3,7 +3,9 @@
   "handle": "RAIMAX-INTERNET",
   "description": "RAIMAX INTERNET LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.71.228.0/22"
+    ],
     "ipv6": []
   }
 }

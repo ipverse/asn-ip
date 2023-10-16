@@ -3,7 +3,9 @@
   "handle": "ITTIT",
   "description": "OOO Suntel",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "217.199.218.0/24"
+    ],
     "ipv6": []
   }
 }

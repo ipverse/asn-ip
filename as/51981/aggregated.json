@@ -3,7 +3,9 @@
   "handle": "SIAB",
   "description": "PJSC Saint-Petersburg Industrial Joint-Stock Bank",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.220.218.0/24"
+    ],
     "ipv6": []
   }
 }

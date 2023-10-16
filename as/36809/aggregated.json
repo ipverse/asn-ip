@@ -3,7 +3,9 @@
   "handle": "COCG-CITY-OF-CORAL-GABLES",
   "description": "City of Coral Gables",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "74.114.144.0/22"
+    ],
     "ipv6": []
   }
 }

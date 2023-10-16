@@ -3,7 +3,9 @@
   "handle": "TELECABLE-SABANETA",
   "description": "TELECABLE SABANETA SRL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "131.221.4.0/22"
+    ],
     "ipv6": []
   }
 }

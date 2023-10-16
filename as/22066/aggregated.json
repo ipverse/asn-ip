@@ -3,7 +3,9 @@
   "handle": "CITY-OF-EAU-CLAIRE",
   "description": "City of Eau Claire",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "205.213.166.0/23"
+    ],
     "ipv6": []
   }
 }

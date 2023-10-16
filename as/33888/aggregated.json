@@ -3,7 +3,9 @@
   "handle": "NCPLG",
   "description": "Federal State Unitary Enterprise State Scientific-research Institute of the Civil Aviation",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.150.202.0/23"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,11 @@
   "handle": "PWRWG",
   "description": "Paul, Weiss, Rifkind, Wharton \u0026 Garrison",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "174.47.193.0/24",
+      "208.184.158.0/24",
+      "208.226.153.0/24"
+    ],
     "ipv6": []
   }
 }

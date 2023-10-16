@@ -3,7 +3,9 @@
   "handle": "CMI-RUSSIA",
   "description": "China Mobile International (Russia), LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "5.180.92.0/22"
+    ],
     "ipv6": []
   }
 }

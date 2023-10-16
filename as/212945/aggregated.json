@@ -3,7 +3,9 @@
   "handle": "INT-TELEKOMUNIKASYON-VE",
   "description": "INT TELEKOMUNIKASYON VE INTERNET HIZ.SAN.TIC.LTD.STI",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.85.212.0/24"
+    ],
     "ipv6": []
   }
 }

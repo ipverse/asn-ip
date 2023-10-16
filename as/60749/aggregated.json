@@ -3,7 +3,9 @@
   "handle": "PROMOTION-PICHET",
   "description": "Promotion PICHET SAS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.89.164.0/22"
+    ],
     "ipv6": []
   }
 }

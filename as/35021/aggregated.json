@@ -3,7 +3,9 @@
   "handle": "E-STOCK",
   "description": "Limited Liability company MOEX Information Security",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "85.118.176.0/21"
+    ],
     "ipv6": []
   }
 }

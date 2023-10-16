@@ -3,7 +3,9 @@
   "handle": "PETRA-ID",
   "description": "PetraNet, Surabaya, Indonesia",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "203.189.120.0/22"
+    ],
     "ipv6": []
   }
 }

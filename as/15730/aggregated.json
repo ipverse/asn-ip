@@ -3,7 +3,9 @@
   "handle": "I-SERVICES-PROVIDER",
   "description": "I-Services Provider SRL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.229.183.0/24"
+    ],
     "ipv6": []
   }
 }

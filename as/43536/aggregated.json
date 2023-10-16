@@ -3,7 +3,9 @@
   "handle": "NEXTIRAONE-DE",
   "description": "NTT Germany Holdings GmbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.46.239.0/24"
+    ],
     "ipv6": []
   }
 }

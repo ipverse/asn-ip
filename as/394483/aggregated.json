@@ -3,7 +3,9 @@
   "handle": "DSS",
   "description": "Doyle Security Systems, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.80.26.0/24"
+    ],
     "ipv6": []
   }
 }

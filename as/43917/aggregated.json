@@ -3,7 +3,9 @@
   "handle": "UPEONET",
   "description": "UPEO LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.15.56.0/24"
+    ],
     "ipv6": []
   }
 }

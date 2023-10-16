@@ -3,7 +3,9 @@
   "handle": "BELGAZPROMBANK",
   "description": "Belorussian-Russian Belgazprombank Joint Stock",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "93.125.122.0/24"
+    ],
     "ipv6": []
   }
 }

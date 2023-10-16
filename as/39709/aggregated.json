@@ -3,7 +3,10 @@
   "handle": "EXTREME",
   "description": "EXTREME LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "81.88.208.0/20",
+      "188.244.0.0/20"
+    ],
     "ipv6": []
   }
 }

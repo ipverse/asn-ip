@@ -3,7 +3,9 @@
   "handle": "IBMEVS",
   "description": "IBM",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "170.226.63.0/24"
+    ],
     "ipv6": []
   }
 }

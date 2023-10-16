@@ -3,7 +3,9 @@
   "handle": "LA-FANTANA",
   "description": "LA FANTANA SRL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "86.107.106.0/24"
+    ],
     "ipv6": []
   }
 }

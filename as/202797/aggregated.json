@@ -3,7 +3,11 @@
   "handle": "DIGIBITTECH",
   "description": "DIGIBIT TECHNOLOGIES LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "176.116.126.0/24",
+      "193.22.1.0/24",
+      "193.22.106.0/24"
+    ],
     "ipv6": []
   }
 }

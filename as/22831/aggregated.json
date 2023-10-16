@@ -3,7 +3,9 @@
   "handle": "SCG-ARIN",
   "description": "THE SCIENTIFIC CONSULTING GROUP, INC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "206.130.148.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,10 @@
   "handle": "FRISCOTEXAS",
   "description": "City of Frisco",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "12.202.230.0/24",
+      "72.48.236.0/24"
+    ],
     "ipv6": []
   }
 }

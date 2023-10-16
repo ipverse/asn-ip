@@ -3,7 +3,9 @@
   "handle": "APR",
   "description": "APR Media Services - OMD Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "93.170.244.0/24"
+    ],
     "ipv6": []
   }
 }

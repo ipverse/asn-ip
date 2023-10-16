@@ -3,7 +3,9 @@
   "handle": "ELANY-NY-NET01",
   "description": "ELANY",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "74.202.63.0/24"
+    ],
     "ipv6": []
   }
 }

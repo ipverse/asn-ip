@@ -3,7 +3,10 @@
   "handle": "RBRU",
   "description": "AO RAIFFEISENBANK",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.28.44.0/24",
+      "195.238.72.0/23"
+    ],
     "ipv6": []
   }
 }

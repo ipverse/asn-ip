@@ -3,7 +3,9 @@
   "handle": "LEXMUC",
   "description": "Lex-Com Informationssysteme GmbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.234.204.0/22"
+    ],
     "ipv6": []
   }
 }

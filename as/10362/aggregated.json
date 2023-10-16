@@ -3,7 +3,9 @@
   "handle": "UBIK-BRASIL-SOL",
   "description": "UBIK DO BRASIL SOL TECNOLOGIA LTDA.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "200.218.0.0/19"
+    ],
     "ipv6": []
   }
 }

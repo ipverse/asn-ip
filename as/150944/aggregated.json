@@ -3,7 +3,9 @@
   "handle": "IDNIC-MCONNECT-ID",
   "description": "PT Mediatama Internusa Persada",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.107.176.0/23"
+    ],
     "ipv6": []
   }
 }

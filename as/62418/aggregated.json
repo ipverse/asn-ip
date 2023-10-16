@@ -3,7 +3,10 @@
   "handle": "DATASYST",
   "description": "Data Syst Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "62.204.132.0/23",
+      "195.34.98.0/23"
+    ],
     "ipv6": []
   }
 }

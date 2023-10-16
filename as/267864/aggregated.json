@@ -3,7 +3,9 @@
   "handle": "ANGOSTURA-VIDEO-CABLE",
   "description": "ANGOSTURA VIDEO CABLE S.A.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.176.88.0/22"
+    ],
     "ipv6": []
   }
 }

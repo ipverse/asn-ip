@@ -3,7 +3,12 @@
   "handle": "BELL-IT-SERVICES",
   "description": "Bell IT Services, Inc.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "67.198.2.0/24",
+      "198.148.77.0/24"
+    ],
+    "ipv6": [
+      "2620:5f:c000::/48"
+    ]
   }
 }

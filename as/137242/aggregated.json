@@ -3,7 +3,9 @@
   "handle": "CMC-AP",
   "description": "CMC MARKETS ASIA PACIFIC PTY LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.108.124.0/24"
+    ],
     "ipv6": []
   }
 }

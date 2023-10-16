@@ -3,7 +3,9 @@
   "handle": "NETSPRING",
   "description": "Net-spring s.r.l.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "109.71.232.0/21"
+    ],
     "ipv6": []
   }
 }

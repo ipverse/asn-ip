@@ -3,7 +3,11 @@
   "handle": "GMHOST-EE",
   "description": "GmhostGrupp OU",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.129.96.0/24"
+    ],
+    "ipv6": [
+      "2a0e:a840::/47"
+    ]
   }
 }

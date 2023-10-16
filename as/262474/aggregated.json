@@ -3,7 +3,12 @@
   "handle": "ALTERNA-TELECOMUNICACOES-CONECTIVIDADE",
   "description": "ALTERNA TELECOMUNICACOES E CONECTIVIDADE LTDA EPP",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "177.53.168.0/21",
+      "177.154.20.0/22"
+    ],
+    "ipv6": [
+      "2804:4dc::/32"
+    ]
   }
 }

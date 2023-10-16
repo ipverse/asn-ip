@@ -3,7 +3,9 @@
   "handle": "PHEONWJ-ID",
   "description": "Pertamina Hulu Energi ONWJ",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "202.52.132.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,11 @@
   "handle": "ARP-TELECOM-COMUNICAOES",
   "description": "ARP TELECOM COMUNICAOES LTDA ME",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "170.78.0.0/22"
+    ],
+    "ipv6": [
+      "2804:34f4::/32"
+    ]
   }
 }

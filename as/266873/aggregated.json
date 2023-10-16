@@ -3,7 +3,9 @@
   "handle": "E-TECH-NET",
   "description": "E TECH NET SA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.239.84.0/22"
+    ],
     "ipv6": []
   }
 }

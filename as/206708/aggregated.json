@@ -3,7 +3,9 @@
   "handle": "IRIS-TEL",
   "description": "Sergey Cherentayev",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.118.126.0/24"
+    ],
     "ipv6": []
   }
 }

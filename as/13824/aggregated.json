@@ -3,7 +3,9 @@
   "handle": "AIREBEAM",
   "description": "AireBeam",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.66.170.0/24"
+    ],
     "ipv6": []
   }
 }

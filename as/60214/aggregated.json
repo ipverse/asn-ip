@@ -3,7 +3,9 @@
   "handle": "MAINTS",
   "description": "Maints Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.34.108.0/22"
+    ],
     "ipv6": []
   }
 }

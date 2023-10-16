@@ -3,7 +3,9 @@
   "handle": "SCAC",
   "description": "JSC Sukhoi Civil Aircraft",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "77.108.105.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "BFG",
   "description": "Bankowy Fundusz Gwarancyjny",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "82.177.195.0/24"
+    ],
     "ipv6": []
   }
 }

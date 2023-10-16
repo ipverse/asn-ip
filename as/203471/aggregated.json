@@ -3,7 +3,9 @@
   "handle": "MDA",
   "description": "MicroData Skandinavien AB",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.132.52.0/24"
+    ],
     "ipv6": []
   }
 }

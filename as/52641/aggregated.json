@@ -3,7 +3,12 @@
   "handle": "JAN-CHARLES-RUECKERT",
   "description": "JAN CHARLES RUECKERT - EPP",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "177.125.132.0/22",
+      "201.55.204.0/22"
+    ],
+    "ipv6": [
+      "2804:191c::/32"
+    ]
   }
 }

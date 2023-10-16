@@ -3,7 +3,9 @@
   "handle": "SHOPZILLAEU",
   "description": "Skimbit Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.78.110.0/23"
+    ],
     "ipv6": []
   }
 }

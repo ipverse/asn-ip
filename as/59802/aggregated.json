@@ -3,7 +3,11 @@
   "handle": "DNS2",
   "description": "Leo Vandewoestijne trading as unicyle",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "185.68.198.0/23"
+    ],
+    "ipv6": [
+      "2a05:19c0:2::/47"
+    ]
   }
 }

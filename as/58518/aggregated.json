@@ -3,7 +3,11 @@
   "handle": "CHINATELECOM-CDMANETWORK-BG-GUANGZHOU",
   "description": "China Telecom",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "115.169.4.0/23",
+      "115.169.36.0/23",
+      "115.169.38.0/24"
+    ],
     "ipv6": []
   }
 }

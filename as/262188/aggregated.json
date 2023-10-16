@@ -3,7 +3,9 @@
   "handle": "SATEL-NV",
   "description": "Satel NV",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "190.97.112.0/21"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "LSZB",
   "description": "Land Burgenland",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.182.176.0/22"
+    ],
     "ipv6": []
   }
 }

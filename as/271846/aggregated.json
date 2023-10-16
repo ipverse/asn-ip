@@ -3,7 +3,9 @@
   "handle": "NANOTIK-TELECOMUNICACIONES-SPA",
   "description": "NANOTIK TELECOMUNICACIONES SPA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.232.210.0/23"
+    ],
     "ipv6": []
   }
 }

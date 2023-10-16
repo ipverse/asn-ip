@@ -3,7 +3,9 @@
   "handle": "BULSTRAD",
   "description": "BULSTRAD VIENNA INSURANCE GROUP EAD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.234.21.0/24"
+    ],
     "ipv6": []
   }
 }

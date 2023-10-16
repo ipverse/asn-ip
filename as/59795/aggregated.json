@@ -3,7 +3,11 @@
   "handle": "HOSTING4REAL",
   "description": "Lucas Rolff, trading as Hosting4Real",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "213.184.86.0/24"
+    ],
+    "ipv6": [
+      "2a09:3a00:3a00::/40"
+    ]
   }
 }

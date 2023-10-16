@@ -3,7 +3,11 @@
   "handle": "EDSON-BIONDO",
   "description": "Edson Biondo \u0026 Cia Ltda.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "186.2.252.0/23"
+    ],
+    "ipv6": [
+      "2804:7458::/32"
+    ]
   }
 }

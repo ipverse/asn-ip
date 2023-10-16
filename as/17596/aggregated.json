@@ -3,7 +3,9 @@
   "handle": "CST21",
   "description": "PINE ASSET SERVICE",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "27.111.96.0/19"
+    ],
     "ipv6": []
   }
 }

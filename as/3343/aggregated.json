@@ -3,7 +3,10 @@
   "handle": "RUNNET",
   "description": "Federal State Institution Federal Scientific Research Institute for System Analysis of the Russian Academy of Sciences",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "80.250.176.0/23",
+      "86.110.118.0/24"
+    ],
     "ipv6": []
   }
 }

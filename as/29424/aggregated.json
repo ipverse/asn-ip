@@ -3,7 +3,11 @@
   "handle": "BSA",
   "description": "Briod SA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "185.84.208.0/22"
+    ],
+    "ipv6": [
+      "2a05:a840::/29"
+    ]
   }
 }

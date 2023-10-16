@@ -3,7 +3,9 @@
   "handle": "FIVENET",
   "description": "Five Net Service Provider Pvt. Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.253.148.0/24"
+    ],
     "ipv6": []
   }
 }

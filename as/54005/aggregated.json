@@ -3,7 +3,9 @@
   "handle": "Z-CLOUD",
   "description": "ZPro Solutions",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "23.29.157.0/24"
+    ],
     "ipv6": []
   }
 }

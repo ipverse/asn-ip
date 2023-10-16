@@ -3,7 +3,9 @@
   "handle": "APOLLODC-01",
   "description": "Apollo DC, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "12.157.236.0/22"
+    ],
     "ipv6": []
   }
 }

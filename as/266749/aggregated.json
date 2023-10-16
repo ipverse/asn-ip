@@ -3,7 +3,10 @@
   "handle": "RED-WOLF",
   "description": "RED WOLF SRL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.4.164.0/22",
+      "138.118.144.0/22"
+    ],
     "ipv6": []
   }
 }

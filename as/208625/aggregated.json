@@ -3,7 +3,9 @@
   "handle": "KEPLER",
   "description": "Kepler Cheuvreux SA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.92.64.0/22"
+    ],
     "ipv6": []
   }
 }

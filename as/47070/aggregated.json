@@ -3,7 +3,9 @@
   "handle": "VINEYARDCOLUMBUS",
   "description": "Vineyard Columbus",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "148.59.47.0/24"
+    ],
     "ipv6": []
   }
 }

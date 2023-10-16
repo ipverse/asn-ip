@@ -3,7 +3,9 @@
   "handle": "ONQ-COLODC-HOU01",
   "description": "On Q Operating Company LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "198.49.4.0/24"
+    ],
     "ipv6": []
   }
 }

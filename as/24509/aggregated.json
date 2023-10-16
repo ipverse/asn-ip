@@ -3,7 +3,9 @@
   "handle": "XPEDITE",
   "description": "Xpedite Systems",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "203.77.176.0/24"
+    ],
     "ipv6": []
   }
 }

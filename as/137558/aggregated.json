@@ -3,7 +3,9 @@
   "handle": "CASTLE-COLE-AP",
   "description": "Castle Cole aka Spirit Telecom Canberra",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "203.16.176.0/24"
+    ],
     "ipv6": []
   }
 }

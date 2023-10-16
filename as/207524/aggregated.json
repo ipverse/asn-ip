@@ -3,7 +3,9 @@
   "handle": "LONDSTOCK-US",
   "description": "London Stock Exchange PLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "94.46.108.0/23"
+    ],
     "ipv6": []
   }
 }

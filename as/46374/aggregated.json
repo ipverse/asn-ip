@@ -3,7 +3,9 @@
   "handle": "ICNET",
   "description": "Ideal Concepts, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.92.87.0/24"
+    ],
     "ipv6": []
   }
 }

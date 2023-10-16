@@ -3,7 +3,9 @@
   "handle": "DMTN",
   "description": "Denso Manufacturing, Tennessee, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "75.141.62.0/24"
+    ],
     "ipv6": []
   }
 }

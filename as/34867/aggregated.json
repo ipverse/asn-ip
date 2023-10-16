@@ -3,7 +3,12 @@
   "handle": "COSMONOVA",
   "description": "Cosmonova LLC",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "95.67.0.0/17",
+      "185.48.196.0/22"
+    ],
+    "ipv6": [
+      "2a00:17a0::/29"
+    ]
   }
 }

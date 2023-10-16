@@ -3,7 +3,11 @@
   "handle": "MVI-AP",
   "description": "AAPT Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "203.21.65.0/24",
+      "203.32.55.0/24",
+      "203.34.190.0/24"
+    ],
     "ipv6": []
   }
 }

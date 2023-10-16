@@ -3,7 +3,10 @@
   "handle": "SADADPSP",
   "description": "Sadad Electronic Payment Company P.J.S.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.203.160.0/23",
+      "185.203.163.0/24"
+    ],
     "ipv6": []
   }
 }

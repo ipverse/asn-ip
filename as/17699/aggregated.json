@@ -3,7 +3,9 @@
   "handle": "MEDIA",
   "description": "ARTERIA Networks Corporation",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "218.40.32.0/20"
+    ],
     "ipv6": []
   }
 }

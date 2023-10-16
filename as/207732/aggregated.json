@@ -3,7 +3,9 @@
   "handle": "CEBE",
   "description": "cebe Internet GmbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "2.58.55.0/24"
+    ],
     "ipv6": []
   }
 }

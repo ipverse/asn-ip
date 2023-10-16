@@ -3,7 +3,11 @@
   "handle": "RCSE",
   "description": "regiocom SE",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "95.130.0.0/22"
+    ],
+    "ipv6": [
+      "2a0e:8d80::/29"
+    ]
   }
 }

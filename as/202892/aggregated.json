@@ -3,7 +3,9 @@
   "handle": "BESTSELLER",
   "description": "Bestseller A/S",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.9.140.0/22"
+    ],
     "ipv6": []
   }
 }

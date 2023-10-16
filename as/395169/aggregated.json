@@ -3,7 +3,10 @@
   "handle": "SCRIPTPRO-1",
   "description": "ScriptPro LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "69.150.239.0/24",
+      "199.184.160.0/23"
+    ],
     "ipv6": []
   }
 }

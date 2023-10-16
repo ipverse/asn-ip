@@ -3,7 +3,10 @@
   "handle": "TRINITY-ID",
   "description": "PT Trinity Teknologi Nusantara",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.125.172.0/22",
+      "103.143.194.0/23"
+    ],
     "ipv6": []
   }
 }

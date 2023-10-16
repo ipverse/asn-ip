@@ -3,7 +3,9 @@
   "handle": "VIL-AP",
   "description": "Vodafone Idea Ltd. (VIL)",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "36.255.200.0/22"
+    ],
     "ipv6": []
   }
 }

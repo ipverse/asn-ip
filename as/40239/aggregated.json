@@ -3,7 +3,9 @@
   "handle": "PASHA-SNR",
   "description": "THE PASHA GROUP",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.129.0.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "INTEGRAL",
   "description": "Integral UK Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.163.112.0/24"
+    ],
     "ipv6": []
   }
 }

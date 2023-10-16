@@ -3,7 +3,9 @@
   "handle": "REGIS-INFOCEL",
   "description": "REGIS INFOCEL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "177.84.24.0/22"
+    ],
     "ipv6": []
   }
 }

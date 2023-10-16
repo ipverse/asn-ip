@@ -3,7 +3,9 @@
   "handle": "RUSAGRO",
   "description": "Group of companies RUSAGRO\u0027 Limited Liability Company",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.226.138.0/24"
+    ],
     "ipv6": []
   }
 }

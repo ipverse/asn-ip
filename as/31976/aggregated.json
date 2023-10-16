@@ -3,7 +3,10 @@
   "handle": "REDHAT-0",
   "description": "Red Hat, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "66.187.236.0/24",
+      "209.132.189.0/24"
+    ],
     "ipv6": []
   }
 }

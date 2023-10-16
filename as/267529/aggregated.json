@@ -3,7 +3,9 @@
   "handle": "KNS-PINHO-TELECOMUNICACOES",
   "description": "KNS DE PINHO TELECOMUNICACOES",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "201.182.180.0/22"
+    ],
     "ipv6": []
   }
 }

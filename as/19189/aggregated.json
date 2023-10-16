@@ -3,7 +3,11 @@
   "handle": "PULSEPOINT",
   "description": "Pulsepoint Inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "74.214.192.0/23",
+      "74.214.196.0/23",
+      "198.148.26.0/23"
+    ],
     "ipv6": []
   }
 }

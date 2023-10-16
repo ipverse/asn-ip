@@ -3,7 +3,9 @@
   "handle": "TEHNOLA",
   "description": "Technola LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.41.53.0/24"
+    ],
     "ipv6": []
   }
 }

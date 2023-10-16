@@ -3,7 +3,12 @@
   "handle": "GBLINK-AP",
   "description": "GBLINK NETWORK SOLUTIONS PRIVATE LIMITED",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "103.138.188.0/23",
+      "103.142.174.0/23"
+    ],
+    "ipv6": [
+      "2001:df0:4e80::/48"
+    ]
   }
 }

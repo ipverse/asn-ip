@@ -3,7 +3,9 @@
   "handle": "INCITY",
   "description": "Joint Stock Company Modniy Continent",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.226.181.0/24"
+    ],
     "ipv6": []
   }
 }

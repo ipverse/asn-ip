@@ -3,7 +3,9 @@
   "handle": "IDNIC-PROVBALI-ID",
   "description": "Dinas Komunikasi, Informatika dan Statistik Provinsi Bali",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.110.184.0/23"
+    ],
     "ipv6": []
   }
 }

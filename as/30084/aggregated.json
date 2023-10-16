@@ -3,7 +3,9 @@
   "handle": "SRI-CONSULTING-BUSINESS-INTELLIGENCE",
   "description": "Strategic Business Insights, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "208.184.71.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,10 @@
   "handle": "BRYANLGH-01",
   "description": "Bryan Health",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "198.203.242.0/23",
+      "198.203.244.0/23"
+    ],
     "ipv6": []
   }
 }

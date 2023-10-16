@@ -3,7 +3,9 @@
   "handle": "CAPTEL",
   "description": "Capital Telecom Limited Company",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "94.243.128.0/18"
+    ],
     "ipv6": []
   }
 }

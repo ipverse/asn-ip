@@ -3,7 +3,9 @@
   "handle": "RHL-AP",
   "description": "Ryman Healthcare Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.152.124.0/24"
+    ],
     "ipv6": []
   }
 }

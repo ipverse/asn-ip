@@ -3,7 +3,9 @@
   "handle": "IDNIC-PEMPROVGTLO-ID",
   "description": "Dinas Komunikasi, Informatika dan Statistik Provinsi Gorontalo",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.210.34.0/24"
+    ],
     "ipv6": []
   }
 }

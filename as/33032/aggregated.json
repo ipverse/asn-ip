@@ -3,7 +3,9 @@
   "handle": "AMI",
   "description": "American Megatrends, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "63.147.10.0/24"
+    ],
     "ipv6": []
   }
 }

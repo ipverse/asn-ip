@@ -3,7 +3,9 @@
   "handle": "TFNSWOS-AP",
   "description": "Transport for NSW",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.131.208.0/23"
+    ],
     "ipv6": []
   }
 }

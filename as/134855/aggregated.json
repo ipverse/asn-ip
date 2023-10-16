@@ -3,7 +3,10 @@
   "handle": "IPNETBROADBANDPVTLTD-IN",
   "description": "IPNET BROADBAND PRIVATE LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.47.105.0/24",
+      "103.244.35.0/24"
+    ],
     "ipv6": []
   }
 }

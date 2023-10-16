@@ -3,7 +3,9 @@
   "handle": "TELEVISION-CITY-STUDIOS-LLC",
   "description": "Television City Studios, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "8.38.35.0/24"
+    ],
     "ipv6": []
   }
 }

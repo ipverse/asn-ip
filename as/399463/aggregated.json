@@ -3,7 +3,9 @@
   "handle": "UCOMTEL-02",
   "description": "UComtel Inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "23.169.16.0/24"
+    ],
     "ipv6": []
   }
 }

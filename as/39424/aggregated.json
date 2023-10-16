@@ -3,7 +3,9 @@
   "handle": "PROTOCLOUD",
   "description": "Protocloud Plus LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.80.139.0/24"
+    ],
     "ipv6": []
   }
 }

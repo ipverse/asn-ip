@@ -3,7 +3,9 @@
   "handle": "AJWAHNETWORK-AP",
   "description": "Ajwah Network",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.65.119.0/24"
+    ],
     "ipv6": []
   }
 }

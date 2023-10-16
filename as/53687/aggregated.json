@@ -3,7 +3,9 @@
   "handle": "DNI",
   "description": "DataComm Networks Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.59.152.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "TDB",
   "description": "Technics for Business Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.44.55.0/24"
+    ],
     "ipv6": []
   }
 }

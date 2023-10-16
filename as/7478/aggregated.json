@@ -3,7 +3,10 @@
   "handle": "MACKAY-AP",
   "description": "Mackay Telecommunication Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "210.244.192.0/19",
+      "211.76.0.0/19"
+    ],
     "ipv6": []
   }
 }

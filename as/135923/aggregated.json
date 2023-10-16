@@ -3,7 +3,9 @@
   "handle": "SCTVIBI-VN",
   "description": "SCTV INFRASTRUCTURE BUSINESS INVESMENT COMPANY LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.99.244.0/22"
+    ],
     "ipv6": []
   }
 }

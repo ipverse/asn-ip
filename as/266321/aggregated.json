@@ -3,7 +3,11 @@
   "handle": "JOAO-PINOTI-SANTOS",
   "description": "Joao Pinoti dos Santos-ME",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "170.238.140.0/22"
+    ],
+    "ipv6": [
+      "2804:3604::/32"
+    ]
   }
 }

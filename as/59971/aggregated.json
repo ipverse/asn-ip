@@ -3,7 +3,11 @@
   "handle": "TX",
   "description": "TX Logistik AG",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "185.62.244.0/22"
+    ],
+    "ipv6": [
+      "2a03:860::/32"
+    ]
   }
 }

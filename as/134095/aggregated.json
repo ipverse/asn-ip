@@ -3,7 +3,11 @@
   "handle": "ITMX",
   "description": "National ITMX Company Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "110.170.137.0/24",
+      "110.170.238.0/24",
+      "210.86.152.0/24"
+    ],
     "ipv6": []
   }
 }

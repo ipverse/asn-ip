@@ -3,7 +3,9 @@
   "handle": "FORTANIX",
   "description": "Fortanix",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.111.209.0/24"
+    ],
     "ipv6": []
   }
 }

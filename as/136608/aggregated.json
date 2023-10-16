@@ -3,7 +3,10 @@
   "handle": "WISPERCONNECT-AP",
   "description": "Wisper Connect",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.93.233.0/24",
+      "103.93.234.0/23"
+    ],
     "ipv6": []
   }
 }

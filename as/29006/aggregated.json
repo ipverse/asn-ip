@@ -3,7 +3,12 @@
   "handle": "POBOX",
   "description": "Acora Limited",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "217.27.240.0/20",
+      "217.168.16.0/20"
+    ],
+    "ipv6": [
+      "2a01:6c8::/36"
+    ]
   }
 }

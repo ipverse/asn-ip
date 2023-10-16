@@ -3,7 +3,9 @@
   "handle": "TRANSKOM",
   "description": "Transkom GmbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "212.28.32.0/19"
+    ],
     "ipv6": []
   }
 }

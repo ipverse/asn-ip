@@ -3,7 +3,11 @@
   "handle": "JULIANA-N-CORDEIRO",
   "description": "JULIANA N CORDEIRO DE LIMA SERVICOS DE COMUNICACO",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.164.8.0/22"
+    ],
+    "ipv6": [
+      "2804:5374::/32"
+    ]
   }
 }

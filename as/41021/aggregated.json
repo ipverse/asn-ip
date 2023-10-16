@@ -3,7 +3,10 @@
   "handle": "EBYR-HOWDEN",
   "description": "Ebuyer UK Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "89.107.44.0/24",
+      "89.107.46.0/23"
+    ],
     "ipv6": []
   }
 }

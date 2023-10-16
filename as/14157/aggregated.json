@@ -3,7 +3,9 @@
   "handle": "GENWORTH-MI",
   "description": "GENWORTH FINANCIAL, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "206.83.176.0/20"
+    ],
     "ipv6": [
       "2620:116:f000::/40"
     ]

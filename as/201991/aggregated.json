@@ -3,7 +3,9 @@
   "handle": "METSAGROUP",
   "description": "Metsaliitto Osuuskunta",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "146.119.0.0/16"
+    ],
     "ipv6": []
   }
 }

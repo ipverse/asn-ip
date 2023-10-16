@@ -3,7 +3,9 @@
   "handle": "ITANET-PONTO-COM",
   "description": "ITANET PONTO COM LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.4.44.0/22"
+    ],
     "ipv6": [
       "2804:39dc::/32"
     ]

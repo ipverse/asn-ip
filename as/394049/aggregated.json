@@ -3,7 +3,9 @@
   "handle": "UWHCA",
   "description": "University of Wisconsin Hospital and Clinics",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.250.20.0/23"
+    ],
     "ipv6": []
   }
 }

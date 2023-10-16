@@ -3,7 +3,9 @@
   "handle": "COVCITYCOUNCIL",
   "description": "Coventry City Council",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "2.56.196.0/22"
+    ],
     "ipv6": []
   }
 }

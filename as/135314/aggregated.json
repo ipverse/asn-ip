@@ -3,7 +3,9 @@
   "handle": "IMCLOUD-AP",
   "description": "IMCLOUD TECHNOLOGY COMPANY LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "154.18.168.0/24"
+    ],
     "ipv6": []
   }
 }

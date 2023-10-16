@@ -3,7 +3,9 @@
   "handle": "PC-LAND",
   "description": "PC Land Kopec Artur",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "155.133.34.0/24"
+    ],
     "ipv6": []
   }
 }

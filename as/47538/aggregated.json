@@ -3,7 +3,9 @@
   "handle": "ANCOMA",
   "description": "Swisspro AG",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "212.243.121.0/24"
+    ],
     "ipv6": []
   }
 }

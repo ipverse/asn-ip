@@ -3,7 +3,11 @@
   "handle": "ZENFOLIO",
   "description": "Zenfolio, Inc.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "216.24.46.0/24"
+    ],
+    "ipv6": [
+      "2620:78:2000::/48"
+    ]
   }
 }

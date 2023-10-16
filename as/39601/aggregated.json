@@ -3,7 +3,9 @@
   "handle": "WCOBG",
   "description": "m+w MediaNetworks EOOD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.50.76.0/24"
+    ],
     "ipv6": []
   }
 }

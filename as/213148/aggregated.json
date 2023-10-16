@@ -3,7 +3,9 @@
   "handle": "WINTERSHALLDEANORGE",
   "description": "Wintershall Dea Norge AS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "88.135.71.0/24"
+    ],
     "ipv6": []
   }
 }

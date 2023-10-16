@@ -3,7 +3,9 @@
   "handle": "HENKELSMCCOY",
   "description": "Henkels and McCoy, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "198.185.128.0/24"
+    ],
     "ipv6": []
   }
 }

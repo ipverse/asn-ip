@@ -3,7 +3,9 @@
   "handle": "AI-MEDIA-AP",
   "description": "Access innovation Media",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "202.52.142.0/24"
+    ],
     "ipv6": []
   }
 }

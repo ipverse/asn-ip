@@ -3,7 +3,9 @@
   "handle": "ITALK",
   "description": "iTalk Affliate Telecommunications Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "176.123.62.0/24"
+    ],
     "ipv6": []
   }
 }

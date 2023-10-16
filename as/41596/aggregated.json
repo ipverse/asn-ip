@@ -3,7 +3,9 @@
   "handle": "WGSL",
   "description": "Willis Group Services Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "89.28.184.0/24"
+    ],
     "ipv6": []
   }
 }

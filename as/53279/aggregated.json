@@ -3,7 +3,9 @@
   "handle": "INXPO",
   "description": "INXPO, inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "8.19.201.0/24"
+    ],
     "ipv6": []
   }
 }

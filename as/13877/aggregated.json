@@ -3,7 +3,9 @@
   "handle": "WENDYS-DUBLIN",
   "description": "Wendy\u0027s International, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "216.87.240.0/20"
+    ],
     "ipv6": []
   }
 }

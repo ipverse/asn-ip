@@ -3,7 +3,9 @@
   "handle": "SULLCROM",
   "description": "SULLCROM",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "205.134.18.0/23"
+    ],
     "ipv6": []
   }
 }

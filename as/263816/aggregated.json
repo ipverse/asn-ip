@@ -3,7 +3,9 @@
   "handle": "CAMARA-DIPUTADOS-CHILE",
   "description": "Camara de Diputados de Chile",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "200.14.66.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "KB",
   "description": "Komercijalna banka AD Skopje",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "146.255.76.0/24"
+    ],
     "ipv6": []
   }
 }

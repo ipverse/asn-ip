@@ -3,7 +3,9 @@
   "handle": "AMAW",
   "description": "AMAWATERWAYS, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "163.123.219.0/24"
+    ],
     "ipv6": []
   }
 }

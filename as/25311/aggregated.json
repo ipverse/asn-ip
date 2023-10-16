@@ -3,7 +3,11 @@
   "handle": "DIGI-BE",
   "description": "RCS \u0026 RDS SA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "195.182.220.0/23"
+    ],
+    "ipv6": [
+      "2a03:9c20:2002::/48"
+    ]
   }
 }

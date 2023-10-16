@@ -3,7 +3,9 @@
   "handle": "DAU",
   "description": "Dong-A Universirty",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "168.115.0.0/16"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "BIGNETLIMITED-AP",
   "description": "BIGNET LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "156.248.53.0/24"
+    ],
     "ipv6": []
   }
 }

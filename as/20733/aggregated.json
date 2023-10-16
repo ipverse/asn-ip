@@ -3,7 +3,9 @@
   "handle": "DATASTORE",
   "description": "TSOD Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "147.78.116.0/24"
+    ],
     "ipv6": []
   }
 }

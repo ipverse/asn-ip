@@ -3,7 +3,9 @@
   "handle": "CEMI-MALAGA",
   "description": "Centro Municipal de Informatica de Malaga",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "95.129.152.0/21"
+    ],
     "ipv6": []
   }
 }

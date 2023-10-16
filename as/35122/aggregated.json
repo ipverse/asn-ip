@@ -3,7 +3,10 @@
   "handle": "SATNET",
   "description": "Satnet LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.146.140.0/22",
+      "85.255.160.0/20"
+    ],
     "ipv6": []
   }
 }

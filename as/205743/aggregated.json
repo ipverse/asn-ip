@@ -3,7 +3,9 @@
   "handle": "MUNSTER",
   "description": "Munster Wireless Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.208.4.0/22"
+    ],
     "ipv6": []
   }
 }

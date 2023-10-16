@@ -3,7 +3,12 @@
   "handle": "CERT",
   "description": "Software Engineering Institute",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "192.88.209.0/24",
+      "192.88.210.0/24"
+    ],
+    "ipv6": [
+      "2620:8b:4000::/48"
+    ]
   }
 }

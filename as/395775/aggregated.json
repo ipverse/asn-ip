@@ -3,7 +3,9 @@
   "handle": "DOTHAN-CITY-01",
   "description": "CITY OF DOTHAN",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "216.38.165.0/24"
+    ],
     "ipv6": []
   }
 }

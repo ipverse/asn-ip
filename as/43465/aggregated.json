@@ -3,7 +3,12 @@
   "handle": "REINFOCOM",
   "description": "ReInfoCom Ltd.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "91.197.76.0/22",
+      "195.178.22.0/23"
+    ],
+    "ipv6": [
+      "2a03:e140:34::/48"
+    ]
   }
 }

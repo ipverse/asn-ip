@@ -3,7 +3,9 @@
   "handle": "LION-TRADE",
   "description": "LLC Lion-Trade",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "62.76.208.0/24"
+    ],
     "ipv6": []
   }
 }

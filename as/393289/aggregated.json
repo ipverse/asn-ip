@@ -3,7 +3,9 @@
   "handle": "MERCERU-GA",
   "description": "Mercer University",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "209.172.224.0/19"
+    ],
     "ipv6": []
   }
 }

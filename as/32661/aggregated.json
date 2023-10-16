@@ -3,7 +3,10 @@
   "handle": "OLD-NATIONAL-BANCORP",
   "description": "Old National Bancorp",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "208.66.80.0/23",
+      "208.66.83.0/24"
+    ],
     "ipv6": []
   }
 }

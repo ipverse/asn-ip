@@ -3,7 +3,9 @@
   "handle": "CENET-AP",
   "description": "CEnet Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "180.95.16.0/20"
+    ],
     "ipv6": []
   }
 }

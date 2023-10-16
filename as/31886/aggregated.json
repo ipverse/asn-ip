@@ -3,7 +3,9 @@
   "handle": "UOGUELPH",
   "description": "University of Guelph",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "131.104.0.0/16"
+    ],
     "ipv6": []
   }
 }

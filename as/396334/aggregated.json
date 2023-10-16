@@ -3,7 +3,9 @@
   "handle": "ORU-MC-01",
   "description": "Oral Roberts University",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "205.143.136.0/21"
+    ],
     "ipv6": []
   }
 }

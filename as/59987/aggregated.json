@@ -3,7 +3,9 @@
   "handle": "ANTENNAGO",
   "description": "AntennaGo SRL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "176.119.196.0/24"
+    ],
     "ipv6": []
   }
 }

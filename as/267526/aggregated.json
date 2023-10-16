@@ -3,7 +3,11 @@
   "handle": "ANDREIA-LUCIA-CADINI-CUNHA",
   "description": "ANDREIA LUCIA CADINI DA CUNHA ME",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "181.191.52.0/22"
+    ],
+    "ipv6": [
+      "2804:42c8::/32"
+    ]
   }
 }

@@ -3,7 +3,9 @@
   "handle": "THORN",
   "description": "Thornton Township High Schools District 205",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "207.63.196.0/22"
+    ],
     "ipv6": []
   }
 }

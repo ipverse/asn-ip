@@ -3,7 +3,9 @@
   "handle": "CITY-OF-WATSONVILLE",
   "description": "City of Watsonville",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "198.51.14.0/24"
+    ],
     "ipv6": []
   }
 }

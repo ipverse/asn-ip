@@ -3,7 +3,9 @@
   "handle": "CONTERRA",
   "description": "Conterra",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.114.224.0/19"
+    ],
     "ipv6": []
   }
 }

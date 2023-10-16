@@ -3,7 +3,9 @@
   "handle": "BK-NET-PUB",
   "description": "Burger King Corporation",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "208.71.188.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,10 @@
   "handle": "LOCHEILNET",
   "description": "Comms West Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.72.108.0/23",
+      "185.72.111.0/24"
+    ],
     "ipv6": []
   }
 }

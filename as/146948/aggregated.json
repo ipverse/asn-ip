@@ -3,7 +3,9 @@
   "handle": "RBOGI-AP",
   "description": "Rural Bank of Guinobatan, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.171.249.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "BG-TERACOM",
   "description": "TERACOM EOOD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.209.232.0/22"
+    ],
     "ipv6": []
   }
 }

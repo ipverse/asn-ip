@@ -3,7 +3,9 @@
   "handle": "NET-MAIS-TELECOMUNICAES",
   "description": "NET MAIS TELECOMUNICAES EIRELI - ME",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "138.36.128.0/22"
+    ],
     "ipv6": []
   }
 }

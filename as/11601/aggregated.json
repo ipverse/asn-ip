@@ -3,7 +3,10 @@
   "handle": "PICANOC",
   "description": "Reseau Picanoc.net Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "68.171.64.0/20",
+      "162.223.44.0/22"
+    ],
     "ipv6": []
   }
 }

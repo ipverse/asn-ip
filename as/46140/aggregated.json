@@ -3,7 +3,10 @@
   "handle": "CSI",
   "description": "CAMP SYSTEMS INTERNATIONAL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "63.167.198.0/24",
+      "65.170.122.0/24"
+    ],
     "ipv6": []
   }
 }

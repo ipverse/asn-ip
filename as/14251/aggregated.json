@@ -3,7 +3,10 @@
   "handle": "MLSLI",
   "description": "Multiple Lising Service of Long Island, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "65.223.235.0/24",
+      "69.27.240.0/24"
+    ],
     "ipv6": []
   }
 }

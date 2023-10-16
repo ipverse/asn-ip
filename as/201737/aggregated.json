@@ -3,7 +3,9 @@
   "handle": "PGNIG-ZG-NET",
   "description": "Orlen S.A.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "62.3.17.0/24"
+    ],
     "ipv6": []
   }
 }

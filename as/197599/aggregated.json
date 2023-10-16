@@ -3,7 +3,9 @@
   "handle": "AD",
   "description": "Archidoc S.A",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.223.221.0/24"
+    ],
     "ipv6": []
   }
 }

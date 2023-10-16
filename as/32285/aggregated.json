@@ -3,7 +3,9 @@
   "handle": "HFCC",
   "description": "Henry Ford College",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "50.203.3.0/24"
+    ],
     "ipv6": []
   }
 }

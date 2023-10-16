@@ -3,7 +3,9 @@
   "handle": "IDNIC-HOPNET-ID",
   "description": "PT Hopnet Tunel Integrasi",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.181.78.0/23"
+    ],
     "ipv6": []
   }
 }

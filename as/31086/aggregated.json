@@ -3,7 +3,9 @@
   "handle": "ORTHOFIX",
   "description": "Orthofix S.r.l.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.17.45.0/24"
+    ],
     "ipv6": []
   }
 }

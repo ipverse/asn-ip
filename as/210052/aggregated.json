@@ -3,7 +3,9 @@
   "handle": "IPS",
   "description": "international payment services B.S.C.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "176.118.176.0/22"
+    ],
     "ipv6": []
   }
 }

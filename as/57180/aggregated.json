@@ -3,7 +3,9 @@
   "handle": "STAR-NET-ALBA",
   "description": "Star Net Alba SRL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "93.119.154.0/24"
+    ],
     "ipv6": []
   }
 }

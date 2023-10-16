@@ -3,7 +3,9 @@
   "handle": "ITCS-IBONE-IN-TOUCH-COMPUTER-SERVICES-INC",
   "description": "In-Touch Computer Services, Inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "208.88.24.0/23"
+    ],
     "ipv6": []
   }
 }

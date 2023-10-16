@@ -3,7 +3,9 @@
   "handle": "ABBVIE-1",
   "description": "AbbVie, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "208.71.0.0/22"
+    ],
     "ipv6": []
   }
 }

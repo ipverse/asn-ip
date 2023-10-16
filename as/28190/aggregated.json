@@ -3,7 +3,9 @@
   "handle": "FORTALNET-BUREAU-COMERCIO",
   "description": "FORTALNET BUREAU DE COMERCIO E SERVICOS LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "189.90.16.0/20"
+    ],
     "ipv6": []
   }
 }

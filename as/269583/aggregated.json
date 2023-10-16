@@ -3,7 +3,9 @@
   "handle": "+NET-TELECOM",
   "description": "+NET TELECOM",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.189.124.0/22"
+    ],
     "ipv6": []
   }
 }

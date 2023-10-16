@@ -3,7 +3,9 @@
   "handle": "ECG",
   "description": "JSC EUROCEMENT group",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.186.14.0/24"
+    ],
     "ipv6": []
   }
 }

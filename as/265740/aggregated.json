@@ -3,7 +3,9 @@
   "handle": "VARAS-ALEJANDRA-PAOLA",
   "description": "VARAS ALEJANDRA PAOLA (SURNETWISP)",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "128.201.20.0/22"
+    ],
     "ipv6": []
   }
 }

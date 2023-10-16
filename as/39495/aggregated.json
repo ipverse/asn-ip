@@ -3,7 +3,10 @@
   "handle": "COLIBRI-SOLUTIONS",
   "description": "Xelya SAS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.29.180.0/24",
+      "194.50.29.0/24"
+    ],
     "ipv6": []
   }
 }

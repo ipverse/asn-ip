@@ -3,7 +3,10 @@
   "handle": "CLOUD-ADVICE",
   "description": "CLOUD ADVICE SAS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.116.176.0/22",
+      "194.8.75.0/24"
+    ],
     "ipv6": []
   }
 }

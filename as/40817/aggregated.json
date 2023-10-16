@@ -3,7 +3,11 @@
   "handle": "BMC-AUS",
   "description": "BMC Software, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "198.147.191.0/24",
+      "198.175.230.0/24",
+      "198.207.223.0/24"
+    ],
     "ipv6": []
   }
 }

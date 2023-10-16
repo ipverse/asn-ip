@@ -3,7 +3,9 @@
   "handle": "VIPTURBO-COMRCIO-SERVIOS",
   "description": "VIPTURBO COMRCIO \u0026 SERVIOS DE INFORMTICA LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "191.36.144.0/20"
+    ],
     "ipv6": []
   }
 }

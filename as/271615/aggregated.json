@@ -3,7 +3,11 @@
   "handle": "WRENET-TELECOMUNICACOES",
   "description": "WRENET TELECOMUNICACOES",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "177.39.96.0/22"
+    ],
+    "ipv6": [
+      "2804:7e4c::/32"
+    ]
   }
 }

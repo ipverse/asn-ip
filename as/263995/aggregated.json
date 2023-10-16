@@ -3,7 +3,12 @@
   "handle": "LINK-BRASIL",
   "description": "LINK BRASIL LTDA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "138.255.228.0/22"
+    ],
+    "ipv6": [
+      "2804:2910:10::/44",
+      "2804:2910:20::/44"
+    ]
   }
 }

@@ -3,7 +3,9 @@
   "handle": "FYODOROV",
   "description": "TV company KESKO Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.62.78.0/23"
+    ],
     "ipv6": []
   }
 }

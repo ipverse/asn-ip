@@ -3,7 +3,9 @@
   "handle": "AXNET",
   "description": "VOIZACOM (PTY) LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "102.131.20.0/22"
+    ],
     "ipv6": []
   }
 }

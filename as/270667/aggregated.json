@@ -3,7 +3,11 @@
   "handle": "CLEBER-AUGUSTO-GORLACH",
   "description": "Cleber Augusto Gorlach",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "177.10.132.0/22"
+    ],
+    "ipv6": [
+      "2804:6f88::/32"
+    ]
   }
 }

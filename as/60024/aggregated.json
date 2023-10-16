@@ -3,7 +3,10 @@
   "handle": "CEDOC",
   "description": "HK CEDOC LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.59.224.0/22",
+      "38.59.232.0/21"
+    ],
     "ipv6": []
   }
 }

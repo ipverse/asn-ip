@@ -3,7 +3,11 @@
   "handle": "KAZNIC",
   "description": "KazNIC Organization",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "91.228.39.0/24"
+    ],
+    "ipv6": [
+      "2a01:7640:400::/48"
+    ]
   }
 }

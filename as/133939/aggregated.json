@@ -3,7 +3,9 @@
   "handle": "NGSSUPER-AP",
   "description": "NGS Super Pty Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.49.18.0/24"
+    ],
     "ipv6": []
   }
 }

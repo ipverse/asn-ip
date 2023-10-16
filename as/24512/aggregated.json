@@ -3,7 +3,9 @@
   "handle": "HAL-INTERNET",
   "description": "Will Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "202.180.56.0/21"
+    ],
     "ipv6": []
   }
 }

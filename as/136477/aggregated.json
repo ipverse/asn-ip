@@ -3,7 +3,11 @@
   "handle": "PSNPL-AP",
   "description": "P.D.S. Server Network Pvt. Ltd.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "103.89.156.0/22"
+    ],
+    "ipv6": [
+      "2400:f0c0::/32"
+    ]
   }
 }

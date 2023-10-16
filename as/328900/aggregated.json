@@ -3,7 +3,9 @@
   "handle": "TORL",
   "description": "Takealot Online RF (Pty) Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "102.219.48.0/22"
+    ],
     "ipv6": []
   }
 }

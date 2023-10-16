@@ -3,7 +3,10 @@
   "handle": "RNETWORKS",
   "description": "rNetworks, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "64.112.52.0/22",
+      "204.16.46.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "MINC",
   "description": "Minaminihon Information Processing Center Co Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "61.205.64.0/20"
+    ],
     "ipv6": []
   }
 }

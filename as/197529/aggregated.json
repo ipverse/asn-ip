@@ -3,7 +3,12 @@
   "handle": "EMIZON",
   "description": "CSL (DualCom) Limited",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "46.226.73.0/24",
+      "185.176.124.0/22"
+    ],
+    "ipv6": [
+      "2a00:5a00::/32"
+    ]
   }
 }

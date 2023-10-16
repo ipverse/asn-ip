@@ -3,7 +3,9 @@
   "handle": "HISTOPATHOLOGY",
   "description": "Histopathology Services, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.27.68.0/24"
+    ],
     "ipv6": []
   }
 }

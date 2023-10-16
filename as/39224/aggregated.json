@@ -3,7 +3,9 @@
   "handle": "FASTBIT",
   "description": "FASTBIT SRL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.253.252.0/22"
+    ],
     "ipv6": []
   }
 }

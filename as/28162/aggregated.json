@@ -3,7 +3,9 @@
   "handle": "G6-INTERNET",
   "description": "G6 Internet",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "186.250.192.0/20"
+    ],
     "ipv6": []
   }
 }

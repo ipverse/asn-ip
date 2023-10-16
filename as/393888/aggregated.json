@@ -3,7 +3,9 @@
   "handle": "SQUAR-12-1",
   "description": "SQUARETRADE, INC.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.139.3.0/24"
+    ],
     "ipv6": []
   }
 }

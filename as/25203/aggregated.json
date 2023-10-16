@@ -3,7 +3,9 @@
   "handle": "SIMFINET",
   "description": "Inkom Plus Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.234.200.0/22"
+    ],
     "ipv6": []
   }
 }

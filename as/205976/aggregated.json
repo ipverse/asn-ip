@@ -3,7 +3,11 @@
   "handle": "INNIT",
   "description": "Arribatec Cloud AS",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "185.195.140.0/22"
+    ],
+    "ipv6": [
+      "2a0a:5c40::/29"
+    ]
   }
 }

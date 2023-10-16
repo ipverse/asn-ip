@@ -3,7 +3,10 @@
   "handle": "CERIDIAN-CANADA",
   "description": "Ceridian Canada Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "170.153.104.0/22",
+      "170.153.124.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "UK-MDSCEM",
   "description": "MDS Global Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.108.132.0/22"
+    ],
     "ipv6": []
   }
 }

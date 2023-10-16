@@ -3,7 +3,9 @@
   "handle": "NECS",
   "description": "North of England Commissioning Support Unit",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "213.226.88.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,11 @@
   "handle": "ASWORLDPAY",
   "description": "WorldPay (UK) Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.41.220.0/23",
+      "195.35.90.0/23",
+      "195.74.83.0/24"
+    ],
     "ipv6": []
   }
 }

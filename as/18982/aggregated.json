@@ -3,7 +3,12 @@
   "handle": "ONENECK-IT-SOLUTIONS-DEN",
   "description": "OneNeck IT Services",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "147.202.64.0/21",
+      "147.202.80.0/21"
+    ],
+    "ipv6": [
+      "2001:18c8:700::/40"
+    ]
   }
 }

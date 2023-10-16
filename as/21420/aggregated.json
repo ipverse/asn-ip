@@ -3,7 +3,9 @@
   "handle": "SWEDBANK",
   "description": "Swedbank, AB",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.109.235.0/24"
+    ],
     "ipv6": []
   }
 }

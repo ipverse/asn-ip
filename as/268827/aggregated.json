@@ -3,7 +3,11 @@
   "handle": "MORAIS-VALE-GM-NET",
   "description": "MORAIS \u0026 VALE GM NET LTDA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.171.56.0/22"
+    ],
+    "ipv6": [
+      "2804:5b34::/32"
+    ]
   }
 }

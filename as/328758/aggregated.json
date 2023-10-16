@@ -3,7 +3,9 @@
   "handle": "RA-CONSULTING-SERVICES",
   "description": "R A Consulting Services (Pty) Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "102.221.182.0/24"
+    ],
     "ipv6": []
   }
 }

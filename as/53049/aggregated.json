@@ -3,7 +3,11 @@
   "handle": "IOLNET-TELECOM",
   "description": "IOLNET Telecom",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "200.142.184.0/22"
+    ],
+    "ipv6": [
+      "2804:18c4::/32"
+    ]
   }
 }

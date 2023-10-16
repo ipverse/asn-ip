@@ -3,7 +3,12 @@
   "handle": "PTI-TELECOMUNICACOES-EIRELI",
   "description": "PTI TELECOMUNICACOES EIRELI",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "168.228.76.0/22",
+      "186.250.60.0/22"
+    ],
+    "ipv6": [
+      "2804:7534::/32"
+    ]
   }
 }

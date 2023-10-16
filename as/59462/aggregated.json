@@ -3,7 +3,10 @@
   "handle": "COMWAY",
   "description": "Comway Telecommunication SRL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.22.231.0/24",
+      "185.150.16.0/24"
+    ],
     "ipv6": []
   }
 }

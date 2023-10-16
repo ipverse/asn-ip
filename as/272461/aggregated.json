@@ -4,6 +4,8 @@
   "description": "MKS CONNECT COMUNICACAO E MULTIMIDIA LTDA",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2804:818c::/32"
+    ]
   }
 }

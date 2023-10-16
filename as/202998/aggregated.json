@@ -3,7 +3,9 @@
   "handle": "GONET",
   "description": "MyFatDigital Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.24.232.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "NETMANAGEMENT-INFORMTICA",
   "description": "Netmanagement Informtica ltda",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.7.168.0/22"
+    ],
     "ipv6": []
   }
 }

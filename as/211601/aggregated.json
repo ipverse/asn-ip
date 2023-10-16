@@ -3,7 +3,9 @@
   "handle": "CLOUDPOS",
   "description": "Syntax Bvba",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.237.164.0/24"
+    ],
     "ipv6": []
   }
 }

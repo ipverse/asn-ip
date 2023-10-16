@@ -3,7 +3,11 @@
   "handle": "KAMARLIMITED-AP",
   "description": "KAMAR Limited",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "103.158.176.0/24"
+    ],
+    "ipv6": [
+      "2001:df5:5e80::/48"
+    ]
   }
 }

@@ -3,7 +3,9 @@
   "handle": "IMAX",
   "description": "IST TELEKOM LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "94.141.64.0/19"
+    ],
     "ipv6": []
   }
 }

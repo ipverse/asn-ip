@@ -3,7 +3,11 @@
   "handle": "JEWELERS",
   "description": "Jewelers Mutual Insurance Company",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "24.106.3.0/24",
+      "64.215.7.0/24",
+      "71.66.175.0/24"
+    ],
     "ipv6": []
   }
 }

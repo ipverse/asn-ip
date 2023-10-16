@@ -3,7 +3,9 @@
   "handle": "NO",
   "description": "Whole Sale",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "74.118.58.0/24"
+    ],
     "ipv6": []
   }
 }

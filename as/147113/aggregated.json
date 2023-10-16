@@ -3,7 +3,10 @@
   "handle": "IDNIC-NETEKSA-ID",
   "description": "PT Eyza Kausa Sinergi Abadi",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.173.72.0/24",
+      "103.177.199.0/24"
+    ],
     "ipv6": []
   }
 }

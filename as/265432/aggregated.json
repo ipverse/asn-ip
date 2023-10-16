@@ -3,7 +3,12 @@
   "handle": "OPTY-INTERNET",
   "description": "Opty Internet Ltda",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "168.195.208.0/23",
+      "168.195.211.0/24"
+    ],
+    "ipv6": [
+      "2804:3408::/32"
+    ]
   }
 }

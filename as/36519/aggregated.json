@@ -3,7 +3,9 @@
   "handle": "CISCO-EG-US-XAAS",
   "description": "CISCO SYSTEMS, INC.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.135.240.0/22"
+    ],
     "ipv6": []
   }
 }

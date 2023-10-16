@@ -3,7 +3,9 @@
   "handle": "DEDICA-BRASIL-INTERNET",
   "description": "DEDICA BRASIL INTERNET LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "191.6.224.0/21"
+    ],
     "ipv6": []
   }
 }

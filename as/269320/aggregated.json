@@ -3,7 +3,11 @@
   "handle": "R-M-TELECOM",
   "description": "R M TELECOM LTDA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.184.64.0/22"
+    ],
+    "ipv6": [
+      "2804:62d0::/32"
+    ]
   }
 }

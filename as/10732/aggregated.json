@@ -3,7 +3,12 @@
   "handle": "TIERRANET",
   "description": "TierraNet Inc.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "209.240.128.0/19",
+      "216.104.160.0/19"
+    ],
+    "ipv6": [
+      "2606:1400::/32"
+    ]
   }
 }

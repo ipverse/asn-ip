@@ -3,7 +3,9 @@
   "handle": "INETHD",
   "description": "INETHD Pawel Urban",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.237.77.0/24"
+    ],
     "ipv6": []
   }
 }

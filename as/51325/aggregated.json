@@ -3,7 +3,9 @@
   "handle": "ROMASTRU",
   "description": "Romastru Trading SRL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.226.214.0/24"
+    ],
     "ipv6": []
   }
 }

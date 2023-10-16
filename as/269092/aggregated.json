@@ -3,7 +3,11 @@
   "handle": "JPNET-SERVICOS-INFORMATICA",
   "description": "JPNET SERVICOS DE INFORMATICA E TELECOMUNICACOES L",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.179.168.0/22"
+    ],
+    "ipv6": [
+      "2804:5f54::/32"
+    ]
   }
 }

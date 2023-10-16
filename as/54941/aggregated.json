@@ -3,7 +3,9 @@
   "handle": "NETWORK-01",
   "description": "St Mary\u0027s University",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.216.150.0/24"
+    ],
     "ipv6": []
   }
 }

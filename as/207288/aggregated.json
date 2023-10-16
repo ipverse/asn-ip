@@ -3,7 +3,9 @@
   "handle": "TOLEDO",
   "description": "Trading House Toledo Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "141.101.223.0/24"
+    ],
     "ipv6": []
   }
 }

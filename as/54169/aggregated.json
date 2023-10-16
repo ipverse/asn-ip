@@ -3,7 +3,10 @@
   "handle": "MGH-ION-1",
   "description": "Marin General Hospital",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "8.25.206.0/24",
+      "204.80.242.0/24"
+    ],
     "ipv6": []
   }
 }

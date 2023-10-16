@@ -3,7 +3,10 @@
   "handle": "IPDISTR",
   "description": "IP Connect Inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.93.166.0/23",
+      "164.215.99.0/24"
+    ],
     "ipv6": []
   }
 }

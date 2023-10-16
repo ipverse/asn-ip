@@ -3,7 +3,9 @@
   "handle": "GRANDPROM",
   "description": "Atlantic Grand",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "93.190.160.0/21"
+    ],
     "ipv6": []
   }
 }

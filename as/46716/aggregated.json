@@ -3,7 +3,9 @@
   "handle": "CROOK-COUNTY-OREGON",
   "description": "Crook County Oregon",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "198.163.255.0/24"
+    ],
     "ipv6": []
   }
 }

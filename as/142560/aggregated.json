@@ -3,7 +3,9 @@
   "handle": "VDC-AP",
   "description": "Vega Dior Company Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.25.104.0/24"
+    ],
     "ipv6": []
   }
 }

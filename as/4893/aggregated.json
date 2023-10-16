@@ -3,7 +3,9 @@
   "handle": "RGM-ASN-1",
   "description": "DRW Holdings, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "74.119.40.0/24"
+    ],
     "ipv6": []
   }
 }

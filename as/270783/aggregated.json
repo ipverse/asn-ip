@@ -3,7 +3,9 @@
   "handle": "ABN-TURBONET",
   "description": "ABN TURBONET",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "177.131.136.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "SEQUOIA",
   "description": "Sequoia Capital",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "12.226.91.0/24"
+    ],
     "ipv6": []
   }
 }

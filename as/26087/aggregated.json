@@ -3,7 +3,9 @@
   "handle": "GARDNER-WEBB",
   "description": "Gardner-Webb University",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "152.44.88.0/21"
+    ],
     "ipv6": []
   }
 }

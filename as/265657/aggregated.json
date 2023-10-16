@@ -3,7 +3,9 @@
   "handle": "SERVICABLE",
   "description": "SERVICABLE CIA. LTDA.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "170.246.84.0/22"
+    ],
     "ipv6": []
   }
 }

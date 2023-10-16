@@ -3,7 +3,9 @@
   "handle": "TAU",
   "description": "Taubyte Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.245.176.0/24"
+    ],
     "ipv6": []
   }
 }

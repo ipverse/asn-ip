@@ -3,7 +3,10 @@
   "handle": "PENNWISP",
   "description": "Penn Wisp, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "162.217.128.0/22",
+      "204.16.44.0/23"
+    ],
     "ipv6": []
   }
 }

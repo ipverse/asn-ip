@@ -3,7 +3,9 @@
   "handle": "NN-KBKA",
   "description": "JSC Tavrida Electrik GC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.230.112.0/24"
+    ],
     "ipv6": []
   }
 }

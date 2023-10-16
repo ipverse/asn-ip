@@ -3,7 +3,11 @@
   "handle": "MEDIATRIBELIMITED-AP",
   "description": "Mediatribe Limited",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "103.250.116.0/22"
+    ],
+    "ipv6": [
+      "2400:e780::/32"
+    ]
   }
 }

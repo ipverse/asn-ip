@@ -3,7 +3,9 @@
   "handle": "MEGADATA",
   "description": "SC Megadata SRL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.250.59.0/24"
+    ],
     "ipv6": []
   }
 }

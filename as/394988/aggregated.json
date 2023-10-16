@@ -3,7 +3,9 @@
   "handle": "FLCC",
   "description": "Finger Lakes Community College",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.156.234.0/24"
+    ],
     "ipv6": []
   }
 }

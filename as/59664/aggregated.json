@@ -3,7 +3,9 @@
   "handle": "ASOPTON",
   "description": "Opton s.r.o.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "176.124.184.0/22"
+    ],
     "ipv6": []
   }
 }

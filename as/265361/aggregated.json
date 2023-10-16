@@ -3,7 +3,9 @@
   "handle": "DOXX-INTERNET-BANDA",
   "description": "Doxx Internet Banda Larga LTDA-ME",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "168.205.12.0/22"
+    ],
     "ipv6": []
   }
 }

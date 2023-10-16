@@ -3,7 +3,9 @@
   "handle": "INET-PLC",
   "description": "NUSO CLOUD UK LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.38.228.0/22"
+    ],
     "ipv6": []
   }
 }

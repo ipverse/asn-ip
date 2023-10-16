@@ -3,7 +3,9 @@
   "handle": "WEBER-COUNTY-01",
   "description": "WEBER COUNTY",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "204.152.132.0/23"
+    ],
     "ipv6": []
   }
 }

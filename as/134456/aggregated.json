@@ -3,7 +3,9 @@
   "handle": "ACAPL-AP",
   "description": "Akuna Capital Australia Pty Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.160.60.0/23"
+    ],
     "ipv6": []
   }
 }

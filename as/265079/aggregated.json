@@ -3,7 +3,9 @@
   "handle": "POP-BRASIL-TELECOMUNICACOES",
   "description": "POP BRASIL TELECOMUNICACOES LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "170.233.136.0/22"
+    ],
     "ipv6": []
   }
 }

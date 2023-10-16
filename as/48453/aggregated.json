@@ -3,7 +3,9 @@
   "handle": "CNETWORK",
   "description": "CNETWORK SRL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "85.122.52.0/22"
+    ],
     "ipv6": []
   }
 }

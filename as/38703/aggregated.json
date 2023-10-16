@@ -3,7 +3,9 @@
   "handle": "KTB",
   "description": "KTBnetwork Co., Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "61.103.49.0/24"
+    ],
     "ipv6": []
   }
 }

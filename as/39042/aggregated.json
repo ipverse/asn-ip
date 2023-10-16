@@ -3,7 +3,9 @@
   "handle": "GLOBAL63RU",
   "description": "LLC Global Telecom Co",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "80.252.16.0/20"
+    ],
     "ipv6": []
   }
 }

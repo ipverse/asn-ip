@@ -3,7 +3,9 @@
   "handle": "BWIZ",
   "description": "B-WIZ Technology",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "61.57.240.0/20"
+    ],
     "ipv6": []
   }
 }

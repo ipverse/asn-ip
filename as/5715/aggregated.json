@@ -3,7 +3,9 @@
   "handle": "ONVOY",
   "description": "Inteliquent, inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "206.147.142.0/24"
+    ],
     "ipv6": []
   }
 }

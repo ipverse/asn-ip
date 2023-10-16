@@ -3,7 +3,9 @@
   "handle": "YESBANK-IN",
   "description": "Yes Bank Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "123.136.16.0/21"
+    ],
     "ipv6": []
   }
 }

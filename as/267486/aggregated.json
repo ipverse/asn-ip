@@ -3,7 +3,9 @@
   "handle": "MARIA-FATIMA-SILVA",
   "description": "MARIA DE FATIMA SILVA MARCELINO LIMA ME",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.141.132.0/22"
+    ],
     "ipv6": []
   }
 }

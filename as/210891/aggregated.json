@@ -3,7 +3,9 @@
   "handle": "INTERPARFUMS",
   "description": "Interparfums SA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "83.97.75.0/24"
+    ],
     "ipv6": []
   }
 }

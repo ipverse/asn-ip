@@ -3,7 +3,9 @@
   "handle": "PDV-SACHSEN",
   "description": "pdv-systeme Sachsen GmbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "89.28.240.0/21"
+    ],
     "ipv6": []
   }
 }

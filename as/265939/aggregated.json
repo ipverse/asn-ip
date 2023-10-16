@@ -3,7 +3,9 @@
   "handle": "TRIBUNAL-REGIONAL-TRABALHO",
   "description": "TRIBUNAL REGIONAL DO TRABALHO DA 16A. REGIAO",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "164.163.5.0/24"
+    ],
     "ipv6": []
   }
 }

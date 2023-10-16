@@ -3,7 +3,9 @@
   "handle": "CPA-AUSTRALIA-AP",
   "description": "CPA Australia",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "203.190.252.0/23"
+    ],
     "ipv6": []
   }
 }

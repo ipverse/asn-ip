@@ -3,7 +3,11 @@
   "handle": "CONVEX-INTERNET-SOLUTIONS",
   "description": "Convex Internet Solutions",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "200.152.176.0/20"
+    ],
+    "ipv6": [
+      "2804:998::/32"
+    ]
   }
 }

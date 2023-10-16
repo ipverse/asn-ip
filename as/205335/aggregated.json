@@ -3,7 +3,9 @@
   "handle": "PTT",
   "description": "Posta ve Telgraf Teskilati Anonim Sirketi",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.220.152.0/22"
+    ],
     "ipv6": []
   }
 }

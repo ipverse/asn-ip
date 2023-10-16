@@ -3,7 +3,9 @@
   "handle": "FARR-FIN",
   "description": "Certigo, Inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "208.95.248.0/22"
+    ],
     "ipv6": []
   }
 }

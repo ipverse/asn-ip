@@ -3,7 +3,11 @@
   "handle": "K-NET-COMUNICAES-EIRELI",
   "description": "K NET COMUNICAES EIRELI",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.171.204.0/22"
+    ],
+    "ipv6": [
+      "2804:5a74::/32"
+    ]
   }
 }

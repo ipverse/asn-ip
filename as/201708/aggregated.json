@@ -3,7 +3,9 @@
   "handle": "RAIFFEISEN-AL",
   "description": "RAIFFEISEN BANK SH.A",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.62.172.0/23"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "IMNCL-AP",
   "description": "Internet Maekhong Network Company Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.129.76.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "EGETRA-ROMANIA-SA",
   "description": "EGETRA ROMANIA SA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "85.121.138.0/24"
+    ],
     "ipv6": []
   }
 }

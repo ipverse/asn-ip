@@ -3,7 +3,10 @@
   "handle": "FIBRENET",
   "description": "Fibrenet Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "82.117.78.0/23",
+      "91.211.236.0/22"
+    ],
     "ipv6": []
   }
 }

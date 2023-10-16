@@ -3,7 +3,10 @@
   "handle": "SOK",
   "description": "SOK, SIA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.199.86.0/24",
+      "176.103.185.0/24"
+    ],
     "ipv6": []
   }
 }

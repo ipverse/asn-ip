@@ -3,7 +3,9 @@
   "handle": "DOUGLAS-RIBEIRO-OLIVEIRA",
   "description": "DOUGLAS RIBEIRO DE OLIVEIRA 10789492636",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.179.8.0/22"
+    ],
     "ipv6": []
   }
 }

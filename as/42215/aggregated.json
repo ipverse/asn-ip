@@ -3,7 +3,9 @@
   "handle": "SHZ",
   "description": "medien holding:nord gmbh",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "77.72.8.0/21"
+    ],
     "ipv6": []
   }
 }

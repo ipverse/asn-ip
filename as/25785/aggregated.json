@@ -3,7 +3,10 @@
   "handle": "REDL-1",
   "description": "Real Estate Digital LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "174.46.238.0/24",
+      "208.93.240.0/24"
+    ],
     "ipv6": []
   }
 }

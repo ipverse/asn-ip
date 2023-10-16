@@ -3,7 +3,11 @@
   "handle": "JETAS",
   "description": "JetTelecom sistemas S.L.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "5.59.238.0/23",
+      "185.238.85.0/24",
+      "185.238.86.0/24"
+    ],
     "ipv6": []
   }
 }

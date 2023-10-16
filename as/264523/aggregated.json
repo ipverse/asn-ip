@@ -3,7 +3,11 @@
   "handle": "KINEMA-ILHA-INFORMTICA",
   "description": "Kinema da Ilha Informtica e Tecnologia Ltda.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "131.255.72.0/22"
+    ],
+    "ipv6": [
+      "2804:20f4::/32"
+    ]
   }
 }

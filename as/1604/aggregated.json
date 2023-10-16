@@ -3,7 +3,9 @@
   "handle": "TBCDSB",
   "description": "TBCDSB",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "205.207.71.0/24"
+    ],
     "ipv6": []
   }
 }

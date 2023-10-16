@@ -3,7 +3,9 @@
   "handle": "PROMEGA",
   "description": "PROMEGA CORPORATION",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "208.86.232.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "COMPASS",
   "description": "EXAWARE ROUTING LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.150.219.0/24"
+    ],
     "ipv6": []
   }
 }

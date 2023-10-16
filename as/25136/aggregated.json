@@ -3,7 +3,9 @@
   "handle": "PORTIMA",
   "description": "Portima",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "212.79.64.0/19"
+    ],
     "ipv6": []
   }
 }

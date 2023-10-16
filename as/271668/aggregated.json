@@ -3,7 +3,11 @@
   "handle": "REDESUB-SERVIOS-INTERNET",
   "description": "REDESUB SERVIOS \u0026 INTERNET LTDA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "143.0.243.0/24"
+    ],
+    "ipv6": [
+      "2804:7f20::/32"
+    ]
   }
 }

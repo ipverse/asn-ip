@@ -3,7 +3,9 @@
   "handle": "HALFMOONINN-GUEST-INTERNET",
   "description": "Humphreys Half Moon Inn \u0026 Suites",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.126.70.0/23"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,11 @@
   "handle": "LIVERTON-NZ",
   "description": "Liverton Limited",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "202.160.48.0/20"
+    ],
+    "ipv6": [
+      "2400:b400::/32"
+    ]
   }
 }

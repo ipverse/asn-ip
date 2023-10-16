@@ -3,7 +3,9 @@
   "handle": "TR-QUICK",
   "description": "Quick Sigorta A.S.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.170.156.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "BGTRANSGAS",
   "description": "Bulgartransgaz EAD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "93.94.139.0/24"
+    ],
     "ipv6": []
   }
 }

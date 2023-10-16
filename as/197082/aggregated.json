@@ -3,7 +3,10 @@
   "handle": "ZUERS-AT",
   "description": "Zuers.net Betriebs GmbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.217.225.0/24",
+      "185.75.216.0/22"
+    ],
     "ipv6": []
   }
 }

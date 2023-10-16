@@ -3,7 +3,9 @@
   "handle": "CARVANA",
   "description": "Carvana",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "8.44.246.0/24"
+    ],
     "ipv6": []
   }
 }

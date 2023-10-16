@@ -3,7 +3,11 @@
   "handle": "RETVO",
   "description": "100 DERECE BILISIM A.S.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "94.142.254.0/24"
+    ],
+    "ipv6": [
+      "2a12:5c40::/46"
+    ]
   }
 }

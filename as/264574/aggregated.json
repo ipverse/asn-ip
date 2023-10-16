@@ -3,7 +3,13 @@
   "handle": "ELITE-TELECOMUNICAOES",
   "description": "Elite Telecomunicaoes LTDA ME",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "138.36.108.0/24",
+      "138.36.110.0/23",
+      "138.255.136.0/22"
+    ],
+    "ipv6": [
+      "2804:21cc:8000::/33"
+    ]
   }
 }

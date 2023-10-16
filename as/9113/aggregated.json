@@ -3,7 +3,11 @@
   "handle": "VLANT",
   "description": "VLANT LLC",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "77.236.32.0/19"
+    ],
+    "ipv6": [
+      "2a01:548::/32"
+    ]
   }
 }

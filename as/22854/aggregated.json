@@ -3,7 +3,9 @@
   "handle": "CATAWBA-COLLEGE",
   "description": "Catawba College",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "152.41.128.0/17"
+    ],
     "ipv6": []
   }
 }

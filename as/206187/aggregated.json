@@ -3,7 +3,10 @@
   "handle": "DIA",
   "description": "Interactive Investor Services Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.194.40.0/23",
+      "185.194.42.0/24"
+    ],
     "ipv6": []
   }
 }

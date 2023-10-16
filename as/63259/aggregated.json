@@ -3,7 +3,9 @@
   "handle": "WCAPITAL",
   "description": "W Capital Management, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "142.105.65.0/24"
+    ],
     "ipv6": []
   }
 }

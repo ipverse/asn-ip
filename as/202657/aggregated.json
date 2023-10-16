@@ -3,7 +3,11 @@
   "handle": "HNOJNIK",
   "description": "Pavel Jochim",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "185.158.64.0/22"
+    ],
+    "ipv6": [
+      "2a07:aa80::/29"
+    ]
   }
 }

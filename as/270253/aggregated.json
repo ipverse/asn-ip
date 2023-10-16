@@ -3,7 +3,11 @@
   "handle": "SICONECT-TELECOMUNICACOES-EIRELI",
   "description": "SICONECT TELECOMUNICACOES EIRELI",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "200.110.204.0/22"
+    ],
+    "ipv6": [
+      "2804:692c::/32"
+    ]
   }
 }

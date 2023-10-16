@@ -3,7 +3,12 @@
   "handle": "JPA-TELECOM",
   "description": "JPA Telecom",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "186.26.76.0/23",
+      "186.26.78.0/24"
+    ],
+    "ipv6": [
+      "2804:7394:8000::/33"
+    ]
   }
 }

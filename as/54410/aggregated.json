@@ -3,7 +3,9 @@
   "handle": "BDHS",
   "description": "Bozeman Deaconess Health Services",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "205.166.158.0/24"
+    ],
     "ipv6": []
   }
 }

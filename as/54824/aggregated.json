@@ -3,7 +3,9 @@
   "handle": "ITSINC-SHAZAMNETWORK",
   "description": "ITS, INC.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.103.108.0/24"
+    ],
     "ipv6": []
   }
 }

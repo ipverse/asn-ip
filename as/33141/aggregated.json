@@ -3,7 +3,10 @@
   "handle": "NOCSERVICES",
   "description": "NOC SERVICES CORP.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "24.38.20.0/24",
+      "204.89.218.0/24"
+    ],
     "ipv6": []
   }
 }

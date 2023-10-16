@@ -3,7 +3,11 @@
   "handle": "JOS-WILLIAMS-SILVA-SANTOS",
   "description": "Jos Williams da Silva Santos - ME",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.181.8.0/22"
+    ],
+    "ipv6": [
+      "2804:6050::/32"
+    ]
   }
 }

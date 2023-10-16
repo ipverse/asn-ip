@@ -3,7 +3,9 @@
   "handle": "OWENS-CORNING-EU",
   "description": "OCV CHAMBERY INTERNATIONAL SAS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.223.55.0/24"
+    ],
     "ipv6": []
   }
 }

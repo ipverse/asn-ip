@@ -3,7 +3,11 @@
   "handle": "DNS-TELECOM",
   "description": "DNS TELECOM LTDA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "24.152.84.0/22"
+    ],
+    "ipv6": [
+      "2804:6cbc::/32"
+    ]
   }
 }

@@ -3,7 +3,9 @@
   "handle": "DRESDNERHK-AP",
   "description": "Dresdner Kleinwort Wasserstein Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.108.192.0/24"
+    ],
     "ipv6": []
   }
 }

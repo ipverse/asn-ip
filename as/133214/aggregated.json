@@ -3,7 +3,9 @@
   "handle": "THREE-ID",
   "description": "PT. CILLA BENAYA PRIMA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "116.206.34.0/24"
+    ],
     "ipv6": []
   }
 }

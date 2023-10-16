@@ -3,7 +3,11 @@
   "handle": "OBERCOM",
   "description": "OBERCOM S.R.L.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.228.188.0/22"
+    ],
+    "ipv6": [
+      "2803:a920::/32"
+    ]
   }
 }

@@ -3,7 +3,9 @@
   "handle": "PIERRE-ET-VACANCES",
   "description": "GIE PVCP Services",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.242.136.0/24"
+    ],
     "ipv6": []
   }
 }

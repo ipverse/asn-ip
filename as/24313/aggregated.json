@@ -3,7 +3,9 @@
   "handle": "NSW-DET",
   "description": "NSW Department of Education",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "153.107.0.0/16"
+    ],
     "ipv6": []
   }
 }

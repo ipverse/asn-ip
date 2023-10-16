@@ -3,7 +3,10 @@
   "handle": "NMCL-AP",
   "description": "NTT MYANMAR CO., LTD.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "59.153.108.0/22",
+      "103.198.148.0/22"
+    ],
     "ipv6": []
   }
 }

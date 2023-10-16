@@ -3,7 +3,9 @@
   "handle": "HARVESTELECTRONICS-AP",
   "description": "Harvest Electronics NZ Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "202.74.38.0/24"
+    ],
     "ipv6": []
   }
 }

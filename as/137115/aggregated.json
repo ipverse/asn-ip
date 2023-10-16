@@ -3,7 +3,9 @@
   "handle": "IFTASNW1-IN",
   "description": "Indian Financial Technology And Allied Services",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.110.186.0/23"
+    ],
     "ipv6": []
   }
 }

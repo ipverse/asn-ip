@@ -3,7 +3,9 @@
   "handle": "REDREPLY",
   "description": "Riverland Reply GmbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.222.204.0/22"
+    ],
     "ipv6": []
   }
 }

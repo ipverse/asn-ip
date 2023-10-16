@@ -3,7 +3,10 @@
   "handle": "I-KOCHI",
   "description": "Kochi Systems Co., Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "202.254.164.0/22",
+      "210.158.176.0/20"
+    ],
     "ipv6": []
   }
 }

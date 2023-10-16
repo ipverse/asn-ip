@@ -3,7 +3,9 @@
   "handle": "THECULVERSTUDIOS",
   "description": "The Culver Studios",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "148.59.196.0/23"
+    ],
     "ipv6": []
   }
 }

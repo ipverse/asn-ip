@@ -3,7 +3,10 @@
   "handle": "VITRINATV",
   "description": "Vitrina TV LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.27.224.0/24",
+      "195.216.153.0/24"
+    ],
     "ipv6": []
   }
 }

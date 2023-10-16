@@ -3,7 +3,9 @@
   "handle": "SPA-2001NETWORK",
   "description": "Systems Planning and Analysis, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "72.210.26.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,10 @@
   "handle": "HOISTGROUP-GVA",
   "description": "HoistGroup SA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "83.97.124.0/22",
+      "193.22.171.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,11 @@
   "handle": "NETCOMET-COMRCIO-SERVIOS",
   "description": "NETCOMET Comrcio e Servios Ltda.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "177.128.240.0/21"
+    ],
+    "ipv6": [
+      "2804:89c::/32"
+    ]
   }
 }

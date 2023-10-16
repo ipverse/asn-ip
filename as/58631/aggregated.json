@@ -3,7 +3,12 @@
   "handle": "VISTA-AP",
   "description": "Vista Entertainment Solutions Ltd.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "103.5.28.0/24"
+    ],
+    "ipv6": [
+      "2001:df0:247::/48",
+      "2400:c760:2::/48"
+    ]
   }
 }

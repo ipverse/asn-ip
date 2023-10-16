@@ -3,7 +3,9 @@
   "handle": "SPRINGS",
   "description": "Springs Industries, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "166.126.0.0/16"
+    ],
     "ipv6": []
   }
 }

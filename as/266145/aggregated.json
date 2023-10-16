@@ -3,7 +3,9 @@
   "handle": "NOVA-TECNOLOGIA",
   "description": "NOVA TECNOLOGIA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "179.51.248.0/22"
+    ],
     "ipv6": []
   }
 }

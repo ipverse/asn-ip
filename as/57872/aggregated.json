@@ -3,7 +3,9 @@
   "handle": "PHOENIXNAP-EU",
   "description": "PHOENIX NAP, LLC.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "37.140.232.0/21"
+    ],
     "ipv6": []
   }
 }

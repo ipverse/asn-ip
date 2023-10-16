@@ -3,7 +3,9 @@
   "handle": "CROSIG-HR",
   "description": "Croatia Osiguranje",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.223.29.0/24"
+    ],
     "ipv6": []
   }
 }

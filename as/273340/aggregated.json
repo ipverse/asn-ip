@@ -4,6 +4,8 @@
   "description": "Celnet Internet Provider",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2804:8d2c::/32"
+    ]
   }
 }

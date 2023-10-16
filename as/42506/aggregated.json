@@ -3,7 +3,9 @@
   "handle": "PPU",
   "description": "Palestine Polytechnic University (PPU)",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.3.188.0/22"
+    ],
     "ipv6": []
   }
 }

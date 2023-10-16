@@ -3,7 +3,9 @@
   "handle": "PCTN-AP",
   "description": "Paradise Cable Television Network",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.137.178.0/23"
+    ],
     "ipv6": []
   }
 }

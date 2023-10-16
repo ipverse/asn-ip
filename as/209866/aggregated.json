@@ -3,7 +3,10 @@
   "handle": "VINFORTALIA",
   "description": "VINFORTALIA SL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "86.62.21.0/24",
+      "86.62.22.0/23"
+    ],
     "ipv6": []
   }
 }

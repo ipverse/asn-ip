@@ -3,7 +3,9 @@
   "handle": "BIGMIR-INTERNET",
   "description": "LLC Digital Ventures",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.239.68.0/22"
+    ],
     "ipv6": []
   }
 }

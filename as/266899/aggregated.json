@@ -3,7 +3,9 @@
   "handle": "TARJETA-NARANJA",
   "description": "Tarjeta Naranja S.A",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.162.125.0/24"
+    ],
     "ipv6": []
   }
 }

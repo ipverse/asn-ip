@@ -3,7 +3,10 @@
   "handle": "ALMIRALL",
   "description": "Almirall SA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "62.22.35.0/24",
+      "62.22.79.0/24"
+    ],
     "ipv6": []
   }
 }

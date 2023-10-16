@@ -3,7 +3,9 @@
   "handle": "UNIFARM",
   "description": "Unifarm S.p.A. Unione Farmacisti Trentino - Alto Adige",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.82.132.0/22"
+    ],
     "ipv6": []
   }
 }

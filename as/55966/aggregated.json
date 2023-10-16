@@ -3,7 +3,9 @@
   "handle": "PSBCNET",
   "description": "Post Savings Bank of China Tower A, No.3",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.22.252.0/22"
+    ],
     "ipv6": [
       "2402:b8c0::/32"
     ]

@@ -3,7 +3,9 @@
   "handle": "AMARNATHINTERNETSOLUTION-IN",
   "description": "AMARNATH INTERNET SOLUTION PVT LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.48.44.0/22"
+    ],
     "ipv6": []
   }
 }

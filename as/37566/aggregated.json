@@ -3,7 +3,10 @@
   "handle": "ICONA",
   "description": "ICONA for IT and Telecom. LTD Co",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "41.242.16.0/20",
+      "197.231.228.0/22"
+    ],
     "ipv6": []
   }
 }

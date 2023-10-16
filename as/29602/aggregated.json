@@ -3,7 +3,9 @@
   "handle": "PIN-SE",
   "description": "InfraCom Managed Services AB",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "89.189.220.0/22"
+    ],
     "ipv6": []
   }
 }

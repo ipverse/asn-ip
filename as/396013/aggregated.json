@@ -3,7 +3,11 @@
   "handle": "HYATT-CORP2",
   "description": "Hyatt Corporation",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "140.95.166.0/24"
+    ],
+    "ipv6": [
+      "2620:186::/46"
+    ]
   }
 }

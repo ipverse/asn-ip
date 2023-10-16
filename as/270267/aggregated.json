@@ -3,7 +3,11 @@
   "handle": "GLOBALWEB-TELECOMUNICAO",
   "description": "GLOBALWEB TELECOMUNICAO",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "200.115.112.0/22"
+    ],
+    "ipv6": [
+      "2804:6964::/32"
+    ]
   }
 }

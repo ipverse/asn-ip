@@ -3,7 +3,9 @@
   "handle": "NUMERIONE",
   "description": "NumOne SARL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "154.58.226.0/24"
+    ],
     "ipv6": []
   }
 }

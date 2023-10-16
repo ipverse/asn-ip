@@ -3,7 +3,9 @@
   "handle": "BGWM",
   "description": "Wojewodztwo Mazowiecki",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.200.232.0/24"
+    ],
     "ipv6": []
   }
 }

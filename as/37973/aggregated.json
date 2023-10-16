@@ -3,7 +3,9 @@
   "handle": "GEO-IMC-PK",
   "description": "Independent Media Corporation",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "203.176.191.0/24"
+    ],
     "ipv6": []
   }
 }

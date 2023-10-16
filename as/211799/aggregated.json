@@ -3,7 +3,9 @@
   "handle": "TAIVALKOSKI",
   "description": "Taivalkosken kunta",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.40.17.0/24"
+    ],
     "ipv6": []
   }
 }

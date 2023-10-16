@@ -3,7 +3,11 @@
   "handle": "YEPTV-TELECOMUNICAES",
   "description": "Yeptv Telecomunicaes Ltda",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.185.72.0/22"
+    ],
+    "ipv6": [
+      "2804:63d0::/32"
+    ]
   }
 }

@@ -3,7 +3,9 @@
   "handle": "MICRON-SERVICOS-TECNOLOGIA",
   "description": "Micron Servicos de Tecnologia Ltda",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "191.37.24.0/22"
+    ],
     "ipv6": []
   }
 }

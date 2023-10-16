@@ -3,7 +3,9 @@
   "handle": "COCHLEAR-AP",
   "description": "COCHLEAR LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.149.202.0/24"
+    ],
     "ipv6": []
   }
 }

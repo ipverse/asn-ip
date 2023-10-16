@@ -3,7 +3,9 @@
   "handle": "TV-NOVA-SRO",
   "description": "TV Nova sro",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "176.122.32.0/20"
+    ],
     "ipv6": []
   }
 }

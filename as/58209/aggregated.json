@@ -3,7 +3,9 @@
   "handle": "PREBITS",
   "description": "Murat Terzioglu",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "217.18.81.0/24"
+    ],
     "ipv6": []
   }
 }

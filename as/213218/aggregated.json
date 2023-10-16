@@ -3,7 +3,9 @@
   "handle": "MINOAN-ORG",
   "description": "Minoan Lines Shipping S.A.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.219.1.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,12 @@
   "handle": "I-T-TECNOLOGIA-INFORMAO",
   "description": "I T Tecnologia e Informao Ltda",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "170.79.12.0/22",
+      "186.250.116.0/22"
+    ],
+    "ipv6": [
+      "2804:3554::/32"
+    ]
   }
 }

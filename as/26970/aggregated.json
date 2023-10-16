@@ -3,7 +3,10 @@
   "handle": "DV-TRADING-LLC",
   "description": "DV TRADING, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.65.206.0/24",
+      "204.2.155.0/24"
+    ],
     "ipv6": []
   }
 }

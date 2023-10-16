@@ -3,7 +3,9 @@
   "handle": "CROSSNET",
   "description": "Crossnet AB",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.71.114.0/24"
+    ],
     "ipv6": []
   }
 }

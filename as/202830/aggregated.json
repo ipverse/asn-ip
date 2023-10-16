@@ -3,7 +3,9 @@
   "handle": "KBCGROUP-DCSK",
   "description": "KBC GLOBAL SERVICES NV",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.245.40.0/21"
+    ],
     "ipv6": []
   }
 }

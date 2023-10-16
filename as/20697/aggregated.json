@@ -3,7 +3,9 @@
   "handle": "AGS",
   "description": "Collegio San Luigi",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "78.40.128.0/21"
+    ],
     "ipv6": []
   }
 }

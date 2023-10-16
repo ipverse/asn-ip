@@ -3,7 +3,10 @@
   "handle": "TBCCO-01",
   "description": "TBC Corporation",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "66.159.100.0/23",
+      "165.140.170.0/24"
+    ],
     "ipv6": []
   }
 }

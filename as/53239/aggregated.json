@@ -3,7 +3,9 @@
   "handle": "COMPANHIA-GOVERNANA-ELETRNICA",
   "description": "Companhia de Governana Eletrnica do Salvador",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "177.20.0.0/17"
+    ],
     "ipv6": []
   }
 }

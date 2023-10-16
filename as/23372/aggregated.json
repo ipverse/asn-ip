@@ -3,7 +3,9 @@
   "handle": "FDIX-PUBLIC",
   "description": "Midwest Internet Exchange LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.45.192.0/24"
+    ],
     "ipv6": []
   }
 }

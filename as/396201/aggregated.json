@@ -3,7 +3,9 @@
   "handle": "CCCAS1",
   "description": "Contra Costa County",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "198.245.232.0/22"
+    ],
     "ipv6": []
   }
 }

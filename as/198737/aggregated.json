@@ -3,7 +3,10 @@
   "handle": "TS-YHTYMA",
   "description": "TS-Yhtyma Oy",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.103.102.0/23",
+      "192.103.104.0/24"
+    ],
     "ipv6": []
   }
 }

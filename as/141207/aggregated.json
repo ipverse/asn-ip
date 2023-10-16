@@ -3,7 +3,9 @@
   "handle": "TLIP-AP",
   "description": "Thai Life Insurance PCL.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.156.111.0/24"
+    ],
     "ipv6": []
   }
 }

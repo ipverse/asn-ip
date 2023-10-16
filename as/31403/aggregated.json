@@ -3,7 +3,9 @@
   "handle": "INVA",
   "description": "IN.VA. S.p.A.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "217.147.144.0/20"
+    ],
     "ipv6": []
   }
 }

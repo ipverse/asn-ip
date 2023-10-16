@@ -3,7 +3,11 @@
   "handle": "MVF-NETWORK",
   "description": "MVF NETWORK",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "192.141.120.0/22"
+    ],
+    "ipv6": [
+      "2804:41ec::/32"
+    ]
   }
 }

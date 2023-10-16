@@ -3,7 +3,9 @@
   "handle": "DK-MEDIA",
   "description": "LLC Publishing House Media-DK",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.206.167.0/24"
+    ],
     "ipv6": []
   }
 }

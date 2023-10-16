@@ -3,7 +3,11 @@
   "handle": "CINC-NET-01",
   "description": "Converse in Code Inc.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "23.131.16.0/24"
+    ],
+    "ipv6": [
+      "2620:13e:d000::/44"
+    ]
   }
 }

@@ -3,7 +3,11 @@
   "handle": "TOKFIBRA-PROVEDOR-INTERNET",
   "description": "TOKFIBRA Provedor de Internet",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "138.59.28.0/22"
+    ],
+    "ipv6": [
+      "2804:2254::/32"
+    ]
   }
 }

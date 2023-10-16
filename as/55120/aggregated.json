@@ -3,7 +3,10 @@
   "handle": "TVIFIBER",
   "description": "Tallahatchie Valley Internet Services, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "152.86.16.0/20",
+      "216.245.96.0/19"
+    ],
     "ipv6": []
   }
 }

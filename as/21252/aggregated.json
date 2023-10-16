@@ -3,7 +3,9 @@
   "handle": "NIKOIL",
   "description": "PJSC BANK URALSIB",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.109.114.0/24"
+    ],
     "ipv6": []
   }
 }

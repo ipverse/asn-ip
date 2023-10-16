@@ -3,7 +3,11 @@
   "handle": "SHOWMAX",
   "description": "Multichoice Support Services (Pty) Ltd",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "169.255.192.0/22"
+    ],
+    "ipv6": [
+      "2c0f:f448::/39"
+    ]
   }
 }

@@ -3,7 +3,9 @@
   "handle": "ONE-FIBRA-OPTICA",
   "description": "ONE FIBRA OPTICA LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.183.84.0/22"
+    ],
     "ipv6": []
   }
 }

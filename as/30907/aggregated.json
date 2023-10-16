@@ -3,7 +3,9 @@
   "handle": "SAGE",
   "description": "SAGE SAS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.30.141.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,11 @@
   "handle": "S-R-P",
   "description": "S R P RAMON TELECOMUNICACOES - ME",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.161.136.0/22"
+    ],
+    "ipv6": [
+      "2804:52d0::/32"
+    ]
   }
 }

@@ -3,7 +3,11 @@
   "handle": "REINALDO-JESUS",
   "description": "REINALDO DE JESUS",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.160.104.0/22"
+    ],
+    "ipv6": [
+      "2804:5094::/32"
+    ]
   }
 }

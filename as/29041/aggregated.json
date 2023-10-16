@@ -3,7 +3,9 @@
   "handle": "KONAR",
   "description": "JSC KONAR",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.207.30.0/24"
+    ],
     "ipv6": []
   }
 }

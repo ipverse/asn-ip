@@ -3,7 +3,9 @@
   "handle": "LIGALINK",
   "description": "LigaLink LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "130.255.8.0/21"
+    ],
     "ipv6": []
   }
 }

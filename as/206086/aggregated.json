@@ -3,7 +3,9 @@
   "handle": "RAYNET",
   "description": "Raynet SAS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.156.24.0/24"
+    ],
     "ipv6": []
   }
 }

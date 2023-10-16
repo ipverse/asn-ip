@@ -3,7 +3,11 @@
   "handle": "TECINFO",
   "description": "TECINFO, Inc.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "216.220.128.0/19"
+    ],
+    "ipv6": [
+      "2605:80c0::/32"
+    ]
   }
 }

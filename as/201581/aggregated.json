@@ -3,7 +3,9 @@
   "handle": "PGNIG-SERWIS",
   "description": "PGNIG Serwis Sp.zo.o.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "217.153.116.0/24"
+    ],
     "ipv6": []
   }
 }

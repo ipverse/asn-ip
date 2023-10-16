@@ -3,7 +3,11 @@
   "handle": "TELEFONARNET-TELECOMUNICACOES",
   "description": "TELEFONARNET TELECOMUNICACOES",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.232.72.0/22"
+    ],
+    "ipv6": [
+      "2804:4a98:f000::/36"
+    ]
   }
 }

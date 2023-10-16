@@ -3,7 +3,11 @@
   "handle": "GIEUROPE",
   "description": "TATA Communications (Canada) Ltd.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "195.219.88.0/24"
+    ],
+    "ipv6": [
+      "2a01:3e0:ff71::/48"
+    ]
   }
 }

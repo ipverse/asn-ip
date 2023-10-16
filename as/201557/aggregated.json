@@ -3,7 +3,9 @@
   "handle": "KEMI-FI",
   "description": "KEMIN KAUPUNKI",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.25.200.0/22"
+    ],
     "ipv6": []
   }
 }

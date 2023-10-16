@@ -3,7 +3,11 @@
   "handle": "UNI-TELECOMUNICACOES",
   "description": "UNI TELECOMUNICACOES LTDA ME",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "186.226.208.0/21"
+    ],
+    "ipv6": [
+      "2804:9fc::/32"
+    ]
   }
 }

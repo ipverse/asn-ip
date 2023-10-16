@@ -3,7 +3,9 @@
   "handle": "TELECOMUNICACIONES-MANTENIMIENTO-SERVICIOS",
   "description": "TELECOMUNICACIONES, MANTENIMIENTO Y SERVICIOS P\u0026C, C.A.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "179.0.104.0/22"
+    ],
     "ipv6": []
   }
 }

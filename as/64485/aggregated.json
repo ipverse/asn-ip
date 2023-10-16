@@ -3,7 +3,9 @@
   "handle": "ST-UK",
   "description": "Mitel Networks Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.161.24.0/22"
+    ],
     "ipv6": []
   }
 }

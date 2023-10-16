@@ -3,7 +3,13 @@
   "handle": "MGK",
   "description": "MGK Rafal Chmielewski",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "92.63.32.0/20",
+      "185.13.144.0/22",
+      "185.106.168.0/22"
+    ],
+    "ipv6": [
+      "2a02:f3c0::/29"
+    ]
   }
 }

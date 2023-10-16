@@ -3,7 +3,9 @@
   "handle": "FUNDACAO-ENS-EURIPIDES",
   "description": "FUNDACAO DE ENS. EURIPIDES SOARES DA ROCHA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "200.10.239.0/24"
+    ],
     "ipv6": []
   }
 }

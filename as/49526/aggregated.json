@@ -3,7 +3,9 @@
   "handle": "MTB",
   "description": "JSC MTBank",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "93.125.98.0/24"
+    ],
     "ipv6": []
   }
 }

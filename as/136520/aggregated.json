@@ -3,7 +3,10 @@
   "handle": "MYKLNETSOLUTIONS-AP",
   "description": "Myklnet Solutions",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.91.194.0/24",
+      "103.123.238.0/23"
+    ],
     "ipv6": []
   }
 }

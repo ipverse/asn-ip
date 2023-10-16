@@ -3,7 +3,9 @@
   "handle": "ASESORIA-EMPRESAS",
   "description": "ASESORIA DE EMPRESAS S.A. DE C.V.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "200.0.131.0/24"
+    ],
     "ipv6": []
   }
 }

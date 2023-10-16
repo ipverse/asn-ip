@@ -3,7 +3,9 @@
   "handle": "LDN-PK",
   "description": "IGI Financial Services",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "202.61.45.0/24"
+    ],
     "ipv6": []
   }
 }

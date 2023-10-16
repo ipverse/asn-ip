@@ -3,7 +3,9 @@
   "handle": "LIFE-STORAGE-LP",
   "description": "Life Storage LP",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "8.41.70.0/24"
+    ],
     "ipv6": []
   }
 }

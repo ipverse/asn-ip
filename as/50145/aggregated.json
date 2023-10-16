@@ -3,7 +3,9 @@
   "handle": "PERI",
   "description": "PERI SE",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.104.155.0/24"
+    ],
     "ipv6": []
   }
 }

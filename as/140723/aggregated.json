@@ -3,7 +3,9 @@
   "handle": "HTIPL-AP",
   "description": "Huawei Technologies India Pvt Ltd.,",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.152.54.0/24"
+    ],
     "ipv6": []
   }
 }

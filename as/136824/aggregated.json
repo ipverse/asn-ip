@@ -3,7 +3,10 @@
   "handle": "RACKH-ID",
   "description": "PT RACKH LINTAS ASIA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.52.212.0/24",
+      "103.125.14.0/23"
+    ],
     "ipv6": []
   }
 }

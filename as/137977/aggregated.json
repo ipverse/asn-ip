@@ -3,7 +3,10 @@
   "handle": "CSONETOONE-AP",
   "description": "ONE TO ONE CONTACTS PUBLIC COMPANY LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "119.110.200.0/24",
+      "147.50.2.0/24"
+    ],
     "ipv6": []
   }
 }

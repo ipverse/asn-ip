@@ -3,7 +3,11 @@
   "handle": "NET-WORK-FIBER",
   "description": "NET WORK FIBER COMERCIO E SERVICOS DE COMUNICACAO",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.237.180.0/22"
+    ],
+    "ipv6": [
+      "2804:4ecc::/32"
+    ]
   }
 }

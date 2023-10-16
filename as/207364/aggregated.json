@@ -3,7 +3,9 @@
   "handle": "IT-IS-AG-RZ-GERMANY",
   "description": "ITIS AG",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.67.204.0/22"
+    ],
     "ipv6": []
   }
 }

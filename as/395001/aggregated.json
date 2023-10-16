@@ -3,7 +3,9 @@
   "handle": "STATEOFMAINE-ASN1",
   "description": "State of Maine",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "204.144.97.0/24"
+    ],
     "ipv6": []
   }
 }

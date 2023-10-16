@@ -3,7 +3,9 @@
   "handle": "THE-NATIONAL-GALLERY-OF-ART",
   "description": "National Gallery of Art",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.16.64.0/20"
+    ],
     "ipv6": []
   }
 }

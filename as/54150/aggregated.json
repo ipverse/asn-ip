@@ -3,7 +3,9 @@
   "handle": "BMC-LE",
   "description": "BROADLAWNS MEDICAL CENTER",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "65.127.135.0/24"
+    ],
     "ipv6": []
   }
 }

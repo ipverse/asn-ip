@@ -3,7 +3,9 @@
   "handle": "LINKED-STORE-BRASIL",
   "description": "LINKED STORE BRASIL CRIACAO E DESENVOL DE SOFTWARE",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.133.35.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,10 @@
   "handle": "TTSSB-MY",
   "description": "TM TECHNOLOGY SERVICES SDN BHD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.116.244.0/24",
+      "45.116.246.0/24"
+    ],
     "ipv6": []
   }
 }

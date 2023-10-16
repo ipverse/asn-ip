@@ -3,7 +3,11 @@
   "handle": "KAPPALYS",
   "description": "Kappalys Sarl",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "185.176.64.0/22"
+    ],
+    "ipv6": [
+      "2a0a:d80::/29"
+    ]
   }
 }

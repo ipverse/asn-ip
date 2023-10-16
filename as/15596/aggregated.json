@@ -3,7 +3,9 @@
   "handle": "IP-CUSTOMERS",
   "description": "IP Port LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.210.144.0/22"
+    ],
     "ipv6": []
   }
 }

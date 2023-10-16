@@ -3,7 +3,10 @@
   "handle": "GETZPHARMA-PK",
   "description": "Getz Pharma (Private) Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.51.220.0/24",
+      "103.94.102.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "NBN-AP",
   "description": "Noakhali Broadband Network",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.113.192.0/22"
+    ],
     "ipv6": []
   }
 }

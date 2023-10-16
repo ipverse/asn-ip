@@ -3,7 +3,9 @@
   "handle": "JOSE-ARNALDO-PINHEIRO",
   "description": "JOSE ARNALDO PINHEIRO DE SOUZA EIRELI-ME",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.189.208.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "FCSH",
   "description": "PJSC Football Club Shakhtar (Donetsk)",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.95.157.0/24"
+    ],
     "ipv6": []
   }
 }

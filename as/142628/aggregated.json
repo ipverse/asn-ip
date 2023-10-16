@@ -3,7 +3,9 @@
   "handle": "HIIFIMSDNBHD-AP",
   "description": "HIIFI (M) SDN BHD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.171.42.0/24"
+    ],
     "ipv6": []
   }
 }

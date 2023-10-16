@@ -3,7 +3,9 @@
   "handle": "DSM-AIRPORT-AUTHORITY",
   "description": "Des Moines Airport Authority",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "148.78.76.0/24"
+    ],
     "ipv6": []
   }
 }

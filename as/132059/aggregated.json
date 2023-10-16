@@ -3,7 +3,10 @@
   "handle": "TV5-PH",
   "description": "Associated Broadcasting Company",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.11.112.0/24",
+      "103.11.115.0/24"
+    ],
     "ipv6": []
   }
 }

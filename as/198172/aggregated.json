@@ -3,7 +3,10 @@
   "handle": "AMB",
   "description": "Azienda Multiservizi Bellinzona",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "89.251.240.0/20",
+      "212.104.216.0/21"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "SCHPL-AP",
   "description": "Serenitas Communities Holdings Pty Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.162.154.0/23"
+    ],
     "ipv6": []
   }
 }

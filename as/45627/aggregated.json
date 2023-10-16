@@ -3,7 +3,9 @@
   "handle": "VBRN-TCA-AP",
   "description": "Viewbank Rise Networks",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "203.175.178.0/24"
+    ],
     "ipv6": []
   }
 }

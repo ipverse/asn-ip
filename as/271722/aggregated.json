@@ -3,7 +3,11 @@
   "handle": "SG-TELECOMUNICAES-EIRELI",
   "description": "SG TELECOMUNICAES EIRELI",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "200.4.124.0/23"
+    ],
+    "ipv6": [
+      "2804:7ffc::/32"
+    ]
   }
 }

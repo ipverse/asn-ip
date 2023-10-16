@@ -3,7 +3,9 @@
   "handle": "DESCHUTES-COUNTY-911",
   "description": "Deschutes 911",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.30.143.0/24"
+    ],
     "ipv6": []
   }
 }

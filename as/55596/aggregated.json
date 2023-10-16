@@ -3,7 +3,9 @@
   "handle": "GILHOSP",
   "description": "Gachon University Gil Hospital",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "211.253.219.0/24"
+    ],
     "ipv6": []
   }
 }

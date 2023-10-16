@@ -3,7 +3,9 @@
   "handle": "BASENET-TELECOMUNICAES",
   "description": "BASENET TELECOMUNICAES LTDA-ME",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "138.36.8.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,12 @@
   "handle": "FLASHNET-EMPREENDIMENTOS",
   "description": "FLASHNET EMPREENDIMENTOS LTDA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.228.164.0/22"
+    ],
+    "ipv6": [
+      "2804:47a0::/35",
+      "2804:47a0:f000::/36"
+    ]
   }
 }

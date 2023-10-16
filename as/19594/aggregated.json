@@ -3,7 +3,9 @@
   "handle": "SALEMHOSPITALASN",
   "description": "Salem Hospital",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "198.180.206.0/24"
+    ],
     "ipv6": []
   }
 }

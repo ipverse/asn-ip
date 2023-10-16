@@ -3,7 +3,9 @@
   "handle": "EFLSERVICE",
   "description": "Europejski Fundusz Leasingowy S.A.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.5.181.0/24"
+    ],
     "ipv6": []
   }
 }

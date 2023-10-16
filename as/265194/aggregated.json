@@ -3,7 +3,11 @@
   "handle": "REDE-IDEIA-TELECOM",
   "description": "REDE IDEIA TELECOM",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "167.250.16.0/22"
+    ],
+    "ipv6": [
+      "2804:2c14::/32"
+    ]
   }
 }

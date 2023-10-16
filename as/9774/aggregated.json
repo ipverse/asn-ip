@@ -3,7 +3,10 @@
   "handle": "DSU",
   "description": "Dongseo University",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "202.165.56.0/22",
+      "203.241.176.0/20"
+    ],
     "ipv6": []
   }
 }

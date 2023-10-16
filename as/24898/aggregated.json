@@ -3,7 +3,9 @@
   "handle": "IPX",
   "description": "NorthC Deutschland GmbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.105.46.0/24"
+    ],
     "ipv6": []
   }
 }

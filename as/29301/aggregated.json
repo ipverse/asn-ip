@@ -3,7 +3,10 @@
   "handle": "KARAVEL",
   "description": "KARAVEL SAS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.46.206.0/24",
+      "195.149.66.0/24"
+    ],
     "ipv6": []
   }
 }

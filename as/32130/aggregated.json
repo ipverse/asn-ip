@@ -3,7 +3,9 @@
   "handle": "BRIGHT-HORIZONS",
   "description": "Bright Horizons",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.132.120.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "CALIX-UT-SLC",
   "description": "Calix, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "64.136.97.0/24"
+    ],
     "ipv6": []
   }
 }

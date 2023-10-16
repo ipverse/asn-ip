@@ -3,7 +3,9 @@
   "handle": "PAULO-R-M-FERREIRA",
   "description": "PAULO R. M. FERREIRA ME",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "177.200.224.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "AJPES",
   "description": "AJPES",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.132.72.0/24"
+    ],
     "ipv6": []
   }
 }

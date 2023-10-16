@@ -3,7 +3,10 @@
   "handle": "ASHIVE",
   "description": "HostHive LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "23.142.26.0/24",
+      "204.10.193.0/24"
+    ],
     "ipv6": []
   }
 }

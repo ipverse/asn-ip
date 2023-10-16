@@ -3,7 +3,9 @@
   "handle": "SIGMA-TELECOM-PROVEDORES",
   "description": "Sigma Telecom Provedores de Internet Ltda",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.227.64.0/22"
+    ],
     "ipv6": []
   }
 }

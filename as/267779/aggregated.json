@@ -3,7 +3,9 @@
   "handle": "TV-HORIZONTE",
   "description": "TV Horizonte S.R.L.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.172.28.0/22"
+    ],
     "ipv6": []
   }
 }

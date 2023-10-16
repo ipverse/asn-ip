@@ -3,7 +3,9 @@
   "handle": "INGBANK-UKRAINE",
   "description": "Joint-stock bank ING BANK UKRAINE",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.144.28.0/24"
+    ],
     "ipv6": []
   }
 }

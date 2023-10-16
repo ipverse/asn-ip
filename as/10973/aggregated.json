@@ -3,7 +3,11 @@
   "handle": "KALAMA",
   "description": "Scatter Creek InfoNet, Inc.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "216.128.96.0/20"
+    ],
+    "ipv6": [
+      "2604:3700::/32"
+    ]
   }
 }

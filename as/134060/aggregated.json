@@ -3,7 +3,9 @@
   "handle": "NETSCOUT",
   "description": "Netscout Systems Software India Private Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.48.212.0/23"
+    ],
     "ipv6": []
   }
 }

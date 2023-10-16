@@ -3,7 +3,9 @@
   "handle": "KALEIDESCAPE-CANADA-INC",
   "description": "Kaleidescape, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "158.222.99.0/24"
+    ],
     "ipv6": []
   }
 }

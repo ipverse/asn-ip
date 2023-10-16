@@ -3,7 +3,9 @@
   "handle": "STL-AP",
   "description": "STERLITE TECHNOLOGIES LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.23.140.0/24"
+    ],
     "ipv6": []
   }
 }

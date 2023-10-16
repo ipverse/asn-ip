@@ -3,7 +3,9 @@
   "handle": "SYSOPS-FINLAND",
   "description": "sysops Finland Oy",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "5.83.56.0/21"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "BLITZ-INFORM",
   "description": "ZAT Holding Company Blitz-Inform",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.208.154.0/24"
+    ],
     "ipv6": []
   }
 }

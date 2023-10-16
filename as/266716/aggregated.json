@@ -3,7 +3,9 @@
   "handle": "CABLE-VIDEO-PERU",
   "description": "CABLE VIDEO PERU SAC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.230.196.0/22"
+    ],
     "ipv6": []
   }
 }

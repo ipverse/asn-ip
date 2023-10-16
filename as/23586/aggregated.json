@@ -3,7 +3,9 @@
   "handle": "KCUE",
   "description": "Korean Council for University Education",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "203.237.251.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "COMSERVPNGLTD-AP",
   "description": "Comserv PNG Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.110.130.0/24"
+    ],
     "ipv6": []
   }
 }

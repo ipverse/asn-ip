@@ -3,7 +3,9 @@
   "handle": "NSC",
   "description": "JSC National satellite company",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "77.83.52.0/22"
+    ],
     "ipv6": []
   }
 }

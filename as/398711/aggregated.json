@@ -3,7 +3,9 @@
   "handle": "QG-1",
   "description": "Quality Gold, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.190.241.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "SEMAT",
   "description": "Oficina Semat Data, SL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.32.132.0/22"
+    ],
     "ipv6": []
   }
 }

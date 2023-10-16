@@ -3,7 +3,9 @@
   "handle": "ACC-INET",
   "description": "Accertify, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.189.160.0/22"
+    ],
     "ipv6": []
   }
 }

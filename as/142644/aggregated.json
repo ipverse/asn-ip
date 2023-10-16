@@ -3,7 +3,10 @@
   "handle": "LINKFAST-AP",
   "description": "Link Fast Company Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.171.212.0/23",
+      "156.227.5.0/24"
+    ],
     "ipv6": []
   }
 }

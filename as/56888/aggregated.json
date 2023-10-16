@@ -3,7 +3,9 @@
   "handle": "KRNET",
   "description": "Krasnogorsky networks Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.228.180.0/23"
+    ],
     "ipv6": []
   }
 }

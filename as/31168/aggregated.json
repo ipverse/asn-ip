@@ -4,6 +4,8 @@
   "description": "AirAccess GmbH",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a0a:9040::/29"
+    ]
   }
 }

@@ -3,7 +3,9 @@
   "handle": "PHONON-AP",
   "description": "Phonon Communications Pvt Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.141.42.0/24"
+    ],
     "ipv6": []
   }
 }

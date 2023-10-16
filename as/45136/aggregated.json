@@ -3,7 +3,9 @@
   "handle": "SONIC-AP",
   "description": "Sonic Point Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "119.235.40.0/21"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,10 @@
   "handle": "BREEZECONNECT-AP",
   "description": "Breeze Connect Pty Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "202.148.148.0/23",
+      "202.148.150.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,10 @@
   "handle": "NEXGEN",
   "description": "NexGen Cloud Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "94.101.98.0/24",
+      "149.36.0.0/23"
+    ],
     "ipv6": []
   }
 }

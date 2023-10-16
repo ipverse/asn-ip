@@ -3,7 +3,9 @@
   "handle": "RAA-AP",
   "description": "RAA INSURANCE LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.16.51.0/24"
+    ],
     "ipv6": []
   }
 }

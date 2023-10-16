@@ -3,7 +3,10 @@
   "handle": "WGTWO",
   "description": "WORKING GROUP TWO AS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.209.212.0/24",
+      "91.223.100.0/24"
+    ],
     "ipv6": []
   }
 }

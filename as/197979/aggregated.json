@@ -3,7 +3,9 @@
   "handle": "INTERKAR",
   "description": "INTERKAR KOMPUTER - SERWIS Karol Dziecielski",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.231.24.0/22"
+    ],
     "ipv6": []
   }
 }

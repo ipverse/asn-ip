@@ -3,7 +3,9 @@
   "handle": "JGOLDMAN",
   "description": "J. GOLDMAN \u0026 CO, L.P.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.105.197.0/24"
+    ],
     "ipv6": []
   }
 }

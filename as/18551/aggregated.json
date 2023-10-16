@@ -3,7 +3,10 @@
   "handle": "ROTHINC",
   "description": "Rothschild \u0026 Co US Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "216.145.32.0/22",
+      "216.145.44.0/22"
+    ],
     "ipv6": []
   }
 }

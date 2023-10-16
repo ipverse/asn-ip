@@ -3,7 +3,10 @@
   "handle": "ASCOM",
   "description": "Ascom (Sweden) AB",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.121.55.0/24",
+      "193.181.33.0/24"
+    ],
     "ipv6": []
   }
 }

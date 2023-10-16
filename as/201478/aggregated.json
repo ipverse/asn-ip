@@ -3,7 +3,9 @@
   "handle": "REDI-TECH",
   "description": "Refinitiv Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.73.140.0/23"
+    ],
     "ipv6": []
   }
 }

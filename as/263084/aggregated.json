@@ -3,7 +3,9 @@
   "handle": "SKYNEW-ASSISTCN-EM",
   "description": "SKYNEW ASSIS.TCN. EM INFORM.LTDA EPP",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "177.21.48.0/20"
+    ],
     "ipv6": []
   }
 }

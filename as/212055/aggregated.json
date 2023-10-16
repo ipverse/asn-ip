@@ -3,7 +3,9 @@
   "handle": "CFHGROUP-2",
   "description": "Finalto A/S",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.226.199.0/24"
+    ],
     "ipv6": []
   }
 }

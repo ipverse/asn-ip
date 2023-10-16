@@ -3,7 +3,9 @@
   "handle": "STRATUSBLUEPTYLTD-AP",
   "description": "Brisk Technology",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.91.51.0/24"
+    ],
     "ipv6": []
   }
 }

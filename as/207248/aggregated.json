@@ -3,7 +3,9 @@
   "handle": "VSQLOUD",
   "description": "VS Qloud Solution GmbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.126.170.0/23"
+    ],
     "ipv6": []
   }
 }

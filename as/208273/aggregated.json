@@ -3,7 +3,10 @@
   "handle": "SECUNET",
   "description": "SecuNET INC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "82.115.15.0/24",
+      "93.115.60.0/23"
+    ],
     "ipv6": []
   }
 }

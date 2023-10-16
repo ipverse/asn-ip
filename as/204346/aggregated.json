@@ -3,7 +3,9 @@
   "handle": "INTERWIFI",
   "description": "InterWifi s.c.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.151.119.0/24"
+    ],
     "ipv6": []
   }
 }

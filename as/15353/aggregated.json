@@ -3,7 +3,13 @@
   "handle": "XENTAIN-SOLUTIONS",
   "description": "Xentain Solutions Inc.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "23.26.226.0/24",
+      "23.162.168.0/24"
+    ],
+    "ipv6": [
+      "2602:fa11:10::/44",
+      "2602:fa6e::/48"
+    ]
   }
 }

@@ -3,7 +3,9 @@
   "handle": "PROCAPS-LABS-01",
   "description": "Procaps Laboratories,Inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "161.199.245.0/24"
+    ],
     "ipv6": []
   }
 }

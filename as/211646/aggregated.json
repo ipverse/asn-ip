@@ -4,6 +4,8 @@
   "description": "Adrian Heeren trading as Sandelcom",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2001:678:f04::/48"
+    ]
   }
 }

@@ -3,7 +3,9 @@
   "handle": "SDMS",
   "description": "Safe Decision Co. for IT LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.32.161.0/24"
+    ],
     "ipv6": []
   }
 }

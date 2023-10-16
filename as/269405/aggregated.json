@@ -3,7 +3,10 @@
   "handle": "CONECT-TEC-TELECOMUNICACOES",
   "description": "CONECT TEC TELECOMUNICACOES LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.185.224.0/23",
+      "45.185.227.0/24"
+    ],
     "ipv6": []
   }
 }

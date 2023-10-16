@@ -3,7 +3,9 @@
   "handle": "VUPPI-INTERNET",
   "description": "VUPPI INTERNET",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.144.104.0/22"
+    ],
     "ipv6": []
   }
 }

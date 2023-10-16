@@ -3,7 +3,11 @@
   "handle": "RHOENNET",
   "description": "Greenfiber Internet \u0026 Dienste GmbH",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "185.124.72.0/22"
+    ],
+    "ipv6": [
+      "2a03:93e0::/32"
+    ]
   }
 }

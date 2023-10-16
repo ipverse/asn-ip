@@ -3,7 +3,9 @@
   "handle": "ETECH-TECNOLOGIA",
   "description": "ETECH - TECNOLOGIA LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.172.36.0/22"
+    ],
     "ipv6": []
   }
 }

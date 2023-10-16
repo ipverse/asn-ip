@@ -3,7 +3,9 @@
   "handle": "BIP-AG",
   "description": "Best in Parking AG",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.44.205.0/24"
+    ],
     "ipv6": []
   }
 }

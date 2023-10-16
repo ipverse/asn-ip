@@ -3,7 +3,9 @@
   "handle": "LES-RELAIS-LTD",
   "description": "Atcomm Broadband Services Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "169.239.140.0/22"
+    ],
     "ipv6": []
   }
 }

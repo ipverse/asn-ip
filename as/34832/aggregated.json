@@ -3,7 +3,9 @@
   "handle": "NOVOSYSTEM",
   "description": "NOVOSYSTEM Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.211.120.0/22"
+    ],
     "ipv6": []
   }
 }

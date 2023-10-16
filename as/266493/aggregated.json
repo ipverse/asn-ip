@@ -3,7 +3,11 @@
   "handle": "R-L-HOFFMANN",
   "description": "R. L. HOFFMANN",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "170.244.84.0/22"
+    ],
+    "ipv6": [
+      "2804:38ac::/32"
+    ]
   }
 }

@@ -3,7 +3,10 @@
   "handle": "WSHOP",
   "description": "WSHOP SASU",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.69.3.0/24",
+      "194.2.75.0/24"
+    ],
     "ipv6": []
   }
 }

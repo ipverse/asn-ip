@@ -3,7 +3,9 @@
   "handle": "SBLI-USA",
   "description": "SBLI USA Mutual life Insurnace Company, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "204.174.255.0/24"
+    ],
     "ipv6": []
   }
 }

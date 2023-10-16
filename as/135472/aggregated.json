@@ -3,7 +3,11 @@
   "handle": "IDNIC-SLEMAN-ID",
   "description": "Dinas Kominfo Kabupaten Sleman",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "103.71.190.0/23"
+    ],
+    "ipv6": [
+      "2400:fce0::/32"
+    ]
   }
 }

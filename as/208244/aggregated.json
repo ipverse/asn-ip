@@ -3,7 +3,9 @@
   "handle": "EASYWEB",
   "description": "Easyweb System Integrator srl",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "83.171.196.0/22"
+    ],
     "ipv6": []
   }
 }

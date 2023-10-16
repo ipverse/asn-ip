@@ -3,7 +3,9 @@
   "handle": "SD-SGF-01",
   "description": "Stronghold Data LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "170.52.56.0/24"
+    ],
     "ipv6": []
   }
 }

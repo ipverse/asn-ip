@@ -3,7 +3,9 @@
   "handle": "ASK-INTERNET-TECHNOLOGIES",
   "description": "ASK Internet Technologies CC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "102.22.112.0/21"
+    ],
     "ipv6": []
   }
 }

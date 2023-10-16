@@ -3,7 +3,9 @@
   "handle": "INGMS-CZ",
   "description": "NN Management Services, s.r.o.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.33.126.0/23"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "CDL-COMUNICACAO-TECNOLOGIA",
   "description": "CDL COMUNICACAO E TECNOLOGIA LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "190.12.152.0/22"
+    ],
     "ipv6": []
   }
 }

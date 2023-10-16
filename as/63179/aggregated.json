@@ -3,7 +3,10 @@
   "handle": "TWITTER",
   "description": "Twitter Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "69.12.56.0/21",
+      "192.48.236.0/23"
+    ],
     "ipv6": []
   }
 }

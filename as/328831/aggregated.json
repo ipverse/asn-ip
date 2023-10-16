@@ -3,7 +3,9 @@
   "handle": "ANO",
   "description": "African Network Operators (Pty) Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "102.220.34.0/23"
+    ],
     "ipv6": []
   }
 }

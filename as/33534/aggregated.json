@@ -3,7 +3,9 @@
   "handle": "OTICONUS-COM",
   "description": "OTICON, INC.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.30.112.0/24"
+    ],
     "ipv6": []
   }
 }

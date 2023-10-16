@@ -3,7 +3,9 @@
   "handle": "ARQUETIPONET",
   "description": "ARQUETIPONET SRL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.227.68.0/22"
+    ],
     "ipv6": []
   }
 }

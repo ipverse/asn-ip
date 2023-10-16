@@ -3,7 +3,11 @@
   "handle": "RIONET-TECNOLOGIA-EM",
   "description": "RIONET TECNOLOGIA EM INTERNET EIRELI - ME",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.162.224.0/22"
+    ],
+    "ipv6": [
+      "2804:52ac::/32"
+    ]
   }
 }

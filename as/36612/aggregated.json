@@ -3,7 +3,9 @@
   "handle": "CLARKCOUNTYWA",
   "description": "Clark County WA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "64.4.176.0/20"
+    ],
     "ipv6": []
   }
 }

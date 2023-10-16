@@ -3,7 +3,10 @@
   "handle": "CASILDA-DIGITAL",
   "description": "CASILDA DIGITAL S.A.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "200.123.34.0/23",
+      "200.123.50.0/24"
+    ],
     "ipv6": []
   }
 }

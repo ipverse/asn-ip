@@ -3,7 +3,12 @@
   "handle": "CHEMPIONEBI",
   "description": "Chempionebi 111 LTD",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "79.99.92.0/22",
+      "195.5.179.0/24"
+    ],
+    "ipv6": [
+      "2a0b:c4c0::/29"
+    ]
   }
 }

@@ -3,7 +3,9 @@
   "handle": "PCT",
   "description": "PCC IT S.A.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.213.1.0/24"
+    ],
     "ipv6": []
   }
 }

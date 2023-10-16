@@ -3,7 +3,9 @@
   "handle": "COOP-ELECTRICA-TODD",
   "description": "COOP. ELECTRICA DE TODD LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "190.92.96.0/21"
+    ],
     "ipv6": []
   }
 }

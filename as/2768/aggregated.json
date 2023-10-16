@@ -3,7 +3,11 @@
   "handle": "ERIE-COUNTY",
   "description": "The County of Erie",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "65.122.74.0/23",
+      "66.170.130.0/24",
+      "144.71.0.0/16"
+    ],
     "ipv6": []
   }
 }

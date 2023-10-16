@@ -3,7 +3,12 @@
   "handle": "IDNIC-TNIAU-ID",
   "description": "Tentara Nasional Indonesia Angkatan Udara (TNI-AU)",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "103.147.231.0/24",
+      "103.219.6.0/24"
+    ],
+    "ipv6": [
+      "2001:df2:2a00::/48"
+    ]
   }
 }

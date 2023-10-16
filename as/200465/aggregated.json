@@ -3,7 +3,9 @@
   "handle": "SUEDLEASING",
   "description": "SudLeasing GmbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.106.76.0/22"
+    ],
     "ipv6": []
   }
 }

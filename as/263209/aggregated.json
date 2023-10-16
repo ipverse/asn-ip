@@ -3,7 +3,10 @@
   "handle": "ENLACE-SOLUCIONES-INFORMATICAS",
   "description": "ENLACE SOLUCIONES INFORMATICAS SRL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "191.97.68.0/22",
+      "191.97.72.0/21"
+    ],
     "ipv6": []
   }
 }

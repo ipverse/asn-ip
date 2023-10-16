@@ -3,7 +3,9 @@
   "handle": "SMART-NETWORK-LIMITED",
   "description": "Smart Network Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "102.222.64.0/24"
+    ],
     "ipv6": []
   }
 }

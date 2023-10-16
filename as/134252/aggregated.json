@@ -3,7 +3,9 @@
   "handle": "TELLUSYS-IN",
   "description": "Tellusys Info Pvt Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.35.68.0/22"
+    ],
     "ipv6": []
   }
 }

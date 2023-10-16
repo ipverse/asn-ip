@@ -3,7 +3,9 @@
   "handle": "URALKALI",
   "description": "UralKali PJSC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "93.157.61.0/24"
+    ],
     "ipv6": []
   }
 }

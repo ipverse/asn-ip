@@ -3,7 +3,9 @@
   "handle": "TRAVELINC-NSC",
   "description": "TRAVEL INCORPORATED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "75.131.185.0/24"
+    ],
     "ipv6": []
   }
 }

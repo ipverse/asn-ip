@@ -3,7 +3,11 @@
   "handle": "KL-KDP",
   "description": "Kaspersky Lab AO",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "82.202.188.0/22"
+    ],
+    "ipv6": [
+      "2a13:c80:6::/47"
+    ]
   }
 }

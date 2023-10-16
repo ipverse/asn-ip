@@ -3,7 +3,9 @@
   "handle": "MOBITEL-GE",
   "description": "Cellfie Mobile LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.184.96.0/19"
+    ],
     "ipv6": []
   }
 }

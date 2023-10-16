@@ -3,7 +3,10 @@
   "handle": "TALK-CLOUD-AP",
   "description": "TALK A CLOUD LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "27.111.12.0/24",
+      "27.111.15.0/24"
+    ],
     "ipv6": []
   }
 }

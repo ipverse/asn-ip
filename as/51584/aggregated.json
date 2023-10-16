@@ -3,7 +3,9 @@
   "handle": "ASZEPTER",
   "description": "ZepterBank Closed joint-stock company",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "178.172.149.0/24"
+    ],
     "ipv6": []
   }
 }

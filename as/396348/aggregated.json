@@ -3,7 +3,9 @@
   "handle": "CUMBERLAND-ELECTRIC-MEMBERSHIP-CORP",
   "description": "Cumberland Electric Membership Corp",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "107.191.67.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "W-COM-INTERNET",
   "description": "W-COM Internet",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.70.244.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "HDTIL-AP",
   "description": "HK DINGFENG TECHNOLOGY INFORMATION LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.170.94.0/23"
+    ],
     "ipv6": []
   }
 }

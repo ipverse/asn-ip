@@ -3,7 +3,9 @@
   "handle": "FIGUEIREDO-PROVEDORES-EIRELI",
   "description": "figueiredo provedores eireli",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "177.152.104.0/22"
+    ],
     "ipv6": []
   }
 }

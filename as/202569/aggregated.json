@@ -3,7 +3,9 @@
   "handle": "PEXYS",
   "description": "Pexys SARL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.160.124.0/23"
+    ],
     "ipv6": []
   }
 }

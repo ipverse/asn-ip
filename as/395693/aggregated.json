@@ -3,7 +3,9 @@
   "handle": "TEGNA-QTS-EAST",
   "description": "TEGNA Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "167.8.140.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,10 @@
   "handle": "LA-PROVIDENCIA",
   "description": "LA PROVIDENCIA S.R.L",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.187.36.0/23",
+      "45.187.38.0/24"
+    ],
     "ipv6": []
   }
 }

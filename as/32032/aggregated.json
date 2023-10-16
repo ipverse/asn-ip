@@ -3,7 +3,10 @@
   "handle": "ORGILL",
   "description": "Orgill, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "74.254.143.0/24",
+      "208.88.39.0/24"
+    ],
     "ipv6": []
   }
 }

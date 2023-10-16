@@ -3,7 +3,13 @@
   "handle": "ATK-TELECOMUNICAES",
   "description": "ATK Telecomunicaes Ltda.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "168.0.144.0/22",
+      "177.86.68.0/22",
+      "186.235.92.0/22"
+    ],
+    "ipv6": [
+      "2804:1660::/32"
+    ]
   }
 }

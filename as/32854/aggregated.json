@@ -3,7 +3,9 @@
   "handle": "PCTCU",
   "description": "Achieva Credit Union",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "169.197.172.0/23"
+    ],
     "ipv6": []
   }
 }

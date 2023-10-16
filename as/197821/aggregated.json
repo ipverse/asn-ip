@@ -3,7 +3,9 @@
   "handle": "AKRIKHIN",
   "description": "JSC Chemical Pharmaceutical Plant AKRIKHIN",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.162.249.0/24"
+    ],
     "ipv6": []
   }
 }

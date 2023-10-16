@@ -3,7 +3,9 @@
   "handle": "AGDAS",
   "description": "Agdas Adapazari Gaz Dagitim A.S.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "5.253.172.0/23"
+    ],
     "ipv6": []
   }
 }

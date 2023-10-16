@@ -3,7 +3,9 @@
   "handle": "JSL",
   "description": "JSL S/A",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "200.0.62.0/24"
+    ],
     "ipv6": []
   }
 }

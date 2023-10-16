@@ -3,7 +3,9 @@
   "handle": "INTUEGO",
   "description": "INTUEGO S.R.L.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.169.250.0/24"
+    ],
     "ipv6": []
   }
 }

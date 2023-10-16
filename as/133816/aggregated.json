@@ -3,7 +3,9 @@
   "handle": "IDNIC-KLH-ID",
   "description": "Kementerian Lingkungan Hidup dan Kehutanan",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.52.213.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,11 @@
   "handle": "CM-NET-SERVICOS",
   "description": "CM Net Servicos de Comunicao Multimidia LTDA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.230.4.0/22"
+    ],
+    "ipv6": [
+      "2804:48c4::/32"
+    ]
   }
 }

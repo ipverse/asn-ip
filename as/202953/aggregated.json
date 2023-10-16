@@ -3,7 +3,9 @@
   "handle": "UKAVISBUDGETGROUP",
   "description": "Avis Budget Services Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.149.4.0/24"
+    ],
     "ipv6": []
   }
 }

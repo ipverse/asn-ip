@@ -3,7 +3,10 @@
   "handle": "PULMAN-COM",
   "description": "Institute of Soil Science and Plant Cultivation - State Research Institute",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "217.113.144.0/21",
+      "217.113.152.0/22"
+    ],
     "ipv6": []
   }
 }

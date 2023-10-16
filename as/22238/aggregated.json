@@ -3,7 +3,11 @@
   "handle": "DARPA",
   "description": "Defense Advanced Research Projects Agency(DARPA)",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "158.63.0.0/16",
+      "192.5.18.0/24",
+      "192.187.8.0/24"
+    ],
     "ipv6": []
   }
 }

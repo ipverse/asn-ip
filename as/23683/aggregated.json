@@ -3,7 +3,10 @@
   "handle": "BOONRAWD-TH",
   "description": "BoonRawd Brewery Co.,LT",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "61.91.199.0/24",
+      "203.155.179.0/24"
+    ],
     "ipv6": []
   }
 }

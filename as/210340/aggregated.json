@@ -3,7 +3,9 @@
   "handle": "MINECONOMY",
   "description": "Ministry of Economy of Ukraine",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.114.134.0/24"
+    ],
     "ipv6": []
   }
 }

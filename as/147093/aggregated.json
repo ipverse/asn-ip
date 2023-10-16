@@ -3,7 +3,9 @@
   "handle": "IDNIC-WIJABACKBONE-ID",
   "description": "PT Pasifik Wija Teknologi",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.174.16.0/23"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "SHELTER2",
   "description": "Shelter LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.103.253.0/24"
+    ],
     "ipv6": []
   }
 }

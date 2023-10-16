@@ -3,7 +3,9 @@
   "handle": "FISHEL-COMP-01",
   "description": "Team Fishel",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "204.153.4.0/23"
+    ],
     "ipv6": []
   }
 }

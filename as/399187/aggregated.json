@@ -3,7 +3,9 @@
   "handle": "COB-MN-US",
   "description": "City of Bloomington",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.126.172.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "LOJAS-AVENIDA",
   "description": "LOJAS AVENIDA SA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "177.190.214.0/24"
+    ],
     "ipv6": []
   }
 }

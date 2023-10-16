@@ -3,7 +3,10 @@
   "handle": "CANAD-92",
   "description": "7098693 Canada Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.86.85.0/24",
+      "199.34.8.0/24"
+    ],
     "ipv6": []
   }
 }

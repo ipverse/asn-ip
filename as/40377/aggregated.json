@@ -3,7 +3,9 @@
   "handle": "DUNCOM",
   "description": "DUNKLIN COMMUNICATIONS LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "208.74.216.0/21"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,11 @@
   "handle": "FRAPORT-BRASIL",
   "description": "FRAPORT BRASIL S.A. AEROPORTO DE PORTO ALEGRE",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.231.146.0/23"
+    ],
+    "ipv6": [
+      "2804:4aa8::/32"
+    ]
   }
 }

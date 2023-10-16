@@ -3,7 +3,9 @@
   "handle": "AS",
   "description": "COMPASTELECOM LLP",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "212.46.56.0/24"
+    ],
     "ipv6": []
   }
 }

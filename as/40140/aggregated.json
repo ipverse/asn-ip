@@ -3,7 +3,9 @@
   "handle": "COGNEX-DU",
   "description": "Cognex Corporation",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "198.232.18.0/23"
+    ],
     "ipv6": []
   }
 }

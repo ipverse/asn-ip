@@ -3,7 +3,9 @@
   "handle": "GRAO",
   "description": "Ministry of Regional Development and Public Works",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "85.14.18.0/24"
+    ],
     "ipv6": []
   }
 }

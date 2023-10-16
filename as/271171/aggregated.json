@@ -3,7 +3,9 @@
   "handle": "MERCODATA-ENGENHARIA-SISTEMAS",
   "description": "Mercodata Engenharia de Sistemas Ltda",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "177.85.238.0/24"
+    ],
     "ipv6": []
   }
 }

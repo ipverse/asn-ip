@@ -3,7 +3,9 @@
   "handle": "ANSALDO-ENERGIA",
   "description": "Ansaldo Energia S.p.A.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "93.177.83.0/24"
+    ],
     "ipv6": []
   }
 }

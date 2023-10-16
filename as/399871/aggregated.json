@@ -3,7 +3,11 @@
   "handle": "HFL-NETWORKS",
   "description": "HFL Networks LLC",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.45.184.0/22"
+    ],
+    "ipv6": [
+      "2606:6040::/32"
+    ]
   }
 }

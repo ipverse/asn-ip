@@ -3,7 +3,10 @@
   "handle": "CHFA-COLORADO",
   "description": "Colorado Housing and Finance Authority",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "71.4.66.0/24",
+      "192.30.123.0/24"
+    ],
     "ipv6": []
   }
 }

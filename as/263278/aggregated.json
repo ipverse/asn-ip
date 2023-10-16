@@ -3,7 +3,11 @@
   "handle": "CEA-TELECOM-SERVIOS",
   "description": "CEA Telecom - Servios de Telecomunicaes Ltda.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "186.227.124.0/22"
+    ],
+    "ipv6": [
+      "2804:1648::/32"
+    ]
   }
 }

@@ -3,7 +3,11 @@
   "handle": "ZEROONE-NZ-AP",
   "description": "Compass Communications Ltd",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "202.90.46.0/24"
+    ],
+    "ipv6": [
+      "2405:8400:93::/48"
+    ]
   }
 }

@@ -3,7 +3,9 @@
   "handle": "321NET",
   "description": "Telekomunikacja Wschod sp. z o.o.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "178.216.24.0/21"
+    ],
     "ipv6": []
   }
 }

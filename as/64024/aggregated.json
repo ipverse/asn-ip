@@ -3,7 +3,9 @@
   "handle": "YESIMEDIA-ID",
   "description": "PT Yesi Media Utama",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.210.116.0/22"
+    ],
     "ipv6": []
   }
 }

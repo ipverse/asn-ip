@@ -3,7 +3,9 @@
   "handle": "ISG-TECHNOLOGY",
   "description": "ISG-Technology EOOD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "213.91.188.0/24"
+    ],
     "ipv6": []
   }
 }

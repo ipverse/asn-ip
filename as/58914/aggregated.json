@@ -3,7 +3,9 @@
   "handle": "PUDDLENETPTYLTD-AP",
   "description": "Puddlenet Pty Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.24.64.0/22"
+    ],
     "ipv6": []
   }
 }

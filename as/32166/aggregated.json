@@ -3,7 +3,9 @@
   "handle": "TROUTMANSANDERS",
   "description": "Troutman Pepper Hamilton Sanders LLP",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "209.12.52.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "OBWAN",
   "description": "OBWAN NETWORK AND SERVICES S.L.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.163.135.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "EVROC",
   "description": "evroc AB",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.180.196.0/23"
+    ],
     "ipv6": []
   }
 }

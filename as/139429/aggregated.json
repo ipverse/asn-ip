@@ -3,7 +3,9 @@
   "handle": "IDNIC-ARTATEL-ID",
   "description": "PT ARTATEL INDOKARYA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.144.143.0/24"
+    ],
     "ipv6": []
   }
 }

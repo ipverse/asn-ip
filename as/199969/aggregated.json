@@ -3,7 +3,9 @@
   "handle": "PCB",
   "description": "ProCredit Bank AD Skopje",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.88.122.0/23"
+    ],
     "ipv6": []
   }
 }

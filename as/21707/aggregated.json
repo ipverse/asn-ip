@@ -3,7 +3,9 @@
   "handle": "EMHS",
   "description": "Endless Mountains Health Systems",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "68.234.36.0/24"
+    ],
     "ipv6": []
   }
 }

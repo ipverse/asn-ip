@@ -3,7 +3,11 @@
   "handle": "PRIMELENDING-EXT",
   "description": "PrimeLending, A PlainsCapital Company",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.81.161.0/24",
+      "207.150.231.0/24",
+      "207.150.232.0/24"
+    ],
     "ipv6": []
   }
 }

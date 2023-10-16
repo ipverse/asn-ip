@@ -3,7 +3,12 @@
   "handle": "CYB-ID",
   "description": "PT CYB Media Group",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "103.168.44.0/24",
+      "103.179.84.0/24"
+    ],
+    "ipv6": [
+      "2001:df2:60c0::/48"
+    ]
   }
 }

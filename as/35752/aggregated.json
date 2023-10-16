@@ -3,7 +3,9 @@
   "handle": "ZABKA-PL-AS1",
   "description": "Zabka Polska Sp. z o. o.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.88.128.0/23"
+    ],
     "ipv6": []
   }
 }

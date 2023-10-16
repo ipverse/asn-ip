@@ -3,7 +3,9 @@
   "handle": "KASSIRRU",
   "description": "LLC Kassir.ru - National Ticket Operator",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "94.140.212.0/23"
+    ],
     "ipv6": []
   }
 }

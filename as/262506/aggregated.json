@@ -3,7 +3,11 @@
   "handle": "ASERNET-TELECOM",
   "description": "ASERNET TELECOM",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "177.86.96.0/21"
+    ],
+    "ipv6": [
+      "2804:725c::/32"
+    ]
   }
 }

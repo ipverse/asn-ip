@@ -3,7 +3,9 @@
   "handle": "PPCTV-AP",
   "description": "Phnom Penh Cable TV",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "122.252.176.0/21"
+    ],
     "ipv6": []
   }
 }

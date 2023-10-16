@@ -3,7 +3,11 @@
   "handle": "ACX-TELECOM",
   "description": "ACX TELECOM LTDA.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "179.191.224.0/21"
+    ],
+    "ipv6": [
+      "2804:15f4::/33"
+    ]
   }
 }

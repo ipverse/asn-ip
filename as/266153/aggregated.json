@@ -3,7 +3,11 @@
   "handle": "WEBLINE-TELECOM",
   "description": "WebLine Telecom",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "190.196.240.0/22"
+    ],
+    "ipv6": [
+      "2804:3b80::/32"
+    ]
   }
 }

@@ -3,7 +3,12 @@
   "handle": "SOFT-SYSTEM-INFORMATICA",
   "description": "Soft System Informatica Ltda",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "167.250.24.0/22",
+      "168.195.144.0/22"
+    ],
+    "ipv6": [
+      "2804:2d64::/32"
+    ]
   }
 }

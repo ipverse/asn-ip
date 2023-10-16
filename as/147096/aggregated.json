@@ -3,7 +3,9 @@
   "handle": "IDNIC-STRONGNET-ID",
   "description": "PT Jaya Sejahtra Nugraha",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.174.122.0/23"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "MINFIN",
   "description": "Ministry of Finance of the Russian Federation",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.80.224.0/24"
+    ],
     "ipv6": []
   }
 }

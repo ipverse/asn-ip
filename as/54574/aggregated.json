@@ -3,7 +3,11 @@
   "handle": "DMIT-EYEBALL",
   "description": "DMIT Cloud Services",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.88.194.0/23",
+      "65.49.144.0/24",
+      "193.110.200.0/24"
+    ],
     "ipv6": []
   }
 }

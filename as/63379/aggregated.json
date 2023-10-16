@@ -3,7 +3,9 @@
   "handle": "MNSCA",
   "description": "Sun Country Airlines",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.59.148.0/24"
+    ],
     "ipv6": []
   }
 }

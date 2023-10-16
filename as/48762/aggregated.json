@@ -3,7 +3,9 @@
   "handle": "IAA",
   "description": "Iran Aseman Airlines PJSC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.212.16.0/24"
+    ],
     "ipv6": []
   }
 }

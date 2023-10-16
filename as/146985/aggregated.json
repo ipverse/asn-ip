@@ -3,7 +3,9 @@
   "handle": "KC-MSP-NET",
   "description": "KISSEI COMTEC Co.,Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.144.248.0/23"
+    ],
     "ipv6": []
   }
 }

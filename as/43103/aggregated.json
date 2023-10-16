@@ -3,7 +3,12 @@
   "handle": "ONETELECOM",
   "description": "ONE TELECOM ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "80.90.224.0/20",
+      "91.194.72.0/24",
+      "91.196.92.0/22",
+      "185.4.40.0/22"
+    ],
     "ipv6": []
   }
 }

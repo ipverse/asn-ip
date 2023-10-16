@@ -4,6 +4,8 @@
   "description": "DAIFUKU OCEANIA LIMITED",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2406:a900:144::/47"
+    ]
   }
 }

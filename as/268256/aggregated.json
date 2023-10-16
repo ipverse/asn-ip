@@ -3,7 +3,11 @@
   "handle": "SINCH-BR",
   "description": "SINCH BR S/A",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.236.176.0/22"
+    ],
+    "ipv6": [
+      "2804:4e5c::/32"
+    ]
   }
 }

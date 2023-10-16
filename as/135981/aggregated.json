@@ -3,7 +3,11 @@
   "handle": "VISUALVIET-VN",
   "description": "VisualViet Company Limited",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "103.168.52.0/24"
+    ],
+    "ipv6": [
+      "2400:3220::/48"
+    ]
   }
 }

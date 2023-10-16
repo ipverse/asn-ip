@@ -3,7 +3,12 @@
   "handle": "MIDASPLAYER",
   "description": "Midasplayer AB",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "5.154.244.0/22",
+      "185.48.80.0/22"
+    ],
+    "ipv6": [
+      "2a01:9560::/32"
+    ]
   }
 }

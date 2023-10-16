@@ -3,7 +3,9 @@
   "handle": "HOSTWEB-DATA-CENTER",
   "description": "HOSTWEB DATA CENTER E SERVICOS LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "187.111.64.0/20"
+    ],
     "ipv6": []
   }
 }

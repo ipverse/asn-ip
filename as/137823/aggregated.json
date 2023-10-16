@@ -3,7 +3,9 @@
   "handle": "TECHNOCORE-AP",
   "description": "Technocore Bangladesh Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.115.24.0/22"
+    ],
     "ipv6": []
   }
 }

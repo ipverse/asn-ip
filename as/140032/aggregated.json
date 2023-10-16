@@ -3,7 +3,10 @@
   "handle": "UOB-AP",
   "description": "United Overseas Bank (Thai) Public Company Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "49.229.44.0/24",
+      "119.63.92.0/24"
+    ],
     "ipv6": []
   }
 }

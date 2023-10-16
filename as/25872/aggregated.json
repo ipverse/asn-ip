@@ -3,7 +3,9 @@
   "handle": "RVSD41",
   "description": "Rocky View Schools",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.216.104.0/22"
+    ],
     "ipv6": []
   }
 }

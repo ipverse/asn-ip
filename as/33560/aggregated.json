@@ -3,7 +3,9 @@
   "handle": "LINCOLNINVESTMENTPLANNING",
   "description": "Lincoln Investment Planning, LLC.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "206.229.115.0/24"
+    ],
     "ipv6": []
   }
 }

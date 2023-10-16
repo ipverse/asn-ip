@@ -3,7 +3,11 @@
   "handle": "PCEXTREME-MIA",
   "description": "CLDIN B.V.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "185.95.28.0/23"
+    ],
+    "ipv6": [
+      "2a05:1500::/40"
+    ]
   }
 }

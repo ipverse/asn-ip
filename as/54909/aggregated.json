@@ -3,7 +3,9 @@
   "handle": "VENAFI",
   "description": "Venafi, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "198.190.131.0/24"
+    ],
     "ipv6": []
   }
 }

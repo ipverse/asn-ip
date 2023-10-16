@@ -3,7 +3,9 @@
   "handle": "MCDEAN",
   "description": "M.C. Dean,Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "65.217.55.0/24"
+    ],
     "ipv6": []
   }
 }

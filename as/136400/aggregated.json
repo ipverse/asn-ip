@@ -3,7 +3,10 @@
   "handle": "ACG-AFG-AP",
   "description": "Asia Consultancy Group",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.86.124.0/23",
+      "103.86.127.0/24"
+    ],
     "ipv6": []
   }
 }

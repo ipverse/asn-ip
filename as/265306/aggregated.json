@@ -3,7 +3,11 @@
   "handle": "VOE-INTERNET",
   "description": "VOE INTERNET",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "168.121.28.0/23"
+    ],
+    "ipv6": [
+      "2804:2dd4::/32"
+    ]
   }
 }

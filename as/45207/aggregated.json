@@ -3,7 +3,9 @@
   "handle": "CBH-AU",
   "description": "Co-Operative Bulk Handling Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "203.189.93.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,10 @@
   "handle": "RAICH",
   "description": "KRZYSZTOF MUKLEWICZ Raich - Krzysztof Muklewicz",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "176.124.190.0/24",
+      "195.182.51.0/24"
+    ],
     "ipv6": []
   }
 }

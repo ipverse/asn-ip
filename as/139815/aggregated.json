@@ -3,7 +3,9 @@
   "handle": "TUSB-AP",
   "description": "Taylor\u0027s University Sdn Bhd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.145.154.0/23"
+    ],
     "ipv6": []
   }
 }

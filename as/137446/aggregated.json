@@ -3,7 +3,9 @@
   "handle": "HIGHSPEEDNET-AP",
   "description": "Highspeednet Data Services(Hongkong)Co.,Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.109.4.0/23"
+    ],
     "ipv6": []
   }
 }

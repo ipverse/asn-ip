@@ -3,7 +3,9 @@
   "handle": "IDNIC-HOSTNETGLOBAL-ID",
   "description": "PT Hostnet Data Global",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.184.178.0/23"
+    ],
     "ipv6": []
   }
 }

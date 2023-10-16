@@ -3,7 +3,11 @@
   "handle": "FIRSTLINK",
   "description": "FirstLink Networks B.V.B.A.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "194.50.97.0/24"
+    ],
+    "ipv6": [
+      "2001:67c:314::/48"
+    ]
   }
 }

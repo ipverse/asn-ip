@@ -3,7 +3,11 @@
   "handle": "GARGUNET",
   "description": "Frederic Gargula",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.66.4.0/22"
+    ],
+    "ipv6": [
+      "2a09:5fc0::/29"
+    ]
   }
 }

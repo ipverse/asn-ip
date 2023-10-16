@@ -3,7 +3,9 @@
   "handle": "TRKMIR",
   "description": "Teleradiocompany MIR Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.50.167.0/24"
+    ],
     "ipv6": []
   }
 }

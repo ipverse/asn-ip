@@ -3,7 +3,10 @@
   "handle": "BRASILSITE-TELECOMUNICAES",
   "description": "Brasilsite Telecomunicaes Ltda.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "187.60.224.0/20",
+      "201.55.80.0/20"
+    ],
     "ipv6": []
   }
 }

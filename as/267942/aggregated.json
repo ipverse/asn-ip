@@ -3,7 +3,11 @@
   "handle": "PRIMELINE-LATAM",
   "description": "PRIMELINE LATAM LTDA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.166.4.0/22"
+    ],
+    "ipv6": [
+      "2804:5590::/32"
+    ]
   }
 }

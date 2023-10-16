@@ -3,7 +3,9 @@
   "handle": "EDB",
   "description": "Eurasian Development Bank",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.9.120.0/23"
+    ],
     "ipv6": []
   }
 }

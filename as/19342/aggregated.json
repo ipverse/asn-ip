@@ -3,7 +3,9 @@
   "handle": "TRINITY-UNIVERSITY",
   "description": "Trinity University",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "131.194.0.0/16"
+    ],
     "ipv6": []
   }
 }

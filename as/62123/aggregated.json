@@ -3,7 +3,9 @@
   "handle": "RT",
   "description": "Rapid Telecommunications W.L.L.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.34.228.0/22"
+    ],
     "ipv6": []
   }
 }

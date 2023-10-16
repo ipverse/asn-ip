@@ -3,7 +3,11 @@
   "handle": "ELNUS-ID",
   "description": "PT. Elektrindo Data Nusantara",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "202.146.176.0/21"
+    ],
+    "ipv6": [
+      "2404:4200::/32"
+    ]
   }
 }

@@ -3,7 +3,9 @@
   "handle": "NEOLINKGROUP",
   "description": "Neolink Grupp LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "213.5.135.0/24"
+    ],
     "ipv6": []
   }
 }

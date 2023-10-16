@@ -3,7 +3,9 @@
   "handle": "CCM-NET1",
   "description": "Collectivei",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.172.255.0/24"
+    ],
     "ipv6": []
   }
 }

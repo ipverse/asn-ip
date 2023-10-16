@@ -3,7 +3,9 @@
   "handle": "CUSOURCE-LLC",
   "description": "CUsource, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "208.79.20.0/22"
+    ],
     "ipv6": []
   }
 }

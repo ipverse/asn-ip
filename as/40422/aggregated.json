@@ -3,7 +3,11 @@
   "handle": "PACIOLAN",
   "description": "Paciolan, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "209.67.131.0/24",
+      "209.67.140.0/24",
+      "216.177.87.0/24"
+    ],
     "ipv6": []
   }
 }

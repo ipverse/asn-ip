@@ -3,7 +3,9 @@
   "handle": "CONCORD",
   "description": "Concord Management Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "50.59.217.0/24"
+    ],
     "ipv6": []
   }
 }

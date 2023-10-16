@@ -3,7 +3,11 @@
   "handle": "PFG-ASN-1",
   "description": "Principal Financial Group",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "206.195.192.0/19"
+    ],
+    "ipv6": [
+      "2620:1e1::/36"
+    ]
   }
 }

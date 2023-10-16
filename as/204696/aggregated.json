@@ -3,7 +3,9 @@
   "handle": "AUCHAN-RU",
   "description": "AUCHAN LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.84.13.0/24"
+    ],
     "ipv6": []
   }
 }

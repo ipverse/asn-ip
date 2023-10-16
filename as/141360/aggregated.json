@@ -3,7 +3,10 @@
   "handle": "PCPPL-AP",
   "description": "Premier Contact Point Pty Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.157.140.0/23",
+      "103.219.240.0/23"
+    ],
     "ipv6": []
   }
 }

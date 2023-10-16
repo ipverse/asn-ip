@@ -3,7 +3,9 @@
   "handle": "TELECOM-BOLIVIA",
   "description": "TELECOM BOLIVIA S.A.C",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "186.148.196.0/22"
+    ],
     "ipv6": []
   }
 }

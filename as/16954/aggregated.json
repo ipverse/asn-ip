@@ -3,7 +3,9 @@
   "handle": "TRT-NET",
   "description": "Three River Telco",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "209.54.16.0/20"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,10 @@
   "handle": "DST",
   "description": "Unified National Networks",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.20.24.0/22",
+      "103.42.208.0/22"
+    ],
     "ipv6": []
   }
 }

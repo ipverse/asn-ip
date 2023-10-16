@@ -3,7 +3,9 @@
   "handle": "IWAYAFRICA-ZAMBIA",
   "description": "Africa Online Operations (Mauritius) Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "41.198.80.0/22"
+    ],
     "ipv6": []
   }
 }

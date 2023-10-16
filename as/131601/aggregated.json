@@ -3,7 +3,10 @@
   "handle": "DCT",
   "description": "Dynamic Computing Technology",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.252.196.0/22",
+      "114.29.244.0/22"
+    ],
     "ipv6": []
   }
 }

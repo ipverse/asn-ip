@@ -3,7 +3,9 @@
   "handle": "PRELUDE-SERVICES",
   "description": "Prelude Services",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "142.202.185.0/24"
+    ],
     "ipv6": []
   }
 }

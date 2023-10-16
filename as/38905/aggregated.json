@@ -3,7 +3,9 @@
   "handle": "CPHAPNIC-AP",
   "description": "Consolidated Press Holdings Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "203.100.56.0/24"
+    ],
     "ipv6": []
   }
 }

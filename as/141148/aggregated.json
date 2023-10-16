@@ -3,7 +3,9 @@
   "handle": "MYBHARATNETPRIVATELIMITED-AP",
   "description": "MyBharat Net Private Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "154.61.72.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "PRIAN",
   "description": "PRIAN LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "92.255.54.0/24"
+    ],
     "ipv6": []
   }
 }

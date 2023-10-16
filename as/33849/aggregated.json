@@ -3,7 +3,10 @@
   "handle": "COMFONE",
   "description": "Comfone AG",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "77.32.225.0/24",
+      "195.211.14.0/23"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,11 @@
   "handle": "VVCNET-IN",
   "description": "Vvcnet Services Pvt Ltd",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "103.187.80.0/24"
+    ],
+    "ipv6": [
+      "2001:df0:b9c0::/48"
+    ]
   }
 }

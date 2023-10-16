@@ -3,7 +3,10 @@
   "handle": "HEALTHPARTNERSPA",
   "description": "Health Partners Plans, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "198.199.154.0/24",
+      "198.199.236.0/24"
+    ],
     "ipv6": []
   }
 }

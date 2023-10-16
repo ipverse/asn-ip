@@ -3,7 +3,10 @@
   "handle": "TIMKEN-USA",
   "description": "The Timken Company",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "147.185.160.0/24",
+      "147.185.177.0/24"
+    ],
     "ipv6": []
   }
 }

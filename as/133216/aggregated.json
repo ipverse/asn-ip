@@ -3,7 +3,9 @@
   "handle": "YMA-AP",
   "description": "YAMAHA MOTOR AUSTRALIA PTY. LTD.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.224.142.0/24"
+    ],
     "ipv6": []
   }
 }

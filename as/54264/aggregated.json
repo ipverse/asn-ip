@@ -3,7 +3,9 @@
   "handle": "LIFECHURCH",
   "description": "LIFE COVENANT CHURCH, INC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "205.236.56.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,10 @@
   "handle": "POWERNET",
   "description": "LLC POWERNET",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "31.130.0.0/19",
+      "93.157.160.0/21"
+    ],
     "ipv6": []
   }
 }

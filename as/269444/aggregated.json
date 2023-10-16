@@ -3,7 +3,12 @@
   "handle": "SPNET-PROVEDORES",
   "description": "SPNET PROVEDORES LTDA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.186.164.0/22"
+    ],
+    "ipv6": [
+      "2804:64b8:4000::/34",
+      "2804:64b8:c000::/34"
+    ]
   }
 }

@@ -3,7 +3,9 @@
   "handle": "PSKAS",
   "description": "GBU PO CIS PO",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.128.137.0/24"
+    ],
     "ipv6": []
   }
 }

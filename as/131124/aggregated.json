@@ -3,7 +3,11 @@
   "handle": "NHCSXH-VN",
   "description": "Vietnam Bank For Social Policies",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "103.145.248.0/24"
+    ],
+    "ipv6": [
+      "2001:df2:3680::/48"
+    ]
   }
 }

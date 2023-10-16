@@ -3,7 +3,10 @@
   "handle": "BRFBR-ARL",
   "description": "B. RILEY FBR, INC.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "216.225.28.0/23",
+      "216.225.30.0/24"
+    ],
     "ipv6": []
   }
 }

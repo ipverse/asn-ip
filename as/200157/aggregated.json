@@ -3,7 +3,11 @@
   "handle": "HU-99999-SKYBLOCKS",
   "description": "99999 Informatika Ltd.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "185.159.190.0/24"
+    ],
+    "ipv6": [
+      "2a12:86c0::/32"
+    ]
   }
 }

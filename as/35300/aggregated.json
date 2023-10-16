@@ -3,7 +3,9 @@
   "handle": "ADITU",
   "description": "ADITU",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "85.31.144.0/21"
+    ],
     "ipv6": []
   }
 }

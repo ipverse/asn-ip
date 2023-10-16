@@ -3,7 +3,9 @@
   "handle": "IBSPLC-AP",
   "description": "IBS Software Services (P) Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "202.177.44.0/22"
+    ],
     "ipv6": []
   }
 }

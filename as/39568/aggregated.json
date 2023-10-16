@@ -3,7 +3,10 @@
   "handle": "ASIA-WIRELESS",
   "description": "ASIA WIRELESS GROUP MChJ QK",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.157.139.0/24",
+      "185.230.204.0/22"
+    ],
     "ipv6": []
   }
 }

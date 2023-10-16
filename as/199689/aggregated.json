@@ -4,6 +4,8 @@
   "description": "Josha Prior",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a12:bec0:de1::/48"
+    ]
   }
 }

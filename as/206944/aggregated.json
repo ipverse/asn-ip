@@ -3,7 +3,9 @@
   "handle": "SIGMAMEDITERRANEE",
   "description": "Value IT SAS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.171.20.0/23"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,12 @@
   "handle": "DEPKOMINFO-ID",
   "description": "Departemen Komunikasi dan Informasi Republik Indonesia",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "103.8.76.0/23",
+      "202.89.116.0/23"
+    ],
+    "ipv6": [
+      "2001:df2:a600::/48"
+    ]
   }
 }

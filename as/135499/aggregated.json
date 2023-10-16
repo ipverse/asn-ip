@@ -3,7 +3,9 @@
   "handle": "TIGER-PL-AP",
   "description": "Tiger Resort Leisure \u0026 Entertainment, Inc. (TRLEI)",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "210.213.219.0/24"
+    ],
     "ipv6": []
   }
 }

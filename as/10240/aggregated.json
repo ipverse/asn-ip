@@ -3,7 +3,9 @@
   "handle": "MOTLEYFOOL",
   "description": "The Motley Fool, LLC.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "208.82.174.0/24"
+    ],
     "ipv6": []
   }
 }

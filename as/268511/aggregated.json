@@ -3,7 +3,9 @@
   "handle": "GLAUCIO-GOMES-RAMOS",
   "description": "Glaucio Gomes Ramos ME",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.161.84.0/22"
+    ],
     "ipv6": []
   }
 }

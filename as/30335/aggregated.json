@@ -3,7 +3,9 @@
   "handle": "WWU",
   "description": "Walla Walla University",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.147.172.0/23"
+    ],
     "ipv6": []
   }
 }

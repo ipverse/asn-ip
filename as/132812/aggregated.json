@@ -3,7 +3,9 @@
   "handle": "CCC-AP",
   "description": "Central Coast Council",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.74.142.0/24"
+    ],
     "ipv6": []
   }
 }

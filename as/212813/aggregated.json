@@ -3,7 +3,11 @@
   "handle": "LINDNER",
   "description": "Lindner-Recyclingtech GmbH",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "185.76.158.0/24"
+    ],
+    "ipv6": [
+      "2a10:2680::/29"
+    ]
   }
 }

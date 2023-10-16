@@ -3,7 +3,9 @@
   "handle": "LEFRED",
   "description": "Lefleur Transportation of Tupelo, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "216.45.253.0/24"
+    ],
     "ipv6": []
   }
 }

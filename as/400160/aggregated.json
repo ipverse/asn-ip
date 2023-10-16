@@ -3,7 +3,9 @@
   "handle": "CITYOFYUMA-NET",
   "description": "City of Yuma",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "72.165.188.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,11 @@
   "handle": "DORA-BARALDO-PROVEDOR",
   "description": "DORA BARALDO PROVEDOR DE INTERNET - ME",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.7.224.0/22"
+    ],
+    "ipv6": [
+      "2804:3eb0::/32"
+    ]
   }
 }

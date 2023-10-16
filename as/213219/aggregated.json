@@ -4,6 +4,9 @@
   "description": "SKALA NETWORKS LLC",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2602:faa5:f09::/48",
+      "2602:faa5:f0a::/48"
+    ]
   }
 }

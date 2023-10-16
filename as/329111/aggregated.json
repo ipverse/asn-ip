@@ -3,7 +3,9 @@
   "handle": "KPAL1",
   "description": "KENYA POWER AND LIGHTING COMPANY PLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "102.215.40.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,11 @@
   "handle": "KAZNETCOM",
   "description": "Kazakhstan Network Communication LLP",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.162.234.0/24",
+      "193.43.251.0/24",
+      "194.31.133.0/24"
+    ],
     "ipv6": []
   }
 }

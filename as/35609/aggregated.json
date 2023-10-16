@@ -3,7 +3,11 @@
   "handle": "ITP-AT",
   "description": "Smart Force e.U.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "193.239.40.0/22"
+    ],
+    "ipv6": [
+      "2001:67c:4c::/48"
+    ]
   }
 }

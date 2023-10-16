@@ -3,7 +3,11 @@
   "handle": "ASHEREDC",
   "description": "HERE North America LLC",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "66.54.64.0/21"
+    ],
+    "ipv6": [
+      "2001:490:2000::/35"
+    ]
   }
 }

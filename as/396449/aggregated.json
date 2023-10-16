@@ -3,7 +3,9 @@
   "handle": "OUTSOURCING",
   "description": "CliftonLarsonAllen, LLP",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.92.139.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "FIRSTECH-INC",
   "description": "Firstech, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "139.64.250.0/24"
+    ],
     "ipv6": []
   }
 }

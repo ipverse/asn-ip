@@ -3,7 +3,9 @@
   "handle": "ABL-AP",
   "description": "Airstar Bank Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.17.4.0/24"
+    ],
     "ipv6": []
   }
 }

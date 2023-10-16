@@ -3,7 +3,9 @@
   "handle": "RSI-COLO",
   "description": "R Systems Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "172.84.128.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "UNIVERSO-FIBER-COMUNICACAO",
   "description": "UNIVERSO FIBER COMUNICACAO MULTIMIDIA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.178.248.0/22"
+    ],
     "ipv6": []
   }
 }

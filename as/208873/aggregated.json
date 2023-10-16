@@ -3,7 +3,10 @@
   "handle": "NOIXASPA",
   "description": "NOIXA S.P.A",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.81.156.0/23",
+      "94.127.236.0/23"
+    ],
     "ipv6": []
   }
 }

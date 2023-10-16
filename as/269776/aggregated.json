@@ -3,7 +3,9 @@
   "handle": "GLOBALWEB",
   "description": "GLOBALWEB S.R.L.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.178.52.0/22"
+    ],
     "ipv6": []
   }
 }

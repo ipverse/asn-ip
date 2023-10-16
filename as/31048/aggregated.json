@@ -3,7 +3,9 @@
   "handle": "FLEXEPRINT",
   "description": "Digital Evolutions Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.28.45.0/24"
+    ],
     "ipv6": []
   }
 }

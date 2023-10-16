@@ -3,7 +3,11 @@
   "handle": "E-SANTOS-NASCIMENTO",
   "description": "E SANTOS NASCIMENTO PROVEDOR DE INTERNET",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "190.103.148.0/22"
+    ],
+    "ipv6": [
+      "2804:73c0::/32"
+    ]
   }
 }

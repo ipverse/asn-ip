@@ -3,7 +3,10 @@
   "handle": "INTERSATNET-ID",
   "description": "Widya Intersat Nusantara, PT",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.94.8.0/22",
+      "180.178.92.0/22"
+    ],
     "ipv6": []
   }
 }

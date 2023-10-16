@@ -3,7 +3,9 @@
   "handle": "ATNETHOST-AS02",
   "description": "AtNetHost LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "74.219.100.0/24"
+    ],
     "ipv6": []
   }
 }

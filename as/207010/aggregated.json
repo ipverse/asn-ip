@@ -3,7 +3,9 @@
   "handle": "MATELSO",
   "description": "MaTelSo GmbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "154.48.197.0/24"
+    ],
     "ipv6": []
   }
 }

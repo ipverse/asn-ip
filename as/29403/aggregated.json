@@ -3,7 +3,12 @@
   "handle": "VERISIGN",
   "description": "VeriSign Inc.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "217.30.88.0/22",
+      "217.30.93.0/24"
+    ],
+    "ipv6": [
+      "2620:74:15::/48"
+    ]
   }
 }

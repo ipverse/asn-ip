@@ -3,7 +3,9 @@
   "handle": "INVIS-AP",
   "description": "Invisalign Singapore Pte. Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.68.134.0/23"
+    ],
     "ipv6": []
   }
 }

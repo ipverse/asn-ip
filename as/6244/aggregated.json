@@ -3,7 +3,9 @@
   "handle": "SWIEC",
   "description": "Swieca Holdings, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.108.238.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "ASIGUZZINI",
   "description": "iGuzzini illuminazione s.p.a.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "37.77.103.0/24"
+    ],
     "ipv6": []
   }
 }

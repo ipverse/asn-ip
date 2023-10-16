@@ -3,7 +3,11 @@
   "handle": "CITTEC",
   "description": "Centre Integral de Telecomunicacions i Tecnologies de Catalunya S.L",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "2.57.128.0/22"
+    ],
+    "ipv6": [
+      "2a09:d940::/29"
+    ]
   }
 }

@@ -3,7 +3,11 @@
   "handle": "J-IVANILDO-SALES-MACIEL",
   "description": "J IVANILDO DE SALES MACIEL",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.181.80.0/22"
+    ],
+    "ipv6": [
+      "2804:6094::/32"
+    ]
   }
 }

@@ -3,7 +3,12 @@
   "handle": "GIGABITBANK-HK",
   "description": "GIGABIT SOLUTION LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.204.80.0/20",
+      "103.153.5.0/24",
+      "154.212.144.0/20",
+      "154.213.30.0/23"
+    ],
     "ipv6": []
   }
 }

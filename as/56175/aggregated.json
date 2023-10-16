@@ -3,7 +3,9 @@
   "handle": "ARGONCCS-SG",
   "description": "Merit Medical Singapore Pte. Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "202.21.129.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "ASFARMSTANDART",
   "description": "LLC Farmstandart",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "84.47.173.0/24"
+    ],
     "ipv6": []
   }
 }

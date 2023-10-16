@@ -3,7 +3,9 @@
   "handle": "ASGN",
   "description": "On Assignment, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.103.251.0/24"
+    ],
     "ipv6": []
   }
 }

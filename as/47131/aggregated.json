@@ -3,7 +3,9 @@
   "handle": "PH",
   "description": "PH, spol. s r. o.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "62.182.232.0/21"
+    ],
     "ipv6": []
   }
 }

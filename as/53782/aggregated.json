@@ -3,7 +3,9 @@
   "handle": "PCOASTP",
   "description": "Pacific Coast Producers",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "108.160.0.0/20"
+    ],
     "ipv6": []
   }
 }

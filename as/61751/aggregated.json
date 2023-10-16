@@ -3,7 +3,12 @@
   "handle": "SINTNET-TELECOMUNICACOES-INFORMATICA",
   "description": "SINTNET-TELECOMUNICACOES E INFORMATICA LTDA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "131.72.252.0/22",
+      "168.228.40.0/22"
+    ],
+    "ipv6": [
+      "2804:1bcc::/32"
+    ]
   }
 }

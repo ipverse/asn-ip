@@ -3,7 +3,12 @@
   "handle": "AONB-AP",
   "description": "Always On Network Bangladesh Ltd.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "49.0.32.0/20",
+      "117.58.240.0/21"
+    ],
+    "ipv6": [
+      "2404:b580::/32"
+    ]
   }
 }

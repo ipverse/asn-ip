@@ -3,7 +3,9 @@
   "handle": "REE",
   "description": "Regie Autonome Electric Cable Chauffage EPIC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "95.131.16.0/22"
+    ],
     "ipv6": []
   }
 }

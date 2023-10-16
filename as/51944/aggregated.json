@@ -3,7 +3,12 @@
   "handle": "PROMEDIA-IPV",
   "description": "DARIUSZ WESOLOWSKI trading as PROMEDIA NOWICKI WESOLOWSKI Sp.J.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "193.151.48.0/22"
+    ],
+    "ipv6": [
+      "2001:67c:21e8::/48",
+      "2a06:aa40::/29"
+    ]
   }
 }

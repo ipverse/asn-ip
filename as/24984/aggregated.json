@@ -3,7 +3,10 @@
   "handle": "LUMINORLT",
   "description": "Luminor Bank AS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.176.60.0/24",
+      "195.12.178.0/24"
+    ],
     "ipv6": []
   }
 }

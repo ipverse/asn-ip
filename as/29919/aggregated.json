@@ -3,7 +3,10 @@
   "handle": "SELECT-PORTFOLIO-SERVICING",
   "description": "SELECT PORTFOLIO SERVICING INC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "74.115.108.0/24",
+      "74.115.110.0/24"
+    ],
     "ipv6": []
   }
 }

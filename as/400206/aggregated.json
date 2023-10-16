@@ -3,7 +3,9 @@
   "handle": "ADAPTIVE-FIBER",
   "description": "Adaptive Fiber LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.75.240.0/21"
+    ],
     "ipv6": []
   }
 }

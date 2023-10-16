@@ -3,7 +3,9 @@
   "handle": "PL-3PL",
   "description": "3.PL BARTOSZ LORENC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.238.12.0/22"
+    ],
     "ipv6": []
   }
 }

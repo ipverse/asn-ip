@@ -3,7 +3,11 @@
   "handle": "FUTURETEC-TELECOM",
   "description": "FUTURETEC TELECOM",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.6.176.0/22"
+    ],
+    "ipv6": [
+      "2804:3bc8::/32"
+    ]
   }
 }

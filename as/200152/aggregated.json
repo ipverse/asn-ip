@@ -3,7 +3,9 @@
   "handle": "SYNOVATE-COMCON",
   "description": "Ipsos Comcon LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "178.170.207.0/24"
+    ],
     "ipv6": []
   }
 }

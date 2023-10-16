@@ -3,7 +3,9 @@
   "handle": "BDG-TECHNOLOGIES",
   "description": "BDG Technologies LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "208.103.189.0/24"
+    ],
     "ipv6": []
   }
 }

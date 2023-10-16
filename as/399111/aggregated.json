@@ -3,7 +3,9 @@
   "handle": "CAMELLIA-FIBER",
   "description": "In-Telecom Consulting",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "104.128.180.0/22"
+    ],
     "ipv6": []
   }
 }

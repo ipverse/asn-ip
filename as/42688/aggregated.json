@@ -3,7 +3,10 @@
   "handle": "ARCA",
   "description": "Armenian Card (ArCa) CJSC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "37.157.208.0/24",
+      "91.199.226.0/24"
+    ],
     "ipv6": []
   }
 }

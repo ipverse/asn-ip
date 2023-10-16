@@ -3,7 +3,9 @@
   "handle": "BITNET-TELECOM",
   "description": "BITNET TELECOM",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.187.56.0/22"
+    ],
     "ipv6": []
   }
 }

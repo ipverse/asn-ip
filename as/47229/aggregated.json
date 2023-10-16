@@ -3,7 +3,9 @@
   "handle": "UM",
   "description": "Marshal\u0027s Office of the Podkarpackie Province",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.158.246.0/23"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "PCHC-SPECTRUM-ATT",
   "description": "Asset Protection Management II L.L.C.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "12.13.35.0/24"
+    ],
     "ipv6": []
   }
 }

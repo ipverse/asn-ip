@@ -3,7 +3,10 @@
   "handle": "AVESTONET",
   "description": "LLC NET SOLUTIONS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.94.218.0/23",
+      "185.121.2.0/23"
+    ],
     "ipv6": []
   }
 }

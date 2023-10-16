@@ -3,7 +3,9 @@
   "handle": "CORPORACIN-UNIVERSITARIA-MINUTO",
   "description": "Corporacin Universitaria Minuto de Dios",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "200.10.154.0/24"
+    ],
     "ipv6": []
   }
 }

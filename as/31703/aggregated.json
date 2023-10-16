@@ -3,7 +3,11 @@
   "handle": "INTERMAX",
   "description": "Mobil-group ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "84.242.0.0/22",
+      "84.242.5.0/24",
+      "84.242.6.0/23"
+    ],
     "ipv6": []
   }
 }

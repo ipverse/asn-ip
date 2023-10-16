@@ -3,7 +3,9 @@
   "handle": "ITC-CHI",
   "description": "Independence Tube Corporation",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "12.19.45.0/24"
+    ],
     "ipv6": []
   }
 }

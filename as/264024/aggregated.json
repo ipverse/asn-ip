@@ -3,7 +3,11 @@
   "handle": "WNET-TELECOM-INFORMTICA",
   "description": "Wnet Telecom e Informtica EIRELI",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "143.137.12.0/22"
+    ],
+    "ipv6": [
+      "2804:2998::/32"
+    ]
   }
 }

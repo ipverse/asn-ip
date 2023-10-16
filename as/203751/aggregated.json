@@ -3,7 +3,11 @@
   "handle": "WIFIMAX",
   "description": "GRUPO WIFIMAX, S.L.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "80.80.82.0/23",
+      "185.124.140.0/22",
+      "185.132.184.0/23"
+    ],
     "ipv6": []
   }
 }

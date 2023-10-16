@@ -3,7 +3,13 @@
   "handle": "VERGETEL-GROUP-LLC",
   "description": "VergeTel Group LLC",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "63.133.216.0/22",
+      "206.168.132.0/22"
+    ],
+    "ipv6": [
+      "2602:fbd9:1::/48",
+      "2602:fbd9:400::/38"
+    ]
   }
 }

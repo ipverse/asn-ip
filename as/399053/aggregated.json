@@ -3,7 +3,9 @@
   "handle": "ENTHQ-01",
   "description": "Ent Credit Union",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "208.184.222.0/24"
+    ],
     "ipv6": []
   }
 }

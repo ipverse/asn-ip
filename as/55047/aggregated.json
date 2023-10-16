@@ -3,7 +3,9 @@
   "handle": "NWF-ARIN",
   "description": "NATIONAL WILDLIFE FEDERATION",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "198.178.148.0/24"
+    ],
     "ipv6": []
   }
 }

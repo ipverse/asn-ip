@@ -3,7 +3,15 @@
   "handle": "WELINK-COMMUNICATIONS-01",
   "description": "WeLink Communications, Inc.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "50.20.112.0/21",
+      "50.20.120.0/24",
+      "50.20.122.0/24",
+      "50.20.124.0/22",
+      "147.160.7.0/24"
+    ],
+    "ipv6": [
+      "2605:c840::/32"
+    ]
   }
 }

@@ -3,7 +3,9 @@
   "handle": "ICISLERI",
   "description": "Turkiye Cumhuriyeti Icisleri Bakanligi",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "2.58.140.0/22"
+    ],
     "ipv6": []
   }
 }

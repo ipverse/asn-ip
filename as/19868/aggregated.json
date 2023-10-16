@@ -3,7 +3,10 @@
   "handle": "UL-LV",
   "description": "UnitedLayer, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "207.7.143.0/24",
+      "207.7.152.0/23"
+    ],
     "ipv6": []
   }
 }

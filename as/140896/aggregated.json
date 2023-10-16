@@ -3,7 +3,11 @@
   "handle": "LTSPL-AP",
   "description": "Lumity Technology Solutions Pty Ltd",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "103.153.30.0/24"
+    ],
+    "ipv6": [
+      "2001:df4:2c80::/48"
+    ]
   }
 }

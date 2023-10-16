@@ -3,7 +3,9 @@
   "handle": "CORPORACIN-FAVORITA-CA",
   "description": "CORPORACIN FAVORITA C.A.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "179.0.129.0/24"
+    ],
     "ipv6": []
   }
 }

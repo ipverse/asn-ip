@@ -3,7 +3,9 @@
   "handle": "MOMENTUM-METROPOLITAN-LIFE",
   "description": "Momentum Metropolitan Life Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "102.221.180.0/23"
+    ],
     "ipv6": []
   }
 }

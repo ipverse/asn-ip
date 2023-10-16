@@ -3,7 +3,9 @@
   "handle": "MAG-TEK",
   "description": "MAG-TEK, INC.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "12.202.103.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "VI",
   "description": "Sangoma US Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "64.136.160.0/20"
+    ],
     "ipv6": []
   }
 }

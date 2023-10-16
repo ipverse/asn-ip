@@ -3,7 +3,9 @@
   "handle": "CAMARA-DIRIGENTES-LOJISTAS",
   "description": "CAMARA DE DIRIGENTES LOJISTAS DE BELO HORIZONTE",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "200.189.0.0/21"
+    ],
     "ipv6": []
   }
 }

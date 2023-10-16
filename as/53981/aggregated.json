@@ -3,7 +3,11 @@
   "handle": "TEXTPLUS",
   "description": "TEXTPLUS, INC.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "198.1.52.0/22"
+    ],
+    "ipv6": [
+      "2602:ff37::/36"
+    ]
   }
 }

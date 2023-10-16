@@ -3,7 +3,9 @@
   "handle": "UTEL-IN",
   "description": "Uteleservices",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.160.216.0/23"
+    ],
     "ipv6": []
   }
 }

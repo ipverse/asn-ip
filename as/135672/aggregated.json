@@ -3,7 +3,9 @@
   "handle": "GRANGERESOURCES-AP",
   "description": "GRANGE RESOURCES (TASMANIA) PTY LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.78.153.0/24"
+    ],
     "ipv6": []
   }
 }

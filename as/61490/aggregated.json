@@ -3,7 +3,9 @@
   "handle": "CABLE-NORTE-TV",
   "description": "Cable Norte Tv SA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "131.108.140.0/22"
+    ],
     "ipv6": []
   }
 }

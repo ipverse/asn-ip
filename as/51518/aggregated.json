@@ -3,7 +3,9 @@
   "handle": "KAFA-NET",
   "description": "EKMA IS LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.217.78.0/23"
+    ],
     "ipv6": []
   }
 }

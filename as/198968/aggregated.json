@@ -3,7 +3,11 @@
   "handle": "CYBERNETICOS",
   "description": "Cyberneticos Hosting SL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "164.138.208.0/22",
+      "164.138.212.0/23",
+      "164.138.214.0/24"
+    ],
     "ipv6": []
   }
 }

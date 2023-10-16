@@ -3,7 +3,9 @@
   "handle": "PEMDA-NAD-ID",
   "description": "Dinas Perhubungan,komunikasi, informasi dan Telematika -NAD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "123.108.96.0/21"
+    ],
     "ipv6": []
   }
 }

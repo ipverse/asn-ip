@@ -3,7 +3,9 @@
   "handle": "ATSCRIPTUM",
   "description": "AT scriptum Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.114.112.0/24"
+    ],
     "ipv6": []
   }
 }

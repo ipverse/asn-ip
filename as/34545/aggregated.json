@@ -3,7 +3,10 @@
   "handle": "WEBINARTEHNOLOGII",
   "description": "Webinar Tehnologii OOO",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "37.130.192.0/22",
+      "185.45.82.0/23"
+    ],
     "ipv6": []
   }
 }

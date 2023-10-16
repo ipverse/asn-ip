@@ -3,7 +3,10 @@
   "handle": "ASHAYAT",
   "description": "Hayat Kimya A.S.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "213.14.241.0/24",
+      "213.153.129.0/24"
+    ],
     "ipv6": []
   }
 }

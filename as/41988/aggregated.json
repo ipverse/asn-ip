@@ -3,7 +3,9 @@
   "handle": "TAKING-CARE",
   "description": "PPP Taking Care Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.60.83.0/24"
+    ],
     "ipv6": []
   }
 }

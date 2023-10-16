@@ -3,7 +3,9 @@
   "handle": "HCSBK",
   "description": "Otbasy Bank JSC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.203.227.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "RR",
   "description": "RALF RINGER MANAGEMENT LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.67.24.0/23"
+    ],
     "ipv6": []
   }
 }

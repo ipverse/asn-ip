@@ -3,7 +3,9 @@
   "handle": "NYCPM",
   "description": "NYCPM",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "208.125.13.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "HUINCA-CABLE-VISIN-S-A",
   "description": "HUINCA CABLE VISIN S .A",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "143.202.200.0/22"
+    ],
     "ipv6": []
   }
 }

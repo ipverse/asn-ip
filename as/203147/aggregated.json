@@ -3,7 +3,9 @@
   "handle": "MOI",
   "description": "Ministry Of Interior - Kuwait",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.150.216.0/22"
+    ],
     "ipv6": []
   }
 }

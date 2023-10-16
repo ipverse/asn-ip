@@ -3,7 +3,9 @@
   "handle": "EYLUL-NET",
   "description": "Nese Mala trading as Moon Dc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.10.149.0/24"
+    ],
     "ipv6": []
   }
 }

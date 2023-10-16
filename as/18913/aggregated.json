@@ -3,7 +3,10 @@
   "handle": "AIR-PIPE",
   "description": "WIRED OR WIRELESS INC.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "204.9.104.0/21",
+      "208.81.152.0/21"
+    ],
     "ipv6": []
   }
 }

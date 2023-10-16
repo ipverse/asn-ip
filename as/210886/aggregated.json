@@ -3,7 +3,9 @@
   "handle": "LPB",
   "description": "A/S LPB Bank",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.187.119.0/24"
+    ],
     "ipv6": []
   }
 }

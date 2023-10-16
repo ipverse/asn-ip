@@ -3,7 +3,9 @@
   "handle": "ALAVA-MACAS-GALO-ALFREDO",
   "description": "ALAVA MACAS GALO ALFREDO (AIRNET)",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "131.196.60.0/22"
+    ],
     "ipv6": []
   }
 }

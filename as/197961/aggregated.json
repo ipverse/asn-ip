@@ -3,7 +3,9 @@
   "handle": "EPIX-CDN1",
   "description": "Stowarzyszenie e-Poludnie",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "155.133.111.0/24"
+    ],
     "ipv6": []
   }
 }

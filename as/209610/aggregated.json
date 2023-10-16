@@ -3,7 +3,9 @@
   "handle": "OKSERVICE",
   "description": "OCKNet GmbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "95.214.192.0/22"
+    ],
     "ipv6": []
   }
 }

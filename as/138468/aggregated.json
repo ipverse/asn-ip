@@ -3,7 +3,9 @@
   "handle": "WSL-AP",
   "description": "Wenona School Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.126.27.0/24"
+    ],
     "ipv6": []
   }
 }

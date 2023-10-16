@@ -3,7 +3,9 @@
   "handle": "XLINK",
   "description": "Multikom Austria Telekom GmbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "85.199.0.0/18"
+    ],
     "ipv6": []
   }
 }

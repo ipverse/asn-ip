@@ -3,7 +3,12 @@
   "handle": "CREATE-ONLINE",
   "description": "Create Online S.R.L.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "85.120.220.0/24",
+      "85.121.204.0/23",
+      "85.122.111.0/24",
+      "85.122.180.0/24"
+    ],
     "ipv6": []
   }
 }

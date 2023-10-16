@@ -3,7 +3,11 @@
   "handle": "NOBREAK-NET",
   "description": "NOBREAK NET LTDA - M.E.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "191.241.0.0/20"
+    ],
+    "ipv6": [
+      "2804:112c::/32"
+    ]
   }
 }

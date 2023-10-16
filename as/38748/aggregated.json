@@ -3,7 +3,9 @@
   "handle": "ONENZ-NZ-TEST-AP",
   "description": "One New Zealand Group Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "124.6.220.0/22"
+    ],
     "ipv6": []
   }
 }

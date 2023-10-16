@@ -3,7 +3,9 @@
   "handle": "MTSNET-URAL",
   "description": "MTS PJSC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "213.87.72.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "IDNIC-RECONET-ID",
   "description": "PT RECONET SEMESTA INDONESIA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.110.34.0/24"
+    ],
     "ipv6": []
   }
 }

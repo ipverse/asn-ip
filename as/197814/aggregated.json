@@ -4,6 +4,8 @@
   "description": "Malte Bittner",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a0e:fd45:2d50::/47"
+    ]
   }
 }

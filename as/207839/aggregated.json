@@ -3,7 +3,9 @@
   "handle": "GGE",
   "description": "FAU GlavGosExpertiza Rossii",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "84.234.104.0/22"
+    ],
     "ipv6": []
   }
 }

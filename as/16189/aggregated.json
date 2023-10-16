@@ -3,7 +3,11 @@
   "handle": "KLEEGROUP",
   "description": "KLEE SA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.171.4.0/23",
+      "193.41.222.0/23",
+      "195.254.146.0/23"
+    ],
     "ipv6": []
   }
 }

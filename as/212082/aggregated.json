@@ -3,7 +3,9 @@
   "handle": "TBC-UZ",
   "description": "JSCB TBC Bank",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.231.66.0/24"
+    ],
     "ipv6": []
   }
 }

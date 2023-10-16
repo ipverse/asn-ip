@@ -3,7 +3,9 @@
   "handle": "MERCANTILE-AP",
   "description": "Mercantile Bank Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.152.228.0/23"
+    ],
     "ipv6": []
   }
 }

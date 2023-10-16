@@ -3,7 +3,11 @@
   "handle": "ONCABO",
   "description": "ONCABO LTDA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "192.140.48.0/22"
+    ],
+    "ipv6": [
+      "2804:3cac::/32"
+    ]
   }
 }

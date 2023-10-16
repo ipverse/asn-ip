@@ -3,7 +3,9 @@
   "handle": "ABONE",
   "description": "Internet Initiative Japan Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "202.6.252.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "LATAM-AIRLINES-GROUP",
   "description": "LATAM AIRLINES GROUP S.A.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "200.14.62.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,10 @@
   "handle": "YRLESSLTD-AP",
   "description": "Yrless Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.254.0.0/22",
+      "116.204.136.0/22"
+    ],
     "ipv6": []
   }
 }

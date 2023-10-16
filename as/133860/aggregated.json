@@ -3,7 +3,9 @@
   "handle": "CIBL-AP",
   "description": "Transunion Cibil Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.225.112.0/22"
+    ],
     "ipv6": []
   }
 }

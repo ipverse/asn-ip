@@ -3,7 +3,9 @@
   "handle": "HABEUM",
   "description": "Habeum SAS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.162.176.0/22"
+    ],
     "ipv6": []
   }
 }

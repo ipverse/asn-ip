@@ -3,7 +3,9 @@
   "handle": "QED",
   "description": "Scholastic Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.19.140.0/24"
+    ],
     "ipv6": []
   }
 }

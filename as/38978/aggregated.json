@@ -3,7 +3,9 @@
   "handle": "INETCOMM",
   "description": "Intertelecom Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.6.216.0/22"
+    ],
     "ipv6": []
   }
 }

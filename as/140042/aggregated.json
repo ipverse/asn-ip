@@ -3,7 +3,11 @@
   "handle": "IZEC-AP",
   "description": "Zhipinshang (Hongkong) Electron Communication Technology Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.200.16.0/24",
+      "104.251.224.0/20",
+      "188.130.231.0/24"
+    ],
     "ipv6": []
   }
 }

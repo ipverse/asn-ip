@@ -3,7 +3,10 @@
   "handle": "KNB",
   "description": "KYONGNAMBANK",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "118.220.70.0/24",
+      "210.124.238.0/24"
+    ],
     "ipv6": []
   }
 }

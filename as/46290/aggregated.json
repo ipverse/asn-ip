@@ -3,7 +3,9 @@
   "handle": "MTSAC",
   "description": "MtSAC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "140.144.0.0/16"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "IWASN",
   "description": "InnerWorkings, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "128.177.60.0/24"
+    ],
     "ipv6": []
   }
 }

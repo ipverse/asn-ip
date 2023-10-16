@@ -3,7 +3,10 @@
   "handle": "STIHL-204-124-67",
   "description": "Stihl Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "204.124.65.0/24",
+      "204.124.66.0/23"
+    ],
     "ipv6": []
   }
 }

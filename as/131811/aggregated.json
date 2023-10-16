@@ -3,7 +3,9 @@
   "handle": "KBONECLOUDYD",
   "description": "KOOKMIN BANK",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "118.129.188.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,10 @@
   "handle": "NUANCE-BURLINGTON",
   "description": "NUANCE COMMUNICATIONS, INC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "198.71.72.0/22",
+      "199.4.160.0/24"
+    ],
     "ipv6": []
   }
 }

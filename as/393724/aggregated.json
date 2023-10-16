@@ -3,7 +3,9 @@
   "handle": "TTC",
   "description": "Trident Technical College",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.67.16.0/20"
+    ],
     "ipv6": []
   }
 }

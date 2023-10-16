@@ -3,7 +3,9 @@
   "handle": "LITTLETON",
   "description": "City of Littleton",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "136.143.199.0/24"
+    ],
     "ipv6": []
   }
 }

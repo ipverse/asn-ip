@@ -3,7 +3,9 @@
   "handle": "SIBSAU-NET",
   "description": "State educational institution for higher professional education SIBERIAN STATE AEROSPACE UNIVERSITY named after M.F.Reshetnev",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.216.164.0/24"
+    ],
     "ipv6": []
   }
 }

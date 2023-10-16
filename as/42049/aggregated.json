@@ -3,7 +3,9 @@
   "handle": "NADEJDANET",
   "description": "Nadejda.Net Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "188.126.0.0/19"
+    ],
     "ipv6": []
   }
 }

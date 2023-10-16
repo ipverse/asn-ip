@@ -3,7 +3,9 @@
   "handle": "NCSP-NET",
   "description": "PJSC Novorossiysk Commercial Sea Port",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.242.193.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "BCELLAOS-AP",
   "description": "Banque pour le Commerce Exterieur Lao Public",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.138.142.0/24"
+    ],
     "ipv6": []
   }
 }

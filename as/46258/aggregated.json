@@ -3,7 +3,9 @@
   "handle": "ESC3",
   "description": "Region III Education Service Center",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "208.93.60.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,11 @@
   "handle": "GOSB",
   "description": "EPT Grand-Orly Seine Bievre",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "185.241.180.0/22"
+    ],
+    "ipv6": [
+      "2a0c:a780::/31"
+    ]
   }
 }

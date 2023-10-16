@@ -3,7 +3,10 @@
   "handle": "GIGABIT",
   "description": "Gigabit Networks Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "154.41.212.0/22",
+      "195.5.127.0/24"
+    ],
     "ipv6": []
   }
 }

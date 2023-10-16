@@ -3,7 +3,9 @@
   "handle": "PCBG",
   "description": "JSC ProCredit Bank",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.118.84.0/22"
+    ],
     "ipv6": []
   }
 }

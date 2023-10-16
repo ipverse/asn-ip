@@ -3,7 +3,9 @@
   "handle": "GENFIN",
   "description": "UAB GF bankas",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.220.59.0/24"
+    ],
     "ipv6": []
   }
 }

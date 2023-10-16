@@ -3,7 +3,9 @@
   "handle": "VOIRONNAIS-NETWORK",
   "description": "Pays Voironnais Network",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "62.85.128.0/19"
+    ],
     "ipv6": []
   }
 }

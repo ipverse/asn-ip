@@ -3,7 +3,9 @@
   "handle": "PILOT-CORP",
   "description": "Pilot Fiber, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "208.64.30.0/24"
+    ],
     "ipv6": []
   }
 }

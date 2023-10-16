@@ -3,7 +3,9 @@
   "handle": "GRMIMS",
   "description": "GRM Information Management Services, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "65.202.182.0/24"
+    ],
     "ipv6": []
   }
 }

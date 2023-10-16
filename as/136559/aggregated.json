@@ -3,7 +3,9 @@
   "handle": "OMEGANETWORKSLTD-AP",
   "description": "Omega Networks",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.169.36.0/23"
+    ],
     "ipv6": []
   }
 }

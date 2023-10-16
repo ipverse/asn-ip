@@ -3,7 +3,9 @@
   "handle": "UMB",
   "description": "University of Maryland, Baltimore",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "134.192.0.0/16"
+    ],
     "ipv6": []
   }
 }

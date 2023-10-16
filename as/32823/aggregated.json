@@ -3,7 +3,9 @@
   "handle": "EVOLVER",
   "description": "Evolver, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.102.220.0/22"
+    ],
     "ipv6": []
   }
 }

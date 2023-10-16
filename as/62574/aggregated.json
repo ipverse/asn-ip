@@ -3,7 +3,10 @@
   "handle": "DMBGP",
   "description": "Data Management",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "63.74.216.0/23",
+      "64.209.50.0/23"
+    ],
     "ipv6": []
   }
 }

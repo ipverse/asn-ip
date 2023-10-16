@@ -3,7 +3,10 @@
   "handle": "POUNDBANG-HOSTING",
   "description": "Pound Bang Incorporated",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "64.57.183.0/24",
+      "64.57.190.0/23"
+    ],
     "ipv6": []
   }
 }

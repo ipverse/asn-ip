@@ -4,6 +4,8 @@
   "description": "Coleraine Share Trading Pty. Ltd.",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a11:8080::/29"
+    ]
   }
 }

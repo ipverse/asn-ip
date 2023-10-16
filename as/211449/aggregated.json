@@ -3,7 +3,9 @@
   "handle": "POISONCLOUD",
   "description": "Uways Khan",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.57.224.0/24"
+    ],
     "ipv6": []
   }
 }

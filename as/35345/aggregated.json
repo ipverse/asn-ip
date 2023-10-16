@@ -3,7 +3,9 @@
   "handle": "ASNOVA",
   "description": "CJSC ASNOVA holding",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.239.238.0/23"
+    ],
     "ipv6": []
   }
 }

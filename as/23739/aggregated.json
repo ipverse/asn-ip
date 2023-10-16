@@ -3,7 +3,9 @@
   "handle": "SYMBIO-AU",
   "description": "My Net Fone Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "125.236.86.0/24"
+    ],
     "ipv6": []
   }
 }

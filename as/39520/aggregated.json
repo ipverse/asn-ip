@@ -3,7 +3,9 @@
   "handle": "SD-TECHOPS-NL",
   "description": "Satcom Direct International Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "89.255.208.0/22"
+    ],
     "ipv6": []
   }
 }

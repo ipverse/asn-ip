@@ -3,7 +3,9 @@
   "handle": "TECHMAHINDRA-ASN-PL-AP",
   "description": "TECH MAHINDRA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "203.213.196.0/24"
+    ],
     "ipv6": []
   }
 }

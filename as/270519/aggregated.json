@@ -3,7 +3,10 @@
   "handle": "HILINK-COMUNICAES",
   "description": "HILINK COMUNICAES",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "24.152.105.0/24",
+      "24.152.107.0/24"
+    ],
     "ipv6": []
   }
 }

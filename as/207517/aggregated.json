@@ -3,7 +3,9 @@
   "handle": "HAK",
   "description": "Hrvatski autoklub",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "84.252.105.0/24"
+    ],
     "ipv6": []
   }
 }

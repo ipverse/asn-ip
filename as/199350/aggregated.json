@@ -3,7 +3,11 @@
   "handle": "MFCR",
   "description": "Ministerstvo financi",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "185.16.180.0/22"
+    ],
+    "ipv6": [
+      "2a03:ddc0::/32"
+    ]
   }
 }

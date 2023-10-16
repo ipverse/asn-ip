@@ -3,7 +3,9 @@
   "handle": "RAPIDA-NET",
   "description": "QIWI JSC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.213.51.0/24"
+    ],
     "ipv6": []
   }
 }

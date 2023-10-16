@@ -3,7 +3,10 @@
   "handle": "SACS-CMT",
   "description": "Southwest Allen County Schools",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "168.102.134.0/24",
+      "168.102.137.0/24"
+    ],
     "ipv6": []
   }
 }

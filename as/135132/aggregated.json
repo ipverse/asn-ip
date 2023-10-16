@@ -3,7 +3,11 @@
   "handle": "DNI-PH",
   "description": "Dreamscape Networks Inc.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "27.111.84.0/24"
+    ],
+    "ipv6": [
+      "2402:cb40::/32"
+    ]
   }
 }

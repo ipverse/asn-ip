@@ -3,7 +3,9 @@
   "handle": "ATKTVPILLERSEE",
   "description": "Kabelfernsehen Pillersee GmbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "37.61.184.0/21"
+    ],
     "ipv6": []
   }
 }

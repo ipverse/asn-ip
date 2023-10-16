@@ -3,7 +3,9 @@
   "handle": "ARIBANETWORK",
   "description": "Ariba, Inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "157.133.208.0/24"
+    ],
     "ipv6": []
   }
 }

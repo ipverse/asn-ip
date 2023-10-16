@@ -3,7 +3,9 @@
   "handle": "KMBBANK",
   "description": "AO Bank Inteza",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.110.202.0/24"
+    ],
     "ipv6": []
   }
 }

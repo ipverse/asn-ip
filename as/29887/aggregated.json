@@ -3,7 +3,9 @@
   "handle": "IMNISP",
   "description": "IMNisp",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "170.52.42.0/23"
+    ],
     "ipv6": []
   }
 }

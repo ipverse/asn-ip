@@ -3,7 +3,9 @@
   "handle": "P2S-PL",
   "description": "Polskie Sieci Swiatlowodowe Sp. z o.o",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "212.87.250.0/23"
+    ],
     "ipv6": []
   }
 }

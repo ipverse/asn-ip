@@ -3,7 +3,9 @@
   "handle": "FGI-WPGAS01",
   "description": "Fort Garry Industries Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "198.49.0.0/24"
+    ],
     "ipv6": []
   }
 }

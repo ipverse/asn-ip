@@ -3,7 +3,10 @@
   "handle": "HOFSTAETTER",
   "description": "Hofstaetter IT GmbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "86.111.52.0/23",
+      "185.43.147.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,12 @@
   "handle": "CONSULTIC",
   "description": "CONSULTIC SRL",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.152.190.0/23",
+      "89.116.135.0/24"
+    ],
+    "ipv6": [
+      "2a13:f700::/29"
+    ]
   }
 }

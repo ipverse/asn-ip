@@ -3,7 +3,10 @@
   "handle": "CU-PRODIGY",
   "description": "CUProdigy, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.109.172.0/24",
+      "136.228.188.0/23"
+    ],
     "ipv6": []
   }
 }

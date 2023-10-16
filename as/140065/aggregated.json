@@ -3,7 +3,10 @@
   "handle": "CIFIPTYLTD-AP",
   "description": "CiFi Pty Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.147.223.0/24",
+      "103.164.2.0/24"
+    ],
     "ipv6": []
   }
 }

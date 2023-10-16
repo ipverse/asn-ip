@@ -3,7 +3,9 @@
   "handle": "HOSTBET",
   "description": "HostBet Cloud Technologies Private Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.67.14.0/24"
+    ],
     "ipv6": []
   }
 }

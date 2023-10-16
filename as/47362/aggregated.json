@@ -4,6 +4,10 @@
   "description": "Netex Limited",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a11:5b80::/29",
+      "2a11:7e80::/29",
+      "2a11:dec0::/29"
+    ]
   }
 }

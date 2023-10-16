@@ -3,7 +3,9 @@
   "handle": "INDEPENDENT-HEALTH",
   "description": "Independent Health Association, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "204.124.132.0/22"
+    ],
     "ipv6": []
   }
 }

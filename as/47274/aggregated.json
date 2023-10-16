@@ -3,7 +3,9 @@
   "handle": "BIOTRONIK",
   "description": "Biotronik SE \u0026 Co.KG",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.62.80.0/23"
+    ],
     "ipv6": []
   }
 }

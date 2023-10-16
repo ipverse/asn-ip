@@ -3,7 +3,9 @@
   "handle": "EDINA-REALTY-HOME-SERVICES",
   "description": "Edina Realty, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "207.225.153.0/24"
+    ],
     "ipv6": []
   }
 }

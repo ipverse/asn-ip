@@ -3,7 +3,10 @@
   "handle": "SINGTEL-JP",
   "description": "Singapore Telecom Japan Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "120.72.64.0/20",
+      "203.173.64.0/20"
+    ],
     "ipv6": []
   }
 }

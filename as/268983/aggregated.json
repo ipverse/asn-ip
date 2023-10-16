@@ -3,7 +3,11 @@
   "handle": "NAXOS-TELECOM",
   "description": "NAXOS TELECOM",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.177.136.0/22"
+    ],
+    "ipv6": [
+      "2804:5da0::/32"
+    ]
   }
 }

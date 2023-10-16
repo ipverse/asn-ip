@@ -3,7 +3,9 @@
   "handle": "CBD",
   "description": "Christian Book Distributors, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "208.68.76.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,10 @@
   "handle": "GEMINI-EXCHANGE",
   "description": "GEMINI PAYMENTS UK, LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "8.44.203.0/24",
+      "162.217.118.0/24"
+    ],
     "ipv6": []
   }
 }

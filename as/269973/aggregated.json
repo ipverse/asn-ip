@@ -3,7 +3,9 @@
   "handle": "OLANCHO-NET",
   "description": "OLANCHO NET S.R.L. DE C.V.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "187.49.188.0/22"
+    ],
     "ipv6": []
   }
 }

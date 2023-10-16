@@ -3,7 +3,9 @@
   "handle": "TSTONLINE",
   "description": "Tarashe Sabz Tehran Co. Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "85.198.0.0/21"
+    ],
     "ipv6": []
   }
 }

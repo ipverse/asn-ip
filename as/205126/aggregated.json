@@ -3,7 +3,9 @@
   "handle": "ONELYA",
   "description": "LLC ONELYA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.222.104.0/22"
+    ],
     "ipv6": []
   }
 }

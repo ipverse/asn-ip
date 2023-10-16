@@ -3,7 +3,9 @@
   "handle": "ROTARYCORP",
   "description": "Rotary Corporation",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "207.89.54.0/24"
+    ],
     "ipv6": []
   }
 }

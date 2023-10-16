@@ -3,7 +3,9 @@
   "handle": "INNODATA-NDA-IN",
   "description": "Innodata-Isogen India Pvt Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "203.55.173.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,11 @@
   "handle": "PINGCO-AP",
   "description": "PingCo Pty Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.225.156.0/22",
+      "103.247.248.0/22",
+      "103.254.140.0/22"
+    ],
     "ipv6": []
   }
 }

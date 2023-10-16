@@ -3,7 +3,10 @@
   "handle": "REDPIRANHALIMITED-AP",
   "description": "RED PIRANHA LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.70.232.0/24",
+      "103.70.234.0/23"
+    ],
     "ipv6": []
   }
 }

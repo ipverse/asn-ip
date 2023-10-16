@@ -3,7 +3,10 @@
   "handle": "SNINTERNET",
   "description": "Six Nations Internet",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "142.47.112.0/21",
+      "162.249.236.0/22"
+    ],
     "ipv6": []
   }
 }

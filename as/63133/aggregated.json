@@ -3,7 +3,10 @@
   "handle": "LENNON-1",
   "description": "Lennon Telephone Company",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "66.187.16.0/21",
+      "66.187.24.0/22"
+    ],
     "ipv6": []
   }
 }

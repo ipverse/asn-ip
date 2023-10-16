@@ -3,7 +3,10 @@
   "handle": "COUNTY-OF-LAKE",
   "description": "County of Lake",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "63.206.206.0/24",
+      "208.91.28.0/22"
+    ],
     "ipv6": []
   }
 }

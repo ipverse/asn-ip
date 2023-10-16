@@ -3,7 +3,9 @@
   "handle": "RUSAGRO-PRIMORIE",
   "description": "Rusagro-Primorie LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.224.194.0/23"
+    ],
     "ipv6": []
   }
 }

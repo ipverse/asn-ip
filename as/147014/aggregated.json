@@ -3,7 +3,11 @@
   "handle": "ISPI-AP",
   "description": "IPTECH SOLUTION PROVIDER INCORPORATED",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "103.173.4.0/23"
+    ],
+    "ipv6": [
+      "2407:dc40::/32"
+    ]
   }
 }

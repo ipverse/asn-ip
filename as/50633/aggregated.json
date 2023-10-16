@@ -3,7 +3,12 @@
   "handle": "NET-CITY",
   "description": "PE Osaula Mihail Dmitrovich",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.249.161.0/24",
+      "193.84.50.0/24",
+      "193.107.72.0/22",
+      "193.194.124.0/22"
+    ],
     "ipv6": []
   }
 }

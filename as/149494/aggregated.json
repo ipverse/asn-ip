@@ -3,7 +3,9 @@
   "handle": "HUSB-AP",
   "description": "HELP University Sdn. Bhd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.181.50.0/24"
+    ],
     "ipv6": []
   }
 }

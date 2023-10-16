@@ -3,7 +3,9 @@
   "handle": "VENTURETECHSOL",
   "description": "Venturetech Solutions, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.206.72.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "USAMV",
   "description": "Universitatea de Stiinte Agronomice si Medicina Veterinara Bucuresti",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.226.90.0/23"
+    ],
     "ipv6": []
   }
 }

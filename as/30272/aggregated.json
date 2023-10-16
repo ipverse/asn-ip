@@ -3,7 +3,9 @@
   "handle": "GOV-GD",
   "description": "Government of Grenada",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "67.159.199.0/24"
+    ],
     "ipv6": []
   }
 }

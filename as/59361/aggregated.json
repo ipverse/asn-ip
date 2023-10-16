@@ -3,7 +3,9 @@
   "handle": "DESCO-AP",
   "description": "Dhaka Electric Supply Company Limited (DESCO)",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.231.135.0/24"
+    ],
     "ipv6": []
   }
 }

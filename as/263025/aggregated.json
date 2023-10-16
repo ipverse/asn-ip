@@ -3,7 +3,12 @@
   "handle": "ISPTEC-SISTEMAS-COMUNICAO",
   "description": "ISPTEC Sistemas de Comunicao Eireli",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "145.14.134.0/24",
+      "177.10.200.0/22"
+    ],
+    "ipv6": [
+      "2804:a24::/32"
+    ]
   }
 }

@@ -3,7 +3,9 @@
   "handle": "FASTNET",
   "description": "LLC TRAIDES",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "31.211.56.0/23"
+    ],
     "ipv6": []
   }
 }

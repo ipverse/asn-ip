@@ -3,7 +3,9 @@
   "handle": "OFIS24",
   "description": "Ofis24 OOO",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "85.143.248.0/24"
+    ],
     "ipv6": []
   }
 }

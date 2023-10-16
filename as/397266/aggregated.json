@@ -3,7 +3,9 @@
   "handle": "PAPERLESSPOST",
   "description": "Paperless Inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.105.227.0/24"
+    ],
     "ipv6": []
   }
 }

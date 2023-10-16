@@ -3,7 +3,9 @@
   "handle": "ACORDA-ARDSLEY",
   "description": "Acorda Therapeutics, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "198.168.43.0/24"
+    ],
     "ipv6": []
   }
 }

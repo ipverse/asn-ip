@@ -3,7 +3,9 @@
   "handle": "ISCKY",
   "description": "Computer Mendtor LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.85.240.0/22"
+    ],
     "ipv6": []
   }
 }

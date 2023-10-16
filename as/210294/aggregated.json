@@ -3,7 +3,9 @@
   "handle": "UKRDOMEN",
   "description": "Private company Ukrainian hosting",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.174.220.0/23"
+    ],
     "ipv6": []
   }
 }

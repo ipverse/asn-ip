@@ -3,7 +3,9 @@
   "handle": "APFACILITIES-AP",
   "description": "A.P. FACILITIES PTY. LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "203.14.208.0/24"
+    ],
     "ipv6": []
   }
 }

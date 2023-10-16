@@ -3,7 +3,11 @@
   "handle": "NC-BRASIL-TELECOM",
   "description": "NC BRASIL TELECOM E SERVICOS LTDA- ME",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "138.97.116.0/22"
+    ],
+    "ipv6": [
+      "2804:2370::/32"
+    ]
   }
 }

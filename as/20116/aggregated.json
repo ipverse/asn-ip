@@ -3,7 +3,9 @@
   "handle": "CAIXA-ECONOMICA-FEDERAL",
   "description": "CAIXA ECONOMICA FEDERAL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "200.201.160.0/20"
+    ],
     "ipv6": []
   }
 }

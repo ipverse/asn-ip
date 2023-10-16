@@ -3,7 +3,9 @@
   "handle": "PBGC-HQ",
   "description": "Pension Benefit Guaranty Corp.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "208.68.128.0/23"
+    ],
     "ipv6": []
   }
 }

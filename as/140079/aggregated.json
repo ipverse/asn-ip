@@ -3,7 +3,9 @@
   "handle": "GARMININTERNATIONAL-AP",
   "description": "Garmin International Inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "5.145.180.0/23"
+    ],
     "ipv6": []
   }
 }

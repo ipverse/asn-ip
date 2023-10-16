@@ -3,7 +3,9 @@
   "handle": "VSC-VERMONT-STATE-COLLEGES",
   "description": "Vermont State Colleges",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "155.42.0.0/16"
+    ],
     "ipv6": []
   }
 }

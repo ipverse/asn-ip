@@ -3,7 +3,9 @@
   "handle": "VWMX",
   "description": "Volkswagen Group of America, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "148.203.0.0/16"
+    ],
     "ipv6": []
   }
 }

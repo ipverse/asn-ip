@@ -3,7 +3,11 @@
   "handle": "ALLANET-INTERNET-SERVICES",
   "description": "AllaNet - Internet Services",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "200.124.168.0/22"
+    ],
+    "ipv6": [
+      "2804:6990::/32"
+    ]
   }
 }

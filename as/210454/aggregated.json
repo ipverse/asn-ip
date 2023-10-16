@@ -4,6 +4,8 @@
   "description": "Rein van Weerden",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2001:67c:7c::/48"
+    ]
   }
 }

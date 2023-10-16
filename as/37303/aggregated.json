@@ -3,7 +3,10 @@
   "handle": "AIRTELMADA",
   "description": "Airtel Madagascar",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "41.77.16.0/21",
+      "197.148.128.0/18"
+    ],
     "ipv6": []
   }
 }

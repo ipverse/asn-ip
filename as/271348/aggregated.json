@@ -3,7 +3,9 @@
   "handle": "E-MESQUITA-SANTOS-EIRELI",
   "description": "E. MESQUITA SANTOS EIRELI",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "131.72.64.0/22"
+    ],
     "ipv6": []
   }
 }

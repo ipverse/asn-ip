@@ -3,7 +3,9 @@
   "handle": "AMETEK-CTC",
   "description": "AMETEK Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.48.233.0/24"
+    ],
     "ipv6": []
   }
 }

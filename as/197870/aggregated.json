@@ -3,7 +3,10 @@
   "handle": "IBANPAY",
   "description": "S.I.A.IBANPAY",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "176.57.40.0/24",
+      "176.57.43.0/24"
+    ],
     "ipv6": []
   }
 }

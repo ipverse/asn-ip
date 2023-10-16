@@ -3,7 +3,9 @@
   "handle": "FC-01",
   "description": "FB CORPORATION",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "74.80.213.0/24"
+    ],
     "ipv6": []
   }
 }

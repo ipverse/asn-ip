@@ -3,7 +3,10 @@
   "handle": "DLSS-CA-EMERYVILLE",
   "description": "Eversana Life Science Services, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "64.125.133.0/24",
+      "64.125.134.0/24"
+    ],
     "ipv6": []
   }
 }

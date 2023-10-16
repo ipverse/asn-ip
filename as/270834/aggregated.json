@@ -3,9 +3,11 @@
   "handle": "3D-COIMBRA-TELECOMUNICACOES",
   "description": "3D COIMBRA TELECOMUNICACOES EIRELI",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "200.229.240.0/22"
+    ],
     "ipv6": [
-      "2804:7220:4000::/34"
+      "2804:7220::/32"
     ]
   }
 }

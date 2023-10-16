@@ -3,7 +3,9 @@
   "handle": "MAIRON",
   "description": "Mairon Galati SA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "89.37.184.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "ALLARIA-LEDESMA-CIA-S-A",
   "description": "ALLARIA LEDESMA Y CIA S A",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.182.236.0/23"
+    ],
     "ipv6": []
   }
 }

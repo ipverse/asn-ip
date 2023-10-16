@@ -3,7 +3,12 @@
   "handle": "USNEWS",
   "description": "U.S. News \u0026 World Report, L.P.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "204.75.169.0/24",
+      "204.75.170.0/24"
+    ],
+    "ipv6": [
+      "2620:100:f00d::/48"
+    ]
   }
 }

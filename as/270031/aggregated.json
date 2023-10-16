@@ -3,7 +3,9 @@
   "handle": "TELENET-DIGITAL",
   "description": "TELENET DIGITAL S.A.S",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "186.194.160.0/22"
+    ],
     "ipv6": []
   }
 }

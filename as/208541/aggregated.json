@@ -3,7 +3,9 @@
   "handle": "IT-MEDIA",
   "description": "LLC IT-Media",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "80.66.80.0/24"
+    ],
     "ipv6": []
   }
 }

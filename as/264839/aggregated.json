@@ -3,7 +3,10 @@
   "handle": "NETMUNDO-TRANSMISIONES-REGIONALES",
   "description": "NETMUNDO TRANSMISIONES REGIONALES SPA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "167.250.132.0/23",
+      "167.250.134.0/24"
+    ],
     "ipv6": []
   }
 }

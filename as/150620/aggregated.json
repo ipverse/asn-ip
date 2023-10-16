@@ -3,7 +3,9 @@
   "handle": "INNOVITI-IN",
   "description": "Innoviti Payment Solutions Private Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.55.20.0/24"
+    ],
     "ipv6": []
   }
 }

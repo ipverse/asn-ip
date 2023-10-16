@@ -3,7 +3,9 @@
   "handle": "TR-TELECOMUNICACOES",
   "description": "TR TELECOMUNICACOES LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "190.89.136.0/23"
+    ],
     "ipv6": []
   }
 }

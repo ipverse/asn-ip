@@ -3,7 +3,9 @@
   "handle": "IDNIC-TELU-ID",
   "description": "TELKOM UNIVERSITY",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.233.100.0/24"
+    ],
     "ipv6": []
   }
 }

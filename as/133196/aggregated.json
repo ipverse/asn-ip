@@ -3,7 +3,9 @@
   "handle": "LOCALCOM-AP",
   "description": "Localcom Pty Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.97.218.0/23"
+    ],
     "ipv6": []
   }
 }

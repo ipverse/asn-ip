@@ -3,7 +3,11 @@
   "handle": "NAVG-TELECOMUNICACOES-EIRELI",
   "description": "NAVG TELECOMUNICACOES EIRELI - ME",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "138.186.196.0/22"
+    ],
+    "ipv6": [
+      "2804:2700::/32"
+    ]
   }
 }

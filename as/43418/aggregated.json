@@ -3,7 +3,9 @@
   "handle": "ANTIDOT",
   "description": "Pryama Mova Tov.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.197.48.0/22"
+    ],
     "ipv6": []
   }
 }

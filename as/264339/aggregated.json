@@ -3,7 +3,9 @@
   "handle": "MNLT-SOLUES-PAGAMENTO",
   "description": "MNLT Solues de Pagamento S/A",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "200.7.12.0/23"
+    ],
     "ipv6": []
   }
 }

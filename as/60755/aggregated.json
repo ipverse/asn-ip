@@ -3,7 +3,9 @@
   "handle": "KOMPUTERLAN",
   "description": "Lukasz Istek KomputerLAN",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.55.66.0/24"
+    ],
     "ipv6": []
   }
 }

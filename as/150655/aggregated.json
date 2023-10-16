@@ -3,7 +3,9 @@
   "handle": "ALLDATAIN-IN",
   "description": "Alldata Card Services India Llp",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.147.181.0/24"
+    ],
     "ipv6": []
   }
 }

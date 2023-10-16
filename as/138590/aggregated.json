@@ -3,7 +3,9 @@
   "handle": "PRIMENETWORKS-AP",
   "description": "Prime Networks",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.134.0.0/22"
+    ],
     "ipv6": []
   }
 }

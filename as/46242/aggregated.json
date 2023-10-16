@@ -3,7 +3,9 @@
   "handle": "SAFEWAYINS1",
   "description": "Safeway Insurance Group",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "205.234.135.0/24"
+    ],
     "ipv6": []
   }
 }

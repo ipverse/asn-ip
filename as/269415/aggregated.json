@@ -3,7 +3,11 @@
   "handle": "CLICKNET-FIBRA",
   "description": "CLICKNET FIBRA LTDA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.186.76.0/22"
+    ],
+    "ipv6": [
+      "2804:643c::/32"
+    ]
   }
 }

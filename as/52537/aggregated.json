@@ -3,7 +3,9 @@
   "handle": "MICROPLAN-INFORMATICA",
   "description": "microplan informatica ltda.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "179.106.144.0/20"
+    ],
     "ipv6": []
   }
 }

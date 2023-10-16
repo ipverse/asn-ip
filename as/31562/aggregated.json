@@ -3,7 +3,11 @@
   "handle": "OPENMARKET",
   "description": "OpenMarket Limited",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "83.166.64.0/19"
+    ],
+    "ipv6": [
+      "2a03:9600::/32"
+    ]
   }
 }

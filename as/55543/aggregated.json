@@ -3,7 +3,9 @@
   "handle": "LYCAMOBILE-AU",
   "description": "Lycamobile Pty Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "202.52.36.0/24"
+    ],
     "ipv6": []
   }
 }

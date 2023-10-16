@@ -3,7 +3,9 @@
   "handle": "ASTRA-ELETTRONICA-SRL",
   "description": "ASTRA ELETTRONICA S.R.L.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.112.4.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,10 @@
   "handle": "TELECOMUNICACIONES-AMERICA",
   "description": "Telecomunicaciones de America S.A. de C.V.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.170.234.0/24",
+      "168.243.48.0/21"
+    ],
     "ipv6": []
   }
 }

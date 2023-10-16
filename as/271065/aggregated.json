@@ -3,7 +3,9 @@
   "handle": "MARCOS-RANIELL-PINHEIRO",
   "description": "Marcos Raniell Pinheiro Oliveira",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "179.48.16.0/22"
+    ],
     "ipv6": []
   }
 }

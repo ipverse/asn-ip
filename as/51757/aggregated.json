@@ -3,7 +3,9 @@
   "handle": "PL-INFRATEL",
   "description": "Infratel-Operator Infrastrukturalny sp. z o.o.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "156.67.116.0/24"
+    ],
     "ipv6": []
   }
 }

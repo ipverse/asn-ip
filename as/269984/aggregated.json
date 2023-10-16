@@ -3,7 +3,9 @@
   "handle": "CORPORACION-MATRIX-TV-CA",
   "description": "CORPORACION MATRIX TV, C.A.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "186.148.195.0/24"
+    ],
     "ipv6": []
   }
 }

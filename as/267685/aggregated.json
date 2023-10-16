@@ -3,7 +3,10 @@
   "handle": "SIRIO-TELECOMUNICACIONES",
   "description": "SIRIO TELECOMUNICACIONES S.R.L",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.163.18.0/23",
+      "160.20.225.0/24"
+    ],
     "ipv6": []
   }
 }

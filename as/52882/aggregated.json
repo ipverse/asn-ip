@@ -3,7 +3,9 @@
   "handle": "ECRITEL-BRASIL-HOSPEDAGEM",
   "description": "Ecritel do Brasil Hospedagem de Dados",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "186.233.200.0/22"
+    ],
     "ipv6": []
   }
 }

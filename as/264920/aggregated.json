@@ -3,7 +3,11 @@
   "handle": "SHEL-NET-INFORMATICA",
   "description": "Shel Net Informatica Ltda",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "168.232.4.0/22"
+    ],
+    "ipv6": [
+      "2804:2fe8::/32"
+    ]
   }
 }

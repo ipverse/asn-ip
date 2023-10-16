@@ -3,7 +3,9 @@
   "handle": "COOP-TELEF-SAN-VICENTE",
   "description": "Coop. Telef. de San Vicente Ltda.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.7.88.0/23"
+    ],
     "ipv6": []
   }
 }

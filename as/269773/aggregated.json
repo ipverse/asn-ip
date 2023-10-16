@@ -3,7 +3,9 @@
   "handle": "OROCOM",
   "description": "OROCOM S.A.C.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.183.108.0/22"
+    ],
     "ipv6": []
   }
 }

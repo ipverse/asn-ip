@@ -3,7 +3,10 @@
   "handle": "VIAPASS-FR",
   "description": "VIAPASS SAS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "83.144.0.0/18",
+      "217.168.96.0/23"
+    ],
     "ipv6": []
   }
 }

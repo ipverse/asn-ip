@@ -3,7 +3,10 @@
   "handle": "SVITONLINE",
   "description": "SVITONLINE-TOV",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.218.194.0/23",
+      "193.108.241.0/24"
+    ],
     "ipv6": []
   }
 }

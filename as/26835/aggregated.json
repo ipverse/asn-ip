@@ -3,7 +3,9 @@
   "handle": "MAPOLCE",
   "description": "M.A. POLCE CONSULTING INC.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.69.4.0/22"
+    ],
     "ipv6": []
   }
 }

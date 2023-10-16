@@ -3,7 +3,12 @@
   "handle": "OSISM",
   "description": "OSISM GmbH",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "81.163.192.0/23",
+      "81.163.194.0/24"
+    ],
+    "ipv6": [
+      "2a13:1a81::/32"
+    ]
   }
 }

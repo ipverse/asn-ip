@@ -3,7 +3,9 @@
   "handle": "CRZNET-TELECOM",
   "description": "CRZNET TELECOM LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "201.149.100.0/22"
+    ],
     "ipv6": []
   }
 }

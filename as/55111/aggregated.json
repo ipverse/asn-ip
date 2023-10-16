@@ -3,7 +3,9 @@
   "handle": "CALVERT-COUNTY",
   "description": "Calvert County",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "167.102.218.0/23"
+    ],
     "ipv6": []
   }
 }

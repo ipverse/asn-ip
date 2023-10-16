@@ -3,7 +3,9 @@
   "handle": "TCHQ-VN",
   "description": "Customs IT and Statistics Department - General Department of Vietnam Customs",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.248.160.0/22"
+    ],
     "ipv6": []
   }
 }

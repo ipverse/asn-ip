@@ -3,7 +3,9 @@
   "handle": "WORKCOVER-AP",
   "description": "WorkCover Queensland",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "203.82.216.0/23"
+    ],
     "ipv6": []
   }
 }

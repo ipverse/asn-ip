@@ -3,7 +3,11 @@
   "handle": "GLP",
   "description": "Tyatkova Oksana Valerievna",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "176.119.0.0/22",
+      "176.119.4.0/23",
+      "176.119.6.0/24"
+    ],
     "ipv6": []
   }
 }

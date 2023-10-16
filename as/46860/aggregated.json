@@ -3,7 +3,9 @@
   "handle": "DASIANET",
   "description": "Dasia.Net, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "66.187.160.0/20"
+    ],
     "ipv6": []
   }
 }

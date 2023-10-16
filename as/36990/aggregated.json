@@ -3,7 +3,9 @@
   "handle": "ALKAN",
   "description": "ALKAN Telecom",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "41.223.196.0/22"
+    ],
     "ipv6": []
   }
 }

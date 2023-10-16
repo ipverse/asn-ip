@@ -3,7 +3,9 @@
   "handle": "WGDASPL-AP",
   "description": "WTW Global Delivery and Solutions (India) Pvt. Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.124.9.0/24"
+    ],
     "ipv6": []
   }
 }

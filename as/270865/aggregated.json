@@ -3,7 +3,9 @@
   "handle": "PW-FIBRA-OPTICA",
   "description": "PW FIBRA OPTICA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "177.53.28.0/22"
+    ],
     "ipv6": []
   }
 }

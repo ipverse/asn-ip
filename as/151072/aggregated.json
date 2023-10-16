@@ -1,0 +1,11 @@
+{
+  "asn": 151072,
+  "handle": "VMW-SIN",
+  "description": "VMWare Incorporation",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2402:740:2041::/48"
+    ]
+  }
+}

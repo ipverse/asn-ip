@@ -3,7 +3,9 @@
   "handle": "IDNIC-MDU-ID",
   "description": "PT Muria Data Utama",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.164.229.0/24"
+    ],
     "ipv6": []
   }
 }

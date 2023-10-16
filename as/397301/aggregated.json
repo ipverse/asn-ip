@@ -3,7 +3,9 @@
   "handle": "THRIVE-BROADBAND",
   "description": "Thrive Broadband, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "172.99.144.0/22"
+    ],
     "ipv6": []
   }
 }

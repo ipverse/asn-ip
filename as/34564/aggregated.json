@@ -3,7 +3,11 @@
   "handle": "GOTHAER",
   "description": "Gothaer Systems GmbH",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "194.126.228.0/24"
+    ],
+    "ipv6": [
+      "2001:67c:2310::/48"
+    ]
   }
 }

@@ -3,7 +3,9 @@
   "handle": "AISHSOLUTIONS-AP",
   "description": "AISH SOLUTIONS PTY LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.83.125.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "SEEDIT4ME",
   "description": "JMT Paso Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.163.71.0/24"
+    ],
     "ipv6": []
   }
 }

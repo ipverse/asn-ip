@@ -3,7 +3,9 @@
   "handle": "TELM",
   "description": "LLC TELEMETRICA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "79.137.129.0/24"
+    ],
     "ipv6": []
   }
 }

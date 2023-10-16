@@ -3,7 +3,9 @@
   "handle": "LOADIT",
   "description": "loadit AG",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "2.56.40.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "I2C",
   "description": "i2c Incorporated",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.96.216.0/21"
+    ],
     "ipv6": []
   }
 }

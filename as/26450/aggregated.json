@@ -3,7 +3,11 @@
   "handle": "CTDI-WC",
   "description": "CTDI",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "192.94.45.0/24"
+    ],
+    "ipv6": [
+      "2620:131:1000::/40"
+    ]
   }
 }

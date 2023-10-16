@@ -3,7 +3,11 @@
   "handle": "GLOBAL-CONECTA-TELECOM-EIRELI",
   "description": "GLOBAL CONECTA TELECOM EIRELI",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "181.189.8.0/22"
+    ],
+    "ipv6": [
+      "2804:7a94::/32"
+    ]
   }
 }

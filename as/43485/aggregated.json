@@ -3,7 +3,9 @@
   "handle": "RAILWAY",
   "description": "JSC UKRAINIAN RAILWAYS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.37.248.0/24"
+    ],
     "ipv6": []
   }
 }

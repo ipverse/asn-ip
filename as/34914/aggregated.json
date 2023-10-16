@@ -3,7 +3,9 @@
   "handle": "SYNTEC",
   "description": "Syntec LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "89.222.0.0/17"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "IAA",
   "description": "Israel Airports Authority",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.115.176.0/22"
+    ],
     "ipv6": []
   }
 }

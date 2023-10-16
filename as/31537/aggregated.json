@@ -3,7 +3,9 @@
   "handle": "REFORMATORISCHDAGBLAD",
   "description": "Erdee Media B.V.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.169.76.0/24"
+    ],
     "ipv6": []
   }
 }

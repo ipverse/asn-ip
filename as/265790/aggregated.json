@@ -3,7 +3,9 @@
   "handle": "COOP-PROV-SERV",
   "description": "COOP. DE PROV. DE SERV. ELECTRICOS Y OTROS SERV. PUB. DE SERV. SOCIALES, CRED. Y VIVIENDA LTDA DE SAN CAYETANO",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "181.191.80.0/22"
+    ],
     "ipv6": []
   }
 }

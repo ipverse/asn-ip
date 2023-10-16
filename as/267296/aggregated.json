@@ -3,7 +3,9 @@
   "handle": "WSAT-CONNECTION-COMUNICAES",
   "description": "WSAT CONNECTION COMUNICAES LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.233.76.0/22"
+    ],
     "ipv6": []
   }
 }

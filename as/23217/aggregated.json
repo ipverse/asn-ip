@@ -3,7 +3,9 @@
   "handle": "EY-CANADA",
   "description": "ERNST \u0026 YOUNG INC.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "142.221.0.0/16"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "AES",
   "description": "AES Europe Services EOOD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.69.180.0/24"
+    ],
     "ipv6": []
   }
 }

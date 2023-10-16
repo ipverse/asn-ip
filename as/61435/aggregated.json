@@ -3,7 +3,9 @@
   "handle": "ARKHBUM",
   "description": "JSC Arkhbum",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.137.104.0/24"
+    ],
     "ipv6": []
   }
 }

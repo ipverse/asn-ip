@@ -3,7 +3,9 @@
   "handle": "NTTINDONESIA-ID",
   "description": "PT NTT Indonesia",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.178.8.0/24"
+    ],
     "ipv6": []
   }
 }

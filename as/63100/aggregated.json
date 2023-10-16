@@ -3,7 +3,10 @@
   "handle": "CTCI",
   "description": "Carnegie Telephone Company, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.10.72.0/21",
+      "104.153.0.0/21"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "BIBLV",
   "description": "Baltic International Bank SE",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "80.233.130.0/24"
+    ],
     "ipv6": []
   }
 }

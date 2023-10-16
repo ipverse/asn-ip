@@ -3,7 +3,9 @@
   "handle": "GDC-AP",
   "description": "Gisborne District Council",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.252.247.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,10 @@
   "handle": "DECORAH-METRONET",
   "description": "Decorah MetroNet",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.159.119.0/24",
+      "199.115.180.0/22"
+    ],
     "ipv6": []
   }
 }

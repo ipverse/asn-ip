@@ -3,7 +3,9 @@
   "handle": "BKI-AP",
   "description": "Bangkok Insurance Public Company Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.137.190.0/23"
+    ],
     "ipv6": []
   }
 }

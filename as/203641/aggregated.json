@@ -3,7 +3,10 @@
   "handle": "GUILLENAWIFI",
   "description": "Safety Capital, S.L",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.107.160.0/22",
+      "193.111.170.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "O-MEGA",
   "description": "LINK@P SARL trading as O-MEGA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.147.248.0/24"
+    ],
     "ipv6": []
   }
 }

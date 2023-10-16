@@ -3,7 +3,9 @@
   "handle": "OSUFCUASN",
   "description": "Oregon State Credit Union",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "65.122.252.0/24"
+    ],
     "ipv6": []
   }
 }

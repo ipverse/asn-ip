@@ -3,7 +3,9 @@
   "handle": "PYMBLELADIES-NON-AP",
   "description": "Pymble Ladies\u0027 College",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "203.31.185.0/24"
+    ],
     "ipv6": []
   }
 }

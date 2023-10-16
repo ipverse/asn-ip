@@ -3,7 +3,10 @@
   "handle": "EVEA-CLOUD",
   "description": "Easyteam SASAU",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.33.13.0/24",
+      "185.33.14.0/23"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "GSR-ARIN-01",
   "description": "MEI-GSR Holdings, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.67.40.0/24"
+    ],
     "ipv6": []
   }
 }

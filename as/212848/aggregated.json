@@ -3,7 +3,9 @@
   "handle": "STCPAY",
   "description": "STC Bank CJSC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.120.143.0/24"
+    ],
     "ipv6": []
   }
 }

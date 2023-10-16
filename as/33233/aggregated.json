@@ -3,7 +3,9 @@
   "handle": "OECU-BGP1",
   "description": "Oklahoma Employees Credit Union",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "12.161.79.0/24"
+    ],
     "ipv6": []
   }
 }

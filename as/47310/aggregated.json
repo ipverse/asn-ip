@@ -3,7 +3,9 @@
   "handle": "CIMAL",
   "description": "CIMAL - Comunidade Intermunicipal do Alentejo Litoral",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.66.127.0/24"
+    ],
     "ipv6": []
   }
 }

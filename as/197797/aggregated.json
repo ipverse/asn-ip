@@ -3,7 +3,9 @@
   "handle": "RAMBAM",
   "description": "The Health Corporation - Rambam",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.227.70.0/23"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "ACCEL-ADC",
   "description": "Netflow Software BV",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.130.148.0/22"
+    ],
     "ipv6": []
   }
 }

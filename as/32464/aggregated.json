@@ -3,7 +3,9 @@
   "handle": "UICOMP",
   "description": "University Of Illinois College Of Medicine At Peoria",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "65.79.120.0/22"
+    ],
     "ipv6": []
   }
 }

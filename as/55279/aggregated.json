@@ -3,7 +3,9 @@
   "handle": "JOCKEY-INT",
   "description": "Jockey International, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "198.37.47.0/24"
+    ],
     "ipv6": []
   }
 }

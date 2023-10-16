@@ -3,7 +3,11 @@
   "handle": "NYSERNET-BLK",
   "description": "NYSERNet",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "199.109.80.0/22"
+    ],
+    "ipv6": [
+      "2620:f:a::/48"
+    ]
   }
 }

@@ -3,7 +3,9 @@
   "handle": "NORTA-CANAL",
   "description": "RTA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "142.190.113.0/24"
+    ],
     "ipv6": []
   }
 }

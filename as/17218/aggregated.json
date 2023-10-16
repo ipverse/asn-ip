@@ -3,7 +3,11 @@
   "handle": "LC-647",
   "description": "Linfield University",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "208.103.167.0/24"
+    ],
+    "ipv6": [
+      "2620:13e:9007::/48"
+    ]
   }
 }

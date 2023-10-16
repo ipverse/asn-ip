@@ -3,7 +3,9 @@
   "handle": "UEPL-NET-PK",
   "description": "United Energy Pakistan Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.8.231.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "WMCSI",
   "description": "WMC SYSTEMY INFORMATYCZNE SP. Z O.O.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.222.160.0/22"
+    ],
     "ipv6": []
   }
 }

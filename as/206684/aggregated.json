@@ -3,7 +3,9 @@
   "handle": "VNIIOFI",
   "description": "FGUP Russian Scientific Research Institute of Optical and Physical Measurements",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "176.100.254.0/24"
+    ],
     "ipv6": []
   }
 }

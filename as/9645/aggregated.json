@@ -3,7 +3,10 @@
   "handle": "HYUNDAIFUTURES",
   "description": "SI SECURITIES CORPORATION",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "203.240.128.0/24",
+      "211.47.38.0/24"
+    ],
     "ipv6": []
   }
 }

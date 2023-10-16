@@ -3,7 +3,9 @@
   "handle": "IDNIC-WONOSOBOKAB-ID",
   "description": "Pemerintah Kabupaten Wonosobo",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.155.105.0/24"
+    ],
     "ipv6": []
   }
 }

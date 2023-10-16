@@ -3,7 +3,9 @@
   "handle": "SECURITAS-DE",
   "description": "Securitas GmbH Administration",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.185.192.0/22"
+    ],
     "ipv6": []
   }
 }

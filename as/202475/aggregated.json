@@ -3,7 +3,9 @@
   "handle": "ELECHSERVICE-GRUP-SRL",
   "description": "ELECHSERVICE-GRUP S.R.L",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.57.52.0/23"
+    ],
     "ipv6": []
   }
 }

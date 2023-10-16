@@ -3,7 +3,10 @@
   "handle": "JALAWAVE-ID",
   "description": "PT Jalawave Cakrawala",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "60.253.96.0/19",
+      "202.51.224.0/20"
+    ],
     "ipv6": []
   }
 }

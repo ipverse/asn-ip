@@ -3,7 +3,9 @@
   "handle": "RSI-AUS",
   "description": "Renaissance Systems, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "66.194.167.0/24"
+    ],
     "ipv6": []
   }
 }

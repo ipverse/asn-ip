@@ -3,7 +3,9 @@
   "handle": "KNYAZEV",
   "description": "Individual Entrepreneur Knyazev Ilya Nikolaevich",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.9.195.0/24"
+    ],
     "ipv6": []
   }
 }

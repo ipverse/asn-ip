@@ -3,7 +3,10 @@
   "handle": "MVTV-AS1",
   "description": "MVTV Wireless",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "139.60.104.0/22",
+      "184.94.136.0/22"
+    ],
     "ipv6": []
   }
 }

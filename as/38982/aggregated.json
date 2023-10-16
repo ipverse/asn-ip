@@ -3,7 +3,9 @@
   "handle": "NETINTACT",
   "description": "Sandvine Sweden AB",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.153.91.0/24"
+    ],
     "ipv6": []
   }
 }

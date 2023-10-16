@@ -3,7 +3,9 @@
   "handle": "UJP-SI",
   "description": "Uprava Republike Slovenije za javna placila",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.105.22.0/24"
+    ],
     "ipv6": []
   }
 }

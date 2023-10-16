@@ -3,7 +3,9 @@
   "handle": "QCL1",
   "description": "QSupport Cloud (Pty) Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "102.216.28.0/22"
+    ],
     "ipv6": []
   }
 }

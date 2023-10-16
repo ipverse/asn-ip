@@ -3,7 +3,9 @@
   "handle": "FREE-NET",
   "description": "OOO FREEnet Group",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.233.14.0/24"
+    ],
     "ipv6": []
   }
 }

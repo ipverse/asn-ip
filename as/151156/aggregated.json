@@ -3,7 +3,9 @@
   "handle": "OMSAITEL-IN",
   "description": "Om Sai Telecom Pvt Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.129.100.0/23"
+    ],
     "ipv6": []
   }
 }

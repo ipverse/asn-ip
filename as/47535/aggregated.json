@@ -3,7 +3,9 @@
   "handle": "JAVELINBROADBAND",
   "description": "JAVELIN BROADBAND LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.204.174.0/23"
+    ],
     "ipv6": []
   }
 }

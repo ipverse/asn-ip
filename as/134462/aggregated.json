@@ -3,7 +3,9 @@
   "handle": "JOBTOMORI-AP",
   "description": "JOB TOMORI",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.160.122.0/23"
+    ],
     "ipv6": []
   }
 }

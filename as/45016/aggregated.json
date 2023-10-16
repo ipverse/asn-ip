@@ -3,7 +3,9 @@
   "handle": "WKOKS",
   "description": "WEGLOKOKS S.A.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.5.182.0/24"
+    ],
     "ipv6": []
   }
 }

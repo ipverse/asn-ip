@@ -3,7 +3,9 @@
   "handle": "BANKA-INTESA-SANPAOLO",
   "description": "Banka Intesa Sanpaolo d.d.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.41.35.0/24"
+    ],
     "ipv6": []
   }
 }

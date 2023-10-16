@@ -3,7 +3,9 @@
   "handle": "TEAMPOOL",
   "description": "teampool personal service gmbh",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "217.194.145.0/24"
+    ],
     "ipv6": []
   }
 }

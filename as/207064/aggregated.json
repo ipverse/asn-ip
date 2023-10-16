@@ -3,7 +3,9 @@
   "handle": "INPLATLABS",
   "description": "InPlat Technologies LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.125.48.0/23"
+    ],
     "ipv6": []
   }
 }

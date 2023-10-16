@@ -3,7 +3,10 @@
   "handle": "ABELSONTAYLOR",
   "description": "AbelsonTaylor, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.124.5.0/24",
+      "38.131.240.0/24"
+    ],
     "ipv6": []
   }
 }

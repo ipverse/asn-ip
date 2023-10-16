@@ -3,7 +3,12 @@
   "handle": "SIOBC",
   "description": "Shemyakin-Ovchinnikov Institute of Bioorganic Chemistry Russian Academy of Sciences",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "193.232.180.0/24",
+      "194.85.8.0/23"
+    ],
+    "ipv6": [
+      "2a0c:a9c7:1::/48"
+    ]
   }
 }

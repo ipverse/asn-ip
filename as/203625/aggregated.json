@@ -3,7 +3,9 @@
   "handle": "EDOMS",
   "description": "Internet Vikings International AB",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.129.24.0/22"
+    ],
     "ipv6": []
   }
 }

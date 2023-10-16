@@ -3,7 +3,11 @@
   "handle": "ARSINFORM",
   "description": "ARS-INFORM LLC",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "91.188.128.0/19"
+    ],
+    "ipv6": [
+      "2a02:a98::/32"
+    ]
   }
 }

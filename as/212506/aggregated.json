@@ -3,7 +3,9 @@
   "handle": "SWIZZONIC",
   "description": "swizzonic ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.16.72.0/24"
+    ],
     "ipv6": []
   }
 }

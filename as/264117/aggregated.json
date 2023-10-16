@@ -3,7 +3,13 @@
   "handle": "PROVEDOR-FIBRAMAIS",
   "description": "Provedor Fibramais Ltda",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "138.97.28.0/22",
+      "143.255.4.0/22",
+      "177.66.76.0/22"
+    ],
+    "ipv6": [
+      "2804:22b4::/32"
+    ]
   }
 }

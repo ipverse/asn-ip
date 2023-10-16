@@ -3,7 +3,9 @@
   "handle": "MSS-LLC",
   "description": "MSS LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "95.161.92.0/23"
+    ],
     "ipv6": []
   }
 }

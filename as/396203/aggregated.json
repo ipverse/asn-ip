@@ -3,7 +3,9 @@
   "handle": "EMA-VEGAS-CORP",
   "description": "eMoney Advisor",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "162.254.232.0/24"
+    ],
     "ipv6": []
   }
 }

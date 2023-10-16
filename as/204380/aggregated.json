@@ -3,7 +3,9 @@
   "handle": "STARBRIDGE-LV",
   "description": "SIA Starbridge",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "78.28.225.0/24"
+    ],
     "ipv6": []
   }
 }

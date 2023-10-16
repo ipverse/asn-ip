@@ -3,7 +3,9 @@
   "handle": "ECETRA",
   "description": "Erste Digital GmbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.164.224.0/23"
+    ],
     "ipv6": []
   }
 }

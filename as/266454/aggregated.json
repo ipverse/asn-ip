@@ -3,7 +3,12 @@
   "handle": "EXPAND-TELECOM",
   "description": "EXPAND TELECOM LTDA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "170.83.0.0/22",
+      "179.0.124.0/22"
+    ],
+    "ipv6": [
+      "2804:3814::/32"
+    ]
   }
 }

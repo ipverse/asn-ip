@@ -3,7 +3,9 @@
   "handle": "GREENBRIER",
   "description": "THE GREENBRIER COMPANIES, INC.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.161.38.0/23"
+    ],
     "ipv6": []
   }
 }

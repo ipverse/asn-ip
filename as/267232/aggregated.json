@@ -3,7 +3,9 @@
   "handle": "GOOD-NET-PROVEDOR",
   "description": "Good Net Provedor de Internet Ltda - EPP",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.231.200.0/22"
+    ],
     "ipv6": []
   }
 }

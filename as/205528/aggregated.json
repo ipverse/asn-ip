@@ -3,7 +3,9 @@
   "handle": "MIDION",
   "description": "Midion LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "37.18.37.0/24"
+    ],
     "ipv6": []
   }
 }

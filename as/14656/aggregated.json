@@ -3,7 +3,9 @@
   "handle": "CHARTER-CENTURYLINK",
   "description": "CENTRIC HEALTH RESOURCES",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "75.141.94.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,10 @@
   "handle": "MEDIAHUB-AP",
   "description": "Mediahub Australia Pty Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.52.193.0/24",
+      "206.148.6.0/24"
+    ],
     "ipv6": []
   }
 }

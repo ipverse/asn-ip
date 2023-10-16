@@ -3,7 +3,9 @@
   "handle": "ONESKY-FLIGHT-LLC",
   "description": "OneSky",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "64.207.201.0/24"
+    ],
     "ipv6": []
   }
 }

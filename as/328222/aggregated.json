@@ -3,7 +3,9 @@
   "handle": "NETLAYER",
   "description": "NETLAYER (PTY) LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "102.128.160.0/22"
+    ],
     "ipv6": []
   }
 }

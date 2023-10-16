@@ -3,7 +3,9 @@
   "handle": "INTARMIT",
   "description": "IntarmIT LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.241.111.0/24"
+    ],
     "ipv6": []
   }
 }

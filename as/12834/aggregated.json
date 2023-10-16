@@ -3,7 +3,10 @@
   "handle": "DANFOSS",
   "description": "Danfoss A/S",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.162.34.0/24",
+      "194.175.35.0/24"
+    ],
     "ipv6": []
   }
 }

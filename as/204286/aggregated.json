@@ -3,7 +3,9 @@
   "handle": "CDN4YOU",
   "description": "Invermae Solutions SL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "109.205.60.0/24"
+    ],
     "ipv6": []
   }
 }

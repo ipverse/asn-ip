@@ -3,7 +3,9 @@
   "handle": "LIMINKA",
   "description": "Limingan kunta",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.118.232.0/22"
+    ],
     "ipv6": []
   }
 }

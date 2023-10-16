@@ -3,7 +3,10 @@
   "handle": "ICONIN",
   "description": "I connect broadband support and services",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.249.252.0/22",
+      "103.219.0.0/22"
+    ],
     "ipv6": []
   }
 }

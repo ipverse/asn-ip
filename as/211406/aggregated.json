@@ -3,7 +3,9 @@
   "handle": "REANTACLOUD",
   "description": "CLOUD PROVIDER LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.62.101.0/24"
+    ],
     "ipv6": []
   }
 }

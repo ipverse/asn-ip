@@ -3,7 +3,10 @@
   "handle": "ASKOH1",
   "description": "Kohler Co.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "12.181.41.0/24",
+      "40.128.13.0/24"
+    ],
     "ipv6": []
   }
 }

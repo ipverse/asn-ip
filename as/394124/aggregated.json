@@ -3,7 +3,9 @@
   "handle": "SHOESHOW-1",
   "description": "SHOE SHOW Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.135.62.0/24"
+    ],
     "ipv6": []
   }
 }

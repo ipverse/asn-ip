@@ -3,7 +3,11 @@
   "handle": "SEFARO",
   "description": "Sefaro Networks Private Limited",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "103.102.96.0/22"
+    ],
+    "ipv6": [
+      "2405:6240::/32"
+    ]
   }
 }

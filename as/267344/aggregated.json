@@ -3,7 +3,11 @@
   "handle": "PLANOWEB-NETWORKS",
   "description": "PLANOWEB NETWORKS",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.234.76.0/22"
+    ],
+    "ipv6": [
+      "2804:4c08::/32"
+    ]
   }
 }

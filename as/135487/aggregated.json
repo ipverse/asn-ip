@@ -3,7 +3,9 @@
   "handle": "IDNIC-YAYASANTARUMANAGARA-ID",
   "description": "UNTAR - YAYASAN TARUMANAGARA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.74.170.0/24"
+    ],
     "ipv6": []
   }
 }

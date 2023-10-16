@@ -3,7 +3,11 @@
   "handle": "DELIGHTSPEED-01",
   "description": "DE LightSpeed",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "162.118.64.0/19"
+    ],
+    "ipv6": [
+      "2605:f9c0::/32"
+    ]
   }
 }

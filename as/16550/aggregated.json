@@ -3,7 +3,11 @@
   "handle": "GOOGLE-PRIVATE-CLOUD",
   "description": "Google LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "137.75.122.0/24",
+      "151.207.24.0/24",
+      "151.207.26.0/24"
+    ],
     "ipv6": []
   }
 }

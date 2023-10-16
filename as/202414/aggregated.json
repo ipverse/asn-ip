@@ -3,7 +3,11 @@
   "handle": "CITRA",
   "description": "Communications and Information Technology Regulatory Authority",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "194.54.136.0/22"
+    ],
+    "ipv6": [
+      "2a0c:c9c0::/29"
+    ]
   }
 }

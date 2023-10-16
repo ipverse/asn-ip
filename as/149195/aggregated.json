@@ -3,7 +3,9 @@
   "handle": "SHIVKRANT-IN",
   "description": "Shivkranti Internet Service Pvt Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.178.48.0/23"
+    ],
     "ipv6": []
   }
 }

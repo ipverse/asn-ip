@@ -3,7 +3,9 @@
   "handle": "DATACASH",
   "description": "MASTERCARD PAYMENT GATEWAY SERVICES GROUP LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "92.43.40.0/22"
+    ],
     "ipv6": []
   }
 }

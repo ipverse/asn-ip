@@ -3,7 +3,11 @@
   "handle": "BSPG-AP",
   "description": "BLUE STAR GROUP (NEW ZEALAND) LIMITED",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "192.94.169.0/24"
+    ],
+    "ipv6": [
+      "2001:df3:6b00::/48"
+    ]
   }
 }

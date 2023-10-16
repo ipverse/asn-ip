@@ -3,7 +3,12 @@
   "handle": "IPNET-TELECOMUNICACOES",
   "description": "IPNET TELECOMUNICACOES LTDA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "170.247.236.0/22",
+      "201.55.196.0/22"
+    ],
+    "ipv6": [
+      "2804:1964::/32"
+    ]
   }
 }

@@ -3,7 +3,9 @@
   "handle": "MYRIAM-PILAR-ESCOBAR-VEGA",
   "description": "MYRIAM PILAR ESCOBAR VEGA (DON SERVER)",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.174.104.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "ASDRUZHBA",
   "description": "Monolit-Stroy Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.216.48.0/24"
+    ],
     "ipv6": []
   }
 }

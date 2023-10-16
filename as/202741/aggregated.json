@@ -3,7 +3,12 @@
   "handle": "EDV-TEAM-OBERLAND",
   "description": "Martin Fichtner \u0026 Peter Feist GBR",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.128.92.0/22",
+      "185.152.204.0/22"
+    ],
+    "ipv6": [
+      "2a07:9700::/29"
+    ]
   }
 }

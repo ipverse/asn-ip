@@ -3,7 +3,9 @@
   "handle": "GNF-ORG",
   "description": "Genomics Institute of the Novartis Research Foundation",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "198.133.238.0/24"
+    ],
     "ipv6": []
   }
 }

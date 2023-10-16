@@ -3,7 +3,11 @@
   "handle": "ZEROOUTAGES",
   "description": "ZeroOutages",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "64.190.191.0/24",
+      "172.86.158.0/24",
+      "205.174.159.0/24"
+    ],
     "ipv6": []
   }
 }

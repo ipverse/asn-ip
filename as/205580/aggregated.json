@@ -3,7 +3,9 @@
   "handle": "EFCA",
   "description": "European Fisheries Control Agency",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.209.100.0/24"
+    ],
     "ipv6": []
   }
 }

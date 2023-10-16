@@ -3,7 +3,9 @@
   "handle": "HTXX",
   "description": "Huizhan street, Renqiu city, Hebei, P. R. CHINA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "122.0.64.0/18"
+    ],
     "ipv6": []
   }
 }

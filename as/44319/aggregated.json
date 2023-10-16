@@ -3,7 +3,9 @@
   "handle": "PLUSCLOUDS",
   "description": "Sef Bilisim Hizmetleri A.S.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.255.172.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "ATH",
   "description": "Alvist LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "93.157.59.0/24"
+    ],
     "ipv6": []
   }
 }

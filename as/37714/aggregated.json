@@ -3,7 +3,9 @@
   "handle": "BITFLUX",
   "description": "BITFLUX COMMUNICATIONS LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "154.117.64.0/18"
+    ],
     "ipv6": []
   }
 }

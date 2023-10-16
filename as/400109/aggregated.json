@@ -3,7 +3,9 @@
   "handle": "GOTECH",
   "description": "Go Technology Management, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "208.98.20.0/24"
+    ],
     "ipv6": []
   }
 }

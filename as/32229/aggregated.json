@@ -3,7 +3,9 @@
   "handle": "JSUMS-ARIN",
   "description": "Jackson State University",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "143.132.0.0/16"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,10 @@
   "handle": "TACONIC-CAPITAL-ADVISORS",
   "description": "Taconic Capital Advisors L.P.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "47.19.157.0/24",
+      "74.217.233.0/24"
+    ],
     "ipv6": []
   }
 }

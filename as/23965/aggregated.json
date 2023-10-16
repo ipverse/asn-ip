@@ -3,7 +3,9 @@
   "handle": "SYDCS-AP",
   "description": "Sydney Catholic Schools",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "203.26.248.0/21"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,10 @@
   "handle": "SKYE-BANK",
   "description": "SKYE BANK PLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "196.216.251.0/24",
+      "196.216.255.0/24"
+    ],
     "ipv6": []
   }
 }

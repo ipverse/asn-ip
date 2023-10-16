@@ -3,7 +3,9 @@
   "handle": "ONLINESTACK-AP",
   "description": "OnlineStack Global Networks",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.142.245.0/24"
+    ],
     "ipv6": []
   }
 }

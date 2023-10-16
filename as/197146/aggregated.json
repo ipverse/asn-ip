@@ -3,7 +3,9 @@
   "handle": "MULTICOM",
   "description": "PPHU Multicom Kumor Pawel",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.41.172.0/22"
+    ],
     "ipv6": []
   }
 }

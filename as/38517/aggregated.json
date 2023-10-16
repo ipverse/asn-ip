@@ -3,7 +3,11 @@
   "handle": "MAXMEDIA-ID",
   "description": "PT.Bangsawan Cyberindo",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "103.214.52.0/22"
+    ],
+    "ipv6": [
+      "2404:ba80::/32"
+    ]
   }
 }

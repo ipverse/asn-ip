@@ -3,7 +3,9 @@
   "handle": "CHROMA",
   "description": "Chroma Sp. z o.o.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.136.152.0/23"
+    ],
     "ipv6": []
   }
 }

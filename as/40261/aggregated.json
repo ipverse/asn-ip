@@ -3,7 +3,9 @@
   "handle": "MERCED1",
   "description": "Merced Systems, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "208.70.192.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "CENTROCREDIT-BANK-MOSCOW-JSC",
   "description": "CentroCredit Bank Moscow JSC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "217.67.0.0/20"
+    ],
     "ipv6": []
   }
 }

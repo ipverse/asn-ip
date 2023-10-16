@@ -3,7 +3,9 @@
   "handle": "DIGITALADV-AP",
   "description": "Digital Advantage Corp.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.27.122.0/23"
+    ],
     "ipv6": []
   }
 }

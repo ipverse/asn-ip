@@ -3,7 +3,9 @@
   "handle": "HOANGLONG-VN",
   "description": "Golden Dragon Company",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "202.52.39.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "IMDEX-AP",
   "description": "Imdex Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.133.212.0/24"
+    ],
     "ipv6": []
   }
 }

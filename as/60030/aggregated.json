@@ -3,7 +3,9 @@
   "handle": "GLOBALBILGI-AS2",
   "description": "Global Bilgi LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.23.175.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "MULTIMEDIALINKTECH-ID",
   "description": "PT Multimedia Link Technology",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.156.232.0/23"
+    ],
     "ipv6": []
   }
 }

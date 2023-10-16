@@ -3,7 +3,11 @@
   "handle": "K-NET-BASE",
   "description": "Klett IT GmbH",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "185.186.221.0/24"
+    ],
+    "ipv6": [
+      "2a11:1e40:1::/48"
+    ]
   }
 }

@@ -3,7 +3,9 @@
   "handle": "CLOUDBURST",
   "description": "RainWorx",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "162.208.56.0/22"
+    ],
     "ipv6": []
   }
 }

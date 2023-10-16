@@ -3,7 +3,9 @@
   "handle": "YAMALSETSERVICE",
   "description": "Yamalsetservice LLC.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "79.133.104.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "UMDASCH",
   "description": "Umdasch Group AG",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.238.225.0/24"
+    ],
     "ipv6": []
   }
 }

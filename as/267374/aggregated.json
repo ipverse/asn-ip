@@ -3,7 +3,11 @@
   "handle": "ICOS-TELECOM",
   "description": "ICOS TELECOM LTDA - ME",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.234.124.0/22"
+    ],
+    "ipv6": [
+      "2804:4c80::/32"
+    ]
   }
 }

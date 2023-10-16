@@ -3,7 +3,9 @@
   "handle": "LEC",
   "description": "Eastbourne Borough Council",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.213.192.0/24"
+    ],
     "ipv6": []
   }
 }

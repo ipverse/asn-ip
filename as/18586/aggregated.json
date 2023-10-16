@@ -1,9 +1,10 @@
 {
   "asn": 18586,
-  "handle": "DIVINEHOST",
-  "description": "Divine Hosting Services",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "64.125.221.0/24",
+      "204.2.210.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "ADMKRSK",
   "description": "Municipality of Krasnoyarsk City",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "93.92.65.0/24"
+    ],
     "ipv6": []
   }
 }

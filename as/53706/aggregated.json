@@ -3,7 +3,11 @@
   "handle": "ARISE-VIRTUAL-SOLUTIONS-INC",
   "description": "Arise Virtual Solutions Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "69.42.104.0/24",
+      "162.213.200.0/22",
+      "162.213.206.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "WW",
   "description": "Westwing GmbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.240.217.0/24"
+    ],
     "ipv6": []
   }
 }

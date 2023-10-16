@@ -3,7 +3,12 @@
   "handle": "INTERNIC",
   "description": "internic Datenkommunikations GmbH",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "192.133.109.0/24",
+      "212.126.64.0/19"
+    ],
+    "ipv6": [
+      "2001:4100::/32"
+    ]
   }
 }

@@ -3,7 +3,9 @@
   "handle": "NORRMEJERIER",
   "description": "NorrMejerier Ekomonisk Forening",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.71.180.0/23"
+    ],
     "ipv6": []
   }
 }

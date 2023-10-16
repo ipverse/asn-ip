@@ -1,7 +1,4 @@
 # AS33771 (SAFARICOM-LIMITED)
 # Safaricom Limited
 #
-2c0f:fe38:2000::/42
-2c0f:fe38:2180::/43
-2c0f:fe38:2240::/43
-2c0f:fe38:2400::/42
+2c0f:fe38::/32

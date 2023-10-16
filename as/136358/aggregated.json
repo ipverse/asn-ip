@@ -3,7 +3,9 @@
   "handle": "OMSAI",
   "description": "Omsai Cable Systems India Pvt Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.101.68.0/22"
+    ],
     "ipv6": []
   }
 }

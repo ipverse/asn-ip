@@ -3,7 +3,11 @@
   "handle": "ILS",
   "description": "Zweckverband fuer Rettungsdienst und Feuerwehralarmierung Saar",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "185.206.230.0/24"
+    ],
+    "ipv6": [
+      "2a11:9c0::/32"
+    ]
   }
 }

@@ -3,7 +3,9 @@
   "handle": "RONAL",
   "description": "Ronal AG",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "212.243.115.0/24"
+    ],
     "ipv6": []
   }
 }

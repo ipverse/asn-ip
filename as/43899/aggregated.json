@@ -3,7 +3,9 @@
   "handle": "TVR",
   "description": "Societatea Romana de Televiziune",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.186.33.0/24"
+    ],
     "ipv6": []
   }
 }

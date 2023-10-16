@@ -3,7 +3,13 @@
   "handle": "SEABRA-INFORMATICA",
   "description": "Seabra Informatica Ltda",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "168.181.40.0/22",
+      "177.73.80.0/22",
+      "177.129.116.0/22"
+    ],
+    "ipv6": [
+      "2804:628::/32"
+    ]
   }
 }

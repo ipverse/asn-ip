@@ -3,7 +3,9 @@
   "handle": "INTERSWITCH",
   "description": "Interswitch Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "154.72.32.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "REDIUM",
   "description": "Redium B.V.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "164.138.254.0/24"
+    ],
     "ipv6": []
   }
 }

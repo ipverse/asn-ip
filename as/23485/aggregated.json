@@ -3,7 +3,9 @@
   "handle": "SEI-LLC-NUM",
   "description": "SEI LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "208.89.80.0/23"
+    ],
     "ipv6": []
   }
 }

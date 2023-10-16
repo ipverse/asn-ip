@@ -3,7 +3,9 @@
   "handle": "TGNA-WTLV",
   "description": "TEGNA Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "167.8.28.0/23"
+    ],
     "ipv6": []
   }
 }

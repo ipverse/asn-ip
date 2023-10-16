@@ -3,7 +3,9 @@
   "handle": "SLOM-INC",
   "description": "SLOMIN\u0027S INC.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "12.34.126.0/24"
+    ],
     "ipv6": []
   }
 }

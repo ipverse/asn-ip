@@ -3,7 +3,9 @@
   "handle": "CDC-AP",
   "description": "Chittagong Data Communication",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.124.52.0/22"
+    ],
     "ipv6": []
   }
 }

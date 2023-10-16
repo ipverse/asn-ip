@@ -3,7 +3,9 @@
   "handle": "PCF",
   "description": "PCF Group S.A.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "77.65.149.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,13 @@
   "handle": "AJF-TELECOM",
   "description": "AJF TELECOM",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "200.219.8.0/23",
+      "200.219.10.0/24"
+    ],
+    "ipv6": [
+      "2804:71b0::/34",
+      "2804:71b0:fe00::/39"
+    ]
   }
 }

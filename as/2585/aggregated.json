@@ -3,7 +3,9 @@
   "handle": "OPTICTELECOM",
   "description": "Optic Telecom LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.234.152.0/22"
+    ],
     "ipv6": []
   }
 }

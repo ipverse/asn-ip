@@ -3,7 +3,9 @@
   "handle": "GALAXYVISIONS",
   "description": "Galaxyvisions Inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "209.104.198.0/24"
+    ],
     "ipv6": []
   }
 }

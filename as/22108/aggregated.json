@@ -3,7 +3,9 @@
   "handle": "RESEARCH-INT",
   "description": "TNS UK Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "198.178.239.0/24"
+    ],
     "ipv6": []
   }
 }

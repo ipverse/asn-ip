@@ -3,7 +3,11 @@
   "handle": "IDBAS",
   "description": "Stichting Ipse de Bruggen",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "185.166.48.0/22"
+    ],
+    "ipv6": [
+      "2a0a:8a00::/32"
+    ]
   }
 }

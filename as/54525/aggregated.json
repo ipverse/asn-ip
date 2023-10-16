@@ -3,7 +3,9 @@
   "handle": "AGT01",
   "description": "APPLIED GLOBAL TECHNOLOGIES, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "205.211.24.0/23"
+    ],
     "ipv6": []
   }
 }

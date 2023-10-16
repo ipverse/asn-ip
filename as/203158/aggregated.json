@@ -3,7 +3,12 @@
   "handle": "HJA",
   "description": "Herrljunga Kommun",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "194.103.44.0/24",
+      "194.103.48.0/24"
+    ],
+    "ipv6": [
+      "2001:67c:13d8::/48"
+    ]
   }
 }

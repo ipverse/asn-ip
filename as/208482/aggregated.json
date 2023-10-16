@@ -3,7 +3,9 @@
   "handle": "SMABTP",
   "description": "SMABTP",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.84.98.0/23"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "MIZUHO",
   "description": "Mizuho International Plc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.47.198.0/24"
+    ],
     "ipv6": []
   }
 }

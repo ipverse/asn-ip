@@ -3,7 +3,9 @@
   "handle": "IDNIC-VDCI-ID",
   "description": "PT Virtual Data Centra Indonesia",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.126.56.0/22"
+    ],
     "ipv6": []
   }
 }

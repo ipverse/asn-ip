@@ -3,7 +3,9 @@
   "handle": "TILLLMAN-FIBER-CO",
   "description": "TILLMAN FIBERCO, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "149.120.63.0/24"
+    ],
     "ipv6": []
   }
 }

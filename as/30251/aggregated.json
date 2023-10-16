@@ -3,7 +3,9 @@
   "handle": "FALKEN",
   "description": "Falken Tire Corporation",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "198.207.152.0/24"
+    ],
     "ipv6": []
   }
 }

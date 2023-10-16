@@ -3,7 +3,9 @@
   "handle": "ITWIRELLESS",
   "description": "PAWEL KUZNIEWSKI",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.209.243.0/24"
+    ],
     "ipv6": []
   }
 }

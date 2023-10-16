@@ -3,7 +3,9 @@
   "handle": "BLUNOVATP",
   "description": "Blunova Trapani S.R.L.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "176.105.156.0/22"
+    ],
     "ipv6": []
   }
 }

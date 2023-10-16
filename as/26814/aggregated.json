@@ -3,7 +3,10 @@
   "handle": "COBNET",
   "description": "City of Birmingham",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.87.16.0/21",
+      "199.87.24.0/23"
+    ],
     "ipv6": []
   }
 }

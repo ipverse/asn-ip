@@ -3,7 +3,9 @@
   "handle": "MELEUZ",
   "description": "Sistemy Telekommunikatsiy i Svyazi Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "146.120.184.0/24"
+    ],
     "ipv6": []
   }
 }

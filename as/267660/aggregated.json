@@ -3,7 +3,11 @@
   "handle": "T-S-SERVICO",
   "description": "T \u0026 S SERVICO DE COMUNICACAO MULTIMIDIA LTDA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.224.180.0/22"
+    ],
+    "ipv6": [
+      "2804:44e8::/32"
+    ]
   }
 }

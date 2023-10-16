@@ -3,7 +3,9 @@
   "handle": "FIBER-LINE",
   "description": "FIBER LINE SAC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "177.126.48.0/22"
+    ],
     "ipv6": []
   }
 }

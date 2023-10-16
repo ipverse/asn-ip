@@ -4,6 +4,8 @@
   "description": "JANZEN WIENS RALF DONALD",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2803:7990::/32"
+    ]
   }
 }

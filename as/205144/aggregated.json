@@ -3,7 +3,11 @@
   "handle": "DA",
   "description": "Dansk Arbejdsgiverforening",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "185.229.92.0/22"
+    ],
+    "ipv6": [
+      "2a0d:8200::/29"
+    ]
   }
 }

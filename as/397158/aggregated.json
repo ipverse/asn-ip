@@ -3,7 +3,9 @@
   "handle": "RCS-CO-LO-BGP",
   "description": "Resurgent Capital Services LP",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "8.20.251.0/24"
+    ],
     "ipv6": []
   }
 }

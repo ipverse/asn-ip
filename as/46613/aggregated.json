@@ -3,7 +3,9 @@
   "handle": "CV-RI-HQ",
   "description": "COLLETTE VACATIONS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "70.175.238.0/24"
+    ],
     "ipv6": []
   }
 }

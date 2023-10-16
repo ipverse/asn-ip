@@ -3,7 +3,9 @@
   "handle": "GRUPPOAPI",
   "description": "Italiana Petroli SpA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.197.212.0/22"
+    ],
     "ipv6": [
       "2a0a:7c40::/32"
     ]

@@ -3,7 +3,10 @@
   "handle": "NETVIS-TELECOM",
   "description": "NETVIS TELECOM",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "128.201.228.0/23",
+      "160.238.176.0/22"
+    ],
     "ipv6": []
   }
 }

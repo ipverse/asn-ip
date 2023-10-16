@@ -3,7 +3,10 @@
   "handle": "NETINFOR-TELECOMUNICACOES",
   "description": "NETINFOR TELECOMUNICACOES LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.144.120.0/24",
+      "192.144.122.0/24"
+    ],
     "ipv6": []
   }
 }

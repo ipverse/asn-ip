@@ -3,7 +3,11 @@
   "handle": "KCISA",
   "description": "Korea Culture Information Service Agency",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "175.125.91.0/24",
+      "210.108.46.0/24",
+      "210.108.60.0/24"
+    ],
     "ipv6": []
   }
 }

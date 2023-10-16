@@ -3,7 +3,11 @@
   "handle": "WELLMONT-TN",
   "description": "Wellmont Health System",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "75.141.70.0/24",
+      "151.102.0.0/16",
+      "199.21.144.0/22"
+    ],
     "ipv6": []
   }
 }

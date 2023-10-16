@@ -3,7 +3,9 @@
   "handle": "HARIM",
   "description": "HARIM",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "218.158.246.0/24"
+    ],
     "ipv6": []
   }
 }

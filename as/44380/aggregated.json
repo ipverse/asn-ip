@@ -3,7 +3,10 @@
   "handle": "WESTCOM-TRADE",
   "description": "Smart Telecom Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.93.206.0/23",
+      "195.191.146.0/23"
+    ],
     "ipv6": []
   }
 }

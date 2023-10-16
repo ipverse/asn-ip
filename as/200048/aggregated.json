@@ -3,7 +3,9 @@
   "handle": "ALEAN",
   "description": "LLC ALEAN",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "141.101.137.0/24"
+    ],
     "ipv6": []
   }
 }

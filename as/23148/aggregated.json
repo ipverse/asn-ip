@@ -3,7 +3,11 @@
   "handle": "TERRENAP",
   "description": "Verizon Business",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "63.67.176.0/24"
+    ],
+    "ipv6": [
+      "2600:80c:1200::/40"
+    ]
   }
 }

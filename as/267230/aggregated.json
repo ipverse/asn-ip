@@ -3,7 +3,9 @@
   "handle": "TRIBUNAL-REGIONAL-TRABALHO",
   "description": "TRIBUNAL REGIONAL DO TRABALHO DA 22a REGIO",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.229.150.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "NNTCL-AP",
   "description": "Nahe (tianjin) Network Technology Co., Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "154.195.4.0/24"
+    ],
     "ipv6": []
   }
 }

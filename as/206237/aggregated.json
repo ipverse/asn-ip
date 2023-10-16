@@ -3,7 +3,9 @@
   "handle": "BARCLAYS-BPS",
   "description": "Barclays Bank PLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "157.83.144.0/22"
+    ],
     "ipv6": []
   }
 }

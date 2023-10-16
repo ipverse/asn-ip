@@ -3,7 +3,11 @@
   "handle": "DESTINY-SWEDEN",
   "description": "Destiny N.V",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "185.39.124.0/22"
+    ],
+    "ipv6": [
+      "2a01:43a0::/32"
+    ]
   }
 }

@@ -3,7 +3,9 @@
   "handle": "HASD-VN",
   "description": "Hoi An South Development Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.142.22.0/23"
+    ],
     "ipv6": []
   }
 }

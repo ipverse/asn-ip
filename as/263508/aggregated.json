@@ -3,7 +3,9 @@
   "handle": "SIMNET-TELECOMUNICACOES",
   "description": "SIMNET TELECOMUNICACOES LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "191.243.160.0/20"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "GOBIERNO-DE-NAVARRA",
   "description": "Gobierno de Navarra",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "176.12.80.0/21"
+    ],
     "ipv6": []
   }
 }

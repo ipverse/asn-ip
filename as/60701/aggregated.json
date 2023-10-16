@@ -3,7 +3,9 @@
   "handle": "MARIADB",
   "description": "MariaDB Bulgaria EOOD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "94.156.103.0/24"
+    ],
     "ipv6": []
   }
 }

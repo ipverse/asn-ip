@@ -3,7 +3,9 @@
   "handle": "PGK",
   "description": "JSC Freight One",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.238.230.0/24"
+    ],
     "ipv6": []
   }
 }

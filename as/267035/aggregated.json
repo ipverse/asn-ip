@@ -3,7 +3,11 @@
   "handle": "MS-TELECOM",
   "description": "MS TELECOM LTDA ME",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.227.148.0/22"
+    ],
+    "ipv6": [
+      "2804:4728::/32"
+    ]
   }
 }

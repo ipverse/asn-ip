@@ -3,7 +3,9 @@
   "handle": "RAA",
   "description": "Artem Ryazantsev",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "92.63.181.0/24"
+    ],
     "ipv6": []
   }
 }

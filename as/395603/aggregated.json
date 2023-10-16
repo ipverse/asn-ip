@@ -3,7 +3,9 @@
   "handle": "NASSAU-COLISEUM",
   "description": "AEG",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.125.88.0/24"
+    ],
     "ipv6": []
   }
 }

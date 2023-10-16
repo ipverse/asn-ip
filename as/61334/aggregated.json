@@ -3,7 +3,9 @@
   "handle": "PAYPOINT",
   "description": "Paynet Services SRL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "93.113.159.0/24"
+    ],
     "ipv6": []
   }
 }

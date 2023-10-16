@@ -3,7 +3,9 @@
   "handle": "PERFECTWORX",
   "description": "PerfectWorx Consulting (Pty) Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "102.131.18.0/23"
+    ],
     "ipv6": []
   }
 }

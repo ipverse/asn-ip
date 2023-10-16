@@ -3,7 +3,11 @@
   "handle": "BTCML-AXA",
   "description": "AXA Technology Services UK Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "163.156.2.0/23",
+      "163.156.4.0/23",
+      "163.156.208.0/20"
+    ],
     "ipv6": []
   }
 }

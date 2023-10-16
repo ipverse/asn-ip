@@ -3,7 +3,9 @@
   "handle": "SOKA-UNIVERSITY-OF-AMERICA",
   "description": "Soka University of America",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.16.252.0/22"
+    ],
     "ipv6": []
   }
 }

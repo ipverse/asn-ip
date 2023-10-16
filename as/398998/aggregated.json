@@ -3,7 +3,13 @@
   "handle": "MAVERIX",
   "description": "Maverix LLC",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "23.147.104.0/24",
+      "74.81.169.0/24"
+    ],
+    "ipv6": [
+      "2602:2a1::/36",
+      "2602:fcf1::/36"
+    ]
   }
 }

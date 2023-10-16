@@ -3,7 +3,9 @@
   "handle": "EFOLDER-NL",
   "description": "Cloudfinder Sweden AB",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.65.212.0/22"
+    ],
     "ipv6": []
   }
 }

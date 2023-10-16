@@ -3,7 +3,11 @@
   "handle": "INFINITY-BRASIL",
   "description": "INFINITY BRASIL LTDA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "23.26.216.0/24"
+    ],
+    "ipv6": [
+      "2804:8b90::/32"
+    ]
   }
 }

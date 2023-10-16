@@ -3,7 +3,9 @@
   "handle": "FKS-IN",
   "description": "Future Knowledge Services",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "203.215.51.0/24"
+    ],
     "ipv6": []
   }
 }

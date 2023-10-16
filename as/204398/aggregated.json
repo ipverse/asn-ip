@@ -3,7 +3,9 @@
   "handle": "LYSEKIL",
   "description": "Lysekils Kommun",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.71.5.0/24"
+    ],
     "ipv6": []
   }
 }

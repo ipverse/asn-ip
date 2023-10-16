@@ -3,7 +3,9 @@
   "handle": "ENQUEST",
   "description": "Enquest Britain Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "146.0.56.0/24"
+    ],
     "ipv6": []
   }
 }

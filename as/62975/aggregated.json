@@ -3,7 +3,10 @@
   "handle": "AVA2",
   "description": "Avista Corporation",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "198.181.28.0/22",
+      "198.251.4.0/22"
+    ],
     "ipv6": []
   }
 }

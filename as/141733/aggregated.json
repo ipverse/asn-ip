@@ -3,7 +3,9 @@
   "handle": "LEGION2-AP",
   "description": "Legion Telecom Pty Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.162.248.0/23"
+    ],
     "ipv6": []
   }
 }

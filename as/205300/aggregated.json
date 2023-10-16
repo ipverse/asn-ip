@@ -3,7 +3,9 @@
   "handle": "ASSUNFOX",
   "description": "Sunfox s.r.o.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "176.98.244.0/22"
+    ],
     "ipv6": []
   }
 }

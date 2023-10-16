@@ -3,7 +3,9 @@
   "handle": "AMBERSTUDIO",
   "description": "AMBER STUDIO S.R.L.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.10.96.0/24"
+    ],
     "ipv6": []
   }
 }

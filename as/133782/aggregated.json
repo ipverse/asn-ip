@@ -3,7 +3,9 @@
   "handle": "ELSEVIER-ASIAPACIFIC-AP",
   "description": "Elsevier Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "198.176.84.0/23"
+    ],
     "ipv6": []
   }
 }

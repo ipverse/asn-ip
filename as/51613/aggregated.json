@@ -3,7 +3,10 @@
   "handle": "KOMUS",
   "description": "TC Komus Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.220.1.0/24",
+      "195.209.182.0/24"
+    ],
     "ipv6": []
   }
 }

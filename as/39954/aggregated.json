@@ -3,7 +3,9 @@
   "handle": "GATEWAYTC",
   "description": "Gateway Technical College",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.255.0.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,10 @@
   "handle": "ABSOLUTBANK",
   "description": "Absolut Bank (PAO)",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.199.156.0/24",
+      "193.28.234.0/24"
+    ],
     "ipv6": []
   }
 }

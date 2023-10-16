@@ -3,7 +3,9 @@
   "handle": "SIGNET",
   "description": "Signet CS doo",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "94.140.110.0/24"
+    ],
     "ipv6": []
   }
 }

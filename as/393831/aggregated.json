@@ -3,7 +3,9 @@
   "handle": "KAPPACOMPUTERSYSTEMSLLC",
   "description": "Kappa Computer Systems LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.108.50.0/24"
+    ],
     "ipv6": []
   }
 }

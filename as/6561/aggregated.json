@@ -3,7 +3,10 @@
   "handle": "JUCE",
   "description": "JUCE Communications Inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "104.142.0.0/17",
+      "104.163.0.0/17"
+    ],
     "ipv6": []
   }
 }

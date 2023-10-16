@@ -3,7 +3,9 @@
   "handle": "AOKI-ALMINO-SANTOS",
   "description": "AOKI ALMINO E SANTOS LTDA - ME",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.237.252.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "SAVEX-AP",
   "description": "SAVEX TECHNOLOGIES PRIVATE LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.252.243.0/24"
+    ],
     "ipv6": []
   }
 }

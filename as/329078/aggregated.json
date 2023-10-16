@@ -3,7 +3,9 @@
   "handle": "ABARI-FTTH",
   "description": "Abari Communications",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "102.165.144.0/20"
+    ],
     "ipv6": []
   }
 }

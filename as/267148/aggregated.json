@@ -3,7 +3,11 @@
   "handle": "JETVIA-COMUNICAES-DIGITAIS",
   "description": "JETVIA COMUNICAES DIGITAIS LTDA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.230.16.0/22"
+    ],
+    "ipv6": [
+      "2804:48d8::/32"
+    ]
   }
 }

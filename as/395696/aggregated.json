@@ -3,7 +3,9 @@
   "handle": "INTOXALOCK",
   "description": "Intoxalock",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "170.76.140.0/24"
+    ],
     "ipv6": []
   }
 }

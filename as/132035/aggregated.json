@@ -3,7 +3,11 @@
   "handle": "UUM-MY-AP",
   "description": "Universiti Utara Malaysia",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "103.5.180.0/22"
+    ],
+    "ipv6": [
+      "2402:1100::/32"
+    ]
   }
 }

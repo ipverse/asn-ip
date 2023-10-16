@@ -3,7 +3,10 @@
   "handle": "KAKHAROV",
   "description": "Kakharov Orinbassar Maratuly",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "80.66.75.0/24",
+      "80.66.77.0/24"
+    ],
     "ipv6": []
   }
 }

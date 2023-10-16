@@ -3,7 +3,11 @@
   "handle": "IOPS",
   "description": "Lindbak IT AS",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "195.10.196.0/24"
+    ],
+    "ipv6": [
+      "2a03:5584::/30"
+    ]
   }
 }

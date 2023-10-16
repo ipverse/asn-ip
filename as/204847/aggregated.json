@@ -3,7 +3,13 @@
   "handle": "SE-BORGHOLM",
   "description": "Borgholms Kommun",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "193.183.78.0/24",
+      "194.68.122.0/24"
+    ],
+    "ipv6": [
+      "2001:67c:2a84::/48",
+      "2001:67c:2bd0::/48"
+    ]
   }
 }

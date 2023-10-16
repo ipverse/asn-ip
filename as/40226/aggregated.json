@@ -3,7 +3,9 @@
   "handle": "AKUSA",
   "description": "Alaska USA Federal Credit Union",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "208.69.198.0/23"
+    ],
     "ipv6": []
   }
 }

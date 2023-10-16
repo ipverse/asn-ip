@@ -3,7 +3,9 @@
   "handle": "UNIVERSIDAD-AUTONOMA-CIUDAD",
   "description": "Universidad Autonoma De Ciudad Juarez",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "148.210.0.0/16"
+    ],
     "ipv6": []
   }
 }

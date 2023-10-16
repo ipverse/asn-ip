@@ -3,7 +3,11 @@
   "handle": "STEK",
   "description": "S:t Erik Kommunikation AB",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "217.21.224.0/20"
+    ],
+    "ipv6": [
+      "2a03:c780::/32"
+    ]
   }
 }

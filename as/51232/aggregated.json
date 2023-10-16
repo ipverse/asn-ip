@@ -3,7 +3,9 @@
   "handle": "FOXCONNHU",
   "description": "PCE Paragon Solutions Korlatolt Felelossegu Tarsasag",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.216.60.0/24"
+    ],
     "ipv6": []
   }
 }

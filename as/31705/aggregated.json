@@ -3,7 +3,11 @@
   "handle": "EUMETSAT-OPS",
   "description": "Europaischen Organisation fuer die Nutzung Meteorologischen Satelliten (Eumetsat)",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "163.165.192.0/18",
+      "193.17.8.0/22",
+      "194.76.223.0/24"
+    ],
     "ipv6": []
   }
 }

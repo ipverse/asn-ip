@@ -3,7 +3,9 @@
   "handle": "LOTUS-INTERNET",
   "description": "LOTUS INTERNET",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "177.91.224.0/22"
+    ],
     "ipv6": []
   }
 }

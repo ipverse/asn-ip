@@ -3,7 +3,9 @@
   "handle": "TIC-CHILE-COMUNICACIONES",
   "description": "TIC CHILE COMUNICACIONES LIMITADA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.236.184.0/22"
+    ],
     "ipv6": []
   }
 }

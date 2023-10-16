@@ -3,7 +3,9 @@
   "handle": "DANDH",
   "description": "D\u0026H Distributing Company",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "8.28.219.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "PPD-WILMINGTON",
   "description": "PPDI",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "198.178.191.0/24"
+    ],
     "ipv6": []
   }
 }

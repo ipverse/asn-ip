@@ -3,7 +3,10 @@
   "handle": "SQUIZUK",
   "description": "Squiz UK Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.15.170.0/23",
+      "185.64.252.0/22"
+    ],
     "ipv6": []
   }
 }

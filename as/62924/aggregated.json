@@ -3,7 +3,9 @@
   "handle": "COBNET-ASN-1",
   "description": "City of Bryan, Texas",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "198.183.241.0/24"
+    ],
     "ipv6": []
   }
 }

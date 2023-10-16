@@ -3,7 +3,11 @@
   "handle": "NEMO",
   "description": "NEMO",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.91.124.0/24"
+    ],
+    "ipv6": [
+      "2a0e:f40::/32"
+    ]
   }
 }

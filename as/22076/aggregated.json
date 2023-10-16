@@ -3,7 +3,9 @@
   "handle": "NEWSBANK",
   "description": "NewsBank Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "204.126.80.0/24"
+    ],
     "ipv6": []
   }
 }

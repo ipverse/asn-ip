@@ -3,7 +3,12 @@
   "handle": "CAMPBELL-SCIENTIFIC",
   "description": "Campbell Scientific, Inc.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "24.104.48.0/24",
+      "198.212.128.0/23"
+    ],
+    "ipv6": [
+      "2602:815:8000::/48"
+    ]
   }
 }

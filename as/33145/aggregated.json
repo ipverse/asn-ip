@@ -3,7 +3,9 @@
   "handle": "BETHANYBCS",
   "description": "Bethany Christian Services",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "198.17.199.0/24"
+    ],
     "ipv6": []
   }
 }

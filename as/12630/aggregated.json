@@ -3,7 +3,12 @@
   "handle": "OVERKKOAS",
   "description": "Otaverkko Oy",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "185.207.84.0/22",
+      "212.68.0.0/19"
+    ],
+    "ipv6": [
+      "2a02:4880::/32"
+    ]
   }
 }

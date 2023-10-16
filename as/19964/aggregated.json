@@ -3,7 +3,9 @@
   "handle": "INVACARE",
   "description": "Invacare Corporation",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.114.204.0/22"
+    ],
     "ipv6": []
   }
 }

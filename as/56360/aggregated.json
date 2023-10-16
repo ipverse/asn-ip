@@ -3,7 +3,9 @@
   "handle": "MSTR",
   "description": "TRINITY CZECH REPUBLIC, s.r.o.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "46.234.160.0/20"
+    ],
     "ipv6": []
   }
 }

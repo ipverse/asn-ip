@@ -3,7 +3,9 @@
   "handle": "NETTEK01",
   "description": "Nettek LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "206.83.228.0/22"
+    ],
     "ipv6": []
   }
 }

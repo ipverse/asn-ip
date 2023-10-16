@@ -3,7 +3,10 @@
   "handle": "US-HILLENBRAND-ASN01",
   "description": "Hillenbrand, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "143.62.48.0/20",
+      "192.67.157.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "BRIDGETEL",
   "description": "Bridge Telecom LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.88.208.0/24"
+    ],
     "ipv6": []
   }
 }

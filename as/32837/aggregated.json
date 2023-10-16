@@ -3,7 +3,10 @@
   "handle": "WCL-50",
   "description": "Williams \u0026 Connolly, LLP",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "50.59.101.0/24",
+      "216.59.127.0/24"
+    ],
     "ipv6": []
   }
 }

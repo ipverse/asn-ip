@@ -3,7 +3,9 @@
   "handle": "TAALTECH-AP",
   "description": "TAAL Tech India Private Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.97.216.0/24"
+    ],
     "ipv6": []
   }
 }

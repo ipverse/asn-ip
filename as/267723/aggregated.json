@@ -3,7 +3,9 @@
   "handle": "SOLAR-AHORRO-FINANZAS-SAECA",
   "description": "SOLAR AHORRO Y FINANZAS S.A.E.C.A",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.165.52.0/23"
+    ],
     "ipv6": []
   }
 }

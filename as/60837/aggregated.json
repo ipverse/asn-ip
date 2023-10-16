@@ -3,7 +3,9 @@
   "handle": "PKT",
   "description": "AO First Container Terminal",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.226.168.0/24"
+    ],
     "ipv6": []
   }
 }

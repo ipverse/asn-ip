@@ -3,7 +3,12 @@
   "handle": "NET-WORLD-TELECON",
   "description": "NET WORLD TELECON LTDA - ME",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "128.201.184.0/23",
+      "128.201.187.0/24"
+    ],
+    "ipv6": [
+      "2804:3f30::/32"
+    ]
   }
 }

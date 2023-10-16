@@ -3,7 +3,9 @@
   "handle": "BGPORTS",
   "description": "BULGARIAN PORTS INFRASTRUCTURE",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.238.255.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "INM2",
   "description": "INM s. j. Tomasz Chomko, Mariusz Lisowski, Piotr Margol",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "31.135.160.0/21"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "PENTA36",
   "description": "Penta Investments Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "85.248.249.0/24"
+    ],
     "ipv6": []
   }
 }

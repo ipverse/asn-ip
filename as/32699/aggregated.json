@@ -3,7 +3,9 @@
   "handle": "FIRST-427",
   "description": "Firstrade Securities Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "66.151.222.0/24"
+    ],
     "ipv6": []
   }
 }

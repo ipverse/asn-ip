@@ -3,7 +3,9 @@
   "handle": "ZARPLATA-RU",
   "description": "Zarplata.ru Limited Liability Company",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.226.54.0/24"
+    ],
     "ipv6": []
   }
 }

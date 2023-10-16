@@ -3,7 +3,9 @@
   "handle": "ASAP",
   "description": "ASAP NETWORK SASU",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.93.144.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "LANNET",
   "description": "Lannet S.C. Marek Komala Jerzy Lomperta",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "213.5.144.0/21"
+    ],
     "ipv6": []
   }
 }

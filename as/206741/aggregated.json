@@ -3,7 +3,9 @@
   "handle": "SHPWS",
   "description": "Shapeways B.V.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.177.176.0/24"
+    ],
     "ipv6": []
   }
 }

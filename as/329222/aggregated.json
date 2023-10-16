@@ -3,7 +3,9 @@
   "handle": "NDENDE-TECHNOLOGIES",
   "description": "Ndende Technologies (Pty) Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "102.212.144.0/22"
+    ],
     "ipv6": []
   }
 }

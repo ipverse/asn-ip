@@ -3,7 +3,9 @@
   "handle": "STANFORD-INTERNET-ACCESS",
   "description": "Stanford University",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "68.65.160.0/20"
+    ],
     "ipv6": []
   }
 }

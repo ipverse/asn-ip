@@ -3,7 +3,9 @@
   "handle": "UDAYATEL",
   "description": "Udayatel Communications Private Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.99.16.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "NKM-RAMOS-INFORMATICA",
   "description": "NKM RAMOS INFORMATICA LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.233.112.0/22"
+    ],
     "ipv6": []
   }
 }

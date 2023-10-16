@@ -3,7 +3,9 @@
   "handle": "SKY-EN",
   "description": "Sky Engineering LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.145.124.0/22"
+    ],
     "ipv6": []
   }
 }

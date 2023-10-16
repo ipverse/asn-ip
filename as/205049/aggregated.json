@@ -3,7 +3,9 @@
   "handle": "IQ-TECHNOFAST",
   "description": "Techno Fast Company Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.230.40.0/22"
+    ],
     "ipv6": [
       "2a13:3680:2000::/35",
       "2a13:3680:4000::/35"

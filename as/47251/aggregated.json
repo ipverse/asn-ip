@@ -3,7 +3,11 @@
   "handle": "VLBGIT",
   "description": "Fabian Friesenecker trading as VLBGIT Friesenecker e.U.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "44.31.163.0/24"
+    ],
+    "ipv6": [
+      "2001:678:254::/48"
+    ]
   }
 }

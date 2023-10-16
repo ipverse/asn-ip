@@ -3,7 +3,9 @@
   "handle": "HITITCS",
   "description": "Hitit Bilgisayar Hizmetleri Anonim Sirketi",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.170.172.0/24"
+    ],
     "ipv6": []
   }
 }

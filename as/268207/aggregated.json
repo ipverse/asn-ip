@@ -3,7 +3,12 @@
   "handle": "RVT-SERVICOS-TELECOMUNICACOES",
   "description": "RVT SERVICOS DE TELECOMUNICACOES LTDA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.235.52.0/22",
+      "206.0.92.0/22"
+    ],
+    "ipv6": [
+      "2804:4d98::/32"
+    ]
   }
 }

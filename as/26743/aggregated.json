@@ -3,7 +3,9 @@
   "handle": "NETSCOUT-ARIN",
   "description": "Networkscout Inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.233.204.0/24"
+    ],
     "ipv6": []
   }
 }

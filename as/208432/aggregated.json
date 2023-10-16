@@ -3,7 +3,9 @@
   "handle": "POSDATA",
   "description": "P.O.S. Data System SRL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "62.122.72.0/22"
+    ],
     "ipv6": []
   }
 }

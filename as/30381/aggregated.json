@@ -3,7 +3,9 @@
   "handle": "CRONUS-TECHNOLOGIES",
   "description": "cfactor Works Inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "216.6.202.0/24"
+    ],
     "ipv6": []
   }
 }

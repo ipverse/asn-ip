@@ -3,7 +3,9 @@
   "handle": "PYXYA",
   "description": "PYXYA SAS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.216.96.0/22"
+    ],
     "ipv6": []
   }
 }

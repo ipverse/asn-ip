@@ -3,7 +3,11 @@
   "handle": "INDAHKIATPP-ID",
   "description": "PT INDAH KIAT PULP \u0026 PAPER Tbk",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.10.110.0/24",
+      "103.196.42.0/24",
+      "103.196.44.0/23"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "MCFARLANDCLINIC",
   "description": "McFarland Clinic PC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "167.142.235.0/24"
+    ],
     "ipv6": []
   }
 }

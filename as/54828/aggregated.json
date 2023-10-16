@@ -3,7 +3,9 @@
   "handle": "SCENTSY01",
   "description": "SCENTSY",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "209.63.59.0/24"
+    ],
     "ipv6": []
   }
 }

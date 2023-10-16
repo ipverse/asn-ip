@@ -3,7 +3,9 @@
   "handle": "VORYS-SATER-SEYMOUR-AND-PEASE-LLP",
   "description": "Vorys,Sater,Seymour and Pease LLP",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "216.235.16.0/23"
+    ],
     "ipv6": []
   }
 }

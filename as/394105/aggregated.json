@@ -3,7 +3,10 @@
   "handle": "AMTRUST-NA",
   "description": "AmTrust North America, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "172.110.248.0/22",
+      "185.111.22.0/23"
+    ],
     "ipv6": []
   }
 }

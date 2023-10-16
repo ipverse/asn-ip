@@ -3,7 +3,9 @@
   "handle": "SADERAT-BANK",
   "description": "Bank Saderat Iran PJSC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.192.8.0/22"
+    ],
     "ipv6": []
   }
 }

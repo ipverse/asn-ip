@@ -3,7 +3,11 @@
   "handle": "GNET-TELECOM",
   "description": "GNET TELECOM",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "170.80.56.0/22"
+    ],
+    "ipv6": [
+      "2804:36c0::/32"
+    ]
   }
 }

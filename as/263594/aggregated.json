@@ -3,7 +3,9 @@
   "handle": "MAXXITEL-INFORMATICA-TELECOM",
   "description": "MAXXITEL INFORMATICA E TELECOM LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "177.136.168.0/22"
+    ],
     "ipv6": []
   }
 }

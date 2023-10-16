@@ -3,7 +3,9 @@
   "handle": "CTPL-AP",
   "description": "Cloud Telecommunications (S) PTE. LTD.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "154.18.192.0/22"
+    ],
     "ipv6": [
       "2001:df0:2f40::/48"
     ]

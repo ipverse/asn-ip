@@ -3,7 +3,10 @@
   "handle": "KISG4",
   "description": "KPMG IT Service GmbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.22.68.0/22",
+      "185.70.120.0/22"
+    ],
     "ipv6": []
   }
 }

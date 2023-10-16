@@ -3,7 +3,9 @@
   "handle": "LAMARUNIV",
   "description": "Lamar University",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "140.158.0.0/16"
+    ],
     "ipv6": []
   }
 }

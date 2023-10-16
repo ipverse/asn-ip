@@ -3,7 +3,9 @@
   "handle": "IBKS",
   "description": "IBK Securities",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "175.124.149.0/24"
+    ],
     "ipv6": []
   }
 }

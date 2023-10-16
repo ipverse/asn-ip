@@ -3,7 +3,10 @@
   "handle": "UREGINA",
   "description": "University of Regina",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "142.3.0.0/16",
+      "198.169.20.0/24"
+    ],
     "ipv6": [
       "2620:fc:4000::/48"
     ]

@@ -3,7 +3,9 @@
   "handle": "CORALTRAVELUKRAINE",
   "description": "LLC, Coral Travel",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.161.161.0/24"
+    ],
     "ipv6": []
   }
 }

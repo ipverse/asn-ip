@@ -3,7 +3,9 @@
   "handle": "CFF",
   "description": "Cystic Fibrosis Foundation",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "198.162.0.0/24"
+    ],
     "ipv6": []
   }
 }

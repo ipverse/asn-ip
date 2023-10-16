@@ -3,7 +3,9 @@
   "handle": "TELNETSYSTEMS",
   "description": "Telnet Systems s.r.l.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "130.255.112.0/21"
+    ],
     "ipv6": []
   }
 }

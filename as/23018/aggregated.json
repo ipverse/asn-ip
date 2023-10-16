@@ -3,7 +3,9 @@
   "handle": "CSMGUSA",
   "description": "CareSource Management Group, Co.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "208.90.148.0/22"
+    ],
     "ipv6": []
   }
 }

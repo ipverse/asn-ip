@@ -3,7 +3,9 @@
   "handle": "VURNARY",
   "description": "Infanet Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "93.171.173.0/24"
+    ],
     "ipv6": []
   }
 }

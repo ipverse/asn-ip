@@ -3,7 +3,9 @@
   "handle": "GETTEL-INTERNET",
   "description": "GETTEL INTERNET LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "132.255.32.0/22"
+    ],
     "ipv6": []
   }
 }

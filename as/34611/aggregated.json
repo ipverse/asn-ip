@@ -3,7 +3,9 @@
   "handle": "MYSTERE",
   "description": "Matthew Southgate",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.242.44.0/24"
+    ],
     "ipv6": []
   }
 }

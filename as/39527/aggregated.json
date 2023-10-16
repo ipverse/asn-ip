@@ -3,7 +3,9 @@
   "handle": "CYCOMM",
   "description": "Cycomm Communications SRL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "89.37.185.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,12 @@
   "handle": "CHINATRUST-TW",
   "description": "Chinatrust Commercial Bank",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "103.126.164.0/22",
+      "175.184.240.0/21"
+    ],
+    "ipv6": [
+      "2405:3300::/32"
+    ]
   }
 }

@@ -3,7 +3,9 @@
   "handle": "GOM-DITES-01",
   "description": "Government of Montserrat",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "208.90.112.0/22"
+    ],
     "ipv6": []
   }
 }

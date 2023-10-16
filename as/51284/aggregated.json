@@ -3,7 +3,9 @@
   "handle": "DISTRIBUTIE-ENERGIE-OLTENIA",
   "description": "DISTRIBUTIE ENERGIE OLTENIA S.A.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.161.0.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "MODIS",
   "description": "Modis Bulgaria EOOD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "77.85.206.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "AXION-ENERGY-ARGENTINA",
   "description": "AXION ENERGY ARGENTINA S.A.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "200.124.122.0/24"
+    ],
     "ipv6": []
   }
 }

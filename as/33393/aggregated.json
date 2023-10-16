@@ -3,7 +3,9 @@
   "handle": "MMMI",
   "description": "Michigan Millers Mutual Insurance Company",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "205.196.158.0/24"
+    ],
     "ipv6": []
   }
 }

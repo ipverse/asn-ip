@@ -3,7 +3,11 @@
   "handle": "CENTRO-COMPUTAO-AERONUTICA",
   "description": "Centro de Computao da Aeronutica de Braslia",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "177.152.120.0/22"
+    ],
+    "ipv6": [
+      "2804:1f44::/32"
+    ]
   }
 }

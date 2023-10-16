@@ -3,7 +3,9 @@
   "handle": "WIRELEXX",
   "description": "Wirelexx (Pty) Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "102.128.184.0/22"
+    ],
     "ipv6": []
   }
 }

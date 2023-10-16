@@ -3,7 +3,11 @@
   "handle": "ECAD-INFRA-00",
   "description": "ECAD Labs Inc.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "207.229.99.0/24"
+    ],
+    "ipv6": [
+      "2606:dfc0::/32"
+    ]
   }
 }

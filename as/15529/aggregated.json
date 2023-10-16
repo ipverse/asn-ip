@@ -3,7 +3,9 @@
   "handle": "SGS-BP",
   "description": "Banco BPM S.P.A",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "62.97.0.0/19"
+    ],
     "ipv6": []
   }
 }

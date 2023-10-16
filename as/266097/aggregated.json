@@ -3,7 +3,11 @@
   "handle": "YUHOO-NET",
   "description": "YUHOO NET",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.4.176.0/22"
+    ],
+    "ipv6": [
+      "2804:3a94::/32"
+    ]
   }
 }

@@ -3,7 +3,11 @@
   "handle": "NET-TELECOM-MD",
   "description": "Net Telecom MD Ltda-ME",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.226.44.0/22"
+    ],
+    "ipv6": [
+      "2804:45f8::/32"
+    ]
   }
 }

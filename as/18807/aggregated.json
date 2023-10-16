@@ -3,7 +3,10 @@
   "handle": "DATASITE",
   "description": "Datasite, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.89.248.0/24",
+      "62.67.12.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "TRK5",
   "description": "OJSC Teleradiocompany Petersburg",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.9.38.0/23"
+    ],
     "ipv6": []
   }
 }

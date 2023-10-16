@@ -3,7 +3,9 @@
   "handle": "UNIVERSIDAD-AUTONOMA-TAMAULIPAS",
   "description": "Universidad Autonoma De Tamaulipas",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "148.237.0.0/16"
+    ],
     "ipv6": []
   }
 }

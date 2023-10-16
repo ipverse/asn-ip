@@ -3,7 +3,9 @@
   "handle": "SATTEL",
   "description": "Satellite Telecom LTD.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.201.111.0/24"
+    ],
     "ipv6": []
   }
 }

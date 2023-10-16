@@ -3,7 +3,11 @@
   "handle": "ASIABRIDGETELECOM-AP",
   "description": "Asia Bridge Telecom",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.106.182.0/24",
+      "103.110.53.0/24",
+      "103.110.54.0/23"
+    ],
     "ipv6": []
   }
 }

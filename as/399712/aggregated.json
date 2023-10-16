@@ -3,7 +3,9 @@
   "handle": "ENTEFY",
   "description": "Entefy Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.190.230.0/24"
+    ],
     "ipv6": []
   }
 }

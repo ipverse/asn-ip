@@ -4,6 +4,8 @@
   "description": "xTom Global Telecom Inc.",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2001:67c:2140::/48"
+    ]
   }
 }

@@ -3,7 +3,11 @@
   "handle": "BELNET-EIRELLI",
   "description": "BELNET EIRELLI",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "170.80.80.0/22"
+    ],
+    "ipv6": [
+      "2804:3768::/32"
+    ]
   }
 }

@@ -3,7 +3,11 @@
   "handle": "PHYXIA",
   "description": "Tom Laermans",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "195.160.166.0/23"
+    ],
+    "ipv6": [
+      "2001:67c:5c::/48"
+    ]
   }
 }

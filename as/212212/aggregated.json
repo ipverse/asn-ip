@@ -3,7 +3,9 @@
   "handle": "POWERVPP",
   "description": "Power NMS VPP SRL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "151.248.70.0/23"
+    ],
     "ipv6": []
   }
 }

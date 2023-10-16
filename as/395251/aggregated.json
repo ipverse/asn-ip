@@ -3,7 +3,9 @@
   "handle": "BHS-MT",
   "description": "Benefis Health System",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "65.19.237.0/24"
+    ],
     "ipv6": []
   }
 }

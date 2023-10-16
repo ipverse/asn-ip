@@ -3,7 +3,9 @@
   "handle": "IDNIC-DEKADATA-ID",
   "description": "PT Dekadata Lingkar Nusantara",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.180.196.0/24"
+    ],
     "ipv6": [
       "2001:df0:60c0::/48"
     ]

@@ -3,7 +3,9 @@
   "handle": "R-18",
   "description": "R-18 Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "31.44.250.0/23"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "MEDIACTIVE-NETWORK-USA",
   "description": "MEDIACTIVE SAS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.32.103.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "BANCO-AZTECA-HONDURAS",
   "description": "Banco Azteca Honduras",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "200.107.80.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "OMEGATV",
   "description": "Omega TV LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.245.215.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,11 @@
   "handle": "GIDPRO",
   "description": "GidPro BV",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "185.202.200.0/22"
+    ],
+    "ipv6": [
+      "2a0d:5900::/29"
+    ]
   }
 }

@@ -3,7 +3,9 @@
   "handle": "WHOSNEXT",
   "description": "Who\u0027s Next co., Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.5.176.0/22"
+    ],
     "ipv6": []
   }
 }

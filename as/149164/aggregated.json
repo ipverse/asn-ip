@@ -3,7 +3,9 @@
   "handle": "AVONDALE-NON-AP",
   "description": "Avondale University Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "203.28.150.0/24"
+    ],
     "ipv6": []
   }
 }

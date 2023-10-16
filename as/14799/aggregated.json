@@ -3,7 +3,10 @@
   "handle": "EXP-EC2000",
   "description": "Experian",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "167.107.0.0/16",
+      "205.174.34.0/24"
+    ],
     "ipv6": []
   }
 }

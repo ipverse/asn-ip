@@ -3,7 +3,11 @@
   "handle": "BNT-NETWORK-ACCESS",
   "description": "Biz Net Technologies",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "216.252.192.0/20"
+    ],
+    "ipv6": [
+      "2606:8780::/32"
+    ]
   }
 }

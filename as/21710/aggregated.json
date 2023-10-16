@@ -3,7 +3,10 @@
   "handle": "SLCHA",
   "description": "St. Lucie County - Automated Services",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.251.57.0/24",
+      "199.201.190.0/24"
+    ],
     "ipv6": []
   }
 }

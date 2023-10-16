@@ -3,7 +3,9 @@
   "handle": "KLISA-NET-TELECOMUNICAES",
   "description": "Klisa Net Telecomunicaes e Multimidia LTDA ME",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "186.250.164.0/22"
+    ],
     "ipv6": []
   }
 }

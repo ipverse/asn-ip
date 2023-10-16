@@ -3,7 +3,9 @@
   "handle": "CUBIKA-CONSULTING",
   "description": "Cubika Consulting SA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "201.220.28.0/24"
+    ],
     "ipv6": []
   }
 }

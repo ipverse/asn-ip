@@ -3,7 +3,9 @@
   "handle": "ARAMIS",
   "description": "Aramis Invest SRL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "89.36.173.0/24"
+    ],
     "ipv6": []
   }
 }

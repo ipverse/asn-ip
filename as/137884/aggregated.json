@@ -3,7 +3,9 @@
   "handle": "GNS-AP",
   "description": "Gazipur Network System",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.116.116.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,12 @@
   "handle": "VIAVETORIAL-INTERNET",
   "description": "VIAVETORIAL INTERNET LTDA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "143.0.192.0/22",
+      "170.246.28.0/22"
+    ],
+    "ipv6": [
+      "2804:2970::/32"
+    ]
   }
 }

@@ -3,7 +3,9 @@
   "handle": "SEVENHEAVEN",
   "description": "1 Cloud Lab s.r.o.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.196.68.0/22"
+    ],
     "ipv6": []
   }
 }

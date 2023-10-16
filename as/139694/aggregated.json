@@ -3,7 +3,9 @@
   "handle": "KIWIBANK-KAP",
   "description": "Kiwibank Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.140.197.0/24"
+    ],
     "ipv6": []
   }
 }

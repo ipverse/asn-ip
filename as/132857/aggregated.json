@@ -3,7 +3,12 @@
   "handle": "FFL-AP",
   "description": "FULL FLAVOUR LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "43.243.56.0/23",
+      "103.156.230.0/23",
+      "202.49.41.0/24",
+      "202.50.121.0/24"
+    ],
     "ipv6": []
   }
 }

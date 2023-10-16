@@ -3,7 +3,9 @@
   "handle": "PKF-AZIMUT",
   "description": "INSYS LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.202.16.0/22"
+    ],
     "ipv6": []
   }
 }

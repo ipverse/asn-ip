@@ -3,7 +3,9 @@
   "handle": "TV-ISLA",
   "description": "TV ISLA LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.173.14.0/23"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,15 @@
   "handle": "INSTRACORPORATION-AP",
   "description": "Instra Corporation Pty Ltd",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "103.152.248.0/23",
+      "119.252.177.0/24",
+      "119.252.178.0/24",
+      "119.252.183.0/24"
+    ],
+    "ipv6": [
+      "2405:c400::/48",
+      "2405:c400:248::/47"
+    ]
   }
 }

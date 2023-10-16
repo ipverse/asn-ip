@@ -3,7 +3,9 @@
   "handle": "ETMEDIA",
   "description": "ET-MEDIA Krzysztof Palka, Ewa Palka S.C.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.254.7.0/24"
+    ],
     "ipv6": []
   }
 }

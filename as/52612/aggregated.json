@@ -3,7 +3,13 @@
   "handle": "ALT-INFORMATICA",
   "description": "Alt Informatica Ltda",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "138.94.116.0/22",
+      "170.79.248.0/22",
+      "177.124.20.0/22"
+    ],
+    "ipv6": [
+      "2804:22fc::/32"
+    ]
   }
 }

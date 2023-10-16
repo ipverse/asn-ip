@@ -3,7 +3,9 @@
   "handle": "KCMC-3",
   "description": "Kensico Capital Management Corporation",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "65.215.116.0/24"
+    ],
     "ipv6": []
   }
 }

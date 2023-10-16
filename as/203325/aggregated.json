@@ -3,7 +3,9 @@
   "handle": "SERVICEPLAN",
   "description": "Serviceplan Group SE \u0026 Co. KG",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.130.32.0/22"
+    ],
     "ipv6": []
   }
 }

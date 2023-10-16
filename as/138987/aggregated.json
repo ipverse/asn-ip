@@ -3,7 +3,11 @@
   "handle": "CCSI-AP",
   "description": "CHARLES CATV SYSTEMS INC",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "103.185.219.0/24"
+    ],
+    "ipv6": [
+      "2001:df0:9ac0::/48"
+    ]
   }
 }

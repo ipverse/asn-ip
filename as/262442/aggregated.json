@@ -3,7 +3,9 @@
   "handle": "FUNDAO-UNIVERSIDADE-ITANA",
   "description": "Fundao Universidade de Itana",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "177.52.96.0/22"
+    ],
     "ipv6": []
   }
 }

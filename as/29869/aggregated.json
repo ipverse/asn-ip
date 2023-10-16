@@ -3,7 +3,11 @@
   "handle": "DOTBLOCK-3",
   "description": "HostRocket.com, Inc.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "216.120.247.0/24"
+    ],
+    "ipv6": [
+      "2605:f080::/40"
+    ]
   }
 }

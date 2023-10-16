@@ -3,7 +3,9 @@
   "handle": "CHR-SOLUTIONS",
   "description": "CHR SOLUTIONS INC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "208.88.136.0/22"
+    ],
     "ipv6": []
   }
 }

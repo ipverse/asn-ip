@@ -3,7 +3,10 @@
   "handle": "EXPRESSDATA",
   "description": "Express Data Co.,Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.48.204.0/22",
+      "223.27.224.0/24"
+    ],
     "ipv6": []
   }
 }

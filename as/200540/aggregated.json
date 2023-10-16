@@ -3,7 +3,9 @@
   "handle": "CHIPITA",
   "description": "Mondelez Hellas Snacks Production Single Member S.A.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.104.0.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "JCHLV",
   "description": "Virgin Hotels Las Vegas",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "24.120.185.0/24"
+    ],
     "ipv6": []
   }
 }

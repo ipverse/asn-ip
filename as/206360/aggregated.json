@@ -3,7 +3,9 @@
   "handle": "PESCOTEL",
   "description": "Pesco Telecom s.a.l.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.220.136.0/23"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "SCOTSCOLLEGE-AP",
   "description": "The Scots College",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "203.26.219.0/24"
+    ],
     "ipv6": []
   }
 }

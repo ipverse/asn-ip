@@ -3,7 +3,11 @@
   "handle": "IVC",
   "description": "Information \u0026 Computing Center, Ltd.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "81.19.128.0/20"
+    ],
+    "ipv6": [
+      "2a10:ad80::/48"
+    ]
   }
 }

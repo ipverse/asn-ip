@@ -3,7 +3,11 @@
   "handle": "ALLWORD-TELECOM",
   "description": "Allword Telecom",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "190.109.100.0/22"
+    ],
+    "ipv6": [
+      "2804:7824::/32"
+    ]
   }
 }

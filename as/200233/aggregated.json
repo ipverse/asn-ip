@@ -3,7 +3,12 @@
   "handle": "BFH",
   "description": "Berner Fachhochschule",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "147.87.0.0/16",
+      "193.5.80.0/21"
+    ],
+    "ipv6": [
+      "2a07:6b40::/29"
+    ]
   }
 }

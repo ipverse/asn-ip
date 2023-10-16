@@ -3,7 +3,9 @@
   "handle": "SUNTRUST-BANK",
   "description": "SunTrust Banks, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "167.181.246.0/24"
+    ],
     "ipv6": []
   }
 }

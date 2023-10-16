@@ -3,7 +3,9 @@
   "handle": "MEDAILLON",
   "description": "Medallion Communications",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "41.77.40.0/21"
+    ],
     "ipv6": []
   }
 }

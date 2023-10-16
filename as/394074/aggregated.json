@@ -3,7 +3,11 @@
   "handle": "POGOZONE-ALLIXO",
   "description": "PogoZone",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "66.218.192.0/24",
+      "69.55.211.0/24",
+      "192.243.72.0/24"
+    ],
     "ipv6": []
   }
 }

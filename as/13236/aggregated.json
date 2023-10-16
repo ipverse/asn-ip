@@ -3,7 +3,9 @@
   "handle": "DATACOM-BG",
   "description": "DATACOM LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.234.236.0/22"
+    ],
     "ipv6": []
   }
 }

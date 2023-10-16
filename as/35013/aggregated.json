@@ -3,7 +3,9 @@
   "handle": "ALFA-BANK-SK",
   "description": "JSC Alfa-Bank",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.148.15.0/24"
+    ],
     "ipv6": []
   }
 }

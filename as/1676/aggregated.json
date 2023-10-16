@@ -3,7 +3,10 @@
   "handle": "AMERI",
   "description": "Trane US INC.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "168.65.48.0/21",
+      "206.44.248.0/21"
+    ],
     "ipv6": []
   }
 }

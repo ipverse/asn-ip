@@ -3,7 +3,9 @@
   "handle": "HMA-ASN1",
   "description": "Healthcare Management Administrators, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "139.138.55.0/24"
+    ],
     "ipv6": []
   }
 }

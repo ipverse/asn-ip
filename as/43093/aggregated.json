@@ -3,7 +3,9 @@
   "handle": "PL-LYNXNET",
   "description": "Krzysztof Malek trading as LYNXNET Pawel Krzaczkowski Krzysztof Malek S.C.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "78.159.81.0/24"
+    ],
     "ipv6": []
   }
 }

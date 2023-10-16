@@ -3,7 +3,9 @@
   "handle": "NISCAYAH-NORWAY",
   "description": "Niscayah AS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.208.148.0/24"
+    ],
     "ipv6": []
   }
 }

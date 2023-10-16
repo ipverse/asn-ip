@@ -3,7 +3,9 @@
   "handle": "ELBITSYSTEMS",
   "description": "Elbit Systems LTD.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.145.28.0/22"
+    ],
     "ipv6": []
   }
 }

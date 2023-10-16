@@ -3,7 +3,11 @@
   "handle": "LIPSCOMB",
   "description": "Lipscomb University",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "74.119.168.0/22"
+    ],
+    "ipv6": [
+      "2620:112:d000::/44"
+    ]
   }
 }

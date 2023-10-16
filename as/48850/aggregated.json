@@ -3,7 +3,9 @@
   "handle": "EPIX-WAW-OPENPEERING",
   "description": "Stowarzyszenie e-Poludnie",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "94.246.183.0/24"
+    ],
     "ipv6": []
   }
 }

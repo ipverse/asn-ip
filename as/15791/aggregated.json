@@ -3,7 +3,9 @@
   "handle": "YELLOWGROUP",
   "description": "Ram Mobile Data (Netherlands) B.V.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.109.232.0/22"
+    ],
     "ipv6": []
   }
 }

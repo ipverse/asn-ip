@@ -3,7 +3,9 @@
   "handle": "GOLDSURF",
   "description": "GOLDSURF INTERNET LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "37.72.48.0/20"
+    ],
     "ipv6": []
   }
 }

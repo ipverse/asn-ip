@@ -3,7 +3,9 @@
   "handle": "FUJIXEROXAUSTRALIA",
   "description": "Macquarie Corporate Telecommunications",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "203.24.19.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "SAGO-NET",
   "description": "WiredISP Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "63.141.59.0/24"
+    ],
     "ipv6": []
   }
 }

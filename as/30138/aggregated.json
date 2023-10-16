@@ -3,7 +3,9 @@
   "handle": "ARTECH-INFO",
   "description": "Artech Information Systems LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "209.123.250.0/24"
+    ],
     "ipv6": []
   }
 }

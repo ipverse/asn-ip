@@ -3,7 +3,10 @@
   "handle": "MIC",
   "description": "Ministry of Science and ICT",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "58.184.108.0/24",
+      "210.95.88.0/24"
+    ],
     "ipv6": []
   }
 }

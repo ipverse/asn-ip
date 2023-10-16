@@ -3,7 +3,9 @@
   "handle": "QIA",
   "description": "QIA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "211.241.91.0/24"
+    ],
     "ipv6": []
   }
 }

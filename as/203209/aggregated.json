@@ -3,7 +3,9 @@
   "handle": "NL-VIVAT",
   "description": "Athora Netherlands N.V.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.137.82.0/23"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "INTELECOM",
   "description": "LLC Promsvyaz-Invest",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "81.20.192.0/20"
+    ],
     "ipv6": []
   }
 }

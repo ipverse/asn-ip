@@ -3,7 +3,9 @@
   "handle": "WEST-WIRELESS-HEALTH",
   "description": "Gary and Mary West Wireless Health Institute",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "98.188.195.0/24"
+    ],
     "ipv6": []
   }
 }

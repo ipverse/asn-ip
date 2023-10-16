@@ -3,7 +3,9 @@
   "handle": "BERG",
   "description": "BERG Holding LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.76.28.0/24"
+    ],
     "ipv6": []
   }
 }

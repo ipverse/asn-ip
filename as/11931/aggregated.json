@@ -3,7 +3,10 @@
   "handle": "NYC-EDC-165",
   "description": "NYCEDC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.125.101.0/24",
+      "65.215.83.0/24"
+    ],
     "ipv6": []
   }
 }

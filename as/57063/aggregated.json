@@ -3,7 +3,10 @@
   "handle": "PUZL",
   "description": "GPU Computing OU",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.236.201.0/24",
+      "213.5.72.0/24"
+    ],
     "ipv6": []
   }
 }

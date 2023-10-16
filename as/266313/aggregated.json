@@ -3,7 +3,11 @@
   "handle": "LESTETRONICS",
   "description": "LESTETRONICS ME",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "170.238.68.0/22"
+    ],
+    "ipv6": [
+      "2804:35e4::/32"
+    ]
   }
 }

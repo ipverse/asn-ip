@@ -3,7 +3,9 @@
   "handle": "TELVIVA",
   "description": "Telviva (Pty) Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "197.155.248.0/21"
+    ],
     "ipv6": []
   }
 }

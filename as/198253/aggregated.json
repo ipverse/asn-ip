@@ -3,7 +3,9 @@
   "handle": "MEGAPROSTIR",
   "description": "Kukushkin Anatoly Valerievich",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.232.238.0/24"
+    ],
     "ipv6": []
   }
 }

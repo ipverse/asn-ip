@@ -3,7 +3,9 @@
   "handle": "ASHKELON-ACADEMIC-COLLEGE",
   "description": "Ashkelon Academic College",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.95.183.0/24"
+    ],
     "ipv6": []
   }
 }

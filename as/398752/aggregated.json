@@ -3,7 +3,9 @@
   "handle": "OUR-SUNDAY-VISITOR",
   "description": "Our Sunday Visitor",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "50.231.112.0/24"
+    ],
     "ipv6": []
   }
 }

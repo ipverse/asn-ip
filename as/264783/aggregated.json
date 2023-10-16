@@ -3,7 +3,9 @@
   "handle": "RED-INTERCABLE-PERU",
   "description": "RED INTERCABLE PERU SAC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "168.194.100.0/22"
+    ],
     "ipv6": []
   }
 }

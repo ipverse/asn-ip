@@ -4,6 +4,10 @@
   "description": "networksu sasu",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a0e:b704::/48",
+      "2a0e:b704:2::/48",
+      "2a0e:b704:4::/48"
+    ]
   }
 }

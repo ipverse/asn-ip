@@ -3,7 +3,9 @@
   "handle": "FNZ-UK",
   "description": "FNZ (UK) Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.65.128.0/22"
+    ],
     "ipv6": []
   }
 }

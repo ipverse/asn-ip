@@ -3,7 +3,10 @@
   "handle": "SKYPASS",
   "description": "SkyPass Solutions Sp. z.o.o.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "83.168.105.0/24",
+      "83.168.106.0/23"
+    ],
     "ipv6": []
   }
 }

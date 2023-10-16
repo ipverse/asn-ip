@@ -3,7 +3,11 @@
   "handle": "VNETWORK-TELECOM-VN",
   "description": "VNETWORK TELECOMMUNICATION SERVICES COMPANY LIMITED",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "103.162.92.0/24"
+    ],
+    "ipv6": [
+      "2405:f540:4::/48"
+    ]
   }
 }

@@ -3,7 +3,9 @@
   "handle": "BRITEFISH-01",
   "description": "Realnets",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "216.24.43.0/24"
+    ],
     "ipv6": []
   }
 }

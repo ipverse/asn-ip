@@ -4,6 +4,11 @@
   "description": "Wilton Arthur Poth",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2001:67c:34::/48",
+      "2a0e:97c0:880::/48",
+      "2a0e:97c0:884::/48",
+      "2a0e:97c0:88a::/48"
+    ]
   }
 }

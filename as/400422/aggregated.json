@@ -3,7 +3,11 @@
   "handle": "MODERNTREASURY",
   "description": "Modern Treasury Corp.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "134.65.198.0/24"
+    ],
+    "ipv6": [
+      "2606:a440:7::/48"
+    ]
   }
 }

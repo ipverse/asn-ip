@@ -3,7 +3,9 @@
   "handle": "SERVICIOS-DATACENTER-DATANETWORKS",
   "description": "SERVICIOS DE DATACENTER DATANETWORKS LIMITADA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "131.72.236.0/22"
+    ],
     "ipv6": []
   }
 }

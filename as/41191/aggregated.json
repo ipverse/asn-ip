@@ -3,7 +3,9 @@
   "handle": "MAPPY",
   "description": "Mappy SA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.203.32.0/22"
+    ],
     "ipv6": []
   }
 }

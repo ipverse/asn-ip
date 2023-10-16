@@ -3,7 +3,9 @@
   "handle": "SNSPA",
   "description": "Scoala Nationala de Studii Politice si Administrative",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.231.129.0/24"
+    ],
     "ipv6": []
   }
 }

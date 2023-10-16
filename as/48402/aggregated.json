@@ -3,7 +3,11 @@
   "handle": "VIOUSLY",
   "description": "VIOUSLY SAS",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "185.141.128.0/22"
+    ],
+    "ipv6": [
+      "2a07:2400::/29"
+    ]
   }
 }

@@ -3,7 +3,10 @@
   "handle": "HSS-MOO",
   "description": "Horizonsat FZ LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "82.205.128.0/17",
+      "185.23.241.0/24"
+    ],
     "ipv6": []
   }
 }

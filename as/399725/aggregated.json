@@ -3,7 +3,10 @@
   "handle": "BUZZ-BROADBAND",
   "description": "ALAWEB Internet Services",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "167.94.192.0/22",
+      "216.108.216.0/23"
+    ],
     "ipv6": []
   }
 }

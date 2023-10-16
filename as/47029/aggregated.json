@@ -3,7 +3,9 @@
   "handle": "CAPSTONE",
   "description": "Capstone Logistics, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "143.55.83.0/24"
+    ],
     "ipv6": []
   }
 }

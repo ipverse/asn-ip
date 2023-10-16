@@ -3,7 +3,11 @@
   "handle": "SAS-TELECOM",
   "description": "Spetsavtomatikaservice LLP",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.138.221.0/24",
+      "185.78.232.0/23",
+      "194.39.108.0/24"
+    ],
     "ipv6": []
   }
 }

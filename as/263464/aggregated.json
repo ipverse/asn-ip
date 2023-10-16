@@ -3,7 +3,12 @@
   "handle": "SOUZA-CORTES-ELET",
   "description": "Souza Cortes Elet. Elet. Ltda ME",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "177.190.216.0/21"
+    ],
+    "ipv6": [
+      "2804:123c:2000::/35",
+      "2804:123c:e000::/35"
+    ]
   }
 }

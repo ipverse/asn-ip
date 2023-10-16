@@ -3,7 +3,9 @@
   "handle": "METRONET",
   "description": "MetroNet Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "176.109.144.0/20"
+    ],
     "ipv6": []
   }
 }

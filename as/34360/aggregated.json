@@ -3,7 +3,10 @@
   "handle": "OGICOM",
   "description": "Cyber-Folks S.A.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "93.157.96.0/21",
+      "213.108.56.0/21"
+    ],
     "ipv6": []
   }
 }

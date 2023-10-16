@@ -3,7 +3,9 @@
   "handle": "DOCKLANDS-DATA-CENTRE-LTD",
   "description": "Docklands Data Centre Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "81.24.192.0/20"
+    ],
     "ipv6": []
   }
 }

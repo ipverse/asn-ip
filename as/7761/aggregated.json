@@ -3,7 +3,9 @@
   "handle": "350E",
   "description": "Morningstar, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "206.220.16.0/24"
+    ],
     "ipv6": []
   }
 }

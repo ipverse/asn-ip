@@ -3,7 +3,9 @@
   "handle": "GLOBALCOM",
   "description": "Globalcom Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.202.184.0/22"
+    ],
     "ipv6": []
   }
 }

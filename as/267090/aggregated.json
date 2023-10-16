@@ -3,7 +3,9 @@
   "handle": "VIRTUALNET-PROVEDORES",
   "description": "VIRTUALNET PROVEDORES LTDA ME",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.229.0.0/22"
+    ],
     "ipv6": []
   }
 }

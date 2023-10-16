@@ -3,7 +3,10 @@
   "handle": "NUMBERONE",
   "description": "NUMBER ONE IN FIBER, S.L.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "62.122.229.0/24",
+      "185.210.194.0/24"
+    ],
     "ipv6": []
   }
 }

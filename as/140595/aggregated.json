@@ -3,7 +3,10 @@
   "handle": "YCHKL-AP",
   "description": "YunJie Communication HK Company Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "102.164.56.0/22",
+      "154.92.104.0/22"
+    ],
     "ipv6": []
   }
 }

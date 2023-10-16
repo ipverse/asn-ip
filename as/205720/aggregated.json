@@ -3,7 +3,9 @@
   "handle": "MALTAT",
   "description": "LLC Maltat",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.126.131.0/24"
+    ],
     "ipv6": []
   }
 }

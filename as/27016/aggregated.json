@@ -3,7 +3,11 @@
   "handle": "NRC-NET",
   "description": "United States Nuclear Regulatory Commission",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "148.184.180.0/23"
+    ],
+    "ipv6": [
+      "2620:129:2000::/40"
+    ]
   }
 }

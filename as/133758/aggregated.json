@@ -3,7 +3,9 @@
   "handle": "OZTELL-AP",
   "description": "Knowledge by Design Pty Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "203.27.92.0/24"
+    ],
     "ipv6": []
   }
 }

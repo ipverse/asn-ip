@@ -3,7 +3,9 @@
   "handle": "EUROLIFE",
   "description": "EUROLIFE FFH ASIGURARI DE VIATA S.A.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "5.183.169.0/24"
+    ],
     "ipv6": []
   }
 }

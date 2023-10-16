@@ -3,7 +3,10 @@
   "handle": "NETSARBG-LTD",
   "description": "NetSarBG LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "95.169.209.0/24",
+      "185.7.218.0/24"
+    ],
     "ipv6": []
   }
 }

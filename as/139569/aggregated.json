@@ -3,7 +3,9 @@
   "handle": "SAMSUNG1-IN",
   "description": "Samsung Data Systems India Private Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.148.248.0/24"
+    ],
     "ipv6": []
   }
 }

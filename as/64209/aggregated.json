@@ -3,7 +3,9 @@
   "handle": "DBOPS",
   "description": "DBOPS, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "136.175.88.0/22"
+    ],
     "ipv6": []
   }
 }

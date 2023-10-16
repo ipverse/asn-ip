@@ -3,7 +3,9 @@
   "handle": "VOSTEL",
   "description": "Vostel Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "92.119.252.0/24"
+    ],
     "ipv6": []
   }
 }

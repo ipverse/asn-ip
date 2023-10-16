@@ -3,7 +3,9 @@
   "handle": "ISGNOC",
   "description": "ISG Technology",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "205.173.96.0/21"
+    ],
     "ipv6": []
   }
 }

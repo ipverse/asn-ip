@@ -3,7 +3,9 @@
   "handle": "IDNIC-VISIONET-ID",
   "description": "PT Visionet Data Internasional",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.106.80.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "BELL",
   "description": "Bell Bank",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "160.19.161.0/24"
+    ],
     "ipv6": []
   }
 }

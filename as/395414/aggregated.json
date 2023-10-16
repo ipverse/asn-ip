@@ -3,7 +3,9 @@
   "handle": "ICONECTIV",
   "description": "Iconectiv, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "63.116.246.0/24"
+    ],
     "ipv6": []
   }
 }

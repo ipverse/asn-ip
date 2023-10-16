@@ -3,7 +3,11 @@
   "handle": "LTI",
   "description": "Link Technologies, Inc.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "139.60.210.0/24"
+    ],
+    "ipv6": [
+      "2620:13c:b000::/44"
+    ]
   }
 }

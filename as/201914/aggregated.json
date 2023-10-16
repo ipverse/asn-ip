@@ -3,7 +3,9 @@
   "handle": "ROZTEH",
   "description": "RozTech LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.209.144.0/24"
+    ],
     "ipv6": []
   }
 }

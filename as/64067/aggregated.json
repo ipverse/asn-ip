@@ -3,7 +3,9 @@
   "handle": "HCITS-AP",
   "description": "HostCircle IT Solutions PVT LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "110.44.5.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,11 @@
   "handle": "EKULOC",
   "description": "KSG Kraftwerks-Simulator-Gesellschaft mbH",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.142.56.0/22"
+    ],
+    "ipv6": [
+      "2a0e:d640::/29"
+    ]
   }
 }

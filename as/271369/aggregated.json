@@ -3,7 +3,11 @@
   "handle": "R-TECNOLOGIA-SERVICOS",
   "description": "R\u0026E TECNOLOGIA E SERVICOS LTDA - ME",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "200.80.112.0/22"
+    ],
+    "ipv6": [
+      "2804:7a68::/32"
+    ]
   }
 }

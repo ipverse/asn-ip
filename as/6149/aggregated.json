@@ -3,7 +3,9 @@
   "handle": "TENET-2",
   "description": "TENET (The UNINET Project)",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "154.115.0.0/24"
+    ],
     "ipv6": []
   }
 }

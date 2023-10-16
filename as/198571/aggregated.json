@@ -4,6 +4,10 @@
   "description": "3xK Tech GmbH",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a07:db80::/32",
+      "2a07:db83::/32",
+      "2a13:3f81::/32"
+    ]
   }
 }

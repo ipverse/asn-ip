@@ -3,7 +3,11 @@
   "handle": "PW-INFORMATICA-TECNOLOGIA",
   "description": "PW INFORMATICA E TECNOLOGIA LTDA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "186.251.64.0/21"
+    ],
+    "ipv6": [
+      "2804:5024::/32"
+    ]
   }
 }

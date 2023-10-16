@@ -4,6 +4,8 @@
   "description": "Jakob Kampichler",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a05:dfc7:6600::/40"
+    ]
   }
 }

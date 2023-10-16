@@ -3,7 +3,9 @@
   "handle": "EWERK",
   "description": "EWERK DIGITAL GmbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.232.216.0/22"
+    ],
     "ipv6": []
   }
 }

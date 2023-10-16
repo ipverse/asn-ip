@@ -3,7 +3,10 @@
   "handle": "THAIBMA-AP",
   "description": "The Thai Bond Market Association",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "119.46.182.0/24",
+      "203.151.159.0/24"
+    ],
     "ipv6": []
   }
 }

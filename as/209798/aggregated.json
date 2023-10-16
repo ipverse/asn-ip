@@ -3,7 +3,9 @@
   "handle": "EASA",
   "description": "Eesti Avaliku Sektori Andmeside MTU",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "80.250.127.0/24"
+    ],
     "ipv6": []
   }
 }

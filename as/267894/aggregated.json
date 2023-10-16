@@ -3,7 +3,9 @@
   "handle": "SOCIEDAD-TELECOMUNICACIONES-LIMITADA",
   "description": "SOCIEDAD DE TELECOMUNICACIONES LIMITADA (SETEL LTDA)",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.176.164.0/23"
+    ],
     "ipv6": []
   }
 }

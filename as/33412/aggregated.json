@@ -3,7 +3,11 @@
   "handle": "KEEPIT-US-DC",
   "description": "Keepit A/S",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "216.170.117.0/24"
+    ],
+    "ipv6": [
+      "2602:fd86::/36"
+    ]
   }
 }

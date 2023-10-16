@@ -3,7 +3,10 @@
   "handle": "CLUBNODE",
   "description": "Clubnode CommV",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "179.61.181.0/24",
+      "185.177.25.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,10 @@
   "handle": "COLOMBIA-HOSTING",
   "description": "Colombia Hosting",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.74.16.0/22",
+      "190.8.176.0/22"
+    ],
     "ipv6": []
   }
 }

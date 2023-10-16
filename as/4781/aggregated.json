@@ -3,7 +3,9 @@
   "handle": "PAGICNET-AS1",
   "description": "PAGIC.net , INC.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "210.63.96.0/21"
+    ],
     "ipv6": []
   }
 }

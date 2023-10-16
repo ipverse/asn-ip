@@ -3,7 +3,10 @@
   "handle": "REDHEBERG",
   "description": "REDHEBERG Association declaree",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.255.112.0/24",
+      "193.38.250.0/24"
+    ],
     "ipv6": []
   }
 }

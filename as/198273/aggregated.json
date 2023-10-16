@@ -3,7 +3,9 @@
   "handle": "TELVENT-DMS",
   "description": "Schneider Electric DMS NS LLC Novi Sad",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.233.24.0/24"
+    ],
     "ipv6": []
   }
 }

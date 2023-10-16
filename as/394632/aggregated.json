@@ -3,7 +3,9 @@
   "handle": "CMC",
   "description": "Catholic Medical Center",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "170.117.128.0/17"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "CONSELHO-NACIONAL-JUSTIA",
   "description": "Conselho Nacional de Justia",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "201.49.152.0/23"
+    ],
     "ipv6": []
   }
 }

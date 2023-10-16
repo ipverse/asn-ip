@@ -3,7 +3,11 @@
   "handle": "ASFREEZONA",
   "description": "free-zona s.r.o.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "176.112.176.0/20"
+    ],
+    "ipv6": [
+      "2001:67c:224c::/48"
+    ]
   }
 }

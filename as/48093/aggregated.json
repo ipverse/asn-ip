@@ -3,7 +3,12 @@
   "handle": "WEBLAND-CORE-NET",
   "description": "Webland AB",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "37.26.152.0/21",
+      "91.207.112.0/23"
+    ],
+    "ipv6": [
+      "2a03:28e0::/32"
+    ]
   }
 }

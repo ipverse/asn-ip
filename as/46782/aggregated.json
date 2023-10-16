@@ -3,7 +3,9 @@
   "handle": "GTS-169-ASN-01",
   "description": "Gabriels Technology Solutions, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "209.160.237.0/24"
+    ],
     "ipv6": []
   }
 }

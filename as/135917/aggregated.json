@@ -3,7 +3,9 @@
   "handle": "WEBPANDA-VN",
   "description": "Cong ty TNHH Web Panda",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.90.232.0/22"
+    ],
     "ipv6": []
   }
 }

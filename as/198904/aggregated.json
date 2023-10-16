@@ -3,7 +3,11 @@
   "handle": "DE-50HERTZ",
   "description": "50Hertz Transmission GmbH",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "5.32.184.0/22"
+    ],
+    "ipv6": [
+      "2a01:6ec0::/32"
+    ]
   }
 }

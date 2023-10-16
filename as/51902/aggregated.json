@@ -3,7 +3,9 @@
   "handle": "CONTACT",
   "description": "Contact Production LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "62.3.59.0/24"
+    ],
     "ipv6": []
   }
 }

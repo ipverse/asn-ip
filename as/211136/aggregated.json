@@ -3,7 +3,9 @@
   "handle": "CERT-EU",
   "description": "CERT-EU",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.15.138.0/24"
+    ],
     "ipv6": []
   }
 }

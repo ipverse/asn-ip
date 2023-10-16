@@ -3,7 +3,9 @@
   "handle": "VPLAB",
   "description": "VPLAB LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "93.185.167.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,10 @@
   "handle": "GLOBALEC",
   "description": "IBM",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "209.95.224.0/19",
+      "216.86.224.0/20"
+    ],
     "ipv6": []
   }
 }

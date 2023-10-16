@@ -3,7 +3,11 @@
   "handle": "SKHOSTING-EU",
   "description": "skHosting.eu s.r.o.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "185.66.200.0/23"
+    ],
+    "ipv6": [
+      "2a05:980::/29"
+    ]
   }
 }

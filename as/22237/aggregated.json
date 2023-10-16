@@ -3,7 +3,9 @@
   "handle": "ICN",
   "description": "Innovative Communications, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.83.248.0/21"
+    ],
     "ipv6": []
   }
 }

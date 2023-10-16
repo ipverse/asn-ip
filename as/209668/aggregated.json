@@ -3,7 +3,9 @@
   "handle": "NEWNET74",
   "description": "New-Net Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "92.253.232.0/24"
+    ],
     "ipv6": []
   }
 }

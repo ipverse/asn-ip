@@ -3,7 +3,9 @@
   "handle": "DUETT",
   "description": "Duett AS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.83.192.0/22"
+    ],
     "ipv6": []
   }
 }

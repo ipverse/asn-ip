@@ -3,7 +3,9 @@
   "handle": "MDURESOURCES",
   "description": "MDU Resources Group, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "162.57.0.0/16"
+    ],
     "ipv6": []
   }
 }

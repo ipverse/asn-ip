@@ -3,7 +3,10 @@
   "handle": "TMKAS",
   "description": "PJSC TMK",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "62.76.127.0/24",
+      "194.190.101.0/24"
+    ],
     "ipv6": []
   }
 }

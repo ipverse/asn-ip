@@ -3,7 +3,9 @@
   "handle": "UA",
   "description": "The University of Alabama",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "130.160.0.0/16"
+    ],
     "ipv6": []
   }
 }

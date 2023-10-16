@@ -3,7 +3,9 @@
   "handle": "CGTNV",
   "description": "Century Gaming Technologies",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.146.199.0/24"
+    ],
     "ipv6": []
   }
 }

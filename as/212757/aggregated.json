@@ -3,7 +3,9 @@
   "handle": "GAMEGAMI",
   "description": "Gamegami Bilisim A.S.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "94.199.103.0/24"
+    ],
     "ipv6": []
   }
 }

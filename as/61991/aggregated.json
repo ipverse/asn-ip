@@ -3,7 +3,9 @@
   "handle": "KRAUS-M",
   "description": "CJSC KRAUS-M",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "37.18.87.0/24"
+    ],
     "ipv6": []
   }
 }

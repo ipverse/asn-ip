@@ -3,7 +3,9 @@
   "handle": "SME-16BIT",
   "description": "SME S.A.R.L",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.146.32.0/22"
+    ],
     "ipv6": []
   }
 }

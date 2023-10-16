@@ -3,7 +3,9 @@
   "handle": "TEGNA-KPNX",
   "description": "TEGNA Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "167.8.103.0/24"
+    ],
     "ipv6": []
   }
 }

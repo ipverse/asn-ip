@@ -3,7 +3,9 @@
   "handle": "TOYOTA-MOTOR-LTD",
   "description": "Toyota Motor Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.178.2.0/23"
+    ],
     "ipv6": []
   }
 }

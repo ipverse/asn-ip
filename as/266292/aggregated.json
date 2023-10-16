@@ -3,7 +3,11 @@
   "handle": "NETGOIAS-TELECOM",
   "description": "NETGOIAS TELECOM LTDA - ME",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "170.78.168.0/22"
+    ],
+    "ipv6": [
+      "2804:3588::/32"
+    ]
   }
 }

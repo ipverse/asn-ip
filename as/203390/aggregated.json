@@ -3,7 +3,9 @@
   "handle": "TOKUDABANK",
   "description": "Tokudabank Bulgaria AD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "77.85.222.0/24"
+    ],
     "ipv6": []
   }
 }

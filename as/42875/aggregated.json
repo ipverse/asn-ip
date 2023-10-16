@@ -3,7 +3,9 @@
   "handle": "NCP",
   "description": "National Car Parks Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "89.167.173.0/24"
+    ],
     "ipv6": []
   }
 }

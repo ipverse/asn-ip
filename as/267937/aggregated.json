@@ -3,7 +3,11 @@
   "handle": "I9INTERNET",
   "description": "i9interNet LTDA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.165.192.0/22"
+    ],
+    "ipv6": [
+      "2804:557c::/32"
+    ]
   }
 }

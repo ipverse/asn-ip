@@ -3,7 +3,11 @@
   "handle": "GLOBAL-INFO-TELECOM",
   "description": "GLOBAL INFO TELECOM",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "168.0.168.0/22"
+    ],
+    "ipv6": [
+      "2804:2d04::/32"
+    ]
   }
 }

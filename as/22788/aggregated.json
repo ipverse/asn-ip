@@ -3,7 +3,9 @@
   "handle": "KATYISD",
   "description": "Katy Independent School District",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.12.146.0/23"
+    ],
     "ipv6": []
   }
 }

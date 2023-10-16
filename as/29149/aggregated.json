@@ -3,7 +3,9 @@
   "handle": "AMSALEM",
   "description": "Amsalem Tours \u0026 Travel Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.118.112.0/22"
+    ],
     "ipv6": []
   }
 }

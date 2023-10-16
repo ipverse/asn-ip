@@ -3,7 +3,9 @@
   "handle": "PIMACOUNTY",
   "description": "Pima County",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "159.233.0.0/16"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "IQ-ISHTARGATE",
   "description": "Ishtar Gate for e-Payment Systems and Services (PSC)",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.253.11.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "MBFCL",
   "description": "MBF Clearing Corp.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.96.143.0/24"
+    ],
     "ipv6": []
   }
 }

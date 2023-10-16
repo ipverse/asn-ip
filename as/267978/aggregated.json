@@ -3,7 +3,9 @@
   "handle": "JOTA-NET-TELECOMUNICACOES",
   "description": "JOTA NET TELECOMUNICACOES LTDA - ME",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.166.156.0/22"
+    ],
     "ipv6": []
   }
 }

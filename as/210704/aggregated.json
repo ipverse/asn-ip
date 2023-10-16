@@ -3,7 +3,10 @@
   "handle": "RAS",
   "description": "RESEAUX ADMINISTRATION SERVICES SARL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.37.29.0/24",
+      "185.37.30.0/23"
+    ],
     "ipv6": []
   }
 }

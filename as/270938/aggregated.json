@@ -3,7 +3,11 @@
   "handle": "SAT-TELECOM-CONSULTORIA",
   "description": "SAT TELECOM E CONSULTORIA EM TI Ltda",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "186.26.92.0/22"
+    ],
+    "ipv6": [
+      "2804:73cc::/32"
+    ]
   }
 }

@@ -3,7 +3,9 @@
   "handle": "BOSE-CORPORATION-US",
   "description": "Bose Corporation",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "139.68.80.0/21"
+    ],
     "ipv6": []
   }
 }

@@ -4,6 +4,8 @@
   "description": "TERCIO FELIPE LOURENCO PEREIRA",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2804:8128::/32"
+    ]
   }
 }

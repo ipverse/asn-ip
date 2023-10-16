@@ -3,7 +3,10 @@
   "handle": "SPBGASU",
   "description": "Saint Petersburg State University of Architecture and Civil Engineering",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "82.137.163.0/24",
+      "92.255.65.0/24"
+    ],
     "ipv6": []
   }
 }

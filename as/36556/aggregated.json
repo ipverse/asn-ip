@@ -3,7 +3,15 @@
   "handle": "WAVE-RURAL-CONNECT-LLC",
   "description": "Wave Rural Connect, LLC",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "66.148.32.0/19",
+      "98.96.128.0/19",
+      "104.151.192.0/19",
+      "170.176.224.0/20",
+      "204.144.160.0/20"
+    ],
+    "ipv6": [
+      "2602:fdfc::/36"
+    ]
   }
 }

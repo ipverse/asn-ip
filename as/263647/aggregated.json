@@ -3,7 +3,11 @@
   "handle": "IRDIO-COMERCIO-MANUTENO",
   "description": "Irdio Comercio e Manuteno de Maquinas LTDA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "177.75.24.0/21"
+    ],
+    "ipv6": [
+      "2804:10c0::/32"
+    ]
   }
 }

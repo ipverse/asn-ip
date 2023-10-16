@@ -3,7 +3,12 @@
   "handle": "ARCHOUS",
   "description": "Archous Networks Inc.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "23.187.176.0/23",
+      "38.128.126.0/23"
+    ],
+    "ipv6": [
+      "2606:70c0::/32"
+    ]
   }
 }

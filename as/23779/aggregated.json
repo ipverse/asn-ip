@@ -3,7 +3,11 @@
   "handle": "N-BONE",
   "description": "NTT Communications, Corp.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "138.243.0.0/16"
+    ],
+    "ipv6": [
+      "2402:af40::/32"
+    ]
   }
 }

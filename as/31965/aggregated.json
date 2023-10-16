@@ -3,7 +3,9 @@
   "handle": "COYOTE-LOGISTICS",
   "description": "COYOTE LOGISTICS LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "162.247.248.0/22"
+    ],
     "ipv6": []
   }
 }

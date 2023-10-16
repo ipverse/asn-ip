@@ -3,7 +3,9 @@
   "handle": "VIEWSONIC",
   "description": "Viewsonic Corporation",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "63.251.212.0/24"
+    ],
     "ipv6": []
   }
 }

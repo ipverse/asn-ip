@@ -3,7 +3,9 @@
   "handle": "VIRTNET",
   "description": "Hans Peter Groh",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.66.236.0/23"
+    ],
     "ipv6": []
   }
 }

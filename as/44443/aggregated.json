@@ -3,7 +3,9 @@
   "handle": "INOVTEL",
   "description": "LLC Inovatsiyni Telekomunikatsii",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "176.227.244.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,10 @@
   "handle": "KPSDIGITAL",
   "description": "KPS Transformation GmbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.55.2.0/23",
+      "217.194.224.0/20"
+    ],
     "ipv6": []
   }
 }

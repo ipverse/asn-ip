@@ -3,7 +3,9 @@
   "handle": "DGPCO",
   "description": "Dadeh Gostar Parmis PJS Company",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.165.116.0/22"
+    ],
     "ipv6": []
   }
 }

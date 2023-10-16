@@ -3,7 +3,9 @@
   "handle": "BERNINA",
   "description": "Bernina of America, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.126.13.0/24"
+    ],
     "ipv6": []
   }
 }

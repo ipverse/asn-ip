@@ -3,7 +3,9 @@
   "handle": "AILEBAKANLIGI",
   "description": "T.C. Aile ve Sosyal Politikalar Bakanligi",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.104.124.0/24"
+    ],
     "ipv6": []
   }
 }

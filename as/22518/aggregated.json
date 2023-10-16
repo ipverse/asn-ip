@@ -3,7 +3,12 @@
   "handle": "PANDORA-CORP",
   "description": "Pandora Media, Inc",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "199.116.163.0/24",
+      "199.116.167.0/24"
+    ],
+    "ipv6": [
+      "2620:106:e00f::/48"
+    ]
   }
 }

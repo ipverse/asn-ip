@@ -3,7 +3,9 @@
   "handle": "GULF-COAST-STATE-COLLEGE",
   "description": "Gulf Coast State College",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "107.152.64.0/20"
+    ],
     "ipv6": []
   }
 }

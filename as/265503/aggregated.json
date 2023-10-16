@@ -3,7 +3,9 @@
   "handle": "IQCLOUD",
   "description": "IQCLOUD S.A. DE C.V.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "167.250.76.0/22"
+    ],
     "ipv6": []
   }
 }

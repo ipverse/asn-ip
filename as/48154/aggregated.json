@@ -3,7 +3,9 @@
   "handle": "PINET",
   "description": "Thomas Horx \u0026 Christian Wetzig GbR",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "94.125.152.0/21"
+    ],
     "ipv6": []
   }
 }

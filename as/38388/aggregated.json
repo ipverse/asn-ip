@@ -3,7 +3,9 @@
   "handle": "KCOPA",
   "description": "Korea Copyright Protection Agency",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "125.129.210.0/24"
+    ],
     "ipv6": []
   }
 }

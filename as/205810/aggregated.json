@@ -3,7 +3,9 @@
   "handle": "LOP-LAN",
   "description": "Bartosz Koterba",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.54.102.0/24"
+    ],
     "ipv6": []
   }
 }

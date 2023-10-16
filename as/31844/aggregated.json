@@ -3,7 +3,9 @@
   "handle": "HOLDBROTHERS",
   "description": "Tafferer Trading LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "97.107.240.0/23"
+    ],
     "ipv6": []
   }
 }

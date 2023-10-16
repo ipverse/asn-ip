@@ -3,7 +3,9 @@
   "handle": "GR",
   "description": "Ljosleidarinn ehf",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "83.173.0.0/18"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "ELAL",
   "description": "EL AL ISRAEL AIRLINES Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.106.204.0/22"
+    ],
     "ipv6": []
   }
 }

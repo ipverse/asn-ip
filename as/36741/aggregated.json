@@ -3,7 +3,12 @@
   "handle": "FRONTIER-AIRLINES-INC",
   "description": "FRONTIER AIRLINES INC",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "23.157.32.0/24",
+      "192.86.81.0/24"
+    ],
+    "ipv6": [
+      "2620:12e:4001::/48"
+    ]
   }
 }

@@ -3,7 +3,9 @@
   "handle": "OCEAN-BANK",
   "description": "Ocean Bank",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "50.222.152.0/23"
+    ],
     "ipv6": []
   }
 }

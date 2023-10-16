@@ -3,7 +3,9 @@
   "handle": "TID",
   "description": "Texas Instruments Deutschland GmbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.91.63.0/24"
+    ],
     "ipv6": []
   }
 }

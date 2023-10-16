@@ -3,7 +3,9 @@
   "handle": "SGP-NIDR",
   "description": "PIMCO",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "144.77.152.0/24"
+    ],
     "ipv6": []
   }
 }

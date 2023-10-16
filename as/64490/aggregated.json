@@ -3,7 +3,9 @@
   "handle": "LANNET",
   "description": "Montsibovych Andrii",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "31.148.50.0/23"
+    ],
     "ipv6": []
   }
 }

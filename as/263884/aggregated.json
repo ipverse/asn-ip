@@ -3,7 +3,9 @@
   "handle": "INFOTECH-BOM-JARDIM",
   "description": "Infotech de Bom Jardim C. de material de inf. Ltda",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "138.204.96.0/22"
+    ],
     "ipv6": []
   }
 }

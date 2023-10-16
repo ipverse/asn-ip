@@ -3,7 +3,9 @@
   "handle": "TRIBUNAL-REGIONAL-TRABALHO",
   "description": "TRIBUNAL REGIONAL DO TRABALHO - 23 REGIAO",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "201.182.224.0/23"
+    ],
     "ipv6": []
   }
 }

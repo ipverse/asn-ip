@@ -3,7 +3,9 @@
   "handle": "GUIMARAES-VENNCIO-TELECOMUNICAES",
   "description": "Guimaraes E Venncio Telecomunicaes Ltda-ME",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "170.83.112.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "UNITED-NETWORKS-SE",
   "description": "United Networks SE",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.71.232.0/22"
+    ],
     "ipv6": []
   }
 }

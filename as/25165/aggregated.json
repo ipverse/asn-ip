@@ -3,7 +3,9 @@
   "handle": "ENTRI",
   "description": "Entri LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.135.196.0/22"
+    ],
     "ipv6": []
   }
 }

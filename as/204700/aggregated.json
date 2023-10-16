@@ -3,7 +3,9 @@
   "handle": "SGTSA",
   "description": "Horyzont Technologie Internetowe sp.z.o.o.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.241.104.0/22"
+    ],
     "ipv6": []
   }
 }

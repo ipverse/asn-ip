@@ -3,7 +3,10 @@
   "handle": "KEYNET-CLOUD",
   "description": "Swiss IT Security AG",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.156.220.0/23",
+      "185.156.222.0/24"
+    ],
     "ipv6": []
   }
 }

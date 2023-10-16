@@ -3,7 +3,12 @@
   "handle": "BRNET",
   "description": "Bayerischer Rundfunk",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "185.118.144.0/22",
+      "194.187.160.0/22"
+    ],
+    "ipv6": [
+      "2a02:d600::/29"
+    ]
   }
 }

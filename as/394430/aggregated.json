@@ -3,7 +3,9 @@
   "handle": "NSCC",
   "description": "Nova Scotia Community College",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "204.16.56.0/23"
+    ],
     "ipv6": []
   }
 }

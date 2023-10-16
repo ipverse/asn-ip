@@ -3,7 +3,10 @@
   "handle": "CO-FI",
   "description": "Robert Michael Span",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.171.8.0/22",
+      "185.203.164.0/22"
+    ],
     "ipv6": []
   }
 }

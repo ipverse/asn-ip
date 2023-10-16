@@ -3,7 +3,10 @@
   "handle": "CFBISD-AS1",
   "description": "Carrollton-Farmers Branch Independent School Dist.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.206.243.0/24",
+      "192.206.244.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "MCCARHTY-BURGESS-WOLFF",
   "description": "McCarthy, Burgess \u0026 Wolff, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "208.92.252.0/22"
+    ],
     "ipv6": []
   }
 }

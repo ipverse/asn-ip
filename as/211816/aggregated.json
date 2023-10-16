@@ -3,7 +3,9 @@
   "handle": "ASERONX",
   "description": "ERON X s.r.o.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.26.196.0/24"
+    ],
     "ipv6": []
   }
 }

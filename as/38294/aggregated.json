@@ -3,7 +3,11 @@
   "handle": "SERVERWORKS-NZ-AP",
   "description": "ServerWorks Ltd",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "113.130.120.0/22"
+    ],
+    "ipv6": [
+      "2400:c000::/32"
+    ]
   }
 }

@@ -3,7 +3,9 @@
   "handle": "CAL-BANK",
   "description": "Calbank PLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "102.219.94.0/23"
+    ],
     "ipv6": []
   }
 }

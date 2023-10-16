@@ -3,7 +3,11 @@
   "handle": "TAPCONET-CORPHQ",
   "description": "Traffic and Parking Control Co., Inc.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "98.100.160.0/24"
+    ],
+    "ipv6": [
+      "2620:3c:c040::/48"
+    ]
   }
 }

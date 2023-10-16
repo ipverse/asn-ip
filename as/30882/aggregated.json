@@ -3,7 +3,9 @@
   "handle": "BENEFIT",
   "description": "The Benefit Company B.S.C. (C)",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "79.171.240.0/21"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,12 @@
   "handle": "PAULO-XAVIER-BRAGA-ANDRADE",
   "description": "Paulo Xavier Braga Andrade",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.179.112.0/24",
+      "45.179.114.0/23"
+    ],
+    "ipv6": [
+      "2804:5fb8::/32"
+    ]
   }
 }

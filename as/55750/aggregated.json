@@ -3,7 +3,10 @@
   "handle": "ABCHK-HK",
   "description": "ABC Computer Systems Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "223.29.248.0/23",
+      "223.29.250.0/24"
+    ],
     "ipv6": []
   }
 }

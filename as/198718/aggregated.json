@@ -3,7 +3,9 @@
   "handle": "SEVERSVJAZ",
   "description": "AO SEVERSVJAZ",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "176.121.208.0/20"
+    ],
     "ipv6": []
   }
 }

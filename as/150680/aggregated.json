@@ -3,7 +3,10 @@
   "handle": "NSWFIRE-AP",
   "description": "NSW Fire Brigades",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.27.1.0/24",
+      "202.172.6.0/24"
+    ],
     "ipv6": []
   }
 }

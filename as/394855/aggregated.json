@@ -3,7 +3,12 @@
   "handle": "STRATUS-VIDEO",
   "description": "Stratus Video, LLC",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "108.163.0.0/22",
+      "108.163.5.0/24"
+    ],
+    "ipv6": [
+      "2620:5e:a000::/47"
+    ]
   }
 }

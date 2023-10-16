@@ -3,7 +3,10 @@
   "handle": "XNNET",
   "description": "XNNET LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "154.195.64.0/19",
+      "154.223.96.0/19"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "ICYGEN",
   "description": "ICYGEN Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.0.235.0/24"
+    ],
     "ipv6": []
   }
 }

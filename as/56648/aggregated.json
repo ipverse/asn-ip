@@ -3,7 +3,12 @@
   "handle": "FACILITEAM",
   "description": "Faciliteam SARL",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "89.207.157.0/24",
+      "185.20.5.0/24"
+    ],
+    "ipv6": [
+      "2a13:2900::/29"
+    ]
   }
 }

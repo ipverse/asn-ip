@@ -3,7 +3,9 @@
   "handle": "MTB",
   "description": "PJSC MTB BANK",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.47.202.0/24"
+    ],
     "ipv6": []
   }
 }

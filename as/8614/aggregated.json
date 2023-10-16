@@ -3,7 +3,11 @@
   "handle": "ITC",
   "description": "ITC Institutul Pentru Tehnica De Calcul SA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.231.172.0/24",
+      "193.239.64.0/22",
+      "217.156.124.0/24"
+    ],
     "ipv6": []
   }
 }

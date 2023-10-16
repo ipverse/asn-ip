@@ -3,7 +3,9 @@
   "handle": "NORBERTO-CARLOS-WEHRLI",
   "description": "NORBERTO CARLOS WEHRLI (INFORMTICA VENADO)",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "170.246.176.0/22"
+    ],
     "ipv6": []
   }
 }

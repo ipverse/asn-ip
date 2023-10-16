@@ -3,7 +3,10 @@
   "handle": "RANHIGS",
   "description": "RANHiGS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "83.143.64.0/22",
+      "85.30.254.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,11 @@
   "handle": "ACN-2",
   "description": "Jewelry Television",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "52.119.10.0/24"
+    ],
+    "ipv6": [
+      "2602:806:f000::/47"
+    ]
   }
 }

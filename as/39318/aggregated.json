@@ -3,7 +3,9 @@
   "handle": "PSKZ-AST",
   "description": "PS Internet Company LLP",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "31.210.174.0/23"
+    ],
     "ipv6": []
   }
 }

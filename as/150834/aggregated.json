@@ -3,7 +3,9 @@
   "handle": "IDATA-VN",
   "description": "IDATA TECHNOLOGY SOLUTIONS COMPANY LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.118.28.0/23"
+    ],
     "ipv6": []
   }
 }

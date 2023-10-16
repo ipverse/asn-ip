@@ -3,7 +3,9 @@
   "handle": "MYGAMES",
   "description": "MY.GAMES B.V.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.66.96.0/22"
+    ],
     "ipv6": []
   }
 }

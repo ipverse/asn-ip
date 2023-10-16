@@ -3,7 +3,9 @@
   "handle": "MSMR",
   "description": "AIT LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.224.233.0/24"
+    ],
     "ipv6": []
   }
 }

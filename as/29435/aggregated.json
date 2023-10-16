@@ -3,7 +3,9 @@
   "handle": "IPOWER",
   "description": "@iPower N.V.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "62.213.240.0/21"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "NETBIS",
   "description": "NETbis sp. z o.o.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.9.136.0/22"
+    ],
     "ipv6": []
   }
 }

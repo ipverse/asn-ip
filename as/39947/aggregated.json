@@ -3,7 +3,9 @@
   "handle": "TMGHEALTH",
   "description": "TMG Health, Inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "63.86.124.0/24"
+    ],
     "ipv6": []
   }
 }

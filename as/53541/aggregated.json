@@ -3,7 +3,10 @@
   "handle": "PRODEGE-MME",
   "description": "Prodege LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "216.225.24.0/24",
+      "216.225.26.0/24"
+    ],
     "ipv6": []
   }
 }

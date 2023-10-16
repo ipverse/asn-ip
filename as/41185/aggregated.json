@@ -3,7 +3,9 @@
   "handle": "NSPK-EC",
   "description": "National system of payment cards Joint-stock Society",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.170.2.0/23"
+    ],
     "ipv6": []
   }
 }

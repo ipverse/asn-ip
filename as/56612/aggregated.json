@@ -3,7 +3,9 @@
   "handle": "HELWACHT",
   "description": "Hel-Wacht Holding GmbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.128.150.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "NEX-AP",
   "description": "NEX CORPORATEIT PTE LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.166.144.0/24"
+    ],
     "ipv6": []
   }
 }

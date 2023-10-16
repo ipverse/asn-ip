@@ -3,7 +3,11 @@
   "handle": "P-V-VILARINHO",
   "description": "P V VILARINHO CAMPELO PROVEDOR",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "131.255.152.0/22"
+    ],
+    "ipv6": [
+      "2804:2060::/32"
+    ]
   }
 }

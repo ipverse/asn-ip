@@ -3,7 +3,9 @@
   "handle": "BAYCREST",
   "description": "Baycrest",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.133.45.0/24"
+    ],
     "ipv6": []
   }
 }

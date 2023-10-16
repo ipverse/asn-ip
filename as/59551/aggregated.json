@@ -3,7 +3,9 @@
   "handle": "KERATRONIK",
   "description": "Keratronik Arkadiusz Wasikowski",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.61.57.0/24"
+    ],
     "ipv6": []
   }
 }

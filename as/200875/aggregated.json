@@ -3,7 +3,9 @@
   "handle": "SKOROST",
   "description": "Skorost LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.207.31.0/24"
+    ],
     "ipv6": []
   }
 }

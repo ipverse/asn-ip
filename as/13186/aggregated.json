@@ -3,7 +3,9 @@
   "handle": "ECE-BCN-DATA",
   "description": "Evolutio Cloud Enabler S.A. Unipersonal",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "213.170.62.0/24"
+    ],
     "ipv6": []
   }
 }

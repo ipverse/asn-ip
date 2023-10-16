@@ -3,7 +3,9 @@
   "handle": "GIGACOM-BRASIL",
   "description": "GIGACOM DO BRASIL LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.100.228.0/23"
+    ],
     "ipv6": []
   }
 }

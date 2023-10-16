@@ -3,7 +3,11 @@
   "handle": "MOBITV",
   "description": "Tivo LLC",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "208.91.252.0/22"
+    ],
+    "ipv6": [
+      "2620:10c:2000::/48"
+    ]
   }
 }

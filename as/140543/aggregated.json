@@ -3,7 +3,9 @@
   "handle": "READYDEDIS-AP",
   "description": "ReadyDedis, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.25.253.0/24"
+    ],
     "ipv6": []
   }
 }

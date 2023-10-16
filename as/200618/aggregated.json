@@ -3,7 +3,9 @@
   "handle": "FR-FININFO",
   "description": "FININFO GIE",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.99.112.0/22"
+    ],
     "ipv6": []
   }
 }

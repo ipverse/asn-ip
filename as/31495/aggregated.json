@@ -3,7 +3,9 @@
   "handle": "TELERETE",
   "description": "Ne-t by Telerete Nordest Srl",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "217.148.112.0/20"
+    ],
     "ipv6": []
   }
 }

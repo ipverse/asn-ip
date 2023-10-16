@@ -3,7 +3,10 @@
   "handle": "EE-ESTPAK-IPT",
   "description": "Telia Eesti AS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "85.89.32.0/19",
+      "108.175.100.0/23"
+    ],
     "ipv6": []
   }
 }

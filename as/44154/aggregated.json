@@ -3,7 +3,10 @@
   "handle": "SOFTEH",
   "description": "SC Softeh Plus SRL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "89.33.31.0/24",
+      "91.199.49.0/24"
+    ],
     "ipv6": []
   }
 }

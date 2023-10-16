@@ -3,7 +3,11 @@
   "handle": "LINFORTEL-INTERNET",
   "description": "Linfortel Internet",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "170.233.24.0/22"
+    ],
+    "ipv6": [
+      "2804:3290::/32"
+    ]
   }
 }

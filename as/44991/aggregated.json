@@ -3,7 +3,9 @@
   "handle": "GREPTON",
   "description": "Grepton Informatikai Zartkoruen Mukodo Reszvenytarsasag",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.230.106.0/24"
+    ],
     "ipv6": []
   }
 }

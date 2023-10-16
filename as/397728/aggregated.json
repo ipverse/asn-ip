@@ -3,7 +3,9 @@
   "handle": "TMLAWYERS",
   "description": "Taylor McCaffrey LLP",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "204.87.243.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "SYNECHRON",
   "description": "Synechron Technologies Pvt. Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.243.29.0/24"
+    ],
     "ipv6": []
   }
 }

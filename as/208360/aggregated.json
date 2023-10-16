@@ -3,7 +3,9 @@
   "handle": "BUBBLE",
   "description": "Bubble, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.142.32.0/22"
+    ],
     "ipv6": []
   }
 }

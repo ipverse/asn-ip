@@ -3,7 +3,9 @@
   "handle": "MOHE",
   "description": "Ministry of Education",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.195.88.0/23"
+    ],
     "ipv6": []
   }
 }

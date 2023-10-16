@@ -3,7 +3,9 @@
   "handle": "BEE",
   "description": "BOHEMIA ENERGY entity s.r.o.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.95.116.0/23"
+    ],
     "ipv6": []
   }
 }

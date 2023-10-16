@@ -3,7 +3,9 @@
   "handle": "NORTHWOODS-COMMUNICATION-TECHNOLOGIES",
   "description": "Northwoods Connect",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "130.51.232.0/22"
+    ],
     "ipv6": []
   }
 }

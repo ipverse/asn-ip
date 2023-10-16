@@ -3,7 +3,11 @@
   "handle": "TECNIANET",
   "description": "TECNIANET S.A DE C.V.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.190.196.0/22"
+    ],
+    "ipv6": [
+      "2806:334::/32"
+    ]
   }
 }

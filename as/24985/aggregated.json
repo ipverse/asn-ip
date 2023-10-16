@@ -3,7 +3,9 @@
   "handle": "KACZMARSKI",
   "description": "KACZMARSKI-INKASSO-Malgorzata-Kaczmarski",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "217.30.159.0/24"
+    ],
     "ipv6": []
   }
 }

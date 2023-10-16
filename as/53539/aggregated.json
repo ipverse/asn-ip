@@ -3,7 +3,9 @@
   "handle": "HWSL-27",
   "description": "Hiram Walker and Sons Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "205.207.154.0/24"
+    ],
     "ipv6": []
   }
 }

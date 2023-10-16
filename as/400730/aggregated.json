@@ -3,7 +3,9 @@
   "handle": "SPARTANBURGCOUNTY-192-146-148-0",
   "description": "Spartanburg County",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.146.148.0/24"
+    ],
     "ipv6": []
   }
 }

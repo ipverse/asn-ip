@@ -3,7 +3,9 @@
   "handle": "CEZPL",
   "description": "CEZ Polska Sp. Zo.o.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.150.100.0/24"
+    ],
     "ipv6": []
   }
 }

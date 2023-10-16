@@ -3,7 +3,11 @@
   "handle": "ESPRINET",
   "description": "ESPRINET-SPA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.133.12.0/23",
+      "45.133.15.0/24",
+      "194.185.40.0/23"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "CWCS-VM",
   "description": "Compuweb Communications Services Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "84.19.112.0/21"
+    ],
     "ipv6": []
   }
 }

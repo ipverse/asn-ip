@@ -3,7 +3,9 @@
   "handle": "M7STL-AP",
   "description": "7 Star Telecom (Private) Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.157.88.0/24"
+    ],
     "ipv6": []
   }
 }

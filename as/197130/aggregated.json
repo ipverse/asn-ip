@@ -3,7 +3,9 @@
   "handle": "SOLMAZ",
   "description": "SOLMAZ GUMRUK MUSAVIRLIGI A.S",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.216.201.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "OFWL",
   "description": "Olshan",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.125.122.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "CITYCERRITOS",
   "description": "CITY OF CERRITOS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "47.51.60.0/24"
+    ],
     "ipv6": []
   }
 }

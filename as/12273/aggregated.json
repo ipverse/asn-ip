@@ -3,7 +3,10 @@
   "handle": "TRUELINK",
   "description": "Transunion Interactive, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "74.117.128.0/22",
+      "199.21.168.0/22"
+    ],
     "ipv6": []
   }
 }

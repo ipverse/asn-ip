@@ -3,7 +3,13 @@
   "handle": "EQUINIX-AP",
   "description": "Equinix Korea LLC",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "51.162.188.0/22",
+      "103.140.211.0/24",
+      "180.189.52.0/23"
+    ],
+    "ipv6": [
+      "2405:4c0::/32"
+    ]
   }
 }

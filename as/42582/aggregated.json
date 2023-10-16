@@ -3,7 +3,9 @@
   "handle": "APKTMN",
   "description": "Join-Stock Commercial bank Agropromcredit",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.143.0.0/24"
+    ],
     "ipv6": []
   }
 }

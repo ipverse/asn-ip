@@ -3,7 +3,10 @@
   "handle": "IRIDIUM-RUSSIA",
   "description": "Iridium Service LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "5.3.83.0/24",
+      "128.75.250.0/23"
+    ],
     "ipv6": []
   }
 }

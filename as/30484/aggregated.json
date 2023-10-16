@@ -3,7 +3,10 @@
   "handle": "PAHOUSEGOP",
   "description": "Pennsylvania House of Representatives, Republican IT Services",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "50.236.135.0/24",
+      "192.216.120.0/24"
+    ],
     "ipv6": []
   }
 }

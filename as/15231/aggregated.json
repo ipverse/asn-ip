@@ -3,7 +3,11 @@
   "handle": "STARNOVA-LLC",
   "description": "Starnova LLC",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "208.82.184.0/21"
+    ],
+    "ipv6": [
+      "2602:ff67::/36"
+    ]
   }
 }

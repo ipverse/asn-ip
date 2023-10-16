@@ -3,7 +3,9 @@
   "handle": "MIDLANDPAPER",
   "description": "Midland Paper Company",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.96.149.0/24"
+    ],
     "ipv6": []
   }
 }

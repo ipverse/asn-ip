@@ -3,7 +3,9 @@
   "handle": "WKNTA-AP",
   "description": "Waka Kotahi NZ Transport Agency",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.183.127.0/24"
+    ],
     "ipv6": []
   }
 }

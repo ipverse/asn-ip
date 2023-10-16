@@ -3,7 +3,10 @@
   "handle": "IDNIC-BPJSKETENAGAKERJAAN-ID",
   "description": "BPJS Ketenagakerjaan",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.73.235.0/24",
+      "103.82.6.0/24"
+    ],
     "ipv6": []
   }
 }

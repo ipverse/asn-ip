@@ -3,7 +3,9 @@
   "handle": "ALMADAR",
   "description": "TAYF AL-MADAR for Internet Services Pvt. Ltd company",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "85.31.40.0/22"
+    ],
     "ipv6": []
   }
 }

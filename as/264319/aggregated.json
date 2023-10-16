@@ -3,7 +3,11 @@
   "handle": "FOX-SERVICOS-COMUNICACAO",
   "description": "FOX SERVICOS DE COMUNICACAO LTDA ME",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "138.122.116.0/22"
+    ],
+    "ipv6": [
+      "2804:2608::/32"
+    ]
   }
 }

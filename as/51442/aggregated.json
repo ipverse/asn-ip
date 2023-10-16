@@ -3,7 +3,9 @@
   "handle": "STREAMTELECOM",
   "description": "Stream Telecom Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.217.46.0/23"
+    ],
     "ipv6": []
   }
 }

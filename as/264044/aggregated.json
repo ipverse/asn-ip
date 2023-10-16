@@ -3,7 +3,9 @@
   "handle": "BANCO-CREDIT-SUISSE",
   "description": "BANCO CREDIT SUISSE (BRASIL) S.A",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "200.9.148.0/24"
+    ],
     "ipv6": []
   }
 }

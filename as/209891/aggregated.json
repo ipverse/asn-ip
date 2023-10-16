@@ -3,7 +3,11 @@
   "handle": "QUARINET",
   "description": "QuarIT GmbH",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "212.103.32.0/22"
+    ],
+    "ipv6": [
+      "2a09:1c00::/29"
+    ]
   }
 }

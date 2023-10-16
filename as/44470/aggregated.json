@@ -3,7 +3,9 @@
   "handle": "MOSKOMMERTSBANK",
   "description": "Commercial Bank Moskommertsbank JSC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.93.240.0/23"
+    ],
     "ipv6": []
   }
 }

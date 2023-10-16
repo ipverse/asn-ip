@@ -3,7 +3,9 @@
   "handle": "DIGITALREALTY-IT-01",
   "description": "Digital Realty Trust, L.P.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.76.69.0/24"
+    ],
     "ipv6": []
   }
 }

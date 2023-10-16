@@ -3,7 +3,9 @@
   "handle": "ENERGYSERVICESGROUP",
   "description": "Energy Services Group",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "208.253.5.0/24"
+    ],
     "ipv6": []
   }
 }

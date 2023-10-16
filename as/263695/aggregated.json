@@ -3,7 +3,9 @@
   "handle": "BANCO-AGRICOLA",
   "description": "BANCO AGRICOLA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "201.131.122.0/23"
+    ],
     "ipv6": []
   }
 }

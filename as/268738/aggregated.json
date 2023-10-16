@@ -3,7 +3,12 @@
   "handle": "M3-NET-FIBRA",
   "description": "M3 Net Fibra LTDA - ME",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.71.28.0/22",
+      "45.171.44.0/22"
+    ],
+    "ipv6": [
+      "2804:59fc::/32"
+    ]
   }
 }

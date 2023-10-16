@@ -3,7 +3,9 @@
   "handle": "CONECTA-TELECOM",
   "description": "Conecta Telecom Ltda",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "131.221.136.0/22"
+    ],
     "ipv6": []
   }
 }

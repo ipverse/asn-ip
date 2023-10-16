@@ -3,7 +3,9 @@
   "handle": "QTS-EEM",
   "description": "Quality Technology Services, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "173.245.120.0/24"
+    ],
     "ipv6": []
   }
 }

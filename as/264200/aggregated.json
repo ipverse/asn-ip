@@ -3,7 +3,11 @@
   "handle": "R-MELO-NEVES-CONEX",
   "description": "R DE MELO NEVES CONEX - ME",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "138.97.192.0/22"
+    ],
+    "ipv6": [
+      "2804:2414::/32"
+    ]
   }
 }

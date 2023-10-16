@@ -3,7 +3,9 @@
   "handle": "JANTAR",
   "description": "JANTAR Sp zoo",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.0.62.0/24"
+    ],
     "ipv6": []
   }
 }

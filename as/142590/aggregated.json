@@ -3,7 +3,9 @@
   "handle": "AV-NON-AP",
   "description": "Ambulance Victoria",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "203.18.174.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,10 @@
   "handle": "AGLRSC",
   "description": "AGL Resources Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "65.243.68.0/24",
+      "199.255.126.0/23"
+    ],
     "ipv6": []
   }
 }

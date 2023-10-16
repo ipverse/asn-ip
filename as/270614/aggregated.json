@@ -3,7 +3,11 @@
   "handle": "ANDREIA-DIAS-SILVA-CORREA",
   "description": "Andreia Dias Silva Correa ME",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "200.215.240.0/22"
+    ],
+    "ipv6": [
+      "2804:6eb4::/32"
+    ]
   }
 }

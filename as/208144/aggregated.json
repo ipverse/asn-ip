@@ -3,7 +3,9 @@
   "handle": "GE-PASHA",
   "description": "PASHA Bank Georgia JSC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.157.152.0/22"
+    ],
     "ipv6": []
   }
 }

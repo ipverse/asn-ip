@@ -3,7 +3,9 @@
   "handle": "ARDOT-NET-01",
   "description": "Arkansas Department of Transportation",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.48.0.0/22"
+    ],
     "ipv6": []
   }
 }

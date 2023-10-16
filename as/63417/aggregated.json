@@ -3,7 +3,9 @@
   "handle": "GPSF-ASN-01",
   "description": "Gearbox Publishing San Francisco Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "216.115.180.0/24"
+    ],
     "ipv6": []
   }
 }

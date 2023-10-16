@@ -3,7 +3,9 @@
   "handle": "NSL7",
   "description": "Netaccess Systems Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "102.218.80.0/22"
+    ],
     "ipv6": []
   }
 }

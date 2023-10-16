@@ -3,7 +3,11 @@
   "handle": "GR-SOLUCOES-TELECOM",
   "description": "GR SOLUCOES TELECOM LTDA - ME",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "131.196.4.0/22"
+    ],
+    "ipv6": [
+      "2804:3f64::/32"
+    ]
   }
 }

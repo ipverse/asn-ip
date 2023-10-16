@@ -3,7 +3,10 @@
   "handle": "GOBROLLYASN",
   "description": "Brolly Communications, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "97.107.229.0/24",
+      "138.43.240.0/22"
+    ],
     "ipv6": []
   }
 }

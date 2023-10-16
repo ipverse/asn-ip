@@ -3,7 +3,9 @@
   "handle": "ISYSTEM-VN",
   "description": "INTELLIGENCE INFORMATION SYSTEM CO, LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.150.240.0/24"
+    ],
     "ipv6": []
   }
 }

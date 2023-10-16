@@ -3,7 +3,9 @@
   "handle": "ALBRIGHT-COLLEGE",
   "description": "Albright College",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.149.13.0/24"
+    ],
     "ipv6": []
   }
 }

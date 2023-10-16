@@ -3,7 +3,9 @@
   "handle": "AU-65-BGP",
   "description": "Anderson University",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "128.92.72.0/24"
+    ],
     "ipv6": []
   }
 }

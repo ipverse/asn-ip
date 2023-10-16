@@ -3,7 +3,11 @@
   "handle": "BREKOM",
   "description": "BREKOM GmbH",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "185.61.100.0/22"
+    ],
+    "ipv6": [
+      "2a01:50e0::/32"
+    ]
   }
 }

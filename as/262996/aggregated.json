@@ -3,7 +3,11 @@
   "handle": "MEGAMINAS-TELECOMUNICACOES",
   "description": "MEGAMINAS TELECOMUNICACOES LTDA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "186.219.208.0/21"
+    ],
+    "ipv6": [
+      "2804:9d4::/32"
+    ]
   }
 }

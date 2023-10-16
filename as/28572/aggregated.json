@@ -3,7 +3,11 @@
   "handle": "APOIOCOM-DIGITAL",
   "description": "Apoiocom Digital Ltda - EPP",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "200.192.144.0/20"
+    ],
+    "ipv6": [
+      "2804:6e3c::/32"
+    ]
   }
 }

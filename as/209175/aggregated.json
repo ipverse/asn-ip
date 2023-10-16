@@ -3,7 +3,9 @@
   "handle": "KRINGVARP-FOROYA",
   "description": "Kringvarp Foroya",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.80.36.0/22"
+    ],
     "ipv6": []
   }
 }

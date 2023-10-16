@@ -3,7 +3,9 @@
   "handle": "COMMTOUCH-INC",
   "description": "Commtouch Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "216.163.188.0/24"
+    ],
     "ipv6": []
   }
 }

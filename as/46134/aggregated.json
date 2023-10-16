@@ -3,7 +3,9 @@
   "handle": "AAA-MWG-UT",
   "description": "AAA-Arizona, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "209.82.234.0/24"
+    ],
     "ipv6": []
   }
 }

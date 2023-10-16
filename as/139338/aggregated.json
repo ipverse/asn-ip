@@ -3,7 +3,9 @@
   "handle": "CYBER2-AP",
   "description": "Cyber Planet",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.141.123.0/24"
+    ],
     "ipv6": []
   }
 }

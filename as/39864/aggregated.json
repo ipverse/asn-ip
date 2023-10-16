@@ -3,7 +3,10 @@
   "handle": "TENSORCOMP",
   "description": "Company Tensor LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.213.144.0/24",
+      "91.232.92.0/22"
+    ],
     "ipv6": []
   }
 }

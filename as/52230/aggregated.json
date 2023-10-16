@@ -3,7 +3,9 @@
   "handle": "MAPFRE-COMPAIA-SEGUROS",
   "description": "Mapfre Compaia de Seguros",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "200.54.115.0/24"
+    ],
     "ipv6": []
   }
 }

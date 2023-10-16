@@ -3,7 +3,10 @@
   "handle": "ALGOMAU-SSM",
   "description": "Algoma University",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.212.53.0/24",
+      "199.212.54.0/23"
+    ],
     "ipv6": []
   }
 }

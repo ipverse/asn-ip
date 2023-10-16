@@ -3,7 +3,9 @@
   "handle": "AFA",
   "description": "Afa Forsakring tjanstepensionsaktiebolag",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.102.32.0/22"
+    ],
     "ipv6": []
   }
 }

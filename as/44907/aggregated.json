@@ -3,7 +3,11 @@
   "handle": "TELEGRAM-MESSENGER-CDN",
   "description": "Telegram Messenger Inc",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "91.108.20.0/22"
+    ],
+    "ipv6": [
+      "2001:b28:f23c::/48"
+    ]
   }
 }

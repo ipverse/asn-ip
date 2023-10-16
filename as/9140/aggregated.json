@@ -3,7 +3,10 @@
   "handle": "HYPERNEPH",
   "description": "Hyperneph Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "5.255.137.0/24",
+      "5.255.138.0/24"
+    ],
     "ipv6": []
   }
 }

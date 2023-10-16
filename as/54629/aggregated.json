@@ -3,7 +3,9 @@
   "handle": "AFSTORES",
   "description": "Associated Food Stores, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "205.142.14.0/23"
+    ],
     "ipv6": []
   }
 }

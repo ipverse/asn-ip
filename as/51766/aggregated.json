@@ -3,7 +3,9 @@
   "handle": "MFRS",
   "description": "Merseyside Fire and Rescue Service",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.220.52.0/24"
+    ],
     "ipv6": []
   }
 }

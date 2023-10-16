@@ -3,7 +3,9 @@
   "handle": "TURIEN",
   "description": "Turien en Co. Assuradeuren B.V.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.133.1.0/24"
+    ],
     "ipv6": []
   }
 }

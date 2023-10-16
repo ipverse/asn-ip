@@ -3,7 +3,9 @@
   "handle": "APOG-GMU",
   "description": "Apogee Telecom Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "76.78.140.0/23"
+    ],
     "ipv6": []
   }
 }

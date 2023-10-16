@@ -3,7 +3,9 @@
   "handle": "BLUEISP3",
   "description": "Internet BlueNET doo Cacak",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.62.132.0/23"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "BLONDBROWN",
   "description": "Blond \u0026 Brown s.r.o.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.140.240.0/22"
+    ],
     "ipv6": []
   }
 }

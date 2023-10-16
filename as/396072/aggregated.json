@@ -3,7 +3,10 @@
   "handle": "SCAG",
   "description": "Southern California Association of Governments",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.103.248.0/24",
+      "199.181.196.0/24"
+    ],
     "ipv6": []
   }
 }

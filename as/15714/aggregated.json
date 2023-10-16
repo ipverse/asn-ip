@@ -3,7 +3,10 @@
   "handle": "WORKUP",
   "description": "WorkUp Srl",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.246.192.0/22",
+      "195.246.196.0/24"
+    ],
     "ipv6": []
   }
 }

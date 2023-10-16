@@ -3,7 +3,11 @@
   "handle": "AOSMA-AP",
   "description": "Adelaide Oval SMA Ltd",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "103.148.16.0/24"
+    ],
+    "ipv6": [
+      "2001:df2:b680::/48"
+    ]
   }
 }

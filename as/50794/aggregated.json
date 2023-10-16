@@ -3,7 +3,12 @@
   "handle": "LEVIRA",
   "description": "Levira AS",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "37.0.24.0/21",
+      "178.21.240.0/21"
+    ],
+    "ipv6": [
+      "2a04:7e80::/29"
+    ]
   }
 }

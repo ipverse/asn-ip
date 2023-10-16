@@ -3,7 +3,9 @@
   "handle": "BNTU-OF-MANAGEMENT",
   "description": "Belarussian National Technical University",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "93.125.120.0/24"
+    ],
     "ipv6": []
   }
 }

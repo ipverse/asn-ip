@@ -3,7 +3,9 @@
   "handle": "HR-TOTALNA1",
   "description": "Telemach Hrvatska d.o.o.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.73.144.0/22"
+    ],
     "ipv6": []
   }
 }

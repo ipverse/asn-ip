@@ -3,7 +3,10 @@
   "handle": "MYWEBCITY",
   "description": "Mywebcity Denmark Aps",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.135.64.0/22",
+      "185.162.136.0/22"
+    ],
     "ipv6": []
   }
 }

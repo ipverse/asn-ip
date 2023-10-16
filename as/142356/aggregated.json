@@ -3,7 +3,11 @@
   "handle": "IDNIC-AMANET-ID",
   "description": "PT Aderani Multi Akses",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "103.169.194.0/24"
+    ],
+    "ipv6": [
+      "2407:a9c0::/32"
+    ]
   }
 }

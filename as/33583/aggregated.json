@@ -3,7 +3,10 @@
   "handle": "IBC-FGIS",
   "description": "Isabella Bank Corporation",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.30.148.0/23",
+      "199.30.150.0/24"
+    ],
     "ipv6": []
   }
 }

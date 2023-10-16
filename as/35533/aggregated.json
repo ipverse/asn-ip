@@ -3,7 +3,9 @@
   "handle": "SEVSKY-RU",
   "description": "CrimeaCom South LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.187.148.0/22"
+    ],
     "ipv6": []
   }
 }

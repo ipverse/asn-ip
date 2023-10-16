@@ -3,7 +3,9 @@
   "handle": "STARWOODVO-OOC",
   "description": "Starwood Vacation Ownership",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "216.126.218.0/24"
+    ],
     "ipv6": []
   }
 }

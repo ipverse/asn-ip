@@ -3,7 +3,11 @@
   "handle": "GIGAWAVE-AP",
   "description": "Gigawave Communications",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "103.154.154.0/23"
+    ],
+    "ipv6": [
+      "2001:df4:8e80::/48"
+    ]
   }
 }

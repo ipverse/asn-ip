@@ -3,7 +3,9 @@
   "handle": "PORTALCOM-STI-EIRELE",
   "description": "Portal.com STI eirele",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "131.196.48.0/22"
+    ],
     "ipv6": []
   }
 }

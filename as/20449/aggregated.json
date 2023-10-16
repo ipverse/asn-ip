@@ -3,7 +3,9 @@
   "handle": "RANDOLPHHOSPITAL",
   "description": "Randolph Hospital, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "198.51.93.0/24"
+    ],
     "ipv6": []
   }
 }

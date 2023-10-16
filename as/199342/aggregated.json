@@ -3,7 +3,9 @@
   "handle": "UNICATTOLICA",
   "description": "Universita Cattolica del Sacro Cuore",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.11.152.0/22"
+    ],
     "ipv6": []
   }
 }

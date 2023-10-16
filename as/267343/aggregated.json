@@ -3,7 +3,11 @@
   "handle": "A-NASCIMENTO-SANTOS",
   "description": "A DO NASCIMENTO SANTOS INFORMATICA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.234.44.0/22"
+    ],
+    "ipv6": [
+      "2804:4c04::/32"
+    ]
   }
 }

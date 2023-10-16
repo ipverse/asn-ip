@@ -3,7 +3,9 @@
   "handle": "PLASTIPAK-PACKAGING",
   "description": "Plastipak Packaging",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "12.1.96.0/24"
+    ],
     "ipv6": []
   }
 }

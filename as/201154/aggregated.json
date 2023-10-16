@@ -3,7 +3,9 @@
   "handle": "IKEA-AP",
   "description": "IKEA IT AB",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.165.176.0/24"
+    ],
     "ipv6": []
   }
 }

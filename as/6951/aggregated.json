@@ -3,7 +3,9 @@
   "handle": "CREDITCALL-NETWORKS",
   "description": "CreditCall Corporation",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "74.120.0.0/22"
+    ],
     "ipv6": []
   }
 }

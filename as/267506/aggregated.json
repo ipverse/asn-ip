@@ -3,7 +3,9 @@
   "handle": "NETLUX-TELECOM",
   "description": "NETLUX Telecom",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "201.182.72.0/22"
+    ],
     "ipv6": []
   }
 }

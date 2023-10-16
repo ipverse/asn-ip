@@ -3,7 +3,12 @@
   "handle": "ELITE",
   "description": "Elite General Partnership",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "204.11.8.0/21",
+      "206.223.152.0/21"
+    ],
+    "ipv6": [
+      "2606:f2c0::/32"
+    ]
   }
 }

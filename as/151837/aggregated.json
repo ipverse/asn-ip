@@ -3,7 +3,9 @@
   "handle": "JOYPURCOLO-AP",
   "description": "JOYPUR COLO",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.240.4.0/23"
+    ],
     "ipv6": []
   }
 }

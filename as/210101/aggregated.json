@@ -3,7 +3,11 @@
   "handle": "CYBER",
   "description": "Cyber Pathogen Ltd",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "85.117.224.0/22"
+    ],
+    "ipv6": [
+      "2a0d:b4c0::/29"
+    ]
   }
 }

@@ -3,7 +3,9 @@
   "handle": "IMH-COAL",
   "description": "Management company IMH, Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "62.76.135.0/24"
+    ],
     "ipv6": []
   }
 }

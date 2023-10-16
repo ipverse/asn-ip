@@ -4,6 +4,8 @@
   "description": "amccomp s.r.o.",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a02:6c20:7::/48"
+    ]
   }
 }

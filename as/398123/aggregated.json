@@ -3,7 +3,11 @@
   "handle": "IRACING-CORPORATE",
   "description": "IRACING.COM MOTORSPORT SIMULATIONS, LLC",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "161.38.188.0/23"
+    ],
+    "ipv6": [
+      "2620:13d:e002::/47"
+    ]
   }
 }

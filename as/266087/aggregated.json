@@ -3,7 +3,9 @@
   "handle": "ORBITEL-TELECOMUNICAES-INFORMTICA",
   "description": "Orbitel Telecomunicaes e Informtica Ltda",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.4.192.0/22"
+    ],
     "ipv6": []
   }
 }

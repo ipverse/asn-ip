@@ -3,7 +3,9 @@
   "handle": "ALTAY-ADM",
   "description": "Department of Press and Mass Media of Altay region",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.105.235.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "NPPDNET",
   "description": "Nebraska Public Power District",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.132.206.0/24"
+    ],
     "ipv6": []
   }
 }

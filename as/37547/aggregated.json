@@ -3,7 +3,9 @@
   "handle": "ISPA-RW",
   "description": "ISPA Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "197.234.244.0/22"
+    ],
     "ipv6": []
   }
 }

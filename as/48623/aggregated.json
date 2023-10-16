@@ -3,7 +3,9 @@
   "handle": "CYDB",
   "description": "CYPRUS Development Bank Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "81.4.154.0/24"
+    ],
     "ipv6": []
   }
 }

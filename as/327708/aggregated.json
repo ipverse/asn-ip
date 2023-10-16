@@ -3,7 +3,9 @@
   "handle": "AIRTEL-RW",
   "description": "Airtel Rwanda Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "154.159.254.0/24"
+    ],
     "ipv6": []
   }
 }

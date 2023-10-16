@@ -3,7 +3,11 @@
   "handle": "RNL1",
   "description": "Rapid Networks (Pty) Ltd",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "102.216.72.0/22"
+    ],
+    "ipv6": [
+      "2c0f:4480::/32"
+    ]
   }
 }

@@ -3,7 +3,9 @@
   "handle": "OPEN-SYSTEM",
   "description": "OPEN SYSTEM LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "201.87.224.0/21"
+    ],
     "ipv6": []
   }
 }

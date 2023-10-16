@@ -3,7 +3,9 @@
   "handle": "TELECENTRUM",
   "description": "Elzbieta Joanna Nakiewicz trading as Telecentrum",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.179.56.0/23"
+    ],
     "ipv6": []
   }
 }

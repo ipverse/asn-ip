@@ -3,7 +3,9 @@
   "handle": "ISP-NET-ID",
   "description": "PT Internet Solusi Prima",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.118.184.0/22"
+    ],
     "ipv6": []
   }
 }

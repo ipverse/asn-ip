@@ -3,7 +3,9 @@
   "handle": "EBRANET-COMERCIO-SERVICOS",
   "description": "EBRANET COMERCIO E SERVICOS DE COMUNICACAO LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.181.20.0/22"
+    ],
     "ipv6": []
   }
 }

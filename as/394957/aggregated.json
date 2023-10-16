@@ -3,7 +3,11 @@
   "handle": "ZADARA-01",
   "description": "Zadara Storage, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.100.28.0/24",
+      "61.213.151.0/24",
+      "154.50.199.0/24"
+    ],
     "ipv6": []
   }
 }

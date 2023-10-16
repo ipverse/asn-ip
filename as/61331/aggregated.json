@@ -3,7 +3,11 @@
   "handle": "UNIGARANT",
   "description": "Unigarant NV",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "185.10.160.0/22"
+    ],
+    "ipv6": [
+      "2a03:65c0::/32"
+    ]
   }
 }

@@ -3,7 +3,10 @@
   "handle": "AUTOLOOP",
   "description": "AutoLoop",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "65.61.59.0/24",
+      "65.61.61.0/24"
+    ],
     "ipv6": []
   }
 }

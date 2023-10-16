@@ -3,7 +3,9 @@
   "handle": "ASMITEL",
   "description": "IP Yashutkin Andrei Vladimirovich",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "109.207.224.0/20"
+    ],
     "ipv6": []
   }
 }

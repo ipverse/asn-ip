@@ -3,7 +3,9 @@
   "handle": "SHVABE",
   "description": "JSC Shvabe",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "109.108.40.0/24"
+    ],
     "ipv6": []
   }
 }

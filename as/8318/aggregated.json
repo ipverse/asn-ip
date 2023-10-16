@@ -3,7 +3,9 @@
   "handle": "CMX",
   "description": "CEMEX ESPANA S.A.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "93.190.152.0/23"
+    ],
     "ipv6": []
   }
 }

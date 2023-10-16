@@ -3,7 +3,11 @@
   "handle": "NEXLOOP",
   "description": "Nexloop France SAS",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "176.100.45.0/24"
+    ],
+    "ipv6": [
+      "2a11:c780::/29"
+    ]
   }
 }

@@ -3,7 +3,9 @@
   "handle": "NY-DC",
   "description": "Luxoft USA Inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "8.11.228.0/24"
+    ],
     "ipv6": []
   }
 }

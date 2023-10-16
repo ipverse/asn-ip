@@ -3,7 +3,9 @@
   "handle": "ONE-WORLD-TELECOM",
   "description": "One World Telecom",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "69.165.0.0/20"
+    ],
     "ipv6": []
   }
 }

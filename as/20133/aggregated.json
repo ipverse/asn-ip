@@ -3,7 +3,9 @@
   "handle": "CASS-COL",
   "description": "CASS INFORMATION SYSTEMS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "12.109.109.0/24"
+    ],
     "ipv6": []
   }
 }

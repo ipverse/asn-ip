@@ -3,7 +3,11 @@
   "handle": "SOCOLO",
   "description": "Beulahland Communications, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "137.118.92.0/22",
+      "206.168.44.0/23",
+      "206.168.46.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "HOSTIT",
   "description": "HostIT Servers",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "139.60.4.0/22"
+    ],
     "ipv6": []
   }
 }

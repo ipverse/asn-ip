@@ -3,7 +3,9 @@
   "handle": "RADIO21",
   "description": "Regie Radio Music SRL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.33.154.0/24"
+    ],
     "ipv6": []
   }
 }

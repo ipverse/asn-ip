@@ -3,7 +3,10 @@
   "handle": "RRCC",
   "description": "Red River Computer Co., Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "168.151.18.0/23",
+      "207.8.241.0/24"
+    ],
     "ipv6": []
   }
 }

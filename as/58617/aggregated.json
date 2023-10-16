@@ -3,7 +3,9 @@
   "handle": "TPLTRAKKER-PK",
   "description": "TPL Trakker Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.9.23.0/24"
+    ],
     "ipv6": []
   }
 }

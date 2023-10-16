@@ -3,7 +3,9 @@
   "handle": "UBIMET",
   "description": "UBIMET GmbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "141.98.224.0/22"
+    ],
     "ipv6": []
   }
 }

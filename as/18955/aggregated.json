@@ -3,7 +3,9 @@
   "handle": "TWEA",
   "description": "Treasury Wine Estates Americas",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "204.137.26.0/24"
+    ],
     "ipv6": []
   }
 }

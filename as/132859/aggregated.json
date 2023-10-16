@@ -3,7 +3,9 @@
   "handle": "THEDC-AP",
   "description": "TheDC Pty Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.25.115.0/24"
+    ],
     "ipv6": []
   }
 }

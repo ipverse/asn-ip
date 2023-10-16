@@ -3,7 +3,9 @@
   "handle": "HACKENSACK-MERIDIAN-HEALTH",
   "description": "Meridian Health System",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "205.172.192.0/22"
+    ],
     "ipv6": []
   }
 }

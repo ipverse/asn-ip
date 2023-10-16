@@ -3,7 +3,9 @@
   "handle": "BGW",
   "description": "OAO AGC Bor Glass Works",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.46.208.0/24"
+    ],
     "ipv6": []
   }
 }

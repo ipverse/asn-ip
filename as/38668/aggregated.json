@@ -3,7 +3,9 @@
   "handle": "KONKUKHOSPITAL",
   "description": "Konkuk University Hospital",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "220.149.56.0/23"
+    ],
     "ipv6": []
   }
 }

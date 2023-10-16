@@ -3,7 +3,12 @@
   "handle": "FULL-TELECOM",
   "description": "Full Telecom",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.236.8.0/23",
+      "45.236.11.0/24"
+    ],
+    "ipv6": [
+      "2804:4db0::/34"
+    ]
   }
 }

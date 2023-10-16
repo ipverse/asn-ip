@@ -3,7 +3,9 @@
   "handle": "COMTEL-AP",
   "description": "COMTEL PTY. LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.158.232.0/23"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "SERVER-FAST-TELECOM",
   "description": "Server Fast Telecom",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "131.161.168.0/22"
+    ],
     "ipv6": []
   }
 }

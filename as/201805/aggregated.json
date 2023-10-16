@@ -3,7 +3,9 @@
   "handle": "SYKES",
   "description": "SYKES ENTERPRISES EASTERN EUROPE SRL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.126.244.0/24"
+    ],
     "ipv6": []
   }
 }

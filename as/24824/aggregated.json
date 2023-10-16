@@ -3,7 +3,12 @@
   "handle": "WEISS",
   "description": "Gebrueder-Weiss GmbH",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "185.44.48.0/22",
+      "194.107.0.0/20"
+    ],
+    "ipv6": [
+      "2a00:f720::/32"
+    ]
   }
 }

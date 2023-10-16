@@ -3,7 +3,9 @@
   "handle": "FISHMAN",
   "description": "FISHMAN CHAINS LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "147.234.25.0/24"
+    ],
     "ipv6": []
   }
 }

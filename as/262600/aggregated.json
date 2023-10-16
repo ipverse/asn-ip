@@ -3,7 +3,9 @@
   "handle": "ASE-TELECOMUNICAES",
   "description": "ASE TELECOMUNICAES LTDA ME",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "177.85.64.0/21"
+    ],
     "ipv6": []
   }
 }

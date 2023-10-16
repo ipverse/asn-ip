@@ -3,7 +3,9 @@
   "handle": "SANS",
   "description": "SANS DIJITAL VE INTERAKTIF HIZMETLER TEKNOLOJI YATIRIM ANONIM SIRKETI",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.33.96.0/24"
+    ],
     "ipv6": []
   }
 }

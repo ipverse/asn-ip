@@ -3,7 +3,11 @@
   "handle": "PORTRIX",
   "description": "portrix Systems GmbH",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "185.45.109.0/24"
+    ],
+    "ipv6": [
+      "2a02:22f0:10::/48"
+    ]
   }
 }

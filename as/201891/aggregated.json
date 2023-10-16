@@ -3,7 +3,9 @@
   "handle": "USP",
   "description": "United Security Providers AG",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.60.180.0/22"
+    ],
     "ipv6": []
   }
 }

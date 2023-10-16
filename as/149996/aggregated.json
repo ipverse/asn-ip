@@ -3,7 +3,9 @@
   "handle": "AWN-CIGNA-DCSITE-AP",
   "description": "Cigna Insurance PCL-The Nation",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "170.48.146.0/24"
+    ],
     "ipv6": []
   }
 }

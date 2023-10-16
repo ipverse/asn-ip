@@ -3,7 +3,9 @@
   "handle": "ESNET-WEST",
   "description": "ESnet",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "198.128.0.0/14"
+    ],
     "ipv6": []
   }
 }

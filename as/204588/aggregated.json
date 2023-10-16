@@ -3,7 +3,9 @@
   "handle": "PROTEGION",
   "description": "Protegion ehf.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.240.40.0/22"
+    ],
     "ipv6": []
   }
 }

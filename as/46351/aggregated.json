@@ -3,7 +3,9 @@
   "handle": "BBHSOLUTIONS",
   "description": "BBH Solutions Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "162.223.252.0/22"
+    ],
     "ipv6": []
   }
 }

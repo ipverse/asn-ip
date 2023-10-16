@@ -3,7 +3,9 @@
   "handle": "SLB-WESTERNGECO",
   "description": "Schlumberger Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.23.46.0/24"
+    ],
     "ipv6": []
   }
 }

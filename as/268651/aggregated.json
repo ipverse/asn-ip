@@ -3,7 +3,9 @@
   "handle": "VDS-NET",
   "description": "VDS NET",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.165.8.0/22"
+    ],
     "ipv6": []
   }
 }

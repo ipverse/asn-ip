@@ -3,7 +3,10 @@
   "handle": "MMK",
   "description": "Microfinance company Bystrodengi LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "176.213.128.0/24",
+      "194.84.196.0/24"
+    ],
     "ipv6": []
   }
 }

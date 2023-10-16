@@ -3,7 +3,9 @@
   "handle": "SEYONTIPL",
   "description": "SEYON TELE INFRA PRIVATE LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.189.56.0/23"
+    ],
     "ipv6": []
   }
 }

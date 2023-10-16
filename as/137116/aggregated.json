@@ -3,7 +3,9 @@
   "handle": "SHRIJUC-IN",
   "description": "Shriju Computer Center",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.110.244.0/23"
+    ],
     "ipv6": []
   }
 }

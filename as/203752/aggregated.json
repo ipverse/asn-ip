@@ -3,7 +3,11 @@
   "handle": "E-CAPS",
   "description": "E-CAPS D.O.O",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "185.125.60.0/22"
+    ],
+    "ipv6": [
+      "2a03:94a0::/32"
+    ]
   }
 }

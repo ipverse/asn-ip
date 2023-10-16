@@ -3,7 +3,10 @@
   "handle": "CUP",
   "description": "Catholic University of Pusan",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "203.232.208.0/21",
+      "210.93.62.0/23"
+    ],
     "ipv6": []
   }
 }

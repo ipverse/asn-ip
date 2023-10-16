@@ -3,7 +3,9 @@
   "handle": "SISTERLAKESCABLE",
   "description": "Sister Lakes Cable",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "154.27.224.0/19"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "CENTRAL-SERVICIOS-DIGITALES",
   "description": "CENTRAL DE SERVICIOS DIGITALES S.A.S.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "189.85.40.0/22"
+    ],
     "ipv6": []
   }
 }

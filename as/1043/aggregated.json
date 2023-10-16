@@ -3,7 +3,10 @@
   "handle": "KSP-REG-1",
   "description": "KSP Technology",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "64.203.75.0/24",
+      "207.47.148.0/24"
+    ],
     "ipv6": []
   }
 }

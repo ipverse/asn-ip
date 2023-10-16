@@ -3,7 +3,9 @@
   "handle": "NETIN",
   "description": "Netdirekt A.S.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.80.72.0/22"
+    ],
     "ipv6": []
   }
 }

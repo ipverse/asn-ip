@@ -3,7 +3,9 @@
   "handle": "GMS-ASN-01",
   "description": "GENERAL MARKETING SOLUTIONS LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "50.228.33.0/24"
+    ],
     "ipv6": []
   }
 }

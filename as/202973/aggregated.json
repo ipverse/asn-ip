@@ -3,7 +3,9 @@
   "handle": "PARTNER-LLC",
   "description": "Partner LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.50.153.0/24"
+    ],
     "ipv6": []
   }
 }

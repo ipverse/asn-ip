@@ -3,7 +3,9 @@
   "handle": "INGLOBUS",
   "description": "Roman Kowalski trading as Inglobus",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.144.172.0/23"
+    ],
     "ipv6": []
   }
 }

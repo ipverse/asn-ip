@@ -3,7 +3,9 @@
   "handle": "LINECARRIER",
   "description": "Line Carrier Oy",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.66.192.0/22"
+    ],
     "ipv6": []
   }
 }

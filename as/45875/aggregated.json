@@ -3,7 +3,9 @@
   "handle": "ARTGS-AP",
   "description": "ART Group Services Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "203.176.152.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,11 @@
   "handle": "ASGLWD1",
   "description": "Gemeente Leeuwarden",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "145.87.0.0/22"
+    ],
+    "ipv6": [
+      "2a07:3500:12c0::/48"
+    ]
   }
 }

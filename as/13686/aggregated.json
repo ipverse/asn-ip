@@ -3,7 +3,9 @@
   "handle": "BARCLAYS-CENTER",
   "description": "AEG",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.201.242.0/24"
+    ],
     "ipv6": []
   }
 }

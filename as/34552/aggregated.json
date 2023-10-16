@@ -3,7 +3,10 @@
   "handle": "TKURAL",
   "description": "PJSC MegaFon",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "78.109.112.0/20",
+      "80.75.80.0/20"
+    ],
     "ipv6": []
   }
 }

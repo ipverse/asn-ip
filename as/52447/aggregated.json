@@ -3,7 +3,10 @@
   "handle": "COOPERATIVA-TELEFONICA-OTROS",
   "description": "Cooperativa Telefonica y Otros Servicios de Santa Clara del Mar Limitada Cootelser Ltda.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "170.80.172.0/22",
+      "190.124.168.0/21"
+    ],
     "ipv6": []
   }
 }

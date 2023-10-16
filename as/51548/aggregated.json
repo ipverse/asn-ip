@@ -3,7 +3,9 @@
   "handle": "DOLPHNET",
   "description": "Dhanvantari Telecom",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.13.96.0/22"
+    ],
     "ipv6": []
   }
 }

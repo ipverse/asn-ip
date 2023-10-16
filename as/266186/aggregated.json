@@ -3,7 +3,9 @@
   "handle": "ELEANDRO-LUIZ-SAMPAIO",
   "description": "Eleandro Luiz Sampaio",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.6.84.0/22"
+    ],
     "ipv6": []
   }
 }

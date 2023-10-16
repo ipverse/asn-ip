@@ -3,7 +3,9 @@
   "handle": "DRWEB",
   "description": "Doctor Web LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.88.252.0/23"
+    ],
     "ipv6": []
   }
 }

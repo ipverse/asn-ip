@@ -3,7 +3,11 @@
   "handle": "DENIC",
   "description": "DENIC eG",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "81.91.160.0/20"
+    ],
+    "ipv6": [
+      "2a02:568::/32"
+    ]
   }
 }

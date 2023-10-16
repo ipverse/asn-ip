@@ -3,7 +3,10 @@
   "handle": "MGE",
   "description": "Mangas Gambling Engineering SARL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.37.250.0/23",
+      "194.39.78.0/23"
+    ],
     "ipv6": []
   }
 }

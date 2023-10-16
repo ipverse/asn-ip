@@ -3,7 +3,9 @@
   "handle": "CARGOPLANET",
   "description": "Cargo Planet Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.217.148.0/24"
+    ],
     "ipv6": []
   }
 }

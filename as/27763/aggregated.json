@@ -3,7 +3,9 @@
   "handle": "ANDITEL",
   "description": "ANDITEL S.A.S.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "200.25.224.0/19"
+    ],
     "ipv6": []
   }
 }

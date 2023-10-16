@@ -3,7 +3,11 @@
   "handle": "PLANISWARE-AP",
   "description": "Planisware Singapore Pte. Ltd",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "103.68.139.0/24"
+    ],
+    "ipv6": [
+      "2400:b4a0::/32"
+    ]
   }
 }

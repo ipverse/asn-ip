@@ -3,7 +3,9 @@
   "handle": "BESTHOLDING",
   "description": "LLC Vnesheconomprod",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.247.222.0/23"
+    ],
     "ipv6": []
   }
 }

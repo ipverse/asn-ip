@@ -3,7 +3,10 @@
   "handle": "ASL-338-HK",
   "description": "Access Solutions Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "180.149.252.0/22",
+      "182.239.48.0/20"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "LEC-COMMUNICATIONS",
   "description": "LEC Communications (Pty) Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "102.36.240.0/22"
+    ],
     "ipv6": []
   }
 }

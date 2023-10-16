@@ -3,7 +3,13 @@
   "handle": "NEDCOMP",
   "description": "Nedcomp Hosting B.V.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "83.136.16.0/21",
+      "193.29.248.0/23",
+      "193.30.6.0/23"
+    ],
+    "ipv6": [
+      "2a03:7000::/32"
+    ]
   }
 }

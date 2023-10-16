@@ -3,7 +3,10 @@
   "handle": "PMC",
   "description": "Presbyterian Medical Center",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "59.1.92.0/24",
+      "125.139.16.0/24"
+    ],
     "ipv6": []
   }
 }

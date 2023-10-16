@@ -3,7 +3,11 @@
   "handle": "TELECOMUNICACOES-JUPI",
   "description": "TELECOMUNICACOES JUPI LTDA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.171.16.0/22"
+    ],
+    "ipv6": [
+      "2804:5948::/32"
+    ]
   }
 }

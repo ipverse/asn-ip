@@ -3,7 +3,10 @@
   "handle": "DTASN",
   "description": "Direct Transact (Pty) Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "102.223.4.0/24",
+      "196.43.209.0/24"
+    ],
     "ipv6": []
   }
 }

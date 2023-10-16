@@ -3,7 +3,9 @@
   "handle": "INTERLINK",
   "description": "Interlink Comunicatii SRL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "109.248.219.0/24"
+    ],
     "ipv6": []
   }
 }

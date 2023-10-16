@@ -3,7 +3,9 @@
   "handle": "GBHSD",
   "description": "Glenbrook High School District",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "198.17.110.0/23"
+    ],
     "ipv6": []
   }
 }

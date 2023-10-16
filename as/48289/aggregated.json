@@ -3,7 +3,10 @@
   "handle": "DSA",
   "description": "Dadeh Pardazan Sabz Alborz Co.(P.J.S.)",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "5.22.192.0/21",
+      "5.22.200.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,11 @@
   "handle": "G9-TELECOM-BRASIL-SPE",
   "description": "G9 Telecom Brasil SPE LTDA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "160.238.164.0/22"
+    ],
+    "ipv6": [
+      "2804:3d9c::/32"
+    ]
   }
 }

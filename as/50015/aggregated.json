@@ -3,7 +3,9 @@
   "handle": "HOLINET",
   "description": "Aleksandr Butenko",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.78.104.0/23"
+    ],
     "ipv6": []
   }
 }

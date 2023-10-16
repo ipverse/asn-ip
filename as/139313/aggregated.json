@@ -3,7 +3,9 @@
   "handle": "AYCAP-AP",
   "description": "AYUDHYA CAPITAL SERVICES COMPANY LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.141.26.0/23"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "THENATIONALBANKOFTHEKYRGYZREPUBLICAS",
   "description": "The National Bank of the Kyrgyz Republic",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "37.18.36.0/24"
+    ],
     "ipv6": []
   }
 }

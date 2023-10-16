@@ -3,7 +3,9 @@
   "handle": "BAIDUJP",
   "description": "BAIDUJP",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "119.63.192.0/21"
+    ],
     "ipv6": []
   }
 }

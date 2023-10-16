@@ -3,7 +3,9 @@
   "handle": "MTVH",
   "description": "THAMES VALLEY HOUSING ASSOCIATION LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "87.237.164.0/24"
+    ],
     "ipv6": []
   }
 }

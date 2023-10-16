@@ -3,7 +3,9 @@
   "handle": "CHICAGO-METALLIC",
   "description": "Rockwool Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.50.62.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "ALUKOENIG",
   "description": "Alu Koenig Stahl GmbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "212.183.27.0/24"
+    ],
     "ipv6": []
   }
 }

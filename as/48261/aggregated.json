@@ -4,6 +4,9 @@
   "description": "socialimprove LLC",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a12:4b40::/29",
+      "2a13:c400::/29"
+    ]
   }
 }

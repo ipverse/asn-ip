@@ -3,7 +3,9 @@
   "handle": "ADVANTIS-CREDIT-UNION",
   "description": "Advantis Credit Union",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "209.210.23.0/24"
+    ],
     "ipv6": []
   }
 }

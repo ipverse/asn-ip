@@ -3,7 +3,9 @@
   "handle": "MIASTO-KOSZALIN",
   "description": "Gmina Miasto Koszalin",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "176.97.16.0/21"
+    ],
     "ipv6": []
   }
 }

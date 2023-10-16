@@ -3,7 +3,9 @@
   "handle": "WEBRING-INTERNET-SOLUTIONS",
   "description": "Katarzyna Bednarek WEBRING-INTERNET-SOLUTIONS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "188.241.29.0/24"
+    ],
     "ipv6": []
   }
 }

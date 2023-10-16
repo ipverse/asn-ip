@@ -3,7 +3,9 @@
   "handle": "NETWORKED2",
   "description": "Networked Creativity LLP",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.195.62.0/23"
+    ],
     "ipv6": []
   }
 }

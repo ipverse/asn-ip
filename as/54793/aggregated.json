@@ -3,7 +3,9 @@
   "handle": "WLC-EXTON",
   "description": "White Label Communications LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "162.252.251.0/24"
+    ],
     "ipv6": []
   }
 }

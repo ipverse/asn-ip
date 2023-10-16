@@ -3,7 +3,11 @@
   "handle": "MAXIDEA",
   "description": "Onorato Massimiliano trading as MAXIDEA SAS",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.66.144.0/22"
+    ],
+    "ipv6": [
+      "2a10:7c40::/29"
+    ]
   }
 }

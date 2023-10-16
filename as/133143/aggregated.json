@@ -3,7 +3,9 @@
   "handle": "MHS-AP",
   "description": "Medihost Solutions Pty Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.243.91.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,10 @@
   "handle": "BALTIMORECOUNTYGOVERNMENT",
   "description": "Baltimore County Government",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "167.102.138.0/24",
+      "204.145.181.0/24"
+    ],
     "ipv6": []
   }
 }

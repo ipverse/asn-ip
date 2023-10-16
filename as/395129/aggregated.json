@@ -3,7 +3,10 @@
   "handle": "UNITED-FIBER",
   "description": "United Electric Cooperative",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "108.59.204.0/23",
+      "206.190.192.0/20"
+    ],
     "ipv6": []
   }
 }

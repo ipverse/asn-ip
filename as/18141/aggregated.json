@@ -3,7 +3,9 @@
   "handle": "HBA",
   "description": "HBA Corporation",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "219.109.32.0/20"
+    ],
     "ipv6": []
   }
 }

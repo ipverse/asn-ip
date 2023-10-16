@@ -3,7 +3,9 @@
   "handle": "SCHWABE-NORTH-AMERICA-01",
   "description": "Nature\u0027s Way",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "98.100.235.0/24"
+    ],
     "ipv6": []
   }
 }

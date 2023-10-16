@@ -3,7 +3,9 @@
   "handle": "FTSC-HQ",
   "description": "Fulcrum Technology Solutions, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.52.158.0/24"
+    ],
     "ipv6": []
   }
 }

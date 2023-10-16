@@ -3,7 +3,9 @@
   "handle": "CO-OPERATIVE-GROUP",
   "description": "Co-operative Group Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.28.124.0/22"
+    ],
     "ipv6": []
   }
 }

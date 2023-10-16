@@ -3,7 +3,11 @@
   "handle": "SILVESTRE-EVANGELISTA-ALVES",
   "description": "SILVESTRE EVANGELISTA ALVES ME",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.233.24.0/22"
+    ],
+    "ipv6": [
+      "2804:4b54::/32"
+    ]
   }
 }

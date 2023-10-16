@@ -3,7 +3,10 @@
   "handle": "ROPARDO",
   "description": "ROPARDO SRL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "89.39.88.0/24",
+      "193.104.180.0/24"
+    ],
     "ipv6": []
   }
 }

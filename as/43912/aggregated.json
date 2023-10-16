@@ -3,7 +3,9 @@
   "handle": "OVECHKIN",
   "description": "Ovechkin Anton Gennadievich PE",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.207.4.0/24"
+    ],
     "ipv6": []
   }
 }

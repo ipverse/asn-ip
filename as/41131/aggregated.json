@@ -3,7 +3,9 @@
   "handle": "LUXTEN",
   "description": "Luxten Lighting Company SA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.245.208.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "TLS-VN",
   "description": "MB securities joint stock company",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "202.37.86.0/23"
+    ],
     "ipv6": []
   }
 }

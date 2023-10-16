@@ -3,7 +3,9 @@
   "handle": "MF-TELECOMUNICAO-EIRELI",
   "description": "MF Telecomunicao Eireli - ME",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "168.194.8.0/22"
+    ],
     "ipv6": []
   }
 }

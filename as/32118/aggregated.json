@@ -3,7 +3,9 @@
   "handle": "SMARTHEALTH",
   "description": "Smart Practice",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "65.121.92.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "ROSNEFT-RN",
   "description": "JSC RN Rostovnefteprodukt",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.232.184.0/24"
+    ],
     "ipv6": []
   }
 }

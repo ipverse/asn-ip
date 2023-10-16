@@ -3,7 +3,9 @@
   "handle": "MOKK",
   "description": "Magyar Orszagos Kozjegyzoi Kamara",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.216.150.0/24"
+    ],
     "ipv6": []
   }
 }

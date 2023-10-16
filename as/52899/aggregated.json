@@ -3,7 +3,9 @@
   "handle": "FLIX-TELECOM",
   "description": "FLIX TELECOM",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "186.251.124.0/22"
+    ],
     "ipv6": []
   }
 }

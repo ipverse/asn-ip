@@ -3,7 +3,9 @@
   "handle": "SUCCESSION-SYSTEMS-01",
   "description": "Succession Systems LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "208.103.157.0/24"
+    ],
     "ipv6": []
   }
 }

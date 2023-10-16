@@ -3,7 +3,9 @@
   "handle": "PROVECOM-TELECOMUNICACOES",
   "description": "Provecom Telecomunicacoes Ltda",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.238.120.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,10 @@
   "handle": "KAPALVAEDING",
   "description": "Kapalvaeding ehf.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.86.220.0/22",
+      "213.181.126.0/23"
+    ],
     "ipv6": []
   }
 }

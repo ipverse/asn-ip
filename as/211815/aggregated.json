@@ -3,7 +3,9 @@
   "handle": "LANDSVIRKJUN",
   "description": "Landsvirkjun",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.236.130.0/24"
+    ],
     "ipv6": []
   }
 }

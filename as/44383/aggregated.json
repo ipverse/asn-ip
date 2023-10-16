@@ -3,7 +3,9 @@
   "handle": "KMR-UA",
   "description": "KP CIC Kharkov",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.201.180.0/22"
+    ],
     "ipv6": []
   }
 }

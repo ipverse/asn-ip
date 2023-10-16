@@ -3,7 +3,9 @@
   "handle": "IPVOIP",
   "description": "IPVOIP s.r.o.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.104.17.0/24"
+    ],
     "ipv6": []
   }
 }

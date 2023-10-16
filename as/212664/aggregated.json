@@ -3,7 +3,9 @@
   "handle": "PORI-ENERGIA",
   "description": "Pori Energia Oy",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.157.104.0/22"
+    ],
     "ipv6": []
   }
 }

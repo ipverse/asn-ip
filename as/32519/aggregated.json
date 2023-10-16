@@ -4,6 +4,10 @@
   "description": "DMIT Cloud Services",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2404:8840::/32",
+      "2605:52c0:4000::/48",
+      "2a07:aec0::/29"
+    ]
   }
 }

@@ -3,7 +3,9 @@
   "handle": "LOGIX",
   "description": "Logix Telecom LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.88.138.0/23"
+    ],
     "ipv6": []
   }
 }

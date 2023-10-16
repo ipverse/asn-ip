@@ -3,7 +3,9 @@
   "handle": "CONECT-INTERNET-PROVIDER",
   "description": "CONECT INTERNET PROVIDER LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.233.8.0/22"
+    ],
     "ipv6": []
   }
 }

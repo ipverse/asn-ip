@@ -3,7 +3,9 @@
   "handle": "NORDESTE-TELECOMUNICACOES-PORTAIS",
   "description": "NORDESTE TELECOMUNICACOES E PORTAIS DE PROVEDORES",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.168.0.0/22"
+    ],
     "ipv6": []
   }
 }

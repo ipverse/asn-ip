@@ -3,7 +3,9 @@
   "handle": "CALEDON-11672",
   "description": "Caledon Card Services",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.154.13.0/24"
+    ],
     "ipv6": []
   }
 }

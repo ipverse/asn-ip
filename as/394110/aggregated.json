@@ -3,7 +3,9 @@
   "handle": "BNFP",
   "description": "Jaguar Land Rover Manhattan",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.156.157.0/24"
+    ],
     "ipv6": []
   }
 }

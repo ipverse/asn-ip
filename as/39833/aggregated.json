@@ -3,7 +3,9 @@
   "handle": "ROTHERHAM",
   "description": "ROTHERHAM Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.170.166.0/24"
+    ],
     "ipv6": []
   }
 }

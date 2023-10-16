@@ -3,7 +3,10 @@
   "handle": "CHARTWAY-FCU",
   "description": "Chartway Federal Credit Union",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "8.33.35.0/24",
+      "216.54.53.0/24"
+    ],
     "ipv6": []
   }
 }

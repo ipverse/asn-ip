@@ -3,7 +3,10 @@
   "handle": "JLR",
   "description": "JAGUAR LAND ROVER AUTOMOTIVE PLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.193.32.0/24",
+      "185.193.35.0/24"
+    ],
     "ipv6": []
   }
 }

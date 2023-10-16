@@ -3,7 +3,9 @@
   "handle": "HILANLTD",
   "description": "HILAN LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "147.234.21.0/24"
+    ],
     "ipv6": []
   }
 }

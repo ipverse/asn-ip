@@ -3,7 +3,11 @@
   "handle": "S3-NET-SOLUES",
   "description": "S3 Net Solues Inteligentes Ltda",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "179.0.48.0/22"
+    ],
+    "ipv6": [
+      "2804:7b2c::/32"
+    ]
   }
 }

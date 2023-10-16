@@ -3,7 +3,11 @@
   "handle": "INFOPLUS",
   "description": "INFOPLUS S.C.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.203.52.0/22",
+      "91.227.56.0/22",
+      "195.225.76.0/22"
+    ],
     "ipv6": []
   }
 }

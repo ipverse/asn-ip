@@ -3,7 +3,9 @@
   "handle": "HANSON-BRIDGETT-LLP",
   "description": "Hanson Bridgett LLP",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.114.154.0/24"
+    ],
     "ipv6": []
   }
 }

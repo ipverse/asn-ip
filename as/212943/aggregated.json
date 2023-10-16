@@ -3,7 +3,12 @@
   "handle": "SYSTEC",
   "description": "Systec Computer GmbH",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "185.112.216.0/22",
+      "185.215.80.0/22"
+    ],
+    "ipv6": [
+      "2a0b:a740::/32"
+    ]
   }
 }

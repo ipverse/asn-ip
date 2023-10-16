@@ -3,7 +3,9 @@
   "handle": "FIDELITY",
   "description": "Fidelity Bank Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "196.40.144.0/20"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "EV-CLOUD",
   "description": "Veritas Technologies LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.30.225.0/24"
+    ],
     "ipv6": []
   }
 }

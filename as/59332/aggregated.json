@@ -3,7 +3,11 @@
   "handle": "MYNETLIMITED-BD",
   "description": "Mynet",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "103.228.0.0/22"
+    ],
+    "ipv6": [
+      "2400:dc80::/32"
+    ]
   }
 }

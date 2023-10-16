@@ -3,7 +3,9 @@
   "handle": "STPI-TW",
   "description": "National Applied Research Laboratories",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "203.145.192.0/21"
+    ],
     "ipv6": []
   }
 }

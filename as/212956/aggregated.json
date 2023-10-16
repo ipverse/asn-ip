@@ -3,7 +3,9 @@
   "handle": "CINEDIGITAL",
   "description": "Hryb Valentin Oleksandrovych PE",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "46.229.63.0/24"
+    ],
     "ipv6": []
   }
 }

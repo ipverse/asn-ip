@@ -3,7 +3,9 @@
   "handle": "BCAGGREGATION",
   "description": "IP Nikonova Anna Viktorovna",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.133.3.0/24"
+    ],
     "ipv6": []
   }
 }

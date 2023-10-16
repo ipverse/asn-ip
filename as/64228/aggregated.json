@@ -3,7 +3,9 @@
   "handle": "ONEIT",
   "description": "OneIT, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "69.1.148.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,11 @@
   "handle": "BRDRIVE-TECNOLOGIA",
   "description": "BRDrive Tecnologia Ltda",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.163.12.0/22"
+    ],
+    "ipv6": [
+      "2804:5384::/32"
+    ]
   }
 }

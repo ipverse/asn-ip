@@ -3,7 +3,9 @@
   "handle": "COPA-AIRLINES",
   "description": "Copa Airlines",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "200.46.240.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,11 @@
   "handle": "RCSANTOS-SERVICOS-TELECOMINICAOES",
   "description": "RCSANTOS SERVICOS DE TELECOMINICAOES E",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.239.220.0/22"
+    ],
+    "ipv6": [
+      "2804:5058::/34"
+    ]
   }
 }

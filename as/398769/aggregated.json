@@ -3,7 +3,9 @@
   "handle": "GEORGIA-MILITARY-COLLEGE",
   "description": "Georgia Military College",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "207.90.240.0/24"
+    ],
     "ipv6": []
   }
 }

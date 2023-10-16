@@ -3,7 +3,9 @@
   "handle": "LOAPL-AP",
   "description": "Laing O\u0027Rourke Australia Pty Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.211.142.0/24"
+    ],
     "ipv6": []
   }
 }

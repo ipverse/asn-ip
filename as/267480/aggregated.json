@@ -3,7 +3,11 @@
   "handle": "XTREME-SOLUOES",
   "description": "XTREME SOLUOES",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "192.141.220.0/22"
+    ],
+    "ipv6": [
+      "2804:4224::/32"
+    ]
   }
 }

@@ -3,7 +3,9 @@
   "handle": "SYNCNET-TELECOM",
   "description": "SYNCNET TELECOM",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.187.240.0/22"
+    ],
     "ipv6": []
   }
 }

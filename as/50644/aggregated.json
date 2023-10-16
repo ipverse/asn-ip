@@ -3,7 +3,9 @@
   "handle": "TPS-TTC",
   "description": "Topcon Positioning Systems LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.232.110.0/24"
+    ],
     "ipv6": []
   }
 }

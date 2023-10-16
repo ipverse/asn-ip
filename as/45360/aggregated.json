@@ -3,7 +3,9 @@
   "handle": "SSYC",
   "description": "SSANGYONG CEMENT INDUSTRY CO.,LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "221.149.230.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "TBI-ASN-3",
   "description": "TrueBlue, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "204.8.246.0/23"
+    ],
     "ipv6": []
   }
 }

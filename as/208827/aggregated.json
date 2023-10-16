@@ -3,7 +3,9 @@
   "handle": "KGKUCIT",
   "description": "CryptoCentre LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.82.224.0/22"
+    ],
     "ipv6": []
   }
 }

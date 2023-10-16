@@ -4,6 +4,8 @@
   "description": "ISIT Group",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2606:c5c0::/48"
+    ]
   }
 }

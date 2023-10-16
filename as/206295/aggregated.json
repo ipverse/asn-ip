@@ -3,7 +3,9 @@
   "handle": "MEDSIGROUP",
   "description": "Joint Stock Company Medsi group",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.190.120.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "SCALEPOINT",
   "description": "Scalepoint Technologies Denmark A/S",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.114.44.0/22"
+    ],
     "ipv6": []
   }
 }

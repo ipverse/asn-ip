@@ -3,7 +3,11 @@
   "handle": "EMITEL-EMPRESA-INFORMATICA",
   "description": "EMITEL - Empresa de Informatica e Telecom. LTDA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "138.59.220.0/22"
+    ],
+    "ipv6": [
+      "2804:22dc::/32"
+    ]
   }
 }

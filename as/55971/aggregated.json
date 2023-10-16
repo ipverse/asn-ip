@@ -3,7 +3,9 @@
   "handle": "CASS-NET",
   "description": "Chinese Academy of Social Sciences",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.247.176.0/22"
+    ],
     "ipv6": []
   }
 }

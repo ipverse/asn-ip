@@ -3,7 +3,11 @@
   "handle": "BANRISUL-BANCO-RIO-GRANDE-SUL",
   "description": "Banrisul - Banco do Estado do Rio Grande do Sul",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "201.55.240.0/20"
+    ],
+    "ipv6": [
+      "2801:80:280::/48"
+    ]
   }
 }

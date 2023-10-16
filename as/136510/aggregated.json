@@ -3,7 +3,9 @@
   "handle": "STREAMLINESERVERS-AP",
   "description": "Streamline Servers Pty Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "206.148.22.0/24"
+    ],
     "ipv6": []
   }
 }

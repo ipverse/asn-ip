@@ -3,7 +3,10 @@
   "handle": "TYVASVIAZINFORM",
   "description": "Joint Stock Company Tyvasviazinform",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "94.230.240.0/20",
+      "185.193.196.0/22"
+    ],
     "ipv6": []
   }
 }

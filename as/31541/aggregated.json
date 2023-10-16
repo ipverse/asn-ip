@@ -3,7 +3,9 @@
   "handle": "DIGITURK",
   "description": "Krea Icerik Hizmetleri ve Produksiyon A.S",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "212.252.204.0/22"
+    ],
     "ipv6": []
   }
 }

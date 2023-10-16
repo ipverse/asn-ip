@@ -3,7 +3,9 @@
   "handle": "GNT-MD",
   "description": "GLOBAL NETWORK TECHNOLOGY SRL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "109.205.191.0/24"
+    ],
     "ipv6": []
   }
 }

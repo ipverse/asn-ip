@@ -3,7 +3,9 @@
   "handle": "WINNERS-INCORPORATED",
   "description": "Winners Incorporated",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "102.22.224.0/21"
+    ],
     "ipv6": []
   }
 }

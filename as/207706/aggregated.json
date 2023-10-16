@@ -3,7 +3,9 @@
   "handle": "FISCHERDE",
   "description": "Hans-Peter Fischer trading as Fischer group SE \u0026 Co. KG",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "94.154.7.0/24"
+    ],
     "ipv6": []
   }
 }

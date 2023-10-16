@@ -3,7 +3,12 @@
   "handle": "VIABOL-TELECOM",
   "description": "VIABOL TELECOM LTDA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "177.129.164.0/22",
+      "186.236.48.0/20"
+    ],
+    "ipv6": [
+      "2804:240::/32"
+    ]
   }
 }

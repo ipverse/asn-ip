@@ -3,7 +3,11 @@
   "handle": "ENDLAYER",
   "description": "EndLayer, LLC",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "192.149.55.0/24"
+    ],
+    "ipv6": [
+      "2620:cb:c000::/48"
+    ]
   }
 }

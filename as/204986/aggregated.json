@@ -3,7 +3,9 @@
   "handle": "SPARKTEL",
   "description": "Sparktel LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.233.180.0/22"
+    ],
     "ipv6": []
   }
 }

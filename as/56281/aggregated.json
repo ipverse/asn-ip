@@ -3,7 +3,9 @@
   "handle": "PENDAL-AP",
   "description": "Pendal Group Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.29.43.0/24"
+    ],
     "ipv6": []
   }
 }

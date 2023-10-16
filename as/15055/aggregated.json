@@ -3,7 +3,9 @@
   "handle": "YOURCOLO-ASN-1",
   "description": "YourColo LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "69.4.240.0/20"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,12 @@
   "handle": "DUOCASTBACKUP",
   "description": "Duocast B.V.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "185.80.247.0/24",
+      "194.50.96.0/24"
+    ],
+    "ipv6": [
+      "2a01:1b1::/32"
+    ]
   }
 }

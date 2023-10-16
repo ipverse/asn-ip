@@ -3,7 +3,10 @@
   "handle": "SMUMN",
   "description": "Saint Marys University of Minnesota",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "140.190.120.0/21",
+      "140.190.248.0/21"
+    ],
     "ipv6": []
   }
 }

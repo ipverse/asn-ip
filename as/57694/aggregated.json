@@ -3,7 +3,10 @@
   "handle": "HARDIS",
   "description": "HARDIS GROUPE SAS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "31.172.239.0/24",
+      "91.229.95.0/24"
+    ],
     "ipv6": []
   }
 }

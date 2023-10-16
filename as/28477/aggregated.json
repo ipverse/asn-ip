@@ -3,7 +3,9 @@
   "handle": "UNIVERSIDAD-AUTONOMA-MORELOS",
   "description": "UNIVERSIDAD AUTONOMA DEL ESTADO DE MORELOS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "148.218.0.0/16"
+    ],
     "ipv6": []
   }
 }

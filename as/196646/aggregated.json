@@ -3,7 +3,9 @@
   "handle": "DATUM",
   "description": "Datum Datacentres Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "5.11.88.0/21"
+    ],
     "ipv6": []
   }
 }

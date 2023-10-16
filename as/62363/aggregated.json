@@ -3,7 +3,12 @@
   "handle": "EGW",
   "description": "Ertl \u0026 Gross GmbH \u0026 Co OG",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "185.38.168.0/22",
+      "193.104.55.0/24"
+    ],
+    "ipv6": [
+      "2a01:4120::/32"
+    ]
   }
 }

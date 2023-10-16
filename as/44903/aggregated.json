@@ -3,7 +3,9 @@
   "handle": "ASTEAMU",
   "description": "Teamo.ru LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "213.109.79.0/24"
+    ],
     "ipv6": []
   }
 }

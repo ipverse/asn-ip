@@ -3,7 +3,9 @@
   "handle": "IDBANK",
   "description": "ID Bank CJSC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.57.28.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,11 @@
   "handle": "AFOYI-AP",
   "description": "AFOYI",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "103.127.120.0/22"
+    ],
+    "ipv6": [
+      "2404:1fc0::/32"
+    ]
   }
 }

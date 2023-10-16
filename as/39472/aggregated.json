@@ -3,7 +3,9 @@
   "handle": "ARION-BANKI",
   "description": "Arion Banki hf",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "88.151.48.0/21"
+    ],
     "ipv6": []
   }
 }

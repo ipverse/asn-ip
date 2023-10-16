@@ -3,7 +3,11 @@
   "handle": "QUANTUMUK",
   "description": "Quantum Communications Ltd",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "185.106.134.0/24"
+    ],
+    "ipv6": [
+      "2a10:1680::/32"
+    ]
   }
 }

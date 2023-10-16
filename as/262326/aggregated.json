@@ -3,7 +3,9 @@
   "handle": "DWMC-PROVEDOR-INTERNET",
   "description": "DWMC PROVEDOR DE INTERNET LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "200.5.32.0/22"
+    ],
     "ipv6": []
   }
 }

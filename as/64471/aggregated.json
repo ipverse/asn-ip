@@ -3,7 +3,9 @@
   "handle": "ABC-ASIGURARI",
   "description": "ABC ASIGURARI REASIGURARI SA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "89.44.83.0/24"
+    ],
     "ipv6": []
   }
 }

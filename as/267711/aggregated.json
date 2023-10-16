@@ -3,7 +3,9 @@
   "handle": "ZENET-WISP",
   "description": "ZE.NET WISP SRL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.227.216.0/22"
+    ],
     "ipv6": []
   }
 }

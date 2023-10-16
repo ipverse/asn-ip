@@ -3,7 +3,11 @@
   "handle": "SMC-INFORMATICA-TELECOMUNICAES",
   "description": "smc informatica telecomunicaes eireli-me",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.187.164.0/22"
+    ],
+    "ipv6": [
+      "2804:6630::/32"
+    ]
   }
 }

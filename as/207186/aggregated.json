@@ -3,7 +3,12 @@
   "handle": "LT-RDNS",
   "description": "Kauno Technologijos Universitetas",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "91.207.154.0/23"
+    ],
+    "ipv6": [
+      "2001:67c:980::/48",
+      "2001:67c:984::/48"
+    ]
   }
 }

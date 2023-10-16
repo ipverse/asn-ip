@@ -3,7 +3,9 @@
   "handle": "DATAWAY",
   "description": "Dataway",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "64.28.239.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "ATLANTIQUE-TELECOM-TG",
   "description": "ATLANTIQUE TELECOM TOGO",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "41.78.136.0/22"
+    ],
     "ipv6": []
   }
 }

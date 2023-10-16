@@ -3,7 +3,9 @@
   "handle": "NSOMED",
   "description": "GBUZ NSO SSMP",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "62.76.158.0/24"
+    ],
     "ipv6": []
   }
 }

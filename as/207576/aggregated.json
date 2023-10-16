@@ -4,6 +4,8 @@
   "description": "KOVO - PLAZMA s.r.o.",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2001:67c:2d38::/48"
+    ]
   }
 }

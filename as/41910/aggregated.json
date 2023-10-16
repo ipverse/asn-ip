@@ -3,7 +3,9 @@
   "handle": "GELIOS",
   "description": "Sole proprietor Lukianenko Viacheslav Ivanovych",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.33.188.0/24"
+    ],
     "ipv6": []
   }
 }

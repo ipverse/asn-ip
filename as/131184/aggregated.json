@@ -3,7 +3,9 @@
   "handle": "FSHL",
   "description": "Fountain Set (Holdings) Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "202.43.83.0/24"
+    ],
     "ipv6": []
   }
 }

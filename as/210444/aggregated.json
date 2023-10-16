@@ -3,7 +3,9 @@
   "handle": "TVH",
   "description": "TVH Parts Holding NV",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.9.90.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "GWLNET",
   "description": "Great-West Life Assurance Company",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "143.199.0.0/16"
+    ],
     "ipv6": []
   }
 }

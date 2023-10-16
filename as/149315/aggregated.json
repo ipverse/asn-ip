@@ -3,7 +3,10 @@
   "handle": "SOLNET-ID",
   "description": "PT Solnet Indonesia",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.184.16.0/24",
+      "103.186.168.0/23"
+    ],
     "ipv6": []
   }
 }

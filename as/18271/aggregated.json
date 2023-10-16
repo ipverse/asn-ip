@@ -3,7 +3,10 @@
   "handle": "EVONET",
   "description": "Nissho Electronics Corporation",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "165.14.0.0/16",
+      "219.124.112.0/20"
+    ],
     "ipv6": []
   }
 }

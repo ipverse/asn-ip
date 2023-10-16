@@ -3,7 +3,10 @@
   "handle": "BORENET",
   "description": "BoreNet AB",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.94.128.0/22",
+      "185.235.116.0/22"
+    ],
     "ipv6": []
   }
 }

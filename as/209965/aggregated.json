@@ -3,7 +3,9 @@
   "handle": "MULTINETT",
   "description": "MULTINETT AS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "212.81.48.0/22"
+    ],
     "ipv6": []
   }
 }

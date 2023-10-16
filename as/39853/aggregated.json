@@ -3,7 +3,10 @@
   "handle": "NNGS2",
   "description": "LLC Gazpromneft ITO",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "46.8.72.0/22",
+      "46.111.142.0/23"
+    ],
     "ipv6": []
   }
 }

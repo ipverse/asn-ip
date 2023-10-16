@@ -3,7 +3,10 @@
   "handle": "FASTCLOUD",
   "description": "SysNet LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.223.53.0/24",
+      "213.108.134.0/24"
+    ],
     "ipv6": []
   }
 }

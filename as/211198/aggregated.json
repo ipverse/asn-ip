@@ -3,7 +3,9 @@
   "handle": "WHITESPIDER",
   "description": "WhiteSpider Enterprise Services Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.9.22.0/24"
+    ],
     "ipv6": []
   }
 }

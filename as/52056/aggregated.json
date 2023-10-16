@@ -3,7 +3,10 @@
   "handle": "HTP",
   "description": "Lounea Palvelut Oy",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.82.16.0/22",
+      "46.23.160.0/20"
+    ],
     "ipv6": []
   }
 }

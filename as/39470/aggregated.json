@@ -3,7 +3,10 @@
   "handle": "ATRIUMNETWORK",
   "description": "ICE Data Services Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "74.114.223.0/24",
+      "199.192.223.0/24"
+    ],
     "ipv6": []
   }
 }

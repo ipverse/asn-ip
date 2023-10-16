@@ -3,7 +3,9 @@
   "handle": "HYPERFIBER-01",
   "description": "HyperFiber",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "160.72.9.0/24"
+    ],
     "ipv6": []
   }
 }

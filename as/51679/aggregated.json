@@ -3,7 +3,11 @@
   "handle": "WANSERVICE",
   "description": "Societa Cooperativa Sociale Wan Service",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.25.196.0/24",
+      "193.25.223.0/24",
+      "212.46.50.0/24"
+    ],
     "ipv6": []
   }
 }

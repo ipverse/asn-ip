@@ -3,7 +3,9 @@
   "handle": "FASTCLOUD",
   "description": "fastCLOUD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "67.206.199.0/24"
+    ],
     "ipv6": []
   }
 }

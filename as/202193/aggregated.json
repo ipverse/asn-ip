@@ -3,7 +3,9 @@
   "handle": "FREECOM",
   "description": "FreeCom S.r.l.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "37.200.80.0/22"
+    ],
     "ipv6": []
   }
 }

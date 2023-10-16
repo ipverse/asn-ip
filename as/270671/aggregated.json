@@ -3,7 +3,9 @@
   "handle": "MELO-OLIVEIRA-INFORMTICA",
   "description": "Melo Oliveira Informtica Ltda ME",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "200.59.216.0/22"
+    ],
     "ipv6": []
   }
 }

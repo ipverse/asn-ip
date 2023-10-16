@@ -3,7 +3,9 @@
   "handle": "DIVEO-ARGENTINA",
   "description": "Diveo Argentina",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "190.2.240.0/20"
+    ],
     "ipv6": []
   }
 }

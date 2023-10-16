@@ -3,7 +3,9 @@
   "handle": "HOSTEAZA-SRL",
   "description": "HOSTEAZA S.R.L.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.123.40.0/24"
+    ],
     "ipv6": []
   }
 }

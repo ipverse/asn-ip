@@ -3,7 +3,9 @@
   "handle": "FINAVIA",
   "description": "Finavia Oyj",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "95.214.64.0/22"
+    ],
     "ipv6": []
   }
 }

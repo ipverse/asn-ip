@@ -3,7 +3,9 @@
   "handle": "DASSAULTAVIATION",
   "description": "DASSAULT AVIATION SA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.250.216.0/22"
+    ],
     "ipv6": []
   }
 }

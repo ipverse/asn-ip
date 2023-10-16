@@ -3,7 +3,9 @@
   "handle": "INT-5GN-AP",
   "description": "5G NETWORK OPERATIONS PTY LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.125.127.0/24"
+    ],
     "ipv6": []
   }
 }

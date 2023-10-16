@@ -4,6 +4,8 @@
   "description": "AGENCIA DE DESARROLLO RURAL - ADR",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2801:1c:c800::/48"
+    ]
   }
 }

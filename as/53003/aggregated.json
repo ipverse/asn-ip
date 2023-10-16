@@ -3,7 +3,9 @@
   "handle": "EVOLUNET-PROVEDORA-INTERNET",
   "description": "EVOLUNET PROVEDORA DE INTERNET LTDA PE",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "177.55.128.0/20"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,11 @@
   "handle": "WEBHOSTING",
   "description": "WEBHOSTING S.R.L.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.165.36.0/22"
+    ],
+    "ipv6": [
+      "2803:29a0::/32"
+    ]
   }
 }

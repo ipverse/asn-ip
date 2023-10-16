@@ -3,7 +3,9 @@
   "handle": "TUCIAPT-AP",
   "description": "THE UNITING CHURCH IN AUSTRALIA SYNOD OF VICTORIA AND TASMANIA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.148.61.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "BUDAPESTBANK",
   "description": "Budapest Bank Zrt.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.56.141.0/24"
+    ],
     "ipv6": []
   }
 }

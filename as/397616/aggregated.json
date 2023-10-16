@@ -3,7 +3,9 @@
   "handle": "CITY-OF-PRESCOTT-AZ",
   "description": "CITY OF PRESCOTT",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "64.187.126.0/24"
+    ],
     "ipv6": []
   }
 }

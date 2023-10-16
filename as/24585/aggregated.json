@@ -3,7 +3,11 @@
   "handle": "CH-SWISSLIFE",
   "description": "Swiss Life AG",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "80.255.96.0/22"
+    ],
+    "ipv6": [
+      "2a0a:d000::/29"
+    ]
   }
 }

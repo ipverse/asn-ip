@@ -3,7 +3,9 @@
   "handle": "WENGO",
   "description": "MYBESTPRO SAS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.200.4.0/24"
+    ],
     "ipv6": []
   }
 }

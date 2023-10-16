@@ -3,7 +3,9 @@
   "handle": "VIS-LLC-SC",
   "description": "VIS LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "47.45.30.0/24"
+    ],
     "ipv6": []
   }
 }

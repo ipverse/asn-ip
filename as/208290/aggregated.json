@@ -3,7 +3,9 @@
   "handle": "WIFISAX-NET",
   "description": "WIFISAX GmbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.148.208.0/22"
+    ],
     "ipv6": []
   }
 }

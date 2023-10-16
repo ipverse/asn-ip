@@ -3,7 +3,9 @@
   "handle": "DAVOCORP",
   "description": "Davo Corp CC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "102.223.228.0/22"
+    ],
     "ipv6": []
   }
 }

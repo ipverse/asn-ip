@@ -3,7 +3,9 @@
   "handle": "APPSMINISTRY",
   "description": "Apps Ministry LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.243.68.0/24"
+    ],
     "ipv6": []
   }
 }

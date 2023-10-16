@@ -3,7 +3,9 @@
   "handle": "HKNET-AP",
   "description": "HKNet Co. Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "202.67.142.0/24"
+    ],
     "ipv6": []
   }
 }

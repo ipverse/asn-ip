@@ -3,7 +3,9 @@
   "handle": "CMHC",
   "description": "Central Maine Medical Family",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "206.208.204.0/22"
+    ],
     "ipv6": []
   }
 }

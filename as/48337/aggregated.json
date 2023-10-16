@@ -3,7 +3,9 @@
   "handle": "LINODE",
   "description": "Linode, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "172.104.0.0/22"
+    ],
     "ipv6": []
   }
 }

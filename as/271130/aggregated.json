@@ -3,7 +3,9 @@
   "handle": "WABA-PROVEDOR-INTERNET",
   "description": "WABA PROVEDOR DE INTERNET LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "179.42.70.0/23"
+    ],
     "ipv6": []
   }
 }

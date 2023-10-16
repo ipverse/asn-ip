@@ -3,7 +3,10 @@
   "handle": "C-SQUARED",
   "description": "C-Squared Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "154.72.17.0/24",
+      "154.72.18.0/23"
+    ],
     "ipv6": []
   }
 }

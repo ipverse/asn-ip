@@ -3,7 +3,11 @@
   "handle": "MUNICIPALIDAD-LA-COSTA",
   "description": "MUNICIPALIDAD DE LA COSTA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "192.100.254.0/24"
+    ],
+    "ipv6": [
+      "2801:13:2000::/48"
+    ]
   }
 }

@@ -3,7 +3,9 @@
   "handle": "SAP-SE-SIN",
   "description": "SAP Asia Pte Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.109.146.0/23"
+    ],
     "ipv6": []
   }
 }

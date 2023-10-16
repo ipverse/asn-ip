@@ -3,7 +3,11 @@
   "handle": "WM-AGENCY",
   "description": "Webmaster Agency Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "87.239.151.0/24",
+      "194.190.169.0/24",
+      "195.208.100.0/24"
+    ],
     "ipv6": []
   }
 }

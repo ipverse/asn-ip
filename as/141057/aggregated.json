@@ -3,7 +3,9 @@
   "handle": "IDNIC-PTFIFA-ID",
   "description": "PT Fokus Inovasi Faradisa Abadi",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.155.26.0/24"
+    ],
     "ipv6": []
   }
 }

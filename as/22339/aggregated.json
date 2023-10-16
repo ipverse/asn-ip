@@ -3,7 +3,9 @@
   "handle": "CFCU",
   "description": "Connect First Credit Union",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "67.226.189.0/24"
+    ],
     "ipv6": []
   }
 }

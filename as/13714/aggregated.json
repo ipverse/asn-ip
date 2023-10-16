@@ -3,7 +3,9 @@
   "handle": "AFILIAS-SYD1",
   "description": "Afilias, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.149.63.0/24"
+    ],
     "ipv6": []
   }
 }

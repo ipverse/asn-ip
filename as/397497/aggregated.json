@@ -3,7 +3,11 @@
   "handle": "PAYCOM",
   "description": "Paycom Payroll, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "216.226.0.0/24",
+      "216.226.2.0/23",
+      "216.226.4.0/24"
+    ],
     "ipv6": []
   }
 }

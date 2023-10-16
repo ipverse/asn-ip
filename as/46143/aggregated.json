@@ -3,7 +3,9 @@
   "handle": "GTCH",
   "description": "Greektown Casino",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "162.255.128.0/23"
+    ],
     "ipv6": []
   }
 }

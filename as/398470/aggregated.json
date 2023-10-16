@@ -3,7 +3,9 @@
   "handle": "NEMCC",
   "description": "NEMCC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "207.181.43.0/24"
+    ],
     "ipv6": []
   }
 }

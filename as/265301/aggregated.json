@@ -3,7 +3,11 @@
   "handle": "UPNET-TELECOMUNICACOES-EIRELI",
   "description": "UPNET TELECOMUNICACOES EIRELI",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "168.121.76.0/22"
+    ],
+    "ipv6": [
+      "2804:2dc0::/32"
+    ]
   }
 }

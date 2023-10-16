@@ -3,7 +3,10 @@
   "handle": "SGINET1",
   "description": "SGI",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "207.195.59.0/24",
+      "207.195.60.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,10 @@
   "handle": "UNISYS-INT",
   "description": "Unisys Corporation",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.59.56.0/22",
+      "192.59.155.0/24"
+    ],
     "ipv6": []
   }
 }

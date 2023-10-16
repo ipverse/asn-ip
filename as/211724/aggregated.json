@@ -3,7 +3,10 @@
   "handle": "SYSTEMATICA",
   "description": "Systematica LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.237.163.0/24",
+      "194.169.192.0/24"
+    ],
     "ipv6": []
   }
 }

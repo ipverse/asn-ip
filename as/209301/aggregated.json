@@ -3,7 +3,9 @@
   "handle": "AIRNET",
   "description": "AIRNET S.R.L.S.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "5.253.48.0/22"
+    ],
     "ipv6": []
   }
 }

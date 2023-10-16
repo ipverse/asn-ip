@@ -3,7 +3,9 @@
   "handle": "CIOTEC-TELECOM",
   "description": "CIOTEC TELECOM LTDA ME",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "170.254.224.0/22"
+    ],
     "ipv6": []
   }
 }

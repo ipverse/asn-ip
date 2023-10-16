@@ -3,7 +3,10 @@
   "handle": "CMU-GRCHC",
   "description": "FGUP GRCHC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.224.228.0/22",
+      "195.209.120.0/23"
+    ],
     "ipv6": []
   }
 }

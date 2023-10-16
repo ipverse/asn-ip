@@ -3,7 +3,9 @@
   "handle": "TMD-ID",
   "description": "PT Trisula Media Data",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.155.190.0/23"
+    ],
     "ipv6": []
   }
 }

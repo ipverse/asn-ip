@@ -3,7 +3,9 @@
   "handle": "CSEG-1",
   "description": "Columbia Southern Education Group, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "198.167.32.0/24"
+    ],
     "ipv6": []
   }
 }

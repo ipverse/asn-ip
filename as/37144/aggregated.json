@@ -3,7 +3,9 @@
   "handle": "VALUCARD-NG",
   "description": "Unified Payment Services Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "196.46.20.0/24"
+    ],
     "ipv6": []
   }
 }

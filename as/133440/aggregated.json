@@ -3,7 +3,11 @@
   "handle": "STIGW-AP",
   "description": "Stepping Stone Co.,Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.94.144.0/23",
+      "103.94.146.0/24",
+      "203.109.48.0/22"
+    ],
     "ipv6": []
   }
 }

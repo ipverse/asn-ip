@@ -3,7 +3,9 @@
   "handle": "GRUPO-DETECTA",
   "description": "GRUPO DETECTA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.170.164.0/22"
+    ],
     "ipv6": []
   }
 }

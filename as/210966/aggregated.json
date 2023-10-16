@@ -3,7 +3,11 @@
   "handle": "DCSOLUTIONS",
   "description": "Data Center Solutions Kft.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "185.25.106.0/24"
+    ],
+    "ipv6": [
+      "2a11:540::/30"
+    ]
   }
 }

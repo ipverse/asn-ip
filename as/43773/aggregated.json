@@ -3,7 +3,10 @@
   "handle": "HVOSTING",
   "description": "PE Konstantin Vladimirovich Kravchenko",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.200.40.0/22",
+      "91.225.136.0/22"
+    ],
     "ipv6": []
   }
 }

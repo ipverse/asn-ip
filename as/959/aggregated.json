@@ -4,6 +4,9 @@
   "description": "OHANACRAFT, LLC",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2606:6240:959::/48",
+      "2606:6240:f000::/48"
+    ]
   }
 }

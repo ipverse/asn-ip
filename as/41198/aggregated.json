@@ -3,7 +3,9 @@
   "handle": "IGT-AUSTRIA",
   "description": "IGT Austria GmbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.140.254.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,11 @@
   "handle": "MEGA-CONNECT-SERVICOS",
   "description": "MEGA CONNECT SERVICOS ESPECIAIS LTDA.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "189.84.36.0/22"
+    ],
+    "ipv6": [
+      "2804:6d84::/32"
+    ]
   }
 }

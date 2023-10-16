@@ -3,7 +3,9 @@
   "handle": "UNIO-INTERNET",
   "description": "Unio Internet",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.182.120.0/22"
+    ],
     "ipv6": []
   }
 }

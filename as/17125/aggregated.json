@@ -3,7 +3,9 @@
   "handle": "LOGIS-ASN-01",
   "description": "Logistics Plus, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "66.211.248.0/24"
+    ],
     "ipv6": []
   }
 }

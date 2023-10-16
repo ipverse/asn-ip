@@ -3,7 +3,9 @@
   "handle": "DATACENTERSRL-SET",
   "description": "Data Center S.R.L.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "2.56.92.0/22"
+    ],
     "ipv6": []
   }
 }

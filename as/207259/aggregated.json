@@ -3,7 +3,9 @@
   "handle": "ENERGO",
   "description": "Energo Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.190.213.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "SKYVIEWSAT",
   "description": "Skyview Networks",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "76.9.181.0/24"
+    ],
     "ipv6": []
   }
 }

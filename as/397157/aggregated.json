@@ -3,7 +3,9 @@
   "handle": "KICKTECH-BOUNTIFUL-01",
   "description": "Kicktech, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "204.134.234.0/24"
+    ],
     "ipv6": []
   }
 }

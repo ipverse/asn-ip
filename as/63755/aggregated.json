@@ -3,7 +3,9 @@
   "handle": "VRB-VN",
   "description": "VietNam - Russia joint venture bank",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.68.244.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,10 @@
   "handle": "QUADCODE",
   "description": "QUAD CODE (GB) LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "80.92.200.0/24",
+      "80.92.202.0/23"
+    ],
     "ipv6": []
   }
 }

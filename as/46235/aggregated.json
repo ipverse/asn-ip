@@ -3,7 +3,10 @@
   "handle": "TWN",
   "description": "Trion Worlds, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.60.208.0/22",
+      "208.94.24.0/22"
+    ],
     "ipv6": []
   }
 }

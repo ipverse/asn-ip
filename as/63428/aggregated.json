@@ -3,7 +3,9 @@
   "handle": "LMAXUSA",
   "description": "LMAX USA Inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "104.255.200.0/22"
+    ],
     "ipv6": []
   }
 }

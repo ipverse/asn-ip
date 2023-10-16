@@ -3,7 +3,9 @@
   "handle": "YUMBRANDS",
   "description": "Yum! Brands, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "168.182.0.0/19"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "TSK",
   "description": "Technical Services Company Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.22.123.0/24"
+    ],
     "ipv6": []
   }
 }

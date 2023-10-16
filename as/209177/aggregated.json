@@ -3,7 +3,9 @@
   "handle": "ARNOLDPORTER",
   "description": "Arnold \u0026 Porter Kaye Scholer LLP",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "2.58.252.0/22"
+    ],
     "ipv6": []
   }
 }

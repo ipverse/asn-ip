@@ -3,7 +3,10 @@
   "handle": "APS",
   "description": "Atlanta Public Schools",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "168.9.22.0/24",
+      "173.242.64.0/20"
+    ],
     "ipv6": []
   }
 }

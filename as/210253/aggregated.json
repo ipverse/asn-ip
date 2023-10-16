@@ -3,7 +3,9 @@
   "handle": "CREATIVE-NETWORK-CONSULTING",
   "description": "Creative Network Consulting Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.147.36.0/22"
+    ],
     "ipv6": []
   }
 }

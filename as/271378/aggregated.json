@@ -3,7 +3,13 @@
   "handle": "DATACUBONET-ASSIST-TEC",
   "description": "DATACUBONET ASSIST TEC EM INFORMATICA LTDA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "181.189.44.0/22"
+    ],
+    "ipv6": [
+      "2804:7a8c:aaaa::/48",
+      "2804:7a8c:cccc::/48",
+      "2804:7a8c:dddd::/48"
+    ]
   }
 }

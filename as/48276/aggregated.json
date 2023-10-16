@@ -3,7 +3,10 @@
   "handle": "LEVEL",
   "description": "IPSvyaz OOO",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "176.96.184.0/22",
+      "176.96.188.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,10 @@
   "handle": "ASN1",
   "description": "GENUINE PARTS COMPANY",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.96.224.0/22",
+      "208.69.194.0/23"
+    ],
     "ipv6": []
   }
 }

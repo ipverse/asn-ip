@@ -3,7 +3,9 @@
   "handle": "ACLAB",
   "description": "Ascend Clinical, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "74.123.192.0/24"
+    ],
     "ipv6": []
   }
 }

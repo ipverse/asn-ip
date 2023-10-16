@@ -3,7 +3,9 @@
   "handle": "CPD",
   "description": "Chicago Park District",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "207.63.124.0/24"
+    ],
     "ipv6": []
   }
 }

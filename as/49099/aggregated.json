@@ -3,7 +3,11 @@
   "handle": "TADBIR",
   "description": "Tadbir Pardaz IT Group LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "109.94.166.0/24",
+      "193.34.244.0/23",
+      "193.34.246.0/24"
+    ],
     "ipv6": []
   }
 }

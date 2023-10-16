@@ -3,7 +3,9 @@
   "handle": "IDNIC-DJASANET-ID",
   "description": "PT. Djaya Sampoerna Net",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.114.144.0/24"
+    ],
     "ipv6": []
   }
 }

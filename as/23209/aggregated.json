@@ -3,7 +3,10 @@
   "handle": "VHDA20011260123220",
   "description": "Virginia Housing Development Authority",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "72.236.147.0/24",
+      "199.249.205.0/24"
+    ],
     "ipv6": []
   }
 }

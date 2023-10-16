@@ -3,7 +3,9 @@
   "handle": "GRUPO-LANA",
   "description": "GRUPO LANA, S.A.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "164.163.124.0/22"
+    ],
     "ipv6": []
   }
 }

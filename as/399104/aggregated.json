@@ -3,7 +3,11 @@
   "handle": "CNVR-APAC",
   "description": "Conversant, LLC",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "89.207.22.0/23"
+    ],
+    "ipv6": [
+      "2a02:fa8:c410::/44"
+    ]
   }
 }

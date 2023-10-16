@@ -3,7 +3,9 @@
   "handle": "METROBANK",
   "description": "Metrobank, S.A.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "190.34.183.0/24"
+    ],
     "ipv6": []
   }
 }

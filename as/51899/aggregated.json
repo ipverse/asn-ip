@@ -3,7 +3,9 @@
   "handle": "HIT-NET",
   "description": "Hoglandsforbundet",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "178.22.200.0/21"
+    ],
     "ipv6": []
   }
 }

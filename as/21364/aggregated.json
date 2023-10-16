@@ -3,7 +3,9 @@
   "handle": "LANTIK",
   "description": "Lantik S.A. M.P.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "80.245.0.0/20"
+    ],
     "ipv6": []
   }
 }

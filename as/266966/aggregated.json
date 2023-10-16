@@ -3,7 +3,12 @@
   "handle": "NETPLAY-TELECOM",
   "description": "NETPLAY TELECOM LTDA EPP",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.226.132.0/22",
+      "201.148.160.0/22"
+    ],
+    "ipv6": [
+      "2804:4610::/32"
+    ]
   }
 }

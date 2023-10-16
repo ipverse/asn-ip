@@ -3,7 +3,9 @@
   "handle": "DDV",
   "description": "Dresdner Verlagshaus Technik GmbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.74.44.0/22"
+    ],
     "ipv6": []
   }
 }

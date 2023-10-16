@@ -3,7 +3,9 @@
   "handle": "APX-NET-PROVEDOR",
   "description": "Apx Net Provedor de Internet Ltda",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "190.89.208.0/22"
+    ],
     "ipv6": [
       "2804:6b50::/32"
     ]

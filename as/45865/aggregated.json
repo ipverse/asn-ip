@@ -3,7 +3,9 @@
   "handle": "INFORPSSC-PH",
   "description": "INFOR PSSC, INC.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "180.94.36.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "RAMAN",
   "description": "Uniwersytet Radomski im. Kazimierza Pulaskiego",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.111.144.0/22"
+    ],
     "ipv6": []
   }
 }

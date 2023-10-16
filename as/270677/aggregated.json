@@ -3,7 +3,9 @@
   "handle": "TEK-TELECOM",
   "description": "TEK TELECOM LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "200.6.80.0/22"
+    ],
     "ipv6": [
       "2804:6fb0::/32"
     ]

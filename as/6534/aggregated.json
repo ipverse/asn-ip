@@ -3,7 +3,10 @@
   "handle": "OCEANIC-CABLE",
   "description": "Charter Communications Inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "205.172.16.0/22",
+      "216.235.32.0/19"
+    ],
     "ipv6": []
   }
 }

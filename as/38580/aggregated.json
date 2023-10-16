@@ -3,7 +3,9 @@
   "handle": "IDT-AP",
   "description": "IDT Telecom",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "111.235.152.0/22"
+    ],
     "ipv6": []
   }
 }

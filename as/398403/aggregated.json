@@ -3,7 +3,9 @@
   "handle": "SSI",
   "description": "Alarm Detection Systems, Inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "204.235.123.0/24"
+    ],
     "ipv6": []
   }
 }

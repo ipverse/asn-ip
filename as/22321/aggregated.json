@@ -3,7 +3,9 @@
   "handle": "PLUMCHOICE-DC1",
   "description": "PlumChoice",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "204.209.0.0/24"
+    ],
     "ipv6": []
   }
 }

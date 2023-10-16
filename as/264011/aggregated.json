@@ -3,7 +3,9 @@
   "handle": "TREND-CONNECT",
   "description": "TREND CONNECT",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "143.0.136.0/22"
+    ],
     "ipv6": []
   }
 }

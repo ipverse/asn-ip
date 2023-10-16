@@ -3,7 +3,10 @@
   "handle": "DAD-TACTICAL",
   "description": "D and D Tactical (Pty) Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "102.23.176.0/21",
+      "164.160.20.0/22"
+    ],
     "ipv6": []
   }
 }

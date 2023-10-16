@@ -3,7 +3,10 @@
   "handle": "IBMUK",
   "description": "IBM United Kingdom Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.61.247.0/24",
+      "194.61.248.0/24"
+    ],
     "ipv6": []
   }
 }

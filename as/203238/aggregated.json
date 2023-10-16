@@ -3,7 +3,9 @@
   "handle": "DATASERVICE-2",
   "description": "GP Nett AS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.93.128.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,11 @@
   "handle": "OHIO-IX-OPS",
   "description": "OHIO IX",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "134.195.207.0/24"
+    ],
+    "ipv6": [
+      "2602:fd28::/36"
+    ]
   }
 }

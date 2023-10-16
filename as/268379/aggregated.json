@@ -3,7 +3,11 @@
   "handle": "ISABELA-GUIMARAES-VALVERDE",
   "description": "ISABELA GUIMARAES VALVERDE",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.239.188.0/22"
+    ],
+    "ipv6": [
+      "2804:5048::/32"
+    ]
   }
 }

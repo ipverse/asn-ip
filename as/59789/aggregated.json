@@ -3,7 +3,12 @@
   "handle": "ATCISMOGMBH",
   "description": "CISMO Clearing Integrated Services and Market Operations Gmb",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "185.52.184.0/23",
+      "185.52.186.0/24"
+    ],
+    "ipv6": [
+      "2a04:a4c0::/48"
+    ]
   }
 }

@@ -3,7 +3,11 @@
   "handle": "SPOTX-IAD",
   "description": "SpotX, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "69.12.8.0/23",
+      "170.76.216.0/24",
+      "192.35.249.0/24"
+    ],
     "ipv6": []
   }
 }

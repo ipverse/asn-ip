@@ -3,7 +3,9 @@
   "handle": "CONEXIS",
   "description": "CONEXIS S.R.L.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.70.152.0/22"
+    ],
     "ipv6": []
   }
 }

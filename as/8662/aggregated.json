@@ -3,7 +3,9 @@
   "handle": "LENENERGO",
   "description": "Joint-Stock Company Lenenergo",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.149.95.0/24"
+    ],
     "ipv6": []
   }
 }

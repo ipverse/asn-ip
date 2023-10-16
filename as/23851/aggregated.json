@@ -3,7 +3,9 @@
   "handle": "CNNIC-CQCNC-AP",
   "description": "CHONGQING CNC BROADBAND NETWORKS CO.,LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "211.158.25.0/24"
+    ],
     "ipv6": []
   }
 }

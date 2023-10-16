@@ -3,7 +3,9 @@
   "handle": "TMFB-AP",
   "description": "Telenor Microfinance Bank Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.150.82.0/23"
+    ],
     "ipv6": []
   }
 }

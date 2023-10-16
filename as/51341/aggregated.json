@@ -3,7 +3,10 @@
   "handle": "GCS",
   "description": "Gigakom Sistems OOO",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.218.84.0/22",
+      "91.236.140.0/22"
+    ],
     "ipv6": []
   }
 }

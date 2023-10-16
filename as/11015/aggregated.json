@@ -3,7 +3,10 @@
   "handle": "TCH",
   "description": "Texas Children\u0027s Hospital",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "205.159.249.0/24",
+      "207.231.32.0/19"
+    ],
     "ipv6": []
   }
 }

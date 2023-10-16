@@ -3,7 +3,10 @@
   "handle": "GIGA-PROVEDOR-INTERNET",
   "description": "GIGA PROVEDOR DE INTERNET LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "138.36.160.0/22",
+      "179.189.64.0/20"
+    ],
     "ipv6": []
   }
 }

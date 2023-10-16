@@ -3,7 +3,9 @@
   "handle": "KLEIN",
   "description": "Maurice Daniel Klein",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.5.114.0/24"
+    ],
     "ipv6": []
   }
 }

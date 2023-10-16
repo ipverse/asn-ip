@@ -3,7 +3,9 @@
   "handle": "BITCOM-INTERNET-PROVIDER",
   "description": "Bitcom Internet Provider LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "177.129.216.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,10 @@
   "handle": "NYSOAG",
   "description": "New York State Office of the Attorney General",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "65.118.144.0/24",
+      "209.160.219.0/24"
+    ],
     "ipv6": []
   }
 }

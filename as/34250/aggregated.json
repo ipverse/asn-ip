@@ -3,7 +3,9 @@
   "handle": "UZTELECOM",
   "description": "Uzbektelekom Joint Stock Company",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "84.54.113.0/24"
+    ],
     "ipv6": []
   }
 }

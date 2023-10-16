@@ -3,7 +3,9 @@
   "handle": "PLCIDO-ANDRADE",
   "description": "Plcido e Andrade LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "177.75.112.0/20"
+    ],
     "ipv6": []
   }
 }

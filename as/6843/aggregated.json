@@ -3,7 +3,9 @@
   "handle": "DIGINET",
   "description": "Diginet shpk",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.120.36.0/22"
+    ],
     "ipv6": []
   }
 }

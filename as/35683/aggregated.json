@@ -3,7 +3,9 @@
   "handle": "DVBANK",
   "description": "Far-Eastern Bank Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.137.171.0/24"
+    ],
     "ipv6": []
   }
 }

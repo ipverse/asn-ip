@@ -3,7 +3,9 @@
   "handle": "R-KLIMAT",
   "description": "R-Klimat LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.199.34.0/24"
+    ],
     "ipv6": []
   }
 }

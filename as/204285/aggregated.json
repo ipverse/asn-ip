@@ -3,7 +3,9 @@
   "handle": "OPTIMUM",
   "description": "OPTIMUM Telecommunications LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.254.116.0/23"
+    ],
     "ipv6": []
   }
 }

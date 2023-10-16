@@ -3,7 +3,11 @@
   "handle": "SRSTUBES",
   "description": "Serious Tubes Networks",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.14.0.0/24",
+      "194.14.246.0/23",
+      "194.68.0.0/24"
+    ],
     "ipv6": []
   }
 }

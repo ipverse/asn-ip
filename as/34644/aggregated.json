@@ -3,7 +3,9 @@
   "handle": "EXTEL",
   "description": "PJSC Vimpelcom",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "85.115.224.0/21"
+    ],
     "ipv6": []
   }
 }

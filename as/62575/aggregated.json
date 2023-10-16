@@ -3,7 +3,9 @@
   "handle": "MHE",
   "description": "McGraw-Hill Education",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.243.80.0/20"
+    ],
     "ipv6": []
   }
 }

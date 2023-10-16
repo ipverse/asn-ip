@@ -3,7 +3,10 @@
   "handle": "CCCU-1",
   "description": "City \u0026 County Credit Union",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "50.219.5.0/24",
+      "50.239.134.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "VIPLAN",
   "description": "ISP VIPLAN LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "81.162.216.0/21"
+    ],
     "ipv6": []
   }
 }

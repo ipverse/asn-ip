@@ -3,7 +3,9 @@
   "handle": "GAMMASKYNET",
   "description": "Gamma-Sky Net LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "191.101.77.0/24"
+    ],
     "ipv6": []
   }
 }

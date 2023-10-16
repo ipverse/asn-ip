@@ -3,7 +3,10 @@
   "handle": "LVGMC",
   "description": "Latvijas Vides geologijas un meteorologijas centrs",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "212.70.172.0/24",
+      "212.70.174.0/24"
+    ],
     "ipv6": []
   }
 }

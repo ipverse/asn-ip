@@ -3,7 +3,9 @@
   "handle": "RU-SFDATA",
   "description": "SafeData LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.128.84.0/22"
+    ],
     "ipv6": []
   }
 }

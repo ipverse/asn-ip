@@ -3,7 +3,9 @@
   "handle": "MCUNY-01",
   "description": "Municipal Credit Union of NY",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "12.111.19.0/24"
+    ],
     "ipv6": []
   }
 }

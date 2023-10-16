@@ -3,7 +3,9 @@
   "handle": "MMK",
   "description": "LLC Magazin Malogo Kreditovaniya",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.84.18.0/24"
+    ],
     "ipv6": []
   }
 }

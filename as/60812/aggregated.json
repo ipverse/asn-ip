@@ -3,7 +3,9 @@
   "handle": "IXP-1-IX-UA",
   "description": "EUROLINE UKRAINE LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.57.47.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,11 @@
   "handle": "STORPOOL",
   "description": "StorPool Storage AD",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "185.117.80.0/24"
+    ],
+    "ipv6": [
+      "2a05:5e40:f00f::/48"
+    ]
   }
 }

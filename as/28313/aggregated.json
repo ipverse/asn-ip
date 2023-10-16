@@ -3,7 +3,9 @@
   "handle": "CI-T-SOFTWARE",
   "description": "Ci\u0026T Software S/A",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "189.39.160.0/20"
+    ],
     "ipv6": []
   }
 }

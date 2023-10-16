@@ -3,7 +3,11 @@
   "handle": "OBOSOPENNET-NO",
   "description": "OBOS OPENNET AS",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "185.190.36.0/24"
+    ],
+    "ipv6": [
+      "2a10:d640::/29"
+    ]
   }
 }

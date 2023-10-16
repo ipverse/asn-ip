@@ -3,7 +3,9 @@
   "handle": "SDB-ID",
   "description": "PT. Sejahtera Damai Bersama",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.246.184.0/24"
+    ],
     "ipv6": []
   }
 }

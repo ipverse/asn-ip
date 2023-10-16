@@ -3,7 +3,11 @@
   "handle": "ZAPELINI",
   "description": "Zapelini \u0026 Cia. Ltda.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "186.237.176.0/20"
+    ],
+    "ipv6": [
+      "2804:bec::/32"
+    ]
   }
 }

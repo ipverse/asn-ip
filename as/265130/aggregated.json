@@ -3,7 +3,13 @@
   "handle": "ULTRACONEXO-SOLUOES-EIRELI",
   "description": "ultraconexo soluoes eireli",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "143.208.152.0/22",
+      "170.254.200.0/22",
+      "187.62.254.0/24"
+    ],
+    "ipv6": [
+      "2804:2b00::/32"
+    ]
   }
 }

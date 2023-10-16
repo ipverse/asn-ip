@@ -3,7 +3,9 @@
   "handle": "AMDOCS-CHILE-SPA",
   "description": "AMDOCS CHILE SPA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "200.1.115.0/24"
+    ],
     "ipv6": []
   }
 }

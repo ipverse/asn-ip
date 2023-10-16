@@ -3,7 +3,12 @@
   "handle": "SLAC",
   "description": "SLAC National Accelerator Laboratory",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "134.79.0.0/16",
+      "198.51.111.0/24"
+    ],
+    "ipv6": [
+      "2620:114:d000::/44"
+    ]
   }
 }

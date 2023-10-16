@@ -3,7 +3,11 @@
   "handle": "PRECISION-DATA-SOLUTIONS",
   "description": "Precision Data Solutions, LLC",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "192.69.48.0/20"
+    ],
+    "ipv6": [
+      "2605:e780::/32"
+    ]
   }
 }

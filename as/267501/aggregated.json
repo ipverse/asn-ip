@@ -3,7 +3,11 @@
   "handle": "EQUATORIAL-TELECOMUNICAES",
   "description": "Equatorial Telecomunicaes LTDA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "201.182.64.0/22"
+    ],
+    "ipv6": [
+      "2804:4274::/32"
+    ]
   }
 }

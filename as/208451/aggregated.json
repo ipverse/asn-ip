@@ -3,7 +3,9 @@
   "handle": "DE-GARTHOFF",
   "description": "Frederik Garthoff trading as Fernsehhaus Garthoff GbR",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.132.116.0/22"
+    ],
     "ipv6": []
   }
 }

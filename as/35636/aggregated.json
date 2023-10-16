@@ -3,7 +3,9 @@
   "handle": "FDL",
   "description": "SIA Worldline Latvia",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.160.171.0/24"
+    ],
     "ipv6": []
   }
 }

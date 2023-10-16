@@ -3,7 +3,9 @@
   "handle": "HODMC-AP",
   "description": "HOD Media Co.,Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.66.239.0/24"
+    ],
     "ipv6": []
   }
 }

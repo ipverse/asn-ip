@@ -3,7 +3,9 @@
   "handle": "LUOLAKALLIO",
   "description": "Luolakallio Oy",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "94.154.13.0/24"
+    ],
     "ipv6": []
   }
 }

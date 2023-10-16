@@ -3,7 +3,10 @@
   "handle": "MATRIX-NET",
   "description": "MATRIX Cezary Taraszkiewicz",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "89.22.32.0/21",
+      "91.230.112.0/22"
+    ],
     "ipv6": []
   }
 }

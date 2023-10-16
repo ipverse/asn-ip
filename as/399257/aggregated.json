@@ -3,7 +3,9 @@
   "handle": "INCOMM-NET4",
   "description": "InComm",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "207.126.143.0/24"
+    ],
     "ipv6": []
   }
 }

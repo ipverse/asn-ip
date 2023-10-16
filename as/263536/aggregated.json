@@ -3,7 +3,11 @@
   "handle": "MICROSET-MAQUINAS-SERVICOS",
   "description": "MICROSET MAQUINAS E SERVICOS LTDA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "191.5.128.0/20"
+    ],
+    "ipv6": [
+      "2804:1380::/32"
+    ]
   }
 }

@@ -3,7 +3,9 @@
   "handle": "ASSIGMA",
   "description": "Sigma-Net Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.162.192.0/22"
+    ],
     "ipv6": []
   }
 }

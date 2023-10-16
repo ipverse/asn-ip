@@ -3,7 +3,9 @@
   "handle": "IT1-HR",
   "description": "IT Jedan d.o.o.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "176.62.31.0/24"
+    ],
     "ipv6": []
   }
 }

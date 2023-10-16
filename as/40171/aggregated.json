@@ -3,7 +3,9 @@
   "handle": "SUNPOWERCORP",
   "description": "SunPower Corporation",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "209.37.214.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "INTEX-SOLUTIONS",
   "description": "Intex Solutions, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.40.60.0/24"
+    ],
     "ipv6": []
   }
 }

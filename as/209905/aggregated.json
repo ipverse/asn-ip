@@ -3,7 +3,9 @@
   "handle": "SEJEL",
   "description": "Sejel Technology Company for Integrated Electronic Applications Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.65.72.0/22"
+    ],
     "ipv6": []
   }
 }

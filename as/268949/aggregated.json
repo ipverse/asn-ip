@@ -3,7 +3,12 @@
   "handle": "S-M-TELECOMNET",
   "description": "S M Telecom.Net Ltda",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.176.180.0/22"
+    ],
+    "ipv6": [
+      "2804:5d14::/38",
+      "2804:5d14:800::/38"
+    ]
   }
 }

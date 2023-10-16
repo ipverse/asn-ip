@@ -3,7 +3,9 @@
   "handle": "WKMGOSC-KATOWICE",
   "description": "WKM Gosc Niedzielny",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.181.177.0/24"
+    ],
     "ipv6": []
   }
 }

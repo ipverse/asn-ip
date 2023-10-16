@@ -3,7 +3,9 @@
   "handle": "VSBGP",
   "description": "Vining Sparks",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "205.159.253.0/24"
+    ],
     "ipv6": []
   }
 }

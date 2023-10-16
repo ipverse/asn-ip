@@ -3,7 +3,9 @@
   "handle": "FSIPL-AP",
   "description": "Functional Solutions PTY LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.111.78.0/24"
+    ],
     "ipv6": []
   }
 }

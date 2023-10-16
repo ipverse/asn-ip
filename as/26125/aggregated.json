@@ -3,7 +3,11 @@
   "handle": "HOLCIMUSINC",
   "description": "Holcim (US), Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "161.68.128.0/23",
+      "161.68.132.0/23",
+      "193.27.47.0/24"
+    ],
     "ipv6": []
   }
 }

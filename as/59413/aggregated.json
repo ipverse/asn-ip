@@ -3,7 +3,9 @@
   "handle": "VPG",
   "description": "VPG SAS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "37.110.192.0/24"
+    ],
     "ipv6": []
   }
 }

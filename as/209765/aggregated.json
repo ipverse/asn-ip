@@ -3,7 +3,10 @@
   "handle": "ASPIREMEDIA",
   "description": "ASPIRE MEDIA GROUP LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "213.146.167.0/24",
+      "213.146.171.0/24"
+    ],
     "ipv6": []
   }
 }

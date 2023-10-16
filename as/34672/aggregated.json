@@ -4,6 +4,8 @@
   "description": "INTERNET INVEST LIMITED",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a0d:7100:a::/48"
+    ]
   }
 }

@@ -3,7 +3,9 @@
   "handle": "RAA-NYC-NET",
   "description": "Ralph Appelbaum Associates, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "69.38.230.0/24"
+    ],
     "ipv6": []
   }
 }

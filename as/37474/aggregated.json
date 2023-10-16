@@ -3,7 +3,11 @@
   "handle": "JINX",
   "description": "ISPA SA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "196.10.52.0/23"
+    ],
+    "ipv6": [
+      "2001:43f8:1f3::/48"
+    ]
   }
 }

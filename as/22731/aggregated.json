@@ -3,7 +3,9 @@
   "handle": "MTB",
   "description": "Manufacturers and Traders Trust Company",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.69.176.0/24"
+    ],
     "ipv6": []
   }
 }

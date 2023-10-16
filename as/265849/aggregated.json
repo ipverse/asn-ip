@@ -3,7 +3,9 @@
   "handle": "HONDURAS-ADELANTE",
   "description": "HONDURAS ADELANTE SA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.224.228.0/22"
+    ],
     "ipv6": []
   }
 }

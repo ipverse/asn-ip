@@ -3,7 +3,9 @@
   "handle": "CEVA-DSP",
   "description": "Ceva D.S.P. LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.82.128.0/23"
+    ],
     "ipv6": []
   }
 }

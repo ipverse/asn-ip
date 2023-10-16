@@ -4,6 +4,8 @@
   "description": "EDNEY AUGUSTO GALHARDO 35392008860",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2804:8be4::/32"
+    ]
   }
 }

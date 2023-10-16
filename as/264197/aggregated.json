@@ -3,7 +3,11 @@
   "handle": "NETMANIA",
   "description": "NETMANIA LTDA ME",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "138.97.148.0/22"
+    ],
+    "ipv6": [
+      "2804:2404::/32"
+    ]
   }
 }

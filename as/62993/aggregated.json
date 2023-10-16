@@ -3,7 +3,11 @@
   "handle": "CATCHENG",
   "description": "Catch Engineering Partnership",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "198.97.211.0/24"
+    ],
+    "ipv6": [
+      "2620:69:c000::/48"
+    ]
   }
 }

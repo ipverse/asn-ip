@@ -3,7 +3,9 @@
   "handle": "SIBENCO",
   "description": "AO SUEK",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.80.228.0/24"
+    ],
     "ipv6": []
   }
 }

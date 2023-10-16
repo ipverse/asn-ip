@@ -3,7 +3,10 @@
   "handle": "ASWIFINETCOM",
   "description": "WIFINETCOM SRL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "5.56.8.0/22",
+      "5.83.124.0/22"
+    ],
     "ipv6": []
   }
 }

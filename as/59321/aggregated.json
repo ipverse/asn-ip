@@ -3,7 +3,10 @@
   "handle": "SEBL-BD",
   "description": "Southeast Bank Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.213.28.0/24",
+      "103.226.122.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "UAZ",
   "description": "PJSC UAZ",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.233.175.0/24"
+    ],
     "ipv6": []
   }
 }

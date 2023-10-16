@@ -3,7 +3,11 @@
   "handle": "MBLINKTX",
   "description": "City of Mont Belvieu",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "72.22.192.0/21",
+      "209.172.16.0/22",
+      "216.245.64.0/22"
+    ],
     "ipv6": []
   }
 }

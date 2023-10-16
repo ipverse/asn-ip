@@ -3,7 +3,9 @@
   "handle": "BILKENT",
   "description": "Ihsan Dogramaci Bilkent University",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "139.179.0.0/16"
+    ],
     "ipv6": []
   }
 }

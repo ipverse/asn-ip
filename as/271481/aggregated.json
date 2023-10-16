@@ -3,7 +3,11 @@
   "handle": "ONDANET-TECNOLOGIA",
   "description": "OndaNet Tecnologia Ltda",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "201.218.164.0/22"
+    ],
+    "ipv6": [
+      "2804:7c30::/32"
+    ]
   }
 }

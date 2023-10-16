@@ -3,7 +3,9 @@
   "handle": "FORTENET",
   "description": "DNA Oyj",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.49.90.0/24"
+    ],
     "ipv6": []
   }
 }

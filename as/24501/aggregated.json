@@ -3,7 +3,9 @@
   "handle": "MAJOREL-AP",
   "description": "MAJOREL INDIA PRIVATE LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "202.77.137.0/24"
+    ],
     "ipv6": []
   }
 }

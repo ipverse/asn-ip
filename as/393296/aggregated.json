@@ -3,7 +3,9 @@
   "handle": "AUGUSTANACOLLEGEROCKISLANDIL",
   "description": "Augustana College",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.252.210.0/23"
+    ],
     "ipv6": []
   }
 }

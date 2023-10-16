@@ -3,7 +3,9 @@
   "handle": "RTAP100100-RIPE",
   "description": "RESPONSETAP LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.19.40.0/22"
+    ],
     "ipv6": []
   }
 }

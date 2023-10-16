@@ -3,7 +3,10 @@
   "handle": "HAL",
   "description": "Hawaiian Airlines",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "74.202.112.0/24",
+      "192.225.154.0/23"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "IGEPL",
   "description": "Interglobe Enterprises Private Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.136.218.0/24"
+    ],
     "ipv6": []
   }
 }

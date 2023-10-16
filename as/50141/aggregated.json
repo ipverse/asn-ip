@@ -3,7 +3,9 @@
   "handle": "SKB",
   "description": "PUBLIC JOINT-STOCK COMPANY BANK SINARA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "213.5.80.0/21"
+    ],
     "ipv6": []
   }
 }

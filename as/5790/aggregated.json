@@ -3,7 +3,11 @@
   "handle": "NETMARKET",
   "description": "Trilegiant Corporation",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "63.210.230.0/24",
+      "204.155.120.0/21",
+      "206.156.32.0/24"
+    ],
     "ipv6": []
   }
 }

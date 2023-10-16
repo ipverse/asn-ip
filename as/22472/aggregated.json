@@ -3,7 +3,10 @@
   "handle": "FLCOURTS",
   "description": "Florida Supreme Court",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.26.72.0/24",
+      "199.242.64.0/18"
+    ],
     "ipv6": []
   }
 }

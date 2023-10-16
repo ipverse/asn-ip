@@ -3,7 +3,10 @@
   "handle": "HARBOR-CAPITAL-ADVISORS",
   "description": "Harbor Capital Advisors, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.98.184.0/24",
+      "68.65.218.0/23"
+    ],
     "ipv6": []
   }
 }

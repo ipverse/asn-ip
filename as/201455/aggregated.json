@@ -3,7 +3,9 @@
   "handle": "ANYCLOUD",
   "description": "any.cloud A/S",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.170.28.0/22"
+    ],
     "ipv6": []
   }
 }

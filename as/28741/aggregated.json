@@ -3,7 +3,9 @@
   "handle": "REAL-ESTATE-HOSPITALITY",
   "description": "Real Estate Hospitality Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.245.232.0/24"
+    ],
     "ipv6": []
   }
 }

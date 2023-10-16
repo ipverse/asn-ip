@@ -3,7 +3,9 @@
   "handle": "MAJCS-CCOM",
   "description": "Washington County Consolidated Communications Agency",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "205.159.16.0/24"
+    ],
     "ipv6": []
   }
 }

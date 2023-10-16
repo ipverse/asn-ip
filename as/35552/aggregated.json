@@ -3,7 +3,9 @@
   "handle": "KOMMUNALKREDIT-AT",
   "description": "Kommunalkredit Austria AG",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.47.138.0/24"
+    ],
     "ipv6": []
   }
 }

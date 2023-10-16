@@ -3,7 +3,9 @@
   "handle": "FIBERCASTNET",
   "description": "Fibercast Corporation",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "216.177.0.0/19"
+    ],
     "ipv6": []
   }
 }

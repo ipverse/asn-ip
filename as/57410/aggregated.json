@@ -3,7 +3,9 @@
   "handle": "M-BECON",
   "description": "ZAO Mordovsky Bekon",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.116.169.0/24"
+    ],
     "ipv6": []
   }
 }

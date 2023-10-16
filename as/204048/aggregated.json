@@ -3,7 +3,11 @@
   "handle": "VFT",
   "description": "Joint Stock Volga Shipping",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "89.255.105.0/24"
+    ],
+    "ipv6": [
+      "2a0b:a8c0:1::/48"
+    ]
   }
 }

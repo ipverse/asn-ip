@@ -3,7 +3,10 @@
   "handle": "GELB",
   "description": "Gelber Group, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "208.86.28.0/22",
+      "213.161.87.0/24"
+    ],
     "ipv6": []
   }
 }

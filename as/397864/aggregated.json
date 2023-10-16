@@ -3,7 +3,9 @@
   "handle": "HVI",
   "description": "Harvest Vintage Imports Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "23.141.144.0/24"
+    ],
     "ipv6": []
   }
 }

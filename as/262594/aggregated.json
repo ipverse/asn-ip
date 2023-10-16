@@ -3,7 +3,11 @@
   "handle": "4INET-COMMUNICATIONS",
   "description": "4iNET Communications",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "177.84.240.0/21"
+    ],
+    "ipv6": [
+      "2804:68c::/32"
+    ]
   }
 }

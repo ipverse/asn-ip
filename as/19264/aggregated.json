@@ -3,7 +3,9 @@
   "handle": "TELECURVE",
   "description": "TeleCurve, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "172.87.72.0/22"
+    ],
     "ipv6": []
   }
 }

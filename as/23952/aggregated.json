@@ -3,7 +3,9 @@
   "handle": "THAMRINNET-ISP-ID",
   "description": "Thamrin Telekomunikasi Network PT.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "202.93.16.0/20"
+    ],
     "ipv6": []
   }
 }

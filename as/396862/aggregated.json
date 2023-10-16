@@ -3,7 +3,9 @@
   "handle": "NMHS",
   "description": "Nebraska Methodist Health System, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "209.126.94.0/23"
+    ],
     "ipv6": []
   }
 }

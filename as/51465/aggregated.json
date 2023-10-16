@@ -3,7 +3,9 @@
   "handle": "M3NET-TRANSIT",
   "description": "COMP-SERWIS SP. Z O.O.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.91.5.0/24"
+    ],
     "ipv6": []
   }
 }

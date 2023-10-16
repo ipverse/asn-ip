@@ -3,7 +3,9 @@
   "handle": "LANDUSCOOPERATIVE",
   "description": "Landus Cooperative",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.245.2.0/24"
+    ],
     "ipv6": []
   }
 }

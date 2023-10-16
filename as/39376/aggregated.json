@@ -3,7 +3,9 @@
   "handle": "WTCMOSCOW-NET",
   "description": "JOINT-STOCK COMPANY WORLD TRADE CENTER MOSCOW",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "62.148.0.0/19"
+    ],
     "ipv6": []
   }
 }

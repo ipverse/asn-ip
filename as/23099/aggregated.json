@@ -3,7 +3,12 @@
   "handle": "SPR",
   "description": "DM Petroleum Operations Company",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "198.204.105.0/24",
+      "204.63.198.0/24"
+    ],
+    "ipv6": [
+      "2620:9:c000::/48"
+    ]
   }
 }

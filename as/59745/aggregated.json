@@ -3,7 +3,10 @@
   "handle": "DCONE",
   "description": "Datacenter One GmbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.151.92.0/23",
+      "80.66.108.0/23"
+    ],
     "ipv6": []
   }
 }

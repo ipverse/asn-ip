@@ -3,7 +3,10 @@
   "handle": "RPAPSL",
   "description": "Riviera Park Alameda Padre Serra LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.217.108.0/22",
+      "209.46.64.0/22"
+    ],
     "ipv6": []
   }
 }

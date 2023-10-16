@@ -3,7 +3,9 @@
   "handle": "LOGIC-SPRINGS-TECHNOLOGIES",
   "description": "Logic Springs Technologies",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "173.227.148.0/24"
+    ],
     "ipv6": []
   }
 }

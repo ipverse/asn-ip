@@ -3,7 +3,9 @@
   "handle": "PENNHIGHLANDSCC",
   "description": "Pennsylvania Highlands Community College",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "198.137.161.0/24"
+    ],
     "ipv6": []
   }
 }

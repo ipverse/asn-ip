@@ -3,7 +3,9 @@
   "handle": "UP-DOWN-TELECOM",
   "description": "UP Down Telecom Ltda",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "190.111.108.0/22"
+    ],
     "ipv6": [
       "2804:6bb0::/32"
     ]

@@ -3,7 +3,12 @@
   "handle": "GERACAO-NET",
   "description": "GERACAO NET",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.229.164.0/22",
+      "192.144.100.0/22"
+    ],
+    "ipv6": [
+      "2804:3c70::/32"
+    ]
   }
 }

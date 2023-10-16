@@ -3,7 +3,9 @@
   "handle": "WI-TECH-RU",
   "description": "Limited Liability Company SOVREMENNYE BESPROVODNYE TEHNOLOGII",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.253.139.0/24"
+    ],
     "ipv6": []
   }
 }

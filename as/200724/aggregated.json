@@ -3,7 +3,9 @@
   "handle": "MTEL-AT",
   "description": "MTEL Austrija GmbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "213.33.53.0/24"
+    ],
     "ipv6": []
   }
 }

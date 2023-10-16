@@ -3,7 +3,9 @@
   "handle": "AUDATEX",
   "description": "Audatex SA (Proprietary) Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "102.165.176.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "SWASTIKN-IN",
   "description": "Swastik Network Solution",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.78.204.0/22"
+    ],
     "ipv6": []
   }
 }

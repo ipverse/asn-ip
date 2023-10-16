@@ -3,7 +3,9 @@
   "handle": "OEC-OSH",
   "description": "OEC Graphics",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "12.188.253.0/24"
+    ],
     "ipv6": []
   }
 }

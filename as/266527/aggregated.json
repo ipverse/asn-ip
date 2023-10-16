@@ -3,7 +3,9 @@
   "handle": "REDENET-EVS-TELECOMUNICACOES",
   "description": "REDENET - EVS TELECOMUNICACOES LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "160.20.192.0/22"
+    ],
     "ipv6": []
   }
 }

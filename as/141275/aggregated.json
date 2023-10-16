@@ -3,7 +3,9 @@
   "handle": "MAXDIGI-IN",
   "description": "Maxnet Digital Pvt Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.182.134.0/23"
+    ],
     "ipv6": []
   }
 }

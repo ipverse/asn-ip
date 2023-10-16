@@ -3,7 +3,11 @@
   "handle": "IILYO",
   "description": "HOPLA SASU",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "185.116.104.0/22"
+    ],
+    "ipv6": [
+      "2a06:7d80::/29"
+    ]
   }
 }

@@ -3,7 +3,9 @@
   "handle": "SERVICIO-IMPUESTOS-NACIONALES",
   "description": "Servicio de Impuestos Nacionales",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "170.82.244.0/23"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "MMPI",
   "description": "Ministarstvo,mora,prometa i infrastrukture",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.5.87.0/24"
+    ],
     "ipv6": []
   }
 }

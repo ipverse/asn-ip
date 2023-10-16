@@ -3,7 +3,9 @@
   "handle": "SIMINFO",
   "description": "Simsys Infotech Pvt. Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.80.54.0/23"
+    ],
     "ipv6": []
   }
 }

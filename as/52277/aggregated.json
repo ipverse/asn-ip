@@ -3,7 +3,9 @@
   "handle": "ITURAN-ARGENTINA",
   "description": "ITURAN DE ARGENTINA SA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "190.221.144.0/24"
+    ],
     "ipv6": []
   }
 }

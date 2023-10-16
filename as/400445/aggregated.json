@@ -3,7 +3,9 @@
   "handle": "NUSENDA-ADMIN-01",
   "description": "NUSENDA FEDERAL CREDIT UNION",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.169.2.0/23"
+    ],
     "ipv6": []
   }
 }

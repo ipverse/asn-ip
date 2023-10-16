@@ -3,7 +3,9 @@
   "handle": "ECLS",
   "description": "KNISTR GmbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "5.32.160.0/21"
+    ],
     "ipv6": []
   }
 }

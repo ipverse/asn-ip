@@ -3,7 +3,9 @@
   "handle": "RIM",
   "description": "Reseau Internet Maskoutain",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "104.245.64.0/22"
+    ],
     "ipv6": []
   }
 }

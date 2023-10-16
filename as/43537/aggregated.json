@@ -3,7 +3,9 @@
   "handle": "INTELCOMNET",
   "description": "OOO WestCall Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "78.24.0.0/21"
+    ],
     "ipv6": []
   }
 }

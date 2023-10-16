@@ -3,7 +3,9 @@
   "handle": "DIRECTV-CHILE-TELEVISION",
   "description": "DIRECTV CHILE TELEVISION LIMITADA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "190.12.173.0/24"
+    ],
     "ipv6": []
   }
 }

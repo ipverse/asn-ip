@@ -3,7 +3,9 @@
   "handle": "LIGHTNET",
   "description": "Ekran-Telecom, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "176.117.48.0/21"
+    ],
     "ipv6": []
   }
 }

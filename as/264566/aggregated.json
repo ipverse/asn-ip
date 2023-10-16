@@ -3,7 +3,9 @@
   "handle": "INTERNET-O-SUL",
   "description": "INTERNET O SUL COMRCIO E SERVIOS LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "138.0.144.0/22"
+    ],
     "ipv6": [
       "2804:21ac::/32"
     ]

@@ -3,7 +3,10 @@
   "handle": "KANTIPUR-AP",
   "description": "Kantipur Publications Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.48.88.0/24",
+      "103.212.64.0/23"
+    ],
     "ipv6": []
   }
 }

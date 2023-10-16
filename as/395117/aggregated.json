@@ -3,7 +3,9 @@
   "handle": "LIMS",
   "description": "LabVantage Solutions, Inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "47.19.19.0/24"
+    ],
     "ipv6": []
   }
 }

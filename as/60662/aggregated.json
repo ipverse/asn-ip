@@ -3,7 +3,11 @@
   "handle": "DATACOMM",
   "description": "DataCom Group Nordic AB",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "37.122.144.0/22",
+      "185.27.168.0/22",
+      "185.106.180.0/22"
+    ],
     "ipv6": []
   }
 }

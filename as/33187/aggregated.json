@@ -3,7 +3,11 @@
   "handle": "SHSU",
   "description": "Sam Houston State University",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "158.135.0.0/16"
+    ],
+    "ipv6": [
+      "2620:7e:c080::/48"
+    ]
   }
 }

@@ -3,7 +3,9 @@
   "handle": "PRIMEXM-NETWORKS",
   "description": "PrimeXM Networks",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "162.255.144.0/22"
+    ],
     "ipv6": []
   }
 }

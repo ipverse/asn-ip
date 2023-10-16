@@ -3,7 +3,11 @@
   "handle": "INTRASERV",
   "description": "Intraserv Kamil Schild",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "195.245.203.0/24"
+    ],
+    "ipv6": [
+      "2001:67c:293c::/48"
+    ]
   }
 }

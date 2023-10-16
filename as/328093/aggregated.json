@@ -3,7 +3,9 @@
   "handle": "KENYA-COMMERCIAL-BANK",
   "description": "Kenya Commercial Bank Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "196.216.222.0/23"
+    ],
     "ipv6": []
   }
 }

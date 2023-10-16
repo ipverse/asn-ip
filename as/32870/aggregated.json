@@ -3,7 +3,11 @@
   "handle": "RADIAN6",
   "description": "Salesforce.com, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "136.147.164.0/22",
+      "136.147.168.0/22",
+      "136.147.174.0/23"
+    ],
     "ipv6": []
   }
 }

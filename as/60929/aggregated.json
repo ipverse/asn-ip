@@ -3,7 +3,9 @@
   "handle": "ITC",
   "description": "Investment and technology group of companies limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.23.152.0/22"
+    ],
     "ipv6": []
   }
 }

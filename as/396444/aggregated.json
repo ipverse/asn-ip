@@ -3,7 +3,9 @@
   "handle": "OSI-CENTURY-205",
   "description": "OSI Industries, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "205.219.92.0/24"
+    ],
     "ipv6": []
   }
 }

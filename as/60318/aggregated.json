@@ -3,7 +3,9 @@
   "handle": "VSELINK",
   "description": "VSELINK LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.90.17.0/24"
+    ],
     "ipv6": []
   }
 }

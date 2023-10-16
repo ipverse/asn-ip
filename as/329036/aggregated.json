@@ -3,7 +3,9 @@
   "handle": "TECL1",
   "description": "The Expert Company (Pty) Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "102.216.188.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,11 @@
   "handle": "JARINDO-ID",
   "description": "PT. Media Jaringan Indonesia",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.105.217.0/24",
+      "103.107.71.0/24",
+      "103.107.84.0/23"
+    ],
     "ipv6": []
   }
 }

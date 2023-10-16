@@ -3,7 +3,9 @@
   "handle": "MAAHITEL-IN",
   "description": "Maahi Telecommunication Private Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.132.24.0/22"
+    ],
     "ipv6": []
   }
 }

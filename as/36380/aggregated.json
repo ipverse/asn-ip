@@ -3,7 +3,9 @@
   "handle": "ECONNERGYENERGY",
   "description": "Gateway Energy Services Corporation",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "65.213.221.0/24"
+    ],
     "ipv6": []
   }
 }

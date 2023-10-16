@@ -3,7 +3,9 @@
   "handle": "VELTRADE",
   "description": "Veltrade LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "178.170.226.0/24"
+    ],
     "ipv6": []
   }
 }

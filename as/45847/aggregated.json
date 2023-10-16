@@ -3,7 +3,9 @@
   "handle": "NSTRU-AP",
   "description": "university network ,Nakornsitammarat, Thailand",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "202.29.33.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "ANT-DS",
   "description": "ANT Digital Services LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "80.249.189.0/24"
+    ],
     "ipv6": []
   }
 }

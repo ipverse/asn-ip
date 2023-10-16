@@ -3,7 +3,11 @@
   "handle": "RODOLFO-TREVIZAM-FERMINO",
   "description": "RODOLFO TREVIZAM FERMINO DE OLIVEIRA - EPP",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.224.56.0/22"
+    ],
+    "ipv6": [
+      "2804:44b0::/32"
+    ]
   }
 }

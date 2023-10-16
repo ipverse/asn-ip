@@ -3,7 +3,10 @@
   "handle": "VOL",
   "description": "Vist on-line LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "89.249.224.0/20",
+      "185.124.176.0/22"
+    ],
     "ipv6": []
   }
 }

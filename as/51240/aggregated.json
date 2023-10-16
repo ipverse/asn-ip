@@ -3,7 +3,9 @@
   "handle": "DEDEMAN",
   "description": "DEDEMAN SRL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.216.225.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,10 @@
   "handle": "ALBEMARLE-CORP",
   "description": "Albemarle Corp",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.223.41.0/24",
+      "199.223.42.0/23"
+    ],
     "ipv6": []
   }
 }

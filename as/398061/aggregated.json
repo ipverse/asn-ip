@@ -3,7 +3,9 @@
   "handle": "GENATEC-BGP",
   "description": "Genatec, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "208.65.102.0/23"
+    ],
     "ipv6": []
   }
 }

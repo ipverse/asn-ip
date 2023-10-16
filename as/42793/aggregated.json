@@ -3,7 +3,9 @@
   "handle": "HADASSAH",
   "description": "Hadassah Medical Organisation Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.110.249.0/24"
+    ],
     "ipv6": []
   }
 }

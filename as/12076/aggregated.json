@@ -3,7 +3,10 @@
   "handle": "MICROSOFT",
   "description": "Microsoft Corporation",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "170.110.229.0/24",
+      "170.110.247.0/24"
+    ],
     "ipv6": []
   }
 }

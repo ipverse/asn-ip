@@ -3,7 +3,10 @@
   "handle": "DIDLOGIC",
   "description": "DID Logic Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.118.61.0/24",
+      "185.118.62.0/23"
+    ],
     "ipv6": []
   }
 }

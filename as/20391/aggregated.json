@@ -3,7 +3,9 @@
   "handle": "PRGPARKING-DOMAIN",
   "description": "The Parking Spot",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "198.55.42.0/24"
+    ],
     "ipv6": []
   }
 }

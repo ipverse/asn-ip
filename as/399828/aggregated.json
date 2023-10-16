@@ -3,7 +3,9 @@
   "handle": "COKER-CAMPUS-01",
   "description": "Coker University",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.222.128.0/23"
+    ],
     "ipv6": []
   }
 }

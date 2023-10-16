@@ -3,7 +3,9 @@
   "handle": "ATMAN-PROJECTS",
   "description": "Atman Sp. z o.o.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.9.24.0/23"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "TEMSA",
   "description": "TEMSA SKODA SABANCI ULASIM ARACLARI A.S.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "82.222.154.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "ALSCO",
   "description": "ALSCO",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "66.111.52.0/23"
+    ],
     "ipv6": []
   }
 }

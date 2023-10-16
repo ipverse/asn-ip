@@ -3,7 +3,10 @@
   "handle": "NCTCOG-911-ESINET",
   "description": "North Central Texas Council of Governments",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "216.226.192.0/24",
+      "216.226.194.0/24"
+    ],
     "ipv6": []
   }
 }

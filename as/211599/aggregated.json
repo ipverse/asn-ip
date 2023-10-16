@@ -3,7 +3,9 @@
   "handle": "PROFIRATOR",
   "description": "Profirator OY",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.249.253.0/24"
+    ],
     "ipv6": []
   }
 }

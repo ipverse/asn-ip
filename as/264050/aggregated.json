@@ -3,7 +3,11 @@
   "handle": "N-CARVALHO-SANTANA-EIRELI",
   "description": "N. DE CARVALHO SANTANA EIRELI",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "143.137.124.0/22"
+    ],
+    "ipv6": [
+      "2804:2a00::/32"
+    ]
   }
 }

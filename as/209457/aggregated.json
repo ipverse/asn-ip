@@ -3,7 +3,9 @@
   "handle": "EPSHP-FI",
   "description": "Etela-Pohjanmaan Hyvinvointialue",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "5.253.72.0/22"
+    ],
     "ipv6": []
   }
 }

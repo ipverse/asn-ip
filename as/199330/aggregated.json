@@ -3,7 +3,11 @@
   "handle": "CENTRALNIC-ANYCAST-A",
   "description": "CentralNic Ltd",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "194.169.218.0/24"
+    ],
+    "ipv6": [
+      "2001:67c:13cc::/48"
+    ]
   }
 }

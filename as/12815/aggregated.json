@@ -3,7 +3,9 @@
   "handle": "MUSALASOFT",
   "description": "Musala Soft EAD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.17.229.0/24"
+    ],
     "ipv6": []
   }
 }

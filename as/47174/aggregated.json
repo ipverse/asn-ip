@@ -3,7 +3,9 @@
   "handle": "TUVARNA",
   "description": "Technical University of Varna",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.216.228.0/24"
+    ],
     "ipv6": []
   }
 }

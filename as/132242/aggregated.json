@@ -3,7 +3,9 @@
   "handle": "HOGARTHWW-SG",
   "description": "Hogarth Worldwide Pte",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.8.120.0/24"
+    ],
     "ipv6": []
   }
 }

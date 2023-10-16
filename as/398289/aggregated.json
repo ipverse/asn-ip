@@ -3,7 +3,9 @@
   "handle": "JKNIPPER-ASN-01",
   "description": "J. KNIPPER AND COMPANY, INC.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "68.177.86.0/24"
+    ],
     "ipv6": []
   }
 }

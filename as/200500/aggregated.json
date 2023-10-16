@@ -3,7 +3,10 @@
   "handle": "VESTA-DUB",
   "description": "Vesta Payment Solutions Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.84.253.0/24",
+      "185.84.254.0/23"
+    ],
     "ipv6": []
   }
 }

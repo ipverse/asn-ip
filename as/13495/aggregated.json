@@ -3,7 +3,9 @@
   "handle": "NTT-BRASIL-TELECOMUNICACOES",
   "description": "NTT DO BRASIL TELECOMUNICACOES LTDA.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "200.194.64.0/19"
+    ],
     "ipv6": []
   }
 }

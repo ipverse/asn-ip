@@ -3,7 +3,9 @@
   "handle": "JACKSONVILLE",
   "description": "Formativ Health",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "170.55.115.0/24"
+    ],
     "ipv6": []
   }
 }

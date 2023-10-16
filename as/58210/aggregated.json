@@ -3,7 +3,9 @@
   "handle": "SKYNET",
   "description": "SkyNet Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.61.60.0/22"
+    ],
     "ipv6": []
   }
 }

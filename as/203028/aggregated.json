@@ -3,7 +3,9 @@
   "handle": "PRYMAS-NET",
   "description": "PRYMAS INWESTYCJE SPOLKA Z OGRANICZONA ODPOWIEDZIALNOSCIA SPOLKA KOMANDYTOWA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.147.68.0/22"
+    ],
     "ipv6": []
   }
 }

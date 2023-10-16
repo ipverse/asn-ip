@@ -3,7 +3,9 @@
   "handle": "GSN-AP",
   "description": "State Services Commission",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "210.48.191.0/24"
+    ],
     "ipv6": []
   }
 }

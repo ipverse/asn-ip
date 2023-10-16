@@ -3,7 +3,9 @@
   "handle": "MAURO-GAVA",
   "description": "Mauro Gava - ME",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.181.200.0/22"
+    ],
     "ipv6": []
   }
 }

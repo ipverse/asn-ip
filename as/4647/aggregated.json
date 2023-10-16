@@ -3,7 +3,12 @@
   "handle": "CENTRANETWORKS-AU",
   "description": "Centra Networks",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "103.246.28.0/22",
+      "203.30.140.0/24"
+    ],
+    "ipv6": [
+      "2404:fc80::/32"
+    ]
   }
 }

@@ -4,6 +4,9 @@
   "description": "Dominic Ritchey",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a05:b0c6:5500::/40",
+      "2a06:1287:3800::/40"
+    ]
   }
 }

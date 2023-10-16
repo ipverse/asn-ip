@@ -3,7 +3,9 @@
   "handle": "ESTRELA-TELECOM",
   "description": "ESTRELA TELECOM",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "190.106.112.0/21"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "P-P-BUSINESS-GROUP",
   "description": "P\u0026P BUSINESS GROUP SAC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.177.20.0/22"
+    ],
     "ipv6": []
   }
 }

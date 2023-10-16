@@ -3,7 +3,9 @@
   "handle": "CANDIDCOLORSYSTEMS",
   "description": "Candid Color Systems, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "205.159.125.0/24"
+    ],
     "ipv6": []
   }
 }

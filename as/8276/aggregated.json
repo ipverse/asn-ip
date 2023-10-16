@@ -3,7 +3,9 @@
   "handle": "VONESERVICES",
   "description": "Vone Services Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.116.160.0/23"
+    ],
     "ipv6": []
   }
 }

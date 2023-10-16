@@ -3,7 +3,10 @@
   "handle": "NBASN-180",
   "description": "Nexstar Broadcasting Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "163.194.0.0/16",
+      "172.84.136.0/21"
+    ],
     "ipv6": []
   }
 }

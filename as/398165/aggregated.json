@@ -3,7 +3,9 @@
   "handle": "JAROL-01",
   "description": "Chances",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "161.199.175.0/24"
+    ],
     "ipv6": []
   }
 }

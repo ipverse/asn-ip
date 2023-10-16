@@ -3,7 +3,9 @@
   "handle": "PAUTINA05",
   "description": "Shahaev Gadzhi Abdurahmanovich",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.129.200.0/22"
+    ],
     "ipv6": []
   }
 }

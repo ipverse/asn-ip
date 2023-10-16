@@ -3,7 +3,11 @@
   "handle": "DK-OWGROUP",
   "description": "Wrist Ship Supply A/S",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "91.234.149.0/24"
+    ],
+    "ipv6": [
+      "2001:67c:7a8::/48"
+    ]
   }
 }

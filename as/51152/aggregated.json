@@ -3,7 +3,9 @@
   "handle": "VALMESA",
   "description": "VALORACIONES MEDITERRANEO, SA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.151.36.0/22"
+    ],
     "ipv6": []
   }
 }

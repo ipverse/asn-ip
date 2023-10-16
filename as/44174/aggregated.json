@@ -3,7 +3,10 @@
   "handle": "JTGC1",
   "description": "Public Joint-Stock-Company Territorial Generating Company-1",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.195.114.0/23",
+      "195.189.223.0/24"
+    ],
     "ipv6": []
   }
 }

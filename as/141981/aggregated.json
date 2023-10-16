@@ -3,7 +3,9 @@
   "handle": "IDNIC-ITLTRISAKTI-ID",
   "description": "Institut Transportasi dan Logistik Trisakti",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.167.110.0/23"
+    ],
     "ipv6": []
   }
 }

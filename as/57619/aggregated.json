@@ -3,7 +3,9 @@
   "handle": "VDC",
   "description": "Varna Data Center EOOD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "77.71.112.0/22"
+    ],
     "ipv6": []
   }
 }

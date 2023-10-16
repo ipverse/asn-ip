@@ -3,7 +3,9 @@
   "handle": "ACN",
   "description": "Advanced Corporate Network",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "216.47.160.0/19"
+    ],
     "ipv6": []
   }
 }

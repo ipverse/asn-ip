@@ -3,7 +3,9 @@
   "handle": "KALYST",
   "description": "KINCY SAS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.27.224.0/22"
+    ],
     "ipv6": []
   }
 }

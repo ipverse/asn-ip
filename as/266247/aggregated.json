@@ -3,7 +3,11 @@
   "handle": "ISPCORP-SOLUES-DIGITAIS",
   "description": "ISPCORP Solues Digitais Corporativas Ltda.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.6.216.0/22"
+    ],
+    "ipv6": [
+      "2804:3d00::/32"
+    ]
   }
 }

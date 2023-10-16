@@ -3,7 +3,9 @@
   "handle": "CEB",
   "description": "CREDIT EUROPE BANK Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.14.106.0/23"
+    ],
     "ipv6": []
   }
 }

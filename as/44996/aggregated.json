@@ -3,7 +3,10 @@
   "handle": "YARNET",
   "description": "Yarnet LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "31.42.60.0/22",
+      "45.10.90.0/24"
+    ],
     "ipv6": []
   }
 }

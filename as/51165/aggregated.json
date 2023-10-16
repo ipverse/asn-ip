@@ -3,7 +3,9 @@
   "handle": "SCBK",
   "description": "JSC SEGEZHA PULP AND PAPER MILL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.216.175.0/24"
+    ],
     "ipv6": []
   }
 }

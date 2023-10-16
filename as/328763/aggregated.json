@@ -3,7 +3,9 @@
   "handle": "CRIMSON-MOON-TRADING",
   "description": "Crimson Moon Trading",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "102.221.0.0/22"
+    ],
     "ipv6": []
   }
 }

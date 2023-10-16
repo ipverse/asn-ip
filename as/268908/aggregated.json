@@ -3,7 +3,9 @@
   "handle": "HIPERTV-SERVICOS-COMUNICACAO",
   "description": "HIPERTV SERVICOS DE COMUNICACAO MULTIMIDIA LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.174.232.0/22"
+    ],
     "ipv6": []
   }
 }

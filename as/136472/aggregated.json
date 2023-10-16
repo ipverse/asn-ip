@@ -3,7 +3,9 @@
   "handle": "IXLINKNETLIMITED-AP",
   "description": "IXLINK.NET Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.156.220.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "SINCHDK",
   "description": "Sinch Denmark ApS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.1.219.0/24"
+    ],
     "ipv6": []
   }
 }

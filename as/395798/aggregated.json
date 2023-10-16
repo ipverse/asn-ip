@@ -3,7 +3,10 @@
   "handle": "IPRO-DC01",
   "description": "IPro Media, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.84.46.0/24",
+      "204.69.218.0/24"
+    ],
     "ipv6": []
   }
 }

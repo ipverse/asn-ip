@@ -3,7 +3,9 @@
   "handle": "PHONONET",
   "description": "PHONONET GmbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.68.236.0/23"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "REGIONE-BASILICATA",
   "description": "Regione Basilicata",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "78.40.168.0/22"
+    ],
     "ipv6": []
   }
 }

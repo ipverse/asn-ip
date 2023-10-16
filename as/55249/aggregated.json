@@ -3,7 +3,9 @@
   "handle": "SAGE-ELSEG1",
   "description": "Sage Publications, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "208.88.132.0/23"
+    ],
     "ipv6": []
   }
 }

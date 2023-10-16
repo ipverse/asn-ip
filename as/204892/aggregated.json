@@ -3,7 +3,9 @@
   "handle": "AGROPROSPERIS",
   "description": "AGROPROSPERIS LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "176.111.247.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "WCPSS-BOE",
   "description": "Wake County Public School System",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "152.26.88.0/22"
+    ],
     "ipv6": []
   }
 }

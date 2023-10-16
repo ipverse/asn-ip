@@ -3,7 +3,10 @@
   "handle": "TATA-PLAY-AP",
   "description": "Tata Play Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.14.46.0/24",
+      "103.78.202.0/23"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "BANK-AUSTRIA-LJUBLJANA",
   "description": "UNICREDIT BANKA SLOVENIJA d.d.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.126.197.0/24"
+    ],
     "ipv6": []
   }
 }

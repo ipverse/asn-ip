@@ -3,7 +3,9 @@
   "handle": "ADITYABIRLA",
   "description": "Aditya Birla Nuvo Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.39.0.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "JF-PROVEDOR-INTERNET",
   "description": "JF PROVEDOR DE INTERNET LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "186.249.248.0/21"
+    ],
     "ipv6": []
   }
 }

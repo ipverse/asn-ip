@@ -3,7 +3,9 @@
   "handle": "GIGALINK-LTD",
   "description": "GigaLink Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "178.218.16.0/20"
+    ],
     "ipv6": []
   }
 }

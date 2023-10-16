@@ -3,7 +3,11 @@
   "handle": "TL",
   "description": "TechnoLogica EAD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "93.123.110.0/24",
+      "151.252.199.0/24",
+      "195.149.71.0/24"
+    ],
     "ipv6": []
   }
 }

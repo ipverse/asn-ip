@@ -3,7 +3,9 @@
   "handle": "NUEVA-WAL-MART-MEXICO",
   "description": "NUEVA WAL MART DE MEXICO",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "148.250.124.0/23"
+    ],
     "ipv6": []
   }
 }

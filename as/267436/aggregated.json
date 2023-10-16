@@ -3,7 +3,11 @@
   "handle": "UPLINK-INTERNET-BANDA-LARGA",
   "description": "UPLINK INTERNET BANDA LARGA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "181.191.0.0/22"
+    ],
+    "ipv6": [
+      "2804:417c::/32"
+    ]
   }
 }

@@ -3,7 +3,10 @@
   "handle": "KNOLL-INC",
   "description": "MillerKnoll, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "8.25.168.0/24",
+      "38.68.59.0/24"
+    ],
     "ipv6": []
   }
 }

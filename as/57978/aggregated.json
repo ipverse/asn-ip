@@ -3,7 +3,9 @@
   "handle": "DIGICOM",
   "description": "Digi Com ISP Radoslaw Sikora",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "176.111.112.0/21"
+    ],
     "ipv6": []
   }
 }

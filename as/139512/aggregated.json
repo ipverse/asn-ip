@@ -3,7 +3,9 @@
   "handle": "UIIC-IN",
   "description": "United India Insurance Co Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.151.254.0/23"
+    ],
     "ipv6": []
   }
 }

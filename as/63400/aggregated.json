@@ -3,7 +3,9 @@
   "handle": "LUBBOCKISD",
   "description": "Lubbock Independent School District",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "67.158.80.0/20"
+    ],
     "ipv6": []
   }
 }

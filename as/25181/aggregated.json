@@ -3,7 +3,11 @@
   "handle": "EU-SONY",
   "description": "Sony Europe B.V.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "195.2.41.0/24"
+    ],
+    "ipv6": [
+      "2a00:1310::/32"
+    ]
   }
 }

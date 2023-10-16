@@ -3,7 +3,11 @@
   "handle": "INFORARTS-MARIA-FABIANA",
   "description": "INFORARTS - MARIA FABIANA JOSUE DE SOUZA HOLANDA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "168.194.124.0/22"
+    ],
+    "ipv6": [
+      "2804:334c::/32"
+    ]
   }
 }

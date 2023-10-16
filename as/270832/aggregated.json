@@ -3,7 +3,10 @@
   "handle": "K-C-TELECOM",
   "description": "K C TELECOM LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "179.0.160.0/22",
+      "186.227.212.0/22"
+    ],
     "ipv6": []
   }
 }

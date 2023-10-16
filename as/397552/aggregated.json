@@ -3,7 +3,9 @@
   "handle": "NORTHEAST-DELTA-DENTAL",
   "description": "Northeast Delta Dental",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.54.255.0/24"
+    ],
     "ipv6": []
   }
 }

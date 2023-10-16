@@ -3,7 +3,11 @@
   "handle": "SOURCEWELL",
   "description": "Sourcewell",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "198.52.1.0/24",
+      "204.169.0.0/16",
+      "206.131.128.0/19"
+    ],
     "ipv6": []
   }
 }

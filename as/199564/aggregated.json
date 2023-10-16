@@ -3,7 +3,11 @@
   "handle": "MPA-NET",
   "description": "Medical Products Agency",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "194.71.155.0/24"
+    ],
+    "ipv6": [
+      "2001:67c:148c::/48"
+    ]
   }
 }

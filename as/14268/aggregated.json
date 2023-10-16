@@ -3,7 +3,9 @@
   "handle": "ASNCSL",
   "description": "Northern Computer Solutions Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "74.119.0.0/22"
+    ],
     "ipv6": []
   }
 }

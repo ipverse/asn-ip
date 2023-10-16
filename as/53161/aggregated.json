@@ -3,7 +3,9 @@
   "handle": "NEXXERA-TECNOLOGIA-SERVICOS",
   "description": "Nexxera Tecnologia e Servicos SA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "189.124.48.0/20"
+    ],
     "ipv6": []
   }
 }

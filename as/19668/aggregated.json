@@ -3,7 +3,9 @@
   "handle": "PRICEWATERHOUSECOOPERS-MSO",
   "description": "PriceWaterhouseCoopers, LLP",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "65.183.27.0/24"
+    ],
     "ipv6": []
   }
 }

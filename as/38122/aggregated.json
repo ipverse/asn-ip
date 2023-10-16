@@ -3,7 +3,11 @@
   "handle": "SGIC",
   "description": "Seoul Guarantee Insurance Company",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "1.232.12.0/24",
+      "61.72.18.0/24",
+      "121.128.224.0/23"
+    ],
     "ipv6": []
   }
 }

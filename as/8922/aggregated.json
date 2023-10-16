@@ -3,7 +3,11 @@
   "handle": "TNET",
   "description": "T.net S.p.A.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "185.34.36.0/22"
+    ],
+    "ipv6": [
+      "2a03:e700::/32"
+    ]
   }
 }

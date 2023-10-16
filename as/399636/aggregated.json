@@ -3,7 +3,9 @@
   "handle": "ITHAKA-AA2",
   "description": "ITHAKA Harbors, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.109.96.0/24"
+    ],
     "ipv6": []
   }
 }

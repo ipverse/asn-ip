@@ -3,7 +3,11 @@
   "handle": "CIFNET",
   "description": "CIFNet, Inc.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "208.76.168.0/21"
+    ],
+    "ipv6": [
+      "2604:65c0::/32"
+    ]
   }
 }

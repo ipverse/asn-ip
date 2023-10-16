@@ -3,7 +3,9 @@
   "handle": "OFTA-AP",
   "description": "CITIC Telecom International CPC Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "202.82.15.0/24"
+    ],
     "ipv6": []
   }
 }

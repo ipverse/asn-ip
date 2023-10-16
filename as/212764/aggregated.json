@@ -3,7 +3,9 @@
   "handle": "UNIWAGON",
   "description": "Public Joint Stock Company Research and production corporation United Wagon Company",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "95.163.178.0/23"
+    ],
     "ipv6": []
   }
 }

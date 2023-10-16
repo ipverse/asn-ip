@@ -3,7 +3,10 @@
   "handle": "CITY26",
   "description": "Posazhennikov Vladimir Vasilevich",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "31.204.0.0/24",
+      "185.175.16.0/22"
+    ],
     "ipv6": []
   }
 }

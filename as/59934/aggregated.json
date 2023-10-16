@@ -3,7 +3,10 @@
   "handle": "CONVERSION",
   "description": "Conversion Marketing SRL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "89.35.35.0/24",
+      "91.247.179.0/24"
+    ],
     "ipv6": []
   }
 }

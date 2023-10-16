@@ -3,7 +3,9 @@
   "handle": "VENTASREIT",
   "description": "Ventas, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "198.62.207.0/24"
+    ],
     "ipv6": []
   }
 }

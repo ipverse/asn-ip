@@ -3,7 +3,10 @@
   "handle": "PTT-GCPCL",
   "description": "PTT Global Chemical Public Company Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "122.155.64.0/24",
+      "202.80.224.0/24"
+    ],
     "ipv6": []
   }
 }

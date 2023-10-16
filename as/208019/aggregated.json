@@ -3,7 +3,10 @@
   "handle": "AGL",
   "description": "Attilio Giusti Leombruni SPA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.25.106.0/23",
+      "193.25.108.0/23"
+    ],
     "ipv6": []
   }
 }

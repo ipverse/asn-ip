@@ -3,7 +3,9 @@
   "handle": "FINAYTI",
   "description": "TOV Finayti",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.104.58.0/24"
+    ],
     "ipv6": []
   }
 }

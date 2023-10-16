@@ -3,7 +3,10 @@
   "handle": "NET4SEC",
   "description": "net4sec UG",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "62.67.194.0/24",
+      "62.67.240.0/22"
+    ],
     "ipv6": []
   }
 }

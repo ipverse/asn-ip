@@ -3,7 +3,9 @@
   "handle": "SUMMAHEALTH",
   "description": "Summa Health System",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.83.64.0/20"
+    ],
     "ipv6": []
   }
 }

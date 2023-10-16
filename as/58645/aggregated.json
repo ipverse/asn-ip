@@ -3,7 +3,9 @@
   "handle": "MARINET",
   "description": "Miyagi Cable TV Co.,Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.13.168.0/22"
+    ],
     "ipv6": []
   }
 }

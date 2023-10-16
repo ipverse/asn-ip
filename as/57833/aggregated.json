@@ -3,7 +3,9 @@
   "handle": "UNIVERSAL",
   "description": "Universal Services of America, LP",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.154.4.0/22"
+    ],
     "ipv6": []
   }
 }

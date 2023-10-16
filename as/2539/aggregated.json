@@ -3,7 +3,9 @@
   "handle": "GLAXOSMITHKLINE",
   "description": "GlaxoSmithKline",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "152.51.56.0/24"
+    ],
     "ipv6": []
   }
 }

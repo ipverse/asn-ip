@@ -3,7 +3,9 @@
   "handle": "GENESYS-DC",
   "description": "Genesys Cloud Services B.V.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "135.39.166.0/24"
+    ],
     "ipv6": []
   }
 }

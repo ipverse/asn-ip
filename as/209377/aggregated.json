@@ -3,7 +3,11 @@
   "handle": "FOURCONSULT",
   "description": "4Consult B.V.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "152.89.4.0/22"
+    ],
+    "ipv6": [
+      "2a09:2c40::/29"
+    ]
   }
 }

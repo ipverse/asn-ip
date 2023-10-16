@@ -3,7 +3,9 @@
   "handle": "CNAB",
   "description": "COMPANIA NATIONALA AEROPORTURI BUCURESTI SA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "176.126.220.0/23"
+    ],
     "ipv6": []
   }
 }

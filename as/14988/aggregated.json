@@ -3,7 +3,12 @@
   "handle": "BTC-GATE1",
   "description": "Botswana Telecommunications Corporation",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "168.167.0.0/16",
+      "196.2.2.0/24"
+    ],
+    "ipv6": [
+      "2c0f:ff00::/32"
+    ]
   }
 }

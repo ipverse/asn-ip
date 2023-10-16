@@ -3,7 +3,9 @@
   "handle": "BMA",
   "description": "BMA MANAGEMENT SUPPORT CORPORATION",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "208.103.181.0/24"
+    ],
     "ipv6": []
   }
 }

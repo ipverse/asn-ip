@@ -3,7 +3,9 @@
   "handle": "UD-RES",
   "description": "University of Dayton",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "64.93.128.0/17"
+    ],
     "ipv6": []
   }
 }

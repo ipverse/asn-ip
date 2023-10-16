@@ -3,7 +3,9 @@
   "handle": "ISPER",
   "description": "ISPER, s.r.o.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "77.247.224.0/21"
+    ],
     "ipv6": []
   }
 }

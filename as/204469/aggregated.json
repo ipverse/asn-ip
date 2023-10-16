@@ -3,7 +3,9 @@
   "handle": "SANEVIAN",
   "description": "Sanevian",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "31.13.240.0/24"
+    ],
     "ipv6": []
   }
 }

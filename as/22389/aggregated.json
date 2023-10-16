@@ -3,7 +3,9 @@
   "handle": "COURSERA",
   "description": "Coursera Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.99.21.0/24"
+    ],
     "ipv6": []
   }
 }

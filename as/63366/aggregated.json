@@ -3,7 +3,10 @@
   "handle": "TINTRI",
   "description": "Tintri Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "64.13.175.0/24",
+      "104.254.240.0/22"
+    ],
     "ipv6": []
   }
 }

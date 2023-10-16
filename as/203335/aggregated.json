@@ -3,7 +3,9 @@
   "handle": "NETENT3",
   "description": "Evolution NetEnt (Gibraltar) Limited.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "190.0.228.0/24"
+    ],
     "ipv6": []
   }
 }

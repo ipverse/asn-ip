@@ -3,7 +3,9 @@
   "handle": "SVIAZ-INDUSTRIYA",
   "description": "Limited Liability Company Sviaz Industriya",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "109.95.216.0/21"
+    ],
     "ipv6": []
   }
 }

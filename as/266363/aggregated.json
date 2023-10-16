@@ -3,7 +3,9 @@
   "handle": "G-M-SERVICOS",
   "description": "G \u0026 M SERVICOS DE COMUNICACAO E MULTIMIDIA LTDA-ME",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "170.239.248.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "RWANDATEL",
   "description": "Autonomous System Number for RWANDATEL, Rwanda",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "196.12.128.0/19"
+    ],
     "ipv6": []
   }
 }

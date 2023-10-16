@@ -3,7 +3,9 @@
   "handle": "GRADRI",
   "description": "Grad Rijeka-Gradsko Vijece",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "46.31.136.0/21"
+    ],
     "ipv6": []
   }
 }

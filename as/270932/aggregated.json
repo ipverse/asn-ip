@@ -3,9 +3,11 @@
   "handle": "IN9NET-SERVICOS-TECNOLOGIA",
   "description": "IN9NET SERVICOS DE TECNOLOGIA EIRELI",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "138.59.36.0/22"
+    ],
     "ipv6": [
-      "2804:73b4:3000::/36"
+      "2804:73b4::/32"
     ]
   }
 }

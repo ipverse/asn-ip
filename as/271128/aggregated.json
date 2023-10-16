@@ -3,7 +3,9 @@
   "handle": "FAST-WEB",
   "description": "FAST WEB",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "179.42.48.0/22"
+    ],
     "ipv6": [
       "2804:76b0::/32"
     ]

@@ -3,7 +3,9 @@
   "handle": "ZAYMER2",
   "description": "MFC Zaymer LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.67.215.0/24"
+    ],
     "ipv6": []
   }
 }

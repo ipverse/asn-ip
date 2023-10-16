@@ -3,7 +3,9 @@
   "handle": "FSKNW",
   "description": "Managing Company Financial and Construction Corporation North-West Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.190.150.0/24"
+    ],
     "ipv6": []
   }
 }

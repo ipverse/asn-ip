@@ -3,7 +3,9 @@
   "handle": "LAYS-VALERIA-COSTA",
   "description": "Lays Valeria Costa Almeida Frana - EPP",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "177.92.240.0/21"
+    ],
     "ipv6": []
   }
 }

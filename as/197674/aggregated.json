@@ -3,7 +3,9 @@
   "handle": "WIN-DSL",
   "description": "WIN DSL s.a.r.l",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.72.216.0/22"
+    ],
     "ipv6": []
   }
 }

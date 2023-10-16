@@ -4,6 +4,8 @@
   "description": "PowerNet Solues Integradas em Telecomunicaes",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2804:851c::/32"
+    ]
   }
 }

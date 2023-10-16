@@ -3,7 +3,9 @@
   "handle": "COMMTO-GE",
   "description": "Cyren Inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "84.39.152.0/24"
+    ],
     "ipv6": []
   }
 }

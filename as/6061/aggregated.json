@@ -3,7 +3,9 @@
   "handle": "OREILLYMEDIA-AS2",
   "description": "O\u0027Reilly Media, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.27.147.0/24"
+    ],
     "ipv6": []
   }
 }

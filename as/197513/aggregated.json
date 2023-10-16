@@ -3,7 +3,9 @@
   "handle": "RADIO-OLSZTYN",
   "description": "POLSKIE RADIO-REGIONALNA ROZGLOSNIA W OLSZTYNIE RADIO OLSZTYN S.A.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.20.131.0/24"
+    ],
     "ipv6": []
   }
 }

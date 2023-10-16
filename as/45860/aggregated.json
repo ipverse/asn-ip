@@ -3,7 +3,9 @@
   "handle": "UN-TH-AP",
   "description": "United Nation",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "171.102.37.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,11 @@
   "handle": "CHINATELECOM-GUIZHOU",
   "description": "CHINANET Guizhou province network",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "202.98.192.0/24"
+    ],
+    "ipv6": [
+      "240e:4a:4300::/40"
+    ]
   }
 }

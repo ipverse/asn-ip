@@ -3,7 +3,9 @@
   "handle": "WIRENET",
   "description": "WIRENET LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.244.112.0/22"
+    ],
     "ipv6": []
   }
 }

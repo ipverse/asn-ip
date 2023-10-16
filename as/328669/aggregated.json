@@ -3,7 +3,9 @@
   "handle": "BOLSA-DE-DIVIDA",
   "description": "BOLSA DE DVIDA E VALORES DE ANGOLA, SGMR, S.A",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "102.223.3.0/24"
+    ],
     "ipv6": []
   }
 }

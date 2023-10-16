@@ -3,7 +3,9 @@
   "handle": "ROMATSA",
   "description": "ROMATSA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.230.231.0/24"
+    ],
     "ipv6": []
   }
 }

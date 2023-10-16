@@ -3,7 +3,9 @@
   "handle": "BLUETECH-VN",
   "description": "BLUE TECHNOLOGY AND INVESTMENT COMPANY LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.73.86.0/23"
+    ],
     "ipv6": []
   }
 }

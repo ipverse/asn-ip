@@ -3,7 +3,9 @@
   "handle": "SEAMLESS-FIBER-INNOVATIONS",
   "description": "Seamless Fiber Innovations L.L.C.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "104.152.212.0/22"
+    ],
     "ipv6": []
   }
 }

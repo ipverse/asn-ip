@@ -3,7 +3,11 @@
   "handle": "SERGIO-MURILO-SANTOS",
   "description": "SERGIO MURILO DOS SANTOS ME",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.165.28.0/22"
+    ],
+    "ipv6": [
+      "2804:5484::/32"
+    ]
   }
 }

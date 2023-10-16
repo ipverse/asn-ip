@@ -3,7 +3,9 @@
   "handle": "CORR",
   "description": "Seoul Regional Correction Headquarters",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "112.76.149.0/24"
+    ],
     "ipv6": []
   }
 }

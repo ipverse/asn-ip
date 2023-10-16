@@ -3,7 +3,11 @@
   "handle": "MIKMAW-KINAMATNEWEY",
   "description": "Mikmaw Kinamatnewey",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "172.93.124.0/22"
+    ],
+    "ipv6": [
+      "2620:131:4000::/40"
+    ]
   }
 }

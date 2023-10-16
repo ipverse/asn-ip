@@ -3,7 +3,9 @@
   "handle": "PANA",
   "description": "Pana Services Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.31.232.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,11 @@
   "handle": "INTERNET-SUPER",
   "description": "INTERNET SUPER LTDA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "200.71.64.0/22"
+    ],
+    "ipv6": [
+      "2804:3c1c::/32"
+    ]
   }
 }

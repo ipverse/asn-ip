@@ -3,7 +3,10 @@
   "handle": "SANDSBETHLEHEM",
   "description": "Wind Creek Bethlehem LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "208.177.106.0/24",
+      "216.0.116.0/24"
+    ],
     "ipv6": []
   }
 }

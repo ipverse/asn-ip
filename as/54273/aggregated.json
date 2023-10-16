@@ -3,7 +3,9 @@
   "handle": "PADSUN",
   "description": "The Paducah Sun",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "12.164.22.0/24"
+    ],
     "ipv6": []
   }
 }

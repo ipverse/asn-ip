@@ -4,6 +4,8 @@
   "description": "Clearly IP Inc",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2605:3880:1300::/48"
+    ]
   }
 }

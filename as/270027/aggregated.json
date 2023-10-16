@@ -3,7 +3,9 @@
   "handle": "TELESMART",
   "description": "TELESMART S.A",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "200.233.40.0/22"
+    ],
     "ipv6": []
   }
 }

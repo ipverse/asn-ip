@@ -3,7 +3,9 @@
   "handle": "SMG",
   "description": "SMG Security Holdings LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "142.4.155.0/24"
+    ],
     "ipv6": []
   }
 }

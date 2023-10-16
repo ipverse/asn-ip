@@ -3,7 +3,9 @@
   "handle": "SPARKTELL-SCHERBINKA",
   "description": "OOO SPARK TELL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "79.137.135.0/24"
+    ],
     "ipv6": []
   }
 }

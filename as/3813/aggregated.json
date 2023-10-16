@@ -3,7 +3,9 @@
   "handle": "SOGANG",
   "description": "Sogang University",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "163.239.0.0/16"
+    ],
     "ipv6": []
   }
 }

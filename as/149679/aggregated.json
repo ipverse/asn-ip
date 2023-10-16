@@ -3,7 +3,9 @@
   "handle": "IDNIC-JATIMPROV-ID",
   "description": "Pemerintah Provinsi Jawa Timur",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.183.92.0/23"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,12 @@
   "handle": "MOMENT-DIGITAL",
   "description": "Moment Digital Oy",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "5.23.56.0/21",
+      "83.143.216.0/21"
+    ],
+    "ipv6": [
+      "2a00:14c0::/32"
+    ]
   }
 }

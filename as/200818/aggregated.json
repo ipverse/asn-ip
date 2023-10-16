@@ -3,7 +3,12 @@
   "handle": "CONNEXTRA",
   "description": "CONNEXTRA S.R.L",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "5.183.108.0/24",
+      "185.95.52.0/22"
+    ],
+    "ipv6": [
+      "2a05:67c0::/29"
+    ]
   }
 }

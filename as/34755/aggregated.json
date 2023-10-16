@@ -3,7 +3,10 @@
   "handle": "TOBB",
   "description": "Turkiye Odalar ve Borsalar Birligi",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.34.132.0/23",
+      "193.36.39.0/24"
+    ],
     "ipv6": []
   }
 }

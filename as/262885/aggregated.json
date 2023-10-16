@@ -3,7 +3,9 @@
   "handle": "MAPFRE-SEGUROS-GERAIS",
   "description": "MAPFRE SEGUROS GERAIS S/A",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "177.11.240.0/22"
+    ],
     "ipv6": []
   }
 }

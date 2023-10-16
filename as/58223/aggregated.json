@@ -3,7 +3,9 @@
   "handle": "JT-GLOBAL-ENTERPRISE",
   "description": "Sabio Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "5.45.48.0/23"
+    ],
     "ipv6": []
   }
 }

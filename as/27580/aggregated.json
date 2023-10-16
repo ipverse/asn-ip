@@ -3,7 +3,11 @@
   "handle": "ENGINEERING-ASN1",
   "description": "ConvergeOne Holdings Corp",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "104.153.152.0/22"
+    ],
+    "ipv6": [
+      "2604:f1c0::/32"
+    ]
   }
 }

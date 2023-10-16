@@ -3,7 +3,9 @@
   "handle": "ALIANA-SISTEMAS-TELECOMUNICAES",
   "description": "ALIANA SISTEMAS DE TELECOMUNICAES",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "143.208.216.0/22"
+    ],
     "ipv6": [
       "2804:2b08::/32"
     ]

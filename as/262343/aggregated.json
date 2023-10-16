@@ -3,7 +3,12 @@
   "handle": "NET-AKI-INTERNET",
   "description": "Net Aki Internet Ltda",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "143.255.124.0/22",
+      "177.126.128.0/20"
+    ],
+    "ipv6": [
+      "2804:80c::/32"
+    ]
   }
 }

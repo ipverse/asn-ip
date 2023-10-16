@@ -3,7 +3,9 @@
   "handle": "EPKINET",
   "description": "KERIS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "61.108.227.0/24"
+    ],
     "ipv6": []
   }
 }

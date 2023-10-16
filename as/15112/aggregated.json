@@ -3,7 +3,9 @@
   "handle": "GATX-CORP",
   "description": "GATX Corporation",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.120.189.0/24"
+    ],
     "ipv6": []
   }
 }

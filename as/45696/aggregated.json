@@ -3,7 +3,10 @@
   "handle": "PPATK-ID",
   "description": "Pusat Pelaporan dan Analisis Transaksi Keuangan",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.224.180.0/24",
+      "203.215.50.0/24"
+    ],
     "ipv6": []
   }
 }

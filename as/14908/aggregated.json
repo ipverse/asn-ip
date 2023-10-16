@@ -3,7 +3,9 @@
   "handle": "MAAXB",
   "description": "MAAX Bath Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "216.226.50.0/24"
+    ],
     "ipv6": []
   }
 }

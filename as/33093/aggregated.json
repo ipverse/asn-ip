@@ -3,7 +3,9 @@
   "handle": "NEOGOV",
   "description": "NEOGOV",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "162.246.160.0/24"
+    ],
     "ipv6": []
   }
 }

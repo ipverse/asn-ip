@@ -3,7 +3,9 @@
   "handle": "EPAM-AP",
   "description": "EPAM SYSTEMS INDIA PRIVATE LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "203.170.48.0/24"
+    ],
     "ipv6": []
   }
 }

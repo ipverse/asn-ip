@@ -3,7 +3,9 @@
   "handle": "BAMBORA-AP",
   "description": "BAMBORA ONLINE PTY LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.213.120.0/23"
+    ],
     "ipv6": []
   }
 }

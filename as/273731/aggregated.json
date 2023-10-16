@@ -4,6 +4,8 @@
   "description": "MGDATA TECNOLOGIA LTDA",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2804:8b6c::/32"
+    ]
   }
 }

@@ -3,7 +3,9 @@
   "handle": "ODC",
   "description": "ARABIAN INTERNET \u0026 COMMUNICATIONS SERVICES CO.LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.114.68.0/24"
+    ],
     "ipv6": []
   }
 }

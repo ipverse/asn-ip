@@ -3,7 +3,10 @@
   "handle": "HDS-ORL-ASN1",
   "description": "HD Supply, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "65.202.97.0/24",
+      "97.65.191.0/24"
+    ],
     "ipv6": []
   }
 }

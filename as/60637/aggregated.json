@@ -3,7 +3,9 @@
   "handle": "FANAVACARD",
   "description": "Fanava Group",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "78.157.33.0/24"
+    ],
     "ipv6": []
   }
 }

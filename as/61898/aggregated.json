@@ -3,7 +3,10 @@
   "handle": "FOCO-SERVICOES-TELECOMUNICACOES",
   "description": "Foco Servicoes de Telecomunicacoes Ltda Me",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "177.91.13.0/24",
+      "177.91.14.0/24"
+    ],
     "ipv6": []
   }
 }

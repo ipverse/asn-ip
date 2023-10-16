@@ -3,7 +3,12 @@
   "handle": "UKYEDU",
   "description": "University of Kentucky",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "128.163.0.0/16",
+      "162.242.39.0/24",
+      "168.111.0.0/16",
+      "199.76.144.0/20"
+    ],
     "ipv6": []
   }
 }

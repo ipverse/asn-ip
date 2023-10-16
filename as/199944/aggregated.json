@@ -3,7 +3,10 @@
   "handle": "CDS-EMEA",
   "description": "Cardinia Real Estate UK Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "82.163.80.0/20",
+      "185.41.44.0/22"
+    ],
     "ipv6": []
   }
 }

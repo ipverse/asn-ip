@@ -3,7 +3,9 @@
   "handle": "INA-HR",
   "description": "INA Industrija Nafte d.d.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.0.84.0/22"
+    ],
     "ipv6": []
   }
 }

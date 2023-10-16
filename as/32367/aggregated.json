@@ -3,7 +3,10 @@
   "handle": "LEGACY-LTCG",
   "description": "illumifin Corporation",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "12.23.189.0/24",
+      "74.122.112.0/22"
+    ],
     "ipv6": []
   }
 }

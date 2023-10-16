@@ -3,7 +3,11 @@
   "handle": "G3LINK-TELECOM-SERVICO",
   "description": "G3LINK TELECOM SERVICO DE COMUNICACAO MULTIMIDIA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.186.52.0/22"
+    ],
+    "ipv6": [
+      "2804:642c::/32"
+    ]
   }
 }

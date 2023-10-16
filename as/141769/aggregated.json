@@ -3,7 +3,9 @@
   "handle": "ITCO1-AP",
   "description": "iTCo Solutions Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.163.172.0/23"
+    ],
     "ipv6": []
   }
 }

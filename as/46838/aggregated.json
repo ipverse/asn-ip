@@ -3,7 +3,9 @@
   "handle": "POLB-1",
   "description": "Port of Long Beach",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.231.152.0/22"
+    ],
     "ipv6": []
   }
 }

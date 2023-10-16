@@ -3,7 +3,9 @@
   "handle": "PASCALNET-ID",
   "description": "PT Pascal Solusi Nusantara",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.49.28.0/22"
+    ],
     "ipv6": []
   }
 }

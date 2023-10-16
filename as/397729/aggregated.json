@@ -3,7 +3,9 @@
   "handle": "FCMC-68234330",
   "description": "Fulton County Medical Center",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "68.234.33.0/24"
+    ],
     "ipv6": []
   }
 }

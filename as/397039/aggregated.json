@@ -3,7 +3,9 @@
   "handle": "WORLDSTRIDES",
   "description": "WorldStrides",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "104.160.229.0/24"
+    ],
     "ipv6": []
   }
 }

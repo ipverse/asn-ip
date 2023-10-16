@@ -3,7 +3,10 @@
   "handle": "DBSAPL-AP",
   "description": "Diligent Board Services Australia Pty Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "202.58.140.0/24",
+      "202.58.142.0/24"
+    ],
     "ipv6": []
   }
 }

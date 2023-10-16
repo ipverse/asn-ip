@@ -3,7 +3,9 @@
   "handle": "WIECZOR-NET",
   "description": "WIECZOR-NET Sieci Komputerowe, Internet Henryk Wieczorek",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.146.224.0/23"
+    ],
     "ipv6": []
   }
 }

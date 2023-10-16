@@ -3,7 +3,9 @@
   "handle": "FASCET",
   "description": "Fascet LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "208.184.6.0/24"
+    ],
     "ipv6": []
   }
 }

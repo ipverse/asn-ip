@@ -3,7 +3,9 @@
   "handle": "KNFC",
   "description": "KepcoNF",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "219.251.240.0/24"
+    ],
     "ipv6": []
   }
 }

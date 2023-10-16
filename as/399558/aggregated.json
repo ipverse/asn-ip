@@ -3,7 +3,12 @@
   "handle": "DIFFER-COMMUNICATIONS",
   "description": "Differ Communications Limited",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "23.136.82.0/24",
+      "216.211.200.0/24"
+    ],
+    "ipv6": [
+      "2606:d040:1000::/36"
+    ]
   }
 }

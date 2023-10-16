@@ -1,9 +1,11 @@
 {
   "asn": 9409,
-  "handle": "CITYLINE-HK",
-  "description": "CityLine (Hong Kong) Limited",
+  "handle": "RAPIDFIREYJP-AP",
+  "description": "Rapid-Fire-y",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.151.154.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,11 @@
   "handle": "INTERFIBER",
   "description": "Interfiber Ltd",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "185.199.164.0/22"
+    ],
+    "ipv6": [
+      "2a0d:4900::/32"
+    ]
   }
 }

@@ -3,7 +3,10 @@
   "handle": "SPBREALTY",
   "description": "Managing company Realty of Petersburg Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.27.49.0/24",
+      "185.27.50.0/23"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "MCJCONSEIL",
   "description": "MCJ CONSEIL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.31.177.0/24"
+    ],
     "ipv6": []
   }
 }

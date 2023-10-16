@@ -3,7 +3,9 @@
   "handle": "VASPIAN-BFLO",
   "description": "Vaspian LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "208.92.56.0/21"
+    ],
     "ipv6": []
   }
 }

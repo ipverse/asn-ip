@@ -3,7 +3,9 @@
   "handle": "IDNIC-VIRIYA-ID",
   "description": "PT Viriya Surya Abadi",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.160.201.0/24"
+    ],
     "ipv6": []
   }
 }

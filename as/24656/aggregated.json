@@ -3,7 +3,9 @@
   "handle": "ARZ",
   "description": "Accenture TiGital GmbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.110.182.0/23"
+    ],
     "ipv6": []
   }
 }

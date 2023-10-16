@@ -3,7 +3,9 @@
   "handle": "GTSUK",
   "description": "Gaming Technology Solutions Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "176.113.94.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,12 @@
   "handle": "FLEXTEL-NETWORK-TELECOMUNICACOES",
   "description": "FLEXTEL NETWORK TELECOMUNICACOES EIRELI - ME",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "138.255.72.0/22",
+      "170.238.248.0/22"
+    ],
+    "ipv6": [
+      "2804:2860::/32"
+    ]
   }
 }

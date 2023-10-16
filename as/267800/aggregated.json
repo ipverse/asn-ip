@@ -3,7 +3,10 @@
   "handle": "TESAM-PERU",
   "description": "TE.SA.M. PERU S.A",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.172.8.0/24",
+      "45.172.10.0/23"
+    ],
     "ipv6": []
   }
 }

@@ -4,6 +4,10 @@
   "description": "Peaktera Holdings Corporation",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a0b:2281::/32",
+      "2a0b:2282::/31",
+      "2a0b:2284::/30"
+    ]
   }
 }

@@ -3,7 +3,11 @@
   "handle": "SCHRAMM",
   "description": "Tobias Schramm",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "44.31.202.0/24"
+    ],
+    "ipv6": [
+      "2a06:e881:5608::/48"
+    ]
   }
 }

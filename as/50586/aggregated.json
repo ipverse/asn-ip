@@ -3,7 +3,9 @@
   "handle": "CMRBANK",
   "description": "CMRBank (LLC)",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.19.6.0/24"
+    ],
     "ipv6": []
   }
 }

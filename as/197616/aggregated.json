@@ -3,7 +3,9 @@
   "handle": "OPTRIX-LV",
   "description": "Optrix SIA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "80.233.240.0/22"
+    ],
     "ipv6": []
   }
 }

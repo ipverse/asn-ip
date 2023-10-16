@@ -3,7 +3,9 @@
   "handle": "CITYLESS-INTERNET",
   "description": "Cityless Internet Services, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "65.140.81.0/24"
+    ],
     "ipv6": []
   }
 }

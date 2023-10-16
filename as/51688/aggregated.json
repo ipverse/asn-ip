@@ -3,7 +3,9 @@
   "handle": "9AG",
   "description": "Neun AG",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.220.40.0/24"
+    ],
     "ipv6": []
   }
 }

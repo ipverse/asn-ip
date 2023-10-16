@@ -3,7 +3,9 @@
   "handle": "ITEXTRON-AP",
   "description": "TEXTRON CORPORATION",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "210.16.0.0/18"
+    ],
     "ipv6": []
   }
 }

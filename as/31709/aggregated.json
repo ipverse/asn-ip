@@ -3,7 +3,11 @@
   "handle": "ASCOMPARE",
   "description": "Cortex Consult A/S",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.199.121.0/24",
+      "193.28.149.0/24",
+      "195.225.88.0/22"
+    ],
     "ipv6": []
   }
 }

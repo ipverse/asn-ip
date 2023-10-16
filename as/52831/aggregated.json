@@ -3,7 +3,9 @@
   "handle": "EXPLORA-TELECOM",
   "description": "Explora Telecom",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "177.52.220.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "INFORMTICA-MUNICPIOS-ASSOCIADOS",
   "description": "Informtica de Municpios Associados S/A - IMA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "187.110.0.0/18"
+    ],
     "ipv6": []
   }
 }

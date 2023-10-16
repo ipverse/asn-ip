@@ -3,7 +3,9 @@
   "handle": "ASSOCI-BR-AS1",
   "description": "Associated Grocers",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "204.187.0.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "ECOM",
   "description": "Ecom Sp. z o. o.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.234.232.0/24"
+    ],
     "ipv6": []
   }
 }

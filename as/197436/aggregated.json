@@ -3,7 +3,9 @@
   "handle": "KUPONGINLOSEN",
   "description": "ClearOn AB",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.220.192.0/24"
+    ],
     "ipv6": []
   }
 }

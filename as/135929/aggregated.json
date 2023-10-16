@@ -3,7 +3,9 @@
   "handle": "COGNITA-VN",
   "description": "International Education Corporation",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.104.24.0/22"
+    ],
     "ipv6": []
   }
 }

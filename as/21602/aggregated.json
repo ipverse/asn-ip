@@ -3,7 +3,9 @@
   "handle": "CFVHS",
   "description": "Cape Fear Valley Medical Center",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "204.27.129.0/24"
+    ],
     "ipv6": []
   }
 }

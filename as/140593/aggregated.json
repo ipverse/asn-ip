@@ -3,7 +3,9 @@
   "handle": "ULAP-AP",
   "description": "ULAP Networks Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.150.202.0/23"
+    ],
     "ipv6": []
   }
 }

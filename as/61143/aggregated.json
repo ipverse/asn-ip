@@ -3,7 +3,10 @@
   "handle": "JERSEY-AIRTEL",
   "description": "Jersey Airtel Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.16.69.0/24",
+      "185.16.70.0/23"
+    ],
     "ipv6": []
   }
 }

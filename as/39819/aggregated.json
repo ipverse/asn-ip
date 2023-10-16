@@ -3,7 +3,10 @@
   "handle": "PROHOSTKG",
   "description": "Optima Telecom Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.207.28.0/23",
+      "91.213.233.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,10 @@
   "handle": "ICTGLOBAL-MANAGEMENT",
   "description": "ICTGlobe Management (Pty) Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "154.72.56.0/21",
+      "196.46.184.0/22"
+    ],
     "ipv6": []
   }
 }

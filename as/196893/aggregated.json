@@ -3,7 +3,9 @@
   "handle": "LINER",
   "description": "Liner Co. Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.216.49.0/24"
+    ],
     "ipv6": []
   }
 }

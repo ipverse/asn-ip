@@ -3,7 +3,9 @@
   "handle": "EXCELLENT-AP",
   "description": "EXCELLENT SOFTWARE LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.93.144.0/22"
+    ],
     "ipv6": []
   }
 }

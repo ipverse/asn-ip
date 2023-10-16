@@ -3,7 +3,9 @@
   "handle": "MRCYHQ",
   "description": "Mercury Systems, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.148.197.0/24"
+    ],
     "ipv6": []
   }
 }

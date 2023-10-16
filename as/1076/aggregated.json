@@ -3,7 +3,9 @@
   "handle": "TNC-WIRELESS-LTD-22",
   "description": "TNC Wireless Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "23.139.208.0/24"
+    ],
     "ipv6": []
   }
 }

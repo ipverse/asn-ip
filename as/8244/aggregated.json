@@ -3,7 +3,10 @@
   "handle": "SPARKLENET",
   "description": "TELECOM ITALIA SPARKLE S.p.A.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.230.192.0/22",
+      "195.230.200.0/21"
+    ],
     "ipv6": []
   }
 }

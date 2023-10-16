@@ -1,9 +1,9 @@
 {
   "asn": 268152,
-  "handle": "RF-TV-CABO",
-  "description": "RF TV A CABO LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.170.64.0/22"
+    ],
     "ipv6": []
   }
 }

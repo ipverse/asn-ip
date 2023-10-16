@@ -3,7 +3,10 @@
   "handle": "SMU",
   "description": "Southern Methodist University",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "104.150.0.0/16",
+      "129.119.0.0/16"
+    ],
     "ipv6": []
   }
 }

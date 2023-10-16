@@ -3,7 +3,10 @@
   "handle": "ASLITPRO",
   "description": "LLC KTZ",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "82.148.8.0/22",
+      "192.144.40.0/22"
+    ],
     "ipv6": []
   }
 }

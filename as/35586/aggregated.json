@@ -3,7 +3,10 @@
   "handle": "VOM",
   "description": "VOLYN OPTICAL NETWORKS LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "160.238.124.0/22",
+      "185.183.92.0/22"
+    ],
     "ipv6": []
   }
 }

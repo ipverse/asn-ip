@@ -3,7 +3,10 @@
   "handle": "CAB-JO",
   "description": "Cairo Amman Bank PLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "89.20.49.0/24",
+      "185.43.146.0/24"
+    ],
     "ipv6": []
   }
 }

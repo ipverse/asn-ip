@@ -3,7 +3,10 @@
   "handle": "SYSCODES-COMMUNICATIONS",
   "description": "SYSCODES COMMUNICATIONS LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "102.36.133.0/24",
+      "102.36.134.0/23"
+    ],
     "ipv6": []
   }
 }

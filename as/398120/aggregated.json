@@ -3,7 +3,9 @@
   "handle": "LV-BRANDS",
   "description": "Liggett Vector Brands, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "216.136.38.0/24"
+    ],
     "ipv6": []
   }
 }

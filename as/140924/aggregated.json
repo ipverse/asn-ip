@@ -3,7 +3,11 @@
   "handle": "MAVENIR-AP",
   "description": "MAVENIR SYSTEMS PRIVATE LIMITED",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "103.152.78.0/24"
+    ],
+    "ipv6": [
+      "2001:df3:ff80::/48"
+    ]
   }
 }

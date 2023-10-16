@@ -3,7 +3,9 @@
   "handle": "GARDENPRO",
   "description": "Garden Pro LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "77.83.75.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,11 @@
   "handle": "TRIBUNAL-REGIONAL-FEDERAL",
   "description": "Tribunal Regional Federal da 4 Regio",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "170.81.138.0/24"
+    ],
+    "ipv6": [
+      "2801:80:1b50::/48"
+    ]
   }
 }

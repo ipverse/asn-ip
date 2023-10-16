@@ -3,7 +3,9 @@
   "handle": "VITODATA",
   "description": "Vitodata AG",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.104.42.0/24"
+    ],
     "ipv6": []
   }
 }

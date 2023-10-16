@@ -3,7 +3,9 @@
   "handle": "RELIABLE-ISP-01",
   "description": "ReliableNetwerks, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "23.135.168.0/24"
+    ],
     "ipv6": []
   }
 }

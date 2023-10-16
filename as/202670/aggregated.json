@@ -3,7 +3,9 @@
   "handle": "CLOUDZMEASN1",
   "description": "CLOUDZME FZE",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.151.4.0/22"
+    ],
     "ipv6": []
   }
 }

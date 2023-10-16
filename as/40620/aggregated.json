@@ -3,7 +3,10 @@
   "handle": "INGENUITY-SYSTEMS",
   "description": "QIAGEN Redwood City, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "70.42.154.0/24",
+      "74.123.88.0/22"
+    ],
     "ipv6": []
   }
 }

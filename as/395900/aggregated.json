@@ -3,7 +3,9 @@
   "handle": "CAMBRIACOMPANYLLC",
   "description": "Cambria Company LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "66.248.255.0/24"
+    ],
     "ipv6": []
   }
 }

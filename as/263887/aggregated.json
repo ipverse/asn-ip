@@ -3,7 +3,9 @@
   "handle": "MANIA-TELECOM",
   "description": "MANIA TELECOM",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "138.204.128.0/22"
+    ],
     "ipv6": []
   }
 }

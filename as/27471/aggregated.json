@@ -3,7 +3,10 @@
   "handle": "SYMN",
   "description": "Avago Technologies U.S. Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "168.149.147.0/24",
+      "199.19.254.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,10 @@
   "handle": "CLC-98-ILLINOIS",
   "description": "College of Lake County",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "50.230.200.0/24",
+      "216.125.48.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "SYSMEX",
   "description": "Sysmex",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "208.70.240.0/22"
+    ],
     "ipv6": []
   }
 }

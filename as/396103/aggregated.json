@@ -3,7 +3,9 @@
   "handle": "AGORA",
   "description": "WB Games Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "67.221.6.0/24"
+    ],
     "ipv6": []
   }
 }

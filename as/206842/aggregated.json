@@ -3,7 +3,9 @@
   "handle": "TACTICA",
   "description": "Tactica ehf",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.174.176.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "FERRIS-MFG-CORP",
   "description": "Ferris MFG Corp",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "12.147.151.0/24"
+    ],
     "ipv6": []
   }
 }

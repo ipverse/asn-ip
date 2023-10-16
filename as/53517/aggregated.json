@@ -3,7 +3,9 @@
   "handle": "ECOMATLANTIC",
   "description": "ECOM Atlantic, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "12.23.238.0/24"
+    ],
     "ipv6": []
   }
 }

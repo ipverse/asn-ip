@@ -3,7 +3,9 @@
   "handle": "SDB",
   "description": "Social Development Bank",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.11.247.0/24"
+    ],
     "ipv6": []
   }
 }

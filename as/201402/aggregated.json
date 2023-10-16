@@ -3,7 +3,9 @@
   "handle": "NOVA-NL",
   "description": "Novamedia Holding B.V.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.76.72.0/23"
+    ],
     "ipv6": []
   }
 }

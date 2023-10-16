@@ -3,7 +3,9 @@
   "handle": "ADIDAS",
   "description": "adidas AG",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.224.158.0/23"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "GC-IPBACKHAUL-LA",
   "description": "A+ Wireless, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "138.229.78.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "RIOTINTOIST-APAC",
   "description": "Rio Tinto IS\u0026T",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "203.15.176.0/24"
+    ],
     "ipv6": []
   }
 }

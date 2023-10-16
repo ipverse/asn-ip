@@ -3,7 +3,11 @@
   "handle": "SKYTEL6-BD",
   "description": "SkyTel Communications Limited",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "103.12.172.0/22"
+    ],
+    "ipv6": [
+      "2404:7500::/32"
+    ]
   }
 }

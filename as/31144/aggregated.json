@@ -3,7 +3,9 @@
   "handle": "ASWFP",
   "description": "United Nations World Food Programme",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "217.118.240.0/20"
+    ],
     "ipv6": []
   }
 }

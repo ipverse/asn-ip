@@ -3,7 +3,10 @@
   "handle": "NATIONAL-RESEARCH-CENTER",
   "description": "National Research Center Kurchatov Institute",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "144.206.0.0/17",
+      "144.206.160.0/19"
+    ],
     "ipv6": []
   }
 }

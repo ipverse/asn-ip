@@ -3,7 +3,9 @@
   "handle": "SPS",
   "description": "KINDRED FRANCE SAS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "178.22.240.0/21"
+    ],
     "ipv6": []
   }
 }

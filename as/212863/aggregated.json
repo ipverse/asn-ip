@@ -3,7 +3,9 @@
   "handle": "BITELECOM",
   "description": "BI TELECOM LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.238.117.0/24"
+    ],
     "ipv6": []
   }
 }

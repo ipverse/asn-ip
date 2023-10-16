@@ -3,9 +3,11 @@
   "handle": "NONEXISTE",
   "description": "nonexiste.net",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "158.51.134.0/24"
+    ],
     "ipv6": [
-      "2620:135:5001::/48"
+      "2620:135:5000::/44"
     ]
   }
 }

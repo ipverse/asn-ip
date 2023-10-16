@@ -3,7 +3,9 @@
   "handle": "CITYOFGASTONIANC-1",
   "description": "City of Gastonia",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "198.204.88.0/22"
+    ],
     "ipv6": []
   }
 }

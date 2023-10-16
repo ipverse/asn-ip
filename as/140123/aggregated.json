@@ -3,7 +3,10 @@
   "handle": "ICONWAVE-IN",
   "description": "Iconwave Technologies Private Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.89.53.0/24",
+      "103.89.54.0/24"
+    ],
     "ipv6": []
   }
 }

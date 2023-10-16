@@ -3,7 +3,9 @@
   "handle": "IHEARTMEDIA",
   "description": "iHeartCommunications, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "206.53.222.0/24"
+    ],
     "ipv6": []
   }
 }

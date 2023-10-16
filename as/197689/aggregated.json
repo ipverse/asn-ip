@@ -3,7 +3,9 @@
   "handle": "OVD-KINEGRAM",
   "description": "OVD Kinegram AG",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "176.74.40.0/21"
+    ],
     "ipv6": []
   }
 }

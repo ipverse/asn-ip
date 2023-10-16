@@ -3,7 +3,9 @@
   "handle": "INTESIGROUP",
   "description": "INTESI GROUP S.P.A.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.15.44.0/24"
+    ],
     "ipv6": []
   }
 }

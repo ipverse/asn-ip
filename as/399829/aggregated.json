@@ -3,7 +3,9 @@
   "handle": "MHD-COMMUNICATIONS",
   "description": "MHD Communications",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "198.160.255.0/24"
+    ],
     "ipv6": []
   }
 }

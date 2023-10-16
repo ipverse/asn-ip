@@ -4,6 +4,8 @@
   "description": "CERNET2 IX at Zhengzhou University",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2402:e480::/32"
+    ]
   }
 }

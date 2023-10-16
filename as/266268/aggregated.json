@@ -3,7 +3,11 @@
   "handle": "JND-PRONET-PROVEDOR",
   "description": "JND - PRONET - PROVEDOR",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.65.208.0/22"
+    ],
+    "ipv6": [
+      "2804:3d54::/32"
+    ]
   }
 }

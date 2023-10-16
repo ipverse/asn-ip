@@ -3,7 +3,12 @@
   "handle": "YMCA-OF-THE-NORTH",
   "description": "YMCA of the North",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "23.146.152.0/24",
+      "50.227.94.0/24"
+    ],
+    "ipv6": [
+      "2620:123:3000::/48"
+    ]
   }
 }

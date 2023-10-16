@@ -3,7 +3,10 @@
   "handle": "EVO",
   "description": "Evolution Gaming LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.213.212.0/24",
+      "185.103.30.0/24"
+    ],
     "ipv6": []
   }
 }

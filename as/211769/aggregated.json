@@ -3,7 +3,13 @@
   "handle": "SPRINGER-NATURE",
   "description": "Springer Nature B.V.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "192.129.24.0/23",
+      "195.128.8.0/22",
+      "195.138.194.0/24"
+    ],
+    "ipv6": [
+      "2a07:78c0::/29"
+    ]
   }
 }

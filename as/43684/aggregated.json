@@ -3,7 +3,9 @@
   "handle": "OTK",
   "description": "OTK LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.85.160.0/22"
+    ],
     "ipv6": []
   }
 }

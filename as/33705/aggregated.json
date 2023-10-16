@@ -3,7 +3,10 @@
   "handle": "DIGITAL-SHAPE-TECHNOLOGIES",
   "description": "Digital Shape Technologies Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "68.67.32.0/24",
+      "208.89.84.0/23"
+    ],
     "ipv6": []
   }
 }

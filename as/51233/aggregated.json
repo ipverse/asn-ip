@@ -3,7 +3,9 @@
   "handle": "IT-3DA",
   "description": "3 D.A. DI DOMENEGHINI ANGELO - Impresa Individuale",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.54.60.0/23"
+    ],
     "ipv6": []
   }
 }

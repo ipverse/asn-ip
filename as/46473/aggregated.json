@@ -3,7 +3,10 @@
   "handle": "SIMPLEFIBER",
   "description": "SimpleFiber Communications LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "68.64.240.0/20",
+      "68.168.144.0/21"
+    ],
     "ipv6": []
   }
 }

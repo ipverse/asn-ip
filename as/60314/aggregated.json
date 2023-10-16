@@ -3,7 +3,9 @@
   "handle": "IMI",
   "description": "Institut Municipal d\u0027Informatica (IMI)",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "212.15.224.0/19"
+    ],
     "ipv6": []
   }
 }

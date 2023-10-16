@@ -3,7 +3,10 @@
   "handle": "FY-AP",
   "description": "fy, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.199.95.0/24",
+      "202.165.124.0/24"
+    ],
     "ipv6": []
   }
 }

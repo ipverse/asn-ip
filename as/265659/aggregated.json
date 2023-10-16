@@ -3,7 +3,9 @@
   "handle": "IMPULSAR-WEB",
   "description": "IMPULSAR WEB SRL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "170.247.96.0/22"
+    ],
     "ipv6": []
   }
 }

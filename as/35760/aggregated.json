@@ -3,7 +3,9 @@
   "handle": "PROXNET",
   "description": "PROXNET SP.J.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "87.101.16.0/20"
+    ],
     "ipv6": []
   }
 }

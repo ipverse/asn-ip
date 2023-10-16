@@ -4,6 +4,8 @@
   "description": "Sven Heim",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a06:bbc2:1::/48"
+    ]
   }
 }

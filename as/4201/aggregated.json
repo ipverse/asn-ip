@@ -3,7 +3,12 @@
   "handle": "ORST",
   "description": "Oregon State University",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "128.193.0.0/16",
+      "199.201.139.0/24"
+    ],
+    "ipv6": [
+      "2620:105:f000::/40"
+    ]
   }
 }

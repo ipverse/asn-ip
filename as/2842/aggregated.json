@@ -3,7 +3,9 @@
   "handle": "GOTEBORGS-UNIVERSITET",
   "description": "Goteborgs universitet",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "130.241.0.0/16"
+    ],
     "ipv6": []
   }
 }

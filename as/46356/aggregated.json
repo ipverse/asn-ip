@@ -3,7 +3,10 @@
   "handle": "SBUEDU",
   "description": "Saint Bonaventure University",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "149.76.0.0/18",
+      "192.52.219.0/24"
+    ],
     "ipv6": []
   }
 }

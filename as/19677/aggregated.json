@@ -3,7 +3,10 @@
   "handle": "NJTRANSIT",
   "description": "NJTRANSIT",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "198.177.0.0/22",
+      "198.177.5.0/24"
+    ],
     "ipv6": []
   }
 }

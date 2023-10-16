@@ -3,7 +3,11 @@
   "handle": "PR-TECH",
   "description": "SIA PRIME TECHNOLOGY",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "87.110.228.0/22",
+      "87.110.240.0/21",
+      "195.13.219.0/24"
+    ],
     "ipv6": []
   }
 }

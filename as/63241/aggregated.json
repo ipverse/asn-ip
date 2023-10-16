@@ -3,7 +3,9 @@
   "handle": "GLP",
   "description": "Global Liquidity Partners, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.76.30.0/24"
+    ],
     "ipv6": []
   }
 }

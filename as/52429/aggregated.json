@@ -3,7 +3,9 @@
   "handle": "BAC-LATAM-SSC",
   "description": "BAC LATAM SSC SOCIEDAD ANONIMA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "200.115.18.0/24"
+    ],
     "ipv6": []
   }
 }

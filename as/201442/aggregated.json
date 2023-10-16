@@ -3,7 +3,9 @@
   "handle": "IRCAO",
   "description": "IR IRAN Civil Aviation Authority",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.74.164.0/22"
+    ],
     "ipv6": []
   }
 }

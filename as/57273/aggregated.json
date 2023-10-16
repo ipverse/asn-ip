@@ -3,7 +3,9 @@
   "handle": "AS29278",
   "description": "EXTREME DIGITAL ZRT",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "87.229.126.0/24"
+    ],
     "ipv6": []
   }
 }

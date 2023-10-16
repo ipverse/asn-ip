@@ -3,7 +3,9 @@
   "handle": "MATEROM",
   "description": "MATEROM SRL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.239.173.0/24"
+    ],
     "ipv6": []
   }
 }

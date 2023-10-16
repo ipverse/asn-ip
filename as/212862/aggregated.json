@@ -3,7 +3,10 @@
   "handle": "NETELSERVICES",
   "description": "Invermae Solutions SL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.205.220.0/24",
+      "185.196.40.0/23"
+    ],
     "ipv6": []
   }
 }

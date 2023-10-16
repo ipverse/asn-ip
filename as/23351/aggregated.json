@@ -3,7 +3,9 @@
   "handle": "ANSYSNH",
   "description": "Ansys, Inc. - Lebanon NH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "204.10.84.0/22"
+    ],
     "ipv6": []
   }
 }

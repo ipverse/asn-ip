@@ -3,7 +3,9 @@
   "handle": "SICSATEL",
   "description": "SICSATEL S.R.L.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.177.128.0/22"
+    ],
     "ipv6": []
   }
 }

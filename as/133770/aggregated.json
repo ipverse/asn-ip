@@ -3,7 +3,9 @@
   "handle": "HMCOMMUNICATION-AP",
   "description": "H M COMMUNICATION",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.156.238.0/23"
+    ],
     "ipv6": []
   }
 }

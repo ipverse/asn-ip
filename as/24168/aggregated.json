@@ -3,7 +3,10 @@
   "handle": "CLOUDMAX-TW",
   "description": "Cloudmax Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.136.60.0/24",
+      "121.50.150.0/24"
+    ],
     "ipv6": []
   }
 }

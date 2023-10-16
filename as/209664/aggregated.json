@@ -3,7 +3,9 @@
   "handle": "CREDENS",
   "description": "JOINT STOCK COMPANY QUALIFIED CLOSED CORPORATE INVESTMENT FUND CREDENS CAPITAL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "176.117.70.0/24"
+    ],
     "ipv6": []
   }
 }

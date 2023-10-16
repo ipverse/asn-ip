@@ -3,7 +3,10 @@
   "handle": "WMB-SUPERMERCADOS-BRASIL",
   "description": "WMB SUPERMERCADOS DO BRASIL LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "187.63.243.0/24",
+      "187.63.252.0/22"
+    ],
     "ipv6": []
   }
 }

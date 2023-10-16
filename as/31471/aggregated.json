@@ -3,7 +3,9 @@
   "handle": "FINTEK",
   "description": "Ziraat Teknoloji AS.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.24.224.0/23"
+    ],
     "ipv6": []
   }
 }

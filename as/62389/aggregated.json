@@ -3,7 +3,9 @@
   "handle": "YAKOVLEV",
   "description": "PJSC Yakovlev",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "212.193.161.0/24"
+    ],
     "ipv6": []
   }
 }

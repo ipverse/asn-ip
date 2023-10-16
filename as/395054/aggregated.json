@@ -3,7 +3,9 @@
   "handle": "CDPHP",
   "description": "CDPHP",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "135.84.42.0/24"
+    ],
     "ipv6": []
   }
 }

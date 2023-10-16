@@ -3,7 +3,9 @@
   "handle": "B3",
   "description": "B3 S.A. Brasil, Bolsa, Balco",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "177.66.124.0/23"
+    ],
     "ipv6": []
   }
 }

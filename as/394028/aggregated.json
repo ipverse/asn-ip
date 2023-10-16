@@ -3,7 +3,9 @@
   "handle": "DLVR",
   "description": "DLVR, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "172.102.239.0/24"
+    ],
     "ipv6": []
   }
 }

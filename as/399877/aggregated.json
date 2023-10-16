@@ -3,7 +3,9 @@
   "handle": "SEAPINES-01",
   "description": "Sea Pines Resort, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "205.166.91.0/24"
+    ],
     "ipv6": []
   }
 }

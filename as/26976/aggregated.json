@@ -3,7 +3,12 @@
   "handle": "LIZ-CLAIBORNE-INC",
   "description": "Kate Spade Holdings LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "156.146.2.0/24",
+      "156.146.5.0/24",
+      "156.146.7.0/24",
+      "156.146.8.0/24"
+    ],
     "ipv6": []
   }
 }

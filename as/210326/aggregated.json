@@ -3,7 +3,9 @@
   "handle": "NTTS-GIS",
   "description": "NTT Security GmbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.22.237.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "DE-UKRAINIAN-INTERNET",
   "description": "DE Ukrainian Internet Exchange (UA-IX)",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.119.76.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,11 @@
   "handle": "OVERNET-FIBRA",
   "description": "OVERNET FIBRA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "200.73.216.0/22"
+    ],
+    "ipv6": [
+      "2804:6ca8::/32"
+    ]
   }
 }

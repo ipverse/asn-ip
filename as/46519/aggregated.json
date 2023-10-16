@@ -3,7 +3,9 @@
   "handle": "LMI",
   "description": "Lantheus Medical Imaging, Inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "170.76.209.0/24"
+    ],
     "ipv6": []
   }
 }

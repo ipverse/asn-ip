@@ -3,7 +3,9 @@
   "handle": "BRASIL-NETWORK",
   "description": "BRASIL NETWORK LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.230.236.0/22"
+    ],
     "ipv6": []
   }
 }

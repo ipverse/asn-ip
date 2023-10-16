@@ -3,7 +3,9 @@
   "handle": "RUBBERDUCK",
   "description": "Norigin Media AS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.104.105.0/24"
+    ],
     "ipv6": []
   }
 }

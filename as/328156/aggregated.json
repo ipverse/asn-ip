@@ -3,7 +3,9 @@
   "handle": "KORBITEC",
   "description": "Korbitec (PTY) LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "80.88.0.0/23"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "HMA",
   "description": "Hirschmann Automotive GmbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.18.180.0/22"
+    ],
     "ipv6": []
   }
 }

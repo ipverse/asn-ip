@@ -3,7 +3,9 @@
   "handle": "AMERICAN-CAMPUS-COMMUNITIES",
   "description": "American Campus Communities, Inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "216.54.130.0/24"
+    ],
     "ipv6": []
   }
 }

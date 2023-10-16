@@ -3,7 +3,11 @@
   "handle": "SYSTEMVERSE-ARIN-01",
   "description": "Systemverse LLC",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "23.154.240.0/24"
+    ],
+    "ipv6": [
+      "2602:fd5b::/36"
+    ]
   }
 }

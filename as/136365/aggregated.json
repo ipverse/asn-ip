@@ -3,7 +3,10 @@
   "handle": "SSBMAHAD",
   "description": "Shri Samarth Broadband",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.90.32.0/22",
+      "103.146.154.0/23"
+    ],
     "ipv6": []
   }
 }

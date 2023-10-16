@@ -3,7 +3,9 @@
   "handle": "MEYNET",
   "description": "MEYNET",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "190.124.56.0/21"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "3E-COMPANY",
   "description": "3E COMPANY ENVIRONMENTAL, ECOLOGICAL AND ENGINEERING",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "172.87.230.0/24"
+    ],
     "ipv6": []
   }
 }

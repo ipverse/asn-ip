@@ -3,7 +3,9 @@
   "handle": "ALTO",
   "description": "LYNX ALTO SARL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "212.82.128.0/19"
+    ],
     "ipv6": []
   }
 }

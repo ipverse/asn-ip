@@ -3,7 +3,10 @@
   "handle": "ALT-1",
   "description": "BELLE HOLDINGS LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "65.49.146.0/24",
+      "65.49.148.0/24"
+    ],
     "ipv6": []
   }
 }

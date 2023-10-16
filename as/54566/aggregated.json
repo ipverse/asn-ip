@@ -3,7 +3,10 @@
   "handle": "GRAVITAS-TECHNOLOGY-SERVICES-LLC",
   "description": "Gravitas Technology Services, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.76.9.0/24",
+      "38.76.22.0/24"
+    ],
     "ipv6": []
   }
 }

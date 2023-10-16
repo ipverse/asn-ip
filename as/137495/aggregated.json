@@ -3,7 +3,9 @@
   "handle": "SKN-NZ",
   "description": "Skyline Networks NZ Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.105.20.0/23"
+    ],
     "ipv6": []
   }
 }

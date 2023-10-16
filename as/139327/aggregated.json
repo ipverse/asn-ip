@@ -3,7 +3,12 @@
   "handle": "HKEEGCL-AP",
   "description": "HONG KONG EVERGRANDE ENTERPRISE GROUP CO., LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.141.72.0/23",
+      "137.59.212.0/22",
+      "182.161.52.0/22",
+      "210.16.72.0/22"
+    ],
     "ipv6": []
   }
 }

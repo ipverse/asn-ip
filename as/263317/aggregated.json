@@ -3,7 +3,9 @@
   "handle": "VOXTECH-TELECOM",
   "description": "VoxTech Telecom",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "191.7.120.0/21"
+    ],
     "ipv6": []
   }
 }

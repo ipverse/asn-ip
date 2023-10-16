@@ -3,7 +3,9 @@
   "handle": "SCORPION-TELECOMUNICAO-RIBEIRO",
   "description": "SCORPION TELECOMUNICAO RIBEIRO PRETO LTDA - ME",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "177.84.20.0/22"
+    ],
     "ipv6": []
   }
 }

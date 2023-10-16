@@ -4,6 +4,8 @@
   "description": "Vpm Servios de Comunicao Multimidia",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2804:8428::/32"
+    ]
   }
 }

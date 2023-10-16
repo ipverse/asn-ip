@@ -3,7 +3,9 @@
   "handle": "MTZ-REC",
   "description": "Open Joint Stock Company \u0027Minsk Tractor Works\u0027",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "95.130.87.0/24"
+    ],
     "ipv6": []
   }
 }

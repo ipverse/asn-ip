@@ -3,7 +3,9 @@
   "handle": "EP-ISD272",
   "description": "Eden Prairie School District",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "170.76.230.0/24"
+    ],
     "ipv6": []
   }
 }

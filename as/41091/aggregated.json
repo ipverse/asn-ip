@@ -3,7 +3,9 @@
   "handle": "ZL-HU",
   "description": "ZL Rendszerhaz Kft.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "84.21.31.0/24"
+    ],
     "ipv6": []
   }
 }

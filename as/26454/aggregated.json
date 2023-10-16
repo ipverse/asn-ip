@@ -3,7 +3,10 @@
   "handle": "HENRYSCHEIN",
   "description": "Henry Schein Inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "69.74.24.0/24",
+      "209.64.143.0/24"
+    ],
     "ipv6": []
   }
 }

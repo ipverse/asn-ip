@@ -3,7 +3,9 @@
   "handle": "PIRAEUSBANK",
   "description": "Piraeus Financial Holdings SA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.39.236.0/23"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "TUSCANO-NET",
   "description": "W.N. Tuscano Agency",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "204.87.212.0/24"
+    ],
     "ipv6": []
   }
 }

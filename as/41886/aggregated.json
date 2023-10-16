@@ -3,7 +3,9 @@
   "handle": "ALPHADV",
   "description": "ADV-Alpha Datenverarbeitungs GmbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.59.236.0/24"
+    ],
     "ipv6": []
   }
 }

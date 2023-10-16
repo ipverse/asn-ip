@@ -3,7 +3,11 @@
   "handle": "DIRECTWEB-TECNOLOGIA-EM",
   "description": "Directweb Tecnologia em Informtica Eireli",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "186.192.160.0/20"
+    ],
+    "ipv6": [
+      "2804:578::/32"
+    ]
   }
 }

@@ -3,7 +3,9 @@
   "handle": "IDNIC-IAINPEKALONGAN-ID",
   "description": "Institut Agama Islam Negeri Pekalongan",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.142.62.0/24"
+    ],
     "ipv6": []
   }
 }

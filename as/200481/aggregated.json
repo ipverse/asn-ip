@@ -3,7 +3,9 @@
   "handle": "INNUBO",
   "description": "SERVEIS INNUBO SL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.13.84.0/22"
+    ],
     "ipv6": []
   }
 }

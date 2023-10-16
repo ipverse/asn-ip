@@ -3,7 +3,9 @@
   "handle": "JAZI-AP",
   "description": "Jazi Group Pty Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.168.43.0/24"
+    ],
     "ipv6": []
   }
 }

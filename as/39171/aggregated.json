@@ -3,7 +3,9 @@
   "handle": "GW",
   "description": "GMINA WROCLAW",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.182.9.0/24"
+    ],
     "ipv6": []
   }
 }

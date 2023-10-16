@@ -3,7 +3,9 @@
   "handle": "VGMGR-FORBIN",
   "description": "Forbin",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "208.81.80.0/22"
+    ],
     "ipv6": []
   }
 }

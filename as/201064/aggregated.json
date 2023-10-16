@@ -3,7 +3,9 @@
   "handle": "IDEALHOSTING",
   "description": "Ideal Hosting Teknoloji A.S.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.87.25.0/24"
+    ],
     "ipv6": []
   }
 }

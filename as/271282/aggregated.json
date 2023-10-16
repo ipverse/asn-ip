@@ -3,7 +3,11 @@
   "handle": "CONNECTA-FIBRA-PROVEDOR",
   "description": "CONNECTA FIBRA PROVEDOR DE INTERNET EIRELI",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "170.0.152.0/23"
+    ],
+    "ipv6": [
+      "2804:7910::/32"
+    ]
   }
 }

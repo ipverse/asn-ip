@@ -3,7 +3,9 @@
   "handle": "BRUNDAGE-MANAGEMENT-COMPANY",
   "description": "Brundage Management Company, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.58.247.0/24"
+    ],
     "ipv6": []
   }
 }

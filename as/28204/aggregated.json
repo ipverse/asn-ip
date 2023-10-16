@@ -3,7 +3,11 @@
   "handle": "KERAXWEB-SERVIOS-INT",
   "description": "Keraxweb Servios de Int. e Internet Ltda",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "189.91.48.0/20"
+    ],
+    "ipv6": [
+      "2804:414c::/32"
+    ]
   }
 }

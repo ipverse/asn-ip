@@ -3,7 +3,9 @@
   "handle": "SPRINGS-NET",
   "description": "Springs-Net EOOD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "85.187.200.0/22"
+    ],
     "ipv6": []
   }
 }

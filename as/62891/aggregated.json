@@ -3,7 +3,9 @@
   "handle": "CHIEF-1",
   "description": "CHIEF INDUSTRIES, INC.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "198.74.74.0/23"
+    ],
     "ipv6": []
   }
 }

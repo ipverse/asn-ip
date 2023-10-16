@@ -3,7 +3,9 @@
   "handle": "ORCASONLINE1",
   "description": "Orcas Online, Inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "170.39.240.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "ARTELIAGROUP",
   "description": "ARTELIA HOLDING SAS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "139.28.248.0/22"
+    ],
     "ipv6": []
   }
 }

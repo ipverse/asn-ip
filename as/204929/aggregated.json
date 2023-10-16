@@ -3,7 +3,10 @@
   "handle": "TTI-UA",
   "description": "Television, Telephony, Internet of Ukraine Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "95.47.200.0/23",
+      "95.47.248.0/23"
+    ],
     "ipv6": []
   }
 }

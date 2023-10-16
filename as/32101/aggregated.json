@@ -3,7 +3,11 @@
   "handle": "KLYS",
   "description": "Kelly Supply Company",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "69.20.192.0/20",
+      "69.20.208.0/23",
+      "69.20.212.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "LOGOS",
   "description": "Logos S.P.A.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.41.6.0/23"
+    ],
     "ipv6": []
   }
 }

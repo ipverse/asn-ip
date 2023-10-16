@@ -3,7 +3,9 @@
   "handle": "STANLEYWORKS-BE",
   "description": "Stanleyworks (Europe) GmbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.238.226.0/24"
+    ],
     "ipv6": []
   }
 }

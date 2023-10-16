@@ -3,7 +3,9 @@
   "handle": "DBS",
   "description": "Sebastian Dabinski trading as DBS Internet",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.151.116.0/23"
+    ],
     "ipv6": []
   }
 }

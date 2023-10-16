@@ -3,7 +3,12 @@
   "handle": "CORPWEST",
   "description": "Corporate West Computer Systems, Inc.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "66.206.160.0/20",
+      "206.14.125.0/24"
+    ],
+    "ipv6": [
+      "2606:f000::/32"
+    ]
   }
 }

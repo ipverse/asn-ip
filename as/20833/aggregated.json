@@ -3,7 +3,9 @@
   "handle": "ATL",
   "description": "TOB Atlantis Telecom",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.24.242.0/23"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,11 @@
   "handle": "RT-NICOLAU-TELECOMUNICAO",
   "description": "RT NICOLAU TELECOMUNICAO - ME",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.165.128.0/22"
+    ],
+    "ipv6": [
+      "2804:554c::/32"
+    ]
   }
 }

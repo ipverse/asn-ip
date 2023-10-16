@@ -3,7 +3,9 @@
   "handle": "FR-MAN-CAEN",
   "description": "Renater",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.93.53.0/24"
+    ],
     "ipv6": []
   }
 }

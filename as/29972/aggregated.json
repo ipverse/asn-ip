@@ -3,7 +3,10 @@
   "handle": "MOREHOUSEMEDICAL",
   "description": "Morehouse School of Medicine",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.66.193.0/24",
+      "192.83.232.0/24"
+    ],
     "ipv6": []
   }
 }

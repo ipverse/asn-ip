@@ -3,7 +3,9 @@
   "handle": "POWERSERV-INTERNET",
   "description": "Powerserv Internet",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.5.72.0/22"
+    ],
     "ipv6": [
       "2804:3a4c::/32"
     ]

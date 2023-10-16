@@ -3,7 +3,9 @@
   "handle": "CENTURYLINK-LEGACY-LVLT",
   "description": "Level 3 Parent, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "64.211.148.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "MEDIALIFE",
   "description": "MEDIA LIFE LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "176.113.118.0/24"
+    ],
     "ipv6": []
   }
 }

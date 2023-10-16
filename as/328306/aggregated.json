@@ -3,7 +3,13 @@
   "handle": "AVANTI",
   "description": "Avanti Communications South Africa (Pty) Ltd",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "41.198.240.0/20",
+      "102.140.0.0/18",
+      "102.176.184.0/22"
+    ],
+    "ipv6": [
+      "2c0f:eea8:9000::/36"
+    ]
   }
 }

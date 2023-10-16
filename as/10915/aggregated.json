@@ -3,7 +3,9 @@
   "handle": "CQL",
   "description": "CQL Incorporated",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "208.66.160.0/22"
+    ],
     "ipv6": []
   }
 }

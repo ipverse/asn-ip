@@ -3,7 +3,9 @@
   "handle": "SEGUROS-MERCANTIL",
   "description": "Seguros Mercantil",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "200.3.0.0/24"
+    ],
     "ipv6": []
   }
 }

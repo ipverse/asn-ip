@@ -3,7 +3,9 @@
   "handle": "POBA",
   "description": "Public Officials Benefit Association",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "210.180.71.0/24"
+    ],
     "ipv6": []
   }
 }

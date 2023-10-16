@@ -4,6 +4,8 @@
   "description": "Travelping GmbH",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a03:4340::/32"
+    ]
   }
 }

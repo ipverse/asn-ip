@@ -4,6 +4,9 @@
   "description": "LLC Alfa Biznes",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2001:678:788::/48",
+      "2a10:59c0::/32"
+    ]
   }
 }

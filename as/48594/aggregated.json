@@ -3,7 +3,9 @@
   "handle": "WISTEE",
   "description": "WISTEE SAS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "94.124.80.0/21"
+    ],
     "ipv6": []
   }
 }

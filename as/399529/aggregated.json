@@ -3,7 +3,9 @@
   "handle": "KIRKLAND-ELLIS-AU",
   "description": "Kirkland \u0026 Ellis LLP",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "137.169.36.0/24"
+    ],
     "ipv6": []
   }
 }

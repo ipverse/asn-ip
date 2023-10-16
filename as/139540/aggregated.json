@@ -3,7 +3,9 @@
   "handle": "TRLKNET",
   "description": "Trl Krosaki Refractories Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.145.6.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,11 @@
   "handle": "LINK-SPEED-PROVEDOR",
   "description": "LINK SPEED PROVEDOR DE INTERNET LTDA - ME",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "128.201.36.0/22"
+    ],
+    "ipv6": [
+      "2804:7ac4::/32"
+    ]
   }
 }

@@ -3,7 +3,9 @@
   "handle": "NYNJHIDTA",
   "description": "DANY-NY/NJ HIDTA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "168.100.166.0/24"
+    ],
     "ipv6": []
   }
 }

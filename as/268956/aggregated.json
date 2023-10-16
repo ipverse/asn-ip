@@ -3,7 +3,9 @@
   "handle": "ESPECIALNET-TELECOM",
   "description": "ESPECIALNET TELECOM LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.176.228.0/22"
+    ],
     "ipv6": []
   }
 }

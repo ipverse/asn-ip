@@ -3,7 +3,9 @@
   "handle": "SBAC",
   "description": "School Board of Alachua County",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "150.104.0.0/16"
+    ],
     "ipv6": []
   }
 }

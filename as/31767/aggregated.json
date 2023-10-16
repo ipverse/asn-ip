@@ -3,7 +3,9 @@
   "handle": "SSREBGP",
   "description": "SMITH SECKMAN REID, INC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "67.90.157.0/24"
+    ],
     "ipv6": []
   }
 }

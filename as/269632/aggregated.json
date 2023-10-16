@@ -3,7 +3,11 @@
   "handle": "OPSTELECOM-SERVIO-EM",
   "description": "OpsTelecom Servio em Telecomunicaes Ltda",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.190.28.0/22"
+    ],
+    "ipv6": [
+      "2804:6780::/32"
+    ]
   }
 }

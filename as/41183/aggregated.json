@@ -3,7 +3,9 @@
   "handle": "NATIONAL-BANK-OF-HUNGARY",
   "description": "National Bank of Hungary",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.140.248.0/24"
+    ],
     "ipv6": []
   }
 }

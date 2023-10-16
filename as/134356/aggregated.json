@@ -3,7 +3,11 @@
   "handle": "NBCCOLTD-AP",
   "description": "NBC Co.,Ltd",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "103.140.10.0/23"
+    ],
+    "ipv6": [
+      "2405:4c40::/32"
+    ]
   }
 }

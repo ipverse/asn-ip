@@ -3,7 +3,9 @@
   "handle": "CITYLINE-RU",
   "description": "Chishko Evgeniy Nikolaevich",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "217.25.84.0/23"
+    ],
     "ipv6": []
   }
 }

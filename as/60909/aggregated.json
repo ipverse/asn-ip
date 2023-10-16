@@ -3,7 +3,10 @@
   "handle": "NXPT-HM",
   "description": "NETXPERT CONNECT SRL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "85.120.92.0/23",
+      "93.114.216.0/22"
+    ],
     "ipv6": []
   }
 }

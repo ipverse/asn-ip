@@ -3,7 +3,11 @@
   "handle": "HEAVENWIRE",
   "description": "Mobilcomm, Inc",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "198.144.48.0/20"
+    ],
+    "ipv6": [
+      "2606:9280::/32"
+    ]
   }
 }

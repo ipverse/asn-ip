@@ -3,7 +3,12 @@
   "handle": "LENNMEDIA",
   "description": "Lennart Dreves trading as LennMedia",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "171.22.77.0/24"
+    ],
+    "ipv6": [
+      "2a10:9903:501::/48",
+      "2a10:9903:511::/48"
+    ]
   }
 }

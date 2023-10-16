@@ -3,7 +3,11 @@
   "handle": "SATEC",
   "description": "SISTEMAS AVANZADOS DE TECNOLOGIA SA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "213.164.32.0/19"
+    ],
+    "ipv6": [
+      "2a01:6900::/32"
+    ]
   }
 }

@@ -3,7 +3,9 @@
   "handle": "ELZAPPERO",
   "description": "elzappero.net Marcin Zapotoczny",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "171.25.196.0/22"
+    ],
     "ipv6": []
   }
 }

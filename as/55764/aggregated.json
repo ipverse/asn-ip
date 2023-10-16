@@ -3,7 +3,10 @@
   "handle": "BERKMEER-AP",
   "description": "Berkmeer India Private Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.244.190.0/24",
+      "202.90.33.0/24"
+    ],
     "ipv6": []
   }
 }

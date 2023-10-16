@@ -3,7 +3,9 @@
   "handle": "VANCOUVER-CLINIC",
   "description": "The Vancouver Clinic, Inc. P.S.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "162.223.126.0/24"
+    ],
     "ipv6": []
   }
 }

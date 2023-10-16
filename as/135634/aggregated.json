@@ -3,7 +3,9 @@
   "handle": "TRT-AP",
   "description": "Task Retail Technology Pty Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.86.136.0/24"
+    ],
     "ipv6": []
   }
 }

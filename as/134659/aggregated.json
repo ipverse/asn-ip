@@ -3,7 +3,9 @@
   "handle": "IDNIC-DISKOMINFODKI-ID",
   "description": "Diskominfo DKI Jakarta",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.209.7.0/24"
+    ],
     "ipv6": []
   }
 }

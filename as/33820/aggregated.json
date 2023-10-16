@@ -3,7 +3,11 @@
   "handle": "REED-ELSEVIER",
   "description": "RELX GROUP PLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "145.36.201.0/24",
+      "145.36.203.0/24",
+      "145.36.205.0/24"
+    ],
     "ipv6": []
   }
 }

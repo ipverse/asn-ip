@@ -3,7 +3,9 @@
   "handle": "NEXUM-ABQ",
   "description": "Nexum, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "208.86.98.0/23"
+    ],
     "ipv6": []
   }
 }

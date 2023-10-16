@@ -3,7 +3,9 @@
   "handle": "AXIANS",
   "description": "Axians IT Services AG",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.104.148.0/24"
+    ],
     "ipv6": []
   }
 }

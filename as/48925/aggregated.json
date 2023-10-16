@@ -4,6 +4,8 @@
   "description": "VIBEGAMES B.V.",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2001:67c:be8::/48"
+    ]
   }
 }

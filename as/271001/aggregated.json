@@ -3,7 +3,11 @@
   "handle": "YEPNET-TECNOLOGIA-EIRELI",
   "description": "Yepnet Tecnologia Eireli",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "177.223.132.0/22"
+    ],
+    "ipv6": [
+      "2804:74c0::/32"
+    ]
   }
 }

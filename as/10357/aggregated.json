@@ -3,7 +3,9 @@
   "handle": "JMUNET",
   "description": "James Madison University",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "134.126.0.0/16"
+    ],
     "ipv6": []
   }
 }

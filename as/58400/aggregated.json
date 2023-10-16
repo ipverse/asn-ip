@@ -3,7 +3,9 @@
   "handle": "UNNES-ID",
   "description": "Universitas Negeri Semarang",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.23.100.0/22"
+    ],
     "ipv6": []
   }
 }

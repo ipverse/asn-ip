@@ -3,7 +3,9 @@
   "handle": "VIETNAMHOST-VN",
   "description": "Masters Technology Corporation",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.229.192.0/22"
+    ],
     "ipv6": []
   }
 }

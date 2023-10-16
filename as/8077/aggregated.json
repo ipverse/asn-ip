@@ -3,7 +3,9 @@
   "handle": "PERFAUTO",
   "description": "Devco Holdings",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "50.59.56.0/24"
+    ],
     "ipv6": []
   }
 }

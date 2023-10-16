@@ -3,7 +3,9 @@
   "handle": "ZERTIA",
   "description": "ZERTIA TELECOMUNICACIONES S.L.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "88.87.128.0/19"
+    ],
     "ipv6": []
   }
 }

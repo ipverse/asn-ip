@@ -3,7 +3,9 @@
   "handle": "JSL-76",
   "description": "Johnstone Supply, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "8.41.137.0/24"
+    ],
     "ipv6": []
   }
 }

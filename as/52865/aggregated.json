@@ -3,7 +3,14 @@
   "handle": "R-JOSE-SILVA",
   "description": "R. Jose da Silva e Cia Ltda - OndaAgil",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "138.122.16.0/22",
+      "168.228.24.0/22",
+      "177.124.184.0/22",
+      "186.226.220.0/22"
+    ],
+    "ipv6": [
+      "2804:7e4::/32"
+    ]
   }
 }

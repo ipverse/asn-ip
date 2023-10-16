@@ -3,7 +3,9 @@
   "handle": "CI-CENTRO-INFORMAES",
   "description": "CI CENTRO DE INFORMAES LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "177.47.176.0/20"
+    ],
     "ipv6": []
   }
 }

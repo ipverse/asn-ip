@@ -3,7 +3,9 @@
   "handle": "ROSHANGARANERTEBATATRAYANEH",
   "description": "Roshangaran Ertebatat Rayaneh PJSC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "31.130.182.0/23"
+    ],
     "ipv6": []
   }
 }

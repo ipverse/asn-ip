@@ -3,7 +3,11 @@
   "handle": "FIBRENEST",
   "description": "Persimmon Homes Ltd.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "185.241.224.0/22"
+    ],
+    "ipv6": [
+      "2a0c:b381::/32"
+    ]
   }
 }

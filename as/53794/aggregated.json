@@ -3,7 +3,10 @@
   "handle": "SDSHERIFF",
   "description": "SDSO",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.26.146.0/24",
+      "204.19.244.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "SMLNET",
   "description": "SM LINE CORPORATION",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "203.246.144.0/24"
+    ],
     "ipv6": []
   }
 }

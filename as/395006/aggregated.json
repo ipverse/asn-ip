@@ -3,7 +3,9 @@
   "handle": "BROOMFIELD-COLORADO",
   "description": "The City and County of Broomfield",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "208.184.21.0/24"
+    ],
     "ipv6": []
   }
 }

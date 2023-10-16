@@ -3,7 +3,9 @@
   "handle": "RCUP",
   "description": "GBU SO TSIFROVOY REGION",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.25.190.0/24"
+    ],
     "ipv6": []
   }
 }

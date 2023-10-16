@@ -3,7 +3,9 @@
   "handle": "BENEFIT-SYSTEM",
   "description": "Benefit Systems SA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "109.232.242.0/24"
+    ],
     "ipv6": []
   }
 }

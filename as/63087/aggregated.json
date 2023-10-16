@@ -3,7 +3,9 @@
   "handle": "EBSI",
   "description": "Empyrean Benefit Solutions Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.48.98.0/24"
+    ],
     "ipv6": []
   }
 }

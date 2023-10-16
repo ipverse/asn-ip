@@ -3,7 +3,9 @@
   "handle": "SATCOM-MOZ",
   "description": "SATCOM - Comunicacoes Satelite Limitada",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "41.223.124.0/22"
+    ],
     "ipv6": []
   }
 }

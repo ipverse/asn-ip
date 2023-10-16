@@ -3,7 +3,9 @@
   "handle": "FORTISTLKM",
   "description": "Fortis Telekomunikasyon Sanayi Ticaret Ltd Sti",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.225.199.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "SKY-SERVIOS-BANDA-LARGA",
   "description": "SKY SERVIOS DE BANDA LARGA LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "189.28.16.0/21"
+    ],
     "ipv6": []
   }
 }

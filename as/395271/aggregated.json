@@ -3,7 +3,9 @@
   "handle": "TBOSA-SAT-HQ",
   "description": "The Bank of San Antonio",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "207.235.114.0/24"
+    ],
     "ipv6": []
   }
 }

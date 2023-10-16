@@ -3,7 +3,9 @@
   "handle": "EVOLUTE",
   "description": "Etops AG",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.166.0.0/22"
+    ],
     "ipv6": []
   }
 }

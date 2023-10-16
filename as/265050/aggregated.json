@@ -3,7 +3,11 @@
   "handle": "SOS-TELECOM-EIRELI",
   "description": "S.O.S. TELECOM EIRELI ME",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "170.150.220.0/22"
+    ],
+    "ipv6": [
+      "2804:3200::/32"
+    ]
   }
 }

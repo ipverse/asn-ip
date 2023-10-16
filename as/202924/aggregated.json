@@ -3,7 +3,9 @@
   "handle": "BIMSA",
   "description": "SABANCI DIJITAL TEKNOLOJI HIZMETLERI ANONIM SIRKETI",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "82.222.83.0/24"
+    ],
     "ipv6": []
   }
 }

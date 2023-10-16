@@ -3,7 +3,9 @@
   "handle": "SECOENERGY",
   "description": "Sumter Electric Cooperative, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.132.255.0/24"
+    ],
     "ipv6": []
   }
 }

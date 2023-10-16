@@ -3,7 +3,9 @@
   "handle": "COOPERATIVA-SERVICIOS-PBLICOS",
   "description": "Cooperativa de Servicios Pblicos de Portea LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.7.208.0/22"
+    ],
     "ipv6": []
   }
 }

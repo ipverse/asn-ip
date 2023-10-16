@@ -3,7 +3,12 @@
   "handle": "SCOTTISH-SOUTHERN-PLC",
   "description": "Neos Networks Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "161.12.5.0/24",
+      "161.12.6.0/23",
+      "161.12.8.0/21",
+      "161.12.25.0/24"
+    ],
     "ipv6": []
   }
 }

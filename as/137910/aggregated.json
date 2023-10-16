@@ -4,6 +4,8 @@
   "description": "NZGeek",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2402:28c0:ffae::/48"
+    ]
   }
 }

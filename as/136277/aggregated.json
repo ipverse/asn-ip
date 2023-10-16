@@ -3,7 +3,9 @@
   "handle": "CLEVVI-AP",
   "description": "Clevvi",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.85.214.0/23"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "SKS365",
   "description": "Organak SKS365 Malta Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.61.58.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "COVENTRY",
   "description": "Coventry University Computing Services",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "81.208.128.0/20"
+    ],
     "ipv6": []
   }
 }

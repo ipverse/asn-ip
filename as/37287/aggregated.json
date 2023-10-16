@@ -3,7 +3,12 @@
   "handle": "ZAIN-ZAMBIA",
   "description": "Zain Zambia PLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "41.77.0.0/21",
+      "45.212.0.0/14",
+      "102.144.0.0/13",
+      "197.212.0.0/15"
+    ],
     "ipv6": []
   }
 }

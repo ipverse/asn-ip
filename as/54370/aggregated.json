@@ -3,7 +3,9 @@
   "handle": "SKYWEST",
   "description": "SKYWEST AIRLINES, INC.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.101.76.0/24"
+    ],
     "ipv6": []
   }
 }

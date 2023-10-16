@@ -3,7 +3,12 @@
   "handle": "WEBSATMEDIA",
   "description": "WebSatMedia Pte Ltd",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "202.68.176.0/20",
+      "203.166.128.0/20"
+    ],
+    "ipv6": [
+      "2404:aa00::/32"
+    ]
   }
 }

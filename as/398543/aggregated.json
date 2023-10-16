@@ -3,7 +3,9 @@
   "handle": "CN-ASN-TRILIGHT-SPECTRUM",
   "description": "Carson-Newman University",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "168.245.162.0/24"
+    ],
     "ipv6": []
   }
 }

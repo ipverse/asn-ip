@@ -3,7 +3,9 @@
   "handle": "CHEGG",
   "description": "Chegg, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.58.143.0/24"
+    ],
     "ipv6": []
   }
 }

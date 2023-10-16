@@ -3,7 +3,10 @@
   "handle": "EL-ROCHESTER-NY",
   "description": "Ellucian Company LP",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "149.24.51.0/24",
+      "149.24.54.0/23"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "VIS-2020-01",
   "description": "Valli Information Systems, Inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "170.39.206.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "EDVALDO-JSILVA",
   "description": "Edvaldo de J.Silva-ME",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.177.44.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "G-I-T",
   "description": "Sole proprietor Sapega Elena Yurievna",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "176.96.255.0/24"
+    ],
     "ipv6": []
   }
 }

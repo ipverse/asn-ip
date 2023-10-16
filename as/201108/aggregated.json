@@ -3,7 +3,9 @@
   "handle": "OMICRON-ATKLA",
   "description": "OMICRON electronics GmbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.206.113.0/24"
+    ],
     "ipv6": []
   }
 }

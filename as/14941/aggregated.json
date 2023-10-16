@@ -3,7 +3,9 @@
   "handle": "INTEGRATED-DOCUMENT-SOLUTIONS",
   "description": "Integrated Document Solutions, Inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "209.94.77.0/24"
+    ],
     "ipv6": []
   }
 }

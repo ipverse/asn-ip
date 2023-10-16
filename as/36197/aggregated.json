@@ -3,7 +3,9 @@
   "handle": "COMPUTER-DATA-INC",
   "description": "Computer Data, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "168.100.167.0/24"
+    ],
     "ipv6": []
   }
 }

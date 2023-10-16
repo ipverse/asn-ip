@@ -3,7 +3,9 @@
   "handle": "PWC-136",
   "description": "PAC Worldwide Corporation",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "104.194.6.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "LMS-SERVIOS-COMUNICAO",
   "description": "lms servios de comunicao eireli - me",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "131.196.24.0/22"
+    ],
     "ipv6": []
   }
 }

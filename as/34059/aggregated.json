@@ -3,7 +3,9 @@
   "handle": "SPAR-HU",
   "description": "SPAR Magyarorszag Kereskedelmi Kft",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.24.249.0/24"
+    ],
     "ipv6": []
   }
 }

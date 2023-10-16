@@ -3,7 +3,9 @@
   "handle": "SINGULAR-SOFTWARE",
   "description": "SINGULARLOGIC INTEGRATOR SA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.176.113.0/24"
+    ],
     "ipv6": []
   }
 }

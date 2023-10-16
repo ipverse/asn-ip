@@ -3,7 +3,9 @@
   "handle": "OMEGASUL-TELECOMUNICAES",
   "description": "Omegasul Telecomunicaes LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "177.105.80.0/20"
+    ],
     "ipv6": []
   }
 }

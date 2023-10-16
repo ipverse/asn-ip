@@ -3,7 +3,9 @@
   "handle": "AUSRAD",
   "description": "Austin Radiological Association",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "174.46.8.0/24"
+    ],
     "ipv6": []
   }
 }

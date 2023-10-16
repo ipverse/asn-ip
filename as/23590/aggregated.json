@@ -3,7 +3,9 @@
   "handle": "IBKC",
   "description": "IBKCapital",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "211.254.201.0/24"
+    ],
     "ipv6": []
   }
 }

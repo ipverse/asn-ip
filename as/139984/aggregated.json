@@ -3,7 +3,9 @@
   "handle": "INMEET-ID",
   "description": "PT Indomedia Solusi net",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.146.26.0/24"
+    ],
     "ipv6": []
   }
 }

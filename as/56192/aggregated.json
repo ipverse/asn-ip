@@ -3,7 +3,9 @@
   "handle": "KICTL-PK",
   "description": "Karachi International Container Terminal",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "202.0.110.0/24"
+    ],
     "ipv6": []
   }
 }

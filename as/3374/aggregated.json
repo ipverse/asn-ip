@@ -3,7 +3,10 @@
   "handle": "MCI",
   "description": "MCI",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "146.1.144.0/20",
+      "146.1.224.0/21"
+    ],
     "ipv6": []
   }
 }

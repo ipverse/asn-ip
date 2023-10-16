@@ -3,7 +3,9 @@
   "handle": "BOYLESPORTS",
   "description": "BoyleSports 2 Unlimited Company",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.50.100.0/22"
+    ],
     "ipv6": []
   }
 }

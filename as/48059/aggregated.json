@@ -3,7 +3,9 @@
   "handle": "MERCATOR-BA",
   "description": "Mercator BH d.o.o.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.208.255.0/24"
+    ],
     "ipv6": []
   }
 }

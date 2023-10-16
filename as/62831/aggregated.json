@@ -3,7 +3,11 @@
   "handle": "TUCOWS-TRS-SRS",
   "description": "Tucows.com Co.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "64.96.0.0/17"
+    ],
+    "ipv6": [
+      "2620:57:4000::/40"
+    ]
   }
 }

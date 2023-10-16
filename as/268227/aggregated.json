@@ -3,7 +3,11 @@
   "handle": "PROTEK-INFORMATICA-EIRELI",
   "description": "PROTEK INFORMATICA EIRELI ME",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.236.84.0/22"
+    ],
+    "ipv6": [
+      "2804:4de8::/32"
+    ]
   }
 }

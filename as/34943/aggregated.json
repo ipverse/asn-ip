@@ -3,7 +3,9 @@
   "handle": "SPINTERNET",
   "description": "Poste Srpske a.d.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "81.94.0.0/20"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "CHINANET-HUAIBEI-IDC",
   "description": "China Telecom",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "117.66.16.0/21"
+    ],
     "ipv6": []
   }
 }

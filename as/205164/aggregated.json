@@ -3,7 +3,9 @@
   "handle": "SZARIAS",
   "description": "AIR-Optic Solutions s.r.o.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.214.192.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "SMSC",
   "description": "SMSC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "216.70.31.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "AAM-ASN1",
   "description": "American Axle and Manufacturing, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.41.248.0/24"
+    ],
     "ipv6": []
   }
 }

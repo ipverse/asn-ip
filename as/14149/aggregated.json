@@ -3,7 +3,10 @@
   "handle": "ICONFITNESS-MAIN",
   "description": "Icon Health \u0026 Fitness Inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "24.104.157.0/24",
+      "192.68.158.0/24"
+    ],
     "ipv6": []
   }
 }

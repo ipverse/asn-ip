@@ -3,7 +3,9 @@
   "handle": "MILLIK-ASN1",
   "description": "Millikin University",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "136.144.0.0/20"
+    ],
     "ipv6": []
   }
 }

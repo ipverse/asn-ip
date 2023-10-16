@@ -3,7 +3,10 @@
   "handle": "BIO-RAD",
   "description": "Bio-Rad Laboratories, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.101.136.0/24",
+      "192.153.51.0/24"
+    ],
     "ipv6": []
   }
 }

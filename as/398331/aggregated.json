@@ -3,7 +3,9 @@
   "handle": "1FBUSA-PROD",
   "description": "1st Financial Bank USA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "63.151.52.0/24"
+    ],
     "ipv6": []
   }
 }

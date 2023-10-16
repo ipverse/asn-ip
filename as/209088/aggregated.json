@@ -3,7 +3,9 @@
   "handle": "ENERJISA-URETIM",
   "description": "Enerjisa Uretim Santralleri A.S.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "5.181.212.0/22"
+    ],
     "ipv6": []
   }
 }

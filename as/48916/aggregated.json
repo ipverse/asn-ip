@@ -3,7 +3,9 @@
   "handle": "KRAFTWAY",
   "description": "ZAO Kraftway Corporation PLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.198.14.0/24"
+    ],
     "ipv6": []
   }
 }

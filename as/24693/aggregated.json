@@ -3,7 +3,12 @@
   "handle": "CNSYS",
   "description": "CNSYS PLC",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "85.95.80.0/24",
+      "213.16.36.0/24"
+    ],
+    "ipv6": [
+      "2001:67c:23ec::/48"
+    ]
   }
 }

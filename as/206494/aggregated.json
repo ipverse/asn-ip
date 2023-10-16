@@ -3,7 +3,10 @@
   "handle": "COINNET",
   "description": "Christelle Chamoun",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.159.187.0/24",
+      "185.134.177.0/24"
+    ],
     "ipv6": []
   }
 }

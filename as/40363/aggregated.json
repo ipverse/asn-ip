@@ -3,7 +3,9 @@
   "handle": "AAS-OMAHA-NE",
   "description": "Asset Appraisal Services, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "208.74.192.0/22"
+    ],
     "ipv6": []
   }
 }

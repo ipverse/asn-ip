@@ -3,7 +3,9 @@
   "handle": "LEBANON-OR",
   "description": "City of Lebanon",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "204.28.223.0/24"
+    ],
     "ipv6": []
   }
 }

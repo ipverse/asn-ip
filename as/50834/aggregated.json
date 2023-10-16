@@ -3,7 +3,9 @@
   "handle": "RGES",
   "description": "REGIE GAZ ELECTRICITE DE SALLANCHES EPIC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "178.20.240.0/21"
+    ],
     "ipv6": []
   }
 }

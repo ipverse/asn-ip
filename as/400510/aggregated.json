@@ -3,7 +3,9 @@
   "handle": "UMGTCN",
   "description": "United Management Group, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "206.202.0.0/18"
+    ],
     "ipv6": []
   }
 }

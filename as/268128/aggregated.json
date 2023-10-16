@@ -3,7 +3,9 @@
   "handle": "MEGACOM-INTERNET",
   "description": "MEGACOM INTERNET LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.169.48.0/22"
+    ],
     "ipv6": []
   }
 }

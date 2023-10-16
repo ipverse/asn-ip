@@ -3,7 +3,9 @@
   "handle": "KSCFC",
   "description": "KSCFC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "203.239.7.0/24"
+    ],
     "ipv6": []
   }
 }

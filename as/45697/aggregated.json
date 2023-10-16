@@ -3,7 +3,9 @@
   "handle": "UBAYA-ID",
   "description": "Universitas Surabaya",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "203.114.224.0/23"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "OPENTEAM",
   "description": "OPENTEAM SAS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.176.209.0/24"
+    ],
     "ipv6": []
   }
 }

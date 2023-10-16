@@ -3,7 +3,9 @@
   "handle": "GRUPO-NACIONAL-PROVINCIAL-S-B",
   "description": "Grupo Nacional Provincial, S. A. B.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "200.34.210.0/24"
+    ],
     "ipv6": []
   }
 }

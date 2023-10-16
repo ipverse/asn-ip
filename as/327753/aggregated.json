@@ -3,7 +3,9 @@
   "handle": "CHASE-BANK-KENYA",
   "description": "CHASE BANK Kenya Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "196.13.136.0/23"
+    ],
     "ipv6": []
   }
 }

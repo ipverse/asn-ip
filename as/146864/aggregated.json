@@ -3,7 +3,10 @@
   "handle": "MEGNET1-IN",
   "description": "MEGNET",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.173.9.0/24",
+      "103.208.154.0/24"
+    ],
     "ipv6": []
   }
 }

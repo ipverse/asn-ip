@@ -3,7 +3,10 @@
   "handle": "EQUINOX-PAYMENTS",
   "description": "Equinox Payments",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "162.223.152.0/22",
+      "162.223.158.0/23"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "DELMONTE-PH-AP",
   "description": "Del Monte Philippines, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "202.129.238.0/24"
+    ],
     "ipv6": []
   }
 }

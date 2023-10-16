@@ -3,7 +3,11 @@
   "handle": "BC-TELECOM",
   "description": "BC TELECOM",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "200.115.108.0/22"
+    ],
+    "ipv6": [
+      "2804:69b8::/32"
+    ]
   }
 }

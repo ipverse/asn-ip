@@ -3,7 +3,11 @@
   "handle": "LUZIANE-SANTOS-SAGMEISTER",
   "description": "LUZIANE DOS SANTOS SAGMEISTER - ME",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "128.201.232.0/22"
+    ],
+    "ipv6": [
+      "2804:4018::/32"
+    ]
   }
 }

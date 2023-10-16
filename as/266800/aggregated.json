@@ -2,7 +2,9 @@
   "asn": 266800,
   "description": "A. DOS S.R.L",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.234.120.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "BATTELLE-MEMORIAL-INSTITUTE",
   "description": "BATTELLE MEMORIAL INSTITUTE",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "131.167.0.0/16"
+    ],
     "ipv6": []
   }
 }

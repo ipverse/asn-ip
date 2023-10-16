@@ -3,7 +3,9 @@
   "handle": "NJ-AP",
   "description": "NETWORK JOINT (HK) LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.108.180.0/22"
+    ],
     "ipv6": []
   }
 }

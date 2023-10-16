@@ -3,7 +3,10 @@
   "handle": "BRIDGESTONE-EUROPE",
   "description": "Bridgestone Europe NV",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.5.234.0/24",
+      "194.39.141.0/24"
+    ],
     "ipv6": []
   }
 }

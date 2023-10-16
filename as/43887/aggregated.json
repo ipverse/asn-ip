@@ -3,7 +3,10 @@
   "handle": "MJ-PT",
   "description": "IGFEJ INST GESTAO FINANCEIRA E EQUIPAMENTOS DA JUSTICA IP",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.198.182.0/24",
+      "193.236.152.0/24"
+    ],
     "ipv6": []
   }
 }

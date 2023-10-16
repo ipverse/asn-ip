@@ -3,7 +3,9 @@
   "handle": "PERSIANTOOLS",
   "description": "Abzarhaye Farsi Shabakeh Co.,LTD.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.129.168.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,10 @@
   "handle": "HEXTET",
   "description": "Hextet Systems",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "174.34.250.0/23",
+      "192.160.102.0/24"
+    ],
     "ipv6": [
       "2620:132:3000::/40"
     ]

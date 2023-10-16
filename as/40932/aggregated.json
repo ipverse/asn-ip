@@ -3,7 +3,9 @@
   "handle": "HSKPLAW",
   "description": "Hutchens, Senter, Kellam and Pettit, PA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "198.200.148.0/24"
+    ],
     "ipv6": []
   }
 }

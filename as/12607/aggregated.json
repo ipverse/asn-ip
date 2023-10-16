@@ -3,7 +3,9 @@
   "handle": "DIGITAL-BROS-SPA",
   "description": "Digital Bros. S.p.A.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "217.65.64.0/21"
+    ],
     "ipv6": []
   }
 }

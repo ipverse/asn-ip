@@ -3,7 +3,9 @@
   "handle": "PMHC",
   "description": "Phelps Memorial Health Center",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "170.76.207.0/24"
+    ],
     "ipv6": []
   }
 }

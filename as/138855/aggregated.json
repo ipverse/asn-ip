@@ -3,7 +3,9 @@
   "handle": "IFORTE-ISP-ID",
   "description": "PT iForte Solusi Infotek",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.171.22.0/23"
+    ],
     "ipv6": []
   }
 }

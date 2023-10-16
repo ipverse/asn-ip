@@ -3,7 +3,9 @@
   "handle": "ZARINPAL",
   "description": "Hamrah Pardaz Zarin PJS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.89.136.0/22"
+    ],
     "ipv6": []
   }
 }

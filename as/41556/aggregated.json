@@ -3,7 +3,10 @@
   "handle": "TELECON",
   "description": "LTD Telecon",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "62.177.42.0/23",
+      "88.81.210.0/23"
+    ],
     "ipv6": []
   }
 }

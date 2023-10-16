@@ -3,7 +3,9 @@
   "handle": "SOLPTEC-TELECOM",
   "description": "SOLPTEC TELECOM",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.165.120.0/22"
+    ],
     "ipv6": []
   }
 }

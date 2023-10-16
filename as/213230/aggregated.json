@@ -3,7 +3,12 @@
   "handle": "HETZNER-CLOUD2",
   "description": "Hetzner Online GmbH",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "5.161.0.0/16",
+      "178.156.128.0/17"
+    ],
+    "ipv6": [
+      "2a01:4ff::/40"
+    ]
   }
 }

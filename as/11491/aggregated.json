@@ -3,7 +3,10 @@
   "handle": "TRIVALENT-GROUP-NEW",
   "description": "Rehmann Technology Solutions, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "216.120.144.0/23",
+      "216.120.169.0/24"
+    ],
     "ipv6": []
   }
 }

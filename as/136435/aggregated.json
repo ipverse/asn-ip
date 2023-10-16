@@ -3,7 +3,10 @@
   "handle": "ELITE-BD",
   "description": "ELITE COMMUNICATION",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.87.248.0/22",
+      "203.96.224.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "ENTORNET-BANDA-LARGA",
   "description": "Entornet Banda Larga",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "191.6.56.0/21"
+    ],
     "ipv6": []
   }
 }

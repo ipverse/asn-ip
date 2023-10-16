@@ -3,7 +3,9 @@
   "handle": "GE-CDN",
   "description": "Caucasus Digital Network LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "217.11.160.0/20"
+    ],
     "ipv6": []
   }
 }

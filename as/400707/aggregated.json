@@ -3,7 +3,9 @@
   "handle": "MMH-01",
   "description": "Melissa Memorial Hospital",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.109.250.0/24"
+    ],
     "ipv6": []
   }
 }

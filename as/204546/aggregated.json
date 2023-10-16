@@ -3,7 +3,9 @@
   "handle": "CDP",
   "description": "Comune di Padova",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.213.115.0/24"
+    ],
     "ipv6": []
   }
 }

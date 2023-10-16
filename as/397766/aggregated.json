@@ -3,7 +3,11 @@
   "handle": "FDU-CA",
   "description": "Fairleigh Dickinson University",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "64.34.119.0/24",
+      "65.39.232.0/22",
+      "81.28.144.0/20"
+    ],
     "ipv6": []
   }
 }

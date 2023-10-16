@@ -3,7 +3,10 @@
   "handle": "SURS",
   "description": "State Universities Retirement System",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "64.150.70.0/24",
+      "209.175.175.0/24"
+    ],
     "ipv6": []
   }
 }

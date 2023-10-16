@@ -3,7 +3,9 @@
   "handle": "EQUINIX-BRASIL",
   "description": "EQUINIX BRASIL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "138.36.216.0/22"
+    ],
     "ipv6": []
   }
 }

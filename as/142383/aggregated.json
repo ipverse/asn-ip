@@ -3,7 +3,9 @@
   "handle": "IDNIC-VTNET-ID",
   "description": "PT Vaiotech Lintas Nusantara",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.172.20.0/23"
+    ],
     "ipv6": []
   }
 }

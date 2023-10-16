@@ -3,7 +3,9 @@
   "handle": "K-P-SILVA-TELECOM",
   "description": "K P SILVA TELECOM",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "190.124.52.0/22"
+    ],
     "ipv6": []
   }
 }

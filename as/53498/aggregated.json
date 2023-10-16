@@ -3,7 +3,10 @@
   "handle": "FORD-FOUNDATION",
   "description": "Ford Foundation",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.255.152.0/24",
+      "199.255.154.0/24"
+    ],
     "ipv6": []
   }
 }

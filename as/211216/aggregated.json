@@ -3,7 +3,9 @@
   "handle": "PROTESE",
   "description": "Protese S.L.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "81.31.196.0/24"
+    ],
     "ipv6": []
   }
 }

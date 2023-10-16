@@ -3,7 +3,11 @@
   "handle": "KAP-NET",
   "description": "Kansai Airports",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "103.102.3.0/24"
+    ],
+    "ipv6": [
+      "2001:df2:c300::/48"
+    ]
   }
 }

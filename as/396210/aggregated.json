@@ -3,7 +3,9 @@
   "handle": "AAAHC-HQ",
   "description": "Accreditation Association for Ambulatory Health Care, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "50.226.96.0/24"
+    ],
     "ipv6": []
   }
 }

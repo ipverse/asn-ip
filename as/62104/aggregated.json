@@ -3,7 +3,10 @@
   "handle": "CSISP",
   "description": "Computer Service Internet Service Provider S.L.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.47.212.0/22",
+      "185.67.76.0/22"
+    ],
     "ipv6": []
   }
 }

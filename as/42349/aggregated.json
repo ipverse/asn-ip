@@ -3,7 +3,12 @@
   "handle": "KABIA",
   "description": "KABIA SRL",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "91.233.122.0/24",
+      "185.203.28.0/22"
+    ],
+    "ipv6": [
+      "2a0a:e040::/29"
+    ]
   }
 }

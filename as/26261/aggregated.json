@@ -3,7 +3,9 @@
   "handle": "E2CNET",
   "description": "E Squared C Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "198.135.245.0/24"
+    ],
     "ipv6": []
   }
 }

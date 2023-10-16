@@ -3,7 +3,9 @@
   "handle": "ANKABUT",
   "description": "Khalifa University",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.229.64.0/23"
+    ],
     "ipv6": []
   }
 }

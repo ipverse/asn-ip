@@ -3,7 +3,9 @@
   "handle": "S1SOL",
   "description": "Source One Solutions, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "104.169.5.0/24"
+    ],
     "ipv6": []
   }
 }

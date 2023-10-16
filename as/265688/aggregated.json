@@ -3,7 +3,12 @@
   "handle": "SINERGY-SOLUCIONES-INTEGRALES",
   "description": "SINERGY SOLUCIONES INTEGRALES",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "138.117.84.0/22",
+      "181.174.228.0/22"
+    ],
+    "ipv6": [
+      "2803:1840::/32"
+    ]
   }
 }

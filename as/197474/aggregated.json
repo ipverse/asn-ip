@@ -3,7 +3,10 @@
   "handle": "ASECUREX",
   "description": "Securex s.c., Tomasz Raczynski, Piotr Abgarowicz",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "77.79.230.0/23",
+      "91.231.36.0/22"
+    ],
     "ipv6": []
   }
 }

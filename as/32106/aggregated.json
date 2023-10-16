@@ -3,7 +3,9 @@
   "handle": "CHECKPOINT",
   "description": "Check Point Software Technologies, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "172.102.158.0/24"
+    ],
     "ipv6": []
   }
 }

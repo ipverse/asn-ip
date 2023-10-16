@@ -3,7 +3,10 @@
   "handle": "FBKL-AP",
   "description": "FINE BRAVERY (HONG KONG) LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.18.182.0/23",
+      "210.211.26.0/23"
+    ],
     "ipv6": []
   }
 }

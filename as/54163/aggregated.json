@@ -3,7 +3,9 @@
   "handle": "AHOSTING",
   "description": "AHOSTING",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "152.160.192.0/18"
+    ],
     "ipv6": []
   }
 }

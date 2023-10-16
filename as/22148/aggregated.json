@@ -3,7 +3,9 @@
   "handle": "MPS-INFORMATICA",
   "description": "MPS Informatica",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "200.160.16.0/20"
+    ],
     "ipv6": []
   }
 }

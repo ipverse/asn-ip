@@ -3,7 +3,9 @@
   "handle": "BROOK-LAW",
   "description": "Brooklyn Law School",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.102.168.0/21"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,11 @@
   "handle": "ADCSYSTEMS",
   "description": "ADC Systems s.r.o.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "89.22.65.0/24",
+      "89.22.80.0/23",
+      "89.22.82.0/24"
+    ],
     "ipv6": []
   }
 }

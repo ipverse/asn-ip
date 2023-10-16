@@ -3,7 +3,9 @@
   "handle": "PROVEDOR-RODRIGUES-FERREIRA",
   "description": "PROVEDOR RODRIGUES FERREIRA LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.184.120.0/22"
+    ],
     "ipv6": []
   }
 }

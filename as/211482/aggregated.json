@@ -3,7 +3,10 @@
   "handle": "NAMGROUP",
   "description": "Namirial spa",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.217.28.0/23",
+      "185.217.31.0/24"
+    ],
     "ipv6": []
   }
 }

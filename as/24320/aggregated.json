@@ -3,7 +3,9 @@
   "handle": "RAILCOM",
   "description": "RAILCOM",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "202.72.240.0/21"
+    ],
     "ipv6": []
   }
 }

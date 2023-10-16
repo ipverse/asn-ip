@@ -3,7 +3,11 @@
   "handle": "TOTALNET-PROVEDOR",
   "description": "TotalNet Provedor",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "190.106.88.0/22"
+    ],
+    "ipv6": [
+      "2804:74e4::/32"
+    ]
   }
 }

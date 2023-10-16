@@ -3,7 +3,9 @@
   "handle": "IRCOMSERV",
   "description": "IrpenComunikaciaService LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.31.212.0/22"
+    ],
     "ipv6": []
   }
 }

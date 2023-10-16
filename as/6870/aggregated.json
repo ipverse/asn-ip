@@ -3,7 +3,9 @@
   "handle": "SPACE-IX",
   "description": "RECONN LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.209.51.0/24"
+    ],
     "ipv6": []
   }
 }

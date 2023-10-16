@@ -3,7 +3,10 @@
   "handle": "CORP-HDQTRS",
   "description": "ROI Solutions, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "50.206.221.0/24",
+      "70.96.161.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "GSU",
   "description": "Governors State University",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "143.43.0.0/17"
+    ],
     "ipv6": []
   }
 }

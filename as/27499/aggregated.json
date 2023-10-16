@@ -3,7 +3,9 @@
   "handle": "SERVERS-DEPOT-01",
   "description": "Servers Depot, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.80.0.0/24"
+    ],
     "ipv6": []
   }
 }

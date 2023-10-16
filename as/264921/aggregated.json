@@ -3,7 +3,9 @@
   "handle": "LASER-PROVEDOR-INTERNET",
   "description": "LASER PROVEDOR DE INTERNET LTDA - ME",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "168.228.164.0/22"
+    ],
     "ipv6": []
   }
 }

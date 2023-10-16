@@ -3,7 +3,9 @@
   "handle": "BELLIN-MEMORIAL-HOSPITAL",
   "description": "Bellin Memorial Hospital, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "149.19.0.0/23"
+    ],
     "ipv6": []
   }
 }

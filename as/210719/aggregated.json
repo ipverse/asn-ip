@@ -3,7 +3,9 @@
   "handle": "ADRIAMOBIL",
   "description": "ADRIA MOBIL, d.o.o. Novo mesto",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "94.103.181.0/24"
+    ],
     "ipv6": []
   }
 }

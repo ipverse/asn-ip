@@ -3,7 +3,10 @@
   "handle": "DRAKE",
   "description": "Drake Holdings LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.92.196.0/24",
+      "204.79.180.0/24"
+    ],
     "ipv6": []
   }
 }

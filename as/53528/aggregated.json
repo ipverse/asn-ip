@@ -3,7 +3,10 @@
   "handle": "SHARP",
   "description": "Sharp Electronics Corporation",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "198.186.240.0/23",
+      "206.197.244.0/24"
+    ],
     "ipv6": []
   }
 }

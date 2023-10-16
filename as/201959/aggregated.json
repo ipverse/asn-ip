@@ -3,7 +3,9 @@
   "handle": "DATABANK-LT",
   "description": "Data Bank Group UAB",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.58.64.0/22"
+    ],
     "ipv6": []
   }
 }

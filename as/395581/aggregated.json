@@ -3,7 +3,9 @@
   "handle": "SIMSMM-US-INET",
   "description": "Metal Management, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "50.220.8.0/22"
+    ],
     "ipv6": []
   }
 }

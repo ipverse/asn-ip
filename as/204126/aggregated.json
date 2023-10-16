@@ -3,7 +3,9 @@
   "handle": "NET-KOMP",
   "description": "P. H. U. NET-KOMP Marcin Orlowski",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "178.213.88.0/21"
+    ],
     "ipv6": []
   }
 }

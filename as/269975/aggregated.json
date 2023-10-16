@@ -3,7 +3,9 @@
   "handle": "CORPORACION-CONEXTELECOM",
   "description": "CORPORACION CONEXTELECOM S.A.C",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "190.89.28.0/24"
+    ],
     "ipv6": []
   }
 }

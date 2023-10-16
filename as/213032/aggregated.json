@@ -4,6 +4,10 @@
   "description": "Fleggaard Holding A/S",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2001:678:dc4::/48",
+      "2001:678:dc8::/48",
+      "2001:67c:27c4::/48"
+    ]
   }
 }

@@ -3,7 +3,10 @@
   "handle": "STETECHPLUS",
   "description": "STE Techplus SARL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "102.135.176.0/21",
+      "102.217.16.0/22"
+    ],
     "ipv6": []
   }
 }

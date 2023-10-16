@@ -3,7 +3,10 @@
   "handle": "LCISD",
   "description": "Lapeer ISD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "136.228.46.0/24",
+      "136.228.61.0/24"
+    ],
     "ipv6": []
   }
 }

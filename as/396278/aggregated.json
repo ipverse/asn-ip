@@ -3,7 +3,9 @@
   "handle": "CONNECTEDAF-01",
   "description": "ConnectedAF Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "161.188.240.0/22"
+    ],
     "ipv6": []
   }
 }

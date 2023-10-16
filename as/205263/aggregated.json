@@ -3,7 +3,9 @@
   "handle": "ABC-ARBITRAGE",
   "description": "ABC arbitrage Asset Management SA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.221.228.0/22"
+    ],
     "ipv6": []
   }
 }

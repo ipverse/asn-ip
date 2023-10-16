@@ -3,7 +3,10 @@
   "handle": "ANSI",
   "description": "American National Standards Institute",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "63.241.103.0/24",
+      "216.5.120.0/24"
+    ],
     "ipv6": []
   }
 }

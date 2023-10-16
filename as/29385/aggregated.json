@@ -3,7 +3,10 @@
   "handle": "BUZTON-JV",
   "description": "BUZTON LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "94.230.224.0/21",
+      "213.206.32.0/19"
+    ],
     "ipv6": []
   }
 }

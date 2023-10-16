@@ -3,7 +3,9 @@
   "handle": "IOIT-VN",
   "description": "Institute of Information Technology (IOIT)",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.220.68.0/22"
+    ],
     "ipv6": []
   }
 }

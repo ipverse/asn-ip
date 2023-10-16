@@ -3,7 +3,11 @@
   "handle": "HHMI",
   "description": "Howard Hughes Medical Institute",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "206.241.0.0/22"
+    ],
+    "ipv6": [
+      "2620:110::/47"
+    ]
   }
 }

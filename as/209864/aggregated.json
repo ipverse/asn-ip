@@ -3,7 +3,9 @@
   "handle": "NAIVE-NETWORK",
   "description": "Zhaofeng Li",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "44.10.4.0/24"
+    ],
     "ipv6": []
   }
 }

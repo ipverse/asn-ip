@@ -3,7 +3,9 @@
   "handle": "NEXT-TV",
   "description": "NEXT-TV SHPK",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.226.88.0/22"
+    ],
     "ipv6": []
   }
 }

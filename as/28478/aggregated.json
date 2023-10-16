@@ -3,7 +3,9 @@
   "handle": "ESCUELA-BANCARIA-COMERCIAL",
   "description": "Escuela Bancaria y Comercial",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "201.131.12.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,14 @@
   "handle": "I-NETPARTNER",
   "description": "I-NetPartner GmbH",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "31.186.120.0/21",
+      "94.142.181.0/24",
+      "217.23.48.0/20"
+    ],
+    "ipv6": [
+      "2a01:5900::/29",
+      "2a0d:22c0::/29"
+    ]
   }
 }

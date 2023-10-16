@@ -3,7 +3,9 @@
   "handle": "KREN",
   "description": "Ministry of Economy of Republic of Kosovo",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.182.158.0/24"
+    ],
     "ipv6": []
   }
 }

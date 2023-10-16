@@ -3,7 +3,10 @@
   "handle": "DGI",
   "description": "DataGroup-Int SRL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "80.96.239.0/24",
+      "193.230.233.0/24"
+    ],
     "ipv6": []
   }
 }

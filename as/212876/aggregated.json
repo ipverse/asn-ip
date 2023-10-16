@@ -3,7 +3,11 @@
   "handle": "CZ-PARDUBICKYKRAJ",
   "description": "Pardubicky Kraj",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "185.166.108.0/22"
+    ],
+    "ipv6": [
+      "2a0c:f880::/29"
+    ]
   }
 }

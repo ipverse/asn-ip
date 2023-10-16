@@ -3,7 +3,9 @@
   "handle": "ELAUWIT-CONNECTION",
   "description": "Elauwit Connection Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "144.86.204.0/23"
+    ],
     "ipv6": []
   }
 }

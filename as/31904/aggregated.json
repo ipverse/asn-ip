@@ -3,7 +3,9 @@
   "handle": "NCWCD-80513",
   "description": "Northern Water",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "64.22.114.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "GIPN-TIER2",
   "description": "Global IP Networks INC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "66.180.40.0/22"
+    ],
     "ipv6": []
   }
 }

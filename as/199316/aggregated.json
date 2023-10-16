@@ -3,7 +3,9 @@
   "handle": "AVTOTOR",
   "description": "AVTOTOR Holding",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.239.142.0/24"
+    ],
     "ipv6": []
   }
 }

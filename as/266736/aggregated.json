@@ -4,6 +4,8 @@
   "description": "Universidad Tecnologica de Pereira",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2801:0:4c0::/48"
+    ]
   }
 }

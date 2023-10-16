@@ -3,7 +3,11 @@
   "handle": "P4NET-PROVEDORES",
   "description": "P4NET PROVEDORES",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "131.196.168.0/22"
+    ],
+    "ipv6": [
+      "2804:3fcc::/32"
+    ]
   }
 }

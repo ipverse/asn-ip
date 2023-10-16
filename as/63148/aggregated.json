@@ -3,7 +3,9 @@
   "handle": "QTI",
   "description": "Quick Technologies Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "208.215.218.0/23"
+    ],
     "ipv6": []
   }
 }

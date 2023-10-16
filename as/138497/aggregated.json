@@ -3,7 +3,9 @@
   "handle": "WEBSOLUTION-AP",
   "description": "Web Solution",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.127.46.0/24"
+    ],
     "ipv6": []
   }
 }

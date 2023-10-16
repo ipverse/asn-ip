@@ -3,7 +3,11 @@
   "handle": "KHULA-TECH",
   "description": "Khula Tech Solutions",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "102.220.224.0/22"
+    ],
+    "ipv6": [
+      "2c0f:1c00::/32"
+    ]
   }
 }

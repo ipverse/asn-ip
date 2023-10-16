@@ -3,7 +3,10 @@
   "handle": "HOMETELECOM",
   "description": "ARANEA LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "176.118.199.0/24",
+      "193.238.44.0/24"
+    ],
     "ipv6": []
   }
 }

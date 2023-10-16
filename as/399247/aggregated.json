@@ -3,7 +3,10 @@
   "handle": "FASTLINK-01",
   "description": "Fastlink Communications LLC.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "172.110.132.0/22",
+      "204.225.126.0/23"
+    ],
     "ipv6": []
   }
 }

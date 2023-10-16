@@ -3,7 +3,11 @@
   "handle": "AVATELTELECOM",
   "description": "AVATEL TELECOM, SA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.93.120.0/22",
+      "185.120.44.0/22",
+      "185.233.234.0/24"
+    ],
     "ipv6": []
   }
 }

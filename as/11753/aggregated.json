@@ -3,7 +3,10 @@
   "handle": "NETREPID1",
   "description": "Netrepid",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "204.11.240.0/22",
+      "216.220.160.0/20"
+    ],
     "ipv6": []
   }
 }

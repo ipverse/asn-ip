@@ -3,7 +3,9 @@
   "handle": "SIBNET",
   "description": "Enterprise Medtech Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.197.124.0/22"
+    ],
     "ipv6": []
   }
 }

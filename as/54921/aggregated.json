@@ -3,7 +3,9 @@
   "handle": "ISCA",
   "description": "Industrial Scientific Corporation",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "198.187.140.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "SCHAEFFERS-INVESTMENT-RESEARCH",
   "description": "Schaeffer\u0027s Investment Research",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "24.106.95.0/24"
+    ],
     "ipv6": []
   }
 }

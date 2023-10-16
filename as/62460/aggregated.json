@@ -3,7 +3,9 @@
   "handle": "ZGT",
   "description": "FUNKE Thueringen Verlag GmbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.9.108.0/22"
+    ],
     "ipv6": []
   }
 }

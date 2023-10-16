@@ -3,7 +3,10 @@
   "handle": "TRUESPEED",
   "description": "Truespeed Internet Services",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "66.78.96.0/19",
+      "104.200.0.0/20"
+    ],
     "ipv6": []
   }
 }

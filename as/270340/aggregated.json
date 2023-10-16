@@ -3,7 +3,11 @@
   "handle": "NETCOM-TELECOMUNICAES",
   "description": "NETCOM TELECOMUNICAES LTDA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "190.83.84.0/22"
+    ],
+    "ipv6": [
+      "2804:6a80::/32"
+    ]
   }
 }

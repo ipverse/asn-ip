@@ -4,6 +4,8 @@
   "description": "Adilson Dias da Silva",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2804:895c::/32"
+    ]
   }
 }

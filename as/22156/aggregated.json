@@ -3,7 +3,9 @@
   "handle": "DANANET",
   "description": "Dana Consulting, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "8.29.56.0/23"
+    ],
     "ipv6": []
   }
 }

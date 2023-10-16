@@ -1,9 +1,9 @@
 {
   "asn": 267371,
-  "handle": "J-PEREIRA-CARVALHO",
-  "description": "J Pereira de Carvalho ME",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2804:4c74::/32"
+    ]
   }
 }

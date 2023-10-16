@@ -3,7 +3,9 @@
   "handle": "TELIA-LIETUVA",
   "description": "Telia Lietuva, AB",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.12.186.0/24"
+    ],
     "ipv6": []
   }
 }

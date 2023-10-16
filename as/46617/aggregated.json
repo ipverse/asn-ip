@@ -3,7 +3,10 @@
   "handle": "WEBMD-IDC2",
   "description": "WebMD, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "98.158.201.0/24",
+      "207.231.200.0/21"
+    ],
     "ipv6": []
   }
 }

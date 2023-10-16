@@ -3,7 +3,9 @@
   "handle": "TARONGA",
   "description": "ZOOLOGICAL PARKS BOARD OF NSW",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.87.163.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,10 @@
   "handle": "INTERCOM",
   "description": "OOO Intercom",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.67.33.0/24",
+      "185.153.44.0/22"
+    ],
     "ipv6": []
   }
 }

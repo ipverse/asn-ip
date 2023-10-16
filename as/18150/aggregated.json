@@ -3,7 +3,9 @@
   "handle": "SNI-JP",
   "description": "Sagashimbun Co., Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "61.7.0.0/17"
+    ],
     "ipv6": []
   }
 }

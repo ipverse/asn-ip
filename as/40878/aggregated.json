@@ -3,7 +3,9 @@
   "handle": "ADNS",
   "description": "Advanced Data and Network Solutions, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "198.190.255.0/24"
+    ],
     "ipv6": []
   }
 }

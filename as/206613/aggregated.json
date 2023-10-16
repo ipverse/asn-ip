@@ -3,7 +3,11 @@
   "handle": "TIPSPORT-NET",
   "description": "Tipsport.net a.s.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "195.39.239.0/24"
+    ],
+    "ipv6": [
+      "2001:678:320::/48"
+    ]
   }
 }

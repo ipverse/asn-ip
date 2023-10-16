@@ -3,7 +3,11 @@
   "handle": "PARADISE-AP",
   "description": "One New Zealand Group Limited",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "202.37.60.0/22"
+    ],
+    "ipv6": [
+      "2001:4403:dead::/48"
+    ]
   }
 }

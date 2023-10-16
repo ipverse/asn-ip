@@ -3,7 +3,9 @@
   "handle": "NCIS-IN",
   "description": "NETWORK COMMUNICATIONS AND IT SERVICES",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.188.18.0/23"
+    ],
     "ipv6": []
   }
 }

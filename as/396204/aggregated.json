@@ -3,7 +3,10 @@
   "handle": "C1-BGP",
   "description": "ConvergeOne Holdings Corp",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "50.234.212.0/24",
+      "207.2.82.0/24"
+    ],
     "ipv6": []
   }
 }

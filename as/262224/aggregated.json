@@ -3,7 +3,9 @@
   "handle": "CENTRAL-RESTAURANTES-ARAMARK",
   "description": "Central de Restaurantes Aramark Ltda.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "161.195.142.0/24"
+    ],
     "ipv6": []
   }
 }

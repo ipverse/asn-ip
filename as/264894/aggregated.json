@@ -3,7 +3,11 @@
   "handle": "DREAMNET-PROVEDOR-INTERNET",
   "description": "DREAMNET PROVEDOR DE INTERNET LTDA - ME",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "168.228.0.0/22"
+    ],
+    "ipv6": [
+      "2804:2f7c::/32"
+    ]
   }
 }

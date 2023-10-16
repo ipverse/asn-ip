@@ -3,7 +3,10 @@
   "handle": "CSBSO",
   "description": "COUNTY OF SAN BERNARDINO",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "8.7.17.0/24",
+      "12.201.127.0/24"
+    ],
     "ipv6": []
   }
 }

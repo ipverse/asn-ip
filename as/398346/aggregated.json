@@ -3,7 +3,9 @@
   "handle": "PROJETCIRRUS",
   "description": "Micro Logic",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "24.235.7.0/24"
+    ],
     "ipv6": []
   }
 }

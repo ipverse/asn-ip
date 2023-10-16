@@ -3,7 +3,9 @@
   "handle": "KAL3",
   "description": "K2020196641 (SOUTH AFRICA) (PTY) LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "102.216.16.0/22"
+    ],
     "ipv6": []
   }
 }

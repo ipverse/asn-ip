@@ -3,7 +3,9 @@
   "handle": "WEBISTICS-HOLDINGS-LTD",
   "description": "VPNWholesaler.com",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "104.36.226.0/24"
+    ],
     "ipv6": []
   }
 }

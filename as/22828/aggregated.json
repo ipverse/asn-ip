@@ -3,7 +3,11 @@
   "handle": "FDA",
   "description": "Parklawn Computer Center / DIMES HQ",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "150.148.0.0/16"
+    ],
+    "ipv6": [
+      "2607:f220:300::/44"
+    ]
   }
 }

@@ -3,7 +3,9 @@
   "handle": "TVERREG",
   "description": "GKU TO CIT",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.3.183.0/24"
+    ],
     "ipv6": []
   }
 }

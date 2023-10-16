@@ -3,7 +3,11 @@
   "handle": "TURBONET-CE",
   "description": "TURBONET CE",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "164.163.24.0/22"
+    ],
+    "ipv6": [
+      "2804:4020::/32"
+    ]
   }
 }

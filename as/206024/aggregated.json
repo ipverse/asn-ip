@@ -3,7 +3,9 @@
   "handle": "RBI-UK-DUALHOMING",
   "description": "RELX GROUP PLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "145.43.252.0/22"
+    ],
     "ipv6": []
   }
 }

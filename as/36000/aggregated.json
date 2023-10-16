@@ -3,7 +3,10 @@
   "handle": "NHA-ASN1",
   "description": "Northern Health Authority",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "208.73.76.0/22",
+      "209.53.232.0/24"
+    ],
     "ipv6": []
   }
 }

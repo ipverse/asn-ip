@@ -3,7 +3,9 @@
   "handle": "HOT-WAVE-COMERCIO",
   "description": "Hot Wave Comercio e Servico de Telecomunicacoes Lt",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "191.37.96.0/19"
+    ],
     "ipv6": []
   }
 }

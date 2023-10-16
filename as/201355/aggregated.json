@@ -3,7 +3,9 @@
   "handle": "TIGAZ",
   "description": "Tigaz Zrt.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.220.251.0/24"
+    ],
     "ipv6": []
   }
 }

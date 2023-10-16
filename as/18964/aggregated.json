@@ -3,7 +3,11 @@
   "handle": "AHSSSCI",
   "description": "Adventist Health System Sunbelt Healthcare Corporation",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "204.139.64.0/18",
+      "204.156.96.0/20",
+      "204.156.120.0/24"
+    ],
     "ipv6": []
   }
 }

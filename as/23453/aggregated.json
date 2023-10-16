@@ -3,7 +3,9 @@
   "handle": "NPBI-NOC",
   "description": "NEW PEOPLES BANK, INC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "12.43.216.0/24"
+    ],
     "ipv6": []
   }
 }

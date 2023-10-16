@@ -3,7 +3,9 @@
   "handle": "DECTA",
   "description": "SIA Decta",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.178.48.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "CHARLES-RIVER-LABORATORIES-INC-SHR",
   "description": "Charles River Laboratories, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "208.89.252.0/22"
+    ],
     "ipv6": []
   }
 }

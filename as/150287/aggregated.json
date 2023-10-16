@@ -3,7 +3,10 @@
   "handle": "TFFL-AP",
   "description": "Tuatahi First Fibre Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.41.168.0/24",
+      "103.74.225.0/24"
+    ],
     "ipv6": []
   }
 }

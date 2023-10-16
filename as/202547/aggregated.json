@@ -3,7 +3,9 @@
   "handle": "LON",
   "description": "Hranilnica LON d.d., Kranj",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "37.230.133.0/24"
+    ],
     "ipv6": []
   }
 }

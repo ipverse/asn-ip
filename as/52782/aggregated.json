@@ -3,7 +3,9 @@
   "handle": "HYUNDAI-AUTOEVER-BRASIL",
   "description": "HYUNDAI AUTOEVER BRASIL TECNOLOGIA DA INFORMACAO",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "177.52.132.0/22"
+    ],
     "ipv6": []
   }
 }

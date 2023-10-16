@@ -3,7 +3,9 @@
   "handle": "INFLX",
   "description": "Inflexus d.o.o.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "149.5.189.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "IDNIC-DASARATA-ID",
   "description": "PT Garuda Lintas Cakrawala",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.184.18.0/23"
+    ],
     "ipv6": []
   }
 }

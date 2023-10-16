@@ -3,7 +3,9 @@
   "handle": "TCI-PLAINS01",
   "description": "Triple Crown Internet, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "216.116.132.0/23"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "ENIGMA-AP",
   "description": "Enigma Solutions Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.210.208.0/24"
+    ],
     "ipv6": []
   }
 }

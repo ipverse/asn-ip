@@ -3,7 +3,10 @@
   "handle": "UNISYSTEMSASP",
   "description": "Unisystems SA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.41.150.0/23",
+      "193.92.173.0/24"
+    ],
     "ipv6": []
   }
 }

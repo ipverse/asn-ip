@@ -3,7 +3,10 @@
   "handle": "SOFICA",
   "description": "TTEC Eastern Europe EAD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "92.247.100.0/23",
+      "217.79.40.0/24"
+    ],
     "ipv6": []
   }
 }

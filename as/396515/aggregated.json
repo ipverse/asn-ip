@@ -3,7 +3,9 @@
   "handle": "YYCIX-SVC",
   "description": "YYCIX",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.75.191.0/24"
+    ],
     "ipv6": []
   }
 }

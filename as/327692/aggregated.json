@@ -3,7 +3,10 @@
   "handle": "SMILECOMMS",
   "description": "Smile Communications Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "154.126.224.0/19",
+      "197.215.240.0/20"
+    ],
     "ipv6": []
   }
 }

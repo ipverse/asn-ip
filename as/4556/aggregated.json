@@ -3,7 +3,13 @@
   "handle": "PACKETFABRIC",
   "description": "PacketFabric, Inc.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "23.159.0.0/24",
+      "23.180.128.0/24",
+      "185.161.0.0/22"
+    ],
+    "ipv6": [
+      "2606:db80::/32"
+    ]
   }
 }

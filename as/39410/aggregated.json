@@ -3,7 +3,9 @@
   "handle": "MIZAPRO",
   "description": "Anisimov Mikhail Mikhailovich",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.80.138.0/24"
+    ],
     "ipv6": []
   }
 }

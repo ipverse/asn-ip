@@ -3,7 +3,9 @@
   "handle": "NEWCREST-AMER-01",
   "description": "Newcrest Red Chris Mining Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "203.7.174.0/24"
+    ],
     "ipv6": []
   }
 }

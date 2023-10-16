@@ -3,7 +3,9 @@
   "handle": "ENAMINE",
   "description": "ENAMINE LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "31.42.182.0/24"
+    ],
     "ipv6": []
   }
 }

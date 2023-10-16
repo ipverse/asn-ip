@@ -3,7 +3,11 @@
   "handle": "ZBL-TELECOM",
   "description": "ZBL Telecom",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "200.26.252.0/22"
+    ],
+    "ipv6": [
+      "2804:6c14::/32"
+    ]
   }
 }

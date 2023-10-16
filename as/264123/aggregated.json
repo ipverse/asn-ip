@@ -3,7 +3,12 @@
   "handle": "TELEFONICA-GLOBAL-SOLUTIONS",
   "description": "TELEFONICA GLOBAL SOLUTIONS BRASIL LTDA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "138.94.16.0/24",
+      "138.94.18.0/24"
+    ],
+    "ipv6": [
+      "2804:22cc::/37"
+    ]
   }
 }

@@ -3,7 +3,12 @@
   "handle": "UCNET",
   "description": "University of Crete",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "147.52.0.0/16",
+      "192.103.20.0/24"
+    ],
+    "ipv6": [
+      "2001:648:2c00::/48"
+    ]
   }
 }

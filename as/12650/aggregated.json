@@ -3,7 +3,9 @@
   "handle": "ILSOLE24ORE",
   "description": "Il Sole 24 Ore SpA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "212.45.96.0/21"
+    ],
     "ipv6": []
   }
 }

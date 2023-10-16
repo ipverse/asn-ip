@@ -3,7 +3,9 @@
   "handle": "HOBARTCC-NON-AP",
   "description": "Hobart City Council",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "203.16.4.0/22"
+    ],
     "ipv6": []
   }
 }

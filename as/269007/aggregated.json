@@ -3,7 +3,9 @@
   "handle": "MATTOS-EQUIPAMENTOS-ELETRONICOS",
   "description": "MATTOS EQUIPAMENTOS ELETRONICOS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.176.152.0/22"
+    ],
     "ipv6": []
   }
 }

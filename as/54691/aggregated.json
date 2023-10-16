@@ -3,7 +3,9 @@
   "handle": "FCSA",
   "description": "Farm Credit Services of America",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "209.182.250.0/23"
+    ],
     "ipv6": []
   }
 }

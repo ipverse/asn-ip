@@ -3,7 +3,11 @@
   "handle": "CHINA-ABITCOOL",
   "description": "Abitcool(China) Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "124.251.230.0/24",
+      "124.251.244.0/23",
+      "211.99.160.0/22"
+    ],
     "ipv6": []
   }
 }

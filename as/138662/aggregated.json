@@ -3,7 +3,9 @@
   "handle": "GRACE-AP",
   "description": "Grace Worldwide Pty Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.135.247.0/24"
+    ],
     "ipv6": []
   }
 }

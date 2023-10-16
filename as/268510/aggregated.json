@@ -3,7 +3,12 @@
   "handle": "JS-INTERNET",
   "description": "JS INTERNET",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.161.144.0/22"
+    ],
+    "ipv6": [
+      "2804:5250:4000::/34",
+      "2804:5250:8000::/33"
+    ]
   }
 }

@@ -3,7 +3,11 @@
   "handle": "SILVA-GONALVES-INFORMTICA",
   "description": "Silva \u0026 Gonalves Informtica Ltda",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "177.129.204.0/22"
+    ],
+    "ipv6": [
+      "2804:3aac::/32"
+    ]
   }
 }

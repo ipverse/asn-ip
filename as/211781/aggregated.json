@@ -4,6 +4,9 @@
   "description": "prego jeremy",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2001:67c:2944::/48",
+      "2a0e:b107:390::/44"
+    ]
   }
 }

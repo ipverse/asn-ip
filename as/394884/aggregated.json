@@ -3,7 +3,9 @@
   "handle": "FAMOUS-SMOKE",
   "description": "Famous Smoke Shop",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "52.124.60.0/24"
+    ],
     "ipv6": []
   }
 }

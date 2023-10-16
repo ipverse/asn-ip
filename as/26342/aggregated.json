@@ -3,7 +3,13 @@
   "handle": "DTTS",
   "description": "Deloitte Touche Tohmatsu Services, Inc.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "170.194.152.0/21",
+      "170.194.168.0/21",
+      "170.194.176.0/20"
+    ],
+    "ipv6": [
+      "2620:118:a004::/47"
+    ]
   }
 }

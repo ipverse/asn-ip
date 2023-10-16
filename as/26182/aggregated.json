@@ -3,7 +3,10 @@
   "handle": "EXCELLUS",
   "description": "Excellus Health Plan, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "204.126.94.0/23",
+      "206.197.236.0/24"
+    ],
     "ipv6": []
   }
 }

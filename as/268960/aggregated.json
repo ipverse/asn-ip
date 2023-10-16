@@ -3,7 +3,11 @@
   "handle": "STARLINE-SERVIOS-INTERNET",
   "description": "STARLINE SERVIOS DE INTERNET - ME",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.176.240.0/22"
+    ],
+    "ipv6": [
+      "2804:5d40::/32"
+    ]
   }
 }

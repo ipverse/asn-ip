@@ -3,7 +3,9 @@
   "handle": "ANYCASTAI-NET",
   "description": "ANYCAST.AI LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "176.116.1.0/24"
+    ],
     "ipv6": []
   }
 }

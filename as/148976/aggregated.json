@@ -3,7 +3,9 @@
   "handle": "HTPL-AP",
   "description": "Newcastle Connect",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.175.34.0/23"
+    ],
     "ipv6": []
   }
 }

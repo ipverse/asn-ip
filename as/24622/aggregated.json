@@ -3,7 +3,9 @@
   "handle": "BT-BOI",
   "description": "BT Communications Ireland Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.120.161.0/24"
+    ],
     "ipv6": []
   }
 }

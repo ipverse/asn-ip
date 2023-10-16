@@ -3,7 +3,9 @@
   "handle": "OK-NET",
   "description": "ISP Alliance a.s.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.74.61.0/24"
+    ],
     "ipv6": []
   }
 }

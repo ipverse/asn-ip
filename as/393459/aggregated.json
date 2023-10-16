@@ -3,7 +3,9 @@
   "handle": "DOMOINC772",
   "description": "Domo, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "50.207.241.0/24"
+    ],
     "ipv6": []
   }
 }

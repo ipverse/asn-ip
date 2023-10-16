@@ -3,7 +3,11 @@
   "handle": "EWHEELERINC-01",
   "description": "Linux Global",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "173.205.220.0/24"
+    ],
+    "ipv6": [
+      "2602:801:2::/48"
+    ]
   }
 }

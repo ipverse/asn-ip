@@ -3,7 +3,9 @@
   "handle": "MEYTEL",
   "description": "Meytel Publicidad S.L.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.46.238.0/24"
+    ],
     "ipv6": []
   }
 }

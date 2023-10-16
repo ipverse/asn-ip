@@ -3,7 +3,9 @@
   "handle": "DAIDO-IT",
   "description": "Daido University",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "202.11.120.0/22"
+    ],
     "ipv6": []
   }
 }

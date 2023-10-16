@@ -3,7 +3,10 @@
   "handle": "SHANGTEL-ID",
   "description": "PT Shangkuriang Telekomunikasi Indonesia",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.109.0.0/24",
+      "103.109.3.0/24"
+    ],
     "ipv6": []
   }
 }

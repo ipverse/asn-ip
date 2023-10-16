@@ -3,7 +3,11 @@
   "handle": "WORLD-SPORTS-BETTING",
   "description": "World Sports Betting Services (Pty) Ltd",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "102.223.251.0/24"
+    ],
+    "ipv6": [
+      "2001:43f8:14c0::/48"
+    ]
   }
 }

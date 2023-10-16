@@ -3,7 +3,9 @@
   "handle": "LORO",
   "description": "Societe de la Loterie de la Suisse Romande",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.195.188.0/23"
+    ],
     "ipv6": []
   }
 }

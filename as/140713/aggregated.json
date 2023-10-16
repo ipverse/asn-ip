@@ -3,7 +3,9 @@
   "handle": "OZMINERALSLTD-AP",
   "description": "OZ MINERALS LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.152.20.0/24"
+    ],
     "ipv6": []
   }
 }

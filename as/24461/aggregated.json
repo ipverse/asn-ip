@@ -3,7 +3,9 @@
   "handle": "POGT-TRANSIT",
   "description": "P\u0026O Global Technologies Sdn Bhd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "203.10.16.0/21"
+    ],
     "ipv6": []
   }
 }

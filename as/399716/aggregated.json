@@ -3,7 +3,9 @@
   "handle": "ISHIP-CORP",
   "description": "ISHIP, INC.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "50.175.10.0/24"
+    ],
     "ipv6": []
   }
 }

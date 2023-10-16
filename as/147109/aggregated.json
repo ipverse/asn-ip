@@ -3,7 +3,9 @@
   "handle": "IDNIC-INTERNETKELUARGA-ID",
   "description": "PT Internet Keluarga Indonesia",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.175.46.0/24"
+    ],
     "ipv6": []
   }
 }

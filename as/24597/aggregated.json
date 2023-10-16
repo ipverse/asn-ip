@@ -3,7 +3,11 @@
   "handle": "ITL",
   "description": "Instytut Lacznosci - Panstwowy Instytut Badawczy",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "193.110.137.0/24"
+    ],
+    "ipv6": [
+      "2001:67c:25ac::/48"
+    ]
   }
 }

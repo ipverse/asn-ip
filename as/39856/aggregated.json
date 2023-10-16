@@ -3,7 +3,9 @@
   "handle": "HUNTERS",
   "description": "Hunters Sp. z o.o.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.228.125.0/24"
+    ],
     "ipv6": []
   }
 }

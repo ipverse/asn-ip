@@ -3,7 +3,10 @@
   "handle": "MCSI",
   "description": "Myers Computer Service, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.66.136.0/24",
+      "199.66.138.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,11 @@
   "handle": "UNIFFM-NET",
   "description": "Johann Wolfgang Goethe-Universitat Frankfurt am Main",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "141.2.0.0/16"
+    ],
+    "ipv6": [
+      "2001:a38::/32"
+    ]
   }
 }

@@ -3,7 +3,10 @@
   "handle": "ASN1",
   "description": "City of Mission Viejo",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "12.9.254.0/24",
+      "64.58.188.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,10 @@
   "handle": "SWU-NET",
   "description": "Seoul Women University",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "220.72.65.0/24",
+      "220.116.191.0/24"
+    ],
     "ipv6": []
   }
 }

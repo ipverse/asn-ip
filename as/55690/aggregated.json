@@ -3,7 +3,9 @@
   "handle": "ANDIRA-ID",
   "description": "PT Andira Infomedia",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "42.62.176.0/22"
+    ],
     "ipv6": []
   }
 }

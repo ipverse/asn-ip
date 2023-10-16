@@ -3,7 +3,9 @@
   "handle": "PANDORATRADE",
   "description": "Pandora Trade LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.206.237.0/24"
+    ],
     "ipv6": [
       "2a10:2840::/29"
     ]

@@ -3,7 +3,9 @@
   "handle": "CHMP",
   "description": "Community Hospital of the Monterey Peninsula",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "204.179.192.0/19"
+    ],
     "ipv6": []
   }
 }

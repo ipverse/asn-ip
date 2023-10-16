@@ -3,7 +3,11 @@
   "handle": "IPERION",
   "description": "ION Bright Group B.V.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "185.121.188.0/24"
+    ],
+    "ipv6": [
+      "2a06:a080::/32"
+    ]
   }
 }

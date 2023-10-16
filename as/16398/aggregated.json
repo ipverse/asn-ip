@@ -3,7 +3,9 @@
   "handle": "SMC-GP",
   "description": "Supermicro Computer",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "12.151.37.0/24"
+    ],
     "ipv6": []
   }
 }

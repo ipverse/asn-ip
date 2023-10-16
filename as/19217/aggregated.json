@@ -3,7 +3,9 @@
   "handle": "IVYTECHSC",
   "description": "IVY Tech Community College of Indiana",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "168.91.0.0/21"
+    ],
     "ipv6": []
   }
 }

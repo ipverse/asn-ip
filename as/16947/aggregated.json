@@ -3,7 +3,9 @@
   "handle": "MIMEOCOMINC",
   "description": "Mimeo.com, INC.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "208.86.228.0/24"
+    ],
     "ipv6": []
   }
 }

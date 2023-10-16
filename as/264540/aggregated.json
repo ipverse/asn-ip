@@ -3,7 +3,9 @@
   "handle": "RG-TECNOLOGIA-TELECOMUNICAES",
   "description": "RG Tecnologia e Telecomunicaes Ltda",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "138.0.76.0/22"
+    ],
     "ipv6": []
   }
 }

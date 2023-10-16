@@ -3,7 +3,9 @@
   "handle": "SARGENTO-0",
   "description": "Sargento Foods, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "67.222.242.0/23"
+    ],
     "ipv6": []
   }
 }

@@ -4,6 +4,8 @@
   "description": "Altel Communications Sdn Bhd",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2400:df80::/32"
+    ]
   }
 }

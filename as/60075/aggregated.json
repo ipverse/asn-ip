@@ -3,7 +3,9 @@
   "handle": "GORODOK-NET",
   "description": "Gorodok Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "31.148.2.0/23"
+    ],
     "ipv6": []
   }
 }

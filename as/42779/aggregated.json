@@ -3,7 +3,9 @@
   "handle": "AZERFON",
   "description": "Azerfon LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "77.244.112.0/20"
+    ],
     "ipv6": []
   }
 }

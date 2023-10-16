@@ -3,7 +3,11 @@
   "handle": "V8-TELECOM",
   "description": "V8 Telecom LTDA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "177.129.240.0/22"
+    ],
+    "ipv6": [
+      "2804:72fc::/32"
+    ]
   }
 }

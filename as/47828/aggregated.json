@@ -3,7 +3,9 @@
   "handle": "VALITOR",
   "description": "Valitor hf",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.199.134.0/24"
+    ],
     "ipv6": []
   }
 }

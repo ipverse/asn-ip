@@ -3,7 +3,9 @@
   "handle": "COOPERATIVA-TELEFNICA-ADELIA",
   "description": "Cooperativa Telefnica de Adelia Mara Ltda",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.234.228.0/22"
+    ],
     "ipv6": []
   }
 }

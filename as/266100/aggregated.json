@@ -3,7 +3,11 @@
   "handle": "UP-LINE-MULTIMIDIA",
   "description": "UP LINE MULTIMIDIA LTDA - ME",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.5.208.0/22"
+    ],
+    "ipv6": [
+      "2804:3aa0::/32"
+    ]
   }
 }

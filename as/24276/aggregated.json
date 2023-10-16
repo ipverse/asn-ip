@@ -3,7 +3,10 @@
   "handle": "ICNET",
   "description": "JCOM Co., Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "114.69.160.0/20",
+      "210.2.192.0/18"
+    ],
     "ipv6": []
   }
 }

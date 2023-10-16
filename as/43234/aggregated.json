@@ -3,7 +3,9 @@
   "handle": "CHIP-TELECOM",
   "description": "Chip-Telecom Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "146.120.113.0/24"
+    ],
     "ipv6": []
   }
 }

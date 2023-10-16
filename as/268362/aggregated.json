@@ -3,7 +3,12 @@
   "handle": "ALANHOUSE-NET-TELECOM",
   "description": "ALANHOUSE NET TELECOM LTDA - ME",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.239.136.0/22",
+      "179.63.18.0/24"
+    ],
+    "ipv6": [
+      "2804:4ffc::/32"
+    ]
   }
 }

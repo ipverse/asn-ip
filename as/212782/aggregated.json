@@ -3,7 +3,11 @@
   "handle": "THREEUK",
   "description": "Pareteum Europe B.V.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "185.222.225.0/24"
+    ],
+    "ipv6": [
+      "2a0a:60c1:2::/48"
+    ]
   }
 }

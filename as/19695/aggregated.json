@@ -3,7 +3,9 @@
   "handle": "BEAVER-VISITEC-INTERNATIONAL",
   "description": "Beaver-Visitec International, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "8.20.161.0/24"
+    ],
     "ipv6": []
   }
 }

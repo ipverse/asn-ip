@@ -3,7 +3,9 @@
   "handle": "PAYLOGIC",
   "description": "See Tickets Holding B.V.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.191.150.0/23"
+    ],
     "ipv6": []
   }
 }

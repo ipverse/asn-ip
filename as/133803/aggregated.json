@@ -3,7 +3,12 @@
   "handle": "IDNIC-PTSTI-ID",
   "description": "PT Semesta Teknologi Informatika",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "103.44.149.0/24",
+      "103.147.30.0/24"
+    ],
+    "ipv6": [
+      "2001:df2:7f80::/48"
+    ]
   }
 }

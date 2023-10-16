@@ -3,7 +3,9 @@
   "handle": "PARKING-SERVIS",
   "description": "JKP Parking servis Beograd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.199.120.0/22"
+    ],
     "ipv6": []
   }
 }

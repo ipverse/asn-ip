@@ -3,7 +3,10 @@
   "handle": "DELTA-IIG-BD",
   "description": "Delta Infocom Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "43.245.232.0/22",
+      "103.31.176.0/23"
+    ],
     "ipv6": []
   }
 }

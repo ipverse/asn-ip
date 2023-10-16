@@ -3,7 +3,9 @@
   "handle": "MICHELS-CORPORATION",
   "description": "Michels Corporation",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "12.155.255.0/24"
+    ],
     "ipv6": []
   }
 }

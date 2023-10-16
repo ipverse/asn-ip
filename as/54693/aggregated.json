@@ -3,7 +3,9 @@
   "handle": "AS24950",
   "description": "AlphaSimplex Group, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.111.48.0/24"
+    ],
     "ipv6": []
   }
 }

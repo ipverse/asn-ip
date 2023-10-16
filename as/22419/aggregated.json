@@ -3,7 +3,10 @@
   "handle": "ACNINC-01",
   "description": "ACN, INC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "70.40.136.0/24",
+      "70.40.190.0/24"
+    ],
     "ipv6": []
   }
 }

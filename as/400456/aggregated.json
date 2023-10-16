@@ -3,7 +3,9 @@
   "handle": "DREAMWIRE",
   "description": "ITDreamwire",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "64.72.192.0/22"
+    ],
     "ipv6": []
   }
 }

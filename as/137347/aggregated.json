@@ -3,7 +3,9 @@
   "handle": "IDNIC-PIPSMG-ID",
   "description": "Politeknik Ilmu Pelayaran Semarang",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.113.214.0/24"
+    ],
     "ipv6": []
   }
 }

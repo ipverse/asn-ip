@@ -3,7 +3,9 @@
   "handle": "MBSAMARA",
   "description": "PJSC Rostelecom",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.251.240.0/22"
+    ],
     "ipv6": []
   }
 }

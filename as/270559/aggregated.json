@@ -3,7 +3,11 @@
   "handle": "XIS-2-INTERNET-FIBRA",
   "description": "XIS 2 INTERNET FIBRA LTDA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "201.216.76.0/22"
+    ],
+    "ipv6": [
+      "2804:6dd8::/32"
+    ]
   }
 }

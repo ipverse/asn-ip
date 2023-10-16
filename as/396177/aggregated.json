@@ -3,7 +3,9 @@
   "handle": "JUMPFIBER",
   "description": "Jump Fiber",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "148.66.36.0/22"
+    ],
     "ipv6": []
   }
 }

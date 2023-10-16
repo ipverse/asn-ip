@@ -3,7 +3,9 @@
   "handle": "3PLAI",
   "description": "3plai LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "165.140.182.0/23"
+    ],
     "ipv6": []
   }
 }

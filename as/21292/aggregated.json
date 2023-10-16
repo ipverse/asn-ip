@@ -3,7 +3,10 @@
   "handle": "NSPK",
   "description": "Joint-stock company National system of payment cards",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.209.134.0/24",
+      "195.209.181.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "REALTV",
   "description": "Real TV GmbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.226.218.0/24"
+    ],
     "ipv6": []
   }
 }

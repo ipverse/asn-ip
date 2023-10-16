@@ -3,7 +3,9 @@
   "handle": "CPSL",
   "description": "The Children\u0027s Place",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.40.44.0/23"
+    ],
     "ipv6": []
   }
 }

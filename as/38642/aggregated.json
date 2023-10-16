@@ -3,7 +3,9 @@
   "handle": "YOSHIZOU",
   "description": "Yoshizou XYZ Solutions",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "113.29.216.0/21"
+    ],
     "ipv6": []
   }
 }

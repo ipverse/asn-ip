@@ -3,7 +3,9 @@
   "handle": "VERDENET-TELECOMUNICAES",
   "description": "VERDENET TELECOMUNICAES LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "177.152.188.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "BMCSAAS-US",
   "description": "BMC Software, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "216.52.6.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "TFCU",
   "description": "Teachers Federal Credit Union",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "65.242.130.0/24"
+    ],
     "ipv6": []
   }
 }

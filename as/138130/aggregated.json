@@ -3,7 +3,10 @@
   "handle": "PHATRIASULUNG-ID",
   "description": "PT PHATRIA INTI PERSADA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.133.24.0/22",
+      "103.178.43.0/24"
+    ],
     "ipv6": []
   }
 }

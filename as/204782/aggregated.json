@@ -3,7 +3,10 @@
   "handle": "MATCOM",
   "description": "MARCIN SEBASTIAN ZIOLEK trading as MATCOM",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "77.242.236.0/22",
+      "185.240.96.0/22"
+    ],
     "ipv6": []
   }
 }

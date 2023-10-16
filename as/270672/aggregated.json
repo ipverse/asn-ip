@@ -3,7 +3,9 @@
   "handle": "MP-INFORMATICA",
   "description": "MP INFORMATICA LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "179.60.128.0/22"
+    ],
     "ipv6": []
   }
 }

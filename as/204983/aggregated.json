@@ -3,7 +3,11 @@
   "handle": "CYBERFUSION",
   "description": "William David Edwards",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "185.233.172.0/22"
+    ],
+    "ipv6": [
+      "2a0c:eb00::/32"
+    ]
   }
 }

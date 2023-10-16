@@ -3,7 +3,12 @@
   "handle": "EU-OSL",
   "description": "Nagravision SA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "89.255.192.0/22"
+    ],
+    "ipv6": [
+      "2a04:5c85:2000::/36",
+      "2a04:5c85:f002::/48"
+    ]
   }
 }

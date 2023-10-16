@@ -3,7 +3,11 @@
   "handle": "SHING-DIGITAL",
   "description": "SHING DIGITAL INC",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "23.173.48.0/24"
+    ],
+    "ipv6": [
+      "2606:23c0::/32"
+    ]
   }
 }

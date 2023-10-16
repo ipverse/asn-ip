@@ -3,7 +3,9 @@
   "handle": "VENTURECLOUD",
   "description": "Benjamin Godderis trading as VentureCloud",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "212.18.114.0/24"
+    ],
     "ipv6": []
   }
 }

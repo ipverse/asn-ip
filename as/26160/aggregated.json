@@ -3,7 +3,10 @@
   "handle": "LCEC-BGPNET-YHWH",
   "description": "LCEC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "76.7.47.0/24",
+      "204.152.90.0/23"
+    ],
     "ipv6": []
   }
 }

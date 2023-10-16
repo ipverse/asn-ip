@@ -3,7 +3,9 @@
   "handle": "NIRA",
   "description": "Nigeria Internet Registration Association",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "41.222.78.0/23"
+    ],
     "ipv6": []
   }
 }

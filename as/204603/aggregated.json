@@ -3,7 +3,9 @@
   "handle": "PARTNER",
   "description": "AEZA GROUP LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.9.74.0/24"
+    ],
     "ipv6": []
   }
 }

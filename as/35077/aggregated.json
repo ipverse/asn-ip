@@ -3,7 +3,10 @@
   "handle": "NETWO",
   "description": "Netwo SAS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.13.32.0/22",
+      "166.108.128.0/19"
+    ],
     "ipv6": []
   }
 }

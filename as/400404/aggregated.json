@@ -3,7 +3,9 @@
   "handle": "SCREMC",
   "description": "STEUBEN COUNTY RURAL ELECTRIC MEMBERSHIP CORPORATION",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "96.45.144.0/20"
+    ],
     "ipv6": []
   }
 }

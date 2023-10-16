@@ -3,7 +3,10 @@
   "handle": "DRLINE",
   "description": "DRLINE Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.244.64.0/22",
+      "195.211.232.0/22"
+    ],
     "ipv6": []
   }
 }

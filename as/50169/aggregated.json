@@ -3,7 +3,12 @@
   "handle": "INVENTOS",
   "description": "LLC Inventos",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "193.232.50.0/24",
+      "194.190.130.0/24"
+    ],
+    "ipv6": [
+      "2001:678:280::/48"
+    ]
   }
 }

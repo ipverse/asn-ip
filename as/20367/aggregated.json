@@ -3,7 +3,9 @@
   "handle": "CITY-OF-STCLOUD-FL",
   "description": "CITY OF ST. CLOUD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "23.158.152.0/24"
+    ],
     "ipv6": []
   }
 }

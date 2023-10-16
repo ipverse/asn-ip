@@ -3,7 +3,9 @@
   "handle": "SP-ECHO-GHANA-LIMITED",
   "description": "SP ECHO GHANA LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "212.85.192.0/19"
+    ],
     "ipv6": []
   }
 }

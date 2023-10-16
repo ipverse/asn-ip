@@ -3,7 +3,9 @@
   "handle": "CASAATCSERVIZI",
   "description": "CASA ATC SERVIZI SRL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "178.249.224.0/21"
+    ],
     "ipv6": []
   }
 }

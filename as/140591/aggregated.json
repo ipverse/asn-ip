@@ -3,7 +3,9 @@
   "handle": "TESUCH-AP",
   "description": "HK TESUCH GLOBAL CO., LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.150.184.0/23"
+    ],
     "ipv6": []
   }
 }

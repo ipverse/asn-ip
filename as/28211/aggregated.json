@@ -3,7 +3,9 @@
   "handle": "BIDOBENS-PARTICIPAES-EMPREENDIMENTOS",
   "description": "Bidobens Participaes e Empreendimentos Ltda",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "189.113.80.0/20"
+    ],
     "ipv6": []
   }
 }

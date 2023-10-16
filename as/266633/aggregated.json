@@ -3,7 +3,11 @@
   "handle": "NOVUMNET-ACESSO-INTERNET",
   "description": "NOVUMNET ACESSO A INTERNET EIRELI",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "128.201.152.0/22"
+    ],
+    "ipv6": [
+      "2804:3efc::/32"
+    ]
   }
 }

@@ -3,7 +3,9 @@
   "handle": "OMANIA",
   "description": "Omania E-Commerce LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "77.83.60.0/22"
+    ],
     "ipv6": []
   }
 }

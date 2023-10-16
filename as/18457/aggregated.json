@@ -3,7 +3,9 @@
   "handle": "E-RESOURCES-LLC",
   "description": "E-Resources, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.101.19.0/24"
+    ],
     "ipv6": []
   }
 }

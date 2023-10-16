@@ -3,7 +3,9 @@
   "handle": "FEMSS",
   "description": "Securitas Electronic Security, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "12.18.244.0/24"
+    ],
     "ipv6": []
   }
 }

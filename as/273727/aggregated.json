@@ -3,7 +3,11 @@
   "handle": "D-P-MELO-SERVICOS",
   "description": "D P DE MELO SERVICOS LTDA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "177.84.53.0/24"
+    ],
+    "ipv6": [
+      "2804:8b58:400::/38"
+    ]
   }
 }

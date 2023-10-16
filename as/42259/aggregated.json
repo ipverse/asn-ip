@@ -3,7 +3,9 @@
   "handle": "BELGORODNET",
   "description": "Marchenko Natalia",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.204.24.0/22"
+    ],
     "ipv6": []
   }
 }

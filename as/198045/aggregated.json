@@ -3,7 +3,9 @@
   "handle": "PROVPU",
   "description": "Provincia di Pesaro e Urbino",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "141.138.80.0/21"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "VICTORIA-COMMERCIAL-BANK-LIMITED",
   "description": "Victoria Commercial Bank Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "102.68.20.0/24"
+    ],
     "ipv6": []
   }
 }

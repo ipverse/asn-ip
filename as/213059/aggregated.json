@@ -3,7 +3,12 @@
   "handle": "MYTHIC-ANYCAST",
   "description": "Mythic Beasts Ltd",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "36.255.148.0/22",
+      "103.209.164.0/22"
+    ],
+    "ipv6": [
+      "2404:5580::/48"
+    ]
   }
 }

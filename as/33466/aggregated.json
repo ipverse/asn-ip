@@ -3,7 +3,9 @@
   "handle": "FLVS",
   "description": "Florida Virtual School",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.26.27.0/24"
+    ],
     "ipv6": []
   }
 }

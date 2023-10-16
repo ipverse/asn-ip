@@ -3,7 +3,9 @@
   "handle": "ZET",
   "description": "INTERKVM HOST SRL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.246.248.0/24"
+    ],
     "ipv6": []
   }
 }

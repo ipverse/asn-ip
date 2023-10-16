@@ -3,7 +3,9 @@
   "handle": "ESI-INFORMATIQUE",
   "description": "E.S.I. Informatique S.P.R.L.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.83.228.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,13 @@
   "handle": "JOISTER-NIRAV",
   "description": "Nirav Infotech",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.124.140.0/22",
+      "103.51.136.0/22",
+      "103.217.131.0/24"
+    ],
+    "ipv6": [
+      "2001:df5:d280::/48"
+    ]
   }
 }

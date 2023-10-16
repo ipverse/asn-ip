@@ -3,7 +3,9 @@
   "handle": "VTB-INSURANCE",
   "description": "Gazprom Insurance Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.33.79.0/24"
+    ],
     "ipv6": []
   }
 }

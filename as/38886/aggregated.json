@@ -3,7 +3,10 @@
   "handle": "GLO-TH-AP",
   "description": "Goverment Lottery Office",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "202.55.140.0/22",
+      "203.80.56.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,11 @@
   "handle": "WAVENET",
   "description": "Wave Net LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.101.16.0/23",
+      "185.101.19.0/24",
+      "185.134.178.0/23"
+    ],
     "ipv6": []
   }
 }

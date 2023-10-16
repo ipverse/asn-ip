@@ -3,7 +3,9 @@
   "handle": "SECURENET-SYSTEMS",
   "description": "Securenet Systems, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "64.234.192.0/19"
+    ],
     "ipv6": []
   }
 }

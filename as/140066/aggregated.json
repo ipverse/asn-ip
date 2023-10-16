@@ -3,7 +3,9 @@
   "handle": "MOEL-AP",
   "description": "MOEL TRADING CO. LTD.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.148.4.0/24"
+    ],
     "ipv6": []
   }
 }

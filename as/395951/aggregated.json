@@ -3,7 +3,9 @@
   "handle": "ZIPDATA",
   "description": "ZIPDATA.NET",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "64.94.62.0/24"
+    ],
     "ipv6": []
   }
 }

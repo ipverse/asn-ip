@@ -3,7 +3,10 @@
   "handle": "MICHIGAN-CENTRAL",
   "description": "Michigan Central Innovation District, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "66.103.244.0/24",
+      "131.239.37.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,11 @@
   "handle": "ESSENTGTY001",
   "description": "ESSENT GUARANTY, INC.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "204.27.210.0/24"
+    ],
+    "ipv6": [
+      "2620:132:5000::/44"
+    ]
   }
 }

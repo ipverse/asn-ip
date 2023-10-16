@@ -3,7 +3,11 @@
   "handle": "RU-NET",
   "description": "University of Ruse Angel Kanchev",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "91.210.88.0/22"
+    ],
+    "ipv6": [
+      "2001:67c:220c::/48"
+    ]
   }
 }

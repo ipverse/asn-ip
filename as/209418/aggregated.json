@@ -3,7 +3,9 @@
   "handle": "KUKUA",
   "description": "Intellitronika srl",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.17.80.0/22"
+    ],
     "ipv6": []
   }
 }

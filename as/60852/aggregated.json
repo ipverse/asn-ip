@@ -3,7 +3,9 @@
   "handle": "ASCOMPSERVICE",
   "description": "Computer Service LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.24.56.0/22"
+    ],
     "ipv6": []
   }
 }

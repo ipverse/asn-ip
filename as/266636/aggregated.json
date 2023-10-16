@@ -3,7 +3,11 @@
   "handle": "REDE-WORKS-TELECOM",
   "description": "REDE WORKS TELECOM",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "128.201.56.0/22"
+    ],
+    "ipv6": [
+      "2804:3f0c::/38"
+    ]
   }
 }

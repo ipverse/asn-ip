@@ -3,7 +3,9 @@
   "handle": "IMEC",
   "description": "IMEC (Interuniversitair Micro-Electronica Centrum) VZW",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "146.103.224.0/19"
+    ],
     "ipv6": []
   }
 }

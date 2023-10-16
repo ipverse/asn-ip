@@ -3,7 +3,9 @@
   "handle": "ORBICOM",
   "description": "Orbicom pty ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "102.222.148.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,13 @@
   "handle": "SOS-INFORMTICA",
   "description": "SOS INFORMTICA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "143.202.116.0/22",
+      "170.150.216.0/22",
+      "177.184.152.0/21"
+    ],
+    "ipv6": [
+      "2804:f78::/32"
+    ]
   }
 }

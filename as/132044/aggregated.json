@@ -3,7 +3,9 @@
   "handle": "AURORA1-AP",
   "description": "Aurora Healthcare Pty Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.69.253.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "SAAB-AU",
   "description": "Saab Australia Pty Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.126.171.0/24"
+    ],
     "ipv6": []
   }
 }

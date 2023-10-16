@@ -3,7 +3,9 @@
   "handle": "IOTX",
   "description": "Pelion IoT Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.100.172.0/22"
+    ],
     "ipv6": []
   }
 }

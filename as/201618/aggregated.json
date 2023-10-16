@@ -3,7 +3,10 @@
   "handle": "IBB",
   "description": "Istanbul Metropolitan Municipality",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.68.221.0/24",
+      "185.68.222.0/23"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,10 @@
   "handle": "SCSD",
   "description": "Superior Court of California, County of San Diego",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "208.71.12.0/22",
+      "216.100.200.0/24"
+    ],
     "ipv6": []
   }
 }

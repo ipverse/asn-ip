@@ -3,7 +3,9 @@
   "handle": "RYERSON-UNIVERSITY",
   "description": "RYERSON UNIVERSITY",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "141.117.0.0/16"
+    ],
     "ipv6": []
   }
 }

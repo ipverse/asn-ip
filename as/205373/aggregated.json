@@ -3,7 +3,11 @@
   "handle": "RIGHTMOVE",
   "description": "Rightmove Group Limited",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "185.220.160.0/22"
+    ],
+    "ipv6": [
+      "2a0b:f940::/32"
+    ]
   }
 }

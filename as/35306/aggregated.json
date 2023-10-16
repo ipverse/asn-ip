@@ -3,7 +3,9 @@
   "handle": "RENE",
   "description": "P.P.H. Rene",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.239.124.0/22"
+    ],
     "ipv6": []
   }
 }

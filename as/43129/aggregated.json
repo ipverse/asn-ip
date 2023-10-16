@@ -3,7 +3,11 @@
   "handle": "SMILEINVESTAS",
   "description": "Smileinvest LTD",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "185.190.248.0/24"
+    ],
+    "ipv6": [
+      "2a0a:11c0::/29"
+    ]
   }
 }

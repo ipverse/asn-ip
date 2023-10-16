@@ -3,7 +3,9 @@
   "handle": "DIGITALPAYTECH",
   "description": "Digital Payment Technologies Corp.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.201.222.0/24"
+    ],
     "ipv6": []
   }
 }

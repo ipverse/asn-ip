@@ -3,7 +3,10 @@
   "handle": "APEIRONGLOBAL",
   "description": "APEIRON GLOBAL Pvt. Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "92.119.156.0/24",
+      "92.119.158.0/24"
+    ],
     "ipv6": []
   }
 }

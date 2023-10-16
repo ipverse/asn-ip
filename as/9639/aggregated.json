@@ -3,7 +3,11 @@
   "handle": "WIDERPLANET",
   "description": "Wider Planet",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "103.105.156.0/22"
+    ],
+    "ipv6": [
+      "2402:bcc0::/32"
+    ]
   }
 }

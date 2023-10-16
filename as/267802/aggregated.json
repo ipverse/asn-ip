@@ -3,7 +3,10 @@
   "handle": "BLACK-NET",
   "description": "Black Net S.R.L",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.50.61.0/24",
+      "45.173.40.0/24"
+    ],
     "ipv6": []
   }
 }

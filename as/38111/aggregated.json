@@ -3,7 +3,9 @@
   "handle": "HANACLOUD",
   "description": "HANA TI",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "183.109.29.0/24"
+    ],
     "ipv6": []
   }
 }

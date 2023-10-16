@@ -3,7 +3,9 @@
   "handle": "QUANTACT",
   "description": "Quantact Hosting Solutions, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "162.208.124.0/22"
+    ],
     "ipv6": []
   }
 }

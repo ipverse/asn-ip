@@ -3,7 +3,9 @@
   "handle": "ICCAST",
   "description": "3 Fuxing Road, Beijing, China",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "210.14.112.0/20"
+    ],
     "ipv6": []
   }
 }

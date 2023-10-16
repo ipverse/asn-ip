@@ -3,7 +3,9 @@
   "handle": "FUNDACIN-UNIVERSIDAD-EMPRESARIAL",
   "description": "Fundacin Universidad Empresarial Siglo 21",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "179.0.25.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,11 @@
   "handle": "SHRIRAM",
   "description": "Shriram Value Services Limited",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "103.86.4.0/22"
+    ],
+    "ipv6": [
+      "2001:df5:3d00::/48"
+    ]
   }
 }

@@ -3,7 +3,9 @@
   "handle": "JRFJ-USE",
   "description": "Unlimited Systems Engineering",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "172.84.144.0/24"
+    ],
     "ipv6": []
   }
 }

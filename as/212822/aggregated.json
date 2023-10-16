@@ -3,7 +3,10 @@
   "handle": "EUROAPOTHECA",
   "description": "UAB EUROAPOTHECA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.95.34.0/24",
+      "185.216.210.0/24"
+    ],
     "ipv6": []
   }
 }

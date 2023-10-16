@@ -3,7 +3,11 @@
   "handle": "E-R-V",
   "description": "E R V SERVICOS E TELECOMUNICACOES EIRELI-ME",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "189.51.32.0/22"
+    ],
+    "ipv6": [
+      "2804:7064::/32"
+    ]
   }
 }

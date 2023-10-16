@@ -3,7 +3,9 @@
   "handle": "WESTROSTA",
   "description": "JSC ROSTA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "81.3.145.0/24"
+    ],
     "ipv6": []
   }
 }

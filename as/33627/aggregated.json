@@ -3,7 +3,9 @@
   "handle": "VISTEON",
   "description": "VISTEON CORPORATION",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "74.112.164.0/22"
+    ],
     "ipv6": []
   }
 }

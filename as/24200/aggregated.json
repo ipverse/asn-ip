@@ -3,7 +3,9 @@
   "handle": "CAKRAMEDIA-ID",
   "description": "PT. Cakramedia Indocyber",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "202.133.0.0/21"
+    ],
     "ipv6": []
   }
 }

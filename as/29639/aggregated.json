@@ -3,7 +3,11 @@
   "handle": "EUROCENTER",
   "description": "Eurocenter Games Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.5.30.0/23",
+      "194.5.37.0/24",
+      "194.5.38.0/24"
+    ],
     "ipv6": []
   }
 }

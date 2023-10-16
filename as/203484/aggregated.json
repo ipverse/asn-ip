@@ -3,7 +3,9 @@
   "handle": "ROAD-INFRASTRUCTURE-AGENCY",
   "description": "ROAD INFRASTRUCTURE AGENCY",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "62.73.114.0/24"
+    ],
     "ipv6": []
   }
 }

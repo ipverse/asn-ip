@@ -3,7 +3,9 @@
   "handle": "OL-DP-UA",
   "description": "Generalov Evgeny Yurievich",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "31.148.245.0/24"
+    ],
     "ipv6": []
   }
 }

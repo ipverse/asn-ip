@@ -3,7 +3,9 @@
   "handle": "NORTHERNCOMMS-AS1",
   "description": "NORTHERN COMMUNICATIONS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.107.224.0/23"
+    ],
     "ipv6": []
   }
 }

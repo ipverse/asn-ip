@@ -3,7 +3,11 @@
   "handle": "INVISTA-NET-TELECOM",
   "description": "Invista Net Telecom Ltda",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "131.196.136.0/22"
+    ],
+    "ipv6": [
+      "2804:4008::/32"
+    ]
   }
 }

@@ -3,7 +3,9 @@
   "handle": "NIMBUS",
   "description": "Cloud Master LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.206.32.0/22"
+    ],
     "ipv6": []
   }
 }

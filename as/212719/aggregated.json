@@ -3,7 +3,9 @@
   "handle": "LANDA",
   "description": "Landa Corporation Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "94.188.250.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "EMSP",
   "description": "FLOW SOLUTIONS AS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.49.4.0/22"
+    ],
     "ipv6": []
   }
 }

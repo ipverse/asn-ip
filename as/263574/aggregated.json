@@ -3,7 +3,12 @@
   "handle": "ETECC-FIBRA-OPTICA",
   "description": "ETECC FIBRA OPTICA TELECOM LTDA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "138.94.84.0/22",
+      "177.185.40.0/21"
+    ],
+    "ipv6": [
+      "2804:f44::/32"
+    ]
   }
 }

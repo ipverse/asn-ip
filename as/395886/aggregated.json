@@ -4,6 +4,8 @@
   "description": "KURUN CLOUD INC",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2602:fce1::/48"
+    ]
   }
 }

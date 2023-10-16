@@ -3,7 +3,9 @@
   "handle": "DPS-01",
   "description": "Diamond Pharmacy Services",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "147.160.171.0/24"
+    ],
     "ipv6": []
   }
 }

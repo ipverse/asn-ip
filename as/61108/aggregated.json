@@ -3,7 +3,11 @@
   "handle": "ITANDTEL-CLOUD",
   "description": "eww ag",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "88.218.52.0/22",
+      "178.238.0.0/22",
+      "185.226.40.0/22"
+    ],
     "ipv6": []
   }
 }

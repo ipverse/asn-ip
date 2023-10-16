@@ -3,7 +3,9 @@
   "handle": "PSI-NY-1",
   "description": "Amherst Pierpont Securities",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "8.41.208.0/24"
+    ],
     "ipv6": []
   }
 }

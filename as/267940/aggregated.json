@@ -3,7 +3,9 @@
   "handle": "OLHAR-DIGITAL-TECNOLOGIA",
   "description": "Olhar Digital Tecnologia Ltda",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.165.216.0/22"
+    ],
     "ipv6": []
   }
 }

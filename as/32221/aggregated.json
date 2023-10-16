@@ -3,7 +3,10 @@
   "handle": "BARONSERVICES",
   "description": "Baron Services",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "74.51.117.0/24",
+      "195.85.51.0/24"
+    ],
     "ipv6": []
   }
 }

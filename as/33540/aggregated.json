@@ -3,7 +3,10 @@
   "handle": "ALZHEI",
   "description": "Alzheimers Assoc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.71.197.0/24",
+      "38.98.153.0/24"
+    ],
     "ipv6": []
   }
 }

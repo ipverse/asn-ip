@@ -3,7 +3,9 @@
   "handle": "ANADARKO",
   "description": "Occidental Petroleum Corporation",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "144.94.0.0/20"
+    ],
     "ipv6": []
   }
 }

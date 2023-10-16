@@ -3,7 +3,9 @@
   "handle": "PODOL-INTELECT-SYSTEM",
   "description": "PP Podilsky Intelectualni sistemy",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "31.42.160.0/20"
+    ],
     "ipv6": []
   }
 }

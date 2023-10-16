@@ -3,7 +3,9 @@
   "handle": "ILOTH",
   "description": "ILOTH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "89.234.152.0/24"
+    ],
     "ipv6": []
   }
 }

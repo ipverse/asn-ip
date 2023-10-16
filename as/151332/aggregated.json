@@ -3,7 +3,12 @@
   "handle": "COINJARPTYLTD-AP",
   "description": "CoinJar Pty Ltd",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "103.179.37.0/24"
+    ],
+    "ipv6": [
+      "2001:df0:45c1::/48",
+      "2001:df0:45c2::/48"
+    ]
   }
 }

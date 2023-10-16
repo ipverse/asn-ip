@@ -3,7 +3,9 @@
   "handle": "ELECTRONICS-BOX",
   "description": "Electronics Box Magierski, Majewski, Magierski spolka jawna",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.198.161.0/24"
+    ],
     "ipv6": []
   }
 }

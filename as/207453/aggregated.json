@@ -3,7 +3,9 @@
   "handle": "AURIGASPA",
   "description": "Auriga SpA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "94.231.207.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "SOUZA-FRANCA",
   "description": "SOUZA E FRANCA LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.183.148.0/22"
+    ],
     "ipv6": []
   }
 }

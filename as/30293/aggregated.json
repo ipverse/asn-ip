@@ -3,7 +3,9 @@
   "handle": "SOUTHCO",
   "description": "Southco, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "65.118.37.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "NBS-72",
   "description": "Network Business Systems, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "198.100.48.0/20"
+    ],
     "ipv6": []
   }
 }

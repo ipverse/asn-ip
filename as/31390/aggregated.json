@@ -3,7 +3,9 @@
   "handle": "BRAVENETLB",
   "description": "M Nets SAL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.100.216.0/22"
+    ],
     "ipv6": []
   }
 }

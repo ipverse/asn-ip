@@ -3,7 +3,9 @@
   "handle": "TENTIME",
   "description": "Ten Time Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.10.200.0/22"
+    ],
     "ipv6": []
   }
 }

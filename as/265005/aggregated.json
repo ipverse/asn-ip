@@ -3,7 +3,9 @@
   "handle": "IPWORKS-SISTEMAS",
   "description": "IPWORKS SISTEMAS LTDA ME",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "170.84.200.0/22"
+    ],
     "ipv6": []
   }
 }

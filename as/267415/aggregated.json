@@ -3,7 +3,11 @@
   "handle": "BRASILIANET-PROVEDOR-INTERNET",
   "description": "BRASILIANET PROVEDOR DE INTERNET LTDA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.234.28.0/22"
+    ],
+    "ipv6": [
+      "2804:4d28::/32"
+    ]
   }
 }

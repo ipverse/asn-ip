@@ -3,7 +3,9 @@
   "handle": "TECHNOKAD",
   "description": "TechnoKad Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "95.47.97.0/24"
+    ],
     "ipv6": []
   }
 }

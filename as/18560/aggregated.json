@@ -3,7 +3,9 @@
   "handle": "LSCO1",
   "description": "Lamar State College - Orange",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.66.232.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "AUSRL-AP",
   "description": "Scott\u0027s Refrigerated Freightways PTY LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.107.43.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "TECC",
   "description": "Ternopil Municipal Public Organization Ternopil Education Communication Center",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.104.213.0/24"
+    ],
     "ipv6": []
   }
 }

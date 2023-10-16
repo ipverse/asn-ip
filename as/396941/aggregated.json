@@ -3,7 +3,11 @@
   "handle": "DRI-RSC",
   "description": "DARDEN CORPORATION",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "65.196.165.0/24"
+    ],
+    "ipv6": [
+      "2600:804:440::/48"
+    ]
   }
 }

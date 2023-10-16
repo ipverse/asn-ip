@@ -3,7 +3,12 @@
   "handle": "VEXNET-TELECON-INFORMTICA",
   "description": "VEXNET TELECON INFORMTICA LTDA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "170.78.244.0/22",
+      "191.36.184.0/21"
+    ],
+    "ipv6": [
+      "2804:1494::/32"
+    ]
   }
 }

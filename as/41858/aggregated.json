@@ -3,7 +3,11 @@
   "handle": "MARILUC",
   "description": "MARILUC COM SRL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "89.40.148.0/22",
+      "185.21.92.0/22",
+      "193.34.182.0/23"
+    ],
     "ipv6": []
   }
 }

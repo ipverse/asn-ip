@@ -3,7 +3,9 @@
   "handle": "BIAPI",
   "description": "Regional Commerce Centre Ugavia OJSC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.231.136.0/24"
+    ],
     "ipv6": []
   }
 }

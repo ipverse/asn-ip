@@ -3,7 +3,9 @@
   "handle": "CNBN1-AP",
   "description": "Central Net Broadband Network",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.166.166.0/23"
+    ],
     "ipv6": []
   }
 }

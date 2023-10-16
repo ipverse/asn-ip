@@ -3,7 +3,9 @@
   "handle": "CONNET",
   "description": "Connectel AB",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.32.8.0/22"
+    ],
     "ipv6": []
   }
 }

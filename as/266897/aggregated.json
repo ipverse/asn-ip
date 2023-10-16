@@ -3,7 +3,9 @@
   "handle": "COOP-PROV-OBRAS",
   "description": "COOP . DE PROV . OBRAS Y SERV . PUBL. LTDA. DE ARMSTRONG",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.161.172.0/22"
+    ],
     "ipv6": []
   }
 }

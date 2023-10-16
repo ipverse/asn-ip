@@ -3,7 +3,9 @@
   "handle": "NDBH",
   "description": "New Directions Behavioral Health, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "8.33.31.0/24"
+    ],
     "ipv6": []
   }
 }

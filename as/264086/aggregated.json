@@ -3,7 +3,11 @@
   "handle": "CS-TAVARES",
   "description": "C.S TAVARES-ME",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "143.208.24.0/22"
+    ],
+    "ipv6": [
+      "2804:2aa4::/32"
+    ]
   }
 }

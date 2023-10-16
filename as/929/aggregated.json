@@ -3,7 +3,9 @@
   "handle": "KIRINO",
   "description": "KIRINO LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "207.167.80.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "PAULO-CESAR-CARDOZO-MATA",
   "description": "Paulo Cesar Cardozo da Mata ME",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "168.205.236.0/23"
+    ],
     "ipv6": [
       "2804:2ecc::/32"
     ]

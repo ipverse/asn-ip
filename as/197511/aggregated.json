@@ -3,7 +3,9 @@
   "handle": "TELESISTEMI",
   "description": "Telesistemi, d.o.o.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.20.142.0/24"
+    ],
     "ipv6": []
   }
 }

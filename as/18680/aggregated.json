@@ -3,7 +3,11 @@
   "handle": "AKAMAI",
   "description": "Akamai Technologies, Inc.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "23.48.175.0/24"
+    ],
+    "ipv6": [
+      "2a02:26f0:880::/48"
+    ]
   }
 }

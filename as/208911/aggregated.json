@@ -3,7 +3,11 @@
   "handle": "ALSYCON-BV",
   "description": "Alsycon B.V.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "109.122.56.0/21"
+    ],
+    "ipv6": [
+      "2a11:8280::/29"
+    ]
   }
 }

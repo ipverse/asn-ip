@@ -3,7 +3,9 @@
   "handle": "LEXXICO",
   "description": "SIA Lexico Telecom LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.219.39.0/24"
+    ],
     "ipv6": []
   }
 }

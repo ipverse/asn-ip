@@ -3,7 +3,9 @@
   "handle": "SIMPLICITYTECH-NET01",
   "description": "Simplicity Tech",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "170.39.101.0/24"
+    ],
     "ipv6": []
   }
 }

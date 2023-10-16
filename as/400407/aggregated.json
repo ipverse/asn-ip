@@ -3,7 +3,9 @@
   "handle": "TRONOX-LLC",
   "description": "TRONOX LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.89.225.0/24"
+    ],
     "ipv6": []
   }
 }

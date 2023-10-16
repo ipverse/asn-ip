@@ -3,7 +3,9 @@
   "handle": "DT-DDS",
   "description": "Dealertrack, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "74.200.125.0/24"
+    ],
     "ipv6": []
   }
 }

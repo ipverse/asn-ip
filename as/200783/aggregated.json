@@ -3,7 +3,9 @@
   "handle": "OFI-AM",
   "description": "OFI ASSET MANAGEMENT S.A.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.96.104.0/22"
+    ],
     "ipv6": []
   }
 }

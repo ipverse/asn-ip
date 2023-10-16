@@ -3,7 +3,9 @@
   "handle": "BW-1",
   "description": "Bates White LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.134.35.0/24"
+    ],
     "ipv6": []
   }
 }

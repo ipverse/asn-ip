@@ -3,7 +3,9 @@
   "handle": "WORLD-CONNECTION",
   "description": "WORLD CONNECTION",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.187.48.0/22"
+    ],
     "ipv6": []
   }
 }

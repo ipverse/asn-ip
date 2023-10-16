@@ -3,7 +3,9 @@
   "handle": "TGNA-WQAD",
   "description": "TEGNA Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "167.8.118.0/24"
+    ],
     "ipv6": []
   }
 }

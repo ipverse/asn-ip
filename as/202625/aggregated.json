@@ -3,7 +3,11 @@
   "handle": "SOFTTECH",
   "description": "Softtech Automatisering B.V.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "185.158.196.0/22"
+    ],
+    "ipv6": [
+      "2a07:af00::/29"
+    ]
   }
 }

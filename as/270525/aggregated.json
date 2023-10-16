@@ -3,7 +3,11 @@
   "handle": "PONTO-PONTO-TELECOMUNICAOES",
   "description": "Ponto a Ponto Telecomunicaoes",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "24.152.124.0/22"
+    ],
+    "ipv6": [
+      "2804:6d54::/32"
+    ]
   }
 }

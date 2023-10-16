@@ -3,7 +3,9 @@
   "handle": "SWBNO-01",
   "description": "Sewerage and Water Board of New Orleans",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "204.124.160.0/22"
+    ],
     "ipv6": []
   }
 }

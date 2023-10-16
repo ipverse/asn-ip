@@ -4,6 +4,8 @@
   "description": "Julius Birkhofen",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a05:dfc7:b201::/48"
+    ]
   }
 }

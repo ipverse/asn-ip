@@ -3,7 +3,10 @@
   "handle": "ASNAVICON",
   "description": "UK Navikon LLC.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.212.158.0/24",
+      "195.209.138.0/24"
+    ],
     "ipv6": []
   }
 }

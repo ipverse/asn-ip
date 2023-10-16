@@ -3,7 +3,12 @@
   "handle": "CELESIO-AG",
   "description": "McKesson Europe AG",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.37.84.0/24",
+      "194.37.86.0/24",
+      "206.203.75.0/24",
+      "206.203.76.0/24"
+    ],
     "ipv6": []
   }
 }

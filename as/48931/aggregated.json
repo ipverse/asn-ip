@@ -3,7 +3,10 @@
   "handle": "RO-3X",
   "description": "3X Media International SRL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "80.96.99.0/24",
+      "89.42.38.0/23"
+    ],
     "ipv6": []
   }
 }

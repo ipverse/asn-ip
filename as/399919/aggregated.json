@@ -3,7 +3,9 @@
   "handle": "ALOMERE-HEALTH",
   "description": "Alomere Health",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.52.255.0/24"
+    ],
     "ipv6": []
   }
 }

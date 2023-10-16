@@ -3,7 +3,9 @@
   "handle": "ARNECOM",
   "description": "Arnecom, S.A. de C.V.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "201.131.112.0/24"
+    ],
     "ipv6": []
   }
 }

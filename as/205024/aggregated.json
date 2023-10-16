@@ -3,7 +3,9 @@
   "handle": "THESOURCINGCOMPANY",
   "description": "The Sourcing Company B.V.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.232.72.0/22"
+    ],
     "ipv6": []
   }
 }

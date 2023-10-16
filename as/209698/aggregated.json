@@ -3,7 +3,9 @@
   "handle": "VSUT",
   "description": "Federal State Budgetary Educational Institution of Higher Education Volga State University of Technology",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "85.143.16.0/24"
+    ],
     "ipv6": []
   }
 }

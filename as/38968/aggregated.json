@@ -3,7 +3,9 @@
   "handle": "TAGORG",
   "description": "Trademark Agencies Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "89.28.216.0/21"
+    ],
     "ipv6": []
   }
 }

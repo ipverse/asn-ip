@@ -3,7 +3,11 @@
   "handle": "SPEED-LINK-AP",
   "description": "M/S Speed Link",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "103.86.192.0/22"
+    ],
+    "ipv6": [
+      "2400:c640::/36"
+    ]
   }
 }

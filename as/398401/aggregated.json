@@ -3,7 +3,9 @@
   "handle": "CRONUS",
   "description": "CRONUS COMMUNICATIONS, L.L.C.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "149.19.110.0/24"
+    ],
     "ipv6": []
   }
 }

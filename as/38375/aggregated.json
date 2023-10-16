@@ -3,7 +3,9 @@
   "handle": "GSGH",
   "description": "GSGH security LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "119.42.136.0/21"
+    ],
     "ipv6": []
   }
 }

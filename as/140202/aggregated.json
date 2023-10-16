@@ -3,7 +3,9 @@
   "handle": "FICCL",
   "description": "Fullerton India Credit Co. Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.155.188.0/23"
+    ],
     "ipv6": []
   }
 }

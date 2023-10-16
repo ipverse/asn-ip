@@ -3,7 +3,9 @@
   "handle": "BPDDIY-ID",
   "description": "Bank Pembangunan Daerah DIY",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.23.175.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,10 @@
   "handle": "M2NET",
   "description": "McCann Worldgroup Canada Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "204.225.60.0/23",
+      "204.225.63.0/24"
+    ],
     "ipv6": []
   }
 }

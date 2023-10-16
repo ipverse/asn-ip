@@ -3,7 +3,9 @@
   "handle": "VERIFONE-EMEA-UKT",
   "description": "VeriFone Systems France SAS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "178.21.209.0/24"
+    ],
     "ipv6": []
   }
 }

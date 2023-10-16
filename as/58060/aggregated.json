@@ -3,7 +3,10 @@
   "handle": "SYS-S",
   "description": "System Solutions Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "95.46.78.0/23",
+      "195.19.19.0/24"
+    ],
     "ipv6": []
   }
 }

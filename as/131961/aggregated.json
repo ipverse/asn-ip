@@ -3,7 +3,9 @@
   "handle": "DOKKYO",
   "description": "Dokkyo University",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "202.252.104.0/22"
+    ],
     "ipv6": []
   }
 }

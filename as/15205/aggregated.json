@@ -3,7 +3,9 @@
   "handle": "NCPDAS",
   "description": "Nassau County Police Department",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "204.114.0.0/21"
+    ],
     "ipv6": []
   }
 }

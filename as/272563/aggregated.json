@@ -3,7 +3,11 @@
   "handle": "Z-D-INFORMATICA",
   "description": "Z \u0026 D INFORMATICA LTDA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "190.115.96.0/22"
+    ],
+    "ipv6": [
+      "2804:8530::/32"
+    ]
   }
 }

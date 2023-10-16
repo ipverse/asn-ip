@@ -3,7 +3,9 @@
   "handle": "ITURAN",
   "description": "Ituran Location and Control Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "147.234.81.0/24"
+    ],
     "ipv6": []
   }
 }

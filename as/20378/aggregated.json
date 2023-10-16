@@ -3,7 +3,9 @@
   "handle": "LAVAL",
   "description": "Alimentation Couche-Tard, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.121.34.0/24"
+    ],
     "ipv6": []
   }
 }

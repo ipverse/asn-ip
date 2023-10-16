@@ -3,7 +3,9 @@
   "handle": "WOOW-HK",
   "description": "Woow",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.246.77.0/24"
+    ],
     "ipv6": []
   }
 }

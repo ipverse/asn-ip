@@ -3,7 +3,10 @@
   "handle": "AVELINO-RODRIGUES",
   "description": "Avelino e Rodrigues LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "187.109.116.0/22",
+      "187.109.120.0/22"
+    ],
     "ipv6": []
   }
 }

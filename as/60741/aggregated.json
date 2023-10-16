@@ -3,7 +3,9 @@
   "handle": "EFIR",
   "description": "EFIR II sp Z OO",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "88.151.118.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "AFFINITY-IN-AP",
   "description": "Affinity Express",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "203.190.220.0/24"
+    ],
     "ipv6": []
   }
 }

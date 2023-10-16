@@ -3,7 +3,9 @@
   "handle": "PLATINUM-BROADBAND",
   "description": "Platinum Broadband",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "102.221.168.0/22"
+    ],
     "ipv6": []
   }
 }

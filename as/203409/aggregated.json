@@ -3,7 +3,10 @@
   "handle": "GIGANET-IQ",
   "description": "Nawafeth Al-hadhara for Internet and Information Systems Co.,Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.128.37.0/24",
+      "185.217.61.0/24"
+    ],
     "ipv6": []
   }
 }

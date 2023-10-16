@@ -3,7 +3,11 @@
   "handle": "LAYERSHIFT-NETWORKS",
   "description": "Layershift Limited",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "104.219.72.0/23"
+    ],
+    "ipv6": [
+      "2a0d:da06::/32"
+    ]
   }
 }

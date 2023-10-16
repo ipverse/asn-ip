@@ -3,7 +3,9 @@
   "handle": "GOBIERNO-SANTA-FE",
   "description": "Gobierno de Santa Fe",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "200.12.192.0/24"
+    ],
     "ipv6": []
   }
 }

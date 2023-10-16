@@ -3,7 +3,9 @@
   "handle": "RISD",
   "description": "Richardson Independent School District",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "165.199.0.0/16"
+    ],
     "ipv6": []
   }
 }

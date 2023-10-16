@@ -3,7 +3,9 @@
   "handle": "NATIVA-NETWORK",
   "description": "NATIVA NETWORK LTDA - ME",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "143.202.232.0/22"
+    ],
     "ipv6": []
   }
 }

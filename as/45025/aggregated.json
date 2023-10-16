@@ -3,7 +3,9 @@
   "handle": "EDN",
   "description": "Online Technologies LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "151.0.0.0/19"
+    ],
     "ipv6": []
   }
 }

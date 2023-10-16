@@ -3,7 +3,9 @@
   "handle": "PROZORRO",
   "description": "State Enterprise PROZORRO",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.178.157.0/24"
+    ],
     "ipv6": []
   }
 }

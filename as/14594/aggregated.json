@@ -3,7 +3,9 @@
   "handle": "PAYMENT-ALLIANCE-INTERNATIONAL",
   "description": "Payment Alliance International, Inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "216.26.158.0/24"
+    ],
     "ipv6": []
   }
 }

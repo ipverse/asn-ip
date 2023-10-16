@@ -3,7 +3,9 @@
   "handle": "FIDESSA-AU-AP",
   "description": "Fidessa ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.247.136.0/23"
+    ],
     "ipv6": []
   }
 }

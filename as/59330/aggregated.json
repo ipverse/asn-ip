@@ -3,7 +3,9 @@
   "handle": "RRHAPPL-AP",
   "description": "R \u0026 R Holdings Asia Pacific Pty Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.252.246.0/24"
+    ],
     "ipv6": []
   }
 }

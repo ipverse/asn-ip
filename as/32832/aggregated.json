@@ -3,7 +3,9 @@
   "handle": "ESDESIGN-COM",
   "description": "Environmental Systems Design, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "52.144.30.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "OSG-SHIP-MANAGMENT-INC",
   "description": "OSG Ship Management, Inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "208.69.60.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "A1DOTNET-AP",
   "description": "A-1 Dot Net",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.112.169.0/24"
+    ],
     "ipv6": []
   }
 }

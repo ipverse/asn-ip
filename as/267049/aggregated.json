@@ -3,7 +3,9 @@
   "handle": "IP-EDUCACIONAL",
   "description": "Ip Educacional Ltda",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.227.6.0/23"
+    ],
     "ipv6": []
   }
 }

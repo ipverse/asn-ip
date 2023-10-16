@@ -3,7 +3,11 @@
   "handle": "INFO-HOUSE-INFORMTICA",
   "description": "Info House Informtica e Papeis Ltda",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "177.10.124.0/22"
+    ],
+    "ipv6": [
+      "2804:83f4::/32"
+    ]
   }
 }

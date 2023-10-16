@@ -3,7 +3,9 @@
   "handle": "MOINET-AP",
   "description": "Ministry of Interior",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.28.100.0/22"
+    ],
     "ipv6": []
   }
 }

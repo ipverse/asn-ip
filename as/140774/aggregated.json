@@ -3,7 +3,9 @@
   "handle": "UCCORP-VN",
   "description": "VIET NAM UNIFIED COMMUNICATIONS CORPORATION",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.161.120.0/23"
+    ],
     "ipv6": []
   }
 }

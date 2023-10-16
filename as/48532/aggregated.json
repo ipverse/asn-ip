@@ -3,7 +3,9 @@
   "handle": "TELEPORTSPB",
   "description": "JSC ER-Telecom Holding",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "94.247.240.0/21"
+    ],
     "ipv6": []
   }
 }

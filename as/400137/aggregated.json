@@ -3,7 +3,10 @@
   "handle": "COZYCLOUD",
   "description": "CozyCloud IT",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.79.130.0/23",
+      "216.146.4.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "LTDNBNET",
   "description": "Enbinet Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "62.3.30.0/24"
+    ],
     "ipv6": []
   }
 }

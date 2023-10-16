@@ -3,7 +3,9 @@
   "handle": "REALNOT",
   "description": "ADSN Association declaree",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "84.246.216.0/21"
+    ],
     "ipv6": []
   }
 }

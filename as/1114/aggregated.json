@@ -3,7 +3,9 @@
   "handle": "UNIVERSITAET-GRAZ",
   "description": "Universitaet Graz",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "143.50.0.0/16"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "DIRECCION-NACIONAL-CONTRATACIONES",
   "description": "Direccion Nacional de Contrataciones Publicas",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "200.115.17.0/24"
+    ],
     "ipv6": []
   }
 }

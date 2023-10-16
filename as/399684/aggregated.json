@@ -3,7 +3,9 @@
   "handle": "OVA-SUMMIT",
   "description": "SL Green Realty Corp",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "65.51.231.0/24"
+    ],
     "ipv6": []
   }
 }

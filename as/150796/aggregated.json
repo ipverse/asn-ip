@@ -3,7 +3,11 @@
   "handle": "DGBBANKPLC-AP",
   "description": "DGB BANK PLC.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "103.210.210.0/24"
+    ],
+    "ipv6": [
+      "2001:df2:1540::/48"
+    ]
   }
 }

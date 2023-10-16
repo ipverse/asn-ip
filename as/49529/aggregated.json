@@ -3,7 +3,10 @@
   "handle": "DUPLEX",
   "description": "Duplex tel LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.213.31.0/24",
+      "185.74.100.0/22"
+    ],
     "ipv6": []
   }
 }

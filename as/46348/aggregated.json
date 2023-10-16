@@ -3,7 +3,9 @@
   "handle": "FOSTER-ASN01",
   "description": "Foster Poultry Farms",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "65.118.121.0/24"
+    ],
     "ipv6": []
   }
 }

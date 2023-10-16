@@ -3,7 +3,9 @@
   "handle": "BEELINE",
   "description": "Beeline Broadband Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.207.140.0/22"
+    ],
     "ipv6": []
   }
 }

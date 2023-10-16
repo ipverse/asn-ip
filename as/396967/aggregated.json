@@ -3,7 +3,9 @@
   "handle": "TOWNSHIP-OF-WOODBRIDGE",
   "description": "Township of Woodbridge",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "50.238.68.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "FACTSET",
   "description": "FactSet Research Systems, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.234.235.0/24"
+    ],
     "ipv6": []
   }
 }

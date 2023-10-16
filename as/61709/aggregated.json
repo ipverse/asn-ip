@@ -3,7 +3,11 @@
   "handle": "DMS-TELECOMUNICAES",
   "description": "Dms Telecomunicaes Ltda",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "131.0.228.0/22"
+    ],
+    "ipv6": [
+      "2804:1b1c::/32"
+    ]
   }
 }

@@ -3,7 +3,9 @@
   "handle": "A1BG",
   "description": "A1 Bulgaria EAD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "151.251.64.0/23"
+    ],
     "ipv6": []
   }
 }

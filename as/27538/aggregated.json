@@ -4,6 +4,8 @@
   "description": "Chevron Corporation",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2620:13f:3018::/48"
+    ]
   }
 }

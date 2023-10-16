@@ -3,7 +3,9 @@
   "handle": "EAGLE-AP",
   "description": "Eagle Technology Group Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "202.36.45.0/24"
+    ],
     "ipv6": []
   }
 }

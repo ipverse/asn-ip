@@ -3,7 +3,11 @@
   "handle": "N-G-TECNOLOGIA",
   "description": "N\u0026G Tecnologia LTDA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "177.128.72.0/21"
+    ],
+    "ipv6": [
+      "2804:3f00::/32"
+    ]
   }
 }

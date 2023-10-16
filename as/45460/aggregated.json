@@ -3,7 +3,9 @@
   "handle": "CORRS-AU",
   "description": "Corrs Support Services Pty Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "202.158.241.0/24"
+    ],
     "ipv6": []
   }
 }

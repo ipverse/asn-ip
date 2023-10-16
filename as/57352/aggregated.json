@@ -3,7 +3,9 @@
   "handle": "ROSSIYA-SEGODNYA",
   "description": "Federal State Unitary Enterprise Rossiya Segodnya International Information Agency",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.190.139.0/24"
+    ],
     "ipv6": []
   }
 }

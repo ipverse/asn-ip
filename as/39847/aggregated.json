@@ -3,7 +3,11 @@
   "handle": "CAP-CONNEXION",
   "description": "C@P CONNEXION",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "89.185.160.0/19",
+      "178.18.176.0/20",
+      "185.150.120.0/22"
+    ],
     "ipv6": []
   }
 }

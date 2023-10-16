@@ -3,7 +3,9 @@
   "handle": "USTCONLINE",
   "description": "Union Springs Telephone Company",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "104.244.144.0/21"
+    ],
     "ipv6": []
   }
 }

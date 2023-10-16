@@ -3,7 +3,9 @@
   "handle": "TECNO-WIFI",
   "description": "TECNO WIFI SRL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "179.49.232.0/22"
+    ],
     "ipv6": []
   }
 }

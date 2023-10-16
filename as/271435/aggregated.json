@@ -3,7 +3,9 @@
   "handle": "GK2-CLOUD-EIRELI",
   "description": "GK2 CLOUD EIRELI",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "170.247.60.0/22"
+    ],
     "ipv6": []
   }
 }

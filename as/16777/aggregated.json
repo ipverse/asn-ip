@@ -3,7 +3,10 @@
   "handle": "NET-PROVPHP",
   "description": "Providence Health Plan",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "63.64.75.0/24",
+      "170.220.56.0/24"
+    ],
     "ipv6": []
   }
 }

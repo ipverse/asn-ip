@@ -3,7 +3,9 @@
   "handle": "ZB-NATIONAL-ASSOCIATION",
   "description": "ZB, National Association",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "209.20.96.0/19"
+    ],
     "ipv6": []
   }
 }

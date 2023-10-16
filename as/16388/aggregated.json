@@ -3,7 +3,9 @@
   "handle": "PTI",
   "description": "Protronics Technologies, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "208.64.48.0/21"
+    ],
     "ipv6": []
   }
 }

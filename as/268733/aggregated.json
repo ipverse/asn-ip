@@ -3,7 +3,9 @@
   "handle": "MAETINGANET-INFORMTICA-TELECOMUNICAES",
   "description": "MaetingaNET Informtica e Telecomunicaes",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.171.240.0/22"
+    ],
     "ipv6": [
       "2804:59e8::/36"
     ]

@@ -3,7 +3,10 @@
   "handle": "ARSENET",
   "description": "ARSENET SERVICIOS EN INTERNET S.L.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "5.199.231.0/24",
+      "185.119.248.0/22"
+    ],
     "ipv6": []
   }
 }

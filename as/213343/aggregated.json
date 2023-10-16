@@ -4,6 +4,8 @@
   "description": "Florent Bautista",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2001:678:d18::/48"
+    ]
   }
 }

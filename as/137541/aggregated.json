@@ -3,7 +3,9 @@
   "handle": "ROYALNET-AP",
   "description": "Royalnet",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.112.148.0/22"
+    ],
     "ipv6": []
   }
 }

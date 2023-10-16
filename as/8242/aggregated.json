@@ -3,7 +3,9 @@
   "handle": "INTELWAY",
   "description": "Apex Telecom Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "31.42.32.0/20"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "FAL-AP",
   "description": "Foodland Associated Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "202.61.4.0/22"
+    ],
     "ipv6": []
   }
 }

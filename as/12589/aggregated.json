@@ -3,7 +3,9 @@
   "handle": "POSTA-HU",
   "description": "Magyar Posta Zrt",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.88.45.0/24"
+    ],
     "ipv6": []
   }
 }

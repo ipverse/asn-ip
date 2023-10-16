@@ -3,7 +3,11 @@
   "handle": "IX-NETWORK-ULTRA",
   "description": "IX-NETWORK ULTRA LTDA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "192.145.220.0/22"
+    ],
+    "ipv6": [
+      "2804:7948::/32"
+    ]
   }
 }

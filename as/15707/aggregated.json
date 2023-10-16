@@ -3,7 +3,10 @@
   "handle": "INGOSSTRAKH",
   "description": "Open Joint Stock Company INGOSSTRAKH Insurance Company",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.228.250.0/24",
+      "195.245.206.0/24"
+    ],
     "ipv6": []
   }
 }

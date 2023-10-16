@@ -3,7 +3,9 @@
   "handle": "SENTINEL",
   "description": "Limited liability company Sentinel Credit Management",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.242.173.0/24"
+    ],
     "ipv6": []
   }
 }

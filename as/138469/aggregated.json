@@ -3,7 +3,9 @@
   "handle": "VGCCC-AP",
   "description": "Victorian Gambling and Casino Control Commission",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.126.25.0/24"
+    ],
     "ipv6": []
   }
 }

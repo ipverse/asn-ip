@@ -3,7 +3,9 @@
   "handle": "KANDYKSF",
   "description": "Skyvera LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "31.25.112.0/24"
+    ],
     "ipv6": []
   }
 }

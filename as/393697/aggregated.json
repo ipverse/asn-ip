@@ -3,7 +3,10 @@
   "handle": "HUBUSILEGVDCSUB",
   "description": "Hub International",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "64.14.237.0/24",
+      "206.152.22.0/24"
+    ],
     "ipv6": []
   }
 }

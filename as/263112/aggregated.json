@@ -3,7 +3,11 @@
   "handle": "NETDRP-SERVIOS-INTERNET",
   "description": "NETDRP SERVIOS DE INTERNET LTDA.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "177.184.212.0/22"
+    ],
+    "ipv6": [
+      "2804:16fc::/32"
+    ]
   }
 }

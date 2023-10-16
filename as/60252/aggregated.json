@@ -3,7 +3,9 @@
   "handle": "OST-LLC",
   "description": "OBIT Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.33.196.0/22"
+    ],
     "ipv6": []
   }
 }

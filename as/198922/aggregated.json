@@ -3,7 +3,9 @@
   "handle": "TUWSKOK",
   "description": "SALTUS TOWARZYSTWO UBEZPIECZEN WZAJEMNYCH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.242.152.0/24"
+    ],
     "ipv6": []
   }
 }

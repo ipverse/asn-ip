@@ -3,7 +3,9 @@
   "handle": "AIAK",
   "description": "American International Assurance Company Korea",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.90.244.0/23"
+    ],
     "ipv6": []
   }
 }

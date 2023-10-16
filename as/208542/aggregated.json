@@ -3,7 +3,9 @@
   "handle": "MANNAI-TRADING-CO-25730",
   "description": "Mannai Trading Company LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.228.176.0/24"
+    ],
     "ipv6": []
   }
 }

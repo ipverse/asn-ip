@@ -3,7 +3,10 @@
   "handle": "SOUTHCOAST-HEALTH-01",
   "description": "Southcoast Health System, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "50.170.19.0/24",
+      "50.170.20.0/24"
+    ],
     "ipv6": []
   }
 }

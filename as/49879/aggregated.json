@@ -3,7 +3,11 @@
   "handle": "HOSTHANE",
   "description": "ISIK Bilgisayar Internet ve Yayincilik Hizmetleri",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.21.204.0/22",
+      "185.141.109.0/24",
+      "217.116.192.0/20"
+    ],
     "ipv6": []
   }
 }

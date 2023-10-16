@@ -3,7 +3,9 @@
   "handle": "KIAINDIAPVTLTD-AP",
   "description": "Kia India Private Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.135.107.0/24"
+    ],
     "ipv6": []
   }
 }

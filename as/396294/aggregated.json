@@ -3,7 +3,9 @@
   "handle": "CTS1",
   "description": "Converging Technology Solutions Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "168.245.157.0/24"
+    ],
     "ipv6": []
   }
 }

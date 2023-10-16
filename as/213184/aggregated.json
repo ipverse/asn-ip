@@ -3,7 +3,9 @@
   "handle": "TELYO",
   "description": "Telyo SAS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.201.106.0/24"
+    ],
     "ipv6": []
   }
 }

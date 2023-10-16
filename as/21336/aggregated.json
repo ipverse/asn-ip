@@ -3,7 +3,10 @@
   "handle": "INFORENT",
   "description": "INFORENT GmbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "80.243.192.0/20",
+      "212.27.128.0/19"
+    ],
     "ipv6": []
   }
 }

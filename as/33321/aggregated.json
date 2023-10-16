@@ -3,7 +3,10 @@
   "handle": "ZAYO",
   "description": "Zayo Bandwidth",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "128.177.93.0/24",
+      "209.124.160.0/20"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,12 @@
   "handle": "CYSO-DE",
   "description": "Cyso Group B.V.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "194.26.103.0/24",
+      "213.173.39.0/24"
+    ],
+    "ipv6": [
+      "2a11:2440::/32"
+    ]
   }
 }

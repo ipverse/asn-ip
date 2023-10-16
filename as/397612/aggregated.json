@@ -3,7 +3,9 @@
   "handle": "ANX",
   "description": "ARCHITECTURAL NEXUS, INC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "50.226.252.0/24"
+    ],
     "ipv6": []
   }
 }

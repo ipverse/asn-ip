@@ -3,7 +3,10 @@
   "handle": "GICL-AP",
   "description": "Gainlot International Co. Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.60.252.0/22",
+      "203.57.34.0/23"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "EMPIRIX",
   "description": "EMPIRIX Inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "208.67.76.0/24"
+    ],
     "ipv6": []
   }
 }

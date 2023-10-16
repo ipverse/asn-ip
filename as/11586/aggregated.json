@@ -3,7 +3,9 @@
   "handle": "JOHNSON-OUTDOORS",
   "description": "Johnson Outdoors, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.71.70.0/24"
+    ],
     "ipv6": []
   }
 }

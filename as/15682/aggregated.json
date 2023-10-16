@@ -3,7 +3,12 @@
   "handle": "ITERANET",
   "description": "ITERANET LLC",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "185.84.244.0/22",
+      "212.74.224.0/19"
+    ],
+    "ipv6": [
+      "2a01:5f40::/32"
+    ]
   }
 }

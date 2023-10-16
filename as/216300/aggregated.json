@@ -3,7 +3,9 @@
   "handle": "ABKHAZMEDIA",
   "description": "Closed Joint Stock Company AbkhazMedia",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "217.196.97.0/24"
+    ],
     "ipv6": []
   }
 }

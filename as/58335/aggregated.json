@@ -3,7 +3,9 @@
   "handle": "ESLUPSK",
   "description": "Urzad Miejski w Slupsku",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.242.215.0/24"
+    ],
     "ipv6": []
   }
 }

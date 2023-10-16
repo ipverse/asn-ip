@@ -3,7 +3,10 @@
   "handle": "EUROFINS-US",
   "description": "Eurofins NSC, INC.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "65.199.211.0/24",
+      "172.87.228.0/23"
+    ],
     "ipv6": []
   }
 }

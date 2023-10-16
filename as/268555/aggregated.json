@@ -3,7 +3,9 @@
   "handle": "CABONNET-INTERNET",
   "description": "CABONNET INTERNET LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.163.96.0/22"
+    ],
     "ipv6": []
   }
 }

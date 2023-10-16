@@ -3,7 +3,9 @@
   "handle": "TELSTRA-AP",
   "description": "Telstra Corporation Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.29.229.0/24"
+    ],
     "ipv6": []
   }
 }

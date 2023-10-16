@@ -3,7 +3,9 @@
   "handle": "ASI",
   "description": "ADVERTISING SPECIALTY INSTITUTE, INC.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "63.175.140.0/23"
+    ],
     "ipv6": []
   }
 }

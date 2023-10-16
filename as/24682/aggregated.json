@@ -3,7 +3,9 @@
   "handle": "KSF",
   "description": "KSF Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "212.40.47.0/24"
+    ],
     "ipv6": []
   }
 }

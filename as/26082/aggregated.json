@@ -3,7 +3,12 @@
   "handle": "POWERSHIFT-PLAINFIELD-VT",
   "description": "Power Shift Computer Services, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "216.57.114.0/23",
+      "216.57.116.0/22",
+      "216.57.122.0/23",
+      "216.57.124.0/22"
+    ],
     "ipv6": []
   }
 }

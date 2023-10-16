@@ -3,7 +3,11 @@
   "handle": "67-TELECOMUNICACOES",
   "description": "67 TELECOMUNICACOES",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.187.124.0/22"
+    ],
+    "ipv6": [
+      "2804:6540::/32"
+    ]
   }
 }

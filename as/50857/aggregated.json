@@ -3,7 +3,10 @@
   "handle": "MACTELECOM",
   "description": "MAC Telecom S.A.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "80.91.144.0/20",
+      "217.64.240.0/20"
+    ],
     "ipv6": []
   }
 }

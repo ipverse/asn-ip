@@ -3,7 +3,9 @@
   "handle": "TECHMEDIA",
   "description": "TECH-MEDIA ISP sp. z o.o.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.192.0.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,10 @@
   "handle": "VACATION-EXPRESS",
   "description": "VACATION EXPRESS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "64.201.62.0/24",
+      "208.81.255.0/24"
+    ],
     "ipv6": []
   }
 }

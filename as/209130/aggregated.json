@@ -3,7 +3,9 @@
   "handle": "MSAT-INZENJERING",
   "description": "MSAT Inzenjering DOO",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "5.252.236.0/22"
+    ],
     "ipv6": []
   }
 }

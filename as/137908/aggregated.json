@@ -4,6 +4,8 @@
   "description": "10VPN HOSTING",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2602:fd60:ff0::/48"
+    ]
   }
 }

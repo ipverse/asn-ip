@@ -3,7 +3,10 @@
   "handle": "AFRICELL-DRC",
   "description": "STE AFRICELL RDC SPRL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.221.4.0/22",
+      "154.73.20.0/22"
+    ],
     "ipv6": []
   }
 }

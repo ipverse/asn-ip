@@ -3,7 +3,9 @@
   "handle": "VSCU-1",
   "description": "Valley Strong Credit Union",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "198.101.26.0/24"
+    ],
     "ipv6": []
   }
 }

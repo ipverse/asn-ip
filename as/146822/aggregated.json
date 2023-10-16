@@ -3,7 +3,9 @@
   "handle": "CHINANET-XINFU",
   "description": "Shenzhenshi Zhongyun Shujujishu Youxiangongsi",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.181.234.0/24"
+    ],
     "ipv6": []
   }
 }

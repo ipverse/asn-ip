@@ -3,7 +3,9 @@
   "handle": "NETDOOR",
   "description": "Internet Doorway, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "206.41.224.0/19"
+    ],
     "ipv6": []
   }
 }

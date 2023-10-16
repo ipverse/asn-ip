@@ -3,7 +3,9 @@
   "handle": "EVICERTIA",
   "description": "EVICERTIA S.L",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "94.103.116.0/22"
+    ],
     "ipv6": []
   }
 }

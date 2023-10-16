@@ -3,7 +3,12 @@
   "handle": "UW",
   "description": "University of Warsaw",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "193.0.64.0/18",
+      "212.87.0.0/20"
+    ],
+    "ipv6": [
+      "2001:6a0:4000::/34"
+    ]
   }
 }

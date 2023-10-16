@@ -3,7 +3,9 @@
   "handle": "SOCIEDAD-GAMACON-LIMITADA",
   "description": "SOCIEDAD GAMACON LIMITADA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.160.188.0/22"
+    ],
     "ipv6": []
   }
 }

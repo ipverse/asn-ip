@@ -3,7 +3,11 @@
   "handle": "G-M-B-PIMENTEL",
   "description": "G M B PIMENTEL ME",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.181.144.0/22"
+    ],
+    "ipv6": [
+      "2804:60b4::/32"
+    ]
   }
 }

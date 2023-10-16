@@ -3,7 +3,9 @@
   "handle": "APNETCOM",
   "description": "Ap Netcom Services",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.102.68.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "LABESTEVE",
   "description": "LABORATORIOS DEL DOCTOR ESTEVE SA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.25.192.0/24"
+    ],
     "ipv6": []
   }
 }

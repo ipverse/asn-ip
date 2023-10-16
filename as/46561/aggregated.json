@@ -3,7 +3,10 @@
   "handle": "STEELSCAPE",
   "description": "STEELSCAPE, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.190.228.0/23",
+      "199.190.230.0/24"
+    ],
     "ipv6": []
   }
 }

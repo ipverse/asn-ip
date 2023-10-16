@@ -3,7 +3,9 @@
   "handle": "POLFIN",
   "description": "Centrum Przetwarzania Danych Ministerstwa Finansow",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "145.237.0.0/16"
+    ],
     "ipv6": []
   }
 }

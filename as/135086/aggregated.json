@@ -3,7 +3,10 @@
   "handle": "AXISBANKLIMITED-AP",
   "description": "Axis Bank Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "36.255.28.0/22",
+      "103.208.248.0/22"
+    ],
     "ipv6": []
   }
 }

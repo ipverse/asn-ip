@@ -3,7 +3,9 @@
   "handle": "MTE",
   "description": "MIDDLE TENNESSEE ELECTRIC MEMBERSHIP CORPORATION (THE)",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "172.110.160.0/23"
+    ],
     "ipv6": []
   }
 }

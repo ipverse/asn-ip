@@ -3,7 +3,9 @@
   "handle": "NTC-ASIA-AP",
   "description": "NTC Asia Limited.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "154.18.210.0/24"
+    ],
     "ipv6": []
   }
 }

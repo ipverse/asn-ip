@@ -3,7 +3,9 @@
   "handle": "VNPOST-VN",
   "description": "VIETNAM POST",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.196.16.0/22"
+    ],
     "ipv6": []
   }
 }

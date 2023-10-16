@@ -3,7 +3,9 @@
   "handle": "SICILIANET",
   "description": "Salvatore Intravaia",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.147.116.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "ROMANDE-ENERGIE",
   "description": "Romande Energie SA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.124.254.0/24"
+    ],
     "ipv6": []
   }
 }

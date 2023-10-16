@@ -3,7 +3,9 @@
   "handle": "ROSTRANSMODERNIZATSIYA",
   "description": "FTI ROSTRANSMODERNIZATSIYA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "88.210.30.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "MEEZANBANKLIMITED-AP",
   "description": "Meezan Bank Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.157.214.0/23"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "SMNA-PUBLIC",
   "description": "Swedish Match",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "12.20.155.0/24"
+    ],
     "ipv6": []
   }
 }

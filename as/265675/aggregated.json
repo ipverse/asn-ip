@@ -3,7 +3,9 @@
   "handle": "ARTEC-TELECOMUNICACIONES-LIMITADA",
   "description": "ARTEC TELECOMUNICACIONES LIMITADA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "143.255.104.0/22"
+    ],
     "ipv6": []
   }
 }

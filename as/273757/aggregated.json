@@ -4,6 +4,9 @@
   "description": "NEW TELECOM TELECOMUNICACOES",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2804:8bc4:2000::/35",
+      "2804:8bc4:a000::/35"
+    ]
   }
 }

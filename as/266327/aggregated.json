@@ -3,7 +3,9 @@
   "handle": "NCS-FIBRA",
   "description": "NCS-Fibra ( New Central Solutions )",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "170.238.160.0/22"
+    ],
     "ipv6": []
   }
 }

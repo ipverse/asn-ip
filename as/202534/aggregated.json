@@ -3,7 +3,9 @@
   "handle": "TRADINGPOINTNIC",
   "description": "Trading Point of Financials Instruments Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "62.228.239.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "SEESIP-1",
   "description": "Seesip Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "67.218.15.0/24"
+    ],
     "ipv6": []
   }
 }

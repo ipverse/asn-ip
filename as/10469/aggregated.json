@@ -3,7 +3,9 @@
   "handle": "RFGNET",
   "description": "The Ridgefield Group, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "209.240.30.0/23"
+    ],
     "ipv6": []
   }
 }

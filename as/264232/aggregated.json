@@ -3,7 +3,9 @@
   "handle": "RCA-COMPANY-TELECOMUNICAES",
   "description": "RCA COMPANY DE TELECOMUNICAES DE PARANAVA LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "138.117.92.0/22"
+    ],
     "ipv6": []
   }
 }

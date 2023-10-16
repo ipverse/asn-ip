@@ -3,7 +3,11 @@
   "handle": "TOPNET-TELECOM-SERVIOS",
   "description": "Topnet Telecom Servios LTDA ME",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "168.194.24.0/22"
+    ],
+    "ipv6": [
+      "2804:3358::/32"
+    ]
   }
 }

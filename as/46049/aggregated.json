@@ -3,7 +3,11 @@
   "handle": "UNDIP-ID",
   "description": "Universitas Diponegoro",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "182.255.0.0/22",
+      "182.255.4.0/23",
+      "182.255.7.0/24"
+    ],
     "ipv6": []
   }
 }

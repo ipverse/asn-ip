@@ -3,7 +3,9 @@
   "handle": "ESCUELA-AGRICOLA-PANEMERICANA",
   "description": "Escuela Agricola Panemericana Inc. (Zamorano)",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "200.10.153.0/24"
+    ],
     "ipv6": []
   }
 }

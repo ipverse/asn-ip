@@ -3,7 +3,9 @@
   "handle": "KANTA",
   "description": "Kanta Enterprises Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.223.88.0/22"
+    ],
     "ipv6": []
   }
 }

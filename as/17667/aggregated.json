@@ -3,7 +3,9 @@
   "handle": "ISEEK",
   "description": "Iseek Communications Pty Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "110.238.0.0/23"
+    ],
     "ipv6": []
   }
 }

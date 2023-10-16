@@ -3,7 +3,9 @@
   "handle": "TAI-GEORGETOWN",
   "description": "Toyota Tsusho America, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "205.166.255.0/24"
+    ],
     "ipv6": []
   }
 }

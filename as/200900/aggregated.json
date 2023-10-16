@@ -3,7 +3,9 @@
   "handle": "GRANITBANK",
   "description": "Granit Bank Zrt.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.184.27.0/24"
+    ],
     "ipv6": []
   }
 }

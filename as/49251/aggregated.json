@@ -3,7 +3,12 @@
   "handle": "ULRICEHAMNS",
   "description": "Ulricehamns Energi AB",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "81.200.160.0/20"
+    ],
+    "ipv6": [
+      "2001:678:ac::/48",
+      "2a03:90a0::/32"
+    ]
   }
 }

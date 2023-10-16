@@ -3,7 +3,9 @@
   "handle": "LTUNET",
   "description": "Lulea Tekniska Universitet",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "130.240.0.0/16"
+    ],
     "ipv6": []
   }
 }

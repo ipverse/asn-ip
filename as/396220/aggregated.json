@@ -3,7 +3,9 @@
   "handle": "SNOPUD",
   "description": "Public Utility District No. 1 of Snohomish County",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "139.138.102.0/23"
+    ],
     "ipv6": []
   }
 }

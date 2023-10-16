@@ -3,7 +3,9 @@
   "handle": "DIAS",
   "description": "DIAS SA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.30.224.0/24"
+    ],
     "ipv6": []
   }
 }

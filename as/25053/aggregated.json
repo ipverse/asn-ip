@@ -3,7 +3,9 @@
   "handle": "EA",
   "description": "Generali Versicherung AG",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.48.84.0/22"
+    ],
     "ipv6": []
   }
 }

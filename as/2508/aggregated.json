@@ -3,7 +3,9 @@
   "handle": "KYUSHU-U",
   "description": "Kyushu University",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "133.5.0.0/16"
+    ],
     "ipv6": []
   }
 }

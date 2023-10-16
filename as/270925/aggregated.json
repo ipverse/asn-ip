@@ -3,7 +3,9 @@
   "handle": "FIBRAMAR-TELECOMUNICAES",
   "description": "Fibramar Telecomunicaes Ltda",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "186.26.83.0/24"
+    ],
     "ipv6": []
   }
 }

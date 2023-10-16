@@ -3,7 +3,9 @@
   "handle": "TEXNOPOLIS",
   "description": "Technopolis SA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.47.208.0/24"
+    ],
     "ipv6": []
   }
 }

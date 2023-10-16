@@ -3,7 +3,11 @@
   "handle": "TELUS",
   "description": "Telus Comunicaciones S.L.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "149.126.8.0/22",
+      "185.54.0.0/22",
+      "185.216.56.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,11 @@
   "handle": "ITSUPGBV",
   "description": "hallo, Nederland B.V.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "185.62.208.0/22"
+    ],
+    "ipv6": [
+      "2a03:120::/32"
+    ]
   }
 }

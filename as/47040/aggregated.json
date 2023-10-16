@@ -3,7 +3,9 @@
   "handle": "DELTAPRODUCTS",
   "description": "Delta Products Corporation",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "8.17.225.0/24"
+    ],
     "ipv6": []
   }
 }

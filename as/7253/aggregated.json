@@ -3,7 +3,11 @@
   "handle": "MAINSTAY-COMMUNICATIONS",
   "description": "Mainstay Communications",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "96.46.96.0/21"
+    ],
+    "ipv6": [
+      "2606:ac40::/32"
+    ]
   }
 }

@@ -3,7 +3,9 @@
   "handle": "AU-SYD-MARLINK-MSS",
   "description": "MARLINK AU-SYD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "182.50.188.0/22"
+    ],
     "ipv6": []
   }
 }

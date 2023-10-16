@@ -3,7 +3,11 @@
   "handle": "IGN",
   "description": "IGN Entertainment",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "69.10.17.0/24",
+      "69.10.19.0/24",
+      "69.10.20.0/23"
+    ],
     "ipv6": []
   }
 }

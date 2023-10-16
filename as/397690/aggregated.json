@@ -3,7 +3,9 @@
   "handle": "USTX04",
   "description": "1A Smart Start LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "8.31.199.0/24"
+    ],
     "ipv6": []
   }
 }

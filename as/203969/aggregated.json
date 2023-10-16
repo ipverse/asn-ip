@@ -3,7 +3,9 @@
   "handle": "YMC",
   "description": "YMC AG",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.110.152.0/22"
+    ],
     "ipv6": []
   }
 }

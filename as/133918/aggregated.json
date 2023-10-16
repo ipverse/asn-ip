@@ -3,7 +3,9 @@
   "handle": "SDCSB-AP",
   "description": "Suria Data Centre Sdn. Bhd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.47.252.0/22"
+    ],
     "ipv6": []
   }
 }

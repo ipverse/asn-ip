@@ -3,7 +3,9 @@
   "handle": "MEDASYS",
   "description": "MEDAFRICA SYSTEMS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "196.61.232.0/21"
+    ],
     "ipv6": []
   }
 }

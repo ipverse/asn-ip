@@ -3,7 +3,9 @@
   "handle": "INTERLESTE-INTERNET",
   "description": "Interleste Internet LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "128.201.68.0/22"
+    ],
     "ipv6": []
   }
 }

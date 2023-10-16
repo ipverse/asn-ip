@@ -3,7 +3,9 @@
   "handle": "SNU",
   "description": "Seoul National University",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "147.46.0.0/15"
+    ],
     "ipv6": []
   }
 }

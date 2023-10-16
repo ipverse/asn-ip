@@ -3,7 +3,9 @@
   "handle": "INTERCOLO",
   "description": "Invermae Solutions SL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.197.216.0/22"
+    ],
     "ipv6": []
   }
 }

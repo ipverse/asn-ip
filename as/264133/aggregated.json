@@ -3,7 +3,9 @@
   "handle": "TX-WEB-TELECOM",
   "description": "TX WEB TELECOM LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "138.59.192.0/22"
+    ],
     "ipv6": [
       "2804:22f0::/32"
     ]

@@ -3,7 +3,9 @@
   "handle": "IC-CC",
   "description": "PJSC Insurance company UNIQA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.227.115.0/24"
+    ],
     "ipv6": []
   }
 }

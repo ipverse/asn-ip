@@ -3,7 +3,9 @@
   "handle": "LUPE",
   "description": "Orron Energy SA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.215.120.0/22"
+    ],
     "ipv6": []
   }
 }

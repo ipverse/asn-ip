@@ -3,7 +3,10 @@
   "handle": "CASTROLANDA-COOPERATIVA-AGROINDUSTRIAL",
   "description": "CASTROLANDA - COOPERATIVA AGROINDUSTRIAL LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "138.59.254.0/23",
+      "177.91.38.0/24"
+    ],
     "ipv6": []
   }
 }

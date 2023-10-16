@@ -3,7 +3,9 @@
   "handle": "IDNIC-RESTUMEDIA-ID",
   "description": "CV Restu Media",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.184.128.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "NJ",
   "description": "Morningstar, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "206.220.17.0/24"
+    ],
     "ipv6": []
   }
 }

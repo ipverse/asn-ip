@@ -3,7 +3,9 @@
   "handle": "CNS-AP",
   "description": "COMPUTER \u0026 NETWORK SOLUTIONS LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.254.228.0/24"
+    ],
     "ipv6": []
   }
 }

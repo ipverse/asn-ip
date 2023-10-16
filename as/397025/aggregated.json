@@ -3,7 +3,9 @@
   "handle": "BIS-BOMBARDIER-INFORMATION-SOLUTIONS",
   "description": "Bombardier Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "160.223.180.0/23"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,10 @@
   "handle": "LEANLOGISTICS",
   "description": "BluJay Solutions Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "74.120.100.0/23",
+      "213.170.196.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "ABSOLUTINS",
   "description": "Absolute Insurance ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.225.27.0/24"
+    ],
     "ipv6": []
   }
 }

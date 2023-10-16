@@ -3,7 +3,9 @@
   "handle": "REED-ELSEVIER-IND-APAC-AP",
   "description": "Elsevier Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "145.36.140.0/23"
+    ],
     "ipv6": []
   }
 }

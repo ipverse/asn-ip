@@ -3,7 +3,9 @@
   "handle": "DEZNET-TELECOM",
   "description": "Deznet Telecom Ltda.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "177.128.0.0/21"
+    ],
     "ipv6": []
   }
 }

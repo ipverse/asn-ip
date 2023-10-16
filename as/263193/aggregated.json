@@ -3,7 +3,9 @@
   "handle": "INVESTMENT-LL-CONTACT",
   "description": "INVESTMENT LL CONTACT CENTER S.A DE CV",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "179.0.31.0/24"
+    ],
     "ipv6": []
   }
 }

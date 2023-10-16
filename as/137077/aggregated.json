@@ -3,7 +3,9 @@
   "handle": "VUMOBILELIMITED-AP",
   "description": "VU Mobile Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.100.244.0/24"
+    ],
     "ipv6": []
   }
 }

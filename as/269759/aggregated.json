@@ -3,7 +3,9 @@
   "handle": "BELLA-VISTA-SAT",
   "description": "BELLA VISTA SAT S.A.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.183.52.0/22"
+    ],
     "ipv6": []
   }
 }

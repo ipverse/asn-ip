@@ -3,7 +3,9 @@
   "handle": "RSIL-IN",
   "description": "R Systems International Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "203.34.117.0/24"
+    ],
     "ipv6": []
   }
 }

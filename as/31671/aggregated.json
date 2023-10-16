@@ -3,7 +3,9 @@
   "handle": "INNOWERK-IT-NET",
   "description": "Innowerk-IT GmbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.150.240.0/23"
+    ],
     "ipv6": []
   }
 }

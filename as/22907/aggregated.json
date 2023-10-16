@@ -3,7 +3,10 @@
   "handle": "CONDUENT-BUSINESS-SERVICES",
   "description": "Conduent Business Services, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "138.69.174.0/23",
+      "138.69.176.0/24"
+    ],
     "ipv6": []
   }
 }

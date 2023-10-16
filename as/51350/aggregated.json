@@ -3,7 +3,11 @@
   "handle": "TECHNIKUM-WIEN",
   "description": "Fachhochschule Technikum Wien",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "195.245.225.0/24"
+    ],
+    "ipv6": [
+      "2001:67c:1790::/48"
+    ]
   }
 }

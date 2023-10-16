@@ -3,7 +3,9 @@
   "handle": "IBERIABANKLFY",
   "description": "IBERIABANK CORPORATION",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "198.54.244.0/23"
+    ],
     "ipv6": []
   }
 }

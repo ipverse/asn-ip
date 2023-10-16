@@ -3,7 +3,9 @@
   "handle": "COGNI-IN",
   "description": "Cogniscient Business Solutions Pvt Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.209.135.0/24"
+    ],
     "ipv6": []
   }
 }

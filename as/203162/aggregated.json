@@ -3,7 +3,9 @@
   "handle": "CHARISMA",
   "description": "Charisma Financial Information Processing PJSC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "146.19.104.0/24"
+    ],
     "ipv6": []
   }
 }

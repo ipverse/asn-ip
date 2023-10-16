@@ -3,7 +3,10 @@
   "handle": "INFOTECH",
   "description": "INFO TECH, INC.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "204.124.16.0/23",
+      "204.124.18.0/24"
+    ],
     "ipv6": []
   }
 }

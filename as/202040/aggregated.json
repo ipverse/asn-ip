@@ -3,7 +3,12 @@
   "handle": "SCT",
   "description": "SCT Schiele GmbH",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "185.54.76.0/22",
+      "193.141.27.0/24"
+    ],
+    "ipv6": [
+      "2a04:d140::/29"
+    ]
   }
 }

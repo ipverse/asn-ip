@@ -3,7 +3,9 @@
   "handle": "ISP",
   "description": "Modern store group LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.215.5.0/24"
+    ],
     "ipv6": []
   }
 }

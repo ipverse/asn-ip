@@ -3,7 +3,12 @@
   "handle": "MARIA-LUCIANA-MACHADO",
   "description": "MARIA LUCIANA MACHADO E CIA LTDA-ME",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "177.52.24.0/21"
+    ],
+    "ipv6": [
+      "2804:a6c::/34",
+      "2804:a6c:4000::/36"
+    ]
   }
 }

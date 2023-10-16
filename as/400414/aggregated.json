@@ -3,7 +3,10 @@
   "handle": "ROAMR-COMMUNICATIONS",
   "description": "ROAMR Communications Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "23.140.152.0/24",
+      "64.135.13.0/24"
+    ],
     "ipv6": []
   }
 }

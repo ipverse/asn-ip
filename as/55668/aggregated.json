@@ -3,7 +3,9 @@
   "handle": "JABARTELNET-ID",
   "description": "PT Jabar Telematika",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "49.236.216.0/22"
+    ],
     "ipv6": []
   }
 }

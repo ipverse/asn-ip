@@ -3,7 +3,9 @@
   "handle": "DAMIAN-ID",
   "description": "PT Dapur Remaja Multi Sarana",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.157.24.0/24"
+    ],
     "ipv6": []
   }
 }

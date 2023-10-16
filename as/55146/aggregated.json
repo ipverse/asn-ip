@@ -3,7 +3,9 @@
   "handle": "BGWAT",
   "description": "NUCOR BUILDING SYSTEMS SALES CORPORATION",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "198.17.255.0/24"
+    ],
     "ipv6": []
   }
 }

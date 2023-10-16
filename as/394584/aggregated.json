@@ -3,7 +3,9 @@
   "handle": "MX-1",
   "description": "MX Technologies Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "74.80.159.0/24"
+    ],
     "ipv6": []
   }
 }

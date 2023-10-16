@@ -3,7 +3,12 @@
   "handle": "NADCORP-AS1",
   "description": "North American Division of Seventh-day Adventists",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "160.238.31.0/24",
+      "204.76.177.0/24"
+    ],
+    "ipv6": [
+      "2602:fdaf::/36"
+    ]
   }
 }

@@ -3,7 +3,11 @@
   "handle": "LUJE",
   "description": "Jelle Luteijn",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "185.36.229.0/24"
+    ],
+    "ipv6": [
+      "2a07:cd40::/29"
+    ]
   }
 }

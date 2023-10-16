@@ -3,7 +3,10 @@
   "handle": "NAYARA-AP",
   "description": "Nayara Energy Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.81.229.0/24",
+      "103.102.244.0/24"
+    ],
     "ipv6": []
   }
 }

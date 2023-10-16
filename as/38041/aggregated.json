@@ -4,6 +4,8 @@
   "description": "Krish Revo",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2602:fcff:18::/47"
+    ]
   }
 }

@@ -3,7 +3,10 @@
   "handle": "AKCTV-AP",
   "description": "AKCTV Pte. Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.121.236.0/22",
+      "103.245.76.0/22"
+    ],
     "ipv6": []
   }
 }

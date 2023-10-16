@@ -3,7 +3,10 @@
   "handle": "WYNDHAM-WORLDWIDE-INDIANAPOLIS",
   "description": "Wyndham Worldwide Corporation",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "167.124.112.0/22",
+      "167.124.116.0/24"
+    ],
     "ipv6": []
   }
 }

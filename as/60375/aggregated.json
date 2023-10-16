@@ -3,7 +3,9 @@
   "handle": "METHOLDING",
   "description": "OOO MC IMH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.209.104.0/24"
+    ],
     "ipv6": []
   }
 }

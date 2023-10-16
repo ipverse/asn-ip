@@ -3,7 +3,9 @@
   "handle": "ENGINET",
   "description": "ENGINET LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "82.194.16.0/20"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "CONNECTTELPTYLTD-AP",
   "description": "CONNECT TEL PTY LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.134.52.0/24"
+    ],
     "ipv6": []
   }
 }

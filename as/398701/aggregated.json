@@ -3,7 +3,9 @@
   "handle": "SLEEPNUMBER-01",
   "description": "Sleep Number Corporation",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "63.137.118.0/24"
+    ],
     "ipv6": []
   }
 }

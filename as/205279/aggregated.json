@@ -3,7 +3,9 @@
   "handle": "MONTEL",
   "description": "Montel Telecom, S.L.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.223.120.0/22"
+    ],
     "ipv6": []
   }
 }

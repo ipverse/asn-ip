@@ -3,7 +3,9 @@
   "handle": "TRANSTEL-TELECOMUNICAES-SISTEMA",
   "description": "TRANSTEL TELECOMUNICAES E SISTEMA LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "186.26.108.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,11 @@
   "handle": "VINER-TELECOM",
   "description": "SPD Kurilov Sergiy Oleksandrovich",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "80.70.78.0/23",
+      "91.215.70.0/23",
+      "195.64.244.0/22"
+    ],
     "ipv6": []
   }
 }

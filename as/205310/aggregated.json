@@ -3,7 +3,11 @@
   "handle": "DE-BEIERSDORF",
   "description": "Beiersdorf Shared Services GmbH",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "185.220.228.0/22"
+    ],
+    "ipv6": [
+      "2a11:c840::/48"
+    ]
   }
 }

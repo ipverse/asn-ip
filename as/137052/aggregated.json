@@ -3,7 +3,9 @@
   "handle": "NZXLIMITED-AP",
   "description": "NZX Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.103.40.0/23"
+    ],
     "ipv6": []
   }
 }

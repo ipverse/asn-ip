@@ -3,7 +3,12 @@
   "handle": "ECBOCES-VNETS",
   "description": "East Central BOCES",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "170.76.154.0/24",
+      "192.198.79.0/24"
+    ],
+    "ipv6": [
+      "2605:ccc0::/32"
+    ]
   }
 }

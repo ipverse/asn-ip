@@ -3,7 +3,10 @@
   "handle": "MABELTEL",
   "description": "Mabel Cooperative Telephone Company",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "69.173.170.0/23",
+      "69.173.172.0/22"
+    ],
     "ipv6": []
   }
 }

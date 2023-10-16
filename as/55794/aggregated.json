@@ -3,7 +3,9 @@
   "handle": "LYNX-AP",
   "description": "PT Lynx Mitra Asia",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "116.68.228.0/22"
+    ],
     "ipv6": []
   }
 }

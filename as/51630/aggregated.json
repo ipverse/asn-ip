@@ -3,7 +3,11 @@
   "handle": "OPS",
   "description": "OPS TELECOM",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "185.76.192.0/22"
+    ],
+    "ipv6": [
+      "2a05:5c00::/29"
+    ]
   }
 }

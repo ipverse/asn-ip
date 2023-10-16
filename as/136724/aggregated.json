@@ -3,7 +3,12 @@
   "handle": "PRACNETW",
   "description": "Praction Networks Pvt Ltd",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "103.83.128.0/22",
+      "103.102.88.0/22"
+    ],
+    "ipv6": [
+      "2402:4cc0::/32"
+    ]
   }
 }

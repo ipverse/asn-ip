@@ -3,7 +3,12 @@
   "handle": "UPNET-PROVEDOR-ACESSO-TELECOM",
   "description": "UPNET PROVEDOR DE ACESSO E TELECOM",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "138.185.156.0/22",
+      "170.245.136.0/22"
+    ],
+    "ipv6": [
+      "2804:2678::/32"
+    ]
   }
 }

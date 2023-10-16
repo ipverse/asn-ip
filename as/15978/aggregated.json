@@ -3,7 +3,9 @@
   "handle": "BOBST-MEX-SA",
   "description": "Bobst MEX SA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.189.204.0/23"
+    ],
     "ipv6": []
   }
 }

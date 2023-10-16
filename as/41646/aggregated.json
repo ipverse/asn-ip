@@ -3,7 +3,9 @@
   "handle": "EASYIC",
   "description": "EASYIC DESIGN SRL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "89.46.38.0/24"
+    ],
     "ipv6": []
   }
 }

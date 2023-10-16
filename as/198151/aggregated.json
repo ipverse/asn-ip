@@ -3,7 +3,9 @@
   "handle": "NCORE",
   "description": "NETON SA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "176.98.112.0/21"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,10 @@
   "handle": "DQ",
   "description": "Dynamic Quest, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "74.122.164.0/22",
+      "74.202.150.0/23"
+    ],
     "ipv6": []
   }
 }

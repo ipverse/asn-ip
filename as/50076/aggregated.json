@@ -3,7 +3,9 @@
   "handle": "EVIDENT",
   "description": "Evident Technology Center Europe GmbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.130.221.0/24"
+    ],
     "ipv6": []
   }
 }

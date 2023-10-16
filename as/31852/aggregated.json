@@ -3,7 +3,9 @@
   "handle": "ET-ASN1",
   "description": "Elite Telecom, Inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "2.57.164.0/23"
+    ],
     "ipv6": []
   }
 }

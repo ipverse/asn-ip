@@ -3,7 +3,9 @@
   "handle": "ETHERTEC",
   "description": "etherTec Systems GmbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.92.136.0/22"
+    ],
     "ipv6": []
   }
 }

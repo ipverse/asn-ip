@@ -3,7 +3,12 @@
   "handle": "ANDERSON-GUSTAVO-NEVES",
   "description": "Anderson Gustavo Neves Gomes - ME",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "143.208.204.0/22",
+      "177.39.80.0/21"
+    ],
+    "ipv6": [
+      "2804:43c::/32"
+    ]
   }
 }

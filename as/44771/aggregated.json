@@ -3,7 +3,9 @@
   "handle": "LRTC",
   "description": "SC Lithuanian Radio and TV Center",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.149.153.0/24"
+    ],
     "ipv6": []
   }
 }

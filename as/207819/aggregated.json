@@ -3,7 +3,9 @@
   "handle": "NOVAMETRO",
   "description": "NOVAMETRO OU",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "94.232.243.0/24"
+    ],
     "ipv6": []
   }
 }

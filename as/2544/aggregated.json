@@ -3,7 +3,10 @@
   "handle": "METRO",
   "description": "King County Gov",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "146.129.0.0/16",
+      "198.49.222.0/24"
+    ],
     "ipv6": []
   }
 }

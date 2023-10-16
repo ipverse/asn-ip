@@ -3,7 +3,9 @@
   "handle": "CREDISSIMO",
   "description": "Credissimo JSCo",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "78.128.61.0/24"
+    ],
     "ipv6": []
   }
 }

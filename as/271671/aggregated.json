@@ -3,7 +3,11 @@
   "handle": "REALTEC-NETWORKS",
   "description": "REALTEC NETWORKS LTDA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "168.232.120.0/22"
+    ],
+    "ipv6": [
+      "2804:7f2c::/32"
+    ]
   }
 }

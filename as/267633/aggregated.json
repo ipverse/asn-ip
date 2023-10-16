@@ -3,7 +3,11 @@
   "handle": "DATA-NET-INFORMTICA",
   "description": "DATA NET INFORMTICA E TECNOLOGIA - EIRELI - ME",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.71.172.0/22"
+    ],
+    "ipv6": [
+      "2804:4474::/32"
+    ]
   }
 }

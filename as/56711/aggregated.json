@@ -3,7 +3,9 @@
   "handle": "BLUERANGE",
   "description": "Bluerange Sweden AB",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "31.193.248.0/21"
+    ],
     "ipv6": []
   }
 }

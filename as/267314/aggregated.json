@@ -3,7 +3,9 @@
   "handle": "SERVIO-SOCIAL-INDSTRIA",
   "description": "Servio Social da Indstria - Distrito Federal",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.233.148.0/22"
+    ],
     "ipv6": []
   }
 }

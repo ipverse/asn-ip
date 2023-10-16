@@ -3,7 +3,10 @@
   "handle": "CVLD",
   "description": "CROSSLINK LONG DISTANCE, COMPANY",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.88.255.0/24",
+      "206.125.152.0/23"
+    ],
     "ipv6": []
   }
 }

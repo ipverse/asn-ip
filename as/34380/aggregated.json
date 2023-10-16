@@ -3,7 +3,10 @@
   "handle": "AMDOCS",
   "description": "AMDOCS (ISRAEL) LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.162.148.0/22",
+      "193.43.244.0/22"
+    ],
     "ipv6": []
   }
 }

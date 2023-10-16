@@ -3,7 +3,10 @@
   "handle": "WHG",
   "description": "Wyndham Hotel Group, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "167.124.100.0/23",
+      "167.124.102.0/24"
+    ],
     "ipv6": []
   }
 }

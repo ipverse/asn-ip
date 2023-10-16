@@ -3,7 +3,11 @@
   "handle": "HACKENSACKUMC",
   "description": "Hackensack University Medical Center",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "8.27.78.0/24",
+      "24.38.86.0/24",
+      "198.148.152.0/23"
+    ],
     "ipv6": []
   }
 }

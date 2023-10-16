@@ -3,7 +3,10 @@
   "handle": "ESNET",
   "description": "ESnet",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.74.211.0/24",
+      "192.74.212.0/24"
+    ],
     "ipv6": []
   }
 }

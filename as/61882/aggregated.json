@@ -3,7 +3,10 @@
   "handle": "VILAVNET-SOLUCOES-EM",
   "description": "VILAVNET SOLUCOES EM INFORMATICA LTDA-ME",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "131.0.48.0/23",
+      "131.0.51.0/24"
+    ],
     "ipv6": []
   }
 }

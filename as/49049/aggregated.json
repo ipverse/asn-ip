@@ -3,7 +3,9 @@
   "handle": "BATH-NORTH-EAST-SOMERSET-COUNCIL",
   "description": "Bath North East Somerset Council",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.212.105.0/24"
+    ],
     "ipv6": []
   }
 }

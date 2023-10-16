@@ -3,7 +3,10 @@
   "handle": "ROCKYRIDGE-NET",
   "description": "Rocky Ridge Wireless",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "104.250.248.0/22",
+      "204.144.124.0/22"
+    ],
     "ipv6": []
   }
 }

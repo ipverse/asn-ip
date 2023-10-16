@@ -3,7 +3,9 @@
   "handle": "SECUREDATA365-OH1",
   "description": "Involta",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "24.106.143.0/24"
+    ],
     "ipv6": []
   }
 }

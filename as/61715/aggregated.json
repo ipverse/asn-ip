@@ -3,7 +3,9 @@
   "handle": "UP-BRASIL-ADMINISTRAO",
   "description": "UP Brasil Administrao e Servios Ltda",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "131.72.8.0/22"
+    ],
     "ipv6": []
   }
 }

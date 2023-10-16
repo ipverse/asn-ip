@@ -3,7 +3,9 @@
   "handle": "FVD-AS1",
   "description": "Chess ICT Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.85.40.0/22"
+    ],
     "ipv6": []
   }
 }

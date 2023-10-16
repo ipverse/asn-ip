@@ -3,7 +3,9 @@
   "handle": "LDCC-VN",
   "description": "Lotte Data Communication Company Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.225.236.0/22"
+    ],
     "ipv6": []
   }
 }

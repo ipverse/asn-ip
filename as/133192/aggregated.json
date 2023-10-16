@@ -3,7 +3,11 @@
   "handle": "UBB-AP",
   "description": "Ultimate Mobile limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.85.28.0/22",
+      "103.255.24.0/22",
+      "163.47.164.0/22"
+    ],
     "ipv6": []
   }
 }

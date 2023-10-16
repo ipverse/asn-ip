@@ -3,7 +3,10 @@
   "handle": "NETLOJISTIK",
   "description": "Eclit Bilisim Hizmetleri A.S",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.93.249.0/24",
+      "185.193.4.0/22"
+    ],
     "ipv6": []
   }
 }

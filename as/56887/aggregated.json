@@ -3,7 +3,11 @@
   "handle": "TECHNOLOGICAL",
   "description": "SC TECHNOLOGICAL SRL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "31.131.44.0/23",
+      "176.113.108.0/22",
+      "176.124.72.0/21"
+    ],
     "ipv6": []
   }
 }

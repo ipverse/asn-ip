@@ -3,7 +3,9 @@
   "handle": "MUSD-INTERNET",
   "description": "Mesa Public Schools",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "204.43.128.0/17"
+    ],
     "ipv6": []
   }
 }

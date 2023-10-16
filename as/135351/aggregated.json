@@ -3,7 +3,10 @@
   "handle": "SMSGLOBAL-AP",
   "description": "SMSGlobal Pty Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.214.208.0/22",
+      "144.48.152.0/22"
+    ],
     "ipv6": []
   }
 }

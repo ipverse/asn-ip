@@ -3,7 +3,10 @@
   "handle": "UK-FIDELIS-1",
   "description": "FIDELIS MARKETING LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.122.17.0/24",
+      "185.122.18.0/24"
+    ],
     "ipv6": []
   }
 }

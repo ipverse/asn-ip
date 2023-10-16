@@ -3,7 +3,11 @@
   "handle": "GIC-BHUTAN-AP",
   "description": "GIC-Bhutan Reinsurance Co. Ltd.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "103.117.80.0/24"
+    ],
+    "ipv6": [
+      "2001:df5:a300::/48"
+    ]
   }
 }

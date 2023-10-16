@@ -3,7 +3,9 @@
   "handle": "WI-TRONIX-AS1",
   "description": "Wi-Tronix LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.70.191.0/24"
+    ],
     "ipv6": []
   }
 }

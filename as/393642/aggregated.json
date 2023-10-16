@@ -3,7 +3,10 @@
   "handle": "PRYORCASHMAN-NY",
   "description": "PRYOR CASHMAN LLP",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.94.167.0/24",
+      "208.185.174.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "STREEEMING",
   "description": "STREEEMING SAS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.27.76.0/22"
+    ],
     "ipv6": []
   }
 }

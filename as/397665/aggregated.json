@@ -3,7 +3,10 @@
   "handle": "AASKI-ASN1",
   "description": "MAG Aerospace",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "12.24.28.0/24",
+      "65.216.159.0/24"
+    ],
     "ipv6": []
   }
 }

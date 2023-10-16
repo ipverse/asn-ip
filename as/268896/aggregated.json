@@ -3,7 +3,9 @@
   "handle": "IBR-INFORMTICA",
   "description": "IBR Informtica Ltda",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.175.124.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "TURBOO-NET",
   "description": "TURBOO NET",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.166.56.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "STOLICA",
   "description": "STOLICA LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "89.223.73.0/24"
+    ],
     "ipv6": []
   }
 }

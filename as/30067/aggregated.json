@@ -3,7 +3,10 @@
   "handle": "AACG",
   "description": "Anne Arundel County, Maryland",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "50.234.115.0/24",
+      "167.102.135.0/24"
+    ],
     "ipv6": []
   }
 }

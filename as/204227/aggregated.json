@@ -3,7 +3,9 @@
   "handle": "SAP-SE-SOF",
   "description": "SAP SE",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.57.20.0/24"
+    ],
     "ipv6": []
   }
 }

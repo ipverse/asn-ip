@@ -4,6 +4,9 @@
   "description": "Tom Funken",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a10:cc45:121::/48",
+      "2a10:cc45:122::/48"
+    ]
   }
 }

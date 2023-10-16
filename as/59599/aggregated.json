@@ -3,7 +3,9 @@
   "handle": "NCCW",
   "description": "NCCW B.V.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "151.236.128.0/20"
+    ],
     "ipv6": []
   }
 }

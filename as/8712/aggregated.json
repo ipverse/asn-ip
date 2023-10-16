@@ -3,7 +3,9 @@
   "handle": "INTA",
   "description": "Kirunets Tatyana Ivanovna",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "176.113.48.0/20"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,10 @@
   "handle": "UNIVERSIDAD-DESARROLLO",
   "description": "Universidad del Desarrollo",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "179.189.216.0/23",
+      "201.221.123.0/24"
+    ],
     "ipv6": []
   }
 }

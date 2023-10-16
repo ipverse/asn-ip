@@ -3,7 +3,9 @@
   "handle": "4IMPRINT",
   "description": "4imprint",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "69.213.9.0/24"
+    ],
     "ipv6": []
   }
 }

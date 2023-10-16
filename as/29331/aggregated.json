@@ -3,7 +3,9 @@
   "handle": "FDC-NETWORK",
   "description": "Forsikringens Datacenter A/S",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.149.78.0/24"
+    ],
     "ipv6": []
   }
 }

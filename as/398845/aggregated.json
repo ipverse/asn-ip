@@ -3,7 +3,9 @@
   "handle": "MCC-WACO",
   "description": "McLennan Community College",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "198.134.151.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "CERNER-AP",
   "description": "CERNER CORPORATION PTY LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.124.41.0/24"
+    ],
     "ipv6": []
   }
 }

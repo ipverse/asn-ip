@@ -3,7 +3,9 @@
   "handle": "CHDP1",
   "description": "CENTRE HOSPITALIER DE PAU",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "83.173.127.0/24"
+    ],
     "ipv6": []
   }
 }

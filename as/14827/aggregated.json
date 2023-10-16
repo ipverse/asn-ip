@@ -3,7 +3,10 @@
   "handle": "WSDOT",
   "description": "Washington State Department of Transportation",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "164.110.0.0/16",
+      "198.238.212.0/23"
+    ],
     "ipv6": []
   }
 }

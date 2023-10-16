@@ -3,7 +3,9 @@
   "handle": "XNAME",
   "description": "Association XNAME",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.234.42.0/24"
+    ],
     "ipv6": []
   }
 }

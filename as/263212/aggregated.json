@@ -3,7 +3,9 @@
   "handle": "NETWORK-ACCESS-POINT",
   "description": "NETWORK ACCESS POINT DEL CARIBE - DR",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "191.97.88.0/21"
+    ],
     "ipv6": []
   }
 }

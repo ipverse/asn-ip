@@ -3,7 +3,9 @@
   "handle": "AGIRCARRCO",
   "description": "Federation Agirc-Arrco",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.182.17.0/24"
+    ],
     "ipv6": []
   }
 }

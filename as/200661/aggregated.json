@@ -3,7 +3,9 @@
   "handle": "ONSICOM",
   "description": "OPERADORA DE NUEVOS SISTEMAS DE COMUNICACION SLU",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.70.172.0/22"
+    ],
     "ipv6": []
   }
 }

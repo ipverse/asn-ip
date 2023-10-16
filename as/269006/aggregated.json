@@ -3,7 +3,9 @@
   "handle": "CRISTIAN-MARY-HILGEMBERG",
   "description": "CRISTIAN MARY HILGEMBERG BUENO - ME",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.176.148.0/23"
+    ],
     "ipv6": []
   }
 }

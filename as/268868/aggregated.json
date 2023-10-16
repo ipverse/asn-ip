@@ -3,7 +3,9 @@
   "handle": "INTERSERV-TELECOM-EIRELI",
   "description": "INTERSERV TELECOM - EIRELI",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.174.216.0/22"
+    ],
     "ipv6": []
   }
 }

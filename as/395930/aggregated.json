@@ -3,7 +3,9 @@
   "handle": "MIELEUS-01",
   "description": "Miele Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "170.76.151.0/24"
+    ],
     "ipv6": []
   }
 }

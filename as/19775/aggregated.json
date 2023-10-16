@@ -3,7 +3,9 @@
   "handle": "INTRASYSTEMS",
   "description": "Intrasystems, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "66.228.87.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "RECNET",
   "description": "Department of Interior",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "137.77.0.0/17"
+    ],
     "ipv6": []
   }
 }

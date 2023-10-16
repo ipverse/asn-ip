@@ -3,7 +3,9 @@
   "handle": "NUBIS",
   "description": "Nubis Associates Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.65.96.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "RCG-GLOBAL-SERVICES",
   "description": "RCG Information Technology",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "208.195.3.0/24"
+    ],
     "ipv6": []
   }
 }

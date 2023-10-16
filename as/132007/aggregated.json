@@ -3,7 +3,10 @@
   "handle": "DWI-AP",
   "description": "DataWave Internet Pty Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "43.255.136.0/22",
+      "103.239.132.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,11 @@
   "handle": "LCCLLINE-CONECT",
   "description": "lcclLINE CONECT",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "164.163.228.0/22"
+    ],
+    "ipv6": [
+      "2804:40f8::/32"
+    ]
   }
 }

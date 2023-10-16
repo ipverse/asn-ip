@@ -3,7 +3,10 @@
   "handle": "ANEKASIGNAL-ID",
   "description": "PT Aneka Signal",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.12.112.0/22",
+      "203.153.212.0/22"
+    ],
     "ipv6": []
   }
 }

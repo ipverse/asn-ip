@@ -3,7 +3,9 @@
   "handle": "CCPL-AP",
   "description": "Credit Corporation (PNG) Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.215.92.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "JO-SGBJ",
   "description": "Capital Bank of Jordan (Limited public shareholding)",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "141.98.64.0/22"
+    ],
     "ipv6": []
   }
 }

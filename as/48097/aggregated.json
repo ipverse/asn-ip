@@ -3,7 +3,9 @@
   "handle": "NOBILIA",
   "description": "nobilia-Werke J. Stickling GmbH \u0026 Co. KG",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "93.187.56.0/21"
+    ],
     "ipv6": []
   }
 }

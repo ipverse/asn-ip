@@ -3,7 +3,9 @@
   "handle": "ALPINEWEB",
   "description": "AlpineWEB",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.111.214.0/24"
+    ],
     "ipv6": []
   }
 }

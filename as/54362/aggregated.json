@@ -3,7 +3,9 @@
   "handle": "OGDEN-CITY-CORPORATION",
   "description": "Ogden City Corporation",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "205.189.200.0/23"
+    ],
     "ipv6": []
   }
 }

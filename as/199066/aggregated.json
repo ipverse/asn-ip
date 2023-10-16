@@ -3,7 +3,9 @@
   "handle": "DATA8",
   "description": "Data8 Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.187.72.0/24"
+    ],
     "ipv6": []
   }
 }

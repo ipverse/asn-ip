@@ -3,7 +3,11 @@
   "handle": "TELECOMSHOP-COMERCIO-SERVICOS",
   "description": "TELECOMSHOP COMERCIO E SERVICOS DE TELECOMUNICACOE",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "190.83.88.0/22"
+    ],
+    "ipv6": [
+      "2804:6aac::/32"
+    ]
   }
 }

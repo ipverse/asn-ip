@@ -3,7 +3,9 @@
   "handle": "ASCNIT",
   "description": "CNIT Italian National Consortium for Telecommunications",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "217.9.64.0/20"
+    ],
     "ipv6": []
   }
 }

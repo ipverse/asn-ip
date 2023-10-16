@@ -3,7 +3,9 @@
   "handle": "RADIOTWOTHOUSAND",
   "description": "Bauer Audio Ireland Limited trading as Bauer Media Audio Ireland LP",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "176.124.246.0/24"
+    ],
     "ipv6": []
   }
 }

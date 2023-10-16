@@ -3,7 +3,9 @@
   "handle": "BIASUS-BIASUS",
   "description": "BIASUS E BIASUS LTDA - ME",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "131.100.80.0/22"
+    ],
     "ipv6": []
   }
 }

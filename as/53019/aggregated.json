@@ -3,7 +3,11 @@
   "handle": "INFOTEC-SERVIOS-PROVEDOR",
   "description": "infotec- servios de provedor da internet ltda",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "177.70.160.0/20"
+    ],
+    "ipv6": [
+      "2804:5dc::/32"
+    ]
   }
 }

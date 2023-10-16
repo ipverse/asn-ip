@@ -3,7 +3,12 @@
   "handle": "TINASNET-SERVICOS-ACESSOS",
   "description": "TINASNET SERVICOS E ACESSOS A INTERNET LTDA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "168.194.136.0/22",
+      "177.125.124.0/22"
+    ],
+    "ipv6": [
+      "2804:1590::/32"
+    ]
   }
 }

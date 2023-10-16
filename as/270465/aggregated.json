@@ -3,12 +3,11 @@
   "handle": "CRS-SERVICOS-COMUNICACAO",
   "description": "CRS SERVICOS DE COMUNICACAO MULTIMIDIA LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "200.108.188.0/23"
+    ],
     "ipv6": [
-      "2804:6c64:1::/48",
-      "2804:6c64:2::/47",
-      "2804:6c64:4::/47",
-      "2804:6c64:6::/48"
+      "2804:6c64::/32"
     ]
   }
 }

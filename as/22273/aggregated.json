@@ -3,7 +3,11 @@
   "handle": "GWCCNET",
   "description": "Great West Casualty Company",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "63.158.86.0/24",
+      "65.124.98.0/24",
+      "205.168.19.0/24"
+    ],
     "ipv6": []
   }
 }

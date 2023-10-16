@@ -3,7 +3,11 @@
   "handle": "SOVERIN",
   "description": "Soverin B.V.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "185.233.34.0/24"
+    ],
+    "ipv6": [
+      "2a10:de80::/32"
+    ]
   }
 }

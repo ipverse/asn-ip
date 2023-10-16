@@ -3,7 +3,9 @@
   "handle": "NIAGARA-CATHOLIC-DISTRICT-SCHOOL-BOARD",
   "description": "Niagara Catholic District School Board",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.68.163.0/24"
+    ],
     "ipv6": []
   }
 }

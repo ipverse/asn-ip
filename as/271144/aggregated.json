@@ -3,7 +3,9 @@
   "handle": "ADEMIR-FERREIRA",
   "description": "Ademir Ferreira",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "179.42.40.0/22"
+    ],
     "ipv6": [
       "2804:76f0::/32"
     ]

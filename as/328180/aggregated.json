@@ -3,7 +3,9 @@
   "handle": "BANK-OF-KIGALI",
   "description": "Bank of Kigali Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "156.38.8.0/21"
+    ],
     "ipv6": []
   }
 }

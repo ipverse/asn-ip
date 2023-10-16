@@ -3,7 +3,9 @@
   "handle": "KLAS-5527",
   "description": "Keystone Systems, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "207.235.79.0/24"
+    ],
     "ipv6": []
   }
 }

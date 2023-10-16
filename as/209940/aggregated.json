@@ -3,7 +3,9 @@
   "handle": "NICOLAS-CZEPULKOWSKI",
   "description": "Nicolas CZEPULKOWSKI",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "62.122.189.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,11 @@
   "handle": "INTERVIA-SOLUCOES",
   "description": "Intervia Solucoes Ltda",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "191.37.200.0/21"
+    ],
+    "ipv6": [
+      "2804:151c::/32"
+    ]
   }
 }

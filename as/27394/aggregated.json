@@ -3,7 +3,9 @@
   "handle": "NHDSC-ORG",
   "description": "Northern Hospital District of Surry County",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "98.101.114.0/24"
+    ],
     "ipv6": []
   }
 }

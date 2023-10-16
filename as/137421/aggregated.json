@@ -3,7 +3,9 @@
   "handle": "VFM-AP",
   "description": "Victoria Funds Management",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.107.207.0/24"
+    ],
     "ipv6": []
   }
 }

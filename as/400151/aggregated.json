@@ -3,7 +3,9 @@
   "handle": "SPARC-BROOKS-BROTHERS",
   "description": "BB OPCO LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "66.84.83.0/24"
+    ],
     "ipv6": []
   }
 }

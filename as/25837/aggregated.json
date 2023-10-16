@@ -3,7 +3,10 @@
   "handle": "DATALINK-IT",
   "description": "DATALINK INFORMATION TECHNOLOGIES INC.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.89.164.0/24",
+      "192.65.230.0/23"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "EASTMS-MISSON-01",
   "description": "East Mississippi Community College",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "207.181.35.0/24"
+    ],
     "ipv6": []
   }
 }

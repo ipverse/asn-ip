@@ -3,7 +3,9 @@
   "handle": "COGENT-4994",
   "description": "AGIS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "204.6.192.0/18"
+    ],
     "ipv6": []
   }
 }

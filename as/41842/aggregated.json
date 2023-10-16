@@ -3,7 +3,10 @@
   "handle": "MEDIAL",
   "description": "SINERGIYA Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "77.246.96.0/21",
+      "80.85.244.0/22"
+    ],
     "ipv6": []
   }
 }

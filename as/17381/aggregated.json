@@ -3,7 +3,10 @@
   "handle": "WSI-ECOM-WEST",
   "description": "Williams-Sonoma",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.45.128.0/22",
+      "199.87.8.0/21"
+    ],
     "ipv6": []
   }
 }

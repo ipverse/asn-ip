@@ -3,7 +3,9 @@
   "handle": "LAN-CHILE",
   "description": "LAN CHILE (Lineas Aereas de Chile)",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "200.14.106.0/24"
+    ],
     "ipv6": []
   }
 }

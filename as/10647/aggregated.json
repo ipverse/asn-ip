@@ -3,7 +3,10 @@
   "handle": "NACM",
   "description": "Nicholas Applegate",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "168.114.218.0/24",
+      "168.114.240.0/23"
+    ],
     "ipv6": []
   }
 }

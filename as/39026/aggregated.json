@@ -3,7 +3,9 @@
   "handle": "ABENADATAASN",
   "description": "ABENA DATA ApS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.14.14.0/24"
+    ],
     "ipv6": []
   }
 }

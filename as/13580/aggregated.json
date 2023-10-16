@@ -3,7 +3,10 @@
   "handle": "SOUTHERN-NETWORK-SERVICES",
   "description": "Southern Network Services, L.L.C.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "141.193.64.0/24",
+      "162.219.16.0/22"
+    ],
     "ipv6": []
   }
 }

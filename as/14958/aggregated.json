@@ -3,7 +3,9 @@
   "handle": "NATIONS-KS",
   "description": "NATIONS HOLDING COMPANY",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "63.78.241.0/24"
+    ],
     "ipv6": []
   }
 }

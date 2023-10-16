@@ -3,7 +3,9 @@
   "handle": "JETNET-COMUNICACAO",
   "description": "JETNET COMUNICACAO LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "168.227.216.0/22"
+    ],
     "ipv6": []
   }
 }

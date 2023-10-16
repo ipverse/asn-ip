@@ -3,7 +3,9 @@
   "handle": "WEB-COM-AP",
   "description": "Web.com.ph Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.131.95.0/24"
+    ],
     "ipv6": []
   }
 }

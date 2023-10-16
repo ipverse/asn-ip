@@ -3,7 +3,9 @@
   "handle": "LINKVALE-INTERNET-EIRELI",
   "description": "LINKVALE INTERNET EIRELI",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.167.160.0/22"
+    ],
     "ipv6": [
       "2804:5710::/32"
     ]

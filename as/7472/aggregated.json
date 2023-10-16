@@ -3,7 +3,9 @@
   "handle": "NUS-AP",
   "description": "National University of Singapore",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "137.132.0.0/16"
+    ],
     "ipv6": []
   }
 }

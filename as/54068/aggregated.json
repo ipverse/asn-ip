@@ -3,7 +3,9 @@
   "handle": "CGS-BGP",
   "description": "City of Greenville, SC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "204.77.145.0/24"
+    ],
     "ipv6": []
   }
 }

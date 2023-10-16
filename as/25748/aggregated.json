@@ -3,7 +3,10 @@
   "handle": "CQGNET-CHICAGO",
   "description": "CQG, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "67.152.7.0/24",
+      "216.211.216.0/24"
+    ],
     "ipv6": []
   }
 }

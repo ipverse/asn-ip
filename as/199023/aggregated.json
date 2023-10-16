@@ -3,7 +3,10 @@
   "handle": "SPEED-SOFT",
   "description": "SPEED-SOFT SP Z O.O.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "93.157.69.0/24",
+      "93.157.71.0/24"
+    ],
     "ipv6": []
   }
 }

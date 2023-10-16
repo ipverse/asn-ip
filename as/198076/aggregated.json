@@ -3,7 +3,9 @@
   "handle": "LITEGROUP",
   "description": "Lite Group Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "176.123.49.0/24"
+    ],
     "ipv6": []
   }
 }

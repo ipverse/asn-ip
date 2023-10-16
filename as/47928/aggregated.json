@@ -3,7 +3,9 @@
   "handle": "AKHNATON",
   "description": "Akhnaton CO Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.182.44.0/24"
+    ],
     "ipv6": []
   }
 }

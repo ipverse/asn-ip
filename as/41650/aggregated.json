@@ -3,7 +3,9 @@
   "handle": "HDS-POLSKA",
   "description": "Lagardere Travel Retail Spolka z o.o",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.178.122.0/23"
+    ],
     "ipv6": []
   }
 }

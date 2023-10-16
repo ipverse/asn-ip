@@ -3,7 +3,9 @@
   "handle": "CABLE-ONDA",
   "description": "Cable Onda",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "200.108.44.0/23"
+    ],
     "ipv6": []
   }
 }

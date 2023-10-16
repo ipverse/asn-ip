@@ -3,7 +3,9 @@
   "handle": "ACESSOCOM-PROVEDOR-INTERNET",
   "description": "ACESSO.COM PROVEDOR DE INTERNET",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "143.208.72.0/22"
+    ],
     "ipv6": [
       "2804:2b28::/32"
     ]

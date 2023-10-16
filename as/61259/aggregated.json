@@ -3,7 +3,9 @@
   "handle": "SUPERWAVE",
   "description": "LLC Superwave Group",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "212.192.225.0/24"
+    ],
     "ipv6": []
   }
 }

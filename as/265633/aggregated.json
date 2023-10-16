@@ -3,7 +3,11 @@
   "handle": "COMUNICACIONES-GALUP-CA",
   "description": "Comunicaciones Galup C.A",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "170.244.52.0/22"
+    ],
+    "ipv6": [
+      "2803:5ac0::/32"
+    ]
   }
 }

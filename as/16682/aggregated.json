@@ -3,7 +3,9 @@
   "handle": "HAGGAR",
   "description": "Haggar Clothing Co.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "64.30.159.0/24"
+    ],
     "ipv6": []
   }
 }

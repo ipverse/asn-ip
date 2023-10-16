@@ -3,7 +3,9 @@
   "handle": "NHS-39AS",
   "description": "The New-York Historical Society",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "8.25.158.0/24"
+    ],
     "ipv6": []
   }
 }

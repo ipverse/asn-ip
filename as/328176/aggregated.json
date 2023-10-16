@@ -3,7 +3,10 @@
   "handle": "ITTX-TELECOMS",
   "description": "ITTX Telecoms (Pty) Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "102.128.172.0/22",
+      "160.19.36.0/22"
+    ],
     "ipv6": []
   }
 }

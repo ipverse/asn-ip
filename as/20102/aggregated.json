@@ -3,7 +3,10 @@
   "handle": "A-LA-MODE",
   "description": "a la mode, inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "24.248.251.0/24",
+      "66.210.173.0/24"
+    ],
     "ipv6": []
   }
 }

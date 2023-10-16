@@ -3,7 +3,11 @@
   "handle": "THUNDER-TECNOLOGIA",
   "description": "Thunder Tecnologia Ltda - ME",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.178.232.0/22"
+    ],
+    "ipv6": [
+      "2804:5e9c::/32"
+    ]
   }
 }

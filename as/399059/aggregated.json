@@ -3,7 +3,9 @@
   "handle": "ROUNDABOUT",
   "description": "Roundabout Entertainment Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "104.232.1.0/24"
+    ],
     "ipv6": []
   }
 }

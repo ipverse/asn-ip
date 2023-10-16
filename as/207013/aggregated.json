@@ -3,7 +3,9 @@
   "handle": "WIFLY",
   "description": "Wifly S.R.L.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.168.176.0/22"
+    ],
     "ipv6": []
   }
 }

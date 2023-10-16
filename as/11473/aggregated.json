@@ -3,7 +3,9 @@
   "handle": "WATCH-WCOIL",
   "description": "Watch Communications",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "65.17.128.0/19"
+    ],
     "ipv6": []
   }
 }

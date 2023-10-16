@@ -3,7 +3,9 @@
   "handle": "IELO-B",
   "description": "IELO-LIAZO SERVICES SAS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.94.128.0/22"
+    ],
     "ipv6": []
   }
 }

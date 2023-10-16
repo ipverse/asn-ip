@@ -3,7 +3,9 @@
   "handle": "TSPU",
   "description": "State educational institution of higher professional education Tomsk State Pedagogical University",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.106.132.0/22"
+    ],
     "ipv6": []
   }
 }

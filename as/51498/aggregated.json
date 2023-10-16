@@ -3,7 +3,9 @@
   "handle": "CONNET",
   "description": "CONNECTION NETWORKS L.P.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.20.248.0/24"
+    ],
     "ipv6": []
   }
 }

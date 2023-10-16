@@ -3,7 +3,11 @@
   "handle": "ESP",
   "description": "EyeCare Services Partners Management LLC",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "38.68.34.0/24"
+    ],
+    "ipv6": [
+      "2602:802::/40"
+    ]
   }
 }

@@ -3,7 +3,10 @@
   "handle": "HKBEE-AP",
   "description": "Hong Kong Beecloud System Technology Services Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "154.91.4.0/24",
+      "203.168.230.0/23"
+    ],
     "ipv6": []
   }
 }

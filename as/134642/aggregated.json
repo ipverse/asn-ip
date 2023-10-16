@@ -3,7 +3,9 @@
   "handle": "IDNIC-SHINHAN-ID",
   "description": "Bank Shinhan Indonesia",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.242.84.0/23"
+    ],
     "ipv6": []
   }
 }

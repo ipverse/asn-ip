@@ -3,7 +3,9 @@
   "handle": "DICKERDATALTD-AP",
   "description": "Dicker Data Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.248.44.0/22"
+    ],
     "ipv6": []
   }
 }

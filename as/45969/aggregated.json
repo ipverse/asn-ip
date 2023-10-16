@@ -3,7 +3,9 @@
   "handle": "INIVAN",
   "description": "INICIS Co., Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "211.105.73.0/24"
+    ],
     "ipv6": []
   }
 }

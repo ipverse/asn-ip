@@ -3,7 +3,10 @@
   "handle": "SW-MN-BROADBAND",
   "description": "SOUTHWEST MINNESOTA BROADBAND SERVICES",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "173.225.32.0/20",
+      "199.36.224.0/21"
+    ],
     "ipv6": []
   }
 }

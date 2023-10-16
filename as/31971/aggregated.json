@@ -3,7 +3,9 @@
   "handle": "UHC-SV",
   "description": "UMPQUA BANK",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.131.140.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "COUNTRY-WIRELESS",
   "description": "Country Wireless",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "104.243.224.0/20"
+    ],
     "ipv6": []
   }
 }

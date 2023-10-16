@@ -3,7 +3,9 @@
   "handle": "STATER",
   "description": "Stater Nederland B.V.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.177.100.0/22"
+    ],
     "ipv6": []
   }
 }

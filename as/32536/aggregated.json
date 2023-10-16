@@ -3,7 +3,10 @@
   "handle": "4WEB-CA",
   "description": "4WEB.CA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.96.28.0/22",
+      "199.180.28.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "KUKATOLEDO",
   "description": "KUKA Toledo Production Operations LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "67.211.167.0/24"
+    ],
     "ipv6": []
   }
 }

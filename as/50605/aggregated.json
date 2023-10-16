@@ -3,7 +3,9 @@
   "handle": "RADIUS",
   "description": "Radius Communications Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.112.96.0/22"
+    ],
     "ipv6": []
   }
 }

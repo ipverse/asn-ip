@@ -3,7 +3,11 @@
   "handle": "ORECAT",
   "description": "Offshore Renewable Energy Catapult",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "2.57.200.0/22"
+    ],
+    "ipv6": [
+      "2a09:de40::/32"
+    ]
   }
 }

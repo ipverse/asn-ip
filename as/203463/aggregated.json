@@ -3,7 +3,10 @@
   "handle": "ASSECOSEE",
   "description": "ASSECO SEE d.o.o.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.254.176.0/22",
+      "212.15.186.0/24"
+    ],
     "ipv6": []
   }
 }

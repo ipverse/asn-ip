@@ -3,7 +3,9 @@
   "handle": "MAYVI",
   "description": "MAYVILLE ENGINEERING COMPANY, INC.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "71.13.187.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,10 @@
   "handle": "BITPOINT",
   "description": "BitPoint AG",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "80.67.224.0/20",
+      "185.179.164.0/22"
+    ],
     "ipv6": []
   }
 }

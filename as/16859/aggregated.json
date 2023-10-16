@@ -3,7 +3,9 @@
   "handle": "NAPHCARE-INC",
   "description": "NaphCare, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.248.232.0/24"
+    ],
     "ipv6": []
   }
 }

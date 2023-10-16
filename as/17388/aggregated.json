@@ -3,7 +3,10 @@
   "handle": "HOVERNET",
   "description": "Hover Networks, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.101.40.0/24",
+      "72.45.219.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,10 @@
   "handle": "CWWI",
   "description": "Cable \u0026 Wireless (Barbados) Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "72.27.129.0/24",
+      "196.3.95.0/24"
+    ],
     "ipv6": []
   }
 }

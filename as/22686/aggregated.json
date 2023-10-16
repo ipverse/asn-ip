@@ -3,7 +3,11 @@
   "handle": "UNIVERSITYOFWINNIPEG",
   "description": "University of Winnipeg",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "142.132.0.0/17"
+    ],
+    "ipv6": [
+      "2620:13a:4000::/40"
+    ]
   }
 }

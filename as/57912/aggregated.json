@@ -3,7 +3,10 @@
   "handle": "ASYST",
   "description": "Asyst EOOD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "82.119.87.0/24",
+      "91.236.144.0/22"
+    ],
     "ipv6": []
   }
 }

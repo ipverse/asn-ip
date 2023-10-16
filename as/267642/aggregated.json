@@ -3,7 +3,11 @@
   "handle": "T-TELES-LEITE",
   "description": "T. TELES LEITE TELECOMUNICACOES LTDA ME",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.71.192.0/22"
+    ],
+    "ipv6": [
+      "2804:449c::/40"
+    ]
   }
 }

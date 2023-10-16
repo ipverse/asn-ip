@@ -3,7 +3,9 @@
   "handle": "TGNA-KING-KONG",
   "description": "TEGNA Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "167.8.96.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "SVMH",
   "description": "Salinas Valley Memorial Hospital",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.79.167.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "ROEDL",
   "description": "Roedl \u0026 Partner GmbH Wirtschaftspruefungsgesellschaft Steuerberatungsgesellschaft",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.48.158.0/23"
+    ],
     "ipv6": []
   }
 }

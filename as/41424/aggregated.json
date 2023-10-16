@@ -3,7 +3,9 @@
   "handle": "LDZNET",
   "description": "Valsts akciju sabiedriba Latvijas dzelzcels",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "89.207.240.0/21"
+    ],
     "ipv6": []
   }
 }

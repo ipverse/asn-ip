@@ -3,7 +3,9 @@
   "handle": "ARCTERYX-NOC-DATACENTER",
   "description": "Arc\u0027teryx Equipment",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "148.59.130.0/24"
+    ],
     "ipv6": []
   }
 }

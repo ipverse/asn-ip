@@ -3,7 +3,12 @@
   "handle": "MCC",
   "description": "Schuberg Philis B.V.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "85.222.238.0/23",
+      "185.242.220.0/22"
+    ],
+    "ipv6": [
+      "2a13:1200::/44"
+    ]
   }
 }

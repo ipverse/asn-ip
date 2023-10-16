@@ -3,7 +3,9 @@
   "handle": "IBS-ID",
   "description": "PT Infrastruktur Bisnis Sejahtera",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.225.88.0/23"
+    ],
     "ipv6": []
   }
 }

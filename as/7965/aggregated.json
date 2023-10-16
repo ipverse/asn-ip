@@ -3,7 +3,9 @@
   "handle": "UNIVERSIDAD-CATOLICA-ANDRES",
   "description": "Universidad Catolica Andres Bello",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "200.2.8.0/21"
+    ],
     "ipv6": []
   }
 }

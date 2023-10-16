@@ -3,7 +3,9 @@
   "handle": "FERNANDO-GERMAN-FISCHER",
   "description": "Fernando German Fischer (FIBERNET TELECOM)",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.4.252.0/22"
+    ],
     "ipv6": []
   }
 }

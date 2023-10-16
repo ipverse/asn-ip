@@ -3,7 +3,10 @@
   "handle": "WOLASN",
   "description": "Wolseley UK Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "89.207.160.0/22",
+      "185.211.44.0/22"
+    ],
     "ipv6": []
   }
 }

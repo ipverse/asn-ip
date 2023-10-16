@@ -3,7 +3,9 @@
   "handle": "IPSET",
   "description": "SARL IPSET",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "217.26.136.0/21"
+    ],
     "ipv6": []
   }
 }

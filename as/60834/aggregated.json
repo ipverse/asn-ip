@@ -3,7 +3,9 @@
   "handle": "ROMANOVA",
   "description": "Individual Entrepreneur Romanova Svetlana Alexandrovna",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "62.76.15.0/24"
+    ],
     "ipv6": []
   }
 }

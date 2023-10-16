@@ -3,7 +3,9 @@
   "handle": "MILANDR",
   "description": "JSC ICC MILANDR",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.208.18.0/24"
+    ],
     "ipv6": []
   }
 }

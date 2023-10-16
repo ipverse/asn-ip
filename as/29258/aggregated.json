@@ -3,7 +3,10 @@
   "handle": "JETINFO",
   "description": "CJSC Jet Infosystems",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.203.100.0/23",
+      "194.87.88.0/23"
+    ],
     "ipv6": []
   }
 }

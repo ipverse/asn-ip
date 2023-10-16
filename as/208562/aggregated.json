@@ -4,6 +4,8 @@
   "description": "Thorsten Alteholz",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2001:678:ad8::/48"
+    ]
   }
 }

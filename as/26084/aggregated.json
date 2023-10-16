@@ -3,7 +3,9 @@
   "handle": "PCI",
   "description": "PCI",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "206.192.100.0/22"
+    ],
     "ipv6": []
   }
 }

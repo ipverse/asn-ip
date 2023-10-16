@@ -3,7 +3,10 @@
   "handle": "KIC",
   "description": "Korea Investment Corporation",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "61.108.163.0/24",
+      "220.65.225.0/24"
+    ],
     "ipv6": []
   }
 }

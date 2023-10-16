@@ -3,7 +3,9 @@
   "handle": "PE-NEO-CRAFT",
   "description": "PE NEO-CRAFT",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.0.157.0/24"
+    ],
     "ipv6": []
   }
 }

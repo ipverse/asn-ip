@@ -3,7 +3,9 @@
   "handle": "FURRERA",
   "description": "Furrera For Telecommunication \u0026 Internet Services Co. Private Shareholding Company",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.134.200.0/23"
+    ],
     "ipv6": []
   }
 }

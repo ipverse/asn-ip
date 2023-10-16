@@ -3,7 +3,9 @@
   "handle": "MOLINA",
   "description": "Molina Healthcare Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "74.116.8.0/22"
+    ],
     "ipv6": []
   }
 }

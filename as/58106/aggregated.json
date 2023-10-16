@@ -3,7 +3,9 @@
   "handle": "SCHUBRA",
   "description": "Schultze \u0026 Braun GmbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.39.150.0/24"
+    ],
     "ipv6": []
   }
 }

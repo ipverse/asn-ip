@@ -3,7 +3,11 @@
   "handle": "ASE",
   "description": "ACADEMIA DE STUDII ECONOMICE",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "37.120.248.0/22",
+      "193.226.34.0/24",
+      "193.226.62.0/24"
+    ],
     "ipv6": []
   }
 }

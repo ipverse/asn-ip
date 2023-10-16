@@ -3,7 +3,11 @@
   "handle": "LYNXXNETWORKS01",
   "description": "Lynxx Networks",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.45.220.0/22"
+    ],
+    "ipv6": [
+      "2603:b0a8::/32"
+    ]
   }
 }

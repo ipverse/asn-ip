@@ -3,7 +3,11 @@
   "handle": "SINALNET-COMUNICAES",
   "description": "SINALNET Comunicaes",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "131.72.100.0/22"
+    ],
+    "ipv6": [
+      "2804:1c48::/32"
+    ]
   }
 }

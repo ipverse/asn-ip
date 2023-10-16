@@ -3,7 +3,11 @@
   "handle": "INTUITIV",
   "description": "Intuitiv Ltd.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "212.70.64.0/20"
+    ],
+    "ipv6": [
+      "2a00:e0c0::/32"
+    ]
   }
 }

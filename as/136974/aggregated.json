@@ -3,7 +3,9 @@
   "handle": "TCSPVTLTD-AP",
   "description": "Technology Communications \u0026 Supplies (Private) Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.100.202.0/23"
+    ],
     "ipv6": []
   }
 }

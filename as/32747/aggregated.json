@@ -3,7 +3,9 @@
   "handle": "PLAYSPHERE",
   "description": "Atlantic Lottery Corporation",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "207.179.138.0/23"
+    ],
     "ipv6": []
   }
 }

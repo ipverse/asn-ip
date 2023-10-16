@@ -3,7 +3,9 @@
   "handle": "MIH",
   "description": "METINVEST HOLDING, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "83.218.234.0/23"
+    ],
     "ipv6": []
   }
 }

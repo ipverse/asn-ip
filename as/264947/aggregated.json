@@ -3,7 +3,11 @@
   "handle": "LUIZ-LIMA",
   "description": "LUIZ LIMA E CIA LTDA - ME",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "168.232.192.0/22"
+    ],
+    "ipv6": [
+      "2804:3060::/32"
+    ]
   }
 }

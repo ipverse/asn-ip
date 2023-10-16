@@ -3,7 +3,9 @@
   "handle": "FORTUNA",
   "description": "FORTUNA Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.227.28.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "GMI",
   "description": "GMI",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.115.31.0/24"
+    ],
     "ipv6": []
   }
 }

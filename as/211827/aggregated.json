@@ -3,7 +3,9 @@
   "handle": "BNPICT",
   "description": "Bram ten Dolle trading as V.O.F. BNP ICT",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.93.149.0/24"
+    ],
     "ipv6": []
   }
 }

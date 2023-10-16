@@ -3,7 +3,9 @@
   "handle": "LM-NET",
   "description": "LM NET LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "138.117.252.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,11 @@
   "handle": "CABONNET-INTERNET",
   "description": "CABONNET INTERNET LTDA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "177.185.160.0/20"
+    ],
+    "ipv6": [
+      "2804:b1c::/32"
+    ]
   }
 }

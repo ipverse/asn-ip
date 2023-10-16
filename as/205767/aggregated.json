@@ -3,7 +3,9 @@
   "handle": "SPECTRON-SERVICES",
   "description": "Spectron Services Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.211.172.0/22"
+    ],
     "ipv6": []
   }
 }

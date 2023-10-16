@@ -3,7 +3,9 @@
   "handle": "VICTORIABANK",
   "description": "CB VICTORIABANK JSC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.212.140.0/23"
+    ],
     "ipv6": []
   }
 }

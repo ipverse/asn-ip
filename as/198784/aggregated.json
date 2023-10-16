@@ -3,7 +3,9 @@
   "handle": "EASTERNPROPERTY",
   "description": "Eastern Property AG",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.0.172.0/22"
+    ],
     "ipv6": []
   }
 }

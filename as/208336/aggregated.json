@@ -3,7 +3,9 @@
   "handle": "BOJ",
   "description": "BANK OF JORDAN CO. LTD.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.17.53.0/24"
+    ],
     "ipv6": []
   }
 }

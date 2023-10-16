@@ -3,7 +3,10 @@
   "handle": "ERISHENNYA",
   "description": "TOV E-RISHENNYA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.143.201.0/24",
+      "185.193.89.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "NEXODIGITAL",
   "description": "NEXODIGITAL S.A.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.224.100.0/22"
+    ],
     "ipv6": []
   }
 }

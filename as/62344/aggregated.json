@@ -3,7 +3,9 @@
   "handle": "ITAR-TASS-AS2",
   "description": "ITAR-TASS State Enterprise",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.216.130.0/24"
+    ],
     "ipv6": []
   }
 }

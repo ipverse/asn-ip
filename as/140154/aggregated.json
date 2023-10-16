@@ -3,7 +3,9 @@
   "handle": "KPTL-IN",
   "description": "Kalpataru Power Transmission Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.149.124.0/23"
+    ],
     "ipv6": []
   }
 }

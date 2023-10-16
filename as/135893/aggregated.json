@@ -3,7 +3,13 @@
   "handle": "LATROBEUNIVERSITY-AP",
   "description": "La Trobe University",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "131.172.0.0/16",
+      "149.144.0.0/16",
+      "203.27.11.0/24"
+    ],
+    "ipv6": [
+      "2400:13c0::/32"
+    ]
   }
 }

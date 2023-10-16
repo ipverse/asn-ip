@@ -3,7 +3,10 @@
   "handle": "TELCO214US1",
   "description": "Telco 214, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "66.194.38.0/24",
+      "168.215.155.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "GMOBILENET-MN",
   "description": "Gmobilenet Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.14.36.0/22"
+    ],
     "ipv6": []
   }
 }

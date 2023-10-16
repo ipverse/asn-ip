@@ -3,7 +3,9 @@
   "handle": "RAVANA2",
   "description": "mailXpert GmbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.233.182.0/24"
+    ],
     "ipv6": []
   }
 }

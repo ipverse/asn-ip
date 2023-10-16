@@ -3,7 +3,9 @@
   "handle": "VALLE-TELECOMUNICACIONES",
   "description": "VALLE TELECOMUNICACIONES SAS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "177.73.152.0/23"
+    ],
     "ipv6": []
   }
 }

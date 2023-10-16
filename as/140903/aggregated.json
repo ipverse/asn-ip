@@ -3,7 +3,9 @@
   "handle": "CHINANET-HEBEI-BAODING-MAN",
   "description": "China Telecom",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "114.111.16.0/20"
+    ],
     "ipv6": []
   }
 }

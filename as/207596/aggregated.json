@@ -3,7 +3,9 @@
   "handle": "CYBERGROUP",
   "description": "OrbiTech SIA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "94.232.252.0/22"
+    ],
     "ipv6": []
   }
 }

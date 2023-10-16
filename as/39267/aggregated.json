@@ -3,7 +3,10 @@
   "handle": "KOLTSOURALA",
   "description": "Credit Bank of Moscow JSC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.64.209.0/24",
+      "195.182.28.0/24"
+    ],
     "ipv6": []
   }
 }

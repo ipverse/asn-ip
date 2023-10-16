@@ -3,7 +3,9 @@
   "handle": "ACME-AP",
   "description": "ACME Universal Development Company",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "202.51.128.0/19"
+    ],
     "ipv6": []
   }
 }

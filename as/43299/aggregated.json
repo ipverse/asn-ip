@@ -3,7 +3,11 @@
   "handle": "TELECONTACT",
   "description": "Limited Company Telecontact",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "78.40.24.0/21"
+    ],
+    "ipv6": [
+      "2a07:e740::/29"
+    ]
   }
 }

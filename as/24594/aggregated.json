@@ -3,7 +3,12 @@
   "handle": "FSYS",
   "description": "Voiceflex Ltd",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "93.95.120.0/21",
+      "185.120.52.0/22"
+    ],
+    "ipv6": [
+      "2a00:d68::/32"
+    ]
   }
 }

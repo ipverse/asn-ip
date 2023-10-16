@@ -3,7 +3,11 @@
   "handle": "CUIAB-TELECOM",
   "description": "Cuiab Telecom",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "181.189.40.0/22"
+    ],
+    "ipv6": [
+      "2804:7b30::/32"
+    ]
   }
 }

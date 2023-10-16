@@ -3,7 +3,9 @@
   "handle": "ASIZBERBASH",
   "description": "PE Aliev Magomed Kadievich",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "176.98.128.0/19"
+    ],
     "ipv6": []
   }
 }

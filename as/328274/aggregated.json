@@ -3,7 +3,9 @@
   "handle": "BBID1",
   "description": "BIM - Banco Internacional de Mocambique, SA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "102.176.248.0/23"
+    ],
     "ipv6": []
   }
 }

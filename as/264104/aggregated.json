@@ -3,7 +3,9 @@
   "handle": "ICARO-OLIVEIRA-CUNHA",
   "description": "ICARO OLIVEIRA DA CUNHA - ME",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "138.59.184.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,12 @@
   "handle": "GROUPE-SERVEUR",
   "description": "Groupe Serveur SAS",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "185.14.180.0/22",
+      "194.242.43.0/24"
+    ],
+    "ipv6": [
+      "2a03:b6c0::/32"
+    ]
   }
 }

@@ -3,7 +3,9 @@
   "handle": "TWO-MONKEYS",
   "description": "Two Monkeys LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "23.161.232.0/24"
+    ],
     "ipv6": []
   }
 }

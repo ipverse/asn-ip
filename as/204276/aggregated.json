@@ -3,7 +3,9 @@
   "handle": "EUTELSAT",
   "description": "Eutelsat Networks LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.108.192.0/22"
+    ],
     "ipv6": []
   }
 }

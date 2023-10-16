@@ -3,7 +3,9 @@
   "handle": "FR-INFODESCA",
   "description": "INFODESCA SARL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "109.73.136.0/22"
+    ],
     "ipv6": []
   }
 }

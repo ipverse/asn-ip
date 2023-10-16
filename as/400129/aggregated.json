@@ -3,7 +3,11 @@
   "handle": "GMI",
   "description": "Graphic Magic, Inc.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.59.159.0/24"
+    ],
+    "ipv6": [
+      "2602:fc10::/36"
+    ]
   }
 }

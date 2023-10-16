@@ -3,7 +3,10 @@
   "handle": "SCANSAFE",
   "description": "Cisco OpenDNS, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "155.190.249.0/24",
+      "198.41.12.0/24"
+    ],
     "ipv6": []
   }
 }

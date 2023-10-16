@@ -1,9 +1,10 @@
 {
   "asn": 396831,
-  "handle": "QG-MORTONGROVE",
-  "description": "QUANTUM COLOR GRAPHICS, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "12.23.198.0/24",
+      "50.171.142.0/24"
+    ],
     "ipv6": []
   }
 }

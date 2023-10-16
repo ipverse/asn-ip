@@ -3,7 +3,10 @@
   "handle": "PSM",
   "description": "Pulawska Spoldzielnia Mieszkaniowa",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "82.177.224.0/20",
+      "93.175.160.0/20"
+    ],
     "ipv6": []
   }
 }

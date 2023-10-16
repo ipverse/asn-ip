@@ -3,7 +3,11 @@
   "handle": "RCO",
   "description": "Regionalni centrum Olomouc s.r.o.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "94.124.184.0/21"
+    ],
+    "ipv6": [
+      "2a03:9780::/32"
+    ]
   }
 }

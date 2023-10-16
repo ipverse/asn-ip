@@ -3,7 +3,10 @@
   "handle": "CRISPENT",
   "description": "Crisp Enterprises",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.146.110.0/23",
+      "103.160.199.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "SIBIU",
   "description": "Primaria Municipiului Sibiu",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.186.10.0/24"
+    ],
     "ipv6": []
   }
 }

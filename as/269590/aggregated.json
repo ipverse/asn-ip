@@ -3,7 +3,9 @@
   "handle": "MK-TECNOLOGIA-SEGURANCA",
   "description": "MK TECNOLOGIA E SEGURANCA LTDA ME",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.189.136.0/22"
+    ],
     "ipv6": []
   }
 }

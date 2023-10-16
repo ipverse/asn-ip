@@ -3,7 +3,9 @@
   "handle": "PTE-AP",
   "description": "PTE Group Co., Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.80.48.0/22"
+    ],
     "ipv6": []
   }
 }

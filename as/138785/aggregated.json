@@ -3,7 +3,9 @@
   "handle": "INFYBPM-IN",
   "description": "Infosys BPM Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.138.132.0/23"
+    ],
     "ipv6": []
   }
 }

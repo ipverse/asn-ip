@@ -3,7 +3,9 @@
   "handle": "DZ7-MULTIMDIA",
   "description": "DZ7 Multimdia Ltda",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "179.51.216.0/22"
+    ],
     "ipv6": []
   }
 }

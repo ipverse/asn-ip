@@ -3,7 +3,9 @@
   "handle": "PBPLPN-AP",
   "description": "Port of Brisbane Pty Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.102.105.0/24"
+    ],
     "ipv6": []
   }
 }

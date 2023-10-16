@@ -3,7 +3,9 @@
   "handle": "EXIM",
   "description": "TURKIYE IHRACAT KREDI BANKASI A.S.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "213.74.102.0/24"
+    ],
     "ipv6": []
   }
 }

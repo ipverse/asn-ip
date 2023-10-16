@@ -3,7 +3,10 @@
   "handle": "CSNET",
   "description": "Communications Security Net B.V.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.91.68.0/22",
+      "194.69.16.0/20"
+    ],
     "ipv6": []
   }
 }

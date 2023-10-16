@@ -3,7 +3,9 @@
   "handle": "EUROPSYS",
   "description": "Europsys S.r.l.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.146.164.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "HS",
   "description": "Hallmark Sweet, INC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.146.59.0/24"
+    ],
     "ipv6": []
   }
 }

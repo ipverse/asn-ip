@@ -3,7 +3,10 @@
   "handle": "INTERNET-MULTIHOMING",
   "description": "Fugro (USA), INC.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "66.194.80.0/24",
+      "199.187.15.0/24"
+    ],
     "ipv6": []
   }
 }

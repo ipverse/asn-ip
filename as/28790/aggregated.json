@@ -3,7 +3,9 @@
   "handle": "MEGABANK",
   "description": "MEGABANK PJSC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.46.59.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "TECNOLOGIA-BANCARIA",
   "description": "TECNOLOGIA BANCARIA S/A",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "177.73.144.0/22"
+    ],
     "ipv6": []
   }
 }

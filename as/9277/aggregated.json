@@ -3,7 +3,9 @@
   "handle": "SKB-T",
   "description": "SK Broadband Co Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "1.224.0.0/20"
+    ],
     "ipv6": []
   }
 }

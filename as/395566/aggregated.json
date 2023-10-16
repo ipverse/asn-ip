@@ -3,7 +3,9 @@
   "handle": "OMNI",
   "description": "Orbital Media Networks, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "216.117.240.0/21"
+    ],
     "ipv6": []
   }
 }

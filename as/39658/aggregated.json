@@ -3,7 +3,12 @@
   "handle": "SCB",
   "description": "Statistics Sweden",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "193.180.124.0/24",
+      "194.50.107.0/24"
+    ],
+    "ipv6": [
+      "2a01:9080::/32"
+    ]
   }
 }

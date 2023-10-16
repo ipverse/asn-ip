@@ -3,7 +3,9 @@
   "handle": "SAFETEL",
   "description": "Safetel LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.104.248.0/24"
+    ],
     "ipv6": []
   }
 }

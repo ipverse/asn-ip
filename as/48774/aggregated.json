@@ -3,7 +3,9 @@
   "handle": "GEN-ENERGIJA-SI",
   "description": "Gen energija d.o.o.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.59.182.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "NYT",
   "description": "New Transport Company Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.227.198.0/24"
+    ],
     "ipv6": []
   }
 }

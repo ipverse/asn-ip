@@ -3,7 +3,12 @@
   "handle": "KSI-UAJY-ID",
   "description": "Kantor Sistem Informasi Universitas Atma Jaya Yogyakarta",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "103.60.234.0/23",
+      "202.14.92.0/23"
+    ],
+    "ipv6": [
+      "2400:dbe0::/32"
+    ]
   }
 }

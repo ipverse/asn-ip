@@ -3,7 +3,10 @@
   "handle": "MYSOL-PK",
   "description": "My Solutions Corporation Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "202.44.90.0/23",
+      "202.44.94.0/24"
+    ],
     "ipv6": []
   }
 }

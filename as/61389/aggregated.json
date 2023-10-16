@@ -3,7 +3,10 @@
   "handle": "RARTEL",
   "description": "RARTEL SA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "89.42.15.0/24",
+      "92.55.150.0/24"
+    ],
     "ipv6": []
   }
 }

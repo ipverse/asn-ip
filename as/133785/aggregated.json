@@ -3,7 +3,9 @@
   "handle": "KNZL-AP",
   "description": "KeepItSafe New Zealand Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.42.190.0/24"
+    ],
     "ipv6": []
   }
 }

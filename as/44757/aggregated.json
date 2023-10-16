@@ -3,7 +3,9 @@
   "handle": "GLOBAL-BLUE-GROUP",
   "description": "Global Blue Holdings Aktiebolag",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.177.228.0/23"
+    ],
     "ipv6": []
   }
 }

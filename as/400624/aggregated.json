@@ -3,7 +3,9 @@
   "handle": "AMS-FTC",
   "description": "HEWLETT PACKARD ENTERPRISE COMPANY",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "16.7.4.0/22"
+    ],
     "ipv6": []
   }
 }

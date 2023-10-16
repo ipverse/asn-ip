@@ -3,7 +3,9 @@
   "handle": "CONECTWAVE-SERVIOS-INTERNET",
   "description": "Conectwave Servios e Internet Ltda",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "177.124.104.0/22"
+    ],
     "ipv6": []
   }
 }

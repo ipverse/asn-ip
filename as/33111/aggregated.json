@@ -3,7 +3,9 @@
   "handle": "CALIX-PACIFIC",
   "description": "Calix, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.111.8.0/22"
+    ],
     "ipv6": []
   }
 }

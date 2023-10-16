@@ -3,7 +3,9 @@
   "handle": "IDNIC-ANCITA-ID",
   "description": "PT ANUGERAH CIPTA TARAPTI",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.56.136.0/24"
+    ],
     "ipv6": []
   }
 }

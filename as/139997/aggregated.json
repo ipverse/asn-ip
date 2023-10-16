@@ -3,7 +3,9 @@
   "handle": "WORTEL-ID",
   "description": "PT Wortel",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.148.200.0/23"
+    ],
     "ipv6": []
   }
 }

@@ -4,6 +4,9 @@
   "description": "Albin Hakanson",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2001:67c:a50::/48",
+      "2a0e:b107:5c0::/48"
+    ]
   }
 }

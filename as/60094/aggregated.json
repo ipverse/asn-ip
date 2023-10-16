@@ -3,7 +3,11 @@
   "handle": "REDBRIDGE",
   "description": "RedBridge AB",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "185.53.164.0/22"
+    ],
+    "ipv6": [
+      "2a02:4020::/48"
+    ]
   }
 }

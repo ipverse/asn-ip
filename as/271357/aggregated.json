@@ -3,7 +3,11 @@
   "handle": "FIBRA-DIGITAL-TELECOM-EIRELI",
   "description": "fibra digital Telecom eireli",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "177.124.108.0/23"
+    ],
+    "ipv6": [
+      "2804:7a3c::/32"
+    ]
   }
 }

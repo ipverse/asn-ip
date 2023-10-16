@@ -3,7 +3,12 @@
   "handle": "PROVEDOR-ACTION",
   "description": "PROVEDOR ACTION",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "143.137.160.0/22",
+      "170.246.224.0/22"
+    ],
+    "ipv6": [
+      "2804:2a04::/32"
+    ]
   }
 }

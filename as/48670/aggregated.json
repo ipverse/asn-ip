@@ -3,7 +3,11 @@
   "handle": "UNIS",
   "description": "UNIS Ltd.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "94.230.160.0/20"
+    ],
+    "ipv6": [
+      "2a00:e9e0::/32"
+    ]
   }
 }

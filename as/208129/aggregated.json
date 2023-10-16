@@ -3,7 +3,9 @@
   "handle": "INETKO",
   "description": "LLC LTDNET",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.153.94.0/24"
+    ],
     "ipv6": []
   }
 }

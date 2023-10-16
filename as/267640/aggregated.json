@@ -3,7 +3,9 @@
   "handle": "DIEGO-JOSE-MAUSSON",
   "description": "DIEGO JOSE MAUSSON - ME",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.71.248.0/22"
+    ],
     "ipv6": []
   }
 }

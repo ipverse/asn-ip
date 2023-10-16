@@ -3,7 +3,9 @@
   "handle": "ORCL-EMEA",
   "description": "Oracle Svenska AB",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "143.47.192.0/18"
+    ],
     "ipv6": []
   }
 }

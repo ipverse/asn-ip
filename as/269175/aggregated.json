@@ -3,7 +3,11 @@
   "handle": "SECRETARIA-MUNICIPAL-PLANEJAMENTO",
   "description": "SECRETARIA MUNICIPAL DE PLANEJAMENTO ORCAMENTO E G",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.181.92.0/22"
+    ],
+    "ipv6": [
+      "2804:1f4c::/32"
+    ]
   }
 }

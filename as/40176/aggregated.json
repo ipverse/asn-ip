@@ -3,7 +3,9 @@
   "handle": "DATA-SUBSYSTEMS-INC",
   "description": "Data Subsystems Inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "208.76.48.0/22"
+    ],
     "ipv6": []
   }
 }

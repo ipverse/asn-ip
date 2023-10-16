@@ -3,7 +3,9 @@
   "handle": "WARBA",
   "description": "Warba Bank (KSC)",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.230.213.0/24"
+    ],
     "ipv6": []
   }
 }

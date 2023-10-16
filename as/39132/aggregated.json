@@ -3,7 +3,9 @@
   "handle": "SWISSGRID",
   "description": "Swissgrid AG",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "83.137.72.0/21"
+    ],
     "ipv6": []
   }
 }

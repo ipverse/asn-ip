@@ -3,7 +3,11 @@
   "handle": "REDE-CONECTA-TELECOM",
   "description": "REDE CONECTA TELECOM",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.225.176.0/22"
+    ],
+    "ipv6": [
+      "2804:45d0::/32"
+    ]
   }
 }

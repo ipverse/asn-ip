@@ -3,7 +3,12 @@
   "handle": "RU-KSTV",
   "description": "CJSC Kolomna-Sviaz TV",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "5.42.0.0/18",
+      "5.42.96.0/19",
+      "78.25.128.0/18",
+      "217.196.104.0/21"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "KIWOOM",
   "description": "kiwoom Securities.co.,Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "210.92.16.0/24"
+    ],
     "ipv6": []
   }
 }

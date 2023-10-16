@@ -3,7 +3,9 @@
   "handle": "FREICONHB",
   "description": "LWLcom GmbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.151.243.0/24"
+    ],
     "ipv6": []
   }
 }

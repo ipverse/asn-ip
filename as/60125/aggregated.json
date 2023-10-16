@@ -3,7 +3,9 @@
   "handle": "EUROINS",
   "description": "Euroins Romania Asigurare Reasigurare SA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "89.35.113.0/24"
+    ],
     "ipv6": []
   }
 }

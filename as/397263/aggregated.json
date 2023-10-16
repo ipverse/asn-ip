@@ -3,7 +3,11 @@
   "handle": "TECHLOQ-US",
   "description": "Techloq Limited",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "204.128.182.0/24"
+    ],
+    "ipv6": [
+      "2620:8e:2000::/48"
+    ]
   }
 }

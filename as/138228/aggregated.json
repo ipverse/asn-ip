@@ -3,7 +3,13 @@
   "handle": "RUHIIINFO-IN",
   "description": "RUHI INFOTECH",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "103.126.68.0/23",
+      "103.126.70.0/24",
+      "103.182.112.0/24"
+    ],
+    "ipv6": [
+      "2001:df2:bac0::/48"
+    ]
   }
 }

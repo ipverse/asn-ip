@@ -3,7 +3,9 @@
   "handle": "TPLLC-NJ",
   "description": "Third Point LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.96.105.0/24"
+    ],
     "ipv6": []
   }
 }

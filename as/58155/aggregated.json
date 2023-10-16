@@ -3,7 +3,9 @@
   "handle": "WEBDEPO",
   "description": "Web Depo Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.61.67.0/24"
+    ],
     "ipv6": []
   }
 }

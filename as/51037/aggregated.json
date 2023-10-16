@@ -3,7 +3,9 @@
   "handle": "CDKTELECOM",
   "description": "Infoservice Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "178.249.64.0/22"
+    ],
     "ipv6": []
   }
 }

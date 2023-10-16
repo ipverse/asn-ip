@@ -3,7 +3,10 @@
   "handle": "LURENET",
   "description": "PP Lurenet",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.39.240.0/24",
+      "195.191.200.0/23"
+    ],
     "ipv6": []
   }
 }

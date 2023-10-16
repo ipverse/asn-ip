@@ -3,7 +3,9 @@
   "handle": "NRWCONTRACTNET-AP",
   "description": "NRW CONTRACTING PTY LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "203.185.190.0/24"
+    ],
     "ipv6": []
   }
 }

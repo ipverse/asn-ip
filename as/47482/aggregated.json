@@ -3,7 +3,9 @@
   "handle": "SPECTRE",
   "description": "Spectre Operations B.V.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.66.32.0/22"
+    ],
     "ipv6": []
   }
 }

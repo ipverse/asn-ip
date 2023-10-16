@@ -3,7 +3,9 @@
   "handle": "ADVANCEDDATACENTRES-NZ",
   "description": "Advanced Data Centres Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "202.52.152.0/24"
+    ],
     "ipv6": []
   }
 }

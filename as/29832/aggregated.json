@@ -3,7 +3,9 @@
   "handle": "METTLER-TOLEDO-AM-NOC",
   "description": "Mettler-Toledo LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "208.85.168.0/22"
+    ],
     "ipv6": []
   }
 }

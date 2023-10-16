@@ -3,7 +3,9 @@
   "handle": "MMC-NOV2011",
   "description": "Maimonides Medical Center",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "216.134.176.0/20"
+    ],
     "ipv6": []
   }
 }

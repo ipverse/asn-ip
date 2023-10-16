@@ -3,7 +3,10 @@
   "handle": "PSFT-INC",
   "description": "Oracle Corporation",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "160.34.106.0/24",
+      "216.131.128.0/18"
+    ],
     "ipv6": []
   }
 }

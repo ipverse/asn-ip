@@ -3,7 +3,11 @@
   "handle": "HMNS",
   "description": "Houston Museum of Natural Science",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "192.44.70.0/24"
+    ],
+    "ipv6": [
+      "2620:89:c000::/48"
+    ]
   }
 }

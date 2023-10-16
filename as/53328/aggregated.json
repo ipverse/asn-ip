@@ -3,7 +3,9 @@
   "handle": "RYDIN-ASN-01",
   "description": "Rydin",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "123.100.232.0/24"
+    ],
     "ipv6": []
   }
 }

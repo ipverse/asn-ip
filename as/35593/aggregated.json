@@ -3,7 +3,10 @@
   "handle": "UNIWEB",
   "description": "UniWeb bvba",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "85.119.184.0/22",
+      "185.106.236.0/22"
+    ],
     "ipv6": []
   }
 }

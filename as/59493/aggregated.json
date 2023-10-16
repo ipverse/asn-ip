@@ -3,7 +3,11 @@
   "handle": "MIMIC",
   "description": "MIMIC Ltd",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "185.247.204.0/22"
+    ],
+    "ipv6": [
+      "2a0d:cc80::/29"
+    ]
   }
 }

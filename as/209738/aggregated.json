@@ -3,7 +3,9 @@
   "handle": "IONFIBRE",
   "description": "CURVE INFORMATION TECHNOLOGY LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.226.86.0/23"
+    ],
     "ipv6": []
   }
 }

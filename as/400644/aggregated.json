@@ -4,6 +4,8 @@
   "description": "BGPKIT LLC",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2620:aa:a000::/48"
+    ]
   }
 }

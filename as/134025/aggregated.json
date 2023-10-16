@@ -3,7 +3,9 @@
   "handle": "DATACT-IN",
   "description": "Data Cloud Technologies",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.149.70.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "AH-PROVEDOR-TELECOM",
   "description": "AH PROVEDOR TELECOM",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.227.104.0/22"
+    ],
     "ipv6": []
   }
 }

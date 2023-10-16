@@ -3,7 +3,9 @@
   "handle": "IMCTC",
   "description": "Islamic Military Counter Terrorism Coalition",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "82.197.37.0/24"
+    ],
     "ipv6": []
   }
 }

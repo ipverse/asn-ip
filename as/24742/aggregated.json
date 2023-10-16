@@ -3,7 +3,9 @@
   "handle": "APAKGROUP",
   "description": "APAK Group Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "62.77.0.0/19"
+    ],
     "ipv6": []
   }
 }

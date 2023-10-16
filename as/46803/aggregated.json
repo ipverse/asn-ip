@@ -3,7 +3,9 @@
   "handle": "GTCR-300NL-1",
   "description": "GTCR Golder Rauner, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "12.129.172.0/24"
+    ],
     "ipv6": []
   }
 }

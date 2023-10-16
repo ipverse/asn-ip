@@ -3,7 +3,11 @@
   "handle": "L-COSTA-SILVA-COMUNICACOES",
   "description": "L DA COSTA SILVA COMUNICACOES",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.179.116.0/22"
+    ],
+    "ipv6": [
+      "2804:5f18::/32"
+    ]
   }
 }

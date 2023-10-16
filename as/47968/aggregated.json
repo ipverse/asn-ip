@@ -3,7 +3,9 @@
   "handle": "DELOVAYA-SVYAZ",
   "description": "Delovaya Svyaz Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "83.69.255.0/24"
+    ],
     "ipv6": []
   }
 }

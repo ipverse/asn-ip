@@ -3,7 +3,9 @@
   "handle": "ASPHONEPULSE",
   "description": "Phone Pulse Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.124.204.0/22"
+    ],
     "ipv6": []
   }
 }

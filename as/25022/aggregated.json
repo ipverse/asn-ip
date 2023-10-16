@@ -3,7 +3,9 @@
   "handle": "TDMGROUP",
   "description": "TDM Group Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "81.89.128.0/20"
+    ],
     "ipv6": []
   }
 }

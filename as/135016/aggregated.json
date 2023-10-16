@@ -3,7 +3,9 @@
   "handle": "REECE-AP",
   "description": "Reece Australia Pty LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.252.8.0/23"
+    ],
     "ipv6": []
   }
 }

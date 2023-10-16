@@ -3,7 +3,9 @@
   "handle": "RCS",
   "description": "JSC RCS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.223.212.0/24"
+    ],
     "ipv6": []
   }
 }

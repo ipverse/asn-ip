@@ -3,7 +3,9 @@
   "handle": "PENRITHCC-AP",
   "description": "Penrith City Council",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "203.21.134.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "SSC",
   "description": "SS\u0026C Solution Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "204.237.253.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "DRONAGIRI",
   "description": "Dronagiri Infotech Pvt Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.100.76.0/22"
+    ],
     "ipv6": []
   }
 }

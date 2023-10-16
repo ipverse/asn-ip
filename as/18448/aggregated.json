@@ -3,7 +3,9 @@
   "handle": "GIANTEAGLE",
   "description": "GIANT EAGLE, INC.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "168.100.178.0/23"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "REDMAX",
   "description": "REDMAX IT SOLUTIONS LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "94.46.238.0/24"
+    ],
     "ipv6": []
   }
 }

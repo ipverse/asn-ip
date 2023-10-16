@@ -3,7 +3,11 @@
   "handle": "ESPIX",
   "description": "Espix Network SPRL",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "193.30.167.0/24"
+    ],
+    "ipv6": [
+      "2a0a:31c0::/29"
+    ]
   }
 }

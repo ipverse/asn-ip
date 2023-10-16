@@ -3,7 +3,9 @@
   "handle": "FIBRETECH",
   "description": "Fibre Tech SA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.189.212.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "HUBWOOSA",
   "description": "PROACTIS SA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.8.224.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -4,6 +4,8 @@
   "description": "Starplanet Technovision Private Limited",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2405:e100:1f::/48"
+    ]
   }
 }

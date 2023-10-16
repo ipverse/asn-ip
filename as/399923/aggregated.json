@@ -3,7 +3,9 @@
   "handle": "CAMBRIAN-01",
   "description": "Cambrian Credit Union Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "205.200.224.0/24"
+    ],
     "ipv6": []
   }
 }

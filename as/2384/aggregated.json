@@ -3,7 +3,10 @@
   "handle": "AOCNET",
   "description": "Architect of the Capitol",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "161.197.0.0/16",
+      "192.136.24.0/24"
+    ],
     "ipv6": []
   }
 }

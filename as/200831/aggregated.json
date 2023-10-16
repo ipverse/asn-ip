@@ -3,7 +3,11 @@
   "handle": "MIHOSNET",
   "description": "Savvii B.V.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "31.24.160.0/21"
+    ],
+    "ipv6": [
+      "2a02:4600::/32"
+    ]
   }
 }

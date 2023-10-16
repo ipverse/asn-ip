@@ -3,7 +3,9 @@
   "handle": "ONDECK-NYCOFFICE",
   "description": "Enova International, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "64.35.11.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,10 @@
   "handle": "USSCO",
   "description": "Essendant Co.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "74.115.190.0/23",
+      "162.253.92.0/22"
+    ],
     "ipv6": []
   }
 }

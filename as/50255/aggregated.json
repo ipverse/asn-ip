@@ -3,7 +3,9 @@
   "handle": "LITECOM",
   "description": "LITECOM AG",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.79.252.0/22"
+    ],
     "ipv6": []
   }
 }

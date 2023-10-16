@@ -3,7 +3,11 @@
   "handle": "PRIZZTEL",
   "description": "PRIZZ TELECOM SAS",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "193.22.15.0/24"
+    ],
+    "ipv6": [
+      "2a10:db40::/29"
+    ]
   }
 }

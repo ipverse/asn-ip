@@ -3,7 +3,11 @@
   "handle": "CONVO-DAL",
   "description": "Convo",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "8.39.223.0/24"
+    ],
+    "ipv6": [
+      "2620:12:2000::/48"
+    ]
   }
 }

@@ -3,7 +3,9 @@
   "handle": "DISTINGUISHED-SERVICES",
   "description": "Distinguished Services",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.70.193.0/24"
+    ],
     "ipv6": []
   }
 }

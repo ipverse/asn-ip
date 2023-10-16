@@ -3,7 +3,9 @@
   "handle": "STRATEGIC-RESPONSE-SYSTEMS",
   "description": "Strategic Response Systems",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "162.211.188.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,10 @@
   "handle": "CERNET",
   "description": "California Education and Research Federation Network",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "12.130.96.0/19",
+      "199.106.160.0/21"
+    ],
     "ipv6": []
   }
 }

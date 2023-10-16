@@ -3,7 +3,9 @@
   "handle": "KOREKONTROL",
   "description": "KoreKontrol Germany GmbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.153.80.0/24"
+    ],
     "ipv6": []
   }
 }

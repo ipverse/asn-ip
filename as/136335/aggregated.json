@@ -3,7 +3,9 @@
   "handle": "MTEL",
   "description": "Mtel Networks Private Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.88.128.0/22"
+    ],
     "ipv6": []
   }
 }

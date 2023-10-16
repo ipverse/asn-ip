@@ -3,7 +3,12 @@
   "handle": "EAM",
   "description": "ASPA CLOUD SL",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "5.181.44.0/22",
+      "185.5.124.0/22"
+    ],
+    "ipv6": [
+      "2a03:1c0::/32"
+    ]
   }
 }

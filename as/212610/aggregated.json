@@ -3,7 +3,10 @@
   "handle": "AS12CONNECTEVENTS",
   "description": "12Connect Events B.V.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "109.71.108.0/24",
+      "109.71.110.0/23"
+    ],
     "ipv6": []
   }
 }

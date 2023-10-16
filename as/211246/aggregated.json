@@ -3,7 +3,9 @@
   "handle": "INTERION",
   "description": "LLC Interion",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.232.235.0/24"
+    ],
     "ipv6": []
   }
 }

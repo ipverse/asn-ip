@@ -3,7 +3,9 @@
   "handle": "SUMITA-TELECOMUNICACOES",
   "description": "SUMITA TELECOMUNICACOES LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "201.182.228.0/22"
+    ],
     "ipv6": []
   }
 }

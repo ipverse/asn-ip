@@ -3,7 +3,9 @@
   "handle": "CVT-TELECOMUNICACIONES-LIMITADA",
   "description": "CVT TELECOMUNICACIONES LIMITADA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "131.0.111.0/24"
+    ],
     "ipv6": []
   }
 }

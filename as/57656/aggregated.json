@@ -3,7 +3,12 @@
   "handle": "ALTIA",
   "description": "ALTIA CONSULTORES S.A.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "176.58.8.0/21",
+      "185.197.200.0/22"
+    ],
+    "ipv6": [
+      "2a0a:7dc0::/29"
+    ]
   }
 }

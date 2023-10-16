@@ -3,7 +3,9 @@
   "handle": "CASTLE-HARLAN",
   "description": "Castle Harlan",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "63.237.147.0/24"
+    ],
     "ipv6": []
   }
 }

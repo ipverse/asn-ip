@@ -3,7 +3,11 @@
   "handle": "MF-JPNAP-WEST",
   "description": "INTERNET MULTIFEED CO.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "218.100.45.0/24"
+    ],
+    "ipv6": [
+      "2406:e240::/32"
+    ]
   }
 }

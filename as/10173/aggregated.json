@@ -3,7 +3,9 @@
   "handle": "KSNET",
   "description": "KSNET.Inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "210.181.28.0/23"
+    ],
     "ipv6": []
   }
 }

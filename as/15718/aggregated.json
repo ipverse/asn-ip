@@ -3,7 +3,9 @@
   "handle": "TESSERAKT-UK",
   "description": "Tesserakt Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.115.152.0/22"
+    ],
     "ipv6": []
   }
 }

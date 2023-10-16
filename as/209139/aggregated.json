@@ -3,7 +3,9 @@
   "handle": "SAFEBEAT",
   "description": "Safebeat LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "141.105.137.0/24"
+    ],
     "ipv6": []
   }
 }

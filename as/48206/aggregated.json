@@ -3,7 +3,9 @@
   "handle": "NETPRO",
   "description": "Net Pro sarl",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.142.40.0/22"
+    ],
     "ipv6": []
   }
 }

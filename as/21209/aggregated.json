@@ -3,7 +3,9 @@
   "handle": "MKB",
   "description": "MKB Uzemeltetesi Kft.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "213.253.215.0/24"
+    ],
     "ipv6": []
   }
 }

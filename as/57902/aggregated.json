@@ -3,7 +3,12 @@
   "handle": "METROOPTIC",
   "description": "Metro Optic SAS",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "185.74.40.0/22",
+      "185.87.228.0/22"
+    ],
+    "ipv6": [
+      "2a05:4680::/29"
+    ]
   }
 }

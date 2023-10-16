@@ -3,7 +3,9 @@
   "handle": "SPEED-TELECOM",
   "description": "SPEED TELECOM",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.180.168.0/22"
+    ],
     "ipv6": []
   }
 }

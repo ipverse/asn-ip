@@ -3,7 +3,9 @@
   "handle": "DEFO",
   "description": "DEFO-St. Petersburg Limited Liability Company",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "80.73.193.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "WINSONIC",
   "description": "WinSonic Digital Cable Systems Network, Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.147.48.0/21"
+    ],
     "ipv6": []
   }
 }

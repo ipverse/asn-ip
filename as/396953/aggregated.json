@@ -3,7 +3,9 @@
   "handle": "GRUNDY-IP-TRANSPORT",
   "description": "Grundy IP Transport Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "208.103.190.0/24"
+    ],
     "ipv6": []
   }
 }

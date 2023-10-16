@@ -3,7 +3,11 @@
   "handle": "UPVC-INTERNET-CONQUISTA",
   "description": "UPVC INTERNET CONQUISTA LTDA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "181.189.108.0/22"
+    ],
+    "ipv6": [
+      "2804:7a78::/32"
+    ]
   }
 }

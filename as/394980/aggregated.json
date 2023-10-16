@@ -3,7 +3,9 @@
   "handle": "VAKIFBANK-NY",
   "description": "Turkiye Vakiflar Bankasi T.A.O.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.125.13.0/24"
+    ],
     "ipv6": []
   }
 }

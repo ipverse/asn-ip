@@ -3,7 +3,10 @@
   "handle": "WIDLS",
   "description": "Riccardo Gori",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.165.124.0/22",
+      "185.197.140.0/22"
+    ],
     "ipv6": []
   }
 }

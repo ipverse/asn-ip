@@ -3,7 +3,10 @@
   "handle": "BUSINESS-WIRE-NY",
   "description": "Business Wire",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "8.42.25.0/24",
+      "204.8.174.0/23"
+    ],
     "ipv6": []
   }
 }

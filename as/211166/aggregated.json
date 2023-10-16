@@ -3,7 +3,9 @@
   "handle": "ASSERIZYWEB",
   "description": "Serizy WEB HOSTING Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.34.101.0/24"
+    ],
     "ipv6": []
   }
 }

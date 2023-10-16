@@ -3,7 +3,10 @@
   "handle": "TIERP",
   "description": "TierPoint, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "162.216.52.0/24",
+      "208.67.126.0/24"
+    ],
     "ipv6": []
   }
 }

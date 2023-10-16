@@ -3,7 +3,9 @@
   "handle": "HDISIGORTA",
   "description": "HDI Sigorta AS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "79.99.176.0/24"
+    ],
     "ipv6": []
   }
 }

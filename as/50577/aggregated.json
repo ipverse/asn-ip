@@ -3,7 +3,10 @@
   "handle": "INTELSC",
   "description": "Intelsc Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "188.191.160.0/21",
+      "195.191.158.0/23"
+    ],
     "ipv6": []
   }
 }

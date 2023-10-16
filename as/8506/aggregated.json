@@ -3,7 +3,9 @@
   "handle": "INSTITUTION-OF-RUSSIAN",
   "description": "Institution of Russian Science Academy of Irkutsk Scientific Centre of Siberian Department of RAN",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "84.237.16.0/20"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,11 @@
   "handle": "PINGEX",
   "description": "Raphael Naas",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "62.204.43.0/24"
+    ],
+    "ipv6": [
+      "2001:67c:2eb4::/48"
+    ]
   }
 }

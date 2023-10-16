@@ -3,7 +3,9 @@
   "handle": "PWA-TH",
   "description": "Provincial Waterworks Authority",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "110.76.152.0/22"
+    ],
     "ipv6": []
   }
 }

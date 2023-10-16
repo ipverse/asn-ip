@@ -3,7 +3,9 @@
   "handle": "MONTECRISTI-CABLE-VISION",
   "description": "MONTECRISTI CABLE VISION, SRL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "190.123.76.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "IEL-US-01",
   "description": "Integrity Express Logistics, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "170.39.202.0/24"
+    ],
     "ipv6": []
   }
 }

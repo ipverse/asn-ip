@@ -3,7 +3,11 @@
   "handle": "DM-AUTO",
   "description": "DM AUTO EOOD",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "79.124.62.0/24"
+    ],
+    "ipv6": [
+      "2001:678:ff8::/48"
+    ]
   }
 }

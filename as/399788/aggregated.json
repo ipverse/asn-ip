@@ -3,7 +3,12 @@
   "handle": "QUADSTATE-NET",
   "description": "Quad State Internet LLC",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "23.154.112.0/24",
+      "23.189.48.0/24"
+    ],
+    "ipv6": [
+      "2602:802:b040::/47"
+    ]
   }
 }

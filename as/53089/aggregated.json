@@ -3,7 +3,12 @@
   "handle": "IDC-TELECOM",
   "description": "IDC TELECOM LTDA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "138.204.88.0/22",
+      "187.95.160.0/20"
+    ],
+    "ipv6": [
+      "2804:a4::/32"
+    ]
   }
 }

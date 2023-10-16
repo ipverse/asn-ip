@@ -3,7 +3,11 @@
   "handle": "BATTERFLYAIMEDIA",
   "description": "Batterflyai Media ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "85.93.2.0/24",
+      "147.78.46.0/24",
+      "193.142.30.0/24"
+    ],
     "ipv6": []
   }
 }

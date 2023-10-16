@@ -3,7 +3,9 @@
   "handle": "COFIROUTE",
   "description": "Cofiroute SA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.208.40.0/22"
+    ],
     "ipv6": []
   }
 }

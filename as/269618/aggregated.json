@@ -3,7 +3,11 @@
   "handle": "LINK-UNIAO-TELECOM-EIRELI",
   "description": "Link Uniao Telecom EIRELI - ME",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.190.24.0/22"
+    ],
+    "ipv6": [
+      "2804:6748::/32"
+    ]
   }
 }

@@ -3,7 +3,11 @@
   "handle": "PRANET",
   "description": "Pranet s.r.o.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "185.156.120.0/22"
+    ],
+    "ipv6": [
+      "2a03:61a0::/32"
+    ]
   }
 }

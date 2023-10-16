@@ -3,7 +3,9 @@
   "handle": "WINET",
   "description": "C.V.M. WiNet Solutions LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.89.23.0/24"
+    ],
     "ipv6": []
   }
 }

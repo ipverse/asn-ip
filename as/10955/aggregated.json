@@ -3,7 +3,9 @@
   "handle": "WILPATERSON",
   "description": "WILLIAM PATERSON UNIVERSITY",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "149.151.0.0/16"
+    ],
     "ipv6": []
   }
 }

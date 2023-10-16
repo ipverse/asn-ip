@@ -3,7 +3,9 @@
   "handle": "HDCE2016",
   "description": "HDCE Inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "204.225.113.0/24"
+    ],
     "ipv6": []
   }
 }

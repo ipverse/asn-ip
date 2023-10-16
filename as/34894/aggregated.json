@@ -3,7 +3,9 @@
   "handle": "ATEL",
   "description": "PJSC Vimpelcom",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "78.159.224.0/20"
+    ],
     "ipv6": []
   }
 }

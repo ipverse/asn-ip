@@ -3,7 +3,9 @@
   "handle": "PORR",
   "description": "Porr AG",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.216.229.0/24"
+    ],
     "ipv6": []
   }
 }

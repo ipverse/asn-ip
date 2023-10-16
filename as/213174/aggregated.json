@@ -3,7 +3,10 @@
   "handle": "GLOBIT",
   "description": "MAGDALENA MARIA JASKOWSKA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "77.65.160.0/21",
+      "77.65.168.0/23"
+    ],
     "ipv6": []
   }
 }

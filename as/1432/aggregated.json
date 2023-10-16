@@ -3,7 +3,9 @@
   "handle": "AC-1",
   "description": "Albion College",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "147.124.0.0/19"
+    ],
     "ipv6": []
   }
 }

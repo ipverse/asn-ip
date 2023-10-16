@@ -3,7 +3,11 @@
   "handle": "MR7-TELECOM",
   "description": "MR7 TELECOM LTDA - ME",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.162.216.0/22"
+    ],
+    "ipv6": [
+      "2804:5298::/32"
+    ]
   }
 }

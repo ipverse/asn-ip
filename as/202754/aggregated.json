@@ -3,7 +3,10 @@
   "handle": "INALNET",
   "description": "Free Technologies Excom S.L.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.84.48.0/22",
+      "185.153.16.0/22"
+    ],
     "ipv6": []
   }
 }

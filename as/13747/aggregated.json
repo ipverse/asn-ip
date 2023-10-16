@@ -3,7 +3,10 @@
   "handle": "DMIC-ASN1",
   "description": "DONEGAL MUTUAL INSURANCE",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "8.225.238.0/24",
+      "67.130.59.0/24"
+    ],
     "ipv6": []
   }
 }

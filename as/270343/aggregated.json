@@ -3,7 +3,11 @@
   "handle": "MGT-COMUNICAO",
   "description": "MGT COMUNICAO",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "189.113.184.0/22"
+    ],
+    "ipv6": [
+      "2804:6a8c::/32"
+    ]
   }
 }

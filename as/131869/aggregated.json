@@ -3,7 +3,9 @@
   "handle": "USTKREONET",
   "description": "UST",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "210.98.46.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "EPSO",
   "description": "VERCOM S.A.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.192.100.0/22"
+    ],
     "ipv6": []
   }
 }

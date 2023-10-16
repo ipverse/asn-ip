@@ -3,7 +3,9 @@
   "handle": "IRIS-AP",
   "description": "Iris Communications Pty Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.102.164.0/24"
+    ],
     "ipv6": []
   }
 }

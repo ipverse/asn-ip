@@ -3,7 +3,9 @@
   "handle": "ONTIX",
   "description": "Ontix Sites No1 Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "89.190.132.0/22"
+    ],
     "ipv6": []
   }
 }

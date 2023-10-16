@@ -3,7 +3,10 @@
   "handle": "J-CALUX",
   "description": "J. CALUX \u0026 CIA LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.179.188.0/23",
+      "45.179.191.0/24"
+    ],
     "ipv6": []
   }
 }

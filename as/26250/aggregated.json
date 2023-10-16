@@ -3,7 +3,9 @@
   "handle": "WEBROOT-CORP-AS1",
   "description": "Webroot Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "66.35.53.0/24"
+    ],
     "ipv6": []
   }
 }

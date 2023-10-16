@@ -3,7 +3,10 @@
   "handle": "PHSA-INTERNET",
   "description": "PROVINCIAL HEALTH SERVICES AUTHORITY",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "205.233.160.0/20",
+      "207.23.128.0/19"
+    ],
     "ipv6": []
   }
 }

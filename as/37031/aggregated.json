@@ -3,7 +3,10 @@
   "handle": "MIST-EG",
   "description": "MISR Information Services and Trading",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "41.217.224.0/21",
+      "41.222.168.0/21"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "MANDOSOFTTECHINDIA",
   "description": "Mando Softtech India Pvt. Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.84.251.0/24"
+    ],
     "ipv6": []
   }
 }

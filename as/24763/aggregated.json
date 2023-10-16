@@ -3,7 +3,9 @@
   "handle": "THALES",
   "description": "Thales Services Numeriques SAS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.56.124.0/24"
+    ],
     "ipv6": []
   }
 }

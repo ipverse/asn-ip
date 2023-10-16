@@ -3,7 +3,9 @@
   "handle": "MAS-ALL2ALL",
   "description": "Moving Art Studio ASBL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "79.99.200.0/22"
+    ],
     "ipv6": []
   }
 }

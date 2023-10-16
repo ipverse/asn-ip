@@ -3,7 +3,9 @@
   "handle": "RICHLAND-BGP-01",
   "description": "Richland County",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "66.194.21.0/24"
+    ],
     "ipv6": []
   }
 }

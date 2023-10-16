@@ -3,7 +3,9 @@
   "handle": "CFG-AP",
   "description": "Collins Foods Group",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "203.57.4.0/24"
+    ],
     "ipv6": []
   }
 }

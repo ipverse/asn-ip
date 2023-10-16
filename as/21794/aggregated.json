@@ -3,7 +3,10 @@
   "handle": "AMEREN-AS2",
   "description": "Ameren Corp.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.189.96.0/23",
+      "192.189.98.0/24"
+    ],
     "ipv6": []
   }
 }

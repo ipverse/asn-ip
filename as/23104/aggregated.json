@@ -3,7 +3,9 @@
   "handle": "AMERICAN-TIRE-DISTRIBUTORS-INC",
   "description": "AMERICAN TIRE DISTRIBUTORS, INC.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.67.66.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "COGNIZANT-HU",
   "description": "Cognizant Technology Solutions Hungary Kft.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "84.2.55.0/24"
+    ],
     "ipv6": []
   }
 }

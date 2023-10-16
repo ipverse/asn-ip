@@ -3,7 +3,9 @@
   "handle": "BAGIC-AP",
   "description": "Bajaj Allianz General Insurance Company Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.153.88.0/23"
+    ],
     "ipv6": []
   }
 }

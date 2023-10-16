@@ -3,7 +3,9 @@
   "handle": "CBKASN",
   "description": "CoBank",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.197.16.0/20"
+    ],
     "ipv6": []
   }
 }

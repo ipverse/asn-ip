@@ -3,7 +3,10 @@
   "handle": "SONDA-PROCWORK-INFORMATICA",
   "description": "SONDA PROCWORK INFORMATICA LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "170.247.8.0/22",
+      "191.242.200.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "ANUNTUL",
   "description": "Anuntul Telefonic SRL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.194.28.0/23"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "IDNIC-MTF-ID",
   "description": "PT Mandiri Tunas Finance",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.125.223.0/24"
+    ],
     "ipv6": []
   }
 }

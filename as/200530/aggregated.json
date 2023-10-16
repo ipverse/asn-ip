@@ -3,7 +3,9 @@
   "handle": "RAZAVIHOSPITAL",
   "description": "Razavi Hospital",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.5.40.0/22"
+    ],
     "ipv6": []
   }
 }

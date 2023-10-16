@@ -3,7 +3,9 @@
   "handle": "SUPERNET2-AP",
   "description": "Supernet",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.242.102.0/23"
+    ],
     "ipv6": []
   }
 }

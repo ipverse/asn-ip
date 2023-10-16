@@ -3,7 +3,11 @@
   "handle": "SWIFTCURRENT-CONNECT",
   "description": "Pierce Pepin Cooperative Services",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "140.106.32.0/20"
+    ],
+    "ipv6": [
+      "2606:79c0::/32"
+    ]
   }
 }

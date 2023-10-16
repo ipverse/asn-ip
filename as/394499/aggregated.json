@@ -3,7 +3,9 @@
   "handle": "DIMENSIONAL",
   "description": "Dimensional Fund Advisors",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.10.253.0/24"
+    ],
     "ipv6": []
   }
 }

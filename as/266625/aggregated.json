@@ -3,7 +3,9 @@
   "handle": "WCA-TELECOM",
   "description": "WCA TELECOM",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "128.201.104.0/22"
+    ],
     "ipv6": []
   }
 }

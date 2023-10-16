@@ -3,7 +3,9 @@
   "handle": "UKRINFOSYSTEMS",
   "description": "LIMITED LIABILITY COMPANY UKRAINIAN INFOSYSTEMS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.231.69.0/24"
+    ],
     "ipv6": []
   }
 }

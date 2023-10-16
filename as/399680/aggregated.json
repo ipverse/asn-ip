@@ -3,7 +3,10 @@
   "handle": "METROLINX",
   "description": "Metrolinx",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "216.71.103.0/24",
+      "216.71.116.0/24"
+    ],
     "ipv6": []
   }
 }

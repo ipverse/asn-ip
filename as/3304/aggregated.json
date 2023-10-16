@@ -3,7 +3,9 @@
   "handle": "SCARLET",
   "description": "Proximus NV",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.28.47.0/24"
+    ],
     "ipv6": []
   }
 }

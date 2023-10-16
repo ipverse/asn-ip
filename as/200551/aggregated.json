@@ -3,7 +3,9 @@
   "handle": "TORGRYADY",
   "description": "ZAO Torgovye rjady",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "77.73.95.0/24"
+    ],
     "ipv6": []
   }
 }

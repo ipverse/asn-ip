@@ -3,7 +3,10 @@
   "handle": "MILLERS-SUPPLIES-AT-WORK-INC",
   "description": "Miller\u0027s Supplies at Work",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "98.188.253.0/24",
+      "158.51.135.0/24"
+    ],
     "ipv6": []
   }
 }

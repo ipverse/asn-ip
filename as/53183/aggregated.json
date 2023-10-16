@@ -3,7 +3,9 @@
   "handle": "QOS-TECNOLOGIA-SISTEMAS",
   "description": "QoS Tecnologia e Sistemas Ltda.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "186.232.0.0/21"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "STCASN",
   "description": "SAVE THE CHILDREN",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "65.126.150.0/23"
+    ],
     "ipv6": []
   }
 }

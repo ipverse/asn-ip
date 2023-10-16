@@ -3,7 +3,9 @@
   "handle": "BE",
   "description": "EDF Energy Nuclear Generation Group Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.149.117.0/24"
+    ],
     "ipv6": []
   }
 }

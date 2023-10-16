@@ -3,7 +3,9 @@
   "handle": "ADRIATIC",
   "description": "GENERALI zavarovalnica d.d.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.149.94.0/24"
+    ],
     "ipv6": []
   }
 }

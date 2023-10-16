@@ -3,7 +3,10 @@
   "handle": "SADAD",
   "description": "Sadad Informatics Corp. Dadehvarzi Sadad Co. PJSC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "89.235.64.0/22",
+      "185.135.28.0/22"
+    ],
     "ipv6": []
   }
 }

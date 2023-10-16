@@ -3,7 +3,12 @@
   "handle": "MDF-COMMERCE",
   "description": "mdf commerce inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "198.178.155.0/24",
+      "205.205.237.0/24",
+      "207.96.134.0/24",
+      "207.96.176.0/24"
+    ],
     "ipv6": []
   }
 }

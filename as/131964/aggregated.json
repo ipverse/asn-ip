@@ -3,7 +3,11 @@
   "handle": "CYBERHOME",
   "description": "FAMILY NET JAPAN INCORPORATED",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "160.237.191.0/24"
+    ],
+    "ipv6": [
+      "2400:a140:ffff::/48"
+    ]
   }
 }

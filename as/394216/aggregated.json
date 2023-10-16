@@ -3,7 +3,9 @@
   "handle": "PUEBLOCOUNTY",
   "description": "Pueblo County Government",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "198.148.207.0/24"
+    ],
     "ipv6": []
   }
 }

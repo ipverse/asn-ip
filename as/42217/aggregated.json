@@ -3,7 +3,11 @@
   "handle": "GOODWOOD",
   "description": "The Goodwood Estate Company Limited",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "185.206.40.0/22"
+    ],
+    "ipv6": [
+      "2a0b:fc0::/29"
+    ]
   }
 }

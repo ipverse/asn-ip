@@ -3,7 +3,11 @@
   "handle": "INFONET-GZE",
   "description": "TAURON Obsluga Klienta Sp. z o.o.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "83.136.224.0/22",
+      "83.136.228.0/23",
+      "83.136.230.0/24"
+    ],
     "ipv6": []
   }
 }

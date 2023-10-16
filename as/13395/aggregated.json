@@ -3,7 +3,10 @@
   "handle": "SMART-CITY-SOCC",
   "description": "Smart City Networks, L.P.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "24.75.244.0/23",
+      "67.217.24.0/24"
+    ],
     "ipv6": []
   }
 }

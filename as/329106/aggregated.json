@@ -3,7 +3,9 @@
   "handle": "CSAL2",
   "description": "CCI SOUTH AFRICA (PTY) LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "102.215.50.0/23"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,11 @@
   "handle": "COMUNICA",
   "description": "COMUNISTONE, S.L.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.84.211.0/24",
+      "91.132.102.0/24",
+      "154.18.12.0/23"
+    ],
     "ipv6": []
   }
 }

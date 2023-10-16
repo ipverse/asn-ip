@@ -3,7 +3,11 @@
   "handle": "PONTOCOM-SOLUES-EM",
   "description": "PONTOCOM SOLUES EM TECNOLOGIA LTDA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.186.88.0/22"
+    ],
+    "ipv6": [
+      "2804:6444::/32"
+    ]
   }
 }

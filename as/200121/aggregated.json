@@ -3,7 +3,9 @@
   "handle": "CITRB",
   "description": "Center for IT Solutions for Business LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "178.170.208.0/24"
+    ],
     "ipv6": []
   }
 }

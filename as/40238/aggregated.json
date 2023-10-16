@@ -3,7 +3,9 @@
   "handle": "JOSTENS",
   "description": "Jostens",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.189.112.0/24"
+    ],
     "ipv6": []
   }
 }

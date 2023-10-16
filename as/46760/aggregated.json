@@ -3,7 +3,10 @@
   "handle": "DRURYHOTELS",
   "description": "Drury Inns",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "204.77.136.0/23",
+      "204.77.138.0/24"
+    ],
     "ipv6": []
   }
 }

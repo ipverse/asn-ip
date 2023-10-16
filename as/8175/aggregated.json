@@ -3,7 +3,9 @@
   "handle": "HIGHSPEEDWEB",
   "description": "High Speed Web/Genesis 2 Networks",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "216.189.10.0/24"
+    ],
     "ipv6": []
   }
 }

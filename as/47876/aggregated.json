@@ -3,7 +3,10 @@
   "handle": "PSE-OPERATOR",
   "description": "Polskie Sieci Elektroenergetyczne Spolka Akcyjna",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.208.150.0/24",
+      "91.209.155.0/24"
+    ],
     "ipv6": []
   }
 }

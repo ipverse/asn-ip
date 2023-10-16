@@ -3,7 +3,9 @@
   "handle": "AI",
   "description": "AI Industrial Services GmbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "79.99.97.0/24"
+    ],
     "ipv6": []
   }
 }

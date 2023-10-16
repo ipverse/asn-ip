@@ -3,7 +3,9 @@
   "handle": "ARLP-OPSTECH",
   "description": "Alliance Coal, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "216.84.165.0/24"
+    ],
     "ipv6": []
   }
 }

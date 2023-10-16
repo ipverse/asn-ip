@@ -3,7 +3,11 @@
   "handle": "BRUNO-LEONARDO-BASSANI",
   "description": "BRUNO LEONARDO BASSANI BLB INFORMATICA ME",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.177.224.0/22"
+    ],
+    "ipv6": [
+      "2804:5dd8::/32"
+    ]
   }
 }

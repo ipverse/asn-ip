@@ -3,7 +3,11 @@
   "handle": "CLUSTERS-TELECOM-INFORMATICA",
   "description": "CLUSTERS TELECOM INFORMATICA LTDA ME",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.185.124.0/22"
+    ],
+    "ipv6": [
+      "2804:63a4::/32"
+    ]
   }
 }

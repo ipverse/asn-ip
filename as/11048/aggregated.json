@@ -3,7 +3,9 @@
   "handle": "DIGITALSTAKEOUT",
   "description": "DigitalStakeout",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "142.202.107.0/24"
+    ],
     "ipv6": [
       "2620:82:6000::/48"
     ]

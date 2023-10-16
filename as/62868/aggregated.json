@@ -3,7 +3,9 @@
   "handle": "DMRC",
   "description": "Digimarc Corporation",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "50.202.85.0/24"
+    ],
     "ipv6": []
   }
 }

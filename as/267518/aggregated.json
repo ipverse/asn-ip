@@ -3,7 +3,11 @@
   "handle": "TECHNIK-INTERNET",
   "description": "Technik Internet Ltda - ME",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "201.182.124.0/22"
+    ],
+    "ipv6": [
+      "2804:42ac::/32"
+    ]
   }
 }

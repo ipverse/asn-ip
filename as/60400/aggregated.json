@@ -3,7 +3,9 @@
   "handle": "ORBISAG",
   "description": "ORBIS SE",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.180.14.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,10 @@
   "handle": "CFA-INSTITUTE",
   "description": "CFA Institute",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "8.39.146.0/24",
+      "216.98.65.0/24"
+    ],
     "ipv6": []
   }
 }

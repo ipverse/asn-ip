@@ -3,7 +3,9 @@
   "handle": "RESBIRD-AP",
   "description": "Resbird Technologies Private Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.174.185.0/24"
+    ],
     "ipv6": []
   }
 }

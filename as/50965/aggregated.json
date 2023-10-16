@@ -3,7 +3,9 @@
   "handle": "LEONHARD-KURZ-STIFTUNG",
   "description": "LEONHARD KURZ STIFTUNG \u0026 CO. KG",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.105.247.0/24"
+    ],
     "ipv6": []
   }
 }

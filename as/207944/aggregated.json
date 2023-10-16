@@ -3,7 +3,11 @@
   "handle": "CAPETA-SYSTEM",
   "description": "CAPETASYSTEM, S.L.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.151.176.0/22",
+      "77.225.29.0/24",
+      "212.145.199.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -4,6 +4,9 @@
   "description": "Erik Schneider",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a06:c640::/31",
+      "2a06:c642::/32"
+    ]
   }
 }

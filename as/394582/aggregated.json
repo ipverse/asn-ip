@@ -3,7 +3,9 @@
   "handle": "BINARY-US",
   "description": "binaryMedia LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "204.80.96.0/22"
+    ],
     "ipv6": []
   }
 }

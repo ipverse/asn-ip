@@ -3,7 +3,9 @@
   "handle": "WFCU-36",
   "description": "WeStreet Federal Credit Union",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "184.191.211.0/24"
+    ],
     "ipv6": []
   }
 }

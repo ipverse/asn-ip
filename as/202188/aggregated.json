@@ -3,7 +3,11 @@
   "handle": "TIMRA",
   "description": "Timra Kommun",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "194.132.8.0/24"
+    ],
+    "ipv6": [
+      "2001:67c:748::/48"
+    ]
   }
 }

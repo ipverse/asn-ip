@@ -3,7 +3,9 @@
   "handle": "GMV-SERVICOS-INFORMATICA",
   "description": "G.M.V. SERVICOS DE INFORMATICA LTDA - ME",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "181.191.100.0/22"
+    ],
     "ipv6": []
   }
 }

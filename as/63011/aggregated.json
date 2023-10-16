@@ -3,7 +3,9 @@
   "handle": "RCG",
   "description": "RIMKUS CONSULTING GROUP, INC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "198.102.82.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "NYBLOODCTR",
   "description": "New York Blood Center",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.94.249.0/24"
+    ],
     "ipv6": []
   }
 }

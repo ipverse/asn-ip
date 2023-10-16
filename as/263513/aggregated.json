@@ -3,7 +3,11 @@
   "handle": "SIGNAL-PROVEDOR-ACESSO",
   "description": "SIGNAL PROVEDOR DE ACESSO A INTERNET LTDA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "191.243.208.0/22"
+    ],
+    "ipv6": [
+      "2804:1310::/32"
+    ]
   }
 }

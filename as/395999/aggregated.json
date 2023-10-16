@@ -3,7 +3,9 @@
   "handle": "KIM-199-120-191-0",
   "description": "Kimball International, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.120.191.0/24"
+    ],
     "ipv6": []
   }
 }

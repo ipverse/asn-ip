@@ -3,7 +3,9 @@
   "handle": "TTD-LA",
   "description": "The Technology Depot, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "198.22.216.0/24"
+    ],
     "ipv6": []
   }
 }

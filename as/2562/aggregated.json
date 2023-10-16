@@ -3,7 +3,10 @@
   "handle": "TI-USINTL",
   "description": "Texas Instruments, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.153.240.0/23",
+      "192.153.242.0/24"
+    ],
     "ipv6": []
   }
 }

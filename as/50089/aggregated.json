@@ -3,7 +3,9 @@
   "handle": "KAVKAZONLINE",
   "description": "Kavkaz Online LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "80.242.60.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "TCLM",
   "description": "Telecom Castilla La Mancha SA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "82.86.0.0/18"
+    ],
     "ipv6": []
   }
 }

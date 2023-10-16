@@ -3,7 +3,11 @@
   "handle": "MAIS-INTERNET-COMERCIO",
   "description": "MAIS INTERNET COMERCIO SERVICOS E TELEC LTDA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.167.56.0/22"
+    ],
+    "ipv6": [
+      "2804:5660::/32"
+    ]
   }
 }

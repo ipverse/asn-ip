@@ -3,7 +3,9 @@
   "handle": "RADIOSET",
   "description": "Filonenko Andrey PE",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "46.8.216.0/23"
+    ],
     "ipv6": []
   }
 }

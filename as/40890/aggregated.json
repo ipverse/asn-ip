@@ -3,7 +3,9 @@
   "handle": "VOIP-TECH",
   "description": "VoIP Tech, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.231.250.0/23"
+    ],
     "ipv6": []
   }
 }

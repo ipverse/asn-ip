@@ -3,7 +3,9 @@
   "handle": "XPRES-PA",
   "description": "XPRESSBET INC.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "208.103.113.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "MEESTIT",
   "description": "Private Enterprise Meest - IT",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "217.9.8.0/24"
+    ],
     "ipv6": []
   }
 }

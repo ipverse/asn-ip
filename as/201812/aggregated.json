@@ -3,7 +3,9 @@
   "handle": "ITG",
   "description": "IL Technologies Group Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.8.180.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,11 @@
   "handle": "DYNACOM",
   "description": "Dynamic Communication Centre",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "103.168.214.0/23"
+    ],
+    "ipv6": [
+      "2407:97c0::/44"
+    ]
   }
 }

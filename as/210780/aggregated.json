@@ -3,7 +3,9 @@
   "handle": "WUPPERTAL",
   "description": "Stadt Wuppertal",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.252.214.0/24"
+    ],
     "ipv6": []
   }
 }

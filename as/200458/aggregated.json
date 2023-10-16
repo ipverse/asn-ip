@@ -3,7 +3,9 @@
   "handle": "VMOBILE",
   "description": "Vmobile AD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "78.83.235.0/24"
+    ],
     "ipv6": []
   }
 }

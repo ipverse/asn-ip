@@ -3,7 +3,9 @@
   "handle": "DARS",
   "description": "DARS d.d.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.199.23.0/24"
+    ],
     "ipv6": []
   }
 }

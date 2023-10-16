@@ -3,7 +3,11 @@
   "handle": "VELLO-SERVICOS-TELECOMUNICACOES",
   "description": "Vello Servicos de Telecomunicacoes Ltda",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "143.137.36.0/22"
+    ],
+    "ipv6": [
+      "2804:73f8::/32"
+    ]
   }
 }

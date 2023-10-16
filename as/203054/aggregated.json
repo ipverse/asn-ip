@@ -3,7 +3,9 @@
   "handle": "RM-TELECOM",
   "description": "RM-Telecom LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.146.116.0/22"
+    ],
     "ipv6": []
   }
 }

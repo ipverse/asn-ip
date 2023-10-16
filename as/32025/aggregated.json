@@ -3,7 +3,10 @@
   "handle": "HASBRO",
   "description": "Hasbro, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "208.87.44.0/24",
+      "208.87.46.0/23"
+    ],
     "ipv6": []
   }
 }

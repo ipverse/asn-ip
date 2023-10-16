@@ -3,7 +3,9 @@
   "handle": "MOF",
   "description": "Ministry of Finance of Saudi Arabia",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.110.232.0/22"
+    ],
     "ipv6": []
   }
 }

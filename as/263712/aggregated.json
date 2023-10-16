@@ -3,7 +3,9 @@
   "handle": "INFODOCTA-INTERNET-BANDA",
   "description": "Infodocta Internet Banda Ancha de Eliana Andrea Brustoln",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "131.255.248.0/22"
+    ],
     "ipv6": []
   }
 }

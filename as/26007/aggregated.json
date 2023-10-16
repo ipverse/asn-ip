@@ -3,7 +3,9 @@
   "handle": "SWICKTECH",
   "description": "Swick Technologies, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.12.108.0/24"
+    ],
     "ipv6": []
   }
 }

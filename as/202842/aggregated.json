@@ -3,7 +3,9 @@
   "handle": "ASNHTSS",
   "description": "SC HIGH-TECH SYSTEM\u0026SOFTWARE SRL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "95.128.174.0/24"
+    ],
     "ipv6": []
   }
 }

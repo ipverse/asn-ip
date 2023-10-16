@@ -3,7 +3,9 @@
   "handle": "PNJ-VN",
   "description": "Phu Nhuan Jewelry Joint Stock Company",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.100.228.0/22"
+    ],
     "ipv6": []
   }
 }

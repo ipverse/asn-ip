@@ -3,7 +3,9 @@
   "handle": "RENUEVO-TV-TELECOMUNICACIONES",
   "description": "RENUEVO TV TELECOMUNICACIONES SpA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "190.97.172.0/22"
+    ],
     "ipv6": []
   }
 }

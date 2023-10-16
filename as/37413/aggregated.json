@@ -3,7 +3,9 @@
   "handle": "HYMAX",
   "description": "Hymax Talking Solutions",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "197.159.32.0/19"
+    ],
     "ipv6": []
   }
 }

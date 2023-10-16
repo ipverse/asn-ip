@@ -3,7 +3,15 @@
   "handle": "TOOKANTECH",
   "description": "Ettelaat Fanavarn-E Tookan Co Ltd",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "85.133.224.0/23",
+      "91.186.193.0/24",
+      "185.119.199.0/24",
+      "193.111.236.0/24",
+      "194.59.215.0/24"
+    ],
+    "ipv6": [
+      "2a11:7bc0::/29"
+    ]
   }
 }

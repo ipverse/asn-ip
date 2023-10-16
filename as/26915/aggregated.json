@@ -3,7 +3,10 @@
   "handle": "WERNER-OMA",
   "description": "Werner Enterprises",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "12.36.209.0/24",
+      "65.247.121.0/24"
+    ],
     "ipv6": []
   }
 }

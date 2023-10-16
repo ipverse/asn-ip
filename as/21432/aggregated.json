@@ -3,7 +3,9 @@
   "handle": "AVAL",
   "description": "RAIFFEISEN BANK JSC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.84.148.0/22"
+    ],
     "ipv6": []
   }
 }

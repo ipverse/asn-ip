@@ -3,7 +3,9 @@
   "handle": "SJHC",
   "description": "CommonSpirit Health",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "205.167.128.0/23"
+    ],
     "ipv6": []
   }
 }

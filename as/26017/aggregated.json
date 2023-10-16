@@ -3,7 +3,9 @@
   "handle": "BETTENDORF-LIBRARY",
   "description": "Bettendorf Public Library",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "204.8.36.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,10 @@
   "handle": "SCC",
   "description": "SCC Soft Computer",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "205.172.68.0/22",
+      "208.86.236.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "GREMI-MEDIA-SA",
   "description": "Gremi Media SA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.8.128.0/19"
+    ],
     "ipv6": []
   }
 }

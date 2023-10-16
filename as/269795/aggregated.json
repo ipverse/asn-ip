@@ -3,7 +3,9 @@
   "handle": "MLV",
   "description": "MLV SA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.184.228.0/22"
+    ],
     "ipv6": []
   }
 }

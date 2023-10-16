@@ -3,7 +3,10 @@
   "handle": "LIFEWAY",
   "description": "LifeWay Christian Resources",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "23.143.128.0/24",
+      "199.245.195.0/24"
+    ],
     "ipv6": []
   }
 }

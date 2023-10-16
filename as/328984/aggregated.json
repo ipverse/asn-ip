@@ -3,7 +3,11 @@
   "handle": "RL4",
   "description": "Revabit Limited",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "102.217.148.0/22"
+    ],
+    "ipv6": [
+      "2c0f:2b00::/32"
+    ]
   }
 }

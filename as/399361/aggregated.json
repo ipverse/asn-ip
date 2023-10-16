@@ -3,7 +3,9 @@
   "handle": "ALCOA-CORP",
   "description": "Alcoa USA Corp.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "142.79.176.0/21"
+    ],
     "ipv6": []
   }
 }

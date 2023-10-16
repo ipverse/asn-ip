@@ -3,7 +3,9 @@
   "handle": "UMWP",
   "description": "Urzad Marszalkowski Wojewodztwa Podlaskiego",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.61.6.0/24"
+    ],
     "ipv6": []
   }
 }

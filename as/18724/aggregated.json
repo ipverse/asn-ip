@@ -3,7 +3,9 @@
   "handle": "BHR",
   "description": "Blue Hills Regional Vocational Technical School",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.111.53.0/24"
+    ],
     "ipv6": []
   }
 }

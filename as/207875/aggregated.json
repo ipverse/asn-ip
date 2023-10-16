@@ -3,7 +3,9 @@
   "handle": "KSOT",
   "description": "Nikita Sergienko",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.109.253.0/24"
+    ],
     "ipv6": []
   }
 }

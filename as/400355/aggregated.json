@@ -3,7 +3,9 @@
   "handle": "STRCTRPNT-INDY-01",
   "description": "American Structurepoint, INC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.147.37.0/24"
+    ],
     "ipv6": []
   }
 }

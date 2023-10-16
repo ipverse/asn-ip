@@ -3,7 +3,10 @@
   "handle": "UZINFOCOM",
   "description": "DAVLAT AXBOROT TIZIMLARINI YARATISH VA QO`LLAB QUVATLASH BO`YICHA YAGONA INTEGRATOR-UZINFOCOM LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.212.89.0/24",
+      "185.8.212.0/23"
+    ],
     "ipv6": []
   }
 }

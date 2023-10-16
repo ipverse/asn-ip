@@ -3,7 +3,9 @@
   "handle": "PC24NET-ID",
   "description": "PT PC24 Telekomunikasi Indonesia",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "122.248.44.0/24"
+    ],
     "ipv6": []
   }
 }

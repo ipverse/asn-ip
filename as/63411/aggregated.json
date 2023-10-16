@@ -3,7 +3,9 @@
   "handle": "ITG-CANADA",
   "description": "ITG Canada Corp.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.40.19.0/24"
+    ],
     "ipv6": []
   }
 }

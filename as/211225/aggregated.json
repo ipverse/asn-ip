@@ -3,7 +3,9 @@
   "handle": "ECOZUM",
   "description": "Ecozum Bilgi Teknolojileri A.S",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "37.205.0.0/21"
+    ],
     "ipv6": []
   }
 }

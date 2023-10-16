@@ -3,7 +3,9 @@
   "handle": "INCOMTECH",
   "description": "Incom Technologies Kft.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.134.80.0/22"
+    ],
     "ipv6": []
   }
 }

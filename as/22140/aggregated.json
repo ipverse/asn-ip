@@ -3,7 +3,9 @@
   "handle": "T-MOBILE",
   "description": "T-Mobile USA, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "206.29.176.0/22"
+    ],
     "ipv6": []
   }
 }

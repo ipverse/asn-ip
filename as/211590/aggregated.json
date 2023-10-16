@@ -3,7 +3,9 @@
   "handle": "BUSINESSSOFTPROJECT",
   "description": "Business Soft Project LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "89.104.126.0/24"
+    ],
     "ipv6": []
   }
 }

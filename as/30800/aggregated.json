@@ -3,7 +3,11 @@
   "handle": "INFOR",
   "description": "Infor (Deutschland) GmbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "159.172.21.0/24",
+      "159.172.241.0/24",
+      "194.149.80.0/21"
+    ],
     "ipv6": []
   }
 }

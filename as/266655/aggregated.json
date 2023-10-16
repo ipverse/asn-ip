@@ -3,7 +3,10 @@
   "handle": "SERVICIOS-TELECOMUNICACIONES-MAS",
   "description": "SERVICIOS DE TELECOMUNICACIONES MAS CONECTADOS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.225.43.0/24",
+      "45.225.132.0/23"
+    ],
     "ipv6": []
   }
 }

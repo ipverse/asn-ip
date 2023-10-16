@@ -3,7 +3,10 @@
   "handle": "FINANCIERE-CEP",
   "description": "KEREIS HOLDING SAS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.147.1.0/24",
+      "185.147.2.0/23"
+    ],
     "ipv6": []
   }
 }

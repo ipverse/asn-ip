@@ -3,7 +3,9 @@
   "handle": "INDIANA-RMC",
   "description": "Indiana Regional Medical Center",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "68.234.38.0/24"
+    ],
     "ipv6": []
   }
 }

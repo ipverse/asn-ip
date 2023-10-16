@@ -3,7 +3,9 @@
   "handle": "CABLE-IMAGEN-ARMSTRONG",
   "description": "CABLE IMAGEN ARMSTRONG SRL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.162.100.0/22"
+    ],
     "ipv6": []
   }
 }

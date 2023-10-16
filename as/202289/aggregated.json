@@ -3,7 +3,9 @@
   "handle": "LOVITEL-WIFI",
   "description": "Lovitel LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.155.16.0/24"
+    ],
     "ipv6": []
   }
 }

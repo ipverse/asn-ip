@@ -3,7 +3,10 @@
   "handle": "MIDIX-TECNOLOGIA-EIRELI",
   "description": "MIDIX TECNOLOGIA EIRELI - ME",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "131.221.228.0/22",
+      "168.90.124.0/22"
+    ],
     "ipv6": []
   }
 }

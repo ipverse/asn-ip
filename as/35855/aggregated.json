@@ -3,7 +3,9 @@
   "handle": "UCCU",
   "description": "UTAH COMMUNITY FEDERAL CREDIT UNION",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "198.147.206.0/23"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,10 @@
   "handle": "FOCUSIT",
   "description": "Focus IT Solutions",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "93.123.0.0/22",
+      "93.123.4.0/23"
+    ],
     "ipv6": []
   }
 }

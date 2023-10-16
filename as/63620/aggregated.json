@@ -3,7 +3,12 @@
   "handle": "HUABOTECHNET",
   "description": "ShenZhen HuaBo Technology Develop Co., Ltd.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "59.153.116.0/22",
+      "103.70.220.0/22"
+    ],
+    "ipv6": [
+      "2406:3d80::/32"
+    ]
   }
 }

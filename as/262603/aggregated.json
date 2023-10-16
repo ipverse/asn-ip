@@ -3,7 +3,11 @@
   "handle": "GX-INTERNET-WEB",
   "description": "GX INTERNET E WEB HOSTING SERV DE INFORMATICA LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "177.85.99.0/24",
+      "177.85.100.0/24",
+      "185.169.99.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "DATATECHHOSTING",
   "description": "Data-Tech",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "208.73.96.0/22"
+    ],
     "ipv6": []
   }
 }

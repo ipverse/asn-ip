@@ -3,7 +3,9 @@
   "handle": "EKZM",
   "description": "EKZM co.,ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "210.233.80.0/20"
+    ],
     "ipv6": []
   }
 }

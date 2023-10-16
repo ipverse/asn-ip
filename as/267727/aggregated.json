@@ -3,7 +3,9 @@
   "handle": "RED-CENTROAMERICANA-TELECOMUNICACIONES",
   "description": "RED CENTROAMERICANA DE TELECOMUNICACIONES, S.A, SUCURSAL EL SALVADOR",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.162.87.0/24"
+    ],
     "ipv6": []
   }
 }

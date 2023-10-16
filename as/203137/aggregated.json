@@ -3,7 +3,9 @@
   "handle": "NORMBENZ",
   "description": "Normbenz Magyarorszag Kft",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.130.179.0/24"
+    ],
     "ipv6": []
   }
 }

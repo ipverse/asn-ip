@@ -3,7 +3,9 @@
   "handle": "MWH-AU-SYD-00",
   "description": "Stantec New Zealand Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "159.21.132.0/22"
+    ],
     "ipv6": []
   }
 }

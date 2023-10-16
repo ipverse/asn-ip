@@ -3,7 +3,10 @@
   "handle": "HESS",
   "description": "Hess Corporation",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "162.246.32.0/23",
+      "162.246.35.0/24"
+    ],
     "ipv6": []
   }
 }

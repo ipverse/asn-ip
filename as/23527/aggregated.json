@@ -3,7 +3,9 @@
   "handle": "CHRISTCATHEDRALCA",
   "description": "Christ Catholic Cathedral Corporation",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "198.61.0.0/24"
+    ],
     "ipv6": []
   }
 }

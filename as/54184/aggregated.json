@@ -3,7 +3,9 @@
   "handle": "SVGNETWORK",
   "description": "Sun Valley Gold LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "205.207.28.0/24"
+    ],
     "ipv6": []
   }
 }

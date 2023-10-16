@@ -3,7 +3,9 @@
   "handle": "VIAMATMANAGEMENT",
   "description": "Loomis International Corporate AG",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.22.142.0/24"
+    ],
     "ipv6": []
   }
 }

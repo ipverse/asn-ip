@@ -3,7 +3,9 @@
   "handle": "DRUTEX",
   "description": "DRUTEX S.A.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.128.148.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "YBP",
   "description": "Yankee Book Peddler",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.190.16.0/24"
+    ],
     "ipv6": []
   }
 }

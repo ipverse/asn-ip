@@ -3,7 +3,10 @@
   "handle": "SENTRACAM",
   "description": "SentraCam",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "69.24.142.0/24",
+      "104.143.77.0/24"
+    ],
     "ipv6": []
   }
 }

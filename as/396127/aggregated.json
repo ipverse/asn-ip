@@ -3,7 +3,9 @@
   "handle": "SUCCESS-ACADEMIES",
   "description": "Success Academy Charter Schools Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "207.229.69.0/24"
+    ],
     "ipv6": []
   }
 }

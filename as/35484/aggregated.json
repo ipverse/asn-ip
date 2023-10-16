@@ -3,7 +3,9 @@
   "handle": "ALSO-LATVIA",
   "description": "SIA ALSO Latvia",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "85.254.150.0/24"
+    ],
     "ipv6": []
   }
 }

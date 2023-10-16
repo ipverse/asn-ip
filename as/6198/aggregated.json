@@ -3,7 +3,11 @@
   "handle": "BATI-MIA",
   "description": "BellSouth Network Solutions, Inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "68.212.128.0/19",
+      "209.215.210.0/24",
+      "209.215.234.0/24"
+    ],
     "ipv6": []
   }
 }

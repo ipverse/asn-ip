@@ -3,7 +3,9 @@
   "handle": "OZKULA",
   "description": "Ozkula Internet Hizmetleri Tic. LTD. STI.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "78.135.106.0/23"
+    ],
     "ipv6": []
   }
 }

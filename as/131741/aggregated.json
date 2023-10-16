@@ -3,7 +3,9 @@
   "handle": "IDNIC-LKPP-ID",
   "description": "Lembaga Kebijakan Pengadaan Barang/Jasa Pemerintah",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "180.233.156.0/24"
+    ],
     "ipv6": []
   }
 }

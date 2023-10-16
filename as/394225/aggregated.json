@@ -3,7 +3,10 @@
   "handle": "GRAND",
   "description": "Grand Telephone Company, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.133.224.0/21",
+      "216.99.16.0/21"
+    ],
     "ipv6": []
   }
 }

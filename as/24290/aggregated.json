@@ -3,7 +3,10 @@
   "handle": "HEARTNET",
   "description": "Heart Network Co.,LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "203.174.88.0/21",
+      "203.175.16.0/20"
+    ],
     "ipv6": []
   }
 }

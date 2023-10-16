@@ -3,7 +3,9 @@
   "handle": "MFNSO",
   "description": "Gosudarstvennoe kazennoe uchrezhdenie Novosibirskoj oblasti Regional\u0027nyj informatsionnyj tsentr",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.232.38.0/24"
+    ],
     "ipv6": []
   }
 }

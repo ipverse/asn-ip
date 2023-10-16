@@ -3,7 +3,9 @@
   "handle": "TRUSTPOWERLTD-AP",
   "description": "TrustPower Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.26.203.0/24"
+    ],
     "ipv6": []
   }
 }

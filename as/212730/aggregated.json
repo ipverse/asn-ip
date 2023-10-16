@@ -3,7 +3,9 @@
   "handle": "PINBANK",
   "description": "JSC First Investment Bank",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "212.110.133.0/24"
+    ],
     "ipv6": []
   }
 }

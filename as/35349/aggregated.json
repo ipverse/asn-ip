@@ -3,7 +3,9 @@
   "handle": "VIEWCONTROL",
   "description": "ViewControl B.V.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.239.248.0/22"
+    ],
     "ipv6": []
   }
 }

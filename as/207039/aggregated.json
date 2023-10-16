@@ -3,7 +3,9 @@
   "handle": "SAC",
   "description": "Satellite Applications Catapult Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.30.8.0/22"
+    ],
     "ipv6": []
   }
 }

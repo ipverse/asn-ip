@@ -3,7 +3,9 @@
   "handle": "KDMC1",
   "description": "Kings Daughters Medical Center",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "12.222.170.0/24"
+    ],
     "ipv6": []
   }
 }

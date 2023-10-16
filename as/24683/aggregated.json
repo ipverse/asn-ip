@@ -3,7 +3,10 @@
   "handle": "OSU",
   "description": "Federal State Budgetary Educational Institution of Higher Education Orenburg State University",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "62.76.152.0/24",
+      "195.2.210.0/23"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "SERVYCOM-COLOMBIA",
   "description": "SERVYCOM COLOMBIA S.A.S",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.175.139.0/24"
+    ],
     "ipv6": []
   }
 }

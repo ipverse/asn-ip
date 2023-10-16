@@ -3,7 +3,9 @@
   "handle": "WSCAN-TELECOM",
   "description": "WSCAN TELECOM LTDA ME",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "201.140.244.0/22"
+    ],
     "ipv6": []
   }
 }

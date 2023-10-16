@@ -3,7 +3,9 @@
   "handle": "IPBROADCAST",
   "description": "IP Broadcast GmbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.95.190.0/24"
+    ],
     "ipv6": []
   }
 }

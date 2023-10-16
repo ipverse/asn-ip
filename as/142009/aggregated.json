@@ -3,7 +3,11 @@
   "handle": "MCMADC-AP",
   "description": "Misamis Cable Management and Development Corp",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "103.164.146.0/23"
+    ],
+    "ipv6": [
+      "2407:3cc0::/32"
+    ]
   }
 }

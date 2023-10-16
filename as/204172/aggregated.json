@@ -3,7 +3,9 @@
   "handle": "TTCINFRA-CZ",
   "description": "TTC TELEKOMUNIKACE s.r.o.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "46.226.16.0/23"
+    ],
     "ipv6": []
   }
 }

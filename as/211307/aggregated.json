@@ -3,7 +3,12 @@
   "handle": "FIBREME",
   "description": "Upp Corporation Limited",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "193.3.26.0/24",
+      "213.17.64.0/18"
+    ],
+    "ipv6": [
+      "2a06:6340::/32"
+    ]
   }
 }

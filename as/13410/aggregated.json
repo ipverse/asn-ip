@@ -3,7 +3,10 @@
   "handle": "MSTRARIN-1",
   "description": "Microstrategy, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.255.80.0/22",
+      "209.133.33.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "ION-NEWYORKCITY-NYC",
   "description": "ION MEDIA NETWORKS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.98.100.0/24"
+    ],
     "ipv6": []
   }
 }

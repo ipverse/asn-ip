@@ -3,7 +3,10 @@
   "handle": "CIS",
   "description": "Shabakeh Gostar Shahriyar Co. (Ltd.)",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.46.216.0/22",
+      "185.128.152.0/23"
+    ],
     "ipv6": []
   }
 }

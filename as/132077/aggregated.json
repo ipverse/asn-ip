@@ -3,7 +3,10 @@
   "handle": "FMGL-AU",
   "description": "Fortescue Metals Group Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.149.153.0/24",
+      "202.94.72.0/24"
+    ],
     "ipv6": []
   }
 }

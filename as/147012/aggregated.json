@@ -3,7 +3,11 @@
   "handle": "LIVERTON1-AP",
   "description": "Liverton Security",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "103.172.232.0/24"
+    ],
+    "ipv6": [
+      "2407:dac0:1::/48"
+    ]
   }
 }

@@ -3,7 +3,10 @@
   "handle": "GSC-AP",
   "description": "Green Surma Communications",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.81.28.0/24",
+      "103.135.172.0/22"
+    ],
     "ipv6": []
   }
 }

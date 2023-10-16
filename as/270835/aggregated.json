@@ -3,7 +3,9 @@
   "handle": "MEGAJATO-PROVEDOR-INTERNET",
   "description": "Megajato Provedor de Internet LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "190.8.30.0/24"
+    ],
     "ipv6": []
   }
 }

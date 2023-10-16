@@ -3,7 +3,9 @@
   "handle": "INTELBRAS",
   "description": "INTELBRAS S.A. INDUSTRIA DE TELECOMUNICACAO ELETRO",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.100.206.0/24"
+    ],
     "ipv6": []
   }
 }

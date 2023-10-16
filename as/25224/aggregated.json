@@ -3,7 +3,9 @@
   "handle": "STS-HOLDING",
   "description": "STS Invest Holding AD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "87.120.42.0/24"
+    ],
     "ipv6": []
   }
 }

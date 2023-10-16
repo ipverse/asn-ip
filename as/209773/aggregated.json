@@ -3,7 +3,9 @@
   "handle": "NEWRADIO",
   "description": "LLC Company New Radio",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "37.18.86.0/24"
+    ],
     "ipv6": []
   }
 }

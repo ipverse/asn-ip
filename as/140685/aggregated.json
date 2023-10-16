@@ -3,7 +3,9 @@
   "handle": "CHAPMAN-AP",
   "description": "CHAPMAN TRIPP HOLDINGS LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.151.187.0/24"
+    ],
     "ipv6": []
   }
 }

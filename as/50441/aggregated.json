@@ -3,7 +3,9 @@
   "handle": "KVNO",
   "description": "Kassenaerztliche Vereinigung Nordrhein",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.105.19.0/24"
+    ],
     "ipv6": []
   }
 }

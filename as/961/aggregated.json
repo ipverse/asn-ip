@@ -3,7 +3,9 @@
   "handle": "ACHIEVE-US",
   "description": "Achieve Wireless Inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.124.48.0/24"
+    ],
     "ipv6": []
   }
 }

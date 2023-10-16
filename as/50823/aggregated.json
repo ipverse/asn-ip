@@ -3,7 +3,10 @@
   "handle": "PBXHOSTING",
   "description": "PBX Hosting Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "178.170.128.0/22",
+      "185.83.64.0/22"
+    ],
     "ipv6": []
   }
 }

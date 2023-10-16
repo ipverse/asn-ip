@@ -3,7 +3,9 @@
   "handle": "OTP",
   "description": "Otter Tail Power Company",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "205.144.16.0/20"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "UPHS",
   "description": "Penn Medicine",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "170.212.0.0/24"
+    ],
     "ipv6": []
   }
 }

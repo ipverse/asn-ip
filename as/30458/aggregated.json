@@ -3,7 +3,9 @@
   "handle": "CMHC-LEX-01",
   "description": "CLARK Material Handling Company",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "141.193.245.0/24"
+    ],
     "ipv6": []
   }
 }

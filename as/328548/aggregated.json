@@ -3,7 +3,9 @@
   "handle": "TOUCHNET-TELECOMMUNICATIONS",
   "description": "TOUCHNET TELECOMMUNICATIONS CC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "102.23.192.0/20"
+    ],
     "ipv6": []
   }
 }

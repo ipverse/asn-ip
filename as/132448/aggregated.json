@@ -3,7 +3,9 @@
   "handle": "SOLUTIONONEPTYLTD-AU",
   "description": "SolutionOne Pty Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.21.17.0/24"
+    ],
     "ipv6": []
   }
 }

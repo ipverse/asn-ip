@@ -3,7 +3,9 @@
   "handle": "PL-POG-NET",
   "description": "Jozef Lipka trading as POG-NET",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "155.133.65.0/24"
+    ],
     "ipv6": []
   }
 }

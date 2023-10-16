@@ -3,7 +3,9 @@
   "handle": "SERTY",
   "description": "Dream Catch Me OU",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.144.5.0/24"
+    ],
     "ipv6": []
   }
 }

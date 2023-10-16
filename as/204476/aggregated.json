@@ -3,7 +3,10 @@
   "handle": "ULX-UK",
   "description": "UnitedLex Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.241.48.0/24",
+      "185.241.50.0/24"
+    ],
     "ipv6": []
   }
 }

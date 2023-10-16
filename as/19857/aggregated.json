@@ -3,7 +3,10 @@
   "handle": "BEFCORP",
   "description": "Bob Evans Farms, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "205.153.128.0/24",
+      "205.153.130.0/24"
+    ],
     "ipv6": []
   }
 }

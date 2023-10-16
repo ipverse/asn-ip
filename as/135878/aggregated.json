@@ -3,7 +3,9 @@
   "handle": "BINARYELEMENTS-AP",
   "description": "Binary Elements",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.78.194.0/24"
+    ],
     "ipv6": []
   }
 }

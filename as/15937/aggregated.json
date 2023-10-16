@@ -3,7 +3,9 @@
   "handle": "ADIF",
   "description": "ADIF",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "213.144.32.0/19"
+    ],
     "ipv6": []
   }
 }

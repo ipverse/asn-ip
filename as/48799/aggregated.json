@@ -3,7 +3,9 @@
   "handle": "CUSTRASBOURG",
   "description": "Ville et Eurometropole de Strasbourg",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.130.207.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,11 @@
   "handle": "IDNIC-AITI-ID",
   "description": "PT Amboro Integrasi Teknologi Inovasi",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "103.162.232.0/24"
+    ],
+    "ipv6": [
+      "2001:df7:780::/48"
+    ]
   }
 }

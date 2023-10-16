@@ -3,7 +3,9 @@
   "handle": "CTHS-ASN",
   "description": "Carson Tahoe Health System",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "12.139.152.0/24"
+    ],
     "ipv6": []
   }
 }

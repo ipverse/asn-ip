@@ -3,7 +3,9 @@
   "handle": "HARTE-HANKS",
   "description": "Harte-Hanks Shoppers, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "146.12.200.0/21"
+    ],
     "ipv6": []
   }
 }

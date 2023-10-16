@@ -3,7 +3,10 @@
   "handle": "BABYPENGUIN",
   "description": "Baby Penguin LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "104.36.225.0/24",
+      "192.132.243.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,11 @@
   "handle": "AVA-TELECOMUNICACOES",
   "description": "AVA TELECOMUNICACOES LTDA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "168.121.0.0/22"
+    ],
+    "ipv6": [
+      "2804:2d9c::/32"
+    ]
   }
 }

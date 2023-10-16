@@ -3,7 +3,11 @@
   "handle": "RAUL-DUARTE-URITA",
   "description": "RAUL DUARTE URITA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.174.76.0/22"
+    ],
+    "ipv6": [
+      "2806:32d::/32"
+    ]
   }
 }

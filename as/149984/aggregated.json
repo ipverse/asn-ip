@@ -3,7 +3,9 @@
   "handle": "PAYSYLABS-AP",
   "description": "PAYSYS LABS (PVT.) LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.189.2.0/24"
+    ],
     "ipv6": []
   }
 }

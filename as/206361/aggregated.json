@@ -3,7 +3,9 @@
   "handle": "LATOMKABEL",
   "description": "Tamas Drinkal",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "88.209.193.0/24"
+    ],
     "ipv6": []
   }
 }

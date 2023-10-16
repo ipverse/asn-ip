@@ -3,7 +3,9 @@
   "handle": "DATAWEBGLOBAL",
   "description": "DATAWEB GLOBAL LP.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.88.164.0/23"
+    ],
     "ipv6": []
   }
 }

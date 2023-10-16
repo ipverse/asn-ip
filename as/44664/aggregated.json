@@ -3,7 +3,11 @@
   "handle": "MTELUA",
   "description": "TOV company M-Tel",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.202.144.0/22",
+      "91.225.56.0/22",
+      "91.247.224.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "ROSNO",
   "description": "Insurance company SOGAZ-Med JSC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "213.109.74.0/24"
+    ],
     "ipv6": []
   }
 }

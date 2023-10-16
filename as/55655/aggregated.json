@@ -3,7 +3,10 @@
   "handle": "SIMS-ID",
   "description": "PT. Saranainsan Mudaselaras",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "111.92.161.0/24",
+      "111.92.170.0/24"
+    ],
     "ipv6": []
   }
 }

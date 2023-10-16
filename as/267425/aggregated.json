@@ -3,7 +3,11 @@
   "handle": "TSCM-NET-BRASIL",
   "description": "TSCM NET BRASIL TELECOMUNICAES LTDA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "181.191.144.0/22"
+    ],
+    "ipv6": [
+      "2804:4148::/32"
+    ]
   }
 }

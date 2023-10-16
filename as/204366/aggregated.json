@@ -3,7 +3,9 @@
   "handle": "IT-OVUNQUE",
   "description": "MU NETWORK SRL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.250.64.0/22"
+    ],
     "ipv6": []
   }
 }

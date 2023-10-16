@@ -3,7 +3,9 @@
   "handle": "SBG-AS2",
   "description": "Sinclair Broadcast Group, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "208.73.28.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "AUTOSTADT",
   "description": "Autostadt GmbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.114.76.0/24"
+    ],
     "ipv6": []
   }
 }

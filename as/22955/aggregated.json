@@ -3,7 +3,9 @@
   "handle": "CHHS-1",
   "description": "Children\u0027s Hospital \u0026 Health System, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "208.84.184.0/22"
+    ],
     "ipv6": []
   }
 }

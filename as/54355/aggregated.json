@@ -3,7 +3,10 @@
   "handle": "MULTCO",
   "description": "NETWORK SERVICES",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "205.153.48.0/22",
+      "205.173.216.0/21"
+    ],
     "ipv6": []
   }
 }

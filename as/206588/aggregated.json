@@ -3,7 +3,9 @@
   "handle": "ITALIANETCOM",
   "description": "CIRILLO MATTEO trading as ITALIA NET-COM",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.181.92.0/22"
+    ],
     "ipv6": []
   }
 }

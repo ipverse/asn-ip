@@ -3,7 +3,12 @@
   "handle": "SWISHMAIL",
   "description": "Swishmail",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "64.39.51.0/24",
+      "208.72.56.0/22"
+    ],
+    "ipv6": [
+      "2602:ffb8::/36"
+    ]
   }
 }

@@ -3,7 +3,9 @@
   "handle": "WIBMO",
   "description": "Enstage Software Private Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.74.180.0/22"
+    ],
     "ipv6": []
   }
 }

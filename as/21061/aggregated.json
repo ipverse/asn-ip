@@ -3,7 +3,9 @@
   "handle": "TELEKOMUNIKACIJU-GRUPA",
   "description": "Telegrupa Baltija SIA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.110.8.0/23"
+    ],
     "ipv6": []
   }
 }

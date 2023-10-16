@@ -3,7 +3,9 @@
   "handle": "IMPIANET",
   "description": "IMPIANET SERVICES SNC di Lovece \u0026 Petrera",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.150.64.0/22"
+    ],
     "ipv6": []
   }
 }

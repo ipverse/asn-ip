@@ -3,7 +3,9 @@
   "handle": "MAILRU-IS",
   "description": "M100 LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "79.137.140.0/24"
+    ],
     "ipv6": []
   }
 }

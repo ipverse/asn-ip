@@ -3,7 +3,9 @@
   "handle": "ITCONSULTANTSLTD-AP",
   "description": "IT Consultants Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.210.60.0/22"
+    ],
     "ipv6": []
   }
 }

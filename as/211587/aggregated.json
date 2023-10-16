@@ -3,7 +3,9 @@
   "handle": "KASEUS",
   "description": "Kaseus Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "93.170.141.0/24"
+    ],
     "ipv6": []
   }
 }

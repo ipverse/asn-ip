@@ -3,7 +3,10 @@
   "handle": "GO2TEL",
   "description": "GO2TEL.COM INC.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "204.15.40.0/24",
+      "204.15.46.0/24"
+    ],
     "ipv6": []
   }
 }

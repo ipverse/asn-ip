@@ -3,7 +3,9 @@
   "handle": "HYPER-BNG",
   "description": "Hypertherm Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "72.236.28.0/24"
+    ],
     "ipv6": []
   }
 }

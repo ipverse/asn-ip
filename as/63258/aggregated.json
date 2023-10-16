@@ -3,7 +3,9 @@
   "handle": "VALUEHOST",
   "description": "Web Hosting, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "104.244.164.0/22"
+    ],
     "ipv6": []
   }
 }

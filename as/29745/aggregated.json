@@ -3,7 +3,9 @@
   "handle": "WILSON",
   "description": "Wilson Tool Enterprises, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "198.140.255.0/24"
+    ],
     "ipv6": []
   }
 }

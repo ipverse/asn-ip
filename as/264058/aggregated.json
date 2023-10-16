@@ -3,7 +3,9 @@
   "handle": "TNB-TELECOM",
   "description": "TNB Telecom",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "143.137.204.0/22"
+    ],
     "ipv6": []
   }
 }

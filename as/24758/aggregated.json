@@ -3,7 +3,10 @@
   "handle": "MICROEL",
   "description": "Mikroel Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "93.157.16.0/21",
+      "193.111.2.0/23"
+    ],
     "ipv6": []
   }
 }

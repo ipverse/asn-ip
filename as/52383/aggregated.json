@@ -3,7 +3,11 @@
   "handle": "COOPERATIVA-ELCTRICA-AZUL",
   "description": "Cooperativa Elctrica de Azul Ltda.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "186.65.96.0/24",
+      "186.65.98.0/24",
+      "186.65.103.0/24"
+    ],
     "ipv6": []
   }
 }

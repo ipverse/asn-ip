@@ -3,7 +3,9 @@
   "handle": "UCARE-MN",
   "description": "UCare Minnesota",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.31.188.0/23"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,10 @@
   "handle": "TEKNET-WISP",
   "description": "teknet",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "130.51.204.0/22",
+      "208.99.28.0/22"
+    ],
     "ipv6": []
   }
 }

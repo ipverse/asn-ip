@@ -3,7 +3,9 @@
   "handle": "SDK",
   "description": "SDK Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "89.20.32.0/20"
+    ],
     "ipv6": []
   }
 }

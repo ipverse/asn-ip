@@ -3,7 +3,12 @@
   "handle": "IDNIC-ARTHAMAS-ID",
   "description": "PT. Arthamas Cipta",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "103.155.221.0/24",
+      "103.165.86.0/24"
+    ],
+    "ipv6": [
+      "2001:df4:db80::/48"
+    ]
   }
 }

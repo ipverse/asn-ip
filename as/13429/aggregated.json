@@ -3,7 +3,9 @@
   "handle": "MUSC",
   "description": "Medical University of South Carolina",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "128.23.0.0/16"
+    ],
     "ipv6": []
   }
 }

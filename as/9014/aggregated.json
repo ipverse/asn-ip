@@ -3,7 +3,9 @@
   "handle": "CEFAS",
   "description": "Centre for Environment Fisheries and Aquaculture Science (CEFAS)",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.10.221.0/24"
+    ],
     "ipv6": []
   }
 }

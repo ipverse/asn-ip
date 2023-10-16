@@ -3,7 +3,9 @@
   "handle": "HRVAS",
   "description": "Heruvim, Inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.127.180.0/22"
+    ],
     "ipv6": []
   }
 }

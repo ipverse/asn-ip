@@ -3,7 +3,9 @@
   "handle": "IQ-CCLTD",
   "description": "Communications and Media Commission (CMC)",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.117.56.0/23"
+    ],
     "ipv6": []
   }
 }

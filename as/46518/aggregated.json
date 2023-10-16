@@ -3,7 +3,10 @@
   "handle": "CLOUDPROVIDERUSA",
   "description": "Cloud Provider USA, LLC.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "100.42.112.0/23",
+      "100.42.114.0/24"
+    ],
     "ipv6": []
   }
 }

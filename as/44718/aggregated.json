@@ -3,7 +3,10 @@
   "handle": "FRAPORT-BG",
   "description": "Fraport Twin Star Airport Management AD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "83.228.86.0/23",
+      "89.252.244.0/23"
+    ],
     "ipv6": []
   }
 }

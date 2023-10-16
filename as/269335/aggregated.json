@@ -3,7 +3,11 @@
   "handle": "SUPORT-TELECOM",
   "description": "SUPORT TELECOM LTDA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.184.96.0/22"
+    ],
+    "ipv6": [
+      "2804:630c::/32"
+    ]
   }
 }

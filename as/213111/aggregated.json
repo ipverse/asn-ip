@@ -3,7 +3,9 @@
   "handle": "DONE",
   "description": "Studio Armonia S.r.l.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "93.177.82.0/24"
+    ],
     "ipv6": []
   }
 }

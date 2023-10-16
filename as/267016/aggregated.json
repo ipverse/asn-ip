@@ -3,7 +3,11 @@
   "handle": "FIBERNET-SERVICOS-COMUNICACAO",
   "description": "FIBERNET SERVICOS DE COMUNICACAO LTDA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.227.56.0/22"
+    ],
+    "ipv6": [
+      "2804:46dc::/32"
+    ]
   }
 }

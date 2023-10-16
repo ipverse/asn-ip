@@ -3,7 +3,9 @@
   "handle": "IND-WEB",
   "description": "S.C. Ind Web S.R.L.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "93.174.161.0/24"
+    ],
     "ipv6": []
   }
 }

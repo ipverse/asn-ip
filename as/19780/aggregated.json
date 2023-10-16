@@ -3,7 +3,9 @@
   "handle": "INTERMEDIA2",
   "description": "Intermedia.net, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "162.244.196.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "CCHICAGO-STATE-UNIVERSITY",
   "description": "CHICAGO STATE UNIVERSITY",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "209.175.72.0/22"
+    ],
     "ipv6": []
   }
 }

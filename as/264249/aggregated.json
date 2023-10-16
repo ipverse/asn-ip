@@ -3,7 +3,9 @@
   "handle": "LYRA-NETWORK-TELECOMUNICAES",
   "description": "Lyra Network Telecomunicaes LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "138.118.52.0/22"
+    ],
     "ipv6": []
   }
 }

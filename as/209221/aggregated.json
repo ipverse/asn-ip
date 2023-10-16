@@ -3,7 +3,11 @@
   "handle": "ASPERFNET",
   "description": "Performance-Net LLC",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "91.247.39.0/24"
+    ],
+    "ipv6": [
+      "2001:678:a28::/48"
+    ]
   }
 }

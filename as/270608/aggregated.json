@@ -3,7 +3,11 @@
   "handle": "MATEUS-FREITAS-ANTONIO",
   "description": "MATEUS FREITAS ANTONIO LTDA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "186.219.232.0/22"
+    ],
+    "ipv6": [
+      "2804:6e9c::/32"
+    ]
   }
 }

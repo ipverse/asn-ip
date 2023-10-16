@@ -3,7 +3,9 @@
   "handle": "BETTER-ASN-01",
   "description": "Betterment",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "63.85.233.0/24"
+    ],
     "ipv6": []
   }
 }

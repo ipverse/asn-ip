@@ -3,7 +3,9 @@
   "handle": "LITTELFUSE-AP",
   "description": "Littelfuse Phils., Inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.54.142.0/24"
+    ],
     "ipv6": []
   }
 }

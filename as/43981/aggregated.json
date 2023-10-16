@@ -3,7 +3,9 @@
   "handle": "METR-1",
   "description": "METR-1 LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "176.121.11.0/24"
+    ],
     "ipv6": []
   }
 }

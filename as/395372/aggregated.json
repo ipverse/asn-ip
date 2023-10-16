@@ -3,7 +3,10 @@
   "handle": "FIRSTCOMMANDFINANCIALSERVICES",
   "description": "First Command Financial Services, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "209.12.237.0/24",
+      "216.50.235.0/24"
+    ],
     "ipv6": []
   }
 }

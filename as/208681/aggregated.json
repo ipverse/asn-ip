@@ -3,7 +3,11 @@
   "handle": "IDEALO",
   "description": "Idealo Internet GmbH",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.89.128.0/22"
+    ],
+    "ipv6": [
+      "2a0b:a200::/29"
+    ]
   }
 }

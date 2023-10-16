@@ -3,7 +3,9 @@
   "handle": "MEW-KW",
   "description": "Ministry of Electricity and Water",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.173.40.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -4,6 +4,8 @@
   "description": "Renato silva almeida e cia",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2804:8cac::/32"
+    ]
   }
 }

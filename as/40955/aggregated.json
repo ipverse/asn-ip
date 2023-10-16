@@ -3,7 +3,12 @@
   "handle": "REDHAT-DC-BOS2",
   "description": "Red Hat, Inc.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "38.145.40.0/23",
+      "209.132.184.0/24"
+    ],
+    "ipv6": [
+      "2620:52:7::/48"
+    ]
   }
 }

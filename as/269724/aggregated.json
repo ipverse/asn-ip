@@ -3,7 +3,9 @@
   "handle": "HF-TELECOMUNICAES-EIRELI",
   "description": "HF TELECOMUNICAES EIRELI",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.189.160.0/22"
+    ],
     "ipv6": [
       "2804:68e8::/32"
     ]

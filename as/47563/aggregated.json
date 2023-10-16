@@ -3,7 +3,9 @@
   "handle": "SIS",
   "description": "Sports Information Services Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "93.174.216.0/21"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,11 @@
   "handle": "AUTOCONFIG",
   "description": "Alain H.J.D. Crispiels",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "95.214.140.0/22"
+    ],
+    "ipv6": [
+      "2a09:eb80::/29"
+    ]
   }
 }

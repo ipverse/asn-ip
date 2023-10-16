@@ -3,7 +3,9 @@
   "handle": "ISEAS-AP",
   "description": "ISEAS Yusof Ishak Institute",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "202.0.149.0/24"
+    ],
     "ipv6": []
   }
 }

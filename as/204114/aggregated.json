@@ -3,7 +3,9 @@
   "handle": "ITENCORE-TVR",
   "description": "IT ENCORE TECNOLOGIA SL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.25.113.0/24"
+    ],
     "ipv6": []
   }
 }

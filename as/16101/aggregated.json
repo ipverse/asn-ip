@@ -3,7 +3,11 @@
   "handle": "ORDIPAT",
   "description": "ORDIPAT SAS",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "193.41.194.0/24"
+    ],
+    "ipv6": [
+      "2001:67c:2b38::/48"
+    ]
   }
 }

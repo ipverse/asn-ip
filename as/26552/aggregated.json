@@ -3,7 +3,9 @@
   "handle": "PROMCAP",
   "description": "Promontory Interfinancial Network, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "208.184.9.0/24"
+    ],
     "ipv6": []
   }
 }

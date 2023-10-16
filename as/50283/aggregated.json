@@ -3,7 +3,9 @@
   "handle": "BUSINESSCENTER",
   "description": "Buisiness Kvartal Nov Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.106.72.0/22"
+    ],
     "ipv6": []
   }
 }

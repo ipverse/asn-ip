@@ -3,7 +3,9 @@
   "handle": "PLUSSERVER-ASN-STL",
   "description": "PlusServer GmbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "62.138.210.0/24"
+    ],
     "ipv6": []
   }
 }

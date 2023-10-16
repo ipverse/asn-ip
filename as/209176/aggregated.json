@@ -3,7 +3,9 @@
   "handle": "EKENG",
   "description": "EKENG CJSC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "83.139.3.0/24"
+    ],
     "ipv6": []
   }
 }

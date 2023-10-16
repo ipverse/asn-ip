@@ -3,7 +3,9 @@
   "handle": "PHYSTRAX-NETWORK",
   "description": "Phystrax Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.92.41.0/24"
+    ],
     "ipv6": []
   }
 }

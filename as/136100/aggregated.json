@@ -3,7 +3,9 @@
   "handle": "BKVTELEMEDIA-ID",
   "description": "PT. BKVNET TELEMEDIA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.89.160.0/22"
+    ],
     "ipv6": []
   }
 }

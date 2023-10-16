@@ -3,7 +3,9 @@
   "handle": "GROUPOK-SERVICOS-COMUNICACAO",
   "description": "GROUPOK SERVICOS DE COMUNICACAO LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.4.60.0/22"
+    ],
     "ipv6": []
   }
 }

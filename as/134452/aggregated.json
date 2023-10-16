@@ -3,7 +3,9 @@
   "handle": "SNAPDEAL-AP",
   "description": "Jasper Infotech Pvt Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.194.152.0/24"
+    ],
     "ipv6": []
   }
 }

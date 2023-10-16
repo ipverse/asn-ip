@@ -3,7 +3,9 @@
   "handle": "CHINA-INTERNET-NETWORK",
   "description": "China Internet Network Information Center",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.135.196.0/22"
+    ],
     "ipv6": []
   }
 }

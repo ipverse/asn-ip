@@ -4,6 +4,8 @@
   "description": "PJSC Vimpelcom",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a03:8700:1000::/36"
+    ]
   }
 }

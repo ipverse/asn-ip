@@ -3,7 +3,9 @@
   "handle": "COMTIME",
   "description": "Commercial Time Sharing, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "68.75.195.0/24"
+    ],
     "ipv6": []
   }
 }

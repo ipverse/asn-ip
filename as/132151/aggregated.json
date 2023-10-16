@@ -3,7 +3,9 @@
   "handle": "GUIDEHOUSE-AP",
   "description": "Guidehouse India Private Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.6.27.0/24"
+    ],
     "ipv6": []
   }
 }

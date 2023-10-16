@@ -3,7 +3,9 @@
   "handle": "IDNIC-DTA-ID",
   "description": "CV Dwi Tunggal Abadi",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.140.184.0/24"
+    ],
     "ipv6": []
   }
 }

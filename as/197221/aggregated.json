@@ -3,7 +3,10 @@
   "handle": "UA-BEETEC",
   "description": "Beetec Telekom LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.162.20.0/22",
+      "194.48.209.0/24"
+    ],
     "ipv6": []
   }
 }

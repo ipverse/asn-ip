@@ -3,7 +3,10 @@
   "handle": "SATITPATTANA-AP",
   "description": "Satit Pattana School",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "161.82.228.0/24",
+      "202.80.255.0/24"
+    ],
     "ipv6": []
   }
 }

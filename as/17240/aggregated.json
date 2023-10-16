@@ -3,7 +3,10 @@
   "handle": "CLASSMATES-1",
   "description": "PeopleConnect, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "208.84.40.0/23",
+      "208.84.43.0/24"
+    ],
     "ipv6": []
   }
 }

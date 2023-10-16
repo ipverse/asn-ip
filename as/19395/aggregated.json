@@ -3,7 +3,10 @@
   "handle": "BCCC-COLLEGE-I2",
   "description": "Bucks County Community College",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.112.54.0/24",
+      "192.231.233.0/24"
+    ],
     "ipv6": []
   }
 }

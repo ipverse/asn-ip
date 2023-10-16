@@ -3,7 +3,10 @@
   "handle": "CITRIXSYSTEMS-AP",
   "description": "Citrix Systems Asia Pacific Pty Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.14.252.0/23",
+      "103.14.255.0/24"
+    ],
     "ipv6": []
   }
 }

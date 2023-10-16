@@ -3,7 +3,9 @@
   "handle": "CSFTB",
   "description": "California State Franchise Tax Board",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "168.240.0.0/16"
+    ],
     "ipv6": []
   }
 }

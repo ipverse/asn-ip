@@ -3,7 +3,9 @@
   "handle": "VIAWEB-TELECOM",
   "description": "ViaWeb Telecom",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "181.191.108.0/22"
+    ],
     "ipv6": []
   }
 }

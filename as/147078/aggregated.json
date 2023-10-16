@@ -3,7 +3,9 @@
   "handle": "IDNIC-SMC-ID",
   "description": "PT Serayu Multi Connection",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.173.138.0/23"
+    ],
     "ipv6": []
   }
 }

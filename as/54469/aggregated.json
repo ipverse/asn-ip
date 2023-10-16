@@ -3,7 +3,10 @@
   "handle": "COV-ISP",
   "description": "City of Vacaville",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "198.190.169.0/24",
+      "209.76.206.0/24"
+    ],
     "ipv6": []
   }
 }

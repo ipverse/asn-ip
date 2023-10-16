@@ -3,7 +3,11 @@
   "handle": "UPNET-SOLUCOES-TECNOLOGIA",
   "description": "UPNET SOLUCOES E TECNOLOGIA EIRELI",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "181.232.164.0/22"
+    ],
+    "ipv6": [
+      "2804:7988::/32"
+    ]
   }
 }

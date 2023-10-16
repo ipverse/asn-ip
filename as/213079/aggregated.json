@@ -3,7 +3,9 @@
   "handle": "COBWEB-SET",
   "description": "COBWEBS TECHNOLOGIES LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "147.234.85.0/24"
+    ],
     "ipv6": []
   }
 }

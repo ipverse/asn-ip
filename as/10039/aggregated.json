@@ -3,7 +3,9 @@
   "handle": "KHIDI",
   "description": "Korea Health Industry Development Institute",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "210.179.230.0/23"
+    ],
     "ipv6": []
   }
 }

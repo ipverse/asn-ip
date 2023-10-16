@@ -3,7 +3,9 @@
   "handle": "KLG",
   "description": "Keller Logistics Group, INC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "71.67.233.0/24"
+    ],
     "ipv6": []
   }
 }

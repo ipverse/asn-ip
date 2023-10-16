@@ -3,7 +3,9 @@
   "handle": "ARTEKS",
   "description": "ARTEKS LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "92.255.43.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "WI-GO-INTERNET",
   "description": "WI GO INTERNET SA DE CV",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.177.43.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,10 @@
   "handle": "BANKSPB",
   "description": "Bank Saint Petersburg PJSC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "213.172.3.0/24",
+      "217.195.86.0/24"
+    ],
     "ipv6": []
   }
 }

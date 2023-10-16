@@ -3,7 +3,9 @@
   "handle": "GSC-MINNEAPOLISMN",
   "description": "Gannett Supply Corp. - Minneapolis, MN",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "167.8.6.0/24"
+    ],
     "ipv6": []
   }
 }

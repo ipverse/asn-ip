@@ -3,7 +3,9 @@
   "handle": "ASAV-RO",
   "description": "ARBORE VERDE SRL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "89.33.105.0/24"
+    ],
     "ipv6": []
   }
 }

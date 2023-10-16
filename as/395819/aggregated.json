@@ -3,7 +3,9 @@
   "handle": "TELECLOUDVOIP",
   "description": "TeleCloud",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.86.216.0/22"
+    ],
     "ipv6": []
   }
 }

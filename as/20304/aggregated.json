@@ -3,7 +3,11 @@
   "handle": "LEPTON-GLOABL-SOLUTIONS-2012",
   "description": "Lepton Global Solutions, LLC.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "64.112.191.0/24",
+      "69.71.137.0/24",
+      "69.71.138.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,11 @@
   "handle": "ASN",
   "description": "Cu Cooperative Systems, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.59.176.0/23",
+      "199.59.179.0/24",
+      "207.108.80.0/24"
+    ],
     "ipv6": []
   }
 }

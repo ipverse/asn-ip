@@ -3,7 +3,11 @@
   "handle": "MR-NETWORKS-INTERNET",
   "description": "MR NETWORKS - INTERNET BANDA LARGA LTDA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.230.180.0/22"
+    ],
+    "ipv6": [
+      "2804:4a5c::/32"
+    ]
   }
 }

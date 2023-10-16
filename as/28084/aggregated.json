@@ -3,7 +3,9 @@
   "handle": "INFATLAN",
   "description": "Infatlan S.A",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "200.3.194.0/24"
+    ],
     "ipv6": []
   }
 }

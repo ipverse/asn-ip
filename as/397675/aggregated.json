@@ -3,7 +3,9 @@
   "handle": "ASD-WHP-BLOCK",
   "description": "Armstrong School District",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "147.160.0.0/24"
+    ],
     "ipv6": []
   }
 }

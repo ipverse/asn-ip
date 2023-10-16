@@ -3,7 +3,11 @@
   "handle": "SWA-W11-MKT-INET",
   "description": "Southwest Airlines Co.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "66.150.1.0/24",
+      "208.184.0.0/24",
+      "208.185.44.0/24"
+    ],
     "ipv6": []
   }
 }

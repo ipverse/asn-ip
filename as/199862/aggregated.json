@@ -3,7 +3,9 @@
   "handle": "RENOVA-GR",
   "description": "JSC Group of companies RENOVA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "82.138.59.0/24"
+    ],
     "ipv6": []
   }
 }

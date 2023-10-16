@@ -3,7 +3,9 @@
   "handle": "AGEN",
   "description": "AGENCIJA ZA ENERGIJO",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.176.112.0/24"
+    ],
     "ipv6": []
   }
 }

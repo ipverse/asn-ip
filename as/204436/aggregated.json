@@ -3,7 +3,10 @@
   "handle": "KUALO",
   "description": "Kualo Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.197.228.0/22",
+      "185.181.116.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "SEPCL-AP",
   "description": "Singha Estate Public Company Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.139.108.0/24"
+    ],
     "ipv6": []
   }
 }

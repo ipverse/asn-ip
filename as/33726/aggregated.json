@@ -3,7 +3,9 @@
   "handle": "GENEVACOLLEGE",
   "description": "GENEVA COLLEGE",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.12.148.0/23"
+    ],
     "ipv6": []
   }
 }

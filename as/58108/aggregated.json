@@ -3,7 +3,9 @@
   "handle": "USC",
   "description": "United Shipbuilding Corporation, JSC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.221.98.0/24"
+    ],
     "ipv6": []
   }
 }

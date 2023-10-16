@@ -3,7 +3,9 @@
   "handle": "MARCIO-MORGUENROTH",
   "description": "Marcio Morguenroth EPP",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "138.219.32.0/22"
+    ],
     "ipv6": []
   }
 }

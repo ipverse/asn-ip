@@ -3,7 +3,9 @@
   "handle": "WVSU",
   "description": "West Virginia State University",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.73.23.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,13 @@
   "handle": "LESTE-FLU-SERVIOS",
   "description": "LESTE FLU SERVIOS DE TELECOM LTDA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.65.156.0/22",
+      "138.94.60.0/22",
+      "200.202.96.0/20"
+    ],
+    "ipv6": [
+      "2804:3d28::/32"
+    ]
   }
 }

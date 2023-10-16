@@ -3,7 +3,11 @@
   "handle": "ORBITEL",
   "description": "Orbitel LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "176.96.80.0/22",
+      "176.96.87.0/24",
+      "195.88.62.0/23"
+    ],
     "ipv6": []
   }
 }

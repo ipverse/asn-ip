@@ -3,7 +3,11 @@
   "handle": "NEYRIAL",
   "description": "NEYRIAL CENTRE FRANCE SAS",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "185.131.80.0/22"
+    ],
+    "ipv6": [
+      "2a06:97c0::/29"
+    ]
   }
 }

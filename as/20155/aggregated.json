@@ -3,7 +3,9 @@
   "handle": "OCO-1",
   "description": "ORANGE COUNTY ONLINE",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "216.171.160.0/20"
+    ],
     "ipv6": []
   }
 }

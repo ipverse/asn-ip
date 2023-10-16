@@ -3,7 +3,9 @@
   "handle": "TTFKVT-AP",
   "description": "Goanna Networks",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.190.90.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "SUNEAST",
   "description": "Sun East",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "207.245.109.0/24"
+    ],
     "ipv6": []
   }
 }

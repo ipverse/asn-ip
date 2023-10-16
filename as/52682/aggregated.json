@@ -3,7 +3,11 @@
   "handle": "W3-MEGA",
   "description": "W3 MEGA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "177.221.192.0/19"
+    ],
+    "ipv6": [
+      "2804:2d90::/32"
+    ]
   }
 }

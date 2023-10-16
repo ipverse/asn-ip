@@ -3,7 +3,9 @@
   "handle": "CNGI-XA-IX-AP",
   "description": "CERNET2 IX at Xi\u0027an Jiaotong University",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "115.154.0.0/16"
+    ],
     "ipv6": []
   }
 }

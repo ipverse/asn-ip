@@ -3,7 +3,9 @@
   "handle": "KQED-ORG",
   "description": "KQED Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "204.48.60.0/24"
+    ],
     "ipv6": []
   }
 }

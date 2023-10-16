@@ -3,7 +3,9 @@
   "handle": "LION-TECHNOLOGY-570",
   "description": "LION TECHNOLOGY INC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "165.140.190.0/24"
+    ],
     "ipv6": []
   }
 }

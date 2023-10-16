@@ -3,7 +3,9 @@
   "handle": "RIGLA",
   "description": "OOO Rigla",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.232.51.0/24"
+    ],
     "ipv6": []
   }
 }

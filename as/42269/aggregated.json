@@ -3,7 +3,9 @@
   "handle": "ACMETELECOM",
   "description": "Foton Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.211.228.0/22"
+    ],
     "ipv6": []
   }
 }

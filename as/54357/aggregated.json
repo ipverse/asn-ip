@@ -3,7 +3,10 @@
   "handle": "FIRST-SOLAR",
   "description": "First Solar, inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "12.231.155.0/24",
+      "24.52.122.0/24"
+    ],
     "ipv6": []
   }
 }

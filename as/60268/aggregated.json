@@ -3,7 +3,11 @@
   "handle": "DIGITAL-COMMUNICATION-PALESTINE",
   "description": "Digital Communication Company for Telecommunications and Information Technology LTD",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "185.33.168.0/24"
+    ],
+    "ipv6": [
+      "2a00:cee3::/32"
+    ]
   }
 }

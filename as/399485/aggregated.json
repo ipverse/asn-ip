@@ -3,7 +3,9 @@
   "handle": "TCW-TOR",
   "description": "The TCW Group, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "205.153.177.0/24"
+    ],
     "ipv6": []
   }
 }

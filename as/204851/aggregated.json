@@ -3,7 +3,9 @@
   "handle": "DAN-PLUS-INTERNATIONAL-DOO",
   "description": "Maxbet D.O.O.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.237.240.0/22"
+    ],
     "ipv6": []
   }
 }

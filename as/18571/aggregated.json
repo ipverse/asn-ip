@@ -3,7 +3,9 @@
   "handle": "WESTERNRESERVEGROUP",
   "description": "The Western Reserve Mutual Casualty Company",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "205.245.89.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "EDGEWOODTAHOE",
   "description": "Edgewood Companies",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "47.45.4.0/24"
+    ],
     "ipv6": []
   }
 }

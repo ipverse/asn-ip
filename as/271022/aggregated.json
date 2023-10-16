@@ -3,7 +3,11 @@
   "handle": "ISONIX-FIBRA",
   "description": "ISONIX FIBRA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "200.49.24.0/22"
+    ],
+    "ipv6": [
+      "2804:7514::/32"
+    ]
   }
 }

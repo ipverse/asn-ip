@@ -3,7 +3,9 @@
   "handle": "KEAD",
   "description": "KEAD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "210.100.137.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,10 @@
   "handle": "IZCOMPANY-BRASIL",
   "description": "IZCOMPANY BRASIL LTDA ME",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "168.90.188.0/24",
+      "168.90.190.0/23"
+    ],
     "ipv6": []
   }
 }

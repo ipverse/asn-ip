@@ -3,7 +3,10 @@
   "handle": "VELOCITY-FUSION",
   "description": "Velocity Fusion",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "12.109.223.0/24",
+      "12.198.128.0/24"
+    ],
     "ipv6": []
   }
 }

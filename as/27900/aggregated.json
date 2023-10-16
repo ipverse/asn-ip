@@ -3,7 +3,9 @@
   "handle": "PLATINUM-ENTERPRISES",
   "description": "PLATINUM ENTERPRISES, S.A. DE C.V.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "200.73.104.0/22"
+    ],
     "ipv6": []
   }
 }

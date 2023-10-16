@@ -3,7 +3,9 @@
   "handle": "CREDITURALBANK",
   "description": "Credit Ural Bank Joint Stock Company",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "5.3.84.0/24"
+    ],
     "ipv6": []
   }
 }

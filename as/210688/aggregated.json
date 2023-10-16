@@ -3,7 +3,9 @@
   "handle": "BALTAS",
   "description": "Vismabaltas, UAB",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.104.134.0/24"
+    ],
     "ipv6": []
   }
 }

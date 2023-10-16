@@ -3,7 +3,9 @@
   "handle": "SIRIUSSATELLITERADIO",
   "description": "SIRIUS SATELLITE RADIO",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "209.196.192.0/23"
+    ],
     "ipv6": []
   }
 }

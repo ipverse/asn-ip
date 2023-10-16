@@ -3,7 +3,10 @@
   "handle": "KLN-ID",
   "description": "PT KOMUNIKASI LINTAS NUSA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.47.10.0/23",
+      "103.226.48.0/22"
+    ],
     "ipv6": []
   }
 }

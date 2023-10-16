@@ -3,7 +3,13 @@
   "handle": "MGNET-INFORMATICA-SERVIOS",
   "description": "MGNET INFORMATICA E SERVIOS LTDA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "143.137.60.0/22",
+      "170.82.72.0/22",
+      "177.73.112.0/21"
+    ],
+    "ipv6": [
+      "2804:62c::/32"
+    ]
   }
 }

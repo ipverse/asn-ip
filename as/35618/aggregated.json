@@ -3,7 +3,9 @@
   "handle": "WMGRUPPE",
   "description": "Herausgebergemeinschaft Wertpapier-Mitteilungen Keppler, Lehmann GmbH \u0026 Co. KG",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.187.220.0/22"
+    ],
     "ipv6": []
   }
 }

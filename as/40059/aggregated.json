@@ -3,7 +3,9 @@
   "handle": "CBCCTS-HQNET",
   "description": "Community Blood Center",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.204.224.0/22"
+    ],
     "ipv6": []
   }
 }

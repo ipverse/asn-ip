@@ -3,7 +3,9 @@
   "handle": "MORGAN-HAMART",
   "description": "MORGAN HAMART",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.190.3.0/24"
+    ],
     "ipv6": []
   }
 }

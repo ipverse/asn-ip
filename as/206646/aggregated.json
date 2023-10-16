@@ -3,7 +3,10 @@
   "handle": "EHI-LDE",
   "description": "Enterprise Holdings, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.171.57.0/24",
+      "185.171.58.0/23"
+    ],
     "ipv6": []
   }
 }

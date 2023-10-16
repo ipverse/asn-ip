@@ -3,7 +3,10 @@
   "handle": "ASTA-AP",
   "description": "Applied Satellite Technology Australia Pty Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.247.236.0/23",
+      "203.5.16.0/23"
+    ],
     "ipv6": []
   }
 }

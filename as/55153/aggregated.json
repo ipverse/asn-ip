@@ -3,7 +3,9 @@
   "handle": "BREMERFINANCIAL",
   "description": "BREMER FINANCIAL SERVICES",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "198.168.126.0/24"
+    ],
     "ipv6": []
   }
 }

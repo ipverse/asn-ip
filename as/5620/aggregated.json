@@ -3,7 +3,9 @@
   "handle": "ADRIAMEDIA",
   "description": "AdriaMediaZAGREB doo",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "89.164.92.0/24"
+    ],
     "ipv6": []
   }
 }

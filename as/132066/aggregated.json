@@ -3,7 +3,9 @@
   "handle": "NPDC-AP",
   "description": "New Plymouth District Council",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.11.178.0/24"
+    ],
     "ipv6": []
   }
 }

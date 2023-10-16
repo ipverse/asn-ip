@@ -3,7 +3,9 @@
   "handle": "NEO-BACKBONE",
   "description": "Tietoevry Tech Services Sweden AB",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.46.71.0/24"
+    ],
     "ipv6": []
   }
 }

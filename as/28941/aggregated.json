@@ -3,7 +3,10 @@
   "handle": "NOVANETWORKS",
   "description": "NOVA NETWORKS S.R.L.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "149.100.172.0/22",
+      "185.103.112.0/22"
+    ],
     "ipv6": []
   }
 }

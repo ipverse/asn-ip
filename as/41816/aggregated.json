@@ -3,7 +3,10 @@
   "handle": "MEGALOG-PLUS",
   "description": "Megalog-Plus Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.143.16.0/20",
+      "185.209.44.0/22"
+    ],
     "ipv6": []
   }
 }

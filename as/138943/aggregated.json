@@ -3,7 +3,9 @@
   "handle": "CNS247-AP",
   "description": "Connectnet Services Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.137.132.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,12 @@
   "handle": "EVOCATIVE3",
   "description": "Evocative, Inc.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "74.116.54.0/24",
+      "107.6.236.0/22"
+    ],
+    "ipv6": [
+      "2605:bb00:8000::/35"
+    ]
   }
 }

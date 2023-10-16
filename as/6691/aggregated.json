@@ -3,7 +3,9 @@
   "handle": "BNL",
   "description": "Banca Nazionale del Lavoro S.P.A.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "212.102.64.0/19"
+    ],
     "ipv6": []
   }
 }

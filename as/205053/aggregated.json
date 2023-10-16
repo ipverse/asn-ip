@@ -3,7 +3,11 @@
   "handle": "AWEB",
   "description": "Asimia Damaskou",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "185.226.64.0/22"
+    ],
+    "ipv6": [
+      "2a0c:5e00::/48"
+    ]
   }
 }

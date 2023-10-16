@@ -3,7 +3,9 @@
   "handle": "GTT-TORINO",
   "description": "Gruppo Torinese Trasporti S.p.A",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "89.184.107.0/24"
+    ],
     "ipv6": []
   }
 }

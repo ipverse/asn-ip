@@ -3,7 +3,9 @@
   "handle": "HQ-BGP-HANDLE",
   "description": "Prescient Applied Intelligence, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "205.132.36.0/23"
+    ],
     "ipv6": []
   }
 }

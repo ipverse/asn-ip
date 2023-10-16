@@ -3,7 +3,11 @@
   "handle": "D-S-CUPERTINO",
   "description": "D S CUPERTINO SERVICOS DE HOSPEDAGEM NA INTERNET",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "200.11.120.0/22"
+    ],
+    "ipv6": [
+      "2804:6c00::/32"
+    ]
   }
 }

@@ -3,7 +3,11 @@
   "handle": "MASCOM-WIRELESS-BOTSWANA",
   "description": "Mascom Wireless Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "41.223.72.0/22",
+      "102.215.0.0/22",
+      "156.38.4.0/22"
+    ],
     "ipv6": []
   }
 }

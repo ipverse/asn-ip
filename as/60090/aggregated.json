@@ -3,7 +3,9 @@
   "handle": "FAN-COURIER",
   "description": "FAN Courier Express SRL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "89.200.243.0/24"
+    ],
     "ipv6": []
   }
 }

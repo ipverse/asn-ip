@@ -3,7 +3,9 @@
   "handle": "SIAT",
   "description": "Sur Industrial Avances Tecnologicos SL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.79.28.0/22"
+    ],
     "ipv6": []
   }
 }

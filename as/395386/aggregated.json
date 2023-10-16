@@ -3,7 +3,9 @@
   "handle": "THECITYOFMONCTON",
   "description": "The City of Moncton",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.160.167.0/24"
+    ],
     "ipv6": []
   }
 }

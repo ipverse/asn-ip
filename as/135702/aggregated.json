@@ -3,7 +3,9 @@
   "handle": "ATRINM",
   "description": "Atri Networks And Media Pvt Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.74.140.0/23"
+    ],
     "ipv6": []
   }
 }

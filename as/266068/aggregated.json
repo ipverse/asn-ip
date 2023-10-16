@@ -3,7 +3,9 @@
   "handle": "TRIBUNAL-JUSTIA-SERGIPE",
   "description": "Tribunal de Justia do Estado de Sergipe",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.5.14.0/24"
+    ],
     "ipv6": []
   }
 }

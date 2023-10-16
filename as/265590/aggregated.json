@@ -3,7 +3,10 @@
   "handle": "ABIX-TELECOMUNICACIONES",
   "description": "ABIX TELECOMUNICACIONES S.A. DE C.V.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.178.72.0/22",
+      "63.245.105.0/24"
+    ],
     "ipv6": []
   }
 }

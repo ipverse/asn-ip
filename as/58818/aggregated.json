@@ -3,7 +3,9 @@
   "handle": "IDNIC-UMY-ID",
   "description": "Universitas Muhammadiyah Yogyakarta",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.251.180.0/22"
+    ],
     "ipv6": []
   }
 }

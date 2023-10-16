@@ -3,7 +3,9 @@
   "handle": "IDNIC-ENSEVAL-ID",
   "description": "PT. Enseval Putera Megatrading, Tbk",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.147.219.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "DIALINTERNET",
   "description": "DialAmerica Marketing, Inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "8.11.1.0/24"
+    ],
     "ipv6": []
   }
 }

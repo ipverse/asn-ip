@@ -3,7 +3,9 @@
   "handle": "RAOTTDI",
   "description": "Tallahassee Diagnostic Imaging",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "65.133.118.0/24"
+    ],
     "ipv6": []
   }
 }

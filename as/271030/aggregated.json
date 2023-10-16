@@ -3,7 +3,11 @@
   "handle": "TOP-GIGA-TELECOM",
   "description": "TOP GIGA TELECOM",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "177.91.0.0/22"
+    ],
+    "ipv6": [
+      "2804:7530:8000::/34"
+    ]
   }
 }

@@ -3,7 +3,9 @@
   "handle": "PACIFICORP",
   "description": "Pacificorp",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "131.219.0.0/20"
+    ],
     "ipv6": []
   }
 }

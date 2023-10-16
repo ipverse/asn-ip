@@ -3,7 +3,9 @@
   "handle": "EMONEYPROD",
   "description": "eMoney Advisor",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.88.0.0/24"
+    ],
     "ipv6": []
   }
 }

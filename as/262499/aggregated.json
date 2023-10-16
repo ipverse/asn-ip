@@ -3,7 +3,11 @@
   "handle": "TMC-TECNOLOGIA-EM",
   "description": "TMC Tecnologia em Telecomunicacoes Ltda",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "177.66.152.0/22"
+    ],
+    "ipv6": [
+      "2804:860::/32"
+    ]
   }
 }

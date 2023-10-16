@@ -3,7 +3,11 @@
   "handle": "UNIMED-REGIONAL-MARING",
   "description": "Unimed Regional Maring",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "191.37.255.0/24"
+    ],
+    "ipv6": [
+      "2801:80:a70::/48"
+    ]
   }
 }

@@ -3,7 +3,9 @@
   "handle": "MILLIMAN",
   "description": "Milliman, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "74.116.172.0/23"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,11 @@
   "handle": "COMPANHIA-ZAFFARI-COMRCIO",
   "description": "COMPANHIA ZAFFARI COMRCIO E INDSTRIA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.237.154.0/23"
+    ],
+    "ipv6": [
+      "2801:80:2440::/46"
+    ]
   }
 }

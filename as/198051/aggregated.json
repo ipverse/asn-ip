@@ -3,7 +3,9 @@
   "handle": "PBSBANK",
   "description": "Podkarpacki Bank Spoldzielczy",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.230.74.0/24"
+    ],
     "ipv6": []
   }
 }

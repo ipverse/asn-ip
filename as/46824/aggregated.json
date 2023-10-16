@@ -3,7 +3,12 @@
   "handle": "NAMECRANE",
   "description": "NameCrane LLC",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "23.147.8.0/24",
+      "162.244.92.0/22"
+    ],
+    "ipv6": [
+      "2605:6400:100::/48"
+    ]
   }
 }

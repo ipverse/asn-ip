@@ -3,7 +3,9 @@
   "handle": "JUMP-NET",
   "description": "JUMP NET",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.185.176.0/22"
+    ],
     "ipv6": []
   }
 }

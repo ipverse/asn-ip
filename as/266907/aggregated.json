@@ -3,7 +3,9 @@
   "handle": "DEWCOM-SYSTEMS",
   "description": "DEWCOM SYSTEMS S.A",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.224.202.0/24"
+    ],
     "ipv6": []
   }
 }

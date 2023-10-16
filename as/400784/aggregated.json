@@ -3,7 +3,9 @@
   "handle": "RECTITUDE-WOODLANDS",
   "description": "Rectitude 369, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "142.202.73.0/24"
+    ],
     "ipv6": []
   }
 }

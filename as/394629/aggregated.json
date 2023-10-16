@@ -3,7 +3,9 @@
   "handle": "MWIECOM",
   "description": "MWI Veterinary Supply Co.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.83.245.0/24"
+    ],
     "ipv6": []
   }
 }

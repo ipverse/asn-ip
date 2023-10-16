@@ -3,7 +3,9 @@
   "handle": "HCTRL",
   "description": "OPTICALTEL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "209.42.36.0/22"
+    ],
     "ipv6": []
   }
 }

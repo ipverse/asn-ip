@@ -3,7 +3,10 @@
   "handle": "NEWLINESOLUTIONS",
   "description": "New Line Solutions LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "37.140.216.0/24",
+      "91.213.99.0/24"
+    ],
     "ipv6": []
   }
 }

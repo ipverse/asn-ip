@@ -3,7 +3,9 @@
   "handle": "NEOGRAFIA",
   "description": "Gaya, s.r.o.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "80.242.41.0/24"
+    ],
     "ipv6": []
   }
 }

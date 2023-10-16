@@ -3,7 +3,11 @@
   "handle": "IGNET-LINHAS-TELECOMUNICAES",
   "description": "IGNET LINHAS TELECOMUNICAES - ME",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "128.201.92.0/22"
+    ],
+    "ipv6": [
+      "2804:3ecc::/32"
+    ]
   }
 }

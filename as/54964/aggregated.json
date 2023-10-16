@@ -3,7 +3,9 @@
   "handle": "PBC-CORPASN",
   "description": "Premier Business Centers",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "206.111.50.0/24"
+    ],
     "ipv6": []
   }
 }

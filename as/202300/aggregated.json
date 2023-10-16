@@ -3,7 +3,9 @@
   "handle": "NEXTOLOGIES",
   "description": "Nextologies Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.189.72.0/22"
+    ],
     "ipv6": []
   }
 }

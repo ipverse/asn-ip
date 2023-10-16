@@ -3,7 +3,9 @@
   "handle": "TRAMWAJEWARSZAWSKIE",
   "description": "Tramwaje Warszawskie sp. z o.o.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "85.219.213.0/24"
+    ],
     "ipv6": []
   }
 }

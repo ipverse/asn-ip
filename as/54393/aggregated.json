@@ -3,7 +3,10 @@
   "handle": "FLC-DURANGO",
   "description": "Fort Lewis College",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "129.19.128.0/20",
+      "192.70.202.0/24"
+    ],
     "ipv6": []
   }
 }

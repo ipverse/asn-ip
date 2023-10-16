@@ -3,7 +3,12 @@
   "handle": "TACNET-TELECOM",
   "description": "TACNET TELECOM",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "170.81.48.0/22",
+      "179.125.112.0/21"
+    ],
+    "ipv6": [
+      "2804:1068::/32"
+    ]
   }
 }

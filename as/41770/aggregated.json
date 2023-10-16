@@ -3,7 +3,11 @@
   "handle": "IMINGO",
   "description": "IMINGO SERVICES",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "81.28.96.0/20"
+    ],
+    "ipv6": [
+      "2a03:25c0::/32"
+    ]
   }
 }

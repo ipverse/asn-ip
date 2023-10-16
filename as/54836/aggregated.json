@@ -3,7 +3,9 @@
   "handle": "TRIN",
   "description": "Trinity Industries, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "198.210.0.0/22"
+    ],
     "ipv6": []
   }
 }

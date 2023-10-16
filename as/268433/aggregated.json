@@ -3,7 +3,9 @@
   "handle": "MGCLOUD-SOLUCOES-EM",
   "description": "MGCLOUD SOLUCOES EM TIC LTDA - ME",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.91.254.0/24"
+    ],
     "ipv6": []
   }
 }

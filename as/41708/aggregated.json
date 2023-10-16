@@ -3,7 +3,9 @@
   "handle": "CREDIBOM",
   "description": "Banco Credibom S.A.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.36.190.0/24"
+    ],
     "ipv6": []
   }
 }

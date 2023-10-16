@@ -3,7 +3,10 @@
   "handle": "UCOL-AP",
   "description": "Universal College of Learning",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "202.36.96.0/21",
+      "202.49.198.0/23"
+    ],
     "ipv6": []
   }
 }

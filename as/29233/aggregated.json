@@ -3,7 +3,9 @@
   "handle": "IIP-NET",
   "description": "Telecommunications center UMOS, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "85.89.126.0/23"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,11 @@
   "handle": "PRAGMA-FS-01",
   "description": "Pragma Financial Systems",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.57.33.0/24",
+      "74.113.76.0/23",
+      "74.113.78.0/24"
+    ],
     "ipv6": []
   }
 }

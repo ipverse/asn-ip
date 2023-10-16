@@ -4,6 +4,8 @@
   "description": "Rick Bakker trading as Bakker IT",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a02:f5c0::/32"
+    ]
   }
 }

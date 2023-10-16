@@ -3,7 +3,9 @@
   "handle": "BANCA-AFIRME",
   "description": "BANCA AFIRME, S.A.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "200.23.76.0/23"
+    ],
     "ipv6": []
   }
 }

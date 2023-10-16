@@ -3,7 +3,9 @@
   "handle": "RV-NET-TELECOM",
   "description": "RV-NET Telecom",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.140.96.0/22"
+    ],
     "ipv6": []
   }
 }

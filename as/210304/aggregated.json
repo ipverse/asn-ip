@@ -3,7 +3,9 @@
   "handle": "PASTABELLI",
   "description": "OCKNet GmbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.252.68.0/22"
+    ],
     "ipv6": []
   }
 }

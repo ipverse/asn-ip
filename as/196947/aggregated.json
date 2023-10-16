@@ -3,7 +3,9 @@
   "handle": "UKRAINE",
   "description": "ZAT Television and Broadcasting Company Ukraine",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.105.152.0/24"
+    ],
     "ipv6": []
   }
 }

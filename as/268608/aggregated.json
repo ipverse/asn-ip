@@ -3,7 +3,11 @@
   "handle": "MARCONE-C-SOUZA",
   "description": "MARCONE C DE SOUZA LTDA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.164.80.0/22"
+    ],
+    "ipv6": [
+      "2804:53d0::/32"
+    ]
   }
 }

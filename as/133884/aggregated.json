@@ -3,7 +3,9 @@
   "handle": "ACNZ-AP",
   "description": "Airways Corporation of New Zealand",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.115.234.0/23"
+    ],
     "ipv6": []
   }
 }

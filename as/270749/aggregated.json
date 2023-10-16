@@ -3,7 +3,9 @@
   "handle": "VTI-PROVEDOR-INTERNET",
   "description": "VTI PROVEDOR DE INTERNET E SUP DE INFORMTICA ME",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "177.12.208.0/22"
+    ],
     "ipv6": []
   }
 }

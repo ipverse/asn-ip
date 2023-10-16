@@ -3,7 +3,9 @@
   "handle": "TELCO-3",
   "description": "TELCO 3 S.R.L.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "149.78.130.0/23"
+    ],
     "ipv6": []
   }
 }

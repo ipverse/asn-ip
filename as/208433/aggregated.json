@@ -3,7 +3,9 @@
   "handle": "FASTLAN",
   "description": "FASTLAN TECHNOLOGY LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.181.167.0/24"
+    ],
     "ipv6": []
   }
 }

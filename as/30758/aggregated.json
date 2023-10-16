@@ -3,7 +3,9 @@
   "handle": "CTURK-POP-PEERING",
   "description": "DT Iletisim Hizmetleri A.S.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.48.25.0/24"
+    ],
     "ipv6": []
   }
 }

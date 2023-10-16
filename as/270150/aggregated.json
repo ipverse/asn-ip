@@ -3,7 +3,10 @@
   "handle": "EISIP",
   "description": "EISIP SA DE CV",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.124.209.0/24",
+      "181.232.174.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,11 @@
   "handle": "FRANCISCO-WASHINGTON-KENNEDY",
   "description": "Francisco Washington Kennedy l de Andrade",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.184.208.0/22"
+    ],
+    "ipv6": [
+      "2804:6370::/32"
+    ]
   }
 }

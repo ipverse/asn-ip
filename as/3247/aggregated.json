@@ -3,7 +3,9 @@
   "handle": "INS",
   "description": "INS GmbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.111.47.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,10 @@
   "handle": "ZBUSA",
   "description": "zbusa LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.225.230.0/23",
+      "208.92.92.0/22"
+    ],
     "ipv6": []
   }
 }

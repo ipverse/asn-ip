@@ -3,7 +3,10 @@
   "handle": "ATOMBB",
   "description": "Atom Broadband, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.81.132.0/22",
+      "38.133.236.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "UNIONTWPOH",
   "description": "Union Township Ohio",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "209.212.255.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "TMHA-AP",
   "description": "TOYOTA MATERIAL HANDLING AUSTRALIA PTY LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.115.213.0/24"
+    ],
     "ipv6": []
   }
 }

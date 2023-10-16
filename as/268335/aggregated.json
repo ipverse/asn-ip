@@ -3,7 +3,11 @@
   "handle": "ORACLON-TELECOM",
   "description": "ORACLON TELECOM",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.238.100.0/22"
+    ],
+    "ipv6": [
+      "2804:4f90::/32"
+    ]
   }
 }

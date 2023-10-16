@@ -3,7 +3,9 @@
   "handle": "SALT-TECH",
   "description": "SALT",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "138.43.248.0/22"
+    ],
     "ipv6": []
   }
 }

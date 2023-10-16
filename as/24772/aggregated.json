@@ -3,7 +3,9 @@
   "handle": "ASIP-AIE",
   "description": "FACTORIA PRISA NOTICIAS S.L. Sociedad Unipersonal",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.182.30.0/24"
+    ],
     "ipv6": []
   }
 }

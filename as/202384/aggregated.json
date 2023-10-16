@@ -3,7 +3,11 @@
   "handle": "NETFIBER",
   "description": "Netfiber Conecta 2020 SLU",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.137.32.0/22",
+      "93.95.30.0/24",
+      "149.34.56.0/21"
+    ],
     "ipv6": []
   }
 }

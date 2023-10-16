@@ -3,7 +3,11 @@
   "handle": "C-SOUZA",
   "description": "C A DE SOUZA - EPP",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "190.123.192.0/22"
+    ],
+    "ipv6": [
+      "2804:3d18::/32"
+    ]
   }
 }

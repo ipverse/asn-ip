@@ -3,7 +3,10 @@
   "handle": "SC-NTEL",
   "description": "JSC SC NTEL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "77.95.200.0/21",
+      "109.71.240.0/21"
+    ],
     "ipv6": []
   }
 }

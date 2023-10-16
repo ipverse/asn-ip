@@ -3,7 +3,9 @@
   "handle": "VOLNA",
   "description": "LLC VOLNA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.190.7.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "UNIQA",
   "description": "Uniqa Insurance JSC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "94.155.11.0/24"
+    ],
     "ipv6": []
   }
 }

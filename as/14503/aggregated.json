@@ -3,7 +3,9 @@
   "handle": "STOWERS-RESOURCE-MANAGEMENT",
   "description": "Stowers Resource Management Inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "161.129.22.0/24"
+    ],
     "ipv6": []
   }
 }

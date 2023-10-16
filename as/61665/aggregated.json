@@ -3,7 +3,12 @@
   "handle": "ROMICROS-BRASIL",
   "description": "ROMICROS BRASIL LTDA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "131.108.72.0/22",
+      "170.231.164.0/22"
+    ],
+    "ipv6": [
+      "2804:1c9c::/32"
+    ]
   }
 }

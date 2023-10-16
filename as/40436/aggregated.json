@@ -3,7 +3,9 @@
   "handle": "NETMOSPHERE-AS1",
   "description": "Netmosphere",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "208.75.136.0/22"
+    ],
     "ipv6": []
   }
 }

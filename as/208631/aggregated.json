@@ -3,7 +3,9 @@
   "handle": "PSKB",
   "description": "PJS SCBP Primsotsbank",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.238.118.0/24"
+    ],
     "ipv6": []
   }
 }

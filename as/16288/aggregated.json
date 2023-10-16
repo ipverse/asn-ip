@@ -3,7 +3,9 @@
   "handle": "KABUM",
   "description": "Sfires Software \u0026 Hardware Dariusz Swiderski",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.178.161.0/24"
+    ],
     "ipv6": []
   }
 }

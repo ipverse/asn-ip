@@ -3,7 +3,9 @@
   "handle": "SRU-AP",
   "description": "Suratthani ratjabhat university, Thailand",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "202.29.18.0/24"
+    ],
     "ipv6": []
   }
 }

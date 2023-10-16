@@ -3,7 +3,11 @@
   "handle": "WE-RADIO-COMUNICAES",
   "description": "WE RADIO COMUNICAES LTDA EPP",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "186.249.64.0/20"
+    ],
+    "ipv6": [
+      "2804:28c::/32"
+    ]
   }
 }

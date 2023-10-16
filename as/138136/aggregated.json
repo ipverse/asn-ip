@@ -3,7 +3,10 @@
   "handle": "IDNIC-UNRAM-ID",
   "description": "Universitas Mataram",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.95.102.0/24",
+      "103.133.160.0/24"
+    ],
     "ipv6": []
   }
 }

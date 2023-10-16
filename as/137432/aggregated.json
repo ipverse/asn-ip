@@ -3,7 +3,11 @@
   "handle": "BKBNET-AP",
   "description": "B.K.B Network",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "103.108.88.0/22"
+    ],
+    "ipv6": [
+      "2402:68c0:d000::/36"
+    ]
   }
 }

@@ -3,7 +3,9 @@
   "handle": "STL-C9D",
   "description": "STL OFFICE SOLUTIONS, INC.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.255.164.0/22"
+    ],
     "ipv6": []
   }
 }

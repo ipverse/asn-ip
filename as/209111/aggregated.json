@@ -3,7 +3,9 @@
   "handle": "PEOPLECERT-ORG",
   "description": "PEOPLECERT GLOBAL SERVICES AE",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.92.5.0/24"
+    ],
     "ipv6": []
   }
 }

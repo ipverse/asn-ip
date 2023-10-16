@@ -3,7 +3,9 @@
   "handle": "ORBITA-PLUS-GAGARIN",
   "description": "LLC Orbita plus Gagarin",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.232.36.0/24"
+    ],
     "ipv6": []
   }
 }

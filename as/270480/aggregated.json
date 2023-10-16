@@ -3,7 +3,11 @@
   "handle": "GTI-TELECOM",
   "description": "GTI Telecom",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "24.152.0.0/22"
+    ],
+    "ipv6": [
+      "2804:6c9c::/32"
+    ]
   }
 }

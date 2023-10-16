@@ -3,7 +3,9 @@
   "handle": "NSCPL-AP",
   "description": "Northline Service Center Pty Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.174.204.0/23"
+    ],
     "ipv6": []
   }
 }

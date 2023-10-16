@@ -3,7 +3,12 @@
   "handle": "MCN",
   "description": "Mapleton City",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.41.228.0/22",
+      "103.4.192.0/22"
+    ],
+    "ipv6": [
+      "2602:fc58::/32"
+    ]
   }
 }

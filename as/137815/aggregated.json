@@ -3,7 +3,9 @@
   "handle": "SUPER-AP",
   "description": "SUPER STAR ELECTRONICS LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.114.170.0/23"
+    ],
     "ipv6": []
   }
 }

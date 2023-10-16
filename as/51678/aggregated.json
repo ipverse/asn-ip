@@ -3,7 +3,13 @@
   "handle": "IBERMATICA",
   "description": "IBERMATICA S.A.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "5.2.24.0/21",
+      "46.17.136.0/21",
+      "134.255.184.0/21"
+    ],
+    "ipv6": [
+      "2a01:b300::/29"
+    ]
   }
 }

@@ -3,7 +3,9 @@
   "handle": "TAVRIAVUA",
   "description": "Tavria-V, Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.230.125.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "BCL-28205",
   "description": "Bahakel Communications Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "207.235.54.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,10 @@
   "handle": "AMTC-AP",
   "description": "AnyNet Myanmar Technology Co.,Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.112.61.0/24",
+      "103.186.240.0/23"
+    ],
     "ipv6": []
   }
 }

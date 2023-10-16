@@ -3,7 +3,9 @@
   "handle": "CIRRUS",
   "description": "Cirrus Logic Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "141.131.0.0/22"
+    ],
     "ipv6": []
   }
 }

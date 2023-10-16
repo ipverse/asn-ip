@@ -3,7 +3,9 @@
   "handle": "G-R-SERVIOS",
   "description": "G R Servios de Comunicao Multimdia Ltda. ME",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "186.193.32.0/20"
+    ],
     "ipv6": []
   }
 }

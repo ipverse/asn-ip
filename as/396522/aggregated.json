@@ -3,7 +3,10 @@
   "handle": "EMAME-INET-1",
   "description": "Versant Power",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "204.69.17.0/24",
+      "204.69.31.0/24"
+    ],
     "ipv6": []
   }
 }

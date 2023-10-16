@@ -3,7 +3,9 @@
   "handle": "BALTINVESTBANK",
   "description": "BALTINVESTBANK JSC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.230.50.0/24"
+    ],
     "ipv6": []
   }
 }

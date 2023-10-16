@@ -3,7 +3,9 @@
   "handle": "SUNOVION",
   "description": "Sunovion Pharmaceuticals Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "8.2.69.0/24"
+    ],
     "ipv6": []
   }
 }

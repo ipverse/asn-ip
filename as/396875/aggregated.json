@@ -3,7 +3,9 @@
   "handle": "CCINC",
   "description": "Consumer Cellular Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "204.152.164.0/23"
+    ],
     "ipv6": []
   }
 }

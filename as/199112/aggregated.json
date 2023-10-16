@@ -3,7 +3,9 @@
   "handle": "SIGMA",
   "description": "Sigma-Soft Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "176.126.36.0/24"
+    ],
     "ipv6": []
   }
 }

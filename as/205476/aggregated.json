@@ -3,7 +3,11 @@
   "handle": "SECURELINK",
   "description": "Orange Cyberdefense Belgium nv",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "185.136.210.0/23"
+    ],
+    "ipv6": [
+      "2a06:fec0:3203::/48"
+    ]
   }
 }

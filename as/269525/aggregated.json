@@ -3,7 +3,11 @@
   "handle": "ISP2-INTERNET",
   "description": "Isp2 Internet",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.187.250.0/23"
+    ],
+    "ipv6": [
+      "2804:65f8::/32"
+    ]
   }
 }

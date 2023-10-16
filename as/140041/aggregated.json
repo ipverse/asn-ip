@@ -3,7 +3,9 @@
   "handle": "TGC-AP",
   "description": "The Geelong College",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.147.180.0/24"
+    ],
     "ipv6": []
   }
 }

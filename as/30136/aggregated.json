@@ -3,7 +3,9 @@
   "handle": "AD12",
   "description": "Adams 12",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "204.228.96.0/19"
+    ],
     "ipv6": []
   }
 }

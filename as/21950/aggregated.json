@@ -3,7 +3,9 @@
   "handle": "AUTOTEC",
   "description": "AutoTec LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "63.173.163.0/24"
+    ],
     "ipv6": []
   }
 }

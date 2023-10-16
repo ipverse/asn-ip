@@ -3,7 +3,10 @@
   "handle": "LOGICAL",
   "description": "Logical Net Corporation",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "209.23.64.0/18",
+      "216.230.160.0/20"
+    ],
     "ipv6": []
   }
 }

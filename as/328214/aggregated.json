@@ -3,7 +3,9 @@
   "handle": "BIONIQ-LTD",
   "description": "Bioniq (Pty) Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "160.119.152.0/22"
+    ],
     "ipv6": []
   }
 }

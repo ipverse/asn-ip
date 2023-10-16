@@ -3,7 +3,11 @@
   "handle": "IBERTIC",
   "description": "Ibertic Soluciones, S.L.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.160.160.0/22",
+      "188.215.108.0/22",
+      "195.80.60.0/22"
+    ],
     "ipv6": []
   }
 }

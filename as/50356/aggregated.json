@@ -3,7 +3,9 @@
   "handle": "CAMELOT",
   "description": "Camelot Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.104.241.0/24"
+    ],
     "ipv6": []
   }
 }

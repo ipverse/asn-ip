@@ -3,7 +3,9 @@
   "handle": "KIASN",
   "description": "KI-",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "208.50.15.0/24"
+    ],
     "ipv6": []
   }
 }

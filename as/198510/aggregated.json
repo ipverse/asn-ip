@@ -3,7 +3,11 @@
   "handle": "XTDEF-LIMITED",
   "description": "XTDEF-Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.140.194.0/24",
+      "84.32.223.0/24",
+      "89.116.221.0/24"
+    ],
     "ipv6": []
   }
 }

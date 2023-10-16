@@ -3,7 +3,12 @@
   "handle": "RNET-TELECOM",
   "description": "RNET TELECOM LTDA  ME",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "177.12.220.0/22"
+    ],
+    "ipv6": [
+      "2804:70d4::/34",
+      "2804:70d4:8000::/34"
+    ]
   }
 }

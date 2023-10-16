@@ -3,7 +3,9 @@
   "handle": "CRYPTOPRO",
   "description": "CryptoPro LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.37.157.0/24"
+    ],
     "ipv6": []
   }
 }

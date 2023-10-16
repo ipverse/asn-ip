@@ -3,7 +3,11 @@
   "handle": "MUNDIAL-TELECOMUNICACAO",
   "description": "MUNDIAL TELECOMUNICACAO LTDA - ME",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.234.0.0/22"
+    ],
+    "ipv6": [
+      "2804:4be4::/32"
+    ]
   }
 }

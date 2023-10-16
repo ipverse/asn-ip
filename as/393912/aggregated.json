@@ -3,7 +3,9 @@
   "handle": "BEMIS-PUBAS1",
   "description": "Bemis",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "142.54.44.0/22"
+    ],
     "ipv6": []
   }
 }

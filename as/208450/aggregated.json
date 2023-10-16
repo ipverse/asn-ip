@@ -3,7 +3,9 @@
   "handle": "MEGAHOST-KZ",
   "description": "Megahost Kazakhstan TOO",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.136.56.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "CHARTER-INDIANA-C3",
   "description": "Charter Communications",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "159.56.144.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "MOSPOLYTECH",
   "description": "Moscow Polytechnic University",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "78.31.210.0/24"
+    ],
     "ipv6": []
   }
 }

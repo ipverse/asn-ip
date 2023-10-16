@@ -3,7 +3,9 @@
   "handle": "ADNOTES",
   "description": "AdNotes (Pty) Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "102.220.252.0/22"
+    ],
     "ipv6": []
   }
 }

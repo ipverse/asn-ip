@@ -3,7 +3,9 @@
   "handle": "LV-INET",
   "description": "City National Bank",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "64.74.165.0/24"
+    ],
     "ipv6": []
   }
 }

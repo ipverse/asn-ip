@@ -3,7 +3,9 @@
   "handle": "TVA",
   "description": "XFERA Moviles S.A.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.110.16.0/22"
+    ],
     "ipv6": []
   }
 }

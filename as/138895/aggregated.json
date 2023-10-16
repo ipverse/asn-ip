@@ -3,7 +3,9 @@
   "handle": "IDNIC-GKM-ID",
   "description": "PT. Global Komunikasi Mandiri",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.141.62.0/23"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "TGNADMIN",
   "description": "Tgn Networks Private Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.90.200.0/23"
+    ],
     "ipv6": []
   }
 }

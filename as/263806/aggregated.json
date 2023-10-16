@@ -3,7 +3,10 @@
   "handle": "GALAXY-ENTERTAINMENT-VENEZUELA",
   "description": "GALAXY ENTERTAINMENT DE VENEZUELA, S.C.A.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "138.185.64.0/24",
+      "138.185.67.0/24"
+    ],
     "ipv6": []
   }
 }

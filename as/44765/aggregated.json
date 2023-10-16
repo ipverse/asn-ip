@@ -3,7 +3,9 @@
   "handle": "MAKENEWMEDIA",
   "description": "MakeNewMedia Communications GmbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "92.61.60.0/22"
+    ],
     "ipv6": []
   }
 }

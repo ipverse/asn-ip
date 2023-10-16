@@ -3,7 +3,9 @@
   "handle": "ETSMTL",
   "description": "Ecole de technologie superieure",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "142.137.0.0/16"
+    ],
     "ipv6": []
   }
 }

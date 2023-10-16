@@ -3,7 +3,9 @@
   "handle": "HPN-TELECOMUNICAES",
   "description": "HPN TELECOMUNICAES LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "170.238.156.0/22"
+    ],
     "ipv6": []
   }
 }

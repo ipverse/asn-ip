@@ -3,7 +3,9 @@
   "handle": "USORD",
   "description": "EXPEDIA, INC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "198.151.53.0/24"
+    ],
     "ipv6": []
   }
 }

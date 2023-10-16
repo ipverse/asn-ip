@@ -3,7 +3,13 @@
   "handle": "SVHOLD",
   "description": "Svyaz-Holding Ltd.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "5.182.52.0/22",
+      "46.17.48.0/21",
+      "89.221.48.0/20"
+    ],
+    "ipv6": [
+      "2a02:22c0::/32"
+    ]
   }
 }

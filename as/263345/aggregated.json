@@ -3,7 +3,11 @@
   "handle": "POWER-TECH-TELECOM",
   "description": "Power Tech Telecom",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "191.36.240.0/20"
+    ],
+    "ipv6": [
+      "2804:14b4::/32"
+    ]
   }
 }

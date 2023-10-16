@@ -3,7 +3,9 @@
   "handle": "AS7UTRA",
   "description": "LLC 7utra",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "212.22.89.0/24"
+    ],
     "ipv6": []
   }
 }

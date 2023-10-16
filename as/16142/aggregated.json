@@ -3,7 +3,9 @@
   "handle": "ING-BANK-SK",
   "description": "ING Bank N.V., pobocka zahranicnej banky",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "213.215.65.0/24"
+    ],
     "ipv6": []
   }
 }

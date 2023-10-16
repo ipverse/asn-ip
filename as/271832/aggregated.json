@@ -3,7 +3,9 @@
   "handle": "ARGAARAZ-JORGE-ALFREDO",
   "description": "ARGAARAZ JORGE ALFREDO (CERRO NET INTERNET)",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "181.174.216.0/22"
+    ],
     "ipv6": []
   }
 }

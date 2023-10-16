@@ -3,7 +3,9 @@
   "handle": "AIRASIA-MY",
   "description": "AirAsia Berhad",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.14.28.0/22"
+    ],
     "ipv6": []
   }
 }

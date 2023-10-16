@@ -3,7 +3,10 @@
   "handle": "ALEF-BANK",
   "description": "JSC ALEF-BANK",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.133.244.0/24",
+      "185.105.119.0/24"
+    ],
     "ipv6": []
   }
 }

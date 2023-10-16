@@ -3,7 +3,11 @@
   "handle": "CBTS-DC1",
   "description": "Cincinnati Bell Technology Solutions",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "162.249.240.0/22"
+    ],
+    "ipv6": [
+      "2620:a9:8000::/45"
+    ]
   }
 }

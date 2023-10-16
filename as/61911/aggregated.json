@@ -3,7 +3,9 @@
   "handle": "RIDERSON-MENDES-BORGES",
   "description": "RIDERSON MENDES BORGES - ME",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "177.136.172.0/22"
+    ],
     "ipv6": []
   }
 }

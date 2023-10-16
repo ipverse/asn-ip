@@ -3,7 +3,12 @@
   "handle": "LIGNET-TELECOMUNICAES",
   "description": "LIGNET TELECOMUNICAES",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "132.255.240.0/22",
+      "170.83.96.0/22"
+    ],
+    "ipv6": [
+      "2804:2124::/32"
+    ]
   }
 }

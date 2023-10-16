@@ -3,7 +3,10 @@
   "handle": "BCV",
   "description": "BANQUE CANTONALE VAUDOISE ENTERPRISE DROIT PUBLIC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "153.45.0.0/16",
+      "194.163.64.0/22"
+    ],
     "ipv6": []
   }
 }

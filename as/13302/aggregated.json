@@ -3,7 +3,9 @@
   "handle": "LINKEY-CLOUD",
   "description": "Linkey Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.166.16.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "VORTIA",
   "description": "Vortia Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.228.124.0/24"
+    ],
     "ipv6": []
   }
 }

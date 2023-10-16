@@ -3,7 +3,9 @@
   "handle": "TBSPL09",
   "description": "Tradebulls Securities Private Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.142.77.0/24"
+    ],
     "ipv6": []
   }
 }

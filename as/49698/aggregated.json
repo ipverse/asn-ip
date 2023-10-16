@@ -3,7 +3,9 @@
   "handle": "NTF",
   "description": "National Training Foundation",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.164.194.0/24"
+    ],
     "ipv6": []
   }
 }

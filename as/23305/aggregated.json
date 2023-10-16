@@ -3,7 +3,9 @@
   "handle": "WORTHINGTONINDUSTRIES",
   "description": "Worthington Industries Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "170.103.128.0/18"
+    ],
     "ipv6": []
   }
 }

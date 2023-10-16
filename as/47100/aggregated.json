@@ -3,7 +3,9 @@
   "handle": "WITOPIA-AS1",
   "description": "WiTopia, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "74.115.160.0/22"
+    ],
     "ipv6": []
   }
 }

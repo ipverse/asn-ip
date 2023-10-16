@@ -3,7 +3,9 @@
   "handle": "DOCENTRIS",
   "description": "DOCENTRIS SRL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.88.250.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "TUTASME-NET",
   "description": "tutasme net",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "191.7.0.0/21"
+    ],
     "ipv6": []
   }
 }

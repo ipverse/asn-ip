@@ -3,7 +3,9 @@
   "handle": "CHUNKYCHIPS",
   "description": "ChunkyChips.net Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "82.146.128.0/19"
+    ],
     "ipv6": []
   }
 }

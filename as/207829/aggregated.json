@@ -3,7 +3,9 @@
   "handle": "ESMERO",
   "description": "Esmero Holding B.V.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.198.170.0/23"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "GAMTEL",
   "description": "Comium Gambia Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "197.231.204.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "ARENA-TELECOM-SERVIOS",
   "description": "Arena Telecom Servios de Comunicaes LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "190.115.216.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,11 @@
   "handle": "FLASH-NET-PROVEDOR",
   "description": "Flash Net Provedor Ltda - ME",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "138.36.192.0/22"
+    ],
+    "ipv6": [
+      "2804:2200::/32"
+    ]
   }
 }

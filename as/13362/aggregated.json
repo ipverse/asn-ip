@@ -3,7 +3,9 @@
   "handle": "PCWORLD",
   "description": "PCWorld.com",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "70.42.185.0/24"
+    ],
     "ipv6": []
   }
 }

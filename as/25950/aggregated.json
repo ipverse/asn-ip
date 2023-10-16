@@ -3,7 +3,9 @@
   "handle": "BEGGSTELEPHONE",
   "description": "Beggs Telephone Company, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.169.24.0/21"
+    ],
     "ipv6": []
   }
 }

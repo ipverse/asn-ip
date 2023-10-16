@@ -3,7 +3,9 @@
   "handle": "XYGNITION",
   "description": "XYGNITION RESEARCH LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.93.44.0/22"
+    ],
     "ipv6": []
   }
 }

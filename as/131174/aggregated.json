@@ -3,7 +3,9 @@
   "handle": "TWO-DEGREES-AP",
   "description": "Two Degrees Mobile Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "110.44.16.0/24"
+    ],
     "ipv6": []
   }
 }

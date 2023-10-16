@@ -3,7 +3,12 @@
   "handle": "YAHOO",
   "description": "Oath Holdings Inc.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "69.147.92.0/22",
+      "209.73.184.0/24"
+    ],
+    "ipv6": [
+      "2001:4998:14::/48"
+    ]
   }
 }

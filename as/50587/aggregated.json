@@ -3,7 +3,9 @@
   "handle": "ATB",
   "description": "LLC M ADVICE",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.105.94.0/24"
+    ],
     "ipv6": []
   }
 }

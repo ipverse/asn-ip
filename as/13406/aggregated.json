@@ -3,7 +3,9 @@
   "handle": "MCCFL",
   "description": "State College of Florida, Manatee-Sarasota",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "64.56.87.0/24"
+    ],
     "ipv6": []
   }
 }

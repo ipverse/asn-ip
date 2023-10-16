@@ -3,7 +3,9 @@
   "handle": "OFFICE-TECH",
   "description": "OFFICE TECH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "196.251.240.0/22"
+    ],
     "ipv6": []
   }
 }

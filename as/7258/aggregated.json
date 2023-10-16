@@ -3,7 +3,10 @@
   "handle": "CATALOG",
   "description": "Catalog.com",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "209.217.0.0/18",
+      "216.57.224.0/20"
+    ],
     "ipv6": []
   }
 }

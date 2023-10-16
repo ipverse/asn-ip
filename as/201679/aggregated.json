@@ -3,7 +3,9 @@
   "handle": "REVERSINGLABS",
   "description": "Reversing Labs International GmbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.64.132.0/22"
+    ],
     "ipv6": []
   }
 }

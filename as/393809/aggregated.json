@@ -3,7 +3,9 @@
   "handle": "WISPER-EASYN",
   "description": "Wisper ISP, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.40.0.0/20"
+    ],
     "ipv6": []
   }
 }

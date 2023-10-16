@@ -3,7 +3,11 @@
   "handle": "COOPERATIVA-PROVISIN-OBRAS",
   "description": "Cooperativa de Provisin de Obras y Servicios Pblicos de Balnearia Ltda.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "190.108.216.0/22"
+    ],
+    "ipv6": [
+      "2803:7600::/32"
+    ]
   }
 }

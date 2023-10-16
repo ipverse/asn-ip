@@ -3,7 +3,9 @@
   "handle": "VGT-RU",
   "description": "Limited Liability Company VolgoGazTelecom",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "89.19.192.0/20"
+    ],
     "ipv6": []
   }
 }

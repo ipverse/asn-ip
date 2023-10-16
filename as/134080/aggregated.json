@@ -3,7 +3,10 @@
   "handle": "TOXFREE-AP",
   "description": "TOX FREE SOLUTIONS LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.51.159.0/24",
+      "103.211.199.0/24"
+    ],
     "ipv6": []
   }
 }

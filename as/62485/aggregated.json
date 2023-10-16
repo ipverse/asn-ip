@@ -3,7 +3,11 @@
   "handle": "SERVERKING",
   "description": "ServerKing.io, LLC",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "23.147.184.0/24"
+    ],
+    "ipv6": [
+      "2602:fb19::/48"
+    ]
   }
 }

@@ -3,7 +3,9 @@
   "handle": "NOVA1NET",
   "description": "Nova Cablevision, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "205.164.96.0/21"
+    ],
     "ipv6": []
   }
 }

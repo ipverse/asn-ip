@@ -3,7 +3,10 @@
   "handle": "CYCLONESERVERS",
   "description": "Cyclone Servers",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "104.253.195.0/24",
+      "166.0.134.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -4,6 +4,8 @@
   "description": "VIVA TELECOMUNICACOES \u0026 PROVEDOR DE INTERNET LTDA",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2804:8a84::/32"
+    ]
   }
 }

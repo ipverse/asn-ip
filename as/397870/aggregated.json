@@ -3,7 +3,9 @@
   "handle": "SFI",
   "description": "The Santa Fe Institute",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.12.12.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,11 @@
   "handle": "JOHN-MUIR-HEALTH",
   "description": "John Muir Health",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "12.25.162.0/24",
+      "50.59.177.0/24",
+      "206.107.211.0/24"
+    ],
     "ipv6": []
   }
 }

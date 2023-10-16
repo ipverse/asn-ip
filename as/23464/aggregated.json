@@ -3,7 +3,9 @@
   "handle": "ILCSNET",
   "description": "ILCS Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "69.54.224.0/19"
+    ],
     "ipv6": []
   }
 }

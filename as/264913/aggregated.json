@@ -3,7 +3,11 @@
   "handle": "GOOFIBER-TELECOM",
   "description": "GOOFIBER TELECOM",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "168.228.88.0/22"
+    ],
+    "ipv6": [
+      "2804:2fd0::/32"
+    ]
   }
 }

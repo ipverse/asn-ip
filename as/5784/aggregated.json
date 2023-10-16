@@ -3,7 +3,9 @@
   "handle": "GETNET",
   "description": "Getnet International",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "216.19.192.0/19"
+    ],
     "ipv6": []
   }
 }

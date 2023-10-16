@@ -4,6 +4,8 @@
   "description": "Christian Scholz, trading as Netchron IT Services",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2001:678:ce0::/48"
+    ]
   }
 }

@@ -3,7 +3,11 @@
   "handle": "PROFESSIONAL-SERVICE-SERVICOS",
   "description": "Professional Service Servicos Profissionais em Inf",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "187.62.108.0/23"
+    ],
+    "ipv6": [
+      "2801:80:3920::/48"
+    ]
   }
 }

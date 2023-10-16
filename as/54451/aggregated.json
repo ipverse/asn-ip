@@ -3,7 +3,9 @@
   "handle": "FCWAPUBLIC",
   "description": "Fairfax Water",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "205.151.0.0/24"
+    ],
     "ipv6": []
   }
 }

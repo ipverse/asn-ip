@@ -3,7 +3,9 @@
   "handle": "BANKASIA",
   "description": "CJSC Bank of Asia",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "95.47.154.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -1,0 +1,14 @@
+{
+  "asn": 216302,
+  "handle": "KAMINOT",
+  "description": "Kaminot SAS",
+  "subnets": {
+    "ipv4": [
+      "31.24.248.0/24"
+    ],
+    "ipv6": [
+      "2a12:48c0:6b38::/48",
+      "2a12:48c0:7032::/48"
+    ]
+  }
+}

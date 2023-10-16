@@ -3,7 +3,9 @@
   "handle": "IITSS",
   "description": "IT Support Services Team Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "178.22.25.0/24"
+    ],
     "ipv6": []
   }
 }

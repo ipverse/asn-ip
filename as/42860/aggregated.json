@@ -3,7 +3,9 @@
   "handle": "EFT",
   "description": "Energy Financing Team (Switzerland) AG",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "77.74.248.0/21"
+    ],
     "ipv6": []
   }
 }

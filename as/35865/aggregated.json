@@ -3,7 +3,9 @@
   "handle": "COREANDMAIN",
   "description": "Core \u0026 Main",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "131.153.250.0/23"
+    ],
     "ipv6": []
   }
 }

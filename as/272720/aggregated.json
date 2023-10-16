@@ -4,6 +4,8 @@
   "description": "MAXSERV COMERCIO E SERVIOS LTDA ME",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2804:879c::/32"
+    ]
   }
 }

@@ -3,7 +3,10 @@
   "handle": "GMI-AP",
   "description": "Gareth Morgan Investments",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.8.82.0/23",
+      "202.134.48.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,11 @@
   "handle": "ALPHA-TECHNOLOGIES",
   "description": "Alpha Technologies Inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "50.121.151.0/24",
+      "64.187.112.0/21",
+      "162.210.12.0/22"
+    ],
     "ipv6": []
   }
 }

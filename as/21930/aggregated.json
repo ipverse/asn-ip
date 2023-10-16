@@ -3,7 +3,9 @@
   "handle": "INFORMATICA",
   "description": "Informatica Corporation",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "198.202.141.0/24"
+    ],
     "ipv6": []
   }
 }

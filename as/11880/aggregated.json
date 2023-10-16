@@ -3,7 +3,10 @@
   "handle": "TICKE-19",
   "description": "Tickets.com, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "209.102.220.0/23",
+      "216.32.146.0/23"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "CENPAC-AP",
   "description": "CenPac Net Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "203.98.224.0/19"
+    ],
     "ipv6": []
   }
 }

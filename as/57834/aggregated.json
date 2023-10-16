@@ -3,7 +3,10 @@
   "handle": "BPPETROLLERI",
   "description": "Bp Petrolleri A.S",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "164.63.208.0/24",
+      "185.197.124.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "FREEBIX",
   "description": "Bart Champagne",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.146.121.0/24"
+    ],
     "ipv6": []
   }
 }

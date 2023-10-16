@@ -3,7 +3,9 @@
   "handle": "MIR",
   "description": "MIR-Telecom LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "81.30.117.0/24"
+    ],
     "ipv6": []
   }
 }

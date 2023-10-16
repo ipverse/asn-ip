@@ -3,7 +3,9 @@
   "handle": "EQT",
   "description": "Equitable Resources",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "198.140.164.0/24"
+    ],
     "ipv6": []
   }
 }

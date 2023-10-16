@@ -3,7 +3,11 @@
   "handle": "CABANGU-INTERNET",
   "description": "Cabangu Internet Ltda",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "186.224.48.0/20"
+    ],
+    "ipv6": [
+      "2804:3838:c000::/34"
+    ]
   }
 }

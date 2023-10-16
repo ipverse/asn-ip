@@ -3,7 +3,9 @@
   "handle": "MCCUHOUTX",
   "description": "Members Choice Credit Union",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "207.229.95.0/24"
+    ],
     "ipv6": []
   }
 }

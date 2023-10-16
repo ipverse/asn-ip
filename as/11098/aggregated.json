@@ -3,7 +3,9 @@
   "handle": "SBC-NET",
   "description": "SBC Communications, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "144.160.33.0/24"
+    ],
     "ipv6": []
   }
 }

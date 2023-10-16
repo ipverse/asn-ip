@@ -3,7 +3,11 @@
   "handle": "J-D-ARAUJO",
   "description": "J D ARAUJO ME",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.186.236.0/22"
+    ],
+    "ipv6": [
+      "2804:65c8::/32"
+    ]
   }
 }

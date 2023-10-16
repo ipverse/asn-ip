@@ -3,7 +3,9 @@
   "handle": "BRYANTBANK",
   "description": "BRYANT BANK",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "12.176.232.0/24"
+    ],
     "ipv6": []
   }
 }

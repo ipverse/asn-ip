@@ -3,7 +3,10 @@
   "handle": "NETPLUS-TELECOMUNICAES",
   "description": "NETPLUS TELECOMUNICAES LTDA - ME",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "170.150.184.0/22",
+      "170.239.20.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,11 @@
   "handle": "FUTURE-DIGITAL",
   "description": "FUTURE DIGITAL",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "192.141.12.0/22"
+    ],
+    "ipv6": [
+      "2804:41b4::/32"
+    ]
   }
 }

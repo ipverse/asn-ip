@@ -3,7 +3,9 @@
   "handle": "XDNETPRS",
   "description": "XDAR Wireless LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.172.132.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "PL-SOKOLA",
   "description": "Uslugi Komputerowe Slawomir Sokola",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "156.67.122.0/24"
+    ],
     "ipv6": []
   }
 }

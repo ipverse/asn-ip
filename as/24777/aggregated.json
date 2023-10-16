@@ -3,7 +3,9 @@
   "handle": "CTBTO",
   "description": "Preparatory Commission for the Comprehensive Nuclear-Test-Ban Treaty Organization",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.218.117.0/24"
+    ],
     "ipv6": []
   }
 }

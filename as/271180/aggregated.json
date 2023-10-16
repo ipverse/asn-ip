@@ -3,7 +3,11 @@
   "handle": "3XDATA-TECNOLOGIA",
   "description": "3XDATA TECNOLOGIA LTDA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "200.125.129.0/24"
+    ],
+    "ipv6": [
+      "2804:7778::/32"
+    ]
   }
 }

@@ -3,7 +3,10 @@
   "handle": "BLUE-VALLEY",
   "description": "Blue Valley Tele-communications, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "68.234.96.0/19",
+      "199.195.52.0/22"
+    ],
     "ipv6": []
   }
 }

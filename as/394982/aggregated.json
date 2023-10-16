@@ -3,7 +3,9 @@
   "handle": "NIS",
   "description": "Network Innovation Solutions Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "52.144.26.0/24"
+    ],
     "ipv6": []
   }
 }

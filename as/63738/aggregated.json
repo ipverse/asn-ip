@@ -3,7 +3,9 @@
   "handle": "GLTEC-VN",
   "description": "GLTEC-VN",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.199.10.0/24"
+    ],
     "ipv6": []
   }
 }

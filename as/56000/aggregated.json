@@ -3,7 +3,9 @@
   "handle": "HERBALIFE-CNDC",
   "description": "HERBALIFE(SHANGHAI)MANAGEMENT CO.,LTD.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "223.255.236.0/22"
+    ],
     "ipv6": []
   }
 }

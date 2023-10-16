@@ -3,7 +3,9 @@
   "handle": "MINISTERO-ESTERI",
   "description": "Ministero degli affari esteri e della cooperazione internazionale",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "85.116.224.0/20"
+    ],
     "ipv6": []
   }
 }

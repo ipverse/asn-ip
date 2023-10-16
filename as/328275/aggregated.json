@@ -3,7 +3,9 @@
   "handle": "BWSC1",
   "description": "BDC Wireless Solutions CC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "102.165.120.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,11 @@
   "handle": "VHP",
   "description": "Vantage Health Plan, Inc.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "206.198.242.0/23"
+    ],
+    "ipv6": [
+      "2620:136:4000::/44"
+    ]
   }
 }

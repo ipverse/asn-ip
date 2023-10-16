@@ -3,7 +3,12 @@
   "handle": "VELOCE-TELECOM",
   "description": "VELOCE TELECOM",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.229.20.0/23",
+      "45.229.23.0/24"
+    ],
+    "ipv6": [
+      "2804:4800::/32"
+    ]
   }
 }

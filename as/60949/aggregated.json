@@ -3,7 +3,10 @@
   "handle": "4XSOLUTIONS",
   "description": "4x Solutions UK LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "130.185.160.0/21",
+      "154.194.46.0/24"
+    ],
     "ipv6": []
   }
 }

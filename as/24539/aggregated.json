@@ -3,7 +3,10 @@
   "handle": "SYNOPSYS-INDC",
   "description": "Synopsys",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "149.117.222.0/24",
+      "149.117.224.0/22"
+    ],
     "ipv6": []
   }
 }

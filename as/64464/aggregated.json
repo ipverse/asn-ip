@@ -3,7 +3,9 @@
   "handle": "BG-EGT",
   "description": "Euro Games Technology LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.72.59.0/24"
+    ],
     "ipv6": []
   }
 }

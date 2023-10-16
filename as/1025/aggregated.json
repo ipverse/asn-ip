@@ -3,7 +3,11 @@
   "handle": "VCHS-EDGE-1",
   "description": "Valor Christian High School",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "209.209.24.0/24"
+    ],
+    "ipv6": [
+      "2602:fcb8:f000::/36"
+    ]
   }
 }

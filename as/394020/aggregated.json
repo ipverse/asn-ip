@@ -3,7 +3,9 @@
   "handle": "LFUCG",
   "description": "Lexington-Fayette Urban County Government",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.165.138.0/24"
+    ],
     "ipv6": []
   }
 }

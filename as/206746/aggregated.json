@@ -3,7 +3,11 @@
   "handle": "SCCBROADBAND",
   "description": "SCC BROADBAND LIMITED",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "185.176.100.0/22"
+    ],
+    "ipv6": [
+      "2a0a:1180::/30"
+    ]
   }
 }

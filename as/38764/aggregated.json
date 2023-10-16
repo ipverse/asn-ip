@@ -3,7 +3,9 @@
   "handle": "POLRI-ID",
   "description": "MARKAS BESAR KEPOLISIAN REPUBLIK INDONESIA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "120.29.224.0/21"
+    ],
     "ipv6": []
   }
 }

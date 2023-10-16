@@ -3,7 +3,10 @@
   "handle": "TTL",
   "description": "CJSC Telecomm Technology",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "95.142.80.0/20",
+      "185.166.56.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "PENET",
   "description": "Trigon Dom Maklerski SA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.108.202.0/24"
+    ],
     "ipv6": []
   }
 }

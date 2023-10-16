@@ -3,7 +3,11 @@
   "handle": "FIBER7-TELECOMUNICACOES",
   "description": "FIBER7 TELECOMUNICACOES LTDA - EPP",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.5.80.0/22"
+    ],
+    "ipv6": [
+      "2804:3a6c::/32"
+    ]
   }
 }

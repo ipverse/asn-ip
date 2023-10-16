@@ -3,7 +3,10 @@
   "handle": "ASNETIYI",
   "description": "NETIYI TELEKOMUNIKASYON INTERNET. BILG. HIZ. TIC. SAN. LTD. STI.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.59.44.0/22",
+      "185.115.40.0/22"
+    ],
     "ipv6": []
   }
 }

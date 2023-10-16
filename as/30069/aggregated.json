@@ -3,7 +3,11 @@
   "handle": "BLUEJEANS",
   "description": "Blue Jeans Network, Inc.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "12.222.70.0/24"
+    ],
+    "ipv6": [
+      "2620:122:8008::/48"
+    ]
   }
 }

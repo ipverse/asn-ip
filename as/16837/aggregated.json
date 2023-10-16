@@ -3,7 +3,10 @@
   "handle": "VABB",
   "description": "VA Broadband LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.195.56.0/22",
+      "199.195.60.0/23"
+    ],
     "ipv6": []
   }
 }

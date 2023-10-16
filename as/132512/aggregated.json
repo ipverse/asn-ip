@@ -3,7 +3,9 @@
   "handle": "WHCL-AP",
   "description": "World Hub Communications (M) Sdn. Bhd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.244.191.0/24"
+    ],
     "ipv6": []
   }
 }

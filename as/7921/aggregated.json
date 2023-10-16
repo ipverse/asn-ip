@@ -3,7 +3,9 @@
   "handle": "ADTRAV",
   "description": "Adtrav Corporation",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "8.22.67.0/24"
+    ],
     "ipv6": []
   }
 }

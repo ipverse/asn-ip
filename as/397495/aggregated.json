@@ -3,7 +3,9 @@
   "handle": "TOWNOFOROVALLEY-02",
   "description": "Town of Oro Valley",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.35.194.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "SVEA",
   "description": "Svea Bank AB",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.105.138.0/24"
+    ],
     "ipv6": []
   }
 }

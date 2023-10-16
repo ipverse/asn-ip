@@ -3,7 +3,10 @@
   "handle": "WMAS",
   "description": "West Midlands Ambulance Service NHS Foundation Trust",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.143.212.0/23",
+      "185.143.215.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,11 @@
   "handle": "EMH",
   "description": "Ephraim McDowell Health, Inc.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "23.141.64.0/24"
+    ],
+    "ipv6": [
+      "2620:133::/40"
+    ]
   }
 }

@@ -3,7 +3,10 @@
   "handle": "REVIVEHOST",
   "description": "ReviveHost",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "149.18.81.0/24",
+      "207.174.22.0/24"
+    ],
     "ipv6": []
   }
 }

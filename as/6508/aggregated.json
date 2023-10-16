@@ -3,7 +3,9 @@
   "handle": "TECHNICOLOR",
   "description": "Vantiva USA Shared Services Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "205.143.192.0/23"
+    ],
     "ipv6": []
   }
 }

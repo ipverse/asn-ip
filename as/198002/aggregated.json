@@ -3,7 +3,11 @@
   "handle": "TANET3",
   "description": "Ceznet sro",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "149.255.64.0/19"
+    ],
+    "ipv6": [
+      "2a03:1180::/32"
+    ]
   }
 }

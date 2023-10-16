@@ -3,7 +3,9 @@
   "handle": "HORIZONS-TELECOMUNICAES-TECNOLOGIA",
   "description": "Horizons Telecomunicaes e Tecnologia S.A.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "200.195.196.0/22"
+    ],
     "ipv6": []
   }
 }

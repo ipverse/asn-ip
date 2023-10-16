@@ -3,7 +3,11 @@
   "handle": "IDNIC-DBS-ID",
   "description": "PT Bank DBS Indonesia",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.9.107.0/24",
+      "103.203.91.0/24",
+      "103.203.160.0/23"
+    ],
     "ipv6": []
   }
 }

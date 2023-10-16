@@ -3,7 +3,9 @@
   "handle": "CBI1925",
   "description": "Cheney Bros, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "198.97.13.0/24"
+    ],
     "ipv6": []
   }
 }

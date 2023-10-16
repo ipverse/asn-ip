@@ -3,7 +3,9 @@
   "handle": "AYOL-NET",
   "description": "Ayol Net, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.225.164.0/22"
+    ],
     "ipv6": []
   }
 }

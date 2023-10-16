@@ -3,7 +3,9 @@
   "handle": "CPIT-NZ-AP",
   "description": "Christchurch Polytechnic Institute of Technology",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "165.84.64.0/18"
+    ],
     "ipv6": []
   }
 }

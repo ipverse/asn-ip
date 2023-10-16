@@ -3,7 +3,9 @@
   "handle": "LIFELABS-INC",
   "description": "LifeLabs Medical Laboratory Services",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.226.62.0/23"
+    ],
     "ipv6": []
   }
 }

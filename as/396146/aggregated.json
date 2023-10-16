@@ -3,7 +3,10 @@
   "handle": "THERAPSERVICES",
   "description": "Therap Services",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "8.21.227.0/24",
+      "8.44.213.0/24"
+    ],
     "ipv6": []
   }
 }

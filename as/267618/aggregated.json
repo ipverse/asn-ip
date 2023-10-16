@@ -3,7 +3,9 @@
   "handle": "ARPRONET-TELECOMUNICACOES",
   "description": "ARPRONET TELECOMUNICACOES",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.71.88.0/22"
+    ],
     "ipv6": []
   }
 }

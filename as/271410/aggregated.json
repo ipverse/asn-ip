@@ -3,7 +3,11 @@
   "handle": "SMART-SERVIO-INTERNET",
   "description": "Smart Servio de Internet Ltda",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "131.196.28.0/22"
+    ],
+    "ipv6": [
+      "2804:7b18::/32"
+    ]
   }
 }

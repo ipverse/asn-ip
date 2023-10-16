@@ -3,7 +3,9 @@
   "handle": "ASOPANKY",
   "description": "OPANKI.NET Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "176.108.124.0/22"
+    ],
     "ipv6": []
   }
 }

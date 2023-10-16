@@ -3,7 +3,11 @@
   "handle": "CONECTJA",
   "description": "CONECTJA LTDA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "200.215.252.0/22"
+    ],
+    "ipv6": [
+      "2804:6eb8::/32"
+    ]
   }
 }

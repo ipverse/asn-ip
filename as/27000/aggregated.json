@@ -3,7 +3,9 @@
   "handle": "COTYINC",
   "description": "Coty Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "198.203.169.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "FORINICOM",
   "description": "Forinicom S.r.l.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.29.144.0/22"
+    ],
     "ipv6": []
   }
 }

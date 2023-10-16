@@ -3,7 +3,9 @@
   "handle": "PLEXT-EXT",
   "description": "Plextec Inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "67.226.218.0/24"
+    ],
     "ipv6": []
   }
 }

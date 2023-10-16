@@ -3,7 +3,9 @@
   "handle": "STARNET-CONSULTING",
   "description": "STARNET CONSULTING SRL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "217.156.20.0/23"
+    ],
     "ipv6": []
   }
 }

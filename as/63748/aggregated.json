@@ -3,7 +3,9 @@
   "handle": "CUCATTTMIC-VN",
   "description": "Cuc An Toan Thong Tin- Bo Thong tin va Truyen thong",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.192.236.0/22"
+    ],
     "ipv6": []
   }
 }

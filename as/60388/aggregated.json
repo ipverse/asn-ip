@@ -3,7 +3,12 @@
   "handle": "TRANSNEFT-TELECOM",
   "description": "Limited Liability Company Transneft Telecom",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "185.31.108.0/22",
+      "212.73.96.0/19"
+    ],
+    "ipv6": [
+      "2a00:b4a0::/32"
+    ]
   }
 }

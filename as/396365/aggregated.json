@@ -3,7 +3,10 @@
   "handle": "DFI",
   "description": "DFI Resources, LLC.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "8.20.41.0/24",
+      "23.249.166.0/24"
+    ],
     "ipv6": []
   }
 }

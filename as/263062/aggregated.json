@@ -3,7 +3,12 @@
   "handle": "CDZNET-DATACENTER",
   "description": "CDZNET DATACENTER LTDA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "186.232.108.0/22",
+      "191.243.140.0/22"
+    ],
+    "ipv6": [
+      "2804:938::/32"
+    ]
   }
 }

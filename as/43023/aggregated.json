@@ -3,7 +3,9 @@
   "handle": "AA",
   "description": "iGP Tech d.o.o.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.187.138.0/24"
+    ],
     "ipv6": []
   }
 }

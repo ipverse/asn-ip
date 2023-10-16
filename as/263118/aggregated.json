@@ -3,7 +3,9 @@
   "handle": "CELULOSE-NIPO-BRASILEIRA",
   "description": "Celulose Nipo-Brasileira S.A - CENIBRA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "177.190.244.0/23"
+    ],
     "ipv6": []
   }
 }

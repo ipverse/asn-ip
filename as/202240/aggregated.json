@@ -3,7 +3,9 @@
   "handle": "INNFLOW-CH-001",
   "description": "Innflow AG",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "79.98.188.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "AVTORAPORT",
   "description": "Company Uraltranskom Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.19.198.0/24"
+    ],
     "ipv6": []
   }
 }

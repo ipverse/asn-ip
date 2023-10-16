@@ -3,7 +3,10 @@
   "handle": "LOOP21",
   "description": "LOOP21 Mobile Net GmbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.91.244.0/22",
+      "185.91.32.0/22"
+    ],
     "ipv6": []
   }
 }

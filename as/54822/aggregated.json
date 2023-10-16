@@ -3,7 +3,9 @@
   "handle": "R1RCM",
   "description": "Intermedix",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "198.36.14.0/23"
+    ],
     "ipv6": []
   }
 }

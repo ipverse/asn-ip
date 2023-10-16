@@ -3,7 +3,10 @@
   "handle": "CAPITALHEALTH",
   "description": "Capital Health System, Inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "65.207.34.0/24",
+      "107.0.161.0/24"
+    ],
     "ipv6": []
   }
 }

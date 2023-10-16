@@ -3,7 +3,11 @@
   "handle": "ETERNALNET",
   "description": "EternalNet AG",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.87.72.0/22"
+    ],
+    "ipv6": [
+      "2a0e:f680::/29"
+    ]
   }
 }

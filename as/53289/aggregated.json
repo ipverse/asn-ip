@@ -3,7 +3,9 @@
   "handle": "DATAMOCO",
   "description": "Data Moving Company",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "74.121.72.0/21"
+    ],
     "ipv6": []
   }
 }

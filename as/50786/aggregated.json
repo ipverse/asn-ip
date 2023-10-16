@@ -3,7 +3,9 @@
   "handle": "EMPIK",
   "description": "Empik S.A",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.105.227.0/24"
+    ],
     "ipv6": []
   }
 }

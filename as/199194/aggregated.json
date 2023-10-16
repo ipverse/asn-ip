@@ -3,7 +3,9 @@
   "handle": "MONTSYSTEM",
   "description": "MONT System LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.149.242.0/24"
+    ],
     "ipv6": []
   }
 }

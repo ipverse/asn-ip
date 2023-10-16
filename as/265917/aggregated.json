@@ -3,7 +3,11 @@
   "handle": "GLOBAL-TELECOM-BRASIL",
   "description": "Global Telecom do Brasil",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "131.196.92.0/22"
+    ],
+    "ipv6": [
+      "2804:3fd0::/32"
+    ]
   }
 }

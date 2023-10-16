@@ -3,7 +3,9 @@
   "handle": "FTC-DTC-QWEST-ADDRESSES",
   "description": "Reliable IT, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.58.148.0/22"
+    ],
     "ipv6": []
   }
 }

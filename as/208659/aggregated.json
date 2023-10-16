@@ -3,7 +3,11 @@
   "handle": "INNC",
   "description": "INNC s.r.o.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.81.92.0/22"
+    ],
+    "ipv6": [
+      "2a0e:5480::/29"
+    ]
   }
 }

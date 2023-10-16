@@ -3,7 +3,11 @@
   "handle": "HIL-NON-AP",
   "description": "Hutchison International Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "202.45.64.0/24",
+      "202.45.66.0/24",
+      "202.45.68.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "UNIKAL",
   "description": "Unikal - N.Nikolov Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.63.136.0/22"
+    ],
     "ipv6": []
   }
 }

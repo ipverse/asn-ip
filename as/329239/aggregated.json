@@ -3,7 +3,11 @@
   "handle": "XCOBEAN-SYSTEMS",
   "description": "Xcobean Systems Limited",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "102.212.230.0/24"
+    ],
+    "ipv6": [
+      "2c0f:4140::/32"
+    ]
   }
 }

@@ -3,7 +3,9 @@
   "handle": "FIBABANKA",
   "description": "FIBABANKA ANONIM SIRKETI",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.39.224.0/23"
+    ],
     "ipv6": []
   }
 }

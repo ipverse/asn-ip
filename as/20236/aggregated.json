@@ -3,7 +3,10 @@
   "handle": "BEAL-SERVICE-CORPORATION",
   "description": "Beal Service Corporation",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "50.58.138.0/24",
+      "162.252.33.0/24"
+    ],
     "ipv6": []
   }
 }

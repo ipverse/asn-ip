@@ -3,7 +3,9 @@
   "handle": "VSH",
   "description": "Vishay Intertechnology, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "198.24.10.0/23"
+    ],
     "ipv6": []
   }
 }

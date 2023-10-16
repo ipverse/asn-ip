@@ -3,7 +3,9 @@
   "handle": "EPFONDC-IN",
   "description": "EMPLOYEES PROVIDENT FUND ORGANISATION",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.194.45.0/24"
+    ],
     "ipv6": []
   }
 }

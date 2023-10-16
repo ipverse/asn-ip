@@ -3,7 +3,9 @@
   "handle": "CVCU",
   "description": "Covantage Credit Union",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "147.160.56.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,10 @@
   "handle": "EMS",
   "description": "EMS-CHEMIE AG",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.5.48.0/24",
+      "194.40.200.0/23"
+    ],
     "ipv6": []
   }
 }

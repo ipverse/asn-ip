@@ -3,7 +3,9 @@
   "handle": "MCDONOGH",
   "description": "McDonogh School, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "66.180.67.0/24"
+    ],
     "ipv6": []
   }
 }

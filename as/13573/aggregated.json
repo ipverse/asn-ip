@@ -3,7 +3,9 @@
   "handle": "RSG-ASN-01",
   "description": "Ryan Specialty Group, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "136.175.115.0/24"
+    ],
     "ipv6": []
   }
 }

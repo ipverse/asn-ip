@@ -3,7 +3,9 @@
   "handle": "WZP",
   "description": "WOJEWODZTWO ZACHODNIOPOMORSKIE",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "212.14.55.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "ALAMEDACOUNTYDATAPROCESSING",
   "description": "Alameda County",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "166.107.64.0/18"
+    ],
     "ipv6": []
   }
 }

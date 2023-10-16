@@ -3,7 +3,11 @@
   "handle": "PAXIO",
   "description": "Paxio Inc.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "204.10.72.0/22"
+    ],
+    "ipv6": [
+      "2600:7f00::/28"
+    ]
   }
 }

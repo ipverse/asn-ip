@@ -3,7 +3,9 @@
   "handle": "KELE",
   "description": "Kele, Inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "209.118.11.0/24"
+    ],
     "ipv6": []
   }
 }

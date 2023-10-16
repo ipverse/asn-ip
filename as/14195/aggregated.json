@@ -3,7 +3,10 @@
   "handle": "CONTEGO",
   "description": "Contego Solutions LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "64.194.202.0/23",
+      "206.123.78.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "BIGLIANI-HECTOR-MAXIMILIANO",
   "description": "BIGLIANI HECTOR MAXIMILIANO (NOVA INFORMATICA)",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "187.102.240.0/22"
+    ],
     "ipv6": []
   }
 }

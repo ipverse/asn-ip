@@ -3,7 +3,9 @@
   "handle": "HVALERBREDBAND",
   "description": "Hvaler kommune",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.205.20.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "ROHTANITS-IN",
   "description": "Atomic North Private Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.240.89.0/24"
+    ],
     "ipv6": []
   }
 }

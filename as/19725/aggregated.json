@@ -3,7 +3,9 @@
   "handle": "COHPWE",
   "description": "City Of Houston - Public Works",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "50.58.210.0/24"
+    ],
     "ipv6": []
   }
 }

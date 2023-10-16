@@ -3,7 +3,9 @@
   "handle": "AIRLINK-BROADBAND",
   "description": "AirLink Broadband Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "102.68.136.0/22"
+    ],
     "ipv6": []
   }
 }

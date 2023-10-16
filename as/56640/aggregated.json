@@ -3,7 +3,9 @@
   "handle": "BAIN-AND-COMPANY-INC-UNITED-KINGDOM",
   "description": "BAIN AND COMPANY INC UNITED KINGDOM",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.22.121.0/24"
+    ],
     "ipv6": []
   }
 }

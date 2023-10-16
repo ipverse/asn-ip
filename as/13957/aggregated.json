@@ -3,7 +3,9 @@
   "handle": "MNAA",
   "description": "Metropolitan Nashville Airport Authority",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "170.76.217.0/24"
+    ],
     "ipv6": []
   }
 }

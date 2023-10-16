@@ -3,7 +3,9 @@
   "handle": "HSI-EUROPE",
   "description": "Hosting Services Inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "146.185.16.0/20"
+    ],
     "ipv6": []
   }
 }

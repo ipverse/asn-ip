@@ -3,7 +3,10 @@
   "handle": "POLAR-PUBLIC-HUB-POP",
   "description": "IBM",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.147.88.0/22",
+      "192.147.92.0/24"
+    ],
     "ipv6": []
   }
 }

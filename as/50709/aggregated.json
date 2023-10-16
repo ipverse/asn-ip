@@ -3,7 +3,9 @@
   "handle": "PIONEER",
   "description": "MRC Pioneer LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "93.188.205.0/24"
+    ],
     "ipv6": []
   }
 }

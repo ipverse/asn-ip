@@ -3,7 +3,9 @@
   "handle": "CORNELLCOLLEGE",
   "description": "Cornell College",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "144.62.0.0/17"
+    ],
     "ipv6": []
   }
 }

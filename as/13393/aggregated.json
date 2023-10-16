@@ -3,7 +3,9 @@
   "handle": "KCSCOUT",
   "description": "KC Scout - Kansas City ITS Deployment",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "150.220.1.0/24"
+    ],
     "ipv6": []
   }
 }

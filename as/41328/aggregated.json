@@ -3,7 +3,9 @@
   "handle": "KKNK",
   "description": "KKNK Technobud Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.24.184.0/23"
+    ],
     "ipv6": []
   }
 }

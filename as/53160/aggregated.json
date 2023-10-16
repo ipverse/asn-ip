@@ -3,7 +3,10 @@
   "handle": "UNIDASNET-COMUNICACOES",
   "description": "UNIDASNET COMUNICACOES LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "138.186.132.0/22",
+      "187.19.112.0/20"
+    ],
     "ipv6": [
       "2804:26d8::/32"
     ]

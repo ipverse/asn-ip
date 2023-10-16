@@ -3,7 +3,9 @@
   "handle": "BRIDGESTONE-EARTHMOVER-AP",
   "description": "Bridgestone Earthmover Tyres Pty Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "203.62.166.0/23"
+    ],
     "ipv6": []
   }
 }

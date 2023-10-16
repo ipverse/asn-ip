@@ -3,7 +3,9 @@
   "handle": "WIFIIBERICA",
   "description": "IBERWIX TELECOM S.L.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.128.60.0/22"
+    ],
     "ipv6": []
   }
 }

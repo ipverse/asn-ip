@@ -3,7 +3,9 @@
   "handle": "TRIBUNAL-JUSTICA-MATO",
   "description": "TRIBUNAL DE JUSTICA DO ESTADO MATO GROSSO DO SUL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "186.232.245.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "ODETE-SANTOS",
   "description": "Odete A dos Santos ME",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.163.196.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "MATCU",
   "description": "Orion Federal Credit Union",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "66.192.25.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "LEGACY-OKC",
   "description": "Legacy",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "12.204.59.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "ALOLTECH-TELECOM",
   "description": "ALOLTECH TELECOM LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "187.94.64.0/20"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "ACOSC-CRIMEA",
   "description": "Association of cable network operators of Crimea",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.207.96.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "NFOCUS-01",
   "description": "NFOCUS CONSULTING INC.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "12.171.227.0/24"
+    ],
     "ipv6": []
   }
 }

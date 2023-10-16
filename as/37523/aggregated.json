@@ -3,7 +3,10 @@
   "handle": "DOW-NETWORKS",
   "description": "AVOXI (PTY) LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "154.65.64.0/24",
+      "196.43.213.0/24"
+    ],
     "ipv6": []
   }
 }

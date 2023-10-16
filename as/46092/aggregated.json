@@ -3,7 +3,9 @@
   "handle": "RAI",
   "description": "RESOURCE AMERICA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "67.219.181.0/24"
+    ],
     "ipv6": []
   }
 }

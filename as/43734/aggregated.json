@@ -3,7 +3,10 @@
   "handle": "FR-UEM-METZ",
   "description": "UEM de METZ",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "78.24.240.0/21",
+      "109.235.80.0/21"
+    ],
     "ipv6": []
   }
 }

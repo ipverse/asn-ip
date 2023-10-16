@@ -3,7 +3,9 @@
   "handle": "FABASOFT-AT",
   "description": "Fabasoft AG",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "212.183.5.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "ANGEL-BENIGNO-CONDOLO-GUAYA",
   "description": "ANGEL BENIGNO CONDOLO GUAYA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "131.196.8.0/22"
+    ],
     "ipv6": [
       "2803:abc0::/48"
     ]

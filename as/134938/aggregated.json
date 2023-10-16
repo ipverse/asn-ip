@@ -3,7 +3,9 @@
   "handle": "CAMPINDIA",
   "description": "CAMPINDIA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.206.50.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,12 @@
   "handle": "NETEN",
   "description": "Neten Srl",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.87.64.0/22",
+      "194.113.88.0/22"
+    ],
+    "ipv6": [
+      "2a07:df00::/29"
+    ]
   }
 }

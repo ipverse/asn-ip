@@ -3,7 +3,9 @@
   "handle": "AKAT-TECHNOLOGIES",
   "description": "Nexsys 2009 Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "88.80.128.0/24"
+    ],
     "ipv6": []
   }
 }

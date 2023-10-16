@@ -3,7 +3,11 @@
   "handle": "ATEC-INFORMATICA-TELECOM",
   "description": "Atec Informatica Telecom Martinez e Rocha LTDA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "24.152.80.0/22"
+    ],
+    "ipv6": [
+      "2804:6d38::/32"
+    ]
   }
 }

@@ -3,7 +3,9 @@
   "handle": "AUTO-OWNERS",
   "description": "Auto-Owners Insurance Company",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "205.207.141.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "SMLWNET",
   "description": "Spoldzielnia Mieszkaniowa Lokatorsko Wlasnosciowa Legionowo",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "176.102.176.0/20"
+    ],
     "ipv6": []
   }
 }

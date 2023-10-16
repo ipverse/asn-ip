@@ -3,7 +3,10 @@
   "handle": "MARYKAY-NA",
   "description": "Mary Kay Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "208.86.48.0/22",
+      "208.86.54.0/23"
+    ],
     "ipv6": []
   }
 }

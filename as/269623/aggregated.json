@@ -3,7 +3,11 @@
   "handle": "SOLANGE-MARIA-SILVA-DANTAS",
   "description": "Solange maria silva dantas me",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.190.36.0/22"
+    ],
+    "ipv6": [
+      "2804:675c::/32"
+    ]
   }
 }

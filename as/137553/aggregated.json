@@ -3,7 +3,11 @@
   "handle": "GLOBALCOM-AP",
   "description": "Global Communication",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "103.113.16.0/22"
+    ],
+    "ipv6": [
+      "2402:b5c0::/32"
+    ]
   }
 }

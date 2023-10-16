@@ -3,7 +3,10 @@
   "handle": "TRANS-TRAF",
   "description": "Trans Traffic Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.84.77.0/24",
+      "195.200.90.0/23"
+    ],
     "ipv6": []
   }
 }

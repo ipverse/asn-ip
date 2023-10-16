@@ -3,7 +3,9 @@
   "handle": "GIBSON-ENERGY",
   "description": "Gibson Energy ULC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "66.244.239.0/24"
+    ],
     "ipv6": []
   }
 }

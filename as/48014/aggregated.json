@@ -3,7 +3,11 @@
   "handle": "ALBHOST",
   "description": "Albanian Hosting SH.P.K.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "103.167.235.0/24"
+    ],
+    "ipv6": [
+      "2a12:4047::/32"
+    ]
   }
 }

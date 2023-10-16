@@ -3,7 +3,10 @@
   "handle": "NEUTRANS-AP",
   "description": "Neutral Transmission Malaysia Sdn. Bhd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.255.252.0/22",
+      "103.65.176.0/22"
+    ],
     "ipv6": []
   }
 }

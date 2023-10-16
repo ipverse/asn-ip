@@ -3,7 +3,10 @@
   "handle": "S4-PROD-INTERNET-WEST01",
   "description": "Merchant-Link, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "104.153.10.0/24",
+      "104.153.14.0/23"
+    ],
     "ipv6": []
   }
 }

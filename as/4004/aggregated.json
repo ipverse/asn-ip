@@ -3,7 +3,9 @@
   "handle": "GLOBAL-SPLK",
   "description": "Sprint",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "57.66.70.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "ICTELECOM",
   "description": "AVATEL TELECOM, SA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.132.24.0/22"
+    ],
     "ipv6": []
   }
 }

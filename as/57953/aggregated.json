@@ -3,7 +3,9 @@
   "handle": "GRIDCOM-RT",
   "description": "OJSC Setevaya kompaniya",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.237.32.0/24"
+    ],
     "ipv6": []
   }
 }

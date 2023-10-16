@@ -3,7 +3,9 @@
   "handle": "GIGASOL",
   "description": "Gigatel Solutions Private Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.250.216.0/22"
+    ],
     "ipv6": []
   }
 }

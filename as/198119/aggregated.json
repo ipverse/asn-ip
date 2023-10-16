@@ -3,7 +3,9 @@
   "handle": "PI",
   "description": "prointernet Verwaltungs GmbH trading as prointernet GmbH \u0026 Co. KG",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.137.231.0/24"
+    ],
     "ipv6": []
   }
 }

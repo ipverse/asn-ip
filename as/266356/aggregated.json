@@ -3,7 +3,12 @@
   "handle": "PRONTO-FIBRA",
   "description": "PRONTO FIBRA LTDA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.234.136.0/22",
+      "170.239.224.0/22"
+    ],
+    "ipv6": [
+      "2804:3690::/32"
+    ]
   }
 }

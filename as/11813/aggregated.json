@@ -3,7 +3,9 @@
   "handle": "NATIXIS-NORTH-AMERICA-LLC",
   "description": "Natixis North America LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "198.51.212.0/24"
+    ],
     "ipv6": []
   }
 }

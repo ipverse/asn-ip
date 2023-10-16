@@ -3,7 +3,9 @@
   "handle": "SPHIERINFOTECH",
   "description": "Sphier Infotech Private Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.239.232.0/22"
+    ],
     "ipv6": []
   }
 }

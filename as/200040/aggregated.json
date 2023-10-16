@@ -3,7 +3,10 @@
   "handle": "NETGIGABIT",
   "description": "NETGIGABIT ILETISIM HIZMETLERI LTD. STI.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.255.88.0/24",
+      "188.124.17.0/24"
+    ],
     "ipv6": []
   }
 }

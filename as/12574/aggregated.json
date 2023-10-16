@@ -3,7 +3,11 @@
   "handle": "ROUTING",
   "description": "Hosting.de GmbH",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "213.160.64.0/19"
+    ],
+    "ipv6": [
+      "2a00:17d8::/32"
+    ]
   }
 }

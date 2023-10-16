@@ -3,7 +3,10 @@
   "handle": "EMPRESA-SERVICIOS-APLICACIONES",
   "description": "EMPRESA DE SERVICIOS Y APLICACIONES TECNOLOGICAS SRL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "131.255.180.0/22",
+      "138.186.216.0/22"
+    ],
     "ipv6": []
   }
 }

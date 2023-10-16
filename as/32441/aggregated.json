@@ -3,7 +3,9 @@
   "handle": "CGS-HOSTING-NETWORK",
   "description": "Advanced Training \u0026 Services Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "207.179.177.0/24"
+    ],
     "ipv6": []
   }
 }

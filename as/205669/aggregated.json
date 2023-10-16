@@ -3,7 +3,9 @@
   "handle": "RESEL",
   "description": "Association ResEl",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "89.234.160.0/22"
+    ],
     "ipv6": []
   }
 }

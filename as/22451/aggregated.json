@@ -3,7 +3,10 @@
   "handle": "HRH",
   "description": "Halifax Regional Hospital",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "65.254.176.0/24",
+      "65.254.186.0/24"
+    ],
     "ipv6": []
   }
 }

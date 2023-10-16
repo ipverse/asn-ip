@@ -3,7 +3,9 @@
   "handle": "NTIK",
   "description": "OOO Nauka",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "89.113.104.0/21"
+    ],
     "ipv6": []
   }
 }

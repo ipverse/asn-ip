@@ -3,7 +3,10 @@
   "handle": "EDGEIT",
   "description": "EdgeIT AB",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.71.27.0/24",
+      "194.132.174.0/24"
+    ],
     "ipv6": []
   }
 }

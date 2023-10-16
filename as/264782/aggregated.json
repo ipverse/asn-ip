@@ -3,7 +3,9 @@
   "handle": "UNIVERSIDAD-PONTIFICIA-BOLIVARIANA",
   "description": "Universidad Pontificia Bolivariana, Seccional Bucaramanga",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "207.248.81.0/24"
+    ],
     "ipv6": []
   }
 }

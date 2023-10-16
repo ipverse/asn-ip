@@ -3,7 +3,9 @@
   "handle": "PUREVOICE-AP",
   "description": "Anticlockwise Pty Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "163.53.69.0/24"
+    ],
     "ipv6": []
   }
 }

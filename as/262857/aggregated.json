@@ -3,7 +3,11 @@
   "handle": "UNIVERSIDADE-FEDERAL-RIO",
   "description": "UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "177.20.128.0/19"
+    ],
+    "ipv6": [
+      "2801:8c::/32"
+    ]
   }
 }

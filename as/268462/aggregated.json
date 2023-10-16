@@ -3,7 +3,9 @@
   "handle": "NEXUS-TELECOMUNICACOES",
   "description": "NEXUS TELECOMUNICACOES LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.160.80.0/22"
+    ],
     "ipv6": []
   }
 }

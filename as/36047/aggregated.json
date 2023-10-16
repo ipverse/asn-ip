@@ -3,7 +3,9 @@
   "handle": "STUDIO-PRODUCTIONS-NY",
   "description": "CBS Corporation",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "8.36.83.0/24"
+    ],
     "ipv6": []
   }
 }

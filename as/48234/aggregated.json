@@ -3,7 +3,9 @@
   "handle": "REALNET",
   "description": "DOO Realnet",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "79.173.96.0/21"
+    ],
     "ipv6": []
   }
 }

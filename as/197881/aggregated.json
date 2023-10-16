@@ -3,7 +3,9 @@
   "handle": "RC-IKT",
   "description": "S\u0026T Iskratel d.o.o.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.227.110.0/23"
+    ],
     "ipv6": []
   }
 }

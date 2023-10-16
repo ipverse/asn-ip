@@ -3,7 +3,11 @@
   "handle": "SOPRA-BANKING-SOFTWARE-GMBH",
   "description": "Sopra Banking Software GmbH",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "185.160.240.0/22"
+    ],
+    "ipv6": [
+      "2a0a:8500::/29"
+    ]
   }
 }

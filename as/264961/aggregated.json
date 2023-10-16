@@ -3,7 +3,11 @@
   "handle": "ALINE-OLIVEIRA-MARIN",
   "description": "Aline de Oliveira Marin - ME",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "170.0.48.0/22"
+    ],
+    "ipv6": [
+      "2804:3090::/32"
+    ]
   }
 }

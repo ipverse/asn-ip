@@ -3,7 +3,9 @@
   "handle": "ACI-BGP",
   "description": "Arch Coal Inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "198.190.186.0/24"
+    ],
     "ipv6": []
   }
 }

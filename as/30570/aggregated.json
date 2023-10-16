@@ -3,7 +3,10 @@
   "handle": "AEPCO",
   "description": "Arizona Electric Power Cooperative, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.152.83.0/24",
+      "192.152.84.0/23"
+    ],
     "ipv6": []
   }
 }

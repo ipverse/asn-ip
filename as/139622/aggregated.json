@@ -3,7 +3,9 @@
   "handle": "QUETELBD-AP",
   "description": "QUE TEL BD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.142.170.0/23"
+    ],
     "ipv6": []
   }
 }

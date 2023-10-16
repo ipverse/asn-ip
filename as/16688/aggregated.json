@@ -3,7 +3,10 @@
   "handle": "PEOPLENET-COMM",
   "description": "PeopleNet Communications Corp",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "208.137.6.0/24",
+      "208.158.227.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "PLUGGAR-TELECOM",
   "description": "PLUGGAR TELECOM",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "168.181.164.0/22"
+    ],
     "ipv6": []
   }
 }

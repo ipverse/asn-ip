@@ -3,7 +3,10 @@
   "handle": "GREENWICH",
   "description": "RBS Securities, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "146.121.20.0/23",
+      "146.121.23.0/24"
+    ],
     "ipv6": []
   }
 }

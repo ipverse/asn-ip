@@ -3,7 +3,9 @@
   "handle": "DISHTVINDIA",
   "description": "Dishtv India Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.29.248.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,10 @@
   "handle": "SOLONET-ID",
   "description": "PT. SOLO JALA BUANA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.90.196.0/22",
+      "175.106.16.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "CSC",
   "description": "Columbia Sportswear Company",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "204.48.44.0/23"
+    ],
     "ipv6": []
   }
 }

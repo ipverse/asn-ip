@@ -3,7 +3,9 @@
   "handle": "W-C-CANTO-JUNIOR",
   "description": "w de c canto junior",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "177.84.56.0/22"
+    ],
     "ipv6": []
   }
 }

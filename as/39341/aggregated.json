@@ -3,7 +3,9 @@
   "handle": "ACXIOMEU",
   "description": "Acxiom U.K. Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.203.192.0/23"
+    ],
     "ipv6": []
   }
 }

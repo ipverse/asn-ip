@@ -3,7 +3,11 @@
   "handle": "R-L-LIMA",
   "description": "R L DE LIMA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.189.20.0/22"
+    ],
+    "ipv6": [
+      "2804:67c4::/32"
+    ]
   }
 }

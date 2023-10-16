@@ -3,7 +3,9 @@
   "handle": "ROXNET-COM",
   "description": "SRL ROXNET-COM",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.15.47.0/24"
+    ],
     "ipv6": []
   }
 }

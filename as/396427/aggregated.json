@@ -3,7 +3,10 @@
   "handle": "CEOCOMM",
   "description": "Computers, Electronics, Office, Etc, Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.110.240.0/21",
+      "199.21.231.0/24"
+    ],
     "ipv6": []
   }
 }

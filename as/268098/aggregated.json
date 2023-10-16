@@ -3,7 +3,11 @@
   "handle": "BRASIL-INFORMATICA",
   "description": "BRASIL INFORMATICA LTDA EPP",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.169.64.0/22"
+    ],
+    "ipv6": [
+      "2804:57f8::/32"
+    ]
   }
 }

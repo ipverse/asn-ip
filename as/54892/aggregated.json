@@ -3,7 +3,9 @@
   "handle": "CBPP",
   "description": "Center on Budget and Policy Priorities",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "65.213.92.0/24"
+    ],
     "ipv6": []
   }
 }

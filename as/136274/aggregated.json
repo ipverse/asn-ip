@@ -3,7 +3,9 @@
   "handle": "CSPL-AP",
   "description": "Cloud Servers Pvt Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "116.197.156.0/22"
+    ],
     "ipv6": []
   }
 }

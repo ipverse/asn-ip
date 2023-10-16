@@ -3,7 +3,9 @@
   "handle": "AMARNETSYSTEM-AP",
   "description": "Amar Net System",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.205.232.0/22"
+    ],
     "ipv6": []
   }
 }

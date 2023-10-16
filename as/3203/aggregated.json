@@ -3,7 +3,10 @@
   "handle": "ASVIDEOKANAL",
   "description": "PTO Videokanal, Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "176.115.128.0/21",
+      "193.0.132.0/22"
+    ],
     "ipv6": []
   }
 }

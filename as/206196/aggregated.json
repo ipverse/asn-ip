@@ -3,7 +3,9 @@
   "handle": "SLE",
   "description": "Stadtwerke Lutherstadt Eisleben GmbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.177.248.0/22"
+    ],
     "ipv6": []
   }
 }

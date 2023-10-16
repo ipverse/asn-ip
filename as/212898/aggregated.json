@@ -3,7 +3,9 @@
   "handle": "MEGANETHD",
   "description": "Meganet HD LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.205.199.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "CNERGEE",
   "description": "Cnergee Cloud Technology Solutions LLP",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.54.180.0/22"
+    ],
     "ipv6": []
   }
 }

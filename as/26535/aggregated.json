@@ -3,7 +3,10 @@
   "handle": "AMDA",
   "description": "American Musical \u0026 Dramatic Academy Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "63.116.225.0/24",
+      "207.251.106.0/24"
+    ],
     "ipv6": []
   }
 }

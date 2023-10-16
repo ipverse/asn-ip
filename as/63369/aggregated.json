@@ -3,7 +3,9 @@
   "handle": "TANNER-MEDICAL-CENTER",
   "description": "Tanner Medical Center, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.82.144.0/23"
+    ],
     "ipv6": []
   }
 }

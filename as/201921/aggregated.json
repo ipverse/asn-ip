@@ -3,7 +3,10 @@
   "handle": "INTERLOTTO",
   "description": "DIGITAIN LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "5.63.160.0/24",
+      "194.33.82.0/24"
+    ],
     "ipv6": []
   }
 }

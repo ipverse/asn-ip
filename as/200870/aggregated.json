@@ -3,7 +3,9 @@
   "handle": "RTSL",
   "description": "Retail Technology Services Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.67.140.0/22"
+    ],
     "ipv6": []
   }
 }

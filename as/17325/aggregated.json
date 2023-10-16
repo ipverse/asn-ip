@@ -3,7 +3,9 @@
   "handle": "AUTOPARTINTL",
   "description": "AUTOPART INTERNATIONAL INC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "74.10.162.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,12 @@
   "handle": "OPS-60",
   "description": "Oshawa PUC Services Inc",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "23.166.48.0/24",
+      "45.59.188.0/22"
+    ],
+    "ipv6": [
+      "2605:f4c0::/32"
+    ]
   }
 }

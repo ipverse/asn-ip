@@ -3,7 +3,9 @@
   "handle": "BLATTNER-HOLDING-COMPANY",
   "description": "Blattner Company",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.65.178.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,10 @@
   "handle": "ECSFI",
   "description": "ECS Financial Services, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "68.21.210.0/23",
+      "192.26.144.0/23"
+    ],
     "ipv6": []
   }
 }

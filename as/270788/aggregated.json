@@ -3,7 +3,9 @@
   "handle": "PLAY-NET-PROVEDOR",
   "description": "PLAY NET PROVEDOR DE INTERNET LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "177.10.16.0/22"
+    ],
     "ipv6": []
   }
 }

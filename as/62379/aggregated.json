@@ -3,7 +3,9 @@
   "handle": "FREEWAY",
   "description": "FREEWAY LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.209.185.0/24"
+    ],
     "ipv6": []
   }
 }

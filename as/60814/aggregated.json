@@ -3,7 +3,9 @@
   "handle": "PROTEZIONECIVILE",
   "description": "Dipartimento della Protezione Civile",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.25.128.0/22"
+    ],
     "ipv6": []
   }
 }

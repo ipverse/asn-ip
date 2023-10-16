@@ -3,7 +3,11 @@
   "handle": "ASANA-IT-01",
   "description": "Asana, Inc.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "199.185.180.0/24"
+    ],
+    "ipv6": [
+      "2602:810:f000::/48"
+    ]
   }
 }

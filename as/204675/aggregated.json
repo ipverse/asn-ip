@@ -4,6 +4,8 @@
   "description": "Martin Mailand",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2001:678:5dc::/48"
+    ]
   }
 }

@@ -3,7 +3,10 @@
   "handle": "INFOHIT",
   "description": "Infohit Computers d.o.o. Ljubljana",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.199.235.0/24",
+      "193.26.26.0/24"
+    ],
     "ipv6": []
   }
 }

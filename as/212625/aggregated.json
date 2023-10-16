@@ -4,6 +4,9 @@
   "description": "Clement Dubreuil",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a0c:b641:2b0::/47",
+      "2a0c:b641:2b2::/48"
+    ]
   }
 }

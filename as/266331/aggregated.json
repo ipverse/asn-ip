@@ -3,7 +3,11 @@
   "handle": "GLOBAL-NET-INFORMATICA",
   "description": "Global Net Informatica Ltda",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "170.238.180.0/22"
+    ],
+    "ipv6": [
+      "2804:362c:1000::/43"
+    ]
   }
 }

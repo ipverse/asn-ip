@@ -3,7 +3,9 @@
   "handle": "SCIQUEST",
   "description": "JAGGAER",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.188.157.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "TASECLIMITED-AP",
   "description": "TASEC Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.97.248.0/24"
+    ],
     "ipv6": []
   }
 }

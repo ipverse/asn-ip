@@ -3,7 +3,10 @@
   "handle": "TROY-UNIVERSITY",
   "description": "Troy University",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.245.165.0/24",
+      "198.179.130.0/24"
+    ],
     "ipv6": []
   }
 }

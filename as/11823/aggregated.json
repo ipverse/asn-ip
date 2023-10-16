@@ -3,7 +3,9 @@
   "handle": "LORDABBETTCO",
   "description": "Lord, Abbett \u0026 Co.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "204.128.232.0/24"
+    ],
     "ipv6": []
   }
 }

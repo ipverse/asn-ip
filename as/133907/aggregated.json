@@ -3,7 +3,10 @@
   "handle": "KTCCARD-AP",
   "description": "TRUE INTERNET CORPORATION CO. LTD.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "110.170.133.0/24",
+      "210.86.220.0/24"
+    ],
     "ipv6": []
   }
 }

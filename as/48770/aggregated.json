@@ -3,7 +3,9 @@
   "handle": "ASSIST",
   "description": "Assist Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.209.85.0/24"
+    ],
     "ipv6": []
   }
 }

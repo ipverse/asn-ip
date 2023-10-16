@@ -3,7 +3,10 @@
   "handle": "TESTAMERICA",
   "description": "TestAmerica Laboratories, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "168.149.252.0/23",
+      "168.149.254.0/24"
+    ],
     "ipv6": []
   }
 }

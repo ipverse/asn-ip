@@ -3,7 +3,9 @@
   "handle": "SENADO-LA-REPUBLICA-CHILE",
   "description": "Senado de la Republica de Chile",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "200.9.122.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "CAMP-COMM-SERVICES",
   "description": "Camp Communication Services, INC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.96.48.0/22"
+    ],
     "ipv6": []
   }
 }

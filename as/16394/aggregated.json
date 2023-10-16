@@ -3,7 +3,10 @@
   "handle": "KILLEEN-INDEPENDENT-SCHOOL-DISTRICT",
   "description": "Killeen ISD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "198.97.37.0/24",
+      "204.155.95.0/24"
+    ],
     "ipv6": []
   }
 }

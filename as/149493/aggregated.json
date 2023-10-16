@@ -3,7 +3,9 @@
   "handle": "HRTSGPTELTD-AP",
   "description": "HRT SG PTE. LTD.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.181.48.0/24"
+    ],
     "ipv6": []
   }
 }

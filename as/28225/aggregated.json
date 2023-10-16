@@ -3,7 +3,11 @@
   "handle": "PROVEDORNET-TELECOM-SERVIOS",
   "description": "Provedornet Telecom. e Servios de Internet Ltda",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "189.126.64.0/20"
+    ],
+    "ipv6": [
+      "2804:620c::/32"
+    ]
   }
 }

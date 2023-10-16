@@ -3,7 +3,9 @@
   "handle": "BLACKLIST",
   "description": "Mocan Media LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.40.46.0/24"
+    ],
     "ipv6": []
   }
 }

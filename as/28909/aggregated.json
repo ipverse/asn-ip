@@ -3,7 +3,9 @@
   "handle": "BG-TVSAT",
   "description": "TV SAT NET LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "213.167.0.0/19"
+    ],
     "ipv6": []
   }
 }

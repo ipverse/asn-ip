@@ -3,7 +3,11 @@
   "handle": "HRISTOBOGDANOV",
   "description": "Hristo Bogdanov",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "193.150.67.0/24"
+    ],
+    "ipv6": [
+      "2a00:e200:104::/48"
+    ]
   }
 }

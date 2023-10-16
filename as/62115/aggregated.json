@@ -3,7 +3,9 @@
   "handle": "EXIMBANK",
   "description": "State Specialized Russian Export-Import Bank (Joint-Stock Company)",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.19.17.0/24"
+    ],
     "ipv6": []
   }
 }

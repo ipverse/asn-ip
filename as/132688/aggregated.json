@@ -3,7 +3,9 @@
   "handle": "UM-AP",
   "description": "University of Malaya",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.18.0.0/22"
+    ],
     "ipv6": []
   }
 }

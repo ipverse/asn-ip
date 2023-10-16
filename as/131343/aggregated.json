@@ -3,7 +3,9 @@
   "handle": "VIB-VN",
   "description": "Vietnam Internationl commercial joint stock bank",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.10.212.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "REDI-US",
   "description": "Refinitiv US LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "198.134.15.0/24"
+    ],
     "ipv6": []
   }
 }

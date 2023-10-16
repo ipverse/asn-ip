@@ -3,7 +3,9 @@
   "handle": "PANTONE",
   "description": "Pantone Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "208.71.80.0/22"
+    ],
     "ipv6": []
   }
 }

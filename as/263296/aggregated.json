@@ -3,7 +3,12 @@
   "handle": "S-M-INFORMTICA",
   "description": "S\u0026M Informtica LTDA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "170.150.80.0/22",
+      "177.85.44.0/22"
+    ],
+    "ipv6": [
+      "2804:13cc::/32"
+    ]
   }
 }

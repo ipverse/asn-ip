@@ -3,7 +3,9 @@
   "handle": "CFCU",
   "description": "CONGRESSIONAL FEDERAL CREDIT UNION",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "204.152.0.0/23"
+    ],
     "ipv6": []
   }
 }

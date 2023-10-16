@@ -3,7 +3,9 @@
   "handle": "ELAB",
   "description": "Electronic laboratory Services Pty Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "196.3.151.0/24"
+    ],
     "ipv6": []
   }
 }

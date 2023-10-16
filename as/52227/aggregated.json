@@ -3,7 +3,9 @@
   "handle": "BANCO-ITAU-PARAGUAY",
   "description": "Banco Itau Paraguay S.A.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "200.12.146.0/24"
+    ],
     "ipv6": []
   }
 }

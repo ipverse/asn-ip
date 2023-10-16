@@ -3,7 +3,9 @@
   "handle": "BYCLOUD",
   "description": "Bynet Data Communications LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.164.16.0/22"
+    ],
     "ipv6": []
   }
 }

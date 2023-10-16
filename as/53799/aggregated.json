@@ -3,7 +3,9 @@
   "handle": "NAHB1201",
   "description": "NAHB",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "209.249.32.0/24"
+    ],
     "ipv6": []
   }
 }

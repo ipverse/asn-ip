@@ -3,7 +3,13 @@
   "handle": "SERVIABERTIS",
   "description": "Abertis Infraestructuras, S.A.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.12.152.0/22",
+      "178.21.104.0/22",
+      "178.21.108.0/24"
+    ],
+    "ipv6": [
+      "2a0e:ad00::/29"
+    ]
   }
 }

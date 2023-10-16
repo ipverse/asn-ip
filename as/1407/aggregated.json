@@ -3,7 +3,9 @@
   "handle": "QUOTEMEDIA",
   "description": "Quotemedia",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "8.12.253.0/24"
+    ],
     "ipv6": []
   }
 }

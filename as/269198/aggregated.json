@@ -3,7 +3,11 @@
   "handle": "FRANCISCO-ADSON-MELO-SOARES",
   "description": "FRANCISCO ADSON DE MELO SOARES",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.181.136.0/22"
+    ],
+    "ipv6": [
+      "2804:60e4::/32"
+    ]
   }
 }

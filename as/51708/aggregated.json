@@ -3,7 +3,11 @@
   "handle": "UNIBZ",
   "description": "Libera Universita di Bolzano",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "46.18.24.0/21"
+    ],
+    "ipv6": [
+      "2a02:27e8::/32"
+    ]
   }
 }

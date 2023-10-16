@@ -3,7 +3,11 @@
   "handle": "RANDSON-JESUS-PASSOS",
   "description": "RANDSON DE JESUS PASSOS",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "200.80.108.0/22"
+    ],
+    "ipv6": [
+      "2804:7d38::/32"
+    ]
   }
 }

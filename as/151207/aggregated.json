@@ -3,7 +3,9 @@
   "handle": "KPL-AP",
   "description": "Khalti Private Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.107.48.0/23"
+    ],
     "ipv6": []
   }
 }

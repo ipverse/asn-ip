@@ -3,7 +3,9 @@
   "handle": "AUCKLANDTRANSPORT-AP",
   "description": "Auckland Transport",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.180.48.0/24"
+    ],
     "ipv6": []
   }
 }

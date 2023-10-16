@@ -3,7 +3,9 @@
   "handle": "KERNHEALTHSYSTEMS",
   "description": "Kern Family Health Care",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.12.144.0/24"
+    ],
     "ipv6": []
   }
 }

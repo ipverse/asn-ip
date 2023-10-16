@@ -3,7 +3,10 @@
   "handle": "DJARUM-ID",
   "description": "PT DJARUM",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.3.71.0/24",
+      "103.22.166.0/24"
+    ],
     "ipv6": []
   }
 }

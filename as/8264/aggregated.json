@@ -3,7 +3,12 @@
   "handle": "MARLINK-SK",
   "description": "Marlink AS",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "195.20.160.0/19",
+      "212.197.0.0/17"
+    ],
+    "ipv6": [
+      "2a00:ff80::/29"
+    ]
   }
 }

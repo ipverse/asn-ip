@@ -3,7 +3,10 @@
   "handle": "KIER",
   "description": "Kier Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.195.112.0/23",
+      "185.239.164.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,10 @@
   "handle": "ELTENET",
   "description": "ELTENET",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "157.181.0.0/16",
+      "192.153.18.0/24"
+    ],
     "ipv6": []
   }
 }

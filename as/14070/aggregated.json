@@ -3,7 +3,9 @@
   "handle": "SVH-TVH-AS1",
   "description": "Valley Health System",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "208.85.100.0/22"
+    ],
     "ipv6": []
   }
 }

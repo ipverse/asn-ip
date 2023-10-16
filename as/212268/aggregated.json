@@ -4,6 +4,9 @@
   "description": "Nobins Pvt Ltd",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a0e:b107:f28::/48",
+      "2a0e:b107:f2a::/48"
+    ]
   }
 }

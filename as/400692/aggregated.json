@@ -3,7 +3,9 @@
   "handle": "BASF-128",
   "description": "BASF Corporation",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "144.29.0.0/16"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,10 @@
   "handle": "TELEFONICA-AUDIOVISUAL-DIGITAL",
   "description": "Telefonica Audiovisual Digital S.L.U.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "81.45.20.0/22",
+      "195.53.128.0/23"
+    ],
     "ipv6": []
   }
 }

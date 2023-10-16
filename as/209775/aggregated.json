@@ -3,7 +3,10 @@
   "handle": "SOLIDNET",
   "description": "Solidnet Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "176.53.152.0/23",
+      "176.53.154.0/24"
+    ],
     "ipv6": []
   }
 }

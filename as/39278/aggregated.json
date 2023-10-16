@@ -3,7 +3,9 @@
   "handle": "CUSTOMIT",
   "description": "CustomIT Oy",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.250.132.0/22"
+    ],
     "ipv6": []
   }
 }

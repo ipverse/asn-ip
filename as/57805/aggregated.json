@@ -3,7 +3,9 @@
   "handle": "NUTEP",
   "description": "OOO NUTEP",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.235.103.0/24"
+    ],
     "ipv6": []
   }
 }

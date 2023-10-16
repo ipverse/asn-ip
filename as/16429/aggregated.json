@@ -3,7 +3,10 @@
   "handle": "TGNA-WCSH",
   "description": "TEGNA Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "167.8.34.0/24",
+      "167.8.59.0/24"
+    ],
     "ipv6": []
   }
 }

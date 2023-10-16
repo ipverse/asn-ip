@@ -3,7 +3,9 @@
   "handle": "TOPIX4SCHOOLS",
   "description": "CONSORZIO TOP IX - TORINO E PIEMONTE EXCHANGE POINT CC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.116.112.0/21"
+    ],
     "ipv6": []
   }
 }

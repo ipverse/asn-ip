@@ -3,7 +3,11 @@
   "handle": "KTX",
   "description": "KTX Marcin Katana",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "88.220.154.0/24",
+      "88.220.167.0/24",
+      "195.136.162.0/23"
+    ],
     "ipv6": []
   }
 }

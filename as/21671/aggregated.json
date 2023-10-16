@@ -3,7 +3,9 @@
   "handle": "MBHYDRO",
   "description": "Manitoba Hydro",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "142.16.22.0/24"
+    ],
     "ipv6": []
   }
 }

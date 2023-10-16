@@ -3,7 +3,11 @@
   "handle": "BENWELL",
   "description": "Mr David John Benwell",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "46.247.142.0/24"
+    ],
+    "ipv6": [
+      "2a13:c0::/48"
+    ]
   }
 }

@@ -3,7 +3,9 @@
   "handle": "TX-TCU",
   "description": "texanscu",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "24.153.204.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "BBW",
   "description": "BATH \u0026 BODY WORKS, INC.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "198.245.147.0/24"
+    ],
     "ipv6": []
   }
 }

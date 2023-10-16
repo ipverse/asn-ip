@@ -3,7 +3,10 @@
   "handle": "CONSUMERSENERGYCO",
   "description": "Consumers Energy Company",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "67.59.60.0/23",
+      "146.88.224.0/23"
+    ],
     "ipv6": []
   }
 }

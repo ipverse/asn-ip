@@ -3,7 +3,10 @@
   "handle": "MORO",
   "description": "Data Hub Integrated Solutions Moro LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.66.144.0/22",
+      "185.238.180.0/22"
+    ],
     "ipv6": []
   }
 }

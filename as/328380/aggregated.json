@@ -3,7 +3,9 @@
   "handle": "PRIME-BANK",
   "description": "PRIME BANK LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "102.130.102.0/24"
+    ],
     "ipv6": [
       "2001:43f8:11c0::/48"
     ]

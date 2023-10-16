@@ -3,7 +3,9 @@
   "handle": "SMH-01",
   "description": "Stinson Morrison Hecker LLP",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "63.174.91.0/24"
+    ],
     "ipv6": []
   }
 }

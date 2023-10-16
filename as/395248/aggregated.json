@@ -3,7 +3,9 @@
   "handle": "LOEWEN",
   "description": "Loewen",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.64.159.0/24"
+    ],
     "ipv6": []
   }
 }

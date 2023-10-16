@@ -3,7 +3,9 @@
   "handle": "VIKOM",
   "description": "Vikom Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "212.15.60.0/24"
+    ],
     "ipv6": []
   }
 }

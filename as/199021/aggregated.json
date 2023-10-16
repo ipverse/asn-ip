@@ -3,7 +3,10 @@
   "handle": "ASKOMTEKS",
   "description": "Greenline Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "176.121.48.0/22",
+      "176.121.60.0/22"
+    ],
     "ipv6": []
   }
 }

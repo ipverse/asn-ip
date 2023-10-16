@@ -3,7 +3,9 @@
   "handle": "UDS-SOLUES-DIGITAIS",
   "description": "UDS SOLUES DIGITAIS LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "131.161.72.0/22"
+    ],
     "ipv6": []
   }
 }

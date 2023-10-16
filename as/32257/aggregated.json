@@ -3,7 +3,9 @@
   "handle": "AETN-STAM-01",
   "description": "A\u0026E Television - Stamford",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "204.15.244.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "VPHOLDINGS",
   "description": "V P Holdings, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "74.118.4.0/22"
+    ],
     "ipv6": []
   }
 }

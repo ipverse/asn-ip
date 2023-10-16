@@ -3,7 +3,12 @@
   "handle": "DIGITALESUISSE",
   "description": "Digitale Suisse AG",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "176.105.235.0/24",
+      "185.227.148.0/22"
+    ],
+    "ipv6": [
+      "2a10:83c0::/29"
+    ]
   }
 }

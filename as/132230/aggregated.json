@@ -3,7 +3,9 @@
   "handle": "HEARING-AP",
   "description": "Australian Hearing",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.7.232.0/24"
+    ],
     "ipv6": []
   }
 }

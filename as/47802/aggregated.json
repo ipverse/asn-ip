@@ -3,7 +3,9 @@
   "handle": "SOD-ALBENA",
   "description": "SOD Albena Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.43.105.0/24"
+    ],
     "ipv6": []
   }
 }

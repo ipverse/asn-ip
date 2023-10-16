@@ -3,7 +3,10 @@
   "handle": "DIRECTV-LOSANGELES",
   "description": "DirecTV Operations",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "147.21.64.0/22",
+      "147.21.68.0/23"
+    ],
     "ipv6": []
   }
 }

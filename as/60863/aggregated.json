@@ -3,7 +3,9 @@
   "handle": "VK",
   "description": "LLC VK",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.6.244.0/22"
+    ],
     "ipv6": []
   }
 }

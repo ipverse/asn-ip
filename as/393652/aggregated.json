@@ -3,7 +3,9 @@
   "handle": "CSB-YORK",
   "description": "Cornerstone Bank",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "98.16.164.0/24"
+    ],
     "ipv6": []
   }
 }

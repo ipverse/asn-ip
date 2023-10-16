@@ -3,7 +3,9 @@
   "handle": "SAFETECH",
   "description": "SC Safetech Innovations SA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "80.96.13.0/24"
+    ],
     "ipv6": []
   }
 }

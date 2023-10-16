@@ -3,7 +3,9 @@
   "handle": "WELLINGTON-SOUSA-MENDES",
   "description": "WELLINGTON SOUSA MENDES-ME",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.188.100.0/22"
+    ],
     "ipv6": []
   }
 }

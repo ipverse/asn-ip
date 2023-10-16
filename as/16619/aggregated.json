@@ -3,7 +3,9 @@
   "handle": "GTRI-RSRCH",
   "description": "Georgia Institute of Technology",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.66.192.0/22"
+    ],
     "ipv6": []
   }
 }

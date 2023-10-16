@@ -3,7 +3,9 @@
   "handle": "RWTS-AP",
   "description": "Real World Technology Solutions Pty Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.74.240.0/22"
+    ],
     "ipv6": []
   }
 }

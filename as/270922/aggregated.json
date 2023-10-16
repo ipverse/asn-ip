@@ -3,7 +3,9 @@
   "handle": "SMARTVELOX-INTERNET",
   "description": "Smartvelox Internet",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "200.142.228.0/23"
+    ],
     "ipv6": []
   }
 }

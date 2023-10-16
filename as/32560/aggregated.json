@@ -3,7 +3,10 @@
   "handle": "BITXBIT",
   "description": "BIT BY BIT COMPUTER CONSULTANTS, INC.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "74.119.228.0/23",
+      "74.119.230.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "LIGHTPORT",
   "description": "LightPort Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "77.232.184.0/21"
+    ],
     "ipv6": []
   }
 }

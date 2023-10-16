@@ -3,7 +3,11 @@
   "handle": "BLINKOH-LLC",
   "description": "Blinkoh, LLC",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "38.127.1.0/24"
+    ],
+    "ipv6": [
+      "2602:fb34:2::/47"
+    ]
   }
 }

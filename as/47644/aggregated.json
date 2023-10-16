@@ -3,7 +3,10 @@
   "handle": "TBCBANK",
   "description": "JSC TBC BANK",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.52.80.0/22",
+      "193.104.20.0/24"
+    ],
     "ipv6": []
   }
 }

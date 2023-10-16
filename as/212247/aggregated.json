@@ -3,7 +3,9 @@
   "handle": "ITSERVICE",
   "description": "ITService LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "176.53.155.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "SVYAZINFORM-KURSK",
   "description": "SvyazInform LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "46.8.63.0/24"
+    ],
     "ipv6": []
   }
 }

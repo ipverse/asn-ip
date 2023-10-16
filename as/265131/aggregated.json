@@ -3,7 +3,11 @@
   "handle": "GP4-TELECOM",
   "description": "GP4 TELECOM LTDA - ME",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "143.208.220.0/22"
+    ],
+    "ipv6": [
+      "2804:2b04::/32"
+    ]
   }
 }

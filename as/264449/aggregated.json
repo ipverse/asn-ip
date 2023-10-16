@@ -3,7 +3,11 @@
   "handle": "ZOOM-NET",
   "description": "ZOOM NET",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "131.255.32.0/22"
+    ],
+    "ipv6": [
+      "2804:1ed8::/32"
+    ]
   }
 }

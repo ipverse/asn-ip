@@ -3,7 +3,9 @@
   "handle": "FF",
   "description": "Florian Fuessl",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "139.28.60.0/22"
+    ],
     "ipv6": []
   }
 }

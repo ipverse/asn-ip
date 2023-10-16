@@ -3,7 +3,9 @@
   "handle": "AMERICANAGCREDIT",
   "description": "AMERICAN AGCREDIT ACA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "216.98.174.0/24"
+    ],
     "ipv6": []
   }
 }

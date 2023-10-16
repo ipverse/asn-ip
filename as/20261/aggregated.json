@@ -3,7 +3,9 @@
   "handle": "MSA-CORP",
   "description": "Medical Services of America",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "98.101.203.0/24"
+    ],
     "ipv6": []
   }
 }

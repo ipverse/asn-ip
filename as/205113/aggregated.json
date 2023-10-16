@@ -3,7 +3,9 @@
   "handle": "OBS",
   "description": "OLYMPIC BROADCASTING SERVICES SL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.248.204.0/24"
+    ],
     "ipv6": []
   }
 }

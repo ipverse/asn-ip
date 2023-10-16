@@ -3,7 +3,9 @@
   "handle": "ARMSTRONG-ENTERPRISE-COMMUNICATIONS",
   "description": "Armstrong Enterprise Communications, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "65.222.160.0/24"
+    ],
     "ipv6": []
   }
 }

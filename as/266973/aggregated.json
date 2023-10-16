@@ -3,7 +3,11 @@
   "handle": "ARDANNE-MELO-LIMA",
   "description": "Ardanne de Melo Lima me",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.225.228.0/22"
+    ],
+    "ipv6": [
+      "2804:462c::/32"
+    ]
   }
 }

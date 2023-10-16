@@ -3,7 +3,9 @@
   "handle": "NEANET",
   "description": "NEANET Lukasz Lugowski",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "31.132.64.0/21"
+    ],
     "ipv6": []
   }
 }

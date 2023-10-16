@@ -3,7 +3,11 @@
   "handle": "MIXNET",
   "description": "Redlimtech Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "80.70.64.0/22",
+      "80.70.72.0/22",
+      "80.70.76.0/23"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "CAROMONT-HEALTH",
   "description": "CaroMont Health Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "198.199.203.0/24"
+    ],
     "ipv6": []
   }
 }

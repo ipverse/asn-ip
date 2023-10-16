@@ -3,7 +3,9 @@
   "handle": "CMINH-VN",
   "description": "CHIEU MINH COMPANY LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.116.52.0/23"
+    ],
     "ipv6": []
   }
 }

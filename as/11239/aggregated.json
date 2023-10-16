@@ -3,7 +3,13 @@
   "handle": "SKYCOMP-01",
   "description": "Skycomp Solutions Inc.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "199.114.252.0/22",
+      "199.168.248.0/22",
+      "205.210.228.0/22"
+    ],
+    "ipv6": [
+      "2607:2700::/32"
+    ]
   }
 }

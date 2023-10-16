@@ -3,7 +3,9 @@
   "handle": "E4A",
   "description": "The Crazy Red Cat Company LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "154.56.215.0/24"
+    ],
     "ipv6": []
   }
 }

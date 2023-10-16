@@ -3,7 +3,9 @@
   "handle": "ICS",
   "description": "ICSolutions",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "63.157.189.0/24"
+    ],
     "ipv6": []
   }
 }

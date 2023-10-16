@@ -3,7 +3,9 @@
   "handle": "MICROLINK-TELECOM",
   "description": "MICROLINK TELECOM LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.231.56.0/22"
+    ],
     "ipv6": []
   }
 }

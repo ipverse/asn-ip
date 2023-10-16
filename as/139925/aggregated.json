@@ -3,7 +3,9 @@
   "handle": "STPL-AP",
   "description": "SharkNet Telecom Pvt. Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.147.42.0/23"
+    ],
     "ipv6": []
   }
 }

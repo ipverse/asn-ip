@@ -3,7 +3,9 @@
   "handle": "JERSEY",
   "description": "InterActive Network Services",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.202.216.0/22"
+    ],
     "ipv6": []
   }
 }

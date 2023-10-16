@@ -3,7 +3,9 @@
   "handle": "ECPI",
   "description": "ECPI Colleges, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.36.12.0/22"
+    ],
     "ipv6": []
   }
 }

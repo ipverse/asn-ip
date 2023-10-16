@@ -3,7 +3,10 @@
   "handle": "WIDEORBIT-WOCLOUD",
   "description": "WideOrbit LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "64.74.139.0/24",
+      "192.157.39.0/24"
+    ],
     "ipv6": []
   }
 }

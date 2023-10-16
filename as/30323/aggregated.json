@@ -3,7 +3,12 @@
   "handle": "OXFORDCOUNTY",
   "description": "The County of Oxford",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "23.174.96.0/24",
+      "173.195.97.0/24"
+    ],
+    "ipv6": [
+      "2620:66:a000::/48"
+    ]
   }
 }

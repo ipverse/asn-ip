@@ -3,7 +3,9 @@
   "handle": "CNS",
   "description": "Consulta Hosting Services AB",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.97.128.0/22"
+    ],
     "ipv6": []
   }
 }

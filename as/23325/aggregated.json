@@ -3,7 +3,9 @@
   "handle": "MCL",
   "description": "Magnitude Capital, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.105.139.0/24"
+    ],
     "ipv6": []
   }
 }

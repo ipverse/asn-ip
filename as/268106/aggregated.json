@@ -3,7 +3,11 @@
   "handle": "LINK-SPEED",
   "description": "LINK SPEED",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.169.108.0/22"
+    ],
+    "ipv6": [
+      "2804:5818::/32"
+    ]
   }
 }

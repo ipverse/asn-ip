@@ -3,7 +3,11 @@
   "handle": "JOAABA-TELECOMUNICAES",
   "description": "Joaaba Telecomunicaes Ltda ME",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "186.209.240.0/20"
+    ],
+    "ipv6": [
+      "2804:3558::/32"
+    ]
   }
 }

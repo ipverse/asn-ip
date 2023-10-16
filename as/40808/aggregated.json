@@ -3,7 +3,10 @@
   "handle": "YVRAA",
   "description": "Vancouver International Airport Authority",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "204.239.248.0/22",
+      "204.239.252.0/23"
+    ],
     "ipv6": []
   }
 }

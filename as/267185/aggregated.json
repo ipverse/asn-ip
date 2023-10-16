@@ -3,7 +3,9 @@
   "handle": "CCS-CAMBORI-CABLE",
   "description": "CCS Cambori Cable System de Telecomunicaes Ltda",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.231.0.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "GAZIKNET",
   "description": "LIMNET , LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.56.148.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "CITY-OF-NEW-SMYRNA-BEACH",
   "description": "City of New Smyrna Beach",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "204.194.21.0/24"
+    ],
     "ipv6": []
   }
 }

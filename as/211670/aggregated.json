@@ -3,7 +3,9 @@
   "handle": "FASA",
   "description": "Fasa University",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "5.190.211.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "RBB-BG",
   "description": "Raiffeisenbank Bulgaria EAD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.48.206.0/24"
+    ],
     "ipv6": []
   }
 }

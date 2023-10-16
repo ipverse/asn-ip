@@ -3,7 +3,9 @@
   "handle": "SUMO-SC",
   "description": "Sumo Capital LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "140.174.19.0/24"
+    ],
     "ipv6": []
   }
 }

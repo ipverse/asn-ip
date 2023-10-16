@@ -3,7 +3,9 @@
   "handle": "MSL-AP",
   "description": "Maybank Singapore Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.149.11.0/24"
+    ],
     "ipv6": []
   }
 }

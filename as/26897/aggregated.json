@@ -3,7 +3,11 @@
   "handle": "EDF-MANCM",
   "description": "E D \u0026 F Man Capital Markets, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "69.25.242.0/24",
+      "162.217.252.0/22",
+      "184.75.201.0/24"
+    ],
     "ipv6": []
   }
 }

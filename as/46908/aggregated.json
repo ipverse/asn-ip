@@ -3,7 +3,9 @@
   "handle": "COMVOZ-US",
   "description": "Comvoz Communication LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "204.138.104.0/24"
+    ],
     "ipv6": []
   }
 }

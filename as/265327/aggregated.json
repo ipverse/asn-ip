@@ -3,7 +3,9 @@
   "handle": "TELEPROFIT-INTERNET-EIRELI",
   "description": "Teleprofit Internet Eireli",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "168.181.32.0/22"
+    ],
     "ipv6": []
   }
 }

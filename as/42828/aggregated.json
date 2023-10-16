@@ -3,7 +3,9 @@
   "handle": "TOPNETLB",
   "description": "Top Net SARL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.84.104.0/22"
+    ],
     "ipv6": []
   }
 }

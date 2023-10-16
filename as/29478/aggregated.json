@@ -4,6 +4,8 @@
   "description": "Karl Dyson",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2001:67c:14c8::/47"
+    ]
   }
 }

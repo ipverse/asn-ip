@@ -3,7 +3,9 @@
   "handle": "KBSI",
   "description": "Koch Industries, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "146.209.175.0/24"
+    ],
     "ipv6": []
   }
 }

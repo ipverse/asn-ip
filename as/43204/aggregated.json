@@ -3,7 +3,9 @@
   "handle": "CITRIX-ONLINE-EUROPE",
   "description": "Citrix Systems, Inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.36.20.0/23"
+    ],
     "ipv6": []
   }
 }

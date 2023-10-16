@@ -3,7 +3,10 @@
   "handle": "AZURANCELIMITED-AP",
   "description": "Azurance Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "118.143.1.0/24",
+      "202.134.60.0/22"
+    ],
     "ipv6": []
   }
 }

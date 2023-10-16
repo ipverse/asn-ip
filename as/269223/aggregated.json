@@ -3,7 +3,11 @@
   "handle": "JOAO-MARCELO-SANTOS-DRESCH",
   "description": "JOAO MARCELO DOS SANTOS DRESCH ME",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.182.108.0/22"
+    ],
+    "ipv6": [
+      "2804:614c::/32"
+    ]
   }
 }

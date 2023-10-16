@@ -3,7 +3,9 @@
   "handle": "AZIMUT",
   "description": "Azimut Holding S.P.A.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.95.232.0/22"
+    ],
     "ipv6": []
   }
 }

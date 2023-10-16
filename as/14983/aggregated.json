@@ -3,7 +3,9 @@
   "handle": "LSAC",
   "description": "Law School Admission Council",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "64.9.4.0/24"
+    ],
     "ipv6": []
   }
 }

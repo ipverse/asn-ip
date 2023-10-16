@@ -3,7 +3,9 @@
   "handle": "AGRAMBROKERI",
   "description": "Agram Brokeri d.d.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.226.170.0/24"
+    ],
     "ipv6": []
   }
 }

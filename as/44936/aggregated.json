@@ -3,7 +3,9 @@
   "handle": "DATAMANAGEMENT-MI",
   "description": "Data Management S.r.l.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.135.200.0/22"
+    ],
     "ipv6": []
   }
 }

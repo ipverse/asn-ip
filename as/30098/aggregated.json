@@ -3,7 +3,9 @@
   "handle": "INFB",
   "description": "Farm Bureau Insurance",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "198.179.10.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "IDNIC-MABES-AD-ID",
   "description": "Markas Besar TNI Angkatan Darat",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.89.124.0/22"
+    ],
     "ipv6": []
   }
 }

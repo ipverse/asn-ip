@@ -3,7 +3,10 @@
   "handle": "MYEVOLUTION-MY",
   "description": "MY Evolution Sdn Bhd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.24.134.0/24",
+      "103.163.4.0/24"
+    ],
     "ipv6": []
   }
 }

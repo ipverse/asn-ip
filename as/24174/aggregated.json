@@ -3,7 +3,9 @@
   "handle": "DAB-VN",
   "description": "Dong A Commercial Join Stock Bank",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "203.77.178.0/24"
+    ],
     "ipv6": []
   }
 }

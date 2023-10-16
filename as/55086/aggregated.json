@@ -3,7 +3,9 @@
   "handle": "PINNACLE-DATA-SYSTEMS",
   "description": "Pinnacle Data Systems, L.L.C.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "50.204.234.0/24"
+    ],
     "ipv6": []
   }
 }

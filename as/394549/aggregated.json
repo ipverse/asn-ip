@@ -3,7 +3,9 @@
   "handle": "GEMAHS01",
   "description": "GEMA/HS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "12.7.31.0/24"
+    ],
     "ipv6": []
   }
 }

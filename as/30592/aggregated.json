@@ -3,7 +3,9 @@
   "handle": "WESTEC-SECURITY-INC",
   "description": "Westec Security, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "204.27.27.0/24"
+    ],
     "ipv6": []
   }
 }

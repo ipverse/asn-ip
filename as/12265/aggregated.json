@@ -3,7 +3,9 @@
   "handle": "R2G-1",
   "description": "Transaction Network Services, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "204.14.4.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "INTEREUROPA",
   "description": "Intereuropa d.d.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.242.36.0/24"
+    ],
     "ipv6": []
   }
 }

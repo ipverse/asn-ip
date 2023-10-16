@@ -3,7 +3,9 @@
   "handle": "MEDITECH-1",
   "description": "Medical Information Technology, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "205.145.159.0/24"
+    ],
     "ipv6": []
   }
 }

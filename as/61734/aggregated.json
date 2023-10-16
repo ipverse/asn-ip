@@ -3,7 +3,9 @@
   "handle": "PRISMA-TELECOM",
   "description": "PRISMA TELECOM",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "131.72.164.0/22"
+    ],
     "ipv6": []
   }
 }

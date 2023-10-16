@@ -3,7 +3,9 @@
   "handle": "HERMANIT",
   "description": "Herman IT Oy",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.22.132.0/22"
+    ],
     "ipv6": []
   }
 }

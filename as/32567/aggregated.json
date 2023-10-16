@@ -3,7 +3,11 @@
   "handle": "GAMESTOP-INC",
   "description": "GameStop, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "12.14.170.0/24",
+      "12.25.107.0/24",
+      "104.251.0.0/20"
+    ],
     "ipv6": []
   }
 }

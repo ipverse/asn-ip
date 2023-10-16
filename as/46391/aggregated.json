@@ -3,7 +3,9 @@
   "handle": "BASSETT-MEDICAL-CENTER",
   "description": "Bassett Medical Center",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "198.135.202.0/24"
+    ],
     "ipv6": []
   }
 }

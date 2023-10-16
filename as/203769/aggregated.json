@@ -3,7 +3,9 @@
   "handle": "KIEN-ICT",
   "description": "Cooperatie KIEN u.a.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.116.124.0/22"
+    ],
     "ipv6": []
   }
 }

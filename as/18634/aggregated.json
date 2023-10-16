@@ -3,7 +3,9 @@
   "handle": "FUSIX-AS1",
   "description": "Fusix Corporation",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "208.80.252.0/22"
+    ],
     "ipv6": []
   }
 }

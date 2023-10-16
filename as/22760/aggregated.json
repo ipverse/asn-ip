@@ -3,7 +3,9 @@
   "handle": "ECNMEDIA",
   "description": "Entertainment Communications Network, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "216.14.4.0/24"
+    ],
     "ipv6": []
   }
 }

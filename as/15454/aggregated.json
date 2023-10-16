@@ -3,7 +3,10 @@
   "handle": "ARBUZ",
   "description": "ARBUZ Co.Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "89.28.248.0/21",
+      "188.92.216.0/21"
+    ],
     "ipv6": []
   }
 }

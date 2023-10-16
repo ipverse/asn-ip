@@ -3,7 +3,9 @@
   "handle": "TVOASN",
   "description": "The Ontario Educational Communications Authority",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "74.113.2.0/23"
+    ],
     "ipv6": []
   }
 }

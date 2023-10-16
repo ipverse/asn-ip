@@ -3,7 +3,9 @@
   "handle": "BHL-BD",
   "description": "Best Holdings Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.44.76.0/22"
+    ],
     "ipv6": []
   }
 }

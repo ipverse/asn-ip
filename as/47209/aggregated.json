@@ -3,7 +3,10 @@
   "handle": "SAGEIBERIA",
   "description": "Sage Spain S.L.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "93.189.176.0/23",
+      "93.189.179.0/24"
+    ],
     "ipv6": []
   }
 }

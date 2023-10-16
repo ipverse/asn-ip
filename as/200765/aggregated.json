@@ -3,7 +3,10 @@
   "handle": "ORANGECYBERDEFENSE-NET",
   "description": "Orange Cyberdefense Sweden AB",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.92.229.0/24",
+      "185.96.248.0/22"
+    ],
     "ipv6": []
   }
 }

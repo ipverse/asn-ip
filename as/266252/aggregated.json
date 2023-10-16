@@ -3,7 +3,11 @@
   "handle": "SOLUCAO-SERVICOS-INTERNET",
   "description": "Solucao Servicos de Internet Tanabi LTDA. - ME",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "192.140.120.0/22"
+    ],
+    "ipv6": [
+      "2804:3d14::/32"
+    ]
   }
 }

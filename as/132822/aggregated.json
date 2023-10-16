@@ -3,7 +3,9 @@
   "handle": "FIDLAPNIC-AP",
   "description": "Fidelity Life Assurance Company Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.65.239.0/24"
+    ],
     "ipv6": []
   }
 }

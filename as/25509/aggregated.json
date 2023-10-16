@@ -3,7 +3,9 @@
   "handle": "VORTEX",
   "description": "Hringidan ehf / Vortex Inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "213.190.96.0/19"
+    ],
     "ipv6": []
   }
 }

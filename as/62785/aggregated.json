@@ -3,7 +3,11 @@
   "handle": "AMAZON-FC",
   "description": "Amazon.com Services, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "172.96.96.0/21",
+      "172.96.110.0/24",
+      "173.83.0.0/17"
+    ],
     "ipv6": []
   }
 }

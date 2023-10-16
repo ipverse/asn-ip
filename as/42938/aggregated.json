@@ -3,7 +3,10 @@
   "handle": "GUDAUTA",
   "description": "LLC Gudauta-net",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "37.230.247.0/24",
+      "45.147.3.0/24"
+    ],
     "ipv6": []
   }
 }

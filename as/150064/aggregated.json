@@ -3,7 +3,9 @@
   "handle": "BTRACK-IN",
   "description": "Btrack India Private Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.185.212.0/24"
+    ],
     "ipv6": []
   }
 }

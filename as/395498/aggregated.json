@@ -3,7 +3,9 @@
   "handle": "FLORIDAMARINE",
   "description": "Florida Marine",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.85.90.0/24"
+    ],
     "ipv6": []
   }
 }

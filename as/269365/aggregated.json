@@ -3,7 +3,11 @@
   "handle": "SEA-FIBER-TELECOMUNICACOES",
   "description": "SEA FIBER TELECOMUNICACOES LTDA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.185.40.0/23"
+    ],
+    "ipv6": [
+      "2804:6380::/32"
+    ]
   }
 }

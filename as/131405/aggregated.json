@@ -3,7 +3,9 @@
   "handle": "TANCANGSG-VN",
   "description": "Saigon Newport",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.226.108.0/22"
+    ],
     "ipv6": []
   }
 }

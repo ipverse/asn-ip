@@ -3,7 +3,9 @@
   "handle": "INFOSUPORTE-TECNOLOGIA-EM",
   "description": "Infosuporte Tecnologia em Infomtica Ltda.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "191.243.132.0/22"
+    ],
     "ipv6": [
       "2804:1798::/32"
     ]

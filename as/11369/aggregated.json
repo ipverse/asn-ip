@@ -3,7 +3,10 @@
   "handle": "INTLFCSTONE",
   "description": "INTL FCStone Financial Inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.111.84.0/23",
+      "198.212.247.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,12 @@
   "handle": "DIGITAL-NET-TELECOM",
   "description": "DIGITAL NET TELECOM",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.165.184.0/22"
+    ],
+    "ipv6": [
+      "2804:5530::/33",
+      "2804:5530:8000::/34"
+    ]
   }
 }

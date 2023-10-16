@@ -3,7 +3,12 @@
   "handle": "NEW-GROUP-TELECOMUNICACOES",
   "description": "New Group Telecomunicacoes LTDA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "138.204.200.0/22",
+      "170.80.68.0/22"
+    ],
+    "ipv6": [
+      "2804:2780::/32"
+    ]
   }
 }

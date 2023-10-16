@@ -3,7 +3,9 @@
   "handle": "ALLANT-GROUP",
   "description": "The Allant Group, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.67.51.0/24"
+    ],
     "ipv6": []
   }
 }

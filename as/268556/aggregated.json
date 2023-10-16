@@ -3,7 +3,11 @@
   "handle": "RG-CORREA-TELECOMUNICAOES",
   "description": "RG Correa Telecomunicaoes",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.163.172.0/22"
+    ],
+    "ipv6": [
+      "2804:5300::/32"
+    ]
   }
 }

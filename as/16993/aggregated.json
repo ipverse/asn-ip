@@ -3,7 +3,9 @@
   "handle": "CFI",
   "description": "Cumberland Farms, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "208.72.112.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "KIMITOTELEFON",
   "description": "Kimito Telefonaktiebolag Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.69.140.0/22"
+    ],
     "ipv6": []
   }
 }

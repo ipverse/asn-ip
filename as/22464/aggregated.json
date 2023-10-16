@@ -3,7 +3,11 @@
   "handle": "NELTC-ISP",
   "description": "Northeast Louisiana Telephone Company, Inc.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "199.19.232.0/21"
+    ],
+    "ipv6": [
+      "2604:500::/32"
+    ]
   }
 }

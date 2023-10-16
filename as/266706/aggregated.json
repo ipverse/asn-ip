@@ -3,7 +3,9 @@
   "handle": "VALMU-COMUNICACIONES",
   "description": "VALMU COMUNICACIONES LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.229.188.0/22"
+    ],
     "ipv6": []
   }
 }

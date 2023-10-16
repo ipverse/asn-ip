@@ -3,7 +3,9 @@
   "handle": "TEOLIS-SAU",
   "description": "TEOLIS SAU",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "102.164.224.0/20"
+    ],
     "ipv6": []
   }
 }

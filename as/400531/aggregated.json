@@ -3,7 +3,9 @@
   "handle": "WESTHOLT-ASN-01",
   "description": "West Holt Memorial Hospital",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.65.230.0/24"
+    ],
     "ipv6": []
   }
 }
