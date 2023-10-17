@@ -3,7 +3,9 @@
   "handle": "NOVAC",
   "description": "NOVA CASUALTY COMPANY",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "24.75.43.0/24"
+    ],
     "ipv6": []
   }
 }

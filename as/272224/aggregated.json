@@ -3,7 +3,9 @@
   "handle": "TELMAIS-TELECOMUNICAES-EIRELI",
   "description": "Telmais Telecomunicaes EIRELI - ME",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.255.116.0/22"
+    ],
     "ipv6": [
       "2804:83d8::/32"
     ]

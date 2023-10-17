@@ -1,0 +1,12 @@
+{
+  "asn": 397641,
+  "handle": "ARAMARK-NS2-SCO",
+  "description": "ARAMARK",
+  "subnets": {
+    "ipv4": [
+      "161.195.196.0/23",
+      "161.195.198.0/24"
+    ],
+    "ipv6": []
+  }
+}

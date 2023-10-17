@@ -1,9 +1,12 @@
 {
   "asn": 51791,
-  "handle": "PVTI",
-  "description": "Federal state budgetary institution Center expertizy y koordinacii informatizacii",
+  "handle": "VENTURES-DC-VERI-MERKEZI-HIZMETLERI",
+  "description": "Remzi Toker",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "181.215.193.0/24",
+      "185.88.174.0/24"
+    ],
     "ipv6": []
   }
 }

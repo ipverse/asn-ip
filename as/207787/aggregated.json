@@ -4,7 +4,8 @@
   "description": "Orbit Telekom Sanayi ve Ticaret Limited Sirketi",
   "subnets": {
     "ipv4": [
-      "45.93.244.0/22"
+      "45.93.244.0/22",
+      "104.234.168.0/24"
     ],
     "ipv6": [
       "2a0e:2940::/29"

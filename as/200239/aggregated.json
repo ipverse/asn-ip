@@ -4,6 +4,7 @@
   "description": "Bogahost Bilisim ve Telekomunikasyon Hiz. San ve Tic. Ltd. Sti.",
   "subnets": {
     "ipv4": [
+      "5.181.176.0/24",
       "194.87.86.0/24"
     ],
     "ipv6": []

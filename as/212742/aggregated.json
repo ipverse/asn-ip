@@ -3,10 +3,7 @@
   "handle": "AS48678",
   "description": "Bedriye Ekingen",
   "subnets": {
-    "ipv4": [
-      "78.135.96.0/24",
-      "188.132.242.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

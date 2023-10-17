@@ -1,0 +1,13 @@
+{
+  "asn": 150880,
+  "handle": "FASTBYTE-VN",
+  "description": "FAST BYTE FAST DATA COMPANY LIMITED",
+  "subnets": {
+    "ipv4": [
+      "103.20.96.0/23"
+    ],
+    "ipv6": [
+      "2401:2b20::/48"
+    ]
+  }
+}

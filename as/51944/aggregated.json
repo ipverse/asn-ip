@@ -4,6 +4,7 @@
   "description": "DARIUSZ WESOLOWSKI trading as PROMEDIA NOWICKI WESOLOWSKI Sp.J.",
   "subnets": {
     "ipv4": [
+      "185.123.48.0/22",
       "193.151.48.0/22"
     ],
     "ipv6": [

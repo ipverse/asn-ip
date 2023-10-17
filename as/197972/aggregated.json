@@ -3,7 +3,9 @@
   "handle": "INTELE-2",
   "description": "Intelecom LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "82.144.95.0/24"
+    ],
     "ipv6": []
   }
 }

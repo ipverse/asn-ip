@@ -3,7 +3,9 @@
   "handle": "MAVORION-AP",
   "description": "Mavorion Systems",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.177.68.0/23"
+    ],
     "ipv6": [
       "2400:3860::/32"
     ]
