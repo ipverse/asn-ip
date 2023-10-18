@@ -3,7 +3,9 @@
   "handle": "SIXNET",
   "description": "SIXNET OPERATION LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.134.36.0/24"
+    ],
     "ipv6": [
       "2602:fed2:9000::/36",
       "2602:fed2:a000::/36",

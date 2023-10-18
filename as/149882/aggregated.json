@@ -3,7 +3,9 @@
   "handle": "IDNIC-INFINITYCLOUD-ID",
   "description": "PT Citra Agung Mestika",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.185.111.0/24"
+    ],
     "ipv6": []
   }
 }

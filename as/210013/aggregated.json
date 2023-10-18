@@ -3,7 +3,9 @@
   "handle": "MARQUES",
   "description": "Marques Philippe",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "44.151.228.0/22"
+    ],
     "ipv6": [
       "2a06:a005:490::/44",
       "2a06:a005:1460::/44",

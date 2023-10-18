@@ -3,7 +3,11 @@
   "handle": "YAHOO-IN1",
   "description": "Yahoo Inc.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "117.104.190.0/24"
+    ],
+    "ipv6": [
+      "2406:8600:ef69::/48"
+    ]
   }
 }

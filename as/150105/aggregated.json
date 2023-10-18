@@ -1,0 +1,11 @@
+{
+  "asn": 150105,
+  "handle": "NSDLDEPO-IN",
+  "description": "NATIONAL SECURITIES DEPOSITORY LTD",
+  "subnets": {
+    "ipv4": [
+      "103.39.33.0/24"
+    ],
+    "ipv6": []
+  }
+}

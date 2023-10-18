@@ -3,9 +3,7 @@
   "handle": "CENTURYLINK-MTIPS3-BUR",
   "description": "CenturyLink Communications, LLC",
   "subnets": {
-    "ipv4": [
-      "204.153.228.0/22"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

@@ -4,8 +4,7 @@
   "description": "SILVEIRA E S. C. E I. DE E. ELETRONICOS LTDA -ME",
   "subnets": {
     "ipv4": [
-      "45.227.168.0/23",
-      "45.227.170.0/24"
+      "45.227.168.0/22"
     ],
     "ipv6": [
       "2804:4708::/33",

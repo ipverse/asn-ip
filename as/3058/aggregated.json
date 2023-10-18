@@ -3,13 +3,7 @@
   "handle": "RAS",
   "description": "Federal State Institution Federal Scientific Research Institute for System Analysis of the Russian Academy of Sciences",
   "subnets": {
-    "ipv4": [
-      "83.149.192.0/18",
-      "193.232.172.0/23",
-      "194.149.64.0/21"
-    ],
-    "ipv6": [
-      "2a00:db8::/32"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "GARDEN-SAT-PROVEDOR",
   "description": "GARDEN SAT PROVEDOR DE INTERNET LTDA ME",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "181.191.164.0/22"
+    ],
     "ipv6": []
   }
 }

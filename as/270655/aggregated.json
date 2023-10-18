@@ -4,8 +4,7 @@
   "description": "BlasterNet Telecom LTDA",
   "subnets": {
     "ipv4": [
-      "138.117.232.0/23",
-      "138.117.234.0/24"
+      "138.117.232.0/22"
     ],
     "ipv6": []
   }

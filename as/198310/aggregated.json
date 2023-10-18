@@ -1,9 +1,11 @@
 {
   "asn": 198310,
-  "handle": "PALLADA",
-  "description": "Start2 LLC",
+  "handle": "OOO-MOLNIYA",
+  "description": "OOO Molniya",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.152.27.0/24"
+    ],
     "ipv6": []
   }
 }

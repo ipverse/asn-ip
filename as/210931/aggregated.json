@@ -3,7 +3,9 @@
   "handle": "VDSTEL",
   "description": "VDS-TELECOM LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "93.179.120.0/24"
+    ],
     "ipv6": []
   }
 }

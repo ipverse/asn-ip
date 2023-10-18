@@ -3,7 +3,9 @@
   "handle": "VEUIBITS",
   "description": "VEU I BITS, SERVEIS EMPRESARIALS S.L.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "5.154.175.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,10 @@
   "handle": "ONIAAS",
   "description": "HostPapa",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "66.102.128.0/20",
+      "208.79.216.0/22"
+    ],
     "ipv6": [
       "2605:6f00::/32"
     ]
