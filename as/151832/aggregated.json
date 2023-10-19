@@ -1,0 +1,11 @@
+{
+  "asn": 151832,
+  "handle": "SONISTAR-AP",
+  "description": "Soni Star",
+  "subnets": {
+    "ipv4": [
+      "103.213.220.0/23"
+    ],
+    "ipv6": []
+  }
+}

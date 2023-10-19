@@ -4,7 +4,8 @@
   "description": "EWERTON DA SILVA LOPES TELECOMUNICAES",
   "subnets": {
     "ipv4": [
-      "45.237.164.0/22"
+      "45.237.164.0/22",
+      "204.157.128.0/22"
     ],
     "ipv6": [
       "2804:4f3c::/32"

@@ -1,9 +1,11 @@
 {
   "asn": 137829,
-  "handle": "ACNPL-AP",
-  "description": "Askina Cable Network Private Limited",
+  "handle": "LCP-AP",
+  "description": "LOLC (CAMBODIA) PLC.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.218.176.0/23"
+    ],
     "ipv6": []
   }
 }

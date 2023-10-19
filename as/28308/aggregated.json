@@ -4,12 +4,10 @@
   "description": "Orion Telecomunicaes Comercio e Servios LTDA",
   "subnets": {
     "ipv4": [
-      "45.161.66.0/24",
       "189.36.192.0/20"
     ],
     "ipv6": [
-      "2804:1460::/32",
-      "2804:514c:c000::/34"
+      "2804:1460::/32"
     ]
   }
 }

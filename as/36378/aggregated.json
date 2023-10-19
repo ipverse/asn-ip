@@ -4,6 +4,7 @@
   "description": "New York Institute of Technology",
   "subnets": {
     "ipv4": [
+      "64.29.24.0/21",
       "64.35.176.0/20",
       "64.187.240.0/20",
       "198.242.56.0/24",

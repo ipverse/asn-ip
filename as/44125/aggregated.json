@@ -4,7 +4,8 @@
   "description": "Likhno Dmitriy trading as Luganet",
   "subnets": {
     "ipv4": [
-      "45.152.24.0/22"
+      "45.152.24.0/23",
+      "45.152.26.0/24"
     ],
     "ipv6": []
   }

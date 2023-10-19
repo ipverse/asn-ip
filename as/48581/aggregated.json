@@ -3,7 +3,10 @@
   "handle": "MYTHICALKITTEN",
   "description": "MythicalKitten LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "128.254.224.0/24",
+      "128.254.226.0/24"
+    ],
     "ipv6": [
       "2a05:dfc1::/48",
       "2a0a:6040::/47",

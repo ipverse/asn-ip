@@ -1,9 +1,11 @@
 {
   "asn": 132823,
-  "handle": "RESERVED",
-  "description": "APNIC ASN block",
+  "handle": "KABTAHPL-AP",
+  "description": "K \u0026 B Timber \u0026 Hardware Pty Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.254.231.0/24"
+    ],
     "ipv6": []
   }
 }

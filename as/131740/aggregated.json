@@ -4,7 +4,8 @@
   "description": "PT Smart Media Pratama",
   "subnets": {
     "ipv4": [
-      "43.245.248.0/23"
+      "43.245.248.0/23",
+      "103.21.224.0/24"
     ],
     "ipv6": []
   }

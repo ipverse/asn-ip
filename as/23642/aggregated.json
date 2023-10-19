@@ -1,7 +1,7 @@
 {
   "asn": 23642,
-  "handle": "RESERVED",
-  "description": "APNIC ASN block",
+  "handle": "OBIS",
+  "description": "OBIS",
   "subnets": {
     "ipv4": [
       "202.4.250.0/24"

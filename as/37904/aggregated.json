@@ -3,7 +3,9 @@
   "handle": "BBIX-NETWORK",
   "description": "BBIX, Inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "218.231.244.0/24"
+    ],
     "ipv6": []
   }
 }

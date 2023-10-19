@@ -4,6 +4,7 @@
   "description": "MisakaF Network Ltd",
   "subnets": {
     "ipv4": [
+      "89.213.180.0/24",
       "103.119.16.0/24"
     ],
     "ipv6": [

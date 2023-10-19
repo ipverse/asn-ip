@@ -3,7 +3,9 @@
   "handle": "DATAPARA1-IN",
   "description": "DATAPARADISE",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.133.78.0/24"
+    ],
     "ipv6": []
   }
 }

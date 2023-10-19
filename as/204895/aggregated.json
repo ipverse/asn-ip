@@ -3,7 +3,9 @@
   "handle": "SANTAPLUS",
   "description": "Yury Dolin",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "37.44.194.0/24"
+    ],
     "ipv6": []
   }
 }
