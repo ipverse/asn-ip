@@ -4,6 +4,8 @@
   "description": "PT Nesta Indo Media",
   "subnets": {
     "ipv4": [
+      "38.156.95.0/24",
+      "103.203.234.0/24",
       "103.217.224.0/24"
     ],
     "ipv6": []

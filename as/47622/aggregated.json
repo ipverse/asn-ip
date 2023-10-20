@@ -3,7 +3,9 @@
   "handle": "DATATECHUK",
   "description": "Chillishot Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "212.74.32.0/19"
+    ],
     "ipv6": []
   }
 }

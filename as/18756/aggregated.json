@@ -3,7 +3,9 @@
   "handle": "PATEAM",
   "description": "Level 3 Parent, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "8.20.65.0/24"
+    ],
     "ipv6": []
   }
 }

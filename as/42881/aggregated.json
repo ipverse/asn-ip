@@ -3,7 +3,9 @@
   "handle": "BADGER-BV",
   "description": "SC ITNS.NET SRL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.145.176.0/22"
+    ],
     "ipv6": []
   }
 }

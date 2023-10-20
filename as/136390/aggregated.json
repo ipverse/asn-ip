@@ -3,7 +3,9 @@
   "handle": "ZAHEZONEPTYLTD-AP",
   "description": "ZaheZone Pty Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.187.115.0/24"
+    ],
     "ipv6": []
   }
 }

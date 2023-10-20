@@ -3,7 +3,9 @@
   "handle": "SCXY",
   "description": "Association for Computing Machinery, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "140.221.128.0/17"
+    ],
     "ipv6": []
   }
 }
