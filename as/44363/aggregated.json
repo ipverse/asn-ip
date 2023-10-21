@@ -3,7 +3,9 @@
   "handle": "ASESN01",
   "description": "Energie Steiermark Breitband GmbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.186.244.0/22"
+    ],
     "ipv6": []
   }
 }

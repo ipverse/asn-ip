@@ -1,0 +1,11 @@
+{
+  "asn": 48449,
+  "handle": "SNGR",
+  "description": "SMARTNET I.K.E.",
+  "subnets": {
+    "ipv4": [
+      "185.160.194.0/24"
+    ],
+    "ipv6": []
+  }
+}

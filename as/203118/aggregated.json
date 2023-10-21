@@ -1,9 +1,11 @@
 {
   "asn": 203118,
-  "handle": "REDCODE-2",
-  "description": "Get-Net LLC",
+  "handle": "EZERDI",
+  "description": "Ezerdi LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.225.216.0/24"
+    ],
     "ipv6": []
   }
 }

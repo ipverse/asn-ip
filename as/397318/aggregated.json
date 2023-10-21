@@ -4,6 +4,7 @@
   "description": "Calix, Inc.",
   "subnets": {
     "ipv4": [
+      "64.125.56.0/24",
       "64.136.97.0/24"
     ],
     "ipv6": []

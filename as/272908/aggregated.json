@@ -3,7 +3,9 @@
   "handle": "HILTEC",
   "description": "HILTEC SRL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.50.173.0/24"
+    ],
     "ipv6": []
   }
 }

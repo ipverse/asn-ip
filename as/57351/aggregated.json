@@ -1,9 +1,11 @@
 {
   "asn": 57351,
-  "handle": "RESERVED",
-  "description": "RIPE NCC ASN block",
+  "handle": "XYBERDATA",
+  "description": "Xyberdata Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "102.219.22.0/24"
+    ],
     "ipv6": []
   }
 }

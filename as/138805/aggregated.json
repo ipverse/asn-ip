@@ -3,7 +3,9 @@
   "handle": "IDNIC-KOMINFO-MALANGKOTA-ID",
   "description": "Dinas Komunikasi dan Informatika Kota Malang",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.135.14.0/23"
+    ],
     "ipv6": []
   }
 }

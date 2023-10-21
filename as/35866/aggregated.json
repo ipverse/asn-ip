@@ -1,0 +1,11 @@
+{
+  "asn": 35866,
+  "handle": "SILVER-CHIP",
+  "description": "Silver Chip Interactive",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2602:f9ff::/48"
+    ]
+  }
+}

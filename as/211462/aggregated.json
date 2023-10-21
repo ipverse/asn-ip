@@ -4,6 +4,7 @@
   "description": "Andrei Tiberiu Holt",
   "subnets": {
     "ipv4": [
+      "185.150.18.0/24",
       "193.32.87.0/24"
     ],
     "ipv6": [

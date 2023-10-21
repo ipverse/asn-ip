@@ -3,7 +3,9 @@
   "handle": "AGILERACK",
   "description": "AgileRack Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "208.99.59.0/24"
+    ],
     "ipv6": []
   }
 }

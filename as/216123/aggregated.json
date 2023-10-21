@@ -1,0 +1,12 @@
+{
+  "asn": 216123,
+  "handle": "ZHUYUAN",
+  "description": "ZHU-YUAN JIANG",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2602:faad:a1::/48",
+      "2a05:dfc1:a900::/40"
+    ]
+  }
+}

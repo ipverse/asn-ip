@@ -1,9 +1,11 @@
 {
   "asn": 6698,
   "handle": "ARCHERNET",
-  "description": "SPD Solomaha Yuriy Vladimirovich",
+  "description": "Solomaha Yuriy Vladimirovich",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "176.97.112.0/20"
+    ],
     "ipv6": []
   }
 }
