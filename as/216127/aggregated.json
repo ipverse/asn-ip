@@ -1,0 +1,15 @@
+{
+  "asn": 216127,
+  "handle": "NUXTCLOUD",
+  "description": "INTERNATIONAL HOSTING COMPANY LIMITED",
+  "subnets": {
+    "ipv4": [
+      "80.66.87.0/24",
+      "194.28.226.0/24",
+      "194.58.33.0/24"
+    ],
+    "ipv6": [
+      "2a0f:cdc6:500::/44"
+    ]
+  }
+}

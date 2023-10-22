@@ -3,7 +3,9 @@
   "handle": "WETNET",
   "description": "WetNet Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "31.211.86.0/24"
+    ],
     "ipv6": []
   }
 }

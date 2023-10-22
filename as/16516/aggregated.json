@@ -1,9 +1,11 @@
 {
   "asn": 16516,
-  "handle": "COMTECH-MOBILE-DATACOM",
-  "description": "Comtech Mobile Datacom Corporation",
+  "handle": "CAREMORE",
+  "description": "Elevance Health, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "162.95.192.0/23"
+    ],
     "ipv6": []
   }
 }

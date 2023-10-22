@@ -4,7 +4,8 @@
   "description": "Guotai Junan International Holdings Limited",
   "subnets": {
     "ipv4": [
-      "103.42.18.0/24"
+      "103.42.18.0/24",
+      "103.248.142.0/24"
     ],
     "ipv6": []
   }

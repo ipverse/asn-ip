@@ -4,6 +4,8 @@
   "description": "SpeedClick for Information Technology and Communication Ltd",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a03:7c0::/32"
+    ]
   }
 }

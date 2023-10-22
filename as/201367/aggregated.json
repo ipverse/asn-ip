@@ -3,7 +3,9 @@
   "handle": "FILOMENO",
   "description": "Energente S.r.l.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.76.56.0/22"
+    ],
     "ipv6": []
   }
 }

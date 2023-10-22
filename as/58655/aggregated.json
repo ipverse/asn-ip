@@ -4,8 +4,7 @@
   "description": "SkyTel Communications Limited",
   "subnets": {
     "ipv4": [
-      "103.12.172.0/22",
-      "103.159.171.0/24"
+      "103.12.172.0/22"
     ],
     "ipv6": [
       "2404:7500::/32"

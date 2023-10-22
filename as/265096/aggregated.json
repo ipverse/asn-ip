@@ -4,6 +4,7 @@
   "description": "PRGNET SERVIOS DE TELECOMUNICAES",
   "subnets": {
     "ipv4": [
+      "138.204.130.0/24",
       "170.233.148.0/22"
     ],
     "ipv6": [
