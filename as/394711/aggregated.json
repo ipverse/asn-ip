@@ -1,9 +1,12 @@
 {
   "asn": 394711,
-  "handle": "CFN-100",
-  "description": "Crystal Clear",
+  "handle": "LIMENET",
+  "description": "Limenet",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.92.240.0/20",
+      "94.156.64.0/21"
+    ],
     "ipv6": []
   }
 }

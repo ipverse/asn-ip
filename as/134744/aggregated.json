@@ -3,7 +3,9 @@
   "handle": "WATSON-AP",
   "description": "RJ Watson and S V Watson",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.199.1.0/24"
+    ],
     "ipv6": []
   }
 }

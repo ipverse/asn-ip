@@ -3,7 +3,9 @@
   "handle": "MAXIMUM",
   "description": "Maximum LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "81.25.68.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -4,6 +4,7 @@
   "description": "Civilized Hosting LLC",
   "subnets": {
     "ipv4": [
+      "23.164.56.0/24",
       "185.229.203.0/24"
     ],
     "ipv6": [

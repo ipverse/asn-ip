@@ -3,7 +3,9 @@
   "handle": "LEBRIJATV",
   "description": "AVATEL TELECOM, SA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "212.104.160.0/24"
+    ],
     "ipv6": []
   }
 }

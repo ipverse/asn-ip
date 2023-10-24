@@ -4,8 +4,7 @@
   "description": "Dimensional Fund Advisors",
   "subnets": {
     "ipv4": [
-      "199.10.253.0/24",
-      "205.211.137.0/24"
+      "199.10.253.0/24"
     ],
     "ipv6": []
   }

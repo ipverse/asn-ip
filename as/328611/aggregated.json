@@ -3,7 +3,11 @@
   "handle": "LIBYAN-ELITE",
   "description": "Libyan Elite Company for Technical Solutions",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "102.23.220.0/22",
+      "102.211.6.0/23",
+      "102.216.137.0/24"
+    ],
     "ipv6": []
   }
 }
