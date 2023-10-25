@@ -4,8 +4,7 @@
   "description": "Halton Datacenter Inc.",
   "subnets": {
     "ipv4": [
-      "172.111.52.0/24",
-      "198.137.135.0/24"
+      "172.111.52.0/24"
     ],
     "ipv6": []
   }

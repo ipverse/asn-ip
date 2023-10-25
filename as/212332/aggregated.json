@@ -4,13 +4,6 @@
   "description": "Agustina Sempere Ruiz trading as Thinco Telecom",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2a05:dfc1:8a00::/47",
-      "2a05:dfc1:8a02::/48",
-      "2a05:dfc1:8a04::/48",
-      "2a0b:b87:ffa4::/48",
-      "2a0e:b107:27b0::/47",
-      "2a0e:b107:27b4::/46"
-    ]
+    "ipv6": []
   }
 }

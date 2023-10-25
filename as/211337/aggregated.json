@@ -4,6 +4,8 @@
   "description": "Alexander Gummenscheimer",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a10:ccc0:100::/48"
+    ]
   }
 }

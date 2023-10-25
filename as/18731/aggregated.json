@@ -1,9 +1,11 @@
 {
   "asn": 18731,
-  "handle": "STREAM-GAS-ELECTRIC",
-  "description": "SGE IP Holdco, LLC",
+  "handle": "CITYSIDE-01",
+  "description": "Cityside Fiber",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "23.164.40.0/24"
+    ],
     "ipv6": []
   }
 }

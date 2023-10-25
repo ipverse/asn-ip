@@ -3,7 +3,11 @@
   "handle": "NOERDNET",
   "description": "Noerdnet ApS",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "91.226.144.0/23"
+    ],
+    "ipv6": [
+      "2a13:e740::/29"
+    ]
   }
 }

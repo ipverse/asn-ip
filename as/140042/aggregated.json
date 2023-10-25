@@ -4,9 +4,7 @@
   "description": "Zhipinshang (Hongkong) Electron Communication Technology Limited",
   "subnets": {
     "ipv4": [
-      "45.200.16.0/24",
       "104.251.224.0/20",
-      "154.221.0.0/24",
       "188.130.231.0/24"
     ],
     "ipv6": []

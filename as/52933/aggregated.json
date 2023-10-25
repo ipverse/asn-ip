@@ -3,7 +3,10 @@
   "handle": "CONECTIVA-TECNOLOGIA",
   "description": "CONECTIVA TECNOLOGIA LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "177.10.181.0/24",
+      "177.10.182.0/23"
+    ],
     "ipv6": []
   }
 }

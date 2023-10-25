@@ -3,7 +3,11 @@
   "handle": "LINK-TELECOM-EIRELI",
   "description": "LINK TELECOM EIRELI",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.171.8.0/22"
+    ],
+    "ipv6": [
+      "2804:5938::/32"
+    ]
   }
 }
