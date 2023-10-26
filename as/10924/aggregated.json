@@ -1,0 +1,12 @@
+{
+  "asn": 10924,
+  "handle": "DLAS",
+  "description": "Division of Legislative Automated Systems",
+  "subnets": {
+    "ipv4": [
+      "198.246.135.0/24",
+      "198.246.136.0/22"
+    ],
+    "ipv6": []
+  }
+}

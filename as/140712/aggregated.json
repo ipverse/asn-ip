@@ -3,7 +3,11 @@
   "handle": "RESERVED",
   "description": "APNIC ASN block",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "103.152.26.0/24"
+    ],
+    "ipv6": [
+      "2001:df3:f280::/48"
+    ]
   }
 }

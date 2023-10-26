@@ -1,0 +1,11 @@
+{
+  "asn": 13606,
+  "handle": "LEANDERTX-AS1",
+  "description": "City of Leander, Texas",
+  "subnets": {
+    "ipv4": [
+      "206.77.104.0/23"
+    ],
+    "ipv6": []
+  }
+}

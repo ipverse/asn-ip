@@ -4,7 +4,7 @@
   "description": "ipFail Networks",
   "subnets": {
     "ipv4": [
-      "23.157.112.0/24"
+      "23.157.112.0/23"
     ],
     "ipv6": [
       "2001:470:ee::/48",

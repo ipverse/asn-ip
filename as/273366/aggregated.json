@@ -1,0 +1,11 @@
+{
+  "asn": 273366,
+  "handle": "LAIKOS-TELECOM",
+  "description": "Laikos Telecom",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2804:8d94::/32"
+    ]
+  }
+}

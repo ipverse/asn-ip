@@ -1,0 +1,11 @@
+{
+  "asn": 5219,
+  "handle": "DNIC-ASBLK-0-05376",
+  "description": "DoD Network Information Center",
+  "subnets": {
+    "ipv4": [
+      "67.133.98.0/24"
+    ],
+    "ipv6": []
+  }
+}

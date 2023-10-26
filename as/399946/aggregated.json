@@ -3,7 +3,9 @@
   "handle": "AURORA-LEO",
   "description": "Pacific Dataport Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "167.94.11.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -1,0 +1,11 @@
+{
+  "asn": 36286,
+  "handle": "RLEWAN-01",
+  "description": "NGA",
+  "subnets": {
+    "ipv4": [
+      "216.66.52.0/24"
+    ],
+    "ipv6": []
+  }
+}

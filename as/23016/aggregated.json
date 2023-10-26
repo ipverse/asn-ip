@@ -4,8 +4,7 @@
   "description": "Security Benefit",
   "subnets": {
     "ipv4": [
-      "12.53.34.0/24",
-      "184.180.79.0/24"
+      "12.53.34.0/24"
     ],
     "ipv6": []
   }

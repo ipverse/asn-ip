@@ -3,7 +3,9 @@
   "handle": "ISABELLA-MAGALHES-SILVEIRA",
   "description": "isabella magalhes silveira mello me",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "170.83.64.0/22"
+    ],
     "ipv6": []
   }
 }

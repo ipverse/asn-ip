@@ -1,9 +1,11 @@
 {
   "asn": 11925,
-  "handle": "DDWI",
-  "description": "Delta Dental of Wisconsin, Inc",
+  "handle": "RUESCH-CONSULTING",
+  "description": "Ruesch Consulting, LLC",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2607:7140:bad::/48"
+    ]
   }
 }
