@@ -4,6 +4,7 @@
   "description": "VMTK . Trading Investment CO., LTD",
   "subnets": {
     "ipv4": [
+      "103.149.170.0/23",
       "103.174.218.0/23"
     ],
     "ipv6": []

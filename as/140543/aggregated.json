@@ -4,6 +4,7 @@
   "description": "ReadyDedis, LLC",
   "subnets": {
     "ipv4": [
+      "170.205.54.0/24",
       "193.25.253.0/24"
     ],
     "ipv6": []

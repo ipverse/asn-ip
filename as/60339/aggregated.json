@@ -3,7 +3,9 @@
   "handle": "H3GUK",
   "description": "Hutchison 3G UK Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "92.41.255.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -4,7 +4,6 @@
   "description": "New CNS Online",
   "subnets": {
     "ipv4": [
-      "103.85.112.0/23",
       "103.85.115.0/24"
     ],
     "ipv6": []

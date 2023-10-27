@@ -3,7 +3,9 @@
   "handle": "ABNSPL-IN",
   "description": "ASHOK BROADBAND NETWORK SERVICES PRIVATE LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.38.222.0/23"
+    ],
     "ipv6": []
   }
 }

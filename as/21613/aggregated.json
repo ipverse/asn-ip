@@ -1,0 +1,11 @@
+{
+  "asn": 21613,
+  "handle": "QUINAULT",
+  "description": "Quinault Indian Nation",
+  "subnets": {
+    "ipv4": [
+      "172.86.232.0/22"
+    ],
+    "ipv6": []
+  }
+}

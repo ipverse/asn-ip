@@ -4,6 +4,7 @@
   "description": "OBOS OPENNET AS",
   "subnets": {
     "ipv4": [
+      "46.227.152.0/21",
       "185.190.36.0/24"
     ],
     "ipv6": [

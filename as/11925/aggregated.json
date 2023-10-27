@@ -3,9 +3,11 @@
   "handle": "RUESCH-CONSULTING",
   "description": "Ruesch Consulting, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "23.163.200.0/24"
+    ],
     "ipv6": [
-      "2607:7140:bad::/48"
+      "2607:7140::/32"
     ]
   }
 }
