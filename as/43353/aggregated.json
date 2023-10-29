@@ -3,7 +3,9 @@
   "handle": "KLOEPFERHOLZ",
   "description": "Kloepferholz GmbH \u0026 Co.KG",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.228.149.0/24"
+    ],
     "ipv6": []
   }
 }

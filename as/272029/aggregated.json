@@ -3,7 +3,9 @@
   "handle": "FIBER-CABLE-EIRL",
   "description": "FIBER CABLE E.I.R.L.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.172.131.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -4,7 +4,8 @@
   "description": "Little Apple Technologies",
   "subnets": {
     "ipv4": [
-      "205.149.8.0/21"
+      "205.149.8.0/21",
+      "208.83.46.0/24"
     ],
     "ipv6": []
   }

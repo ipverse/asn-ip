@@ -1,0 +1,11 @@
+{
+  "asn": 53763,
+  "handle": "LAKESIDE",
+  "description": "Lakeside Network, LLC",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2602:f9f7::/40"
+    ]
+  }
+}

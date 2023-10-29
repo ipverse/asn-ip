@@ -3,7 +3,9 @@
   "handle": "MYLINK-SERVICO-COMUNICACAO",
   "description": "MYLINK SERVICO DE COMUNICACAO MULTIMIDIA EIRELI",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "200.152.25.0/24"
+    ],
     "ipv6": []
   }
 }
