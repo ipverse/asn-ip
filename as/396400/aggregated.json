@@ -1,0 +1,11 @@
+{
+  "asn": 396400,
+  "handle": "OLATHE-KS",
+  "description": "City of Olathe",
+  "subnets": {
+    "ipv4": [
+      "204.89.192.0/24"
+    ],
+    "ipv6": []
+  }
+}
