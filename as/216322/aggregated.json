@@ -4,6 +4,7 @@
   "description": "Atomdata-Innopolis JSC",
   "subnets": {
     "ipv4": [
+      "89.169.64.0/20",
       "185.238.138.0/24"
     ],
     "ipv6": []

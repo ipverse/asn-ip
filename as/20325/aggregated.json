@@ -1,0 +1,12 @@
+{
+  "asn": 20325,
+  "handle": "PATELCOCU",
+  "description": "Patelco Credit Union",
+  "subnets": {
+    "ipv4": [
+      "198.27.30.0/23",
+      "204.251.230.0/24"
+    ],
+    "ipv6": []
+  }
+}

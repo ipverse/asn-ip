@@ -4,7 +4,8 @@
   "description": "UltraTelecom Provedora de Internet",
   "subnets": {
     "ipv4": [
-      "177.37.64.0/19"
+      "177.37.64.0/19",
+      "179.43.4.0/22"
     ],
     "ipv6": [
       "2804:e24::/32"

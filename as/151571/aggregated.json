@@ -1,0 +1,11 @@
+{
+  "asn": 151571,
+  "handle": "IDNIC-KLIKSPOT-ID",
+  "description": "PT Klikspot Telekomunikasi Indonesia",
+  "subnets": {
+    "ipv4": [
+      "103.80.228.0/23"
+    ],
+    "ipv6": []
+  }
+}

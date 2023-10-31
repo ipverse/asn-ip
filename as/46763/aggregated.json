@@ -4,7 +4,8 @@
   "description": "Riemer \u0026 Braunstein LLP",
   "subnets": {
     "ipv4": [
-      "38.111.2.0/24"
+      "38.111.2.0/24",
+      "66.45.59.0/24"
     ],
     "ipv6": []
   }

@@ -1,0 +1,11 @@
+{
+  "asn": 273111,
+  "handle": "REDITEL-ISP",
+  "description": "Reditel ISP SAS",
+  "subnets": {
+    "ipv4": [
+      "200.50.152.0/22"
+    ],
+    "ipv6": []
+  }
+}

@@ -4,10 +4,8 @@
   "description": "ACESSONET INFORMTICA LTDA - ME",
   "subnets": {
     "ipv4": [
-      "170.233.184.0/22"
+      "170.233.187.0/24"
     ],
-    "ipv6": [
-      "2804:3280::/32"
-    ]
+    "ipv6": []
   }
 }

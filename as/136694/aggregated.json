@@ -3,7 +3,9 @@
   "handle": "SOUTHBB2",
   "description": "Southnet Broadband Private Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.99.216.0/23"
+    ],
     "ipv6": []
   }
 }
