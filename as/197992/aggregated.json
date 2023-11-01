@@ -3,7 +3,9 @@
   "handle": "DEFSOLUTION-LLC",
   "description": "DEFSOLUTION LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.33.32.0/24"
+    ],
     "ipv6": [
       "2a0f:2100::/29",
       "2a0f:7f00::/29",

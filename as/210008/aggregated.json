@@ -4,6 +4,7 @@
   "description": "Telroaming Advanced Communication Solution Ltd.",
   "subnets": {
     "ipv4": [
+      "38.150.96.0/22",
       "45.199.176.0/24",
       "45.204.70.0/24",
       "64.226.49.0/24",

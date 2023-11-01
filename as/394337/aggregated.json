@@ -4,7 +4,7 @@
   "description": "Simeon Networks LLC",
   "subnets": {
     "ipv4": [
-      "45.45.196.0/22"
+      "45.45.196.0/24"
     ],
     "ipv6": [
       "2607:880::/32"

@@ -1,0 +1,11 @@
+{
+  "asn": 151407,
+  "handle": "HNSL-AP",
+  "description": "Hytron Network Services Limited",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2401:b60:100::/40"
+    ]
+  }
+}

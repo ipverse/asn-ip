@@ -3,7 +3,9 @@
   "handle": "BELIY-MOST",
   "description": "LLC Beliy Most",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.227.149.0/24"
+    ],
     "ipv6": [
       "2a03:7540:1::/48",
       "2a06:a005:670::/44",

@@ -1,0 +1,11 @@
+{
+  "asn": 200315,
+  "handle": "AE-NETCONNECT",
+  "description": "NetConnect Innovations LLC",
+  "subnets": {
+    "ipv4": [
+      "138.128.224.0/22"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asn": 11111,
+  "handle": "THOMSON-REUTERS",
+  "description": "Thomson Reuters Holdings Inc",
+  "subnets": {
+    "ipv4": [
+      "55.13.143.0/24"
+    ],
+    "ipv6": []
+  }
+}
