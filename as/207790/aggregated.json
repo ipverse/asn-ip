@@ -4,8 +4,6 @@
   "description": "SWN Stadtwerke Neumuenster GmbH",
   "subnets": {
     "ipv4": [
-      "62.197.0.0/20",
-      "62.197.16.0/21",
       "89.56.0.0/16",
       "89.57.0.0/17",
       "89.57.128.0/18",

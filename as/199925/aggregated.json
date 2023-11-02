@@ -3,7 +3,9 @@
   "handle": "AZCOM",
   "description": "Phan Nhat Nghi",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.128.13.0/24"
+    ],
     "ipv6": [
       "2a05:dfc1:100::/40",
       "2a05:dfc1:3700::/40",

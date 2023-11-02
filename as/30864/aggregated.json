@@ -4,7 +4,8 @@
   "description": "Elavon Financial Services DAC",
   "subnets": {
     "ipv4": [
-      "195.245.90.0/23"
+      "195.245.90.0/23",
+      "213.225.228.0/22"
     ],
     "ipv6": []
   }

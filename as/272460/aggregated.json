@@ -3,10 +3,9 @@
   "handle": "MS-FIBRA",
   "description": "Ms Fibra Ltda",
   "subnets": {
-    "ipv4": [
-      "154.127.50.0/24",
-      "190.93.86.0/24"
-    ],
-    "ipv6": []
+    "ipv4": [],
+    "ipv6": [
+      "2804:8188::/32"
+    ]
   }
 }

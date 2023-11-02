@@ -4,7 +4,7 @@
   "description": "CentroCredit Bank Moscow JSC",
   "subnets": {
     "ipv4": [
-      "217.67.0.0/20"
+      "217.67.15.0/24"
     ],
     "ipv6": []
   }

@@ -1,0 +1,11 @@
+{
+  "asn": 151998,
+  "handle": "IDNIC-HMI-ID",
+  "description": "PT Halim Mitradana Internasional",
+  "subnets": {
+    "ipv4": [
+      "103.67.69.0/24"
+    ],
+    "ipv6": []
+  }
+}

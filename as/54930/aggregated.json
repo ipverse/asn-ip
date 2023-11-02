@@ -1,0 +1,11 @@
+{
+  "asn": 54930,
+  "handle": "TIER2-TECHNOLOGIES",
+  "description": "Tier2 Technologies",
+  "subnets": {
+    "ipv4": [
+      "23.164.120.0/24"
+    ],
+    "ipv6": []
+  }
+}

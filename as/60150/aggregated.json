@@ -1,9 +1,11 @@
 {
   "asn": 60150,
-  "handle": "NEW-PRESENCE",
-  "description": "New Presence SRL",
+  "handle": "AREA-7",
+  "description": "area-7 IT-Services GmbH",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a07:5b47::/32"
+    ]
   }
 }

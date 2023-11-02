@@ -1,0 +1,11 @@
+{
+  "asn": 273772,
+  "handle": "VNO-TELECOM",
+  "description": "VNO Telecom LTDA",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2804:8bfc::/32"
+    ]
+  }
+}

@@ -3,7 +3,9 @@
   "handle": "GOLD",
   "description": "GOLD DATA USA INC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "131.255.104.0/22"
+    ],
     "ipv6": []
   }
 }

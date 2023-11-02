@@ -1,11 +1,9 @@
 {
   "asn": 133311,
-  "handle": "DNPL-IN",
-  "description": "Digital Network Pvt Ltd",
+  "handle": "RESERVED",
+  "description": "IRINN AS-BLOCK",
   "subnets": {
-    "ipv4": [
-      "103.78.148.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }
