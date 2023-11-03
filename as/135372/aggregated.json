@@ -1,9 +1,11 @@
 {
   "asn": 135372,
-  "handle": "RESERVED",
-  "description": "APNIC ASN block",
+  "handle": "CSJI-AP",
+  "description": "Columbia Sportswear Japan Inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "203.142.10.0/24"
+    ],
     "ipv6": []
   }
 }

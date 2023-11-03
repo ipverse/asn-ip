@@ -1,0 +1,11 @@
+{
+  "asn": 151636,
+  "handle": "RELIANCE-AP",
+  "description": "Reliance Broadband",
+  "subnets": {
+    "ipv4": [
+      "103.184.92.0/24"
+    ],
+    "ipv6": []
+  }
+}

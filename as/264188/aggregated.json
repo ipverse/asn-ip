@@ -1,11 +1,13 @@
 {
   "asn": 264188,
-  "handle": "VOLT-TELECOM",
-  "description": "VOLT TELECOM",
+  "handle": "INVICTO-TELECOM",
+  "description": "INVICTO TELECOM",
   "subnets": {
     "ipv4": [
       "138.97.144.0/24"
     ],
-    "ipv6": []
+    "ipv6": [
+      "2804:23dc::/32"
+    ]
   }
 }

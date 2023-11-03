@@ -3,7 +3,9 @@
   "handle": "CORPBANCA",
   "description": "Corpbanca",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "200.0.160.0/22"
+    ],
     "ipv6": []
   }
 }

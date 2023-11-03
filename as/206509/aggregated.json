@@ -4,6 +4,7 @@
   "description": "KCOM GROUP LIMITED",
   "subnets": {
     "ipv4": [
+      "89.213.192.0/24",
       "159.15.0.0/16",
       "194.207.0.0/19"
     ],

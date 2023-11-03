@@ -1,0 +1,11 @@
+{
+  "asn": 139016,
+  "handle": "EXONHOST-AP",
+  "description": "ExonHost",
+  "subnets": {
+    "ipv4": [
+      "103.187.22.0/23"
+    ],
+    "ipv6": []
+  }
+}

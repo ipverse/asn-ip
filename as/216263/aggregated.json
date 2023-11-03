@@ -1,0 +1,11 @@
+{
+  "asn": 216263,
+  "handle": "RADICENTER",
+  "description": "Radicenter OU",
+  "subnets": {
+    "ipv4": [
+      "185.86.211.0/24"
+    ],
+    "ipv6": []
+  }
+}

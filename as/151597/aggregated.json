@@ -3,7 +3,9 @@
   "handle": "IDNIC-VALMICH-ID",
   "description": "PT Valmich Hosting Indonesia",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.254.197.0/24"
+    ],
     "ipv6": []
   }
 }

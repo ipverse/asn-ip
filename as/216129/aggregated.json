@@ -1,0 +1,12 @@
+{
+  "asn": 216129,
+  "handle": "GUARDNETWORK",
+  "description": "SEBEK sp. z o.o",
+  "subnets": {
+    "ipv4": [
+      "107.161.154.0/24",
+      "199.83.103.0/24"
+    ],
+    "ipv6": []
+  }
+}

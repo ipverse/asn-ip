@@ -4,6 +4,7 @@
   "description": "KeyBank National Association",
   "subnets": {
     "ipv4": [
+      "12.189.139.0/24",
       "156.77.64.0/18"
     ],
     "ipv6": []

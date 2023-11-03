@@ -3,13 +3,7 @@
   "handle": "SECURITYSERVICES",
   "description": "Neustar Security Services",
   "subnets": {
-    "ipv4": [
-      "204.74.103.0/24",
-      "204.74.122.0/24"
-    ],
-    "ipv6": [
-      "2610:a1:3090::/48",
-      "2610:a1:3092::/48"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "SMTPM-IN",
   "description": "Smtpmailers Pvt Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "208.52.129.0/24"
+    ],
     "ipv6": [
       "2001:df2:3fc0::/48"
     ]
