@@ -3,7 +3,9 @@
   "handle": "MEREDITHCORP",
   "description": "Meredith Corp.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "198.186.174.0/23"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "ELINK2-AP",
   "description": "E-LINK CLOUD LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.186.136.0/23"
+    ],
     "ipv6": []
   }
 }

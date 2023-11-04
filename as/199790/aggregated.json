@@ -4,7 +4,6 @@
   "description": "IP Telecom Bulgaria",
   "subnets": {
     "ipv4": [
-      "37.139.38.0/24",
       "185.45.152.0/22"
     ],
     "ipv6": []

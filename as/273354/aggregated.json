@@ -1,0 +1,11 @@
+{
+  "asn": 273354,
+  "handle": "RIO-PONTE-NET",
+  "description": "Rio Ponte Net",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2804:8d64::/32"
+    ]
+  }
+}

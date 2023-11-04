@@ -4,6 +4,7 @@
   "description": "PT Global Sarana Elektronika",
   "subnets": {
     "ipv4": [
+      "38.253.226.0/24",
       "103.176.96.0/23"
     ],
     "ipv6": []

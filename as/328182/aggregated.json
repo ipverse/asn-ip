@@ -4,6 +4,7 @@
   "description": "Digital Arena Limited",
   "subnets": {
     "ipv4": [
+      "102.211.53.0/24",
       "160.119.108.0/22"
     ],
     "ipv6": []

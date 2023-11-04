@@ -1,0 +1,11 @@
+{
+  "asn": 151049,
+  "handle": "ATSSFIBER-AP",
+  "description": "ATSS NETWORK AND DATA SOLUTION",
+  "subnets": {
+    "ipv4": [
+      "103.121.65.0/24"
+    ],
+    "ipv6": []
+  }
+}

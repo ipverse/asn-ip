@@ -1,0 +1,11 @@
+{
+  "asn": 216313,
+  "handle": "COMPLETNET-NET",
+  "description": "Completnet ApS",
+  "subnets": {
+    "ipv4": [
+      "185.129.60.0/24"
+    ],
+    "ipv6": []
+  }
+}

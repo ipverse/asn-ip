@@ -4,7 +4,8 @@
   "description": "ONNO NETWORKS, SOCIEDAD ANNIMA",
   "subnets": {
     "ipv4": [
-      "138.118.104.0/22"
+      "138.118.104.0/22",
+      "200.123.194.0/24"
     ],
     "ipv6": [
       "2803:1440::/32"

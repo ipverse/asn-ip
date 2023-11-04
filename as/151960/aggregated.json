@@ -1,0 +1,11 @@
+{
+  "asn": 151960,
+  "handle": "AREALINKBD-AP",
+  "description": "Area Link BD",
+  "subnets": {
+    "ipv4": [
+      "36.50.51.0/24"
+    ],
+    "ipv6": []
+  }
+}

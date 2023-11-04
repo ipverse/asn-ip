@@ -4,7 +4,8 @@
   "description": "PT Multinet Perkasa Indonesia",
   "subnets": {
     "ipv4": [
-      "103.191.157.0/24"
+      "103.191.157.0/24",
+      "117.102.161.0/24"
     ],
     "ipv6": []
   }

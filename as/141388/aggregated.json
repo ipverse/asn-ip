@@ -1,0 +1,11 @@
+{
+  "asn": 141388,
+  "handle": "ISL-AP",
+  "description": "ICICI Securities",
+  "subnets": {
+    "ipv4": [
+      "103.249.118.0/24"
+    ],
+    "ipv6": []
+  }
+}
