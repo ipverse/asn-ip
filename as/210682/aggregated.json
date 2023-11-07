@@ -1,9 +1,11 @@
 {
   "asn": 210682,
   "handle": "A3PAY",
-  "description": "A 3 LLC",
+  "description": "PAYMENT SERVICE A3 LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.236.29.0/24"
+    ],
     "ipv6": []
   }
 }

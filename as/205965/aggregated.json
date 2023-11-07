@@ -3,9 +3,7 @@
   "handle": "JASON-RUHITTEL",
   "description": "Jason Ruhittel",
   "subnets": {
-    "ipv4": [
-      "204.11.1.0/24"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2a05:dfc1:ad00::/40",
       "2a05:dfc1:ae00::/40",

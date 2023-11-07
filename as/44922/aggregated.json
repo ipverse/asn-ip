@@ -4,6 +4,8 @@
   "description": "Emre Erim trading as Medyabim Datacenter",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a03:403::/32"
+    ]
   }
 }

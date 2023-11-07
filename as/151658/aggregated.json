@@ -1,0 +1,11 @@
+{
+  "asn": 151658,
+  "handle": "FNS-AP",
+  "description": "Family Network Solution",
+  "subnets": {
+    "ipv4": [
+      "103.251.10.0/23"
+    ],
+    "ipv6": []
+  }
+}

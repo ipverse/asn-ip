@@ -4,8 +4,7 @@
   "description": "VSTNETFIBER TELECOM",
   "subnets": {
     "ipv4": [
-      "45.7.12.0/22",
-      "177.38.204.0/24"
+      "45.7.12.0/22"
     ],
     "ipv6": [
       "2804:3e90::/32"

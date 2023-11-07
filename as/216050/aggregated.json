@@ -1,0 +1,12 @@
+{
+  "asn": 216050,
+  "handle": "LIETPARK",
+  "description": "Lietparkas UAB",
+  "subnets": {
+    "ipv4": [
+      "176.46.128.0/24",
+      "176.46.131.0/24"
+    ],
+    "ipv6": []
+  }
+}

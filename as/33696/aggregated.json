@@ -3,9 +3,7 @@
   "handle": "NEXTARRAY-ASN-01",
   "description": "NextArray LLC.",
   "subnets": {
-    "ipv4": [
-      "140.99.35.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

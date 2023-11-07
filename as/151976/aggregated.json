@@ -1,0 +1,11 @@
+{
+  "asn": 151976,
+  "handle": "CFNPL-AP",
+  "description": "Core Fibre",
+  "subnets": {
+    "ipv4": [
+      "103.67.56.0/23"
+    ],
+    "ipv6": []
+  }
+}

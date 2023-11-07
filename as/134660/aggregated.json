@@ -3,7 +3,9 @@
   "handle": "IDNIC-PEMKOTBATU-ID",
   "description": "Badan Pengelola Keuangan dan Aset Daerah Kota Batu",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.211.82.0/24"
+    ],
     "ipv6": []
   }
 }
