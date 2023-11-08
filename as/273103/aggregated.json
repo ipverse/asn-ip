@@ -3,7 +3,9 @@
   "handle": "TV-MS",
   "description": "TV\u0026MS S.A.S",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.137.212.0/24"
+    ],
     "ipv6": []
   }
 }

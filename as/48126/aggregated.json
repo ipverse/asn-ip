@@ -3,7 +3,9 @@
   "handle": "BAHR",
   "description": "Bahr IT Germany UG (haftungsbeschraenkt)",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.229.248.0/24"
+    ],
     "ipv6": [
       "2a0f:5707:aa40::/44"
     ]

@@ -3,7 +3,9 @@
   "handle": "TERABYTE-SERVIOS-TELECOM",
   "description": "Terabyte Servios de Telecom B Larga EPP LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "179.106.48.0/20"
+    ],
     "ipv6": []
   }
 }

@@ -1,0 +1,11 @@
+{
+  "asn": 150802,
+  "handle": "NTC-INBAG",
+  "description": "NORTHERN TRUST CORPORATION",
+  "subnets": {
+    "ipv4": [
+      "202.27.235.0/24"
+    ],
+    "ipv6": []
+  }
+}

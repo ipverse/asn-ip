@@ -1,0 +1,12 @@
+{
+  "asn": 216183,
+  "handle": "APPLE",
+  "description": "Apple Network, LLC",
+  "subnets": {
+    "ipv4": [
+      "45.9.2.0/24",
+      "163.5.33.0/24"
+    ],
+    "ipv6": []
+  }
+}

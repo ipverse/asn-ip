@@ -4,6 +4,8 @@
   "description": "SEMPRINI EMILIANO EFREN",
   "subnets": {
     "ipv4": [
+      "45.239.104.0/24",
+      "187.102.196.0/23",
       "190.110.238.0/24"
     ],
     "ipv6": [

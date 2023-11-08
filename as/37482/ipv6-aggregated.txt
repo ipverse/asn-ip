@@ -1,4 +1,7 @@
 # AS37482 (BI)
 # Broadband Innovations
 #
-2c0f:f1e8::/32
+2c0f:f1e8::/33
+2c0f:f1e8:8000::/34
+2c0f:f1e8:c000::/35
+2c0f:f1e8:e000::/36

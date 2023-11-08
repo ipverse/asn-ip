@@ -1,0 +1,12 @@
+{
+  "asn": 199418,
+  "handle": "KEMPF-JULIEN",
+  "description": "KEMPF Julien",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a13:1c47:ffa0::/47",
+      "2a13:1c47:ffa2::/48"
+    ]
+  }
+}

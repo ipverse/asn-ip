@@ -4,6 +4,7 @@
   "description": "DEFSOLUTION LLC",
   "subnets": {
     "ipv4": [
+      "83.147.44.0/22",
       "194.33.32.0/24"
     ],
     "ipv6": [

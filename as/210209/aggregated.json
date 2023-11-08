@@ -3,7 +3,9 @@
   "handle": "VEELAN",
   "description": "LLC VEELAN",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.24.41.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -4,6 +4,8 @@
   "description": "Delta Infocom Limited",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2407:1500:21::/48"
+    ]
   }
 }
