@@ -3,7 +3,9 @@
   "handle": "DELTA-BG",
   "description": "Delta HighTech Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "79.98.110.0/23"
+    ],
     "ipv6": [
       "2a01:b6a0::/32",
       "2a02:80e0::/30"

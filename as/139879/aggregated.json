@@ -4,6 +4,7 @@
   "description": "Galaxy Broadband (pvt.) Ltd.",
   "subnets": {
     "ipv4": [
+      "103.146.136.0/24",
       "110.38.240.0/20"
     ],
     "ipv6": [

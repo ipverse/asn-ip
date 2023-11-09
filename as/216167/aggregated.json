@@ -3,7 +3,9 @@
   "handle": "SKOALI",
   "description": "Skoali SAS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.102.228.0/23"
+    ],
     "ipv6": [
       "2a13:c7c0::/32"
     ]

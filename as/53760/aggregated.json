@@ -3,7 +3,9 @@
   "handle": "XT-NEWORLEANS",
   "description": "Xenir, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "184.188.128.0/23"
+    ],
     "ipv6": []
   }
 }

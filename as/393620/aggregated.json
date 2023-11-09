@@ -3,9 +3,7 @@
   "handle": "TDN-AUST-BSTLN",
   "description": "Nextlink Broadband",
   "subnets": {
-    "ipv4": [
-      "104.167.48.0/20"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

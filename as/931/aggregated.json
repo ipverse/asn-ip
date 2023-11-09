@@ -1,0 +1,11 @@
+{
+  "asn": 931,
+  "handle": "HYONIX-US",
+  "description": "Hyonix",
+  "subnets": {
+    "ipv4": [
+      "103.131.131.0/24"
+    ],
+    "ipv6": []
+  }
+}

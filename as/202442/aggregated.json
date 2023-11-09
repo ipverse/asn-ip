@@ -3,7 +3,9 @@
   "handle": "REALSEC",
   "description": "Real Security d.o.o.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.35.84.0/22"
+    ],
     "ipv6": []
   }
 }

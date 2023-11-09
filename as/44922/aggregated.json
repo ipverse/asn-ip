@@ -3,7 +3,9 @@
   "handle": "MEDYABIM",
   "description": "Emre Erim trading as Medyabim Datacenter",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.7.82.0/23"
+    ],
     "ipv6": [
       "2a03:403::/32"
     ]

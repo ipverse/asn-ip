@@ -3,7 +3,9 @@
   "handle": "TKBYTECH",
   "description": "T.K Bytech LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.145.152.0/24"
+    ],
     "ipv6": []
   }
 }

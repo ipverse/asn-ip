@@ -1,9 +1,13 @@
 {
   "asn": 32990,
-  "handle": "LYYOUSA",
-  "description": "Hanser Technology Incorporated",
+  "handle": "ECE-FIBER",
+  "description": "East Central Energy",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "108.179.128.0/22"
+    ],
+    "ipv6": [
+      "2607:66c0::/32"
+    ]
   }
 }

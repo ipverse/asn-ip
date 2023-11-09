@@ -1,0 +1,11 @@
+{
+  "asn": 216203,
+  "handle": "PHSTD",
+  "description": "LLC Farmstandart",
+  "subnets": {
+    "ipv4": [
+      "45.14.223.0/24"
+    ],
+    "ipv6": []
+  }
+}

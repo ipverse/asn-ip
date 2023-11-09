@@ -1,0 +1,11 @@
+{
+  "asn": 273041,
+  "handle": "UNIVERSIDAD-SAN-CARLOS",
+  "description": "Universidad de San Carlos de Guatemala",
+  "subnets": {
+    "ipv4": [
+      "168.234.78.0/24"
+    ],
+    "ipv6": []
+  }
+}

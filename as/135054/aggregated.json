@@ -1,0 +1,11 @@
+{
+  "asn": 135054,
+  "handle": "CMNET-HAINAN-IDC",
+  "description": "China Mobile Communications Corporation",
+  "subnets": {
+    "ipv4": [
+      "183.255.124.0/24"
+    ],
+    "ipv6": []
+  }
+}
