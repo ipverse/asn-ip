@@ -1,0 +1,13 @@
+{
+  "asn": 216047,
+  "handle": "XDPCLOUD-NET",
+  "description": "XDPCLOUD LTD",
+  "subnets": {
+    "ipv4": [
+      "45.156.221.0/24",
+      "103.140.8.0/24",
+      "156.225.95.0/24"
+    ],
+    "ipv6": []
+  }
+}

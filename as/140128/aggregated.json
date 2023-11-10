@@ -3,7 +3,9 @@
   "handle": "GSPACE-IN",
   "description": "Gponspace Internet India Pvt Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.185.236.0/24"
+    ],
     "ipv6": []
   }
 }

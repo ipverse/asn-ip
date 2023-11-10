@@ -1,0 +1,13 @@
+{
+  "asn": 203105,
+  "handle": "FLIMPIENET",
+  "description": "Hillebrand van de Groep",
+  "subnets": {
+    "ipv4": [
+      "45.92.42.0/24"
+    ],
+    "ipv6": [
+      "2a07:22c1:40::/48"
+    ]
+  }
+}

@@ -3,7 +3,9 @@
   "handle": "VENUSTELCO-BD",
   "description": "Venus Telecom Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.13.148.0/23"
+    ],
     "ipv6": []
   }
 }

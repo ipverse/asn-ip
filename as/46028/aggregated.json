@@ -3,10 +3,7 @@
   "handle": "PACNET-ID",
   "description": "Transkon Jaya, PT",
   "subnets": {
-    "ipv4": [
-      "103.57.9.0/24",
-      "117.102.164.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

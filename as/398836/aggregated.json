@@ -4,6 +4,7 @@
   "description": "NP Wireless LLC",
   "subnets": {
     "ipv4": [
+      "23.134.200.0/23",
       "38.128.152.0/22"
     ],
     "ipv6": []

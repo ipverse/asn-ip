@@ -4,6 +4,8 @@
   "description": "VSW TELECOM EIRELI",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2804:3984::/32"
+    ]
   }
 }
