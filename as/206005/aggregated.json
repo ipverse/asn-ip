@@ -3,7 +3,9 @@
   "handle": "CAHUL-BRANCH",
   "description": "SC ITNS.NET SRL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "89.40.35.0/24"
+    ],
     "ipv6": []
   }
 }

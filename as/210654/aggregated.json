@@ -1,9 +1,11 @@
 {
   "asn": 210654,
-  "handle": "SERVERION-STOCK",
+  "handle": "SRVN",
   "description": "Des Capital B.V.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.198.123.0/24"
+    ],
     "ipv6": []
   }
 }

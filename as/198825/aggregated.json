@@ -3,11 +3,7 @@
   "handle": "MATHYS-DUMONTE",
   "description": "Mathys DUMONTE",
   "subnets": {
-    "ipv4": [
-      "103.102.230.0/24",
-      "194.5.64.0/24",
-      "195.184.76.0/24"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2a0c:b641:af0::/44",
       "2a10:4646:2e0::/44"

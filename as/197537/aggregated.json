@@ -3,7 +3,9 @@
   "handle": "WISDOM-CLOUD",
   "description": "WISDOM CLOUD INTERNET TECHNOLOGY PTE. LTD.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "149.40.64.0/19"
+    ],
     "ipv6": []
   }
 }

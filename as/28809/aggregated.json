@@ -3,7 +3,9 @@
   "handle": "NAUKANET",
   "description": "LLC Nauka-Svyaz",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "85.91.106.0/24"
+    ],
     "ipv6": []
   }
 }

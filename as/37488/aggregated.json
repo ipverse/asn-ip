@@ -3,7 +3,9 @@
   "handle": "SECURE-CONEKT",
   "description": "Secure Conekt (Pty) Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "196.43.243.0/24"
+    ],
     "ipv6": []
   }
 }
