@@ -4,7 +4,8 @@
   "description": "Mango Teleservices Limited (ISP)",
   "subnets": {
     "ipv4": [
-      "103.248.204.0/24"
+      "103.248.204.0/24",
+      "114.130.71.0/24"
     ],
     "ipv6": [
       "2001:df1:5cc0::/48",

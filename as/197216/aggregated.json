@@ -4,6 +4,7 @@
   "description": "Delta HighTech Ltd.",
   "subnets": {
     "ipv4": [
+      "79.98.104.0/24",
       "79.98.110.0/23"
     ],
     "ipv6": [

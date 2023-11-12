@@ -4,6 +4,8 @@
   "description": "ISIF OU",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2405:84c0:6800::/40"
+    ]
   }
 }

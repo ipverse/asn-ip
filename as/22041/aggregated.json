@@ -3,7 +3,9 @@
   "handle": "CED-15",
   "description": "Comtech EF Data",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "206.223.8.0/24"
+    ],
     "ipv6": []
   }
 }

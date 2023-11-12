@@ -3,7 +3,9 @@
   "handle": "SYNHDIGITAL",
   "description": "Association IT-JUNIOR",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "146.19.48.0/24"
+    ],
     "ipv6": []
   }
 }

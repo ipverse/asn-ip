@@ -3,7 +3,9 @@
   "handle": "IDNIC-MDNKOMINFO-ID",
   "description": "Dinas Komunikasi dan Informatika Kota Medan",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.116.168.0/24"
+    ],
     "ipv6": []
   }
 }

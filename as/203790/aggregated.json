@@ -4,7 +4,8 @@
   "description": "Association UP-NETWORK",
   "subnets": {
     "ipv4": [
-      "89.185.0.0/24"
+      "89.185.0.0/24",
+      "146.19.216.0/24"
     ],
     "ipv6": []
   }
