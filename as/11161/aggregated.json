@@ -4,7 +4,6 @@
   "description": "DigitalVirt",
   "subnets": {
     "ipv4": [
-      "103.112.186.0/24",
       "116.206.92.0/22"
     ],
     "ipv6": [

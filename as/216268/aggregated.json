@@ -3,7 +3,11 @@
   "handle": "RUMMAGE",
   "description": "John Owen Rummage",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "74.113.97.0/24"
+    ],
+    "ipv6": [
+      "2602:fd6f:e::/48"
+    ]
   }
 }
