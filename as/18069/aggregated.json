@@ -4,7 +4,7 @@
   "description": "SB Technology Corp.",
   "subnets": {
     "ipv4": [
-      "133.217.0.0/16"
+      "133.217.192.0/24"
     ],
     "ipv6": []
   }

@@ -3,7 +3,9 @@
   "handle": "LIVINGSTONHAVEN",
   "description": "Livingston and Haven, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "173.226.87.0/24"
+    ],
     "ipv6": []
   }
 }

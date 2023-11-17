@@ -4,7 +4,8 @@
   "description": "ADV Limited Liability Company",
   "subnets": {
     "ipv4": [
-      "194.226.27.0/24"
+      "194.226.27.0/24",
+      "195.208.106.0/24"
     ],
     "ipv6": []
   }

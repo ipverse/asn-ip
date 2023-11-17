@@ -1,0 +1,11 @@
+{
+  "asn": 46588,
+  "handle": "CDW-CONFIGS-01",
+  "description": "CDW",
+  "subnets": {
+    "ipv4": [
+      "8.35.131.0/24"
+    ],
+    "ipv6": []
+  }
+}

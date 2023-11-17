@@ -1,9 +1,11 @@
 {
   "asn": 270931,
-  "handle": "EDSNET-TELECOMUNICACOES-EM",
-  "description": "EDSNET TELECOMUNICACOES EM REDES",
+  "handle": "NUV-DATACENTER",
+  "description": "NUV DATACENTER",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "200.142.225.0/24"
+    ],
     "ipv6": []
   }
 }

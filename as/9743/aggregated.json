@@ -1,0 +1,11 @@
+{
+  "asn": 9743,
+  "handle": "NIPPONEDUIX-AP",
+  "description": "Nippon EDUIX",
+  "subnets": {
+    "ipv4": [
+      "202.47.187.0/24"
+    ],
+    "ipv6": []
+  }
+}

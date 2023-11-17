@@ -1,0 +1,11 @@
+{
+  "asn": 151984,
+  "handle": "NRLINK-AP",
+  "description": "NR Link",
+  "subnets": {
+    "ipv4": [
+      "103.252.120.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -3,10 +3,7 @@
   "handle": "RAVAND",
   "description": "Ravand Cybertech Inc.",
   "subnets": {
-    "ipv4": [
-      "204.225.179.0/24",
-      "206.130.26.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

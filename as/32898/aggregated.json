@@ -1,0 +1,11 @@
+{
+  "asn": 32898,
+  "handle": "NTS-ALBUQUERQUE-01",
+  "description": "Vexus Fiber",
+  "subnets": {
+    "ipv4": [
+      "38.158.184.0/21"
+    ],
+    "ipv6": []
+  }
+}
