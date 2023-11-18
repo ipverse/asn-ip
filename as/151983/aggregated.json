@@ -1,0 +1,11 @@
+{
+  "asn": 151983,
+  "handle": "OISP-AP",
+  "description": "Orbit Internet Service Provider Pvt Ltd",
+  "subnets": {
+    "ipv4": [
+      "103.253.19.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,9 +1,12 @@
 {
   "asn": 400387,
-  "handle": "NL-778",
-  "description": "NyonLab LLC",
+  "handle": "FLYING-BULL-INTERNET",
+  "description": "Flying Bull Internet, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "64.25.8.0/23",
+      "64.25.10.0/24"
+    ],
     "ipv6": []
   }
 }

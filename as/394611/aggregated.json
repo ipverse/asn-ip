@@ -4,6 +4,7 @@
   "description": "South Central Power Company",
   "subnets": {
     "ipv4": [
+      "66.251.240.0/20",
       "173.243.236.0/24"
     ],
     "ipv6": []

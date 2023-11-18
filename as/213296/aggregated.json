@@ -3,7 +3,11 @@
   "handle": "SINGULARITY-TELECOM-AU",
   "description": "SIA Singularity Telecom",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "89.23.126.0/24",
+      "194.50.169.0/24",
+      "195.5.105.0/24"
+    ],
     "ipv6": []
   }
 }

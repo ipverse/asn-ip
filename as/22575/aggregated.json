@@ -1,0 +1,11 @@
+{
+  "asn": 22575,
+  "handle": "MASSMUTUAL2",
+  "description": "MassMutual Financial Services",
+  "subnets": {
+    "ipv4": [
+      "170.6.0.0/24"
+    ],
+    "ipv6": []
+  }
+}

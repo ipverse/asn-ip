@@ -3,7 +3,9 @@
   "handle": "DARKNET-NL",
   "description": "DarkNet Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.84.90.0/24"
+    ],
     "ipv6": []
   }
 }

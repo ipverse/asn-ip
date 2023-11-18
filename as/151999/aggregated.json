@@ -1,0 +1,11 @@
+{
+  "asn": 151999,
+  "handle": "IDNIC-AMG-ID",
+  "description": "PT Aris Media Globalindo",
+  "subnets": {
+    "ipv4": [
+      "43.250.182.0/23"
+    ],
+    "ipv6": []
+  }
+}

@@ -4,7 +4,6 @@
   "description": "Trane Technologies Company LLC",
   "subnets": {
     "ipv4": [
-      "168.65.18.0/23",
       "168.65.224.0/20",
       "198.80.248.0/22",
       "206.44.224.0/20"

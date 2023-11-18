@@ -1,9 +1,11 @@
 {
   "asn": 394136,
-  "handle": "PIVOTAL",
+  "handle": "VMW-PIVOTAL",
   "description": "VMWare, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "66.170.106.0/24"
+    ],
     "ipv6": []
   }
 }

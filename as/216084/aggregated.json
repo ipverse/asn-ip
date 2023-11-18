@@ -1,0 +1,15 @@
+{
+  "asn": 216084,
+  "handle": "KEMMIT",
+  "description": "Noah Kemm trading as KemmIT",
+  "subnets": {
+    "ipv4": [
+      "84.32.64.0/24",
+      "88.216.220.0/24",
+      "88.216.223.0/24"
+    ],
+    "ipv6": [
+      "2a0e:97c0::/40"
+    ]
+  }
+}

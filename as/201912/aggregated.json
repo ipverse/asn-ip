@@ -1,0 +1,11 @@
+{
+  "asn": 201912,
+  "handle": "GLOSTRUPKOMMUNE",
+  "description": "Glostrup Kommune",
+  "subnets": {
+    "ipv4": [
+      "185.162.104.0/22"
+    ],
+    "ipv6": []
+  }
+}
