@@ -1,0 +1,11 @@
+{
+  "asn": 151833,
+  "handle": "DATA-COM-AP",
+  "description": "Sarb Management Group",
+  "subnets": {
+    "ipv4": [
+      "203.223.179.0/24"
+    ],
+    "ipv6": []
+  }
+}

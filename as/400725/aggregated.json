@@ -4,6 +4,7 @@
   "description": "Zephyr Monitors LLC",
   "subnets": {
     "ipv4": [
+      "23.26.134.0/24",
       "199.45.241.0/24"
     ],
     "ipv6": []

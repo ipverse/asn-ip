@@ -4,10 +4,8 @@
   "description": "ICTUS INFORMATICA LTDA",
   "subnets": {
     "ipv4": [
-      "186.237.64.0/19"
+      "186.237.94.0/23"
     ],
-    "ipv6": [
-      "2804:286c::/32"
-    ]
+    "ipv6": []
   }
 }

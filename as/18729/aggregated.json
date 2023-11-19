@@ -4,7 +4,8 @@
   "description": "Shawmut Design \u0026 Construction",
   "subnets": {
     "ipv4": [
-      "50.236.28.0/24"
+      "50.236.28.0/24",
+      "64.214.98.0/24"
     ],
     "ipv6": []
   }
