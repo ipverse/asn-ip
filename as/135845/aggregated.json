@@ -4,7 +4,8 @@
   "description": "Krishiinet Infocom Private Limited",
   "subnets": {
     "ipv4": [
-      "103.81.236.0/22"
+      "103.81.236.0/22",
+      "103.117.37.0/24"
     ],
     "ipv6": [
       "2406:a2c0::/32"

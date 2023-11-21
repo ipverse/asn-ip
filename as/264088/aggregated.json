@@ -3,7 +3,9 @@
   "handle": "MATRIX-INTERNET",
   "description": "Matrix Internet",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "143.208.4.0/22"
+    ],
     "ipv6": [
       "2804:2aa8::/32"
     ]

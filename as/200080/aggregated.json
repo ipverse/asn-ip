@@ -1,0 +1,11 @@
+{
+  "asn": 200080,
+  "handle": "TYPICAL",
+  "description": "TYPICALHOST, LLC",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a0a:6040:4d00::/40"
+    ]
+  }
+}
