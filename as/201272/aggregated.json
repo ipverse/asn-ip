@@ -4,7 +4,8 @@
   "description": "Al-Hadetha for software and Automation Ltd",
   "subnets": {
     "ipv4": [
-      "185.80.40.0/22"
+      "185.80.40.0/24",
+      "185.80.42.0/23"
     ],
     "ipv6": []
   }

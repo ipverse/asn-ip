@@ -1,0 +1,12 @@
+{
+  "asn": 329360,
+  "handle": "IINET-CONNECT-PTY-LTD",
+  "description": "iiNet Connect Pty Ltd",
+  "subnets": {
+    "ipv4": [
+      "154.70.251.0/24",
+      "197.234.26.0/24"
+    ],
+    "ipv6": []
+  }
+}

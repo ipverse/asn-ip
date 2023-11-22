@@ -1,0 +1,11 @@
+{
+  "asn": 132275,
+  "handle": "PADMABANKLTD-AP",
+  "description": "Padma Bank Ltd.",
+  "subnets": {
+    "ipv4": [
+      "203.175.108.0/23"
+    ],
+    "ipv6": []
+  }
+}

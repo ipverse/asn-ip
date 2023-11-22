@@ -4,6 +4,7 @@
   "description": "Zoox Labs, Inc.",
   "subnets": {
     "ipv4": [
+      "204.126.121.0/24",
       "208.99.52.0/24"
     ],
     "ipv6": [

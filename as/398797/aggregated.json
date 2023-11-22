@@ -3,9 +3,7 @@
   "handle": "NUBESEC",
   "description": "Nubesec LLC",
   "subnets": {
-    "ipv4": [
-      "199.255.149.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

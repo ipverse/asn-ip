@@ -1,0 +1,11 @@
+{
+  "asn": 216086,
+  "handle": "ARTNET",
+  "description": "ART-NET LLC",
+  "subnets": {
+    "ipv4": [
+      "45.133.107.0/24"
+    ],
+    "ipv6": []
+  }
+}

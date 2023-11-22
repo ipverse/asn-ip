@@ -4,6 +4,7 @@
   "description": "76 # Oil Street of LiaoHe Oilfield, PanJin, LiaoNing",
   "subnets": {
     "ipv4": [
+      "203.79.0.0/20",
       "203.100.96.0/19",
       "219.234.64.0/20"
     ],

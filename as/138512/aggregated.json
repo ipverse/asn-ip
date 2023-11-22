@@ -3,7 +3,9 @@
   "handle": "CLOUDSCALEPTYLTD-AP",
   "description": "CloudScale Pty Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.93.214.0/24"
+    ],
     "ipv6": []
   }
 }

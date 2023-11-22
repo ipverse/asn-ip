@@ -4,7 +4,7 @@
   "description": "SENER Ingenieria y Sistemas S.A.",
   "subnets": {
     "ipv4": [
-      "78.24.136.0/21",
+      "78.24.136.0/22",
       "193.148.2.0/23"
     ],
     "ipv6": [

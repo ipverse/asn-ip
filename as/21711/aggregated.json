@@ -1,0 +1,11 @@
+{
+  "asn": 21711,
+  "handle": "MAXTEL-USA-01",
+  "description": "Maxtel USA Corp",
+  "subnets": {
+    "ipv4": [
+      "209.14.251.0/24"
+    ],
+    "ipv6": []
+  }
+}
