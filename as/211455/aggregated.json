@@ -3,7 +3,9 @@
   "handle": "V42428",
   "description": "Viyskova Chastyna 2428",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "31.128.67.0/24"
+    ],
     "ipv6": []
   }
 }

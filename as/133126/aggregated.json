@@ -1,9 +1,11 @@
 {
   "asn": 133126,
-  "handle": "ERANET-AP",
-  "description": "ERANET INTERNATIONAL LIMITED",
+  "handle": "ETWVPL-AP",
+  "description": "Eureka Taxis Western Victoria Pty Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "180.94.0.0/24"
+    ],
     "ipv6": []
   }
 }

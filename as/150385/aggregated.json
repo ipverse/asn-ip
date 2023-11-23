@@ -4,8 +4,6 @@
   "description": "Haider Khandakar Network",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2400:baa0::/32"
-    ]
+    "ipv6": []
   }
 }
