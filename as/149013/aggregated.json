@@ -3,11 +3,7 @@
   "handle": "SOLVETHENETWORK-AP",
   "description": "Solve The Network",
   "subnets": {
-    "ipv4": [
-      "103.176.84.0/23",
-      "103.237.113.0/24",
-      "103.237.114.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

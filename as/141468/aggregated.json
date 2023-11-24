@@ -4,6 +4,7 @@
   "description": "Department of the Prime Minister and Cabinet",
   "subnets": {
     "ipv4": [
+      "156.16.0.0/16",
       "158.40.0.0/16"
     ],
     "ipv6": []

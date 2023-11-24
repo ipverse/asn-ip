@@ -4,8 +4,7 @@
   "description": "Free Technologies Excom S.L.",
   "subnets": {
     "ipv4": [
-      "45.84.48.0/22",
-      "185.153.16.0/22"
+      "185.153.16.0/24"
     ],
     "ipv6": []
   }

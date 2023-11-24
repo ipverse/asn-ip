@@ -3,7 +3,9 @@
   "handle": "HARIOMC-IN",
   "description": "Hariom Cable",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.189.86.0/23"
+    ],
     "ipv6": []
   }
 }

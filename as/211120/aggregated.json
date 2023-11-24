@@ -3,7 +3,9 @@
   "handle": "GROOTWEBHOST",
   "description": "GROOT WEB AND HOSTING SERVICES LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.3.44.0/24"
+    ],
     "ipv6": []
   }
 }

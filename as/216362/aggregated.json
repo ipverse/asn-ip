@@ -3,10 +3,7 @@
   "handle": "CLAST",
   "description": "Ham Jun Hyeong",
   "subnets": {
-    "ipv4": [
-      "89.213.147.0/24",
-      "89.213.181.0/24"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2a0c:9a40:8cd0::/48"
     ]

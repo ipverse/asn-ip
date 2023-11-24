@@ -3,7 +3,9 @@
   "handle": "IT-PHOENIXWEB",
   "description": "PhoenixWeb S.r.l.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.30.111.0/24"
+    ],
     "ipv6": []
   }
 }

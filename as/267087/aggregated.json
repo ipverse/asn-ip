@@ -3,7 +3,11 @@
   "handle": "RENATO-MEIRELES-PEREIRA",
   "description": "RENATO MEIRELES PEREIRA - ME",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.228.158.0/23"
+    ],
+    "ipv6": [
+      "2804:47f0::/32"
+    ]
   }
 }
