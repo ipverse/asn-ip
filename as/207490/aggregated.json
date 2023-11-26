@@ -3,10 +3,7 @@
   "handle": "ISP-GBL",
   "description": "Individual Proprietor Boris L. Grigoryan",
   "subnets": {
-    "ipv4": [
-      "80.72.16.0/23",
-      "80.72.26.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

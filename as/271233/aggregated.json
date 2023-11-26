@@ -1,13 +1,11 @@
 {
   "asn": 271233,
-  "handle": "VGR-SOUZA-TELECOME",
-  "description": "v.g.r de souza telecom.e aluguel de equip.",
+  "handle": "SUPER-TELECOM",
+  "description": "SUPER TELECOM LTDA",
   "subnets": {
     "ipv4": [
       "190.109.104.0/22"
     ],
-    "ipv6": [
-      "2804:784c:8000::/33"
-    ]
+    "ipv6": []
   }
 }

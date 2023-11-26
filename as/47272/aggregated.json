@@ -3,7 +3,9 @@
   "handle": "HYEHOST-LTD",
   "description": "HYEHOST LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "23.160.200.0/24"
+    ],
     "ipv6": [
       "2a05:dfc1:9200::/40",
       "2a06:9f81:1000::/40",
