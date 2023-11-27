@@ -3,7 +3,9 @@
   "handle": "UKK",
   "description": "URAL CONSULTING COMPANY LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "94.24.128.0/24"
+    ],
     "ipv6": []
   }
 }

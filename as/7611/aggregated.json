@@ -3,7 +3,10 @@
   "handle": "WNETWORK-AP",
   "description": "W Network Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "203.114.64.0/23",
+      "203.114.67.0/24"
+    ],
     "ipv6": []
   }
 }
