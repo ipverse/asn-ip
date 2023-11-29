@@ -3,9 +3,7 @@
   "handle": "IMEDIATA-TELECOMUNICAES",
   "description": "Imediata Telecomunicaes",
   "subnets": {
-    "ipv4": [
-      "201.216.88.0/22"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2804:6dfc::/32"
     ]

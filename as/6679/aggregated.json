@@ -1,11 +1,9 @@
 {
   "asn": 6679,
   "handle": "LAB",
-  "description": "Rocklab LLC",
+  "description": "IT PARK JSC",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2a07:f600:4033::/48"
-    ]
+    "ipv6": []
   }
 }

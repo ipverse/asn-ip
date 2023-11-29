@@ -4,7 +4,8 @@
   "description": "ISOUL SOLUCOES CORPORATIVAS E TELECOMUNICACOES LTD",
   "subnets": {
     "ipv4": [
-      "45.176.160.0/22"
+      "45.176.160.0/23",
+      "45.176.162.0/24"
     ],
     "ipv6": [
       "2804:5df0::/32"

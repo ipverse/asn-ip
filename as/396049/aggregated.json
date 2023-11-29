@@ -4,6 +4,7 @@
   "description": "Ednetics, Inc.",
   "subnets": {
     "ipv4": [
+      "162.218.181.0/24",
       "199.193.139.0/24"
     ],
     "ipv6": []

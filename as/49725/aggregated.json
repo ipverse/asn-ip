@@ -3,9 +3,7 @@
   "handle": "NAKOM",
   "description": "Telemach Slovenija d.o.o.",
   "subnets": {
-    "ipv4": [
-      "95.143.144.0/20"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

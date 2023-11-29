@@ -1,0 +1,11 @@
+{
+  "asn": 149247,
+  "handle": "AIRLINKIS-IN",
+  "description": "Airlink Internet Services",
+  "subnets": {
+    "ipv4": [
+      "103.179.22.0/24"
+    ],
+    "ipv6": []
+  }
+}

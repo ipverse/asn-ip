@@ -1,0 +1,13 @@
+{
+  "asn": 151823,
+  "handle": "CT-CENTRALSOUTH-CHINA-IIP",
+  "description": "China Telecom",
+  "subnets": {
+    "ipv4": [
+      "175.12.64.0/22"
+    ],
+    "ipv6": [
+      "240e:106:aa00::/39"
+    ]
+  }
+}

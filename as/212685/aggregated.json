@@ -4,11 +4,6 @@
   "description": "Einzelunternehmen Julien Michell Herwig",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2a05:dfc7:b400::/38",
-      "2a05:dfc7:b800::/39",
-      "2a05:dfc7:c200::/39",
-      "2a06:1287:7800::/39"
-    ]
+    "ipv6": []
   }
 }
