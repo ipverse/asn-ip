@@ -4,8 +4,9 @@
   "description": "Al-Jazeera Al-Arabiya Company for Communication and Internet LTD",
   "subnets": {
     "ipv4": [
+      "5.62.128.0/23",
       "37.77.51.0/24",
-      "185.69.5.0/24",
+      "185.69.4.0/23",
       "185.69.6.0/24"
     ],
     "ipv6": []

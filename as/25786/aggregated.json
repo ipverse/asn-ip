@@ -1,5 +1,7 @@
 {
   "asn": 25786,
+  "handle": "NE-WEST-11",
+  "description": "Newegg.com",
   "subnets": {
     "ipv4": [
       "63.224.162.0/23",

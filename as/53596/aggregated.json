@@ -1,7 +1,7 @@
 {
   "asn": 53596,
-  "handle": "DIRECT-EDGE",
-  "description": "Direct Edge",
+  "handle": "CBOE",
+  "description": "Cboe",
   "subnets": {
     "ipv4": [
       "170.137.200.0/23",

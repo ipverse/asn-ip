@@ -3,7 +3,9 @@
   "handle": "SPEEDWY-IN",
   "description": "Speedway Broadband Opc Pvt. Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.167.52.0/23"
+    ],
     "ipv6": []
   }
 }
