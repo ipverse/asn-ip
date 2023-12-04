@@ -4,7 +4,7 @@
   "description": "Netinternet Bilisim Teknolojileri AS",
   "subnets": {
     "ipv4": [
-      "185.172.48.0/23"
+      "185.172.48.0/24"
     ],
     "ipv6": []
   }
