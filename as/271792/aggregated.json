@@ -3,7 +3,9 @@
   "handle": "ONRED-SOLUCIONES-CONECTIVIDAD",
   "description": "ONRED SOLUCIONES DE CONECTIVIDAD S.A.S.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "190.171.76.0/22"
+    ],
     "ipv6": []
   }
 }

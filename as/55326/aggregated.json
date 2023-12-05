@@ -3,7 +3,9 @@
   "handle": "AFG-AP",
   "description": "Australian Finance Group Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "202.4.166.0/24"
+    ],
     "ipv6": []
   }
 }

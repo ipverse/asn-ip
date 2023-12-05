@@ -1,0 +1,11 @@
+{
+  "asn": 152180,
+  "handle": "NETNAME-1CLIMITED-AP",
+  "description": "1C Limited",
+  "subnets": {
+    "ipv4": [
+      "210.79.184.0/24"
+    ],
+    "ipv6": []
+  }
+}

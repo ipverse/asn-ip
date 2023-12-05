@@ -3,7 +3,9 @@
   "handle": "MISAKAF-NET",
   "description": "MisakaF Network Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.246.164.0/24"
+    ],
     "ipv6": []
   }
 }

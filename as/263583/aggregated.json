@@ -4,8 +4,7 @@
   "description": "ATRANET TELECOMUNICACOES LTDA",
   "subnets": {
     "ipv4": [
-      "177.155.80.0/22",
-      "190.8.30.0/24"
+      "177.155.80.0/22"
     ],
     "ipv6": [
       "2804:f64::/32"

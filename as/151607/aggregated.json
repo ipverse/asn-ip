@@ -1,0 +1,11 @@
+{
+  "asn": 151607,
+  "handle": "CIAL-AP",
+  "description": "Christchurch International Airport Ltd",
+  "subnets": {
+    "ipv4": [
+      "202.14.168.0/24"
+    ],
+    "ipv6": []
+  }
+}

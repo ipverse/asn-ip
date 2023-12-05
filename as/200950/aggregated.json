@@ -3,7 +3,9 @@
   "handle": "TOM-FUNKEN",
   "description": "Tom Funken",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.155.77.0/24"
+    ],
     "ipv6": [
       "2a10:cc45:121::/48",
       "2a10:cc45:122::/48"
