@@ -3,7 +3,9 @@
   "handle": "INTERRET-VILLA-ANGELA",
   "description": "Interret Villa Angela SRL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "164.163.40.0/22"
+    ],
     "ipv6": []
   }
 }

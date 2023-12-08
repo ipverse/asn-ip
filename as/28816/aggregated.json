@@ -1,9 +1,11 @@
 {
   "asn": 28816,
-  "handle": "ABEL",
-  "description": "CLOUDCOCO HOLDINGS LIMITED",
+  "handle": "CHESS-ICT-MAN",
+  "description": "Chess ICT Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.85.40.0/22"
+    ],
     "ipv6": []
   }
 }

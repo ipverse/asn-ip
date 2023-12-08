@@ -3,7 +3,9 @@
   "handle": "SYSTEM-COMPUTADORES",
   "description": "System Computadores LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.183.120.0/22"
+    ],
     "ipv6": [
       "2804:8d68::/32"
     ]

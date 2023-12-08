@@ -1,0 +1,13 @@
+{
+  "asn": 216329,
+  "handle": "CENTAURUS-AGENA3000",
+  "description": "Centaurus Developpement SAS",
+  "subnets": {
+    "ipv4": [
+      "86.104.181.0/24"
+    ],
+    "ipv6": [
+      "2a13:d740::/29"
+    ]
+  }
+}

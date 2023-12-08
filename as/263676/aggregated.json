@@ -4,7 +4,8 @@
   "description": "NetMG Informtica Ltda.",
   "subnets": {
     "ipv4": [
-      "191.241.176.0/21"
+      "191.241.176.0/21",
+      "201.159.183.0/24"
     ],
     "ipv6": []
   }

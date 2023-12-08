@@ -4,8 +4,6 @@
   "description": "VeriSign Infrastructure \u0026 Operations",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2001:500:135::/48"
-    ]
+    "ipv6": []
   }
 }

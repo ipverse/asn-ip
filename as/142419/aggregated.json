@@ -3,9 +3,7 @@
   "handle": "SNDCCOM-AP",
   "description": "Sndc Communication",
   "subnets": {
-    "ipv4": [
-      "103.170.21.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

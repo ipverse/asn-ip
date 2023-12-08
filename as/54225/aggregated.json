@@ -4,8 +4,6 @@
   "description": "ORANGE COUNTY FIBER LLC",
   "subnets": {
     "ipv4": [
-      "64.184.92.0/24",
-      "208.103.14.0/24",
       "216.21.216.0/21"
     ],
     "ipv6": [

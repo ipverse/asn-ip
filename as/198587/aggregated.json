@@ -1,11 +1,9 @@
 {
   "asn": 198587,
-  "handle": "ELYTRIUM-HR-NET",
+  "handle": "ELYTRIUM-HR",
   "description": "PETR ILIN",
   "subnets": {
-    "ipv4": [
-      "87.251.74.0/24"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2a0c:b641:a20::/44"
     ]

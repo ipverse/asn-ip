@@ -4,6 +4,7 @@
   "description": "5centsCDN",
   "subnets": {
     "ipv4": [
+      "23.167.104.0/24",
       "45.54.25.0/24"
     ],
     "ipv6": [
