@@ -3,7 +3,9 @@
   "handle": "RZH",
   "description": "Kostyantyn Rzhepishevskyy",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "217.147.169.0/24"
+    ],
     "ipv6": []
   }
 }

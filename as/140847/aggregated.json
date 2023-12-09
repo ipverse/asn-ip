@@ -3,7 +3,9 @@
   "handle": "UPDATE1-AP",
   "description": "Update Technology",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.152.107.0/24"
+    ],
     "ipv6": []
   }
 }

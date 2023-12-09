@@ -1,0 +1,11 @@
+{
+  "asn": 151650,
+  "handle": "SWITCHFIBER-AP",
+  "description": "Switch Fiber",
+  "subnets": {
+    "ipv4": [
+      "103.249.198.0/23"
+    ],
+    "ipv6": []
+  }
+}

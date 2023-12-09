@@ -3,7 +3,12 @@
   "handle": "EKIPHOST",
   "description": "Kerim Talha Tosun",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.254.239.0/24",
+      "193.17.6.0/24",
+      "193.111.78.0/24",
+      "194.62.54.0/24"
+    ],
     "ipv6": []
   }
 }

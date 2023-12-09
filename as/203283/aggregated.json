@@ -3,14 +3,10 @@
   "handle": "HIGHENDNETWORK",
   "description": "HighEndNetwork LLC",
   "subnets": {
-    "ipv4": [
-      "207.174.5.0/24"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2602:2db:114::/46",
-      "2602:2db:118::/45",
-      "2602:2db:120::/44",
-      "2a0a:6040:8b20::/44"
+      "2602:2db:118::/45"
     ]
   }
 }

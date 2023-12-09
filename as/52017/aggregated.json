@@ -1,9 +1,11 @@
 {
   "asn": 52017,
-  "handle": "RESERVED",
-  "description": "RIPE NCC ASN block",
+  "handle": "UFONET",
+  "description": "Roman Hapii",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.44.203.0/24"
+    ],
     "ipv6": []
   }
 }

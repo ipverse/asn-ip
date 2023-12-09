@@ -3,9 +3,7 @@
   "handle": "NHBB-ASN-01",
   "description": "NH Broadband, LLC",
   "subnets": {
-    "ipv4": [
-      "38.51.144.0/22"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }
