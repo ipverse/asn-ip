@@ -4,7 +4,6 @@
   "description": "Cognito Limited",
   "subnets": {
     "ipv4": [
-      "188.95.195.0/24",
       "188.95.196.0/23"
     ],
     "ipv6": []

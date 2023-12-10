@@ -1,0 +1,11 @@
+{
+  "asn": 151591,
+  "handle": "IDNIC-CAKRANET-ID",
+  "description": "PT Cakra Techno Gemilang",
+  "subnets": {
+    "ipv4": [
+      "103.250.12.0/23"
+    ],
+    "ipv6": []
+  }
+}

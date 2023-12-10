@@ -4,6 +4,8 @@
   "description": "Alec Hoefler",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a0d:2682:a000::/36"
+    ]
   }
 }
