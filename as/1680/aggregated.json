@@ -4,7 +4,6 @@
   "description": "Cellcom Fixed Line Communication L.P",
   "subnets": {
     "ipv4": [
-      "46.60.46.0/24",
       "46.116.0.0/15",
       "46.210.0.0/16",
       "62.0.0.0/16",

@@ -1,0 +1,11 @@
+{
+  "asn": 216048,
+  "handle": "NL-EXONET",
+  "description": "Exonet B.V.",
+  "subnets": {
+    "ipv4": [
+      "45.146.208.0/22"
+    ],
+    "ipv6": []
+  }
+}

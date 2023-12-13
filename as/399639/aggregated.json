@@ -1,0 +1,14 @@
+{
+  "asn": 399639,
+  "handle": "LAKELAND-COMMUNICATIONS",
+  "description": "Lakeland Communications",
+  "subnets": {
+    "ipv4": [
+      "45.41.220.0/22"
+    ],
+    "ipv6": [
+      "2603:b050::/32",
+      "2606:56c0::/32"
+    ]
+  }
+}

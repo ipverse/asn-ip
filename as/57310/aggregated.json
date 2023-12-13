@@ -4,6 +4,7 @@
   "description": "ISONYS SAS",
   "subnets": {
     "ipv4": [
+      "149.36.162.0/24",
       "185.253.57.0/24"
     ],
     "ipv6": []

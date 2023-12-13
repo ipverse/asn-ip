@@ -1,0 +1,11 @@
+{
+  "asn": 152139,
+  "handle": "RRCOMMUNICATION-AP",
+  "description": "RR Communication",
+  "subnets": {
+    "ipv4": [
+      "210.87.70.0/23"
+    ],
+    "ipv6": []
+  }
+}

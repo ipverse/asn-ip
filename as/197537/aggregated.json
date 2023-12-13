@@ -4,7 +4,9 @@
   "description": "WISDOM CLOUD INTERNET TECHNOLOGY PTE. LTD.",
   "subnets": {
     "ipv4": [
-      "149.40.64.0/19"
+      "149.40.64.0/19",
+      "149.88.160.0/19",
+      "149.88.192.0/19"
     ],
     "ipv6": []
   }

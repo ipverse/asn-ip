@@ -1,0 +1,11 @@
+{
+  "asn": 147015,
+  "handle": "CLICKHOSTPTYLTD-AP",
+  "description": "Click Host",
+  "subnets": {
+    "ipv4": [
+      "103.173.0.0/23"
+    ],
+    "ipv6": []
+  }
+}

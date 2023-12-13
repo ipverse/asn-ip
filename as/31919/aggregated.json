@@ -4,7 +4,8 @@
   "description": "Blue Ridge Mountain Electric Membership Corporation - BRM EMC",
   "subnets": {
     "ipv4": [
-      "38.81.80.0/20"
+      "38.81.80.0/20",
+      "204.10.56.0/22"
     ],
     "ipv6": []
   }

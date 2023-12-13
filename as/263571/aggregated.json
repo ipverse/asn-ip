@@ -4,8 +4,11 @@
   "description": "CONECTE TELECOMUNICAES LTDA.",
   "subnets": {
     "ipv4": [
-      "177.55.88.0/21"
+      "177.55.88.0/22",
+      "177.55.94.0/23"
     ],
-    "ipv6": []
+    "ipv6": [
+      "2804:f38::/32"
+    ]
   }
 }

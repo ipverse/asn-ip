@@ -4,7 +4,6 @@
   "description": "Taiwan Network Information Center",
   "subnets": {
     "ipv4": [
-      "101.101.101.0/24",
       "182.173.1.0/24"
     ],
     "ipv6": [

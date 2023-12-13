@@ -3,7 +3,9 @@
   "handle": "PUDUTEST",
   "description": "Pudu, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "44.31.59.0/24"
+    ],
     "ipv6": []
   }
 }

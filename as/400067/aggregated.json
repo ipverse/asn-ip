@@ -3,7 +3,9 @@
   "handle": "BNP-01",
   "description": "BNP Media, INC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "205.236.54.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -1,0 +1,11 @@
+{
+  "asn": 33431,
+  "handle": "MLS-NET-01",
+  "description": "Major League Soccer",
+  "subnets": {
+    "ipv4": [
+      "12.179.65.0/24"
+    ],
+    "ipv6": []
+  }
+}
