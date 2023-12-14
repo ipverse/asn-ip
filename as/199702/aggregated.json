@@ -1,0 +1,12 @@
+{
+  "asn": 199702,
+  "handle": "VIMTV",
+  "description": "VIM TV LTD",
+  "subnets": {
+    "ipv4": [
+      "91.92.62.0/23",
+      "213.149.157.0/24"
+    ],
+    "ipv6": []
+  }
+}

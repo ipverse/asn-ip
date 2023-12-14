@@ -4,6 +4,8 @@
   "description": "COGENTO BACKBONE LIMITED",
   "subnets": {
     "ipv4": [
+      "103.71.63.0/24",
+      "103.81.231.0/24",
       "115.42.46.0/24"
     ],
     "ipv6": []

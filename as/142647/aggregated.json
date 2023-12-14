@@ -4,6 +4,7 @@
   "description": "Nasstec Airnet Networks Private Limited",
   "subnets": {
     "ipv4": [
+      "42.201.164.0/24",
       "103.66.148.0/23",
       "103.149.33.0/24",
       "103.186.77.0/24"

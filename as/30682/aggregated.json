@@ -3,9 +3,7 @@
   "handle": "PEARSON-ECOLLEGE",
   "description": "NCS Pearson Inc.",
   "subnets": {
-    "ipv4": [
-      "159.182.27.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

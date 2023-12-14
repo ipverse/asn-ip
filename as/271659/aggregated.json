@@ -3,9 +3,7 @@
   "handle": "AXT-TELECOMUNICACOES-EIRELI",
   "description": "AXT TELECOMUNICACOES EIRELI",
   "subnets": {
-    "ipv4": [
-      "200.176.3.0/24"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2804:7efc::/37",
       "2804:7efc:800::/38",

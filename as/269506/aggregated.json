@@ -4,6 +4,7 @@
   "description": "LOGNET SERVICOS TELECOMUNICACOES LTDA",
   "subnets": {
     "ipv4": [
+      "45.170.176.0/23",
       "45.187.224.0/22"
     ],
     "ipv6": [

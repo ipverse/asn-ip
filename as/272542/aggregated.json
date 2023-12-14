@@ -4,7 +4,8 @@
   "description": "LEANDRO A DE OLIVEIRA SILVA INTERNET EIRELI",
   "subnets": {
     "ipv4": [
-      "181.232.220.0/22"
+      "181.232.220.0/23",
+      "181.232.222.0/24"
     ],
     "ipv6": [
       "2804:84d0::/32"

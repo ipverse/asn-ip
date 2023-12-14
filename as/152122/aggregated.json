@@ -1,0 +1,11 @@
+{
+  "asn": 152122,
+  "handle": "BORENDROONLINE-AP",
+  "description": "Borendro Online",
+  "subnets": {
+    "ipv4": [
+      "36.50.22.0/24"
+    ],
+    "ipv6": []
+  }
+}

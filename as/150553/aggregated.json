@@ -3,7 +3,9 @@
   "handle": "IDNIC-SITEOONET-ID",
   "description": "PT Nusa Jaya Prasetyo",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.81.254.0/24"
+    ],
     "ipv6": []
   }
 }

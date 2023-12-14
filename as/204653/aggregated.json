@@ -3,10 +3,7 @@
   "handle": "HOTELBEDS",
   "description": "HOTELBEDS TECHNOLOGY SLU",
   "subnets": {
-    "ipv4": [
-      "185.123.120.0/23",
-      "212.66.164.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

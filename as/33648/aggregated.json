@@ -1,0 +1,11 @@
+{
+  "asn": 33648,
+  "handle": "INTERNET-LLC",
+  "description": "Patriot Broadband",
+  "subnets": {
+    "ipv4": [
+      "23.162.88.0/24"
+    ],
+    "ipv6": []
+  }
+}

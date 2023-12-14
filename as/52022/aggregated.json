@@ -3,7 +3,10 @@
   "handle": "KLIMENKO-AA",
   "description": "Klimenko Anna Aleksandrovna",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.220.220.0/24",
+      "91.236.30.0/23"
+    ],
     "ipv6": []
   }
 }

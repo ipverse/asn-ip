@@ -4,6 +4,8 @@
   "description": "Zhile Gong",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a07:54c7:3010::/48"
+    ]
   }
 }

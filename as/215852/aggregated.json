@@ -1,0 +1,13 @@
+{
+  "asn": 215852,
+  "handle": "SHIGIR",
+  "description": "Shigir GmbH",
+  "subnets": {
+    "ipv4": [
+      "91.203.31.0/24"
+    ],
+    "ipv6": [
+      "2001:67c:10bc::/48"
+    ]
+  }
+}
