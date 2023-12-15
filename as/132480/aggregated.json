@@ -4,8 +4,7 @@
   "description": "Netze Telecom (Private) Limited",
   "subnets": {
     "ipv4": [
-      "103.104.212.0/22",
-      "103.179.240.0/24"
+      "103.104.212.0/22"
     ],
     "ipv6": []
   }

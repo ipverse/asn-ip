@@ -1,0 +1,11 @@
+{
+  "asn": 152170,
+  "handle": "SAJIBWEBHOST-AP",
+  "description": "Sajib Web Host",
+  "subnets": {
+    "ipv4": [
+      "36.50.102.0/23"
+    ],
+    "ipv6": []
+  }
+}

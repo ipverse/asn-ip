@@ -1,9 +1,13 @@
 {
   "asn": 210546,
-  "handle": "PLK",
+  "handle": "WAF",
   "description": "Miglovets Egor Andreevich",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "185.149.146.0/24"
+    ],
+    "ipv6": [
+      "2a0f:cdc6:600::/44"
+    ]
   }
 }

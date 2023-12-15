@@ -4,8 +4,7 @@
   "description": "E.C.E BANDA LARGA TELECOMUNICAES LTDA - ME",
   "subnets": {
     "ipv4": [
-      "190.109.96.0/24",
-      "190.109.98.0/23"
+      "190.109.96.0/22"
     ],
     "ipv6": []
   }

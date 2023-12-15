@@ -3,7 +3,11 @@
   "handle": "XIS-1-INTERNET-FIBRA-EIRELI",
   "description": "XIS 1 INTERNET FIBRA EIRELI",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.189.104.0/22"
+    ],
+    "ipv6": [
+      "2804:66ac::/32"
+    ]
   }
 }

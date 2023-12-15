@@ -1,0 +1,13 @@
+{
+  "asn": 216269,
+  "handle": "ARD-COM",
+  "description": "SARL ARD-COM",
+  "subnets": {
+    "ipv4": [
+      "149.13.161.0/24"
+    ],
+    "ipv6": [
+      "2a13:eac0::/29"
+    ]
+  }
+}

@@ -3,7 +3,9 @@
   "handle": "POH-NETWORK",
   "description": "Association PowerOfHosting",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.15.177.0/24"
+    ],
     "ipv6": []
   }
 }

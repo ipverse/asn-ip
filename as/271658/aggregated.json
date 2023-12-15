@@ -3,7 +3,9 @@
   "handle": "ALPHANET-SOLUES-EM-INTERNET",
   "description": "Alphanet Solues em Internet",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "131.255.131.0/24"
+    ],
     "ipv6": [
       "2804:7ef8::/32"
     ]

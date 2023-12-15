@@ -1,9 +1,11 @@
 {
   "asn": 26886,
-  "handle": "HMONNET01",
-  "description": "HMon Networks",
+  "handle": "CLOUDOWNER-01",
+  "description": "cloudowner llc",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2607:82c0::/48"
+    ]
   }
 }

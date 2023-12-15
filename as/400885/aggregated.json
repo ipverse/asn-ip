@@ -1,0 +1,11 @@
+{
+  "asn": 400885,
+  "handle": "OPTNET",
+  "description": "Optimus Communications",
+  "subnets": {
+    "ipv4": [
+      "69.85.90.0/24"
+    ],
+    "ipv6": []
+  }
+}
