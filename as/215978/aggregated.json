@@ -3,12 +3,10 @@
   "handle": "APRICOT",
   "description": "Gositha Ranadewa",
   "subnets": {
-    "ipv4": [
-      "85.114.121.0/24"
-    ],
+    "ipv4": [],
     "ipv6": [
-      "2a13:ef44:e001::/48",
-      "2a13:ef46:b00b::/48"
+      "2a13:df87:b400::/38",
+      "2a13:ef44:e001::/48"
     ]
   }
 }

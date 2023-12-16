@@ -3,7 +3,9 @@
   "handle": "WLCIPL-IN",
   "description": "Wireline Communication India Private Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.115.236.0/24"
+    ],
     "ipv6": []
   }
 }

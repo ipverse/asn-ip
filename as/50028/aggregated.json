@@ -3,7 +3,11 @@
   "handle": "REDGIANT",
   "description": "EDGOO NETWORKS LLC",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "188.93.197.0/24"
+    ],
+    "ipv6": [
+      "2a0f:d300::/48"
+    ]
   }
 }

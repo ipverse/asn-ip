@@ -4,6 +4,7 @@
   "description": "Rabik Bangun Nusantara, PT",
   "subnets": {
     "ipv4": [
+      "103.61.226.0/24",
       "113.59.232.0/22"
     ],
     "ipv6": [

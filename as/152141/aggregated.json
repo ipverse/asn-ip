@@ -1,0 +1,11 @@
+{
+  "asn": 152141,
+  "handle": "RWIS-AP",
+  "description": "R-NET Wired Internet Services",
+  "subnets": {
+    "ipv4": [
+      "210.79.178.0/23"
+    ],
+    "ipv6": []
+  }
+}

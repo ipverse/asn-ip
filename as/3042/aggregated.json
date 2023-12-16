@@ -1,0 +1,12 @@
+{
+  "asn": 3042,
+  "handle": "LACHMAN",
+  "description": "Lachman Technology, Inc.",
+  "subnets": {
+    "ipv4": [
+      "192.35.52.0/23",
+      "192.35.54.0/24"
+    ],
+    "ipv6": []
+  }
+}

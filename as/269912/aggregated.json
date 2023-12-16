@@ -4,7 +4,8 @@
   "description": "FIBERNET ARGENTINA S.R.L.",
   "subnets": {
     "ipv4": [
-      "187.62.110.0/24"
+      "45.190.15.0/24",
+      "187.62.110.0/23"
     ],
     "ipv6": []
   }

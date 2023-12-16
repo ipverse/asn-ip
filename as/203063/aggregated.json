@@ -4,7 +4,8 @@
   "description": "INTESA SANPAOLO BANK ALBANIA PJSC",
   "subnets": {
     "ipv4": [
-      "185.145.0.0/22"
+      "185.145.0.0/23",
+      "185.145.2.0/24"
     ],
     "ipv6": []
   }
