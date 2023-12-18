@@ -3,7 +3,9 @@
   "handle": "JARA-PEDRO-JAVIER",
   "description": "JARA PEDRO JAVIER(ULTRAWIFI)",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "181.191.140.0/23"
+    ],
     "ipv6": []
   }
 }

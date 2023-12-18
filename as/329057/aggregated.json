@@ -3,7 +3,9 @@
   "handle": "SMART-CITY-TECH",
   "description": "Smart City Technology Company Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "102.216.8.0/23"
+    ],
     "ipv6": []
   }
 }
