@@ -4,7 +4,7 @@
   "description": "Unio Internet",
   "subnets": {
     "ipv4": [
-      "45.182.120.0/22"
+      "45.182.120.0/24"
     ],
     "ipv6": []
   }

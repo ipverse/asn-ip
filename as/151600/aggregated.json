@@ -1,0 +1,11 @@
+{
+  "asn": 151600,
+  "handle": "IDNIC-INDANA-ID",
+  "description": "PT Inti Data Guna",
+  "subnets": {
+    "ipv4": [
+      "103.203.232.0/23"
+    ],
+    "ipv6": []
+  }
+}

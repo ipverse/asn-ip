@@ -3,7 +3,9 @@
   "handle": "PEDRAZA-LUIS-EDUARDO",
   "description": "Pedraza Luis Eduardo (DANEZ)",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "138.36.148.0/22"
+    ],
     "ipv6": []
   }
 }

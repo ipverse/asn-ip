@@ -3,7 +3,9 @@
   "handle": "IDNIC-GEKANET-ID",
   "description": "PT Geka Solusi Utama",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.76.106.0/24"
+    ],
     "ipv6": []
   }
 }

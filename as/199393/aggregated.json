@@ -4,6 +4,7 @@
   "description": "MakeAPP Cloud Ltd",
   "subnets": {
     "ipv4": [
+      "141.226.241.0/24",
       "141.226.242.0/24"
     ],
     "ipv6": []

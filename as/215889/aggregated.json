@@ -1,0 +1,12 @@
+{
+  "asn": 215889,
+  "handle": "OMEGACLOUD-SOLUTIONS",
+  "description": "Omegacloud Solutions Ltd",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a09:a740::/32",
+      "2a11:a580::/32"
+    ]
+  }
+}
