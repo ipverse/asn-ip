@@ -1,0 +1,13 @@
+{
+  "asn": 273602,
+  "handle": "NETWE-TELECOMUNICAES",
+  "description": "Netwe telecomunicaes",
+  "subnets": {
+    "ipv4": [
+      "179.61.243.0/24"
+    ],
+    "ipv6": [
+      "2804:8968::/32"
+    ]
+  }
+}

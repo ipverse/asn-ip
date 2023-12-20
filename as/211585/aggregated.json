@@ -3,7 +3,9 @@
   "handle": "CANOPUSSOFT",
   "description": "Canopus It Solutions Pvt Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "64.64.113.0/24"
+    ],
     "ipv6": []
   }
 }

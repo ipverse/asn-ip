@@ -3,7 +3,9 @@
   "handle": "CZJ-AP",
   "description": "Beijing Chuangzhijie Tech. Co. Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.230.128.0/23"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "TEKNOSOS",
   "description": "TEKNOSOS BILISIM HIZMETLERI VE TIC. LTD. STI.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.124.95.0/24"
+    ],
     "ipv6": []
   }
 }
