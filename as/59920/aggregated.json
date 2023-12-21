@@ -1,0 +1,11 @@
+{
+  "asn": 59920,
+  "handle": "LUSORY",
+  "description": "Lusory Limited",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a07:54c1:5000::/36"
+    ]
+  }
+}

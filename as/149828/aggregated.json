@@ -3,7 +3,11 @@
   "handle": "PASSAPP-AP",
   "description": "PASSAPP TECHNOLOGIES CO., LTD.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "103.185.230.0/24"
+    ],
+    "ipv6": [
+      "2001:df0:9dc0::/48"
+    ]
   }
 }

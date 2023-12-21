@@ -1,9 +1,11 @@
 {
   "asn": 49565,
-  "handle": "RESERVED",
-  "description": "RIPE NCC ASN block",
+  "handle": "POLEAS",
+  "description": "Pole Telekomunikasyon Sanayi ve Ticaret Anonim Sirketi",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "31.210.39.0/24"
+    ],
     "ipv6": []
   }
 }

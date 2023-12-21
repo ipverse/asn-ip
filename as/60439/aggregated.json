@@ -1,0 +1,12 @@
+{
+  "asn": 60439,
+  "handle": "SERVERNET",
+  "description": "BLAZE NET INTERNET LTD",
+  "subnets": {
+    "ipv4": [
+      "85.208.196.0/24",
+      "85.208.199.0/24"
+    ],
+    "ipv6": []
+  }
+}

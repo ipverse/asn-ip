@@ -4,6 +4,8 @@
   "description": "Henan Angran Cloud Computing Technology Co. Ltd",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2001:df3:15c0::/48"
+    ]
   }
 }

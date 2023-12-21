@@ -3,11 +3,11 @@
   "handle": "XCONXPTYLTD-AP",
   "description": "XconX Pty Ltd",
   "subnets": {
-    "ipv4": [
-      "116.199.200.0/23"
-    ],
+    "ipv4": [],
     "ipv6": [
-      "2401:4d20::/32"
+      "2001:df0:c6c0::/48",
+      "2401:4d20::/32",
+      "2405:1cc0::/32"
     ]
   }
 }

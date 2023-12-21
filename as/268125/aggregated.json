@@ -4,10 +4,10 @@
   "description": "Jequie Telecom Servicos Ltda.",
   "subnets": {
     "ipv4": [
-      "45.169.219.0/24"
+      "45.169.216.0/22"
     ],
     "ipv6": [
-      "2804:5860:a000::/35"
+      "2804:5860::/32"
     ]
   }
 }

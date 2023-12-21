@@ -1,9 +1,11 @@
 {
   "asn": 44626,
-  "handle": "RESERVED",
-  "description": "RIPE NCC ASN block",
+  "handle": "BCA-HOME-INTERNET-NETWORK",
+  "description": "LTD BCA HOME INTERNET",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "5.8.59.0/24"
+    ],
     "ipv6": []
   }
 }

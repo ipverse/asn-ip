@@ -1,0 +1,12 @@
+{
+  "asn": 44382,
+  "handle": "FIBA",
+  "description": "Fiba Cloud Operation Company, LLC",
+  "subnets": {
+    "ipv4": [
+      "216.9.225.0/24",
+      "216.9.226.0/24"
+    ],
+    "ipv6": []
+  }
+}

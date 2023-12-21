@@ -4,7 +4,8 @@
   "description": "SIAFLEX Bilisim Anonim Sirketi",
   "subnets": {
     "ipv4": [
-      "46.28.235.0/24"
+      "46.28.235.0/24",
+      "185.123.103.0/24"
     ],
     "ipv6": []
   }
