@@ -4,7 +4,8 @@
   "description": "Wellington Paiva Damascena - ME",
   "subnets": {
     "ipv4": [
-      "170.80.60.0/24"
+      "170.80.60.0/24",
+      "170.80.62.0/24"
     ],
     "ipv6": [
       "2804:87c4::/33"

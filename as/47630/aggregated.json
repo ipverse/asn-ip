@@ -4,7 +4,7 @@
   "description": "TeleVoIP bv",
   "subnets": {
     "ipv4": [
-      "185.174.4.0/23"
+      "185.174.4.0/24"
     ],
     "ipv6": []
   }

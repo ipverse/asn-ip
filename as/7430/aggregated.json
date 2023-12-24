@@ -3,7 +3,9 @@
   "handle": "TANDEM",
   "description": "HP Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "16.1.3.0/24"
+    ],
     "ipv6": []
   }
 }

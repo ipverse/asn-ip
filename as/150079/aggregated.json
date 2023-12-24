@@ -3,7 +3,9 @@
   "handle": "AGNSM-IN",
   "description": "Advance Global Network Solution",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.174.126.0/24"
+    ],
     "ipv6": []
   }
 }

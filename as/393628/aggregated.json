@@ -3,9 +3,7 @@
   "handle": "CONTROLCO",
   "description": "Controlco",
   "subnets": {
-    "ipv4": [
-      "216.3.21.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }
