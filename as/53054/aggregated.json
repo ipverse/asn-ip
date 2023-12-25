@@ -4,7 +4,8 @@
   "description": "GREEN TELECOMUNICACOES",
   "subnets": {
     "ipv4": [
-      "187.73.192.0/20"
+      "187.73.196.0/22",
+      "187.73.200.0/22"
     ],
     "ipv6": []
   }

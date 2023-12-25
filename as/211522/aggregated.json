@@ -3,7 +3,9 @@
   "handle": "TAMONE",
   "description": "TAMONE ALESSANDRO",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "5.144.180.0/24"
+    ],
     "ipv6": []
   }
 }
