@@ -4,9 +4,6 @@
   "description": "ITX Networks Ltd.",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2a13:df85:ec02::/48",
-      "2a13:df85:eff0::/44"
-    ]
+    "ipv6": []
   }
 }

@@ -4,6 +4,7 @@
   "description": "Precious netcom pvt ltd",
   "subnets": {
     "ipv4": [
+      "36.50.82.0/24",
       "43.230.196.0/22",
       "43.240.4.0/24",
       "43.240.6.0/23",

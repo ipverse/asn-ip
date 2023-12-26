@@ -4,10 +4,8 @@
   "description": "SATLINK TELECOM LTDA",
   "subnets": {
     "ipv4": [
-      "168.121.104.0/22"
+      "168.121.106.0/24"
     ],
-    "ipv6": [
-      "2804:2e10::/32"
-    ]
+    "ipv6": []
   }
 }
