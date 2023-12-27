@@ -4,6 +4,7 @@
   "description": "ENEVE TELECOMUNICACOES LTDA",
   "subnets": {
     "ipv4": [
+      "45.190.140.0/22",
       "191.253.48.0/21"
     ],
     "ipv6": [

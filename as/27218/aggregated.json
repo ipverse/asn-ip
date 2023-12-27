@@ -1,0 +1,13 @@
+{
+  "asn": 27218,
+  "handle": "INFINITUM-NIHIL",
+  "description": "INFINITUM NIHIL",
+  "subnets": {
+    "ipv4": [
+      "192.30.120.0/23"
+    ],
+    "ipv6": [
+      "2620:71:4000::/48"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asn": 44841,
+  "handle": "EGRESSIF",
+  "description": "Egressif LLC",
+  "subnets": {
+    "ipv4": [
+      "45.153.250.0/24"
+    ],
+    "ipv6": []
+  }
+}
