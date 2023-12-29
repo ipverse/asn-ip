@@ -3,7 +3,9 @@
   "handle": "ARISG-IN",
   "description": "Arisglobal Software Pvt Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.137.61.0/24"
+    ],
     "ipv6": []
   }
 }

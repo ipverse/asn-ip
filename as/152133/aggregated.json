@@ -1,0 +1,11 @@
+{
+  "asn": 152133,
+  "handle": "AWST-AP",
+  "description": "Across Technology",
+  "subnets": {
+    "ipv4": [
+      "36.50.0.0/23"
+    ],
+    "ipv6": []
+  }
+}

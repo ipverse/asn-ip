@@ -3,7 +3,9 @@
   "handle": "NSDLDEPO-IN",
   "description": "NATIONAL SECURITIES DEPOSITORY LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.39.32.0/24"
+    ],
     "ipv6": []
   }
 }

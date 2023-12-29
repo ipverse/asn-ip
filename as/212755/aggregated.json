@@ -4,6 +4,7 @@
   "description": "ExaCloud Factory, S.L.",
   "subnets": {
     "ipv4": [
+      "84.54.50.0/24",
       "91.233.197.0/24"
     ],
     "ipv6": [

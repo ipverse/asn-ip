@@ -1,0 +1,13 @@
+{
+  "asn": 18160,
+  "handle": "KAKAO-CORP",
+  "description": "Kakao Corp",
+  "subnets": {
+    "ipv4": [
+      "203.133.184.0/21"
+    ],
+    "ipv6": [
+      "2404:4600:1::/48"
+    ]
+  }
+}

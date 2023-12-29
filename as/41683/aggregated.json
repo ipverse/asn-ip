@@ -3,7 +3,9 @@
   "handle": "EARTH",
   "description": "Earth Telekomunikasyon Bilisim Internet Arge Yazilim Hizmetleri Tic. Ltd. Sti.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "213.238.176.0/24"
+    ],
     "ipv6": []
   }
 }

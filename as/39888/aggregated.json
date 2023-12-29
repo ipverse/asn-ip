@@ -4,6 +4,7 @@
   "description": "TRUST MOTORS SRL",
   "subnets": {
     "ipv4": [
+      "5.83.41.0/24",
       "185.75.53.0/24"
     ],
     "ipv6": []

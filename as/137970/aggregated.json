@@ -1,0 +1,11 @@
+{
+  "asn": 137970,
+  "handle": "AAA-AP",
+  "description": "Rocket Signal",
+  "subnets": {
+    "ipv4": [
+      "36.50.74.0/24"
+    ],
+    "ipv6": []
+  }
+}

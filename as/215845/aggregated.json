@@ -1,0 +1,12 @@
+{
+  "asn": 215845,
+  "handle": "TECHOSERVERS",
+  "description": "TechoServers LTD",
+  "subnets": {
+    "ipv4": [
+      "77.247.108.0/24",
+      "185.53.90.0/24"
+    ],
+    "ipv6": []
+  }
+}

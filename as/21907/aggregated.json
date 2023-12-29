@@ -4,7 +4,8 @@
   "description": "Southern Data Center",
   "subnets": {
     "ipv4": [
-      "148.59.34.0/23"
+      "148.59.34.0/23",
+      "205.166.165.0/24"
     ],
     "ipv6": [
       "2602:fe3f::/32"

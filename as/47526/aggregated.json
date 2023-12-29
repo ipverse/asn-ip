@@ -3,9 +3,13 @@
   "handle": "NORIS-ITK",
   "description": "Noris-ITK UG (Haftungsbeschraenkt)",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "86.109.231.0/24",
+      "130.117.6.0/24"
+    ],
     "ipv6": [
-      "2a13:ccc0::/32"
+      "2a13:ccc0::/32",
+      "2a13:ccc3::/32"
     ]
   }
 }

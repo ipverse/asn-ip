@@ -1,0 +1,11 @@
+{
+  "asn": 216137,
+  "handle": "IP-UTM",
+  "description": "Institutia Publica Universitatea Tehnica a Moldovei - IP UTM",
+  "subnets": {
+    "ipv4": [
+      "81.180.72.0/23"
+    ],
+    "ipv6": []
+  }
+}
