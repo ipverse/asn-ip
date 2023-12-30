@@ -4,8 +4,7 @@
   "description": "TELECOM FIBER NET LTDA",
   "subnets": {
     "ipv4": [
-      "45.181.216.0/22",
-      "186.216.39.0/24"
+      "45.181.216.0/22"
     ],
     "ipv6": [
       "2804:60fc::/32"

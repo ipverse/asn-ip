@@ -1,0 +1,11 @@
+{
+  "asn": 201409,
+  "handle": "HOSTSHIELD",
+  "description": "HOSTSHIELD LTD",
+  "subnets": {
+    "ipv4": [
+      "93.123.118.0/24"
+    ],
+    "ipv6": []
+  }
+}

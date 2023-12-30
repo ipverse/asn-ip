@@ -4,8 +4,7 @@
   "description": "Vialink Solues de Tecnologia Ltda",
   "subnets": {
     "ipv4": [
-      "187.45.160.0/21",
-      "187.45.169.0/24"
+      "187.45.160.0/20"
     ],
     "ipv6": [
       "2804:458::/32"
