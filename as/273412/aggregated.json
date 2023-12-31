@@ -1,0 +1,11 @@
+{
+  "asn": 273412,
+  "handle": "CN-TELECOM-SERVICOS",
+  "description": "CN TELECOM SERVICOS DE INTERNET LTDA",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2804:8e3c::/32"
+    ]
+  }
+}

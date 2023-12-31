@@ -1,0 +1,13 @@
+{
+  "asn": 150407,
+  "handle": "CONINET-AP",
+  "description": "CONINET COMMUNICATION SERVICE CO LIMITED",
+  "subnets": {
+    "ipv4": [
+      "203.145.40.0/23"
+    ],
+    "ipv6": [
+      "2401:5060::/32"
+    ]
+  }
+}

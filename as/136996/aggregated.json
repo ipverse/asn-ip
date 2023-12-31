@@ -3,7 +3,9 @@
   "handle": "PACIFICNETWORKS-AP",
   "description": "Pacific Networks",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.101.192.0/24"
+    ],
     "ipv6": []
   }
 }

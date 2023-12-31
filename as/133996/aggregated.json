@@ -3,7 +3,9 @@
   "handle": "AAYUINFONET",
   "description": "AAYU INFONET PVT LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.52.248.0/22"
+    ],
     "ipv6": []
   }
 }

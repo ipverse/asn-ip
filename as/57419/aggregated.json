@@ -3,7 +3,9 @@
   "handle": "LLCFLEX-TR",
   "description": "LLC Flex",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.207.3.0/24"
+    ],
     "ipv6": []
   }
 }

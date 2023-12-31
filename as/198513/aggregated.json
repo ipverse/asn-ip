@@ -3,7 +3,10 @@
   "handle": "VIPERHOSTING",
   "description": "Viperhosting B.V.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.227.81.0/24",
+      "194.146.45.0/24"
+    ],
     "ipv6": []
   }
 }

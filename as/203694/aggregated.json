@@ -3,7 +3,9 @@
   "handle": "OYUNCEVHERI",
   "description": "Beh Pardakht Melat Co PJS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.132.124.0/24"
+    ],
     "ipv6": []
   }
 }
