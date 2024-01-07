@@ -4,7 +4,8 @@
   "description": "Viacheslav Fitiunin",
   "subnets": {
     "ipv4": [
-      "151.0.0.0/19"
+      "151.0.0.0/19",
+      "151.0.32.0/22"
     ],
     "ipv6": []
   }

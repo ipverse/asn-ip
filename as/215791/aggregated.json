@@ -1,0 +1,11 @@
+{
+  "asn": 215791,
+  "handle": "NOPKT",
+  "description": "NoPKT LLC",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a12:bec0:6300::/48"
+    ]
+  }
+}

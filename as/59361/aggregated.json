@@ -4,6 +4,7 @@
   "description": "Dhaka Electric Supply Company Limited (DESCO)",
   "subnets": {
     "ipv4": [
+      "103.150.38.0/24",
       "103.231.135.0/24"
     ],
     "ipv6": []
