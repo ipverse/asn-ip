@@ -4,6 +4,7 @@
   "description": "Nara Institute of Science and Technology",
   "subnets": {
     "ipv4": [
+      "163.221.0.0/16",
       "192.218.128.0/23"
     ],
     "ipv6": [

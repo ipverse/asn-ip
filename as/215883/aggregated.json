@@ -1,0 +1,11 @@
+{
+  "asn": 215883,
+  "handle": "FASTLINK",
+  "description": "FastLink SHPK",
+  "subnets": {
+    "ipv4": [
+      "91.240.165.0/24"
+    ],
+    "ipv6": []
+  }
+}

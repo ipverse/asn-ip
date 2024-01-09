@@ -4,6 +4,7 @@
   "description": "MAXXNET TELECOM",
   "subnets": {
     "ipv4": [
+      "170.239.72.0/22",
       "177.39.120.0/21"
     ],
     "ipv6": [

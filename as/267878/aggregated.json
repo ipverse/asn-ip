@@ -4,7 +4,8 @@
   "description": "NETCOMM ARGENTINA SRL",
   "subnets": {
     "ipv4": [
-      "45.175.148.0/22"
+      "45.175.148.0/23",
+      "45.175.151.0/24"
     ],
     "ipv6": []
   }

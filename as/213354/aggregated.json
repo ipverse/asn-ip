@@ -4,6 +4,8 @@
   "description": "INTERNATIONAL HOSTING SOLUTIONS LLP",
   "subnets": {
     "ipv4": [
+      "31.128.118.0/23",
+      "31.128.120.0/21",
       "91.228.68.0/22",
       "185.69.16.0/22",
       "185.248.192.0/22",

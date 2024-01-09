@@ -1,0 +1,11 @@
+{
+  "asn": 152050,
+  "handle": "IDNIC-ERAINTERNET-ID",
+  "description": "PT Era Zia Sakti",
+  "subnets": {
+    "ipv4": [
+      "210.79.140.0/24"
+    ],
+    "ipv6": []
+  }
+}
