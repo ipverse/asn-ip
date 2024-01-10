@@ -4,7 +4,8 @@
   "description": "Brevan Howard Asset Management LLP",
   "subnets": {
     "ipv4": [
-      "193.203.248.0/23"
+      "193.203.248.0/23",
+      "193.203.250.0/24"
     ],
     "ipv6": []
   }

@@ -4,6 +4,7 @@
   "description": "EXPLORERNET INFOLINK TECNOLOGIA E TELECOMUNICACOES",
   "subnets": {
     "ipv4": [
+      "170.82.204.0/23",
       "170.83.132.0/22",
       "177.75.48.0/20"
     ],

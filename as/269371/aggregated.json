@@ -4,8 +4,7 @@
   "description": "AMORIM \u0026 ZANETTI AMORIM LTDA ME",
   "subnets": {
     "ipv4": [
-      "45.185.80.0/24",
-      "45.185.82.0/23"
+      "45.185.80.0/22"
     ],
     "ipv6": []
   }

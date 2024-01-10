@@ -3,7 +3,9 @@
   "handle": "IDNIC-MERDEKANET-ID",
   "description": "PT Merdeka Media Teknologi",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.42.243.0/24"
+    ],
     "ipv6": []
   }
 }

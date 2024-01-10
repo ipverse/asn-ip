@@ -3,7 +3,12 @@
   "handle": "VISLOM-LIMITED",
   "description": "VISLOM LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "204.146.241.0/24",
+      "206.170.53.0/24",
+      "207.105.109.0/24",
+      "216.63.243.0/24"
+    ],
     "ipv6": []
   }
 }

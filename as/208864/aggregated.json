@@ -3,7 +3,9 @@
   "handle": "WESERVE",
   "description": "Weserve B.V.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.212.139.0/24"
+    ],
     "ipv6": []
   }
 }

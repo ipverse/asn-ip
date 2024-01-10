@@ -4,7 +4,8 @@
   "description": "VEU I BITS, SERVEIS EMPRESARIALS S.L.",
   "subnets": {
     "ipv4": [
-      "5.154.175.0/24"
+      "5.154.175.0/24",
+      "213.0.76.0/23"
     ],
     "ipv6": []
   }

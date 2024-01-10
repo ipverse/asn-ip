@@ -1,0 +1,13 @@
+{
+  "asn": 152307,
+  "handle": "DWPL-AP",
+  "description": "DataWorld",
+  "subnets": {
+    "ipv4": [
+      "157.10.100.0/23"
+    ],
+    "ipv6": [
+      "2001:df3:5840::/48"
+    ]
+  }
+}

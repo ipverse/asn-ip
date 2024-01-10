@@ -3,7 +3,9 @@
   "handle": "BJN-AU",
   "description": "Blue Jeans Network",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.255.54.0/24"
+    ],
     "ipv6": []
   }
 }
