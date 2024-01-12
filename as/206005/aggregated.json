@@ -3,11 +3,14 @@
   "handle": "LEXISTARALLIANCELTD",
   "description": "SC ITNS.NET SRL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.243.140.0/22"
+    ],
     "ipv6": [
       "2a09:1d80::/29",
       "2a0e:6c00::/29",
       "2a0e:8400::/29",
+      "2a13:bb40::/29",
       "2a13:c440::/29",
       "2a14:1100::/29"
     ]

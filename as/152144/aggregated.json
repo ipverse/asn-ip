@@ -1,0 +1,13 @@
+{
+  "asn": 152144,
+  "handle": "LAPL-AP",
+  "description": "LIGHTSTORM ASIA PTE. LTD.",
+  "subnets": {
+    "ipv4": [
+      "210.87.106.0/24"
+    ],
+    "ipv6": [
+      "2401:5760::/32"
+    ]
+  }
+}

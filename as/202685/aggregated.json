@@ -3,7 +3,9 @@
   "handle": "PFCLOUD",
   "description": "Aggros Operations Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "2.58.95.0/24"
+    ],
     "ipv6": [
       "2a00:8ac0::/32",
       "2a03:df00::/29",

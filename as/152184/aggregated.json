@@ -1,0 +1,11 @@
+{
+  "asn": 152184,
+  "handle": "TAMUKAINET-AP",
+  "description": "Tamukai Network",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2401:3fa0:110::/44"
+    ]
+  }
+}

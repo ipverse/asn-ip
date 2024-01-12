@@ -1,0 +1,11 @@
+{
+  "asn": 273138,
+  "handle": "FIBRANETPLUS",
+  "description": "FIBRANETPLUS S.A.S.",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2803:f450:c0::/42"
+    ]
+  }
+}

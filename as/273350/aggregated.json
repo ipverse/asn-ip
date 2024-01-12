@@ -1,9 +1,11 @@
 {
   "asn": 273350,
-  "handle": "GNS-TELECOM-SERVICOS",
-  "description": "GNS TELECOM SERVICOS DE COMUNICACAO MULTIMIDIA LTD",
+  "handle": "GNS-TELECOM",
+  "description": "GNS TELECOM",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.224.136.0/22"
+    ],
     "ipv6": [
       "2804:4560::/32",
       "2804:8d54::/32"

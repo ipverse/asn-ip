@@ -1,0 +1,11 @@
+{
+  "asn": 273422,
+  "handle": "GNET-MAIS-TELECOM",
+  "description": "gnet mais telecom",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2804:8e68::/32"
+    ]
+  }
+}

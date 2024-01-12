@@ -3,7 +3,9 @@
   "handle": "VIBEGAMES",
   "description": "VIBEGAMES B.V.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.29.166.0/24"
+    ],
     "ipv6": [
       "2001:67c:be8::/48"
     ]

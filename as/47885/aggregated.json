@@ -1,0 +1,11 @@
+{
+  "asn": 47885,
+  "handle": "PANDA",
+  "description": "Panda Network,Inc",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a13:bc40:1::/48"
+    ]
+  }
+}

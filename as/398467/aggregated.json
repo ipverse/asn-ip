@@ -3,7 +3,9 @@
   "handle": "HZYF",
   "description": "HZYF Inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "50.114.102.0/24"
+    ],
     "ipv6": []
   }
 }

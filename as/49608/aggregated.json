@@ -3,7 +3,9 @@
   "handle": "COCHENTEK-UK",
   "description": "CoChen Technology LTD.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "93.113.177.0/24"
+    ],
     "ipv6": []
   }
 }

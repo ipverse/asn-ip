@@ -4,6 +4,7 @@
   "description": "ungleich GmbH",
   "subnets": {
     "ipv4": [
+      "185.116.114.0/24",
       "185.203.113.0/24"
     ],
     "ipv6": [

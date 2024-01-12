@@ -1,9 +1,11 @@
 {
   "asn": 134930,
-  "handle": "TAMANAWINET",
-  "description": "TAMANA WINET PVT LTD",
+  "handle": "HSSOL-IN",
+  "description": "HOSTING SERVER SOLUTIONS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "36.50.3.0/24"
+    ],
     "ipv6": []
   }
 }

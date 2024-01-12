@@ -4,7 +4,8 @@
   "description": "GLOBAL COMMUNICATION NETWORK LIMITED",
   "subnets": {
     "ipv4": [
-      "36.50.130.0/24"
+      "36.50.130.0/24",
+      "103.14.170.0/23"
     ],
     "ipv6": []
   }
