@@ -1,0 +1,11 @@
+{
+  "asn": 216387,
+  "handle": "BROKER",
+  "description": "abc Information GmbH Kommunikation und Beratung",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a0d:6f80:587a::/48"
+    ]
+  }
+}

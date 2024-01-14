@@ -1,9 +1,11 @@
 {
   "asn": 209806,
-  "handle": "VAPRIX-GROUP",
+  "handle": "EDGESONIC-UK-SERVICES",
   "description": "Vaprix Group Limited",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a07:54c4:d100::/40"
+    ]
   }
 }

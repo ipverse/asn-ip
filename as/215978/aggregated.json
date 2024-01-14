@@ -1,15 +1,9 @@
 {
   "asn": 215978,
-  "handle": "APRICOT",
+  "handle": "RANADEWA",
   "description": "Gositha Ranadewa",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2a13:df87:2000::/36",
-      "2a13:df87:b400::/48",
-      "2a13:df87:b410::/48",
-      "2a13:df87:b440::/48",
-      "2a13:df87:b600::/39"
-    ]
+    "ipv6": []
   }
 }

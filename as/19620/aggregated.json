@@ -1,9 +1,11 @@
 {
   "asn": 19620,
-  "handle": "KUAIYI-NETWORKS-LLC",
-  "description": "KuaiYi Networks LLC",
+  "handle": "HOSTARIS",
+  "description": "Hostaris L.L.C",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2602:fa7a:10::/48"
+    ]
   }
 }

@@ -4,6 +4,8 @@
   "description": "IE Zhukov Aleksandr Aleksandrovich",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a06:1301:4160::/48"
+    ]
   }
 }

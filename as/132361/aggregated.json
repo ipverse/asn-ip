@@ -4,7 +4,7 @@
   "description": "Citrix Systems Asia Pacific Pty Ltd",
   "subnets": {
     "ipv4": [
-      "103.14.255.0/24"
+      "103.14.254.0/23"
     ],
     "ipv6": []
   }

@@ -4,7 +4,6 @@
   "description": "Ncleo de Inf. e Coord. do Ponto BR - NIC.BR",
   "subnets": {
     "ipv4": [
-      "2.22.51.0/24",
       "23.58.94.0/24",
       "168.181.20.0/22"
     ],

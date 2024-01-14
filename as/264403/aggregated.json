@@ -4,8 +4,11 @@
   "description": "CMTECH Com.e Serv.de Informatica Ltda",
   "subnets": {
     "ipv4": [
+      "131.161.249.0/24",
       "131.161.251.0/24"
     ],
-    "ipv6": []
+    "ipv6": [
+      "2804:1df0::/40"
+    ]
   }
 }
