@@ -3,7 +3,9 @@
   "handle": "WEONE1-IN",
   "description": "WEONE BROADAND PRIVATE LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "113.192.4.0/23"
+    ],
     "ipv6": []
   }
 }

@@ -4,6 +4,7 @@
   "description": "PT Pedjoeang Digital Networks",
   "subnets": {
     "ipv4": [
+      "102.129.226.0/24",
       "103.118.174.0/24"
     ],
     "ipv6": [

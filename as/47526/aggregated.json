@@ -4,8 +4,7 @@
   "description": "Noris-ITK UG (Haftungsbeschraenkt)",
   "subnets": {
     "ipv4": [
-      "86.109.231.0/24",
-      "130.117.6.0/24"
+      "86.109.231.0/24"
     ],
     "ipv6": [
       "2a13:ccc0::/32",
