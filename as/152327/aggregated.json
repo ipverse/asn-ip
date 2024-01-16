@@ -1,0 +1,11 @@
+{
+  "asn": 152327,
+  "handle": "RASUWEBHOST-AP",
+  "description": "Rasu Web Host",
+  "subnets": {
+    "ipv4": [
+      "157.10.174.0/23"
+    ],
+    "ipv6": []
+  }
+}

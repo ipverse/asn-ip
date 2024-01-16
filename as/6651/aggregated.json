@@ -3,7 +3,9 @@
   "handle": "GEMINI-EXCHANGE",
   "description": "Gemini",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "162.217.116.0/24"
+    ],
     "ipv6": []
   }
 }

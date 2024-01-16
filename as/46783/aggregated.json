@@ -1,7 +1,12 @@
 {
   "asn": 46783,
+  "handle": "EL-US",
+  "description": "EASY LINK LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "184.105.161.0/24",
+      "199.245.100.0/23"
+    ],
     "ipv6": []
   }
 }

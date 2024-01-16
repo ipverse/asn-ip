@@ -3,9 +3,7 @@
   "handle": "WIFINITYES",
   "description": "AVATEL TELECOM, SA",
   "subnets": {
-    "ipv4": [
-      "185.81.132.0/22"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

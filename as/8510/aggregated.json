@@ -4,7 +4,6 @@
   "description": "Tomsk State University",
   "subnets": {
     "ipv4": [
-      "85.142.80.0/24",
       "92.63.64.0/20"
     ],
     "ipv6": []

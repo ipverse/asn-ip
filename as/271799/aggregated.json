@@ -4,6 +4,7 @@
   "description": "TELERY NETWORKS, S.R.L",
   "subnets": {
     "ipv4": [
+      "45.153.165.0/24",
       "177.52.221.0/24",
       "181.214.29.0/24"
     ],
