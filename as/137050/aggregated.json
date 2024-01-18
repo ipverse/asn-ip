@@ -4,7 +4,8 @@
   "description": "strateq data centre sdn bhd",
   "subnets": {
     "ipv4": [
-      "103.100.204.0/22"
+      "103.100.204.0/23",
+      "103.100.206.0/24"
     ],
     "ipv6": [
       "2001:df2:8100::/48"

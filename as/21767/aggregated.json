@@ -4,6 +4,8 @@
   "description": "Washington College",
   "subnets": {
     "ipv4": [
+      "76.78.85.0/24",
+      "192.146.226.0/24",
       "209.243.32.0/20"
     ],
     "ipv6": []

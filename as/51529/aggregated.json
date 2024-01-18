@@ -4,6 +4,7 @@
   "description": "Unico Data AG",
   "subnets": {
     "ipv4": [
+      "194.0.238.0/24",
       "194.165.44.0/24"
     ],
     "ipv6": []

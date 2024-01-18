@@ -4,6 +4,7 @@
   "description": "Dinnet d.o.o. Gracanica",
   "subnets": {
     "ipv4": [
+      "45.143.4.0/24",
       "109.176.240.0/24"
     ],
     "ipv6": []

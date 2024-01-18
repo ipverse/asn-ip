@@ -3,7 +3,9 @@
   "handle": "SIRCROSAR-NET",
   "description": "Sircrosar Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "93.123.39.0/24"
+    ],
     "ipv6": []
   }
 }

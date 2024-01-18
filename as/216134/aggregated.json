@@ -3,10 +3,7 @@
   "handle": "ZF-FRIEDRICHSHAFEN-AG",
   "description": "ZF Friedrichshafen AG",
   "subnets": {
-    "ipv4": [
-      "149.238.159.0/24",
-      "192.43.234.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

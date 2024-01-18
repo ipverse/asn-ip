@@ -1,0 +1,14 @@
+{
+  "asn": 6206,
+  "handle": "NETROUTING",
+  "description": "Netrouting B.V.",
+  "subnets": {
+    "ipv4": [
+      "45.92.16.0/24"
+    ],
+    "ipv6": [
+      "2602:fc48:1::/48",
+      "2602:fc48:2::/48"
+    ]
+  }
+}

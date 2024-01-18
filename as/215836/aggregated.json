@@ -1,0 +1,11 @@
+{
+  "asn": 215836,
+  "handle": "LOOPIA2",
+  "description": "Loopia AB",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a02:250:fffe::/48"
+    ]
+  }
+}
