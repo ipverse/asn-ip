@@ -1,9 +1,11 @@
 {
   "asn": 23347,
-  "handle": "HANOVER-HOSPITAL",
-  "description": "Hanover Hospital",
+  "handle": "ZYC-NETWORK",
+  "description": "ZYC Network LLC",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2602:814:f000::/40"
+    ]
   }
 }

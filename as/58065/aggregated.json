@@ -1,7 +1,7 @@
 {
   "asn": 58065,
   "handle": "PACKETEXCHANGE",
-  "description": "Packet Exchange Limited",
+  "description": "Orion Network Limited",
   "subnets": {
     "ipv4": [
       "5.157.6.0/24",
@@ -98,6 +98,7 @@
       "196.196.110.0/23",
       "196.196.112.0/21",
       "196.196.121.0/24",
+      "196.196.122.0/24",
       "196.196.124.0/22",
       "196.196.128.0/20",
       "196.196.144.0/23",

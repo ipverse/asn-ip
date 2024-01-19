@@ -1,0 +1,11 @@
+{
+  "asn": 273416,
+  "handle": "NOVA-BANDA-LARGA",
+  "description": "NOVA BANDA LARGA TELECOMUNICAO LTDA",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2804:8e4c::/32"
+    ]
+  }
+}

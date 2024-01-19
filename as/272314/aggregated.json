@@ -1,0 +1,12 @@
+{
+  "asn": 272314,
+  "handle": "WISPHUB",
+  "description": "WISPHUB",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2806:40c:1002::/48",
+      "2806:40c:ffff::/48"
+    ]
+  }
+}

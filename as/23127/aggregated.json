@@ -4,8 +4,7 @@
   "description": "Missouri Network Alliance, LLC",
   "subnets": {
     "ipv4": [
-      "69.55.128.0/19",
-      "216.69.240.0/20"
+      "69.55.128.0/19"
     ],
     "ipv6": []
   }

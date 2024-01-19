@@ -3,7 +3,9 @@
   "handle": "NORTH-RIDGE",
   "description": "North Ridge",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "23.166.176.0/24"
+    ],
     "ipv6": []
   }
 }

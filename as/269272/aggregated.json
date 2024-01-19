@@ -4,8 +4,7 @@
   "description": "NEWNET TECNOLOGIA E PROJETOS LTDA",
   "subnets": {
     "ipv4": [
-      "45.183.92.0/23",
-      "45.183.94.0/24"
+      "45.183.92.0/22"
     ],
     "ipv6": [
       "2804:6208::/32"

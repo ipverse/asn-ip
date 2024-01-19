@@ -3,11 +3,7 @@
   "handle": "LIMENET",
   "description": "Limelight Networks",
   "subnets": {
-    "ipv4": [
-      "41.63.64.0/22"
-    ],
-    "ipv6": [
-      "2c0f:fed8:5a::/48"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

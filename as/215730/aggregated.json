@@ -1,0 +1,13 @@
+{
+  "asn": 215730,
+  "handle": "H2NEXUS",
+  "description": "H2NEXUS LTD",
+  "subnets": {
+    "ipv4": [
+      "185.125.50.0/24"
+    ],
+    "ipv6": [
+      "2a0e:d604:1::/48"
+    ]
+  }
+}
