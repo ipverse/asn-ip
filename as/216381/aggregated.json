@@ -4,7 +4,8 @@
   "description": "Axians IT Services AG",
   "subnets": {
     "ipv4": [
-      "193.104.148.0/24"
+      "193.104.148.0/24",
+      "194.209.113.0/24"
     ],
     "ipv6": []
   }

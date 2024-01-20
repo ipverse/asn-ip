@@ -3,7 +3,9 @@
   "handle": "HENRYCOUNTYGA",
   "description": "Henry County, Georgia",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "68.118.115.0/24"
+    ],
     "ipv6": []
   }
 }

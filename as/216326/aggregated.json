@@ -3,7 +3,9 @@
   "handle": "CLOUDSOLUTIONHOST",
   "description": "Ahmed Abdelrahman Ahmed Aly Elmtaeshy",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "92.52.218.0/24"
+    ],
     "ipv6": []
   }
 }

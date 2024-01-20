@@ -3,7 +3,11 @@
   "handle": "F-J-R-W-ASSOCIADOS",
   "description": "F J R W ASSOCIADOS LTDA - ME",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.164.164.0/22"
+    ],
+    "ipv6": [
+      "2804:5414::/32"
+    ]
   }
 }

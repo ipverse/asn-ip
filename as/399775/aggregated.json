@@ -4,7 +4,8 @@
   "description": "Cenovus Energy Inc",
   "subnets": {
     "ipv4": [
-      "162.139.0.0/20"
+      "162.139.0.0/20",
+      "162.139.240.0/20"
     ],
     "ipv6": []
   }

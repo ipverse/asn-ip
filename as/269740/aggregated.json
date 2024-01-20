@@ -3,7 +3,9 @@
   "handle": "ISTMO-ENTERTAINMENT",
   "description": "ISTMO ENTERTAINMENT, SA.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.181.43.0/24"
+    ],
     "ipv6": []
   }
 }

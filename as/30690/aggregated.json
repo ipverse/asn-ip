@@ -1,0 +1,11 @@
+{
+  "asn": 30690,
+  "handle": "KAZEHANA-NETWORKS",
+  "description": "Kazehana Networks LLC",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2602:f99b:2::/48"
+    ]
+  }
+}

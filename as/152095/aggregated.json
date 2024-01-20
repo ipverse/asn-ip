@@ -1,0 +1,11 @@
+{
+  "asn": 152095,
+  "handle": "THREATDEFENCE-AP",
+  "description": "ThreatDefence",
+  "subnets": {
+    "ipv4": [
+      "116.199.205.0/24"
+    ],
+    "ipv6": []
+  }
+}
