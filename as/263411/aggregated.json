@@ -4,9 +4,7 @@
   "description": "GABRIEL S S SERVICOS DE TELECOMUNICACOES EIRELI",
   "subnets": {
     "ipv4": [
-      "179.97.24.0/21",
-      "200.53.4.0/23",
-      "200.53.7.0/24"
+      "179.97.24.0/21"
     ],
     "ipv6": [
       "2804:15cc::/32"

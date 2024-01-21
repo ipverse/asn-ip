@@ -1,0 +1,11 @@
+{
+  "asn": 152045,
+  "handle": "IDNIC-PNT-ID",
+  "description": "PT Petabyte Network Indonesia",
+  "subnets": {
+    "ipv4": [
+      "210.79.146.0/23"
+    ],
+    "ipv6": []
+  }
+}

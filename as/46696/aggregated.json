@@ -1,9 +1,13 @@
 {
   "asn": 46696,
-  "handle": "SIDUS-NET",
+  "handle": "DATACANOPY-C1-DFW1",
   "description": "Sidus Group, LLC",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "192.31.142.0/24"
+    ],
+    "ipv6": [
+      "2607:e100:2000::/40"
+    ]
   }
 }

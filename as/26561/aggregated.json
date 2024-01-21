@@ -1,0 +1,11 @@
+{
+  "asn": 26561,
+  "handle": "NETRIDGE-LLC",
+  "description": "NetRidge LLC",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a13:df87:b4e0::/48"
+    ]
+  }
+}

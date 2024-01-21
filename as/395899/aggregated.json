@@ -4,7 +4,8 @@
   "description": "Commission Scolaire des Iles",
   "subnets": {
     "ipv4": [
-      "23.139.128.0/24"
+      "23.139.128.0/24",
+      "196.251.249.0/24"
     ],
     "ipv6": []
   }

@@ -4,7 +4,8 @@
   "description": "Boise Cascade Corporation",
   "subnets": {
     "ipv4": [
-      "204.99.192.0/20"
+      "204.99.192.0/22",
+      "204.99.196.0/23"
     ],
     "ipv6": []
   }
