@@ -1,0 +1,11 @@
+{
+  "asn": 55552,
+  "handle": "NETWORK-BOX-HK",
+  "description": "Network Box Corporation Ltd.",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2001:df0:a5::/48"
+    ]
+  }
+}

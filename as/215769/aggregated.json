@@ -1,0 +1,11 @@
+{
+  "asn": 215769,
+  "handle": "OBRENET",
+  "description": "Eigil Obrestad",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a12:ff04:7000::/44"
+    ]
+  }
+}

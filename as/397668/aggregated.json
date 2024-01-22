@@ -3,7 +3,11 @@
   "handle": "IFC",
   "description": "Infocrest Systems LLC",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "23.165.56.0/24"
+    ],
+    "ipv6": [
+      "2602:f9dd::/40"
+    ]
   }
 }

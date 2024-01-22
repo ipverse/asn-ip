@@ -3,9 +3,7 @@
   "handle": "TERADATACLOUDLASVEGAS",
   "description": "Teradata Operations, Inc.",
   "subnets": {
-    "ipv4": [
-      "141.206.16.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "GIGALINE",
   "description": "Gigaline Teleservices Opc Private Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.115.128.0/22"
+    ],
     "ipv6": []
   }
 }

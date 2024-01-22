@@ -3,7 +3,11 @@
   "handle": "MIRIDIAGAME",
   "description": "Julien CHEVALIER t/a MiridiaGame",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "89.213.149.0/24"
+    ],
+    "ipv6": [
+      "2a10:4646:3c0::/44"
+    ]
   }
 }

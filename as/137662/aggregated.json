@@ -4,6 +4,7 @@
   "description": "Idfc Bank Ltd",
   "subnets": {
     "ipv4": [
+      "103.122.56.0/24",
       "103.122.58.0/24"
     ],
     "ipv6": []

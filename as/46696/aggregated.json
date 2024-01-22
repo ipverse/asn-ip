@@ -4,6 +4,7 @@
   "description": "Sidus Group, LLC",
   "subnets": {
     "ipv4": [
+      "192.31.140.0/24",
       "192.31.142.0/24"
     ],
     "ipv6": [
