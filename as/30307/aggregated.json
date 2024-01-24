@@ -1,7 +1,11 @@
 {
   "asn": 30307,
+  "handle": "KSMNW-NA",
+  "description": "Kasumi Networks NA LLC",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2602:f9b1::/40"
+    ]
   }
 }

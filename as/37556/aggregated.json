@@ -3,7 +3,10 @@
   "handle": "CILIXSOFT",
   "description": "Cilix Software",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "197.231.216.0/23",
+      "197.231.218.0/24"
+    ],
     "ipv6": []
   }
 }

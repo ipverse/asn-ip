@@ -1,0 +1,12 @@
+{
+  "asn": 24762,
+  "handle": "NATIONTEL",
+  "description": "DATAMAX-M, LLC",
+  "subnets": {
+    "ipv4": [
+      "81.22.192.0/24",
+      "87.117.128.0/21"
+    ],
+    "ipv6": []
+  }
+}

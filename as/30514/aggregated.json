@@ -1,9 +1,11 @@
 {
   "asn": 30514,
-  "handle": "EDH",
-  "description": "Employers Direct Health",
+  "handle": "MAGENTA-NETWORKS-INC",
+  "description": "Magenta Networks Inc.",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2602:816:f0fe::/48"
+    ]
   }
 }

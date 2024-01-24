@@ -4,7 +4,8 @@
   "description": "PT Inti Bangun Sejahtera, tbk",
   "subnets": {
     "ipv4": [
-      "103.52.16.0/22"
+      "103.52.16.0/23",
+      "103.52.18.0/24"
     ],
     "ipv6": [
       "2406:ef40::/47",

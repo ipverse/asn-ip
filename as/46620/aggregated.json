@@ -3,7 +3,10 @@
   "handle": "WBH-ISC-RO",
   "description": "William Beaumont Hospital",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "162.82.250.0/24",
+      "208.90.95.0/24"
+    ],
     "ipv6": []
   }
 }

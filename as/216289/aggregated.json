@@ -4,7 +4,8 @@
   "description": "Sircrosar Limited",
   "subnets": {
     "ipv4": [
-      "93.123.39.0/24"
+      "93.123.39.0/24",
+      "185.216.70.0/24"
     ],
     "ipv6": []
   }
