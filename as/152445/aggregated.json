@@ -1,0 +1,11 @@
+{
+  "asn": 152445,
+  "handle": "GSB-TH",
+  "description": "The Government Savings Bank",
+  "subnets": {
+    "ipv4": [
+      "119.110.240.0/24"
+    ],
+    "ipv6": []
+  }
+}

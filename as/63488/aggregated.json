@@ -3,9 +3,7 @@
   "handle": "IDNIC-TOTALTEKNO-ID",
   "description": "PT Total Trimitra Teknologi",
   "subnets": {
-    "ipv4": [
-      "103.233.108.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

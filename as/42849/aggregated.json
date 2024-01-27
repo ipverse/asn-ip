@@ -4,6 +4,7 @@
   "description": "SIA BITE Latvija",
   "subnets": {
     "ipv4": [
+      "85.254.41.0/24",
       "193.200.131.0/24"
     ],
     "ipv6": []

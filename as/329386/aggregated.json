@@ -1,0 +1,11 @@
+{
+  "asn": 329386,
+  "handle": "NEUROTEL-COMMUNICATIONS",
+  "description": "Neurotel Communications",
+  "subnets": {
+    "ipv4": [
+      "102.210.53.0/24"
+    ],
+    "ipv6": []
+  }
+}

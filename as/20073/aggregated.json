@@ -3,9 +3,7 @@
   "handle": "RPIPRINT-INC",
   "description": "RPI PRINT, INC.",
   "subnets": {
-    "ipv4": [
-      "64.30.155.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

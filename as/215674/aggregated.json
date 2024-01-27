@@ -1,0 +1,12 @@
+{
+  "asn": 215674,
+  "handle": "HIDE-DIGITAL-SECURITY",
+  "description": "Dedi Susanto",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a0a:280:2000::/40",
+      "2a0f:85c1:359::/48"
+    ]
+  }
+}

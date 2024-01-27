@@ -3,7 +3,9 @@
   "handle": "7CIRCLES-TORONTO",
   "description": "Aubrey Rose",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "170.205.59.0/24"
+    ],
     "ipv6": [
       "2602:fba2:18::/45"
     ]

@@ -3,7 +3,9 @@
   "handle": "CIIPL-AP",
   "description": "Cyble",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.187.190.0/23"
+    ],
     "ipv6": []
   }
 }

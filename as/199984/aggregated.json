@@ -1,9 +1,11 @@
 {
   "asn": 199984,
-  "handle": "BILROM",
-  "description": "Bilrom Bilisim ve Medya Hizmetleri Sanayi ve Ticaret A.S.",
+  "handle": "ALASTYR",
+  "description": "Alastyr Telekomunikasyon A.S.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.8.35.0/24"
+    ],
     "ipv6": []
   }
 }
