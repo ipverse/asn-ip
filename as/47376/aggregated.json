@@ -4,6 +4,8 @@
   "description": "Web Gostaran Bandar Company (PJS)",
   "subnets": {
     "ipv4": [
+      "103.215.221.0/24",
+      "103.215.222.0/24",
       "195.238.231.0/24"
     ],
     "ipv6": []

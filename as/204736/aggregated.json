@@ -4,8 +4,7 @@
   "description": "Nida Telekomunikasyon Hizmetleri A.S.",
   "subnets": {
     "ipv4": [
-      "185.241.100.0/24",
-      "185.241.102.0/23"
+      "185.241.100.0/22"
     ],
     "ipv6": []
   }
