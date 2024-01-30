@@ -3,7 +3,9 @@
   "handle": "KMSKOMAS",
   "description": "LLC KMS-KOM",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.212.151.0/24"
+    ],
     "ipv6": []
   }
 }

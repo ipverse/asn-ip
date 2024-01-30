@@ -3,7 +3,9 @@
   "handle": "FUNDACAO-OSWALDO-ARANHA",
   "description": "FUNDACAO OSWALDO ARANHA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "200.9.143.0/24"
+    ],
     "ipv6": [
       "2801:80:12c0::/48"
     ]

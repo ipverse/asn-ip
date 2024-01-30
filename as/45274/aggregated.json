@@ -1,0 +1,11 @@
+{
+  "asn": 45274,
+  "handle": "WORLDLINK-INTERNATIONAL-TRANSIT-AP",
+  "description": "WorldLink Communications",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2404:d180::/32"
+    ]
+  }
+}
