@@ -3,7 +3,9 @@
   "handle": "HKL24",
   "description": "HKL BAUMASCHINEN GmbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "95.141.254.0/24"
+    ],
     "ipv6": []
   }
 }

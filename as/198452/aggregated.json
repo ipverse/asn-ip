@@ -4,7 +4,6 @@
   "description": "Kontainer A/S",
   "subnets": {
     "ipv4": [
-      "91.209.190.0/24",
       "185.84.132.0/22"
     ],
     "ipv6": []

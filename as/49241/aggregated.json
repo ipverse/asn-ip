@@ -1,9 +1,11 @@
 {
   "asn": 49241,
-  "handle": "ROSEVROBANK",
+  "handle": "SCB-NET5",
   "description": "OJSC Sovcombank",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "188.130.245.0/24"
+    ],
     "ipv6": []
   }
 }

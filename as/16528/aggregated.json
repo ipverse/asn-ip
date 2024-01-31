@@ -1,0 +1,11 @@
+{
+  "asn": 16528,
+  "handle": "IMPSAT-FIBER-NETWORKS",
+  "description": "IMPSAT FIBER NETWORKS INC",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2001:13b4:2401::/48"
+    ]
+  }
+}

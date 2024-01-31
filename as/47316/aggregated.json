@@ -1,9 +1,13 @@
 {
   "asn": 47316,
-  "handle": "NOVANETWORKS-EU",
+  "handle": "ONFIBER-EU",
   "description": "Nova Networks Inc",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a12:c6c7:100::/40",
+      "2a12:c6c7:200::/39",
+      "2a12:c6c7:400::/40"
+    ]
   }
 }

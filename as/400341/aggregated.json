@@ -1,0 +1,11 @@
+{
+  "asn": 400341,
+  "handle": "ETHALABS-01",
+  "description": "XICOMM LLC",
+  "subnets": {
+    "ipv4": [
+      "165.140.216.0/24"
+    ],
+    "ipv6": []
+  }
+}

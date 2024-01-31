@@ -3,13 +3,7 @@
   "handle": "VEXURA",
   "description": "Einzelunternehmen Julien Michell Herwig",
   "subnets": {
-    "ipv4": [
-      "37.114.36.0/24",
-      "45.137.68.0/24",
-      "85.202.163.0/24"
-    ],
-    "ipv6": [
-      "2a13:df87:f000::/37"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

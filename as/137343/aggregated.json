@@ -4,7 +4,8 @@
   "description": "PT. KHAZANAH MEDIA NETWORK NUSANTARA",
   "subnets": {
     "ipv4": [
-      "103.113.124.0/22"
+      "103.113.125.0/24",
+      "103.113.126.0/23"
     ],
     "ipv6": []
   }

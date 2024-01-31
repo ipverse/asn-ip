@@ -1,0 +1,11 @@
+{
+  "asn": 199129,
+  "handle": "NEXTPOINTHOST",
+  "description": "Next point Host EOOD.",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a06:de06:385::/48"
+    ]
+  }
+}

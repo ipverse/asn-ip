@@ -1,11 +1,10 @@
 {
   "asn": 203577,
-  "handle": "FILABS",
+  "handle": "FUMON-SHIMADATE",
   "description": "Fumon Shimadate",
   "subnets": {
     "ipv4": [],
     "ipv6": [
-      "2a06:a005:2027::/48",
       "2a12:dd47:81e8::/48"
     ]
   }

@@ -1,0 +1,11 @@
+{
+  "asn": 400907,
+  "handle": "THAEA-REMOTEWINBOX",
+  "description": "RemoteWinBox",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a0d:6f80:176f::/48"
+    ]
+  }
+}

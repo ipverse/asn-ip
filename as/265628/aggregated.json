@@ -4,7 +4,8 @@
   "description": "JOSE MIGUEL MACIAS CONTRERAS",
   "subnets": {
     "ipv4": [
-      "187.120.172.0/22"
+      "187.120.173.0/24",
+      "187.120.174.0/23"
     ],
     "ipv6": []
   }

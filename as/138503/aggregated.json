@@ -4,7 +4,7 @@
   "description": "Snowy Hydro Limited",
   "subnets": {
     "ipv4": [
-      "203.33.193.0/24",
+      "203.33.192.0/23",
       "203.33.195.0/24"
     ],
     "ipv6": []

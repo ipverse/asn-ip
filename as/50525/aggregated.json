@@ -4,7 +4,7 @@
   "description": "Privado Networks AG",
   "subnets": {
     "ipv4": [
-      "91.148.232.0/22"
+      "91.148.232.0/21"
     ],
     "ipv6": [
       "2001:4de0:49::/48",

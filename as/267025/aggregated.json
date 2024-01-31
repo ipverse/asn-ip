@@ -3,7 +3,9 @@
   "handle": "ARTHUR-HENRRIQUE-SILVA",
   "description": "ARTHUR HENRRIQUE SILVA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.226.233.0/24"
+    ],
     "ipv6": []
   }
 }
