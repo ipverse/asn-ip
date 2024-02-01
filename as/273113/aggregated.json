@@ -4,6 +4,7 @@
   "description": "ONERED JWG532 SRL",
   "subnets": {
     "ipv4": [
+      "38.188.160.0/24",
       "204.157.241.0/24"
     ],
     "ipv6": [

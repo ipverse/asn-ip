@@ -3,7 +3,9 @@
   "handle": "HSO",
   "description": "HighSpeed Office Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.75.31.0/24"
+    ],
     "ipv6": [
       "2001:678:418::/48"
     ]

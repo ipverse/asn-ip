@@ -4,10 +4,8 @@
   "description": "Guilherme Marino Ribeiro Mattos ME",
   "subnets": {
     "ipv4": [
-      "177.129.36.0/22"
+      "177.129.39.0/24"
     ],
-    "ipv6": [
-      "2804:6e50::/32"
-    ]
+    "ipv6": []
   }
 }

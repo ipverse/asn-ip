@@ -3,7 +3,9 @@
   "handle": "TYRAHOST",
   "description": "Association TyraHost",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.150.149.0/24"
+    ],
     "ipv6": []
   }
 }

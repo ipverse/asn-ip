@@ -3,7 +3,9 @@
   "handle": "CUPT-PL",
   "description": "Centrum Unijnych Projektow Transportowych",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "82.214.180.0/24"
+    ],
     "ipv6": []
   }
 }

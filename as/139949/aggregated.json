@@ -4,6 +4,7 @@
   "description": "PT. Bintang Kejora Teknologi",
   "subnets": {
     "ipv4": [
+      "103.126.119.0/24",
       "103.147.52.0/23"
     ],
     "ipv6": [

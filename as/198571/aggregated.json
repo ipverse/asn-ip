@@ -3,7 +3,9 @@
   "handle": "PLAINPROXIES",
   "description": "3xK Tech GmbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "95.141.242.0/24"
+    ],
     "ipv6": [
       "2a07:db80::/32",
       "2a07:db83::/32",

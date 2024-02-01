@@ -4,7 +4,6 @@
   "description": "Banco Aliado",
   "subnets": {
     "ipv4": [
-      "64.117.234.0/24",
       "190.141.163.0/24"
     ],
     "ipv6": []

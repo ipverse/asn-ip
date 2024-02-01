@@ -4,7 +4,8 @@
   "description": "Loyola University Chicago",
   "subnets": {
     "ipv4": [
-      "147.126.0.0/16"
+      "147.126.0.0/18",
+      "147.126.64.0/19"
     ],
     "ipv6": []
   }

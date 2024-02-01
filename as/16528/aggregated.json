@@ -4,8 +4,6 @@
   "description": "IMPSAT FIBER NETWORKS INC",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2001:13b4:2401::/48"
-    ]
+    "ipv6": []
   }
 }
