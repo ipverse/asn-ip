@@ -1,0 +1,11 @@
+{
+  "asn": 15125,
+  "handle": "BT-LATAM-PERU",
+  "description": "BT LATAM PERU S.A.C.",
+  "subnets": {
+    "ipv4": [
+      "200.89.0.0/24"
+    ],
+    "ipv6": []
+  }
+}

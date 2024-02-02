@@ -3,7 +3,11 @@
   "handle": "AURA-TECNOLOGIA-CONSULTORIA",
   "description": "AURA TECNOLOGIA E CONSULTORIA LTDA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.190.140.0/22"
+    ],
+    "ipv6": [
+      "2804:67f4::/32"
+    ]
   }
 }

@@ -4,6 +4,7 @@
   "description": "FIXME GmbH",
   "subnets": {
     "ipv4": [
+      "80.244.3.0/24",
       "185.79.125.0/24"
     ],
     "ipv6": [

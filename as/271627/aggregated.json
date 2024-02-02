@@ -4,6 +4,7 @@
   "description": "ZAP TELECOM EIRELI",
   "subnets": {
     "ipv4": [
+      "38.188.41.0/24",
       "45.178.80.0/22"
     ],
     "ipv6": [

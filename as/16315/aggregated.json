@@ -1,0 +1,11 @@
+{
+  "asn": 16315,
+  "handle": "MULTITEL",
+  "description": "MultiTEL LLC",
+  "subnets": {
+    "ipv4": [
+      "66.45.22.0/24"
+    ],
+    "ipv6": []
+  }
+}

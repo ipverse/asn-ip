@@ -3,7 +3,9 @@
   "handle": "ASNET",
   "description": "HASNET Bilgi Teknolojileri Ticaret Ltd. Sti.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.23.74.0/24"
+    ],
     "ipv6": []
   }
 }

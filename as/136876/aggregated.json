@@ -4,7 +4,8 @@
   "description": "PEMERINTAH KABUPATEN BANYUMAS",
   "subnets": {
     "ipv4": [
-      "103.105.190.0/24"
+      "103.105.190.0/24",
+      "103.163.38.0/24"
     ],
     "ipv6": []
   }

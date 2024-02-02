@@ -1,0 +1,11 @@
+{
+  "asn": 151110,
+  "handle": "ENET-IN",
+  "description": "Enet Services",
+  "subnets": {
+    "ipv4": [
+      "103.3.234.0/24"
+    ],
+    "ipv6": []
+  }
+}

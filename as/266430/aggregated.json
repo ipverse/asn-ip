@@ -3,7 +3,11 @@
   "handle": "VICTORNET-TELECOM",
   "description": "Victor.net Telecom Ltda ME",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "170.81.200.0/22"
+    ],
+    "ipv6": [
+      "2804:37b4::/32"
+    ]
   }
 }

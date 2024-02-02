@@ -4,7 +4,8 @@
   "description": "Tradebulls Securities Private Limited",
   "subnets": {
     "ipv4": [
-      "103.142.77.0/24"
+      "103.142.77.0/24",
+      "103.203.244.0/24"
     ],
     "ipv6": []
   }

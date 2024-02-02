@@ -3,7 +3,11 @@
   "handle": "OPENSEA-NET-EIRELI",
   "description": "OPENSEA NET EIRELI",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "200.24.108.0/22"
+    ],
+    "ipv6": [
+      "2804:7e3c::/32"
+    ]
   }
 }

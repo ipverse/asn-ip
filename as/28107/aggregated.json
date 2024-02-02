@@ -3,7 +3,10 @@
   "handle": "UNIVERSIDAD-NACIONAL-SAN-JUAN",
   "description": "UNIVERSIDAD NACIONAL DE SAN JUAN",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "190.124.224.0/20",
+      "190.124.240.0/22"
+    ],
     "ipv6": []
   }
 }
