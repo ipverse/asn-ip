@@ -4,6 +4,7 @@
   "description": "Rural Broadband LLC",
   "subnets": {
     "ipv4": [
+      "144.215.0.0/19",
       "185.100.168.0/24"
     ],
     "ipv6": []

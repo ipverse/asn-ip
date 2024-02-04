@@ -3,7 +3,10 @@
   "handle": "INTEL-COMUNICACIONES-PER",
   "description": "INTEL COMUNICACIONES PER SAC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "187.102.208.0/22",
+      "206.85.2.0/23"
+    ],
     "ipv6": []
   }
 }

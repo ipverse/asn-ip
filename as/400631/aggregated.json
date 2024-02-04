@@ -1,0 +1,11 @@
+{
+  "asn": 400631,
+  "handle": "JSENT",
+  "description": "Just Some Hosting",
+  "subnets": {
+    "ipv4": [
+      "204.225.135.0/24"
+    ],
+    "ipv6": []
+  }
+}

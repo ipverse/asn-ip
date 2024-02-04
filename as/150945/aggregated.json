@@ -3,7 +3,9 @@
   "handle": "IDNIC-HARRISMADATACITTA-ID",
   "description": "PT Harrisma Data Citta",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.105.92.0/24"
+    ],
     "ipv6": []
   }
 }

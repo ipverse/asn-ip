@@ -1,0 +1,11 @@
+{
+  "asn": 49441,
+  "handle": "PFSA",
+  "description": "Pierre Fabre SA (PFSA)",
+  "subnets": {
+    "ipv4": [
+      "91.214.113.0/24"
+    ],
+    "ipv6": []
+  }
+}

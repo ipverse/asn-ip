@@ -1,0 +1,11 @@
+{
+  "asn": 270205,
+  "handle": "COMISION-NACIONAL-SEGUROS",
+  "description": "COMISION NACIONAL DE SEGUROS Y FIANZAS",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2801:c4:96::/48"
+    ]
+  }
+}

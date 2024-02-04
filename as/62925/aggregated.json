@@ -1,9 +1,11 @@
 {
   "asn": 62925,
-  "handle": "IE-9003",
-  "description": "Industrial Evolution Corp.",
+  "handle": "CRENET-ASN-01",
+  "description": "CRE NETWORK, LLC",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a0e:b107:268a::/48"
+    ]
   }
 }

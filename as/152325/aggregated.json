@@ -1,0 +1,11 @@
+{
+  "asn": 152325,
+  "handle": "LANKAPAY-AP",
+  "description": "LankaPay Pvt Ltd",
+  "subnets": {
+    "ipv4": [
+      "157.10.164.0/24"
+    ],
+    "ipv6": []
+  }
+}

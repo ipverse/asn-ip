@@ -3,7 +3,9 @@
   "handle": "IDNIC-KOMINFO-PYK-ID",
   "description": "Pemerintah Kota Payakumbuh",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.138.127.0/24"
+    ],
     "ipv6": []
   }
 }
