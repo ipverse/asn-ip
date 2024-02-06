@@ -3,7 +3,9 @@
   "handle": "TVCC-NET1",
   "description": "TVCC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "68.69.48.0/23"
+    ],
     "ipv6": []
   }
 }

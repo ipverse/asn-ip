@@ -3,7 +3,10 @@
   "handle": "IDNEU-IX",
   "description": "Telekomunikasi Indonesia (PT)",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "36.66.17.0/24",
+      "36.66.21.0/24"
+    ],
     "ipv6": []
   }
 }

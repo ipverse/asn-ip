@@ -3,7 +3,9 @@
   "handle": "PRINODE",
   "description": "Prinode AB",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.69.128.0/24"
+    ],
     "ipv6": []
   }
 }

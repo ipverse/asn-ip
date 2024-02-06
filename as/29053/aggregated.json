@@ -3,7 +3,9 @@
   "handle": "TELENET-JSC",
   "description": "JSC ER-Telecom Holding",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "217.29.48.0/24"
+    ],
     "ipv6": []
   }
 }

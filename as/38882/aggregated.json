@@ -1,0 +1,11 @@
+{
+  "asn": 38882,
+  "handle": "TYCOFS-ANZ-AP",
+  "description": "Tyco Fire And Security",
+  "subnets": {
+    "ipv4": [
+      "159.222.184.0/24"
+    ],
+    "ipv6": []
+  }
+}

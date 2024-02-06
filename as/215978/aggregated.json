@@ -4,9 +4,6 @@
   "description": "Gositha Ranadewa",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2a13:df87:2002::/48",
-      "2a13:df87:b400::/40"
-    ]
+    "ipv6": []
   }
 }
