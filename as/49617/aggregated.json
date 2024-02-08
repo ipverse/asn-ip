@@ -1,9 +1,11 @@
 {
   "asn": 49617,
-  "handle": "CRIMEACOMSOUTH",
+  "handle": "IZMV",
   "description": "CrimeaCom South LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.236.134.0/24"
+    ],
     "ipv6": []
   }
 }

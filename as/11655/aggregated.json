@@ -1,0 +1,11 @@
+{
+  "asn": 11655,
+  "handle": "YXEIX-SRV",
+  "description": "Saskatoon Internet Exchange Inc",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2607:9440::/32"
+    ]
+  }
+}

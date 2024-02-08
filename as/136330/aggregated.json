@@ -1,9 +1,11 @@
 {
   "asn": 136330,
-  "handle": "LUCK9",
-  "description": "Vardaan Netservices Private Limited",
+  "handle": "PIKAG-IN",
+  "description": "PIKAG BUSINESS DATAMATICS PRIVATE LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "157.10.60.0/23"
+    ],
     "ipv6": []
   }
 }

@@ -4,6 +4,7 @@
   "description": "Corporation for National Research Initiatives",
   "subnets": {
     "ipv4": [
+      "65.194.67.0/24",
       "132.151.0.0/16"
     ],
     "ipv6": [

@@ -4,7 +4,8 @@
   "description": "COLOMBIA TELECOMUNICACIONES S.A. ESP",
   "subnets": {
     "ipv4": [
-      "181.188.200.0/23"
+      "181.188.200.0/23",
+      "200.7.246.0/23"
     ],
     "ipv6": []
   }

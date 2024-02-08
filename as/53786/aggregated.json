@@ -1,5 +1,7 @@
 {
   "asn": 53786,
+  "handle": "KYNDRYL-LSIS-INFRASTRUCTURE",
+  "description": "Kyndryl",
   "subnets": {
     "ipv4": [
       "146.255.120.0/22"

@@ -1,4 +1,5 @@
 # AS26709 (RACKSQUARED-DATA-CENTERS)
 # Racksquared
 #
-2605:b280::/32
+2605:b280::/33
+2605:b280:ffff::/48

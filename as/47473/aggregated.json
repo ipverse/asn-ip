@@ -3,7 +3,9 @@
   "handle": "RUZZO",
   "description": "Ruzzo Reti S.p.a.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "93.186.80.0/20"
+    ],
     "ipv6": []
   }
 }
