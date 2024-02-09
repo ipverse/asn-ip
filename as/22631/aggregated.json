@@ -4,8 +4,6 @@
   "description": "Surf Air Wireless, LLC",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2604:3080::/32"
-    ]
+    "ipv6": []
   }
 }

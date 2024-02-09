@@ -3,7 +3,9 @@
   "handle": "IDNIC-PARNAMEGAPERSADA-ID",
   "description": "PT Parna Mega Persada",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "175.111.98.0/23"
+    ],
     "ipv6": []
   }
 }

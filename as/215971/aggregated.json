@@ -3,9 +3,7 @@
   "handle": "ARCDIG",
   "description": "Arcdigital LLC",
   "subnets": {
-    "ipv4": [
-      "104.167.231.0/24"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2602:f9e3:41::/48",
       "2602:f9e3:42::/47",

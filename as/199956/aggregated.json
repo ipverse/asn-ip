@@ -3,7 +3,9 @@
   "handle": "BLACKSILENT56",
   "description": "Maxime PONSART",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "203.32.38.0/24"
+    ],
     "ipv6": [
       "2a0e:b107:1db0::/44"
     ]

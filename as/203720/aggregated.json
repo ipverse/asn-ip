@@ -1,0 +1,11 @@
+{
+  "asn": 203720,
+  "handle": "NEOTEL",
+  "description": "NEOTEL SARL",
+  "subnets": {
+    "ipv4": [
+      "185.250.68.0/22"
+    ],
+    "ipv6": []
+  }
+}

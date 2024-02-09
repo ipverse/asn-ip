@@ -3,7 +3,9 @@
   "handle": "COOPERATIVA-PROVISION-OBRAS",
   "description": "COOPERATIVA DE PROVISION DE OBRAS Y SERVICIOS PUBLICOS SIERRA DE LOS PADRES LIMITADA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.199.124.0/22"
+    ],
     "ipv6": []
   }
 }

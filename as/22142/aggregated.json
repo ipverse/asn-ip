@@ -1,9 +1,12 @@
 {
   "asn": 22142,
-  "handle": "FISERV",
+  "handle": "FISERV-EPF-CHANDLER",
   "description": "Fiserv Solutions, LLC",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2620:10f:4008::/47",
+      "2620:10f:400d::/48"
+    ]
   }
 }

@@ -4,7 +4,8 @@
   "description": "Enkeltmandsvirksomhed Netvaerkssmeden",
   "subnets": {
     "ipv4": [
-      "91.189.200.0/21"
+      "91.189.200.0/21",
+      "91.216.103.0/24"
     ],
     "ipv6": []
   }

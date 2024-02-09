@@ -1,0 +1,12 @@
+{
+  "asn": 21530,
+  "handle": "FISERV-EPF-OMAHA",
+  "description": "Fiserv Solutions, LLC",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2620:10f:4008::/48",
+      "2620:10f:400c::/47"
+    ]
+  }
+}
