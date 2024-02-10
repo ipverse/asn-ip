@@ -4,6 +4,7 @@
   "description": "OJSC Sovcombank",
   "subnets": {
     "ipv4": [
+      "91.217.102.0/23",
       "91.217.180.0/24"
     ],
     "ipv6": []

@@ -1,7 +1,11 @@
 {
   "asn": 53727,
+  "handle": "PENGUIN",
+  "description": "Penguin Networks",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2602:f982::/36"
+    ]
   }
 }

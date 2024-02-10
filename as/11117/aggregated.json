@@ -1,11 +1,13 @@
 {
   "asn": 11117,
-  "handle": "BITABYTE",
+  "handle": "NUYEK",
   "description": "BitaByte LLC",
   "subnets": {
     "ipv4": [
       "23.171.8.0/24"
     ],
-    "ipv6": []
+    "ipv6": [
+      "2602:f9ab::/36"
+    ]
   }
 }

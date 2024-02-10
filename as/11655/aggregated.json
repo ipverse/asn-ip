@@ -4,8 +4,6 @@
   "description": "Saskatoon Internet Exchange Inc",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2607:9440::/32"
-    ]
+    "ipv6": []
   }
 }

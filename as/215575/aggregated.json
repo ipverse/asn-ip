@@ -4,6 +4,8 @@
   "description": "HIGH PING LTD",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a0f:7803:fb21::/48"
+    ]
   }
 }

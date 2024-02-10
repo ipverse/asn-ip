@@ -1,7 +1,11 @@
 {
   "asn": 30006,
+  "handle": "TOP-BUSINESS-INC",
+  "description": "TOP BUSINESS INC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "23.169.56.0/24"
+    ],
     "ipv6": []
   }
 }

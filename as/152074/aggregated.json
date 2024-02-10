@@ -3,9 +3,7 @@
   "handle": "IDNIC-DISKOMINFOSTAPER-PASER-ID",
   "description": "Dinas Komunikasi Informatika Statistik dan Persandian Kabupaten Paser",
   "subnets": {
-    "ipv4": [
-      "43.241.244.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

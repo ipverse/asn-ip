@@ -1,11 +1,12 @@
 {
   "asn": 58172,
-  "handle": "OWC",
+  "handle": "FREEDOMTELECOM",
   "description": "FREEDOM TELECOM LLP",
   "subnets": {
     "ipv4": [
       "91.239.101.0/24",
-      "128.127.100.0/24"
+      "128.127.100.0/24",
+      "128.127.102.0/24"
     ],
     "ipv6": []
   }

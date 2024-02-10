@@ -4,6 +4,7 @@
   "description": "cloudopserve GmbH",
   "subnets": {
     "ipv4": [
+      "109.205.198.0/24",
       "194.104.121.0/24"
     ],
     "ipv6": []

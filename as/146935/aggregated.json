@@ -3,7 +3,9 @@
   "handle": "ZIPPYBRO-IN",
   "description": "ZIPPY BROADBAND PRIVATE LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.170.242.0/24"
+    ],
     "ipv6": []
   }
 }

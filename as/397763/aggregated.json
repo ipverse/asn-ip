@@ -1,0 +1,14 @@
+{
+  "asn": 397763,
+  "handle": "SPACEX-STARLINK-MC",
+  "description": "SpaceX Services, Inc.",
+  "subnets": {
+    "ipv4": [
+      "14.1.94.0/23",
+      "143.131.15.0/24"
+    ],
+    "ipv6": [
+      "2406:2d40:8200::/40"
+    ]
+  }
+}
