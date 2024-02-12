@@ -3,7 +3,10 @@
   "handle": "NETLIFE",
   "description": "FOP Bratinov Oleg Vyacheslavovich",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "89.23.111.0/24",
+      "193.106.236.0/23"
+    ],
     "ipv6": []
   }
 }

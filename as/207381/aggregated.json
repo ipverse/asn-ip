@@ -3,7 +3,9 @@
   "handle": "AFRARASA-2",
   "description": "Cooperative Afra ertebatat-e-sabet-e Rasa Co",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "46.34.160.0/22"
+    ],
     "ipv6": []
   }
 }

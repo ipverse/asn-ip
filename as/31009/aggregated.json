@@ -3,7 +3,9 @@
   "handle": "LEVI9UA",
   "description": "Levi9 Ukraine Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.22.140.0/24"
+    ],
     "ipv6": []
   }
 }
