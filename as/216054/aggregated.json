@@ -4,6 +4,7 @@
   "description": "Taymaz Gostaran Naghshe Almas Co. ( Ltd )",
   "subnets": {
     "ipv4": [
+      "185.83.182.0/24",
       "185.239.3.0/24"
     ],
     "ipv6": []

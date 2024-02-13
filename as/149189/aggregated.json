@@ -3,7 +3,9 @@
   "handle": "SAMAIRA-IN",
   "description": "Samaira Infotech Private Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.178.108.0/23"
+    ],
     "ipv6": []
   }
 }

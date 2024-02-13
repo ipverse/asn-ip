@@ -4,8 +4,7 @@
   "description": "gotcha net internet provider",
   "subnets": {
     "ipv4": [
-      "168.181.244.0/23",
-      "168.181.247.0/24"
+      "168.181.244.0/22"
     ],
     "ipv6": []
   }

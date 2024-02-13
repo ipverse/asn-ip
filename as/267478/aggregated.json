@@ -3,7 +3,11 @@
   "handle": "GIGA-SINAL-TELECOM",
   "description": "GIGA SINAL TELECOM LTDA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "181.191.164.0/22"
+    ],
+    "ipv6": [
+      "2804:421c::/32"
+    ]
   }
 }

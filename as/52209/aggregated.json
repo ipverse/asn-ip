@@ -3,7 +3,9 @@
   "handle": "LORDVPSNLNETWORKNL",
   "description": "Atis Omran Sevin PSJ",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.26.2.0/24"
+    ],
     "ipv6": [
       "2a09:cbc0::/29",
       "2a13:9600::/29",

@@ -4,6 +4,8 @@
   "description": "Freifunk Lippe e.V.",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2001:bf7:1350::/44"
+    ]
   }
 }

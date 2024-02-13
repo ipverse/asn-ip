@@ -4,7 +4,7 @@
   "description": "TV CENTER JSC",
   "subnets": {
     "ipv4": [
-      "185.121.84.0/24"
+      "185.121.84.0/22"
     ],
     "ipv6": []
   }

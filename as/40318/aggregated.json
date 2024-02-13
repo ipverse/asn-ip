@@ -1,7 +1,11 @@
 {
   "asn": 40318,
+  "handle": "LMPG",
+  "description": "Lumenpulse Group",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.22.109.0/24"
+    ],
     "ipv6": []
   }
 }

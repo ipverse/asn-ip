@@ -1,0 +1,11 @@
+{
+  "asn": 216448,
+  "handle": "BANENOR",
+  "description": "Bane NOR SF",
+  "subnets": {
+    "ipv4": [
+      "185.27.25.0/24"
+    ],
+    "ipv6": []
+  }
+}

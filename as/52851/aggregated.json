@@ -3,7 +3,9 @@
   "handle": "WEBSUL-TELECOMUNICACOES",
   "description": "WEBSUL TELECOMUNICACOES LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "143.202.212.0/22"
+    ],
     "ipv6": []
   }
 }
