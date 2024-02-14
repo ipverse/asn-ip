@@ -4,6 +4,7 @@
   "description": "EPAM Systems, Inc",
   "subnets": {
     "ipv4": [
+      "174.128.60.0/24",
       "204.153.55.0/24"
     ],
     "ipv6": []

@@ -1,0 +1,11 @@
+{
+  "asn": 152370,
+  "handle": "IDNIC-JABAR-ID",
+  "description": "PT. Multi Karya",
+  "subnets": {
+    "ipv4": [
+      "103.183.56.0/23"
+    ],
+    "ipv6": []
+  }
+}

@@ -3,7 +3,9 @@
   "handle": "CEU",
   "description": "CEU GmbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.160.113.0/24"
+    ],
     "ipv6": []
   }
 }

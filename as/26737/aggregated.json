@@ -1,0 +1,11 @@
+{
+  "asn": 26737,
+  "handle": "ROUTE-199-TELECOM",
+  "description": "Route 199 Telecom",
+  "subnets": {
+    "ipv4": [
+      "85.209.19.0/24"
+    ],
+    "ipv6": []
+  }
+}

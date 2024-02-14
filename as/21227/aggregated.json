@@ -4,6 +4,7 @@
   "description": "OLiKA Networks",
   "subnets": {
     "ipv4": [
+      "193.22.108.0/24",
       "193.109.86.0/24"
     ],
     "ipv6": [

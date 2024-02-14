@@ -3,7 +3,9 @@
   "handle": "AR-0XPDEV",
   "description": "Aaron Roth",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "94.24.109.0/24"
+    ],
     "ipv6": [
       "2001:67c:2640::/48"
     ]

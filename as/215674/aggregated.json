@@ -1,11 +1,10 @@
 {
   "asn": 215674,
-  "handle": "HIDE-DIGITAL-SECURITY",
+  "handle": "HIDE-ID",
   "description": "Dedi Susanto",
   "subnets": {
     "ipv4": [],
     "ipv6": [
-      "2a06:9f44:f142::/48",
       "2a0a:280:2006::/48"
     ]
   }

@@ -3,7 +3,9 @@
   "handle": "IDNIC-TRUNOJOYO-ID",
   "description": "UNIVERSITAS TRUNOJOYO MADURA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.82.164.0/24"
+    ],
     "ipv6": []
   }
 }

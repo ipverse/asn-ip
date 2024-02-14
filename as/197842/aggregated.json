@@ -3,11 +3,7 @@
   "handle": "HOSTEGRO",
   "description": "Yusuf Baris Sarikaya trading as \u0027HOSTEGRO HOSTING SATIS\u0027",
   "subnets": {
-    "ipv4": [
-      "89.47.113.0/24",
-      "104.234.119.0/24",
-      "184.174.48.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

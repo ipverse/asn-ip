@@ -1,9 +1,11 @@
 {
   "asn": 49993,
-  "handle": "RESERVED",
-  "description": "RIPE NCC ASN block",
+  "handle": "NOVOCOM",
+  "description": "JSC Novocom",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a0f:cdc6:666::/48"
+    ]
   }
 }

@@ -3,7 +3,9 @@
   "handle": "MIKROTEK",
   "description": "LLC MIKROTEK",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "89.255.124.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "MARNET",
   "description": "Macedonian Academic Research Network Skopje",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.162.192.0/22"
+    ],
     "ipv6": []
   }
 }
