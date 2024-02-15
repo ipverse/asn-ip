@@ -3,10 +3,7 @@
   "handle": "SAINSBURYS-NET",
   "description": "Sainsbury\u0027s Supermarkets Ltd",
   "subnets": {
-    "ipv4": [
-      "109.94.128.0/22",
-      "109.94.132.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

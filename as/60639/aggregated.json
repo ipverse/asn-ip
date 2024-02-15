@@ -4,6 +4,8 @@
   "description": "SNA DC Solution LLC",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a07:54c7:7100::/40"
+    ]
   }
 }

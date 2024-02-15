@@ -4,6 +4,7 @@
   "description": "Equinix, Inc.",
   "subnets": {
     "ipv4": [
+      "51.163.116.0/24",
       "142.215.168.0/21"
     ],
     "ipv6": [

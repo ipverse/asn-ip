@@ -3,7 +3,9 @@
   "handle": "NPAW",
   "description": "Nicepeopleatwork, S.L.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.111.209.0/24"
+    ],
     "ipv6": []
   }
 }

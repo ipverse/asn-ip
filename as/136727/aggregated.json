@@ -3,7 +3,9 @@
   "handle": "JTS-AP",
   "description": "Jimat Technology Solution",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.191.76.0/24"
+    ],
     "ipv6": []
   }
 }

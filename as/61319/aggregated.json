@@ -1,9 +1,11 @@
 {
   "asn": 61319,
-  "handle": "RESERVED",
-  "description": "RIPE NCC ASN block",
+  "handle": "POMORSKIE",
+  "description": "Wojewodztwo Pomorskie",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "213.192.119.0/24"
+    ],
     "ipv6": []
   }
 }

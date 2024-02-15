@@ -4,6 +4,7 @@
   "description": "CITGO PETROLEUM CORPORATION",
   "subnets": {
     "ipv4": [
+      "146.146.0.0/24",
       "146.146.5.0/24",
       "146.146.6.0/23"
     ],

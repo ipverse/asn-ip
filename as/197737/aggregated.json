@@ -3,9 +3,7 @@
   "handle": "DEVLOG",
   "description": "Development Log Cloud Limited",
   "subnets": {
-    "ipv4": [
-      "185.21.254.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

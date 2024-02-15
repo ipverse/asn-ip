@@ -4,7 +4,8 @@
   "description": "M R REDES DE TELECOMUNICAOES LTDA",
   "subnets": {
     "ipv4": [
-      "138.94.24.0/22"
+      "138.94.24.0/23",
+      "138.94.27.0/24"
     ],
     "ipv6": [
       "2804:2290::/39",

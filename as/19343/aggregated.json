@@ -4,6 +4,7 @@
   "description": "V2Cloud Solutions Inc.",
   "subnets": {
     "ipv4": [
+      "204.154.13.0/24",
       "216.197.88.0/22"
     ],
     "ipv6": []

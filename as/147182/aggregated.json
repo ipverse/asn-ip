@@ -4,7 +4,8 @@
   "description": "Clearview Networks",
   "subnets": {
     "ipv4": [
-      "103.174.48.0/23"
+      "103.174.48.0/23",
+      "123.253.194.0/23"
     ],
     "ipv6": []
   }

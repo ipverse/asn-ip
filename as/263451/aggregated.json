@@ -4,10 +4,10 @@
   "description": "Geovane Matheus Rossetto \u0026 Cia Ltda",
   "subnets": {
     "ipv4": [
-      "186.219.58.0/24"
+      "186.219.56.0/22"
     ],
     "ipv6": [
-      "2804:1204:4000::/40"
+      "2804:1204::/32"
     ]
   }
 }
