@@ -4,7 +4,7 @@
   "description": "Accra Technical University",
   "subnets": {
     "ipv4": [
-      "102.211.52.0/23"
+      "102.211.52.0/24"
     ],
     "ipv6": []
   }

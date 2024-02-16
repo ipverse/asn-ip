@@ -1,0 +1,11 @@
+{
+  "asn": 152076,
+  "handle": "IDNIC-BAKAMLA-ID",
+  "description": "Badan Keamanan Laut RI",
+  "subnets": {
+    "ipv4": [
+      "202.47.160.0/24"
+    ],
+    "ipv6": []
+  }
+}

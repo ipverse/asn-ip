@@ -3,7 +3,9 @@
   "handle": "KISSGROUP",
   "description": "KISSGROUP SAS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "154.62.100.0/24"
+    ],
     "ipv6": [
       "2a0e:4d40::/29"
     ]

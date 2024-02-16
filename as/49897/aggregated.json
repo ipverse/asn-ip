@@ -3,7 +3,9 @@
   "handle": "ALIANSNET",
   "description": "Alians Telecom Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.93.120.0/22"
+    ],
     "ipv6": []
   }
 }

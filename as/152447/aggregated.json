@@ -1,0 +1,11 @@
+{
+  "asn": 152447,
+  "handle": "MMCL-AP",
+  "description": "My Mandalay Company Limited",
+  "subnets": {
+    "ipv4": [
+      "157.15.52.0/23"
+    ],
+    "ipv6": []
+  }
+}

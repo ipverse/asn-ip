@@ -3,7 +3,9 @@
   "handle": "SPRINT-CHARTER-CONNECTION",
   "description": "Besser Company",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.73.54.0/24"
+    ],
     "ipv6": []
   }
 }

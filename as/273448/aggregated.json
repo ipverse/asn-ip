@@ -1,0 +1,11 @@
+{
+  "asn": 273448,
+  "handle": "ID-NET-ACESSO",
+  "description": "ID NET ACESSO A REDE DE COMUNICAES LTDA",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2804:8ed0::/32"
+    ]
+  }
+}

@@ -1,13 +1,14 @@
 {
   "asn": 200510,
-  "handle": "AS20473",
+  "handle": "ASFL",
   "description": "Kiwazo CommV",
   "subnets": {
     "ipv4": [
       "23.144.152.0/24"
     ],
     "ipv6": [
-      "2602:2f2::/48"
+      "2602:2f2::/48",
+      "2602:2f2:53::/48"
     ]
   }
 }

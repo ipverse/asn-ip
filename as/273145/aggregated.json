@@ -1,0 +1,11 @@
+{
+  "asn": 273145,
+  "handle": "GRUPO-SERVINET",
+  "description": "GRUPO SERVINET S.A.S.",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2803:ec50::/32"
+    ]
+  }
+}

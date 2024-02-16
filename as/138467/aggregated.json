@@ -3,9 +3,7 @@
   "handle": "BBNPL-AP",
   "description": "Blue Bird Networks",
   "subnets": {
-    "ipv4": [
-      "157.10.7.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

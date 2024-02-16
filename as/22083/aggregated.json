@@ -4,7 +4,6 @@
   "description": "Memorial Health Care System",
   "subnets": {
     "ipv4": [
-      "65.169.76.0/24",
       "205.152.238.0/24"
     ],
     "ipv6": []

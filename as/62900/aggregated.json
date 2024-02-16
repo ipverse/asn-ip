@@ -1,9 +1,11 @@
 {
   "asn": 62900,
-  "handle": "COLOMX-LLC",
-  "description": "ColoMX LLC",
+  "handle": "KERFUFFLE",
+  "description": "Kerfuffle, LLC",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2602:2d5:f0::/47"
+    ]
   }
 }
