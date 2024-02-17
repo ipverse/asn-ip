@@ -3,7 +3,9 @@
   "handle": "SPEED1-IN",
   "description": "SPEED HEX TELE COMMUNICATIONS PVT LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "157.10.92.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,10 @@
   "handle": "DTAPL-AP",
   "description": "DXC Technology Australia Pty Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "168.87.80.0/22",
+      "168.87.88.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "SPEKTAR-AD",
   "description": "Spektar AD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "89.215.213.0/24"
+    ],
     "ipv6": []
   }
 }

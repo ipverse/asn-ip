@@ -3,9 +3,7 @@
   "handle": "VAGNET-PROVEDOR-INTERNET",
   "description": "Vagnet Provedor de Internet",
   "subnets": {
-    "ipv4": [
-      "45.7.218.0/24"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2804:86d8::/32"
     ]

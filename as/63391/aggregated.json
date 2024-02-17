@@ -4,7 +4,6 @@
   "description": "MailChimp",
   "subnets": {
     "ipv4": [
-      "199.26.164.0/24",
       "199.33.145.0/24"
     ],
     "ipv6": []

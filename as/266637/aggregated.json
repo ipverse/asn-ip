@@ -3,7 +3,9 @@
   "handle": "AGENCIA-TECNOLOGIA-INFORMACAO",
   "description": "AGENCIA DE TECNOLOGIA DA INFORMACAO",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "128.201.16.0/23"
+    ],
     "ipv6": []
   }
 }

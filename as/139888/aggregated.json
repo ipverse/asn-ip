@@ -4,6 +4,8 @@
   "description": "Time Network",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2404:f4c0:fc80::/48"
+    ]
   }
 }

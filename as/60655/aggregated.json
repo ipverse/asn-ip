@@ -1,9 +1,11 @@
 {
   "asn": 60655,
-  "handle": "RESERVED",
-  "description": "RIPE NCC ASN block",
+  "handle": "INTEGRAL",
+  "description": "Integral LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.91.163.0/24"
+    ],
     "ipv6": []
   }
 }
