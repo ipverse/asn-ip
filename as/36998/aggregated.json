@@ -3,7 +3,9 @@
   "handle": "SDN-MOBITEL",
   "description": "Sudanese Mobile Telephone (ZAIN) Co Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "41.95.200.0/24"
+    ],
     "ipv6": []
   }
 }

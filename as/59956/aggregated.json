@@ -4,7 +4,6 @@
   "description": "PP Lurenet",
   "subnets": {
     "ipv4": [
-      "91.221.190.0/23",
       "176.117.88.0/21"
     ],
     "ipv6": []

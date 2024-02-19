@@ -1,0 +1,11 @@
+{
+  "asn": 215484,
+  "handle": "HOMEPL-HQ",
+  "description": "home.pl S.A.",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a02:25af:dead::/48"
+    ]
+  }
+}
