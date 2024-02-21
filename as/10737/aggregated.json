@@ -4,6 +4,7 @@
   "description": "CellularONE",
   "subnets": {
     "ipv4": [
+      "23.171.200.0/24",
       "204.145.185.0/24"
     ],
     "ipv6": []

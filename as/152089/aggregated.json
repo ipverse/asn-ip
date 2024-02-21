@@ -1,0 +1,11 @@
+{
+  "asn": 152089,
+  "handle": "IDNIC-SINGKINET-ID",
+  "description": "PT Singki Media Telekomunikasi",
+  "subnets": {
+    "ipv4": [
+      "157.10.156.0/24"
+    ],
+    "ipv6": []
+  }
+}

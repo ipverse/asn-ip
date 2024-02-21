@@ -4,7 +4,6 @@
   "description": "IP Port LLC",
   "subnets": {
     "ipv4": [
-      "91.210.144.0/22",
       "109.122.56.0/21"
     ],
     "ipv6": []

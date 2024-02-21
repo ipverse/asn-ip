@@ -3,8 +3,11 @@
   "handle": "BUTLER",
   "description": "BUTLER CHAT O.E.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "88.80.140.0/24"
+    ],
     "ipv6": [
+      "2001:67c:df8::/48",
       "2a0e:97c0:8e0::/48"
     ]
   }

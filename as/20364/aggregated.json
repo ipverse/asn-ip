@@ -1,0 +1,11 @@
+{
+  "asn": 20364,
+  "handle": "FIREFLY",
+  "description": "Firefly Network LLC",
+  "subnets": {
+    "ipv4": [
+      "199.193.60.0/24"
+    ],
+    "ipv6": []
+  }
+}

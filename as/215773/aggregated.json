@@ -1,0 +1,11 @@
+{
+  "asn": 215773,
+  "handle": "TXRX",
+  "description": "TX RX SHPK",
+  "subnets": {
+    "ipv4": [
+      "212.32.43.0/24"
+    ],
+    "ipv6": []
+  }
+}

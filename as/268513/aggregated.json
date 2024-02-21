@@ -4,6 +4,8 @@
   "description": "RFC DE SOUZA LTDA",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2804:525c:9080::/41"
+    ]
   }
 }

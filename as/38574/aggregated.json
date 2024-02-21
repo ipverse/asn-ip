@@ -4,7 +4,7 @@
   "description": "Leisure and Cultural Services Department",
   "subnets": {
     "ipv4": [
-      "103.59.90.0/24",
+      "103.59.90.0/23",
       "203.31.32.0/24"
     ],
     "ipv6": [

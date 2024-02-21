@@ -4,8 +4,6 @@
   "description": "Vianet Telecomunicaes e Internet",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2804:6284::/32"
-    ]
+    "ipv6": []
   }
 }

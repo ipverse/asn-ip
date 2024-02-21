@@ -3,7 +3,9 @@
   "handle": "FIBERX",
   "description": "FiberX Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.158.208.0/21"
+    ],
     "ipv6": []
   }
 }

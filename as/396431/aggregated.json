@@ -4,6 +4,7 @@
   "description": "T38Fax Incorporated",
   "subnets": {
     "ipv4": [
+      "8.8.0.0/24",
       "8.20.91.0/24"
     ],
     "ipv6": [

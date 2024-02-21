@@ -1,0 +1,12 @@
+{
+  "asn": 215466,
+  "handle": "BENEDIKT-RIEDEL",
+  "description": "Benedikt Riedel",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a13:7706:1::/48",
+      "2a13:7706:6666::/48"
+    ]
+  }
+}

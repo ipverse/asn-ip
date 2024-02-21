@@ -1,0 +1,11 @@
+{
+  "asn": 400930,
+  "handle": "SIGI",
+  "description": "Sigi World",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2602:f975::/42"
+    ]
+  }
+}
