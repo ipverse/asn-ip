@@ -1,0 +1,11 @@
+{
+  "asn": 60101,
+  "handle": "DCB",
+  "description": "Dushanbe City Bank CJSC",
+  "subnets": {
+    "ipv4": [
+      "146.19.183.0/24"
+    ],
+    "ipv6": []
+  }
+}

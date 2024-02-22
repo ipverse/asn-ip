@@ -4,8 +4,7 @@
   "description": "Gerantina Zylo trading as FASTNET",
   "subnets": {
     "ipv4": [
-      "185.221.253.0/24",
-      "185.221.254.0/23"
+      "185.221.252.0/22"
     ],
     "ipv6": []
   }

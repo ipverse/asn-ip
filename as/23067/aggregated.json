@@ -4,7 +4,9 @@
   "description": "Orange County Network Operations",
   "subnets": {
     "ipv4": [
-      "192.234.90.0/24"
+      "192.234.90.0/24",
+      "209.26.253.0/24",
+      "209.26.254.0/24"
     ],
     "ipv6": []
   }

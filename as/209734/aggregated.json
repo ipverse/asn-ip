@@ -3,7 +3,9 @@
   "handle": "RI-M",
   "description": "RusInfo-M LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "77.87.168.0/21"
+    ],
     "ipv6": []
   }
 }

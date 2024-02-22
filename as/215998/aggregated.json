@@ -1,9 +1,12 @@
 {
   "asn": 215998,
-  "handle": "HOST-PYLOT",
+  "handle": "SKYSERVERHOST",
   "description": "Morteza Eskandari",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "77.242.153.0/24",
+      "77.242.155.0/24"
+    ],
     "ipv6": []
   }
 }

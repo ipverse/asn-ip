@@ -3,7 +3,9 @@
   "handle": "MEVSPACE-PROJECTS",
   "description": "MEVSPACE sp. z o.o.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "149.50.120.0/22"
+    ],
     "ipv6": []
   }
 }

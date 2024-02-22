@@ -3,7 +3,11 @@
   "handle": "JTEL-IN",
   "description": "Johnson Telemarketers (P) LTD",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "103.78.236.0/22"
+    ],
+    "ipv6": [
+      "2407:8340::/32"
+    ]
   }
 }

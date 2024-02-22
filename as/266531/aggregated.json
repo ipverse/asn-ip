@@ -3,7 +3,11 @@
   "handle": "GIGALINK-INFORMATICA-INTERNET",
   "description": "GIGALINK INFORMATICA E INTERNET LTDA ME",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.65.216.0/22"
+    ],
+    "ipv6": [
+      "2804:3d70::/32"
+    ]
   }
 }

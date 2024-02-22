@@ -3,10 +3,7 @@
   "handle": "MIRPURTECH-AP",
   "description": "Mirpur Tech",
   "subnets": {
-    "ipv4": [
-      "103.69.77.0/24",
-      "103.139.178.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }
