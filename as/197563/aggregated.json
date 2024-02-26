@@ -4,6 +4,8 @@
   "description": "GLOBALNET UA LLC",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a03:5f80:8::/48"
+    ]
   }
 }
