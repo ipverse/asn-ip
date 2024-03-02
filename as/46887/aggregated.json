@@ -1,7 +1,7 @@
 {
   "asn": 46887,
-  "handle": "LIGHTOWER",
-  "description": "Lightower Fiber Networks I, LLC",
+  "handle": "CROWNCASTLE",
+  "description": "Crown Castle Fiber LLC",
   "subnets": {
     "ipv4": [
       "8.11.166.0/24",
@@ -202,8 +202,7 @@
       "209.148.37.0/24",
       "209.148.44.0/24",
       "209.148.46.0/24",
-      "209.148.48.0/22",
-      "209.148.54.0/23",
+      "209.148.48.0/21",
       "209.148.56.0/24",
       "209.148.58.0/23",
       "209.148.60.0/22",

@@ -3,7 +3,9 @@
   "handle": "LANSOFT",
   "description": "LANSOFT DATA SRL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "139.28.8.0/22"
+    ],
     "ipv6": []
   }
 }

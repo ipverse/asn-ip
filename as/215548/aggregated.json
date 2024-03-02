@@ -3,9 +3,7 @@
   "handle": "CATTO-NET",
   "description": "Catto Enterprises LTD",
   "subnets": {
-    "ipv4": [
-      "82.153.1.0/24"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2a12:bec0:6a0::/44"
     ]

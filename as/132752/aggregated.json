@@ -3,7 +3,9 @@
   "handle": "PROSTAR-IN",
   "description": "PROSTAR TECHNOLOGIES PRIVATE LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.214.162.0/23"
+    ],
     "ipv6": []
   }
 }

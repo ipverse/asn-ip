@@ -1,9 +1,11 @@
 {
   "asn": 395470,
-  "handle": "XAPTUM",
-  "description": "Xaptum Corporation",
+  "handle": "HARVEYS-TECH",
+  "description": "Harvey\u0027s Tech Services",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "149.88.225.0/24"
+    ],
     "ipv6": []
   }
 }

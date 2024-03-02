@@ -1,7 +1,11 @@
 {
   "asn": 33223,
+  "handle": "CSPT",
+  "description": "CSPT",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "154.217.140.0/22"
+    ],
     "ipv6": []
   }
 }

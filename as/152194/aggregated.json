@@ -3,7 +3,9 @@
   "handle": "CTGSERVERLIMITED-AP",
   "description": "CTG Server Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "134.122.150.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,12 +3,7 @@
   "handle": "MINISTRIO-PUBLICO-BAHIA",
   "description": "Ministrio Publico do Estado da Bahia",
   "subnets": {
-    "ipv4": [
-      "177.23.80.0/21",
-      "177.136.118.0/24",
-      "177.136.127.0/24",
-      "201.55.192.0/22"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }
