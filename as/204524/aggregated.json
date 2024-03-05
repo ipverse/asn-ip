@@ -3,7 +3,9 @@
   "handle": "GE-IO",
   "description": "Scientific-Technical Association Interoptica LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.99.92.0/22"
+    ],
     "ipv6": []
   }
 }

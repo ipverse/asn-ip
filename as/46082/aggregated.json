@@ -1,9 +1,11 @@
 {
   "asn": 46082,
-  "handle": "SAAS-SDWANET-LLC",
-  "description": "SDWANET LLC",
+  "handle": "VOLTAGEPARK",
+  "description": "Voltage Park, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "147.185.40.0/23"
+    ],
     "ipv6": []
   }
 }

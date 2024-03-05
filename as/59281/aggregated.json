@@ -1,0 +1,11 @@
+{
+  "asn": 59281,
+  "handle": "SKINET-ID",
+  "description": "PT Sumber Koneksi Indonesia",
+  "subnets": {
+    "ipv4": [
+      "103.10.58.0/23"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asn": 200260,
+  "handle": "DEBUGGED-NETWORK",
+  "description": "Debugged Ltd",
+  "subnets": {
+    "ipv4": [
+      "45.92.41.0/24"
+    ],
+    "ipv6": []
+  }
+}

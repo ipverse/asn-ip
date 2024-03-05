@@ -1,9 +1,11 @@
 {
   "asn": 396343,
-  "handle": "BLURB",
+  "handle": "PRTNET",
   "description": "Blurb, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "64.30.155.0/24"
+    ],
     "ipv6": []
   }
 }

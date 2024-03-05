@@ -3,7 +3,9 @@
   "handle": "CENTRO-B-P-EM-S-P-EVENTOS",
   "description": "Centro B. de P. em A. e S. e de P de Eventos",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "191.36.236.0/24"
+    ],
     "ipv6": []
   }
 }

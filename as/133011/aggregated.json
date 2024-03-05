@@ -4,6 +4,7 @@
   "description": "Mobiwalkers",
   "subnets": {
     "ipv4": [
+      "103.253.169.0/24",
       "103.253.171.0/24"
     ],
     "ipv6": []

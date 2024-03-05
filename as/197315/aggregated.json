@@ -4,7 +4,8 @@
   "description": "Rostovskaya proizvodstvennaya kompaniya Ltd.",
   "subnets": {
     "ipv4": [
-      "91.245.64.0/21",
+      "91.245.64.0/23",
+      "91.245.68.0/22",
       "195.162.78.0/23"
     ],
     "ipv6": []

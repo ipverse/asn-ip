@@ -4,7 +4,8 @@
   "description": "FIBRAVELOZ PROVEDOR DE INTERNET LTDA",
   "subnets": {
     "ipv4": [
-      "201.216.124.0/22"
+      "201.216.124.0/23",
+      "201.216.126.0/24"
     ],
     "ipv6": [
       "2804:69fc:100::/40",

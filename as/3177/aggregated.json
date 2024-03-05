@@ -1,11 +1,9 @@
 {
   "asn": 3177,
-  "handle": "WEB-GOSTARAN-BANDAR-COMPANY",
-  "description": "Visparad Web Hosting Service LLC",
+  "handle": "RESERVED",
+  "description": "RIPE NCC ASN block",
   "subnets": {
-    "ipv4": [
-      "103.215.223.0/24"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2a0f:c040::/29"
     ]

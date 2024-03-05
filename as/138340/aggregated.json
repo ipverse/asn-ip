@@ -4,7 +4,8 @@
   "description": "ESURFING TECHNOLOGY CO.LTD",
   "subnets": {
     "ipv4": [
-      "103.130.140.0/22"
+      "103.130.140.0/24",
+      "103.130.143.0/24"
     ],
     "ipv6": []
   }

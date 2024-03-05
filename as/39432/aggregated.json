@@ -1,0 +1,13 @@
+{
+  "asn": 39432,
+  "handle": "SAITIS-NETWORK-EVERYWHERE",
+  "description": "Saitis Network, N.Desir",
+  "subnets": {
+    "ipv4": [
+      "62.220.149.0/24"
+    ],
+    "ipv6": [
+      "2001:78a::/40"
+    ]
+  }
+}
