@@ -1,9 +1,13 @@
 {
   "asn": 398741,
-  "handle": "AP-XNET",
-  "description": "APXNet, Inc",
+  "handle": "VERTEXLINK-01",
+  "description": "VertexLink Inc",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "23.172.216.0/24"
+    ],
+    "ipv6": [
+      "2602:f959::/40"
+    ]
   }
 }

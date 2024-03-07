@@ -1,0 +1,11 @@
+{
+  "asn": 27010,
+  "handle": "MQNET",
+  "description": "MoeQing",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2602:f9f6:430::/44"
+    ]
+  }
+}

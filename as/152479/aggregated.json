@@ -1,0 +1,12 @@
+{
+  "asn": 152479,
+  "handle": "DSACL-AP",
+  "description": "DELTA SOFTWARE AND COMMUNICATION LIMITED",
+  "subnets": {
+    "ipv4": [
+      "103.224.55.0/24",
+      "203.31.169.0/24"
+    ],
+    "ipv6": []
+  }
+}

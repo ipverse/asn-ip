@@ -3,7 +3,12 @@
   "handle": "FIREFLY",
   "description": "Firefly Network LLC",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "23.163.168.0/24",
+      "199.193.60.0/24"
+    ],
+    "ipv6": [
+      "2602:fa14::/36"
+    ]
   }
 }

@@ -3,7 +3,9 @@
   "handle": "ILUMINET-INTERNET",
   "description": "ILUMINET INTERNET",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "131.72.147.0/24"
+    ],
     "ipv6": [
       "2804:83b0::/32"
     ]

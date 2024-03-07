@@ -1,0 +1,11 @@
+{
+  "asn": 152401,
+  "handle": "IDNIC-AMD-ID",
+  "description": "PT Airlink Media Data",
+  "subnets": {
+    "ipv4": [
+      "157.15.118.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asn": 27317,
+  "handle": "ROXXON-NETWORKS-01",
+  "description": "Roxxon Corporation",
+  "subnets": {
+    "ipv4": [
+      "104.234.226.0/24"
+    ],
+    "ipv6": []
+  }
+}

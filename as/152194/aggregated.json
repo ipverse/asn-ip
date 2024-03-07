@@ -4,6 +4,7 @@
   "description": "CTG Server Limited",
   "subnets": {
     "ipv4": [
+      "36.50.221.0/24",
       "134.122.150.0/24"
     ],
     "ipv6": []

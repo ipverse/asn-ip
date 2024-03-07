@@ -4,7 +4,8 @@
   "description": "CURCI DOMINGO ALEJANDRO",
   "subnets": {
     "ipv4": [
-      "45.165.112.0/22"
+      "45.165.112.0/24",
+      "45.165.114.0/23"
     ],
     "ipv6": []
   }

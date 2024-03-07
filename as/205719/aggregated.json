@@ -3,9 +3,7 @@
   "handle": "RUBEN-PERSONAL",
   "description": "Ruben Vandepitte",
   "subnets": {
-    "ipv4": [
-      "194.48.200.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

@@ -3,7 +3,11 @@
   "handle": "VICKERY-INTERNET",
   "description": "Vickery IT",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "23.169.104.0/24"
+    ],
+    "ipv6": [
+      "2602:fabe::/40"
+    ]
   }
 }
