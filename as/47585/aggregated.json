@@ -4,6 +4,8 @@
   "description": "Yigit Hosting Bilisim E-Ticaret Gida Sanayi Ticaret Limited Sirketi",
   "subnets": {
     "ipv4": [
+      "5.180.195.0/24",
+      "45.135.181.0/24",
       "45.151.143.0/24",
       "62.76.230.0/24",
       "78.135.111.0/24",

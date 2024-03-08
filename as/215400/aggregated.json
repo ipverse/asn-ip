@@ -3,7 +3,9 @@
   "handle": "FASTLAYER",
   "description": "Kaan Kalayci trading as FastLayer",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "213.225.236.0/24"
+    ],
     "ipv6": [
       "2a12:de40:27::/48"
     ]

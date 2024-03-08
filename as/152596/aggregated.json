@@ -1,0 +1,11 @@
+{
+  "asn": 152596,
+  "handle": "RBL-AP",
+  "description": "Rodney Broadband Limited",
+  "subnets": {
+    "ipv4": [
+      "103.125.220.0/23"
+    ],
+    "ipv6": []
+  }
+}

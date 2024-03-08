@@ -1,9 +1,11 @@
 {
   "asn": 39141,
-  "handle": "SOPDE",
-  "description": "TURISMO Y PLANIFICACION COSTA DEL SOL SL",
+  "handle": "DIPUTACION-DE-MALAGA",
+  "description": "Excma. Diputacion Provincial de Malaga",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.109.96.0/21"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,10 @@
   "handle": "FNC",
   "description": "FNK LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "94.242.0.0/19",
+      "94.242.32.0/20"
+    ],
     "ipv6": [
       "2a00:1838:aaaa::/48",
       "2a00:1838:cccc::/48"

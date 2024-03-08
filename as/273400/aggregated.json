@@ -3,7 +3,9 @@
   "handle": "MUGO-TELECOMUNICACOES",
   "description": "MUGO TELECOMUNICACOES LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.172.174.0/23"
+    ],
     "ipv6": [
       "2804:8e10::/32"
     ]

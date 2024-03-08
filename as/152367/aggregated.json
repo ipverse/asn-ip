@@ -1,0 +1,11 @@
+{
+  "asn": 152367,
+  "handle": "IDNIC-BOXNETMEDIA-ID",
+  "description": "PT Box Net Media",
+  "subnets": {
+    "ipv4": [
+      "157.15.78.0/23"
+    ],
+    "ipv6": []
+  }
+}
