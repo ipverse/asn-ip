@@ -4,7 +4,6 @@
   "description": "Exchange Bank",
   "subnets": {
     "ipv4": [
-      "199.83.180.0/24",
       "199.83.182.0/24"
     ],
     "ipv6": []

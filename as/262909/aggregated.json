@@ -4,6 +4,7 @@
   "description": "JK TELECOMUNICACOES LTDA",
   "subnets": {
     "ipv4": [
+      "170.84.90.0/24",
       "177.36.48.0/20"
     ],
     "ipv6": [

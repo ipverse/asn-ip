@@ -1,0 +1,11 @@
+{
+  "asn": 215345,
+  "handle": "NOTABENE",
+  "description": "Nota Bene d.o.o.",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2001:67c:88::/48"
+    ]
+  }
+}

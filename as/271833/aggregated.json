@@ -1,9 +1,11 @@
 {
   "asn": 271833,
-  "handle": "MUNICIPIO-DE-MEDELLIN",
+  "handle": "MUNICIPIO-MEDELLIN",
   "description": "MUNICIPIO DE MEDELLIN",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2801:1d6::/40"
+    ]
   }
 }

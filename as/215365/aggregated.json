@@ -3,7 +3,9 @@
   "handle": "THREATOFF",
   "description": "Tom Gewiese",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "2.56.247.0/24"
+    ],
     "ipv6": [
       "2a14:7c0:1000::/38"
     ]

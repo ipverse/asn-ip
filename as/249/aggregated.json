@@ -1,0 +1,11 @@
+{
+  "asn": 249,
+  "handle": "PACKETSTAR",
+  "description": "European Network",
+  "subnets": {
+    "ipv4": [
+      "185.116.108.0/24"
+    ],
+    "ipv6": []
+  }
+}
