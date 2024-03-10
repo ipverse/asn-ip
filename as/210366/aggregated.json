@@ -4,7 +4,8 @@
   "description": "Wargaming Group Limited",
   "subnets": {
     "ipv4": [
-      "185.12.213.0/24"
+      "185.12.213.0/24",
+      "185.12.214.0/24"
     ],
     "ipv6": []
   }

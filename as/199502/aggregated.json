@@ -4,6 +4,7 @@
   "description": "OOO WestCall Ltd.",
   "subnets": {
     "ipv4": [
+      "185.13.117.0/24",
       "185.13.118.0/23"
     ],
     "ipv6": []

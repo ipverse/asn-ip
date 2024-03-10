@@ -1,9 +1,11 @@
 {
   "asn": 26933,
-  "handle": "CENTENNIAL-DATA-CENTER",
+  "handle": "DIRECTV-SDWAN-LABC",
   "description": "DIRECTV, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "147.21.176.0/24"
+    ],
     "ipv6": []
   }
 }

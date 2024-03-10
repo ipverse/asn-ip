@@ -3,9 +3,7 @@
   "handle": "FOMENTO-ECONMICO-MEXICANO",
   "description": "Fomento Econmico Mexicano S. A. de C. V.",
   "subnets": {
-    "ipv4": [
-      "200.13.40.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }
