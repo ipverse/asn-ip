@@ -4,6 +4,7 @@
   "description": "Telkoturk Iletisim Hizmetleri A.S.",
   "subnets": {
     "ipv4": [
+      "194.48.95.0/24",
       "213.238.166.0/24",
       "213.238.184.0/24",
       "213.238.187.0/24",

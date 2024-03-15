@@ -4,7 +4,7 @@
   "description": "Citrix Systems, Inc",
   "subnets": {
     "ipv4": [
-      "185.36.20.0/23"
+      "185.36.20.0/24"
     ],
     "ipv6": []
   }

@@ -4,9 +4,6 @@
   "description": "Putu Paundrayana Waringin",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2a0a:280:2b00::/40",
-      "2a13:df85:e800::/38"
-    ]
+    "ipv6": []
   }
 }

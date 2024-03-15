@@ -4,6 +4,8 @@
   "description": "CardGate.net Pty Ltd",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2404:8e80:8::/48"
+    ]
   }
 }

@@ -4,6 +4,7 @@
   "description": "Louvetel Comunicao Comercial Ltda ME",
   "subnets": {
     "ipv4": [
+      "143.0.46.0/23",
       "200.106.148.0/22"
     ],
     "ipv6": [

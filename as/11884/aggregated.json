@@ -3,7 +3,9 @@
   "handle": "IWPBGP",
   "description": "Insteel Industries, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "96.10.201.0/24"
+    ],
     "ipv6": []
   }
 }

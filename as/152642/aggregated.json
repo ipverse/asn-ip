@@ -1,0 +1,11 @@
+{
+  "asn": 152642,
+  "handle": "TILAKPURNETWORK-AP",
+  "description": "Tilakpur Network",
+  "subnets": {
+    "ipv4": [
+      "202.37.217.0/24"
+    ],
+    "ipv6": []
+  }
+}

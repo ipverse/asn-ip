@@ -4,8 +4,6 @@
   "description": "THE UNIVERSITY OF CAPE COAST",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2001:43f8:dd0::/48"
-    ]
+    "ipv6": []
   }
 }
