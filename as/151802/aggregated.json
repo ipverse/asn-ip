@@ -4,14 +4,8 @@
   "description": "FIND SOLUTION AND SERVICES CO., LTD.",
   "subnets": {
     "ipv4": [
-      "103.226.26.0/23"
+      "103.226.27.0/24"
     ],
-    "ipv6": [
-      "2401:ce0:a100::/40",
-      "2401:ce0:a200::/40",
-      "2401:ce0:beef::/48",
-      "2401:ce0:face::/48",
-      "2401:ce0:fade::/48"
-    ]
+    "ipv6": []
   }
 }

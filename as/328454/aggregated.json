@@ -3,7 +3,9 @@
   "handle": "BANK-OF-GHANA",
   "description": "Bank of Ghana",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "102.69.246.0/24"
+    ],
     "ipv6": []
   }
 }

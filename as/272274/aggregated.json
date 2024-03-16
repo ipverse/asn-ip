@@ -4,6 +4,7 @@
   "description": "RB TELECOM",
   "subnets": {
     "ipv4": [
+      "45.236.19.0/24",
       "179.125.104.0/24"
     ],
     "ipv6": [

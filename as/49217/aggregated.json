@@ -4,6 +4,7 @@
   "description": "HOSTYPE LLC",
   "subnets": {
     "ipv4": [
+      "45.151.3.0/24",
       "103.197.87.0/24"
     ],
     "ipv6": []

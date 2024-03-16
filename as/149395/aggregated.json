@@ -3,7 +3,9 @@
   "handle": "IDNIC-RSUTIDAR-ID",
   "description": "RSUD Tidar Magelang",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.181.246.0/23"
+    ],
     "ipv6": []
   }
 }

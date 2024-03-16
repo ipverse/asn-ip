@@ -1,0 +1,12 @@
+{
+  "asn": 152486,
+  "handle": "NTSHIELD-IN",
+  "description": "Net Shield Infotech",
+  "subnets": {
+    "ipv4": [
+      "103.102.147.0/24",
+      "103.103.55.0/24"
+    ],
+    "ipv6": []
+  }
+}

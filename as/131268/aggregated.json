@@ -4,7 +4,8 @@
   "description": "Sunshine Coast Regional Council",
   "subnets": {
     "ipv4": [
-      "103.35.92.0/22",
+      "103.35.93.0/24",
+      "103.35.94.0/23",
       "202.4.188.0/24"
     ],
     "ipv6": []

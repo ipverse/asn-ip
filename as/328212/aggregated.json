@@ -3,7 +3,9 @@
   "handle": "THE-UNIVERSITY-OF-CAPE-COAST",
   "description": "THE UNIVERSITY OF CAPE COAST",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "156.38.96.0/19"
+    ],
     "ipv6": []
   }
 }

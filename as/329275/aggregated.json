@@ -3,7 +3,9 @@
   "handle": "FBNQUEST-CAPITAL-LIMITED",
   "description": "FBNQuest Capital Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "102.212.206.0/24"
+    ],
     "ipv6": []
   }
 }

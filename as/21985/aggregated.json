@@ -4,6 +4,7 @@
   "description": "Masco Contractor Services",
   "subnets": {
     "ipv4": [
+      "66.194.193.0/24",
       "209.136.13.0/24"
     ],
     "ipv6": []

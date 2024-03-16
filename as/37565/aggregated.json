@@ -4,8 +4,7 @@
   "description": "NIGERIAN STOCK EXCHANGE",
   "subnets": {
     "ipv4": [
-      "196.29.44.0/24",
-      "196.29.46.0/24"
+      "196.29.44.0/22"
     ],
     "ipv6": []
   }

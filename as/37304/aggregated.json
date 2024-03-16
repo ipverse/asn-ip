@@ -3,7 +3,9 @@
   "handle": "TULLOW",
   "description": "Tullow Ghana Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "196.43.206.0/23"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "CLEARSKY-SYSTEMS-INC",
   "description": "FIELD COMMUNICATIONS, INC.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "12.233.2.0/24"
+    ],
     "ipv6": []
   }
 }

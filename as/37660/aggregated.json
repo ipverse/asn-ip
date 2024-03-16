@@ -3,7 +3,9 @@
   "handle": "PREMIERLOTTO",
   "description": "Premier Lotto Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "196.11.104.0/24"
+    ],
     "ipv6": []
   }
 }
