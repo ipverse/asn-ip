@@ -1,0 +1,12 @@
+{
+  "asn": 137564,
+  "handle": "KUDOSHUB-AP",
+  "description": "KUDOSHUB TECHNOLOGIES PRIVATE LIMITED",
+  "subnets": {
+    "ipv4": [
+      "103.113.160.0/22",
+      "157.254.128.0/22"
+    ],
+    "ipv6": []
+  }
+}

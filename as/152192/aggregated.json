@@ -3,9 +3,7 @@
   "handle": "GMTECH-AP",
   "description": "GM Tech",
   "subnets": {
-    "ipv4": [
-      "36.50.238.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "TR-GROUPAMA",
   "description": "AXA SIGORTA A.S.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.76.196.0/24"
+    ],
     "ipv6": []
   }
 }

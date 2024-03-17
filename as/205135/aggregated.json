@@ -3,7 +3,9 @@
   "handle": "LLC12BIT",
   "description": "12 bit LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.229.67.0/24"
+    ],
     "ipv6": []
   }
 }

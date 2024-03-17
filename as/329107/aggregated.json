@@ -3,7 +3,9 @@
   "handle": "TS8",
   "description": "TECHNODATA SOLUTIONS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "102.215.93.0/24"
+    ],
     "ipv6": []
   }
 }
