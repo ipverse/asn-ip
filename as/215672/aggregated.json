@@ -4,10 +4,12 @@
   "description": "MoeChuang Network Limited",
   "subnets": {
     "ipv4": [
+      "45.158.59.0/24",
       "62.72.188.0/24"
     ],
     "ipv6": [
       "2a13:df80:7c00::/44",
+      "2a13:df80:7c80::/44",
       "2a13:df80:7cf0::/44"
     ]
   }

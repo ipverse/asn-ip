@@ -1,0 +1,11 @@
+{
+  "asn": 23121,
+  "handle": "NISX",
+  "description": "Nisx Inc.",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2602:2e0:1::/48"
+    ]
+  }
+}

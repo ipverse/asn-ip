@@ -4,7 +4,6 @@
   "description": "Trillium Host LLC",
   "subnets": {
     "ipv4": [
-      "45.95.12.0/24",
       "185.186.65.0/24"
     ],
     "ipv6": [

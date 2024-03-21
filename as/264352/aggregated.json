@@ -3,7 +3,11 @@
   "handle": "WEBBY-SUL-INTERNET",
   "description": "WEBBY SUL INTERNET LTDA - BIG PROVEDORES",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "131.108.228.0/22"
+    ],
+    "ipv6": [
+      "2804:1d2c::/32"
+    ]
   }
 }

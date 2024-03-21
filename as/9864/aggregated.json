@@ -1,0 +1,11 @@
+{
+  "asn": 9864,
+  "handle": "KSDNET",
+  "description": "Korea Securities Depository",
+  "subnets": {
+    "ipv4": [
+      "58.102.135.0/24"
+    ],
+    "ipv6": []
+  }
+}

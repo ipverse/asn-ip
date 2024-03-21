@@ -3,7 +3,9 @@
   "handle": "CLICKHOST",
   "description": "Julliot Enzo trading as Click-Host",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "5.181.176.0/24"
+    ],
     "ipv6": []
   }
 }

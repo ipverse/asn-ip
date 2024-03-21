@@ -3,7 +3,9 @@
   "handle": "VRANBIT",
   "description": "Vranbit SRL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.105.10.0/24"
+    ],
     "ipv6": [
       "2602:fcf6:f::/48",
       "2a14:7581:3101::/48"

@@ -1,9 +1,11 @@
 {
   "asn": 58026,
-  "handle": "RESERVED",
-  "description": "RIPE NCC ASN block",
+  "handle": "JIUFUNETWORK",
+  "description": "Xiamen Jiufu Network Co., Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "104.167.18.0/23"
+    ],
     "ipv6": []
   }
 }

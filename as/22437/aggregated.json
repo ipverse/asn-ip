@@ -1,0 +1,11 @@
+{
+  "asn": 22437,
+  "handle": "CORESITE-SPARE",
+  "description": "CoreSite",
+  "subnets": {
+    "ipv4": [
+      "206.123.24.0/24"
+    ],
+    "ipv6": []
+  }
+}
