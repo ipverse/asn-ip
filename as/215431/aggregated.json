@@ -1,0 +1,13 @@
+{
+  "asn": 215431,
+  "handle": "UNIKLINIKUMBONN",
+  "description": "Universitaetsklinikum Bonn",
+  "subnets": {
+    "ipv4": [
+      "80.75.210.0/24"
+    ],
+    "ipv6": [
+      "2a13:5480:287::/48"
+    ]
+  }
+}

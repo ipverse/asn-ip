@@ -4,7 +4,8 @@
   "description": "Edge Technology Plus d.o.o. Beograd",
   "subnets": {
     "ipv4": [
-      "45.87.132.0/22"
+      "45.87.132.0/22",
+      "100.43.64.0/19"
     ],
     "ipv6": [
       "2a02:6b8::/29",

@@ -3,7 +3,9 @@
   "handle": "HTS-WIRELESS-01",
   "description": "Hudson Technology Solutions, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "216.198.173.0/24"
+    ],
     "ipv6": []
   }
 }

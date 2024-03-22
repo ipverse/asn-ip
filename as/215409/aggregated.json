@@ -4,9 +4,6 @@
   "description": "PT Hide Digital Security",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2a0a:280:3401::/48",
-      "2a0a:280:3402::/48"
-    ]
+    "ipv6": []
   }
 }

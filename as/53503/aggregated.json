@@ -4,7 +4,6 @@
   "description": "Global Internet eXchange",
   "subnets": {
     "ipv4": [
-      "96.8.64.0/20",
       "198.73.241.0/24",
       "198.73.242.0/23",
       "198.73.244.0/23",

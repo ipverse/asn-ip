@@ -3,7 +3,9 @@
   "handle": "LIFEU",
   "description": "Life University, INC.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "66.213.138.0/24"
+    ],
     "ipv6": []
   }
 }

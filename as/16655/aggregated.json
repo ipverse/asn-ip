@@ -1,0 +1,11 @@
+{
+  "asn": 16655,
+  "handle": "HARTWICK-01",
+  "description": "Hartwick College",
+  "subnets": {
+    "ipv4": [
+      "74.205.250.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -3,7 +3,9 @@
   "handle": "HUIGU",
   "description": "Huizhou HuiGu CloudTech Co., Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.60.34.0/24"
+    ],
     "ipv6": []
   }
 }

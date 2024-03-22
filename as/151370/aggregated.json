@@ -3,7 +3,9 @@
   "handle": "AKL-AP",
   "description": "Arif Knitspin Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.212.185.0/24"
+    ],
     "ipv6": []
   }
 }

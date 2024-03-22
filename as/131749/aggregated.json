@@ -4,7 +4,8 @@
   "description": "PT. Arthatama Adhiprima Persada",
   "subnets": {
     "ipv4": [
-      "103.31.132.0/22"
+      "103.31.132.0/22",
+      "157.20.118.0/23"
     ],
     "ipv6": [
       "2402:be80::/32"

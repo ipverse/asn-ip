@@ -4,6 +4,7 @@
   "description": "Luxottica of America Inc.",
   "subnets": {
     "ipv4": [
+      "173.252.128.0/23",
       "195.85.20.0/23"
     ],
     "ipv6": []

@@ -4,7 +4,8 @@
   "description": "SolutionOne Pty Ltd",
   "subnets": {
     "ipv4": [
-      "103.21.17.0/24"
+      "103.21.17.0/24",
+      "103.97.230.0/24"
     ],
     "ipv6": []
   }

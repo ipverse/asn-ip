@@ -3,9 +3,7 @@
   "handle": "PATIENTSKY",
   "description": "PATIENTSKY SAAS NORWAY AS",
   "subnets": {
-    "ipv4": [
-      "185.60.163.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }
