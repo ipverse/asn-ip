@@ -1,0 +1,11 @@
+{
+  "asn": 30001,
+  "handle": "TECHEVOLUTION",
+  "description": "Techevolution",
+  "subnets": {
+    "ipv4": [
+      "208.64.160.0/22"
+    ],
+    "ipv6": []
+  }
+}

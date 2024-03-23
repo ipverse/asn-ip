@@ -3,7 +3,9 @@
   "handle": "PARQUE-ECOLGICO-SO",
   "description": "Parque Ecolgico So Carlos / PMSC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "186.233.80.0/21"
+    ],
     "ipv6": []
   }
 }

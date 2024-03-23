@@ -4,7 +4,7 @@
   "description": "CampoNet Telecomunicacoes",
   "subnets": {
     "ipv4": [
-      "38.255.121.0/24",
+      "38.255.120.0/22",
       "179.49.176.0/22"
     ],
     "ipv6": [

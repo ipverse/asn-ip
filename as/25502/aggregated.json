@@ -3,7 +3,9 @@
   "handle": "EKM-NET",
   "description": "ELECTRONIC COMMUNICATION NETWORK LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "94.131.208.0/24"
+    ],
     "ipv6": []
   }
 }

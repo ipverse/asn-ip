@@ -3,7 +3,9 @@
   "handle": "FIRSTNET",
   "description": "FIRSTNET SA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "102.215.124.0/23"
+    ],
     "ipv6": []
   }
 }

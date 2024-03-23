@@ -1,0 +1,11 @@
+{
+  "asn": 152634,
+  "handle": "WCCCOMPANYLIMITED-AP",
+  "description": "Goal Link ISP",
+  "subnets": {
+    "ipv4": [
+      "202.36.116.0/23"
+    ],
+    "ipv6": []
+  }
+}

@@ -3,9 +3,7 @@
   "handle": "BTHOSTER",
   "description": "BtHoster LTD",
   "subnets": {
-    "ipv4": [
-      "77.90.185.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

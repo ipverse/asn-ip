@@ -4,7 +4,7 @@
   "description": "Valtion tieto - Ja viestintatekniikkakeskus Valtori",
   "subnets": {
     "ipv4": [
-      "193.200.52.0/24"
+      "193.200.52.0/23"
     ],
     "ipv6": []
   }

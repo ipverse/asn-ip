@@ -4,7 +4,7 @@
   "description": "Star Online",
   "subnets": {
     "ipv4": [
-      "103.186.50.0/24"
+      "103.186.50.0/23"
     ],
     "ipv6": []
   }

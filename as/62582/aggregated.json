@@ -1,0 +1,11 @@
+{
+  "asn": 62582,
+  "handle": "MJMTELECOM",
+  "description": "Accel Wireless",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2607:c780::/32"
+    ]
+  }
+}

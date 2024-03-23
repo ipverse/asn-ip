@@ -3,7 +3,10 @@
   "handle": "DEDIPATH-LLC",
   "description": "DediPath",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.131.96.0/19",
+      "38.143.192.0/19"
+    ],
     "ipv6": []
   }
 }
