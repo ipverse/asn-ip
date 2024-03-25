@@ -3,7 +3,9 @@
   "handle": "MEGANETPLUS",
   "description": "MEGANET PLUS SLU",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.157.184.0/22"
+    ],
     "ipv6": []
   }
 }

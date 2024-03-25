@@ -3,9 +3,7 @@
   "handle": "SURGO-ASN-01",
   "description": "SurgoCap Partners LP",
   "subnets": {
-    "ipv4": [
-      "63.92.77.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

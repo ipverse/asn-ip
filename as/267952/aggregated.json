@@ -3,7 +3,9 @@
   "handle": "HILINK-TECNOLOGIA-COMUNICACAO",
   "description": "HILINK TECNOLOGIA E COMUNICACAO LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.166.49.0/24"
+    ],
     "ipv6": []
   }
 }

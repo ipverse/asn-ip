@@ -4,9 +4,6 @@
   "description": "HighEndNetwork LLC",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2602:2db:114::/46",
-      "2602:2db:118::/45"
-    ]
+    "ipv6": []
   }
 }

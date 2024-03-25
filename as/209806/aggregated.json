@@ -4,6 +4,8 @@
   "description": "Edgesonic (UK) Services Limited",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a07:54c4:d100::/40"
+    ]
   }
 }

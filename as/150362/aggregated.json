@@ -3,9 +3,7 @@
   "handle": "KURIYAMA-NETWORK",
   "description": "Kuriyama-Network",
   "subnets": {
-    "ipv4": [
-      "103.149.4.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

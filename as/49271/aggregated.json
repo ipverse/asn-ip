@@ -1,9 +1,11 @@
 {
   "asn": 49271,
   "handle": "NO-BITBAKERS",
-  "description": "Jan Astrup",
+  "description": "Qloud AS",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a14:880::/32"
+    ]
   }
 }
