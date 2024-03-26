@@ -1,0 +1,11 @@
+{
+  "asn": 152433,
+  "handle": "IDNIC-KLIKSERVERID-ID",
+  "description": "CV Klik Server Indonesia",
+  "subnets": {
+    "ipv4": [
+      "157.15.164.0/23"
+    ],
+    "ipv6": []
+  }
+}

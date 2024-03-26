@@ -4,6 +4,7 @@
   "description": "POWERNET",
   "subnets": {
     "ipv4": [
+      "102.210.76.0/22",
       "164.160.8.0/22"
     ],
     "ipv6": [

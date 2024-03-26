@@ -1,0 +1,11 @@
+{
+  "asn": 215294,
+  "handle": "SUBSIGNAL-NET",
+  "description": "Markus Reich",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2001:67c:e44::/48"
+    ]
+  }
+}

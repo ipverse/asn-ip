@@ -3,7 +3,9 @@
   "handle": "IDLOGIC",
   "description": "I.D. Logique",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "142.202.212.0/22"
+    ],
     "ipv6": []
   }
 }

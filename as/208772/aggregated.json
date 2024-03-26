@@ -1,0 +1,13 @@
+{
+  "asn": 208772,
+  "handle": "FFS",
+  "description": "Freifunk Stuttgart e.V.",
+  "subnets": {
+    "ipv4": [
+      "91.216.35.0/24"
+    ],
+    "ipv6": [
+      "2a0f:d607::/44"
+    ]
+  }
+}

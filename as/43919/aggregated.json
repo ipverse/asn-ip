@@ -4,7 +4,7 @@
   "description": "Alliance Healthcare Espana S.A.",
   "subnets": {
     "ipv4": [
-      "79.171.40.0/24"
+      "79.171.40.0/23"
     ],
     "ipv6": [
       "2a00:d280::/32"
