@@ -4,8 +4,7 @@
   "description": "AUTOFAST SOLUES EM TECNOLOGIA LTDA",
   "subnets": {
     "ipv4": [
-      "138.255.164.0/23",
-      "138.255.166.0/24"
+      "138.255.164.0/22"
     ],
     "ipv6": []
   }

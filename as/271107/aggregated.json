@@ -4,8 +4,7 @@
   "description": "Instituto Federal do Tocantins - Campus Araguaina",
   "subnets": {
     "ipv4": [
-      "179.42.88.0/23",
-      "179.42.91.0/24"
+      "179.42.88.0/22"
     ],
     "ipv6": [
       "2801:80:2a00::/44"

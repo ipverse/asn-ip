@@ -1,12 +1,10 @@
 {
   "asn": 150552,
-  "handle": "IDNIC-BAROKAHNET-ID",
+  "handle": "BAROKAHNET-ID",
   "description": "PT Link Data Sumber Barokah",
   "subnets": {
     "ipv4": [
-      "103.86.116.0/23",
-      "104.234.77.0/24",
-      "185.2.160.0/23"
+      "103.86.116.0/23"
     ],
     "ipv6": [
       "2001:df2:84c0::/48"

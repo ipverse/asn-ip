@@ -4,7 +4,6 @@
   "description": "GreenTV LLC",
   "subnets": {
     "ipv4": [
-      "38.255.16.0/22",
       "185.128.104.0/24"
     ],
     "ipv6": []
