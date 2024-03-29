@@ -3,11 +3,7 @@
   "handle": "JAMIEFREE",
   "description": "James Freeman",
   "subnets": {
-    "ipv4": [
-      "93.123.39.0/24",
-      "147.78.103.0/24",
-      "185.216.70.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

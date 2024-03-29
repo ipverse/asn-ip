@@ -4,8 +4,6 @@
   "description": "REDE CONEXAONET",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2804:8f18::/33"
-    ]
+    "ipv6": []
   }
 }

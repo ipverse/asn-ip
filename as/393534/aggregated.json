@@ -3,7 +3,9 @@
   "handle": "FHLBM",
   "description": "Federal Home Loan Bank of Des Moines",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "66.6.99.0/24"
+    ],
     "ipv6": []
   }
 }

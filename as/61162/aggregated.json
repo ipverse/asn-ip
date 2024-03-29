@@ -1,0 +1,11 @@
+{
+  "asn": 61162,
+  "handle": "SOFORT-GMBH",
+  "description": "SOFORT GmbH",
+  "subnets": {
+    "ipv4": [
+      "193.104.32.0/24"
+    ],
+    "ipv6": []
+  }
+}

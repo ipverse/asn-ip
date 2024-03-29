@@ -4,6 +4,7 @@
   "description": "INTERKVM HOST SRL",
   "subnets": {
     "ipv4": [
+      "77.75.192.0/24",
       "103.246.249.0/24"
     ],
     "ipv6": [

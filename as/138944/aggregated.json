@@ -4,7 +4,7 @@
   "description": "SNet And Electronics",
   "subnets": {
     "ipv4": [
-      "103.137.142.0/23"
+      "103.137.142.0/24"
     ],
     "ipv6": []
   }
