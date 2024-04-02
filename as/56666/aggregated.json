@@ -3,7 +3,9 @@
   "handle": "ATLAS",
   "description": "The federal state unitary enterprise Scientific techical center Atlas",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "178.237.206.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,9 +3,7 @@
   "handle": "USL-AP",
   "description": "URNET SOLUTIONS LTD.",
   "subnets": {
-    "ipv4": [
-      "45.116.130.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

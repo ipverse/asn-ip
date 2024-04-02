@@ -4,7 +4,6 @@
   "description": "Liberty Global B.V.",
   "subnets": {
     "ipv4": [
-      "152.152.0.0/16",
       "185.72.122.0/24"
     ],
     "ipv6": []

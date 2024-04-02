@@ -1,0 +1,11 @@
+{
+  "asn": 11358,
+  "handle": "TENNANT-SOFTWARE",
+  "description": "Tennant Software",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2602:f97e::/40"
+    ]
+  }
+}

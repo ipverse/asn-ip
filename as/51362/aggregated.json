@@ -4,7 +4,8 @@
   "description": "OPERADORA GREDOS SL",
   "subnets": {
     "ipv4": [
-      "185.19.212.0/22"
+      "185.19.212.0/23",
+      "185.19.214.0/24"
     ],
     "ipv6": []
   }

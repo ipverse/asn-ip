@@ -4,6 +4,8 @@
   "description": "Stephan Rakowski, trading as CSN Solutions e.K.",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a05:907:5000::/36"
+    ]
   }
 }

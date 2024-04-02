@@ -1,0 +1,11 @@
+{
+  "asn": 216377,
+  "handle": "CTDL-MSK",
+  "description": "Citadel LLC",
+  "subnets": {
+    "ipv4": [
+      "192.162.90.0/24"
+    ],
+    "ipv6": []
+  }
+}

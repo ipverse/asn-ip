@@ -1,0 +1,11 @@
+{
+  "asn": 4601,
+  "handle": "PAGESAT",
+  "description": "Network Wizards",
+  "subnets": {
+    "ipv4": [
+      "192.92.112.0/24"
+    ],
+    "ipv6": []
+  }
+}
