@@ -4,8 +4,6 @@
   "description": "Vianet Telecomunicacoes Ltda",
   "subnets": {
     "ipv4": [
-      "45.167.143.0/24",
-      "138.99.126.0/23",
       "179.49.184.0/22"
     ],
     "ipv6": [

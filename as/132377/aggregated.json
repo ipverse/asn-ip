@@ -4,6 +4,7 @@
   "description": "Ellucian Company L.P.",
   "subnets": {
     "ipv4": [
+      "149.24.20.0/23",
       "149.24.60.0/23"
     ],
     "ipv6": []

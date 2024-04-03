@@ -4,8 +4,6 @@
   "description": "YUPNET TELECOMUNICAES LTDA",
   "subnets": {
     "ipv4": [
-      "45.174.120.0/24",
-      "45.174.122.0/23",
       "131.72.44.0/22"
     ],
     "ipv6": [

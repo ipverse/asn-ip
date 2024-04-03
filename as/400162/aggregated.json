@@ -1,0 +1,11 @@
+{
+  "asn": 400162,
+  "handle": "SLOPESIDE-SOFTWARE-01",
+  "description": "Slopeside Software",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2607:95c0::/32"
+    ]
+  }
+}

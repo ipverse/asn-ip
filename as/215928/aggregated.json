@@ -1,0 +1,11 @@
+{
+  "asn": 215928,
+  "handle": "FR-CHU-TLSE",
+  "description": "Centre Hospitalier Universitaire de Toulouse",
+  "subnets": {
+    "ipv4": [
+      "193.57.201.0/24"
+    ],
+    "ipv6": []
+  }
+}

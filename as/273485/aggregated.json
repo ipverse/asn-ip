@@ -3,7 +3,9 @@
   "handle": "LOGAE-TELECOM-SOLUC",
   "description": "LOGAE TELECOM SOLUC EM TI COMERCIO E SERVICOS LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "143.0.242.0/24"
+    ],
     "ipv6": [
       "2804:8f58::/32"
     ]

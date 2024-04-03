@@ -3,7 +3,9 @@
   "handle": "NETWORK-TRANSIT",
   "description": "Hong Kong Business Telecom Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "43.229.152.0/24"
+    ],
     "ipv6": []
   }
 }

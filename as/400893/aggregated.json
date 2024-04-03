@@ -1,0 +1,12 @@
+{
+  "asn": 400893,
+  "handle": "FIBERCONNECT",
+  "description": "Fiber Connect, LLC.",
+  "subnets": {
+    "ipv4": [
+      "38.82.8.0/21",
+      "172.82.8.0/22"
+    ],
+    "ipv6": []
+  }
+}
