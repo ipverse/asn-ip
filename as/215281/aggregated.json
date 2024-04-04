@@ -3,10 +3,7 @@
   "handle": "APEXUNIVERSE-NET",
   "description": "Apex Universe Networks LTD",
   "subnets": {
-    "ipv4": [
-      "185.103.101.0/24",
-      "193.233.252.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

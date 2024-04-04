@@ -1,0 +1,11 @@
+{
+  "asn": 207505,
+  "handle": "SPLK-EMEA",
+  "description": "Splunk inc.",
+  "subnets": {
+    "ipv4": [
+      "185.242.219.0/24"
+    ],
+    "ipv6": []
+  }
+}

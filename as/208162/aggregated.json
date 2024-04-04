@@ -3,11 +3,7 @@
   "handle": "ATHENE-ABC",
   "description": "Fraunhofer-Gesellschaft zur Foerderung der angewandten Forschung e.V.",
   "subnets": {
-    "ipv4": [
-      "158.220.160.0/19"
-    ],
-    "ipv6": [
-      "2a10:9043::/32"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

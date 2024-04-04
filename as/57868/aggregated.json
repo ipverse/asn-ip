@@ -1,0 +1,11 @@
+{
+  "asn": 57868,
+  "handle": "LUPLOCE",
+  "description": "Lucka uprava Ploce",
+  "subnets": {
+    "ipv4": [
+      "91.236.37.0/24"
+    ],
+    "ipv6": []
+  }
+}

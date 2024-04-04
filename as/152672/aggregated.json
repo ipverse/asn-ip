@@ -1,0 +1,11 @@
+{
+  "asn": 152672,
+  "handle": "AIYUN-AP",
+  "description": "Aiyun (HK) Network",
+  "subnets": {
+    "ipv4": [
+      "163.5.79.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -3,7 +3,9 @@
   "handle": "ASSOCIADOS-FERREIRA-TELECOMUNICACOES",
   "description": "ASSOCIADOS FERREIRA TELECOMUNICACOES LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "186.26.64.0/22"
+    ],
     "ipv6": []
   }
 }

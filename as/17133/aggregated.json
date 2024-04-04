@@ -3,9 +3,7 @@
   "handle": "T-FIBER",
   "description": "T-Mobile USA, Inc.",
   "subnets": {
-    "ipv4": [
-      "64.13.0.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

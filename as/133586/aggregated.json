@@ -1,9 +1,11 @@
 {
   "asn": 133586,
-  "handle": "TIITACSISP-AP",
-  "description": "Tiitacs IT and IT Solutions",
+  "handle": "APEN-AP",
+  "description": "Ainternet",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "202.14.187.0/24"
+    ],
     "ipv6": []
   }
 }

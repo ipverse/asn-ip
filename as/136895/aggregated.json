@@ -4,9 +4,6 @@
   "description": "Vianet Communications Pvt. Ltd",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2404:7c00:4f::/48",
-      "2404:7c00:81::/48"
-    ]
+    "ipv6": []
   }
 }
