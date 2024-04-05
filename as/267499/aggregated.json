@@ -3,7 +3,9 @@
   "handle": "WAGNER-BARBOSA-COSTA",
   "description": "WAGNER BARBOSA DA COSTA - ME",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "201.182.57.0/24"
+    ],
     "ipv6": [
       "2804:426c::/32"
     ]

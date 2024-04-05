@@ -4,8 +4,7 @@
   "description": "LNX Solutions (Pty) Ltd",
   "subnets": {
     "ipv4": [
-      "102.212.60.0/23",
-      "102.212.62.0/24"
+      "102.212.60.0/22"
     ],
     "ipv6": [
       "2c0f:c40::/32"

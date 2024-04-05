@@ -1,0 +1,11 @@
+{
+  "asn": 215241,
+  "handle": "WARD-ONE",
+  "description": "John Ward",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a0f:85c1:3a4::/48"
+    ]
+  }
+}

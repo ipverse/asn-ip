@@ -1,0 +1,11 @@
+{
+  "asn": 273441,
+  "handle": "IB-TELECOM-SERVICOS",
+  "description": "IB TELECOM SERVICOS DE TELECOMUNICACAO MULTIMIDIA",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2804:8eac::/32"
+    ]
+  }
+}

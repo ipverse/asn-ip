@@ -3,7 +3,9 @@
   "handle": "PHYLAXISINC-AP",
   "description": "Phylaxis Korea",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.218.172.0/23"
+    ],
     "ipv6": []
   }
 }

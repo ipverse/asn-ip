@@ -1,0 +1,11 @@
+{
+  "asn": 150953,
+  "handle": "IDNIC-SNL-ID",
+  "description": "PT Satelit Nusantara Lima",
+  "subnets": {
+    "ipv4": [
+      "103.105.58.0/23"
+    ],
+    "ipv6": []
+  }
+}

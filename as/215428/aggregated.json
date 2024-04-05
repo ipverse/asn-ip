@@ -4,6 +4,7 @@
   "description": "Mykyta Skorobohatko",
   "subnets": {
     "ipv4": [
+      "77.91.66.0/24",
       "77.105.161.0/24"
     ],
     "ipv6": []
