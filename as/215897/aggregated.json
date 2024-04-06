@@ -3,7 +3,9 @@
   "handle": "NEUROLAND",
   "description": "NEUROLAND ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "95.181.150.0/24"
+    ],
     "ipv6": []
   }
 }

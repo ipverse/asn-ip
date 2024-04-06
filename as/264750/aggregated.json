@@ -4,6 +4,7 @@
   "description": "TELEOPERADORA DEL NORDESTE S.R.L",
   "subnets": {
     "ipv4": [
+      "38.196.0.0/18",
       "143.137.80.0/22",
       "168.232.108.0/22",
       "170.79.144.0/22",

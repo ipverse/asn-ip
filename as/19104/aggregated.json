@@ -3,7 +3,9 @@
   "handle": "MHSC-01",
   "description": "Memorial Hospital of Sweetwater County Foundation",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "203.26.53.0/24"
+    ],
     "ipv6": []
   }
 }

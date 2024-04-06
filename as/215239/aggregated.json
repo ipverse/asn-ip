@@ -1,0 +1,11 @@
+{
+  "asn": 215239,
+  "handle": "SHOW",
+  "description": "Show Corporation",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a14:2d40::/29"
+    ]
+  }
+}

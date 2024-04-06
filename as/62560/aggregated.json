@@ -1,0 +1,11 @@
+{
+  "asn": 62560,
+  "handle": "HOSTED-AMERICA",
+  "description": "Hosted America",
+  "subnets": {
+    "ipv4": [
+      "38.190.99.0/24"
+    ],
+    "ipv6": []
+  }
+}

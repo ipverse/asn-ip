@@ -3,7 +3,9 @@
   "handle": "TELECOM2",
   "description": "Telecom2 Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "217.73.79.0/24"
+    ],
     "ipv6": []
   }
 }

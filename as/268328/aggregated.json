@@ -4,7 +4,8 @@
   "description": "ALIANCA LINK PROVEDOR DE INTERNET",
   "subnets": {
     "ipv4": [
-      "45.238.72.0/22"
+      "45.238.72.0/23",
+      "45.238.74.0/24"
     ],
     "ipv6": [
       "2804:4f74::/32"

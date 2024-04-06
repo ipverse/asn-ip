@@ -4,7 +4,7 @@
   "description": "BHARAT DATACENTER",
   "subnets": {
     "ipv4": [
-      "157.10.98.0/24"
+      "157.10.98.0/23"
     ],
     "ipv6": [
       "2001:df3:5cc0::/48"
