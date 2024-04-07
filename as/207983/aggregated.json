@@ -4,6 +4,7 @@
   "description": "Codit Teknoloji Tic. Ltd. Sti.",
   "subnets": {
     "ipv4": [
+      "31.210.54.0/24",
       "78.135.109.0/24",
       "193.33.164.0/23",
       "193.33.204.0/23"

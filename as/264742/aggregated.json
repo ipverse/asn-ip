@@ -4,7 +4,8 @@
   "description": "QUITILIPI TELEVISORA COLOR SRL",
   "subnets": {
     "ipv4": [
-      "45.173.60.0/22"
+      "45.173.60.0/24",
+      "45.173.62.0/23"
     ],
     "ipv6": []
   }

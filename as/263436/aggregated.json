@@ -4,6 +4,8 @@
   "description": "POLLYNET TELECOM EIRELI",
   "subnets": {
     "ipv4": [
+      "177.52.32.0/22",
+      "177.52.164.0/22",
       "177.91.96.0/20"
     ],
     "ipv6": [

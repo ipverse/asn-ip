@@ -4,7 +4,8 @@
   "description": "University of Northern Colorado",
   "subnets": {
     "ipv4": [
-      "138.86.0.0/16"
+      "138.86.0.0/16",
+      "199.117.107.0/24"
     ],
     "ipv6": []
   }

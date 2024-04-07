@@ -1,0 +1,11 @@
+{
+  "asn": 13701,
+  "handle": "MPTF",
+  "description": "Motion Picture and Television Fund",
+  "subnets": {
+    "ipv4": [
+      "204.154.14.0/23"
+    ],
+    "ipv6": []
+  }
+}
