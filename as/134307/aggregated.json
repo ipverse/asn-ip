@@ -4,8 +4,7 @@
   "description": "Classicnet Broadband Network",
   "subnets": {
     "ipv4": [
-      "43.230.44.0/22",
-      "103.42.192.0/22"
+      "103.42.192.0/24"
     ],
     "ipv6": []
   }
