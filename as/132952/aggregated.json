@@ -3,7 +3,10 @@
   "handle": "ENOW",
   "description": "ENOW",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.238.220.0/22",
+      "103.255.100.0/22"
+    ],
     "ipv6": []
   }
 }

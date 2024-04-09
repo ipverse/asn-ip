@@ -4,7 +4,6 @@
   "description": "itesys srl",
   "subnets": {
     "ipv4": [
-      "185.48.140.0/23",
       "185.48.143.0/24"
     ],
     "ipv6": []

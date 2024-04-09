@@ -1,0 +1,11 @@
+{
+  "asn": 140991,
+  "handle": "MAYAENTERPRISE-AP",
+  "description": "Maya Enterprise",
+  "subnets": {
+    "ipv4": [
+      "203.223.88.0/23"
+    ],
+    "ipv6": []
+  }
+}

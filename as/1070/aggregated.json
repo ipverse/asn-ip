@@ -3,7 +3,9 @@
   "handle": "PRP-001",
   "description": "Peel Regional Police",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "204.138.80.0/24"
+    ],
     "ipv6": []
   }
 }

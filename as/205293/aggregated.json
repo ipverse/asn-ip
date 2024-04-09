@@ -3,7 +3,9 @@
   "handle": "RAYONLINE",
   "description": "RAYONLINE LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.143.206.0/24"
+    ],
     "ipv6": []
   }
 }
