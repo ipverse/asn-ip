@@ -3,7 +3,9 @@
   "handle": "DUNET-TELECOM",
   "description": "DUNET TELECOM LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.191.184.0/22"
+    ],
     "ipv6": [
       "2804:8b54::/32"
     ]

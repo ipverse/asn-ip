@@ -3,7 +3,9 @@
   "handle": "ALICENETWORK",
   "description": "ALICE NETWORKS LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "181.215.6.0/24"
+    ],
     "ipv6": []
   }
 }
