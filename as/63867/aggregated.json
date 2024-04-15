@@ -4,7 +4,7 @@
   "description": "PT Tirta Karya Buana",
   "subnets": {
     "ipv4": [
-      "103.49.188.0/22",
+      "103.49.188.0/24",
       "103.143.128.0/23"
     ],
     "ipv6": []
