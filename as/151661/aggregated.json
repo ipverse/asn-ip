@@ -3,7 +3,9 @@
   "handle": "GSSPL-AP",
   "description": "Goldman Sachs Services Private Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.253.179.0/24"
+    ],
     "ipv6": []
   }
 }

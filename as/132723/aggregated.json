@@ -3,7 +3,9 @@
   "handle": "TDC-AP",
   "description": "Tararua District Council",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.94.92.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "RCGIT-ODC-NON-AP",
   "description": "RCG Information Technology",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "120.28.16.0/24"
+    ],
     "ipv6": []
   }
 }

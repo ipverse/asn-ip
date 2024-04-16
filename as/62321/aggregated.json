@@ -3,7 +3,11 @@
   "handle": "ARSIM-NET-PL",
   "description": "Piotr Wladykowski trading as ARSIM",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.89.8.0/24"
+    ],
+    "ipv6": [
+      "2a0e:b40::/48"
+    ]
   }
 }

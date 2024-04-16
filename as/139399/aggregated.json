@@ -4,6 +4,8 @@
   "description": "PT Palapa Network Nusantara",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2001:df0:f700::/48"
+    ]
   }
 }

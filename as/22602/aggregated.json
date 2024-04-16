@@ -3,7 +3,10 @@
   "handle": "EXPERIENT-INC",
   "description": "Experient Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "12.153.50.0/23",
+      "12.199.47.0/24"
+    ],
     "ipv6": []
   }
 }

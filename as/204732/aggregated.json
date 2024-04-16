@@ -3,7 +3,9 @@
   "handle": "BETSSON",
   "description": "Betsson Services Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.242.68.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,10 @@
   "handle": "SALSALABS-6917482",
   "description": "Salsa Labs, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "69.174.82.0/23",
+      "204.28.10.0/23"
+    ],
     "ipv6": []
   }
 }

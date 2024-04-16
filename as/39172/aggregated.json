@@ -3,7 +3,9 @@
   "handle": "MERKEZ",
   "description": "Merkezi Kayit Kurulusu Anonim Sirketi",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.53.60.0/22"
+    ],
     "ipv6": []
   }
 }

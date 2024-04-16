@@ -3,7 +3,9 @@
   "handle": "DLINK-AP",
   "description": "D-Link Australia Pty Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.237.50.0/23"
+    ],
     "ipv6": []
   }
 }

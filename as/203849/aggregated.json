@@ -3,7 +3,9 @@
   "handle": "UMICORE",
   "description": "Umicore NV",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.120.164.0/23"
+    ],
     "ipv6": []
   }
 }

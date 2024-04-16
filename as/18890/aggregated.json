@@ -3,7 +3,9 @@
   "handle": "HOGARTH-WORLDWIDE",
   "description": "Hogarth Worldwide Inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.188.5.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "UHAUL-NET",
   "description": "UHAUL INTERNATIONAL, INC.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "69.171.80.0/20"
+    ],
     "ipv6": []
   }
 }

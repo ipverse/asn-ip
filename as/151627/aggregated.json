@@ -3,7 +3,9 @@
   "handle": "KCBI-AP",
   "description": "KC Broadband Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.125.158.0/23"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "ORANGE",
   "description": "Orange Communications Luxembourg S.A",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "85.94.224.0/24"
+    ],
     "ipv6": []
   }
 }

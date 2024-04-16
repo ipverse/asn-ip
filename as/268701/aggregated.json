@@ -3,7 +3,11 @@
   "handle": "VIVALINK-INTERNET",
   "description": "VIVALINK INTERNET LTDA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.169.172.0/22"
+    ],
+    "ipv6": [
+      "2804:596c::/32"
+    ]
   }
 }

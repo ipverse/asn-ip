@@ -3,7 +3,9 @@
   "handle": "YACLOUDBMS",
   "description": "Yandex.Cloud LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "89.223.20.0/24"
+    ],
     "ipv6": []
   }
 }

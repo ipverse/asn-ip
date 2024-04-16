@@ -3,7 +3,9 @@
   "handle": "RUDN",
   "description": "PEOPLES FRIENDSHIP UNIVERSITY OF RUSSIA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "37.18.79.0/24"
+    ],
     "ipv6": []
   }
 }

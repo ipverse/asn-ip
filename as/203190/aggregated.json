@@ -3,7 +3,10 @@
   "handle": "GLOBALLINK",
   "description": "LLC Global Link",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.151.233.0/24",
+      "141.101.206.0/24"
+    ],
     "ipv6": []
   }
 }

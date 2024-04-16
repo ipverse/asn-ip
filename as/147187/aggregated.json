@@ -3,7 +3,10 @@
   "handle": "BUALUANG-SECURITIES",
   "description": "JasTel Network Company Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "49.231.72.0/24",
+      "203.156.7.0/24"
+    ],
     "ipv6": []
   }
 }

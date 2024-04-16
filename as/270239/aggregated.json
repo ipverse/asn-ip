@@ -3,7 +3,9 @@
   "handle": "NZ-TELECOM",
   "description": "N.Z. TELECOM LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "201.46.80.0/22"
+    ],
     "ipv6": []
   }
 }

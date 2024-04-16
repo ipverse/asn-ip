@@ -3,7 +3,10 @@
   "handle": "ICARDFIN",
   "description": "Icard Services PLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "82.119.81.0/24",
+      "85.118.90.0/24"
+    ],
     "ipv6": []
   }
 }

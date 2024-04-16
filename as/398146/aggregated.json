@@ -3,7 +3,9 @@
   "handle": "EMYPEOPLE",
   "description": "eMyPeople LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "216.24.56.0/24"
+    ],
     "ipv6": []
   }
 }

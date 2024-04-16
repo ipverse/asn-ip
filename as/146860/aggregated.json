@@ -3,7 +3,9 @@
   "handle": "SKYMEDIA-IN",
   "description": "Skytech Mediacom Opc Private Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.168.202.0/23"
+    ],
     "ipv6": []
   }
 }

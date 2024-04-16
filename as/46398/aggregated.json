@@ -3,7 +3,9 @@
   "handle": "PII",
   "description": "Taylor Corporation",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "198.12.30.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "SYMPHONYEYCFRANCE",
   "description": "SymphonyEYC France SAS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.165.192.0/24"
+    ],
     "ipv6": []
   }
 }

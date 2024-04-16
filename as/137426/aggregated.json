@@ -3,7 +3,9 @@
   "handle": "SIMMITSERVICES-AP",
   "description": "Simm IT Services",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.108.68.0/22"
+    ],
     "ipv6": []
   }
 }

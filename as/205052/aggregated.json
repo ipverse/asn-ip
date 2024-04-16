@@ -3,7 +3,13 @@
   "handle": "VISIONDATASOLUTIONS",
   "description": "Vision Data Solutions LLP",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "151.248.92.0/23",
+      "151.248.94.0/24",
+      "185.231.196.0/22"
+    ],
+    "ipv6": [
+      "2a0c:7900::/29"
+    ]
   }
 }

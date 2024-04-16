@@ -3,7 +3,11 @@
   "handle": "VIRTUAL-INTERNET",
   "description": "Virtual Internet",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.227.116.0/22"
+    ],
+    "ipv6": [
+      "2804:46c8::/32"
+    ]
   }
 }

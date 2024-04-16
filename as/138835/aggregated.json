@@ -3,7 +3,9 @@
   "handle": "IDNIC-DISKOMINFOPACITAN-ID",
   "description": "DINAS KOMUNIKASI DAN INFORMATIKA KABUPATEN PACITAN",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.138.10.0/24"
+    ],
     "ipv6": []
   }
 }

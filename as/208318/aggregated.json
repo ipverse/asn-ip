@@ -3,7 +3,9 @@
   "handle": "ADASTRA",
   "description": "Adastra Bulgaria EOOD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "88.203.205.0/24"
+    ],
     "ipv6": []
   }
 }

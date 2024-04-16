@@ -3,7 +3,9 @@
   "handle": "MEINSYSTEM",
   "description": "MeinSystem GmbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.173.136.0/22"
+    ],
     "ipv6": []
   }
 }

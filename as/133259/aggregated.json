@@ -3,7 +3,9 @@
   "handle": "SEPL-IN",
   "description": "Solutions Enterprise Pvt Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.238.11.0/24"
+    ],
     "ipv6": []
   }
 }

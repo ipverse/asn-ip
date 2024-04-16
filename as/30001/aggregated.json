@@ -3,7 +3,9 @@
   "handle": "TECHEVOLUTION",
   "description": "Techevolution",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "208.64.160.0/22"
+    ],
     "ipv6": []
   }
 }

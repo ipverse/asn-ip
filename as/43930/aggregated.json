@@ -3,7 +3,10 @@
   "handle": "FTVDN",
   "description": "France Televisions SA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.108.32.0/22",
+      "185.194.164.0/23"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "PVCP",
   "description": "GIE PVCP Services",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.242.138.0/24"
+    ],
     "ipv6": []
   }
 }

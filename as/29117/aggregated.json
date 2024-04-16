@@ -3,7 +3,12 @@
   "handle": "CHATHISPANO",
   "description": "Asociacion IRC Hispano",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "195.85.200.0/24",
+      "195.234.61.0/24"
+    ],
+    "ipv6": [
+      "2001:67c:195c::/48"
+    ]
   }
 }

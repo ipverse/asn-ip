@@ -3,7 +3,9 @@
   "handle": "VIAXOFT",
   "description": "Viaxoft SAS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.74.96.0/22"
+    ],
     "ipv6": []
   }
 }

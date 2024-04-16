@@ -3,7 +3,9 @@
   "handle": "NET-SUC-TECH-ALF",
   "description": "State University of New York College of Technology at Alfred",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "136.224.0.0/16"
+    ],
     "ipv6": []
   }
 }

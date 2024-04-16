@@ -3,7 +3,9 @@
   "handle": "AZ-METRONET",
   "description": "Metronet LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.34.73.0/24"
+    ],
     "ipv6": []
   }
 }

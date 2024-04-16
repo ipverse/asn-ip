@@ -3,7 +3,11 @@
   "handle": "REGION16-ESC",
   "description": "Region 16 Education Service Center",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "69.62.0.0/17"
+    ],
+    "ipv6": [
+      "2606:4b40::/32"
+    ]
   }
 }

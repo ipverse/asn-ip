@@ -3,7 +3,9 @@
   "handle": "WEBQUAKE",
   "description": "webquake Computing Solutions GmbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.68.212.0/23"
+    ],
     "ipv6": []
   }
 }

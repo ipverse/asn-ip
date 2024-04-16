@@ -3,7 +3,9 @@
   "handle": "BRUCEPOWER",
   "description": "BRUCE POWER L.P.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "142.6.0.0/16"
+    ],
     "ipv6": []
   }
 }

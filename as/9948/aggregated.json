@@ -3,7 +3,10 @@
   "handle": "NICEMONEY",
   "description": "NICE TCM",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "116.126.13.0/24",
+      "220.118.52.0/24"
+    ],
     "ipv6": []
   }
 }

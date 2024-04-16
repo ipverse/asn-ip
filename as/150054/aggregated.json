@@ -3,7 +3,9 @@
   "handle": "MIBURAINC-IN",
   "description": "MIBURA INFOCOMM PRIVATE LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.191.156.0/24"
+    ],
     "ipv6": []
   }
 }

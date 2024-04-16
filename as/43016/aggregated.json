@@ -3,7 +3,10 @@
   "handle": "KSVVNET",
   "description": "Keski-Suomen Valokuituverkot Oy",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.121.216.0/22",
+      "195.181.192.0/20"
+    ],
     "ipv6": []
   }
 }

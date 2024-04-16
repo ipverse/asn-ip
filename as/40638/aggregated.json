@@ -3,7 +3,10 @@
   "handle": "PASON-SYSTEMS-USA",
   "description": "Pason Systems USA Corp",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "69.58.27.0/24",
+      "69.58.28.0/22"
+    ],
     "ipv6": []
   }
 }

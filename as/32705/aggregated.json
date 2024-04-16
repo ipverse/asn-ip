@@ -3,7 +3,9 @@
   "handle": "WOODBRIDGEGROUP",
   "description": "The Woodbridge Group",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "208.64.104.0/22"
+    ],
     "ipv6": []
   }
 }

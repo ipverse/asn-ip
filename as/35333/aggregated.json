@@ -3,7 +3,9 @@
   "handle": "VIA-SMS",
   "description": "SIA NETVISION",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.81.50.0/24"
+    ],
     "ipv6": []
   }
 }

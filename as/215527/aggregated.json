@@ -4,6 +4,11 @@
   "description": "Xero Networks LTD",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a0c:b641:bd0::/46",
+      "2a0c:b641:bd4::/47",
+      "2a0c:b641:bd7::/48",
+      "2a0c:b641:bd9::/48"
+    ]
   }
 }

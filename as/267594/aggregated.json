@@ -3,7 +3,11 @@
   "handle": "RAPIDUS-INTERNET-BANDA-LARGA",
   "description": "Rapidus Internet Banda larga",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.70.188.0/22"
+    ],
+    "ipv6": [
+      "2804:43d8::/32"
+    ]
   }
 }

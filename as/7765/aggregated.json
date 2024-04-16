@@ -3,7 +3,9 @@
   "handle": "KOUMBIT",
   "description": "Koumbit",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.58.80.0/22"
+    ],
     "ipv6": []
   }
 }

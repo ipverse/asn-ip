@@ -3,7 +3,9 @@
   "handle": "MEPA",
   "description": "Ministry of Environmental Protection and Agriculture of Georgia",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.194.7.0/24"
+    ],
     "ipv6": []
   }
 }

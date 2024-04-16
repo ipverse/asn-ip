@@ -3,7 +3,9 @@
   "handle": "ZAPITV",
   "description": "PLATAFORMA MULTIMEDIA DE OPERADORES SL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.105.9.0/24"
+    ],
     "ipv6": []
   }
 }

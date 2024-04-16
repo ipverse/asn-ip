@@ -3,7 +3,9 @@
   "handle": "CHRISCOMCO",
   "description": "Christensen Communications Company",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "206.123.56.0/21"
+    ],
     "ipv6": []
   }
 }

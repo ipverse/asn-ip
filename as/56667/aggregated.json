@@ -3,7 +3,10 @@
   "handle": "INTERCOM",
   "description": "Intercom LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.226.140.0/22",
+      "176.113.120.0/21"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,10 @@
   "handle": "BIOCAD",
   "description": "Biocad JSC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "178.170.176.0/24",
+      "178.170.178.0/23"
+    ],
     "ipv6": []
   }
 }

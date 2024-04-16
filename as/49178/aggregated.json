@@ -3,7 +3,11 @@
   "handle": "NADUNET",
   "description": "Nadunet Telecom S.L",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.192.180.0/24",
+      "185.237.180.0/22",
+      "213.162.204.0/24"
+    ],
     "ipv6": []
   }
 }

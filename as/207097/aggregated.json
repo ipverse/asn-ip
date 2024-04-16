@@ -3,7 +3,9 @@
   "handle": "ONLINE-COMPANY-LTD",
   "description": "Online Company for Technological Information, Supply of Electronic Equipment and Internet Services Through Wifi Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.166.24.0/22"
+    ],
     "ipv6": []
   }
 }

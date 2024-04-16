@@ -3,7 +3,9 @@
   "handle": "AXCESS-FINANCIAL",
   "description": "Axcess Financial Services, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "74.115.184.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "NETWORK1-AP",
   "description": "Network Technologies Queensland Pty Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.154.29.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,10 @@
   "handle": "JETFLASH-ID",
   "description": "Cikarang Cyberindo PT.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "113.20.136.0/22",
+      "113.20.140.0/23"
+    ],
     "ipv6": []
   }
 }

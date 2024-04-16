@@ -3,7 +3,10 @@
   "handle": "DESALES-NETWORK",
   "description": "DeSales University",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "23.159.136.0/24",
+      "147.106.192.0/18"
+    ],
     "ipv6": []
   }
 }

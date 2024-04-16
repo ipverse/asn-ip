@@ -3,7 +3,9 @@
   "handle": "NUSOCLOUD-CT",
   "description": "NUSO",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "209.237.153.0/24"
+    ],
     "ipv6": []
   }
 }

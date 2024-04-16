@@ -3,7 +3,9 @@
   "handle": "OMDHM",
   "description": "OFFICE MUNICIPAL D HABITATION DE MONTREAL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "173.231.119.0/24"
+    ],
     "ipv6": []
   }
 }

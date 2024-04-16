@@ -3,7 +3,15 @@
   "handle": "CDCK",
   "description": "Civilized Discourse Construction Kit, Inc.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "74.82.16.0/24",
+      "184.104.178.0/24",
+      "184.105.99.0/24",
+      "216.66.8.0/24"
+    ],
+    "ipv6": [
+      "2602:fd3f::/46",
+      "2602:fd3f:e00::/48"
+    ]
   }
 }

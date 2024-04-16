@@ -3,7 +3,9 @@
   "handle": "SCI-SOLUTIONS",
   "description": "SCI SOLUTIONS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "64.95.136.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "KRSC",
   "description": "Federal State Budgetary Scientific Institution Federal Research Center Krasnoyarsk Scientific Center of the Siberian Branch of the Russian Academy of Sciences",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "217.79.48.0/22"
+    ],
     "ipv6": []
   }
 }

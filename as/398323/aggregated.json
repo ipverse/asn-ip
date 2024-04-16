@@ -3,7 +3,10 @@
   "handle": "PSBOS-1",
   "description": "Provide Support LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "142.202.9.0/24",
+      "204.144.106.0/24"
+    ],
     "ipv6": []
   }
 }

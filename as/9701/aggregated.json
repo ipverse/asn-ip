@@ -3,7 +3,10 @@
   "handle": "VIAWEB",
   "description": "viaweb",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.194.253.0/24",
+      "103.194.254.0/23"
+    ],
     "ipv6": []
   }
 }

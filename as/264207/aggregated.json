@@ -3,7 +3,11 @@
   "handle": "PONTO-NET-TELECOM",
   "description": "Ponto Net Telecom",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "138.97.212.0/22"
+    ],
+    "ipv6": [
+      "2804:2430:8000::/33"
+    ]
   }
 }

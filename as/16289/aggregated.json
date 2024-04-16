@@ -3,7 +3,9 @@
   "handle": "ING-DIRECT-SPAIN",
   "description": "ING Bank N.V.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.41.234.0/24"
+    ],
     "ipv6": []
   }
 }

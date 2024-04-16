@@ -3,7 +3,9 @@
   "handle": "CINELAB",
   "description": "CineLab Data Delivery LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.50.139.0/24"
+    ],
     "ipv6": []
   }
 }

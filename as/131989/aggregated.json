@@ -3,7 +3,9 @@
   "handle": "PFU-UMC-MS01",
   "description": "PFU Limited Network",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "202.216.170.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "RAND-GRAPHICS",
   "description": "Rand Graphics, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "66.210.77.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,10 @@
   "handle": "FEDERATED-STATES-OF",
   "description": "Federated States of Micronesia Telecomm. Corporation",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "43.248.158.0/23",
+      "119.252.126.0/23"
+    ],
     "ipv6": []
   }
 }

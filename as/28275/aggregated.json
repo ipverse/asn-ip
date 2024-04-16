@@ -3,7 +3,9 @@
   "handle": "FUNDAO-CSPER-LBERO",
   "description": "Fundao Csper Lbero",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "201.33.96.0/20"
+    ],
     "ipv6": []
   }
 }

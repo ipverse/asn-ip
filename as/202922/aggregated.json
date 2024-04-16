@@ -3,7 +3,9 @@
   "handle": "METALLGUTTEN",
   "description": "Internet Vikings International AB",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.150.112.0/22"
+    ],
     "ipv6": []
   }
 }

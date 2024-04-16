@@ -3,7 +3,9 @@
   "handle": "ZFP-SA",
   "description": "Polpharma Spolka Akcyjna",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.235.202.0/24"
+    ],
     "ipv6": []
   }
 }

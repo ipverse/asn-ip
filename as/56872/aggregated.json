@@ -3,7 +3,9 @@
   "handle": "MACHOSTER",
   "description": "Vadim Kyrilovich PE",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "178.16.125.0/24"
+    ],
     "ipv6": []
   }
 }

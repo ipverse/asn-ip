@@ -3,7 +3,11 @@
   "handle": "DIRECTCREDIT",
   "description": "M Tech LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "31.217.255.0/24",
+      "92.255.48.0/24",
+      "194.87.65.0/24"
+    ],
     "ipv6": []
   }
 }

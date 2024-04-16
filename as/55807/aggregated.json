@@ -3,7 +3,10 @@
   "handle": "HERBALIFE-HK",
   "description": "Herbalife International of Hong Kong",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "202.61.103.0/24",
+      "203.16.239.0/24"
+    ],
     "ipv6": []
   }
 }

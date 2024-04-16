@@ -3,7 +3,10 @@
   "handle": "TMGCORE",
   "description": "TMGcore, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "23.156.144.0/24",
+      "134.195.61.0/24"
+    ],
     "ipv6": []
   }
 }

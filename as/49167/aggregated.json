@@ -3,7 +3,12 @@
   "handle": "COMUTEL",
   "description": "COMUTEL d.o.o.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "91.212.69.0/24",
+      "195.88.216.0/23"
+    ],
+    "ipv6": [
+      "2001:67c:2210::/48"
+    ]
   }
 }

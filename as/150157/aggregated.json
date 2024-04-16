@@ -3,7 +3,9 @@
   "handle": "CARTRACK-AP",
   "description": "Cartrack",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.15.227.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "SOFTHEON",
   "description": "Softheon, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "138.84.204.0/22"
+    ],
     "ipv6": []
   }
 }

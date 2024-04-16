@@ -3,7 +3,11 @@
   "handle": "IDNIC-AMT-ASIANET-ID",
   "description": "PT Asianet Media Teknologi",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "103.66.38.0/24"
+    ],
+    "ipv6": [
+      "2001:df1:a6c0::/48"
+    ]
   }
 }

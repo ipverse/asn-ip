@@ -3,7 +3,9 @@
   "handle": "CVQ1-RIPE",
   "description": "Ayuntamiento Rivas Vaciamadrid",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "109.234.88.0/24"
+    ],
     "ipv6": []
   }
 }

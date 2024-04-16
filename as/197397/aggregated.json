@@ -3,7 +3,9 @@
   "handle": "SESCAM",
   "description": "Servicio de Salud de Castilla-Mancha",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.76.0.0/22"
+    ],
     "ipv6": []
   }
 }

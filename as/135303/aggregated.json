@@ -3,7 +3,9 @@
   "handle": "NSPL-AP",
   "description": "N.I.T.V Streamz Pvt. Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.213.31.0/24"
+    ],
     "ipv6": []
   }
 }

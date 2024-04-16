@@ -3,7 +3,9 @@
   "handle": "MODERN-WOODMEN-OF-AMERICA",
   "description": "Modern Woodmen of America",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "64.32.49.0/24"
+    ],
     "ipv6": []
   }
 }

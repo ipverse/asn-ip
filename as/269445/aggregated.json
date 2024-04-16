@@ -3,7 +3,9 @@
   "handle": "DCESARY-EMPREENDIMENTOS",
   "description": "DCESARY EMPREENDIMENTOS LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.186.180.0/22"
+    ],
     "ipv6": []
   }
 }

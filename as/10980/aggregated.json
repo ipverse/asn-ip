@@ -3,7 +3,13 @@
   "handle": "STAFFORD",
   "description": "Stafford Communications, Inc.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "74.3.144.0/22",
+      "198.167.164.0/22",
+      "208.77.140.0/22"
+    ],
+    "ipv6": [
+      "2604:5880::/48"
+    ]
   }
 }

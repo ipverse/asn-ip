@@ -3,7 +3,11 @@
   "handle": "TURBONETNETWORK",
   "description": "TURBONET.NETWORK LTDA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.171.92.0/22"
+    ],
+    "ipv6": [
+      "2804:597c::/32"
+    ]
   }
 }

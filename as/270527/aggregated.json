@@ -3,7 +3,11 @@
   "handle": "PLANET-TELECOM",
   "description": "Planet Telecom",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "187.49.176.0/22"
+    ],
+    "ipv6": [
+      "2804:6d5c::/32"
+    ]
   }
 }

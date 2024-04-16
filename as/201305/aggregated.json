@@ -3,7 +3,9 @@
   "handle": "WILWAW",
   "description": "WOJSKOWY INSTYTUT LACZNOSCI",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "176.111.168.0/22"
+    ],
     "ipv6": []
   }
 }

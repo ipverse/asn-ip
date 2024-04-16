@@ -3,7 +3,9 @@
   "handle": "DAMCO",
   "description": "Damco Solutions Pvt. Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.252.245.0/24"
+    ],
     "ipv6": []
   }
 }

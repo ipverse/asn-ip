@@ -3,7 +3,11 @@
   "handle": "WEBNET-TELECOM",
   "description": "WEBNET Telecom",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "189.85.112.0/22"
+    ],
+    "ipv6": [
+      "2804:6d8c::/32"
+    ]
   }
 }

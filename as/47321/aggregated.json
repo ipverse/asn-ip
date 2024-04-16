@@ -3,7 +3,10 @@
   "handle": "IIF",
   "description": "Autonomous Non-Profit Organization Institute of Engineering Physics",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.6.124.0/22",
+      "185.9.72.0/22"
+    ],
     "ipv6": []
   }
 }

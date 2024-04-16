@@ -3,7 +3,9 @@
   "handle": "TWCU-NET",
   "description": "Tokyo Woman\u0027s Christian University",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "202.11.168.0/21"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,10 @@
   "handle": "HOAG",
   "description": "Hoag Memorial Hospital Presbyterian",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "198.190.36.0/24",
+      "198.190.54.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,11 @@
   "handle": "FNET-TECNOLOGIA-EIRELI",
   "description": "FNET TECNOLOGIA EIRELI ME",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "128.201.196.0/22"
+    ],
+    "ipv6": [
+      "2804:3f80::/32"
+    ]
   }
 }

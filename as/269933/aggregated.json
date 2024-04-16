@@ -3,7 +3,9 @@
   "handle": "GUTIERREZ-BUTRON-NAVIL-OSCAR",
   "description": "GUTIERREZ BUTRON NAVIL OSCAR (CONECTIS)",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.191.192.0/22"
+    ],
     "ipv6": []
   }
 }

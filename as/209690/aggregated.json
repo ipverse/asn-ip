@@ -3,7 +3,9 @@
   "handle": "TELECOMAVENIDA",
   "description": "TELECOMUNICACIONES AVENIDA SL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.132.244.0/22"
+    ],
     "ipv6": []
   }
 }

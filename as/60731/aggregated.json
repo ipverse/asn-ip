@@ -3,7 +3,10 @@
   "handle": "CONNECTO",
   "description": "Prostie tehnologii Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "5.149.158.0/24",
+      "193.32.202.0/24"
+    ],
     "ipv6": []
   }
 }

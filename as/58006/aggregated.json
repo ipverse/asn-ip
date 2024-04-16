@@ -3,7 +3,10 @@
   "handle": "TECHNET",
   "description": "LTD Technet",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.237.144.0/24",
+      "91.247.155.0/24"
+    ],
     "ipv6": []
   }
 }

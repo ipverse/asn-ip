@@ -3,7 +3,10 @@
   "handle": "REALBROADBANDCOM",
   "description": "Real Broadband Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.8.112.0/22",
+      "194.38.12.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,11 @@
   "handle": "MARIIX-GU",
   "description": "University of Guam",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "103.115.192.0/24"
+    ],
+    "ipv6": [
+      "2001:df7:df80::/48"
+    ]
   }
 }

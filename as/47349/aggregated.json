@@ -3,7 +3,10 @@
   "handle": "TRC-BRT-LLC",
   "description": "Teleradiocompany Bytradiotehnika Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "93.171.155.0/24",
+      "193.228.235.0/24"
+    ],
     "ipv6": []
   }
 }

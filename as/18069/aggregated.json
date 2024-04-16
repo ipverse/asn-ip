@@ -3,7 +3,9 @@
   "handle": "SOFTBANK",
   "description": "SB Technology Corp.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "133.217.192.0/24"
+    ],
     "ipv6": []
   }
 }

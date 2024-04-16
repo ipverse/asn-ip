@@ -3,7 +3,9 @@
   "handle": "WAVEZONE",
   "description": "WAVEZONE SRL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "188.212.131.0/24"
+    ],
     "ipv6": []
   }
 }

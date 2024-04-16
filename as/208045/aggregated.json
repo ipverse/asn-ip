@@ -3,7 +3,11 @@
   "handle": "GRUNERNETT",
   "description": "Domeneshop AS",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "151.249.126.0/24"
+    ],
+    "ipv6": [
+      "2a01:5b40:ac3::/48"
+    ]
   }
 }

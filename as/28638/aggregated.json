@@ -3,7 +3,12 @@
   "handle": "CENTRO-OESTE-TELECOM",
   "description": "CENTRO OESTE TELECOM",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "138.118.160.0/22",
+      "186.209.216.0/22"
+    ],
+    "ipv6": [
+      "2804:dcc::/32"
+    ]
   }
 }

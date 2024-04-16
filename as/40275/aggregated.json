@@ -3,7 +3,9 @@
   "handle": "SECURITYMETRICS",
   "description": "SecurityMetrics, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "204.238.82.0/24"
+    ],
     "ipv6": []
   }
 }

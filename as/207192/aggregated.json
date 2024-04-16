@@ -3,7 +3,9 @@
   "handle": "TELCOMDATA",
   "description": "Anfeya LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.161.48.0/22"
+    ],
     "ipv6": []
   }
 }

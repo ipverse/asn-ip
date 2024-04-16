@@ -3,7 +3,9 @@
   "handle": "MORE-TELECOM",
   "description": "MUE SEA TELECOM VGA MELITOPOL ZAPORIZHIE REGION",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.178.244.0/24"
+    ],
     "ipv6": []
   }
 }

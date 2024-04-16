@@ -3,7 +3,9 @@
   "handle": "EMINNET",
   "description": "Emin Net Telekomunikasyon Sanayi Ve Ticaret Limited Sirketi",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "217.26.216.0/24"
+    ],
     "ipv6": []
   }
 }

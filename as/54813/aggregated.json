@@ -3,7 +3,9 @@
   "handle": "GREYSTONE",
   "description": "GREYSTONE POWER CORPORATION, AN ELECTRIC MEMBERSHIP CORPORATION",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.85.160.0/19"
+    ],
     "ipv6": []
   }
 }

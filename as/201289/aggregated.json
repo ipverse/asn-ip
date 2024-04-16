@@ -3,7 +3,9 @@
   "handle": "ESENDEX",
   "description": "COMMIFY UK LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.78.52.0/22"
+    ],
     "ipv6": []
   }
 }

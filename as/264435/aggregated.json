@@ -3,7 +3,9 @@
   "handle": "FULLCONECT-TELECOM",
   "description": "Fullconect Telecom",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "131.221.220.0/22"
+    ],
     "ipv6": []
   }
 }

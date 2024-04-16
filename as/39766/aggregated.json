@@ -3,7 +3,10 @@
   "handle": "NETKABEL",
   "description": "TRD Net Kabel",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "89.185.192.0/19",
+      "185.14.204.0/22"
+    ],
     "ipv6": []
   }
 }

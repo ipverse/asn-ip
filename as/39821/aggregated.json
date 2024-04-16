@@ -3,7 +3,10 @@
   "handle": "CANMOS",
   "description": "OOO Versiya",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "89.107.120.0/21",
+      "109.233.240.0/21"
+    ],
     "ipv6": []
   }
 }

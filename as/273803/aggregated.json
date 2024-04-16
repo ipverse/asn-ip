@@ -3,7 +3,11 @@
   "handle": "TIAGO-COINASKI",
   "description": "Tiago Coinaski - Me",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "177.73.132.0/22"
+    ],
+    "ipv6": [
+      "2804:8c74::/32"
+    ]
   }
 }

@@ -3,7 +3,9 @@
   "handle": "KFKI",
   "description": "MTA Wigner Fizikai Kutatokozpont",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "148.6.0.0/16"
+    ],
     "ipv6": []
   }
 }

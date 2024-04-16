@@ -3,7 +3,9 @@
   "handle": "NASDAQPTYLTD-AP",
   "description": "NASDAQ PTY LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "204.190.128.0/23"
+    ],
     "ipv6": []
   }
 }

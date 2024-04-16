@@ -3,7 +3,9 @@
   "handle": "KAZCOMBANK",
   "description": "Kazakhstan Halyk Bank JSC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.93.56.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "HEALTHCOMM-AP",
   "description": "MEDICAL DIRECTOR",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "113.11.232.0/22"
+    ],
     "ipv6": []
   }
 }

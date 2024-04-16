@@ -3,9 +3,11 @@
   "handle": "SUANET-TELECOM",
   "description": "Suanet Telecom",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "201.54.180.0/22"
+    ],
     "ipv6": [
-      "2804:7858:8000::/34"
+      "2804:7858::/32"
     ]
   }
 }

@@ -3,7 +3,11 @@
   "handle": "LOG-LINK-INFORMATICA",
   "description": "LOG LINK INFORMATICA LTDA - ME",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.224.208.0/22"
+    ],
+    "ipv6": [
+      "2804:4500::/32"
+    ]
   }
 }

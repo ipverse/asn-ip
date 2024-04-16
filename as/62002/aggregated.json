@@ -3,7 +3,11 @@
   "handle": "RISSAKRAFTLAG",
   "description": "Rissa Kraftlag SA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "185.49.196.0/22"
+    ],
+    "ipv6": [
+      "2a01:a520::/32"
+    ]
   }
 }

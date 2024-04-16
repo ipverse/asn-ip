@@ -3,7 +3,9 @@
   "handle": "TMSL1",
   "description": "TELKO MANAGED SERVICES LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "102.218.76.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "LOOLISH",
   "description": "Gaming 4 Fun SRL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "89.45.47.0/24"
+    ],
     "ipv6": []
   }
 }

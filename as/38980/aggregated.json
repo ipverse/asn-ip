@@ -3,7 +3,9 @@
   "handle": "PRIORBANK-BY",
   "description": "Priorbank JSC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.137.116.0/24"
+    ],
     "ipv6": []
   }
 }

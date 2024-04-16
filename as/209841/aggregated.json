@@ -3,7 +3,9 @@
   "handle": "MCS",
   "description": "MANAGEMENT SERVICES CORPORATION EAD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.201.39.0/24"
+    ],
     "ipv6": []
   }
 }

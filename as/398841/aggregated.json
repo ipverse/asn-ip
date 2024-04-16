@@ -3,7 +3,9 @@
   "handle": "AVERITT-IP-BLOCK",
   "description": "Averitt Express, INC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "64.190.206.0/24"
+    ],
     "ipv6": []
   }
 }

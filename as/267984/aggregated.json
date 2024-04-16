@@ -3,7 +3,11 @@
   "handle": "TRANSDADOS-INTERNET-EIRELI",
   "description": "TRANSDADOS INTERNET EIRELI",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.167.40.0/22"
+    ],
+    "ipv6": [
+      "2804:5638::/32"
+    ]
   }
 }

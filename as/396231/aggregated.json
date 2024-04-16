@@ -3,7 +3,11 @@
   "handle": "ABILITY-BUSINESS",
   "description": "Ability Business",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "208.103.163.0/24"
+    ],
+    "ipv6": [
+      "2620:1f:a000::/48"
+    ]
   }
 }

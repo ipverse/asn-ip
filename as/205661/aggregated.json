@@ -3,7 +3,9 @@
   "handle": "NTTSECURITY",
   "description": "NTT Security GmbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "62.96.23.0/24"
+    ],
     "ipv6": []
   }
 }

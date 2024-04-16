@@ -3,7 +3,9 @@
   "handle": "FUNDAO-INSTITUTO-NACIONAL",
   "description": "FUNDAO INSTITUTO NACIONAL DE TELECOMUNICAES",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "131.221.240.0/22"
+    ],
     "ipv6": []
   }
 }

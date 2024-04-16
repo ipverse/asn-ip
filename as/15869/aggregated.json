@@ -3,7 +3,9 @@
   "handle": "EDS-SE",
   "description": "Enterprise Services Sverige AB",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "62.3.128.0/21"
+    ],
     "ipv6": []
   }
 }

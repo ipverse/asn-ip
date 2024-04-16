@@ -3,7 +3,9 @@
   "handle": "SUPPLYHQ-INET",
   "description": "Maintenance Supply Headquarters",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "204.87.203.0/24"
+    ],
     "ipv6": []
   }
 }

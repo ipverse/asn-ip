@@ -3,7 +3,9 @@
   "handle": "HVHS",
   "description": "Heritage Valley Health System",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "8.41.194.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "SPOLNET",
   "description": "POPE servis s.r.o.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.84.164.0/22"
+    ],
     "ipv6": []
   }
 }

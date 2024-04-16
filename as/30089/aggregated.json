@@ -3,7 +3,9 @@
   "handle": "EASTMANCU-KPT",
   "description": "Eastman Credit Union",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "67.237.211.0/24"
+    ],
     "ipv6": []
   }
 }

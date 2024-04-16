@@ -3,7 +3,11 @@
   "handle": "BCBSNC",
   "description": "Blue Cross and Blue Shield of North Carolina",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "170.69.0.0/18",
+      "170.69.64.0/19",
+      "170.69.96.0/20"
+    ],
     "ipv6": []
   }
 }

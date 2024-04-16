@@ -3,7 +3,10 @@
   "handle": "PTKOM",
   "description": "PortTelekom LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "85.95.128.0/19",
+      "193.124.9.0/24"
+    ],
     "ipv6": []
   }
 }

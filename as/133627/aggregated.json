@@ -3,7 +3,9 @@
   "handle": "APEAGERSLTD-AP",
   "description": "A.P.Eagers Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.36.69.0/24"
+    ],
     "ipv6": []
   }
 }

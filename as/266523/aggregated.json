@@ -3,9 +3,11 @@
   "handle": "ADW-TELECOM",
   "description": "ADW TELECOM",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "170.244.228.0/22"
+    ],
     "ipv6": [
-      "2804:3914:8000::/33"
+      "2804:3914::/32"
     ]
   }
 }

@@ -3,7 +3,10 @@
   "handle": "HUSSON-UNIVERSITY",
   "description": "Husson University",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "198.51.16.0/22",
+      "198.51.20.0/23"
+    ],
     "ipv6": []
   }
 }

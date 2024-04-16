@@ -3,7 +3,10 @@
   "handle": "NCB",
   "description": "Saudi National Bank",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "95.140.160.0/22",
+      "213.5.172.0/22"
+    ],
     "ipv6": []
   }
 }

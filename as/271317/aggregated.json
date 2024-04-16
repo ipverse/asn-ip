@@ -3,7 +3,11 @@
   "handle": "FORTI-COMERCIO-TECNOLOGIA",
   "description": "FORTI COMERCIO E TECNOLOGIA LTDA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "179.0.88.0/22"
+    ],
+    "ipv6": [
+      "2804:79a0::/32"
+    ]
   }
 }

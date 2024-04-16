@@ -3,7 +3,9 @@
   "handle": "IMEGROUPPVTLTD-AP",
   "description": "IME Group Pvt. Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.139.152.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,11 @@
   "handle": "MULVI-INSTITUIO-PAGAMENTO",
   "description": "MULVI Instituio de Pagamento S.A.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.228.157.0/24"
+    ],
+    "ipv6": [
+      "2801:80:2310::/48"
+    ]
   }
 }

@@ -3,7 +3,9 @@
   "handle": "ONECLOUD",
   "description": "OneCloud LDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "102.209.248.0/22"
+    ],
     "ipv6": []
   }
 }

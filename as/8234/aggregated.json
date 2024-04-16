@@ -3,7 +3,9 @@
   "handle": "RAI",
   "description": "RAI RadioTelevisione Italiana",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "212.162.64.0/18"
+    ],
     "ipv6": []
   }
 }

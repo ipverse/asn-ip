@@ -3,7 +3,9 @@
   "handle": "FLL2",
   "description": "FIBRE LINK LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "102.214.252.0/22"
+    ],
     "ipv6": []
   }
 }

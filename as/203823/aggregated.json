@@ -3,7 +3,9 @@
   "handle": "FJORDANEIT-ITEAM10",
   "description": "ITEAM 10 AS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.122.196.0/22"
+    ],
     "ipv6": []
   }
 }

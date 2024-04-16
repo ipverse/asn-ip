@@ -3,7 +3,9 @@
   "handle": "VALUEDRUGCOMPANYVD-32AS",
   "description": "Value Drug Company Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "209.203.213.0/24"
+    ],
     "ipv6": []
   }
 }

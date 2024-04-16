@@ -3,7 +3,10 @@
   "handle": "DORSEY-WHITNEY",
   "description": "Dorsey \u0026 Whitney LLP",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "170.112.0.0/21",
+      "170.112.24.0/21"
+    ],
     "ipv6": []
   }
 }

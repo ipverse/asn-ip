@@ -3,7 +3,9 @@
   "handle": "PORTER-HOSPITAL",
   "description": "Porter Hospital",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "64.30.34.0/24"
+    ],
     "ipv6": []
   }
 }

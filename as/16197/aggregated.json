@@ -3,7 +3,9 @@
   "handle": "INNOVANTI",
   "description": "Innovanti Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.85.88.0/22"
+    ],
     "ipv6": []
   }
 }

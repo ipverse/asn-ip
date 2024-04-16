@@ -3,7 +3,9 @@
   "handle": "ADSYSTEMS",
   "description": "SYSAD IT SERVICES SL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "89.40.80.0/24"
+    ],
     "ipv6": []
   }
 }

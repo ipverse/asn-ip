@@ -3,7 +3,9 @@
   "handle": "DTECH",
   "description": "Data Tech SRL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.27.70.0/23"
+    ],
     "ipv6": []
   }
 }

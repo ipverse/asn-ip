@@ -3,7 +3,9 @@
   "handle": "DZHUVA",
   "description": "DZHUVA LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.191.151.0/24"
+    ],
     "ipv6": []
   }
 }

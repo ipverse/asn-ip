@@ -3,7 +3,9 @@
   "handle": "MAXISAT",
   "description": "Maxisat Oy",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "83.216.0.0/19"
+    ],
     "ipv6": []
   }
 }

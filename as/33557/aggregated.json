@@ -3,7 +3,9 @@
   "handle": "DT-ATL-QTS",
   "description": "Dealership Technologies, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.81.70.0/24"
+    ],
     "ipv6": []
   }
 }

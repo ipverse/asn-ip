@@ -3,7 +3,11 @@
   "handle": "SUMMADOM",
   "description": "Broad-Connect Telecom Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "162.213.136.0/22",
+      "192.199.12.0/22",
+      "208.82.88.0/21"
+    ],
     "ipv6": []
   }
 }

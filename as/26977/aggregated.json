@@ -3,7 +3,9 @@
   "handle": "BRG-SPORTS",
   "description": "BRG Sports, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "205.196.64.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "IXARIS-MT",
   "description": "Ixaris Systems (Malta) Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.216.153.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,11 @@
   "handle": "SO-MIGUEL-TELECOMUNICAES",
   "description": "so miguel telecomunicaes e informatica ltda - m",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "167.250.72.0/22"
+    ],
+    "ipv6": [
+      "2804:2c20::/32"
+    ]
   }
 }

@@ -3,7 +3,9 @@
   "handle": "CITYOFTHORNTON",
   "description": "City of Thornton",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.117.212.0/24"
+    ],
     "ipv6": []
   }
 }

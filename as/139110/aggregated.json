@@ -3,7 +3,9 @@
   "handle": "NEWCAMPUS1-LENOVO",
   "description": "Lenovo Mobile Communication Technology (Beijing) Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.212.12.0/22"
+    ],
     "ipv6": []
   }
 }

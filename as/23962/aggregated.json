@@ -3,7 +3,11 @@
   "handle": "VNIX-VN",
   "description": "Vietnam Internet Network Information Center",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "117.122.116.0/22"
+    ],
+    "ipv6": [
+      "2001:dc8:3000::/48"
+    ]
   }
 }

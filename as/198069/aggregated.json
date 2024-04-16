@@ -3,7 +3,9 @@
   "handle": "RUSFUNDNET",
   "description": "JSC Russian Funds",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.231.96.0/24"
+    ],
     "ipv6": []
   }
 }

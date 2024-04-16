@@ -3,7 +3,9 @@
   "handle": "GUOV",
   "description": "OOO VTC-MOBILE",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.168.187.0/24"
+    ],
     "ipv6": []
   }
 }

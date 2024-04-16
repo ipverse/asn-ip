@@ -3,7 +3,9 @@
   "handle": "CICLO-TECNOLOGIA-INFORMAO",
   "description": "Ciclo Tecnologia da Informao LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "138.122.44.0/22"
+    ],
     "ipv6": []
   }
 }

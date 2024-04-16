@@ -3,7 +3,11 @@
   "handle": "LUOGU-AP",
   "description": "Shanghai Luogu Network Technology Co., Ltd.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "194.127.229.0/24"
+    ],
+    "ipv6": [
+      "2a13:1801:180::/43"
+    ]
   }
 }

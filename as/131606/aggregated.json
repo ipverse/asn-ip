@@ -3,7 +3,9 @@
   "handle": "CHIEFCLOUDIAAS-A",
   "description": "Chief Telecom Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.124.40.0/23"
+    ],
     "ipv6": []
   }
 }

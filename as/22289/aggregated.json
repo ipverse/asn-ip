@@ -3,7 +3,9 @@
   "handle": "CEFCU",
   "description": "CEFCU",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "50.227.242.0/24"
+    ],
     "ipv6": []
   }
 }

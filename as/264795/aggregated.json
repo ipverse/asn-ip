@@ -3,7 +3,10 @@
   "handle": "COOPERATIVA-OBRAS-SERVICIOS",
   "description": "COOPERATIVA DE OBRAS SERVICIOS PUBLICOS Y CREDITO DE MONTE CRISTO LIMITADA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "170.238.40.0/22",
+      "190.96.115.0/24"
+    ],
     "ipv6": []
   }
 }

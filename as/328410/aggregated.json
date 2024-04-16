@@ -3,7 +3,9 @@
   "handle": "FROGFOOT",
   "description": "Frogfoot Networks",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "41.85.127.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,10 @@
   "handle": "RENKLINET",
   "description": "ibrahim tufek",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "93.114.183.0/24",
+      "185.255.92.0/24"
+    ],
     "ipv6": []
   }
 }

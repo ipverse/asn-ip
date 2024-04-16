@@ -3,7 +3,9 @@
   "handle": "LUZANOV-ANTON-ALEKSANDROVICH",
   "description": "IE Luzanov Anton Aleksandrovich",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.147.91.0/24"
+    ],
     "ipv6": []
   }
 }

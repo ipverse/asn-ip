@@ -3,7 +3,9 @@
   "handle": "BWT",
   "description": "BWT Holding GmbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "80.120.58.0/24"
+    ],
     "ipv6": []
   }
 }

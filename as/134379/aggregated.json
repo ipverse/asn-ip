@@ -3,7 +3,9 @@
   "handle": "TGGO-AP",
   "description": "TGGO COMPANY LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.63.132.0/22"
+    ],
     "ipv6": []
   }
 }

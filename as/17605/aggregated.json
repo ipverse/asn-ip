@@ -3,7 +3,9 @@
   "handle": "KTNG",
   "description": "KTNG Coporation",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.140.12.0/23"
+    ],
     "ipv6": []
   }
 }

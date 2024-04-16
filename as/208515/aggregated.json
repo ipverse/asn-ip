@@ -3,7 +3,9 @@
   "handle": "BFG-NET",
   "description": "BFG-NET Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "146.120.241.0/24"
+    ],
     "ipv6": []
   }
 }

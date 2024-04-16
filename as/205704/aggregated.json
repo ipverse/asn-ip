@@ -3,7 +3,9 @@
   "handle": "AMAPSPA",
   "description": "Amap SPA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.200.148.0/22"
+    ],
     "ipv6": []
   }
 }

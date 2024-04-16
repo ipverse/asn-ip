@@ -3,7 +3,11 @@
   "handle": "CTIGLOBAL-IE",
   "description": "EKCO CLOUD IRELAND LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "5.159.40.0/21",
+      "46.245.208.0/21",
+      "185.61.60.0/22"
+    ],
     "ipv6": []
   }
 }

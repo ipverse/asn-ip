@@ -3,7 +3,9 @@
   "handle": "IDNIC-DIKTI-ID",
   "description": "Direktorat Jenderal Pendidikan Tinggi",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.56.191.0/24"
+    ],
     "ipv6": []
   }
 }

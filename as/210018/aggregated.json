@@ -3,7 +3,9 @@
   "handle": "ASNEW",
   "description": "Bank CIC Schweiz AG",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.124.148.0/22"
+    ],
     "ipv6": []
   }
 }

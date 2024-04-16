@@ -3,7 +3,9 @@
   "handle": "SCSKMYANMARLTD",
   "description": "SCSK Myanmar Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.163.159.0/24"
+    ],
     "ipv6": []
   }
 }

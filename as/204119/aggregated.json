@@ -3,7 +3,12 @@
   "handle": "ISPONE",
   "description": "ispOne business GmbH",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "84.38.64.0/21",
+      "84.38.76.0/22"
+    ],
+    "ipv6": [
+      "2a00:5080::/32"
+    ]
   }
 }

@@ -3,7 +3,9 @@
   "handle": "ROAMABILITY",
   "description": "ROAMABILITY LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "104.225.210.0/23"
+    ],
     "ipv6": []
   }
 }

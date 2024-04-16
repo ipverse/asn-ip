@@ -3,7 +3,12 @@
   "handle": "PPS",
   "description": "Paducah Power System",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "199.36.132.0/22",
+      "204.62.128.0/22"
+    ],
+    "ipv6": [
+      "2606:7d00::/32"
+    ]
   }
 }

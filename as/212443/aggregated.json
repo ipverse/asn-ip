@@ -3,7 +3,9 @@
   "handle": "LMA-2",
   "description": "LMA CJSC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "37.202.15.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "AIR-NET",
   "description": "AIRNET MARIUSZ KAJDAS, TOMASZ PYREK sp.j.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.246.208.0/21"
+    ],
     "ipv6": []
   }
 }

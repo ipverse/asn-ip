@@ -3,7 +3,9 @@
   "handle": "TDC-AS1",
   "description": "Trondent Developement Corp",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.3.18.0/24"
+    ],
     "ipv6": []
   }
 }

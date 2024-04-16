@@ -3,7 +3,11 @@
   "handle": "CITY-OF-CHARLOTTE",
   "description": "City of Charlotte",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "205.141.0.0/18"
+    ],
+    "ipv6": [
+      "2620:10c:e000::/40"
+    ]
   }
 }

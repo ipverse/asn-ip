@@ -3,7 +3,9 @@
   "handle": "MPAPL-AP",
   "description": "Mobis Parts Australia Pty Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.144.101.0/24"
+    ],
     "ipv6": []
   }
 }

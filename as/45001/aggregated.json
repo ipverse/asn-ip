@@ -3,7 +3,9 @@
   "handle": "KYRGYZSTAN-BANK",
   "description": "Commercial bank KYRGYZSTAN OJSC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "95.46.154.0/24"
+    ],
     "ipv6": []
   }
 }

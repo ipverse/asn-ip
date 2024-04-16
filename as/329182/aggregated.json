@@ -3,7 +3,9 @@
   "handle": "AMICS-TECHNOLOGIES-LIMITED",
   "description": "AMICS TECHNOLOGIES LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "102.213.88.0/23"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "UNIVERSITY-LETHBRIDGE",
   "description": "University of Lethbridge",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "142.66.0.0/16"
+    ],
     "ipv6": []
   }
 }

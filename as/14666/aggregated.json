@@ -3,7 +3,9 @@
   "handle": "SPIRIT1",
   "description": "SpiritBank",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "70.168.227.0/24"
+    ],
     "ipv6": []
   }
 }

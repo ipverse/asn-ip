@@ -3,7 +3,9 @@
   "handle": "ENX-FUND",
   "description": "ENX FUND INC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "170.246.220.0/22"
+    ],
     "ipv6": []
   }
 }

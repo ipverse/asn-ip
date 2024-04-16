@@ -3,7 +3,11 @@
   "handle": "GL-TELECOM",
   "description": "GL TELECOM LTDA - ME",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "201.182.8.0/22"
+    ],
+    "ipv6": [
+      "2804:4264::/32"
+    ]
   }
 }

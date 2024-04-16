@@ -3,7 +3,9 @@
   "handle": "SPEER-MANAGEMENT-SERVICES",
   "description": "Speer Management Services (PTY)LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "196.41.65.0/24"
+    ],
     "ipv6": []
   }
 }

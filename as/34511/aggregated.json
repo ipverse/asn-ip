@@ -3,7 +3,12 @@
   "handle": "F-INTEGRA",
   "description": "Fundacion Integra",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "80.73.144.0/20",
+      "185.190.240.0/22"
+    ],
+    "ipv6": [
+      "2a01:250:f000::/36"
+    ]
   }
 }

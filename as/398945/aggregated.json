@@ -3,7 +3,9 @@
   "handle": "UPWARD-BROADBAND-2",
   "description": "Upward Broadband",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "161.38.36.0/22"
+    ],
     "ipv6": []
   }
 }

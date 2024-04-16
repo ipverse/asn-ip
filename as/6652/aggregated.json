@@ -3,7 +3,9 @@
   "handle": "PIMA-COLLEGE",
   "description": "Pima Community College",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "144.90.0.0/16"
+    ],
     "ipv6": []
   }
 }

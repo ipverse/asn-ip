@@ -3,7 +3,12 @@
   "handle": "VNCLOUDTECH-VN",
   "description": "VIET NAM CLOUD TECHNOLOGY JOINT STOCK COMPANY",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "103.166.140.0/22"
+    ],
+    "ipv6": [
+      "2407:5740::/48",
+      "2407:57c0::/48"
+    ]
   }
 }

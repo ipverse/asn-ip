@@ -3,7 +3,9 @@
   "handle": "SLG-2",
   "description": "SL Green Realty Corp",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.98.99.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "KAS-CABLE",
   "description": "K.A.S. Cable T.V., Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "8.36.48.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,11 @@
   "handle": "FIXEDMOBILETELCO",
   "description": "Fixed Mobile Telecommunications (Pty) LTD",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "102.134.120.0/21"
+    ],
+    "ipv6": [
+      "2c0f:ef28::/32"
+    ]
   }
 }

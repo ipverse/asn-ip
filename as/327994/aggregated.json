@@ -3,7 +3,9 @@
   "handle": "BRITAM-HOLDINGS-LIMITED",
   "description": "Britam Holdings Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "196.41.68.0/24"
+    ],
     "ipv6": []
   }
 }

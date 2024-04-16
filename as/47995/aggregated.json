@@ -3,7 +3,9 @@
   "handle": "AT",
   "description": "Apple Technologies LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.164.16.0/22"
+    ],
     "ipv6": []
   }
 }

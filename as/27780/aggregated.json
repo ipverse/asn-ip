@@ -3,7 +3,11 @@
   "handle": "AEROPUERTOS-SERVICIOS-AUXILIARES",
   "description": "Aeropuertos y Servicios Auxiliares",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "201.131.44.0/24"
+    ],
+    "ipv6": [
+      "2801:c4:215::/48"
+    ]
   }
 }

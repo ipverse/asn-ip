@@ -3,7 +3,10 @@
   "handle": "SAMANTEL",
   "description": "Kish Cell Pars Co. (PJS)",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.245.228.0/22",
+      "109.162.240.0/21"
+    ],
     "ipv6": []
   }
 }

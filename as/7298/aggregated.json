@@ -3,7 +3,9 @@
   "handle": "ENTERPRISE-SERVICES-BRASIL",
   "description": "Enterprise Services Brasil Servicos de Tecnogia",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "200.160.176.0/20"
+    ],
     "ipv6": []
   }
 }

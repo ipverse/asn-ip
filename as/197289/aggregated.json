@@ -3,7 +3,10 @@
   "handle": "HELMES",
   "description": "AS HELMES",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "95.215.132.0/22",
+      "212.107.52.0/22"
+    ],
     "ipv6": []
   }
 }

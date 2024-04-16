@@ -3,7 +3,11 @@
   "handle": "LANTECH",
   "description": "STIS Engineering LLC",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "83.220.160.0/22"
+    ],
+    "ipv6": [
+      "2a01:b8a0::/32"
+    ]
   }
 }

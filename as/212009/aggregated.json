@@ -3,7 +3,9 @@
   "handle": "M-S",
   "description": "M\u0026S Software Engineering AG",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.9.76.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "PIXTEL",
   "description": "PIXTEL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "81.255.156.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,12 @@
   "handle": "DIPM-ANTEOR",
   "description": "Diffusion Informatique Port Marly Sarl",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "78.24.32.0/21"
+    ],
+    "ipv6": [
+      "2a01:470::/29",
+      "2a0a:85c0::/29"
+    ]
   }
 }

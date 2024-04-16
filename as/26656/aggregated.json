@@ -3,7 +3,9 @@
   "handle": "MISYS",
   "description": "Finastra Technology Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "206.136.185.0/24"
+    ],
     "ipv6": []
   }
 }

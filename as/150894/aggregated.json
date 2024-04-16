@@ -3,7 +3,9 @@
   "handle": "SONNGUYEN-VN",
   "description": "SON NGUYEN GROUP CORPORATION",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.75.74.0/23"
+    ],
     "ipv6": []
   }
 }

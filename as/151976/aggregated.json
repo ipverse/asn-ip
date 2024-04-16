@@ -3,7 +3,11 @@
   "handle": "CFNPL-AP",
   "description": "Core Fibre",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "103.67.56.0/23"
+    ],
+    "ipv6": [
+      "2401:47a0:3000::/48"
+    ]
   }
 }

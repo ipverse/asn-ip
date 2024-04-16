@@ -3,7 +3,9 @@
   "handle": "GARCIA-EDGARDO-MATIAS",
   "description": "Garcia Edgardo Matias (Intercable Garcia)",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.227.8.0/22"
+    ],
     "ipv6": []
   }
 }

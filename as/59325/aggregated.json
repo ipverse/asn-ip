@@ -3,7 +3,11 @@
   "handle": "IXS-AP",
   "description": "IXSFORALL, INC.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.64.80.0/22",
+      "103.25.176.0/22",
+      "192.82.52.0/22"
+    ],
     "ipv6": []
   }
 }

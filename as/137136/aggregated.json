@@ -3,7 +3,9 @@
   "handle": "IASRIDC",
   "description": "Indian Agricultural Statistics Research Institute",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.111.37.0/24"
+    ],
     "ipv6": []
   }
 }

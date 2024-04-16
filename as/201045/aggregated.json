@@ -3,7 +3,9 @@
   "handle": "IT-IFMGROUP-GE",
   "description": "BASE DIGITALE PLATFORM S.P.A.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.71.47.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "CCC",
   "description": "City of Carson City",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.158.255.0/24"
+    ],
     "ipv6": []
   }
 }

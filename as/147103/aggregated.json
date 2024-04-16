@@ -3,7 +3,9 @@
   "handle": "IDNIC-UMMETRO-ID",
   "description": "Universitas Muhammadiyah Metro",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.174.223.0/24"
+    ],
     "ipv6": []
   }
 }

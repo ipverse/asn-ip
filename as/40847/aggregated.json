@@ -3,7 +3,9 @@
   "handle": "IBML-US-HQ",
   "description": "ibml",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "207.201.229.0/24"
+    ],
     "ipv6": []
   }
 }

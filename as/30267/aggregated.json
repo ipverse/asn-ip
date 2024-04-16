@@ -3,7 +3,9 @@
   "handle": "CITY-WACO-01",
   "description": "City of Waco",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "208.79.137.0/24"
+    ],
     "ipv6": []
   }
 }

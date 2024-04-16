@@ -3,7 +3,12 @@
   "handle": "LINK-DIGITAL-SOLUCOES",
   "description": "LINK DIGITAL SOLUCOES EM INTERNET LTDA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "143.255.180.0/23",
+      "143.255.182.0/24"
+    ],
+    "ipv6": [
+      "2804:740c::/32"
+    ]
   }
 }

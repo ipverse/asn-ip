@@ -3,7 +3,10 @@
   "handle": "AIRNET-01",
   "description": "Airnet Wireless Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.143.39.0/24",
+      "206.220.188.0/22"
+    ],
     "ipv6": []
   }
 }

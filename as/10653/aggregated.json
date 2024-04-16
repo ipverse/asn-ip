@@ -3,7 +3,9 @@
   "handle": "MVANET",
   "description": "USAI.NET",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "216.236.240.0/20"
+    ],
     "ipv6": []
   }
 }

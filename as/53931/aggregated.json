@@ -3,7 +3,9 @@
   "handle": "TALQ-NET-01",
   "description": "Talquin Electric Coop, Inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "184.60.216.0/24"
+    ],
     "ipv6": []
   }
 }

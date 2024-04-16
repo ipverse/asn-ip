@@ -3,7 +3,9 @@
   "handle": "U-MOBILE",
   "description": "U Mobile (Cellular) Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "181.177.216.0/22"
+    ],
     "ipv6": []
   }
 }

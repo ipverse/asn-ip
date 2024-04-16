@@ -3,7 +3,10 @@
   "handle": "PACIFICU-OREGON",
   "description": "Pacific University",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "64.59.224.0/19",
+      "216.182.112.0/20"
+    ],
     "ipv6": []
   }
 }

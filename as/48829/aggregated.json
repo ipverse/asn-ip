@@ -3,7 +3,9 @@
   "handle": "SYKESCE",
   "description": "SYKES Kozep Europa Kft.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.130.203.0/24"
+    ],
     "ipv6": []
   }
 }

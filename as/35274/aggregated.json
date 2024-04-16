@@ -3,7 +3,9 @@
   "handle": "NPLAY",
   "description": "IP4NET Sp. z o.o.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.109.209.0/24"
+    ],
     "ipv6": []
   }
 }

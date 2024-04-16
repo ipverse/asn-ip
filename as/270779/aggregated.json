@@ -3,7 +3,11 @@
   "handle": "NETSHOW-TELECOMUMICACOES",
   "description": "Netshow Telecomumicacoes",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "177.72.200.0/22"
+    ],
+    "ipv6": [
+      "2804:7148::/32"
+    ]
   }
 }

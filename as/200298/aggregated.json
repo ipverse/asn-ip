@@ -3,7 +3,9 @@
   "handle": "BIPNET-COMPUTER",
   "description": "Bipnet Computer SRL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "81.181.195.0/24"
+    ],
     "ipv6": []
   }
 }

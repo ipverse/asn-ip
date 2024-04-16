@@ -3,7 +3,9 @@
   "handle": "GENDALF",
   "description": "Company GENDALF LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.141.94.0/24"
+    ],
     "ipv6": []
   }
 }

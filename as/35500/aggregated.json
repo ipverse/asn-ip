@@ -3,7 +3,9 @@
   "handle": "WESTERNUNION",
   "description": "Western Union Processing Lithuania UAB",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.47.143.0/24"
+    ],
     "ipv6": []
   }
 }

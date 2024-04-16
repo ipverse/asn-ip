@@ -3,7 +3,9 @@
   "handle": "OPC-PHX",
   "description": "Oracle Corporation",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.9.14.0/24"
+    ],
     "ipv6": []
   }
 }

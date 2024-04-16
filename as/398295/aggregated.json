@@ -3,7 +3,9 @@
   "handle": "IEC-ELECTRONICS-01",
   "description": "Creation Technologies",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "158.247.9.0/24"
+    ],
     "ipv6": []
   }
 }

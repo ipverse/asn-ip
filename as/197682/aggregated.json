@@ -3,7 +3,9 @@
   "handle": "NOM1044",
   "description": "Niezalezny Operator Miedzystrefowy Sp zoo",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.162.44.0/22"
+    ],
     "ipv6": []
   }
 }

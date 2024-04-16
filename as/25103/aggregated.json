@@ -3,7 +3,10 @@
   "handle": "TFM",
   "description": "TFM Group Software SRL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "80.96.234.0/24",
+      "80.96.247.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "DCI",
   "description": "Drummond Company, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "12.234.7.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,11 @@
   "handle": "PHOTONSPARK",
   "description": "PHOTON SPARK SRL",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "81.181.245.0/24"
+    ],
+    "ipv6": [
+      "2a05:91c3:3::/48"
+    ]
   }
 }

@@ -3,7 +3,12 @@
   "handle": "GDLICANET",
   "description": "Gdlicanet, S.A. de C.V.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "167.249.252.0/22",
+      "170.244.108.0/22"
+    ],
+    "ipv6": [
+      "2806:20f::/32"
+    ]
   }
 }

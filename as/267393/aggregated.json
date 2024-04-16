@@ -3,7 +3,9 @@
   "handle": "ACCESS-INTERNET",
   "description": "ACCESS INTERNET",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.234.216.0/22"
+    ],
     "ipv6": []
   }
 }

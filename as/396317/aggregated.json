@@ -3,7 +3,12 @@
   "handle": "VITALINK-PA05",
   "description": "Vitalink LLC",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "104.193.40.0/22",
+      "172.110.136.0/22"
+    ],
+    "ipv6": [
+      "2605:3c40::/32"
+    ]
   }
 }

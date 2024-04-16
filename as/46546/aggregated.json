@@ -3,7 +3,9 @@
   "handle": "EKKUM",
   "description": "EKKUM INC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.26.68.0/22"
+    ],
     "ipv6": []
   }
 }

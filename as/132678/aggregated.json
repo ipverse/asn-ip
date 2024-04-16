@@ -3,7 +3,9 @@
   "handle": "IDNIC-UNEJ-ID",
   "description": "Universitas Jember",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.241.204.0/22"
+    ],
     "ipv6": []
   }
 }

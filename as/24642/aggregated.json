@@ -3,7 +3,12 @@
   "handle": "NL-CAVEO",
   "description": "Caveo Internet BV",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "81.18.160.0/20",
+      "185.70.212.0/23"
+    ],
+    "ipv6": [
+      "2001:1aa8::/32"
+    ]
   }
 }

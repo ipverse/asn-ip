@@ -3,7 +3,9 @@
   "handle": "BOC-AP",
   "description": "Bank Of Ceylon",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.99.100.0/24"
+    ],
     "ipv6": []
   }
 }

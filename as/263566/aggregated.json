@@ -3,7 +3,12 @@
   "handle": "RONDON-TELECOM",
   "description": "RONDON TELECOM LTDA - ME",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "170.79.28.0/22",
+      "177.44.216.0/22"
+    ],
+    "ipv6": [
+      "2804:f18::/32"
+    ]
   }
 }

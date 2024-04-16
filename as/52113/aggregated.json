@@ -3,7 +3,10 @@
   "handle": "CONET-SERVICES",
   "description": "CONET Services GmbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "149.13.94.0/24",
+      "195.20.133.0/24"
+    ],
     "ipv6": []
   }
 }

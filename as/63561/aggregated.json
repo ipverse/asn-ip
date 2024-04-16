@@ -3,7 +3,10 @@
   "handle": "WESTONE",
   "description": "China Electronics Technology Cyber Security Co.,LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.203.216.0/22",
+      "202.61.88.0/22"
+    ],
     "ipv6": []
   }
 }

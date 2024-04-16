@@ -3,7 +3,12 @@
   "handle": "CITY-OF-HOPE",
   "description": "City of Hope Medical Center",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "151.152.91.0/24",
+      "151.152.92.0/24",
+      "151.152.96.0/19",
+      "151.152.128.0/19"
+    ],
     "ipv6": []
   }
 }

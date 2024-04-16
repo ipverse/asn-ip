@@ -3,7 +3,9 @@
   "handle": "BBMVPL-AP",
   "description": "Brown Family Wine Group",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.182.152.0/24"
+    ],
     "ipv6": []
   }
 }

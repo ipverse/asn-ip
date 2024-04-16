@@ -3,7 +3,9 @@
   "handle": "MOEK",
   "description": "Public Joint Stock Company Moscow Integrated Power Company",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.104.149.0/24"
+    ],
     "ipv6": []
   }
 }

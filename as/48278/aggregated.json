@@ -3,7 +3,10 @@
   "handle": "UKRDATACOM-NET",
   "description": "UKRDATAKOM LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "94.244.0.0/18",
+      "185.191.148.0/22"
+    ],
     "ipv6": []
   }
 }

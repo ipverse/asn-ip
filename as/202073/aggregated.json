@@ -3,7 +3,9 @@
   "handle": "ABS-ACLOUD-CLIENTS1",
   "description": "Itego a.s.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.49.188.0/24"
+    ],
     "ipv6": []
   }
 }

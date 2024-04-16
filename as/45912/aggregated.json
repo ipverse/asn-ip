@@ -3,7 +3,9 @@
   "handle": "INDUE-AP",
   "description": "Indue Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "203.12.221.0/24"
+    ],
     "ipv6": []
   }
 }

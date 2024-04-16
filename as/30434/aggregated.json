@@ -3,7 +3,9 @@
   "handle": "LOEWS",
   "description": "LOEWS CORPORATION",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "208.65.56.0/24"
+    ],
     "ipv6": []
   }
 }

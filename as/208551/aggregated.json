@@ -3,7 +3,9 @@
   "handle": "AABENRAAKOMMUNE",
   "description": "Aabenraa Kommune",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.129.212.0/22"
+    ],
     "ipv6": []
   }
 }

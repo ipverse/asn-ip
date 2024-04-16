@@ -3,7 +3,9 @@
   "handle": "PL-RADIO5",
   "description": "PIOTR BAJER trading as AGENCJA REKLAMOWA RADIO 5",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.60.229.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,11 @@
   "handle": "SMLABS1",
   "description": "SmartLabs Holding Ltd",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "185.5.40.0/22"
+    ],
+    "ipv6": [
+      "2a02:76c0:1::/48"
+    ]
   }
 }

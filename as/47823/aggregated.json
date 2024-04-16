@@ -3,7 +3,10 @@
   "handle": "NHL-AS2",
   "description": "Netwise Hosting Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.94.196.0/22",
+      "193.219.121.0/24"
+    ],
     "ipv6": []
   }
 }

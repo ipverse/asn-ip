@@ -3,7 +3,10 @@
   "handle": "THINFACTORY",
   "description": "Thinfactory N.V",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.105.200.0/22",
+      "188.64.48.0/21"
+    ],
     "ipv6": []
   }
 }

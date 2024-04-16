@@ -3,7 +3,9 @@
   "handle": "ACS-COC-TX",
   "description": "CITY OF CARROLLTON - TEXAS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "98.6.104.0/24"
+    ],
     "ipv6": []
   }
 }

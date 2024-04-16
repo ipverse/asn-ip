@@ -3,7 +3,9 @@
   "handle": "ANSBB-ASNNET-1",
   "description": "Verizon Business",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "68.140.192.0/24"
+    ],
     "ipv6": []
   }
 }

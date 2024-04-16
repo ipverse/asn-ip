@@ -3,7 +3,12 @@
   "handle": "LEXMARK",
   "description": "Lexmark International Inc.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "192.146.101.0/24"
+    ],
+    "ipv6": [
+      "2607:6a40:1::/48",
+      "2607:6a40:2::/47"
+    ]
   }
 }

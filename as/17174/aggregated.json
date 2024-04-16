@@ -3,7 +3,9 @@
   "handle": "WALMART-LABS",
   "description": "Wal-Mart Stores, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.158.254.0/23"
+    ],
     "ipv6": []
   }
 }

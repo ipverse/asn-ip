@@ -3,7 +3,9 @@
   "handle": "ELTRIC-TELECOMUNICAES-INFORMTICA",
   "description": "Eltric Telecomunicaes e Informtica LTDA ME",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "143.0.180.0/22"
+    ],
     "ipv6": []
   }
 }

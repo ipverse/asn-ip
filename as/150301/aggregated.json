@@ -3,7 +3,9 @@
   "handle": "WATERCORP-NON-AP",
   "description": "WATER CORPORATION",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "159.52.0.0/16"
+    ],
     "ipv6": []
   }
 }

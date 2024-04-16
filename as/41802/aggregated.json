@@ -3,7 +3,9 @@
   "handle": "KVIDEX",
   "description": "Limited Liability Company Kvidex-Telecom",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "93.182.0.0/18"
+    ],
     "ipv6": []
   }
 }

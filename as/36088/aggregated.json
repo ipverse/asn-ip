@@ -3,7 +3,12 @@
   "handle": "YAHOO-BCST-AC2",
   "description": "Oath Holdings Inc.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "69.147.88.0/22",
+      "209.73.185.0/24"
+    ],
+    "ipv6": [
+      "2001:4998:18::/48"
+    ]
   }
 }

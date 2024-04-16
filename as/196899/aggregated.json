@@ -3,7 +3,9 @@
   "handle": "INTEGER",
   "description": "INTEGER.pl S.A.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.216.25.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "BLUEFIN-TRADING",
   "description": "Bluefin Trading, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "198.251.31.0/24"
+    ],
     "ipv6": []
   }
 }

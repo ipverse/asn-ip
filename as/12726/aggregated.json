@@ -3,7 +3,10 @@
   "handle": "LH-AIRPLUS",
   "description": "Lufthansa Airplus Servicekarten GmbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.254.30.0/24",
+      "195.149.122.0/24"
+    ],
     "ipv6": []
   }
 }

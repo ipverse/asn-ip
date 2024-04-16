@@ -3,7 +3,9 @@
   "handle": "DEGIRO",
   "description": "flatexDEGIRO Bank AG",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "149.13.78.0/23"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "COMUNICACIONES-CABLEVISION",
   "description": "Comunicaciones Cablevision Ltda.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "200.95.184.0/22"
+    ],
     "ipv6": []
   }
 }

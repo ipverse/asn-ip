@@ -3,7 +3,9 @@
   "handle": "SOFTPHONEVIP",
   "description": "Echo 45 Trading (Pty) Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "102.217.216.0/22"
+    ],
     "ipv6": []
   }
 }

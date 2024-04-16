@@ -3,7 +3,9 @@
   "handle": "ZRNETPOPC-IN",
   "description": "ZR NET OPC PRIVATE LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.181.66.0/24"
+    ],
     "ipv6": []
   }
 }

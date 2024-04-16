@@ -3,7 +3,9 @@
   "handle": "SAVARNETWORK-AP",
   "description": "Savar Network",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.124.111.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "CLOUDISP-IN",
   "description": "ONBLUECLOUD INFOTECH PVT LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.42.13.0/24"
+    ],
     "ipv6": []
   }
 }

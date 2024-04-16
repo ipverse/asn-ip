@@ -3,7 +3,9 @@
   "handle": "DC",
   "description": "DC Ukraine Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.169.207.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "NDGF",
   "description": "NORDUnet",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "109.105.124.0/22"
+    ],
     "ipv6": []
   }
 }

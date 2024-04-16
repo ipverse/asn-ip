@@ -3,7 +3,9 @@
   "handle": "METATECHNOLOGIES",
   "description": "Results Direct",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "204.153.44.0/22"
+    ],
     "ipv6": []
   }
 }

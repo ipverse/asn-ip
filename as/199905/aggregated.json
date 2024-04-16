@@ -3,7 +3,9 @@
   "handle": "TRIANGULO",
   "description": "TRIANGULO DE CONTROL G-3 S.A.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.39.60.0/22"
+    ],
     "ipv6": []
   }
 }

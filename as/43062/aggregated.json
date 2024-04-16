@@ -3,7 +3,9 @@
   "handle": "PAP",
   "description": "Polska Agencja Prasowa SA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.200.216.0/24"
+    ],
     "ipv6": []
   }
 }

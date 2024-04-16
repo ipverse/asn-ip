@@ -3,7 +3,9 @@
   "handle": "IDNIC-ASDPINDONESIAFERRY-ID",
   "description": "PT. ASDP INDONESIAFERRY (PERSERO)",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.219.197.0/24"
+    ],
     "ipv6": []
   }
 }

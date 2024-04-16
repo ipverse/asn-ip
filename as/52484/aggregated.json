@@ -3,7 +3,10 @@
   "handle": "CIUDAD-GLOBAL",
   "description": "CIUDAD GLOBAL S.A.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "190.196.251.0/24",
+      "190.196.254.0/24"
+    ],
     "ipv6": []
   }
 }

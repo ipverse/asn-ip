@@ -3,7 +3,9 @@
   "handle": "VSTOASN",
   "description": "Federal Cartridge Co.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.168.16.0/21"
+    ],
     "ipv6": []
   }
 }

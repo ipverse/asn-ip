@@ -3,7 +3,11 @@
   "handle": "VERUS",
   "description": "Verus Corporation",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "208.84.72.0/22"
+    ],
+    "ipv6": [
+      "2606:4880::/32"
+    ]
   }
 }

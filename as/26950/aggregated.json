@@ -3,7 +3,9 @@
   "handle": "LIPPERT-AS1",
   "description": "Lippert Components Manufacturing, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "74.119.196.0/22"
+    ],
     "ipv6": []
   }
 }

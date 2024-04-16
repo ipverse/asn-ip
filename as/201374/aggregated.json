@@ -3,7 +3,9 @@
   "handle": "GREEK-PARLIAMENT",
   "description": "Hellenic Parliament",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.251.32.0/24"
+    ],
     "ipv6": []
   }
 }

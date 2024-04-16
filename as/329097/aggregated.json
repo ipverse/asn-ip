@@ -3,7 +3,9 @@
   "handle": "SFL1",
   "description": "SI Futures (Pty) Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "102.215.36.0/22"
+    ],
     "ipv6": []
   }
 }

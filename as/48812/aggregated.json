@@ -3,7 +3,9 @@
   "handle": "DCN",
   "description": "Office IT B.V.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "95.129.24.0/23"
+    ],
     "ipv6": []
   }
 }

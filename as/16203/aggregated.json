@@ -3,7 +3,10 @@
   "handle": "NCG-BANCO",
   "description": "NCG Banco",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "213.170.41.0/24",
+      "213.170.46.0/24"
+    ],
     "ipv6": []
   }
 }

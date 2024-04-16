@@ -3,7 +3,9 @@
   "handle": "EE-ERGO",
   "description": "Ergo Kindlustuse AS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.212.244.0/24"
+    ],
     "ipv6": []
   }
 }

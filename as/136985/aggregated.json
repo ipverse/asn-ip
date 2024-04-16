@@ -3,7 +3,9 @@
   "handle": "RELIGARE-AP",
   "description": "Religare Broking Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.149.38.0/24"
+    ],
     "ipv6": []
   }
 }

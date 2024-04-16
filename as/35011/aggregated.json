@@ -3,7 +3,9 @@
   "handle": "PROSVETA",
   "description": "Prosveta Sofia PLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "88.80.129.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "KAOLIN",
   "description": "KAOLIN-AD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "212.25.56.0/24"
+    ],
     "ipv6": []
   }
 }

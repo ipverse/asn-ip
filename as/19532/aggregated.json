@@ -3,7 +3,11 @@
   "handle": "TRILLIANTNC",
   "description": "Trilliant Networks Inc.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "173.195.74.0/24"
+    ],
+    "ipv6": [
+      "2602:f9be::/48"
+    ]
   }
 }

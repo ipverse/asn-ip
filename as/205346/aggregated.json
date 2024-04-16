@@ -3,7 +3,9 @@
   "handle": "EANS",
   "description": "Lennuliiklusteeninduse AS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.97.36.0/23"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "SWPS",
   "description": "SWPS UNIWERSYTET",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.201.164.0/24"
+    ],
     "ipv6": []
   }
 }

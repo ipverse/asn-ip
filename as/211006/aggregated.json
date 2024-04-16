@@ -3,7 +3,9 @@
   "handle": "LINKORGNETW",
   "description": "Linkorg Networks Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.62.163.0/24"
+    ],
     "ipv6": []
   }
 }

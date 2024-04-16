@@ -3,7 +3,9 @@
   "handle": "NETREN",
   "description": "NETREN Maciej Ignatowski, Monika Kedzior Spolka Cywilna",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "188.114.88.0/23"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "AMERICAN-STUDENT-ASSISTANCE",
   "description": "American Student Assistance",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "198.246.243.0/24"
+    ],
     "ipv6": []
   }
 }

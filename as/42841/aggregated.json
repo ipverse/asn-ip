@@ -3,7 +3,12 @@
   "handle": "ANTIK",
   "description": "ANTIK Telecom s.r.o",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "88.212.0.0/18",
+      "185.61.16.0/22"
+    ],
+    "ipv6": [
+      "2a02:130::/32"
+    ]
   }
 }

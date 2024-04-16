@@ -3,7 +3,11 @@
   "handle": "JOBKEY-VN",
   "description": "JOBKEY JOINT STOCK COMPANY",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "103.167.88.0/23"
+    ],
+    "ipv6": [
+      "2407:66c0::/48"
+    ]
   }
 }

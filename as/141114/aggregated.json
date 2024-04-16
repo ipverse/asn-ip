@@ -3,7 +3,9 @@
   "handle": "EASTMEDIA-ID",
   "description": "PT Super Media Indonesia",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.157.78.0/23"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "NEUROPUBLIC",
   "description": "NEUROPUBLIC SA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.23.168.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,12 @@
   "handle": "NETSUL-SERVICO-PROVEDOR",
   "description": "Netsul Servico de Provedor Ltda",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "138.118.4.0/22",
+      "168.196.8.0/22"
+    ],
+    "ipv6": [
+      "2804:24c4::/32"
+    ]
   }
 }

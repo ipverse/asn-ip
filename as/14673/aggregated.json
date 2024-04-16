@@ -3,7 +3,10 @@
   "handle": "FIBERSPEED",
   "description": "FiberSpeed",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "172.81.0.0/23",
+      "172.81.3.0/24"
+    ],
     "ipv6": []
   }
 }

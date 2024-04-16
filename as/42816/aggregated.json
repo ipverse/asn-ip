@@ -3,7 +3,9 @@
   "handle": "FLUMOTION",
   "description": "FLUMOTION SERVICES, S.A.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "46.16.39.0/24"
+    ],
     "ipv6": []
   }
 }

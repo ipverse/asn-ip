@@ -3,7 +3,9 @@
   "handle": "PAGESAT",
   "description": "Network Wizards",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.92.112.0/24"
+    ],
     "ipv6": []
   }
 }

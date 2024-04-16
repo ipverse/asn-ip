@@ -3,7 +3,9 @@
   "handle": "DL-SP",
   "description": "Directlink, LLC.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.143.244.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "SERVICE-V",
   "description": "Service-V LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "84.23.51.0/24"
+    ],
     "ipv6": []
   }
 }

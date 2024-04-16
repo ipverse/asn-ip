@@ -3,7 +3,9 @@
   "handle": "DHP-ASN-PRI",
   "description": "Dean Health Plan, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "204.86.216.0/23"
+    ],
     "ipv6": []
   }
 }

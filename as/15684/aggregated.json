@@ -3,7 +3,9 @@
   "handle": "OPTICOM-SIA",
   "description": "OPTICOM SIA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "159.148.208.0/24"
+    ],
     "ipv6": []
   }
 }

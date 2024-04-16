@@ -3,7 +3,9 @@
   "handle": "COOPERATIVA-PROVISION-ELECTRICIDAD",
   "description": "COOPERATIVA DE PROVISION DE ELECTRICIDAD Y OTROS SERVICIOS PBLICOS Y VIVIENDA DE MOQUEHU LIMITADA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.182.180.0/22"
+    ],
     "ipv6": []
   }
 }

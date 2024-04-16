@@ -3,7 +3,9 @@
   "handle": "PRLINK-TELECOMUNICACAO",
   "description": "PRLINK TELECOMUNICACAO LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "177.70.248.0/22"
+    ],
     "ipv6": []
   }
 }

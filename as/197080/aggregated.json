@@ -3,7 +3,9 @@
   "handle": "RAGRAD",
   "description": "INMEDIS LLc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.190.88.0/24"
+    ],
     "ipv6": []
   }
 }

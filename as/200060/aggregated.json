@@ -3,7 +3,9 @@
   "handle": "SMA",
   "description": "Sjofartsverket",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "161.54.0.0/16"
+    ],
     "ipv6": []
   }
 }

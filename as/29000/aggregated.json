@@ -3,7 +3,9 @@
   "handle": "SENSYS",
   "description": "Sensor Systems Limited Company",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "93.189.80.0/21"
+    ],
     "ipv6": []
   }
 }

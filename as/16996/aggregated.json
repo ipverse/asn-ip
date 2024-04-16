@@ -3,7 +3,10 @@
   "handle": "TARRANTCOUNTYTX-GOV",
   "description": "Tarrant County",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "67.135.243.0/24",
+      "192.84.52.0/23"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "SWOTRAM-IN",
   "description": "Swot Services",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.183.42.0/23"
+    ],
     "ipv6": []
   }
 }

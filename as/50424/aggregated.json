@@ -3,7 +3,9 @@
   "handle": "WIDECOM",
   "description": "Widecom Systems SRL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "89.37.141.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,10 @@
   "handle": "AHN",
   "description": "AHN s.a.r.l",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.99.220.0/24",
+      "185.99.223.0/24"
+    ],
     "ipv6": []
   }
 }

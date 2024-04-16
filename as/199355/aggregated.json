@@ -3,7 +3,11 @@
   "handle": "LANDSTINGET-DALARNA",
   "description": "Landstinget Dalarna",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "194.71.32.0/19"
+    ],
+    "ipv6": [
+      "2001:67c:1398::/48"
+    ]
   }
 }

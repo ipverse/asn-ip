@@ -3,7 +3,9 @@
   "handle": "TYTECH-TECHNOLOGY-LIMITED",
   "description": "Tytech Technology Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.196.220.0/23"
+    ],
     "ipv6": []
   }
 }

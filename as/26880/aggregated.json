@@ -3,7 +3,9 @@
   "handle": "NODELORD",
   "description": "NodeLord, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "157.254.27.0/24"
+    ],
     "ipv6": []
   }
 }

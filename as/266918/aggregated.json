@@ -3,7 +3,9 @@
   "handle": "NCB-TELECOMUNICAES-EIRELI",
   "description": "NCB TELECOMUNICAES EIRELI EPP",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.224.176.0/22"
+    ],
     "ipv6": []
   }
 }

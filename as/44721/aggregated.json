@@ -3,7 +3,9 @@
   "handle": "COESYS",
   "description": "TELCOMATICA S.R.L.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.200.202.0/24"
+    ],
     "ipv6": []
   }
 }

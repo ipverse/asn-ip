@@ -3,7 +3,9 @@
   "handle": "ICANON",
   "description": "ICANON Associates, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "161.129.63.0/24"
+    ],
     "ipv6": []
   }
 }

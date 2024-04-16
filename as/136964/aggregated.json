@@ -3,7 +3,10 @@
   "handle": "WISNL-AP",
   "description": "NZ Safety Blackwoods",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.183.142.0/23",
+      "167.179.2.0/24"
+    ],
     "ipv6": []
   }
 }

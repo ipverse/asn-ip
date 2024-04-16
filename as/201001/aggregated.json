@@ -3,7 +3,9 @@
   "handle": "SPEEDTRANSFER",
   "description": "Krzysztof Antoni Krajewski trading as SpeedTransfer",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.89.64.0/22"
+    ],
     "ipv6": []
   }
 }

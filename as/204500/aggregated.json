@@ -3,7 +3,9 @@
   "handle": "ARCONT",
   "description": "Arcont d.d.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.72.119.0/24"
+    ],
     "ipv6": []
   }
 }

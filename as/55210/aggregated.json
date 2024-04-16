@@ -3,7 +3,9 @@
   "handle": "SAMC-HCHA",
   "description": "Southeast Alabama Medical Center",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "198.22.46.0/24"
+    ],
     "ipv6": []
   }
 }

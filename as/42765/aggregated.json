@@ -3,7 +3,12 @@
   "handle": "INFOTECH-LINER-MAIN",
   "description": "INFOTECH LTD.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.204.148.0/22",
+      "91.233.168.0/22",
+      "171.25.164.0/22",
+      "213.108.208.0/21"
+    ],
     "ipv6": []
   }
 }

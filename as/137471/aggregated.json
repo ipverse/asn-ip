@@ -3,7 +3,11 @@
   "handle": "INTERNZDF-NZ",
   "description": "New Zealand Defence Forces",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "119.15.0.0/21",
+      "119.15.8.0/24",
+      "119.15.13.0/24"
+    ],
     "ipv6": []
   }
 }

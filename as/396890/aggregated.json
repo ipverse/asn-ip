@@ -3,7 +3,9 @@
   "handle": "CITYOFREDMOND",
   "description": "City of Redmond Washington",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "204.152.60.0/23"
+    ],
     "ipv6": []
   }
 }

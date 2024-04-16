@@ -3,7 +3,10 @@
   "handle": "VULCAN-LLC",
   "description": "Vulcan LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "216.220.193.0/24",
+      "216.220.200.0/23"
+    ],
     "ipv6": []
   }
 }

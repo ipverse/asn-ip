@@ -3,7 +3,9 @@
   "handle": "ASBPSSBERBANK",
   "description": "JSC Sberbank",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "87.252.232.0/24"
+    ],
     "ipv6": []
   }
 }

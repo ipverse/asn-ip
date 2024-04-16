@@ -3,7 +3,9 @@
   "handle": "UPH-ID",
   "description": "Universitas Pelita Harapan",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "122.200.0.0/20"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,10 @@
   "handle": "MASSNET",
   "description": "Mass-Net LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.200.189.0/24",
+      "194.169.84.0/23"
+    ],
     "ipv6": []
   }
 }

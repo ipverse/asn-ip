@@ -3,7 +3,11 @@
   "handle": "DIGITALEWERTE",
   "description": "Gesellschaft fuer Digitale Werte mbH",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "185.168.228.0/22"
+    ],
+    "ipv6": [
+      "2a0b:f080::/32"
+    ]
   }
 }

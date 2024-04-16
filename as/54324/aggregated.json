@@ -3,7 +3,9 @@
   "handle": "GSI",
   "description": "Geographic Solutions, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "74.221.88.0/21"
+    ],
     "ipv6": []
   }
 }

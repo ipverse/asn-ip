@@ -3,7 +3,10 @@
   "handle": "MOTIV",
   "description": "MOTIV IT MASTERS B.V.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.224.122.0/23",
+      "185.52.104.0/22"
+    ],
     "ipv6": []
   }
 }

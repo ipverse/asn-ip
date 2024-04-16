@@ -3,7 +3,9 @@
   "handle": "HDVENTURE",
   "description": "Hyundai Engineering Construction Co., Ltd.(HDEC)",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "203.239.216.0/21"
+    ],
     "ipv6": []
   }
 }

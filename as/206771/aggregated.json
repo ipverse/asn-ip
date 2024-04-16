@@ -3,7 +3,9 @@
   "handle": "DGCX",
   "description": "Dubai Gold and Commodities Exchange DMCC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.171.116.0/22"
+    ],
     "ipv6": []
   }
 }

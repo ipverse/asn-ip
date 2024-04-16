@@ -3,7 +3,11 @@
   "handle": "DAS-PROVEDOR-INTERNET",
   "description": "D.A.S PROVEDOR DE INTERNET FIBRA OTICA E BANDA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.172.212.0/22"
+    ],
+    "ipv6": [
+      "2804:5ac8::/32"
+    ]
   }
 }

@@ -3,7 +3,9 @@
   "handle": "HPN-WF-ND-NET",
   "description": "High Point Networks",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "216.147.174.0/24"
+    ],
     "ipv6": []
   }
 }

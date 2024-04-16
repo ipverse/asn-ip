@@ -3,7 +3,9 @@
   "handle": "STWINET",
   "description": "ST WI-net Srl",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.148.152.0/22"
+    ],
     "ipv6": []
   }
 }

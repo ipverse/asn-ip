@@ -3,7 +3,9 @@
   "handle": "RACKDOG",
   "description": "Rackdog, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "149.51.225.0/24"
+    ],
     "ipv6": []
   }
 }

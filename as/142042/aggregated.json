@@ -3,7 +3,9 @@
   "handle": "CBHSL-AP",
   "description": "Christian Brothers High School Lewisham",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.165.97.0/24"
+    ],
     "ipv6": []
   }
 }

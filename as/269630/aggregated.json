@@ -3,7 +3,9 @@
   "handle": "JOS-CARLOS-SANTANA-JNIOR",
   "description": "Jos Carlos Santana Jnior-ME",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.190.204.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "TECH-RMMINET",
   "description": "CARDOCK HOSTING LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "212.23.192.0/24"
+    ],
     "ipv6": []
   }
 }

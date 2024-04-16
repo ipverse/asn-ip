@@ -3,7 +3,9 @@
   "handle": "HEGELE",
   "description": "Simon Hegele Gesellschaft fuer Logistik und Service mbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.36.188.0/24"
+    ],
     "ipv6": []
   }
 }

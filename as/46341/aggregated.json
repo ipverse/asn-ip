@@ -3,7 +3,9 @@
   "handle": "CPUC-001",
   "description": "California Public Utilities Commission",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "162.15.0.0/16"
+    ],
     "ipv6": []
   }
 }

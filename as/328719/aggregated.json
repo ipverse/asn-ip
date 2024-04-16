@@ -3,7 +3,10 @@
   "handle": "WIRED-TECH",
   "description": "Wired Tech Pty Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "102.219.16.0/22",
+      "102.222.112.0/22"
+    ],
     "ipv6": []
   }
 }

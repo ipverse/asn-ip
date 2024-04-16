@@ -3,7 +3,9 @@
   "handle": "COSKUNOZ-HOLDING",
   "description": "Coskunoz Holding A.S.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "62.244.243.0/24"
+    ],
     "ipv6": []
   }
 }

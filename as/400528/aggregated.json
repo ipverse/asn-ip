@@ -3,7 +3,11 @@
   "handle": "PELLA-FIBER",
   "description": "City of Pella",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "142.202.124.0/22"
+    ],
+    "ipv6": [
+      "2605:8a40::/32"
+    ]
   }
 }

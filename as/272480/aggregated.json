@@ -4,6 +4,8 @@
   "description": "Maicon Luis Dartora Camilotti - ME",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2804:81d8::/32"
+    ]
   }
 }

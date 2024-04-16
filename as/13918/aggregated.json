@@ -3,7 +3,9 @@
   "handle": "CITYOFTUCSON",
   "description": "City of Tucson",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "166.89.0.0/16"
+    ],
     "ipv6": []
   }
 }

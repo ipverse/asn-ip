@@ -3,7 +3,9 @@
   "handle": "KIMBERLYCLARK-AP",
   "description": "Kimberly-Clark Corporation",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "205.203.74.0/23"
+    ],
     "ipv6": []
   }
 }

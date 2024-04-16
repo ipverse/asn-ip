@@ -3,7 +3,9 @@
   "handle": "CWF-ASN-BGP",
   "description": "The Colonial Williamsburg Foundation",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "66.45.9.0/24"
+    ],
     "ipv6": []
   }
 }

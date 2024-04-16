@@ -3,7 +3,11 @@
   "handle": "JR-CONECT-SOLUCOES",
   "description": "Jr Conect Solucoes Em Rede Ltda - ME",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "138.204.112.0/22"
+    ],
+    "ipv6": [
+      "2804:2760::/32"
+    ]
   }
 }

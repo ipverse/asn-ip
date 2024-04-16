@@ -3,7 +3,9 @@
   "handle": "MPINET",
   "description": "MPInet",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "207.190.56.0/22"
+    ],
     "ipv6": []
   }
 }

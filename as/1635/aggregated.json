@@ -3,7 +3,10 @@
   "handle": "WSC-READING",
   "description": "Weidenhammer",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "66.146.224.0/23",
+      "206.223.112.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,10 @@
   "handle": "MBLL-ASN-01",
   "description": "Manitoba Liquor and Lotteries Corporation",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.251.164.0/24",
+      "198.89.8.0/23"
+    ],
     "ipv6": []
   }
 }

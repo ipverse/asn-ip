@@ -3,7 +3,9 @@
   "handle": "XPRESS-PAYMENT",
   "description": "Xpress Payment Solutions Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "80.88.8.0/24"
+    ],
     "ipv6": []
   }
 }

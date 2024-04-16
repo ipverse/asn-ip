@@ -3,7 +3,9 @@
   "handle": "ARTOS",
   "description": "ARTOS a.s.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "80.242.42.0/24"
+    ],
     "ipv6": []
   }
 }

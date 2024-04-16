@@ -3,7 +3,12 @@
   "handle": "LB",
   "description": "LATVIJAS BANKA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "91.194.176.0/24",
+      "194.153.79.0/24"
+    ],
+    "ipv6": [
+      "2001:67c:368::/48"
+    ]
   }
 }

@@ -3,7 +3,9 @@
   "handle": "FNPROFILE",
   "description": "Neuhofer Holz GmbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "83.68.142.0/24"
+    ],
     "ipv6": []
   }
 }

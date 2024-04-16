@@ -3,7 +3,9 @@
   "handle": "CNS",
   "description": "Cloud Nest Solutions Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "109.110.167.0/24"
+    ],
     "ipv6": []
   }
 }

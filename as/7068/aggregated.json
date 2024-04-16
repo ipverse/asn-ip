@@ -3,7 +3,10 @@
   "handle": "PFIZERNET",
   "description": "Pfizer Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "146.240.0.0/24",
+      "148.168.0.0/16"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,10 @@
   "handle": "PNI-ID",
   "description": "PT Pop Net Indonesia",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.108.156.0/22",
+      "103.153.40.0/24"
+    ],
     "ipv6": []
   }
 }

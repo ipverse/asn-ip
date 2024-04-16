@@ -3,7 +3,9 @@
   "handle": "ERICOM",
   "description": "ERICOM LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.67.195.0/24"
+    ],
     "ipv6": []
   }
 }

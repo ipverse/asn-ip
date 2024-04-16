@@ -3,7 +3,9 @@
   "handle": "CYANET-TELECOM",
   "description": "CYANET TELECOM LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "190.89.52.0/22"
+    ],
     "ipv6": []
   }
 }

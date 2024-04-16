@@ -3,7 +3,9 @@
   "handle": "RENAULT",
   "description": "JSC MOSCOW AUTOMOTIVE FACTORY MOSKVICH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.90.220.0/24"
+    ],
     "ipv6": []
   }
 }

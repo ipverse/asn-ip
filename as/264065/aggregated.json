@@ -3,7 +3,9 @@
   "handle": "WAVETECH-INTERNET",
   "description": "Wavetech Internet",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "143.202.0.0/22"
+    ],
     "ipv6": []
   }
 }

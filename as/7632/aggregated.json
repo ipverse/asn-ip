@@ -3,7 +3,11 @@
   "handle": "LINKNET-EXCHANGE-ID",
   "description": "Linknet-Exchange ASN",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "111.95.244.0/22"
+    ],
+    "ipv6": [
+      "2400:4c80::/32"
+    ]
   }
 }

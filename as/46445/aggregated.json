@@ -3,7 +3,9 @@
   "handle": "TELPAGE-EMP",
   "description": "TELPAGE",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.40.120.0/21"
+    ],
     "ipv6": []
   }
 }

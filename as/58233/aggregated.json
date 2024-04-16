@@ -3,7 +3,9 @@
   "handle": "MASBYTES",
   "description": "ASPA CLOUD SL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "5.56.164.0/22"
+    ],
     "ipv6": []
   }
 }

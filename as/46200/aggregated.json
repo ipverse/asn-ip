@@ -3,7 +3,9 @@
   "handle": "ITC-146",
   "description": "IT Curves",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "139.64.158.0/24"
+    ],
     "ipv6": []
   }
 }

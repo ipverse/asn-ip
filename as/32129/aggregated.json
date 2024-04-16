@@ -3,7 +3,9 @@
   "handle": "CITIZEN-WATCH-COMPANY",
   "description": "Citizen Watch Company Of America, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "12.42.175.0/24"
+    ],
     "ipv6": []
   }
 }

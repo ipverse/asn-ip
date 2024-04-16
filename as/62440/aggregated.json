@@ -3,7 +3,10 @@
   "handle": "TERRALINK",
   "description": "PLAZMATELEKOM LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.35.128.0/22",
+      "212.94.16.0/20"
+    ],
     "ipv6": []
   }
 }

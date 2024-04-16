@@ -3,7 +3,10 @@
   "handle": "BROADCORE",
   "description": "ITS AG",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.71.4.0/22",
+      "217.148.224.0/20"
+    ],
     "ipv6": []
   }
 }

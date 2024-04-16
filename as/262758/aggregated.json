@@ -3,7 +3,9 @@
   "handle": "UNISITES-SERVIOS-INFORMTICA",
   "description": "Unisites Servios de Informtica EIRELI",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "186.224.240.0/20"
+    ],
     "ipv6": []
   }
 }

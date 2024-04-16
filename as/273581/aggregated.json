@@ -4,6 +4,8 @@
   "description": "vitoria telecom ltda",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2804:891c::/40"
+    ]
   }
 }

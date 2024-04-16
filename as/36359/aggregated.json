@@ -3,7 +3,11 @@
   "handle": "WORTH-CIT-SCHOOLS-OH",
   "description": "Worthington City Schools",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "192.52.109.0/24"
+    ],
+    "ipv6": [
+      "2620:93:4000::/48"
+    ]
   }
 }

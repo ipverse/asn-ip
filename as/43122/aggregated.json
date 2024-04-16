@@ -3,7 +3,9 @@
   "handle": "CAPDYN",
   "description": "Capital Dynamics AG",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.110.128.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "ASAP-TELECOM",
   "description": "ASAP TELECOM LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "177.126.60.0/22"
+    ],
     "ipv6": []
   }
 }

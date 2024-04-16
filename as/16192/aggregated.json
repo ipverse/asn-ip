@@ -3,7 +3,9 @@
   "handle": "ROM-ELECTRONIC",
   "description": "Rom Electronic Company SRL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "188.241.48.0/21"
+    ],
     "ipv6": []
   }
 }

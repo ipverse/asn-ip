@@ -3,7 +3,9 @@
   "handle": "SCTA",
   "description": "South Central Telephone Association",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "206.248.0.0/19"
+    ],
     "ipv6": []
   }
 }

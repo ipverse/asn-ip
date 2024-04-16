@@ -3,7 +3,10 @@
   "handle": "CHOCTAW-NATION-OF-OKLAHOMA",
   "description": "Choctaw Nation of Oklahoma",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.231.91.0/24",
+      "194.156.207.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "VORTECH-AP",
   "description": "VORTECH BUSINESS SOLUTIONS PTY LTD.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.27.38.0/23"
+    ],
     "ipv6": []
   }
 }

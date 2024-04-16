@@ -3,7 +3,9 @@
   "handle": "AXASOFT",
   "description": "AXASOFT, a.s.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.243.122.0/24"
+    ],
     "ipv6": []
   }
 }

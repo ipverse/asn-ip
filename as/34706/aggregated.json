@@ -3,7 +3,9 @@
   "handle": "NPFSAFMAR",
   "description": "JSC NPF Deserving Future",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.151.227.0/24"
+    ],
     "ipv6": []
   }
 }

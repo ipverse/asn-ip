@@ -3,7 +3,9 @@
   "handle": "KSDNET",
   "description": "Korea Securities Depository",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "58.102.135.0/24"
+    ],
     "ipv6": []
   }
 }

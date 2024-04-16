@@ -3,7 +3,12 @@
   "handle": "REDHELIO",
   "description": "Helio Networks S.L",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "185.85.255.0/24",
+      "185.243.136.0/22"
+    ],
+    "ipv6": [
+      "2a0c:fd80::/29"
+    ]
   }
 }

@@ -3,7 +3,11 @@
   "handle": "YAMAHA-DEALERS",
   "description": "YAMAHA MOTOR CORPORATION, U.S.A",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "167.174.210.0/24",
+      "167.174.240.0/24",
+      "167.174.246.0/24"
+    ],
     "ipv6": []
   }
 }

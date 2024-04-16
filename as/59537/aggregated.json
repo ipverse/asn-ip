@@ -3,7 +3,9 @@
   "handle": "ASLIDERTELECOM",
   "description": "Lider-Telecom LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "95.215.240.0/22"
+    ],
     "ipv6": []
   }
 }

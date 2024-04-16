@@ -3,7 +3,9 @@
   "handle": "BHELCDT-IN",
   "description": "BHARAT HEAVY ELECTRICALS LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "202.41.32.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "CIAL-AP",
   "description": "Christchurch International Airport Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "202.14.168.0/24"
+    ],
     "ipv6": []
   }
 }

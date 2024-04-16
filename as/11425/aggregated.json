@@ -3,7 +3,9 @@
   "handle": "CWIE",
   "description": "CWIE, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "98.143.32.0/20"
+    ],
     "ipv6": []
   }
 }

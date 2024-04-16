@@ -3,7 +3,9 @@
   "handle": "PFG-AFFLINK",
   "description": "Performance Food Group Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "208.255.254.0/24"
+    ],
     "ipv6": []
   }
 }

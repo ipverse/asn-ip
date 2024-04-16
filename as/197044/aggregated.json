@@ -3,7 +3,9 @@
   "handle": "STEK",
   "description": "JSC NTC STEK",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.216.53.0/24"
+    ],
     "ipv6": []
   }
 }

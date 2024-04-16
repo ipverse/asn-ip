@@ -3,7 +3,11 @@
   "handle": "KONTEI",
   "description": "N.Henulin",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "91.216.111.0/24"
+    ],
+    "ipv6": [
+      "2001:67c:19c::/48"
+    ]
   }
 }

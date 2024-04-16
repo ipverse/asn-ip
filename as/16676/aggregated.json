@@ -3,7 +3,9 @@
   "handle": "BARCHARTCOM",
   "description": "Barchart.com, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "8.18.161.0/24"
+    ],
     "ipv6": []
   }
 }

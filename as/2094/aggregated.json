@@ -3,7 +3,10 @@
   "handle": "FR-TELECOM-MANAGEMENT-SUDPARIS",
   "description": "Renater",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "157.159.0.0/16",
+      "185.4.250.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,12 @@
   "handle": "COPNET-COMERCIO-SERVICOS",
   "description": "Copnet Comercio e servicos de Telecomunicacoes",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.231.12.0/22"
+    ],
+    "ipv6": [
+      "2804:495c:4000::/34",
+      "2804:495c:8000::/33"
+    ]
   }
 }

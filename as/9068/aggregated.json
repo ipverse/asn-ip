@@ -3,7 +3,9 @@
   "handle": "AKADO",
   "description": "JSC Comcor",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "94.79.63.0/24"
+    ],
     "ipv6": []
   }
 }

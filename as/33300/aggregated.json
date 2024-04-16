@@ -3,7 +3,9 @@
   "handle": "EDAASN",
   "description": "Electricity Distributors Association",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "205.211.162.0/24"
+    ],
     "ipv6": []
   }
 }

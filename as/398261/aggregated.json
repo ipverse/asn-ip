@@ -3,7 +3,9 @@
   "handle": "MCCC-MONROE-MI",
   "description": "Monroe County Community College",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "142.202.92.0/24"
+    ],
     "ipv6": []
   }
 }

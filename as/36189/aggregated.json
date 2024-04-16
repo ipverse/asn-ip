@@ -3,7 +3,9 @@
   "handle": "NEILMEDAS",
   "description": "Neil Medical Group",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "12.175.142.0/24"
+    ],
     "ipv6": []
   }
 }

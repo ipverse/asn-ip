@@ -3,7 +3,9 @@
   "handle": "ASHOTLAN",
   "description": "LLC HOTLAN",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "95.215.223.0/24"
+    ],
     "ipv6": []
   }
 }

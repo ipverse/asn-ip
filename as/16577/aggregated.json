@@ -3,7 +3,10 @@
   "handle": "DIGITALEDGE-2",
   "description": "DIGITAL EDGE VENTURES INC.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "162.218.140.0/24",
+      "162.218.142.0/23"
+    ],
     "ipv6": []
   }
 }

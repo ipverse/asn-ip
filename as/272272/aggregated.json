@@ -3,7 +3,12 @@
   "handle": "GILBERTO-AGUIAR",
   "description": "GILBERTO DE AGUIAR",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "181.224.4.0/22"
+    ],
+    "ipv6": [
+      "2804:84a0::/33",
+      "2804:84a0:8000::/34"
+    ]
   }
 }

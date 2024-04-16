@@ -3,7 +3,9 @@
   "handle": "HARRIS-01",
   "description": "HARRIS \u0026 HARRIS, LTD.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "159.100.209.0/24"
+    ],
     "ipv6": []
   }
 }

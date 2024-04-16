@@ -3,7 +3,9 @@
   "handle": "ES-S2GRUPO",
   "description": "S2 Grupo Soluciones De Seguridad Sociedad Limitada",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.215.84.0/22"
+    ],
     "ipv6": []
   }
 }

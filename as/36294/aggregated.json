@@ -3,7 +3,9 @@
   "handle": "WINFIELD-WIRELESS",
   "description": "Clark County Computer Connections",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "208.74.68.0/22"
+    ],
     "ipv6": []
   }
 }

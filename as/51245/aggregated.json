@@ -3,7 +3,9 @@
   "handle": "CIT-RU",
   "description": "Center of Information Technologies Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.33.74.0/23"
+    ],
     "ipv6": []
   }
 }

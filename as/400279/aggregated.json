@@ -1,0 +1,11 @@
+{
+  "asn": 400279,
+  "handle": "REVELYST-OPERATIONS",
+  "description": "Revelyst Operations",
+  "subnets": {
+    "ipv4": [
+      "199.168.24.0/24"
+    ],
+    "ipv6": []
+  }
+}

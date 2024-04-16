@@ -3,7 +3,9 @@
   "handle": "UAB-LRYTAS",
   "description": "UAB Lrytas",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.41.197.0/24"
+    ],
     "ipv6": []
   }
 }

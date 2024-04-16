@@ -3,7 +3,12 @@
   "handle": "MAAS-COMPUTERS-AND-NETWORKS",
   "description": "Maas Computers and Networks Ltd",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "102.69.164.0/22",
+      "102.223.16.0/22"
+    ],
+    "ipv6": [
+      "2c0f:ebf8::/32"
+    ]
   }
 }

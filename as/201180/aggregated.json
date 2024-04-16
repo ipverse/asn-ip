@@ -3,7 +3,9 @@
   "handle": "MSWWS",
   "description": "MAZOWIECKI SZPITAL WOJEWODZKI IM. SW. JANA PAWLA II W SIEDLCACH sp. z o. o.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.56.191.0/24"
+    ],
     "ipv6": []
   }
 }

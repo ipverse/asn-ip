@@ -3,7 +3,10 @@
   "handle": "MICROCOM-SPRL",
   "description": "Microcom Sprl",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "41.223.104.0/22",
+      "196.61.72.0/22"
+    ],
     "ipv6": []
   }
 }

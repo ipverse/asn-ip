@@ -3,7 +3,9 @@
   "handle": "NETPATAGONIA",
   "description": "NETPATAGONIA SAS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "200.107.224.0/21"
+    ],
     "ipv6": []
   }
 }

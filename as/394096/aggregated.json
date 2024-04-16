@@ -3,7 +3,9 @@
   "handle": "CAPEREGIONALHEALTHSYSTEM",
   "description": "Cape Regional Medical Center, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "65.222.128.0/24"
+    ],
     "ipv6": []
   }
 }

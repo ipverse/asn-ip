@@ -3,7 +3,10 @@
   "handle": "AKUNA-BGP",
   "description": "Akuna Capital LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "154.61.148.0/24",
+      "162.12.218.0/24"
+    ],
     "ipv6": []
   }
 }

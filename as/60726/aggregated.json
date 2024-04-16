@@ -3,7 +3,9 @@
   "handle": "MOSOBLBANK",
   "description": "Joint Stock Company Moscovskiy Oblastnoi Bank",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "62.76.136.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "BELL-ATL",
   "description": "Verizon Business",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "138.83.75.0/24"
+    ],
     "ipv6": []
   }
 }

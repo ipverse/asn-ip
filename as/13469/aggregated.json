@@ -3,7 +3,9 @@
   "handle": "STINGRAY-GROUP-INC",
   "description": "Stingray",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.48.220.0/24"
+    ],
     "ipv6": []
   }
 }

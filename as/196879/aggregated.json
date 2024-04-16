@@ -3,7 +3,9 @@
   "handle": "VOLKHOVONLINE",
   "description": "Volkhov Online Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.106.108.0/22"
+    ],
     "ipv6": []
   }
 }

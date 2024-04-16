@@ -3,7 +3,11 @@
   "handle": "CAICTNET",
   "description": "Chinese Academy of Telecommunication Research",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.120.243.0/24"
+    ],
+    "ipv6": [
+      "2402:7d80::/32"
+    ]
   }
 }

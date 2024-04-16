@@ -3,7 +3,11 @@
   "handle": "CENTROCOM-INTERNET-COMPUTADORES",
   "description": "CENTRO.COM - INTERNET, COMPUTADORES E SERVIOS",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "181.191.172.0/22"
+    ],
+    "ipv6": [
+      "2804:419c::/32"
+    ]
   }
 }

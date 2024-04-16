@@ -3,7 +3,12 @@
   "handle": "DNSLINK-SOLUES-PARA",
   "description": "DNSLINK SOLUES PARA INTERNET LTDA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "87.120.130.0/24",
+      "186.232.180.0/22"
+    ],
+    "ipv6": [
+      "2804:45e0::/32"
+    ]
   }
 }

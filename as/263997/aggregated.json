@@ -3,7 +3,11 @@
   "handle": "BITMAIL-SERVICOS-INFORMATICA",
   "description": "BITMAIL SERVICOS DE INFORMATICA LTDA - ME",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "143.0.52.0/22"
+    ],
+    "ipv6": [
+      "2804:2918::/32"
+    ]
   }
 }

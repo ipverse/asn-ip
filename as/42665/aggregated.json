@@ -3,7 +3,9 @@
   "handle": "SIRTI",
   "description": "SIRTI S.p.A.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.33.18.0/23"
+    ],
     "ipv6": []
   }
 }

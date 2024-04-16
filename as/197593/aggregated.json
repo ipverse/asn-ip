@@ -3,7 +3,9 @@
   "handle": "ZOOPLUS",
   "description": "zooplus AG",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.223.129.0/24"
+    ],
     "ipv6": []
   }
 }

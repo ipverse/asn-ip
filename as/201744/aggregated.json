@@ -3,7 +3,10 @@
   "handle": "BULLETNET",
   "description": "BULLETNET LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.149.226.0/24",
+      "91.149.235.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,12 @@
   "handle": "TYPICAL",
   "description": "TYPICALHOST, LLC",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "109.72.116.0/24",
+      "185.186.67.0/24"
+    ],
+    "ipv6": [
+      "2a0a:6040:4d00::/40"
+    ]
   }
 }

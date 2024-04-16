@@ -3,7 +3,9 @@
   "handle": "ANTEL-NET",
   "description": "Antelecom, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "66.102.192.0/20"
+    ],
     "ipv6": []
   }
 }

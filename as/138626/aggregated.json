@@ -3,7 +3,9 @@
   "handle": "ASAP-AP",
   "description": "AVALOQ SOURCING ASIA PACIFIC (SINGAPORE) PTE. LTD.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.126.82.0/24"
+    ],
     "ipv6": []
   }
 }

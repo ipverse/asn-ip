@@ -3,7 +3,9 @@
   "handle": "SPEARHEAD",
   "description": "SPEARHEAD LIFESTYLE INDIA PRIVATE LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.68.16.0/22"
+    ],
     "ipv6": []
   }
 }

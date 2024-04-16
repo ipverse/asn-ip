@@ -3,7 +3,10 @@
   "handle": "SLICKDEALS",
   "description": "SlickDeals",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.182.48.0/24",
+      "199.182.50.0/23"
+    ],
     "ipv6": []
   }
 }

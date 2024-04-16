@@ -3,7 +3,9 @@
   "handle": "ARVINCLOUD",
   "description": "Arvin Data Transfer Co. Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "213.195.23.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "MOCELJE",
   "description": "Mesta Obcina Celje",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.132.73.0/24"
+    ],
     "ipv6": []
   }
 }

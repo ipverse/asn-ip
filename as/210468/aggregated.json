@@ -3,7 +3,9 @@
   "handle": "ENIWA",
   "description": "Eniwa AG",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.11.238.0/24"
+    ],
     "ipv6": []
   }
 }

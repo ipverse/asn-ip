@@ -3,7 +3,11 @@
   "handle": "GHS-ISP-EDGE-01",
   "description": "Grady Health System",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "138.33.71.0/24",
+      "138.33.90.0/24",
+      "138.33.99.0/24"
+    ],
     "ipv6": []
   }
 }

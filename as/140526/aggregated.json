@@ -3,7 +3,9 @@
   "handle": "THEBANKOFKHYBER-AP",
   "description": "The Bank of Khyber",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.150.9.0/24"
+    ],
     "ipv6": []
   }
 }

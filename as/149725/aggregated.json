@@ -3,7 +3,9 @@
   "handle": "LJN-ID",
   "description": "PT Lintas Jaringan Nusantara",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.188.168.0/24"
+    ],
     "ipv6": []
   }
 }

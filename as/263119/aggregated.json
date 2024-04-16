@@ -3,7 +3,11 @@
   "handle": "BKUP-TELECOM",
   "description": "BKup Telecom",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "177.155.252.0/22"
+    ],
+    "ipv6": [
+      "2804:170c::/32"
+    ]
   }
 }

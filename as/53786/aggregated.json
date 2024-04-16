@@ -3,7 +3,9 @@
   "handle": "KYNDRYL-LSIS-INFRASTRUCTURE",
   "description": "Kyndryl",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "146.255.120.0/22"
+    ],
     "ipv6": []
   }
 }

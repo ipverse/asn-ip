@@ -3,7 +3,10 @@
   "handle": "JDV-AU-AP",
   "description": "JDV Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "203.16.28.0/22",
+      "203.19.16.0/23"
+    ],
     "ipv6": []
   }
 }

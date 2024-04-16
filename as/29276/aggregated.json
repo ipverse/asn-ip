@@ -3,7 +3,10 @@
   "handle": "MOBITEL-GPRS",
   "description": "Telekom Slovenije, d.d.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "95.159.192.0/24",
+      "213.229.248.0/21"
+    ],
     "ipv6": []
   }
 }

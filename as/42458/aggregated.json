@@ -3,7 +3,9 @@
   "handle": "SMARTLINK",
   "description": "TOV NOVI UKRAINSKI MEREZHI",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.1.195.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -4,6 +4,8 @@
   "description": "Valor Information Technologies, S.L.",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2001:4030::/32"
+    ]
   }
 }

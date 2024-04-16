@@ -3,7 +3,10 @@
   "handle": "WEALTHFRONT-1",
   "description": "Wealthfront Corporation",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.127.226.0/24",
+      "162.251.144.0/23"
+    ],
     "ipv6": []
   }
 }

@@ -4,8 +4,10 @@
   "description": "GV telecomunicaes LTDA - ME",
   "subnets": {
     "ipv4": [
-      "45.166.47.0/24"
+      "45.166.44.0/22"
     ],
-    "ipv6": []
+    "ipv6": [
+      "2804:5570::/32"
+    ]
   }
 }

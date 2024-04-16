@@ -3,7 +3,9 @@
   "handle": "IDNIC-SINDEBUDI-ID",
   "description": "PT Sinde Budi Sentosa",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.155.44.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "WEBSURFER-INTERNATIONAL-TRANSIT",
   "description": "Websurfer International Transit",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.101.236.0/23"
+    ],
     "ipv6": []
   }
 }

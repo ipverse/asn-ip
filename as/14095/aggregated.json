@@ -3,7 +3,9 @@
   "handle": "HCMH-3",
   "description": "Hugh Chatham Memorial Hospital, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "204.48.41.0/24"
+    ],
     "ipv6": []
   }
 }

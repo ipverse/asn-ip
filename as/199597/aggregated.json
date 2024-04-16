@@ -3,7 +3,9 @@
   "handle": "CBC",
   "description": "cbcnet GmbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "95.130.112.0/21"
+    ],
     "ipv6": []
   }
 }

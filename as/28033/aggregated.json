@@ -3,7 +3,9 @@
   "handle": "BANCO-FAMILIAR-SAECA",
   "description": "Banco Familiar SAECA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "200.7.14.0/24"
+    ],
     "ipv6": []
   }
 }

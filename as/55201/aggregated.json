@@ -3,7 +3,10 @@
   "handle": "SKYQUANTUM-INTERNET-SERVICE",
   "description": "SkyQuantum Internet Service",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.181.112.0/21",
+      "38.182.64.0/19"
+    ],
     "ipv6": []
   }
 }

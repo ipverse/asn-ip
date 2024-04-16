@@ -3,7 +3,9 @@
   "handle": "WEITZ-LUX",
   "description": "Weitz \u0026 Luxenberg P.C",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "65.51.203.0/24"
+    ],
     "ipv6": []
   }
 }

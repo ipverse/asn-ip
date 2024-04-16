@@ -3,7 +3,10 @@
   "handle": "SMARTS",
   "description": "SMARTS JSC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.33.20.0/23",
+      "194.33.22.0/24"
+    ],
     "ipv6": []
   }
 }

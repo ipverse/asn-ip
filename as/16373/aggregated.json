@@ -3,7 +3,9 @@
   "handle": "CEPSA",
   "description": "Compania Espanola de Petroleos S.A.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.148.246.0/24"
+    ],
     "ipv6": []
   }
 }

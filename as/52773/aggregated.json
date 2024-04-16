@@ -3,7 +3,9 @@
   "handle": "INTERMICRO-INFORMATICA-ITAPERUNA",
   "description": "INTERMICRO INFORMATICA DE ITAPERUNA LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "177.155.224.0/22"
+    ],
     "ipv6": []
   }
 }

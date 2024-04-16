@@ -3,7 +3,10 @@
   "handle": "GIJIMA",
   "description": "Gijima Holdings (PTY) Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "196.15.14.0/23",
+      "197.149.160.0/22"
+    ],
     "ipv6": []
   }
 }

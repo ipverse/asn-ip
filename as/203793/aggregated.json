@@ -3,7 +3,9 @@
   "handle": "BE2",
   "description": "OPG Online Personals Group AG",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.195.18.0/23"
+    ],
     "ipv6": []
   }
 }

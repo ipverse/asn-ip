@@ -3,7 +3,9 @@
   "handle": "COMTEH-RU",
   "description": "Comteh.ru Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "94.158.160.0/20"
+    ],
     "ipv6": []
   }
 }

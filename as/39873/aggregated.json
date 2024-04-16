@@ -3,7 +3,9 @@
   "handle": "RMSK-COMM",
   "description": "Rzeszow University of Technology",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "89.188.192.0/22"
+    ],
     "ipv6": []
   }
 }

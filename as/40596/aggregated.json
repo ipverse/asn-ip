@@ -3,7 +3,12 @@
   "handle": "SOUNDBITE",
   "description": "Soundbite Communications, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "74.117.77.0/24",
+      "74.118.252.0/24",
+      "74.118.254.0/24",
+      "198.181.124.0/22"
+    ],
     "ipv6": []
   }
 }

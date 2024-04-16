@@ -3,7 +3,9 @@
   "handle": "BORYUNG",
   "description": "Boryung Pharmaceutical Co.,Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "123.214.181.0/24"
+    ],
     "ipv6": []
   }
 }

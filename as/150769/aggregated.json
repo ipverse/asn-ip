@@ -3,7 +3,9 @@
   "handle": "ASPIRAPPS",
   "description": "Digital Explorer Technology",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "157.15.70.0/23"
+    ],
     "ipv6": []
   }
 }

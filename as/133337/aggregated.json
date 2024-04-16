@@ -3,7 +3,11 @@
   "handle": "IDNIC-MSS-ID",
   "description": "PT Menara Sinar Semesta",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "102.129.168.0/24",
+      "103.174.67.0/24",
+      "103.225.209.0/24"
+    ],
     "ipv6": []
   }
 }

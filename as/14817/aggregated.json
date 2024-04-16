@@ -3,7 +3,9 @@
   "handle": "SCL-SHAW",
   "description": "Syncrude Canada Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "198.161.172.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "NFTA",
   "description": "Niagara Frontier Transportation Authority",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.87.213.0/24"
+    ],
     "ipv6": []
   }
 }

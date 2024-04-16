@@ -3,7 +3,11 @@
   "handle": "EGTECH-SOLUES-EM",
   "description": "EGTECH SOLUES EM TELECOMUNICAES",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "181.192.120.0/22"
+    ],
+    "ipv6": [
+      "2804:6f1c::/32"
+    ]
   }
 }

@@ -3,7 +3,10 @@
   "handle": "COMFORTEL",
   "description": "Comfortel Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.135.215.0/24",
+      "91.147.108.0/23"
+    ],
     "ipv6": []
   }
 }

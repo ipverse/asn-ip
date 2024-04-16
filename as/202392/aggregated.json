@@ -3,7 +3,9 @@
   "handle": "DAWIYAT-SA",
   "description": "Dawiyat Telecommunication Co.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.62.148.0/23"
+    ],
     "ipv6": []
   }
 }

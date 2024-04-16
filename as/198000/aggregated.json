@@ -3,7 +3,10 @@
   "handle": "SMPOLNOC",
   "description": "Spoldzielnia Mieszkaniowa Polnoc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.48.168.0/22",
+      "212.96.224.0/19"
+    ],
     "ipv6": []
   }
 }

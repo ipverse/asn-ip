@@ -3,7 +3,9 @@
   "handle": "WEDBUSH",
   "description": "Wedbush Securities, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "63.251.194.0/24"
+    ],
     "ipv6": []
   }
 }

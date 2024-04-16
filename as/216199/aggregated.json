@@ -4,6 +4,8 @@
   "description": "Daniel Hinderaker trading as HINDERAKERS IKT-TJENESTER",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a0e:fd45:2da0::/48"
+    ]
   }
 }

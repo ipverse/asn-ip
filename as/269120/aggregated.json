@@ -3,7 +3,9 @@
   "handle": "INTERNET-FACIL",
   "description": "Internet Facil",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.179.4.0/22"
+    ],
     "ipv6": []
   }
 }

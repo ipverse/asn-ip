@@ -3,7 +3,9 @@
   "handle": "IRS",
   "description": "IntReal Solutions GmbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "176.119.146.0/24"
+    ],
     "ipv6": []
   }
 }

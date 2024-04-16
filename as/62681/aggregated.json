@@ -3,7 +3,11 @@
   "handle": "ACME-WIDGET",
   "description": "Acme Widget LP",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "192.206.32.0/23"
+    ],
+    "ipv6": [
+      "2620:3b:4000::/48"
+    ]
   }
 }

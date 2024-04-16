@@ -3,7 +3,9 @@
   "handle": "SECUREINDEPENDENCE",
   "description": "Secure Independence, Inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "204.246.152.0/21"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,10 @@
   "handle": "WLKY-TV",
   "description": "Hearst-Argyle Television, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "167.173.37.0/24",
+      "167.173.229.0/24"
+    ],
     "ipv6": []
   }
 }

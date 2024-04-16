@@ -3,7 +3,9 @@
   "handle": "FIRST-NET-TELECOMUNICACOES",
   "description": "FIRST NET TELECOMUNICACOES LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.184.160.0/22"
+    ],
     "ipv6": []
   }
 }

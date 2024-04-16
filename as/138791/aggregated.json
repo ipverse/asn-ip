@@ -3,7 +3,9 @@
   "handle": "SBSNET-IN",
   "description": "Sbs Broadband And Cable Private Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.141.22.0/23"
+    ],
     "ipv6": []
   }
 }

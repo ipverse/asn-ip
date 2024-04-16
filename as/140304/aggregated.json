@@ -3,7 +3,9 @@
   "handle": "ASIAPAY-AP",
   "description": "ASIAPAY (HK) LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.149.149.0/24"
+    ],
     "ipv6": []
   }
 }

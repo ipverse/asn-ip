@@ -3,7 +3,9 @@
   "handle": "HIDHO",
   "description": "High Density Hosting, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "170.55.171.0/24"
+    ],
     "ipv6": []
   }
 }

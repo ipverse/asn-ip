@@ -3,7 +3,9 @@
   "handle": "ACUMENT",
   "description": "Acument Global Technologies, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.67.36.0/23"
+    ],
     "ipv6": []
   }
 }

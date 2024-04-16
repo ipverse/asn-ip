@@ -3,7 +3,9 @@
   "handle": "NEXEON",
   "description": "Nexeon Technologies, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.223.175.0/24"
+    ],
     "ipv6": []
   }
 }

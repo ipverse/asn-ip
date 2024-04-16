@@ -3,7 +3,9 @@
   "handle": "KMITL-AP",
   "description": "King Mongkut\u0027s Institute of Technology Ladkrabang",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "161.246.0.0/16"
+    ],
     "ipv6": []
   }
 }

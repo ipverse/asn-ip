@@ -3,7 +3,12 @@
   "handle": "GB-ONLINE-TELECOMUNICACOES",
   "description": "GB ONLINE TELECOMUNICACOES LTDA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "170.150.192.0/22",
+      "177.107.216.0/21"
+    ],
+    "ipv6": [
+      "2804:12f4::/32"
+    ]
   }
 }

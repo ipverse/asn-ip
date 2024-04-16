@@ -3,7 +3,9 @@
   "handle": "HC-PUBLIC",
   "description": "HC Technologies, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "158.51.196.0/23"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,11 @@
   "handle": "LINKNET-TELECOM",
   "description": "LINKNET Telecom",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.229.172.0/22"
+    ],
+    "ipv6": [
+      "2804:4910::/32"
+    ]
   }
 }

@@ -3,7 +3,9 @@
   "handle": "BANGO",
   "description": "BANGO.NET Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.35.88.0/22"
+    ],
     "ipv6": []
   }
 }

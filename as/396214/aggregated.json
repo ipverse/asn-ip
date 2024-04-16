@@ -3,7 +3,9 @@
   "handle": "HOSPITALFORSPECIALCARE",
   "description": "Hospital for Special Care",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "170.163.241.0/24"
+    ],
     "ipv6": []
   }
 }

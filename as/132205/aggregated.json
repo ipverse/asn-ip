@@ -3,7 +3,10 @@
   "handle": "YARRACITYCOUNCIL-AP",
   "description": "YARRA CITY COUNCIL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.71.27.0/24",
+      "103.93.91.0/24"
+    ],
     "ipv6": []
   }
 }

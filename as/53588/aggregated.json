@@ -3,7 +3,9 @@
   "handle": "ATHOC-DC3",
   "description": "AtHoc Inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "142.147.77.0/24"
+    ],
     "ipv6": []
   }
 }

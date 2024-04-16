@@ -3,9 +3,11 @@
   "handle": "MP-INFOTELECOM",
   "description": "MP INFOTELECOM",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "168.90.200.0/22"
+    ],
     "ipv6": [
-      "2804:2d8c::/34"
+      "2804:2d8c::/32"
     ]
   }
 }

@@ -3,7 +3,9 @@
   "handle": "TECHLABITALIA",
   "description": "TechLabItalia s.r.l.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.241.11.0/24"
+    ],
     "ipv6": [
       "2a10:9ec0::/29"
     ]

@@ -3,7 +3,11 @@
   "handle": "COMPLETNET-NET",
   "description": "Completnet ApS",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "185.129.60.0/24"
+    ],
+    "ipv6": [
+      "2a13:cd80::/32"
+    ]
   }
 }

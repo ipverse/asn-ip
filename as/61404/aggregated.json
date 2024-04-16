@@ -3,7 +3,9 @@
   "handle": "WIFINITY",
   "description": "Wifinity B.V.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.128.88.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,11 @@
   "handle": "ASPH",
   "description": "asphericon GmbH",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "193.162.140.0/24"
+    ],
+    "ipv6": [
+      "2a10:8080::/29"
+    ]
   }
 }

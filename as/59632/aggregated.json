@@ -3,7 +3,11 @@
   "handle": "PIDGINHOST",
   "description": "SC PIDGIN HOST SRL",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "176.124.104.0/21"
+    ],
+    "ipv6": [
+      "2001:67c:744::/48"
+    ]
   }
 }

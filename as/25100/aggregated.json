@@ -3,7 +3,10 @@
   "handle": "MIPT-NET",
   "description": "Non state educational institution Educational Scientific and Experimental Center of Moscow Institute of Physics and Technology",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.153.198.0/23",
+      "81.5.64.0/18"
+    ],
     "ipv6": []
   }
 }

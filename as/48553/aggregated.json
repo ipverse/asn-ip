@@ -3,7 +3,11 @@
   "handle": "MARKETAXESS",
   "description": "Marketaxess Europe Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.69.85.0/24",
+      "194.69.86.0/24",
+      "208.49.122.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "MAZDA-AP",
   "description": "Mazda Australia Pty Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "203.12.84.0/23"
+    ],
     "ipv6": []
   }
 }

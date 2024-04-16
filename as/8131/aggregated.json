@@ -3,7 +3,10 @@
   "handle": "PEPBOYS",
   "description": "Pep Boys",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "168.220.16.0/20",
+      "168.220.32.0/20"
+    ],
     "ipv6": []
   }
 }

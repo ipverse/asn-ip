@@ -3,7 +3,9 @@
   "handle": "SYSVOIP-TELECOMUNICAES",
   "description": "SYSVOIP TELECOMUNICAES LTDA - ME",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "131.0.180.0/22"
+    ],
     "ipv6": []
   }
 }

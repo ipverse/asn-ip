@@ -3,7 +3,10 @@
   "handle": "VISTLINK",
   "description": "LLC VISTlink",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "31.186.64.0/20",
+      "185.113.244.0/22"
+    ],
     "ipv6": []
   }
 }

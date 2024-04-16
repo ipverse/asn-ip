@@ -3,7 +3,11 @@
   "handle": "GLOBAL-NET-TELECOM",
   "description": "GLOBAL NET TELECOM",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "200.187.108.0/22"
+    ],
+    "ipv6": [
+      "2804:6ffc::/32"
+    ]
   }
 }

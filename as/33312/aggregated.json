@@ -3,7 +3,9 @@
   "handle": "FFBM-0049",
   "description": "Premier Bank",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.101.44.0/22"
+    ],
     "ipv6": []
   }
 }

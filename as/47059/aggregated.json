@@ -3,7 +3,9 @@
   "handle": "YORKHOSPITAL",
   "description": "York Hospital",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "198.200.204.0/24"
+    ],
     "ipv6": []
   }
 }

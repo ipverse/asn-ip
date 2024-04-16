@@ -3,7 +3,9 @@
   "handle": "FLOWTRADERS",
   "description": "Flow Traders B.V.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "217.170.8.0/24"
+    ],
     "ipv6": []
   }
 }

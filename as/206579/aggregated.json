@@ -3,7 +3,9 @@
   "handle": "HTK",
   "description": "Waldemar Migas trading as Hrubieszowska Telewizja Kablowa Sp.J.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.172.208.0/22"
+    ],
     "ipv6": []
   }
 }

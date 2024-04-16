@@ -3,7 +3,10 @@
   "handle": "INFOHEDGE",
   "description": "InfoHedge Technologies, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.74.194.0/24",
+      "74.220.80.0/22"
+    ],
     "ipv6": []
   }
 }

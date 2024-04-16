@@ -3,7 +3,11 @@
   "handle": "UFDROHT",
   "description": "ufdroht.net - Internet Service GmbH",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "185.238.139.0/24"
+    ],
+    "ipv6": [
+      "2a13:100::/29"
+    ]
   }
 }

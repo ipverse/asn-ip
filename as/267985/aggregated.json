@@ -3,7 +3,9 @@
   "handle": "CONECTIVA-REDES-TELECOM",
   "description": "Conectiva Redes e Telecom",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.166.160.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "SETIC-FP",
   "description": "SETIC-FP",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "80.88.9.0/24"
+    ],
     "ipv6": []
   }
 }

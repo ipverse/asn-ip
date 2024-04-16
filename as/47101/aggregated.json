@@ -3,7 +3,11 @@
   "handle": "CITYOFYAKIMA",
   "description": "City of Yakima",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "205.172.45.0/24"
+    ],
+    "ipv6": [
+      "2620:12e:5000::/40"
+    ]
   }
 }

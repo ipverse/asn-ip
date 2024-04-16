@@ -3,7 +3,10 @@
   "handle": "WEBSTER",
   "description": "Webster University",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "74.207.64.0/18",
+      "198.246.0.0/21"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "NYSIF",
   "description": "The State Insurance Fund",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "168.141.0.0/16"
+    ],
     "ipv6": []
   }
 }

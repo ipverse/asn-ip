@@ -3,7 +3,10 @@
   "handle": "UKRAVTO",
   "description": "LLC Ukrainian Automobile Corporation",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.228.60.0/22",
+      "193.27.80.0/23"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "FREMONT-INS",
   "description": "Fremont Insurance Company",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "204.78.234.0/23"
+    ],
     "ipv6": []
   }
 }

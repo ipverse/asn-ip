@@ -3,7 +3,9 @@
   "handle": "FOREST-TELECOM",
   "description": "FOREST TELECOM",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.233.80.0/23"
+    ],
     "ipv6": []
   }
 }

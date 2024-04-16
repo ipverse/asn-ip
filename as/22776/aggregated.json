@@ -3,7 +3,9 @@
   "handle": "CONRES01730",
   "description": "Continental Resources",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "65.118.152.0/24"
+    ],
     "ipv6": []
   }
 }

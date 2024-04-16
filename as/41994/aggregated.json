@@ -3,7 +3,9 @@
   "handle": "CREDITO-Y-CAUCION",
   "description": "ATRADIUS CREDITO Y CAUCION SA, DE SEGUROS Y REASEGUROS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "212.163.10.0/24"
+    ],
     "ipv6": []
   }
 }

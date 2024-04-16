@@ -3,7 +3,11 @@
   "handle": "SCIS",
   "description": "Informatics and Telecommunications Public Company (ITPC)",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "78.109.224.0/24",
+      "78.109.233.0/24",
+      "78.109.234.0/23"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,12 @@
   "handle": "ENERGIEAG-AT",
   "description": "Energie AG Oberoesterreich Telekom GmbH",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "194.107.140.0/23",
+      "195.189.198.0/23"
+    ],
+    "ipv6": [
+      "2a00:4680::/32"
+    ]
   }
 }

@@ -3,7 +3,12 @@
   "handle": "LINENET-SUPRIMENTOS-PARA",
   "description": "Linenet Suprimentos para Informatica LTDA-ME",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "138.118.100.0/22",
+      "177.84.40.0/22"
+    ],
+    "ipv6": [
+      "2804:2504::/32"
+    ]
   }
 }

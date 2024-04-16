@@ -3,7 +3,9 @@
   "handle": "ABL",
   "description": "Alston \u0026 Bird, LLP",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "173.226.232.0/24"
+    ],
     "ipv6": []
   }
 }

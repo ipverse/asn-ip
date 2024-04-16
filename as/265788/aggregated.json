@@ -3,7 +3,9 @@
   "handle": "DENIS-JAVIER-RODRGUEZ-GUZMN",
   "description": "Denis Javier Rodrguez Guzmn(BRYMANET)",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.141.164.0/22"
+    ],
     "ipv6": []
   }
 }

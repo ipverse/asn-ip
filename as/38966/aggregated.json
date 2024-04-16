@@ -3,7 +3,10 @@
   "handle": "INTRALAN",
   "description": "IntraLAN Group Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.121.144.0/22",
+      "194.54.8.0/22"
+    ],
     "ipv6": []
   }
 }

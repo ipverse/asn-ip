@@ -3,9 +3,11 @@
   "handle": "TELEMAC-TELECOMUNICACOES",
   "description": "TELEMAC TELECOMUNICACOES LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "131.221.168.0/22"
+    ],
     "ipv6": [
-      "2804:1e94:3000::/36"
+      "2804:1e94::/32"
     ]
   }
 }

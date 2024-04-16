@@ -3,7 +3,10 @@
   "handle": "BCG-NETWORK",
   "description": "BCG Attorney Search",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "74.120.248.0/22",
+      "208.89.248.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "BOCI-HK-AP",
   "description": "BOC International Holdings Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "202.128.104.0/23"
+    ],
     "ipv6": []
   }
 }

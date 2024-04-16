@@ -3,7 +3,9 @@
   "handle": "TAMIU",
   "description": "Texas A\u0026M International University",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "173.224.80.0/20"
+    ],
     "ipv6": []
   }
 }

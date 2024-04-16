@@ -3,7 +3,9 @@
   "handle": "TOSAN",
   "description": "Toseh Samanehay-e Narmafzari-e Negin (Tosan) PJSC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.119.4.0/22"
+    ],
     "ipv6": []
   }
 }

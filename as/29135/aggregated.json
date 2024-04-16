@@ -3,7 +3,9 @@
   "handle": "NETSHARKS",
   "description": "NET SHARKS Sp. z o.o.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.101.72.0/22"
+    ],
     "ipv6": []
   }
 }

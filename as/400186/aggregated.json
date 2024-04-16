@@ -3,7 +3,11 @@
   "handle": "SINGING-RIVER-CONNECT",
   "description": "Singing River Connect, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "140.106.96.0/19",
+      "146.85.64.0/18",
+      "216.247.240.0/21"
+    ],
     "ipv6": []
   }
 }

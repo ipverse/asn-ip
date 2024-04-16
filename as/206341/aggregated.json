@@ -3,7 +3,9 @@
   "handle": "STADTDO",
   "description": "Stadt Dortmund",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.82.172.0/22"
+    ],
     "ipv6": []
   }
 }

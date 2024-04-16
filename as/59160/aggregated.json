@@ -3,7 +3,9 @@
   "handle": "IDNIC-BKKBN-ID",
   "description": "Badan Kependudukan dan Keluarga Berencana Nasional",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.225.98.0/24"
+    ],
     "ipv6": []
   }
 }

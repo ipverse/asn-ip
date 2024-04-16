@@ -3,7 +3,9 @@
   "handle": "ALCATEL-BUSINESS-SYSTEMS",
   "description": "ALE INTERNATIONAL SAS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.128.146.0/24"
+    ],
     "ipv6": []
   }
 }

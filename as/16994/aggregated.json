@@ -3,7 +3,9 @@
   "handle": "VISTA-01",
   "description": "Vista Bank",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "12.184.248.0/24"
+    ],
     "ipv6": []
   }
 }

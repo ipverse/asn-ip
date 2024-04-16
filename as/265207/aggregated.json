@@ -3,7 +3,12 @@
   "handle": "PLUS-PROVEDOR-INTERNET",
   "description": "PLUS PROVEDOR DE INTERNET LTDA - ME",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "167.250.160.0/22",
+      "179.0.68.0/22"
+    ],
+    "ipv6": [
+      "2804:2c44::/32"
+    ]
   }
 }

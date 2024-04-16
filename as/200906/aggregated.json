@@ -3,7 +3,9 @@
   "handle": "MCT",
   "description": "MCT SARL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.72.4.0/22"
+    ],
     "ipv6": []
   }
 }

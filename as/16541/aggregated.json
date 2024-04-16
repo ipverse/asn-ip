@@ -3,7 +3,9 @@
   "handle": "ERICKSON",
   "description": "Erickson Living Management, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "204.10.187.0/24"
+    ],
     "ipv6": []
   }
 }

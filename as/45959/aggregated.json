@@ -3,7 +3,10 @@
   "handle": "THAI-REINSURANCE",
   "description": "Thai Reinsurance Public Co., Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "43.240.115.0/24",
+      "58.137.95.0/24"
+    ],
     "ipv6": []
   }
 }

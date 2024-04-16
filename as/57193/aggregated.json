@@ -3,7 +3,9 @@
   "handle": "RUWEB-NN",
   "description": "RUWEB-NN LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.11.244.0/23"
+    ],
     "ipv6": []
   }
 }

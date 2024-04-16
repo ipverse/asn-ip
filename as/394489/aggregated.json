@@ -3,7 +3,9 @@
   "handle": "LAMINAR-NETWORKS-01",
   "description": "Laminar Networks LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "172.99.232.0/24"
+    ],
     "ipv6": []
   }
 }

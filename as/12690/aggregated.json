@@ -3,7 +3,9 @@
   "handle": "MKSNET",
   "description": "JSC ER-Telecom Holding",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "212.57.112.0/23"
+    ],
     "ipv6": []
   }
 }

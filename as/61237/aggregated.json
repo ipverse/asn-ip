@@ -3,7 +3,9 @@
   "handle": "SIGMATV",
   "description": "SigmaTV LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "77.247.239.0/24"
+    ],
     "ipv6": []
   }
 }

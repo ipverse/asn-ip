@@ -3,7 +3,9 @@
   "handle": "BLASTERNET-TELECOM",
   "description": "BlasterNet Telecom LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "138.117.232.0/22"
+    ],
     "ipv6": []
   }
 }

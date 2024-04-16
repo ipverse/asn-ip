@@ -3,7 +3,11 @@
   "handle": "ATS1",
   "description": "AROBS TRANSILVANIA SOFTWARE S.A.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "37.156.36.0/24",
+      "80.96.52.0/24",
+      "193.202.22.0/24"
+    ],
     "ipv6": []
   }
 }

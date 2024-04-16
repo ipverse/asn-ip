@@ -3,7 +3,10 @@
   "handle": "ISSQUARED",
   "description": "ISSQUARED, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "66.160.157.0/24",
+      "74.82.25.0/24"
+    ],
     "ipv6": []
   }
 }

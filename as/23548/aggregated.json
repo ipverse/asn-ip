@@ -3,7 +3,9 @@
   "handle": "THEDACARE",
   "description": "Thedacare",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "206.209.112.0/20"
+    ],
     "ipv6": []
   }
 }

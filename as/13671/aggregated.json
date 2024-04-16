@@ -3,7 +3,9 @@
   "handle": "VRIS-BLOCK",
   "description": "Verizon Business",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "68.128.232.0/23"
+    ],
     "ipv6": []
   }
 }

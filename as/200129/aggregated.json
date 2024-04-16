@@ -3,7 +3,11 @@
   "handle": "LHISP",
   "description": "LHISP S.A.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "185.36.180.0/22"
+    ],
+    "ipv6": [
+      "2a00:e860:180::/47"
+    ]
   }
 }

@@ -3,7 +3,9 @@
   "handle": "JOHNSON-COUNTY",
   "description": "Johnson County Iowa",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.234.91.0/24"
+    ],
     "ipv6": []
   }
 }

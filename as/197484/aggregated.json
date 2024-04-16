@@ -3,7 +3,9 @@
   "handle": "APIXIT",
   "description": "APIXIT SAS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "79.139.67.0/24"
+    ],
     "ipv6": []
   }
 }

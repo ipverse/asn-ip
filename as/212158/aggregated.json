@@ -3,7 +3,10 @@
   "handle": "TRANSFICC",
   "description": "TransFICC Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.65.242.0/24",
+      "38.133.162.0/24"
+    ],
     "ipv6": []
   }
 }

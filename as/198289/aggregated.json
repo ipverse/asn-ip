@@ -3,7 +3,9 @@
   "handle": "KPMG",
   "description": "KPMG sp. z o.o.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "78.133.196.0/24"
+    ],
     "ipv6": []
   }
 }

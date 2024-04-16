@@ -3,7 +3,9 @@
   "handle": "ASTECOM",
   "description": "Tecom Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.228.161.0/24"
+    ],
     "ipv6": []
   }
 }

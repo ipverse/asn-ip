@@ -3,7 +3,12 @@
   "handle": "LINVEO-LLC",
   "description": "LINVEO, LLC",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "23.230.253.0/24",
+      "104.234.231.0/24"
+    ],
+    "ipv6": [
+      "2602:f953::/40"
+    ]
   }
 }

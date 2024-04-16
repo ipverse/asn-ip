@@ -3,7 +3,9 @@
   "handle": "RPLS-PROVEDOR-INTERNET-EIRELI",
   "description": "R.P.L.S. PROVEDOR DE INTERNET EIRELI",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "138.99.82.0/23"
+    ],
     "ipv6": []
   }
 }

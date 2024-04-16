@@ -3,7 +3,9 @@
   "handle": "ARKATEK-2",
   "description": "OOO ZVI Telecom",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.87.244.0/24"
+    ],
     "ipv6": []
   }
 }

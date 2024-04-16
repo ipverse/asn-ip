@@ -3,7 +3,11 @@
   "handle": "SQUARE-ENIX",
   "description": "Square Enix Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.215.128.0/24",
+      "185.215.130.0/24",
+      "209.130.141.0/24"
+    ],
     "ipv6": []
   }
 }

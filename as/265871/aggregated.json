@@ -3,7 +3,9 @@
   "handle": "REDCALL-SPA",
   "description": "REDCALL SPA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.227.62.0/23"
+    ],
     "ipv6": []
   }
 }

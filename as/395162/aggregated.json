@@ -3,7 +3,9 @@
   "handle": "MOD-PTC",
   "description": "Markit On Demand, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "209.234.224.0/21"
+    ],
     "ipv6": []
   }
 }

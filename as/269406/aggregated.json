@@ -3,7 +3,9 @@
   "handle": "SECRETARIA-ESTADO-FAZENDA",
   "description": "Secretaria De Estado De Fazenda De Minas Gerais",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.183.222.0/23"
+    ],
     "ipv6": []
   }
 }

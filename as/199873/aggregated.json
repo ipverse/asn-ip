@@ -3,7 +3,9 @@
   "handle": "EZETOP",
   "description": "Ezetop Unlimited Company ULC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.43.195.0/24"
+    ],
     "ipv6": []
   }
 }

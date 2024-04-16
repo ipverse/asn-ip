@@ -3,7 +3,9 @@
   "handle": "NII-SOKB",
   "description": "Research Institute of Complex Security Systems LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.172.136.0/22"
+    ],
     "ipv6": []
   }
 }

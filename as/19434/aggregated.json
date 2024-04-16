@@ -3,7 +3,9 @@
   "handle": "SPRICHARDS",
   "description": "S. P. RICHARDS COMPANY",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "65.198.237.0/24"
+    ],
     "ipv6": []
   }
 }

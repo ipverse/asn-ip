@@ -3,7 +3,9 @@
   "handle": "NEXTFLEX",
   "description": "NextFlex",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.77.201.0/24"
+    ],
     "ipv6": []
   }
 }

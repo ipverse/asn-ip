@@ -3,7 +3,11 @@
   "handle": "PP",
   "description": "Perfect Presentation for commercial services",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "95.129.8.0/21"
+    ],
+    "ipv6": [
+      "2a05:e940::/29"
+    ]
   }
 }

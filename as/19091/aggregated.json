@@ -3,7 +3,10 @@
   "handle": "CREDIT-KARMA",
   "description": "Credit Karma, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "64.128.79.0/24",
+      "206.169.134.0/23"
+    ],
     "ipv6": []
   }
 }

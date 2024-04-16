@@ -3,7 +3,9 @@
   "handle": "BOTTOMLINE-AP",
   "description": "Bottomline Technologies Pte. Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.76.30.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "SPRD-NET",
   "description": "sprd.net AG",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.35.100.0/22"
+    ],
     "ipv6": []
   }
 }

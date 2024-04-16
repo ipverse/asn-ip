@@ -3,7 +3,9 @@
   "handle": "MEHARRY-I2",
   "description": "Meharry Medical College",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.136.67.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "CISD-ASNNUMBER-01",
   "description": "CORSICANA ISD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.147.98.0/24"
+    ],
     "ipv6": []
   }
 }

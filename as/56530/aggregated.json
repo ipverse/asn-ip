@@ -3,7 +3,9 @@
   "handle": "PRTL",
   "description": "PROTEL SAL OFFSHORE",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.223.215.0/24"
+    ],
     "ipv6": []
   }
 }

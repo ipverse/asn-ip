@@ -3,7 +3,9 @@
   "handle": "LC-SJC",
   "description": "LendingClub Corporation",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "165.193.232.0/24"
+    ],
     "ipv6": []
   }
 }

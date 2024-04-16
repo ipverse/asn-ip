@@ -3,7 +3,9 @@
   "handle": "BANKSOYUZ",
   "description": "Joint Stock Company Ingosstrakh Bank",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.110.18.0/24"
+    ],
     "ipv6": []
   }
 }

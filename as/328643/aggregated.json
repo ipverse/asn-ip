@@ -3,7 +3,9 @@
   "handle": "MASSTORES",
   "description": "Masstores (Proprietary) Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "102.223.114.0/23"
+    ],
     "ipv6": []
   }
 }

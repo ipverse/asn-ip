@@ -3,7 +3,9 @@
   "handle": "VISIO",
   "description": "Vision Wifi Inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.184.248.0/24"
+    ],
     "ipv6": []
   }
 }

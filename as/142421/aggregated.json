@@ -3,7 +3,9 @@
   "handle": "SKIF-AP",
   "description": "SKIF Enterprises Private Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.168.40.0/23"
+    ],
     "ipv6": []
   }
 }

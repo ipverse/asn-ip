@@ -3,7 +3,10 @@
   "handle": "ALFA-MUTUAL",
   "description": "Alfa Mutual Insurance Company",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "12.5.124.0/24",
+      "198.154.79.0/24"
+    ],
     "ipv6": []
   }
 }

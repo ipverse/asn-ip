@@ -3,7 +3,10 @@
   "handle": "POLYUS",
   "description": "JSC Polyus Krasnoyarsk",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "31.129.124.0/24",
+      "195.16.93.0/24"
+    ],
     "ipv6": []
   }
 }

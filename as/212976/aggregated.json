@@ -3,7 +3,9 @@
   "handle": "XPO-TRANSPORT",
   "description": "XPO IT EUROPE SNC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.45.254.0/23"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "ABS",
   "description": "Advanced Business Software S.R.L.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.14.56.0/22"
+    ],
     "ipv6": []
   }
 }

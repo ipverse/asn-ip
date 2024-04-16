@@ -3,7 +3,9 @@
   "handle": "PORTALSAT-TELECOM",
   "description": "PortalSAT Telecom",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "186.211.0.0/20"
+    ],
     "ipv6": []
   }
 }

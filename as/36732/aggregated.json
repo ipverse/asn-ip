@@ -3,7 +3,9 @@
   "handle": "COMCAST",
   "description": "Comcast Cable Communications, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.88.99.0/24"
+    ],
     "ipv6": []
   }
 }

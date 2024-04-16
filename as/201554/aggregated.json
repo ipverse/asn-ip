@@ -3,7 +3,9 @@
   "handle": "SES-PS",
   "description": "SES ASTRA S.A.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.71.84.0/22"
+    ],
     "ipv6": []
   }
 }

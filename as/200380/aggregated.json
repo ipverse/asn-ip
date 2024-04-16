@@ -3,7 +3,9 @@
   "handle": "ASIMAGAR",
   "description": "Imagar Informatica Sl",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "5.102.135.0/24"
+    ],
     "ipv6": []
   }
 }

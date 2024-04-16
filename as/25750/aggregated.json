@@ -3,7 +3,9 @@
   "handle": "SVHC",
   "description": "Southwestern Vermont Health Care",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "72.237.51.0/24"
+    ],
     "ipv6": []
   }
 }

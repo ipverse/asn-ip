@@ -3,7 +3,10 @@
   "handle": "DHAKATEL-BD",
   "description": "Genuity Systems Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "58.65.224.0/24",
+      "58.65.228.0/22"
+    ],
     "ipv6": []
   }
 }

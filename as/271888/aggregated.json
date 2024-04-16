@@ -3,7 +3,9 @@
   "handle": "SERVICIOS-CONVERGENTES-OESTE",
   "description": "SERVICIOS CONVERGENTES DEL OESTE S.R.L.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "177.74.200.0/22"
+    ],
     "ipv6": []
   }
 }

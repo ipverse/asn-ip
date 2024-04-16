@@ -3,7 +3,9 @@
   "handle": "ASNEW",
   "description": "Perceptive Informatics (Germany) GmbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.102.77.0/24"
+    ],
     "ipv6": []
   }
 }

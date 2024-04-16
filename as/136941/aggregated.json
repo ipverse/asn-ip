@@ -3,7 +3,9 @@
   "handle": "UMS-AP",
   "description": "Unicom Multi System",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.99.180.0/22"
+    ],
     "ipv6": []
   }
 }

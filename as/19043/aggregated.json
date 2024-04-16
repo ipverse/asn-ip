@@ -3,7 +3,9 @@
   "handle": "ONEBEACONINSURANCEGROUP",
   "description": "OneBeacon Insurance Group LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "205.134.128.0/19"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,12 @@
   "handle": "MV-TELECOM",
   "description": "MV TELECOM",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.234.11.0/24",
+      "170.78.96.0/22"
+    ],
+    "ipv6": [
+      "2804:351c::/32"
+    ]
   }
 }

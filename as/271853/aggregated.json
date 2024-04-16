@@ -3,7 +3,9 @@
   "handle": "VETTORE-EMANUEL-ROQUE",
   "description": "VETTORE EMANUEL ROQUE (VETTORE INGENIERIA)",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "190.103.190.0/24"
+    ],
     "ipv6": []
   }
 }

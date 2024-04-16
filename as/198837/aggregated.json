@@ -3,7 +3,11 @@
   "handle": "VASTMANLANDS",
   "description": "Vastmanlands Lans Landsting",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "193.180.8.0/22"
+    ],
+    "ipv6": [
+      "2001:67c:728::/48"
+    ]
   }
 }

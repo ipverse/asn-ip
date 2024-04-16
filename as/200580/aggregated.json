@@ -3,7 +3,9 @@
   "handle": "NETZWECK",
   "description": "Netzweck gmbh",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.111.124.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "BANCO-SAFRA",
   "description": "Banco Safra SA.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "189.38.112.0/20"
+    ],
     "ipv6": []
   }
 }

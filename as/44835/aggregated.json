@@ -3,7 +3,9 @@
   "handle": "PROSTOY-RU",
   "description": "1T Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "146.120.224.0/24"
+    ],
     "ipv6": []
   }
 }

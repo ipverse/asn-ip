@@ -3,7 +3,9 @@
   "handle": "TRANSIT",
   "description": "REGIONAL TRANSPORTATION DISTRICT",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "65.114.238.0/24"
+    ],
     "ipv6": []
   }
 }

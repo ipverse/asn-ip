@@ -3,7 +3,9 @@
   "handle": "BUSINESS-CENTER-CAPITAL",
   "description": "JSC Business-center Capital",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.88.200.0/23"
+    ],
     "ipv6": []
   }
 }

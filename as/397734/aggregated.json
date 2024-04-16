@@ -3,7 +3,9 @@
   "handle": "RAD-ROANOKE",
   "description": "Radford University",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.43.254.0/24"
+    ],
     "ipv6": []
   }
 }

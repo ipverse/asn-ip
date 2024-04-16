@@ -3,7 +3,9 @@
   "handle": "ABANET",
   "description": "Abaco Informatica S.r.l.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "212.28.160.0/22"
+    ],
     "ipv6": []
   }
 }

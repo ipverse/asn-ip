@@ -3,7 +3,10 @@
   "handle": "DIGITECH-RU",
   "description": "DIGI TECH LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.162.6.0/23",
+      "195.177.194.0/23"
+    ],
     "ipv6": []
   }
 }

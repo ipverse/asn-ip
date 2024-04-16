@@ -3,7 +3,10 @@
   "handle": "BAKER",
   "description": "Baker Group Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.197.32.0/22",
+      "193.108.80.0/21"
+    ],
     "ipv6": []
   }
 }

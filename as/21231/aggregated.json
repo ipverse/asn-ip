@@ -3,7 +3,11 @@
   "handle": "AEROFLOT",
   "description": "PJSC Aeroflot",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "80.92.32.0/22",
+      "80.92.36.0/23",
+      "80.92.39.0/24"
+    ],
     "ipv6": []
   }
 }

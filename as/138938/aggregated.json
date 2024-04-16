@@ -3,7 +3,9 @@
   "handle": "NTC-INPE",
   "description": "NORTHERN TRUST CORPORATION",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "167.179.199.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -4,6 +4,8 @@
   "description": "St Broadband Cable Service",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2406:f140::/32"
+    ]
   }
 }

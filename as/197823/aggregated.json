@@ -3,7 +3,9 @@
   "handle": "MZSS",
   "description": "Ministarstvo zdravstva",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.152.215.0/24"
+    ],
     "ipv6": []
   }
 }

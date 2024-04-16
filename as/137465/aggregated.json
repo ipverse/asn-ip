@@ -3,7 +3,9 @@
   "handle": "SIMPLYFREELIMITED-AP",
   "description": "Simplyfree Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.109.245.0/24"
+    ],
     "ipv6": []
   }
 }

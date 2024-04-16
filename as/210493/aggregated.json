@@ -3,7 +3,9 @@
   "handle": "ITS-PRO",
   "description": "ITS PRO Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "141.101.222.0/24"
+    ],
     "ipv6": []
   }
 }

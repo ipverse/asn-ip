@@ -3,7 +3,10 @@
   "handle": "BPAS-01",
   "description": "Brierley \u0026 Partners, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.31.126.0/23",
+      "199.231.6.0/23"
+    ],
     "ipv6": []
   }
 }

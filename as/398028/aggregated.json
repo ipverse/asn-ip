@@ -3,7 +3,9 @@
   "handle": "PSFC-NYC",
   "description": "Park Slope Food Coop Inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "69.38.140.0/24"
+    ],
     "ipv6": []
   }
 }

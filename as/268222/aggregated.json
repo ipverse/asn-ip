@@ -3,7 +3,11 @@
   "handle": "FENIX-TELECOM",
   "description": "FENIX TELECOM",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.236.20.0/22"
+    ],
+    "ipv6": [
+      "2804:4dd4::/32"
+    ]
   }
 }

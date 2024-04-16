@@ -3,7 +3,10 @@
   "handle": "METAV",
   "description": "Metav SA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "80.96.26.0/24",
+      "195.245.220.0/24"
+    ],
     "ipv6": []
   }
 }

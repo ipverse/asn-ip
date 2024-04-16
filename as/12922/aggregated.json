@@ -3,7 +3,9 @@
   "handle": "CEDACRI-SPA-SMART-WORKING",
   "description": "CEDACRI S.P.A.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.105.61.0/24"
+    ],
     "ipv6": []
   }
 }

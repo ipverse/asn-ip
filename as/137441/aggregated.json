@@ -3,7 +3,9 @@
   "handle": "TECHREP-AP",
   "description": "Techrep Services PTY LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.166.60.0/23"
+    ],
     "ipv6": []
   }
 }

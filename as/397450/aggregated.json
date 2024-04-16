@@ -3,7 +3,9 @@
   "handle": "COF94533",
   "description": "City of Fairfield",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "64.162.152.0/23"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,10 @@
   "handle": "CSMPR",
   "description": "Cooperativa de Seguros Multiples de Puerto Rico",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "63.165.183.0/24",
+      "66.50.45.0/24"
+    ],
     "ipv6": []
   }
 }

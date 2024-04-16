@@ -3,7 +3,9 @@
   "handle": "DATASERV",
   "description": "DATASERV",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "137.83.92.0/23"
+    ],
     "ipv6": []
   }
 }

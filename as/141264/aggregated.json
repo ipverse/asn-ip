@@ -3,7 +3,9 @@
   "handle": "MCCIL-IN",
   "description": "Metropolitan Clearing Corporation Of India Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.158.180.0/24"
+    ],
     "ipv6": []
   }
 }

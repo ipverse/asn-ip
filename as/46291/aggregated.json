@@ -3,7 +3,9 @@
   "handle": "LODCO",
   "description": "LOD Communications, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.120.223.0/24"
+    ],
     "ipv6": []
   }
 }

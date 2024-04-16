@@ -3,7 +3,9 @@
   "handle": "CONTROL-PANEL-SARL",
   "description": "CONTROL PANEL SARL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.130.136.0/22"
+    ],
     "ipv6": []
   }
 }

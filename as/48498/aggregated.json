@@ -3,7 +3,9 @@
   "handle": "SOCHI-ONLINE",
   "description": "Sochi-Online Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.211.36.0/22"
+    ],
     "ipv6": []
   }
 }

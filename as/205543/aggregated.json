@@ -3,7 +3,12 @@
   "handle": "GHZ",
   "description": "Gigahertz GmbH",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "185.214.237.0/24",
+      "185.214.238.0/24"
+    ],
+    "ipv6": [
+      "2a0b:af41::/36"
+    ]
   }
 }

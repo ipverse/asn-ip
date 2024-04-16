@@ -3,7 +3,11 @@
   "handle": "EZVERIFY-VALIDATE",
   "description": "EZVERIFY \u0026 VALIDATE LLC",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "192.34.180.0/24"
+    ],
+    "ipv6": [
+      "2620:81:c000::/48"
+    ]
   }
 }

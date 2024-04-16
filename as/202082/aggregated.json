@@ -3,7 +3,9 @@
   "handle": "ILOT",
   "description": "LLC ILOT",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "80.79.249.0/24"
+    ],
     "ipv6": []
   }
 }

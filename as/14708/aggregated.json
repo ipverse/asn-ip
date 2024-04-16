@@ -3,7 +3,9 @@
   "handle": "WEBHOST-CHILE",
   "description": "WebHost Chile S.A.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "200.29.224.0/21"
+    ],
     "ipv6": []
   }
 }

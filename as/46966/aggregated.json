@@ -3,7 +3,11 @@
   "handle": "CITYOFGI",
   "description": "City of Grand Island",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "192.81.49.0/24"
+    ],
+    "ipv6": [
+      "2602:811:7000::/48"
+    ]
   }
 }

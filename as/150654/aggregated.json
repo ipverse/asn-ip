@@ -3,7 +3,10 @@
   "handle": "KENNIESIT-IN",
   "description": "Kennies Star India Private Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.168.173.0/24",
+      "175.111.97.0/24"
+    ],
     "ipv6": []
   }
 }

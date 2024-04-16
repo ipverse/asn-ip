@@ -3,7 +3,9 @@
   "handle": "HPXIT-IN",
   "description": "HINDUSTAN POWER EXCHANGE LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.186.70.0/24"
+    ],
     "ipv6": []
   }
 }

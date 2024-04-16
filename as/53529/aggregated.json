@@ -3,7 +3,9 @@
   "handle": "JCC",
   "description": "Jefferson County, Colorado",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.184.241.0/24"
+    ],
     "ipv6": []
   }
 }

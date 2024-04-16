@@ -3,7 +3,11 @@
   "handle": "VIRTUASYS-AMERICA",
   "description": "VIRTUASYS America, Inc.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "66.78.39.0/24"
+    ],
+    "ipv6": [
+      "2607:8bc0::/32"
+    ]
   }
 }

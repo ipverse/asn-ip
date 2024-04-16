@@ -3,7 +3,11 @@
   "handle": "PIC-EXT",
   "description": "Ping Identity Corporation",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "130.250.137.0/24"
+    ],
+    "ipv6": [
+      "2602:faf3::/48"
+    ]
   }
 }

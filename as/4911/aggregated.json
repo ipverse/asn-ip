@@ -3,7 +3,9 @@
   "handle": "CENTURYLINK-LEGACY-QWEST-SPA-MARION",
   "description": "CenturyLink Communications, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "168.251.0.0/18"
+    ],
     "ipv6": []
   }
 }

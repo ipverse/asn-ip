@@ -3,7 +3,9 @@
   "handle": "MMI",
   "description": "Mini Maritsa Iztok EAD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.246.240.0/23"
+    ],
     "ipv6": []
   }
 }

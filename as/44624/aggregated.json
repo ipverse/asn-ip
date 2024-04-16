@@ -3,7 +3,9 @@
   "handle": "SZ2999",
   "description": "SIA RD Consult",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.69.24.0/22"
+    ],
     "ipv6": []
   }
 }

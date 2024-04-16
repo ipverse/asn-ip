@@ -3,7 +3,9 @@
   "handle": "EVNSPC-VN",
   "description": "16 Au Co, Tan Son Nhi Ward, Tan Phu District, Ho Chi Minh city (EVNSPC Building)",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.100.160.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "APEN-AP",
   "description": "Ainternet",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "202.14.187.0/24"
+    ],
     "ipv6": []
   }
 }

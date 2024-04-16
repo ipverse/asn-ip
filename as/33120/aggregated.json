@@ -3,7 +3,9 @@
   "handle": "VIRGINIA-BEACH-CITY-PUBLIC-SCHOOLS",
   "description": "Virginia Beach City Public Schools",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "204.126.10.0/23"
+    ],
     "ipv6": []
   }
 }

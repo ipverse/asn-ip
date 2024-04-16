@@ -3,7 +3,9 @@
   "handle": "ARQUICOMP",
   "description": "Arquicomp Ltda.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "200.114.88.0/21"
+    ],
     "ipv6": []
   }
 }

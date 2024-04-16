@@ -3,7 +3,9 @@
   "handle": "ICC-AP",
   "description": "Ipswich City Council",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.17.132.0/22"
+    ],
     "ipv6": []
   }
 }

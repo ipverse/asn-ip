@@ -3,7 +3,9 @@
   "handle": "AST",
   "description": "Aragonesa de Servicios Telematicos",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "188.244.80.0/20"
+    ],
     "ipv6": []
   }
 }

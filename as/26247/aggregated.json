@@ -3,7 +3,10 @@
   "handle": "HCCA",
   "description": "Hamilton-Clermont Cooperative Assn.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "131.187.224.0/21",
+      "204.10.216.0/21"
+    ],
     "ipv6": []
   }
 }

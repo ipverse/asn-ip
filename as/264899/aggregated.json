@@ -3,7 +3,11 @@
   "handle": "R-L-COMERCIO",
   "description": "R L COMERCIO MANUTENCAO REPRESENTACAO DE ELETRO-E",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "168.228.4.0/22"
+    ],
+    "ipv6": [
+      "2804:2f90::/32"
+    ]
   }
 }

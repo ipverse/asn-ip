@@ -3,7 +3,11 @@
   "handle": "TRIUNFO-FIBRA",
   "description": "TRIUNFO FIBRA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "131.196.164.0/22"
+    ],
+    "ipv6": [
+      "2804:3fc8::/32"
+    ]
   }
 }

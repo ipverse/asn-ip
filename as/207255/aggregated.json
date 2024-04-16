@@ -3,7 +3,9 @@
   "handle": "MTVA",
   "description": "Mediaszolgaltatas-tamogato es Vagyonkezelo Alap",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.161.204.0/22"
+    ],
     "ipv6": []
   }
 }

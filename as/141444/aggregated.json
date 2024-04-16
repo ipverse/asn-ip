@@ -3,7 +3,11 @@
   "handle": "WICKED-AP",
   "description": "Wicked Networks Limited",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "103.159.138.0/24"
+    ],
+    "ipv6": [
+      "2406:d340::/32"
+    ]
   }
 }

@@ -3,7 +3,9 @@
   "handle": "JOBNETWORKS-MXICO",
   "description": "Jobnetworks de Mxico, S.A. de C.V.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "138.94.140.0/22"
+    ],
     "ipv6": []
   }
 }

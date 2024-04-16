@@ -3,7 +3,9 @@
   "handle": "RSS-SOCIEDADE-CIVIL",
   "description": "RSS SOCIEDADE CIVIL LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "177.52.232.0/21"
+    ],
     "ipv6": []
   }
 }

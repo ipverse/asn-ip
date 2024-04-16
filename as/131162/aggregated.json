@@ -3,7 +3,9 @@
   "handle": "TRUEINTERNET-AP",
   "description": "TRUE INTERNET CORPORATION CO. LTD.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "58.97.60.0/24"
+    ],
     "ipv6": []
   }
 }

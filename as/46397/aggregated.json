@@ -3,7 +3,9 @@
   "handle": "MOSES",
   "description": "Moses \u0026 Singer LLP",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.108.201.0/24"
+    ],
     "ipv6": []
   }
 }

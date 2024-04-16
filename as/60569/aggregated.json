@@ -3,7 +3,10 @@
   "handle": "ARD-TELEPORT",
   "description": "ARD Teleport LTD.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "93.158.240.0/20",
+      "185.29.56.0/22"
+    ],
     "ipv6": []
   }
 }

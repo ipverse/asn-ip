@@ -3,7 +3,9 @@
   "handle": "MENTONEGRAMMAR2-AP",
   "description": "Mentone Grammar School",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "203.9.59.0/24"
+    ],
     "ipv6": []
   }
 }

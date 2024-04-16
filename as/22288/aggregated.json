@@ -3,7 +3,9 @@
   "handle": "RFBKCORP",
   "description": "Republic First Bancorp, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "65.207.100.0/24"
+    ],
     "ipv6": []
   }
 }

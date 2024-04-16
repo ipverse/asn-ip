@@ -3,7 +3,9 @@
   "handle": "TRKMECHTA-NET",
   "description": "Teleradio company Mechta LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.76.81.0/24"
+    ],
     "ipv6": []
   }
 }

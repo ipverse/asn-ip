@@ -3,7 +3,9 @@
   "handle": "MIGDAL-SHUKEY-HON",
   "description": "MIGDAL CAPITAL MARKETS (MANAGEMENT SERVICES) LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.8.88.0/23"
+    ],
     "ipv6": []
   }
 }

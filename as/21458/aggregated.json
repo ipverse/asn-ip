@@ -3,7 +3,9 @@
   "handle": "KFW",
   "description": "KfW Kreditanstalt fur Wiederaufbau",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.30.140.0/24"
+    ],
     "ipv6": []
   }
 }

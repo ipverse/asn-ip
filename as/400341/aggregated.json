@@ -3,7 +3,9 @@
   "handle": "ETHALABS-01",
   "description": "XICOMM LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "165.140.216.0/24"
+    ],
     "ipv6": []
   }
 }

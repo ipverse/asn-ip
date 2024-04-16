@@ -3,7 +3,9 @@
   "handle": "FFNET",
   "description": "FUJIMIC, INC. expire11",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "210.167.32.0/19"
+    ],
     "ipv6": []
   }
 }

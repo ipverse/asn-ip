@@ -3,7 +3,9 @@
   "handle": "ACQUIRENTEUNICO",
   "description": "ACQUIRENTE UNICO SPA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.234.236.0/22"
+    ],
     "ipv6": []
   }
 }

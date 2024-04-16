@@ -3,7 +3,10 @@
   "handle": "VIBEGAMES",
   "description": "Vibe Games LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "212.46.36.0/24",
+      "213.226.115.0/24"
+    ],
     "ipv6": []
   }
 }

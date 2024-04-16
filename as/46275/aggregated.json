@@ -3,7 +3,10 @@
   "handle": "ACU",
   "description": "AcuCall",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "96.126.69.0/24",
+      "192.252.221.0/24"
+    ],
     "ipv6": []
   }
 }

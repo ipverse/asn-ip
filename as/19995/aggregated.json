@@ -3,7 +3,10 @@
   "handle": "VSECORP",
   "description": "VSE Corporation",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "72.215.59.0/24",
+      "192.206.240.0/24"
+    ],
     "ipv6": []
   }
 }

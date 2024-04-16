@@ -3,7 +3,9 @@
   "handle": "GLAVKINO",
   "description": "OOO Kinostudiya Zvezda",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "92.38.223.0/24"
+    ],
     "ipv6": []
   }
 }

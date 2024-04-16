@@ -3,7 +3,9 @@
   "handle": "LEIBOLD",
   "description": "Leibold Sicherheits- \u0026 Informationstechnik GmbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.9.116.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "NETADMIN",
   "description": "Net-Admin S.r.l.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.112.86.0/23"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,10 @@
   "handle": "TERRATELECOM",
   "description": "Terra-Telecom LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.207.66.0/23",
+      "194.105.136.0/23"
+    ],
     "ipv6": []
   }
 }

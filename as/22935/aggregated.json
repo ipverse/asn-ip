@@ -3,7 +3,9 @@
   "handle": "WAYNE-BOCES",
   "description": "Wayne Finger-Lakes BOCES",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "209.68.64.0/18"
+    ],
     "ipv6": []
   }
 }

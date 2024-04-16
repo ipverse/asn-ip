@@ -3,7 +3,9 @@
   "handle": "BAGUSNET-ID",
   "description": "PT. BORNEO BROADBAND TECHNOLOGY",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "121.101.184.0/21"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,11 @@
   "handle": "FR-SOUSA-TELECOMUNICAES",
   "description": "FR Sousa Telecomunicaes LTDA - ME",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "207.248.16.0/22"
+    ],
+    "ipv6": [
+      "2804:7b20::/32"
+    ]
   }
 }

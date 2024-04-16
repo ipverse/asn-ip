@@ -3,7 +3,10 @@
   "handle": "RTA-TELECOM",
   "description": "Zavod RTA Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "93.171.100.0/22",
+      "95.47.170.0/23"
+    ],
     "ipv6": []
   }
 }

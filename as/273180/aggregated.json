@@ -3,7 +3,9 @@
   "handle": "THREE-NETWORKS",
   "description": "THREE NETWORKS SRL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.191.161.0/24"
+    ],
     "ipv6": []
   }
 }

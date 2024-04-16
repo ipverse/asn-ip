@@ -3,7 +3,9 @@
   "handle": "IRIMO",
   "description": "IRAN METEOROLOGICAL ORGANIZATION",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.14.81.0/24"
+    ],
     "ipv6": []
   }
 }

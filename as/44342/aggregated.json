@@ -3,7 +3,9 @@
   "handle": "MARUSHKINONET",
   "description": "PILYUGIN VADIM VLADIMIROVICH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "94.101.97.0/24"
+    ],
     "ipv6": []
   }
 }

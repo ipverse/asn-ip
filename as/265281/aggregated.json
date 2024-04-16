@@ -3,7 +3,11 @@
   "handle": "TECBUY-TELECOMUNICAES",
   "description": "tecbuy telecomunicaes ltda - me",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "168.90.192.0/22"
+    ],
+    "ipv6": [
+      "2804:2d6c::/32"
+    ]
   }
 }

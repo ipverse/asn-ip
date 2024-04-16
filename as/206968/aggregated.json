@@ -3,7 +3,9 @@
   "handle": "ROSSETI",
   "description": "PJSC Rosseti",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.133.240.0/24"
+    ],
     "ipv6": []
   }
 }

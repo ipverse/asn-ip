@@ -3,7 +3,12 @@
   "handle": "BMG",
   "description": "Bundesministerium f. Gesundheit",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "185.117.40.0/22",
+      "194.48.236.0/22"
+    ],
+    "ipv6": [
+      "2a00:1610::/29"
+    ]
   }
 }

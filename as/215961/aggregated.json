@@ -3,7 +3,9 @@
   "handle": "BTEXPER",
   "description": "BTEXPER BILISIM DANISMANLIK ve DESTEK HIZMETLERI LTD STI",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "2.57.238.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "TALUIZ-ELETRONICO",
   "description": "T.A.LUIZ ELETRONICO LTDA - ME",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "170.245.248.0/22"
+    ],
     "ipv6": []
   }
 }

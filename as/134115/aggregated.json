@@ -3,7 +3,9 @@
   "handle": "RIVERVIEW-AP",
   "description": "THE TRUSTEES OF THE JESUIT FATHERS - ST IGNATIUS COLLEGE RIVERVIEW",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.53.187.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "SOFIA-MUNICIPALITY",
   "description": "Sofia Municipality",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "85.208.138.0/24"
+    ],
     "ipv6": []
   }
 }

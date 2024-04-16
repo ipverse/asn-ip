@@ -3,7 +3,9 @@
   "handle": "BAKWENA",
   "description": "Bakwena Entertainment and Production Services (PTY) Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "154.16.62.0/24"
+    ],
     "ipv6": []
   }
 }

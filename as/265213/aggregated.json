@@ -3,7 +3,9 @@
   "handle": "BRUMART-SUA-INTERNET",
   "description": "BRUMART a sua internet",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "167.250.104.0/22"
+    ],
     "ipv6": []
   }
 }

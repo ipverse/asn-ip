@@ -3,7 +3,9 @@
   "handle": "AVIASO",
   "description": "Honeywell EOOD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "87.120.143.0/24"
+    ],
     "ipv6": []
   }
 }

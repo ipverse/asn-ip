@@ -3,7 +3,9 @@
   "handle": "PTGSERVICES",
   "description": "Power to Grow Services LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "67.159.203.0/24"
+    ],
     "ipv6": []
   }
 }

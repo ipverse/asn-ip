@@ -3,7 +3,10 @@
   "handle": "EDTCL-HK",
   "description": "EVERY DAY TECHNOLOGY CO. LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "210.79.61.0/24",
+      "210.79.62.0/23"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,10 @@
   "handle": "MAINSTREAM-TECHNOLOGIES-LRDC",
   "description": "Mainstream Technologies, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "8.39.211.0/24",
+      "12.133.45.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "ZVEZDA",
   "description": "OJSC The Russian Armed Forces Broadcasting Company ZVEZDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "89.208.98.0/23"
+    ],
     "ipv6": []
   }
 }

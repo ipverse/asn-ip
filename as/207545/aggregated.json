@@ -3,7 +3,10 @@
   "handle": "INFORMATICA95SERVIZI",
   "description": "INFORMATICA95 SERVIZI SRLS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.13.164.0/22",
+      "185.146.132.0/22"
+    ],
     "ipv6": []
   }
 }

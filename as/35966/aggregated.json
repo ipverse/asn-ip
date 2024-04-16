@@ -3,7 +3,9 @@
   "handle": "AEW",
   "description": "AEW Capital Management LP",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "66.37.37.0/24"
+    ],
     "ipv6": []
   }
 }

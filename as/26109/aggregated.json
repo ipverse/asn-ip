@@ -3,7 +3,9 @@
   "handle": "L-PERRIGO-GLOBAL",
   "description": "L. Perrigo Company",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "198.11.114.0/23"
+    ],
     "ipv6": []
   }
 }

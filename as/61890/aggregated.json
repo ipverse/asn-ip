@@ -3,7 +3,13 @@
   "handle": "ADAPTLINK-SERVIOS-COMUNICAO",
   "description": "Adaptlink Servios de Comunicao Multimdia Ltda.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "138.204.212.0/22",
+      "170.150.24.0/22",
+      "186.219.120.0/21"
+    ],
+    "ipv6": [
+      "2804:eb4::/32"
+    ]
   }
 }

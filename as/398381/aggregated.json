@@ -3,7 +3,9 @@
   "handle": "DC",
   "description": "Dallas, County Of",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "76.164.228.0/23"
+    ],
     "ipv6": []
   }
 }

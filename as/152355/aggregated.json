@@ -3,7 +3,9 @@
   "handle": "IDNIC-MALANGKAB-ID",
   "description": "Dinas Komunikasi dan Informatika Kabupaten Malang",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "157.10.158.0/23"
+    ],
     "ipv6": []
   }
 }

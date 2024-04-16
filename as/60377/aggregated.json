@@ -3,7 +3,12 @@
   "handle": "TOOB",
   "description": "toob limited",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.13.4.0/22",
+      "145.40.128.0/18"
+    ],
+    "ipv6": [
+      "2a0e:cb00::/29"
+    ]
   }
 }

@@ -3,7 +3,9 @@
   "handle": "IT-HOSTINGGROUP",
   "description": "It Hosting Group",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "204.155.30.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "TRANSASIALOGISTIC",
   "description": "Transasia LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "5.42.219.0/24"
+    ],
     "ipv6": []
   }
 }

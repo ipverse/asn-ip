@@ -3,7 +3,9 @@
   "handle": "TORR",
   "description": "Schoene Toechter GmbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "213.143.192.0/19"
+    ],
     "ipv6": []
   }
 }

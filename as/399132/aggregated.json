@@ -3,7 +3,9 @@
   "handle": "GNS",
   "description": "Genesis Network Solutions, INC.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "23.129.104.0/24"
+    ],
     "ipv6": []
   }
 }

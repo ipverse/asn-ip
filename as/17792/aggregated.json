@@ -3,7 +3,9 @@
   "handle": "MET-AP",
   "description": "Meteorological Service of New Zealand Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "202.50.193.0/24"
+    ],
     "ipv6": []
   }
 }

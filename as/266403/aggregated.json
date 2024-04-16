@@ -3,7 +3,9 @@
   "handle": "BOM-LINK-NET-TRINDADE-GO",
   "description": "Bom Link Net Trindade GO",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "170.80.84.0/22"
+    ],
     "ipv6": []
   }
 }

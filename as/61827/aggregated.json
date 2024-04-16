@@ -3,7 +3,11 @@
   "handle": "PZ-NET",
   "description": "PZ NET",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "201.140.232.0/22"
+    ],
+    "ipv6": [
+      "2804:19ec::/36"
+    ]
   }
 }

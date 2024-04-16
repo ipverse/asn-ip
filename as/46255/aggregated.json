@@ -3,7 +3,9 @@
   "handle": "CHARLOTTE-MECKLENBURG-SCHOOLS-NC",
   "description": "Charlotte-Mecklenburg Schools",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "168.190.0.0/16"
+    ],
     "ipv6": []
   }
 }

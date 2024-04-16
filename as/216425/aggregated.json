@@ -3,7 +3,11 @@
   "handle": "HANARIN",
   "description": "HANARIN LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "5.83.221.0/24",
+      "165.140.20.0/23",
+      "185.113.66.0/23"
+    ],
     "ipv6": []
   }
 }

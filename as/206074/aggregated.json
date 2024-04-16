@@ -4,6 +4,9 @@
   "description": "IPXO LIMITED",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a0c:b6c2::/32",
+      "2a0e:d784::/32"
+    ]
   }
 }

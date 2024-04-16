@@ -3,7 +3,9 @@
   "handle": "MAXTO",
   "description": "MAXTO Spolka z ograniczona odpowiedzialnoscia S.K.A.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "77.65.140.0/24"
+    ],
     "ipv6": []
   }
 }

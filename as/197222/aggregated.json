@@ -3,7 +3,9 @@
   "handle": "RAMBURS",
   "description": "JOINT STOCK COMPANY RAMBURS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.149.92.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "MGRM",
   "description": "MGRM Pinnacle, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.73.25.0/24"
+    ],
     "ipv6": []
   }
 }

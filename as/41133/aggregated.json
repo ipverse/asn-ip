@@ -3,7 +3,9 @@
   "handle": "BEITSA",
   "description": "BE.iT SA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.91.228.0/22"
+    ],
     "ipv6": []
   }
 }

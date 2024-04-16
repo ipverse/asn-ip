@@ -3,7 +3,9 @@
   "handle": "WATECH-1",
   "description": "Providence Park Medical Building Group, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "208.86.208.0/22"
+    ],
     "ipv6": []
   }
 }

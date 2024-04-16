@@ -3,7 +3,10 @@
   "handle": "CIRRUS-SEVEN-INC",
   "description": "Cirrus Seven, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "66.150.124.0/24",
+      "192.138.99.0/24"
+    ],
     "ipv6": []
   }
 }

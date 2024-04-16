@@ -3,7 +3,9 @@
   "handle": "KIAM",
   "description": "Keldysh Institute of Applied Mathematics, Russian Academy of Sciences",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "217.9.80.0/22"
+    ],
     "ipv6": []
   }
 }

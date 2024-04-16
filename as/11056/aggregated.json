@@ -3,7 +3,10 @@
   "handle": "BERGERMONTAGE-HRVR",
   "description": "Berger Montague",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "50.202.59.0/24",
+      "159.63.4.0/24"
+    ],
     "ipv6": []
   }
 }

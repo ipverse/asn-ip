@@ -3,7 +3,10 @@
   "handle": "BBT-ID",
   "description": "BATAM BINTAN TELEKOMUNIKASI, PT",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.135.72.0/22",
+      "175.111.112.0/21"
+    ],
     "ipv6": []
   }
 }

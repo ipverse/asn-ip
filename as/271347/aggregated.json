@@ -3,7 +3,11 @@
   "handle": "JHONATA-SILVA-MATOS",
   "description": "JHONATA DA SILVA MATOS ME",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "200.53.92.0/22"
+    ],
+    "ipv6": [
+      "2804:7a18::/32"
+    ]
   }
 }

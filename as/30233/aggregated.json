@@ -3,7 +3,9 @@
   "handle": "PAYCHEX-O",
   "description": "Paychex Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "141.123.252.0/22"
+    ],
     "ipv6": []
   }
 }

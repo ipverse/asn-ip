@@ -3,7 +3,11 @@
   "handle": "CICERO-MOREIRA",
   "description": "CICERO MOREIRA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.230.136.0/22"
+    ],
+    "ipv6": [
+      "2804:490c::/32"
+    ]
   }
 }

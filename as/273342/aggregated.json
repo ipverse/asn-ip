@@ -3,7 +3,9 @@
   "handle": "NET-LINK-INTERNET",
   "description": "NET LINK INTERNET LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "138.118.254.0/23"
+    ],
     "ipv6": []
   }
 }

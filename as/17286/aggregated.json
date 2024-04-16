@@ -3,7 +3,9 @@
   "handle": "PCRMC-ROLLA",
   "description": "Phelps County Regional Medical Center",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "64.15.80.0/24"
+    ],
     "ipv6": []
   }
 }

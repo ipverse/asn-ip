@@ -3,7 +3,11 @@
   "handle": "TGH-TAMPA",
   "description": "Tampa General Hospital",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.101.20.0/24",
+      "67.9.238.0/24",
+      "67.148.222.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "TSYSTEMS",
   "description": "PrJSC VF UKRAINE",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "212.40.32.0/19"
+    ],
     "ipv6": []
   }
 }

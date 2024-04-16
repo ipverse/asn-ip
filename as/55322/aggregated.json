@@ -3,7 +3,9 @@
   "handle": "NPC-VN",
   "description": "North Power Company",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "116.212.32.0/19"
+    ],
     "ipv6": []
   }
 }

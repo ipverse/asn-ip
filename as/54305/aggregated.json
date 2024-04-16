@@ -3,7 +3,9 @@
   "handle": "ALLACCESSTC",
   "description": "All Access Telecom, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.83.80.0/22"
+    ],
     "ipv6": []
   }
 }

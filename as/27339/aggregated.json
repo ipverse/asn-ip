@@ -3,7 +3,9 @@
   "handle": "HRL-LAX-01",
   "description": "HRL Laboratories, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.136.117.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,10 @@
   "handle": "MEON-YAMA",
   "description": "NTT NEOMEIT YAMAGUCHI CORPORATION",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "202.87.224.0/20",
+      "202.143.8.0/21"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,11 @@
   "handle": "PROQUEST",
   "description": "PROQUEST LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "140.174.32.0/24",
+      "165.215.0.0/17",
+      "205.227.88.0/24"
+    ],
     "ipv6": []
   }
 }

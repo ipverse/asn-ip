@@ -3,7 +3,11 @@
   "handle": "X2COMBE",
   "description": "X2com Belgie B.V.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "185.187.101.0/24"
+    ],
+    "ipv6": [
+      "2a0a:47c0::/29"
+    ]
   }
 }

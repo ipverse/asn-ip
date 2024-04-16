@@ -3,7 +3,11 @@
   "handle": "BRUNO-LEMES",
   "description": "Bruno e Lemes LTDA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.164.100.0/22"
+    ],
+    "ipv6": [
+      "2804:54c4::/32"
+    ]
   }
 }

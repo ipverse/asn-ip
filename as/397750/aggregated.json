@@ -3,7 +3,11 @@
   "handle": "ARGUS",
   "description": "Argus Business Solutions Group",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "104.232.42.0/24"
+    ],
+    "ipv6": [
+      "2602:fc78::/46"
+    ]
   }
 }

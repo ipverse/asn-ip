@@ -3,7 +3,11 @@
   "handle": "BOT-TH",
   "description": "Bank of Thailand",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "202.90.4.0/22"
+    ],
+    "ipv6": [
+      "2404:e680::/32"
+    ]
   }
 }

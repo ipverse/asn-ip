@@ -3,7 +3,11 @@
   "handle": "IPAP1",
   "description": "Innervation Pan African Payments (Pty) Ltd",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "102.216.133.0/24"
+    ],
+    "ipv6": [
+      "2001:43fc:b000::/48"
+    ]
   }
 }

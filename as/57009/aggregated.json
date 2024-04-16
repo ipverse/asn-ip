@@ -3,7 +3,9 @@
   "handle": "SATOGA",
   "description": "Satoga SRL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "89.43.55.0/24"
+    ],
     "ipv6": []
   }
 }

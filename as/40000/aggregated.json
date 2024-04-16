@@ -3,7 +3,10 @@
   "handle": "NOBLIS",
   "description": "Noblis, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "8.46.40.0/24",
+      "8.46.42.0/24"
+    ],
     "ipv6": []
   }
 }

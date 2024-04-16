@@ -3,7 +3,9 @@
   "handle": "ITI",
   "description": "Nalbandian Marko",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.34.96.0/22"
+    ],
     "ipv6": []
   }
 }

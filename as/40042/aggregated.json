@@ -3,7 +3,10 @@
   "handle": "SUFFOLK-COUNTY-GOVERNMENT",
   "description": "Suffolk County Government",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "204.126.171.0/24",
+      "204.126.240.0/23"
+    ],
     "ipv6": []
   }
 }

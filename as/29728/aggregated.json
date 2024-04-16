@@ -3,7 +3,9 @@
   "handle": "COTTAGE-HEALTH",
   "description": "Cottage Health",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "206.169.44.0/24"
+    ],
     "ipv6": []
   }
 }

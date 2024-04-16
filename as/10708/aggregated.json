@@ -3,7 +3,11 @@
   "handle": "SELECTNET",
   "description": "SelectNet Internet Services",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "207.67.130.0/24",
+      "207.67.137.0/24",
+      "207.137.0.0/20"
+    ],
     "ipv6": []
   }
 }

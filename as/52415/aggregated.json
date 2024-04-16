@@ -3,7 +3,9 @@
   "handle": "SIDERAR",
   "description": "SIDERAR S.A.I.C.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "190.3.15.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,10 @@
   "handle": "SMOLENSK",
   "description": "PJSC Rostelecom",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "95.158.192.0/18",
+      "212.3.128.0/19"
+    ],
     "ipv6": []
   }
 }

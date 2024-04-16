@@ -3,7 +3,9 @@
   "handle": "HASHPAL",
   "description": "HashPal LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.199.2.0/24"
+    ],
     "ipv6": []
   }
 }

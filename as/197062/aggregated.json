@@ -3,7 +3,9 @@
   "handle": "ASRPHARM",
   "description": "JSC R-Pharm",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.210.20.0/23"
+    ],
     "ipv6": []
   }
 }

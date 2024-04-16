@@ -3,7 +3,12 @@
   "handle": "MIGUEL-AMADO-ESCOBAR",
   "description": "Miguel Amado Escobar",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.189.236.0/23",
+      "45.189.238.0/24"
+    ],
+    "ipv6": [
+      "2806:369::/35"
+    ]
   }
 }

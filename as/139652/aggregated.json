@@ -3,7 +3,9 @@
   "handle": "FUSIONNET-AP",
   "description": "Fusion Net Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.143.42.0/23"
+    ],
     "ipv6": []
   }
 }

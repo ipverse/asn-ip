@@ -3,7 +3,11 @@
   "handle": "FAB1-IN",
   "description": "FAB FIVE NETWORK PRIVATE LIMITED",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "43.228.166.0/23"
+    ],
+    "ipv6": [
+      "2001:df3:29c0::/48"
+    ]
   }
 }

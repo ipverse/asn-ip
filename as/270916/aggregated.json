@@ -3,7 +3,11 @@
   "handle": "REDFIBER-TELECOMUNICAES",
   "description": "Redfiber Telecomunicaes Ltda.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "177.200.140.0/22"
+    ],
+    "ipv6": [
+      "2804:7374::/32"
+    ]
   }
 }

@@ -3,7 +3,9 @@
   "handle": "TURNITIN",
   "description": "Turnitin LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.47.80.0/21"
+    ],
     "ipv6": []
   }
 }

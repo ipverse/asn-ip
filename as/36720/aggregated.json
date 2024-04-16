@@ -3,7 +3,9 @@
   "handle": "HEREINTOWN-NET",
   "description": "Two-Way Radio Service, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "66.242.112.0/20"
+    ],
     "ipv6": []
   }
 }

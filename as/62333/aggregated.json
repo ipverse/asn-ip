@@ -3,7 +3,9 @@
   "handle": "YULIA",
   "description": "OOO Yulia",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "62.76.144.0/24"
+    ],
     "ipv6": []
   }
 }

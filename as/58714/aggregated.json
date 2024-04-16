@@ -3,7 +3,9 @@
   "handle": "CVENT-INDIA",
   "description": "CVENT INDIA PVT. LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.21.18.0/23"
+    ],
     "ipv6": []
   }
 }

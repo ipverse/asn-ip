@@ -3,7 +3,9 @@
   "handle": "NCQA",
   "description": "National Committee for Quality Assurance",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.90.153.0/24"
+    ],
     "ipv6": []
   }
 }

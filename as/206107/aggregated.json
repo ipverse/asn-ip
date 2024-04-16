@@ -3,7 +3,9 @@
   "handle": "ASSMART",
   "description": "Smart Grupp Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.7.15.0/24"
+    ],
     "ipv6": []
   }
 }

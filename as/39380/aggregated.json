@@ -3,7 +3,9 @@
   "handle": "PEI",
   "description": "Paul-Ehrlich-Institut",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.209.250.0/24"
+    ],
     "ipv6": []
   }
 }

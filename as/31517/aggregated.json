@@ -3,7 +3,9 @@
   "handle": "SKODA",
   "description": "SkodaAuto Deutschland GmbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.110.192.0/22"
+    ],
     "ipv6": []
   }
 }

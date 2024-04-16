@@ -3,7 +3,9 @@
   "handle": "MSI7500",
   "description": "M S International, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.249.162.0/24"
+    ],
     "ipv6": []
   }
 }

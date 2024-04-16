@@ -3,7 +3,9 @@
   "handle": "TH",
   "description": "Turkmen hemrasi CJSC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.246.72.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "SPEEDYGROUPCLOUD-IX",
   "description": "Speedy Group Cloud Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.38.162.0/23"
+    ],
     "ipv6": []
   }
 }

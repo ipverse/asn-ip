@@ -3,7 +3,10 @@
   "handle": "GLMX",
   "description": "GLMX, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "64.90.171.0/24",
+      "204.26.58.0/23"
+    ],
     "ipv6": []
   }
 }

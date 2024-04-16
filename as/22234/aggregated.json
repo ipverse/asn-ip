@@ -3,7 +3,10 @@
   "handle": "RELATED-COMPANIES-BGP-AS1",
   "description": "The Related Companies, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "12.45.3.0/24",
+      "208.217.1.0/24"
+    ],
     "ipv6": []
   }
 }

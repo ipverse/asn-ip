@@ -3,7 +3,12 @@
   "handle": "FAXT-TELECOMUNICACOES",
   "description": "FAXT TELECOMUNICACOES LTDA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "170.83.100.0/22",
+      "177.124.72.0/21"
+    ],
+    "ipv6": [
+      "2804:383c::/32"
+    ]
   }
 }

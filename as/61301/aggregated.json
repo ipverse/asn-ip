@@ -3,7 +3,9 @@
   "handle": "BMF",
   "description": "Parahodstvo Balgarski Morski Flot AD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "89.252.201.0/24"
+    ],
     "ipv6": []
   }
 }

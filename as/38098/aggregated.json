@@ -3,7 +3,9 @@
   "handle": "NICEPAYMENTS03",
   "description": "NICEPAYMENTS.CO",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "203.228.206.0/24"
+    ],
     "ipv6": []
   }
 }

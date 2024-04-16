@@ -3,7 +3,9 @@
   "handle": "TVSI-VN",
   "description": "TVSI-VN",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "202.134.54.0/24"
+    ],
     "ipv6": []
   }
 }

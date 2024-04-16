@@ -3,7 +3,9 @@
   "handle": "HARVEAST",
   "description": "HarvEast Holding LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.237.4.0/24"
+    ],
     "ipv6": []
   }
 }

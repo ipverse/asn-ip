@@ -3,7 +3,9 @@
   "handle": "DLVSIA",
   "description": "DLV, sia",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.47.8.0/24"
+    ],
     "ipv6": []
   }
 }

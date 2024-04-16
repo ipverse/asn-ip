@@ -3,7 +3,9 @@
   "handle": "MTL-AP",
   "description": "Modern Terminals Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "203.83.127.0/24"
+    ],
     "ipv6": []
   }
 }

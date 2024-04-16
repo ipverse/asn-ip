@@ -3,7 +3,9 @@
   "handle": "ALKHAWALID",
   "description": "Al Khawalid International Co. LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.164.21.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,11 @@
   "handle": "INA",
   "description": "Schaeffler Technologies AG \u0026 Co. KG",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "159.51.0.0/16"
+    ],
+    "ipv6": [
+      "2a03:85c0::/29"
+    ]
   }
 }

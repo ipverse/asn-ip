@@ -3,7 +3,9 @@
   "handle": "PECHANGA-FIBER",
   "description": "Pechanga Band of Indians",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "205.159.9.0/24"
+    ],
     "ipv6": []
   }
 }

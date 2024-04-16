@@ -3,7 +3,9 @@
   "handle": "SNERPA-NET",
   "description": "Snerpa ehf",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.109.16.0/20"
+    ],
     "ipv6": []
   }
 }

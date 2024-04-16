@@ -3,7 +3,11 @@
   "handle": "HD-TELECOM-BRASIL",
   "description": "HD TELECOM BRASIL",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "186.219.236.0/22"
+    ],
+    "ipv6": [
+      "2804:6ea0::/32"
+    ]
   }
 }

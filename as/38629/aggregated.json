@@ -3,7 +3,11 @@
   "handle": "OKN",
   "description": "NTT-OKN-AS",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "202.245.31.0/24"
+    ],
+    "ipv6": [
+      "2001:df0:43::/48"
+    ]
   }
 }

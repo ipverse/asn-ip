@@ -3,7 +3,10 @@
   "handle": "LABONE",
   "description": "LabOne, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "198.70.194.0/24",
+      "209.242.240.0/22"
+    ],
     "ipv6": []
   }
 }

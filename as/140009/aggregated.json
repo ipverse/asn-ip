@@ -3,7 +3,9 @@
   "handle": "R1NET-ID",
   "description": "PT. Riau Satu Net",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.149.18.0/23"
+    ],
     "ipv6": []
   }
 }

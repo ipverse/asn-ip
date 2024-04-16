@@ -3,7 +3,11 @@
   "handle": "KU",
   "description": "OLOMOUCKY KRAJ",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "46.227.172.0/24"
+    ],
+    "ipv6": [
+      "2a02:7a00:2::/48"
+    ]
   }
 }

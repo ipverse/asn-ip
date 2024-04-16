@@ -3,7 +3,10 @@
   "handle": "VIRGINIA-COMMUNITY-COLLEGE-SYSTEM",
   "description": "Virginia Community College System",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "164.106.0.0/16",
+      "192.101.18.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,11 @@
   "handle": "GINZADO-NET",
   "description": "Ginzado Co.,Ltd.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "110.92.0.0/20"
+    ],
+    "ipv6": [
+      "2406:b800::/32"
+    ]
   }
 }

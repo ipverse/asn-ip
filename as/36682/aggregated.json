@@ -3,7 +3,9 @@
   "handle": "NEUROMETRIX-WALTHAM",
   "description": "NEUROMETRIX, INC.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.102.112.0/24"
+    ],
     "ipv6": []
   }
 }

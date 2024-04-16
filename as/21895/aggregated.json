@@ -3,7 +3,9 @@
   "handle": "NYLS",
   "description": "New York Law School",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "208.67.208.0/22"
+    ],
     "ipv6": []
   }
 }

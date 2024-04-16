@@ -3,7 +3,9 @@
   "handle": "MOI-TELECOMMUNICATIONS",
   "description": "Telecommunications Department",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.239.92.0/22"
+    ],
     "ipv6": []
   }
 }

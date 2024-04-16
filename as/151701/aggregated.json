@@ -3,7 +3,9 @@
   "handle": "BHAVESH23-IN",
   "description": "BHAVESH CABLE \u0026 INTERNET SERVICE PRIVATE LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "157.10.22.0/23"
+    ],
     "ipv6": []
   }
 }

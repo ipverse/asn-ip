@@ -3,7 +3,11 @@
   "handle": "J-J-C-TELECOMUNICACOES",
   "description": "J J C Telecomunicacoes Ltda",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "189.127.184.0/22"
+    ],
+    "ipv6": [
+      "2804:7058::/32"
+    ]
   }
 }

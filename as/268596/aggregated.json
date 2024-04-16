@@ -3,7 +3,12 @@
   "handle": "ITANETBAHIA-COMUNICAO-MULTIMIDIA",
   "description": "ITANETBAHIA COMUNICAO MULTIMIDIA EIRELE",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.164.41.0/24",
+      "45.164.42.0/23"
+    ],
+    "ipv6": [
+      "2804:53a0::/33"
+    ]
   }
 }

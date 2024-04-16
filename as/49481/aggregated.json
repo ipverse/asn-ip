@@ -3,7 +3,9 @@
   "handle": "ULTRACOM",
   "description": "Ultracom CJSC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.214.144.0/22"
+    ],
     "ipv6": []
   }
 }

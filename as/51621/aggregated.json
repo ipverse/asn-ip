@@ -3,7 +3,11 @@
   "handle": "INFOSELF",
   "description": "Infoself Sistemes SL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.71.31.0/24",
+      "185.216.49.0/24",
+      "185.217.130.0/24"
+    ],
     "ipv6": []
   }
 }

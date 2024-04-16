@@ -3,7 +3,9 @@
   "handle": "WEBFI",
   "description": "webfi srl",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.57.72.0/22"
+    ],
     "ipv6": []
   }
 }

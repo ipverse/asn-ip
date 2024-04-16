@@ -3,7 +3,9 @@
   "handle": "SULMINET-INFORMATICA",
   "description": "Sulminet Informatica Ltda - ME",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "131.72.12.0/22"
+    ],
     "ipv6": []
   }
 }

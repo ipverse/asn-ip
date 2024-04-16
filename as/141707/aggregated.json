@@ -3,7 +3,9 @@
   "handle": "BGCB-AP",
   "description": "Bengal Commercial Bank",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.162.110.0/23"
+    ],
     "ipv6": []
   }
 }

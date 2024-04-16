@@ -3,7 +3,9 @@
   "handle": "FIREMINDS-BERMUDA",
   "description": "Fire Minds Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.27.70.0/23"
+    ],
     "ipv6": []
   }
 }

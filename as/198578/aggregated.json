@@ -3,7 +3,9 @@
   "handle": "ASFLRU",
   "description": "Fiberlink LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "216.93.96.0/19"
+    ],
     "ipv6": []
   }
 }

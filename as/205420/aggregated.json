@@ -3,7 +3,9 @@
   "handle": "X-MY",
   "description": "Khanas Roman Ivanovych",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.53.89.0/24"
+    ],
     "ipv6": []
   }
 }

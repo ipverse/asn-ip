@@ -3,7 +3,10 @@
   "handle": "CALTECH",
   "description": "CalTech Software Systems Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "209.242.94.0/24",
+      "216.117.31.0/24"
+    ],
     "ipv6": []
   }
 }

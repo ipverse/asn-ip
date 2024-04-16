@@ -4,6 +4,9 @@
   "description": "Daniel Stocker",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a0e:97c0:740::/47",
+      "2a0e:97c0:742::/48"
+    ]
   }
 }

@@ -3,7 +3,9 @@
   "handle": "NOVA-NL",
   "description": "Conscia Nederland B.V.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.76.72.0/23"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "ONGNET",
   "description": "OngNet Plus LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "95.215.84.0/22"
+    ],
     "ipv6": []
   }
 }

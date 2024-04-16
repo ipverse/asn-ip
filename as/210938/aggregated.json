@@ -3,7 +3,9 @@
   "handle": "WHITBREAD",
   "description": "Whitbread Group PLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.211.77.0/24"
+    ],
     "ipv6": []
   }
 }

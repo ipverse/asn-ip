@@ -3,7 +3,9 @@
   "handle": "CHATANGO",
   "description": "Chatango LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "208.93.228.0/22"
+    ],
     "ipv6": []
   }
 }

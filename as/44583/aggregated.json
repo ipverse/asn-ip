@@ -3,7 +3,10 @@
   "handle": "ANDREXEN",
   "description": "AMPLEMENT SAS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "85.118.42.0/24",
+      "185.23.136.0/24"
+    ],
     "ipv6": []
   }
 }

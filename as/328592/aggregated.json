@@ -3,7 +3,9 @@
   "handle": "CENTRAL-BANK-KENYA",
   "description": "Central Bank of kenya",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "102.22.108.0/22"
+    ],
     "ipv6": []
   }
 }

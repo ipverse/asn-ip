@@ -3,7 +3,9 @@
   "handle": "TELTEL",
   "description": "Sprint-S Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "89.200.176.0/21"
+    ],
     "ipv6": []
   }
 }

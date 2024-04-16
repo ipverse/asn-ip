@@ -3,7 +3,9 @@
   "handle": "COOP",
   "description": "NETSTYLE A. LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "168.80.32.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,10 @@
   "handle": "MARKETFACTORY",
   "description": "Market Factory, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "74.123.156.0/23",
+      "74.123.159.0/24"
+    ],
     "ipv6": []
   }
 }

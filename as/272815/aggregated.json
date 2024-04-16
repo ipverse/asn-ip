@@ -3,7 +3,9 @@
   "handle": "COOPERATIVA-ELECTRICIDAD-RANCHOS",
   "description": "COOPERATIVA DE ELECTRICIDAD DE RANCHOS LIMITADA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "168.205.196.0/22"
+    ],
     "ipv6": []
   }
 }

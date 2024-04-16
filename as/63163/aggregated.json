@@ -3,7 +3,9 @@
   "handle": "ESAMGMTLLC-BLOCK1",
   "description": "ESA Management, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "216.85.175.0/24"
+    ],
     "ipv6": []
   }
 }

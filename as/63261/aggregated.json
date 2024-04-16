@@ -3,7 +3,9 @@
   "handle": "GHCO-DCA",
   "description": "Graham Holdings Company",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.100.48.0/24"
+    ],
     "ipv6": []
   }
 }

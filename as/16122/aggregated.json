@@ -3,7 +3,10 @@
   "handle": "IT-PRADAINDUSTRIAL",
   "description": "Prada S.p.A.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.165.36.0/24",
+      "195.47.251.0/24"
+    ],
     "ipv6": []
   }
 }

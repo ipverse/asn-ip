@@ -3,7 +3,9 @@
   "handle": "LN-CHILDRENSHOSPITAL",
   "description": "Los Nettos",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "206.117.192.0/22"
+    ],
     "ipv6": []
   }
 }

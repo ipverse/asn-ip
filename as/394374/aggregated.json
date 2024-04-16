@@ -3,7 +3,9 @@
   "handle": "FCS-INTL",
   "description": "First Carbon Solutions",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.200.9.0/24"
+    ],
     "ipv6": []
   }
 }

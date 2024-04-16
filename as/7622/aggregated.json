@@ -3,7 +3,9 @@
   "handle": "KAIST-SAL",
   "description": "Korea Advanced Institute of Science and Technology",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "110.76.64.0/18"
+    ],
     "ipv6": []
   }
 }

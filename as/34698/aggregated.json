@@ -3,7 +3,9 @@
   "handle": "MOLCOM",
   "description": "JSC Logistics company MOLCOM",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.67.41.0/24"
+    ],
     "ipv6": []
   }
 }

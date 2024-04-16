@@ -3,7 +3,9 @@
   "handle": "SOFT-PARTNER",
   "description": "SOFT PARTNER SZCZYPIORSKI SPOLKA JAWNA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "155.133.48.0/21"
+    ],
     "ipv6": []
   }
 }

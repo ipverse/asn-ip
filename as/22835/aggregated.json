@@ -3,7 +3,9 @@
   "handle": "BDLAWBGP",
   "description": "Beveridge \u0026 Diamond, P.C.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "205.201.250.0/24"
+    ],
     "ipv6": []
   }
 }

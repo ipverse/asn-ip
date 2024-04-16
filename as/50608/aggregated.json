@@ -3,7 +3,9 @@
   "handle": "HITECH",
   "description": "STIS Engineering LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "83.220.167.0/24"
+    ],
     "ipv6": []
   }
 }

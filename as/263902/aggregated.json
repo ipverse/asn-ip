@@ -3,7 +3,9 @@
   "handle": "JOS-RILDO-SILVA",
   "description": "Jos Rildo Da Silva \u0026 Cia Ltda",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "138.204.52.0/22"
+    ],
     "ipv6": []
   }
 }

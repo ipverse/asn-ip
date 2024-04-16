@@ -3,7 +3,9 @@
   "handle": "NGTA-AP",
   "description": "NSW Government Telecommunications Authority",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.56.31.0/24"
+    ],
     "ipv6": []
   }
 }

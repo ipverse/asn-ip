@@ -3,7 +3,9 @@
   "handle": "TMC",
   "description": "Texas Medical Center",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "208.110.193.0/24"
+    ],
     "ipv6": []
   }
 }

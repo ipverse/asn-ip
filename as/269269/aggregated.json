@@ -3,7 +3,11 @@
   "handle": "V1-INFORMTICA",
   "description": "V1 Informtica",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.183.8.0/22"
+    ],
+    "ipv6": [
+      "2804:61fc::/32"
+    ]
   }
 }

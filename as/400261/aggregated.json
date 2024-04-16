@@ -3,7 +3,9 @@
   "handle": "WANTECH-01",
   "description": "Waneanta Tech Solutions Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "64.94.86.0/24"
+    ],
     "ipv6": []
   }
 }

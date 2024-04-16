@@ -3,7 +3,10 @@
   "handle": "COMPUTERSHARE-AP",
   "description": "Computershare Technology Services Pty Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "202.70.142.0/24",
+      "202.135.122.0/23"
+    ],
     "ipv6": []
   }
 }

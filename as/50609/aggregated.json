@@ -3,7 +3,11 @@
   "handle": "MERCURIA",
   "description": "MERCURIA ENERGY TRADING SA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "193.105.136.0/24"
+    ],
+    "ipv6": [
+      "2001:67c:1044::/48"
+    ]
   }
 }

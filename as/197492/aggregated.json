@@ -3,7 +3,12 @@
   "handle": "INEONET",
   "description": "ALSATIS SERVICES SAS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "31.169.40.0/21",
+      "91.220.248.0/24",
+      "185.49.20.0/22",
+      "185.217.152.0/22"
+    ],
     "ipv6": []
   }
 }

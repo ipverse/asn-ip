@@ -3,7 +3,9 @@
   "handle": "ZA-GAS-CC",
   "description": "ZA Gas CC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "102.222.184.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "KAPPATECH",
   "description": "UMKA d.o.o",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.53.106.0/24"
+    ],
     "ipv6": []
   }
 }

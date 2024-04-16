@@ -3,7 +3,10 @@
   "handle": "DECIBEL-IN",
   "description": "Decibel Networks Private Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.91.72.0/24",
+      "103.91.74.0/23"
+    ],
     "ipv6": []
   }
 }

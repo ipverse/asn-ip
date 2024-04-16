@@ -3,7 +3,9 @@
   "handle": "USJ",
   "description": "Saint-Joseph University of Beirut",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.185.176.0/22"
+    ],
     "ipv6": []
   }
 }

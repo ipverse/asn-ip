@@ -3,7 +3,9 @@
   "handle": "LYCOMING-COLLEGE",
   "description": "Lycoming College",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.91.148.0/24"
+    ],
     "ipv6": []
   }
 }

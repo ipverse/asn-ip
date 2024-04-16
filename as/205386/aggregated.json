@@ -3,7 +3,10 @@
   "handle": "ZARAGOZANA",
   "description": "Zaragozana de Informatica y Telecomunicaciones, S.L.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.220.8.0/24",
+      "185.220.10.0/24"
+    ],
     "ipv6": []
   }
 }

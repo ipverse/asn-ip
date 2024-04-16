@@ -3,7 +3,11 @@
   "handle": "TEAMINTERNET",
   "description": "Team Internet AG",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "185.53.176.0/22"
+    ],
+    "ipv6": [
+      "2a01:bb20::/32"
+    ]
   }
 }

@@ -3,7 +3,9 @@
   "handle": "WOOMER-REIS-LACERDA",
   "description": "WOOMER REIS DE LACERDA -ME",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "143.137.208.0/22"
+    ],
     "ipv6": []
   }
 }

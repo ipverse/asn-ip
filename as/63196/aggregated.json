@@ -3,7 +3,9 @@
   "handle": "APEX01",
   "description": "APEX INDUSTRIAL TECHNOLOGIES LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "104.193.206.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,11 @@
   "handle": "LINKUP-TELECOMUNICAES",
   "description": "Linkup Telecomunicaes",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "181.191.32.0/22"
+    ],
+    "ipv6": [
+      "2804:40dc::/32"
+    ]
   }
 }

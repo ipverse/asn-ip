@@ -3,7 +3,9 @@
   "handle": "PATELCOCU",
   "description": "Patelco Credit Union",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "204.251.230.0/24"
+    ],
     "ipv6": []
   }
 }

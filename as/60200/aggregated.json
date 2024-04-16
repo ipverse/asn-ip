@@ -3,7 +3,10 @@
   "handle": "VCC-UK",
   "description": "Victor Connect Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.34.172.0/23",
+      "185.34.174.0/24"
+    ],
     "ipv6": []
   }
 }

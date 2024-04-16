@@ -3,7 +3,11 @@
   "handle": "GIGAPEAK",
   "description": "Caudata Ltd",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "185.95.67.0/24"
+    ],
+    "ipv6": [
+      "2a0d:68c0::/29"
+    ]
   }
 }

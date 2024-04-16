@@ -3,7 +3,12 @@
   "handle": "PROVEDOR-ACESSO-INTERNET",
   "description": "Provedor de Acesso  Internet Eireli",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "143.208.136.0/22",
+      "200.196.136.0/22"
+    ],
+    "ipv6": [
+      "2804:192c:2000::/36"
+    ]
   }
 }

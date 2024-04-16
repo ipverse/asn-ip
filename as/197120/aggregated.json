@@ -3,7 +3,9 @@
   "handle": "LANINTERCOM",
   "description": "LanInterCom LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.160.228.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "WPP-DETROIT",
   "description": "Group M Worldwide, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "209.90.42.0/24"
+    ],
     "ipv6": []
   }
 }

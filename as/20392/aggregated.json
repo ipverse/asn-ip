@@ -3,7 +3,9 @@
   "handle": "WESTPANET",
   "description": "WestPAnet, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "65.110.96.0/19"
+    ],
     "ipv6": []
   }
 }

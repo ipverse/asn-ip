@@ -3,7 +3,9 @@
   "handle": "ALLYTECH",
   "description": "Allytech S.A.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.227.160.0/22"
+    ],
     "ipv6": []
   }
 }

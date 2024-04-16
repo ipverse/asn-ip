@@ -3,7 +3,9 @@
   "handle": "PHI-TELECOM-LTDAME",
   "description": "PHI TELECOM LTDA.ME",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.188.8.0/22"
+    ],
     "ipv6": []
   }
 }

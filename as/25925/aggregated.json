@@ -3,7 +3,9 @@
   "handle": "CITYOFLETH",
   "description": "City of Lethbridge",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "198.161.86.0/24"
+    ],
     "ipv6": []
   }
 }

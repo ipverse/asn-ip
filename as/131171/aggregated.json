@@ -4,6 +4,10 @@
   "description": "Everlife Networks",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2404:f4c0:fd00::/48",
+      "2404:f4c0:fd02::/48",
+      "2404:f4c0:fd08::/48"
+    ]
   }
 }

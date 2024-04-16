@@ -3,7 +3,9 @@
   "handle": "FANTEL-AP",
   "description": "Fantel Pty Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "203.22.100.0/22"
+    ],
     "ipv6": []
   }
 }

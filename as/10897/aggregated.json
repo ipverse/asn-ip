@@ -3,7 +3,9 @@
   "handle": "CAMARA-DEPUTADOS",
   "description": "Camara dos Deputados",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "200.219.132.0/22"
+    ],
     "ipv6": []
   }
 }

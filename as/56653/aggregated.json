@@ -3,7 +3,9 @@
   "handle": "TV-COM-AG",
   "description": "TV-COM AG",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "31.10.16.0/20"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "SILBERAUTO",
   "description": "Veho Baltics OU",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.138.8.0/24"
+    ],
     "ipv6": []
   }
 }

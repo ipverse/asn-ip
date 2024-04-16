@@ -3,7 +3,9 @@
   "handle": "VOLUME",
   "description": "Wirehive Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "95.131.80.0/24"
+    ],
     "ipv6": []
   }
 }

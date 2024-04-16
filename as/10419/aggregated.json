@@ -3,7 +3,11 @@
   "handle": "GBUS",
   "description": "Globius Systems, LLC",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "142.202.137.0/24"
+    ],
+    "ipv6": [
+      "2602:803:1000::/44"
+    ]
   }
 }

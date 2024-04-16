@@ -3,7 +3,11 @@
   "handle": "IDNIC-AMDNET-ID",
   "description": "PT Alam Media Data",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "103.180.126.0/23"
+    ],
+    "ipv6": [
+      "2001:df3:8440::/48"
+    ]
   }
 }

@@ -3,7 +3,9 @@
   "handle": "CENTIRO",
   "description": "Centiro Solutions AB",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.228.157.0/24"
+    ],
     "ipv6": []
   }
 }

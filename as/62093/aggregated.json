@@ -3,7 +3,12 @@
   "handle": "CICORELLA",
   "description": "Cicorella srl",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "151.248.15.0/24",
+      "185.110.20.0/22"
+    ],
+    "ipv6": [
+      "2a02:c540::/29"
+    ]
   }
 }

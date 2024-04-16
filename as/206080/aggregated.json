@@ -3,7 +3,11 @@
   "handle": "INOVEX",
   "description": "inovex GmbH",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "185.113.124.0/23"
+    ],
+    "ipv6": [
+      "2a0a:9900::/29"
+    ]
   }
 }

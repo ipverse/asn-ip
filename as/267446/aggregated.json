@@ -3,7 +3,11 @@
   "handle": "NEWERTECH-SOL-TEC",
   "description": "Newertech Sol. Tec. e Prod. de Informtica LTDA ME",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "181.191.236.0/22"
+    ],
+    "ipv6": [
+      "2804:41a0::/32"
+    ]
   }
 }

@@ -3,7 +3,9 @@
   "handle": "PSOE-CEF",
   "description": "Partido Socialista Obrero Espanol (PSOE)",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.154.24.0/22"
+    ],
     "ipv6": []
   }
 }

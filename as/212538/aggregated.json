@@ -3,7 +3,11 @@
   "handle": "POYRAZNET",
   "description": "Poyrazwifi Limited Company",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.34.130.0/24",
+      "185.180.28.0/24",
+      "185.180.31.0/24"
+    ],
     "ipv6": []
   }
 }

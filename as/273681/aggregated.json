@@ -3,7 +3,11 @@
   "handle": "FLASH-NET-TELECOM",
   "description": "FLASH NET TELECOM RIO PRETO LTDA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "201.159.116.0/22"
+    ],
+    "ipv6": [
+      "2804:8aa0::/32"
+    ]
   }
 }

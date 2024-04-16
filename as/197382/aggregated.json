@@ -3,7 +3,9 @@
   "handle": "BAL-TV",
   "description": "BAL-TV LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "138.124.182.0/24"
+    ],
     "ipv6": []
   }
 }

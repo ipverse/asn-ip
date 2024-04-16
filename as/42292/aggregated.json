@@ -3,7 +3,9 @@
   "handle": "CREDITWESTBANK",
   "description": "JSC CREDITWEST BANK",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.0.187.0/24"
+    ],
     "ipv6": []
   }
 }

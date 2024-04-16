@@ -3,7 +3,9 @@
   "handle": "CITYOFVANCOUVER-US",
   "description": "City Of Vancouver",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "67.51.183.0/24"
+    ],
     "ipv6": []
   }
 }

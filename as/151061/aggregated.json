@@ -3,7 +3,12 @@
   "handle": "WPSDL-AP",
   "description": "Winning Partner Software Development Limited",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "38.47.60.0/24",
+      "103.126.40.0/23"
+    ],
+    "ipv6": [
+      "2001:df2:37c0::/48"
+    ]
   }
 }

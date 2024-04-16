@@ -3,7 +3,9 @@
   "handle": "JOINT",
   "description": "Gwint Israel",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.214.100.0/22"
+    ],
     "ipv6": []
   }
 }

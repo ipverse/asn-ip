@@ -3,7 +3,9 @@
   "handle": "RUPTELA",
   "description": "UAB Ruptela",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "92.62.134.0/24"
+    ],
     "ipv6": []
   }
 }

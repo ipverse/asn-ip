@@ -3,7 +3,12 @@
   "handle": "AXTELECOM",
   "description": "Axtelecom Ltda",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "187.73.160.0/20",
+      "201.77.128.0/20"
+    ],
+    "ipv6": [
+      "2804:95c::/32"
+    ]
   }
 }

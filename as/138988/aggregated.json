@@ -3,7 +3,9 @@
   "handle": "AVCOMM-AP",
   "description": "Av-Comm Pty Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.138.34.0/24"
+    ],
     "ipv6": []
   }
 }

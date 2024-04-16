@@ -3,7 +3,9 @@
   "handle": "RIIGIKONTROLL",
   "description": "National Audit Office of Estonia",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.28.254.0/24"
+    ],
     "ipv6": []
   }
 }

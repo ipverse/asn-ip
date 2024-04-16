@@ -3,7 +3,10 @@
   "handle": "REGIONINFOCOM",
   "description": "RegionInfocom Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.160.36.0/24",
+      "185.160.38.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "VILLANOVA-UNIV",
   "description": "Villanova University",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "153.104.0.0/16"
+    ],
     "ipv6": []
   }
 }

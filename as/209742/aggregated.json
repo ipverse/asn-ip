@@ -3,7 +3,9 @@
   "handle": "ATHLETICS-UA",
   "description": "ATHLETICS LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.151.166.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,12 @@
   "handle": "NAIT",
   "description": "Northern Alberta Institute of Technology",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "192.197.128.0/24",
+      "199.185.32.0/19"
+    ],
+    "ipv6": [
+      "2620:fc::/48"
+    ]
   }
 }

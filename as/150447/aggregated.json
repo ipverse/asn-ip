@@ -3,7 +3,10 @@
   "handle": "WOOFYINCORPORATED-AP",
   "description": "Woofy Incorporated",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "61.245.120.0/24",
+      "103.17.148.0/23"
+    ],
     "ipv6": []
   }
 }

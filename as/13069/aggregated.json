@@ -3,7 +3,9 @@
   "handle": "DATAGUARD",
   "description": "GLOBALCONNECT AS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.239.25.0/24"
+    ],
     "ipv6": []
   }
 }

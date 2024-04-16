@@ -3,7 +3,9 @@
   "handle": "JAL",
   "description": "Japan Airlines Co.,Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "163.211.0.0/16"
+    ],
     "ipv6": []
   }
 }

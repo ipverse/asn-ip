@@ -3,7 +3,10 @@
   "handle": "CAPLASER",
   "description": "CAPLASER SA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.245.143.0/24",
+      "213.190.70.0/24"
+    ],
     "ipv6": []
   }
 }

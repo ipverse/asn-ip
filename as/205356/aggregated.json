@@ -3,7 +3,10 @@
   "handle": "SAP-DC-FRA",
   "description": "SAP SE",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "157.133.64.0/21",
+      "157.133.200.0/21"
+    ],
     "ipv6": []
   }
 }

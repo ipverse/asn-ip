@@ -3,7 +3,10 @@
   "handle": "AURIS1",
   "description": "Auris, LLC.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "66.172.128.0/19",
+      "204.9.236.0/22"
+    ],
     "ipv6": []
   }
 }

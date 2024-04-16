@@ -3,7 +3,9 @@
   "handle": "CAJA-COMPENSACIN-ASIGNACIN",
   "description": "CAJA DE COMPENSACIN DE ASIGNACIN FAMILIAR LOS HROES",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.161.44.0/22"
+    ],
     "ipv6": []
   }
 }

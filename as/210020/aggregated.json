@@ -3,7 +3,10 @@
   "handle": "MODEXI",
   "description": "MODEXI VERI HIZMETLERI LIMITED SIRKETI",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "188.124.3.0/24",
+      "188.124.5.0/24"
+    ],
     "ipv6": []
   }
 }

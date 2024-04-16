@@ -3,7 +3,10 @@
   "handle": "OAKTREECAP-COM",
   "description": "Oaktree Capital Management, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "8.7.30.0/24",
+      "208.144.235.0/24"
+    ],
     "ipv6": []
   }
 }

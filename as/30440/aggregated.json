@@ -3,7 +3,9 @@
   "handle": "XAPIENS",
   "description": "Xapiens Corporation",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "24.139.169.0/24"
+    ],
     "ipv6": []
   }
 }

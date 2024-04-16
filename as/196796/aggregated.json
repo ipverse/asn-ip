@@ -3,7 +3,9 @@
   "handle": "GEPB",
   "description": "JSC AB ROSSIYA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "82.138.40.0/24"
+    ],
     "ipv6": []
   }
 }

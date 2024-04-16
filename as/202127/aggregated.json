@@ -3,7 +3,9 @@
   "handle": "SPLAV",
   "description": "Company LLC Splav",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.6.220.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "VISTAAR-SYSTEMS-IN",
   "description": "Vistaar Systems Pvt. Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "202.94.67.0/24"
+    ],
     "ipv6": []
   }
 }

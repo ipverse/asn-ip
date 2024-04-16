@@ -3,7 +3,11 @@
   "handle": "LG-CONSULTORIA-EM",
   "description": "LG Consultoria em Administrao em Tecnologia Ltda",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "131.221.76.0/22"
+    ],
+    "ipv6": [
+      "2804:7410::/32"
+    ]
   }
 }

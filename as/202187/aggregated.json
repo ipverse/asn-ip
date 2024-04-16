@@ -3,7 +3,9 @@
   "handle": "PHOTWB",
   "description": "Photoweb SAS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "89.30.108.0/24"
+    ],
     "ipv6": []
   }
 }

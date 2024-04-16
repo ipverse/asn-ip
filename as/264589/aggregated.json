@@ -3,7 +3,12 @@
   "handle": "AGRESTE-LINK",
   "description": "AGRESTE LINK",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "138.36.240.0/22",
+      "143.202.228.0/22"
+    ],
+    "ipv6": [
+      "2804:2210::/32"
+    ]
   }
 }

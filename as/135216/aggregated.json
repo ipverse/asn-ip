@@ -3,7 +3,9 @@
   "handle": "AIRWAY-IN",
   "description": "Airway Communication Services India Pvt Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.75.156.0/22"
+    ],
     "ipv6": []
   }
 }

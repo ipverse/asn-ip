@@ -3,7 +3,9 @@
   "handle": "FADATABG",
   "description": "FADATA EOOD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.161.192.0/24"
+    ],
     "ipv6": []
   }
 }

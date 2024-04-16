@@ -3,7 +3,9 @@
   "handle": "HEC-NETWORK",
   "description": "Harrisonburg Electric Commission",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "50.205.160.0/24"
+    ],
     "ipv6": []
   }
 }

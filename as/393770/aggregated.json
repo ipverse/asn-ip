@@ -3,7 +3,10 @@
   "handle": "BICOM-US",
   "description": "Bicom Systems",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "161.129.56.0/23",
+      "192.151.130.0/23"
+    ],
     "ipv6": []
   }
 }

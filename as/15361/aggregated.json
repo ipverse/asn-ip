@@ -3,7 +3,9 @@
   "handle": "UBP",
   "description": "UNION BANCAIRE PRIVEE, UBP SA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.246.96.0/23"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,13 @@
   "handle": "STROM",
   "description": "Strom Holdings LLC",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "23.145.192.0/24",
+      "199.115.201.0/24",
+      "199.115.202.0/23"
+    ],
+    "ipv6": [
+      "2602:feb3::/47"
+    ]
   }
 }

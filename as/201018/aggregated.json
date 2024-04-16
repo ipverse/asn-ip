@@ -3,7 +3,9 @@
   "handle": "ERKAFARM",
   "description": "CJSC ERKAFARM",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "89.107.140.0/24"
+    ],
     "ipv6": []
   }
 }

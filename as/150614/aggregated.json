@@ -3,7 +3,9 @@
   "handle": "MALVANDIG-IN",
   "description": "Malvandigital Telecom Private Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.42.166.0/23"
+    ],
     "ipv6": []
   }
 }

@@ -4,6 +4,8 @@
   "description": "Kiall Mac Innes",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a0b:b87:ffea::/48"
+    ]
   }
 }

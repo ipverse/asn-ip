@@ -3,7 +3,9 @@
   "handle": "BRED-BANQUE-POPULAIRE",
   "description": "Bred Banque Populaire",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.220.246.0/24"
+    ],
     "ipv6": []
   }
 }

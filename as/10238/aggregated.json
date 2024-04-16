@@ -3,7 +3,9 @@
   "handle": "CCI-HK-AP",
   "description": "CyberChannel International Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "203.132.192.0/20"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,10 @@
   "handle": "STATERI",
   "description": "State of Rhode Island",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "158.123.0.0/17",
+      "204.139.0.0/21"
+    ],
     "ipv6": []
   }
 }

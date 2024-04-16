@@ -3,7 +3,11 @@
   "handle": "SKANSKA-USA-WEST",
   "description": "SKANSKA USA INC",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "144.57.48.0/21"
+    ],
+    "ipv6": [
+      "2602:800:c800::/38"
+    ]
   }
 }

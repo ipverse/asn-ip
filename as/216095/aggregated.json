@@ -3,7 +3,10 @@
   "handle": "KARTACA",
   "description": "Kartaca Bilisim A.S.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.213.1.0/24",
+      "195.226.196.0/24"
+    ],
     "ipv6": []
   }
 }

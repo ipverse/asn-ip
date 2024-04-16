@@ -3,7 +3,9 @@
   "handle": "ATIMETALS",
   "description": "Allegheny Technologies Incorporated",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.92.159.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "IPLOGIN-01",
   "description": "UnitedCloud",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "167.94.41.0/24"
+    ],
     "ipv6": []
   }
 }

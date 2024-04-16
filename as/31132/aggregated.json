@@ -3,7 +3,9 @@
   "handle": "RESOMATIQUE",
   "description": "ADISTA SAS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "178.249.164.0/24"
+    ],
     "ipv6": []
   }
 }

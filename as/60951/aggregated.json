@@ -3,7 +3,9 @@
   "handle": "SMS-AT",
   "description": "LINK Mobility Austria GmbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.182.6.0/24"
+    ],
     "ipv6": []
   }
 }

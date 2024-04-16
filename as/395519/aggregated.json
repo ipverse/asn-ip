@@ -3,7 +3,10 @@
   "handle": "CTCHILDRENS",
   "description": "Connecticut Children\u0027s Medical Center",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "204.130.13.0/24",
+      "204.130.14.0/23"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "NUTRIEN-LATAM",
   "description": "Nutrien",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "66.103.155.0/24"
+    ],
     "ipv6": []
   }
 }

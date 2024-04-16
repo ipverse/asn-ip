@@ -3,7 +3,9 @@
   "handle": "VITALATIV-CZ",
   "description": "VITALATIV, s.r.o.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "109.232.144.0/21"
+    ],
     "ipv6": []
   }
 }

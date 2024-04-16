@@ -3,7 +3,9 @@
   "handle": "FV-TECNOLOGIA-INFORMAO",
   "description": "FV TECNOLOGIA DA INFORMAO LTDA ME",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "131.161.120.0/22"
+    ],
     "ipv6": []
   }
 }

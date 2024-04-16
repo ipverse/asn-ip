@@ -3,7 +3,9 @@
   "handle": "NBK",
   "description": "National Bank of Kenya",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "196.32.226.0/23"
+    ],
     "ipv6": []
   }
 }

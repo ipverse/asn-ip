@@ -3,7 +3,9 @@
   "handle": "M2GOTRADELIMITED-HK",
   "description": "2GoTrade Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.193.68.0/22"
+    ],
     "ipv6": []
   }
 }

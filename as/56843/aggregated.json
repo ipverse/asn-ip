@@ -3,7 +3,9 @@
   "handle": "CNT-ISP",
   "description": "Centar Novih Tehnologija DOO",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "94.154.104.0/21"
+    ],
     "ipv6": []
   }
 }

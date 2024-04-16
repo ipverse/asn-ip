@@ -3,7 +3,9 @@
   "handle": "MONRO-1",
   "description": "Monroe County",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "173.84.13.0/24"
+    ],
     "ipv6": []
   }
 }

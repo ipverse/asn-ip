@@ -3,7 +3,9 @@
   "handle": "CONCORD-CARLISLE-MA",
   "description": "Concord-Carlisle Regional School District",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.184.125.0/24"
+    ],
     "ipv6": []
   }
 }

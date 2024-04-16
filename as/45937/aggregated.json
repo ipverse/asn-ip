@@ -3,7 +3,9 @@
   "handle": "BAC-AP",
   "description": "Brisbane Airport Corporation",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "202.4.175.0/24"
+    ],
     "ipv6": []
   }
 }

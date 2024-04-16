@@ -3,7 +3,10 @@
   "handle": "FIBRIX",
   "description": "Exsotel S.L.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "178.219.155.0/24",
+      "185.224.28.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,11 @@
   "handle": "NEWMEDIAEXPRESSCHINA-AP",
   "description": "NewMedia Express Pte Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.147.6.0/24",
+      "103.14.78.0/24",
+      "194.15.39.0/24"
+    ],
     "ipv6": []
   }
 }

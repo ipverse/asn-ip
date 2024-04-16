@@ -3,7 +3,11 @@
   "handle": "SNB",
   "description": "Stromnetz Berlin GmbH",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "193.42.22.0/24"
+    ],
+    "ipv6": [
+      "2a09:3c0::/29"
+    ]
   }
 }

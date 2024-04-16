@@ -3,7 +3,9 @@
   "handle": "MAXNETT",
   "description": "Maxnett Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.28.8.0/22"
+    ],
     "ipv6": []
   }
 }

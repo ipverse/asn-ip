@@ -3,7 +3,9 @@
   "handle": "CORPORACION-NACIONAL-RADIODETERMINACION",
   "description": "Corporacion Nacional de Radiodeterminacion S.A. de C.V.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "207.248.254.0/24"
+    ],
     "ipv6": []
   }
 }

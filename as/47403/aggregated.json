@@ -3,7 +3,9 @@
   "handle": "PROLAN",
   "description": "I-Link LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "171.25.168.0/22"
+    ],
     "ipv6": []
   }
 }

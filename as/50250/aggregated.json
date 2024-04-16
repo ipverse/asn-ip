@@ -3,7 +3,9 @@
   "handle": "ASAEB",
   "description": "ARMECONOMBANK OJSC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.159.72.0/24"
+    ],
     "ipv6": []
   }
 }

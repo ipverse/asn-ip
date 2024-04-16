@@ -3,7 +3,9 @@
   "handle": "USSFCU",
   "description": "United States Senate Federal Credit Union",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.94.110.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,11 @@
   "handle": "CAMBRIDGE-FIBRE-NETWORKS",
   "description": "Cambridge Fibre Networks Ltd.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "185.219.108.0/22"
+    ],
+    "ipv6": [
+      "2a0b:e540::/29"
+    ]
   }
 }

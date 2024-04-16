@@ -3,7 +3,10 @@
   "handle": "FD-BRASIL-SOLUES",
   "description": "FD DO BRASIL SOLUES DE PAGAMENTOS LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "186.251.190.0/23",
+      "187.103.184.0/23"
+    ],
     "ipv6": []
   }
 }

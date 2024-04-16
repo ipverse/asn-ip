@@ -3,7 +3,12 @@
   "handle": "RAHATTELECOM",
   "description": "Rahat Telecom LLC",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "46.32.172.0/24",
+      "195.216.230.0/24"
+    ],
+    "ipv6": [
+      "2a02:e3c0::/29"
+    ]
   }
 }

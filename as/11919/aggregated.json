@@ -3,7 +3,9 @@
   "handle": "LORAL-SKYNET-AR",
   "description": "Telesat Network Services Inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "202.161.128.0/19"
+    ],
     "ipv6": []
   }
 }

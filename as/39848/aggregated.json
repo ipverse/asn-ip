@@ -3,7 +3,9 @@
   "handle": "CITYLAN",
   "description": "CityLan LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "84.234.108.0/22"
+    ],
     "ipv6": []
   }
 }

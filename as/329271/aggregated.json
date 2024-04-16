@@ -3,7 +3,9 @@
   "handle": "IEL2",
   "description": "Intramech Enterprises (Private) Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "102.212.220.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "PGH",
   "description": "City of Pittsburgh",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "205.141.128.0/18"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "BPAY",
   "description": "Bpay SRL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.212.10.0/24"
+    ],
     "ipv6": []
   }
 }

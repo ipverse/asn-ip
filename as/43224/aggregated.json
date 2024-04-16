@@ -3,7 +3,9 @@
   "handle": "KYNDRYL",
   "description": "Kyndryl Romania SRL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.107.112.0/24"
+    ],
     "ipv6": []
   }
 }

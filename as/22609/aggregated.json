@@ -3,7 +3,9 @@
   "handle": "ITAPE",
   "description": "Intertape Polymer Corp",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.181.148.0/24"
+    ],
     "ipv6": []
   }
 }

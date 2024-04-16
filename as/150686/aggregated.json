@@ -3,7 +3,10 @@
   "handle": "AWN-RAILWAY-AP",
   "description": "State Railway of Thailand",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "83.118.91.0/24",
+      "147.50.196.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "IML",
   "description": "Illinois Mutual Life Insurance Company",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "173.249.69.0/24"
+    ],
     "ipv6": []
   }
 }

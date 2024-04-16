@@ -3,7 +3,9 @@
   "handle": "UPI-ID",
   "description": "Universitas Pendidikan Indonesia",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.23.244.0/24"
+    ],
     "ipv6": []
   }
 }

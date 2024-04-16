@@ -3,7 +3,11 @@
   "handle": "CONNECT-FAST-SOLUES",
   "description": "Connect Fast Solues em Conectividade Ltda",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.231.16.0/22"
+    ],
+    "ipv6": [
+      "2804:4994::/36"
+    ]
   }
 }

@@ -3,7 +3,9 @@
   "handle": "LRU-AP",
   "description": "LOEI university network ,LOEI, Thailand",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "202.29.6.0/24"
+    ],
     "ipv6": []
   }
 }

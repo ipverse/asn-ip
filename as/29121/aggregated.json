@@ -3,7 +3,9 @@
   "handle": "CANKARJEVDOM",
   "description": "Cankarjev dom, kulturni in kongresni center",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.69.96.0/22"
+    ],
     "ipv6": []
   }
 }

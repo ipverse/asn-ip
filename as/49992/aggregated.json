@@ -4,6 +4,8 @@
   "description": "BFI Networks B.V.",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a12:e5c0:1cff::/48"
+    ]
   }
 }

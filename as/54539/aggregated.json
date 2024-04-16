@@ -3,7 +3,9 @@
   "handle": "CISD",
   "description": "Calhoun ISD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.182.64.0/21"
+    ],
     "ipv6": []
   }
 }

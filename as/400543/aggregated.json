@@ -3,7 +3,9 @@
   "handle": "NHC-BGP",
   "description": "NEWTON HEALTHCARE CORPORATION",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "12.158.148.0/24"
+    ],
     "ipv6": []
   }
 }

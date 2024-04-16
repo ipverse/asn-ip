@@ -3,7 +3,9 @@
   "handle": "LFTY",
   "description": "linefinity networks GmbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.40.244.0/22"
+    ],
     "ipv6": []
   }
 }

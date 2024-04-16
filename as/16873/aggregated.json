@@ -3,7 +3,10 @@
   "handle": "HARTS",
   "description": "HART SYSTEMS INC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "12.29.42.0/24",
+      "12.38.173.0/24"
+    ],
     "ipv6": []
   }
 }

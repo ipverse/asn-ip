@@ -3,7 +3,10 @@
   "handle": "COMPUTERTALK-TORONTO",
   "description": "Computer Talk",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "204.16.47.0/24",
+      "204.89.57.0/24"
+    ],
     "ipv6": []
   }
 }

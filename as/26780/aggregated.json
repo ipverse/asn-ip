@@ -3,7 +3,9 @@
   "handle": "KMOB",
   "description": "Knobbe, Martens, Olson \u0026 Bear, LLP.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "173.227.19.0/24"
+    ],
     "ipv6": []
   }
 }

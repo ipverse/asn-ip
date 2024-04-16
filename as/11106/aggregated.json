@@ -3,7 +3,10 @@
   "handle": "WOLFRAM",
   "description": "Wolfram Research, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "140.177.0.0/20",
+      "140.177.32.0/19"
+    ],
     "ipv6": []
   }
 }

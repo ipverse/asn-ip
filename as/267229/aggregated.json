@@ -3,7 +3,11 @@
   "handle": "DG-TELECOM-SERVIOS",
   "description": "DG Telecom Servios de Telecomunicaes LTDA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.231.244.0/22"
+    ],
+    "ipv6": [
+      "2804:4a48::/32"
+    ]
   }
 }

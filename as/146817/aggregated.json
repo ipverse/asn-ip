@@ -3,7 +3,11 @@
   "handle": "FXNET",
   "description": "Hubei Feixun Network Co., Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.7.140.0/24",
+      "103.8.68.0/22",
+      "103.184.46.0/23"
+    ],
     "ipv6": []
   }
 }

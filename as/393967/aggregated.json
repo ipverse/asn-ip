@@ -3,7 +3,9 @@
   "handle": "LYNDEN",
   "description": "Lynden Incorporated",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "69.12.2.0/23"
+    ],
     "ipv6": []
   }
 }

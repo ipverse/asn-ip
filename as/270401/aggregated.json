@@ -3,7 +3,9 @@
   "handle": "INSIGHT-PARA-TECNOLOGIA",
   "description": "INSIGHT PARA TECNOLOGIA LTDA - ME",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "190.89.240.0/22"
+    ],
     "ipv6": []
   }
 }

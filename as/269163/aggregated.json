@@ -3,7 +3,9 @@
   "handle": "L-O-LEANDRO-INTERNET",
   "description": "L. O. LEANDRO INTERNET - ME",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.181.24.0/22"
+    ],
     "ipv6": []
   }
 }

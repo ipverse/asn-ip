@@ -3,7 +3,12 @@
   "handle": "PLAYNET-TELECOM",
   "description": "PLAYNET TELECOM",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.167.98.0/24",
+      "45.234.132.0/22"
+    ],
+    "ipv6": [
+      "2804:4c5c::/32"
+    ]
   }
 }

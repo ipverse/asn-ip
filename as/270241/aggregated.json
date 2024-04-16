@@ -3,7 +3,11 @@
   "handle": "MACARVALHO-TELECOMUNICACOES",
   "description": "m.a.carvalho telecomunicacoes - me",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "190.112.172.0/22"
+    ],
+    "ipv6": [
+      "2804:68fc::/32"
+    ]
   }
 }

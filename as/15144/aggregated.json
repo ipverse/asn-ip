@@ -3,7 +3,9 @@
   "handle": "XYMMETRIX-XYMMETRIX-LLC",
   "description": "Xymmetrix, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "69.67.192.0/20"
+    ],
     "ipv6": []
   }
 }

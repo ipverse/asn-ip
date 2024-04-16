@@ -3,7 +3,10 @@
   "handle": "CHOICE-HOTELS",
   "description": "Choice Hotels International, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "143.192.59.0/24",
+      "143.192.60.0/23"
+    ],
     "ipv6": []
   }
 }

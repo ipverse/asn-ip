@@ -3,7 +3,9 @@
   "handle": "FISERVPL",
   "description": "FISERV POLSKA S.A.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.198.222.0/24"
+    ],
     "ipv6": []
   }
 }

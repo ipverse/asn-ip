@@ -3,7 +3,12 @@
   "handle": "HILTON-C-BENDER-EIRELI",
   "description": "Hilton C. Bender Eireli",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "143.202.112.0/22",
+      "177.71.88.0/22"
+    ],
+    "ipv6": [
+      "2804:fcc::/32"
+    ]
   }
 }

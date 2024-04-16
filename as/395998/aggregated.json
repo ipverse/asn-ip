@@ -3,7 +3,9 @@
   "handle": "SCSLC",
   "description": "SOUTH CAROLINA STUDENT LOAN CORPORATION",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "207.144.179.0/24"
+    ],
     "ipv6": []
   }
 }

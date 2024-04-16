@@ -3,7 +3,10 @@
   "handle": "DAYCO-TELECOM-CA",
   "description": "Dayco Telecom, C.A.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "200.74.192.0/19",
+      "200.74.224.0/20"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,10 @@
   "handle": "NET-SPACE",
   "description": "NET-SPACE Dariusz Zielinski",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "89.47.171.0/24",
+      "188.241.31.0/24"
+    ],
     "ipv6": []
   }
 }

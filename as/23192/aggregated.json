@@ -3,7 +3,9 @@
   "handle": "MGF-LLC",
   "description": "MGF, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.5.71.0/24"
+    ],
     "ipv6": []
   }
 }

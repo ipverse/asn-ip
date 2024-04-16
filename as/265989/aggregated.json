@@ -3,7 +3,12 @@
   "handle": "T-GARCIA-COMUNICACOES",
   "description": "T. GARCIA COMUNICACOES LTDA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "143.0.68.0/22",
+      "164.163.236.0/22"
+    ],
+    "ipv6": [
+      "2804:40e4::/32"
+    ]
   }
 }

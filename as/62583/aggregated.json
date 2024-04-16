@@ -3,7 +3,9 @@
   "handle": "CTMGMT",
   "description": "CT Management, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "207.8.217.0/24"
+    ],
     "ipv6": []
   }
 }

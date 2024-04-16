@@ -4,8 +4,10 @@
   "description": "MICRORCIM PRO NET DO BRASIL INFORMTICA LTDA",
   "subnets": {
     "ipv4": [
-      "200.75.178.0/24"
+      "200.75.176.0/21"
     ],
-    "ipv6": []
+    "ipv6": [
+      "2804:188c::/32"
+    ]
   }
 }

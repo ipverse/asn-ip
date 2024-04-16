@@ -3,7 +3,9 @@
   "handle": "SUPERNET-TELECOMUNICAOES-INFORMATICA",
   "description": "Supernet Telecomunicaoes e Informatica LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "200.33.164.0/22"
+    ],
     "ipv6": [
       "2804:18b0::/32"
     ]

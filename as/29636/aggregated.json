@@ -3,7 +3,11 @@
   "handle": "CATALYST2",
   "description": "catalyst2 Services Limited",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "84.18.192.0/19"
+    ],
+    "ipv6": [
+      "2001:4c20::/32"
+    ]
   }
 }

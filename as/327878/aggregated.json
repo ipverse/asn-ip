@@ -3,7 +3,9 @@
   "handle": "ESTATE-CONNEXIONS",
   "description": "Estate Connexions",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "169.255.164.0/22"
+    ],
     "ipv6": []
   }
 }

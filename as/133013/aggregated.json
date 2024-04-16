@@ -3,7 +3,9 @@
   "handle": "ABBVIEINC-AP",
   "description": "AbbVie, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "159.180.176.0/21"
+    ],
     "ipv6": []
   }
 }

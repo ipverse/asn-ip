@@ -3,7 +3,9 @@
   "handle": "CIKLUM",
   "description": "Ciklum LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.105.144.0/23"
+    ],
     "ipv6": []
   }
 }

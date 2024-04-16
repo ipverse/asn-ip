@@ -3,7 +3,10 @@
   "handle": "UHC",
   "description": "UHC sp. z o.o.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.59.225.0/24",
+      "194.247.46.0/24"
+    ],
     "ipv6": []
   }
 }

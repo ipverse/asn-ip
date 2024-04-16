@@ -3,7 +3,10 @@
   "handle": "WEBTRADE",
   "description": "SK Securities Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "1.209.200.0/24",
+      "211.205.77.0/24"
+    ],
     "ipv6": []
   }
 }

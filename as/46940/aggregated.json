@@ -3,7 +3,9 @@
   "handle": "IACINTERACTIVECORP",
   "description": "IAC/InterActiveCorp",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "66.235.112.0/24"
+    ],
     "ipv6": []
   }
 }

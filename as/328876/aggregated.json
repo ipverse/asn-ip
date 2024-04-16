@@ -3,7 +3,10 @@
   "handle": "UNIPAK",
   "description": "Unipak Nile Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "102.219.132.0/23",
+      "102.219.135.0/24"
+    ],
     "ipv6": []
   }
 }

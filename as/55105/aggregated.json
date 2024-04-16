@@ -3,7 +3,12 @@
   "handle": "NCC",
   "description": "NORTHWEST COMMUNICATIONS COOPERATIVE",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "63.131.176.0/20",
+      "69.57.80.0/20"
+    ],
+    "ipv6": [
+      "2607:800::/32"
+    ]
   }
 }

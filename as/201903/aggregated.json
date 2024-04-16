@@ -3,7 +3,9 @@
   "handle": "EVORIO",
   "description": "Evorio Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.45.220.0/22"
+    ],
     "ipv6": []
   }
 }

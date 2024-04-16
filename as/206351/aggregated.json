@@ -3,7 +3,11 @@
   "handle": "AUCA",
   "description": "Institution American University of Central Asia",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "185.78.234.0/24"
+    ],
+    "ipv6": [
+      "2001:67c:12e0::/48"
+    ]
   }
 }

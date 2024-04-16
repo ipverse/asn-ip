@@ -3,7 +3,9 @@
   "handle": "MBBC-01",
   "description": "Milwaukee Brewers Baseball Club, LP",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "8.28.167.0/24"
+    ],
     "ipv6": []
   }
 }

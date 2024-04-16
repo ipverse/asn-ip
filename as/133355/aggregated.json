@@ -3,7 +3,10 @@
   "handle": "IDNIC-POLBAN-ID",
   "description": "Politeknik Negeri Bandung",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.185.197.0/24",
+      "103.209.131.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "NYS-BRIDGE-AUTHORITY",
   "description": "New York State Bridge Authority",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "64.72.70.0/24"
+    ],
     "ipv6": []
   }
 }

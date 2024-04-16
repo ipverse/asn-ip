@@ -4,6 +4,8 @@
   "description": "Wei Teng LIn",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a0a:6040:b770::/44"
+    ]
   }
 }

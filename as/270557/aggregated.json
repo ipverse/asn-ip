@@ -3,7 +3,9 @@
   "handle": "MARCONI-OLIVEIRA-URQUIZA",
   "description": "marconi oliveira urquiza me",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "200.11.124.0/22"
+    ],
     "ipv6": []
   }
 }

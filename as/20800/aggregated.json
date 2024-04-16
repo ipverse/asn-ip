@@ -3,7 +3,10 @@
   "handle": "GLOBES",
   "description": "Globes",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "80.70.128.0/24",
+      "80.70.130.0/24"
+    ],
     "ipv6": []
   }
 }

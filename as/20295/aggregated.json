@@ -3,7 +3,11 @@
   "handle": "FILERTELEPHONE",
   "description": "Filer Mutual Telephone Company",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "199.6.32.0/19"
+    ],
+    "ipv6": [
+      "2605:9100::/32"
+    ]
   }
 }

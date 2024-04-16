@@ -3,7 +3,9 @@
   "handle": "RGURU",
   "description": "Ryazanskiy State University",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.203.180.0/22"
+    ],
     "ipv6": []
   }
 }

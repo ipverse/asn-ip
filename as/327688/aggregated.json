@@ -3,7 +3,10 @@
   "handle": "SCREAMER",
   "description": "Screamer Telecommunications",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "41.57.0.0/18",
+      "41.57.128.0/18"
+    ],
     "ipv6": []
   }
 }

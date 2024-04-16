@@ -3,7 +3,11 @@
   "handle": "CARUARU-ONLINE",
   "description": "CARUARU-ONLINE LTDA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.226.200.0/22"
+    ],
+    "ipv6": [
+      "2804:4644::/32"
+    ]
   }
 }

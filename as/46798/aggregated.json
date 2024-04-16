@@ -3,7 +3,9 @@
   "handle": "SSCSINC",
   "description": "Service Station Computer Systems, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.96.36.0/22"
+    ],
     "ipv6": []
   }
 }

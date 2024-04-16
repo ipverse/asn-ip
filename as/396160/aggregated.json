@@ -3,7 +3,9 @@
   "handle": "ROYAL-REALITY-CORP",
   "description": "Royal Realty Corp.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "148.59.186.0/24"
+    ],
     "ipv6": []
   }
 }

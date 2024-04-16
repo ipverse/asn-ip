@@ -3,7 +3,9 @@
   "handle": "MCL-INT-ALL",
   "description": "Maverick Capital, LTD.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "208.77.132.0/23"
+    ],
     "ipv6": []
   }
 }

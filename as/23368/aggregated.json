@@ -3,7 +3,11 @@
   "handle": "DATAONE",
   "description": "DATA ONE SYSTEMS, INC.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "199.66.76.0/22"
+    ],
+    "ipv6": [
+      "2602:fa60::/36"
+    ]
   }
 }

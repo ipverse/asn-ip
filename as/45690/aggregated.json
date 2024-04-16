@@ -3,7 +3,9 @@
   "handle": "JCTV-NET",
   "description": "Tokushima Central TV Co.,Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "27.96.0.0/20"
+    ],
     "ipv6": []
   }
 }

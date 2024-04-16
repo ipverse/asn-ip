@@ -3,7 +3,9 @@
   "handle": "MONOTYPE-HQ",
   "description": "Monotype Imaging Inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.5.106.0/24"
+    ],
     "ipv6": []
   }
 }

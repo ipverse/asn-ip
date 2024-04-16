@@ -3,7 +3,11 @@
   "handle": "AFS-TELECOM",
   "description": "AFS TELECOM LTDA. -ME",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.186.244.0/22"
+    ],
+    "ipv6": [
+      "2804:65fc::/32"
+    ]
   }
 }

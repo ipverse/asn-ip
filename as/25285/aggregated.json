@@ -3,7 +3,9 @@
   "handle": "BOE",
   "description": "Boletin Oficial del Estado",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "81.89.32.0/20"
+    ],
     "ipv6": []
   }
 }

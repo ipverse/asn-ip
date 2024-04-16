@@ -3,7 +3,9 @@
   "handle": "INTERNETT",
   "description": "internett GmbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "82.192.192.0/19"
+    ],
     "ipv6": []
   }
 }

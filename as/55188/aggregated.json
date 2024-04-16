@@ -3,7 +3,9 @@
   "handle": "METRONAVIATION",
   "description": "Metron Aviation Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "184.180.118.0/24"
+    ],
     "ipv6": []
   }
 }

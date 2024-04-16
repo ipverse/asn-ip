@@ -3,7 +3,10 @@
   "handle": "SBERBANK-TELECOM",
   "description": "Sberbank-Telecom LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.174.128.0/22",
+      "185.185.148.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "HP-BCRS-UK",
   "description": "EntServ UK Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "84.246.176.0/21"
+    ],
     "ipv6": []
   }
 }

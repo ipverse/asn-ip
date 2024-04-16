@@ -3,7 +3,9 @@
   "handle": "GMIDABGOR",
   "description": "Dabrowa Gornicza - Miasto na Prawach Powiatu",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "84.205.164.0/23"
+    ],
     "ipv6": []
   }
 }

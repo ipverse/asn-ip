@@ -3,7 +3,9 @@
   "handle": "EPPLP",
   "description": "Enterprise Products Company",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "50.58.14.0/24"
+    ],
     "ipv6": []
   }
 }

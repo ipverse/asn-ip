@@ -3,7 +3,9 @@
   "handle": "STAER",
   "description": "STAER International SA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "89.46.5.0/24"
+    ],
     "ipv6": []
   }
 }

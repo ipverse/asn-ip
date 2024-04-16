@@ -3,7 +3,11 @@
   "handle": "SOCIUS",
   "description": "UAB Socius",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "88.216.8.0/21",
+      "88.216.72.0/22",
+      "88.216.192.0/22"
+    ],
     "ipv6": []
   }
 }

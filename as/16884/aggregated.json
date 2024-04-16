@@ -3,7 +3,9 @@
   "handle": "TOURM-3",
   "description": "Tourmaline Partners LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "173.251.64.0/24"
+    ],
     "ipv6": []
   }
 }

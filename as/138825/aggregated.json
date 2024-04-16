@@ -3,7 +3,9 @@
   "handle": "IDNIC-LPSEMKS-ID",
   "description": "LPSE Kota Makassar",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.136.241.0/24"
+    ],
     "ipv6": []
   }
 }

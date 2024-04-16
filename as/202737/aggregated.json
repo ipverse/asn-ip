@@ -3,7 +3,9 @@
   "handle": "TRANSACTEU",
   "description": "RYVYL (EU) EAD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.60.65.0/24"
+    ],
     "ipv6": []
   }
 }

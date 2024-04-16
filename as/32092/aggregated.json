@@ -3,7 +3,9 @@
   "handle": "AAI-BLI",
   "description": "Altair Advanced Industries",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.65.255.0/24"
+    ],
     "ipv6": []
   }
 }

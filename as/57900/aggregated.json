@@ -3,7 +3,11 @@
   "handle": "SAUDI-BRITISH-BANK",
   "description": "Saudi Awwal Bank JSC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.27.7.0/24",
+      "195.34.68.0/23",
+      "212.24.246.0/23"
+    ],
     "ipv6": []
   }
 }

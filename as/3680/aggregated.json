@@ -3,7 +3,9 @@
   "handle": "NOVELL",
   "description": "Micro Focus",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "143.186.44.0/24"
+    ],
     "ipv6": []
   }
 }

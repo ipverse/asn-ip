@@ -3,7 +3,9 @@
   "handle": "RPK",
   "description": "RIGAS PIENA KOMBINATS AS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "82.193.86.0/24"
+    ],
     "ipv6": []
   }
 }

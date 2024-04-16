@@ -4,6 +4,8 @@
   "description": "David Weber",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2001:bf7:fc00::/44"
+    ]
   }
 }

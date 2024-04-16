@@ -3,7 +3,11 @@
   "handle": "NEWFAST-TELECOM",
   "description": "NewFast Telecom",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "200.81.52.0/22"
+    ],
+    "ipv6": [
+      "2804:6c60::/32"
+    ]
   }
 }

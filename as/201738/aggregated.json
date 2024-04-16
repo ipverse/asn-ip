@@ -3,7 +3,9 @@
   "handle": "MAERSKDRILLINGNETWORK",
   "description": "Noble Drilling A/S",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.65.116.0/22"
+    ],
     "ipv6": []
   }
 }

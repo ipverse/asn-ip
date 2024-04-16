@@ -3,7 +3,9 @@
   "handle": "POWERNET-AU",
   "description": "POWERNET GROUP PTY LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.233.28.0/23"
+    ],
     "ipv6": []
   }
 }

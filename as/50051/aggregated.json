@@ -3,7 +3,9 @@
   "handle": "DANAFLEX",
   "description": "ZAO Danaflex",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.104.97.0/24"
+    ],
     "ipv6": []
   }
 }

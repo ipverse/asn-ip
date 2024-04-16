@@ -3,7 +3,9 @@
   "handle": "ABS-AP",
   "description": "ABS (HK) Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "113.208.95.0/24"
+    ],
     "ipv6": []
   }
 }

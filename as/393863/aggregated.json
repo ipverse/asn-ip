@@ -3,7 +3,9 @@
   "handle": "DMA-IND-DC",
   "description": "DMA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.82.246.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,10 @@
   "handle": "ALICONNETWORK-AP",
   "description": "Alicon Network",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "49.0.5.0/24",
+      "49.0.6.0/23"
+    ],
     "ipv6": []
   }
 }

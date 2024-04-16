@@ -3,7 +3,9 @@
   "handle": "STIHLHU",
   "description": "Andreas Stihl Kereskedelmi Kft.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "37.220.142.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "BANK-OF-AFRICA-KENYA",
   "description": "Bank Of Africa Kenya Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "80.88.4.0/23"
+    ],
     "ipv6": []
   }
 }

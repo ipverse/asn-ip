@@ -3,7 +3,11 @@
   "handle": "FLORIANO-TELECOM",
   "description": "FLORIANO TELECOM",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.226.60.0/22"
+    ],
+    "ipv6": [
+      "2804:460c::/32"
+    ]
   }
 }

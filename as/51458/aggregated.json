@@ -3,7 +3,12 @@
   "handle": "GLECCCL",
   "description": "GL events CITE/CENTRE DE CONGRES/LYON SA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.155.176.0/22",
+      "91.217.168.0/24"
+    ],
+    "ipv6": [
+      "2001:67c:2844::/48"
+    ]
   }
 }

@@ -3,7 +3,11 @@
   "handle": "WESLEY-RAMOS-DIAS",
   "description": "WESLEY RAMOS DIAS",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "187.63.232.0/22"
+    ],
+    "ipv6": [
+      "2804:7f04::/32"
+    ]
   }
 }

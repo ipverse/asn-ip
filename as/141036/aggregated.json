@@ -3,7 +3,9 @@
   "handle": "CLOUDBANDPTYLTD-AP",
   "description": "Cloudband Pty Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.155.38.0/23"
+    ],
     "ipv6": []
   }
 }

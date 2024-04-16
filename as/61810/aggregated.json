@@ -3,7 +3,9 @@
   "handle": "WEBFIBRA-TELECOMUNICAES-EIRELI",
   "description": "Webfibra Telecomunicaes Eireli ME",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "201.158.56.0/22"
+    ],
     "ipv6": []
   }
 }

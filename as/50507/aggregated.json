@@ -3,7 +3,9 @@
   "handle": "EURAC",
   "description": "Accademia Europea di Bolzano",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.106.180.0/22"
+    ],
     "ipv6": []
   }
 }

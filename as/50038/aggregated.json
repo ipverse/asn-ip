@@ -3,7 +3,9 @@
   "handle": "SIRENATRAVEL",
   "description": "Joint Stock Company Sirena-Travel",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.104.87.0/24"
+    ],
     "ipv6": []
   }
 }

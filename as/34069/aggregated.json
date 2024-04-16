@@ -3,7 +3,9 @@
   "handle": "RADIOGDANSK",
   "description": "Radio Gdansk SA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.17.212.0/24"
+    ],
     "ipv6": []
   }
 }

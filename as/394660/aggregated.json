@@ -3,7 +3,10 @@
   "handle": "CHOICETEL-ER",
   "description": "ChoiceTEL LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "67.219.132.0/22",
+      "155.254.132.0/22"
+    ],
     "ipv6": []
   }
 }

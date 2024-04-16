@@ -3,7 +3,9 @@
   "handle": "SHPL-AP",
   "description": "Secure-ISS Holdings Pty Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.99.187.0/24"
+    ],
     "ipv6": []
   }
 }

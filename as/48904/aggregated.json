@@ -3,7 +3,12 @@
   "handle": "VAGGERYDENERGI",
   "description": "Vaggeryds Energi AB",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "185.204.8.0/22",
+      "217.72.16.0/20"
+    ],
+    "ipv6": [
+      "2a13:ed00::/29"
+    ]
   }
 }

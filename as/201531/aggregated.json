@@ -3,7 +3,9 @@
   "handle": "TVK-TELSAT-BRUSY",
   "description": "Krzysztof Polom trading as Telsat",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.243.228.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,10 @@
   "handle": "TELNET",
   "description": "Vivacom Bulgaria EAD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "87.254.160.0/19",
+      "88.87.0.0/19"
+    ],
     "ipv6": []
   }
 }

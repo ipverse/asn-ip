@@ -3,7 +3,9 @@
   "handle": "VERDANTE-SERVICOS-TELECOMUNICACOES",
   "description": "VERDANTE SERVICOS DE TELECOMUNICACOES LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "168.181.108.0/22"
+    ],
     "ipv6": []
   }
 }

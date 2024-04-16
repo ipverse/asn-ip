@@ -3,7 +3,9 @@
   "handle": "AVATARA-LLC",
   "description": "Avatara LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "75.27.152.0/23"
+    ],
     "ipv6": []
   }
 }

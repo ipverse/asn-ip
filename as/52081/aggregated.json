@@ -3,7 +3,10 @@
   "handle": "CRE",
   "description": "The Commercial Real Estate Co. K.S.C.C",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "62.215.49.0/24",
+      "91.221.220.0/23"
+    ],
     "ipv6": []
   }
 }

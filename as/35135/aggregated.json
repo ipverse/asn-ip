@@ -3,7 +3,9 @@
   "handle": "LBANK",
   "description": "Bank of Lithuania",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.219.8.0/23"
+    ],
     "ipv6": []
   }
 }

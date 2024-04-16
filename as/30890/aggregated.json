@@ -3,7 +3,9 @@
   "handle": "TENNET",
   "description": "TENNET TELECOM SRL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.28.2.0/23"
+    ],
     "ipv6": []
   }
 }

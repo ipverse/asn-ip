@@ -3,7 +3,9 @@
   "handle": "LYNX-01",
   "description": "Raven Rock Networks, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "142.202.60.0/22"
+    ],
     "ipv6": []
   }
 }

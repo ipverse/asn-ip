@@ -3,7 +3,11 @@
   "handle": "JOBSON-LUIS-MELO-NEGREIROS",
   "description": "Jobson Luis Melo de Negreiros ME",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "131.221.96.0/22"
+    ],
+    "ipv6": [
+      "2804:1e4c::/32"
+    ]
   }
 }

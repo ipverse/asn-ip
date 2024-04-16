@@ -3,7 +3,11 @@
   "handle": "KONECTAMAIS-SCM",
   "description": "KONECTAMAIS SCM LTDA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "190.115.80.0/22"
+    ],
+    "ipv6": [
+      "2804:6c40::/32"
+    ]
   }
 }

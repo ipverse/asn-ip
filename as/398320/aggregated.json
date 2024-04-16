@@ -3,7 +3,9 @@
   "handle": "TALBOT-EMERGENCY-SERVICES-01",
   "description": "Talbot County Department of Emergency Services",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "170.76.238.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "SK-DC",
   "description": "DataCentrum",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.74.196.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "PLACEIQ",
   "description": "PLACEIQ, INC.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "204.145.87.0/24"
+    ],
     "ipv6": []
   }
 }

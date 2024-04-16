@@ -3,7 +3,9 @@
   "handle": "FORTUNA-GAME-PUB",
   "description": "FORTUNA GAME a.s.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.135.144.0/22"
+    ],
     "ipv6": []
   }
 }

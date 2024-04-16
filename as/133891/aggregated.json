@@ -3,7 +3,9 @@
   "handle": "FIDESSA-SG",
   "description": "Fidessa ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "163.47.44.0/23"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,10 @@
   "handle": "CAMBRIDGE-NA",
   "description": "Cambridge Integrated Services Group, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "65.167.124.0/24",
+      "208.30.33.0/24"
+    ],
     "ipv6": []
   }
 }

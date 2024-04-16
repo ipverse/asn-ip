@@ -3,7 +3,9 @@
   "handle": "CDPROJEKT",
   "description": "CD PROJEKT S.A.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.110.240.0/24"
+    ],
     "ipv6": []
   }
 }

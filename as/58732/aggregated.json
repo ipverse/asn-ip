@@ -3,7 +3,9 @@
   "handle": "PLATINUMCOMMUNICATION",
   "description": "Platinum Communication Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "114.130.248.0/24"
+    ],
     "ipv6": []
   }
 }

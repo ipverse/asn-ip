@@ -3,7 +3,9 @@
   "handle": "SINGULAR-TELECOM",
   "description": "Singular Telecom LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "186.232.76.0/22"
+    ],
     "ipv6": []
   }
 }

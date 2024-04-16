@@ -3,7 +3,9 @@
   "handle": "ZINCA",
   "description": "ZINCA S.R.L.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "46.149.97.0/24"
+    ],
     "ipv6": []
   }
 }

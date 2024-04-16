@@ -3,7 +3,9 @@
   "handle": "GORDIAN-HEALTH-SOLUTIONS",
   "description": "Onlife Health, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "128.136.38.0/24"
+    ],
     "ipv6": []
   }
 }

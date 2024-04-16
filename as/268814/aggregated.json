@@ -3,7 +3,9 @@
   "handle": "TSUNAMI-COITE-INTERNET",
   "description": "tsunami coite internet ltda",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.173.140.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,11 @@
   "handle": "ATALAIA-NET",
   "description": "ATALAIA NET LTDA - ME",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "138.117.56.0/22"
+    ],
+    "ipv6": [
+      "2804:2478::/32"
+    ]
   }
 }

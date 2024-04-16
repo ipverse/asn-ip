@@ -3,7 +3,9 @@
   "handle": "VITS-HOSTING-SERVICES",
   "description": "VITS LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.110.0.0/22"
+    ],
     "ipv6": []
   }
 }

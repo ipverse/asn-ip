@@ -3,7 +3,12 @@
   "handle": "DMVENTURES",
   "description": "GiGstreem",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "199.193.224.0/22",
+      "208.90.184.0/22"
+    ],
+    "ipv6": [
+      "2604:15c0::/32"
+    ]
   }
 }

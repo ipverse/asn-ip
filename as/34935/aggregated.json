@@ -3,7 +3,9 @@
   "handle": "EXSITU",
   "description": "Exsitu Managed Cloud Services LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "85.209.244.0/22"
+    ],
     "ipv6": []
   }
 }

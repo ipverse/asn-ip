@@ -3,7 +3,9 @@
   "handle": "AIRMIMO",
   "description": "Airmimo Networks Private Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.164.18.0/24"
+    ],
     "ipv6": []
   }
 }

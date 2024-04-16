@@ -3,7 +3,9 @@
   "handle": "EJC-100",
   "description": "James Campbell Company LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "63.167.85.0/24"
+    ],
     "ipv6": []
   }
 }

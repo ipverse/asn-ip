@@ -3,7 +3,9 @@
   "handle": "IA-CIC",
   "description": "City of Iowa City",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "198.151.137.0/24"
+    ],
     "ipv6": []
   }
 }

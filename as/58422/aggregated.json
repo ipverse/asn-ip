@@ -3,7 +3,9 @@
   "handle": "INSEARCH-AP",
   "description": "Insearch Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.5.29.0/24"
+    ],
     "ipv6": []
   }
 }

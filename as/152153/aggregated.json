@@ -3,7 +3,9 @@
   "handle": "NETINFINIUM-AP",
   "description": "NETINFINIUM SOLUTIONS SDN BHD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "113.192.49.0/24"
+    ],
     "ipv6": []
   }
 }

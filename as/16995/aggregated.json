@@ -3,7 +3,9 @@
   "handle": "NTG",
   "description": "Sable Voice Services Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "104.218.84.0/22"
+    ],
     "ipv6": []
   }
 }

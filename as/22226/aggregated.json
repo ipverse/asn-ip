@@ -3,7 +3,9 @@
   "handle": "SFUSD",
   "description": "San Francisco Unified School District",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "156.1.0.0/16"
+    ],
     "ipv6": []
   }
 }

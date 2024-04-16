@@ -3,7 +3,9 @@
   "handle": "OBLTELECOMSERV",
   "description": "OblTelecomService LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.208.99.0/24"
+    ],
     "ipv6": []
   }
 }

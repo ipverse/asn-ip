@@ -3,7 +3,9 @@
   "handle": "DOCUMENTA",
   "description": "Innofactor Software Oy",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.197.84.0/22"
+    ],
     "ipv6": []
   }
 }

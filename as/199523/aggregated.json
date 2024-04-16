@@ -3,7 +3,9 @@
   "handle": "EMCF",
   "description": "Cboe Clear Europe N.V.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "154.45.49.0/24"
+    ],
     "ipv6": []
   }
 }

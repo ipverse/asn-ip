@@ -3,9 +3,12 @@
   "handle": "CONVERGED-TELECOMS",
   "description": "Converged Telecoms",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "154.118.252.0/22",
+      "169.159.224.0/19"
+    ],
     "ipv6": [
-      "2c0f:f7b8:f000::/36"
+      "2c0f:f7b8::/32"
     ]
   }
 }

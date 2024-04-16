@@ -3,7 +3,11 @@
   "handle": "JOSE-IRALDO-AGUIAR-JUNIOR",
   "description": "JOSE IRALDO DE AGUIAR JUNIOR",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.168.40.0/22"
+    ],
+    "ipv6": [
+      "2804:56dc::/32"
+    ]
   }
 }

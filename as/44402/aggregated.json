@@ -3,7 +3,9 @@
   "handle": "GFINET",
   "description": "GFI Holdings Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "79.98.80.0/21"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,12 @@
   "handle": "VOA-INTERNET",
   "description": "VOA INTERNET",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "179.42.84.0/23",
+      "179.42.87.0/24"
+    ],
+    "ipv6": [
+      "2804:76c0::/32"
+    ]
   }
 }

@@ -3,7 +3,10 @@
   "handle": "WHG-FRA",
   "description": "WHG Hosting Services Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.250.229.0/24",
+      "192.250.230.0/24"
+    ],
     "ipv6": []
   }
 }

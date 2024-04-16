@@ -3,7 +3,9 @@
   "handle": "IDNIC-BANKSUMUT-ID",
   "description": "PT Bank Sumut",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.159.77.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "FI-PARLIAMENT",
   "description": "Eduskunta",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "217.71.144.0/20"
+    ],
     "ipv6": []
   }
 }

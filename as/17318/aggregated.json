@@ -3,7 +3,10 @@
   "handle": "DOMAINTOOLS",
   "description": "DomainTools, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.153.154.0/24",
+      "199.30.228.0/22"
+    ],
     "ipv6": []
   }
 }

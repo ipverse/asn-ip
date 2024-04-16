@@ -3,7 +3,10 @@
   "handle": "CONSULTING-SERVICE",
   "description": "Robert Siebielski trading as Consulting Service",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.35.110.0/24",
+      "195.128.154.0/24"
+    ],
     "ipv6": []
   }
 }

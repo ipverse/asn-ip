@@ -3,7 +3,11 @@
   "handle": "KBDATA",
   "description": "KB DATA SYSTEMS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "61.42.239.0/24",
+      "211.244.0.0/24",
+      "211.244.5.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "VCH-MADERA",
   "description": "Valley Children\u0027s Hospital",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.139.18.0/24"
+    ],
     "ipv6": []
   }
 }

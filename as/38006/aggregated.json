@@ -3,7 +3,9 @@
   "handle": "TQT-AP",
   "description": "DNEX Technology Sdn. Bhd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "203.189.16.0/21"
+    ],
     "ipv6": []
   }
 }

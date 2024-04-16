@@ -3,7 +3,10 @@
   "handle": "VWR",
   "description": "VWR International, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "84.207.217.0/24",
+      "193.240.176.0/24"
+    ],
     "ipv6": []
   }
 }

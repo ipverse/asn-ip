@@ -3,7 +3,9 @@
   "handle": "SPEEDNET-CR",
   "description": "SPEEDNET CR",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.236.180.0/22"
+    ],
     "ipv6": []
   }
 }

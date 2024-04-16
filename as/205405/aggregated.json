@@ -3,7 +3,9 @@
   "handle": "KEMOFARMACIJA",
   "description": "Kemofarmacija d.d.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "145.14.4.0/24"
+    ],
     "ipv6": []
   }
 }

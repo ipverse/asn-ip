@@ -3,7 +3,11 @@
   "handle": "LOGNET-SERVIOS-TELECOMUNICAES",
   "description": "Lognet Servios de Telecomunicaes EIRELI",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "138.117.36.0/22"
+    ],
+    "ipv6": [
+      "2804:2468::/32"
+    ]
   }
 }

@@ -3,7 +3,9 @@
   "handle": "DOWNSTREAM-AP",
   "description": "Downstream Connect",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.168.218.0/24"
+    ],
     "ipv6": []
   }
 }

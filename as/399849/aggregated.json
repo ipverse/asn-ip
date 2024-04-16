@@ -3,7 +3,9 @@
   "handle": "BIZZARROAGENCY",
   "description": "BIZZARRO AGENCY LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "208.99.54.0/24"
+    ],
     "ipv6": []
   }
 }

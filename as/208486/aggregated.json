@@ -3,7 +3,10 @@
   "handle": "IPARFIBRA",
   "description": "IPARFIBRA SL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.149.180.0/23",
+      "194.147.226.0/24"
+    ],
     "ipv6": []
   }
 }

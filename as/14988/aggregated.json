@@ -4,8 +4,12 @@
   "description": "Botswana Telecommunications Corporation",
   "subnets": {
     "ipv4": [
-      "168.167.136.0/24"
+      "41.78.92.0/22",
+      "168.167.0.0/16",
+      "196.2.2.0/24"
     ],
-    "ipv6": []
+    "ipv6": [
+      "2c0f:ff00::/32"
+    ]
   }
 }

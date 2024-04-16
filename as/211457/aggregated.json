@@ -3,7 +3,9 @@
   "handle": "MAERSKBROKERDK",
   "description": "MB Shipbrokers K/S",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.218.105.0/24"
+    ],
     "ipv6": []
   }
 }

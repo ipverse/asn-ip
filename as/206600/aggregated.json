@@ -3,7 +3,10 @@
   "handle": "MFALV",
   "description": "Ministry of foreign affairs of the Republic of Latvia",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.244.159.0/24",
+      "212.70.164.0/24"
+    ],
     "ipv6": []
   }
 }

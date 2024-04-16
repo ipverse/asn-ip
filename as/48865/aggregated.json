@@ -3,7 +3,9 @@
   "handle": "CGS",
   "description": "Computer Generated Solutions Romania S.R.L.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.209.61.0/24"
+    ],
     "ipv6": []
   }
 }

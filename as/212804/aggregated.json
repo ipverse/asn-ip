@@ -3,7 +3,11 @@
   "handle": "INETBOLAGET-SE-GBG",
   "description": "Open Infra ISP Production International AB",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "46.252.0.0/24"
+    ],
+    "ipv6": [
+      "2a0a:2785::/32"
+    ]
   }
 }

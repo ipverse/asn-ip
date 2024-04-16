@@ -3,7 +3,9 @@
   "handle": "ASPIXOYO",
   "description": "Internet Vikings International AB",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.157.88.0/22"
+    ],
     "ipv6": []
   }
 }

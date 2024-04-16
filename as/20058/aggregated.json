@@ -3,7 +3,9 @@
   "handle": "CCTC-LINK1",
   "description": "Totelcom Communications, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "108.161.0.0/20"
+    ],
     "ipv6": []
   }
 }

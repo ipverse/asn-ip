@@ -3,7 +3,9 @@
   "handle": "MTGCL-AP",
   "description": "Myanmar Technology Gateway Co., Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.47.185.0/24"
+    ],
     "ipv6": []
   }
 }

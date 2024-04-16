@@ -3,7 +3,10 @@
   "handle": "MIDD-ASN-01",
   "description": "Middleby Corp",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "8.12.19.0/24",
+      "8.25.27.0/24"
+    ],
     "ipv6": []
   }
 }

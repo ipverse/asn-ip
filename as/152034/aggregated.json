@@ -3,7 +3,9 @@
   "handle": "IDNIC-LJM-ID",
   "description": "PT Lintas Jaringan Mandiri",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "115.187.28.0/23"
+    ],
     "ipv6": []
   }
 }

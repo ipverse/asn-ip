@@ -3,7 +3,9 @@
   "handle": "BNM",
   "description": "Banca Nationala a Moldovei",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.108.36.0/23"
+    ],
     "ipv6": []
   }
 }

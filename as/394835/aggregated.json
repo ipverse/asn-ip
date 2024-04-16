@@ -3,7 +3,9 @@
   "handle": "SNAGAJOB",
   "description": "SnagAJob.com, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "52.129.10.0/24"
+    ],
     "ipv6": []
   }
 }

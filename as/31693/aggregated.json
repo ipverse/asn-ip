@@ -3,7 +3,10 @@
   "handle": "WANAGAIN",
   "description": "Wan Again SARL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "62.244.102.0/24",
+      "164.138.56.0/21"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "UKDL-AP",
   "description": "Utah Knitting \u0026 Dyeing Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.93.120.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "PCBOOT",
   "description": "PCBOOT USLUGI INFORMATYCZNO-INTERNETOWE RAFAL WILK",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "176.58.23.0/24"
+    ],
     "ipv6": []
   }
 }

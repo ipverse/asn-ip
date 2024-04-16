@@ -3,7 +3,9 @@
   "handle": "VSTACK",
   "description": "Vstack Europe Sp. z o.o.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "37.128.160.0/21"
+    ],
     "ipv6": []
   }
 }

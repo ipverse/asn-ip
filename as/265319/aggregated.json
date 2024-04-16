@@ -3,7 +3,11 @@
   "handle": "RS-LEAL-COMERCIO",
   "description": "RS LEAL COMERCIO VAREJISTA DE MATERIAL DE INFORMAT",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "168.121.180.0/22"
+    ],
+    "ipv6": [
+      "2804:2e08::/33"
+    ]
   }
 }

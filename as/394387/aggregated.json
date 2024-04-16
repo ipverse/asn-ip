@@ -3,7 +3,9 @@
   "handle": "VUU",
   "description": "Virginia Union University",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "155.254.0.0/24"
+    ],
     "ipv6": []
   }
 }

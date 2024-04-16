@@ -3,7 +3,9 @@
   "handle": "INTERCOM-TECHNOLOGY-S",
   "description": "LLC Intercom Technology",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.159.0.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,10 @@
   "handle": "TS-419",
   "description": "Premier Satellite",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "23.148.64.0/24",
+      "216.176.36.0/22"
+    ],
     "ipv6": []
   }
 }

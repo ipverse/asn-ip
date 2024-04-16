@@ -3,7 +3,9 @@
   "handle": "CHILD-120-AS01",
   "description": "ChildNet Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "8.38.115.0/24"
+    ],
     "ipv6": []
   }
 }

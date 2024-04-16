@@ -3,7 +3,9 @@
   "handle": "AS2-GLOBALLOGIC",
   "description": "GlobalLogic Slovakia s.r.o.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.168.219.0/24"
+    ],
     "ipv6": []
   }
 }

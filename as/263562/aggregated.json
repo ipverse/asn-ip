@@ -3,7 +3,11 @@
   "handle": "SPEET-SERVIOS-TELECOMUNICAES",
   "description": "Speet Servios de Telecomunicaes Ltda - ME",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "179.109.0.0/21"
+    ],
+    "ipv6": [
+      "2804:f00::/32"
+    ]
   }
 }

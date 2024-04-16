@@ -3,7 +3,9 @@
   "handle": "RU-GKUMO",
   "description": "GKU MO MOC IKT",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.120.188.0/22"
+    ],
     "ipv6": []
   }
 }

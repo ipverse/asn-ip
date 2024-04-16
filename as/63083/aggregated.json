@@ -3,7 +3,10 @@
   "handle": "CHAPINTELEPHONE",
   "description": "Chapin Long Distance, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "72.35.58.0/23",
+      "172.99.176.0/23"
+    ],
     "ipv6": []
   }
 }

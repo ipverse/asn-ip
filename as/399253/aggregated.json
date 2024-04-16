@@ -3,7 +3,9 @@
   "handle": "FLAGLER-CLERK",
   "description": "Flagler County Clerk of the Circuit Court \u0026 Comptroller",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "209.209.126.0/24"
+    ],
     "ipv6": []
   }
 }

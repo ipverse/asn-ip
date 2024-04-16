@@ -3,7 +3,11 @@
   "handle": "EREZUMA-MARTIN",
   "description": "EREZUMA MARTIN (T-WIRELESS)",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.226.228.0/22"
+    ],
+    "ipv6": [
+      "2803:1e20::/32"
+    ]
   }
 }

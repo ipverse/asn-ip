@@ -3,7 +3,9 @@
   "handle": "ITCONSULT",
   "description": "I.T. Consultancy Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.201.42.0/24"
+    ],
     "ipv6": []
   }
 }

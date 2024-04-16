@@ -3,7 +3,9 @@
   "handle": "BANCO-PATAGONIA",
   "description": "BANCO PATAGONIA S.A",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.224.184.0/24"
+    ],
     "ipv6": []
   }
 }

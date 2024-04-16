@@ -3,7 +3,9 @@
   "handle": "G-STAR",
   "description": "G-Star Raw C.V.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.54.44.0/22"
+    ],
     "ipv6": []
   }
 }

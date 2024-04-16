@@ -3,7 +3,9 @@
   "handle": "EVERESTBROADBAND",
   "description": "EVEREST BROADBAND NETWORKS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "216.236.128.0/19"
+    ],
     "ipv6": []
   }
 }

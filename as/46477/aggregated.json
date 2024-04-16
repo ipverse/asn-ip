@@ -3,7 +3,9 @@
   "handle": "PERIM",
   "description": "Perimeter Institute",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.64.135.0/24"
+    ],
     "ipv6": []
   }
 }

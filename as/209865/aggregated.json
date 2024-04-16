@@ -3,7 +3,9 @@
   "handle": "ASLRM2",
   "description": "ASL Roma 2",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "213.184.76.0/22"
+    ],
     "ipv6": []
   }
 }

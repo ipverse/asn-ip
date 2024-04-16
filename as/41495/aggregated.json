@@ -3,7 +3,12 @@
   "handle": "FAELIX",
   "description": "Faelix Limited",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "46.227.200.0/21",
+      "185.134.196.0/22"
+    ],
+    "ipv6": [
+      "2a01:9e00::/29"
+    ]
   }
 }

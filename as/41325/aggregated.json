@@ -3,7 +3,9 @@
   "handle": "REGIONEMARCHE-BKB",
   "description": "REGIONE MARCHE",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "84.38.48.0/20"
+    ],
     "ipv6": []
   }
 }

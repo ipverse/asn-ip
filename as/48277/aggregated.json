@@ -3,7 +3,9 @@
   "handle": "ESTP",
   "description": "Unified system of trade procedures Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "95.46.9.0/24"
+    ],
     "ipv6": []
   }
 }

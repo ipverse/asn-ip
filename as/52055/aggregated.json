@@ -3,7 +3,9 @@
   "handle": "NETIX-GREECE",
   "description": "NetIX Communications JSC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "85.217.149.0/24"
+    ],
     "ipv6": []
   }
 }

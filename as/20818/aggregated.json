@@ -3,7 +3,9 @@
   "handle": "NSS",
   "description": "NETGUARD LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.111.212.0/22"
+    ],
     "ipv6": []
   }
 }

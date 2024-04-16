@@ -3,7 +3,9 @@
   "handle": "GEELY",
   "description": "Zhejiang Geely Holding Group",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "120.131.16.0/20"
+    ],
     "ipv6": []
   }
 }

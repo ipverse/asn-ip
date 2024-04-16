@@ -4,6 +4,8 @@
   "description": "MAELLY GOMES VASCONECELOS BARRETO SANTAN",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2804:85cc::/32"
+    ]
   }
 }

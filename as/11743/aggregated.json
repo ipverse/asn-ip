@@ -3,7 +3,11 @@
   "handle": "EBSCO",
   "description": "EBSCO Industries, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.73.31.0/24",
+      "192.231.246.0/24",
+      "208.247.102.0/24"
+    ],
     "ipv6": []
   }
 }

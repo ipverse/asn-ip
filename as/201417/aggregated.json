@@ -3,7 +3,10 @@
   "handle": "VPBX",
   "description": "Teraline Telecom Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.75.189.0/24",
+      "185.75.190.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "IDNIC-PRUDENTIAL-ID",
   "description": "PT. PRUDENTIAL LIFE ASSURANCE",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.79.98.0/23"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "DP-NET-ASN-01",
   "description": "DataPerk, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "162.250.176.0/23"
+    ],
     "ipv6": []
   }
 }

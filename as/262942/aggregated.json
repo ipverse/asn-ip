@@ -3,7 +3,11 @@
   "handle": "WAVE-TELECOM",
   "description": "Wave Telecom Ltda.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "177.154.16.0/22"
+    ],
+    "ipv6": [
+      "2804:e38::/32"
+    ]
   }
 }

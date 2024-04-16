@@ -3,7 +3,10 @@
   "handle": "LIBYANA-MOBILE",
   "description": "Libyana Mobile Phone Company JSC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "102.164.96.0/23",
+      "102.164.100.0/23"
+    ],
     "ipv6": []
   }
 }

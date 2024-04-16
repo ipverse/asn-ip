@@ -3,7 +3,9 @@
   "handle": "TOMSK-STATE-UNIVERSITY",
   "description": "Tomsk State University",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "92.63.64.0/20"
+    ],
     "ipv6": []
   }
 }

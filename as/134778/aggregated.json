@@ -3,7 +3,9 @@
   "handle": "IRTRUST-AP",
   "description": "Illawarra Retirement Trust",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.5.106.0/24"
+    ],
     "ipv6": []
   }
 }

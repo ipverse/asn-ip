@@ -3,7 +3,11 @@
   "handle": "AIRNET",
   "description": "AIRNET llc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "176.96.241.0/24",
+      "176.96.243.0/24",
+      "176.221.28.0/23"
+    ],
     "ipv6": []
   }
 }

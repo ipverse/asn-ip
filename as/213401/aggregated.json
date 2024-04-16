@@ -3,7 +3,9 @@
   "handle": "LWNL-ASN-01",
   "description": "LeeWrangler Netherlands B.V.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.158.207.0/24"
+    ],
     "ipv6": []
   }
 }

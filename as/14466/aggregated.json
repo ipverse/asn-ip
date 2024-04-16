@@ -3,7 +3,9 @@
   "handle": "ARIBA-PGH",
   "description": "Ariba Inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "169.145.41.0/24"
+    ],
     "ipv6": []
   }
 }

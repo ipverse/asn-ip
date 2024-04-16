@@ -3,7 +3,9 @@
   "handle": "CEGAL-NL",
   "description": "Cegal AS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.53.58.0/24"
+    ],
     "ipv6": []
   }
 }

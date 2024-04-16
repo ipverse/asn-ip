@@ -3,7 +3,9 @@
   "handle": "INOVARE-TECNOLOGIA-COMUNICACAO",
   "description": "INOVARE TECNOLOGIA E COMUNICACAO LTDA - ME",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.145.200.0/22"
+    ],
     "ipv6": []
   }
 }

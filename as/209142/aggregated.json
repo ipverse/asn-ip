@@ -3,7 +3,9 @@
   "handle": "VODOSNABDIAWANE-I-KANALIZACIA",
   "description": "Vodosnabdiawane I Kanalizacia EOOD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.72.57.0/24"
+    ],
     "ipv6": []
   }
 }

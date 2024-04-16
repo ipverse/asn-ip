@@ -3,7 +3,11 @@
   "handle": "NP-TELECOM",
   "description": "NP TELECOM",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "181.189.48.0/22"
+    ],
+    "ipv6": [
+      "2804:7af8::/32"
+    ]
   }
 }

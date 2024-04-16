@@ -3,7 +3,9 @@
   "handle": "MIG-SRV-1",
   "description": "OOO MIG-Service Centre",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.233.148.0/24"
+    ],
     "ipv6": []
   }
 }

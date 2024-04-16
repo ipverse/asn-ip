@@ -3,7 +3,9 @@
   "handle": "INDUSYS",
   "description": "INDUSYS Verwaltungs GmbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.151.202.0/24"
+    ],
     "ipv6": []
   }
 }

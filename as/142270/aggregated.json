@@ -3,7 +3,11 @@
   "handle": "PSICL-AP",
   "description": "ohae/posinet",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "154.6.64.0/20",
+      "154.6.132.0/22",
+      "154.6.248.0/22"
+    ],
     "ipv6": []
   }
 }

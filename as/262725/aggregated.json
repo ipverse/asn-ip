@@ -3,7 +3,12 @@
   "handle": "RG-SILVEIRA",
   "description": "RG SILVEIRA LTDA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "186.192.0.0/20",
+      "186.235.64.0/20"
+    ],
+    "ipv6": [
+      "2804:3360::/32"
+    ]
   }
 }

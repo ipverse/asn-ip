@@ -3,7 +3,9 @@
   "handle": "FINO-IN",
   "description": "Financial Information Network \u0026 Operations Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "202.58.125.0/24"
+    ],
     "ipv6": []
   }
 }

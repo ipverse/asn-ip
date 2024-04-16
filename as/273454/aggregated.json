@@ -1,0 +1,13 @@
+{
+  "asn": 273454,
+  "handle": "TELVIA-TELECOMUNICACOES",
+  "description": "TELVIA TELECOMUNICACOES LTDA",
+  "subnets": {
+    "ipv4": [
+      "38.191.154.0/23"
+    ],
+    "ipv6": [
+      "2804:8ee4::/32"
+    ]
+  }
+}

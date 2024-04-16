@@ -3,7 +3,9 @@
   "handle": "TENABLE-NETWORK-SECURITY-INC",
   "description": "Tenable, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "65.246.110.0/24"
+    ],
     "ipv6": []
   }
 }

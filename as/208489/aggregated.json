@@ -3,7 +3,9 @@
   "handle": "NEXTWIRE",
   "description": "NEXTWIRE Cezary Grotowski",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "5.252.215.0/24"
+    ],
     "ipv6": []
   }
 }

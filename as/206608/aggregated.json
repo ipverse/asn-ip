@@ -3,7 +3,10 @@
   "handle": "IIAB",
   "description": "Islamic International Arab Bank PLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "176.118.39.0/24",
+      "185.180.80.0/22"
+    ],
     "ipv6": []
   }
 }

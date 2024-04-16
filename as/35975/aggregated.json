@@ -3,7 +3,14 @@
   "handle": "PRANASYSTEMS-COM",
   "description": "Prana Systems, LLC.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "23.27.22.0/24",
+      "74.122.237.0/24",
+      "74.122.238.0/24",
+      "208.69.150.0/24"
+    ],
+    "ipv6": [
+      "2606:ba80::/32"
+    ]
   }
 }

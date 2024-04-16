@@ -3,7 +3,9 @@
   "handle": "MSE-SERVIO-COM",
   "description": "MSE Servio de Com. Multimdia EIRELI",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.141.236.0/22"
+    ],
     "ipv6": []
   }
 }

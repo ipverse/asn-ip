@@ -3,7 +3,9 @@
   "handle": "SEIBELS",
   "description": "Seibels Technology Solutions, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.73.223.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "GAX-VACTV",
   "description": "Kalasznet Kabel TV Kft",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "188.127.128.0/19"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,10 @@
   "handle": "GCC-ID",
   "description": "PT Jovimaro Karya Agung",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.245.122.0/23",
+      "202.52.50.0/24"
+    ],
     "ipv6": []
   }
 }

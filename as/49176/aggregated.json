@@ -3,7 +3,9 @@
   "handle": "ELEMENTAL",
   "description": "Elemental.tv OOD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.117.81.0/24"
+    ],
     "ipv6": []
   }
 }

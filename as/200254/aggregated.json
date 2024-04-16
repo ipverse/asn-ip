@@ -3,7 +3,9 @@
   "handle": "TELDATA",
   "description": "TELDATA s.r.l.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.131.8.0/22"
+    ],
     "ipv6": []
   }
 }

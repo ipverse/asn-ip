@@ -3,7 +3,9 @@
   "handle": "WILSON-COLLEGE",
   "description": "Wilson College",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "66.180.66.0/24"
+    ],
     "ipv6": []
   }
 }

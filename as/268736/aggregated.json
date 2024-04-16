@@ -3,7 +3,11 @@
   "handle": "PATRICKI-FELIPE",
   "description": "Patricki A Felipe",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.171.236.0/22"
+    ],
+    "ipv6": [
+      "2804:59f4::/32"
+    ]
   }
 }

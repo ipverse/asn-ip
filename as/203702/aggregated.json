@@ -3,7 +3,10 @@
   "handle": "MCH",
   "description": "MCH Messe Schweiz (Basel) AG",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.124.201.0/24",
+      "194.124.202.0/23"
+    ],
     "ipv6": []
   }
 }

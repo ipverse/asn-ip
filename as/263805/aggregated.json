@@ -3,7 +3,11 @@
   "handle": "SOLUCIONES-AVANZADAS-INFORMATICAS",
   "description": "SOLUCIONES AVANZADAS INFORMATICAS Y TELECOMUNICACIONES SAITEL",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "138.185.136.0/22"
+    ],
+    "ipv6": [
+      "2803:a240::/32"
+    ]
   }
 }

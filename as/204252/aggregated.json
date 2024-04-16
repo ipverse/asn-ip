@@ -3,7 +3,9 @@
   "handle": "REYGERS",
   "description": "Reygers Systemhaus GmbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.109.180.0/22"
+    ],
     "ipv6": []
   }
 }

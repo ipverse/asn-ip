@@ -3,7 +3,9 @@
   "handle": "REDACRELTD",
   "description": "Red Acre Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "79.135.108.0/22"
+    ],
     "ipv6": []
   }
 }

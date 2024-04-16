@@ -3,7 +3,11 @@
   "handle": "NET-FIBRA-SCM",
   "description": "NET FIBRA SCM LTDA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.181.112.0/22"
+    ],
+    "ipv6": [
+      "2804:60a0::/32"
+    ]
   }
 }

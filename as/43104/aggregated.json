@@ -3,7 +3,9 @@
   "handle": "RIA",
   "description": "SJSC RIGA International Airport",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.200.224.0/24"
+    ],
     "ipv6": []
   }
 }

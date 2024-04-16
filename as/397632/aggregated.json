@@ -3,7 +3,9 @@
   "handle": "MOHAVEC-COUNTY",
   "description": "Mohave County AZ",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.104.207.0/24"
+    ],
     "ipv6": []
   }
 }

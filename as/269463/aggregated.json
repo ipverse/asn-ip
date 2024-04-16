@@ -3,9 +3,11 @@
   "handle": "INTER-K-INTERNET-SERVICE",
   "description": "INTER-K Internet Service",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.187.108.0/22"
+    ],
     "ipv6": [
-      "2804:6504:d000::/38"
+      "2804:6504::/32"
     ]
   }
 }

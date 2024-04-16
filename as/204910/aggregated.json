@@ -3,7 +3,9 @@
   "handle": "LEROYMERLINVOSTOK",
   "description": "LLC Leroy Merlin Vostok",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.151.35.0/24"
+    ],
     "ipv6": []
   }
 }

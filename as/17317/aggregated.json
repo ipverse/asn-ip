@@ -3,7 +3,10 @@
   "handle": "THING5-NA",
   "description": "Thing5, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.65.31.0/24",
+      "192.139.205.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "BCCC",
   "description": "Bay County Clerk of Court \u0026 Comptroller",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "72.18.221.0/24"
+    ],
     "ipv6": []
   }
 }

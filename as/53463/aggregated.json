@@ -3,7 +3,9 @@
   "handle": "AGC-01",
   "description": "American Greetings",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "163.182.166.0/24"
+    ],
     "ipv6": []
   }
 }

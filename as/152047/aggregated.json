@@ -3,7 +3,9 @@
   "handle": "IDNIC-SAMUDRATIMUR-ID",
   "description": "PT Samudra Timur Mandiri",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "210.79.144.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "CRYSTAL-SYSTEM",
   "description": "Crystal System SRL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.34.76.0/23"
+    ],
     "ipv6": []
   }
 }

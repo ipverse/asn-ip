@@ -3,7 +3,9 @@
   "handle": "AIL-AP",
   "description": "AVANTEOS INVESTMENTS LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "140.168.248.0/23"
+    ],
     "ipv6": []
   }
 }

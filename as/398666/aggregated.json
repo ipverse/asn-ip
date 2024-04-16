@@ -3,7 +3,9 @@
   "handle": "PCS",
   "description": "Tellier Electronics Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "198.163.111.0/24"
+    ],
     "ipv6": []
   }
 }

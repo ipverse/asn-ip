@@ -3,7 +3,10 @@
   "handle": "CONNECTBIT",
   "description": "Ashgoal Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.100.248.0/23",
+      "185.100.250.0/24"
+    ],
     "ipv6": []
   }
 }

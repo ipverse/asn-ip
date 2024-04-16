@@ -3,7 +3,11 @@
   "handle": "LIDERCOM-PROVEDOR-INTERNET",
   "description": "Lidercom Provedor de Internet Eireli",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "190.196.244.0/22"
+    ],
+    "ipv6": [
+      "2804:3bdc::/32"
+    ]
   }
 }

@@ -3,7 +3,9 @@
   "handle": "CERNER-MINNESOTA-DC",
   "description": "Cerner Corporation",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "198.199.192.0/24"
+    ],
     "ipv6": []
   }
 }

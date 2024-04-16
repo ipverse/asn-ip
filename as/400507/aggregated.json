@@ -3,7 +3,9 @@
   "handle": "CHARGER-ACCESS-ASN-01",
   "description": "Charger Access, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "208.64.108.0/22"
+    ],
     "ipv6": []
   }
 }

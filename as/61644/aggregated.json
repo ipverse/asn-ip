@@ -3,7 +3,9 @@
   "handle": "CNOVA-COMERCIO-ELETRONICO",
   "description": "CNOVA COMERCIO ELETRONICO S.A.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "131.100.116.0/22"
+    ],
     "ipv6": []
   }
 }

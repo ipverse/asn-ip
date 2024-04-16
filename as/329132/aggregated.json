@@ -3,7 +3,9 @@
   "handle": "NCFT1",
   "description": "National Company for Telecommunication Services",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "102.214.224.0/22"
+    ],
     "ipv6": []
   }
 }

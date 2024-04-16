@@ -3,7 +3,9 @@
   "handle": "VOS-ASN1",
   "description": "Village of Schaumburg",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.20.14.0/24"
+    ],
     "ipv6": []
   }
 }

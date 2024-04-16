@@ -3,7 +3,9 @@
   "handle": "EMMELIBRI",
   "description": "EMMELIBRI S.R.L.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.27.202.0/24"
+    ],
     "ipv6": []
   }
 }

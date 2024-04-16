@@ -3,7 +3,9 @@
   "handle": "VES-AP",
   "description": "VEOLIA ENVIRONMENTAL SERVICES (AUSTRALIA) PTY LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.69.252.0/24"
+    ],
     "ipv6": []
   }
 }

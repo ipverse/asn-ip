@@ -3,7 +3,12 @@
   "handle": "MTF-CLOUD",
   "description": "MTF Solutions AG",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "185.154.100.0/22",
+      "217.148.0.0/20"
+    ],
+    "ipv6": [
+      "2a06:1a40::/29"
+    ]
   }
 }

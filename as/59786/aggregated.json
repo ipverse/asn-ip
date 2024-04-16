@@ -3,7 +3,9 @@
   "handle": "OTPBANKHRV",
   "description": "OTP banka Hrvatska d.d.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.71.236.0/22"
+    ],
     "ipv6": []
   }
 }

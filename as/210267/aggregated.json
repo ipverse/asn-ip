@@ -3,7 +3,9 @@
   "handle": "MAXIMAN",
   "description": "Maxima, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.82.196.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "KEPSEL21",
   "description": "KAKAO Enterprise",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "61.109.220.0/22"
+    ],
     "ipv6": []
   }
 }

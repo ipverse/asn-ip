@@ -3,7 +3,9 @@
   "handle": "NH7",
   "description": "Nicholas William Hilliard",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "176.126.37.0/24"
+    ],
     "ipv6": []
   }
 }

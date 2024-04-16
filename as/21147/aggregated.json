@@ -3,7 +3,9 @@
   "handle": "IF-NOC",
   "description": "If P\u0026C Insurance AS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.190.141.0/24"
+    ],
     "ipv6": []
   }
 }

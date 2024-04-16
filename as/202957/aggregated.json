@@ -3,7 +3,9 @@
   "handle": "ASSWI",
   "description": "Stadtwerke Iserlohn GmbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "153.92.182.0/23"
+    ],
     "ipv6": []
   }
 }

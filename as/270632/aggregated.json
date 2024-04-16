@@ -3,7 +3,11 @@
   "handle": "ACESSE-WI-FI",
   "description": "ACESSE WI-FI SERVICOS, INSTALACAO E MANUTENCAO",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "189.126.80.0/22"
+    ],
+    "ipv6": [
+      "2804:6f00::/32"
+    ]
   }
 }

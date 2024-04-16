@@ -3,7 +3,9 @@
   "handle": "BR-01",
   "description": "Boone REMC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "216.168.134.0/24"
+    ],
     "ipv6": []
   }
 }

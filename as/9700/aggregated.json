@@ -3,7 +3,9 @@
   "handle": "KRNIC",
   "description": "Korea Internet Security Agency",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "49.8.31.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,11 @@
   "handle": "MARMARA-EDU-NET",
   "description": "Marmara University",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.140.143.0/24",
+      "193.255.92.0/24",
+      "193.255.175.0/24"
+    ],
     "ipv6": []
   }
 }

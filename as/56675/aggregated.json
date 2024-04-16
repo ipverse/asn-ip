@@ -3,7 +3,9 @@
   "handle": "OAC",
   "description": "O.A.C. bvba",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "31.193.40.0/21"
+    ],
     "ipv6": []
   }
 }

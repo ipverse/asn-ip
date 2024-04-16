@@ -3,7 +3,9 @@
   "handle": "STYRION",
   "description": "styrion Internet und eBusiness Services GmbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "77.235.64.0/19"
+    ],
     "ipv6": []
   }
 }

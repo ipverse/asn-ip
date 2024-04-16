@@ -3,7 +3,11 @@
   "handle": "4TELECOM",
   "description": "4TELECOM LTDA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "200.71.96.0/22"
+    ],
+    "ipv6": [
+      "2804:6c38::/32"
+    ]
   }
 }

@@ -3,7 +3,11 @@
   "handle": "MAGNETIC-IT-SERVICES",
   "description": "Magnetic IT Services S.R.L.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "176.124.56.0/23"
+    ],
+    "ipv6": [
+      "2a0e:fa40::/47"
+    ]
   }
 }

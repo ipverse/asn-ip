@@ -3,7 +3,9 @@
   "handle": "FIRST-CITIZENS-01",
   "description": "First Citizens Bank",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "69.89.128.0/19"
+    ],
     "ipv6": []
   }
 }

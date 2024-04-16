@@ -3,7 +3,11 @@
   "handle": "UOLNET-PROVEDORES-INTERNET",
   "description": "UOLNET PROVEDORES DE INTERNET EIRELI",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "177.67.39.0/24"
+    ],
+    "ipv6": [
+      "2804:8e14::/32"
+    ]
   }
 }

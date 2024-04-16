@@ -3,7 +3,9 @@
   "handle": "SYSTEMAT-DIGITAL-HUB",
   "description": "Systemat Digital Hub S.A.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.241.28.0/24"
+    ],
     "ipv6": []
   }
 }

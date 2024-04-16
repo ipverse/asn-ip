@@ -3,7 +3,9 @@
   "handle": "B4",
   "description": "B4 s.r.l.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "37.140.218.0/24"
+    ],
     "ipv6": []
   }
 }

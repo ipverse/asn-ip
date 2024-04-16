@@ -3,7 +3,9 @@
   "handle": "CORPORACION-NACIONAL-TELECOMUNICACIONES",
   "description": "CORPORACION NACIONAL DE TELECOMUNICACIONES - CNT EP",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "190.152.254.0/24"
+    ],
     "ipv6": []
   }
 }

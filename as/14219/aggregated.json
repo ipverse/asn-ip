@@ -3,7 +3,9 @@
   "handle": "ENTRYWAN",
   "description": "ENTRYWAN LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.95.213.0/24"
+    ],
     "ipv6": []
   }
 }

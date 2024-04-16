@@ -3,7 +3,9 @@
   "handle": "BURGERKING",
   "description": "BURGER RUS LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.200.216.0/22"
+    ],
     "ipv6": []
   }
 }

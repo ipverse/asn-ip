@@ -3,7 +3,9 @@
   "handle": "HOU1-ENT-DC-VA1",
   "description": "Element Critical",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "130.250.48.0/20"
+    ],
     "ipv6": []
   }
 }

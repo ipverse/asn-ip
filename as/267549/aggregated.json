@@ -3,7 +3,11 @@
   "handle": "NETCOMM-FIBRA",
   "description": "NetCOMM FIBRA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "201.182.236.0/22"
+    ],
+    "ipv6": [
+      "2804:431c::/32"
+    ]
   }
 }

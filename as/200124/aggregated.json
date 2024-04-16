@@ -3,7 +3,9 @@
   "handle": "FLEXUK",
   "description": "FLEXTRADE UK LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.22.240.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "KD-GOV",
   "description": "Government of Kaliningrad region",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.209.69.0/24"
+    ],
     "ipv6": []
   }
 }

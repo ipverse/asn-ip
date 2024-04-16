@@ -3,7 +3,9 @@
   "handle": "ACCURAY-INCORPORATED",
   "description": "Accuray Incorporated",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "216.165.167.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "YABORA-INDSTRIA-AERONUTICA",
   "description": "YABORA INDSTRIA AERONUTICA S.A.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.188.218.0/24"
+    ],
     "ipv6": []
   }
 }

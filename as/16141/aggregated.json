@@ -3,7 +3,9 @@
   "handle": "NETHOUSE",
   "description": "Net Bull S.r.l.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "212.70.224.0/19"
+    ],
     "ipv6": []
   }
 }

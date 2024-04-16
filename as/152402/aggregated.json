@@ -3,7 +3,9 @@
   "handle": "IDNIC-MEDIALINKCORP-ID",
   "description": "PT Media Link Corp",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "157.20.124.0/23"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "PRMC-ASN1",
   "description": "Pratt Regional Medical Center",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.67.185.0/24"
+    ],
     "ipv6": []
   }
 }

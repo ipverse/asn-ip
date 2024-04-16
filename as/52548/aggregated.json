@@ -3,7 +3,11 @@
   "handle": "TC-CONECTA-SERVIOS",
   "description": "tc conecta servios de telecomunicaes e provedor",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "177.85.136.0/21"
+    ],
+    "ipv6": [
+      "2804:5c08::/32"
+    ]
   }
 }

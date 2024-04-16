@@ -3,7 +3,10 @@
   "handle": "AM-ISPSUPPORT",
   "description": "ISP SUPPORT LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.103.248.0/22",
+      "217.113.9.0/24"
+    ],
     "ipv6": []
   }
 }

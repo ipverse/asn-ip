@@ -3,7 +3,9 @@
   "handle": "TELECOMNET",
   "description": "OOO Telecom-net",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.26.30.0/23"
+    ],
     "ipv6": []
   }
 }

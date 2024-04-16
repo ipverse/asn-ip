@@ -3,7 +3,9 @@
   "handle": "BTPN-ID",
   "description": "PT. Bank Tabungan Pensiunan Nasional Tbk",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.75.50.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,11 @@
   "handle": "PDU-ID",
   "description": "PT. PANCA DUTA UTAMA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.109.124.0/22",
+      "103.162.105.0/24",
+      "116.90.176.0/21"
+    ],
     "ipv6": []
   }
 }

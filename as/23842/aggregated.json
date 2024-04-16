@@ -3,7 +3,10 @@
   "handle": "SZINC-AP",
   "description": "Shenzhen Information and Network Center",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "203.91.32.0/19",
+      "203.175.128.0/19"
+    ],
     "ipv6": []
   }
 }

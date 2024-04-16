@@ -3,7 +3,10 @@
   "handle": "IT-FREEDOM",
   "description": "IT Freedom LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "97.65.251.0/24",
+      "174.47.138.0/24"
+    ],
     "ipv6": []
   }
 }

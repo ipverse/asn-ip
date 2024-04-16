@@ -3,7 +3,9 @@
   "handle": "CONCLUSION",
   "description": "Conclusion Enablement BV",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.108.224.0/22"
+    ],
     "ipv6": []
   }
 }

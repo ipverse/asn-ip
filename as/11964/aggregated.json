@@ -3,7 +3,9 @@
   "handle": "AWAC-HQ",
   "description": "Air Wisconsin Airlines Corporation",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "67.52.28.0/23"
+    ],
     "ipv6": []
   }
 }

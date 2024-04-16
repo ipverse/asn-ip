@@ -3,7 +3,11 @@
   "handle": "TSI-MMS-MNT",
   "description": "Deutsche Telekom MMS GmbH",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "195.13.40.0/22"
+    ],
+    "ipv6": [
+      "2001:67c:6c4::/48"
+    ]
   }
 }

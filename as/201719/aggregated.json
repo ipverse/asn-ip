@@ -3,7 +3,9 @@
   "handle": "TK",
   "description": "Teleklik d.o.o.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.65.120.0/22"
+    ],
     "ipv6": []
   }
 }

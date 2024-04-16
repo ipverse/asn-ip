@@ -3,7 +3,11 @@
   "handle": "KSINVEST",
   "description": "Komisvyazinvest LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "62.76.156.0/24",
+      "195.19.158.0/24",
+      "195.19.194.0/24"
+    ],
     "ipv6": []
   }
 }

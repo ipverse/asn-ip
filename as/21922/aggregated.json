@@ -3,7 +3,12 @@
   "handle": "WEBNET",
   "description": "WorldSpice Technologies",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "204.197.128.0/20",
+      "216.37.64.0/19"
+    ],
+    "ipv6": [
+      "2604:c040::/32"
+    ]
   }
 }

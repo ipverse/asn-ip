@@ -3,7 +3,9 @@
   "handle": "KSKL-AP",
   "description": "Kingviews Solutions (Hong Kong) Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.158.29.0/24"
+    ],
     "ipv6": []
   }
 }

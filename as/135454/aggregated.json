@@ -3,7 +3,9 @@
   "handle": "IDNIC-AXATECH-ID",
   "description": "AXA Tech Indonesia",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.67.176.0/24"
+    ],
     "ipv6": []
   }
 }

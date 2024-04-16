@@ -3,7 +3,9 @@
   "handle": "PKOLEASING",
   "description": "PKO Leasing SA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "176.124.244.0/24"
+    ],
     "ipv6": []
   }
 }

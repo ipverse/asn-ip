@@ -3,7 +3,9 @@
   "handle": "TECHNOLOGICAL",
   "description": "Technological Services Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.13.152.0/22"
+    ],
     "ipv6": []
   }
 }

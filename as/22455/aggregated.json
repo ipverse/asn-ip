@@ -3,7 +3,9 @@
   "handle": "ESL-FCU",
   "description": "ESL Federal Credit Union",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.34.178.0/24"
+    ],
     "ipv6": []
   }
 }

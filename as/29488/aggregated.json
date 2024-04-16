@@ -3,7 +3,11 @@
   "handle": "CCN",
   "description": "ccn corporate communication networks GmbH",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "217.74.176.0/20"
+    ],
+    "ipv6": [
+      "2001:1a30::/32"
+    ]
   }
 }

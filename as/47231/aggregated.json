@@ -3,7 +3,9 @@
   "handle": "GK-EHS",
   "description": "Trade Company EuroHimService Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "146.120.221.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "IPSV-ASN1",
   "description": "IP Services",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "64.112.224.0/22"
+    ],
     "ipv6": []
   }
 }

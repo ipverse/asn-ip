@@ -3,7 +3,9 @@
   "handle": "GIRE",
   "description": "GIRE S.A.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "200.123.144.0/24"
+    ],
     "ipv6": []
   }
 }

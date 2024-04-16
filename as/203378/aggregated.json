@@ -3,7 +3,10 @@
   "handle": "DZIT",
   "description": "General Authority of ZAKAT \u0026 TAX",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "37.216.202.0/24",
+      "185.117.128.0/22"
+    ],
     "ipv6": []
   }
 }

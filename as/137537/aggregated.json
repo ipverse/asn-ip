@@ -3,7 +3,9 @@
   "handle": "IONECOLTD-AP",
   "description": "iOne Co., Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.112.107.0/24"
+    ],
     "ipv6": []
   }
 }

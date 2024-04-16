@@ -3,7 +3,11 @@
   "handle": "IDNIC-MITRAGLOBALTELEMEDIA-ID",
   "description": "PT Mitra Global Telemedia",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "103.212.177.0/24"
+    ],
+    "ipv6": [
+      "2001:df2:c0c0::/48"
+    ]
   }
 }

@@ -3,7 +3,9 @@
   "handle": "BWLOG",
   "description": "Bandwidth Logic, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.157.28.0/24"
+    ],
     "ipv6": []
   }
 }

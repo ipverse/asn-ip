@@ -3,7 +3,9 @@
   "handle": "ROCKHAMPTONCITY-AP",
   "description": "Rockhampton City Council",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "203.27.42.0/23"
+    ],
     "ipv6": []
   }
 }

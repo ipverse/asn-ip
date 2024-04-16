@@ -3,7 +3,9 @@
   "handle": "BANCO-PROMERICA-SOCIEDAD",
   "description": "Banco Promerica Sociedad Annima",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "190.89.32.0/24"
+    ],
     "ipv6": []
   }
 }

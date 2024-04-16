@@ -3,7 +3,12 @@
   "handle": "HANIF-TELECOM-LIMITED",
   "description": "HANIF TELECOM LIMITED",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "102.212.28.0/22"
+    ],
+    "ipv6": [
+      "2c0f:340::/48",
+      "2c0f:340:100::/47"
+    ]
   }
 }

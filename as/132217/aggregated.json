@@ -3,7 +3,9 @@
   "handle": "VIRGIN-AP",
   "description": "Virgin Australia Airlines Pty Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.18.155.0/24"
+    ],
     "ipv6": []
   }
 }

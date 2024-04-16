@@ -3,7 +3,9 @@
   "handle": "ASROSINTRA",
   "description": "Joint Stock Company TransTeleCom",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "176.99.56.0/21"
+    ],
     "ipv6": []
   }
 }

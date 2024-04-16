@@ -3,7 +3,9 @@
   "handle": "PROVEDOR-MTEC",
   "description": "PROVEDOR MTEC LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "138.204.56.0/22"
+    ],
     "ipv6": []
   }
 }

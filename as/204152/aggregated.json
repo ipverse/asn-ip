@@ -3,7 +3,9 @@
   "handle": "ORIENT",
   "description": "Orient Company for internet services LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.112.232.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,10 @@
   "handle": "NETSKRTSYSTEMS-UK",
   "description": "Netskrt",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "69.161.210.0/23",
+      "154.61.142.0/23"
+    ],
     "ipv6": []
   }
 }

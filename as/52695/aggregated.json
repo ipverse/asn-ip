@@ -3,7 +3,12 @@
   "handle": "NETFACIL",
   "description": "NETFACIL LTDA ME",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "138.99.188.0/22",
+      "177.73.168.0/21"
+    ],
+    "ipv6": [
+      "2804:24bc::/32"
+    ]
   }
 }

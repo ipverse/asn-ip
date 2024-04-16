@@ -3,7 +3,9 @@
   "handle": "BPS",
   "description": "Banca Populare di Sondrio (Suisse) SA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "217.192.30.0/24"
+    ],
     "ipv6": []
   }
 }

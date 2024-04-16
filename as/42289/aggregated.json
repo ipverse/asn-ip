@@ -3,7 +3,11 @@
   "handle": "ITMO",
   "description": "ITMO University",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "77.234.192.0/19",
+      "194.85.160.0/22",
+      "194.85.164.0/23"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,13 @@
   "handle": "MG-NET-TELECOMUNICACOES",
   "description": "MG NET TELECOMUNICACOES LTDA  ME",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.230.68.0/22"
+    ],
+    "ipv6": [
+      "2804:3e88::/32",
+      "2804:4900::/34",
+      "2804:4900:8000::/33"
+    ]
   }
 }

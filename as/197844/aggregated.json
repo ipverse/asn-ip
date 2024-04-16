@@ -3,7 +3,10 @@
   "handle": "NET4ME",
   "description": "Agnieszka Magda Marczak-Ipatow trading as NET4ME",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.227.196.0/23",
+      "194.35.238.0/23"
+    ],
     "ipv6": []
   }
 }

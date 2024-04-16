@@ -3,7 +3,9 @@
   "handle": "CALACADEMY-NET",
   "description": "California Academy of Sciences",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.40.158.0/24"
+    ],
     "ipv6": []
   }
 }

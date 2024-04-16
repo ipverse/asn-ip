@@ -3,7 +3,10 @@
   "handle": "HYDROELECTRIC-AP",
   "description": "Hydro-Electric Corporation",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.76.176.0/24",
+      "203.2.158.0/23"
+    ],
     "ipv6": []
   }
 }

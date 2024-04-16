@@ -3,7 +3,12 @@
   "handle": "PROMPT-BRASIL-SOLUCOES",
   "description": "PROMPT BRASIL SOLUCOES EM TI LTDA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "177.72.112.0/22",
+      "177.73.248.0/22"
+    ],
+    "ipv6": [
+      "2804:650::/32"
+    ]
   }
 }

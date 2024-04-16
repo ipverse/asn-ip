@@ -3,7 +3,10 @@
   "handle": "VERMONT-STUDENT-ASSISTANCE-CORPORATION",
   "description": "Vermont Student Assistance Corporation",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "72.2.178.0/24",
+      "72.15.3.0/24"
+    ],
     "ipv6": []
   }
 }

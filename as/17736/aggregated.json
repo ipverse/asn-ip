@@ -3,7 +3,9 @@
   "handle": "SOLSIS-MY-AP",
   "description": "Solsis (M) Sdn Bhd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "202.94.167.0/24"
+    ],
     "ipv6": []
   }
 }

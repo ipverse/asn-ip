@@ -3,7 +3,11 @@
   "handle": "POLARISOFFICE",
   "description": "POLARISOFFICE",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "61.96.206.0/24",
+      "211.45.65.0/24",
+      "211.45.70.0/24"
+    ],
     "ipv6": []
   }
 }

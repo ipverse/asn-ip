@@ -3,7 +3,12 @@
   "handle": "CONECT-SOLUCTION",
   "description": "CONECT SOLUCTION LTDA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "200.80.124.0/23",
+      "200.80.127.0/24"
+    ],
+    "ipv6": [
+      "2804:7934::/32"
+    ]
   }
 }

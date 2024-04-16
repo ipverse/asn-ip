@@ -3,7 +3,9 @@
   "handle": "PARADISE-MOBILE-ASN-01",
   "description": "Paradise Mobile Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "69.17.207.0/24"
+    ],
     "ipv6": []
   }
 }

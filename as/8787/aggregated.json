@@ -3,7 +3,11 @@
   "handle": "AMARISTECH",
   "description": "Amaris Technologies GmbH",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "212.9.128.0/19"
+    ],
+    "ipv6": [
+      "2a03:1f60::/32"
+    ]
   }
 }

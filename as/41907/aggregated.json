@@ -3,7 +3,9 @@
   "handle": "POLFA",
   "description": "ADAMED-PHARMA-SA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.34.198.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,11 @@
   "handle": "REDE-FREE-INTERNET-WI-FI",
   "description": "Rede Free - Internet Wi-fi",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "179.48.72.0/22"
+    ],
+    "ipv6": [
+      "2804:75c4::/32"
+    ]
   }
 }

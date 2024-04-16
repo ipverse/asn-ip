@@ -3,7 +3,9 @@
   "handle": "CHOWCHILLADIST",
   "description": "Madera County Office of Education",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "206.78.112.0/23"
+    ],
     "ipv6": []
   }
 }

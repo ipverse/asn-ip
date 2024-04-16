@@ -3,7 +3,9 @@
   "handle": "RPTA-ASN-01",
   "description": "Valley Metro",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "74.122.242.0/23"
+    ],
     "ipv6": []
   }
 }

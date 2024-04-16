@@ -3,7 +3,9 @@
   "handle": "GOIAS-TELECOMUNICAES",
   "description": "Goias Telecomunicaes SA. - GOIAS TELECOM",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "189.51.36.0/22"
+    ],
     "ipv6": []
   }
 }

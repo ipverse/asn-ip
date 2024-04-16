@@ -3,7 +3,10 @@
   "handle": "NGPS-OHIO-MATRIX",
   "description": "MATRIX MANAGEMENT SOLUTIONS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "208.74.45.0/24",
+      "208.74.46.0/24"
+    ],
     "ipv6": []
   }
 }

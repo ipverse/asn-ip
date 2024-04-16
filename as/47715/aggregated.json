@@ -3,7 +3,9 @@
   "handle": "ASPECTNET",
   "description": "Valeo ApS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.190.31.0/24"
+    ],
     "ipv6": []
   }
 }

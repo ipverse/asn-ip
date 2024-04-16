@@ -3,7 +3,9 @@
   "handle": "BOTIC",
   "description": "BO ICT Management, S.L.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.110.255.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "GUNET",
   "description": "Gonzaga University",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "147.222.0.0/16"
+    ],
     "ipv6": []
   }
 }

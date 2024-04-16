@@ -3,7 +3,9 @@
   "handle": "COLOMBO-AGROINDSTRIA",
   "description": "COLOMBO AGROINDSTRIA S.A",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "189.50.16.0/20"
+    ],
     "ipv6": []
   }
 }

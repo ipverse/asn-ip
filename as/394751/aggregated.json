@@ -3,7 +3,9 @@
   "handle": "ND-LEHI",
   "description": "NetDocuments",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "216.190.237.0/24"
+    ],
     "ipv6": []
   }
 }

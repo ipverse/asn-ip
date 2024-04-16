@@ -3,7 +3,10 @@
   "handle": "CBR-DATA",
   "description": "Bank of Russia",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "212.40.200.0/23",
+      "212.40.216.0/24"
+    ],
     "ipv6": []
   }
 }

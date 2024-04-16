@@ -3,7 +3,9 @@
   "handle": "GHU",
   "description": "Grand Hotel Union d.d.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.208.88.0/24"
+    ],
     "ipv6": []
   }
 }

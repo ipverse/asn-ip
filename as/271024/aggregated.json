@@ -3,7 +3,9 @@
   "handle": "WLNET-TELECON",
   "description": "WLNET TELECON",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.227.100.0/22"
+    ],
     "ipv6": []
   }
 }

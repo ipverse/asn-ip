@@ -3,7 +3,9 @@
   "handle": "ELDORADO-205",
   "description": "Mphasis Eldorado",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "205.159.99.0/24"
+    ],
     "ipv6": []
   }
 }

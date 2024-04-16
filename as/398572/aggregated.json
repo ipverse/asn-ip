@@ -3,7 +3,9 @@
   "handle": "MONOLITHICPOWER-SJC",
   "description": "Monolithic Power Systems,Inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "50.220.216.0/24"
+    ],
     "ipv6": []
   }
 }

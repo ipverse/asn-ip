@@ -3,7 +3,9 @@
   "handle": "EU-IX",
   "description": "PP Lurenet",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "176.117.94.0/24"
+    ],
     "ipv6": []
   }
 }

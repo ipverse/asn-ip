@@ -3,7 +3,11 @@
   "handle": "ALCIOLE-TELECOM",
   "description": "Alciole Telecom",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "200.4.104.0/22"
+    ],
+    "ipv6": [
+      "2804:7930::/32"
+    ]
   }
 }

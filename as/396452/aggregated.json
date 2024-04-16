@@ -3,7 +3,9 @@
   "handle": "LOUDOUN-WATER",
   "description": "Loudoun Water",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "65.246.70.0/24"
+    ],
     "ipv6": []
   }
 }

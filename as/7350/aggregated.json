@@ -3,7 +3,9 @@
   "handle": "METCOMM",
   "description": "MetComm.Net, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "198.143.64.0/19"
+    ],
     "ipv6": []
   }
 }

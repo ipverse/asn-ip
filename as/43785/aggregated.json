@@ -3,7 +3,9 @@
   "handle": "UVZ",
   "description": "OJSC Research and Production Corporation Uralvagonzavod",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.198.149.0/24"
+    ],
     "ipv6": []
   }
 }

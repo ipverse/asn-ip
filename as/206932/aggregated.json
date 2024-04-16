@@ -3,7 +3,9 @@
   "handle": "MIRHOSTING-NL",
   "description": "MIRhosting B.V.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.242.45.0/24"
+    ],
     "ipv6": []
   }
 }

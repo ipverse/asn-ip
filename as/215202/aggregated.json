@@ -3,7 +3,9 @@
   "handle": "DMM-SOLUTIONS-IPTP",
   "description": "SOL Holdings Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.138.214.0/23"
+    ],
     "ipv6": []
   }
 }

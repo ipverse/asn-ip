@@ -3,7 +3,11 @@
   "handle": "DLINK",
   "description": "D-Link Trade Ltd.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "178.170.168.0/24"
+    ],
+    "ipv6": [
+      "2a03:5a00:3d::/48"
+    ]
   }
 }

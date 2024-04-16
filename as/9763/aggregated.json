@@ -3,7 +3,9 @@
   "handle": "AFFIS",
   "description": "KIC for Agriculture",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "211.237.48.0/20"
+    ],
     "ipv6": []
   }
 }

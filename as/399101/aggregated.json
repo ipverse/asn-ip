@@ -3,7 +3,9 @@
   "handle": "SPECTRA-SOUTH",
   "description": "Spectra Laboratories, Inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "50.220.199.0/24"
+    ],
     "ipv6": []
   }
 }

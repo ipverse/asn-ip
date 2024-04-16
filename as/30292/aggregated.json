@@ -3,7 +3,9 @@
   "handle": "SHRINE",
   "description": "AEG",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "64.125.47.0/24"
+    ],
     "ipv6": []
   }
 }

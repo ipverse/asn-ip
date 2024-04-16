@@ -3,7 +3,9 @@
   "handle": "FINKZEIT",
   "description": "Fink Zeitsysteme GmbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.164.204.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "KROLNET",
   "description": "Krishna Raghava Online Pvt Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "113.11.224.0/21"
+    ],
     "ipv6": []
   }
 }

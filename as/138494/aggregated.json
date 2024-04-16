@@ -3,7 +3,11 @@
   "handle": "TARO-AP",
   "description": "Campana TARO Co., Ltd.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "103.126.249.0/24"
+    ],
+    "ipv6": [
+      "2404:1640::/32"
+    ]
   }
 }

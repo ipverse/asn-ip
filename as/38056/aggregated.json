@@ -3,7 +3,11 @@
   "handle": "GLOBECOMM-HK",
   "description": "Globecomm Systems Asia",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "81.85.63.0/24",
+      "125.253.128.0/17",
+      "213.187.136.0/24"
+    ],
     "ipv6": []
   }
 }

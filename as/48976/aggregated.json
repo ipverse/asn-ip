@@ -3,7 +3,9 @@
   "handle": "NEAROUTE-CIS",
   "description": "Nearoute Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "23.26.90.0/24"
+    ],
     "ipv6": []
   }
 }

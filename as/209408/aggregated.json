@@ -3,7 +3,11 @@
   "handle": "BZ",
   "description": "BZSOLUTIONS SRL",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.66.224.0/22"
+    ],
+    "ipv6": [
+      "2a09:6c40::/29"
+    ]
   }
 }

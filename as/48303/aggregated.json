@@ -3,7 +3,11 @@
   "handle": "OVISIT",
   "description": "OVIS IT Consulting GmbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.216.44.0/24",
+      "185.46.142.0/24",
+      "185.199.104.0/22"
+    ],
     "ipv6": []
   }
 }

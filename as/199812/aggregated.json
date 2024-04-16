@@ -3,7 +3,9 @@
   "handle": "KKB",
   "description": "KKB KREDI KAYIT BUROSU A.S.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.87.92.0/24"
+    ],
     "ipv6": []
   }
 }

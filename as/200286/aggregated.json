@@ -3,7 +3,9 @@
   "handle": "EWO-CH",
   "description": "Elektrizitaetswerk Obwalden",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.59.52.0/22"
+    ],
     "ipv6": []
   }
 }

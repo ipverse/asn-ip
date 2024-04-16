@@ -3,7 +3,10 @@
   "handle": "UNIONASN",
   "description": "Union College",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "76.78.88.0/24",
+      "149.106.0.0/19"
+    ],
     "ipv6": []
   }
 }

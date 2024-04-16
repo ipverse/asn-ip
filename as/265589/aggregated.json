@@ -3,7 +3,9 @@
   "handle": "GOBIERNO-MORELOS",
   "description": "Gobierno del Estado de Morelos",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "200.33.79.0/24"
+    ],
     "ipv6": []
   }
 }

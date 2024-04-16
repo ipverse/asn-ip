@@ -3,7 +3,9 @@
   "handle": "VTELL",
   "description": "Global Telecom LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.67.160.0/22"
+    ],
     "ipv6": []
   }
 }

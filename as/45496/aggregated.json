@@ -3,7 +3,9 @@
   "handle": "INTERSOFT-AP",
   "description": "Intersoft Web Services Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "113.29.252.0/22"
+    ],
     "ipv6": []
   }
 }

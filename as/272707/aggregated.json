@@ -4,6 +4,8 @@
   "description": "ARCC RIO TELECOM PROVEDOR DE INTERNET EIRELI",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2804:8768::/32"
+    ]
   }
 }

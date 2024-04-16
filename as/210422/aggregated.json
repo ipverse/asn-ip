@@ -3,7 +3,13 @@
   "handle": "WDM",
   "description": "West Digital Management AB",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "80.68.154.0/24",
+      "194.68.41.0/24",
+      "194.68.63.0/24"
+    ],
+    "ipv6": [
+      "2a12:9f80::/29"
+    ]
   }
 }

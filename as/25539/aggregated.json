@@ -3,7 +3,9 @@
   "handle": "MAVIR-HU",
   "description": "Hungarian Power System Operator Co.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.56.68.0/24"
+    ],
     "ipv6": []
   }
 }

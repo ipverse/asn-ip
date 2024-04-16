@@ -3,7 +3,9 @@
   "handle": "MIKFINANCE",
   "description": "MicFinance Plus LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "212.192.204.0/24"
+    ],
     "ipv6": []
   }
 }

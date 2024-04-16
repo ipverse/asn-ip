@@ -3,7 +3,11 @@
   "handle": "LINUX-TECH",
   "description": "Linux Tech",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "102.68.180.0/22"
+    ],
+    "ipv6": [
+      "2c0f:ecb0::/34"
+    ]
   }
 }

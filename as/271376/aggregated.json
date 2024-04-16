@@ -3,7 +3,11 @@
   "handle": "7LINK-TELECOM-EIRELI",
   "description": "7LINK TELECOM EIRELI",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "192.140.20.0/22"
+    ],
+    "ipv6": [
+      "2804:7a84::/32"
+    ]
   }
 }

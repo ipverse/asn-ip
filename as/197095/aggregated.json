@@ -3,7 +3,9 @@
   "handle": "NETATOR",
   "description": "DIERCK IT Systems GmbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "109.232.120.0/21"
+    ],
     "ipv6": []
   }
 }

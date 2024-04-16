@@ -3,7 +3,9 @@
   "handle": "NESTEGG",
   "description": "Nestegg, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "69.50.14.0/24"
+    ],
     "ipv6": []
   }
 }

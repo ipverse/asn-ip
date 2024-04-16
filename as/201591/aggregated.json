@@ -3,7 +3,9 @@
   "handle": "AIYL-BANK",
   "description": "Aiyl Bank JSC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "93.171.136.0/24"
+    ],
     "ipv6": []
   }
 }

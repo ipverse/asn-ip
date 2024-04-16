@@ -3,7 +3,11 @@
   "handle": "AIC-TELECOMS-ALPES",
   "description": "LASOTEL SAS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "37.148.242.0/23",
+      "185.153.245.0/24",
+      "185.153.246.0/23"
+    ],
     "ipv6": []
   }
 }

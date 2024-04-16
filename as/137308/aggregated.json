@@ -3,7 +3,9 @@
   "handle": "IDNIC-DISKOMINFOKLATEN-ID",
   "description": "DISKOMINFO KLATEN",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.108.187.0/24"
+    ],
     "ipv6": []
   }
 }

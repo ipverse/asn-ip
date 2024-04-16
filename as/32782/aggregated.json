@@ -3,7 +3,9 @@
   "handle": "PROD",
   "description": "Stratos Global Services, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "204.8.240.0/22"
+    ],
     "ipv6": []
   }
 }

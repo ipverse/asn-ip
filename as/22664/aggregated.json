@@ -3,7 +3,9 @@
   "handle": "CUSTOM-NETWORK",
   "description": "Custom Network Solutions",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "63.119.81.0/24"
+    ],
     "ipv6": []
   }
 }

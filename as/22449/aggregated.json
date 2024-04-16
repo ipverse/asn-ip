@@ -3,7 +3,9 @@
   "handle": "AWSHQ",
   "description": "Earth Networks, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.118.78.0/24"
+    ],
     "ipv6": []
   }
 }

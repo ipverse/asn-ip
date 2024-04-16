@@ -3,7 +3,11 @@
   "handle": "ICOLO",
   "description": "Icolo Ltd",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "160.119.216.0/22"
+    ],
+    "ipv6": [
+      "2001:43f8:d60::/48"
+    ]
   }
 }

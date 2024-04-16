@@ -3,7 +3,11 @@
   "handle": "DECIX-ACADEMY",
   "description": "DE-CIX Management GmbH",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "91.214.253.0/24"
+    ],
+    "ipv6": [
+      "2a02:c50:db8::/48"
+    ]
   }
 }

@@ -3,7 +3,9 @@
   "handle": "NEWSDAY",
   "description": "Newsday Media Group",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "148.76.157.0/24"
+    ],
     "ipv6": []
   }
 }

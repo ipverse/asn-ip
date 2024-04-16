@@ -3,7 +3,9 @@
   "handle": "RO-AVIRASOFT",
   "description": "Avast Software Romania S.R.L.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "5.104.159.0/24"
+    ],
     "ipv6": []
   }
 }

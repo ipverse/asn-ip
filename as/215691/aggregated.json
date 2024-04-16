@@ -3,7 +3,9 @@
   "handle": "HOSTEALO",
   "description": "AP INTERACTIVE SOLUTIONS SL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "171.22.18.0/24"
+    ],
     "ipv6": []
   }
 }

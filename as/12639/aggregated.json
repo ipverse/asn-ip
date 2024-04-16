@@ -3,7 +3,10 @@
   "handle": "MARKASON",
   "description": "MARKASON LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.231.99.0/24",
+      "194.31.248.0/23"
+    ],
     "ipv6": []
   }
 }

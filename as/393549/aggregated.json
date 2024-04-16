@@ -3,7 +3,9 @@
   "handle": "WALSHGROUP",
   "description": "The Walsh Group",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.75.255.0/24"
+    ],
     "ipv6": []
   }
 }

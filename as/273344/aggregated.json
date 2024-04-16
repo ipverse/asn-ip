@@ -3,7 +3,9 @@
   "handle": "NETPRIME-TELECOMUNICAES",
   "description": "NETPRIME TELECOMUNICAES",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "200.189.76.0/22"
+    ],
     "ipv6": []
   }
 }

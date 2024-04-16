@@ -3,7 +3,9 @@
   "handle": "HUSCO",
   "description": "HUSCO INTERNATIONAL, INC.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "12.15.49.0/24"
+    ],
     "ipv6": []
   }
 }

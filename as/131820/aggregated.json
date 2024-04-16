@@ -3,7 +3,9 @@
   "handle": "HMM21",
   "description": "HMM",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "203.239.96.0/22"
+    ],
     "ipv6": []
   }
 }

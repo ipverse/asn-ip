@@ -3,7 +3,9 @@
   "handle": "GENMAB",
   "description": "Genmab A/S",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "62.182.248.0/23"
+    ],
     "ipv6": []
   }
 }

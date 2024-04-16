@@ -3,7 +3,11 @@
   "handle": "RODRIGO-PRZYBYCIEN",
   "description": "rodrigo przybycien",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "177.152.56.0/21"
+    ],
+    "ipv6": [
+      "2804:3950::/34"
+    ]
   }
 }

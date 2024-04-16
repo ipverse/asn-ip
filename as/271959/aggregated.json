@@ -3,7 +3,9 @@
   "handle": "BANCO-MULTIPLE-BHD-LEON",
   "description": "BANCO MULTIPLE BHD LEON SA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "204.126.128.0/23"
+    ],
     "ipv6": []
   }
 }

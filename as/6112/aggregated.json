@@ -3,7 +3,9 @@
   "handle": "AUBURN",
   "description": "Auburn University",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "131.204.0.0/16"
+    ],
     "ipv6": []
   }
 }

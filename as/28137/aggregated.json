@@ -3,7 +3,9 @@
   "handle": "VIALINK-SOLUES-TECNOLOGIA",
   "description": "Vialink Solues de Tecnologia Ltda",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "187.45.160.0/20"
+    ],
     "ipv6": []
   }
 }

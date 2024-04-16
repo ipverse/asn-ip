@@ -3,7 +3,9 @@
   "handle": "NPF-LI",
   "description": "NTK Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.207.238.0/23"
+    ],
     "ipv6": []
   }
 }

@@ -4,6 +4,8 @@
   "description": "IDSolutions",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2620:129:f000::/48"
+    ]
   }
 }

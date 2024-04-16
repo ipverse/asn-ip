@@ -3,7 +3,9 @@
   "handle": "TESUNET",
   "description": "TeSuNet s.r.o.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.36.94.0/24"
+    ],
     "ipv6": []
   }
 }

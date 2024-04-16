@@ -3,7 +3,9 @@
   "handle": "SUMERRU-IN",
   "description": "SUMERRU INFOTECH PRIVATE LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.214.226.0/23"
+    ],
     "ipv6": []
   }
 }

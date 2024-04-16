@@ -3,7 +3,9 @@
   "handle": "FGLIFE-COLO1",
   "description": "Fidelity \u0026 Guaranty Life",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.5.0.0/23"
+    ],
     "ipv6": []
   }
 }

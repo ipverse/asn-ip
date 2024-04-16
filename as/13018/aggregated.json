@@ -3,7 +3,10 @@
   "handle": "BANCA-MONTE-DEI",
   "description": "Banca Monte Dei Paschi Di Siena S.P.A.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "81.26.192.0/22",
+      "195.7.16.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "WSAPL-AP",
   "description": "Worldline Services Australia Pty Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "202.89.100.0/22"
+    ],
     "ipv6": []
   }
 }

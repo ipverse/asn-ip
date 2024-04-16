@@ -3,7 +3,11 @@
   "handle": "MHTELE-01",
   "description": "Manchester-Hartland Telephone Company",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "206.225.24.0/24",
+      "209.131.226.0/24",
+      "216.188.216.0/24"
+    ],
     "ipv6": []
   }
 }

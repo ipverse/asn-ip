@@ -3,7 +3,10 @@
   "handle": "ZENIMAX-GERMANY",
   "description": "ZeniMax Germany GmbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "159.100.224.0/20",
+      "195.122.154.0/23"
+    ],
     "ipv6": []
   }
 }

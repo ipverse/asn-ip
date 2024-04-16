@@ -3,7 +3,11 @@
   "handle": "SOPHUS-INFORMACOES-CADASTRAIS",
   "description": "SOPHUS INFORMACOES CADASTRAIS LTDA - EPP",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "186.249.220.0/24"
+    ],
+    "ipv6": [
+      "2801:80:760::/48"
+    ]
   }
 }

@@ -3,7 +3,9 @@
   "handle": "ATP",
   "description": "ATP-EXODUS SRL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.101.106.0/24"
+    ],
     "ipv6": []
   }
 }

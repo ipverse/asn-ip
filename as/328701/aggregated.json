@@ -3,7 +3,9 @@
   "handle": "EFT-CORPORATION",
   "description": "EFT Corporation Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "102.223.206.0/23"
+    ],
     "ipv6": []
   }
 }

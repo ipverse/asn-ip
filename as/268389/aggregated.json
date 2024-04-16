@@ -3,9 +3,11 @@
   "handle": "SPEEDNET-FRUTAL-INTERNET",
   "description": "SPEEDNET FRUTAL INTERNET",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.239.232.0/22"
+    ],
     "ipv6": [
-      "2804:5070:8000::/34"
+      "2804:5070::/32"
     ]
   }
 }

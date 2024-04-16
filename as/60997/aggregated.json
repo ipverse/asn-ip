@@ -3,7 +3,11 @@
   "handle": "STADTKOELN1",
   "description": "Stadt Koeln",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "193.27.128.0/18"
+    ],
+    "ipv6": [
+      "2001:67c:2b80::/48"
+    ]
   }
 }

@@ -3,7 +3,9 @@
   "handle": "NOXY-COMUNICAO-TELECOMUNICAO",
   "description": "NOXY COMUNICAO E TELECOMUNICAO LTDA.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.177.104.0/22"
+    ],
     "ipv6": []
   }
 }

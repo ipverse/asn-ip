@@ -3,7 +3,12 @@
   "handle": "IDNIC-AWANDATA-ID",
   "description": "PT Awan Data Teknologi",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.126.43.0/24",
+      "103.52.212.0/24"
+    ],
+    "ipv6": [
+      "2001:df3:240::/48"
+    ]
   }
 }

@@ -3,7 +3,9 @@
   "handle": "KBZ",
   "description": "AGRAM BANKA d.d.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.209.216.0/24"
+    ],
     "ipv6": []
   }
 }

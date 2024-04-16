@@ -3,7 +3,9 @@
   "handle": "TEAMPHARR",
   "description": "City of Pharr TX",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "104.255.96.0/21"
+    ],
     "ipv6": []
   }
 }

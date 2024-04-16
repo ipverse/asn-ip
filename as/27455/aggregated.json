@@ -3,7 +3,10 @@
   "handle": "WT",
   "description": "Williams Trading LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "204.189.115.0/24",
+      "216.174.0.0/24"
+    ],
     "ipv6": []
   }
 }

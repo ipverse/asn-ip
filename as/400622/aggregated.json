@@ -3,7 +3,9 @@
   "handle": "OPTICWISE-US",
   "description": "OpticWise, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "167.94.213.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "AUDICOM-TECNOLOGIA-TELECOM",
   "description": "AUDICOM TECNOLOGIA E TELECOM LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.237.200.0/22"
+    ],
     "ipv6": [
       "2804:4ee4::/32"
     ]

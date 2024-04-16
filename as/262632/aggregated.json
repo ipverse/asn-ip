@@ -3,7 +3,11 @@
   "handle": "GRAJAUNET-TELECOMUNICACOES-EIRELI",
   "description": "Grajaunet Telecomunicacoes Eireli",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "177.104.192.0/20"
+    ],
+    "ipv6": [
+      "2804:744::/32"
+    ]
   }
 }

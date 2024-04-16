@@ -3,7 +3,9 @@
   "handle": "EXIMPROD",
   "description": "EXIMPROD SERVICII SUPORT SRL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "89.200.242.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "HAPPYMONEY-TW",
   "description": "Fun Finance Technology Co., Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.169.212.0/24"
+    ],
     "ipv6": []
   }
 }

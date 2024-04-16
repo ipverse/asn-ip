@@ -3,7 +3,9 @@
   "handle": "SYFINDIA-IN",
   "description": "SYNCHRONY INTERNATIONAL SERVICES PVT LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.167.173.0/24"
+    ],
     "ipv6": []
   }
 }

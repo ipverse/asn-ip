@@ -3,7 +3,9 @@
   "handle": "SPEEDNET-CA",
   "description": "SPEEDNET, C.A",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.188.200.0/23"
+    ],
     "ipv6": []
   }
 }

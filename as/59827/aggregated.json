@@ -3,7 +3,9 @@
   "handle": "FUTUREWEB",
   "description": "Futureweb BVBA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.70.72.0/22"
+    ],
     "ipv6": [
       "2a05:2880::/32"
     ]

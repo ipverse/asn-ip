@@ -3,7 +3,11 @@
   "handle": "BBK",
   "description": "Stiftelsen for Internetinfrastruktur",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "192.36.30.0/24"
+    ],
+    "ipv6": [
+      "2001:67c:2ff4::/48"
+    ]
   }
 }

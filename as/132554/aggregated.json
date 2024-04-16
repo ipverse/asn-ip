@@ -3,7 +3,9 @@
   "handle": "ADMU-SALCEDO-AP",
   "description": "Ateneo de Manila University",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.113.183.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "VHS-BOMA",
   "description": "Vanguard Health Management, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "209.94.129.0/24"
+    ],
     "ipv6": []
   }
 }

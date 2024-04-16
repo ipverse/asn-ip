@@ -3,7 +3,9 @@
   "handle": "STRAND",
   "description": "STRAND BOOK STORE, INC.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.233.125.0/24"
+    ],
     "ipv6": []
   }
 }

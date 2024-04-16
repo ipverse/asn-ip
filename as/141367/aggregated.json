@@ -3,7 +3,10 @@
   "handle": "CNB-OSAKA",
   "description": "Bayer (South East Asia) Pte Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "149.234.184.0/24",
+      "149.234.188.0/24"
+    ],
     "ipv6": []
   }
 }

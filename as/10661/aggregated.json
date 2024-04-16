@@ -3,7 +3,9 @@
   "handle": "SF-FIN-LP",
   "description": "Steadfast Financial LP",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "74.119.224.0/24"
+    ],
     "ipv6": []
   }
 }

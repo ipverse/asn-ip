@@ -3,7 +3,9 @@
   "handle": "CAMB-COUNCIL-AP",
   "description": "Campbelltown City Council",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "203.19.160.0/22"
+    ],
     "ipv6": []
   }
 }

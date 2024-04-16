@@ -3,7 +3,9 @@
   "handle": "DALAHTI-GER",
   "description": "Datalahti Oy",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "77.95.16.0/22"
+    ],
     "ipv6": []
   }
 }

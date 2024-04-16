@@ -3,7 +3,10 @@
   "handle": "VIASAT-3",
   "description": "ViaSat,Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.248.140.0/24",
+      "45.248.142.0/23"
+    ],
     "ipv6": []
   }
 }

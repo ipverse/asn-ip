@@ -3,7 +3,9 @@
   "handle": "DISH-NETWORK-LLC",
   "description": "DISH Network L.L.C.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "52.119.20.0/23"
+    ],
     "ipv6": []
   }
 }

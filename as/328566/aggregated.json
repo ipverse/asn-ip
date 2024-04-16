@@ -3,7 +3,9 @@
   "handle": "ELITE-NETWORKS",
   "description": "STE ELITE NETWORKS SARL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "102.23.116.0/22"
+    ],
     "ipv6": []
   }
 }

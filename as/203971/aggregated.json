@@ -3,7 +3,11 @@
   "handle": "AZFIBERNET",
   "description": "AzFiberNet Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.118.48.0/22",
+      "185.222.92.0/22",
+      "213.154.24.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "IRONFX",
   "description": "NOTESCO FINANCIAL SERVICES LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "82.102.123.0/24"
+    ],
     "ipv6": []
   }
 }

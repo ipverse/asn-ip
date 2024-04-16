@@ -3,7 +3,9 @@
   "handle": "ALESAYI",
   "description": "Mohammed Ali Alesayi Group",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "77.221.96.0/19"
+    ],
     "ipv6": []
   }
 }

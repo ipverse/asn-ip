@@ -3,7 +3,11 @@
   "handle": "BOURSEDIRECT",
   "description": "BOURSE DIRECT SA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "185.191.48.0/22"
+    ],
+    "ipv6": [
+      "2a0a:1540::/29"
+    ]
   }
 }

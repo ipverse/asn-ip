@@ -3,7 +3,10 @@
   "handle": "DENVR-DATAWORKS-01",
   "description": "Denvr Dataworks",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "130.250.170.0/23",
+      "198.145.126.0/23"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,11 @@
   "handle": "AEROTHAI-AP",
   "description": "Aeronautical Radio of Thailand Ltd.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "103.103.67.0/24"
+    ],
+    "ipv6": [
+      "2001:df3:101::/48"
+    ]
   }
 }

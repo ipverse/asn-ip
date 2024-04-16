@@ -3,7 +3,9 @@
   "handle": "DWS-LTAM-AR",
   "description": "Disney Worldwide Services, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "139.104.10.0/24"
+    ],
     "ipv6": []
   }
 }

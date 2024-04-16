@@ -3,7 +3,10 @@
   "handle": "MARKETINGMINDONLINEGMBH",
   "description": "Marketing Mind Online GmbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.156.176.0/24",
+      "194.156.178.0/23"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "VSJISPL",
   "description": "Vsj Internet Services Private Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.132.56.0/22"
+    ],
     "ipv6": [
       "2001:df0:1d80::/48"
     ]

@@ -3,7 +3,9 @@
   "handle": "CQG-INC",
   "description": "CQG, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.166.124.0/24"
+    ],
     "ipv6": []
   }
 }

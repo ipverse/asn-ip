@@ -3,7 +3,9 @@
   "handle": "RBT",
   "description": "Robot Telecomunicacoes Projectos e Servicos Lda",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "93.94.56.0/21"
+    ],
     "ipv6": []
   }
 }

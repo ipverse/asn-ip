@@ -3,7 +3,10 @@
   "handle": "TOSHTELEQABUL",
   "description": "ToshTeleQabul MChJ",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "31.148.196.0/22",
+      "92.38.50.0/23"
+    ],
     "ipv6": []
   }
 }

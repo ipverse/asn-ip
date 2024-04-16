@@ -3,7 +3,9 @@
   "handle": "PROMSORT-TULA",
   "description": "PROMSORT-TULA LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.209.183.0/24"
+    ],
     "ipv6": []
   }
 }

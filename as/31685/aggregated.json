@@ -3,7 +3,9 @@
   "handle": "TIM",
   "description": "TOV Teleradiocompany TIM",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.242.100.0/22"
+    ],
     "ipv6": []
   }
 }

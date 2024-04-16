@@ -3,7 +3,9 @@
   "handle": "MAXTV",
   "description": "Max tv SH. P. K",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.222.138.0/24"
+    ],
     "ipv6": []
   }
 }

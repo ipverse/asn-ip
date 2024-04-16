@@ -3,7 +3,9 @@
   "handle": "VESTASDK",
   "description": "VESTAS WIND SYSTEMS A/S",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.47.71.0/24"
+    ],
     "ipv6": []
   }
 }

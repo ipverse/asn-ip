@@ -3,7 +3,9 @@
   "handle": "RIVNETELECOM",
   "description": "LLC Rivne Telecom",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.213.187.0/24"
+    ],
     "ipv6": []
   }
 }

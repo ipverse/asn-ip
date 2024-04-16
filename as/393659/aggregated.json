@@ -3,7 +3,11 @@
   "handle": "NWRP",
   "description": "North West Redwater Partnership",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "207.229.55.0/24"
+    ],
+    "ipv6": [
+      "2602:f9d2::/48"
+    ]
   }
 }

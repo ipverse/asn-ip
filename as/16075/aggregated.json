@@ -3,7 +3,11 @@
   "handle": "TAZ",
   "description": "TAZ Verlags- und Vertriebsgesellschaft mit beschraenkter Haftung Berlin",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "193.104.220.0/24"
+    ],
+    "ipv6": [
+      "2001:67c:13c::/48"
+    ]
   }
 }

@@ -3,7 +3,9 @@
   "handle": "PHARMPIXSUPERNAP",
   "description": "Pharmpix",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.75.187.0/24"
+    ],
     "ipv6": []
   }
 }

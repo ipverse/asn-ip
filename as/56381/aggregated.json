@@ -3,7 +3,12 @@
   "handle": "LEVEL66-NETWORK",
   "description": "level66.network UG (haftungsbeschraenkt)",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "141.98.136.0/24"
+    ],
+    "ipv6": [
+      "2a09:11c0::/48",
+      "2a09:11c0:1000::/36"
+    ]
   }
 }

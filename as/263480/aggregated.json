@@ -3,7 +3,11 @@
   "handle": "TELNET-SERVIOS-EM",
   "description": "TELNET SERVIOS EM TELECOMUNICAES LTDA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "191.242.204.0/22"
+    ],
+    "ipv6": [
+      "2804:1280::/32"
+    ]
   }
 }

@@ -3,7 +3,9 @@
   "handle": "WIREITUP",
   "description": "Oaktree Group B.V.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "178.22.232.0/21"
+    ],
     "ipv6": []
   }
 }

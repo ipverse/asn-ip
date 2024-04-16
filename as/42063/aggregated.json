@@ -3,7 +3,11 @@
   "handle": "ISKV",
   "description": "BITMARCK SOFTWARE GMBH",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "195.20.210.0/23"
+    ],
+    "ipv6": [
+      "2001:67c:2fdc::/48"
+    ]
   }
 }

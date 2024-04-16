@@ -3,7 +3,9 @@
   "handle": "IDNIC-POLTEKTEGAL-ID",
   "description": "Politeknik Harapan Bersama Tegal",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.166.147.0/24"
+    ],
     "ipv6": []
   }
 }

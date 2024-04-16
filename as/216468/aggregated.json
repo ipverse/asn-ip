@@ -3,7 +3,9 @@
   "handle": "LEMON",
   "description": "Lemon IP group d.o.o.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "62.108.104.0/23"
+    ],
     "ipv6": []
   }
 }

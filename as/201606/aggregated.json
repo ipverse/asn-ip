@@ -3,7 +3,9 @@
   "handle": "RAMAX",
   "description": "LLC AFLT-SYSTEMS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.69.80.0/22"
+    ],
     "ipv6": []
   }
 }

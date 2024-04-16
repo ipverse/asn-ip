@@ -3,7 +3,10 @@
   "handle": "TVCL-AP",
   "description": "The Virus Centre Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.120.116.0/22",
+      "103.18.136.0/22"
+    ],
     "ipv6": []
   }
 }

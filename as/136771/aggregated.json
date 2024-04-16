@@ -3,7 +3,9 @@
   "handle": "WILDERWINDPTYLTD-AP",
   "description": "WILDERWIND PTY LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.149.88.0/23"
+    ],
     "ipv6": []
   }
 }

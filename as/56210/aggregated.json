@@ -3,7 +3,9 @@
   "handle": "ADV-NET-AU",
   "description": "Advance Net Pty Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.235.108.0/24"
+    ],
     "ipv6": []
   }
 }

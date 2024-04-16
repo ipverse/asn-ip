@@ -3,7 +3,9 @@
   "handle": "SOPRASTERIABE",
   "description": "Sopra Steria Benelux SA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.156.56.0/22"
+    ],
     "ipv6": []
   }
 }

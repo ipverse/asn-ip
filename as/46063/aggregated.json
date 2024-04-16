@@ -3,7 +3,9 @@
   "handle": "GRAHANET-ID",
   "description": "PT.Graha Telekomunikasi Indonesia",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "27.112.64.0/21"
+    ],
     "ipv6": []
   }
 }

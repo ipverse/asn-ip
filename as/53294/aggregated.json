@@ -3,7 +3,11 @@
   "handle": "FOX-NEWS-CHANNEL-NETWORK",
   "description": "Fox News Channel",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "8.192.14.0/23",
+      "74.120.97.0/24",
+      "74.120.98.0/23"
+    ],
     "ipv6": []
   }
 }

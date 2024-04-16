@@ -3,7 +3,9 @@
   "handle": "TOOELECO",
   "description": "Tooele County",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "206.197.88.0/24"
+    ],
     "ipv6": []
   }
 }

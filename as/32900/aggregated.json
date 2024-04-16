@@ -3,7 +3,9 @@
   "handle": "QSL-01",
   "description": "Quartet Service Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "64.40.176.0/20"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,11 @@
   "handle": "ZHA-SERVICO-COMUNICACAO",
   "description": "ZHA Servico de Comunicacao Multimidia LTDA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.229.200.0/22"
+    ],
+    "ipv6": [
+      "2804:489c::/32"
+    ]
   }
 }

@@ -3,7 +3,11 @@
   "handle": "FFORMA",
   "description": "1Forma LLC",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "185.80.204.0/22"
+    ],
+    "ipv6": [
+      "2a03:60e0::/32"
+    ]
   }
 }

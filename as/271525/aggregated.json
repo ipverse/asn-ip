@@ -3,7 +3,10 @@
   "handle": "DETROX-NETWORKS-PARTICIPACOES",
   "description": "Detrox Networks e Participacoes",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "179.63.17.0/24",
+      "179.63.19.0/24"
+    ],
     "ipv6": []
   }
 }

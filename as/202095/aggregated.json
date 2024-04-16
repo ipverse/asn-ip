@@ -3,7 +3,9 @@
   "handle": "RCS",
   "description": "RCS MediaGroup S.p.a.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.53.36.0/22"
+    ],
     "ipv6": []
   }
 }

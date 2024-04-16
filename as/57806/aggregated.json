@@ -3,7 +3,9 @@
   "handle": "AKB-URAL-FD",
   "description": "JSC Commerical Bank Ural Financial House",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.235.112.0/24"
+    ],
     "ipv6": []
   }
 }

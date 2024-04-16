@@ -3,7 +3,10 @@
   "handle": "SMART-TEL",
   "description": "SMART-TEL LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "62.76.225.0/24",
+      "194.113.151.0/24"
+    ],
     "ipv6": []
   }
 }

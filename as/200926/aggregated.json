@@ -3,7 +3,9 @@
   "handle": "BOFC",
   "description": "Public Joint-Stock Company Bank Otkritie Financial Corporation",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "79.171.114.0/24"
+    ],
     "ipv6": []
   }
 }

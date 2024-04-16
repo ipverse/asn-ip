@@ -3,7 +3,9 @@
   "handle": "KM-CORP",
   "description": "KMC Ukraine, AC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.105.216.0/24"
+    ],
     "ipv6": []
   }
 }

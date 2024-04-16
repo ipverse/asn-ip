@@ -3,7 +3,9 @@
   "handle": "BLUEBIRDBIO",
   "description": "bluebirdbio, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.242.14.0/24"
+    ],
     "ipv6": []
   }
 }

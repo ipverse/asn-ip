@@ -3,7 +3,10 @@
   "handle": "AM-AVK-MINDEN",
   "description": "American AVK Company",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "24.205.195.0/24",
+      "50.124.93.0/24"
+    ],
     "ipv6": []
   }
 }

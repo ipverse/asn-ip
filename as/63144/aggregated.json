@@ -3,7 +3,9 @@
   "handle": "MCIT",
   "description": "Macomb County, Michigan",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "12.40.206.0/24"
+    ],
     "ipv6": []
   }
 }

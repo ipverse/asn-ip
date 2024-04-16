@@ -3,7 +3,9 @@
   "handle": "GGA",
   "description": "Gologramma LLP",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.99.124.0/22"
+    ],
     "ipv6": []
   }
 }

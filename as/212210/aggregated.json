@@ -3,7 +3,10 @@
   "handle": "WEBSTARLINK",
   "description": "Sheremet Aleksey Yurievich",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "93.170.94.0/23",
+      "95.47.174.0/24"
+    ],
     "ipv6": []
   }
 }

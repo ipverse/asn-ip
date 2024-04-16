@@ -3,7 +3,9 @@
   "handle": "OMNIVISION-ARGENTINA",
   "description": "Omnivision Argentina",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "200.16.120.0/21"
+    ],
     "ipv6": []
   }
 }

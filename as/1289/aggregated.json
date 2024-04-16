@@ -3,7 +3,9 @@
   "handle": "COLGATE-UNIVERSITY",
   "description": "Colgate University",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "149.43.0.0/16"
+    ],
     "ipv6": []
   }
 }

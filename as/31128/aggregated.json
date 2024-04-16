@@ -3,7 +3,11 @@
   "handle": "SHAZAM",
   "description": "APPLE DISTRIBUTION INTERNATIONAL LTD.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "139.178.192.0/23"
+    ],
+    "ipv6": [
+      "2a01:b746:100::/47"
+    ]
   }
 }

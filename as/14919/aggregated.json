@@ -3,7 +3,10 @@
   "handle": "NETSUITE-PROD",
   "description": "Oracle Corporation",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "167.216.128.0/22",
+      "216.224.100.0/22"
+    ],
     "ipv6": []
   }
 }

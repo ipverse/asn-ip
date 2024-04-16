@@ -3,7 +3,9 @@
   "handle": "IDNIC-SKALAJARINGANID-ID",
   "description": "PT Skala Jaringan Indonesia",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.168.148.0/24"
+    ],
     "ipv6": []
   }
 }

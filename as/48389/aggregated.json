@@ -3,7 +3,9 @@
   "handle": "ZVONOK",
   "description": "Privet, Internet LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.246.111.0/24"
+    ],
     "ipv6": []
   }
 }

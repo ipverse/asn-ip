@@ -3,7 +3,9 @@
   "handle": "SAMBATV-LAS",
   "description": "Samba TV, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "216.183.117.0/24"
+    ],
     "ipv6": []
   }
 }

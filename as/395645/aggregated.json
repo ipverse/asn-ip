@@ -3,7 +3,10 @@
   "handle": "COMPLUS",
   "description": "Communications Plus, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "148.59.178.0/23",
+      "184.14.174.0/23"
+    ],
     "ipv6": []
   }
 }

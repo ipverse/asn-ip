@@ -3,7 +3,9 @@
   "handle": "KOSMOS-ONLINE",
   "description": "KOSMOS ONLINE LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.204.113.0/24"
+    ],
     "ipv6": []
   }
 }

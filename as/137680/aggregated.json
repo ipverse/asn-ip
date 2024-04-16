@@ -3,7 +3,9 @@
   "handle": "TYCHE-IN",
   "description": "Tyche Digital Network Private Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.253.178.0/24"
+    ],
     "ipv6": []
   }
 }

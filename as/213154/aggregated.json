@@ -3,7 +3,11 @@
   "handle": "DAVIDC",
   "description": "David Costantino",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "204.17.163.0/24"
+    ],
+    "ipv6": [
+      "2a0c:b641:100::/44"
+    ]
   }
 }

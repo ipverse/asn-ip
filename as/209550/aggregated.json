@@ -3,7 +3,9 @@
   "handle": "EEAS",
   "description": "European External Action Service",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.239.100.0/22"
+    ],
     "ipv6": []
   }
 }

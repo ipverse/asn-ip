@@ -3,7 +3,9 @@
   "handle": "NANOBYTES",
   "description": "Nanobytes Informatica y Telecomunicaciones S.L.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.165.0.0/22"
+    ],
     "ipv6": []
   }
 }

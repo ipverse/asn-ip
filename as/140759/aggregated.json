@@ -3,7 +3,11 @@
   "handle": "STTTT-DAKLAK-VN",
   "description": "Department of Information and Communications of Dak Lak Province",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "103.159.48.0/23"
+    ],
+    "ipv6": [
+      "2001:df5:7580::/48"
+    ]
   }
 }

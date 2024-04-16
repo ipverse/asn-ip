@@ -3,7 +3,11 @@
   "handle": "ARAVISCONNECT",
   "description": "AMETIS SCRL",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "185.46.165.0/24"
+    ],
+    "ipv6": [
+      "2a14:3e00::/29"
+    ]
   }
 }

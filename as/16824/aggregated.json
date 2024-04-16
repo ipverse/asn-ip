@@ -3,7 +3,9 @@
   "handle": "HARLANNET",
   "description": "Harlan Municipal Utilities",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "149.20.232.0/21"
+    ],
     "ipv6": []
   }
 }

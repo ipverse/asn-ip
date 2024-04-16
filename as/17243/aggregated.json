@@ -3,7 +3,11 @@
   "handle": "BYTENODE",
   "description": "Byte Node LLC",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "23.159.216.0/24"
+    ],
+    "ipv6": [
+      "2602:fa47::/40"
+    ]
   }
 }

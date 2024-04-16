@@ -3,7 +3,9 @@
   "handle": "CSL-AP",
   "description": "CSL Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "203.10.36.0/22"
+    ],
     "ipv6": []
   }
 }

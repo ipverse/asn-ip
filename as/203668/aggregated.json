@@ -3,7 +3,9 @@
   "handle": "RU-CONCEPTCLUB",
   "description": "LLC ConceptGROUP",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "78.155.215.0/24"
+    ],
     "ipv6": []
   }
 }

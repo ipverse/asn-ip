@@ -3,7 +3,11 @@
   "handle": "JULIEN-BELLIER",
   "description": "Julien Bellier",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "62.3.18.0/24"
+    ],
+    "ipv6": [
+      "2a13:cc87:fc01::/48"
+    ]
   }
 }

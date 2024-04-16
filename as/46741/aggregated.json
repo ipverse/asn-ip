@@ -3,7 +3,9 @@
   "handle": "LONDON",
   "description": "Morningstar, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "216.228.234.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "SZPITALE-WIELKOPOLSKI",
   "description": "Szpitale Wielkopolski Sp. z o.o.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.6.0.0/24"
+    ],
     "ipv6": []
   }
 }

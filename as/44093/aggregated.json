@@ -3,7 +3,9 @@
   "handle": "ESTEITINVEST",
   "description": "JSC ESTEIT INVEST",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.19.78.0/24"
+    ],
     "ipv6": []
   }
 }

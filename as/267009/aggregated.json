@@ -3,7 +3,11 @@
   "handle": "FONATA-TELECOMUNICAES",
   "description": "FONATA TELECOMUNICAES LTDA.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.226.252.0/22"
+    ],
+    "ipv6": [
+      "2804:46c0::/32"
+    ]
   }
 }

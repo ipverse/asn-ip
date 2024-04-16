@@ -3,7 +3,9 @@
   "handle": "EBL-AP",
   "description": "Eastern Bank Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.79.224.0/22"
+    ],
     "ipv6": []
   }
 }

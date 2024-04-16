@@ -3,7 +3,10 @@
   "handle": "JDCCA",
   "description": "JDC.ca Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "104.247.68.0/24",
+      "206.83.148.0/24"
+    ],
     "ipv6": []
   }
 }

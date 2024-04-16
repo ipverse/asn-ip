@@ -3,7 +3,9 @@
   "handle": "RNL-AP",
   "description": "Rapidweb Networks Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.152.198.0/24"
+    ],
     "ipv6": [
       "2001:df4:1b80::/48"
     ]

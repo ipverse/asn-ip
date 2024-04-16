@@ -3,7 +3,9 @@
   "handle": "SVOD-INT",
   "description": "Limited Liability Company SVOD INTERNATIONAL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.190.100.0/24"
+    ],
     "ipv6": []
   }
 }

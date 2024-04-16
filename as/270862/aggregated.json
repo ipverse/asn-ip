@@ -3,7 +3,9 @@
   "handle": "FERABRAZNET-COMENRCIO-SERV",
   "description": "Ferabraznet Comenrcio e Serv. de Telecom. Ltda-ME",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "131.108.176.0/22"
+    ],
     "ipv6": []
   }
 }

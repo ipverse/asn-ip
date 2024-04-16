@@ -3,7 +3,9 @@
   "handle": "CAL-NAP",
   "description": "Calamos Advisors LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.52.162.0/24"
+    ],
     "ipv6": []
   }
 }

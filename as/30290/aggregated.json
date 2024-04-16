@@ -3,7 +3,9 @@
   "handle": "WOCO",
   "description": "Western Ohio Computer Organization",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "208.108.160.0/21"
+    ],
     "ipv6": []
   }
 }

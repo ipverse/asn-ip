@@ -3,7 +3,11 @@
   "handle": "SEMPRENET-INTERNET",
   "description": "SEMPRENET INTERNET LTDA ME",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "201.182.104.0/22"
+    ],
+    "ipv6": [
+      "2804:4290::/32"
+    ]
   }
 }

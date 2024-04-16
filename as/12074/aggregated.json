@@ -3,7 +3,9 @@
   "handle": "ITSC",
   "description": "County of Saginaw",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "64.186.53.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,12 @@
   "handle": "DAVID-TATLISU",
   "description": "David Tatlisu",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "185.177.206.0/24"
+    ],
+    "ipv6": [
+      "2a05:4741:25::/48",
+      "2a05:4741:26::/48"
+    ]
   }
 }

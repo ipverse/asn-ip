@@ -3,7 +3,9 @@
   "handle": "UNIBANK",
   "description": "Unibank OJSC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "31.128.60.0/24"
+    ],
     "ipv6": []
   }
 }

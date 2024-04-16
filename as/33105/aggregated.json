@@ -3,7 +3,9 @@
   "handle": "HDSB",
   "description": "Halton District School Board",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.235.0.0/16"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "TELENETWORK-EL-SALVADOR",
   "description": "Telenetwork de El Salvador",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "168.243.88.0/21"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "STARMAX",
   "description": "StarMax Corporation",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "173.227.192.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,11 @@
   "handle": "ELIN",
   "description": "ELIN.hu Informatikai Szolgaltato es Tanacsado Kft.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "185.75.192.0/22"
+    ],
+    "ipv6": [
+      "2a03:4ca0::/32"
+    ]
   }
 }

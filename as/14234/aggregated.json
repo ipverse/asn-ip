@@ -3,7 +3,9 @@
   "handle": "ZONAMERICA",
   "description": "ZONAMERICA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "200.124.192.0/19"
+    ],
     "ipv6": []
   }
 }

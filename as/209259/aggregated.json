@@ -3,7 +3,9 @@
   "handle": "ASAENOR",
   "description": "AENOR INTERNACIONAL SAU",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "5.102.133.0/24"
+    ],
     "ipv6": []
   }
 }

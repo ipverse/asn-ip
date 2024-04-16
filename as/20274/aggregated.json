@@ -3,7 +3,9 @@
   "handle": "FVCC",
   "description": "Flathead Valley Community College",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "205.207.226.0/24"
+    ],
     "ipv6": []
   }
 }

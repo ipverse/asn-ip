@@ -3,7 +3,9 @@
   "handle": "HCM",
   "description": "Hitachi Cable Manchester, INC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "204.138.167.0/24"
+    ],
     "ipv6": []
   }
 }

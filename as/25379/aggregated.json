@@ -3,7 +3,9 @@
   "handle": "PEKITEL",
   "description": "PEKITEL Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "141.101.234.0/24"
+    ],
     "ipv6": []
   }
 }

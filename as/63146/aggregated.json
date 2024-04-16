@@ -3,7 +3,9 @@
   "handle": "WC-28",
   "description": "Wolf Creek Nuclear Operating Corporation",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "138.230.28.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "CROWNCASTLE",
   "description": "Crown Castle Fiber LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "67.208.164.0/24"
+    ],
     "ipv6": []
   }
 }

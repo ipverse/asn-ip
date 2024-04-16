@@ -3,7 +3,12 @@
   "handle": "VITAL-NET",
   "description": "VITAL NET",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "186.232.16.0/20",
+      "187.94.253.0/24"
+    ],
+    "ipv6": [
+      "2804:3488::/32"
+    ]
   }
 }

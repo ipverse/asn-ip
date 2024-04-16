@@ -3,7 +3,12 @@
   "handle": "NCSHUB-SG-AP",
   "description": "NCS Pte Ltd",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "113.11.160.0/20",
+      "202.6.160.0/20"
+    ],
+    "ipv6": [
+      "2402:4800::/32"
+    ]
   }
 }

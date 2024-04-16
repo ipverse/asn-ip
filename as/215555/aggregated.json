@@ -3,7 +3,9 @@
   "handle": "JAMES-BOWERS",
   "description": "James BOWERS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.152.58.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "MAINEHEALTH-MAINE-MEDICAL-CENTER",
   "description": "MaineHealth Maine Medical Center",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "63.247.48.0/20"
+    ],
     "ipv6": []
   }
 }

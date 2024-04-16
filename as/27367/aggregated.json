@@ -3,7 +3,11 @@
   "handle": "PUSHWARE",
   "description": "Pushware Wireless Inc",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "198.245.177.0/24"
+    ],
+    "ipv6": [
+      "2620:111:e008::/45"
+    ]
   }
 }

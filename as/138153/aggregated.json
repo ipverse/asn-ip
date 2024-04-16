@@ -3,7 +3,9 @@
   "handle": "ISOTONPTYLTD-AP",
   "description": "Oasis Systems",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.183.220.0/24"
+    ],
     "ipv6": []
   }
 }

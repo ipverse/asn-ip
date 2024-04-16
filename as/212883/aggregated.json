@@ -3,7 +3,9 @@
   "handle": "ORION",
   "description": "ORION LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.232.112.0/24"
+    ],
     "ipv6": []
   }
 }

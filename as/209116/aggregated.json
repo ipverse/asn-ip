@@ -3,7 +3,9 @@
   "handle": "WEBPRO",
   "description": "LLC WEB PRO",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "5.181.248.0/22"
+    ],
     "ipv6": []
   }
 }

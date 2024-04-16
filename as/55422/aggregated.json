@@ -3,7 +3,9 @@
   "handle": "IPL-AP",
   "description": "Interactive Pty Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "182.23.212.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "ANGELINKS",
   "description": "XEFI LYON SAS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "94.231.40.0/22"
+    ],
     "ipv6": []
   }
 }

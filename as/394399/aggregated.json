@@ -3,7 +3,9 @@
   "handle": "LACA",
   "description": "Licking Area Computer Association",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "208.108.136.0/21"
+    ],
     "ipv6": []
   }
 }

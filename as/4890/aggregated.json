@@ -3,7 +3,9 @@
   "handle": "RICHLINE-FL",
   "description": "Richline Group Inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.132.206.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "MPLS-PUBLIC-SCHOOLS",
   "description": "Minneapolis Public Schools",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "205.215.128.0/18"
+    ],
     "ipv6": []
   }
 }

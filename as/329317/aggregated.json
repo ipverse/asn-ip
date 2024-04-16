@@ -3,7 +3,9 @@
   "handle": "MINNTECH-PTY-LIMITED",
   "description": "Minntech (Pty) Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "102.211.92.0/22"
+    ],
     "ipv6": []
   }
 }

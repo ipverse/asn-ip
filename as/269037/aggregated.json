@@ -3,7 +3,9 @@
   "handle": "SEEG-SERVICOS-TECNOLOGIAS",
   "description": "SEEG SERVICOS E TECNOLOGIAS LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.178.112.0/22"
+    ],
     "ipv6": []
   }
 }

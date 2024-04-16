@@ -3,7 +3,9 @@
   "handle": "FPC",
   "description": "Ogden News Publishing of Ohio, Inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "70.133.226.0/23"
+    ],
     "ipv6": []
   }
 }

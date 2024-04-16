@@ -3,7 +3,9 @@
   "handle": "AISD",
   "description": "Amarillo ISD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "167.88.64.0/20"
+    ],
     "ipv6": []
   }
 }

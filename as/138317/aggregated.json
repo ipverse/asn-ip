@@ -3,7 +3,9 @@
   "handle": "GAURAVCO",
   "description": "Gaurav Communication Pvt. Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.132.196.0/22"
+    ],
     "ipv6": []
   }
 }

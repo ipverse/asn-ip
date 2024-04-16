@@ -3,7 +3,9 @@
   "handle": "CITYOFMARION-AP",
   "description": "City of Marion",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "203.28.46.0/23"
+    ],
     "ipv6": []
   }
 }

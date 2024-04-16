@@ -3,7 +3,9 @@
   "handle": "AEGIS-INSURANCE-SERVICES-INC",
   "description": "AEGIS Insurance Services, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "206.223.18.0/24"
+    ],
     "ipv6": []
   }
 }

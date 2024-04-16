@@ -3,7 +3,9 @@
   "handle": "OD-EU-TELFORD",
   "description": "Viking Office Europe B.V.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.224.52.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "NEW-CONNECTION",
   "description": "NEWNET LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.15.54.0/24"
+    ],
     "ipv6": []
   }
 }

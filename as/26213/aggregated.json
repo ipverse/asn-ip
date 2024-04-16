@@ -3,7 +3,9 @@
   "handle": "DMSMAIN",
   "description": "Dealer Marketing Services",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.158.25.0/24"
+    ],
     "ipv6": []
   }
 }

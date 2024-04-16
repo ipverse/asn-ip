@@ -3,7 +3,9 @@
   "handle": "EIA",
   "description": "ERBIL INTERNATIONAL AIRPORT",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.118.8.0/22"
+    ],
     "ipv6": []
   }
 }

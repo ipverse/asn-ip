@@ -3,7 +3,11 @@
   "handle": "GREY",
   "description": "FOP Kovalchuk Igor Vasilevich",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.218.192.0/23",
+      "195.20.4.0/23",
+      "195.20.6.0/24"
+    ],
     "ipv6": []
   }
 }

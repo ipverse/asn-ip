@@ -3,7 +3,9 @@
   "handle": "ODKNET",
   "description": "Odense Kommune",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.16.156.0/22"
+    ],
     "ipv6": []
   }
 }

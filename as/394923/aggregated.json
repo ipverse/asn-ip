@@ -3,7 +3,12 @@
   "handle": "ARTFILES-LLC",
   "description": "Artfiles LLC",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "31.210.148.0/23",
+      "185.90.244.0/22"
+    ],
+    "ipv6": [
+      "2602:ff52::/48"
+    ]
   }
 }

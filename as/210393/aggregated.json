@@ -3,7 +3,10 @@
   "handle": "EVGROUP",
   "description": "EV Group GmbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "85.31.6.0/24",
+      "178.211.158.0/24"
+    ],
     "ipv6": []
   }
 }

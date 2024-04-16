@@ -3,7 +3,11 @@
   "handle": "AFILIAS-NRT1",
   "description": "Afilias, Inc.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "199.19.52.0/24"
+    ],
+    "ipv6": [
+      "2001:500:a::/48"
+    ]
   }
 }

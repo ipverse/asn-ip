@@ -3,7 +3,10 @@
   "handle": "JISB",
   "description": "Jordan Islamic Bank Plc. Co.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.24.128.0/23",
+      "185.24.130.0/24"
+    ],
     "ipv6": []
   }
 }

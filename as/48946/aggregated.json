@@ -3,7 +3,9 @@
   "handle": "KOMF",
   "description": "CJSC Comfortel",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "89.208.100.0/24"
+    ],
     "ipv6": []
   }
 }

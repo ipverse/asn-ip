@@ -3,7 +3,9 @@
   "handle": "TEBBANKA",
   "description": "Turk Ekonomi Bankasi Anonim Sirketi",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "213.148.64.0/19"
+    ],
     "ipv6": []
   }
 }

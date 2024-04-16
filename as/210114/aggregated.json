@@ -3,7 +3,9 @@
   "handle": "HUNGAROCONTROL",
   "description": "HungaroControl Pte.Ltd.Co.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.234.188.0/22"
+    ],
     "ipv6": []
   }
 }

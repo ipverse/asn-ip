@@ -3,7 +3,11 @@
   "handle": "NRI",
   "description": "Corporation for National Research Initiatives",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "65.194.67.0/24"
+    ],
+    "ipv6": [
+      "2602:80d:3000::/44"
+    ]
   }
 }

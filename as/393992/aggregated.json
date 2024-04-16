@@ -3,7 +3,9 @@
   "handle": "TOWNOFBROOKHAVEN",
   "description": "Town of Brookhaven",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.94.72.0/24"
+    ],
     "ipv6": []
   }
 }

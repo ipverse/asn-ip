@@ -3,7 +3,9 @@
   "handle": "GAGOSIAN-GALLERY",
   "description": "Gagosian Gallery, Inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "65.206.71.0/24"
+    ],
     "ipv6": []
   }
 }

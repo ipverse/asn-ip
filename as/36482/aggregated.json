@@ -3,7 +3,10 @@
   "handle": "PLACER",
   "description": "County of Placer",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.103.32.0/20",
+      "199.103.48.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "IWAY-NETWORK",
   "description": "Afsat Communications Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "77.220.0.0/20"
+    ],
     "ipv6": []
   }
 }

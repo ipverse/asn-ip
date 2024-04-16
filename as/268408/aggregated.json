@@ -3,7 +3,11 @@
   "handle": "SMART-SOLUES",
   "description": "Smart Solues",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.160.124.0/22"
+    ],
+    "ipv6": [
+      "2804:50c0::/32"
+    ]
   }
 }

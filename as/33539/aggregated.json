@@ -3,7 +3,9 @@
   "handle": "ISP-MANAGEMENT",
   "description": "ISP Management, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "204.124.116.0/22"
+    ],
     "ipv6": []
   }
 }

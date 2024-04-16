@@ -3,7 +3,10 @@
   "handle": "SKYSYSTEMS",
   "description": "SkySystems LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "5.1.47.0/24",
+      "5.180.17.0/24"
+    ],
     "ipv6": []
   }
 }

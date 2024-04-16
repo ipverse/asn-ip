@@ -3,7 +3,11 @@
   "handle": "RENOVENET-TELECOMUNICACOES",
   "description": "RENOVENET TELECOMUNICACOES LTDA - ME",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "170.79.168.0/22"
+    ],
+    "ipv6": [
+      "2804:35b8::/32"
+    ]
   }
 }

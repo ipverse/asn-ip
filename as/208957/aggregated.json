@@ -3,7 +3,9 @@
   "handle": "FR2ISR",
   "description": "Ingenierie Informatique Systeme Et Reseau SARL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "5.182.168.0/22"
+    ],
     "ipv6": []
   }
 }

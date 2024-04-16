@@ -3,7 +3,9 @@
   "handle": "ASMANNET",
   "description": "Izabela Leniartek trading as WDESIGN",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.218.176.0/22"
+    ],
     "ipv6": []
   }
 }

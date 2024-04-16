@@ -3,7 +3,12 @@
   "handle": "SHARPSTREAM",
   "description": "Sharpstream Ltd",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "91.193.244.0/22",
+      "193.27.42.0/24"
+    ],
+    "ipv6": [
+      "2a0e:9ac0::/32"
+    ]
   }
 }

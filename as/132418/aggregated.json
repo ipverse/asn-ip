@@ -3,7 +3,10 @@
   "handle": "OUTSCALE-AP",
   "description": "Outscale SAS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "24.230.16.0/20",
+      "103.20.172.0/22"
+    ],
     "ipv6": []
   }
 }

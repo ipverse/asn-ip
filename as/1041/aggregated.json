@@ -3,7 +3,9 @@
   "handle": "KMB3",
   "description": "Kimberly-Clark Corporation",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "205.203.88.0/23"
+    ],
     "ipv6": []
   }
 }

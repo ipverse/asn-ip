@@ -3,7 +3,9 @@
   "handle": "BINKBROADBAND",
   "description": "BINK BROADBAND LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.60.196.0/23"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,11 @@
   "handle": "MTCCC",
   "description": "Monona Terrace Community and Convention Center",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "205.213.215.0/24"
+    ],
+    "ipv6": [
+      "2001:4e0:1050::/48"
+    ]
   }
 }

@@ -3,7 +3,11 @@
   "handle": "CHP-CONSULTING",
   "description": "Alfa Financial Software Inc",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "8.22.137.0/24"
+    ],
+    "ipv6": [
+      "2620:c7:c000::/48"
+    ]
   }
 }

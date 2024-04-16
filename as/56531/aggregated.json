@@ -3,7 +3,11 @@
   "handle": "FRITIDSRESOR",
   "description": "TUI Sverige AB",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "91.223.92.0/24"
+    ],
+    "ipv6": [
+      "2001:67c:78c::/48"
+    ]
   }
 }

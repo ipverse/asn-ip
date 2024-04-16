@@ -3,7 +3,9 @@
   "handle": "USFHP-PACMED",
   "description": "PACMED CLINICS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "204.58.221.0/24"
+    ],
     "ipv6": []
   }
 }

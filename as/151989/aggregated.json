@@ -3,7 +3,9 @@
   "handle": "OMARFARUK-AP",
   "description": "New Generation",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "115.84.168.0/23"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "HYUNDAI-INFORMATION-SERVICE-NORTH-AMERICA",
   "description": "Kia America, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "208.10.29.0/24"
+    ],
     "ipv6": []
   }
 }

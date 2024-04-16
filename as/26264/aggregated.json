@@ -3,7 +3,9 @@
   "handle": "TVI",
   "description": "TVI Inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "198.97.232.0/24"
+    ],
     "ipv6": []
   }
 }

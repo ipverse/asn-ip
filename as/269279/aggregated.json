@@ -3,7 +3,9 @@
   "handle": "ARENA-TELECOM-COMERCIO",
   "description": "ARENA TELECOM COMERCIO DE EQUIPAMENTOS DE INFORMA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.183.96.0/22"
+    ],
     "ipv6": []
   }
 }

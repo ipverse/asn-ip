@@ -3,7 +3,10 @@
   "handle": "FUJITSU-USA",
   "description": "Fujitsu North America, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "148.57.146.0/23",
+      "148.57.148.0/24"
+    ],
     "ipv6": []
   }
 }

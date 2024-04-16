@@ -3,7 +3,9 @@
   "handle": "BSOURCE",
   "description": "Avaloq Sourcing (Switzerland \u0026 Liechtenstein) SA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "217.26.32.0/20"
+    ],
     "ipv6": []
   }
 }

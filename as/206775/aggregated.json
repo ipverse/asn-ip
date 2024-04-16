@@ -3,7 +3,12 @@
   "handle": "NOVOMIND",
   "description": "novomind AG",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.132.68.0/22",
+      "185.124.243.0/24"
+    ],
+    "ipv6": [
+      "2a10:1340::/29"
+    ]
   }
 }

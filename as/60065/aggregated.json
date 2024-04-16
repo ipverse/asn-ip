@@ -3,7 +3,9 @@
   "handle": "LICARD-EU",
   "description": "OOO LICARD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.226.178.0/24"
+    ],
     "ipv6": []
   }
 }

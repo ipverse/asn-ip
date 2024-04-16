@@ -3,7 +3,11 @@
   "handle": "FLASHNET-PROVEDOR-LTDAME",
   "description": "FLASHNET PROVEDOR LTDA.ME",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.225.76.0/22"
+    ],
+    "ipv6": [
+      "2804:7520::/32"
+    ]
   }
 }

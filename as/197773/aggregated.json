@@ -3,7 +3,9 @@
   "handle": "EESK",
   "description": "JSC Ekaterinburgskaja jelektrosetevaja kompanija",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.226.185.0/24"
+    ],
     "ipv6": []
   }
 }

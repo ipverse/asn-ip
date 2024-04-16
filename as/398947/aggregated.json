@@ -3,7 +3,9 @@
   "handle": "CABLECOLOR-MIA-01",
   "description": "CABLE COLOR LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.252.192.0/22"
+    ],
     "ipv6": []
   }
 }

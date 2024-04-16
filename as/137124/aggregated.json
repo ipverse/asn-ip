@@ -3,7 +3,9 @@
   "handle": "CTRONIX-IN",
   "description": "Jai Mata Di Telectronix Private Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.112.12.0/22"
+    ],
     "ipv6": []
   }
 }

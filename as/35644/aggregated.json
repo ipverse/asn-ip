@@ -3,7 +3,9 @@
   "handle": "IQMEN",
   "description": "IQMen - Information Business Systems JSC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.247.220.0/24"
+    ],
     "ipv6": []
   }
 }

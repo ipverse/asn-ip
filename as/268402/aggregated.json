@@ -3,9 +3,11 @@
   "handle": "CALIFORNIA-TELECOM",
   "description": "CALIFORNIA TELECOM LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.160.16.0/22"
+    ],
     "ipv6": [
-      "2804:50a8:4000::/36"
+      "2804:50a8::/32"
     ]
   }
 }

@@ -3,7 +3,9 @@
   "handle": "HOUSTON-BAPTIST-UNIVERSITY",
   "description": "HBU.edu",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "66.85.69.0/24"
+    ],
     "ipv6": []
   }
 }

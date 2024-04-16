@@ -3,7 +3,10 @@
   "handle": "RAMBUS",
   "description": "Rambus",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.86.86.0/24",
+      "198.147.243.0/24"
+    ],
     "ipv6": []
   }
 }

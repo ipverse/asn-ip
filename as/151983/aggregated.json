@@ -3,7 +3,10 @@
   "handle": "OISP-AP",
   "description": "Orbit Internet Service Provider Pvt Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.104.87.0/24",
+      "103.253.18.0/23"
+    ],
     "ipv6": []
   }
 }

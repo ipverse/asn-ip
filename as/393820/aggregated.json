@@ -3,7 +3,9 @@
   "handle": "22ND-DAA",
   "description": "22nd District Agricultural Association",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.108.227.0/24"
+    ],
     "ipv6": []
   }
 }

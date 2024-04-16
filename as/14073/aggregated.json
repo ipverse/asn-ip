@@ -3,7 +3,10 @@
   "handle": "NEXTJUMPINC",
   "description": "Next Jump, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "74.114.244.0/22",
+      "192.94.252.0/23"
+    ],
     "ipv6": []
   }
 }

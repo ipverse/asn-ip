@@ -3,7 +3,9 @@
   "handle": "ADKL",
   "description": "Amt der Kaerntner Landesregierung",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.227.128.0/23"
+    ],
     "ipv6": []
   }
 }

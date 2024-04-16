@@ -3,7 +3,12 @@
   "handle": "TRANSATEL-US",
   "description": "TRANSATEL",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "140.174.33.0/24",
+      "204.69.235.0/24"
+    ],
+    "ipv6": [
+      "2604:51c0::/32"
+    ]
   }
 }

@@ -3,7 +3,9 @@
   "handle": "TCOTCOA-AP",
   "description": "The Corporation of the City of Adelaide",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.209.191.0/24"
+    ],
     "ipv6": []
   }
 }

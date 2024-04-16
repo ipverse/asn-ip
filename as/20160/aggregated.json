@@ -3,7 +3,10 @@
   "handle": "LSCPA",
   "description": "Lamar State College - Port Arthur",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.83.216.0/23",
+      "199.83.219.0/24"
+    ],
     "ipv6": []
   }
 }

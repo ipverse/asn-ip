@@ -3,7 +3,9 @@
   "handle": "IDNIC-CSSMEDIA-ID",
   "description": "PT Cahaya Sinergi Semesta",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.167.220.0/23"
+    ],
     "ipv6": []
   }
 }

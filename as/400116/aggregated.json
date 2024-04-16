@@ -3,7 +3,9 @@
   "handle": "COLDIST-DAT1",
   "description": "COLUMBIA DISTRIBUTING",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "52.144.24.0/24"
+    ],
     "ipv6": []
   }
 }

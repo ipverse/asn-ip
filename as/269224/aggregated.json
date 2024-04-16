@@ -3,7 +3,11 @@
   "handle": "UNIVERSIDADE-LA-SALLE",
   "description": "Universidade La Salle",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.181.172.0/22"
+    ],
+    "ipv6": [
+      "2801:80:36e0::/48"
+    ]
   }
 }

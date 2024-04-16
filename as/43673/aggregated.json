@@ -3,7 +3,10 @@
   "handle": "MULTICARTA-TECH",
   "description": "Multicarta LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "82.196.67.0/24",
+      "91.198.98.0/24"
+    ],
     "ipv6": []
   }
 }

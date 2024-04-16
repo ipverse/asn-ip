@@ -3,7 +3,9 @@
   "handle": "RU-LANCLOUD-AS01",
   "description": "LANKEY INFORMATION TECHNOLOGIES LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.84.84.0/22"
+    ],
     "ipv6": []
   }
 }

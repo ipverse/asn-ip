@@ -3,7 +3,10 @@
   "handle": "PCESYSTEMS",
   "description": "PCE Systems",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "8.17.200.0/24",
+      "172.83.151.0/24"
+    ],
     "ipv6": []
   }
 }

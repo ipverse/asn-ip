@@ -3,7 +3,9 @@
   "handle": "SOUTH-PLAINS-ELECTRIC-COOP",
   "description": "South Plains Electric Cooperative, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "12.178.149.0/24"
+    ],
     "ipv6": []
   }
 }

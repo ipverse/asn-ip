@@ -3,7 +3,9 @@
   "handle": "MCSO-PSC-1",
   "description": "Monmouth County Sheriff\u0027s Office",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "8.36.81.0/24"
+    ],
     "ipv6": []
   }
 }

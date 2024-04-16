@@ -3,7 +3,9 @@
   "handle": "HC",
   "description": "Holland College",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "142.87.0.0/16"
+    ],
     "ipv6": []
   }
 }

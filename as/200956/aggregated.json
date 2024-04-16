@@ -3,7 +3,9 @@
   "handle": "DTES",
   "description": "Deloitte, S.L.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.90.28.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,10 @@
   "handle": "REMPREX-BGP",
   "description": "REMPREX, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "12.69.106.0/24",
+      "50.235.135.0/24"
+    ],
     "ipv6": []
   }
 }

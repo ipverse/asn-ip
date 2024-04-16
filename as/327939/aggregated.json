@@ -3,7 +3,9 @@
   "handle": "LOGICALIS",
   "description": "Logicalis SA (PTY) Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "196.13.176.0/21"
+    ],
     "ipv6": []
   }
 }

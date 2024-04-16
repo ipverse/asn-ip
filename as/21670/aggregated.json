@@ -3,7 +3,9 @@
   "handle": "BPC-CERMAK",
   "description": "Berlin Packaging, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.57.185.0/24"
+    ],
     "ipv6": []
   }
 }

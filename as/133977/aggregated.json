@@ -3,7 +3,10 @@
   "handle": "INPL-IN",
   "description": "Ishan Netsol Pvt Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.116.176.0/24",
+      "103.116.179.0/24"
+    ],
     "ipv6": []
   }
 }

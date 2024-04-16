@@ -3,7 +3,9 @@
   "handle": "AMGH-WPS",
   "description": "Air Medical Group Holdings",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.96.140.0/24"
+    ],
     "ipv6": []
   }
 }

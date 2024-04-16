@@ -3,7 +3,9 @@
   "handle": "VALCANALE-NET",
   "description": "Valcanale Energia Srl",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.14.160.0/22"
+    ],
     "ipv6": []
   }
 }

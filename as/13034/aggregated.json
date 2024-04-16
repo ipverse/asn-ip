@@ -3,7 +3,10 @@
   "handle": "PAGESJAUNES",
   "description": "SOLOCAL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.252.138.0/24",
+      "193.252.242.0/23"
+    ],
     "ipv6": []
   }
 }

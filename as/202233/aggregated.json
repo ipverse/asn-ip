@@ -3,7 +3,10 @@
   "handle": "ASGTLSAT",
   "description": "GLOBAL TELESAT S.L",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.77.197.0/24",
+      "213.4.126.0/24"
+    ],
     "ipv6": []
   }
 }

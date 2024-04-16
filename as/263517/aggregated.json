@@ -3,7 +3,11 @@
   "handle": "ACESSO-TELECOMUNICACOES",
   "description": "Acesso Telecomunicacoes LTDA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "191.243.224.0/20"
+    ],
+    "ipv6": [
+      "2804:1320::/32"
+    ]
   }
 }

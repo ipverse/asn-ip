@@ -3,7 +3,9 @@
   "handle": "DATAART-BEG",
   "description": "DataArt Technologies UK Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.206.224.0/23"
+    ],
     "ipv6": []
   }
 }

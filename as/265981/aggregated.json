@@ -3,7 +3,11 @@
   "handle": "LINKNET-TELECOMUNICAES",
   "description": "Linknet Telecomunicaes LTDA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "181.191.12.0/22"
+    ],
+    "ipv6": [
+      "2804:40c8::/32"
+    ]
   }
 }

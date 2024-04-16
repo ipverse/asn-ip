@@ -3,7 +3,9 @@
   "handle": "ZULUCARE",
   "description": "PixelRiver",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "67.219.176.0/22"
+    ],
     "ipv6": []
   }
 }

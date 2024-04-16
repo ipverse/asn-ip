@@ -3,7 +3,9 @@
   "handle": "IRONTONTELEPHONECO",
   "description": "Ironton Telephone Company",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "204.186.20.0/24"
+    ],
     "ipv6": []
   }
 }

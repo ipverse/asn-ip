@@ -3,7 +3,9 @@
   "handle": "TRACITY",
   "description": "Tracity Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "190.7.160.0/20"
+    ],
     "ipv6": []
   }
 }

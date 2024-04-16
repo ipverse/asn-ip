@@ -3,7 +3,9 @@
   "handle": "SPHMEDIALIMITED-AP",
   "description": "SPH Media Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "202.27.16.0/20"
+    ],
     "ipv6": []
   }
 }

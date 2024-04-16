@@ -3,7 +3,9 @@
   "handle": "RAFFERTYCAPITALMARKETS",
   "description": "RAFFERTY CAPITAL MARKETS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "208.79.84.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "SEI",
   "description": "SECURITY EQUIPMENT INC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "208.79.7.0/24"
+    ],
     "ipv6": []
   }
 }

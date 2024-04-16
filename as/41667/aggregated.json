@@ -3,7 +3,9 @@
   "handle": "TAMICO",
   "description": "Ltd TAMI \u0026 Co",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.219.104.0/24"
+    ],
     "ipv6": []
   }
 }

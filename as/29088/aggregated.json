@@ -3,7 +3,10 @@
   "handle": "BAYER",
   "description": "Bayer AG",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "149.234.127.0/24",
+      "193.169.50.0/24"
+    ],
     "ipv6": []
   }
 }

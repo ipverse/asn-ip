@@ -3,7 +3,9 @@
   "handle": "GLOBALLIG-TELECOMUNICACOES",
   "description": "GLOBALLIG TELECOMUNICACOES LTDA - ME",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "181.192.104.0/22"
+    ],
     "ipv6": []
   }
 }

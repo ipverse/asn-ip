@@ -3,7 +3,10 @@
   "handle": "BRAINTEC",
   "description": "Corelia SAS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.147.0.0/24",
+      "193.93.8.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,11 @@
   "handle": "ADMIN-ON-DEMAND-LLC",
   "description": "Admin on Demand, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.81.130.0/23",
+      "38.109.143.0/24",
+      "162.248.188.0/22"
+    ],
     "ipv6": []
   }
 }

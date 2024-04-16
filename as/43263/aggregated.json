@@ -3,7 +3,10 @@
   "handle": "SMARTSYSTEMS",
   "description": "SMARTSYSTEMS LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "62.233.46.0/24",
+      "194.61.0.0/22"
+    ],
     "ipv6": []
   }
 }

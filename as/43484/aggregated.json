@@ -3,7 +3,11 @@
   "handle": "SIEMENS-INDUSTRY-SOFTWARE-LIMITED-EUROPE",
   "description": "Siemens Industry Software Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "139.181.18.0/24",
+      "139.181.44.0/22",
+      "192.94.30.0/23"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "EL-DALLAS",
   "description": "Elevated Computing LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.139.5.0/24"
+    ],
     "ipv6": []
   }
 }

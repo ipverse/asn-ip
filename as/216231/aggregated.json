@@ -3,7 +3,9 @@
   "handle": "AZ-HYPERNET",
   "description": "Alnet LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "37.32.76.0/24"
+    ],
     "ipv6": []
   }
 }

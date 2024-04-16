@@ -3,7 +3,11 @@
   "handle": "RISCH",
   "description": "Dr. Risch AG",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "185.77.44.0/22"
+    ],
+    "ipv6": [
+      "2a03:5260::/32"
+    ]
   }
 }

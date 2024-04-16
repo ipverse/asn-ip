@@ -3,7 +3,9 @@
   "handle": "PETERHOST-MOSCOW",
   "description": "JSC RU-CENTER",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "80.93.56.0/21"
+    ],
     "ipv6": []
   }
 }

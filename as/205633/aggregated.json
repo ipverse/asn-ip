@@ -3,7 +3,9 @@
   "handle": "CAMULTISERVICES",
   "description": "ARISTID HUB SAS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.198.128.0/22"
+    ],
     "ipv6": []
   }
 }

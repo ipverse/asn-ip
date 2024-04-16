@@ -3,7 +3,10 @@
   "handle": "LETIT",
   "description": "Letit LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.1.145.0/24",
+      "194.85.68.0/22"
+    ],
     "ipv6": []
   }
 }

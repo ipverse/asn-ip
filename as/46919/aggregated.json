@@ -3,7 +3,9 @@
   "handle": "QRM",
   "description": "Quantitative Risk Management, Incorporated",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "208.252.128.0/24"
+    ],
     "ipv6": []
   }
 }

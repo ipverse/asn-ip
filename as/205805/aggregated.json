@@ -3,7 +3,9 @@
   "handle": "VATTENFALLVINDDK",
   "description": "Vattenfall Vindkraft A/S",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.246.224.0/22"
+    ],
     "ipv6": []
   }
 }

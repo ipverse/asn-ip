@@ -3,7 +3,10 @@
   "handle": "LE-FAVI-DANIEL-OSVALDO",
   "description": "LE FAVI DANIEL OSVALDO",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "170.245.208.0/24",
+      "170.245.210.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "KOMATSUDE",
   "description": "Komatsu Germany GmbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.124.196.0/23"
+    ],
     "ipv6": []
   }
 }

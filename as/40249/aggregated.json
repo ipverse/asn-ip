@@ -3,7 +3,9 @@
   "handle": "GOSKN-ICT",
   "description": "The Government of Saint Kitts and Nevis",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "216.211.197.0/24"
+    ],
     "ipv6": []
   }
 }

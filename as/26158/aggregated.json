@@ -3,7 +3,10 @@
   "handle": "USG-TOR",
   "description": "ULTIMATE SOFTWARE GROUP",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "135.84.79.0/24",
+      "206.152.14.0/24"
+    ],
     "ipv6": []
   }
 }

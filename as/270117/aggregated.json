@@ -3,7 +3,9 @@
   "handle": "T1-CHIHUAHUA",
   "description": "T1 CHIHUAHUA SA DE CV",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "200.219.44.0/22"
+    ],
     "ipv6": []
   }
 }

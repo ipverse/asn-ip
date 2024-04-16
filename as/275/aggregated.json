@@ -3,7 +3,11 @@
   "handle": "NTTA",
   "description": "NTT America, Inc.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "204.141.84.0/22"
+    ],
+    "ipv6": [
+      "2001:418:144d::/48"
+    ]
   }
 }

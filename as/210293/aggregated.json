@@ -3,7 +3,10 @@
   "handle": "KAPITALBANK",
   "description": "Kapital bank OJSC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "85.132.41.0/24",
+      "160.202.24.0/22"
+    ],
     "ipv6": []
   }
 }

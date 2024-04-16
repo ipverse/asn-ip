@@ -3,7 +3,9 @@
   "handle": "SIA-AVELACOM",
   "description": "SIA AVELACOM",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.213.251.0/24"
+    ],
     "ipv6": []
   }
 }

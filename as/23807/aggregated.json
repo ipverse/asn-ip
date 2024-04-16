@@ -3,7 +3,9 @@
   "handle": "RITSUMEI",
   "description": "Ritsumeikan University",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "133.19.0.0/16"
+    ],
     "ipv6": []
   }
 }

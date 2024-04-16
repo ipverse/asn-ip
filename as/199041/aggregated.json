@@ -3,7 +3,9 @@
   "handle": "RESENNET",
   "description": "ResenNet Aps",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.32.65.0/24"
+    ],
     "ipv6": []
   }
 }

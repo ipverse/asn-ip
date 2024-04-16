@@ -3,7 +3,9 @@
   "handle": "PRINTEMPS",
   "description": "PRINTEMPS SAS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "149.232.188.0/24"
+    ],
     "ipv6": []
   }
 }

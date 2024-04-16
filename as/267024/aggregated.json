@@ -3,9 +3,11 @@
   "handle": "ULTRANET-RS",
   "description": "ULTRANET RS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.227.112.0/22"
+    ],
     "ipv6": [
-      "2804:46fc:5010::/48"
+      "2804:46fc::/32"
     ]
   }
 }

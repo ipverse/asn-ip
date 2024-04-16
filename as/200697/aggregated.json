@@ -3,7 +3,12 @@
   "handle": "DIJLA-ISP",
   "description": "Dijlat Al-Khair for communications and internet Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.134.240.0/22",
+      "185.98.24.0/22",
+      "185.135.196.0/24",
+      "185.135.199.0/24"
+    ],
     "ipv6": []
   }
 }

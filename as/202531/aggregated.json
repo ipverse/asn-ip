@@ -3,7 +3,10 @@
   "handle": "GASTECOM",
   "description": "GASTECOM, SL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.151.219.0/24",
+      "185.206.254.0/24"
+    ],
     "ipv6": []
   }
 }

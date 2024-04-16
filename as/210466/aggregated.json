@@ -4,6 +4,9 @@
   "description": "Andreas Bofjall",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2001:67c:2b64::/48",
+      "2a0c:b641:5c0::/44"
+    ]
   }
 }

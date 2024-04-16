@@ -3,9 +3,13 @@
   "handle": "MEGA-IP-CONNECT",
   "description": "mega ip connect",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.235.20.0/22",
+      "205.164.248.0/22"
+    ],
     "ipv6": [
-      "2804:4ce0::/33"
+      "2804:4ce0::/32",
+      "2804:7c18::/32"
     ]
   }
 }

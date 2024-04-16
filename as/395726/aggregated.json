@@ -3,7 +3,9 @@
   "handle": "TRULITE",
   "description": "Trulite Glass \u0026 Aluminum Solutions, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "8.38.84.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "SMART-COM-LIMITED",
   "description": "SMART COM (BELIZE) LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.234.88.0/22"
+    ],
     "ipv6": []
   }
 }

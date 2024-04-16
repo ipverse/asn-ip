@@ -3,7 +3,9 @@
   "handle": "PVH-ASN-1",
   "description": "Poudre Valley Health Care, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "198.49.6.0/24"
+    ],
     "ipv6": []
   }
 }

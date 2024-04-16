@@ -3,7 +3,9 @@
   "handle": "VECTRON",
   "description": "Vectron Systems AG",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.39.236.0/22"
+    ],
     "ipv6": []
   }
 }

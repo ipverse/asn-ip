@@ -3,7 +3,10 @@
   "handle": "FIBRAFAST",
   "description": "Patrizi Emanuele",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.187.44.0/23",
+      "193.25.203.0/24"
+    ],
     "ipv6": []
   }
 }

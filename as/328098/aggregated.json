@@ -3,7 +3,10 @@
   "handle": "JENY-SAS",
   "description": "JENY SAS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "154.65.28.0/23",
+      "164.160.140.0/22"
+    ],
     "ipv6": []
   }
 }

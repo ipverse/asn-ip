@@ -3,7 +3,9 @@
   "handle": "EONSCOPE",
   "description": "EonScope, Inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.129.18.0/23"
+    ],
     "ipv6": []
   }
 }

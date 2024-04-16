@@ -3,7 +3,11 @@
   "handle": "PARAISONET",
   "description": "PARAISONET LTDA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "177.39.112.0/21"
+    ],
+    "ipv6": [
+      "2804:5c30::/32"
+    ]
   }
 }

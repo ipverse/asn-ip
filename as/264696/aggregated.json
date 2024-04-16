@@ -3,7 +3,11 @@
   "handle": "CABLEMAR",
   "description": "CABLEMAR",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "168.232.168.0/22"
+    ],
+    "ipv6": [
+      "2803:9340::/32"
+    ]
   }
 }

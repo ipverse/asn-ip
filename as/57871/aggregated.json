@@ -3,7 +3,9 @@
   "handle": "ASTELECENTR",
   "description": "TeleCentr Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "176.110.128.0/20"
+    ],
     "ipv6": []
   }
 }

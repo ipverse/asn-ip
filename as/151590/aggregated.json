@@ -3,7 +3,9 @@
   "handle": "IDNIC-PANDAWAGLOBAL-ID",
   "description": "PT Pandawa Global Telematika",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.250.14.0/23"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "BIKUPA",
   "description": "Bikupa Datacenter AB",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.68.244.0/22"
+    ],
     "ipv6": []
   }
 }

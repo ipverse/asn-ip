@@ -3,7 +3,9 @@
   "handle": "CABLE-VIDEO-COLOR",
   "description": "Cable Video Color SRL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "200.7.144.0/22"
+    ],
     "ipv6": []
   }
 }

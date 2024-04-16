@@ -3,7 +3,9 @@
   "handle": "B1RU",
   "description": "B1-IT LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.47.148.0/24"
+    ],
     "ipv6": []
   }
 }

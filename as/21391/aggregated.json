@@ -3,7 +3,9 @@
   "handle": "TDA",
   "description": "Algerian Broadcasting (Tele Diffusion d\u0027Algerie TDA)",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "80.246.0.0/20"
+    ],
     "ipv6": []
   }
 }

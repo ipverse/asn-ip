@@ -3,7 +3,9 @@
   "handle": "TABOADONET-COM-M",
   "description": "TaboadoNET Com e M ltda me",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "138.118.224.0/22"
+    ],
     "ipv6": []
   }
 }

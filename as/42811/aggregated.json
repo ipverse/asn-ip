@@ -3,7 +3,11 @@
   "handle": "HERAULT-TELECOM",
   "description": "Herault Telecom SAS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "81.14.0.0/17",
+      "95.176.0.0/17",
+      "185.147.220.0/22"
+    ],
     "ipv6": []
   }
 }

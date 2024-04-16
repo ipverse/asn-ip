@@ -3,7 +3,9 @@
   "handle": "CONTINUITY-SOLUTIONS",
   "description": "Accenture B. V.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.153.78.0/24"
+    ],
     "ipv6": []
   }
 }

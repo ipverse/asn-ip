@@ -3,7 +3,11 @@
   "handle": "HUBTEL-TECNOLOGIA-COMUNICAO",
   "description": "HUBTEL TECNOLOGIA DE COMUNICAO EIRELI",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.181.72.0/22"
+    ],
+    "ipv6": [
+      "2804:60c0::/32"
+    ]
   }
 }

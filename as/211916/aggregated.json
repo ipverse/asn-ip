@@ -3,7 +3,9 @@
   "handle": "ASVERSSA",
   "description": "Verssa Versatile Consultants SRL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "81.181.164.0/24"
+    ],
     "ipv6": []
   }
 }

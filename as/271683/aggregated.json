@@ -3,7 +3,12 @@
   "handle": "BRISNET-TELECOMUNICACOES-EIRELI",
   "description": "BRISNET TELECOMUNICACOES EIRELI",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "131.100.200.0/22",
+      "205.164.240.0/24"
+    ],
+    "ipv6": [
+      "2804:7f5c::/32"
+    ]
   }
 }

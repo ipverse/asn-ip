@@ -3,7 +3,11 @@
   "handle": "REDE-WINET-TELECOM",
   "description": "REDE WINET TELECOM",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "138.36.116.0/22"
+    ],
+    "ipv6": [
+      "2804:21d8::/32"
+    ]
   }
 }

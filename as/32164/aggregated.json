@@ -3,7 +3,10 @@
   "handle": "SECURED-SERVERS",
   "description": "SECURED SERVERS LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "64.38.240.0/22",
+      "74.119.28.0/23"
+    ],
     "ipv6": []
   }
 }

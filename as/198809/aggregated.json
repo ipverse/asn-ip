@@ -3,7 +3,9 @@
   "handle": "IP-PRASCHARUK",
   "description": "IE Prascharuk A.V.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.239.121.0/24"
+    ],
     "ipv6": []
   }
 }

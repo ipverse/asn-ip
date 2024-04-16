@@ -3,7 +3,10 @@
   "handle": "BORDERBGPNETWORK",
   "description": "Blueport Commerce",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.231.0.0/24",
+      "199.120.209.0/24"
+    ],
     "ipv6": []
   }
 }

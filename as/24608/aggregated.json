@@ -3,7 +3,10 @@
   "handle": "WINDTRE",
   "description": "WIND TRE S.P.A.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "31.188.0.0/15",
+      "37.226.0.0/15"
+    ],
     "ipv6": []
   }
 }

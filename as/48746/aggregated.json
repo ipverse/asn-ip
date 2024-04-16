@@ -3,7 +3,9 @@
   "handle": "ATSA-BG",
   "description": "Air Traffic Services Authority",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.212.37.0/24"
+    ],
     "ipv6": []
   }
 }

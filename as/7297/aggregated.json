@@ -3,7 +3,9 @@
   "handle": "AP",
   "description": "The Associated Press",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "165.1.0.0/18"
+    ],
     "ipv6": []
   }
 }

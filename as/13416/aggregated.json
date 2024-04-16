@@ -3,7 +3,9 @@
   "handle": "R-GREENBERG-ASSOC",
   "description": "R/Greenberg Associates",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "170.200.72.0/24"
+    ],
     "ipv6": []
   }
 }

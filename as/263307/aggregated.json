@@ -3,7 +3,9 @@
   "handle": "ITSONLINE-COM",
   "description": "ITSOnline Com. Ltda.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "191.7.20.0/22"
+    ],
     "ipv6": []
   }
 }

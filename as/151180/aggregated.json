@@ -3,7 +3,9 @@
   "handle": "IRIISSOL-IN",
   "description": "IRIISNET SOLUTIONS PRIVATE LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.224.175.0/24"
+    ],
     "ipv6": []
   }
 }

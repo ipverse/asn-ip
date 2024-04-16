@@ -3,7 +3,9 @@
   "handle": "SOTRUDNIK",
   "description": "Sotrudnik LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "31.43.192.0/19"
+    ],
     "ipv6": []
   }
 }

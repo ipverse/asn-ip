@@ -3,7 +3,10 @@
   "handle": "PTC",
   "description": "PREFIL TEC, INC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.147.99.0/24",
+      "38.147.118.0/24"
+    ],
     "ipv6": []
   }
 }

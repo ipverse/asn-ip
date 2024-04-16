@@ -3,7 +3,9 @@
   "handle": "ERISCO",
   "description": "ERISCO, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.111.200.0/22"
+    ],
     "ipv6": []
   }
 }

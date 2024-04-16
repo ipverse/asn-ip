@@ -3,7 +3,10 @@
   "handle": "RIMQ",
   "description": "RIMQ",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.21.180.0/24",
+      "199.21.183.0/24"
+    ],
     "ipv6": []
   }
 }

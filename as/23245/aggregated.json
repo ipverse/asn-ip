@@ -3,7 +3,9 @@
   "handle": "EADS-NORTH-AMERICA-AS01",
   "description": "Airbus Defense and Space, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "204.153.67.0/24"
+    ],
     "ipv6": []
   }
 }

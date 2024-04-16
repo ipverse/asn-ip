@@ -3,7 +3,9 @@
   "handle": "CDN",
   "description": "Charmway Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.185.28.0/23"
+    ],
     "ipv6": []
   }
 }

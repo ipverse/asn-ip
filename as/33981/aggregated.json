@@ -3,7 +3,9 @@
   "handle": "TSYS",
   "description": "Total System Services Processing Europe Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.150.182.0/23"
+    ],
     "ipv6": []
   }
 }

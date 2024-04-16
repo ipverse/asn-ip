@@ -3,7 +3,9 @@
   "handle": "PRESIDNCIA-REPBLICA",
   "description": "PRESIDNCIA DA REPBLICA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "170.246.252.0/22"
+    ],
     "ipv6": []
   }
 }

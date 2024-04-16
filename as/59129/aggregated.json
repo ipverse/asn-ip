@@ -3,7 +3,11 @@
   "handle": "LOGICLINKS",
   "description": "LogicLinks, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.90.16.0/23",
+      "219.100.180.0/23",
+      "219.100.182.0/24"
+    ],
     "ipv6": []
   }
 }

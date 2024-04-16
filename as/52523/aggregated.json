@@ -3,7 +3,9 @@
   "handle": "COMPANHIA-PAULISTA-FORCA-LUZ",
   "description": "COMPANHIA PAULISTA DE FORCA E LUZ",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "177.128.175.0/24"
+    ],
     "ipv6": []
   }
 }

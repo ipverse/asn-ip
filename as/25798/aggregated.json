@@ -3,7 +3,10 @@
   "handle": "NTS-HUNTSVILLE-01",
   "description": "Vexus Fiber",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.158.134.0/23",
+      "38.172.108.0/24"
+    ],
     "ipv6": []
   }
 }

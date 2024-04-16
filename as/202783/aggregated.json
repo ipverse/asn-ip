@@ -3,7 +3,9 @@
   "handle": "SWANN-MNT",
   "description": "NHS National Services Scotland",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "164.134.16.0/24"
+    ],
     "ipv6": []
   }
 }

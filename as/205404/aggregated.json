@@ -3,7 +3,9 @@
   "handle": "ARHIDES",
   "description": "Arhides d.o.o.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "145.14.5.0/24"
+    ],
     "ipv6": []
   }
 }

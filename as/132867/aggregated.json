@@ -3,7 +3,9 @@
   "handle": "FBSIPL-AP",
   "description": "Fidelity Business Services India Private Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.26.72.0/23"
+    ],
     "ipv6": []
   }
 }

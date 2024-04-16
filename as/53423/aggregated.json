@@ -3,7 +3,10 @@
   "handle": "BRAZOSWIFI",
   "description": "Brazos WiFi",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "69.5.192.0/19",
+      "192.171.200.0/21"
+    ],
     "ipv6": []
   }
 }

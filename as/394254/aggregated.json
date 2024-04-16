@@ -3,7 +3,9 @@
   "handle": "BLUESOFTWARE",
   "description": "BLUE SOFTWARE, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "50.233.93.0/24"
+    ],
     "ipv6": []
   }
 }

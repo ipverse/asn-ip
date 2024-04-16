@@ -3,7 +3,10 @@
   "handle": "TDISP",
   "description": "Trans Digital LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.212.56.0/24",
+      "91.226.187.0/24"
+    ],
     "ipv6": []
   }
 }

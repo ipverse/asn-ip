@@ -3,7 +3,9 @@
   "handle": "DCYBER",
   "description": "Dedicated Cyber Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.227.168.0/24"
+    ],
     "ipv6": []
   }
 }

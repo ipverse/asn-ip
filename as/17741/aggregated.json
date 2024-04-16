@@ -3,7 +3,10 @@
   "handle": "MEDOBJ01-AP",
   "description": "Medical Objects Pty Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "114.31.96.0/21",
+      "202.44.75.0/24"
+    ],
     "ipv6": []
   }
 }

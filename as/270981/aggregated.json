@@ -3,7 +3,9 @@
   "handle": "LEANDRO-VIEIRA-PINHEIRO",
   "description": "Leandro Vieira Pinheiro - ME",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "181.225.176.0/22"
+    ],
     "ipv6": []
   }
 }

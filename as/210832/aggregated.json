@@ -3,7 +3,10 @@
   "handle": "CERTIGNA-TESSI",
   "description": "Certigna SASU",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.199.221.0/24",
+      "185.149.14.0/24"
+    ],
     "ipv6": []
   }
 }

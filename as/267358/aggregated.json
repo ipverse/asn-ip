@@ -3,7 +3,9 @@
   "handle": "HD-COMUNICAES",
   "description": "HD COMUNICAES LTDA EPP",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.232.236.0/22"
+    ],
     "ipv6": []
   }
 }

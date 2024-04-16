@@ -3,7 +3,10 @@
   "handle": "MGTL-AP",
   "description": "Marga Global Telecom Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "42.156.32.0/22",
+      "103.89.180.0/22"
+    ],
     "ipv6": []
   }
 }

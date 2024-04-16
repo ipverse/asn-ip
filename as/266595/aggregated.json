@@ -3,7 +3,9 @@
   "handle": "NOVA-CONEXAO-INFORMATICA",
   "description": "NOVA CONEXAO INFORMATICA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.7.188.0/22"
+    ],
     "ipv6": []
   }
 }

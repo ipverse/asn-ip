@@ -3,7 +3,9 @@
   "handle": "ATVI-BEENOX-CAN",
   "description": "Activision Publishing, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "104.219.116.0/22"
+    ],
     "ipv6": []
   }
 }

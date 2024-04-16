@@ -3,7 +3,11 @@
   "handle": "USINA-SO-JOS-ESTIVA",
   "description": "Usina So Jos da Estiva S/A",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "177.23.247.0/24"
+    ],
+    "ipv6": [
+      "2801:80:460::/48"
+    ]
   }
 }

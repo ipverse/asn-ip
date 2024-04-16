@@ -3,7 +3,9 @@
   "handle": "ITIVITI-AP",
   "description": "Itiviti India Pvt Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.141.198.0/24"
+    ],
     "ipv6": []
   }
 }

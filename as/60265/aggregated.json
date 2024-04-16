@@ -3,7 +3,11 @@
   "handle": "QBIX",
   "description": "Qbix GmbH",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "91.199.126.0/24"
+    ],
+    "ipv6": [
+      "2a01:bf00:1000::/36"
+    ]
   }
 }

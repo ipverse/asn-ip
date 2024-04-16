@@ -3,7 +3,9 @@
   "handle": "PTII",
   "description": "Telekomunikasi Indonesia International PT",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "150.129.162.0/24"
+    ],
     "ipv6": []
   }
 }

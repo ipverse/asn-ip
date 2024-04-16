@@ -3,7 +3,9 @@
   "handle": "UNIVERSIDAD-SONORA",
   "description": "Universidad de Sonora",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "148.225.0.0/16"
+    ],
     "ipv6": []
   }
 }

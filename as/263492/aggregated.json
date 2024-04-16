@@ -3,7 +3,11 @@
   "handle": "VIPMAX-INTERNET",
   "description": "VIPMAX INTERNET LTDA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "191.243.36.0/22"
+    ],
+    "ipv6": [
+      "2804:12b0::/32"
+    ]
   }
 }

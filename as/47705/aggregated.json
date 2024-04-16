@@ -3,7 +3,12 @@
   "handle": "ZASTAVA-NET",
   "description": "FOP Masliy Kostyantin Mikhailovich",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "91.208.97.0/24",
+      "192.162.210.0/24"
+    ],
+    "ipv6": [
+      "2a02:2000:3c7::/48"
+    ]
   }
 }

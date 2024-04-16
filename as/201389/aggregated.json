@@ -3,7 +3,9 @@
   "handle": "ITEXPERT",
   "description": "I-T EXPERT LLC.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "95.85.85.0/24"
+    ],
     "ipv6": []
   }
 }

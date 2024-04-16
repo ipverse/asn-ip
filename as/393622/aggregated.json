@@ -3,7 +3,9 @@
   "handle": "PAFFORD-MEDICAL-SERVICES",
   "description": "PAFFORD MEDICAL SERVICES",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.55.217.0/24"
+    ],
     "ipv6": []
   }
 }

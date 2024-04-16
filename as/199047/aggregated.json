@@ -3,7 +3,9 @@
   "handle": "SDS",
   "description": "Swiss Data Safe AG",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "176.122.194.0/23"
+    ],
     "ipv6": []
   }
 }

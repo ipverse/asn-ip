@@ -3,7 +3,9 @@
   "handle": "RADIO-OPOLE",
   "description": "RADIO OPOLE S.A.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.47.151.0/24"
+    ],
     "ipv6": []
   }
 }

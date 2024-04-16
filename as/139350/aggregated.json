@@ -3,7 +3,9 @@
   "handle": "SURESTEONLINE-AP",
   "description": "Solaire Resort \u0026 Casino",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "112.198.6.0/24"
+    ],
     "ipv6": []
   }
 }

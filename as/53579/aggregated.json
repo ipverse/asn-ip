@@ -3,7 +3,9 @@
   "handle": "FLP-5",
   "description": "The Free Library of Philadelphia",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.98.224.0/24"
+    ],
     "ipv6": []
   }
 }

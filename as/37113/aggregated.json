@@ -3,7 +3,12 @@
   "handle": "TANGERINE-UG",
   "description": "Tangerine Limited",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "41.75.160.0/19",
+      "41.217.232.0/21"
+    ],
+    "ipv6": [
+      "2c0f:ff98::/32"
+    ]
   }
 }

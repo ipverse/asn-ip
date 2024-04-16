@@ -3,7 +3,9 @@
   "handle": "GROCERYOUTLET",
   "description": "Grocery Outlet Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "209.234.202.0/24"
+    ],
     "ipv6": []
   }
 }

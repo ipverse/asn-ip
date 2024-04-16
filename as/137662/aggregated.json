@@ -3,7 +3,9 @@
   "handle": "IDFC-IN",
   "description": "Idfc Bank Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.122.56.0/22"
+    ],
     "ipv6": []
   }
 }

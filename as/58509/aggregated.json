@@ -3,7 +3,9 @@
   "handle": "THE1-AP",
   "description": "THE UNITING CHURCH IN AUSTRALIA PROPERTY TRUST (Q.)",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "203.12.51.0/24"
+    ],
     "ipv6": []
   }
 }

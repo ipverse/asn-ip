@@ -3,7 +3,9 @@
   "handle": "SARKISOV-Y-L",
   "description": "Sarkisov-Y-L",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "79.174.191.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,10 @@
   "handle": "RACKONE",
   "description": "MM ONE Group Srl",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.78.64.0/22",
+      "185.131.212.0/22"
+    ],
     "ipv6": []
   }
 }

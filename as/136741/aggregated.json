@@ -3,7 +3,9 @@
   "handle": "CW-AP",
   "description": "Channel Wireless Pty Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.95.0.0/22"
+    ],
     "ipv6": []
   }
 }

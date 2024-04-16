@@ -3,7 +3,9 @@
   "handle": "IMD2",
   "description": "Infonet Media d.d.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.225.50.0/24"
+    ],
     "ipv6": []
   }
 }

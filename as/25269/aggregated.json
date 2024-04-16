@@ -3,7 +3,9 @@
   "handle": "UNEXBANK",
   "description": "Public Joint-stock company UNEX Bank",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.165.6.0/23"
+    ],
     "ipv6": []
   }
 }

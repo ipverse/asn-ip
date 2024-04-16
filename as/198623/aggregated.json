@@ -3,7 +3,11 @@
   "handle": "ISUMO-UK",
   "description": "ISUMO Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "37.77.192.0/21",
+      "37.123.248.0/21",
+      "193.104.81.0/24"
+    ],
     "ipv6": []
   }
 }

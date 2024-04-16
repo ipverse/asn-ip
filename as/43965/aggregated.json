@@ -4,7 +4,8 @@
   "description": "Tehran University of Medical Science",
   "subnets": {
     "ipv4": [
-      "194.225.48.0/21"
+      "194.225.48.0/20",
+      "194.225.192.0/19"
     ],
     "ipv6": []
   }

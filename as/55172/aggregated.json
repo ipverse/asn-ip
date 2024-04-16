@@ -3,7 +3,9 @@
   "handle": "EDA",
   "description": "9217-0182 Quebec inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "162.210.224.0/24"
+    ],
     "ipv6": []
   }
 }

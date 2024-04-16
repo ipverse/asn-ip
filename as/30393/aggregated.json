@@ -3,7 +3,9 @@
   "handle": "BMLCORP",
   "description": "Bill Me Later",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "208.76.140.0/22"
+    ],
     "ipv6": []
   }
 }

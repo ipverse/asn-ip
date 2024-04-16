@@ -3,7 +3,10 @@
   "handle": "CLOUDMINI-IN",
   "description": "CLOUDMINISTER TECHNOLOGIES PRIVATE LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.110.127.0/24",
+      "103.175.163.0/24"
+    ],
     "ipv6": []
   }
 }

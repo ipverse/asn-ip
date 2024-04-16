@@ -3,7 +3,9 @@
   "handle": "GDF-IL01",
   "description": "Grecian Delight Foods, Inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "104.238.239.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,12 @@
   "handle": "RELIANCE-RIL-AP",
   "description": "Reliance Industries Limited",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "49.40.59.0/24",
+      "116.50.64.0/18"
+    ],
+    "ipv6": [
+      "2402:8e00::/32"
+    ]
   }
 }

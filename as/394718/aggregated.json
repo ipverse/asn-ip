@@ -3,7 +3,9 @@
   "handle": "HISCOX",
   "description": "Hiscox Insurance Company Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "204.79.182.0/23"
+    ],
     "ipv6": []
   }
 }

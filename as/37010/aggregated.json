@@ -3,7 +3,9 @@
   "handle": "NATIONAL-UNIVERSITY-RWANDA",
   "description": "National University of Rwanda",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "41.222.244.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "NAFTOGAZ",
   "description": "National JSC Naftogaz Of Ukraine",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.237.64.0/24"
+    ],
     "ipv6": []
   }
 }

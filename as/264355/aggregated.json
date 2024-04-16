@@ -3,7 +3,9 @@
   "handle": "CAIS-NETWORK",
   "description": "Cais Network",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "131.108.240.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "SALESLV",
   "description": "SIA NESS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "159.148.160.0/24"
+    ],
     "ipv6": []
   }
 }

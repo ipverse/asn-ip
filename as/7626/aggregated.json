@@ -3,7 +3,9 @@
   "handle": "SCOURTFAMILY",
   "description": "SCOURTFAMILY",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "211.241.67.0/24"
+    ],
     "ipv6": []
   }
 }

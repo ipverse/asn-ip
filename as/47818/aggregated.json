@@ -3,7 +3,10 @@
   "handle": "MIPIH",
   "description": "Midi Picardie Informatique Hospitaliere",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.2.42.0/24",
+      "217.109.108.0/24"
+    ],
     "ipv6": []
   }
 }

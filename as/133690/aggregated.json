@@ -3,7 +3,9 @@
   "handle": "ROHELABB-IN",
   "description": "Rohela Broadband Network Pvt Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.154.56.0/23"
+    ],
     "ipv6": []
   }
 }

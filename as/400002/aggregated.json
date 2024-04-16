@@ -3,7 +3,9 @@
   "handle": "LIFENET-INC",
   "description": "LifeNet, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.238.31.0/24"
+    ],
     "ipv6": []
   }
 }

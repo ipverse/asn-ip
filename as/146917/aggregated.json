@@ -3,7 +3,9 @@
   "handle": "JDALLDAY-IN",
   "description": "JD ALLDAY NETSOL PRIVATE LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.172.10.0/23"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "DIGITALK-SG1",
   "description": "DIGITALK Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.32.77.0/24"
+    ],
     "ipv6": []
   }
 }

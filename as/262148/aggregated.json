@@ -3,7 +3,11 @@
   "handle": "UNIVERSIDAD-APEC",
   "description": "Universidad APEC",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "200.14.79.0/24"
+    ],
+    "ipv6": [
+      "2801:0:80::/48"
+    ]
   }
 }

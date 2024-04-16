@@ -3,7 +3,9 @@
   "handle": "VALLEY-PRESBYTERIAN-HOSPITAL",
   "description": "VPH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.104.148.0/24"
+    ],
     "ipv6": []
   }
 }

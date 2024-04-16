@@ -3,7 +3,9 @@
   "handle": "SLAVIA",
   "description": "LLC SLAVIYA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "85.192.13.0/24"
+    ],
     "ipv6": []
   }
 }

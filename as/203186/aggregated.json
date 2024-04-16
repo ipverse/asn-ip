@@ -3,7 +3,9 @@
   "handle": "MIRABANK",
   "description": "Mirabank a.d.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.132.144.0/22"
+    ],
     "ipv6": []
   }
 }

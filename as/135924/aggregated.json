@@ -3,7 +3,9 @@
   "handle": "FWD-VN",
   "description": "FWD Vietnam Life Insurance Company Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.99.252.0/22"
+    ],
     "ipv6": []
   }
 }

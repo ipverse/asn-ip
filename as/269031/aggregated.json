@@ -3,7 +3,11 @@
   "handle": "LIKE-PROVEDOR-INTERNET",
   "description": "LIKE PROVEDOR DE INTERNET LTDA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.177.60.0/22"
+    ],
+    "ipv6": [
+      "2804:5e68::/32"
+    ]
   }
 }

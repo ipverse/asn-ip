@@ -3,7 +3,9 @@
   "handle": "OTPUA",
   "description": "PJSC OTP Bank",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.248.93.0/24"
+    ],
     "ipv6": []
   }
 }

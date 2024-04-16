@@ -3,7 +3,9 @@
   "handle": "NEWSBOOKLIMITED-HK",
   "description": "Newsbook Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.27.0.0/24"
+    ],
     "ipv6": []
   }
 }

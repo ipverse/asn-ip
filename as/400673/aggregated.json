@@ -3,7 +3,11 @@
   "handle": "PREC-ASN-01",
   "description": "Pea River Electric Cooperative",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "158.120.64.0/21"
+    ],
+    "ipv6": [
+      "2607:1b40::/32"
+    ]
   }
 }

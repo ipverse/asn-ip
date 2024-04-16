@@ -3,7 +3,9 @@
   "handle": "TRANSOIL",
   "description": "Transoil LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "85.143.247.0/24"
+    ],
     "ipv6": []
   }
 }

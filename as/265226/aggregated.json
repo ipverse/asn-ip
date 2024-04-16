@@ -3,9 +3,12 @@
   "handle": "UNICONNECT-SERVICOS-TELECOMUNICACOES",
   "description": "UNICONNECT SERVICOS DE TELECOMUNICACOES LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "167.250.200.0/22"
+    ],
     "ipv6": [
-      "2804:2c8c::/34"
+      "2804:2c8c::/33",
+      "2804:2c8c:8000::/34"
     ]
   }
 }

@@ -3,7 +3,9 @@
   "handle": "VEA",
   "description": "Ventspils Augstskola",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.105.155.0/24"
+    ],
     "ipv6": []
   }
 }

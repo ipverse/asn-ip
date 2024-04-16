@@ -3,7 +3,9 @@
   "handle": "SOLIDNETWORK-01",
   "description": "SolidNetwork Technologies, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "104.247.88.0/24"
+    ],
     "ipv6": []
   }
 }

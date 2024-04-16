@@ -3,7 +3,10 @@
   "handle": "TRISAKTI-ID",
   "description": "Trisakti University",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.28.161.0/24",
+      "103.49.68.0/24"
+    ],
     "ipv6": []
   }
 }

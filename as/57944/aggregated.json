@@ -3,7 +3,11 @@
   "handle": "IPC",
   "description": "IP-Connect LLC",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "91.236.248.0/22"
+    ],
+    "ipv6": [
+      "2001:67c:440::/48"
+    ]
   }
 }

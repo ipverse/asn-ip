@@ -3,7 +3,9 @@
   "handle": "NTS-TYLER-01",
   "description": "Vexus Fiber",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "172.110.24.0/21"
+    ],
     "ipv6": []
   }
 }

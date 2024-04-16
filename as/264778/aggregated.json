@@ -3,7 +3,11 @@
   "handle": "TOTALCOM-VENEZUELA-CA",
   "description": "TotalCom Venezuela C.A.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "200.59.184.0/21"
+    ],
+    "ipv6": [
+      "2803:b500::/32"
+    ]
   }
 }

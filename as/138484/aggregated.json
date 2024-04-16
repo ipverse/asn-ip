@@ -3,7 +3,10 @@
   "handle": "HSRPL-AP",
   "description": "Hays Specialist Recruitment (Australia) Pty Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.126.194.0/24",
+      "103.134.65.0/24"
+    ],
     "ipv6": []
   }
 }

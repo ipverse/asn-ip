@@ -3,7 +3,11 @@
   "handle": "IDNIC-ARTAFLASH-ID",
   "description": "PT Arta Flash Sintesa Nusantara",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "103.166.226.0/23"
+    ],
+    "ipv6": [
+      "2401:4fa0::/32"
+    ]
   }
 }

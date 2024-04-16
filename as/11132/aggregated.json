@@ -3,7 +3,9 @@
   "handle": "JDA-EHEALTH-SYSTEMS",
   "description": "JDA eHealth Systems, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "205.247.133.0/24"
+    ],
     "ipv6": []
   }
 }

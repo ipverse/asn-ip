@@ -3,7 +3,9 @@
   "handle": "APAM-AU",
   "description": "Australia Pacific Airports (MELB) Pty. Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "183.177.120.0/22"
+    ],
     "ipv6": []
   }
 }

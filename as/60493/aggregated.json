@@ -3,7 +3,9 @@
   "handle": "FICOSA",
   "description": "Ficosa International, S.A.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.23.220.0/22"
+    ],
     "ipv6": []
   }
 }

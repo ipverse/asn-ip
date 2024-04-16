@@ -3,7 +3,9 @@
   "handle": "GBS",
   "description": "GOSPODARCZY BANK SPOLDZIELCZY W BARLINKU",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.28.177.0/24"
+    ],
     "ipv6": []
   }
 }

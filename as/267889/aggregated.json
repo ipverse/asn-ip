@@ -3,7 +3,9 @@
   "handle": "PROVINSAT-CAPITAL",
   "description": "PROVINSAT CAPITAL SA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.177.200.0/24"
+    ],
     "ipv6": []
   }
 }

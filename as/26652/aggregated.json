@@ -3,7 +3,9 @@
   "handle": "AIRSTREAM-BNC",
   "description": "Airstream Communications, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.110.192.0/20"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,11 @@
   "handle": "SET-SOLUES-TECNOLOGICAS",
   "description": "SET Solues Tecnologicas e Informatica Ltda",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "131.221.36.0/22"
+    ],
+    "ipv6": [
+      "2804:1e18::/32"
+    ]
   }
 }

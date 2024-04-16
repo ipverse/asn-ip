@@ -3,7 +3,9 @@
   "handle": "NRHSAS",
   "description": "Norman Regional Health System",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "198.100.42.0/23"
+    ],
     "ipv6": []
   }
 }

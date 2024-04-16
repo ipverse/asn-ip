@@ -3,7 +3,9 @@
   "handle": "SECRETARIA-ESTADO-EL",
   "description": "SECRETARIA DE ESTADO EN EL DESPACHO DE FINANZAS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.100.171.0/24"
+    ],
     "ipv6": []
   }
 }

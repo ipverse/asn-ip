@@ -3,7 +3,9 @@
   "handle": "NCLOUDTECH",
   "description": "Novye oblachnye technologii LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.32.60.0/22"
+    ],
     "ipv6": []
   }
 }

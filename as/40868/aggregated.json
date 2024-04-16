@@ -3,7 +3,9 @@
   "handle": "FCEC",
   "description": "Fannin County Electric Cooperative, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "142.202.45.0/24"
+    ],
     "ipv6": []
   }
 }

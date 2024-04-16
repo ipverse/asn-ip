@@ -3,7 +3,9 @@
   "handle": "NIOI-SET",
   "description": "National Insurance institute",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "69.7.78.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "MAHANSERVER",
   "description": "Andisheh Sabz Mahan Co. Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.206.229.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,12 @@
   "handle": "JIC-AP",
   "description": "JSLINK INTERNATIONAL CORPORATION",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.84.44.0/22",
+      "103.97.156.0/22",
+      "157.119.21.0/24",
+      "157.119.22.0/24"
+    ],
     "ipv6": []
   }
 }

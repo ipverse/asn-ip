@@ -3,7 +3,10 @@
   "handle": "VITERRA-REGINA",
   "description": "Viterra Inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "198.169.204.0/23",
+      "198.169.207.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "PCSB",
   "description": "Pinellas County Schools",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "168.213.0.0/17"
+    ],
     "ipv6": []
   }
 }

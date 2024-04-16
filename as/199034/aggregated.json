@@ -3,7 +3,9 @@
   "handle": "BPG",
   "description": "SIA Baltic project group",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "159.148.50.0/24"
+    ],
     "ipv6": []
   }
 }

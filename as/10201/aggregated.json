@@ -3,7 +3,9 @@
   "handle": "DWL-IN",
   "description": "Dishnet Wireless Limited. Broadband Wireless",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "202.148.192.0/20"
+    ],
     "ipv6": []
   }
 }

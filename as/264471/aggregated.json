@@ -3,7 +3,11 @@
   "handle": "UNIVERSIDADE-ESTADUAL-OESTE",
   "description": "UNIVERSIDADE ESTADUAL DO OESTE DO PARANA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "131.255.84.0/22"
+    ],
+    "ipv6": [
+      "2801:80:d90::/48"
+    ]
   }
 }

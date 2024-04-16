@@ -3,7 +3,9 @@
   "handle": "SECONDMIND",
   "description": "SECONDMIND LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.146.68.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "ITSB-AP",
   "description": "Innet Technologies Sdn Bhd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.199.216.0/22"
+    ],
     "ipv6": []
   }
 }

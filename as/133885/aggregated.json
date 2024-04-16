@@ -3,7 +3,9 @@
   "handle": "TRANSGRID-AU",
   "description": "Transgrid",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "203.32.224.0/19"
+    ],
     "ipv6": []
   }
 }

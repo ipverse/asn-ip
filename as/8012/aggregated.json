@@ -3,7 +3,10 @@
   "handle": "THE-BANK-OF-NEW-YORK-MELLON-CORPORATION",
   "description": "The Bank of New York Mellon Corporation",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "170.61.53.0/24",
+      "170.61.54.0/24"
+    ],
     "ipv6": []
   }
 }

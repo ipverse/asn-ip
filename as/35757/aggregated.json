@@ -3,7 +3,9 @@
   "handle": "GOCONTACT-PT",
   "description": "Gotelecom, S.A.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.133.137.0/24"
+    ],
     "ipv6": []
   }
 }

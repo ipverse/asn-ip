@@ -3,7 +3,11 @@
   "handle": "STEADFAST-INT",
   "description": "Steadfast",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "67.202.100.0/23"
+    ],
+    "ipv6": [
+      "2607:f128::/48"
+    ]
   }
 }

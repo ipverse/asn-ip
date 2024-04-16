@@ -3,7 +3,9 @@
   "handle": "GRINDROD",
   "description": "Grindrod Management Services (Pty) Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "196.216.172.0/22"
+    ],
     "ipv6": []
   }
 }

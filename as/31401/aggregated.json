@@ -3,7 +3,9 @@
   "handle": "SICAMSERV",
   "description": "Credito Agricola Servicos - Centro de Servicos Partilhados,ACE",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.27.11.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "NO",
   "description": "VGS Network LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "176.100.46.0/24"
+    ],
     "ipv6": []
   }
 }

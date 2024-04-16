@@ -3,7 +3,9 @@
   "handle": "MIDRANGE",
   "description": "Mid-Range Computer Group Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "162.210.180.0/22"
+    ],
     "ipv6": []
   }
 }

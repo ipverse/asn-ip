@@ -3,7 +3,9 @@
   "handle": "PLUSNET",
   "description": "Polkomtel Sp. z o.o.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "37.247.244.0/23"
+    ],
     "ipv6": []
   }
 }

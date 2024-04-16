@@ -3,7 +3,9 @@
   "handle": "FASTWAYVP-IN",
   "description": "FASTWAY NETWORKING SERVICE",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.42.128.0/23"
+    ],
     "ipv6": []
   }
 }

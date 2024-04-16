@@ -3,7 +3,9 @@
   "handle": "ISTOK",
   "description": "Istok Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.218.128.0/22"
+    ],
     "ipv6": []
   }
 }

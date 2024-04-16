@@ -3,7 +3,11 @@
   "handle": "TMS25",
   "description": "TPC Management s.r.l.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "5.180.152.0/24"
+    ],
+    "ipv6": [
+      "2001:67c:438::/48"
+    ]
   }
 }

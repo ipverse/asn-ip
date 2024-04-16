@@ -3,7 +3,9 @@
   "handle": "LIDER-NET-SERVICOS-MULTIMIDIA",
   "description": "LIDER NET E SERVICOS DE MULTIMIDIA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "128.201.187.0/24"
+    ],
     "ipv6": []
   }
 }

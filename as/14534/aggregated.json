@@ -3,7 +3,9 @@
   "handle": "UNONET-CORP",
   "description": "UNONET CORP",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "23.143.160.0/24"
+    ],
     "ipv6": []
   }
 }

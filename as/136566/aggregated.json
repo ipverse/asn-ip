@@ -3,7 +3,12 @@
   "handle": "CYBERWORLD-BKK2",
   "description": "CyberWorld Data Center Co.,Ltd.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "103.20.120.0/24"
+    ],
+    "ipv6": [
+      "2405:2500:5::/48",
+      "2405:2500:11::/48"
+    ]
   }
 }

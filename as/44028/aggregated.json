@@ -3,7 +3,9 @@
   "handle": "SESTEK",
   "description": "Sestek Ses ve Iletisim Bilgisayar Teknolojileri San. ve Tic. A.S.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.251.64.0/23"
+    ],
     "ipv6": []
   }
 }

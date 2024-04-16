@@ -3,7 +3,10 @@
   "handle": "IT-SERVICES",
   "description": "SIA IT Services",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "92.63.87.0/24",
+      "185.129.148.0/24"
+    ],
     "ipv6": []
   }
 }

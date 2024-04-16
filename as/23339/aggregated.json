@@ -3,7 +3,10 @@
   "handle": "MU",
   "description": "Marymount University",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "198.100.0.0/22",
+      "199.111.96.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "LFGPL-AP",
   "description": "RXT Connect",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.187.122.0/24"
+    ],
     "ipv6": []
   }
 }

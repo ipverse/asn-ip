@@ -3,7 +3,9 @@
   "handle": "RDTEX",
   "description": "JSC RDTEX Razumnye Delovye Tehnologii",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.105.222.0/24"
+    ],
     "ipv6": []
   }
 }

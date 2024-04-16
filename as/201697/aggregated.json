@@ -3,7 +3,12 @@
   "handle": "SEMAPHOR",
   "description": "Tobias Fonsmark trading as Semaphor",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.156.8.0/22",
+      "195.190.25.0/24"
+    ],
+    "ipv6": [
+      "2001:678:72c::/48"
+    ]
   }
 }

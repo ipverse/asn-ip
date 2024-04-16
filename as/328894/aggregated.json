@@ -3,7 +3,9 @@
   "handle": "CSBP",
   "description": "C Steinweg Bridge Pty Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "102.219.138.0/24"
+    ],
     "ipv6": []
   }
 }

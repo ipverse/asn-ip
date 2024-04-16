@@ -3,7 +3,9 @@
   "handle": "GSE",
   "description": "Global Spirits Europe Limited Liability Company",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.0.138.0/24"
+    ],
     "ipv6": []
   }
 }

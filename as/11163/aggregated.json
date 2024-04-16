@@ -3,7 +3,11 @@
   "handle": "PLINK-OSIDE",
   "description": "Promptlink Communications Inc.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "98.174.130.0/24"
+    ],
+    "ipv6": [
+      "2001:57b:1000::/48"
+    ]
   }
 }

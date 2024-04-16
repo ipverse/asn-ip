@@ -3,7 +3,9 @@
   "handle": "GSE-LINK-01",
   "description": "Global Satellite Engineering, Inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "137.83.51.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,11 @@
   "handle": "VLDTECH",
   "description": "VALID TECHNOLOGY L.P.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "185.16.40.0/22"
+    ],
+    "ipv6": [
+      "2a03:bfc0::/48"
+    ]
   }
 }

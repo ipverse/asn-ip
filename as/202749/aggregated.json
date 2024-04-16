@@ -3,7 +3,9 @@
   "handle": "TELEGROUP",
   "description": "Telegroup d.o.o. Beograd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "178.254.147.0/24"
+    ],
     "ipv6": []
   }
 }

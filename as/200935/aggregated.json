@@ -3,7 +3,9 @@
   "handle": "MOBICON",
   "description": "Mobicon CJSC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "212.113.110.0/24"
+    ],
     "ipv6": []
   }
 }

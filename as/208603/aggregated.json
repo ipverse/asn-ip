@@ -3,7 +3,9 @@
   "handle": "GE-M2",
   "description": "m2 Real Estate JSC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.90.252.0/22"
+    ],
     "ipv6": []
   }
 }

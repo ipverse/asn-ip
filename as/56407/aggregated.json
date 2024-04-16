@@ -3,7 +3,9 @@
   "handle": "ASZHIGULI-NET",
   "description": "Zhigulevsk Cable Network LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "188.190.128.0/19"
+    ],
     "ipv6": []
   }
 }

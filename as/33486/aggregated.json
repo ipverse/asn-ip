@@ -3,7 +3,10 @@
   "handle": "ALKERMES",
   "description": "ALKERMES INCORPORATED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "98.102.174.0/24",
+      "155.212.24.0/24"
+    ],
     "ipv6": []
   }
 }

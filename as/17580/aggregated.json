@@ -3,7 +3,9 @@
   "handle": "NPS02",
   "description": "National Pension Service",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.139.85.0/24"
+    ],
     "ipv6": []
   }
 }

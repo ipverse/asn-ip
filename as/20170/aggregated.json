@@ -3,7 +3,9 @@
   "handle": "MARITZFENTONMO",
   "description": "Maritz Holdings Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "156.45.250.0/24"
+    ],
     "ipv6": []
   }
 }

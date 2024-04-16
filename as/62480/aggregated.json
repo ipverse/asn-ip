@@ -3,7 +3,9 @@
   "handle": "MODSPACE",
   "description": "Willscot",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "198.17.3.0/24"
+    ],
     "ipv6": []
   }
 }

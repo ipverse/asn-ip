@@ -3,7 +3,9 @@
   "handle": "ANET-MAIN",
   "description": "LLC Demo-Club",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.85.216.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "IDNIC-SJBI-ID",
   "description": "PT Sinar Jambi Baru Intermedia",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.66.63.0/24"
+    ],
     "ipv6": []
   }
 }

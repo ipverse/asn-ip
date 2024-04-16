@@ -3,7 +3,9 @@
   "handle": "PROLEXIC-MGMT",
   "description": "Akamai Technologies, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "208.50.241.0/24"
+    ],
     "ipv6": []
   }
 }

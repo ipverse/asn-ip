@@ -3,7 +3,9 @@
   "handle": "SA-FLYNAS",
   "description": "Flynas Company PJS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "213.232.241.0/24"
+    ],
     "ipv6": []
   }
 }

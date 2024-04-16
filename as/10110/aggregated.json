@@ -3,7 +3,10 @@
   "handle": "MITNZ-AP",
   "description": "Te Pukenga - New Zealand Institute of Skills and Technology",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "202.14.216.0/24",
+      "203.176.154.0/23"
+    ],
     "ipv6": []
   }
 }

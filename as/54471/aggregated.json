@@ -3,7 +3,9 @@
   "handle": "AVH",
   "description": "Androscoggin Valley Hospital",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "216.105.192.0/20"
+    ],
     "ipv6": []
   }
 }

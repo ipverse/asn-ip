@@ -3,7 +3,9 @@
   "handle": "RLC-ASN-01",
   "description": "Red Lion Controls, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "205.159.151.0/24"
+    ],
     "ipv6": []
   }
 }

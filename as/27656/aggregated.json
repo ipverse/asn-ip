@@ -3,7 +3,9 @@
   "handle": "DCN-SOLUES-EM",
   "description": "DCN Solues em Tecnologia Ltda - EPP",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "201.76.144.0/20"
+    ],
     "ipv6": []
   }
 }

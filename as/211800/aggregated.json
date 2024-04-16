@@ -3,7 +3,9 @@
   "handle": "BBT",
   "description": "Barmherzige Brueder Trier gGmbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "149.249.9.0/24"
+    ],
     "ipv6": []
   }
 }

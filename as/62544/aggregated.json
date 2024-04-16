@@ -3,7 +3,10 @@
   "handle": "OPEN-AIR-WIRELESS",
   "description": "Open Air Wireless, LLC.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "162.217.120.0/22",
+      "192.250.29.0/24"
+    ],
     "ipv6": []
   }
 }

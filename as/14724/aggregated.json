@@ -3,7 +3,9 @@
   "handle": "LOCAL2U",
   "description": "Local2U (West Virginia) LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.45.163.0/24"
+    ],
     "ipv6": []
   }
 }

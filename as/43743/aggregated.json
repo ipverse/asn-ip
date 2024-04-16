@@ -3,7 +3,9 @@
   "handle": "KRUIZUA",
   "description": "Kruiz LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "94.131.210.0/23"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,11 @@
   "handle": "TOP-NET-SERVIOS",
   "description": "TOP NET SERVIOS LTDA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "131.72.68.0/22"
+    ],
+    "ipv6": [
+      "2804:1bf0::/32"
+    ]
   }
 }

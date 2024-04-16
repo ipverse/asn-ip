@@ -3,7 +3,9 @@
   "handle": "RBA",
   "description": "Raiffeisen banka ad Beograd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.34.142.0/23"
+    ],
     "ipv6": []
   }
 }

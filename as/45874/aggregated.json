@@ -3,7 +3,10 @@
   "handle": "PSA-AU",
   "description": "Pershing Securities Australia Pty Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "203.79.31.0/24",
+      "223.130.14.0/24"
+    ],
     "ipv6": []
   }
 }

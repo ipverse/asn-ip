@@ -3,7 +3,9 @@
   "handle": "VFPA",
   "description": "Port Metro Vancouver",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "204.153.215.0/24"
+    ],
     "ipv6": []
   }
 }

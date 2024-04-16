@@ -3,7 +3,11 @@
   "handle": "M-L-V-SILVA-JNIOR",
   "description": "M. A. L. V. da Silva Jnior e Cia Ltda",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.188.36.0/22"
+    ],
+    "ipv6": [
+      "2804:65b0::/32"
+    ]
   }
 }

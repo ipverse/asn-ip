@@ -3,7 +3,9 @@
   "handle": "TCENTER-2",
   "description": "JSC ER-Telecom Holding",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.108.160.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "GAULDALIKT",
   "description": "MIDT ENERGI AS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "217.22.32.0/20"
+    ],
     "ipv6": []
   }
 }

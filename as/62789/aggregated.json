@@ -3,7 +3,9 @@
   "handle": "PDQATS",
   "description": "PDQ Enterprises LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.133.167.0/24"
+    ],
     "ipv6": []
   }
 }

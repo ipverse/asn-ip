@@ -3,7 +3,9 @@
   "handle": "GRUPALIA",
   "description": "Grupalia Internet S.A.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "212.4.96.0/19"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "ROMANO-DIEGO-OSCAR",
   "description": "ROMANO DIEGO OSCAR(CONECTA)",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.178.244.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "SPECTRO-NETWORKS-TELECOMUNICACIONES",
   "description": "Spectro Networks Telecomunicaciones, S. de R.L. de C.V.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "138.186.64.0/22"
+    ],
     "ipv6": []
   }
 }

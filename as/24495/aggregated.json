@@ -3,7 +3,9 @@
   "handle": "GNET-CN-AP",
   "description": "gnet Integrated Services Co.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "203.174.112.0/20"
+    ],
     "ipv6": []
   }
 }

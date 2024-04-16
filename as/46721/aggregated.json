@@ -3,7 +3,9 @@
   "handle": "SKYNET-COUNTRY",
   "description": "Skynet Country INC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.168.80.0/22"
+    ],
     "ipv6": []
   }
 }

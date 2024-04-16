@@ -3,7 +3,9 @@
   "handle": "SERVATICA",
   "description": "Servatica Technologies, S.L.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "217.149.0.0/20"
+    ],
     "ipv6": []
   }
 }

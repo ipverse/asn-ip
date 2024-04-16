@@ -3,7 +3,9 @@
   "handle": "CNNIC-PBSL-AP",
   "description": "Pacnet Business Solutions LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "139.220.198.0/23"
+    ],
     "ipv6": []
   }
 }

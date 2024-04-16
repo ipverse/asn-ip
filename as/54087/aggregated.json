@@ -3,7 +3,9 @@
   "handle": "SECOR",
   "description": "SECOR Asset Management, LP",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.109.67.0/24"
+    ],
     "ipv6": []
   }
 }

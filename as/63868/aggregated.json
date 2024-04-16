@@ -3,7 +3,9 @@
   "handle": "NASIONALONLINE-ID",
   "description": "PT Nasional Online",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.49.228.0/22"
+    ],
     "ipv6": []
   }
 }

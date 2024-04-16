@@ -3,7 +3,12 @@
   "handle": "FWIN-NET",
   "description": "INDIGITAL TELECOM",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "66.170.32.0/19",
+      "66.249.224.0/19"
+    ],
+    "ipv6": [
+      "2001:4928::/32"
+    ]
   }
 }

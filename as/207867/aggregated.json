@@ -3,7 +3,9 @@
   "handle": "BIA-TECH",
   "description": "BIA-Technologies LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.159.107.0/24"
+    ],
     "ipv6": []
   }
 }

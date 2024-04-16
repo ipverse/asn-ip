@@ -3,7 +3,11 @@
   "handle": "PETASC-BULGARIA",
   "description": "PETASCALE SUPERCOMPUTER CONSORTIUM - BULGARIA - DZZD",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "82.119.91.0/24"
+    ],
+    "ipv6": [
+      "2001:678:924::/48"
+    ]
   }
 }

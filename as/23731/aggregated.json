@@ -3,7 +3,9 @@
   "handle": "TGS-AP",
   "description": "Tibra Global Services",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "203.175.120.0/22"
+    ],
     "ipv6": []
   }
 }

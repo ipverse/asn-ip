@@ -3,7 +3,9 @@
   "handle": "CHC-AP",
   "description": "Catholic Healthcare Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "203.28.58.0/24"
+    ],
     "ipv6": []
   }
 }

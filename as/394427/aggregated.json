@@ -3,7 +3,10 @@
   "handle": "ZOICSTUDIOS",
   "description": "Zoic Studios",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.19.86.0/23",
+      "204.89.220.0/24"
+    ],
     "ipv6": []
   }
 }

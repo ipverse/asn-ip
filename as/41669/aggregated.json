@@ -3,7 +3,11 @@
   "handle": "TAWASUL",
   "description": "Kalaam Telecom Kuwait Closed Joint Stock Company",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "89.251.88.0/24",
+      "89.251.91.0/24",
+      "89.251.92.0/24"
+    ],
     "ipv6": []
   }
 }

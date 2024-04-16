@@ -3,7 +3,9 @@
   "handle": "EMERALDG-NET",
   "description": "Emerald Group s.r.o.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "79.133.179.0/24"
+    ],
     "ipv6": []
   }
 }

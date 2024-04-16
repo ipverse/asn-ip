@@ -3,7 +3,9 @@
   "handle": "CIELO",
   "description": "CIELO SRL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.158.236.0/22"
+    ],
     "ipv6": []
   }
 }

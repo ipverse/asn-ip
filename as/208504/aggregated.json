@@ -3,7 +3,9 @@
   "handle": "SATECHNOLOGY",
   "description": "Satechnology LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "23.154.152.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "COF-CA",
   "description": "City of Fontana",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.146.186.0/24"
+    ],
     "ipv6": []
   }
 }

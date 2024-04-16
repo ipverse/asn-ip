@@ -3,7 +3,9 @@
   "handle": "SSTRATUS",
   "description": "LLC Synesis Stratus",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "93.125.97.0/24"
+    ],
     "ipv6": []
   }
 }

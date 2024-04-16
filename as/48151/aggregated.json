@@ -3,7 +3,11 @@
   "handle": "REDBULL",
   "description": "Red Bull GmbH",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "91.204.192.0/22"
+    ],
+    "ipv6": [
+      "2001:67c:23d8::/47"
+    ]
   }
 }

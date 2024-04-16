@@ -3,7 +3,10 @@
   "handle": "HOCHSCHULE-RHEINMAIN",
   "description": "Hochschule RheinMain, University of Applied Sciences, Wiesbaden Ruesselsheim Geisenheim",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.164.246.0/23",
+      "195.72.96.0/20"
+    ],
     "ipv6": []
   }
 }

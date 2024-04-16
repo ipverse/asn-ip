@@ -3,7 +3,9 @@
   "handle": "DUKASCOPY",
   "description": "Dukascopy Bank SA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.8.15.0/24"
+    ],
     "ipv6": []
   }
 }

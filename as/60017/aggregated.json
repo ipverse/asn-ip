@@ -3,7 +3,9 @@
   "handle": "FASTLINES",
   "description": "FASTLINES SRL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.156.232.0/22"
+    ],
     "ipv6": []
   }
 }

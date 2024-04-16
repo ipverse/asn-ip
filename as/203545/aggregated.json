@@ -3,7 +3,10 @@
   "handle": "BA-EPNDOO",
   "description": "EUROPRONET BOSNIA d.o.o. SARAJEVO",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "62.108.100.0/23",
+      "91.148.126.0/23"
+    ],
     "ipv6": []
   }
 }

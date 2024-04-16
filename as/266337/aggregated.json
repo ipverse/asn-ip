@@ -3,7 +3,11 @@
   "handle": "MARLON-LIMA-GOMES",
   "description": "MARLON LIMA GOMES ME",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "170.238.112.0/22"
+    ],
+    "ipv6": [
+      "2804:3640::/32"
+    ]
   }
 }

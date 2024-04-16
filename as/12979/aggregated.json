@@ -3,7 +3,10 @@
   "handle": "TSINET",
   "description": "JSC Transinfoset",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "213.156.128.0/23",
+      "213.156.131.0/24"
+    ],
     "ipv6": []
   }
 }

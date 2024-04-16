@@ -3,7 +3,9 @@
   "handle": "NETZONE-IN",
   "description": "Netzone Netmedia Pvt.ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.76.76.0/22"
+    ],
     "ipv6": []
   }
 }

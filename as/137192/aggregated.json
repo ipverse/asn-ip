@@ -3,7 +3,9 @@
   "handle": "BIDFOOD-AP",
   "description": "BIDFOOD AUSTRALIA LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.104.156.0/22"
+    ],
     "ipv6": []
   }
 }

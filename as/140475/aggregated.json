@@ -3,7 +3,9 @@
   "handle": "PRIMAHOME-ID",
   "description": "PT Citra Celebas Multimedia",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.153.246.0/23"
+    ],
     "ipv6": []
   }
 }

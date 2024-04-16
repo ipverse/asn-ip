@@ -3,7 +3,9 @@
   "handle": "HTB-AP",
   "description": "Daryl Collins",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "203.57.29.0/24"
+    ],
     "ipv6": []
   }
 }

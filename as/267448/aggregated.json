@@ -3,7 +3,11 @@
   "handle": "CENTRAL-NET",
   "description": "CENTRAL NET",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "192.141.60.0/24"
+    ],
+    "ipv6": [
+      "2804:41a8::/32"
+    ]
   }
 }

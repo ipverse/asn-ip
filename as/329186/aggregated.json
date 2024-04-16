@@ -3,7 +3,9 @@
   "handle": "FOCUS-TECHNOLOGY-SOLUTIONS",
   "description": "FOCUS TECHNOLOGY SOLUTIONS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "102.217.210.0/24"
+    ],
     "ipv6": []
   }
 }

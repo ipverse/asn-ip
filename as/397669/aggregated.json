@@ -3,7 +3,9 @@
   "handle": "NSI",
   "description": "Northern Safety Co., Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "104.238.227.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "UFO-AP",
   "description": "UFO Network Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.140.238.0/23"
+    ],
     "ipv6": []
   }
 }

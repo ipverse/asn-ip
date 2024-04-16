@@ -3,7 +3,9 @@
   "handle": "KLIQ-LTD",
   "description": "KLIQ (Pty) Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "196.223.232.0/21"
+    ],
     "ipv6": []
   }
 }

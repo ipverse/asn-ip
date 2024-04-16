@@ -3,7 +3,9 @@
   "handle": "DELTAAS",
   "description": "DELTAKON KFT.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "95.214.120.0/22"
+    ],
     "ipv6": []
   }
 }

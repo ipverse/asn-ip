@@ -3,7 +3,9 @@
   "handle": "BAHU",
   "description": "BAHU LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "81.21.4.0/24"
+    ],
     "ipv6": []
   }
 }

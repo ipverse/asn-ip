@@ -3,7 +3,9 @@
   "handle": "PETCO-CH3",
   "description": "Petco",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.160.198.0/24"
+    ],
     "ipv6": []
   }
 }

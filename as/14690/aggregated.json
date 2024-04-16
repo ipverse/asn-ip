@@ -3,7 +3,9 @@
   "handle": "PEORIAUSD11",
   "description": "Peoria Unified School District",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "206.207.160.0/20"
+    ],
     "ipv6": []
   }
 }

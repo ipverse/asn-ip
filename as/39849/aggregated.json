@@ -3,7 +3,9 @@
   "handle": "PTX",
   "description": "Elavon Financial Services DAC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.170.169.0/24"
+    ],
     "ipv6": []
   }
 }

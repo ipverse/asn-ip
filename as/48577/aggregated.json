@@ -3,7 +3,10 @@
   "handle": "HYGIE",
   "description": "PSA S.r.l.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "2.59.4.0/23",
+      "2.59.7.0/24"
+    ],
     "ipv6": []
   }
 }

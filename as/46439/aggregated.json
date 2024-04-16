@@ -3,7 +3,9 @@
   "handle": "CITYOFLEXINGTON",
   "description": "CITY OF LEXINGTON",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "12.173.227.0/24"
+    ],
     "ipv6": []
   }
 }

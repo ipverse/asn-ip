@@ -3,7 +3,9 @@
   "handle": "ITOCHU-PANAMA",
   "description": "ITOCHU PANAMA, S.A.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "200.46.236.0/24"
+    ],
     "ipv6": []
   }
 }

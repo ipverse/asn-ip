@@ -3,7 +3,9 @@
   "handle": "AMBER",
   "description": "Amberway Development LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.156.200.0/22"
+    ],
     "ipv6": []
   }
 }

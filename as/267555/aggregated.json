@@ -3,7 +3,11 @@
   "handle": "CONECT-FIBER-TELECOMUNICACOES",
   "description": "CONECT FIBER TELECOMUNICACOES LTDA - ME",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "201.182.204.0/22"
+    ],
+    "ipv6": [
+      "2804:4334::/32"
+    ]
   }
 }

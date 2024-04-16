@@ -3,7 +3,11 @@
   "handle": "VMCNET",
   "description": "Vulcan Materials Company",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "205.235.112.0/22",
+      "205.235.117.0/24",
+      "205.235.118.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "SHETAB",
   "description": "SHETAB INFORMATION PROCESSING CO",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "88.135.32.0/24"
+    ],
     "ipv6": []
   }
 }

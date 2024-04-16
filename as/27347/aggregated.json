@@ -3,7 +3,9 @@
   "handle": "DATAPRO-NETWORKS",
   "description": "Datapro Telecom Solutions LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "89.116.108.0/24"
+    ],
     "ipv6": []
   }
 }

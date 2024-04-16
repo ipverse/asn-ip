@@ -3,7 +3,10 @@
   "handle": "SURWITEL",
   "description": "SURWITEL COMUNICACIONES, S.L.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "5.252.8.0/22",
+      "45.156.176.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,10 @@
   "handle": "FOTEXNET",
   "description": "Fotexnet Kft.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "79.172.198.0/24",
+      "194.149.38.0/23"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,10 @@
   "handle": "PCNET-INTERNET",
   "description": "PCNET INTERNET",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "170.233.160.0/22",
+      "191.240.192.0/22"
+    ],
     "ipv6": []
   }
 }

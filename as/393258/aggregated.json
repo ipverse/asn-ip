@@ -3,7 +3,10 @@
   "handle": "SAFETYNET1",
   "description": "Safety NetAccess, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "64.61.96.0/21",
+      "162.220.132.0/23"
+    ],
     "ipv6": []
   }
 }

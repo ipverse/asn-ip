@@ -3,7 +3,12 @@
   "handle": "EES-COMUNICACAO-MULTIMIDIA",
   "description": "EES COMUNICACAO MULTIMIDIA LTDA - EPP",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.4.178.0/24",
+      "170.81.236.0/22"
+    ],
+    "ipv6": [
+      "2804:37b0::/36"
+    ]
   }
 }

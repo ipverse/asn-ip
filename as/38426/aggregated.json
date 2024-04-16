@@ -3,7 +3,9 @@
   "handle": "KREI",
   "description": "KOREA RURAL ECONOMIC INSTITUTE",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "203.255.236.0/22"
+    ],
     "ipv6": []
   }
 }

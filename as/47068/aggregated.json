@@ -3,7 +3,9 @@
   "handle": "GLENSFALLSHOSPITAL",
   "description": "Glens Falls Hospital",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "198.206.226.0/24"
+    ],
     "ipv6": []
   }
 }

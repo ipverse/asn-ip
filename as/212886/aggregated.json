@@ -3,7 +3,12 @@
   "handle": "AUDIENCESERV",
   "description": "Audience Serv GmbH",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "185.236.128.0/24",
+      "193.107.76.0/22"
+    ],
+    "ipv6": [
+      "2a09:99c0::/48"
+    ]
   }
 }

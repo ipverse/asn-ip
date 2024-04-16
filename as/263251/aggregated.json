@@ -3,7 +3,11 @@
   "handle": "CONNECT-WIRELESS",
   "description": "CONNECT WIRELESS LTDA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "200.0.8.0/21"
+    ],
+    "ipv6": [
+      "2804:17c8::/32"
+    ]
   }
 }

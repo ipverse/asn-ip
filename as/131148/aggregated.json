@@ -3,7 +3,11 @@
   "handle": "BOT-TW",
   "description": "Bank Of Taiwan",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "103.21.60.0/22"
+    ],
+    "ipv6": [
+      "2405:6100::/32"
+    ]
   }
 }

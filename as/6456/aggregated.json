@@ -4,8 +4,10 @@
   "description": "Altopia Corporation",
   "subnets": {
     "ipv4": [
-      "208.90.170.0/24"
+      "208.90.168.0/22"
     ],
-    "ipv6": []
+    "ipv6": [
+      "2620:0:cf0::/48"
+    ]
   }
 }

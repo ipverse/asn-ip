@@ -3,7 +3,11 @@
   "handle": "SUNY-ESC",
   "description": "SUNY Empire State University",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "138.116.0.0/16"
+    ],
+    "ipv6": [
+      "2620:119:1000::/48"
+    ]
   }
 }

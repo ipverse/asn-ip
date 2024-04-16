@@ -3,7 +3,9 @@
   "handle": "SEMINOLECOUNTY",
   "description": "Seminole County Government",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "205.166.14.0/24"
+    ],
     "ipv6": []
   }
 }

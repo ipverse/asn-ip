@@ -3,7 +3,9 @@
   "handle": "UCCS-UNIVERSITY-OF-COLORADO-COLORADO-SPRINGS",
   "description": "University of Colorado, Colorado Springs",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "128.198.0.0/16"
+    ],
     "ipv6": []
   }
 }

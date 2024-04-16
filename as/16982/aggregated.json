@@ -3,7 +3,9 @@
   "handle": "VITAL-ASN-MN",
   "description": "Vital Images Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "207.67.82.0/24"
+    ],
     "ipv6": []
   }
 }

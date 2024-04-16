@@ -3,7 +3,9 @@
   "handle": "NETSKRTSYSTEMS-USA",
   "description": "Netskrt",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "98.97.224.0/20"
+    ],
     "ipv6": []
   }
 }

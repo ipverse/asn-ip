@@ -3,7 +3,9 @@
   "handle": "SGNIC-AP",
   "description": "Singapore Network Information Centre",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "203.119.78.0/24"
+    ],
     "ipv6": []
   }
 }

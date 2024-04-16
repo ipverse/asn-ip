@@ -3,7 +3,9 @@
   "handle": "AIRMAX-FIBER-INTERNET",
   "description": "AirMax Communication Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.173.188.0/23"
+    ],
     "ipv6": []
   }
 }

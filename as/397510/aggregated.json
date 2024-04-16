@@ -3,7 +3,9 @@
   "handle": "CPI",
   "description": "Consumers Power, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "69.59.222.0/24"
+    ],
     "ipv6": []
   }
 }

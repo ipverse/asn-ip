@@ -3,7 +3,13 @@
   "handle": "INTER",
   "description": "Inter Krankenversicherung AG",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "185.202.96.0/22",
+      "213.109.144.0/24"
+    ],
+    "ipv6": [
+      "2a11:6a40::/39",
+      "2a11:6a40:fff::/48"
+    ]
   }
 }

@@ -3,7 +3,9 @@
   "handle": "VENTURE-INTERNET",
   "description": "VENTURE INTERNET HOLDINGS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "102.218.152.0/22"
+    ],
     "ipv6": []
   }
 }

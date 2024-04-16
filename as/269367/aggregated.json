@@ -3,7 +3,12 @@
   "handle": "PRO-TELECOMUNICACOES",
   "description": "PRO TELECOMUNICACOES LTDA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.185.76.0/22"
+    ],
+    "ipv6": [
+      "2804:6388::/33",
+      "2804:6388:fffc::/47"
+    ]
   }
 }

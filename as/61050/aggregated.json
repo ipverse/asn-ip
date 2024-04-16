@@ -3,7 +3,11 @@
   "handle": "INNOVA",
   "description": "Innova Engineering SRL",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "89.44.122.0/24"
+    ],
+    "ipv6": [
+      "2a00:ece1:1::/48"
+    ]
   }
 }

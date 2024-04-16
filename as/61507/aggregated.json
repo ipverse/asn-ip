@@ -3,7 +3,9 @@
   "handle": "ADMINISTRADORA-FONDOS-PENSIONES",
   "description": "ADMINISTRADORA DE FONDOS DE PENSIONES PROVIDA S.A.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "186.148.6.0/24"
+    ],
     "ipv6": []
   }
 }

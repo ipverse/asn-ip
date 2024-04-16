@@ -3,7 +3,9 @@
   "handle": "M21IDC",
   "description": "M21 Data Center",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.159.239.0/24"
+    ],
     "ipv6": []
   }
 }

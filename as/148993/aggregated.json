@@ -3,7 +3,9 @@
   "handle": "DIANAHOSTLTD-AP",
   "description": "Diana Host Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.169.160.0/23"
+    ],
     "ipv6": []
   }
 }

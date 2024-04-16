@@ -3,7 +3,9 @@
   "handle": "TGNA-WHAS",
   "description": "TEGNA Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "167.8.90.0/24"
+    ],
     "ipv6": []
   }
 }

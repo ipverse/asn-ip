@@ -3,7 +3,9 @@
   "handle": "STG",
   "description": "JSC STNG",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "89.208.64.0/24"
+    ],
     "ipv6": []
   }
 }

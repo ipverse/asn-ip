@@ -3,7 +3,9 @@
   "handle": "TKIT",
   "description": "thyssenkrupp Information Management GmbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.24.88.0/21"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,10 @@
   "handle": "WIU7",
   "description": "Westmoreland Intermediate Unit",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "204.171.48.0/22",
+      "208.94.40.0/21"
+    ],
     "ipv6": []
   }
 }

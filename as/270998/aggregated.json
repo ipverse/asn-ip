@@ -3,7 +3,11 @@
   "handle": "GEHLING-MULLING",
   "description": "Gehling \u0026 Mulling Ltda",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "201.131.144.0/22"
+    ],
+    "ipv6": [
+      "2804:74b4::/32"
+    ]
   }
 }

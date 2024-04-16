@@ -3,7 +3,9 @@
   "handle": "CRG",
   "description": "Cape Radiology Group",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "207.229.85.0/24"
+    ],
     "ipv6": []
   }
 }

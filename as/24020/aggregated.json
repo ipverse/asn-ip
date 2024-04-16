@@ -3,7 +3,9 @@
   "handle": "UITM-AP",
   "description": "Universiti Teknologi MARA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "202.58.80.0/20"
+    ],
     "ipv6": []
   }
 }

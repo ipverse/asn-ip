@@ -3,7 +3,10 @@
   "handle": "XEROX-WB",
   "description": "XEROX CORPORATION",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "13.13.0.0/16",
+      "13.14.0.0/15"
+    ],
     "ipv6": []
   }
 }

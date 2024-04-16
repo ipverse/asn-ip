@@ -3,7 +3,9 @@
   "handle": "QISF",
   "description": "SETEL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "208.75.172.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,10 @@
   "handle": "ASINFOSCORE",
   "description": "arvato infoscore GmbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.101.11.0/24",
+      "193.101.24.0/21"
+    ],
     "ipv6": []
   }
 }

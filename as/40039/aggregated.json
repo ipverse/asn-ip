@@ -3,7 +3,9 @@
   "handle": "ALPHA-N-OMEGA-AOS-40",
   "description": "ALPHA AND OMEGA SEMICONDUCTOR INCORPORATED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "50.202.172.0/24"
+    ],
     "ipv6": []
   }
 }

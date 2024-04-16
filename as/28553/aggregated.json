@@ -3,7 +3,9 @@
   "handle": "MABE",
   "description": "Mabe, S.A. de C.V.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "201.131.100.0/24"
+    ],
     "ipv6": []
   }
 }

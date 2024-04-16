@@ -3,7 +3,9 @@
   "handle": "TESOLCITYNET-ID",
   "description": "PT. LISAR INTERNATIONAL NETWORKING",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.98.116.0/22"
+    ],
     "ipv6": []
   }
 }

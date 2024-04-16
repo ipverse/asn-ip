@@ -3,7 +3,12 @@
   "handle": "SINGAPORE-DC",
   "description": "Red Hat, Inc.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "209.132.187.0/24",
+      "209.132.188.0/24"
+    ],
+    "ipv6": [
+      "2620:52:10::/48"
+    ]
   }
 }

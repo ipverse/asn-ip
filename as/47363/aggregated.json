@@ -3,7 +3,10 @@
   "handle": "YUNTA",
   "description": "Yunta Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.204.56.0/22",
+      "176.126.32.0/22"
+    ],
     "ipv6": []
   }
 }

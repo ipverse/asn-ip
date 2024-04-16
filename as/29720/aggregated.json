@@ -3,7 +3,9 @@
   "handle": "PDS",
   "description": "Paragon Development Systems, Inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "74.203.155.0/24"
+    ],
     "ipv6": []
   }
 }

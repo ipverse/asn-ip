@@ -3,7 +3,9 @@
   "handle": "KINETIX-TECH",
   "description": "Kinetix Broadband, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.38.56.0/21"
+    ],
     "ipv6": []
   }
 }

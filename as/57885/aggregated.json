@@ -3,7 +3,9 @@
   "handle": "OIKUMENA",
   "description": "Oikumena JSC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.233.65.0/24"
+    ],
     "ipv6": []
   }
 }

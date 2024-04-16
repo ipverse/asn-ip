@@ -3,7 +3,9 @@
   "handle": "COGNET",
   "description": "Brazos Valley Council of Governments",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "173.195.160.0/20"
+    ],
     "ipv6": []
   }
 }

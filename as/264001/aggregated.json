@@ -3,7 +3,13 @@
   "handle": "GENESYSNET-PROVEDOR-INTERNET",
   "description": "GENESYSNET PROVEDOR DE INTERNET LTDA ME",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "143.0.200.0/22",
+      "170.0.24.0/22",
+      "170.246.188.0/22"
+    ],
+    "ipv6": [
+      "2804:2948::/32"
+    ]
   }
 }

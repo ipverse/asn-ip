@@ -3,7 +3,9 @@
   "handle": "DSTU",
   "description": "D.S.T.U. Telecom Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.240.140.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,12 @@
   "handle": "SOLARNETONE",
   "description": "SolarNetOne, Inc.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "23.130.80.0/24",
+      "204.239.2.0/24"
+    ],
+    "ipv6": [
+      "2602:fdf2::/36"
+    ]
   }
 }

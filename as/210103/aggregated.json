@@ -3,7 +3,11 @@
   "handle": "DDPO",
   "description": "Cedric Dasnois",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "146.19.11.0/24"
+    ],
+    "ipv6": [
+      "2a12:1d00::/32"
+    ]
   }
 }

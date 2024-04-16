@@ -3,7 +3,10 @@
   "handle": "PAYBACK-DE-1",
   "description": "PAYBACK GmbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.124.16.0/24",
+      "185.124.18.0/24"
+    ],
     "ipv6": []
   }
 }

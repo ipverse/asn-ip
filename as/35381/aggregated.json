@@ -3,7 +3,9 @@
   "handle": "POLIGON-ISP",
   "description": "Nikita Sergienko",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.207.107.0/24"
+    ],
     "ipv6": []
   }
 }

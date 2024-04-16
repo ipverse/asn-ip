@@ -3,7 +3,9 @@
   "handle": "RADIONET-TELECOM",
   "description": "RADIONET TELECOM LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.169.16.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,12 @@
   "handle": "KAMOIKE-NET",
   "description": "KAMOIKE.NET LLP",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "103.113.56.0/22",
+      "202.226.0.0/22"
+    ],
+    "ipv6": [
+      "2402:b7c0::/32"
+    ]
   }
 }

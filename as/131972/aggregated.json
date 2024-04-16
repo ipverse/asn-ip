@@ -3,7 +3,9 @@
   "handle": "J-STREAM-SENDAI",
   "description": "J-Stream Inc. Sendai",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.157.156.0/24"
+    ],
     "ipv6": []
   }
 }

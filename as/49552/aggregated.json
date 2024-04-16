@@ -3,7 +3,11 @@
   "handle": "OST-SPE",
   "description": "OpenSource Training Ralf Spenneberg",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "91.213.36.0/24"
+    ],
+    "ipv6": [
+      "2001:67c:24::/48"
+    ]
   }
 }

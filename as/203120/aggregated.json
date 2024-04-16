@@ -3,7 +3,10 @@
   "handle": "GTGL",
   "description": "Global Telecom Group LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.210.244.0/22",
+      "185.144.180.0/22"
+    ],
     "ipv6": []
   }
 }

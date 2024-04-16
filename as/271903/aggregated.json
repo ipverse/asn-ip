@@ -3,7 +3,11 @@
   "handle": "TELNET-ISP",
   "description": "TELNET ISP S.A.S.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "179.49.224.0/22"
+    ],
+    "ipv6": [
+      "2803:5be0::/32"
+    ]
   }
 }

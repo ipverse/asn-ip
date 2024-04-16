@@ -3,7 +3,9 @@
   "handle": "CBTKS",
   "description": "COREFIRST BANK \u0026 TRUST",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "72.42.249.0/24"
+    ],
     "ipv6": []
   }
 }

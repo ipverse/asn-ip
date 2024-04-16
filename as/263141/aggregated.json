@@ -3,7 +3,9 @@
   "handle": "JAFRA-COSMETICS-INTERNATIONAL",
   "description": "JAFRA COSMETICS INTERNATIONAL, S.A. DE C.V.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "201.131.34.0/23"
+    ],
     "ipv6": []
   }
 }

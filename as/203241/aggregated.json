@@ -3,7 +3,9 @@
   "handle": "QUICKD",
   "description": "Internet Vikings International AB",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.141.72.0/22"
+    ],
     "ipv6": []
   }
 }

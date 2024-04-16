@@ -3,7 +3,11 @@
   "handle": "CREDITSUISSEGROUP",
   "description": "Credit Suisse Group",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "198.240.138.0/24",
+      "199.53.18.0/24",
+      "199.53.21.0/24"
+    ],
     "ipv6": []
   }
 }

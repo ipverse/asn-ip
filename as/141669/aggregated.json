@@ -3,7 +3,9 @@
   "handle": "IDNIC-CVRMEDIA-ID",
   "description": "PT Citra Victoria Raya",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.162.238.0/23"
+    ],
     "ipv6": []
   }
 }

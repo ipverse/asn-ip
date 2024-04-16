@@ -3,7 +3,12 @@
   "handle": "GASATEKNET-ID",
   "description": "PT Gasatek Bintang Nusantara",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "103.144.18.0/24",
+      "103.174.178.0/23"
+    ],
+    "ipv6": [
+      "2405:62c0::/32"
+    ]
   }
 }

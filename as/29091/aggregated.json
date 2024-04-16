@@ -3,7 +3,12 @@
   "handle": "IPNXNG",
   "description": "ipNX Nigeria Limited",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "41.184.0.0/16",
+      "62.173.32.0/19"
+    ],
+    "ipv6": [
+      "2c0f:fd28::/32"
+    ]
   }
 }

@@ -3,7 +3,11 @@
   "handle": "LUMBERG",
   "description": "Lumberg Connect GmbH",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "185.91.4.0/22"
+    ],
+    "ipv6": [
+      "2a03:8860::/32"
+    ]
   }
 }

@@ -3,7 +3,11 @@
   "handle": "CEWECOLOR",
   "description": "CEWE Stiftung \u0026 Co. KGaA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "193.169.76.0/23"
+    ],
+    "ipv6": [
+      "2001:67c:1ba8::/48"
+    ]
   }
 }

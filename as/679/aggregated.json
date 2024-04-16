@@ -3,7 +3,10 @@
   "handle": "TUNET",
   "description": "Technische Universitat Wien",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "128.130.0.0/15",
+      "192.35.240.0/22"
+    ],
     "ipv6": []
   }
 }

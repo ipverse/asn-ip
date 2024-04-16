@@ -3,7 +3,11 @@
   "handle": "RFINETWORK-AP",
   "description": "RFi Fiber",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "103.187.28.0/23"
+    ],
+    "ipv6": [
+      "2001:df0:b740::/48"
+    ]
   }
 }

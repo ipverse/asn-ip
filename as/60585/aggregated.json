@@ -3,7 +3,11 @@
   "handle": "SITEL-VSAT",
   "description": "SITEL-VSAT sro",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "185.28.124.0/22"
+    ],
+    "ipv6": [
+      "2a00:9ee0::/32"
+    ]
   }
 }

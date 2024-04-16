@@ -3,7 +3,9 @@
   "handle": "IDNIC-BAKAMLA-ID",
   "description": "Badan Keamanan Laut RI",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "202.47.160.0/24"
+    ],
     "ipv6": []
   }
 }

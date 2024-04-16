@@ -3,7 +3,9 @@
   "handle": "KOCES",
   "description": "KOCES",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "211.53.211.0/24"
+    ],
     "ipv6": []
   }
 }

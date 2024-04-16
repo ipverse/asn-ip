@@ -3,7 +3,9 @@
   "handle": "APOG-CHICAGO-COLO",
   "description": "Apogee Telecom Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "69.80.144.0/20"
+    ],
     "ipv6": []
   }
 }

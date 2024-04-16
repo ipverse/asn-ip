@@ -3,7 +3,9 @@
   "handle": "VANGUARD",
   "description": "Tradeville SA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.47.249.0/24"
+    ],
     "ipv6": []
   }
 }

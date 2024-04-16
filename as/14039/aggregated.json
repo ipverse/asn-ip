@@ -3,7 +3,9 @@
   "handle": "BTCONF-VIDEO",
   "description": "BT Conferencing",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "216.98.182.0/24"
+    ],
     "ipv6": []
   }
 }

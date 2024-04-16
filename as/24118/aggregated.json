@@ -3,7 +3,10 @@
   "handle": "NTT-IN-AP-1",
   "description": "NTT GLOBAL NETWORKS PRIVATE LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "69.26.60.0/24",
+      "119.31.169.0/24"
+    ],
     "ipv6": []
   }
 }

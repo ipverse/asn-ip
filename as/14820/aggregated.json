@@ -3,7 +3,10 @@
   "handle": "VIRGIN-TECH",
   "description": "Virgin Technologies Inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "74.112.188.0/22",
+      "199.16.180.0/22"
+    ],
     "ipv6": []
   }
 }

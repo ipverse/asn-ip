@@ -3,7 +3,9 @@
   "handle": "FLYDUBAI",
   "description": "DUBAI AVIATION CORPORATION, FLYDUBAI",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.120.108.0/22"
+    ],
     "ipv6": []
   }
 }

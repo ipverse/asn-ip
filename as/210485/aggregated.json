@@ -3,7 +3,9 @@
   "handle": "GLSHR",
   "description": "General Logistics Systems Croatia d.o.o.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "89.34.1.0/24"
+    ],
     "ipv6": []
   }
 }

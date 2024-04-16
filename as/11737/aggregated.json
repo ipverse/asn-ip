@@ -3,7 +3,10 @@
   "handle": "NMSL-6",
   "description": "Nu-Age Managed Services, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "173.251.30.0/24",
+      "199.96.104.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,10 @@
   "handle": "KOSMO-COMPUTACAO-EM",
   "description": "KOSMO COMPUTACAO EM NUVEM LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "186.237.28.0/23",
+      "186.237.30.0/24"
+    ],
     "ipv6": []
   }
 }

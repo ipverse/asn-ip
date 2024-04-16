@@ -3,7 +3,9 @@
   "handle": "VIAPLAY",
   "description": "Viaplay Group Sweden AB",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.53.64.0/22"
+    ],
     "ipv6": []
   }
 }

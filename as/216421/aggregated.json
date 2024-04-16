@@ -3,7 +3,9 @@
   "handle": "ADVEN",
   "description": "Adven Group Oy",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.103.214.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "INTERCHANGE-VU-AP",
   "description": "Interchange Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "202.4.251.0/24"
+    ],
     "ipv6": []
   }
 }

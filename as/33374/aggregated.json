@@ -3,7 +3,9 @@
   "handle": "BSI",
   "description": "Brock Solutions Inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.181.183.0/24"
+    ],
     "ipv6": []
   }
 }

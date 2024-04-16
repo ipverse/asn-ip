@@ -3,7 +3,12 @@
   "handle": "GMAES-TELECOM",
   "description": "GMAES TELECOM LTDA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.232.29.0/24",
+      "138.122.92.0/22"
+    ],
+    "ipv6": [
+      "2804:2624::/36"
+    ]
   }
 }

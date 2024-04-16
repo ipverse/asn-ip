@@ -3,7 +3,9 @@
   "handle": "TOTALIZATOR",
   "description": "Totalizator Sportowy Sp. z o.o.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "155.133.85.0/24"
+    ],
     "ipv6": []
   }
 }

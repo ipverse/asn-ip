@@ -3,7 +3,9 @@
   "handle": "AHH-MAIN-01",
   "description": "ARKANSAS HEART HOSPITAL ENCORE",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "136.175.62.0/24"
+    ],
     "ipv6": []
   }
 }

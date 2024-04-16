@@ -3,7 +3,9 @@
   "handle": "KOMPROMISS",
   "description": "Kompromiss LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.106.106.0/24"
+    ],
     "ipv6": []
   }
 }

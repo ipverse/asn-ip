@@ -3,7 +3,9 @@
   "handle": "DEPS",
   "description": "DEPS INVEST LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.231.206.0/24"
+    ],
     "ipv6": []
   }
 }

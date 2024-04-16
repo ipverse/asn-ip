@@ -3,7 +3,10 @@
   "handle": "CIPUTRA-ID",
   "description": "CiputraNet",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "114.141.88.0/23",
+      "114.141.90.0/24"
+    ],
     "ipv6": []
   }
 }

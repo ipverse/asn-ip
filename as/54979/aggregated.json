@@ -3,7 +3,9 @@
   "handle": "ZEECON",
   "description": "Zeecon Wireless Internet L.L.C.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "107.182.96.0/20"
+    ],
     "ipv6": []
   }
 }

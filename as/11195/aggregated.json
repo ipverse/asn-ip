@@ -3,7 +3,12 @@
   "handle": "COHO",
   "description": "Whiz to Coho, Inc.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "76.9.240.0/20",
+      "208.67.200.0/21"
+    ],
+    "ipv6": [
+      "2620:34:e000::/48"
+    ]
   }
 }

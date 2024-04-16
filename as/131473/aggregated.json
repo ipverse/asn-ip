@@ -3,7 +3,9 @@
   "handle": "SRMU-GROUP-IN",
   "description": "SRM University",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.4.220.0/22"
+    ],
     "ipv6": []
   }
 }

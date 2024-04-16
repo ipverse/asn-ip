@@ -3,7 +3,9 @@
   "handle": "AHS",
   "description": "Atlanticare Health System Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.68.149.0/24"
+    ],
     "ipv6": []
   }
 }

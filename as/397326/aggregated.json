@@ -3,7 +3,12 @@
   "handle": "SFN",
   "description": "South Front Networks",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "23.142.48.0/24",
+      "147.160.170.0/24"
+    ],
+    "ipv6": [
+      "2620:13e:3000::/40"
+    ]
   }
 }

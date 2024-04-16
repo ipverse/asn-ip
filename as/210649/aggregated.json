@@ -3,7 +3,10 @@
   "handle": "QAM-INFRA",
   "description": "QAM Wireless B.V.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "37.140.249.0/24",
+      "193.38.153.0/24"
+    ],
     "ipv6": []
   }
 }

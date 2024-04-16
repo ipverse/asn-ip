@@ -3,7 +3,9 @@
   "handle": "SATRONICS-WIRELESS",
   "description": "Satronics Satellites Sales and Service",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "172.81.28.0/22"
+    ],
     "ipv6": []
   }
 }

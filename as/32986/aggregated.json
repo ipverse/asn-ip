@@ -3,7 +3,9 @@
   "handle": "KEYDEV",
   "description": "Key Developments, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "68.69.96.0/20"
+    ],
     "ipv6": []
   }
 }

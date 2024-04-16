@@ -3,7 +3,9 @@
   "handle": "TBBK-INTERNET",
   "description": "The Bancorp Incorporated",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "204.77.161.0/24"
+    ],
     "ipv6": []
   }
 }

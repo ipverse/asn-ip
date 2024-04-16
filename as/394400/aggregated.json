@@ -3,7 +3,9 @@
   "handle": "HEARST-SC9",
   "description": "Hearst Corporation",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "167.173.52.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,11 @@
   "handle": "C-FREITAS-EIRELI",
   "description": "C. E. de Freitas Eireli - ME",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.188.116.0/22"
+    ],
+    "ipv6": [
+      "2804:65e4::/32"
+    ]
   }
 }

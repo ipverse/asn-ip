@@ -3,7 +3,10 @@
   "handle": "SANOFI-SG",
   "description": "Sanofi-aventis Singapore Pte Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.10.220.0/23",
+      "166.118.0.0/16"
+    ],
     "ipv6": []
   }
 }

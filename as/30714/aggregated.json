@@ -3,7 +3,11 @@
   "handle": "PHX",
   "description": "Axway Inc",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "208.67.128.0/22"
+    ],
+    "ipv6": [
+      "2620:ad:8000::/40"
+    ]
   }
 }

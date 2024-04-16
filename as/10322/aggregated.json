@@ -3,7 +3,9 @@
   "handle": "ERCOT-ISO",
   "description": "Ercot Independent System Operations",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "66.128.16.0/22"
+    ],
     "ipv6": []
   }
 }

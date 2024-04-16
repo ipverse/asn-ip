@@ -3,7 +3,9 @@
   "handle": "D102-PHL-2",
   "description": "Data102",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "76.8.54.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,11 @@
   "handle": "VOBISS-SOLUTIONS-LIMITED",
   "description": "Vobiss Solutions Limited",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "102.223.20.0/22"
+    ],
+    "ipv6": [
+      "2c0f:1380::/32"
+    ]
   }
 }

@@ -3,7 +3,9 @@
   "handle": "SYNTHOS",
   "description": "Synthos S.A",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.208.72.0/24"
+    ],
     "ipv6": []
   }
 }

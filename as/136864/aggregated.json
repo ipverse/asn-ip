@@ -3,7 +3,9 @@
   "handle": "IDNIC-KIK-ID",
   "description": "PT Kalla Inti Karsa",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.104.57.0/24"
+    ],
     "ipv6": []
   }
 }

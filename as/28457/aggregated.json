@@ -3,7 +3,9 @@
   "handle": "UNIVERSIDAD-LATINOAMERICANA",
   "description": "UNIVERSIDAD LATINOAMERICANA, S.C.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "200.33.3.0/24"
+    ],
     "ipv6": []
   }
 }

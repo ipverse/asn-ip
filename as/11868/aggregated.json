@@ -3,7 +3,11 @@
   "handle": "ATICLOUD-ATL",
   "description": "SITA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "57.191.128.0/22"
+    ],
+    "ipv6": [
+      "2a0a:90c0:20::/44"
+    ]
   }
 }

@@ -4,6 +4,9 @@
   "description": "OneCubit Co., Ltd.",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2402:e940:10::/44",
+      "2402:e940:50::/44"
+    ]
   }
 }

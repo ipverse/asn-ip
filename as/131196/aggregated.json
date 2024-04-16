@@ -3,7 +3,9 @@
   "handle": "ENABLENET-AP",
   "description": "Enable Networks",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "202.36.221.0/24"
+    ],
     "ipv6": []
   }
 }

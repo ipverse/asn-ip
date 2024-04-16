@@ -3,7 +3,10 @@
   "handle": "TPI-POLENE-CSLOXINFO",
   "description": "CSLOXINFO",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "27.254.247.0/24",
+      "49.231.206.0/24"
+    ],
     "ipv6": []
   }
 }

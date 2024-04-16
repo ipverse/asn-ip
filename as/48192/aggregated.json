@@ -3,7 +3,10 @@
   "handle": "ECS",
   "description": "ECS corporate NV",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.255.16.0/24",
+      "185.255.18.0/23"
+    ],
     "ipv6": []
   }
 }

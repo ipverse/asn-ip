@@ -3,7 +3,9 @@
   "handle": "TVIPTEL",
   "description": "TVIPTEL LCC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "146.66.8.0/21"
+    ],
     "ipv6": []
   }
 }

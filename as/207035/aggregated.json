@@ -3,7 +3,9 @@
   "handle": "NETS-USERS",
   "description": "Nets Denmark A/S",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.161.30.0/23"
+    ],
     "ipv6": []
   }
 }

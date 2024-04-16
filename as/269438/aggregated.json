@@ -3,7 +3,9 @@
   "handle": "SUCUPIRA-NET",
   "description": "SUCUPIRA NET",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.184.4.0/22"
+    ],
     "ipv6": []
   }
 }

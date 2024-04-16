@@ -3,7 +3,10 @@
   "handle": "CEG",
   "description": "Citizens Energy Group",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "12.175.239.0/24",
+      "12.187.251.0/24"
+    ],
     "ipv6": []
   }
 }

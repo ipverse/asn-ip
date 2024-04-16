@@ -3,7 +3,10 @@
   "handle": "AINFO",
   "description": "Alpha InfoLab Inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.70.38.0/24",
+      "103.178.164.0/23"
+    ],
     "ipv6": []
   }
 }

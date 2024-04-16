@@ -3,7 +3,9 @@
   "handle": "CHELSIO",
   "description": "Chelsio Communications, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "12.32.117.0/24"
+    ],
     "ipv6": []
   }
 }

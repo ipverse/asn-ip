@@ -3,7 +3,12 @@
   "handle": "ALL-NET-INFORMATICA",
   "description": "All Net Informatica Ltda",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "200.218.240.0/20",
+      "201.33.0.0/21"
+    ],
+    "ipv6": [
+      "2804:5208::/32"
+    ]
   }
 }

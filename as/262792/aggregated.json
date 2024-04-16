@@ -3,7 +3,11 @@
   "handle": "VESCNET-PROVEDORES",
   "description": "VESCNET PROVEDORES LTDA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "201.76.96.0/20"
+    ],
+    "ipv6": [
+      "2804:224::/32"
+    ]
   }
 }

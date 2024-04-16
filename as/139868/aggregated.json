@@ -3,7 +3,9 @@
   "handle": "TRI-AP",
   "description": "Translational Research Institute",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.146.87.0/24"
+    ],
     "ipv6": []
   }
 }

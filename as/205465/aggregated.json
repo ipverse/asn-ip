@@ -3,7 +3,9 @@
   "handle": "PHOTON-K",
   "description": "FOTON-K EOOD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "85.187.60.0/23"
+    ],
     "ipv6": []
   }
 }

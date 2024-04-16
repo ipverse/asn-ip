@@ -3,7 +3,11 @@
   "handle": "TRISTATE-TECNOLOGIA-TELECOMUNICAES",
   "description": "TRISTATE TECNOLOGIA E TELECOMUNICAES",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "168.227.120.0/22"
+    ],
+    "ipv6": [
+      "2804:2f38::/32"
+    ]
   }
 }

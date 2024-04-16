@@ -3,7 +3,9 @@
   "handle": "COPERNICO",
   "description": "Copernico s.r.l.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.137.204.0/22"
+    ],
     "ipv6": []
   }
 }

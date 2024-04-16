@@ -3,7 +3,9 @@
   "handle": "NPCINET-IN",
   "description": "National Payment Corporation Of India",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.14.160.0/22"
+    ],
     "ipv6": []
   }
 }

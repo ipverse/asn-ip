@@ -3,7 +3,9 @@
   "handle": "NFA",
   "description": "LLC Planet of flowers",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.19.201.0/24"
+    ],
     "ipv6": []
   }
 }

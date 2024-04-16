@@ -3,7 +3,13 @@
   "handle": "NETSTORMING-WHL",
   "description": "NETSTORMING S.R.L.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "5.252.44.0/22",
+      "91.102.128.0/22",
+      "91.102.134.0/23"
+    ],
+    "ipv6": [
+      "2a01:7140::/32"
+    ]
   }
 }

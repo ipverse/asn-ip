@@ -3,7 +3,9 @@
   "handle": "BANCO-BRADESCO",
   "description": "BANCO BRADESCO SA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "186.211.112.0/20"
+    ],
     "ipv6": []
   }
 }

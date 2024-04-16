@@ -3,7 +3,9 @@
   "handle": "LINE-INTERNET",
   "description": "LINE INTERNET",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "164.163.228.0/22"
+    ],
     "ipv6": []
   }
 }

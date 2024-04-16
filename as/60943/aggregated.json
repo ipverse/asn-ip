@@ -3,7 +3,10 @@
   "handle": "SYNAPSE",
   "description": "FIBERLAND SRLS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "149.13.145.0/24",
+      "193.160.240.0/22"
+    ],
     "ipv6": []
   }
 }

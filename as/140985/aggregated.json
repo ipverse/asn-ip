@@ -3,7 +3,9 @@
   "handle": "GISCL-AP",
   "description": "Global Innovative Solution Co., LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.154.95.0/24"
+    ],
     "ipv6": []
   }
 }

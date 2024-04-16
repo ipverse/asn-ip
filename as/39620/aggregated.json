@@ -3,7 +3,9 @@
   "handle": "NGBAILEYIT-UK",
   "description": "NG BAILEY IT SERVICES LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "81.29.48.0/20"
+    ],
     "ipv6": []
   }
 }

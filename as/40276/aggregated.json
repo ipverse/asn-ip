@@ -3,7 +3,11 @@
   "handle": "RISKMGMT-NJ",
   "description": "Risk Management Solutions, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "8.44.177.0/24",
+      "8.44.214.0/24",
+      "185.156.164.0/22"
+    ],
     "ipv6": []
   }
 }

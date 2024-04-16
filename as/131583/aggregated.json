@@ -3,7 +3,9 @@
   "handle": "WIZWIRELESS-AP",
   "description": "WIZwireless Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "202.174.160.0/20"
+    ],
     "ipv6": []
   }
 }

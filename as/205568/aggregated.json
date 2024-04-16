@@ -3,7 +3,9 @@
   "handle": "DIGITALBRIDGE",
   "description": "NBI SIA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.213.200.0/22"
+    ],
     "ipv6": []
   }
 }

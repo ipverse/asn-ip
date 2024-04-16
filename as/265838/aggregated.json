@@ -3,7 +3,10 @@
   "handle": "TELECOM",
   "description": "TELECOM",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.224.116.0/23",
+      "45.224.119.0/24"
+    ],
     "ipv6": []
   }
 }

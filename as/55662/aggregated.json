@@ -3,7 +3,9 @@
   "handle": "IDNIC-CITRAWEB-ID",
   "description": "CV. CITRAWEB NUSA INFOMEDIA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.71.8.0/22"
+    ],
     "ipv6": []
   }
 }

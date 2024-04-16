@@ -3,7 +3,9 @@
   "handle": "SETL-1-00",
   "description": "Summit Energy Tech LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "205.236.0.0/24"
+    ],
     "ipv6": []
   }
 }

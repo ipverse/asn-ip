@@ -3,7 +3,12 @@
   "handle": "WDS-TELECOM",
   "description": "WDS TELECOM LTDA. ME",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "186.237.240.0/21",
+      "200.196.132.0/22"
+    ],
+    "ipv6": [
+      "2804:18d8::/32"
+    ]
   }
 }

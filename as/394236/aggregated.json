@@ -3,7 +3,9 @@
   "handle": "LCCC",
   "description": "Luzerne County Community College",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.207.16.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "NEED-TO-KNOW-NEWS",
   "description": "Need To Know News, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.30.152.0/22"
+    ],
     "ipv6": []
   }
 }

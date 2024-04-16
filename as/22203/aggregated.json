@@ -3,7 +3,10 @@
   "handle": "NAVITAIRE",
   "description": "Navitaire, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "149.122.98.0/23",
+      "149.122.108.0/23"
+    ],
     "ipv6": []
   }
 }

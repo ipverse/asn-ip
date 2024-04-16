@@ -3,7 +3,9 @@
   "handle": "MODISPRO",
   "description": "Adecco USA Inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "64.29.40.0/22"
+    ],
     "ipv6": []
   }
 }

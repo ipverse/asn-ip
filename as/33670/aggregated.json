@@ -3,7 +3,9 @@
   "handle": "NOVASOUTHEASTERNAS",
   "description": "Nova University",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "137.52.0.0/16"
+    ],
     "ipv6": []
   }
 }

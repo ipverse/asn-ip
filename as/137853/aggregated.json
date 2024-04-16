@@ -3,7 +3,9 @@
   "handle": "TELNETCOLTD-AP",
   "description": "TELNET CO.,LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.115.172.0/22"
+    ],
     "ipv6": []
   }
 }

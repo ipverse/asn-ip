@@ -3,7 +3,10 @@
   "handle": "TEZTOUR",
   "description": "SINUM CURRUS LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.224.2.0/23",
+      "194.165.24.0/23"
+    ],
     "ipv6": []
   }
 }

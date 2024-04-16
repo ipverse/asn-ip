@@ -3,7 +3,9 @@
   "handle": "CCGL-US",
   "description": "Credit Corp Solutions Inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "104.224.43.0/24"
+    ],
     "ipv6": []
   }
 }

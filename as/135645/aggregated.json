@@ -3,7 +3,9 @@
   "handle": "SURESTEPROPERTIES-AP",
   "description": "Sureste Properties, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.79.110.0/23"
+    ],
     "ipv6": []
   }
 }

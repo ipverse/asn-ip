@@ -3,7 +3,10 @@
   "handle": "FNS",
   "description": "Fiber Networks Services S.A.R.L",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.127.124.0/22",
+      "193.27.232.0/22"
+    ],
     "ipv6": []
   }
 }

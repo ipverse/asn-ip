@@ -3,7 +3,9 @@
   "handle": "SCUHS",
   "description": "Southern California University of Health Sciences",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "205.151.210.0/23"
+    ],
     "ipv6": []
   }
 }

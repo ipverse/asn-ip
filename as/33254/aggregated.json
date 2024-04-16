@@ -3,7 +3,9 @@
   "handle": "OMERESA",
   "description": "Ohio Mid Eastern Regional Education Service Agency",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "204.9.144.0/21"
+    ],
     "ipv6": []
   }
 }

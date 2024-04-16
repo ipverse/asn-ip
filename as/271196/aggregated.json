@@ -3,7 +3,9 @@
   "handle": "GS-TELECOM",
   "description": "GS TELECOM",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "179.49.132.0/22"
+    ],
     "ipv6": []
   }
 }

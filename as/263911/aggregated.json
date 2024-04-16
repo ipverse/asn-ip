@@ -3,7 +3,9 @@
   "handle": "GPT-GLOBAL-PAICANDU",
   "description": "GPT - GLOBAL PAICANDU TELECOM LTDA - ME",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "190.109.88.0/22"
+    ],
     "ipv6": []
   }
 }

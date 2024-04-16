@@ -3,7 +3,9 @@
   "handle": "SPIDER",
   "description": "SPIDER NET \u0026 CO. SARL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.98.204.0/22"
+    ],
     "ipv6": []
   }
 }

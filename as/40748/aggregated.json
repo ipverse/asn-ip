@@ -3,7 +3,9 @@
   "handle": "CARCOM-MCTX",
   "description": "CarrierCOM LP",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "208.94.112.0/22"
+    ],
     "ipv6": []
   }
 }

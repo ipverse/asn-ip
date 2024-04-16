@@ -3,7 +3,10 @@
   "handle": "PATHWAYS",
   "description": "Pathways Health and Community Support LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "104.244.48.0/22",
+      "209.194.93.0/24"
+    ],
     "ipv6": []
   }
 }

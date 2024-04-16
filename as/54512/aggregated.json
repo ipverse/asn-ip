@@ -3,7 +3,9 @@
   "handle": "CHICKTEL-1",
   "description": "Chickamauga Telephone Corporation",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "198.38.48.0/20"
+    ],
     "ipv6": []
   }
 }

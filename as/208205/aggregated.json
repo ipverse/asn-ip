@@ -3,7 +3,9 @@
   "handle": "TALSION",
   "description": "TALSION SASU",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "178.17.220.0/22"
+    ],
     "ipv6": []
   }
 }

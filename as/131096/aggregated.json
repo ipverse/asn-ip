@@ -3,7 +3,9 @@
   "handle": "MASTERCAR",
   "description": "Master Motors Management",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "220.75.200.0/24"
+    ],
     "ipv6": []
   }
 }

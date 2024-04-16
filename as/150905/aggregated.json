@@ -3,7 +3,9 @@
   "handle": "EVNCPC-VN",
   "description": "CENTRAL ELECTRICITY INFORMATION TECHNOLOGY COMPANY - CENTRAL REGIONAL ELECTRICITY CORPORATION",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.78.6.0/23"
+    ],
     "ipv6": []
   }
 }

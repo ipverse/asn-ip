@@ -3,7 +3,11 @@
   "handle": "ELOCITY-TRADE-FINANCIAL-SERVICES",
   "description": "Velocity Trade Financial Services (Pty) Ltd",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "160.119.96.0/22"
+    ],
+    "ipv6": [
+      "2001:43f8:d20::/44"
+    ]
   }
 }

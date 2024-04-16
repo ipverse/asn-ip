@@ -3,7 +3,9 @@
   "handle": "INTERSIEC",
   "description": "Urszula Kolodziej trading as INTERSIEC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.227.216.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "EPF-CO",
   "description": "Arconic Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "142.79.0.0/23"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "EKSI",
   "description": "Limited Liability Company EKSI-LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.201.188.0/22"
+    ],
     "ipv6": []
   }
 }

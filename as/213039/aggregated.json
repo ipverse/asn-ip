@@ -3,7 +3,10 @@
   "handle": "MIKRAMIX-BG",
   "description": "MIKRAMIX LTD.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "81.163.210.0/24",
+      "185.167.77.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,11 @@
   "handle": "SERVIMAST-JPM",
   "description": "SERVIMAST JPM SRL",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "38.252.230.0/23"
+    ],
+    "ipv6": [
+      "2803:7a90::/32"
+    ]
   }
 }

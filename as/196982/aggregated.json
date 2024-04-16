@@ -3,7 +3,9 @@
   "handle": "KRAJOWA-SKOK",
   "description": "Krajowa Spoldzielcza Kasa Oszczednosciowo-Kredytowa",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.105.191.0/24"
+    ],
     "ipv6": []
   }
 }

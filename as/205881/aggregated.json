@@ -3,7 +3,11 @@
   "handle": "MAN",
   "description": "MAN Truck \u0026 Bus SE",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "151.136.0.0/16"
+    ],
+    "ipv6": [
+      "2a07:4ac0:2400::/40"
+    ]
   }
 }

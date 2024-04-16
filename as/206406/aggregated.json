@@ -3,7 +3,9 @@
   "handle": "CBEY",
   "description": "C BEYOND s.a.l",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.187.92.0/22"
+    ],
     "ipv6": []
   }
 }

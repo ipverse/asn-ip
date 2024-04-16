@@ -3,7 +3,11 @@
   "handle": "TUDELFT-NL",
   "description": "SURF B.V.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "130.161.0.0/16",
+      "131.180.0.0/16",
+      "145.94.0.0/16"
+    ],
     "ipv6": []
   }
 }

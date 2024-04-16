@@ -3,7 +3,9 @@
   "handle": "AXATECHNOLOGIES",
   "description": "Axa Technologies Shared Services Private Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.219.4.0/23"
+    ],
     "ipv6": []
   }
 }

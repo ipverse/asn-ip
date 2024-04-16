@@ -3,7 +3,10 @@
   "handle": "BHP-BNE",
   "description": "BHP BILLITON IRON ORE PTY. LTD.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.108.253.0/24",
+      "145.34.152.0/21"
+    ],
     "ipv6": []
   }
 }

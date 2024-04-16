@@ -3,7 +3,9 @@
   "handle": "TRAFBIZ-01",
   "description": "Microsoft Corporation",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.65.247.0/24"
+    ],
     "ipv6": []
   }
 }

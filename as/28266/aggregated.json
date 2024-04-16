@@ -3,7 +3,9 @@
   "handle": "VANTE-PROVEDOR-INTERNET",
   "description": "Vante Provedor de Internet Ltda",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "177.223.32.0/20"
+    ],
     "ipv6": []
   }
 }

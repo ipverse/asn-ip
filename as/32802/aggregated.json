@@ -3,7 +3,9 @@
   "handle": "BROCKTONHOSPITAL-ORG",
   "description": "Brockton Hospital",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "208.84.32.0/22"
+    ],
     "ipv6": []
   }
 }

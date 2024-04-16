@@ -3,7 +3,9 @@
   "handle": "RMI-NETWORK-ATLANTA",
   "description": "Railcar Management Inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "208.67.24.0/23"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "VICENTE-CLAUDIO-ORLANDO",
   "description": "VICENTE CLAUDIO ORLANDO",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.232.152.0/22"
+    ],
     "ipv6": []
   }
 }

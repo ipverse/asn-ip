@@ -3,7 +3,10 @@
   "handle": "DE-CHOICETECH-INTEGRATED",
   "description": "De Choicetech Integrated Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "102.220.172.0/22",
+      "102.223.1.0/24"
+    ],
     "ipv6": []
   }
 }

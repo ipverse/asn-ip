@@ -3,7 +3,12 @@
   "handle": "TURBOSP-INTERNET-PROVIDER",
   "description": "Turbosp Internet Provider",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "177.185.48.0/20",
+      "190.180.128.0/20"
+    ],
+    "ipv6": [
+      "2804:af4::/32"
+    ]
   }
 }

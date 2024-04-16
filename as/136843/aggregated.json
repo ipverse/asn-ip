@@ -3,7 +3,9 @@
   "handle": "IDNIC-DISKOMINFOSMG-ID",
   "description": "Dinas Komunikasi dan Informatika Pemerintah Kota Semarang",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.101.52.0/24"
+    ],
     "ipv6": []
   }
 }

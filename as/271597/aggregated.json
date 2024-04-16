@@ -3,7 +3,13 @@
   "handle": "NEW-LINK-CONNECT",
   "description": "NEW LINK CONNECT",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "179.63.12.0/23",
+      "179.63.14.0/24"
+    ],
+    "ipv6": [
+      "2804:7e04::/34",
+      "2804:7e04:8000::/34"
+    ]
   }
 }

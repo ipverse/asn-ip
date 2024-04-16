@@ -3,7 +3,9 @@
   "handle": "BANKO-KEVE",
   "description": "Banco Keve",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "196.223.19.0/24"
+    ],
     "ipv6": []
   }
 }

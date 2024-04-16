@@ -3,7 +3,9 @@
   "handle": "MEGAPAGE",
   "description": "Megapage, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "62.76.210.0/24"
+    ],
     "ipv6": []
   }
 }

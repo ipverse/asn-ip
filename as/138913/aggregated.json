@@ -3,7 +3,9 @@
   "handle": "EDGECENTRES-AP",
   "description": "Edge Centres",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.165.182.0/23"
+    ],
     "ipv6": []
   }
 }

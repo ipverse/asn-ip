@@ -3,7 +3,9 @@
   "handle": "EVROBALL",
   "description": "EVROBALL LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.72.51.0/24"
+    ],
     "ipv6": []
   }
 }

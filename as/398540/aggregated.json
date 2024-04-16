@@ -3,7 +3,9 @@
   "handle": "COMPASS-MINERALS-01",
   "description": "Compass Minerals America Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "208.99.45.0/24"
+    ],
     "ipv6": []
   }
 }

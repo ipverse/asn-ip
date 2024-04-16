@@ -3,7 +3,11 @@
   "handle": "STHD1",
   "description": "SLASH TRES HAUT DEBIT",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "102.215.220.0/23"
+    ],
+    "ipv6": [
+      "2c0f:6680::/32"
+    ]
   }
 }

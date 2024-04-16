@@ -3,7 +3,9 @@
   "handle": "KMTSNET",
   "description": "KMTS Internet",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "69.26.64.0/19"
+    ],
     "ipv6": []
   }
 }

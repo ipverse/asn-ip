@@ -3,7 +3,9 @@
   "handle": "EU-VIST-NET",
   "description": "Visteon Corporation",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "202.0.77.0/24"
+    ],
     "ipv6": []
   }
 }

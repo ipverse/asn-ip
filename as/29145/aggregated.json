@@ -3,7 +3,9 @@
   "handle": "CENTAUR-GMBH",
   "description": "Centaur GmbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "217.30.48.0/20"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "J-L-MORAES-TELECOM",
   "description": "J da L Moraes Telecom ME",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "138.0.208.0/22"
+    ],
     "ipv6": []
   }
 }

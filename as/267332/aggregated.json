@@ -3,7 +3,12 @@
   "handle": "PROVEDOR-NET-MAIS",
   "description": "PROVEDOR NET MAIS LTDA - ME",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.233.244.0/22"
+    ],
+    "ipv6": [
+      "2804:4bd8::/37",
+      "2804:4bd8:8800::/37"
+    ]
   }
 }

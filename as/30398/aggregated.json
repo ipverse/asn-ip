@@ -3,7 +3,9 @@
   "handle": "ADS",
   "description": "Automated Data Systems",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "204.11.36.0/22"
+    ],
     "ipv6": []
   }
 }

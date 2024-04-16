@@ -3,7 +3,11 @@
   "handle": "CEBI-INTERNATIONAL",
   "description": "CEBI International SA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.145.36.0/24"
+    ],
+    "ipv6": [
+      "2a13:5840::/29"
+    ]
   }
 }

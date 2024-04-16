@@ -3,7 +3,9 @@
   "handle": "NETWORKING-CONSULTIN",
   "description": "NETWORKING CONSULTING SRL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "86.106.78.0/24"
+    ],
     "ipv6": []
   }
 }

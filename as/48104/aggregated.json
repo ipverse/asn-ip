@@ -3,7 +3,9 @@
   "handle": "SNGB",
   "description": "CJSB Surgutneftegabank",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.209.17.0/24"
+    ],
     "ipv6": []
   }
 }

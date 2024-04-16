@@ -3,7 +3,11 @@
   "handle": "UNIACESSO-SERVIOS-COMUNICAO",
   "description": "Uniacesso Servios de Comunicao Multimidia",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.234.52.0/22"
+    ],
+    "ipv6": [
+      "2804:4c44::/32"
+    ]
   }
 }

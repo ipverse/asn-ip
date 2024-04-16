@@ -3,7 +3,9 @@
   "handle": "ASREDCAT",
   "description": "D.O.O. Redcat",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "37.221.180.0/24"
+    ],
     "ipv6": []
   }
 }

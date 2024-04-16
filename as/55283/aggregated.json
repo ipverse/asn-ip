@@ -3,7 +3,9 @@
   "handle": "FHN-ASN-01",
   "description": "FHN",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "209.94.48.0/24"
+    ],
     "ipv6": []
   }
 }

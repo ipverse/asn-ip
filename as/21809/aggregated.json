@@ -3,7 +3,9 @@
   "handle": "LNRP",
   "description": "LNR Property Corp",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "65.205.155.0/24"
+    ],
     "ipv6": []
   }
 }

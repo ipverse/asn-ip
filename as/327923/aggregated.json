@@ -3,7 +3,9 @@
   "handle": "SOUTH-AFRICAN-BANKERS-SERVICES",
   "description": "South African Bankers Services Company Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "196.13.107.0/24"
+    ],
     "ipv6": []
   }
 }

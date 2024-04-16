@@ -3,7 +3,12 @@
   "handle": "ONEX-DATA-CENTERS",
   "description": "ONEX DATA CENTERS LTDA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "149.18.32.0/23",
+      "149.57.32.0/23"
+    ],
+    "ipv6": [
+      "2804:8730::/32"
+    ]
   }
 }

@@ -3,7 +3,9 @@
   "handle": "DECO",
   "description": "DECO MEDIA AND COMMUNICATIONS PVT LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.43.80.0/22"
+    ],
     "ipv6": []
   }
 }

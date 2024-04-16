@@ -3,7 +3,10 @@
   "handle": "WHITEHAT-US-PROD-2",
   "description": "Synopsys Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "162.223.124.0/24",
+      "162.244.4.0/24"
+    ],
     "ipv6": []
   }
 }

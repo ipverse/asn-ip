@@ -3,7 +3,9 @@
   "handle": "PROLINK-TELECOM",
   "description": "PROLINK TELECOM LTDA - ME",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.141.104.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,9 +3,11 @@
   "handle": "ESTIVANET-MULTIMIDIA-TELECOM",
   "description": "Estivanet Multimidia e Telecom Ltda",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.167.136.0/22"
+    ],
     "ipv6": [
-      "2804:5778:8000::/33"
+      "2804:5778::/32"
     ]
   }
 }

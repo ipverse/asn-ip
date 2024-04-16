@@ -3,7 +3,9 @@
   "handle": "MOSS-ADAMS-ASN01",
   "description": "MOSS ADAMS, LLP",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "204.62.199.0/24"
+    ],
     "ipv6": []
   }
 }

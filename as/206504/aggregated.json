@@ -3,7 +3,9 @@
   "handle": "RCARRE",
   "description": "RCARRE S.A.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.184.56.0/22"
+    ],
     "ipv6": []
   }
 }

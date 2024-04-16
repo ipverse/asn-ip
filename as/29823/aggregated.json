@@ -3,7 +3,9 @@
   "handle": "PBC-WA",
   "description": "Premera Blue Cross",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.187.88.0/22"
+    ],
     "ipv6": []
   }
 }

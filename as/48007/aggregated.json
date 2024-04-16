@@ -3,7 +3,10 @@
   "handle": "BANKNET",
   "description": "National Information Technologies Joint-Stock Company",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "93.191.224.0/24",
+      "93.191.231.0/24"
+    ],
     "ipv6": []
   }
 }

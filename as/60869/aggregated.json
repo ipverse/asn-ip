@@ -3,7 +3,10 @@
   "handle": "JSVOY",
   "description": "Jarvi-Suomen Valokuitu Oy",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "158.90.32.0/20",
+      "158.90.80.0/21"
+    ],
     "ipv6": []
   }
 }

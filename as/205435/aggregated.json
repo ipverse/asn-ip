@@ -3,7 +3,11 @@
   "handle": "GISA",
   "description": "GISA GmbH",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "185.158.224.0/22"
+    ],
+    "ipv6": [
+      "2a07:afc0::/29"
+    ]
   }
 }

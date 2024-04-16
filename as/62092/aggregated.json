@@ -3,7 +3,9 @@
   "handle": "NTS",
   "description": "NTS NETWORK SPA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.226.164.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,10 @@
   "handle": "CNC-CNB",
   "description": "Canandaigua National Corporation",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "66.152.126.0/24",
+      "72.43.67.0/24"
+    ],
     "ipv6": []
   }
 }

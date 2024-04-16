@@ -3,7 +3,11 @@
   "handle": "FEDEX",
   "description": "Federal Express Corporation Hong Kong Branch",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "155.161.12.0/23",
+      "155.161.50.0/23",
+      "155.161.67.0/24"
+    ],
     "ipv6": []
   }
 }

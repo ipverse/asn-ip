@@ -3,7 +3,9 @@
   "handle": "IDNIC-PROTELINDO-ID",
   "description": "PT Profesional Telekomunikasi Indonesia",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.191.150.0/23"
+    ],
     "ipv6": []
   }
 }

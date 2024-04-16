@@ -3,7 +3,9 @@
   "handle": "TLS-NET-MOZHGA",
   "description": "TELESET+ Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "78.31.0.0/21"
+    ],
     "ipv6": []
   }
 }

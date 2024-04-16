@@ -3,7 +3,9 @@
   "handle": "WBNET-01",
   "description": "Whatabrands LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "209.94.68.0/23"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "EBG",
   "description": "Baiersbronn Frischfaser Karton Holding GmbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "78.24.207.0/24"
+    ],
     "ipv6": [
       "2a09:5e00::/29"
     ]

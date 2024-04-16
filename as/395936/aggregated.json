@@ -3,7 +3,9 @@
   "handle": "ROVHIL",
   "description": "Rust-Oleum Corporation",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "12.205.165.0/24"
+    ],
     "ipv6": []
   }
 }

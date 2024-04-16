@@ -3,7 +3,10 @@
   "handle": "ASSEW",
   "description": "SEW-EURODRIVE GmbH \u0026 Co KG",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.180.0.0/22",
+      "194.180.4.0/23"
+    ],
     "ipv6": []
   }
 }

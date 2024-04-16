@@ -3,7 +3,11 @@
   "handle": "PORTO-FRANCO-TI",
   "description": "Porto Franco TI",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.234.48.0/22"
+    ],
+    "ipv6": [
+      "2804:4c28::/32"
+    ]
   }
 }

@@ -3,7 +3,10 @@
   "handle": "VALLEY-HEALTH-SYSTEM",
   "description": "Valley Health System",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.77.126.0/24",
+      "204.10.104.0/24"
+    ],
     "ipv6": []
   }
 }

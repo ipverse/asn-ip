@@ -3,7 +3,9 @@
   "handle": "JEANDELESTRE",
   "description": "Streeming SAS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.148.160.0/22"
+    ],
     "ipv6": []
   }
 }

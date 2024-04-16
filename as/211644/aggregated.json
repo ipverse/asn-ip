@@ -3,7 +3,12 @@
   "handle": "QAZCLOUD",
   "description": "QazCloud LLP",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "91.147.80.0/22",
+      "185.252.192.0/24"
+    ],
+    "ipv6": [
+      "2a10:b0c0::/32"
+    ]
   }
 }

@@ -3,7 +3,12 @@
   "handle": "MEDIANETWERK",
   "description": "NEP Norway AS",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "185.78.228.0/22",
+      "193.58.241.0/24"
+    ],
+    "ipv6": [
+      "2a05:6dc0::/29"
+    ]
   }
 }

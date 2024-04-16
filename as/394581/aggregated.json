@@ -3,7 +3,11 @@
   "handle": "BLUESPAN",
   "description": "Bluespan Wireless, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "74.122.160.0/22",
+      "172.110.169.0/24",
+      "172.110.170.0/24"
+    ],
     "ipv6": []
   }
 }

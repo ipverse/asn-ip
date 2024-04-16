@@ -3,7 +3,9 @@
   "handle": "C75-NETWORKS",
   "description": "Coloblox Data Centers Inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "208.88.30.0/24"
+    ],
     "ipv6": []
   }
 }

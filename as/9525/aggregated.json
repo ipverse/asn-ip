@@ -3,7 +3,9 @@
   "handle": "DBFI",
   "description": "DB Financial Investment Co.,Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "128.134.127.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "VITERRAPTYLTD-AP",
   "description": "VITERRA PTY LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.141.179.0/24"
+    ],
     "ipv6": []
   }
 }

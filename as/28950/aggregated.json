@@ -3,7 +3,9 @@
   "handle": "ZSZIK",
   "description": "AGENCJA RESTRUKTURYZACJI I MODERNIZACJI ROLNICTWA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.47.201.0/24"
+    ],
     "ipv6": []
   }
 }

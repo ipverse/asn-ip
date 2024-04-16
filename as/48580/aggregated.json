@@ -3,7 +3,9 @@
   "handle": "JKP-INFORMATIKA",
   "description": "JKP INFORMATIKA NOVI SAD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "94.247.200.0/21"
+    ],
     "ipv6": []
   }
 }

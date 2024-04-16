@@ -3,7 +3,9 @@
   "handle": "CANPACK",
   "description": "CANPACK S.A.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "88.220.107.0/24"
+    ],
     "ipv6": []
   }
 }

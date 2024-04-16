@@ -3,7 +3,9 @@
   "handle": "A-SOLUO-INTERNET",
   "description": "A Soluo Internet Banda Larga ltda me",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.229.76.0/22"
+    ],
     "ipv6": []
   }
 }

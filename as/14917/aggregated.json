@@ -3,7 +3,9 @@
   "handle": "MILTON-CAT",
   "description": "Milton CAT",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "208.254.119.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,10 @@
   "handle": "ASGDC",
   "description": "Active Solutions Group",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "162.217.176.0/24",
+      "162.254.68.0/23"
+    ],
     "ipv6": []
   }
 }

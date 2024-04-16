@@ -3,7 +3,9 @@
   "handle": "CITYTECH",
   "description": "CITYTECH S.A",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.178.184.0/22"
+    ],
     "ipv6": []
   }
 }

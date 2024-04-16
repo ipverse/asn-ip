@@ -3,7 +3,10 @@
   "handle": "FORRESTER-RESEARCH",
   "description": "Forrester Research",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "64.72.79.0/24",
+      "204.179.229.0/24"
+    ],
     "ipv6": []
   }
 }

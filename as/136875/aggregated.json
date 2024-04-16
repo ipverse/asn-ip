@@ -3,7 +3,9 @@
   "handle": "IDNIC-SI-PRIMA-ID",
   "description": "PT Solusi Inforindo Prima",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.105.115.0/24"
+    ],
     "ipv6": []
   }
 }

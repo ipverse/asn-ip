@@ -3,7 +3,10 @@
   "handle": "PAT",
   "description": "PLUG AND TEL SARL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "149.13.115.0/24",
+      "193.202.111.0/24"
+    ],
     "ipv6": []
   }
 }

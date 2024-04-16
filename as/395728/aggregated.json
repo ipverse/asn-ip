@@ -3,7 +3,9 @@
   "handle": "PHX",
   "description": "District Photo, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "63.158.195.0/24"
+    ],
     "ipv6": []
   }
 }

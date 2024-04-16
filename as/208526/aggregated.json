@@ -3,7 +3,9 @@
   "handle": "NIKITA",
   "description": "Nikita Mobile.Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.131.124.0/24"
+    ],
     "ipv6": []
   }
 }

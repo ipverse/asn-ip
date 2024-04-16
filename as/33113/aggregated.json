@@ -3,7 +3,9 @@
   "handle": "CONETRIX",
   "description": "CONETRIX LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "204.138.94.0/24"
+    ],
     "ipv6": []
   }
 }

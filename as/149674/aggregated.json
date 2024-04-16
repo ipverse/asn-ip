@@ -3,7 +3,9 @@
   "handle": "IDNIC-CLOUDWELL-ID",
   "description": "PT Cloudwel Network Indonesia",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.184.63.0/24"
+    ],
     "ipv6": []
   }
 }

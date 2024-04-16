@@ -3,7 +3,9 @@
   "handle": "PRIVAT-TELECOM",
   "description": "Privat Telecom LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.192.92.0/22"
+    ],
     "ipv6": []
   }
 }

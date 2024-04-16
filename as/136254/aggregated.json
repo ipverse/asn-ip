@@ -3,7 +3,9 @@
   "handle": "RSPL-AP",
   "description": "Rivercity Solutions Pty Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.153.59.0/24"
+    ],
     "ipv6": []
   }
 }

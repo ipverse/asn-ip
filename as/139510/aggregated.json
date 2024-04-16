@@ -3,7 +3,9 @@
   "handle": "THRISHUL-IN",
   "description": "Thrishul Broadband Private Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.146.170.0/24"
+    ],
     "ipv6": []
   }
 }

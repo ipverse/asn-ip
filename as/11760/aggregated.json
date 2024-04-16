@@ -3,7 +3,10 @@
   "handle": "CHFA",
   "description": "Connecticut Housing Finance Authority",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "12.187.46.0/24",
+      "63.117.105.0/24"
+    ],
     "ipv6": []
   }
 }

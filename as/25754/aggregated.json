@@ -3,7 +3,10 @@
   "handle": "BLUEPRINT",
   "description": "Blueprint America, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "104.193.152.0/22",
+      "208.83.200.0/21"
+    ],
     "ipv6": []
   }
 }

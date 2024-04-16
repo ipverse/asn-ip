@@ -3,7 +3,9 @@
   "handle": "HOYER-GMBH",
   "description": "Hoyer GmbH Internationale Fachspedition",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.184.224.0/22"
+    ],
     "ipv6": []
   }
 }

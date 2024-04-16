@@ -3,7 +3,9 @@
   "handle": "MBB",
   "description": "MUGLA METROPOLITAN MUNICIPALITY",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "37.200.87.0/24"
+    ],
     "ipv6": []
   }
 }

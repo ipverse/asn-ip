@@ -3,7 +3,11 @@
   "handle": "NAVIGATOR",
   "description": "NAVIGATOR - ONLINE TOV",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "213.169.64.0/19"
+    ],
+    "ipv6": [
+      "2a01:6880::/32"
+    ]
   }
 }

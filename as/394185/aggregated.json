@@ -3,7 +3,9 @@
   "handle": "BOU-BANCORP",
   "description": "Bank of Utah",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.236.9.0/24"
+    ],
     "ipv6": []
   }
 }

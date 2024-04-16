@@ -3,7 +3,10 @@
   "handle": "OZARK-FIBER",
   "description": "Ozark Fiber, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "216.47.0.0/20",
+      "216.47.16.0/21"
+    ],
     "ipv6": []
   }
 }

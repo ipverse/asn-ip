@@ -3,7 +3,9 @@
   "handle": "AMTOTE",
   "description": "AMTOTE INTERNATIONAL, INC.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.96.44.0/22"
+    ],
     "ipv6": []
   }
 }

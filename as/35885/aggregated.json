@@ -3,7 +3,9 @@
   "handle": "ASSETBLACK-DALLAS",
   "description": "Momentum Telecom, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "69.64.119.0/24"
+    ],
     "ipv6": []
   }
 }

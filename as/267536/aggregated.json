@@ -3,7 +3,9 @@
   "handle": "NETFLUX-INTERNET",
   "description": "NetFlux Internet",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "201.182.168.0/22"
+    ],
     "ipv6": [
       "2804:42e8::/32"
     ]

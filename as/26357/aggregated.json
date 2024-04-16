@@ -3,7 +3,11 @@
   "handle": "ORISO",
   "description": "Oriso Solutions Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.16.112.0/22",
+      "199.101.164.0/22",
+      "205.149.0.0/21"
+    ],
     "ipv6": []
   }
 }

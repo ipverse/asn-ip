@@ -3,7 +3,10 @@
   "handle": "PRCINTERNET-GATEWAY",
   "description": "PRC Internet Corp",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "23.171.144.0/24",
+      "67.206.238.0/24"
+    ],
     "ipv6": []
   }
 }

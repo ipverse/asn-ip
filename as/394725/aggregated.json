@@ -3,7 +3,11 @@
   "handle": "CALICO",
   "description": "Calico Life Sciences LLC",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "206.126.251.0/24"
+    ],
+    "ipv6": [
+      "2620:e4:4000::/48"
+    ]
   }
 }

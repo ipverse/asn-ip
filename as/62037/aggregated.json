@@ -3,7 +3,9 @@
   "handle": "TFS-BG",
   "description": "Transcard Financial Services EAD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.225.51.0/24"
+    ],
     "ipv6": []
   }
 }

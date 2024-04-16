@@ -3,7 +3,9 @@
   "handle": "SUPERFUND-ASSET-MANAGEMENT-GMBH",
   "description": "Superfund Asset Management GmbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.242.118.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "SAFE-TELECOM",
   "description": "Safe Telecom",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.141.216.0/24"
+    ],
     "ipv6": []
   }
 }

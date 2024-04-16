@@ -3,7 +3,11 @@
   "handle": "LIDERNET-TELECOM",
   "description": "Lidernet Telecom",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.184.128.0/22"
+    ],
+    "ipv6": [
+      "2804:62f0::/32"
+    ]
   }
 }

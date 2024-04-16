@@ -3,7 +3,9 @@
   "handle": "JRTHOMPSON-NOC",
   "description": "J.R. Thompson Company",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "68.22.5.0/24"
+    ],
     "ipv6": []
   }
 }

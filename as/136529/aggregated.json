@@ -3,7 +3,9 @@
   "handle": "HRSAUSTRALASIAPTYLTD-AP",
   "description": "HRS AUSTRALASIA PTY LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.141.212.0/24"
+    ],
     "ipv6": []
   }
 }

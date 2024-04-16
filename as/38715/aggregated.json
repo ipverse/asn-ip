@@ -3,7 +3,9 @@
   "handle": "TOTTORI-REGIONAL-IX",
   "description": "Foresightwave INC.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "203.173.80.0/21"
+    ],
     "ipv6": []
   }
 }

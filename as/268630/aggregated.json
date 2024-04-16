@@ -3,7 +3,11 @@
   "handle": "F2-FIBRA-TELECOM-EIRELI",
   "description": "F2 FIBRA TELECOM EIRELI ME",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.164.104.0/22"
+    ],
+    "ipv6": [
+      "2804:5420::/32"
+    ]
   }
 }

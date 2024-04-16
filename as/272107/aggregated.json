@@ -3,7 +3,9 @@
   "handle": "DISPROFARMA",
   "description": "DISPROFARMA SA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "190.151.134.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "TRANSUNION-INTERNATIONAL-UK-LIMITED",
   "description": "TRANSUNION INTERNATIONAL UK LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "149.255.184.0/21"
+    ],
     "ipv6": []
   }
 }

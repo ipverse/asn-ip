@@ -3,7 +3,10 @@
   "handle": "NGROUP",
   "description": "FOP Polischyk O.V",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "31.148.149.0/24",
+      "95.47.59.0/24"
+    ],
     "ipv6": []
   }
 }

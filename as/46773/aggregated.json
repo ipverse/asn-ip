@@ -3,7 +3,10 @@
   "handle": "INTEGRATED-DATA-PROCESSING",
   "description": "INTEGRATED DATA PROCESSING, INC.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "63.109.222.0/24",
+      "65.207.59.0/24"
+    ],
     "ipv6": []
   }
 }

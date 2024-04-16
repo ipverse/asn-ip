@@ -3,7 +3,9 @@
   "handle": "KUNET",
   "description": "Korea University",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "163.152.0.0/16"
+    ],
     "ipv6": []
   }
 }

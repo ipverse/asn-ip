@@ -3,7 +3,10 @@
   "handle": "STA",
   "description": "The St. Paul Travelers Companies, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "170.202.200.0/24",
+      "170.202.208.0/22"
+    ],
     "ipv6": []
   }
 }

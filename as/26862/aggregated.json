@@ -3,7 +3,9 @@
   "handle": "FULLNETINC",
   "description": "FULLNET INC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "208.110.176.0/20"
+    ],
     "ipv6": []
   }
 }

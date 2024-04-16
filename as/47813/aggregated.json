@@ -3,7 +3,9 @@
   "handle": "ATOMLANTISNET",
   "description": "Atomlantis Network, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "104.234.16.0/24"
+    ],
     "ipv6": []
   }
 }

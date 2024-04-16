@@ -3,7 +3,9 @@
   "handle": "JEFFPARISH",
   "description": "Parish of Jefferson",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.160.127.0/24"
+    ],
     "ipv6": []
   }
 }

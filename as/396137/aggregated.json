@@ -3,7 +3,9 @@
   "handle": "INFOR-3",
   "description": "Infor (US), LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "159.172.177.0/24"
+    ],
     "ipv6": []
   }
 }

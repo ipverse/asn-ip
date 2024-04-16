@@ -3,7 +3,9 @@
   "handle": "SAGRADO",
   "description": "Universidad del Sagrado Corazon",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "65.38.194.0/23"
+    ],
     "ipv6": []
   }
 }

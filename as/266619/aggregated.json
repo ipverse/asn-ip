@@ -3,7 +3,10 @@
   "handle": "LOGPLAY-TELECOM",
   "description": "LOGPLAY TELECOM",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.7.217.0/24",
+      "45.7.218.0/23"
+    ],
     "ipv6": []
   }
 }

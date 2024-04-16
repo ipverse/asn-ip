@@ -3,7 +3,9 @@
   "handle": "BRONGUS",
   "description": "Brongus",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "94.140.16.0/24"
+    ],
     "ipv6": []
   }
 }

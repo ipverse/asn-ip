@@ -3,7 +3,9 @@
   "handle": "NETWOO-AP",
   "description": "NETWOO TELECOM (HK) LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.194.244.0/22"
+    ],
     "ipv6": []
   }
 }

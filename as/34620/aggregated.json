@@ -3,7 +3,9 @@
   "handle": "MIKRONET-LTD",
   "description": "Mikronet SIA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "85.255.64.0/20"
+    ],
     "ipv6": []
   }
 }

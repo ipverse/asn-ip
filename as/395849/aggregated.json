@@ -3,7 +3,11 @@
   "handle": "OXIDE",
   "description": "Oxide Computer Company",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.154.216.0/24"
+    ],
+    "ipv6": [
+      "2620:b2:2000::/48"
+    ]
   }
 }

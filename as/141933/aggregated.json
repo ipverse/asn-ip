@@ -3,7 +3,9 @@
   "handle": "IDNIC-SID-ID",
   "description": "PT Solusi Internet Desa",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.166.64.0/23"
+    ],
     "ipv6": []
   }
 }

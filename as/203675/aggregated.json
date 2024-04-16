@@ -3,7 +3,9 @@
   "handle": "VISTA",
   "description": "VISTA SH.P.K.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.82.108.0/22"
+    ],
     "ipv6": []
   }
 }

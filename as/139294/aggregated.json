@@ -3,7 +3,10 @@
   "handle": "SBN-AP",
   "description": "skynet broadband network",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.115.117.0/24",
+      "103.140.234.0/24"
+    ],
     "ipv6": []
   }
 }

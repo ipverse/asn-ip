@@ -3,7 +3,9 @@
   "handle": "IMC-SOGAZ",
   "description": "OBIT Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "80.79.77.0/24"
+    ],
     "ipv6": []
   }
 }

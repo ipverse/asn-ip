@@ -3,7 +3,9 @@
   "handle": "APPLIC8",
   "description": "APPLIC8 SA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.220.81.0/24"
+    ],
     "ipv6": []
   }
 }

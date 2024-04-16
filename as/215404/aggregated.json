@@ -3,7 +3,12 @@
   "handle": "INACCURATE",
   "description": "Inaccurate Technologies S.R.L.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "87.236.248.0/21",
+      "185.218.227.0/24"
+    ],
+    "ipv6": [
+      "2a14:dc0:100::/40"
+    ]
   }
 }

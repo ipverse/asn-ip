@@ -3,7 +3,9 @@
   "handle": "IDNIC-BINAKARSATURAYA-ID",
   "description": "PT Bina Karsa Turaya",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.210.3.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,10 @@
   "handle": "WBAG-AT",
   "description": "Wiener Borse AG",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.251.16.0/24",
+      "213.164.9.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "TAZ",
   "description": "TAZ IT SERVICES SRL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "188.213.48.0/24"
+    ],
     "ipv6": []
   }
 }

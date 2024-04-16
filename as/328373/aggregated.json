@@ -3,7 +3,10 @@
   "handle": "VILLAGE-OPERATOR",
   "description": "Village Operator",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "102.131.60.0/23",
+      "102.131.62.0/24"
+    ],
     "ipv6": []
   }
 }

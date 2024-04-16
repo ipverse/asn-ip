@@ -3,7 +3,9 @@
   "handle": "RTP-MEDIA",
   "description": "RTP LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.194.184.0/23"
+    ],
     "ipv6": []
   }
 }

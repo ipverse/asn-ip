@@ -3,7 +3,9 @@
   "handle": "KOMPANION-BANK",
   "description": "Kompanion Bank CJSC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "95.47.168.0/23"
+    ],
     "ipv6": []
   }
 }

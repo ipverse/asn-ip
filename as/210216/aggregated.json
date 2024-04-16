@@ -3,7 +3,9 @@
   "handle": "HCLUK-MS",
   "description": "HCL Technologies UK Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.164.28.0/24"
+    ],
     "ipv6": []
   }
 }

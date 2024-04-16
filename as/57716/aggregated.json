@@ -3,7 +3,9 @@
   "handle": "ASSKYNET",
   "description": "Skynet Telecom s.r.o.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.150.72.0/22"
+    ],
     "ipv6": []
   }
 }

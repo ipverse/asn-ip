@@ -3,7 +3,9 @@
   "handle": "MEDISYS-36",
   "description": "Medisys Health Network, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "98.0.236.0/24"
+    ],
     "ipv6": []
   }
 }

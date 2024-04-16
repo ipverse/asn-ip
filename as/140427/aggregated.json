@@ -3,7 +3,9 @@
   "handle": "IDNIC-PTPNIV-ID",
   "description": "PT Perkebunan Nusantara IV (PTPN IV)",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.152.5.0/24"
+    ],
     "ipv6": []
   }
 }

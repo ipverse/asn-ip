@@ -3,7 +3,10 @@
   "handle": "KOCHOLDING",
   "description": "KOC HOLDING A.S.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "81.8.23.0/24",
+      "193.243.218.0/24"
+    ],
     "ipv6": []
   }
 }

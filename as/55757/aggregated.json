@@ -3,7 +3,10 @@
   "handle": "SYNNET-AP",
   "description": "Synechron Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.243.28.0/24",
+      "202.59.231.0/24"
+    ],
     "ipv6": []
   }
 }

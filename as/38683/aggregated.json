@@ -3,7 +3,11 @@
   "handle": "NEC",
   "description": "National Electoin Commission",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "14.63.127.0/24",
+      "58.184.177.0/24",
+      "103.105.160.0/22"
+    ],
     "ipv6": []
   }
 }

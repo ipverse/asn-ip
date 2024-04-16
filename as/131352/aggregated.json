@@ -3,7 +3,9 @@
   "handle": "VNCERT-VN",
   "description": "Vietnam Cybersecurity Emergency Response Teams/Coordination Center",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.28.172.0/22"
+    ],
     "ipv6": []
   }
 }

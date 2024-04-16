@@ -3,7 +3,9 @@
   "handle": "KCB",
   "description": "Kuwait Credit Bank - KCB",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.56.9.0/24"
+    ],
     "ipv6": []
   }
 }

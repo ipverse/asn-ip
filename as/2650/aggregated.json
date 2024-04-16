@@ -3,7 +3,10 @@
   "handle": "EOP",
   "description": "Executive Office Of The President",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "165.119.0.0/16",
+      "204.68.207.0/24"
+    ],
     "ipv6": []
   }
 }

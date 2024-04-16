@@ -3,7 +3,10 @@
   "handle": "BAIKAL",
   "description": "Baikal telecom LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "94.154.80.0/21",
+      "194.143.148.0/23"
+    ],
     "ipv6": []
   }
 }

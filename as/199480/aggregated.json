@@ -3,7 +3,9 @@
   "handle": "JAPO",
   "description": "Alajarven Puhelinosuuskunta, JAPO",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "212.66.192.0/19"
+    ],
     "ipv6": []
   }
 }

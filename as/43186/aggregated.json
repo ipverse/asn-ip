@@ -3,7 +3,9 @@
   "handle": "VERIVOX-OFFICE",
   "description": "Verivox GmbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "83.137.190.0/23"
+    ],
     "ipv6": []
   }
 }

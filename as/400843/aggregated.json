@@ -3,7 +3,9 @@
   "handle": "AUDACY",
   "description": "Audacy",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "50.174.192.0/24"
+    ],
     "ipv6": []
   }
 }

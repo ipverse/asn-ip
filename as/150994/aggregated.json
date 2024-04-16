@@ -3,7 +3,9 @@
   "handle": "IDNIC-ZUBYDIGITALNETWORK-ID",
   "description": "PT Zuby Digital Network",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.182.248.0/24"
+    ],
     "ipv6": []
   }
 }

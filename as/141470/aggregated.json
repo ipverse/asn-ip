@@ -3,7 +3,9 @@
   "handle": "GOVNET-AP",
   "description": "ITC Services",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "124.108.24.0/21"
+    ],
     "ipv6": []
   }
 }

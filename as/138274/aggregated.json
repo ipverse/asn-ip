@@ -3,7 +3,9 @@
   "handle": "GIGALO-IN",
   "description": "Gigalo Communication Pvt. Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.132.204.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "VELOO-TELECOM",
   "description": "VELOO TELECOM",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "201.148.176.0/22"
+    ],
     "ipv6": []
   }
 }

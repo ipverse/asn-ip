@@ -3,7 +3,9 @@
   "handle": "SURESTEPROPERTIES-PH",
   "description": "Sureste Properties, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "202.78.79.0/24"
+    ],
     "ipv6": []
   }
 }

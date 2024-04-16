@@ -3,7 +3,9 @@
   "handle": "IMA-TELECOM",
   "description": "IMA TELECOM LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "143.137.48.0/22"
+    ],
     "ipv6": []
   }
 }

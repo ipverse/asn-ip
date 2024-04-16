@@ -3,7 +3,9 @@
   "handle": "FR-U-ANGERS",
   "description": "Renater",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.93.219.0/24"
+    ],
     "ipv6": []
   }
 }

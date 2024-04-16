@@ -3,7 +3,9 @@
   "handle": "MBLOX-US",
   "description": "MBLOX INC.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "63.236.51.0/24"
+    ],
     "ipv6": []
   }
 }

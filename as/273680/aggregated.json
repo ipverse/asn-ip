@@ -4,6 +4,8 @@
   "description": "ZON NETWORKS SERVICOS LTDA",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2804:8a9c::/32"
+    ]
   }
 }

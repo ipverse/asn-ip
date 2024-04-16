@@ -3,7 +3,9 @@
   "handle": "TELNA-UK",
   "description": "TELNA (UK) LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "139.28.84.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "OCC-MAIN",
   "description": "Onondaga Community College",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "216.6.240.0/20"
+    ],
     "ipv6": []
   }
 }

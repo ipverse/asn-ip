@@ -3,7 +3,10 @@
   "handle": "YALEN-SET",
   "description": "Yelin Lapidot Investment Portfolio Management Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "147.234.27.0/24",
+      "193.84.87.0/24"
+    ],
     "ipv6": []
   }
 }

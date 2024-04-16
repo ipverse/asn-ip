@@ -3,7 +3,9 @@
   "handle": "TREC-GLOBAL-AP",
   "description": "Trec Global Pacific Transit AS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "125.212.63.0/24"
+    ],
     "ipv6": []
   }
 }

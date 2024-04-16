@@ -3,7 +3,11 @@
   "handle": "TRUCKS-CONTROL-SERVIOS",
   "description": "Trucks Control - Servios de Logstica Ltda",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "189.113.144.0/20"
+    ],
+    "ipv6": [
+      "2801:80:550::/48"
+    ]
   }
 }

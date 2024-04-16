@@ -3,7 +3,10 @@
   "handle": "TRK-SIRIUS",
   "description": "TRK Sirius LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "31.131.140.0/23",
+      "91.217.244.0/24"
+    ],
     "ipv6": []
   }
 }

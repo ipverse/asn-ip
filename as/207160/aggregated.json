@@ -3,7 +3,11 @@
   "handle": "EK401",
   "description": "EK 401 Grundstuecksverwaltungs-GmbH",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "185.65.243.0/24"
+    ],
+    "ipv6": [
+      "2001:67c:232c::/48"
+    ]
   }
 }

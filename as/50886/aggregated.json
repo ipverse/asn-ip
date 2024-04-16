@@ -3,7 +3,9 @@
   "handle": "NETFIL",
   "description": "NETFIL SRL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "85.122.144.0/21"
+    ],
     "ipv6": []
   }
 }

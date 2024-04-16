@@ -3,7 +3,11 @@
   "handle": "VANTIVA",
   "description": "VANTIVA SA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "205.143.199.0/24",
+      "208.83.89.0/24",
+      "216.20.164.0/24"
+    ],
     "ipv6": []
   }
 }

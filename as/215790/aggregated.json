@@ -3,7 +3,9 @@
   "handle": "UNLUMENKUL",
   "description": "UNLU MENKUL DEGERLER A.S.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.238.40.0/22"
+    ],
     "ipv6": []
   }
 }

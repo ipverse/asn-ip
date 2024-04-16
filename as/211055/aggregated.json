@@ -3,7 +3,9 @@
   "handle": "REGIONBRETAGNE",
   "description": "REGION BRETAGNE",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.233.130.0/24"
+    ],
     "ipv6": []
   }
 }

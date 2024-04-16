@@ -3,7 +3,11 @@
   "handle": "AIRKHV",
   "description": "JSC Khabarovsky airport",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "194.226.188.0/24"
+    ],
+    "ipv6": [
+      "2001:67c:698::/48"
+    ]
   }
 }

@@ -3,7 +3,9 @@
   "handle": "MERCATOR-CG",
   "description": "MERCATOR-CG DOO Podgorica",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.217.138.0/24"
+    ],
     "ipv6": []
   }
 }

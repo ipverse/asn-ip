@@ -3,7 +3,9 @@
   "handle": "KOLBI",
   "description": "Fastnet LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "89.248.176.0/20"
+    ],
     "ipv6": []
   }
 }

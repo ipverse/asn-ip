@@ -3,7 +3,9 @@
   "handle": "HOSTINGMEDIAVPNLTD",
   "description": "HOSTING MEDIA VPN LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.37.41.0/24"
+    ],
     "ipv6": []
   }
 }

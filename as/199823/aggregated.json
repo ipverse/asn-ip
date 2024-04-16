@@ -3,7 +3,9 @@
   "handle": "SGB",
   "description": "SGB-Bank Spolka Akcyjna",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "88.220.72.0/24"
+    ],
     "ipv6": []
   }
 }

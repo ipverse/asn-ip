@@ -3,7 +3,10 @@
   "handle": "QANTASAIRLTD-AP",
   "description": "QANTAS Airways Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "139.163.0.0/16",
+      "168.134.0.0/16"
+    ],
     "ipv6": []
   }
 }

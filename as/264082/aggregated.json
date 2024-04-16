@@ -3,7 +3,9 @@
   "handle": "4LINE-TELECOMUNICACOES",
   "description": "4LINE TELECOMUNICACOES LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "143.202.232.0/22"
+    ],
     "ipv6": []
   }
 }

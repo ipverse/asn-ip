@@ -3,7 +3,10 @@
   "handle": "TECNOLOGIA-APLICADA",
   "description": "TECNOLOGIA APLICADA, S.A (TECNASA)",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "200.12.211.0/24",
+      "201.218.210.0/24"
+    ],
     "ipv6": []
   }
 }

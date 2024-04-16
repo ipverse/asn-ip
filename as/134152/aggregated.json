@@ -3,7 +3,9 @@
   "handle": "XTSB-AP",
   "description": "XMT Technologies Sdn Bhd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.118.20.0/22"
+    ],
     "ipv6": []
   }
 }

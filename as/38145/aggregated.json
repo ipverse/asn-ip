@@ -3,7 +3,9 @@
   "handle": "PANCA-ID",
   "description": "PT. Panca Dewata Utama",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "202.180.48.0/21"
+    ],
     "ipv6": []
   }
 }

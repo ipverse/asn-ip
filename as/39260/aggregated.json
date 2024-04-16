@@ -3,7 +3,9 @@
   "handle": "MCR",
   "description": "Visma Software SRL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.238.88.0/23"
+    ],
     "ipv6": []
   }
 }

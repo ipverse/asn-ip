@@ -3,7 +3,9 @@
   "handle": "SOFTGROUP-AD",
   "description": "SOFTGROUP AD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "151.251.38.0/24"
+    ],
     "ipv6": []
   }
 }

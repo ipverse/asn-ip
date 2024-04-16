@@ -3,7 +3,10 @@
   "handle": "TELEVOICEPL",
   "description": "Televoice Polska Sp. z o.o.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.129.32.0/22",
+      "195.85.227.0/24"
+    ],
     "ipv6": []
   }
 }

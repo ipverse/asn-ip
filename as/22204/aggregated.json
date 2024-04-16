@@ -3,7 +3,9 @@
   "handle": "ACETO",
   "description": "Aceto Corporation",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "63.125.179.0/24"
+    ],
     "ipv6": []
   }
 }

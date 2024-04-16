@@ -3,7 +3,10 @@
   "handle": "KOFAX",
   "description": "Kofax, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "8.45.53.0/24",
+      "193.118.166.0/24"
+    ],
     "ipv6": []
   }
 }

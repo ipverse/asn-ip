@@ -3,7 +3,9 @@
   "handle": "CREDIT-BANK",
   "description": "Credit Bank PLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "102.221.98.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "SVDH",
   "description": "Sierra View District Hospital",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.41.177.0/24"
+    ],
     "ipv6": []
   }
 }

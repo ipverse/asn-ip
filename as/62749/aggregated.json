@@ -3,7 +3,9 @@
   "handle": "DIGITALK-NAP-1",
   "description": "DIGITALK Cloud Inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.32.76.0/24"
+    ],
     "ipv6": []
   }
 }

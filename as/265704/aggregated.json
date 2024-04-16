@@ -3,7 +3,10 @@
   "handle": "COOPERATIVA-ARBOLITO",
   "description": "COOPERATIVA ARBOLITO",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "138.36.220.0/22",
+      "168.181.176.0/22"
+    ],
     "ipv6": []
   }
 }

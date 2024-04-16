@@ -3,7 +3,9 @@
   "handle": "ASHLANDUNIVERSITY",
   "description": "Ashland University",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.123.13.0/24"
+    ],
     "ipv6": []
   }
 }

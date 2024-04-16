@@ -3,7 +3,10 @@
   "handle": "FARECOM",
   "description": "Farecom S.R.L.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.85.16.0/22",
+      "185.215.140.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,11 @@
   "handle": "BOT-INTERNET-SERVICOS",
   "description": "BOT INTERNET E SERVICOS DE TELECOMUNICACOES LTDA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "177.36.16.0/22"
+    ],
+    "ipv6": [
+      "2804:7560::/32"
+    ]
   }
 }

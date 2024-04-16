@@ -3,7 +3,11 @@
   "handle": "COOPERATIVA-REGIONAL-AURIVERDE",
   "description": "Cooperativa Regional Auriverde",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "131.196.71.0/24"
+    ],
+    "ipv6": [
+      "2801:80:1d40::/48"
+    ]
   }
 }

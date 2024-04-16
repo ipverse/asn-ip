@@ -3,7 +3,9 @@
   "handle": "TGNA-KVUE",
   "description": "TEGNA Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "167.8.87.0/24"
+    ],
     "ipv6": []
   }
 }

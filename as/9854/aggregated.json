@@ -3,7 +3,10 @@
   "handle": "KTO",
   "description": "KTO",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "175.122.1.0/24",
+      "175.122.2.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "TWINWAVE",
   "description": "Sam Maleki",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.96.32.0/19"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "MAGNAHOSTINGLTD-AP",
   "description": "Magna Hosting Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "43.246.216.0/22"
+    ],
     "ipv6": []
   }
 }

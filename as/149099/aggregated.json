@@ -3,7 +3,9 @@
   "handle": "HUNGTHINH-VN",
   "description": "HUNG THINH GROUP CORPORATION",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.186.180.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "MARLINK-EU-OMNIACCESS",
   "description": "Marlink AS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.220.160.0/23"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "CARR-INTERNET",
   "description": "CARR COMMUNICATIONS, INC.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "104.145.240.0/20"
+    ],
     "ipv6": []
   }
 }

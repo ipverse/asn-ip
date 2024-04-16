@@ -3,7 +3,9 @@
   "handle": "LNFCU-01",
   "description": "L \u0026 N Federal Credit Union",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "216.114.72.0/24"
+    ],
     "ipv6": []
   }
 }

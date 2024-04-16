@@ -3,7 +3,9 @@
   "handle": "FOURCS",
   "description": "4C Group AB",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.15.28.0/22"
+    ],
     "ipv6": []
   }
 }

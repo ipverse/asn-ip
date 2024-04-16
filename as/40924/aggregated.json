@@ -3,7 +3,9 @@
   "handle": "HSS",
   "description": "Harley Security Solutions LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "23.165.24.0/24"
+    ],
     "ipv6": []
   }
 }

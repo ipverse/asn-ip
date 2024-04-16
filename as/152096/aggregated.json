@@ -3,7 +3,9 @@
   "handle": "OTTOITCARE-AP",
   "description": "OTTOITCARE",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "115.84.170.0/24"
+    ],
     "ipv6": []
   }
 }

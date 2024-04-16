@@ -3,7 +3,9 @@
   "handle": "AZERICARD",
   "description": "Azericard LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "154.91.2.0/24"
+    ],
     "ipv6": []
   }
 }

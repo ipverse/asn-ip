@@ -3,7 +3,9 @@
   "handle": "PWP",
   "description": "Perella Weinberg Partners UK LLP",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.99.216.0/24"
+    ],
     "ipv6": []
   }
 }

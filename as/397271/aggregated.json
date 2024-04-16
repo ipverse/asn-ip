@@ -3,7 +3,9 @@
   "handle": "BCG",
   "description": "Blount County Government",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "207.65.99.0/24"
+    ],
     "ipv6": []
   }
 }

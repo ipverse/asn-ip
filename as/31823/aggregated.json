@@ -3,7 +3,10 @@
   "handle": "ITIVITI-USA",
   "description": "Itiviti USA, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "172.86.238.0/24",
+      "194.103.13.0/24"
+    ],
     "ipv6": []
   }
 }

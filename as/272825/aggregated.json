@@ -3,7 +3,9 @@
   "handle": "ELRIC-DISEOS-HONDURAS",
   "description": "ELRIC DISEOS DE HONDURAS, S.A.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "88.135.69.0/24"
+    ],
     "ipv6": []
   }
 }

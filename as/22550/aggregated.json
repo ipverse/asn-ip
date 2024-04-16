@@ -4,6 +4,8 @@
   "description": "Experian",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2610:18:8104::/48"
+    ]
   }
 }

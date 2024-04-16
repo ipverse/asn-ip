@@ -3,7 +3,9 @@
   "handle": "CHSDC",
   "description": "Center for Hellenic Studies",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "216.151.39.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "FANDANGO",
   "description": "Fandango Media, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "72.42.224.0/20"
+    ],
     "ipv6": []
   }
 }

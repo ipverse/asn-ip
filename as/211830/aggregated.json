@@ -3,7 +3,9 @@
   "handle": "FIRSTVPS-LTD",
   "description": "First VPS ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.219.4.0/24"
+    ],
     "ipv6": []
   }
 }

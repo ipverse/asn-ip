@@ -3,7 +3,10 @@
   "handle": "JTN-COMMUNICATIONS",
   "description": "JTN Communications, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "23.130.82.0/24",
+      "199.255.74.0/23"
+    ],
     "ipv6": []
   }
 }

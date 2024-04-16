@@ -3,7 +3,9 @@
   "handle": "PTROMANIA",
   "description": "PTR LIVE TECHNOLOGIES SRL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.245.53.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "ETHANALLEN",
   "description": "Ethan Allen Global, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "209.211.71.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "PH-HQ",
   "description": "PowerHouse",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "68.113.205.0/24"
+    ],
     "ipv6": []
   }
 }

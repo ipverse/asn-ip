@@ -3,7 +3,9 @@
   "handle": "NAXEX-TECH",
   "description": "Naxex Technological Development Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "37.60.143.0/24"
+    ],
     "ipv6": []
   }
 }

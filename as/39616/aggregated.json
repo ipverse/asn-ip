@@ -3,7 +3,9 @@
   "handle": "BZ-TEST",
   "description": "BZSOLUTIONS SRL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.242.63.0/24"
+    ],
     "ipv6": []
   }
 }

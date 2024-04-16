@@ -3,7 +3,9 @@
   "handle": "IDNIC-KOMINFOSANTIBLL-ID",
   "description": "Dinas Komunikasi Informatika Persandian dan Statistik Kabuapten Bueleleng",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.168.29.0/24"
+    ],
     "ipv6": []
   }
 }

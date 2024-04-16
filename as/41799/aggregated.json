@@ -3,7 +3,9 @@
   "handle": "POSTBANK",
   "description": "Eurobank Bulgaria AD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.242.126.0/23"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "APS-RA",
   "description": "Government Communication Agency, republic of Abkhazia",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.238.2.0/23"
+    ],
     "ipv6": []
   }
 }

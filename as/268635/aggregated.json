@@ -3,7 +3,9 @@
   "handle": "FIBER-UP-TELECOM-EIRELI",
   "description": "FIBER UP TELECOM EIRELI",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.164.32.0/22"
+    ],
     "ipv6": []
   }
 }

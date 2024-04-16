@@ -3,7 +3,11 @@
   "handle": "ONE-MILE-TELECOMS-PTY-LTD",
   "description": "One Mile Telecoms (Pty) Ltd.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "102.212.44.0/22"
+    ],
+    "ipv6": [
+      "2c0f:240::/32"
+    ]
   }
 }

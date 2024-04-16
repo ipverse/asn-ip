@@ -3,7 +3,9 @@
   "handle": "UDI-SMY-01",
   "description": "United Distributors, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "50.168.236.0/24"
+    ],
     "ipv6": []
   }
 }

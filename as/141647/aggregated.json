@@ -3,7 +3,9 @@
   "handle": "IDNIC-CGV-ID",
   "description": "PT Graha Layar Prima",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.162.43.0/24"
+    ],
     "ipv6": []
   }
 }

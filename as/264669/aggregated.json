@@ -3,7 +3,9 @@
   "handle": "TECNOCOMP",
   "description": "TECNOCOMP S.R.L.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "168.90.252.0/22"
+    ],
     "ipv6": []
   }
 }

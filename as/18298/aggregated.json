@@ -3,7 +3,9 @@
   "handle": "CNUNET",
   "description": "Chungnam National University",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "168.188.0.0/16"
+    ],
     "ipv6": []
   }
 }

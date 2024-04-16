@@ -3,7 +3,9 @@
   "handle": "CCPSL",
   "description": "Cast \u0026 Crew LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.43.191.0/24"
+    ],
     "ipv6": []
   }
 }

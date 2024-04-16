@@ -3,7 +3,9 @@
   "handle": "TMGHEALTH-FTW",
   "description": "TMG Health, Inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "8.21.212.0/24"
+    ],
     "ipv6": []
   }
 }

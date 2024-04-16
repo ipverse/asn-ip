@@ -3,7 +3,11 @@
   "handle": "AIDA",
   "description": "AIDA Cruises - German Branch of Costa Crociere S.p.A.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "91.223.2.0/24"
+    ],
+    "ipv6": [
+      "2a10:5380::/32"
+    ]
   }
 }

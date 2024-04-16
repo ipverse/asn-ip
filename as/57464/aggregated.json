@@ -3,7 +3,9 @@
   "handle": "ADI-COM-SOFT",
   "description": "ADI COM SOFT SRL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.93.100.0/24"
+    ],
     "ipv6": []
   }
 }

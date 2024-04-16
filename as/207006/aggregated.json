@@ -3,7 +3,11 @@
   "handle": "MACRONET",
   "description": "Antti Johannes Wilhelm Brummer trading as Macronet Tmi",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "185.196.232.0/22"
+    ],
+    "ipv6": [
+      "2a0a:73c0::/29"
+    ]
   }
 }

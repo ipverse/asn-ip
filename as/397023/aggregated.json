@@ -3,7 +3,11 @@
   "handle": "STARLING-01",
   "description": "Canadian Shield Data Center Inc",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "162.223.120.0/24"
+    ],
+    "ipv6": [
+      "2602:fedd:1::/48"
+    ]
   }
 }

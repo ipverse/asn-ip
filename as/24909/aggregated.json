@@ -3,7 +3,12 @@
   "handle": "TIMOCOM",
   "description": "TIMOCOM GmbH",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "193.111.167.0/24",
+      "195.234.149.0/24"
+    ],
+    "ipv6": [
+      "2001:67c:214c::/48"
+    ]
   }
 }

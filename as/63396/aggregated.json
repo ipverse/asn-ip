@@ -3,7 +3,9 @@
   "handle": "SIRS01",
   "description": "9013-6573 Quebec inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.131.234.0/24"
+    ],
     "ipv6": []
   }
 }

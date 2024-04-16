@@ -3,7 +3,9 @@
   "handle": "COMANDSOLUTIONS",
   "description": "COMAND Solutions, Inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "216.48.100.0/23"
+    ],
     "ipv6": []
   }
 }

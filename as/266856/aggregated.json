@@ -3,7 +3,9 @@
   "handle": "BRAVO-BARAHONA-WILLIAM",
   "description": "BRAVO BARAHONA WILLIAM ALBERTO(NUBESMART)",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.239.160.0/22"
+    ],
     "ipv6": []
   }
 }

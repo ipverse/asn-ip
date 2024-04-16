@@ -3,7 +3,9 @@
   "handle": "ESPORTS-HELLAS",
   "description": "ESPORTS HELLAS I.K.E",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "109.68.148.0/24"
+    ],
     "ipv6": []
   }
 }

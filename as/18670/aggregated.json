@@ -3,7 +3,10 @@
   "handle": "ARROWSTREET",
   "description": "Arrowstreet Capital, L.P.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.127.203.0/24",
+      "199.85.22.0/23"
+    ],
     "ipv6": []
   }
 }

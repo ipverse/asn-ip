@@ -3,7 +3,9 @@
   "handle": "LBCTECHSEC",
   "description": "Banque Laurentienne du Canada",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "69.46.114.0/24"
+    ],
     "ipv6": []
   }
 }

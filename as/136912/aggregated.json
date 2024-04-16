@@ -3,7 +3,9 @@
   "handle": "KINGS-AP",
   "description": "THE KING\u0027S SCHOOL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.98.236.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,10 @@
   "handle": "NIWA-AP",
   "description": "National Institute of Water and Atmospheric Research Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.229.249.0/24",
+      "202.36.29.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,10 @@
   "handle": "HOSTERS",
   "description": "CLOUDEUS SL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.132.34.0/24",
+      "185.127.129.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,10 @@
   "handle": "XTX",
   "description": "XTX Markets Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.253.245.0/24",
+      "185.253.246.0/23"
+    ],
     "ipv6": []
   }
 }

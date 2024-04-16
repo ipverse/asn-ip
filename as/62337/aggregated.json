@@ -3,7 +3,9 @@
   "handle": "TELE-LUCI",
   "description": "S.C. TELE-LUCI S.R.L.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.170.184.0/22"
+    ],
     "ipv6": []
   }
 }

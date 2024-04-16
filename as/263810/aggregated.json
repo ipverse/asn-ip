@@ -3,7 +3,9 @@
   "handle": "VOLKSWAGEN-ARGENTINA",
   "description": "VOLKSWAGEN ARGENTINA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "201.131.118.0/24"
+    ],
     "ipv6": []
   }
 }

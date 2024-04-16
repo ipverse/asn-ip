@@ -3,7 +3,9 @@
   "handle": "NATUSIE",
   "description": "Natus Manufacturing Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.136.252.0/22"
+    ],
     "ipv6": []
   }
 }

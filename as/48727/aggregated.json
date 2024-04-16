@@ -3,7 +3,9 @@
   "handle": "ADAMEK",
   "description": "Maria Anielska-Adamek trading as PHU ADAMEK",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.124.128.0/22"
+    ],
     "ipv6": []
   }
 }

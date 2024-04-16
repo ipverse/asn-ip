@@ -3,7 +3,11 @@
   "handle": "ORION-TELECOMUNICAES-COMERCIO",
   "description": "Orion Telecomunicaes Comercio e Servios LTDA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "189.36.192.0/20"
+    ],
+    "ipv6": [
+      "2804:1460::/32"
+    ]
   }
 }

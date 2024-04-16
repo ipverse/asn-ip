@@ -3,7 +3,9 @@
   "handle": "OURINET-TELECOM",
   "description": "OuriNet TELECOM",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "131.221.236.0/22"
+    ],
     "ipv6": []
   }
 }

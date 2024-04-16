@@ -3,7 +3,9 @@
   "handle": "ALMAVIVA-BRASIL",
   "description": "AlmavivA do Brasil S.A.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "177.86.252.0/22"
+    ],
     "ipv6": []
   }
 }

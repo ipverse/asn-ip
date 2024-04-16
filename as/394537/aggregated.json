@@ -3,7 +3,9 @@
   "handle": "DOW-CHEMICAL-EMPLOYEES-CU-01",
   "description": "Dow Credit Union",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "75.141.91.0/24"
+    ],
     "ipv6": []
   }
 }

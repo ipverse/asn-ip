@@ -3,7 +3,10 @@
   "handle": "RISS2",
   "description": "Regional Information Sharing Systems",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.15.140.0/23",
+      "199.15.142.0/24"
+    ],
     "ipv6": []
   }
 }

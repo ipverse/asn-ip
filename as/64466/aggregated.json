@@ -3,7 +3,12 @@
   "handle": "UMS",
   "description": "UNIVERSAL MOBILE SYSTEMS LCC",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "185.163.24.0/22",
+      "185.213.228.0/22"
+    ],
+    "ipv6": [
+      "2a09:adc0::/29"
+    ]
   }
 }

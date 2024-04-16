@@ -3,7 +3,11 @@
   "handle": "ASP-BE",
   "description": "ASP SA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "80.65.128.0/20"
+    ],
+    "ipv6": [
+      "2a00:c1c0::/32"
+    ]
   }
 }

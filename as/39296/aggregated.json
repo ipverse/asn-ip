@@ -3,7 +3,9 @@
   "handle": "FIFA",
   "description": "Federation Internationale de Football Association",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.250.52.0/24"
+    ],
     "ipv6": []
   }
 }

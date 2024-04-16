@@ -3,7 +3,11 @@
   "handle": "TEAM-HEALTH",
   "description": "Team Health, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "68.156.21.0/24",
+      "208.84.216.0/22",
+      "216.79.95.0/24"
+    ],
     "ipv6": []
   }
 }

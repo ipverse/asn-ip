@@ -3,7 +3,10 @@
   "handle": "SOUNDHOUND1",
   "description": "SoundHound, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "8.5.161.0/24",
+      "8.25.217.0/24"
+    ],
     "ipv6": []
   }
 }

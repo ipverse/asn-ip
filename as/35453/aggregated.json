@@ -3,7 +3,9 @@
   "handle": "PRIZZINFRA",
   "description": "PRIZZ INFRASTRUCTURE SAS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.67.64.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "ALFALEASING",
   "description": "ALFAMOBIL LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "83.242.107.0/24"
+    ],
     "ipv6": []
   }
 }

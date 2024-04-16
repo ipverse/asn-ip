@@ -3,7 +3,9 @@
   "handle": "LMAXHONGKONGLTD-AP",
   "description": "LMAX Hong Kong Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.219.175.0/24"
+    ],
     "ipv6": []
   }
 }

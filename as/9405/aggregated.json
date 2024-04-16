@@ -3,7 +3,10 @@
   "handle": "TPS-CN",
   "description": "Test platform Service Center",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "101.7.7.0/24",
+      "103.115.120.0/22"
+    ],
     "ipv6": [
       "2402:e740::/32"
     ]

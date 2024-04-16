@@ -3,7 +3,9 @@
   "handle": "SECURITASDIRECT",
   "description": "Securitas Direct AB",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.170.189.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,12 @@
   "handle": "DELTANET-NET",
   "description": "DELTA COMM LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "37.131.224.0/21",
+      "92.51.64.0/18",
+      "93.188.8.0/21",
+      "109.234.112.0/21"
+    ],
     "ipv6": []
   }
 }

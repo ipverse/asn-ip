@@ -3,7 +3,9 @@
   "handle": "B-R-SERVICOS-COMUNICACAO",
   "description": "B R A SERVICOS DE COMUNICACAO LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.185.48.0/22"
+    ],
     "ipv6": []
   }
 }

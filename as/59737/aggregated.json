@@ -3,7 +3,9 @@
   "handle": "HALCOM",
   "description": "Halcom a.d. Beograd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.74.88.0/23"
+    ],
     "ipv6": []
   }
 }

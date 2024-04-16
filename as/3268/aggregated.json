@@ -3,7 +3,11 @@
   "handle": "UNIVERSITY-OF-CYPRUS",
   "description": "University of Cyprus",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "82.116.192.0/19"
+    ],
+    "ipv6": [
+      "2a0d:8700::/29"
+    ]
   }
 }

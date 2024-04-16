@@ -3,7 +3,9 @@
   "handle": "BOSCOM",
   "description": "Boscom LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.123.164.0/22"
+    ],
     "ipv6": []
   }
 }

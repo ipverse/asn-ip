@@ -4,6 +4,8 @@
   "description": "REDESUB SERVIOS \u0026 INTERNET LTDA",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2804:7f20::/32"
+    ]
   }
 }

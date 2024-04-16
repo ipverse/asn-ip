@@ -3,7 +3,9 @@
   "handle": "PE",
   "description": "Pole emploi",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.215.64.0/22"
+    ],
     "ipv6": []
   }
 }

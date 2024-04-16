@@ -3,7 +3,9 @@
   "handle": "EIPS-14",
   "description": "The Board of Trustees of Elk Island Public Schools",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "142.60.0.0/16"
+    ],
     "ipv6": []
   }
 }

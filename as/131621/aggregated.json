@@ -3,7 +3,11 @@
   "handle": "TWNIC-NET",
   "description": "Taiwan Network Information Center",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "182.173.1.0/24"
+    ],
+    "ipv6": [
+      "2001:de4::/48"
+    ]
   }
 }

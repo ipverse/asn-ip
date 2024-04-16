@@ -3,7 +3,9 @@
   "handle": "DAX-INTERNET-EIRELI",
   "description": "DAX INTERNET EIRELI",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "168.121.244.0/22"
+    ],
     "ipv6": []
   }
 }

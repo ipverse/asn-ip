@@ -3,7 +3,9 @@
   "handle": "T-GENEL-SIGORTA",
   "description": "Mapfre Sigorta AS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "85.119.32.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "ACTIVIA",
   "description": "ACTIVIA S.A.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "201.131.119.0/24"
+    ],
     "ipv6": []
   }
 }

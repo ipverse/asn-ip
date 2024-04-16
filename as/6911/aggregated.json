@@ -3,7 +3,10 @@
   "handle": "PRO-NET",
   "description": "Associated Networks (UK) Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.5.189.0/24",
+      "185.5.190.0/23"
+    ],
     "ipv6": []
   }
 }

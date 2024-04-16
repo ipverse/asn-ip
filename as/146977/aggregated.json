@@ -3,7 +3,10 @@
   "handle": "NI-PO-NET",
   "description": "Niikawa Portal Co.,LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "61.200.64.0/20",
+      "219.124.80.0/20"
+    ],
     "ipv6": []
   }
 }

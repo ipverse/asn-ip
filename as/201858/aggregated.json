@@ -3,7 +3,9 @@
   "handle": "TELESETUFA",
   "description": "OOO MP SST",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.60.152.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "HOLCIM",
   "description": "Holcim Romania SA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.46.70.0/24"
+    ],
     "ipv6": []
   }
 }

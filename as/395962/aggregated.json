@@ -3,7 +3,10 @@
   "handle": "WSU-VAN",
   "description": "Washington State University",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "69.166.32.0/22",
+      "69.166.62.0/24"
+    ],
     "ipv6": []
   }
 }

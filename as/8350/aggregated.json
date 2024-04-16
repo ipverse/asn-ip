@@ -3,7 +3,9 @@
   "handle": "COMBELLGA",
   "description": "PJSC Vimpelcom",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "83.143.52.0/23"
+    ],
     "ipv6": []
   }
 }

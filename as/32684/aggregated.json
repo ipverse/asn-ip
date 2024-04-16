@@ -3,7 +3,9 @@
   "handle": "ARIENS",
   "description": "Ariens Company",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.26.104.0/24"
+    ],
     "ipv6": []
   }
 }

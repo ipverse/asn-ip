@@ -3,7 +3,9 @@
   "handle": "UK-ALPHA",
   "description": "GamerDating Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.5.252.0/24"
+    ],
     "ipv6": []
   }
 }

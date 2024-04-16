@@ -3,7 +3,11 @@
   "handle": "CONECT-PROVEDOR-INTERNET",
   "description": "Conect- Provedor de Internet Ltda EPP",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.7.116.0/22"
+    ],
+    "ipv6": [
+      "2804:3e44::/32"
+    ]
   }
 }

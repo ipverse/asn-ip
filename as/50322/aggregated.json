@@ -3,7 +3,9 @@
   "handle": "SOFTELLIGENCE",
   "description": "Softelligence SRL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "188.210.90.0/24"
+    ],
     "ipv6": []
   }
 }

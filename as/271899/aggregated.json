@@ -3,7 +3,11 @@
   "handle": "GIGAPOP-CA",
   "description": "GIGAPOP, C.A.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.7.0.0/21",
+      "38.9.160.0/19",
+      "200.10.235.0/24"
+    ],
     "ipv6": []
   }
 }

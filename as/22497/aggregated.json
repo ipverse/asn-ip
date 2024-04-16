@@ -3,7 +3,12 @@
   "handle": "LEHIGH-WIFI",
   "description": "Lehigh WiFi LLC",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "23.173.248.0/24",
+      "167.253.63.0/24"
+    ],
+    "ipv6": [
+      "2602:f946::/40"
+    ]
   }
 }

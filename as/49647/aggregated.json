@@ -3,7 +3,9 @@
   "handle": "SKY-UNWIRED",
   "description": "Sky Unwired DWC-LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.64.5.0/24"
+    ],
     "ipv6": []
   }
 }

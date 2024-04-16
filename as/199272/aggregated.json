@@ -3,7 +3,9 @@
   "handle": "ACCELYA",
   "description": "Accelya World SLU",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.14.24.0/22"
+    ],
     "ipv6": []
   }
 }

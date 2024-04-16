@@ -3,7 +3,10 @@
   "handle": "NETFOX",
   "description": "NetFox Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "178.212.8.0/21",
+      "195.114.2.0/23"
+    ],
     "ipv6": []
   }
 }

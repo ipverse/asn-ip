@@ -3,7 +3,9 @@
   "handle": "UNINET-TELECOM-INFORMTICA",
   "description": "UNINET TELECOM E INFORMTICA - EIRELLI - ME",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "170.81.12.0/22"
+    ],
     "ipv6": []
   }
 }

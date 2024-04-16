@@ -3,7 +3,14 @@
   "handle": "PLAZA-RED-SOLUCIONES",
   "description": "PLAZA RED SOLUCIONES INTEGRALES SAS",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "138.117.40.0/24",
+      "138.117.42.0/23",
+      "170.254.2.0/23"
+    ],
+    "ipv6": [
+      "2803:f840::/48",
+      "2803:f840:a::/47"
+    ]
   }
 }

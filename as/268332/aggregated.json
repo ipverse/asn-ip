@@ -3,7 +3,11 @@
   "handle": "TAIS-MARQUES-CERENTINI-EIRELI",
   "description": "TAIS MARQUES CERENTINI - EIRELI",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.238.136.0/22"
+    ],
+    "ipv6": [
+      "2804:4f88::/32"
+    ]
   }
 }

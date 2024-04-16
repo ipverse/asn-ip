@@ -3,7 +3,9 @@
   "handle": "HPINC",
   "description": "HP Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "168.87.4.0/23"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,10 @@
   "handle": "WLINK-CDN-AP",
   "description": "WorldLink Communications",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.211.150.0/23",
+      "124.41.244.0/22"
+    ],
     "ipv6": []
   }
 }

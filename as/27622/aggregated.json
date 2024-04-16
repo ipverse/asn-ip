@@ -3,7 +3,9 @@
   "handle": "RSA-AL",
   "description": "Retirement Systems of Alabama",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "74.254.150.0/24"
+    ],
     "ipv6": []
   }
 }

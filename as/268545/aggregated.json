@@ -3,7 +3,9 @@
   "handle": "NNET-TELECOMUNICAO",
   "description": "NNET TELECOMUNICAO LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.163.4.0/22"
+    ],
     "ipv6": []
   }
 }

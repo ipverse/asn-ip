@@ -3,7 +3,9 @@
   "handle": "GRUPO-TRIPLE-S",
   "description": "TRIPLE - S SALUD,INC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "208.83.38.0/24"
+    ],
     "ipv6": []
   }
 }

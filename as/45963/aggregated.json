@@ -3,7 +3,9 @@
   "handle": "KIRAMS",
   "description": "KIRAMS (Korea Institute of Radiological Medical Sciences)",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "203.247.182.0/24"
+    ],
     "ipv6": []
   }
 }

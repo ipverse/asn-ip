@@ -3,7 +3,10 @@
   "handle": "EVROTRUST",
   "description": "EVROTRUST TECHNOLOGIES AD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "85.14.46.0/24",
+      "185.92.133.0/24"
+    ],
     "ipv6": []
   }
 }

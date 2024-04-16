@@ -3,7 +3,9 @@
   "handle": "TRIPLEBCORP",
   "description": "Triple B Corporation",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "139.138.101.0/24"
+    ],
     "ipv6": []
   }
 }

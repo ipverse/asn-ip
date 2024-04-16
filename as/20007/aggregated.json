@@ -3,7 +3,10 @@
   "handle": "CIT-ASN-01",
   "description": "cloudIT",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.92.62.0/24",
+      "38.126.245.0/24"
+    ],
     "ipv6": []
   }
 }

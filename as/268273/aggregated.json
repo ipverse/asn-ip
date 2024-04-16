@@ -3,7 +3,11 @@
   "handle": "CABOSAT-INTERNET-EIRELI",
   "description": "CABOSAT INTERNET EIRELI",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.237.124.0/22"
+    ],
+    "ipv6": [
+      "2804:4ea0::/32"
+    ]
   }
 }

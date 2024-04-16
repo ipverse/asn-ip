@@ -3,7 +3,9 @@
   "handle": "IPS",
   "description": "IPS-INTEGRATED PROJECT SERVICES, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "50.237.229.0/24"
+    ],
     "ipv6": []
   }
 }

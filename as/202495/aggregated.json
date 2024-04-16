@@ -3,7 +3,9 @@
   "handle": "JDN",
   "description": "Jan De Nul Dredging NV",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.148.8.0/24"
+    ],
     "ipv6": []
   }
 }

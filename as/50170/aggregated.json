@@ -3,7 +3,9 @@
   "handle": "ALTEA",
   "description": "EYRAitservices SA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "109.70.152.0/22"
+    ],
     "ipv6": []
   }
 }

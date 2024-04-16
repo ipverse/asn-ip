@@ -3,7 +3,9 @@
   "handle": "SINGLE-DIGITS",
   "description": "Single Digits, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.40.106.0/24"
+    ],
     "ipv6": []
   }
 }

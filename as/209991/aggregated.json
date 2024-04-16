@@ -3,7 +3,9 @@
   "handle": "LAVEGO",
   "description": "LAVEGO AG",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.61.152.0/22"
+    ],
     "ipv6": []
   }
 }

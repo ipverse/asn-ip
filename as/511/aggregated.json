@@ -3,7 +3,9 @@
   "handle": "PRISMA-HEALTH",
   "description": "Prisma Health",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.15.151.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "ANSWER-CONSULTORIA",
   "description": "Answer Consultoria Ltda",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "177.129.112.0/22"
+    ],
     "ipv6": []
   }
 }

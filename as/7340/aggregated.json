@@ -3,7 +3,9 @@
   "handle": "TELETEL",
   "description": "TELETEL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "200.0.185.0/24"
+    ],
     "ipv6": []
   }
 }

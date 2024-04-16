@@ -3,7 +3,9 @@
   "handle": "LTCIN-IN",
   "description": "Lightstorm Telecom Connectivity Private Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.159.216.0/24"
+    ],
     "ipv6": []
   }
 }

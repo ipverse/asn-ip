@@ -3,7 +3,9 @@
   "handle": "BIG",
   "description": "Business Information Group, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "208.64.164.0/22"
+    ],
     "ipv6": []
   }
 }

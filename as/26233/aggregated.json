@@ -3,7 +3,9 @@
   "handle": "SPORTSDIRECT-INC",
   "description": "SportsDirect Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "208.68.74.0/24"
+    ],
     "ipv6": []
   }
 }

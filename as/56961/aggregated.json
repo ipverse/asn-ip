@@ -3,7 +3,9 @@
   "handle": "ESAB",
   "description": "ESAB AB",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.71.84.0/24"
+    ],
     "ipv6": []
   }
 }

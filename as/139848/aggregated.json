@@ -3,7 +3,9 @@
   "handle": "SHIPL-AP",
   "description": "SAFEGUARD HOME IMPROVEMENTS PTY LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.146.47.0/24"
+    ],
     "ipv6": []
   }
 }

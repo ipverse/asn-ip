@@ -3,7 +3,9 @@
   "handle": "BOLD-TECHNOLOGIES",
   "description": "Bold Technologies, Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "165.254.104.0/24"
+    ],
     "ipv6": []
   }
 }

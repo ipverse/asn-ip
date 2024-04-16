@@ -3,7 +3,9 @@
   "handle": "TMONEYMOBILITY",
   "description": "Tmoney co., ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "211.32.174.0/24"
+    ],
     "ipv6": []
   }
 }

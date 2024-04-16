@@ -3,7 +3,9 @@
   "handle": "HUGO-BOSS",
   "description": "HUGO BOSS AG",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.156.210.0/23"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "MIO",
   "description": "MIO Partners, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "216.200.92.0/24"
+    ],
     "ipv6": []
   }
 }

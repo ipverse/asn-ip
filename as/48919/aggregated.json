@@ -3,7 +3,12 @@
   "handle": "UA-CITY",
   "description": "UACITY Ltd.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "31.128.160.0/20",
+      "95.215.92.0/22"
+    ],
+    "ipv6": [
+      "2001:67c:19ac::/48"
+    ]
   }
 }

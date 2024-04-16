@@ -3,7 +3,9 @@
   "handle": "NEWLINE",
   "description": "New Line OOO",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "109.248.245.0/24"
+    ],
     "ipv6": []
   }
 }

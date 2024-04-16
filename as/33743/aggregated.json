@@ -3,7 +3,10 @@
   "handle": "HVW-ALB1",
   "description": "Hudson Valley Wireless",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "204.13.144.0/22",
+      "208.71.248.0/21"
+    ],
     "ipv6": []
   }
 }

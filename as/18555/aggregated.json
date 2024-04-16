@@ -3,7 +3,9 @@
   "handle": "THE-ART-INST",
   "description": "The Art Institute of Chicago",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "198.40.16.0/20"
+    ],
     "ipv6": []
   }
 }

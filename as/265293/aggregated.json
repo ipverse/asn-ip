@@ -3,7 +3,11 @@
   "handle": "SPEEDMAX-INTERNET-FIBRA",
   "description": "SPEEDMAX INTERNET FIBRA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "168.121.12.0/22"
+    ],
+    "ipv6": [
+      "2804:2da0::/32"
+    ]
   }
 }

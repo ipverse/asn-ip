@@ -3,7 +3,9 @@
   "handle": "LNA",
   "description": "Legrand North America, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "205.142.164.0/22"
+    ],
     "ipv6": []
   }
 }

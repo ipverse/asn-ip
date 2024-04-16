@@ -3,7 +3,9 @@
   "handle": "SIELCO",
   "description": "SI.EL.CO. SRL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.60.140.0/22"
+    ],
     "ipv6": []
   }
 }

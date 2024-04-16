@@ -3,7 +3,9 @@
   "handle": "EQUATORIAL-ENERGIA",
   "description": "Equatorial Energia S/A",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "186.219.192.0/24"
+    ],
     "ipv6": []
   }
 }

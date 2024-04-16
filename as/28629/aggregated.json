@@ -3,7 +3,9 @@
   "handle": "SENADO-FEDERAL",
   "description": "SENADO FEDERAL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "201.54.48.0/20"
+    ],
     "ipv6": []
   }
 }

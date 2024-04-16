@@ -3,7 +3,9 @@
   "handle": "HAMLINE-EDU",
   "description": "Hamline University",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "138.192.0.0/16"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "AINS",
   "description": "Ains, inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "65.196.93.0/24"
+    ],
     "ipv6": []
   }
 }

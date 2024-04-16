@@ -3,7 +3,9 @@
   "handle": "AGENTIA-NATIONALA-DE-PRESA-ROMPRES",
   "description": "AGENTIA NATIONALA DE PRESA AGERPRES",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.66.113.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,10 @@
   "handle": "GFIS-GMBH",
   "description": "GFIS GmbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "145.62.2.0/23",
+      "145.62.80.0/20"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,11 @@
   "handle": "MEGALIMITED",
   "description": "Mega Limited",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "69.30.89.0/24"
+    ],
+    "ipv6": [
+      "2a09:a380:1::/48"
+    ]
   }
 }

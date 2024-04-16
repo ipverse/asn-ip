@@ -3,7 +3,9 @@
   "handle": "LINXNETWORKS",
   "description": "Linx-Networks-UK Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.17.94.0/24"
+    ],
     "ipv6": []
   }
 }

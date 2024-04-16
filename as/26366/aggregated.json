@@ -3,7 +3,10 @@
   "handle": "CITY-PG",
   "description": "City of Prince George",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.175.242.0/23",
+      "199.175.244.0/24"
+    ],
     "ipv6": []
   }
 }

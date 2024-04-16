@@ -3,7 +3,10 @@
   "handle": "LOYOLA-UNIV-CHICAGO",
   "description": "Loyola University Chicago",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "147.126.0.0/18",
+      "147.126.64.0/19"
+    ],
     "ipv6": []
   }
 }

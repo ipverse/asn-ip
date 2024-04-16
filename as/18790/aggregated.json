@@ -3,7 +3,9 @@
   "handle": "GLOBALCOMPANIESLLC2006",
   "description": "Global Companies LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "208.90.77.0/24"
+    ],
     "ipv6": []
   }
 }

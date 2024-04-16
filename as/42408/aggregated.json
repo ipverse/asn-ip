@@ -3,7 +3,9 @@
   "handle": "TSV",
   "description": "Transvyaz-N LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "79.98.200.0/21"
+    ],
     "ipv6": []
   }
 }

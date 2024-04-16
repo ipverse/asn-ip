@@ -3,7 +3,9 @@
   "handle": "BULLHORNUK",
   "description": "Bullhorn, International Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.9.168.0/22"
+    ],
     "ipv6": []
   }
 }

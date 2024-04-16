@@ -3,7 +3,9 @@
   "handle": "SOCIEDAD-COMUNICACIONES-PUNTA",
   "description": "SOCIEDAD COMUNICACIONES PUNTA SUR LIMITADA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "190.171.64.0/22"
+    ],
     "ipv6": []
   }
 }

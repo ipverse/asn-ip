@@ -3,7 +3,9 @@
   "handle": "YAPIVEKREDIBANKASI",
   "description": "YAPI VE KREDI BANKASI A.S.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "176.236.245.0/24"
+    ],
     "ipv6": []
   }
 }

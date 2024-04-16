@@ -3,7 +3,10 @@
   "handle": "NXTRADATA",
   "description": "NXTR DATA LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "27.0.143.0/24",
+      "103.255.216.0/22"
+    ],
     "ipv6": []
   }
 }

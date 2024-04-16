@@ -3,7 +3,10 @@
   "handle": "NATIONWIDE-MUTUAL-INSURANCE",
   "description": "Nationwide Mutual Insurance Company",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "155.188.0.0/23",
+      "204.145.192.0/23"
+    ],
     "ipv6": []
   }
 }

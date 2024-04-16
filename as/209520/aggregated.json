@@ -3,7 +3,10 @@
   "handle": "GOZNAK",
   "description": "JSC Goznak",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "31.41.245.0/24",
+      "195.209.130.0/24"
+    ],
     "ipv6": []
   }
 }

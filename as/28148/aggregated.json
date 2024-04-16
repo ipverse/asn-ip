@@ -3,7 +3,9 @@
   "handle": "SAFEWEB-SEGURANA-INFORMAO",
   "description": "Safeweb Segurana da Informao Ltda",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "177.128.116.0/24"
+    ],
     "ipv6": []
   }
 }

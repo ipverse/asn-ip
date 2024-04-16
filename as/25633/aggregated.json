@@ -3,7 +3,9 @@
   "handle": "DATAMATX-ATL",
   "description": "DATAMATX INC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "65.163.183.0/24"
+    ],
     "ipv6": []
   }
 }

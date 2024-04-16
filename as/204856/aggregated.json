@@ -3,7 +3,9 @@
   "handle": "PPM",
   "description": "Pixel ProMarketing S.L.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.129.93.0/24"
+    ],
     "ipv6": []
   }
 }

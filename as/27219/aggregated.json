@@ -3,7 +3,9 @@
   "handle": "SUNY-CORTLAND",
   "description": "SUNY College at Cortland",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "137.123.0.0/16"
+    ],
     "ipv6": []
   }
 }

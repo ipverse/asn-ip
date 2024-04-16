@@ -3,7 +3,9 @@
   "handle": "BGPCOMM-IN",
   "description": "BHAGALPUR COMMUNICATION PRIVATE LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.189.100.0/23"
+    ],
     "ipv6": []
   }
 }

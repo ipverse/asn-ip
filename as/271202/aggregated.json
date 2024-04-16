@@ -3,7 +3,9 @@
   "handle": "NAVEGNET-TELECOM",
   "description": "NavegNet Telecom",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "179.49.172.0/22"
+    ],
     "ipv6": []
   }
 }

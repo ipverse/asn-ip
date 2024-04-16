@@ -3,7 +3,9 @@
   "handle": "SYSTEMS-METHODS",
   "description": "Systems \u0026 Methods, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "208.236.200.0/23"
+    ],
     "ipv6": []
   }
 }

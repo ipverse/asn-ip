@@ -3,7 +3,11 @@
   "handle": "CONECTA-INTERNET",
   "description": "CONECTA INTERNET",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.228.140.0/22"
+    ],
+    "ipv6": [
+      "2804:482c::/32"
+    ]
   }
 }

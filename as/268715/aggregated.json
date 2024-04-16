@@ -3,7 +3,11 @@
   "handle": "N3-SOLUCOES-TECNOLOGICAS",
   "description": "N3 SOLUCOES TECNOLOGICAS LTDA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.171.144.0/22"
+    ],
+    "ipv6": [
+      "2804:59a4::/32"
+    ]
   }
 }

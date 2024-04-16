@@ -3,7 +3,9 @@
   "handle": "AMGH-DFWDC",
   "description": "Air Medical Group Holdings",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.96.142.0/24"
+    ],
     "ipv6": []
   }
 }

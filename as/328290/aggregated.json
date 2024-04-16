@@ -3,7 +3,10 @@
   "handle": "VODACOM",
   "description": "VODACOM BUSINESS Cote d\u0027Ivoire",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "41.73.244.0/24",
+      "169.239.64.0/22"
+    ],
     "ipv6": []
   }
 }

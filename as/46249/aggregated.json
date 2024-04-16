@@ -3,7 +3,9 @@
   "handle": "OAI-5",
   "description": "Omni Air International Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "98.175.230.0/24"
+    ],
     "ipv6": []
   }
 }

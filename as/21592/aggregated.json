@@ -3,7 +3,10 @@
   "handle": "MULTIVIEW",
   "description": "Multi-View Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.185.0.0/24",
+      "216.41.229.0/24"
+    ],
     "ipv6": []
   }
 }

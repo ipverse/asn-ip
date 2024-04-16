@@ -3,7 +3,9 @@
   "handle": "BELLINTEGRATOR",
   "description": "Bell Integrator JSC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.239.60.0/24"
+    ],
     "ipv6": []
   }
 }

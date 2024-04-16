@@ -3,7 +3,9 @@
   "handle": "ARBOR",
   "description": "Arbor Networks, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "146.88.240.0/23"
+    ],
     "ipv6": []
   }
 }

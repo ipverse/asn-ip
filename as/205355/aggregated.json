@@ -3,7 +3,9 @@
   "handle": "CCC",
   "description": "CCC.eu Sp. z o.o.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "88.220.94.0/24"
+    ],
     "ipv6": []
   }
 }

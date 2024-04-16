@@ -3,7 +3,11 @@
   "handle": "OAB-AF",
   "description": "Telenet Systems GmbH",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "176.96.152.0/21"
+    ],
+    "ipv6": [
+      "2a06:b340::/29"
+    ]
   }
 }

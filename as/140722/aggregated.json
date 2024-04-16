@@ -3,7 +3,9 @@
   "handle": "BUREAUOFTHETREASURY-AP",
   "description": "Bureau of the Treasury",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.159.253.0/24"
+    ],
     "ipv6": []
   }
 }

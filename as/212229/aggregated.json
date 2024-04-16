@@ -3,7 +3,9 @@
   "handle": "HDHUKFT",
   "description": "HD.hu Kft.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "31.24.16.0/24"
+    ],
     "ipv6": []
   }
 }

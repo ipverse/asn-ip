@@ -3,7 +3,9 @@
   "handle": "COMUNEMILANO",
   "description": "Comune di Milano",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "217.31.112.0/20"
+    ],
     "ipv6": []
   }
 }

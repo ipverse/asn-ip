@@ -3,7 +3,11 @@
   "handle": "SATCOM",
   "description": "Satcom Networks Africa",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "41.223.228.0/22"
+    ],
+    "ipv6": [
+      "2c0f:fd10::/32"
+    ]
   }
 }

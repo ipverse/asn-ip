@@ -3,7 +3,9 @@
   "handle": "CHROME-DATA-SOLUTIONS",
   "description": "Chrome Data Solutions, LP",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.122.255.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "CALWATER",
   "description": "California Water Service Company",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.190.131.0/24"
+    ],
     "ipv6": []
   }
 }

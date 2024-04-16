@@ -3,7 +3,9 @@
   "handle": "ENERT",
   "description": "Enertron L.L.C.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "208.80.60.0/22"
+    ],
     "ipv6": []
   }
 }

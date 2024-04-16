@@ -3,7 +3,9 @@
   "handle": "VVLON",
   "description": "Vavilon Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "95.161.83.0/24"
+    ],
     "ipv6": []
   }
 }

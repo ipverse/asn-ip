@@ -3,7 +3,9 @@
   "handle": "OVERLAKE",
   "description": "Overlake Hospital Medical Center",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "204.124.239.0/24"
+    ],
     "ipv6": []
   }
 }

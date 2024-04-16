@@ -3,7 +3,11 @@
   "handle": "UNIBRAW-ID",
   "description": "Universitas Brawijaya",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "175.45.184.0/21"
+    ],
+    "ipv6": [
+      "2405:8740::/32"
+    ]
   }
 }

@@ -3,7 +3,9 @@
   "handle": "SUBISUCABLENET-AP",
   "description": "Subisu Cablenet",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "110.34.16.0/24"
+    ],
     "ipv6": []
   }
 }

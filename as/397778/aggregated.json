@@ -3,7 +3,9 @@
   "handle": "FIBRESTREAMBC",
   "description": "Beanfield Technologies Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "66.23.112.0/20"
+    ],
     "ipv6": []
   }
 }

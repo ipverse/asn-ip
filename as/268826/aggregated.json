@@ -3,7 +3,9 @@
   "handle": "I9DC-CONSULTORIA-SERVIOS",
   "description": "i9DC Consultoria e Servios de TI Ltda",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.173.45.0/24"
+    ],
     "ipv6": []
   }
 }

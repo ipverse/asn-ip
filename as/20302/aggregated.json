@@ -3,7 +3,9 @@
   "handle": "CITY-OF-PALM-COAST",
   "description": "City of Palm Coast",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "204.145.118.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "TR-INFOCOM-ISP",
   "description": "TERNOPILINFOCOM LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.238.180.0/24"
+    ],
     "ipv6": []
   }
 }

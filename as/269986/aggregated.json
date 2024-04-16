@@ -3,7 +3,11 @@
   "handle": "SERVICIOS-PROFESIONALES-WICOM",
   "description": "SERVICIOS PROFESIONALES WICOM S.A.S.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "201.49.128.0/22"
+    ],
+    "ipv6": [
+      "2803:5ee0::/32"
+    ]
   }
 }

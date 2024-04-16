@@ -3,7 +3,10 @@
   "handle": "HORIZON",
   "description": "Horizon Media, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.64.73.0/24",
+      "74.91.15.0/24"
+    ],
     "ipv6": []
   }
 }

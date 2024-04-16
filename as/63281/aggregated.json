@@ -3,7 +3,9 @@
   "handle": "VERMONT-JUDICIARY-01",
   "description": "Vermont Judiciary",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "66.45.24.0/24"
+    ],
     "ipv6": []
   }
 }

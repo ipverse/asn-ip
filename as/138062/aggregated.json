@@ -3,7 +3,9 @@
   "handle": "IDNIC-PAAS-ID",
   "description": "PT. Awan Kilat Semesta",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.129.220.0/22"
+    ],
     "ipv6": []
   }
 }

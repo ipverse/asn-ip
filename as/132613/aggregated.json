@@ -3,7 +3,9 @@
   "handle": "SBSPL-AP",
   "description": "SunTec Business Solutions Pvt. Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.16.221.0/24"
+    ],
     "ipv6": []
   }
 }

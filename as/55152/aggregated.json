@@ -3,7 +3,9 @@
   "handle": "IFCJAS-01",
   "description": "The Fellowship",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.98.187.0/24"
+    ],
     "ipv6": []
   }
 }

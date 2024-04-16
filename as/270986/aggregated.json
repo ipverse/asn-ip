@@ -3,7 +3,11 @@
   "handle": "KHROMOS-NET-SERVICOS",
   "description": "Khromos Net Servicos de Comunicacao LTDA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "187.86.168.0/22"
+    ],
+    "ipv6": [
+      "2804:7484::/32"
+    ]
   }
 }

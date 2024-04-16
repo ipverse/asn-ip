@@ -3,7 +3,9 @@
   "handle": "DIABLO",
   "description": "Direct Development, s.r.o.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.111.96.0/22"
+    ],
     "ipv6": []
   }
 }

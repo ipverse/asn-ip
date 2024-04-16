@@ -3,7 +3,10 @@
   "handle": "OUVANET",
   "description": "OUVANET SARL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "89.248.72.0/21",
+      "91.208.102.0/24"
+    ],
     "ipv6": []
   }
 }

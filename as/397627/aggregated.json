@@ -3,7 +3,9 @@
   "handle": "CLOUDCONNECT",
   "description": "CloudConnect, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.203.253.0/24"
+    ],
     "ipv6": []
   }
 }

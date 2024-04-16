@@ -3,7 +3,9 @@
   "handle": "CITY-AND-COUNTY-OF-DENVER",
   "description": "CITY AND COUNTY OF DENVER",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "169.133.0.0/16"
+    ],
     "ipv6": []
   }
 }

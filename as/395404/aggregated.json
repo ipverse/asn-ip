@@ -3,7 +3,9 @@
   "handle": "SEAKR",
   "description": "SEAKR Engineering, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "198.169.8.0/24"
+    ],
     "ipv6": []
   }
 }

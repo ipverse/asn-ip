@@ -3,7 +3,9 @@
   "handle": "LIVEWIREIT-AP",
   "description": "LIVEWIRE IT PTY LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.110.194.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "INGLES-MARKETS",
   "description": "INGLES MARKETS Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "47.45.2.0/24"
+    ],
     "ipv6": []
   }
 }

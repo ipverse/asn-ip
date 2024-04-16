@@ -3,7 +3,9 @@
   "handle": "TOLVUN",
   "description": "Eignafelag Tolvunar ehf",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "85.116.64.0/19"
+    ],
     "ipv6": []
   }
 }

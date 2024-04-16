@@ -3,7 +3,9 @@
   "handle": "MOBIUS-CN",
   "description": "Mobius Wireless Solutions Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "14.102.156.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "RADIANT-GLOBAL",
   "description": "Radiant Global Logistics Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "63.146.30.0/24"
+    ],
     "ipv6": []
   }
 }

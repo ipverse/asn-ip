@@ -3,7 +3,11 @@
   "handle": "SKYMESHPTYLTD-AP",
   "description": "SkyMesh Pty Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "202.0.155.0/24",
+      "202.87.8.0/21",
+      "203.168.32.0/19"
+    ],
     "ipv6": []
   }
 }

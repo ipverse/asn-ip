@@ -3,7 +3,12 @@
   "handle": "GRUPO-TDKOM",
   "description": "GRUPO TDKOM",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "200.152.64.0/20",
+      "200.192.240.0/21"
+    ],
+    "ipv6": [
+      "2804:7b0c::/32"
+    ]
   }
 }

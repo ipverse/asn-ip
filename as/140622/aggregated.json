@@ -3,7 +3,9 @@
   "handle": "NHVR-AP",
   "description": "NHVR",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.182.173.0/24"
+    ],
     "ipv6": []
   }
 }

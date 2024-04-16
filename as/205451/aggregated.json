@@ -3,7 +3,9 @@
   "handle": "UNSSC",
   "description": "UNITED NATIONS SYSTEM STAFF COLLEGE (UNSSC)",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.218.44.0/22"
+    ],
     "ipv6": []
   }
 }

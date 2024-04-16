@@ -3,7 +3,9 @@
   "handle": "COMIFAR",
   "description": "Comifar Distribuzione S.p.A.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "89.221.128.0/22"
+    ],
     "ipv6": []
   }
 }

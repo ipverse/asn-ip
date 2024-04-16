@@ -3,7 +3,9 @@
   "handle": "ANDERLINE-TELECOMUNICACOES-MULTIMIDIA",
   "description": "ANDERLINE TELECOMUNICACOES E MULTIMIDIA LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "168.121.152.0/22"
+    ],
     "ipv6": []
   }
 }

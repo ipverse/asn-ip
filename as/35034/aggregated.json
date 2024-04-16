@@ -3,7 +3,9 @@
   "handle": "EXECURE",
   "description": "Swiss IT Security AG",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.225.44.0/23"
+    ],
     "ipv6": []
   }
 }

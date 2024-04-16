@@ -3,7 +3,9 @@
   "handle": "RAFATECHSYSTEMSDNBHD-AP",
   "description": "Rafatech System Sdn Bhd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.164.66.0/24"
+    ],
     "ipv6": []
   }
 }

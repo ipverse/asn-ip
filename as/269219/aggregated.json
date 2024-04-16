@@ -3,7 +3,9 @@
   "handle": "HOLLINE-INTERNET-SERVICE",
   "description": "HOLLINE INTERNET SERVICE LTDA - ME",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.182.0.0/22"
+    ],
     "ipv6": []
   }
 }

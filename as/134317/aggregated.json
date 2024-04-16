@@ -3,7 +3,11 @@
   "handle": "SKYLINE-IN",
   "description": "Skyline Network",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.196.200.0/22",
+      "103.200.44.0/22",
+      "203.189.244.0/22"
+    ],
     "ipv6": []
   }
 }

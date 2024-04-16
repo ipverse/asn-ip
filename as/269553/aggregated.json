@@ -3,7 +3,11 @@
   "handle": "REDE-ONLINE-INTERNET",
   "description": "REDE ONLINE INTERNET LTDA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.185.192.0/22"
+    ],
+    "ipv6": [
+      "2804:665c::/32"
+    ]
   }
 }

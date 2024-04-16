@@ -3,7 +3,9 @@
   "handle": "OZYUNI",
   "description": "Ozyegin University",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "178.237.48.0/22"
+    ],
     "ipv6": []
   }
 }

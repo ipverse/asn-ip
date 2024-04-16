@@ -3,7 +3,9 @@
   "handle": "INTERA",
   "description": "Alexei Tingaev",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.79.250.0/23"
+    ],
     "ipv6": []
   }
 }

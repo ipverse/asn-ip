@@ -3,7 +3,9 @@
   "handle": "CEFLIXAS",
   "description": "CEFLIX-SCEPTER LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "102.219.188.0/23"
+    ],
     "ipv6": []
   }
 }

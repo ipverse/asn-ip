@@ -3,7 +3,9 @@
   "handle": "ECHOWIRELESS-MIDWEST",
   "description": "Nextlink Broadband",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "216.169.149.0/24"
+    ],
     "ipv6": []
   }
 }

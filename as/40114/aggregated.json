@@ -3,7 +3,9 @@
   "handle": "IMPROCOM",
   "description": "IMPROCOM INC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "74.117.150.0/23"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "SMCPSAS",
   "description": "SMCP Group SAS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.172.152.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "REGIS-AP",
   "description": "Regis Aged Care Pty Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.141.178.0/24"
+    ],
     "ipv6": []
   }
 }

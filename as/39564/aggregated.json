@@ -3,7 +3,9 @@
   "handle": "KERNNETZ-ANYCAST",
   "description": "Kernnetz Invent GmbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.11.27.0/24"
+    ],
     "ipv6": []
   }
 }

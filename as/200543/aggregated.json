@@ -3,7 +3,9 @@
   "handle": "FARMACOL",
   "description": "FARMACORE SPOLKA Z O.O.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.189.103.0/24"
+    ],
     "ipv6": []
   }
 }

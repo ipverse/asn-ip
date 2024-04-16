@@ -3,7 +3,9 @@
   "handle": "LOADEDGE",
   "description": "LoadEdge Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "123.253.104.0/24"
+    ],
     "ipv6": []
   }
 }

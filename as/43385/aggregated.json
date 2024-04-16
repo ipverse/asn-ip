@@ -3,7 +3,11 @@
   "handle": "GSGLOBALCOM",
   "description": "Globalcom LLC",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "185.108.88.0/22"
+    ],
+    "ipv6": [
+      "2a01:7f20::/48"
+    ]
   }
 }

@@ -3,7 +3,9 @@
   "handle": "EVILINK",
   "description": "Evilink Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "178.219.157.0/24"
+    ],
     "ipv6": []
   }
 }

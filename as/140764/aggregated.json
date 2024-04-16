@@ -3,7 +3,9 @@
   "handle": "CSDGROUP-VN",
   "description": "CSD Group Technology JSC.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.160.4.0/23"
+    ],
     "ipv6": []
   }
 }

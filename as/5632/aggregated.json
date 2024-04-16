@@ -3,7 +3,9 @@
   "handle": "GORDONCOLLEGE",
   "description": "Gordon College",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "162.12.219.0/24"
+    ],
     "ipv6": []
   }
 }

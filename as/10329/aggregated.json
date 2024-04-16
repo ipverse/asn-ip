@@ -3,7 +3,9 @@
   "handle": "INFOSHARE",
   "description": "CoreLAN Communications, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "205.189.240.0/21"
+    ],
     "ipv6": []
   }
 }

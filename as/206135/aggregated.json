@@ -3,7 +3,9 @@
   "handle": "NETHIVE",
   "description": "Nethive SpA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.190.160.0/22"
+    ],
     "ipv6": []
   }
 }

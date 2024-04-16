@@ -3,7 +3,9 @@
   "handle": "PURELINE",
   "description": "Pure Line Co. For Telecommunications \u0026 Internet Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "5.149.111.0/24"
+    ],
     "ipv6": []
   }
 }

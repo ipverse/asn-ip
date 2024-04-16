@@ -3,7 +3,9 @@
   "handle": "KKB-CLOUD",
   "description": "KKB KREDI KAYIT BUROSU ANONIM SIRKETI",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.199.88.0/23"
+    ],
     "ipv6": []
   }
 }

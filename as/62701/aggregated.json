@@ -3,7 +3,9 @@
   "handle": "HVCC",
   "description": "Hudson Valley Community College",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "151.103.0.0/16"
+    ],
     "ipv6": []
   }
 }

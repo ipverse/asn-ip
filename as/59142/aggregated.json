@@ -3,7 +3,9 @@
   "handle": "IDNIC-BATAMKOTA-ID",
   "description": "Pemerintah Kota Batam",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.253.124.0/24"
+    ],
     "ipv6": []
   }
 }

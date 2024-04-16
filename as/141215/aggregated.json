@@ -3,7 +3,10 @@
   "handle": "DIPL-AP",
   "description": "Dotcom International Pvt. Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.156.152.0/23",
+      "202.142.155.0/24"
+    ],
     "ipv6": []
   }
 }

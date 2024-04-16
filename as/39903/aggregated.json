@@ -3,7 +3,9 @@
   "handle": "RMGC-SA",
   "description": "ROSIA MONTANA GOLD CORPORATION SA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.189.194.0/23"
+    ],
     "ipv6": []
   }
 }

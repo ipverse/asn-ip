@@ -3,7 +3,9 @@
   "handle": "MASTERNET-AP",
   "description": "Master Net",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.145.74.0/24"
+    ],
     "ipv6": []
   }
 }

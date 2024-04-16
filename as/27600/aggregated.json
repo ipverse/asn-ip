@@ -3,7 +3,10 @@
   "handle": "VHC-ARLINGTON",
   "description": "Virginia Hospital Center",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.171.8.0/24",
+      "199.171.14.0/24"
+    ],
     "ipv6": []
   }
 }

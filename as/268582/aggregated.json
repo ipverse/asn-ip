@@ -3,7 +3,11 @@
   "handle": "WIB-PROVEDORES-ACESSO",
   "description": "Wib Provedores de Acesso LTDA - EPP",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.162.232.0/22"
+    ],
+    "ipv6": [
+      "2804:5368:c000::/34"
+    ]
   }
 }

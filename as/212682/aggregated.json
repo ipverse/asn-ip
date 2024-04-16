@@ -3,7 +3,9 @@
   "handle": "PANKL",
   "description": "Pankl Racing Systems AG",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "94.126.97.0/24"
+    ],
     "ipv6": []
   }
 }

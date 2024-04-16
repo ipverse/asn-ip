@@ -3,7 +3,9 @@
   "handle": "COMPANHIA-BRASILEIRA-METALURGIA",
   "description": "COMPANHIA BRASILEIRA DE METALURGIA E MINERACAO",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "170.80.6.0/23"
+    ],
     "ipv6": []
   }
 }

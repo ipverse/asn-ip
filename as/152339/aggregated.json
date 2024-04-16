@@ -3,7 +3,9 @@
   "handle": "ECNTPL-AP",
   "description": "EDGE CLOUD NETWORK TECHNOLOGY PTE. LTD.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "157.10.250.0/23"
+    ],
     "ipv6": []
   }
 }

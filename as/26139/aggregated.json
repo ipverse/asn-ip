@@ -3,7 +3,9 @@
   "handle": "ECR",
   "description": "ECR Internet Services, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.96.172.0/22"
+    ],
     "ipv6": []
   }
 }

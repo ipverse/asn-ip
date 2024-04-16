@@ -3,7 +3,9 @@
   "handle": "ASNEB",
   "description": "NEAR EAST BANK LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "37.235.77.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "SCJ-INFO-COM",
   "description": "SCJ Info Com. Serv. de Informatica Ltda",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "177.12.80.0/21"
+    ],
     "ipv6": []
   }
 }

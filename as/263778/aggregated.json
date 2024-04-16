@@ -3,7 +3,9 @@
   "handle": "COOP-SERV-PUB",
   "description": "Coop. Serv. Pub. Limit. Tres Arroyos, CELTA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "201.159.8.0/21"
+    ],
     "ipv6": []
   }
 }

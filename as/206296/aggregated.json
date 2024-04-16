@@ -3,7 +3,9 @@
   "handle": "CORIO-MVNO-CORE",
   "description": "Coriolis Telecom SAS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.189.22.0/23"
+    ],
     "ipv6": []
   }
 }

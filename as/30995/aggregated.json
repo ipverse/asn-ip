@@ -3,7 +3,9 @@
   "handle": "CIBEG",
   "description": "Vodafone Data",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "41.223.240.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "SFFDW-AP",
   "description": "Shakti Foundation for Disadvantages Women",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.156.148.0/23"
+    ],
     "ipv6": []
   }
 }

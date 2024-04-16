@@ -3,7 +3,11 @@
   "handle": "BRASIL-REDES-COMUNICAES",
   "description": "Brasil Redes Comunicaes LTDA - ME",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "170.238.136.0/22"
+    ],
+    "ipv6": [
+      "2804:3600::/32"
+    ]
   }
 }

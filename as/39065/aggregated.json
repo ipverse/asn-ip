@@ -3,7 +3,11 @@
   "handle": "SOHONET",
   "description": "Southern Telecommunication Company Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "178.212.192.0/21",
+      "188.130.176.0/22",
+      "195.78.244.0/22"
+    ],
     "ipv6": []
   }
 }

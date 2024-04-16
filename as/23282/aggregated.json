@@ -3,7 +3,9 @@
   "handle": "COUNTYOFSB",
   "description": "Santa Barbara County",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "161.213.0.0/16"
+    ],
     "ipv6": []
   }
 }

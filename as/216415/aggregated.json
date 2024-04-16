@@ -3,7 +3,9 @@
   "handle": "RATSE",
   "description": "AMIRMOHAMMAD FATEH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.25.85.0/24"
+    ],
     "ipv6": []
   }
 }

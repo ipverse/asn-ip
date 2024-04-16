@@ -3,7 +3,10 @@
   "handle": "CHINATELECOM-JIANGSU-NANTONG-MAN",
   "description": "Nanton",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "115.169.253.0/24",
+      "202.59.215.0/24"
+    ],
     "ipv6": []
   }
 }

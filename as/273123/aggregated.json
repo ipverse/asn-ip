@@ -3,7 +3,9 @@
   "handle": "CRAMCOMNET-CIALTDA",
   "description": "CRAMCOMNET CIA.LTDA.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "201.77.57.0/24"
+    ],
     "ipv6": []
   }
 }

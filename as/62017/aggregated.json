@@ -3,7 +3,9 @@
   "handle": "CGATE",
   "description": "Commercegate Ireland LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.51.160.0/24"
+    ],
     "ipv6": []
   }
 }

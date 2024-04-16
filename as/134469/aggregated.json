@@ -3,7 +3,11 @@
   "handle": "DS2PL-AP",
   "description": "Digital Singapore 2 Pte Ltd",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "64.127.224.0/19"
+    ],
+    "ipv6": [
+      "2406:ec40::/32"
+    ]
   }
 }

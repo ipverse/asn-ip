@@ -3,7 +3,10 @@
   "handle": "CNB-OF-TEXAS",
   "description": "Citizens National Bank of Texas",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "47.45.14.0/24",
+      "208.52.167.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,10 @@
   "handle": "STYRIA",
   "description": "Styria IT Solutions d.o.o.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "149.5.187.0/24",
+      "193.25.220.0/24"
+    ],
     "ipv6": []
   }
 }

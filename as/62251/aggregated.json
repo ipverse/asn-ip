@@ -3,7 +3,11 @@
   "handle": "DREAMLESS",
   "description": "Dremuchij Les Ltd",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "185.35.220.0/23"
+    ],
+    "ipv6": [
+      "2a00:e460::/32"
+    ]
   }
 }

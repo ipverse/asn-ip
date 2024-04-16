@@ -3,7 +3,11 @@
   "handle": "NETCOM-TELECOMUNICACOES-EIRELI",
   "description": "NET.COM TELECOMUNICACOES EIRELI",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "191.6.132.0/22"
+    ],
+    "ipv6": [
+      "2804:13f8::/32"
+    ]
   }
 }

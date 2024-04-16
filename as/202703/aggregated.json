@@ -3,7 +3,9 @@
   "handle": "NET-SOL",
   "description": "net-sol GmbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.93.79.0/24"
+    ],
     "ipv6": []
   }
 }

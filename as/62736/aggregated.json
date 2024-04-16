@@ -3,7 +3,9 @@
   "handle": "LANDMARK-COLLEGE",
   "description": "Landmark College, Inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "198.54.211.0/24"
+    ],
     "ipv6": []
   }
 }

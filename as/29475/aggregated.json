@@ -3,7 +3,9 @@
   "handle": "CCS-ODESSA",
   "description": "Complex Communication Systems Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.149.125.0/24"
+    ],
     "ipv6": []
   }
 }

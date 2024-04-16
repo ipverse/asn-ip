@@ -3,7 +3,9 @@
   "handle": "CMM-ATL",
   "description": "CoverMyMeds LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "66.97.160.0/24"
+    ],
     "ipv6": []
   }
 }

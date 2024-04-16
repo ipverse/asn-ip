@@ -3,7 +3,9 @@
   "handle": "ULTRADENT-PRODUCTS",
   "description": "Ultradent Products Inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.107.255.0/24"
+    ],
     "ipv6": []
   }
 }

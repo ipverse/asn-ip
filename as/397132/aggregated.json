@@ -3,7 +3,9 @@
   "handle": "MCCB",
   "description": "MIssissippi Community College Board",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "207.181.47.0/24"
+    ],
     "ipv6": []
   }
 }

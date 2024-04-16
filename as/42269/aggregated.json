@@ -3,7 +3,9 @@
   "handle": "ACMETELECOM",
   "description": "LLC ACME TELECOM",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.211.228.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "SERVICIOS-DR-MXICO",
   "description": "Servicios DR de Mxico SA de CV",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.100.169.0/24"
+    ],
     "ipv6": []
   }
 }

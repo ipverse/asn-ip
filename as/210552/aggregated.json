@@ -3,7 +3,9 @@
   "handle": "LAGUNA",
   "description": "Laguna Tech Pro LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "78.140.248.0/23"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,11 @@
   "handle": "BEC",
   "description": "Bluebonnet Electric Cooperative, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "69.59.27.0/24",
+      "167.94.153.0/24",
+      "216.87.60.0/24"
+    ],
     "ipv6": []
   }
 }

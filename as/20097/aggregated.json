@@ -3,7 +3,9 @@
   "handle": "CITY-OF-TULSA",
   "description": "City of Tulsa",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "204.236.32.0/19"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "MOISTAI-AP",
   "description": "Ministry of Industry Science Technology and Innovation",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.71.220.0/23"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,11 @@
   "handle": "OSCARMUSIC",
   "description": "Oscar Music \u0026 Media Ltd.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "94.228.64.0/20"
+    ],
+    "ipv6": [
+      "2a00:1068::/32"
+    ]
   }
 }

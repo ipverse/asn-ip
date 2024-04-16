@@ -3,7 +3,10 @@
   "handle": "EQUTECHNOLOGIES",
   "description": "EQU Technologies LLP",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "92.38.48.0/23",
+      "93.170.72.0/23"
+    ],
     "ipv6": []
   }
 }

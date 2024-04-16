@@ -3,7 +3,9 @@
   "handle": "TELWARE-EAST01",
   "description": "TelWare Corporation",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "65.110.48.0/22"
+    ],
     "ipv6": []
   }
 }

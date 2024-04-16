@@ -3,7 +3,9 @@
   "handle": "DHAKAINTERNET-AP",
   "description": "Dhaka Internet",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.149.186.0/23"
+    ],
     "ipv6": []
   }
 }

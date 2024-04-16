@@ -3,9 +3,12 @@
   "handle": "AVIRTEL",
   "description": "AvirTel LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "85.132.87.0/24",
+      "185.40.35.0/24"
+    ],
     "ipv6": [
-      "2a01:4ba0::/46"
+      "2a01:4ba0::/29"
     ]
   }
 }

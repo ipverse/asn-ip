@@ -3,7 +3,9 @@
   "handle": "HILLTOWN-NETWORKS",
   "description": "Hilltown Networks",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "136.175.32.0/22"
+    ],
     "ipv6": []
   }
 }

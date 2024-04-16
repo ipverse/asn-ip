@@ -3,7 +3,9 @@
   "handle": "PATHWAYSGROUP",
   "description": "Sarla Holdings Pvt.Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.54.173.0/24"
+    ],
     "ipv6": []
   }
 }

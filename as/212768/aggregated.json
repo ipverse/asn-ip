@@ -3,7 +3,9 @@
   "handle": "ISS",
   "description": "Infosystem Security s.r.l.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.56.10.0/24"
+    ],
     "ipv6": []
   }
 }

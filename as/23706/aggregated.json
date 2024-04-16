@@ -3,7 +3,9 @@
   "handle": "TNT-AP",
   "description": "TNT Australia, NSW",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "203.26.190.0/24"
+    ],
     "ipv6": []
   }
 }

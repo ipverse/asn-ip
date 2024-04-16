@@ -3,7 +3,9 @@
   "handle": "KNJAZMILOS",
   "description": "Knjaz Milos AD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.212.15.0/24"
+    ],
     "ipv6": []
   }
 }

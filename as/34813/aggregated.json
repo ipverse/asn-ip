@@ -3,7 +3,9 @@
   "handle": "ASJENTECLIMITED",
   "description": "JENTEC LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.58.235.0/24"
+    ],
     "ipv6": []
   }
 }

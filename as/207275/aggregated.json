@@ -3,7 +3,9 @@
   "handle": "GOOISEMEREN",
   "description": "Gemeente Gooise Meren",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.226.33.0/24"
+    ],
     "ipv6": []
   }
 }

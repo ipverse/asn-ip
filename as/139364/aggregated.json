@@ -3,7 +3,10 @@
   "handle": "IDNIC-KOMINFOGUNUNGKIDUL-ID",
   "description": "Pemerintah Kabupaten Gunungkidul",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.141.234.0/24",
+      "103.169.200.0/24"
+    ],
     "ipv6": []
   }
 }

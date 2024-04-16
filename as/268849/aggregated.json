@@ -3,7 +3,9 @@
   "handle": "MUNICIPIO-MARABA",
   "description": "MUNICIPIO DE MARABA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.173.172.0/22"
+    ],
     "ipv6": []
   }
 }

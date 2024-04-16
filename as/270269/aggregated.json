@@ -3,7 +3,9 @@
   "handle": "WEB-PROVEDORES-TELECOMUNICAES",
   "description": "WEB PROVEDORES E TELECOMUNICAES LTDA - ME",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "200.115.116.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "TERABANK",
   "description": "Tera Yatirim Bankasi A.S",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.116.154.0/23"
+    ],
     "ipv6": []
   }
 }

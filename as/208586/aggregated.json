@@ -3,7 +3,9 @@
   "handle": "ES-NEOTEL",
   "description": "Neotel 2000 S.L",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.93.192.0/22"
+    ],
     "ipv6": []
   }
 }

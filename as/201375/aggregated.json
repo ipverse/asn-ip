@@ -3,7 +3,9 @@
   "handle": "NG-MKDC0",
   "description": "Numbergroup Utilities Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.66.180.0/24"
+    ],
     "ipv6": []
   }
 }

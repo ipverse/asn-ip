@@ -3,7 +3,9 @@
   "handle": "ADREM",
   "description": "Adrem Invest SRL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "5.83.40.0/24"
+    ],
     "ipv6": []
   }
 }

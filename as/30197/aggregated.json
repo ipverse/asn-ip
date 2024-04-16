@@ -3,7 +3,10 @@
   "handle": "BEST-WESTERN-INTERNATIONAL-INC",
   "description": "Best Western International, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "206.201.164.0/22",
+      "206.201.172.0/22"
+    ],
     "ipv6": []
   }
 }

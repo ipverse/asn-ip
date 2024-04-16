@@ -3,7 +3,10 @@
   "handle": "SERVICECLOUD",
   "description": "ServiceCloud Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "37.18.104.0/24",
+      "141.101.181.0/24"
+    ],
     "ipv6": []
   }
 }

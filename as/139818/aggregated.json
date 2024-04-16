@@ -3,7 +3,9 @@
   "handle": "MARIAPPS-AP",
   "description": "Mariapps Marine Solutions Private Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.159.110.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "KOMBANK",
   "description": "NLB Komercijalna banka AD Beograd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.162.52.0/22"
+    ],
     "ipv6": []
   }
 }

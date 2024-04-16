@@ -3,7 +3,9 @@
   "handle": "FORTUNE",
   "description": "Fortune Marketing Pvt Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.196.192.0/24"
+    ],
     "ipv6": []
   }
 }

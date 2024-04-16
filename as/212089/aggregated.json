@@ -3,7 +3,9 @@
   "handle": "UZCARDASN",
   "description": "COMMON REPUBLICAN PROCESSING CENTER LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.178.51.0/24"
+    ],
     "ipv6": []
   }
 }

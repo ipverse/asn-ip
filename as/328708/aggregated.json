@@ -3,7 +3,9 @@
   "handle": "DISHNET-AFRICA-LTD",
   "description": "DishNet Africa Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "102.222.36.0/24"
+    ],
     "ipv6": []
   }
 }

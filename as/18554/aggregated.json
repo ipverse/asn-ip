@@ -3,7 +3,9 @@
   "handle": "AGILENT-DFW",
   "description": "Agilent Technologies, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.25.133.0/24"
+    ],
     "ipv6": []
   }
 }

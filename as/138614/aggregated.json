@@ -3,7 +3,10 @@
   "handle": "FREXPRESS-AP",
   "description": "FR Express",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.134.168.0/24",
+      "103.134.170.0/23"
+    ],
     "ipv6": []
   }
 }

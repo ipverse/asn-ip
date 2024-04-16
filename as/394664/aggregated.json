@@ -3,7 +3,9 @@
   "handle": "PECKHAM-INC",
   "description": "Peckham, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.232.11.0/24"
+    ],
     "ipv6": []
   }
 }

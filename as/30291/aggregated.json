@@ -3,7 +3,9 @@
   "handle": "DFMC",
   "description": "Delmarva Foundation for Medical Care, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "12.167.145.0/24"
+    ],
     "ipv6": []
   }
 }

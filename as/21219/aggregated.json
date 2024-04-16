@@ -3,7 +3,12 @@
   "handle": "DATAGROUP",
   "description": "PRIVATE JOINT STOCK COMPANY DATAGROUP",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "80.91.169.0/24",
+      "93.183.236.0/24",
+      "188.0.78.0/23",
+      "195.178.150.0/24"
+    ],
     "ipv6": []
   }
 }

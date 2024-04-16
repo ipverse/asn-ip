@@ -4,6 +4,9 @@
   "description": "FIBRANETPLUS S.A.S.",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2803:f450::/42",
+      "2803:f450:80::/41"
+    ]
   }
 }

@@ -3,7 +3,11 @@
   "handle": "TIGO-RW",
   "description": "Airtel Rwanda Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "41.138.80.0/21",
+      "197.157.182.0/24",
+      "197.157.184.0/22"
+    ],
     "ipv6": []
   }
 }

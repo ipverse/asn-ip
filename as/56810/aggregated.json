@@ -3,7 +3,9 @@
   "handle": "TOLMACHEVO",
   "description": "Airport Tolmachevo JSC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.146.42.0/24"
+    ],
     "ipv6": []
   }
 }

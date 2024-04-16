@@ -4,6 +4,9 @@
   "description": "Andreas Duering",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a06:de00:ad00::/48",
+      "2a0e:b107:12f::/48"
+    ]
   }
 }

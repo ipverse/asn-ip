@@ -3,7 +3,11 @@
   "handle": "ITOP-TELECOM",
   "description": "ITOP TELECOM LTDA - ME",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "192.140.88.0/22"
+    ],
+    "ipv6": [
+      "2804:3d34::/32"
+    ]
   }
 }

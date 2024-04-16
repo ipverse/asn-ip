@@ -3,7 +3,9 @@
   "handle": "HOSTABIL",
   "description": "CAFER ESER",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "5.178.98.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "ARAMEX",
   "description": "ARAMEX International Ltd., GSO",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.189.148.0/24"
+    ],
     "ipv6": []
   }
 }

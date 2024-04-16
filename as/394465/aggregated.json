@@ -3,7 +3,9 @@
   "handle": "SUSSEXDE-GOV",
   "description": "Sussex County Government",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "207.245.119.0/24"
+    ],
     "ipv6": []
   }
 }

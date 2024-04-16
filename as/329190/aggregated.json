@@ -3,7 +3,9 @@
   "handle": "TKTN1",
   "description": "The Kenya Trade Network Agency",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "102.213.242.0/24"
+    ],
     "ipv6": []
   }
 }

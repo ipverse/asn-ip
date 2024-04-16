@@ -3,7 +3,11 @@
   "handle": "UK-FRONTLINE",
   "description": "Frontline Consultancy and Business Services Limited",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "185.115.228.0/22"
+    ],
+    "ipv6": [
+      "2a06:79c0::/29"
+    ]
   }
 }

@@ -3,7 +3,9 @@
   "handle": "SMARTAVIA",
   "description": "Smartavia Airlines JSC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "146.120.94.0/24"
+    ],
     "ipv6": []
   }
 }

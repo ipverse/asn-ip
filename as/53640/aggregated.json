@@ -3,7 +3,9 @@
   "handle": "VNB-RIDGEFIELD",
   "description": "Valley National Bank",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "148.78.103.0/24"
+    ],
     "ipv6": []
   }
 }

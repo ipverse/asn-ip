@@ -3,7 +3,10 @@
   "handle": "EVACY",
   "description": "Evacy technology SAS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "62.129.2.0/23",
+      "185.100.184.0/22"
+    ],
     "ipv6": []
   }
 }

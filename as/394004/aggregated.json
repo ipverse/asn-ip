@@ -3,7 +3,9 @@
   "handle": "HURLEY-MEDICAL",
   "description": "Hurley Medical Center",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.135.206.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,10 @@
   "handle": "JOANI-PEREIRA-SILVA",
   "description": "JOANI PEREIRA DA SILVA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "179.124.208.0/23",
+      "179.124.211.0/24"
+    ],
     "ipv6": []
   }
 }

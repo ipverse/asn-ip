@@ -3,7 +3,9 @@
   "handle": "SCMASN",
   "description": "Sandler Capital Management",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.108.124.0/24"
+    ],
     "ipv6": []
   }
 }

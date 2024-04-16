@@ -3,7 +3,9 @@
   "handle": "MONARCHLP",
   "description": "Monarch Alternative Capital LP",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.94.151.0/24"
+    ],
     "ipv6": []
   }
 }

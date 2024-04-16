@@ -3,7 +3,9 @@
   "handle": "LPC",
   "description": "Long Pond Capital, LP.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.86.170.0/24"
+    ],
     "ipv6": []
   }
 }

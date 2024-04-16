@@ -3,7 +3,9 @@
   "handle": "ICAC-AP",
   "description": "Independent Commission Against Corruption",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.79.181.0/24"
+    ],
     "ipv6": []
   }
 }

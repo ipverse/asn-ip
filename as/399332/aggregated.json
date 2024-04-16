@@ -3,7 +3,11 @@
   "handle": "ASJ2SW",
   "description": "J2 Technology LLC",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "209.209.44.0/24"
+    ],
+    "ipv6": [
+      "2602:fcba::/36"
+    ]
   }
 }

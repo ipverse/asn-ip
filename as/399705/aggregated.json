@@ -3,7 +3,9 @@
   "handle": "ADVANCED-IS-NET1",
   "description": "Advanced IS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "71.94.39.0/24"
+    ],
     "ipv6": []
   }
 }

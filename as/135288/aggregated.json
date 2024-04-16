@@ -3,7 +3,9 @@
   "handle": "AUCKLANDMUSEUM-AP",
   "description": "Auckland Museum Trust Board",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.212.123.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "CLEVERIT",
   "description": "CleverIT B.V.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.173.132.0/22"
+    ],
     "ipv6": []
   }
 }

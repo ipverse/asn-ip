@@ -3,7 +3,9 @@
   "handle": "ISHIP",
   "description": "IShip.com",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "64.74.6.0/24"
+    ],
     "ipv6": []
   }
 }

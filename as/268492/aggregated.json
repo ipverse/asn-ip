@@ -3,7 +3,11 @@
   "handle": "JL-PROVEDOR",
   "description": "JL Provedor",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.162.4.0/22"
+    ],
+    "ipv6": [
+      "2804:5210::/32"
+    ]
   }
 }

@@ -4,7 +4,8 @@
   "description": "Sator Engenharia Ltda.",
   "subnets": {
     "ipv4": [
-      "187.0.131.0/24"
+      "186.216.224.0/20",
+      "187.0.128.0/20"
     ],
     "ipv6": []
   }

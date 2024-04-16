@@ -3,7 +3,9 @@
   "handle": "AGILYNC-CORPORATION",
   "description": "Agilync Corporation",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "64.17.247.0/24"
+    ],
     "ipv6": []
   }
 }

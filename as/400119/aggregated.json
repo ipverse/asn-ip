@@ -3,7 +3,9 @@
   "handle": "IRV-NIDR",
   "description": "PIMCO",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "144.77.128.0/22"
+    ],
     "ipv6": []
   }
 }

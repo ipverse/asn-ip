@@ -3,7 +3,9 @@
   "handle": "STERCOM",
   "description": "STERLING TELECOM LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.15.188.0/22"
+    ],
     "ipv6": []
   }
 }

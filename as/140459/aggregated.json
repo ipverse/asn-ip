@@ -3,7 +3,9 @@
   "handle": "STREAKY-ID",
   "description": "PT Mikrotik Indonesia Streaky",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.153.82.0/24"
+    ],
     "ipv6": []
   }
 }

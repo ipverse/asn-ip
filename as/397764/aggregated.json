@@ -3,7 +3,9 @@
   "handle": "REPLIMUNE-US",
   "description": "Replimune Inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "50.222.28.0/24"
+    ],
     "ipv6": []
   }
 }

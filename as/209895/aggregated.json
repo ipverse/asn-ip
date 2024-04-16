@@ -3,7 +3,9 @@
   "handle": "KVANTANETAS",
   "description": "NBI SIA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.65.124.0/22"
+    ],
     "ipv6": []
   }
 }

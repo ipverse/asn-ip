@@ -3,7 +3,9 @@
   "handle": "HIPO",
   "description": "Hipotekarna banka AD, Podgorica",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.179.52.0/23"
+    ],
     "ipv6": []
   }
 }

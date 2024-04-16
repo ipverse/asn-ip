@@ -3,7 +3,9 @@
   "handle": "IEMPRESA-ES",
   "description": "Instituto de Empresa, S.L.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.29.202.0/24"
+    ],
     "ipv6": []
   }
 }

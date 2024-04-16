@@ -3,7 +3,9 @@
   "handle": "ARIANA",
   "description": "Ariana Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.107.115.0/24"
+    ],
     "ipv6": []
   }
 }

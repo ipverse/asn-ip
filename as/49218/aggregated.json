@@ -3,7 +3,9 @@
   "handle": "NTKS",
   "description": "Nizhnetagilskie Kompyuternye Seti LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "46.165.0.0/18"
+    ],
     "ipv6": []
   }
 }

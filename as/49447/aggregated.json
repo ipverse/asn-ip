@@ -3,7 +3,11 @@
   "handle": "NICEIT",
   "description": "Nice IT Services Group Inc.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.9.148.0/22"
+    ],
+    "ipv6": [
+      "2a0e:fa00::/47"
+    ]
   }
 }

@@ -3,7 +3,9 @@
   "handle": "DSI-CORK",
   "description": "8 WEST REVOLUTION TECHNOLOGIES LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.88.4.0/24"
+    ],
     "ipv6": []
   }
 }

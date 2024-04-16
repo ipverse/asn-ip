@@ -3,7 +3,9 @@
   "handle": "CARDTRONICS",
   "description": "CARDTRONICS USA INC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "204.63.134.0/23"
+    ],
     "ipv6": []
   }
 }

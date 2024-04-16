@@ -3,7 +3,9 @@
   "handle": "REDNET",
   "description": "LLC Rednet",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.104.20.0/22"
+    ],
     "ipv6": []
   }
 }

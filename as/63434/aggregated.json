@@ -3,7 +3,9 @@
   "handle": "NFA",
   "description": "National Futures Association",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "198.153.225.0/24"
+    ],
     "ipv6": []
   }
 }

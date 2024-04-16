@@ -3,7 +3,9 @@
   "handle": "GBSOFTWARE",
   "description": "GBsoftware S.p.A.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "93.114.131.0/24"
+    ],
     "ipv6": []
   }
 }

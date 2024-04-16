@@ -3,7 +3,9 @@
   "handle": "ELEVATED-NY",
   "description": "Elevated Computing LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.0.3.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "REGRU",
   "description": "Domain names registrar REG.RU, Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.67.73.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "SINCH-MBLOX",
   "description": "SINCH UK LTD.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.111.75.0/24"
+    ],
     "ipv6": []
   }
 }

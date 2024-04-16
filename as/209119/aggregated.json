@@ -3,7 +3,9 @@
   "handle": "ENERGOGARANT",
   "description": "PJSC Joint-Stock Insurance Company ENERGOGARANT",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.121.244.0/24"
+    ],
     "ipv6": []
   }
 }

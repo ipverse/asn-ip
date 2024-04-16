@@ -3,7 +3,10 @@
   "handle": "SHOREASN",
   "description": "ShoreTel Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "12.167.101.0/24",
+      "192.48.230.0/24"
+    ],
     "ipv6": []
   }
 }

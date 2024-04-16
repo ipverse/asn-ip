@@ -3,7 +3,11 @@
   "handle": "MESSER-IS",
   "description": "Messer Business \u0026 IT Consulting GmbH",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "195.144.31.0/24"
+    ],
+    "ipv6": [
+      "2001:678:a34::/48"
+    ]
   }
 }

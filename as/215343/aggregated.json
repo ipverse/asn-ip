@@ -3,7 +3,9 @@
   "handle": "MINJAE",
   "description": "Minjae Kim",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "37.139.129.0/24"
+    ],
     "ipv6": []
   }
 }

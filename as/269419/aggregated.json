@@ -3,7 +3,9 @@
   "handle": "WWN-REDES-COMUNICAES",
   "description": "WWN Redes e Comunicaes Ltda.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.186.112.0/22"
+    ],
     "ipv6": []
   }
 }

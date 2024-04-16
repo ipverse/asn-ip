@@ -3,7 +3,9 @@
   "handle": "MARS",
   "description": "Mars Lojistik Grup A.S.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.107.22.0/24"
+    ],
     "ipv6": []
   }
 }

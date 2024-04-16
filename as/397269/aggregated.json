@@ -3,7 +3,9 @@
   "handle": "FLEX-DMF",
   "description": "Flextronics International USA, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "158.116.176.0/22"
+    ],
     "ipv6": []
   }
 }

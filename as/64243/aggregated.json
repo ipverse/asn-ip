@@ -3,7 +3,11 @@
   "handle": "MPTC",
   "description": "Moraine Park Technical College",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.126.14.0/24",
+      "205.213.200.0/24",
+      "205.213.202.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "MIGJORNSER",
   "description": "Mediterraneum XX. S.L.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "94.125.142.0/24"
+    ],
     "ipv6": []
   }
 }

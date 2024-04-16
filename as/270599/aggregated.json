@@ -3,7 +3,9 @@
   "handle": "MAIS-MEGA-TELECOM",
   "description": "MAIS MEGA TELECOM LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "186.219.228.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "UBC-GROUP",
   "description": "PJSC UKRAINIAN BEER COMPANY",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.169.206.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "WASHPOST",
   "description": "Washington Post",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.72.255.0/24"
+    ],
     "ipv6": []
   }
 }

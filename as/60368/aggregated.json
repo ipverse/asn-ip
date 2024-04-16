@@ -3,7 +3,10 @@
   "handle": "GREENTUBE-AT",
   "description": "Greentube GmbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "94.136.112.0/22",
+      "185.16.76.0/23"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,12 @@
   "handle": "PARANHANANET",
   "description": "Paranhananet Ltda.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "143.255.116.0/22",
+      "177.223.64.0/20"
+    ],
+    "ipv6": [
+      "2804:ecc::/32"
+    ]
   }
 }

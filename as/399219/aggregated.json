@@ -3,7 +3,9 @@
   "handle": "AFAB-NET-01",
   "description": "AIRFIBER INTERNET LTD.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "23.173.144.0/24"
+    ],
     "ipv6": []
   }
 }

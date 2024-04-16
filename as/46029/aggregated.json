@@ -3,7 +3,9 @@
   "handle": "SGK-ID",
   "description": "PT. SEKAWAN GLOBAL KOMUNIKA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "117.121.200.0/21"
+    ],
     "ipv6": []
   }
 }

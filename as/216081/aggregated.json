@@ -3,7 +3,13 @@
   "handle": "GOBBATO-IT-SOLUTIONS",
   "description": "Paulo Gobbato trading as Gobbato IT Loesungen",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "37.114.61.0/24",
+      "188.241.136.0/24"
+    ],
+    "ipv6": [
+      "2a12:3e80:6a0::/47",
+      "2a12:3e80:6af::/48"
+    ]
   }
 }

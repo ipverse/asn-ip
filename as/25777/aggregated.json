@@ -3,7 +3,9 @@
   "handle": "SNE",
   "description": "Subaru of New England",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.105.105.0/24"
+    ],
     "ipv6": []
   }
 }

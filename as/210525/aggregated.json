@@ -3,7 +3,9 @@
   "handle": "SIRIUS-NET",
   "description": "Nikita Sergienko",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.242.255.0/24"
+    ],
     "ipv6": []
   }
 }

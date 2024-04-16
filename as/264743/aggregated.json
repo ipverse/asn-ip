@@ -3,7 +3,9 @@
   "handle": "CORDOBA-IP",
   "description": "CORDOBA IP SRL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "168.194.32.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "INGOUA",
   "description": "CJSC Joint Stock Insurance Company INGO Ukraine",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "31.128.64.0/24"
+    ],
     "ipv6": []
   }
 }

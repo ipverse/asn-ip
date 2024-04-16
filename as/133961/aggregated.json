@@ -3,7 +3,9 @@
   "handle": "AVIVAIND-IN",
   "description": "AVIVA LIFE INSURANCE COMPANY INDIA LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.168.14.0/23"
+    ],
     "ipv6": []
   }
 }

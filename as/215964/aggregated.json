@@ -3,7 +3,9 @@
   "handle": "SAMOS",
   "description": "SAMOS STEAMSHIP COMPANY",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "89.207.159.0/24"
+    ],
     "ipv6": []
   }
 }

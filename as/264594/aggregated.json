@@ -3,7 +3,9 @@
   "handle": "BLUDATA-PROCESSAMENTO-DADOS",
   "description": "Bludata Processamento de Dados Ltda",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "138.59.52.0/22"
+    ],
     "ipv6": []
   }
 }

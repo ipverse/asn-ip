@@ -3,7 +3,9 @@
   "handle": "ONEDIGITAL-AS1",
   "description": "Digital Insurance",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "50.234.230.0/24"
+    ],
     "ipv6": []
   }
 }

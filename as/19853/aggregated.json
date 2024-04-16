@@ -3,7 +3,11 @@
   "handle": "ORANGEHOST",
   "description": "OrangeHost",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "66.45.23.0/24",
+      "173.252.167.0/24",
+      "209.172.2.0/24"
+    ],
     "ipv6": []
   }
 }

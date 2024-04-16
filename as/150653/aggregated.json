@@ -3,7 +3,9 @@
   "handle": "IIBXGJ-IN",
   "description": "India International Bullion Exchange Ifsc Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.76.192.0/23"
+    ],
     "ipv6": []
   }
 }

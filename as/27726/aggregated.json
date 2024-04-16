@@ -3,7 +3,9 @@
   "handle": "GLOBAL-BANK",
   "description": "GLOBAL BANK",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "200.14.119.0/24"
+    ],
     "ipv6": []
   }
 }

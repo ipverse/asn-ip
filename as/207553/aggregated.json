@@ -3,7 +3,9 @@
   "handle": "VUHUV",
   "description": "Vuhuv Telekomunikasyon A.S.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.9.191.0/24"
+    ],
     "ipv6": []
   }
 }

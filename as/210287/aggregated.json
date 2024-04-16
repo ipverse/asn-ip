@@ -3,7 +3,9 @@
   "handle": "UMK",
   "description": "GMINA MIEJSKA KRAKOW - URZAD MIASTA KRAKOWA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.160.48.0/22"
+    ],
     "ipv6": []
   }
 }

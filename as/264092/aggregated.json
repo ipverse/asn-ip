@@ -3,10 +3,11 @@
   "handle": "STA-TELECOM",
   "description": "STA TELECOM LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "143.208.148.0/22"
+    ],
     "ipv6": [
-      "2804:2ac0:71::/48",
-      "2804:2ac0:72::/48"
+      "2804:2ac0::/32"
     ]
   }
 }

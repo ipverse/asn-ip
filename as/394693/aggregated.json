@@ -3,7 +3,9 @@
   "handle": "PLCU-NET",
   "description": "Point Loma Credit Union",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "98.163.63.0/24"
+    ],
     "ipv6": []
   }
 }

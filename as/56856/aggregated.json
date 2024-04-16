@@ -3,7 +3,9 @@
   "handle": "ARMEEC",
   "description": "Insurance JSC Armeec",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "212.21.139.0/24"
+    ],
     "ipv6": []
   }
 }

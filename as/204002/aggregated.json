@@ -3,7 +3,9 @@
   "handle": "ADITROCLOUD",
   "description": "SD Worx Finland Oy",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.43.88.0/22"
+    ],
     "ipv6": []
   }
 }

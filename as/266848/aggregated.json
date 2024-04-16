@@ -3,7 +3,11 @@
   "handle": "UNIVERSIDAD-MILITAR-NUEVA",
   "description": "UNIVERSIDAD MILITAR NUEVA GRANADA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.238.196.0/22"
+    ],
+    "ipv6": [
+      "2801:12:f000::/48"
+    ]
   }
 }

@@ -3,7 +3,9 @@
   "handle": "FALCOM",
   "description": "Falcom Sp. z o.o.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.222.148.0/22"
+    ],
     "ipv6": []
   }
 }

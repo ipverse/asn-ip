@@ -3,7 +3,9 @@
   "handle": "WESTERNCARRIERS-NJ",
   "description": "Western Carriers Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "198.161.87.0/24"
+    ],
     "ipv6": []
   }
 }

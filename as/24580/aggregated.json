@@ -3,7 +3,9 @@
   "handle": "SUPSA",
   "description": "SUPSA SUPERMERCATS PUJOL SL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "62.81.161.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,10 @@
   "handle": "BBP",
   "description": "BBP AG",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.209.55.0/24",
+      "194.209.69.0/24"
+    ],
     "ipv6": []
   }
 }

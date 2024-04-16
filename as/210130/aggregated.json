@@ -3,7 +3,9 @@
   "handle": "OPTILANAS",
   "description": "NBI SIA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "77.241.64.0/22"
+    ],
     "ipv6": []
   }
 }

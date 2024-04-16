@@ -3,7 +3,9 @@
   "handle": "GLS-BE",
   "description": "GLS IT Services GmbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.106.227.0/24"
+    ],
     "ipv6": []
   }
 }

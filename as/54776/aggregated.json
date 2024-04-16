@@ -3,7 +3,9 @@
   "handle": "WE",
   "description": "West Essex Regional School District",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "204.124.28.0/22"
+    ],
     "ipv6": []
   }
 }

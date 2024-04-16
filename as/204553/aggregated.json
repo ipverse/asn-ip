@@ -3,7 +3,9 @@
   "handle": "TOPMEDIA",
   "description": "Topmedia LLC.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.85.217.0/24"
+    ],
     "ipv6": []
   }
 }

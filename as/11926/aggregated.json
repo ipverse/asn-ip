@@ -3,7 +3,9 @@
   "handle": "HARTSOFTWARE",
   "description": "Hart Software, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "198.49.9.0/24"
+    ],
     "ipv6": []
   }
 }

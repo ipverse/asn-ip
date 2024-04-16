@@ -4,6 +4,8 @@
   "description": "Liam Kremer",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a0e:fd45:2db0::/48"
+    ]
   }
 }

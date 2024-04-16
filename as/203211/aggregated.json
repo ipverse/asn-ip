@@ -3,7 +3,9 @@
   "handle": "HEWLETT-PACKARD-ENTERPRISE",
   "description": "Hewlett Packard France S.A.S.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.160.64.0/19"
+    ],
     "ipv6": []
   }
 }

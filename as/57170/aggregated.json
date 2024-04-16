@@ -3,7 +3,9 @@
   "handle": "ZATM",
   "description": "GRUPA AZOTY S.A",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.8.57.0/24"
+    ],
     "ipv6": []
   }
 }

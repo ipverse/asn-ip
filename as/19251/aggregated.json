@@ -3,7 +3,9 @@
   "handle": "NEPGROUPINC",
   "description": "NEP Group, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "8.28.216.0/24"
+    ],
     "ipv6": []
   }
 }

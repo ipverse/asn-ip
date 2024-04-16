@@ -3,7 +3,9 @@
   "handle": "BANQUE-DE-LUXEMBOURG-SA",
   "description": "BANQUE DE LUXEMBOURG SA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.178.219.0/24"
+    ],
     "ipv6": []
   }
 }

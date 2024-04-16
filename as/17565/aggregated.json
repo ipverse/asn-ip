@@ -3,7 +3,9 @@
   "handle": "ADC-BUDDYB",
   "description": "ADVANCED WIRELESS NETWORK COMPANY LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "203.146.222.0/24"
+    ],
     "ipv6": []
   }
 }

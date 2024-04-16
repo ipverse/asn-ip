@@ -3,7 +3,9 @@
   "handle": "NMG",
   "description": "JSC National Media Group",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "212.33.7.0/24"
+    ],
     "ipv6": []
   }
 }

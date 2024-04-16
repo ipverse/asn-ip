@@ -3,7 +3,9 @@
   "handle": "SISTEMABANK",
   "description": "CB Sistema LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.22.230.0/24"
+    ],
     "ipv6": []
   }
 }

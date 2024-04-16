@@ -3,7 +3,9 @@
   "handle": "ERACA",
   "description": "Electronic Recycling Association",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "198.17.96.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "TMNAS-ASN-1",
   "description": "TMNA Services, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.243.34.0/23"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "IUS-SW",
   "description": "LEXPERA d.o.o.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.41.36.0/24"
+    ],
     "ipv6": []
   }
 }

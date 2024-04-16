@@ -3,7 +3,10 @@
   "handle": "SPEEDNET4-IN",
   "description": "speed net",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.70.157.0/24",
+      "103.70.158.0/24"
+    ],
     "ipv6": []
   }
 }

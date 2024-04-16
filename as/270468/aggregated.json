@@ -3,7 +3,11 @@
   "handle": "INTERPRO-TELECOMUNICACOES-EIRELI",
   "description": "INTERPRO TELECOMUNICACOES EIRELI",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "200.106.140.0/22"
+    ],
+    "ipv6": [
+      "2804:6c70::/32"
+    ]
   }
 }

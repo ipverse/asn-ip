@@ -3,7 +3,9 @@
   "handle": "BINAT-HAIFA-PORT",
   "description": "Haifa Port Company Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.208.139.0/24"
+    ],
     "ipv6": []
   }
 }

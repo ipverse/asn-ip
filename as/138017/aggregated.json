@@ -3,7 +3,9 @@
   "handle": "ABBNET-AP",
   "description": "Abbotsleigh School",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.119.253.0/24"
+    ],
     "ipv6": []
   }
 }

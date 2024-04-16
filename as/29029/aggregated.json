@@ -3,7 +3,9 @@
   "handle": "KNPC",
   "description": "Kuwait National Petroleum Company",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.188.48.0/20"
+    ],
     "ipv6": []
   }
 }

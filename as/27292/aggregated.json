@@ -3,7 +3,11 @@
   "handle": "RESMED-AMR",
   "description": "ResMed Corp.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "50.222.178.0/24",
+      "66.6.176.0/20",
+      "199.47.244.0/22"
+    ],
     "ipv6": []
   }
 }

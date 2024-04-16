@@ -3,7 +3,9 @@
   "handle": "CCCOES",
   "description": "Colorado Community College and Occupational Education System",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "164.47.0.0/16"
+    ],
     "ipv6": []
   }
 }

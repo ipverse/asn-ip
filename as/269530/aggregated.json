@@ -3,7 +3,11 @@
   "handle": "ACCESSNET-TELECOMUNICAES-EIRELI",
   "description": "ACCESSNET TELECOMUNICAES EIRELI",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.188.184.0/22"
+    ],
+    "ipv6": [
+      "2804:660c::/32"
+    ]
   }
 }

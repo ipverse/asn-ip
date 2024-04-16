@@ -3,7 +3,9 @@
   "handle": "SEANET-IX05",
   "description": "Seabak LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "37.32.74.0/24"
+    ],
     "ipv6": []
   }
 }

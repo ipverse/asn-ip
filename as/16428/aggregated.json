@@ -3,7 +3,9 @@
   "handle": "SFS-AS1",
   "description": "Store Financial Services, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "98.100.114.0/24"
+    ],
     "ipv6": []
   }
 }

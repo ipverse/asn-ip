@@ -3,7 +3,9 @@
   "handle": "MAJORGROUP-AP",
   "description": "Major Cineplex Group Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "203.107.164.0/24"
+    ],
     "ipv6": []
   }
 }

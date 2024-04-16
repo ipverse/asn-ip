@@ -3,7 +3,9 @@
   "handle": "GILAT-TO-HOME-PERU",
   "description": "GILAT TO HOME PERU S.A",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "168.0.12.0/22"
+    ],
     "ipv6": []
   }
 }

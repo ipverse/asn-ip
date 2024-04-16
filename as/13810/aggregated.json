@@ -3,7 +3,11 @@
   "handle": "AFILIAS-CURLEW",
   "description": "Afilias, Inc.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "65.22.15.0/24"
+    ],
+    "ipv6": [
+      "2a01:8840:1bd::/48"
+    ]
   }
 }

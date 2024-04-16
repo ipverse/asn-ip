@@ -3,7 +3,10 @@
   "handle": "ADAGE-CAPITAL",
   "description": "Adage Capital Partners, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "8.21.83.0/24",
+      "65.244.59.0/24"
+    ],
     "ipv6": []
   }
 }

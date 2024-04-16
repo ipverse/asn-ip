@@ -3,7 +3,9 @@
   "handle": "SAINETSO-IN",
   "description": "Sai Net Solutions",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.66.16.0/22"
+    ],
     "ipv6": []
   }
 }

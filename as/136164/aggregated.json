@@ -3,7 +3,9 @@
   "handle": "IUT-AP",
   "description": "Islamic University of Technology (IUT)",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.82.172.0/22"
+    ],
     "ipv6": []
   }
 }

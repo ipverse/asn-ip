@@ -3,7 +3,10 @@
   "handle": "COMMARC-ASN-AP",
   "description": "CommArc Consulting Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "202.49.120.0/23",
+      "202.164.28.0/22"
+    ],
     "ipv6": []
   }
 }

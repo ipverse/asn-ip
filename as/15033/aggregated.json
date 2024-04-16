@@ -3,7 +3,10 @@
   "handle": "XPRES-PDX",
   "description": "XPRESSBET INC.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "66.193.103.0/24",
+      "174.46.192.0/24"
+    ],
     "ipv6": []
   }
 }

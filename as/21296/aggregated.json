@@ -3,7 +3,9 @@
   "handle": "PWC-UK",
   "description": "Pricewaterhousecoopers Services Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "164.143.0.0/16"
+    ],
     "ipv6": []
   }
 }

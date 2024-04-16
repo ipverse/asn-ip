@@ -3,7 +3,11 @@
   "handle": "SKY-KALAK-NET",
   "description": "Sky Kalak Net for Communication Services LTD",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "193.56.135.0/24"
+    ],
+    "ipv6": [
+      "2a10:e8c0::/29"
+    ]
   }
 }

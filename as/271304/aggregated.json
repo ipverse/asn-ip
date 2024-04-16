@@ -3,7 +3,11 @@
   "handle": "AMS-NASCIMENTO-CONECTCOM",
   "description": "A.M.S DO NASCIMENTO CONECT.COM",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "200.53.68.0/22"
+    ],
+    "ipv6": [
+      "2804:796c::/32"
+    ]
   }
 }

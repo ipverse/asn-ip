@@ -3,7 +3,9 @@
   "handle": "PEBBLEHOST-PROTECTED",
   "description": "Daniel Jackson",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "188.64.33.0/24"
+    ],
     "ipv6": []
   }
 }

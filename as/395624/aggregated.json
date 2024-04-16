@@ -3,7 +3,9 @@
   "handle": "GACORP",
   "description": "General Atomics",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "141.248.0.0/16"
+    ],
     "ipv6": []
   }
 }

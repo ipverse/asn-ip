@@ -3,7 +3,9 @@
   "handle": "TANGERINE-LV",
   "description": "Tangerine Global",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.70.234.0/24"
+    ],
     "ipv6": []
   }
 }

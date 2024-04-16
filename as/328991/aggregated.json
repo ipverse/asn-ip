@@ -3,7 +3,10 @@
   "handle": "IRONTREE",
   "description": "IronTree Internet Services",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "102.217.44.0/24",
+      "102.217.46.0/24"
+    ],
     "ipv6": []
   }
 }

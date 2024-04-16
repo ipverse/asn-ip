@@ -3,7 +3,9 @@
   "handle": "NYTD",
   "description": "The New York Times Company",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "170.149.240.0/21"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "FIAT-AS1",
   "description": "FCA INFORMATION TECHNOLOGY, EXCELLENCE AND METHODS S.P.A.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "151.91.32.0/20"
+    ],
     "ipv6": []
   }
 }

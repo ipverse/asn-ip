@@ -3,7 +3,9 @@
   "handle": "IDS",
   "description": "GROUPE PSIH SAS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.49.208.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,12 @@
   "handle": "IDNIC-SARANAINTIMEDIA-ID",
   "description": "PT Sarana Intimedia Telematika",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "103.44.19.0/24",
+      "103.152.21.0/24"
+    ],
+    "ipv6": [
+      "2001:df2:5dc0::/48"
+    ]
   }
 }

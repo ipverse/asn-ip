@@ -3,7 +3,9 @@
   "handle": "CMNET-HAINAN-IDC",
   "description": "China Mobile Communications Corporation",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "183.255.124.0/24"
+    ],
     "ipv6": []
   }
 }

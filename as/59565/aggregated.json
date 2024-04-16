@@ -3,7 +3,11 @@
   "handle": "CRONOS",
   "description": "Cronos Internet Ltd",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "79.174.168.0/21"
+    ],
+    "ipv6": [
+      "2a02:d3c7::/32"
+    ]
   }
 }

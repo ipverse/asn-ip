@@ -3,7 +3,10 @@
   "handle": "CITRIXSYSTEMS-UK",
   "description": "CLOUD SG UK LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.25.64.0/23",
+      "185.25.67.0/24"
+    ],
     "ipv6": []
   }
 }

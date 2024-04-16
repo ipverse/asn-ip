@@ -3,7 +3,9 @@
   "handle": "GECOM",
   "description": "GeCom s.r.o.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "46.150.192.0/19"
+    ],
     "ipv6": []
   }
 }

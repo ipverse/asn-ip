@@ -3,7 +3,9 @@
   "handle": "TEMA",
   "description": "Toyota Motor Engineering and Manufacturing North America, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "63.238.139.0/24"
+    ],
     "ipv6": []
   }
 }

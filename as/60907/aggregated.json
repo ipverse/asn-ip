@@ -3,7 +3,10 @@
   "handle": "MIRDARA",
   "description": "MIRDARA SRL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "89.36.174.0/24",
+      "188.241.32.0/22"
+    ],
     "ipv6": []
   }
 }

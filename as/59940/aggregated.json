@@ -3,7 +3,9 @@
   "handle": "PMNET",
   "description": "INTERKVM HOST SRL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.112.170.0/24"
+    ],
     "ipv6": []
   }
 }

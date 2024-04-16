@@ -3,7 +3,9 @@
   "handle": "THEZONE",
   "description": "ZONATA - INVEST sLLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "85.217.192.0/20"
+    ],
     "ipv6": []
   }
 }

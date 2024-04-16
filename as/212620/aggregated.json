@@ -3,7 +3,9 @@
   "handle": "RGH",
   "description": "RusGazShelf LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "83.242.99.0/24"
+    ],
     "ipv6": []
   }
 }

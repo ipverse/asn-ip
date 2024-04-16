@@ -3,7 +3,9 @@
   "handle": "GM-HIL",
   "description": "Gemeente Hilversum",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "94.124.113.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,12 @@
   "handle": "EURONET",
   "description": "Euronet Communications B.V.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "83.119.0.0/19",
+      "85.148.0.0/15"
+    ],
+    "ipv6": [
+      "2a02:2500::/32"
+    ]
   }
 }

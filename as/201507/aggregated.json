@@ -3,7 +3,11 @@
   "handle": "SARDINA01",
   "description": "Sardina Systems Sarl",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "195.137.221.0/24"
+    ],
+    "ipv6": [
+      "2a13:2440:a0::/44"
+    ]
   }
 }

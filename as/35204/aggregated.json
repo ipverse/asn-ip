@@ -3,7 +3,12 @@
   "handle": "AKAMAI-DUB",
   "description": "Akamai International B.V.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "184.26.144.0/24"
+    ],
+    "ipv6": [
+      "2600:1419:7400::/48",
+      "2600:1419:7c00::/48"
+    ]
   }
 }

@@ -3,7 +3,9 @@
   "handle": "NSE",
   "description": "NIGERIAN STOCK EXCHANGE",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "196.29.44.0/22"
+    ],
     "ipv6": []
   }
 }

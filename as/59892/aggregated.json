@@ -3,7 +3,9 @@
   "handle": "IT-ECOSERV",
   "description": "IT EcoServ SRL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "89.39.190.0/24"
+    ],
     "ipv6": []
   }
 }

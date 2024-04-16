@@ -3,7 +3,9 @@
   "handle": "CPTVNET-AP",
   "description": "CONCEPCION PAY-TV NETWORK, INC.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.136.164.0/22"
+    ],
     "ipv6": []
   }
 }

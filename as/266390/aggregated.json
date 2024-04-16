@@ -3,7 +3,9 @@
   "handle": "TAJO-TECNOLOGIA",
   "description": "Tajo Tecnologia Ltda",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "170.80.188.0/22"
+    ],
     "ipv6": []
   }
 }

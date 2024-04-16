@@ -3,7 +3,9 @@
   "handle": "WARRINGTON",
   "description": "Warrington Borough Council",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.150.26.0/23"
+    ],
     "ipv6": []
   }
 }

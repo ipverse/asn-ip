@@ -3,7 +3,9 @@
   "handle": "WABASHVALLEYPOWERASSOC",
   "description": "Wabash Valley Power Association Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "208.81.140.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "IBM-GPS-AP",
   "description": "IBM Business Services, Inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.226.12.0/22"
+    ],
     "ipv6": []
   }
 }

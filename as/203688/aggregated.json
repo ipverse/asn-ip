@@ -3,7 +3,11 @@
   "handle": "INELO",
   "description": "INELO Polska spolka z ograniczona odpowiedzialnoscia",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "213.108.28.0/24"
+    ],
+    "ipv6": [
+      "2001:67c:1b38::/48"
+    ]
   }
 }

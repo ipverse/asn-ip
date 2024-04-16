@@ -3,7 +3,10 @@
   "handle": "ASTELESETI",
   "description": "Telefonnyie seti Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.226.128.0/23",
+      "91.226.130.0/24"
+    ],
     "ipv6": []
   }
 }

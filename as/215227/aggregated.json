@@ -3,7 +3,11 @@
   "handle": "LEOGRID",
   "description": "LEOGRID SAS",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "193.107.245.0/24"
+    ],
+    "ipv6": [
+      "2a14:2140::/29"
+    ]
   }
 }

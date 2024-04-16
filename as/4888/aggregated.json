@@ -3,7 +3,9 @@
   "handle": "USPSOIG-AS1",
   "description": "United States Postal Service Office of Inspector General",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.134.108.0/24"
+    ],
     "ipv6": []
   }
 }

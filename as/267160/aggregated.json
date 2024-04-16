@@ -3,7 +3,11 @@
   "handle": "JARDIMNET-SERVICOS-INFORMATICA",
   "description": "JARDIMNET SERVICOS DE INFORMATICA E REDES",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.230.96.0/22"
+    ],
+    "ipv6": [
+      "2804:4908::/32"
+    ]
   }
 }

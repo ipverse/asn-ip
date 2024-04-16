@@ -3,7 +3,9 @@
   "handle": "PETROLESPORT",
   "description": "Joint-Stock Company Petrolesport",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.209.143.0/24"
+    ],
     "ipv6": []
   }
 }

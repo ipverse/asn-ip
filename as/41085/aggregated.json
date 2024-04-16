@@ -3,7 +3,9 @@
   "handle": "E-PORT",
   "description": "QIWI JSC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.189.100.0/22"
+    ],
     "ipv6": []
   }
 }

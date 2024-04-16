@@ -3,7 +3,9 @@
   "handle": "CODELCO-CHUQUICAMATA",
   "description": "CODELCO Chuquicamata",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "165.182.0.0/16"
+    ],
     "ipv6": []
   }
 }

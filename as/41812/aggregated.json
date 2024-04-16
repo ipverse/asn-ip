@@ -3,7 +3,9 @@
   "handle": "DIPEX-GROUP",
   "description": "DipEx Group Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.213.96.0/23"
+    ],
     "ipv6": []
   }
 }

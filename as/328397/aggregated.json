@@ -3,7 +3,9 @@
   "handle": "LUCKY-CONNECT",
   "description": "LUCKY CONNECT TECHNOLOGIES (PTY) LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "102.129.40.0/21"
+    ],
     "ipv6": []
   }
 }

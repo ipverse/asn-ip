@@ -4,6 +4,11 @@
   "description": "Gatterer Manuel trading as MLGT",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a05:4140:3f0::/44",
+      "2a0a:280:1620::/43",
+      "2a0a:280:1640::/42",
+      "2a0a:280:1680::/41"
+    ]
   }
 }

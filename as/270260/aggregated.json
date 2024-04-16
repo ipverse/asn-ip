@@ -3,7 +3,11 @@
   "handle": "MMP-PROVEDOR-ACESSO",
   "description": "M.M.P. PROVEDOR DE ACESSO A INTERNET LTDA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "200.110.100.0/22"
+    ],
+    "ipv6": [
+      "2804:6948::/32"
+    ]
   }
 }

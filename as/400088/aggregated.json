@@ -3,7 +3,9 @@
   "handle": "WAWA-PUBLIC-BLOCK",
   "description": "Wawa Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "207.110.128.0/23"
+    ],
     "ipv6": []
   }
 }

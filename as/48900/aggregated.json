@@ -3,7 +3,10 @@
   "handle": "INFODATACENTER",
   "description": "Info Data Center Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "78.130.128.0/24",
+      "195.88.74.0/23"
+    ],
     "ipv6": []
   }
 }

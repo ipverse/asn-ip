@@ -3,7 +3,11 @@
   "handle": "G-M-COSTA-INTERNET",
   "description": "G M DA COSTA INTERNET",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.226.124.0/22"
+    ],
+    "ipv6": [
+      "2804:4604::/32"
+    ]
   }
 }

@@ -3,7 +3,9 @@
   "handle": "NGTEL",
   "description": "NGTelecom, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "216.128.192.0/20"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "PML-AP",
   "description": "Pilbara Minerals",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.248.220.0/23"
+    ],
     "ipv6": []
   }
 }

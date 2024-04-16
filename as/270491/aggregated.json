@@ -3,7 +3,11 @@
   "handle": "MARIA-GOMES-SOUZA-ASSIS",
   "description": "Maria Gomes de Souza Assis - Me",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "24.152.100.0/22"
+    ],
+    "ipv6": [
+      "2804:6cc8::/32"
+    ]
   }
 }

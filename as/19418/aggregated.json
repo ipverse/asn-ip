@@ -4,6 +4,8 @@
   "description": "Minnesota Brain Injury Alliance",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2620:b5:e000::/48"
+    ]
   }
 }

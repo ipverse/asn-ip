@@ -3,7 +3,9 @@
   "handle": "KBINET",
   "description": "KOREA BANKING INSTITUTE",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "211.249.118.0/24"
+    ],
     "ipv6": []
   }
 }

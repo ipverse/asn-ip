@@ -3,7 +3,9 @@
   "handle": "IDNIC-INTEGRALDP-ID",
   "description": "PT INTEGRAL DATA PRIMA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.114.18.0/24"
+    ],
     "ipv6": []
   }
 }

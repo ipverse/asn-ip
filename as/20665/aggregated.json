@@ -3,7 +3,9 @@
   "handle": "VARNANET",
   "description": "Varna Net Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "217.145.80.0/20"
+    ],
     "ipv6": []
   }
 }

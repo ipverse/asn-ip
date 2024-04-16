@@ -3,7 +3,9 @@
   "handle": "GMTPL",
   "description": "GMINA MIASTA TORUN",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.183.56.0/24"
+    ],
     "ipv6": []
   }
 }

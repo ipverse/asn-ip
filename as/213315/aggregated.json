@@ -3,7 +3,9 @@
   "handle": "COMUNEMISTERBIANCO",
   "description": "Comune di Misterbianco",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.116.209.0/24"
+    ],
     "ipv6": []
   }
 }

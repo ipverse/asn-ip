@@ -3,7 +3,11 @@
   "handle": "LOCALNET-TELECOM",
   "description": "LOCALNET TELECOM LTDA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.239.240.0/22"
+    ],
+    "ipv6": [
+      "2804:5040::/32"
+    ]
   }
 }

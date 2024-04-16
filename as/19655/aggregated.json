@@ -3,7 +3,9 @@
   "handle": "METALLUS-INCORPORATED",
   "description": "TimkenSteel Corporation",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "147.185.112.0/24"
+    ],
     "ipv6": []
   }
 }

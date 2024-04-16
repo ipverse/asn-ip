@@ -3,7 +3,9 @@
   "handle": "VFN",
   "description": "Vassbacks Fibernat ek. for.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.180.188.0/23"
+    ],
     "ipv6": []
   }
 }

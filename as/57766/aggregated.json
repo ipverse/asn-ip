@@ -3,7 +3,9 @@
   "handle": "ENERGOINFORM",
   "description": "ENERGOINFORM Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.235.7.0/24"
+    ],
     "ipv6": []
   }
 }

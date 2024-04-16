@@ -3,7 +3,9 @@
   "handle": "WINET",
   "description": "DutchTech Pcs Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.89.23.0/24"
+    ],
     "ipv6": []
   }
 }

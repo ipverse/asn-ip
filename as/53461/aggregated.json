@@ -3,7 +3,9 @@
   "handle": "EBTC",
   "description": "Enterprise Bank and Trust Company",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "131.239.29.0/24"
+    ],
     "ipv6": []
   }
 }

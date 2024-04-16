@@ -3,7 +3,9 @@
   "handle": "TELEMEDIA",
   "description": "Dynamic Connection SRL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.88.202.0/23"
+    ],
     "ipv6": []
   }
 }

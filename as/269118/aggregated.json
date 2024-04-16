@@ -3,7 +3,11 @@
   "handle": "GTN-TELECOM-INTERNET",
   "description": "GTN-TELECOM INTERNET LTDA-ME",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.179.228.0/22"
+    ],
+    "ipv6": [
+      "2804:5fb4::/32"
+    ]
   }
 }

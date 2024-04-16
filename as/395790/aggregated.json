@@ -3,7 +3,9 @@
   "handle": "SMECO",
   "description": "SOUTHERN MARYLAND ELECTRIC COOPERATIVE INC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "216.98.175.0/24"
+    ],
     "ipv6": []
   }
 }

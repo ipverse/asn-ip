@@ -3,7 +3,10 @@
   "handle": "WIL-AP",
   "description": "Wanna Internet Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.233.132.0/22",
+      "131.203.131.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "MEDCOENERGI-ID",
   "description": "Medco E\u0026P Indonesia, PT",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "203.210.83.0/24"
+    ],
     "ipv6": []
   }
 }

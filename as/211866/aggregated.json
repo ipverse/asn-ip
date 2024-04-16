@@ -3,7 +3,9 @@
   "handle": "SINTEL",
   "description": "Sintel LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "176.105.234.0/24"
+    ],
     "ipv6": []
   }
 }

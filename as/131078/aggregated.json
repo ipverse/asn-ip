@@ -3,7 +3,9 @@
   "handle": "KDDILABS",
   "description": "autonomous-system object for KDDILAB",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "202.255.47.0/24"
+    ],
     "ipv6": []
   }
 }

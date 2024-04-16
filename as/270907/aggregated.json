@@ -3,7 +3,11 @@
   "handle": "PLAY-SERVICO-VALOR",
   "description": "PLAY SERVICO DE VALOR AGREGADO LTDA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "189.50.56.0/22"
+    ],
+    "ipv6": [
+      "2804:7350::/32"
+    ]
   }
 }

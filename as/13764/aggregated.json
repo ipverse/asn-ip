@@ -3,7 +3,9 @@
   "handle": "KPU-CA-1",
   "description": "Kwantlen Polytechnic University",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "162.245.248.0/21"
+    ],
     "ipv6": []
   }
 }

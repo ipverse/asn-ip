@@ -3,7 +3,10 @@
   "handle": "HKTEL-AP",
   "description": "South China Telecommunications (H.K.) Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "203.81.180.0/22",
+      "203.168.254.0/24"
+    ],
     "ipv6": []
   }
 }

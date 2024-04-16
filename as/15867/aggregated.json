@@ -3,7 +3,9 @@
   "handle": "ED-PARTNER",
   "description": "ED-PARTNER LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.162.180.0/22"
+    ],
     "ipv6": []
   }
 }

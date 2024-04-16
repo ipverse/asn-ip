@@ -3,7 +3,9 @@
   "handle": "FORUNITY",
   "description": "FOR UNITY LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.133.106.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,10 @@
   "handle": "OAKFORDIS",
   "description": "Oakford Internet Services Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.28.88.0/22",
+      "185.73.64.0/22"
+    ],
     "ipv6": []
   }
 }

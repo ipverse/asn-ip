@@ -3,7 +3,9 @@
   "handle": "FLEXUS-TELECOM",
   "description": "FLEXUS TELECOM LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "201.55.160.0/20"
+    ],
     "ipv6": []
   }
 }

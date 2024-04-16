@@ -3,7 +3,9 @@
   "handle": "PROASSURANCE",
   "description": "ProAssurance Corporation",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "205.159.71.0/24"
+    ],
     "ipv6": []
   }
 }

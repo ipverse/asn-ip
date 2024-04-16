@@ -3,7 +3,10 @@
   "handle": "PRISEDA-NET",
   "description": "Priseda LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.66.71.0/24",
+      "38.66.82.0/23"
+    ],
     "ipv6": []
   }
 }

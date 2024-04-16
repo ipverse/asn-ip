@@ -3,7 +3,9 @@
   "handle": "GMO-AP",
   "description": "CS Loxinfo Public Company Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "202.183.234.0/24"
+    ],
     "ipv6": []
   }
 }

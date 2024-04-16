@@ -3,7 +3,9 @@
   "handle": "INAP-ID",
   "description": "PT. Kreatif Pasific",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.4.243.0/24"
+    ],
     "ipv6": []
   }
 }

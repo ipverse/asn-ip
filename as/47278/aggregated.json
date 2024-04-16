@@ -3,7 +3,9 @@
   "handle": "MMTS9",
   "description": "OAO Moscow Long-Distance Exchange No. 9",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.216.244.0/24"
+    ],
     "ipv6": []
   }
 }

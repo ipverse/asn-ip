@@ -3,7 +3,9 @@
   "handle": "GSIC-VA",
   "description": "Radial, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.241.234.0/23"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,10 @@
   "handle": "UTHEALTHCENTER-TYLER",
   "description": "University of Texas Health Science Center at Tyler",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "129.114.128.0/17",
+      "192.88.11.0/24"
+    ],
     "ipv6": []
   }
 }

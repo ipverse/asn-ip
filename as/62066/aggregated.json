@@ -3,7 +3,9 @@
   "handle": "ATRACOM",
   "description": "TOV Atracom",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "213.156.69.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "KHARTSIZSKNET",
   "description": "IGOR USPENSKYY",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "213.108.176.0/21"
+    ],
     "ipv6": []
   }
 }

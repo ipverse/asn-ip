@@ -3,7 +3,9 @@
   "handle": "INTERMAX",
   "description": "INTERMAX S.A.C.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.182.36.0/22"
+    ],
     "ipv6": []
   }
 }

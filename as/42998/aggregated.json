@@ -3,7 +3,10 @@
   "handle": "CROSS-I",
   "description": "Cross-I Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "176.107.8.0/21",
+      "178.212.248.0/22"
+    ],
     "ipv6": []
   }
 }

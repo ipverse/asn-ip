@@ -3,7 +3,9 @@
   "handle": "BROOKS-AUTOMATION",
   "description": "Brooks Automation Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "198.151.187.0/24"
+    ],
     "ipv6": []
   }
 }

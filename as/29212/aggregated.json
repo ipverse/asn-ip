@@ -3,7 +3,9 @@
   "handle": "CAPITA",
   "description": "Capita Business Services Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "82.203.1.0/24"
+    ],
     "ipv6": []
   }
 }

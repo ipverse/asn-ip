@@ -3,7 +3,9 @@
   "handle": "SIMPUR-BN",
   "description": "Unified National Networks",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "202.152.64.0/19"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "ALFABANK-UA",
   "description": "AT SENS BANK",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.197.216.0/22"
+    ],
     "ipv6": []
   }
 }

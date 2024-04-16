@@ -3,7 +3,9 @@
   "handle": "DELTAHOST",
   "description": "Zemlyaniy Dmitro Leonidovich",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "178.211.155.0/24"
+    ],
     "ipv6": []
   }
 }

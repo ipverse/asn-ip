@@ -3,7 +3,9 @@
   "handle": "ASDU",
   "description": "DIGITAL UTILITIES SP Z O O",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.71.20.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "STAFF-DIGITAL-INTERNET",
   "description": "STAFF DIGITAL INTERNET BANDA LARGA EIRELI",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "187.111.112.0/22"
+    ],
     "ipv6": []
   }
 }

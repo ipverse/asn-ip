@@ -3,7 +3,10 @@
   "handle": "GRUPPOWITEL-SRL",
   "description": "Witel Srl",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.142.132.0/22",
+      "91.204.248.0/22"
+    ],
     "ipv6": []
   }
 }

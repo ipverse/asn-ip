@@ -3,7 +3,9 @@
   "handle": "THEWISP-NWIL",
   "description": "THE WISP.NET CORP.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "206.81.107.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "DAOPAY",
   "description": "DaoPay GmbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.232.97.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "HYUNDAICARD",
   "description": "hyundaicapital",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "115.91.194.0/24"
+    ],
     "ipv6": []
   }
 }

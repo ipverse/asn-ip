@@ -3,7 +3,9 @@
   "handle": "ENNEADNYHQ",
   "description": "Ennead Architects LLP",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "64.70.117.0/24"
+    ],
     "ipv6": []
   }
 }

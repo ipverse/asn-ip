@@ -3,7 +3,10 @@
   "handle": "UIOWA-MIC",
   "description": "University of Iowa",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.201.217.0/24",
+      "199.201.218.0/24"
+    ],
     "ipv6": []
   }
 }

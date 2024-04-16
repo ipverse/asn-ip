@@ -3,7 +3,9 @@
   "handle": "ODISSEA",
   "description": "Odissea Betriebsinformatik Beratung GmbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.180.8.0/22"
+    ],
     "ipv6": []
   }
 }

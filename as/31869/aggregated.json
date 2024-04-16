@@ -3,7 +3,9 @@
   "handle": "LL-BEAN",
   "description": "LL Bean",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "216.151.48.0/20"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,11 @@
   "handle": "ITD-INTERNET",
   "description": "ITD Internet Ltda",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.173.240.0/22"
+    ],
+    "ipv6": [
+      "2804:5b70::/32"
+    ]
   }
 }

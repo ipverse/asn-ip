@@ -3,7 +3,12 @@
   "handle": "MASTER-TELECOM",
   "description": "MASTER TELECOM",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "138.36.84.0/22",
+      "138.97.184.0/22"
+    ],
+    "ipv6": [
+      "2804:23f4::/32"
+    ]
   }
 }

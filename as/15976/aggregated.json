@@ -3,7 +3,9 @@
   "handle": "ORDERNET",
   "description": "Ordernet Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.118.92.0/22"
+    ],
     "ipv6": []
   }
 }

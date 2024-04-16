@@ -3,7 +3,9 @@
   "handle": "LANKAPAY-AP",
   "description": "LankaPay Pvt Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "157.10.164.0/24"
+    ],
     "ipv6": []
   }
 }

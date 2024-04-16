@@ -3,7 +3,9 @@
   "handle": "BGL",
   "description": "Bank Gaborone Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "102.219.206.0/24"
+    ],
     "ipv6": []
   }
 }

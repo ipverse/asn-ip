@@ -3,7 +3,11 @@
   "handle": "VOCALNET-TELECOMUNICAES-EIRELI",
   "description": "VOCALNET TELECOMUNICAES EIRELI - ME",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "200.6.48.0/24"
+    ],
+    "ipv6": [
+      "2804:7798::/32"
+    ]
   }
 }

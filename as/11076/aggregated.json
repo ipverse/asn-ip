@@ -3,7 +3,9 @@
   "handle": "COMMUNITY-COMPUTER-SERVICE-INC",
   "description": "COMMUNITY COMPUTER SERVICE INC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "65.114.41.0/24"
+    ],
     "ipv6": []
   }
 }

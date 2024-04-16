@@ -3,7 +3,10 @@
   "handle": "KRYPTIQ",
   "description": "Surescripts, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "198.62.120.0/23",
+      "199.47.104.0/21"
+    ],
     "ipv6": []
   }
 }

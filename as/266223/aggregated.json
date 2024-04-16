@@ -3,7 +3,9 @@
   "handle": "WALTER-ELIAS-VILLA",
   "description": "WALTER ELIAS VILLA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.140.28.0/22"
+    ],
     "ipv6": []
   }
 }

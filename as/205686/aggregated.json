@@ -3,7 +3,9 @@
   "handle": "DPD-LT",
   "description": "UAB DPD Lietuva",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "213.190.34.0/24"
+    ],
     "ipv6": []
   }
 }

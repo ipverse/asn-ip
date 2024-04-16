@@ -3,7 +3,9 @@
   "handle": "ICI-NYC",
   "description": "Incomm",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "208.89.67.0/24"
+    ],
     "ipv6": []
   }
 }

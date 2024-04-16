@@ -3,7 +3,9 @@
   "handle": "METALLPROFIL",
   "description": "Company Metall Profil, ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.209.142.0/24"
+    ],
     "ipv6": []
   }
 }

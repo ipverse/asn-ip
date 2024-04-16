@@ -3,7 +3,9 @@
   "handle": "AMS-IX-CARIBBEAN",
   "description": "AMS-IX Caribbean",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "200.0.21.0/24"
+    ],
     "ipv6": []
   }
 }

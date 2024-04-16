@@ -3,7 +3,9 @@
   "handle": "BLOM",
   "description": "BLOM BANK S.A.L.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.192.52.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "ECN-RCE",
   "description": "ECN",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "104.232.48.0/20"
+    ],
     "ipv6": []
   }
 }

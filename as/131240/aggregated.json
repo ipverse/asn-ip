@@ -3,7 +3,9 @@
   "handle": "ULTRANETLLC-AP",
   "description": "Ultranet Zone LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.68.107.0/24"
+    ],
     "ipv6": []
   }
 }

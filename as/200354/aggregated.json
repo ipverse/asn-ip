@@ -3,7 +3,9 @@
   "handle": "ROUTNET",
   "description": "LLC Routnet",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.107.176.0/22"
+    ],
     "ipv6": []
   }
 }

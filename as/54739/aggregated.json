@@ -3,7 +3,10 @@
   "handle": "FXDD",
   "description": "FXDD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "8.44.198.0/23",
+      "74.217.226.0/23"
+    ],
     "ipv6": []
   }
 }

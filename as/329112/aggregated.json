@@ -3,7 +3,9 @@
   "handle": "UPSTREAM-CONNECT",
   "description": "Upstream Connect (Pty) Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "102.221.140.0/23"
+    ],
     "ipv6": []
   }
 }

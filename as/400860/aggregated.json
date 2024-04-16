@@ -3,7 +3,9 @@
   "handle": "NL-01",
   "description": "Nexuscore Hosting",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "108.165.63.0/24"
+    ],
     "ipv6": []
   }
 }

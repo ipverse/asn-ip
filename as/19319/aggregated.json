@@ -3,7 +3,10 @@
   "handle": "CCN-DMZ",
   "description": "Bonneville Power Administration",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "198.62.179.0/24",
+      "204.124.222.0/23"
+    ],
     "ipv6": []
   }
 }

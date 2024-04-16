@@ -3,7 +3,10 @@
   "handle": "NORTON-HEALTHCARE",
   "description": "Norton Healthcare",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "205.152.157.0/24",
+      "205.152.158.0/23"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,11 @@
   "handle": "STRAUB-COLLABORATIVE",
   "description": "Straub Collaborative, Inc.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "23.167.16.0/24"
+    ],
+    "ipv6": [
+      "2620:8e:e000::/48"
+    ]
   }
 }

@@ -3,7 +3,9 @@
   "handle": "SPARKSIGNAL",
   "description": "Hy-Tek Computer Sales and Services Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "64.141.50.0/24"
+    ],
     "ipv6": []
   }
 }

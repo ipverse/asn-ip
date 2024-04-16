@@ -3,7 +3,9 @@
   "handle": "WHOLESTONE-FARMS-INC-01",
   "description": "Wholestone Farms",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "137.83.10.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "VWNA",
   "description": "Volkswagen Group of America, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.5.32.0/19"
+    ],
     "ipv6": []
   }
 }

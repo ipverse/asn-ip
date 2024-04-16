@@ -3,7 +3,9 @@
   "handle": "PAUTINA",
   "description": "Pautina Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.236.100.0/22"
+    ],
     "ipv6": []
   }
 }

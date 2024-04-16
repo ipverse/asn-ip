@@ -3,7 +3,9 @@
   "handle": "DUSTIN-MS-SE-MMA",
   "description": "Dustin Sverige AB",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.30.152.0/24"
+    ],
     "ipv6": []
   }
 }

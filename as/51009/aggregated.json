@@ -3,7 +3,11 @@
   "handle": "NICOS-MSK",
   "description": "LLC Company NICOS",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "83.166.96.0/19"
+    ],
+    "ipv6": [
+      "2a11:8600::/29"
+    ]
   }
 }

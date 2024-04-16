@@ -3,7 +3,9 @@
   "handle": "STL-ASN-01",
   "description": "Summitt Trucking, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "173.227.217.0/24"
+    ],
     "ipv6": []
   }
 }

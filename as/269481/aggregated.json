@@ -3,7 +3,11 @@
   "handle": "PROINFO-COMERCIO-SERVIOS",
   "description": "PROINFO-COMERCIO E SERVIOS P/INFORMTICA LTDA-ME",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.187.180.0/22"
+    ],
+    "ipv6": [
+      "2804:654c:200::/40"
+    ]
   }
 }

@@ -3,7 +3,9 @@
   "handle": "ROMATSA",
   "description": "ADMINISTRATIA ROMANA A SERVICIILOR DE TRAFIC AERIAN ROMATSA RA.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.230.231.0/24"
+    ],
     "ipv6": []
   }
 }

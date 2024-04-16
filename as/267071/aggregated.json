@@ -3,7 +3,11 @@
   "handle": "DANIEL-MUELLER-EIRELI",
   "description": "DANIEL MUELLER EIRELI ME",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.228.124.0/22"
+    ],
+    "ipv6": [
+      "2804:47b0::/32"
+    ]
   }
 }

@@ -3,7 +3,9 @@
   "handle": "OPTIMACONCEPT",
   "description": "OPTIMA CONCEPT SARL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "78.41.52.0/22"
+    ],
     "ipv6": []
   }
 }

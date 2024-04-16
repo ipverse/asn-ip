@@ -3,7 +3,9 @@
   "handle": "RC",
   "description": "JSC ER-Telecom Holding",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "86.110.222.0/23"
+    ],
     "ipv6": []
   }
 }

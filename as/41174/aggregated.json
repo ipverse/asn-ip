@@ -3,7 +3,12 @@
   "handle": "SITEVISION",
   "description": "SiteVision AB",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "185.84.52.0/23",
+      "185.84.54.0/24"
+    ],
+    "ipv6": [
+      "2a05:a140::/29"
+    ]
   }
 }

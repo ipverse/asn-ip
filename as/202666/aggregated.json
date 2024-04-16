@@ -3,7 +3,9 @@
   "handle": "IFF-CPH",
   "description": "International Flavors \u0026 Fragrances I.F.F. (Nederland) B.V",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "89.40.168.0/24"
+    ],
     "ipv6": []
   }
 }

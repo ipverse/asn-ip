@@ -3,7 +3,9 @@
   "handle": "ODEZHDA3000",
   "description": "AO Odezhda 3000",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "37.230.204.0/24"
+    ],
     "ipv6": []
   }
 }

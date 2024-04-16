@@ -3,7 +3,10 @@
   "handle": "IONLINE-ISP-UK",
   "description": "IONLINE INTERNET SOLUTIONS PROVIDER LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.151.244.0/24",
+      "213.198.6.0/23"
+    ],
     "ipv6": []
   }
 }

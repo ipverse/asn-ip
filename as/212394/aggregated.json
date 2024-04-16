@@ -3,7 +3,9 @@
   "handle": "ISS",
   "description": "ISS S.R.L.S.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.210.159.0/24"
+    ],
     "ipv6": []
   }
 }

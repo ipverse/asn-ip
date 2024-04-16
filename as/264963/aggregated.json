@@ -3,7 +3,9 @@
   "handle": "LUMIAR-TELECOMUNICAES",
   "description": "LUMIAR TELECOMUNICAES",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "170.0.68.0/22"
+    ],
     "ipv6": [
       "2804:3098::/32"
     ]

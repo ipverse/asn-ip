@@ -3,7 +3,9 @@
   "handle": "CIO-IOC",
   "description": "International Olympic Committee (IOC)",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.209.3.0/24"
+    ],
     "ipv6": []
   }
 }

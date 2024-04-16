@@ -3,7 +3,9 @@
   "handle": "ESACOM",
   "description": "esacom GmbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "178.251.48.0/22"
+    ],
     "ipv6": []
   }
 }

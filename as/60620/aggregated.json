@@ -3,7 +3,9 @@
   "handle": "FUTUROSCOPE",
   "description": "Societe du Parc du Futuroscope",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.14.177.0/24"
+    ],
     "ipv6": []
   }
 }

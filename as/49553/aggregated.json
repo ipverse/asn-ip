@@ -3,7 +3,9 @@
   "handle": "AXE-INFORMATIQUE",
   "description": "AXE INFORMATIQUE SAS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "130.193.72.0/24"
+    ],
     "ipv6": []
   }
 }

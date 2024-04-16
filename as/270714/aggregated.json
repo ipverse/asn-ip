@@ -3,7 +3,9 @@
   "handle": "NETFIBRA-MS-COMUNICACAO",
   "description": "NETFIBRA MS COMUNICACAO LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "189.127.140.0/22"
+    ],
     "ipv6": []
   }
 }

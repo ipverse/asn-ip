@@ -3,7 +3,9 @@
   "handle": "UNIT-IT",
   "description": "unit-IT Dienstleistungs GmbH \u0026 Co KG",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.128.170.0/23"
+    ],
     "ipv6": []
   }
 }

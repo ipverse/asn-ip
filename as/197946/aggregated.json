@@ -3,7 +3,9 @@
   "handle": "CLOUDGUARD",
   "description": "Amnpardaz Soft Corporation",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.231.114.0/24"
+    ],
     "ipv6": []
   }
 }

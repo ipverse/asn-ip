@@ -3,7 +3,9 @@
   "handle": "MASTER-NET-AP",
   "description": "Master Capital Services Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "202.58.232.0/24"
+    ],
     "ipv6": []
   }
 }

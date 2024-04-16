@@ -3,7 +3,9 @@
   "handle": "NHS14MH",
   "description": "Nanticoke Memorial Hospital INC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "65.222.142.0/24"
+    ],
     "ipv6": []
   }
 }

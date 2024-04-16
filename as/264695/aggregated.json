@@ -3,7 +3,9 @@
   "handle": "MUNICIPALIDAD-JUNIN",
   "description": "MUNICIPALIDAD DE JUNIN",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "200.23.84.0/24"
+    ],
     "ipv6": []
   }
 }

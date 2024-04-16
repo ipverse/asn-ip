@@ -3,7 +3,9 @@
   "handle": "FASTNET-WIRELESS-LLC",
   "description": "Fastnet Wireless LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "162.222.4.0/22"
+    ],
     "ipv6": []
   }
 }

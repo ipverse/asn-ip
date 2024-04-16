@@ -3,7 +3,9 @@
   "handle": "INTEKPTYLTD-AP",
   "description": "Intek Pty Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.68.205.0/24"
+    ],
     "ipv6": []
   }
 }

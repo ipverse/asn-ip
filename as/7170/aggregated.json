@@ -3,7 +3,10 @@
   "handle": "MANHA-20",
   "description": "Manhattan West, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "128.177.2.0/24",
+      "131.239.82.0/24"
+    ],
     "ipv6": []
   }
 }

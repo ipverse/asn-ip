@@ -3,7 +3,12 @@
   "handle": "TRUSC",
   "description": "Municipal Network Services",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "154.68.160.0/20",
+      "160.119.32.0/19"
+    ],
+    "ipv6": [
+      "2c0f:f050::/32"
+    ]
   }
 }

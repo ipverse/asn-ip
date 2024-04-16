@@ -3,7 +3,10 @@
   "handle": "SURFAIRWIRELESS-IL-01",
   "description": "Surf Air Wireless, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "207.113.192.0/19",
+      "208.94.72.0/21"
+    ],
     "ipv6": []
   }
 }

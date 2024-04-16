@@ -3,7 +3,11 @@
   "handle": "WAVE-PLUS-INTERNET",
   "description": "WAVE PLUS INTERNET LTDA ME",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "168.194.252.0/22"
+    ],
+    "ipv6": [
+      "2804:33c0::/32"
+    ]
   }
 }

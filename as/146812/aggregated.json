@@ -3,7 +3,11 @@
   "handle": "DBCN-WEB",
   "description": "Deutsche Bank (China) Co., Ltd. Shanghai Branch",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "103.190.122.0/23"
+    ],
+    "ipv6": [
+      "2400:9020:f010::/46"
+    ]
   }
 }

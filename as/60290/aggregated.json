@@ -3,7 +3,9 @@
   "handle": "JSC",
   "description": "LLC CENTRAL CASH REGISTER",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "94.138.149.0/24"
+    ],
     "ipv6": []
   }
 }

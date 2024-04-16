@@ -3,7 +3,9 @@
   "handle": "TSC",
   "description": "EKCO LONDON LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "89.251.112.0/21"
+    ],
     "ipv6": []
   }
 }

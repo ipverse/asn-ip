@@ -3,7 +3,10 @@
   "handle": "ROCHELLEUTILITIES",
   "description": "Rochelle Municipal Utilities",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "204.8.160.0/24",
+      "204.8.162.0/24"
+    ],
     "ipv6": []
   }
 }

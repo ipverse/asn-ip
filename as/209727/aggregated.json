@@ -3,7 +3,9 @@
   "handle": "UNIFREE",
   "description": "UNIFREE DUTY FREE ISLETMECILIGI ANONIM SIRKETI",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.128.37.0/24"
+    ],
     "ipv6": []
   }
 }

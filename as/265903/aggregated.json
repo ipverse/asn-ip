@@ -3,7 +3,9 @@
   "handle": "DENIS-ALVES-GONTIJO",
   "description": "DENIS ALVES GONTIJO - ME",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "131.196.20.0/22"
+    ],
     "ipv6": []
   }
 }

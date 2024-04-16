@@ -3,7 +3,9 @@
   "handle": "SURGUTNEFTEGAS",
   "description": "PJSC Surgutneftegas",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "95.181.146.0/23"
+    ],
     "ipv6": []
   }
 }

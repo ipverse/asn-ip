@@ -3,7 +3,9 @@
   "handle": "CLOUDNETWORKS",
   "description": "Virtual Systems LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.135.236.0/24"
+    ],
     "ipv6": []
   }
 }

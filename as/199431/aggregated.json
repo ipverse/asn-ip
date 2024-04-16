@@ -3,7 +3,9 @@
   "handle": "IPL",
   "description": "Fiscal Systems Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "94.247.229.0/24"
+    ],
     "ipv6": []
   }
 }

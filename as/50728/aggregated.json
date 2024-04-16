@@ -3,7 +3,9 @@
   "handle": "GALACTICA",
   "description": "GALACTICA sp. j. Raatz i wspolnicy",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.191.248.0/23"
+    ],
     "ipv6": []
   }
 }

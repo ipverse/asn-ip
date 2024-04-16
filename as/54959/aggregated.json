@@ -3,7 +3,10 @@
   "handle": "LM-AFSS",
   "description": "Lockheed Martin Corporation",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "12.173.56.0/24",
+      "65.202.234.0/24"
+    ],
     "ipv6": []
   }
 }

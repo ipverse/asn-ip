@@ -3,7 +3,9 @@
   "handle": "DIMENSION-5",
   "description": "Dimension 5 Internet Solutions (Pty) Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "102.221.196.0/22"
+    ],
     "ipv6": []
   }
 }

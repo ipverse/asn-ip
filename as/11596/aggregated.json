@@ -3,7 +3,11 @@
   "handle": "BESTBUY",
   "description": "Best Buy Co., Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "167.209.0.0/16",
+      "168.94.0.0/16",
+      "198.22.122.0/23"
+    ],
     "ipv6": []
   }
 }

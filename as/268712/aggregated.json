@@ -3,7 +3,12 @@
   "handle": "DIEGO-RIBEIRO-NEVES",
   "description": "DIEGO RIBEIRO NEVES",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.171.96.0/22"
+    ],
+    "ipv6": [
+      "2804:5998:4000::/34",
+      "2804:5998:8000::/34"
+    ]
   }
 }

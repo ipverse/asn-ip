@@ -3,7 +3,11 @@
   "handle": "LIBERTY-NETWORKS-SOLUTIONS",
   "description": "LIBERTY NETWORKS SOLUTIONS MEXICO",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "181.191.188.0/22"
+    ],
+    "ipv6": [
+      "2806:2ee::/32"
+    ]
   }
 }

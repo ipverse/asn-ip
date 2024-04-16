@@ -3,7 +3,10 @@
   "handle": "FREECARAIBE",
   "description": "Free SAS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "37.8.160.0/21",
+      "37.8.176.0/22"
+    ],
     "ipv6": []
   }
 }

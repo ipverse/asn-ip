@@ -3,7 +3,9 @@
   "handle": "TCPNET-INFORMATICA-COMUNICACAO",
   "description": "TCPNET INFORMATICA E COMUNICACAO EIRELI - ME",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.236.64.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,10 @@
   "handle": "PRL",
   "description": "Ralph Lauren Corporation",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "74.113.65.0/24",
+      "74.113.66.0/23"
+    ],
     "ipv6": []
   }
 }

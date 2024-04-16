@@ -3,7 +3,9 @@
   "handle": "ISKRATELECOM",
   "description": "Iskratelecom CJSC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "82.199.96.0/19"
+    ],
     "ipv6": []
   }
 }

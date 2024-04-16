@@ -3,7 +3,10 @@
   "handle": "KYNDR-RTP",
   "description": "Kyndryl",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "159.61.240.0/24",
+      "159.61.250.0/24"
+    ],
     "ipv6": []
   }
 }

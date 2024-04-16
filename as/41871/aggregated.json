@@ -3,7 +3,10 @@
   "handle": "RTL",
   "description": "LLC Radiotechichna Laboratoriya",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "31.131.96.0/19",
+      "194.33.181.0/24"
+    ],
     "ipv6": []
   }
 }

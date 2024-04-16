@@ -3,7 +3,9 @@
   "handle": "DEAAS2",
   "description": "LEPL Digital Governance Agency",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "5.159.20.0/24"
+    ],
     "ipv6": []
   }
 }

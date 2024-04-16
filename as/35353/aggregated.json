@@ -3,7 +3,9 @@
   "handle": "ALPHASQUARE",
   "description": "Alpha Square SAS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.93.128.0/22"
+    ],
     "ipv6": []
   }
 }

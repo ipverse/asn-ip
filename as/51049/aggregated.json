@@ -3,7 +3,9 @@
   "handle": "PKA",
   "description": "Pensionkassernes Administration A/S",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.126.223.0/24"
+    ],
     "ipv6": []
   }
 }

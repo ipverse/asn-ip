@@ -3,7 +3,9 @@
   "handle": "ORL-IL",
   "description": "Oil Refineries Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.177.16.0/22"
+    ],
     "ipv6": []
   }
 }

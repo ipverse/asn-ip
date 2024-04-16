@@ -3,7 +3,9 @@
   "handle": "INDIANA-INTERACTIVE",
   "description": "Indiana Interactive, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "208.40.244.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,11 @@
   "handle": "DSNETWORK",
   "description": "Lucas Dousse",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "185.20.3.0/24"
+    ],
+    "ipv6": [
+      "2a0c:d0c0::/29"
+    ]
   }
 }

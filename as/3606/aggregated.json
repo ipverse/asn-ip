@@ -3,7 +3,9 @@
   "handle": "CONNCOLL",
   "description": "Connecticut College",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "136.244.128.0/17"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,10 @@
   "handle": "MVLINK",
   "description": "MAQUOKETA VALLEY ELECTRIC COOPERATIVE",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "72.13.16.0/20",
+      "138.43.224.0/20"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "NSMRT",
   "description": "NETSMART (CYPRUS) LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.95.138.0/24"
+    ],
     "ipv6": []
   }
 }

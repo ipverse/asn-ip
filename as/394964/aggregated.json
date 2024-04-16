@@ -3,7 +3,10 @@
   "handle": "MARTINMARIETTA-AS1",
   "description": "Martin Marietta Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.245.219.0/24",
+      "199.245.220.0/24"
+    ],
     "ipv6": []
   }
 }

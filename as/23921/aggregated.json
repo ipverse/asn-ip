@@ -3,7 +3,9 @@
   "handle": "INGDIRECT-AU",
   "description": "ING Bank (Australia) Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "156.114.16.0/22"
+    ],
     "ipv6": []
   }
 }

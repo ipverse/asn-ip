@@ -3,7 +3,9 @@
   "handle": "ESTADO-MARANHAO-PROCURADORIA",
   "description": "ESTADO DO MARANHAO - PROCURADORIA GERAL DA JUSTICA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "164.163.242.0/24"
+    ],
     "ipv6": []
   }
 }

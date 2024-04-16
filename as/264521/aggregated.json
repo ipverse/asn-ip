@@ -3,7 +3,10 @@
   "handle": "SLIM-NET-TELECOM",
   "description": "SLIM NET TELECOM LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "132.255.212.0/23",
+      "132.255.214.0/24"
+    ],
     "ipv6": []
   }
 }

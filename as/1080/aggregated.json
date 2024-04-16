@@ -3,7 +3,9 @@
   "handle": "WPCCU-ASN-01",
   "description": "Water and Power Community Credit Union",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "12.109.225.0/24"
+    ],
     "ipv6": []
   }
 }

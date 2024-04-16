@@ -3,7 +3,9 @@
   "handle": "ACESSO-NET-TELECOMUNICACOES",
   "description": "acesso net telecomunicacoes ltda-me",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.234.190.0/23"
+    ],
     "ipv6": []
   }
 }

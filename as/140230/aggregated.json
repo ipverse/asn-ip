@@ -3,7 +3,9 @@
   "handle": "AMNS-AP",
   "description": "ARCELORMITTAL NIPPON STEEL INDIA LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.148.221.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,10 @@
   "handle": "FIRSTBANK",
   "description": "FirstBank",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "205.243.23.0/24",
+      "208.89.180.0/22"
+    ],
     "ipv6": []
   }
 }

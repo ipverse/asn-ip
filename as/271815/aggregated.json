@@ -3,7 +3,9 @@
   "handle": "GUSTAVO-JAVIER-VULTAGGIO",
   "description": "GUSTAVO JAVIER VULTAGGIO",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "200.219.52.0/22"
+    ],
     "ipv6": []
   }
 }

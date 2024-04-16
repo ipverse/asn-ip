@@ -3,7 +3,9 @@
   "handle": "PLAYONLINE",
   "description": "SQUARE-POL AS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "61.195.48.0/20"
+    ],
     "ipv6": []
   }
 }

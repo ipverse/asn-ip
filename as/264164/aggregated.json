@@ -3,7 +3,12 @@
   "handle": "TELECOMUNICAES-NETCORO",
   "description": "Telecomunicaes Netcoro Ltda",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "138.94.132.0/22",
+      "167.249.228.0/22"
+    ],
+    "ipv6": [
+      "2804:2378::/32"
+    ]
   }
 }

@@ -3,7 +3,9 @@
   "handle": "CORNERSTONE",
   "description": "Cornerstone Information Systems, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "66.244.67.0/24"
+    ],
     "ipv6": []
   }
 }

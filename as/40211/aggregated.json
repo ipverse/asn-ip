@@ -3,7 +3,9 @@
   "handle": "STEINERSTUDIOS",
   "description": "Steiner Studios",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "198.199.185.0/24"
+    ],
     "ipv6": []
   }
 }

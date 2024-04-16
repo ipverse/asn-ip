@@ -4,6 +4,9 @@
   "description": "GIORGIO ALBERTO SCABIO",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2804:8240::/33",
+      "2804:8240:8000::/34"
+    ]
   }
 }

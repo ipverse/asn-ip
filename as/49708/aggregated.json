@@ -3,7 +3,9 @@
   "handle": "OBRPR",
   "description": "WARTER FUELS S.A.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.104.2.0/24"
+    ],
     "ipv6": []
   }
 }

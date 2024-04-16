@@ -3,7 +3,9 @@
   "handle": "YETI-COOLERS",
   "description": "YETI Coolers, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "12.196.114.0/24"
+    ],
     "ipv6": []
   }
 }

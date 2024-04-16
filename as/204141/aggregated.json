@@ -3,7 +3,12 @@
   "handle": "K-NET",
   "description": "K-Net Forening",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "82.211.192.0/19",
+      "185.140.0.0/22"
+    ],
+    "ipv6": [
+      "2a03:19c0::/32"
+    ]
   }
 }

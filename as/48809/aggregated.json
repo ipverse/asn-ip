@@ -3,7 +3,9 @@
   "handle": "HOSTEUR-ANYCAST",
   "description": "HOSTEUR SAS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.148.78.0/24"
+    ],
     "ipv6": []
   }
 }

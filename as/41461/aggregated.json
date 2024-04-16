@@ -3,7 +3,9 @@
   "handle": "FIRST-BANK",
   "description": "FIRST BANK S.A.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "85.120.216.0/23"
+    ],
     "ipv6": []
   }
 }

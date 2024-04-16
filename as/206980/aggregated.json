@@ -3,7 +3,12 @@
   "handle": "ANTIDDOSAS",
   "description": "AntiDDoS Solutions LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "80.66.71.0/24",
+      "80.66.82.0/24",
+      "87.251.65.0/24",
+      "185.169.132.0/22"
+    ],
     "ipv6": []
   }
 }

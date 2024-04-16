@@ -3,7 +3,9 @@
   "handle": "MONTAZH-CONTACT",
   "description": "Montazh Contact Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.211.26.0/24"
+    ],
     "ipv6": []
   }
 }

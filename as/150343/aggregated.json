@@ -3,7 +3,9 @@
   "handle": "COVH-AP",
   "description": "CITY OF VICTOR HARBOR",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.68.105.0/24"
+    ],
     "ipv6": []
   }
 }

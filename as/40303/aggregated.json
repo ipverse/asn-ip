@@ -3,7 +3,9 @@
   "handle": "AKSIA",
   "description": "AKSIA LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.96.177.0/24"
+    ],
     "ipv6": []
   }
 }

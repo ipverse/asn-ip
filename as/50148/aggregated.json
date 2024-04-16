@@ -3,7 +3,10 @@
   "handle": "ERT",
   "description": "Elliniki Radiofonia Tileorasi (ERT) SA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.130.122.0/24",
+      "195.211.200.0/22"
+    ],
     "ipv6": []
   }
 }

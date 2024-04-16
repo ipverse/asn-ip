@@ -3,7 +3,9 @@
   "handle": "NEMUNET",
   "description": "Betriebsgesellschaft Freizeit- und Sportzentrum Halberstadt mbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.242.112.0/24"
+    ],
     "ipv6": []
   }
 }

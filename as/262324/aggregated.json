@@ -3,7 +3,13 @@
   "handle": "UNILINK-TELECOM",
   "description": "UNILINK TELECOM LTDA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "143.202.128.0/22",
+      "177.67.28.0/22",
+      "177.124.136.0/22"
+    ],
+    "ipv6": [
+      "2804:7d0::/32"
+    ]
   }
 }

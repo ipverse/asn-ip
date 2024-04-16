@@ -3,7 +3,10 @@
   "handle": "STERL",
   "description": "IBM Deutschland GmbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.115.221.0/24",
+      "194.115.223.0/24"
+    ],
     "ipv6": []
   }
 }

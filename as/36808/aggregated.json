@@ -3,7 +3,9 @@
   "handle": "PPHS-PALOMAR-POMERADO-HEALTH",
   "description": "Palomar Pomerado Health",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "167.119.240.0/20"
+    ],
     "ipv6": []
   }
 }

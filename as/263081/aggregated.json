@@ -3,7 +3,11 @@
   "handle": "RMS-CONNECT-TELECOMUNICAES",
   "description": "RMS Connect Telecomunicaes LTDA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "186.208.240.0/22"
+    ],
+    "ipv6": [
+      "2804:3f90::/32"
+    ]
   }
 }

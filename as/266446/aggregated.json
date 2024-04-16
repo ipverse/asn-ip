@@ -3,7 +3,11 @@
   "handle": "ITJSC-SERVICOS-COMUNICACAO",
   "description": "ITJSC SERVICOS DE COMUNICACAO E SOLUCOES LTDA - ME",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "170.82.192.0/22"
+    ],
+    "ipv6": [
+      "2804:37f4::/32"
+    ]
   }
 }

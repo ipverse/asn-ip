@@ -3,7 +3,9 @@
   "handle": "BUMRUNGRAD-CSLOXINFO-TH",
   "description": "CSLOXINFO",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "58.137.197.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,11 @@
   "handle": "SUPERLOOP-AP",
   "description": "SUPERLOOP (AUSTRALIA) PTY LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "125.253.41.0/24",
+      "202.171.175.0/24",
+      "202.171.190.0/24"
+    ],
     "ipv6": []
   }
 }

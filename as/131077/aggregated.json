@@ -3,7 +3,10 @@
   "handle": "TOHMATSU-NET",
   "description": "Deloitte Tohmatsu Group LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "160.185.2.0/23",
+      "160.185.4.0/24"
+    ],
     "ipv6": []
   }
 }

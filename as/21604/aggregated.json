@@ -3,7 +3,9 @@
   "handle": "CHEMONICS-USA",
   "description": "CHEMONICS INTERNATIONAL, INC.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "208.70.228.0/22"
+    ],
     "ipv6": []
   }
 }

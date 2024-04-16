@@ -3,7 +3,9 @@
   "handle": "ODSJSC-VN",
   "description": "ODS Joint Stock Company",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.133.100.0/22"
+    ],
     "ipv6": []
   }
 }

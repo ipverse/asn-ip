@@ -3,7 +3,9 @@
   "handle": "AYOUN",
   "description": "AYOUN ACCESS TELECOMMUNICATION AND TECHNOLOGY COMPANY trading as A2 Telecom",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.160.68.0/22"
+    ],
     "ipv6": []
   }
 }

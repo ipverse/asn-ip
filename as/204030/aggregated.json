@@ -3,7 +3,11 @@
   "handle": "SERAC-NL",
   "description": "Serac Applications B.V.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "185.116.80.0/22"
+    ],
+    "ipv6": [
+      "2a06:7c80::/29"
+    ]
   }
 }

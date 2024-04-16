@@ -3,7 +3,9 @@
   "handle": "KCCURRENT",
   "description": "KC Current",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "12.238.56.0/24"
+    ],
     "ipv6": []
   }
 }

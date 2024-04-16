@@ -3,7 +3,9 @@
   "handle": "HARMONYGOLD",
   "description": "Harmony Gold Mining Company Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "102.135.190.0/24"
+    ],
     "ipv6": []
   }
 }

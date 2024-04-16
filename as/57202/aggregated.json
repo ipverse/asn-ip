@@ -3,7 +3,9 @@
   "handle": "UCLOUD",
   "description": "Trading Systems LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.183.180.0/24"
+    ],
     "ipv6": []
   }
 }

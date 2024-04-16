@@ -3,7 +3,9 @@
   "handle": "DRAD-ASNET",
   "description": "DESERT RADIOLOGISTS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.198.29.0/24"
+    ],
     "ipv6": []
   }
 }

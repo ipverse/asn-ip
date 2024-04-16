@@ -3,7 +3,9 @@
   "handle": "UNIVERSIDAD-U-LATINA",
   "description": "UNIVERSIDAD U LATINA SRL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.168.196.0/22"
+    ],
     "ipv6": []
   }
 }

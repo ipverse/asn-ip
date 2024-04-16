@@ -3,7 +3,10 @@
   "handle": "MATRIX-CCHN",
   "description": "Matrix Medical Network",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "209.51.128.0/24",
+      "209.51.134.0/24"
+    ],
     "ipv6": []
   }
 }

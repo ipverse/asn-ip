@@ -3,7 +3,9 @@
   "handle": "THE-ALDRIDGE-NETWORK",
   "description": "Aldridge",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "216.139.64.0/19"
+    ],
     "ipv6": []
   }
 }

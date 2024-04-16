@@ -3,7 +3,9 @@
   "handle": "DERCO-SPA",
   "description": "Derco SPA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "200.54.108.0/24"
+    ],
     "ipv6": []
   }
 }

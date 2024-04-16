@@ -3,7 +3,10 @@
   "handle": "SIGMASOFT",
   "description": "SIGMA SOFT SRL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "81.181.202.0/23",
+      "195.222.104.0/22"
+    ],
     "ipv6": []
   }
 }

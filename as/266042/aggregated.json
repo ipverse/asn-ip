@@ -3,7 +3,9 @@
   "handle": "GEIZA-TEIXEIRA-MARTINS-IIDA",
   "description": "GEIZA TEIXEIRA MARTINS IIDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.4.4.0/22"
+    ],
     "ipv6": []
   }
 }

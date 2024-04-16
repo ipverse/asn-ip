@@ -3,7 +3,11 @@
   "handle": "HAMBURGWASSER",
   "description": "Hamburger Wasserwerke GmbH",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "193.53.23.0/24"
+    ],
+    "ipv6": [
+      "2001:678:154::/48"
+    ]
   }
 }

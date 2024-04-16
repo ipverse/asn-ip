@@ -3,7 +3,9 @@
   "handle": "FULL-TIME-GESTORA-DADOS",
   "description": "FULL TIME GESTORA DE DADOS LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "177.129.0.0/21"
+    ],
     "ipv6": []
   }
 }

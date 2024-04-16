@@ -3,7 +3,9 @@
   "handle": "MEDSTAR",
   "description": "MedStar Mobile Healthcare",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "104.194.26.0/24"
+    ],
     "ipv6": []
   }
 }

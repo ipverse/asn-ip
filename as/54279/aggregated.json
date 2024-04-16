@@ -3,7 +3,9 @@
   "handle": "SMT",
   "description": "SportsMEDIA Technology Corporation",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "205.237.25.0/24"
+    ],
     "ipv6": []
   }
 }

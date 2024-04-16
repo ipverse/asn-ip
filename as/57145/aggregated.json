@@ -3,7 +3,9 @@
   "handle": "FOMS",
   "description": "Federal Compulsory Health Insurance Fund",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.226.250.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "PSPL",
   "description": "Pc Solutions Pvt. Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.119.223.0/24"
+    ],
     "ipv6": []
   }
 }

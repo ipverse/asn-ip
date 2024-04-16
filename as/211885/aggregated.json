@@ -3,7 +3,9 @@
   "handle": "PLG",
   "description": "Prodimpekss Logistikas Grupa SIA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "176.103.184.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "VIANET-GRAO-MOGOL-EIRELI",
   "description": "VIANET GRAO MOGOL EIRELI - ME",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "168.227.178.0/23"
+    ],
     "ipv6": []
   }
 }

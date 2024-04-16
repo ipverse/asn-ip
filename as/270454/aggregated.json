@@ -3,7 +3,9 @@
   "handle": "NILSON-CARLOS-GONALVES",
   "description": "NILSON CARLOS GONALVES DEITZ EPP",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "190.115.76.0/22"
+    ],
     "ipv6": []
   }
 }

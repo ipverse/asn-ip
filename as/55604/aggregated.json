@@ -3,7 +3,9 @@
   "handle": "KOMSCO",
   "description": "KOMSCO",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.4.48.0/22"
+    ],
     "ipv6": []
   }
 }

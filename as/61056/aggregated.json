@@ -3,7 +3,9 @@
   "handle": "MULTI-NET-EU",
   "description": "Marcin Gawlas",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "155.133.35.0/24"
+    ],
     "ipv6": []
   }
 }

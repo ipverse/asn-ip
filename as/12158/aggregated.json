@@ -3,7 +3,9 @@
   "handle": "ILLUMINA",
   "description": "ILLUMINA, INC.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.84.34.0/23"
+    ],
     "ipv6": []
   }
 }

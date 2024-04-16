@@ -3,7 +3,9 @@
   "handle": "JCCPAYMENTSYSTEMS",
   "description": "JCC Payment Systems LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "62.228.235.0/24"
+    ],
     "ipv6": []
   }
 }

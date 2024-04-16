@@ -3,7 +3,9 @@
   "handle": "FOZZYLTD",
   "description": "SILPO-FOOD LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.19.84.0/23"
+    ],
     "ipv6": []
   }
 }

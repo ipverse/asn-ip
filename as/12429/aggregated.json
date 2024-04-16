@@ -3,7 +3,9 @@
   "handle": "CYBERNET-CH",
   "description": "Swisscom (Schweiz) AG",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.247.246.0/24"
+    ],
     "ipv6": []
   }
 }

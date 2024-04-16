@@ -3,7 +3,11 @@
   "handle": "ZAVAZ-INTERNET-JANAUBA",
   "description": "ZAVAZ INTERNET JANAUBA LTDA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "181.191.4.0/22"
+    ],
+    "ipv6": [
+      "2804:40d4::/32"
+    ]
   }
 }

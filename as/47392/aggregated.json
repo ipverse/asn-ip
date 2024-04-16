@@ -3,7 +3,9 @@
   "handle": "MASTERMIND",
   "description": "The Mastermind Holding B.V.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "93.115.255.0/24"
+    ],
     "ipv6": []
   }
 }

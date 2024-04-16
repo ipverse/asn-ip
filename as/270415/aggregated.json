@@ -3,7 +3,11 @@
   "handle": "LEVE-INTERNET-REDES",
   "description": "LEVE INTERNET E REDES DE TELECOMUNICACOES LTDA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "190.107.160.0/22"
+    ],
+    "ipv6": [
+      "2804:6ba8::/32"
+    ]
   }
 }

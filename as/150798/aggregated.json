@@ -3,7 +3,9 @@
   "handle": "WSACOLIMITED-AP",
   "description": "WSA CO Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.107.178.0/23"
+    ],
     "ipv6": []
   }
 }

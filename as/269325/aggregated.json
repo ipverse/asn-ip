@@ -3,7 +3,9 @@
   "handle": "GENESIS-NET-SERVICE",
   "description": "GENESIS NET SERVICE LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.184.40.0/22"
+    ],
     "ipv6": []
   }
 }

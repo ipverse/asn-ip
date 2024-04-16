@@ -3,7 +3,9 @@
   "handle": "LANDSBANKI",
   "description": "Landsbankinn hf",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "89.104.128.0/19"
+    ],
     "ipv6": []
   }
 }

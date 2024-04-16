@@ -3,7 +3,9 @@
   "handle": "WRF162",
   "description": "Wiley Rein LLP",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "162.222.152.0/24"
+    ],
     "ipv6": []
   }
 }

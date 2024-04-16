@@ -3,7 +3,10 @@
   "handle": "PROLINK",
   "description": "Prolink MO.ru Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.226.8.0/22",
+      "195.158.232.0/23"
+    ],
     "ipv6": []
   }
 }

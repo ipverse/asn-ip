@@ -3,7 +3,9 @@
   "handle": "IBC-SA-TESORO",
   "description": "International Bank of Commerce",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "12.71.181.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "NORDGEAR",
   "description": "Getriebebau NORD GmbH \u0026 Co. KG",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.126.246.0/24"
+    ],
     "ipv6": []
   }
 }

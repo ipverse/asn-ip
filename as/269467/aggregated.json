@@ -3,7 +3,9 @@
   "handle": "P4NET-TELECOM",
   "description": "P4NET Telecom",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.187.140.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "IDNIC-RIYOZHA-ID",
   "description": "PT Riyozha Telekomunikasi Indonesia",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.157.102.0/24"
+    ],
     "ipv6": []
   }
 }

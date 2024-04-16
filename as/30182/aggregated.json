@@ -3,7 +3,10 @@
   "handle": "ZION-ASN1",
   "description": "ZION BROADBAND INC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.59.172.0/22",
+      "199.87.88.0/21"
+    ],
     "ipv6": []
   }
 }

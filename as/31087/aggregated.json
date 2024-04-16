@@ -3,7 +3,9 @@
   "handle": "IT-HES",
   "description": "CGM TELEMEDICINE S.R.L.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.97.220.0/22"
+    ],
     "ipv6": []
   }
 }

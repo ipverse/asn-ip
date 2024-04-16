@@ -3,7 +3,9 @@
   "handle": "ZANA-COMPANY",
   "description": "Zana Mohammed Mahdi A.Rahman company for Internet Service Provider LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.220.112.0/22"
+    ],
     "ipv6": []
   }
 }

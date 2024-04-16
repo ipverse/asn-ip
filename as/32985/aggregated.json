@@ -3,7 +3,9 @@
   "handle": "FSS-COMCAST-ASN01",
   "description": "Follett School Solutions, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "50.223.178.0/24"
+    ],
     "ipv6": []
   }
 }

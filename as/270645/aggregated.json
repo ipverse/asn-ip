@@ -3,7 +3,9 @@
   "handle": "ALCTEL-TELECOMUNICAES-INFORMATICA",
   "description": "Alctel Telecomunicaes e Informatica Ltda",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "201.131.5.0/24"
+    ],
     "ipv6": []
   }
 }

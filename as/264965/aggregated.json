@@ -3,7 +3,11 @@
   "handle": "R-PARMIGIANI-COMERCIO",
   "description": "R PARMIGIANI COMERCIO DE INFORMATICA LTDA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "170.0.108.0/22"
+    ],
+    "ipv6": [
+      "2804:30a0::/32"
+    ]
   }
 }

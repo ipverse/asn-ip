@@ -3,7 +3,9 @@
   "handle": "STCOMUA",
   "description": "PP NVF Sistema i Tehnika",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.200.52.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "AMU-FL",
   "description": "Ave Maria University",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "67.239.64.0/24"
+    ],
     "ipv6": []
   }
 }

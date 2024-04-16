@@ -3,7 +3,9 @@
   "handle": "BANCO-PACIFICO",
   "description": "BANCO DEL PACIFICO S.A.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.180.124.0/22"
+    ],
     "ipv6": []
   }
 }

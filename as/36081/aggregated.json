@@ -3,7 +3,12 @@
   "handle": "STATE-OF-COLORADO-MNT-NETWORK",
   "description": "State of Colorado General Government Computer",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "156.108.0.0/16",
+      "165.127.0.0/16",
+      "192.70.175.0/24",
+      "192.136.70.0/24"
+    ],
     "ipv6": []
   }
 }

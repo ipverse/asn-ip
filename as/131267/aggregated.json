@@ -3,7 +3,11 @@
   "handle": "UNITEL-LA",
   "description": "Star Telecom",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.1.28.0/22",
+      "154.222.4.0/22",
+      "183.182.96.0/19"
+    ],
     "ipv6": []
   }
 }

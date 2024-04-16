@@ -3,7 +3,11 @@
   "handle": "COMPUT8-IT",
   "description": "Comput8 IT (Pty) Ltd",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "102.67.184.0/22"
+    ],
+    "ipv6": [
+      "2c0f:ed98::/32"
+    ]
   }
 }

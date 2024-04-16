@@ -3,7 +3,9 @@
   "handle": "MOEW",
   "description": "Ministry of Environment and Water",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "62.73.119.0/24"
+    ],
     "ipv6": []
   }
 }

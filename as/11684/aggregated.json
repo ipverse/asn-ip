@@ -3,7 +3,9 @@
   "handle": "JCDH",
   "description": "Jefferson County Department of Health",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "205.142.248.0/22"
+    ],
     "ipv6": []
   }
 }

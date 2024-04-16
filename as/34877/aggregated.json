@@ -3,7 +3,9 @@
   "handle": "PROCREDITBANK",
   "description": "JSC PROCREDIT BANK",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.169.210.0/24"
+    ],
     "ipv6": []
   }
 }

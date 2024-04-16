@@ -3,7 +3,9 @@
   "handle": "EXPEDIENT-EMEA",
   "description": "Expedient",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "206.183.4.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "CNTYRCKHM",
   "description": "County of Rockingham",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "204.238.113.0/24"
+    ],
     "ipv6": []
   }
 }

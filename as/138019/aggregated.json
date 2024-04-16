@@ -3,7 +3,9 @@
   "handle": "PSCA-AP",
   "description": "Punjab Safe City Authority",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.119.125.0/24"
+    ],
     "ipv6": []
   }
 }

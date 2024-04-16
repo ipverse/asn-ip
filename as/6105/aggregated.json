@@ -3,7 +3,10 @@
   "handle": "DENVERWATER-1",
   "description": "Denver Water",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "159.143.0.0/23",
+      "159.143.100.0/24"
+    ],
     "ipv6": []
   }
 }

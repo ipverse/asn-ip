@@ -3,7 +3,10 @@
   "handle": "CHCOHE-AP",
   "description": "Chu Hai College of Higher Education Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.124.155.0/24",
+      "103.139.142.0/24"
+    ],
     "ipv6": []
   }
 }

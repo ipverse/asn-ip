@@ -3,7 +3,12 @@
   "handle": "CHINANET-AP",
   "description": "China Telecom",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "1.71.0.0/20"
+    ],
+    "ipv6": [
+      "240e:926:3000::/36",
+      "240e:981:8200::/40"
+    ]
   }
 }

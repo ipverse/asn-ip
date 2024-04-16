@@ -3,7 +3,10 @@
   "handle": "CROWN-EQUIPMENT",
   "description": "Crown Equipment Corporation",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.69.21.0/24",
+      "206.158.62.0/23"
+    ],
     "ipv6": []
   }
 }

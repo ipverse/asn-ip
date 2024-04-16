@@ -3,7 +3,10 @@
   "handle": "MESIROW",
   "description": "MESIROW FINANCIAL HOLDINGS, INC.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "204.153.74.0/24",
+      "207.252.173.0/24"
+    ],
     "ipv6": []
   }
 }

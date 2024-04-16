@@ -3,7 +3,9 @@
   "handle": "STHI",
   "description": "Secure Technology Hawaii",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.40.154.0/24"
+    ],
     "ipv6": []
   }
 }

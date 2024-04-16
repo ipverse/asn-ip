@@ -3,7 +3,9 @@
   "handle": "INFINITE-Q-NETWORKS",
   "description": "Infinite Q Networks",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "23.147.160.0/24"
+    ],
     "ipv6": []
   }
 }

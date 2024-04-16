@@ -3,7 +3,9 @@
   "handle": "RLC-INTERNET",
   "description": "RLC INTERNET",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "216.197.73.0/24"
+    ],
     "ipv6": []
   }
 }

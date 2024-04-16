@@ -3,7 +3,9 @@
   "handle": "FORLAN",
   "description": "SPOLKA 4LAN BOGDANOW, KARKOS, OPARA, SZUMNY, WOJCIECHOWSKI SPOLKA JAWNA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.85.186.0/23"
+    ],
     "ipv6": []
   }
 }

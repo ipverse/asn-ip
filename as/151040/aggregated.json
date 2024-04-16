@@ -3,7 +3,9 @@
   "handle": "URBANRESORT-AP",
   "description": "Urban Resort Hotel Co.,Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "83.118.100.0/24"
+    ],
     "ipv6": []
   }
 }

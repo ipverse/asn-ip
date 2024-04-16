@@ -3,7 +3,9 @@
   "handle": "OXBOW-ASN-01",
   "description": "OXBOW CARBON LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "66.97.188.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,10 @@
   "handle": "FIN-REC1",
   "description": "Financial Recovery Services, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "65.154.15.0/24",
+      "173.227.198.0/24"
+    ],
     "ipv6": []
   }
 }

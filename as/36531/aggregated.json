@@ -3,7 +3,9 @@
   "handle": "WDBJ",
   "description": "WDBJ TELEVISION,INC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "70.169.45.0/24"
+    ],
     "ipv6": []
   }
 }

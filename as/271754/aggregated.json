@@ -4,6 +4,8 @@
   "description": "Velosch Telecomunicaes - Eireli",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2804:8080::/32"
+    ]
   }
 }

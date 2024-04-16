@@ -3,7 +3,9 @@
   "handle": "FIDELIZADOR-SPA",
   "description": "FIDELIZADOR SPA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.234.157.0/24"
+    ],
     "ipv6": []
   }
 }

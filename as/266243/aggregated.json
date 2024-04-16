@@ -3,7 +3,11 @@
   "handle": "DFL-SERVICOS-TELECOMUNICACOES",
   "description": "DFL Servicos de Telecomunicacoes LTDA - ME",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "192.140.112.0/22"
+    ],
+    "ipv6": [
+      "2804:3cf0::/32"
+    ]
   }
 }

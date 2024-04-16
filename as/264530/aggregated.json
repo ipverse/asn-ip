@@ -3,7 +3,9 @@
   "handle": "JPP-PANCINI",
   "description": "JPP PANCINI LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "138.0.36.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,12 @@
   "handle": "IPWORLDCOM",
   "description": "IP worldcom SA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "83.172.192.0/18",
+      "212.74.128.0/18"
+    ],
+    "ipv6": [
+      "2a10:cf00::/29"
+    ]
   }
 }

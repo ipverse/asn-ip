@@ -3,7 +3,11 @@
   "handle": "QSS-NOTL",
   "description": "Quick Service Software Inc.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "199.66.252.0/22"
+    ],
+    "ipv6": [
+      "2602:ff76::/36"
+    ]
   }
 }

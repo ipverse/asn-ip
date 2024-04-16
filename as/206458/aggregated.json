@@ -3,7 +3,9 @@
   "handle": "VP",
   "description": "Het Vlaams Parlement",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.134.24.0/22"
+    ],
     "ipv6": []
   }
 }

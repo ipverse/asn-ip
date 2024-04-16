@@ -3,7 +3,9 @@
   "handle": "DMBA-PRIMARY",
   "description": "Deseret Mutual Benefit Administrators",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "209.46.71.0/24"
+    ],
     "ipv6": []
   }
 }

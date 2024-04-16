@@ -3,7 +3,9 @@
   "handle": "N3XTWORK",
   "description": "N3XTWORK LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "206.166.236.0/23"
+    ],
     "ipv6": []
   }
 }

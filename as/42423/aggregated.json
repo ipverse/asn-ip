@@ -3,7 +3,11 @@
   "handle": "BITWAY",
   "description": "Bitway Telecom SRL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.168.184.0/23",
+      "193.168.187.0/24",
+      "194.1.167.0/24"
+    ],
     "ipv6": []
   }
 }

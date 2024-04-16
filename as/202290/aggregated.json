@@ -3,7 +3,9 @@
   "handle": "IK-HOST",
   "description": "IK Host Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "31.148.169.0/24"
+    ],
     "ipv6": []
   }
 }

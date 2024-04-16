@@ -3,7 +3,10 @@
   "handle": "A2X",
   "description": "A 2 X (Pty) Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.83.209.0/24",
+      "192.83.211.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,10 @@
   "handle": "DK-HAE",
   "description": "Gilcom Finans A/S",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.90.64.0/22",
+      "194.0.161.0/24"
+    ],
     "ipv6": []
   }
 }

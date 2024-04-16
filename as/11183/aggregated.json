@@ -3,7 +3,10 @@
   "handle": "MHTC-NET",
   "description": "Mount Horeb Telephone Co",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "216.180.192.0/19",
+      "216.246.176.0/20"
+    ],
     "ipv6": []
   }
 }

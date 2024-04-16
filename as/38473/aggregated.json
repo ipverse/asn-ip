@@ -3,7 +3,10 @@
   "handle": "AGRESEARCH",
   "description": "AgResearch",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "202.20.103.0/24",
+      "202.20.104.0/24"
+    ],
     "ipv6": []
   }
 }

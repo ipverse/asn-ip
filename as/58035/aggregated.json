@@ -3,7 +3,9 @@
   "handle": "UM-ZABRZE",
   "description": "Urzad Miejski w Zabrzu",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.237.171.0/24"
+    ],
     "ipv6": []
   }
 }

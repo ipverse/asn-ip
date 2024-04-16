@@ -3,7 +3,9 @@
   "handle": "TORRID",
   "description": "Torrid LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "162.255.47.0/24"
+    ],
     "ipv6": []
   }
 }

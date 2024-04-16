@@ -3,7 +3,9 @@
   "handle": "ALR",
   "description": "AlerisLife Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "96.47.244.0/22"
+    ],
     "ipv6": []
   }
 }

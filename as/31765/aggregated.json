@@ -3,7 +3,9 @@
   "handle": "FUNDSERV",
   "description": "FundSERV Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.212.224.0/21"
+    ],
     "ipv6": []
   }
 }

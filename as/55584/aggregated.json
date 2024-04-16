@@ -3,7 +3,9 @@
   "handle": "KPX",
   "description": "Korea Power Exchange",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "211.179.209.0/24"
+    ],
     "ipv6": []
   }
 }

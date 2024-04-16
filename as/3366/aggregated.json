@@ -3,7 +3,9 @@
   "handle": "A2I-WEST",
   "description": "a2i communications",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.160.13.0/24"
+    ],
     "ipv6": []
   }
 }

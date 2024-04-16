@@ -3,7 +3,9 @@
   "handle": "ZIMBABWE-RESEARCH-AND-EDUCATION-NETWORK",
   "description": "Zimbabwe Research \u0026 Education Network",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "102.210.112.0/22"
+    ],
     "ipv6": []
   }
 }

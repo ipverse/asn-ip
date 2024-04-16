@@ -3,7 +3,9 @@
   "handle": "AXSOS-AG",
   "description": "AXSOS AG",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.235.240.0/24"
+    ],
     "ipv6": []
   }
 }

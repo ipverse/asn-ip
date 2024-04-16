@@ -3,7 +3,9 @@
   "handle": "FORESCOUT",
   "description": "Forescout Technologies Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "63.82.108.0/24"
+    ],
     "ipv6": []
   }
 }

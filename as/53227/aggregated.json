@@ -3,7 +3,11 @@
   "handle": "MV-MARTIN",
   "description": "M.V. Martin \u0026 Cia Ltda.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "186.251.160.0/21"
+    ],
+    "ipv6": [
+      "2804:3a38::/32"
+    ]
   }
 }

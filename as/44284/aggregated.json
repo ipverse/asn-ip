@@ -3,7 +3,10 @@
   "handle": "TRONIC",
   "description": "P.H.U TRONIC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.194.198.0/23",
+      "195.93.162.0/23"
+    ],
     "ipv6": []
   }
 }

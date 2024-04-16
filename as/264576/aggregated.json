@@ -3,7 +3,9 @@
   "handle": "I-C-JADO",
   "description": "I. C. JADO",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "138.36.112.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "HOTLINKS",
   "description": "Domainmaster LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "217.14.128.0/20"
+    ],
     "ipv6": []
   }
 }

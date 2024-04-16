@@ -3,7 +3,11 @@
   "handle": "JURA",
   "description": "JURA Elektroapparate AG",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "185.73.116.0/22"
+    ],
+    "ipv6": [
+      "2a05:4180::/29"
+    ]
   }
 }

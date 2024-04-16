@@ -3,7 +3,9 @@
   "handle": "CONECTMAIS-COMUNICAOES",
   "description": "CONECTMAIS COMUNICAOES LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "131.255.76.0/22"
+    ],
     "ipv6": []
   }
 }

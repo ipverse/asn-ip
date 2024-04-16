@@ -3,7 +3,11 @@
   "handle": "ALPHANETT-SERVIOS-TELECOMUNICAES",
   "description": "ALPHANETT SERVIOS DE TELECOMUNICAES",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "132.255.204.0/22"
+    ],
+    "ipv6": [
+      "2804:2100::/32"
+    ]
   }
 }

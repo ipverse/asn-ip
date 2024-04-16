@@ -3,7 +3,11 @@
   "handle": "UNIWEB-TELECOM",
   "description": "Uniweb Telecom Ltda",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.161.88.0/22"
+    ],
+    "ipv6": [
+      "2804:5180::/32"
+    ]
   }
 }

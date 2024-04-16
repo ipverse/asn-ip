@@ -3,7 +3,9 @@
   "handle": "SPEEDY",
   "description": "Speedy IP Services LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.8.177.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,10 @@
   "handle": "DSME",
   "description": "Hanwha Ocean Co., Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "152.149.0.0/19",
+      "152.149.32.0/21"
+    ],
     "ipv6": []
   }
 }

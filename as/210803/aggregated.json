@@ -3,7 +3,9 @@
   "handle": "NUVOTEX",
   "description": "Nuvotex GmbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.216.238.0/24"
+    ],
     "ipv6": []
   }
 }

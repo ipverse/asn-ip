@@ -3,7 +3,12 @@
   "handle": "GAHARU-ID",
   "description": "PT. Gaharu Sejahtera",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "202.149.128.0/21",
+      "202.149.148.0/22"
+    ],
+    "ipv6": [
+      "2404:600::/32"
+    ]
   }
 }

@@ -3,7 +3,9 @@
   "handle": "KTGL-AP",
   "description": "Kyushu Telecom Global Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "202.43.227.0/24"
+    ],
     "ipv6": []
   }
 }

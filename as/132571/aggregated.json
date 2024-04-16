@@ -3,7 +3,10 @@
   "handle": "EURONET-IN",
   "description": "Euronet Services India Pvt Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.19.217.0/24",
+      "103.78.152.0/24"
+    ],
     "ipv6": []
   }
 }

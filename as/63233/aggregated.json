@@ -3,7 +3,9 @@
   "handle": "LC-LAS",
   "description": "LendingClub Corporation",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "64.48.1.0/24"
+    ],
     "ipv6": []
   }
 }

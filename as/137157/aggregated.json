@@ -3,7 +3,10 @@
   "handle": "SKYNETD",
   "description": "Skynet Datacom Pvt Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.106.136.0/22",
+      "103.186.198.0/23"
+    ],
     "ipv6": []
   }
 }

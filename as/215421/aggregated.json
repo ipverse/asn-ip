@@ -3,7 +3,10 @@
   "handle": "LIKENET",
   "description": "LikeNet LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.191.248.0/22",
+      "46.36.123.0/24"
+    ],
     "ipv6": []
   }
 }

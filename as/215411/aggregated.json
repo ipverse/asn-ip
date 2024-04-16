@@ -3,7 +3,9 @@
   "handle": "VERUNIX",
   "description": "danis danisman",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.67.203.0/24"
+    ],
     "ipv6": []
   }
 }

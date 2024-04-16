@@ -3,7 +3,9 @@
   "handle": "NO",
   "description": "Perspective, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "208.88.192.0/22"
+    ],
     "ipv6": []
   }
 }

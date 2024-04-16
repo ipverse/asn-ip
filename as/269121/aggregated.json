@@ -3,7 +3,11 @@
   "handle": "VG-WEB-INTERNET",
   "description": "VG WEB INTERNET E TELECOM LTDA - ME",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.179.220.0/22"
+    ],
+    "ipv6": [
+      "2804:5fc0::/32"
+    ]
   }
 }

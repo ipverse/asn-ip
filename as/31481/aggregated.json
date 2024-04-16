@@ -3,7 +3,9 @@
   "handle": "TOYOTA-TIS",
   "description": "Toyota Deutschland GmbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.225.152.0/22"
+    ],
     "ipv6": []
   }
 }

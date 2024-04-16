@@ -3,7 +3,11 @@
   "handle": "TECHNET-IPIRA",
   "description": "TECHNET DE IPIRA LTDA ME",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "189.126.0.0/22"
+    ],
+    "ipv6": [
+      "2804:6a24::/32"
+    ]
   }
 }

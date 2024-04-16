@@ -3,7 +3,9 @@
   "handle": "BIA-BG",
   "description": "Bulgarian Industrial Association, Union of Bulgarian business",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "84.252.55.0/24"
+    ],
     "ipv6": []
   }
 }

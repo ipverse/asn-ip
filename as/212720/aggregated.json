@@ -3,7 +3,9 @@
   "handle": "CYBERPROTECT",
   "description": "Cyberprotect SAS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.3.24.0/24"
+    ],
     "ipv6": []
   }
 }

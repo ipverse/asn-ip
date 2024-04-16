@@ -3,7 +3,9 @@
   "handle": "OUHBGPAS1",
   "description": "OU Medicine, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "98.181.112.0/23"
+    ],
     "ipv6": []
   }
 }

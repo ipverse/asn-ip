@@ -3,7 +3,10 @@
   "handle": "DCA-LN",
   "description": "DCA LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "141.193.220.0/23",
+      "162.213.68.0/23"
+    ],
     "ipv6": []
   }
 }

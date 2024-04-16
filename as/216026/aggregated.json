@@ -4,6 +4,11 @@
   "description": "Edoardo Colombo",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a0e:97c0:580::/48",
+      "2a0e:97c0:582::/47",
+      "2a0e:97c0:584::/48",
+      "2a0e:97c0:586::/48"
+    ]
   }
 }

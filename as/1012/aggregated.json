@@ -3,7 +3,9 @@
   "handle": "MOE-BGP",
   "description": "Moe BGP Co.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "74.122.36.0/23"
+    ],
     "ipv6": []
   }
 }

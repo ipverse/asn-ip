@@ -3,7 +3,10 @@
   "handle": "GE-CI-LOUACCESS",
   "description": "General Electric Consumer Products",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "165.156.132.0/22",
+      "165.156.136.0/22"
+    ],
     "ipv6": []
   }
 }

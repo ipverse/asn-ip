@@ -3,7 +3,9 @@
   "handle": "COMISION-ARBITRAL-CONVENIO",
   "description": "COMISION ARBITRAL DEL CONVENIO MULTILATERAL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.174.54.0/24"
+    ],
     "ipv6": []
   }
 }

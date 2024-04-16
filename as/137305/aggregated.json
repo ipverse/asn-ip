@@ -3,7 +3,9 @@
   "handle": "IDNIC-IDS-ID",
   "description": "PT. INTI DUNIA SUKSES",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.104.144.0/23"
+    ],
     "ipv6": []
   }
 }

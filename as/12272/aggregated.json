@@ -3,7 +3,9 @@
   "handle": "MEDATA-PROD",
   "description": "Medata Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.101.232.0/22"
+    ],
     "ipv6": []
   }
 }

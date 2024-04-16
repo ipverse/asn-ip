@@ -3,7 +3,9 @@
   "handle": "NFC",
   "description": "Bank National Factoring Company (Joint-Stock Company)",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.186.139.0/24"
+    ],
     "ipv6": []
   }
 }

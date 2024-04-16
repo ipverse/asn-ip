@@ -3,7 +3,9 @@
   "handle": "NOUVELLE",
   "description": "Nouvelle S.r.l",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "212.115.64.0/19"
+    ],
     "ipv6": []
   }
 }

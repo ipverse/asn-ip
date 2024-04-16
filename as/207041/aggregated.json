@@ -3,7 +3,9 @@
   "handle": "INNOTEN",
   "description": "Innovisio Oy",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.253.52.0/24"
+    ],
     "ipv6": []
   }
 }

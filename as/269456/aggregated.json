@@ -3,7 +3,11 @@
   "handle": "F-F-COMERCIO",
   "description": "F \u0026 F COMERCIO E SERVICOS DE TELECOMUNICACAO E SEG",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.187.52.0/22"
+    ],
+    "ipv6": [
+      "2804:64e4::/32"
+    ]
   }
 }

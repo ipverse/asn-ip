@@ -3,7 +3,9 @@
   "handle": "SOLUSLP",
   "description": "SOLUS ALTERNATIVE ASSET MANAGEMENT LP",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "198.207.187.0/24"
+    ],
     "ipv6": []
   }
 }

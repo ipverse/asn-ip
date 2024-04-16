@@ -3,7 +3,9 @@
   "handle": "LILLYCDN",
   "description": "intercolo GmbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.14.92.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "SYNFS",
   "description": "Fundtech Financial Messaging Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.226.24.0/23"
+    ],
     "ipv6": []
   }
 }

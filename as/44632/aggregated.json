@@ -3,7 +3,9 @@
   "handle": "KONTRON-1",
   "description": "KRONTRON d.o.o.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.8.94.0/23"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,10 @@
   "handle": "AVALONDC",
   "description": "FOP Klimanov Eugene Alexandrovich",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "23.139.136.0/24",
+      "147.78.119.0/24"
+    ],
     "ipv6": []
   }
 }

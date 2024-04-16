@@ -3,7 +3,9 @@
   "handle": "UMJ-MSS",
   "description": "Gmina Miasta Jaworzna",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.34.28.0/22"
+    ],
     "ipv6": []
   }
 }

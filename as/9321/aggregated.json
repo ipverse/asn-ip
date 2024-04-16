@@ -3,7 +3,9 @@
   "handle": "HYUNET",
   "description": "Hanyang University",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "166.104.0.0/16"
+    ],
     "ipv6": []
   }
 }

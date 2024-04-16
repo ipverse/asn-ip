@@ -3,7 +3,11 @@
   "handle": "SECURA",
   "description": "Secura Hosting Ltd",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "82.196.224.0/19"
+    ],
+    "ipv6": [
+      "2001:4b08::/32"
+    ]
   }
 }

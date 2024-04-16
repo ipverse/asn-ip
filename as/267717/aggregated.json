@@ -3,7 +3,10 @@
   "handle": "CS-SPA",
   "description": "CS SPA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.165.169.0/24",
+      "45.165.171.0/24"
+    ],
     "ipv6": []
   }
 }

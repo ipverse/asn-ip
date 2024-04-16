@@ -3,7 +3,9 @@
   "handle": "BMA",
   "description": "Bermuda Monetary Authority",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "74.114.240.0/22"
+    ],
     "ipv6": []
   }
 }

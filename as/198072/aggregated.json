@@ -3,7 +3,9 @@
   "handle": "PL-FREENET",
   "description": "GTnet sp.j. Tomasz Gajewski Grzegorz Mazurek",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.231.120.0/22"
+    ],
     "ipv6": []
   }
 }

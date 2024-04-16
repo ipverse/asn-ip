@@ -3,7 +3,11 @@
   "handle": "PROXER-TELECOMUNICAES",
   "description": "PROXER TELECOMUNICAES LTDA ME",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.231.152.0/22"
+    ],
+    "ipv6": [
+      "2804:4ac0::/32"
+    ]
   }
 }

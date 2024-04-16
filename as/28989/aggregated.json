@@ -3,7 +3,9 @@
   "handle": "EXPOBANK",
   "description": "Expobank JSC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.117.73.0/24"
+    ],
     "ipv6": []
   }
 }

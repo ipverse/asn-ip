@@ -3,7 +3,9 @@
   "handle": "GTELMOBILE-VN",
   "description": "Gtel Mobile Joint Stock Company",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "110.35.72.0/21"
+    ],
     "ipv6": []
   }
 }

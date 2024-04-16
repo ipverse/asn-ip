@@ -3,7 +3,10 @@
   "handle": "IDIT",
   "description": "MTS Markets International Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.33.28.0/23",
+      "199.33.30.0/24"
+    ],
     "ipv6": []
   }
 }

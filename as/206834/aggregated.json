@@ -3,7 +3,9 @@
   "handle": "TEAMINTERNET-CA",
   "description": "Team Internet AG",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "104.247.80.0/22"
+    ],
     "ipv6": [
       "2a01:bb20:2000::/36"
     ]

@@ -3,7 +3,9 @@
   "handle": "TERANET-HU",
   "description": "Teranet.hu Szolgaltato Kft",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.48.40.0/22"
+    ],
     "ipv6": []
   }
 }

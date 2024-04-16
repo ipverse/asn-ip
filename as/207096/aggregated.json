@@ -3,7 +3,12 @@
   "handle": "ASLINKWEB",
   "description": "Link Web Solutions LLP",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "185.166.40.0/22",
+      "185.176.204.0/22"
+    ],
+    "ipv6": [
+      "2a0a:7600::/29"
+    ]
   }
 }

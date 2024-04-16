@@ -3,7 +3,9 @@
   "handle": "CINEMARK-US",
   "description": "CINEMARK USA, INC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "64.202.64.0/20"
+    ],
     "ipv6": []
   }
 }

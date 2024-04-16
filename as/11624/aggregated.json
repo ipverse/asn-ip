@@ -3,7 +3,10 @@
   "handle": "COLLINS",
   "description": "COLLINS COMMUNICATIONS INC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "75.127.16.0/20",
+      "162.252.128.0/22"
+    ],
     "ipv6": []
   }
 }

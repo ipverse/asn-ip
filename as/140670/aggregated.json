@@ -3,7 +3,9 @@
   "handle": "PACT-AP",
   "description": "PACT IT Solutions",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.151.144.0/24"
+    ],
     "ipv6": []
   }
 }

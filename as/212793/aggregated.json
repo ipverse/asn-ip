@@ -4,6 +4,8 @@
   "description": "Xiwei Ye",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a06:a005:b69::/48"
+    ]
   }
 }

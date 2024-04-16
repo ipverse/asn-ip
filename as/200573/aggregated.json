@@ -3,7 +3,9 @@
   "handle": "NEXET",
   "description": "NEXET Sp. z o.o.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.239.40.0/22"
+    ],
     "ipv6": []
   }
 }

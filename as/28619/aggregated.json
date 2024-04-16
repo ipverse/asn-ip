@@ -3,7 +3,9 @@
   "handle": "TAM-LINHAS-AEREAS",
   "description": "TAM Linhas Aereas S/A",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "201.20.128.0/20"
+    ],
     "ipv6": []
   }
 }

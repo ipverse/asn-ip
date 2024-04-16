@@ -3,7 +3,10 @@
   "handle": "MCD-US",
   "description": "McDonald\u0027s Corporation",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "66.111.129.0/24",
+      "66.111.153.0/24"
+    ],
     "ipv6": []
   }
 }

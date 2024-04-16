@@ -3,7 +3,9 @@
   "handle": "FAUSTO-SILVA-ALMEIDA",
   "description": "Fausto Silva de Almeida Servios - ME",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.4.148.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "ENTERGY-SERVICES-LLC",
   "description": "Entergy Services, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "198.8.0.0/21"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,10 @@
   "handle": "ZUCCHETTI",
   "description": "ZUCCHETTI SPA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "62.108.224.0/19",
+      "92.119.224.0/22"
+    ],
     "ipv6": []
   }
 }

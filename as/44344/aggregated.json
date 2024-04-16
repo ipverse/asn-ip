@@ -3,7 +3,9 @@
   "handle": "INGRESS",
   "description": "INGRESS Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.46.46.0/24"
+    ],
     "ipv6": []
   }
 }

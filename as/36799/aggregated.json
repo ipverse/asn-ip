@@ -3,7 +3,9 @@
   "handle": "CUBIC",
   "description": "Cubic Corporation",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "205.178.129.0/24"
+    ],
     "ipv6": []
   }
 }

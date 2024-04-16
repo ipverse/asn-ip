@@ -3,7 +3,11 @@
   "handle": "MOSOBLCOM",
   "description": "MOSOBLCOM LLC",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "213.226.80.0/22"
+    ],
+    "ipv6": [
+      "2a09:4980::/32"
+    ]
   }
 }

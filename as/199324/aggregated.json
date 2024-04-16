@@ -3,7 +3,12 @@
   "handle": "DODONET",
   "description": "DODONET S.R.L.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "185.21.24.0/22",
+      "185.187.40.0/22"
+    ],
+    "ipv6": [
+      "2a00:54e0::/32"
+    ]
   }
 }

@@ -3,7 +3,9 @@
   "handle": "IDNIC-HAJINET-ID",
   "description": "PT Karya Aneka Persada",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.179.180.0/24"
+    ],
     "ipv6": []
   }
 }

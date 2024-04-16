@@ -3,7 +3,10 @@
   "handle": "NISA-STL",
   "description": "NISA Investment Advisors",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.135.218.0/24",
+      "199.168.41.0/24"
+    ],
     "ipv6": []
   }
 }

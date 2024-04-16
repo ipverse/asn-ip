@@ -3,7 +3,9 @@
   "handle": "TNEMEC",
   "description": "Tnemec Company Incorporated",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "76.194.23.0/24"
+    ],
     "ipv6": []
   }
 }

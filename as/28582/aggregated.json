@@ -3,7 +3,9 @@
   "handle": "COMPULAND-INFORMATICA",
   "description": "COMPULAND INFORMATICA LTDA. M.E.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "200.194.160.0/20"
+    ],
     "ipv6": []
   }
 }

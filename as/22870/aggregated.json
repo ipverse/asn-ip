@@ -3,7 +3,9 @@
   "handle": "SYNIVERSE-TECHNOLOGIES-LLC",
   "description": "Syniverse Technologies, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "173.209.222.0/24"
+    ],
     "ipv6": []
   }
 }

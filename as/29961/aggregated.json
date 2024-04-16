@@ -3,7 +3,9 @@
   "handle": "MADISON-COUNTY-COMMISSION-AL",
   "description": "Madison County Commission",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "205.166.95.0/24"
+    ],
     "ipv6": []
   }
 }

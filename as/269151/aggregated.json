@@ -3,7 +3,11 @@
   "handle": "SWAP-TELECOM",
   "description": "SWAP TELECOM",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.180.228.0/22"
+    ],
+    "ipv6": [
+      "2804:6030::/32"
+    ]
   }
 }

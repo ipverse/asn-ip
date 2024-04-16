@@ -3,7 +3,9 @@
   "handle": "MKBINVESTMENTS",
   "description": "MKB Investments LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.189.254.0/24"
+    ],
     "ipv6": []
   }
 }

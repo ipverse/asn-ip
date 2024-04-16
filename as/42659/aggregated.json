@@ -3,7 +3,9 @@
   "handle": "WELLTEC",
   "description": "WELLTEC A/S",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.110.136.0/24"
+    ],
     "ipv6": []
   }
 }

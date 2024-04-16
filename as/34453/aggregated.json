@@ -3,7 +3,9 @@
   "handle": "BERESA",
   "description": "Wilhelm Burg GmbH trading as Beresa GmbH \u0026 Co. KG",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "31.129.120.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "AVEASCO",
   "description": "Valor Information Technologies, S.L.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "167.160.31.0/24"
+    ],
     "ipv6": []
   }
 }

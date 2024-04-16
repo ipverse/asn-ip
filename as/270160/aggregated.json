@@ -3,7 +3,9 @@
   "handle": "MIZRAIM-VALTIERRA-ESPINO",
   "description": "MIZRAIM VALTIERRA ESPINO",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.183.132.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,10 @@
   "handle": "SUFI-ID",
   "description": "PT Sumber Utama Fiber Indonesia",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.123.120.0/24",
+      "103.123.122.0/23"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "IDNIC-SIMTEL-ID",
   "description": "PT Solusi Media Telekomunikasi",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.163.13.0/24"
+    ],
     "ipv6": []
   }
 }

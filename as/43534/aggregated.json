@@ -3,7 +3,9 @@
   "handle": "CREDITCALL",
   "description": "Network Merchants Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.197.92.0/22"
+    ],
     "ipv6": []
   }
 }

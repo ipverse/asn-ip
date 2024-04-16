@@ -3,7 +3,9 @@
   "handle": "SOCIETE-PUBLIC-LOCALE",
   "description": "SOCIETE PUBLIC LOCALE POUR LAMENAGEMENT NUMERIQUE DE LA GUYANE",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "128.201.88.0/22"
+    ],
     "ipv6": []
   }
 }

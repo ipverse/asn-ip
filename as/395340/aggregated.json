@@ -3,7 +3,9 @@
   "handle": "BINARYDEFENSE",
   "description": "Binary Defense Systems, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "170.76.227.0/24"
+    ],
     "ipv6": []
   }
 }

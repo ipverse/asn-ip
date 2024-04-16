@@ -3,7 +3,9 @@
   "handle": "MEGIONLINK",
   "description": "LLC Megion-Link",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.166.116.0/22"
+    ],
     "ipv6": []
   }
 }

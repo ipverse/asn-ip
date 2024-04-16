@@ -3,7 +3,9 @@
   "handle": "NETWIN",
   "description": "Netwin Systems And Software India Pvt Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.115.232.0/24"
+    ],
     "ipv6": []
   }
 }

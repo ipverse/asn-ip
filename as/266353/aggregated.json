@@ -3,7 +3,11 @@
   "handle": "REDE-BJNET-TELECOMUNICAES",
   "description": "REDE BJNET TELECOMUNICAES LTDA-ME",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "170.239.140.0/22"
+    ],
+    "ipv6": [
+      "2804:3684::/32"
+    ]
   }
 }

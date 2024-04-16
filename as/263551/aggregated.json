@@ -3,7 +3,11 @@
   "handle": "HPNETWORK",
   "description": "HPNetwork LTDA. ME",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "177.84.156.0/22"
+    ],
+    "ipv6": [
+      "2804:13c8::/32"
+    ]
   }
 }

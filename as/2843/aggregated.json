@@ -3,7 +3,9 @@
   "handle": "LIUNET",
   "description": "Linkopings universitet",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "130.236.0.0/16"
+    ],
     "ipv6": []
   }
 }

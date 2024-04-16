@@ -3,7 +3,9 @@
   "handle": "HOMEOPTIC",
   "description": "HOMEOPTIC LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "176.101.184.0/22"
+    ],
     "ipv6": []
   }
 }

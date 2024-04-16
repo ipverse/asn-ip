@@ -3,7 +3,10 @@
   "handle": "MFAT-NET-NZ",
   "description": "Ministry of Foreign Affairs and Trade",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "14.128.4.0/24",
+      "14.128.6.0/23"
+    ],
     "ipv6": []
   }
 }

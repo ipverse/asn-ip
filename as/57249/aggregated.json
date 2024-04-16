@@ -3,7 +3,9 @@
   "handle": "EDGE",
   "description": "EDGE NPD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.22.81.0/24"
+    ],
     "ipv6": []
   }
 }

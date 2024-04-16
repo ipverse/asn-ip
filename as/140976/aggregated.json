@@ -3,7 +3,9 @@
   "handle": "BANGLA521-AP",
   "description": "Bangla52",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.83.82.0/23"
+    ],
     "ipv6": []
   }
 }

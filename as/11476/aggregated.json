@@ -3,7 +3,9 @@
   "handle": "PCT-01",
   "description": "PRIME CARE TECHNOLOGIES, INC.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "208.95.4.0/22"
+    ],
     "ipv6": []
   }
 }

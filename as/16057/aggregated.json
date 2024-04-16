@@ -3,7 +3,9 @@
   "handle": "AGELIA",
   "description": "Agelia SAS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "212.78.32.0/22"
+    ],
     "ipv6": []
   }
 }

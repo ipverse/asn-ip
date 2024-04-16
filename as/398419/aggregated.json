@@ -3,7 +3,12 @@
   "handle": "COLO-LOL",
   "description": "Tiny Tiny Computing",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "44.31.168.0/24",
+      "170.39.22.0/24"
+    ],
+    "ipv6": [
+      "2602:fd45::/36"
+    ]
   }
 }

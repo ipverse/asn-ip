@@ -3,7 +3,10 @@
   "handle": "AZYLIS",
   "description": "AZYLIS SARL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.165.64.0/22",
+      "185.234.104.0/22"
+    ],
     "ipv6": []
   }
 }

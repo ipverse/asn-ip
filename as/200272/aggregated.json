@@ -3,7 +3,12 @@
   "handle": "X-KOM",
   "description": "x-kom sp. z o.o.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "84.39.196.0/23",
+      "84.39.199.0/24"
+    ],
+    "ipv6": [
+      "2a09:ee00::/29"
+    ]
   }
 }

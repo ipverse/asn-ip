@@ -3,7 +3,9 @@
   "handle": "BGTAT",
   "description": "Best Gaming Technology GmbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "176.113.95.0/24"
+    ],
     "ipv6": []
   }
 }

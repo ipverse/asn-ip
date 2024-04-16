@@ -3,7 +3,11 @@
   "handle": "CITY-OF-WICHITA-1",
   "description": "City of Wichita",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "8.14.206.0/24"
+    ],
+    "ipv6": [
+      "2605:b1c0::/32"
+    ]
   }
 }

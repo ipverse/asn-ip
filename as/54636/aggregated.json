@@ -3,7 +3,9 @@
   "handle": "DBIO",
   "description": "Rackspace Hosting",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.182.60.0/23"
+    ],
     "ipv6": []
   }
 }

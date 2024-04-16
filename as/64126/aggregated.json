@@ -3,7 +3,11 @@
   "handle": "DOMINICAN-CABLE-GROUP-DCG",
   "description": "DOMINICAN CABLE GROUP DCG, S.R.L.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "131.108.236.0/22"
+    ],
+    "ipv6": [
+      "2803:6de0::/32"
+    ]
   }
 }

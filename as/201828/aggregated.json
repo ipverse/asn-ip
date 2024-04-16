@@ -3,7 +3,10 @@
   "handle": "NEWTECH",
   "description": "NEWTECH INTERACTIVE SA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.53.24.0/24",
+      "185.53.27.0/24"
+    ],
     "ipv6": []
   }
 }

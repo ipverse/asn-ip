@@ -3,7 +3,9 @@
   "handle": "ROZVYTOK",
   "description": "Rozvytok LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "80.78.63.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "NETVOKTUN",
   "description": "Netvoktun ehf",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.43.30.0/24"
+    ],
     "ipv6": []
   }
 }

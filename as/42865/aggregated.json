@@ -3,7 +3,9 @@
   "handle": "EUSHIELD",
   "description": "WEB3 Leaders INC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.10.209.0/24"
+    ],
     "ipv6": []
   }
 }

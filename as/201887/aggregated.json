@@ -3,7 +3,10 @@
   "handle": "SAVACOAS",
   "description": "SAVACO NV",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "5.255.128.0/22",
+      "5.255.132.0/23"
+    ],
     "ipv6": []
   }
 }

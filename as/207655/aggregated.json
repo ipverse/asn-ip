@@ -3,7 +3,10 @@
   "handle": "DTCS",
   "description": "Day Telecom Company (ltd.)",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.36.0.0/24",
+      "194.146.239.0/24"
+    ],
     "ipv6": []
   }
 }

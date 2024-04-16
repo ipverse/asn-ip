@@ -3,7 +3,10 @@
   "handle": "ALMAHOST",
   "description": "ALMA FAN AVARAN DEHKADE JAHANI Company Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "82.102.9.0/24",
+      "82.102.14.0/23"
+    ],
     "ipv6": []
   }
 }

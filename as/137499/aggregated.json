@@ -3,7 +3,9 @@
   "handle": "HD-AP",
   "description": "Data Network Services Provider Co.,Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.110.228.0/22"
+    ],
     "ipv6": []
   }
 }

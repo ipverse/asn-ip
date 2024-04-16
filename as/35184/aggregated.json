@@ -3,7 +3,12 @@
   "handle": "GALOPTELECOM",
   "description": "Nomotech SAS",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "46.21.128.0/20",
+      "87.240.64.0/18"
+    ],
+    "ipv6": [
+      "2a03:6c00::/32"
+    ]
   }
 }

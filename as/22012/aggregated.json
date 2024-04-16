@@ -3,7 +3,10 @@
   "handle": "REALOGY-MADISON",
   "description": "NRT Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "167.182.4.0/23",
+      "167.182.120.0/21"
+    ],
     "ipv6": []
   }
 }

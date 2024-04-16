@@ -3,7 +3,10 @@
   "handle": "MITSUBISHI-UFJ-TRUST-BANKING",
   "description": "Mitsubishi UFJ Trust \u0026 Banking Corporation",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "69.46.231.0/24",
+      "162.218.141.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "SYSTEMSAT-SOLUES-CONSULTORIA",
   "description": "Systemsat Solues e Consultoria em comunicao",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "177.91.4.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "AGORAVITA",
   "description": "AGORA VITA SAS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.139.20.0/22"
+    ],
     "ipv6": []
   }
 }

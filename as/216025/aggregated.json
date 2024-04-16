@@ -3,7 +3,11 @@
   "handle": "MULLVAD",
   "description": "Mullvad VPN AB",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.92.0.0/24"
+    ],
+    "ipv6": [
+      "2a10:7402::/32"
+    ]
   }
 }

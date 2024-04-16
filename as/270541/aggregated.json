@@ -3,7 +3,11 @@
   "handle": "PLANET-FIBER",
   "description": "Planet Fiber",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "177.124.152.0/22"
+    ],
+    "ipv6": [
+      "2804:6d90::/32"
+    ]
   }
 }

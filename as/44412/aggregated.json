@@ -3,7 +3,9 @@
   "handle": "INGUSHELECTROSVYAZ",
   "description": "PJSC Rostelecom",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "212.94.0.0/20"
+    ],
     "ipv6": []
   }
 }

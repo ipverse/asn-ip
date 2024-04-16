@@ -3,7 +3,11 @@
   "handle": "HECHO-VIA-INTERNET",
   "description": "HECHO VIA INTERNET LTDA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "170.79.196.0/22"
+    ],
+    "ipv6": [
+      "2804:35d8::/32"
+    ]
   }
 }

@@ -3,7 +3,9 @@
   "handle": "360-MADDISON-BGP",
   "description": "etc.venues NYC LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "142.105.66.0/24"
+    ],
     "ipv6": []
   }
 }

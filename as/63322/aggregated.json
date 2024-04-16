@@ -3,7 +3,11 @@
   "handle": "SANAPPTX",
   "description": "SANAPPTX",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "142.147.0.0/23",
+      "142.147.5.0/24",
+      "142.147.6.0/23"
+    ],
     "ipv6": []
   }
 }

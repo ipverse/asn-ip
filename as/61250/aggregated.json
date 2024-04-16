@@ -3,7 +3,9 @@
   "handle": "AYANDEHBANK",
   "description": "Ayandeh Bank",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "89.43.14.0/23"
+    ],
     "ipv6": []
   }
 }

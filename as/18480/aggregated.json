@@ -3,7 +3,11 @@
   "handle": "GDT",
   "description": "General Datatech, LP",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.92.61.0/24",
+      "38.121.40.0/24",
+      "198.207.145.0/24"
+    ],
     "ipv6": []
   }
 }

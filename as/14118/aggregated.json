@@ -3,7 +3,9 @@
   "handle": "FBC-ASN-001",
   "description": "FortisBC Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.60.24.0/23"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "SCDC-SC-DATA-CENTER",
   "description": "SC Data Center, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "148.78.68.0/23"
+    ],
     "ipv6": []
   }
 }

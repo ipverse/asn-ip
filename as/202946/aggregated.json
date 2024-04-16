@@ -3,7 +3,9 @@
   "handle": "ASNEW",
   "description": "Sulzer GmbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.28.61.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,12 @@
   "handle": "GAV-TELECOM-SERVICOS",
   "description": "GAV TELECOM SERVICOS DE TELECOMUNICACAO LTDA - ME",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "179.49.216.0/23",
+      "179.49.218.0/24"
+    ],
+    "ipv6": [
+      "2804:782c::/32"
+    ]
   }
 }

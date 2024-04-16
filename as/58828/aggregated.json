@@ -4,6 +4,8 @@
   "description": "GUANGDONG RURAL CREDIT UNION",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2407:2840::/48"
+    ]
   }
 }

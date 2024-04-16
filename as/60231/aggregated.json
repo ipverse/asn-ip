@@ -3,7 +3,9 @@
   "handle": "CITYTRAVEL",
   "description": "TRAVELSOFT LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "93.189.148.0/24"
+    ],
     "ipv6": []
   }
 }

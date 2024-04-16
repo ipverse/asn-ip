@@ -3,7 +3,11 @@
   "handle": "POWER-NET",
   "description": "POWER NET",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "200.50.148.0/22"
+    ],
+    "ipv6": [
+      "2804:7edc::/32"
+    ]
   }
 }

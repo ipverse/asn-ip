@@ -3,7 +3,12 @@
   "handle": "AS01T",
   "description": "01 Telecom Ltd",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.90.42.0/24",
+      "91.193.116.0/22"
+    ],
+    "ipv6": [
+      "2a06:40c0::/29"
+    ]
   }
 }

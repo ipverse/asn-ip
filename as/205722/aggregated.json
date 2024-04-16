@@ -3,7 +3,10 @@
   "handle": "BINOTEL-AB",
   "description": "Binotel LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.91.128.0/22",
+      "185.149.149.0/24"
+    ],
     "ipv6": []
   }
 }

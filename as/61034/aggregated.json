@@ -3,7 +3,9 @@
   "handle": "PROTELE",
   "description": "Protelecom LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.20.216.0/23"
+    ],
     "ipv6": []
   }
 }

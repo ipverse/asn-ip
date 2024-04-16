@@ -3,7 +3,10 @@
   "handle": "CENTURYLINK-SPA-SINGAPORE",
   "description": "CenturyLink Communications, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "148.156.112.0/23",
+      "148.156.116.0/24"
+    ],
     "ipv6": []
   }
 }

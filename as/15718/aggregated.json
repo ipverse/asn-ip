@@ -3,7 +3,9 @@
   "handle": "FL-749",
   "description": "FROSTWEB LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.115.152.0/23"
+    ],
     "ipv6": []
   }
 }

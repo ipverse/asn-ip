@@ -3,7 +3,11 @@
   "handle": "REGIONHALLAND",
   "description": "Region Halland",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.183.8.0/24",
+      "193.183.15.0/24",
+      "193.183.16.0/24"
+    ],
     "ipv6": []
   }
 }

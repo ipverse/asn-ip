@@ -3,7 +3,9 @@
   "handle": "BOULDER-COMMUNITY-HEALTH",
   "description": "Boulder Community Hospital",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "69.161.206.0/24"
+    ],
     "ipv6": []
   }
 }

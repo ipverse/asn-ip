@@ -3,7 +3,9 @@
   "handle": "SVYAZENERGO",
   "description": "LLC Svyazenergo",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.211.180.0/23"
+    ],
     "ipv6": []
   }
 }

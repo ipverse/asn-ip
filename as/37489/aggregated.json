@@ -3,7 +3,9 @@
   "handle": "ABARICOMMOZ",
   "description": "ABARI COMMUNICATIONS MOZAMBIQUE LDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "105.235.216.0/21"
+    ],
     "ipv6": []
   }
 }

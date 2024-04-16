@@ -3,7 +3,10 @@
   "handle": "NCUA-GOV-NATIONAL-CREDIT-UNION-ADMINISTRATION",
   "description": "National Credit Union Administration",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "216.69.117.0/24",
+      "216.69.120.0/24"
+    ],
     "ipv6": []
   }
 }

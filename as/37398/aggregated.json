@@ -3,7 +3,9 @@
   "handle": "JUNISAT",
   "description": "Juniper solutions Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "41.77.168.0/21"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "SRMTECH",
   "description": "Srm Technologies Pvt. Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.94.172.0/23"
+    ],
     "ipv6": []
   }
 }

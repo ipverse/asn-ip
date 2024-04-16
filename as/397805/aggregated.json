@@ -3,7 +3,12 @@
   "handle": "DYNASCALE-IAD",
   "description": "Dynascale Inc.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "206.221.213.0/24",
+      "206.221.215.0/24"
+    ],
+    "ipv6": [
+      "2606:6e00:a000::/35"
+    ]
   }
 }

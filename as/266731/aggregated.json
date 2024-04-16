@@ -3,7 +3,9 @@
   "handle": "TELECOMUNICACIONES-MAURICIO-ANDRES",
   "description": "TELECOMUNICACIONES MAURICIO ANDRES KASENDRA LARENAS E.I.R.L.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.230.48.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,10 @@
   "handle": "PHSD-DATACENTER",
   "description": "Park Hill School District",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "70.251.179.0/24",
+      "199.27.188.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "INCHCAPE",
   "description": "Borishof Holding LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.189.194.0/24"
+    ],
     "ipv6": []
   }
 }

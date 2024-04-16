@@ -3,7 +3,9 @@
   "handle": "KNOAH-AP",
   "description": "Knoah Solutions Pvt. Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.99.42.0/24"
+    ],
     "ipv6": []
   }
 }

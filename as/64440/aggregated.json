@@ -3,7 +3,9 @@
   "handle": "KAMS",
   "description": "Kongsberg Aviation Maintenance Services AS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.97.193.0/24"
+    ],
     "ipv6": []
   }
 }

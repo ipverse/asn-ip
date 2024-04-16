@@ -3,7 +3,9 @@
   "handle": "OPTIMA-BANK",
   "description": "Optima Bank OJSC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "31.148.30.0/24"
+    ],
     "ipv6": []
   }
 }

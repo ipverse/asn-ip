@@ -3,7 +3,10 @@
   "handle": "GOAL-BD",
   "description": "Gateway Online Access Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "43.231.76.0/22",
+      "103.50.168.0/22"
+    ],
     "ipv6": []
   }
 }

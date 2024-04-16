@@ -3,7 +3,9 @@
   "handle": "LIRR",
   "description": "Long Island Rail Road",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "170.28.224.0/20"
+    ],
     "ipv6": []
   }
 }

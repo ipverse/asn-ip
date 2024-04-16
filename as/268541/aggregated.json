@@ -3,7 +3,9 @@
   "handle": "SKYTURBO-TELECOM",
   "description": "Skyturbo Telecom",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.162.248.0/22"
+    ],
     "ipv6": []
   }
 }

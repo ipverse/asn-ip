@@ -3,7 +3,9 @@
   "handle": "JAIME-TORRES-C",
   "description": "JAIME TORRES C Y CIA SA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "179.50.25.0/24"
+    ],
     "ipv6": []
   }
 }

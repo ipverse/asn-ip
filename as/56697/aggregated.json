@@ -3,7 +3,11 @@
   "handle": "SUISBOGATELECOM",
   "description": "SUIS BOGA TELECOM SL",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "185.130.216.0/22"
+    ],
+    "ipv6": [
+      "2a06:e2c0::/29"
+    ]
   }
 }

@@ -3,7 +3,9 @@
   "handle": "MOSCONNECT",
   "description": "Digital technologies LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.102.181.0/24"
+    ],
     "ipv6": []
   }
 }

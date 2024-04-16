@@ -3,7 +3,9 @@
   "handle": "IDNIC-ANINDISAKOMPUTINDOPRATAMA-ID",
   "description": "CV. ANINDISA KOMPUTINDO PRATAMA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.91.44.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "CRYSTAL-EU",
   "description": "Crystal GmbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.186.3.0/24"
+    ],
     "ipv6": []
   }
 }

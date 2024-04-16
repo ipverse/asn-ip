@@ -4,6 +4,8 @@
   "description": "A-FIN KOREA CORP",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2001:df0:32c0::/48"
+    ]
   }
 }

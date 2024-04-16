@@ -3,7 +3,9 @@
   "handle": "URB-TELECOM",
   "description": "URB TELECOM LTDA - ME",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "177.128.204.0/22"
+    ],
     "ipv6": []
   }
 }

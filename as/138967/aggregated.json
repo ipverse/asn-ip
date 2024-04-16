@@ -3,7 +3,9 @@
   "handle": "SINEMANAGE-AP",
   "description": "SineManage Network Service co.,Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.137.216.0/23"
+    ],
     "ipv6": []
   }
 }

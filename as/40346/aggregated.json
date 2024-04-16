@@ -3,7 +3,10 @@
   "handle": "ACADIAN-AMBULANCE-SERVICE",
   "description": "Acadian Ambulance Service, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.48.248.0/23",
+      "199.48.250.0/24"
+    ],
     "ipv6": []
   }
 }

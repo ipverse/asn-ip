@@ -3,7 +3,10 @@
   "handle": "PLANINTERNET-EU",
   "description": "PLANinterNET GmbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "93.189.168.0/22",
+      "93.189.172.0/23"
+    ],
     "ipv6": []
   }
 }

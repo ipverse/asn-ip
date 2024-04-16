@@ -3,7 +3,9 @@
   "handle": "EE-TALLINNASADAM",
   "description": "AS Tallinna Sadam",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.217.50.0/24"
+    ],
     "ipv6": []
   }
 }

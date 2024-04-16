@@ -3,7 +3,9 @@
   "handle": "UNITECSYS",
   "description": "JSC Preprocessing Settlement Center",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.38.204.0/22"
+    ],
     "ipv6": []
   }
 }

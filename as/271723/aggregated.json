@@ -4,6 +4,8 @@
   "description": "c c b ferreira-me",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2804:8000::/32"
+    ]
   }
 }

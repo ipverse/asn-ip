@@ -3,7 +3,11 @@
   "handle": "NAXI-TELECOMUNICACOES",
   "description": "NAXI TELECOMUNICACOES LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "131.100.92.0/22",
+      "177.66.144.0/22",
+      "186.235.56.0/22"
+    ],
     "ipv6": []
   }
 }

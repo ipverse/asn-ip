@@ -3,7 +3,10 @@
   "handle": "SOPREMA",
   "description": "SOPREMA SAS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "31.43.184.0/24",
+      "91.223.5.0/24"
+    ],
     "ipv6": []
   }
 }

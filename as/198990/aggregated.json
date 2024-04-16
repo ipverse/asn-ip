@@ -3,7 +3,9 @@
   "handle": "PINEHOST-NET",
   "description": "Pine Hosting LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "156.236.84.0/24"
+    ],
     "ipv6": []
   }
 }

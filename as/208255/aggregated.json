@@ -3,7 +3,9 @@
   "handle": "STREAMS-GMBH",
   "description": "Streams Telecommunicationsservices GmbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.143.64.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "PLEXUSSYSTEMS-US1",
   "description": "Plex Systems, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "8.34.94.0/24"
+    ],
     "ipv6": []
   }
 }

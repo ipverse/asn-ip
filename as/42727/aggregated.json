@@ -3,7 +3,9 @@
   "handle": "DATACOM",
   "description": "PRIVATE JOINT STOCK COMPANY DATAGROUP",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.183.109.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "ROSA",
   "description": "Agentia Spatiala Romana",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.116.136.0/23"
+    ],
     "ipv6": []
   }
 }

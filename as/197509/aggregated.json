@@ -3,7 +3,9 @@
   "handle": "PHARMAMALL",
   "description": "pharma mall Gesellschaft fuer Electronic Commerce GmbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.27.252.0/23"
+    ],
     "ipv6": []
   }
 }

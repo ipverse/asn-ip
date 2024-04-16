@@ -3,7 +3,10 @@
   "handle": "ISU-NET",
   "description": "Idaho State University",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "134.50.0.0/16",
+      "206.207.64.0/21"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "JYSANBANK",
   "description": "JSC First Heartland Jysan Bank",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "94.158.223.0/24"
+    ],
     "ipv6": []
   }
 }

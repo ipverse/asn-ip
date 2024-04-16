@@ -3,7 +3,9 @@
   "handle": "INSIGHT",
   "description": "Insight Direct USA, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "208.65.132.0/24"
+    ],
     "ipv6": []
   }
 }

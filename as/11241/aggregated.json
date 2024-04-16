@@ -3,7 +3,11 @@
   "handle": "VPOP-IP-NETWORK",
   "description": "Transera Communications, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "208.77.192.0/24",
+      "208.77.194.0/24",
+      "208.92.124.0/22"
+    ],
     "ipv6": []
   }
 }

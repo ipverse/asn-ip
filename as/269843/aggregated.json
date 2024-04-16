@@ -3,7 +3,10 @@
   "handle": "BANTEL",
   "description": "BANTEL SAC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.189.108.0/22",
+      "45.194.52.0/24"
+    ],
     "ipv6": []
   }
 }

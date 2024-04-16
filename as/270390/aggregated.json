@@ -3,7 +3,11 @@
   "handle": "EVANUEL-SANTOS-GOMES",
   "description": "Evanuel dos Santos Gomes- ME",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "190.89.184.0/22"
+    ],
+    "ipv6": [
+      "2804:6b48::/32"
+    ]
   }
 }

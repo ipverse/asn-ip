@@ -3,7 +3,10 @@
   "handle": "WEBYNEDC-IN",
   "description": "WEBYNE DATA CENTRE PRIVATE LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "157.15.202.0/24",
+      "157.20.211.0/24"
+    ],
     "ipv6": []
   }
 }

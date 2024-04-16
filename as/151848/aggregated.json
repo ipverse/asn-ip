@@ -3,7 +3,9 @@
   "handle": "GULFCABLENETWORK-AP",
   "description": "GULF CABLE NETWORK (SMC-PVT.) LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "202.77.138.0/24"
+    ],
     "ipv6": []
   }
 }

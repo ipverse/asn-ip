@@ -3,7 +3,9 @@
   "handle": "POD",
   "description": "Podsystem Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.154.16.0/22"
+    ],
     "ipv6": []
   }
 }

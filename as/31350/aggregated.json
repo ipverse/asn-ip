@@ -3,7 +3,9 @@
   "handle": "ITM",
   "description": "Private enterprise ITM",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.151.56.0/22"
+    ],
     "ipv6": []
   }
 }

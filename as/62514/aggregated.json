@@ -3,7 +3,9 @@
   "handle": "VENUS-TEL-CORP",
   "description": "Venus Telephone Corporation",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "147.92.112.0/21"
+    ],
     "ipv6": []
   }
 }

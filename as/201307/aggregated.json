@@ -3,7 +3,11 @@
   "handle": "SOLAR-COMPANY",
   "description": "SOLAR COMPANY Spolka Akcyjna",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "155.133.120.0/24"
+    ],
+    "ipv6": [
+      "2a06:1e00:70::/48"
+    ]
   }
 }

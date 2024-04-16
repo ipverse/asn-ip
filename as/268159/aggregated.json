@@ -3,7 +3,9 @@
   "handle": "CD-TELECOMUNICACOES",
   "description": "CD TELECOMUNICACOES LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.170.116.0/22"
+    ],
     "ipv6": [
       "2804:58f0::/32"
     ]

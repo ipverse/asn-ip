@@ -3,7 +3,13 @@
   "handle": "HART-COMMUNICATIONS",
   "description": "HART COMMUNICATIONS, INC.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "64.179.192.0/20",
+      "69.168.32.0/20",
+      "162.246.152.0/22"
+    ],
+    "ipv6": [
+      "2606:c840::/36"
+    ]
   }
 }

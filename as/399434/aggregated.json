@@ -3,7 +3,9 @@
   "handle": "SFCC-EDU",
   "description": "Santa Fe Community College",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "198.176.219.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,11 @@
   "handle": "TECNET-PROVEDOR",
   "description": "TECNET PROVEDOR",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "170.239.80.0/22"
+    ],
+    "ipv6": [
+      "2804:3654::/32"
+    ]
   }
 }

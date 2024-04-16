@@ -3,7 +3,9 @@
   "handle": "GTU",
   "description": "Georgian Technical University",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "109.205.46.0/23"
+    ],
     "ipv6": []
   }
 }

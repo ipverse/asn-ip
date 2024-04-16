@@ -3,7 +3,9 @@
   "handle": "SCARSDALE-SCHOOLS",
   "description": "Scarsdale Schools District",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "168.100.171.0/24"
+    ],
     "ipv6": []
   }
 }

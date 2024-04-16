@@ -3,7 +3,13 @@
   "handle": "STARWIRE-TECHNOLOGIES",
   "description": "Starwire Technologies, LLC",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "130.51.156.0/22",
+      "199.48.62.0/24",
+      "204.197.164.0/22"
+    ],
+    "ipv6": [
+      "2606:c0c0::/32"
+    ]
   }
 }

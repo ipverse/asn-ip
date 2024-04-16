@@ -3,7 +3,9 @@
   "handle": "CHILDRENS-SEATTLE",
   "description": "Childrens Hospital and Regional Medical Center",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "146.79.0.0/16"
+    ],
     "ipv6": []
   }
 }

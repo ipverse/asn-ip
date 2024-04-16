@@ -3,7 +3,9 @@
   "handle": "KONYINDIAPVTLTD-AP",
   "description": "KONY INDIA PVT LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.140.124.0/24"
+    ],
     "ipv6": []
   }
 }

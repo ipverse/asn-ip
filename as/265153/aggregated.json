@@ -3,7 +3,10 @@
   "handle": "HARDONLINE",
   "description": "HARDONLINE LTDA - EPP",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "143.255.172.0/22",
+      "170.254.44.0/22"
+    ],
     "ipv6": []
   }
 }

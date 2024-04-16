@@ -3,7 +3,9 @@
   "handle": "BENET",
   "description": "Szymon Beltowski BENET",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.234.8.0/23"
+    ],
     "ipv6": []
   }
 }

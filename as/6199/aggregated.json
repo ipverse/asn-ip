@@ -3,7 +3,10 @@
   "handle": "COOPERUNION",
   "description": "Cooper Union",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.58.127.0/24",
+      "199.98.16.0/20"
+    ],
     "ipv6": []
   }
 }

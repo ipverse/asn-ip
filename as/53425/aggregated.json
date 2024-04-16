@@ -3,7 +3,9 @@
   "handle": "NEMC-WAN",
   "description": "North Carolina Electric Membership Corp",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "74.122.16.0/22"
+    ],
     "ipv6": []
   }
 }

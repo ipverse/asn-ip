@@ -3,7 +3,9 @@
   "handle": "VRDN",
   "description": "Village Networks Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.115.60.0/22"
+    ],
     "ipv6": []
   }
 }

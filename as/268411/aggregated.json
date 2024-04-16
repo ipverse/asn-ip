@@ -3,7 +3,9 @@
   "handle": "ASM-EQUIPAMENTOS-INFORMATICA",
   "description": "ASM EQUIPAMENTOS DE INFORMATICA LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.160.148.0/22"
+    ],
     "ipv6": []
   }
 }

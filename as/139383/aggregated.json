@@ -3,7 +3,9 @@
   "handle": "IDNIC-INDOBSD-ID",
   "description": "PT. INDONESIA BISNIS DIGITAL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.142.215.0/24"
+    ],
     "ipv6": []
   }
 }

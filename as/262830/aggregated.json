@@ -3,7 +3,9 @@
   "handle": "PLUG-PROVEDOR-INTERNET",
   "description": "Plug Provedor Internet LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "177.8.32.0/20"
+    ],
     "ipv6": [
       "2804:2a8::/32"
     ]

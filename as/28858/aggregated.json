@@ -3,7 +3,10 @@
   "handle": "LECOS",
   "description": "Lecos Online Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.242.116.0/22",
+      "195.78.58.0/23"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "TGNA-KSDK",
   "description": "TEGNA Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "167.8.8.0/24"
+    ],
     "ipv6": []
   }
 }

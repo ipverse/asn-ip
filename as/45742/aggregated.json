@@ -3,7 +3,9 @@
   "handle": "CYIENT-IN",
   "description": "Cyient Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "110.76.160.0/20"
+    ],
     "ipv6": []
   }
 }

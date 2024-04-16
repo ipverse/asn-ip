@@ -3,7 +3,9 @@
   "handle": "ARABSAT",
   "description": "Arab Satellite Communications Organization",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.231.41.0/24"
+    ],
     "ipv6": []
   }
 }

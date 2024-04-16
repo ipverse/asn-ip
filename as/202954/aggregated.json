@@ -3,7 +3,11 @@
   "handle": "RAPIDDOT",
   "description": "Rapiddot Hosting Services Ltd",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "185.149.88.0/22"
+    ],
+    "ipv6": [
+      "2a07:6680::/29"
+    ]
   }
 }

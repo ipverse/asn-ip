@@ -3,7 +3,11 @@
   "handle": "INFRANET",
   "description": "Infranet S.p.A.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "185.201.240.0/22"
+    ],
+    "ipv6": [
+      "2a0a:cc40::/29"
+    ]
   }
 }

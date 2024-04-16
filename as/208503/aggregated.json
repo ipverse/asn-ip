@@ -3,7 +3,9 @@
   "handle": "LORD",
   "description": "LLC LORD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "178.170.232.0/24"
+    ],
     "ipv6": []
   }
 }

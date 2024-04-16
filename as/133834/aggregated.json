@@ -3,7 +3,9 @@
   "handle": "IDNIC-ICBC-ID",
   "description": "Bank ICBC Indonesia",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.58.104.0/23"
+    ],
     "ipv6": []
   }
 }

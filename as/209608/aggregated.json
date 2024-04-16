@@ -3,7 +3,11 @@
   "handle": "CITYOFATHENS",
   "description": "Municipality of Athens",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "193.186.200.0/22"
+    ],
+    "ipv6": [
+      "2a0d:76c0::/48"
+    ]
   }
 }

@@ -3,7 +3,9 @@
   "handle": "NEST-LLC",
   "description": "Nest LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.40.34.0/24"
+    ],
     "ipv6": []
   }
 }

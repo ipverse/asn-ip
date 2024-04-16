@@ -3,7 +3,11 @@
   "handle": "BRASILNET-INTERNET-BANDA",
   "description": "BRASILNET INTERNET BANDA LARGA LTDA-ME",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "201.182.220.0/22"
+    ],
+    "ipv6": [
+      "2804:42fc::/32"
+    ]
   }
 }

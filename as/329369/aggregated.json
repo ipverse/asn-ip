@@ -3,7 +3,9 @@
   "handle": "JNCS-PTY",
   "description": "JNCS PTY LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "102.210.132.0/22"
+    ],
     "ipv6": []
   }
 }

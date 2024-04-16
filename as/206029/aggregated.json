@@ -3,7 +3,9 @@
   "handle": "ATTREL",
   "description": "UAB Attrel",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.198.136.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "GC-5222",
   "description": "Global Cloud Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.184.16.0/22"
+    ],
     "ipv6": []
   }
 }

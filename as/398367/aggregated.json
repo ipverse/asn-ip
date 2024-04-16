@@ -3,7 +3,9 @@
   "handle": "QUIC-CLOUD",
   "description": "Lite Speed Technologies Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "64.66.240.0/23"
+    ],
     "ipv6": []
   }
 }

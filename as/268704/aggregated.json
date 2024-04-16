@@ -3,7 +3,9 @@
   "handle": "PERNAMBUCO-TELECOM",
   "description": "PERNAMBUCO TELECOM LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.171.88.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "AAAE",
   "description": "American Association of Airport Executives",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "64.178.28.0/24"
+    ],
     "ipv6": []
   }
 }

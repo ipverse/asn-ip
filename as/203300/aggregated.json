@@ -3,7 +3,9 @@
   "handle": "SPEED",
   "description": "Internet Vikings International AB",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.139.152.0/22"
+    ],
     "ipv6": []
   }
 }

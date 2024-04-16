@@ -3,7 +3,9 @@
   "handle": "PIKEMEDCENTER",
   "description": "Pikeville Medical Center",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "69.176.41.0/24"
+    ],
     "ipv6": []
   }
 }

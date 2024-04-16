@@ -3,7 +3,11 @@
   "handle": "SUGARSYNC",
   "description": "IPVanish, Inc.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "208.94.4.0/22"
+    ],
+    "ipv6": [
+      "2607:fb50::/32"
+    ]
   }
 }

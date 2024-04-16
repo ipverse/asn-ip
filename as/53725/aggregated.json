@@ -3,7 +3,9 @@
   "handle": "PBF",
   "description": "PBF Holding Company LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "173.251.91.0/24"
+    ],
     "ipv6": []
   }
 }

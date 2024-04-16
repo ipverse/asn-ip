@@ -3,7 +3,9 @@
   "handle": "SN-COMUNICACIONES",
   "description": "SN COMUNICACIONES",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "138.117.8.0/22"
+    ],
     "ipv6": []
   }
 }

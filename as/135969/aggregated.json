@@ -3,7 +3,9 @@
   "handle": "SENDO-VN",
   "description": "Sen Do Technology Joint Stock Company",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.137.186.0/23"
+    ],
     "ipv6": []
   }
 }

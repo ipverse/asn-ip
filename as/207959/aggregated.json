@@ -3,7 +3,9 @@
   "handle": "XSSERVER",
   "description": "XSServer GmbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.142.183.0/24"
+    ],
     "ipv6": []
   }
 }

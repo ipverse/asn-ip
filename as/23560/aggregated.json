@@ -3,7 +3,9 @@
   "handle": "METLIFEKOREA",
   "description": "MetLife Korea",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "61.41.206.0/24"
+    ],
     "ipv6": []
   }
 }

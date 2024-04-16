@@ -3,7 +3,11 @@
   "handle": "DTST-01",
   "description": "Deutsche Telefon Standard GmbH",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "92.60.208.0/22"
+    ],
+    "ipv6": [
+      "2a00:a780::/32"
+    ]
   }
 }

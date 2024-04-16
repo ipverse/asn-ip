@@ -3,7 +3,12 @@
   "handle": "MARLINLEASING",
   "description": "MARLIN LEASING CORPORATION",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "23.151.176.0/24",
+      "64.47.223.0/24"
+    ],
+    "ipv6": [
+      "2620:82:e000::/48"
+    ]
   }
 }

@@ -3,7 +3,9 @@
   "handle": "VIA-LOCAL-TELECOMUNICACOES",
   "description": "VIA LOCAL TELECOMUNICACOES LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.187.152.0/22"
+    ],
     "ipv6": []
   }
 }

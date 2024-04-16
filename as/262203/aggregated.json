@@ -3,7 +3,9 @@
   "handle": "VENSITESCOM-CA",
   "description": "VenSites.com C.A.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "200.124.121.0/24"
+    ],
     "ipv6": []
   }
 }

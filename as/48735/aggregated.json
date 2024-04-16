@@ -3,7 +3,9 @@
   "handle": "DELTAAT-AT",
   "description": "DELTA Digital Friesenbichler \u0026 Co Ges.m.b.H",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.130.198.0/24"
+    ],
     "ipv6": []
   }
 }

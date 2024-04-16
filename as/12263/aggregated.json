@@ -3,7 +3,9 @@
   "handle": "STBH",
   "description": "Saint Bernard Hospital",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "216.172.26.0/24"
+    ],
     "ipv6": []
   }
 }

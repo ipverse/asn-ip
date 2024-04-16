@@ -3,7 +3,9 @@
   "handle": "EJ",
   "description": "EJ Group Incorporated",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.154.131.0/24"
+    ],
     "ipv6": []
   }
 }

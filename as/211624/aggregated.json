@@ -3,7 +3,9 @@
   "handle": "TETRON",
   "description": "Tetron LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.253.55.0/24"
+    ],
     "ipv6": []
   }
 }

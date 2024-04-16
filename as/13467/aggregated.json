@@ -3,7 +3,9 @@
   "handle": "OTA-BGP-01",
   "description": "Oklahoma Turnpike Authority",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "98.182.110.0/23"
+    ],
     "ipv6": []
   }
 }

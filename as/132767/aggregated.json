@@ -3,7 +3,11 @@
   "handle": "APTSITEC-IN",
   "description": "ANDHRA PRADESH TECHNOLOGY SERVICES LIMITED",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "103.174.56.0/23"
+    ],
+    "ipv6": [
+      "2407:fb40::/32"
+    ]
   }
 }

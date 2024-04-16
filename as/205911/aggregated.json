@@ -3,7 +3,9 @@
   "handle": "UP3-CRICOVA",
   "description": "Uplink SRL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.51.120.0/24"
+    ],
     "ipv6": []
   }
 }

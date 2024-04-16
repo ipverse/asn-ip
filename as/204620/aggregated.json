@@ -3,7 +3,9 @@
   "handle": "EVOCABANK",
   "description": "EVOCABANK CJSC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "83.139.21.0/24"
+    ],
     "ipv6": []
   }
 }

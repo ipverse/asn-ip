@@ -3,7 +3,9 @@
   "handle": "ROCKTEL",
   "description": "ROCKTEL LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.216.244.0/22"
+    ],
     "ipv6": []
   }
 }

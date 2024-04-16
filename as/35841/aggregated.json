@@ -3,7 +3,9 @@
   "handle": "CHATS",
   "description": "CHATSWORTH PRODUCTS, INC.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "12.42.203.0/24"
+    ],
     "ipv6": []
   }
 }

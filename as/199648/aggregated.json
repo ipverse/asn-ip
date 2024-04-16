@@ -3,7 +3,9 @@
   "handle": "GOSC-NET",
   "description": "Instytut Gosc Media",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.181.177.0/24"
+    ],
     "ipv6": []
   }
 }

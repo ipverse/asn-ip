@@ -3,7 +3,9 @@
   "handle": "YARTV",
   "description": "YarTV Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "188.0.0.0/19"
+    ],
     "ipv6": []
   }
 }

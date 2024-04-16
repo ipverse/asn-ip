@@ -3,7 +3,10 @@
   "handle": "HIVOS",
   "description": "Stichting Hivos",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.152.212.0/24",
+      "185.152.214.0/24"
+    ],
     "ipv6": []
   }
 }

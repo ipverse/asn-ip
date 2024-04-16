@@ -3,7 +3,9 @@
   "handle": "WI-PLUS-SPA",
   "description": "WI-PLUS SPA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.186.148.0/22"
+    ],
     "ipv6": []
   }
 }

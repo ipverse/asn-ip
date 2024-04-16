@@ -3,7 +3,9 @@
   "handle": "TELES-27",
   "description": "Telestream, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "50.236.231.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,11 @@
   "handle": "IDNIC-BRAGANETWORK-ID",
   "description": "CV Brawijaya Giga Network",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "210.87.124.0/23"
+    ],
+    "ipv6": [
+      "2001:df3:7740::/48"
+    ]
   }
 }

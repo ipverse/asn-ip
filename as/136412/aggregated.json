@@ -3,7 +3,10 @@
   "handle": "TSI-AP",
   "description": "Titan System Integration Sdn Bhd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.86.178.0/23",
+      "103.133.132.0/23"
+    ],
     "ipv6": []
   }
 }

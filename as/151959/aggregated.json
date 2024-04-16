@@ -3,7 +3,9 @@
   "handle": "UOB-AP",
   "description": "Symphony Communication Public Company Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "203.151.185.0/24"
+    ],
     "ipv6": []
   }
 }

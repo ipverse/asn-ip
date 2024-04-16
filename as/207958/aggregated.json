@@ -3,7 +3,9 @@
   "handle": "GLSROMANIA",
   "description": "GLS General Logistics Systems Romania SRL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "89.39.93.0/24"
+    ],
     "ipv6": []
   }
 }

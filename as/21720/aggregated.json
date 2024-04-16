@@ -3,7 +3,9 @@
   "handle": "VOCALOCITY",
   "description": "Vocalocity, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "12.29.252.0/24"
+    ],
     "ipv6": []
   }
 }

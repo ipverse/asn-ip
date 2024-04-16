@@ -3,7 +3,9 @@
   "handle": "E-HEALTH",
   "description": "National Ehealth Operator CJSC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.217.157.0/24"
+    ],
     "ipv6": []
   }
 }

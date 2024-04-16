@@ -3,7 +3,9 @@
   "handle": "PORTERTECH-CONSULTING-LLC",
   "description": "PorterTech Consulting LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "46.232.72.0/24"
+    ],
     "ipv6": []
   }
 }

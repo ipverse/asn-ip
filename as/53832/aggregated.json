@@ -3,7 +3,10 @@
   "handle": "BOYCOM",
   "description": "Boycom Cablevision",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.129.112.0/20",
+      "209.65.72.0/21"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "MCS-AP",
   "description": "Maldives Customs Service",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.71.57.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "AIR-MOLDOVA",
   "description": "INTREPRINDEREA DE STAT COMPANIA AERIANA AIR MOLDOVA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.242.144.0/24"
+    ],
     "ipv6": []
   }
 }

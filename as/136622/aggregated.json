@@ -3,7 +3,10 @@
   "handle": "ESFB-AP",
   "description": "Equitas Small Finance Bank Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.94.167.0/24",
+      "103.96.250.0/24"
+    ],
     "ipv6": []
   }
 }

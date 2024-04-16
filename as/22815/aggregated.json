@@ -3,7 +3,9 @@
   "handle": "KELLY-INSURANCE-GROUP",
   "description": "Kelly and Associates Insurance Group",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "65.216.220.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "PMSPL-AU",
   "description": "Presilient Managed Services Pty Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.2.192.0/22"
+    ],
     "ipv6": []
   }
 }

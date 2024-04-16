@@ -3,7 +3,9 @@
   "handle": "METAVIRA",
   "description": "Metavira LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.190.7.0/24"
+    ],
     "ipv6": []
   }
 }

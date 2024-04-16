@@ -3,7 +3,9 @@
   "handle": "FERC-FED-US",
   "description": "Federal Energy Regulatory Commission",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "204.87.16.0/20"
+    ],
     "ipv6": []
   }
 }

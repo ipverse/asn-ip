@@ -3,7 +3,9 @@
   "handle": "IDNIC-ESAUNGGUL-ID",
   "description": "Universitas Esa Unggul",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.59.92.0/23"
+    ],
     "ipv6": []
   }
 }

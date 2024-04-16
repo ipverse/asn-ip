@@ -3,7 +3,10 @@
   "handle": "ASUMFT",
   "description": "Universitatea de Medicina si Farmacie Victor Babes Timisoara",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "80.96.191.0/24",
+      "193.230.232.0/24"
+    ],
     "ipv6": []
   }
 }

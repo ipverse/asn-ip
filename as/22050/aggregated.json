@@ -3,7 +3,9 @@
   "handle": "SDLANCPA",
   "description": "School District of Lancaster",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "173.188.156.0/24"
+    ],
     "ipv6": []
   }
 }

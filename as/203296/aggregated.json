@@ -3,7 +3,9 @@
   "handle": "DEI",
   "description": "Kristillinen Media Oy",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.139.168.0/22"
+    ],
     "ipv6": []
   }
 }

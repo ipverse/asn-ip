@@ -3,7 +3,12 @@
   "handle": "DB3-SERVICOS-TELECOMUNICACOES",
   "description": "DB3 SERVICOS DE TELECOMUNICACOES S.A",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "177.38.200.0/21"
+    ],
+    "ipv6": [
+      "2804:b3c:4000::/34",
+      "2804:b3c:c000::/34"
+    ]
   }
 }

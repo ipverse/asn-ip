@@ -3,7 +3,11 @@
   "handle": "SNRU-AP",
   "description": "Sakon Nakhon Rajabhat University",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "202.29.24.0/24"
+    ],
+    "ipv6": [
+      "2001:3c8:cb01::/48"
+    ]
   }
 }

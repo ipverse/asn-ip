@@ -3,7 +3,11 @@
   "handle": "CMCS-AP",
   "description": "COMCAST INDIA ENGINEERING CENTER I LLP",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "103.72.193.0/24"
+    ],
+    "ipv6": [
+      "2001:df4:2a00::/48"
+    ]
   }
 }

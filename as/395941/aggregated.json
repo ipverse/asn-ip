@@ -3,7 +3,10 @@
   "handle": "EAGLE-TECH",
   "description": "Eagle Technologies Incorporated",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "12.200.99.0/24",
+      "12.203.158.0/24"
+    ],
     "ipv6": []
   }
 }

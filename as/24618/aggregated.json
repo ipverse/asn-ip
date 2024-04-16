@@ -3,7 +3,9 @@
   "handle": "BIGLINE",
   "description": "Scientific Production Enterprise Technaukservice Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "81.17.129.0/24"
+    ],
     "ipv6": []
   }
 }

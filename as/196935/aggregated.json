@@ -3,7 +3,9 @@
   "handle": "INGUF",
   "description": "ING Uslugi Finansowe SA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.105.122.0/24"
+    ],
     "ipv6": []
   }
 }

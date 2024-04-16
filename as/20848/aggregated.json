@@ -3,7 +3,12 @@
   "handle": "ROSBUSINESSCONSULTING",
   "description": "ROSBUSINESSCONSULTING JSC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "80.68.240.0/20",
+      "185.72.228.0/22",
+      "185.134.204.0/23",
+      "185.134.207.0/24"
+    ],
     "ipv6": []
   }
 }

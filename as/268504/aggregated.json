@@ -3,7 +3,11 @@
   "handle": "VM-NET-TELECOM-EIRELI",
   "description": "VM NET TELECOM EIRELI",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.162.120.0/22"
+    ],
+    "ipv6": [
+      "2804:523c::/32"
+    ]
   }
 }

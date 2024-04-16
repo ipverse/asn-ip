@@ -3,7 +3,9 @@
   "handle": "GALVESTONISD",
   "description": "GALVESTON ISD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "198.246.160.0/24"
+    ],
     "ipv6": []
   }
 }

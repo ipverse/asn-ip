@@ -3,7 +3,9 @@
   "handle": "INTERFONE",
   "description": "Interfone Belgium SRL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "94.139.33.0/24"
+    ],
     "ipv6": []
   }
 }

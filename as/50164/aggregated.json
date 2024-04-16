@@ -3,7 +3,9 @@
   "handle": "TATNEFT",
   "description": "PJSC Tatneft",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "31.41.241.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "DESKTOP-NETWORK-SOLUTIONS",
   "description": "Desktop Network Solutions",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "169.255.228.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "RGL-ASN-1",
   "description": "JACK Entertainment LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "162.255.130.0/23"
+    ],
     "ipv6": []
   }
 }

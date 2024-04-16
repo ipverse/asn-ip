@@ -3,7 +3,11 @@
   "handle": "KORE-TM-DATA",
   "description": "KORE TM DATA PROCESSAMENTO DE DADOS LTDA.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "170.83.56.0/24"
+    ],
+    "ipv6": [
+      "2804:1f52::/32"
+    ]
   }
 }

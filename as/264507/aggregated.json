@@ -3,7 +3,9 @@
   "handle": "EMPREL-EMPRESA-MUNICIPAL",
   "description": "EMPREL - EMPRESA MUNICIPAL DE INFORMATICA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.207.206.0/24"
+    ],
     "ipv6": []
   }
 }

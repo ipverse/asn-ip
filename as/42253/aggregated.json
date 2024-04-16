@@ -3,7 +3,10 @@
   "handle": "TELSP",
   "description": "Telecom SP Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.232.214.0/23",
+      "193.232.216.0/23"
+    ],
     "ipv6": []
   }
 }

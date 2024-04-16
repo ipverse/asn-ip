@@ -3,7 +3,10 @@
   "handle": "CPCC",
   "description": "Central Piedmont Community College",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "152.43.0.0/16",
+      "198.62.72.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "INETWORX",
   "description": "iNetWorx AG",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.17.199.0/24"
+    ],
     "ipv6": []
   }
 }

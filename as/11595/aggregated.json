@@ -3,7 +3,10 @@
   "handle": "NETSONIC",
   "description": "Netsonic",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "66.180.160.0/20",
+      "216.235.64.0/20"
+    ],
     "ipv6": []
   }
 }

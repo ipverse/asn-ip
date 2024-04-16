@@ -3,7 +3,9 @@
   "handle": "MOBIT-AP",
   "description": "MOBILINK IT AS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "119.30.89.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,10 @@
   "handle": "CDMNET-CA",
   "description": "CDM.NET, C.A.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.255.24.0/22",
+      "206.0.89.0/24"
+    ],
     "ipv6": []
   }
 }

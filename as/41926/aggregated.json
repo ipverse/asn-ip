@@ -3,7 +3,9 @@
   "handle": "EBV",
   "description": "EBV ELEKTRONIK GMBH \u0026 Co.KG",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.34.100.0/22"
+    ],
     "ipv6": []
   }
 }

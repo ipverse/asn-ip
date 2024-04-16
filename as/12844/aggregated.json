@@ -3,7 +3,10 @@
   "handle": "BOUYGTEL-B2B",
   "description": "Bouygues Telecom SA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "5.253.152.0/23",
+      "193.178.138.0/24"
+    ],
     "ipv6": []
   }
 }

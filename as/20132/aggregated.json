@@ -3,7 +3,10 @@
   "handle": "SCOTIABANK",
   "description": "Bank of Nova Scotia",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.188.32.0/24",
+      "199.188.42.0/24"
+    ],
     "ipv6": []
   }
 }

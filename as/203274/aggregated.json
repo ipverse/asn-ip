@@ -3,7 +3,9 @@
   "handle": "BIDI-IN-VIB",
   "description": "BIDI IN V.I.B. DOO Skopje",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "198.133.206.0/24"
+    ],
     "ipv6": []
   }
 }

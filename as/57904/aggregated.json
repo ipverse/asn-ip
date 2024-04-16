@@ -3,7 +3,9 @@
   "handle": "ASVEVYNET",
   "description": "Vevynet s.r.o.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.236.40.0/22"
+    ],
     "ipv6": []
   }
 }

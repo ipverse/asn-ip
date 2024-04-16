@@ -3,7 +3,10 @@
   "handle": "UKRTVIN",
   "description": "UKRTVIN LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "95.164.48.0/24",
+      "185.191.150.0/24"
+    ],
     "ipv6": []
   }
 }

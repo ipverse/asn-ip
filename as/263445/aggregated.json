@@ -3,7 +3,11 @@
   "handle": "SEM-LIMITE-COMUNICAES",
   "description": "SEM LIMITE COMUNICAES LTDA - ME",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "177.91.164.0/22"
+    ],
+    "ipv6": [
+      "2804:11e0::/32"
+    ]
   }
 }

@@ -3,7 +3,11 @@
   "handle": "IVI-TECNOLOGIA-COMUNICAO",
   "description": "IVI TECNOLOGIA E COMUNICAO LTDA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "186.226.176.0/20"
+    ],
+    "ipv6": [
+      "2804:9e0::/32"
+    ]
   }
 }

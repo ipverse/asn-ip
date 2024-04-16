@@ -3,7 +3,10 @@
   "handle": "DGT-UZ",
   "description": "DANIEL GROUP TELECOM LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "146.120.232.0/23",
+      "193.222.110.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "AZ-INTL",
   "description": "AZ International L.L.C.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.135.140.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "IDNIC-PELINDO4-ID",
   "description": "PELABUHAN INDONESIA IV",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.219.76.0/24"
+    ],
     "ipv6": []
   }
 }

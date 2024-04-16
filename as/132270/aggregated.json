@@ -3,7 +3,9 @@
   "handle": "NABILBANKLIMITED-AP",
   "description": "Nabil Bank Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.71.242.0/23"
+    ],
     "ipv6": []
   }
 }

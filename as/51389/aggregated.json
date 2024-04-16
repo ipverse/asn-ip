@@ -3,7 +3,10 @@
   "handle": "SEVENGIS",
   "description": "SPA GALILEOSKY LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.157.252.0/23",
+      "185.157.254.0/24"
+    ],
     "ipv6": []
   }
 }

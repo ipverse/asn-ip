@@ -3,7 +3,9 @@
   "handle": "INTERCAMPO-EMPREENDIMENTOS-TECNOLGICOS",
   "description": "Intercampo Empreendimentos Tecnolgicos Ltda",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "138.255.24.0/22"
+    ],
     "ipv6": []
   }
 }

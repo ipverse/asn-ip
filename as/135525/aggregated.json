@@ -3,7 +3,9 @@
   "handle": "ECML-AP",
   "description": "Exoduspoint Capital Management Singapore, Pte. Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.155.50.0/23"
+    ],
     "ipv6": []
   }
 }

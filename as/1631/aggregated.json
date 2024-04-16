@@ -3,7 +3,10 @@
   "handle": "RADNET-MANAGEMENT-INC",
   "description": "Radnet Management, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "108.160.208.0/22",
+      "192.196.170.0/24"
+    ],
     "ipv6": []
   }
 }

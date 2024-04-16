@@ -3,7 +3,13 @@
   "handle": "PONTO-SAT-CONECT-EIRELI",
   "description": "PONTO SAT CONECT EIRELI ME",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "131.255.204.0/22",
+      "168.196.80.0/22",
+      "179.109.80.0/21"
+    ],
+    "ipv6": [
+      "2804:f60::/32"
+    ]
   }
 }

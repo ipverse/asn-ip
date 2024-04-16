@@ -3,7 +3,9 @@
   "handle": "NERDNET",
   "description": "nerdnet",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "217.170.15.0/24"
+    ],
     "ipv6": []
   }
 }

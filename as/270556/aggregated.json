@@ -3,7 +3,11 @@
   "handle": "GILE-TELECOM",
   "description": "GILE TELECOM LTDA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "190.115.72.0/22"
+    ],
+    "ipv6": [
+      "2804:6dcc::/32"
+    ]
   }
 }

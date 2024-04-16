@@ -3,7 +3,12 @@
   "handle": "CORREOS-TELECOM",
   "description": "Correos Telecom SA S.M.E.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "158.172.0.0/21",
+      "185.165.164.0/22"
+    ],
+    "ipv6": [
+      "2a0a:3e00::/29"
+    ]
   }
 }

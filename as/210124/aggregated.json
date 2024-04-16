@@ -3,7 +3,9 @@
   "handle": "IPACS",
   "description": "IP ACS SARL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.34.100.0/22"
+    ],
     "ipv6": []
   }
 }

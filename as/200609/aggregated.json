@@ -3,7 +3,9 @@
   "handle": "CHDE",
   "description": "CHDE Polska Spolka Akcyjna",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "155.133.122.0/24"
+    ],
     "ipv6": []
   }
 }

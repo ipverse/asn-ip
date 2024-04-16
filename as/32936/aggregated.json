@@ -3,7 +3,9 @@
   "handle": "LAKEWOODCHURCH",
   "description": "Lakewood Church",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.100.145.0/24"
+    ],
     "ipv6": []
   }
 }

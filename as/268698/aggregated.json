@@ -3,7 +3,11 @@
   "handle": "CONNECTCEU-TELECOM-EIRELI",
   "description": "CONNECTCEU TELECOM EIRELI",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.166.8.0/22"
+    ],
+    "ipv6": [
+      "2804:553c::/32"
+    ]
   }
 }

@@ -3,7 +3,9 @@
   "handle": "ASFAJNCOMCZ",
   "description": "FAJNCOM s.r.o.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.224.91.0/24"
+    ],
     "ipv6": []
   }
 }

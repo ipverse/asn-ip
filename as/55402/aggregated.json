@@ -3,7 +3,10 @@
   "handle": "PNB1COM-PH",
   "description": "Philippine National Bank",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.110.44.0/22",
+      "202.58.236.0/23"
+    ],
     "ipv6": []
   }
 }

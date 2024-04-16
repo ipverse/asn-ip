@@ -3,7 +3,9 @@
   "handle": "DIGITAL-TECHNOLOGY",
   "description": "Digital Technology Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.245.60.0/22"
+    ],
     "ipv6": []
   }
 }

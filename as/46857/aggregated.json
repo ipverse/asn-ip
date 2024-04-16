@@ -3,7 +3,11 @@
   "handle": "10X-NETWORKS",
   "description": "SSL Wireless, LLC",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "23.149.88.0/24"
+    ],
+    "ipv6": [
+      "2602:2b2::/36"
+    ]
   }
 }

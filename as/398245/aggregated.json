@@ -3,7 +3,9 @@
   "handle": "TS-1011",
   "description": "Trithium Solutions LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "142.202.10.0/24"
+    ],
     "ipv6": []
   }
 }

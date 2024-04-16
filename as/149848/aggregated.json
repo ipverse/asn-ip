@@ -3,7 +3,11 @@
   "handle": "CCNI-AP",
   "description": "CELEBRITY CABLE NETWORK INC",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "103.188.86.0/23"
+    ],
+    "ipv6": [
+      "2400:a1a0::/32"
+    ]
   }
 }

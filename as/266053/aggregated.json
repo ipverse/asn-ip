@@ -3,7 +3,11 @@
   "handle": "DESBRAVADORA-INTERNET-COMUNICAO",
   "description": "Desbravadora Internet e Comunicao Ltda",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.4.16.0/22"
+    ],
+    "ipv6": [
+      "2804:39d4::/32"
+    ]
   }
 }

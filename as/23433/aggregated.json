@@ -3,7 +3,9 @@
   "handle": "STAMPS-COM",
   "description": "STAMPS.COM",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.54.92.0/23"
+    ],
     "ipv6": []
   }
 }

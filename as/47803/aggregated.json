@@ -3,7 +3,9 @@
   "handle": "BUKA",
   "description": "BUKA TEKNOLOJI HIZMETLERI A.S.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.130.192.0/24"
+    ],
     "ipv6": []
   }
 }

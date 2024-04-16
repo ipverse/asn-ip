@@ -3,7 +3,9 @@
   "handle": "USUAL-TELECOM",
   "description": "USUAL TELECOM LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "190.52.68.0/22"
+    ],
     "ipv6": []
   }
 }

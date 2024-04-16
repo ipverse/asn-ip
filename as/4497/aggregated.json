@@ -3,7 +3,12 @@
   "handle": "UPSTEL-NET",
   "description": "Upsala Co-operative Telephone Association",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.91.120.0/22",
+      "204.9.232.0/22",
+      "204.15.152.0/21",
+      "204.252.180.0/22"
+    ],
     "ipv6": []
   }
 }

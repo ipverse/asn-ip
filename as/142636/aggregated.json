@@ -3,7 +3,9 @@
   "handle": "SPLS-AP",
   "description": "SynOption Pte. Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "36.50.59.0/24"
+    ],
     "ipv6": []
   }
 }

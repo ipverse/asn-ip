@@ -3,7 +3,10 @@
   "handle": "AST-SYSTEMS",
   "description": "Ast-Systems Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.206.148.0/23",
+      "195.54.40.0/23"
+    ],
     "ipv6": []
   }
 }

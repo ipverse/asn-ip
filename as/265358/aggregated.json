@@ -3,7 +3,9 @@
   "handle": "BRASILNET-SERVIOS-TELECOMUNICAES",
   "description": "Brasilnet Servios E Telecomunicaes Ltda-Me",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "168.181.240.0/22"
+    ],
     "ipv6": []
   }
 }

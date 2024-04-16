@@ -3,7 +3,10 @@
   "handle": "HCAS-1",
   "description": "Hanson Communications, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "167.100.0.0/23",
+      "216.47.32.0/22"
+    ],
     "ipv6": []
   }
 }

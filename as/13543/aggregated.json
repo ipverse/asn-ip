@@ -3,7 +3,11 @@
   "handle": "COOKEVILLE-TN-GOV",
   "description": "City of Cookeville",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "162.253.96.0/22"
+    ],
+    "ipv6": [
+      "2620:f4:c000::/48"
+    ]
   }
 }

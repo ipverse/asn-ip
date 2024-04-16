@@ -3,7 +3,9 @@
   "handle": "NEFILI",
   "description": "Madeo Consultant SAS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.50.112.0/22"
+    ],
     "ipv6": []
   }
 }

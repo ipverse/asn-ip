@@ -3,7 +3,9 @@
   "handle": "ING-MOSCOW",
   "description": "ING BANK (EURASIA) ZAO",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.198.155.0/24"
+    ],
     "ipv6": []
   }
 }

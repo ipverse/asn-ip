@@ -3,7 +3,9 @@
   "handle": "ASTTS",
   "description": "Joint Stock Company TTS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "82.147.73.0/24"
+    ],
     "ipv6": []
   }
 }

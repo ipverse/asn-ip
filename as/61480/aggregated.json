@@ -3,7 +3,9 @@
   "handle": "RED-INTERCABLE-DIGITAL",
   "description": "Red Intercable Digital S.A.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "190.103.242.0/24"
+    ],
     "ipv6": []
   }
 }

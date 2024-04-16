@@ -3,7 +3,9 @@
   "handle": "ZONER",
   "description": "Zoner Oy",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "5.44.240.0/21"
+    ],
     "ipv6": []
   }
 }

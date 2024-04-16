@@ -3,7 +3,9 @@
   "handle": "DOMUS-TELECOM",
   "description": "DOMUS TELECOM",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "191.243.176.0/20"
+    ],
     "ipv6": []
   }
 }

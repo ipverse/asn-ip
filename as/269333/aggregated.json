@@ -3,7 +3,11 @@
   "handle": "TECNOSUL-PROVEDOR-INTERNET",
   "description": "Tecnosul Provedor de Internet Ltda",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.183.76.0/22"
+    ],
+    "ipv6": [
+      "2804:6304::/32"
+    ]
   }
 }

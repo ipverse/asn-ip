@@ -3,7 +3,9 @@
   "handle": "GENESIS-TECHNOLOGY",
   "description": "Genesis Wireless",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "74.117.240.0/22"
+    ],
     "ipv6": []
   }
 }

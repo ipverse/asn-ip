@@ -3,7 +3,9 @@
   "handle": "SUEC",
   "description": "Staedtische Werke Ueberlandwerke Coburg GmbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "212.102.120.0/24"
+    ],
     "ipv6": []
   }
 }

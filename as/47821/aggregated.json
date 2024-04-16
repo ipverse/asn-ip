@@ -3,7 +3,9 @@
   "handle": "IF-DISCOVERY",
   "description": "Skillvps LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.242.242.0/24"
+    ],
     "ipv6": []
   }
 }

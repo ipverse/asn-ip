@@ -3,7 +3,9 @@
   "handle": "VAEKSTFONDEN",
   "description": "Danmarks Eksport- og Investeringsfond",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.245.201.0/24"
+    ],
     "ipv6": []
   }
 }

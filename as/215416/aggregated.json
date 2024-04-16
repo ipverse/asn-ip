@@ -3,7 +3,9 @@
   "handle": "MAGNET",
   "description": "VIGEN PETROSYAN trading as SAMVELI",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "5.134.87.0/24"
+    ],
     "ipv6": []
   }
 }

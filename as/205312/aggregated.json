@@ -3,7 +3,10 @@
   "handle": "CCT-KRD",
   "description": "OOO Sovremennye setevye tekhnologii",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "37.220.164.0/24",
+      "185.17.169.0/24"
+    ],
     "ipv6": []
   }
 }

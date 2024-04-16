@@ -3,7 +3,10 @@
   "handle": "CIGNA-2",
   "description": "CIGNA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "170.48.16.0/20",
+      "170.48.48.0/20"
+    ],
     "ipv6": []
   }
 }

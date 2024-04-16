@@ -3,7 +3,9 @@
   "handle": "CONECTARSE",
   "description": "CONECTARSE SRL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "170.246.40.0/22"
+    ],
     "ipv6": []
   }
 }

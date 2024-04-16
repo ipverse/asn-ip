@@ -3,7 +3,12 @@
   "handle": "HONOS-DATA-EXCHANGE",
   "description": "Honos Data Exchange Informtica Ltda",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "138.117.0.0/24",
+      "179.96.224.0/21"
+    ],
+    "ipv6": [
+      "2804:10f0::/32"
+    ]
   }
 }

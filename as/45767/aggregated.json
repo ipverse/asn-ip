@@ -3,7 +3,9 @@
   "handle": "FNIS-IN",
   "description": "FIS global Solutions India Private Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "203.89.152.0/22"
+    ],
     "ipv6": []
   }
 }

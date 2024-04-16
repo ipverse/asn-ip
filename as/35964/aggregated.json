@@ -3,7 +3,9 @@
   "handle": "ASN1-MNC",
   "description": "March Networks Corporation",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "205.189.42.0/24"
+    ],
     "ipv6": []
   }
 }

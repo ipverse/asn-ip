@@ -3,7 +3,11 @@
   "handle": "OUTREMER-TELECOM-DIGITAL-SOLUTIONS",
   "description": "Outremer Telecom Digital Solutions Ltd",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "102.222.25.0/24"
+    ],
+    "ipv6": [
+      "2c0f:5140::/32"
+    ]
   }
 }

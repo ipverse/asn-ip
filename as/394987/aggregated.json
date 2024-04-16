@@ -3,7 +3,9 @@
   "handle": "SSC-AS1",
   "description": "Southern States Cooperative, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "198.62.79.0/24"
+    ],
     "ipv6": []
   }
 }

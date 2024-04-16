@@ -3,7 +3,9 @@
   "handle": "UWF",
   "description": "University of West Florida",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "143.88.0.0/16"
+    ],
     "ipv6": []
   }
 }

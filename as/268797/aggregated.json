@@ -3,7 +3,11 @@
   "handle": "SETE-CONNECT-TECNOLOGIA",
   "description": "SETE CONNECT TECNOLOGIA DA INFORMACAO",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.172.244.0/22"
+    ],
+    "ipv6": [
+      "2804:5acc::/32"
+    ]
   }
 }

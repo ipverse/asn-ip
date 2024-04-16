@@ -3,7 +3,9 @@
   "handle": "CYCLE",
   "description": "PE Cycle-Plus",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.19.86.0/23"
+    ],
     "ipv6": []
   }
 }

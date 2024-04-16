@@ -3,7 +3,12 @@
   "handle": "ITANET-FIBER-PROVEDOR",
   "description": "Itanet Fiber Provedor",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "186.2.248.0/22"
+    ],
+    "ipv6": [
+      "2804:3ba8::/33",
+      "2804:3ba8:ff00::/40"
+    ]
   }
 }

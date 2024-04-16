@@ -3,7 +3,9 @@
   "handle": "IDNIC-NOMADEN-ID",
   "description": "PT Aplikasi Platform Nomaden",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.184.64.0/24"
+    ],
     "ipv6": []
   }
 }

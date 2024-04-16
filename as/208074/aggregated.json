@@ -3,7 +3,11 @@
   "handle": "FR-CARAIBE",
   "description": "faraux frederic",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.154.63.0/24"
+    ],
+    "ipv6": [
+      "2a0f:b100:300::/40"
+    ]
   }
 }

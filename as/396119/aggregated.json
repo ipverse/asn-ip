@@ -3,7 +3,9 @@
   "handle": "AVERA-ECARE",
   "description": "AVERA MCKENNAN",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "170.76.143.0/24"
+    ],
     "ipv6": []
   }
 }

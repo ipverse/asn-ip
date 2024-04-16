@@ -3,7 +3,9 @@
   "handle": "HBPW",
   "description": "Holland Board of Public Works",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "104.36.72.0/22"
+    ],
     "ipv6": []
   }
 }

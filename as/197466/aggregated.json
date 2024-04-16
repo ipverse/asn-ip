@@ -3,7 +3,9 @@
   "handle": "TECHNOBRIDGE",
   "description": "SIA TechnoBridge",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.162.74.0/24"
+    ],
     "ipv6": []
   }
 }

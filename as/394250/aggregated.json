@@ -3,7 +3,10 @@
   "handle": "PDS-DC1",
   "description": "Pacific Dental Services",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "128.136.37.0/24",
+      "199.71.159.0/24"
+    ],
     "ipv6": []
   }
 }

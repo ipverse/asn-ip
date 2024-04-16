@@ -3,7 +3,9 @@
   "handle": "YCAS",
   "description": "Yotta Connect LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.133.178.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "VGN",
   "description": "VGN Medien Holding GmbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.190.15.0/24"
+    ],
     "ipv6": []
   }
 }

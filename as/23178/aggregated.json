@@ -3,7 +3,9 @@
   "handle": "MMI-NET",
   "description": "MONEY MANAGEMENT INTERNATIONAL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "8.38.5.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "BUKKYO-U",
   "description": "Bukkyo University",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "202.254.196.0/22"
+    ],
     "ipv6": []
   }
 }

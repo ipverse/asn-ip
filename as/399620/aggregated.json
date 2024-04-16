@@ -3,7 +3,9 @@
   "handle": "NCISD",
   "description": "New Caney ISD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "209.209.89.0/24"
+    ],
     "ipv6": []
   }
 }

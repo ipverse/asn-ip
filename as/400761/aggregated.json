@@ -3,7 +3,9 @@
   "handle": "MUN-NIDR",
   "description": "PIMCO",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "144.77.146.0/24"
+    ],
     "ipv6": []
   }
 }

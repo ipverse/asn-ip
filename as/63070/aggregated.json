@@ -3,7 +3,9 @@
   "handle": "UOVO-ART",
   "description": "Uovo Art LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.94.161.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,10 @@
   "handle": "ELBONET",
   "description": "Bogusz Tucholski and Michal Senger trading as Elbonet Sp.J.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.230.28.0/22",
+      "193.188.198.0/23"
+    ],
     "ipv6": []
   }
 }

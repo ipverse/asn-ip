@@ -3,7 +3,10 @@
   "handle": "ORB-ASN-ME-1",
   "description": "Outer Reach Broadband LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.252.180.0/22",
+      "205.164.108.0/22"
+    ],
     "ipv6": []
   }
 }

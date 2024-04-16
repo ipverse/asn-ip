@@ -3,7 +3,9 @@
   "handle": "CONSUMER",
   "description": "Kasamba Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "162.217.156.0/24"
+    ],
     "ipv6": []
   }
 }

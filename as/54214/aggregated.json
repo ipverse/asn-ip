@@ -3,7 +3,9 @@
   "handle": "CCMH-AS1",
   "description": "Comanche County Memorial Hospital",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "204.63.216.0/21"
+    ],
     "ipv6": []
   }
 }

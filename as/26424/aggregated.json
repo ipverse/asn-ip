@@ -3,7 +3,9 @@
   "handle": "WINTECIND",
   "description": "Wintec Industries, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "64.84.8.0/23"
+    ],
     "ipv6": []
   }
 }

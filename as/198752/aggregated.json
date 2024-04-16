@@ -3,7 +3,9 @@
   "handle": "WRO2012",
   "description": "Stadion Wroclaw Sp. z o.o.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.0.128.0/24"
+    ],
     "ipv6": []
   }
 }

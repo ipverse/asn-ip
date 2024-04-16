@@ -3,7 +3,10 @@
   "handle": "CORE",
   "description": "CORE Electric Cooperative",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.143.229.0/24",
+      "38.143.233.0/24"
+    ],
     "ipv6": []
   }
 }

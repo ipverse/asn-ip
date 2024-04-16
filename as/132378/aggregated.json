@@ -3,7 +3,9 @@
   "handle": "MIL-AP",
   "description": "Merino Industries Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.15.159.0/24"
+    ],
     "ipv6": []
   }
 }

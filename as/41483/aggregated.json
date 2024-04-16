@@ -3,7 +3,9 @@
   "handle": "NWN",
   "description": "Telia Norge AS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "89.254.64.0/18"
+    ],
     "ipv6": []
   }
 }

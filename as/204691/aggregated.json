@@ -3,7 +3,9 @@
   "handle": "TIPNET",
   "description": "PLAYMAX s.r.o.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.242.189.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "TEGNA-CORP-EAST1",
   "description": "TEGNA Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "167.8.126.0/24"
+    ],
     "ipv6": []
   }
 }

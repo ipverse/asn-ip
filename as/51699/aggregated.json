@@ -3,7 +3,11 @@
   "handle": "ASNETZFABRIK",
   "description": "Giuliano Schindler",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "194.28.96.0/24"
+    ],
+    "ipv6": [
+      "2a05:4741:6::/48"
+    ]
   }
 }

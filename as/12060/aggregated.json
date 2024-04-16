@@ -3,7 +3,9 @@
   "handle": "NAPCFL",
   "description": "NAP OF CENTRAL FLORIDA, INC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "108.59.22.0/24"
+    ],
     "ipv6": []
   }
 }

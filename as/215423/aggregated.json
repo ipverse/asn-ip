@@ -3,7 +3,12 @@
   "handle": "FLASHFIBER",
   "description": "FIFTH GENERTION NEW AGE LTD",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "37.122.152.0/24",
+      "176.106.228.0/24"
+    ],
+    "ipv6": [
+      "2a14:bc0::/29"
+    ]
   }
 }

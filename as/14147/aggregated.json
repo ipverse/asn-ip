@@ -3,7 +3,9 @@
   "handle": "BFSFCU",
   "description": "Bank-Fund Staff Federal Credit Union",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "64.125.98.0/24"
+    ],
     "ipv6": []
   }
 }

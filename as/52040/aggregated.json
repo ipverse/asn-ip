@@ -3,7 +3,11 @@
   "handle": "KITEJ-TELECOM",
   "description": "LLC MediaKvant",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.221.200.0/23",
+      "91.237.200.0/22",
+      "194.60.236.0/22"
+    ],
     "ipv6": []
   }
 }

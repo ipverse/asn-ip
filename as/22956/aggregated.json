@@ -3,7 +3,9 @@
   "handle": "AST",
   "description": "American Stock Transfer \u0026 Trust Co.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "66.128.13.0/24"
+    ],
     "ipv6": []
   }
 }

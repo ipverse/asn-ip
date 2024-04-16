@@ -3,7 +3,9 @@
   "handle": "TRIMOTION",
   "description": "TRIMOTION S.R.L.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.234.116.0/22"
+    ],
     "ipv6": []
   }
 }

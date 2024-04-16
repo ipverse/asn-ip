@@ -4,6 +4,8 @@
   "description": "NEXTGEN NETWORKS SOLUTIONS S.A.C.",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2803:4850::/32"
+    ]
   }
 }

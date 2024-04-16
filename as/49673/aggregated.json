@@ -3,7 +3,12 @@
   "handle": "TRUENETWORK",
   "description": "Truenetwork LLC",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "94.247.104.0/21",
+      "185.54.244.0/22"
+    ],
+    "ipv6": [
+      "2a02:47a0:a::/48"
+    ]
   }
 }

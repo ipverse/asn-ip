@@ -3,7 +3,11 @@
   "handle": "VISITEC-VN",
   "description": "Vinh Railway Signalling - Telecom Joint Stock Company",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "103.154.176.0/23"
+    ],
+    "ipv6": [
+      "2001:df4:9380::/48"
+    ]
   }
 }

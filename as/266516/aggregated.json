@@ -3,7 +3,11 @@
   "handle": "NAVEGANET-COMERCIO-SERVIOS",
   "description": "Naveganet Comercio e Servios Eirele",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "170.245.64.0/22"
+    ],
+    "ipv6": [
+      "2804:38fc::/32"
+    ]
   }
 }

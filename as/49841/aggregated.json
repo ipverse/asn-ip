@@ -3,7 +3,9 @@
   "handle": "EXPO",
   "description": "JSC Expobank",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.242.8.0/23"
+    ],
     "ipv6": []
   }
 }

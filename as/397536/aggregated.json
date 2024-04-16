@@ -3,7 +3,9 @@
   "handle": "CLOUDCONNECTIV",
   "description": "Cloud Connectiv Incorporated",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "160.72.221.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "INET",
   "description": "iNet LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.157.182.0/23"
+    ],
     "ipv6": []
   }
 }

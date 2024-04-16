@@ -3,7 +3,10 @@
   "handle": "REAL-TIME",
   "description": "Real Time Enterprises, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "63.170.91.0/24",
+      "65.193.16.0/23"
+    ],
     "ipv6": []
   }
 }

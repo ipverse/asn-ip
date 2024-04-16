@@ -3,7 +3,9 @@
   "handle": "CRC-AP",
   "description": "Catholic Regional College Caroline Springs",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.144.95.0/24"
+    ],
     "ipv6": []
   }
 }

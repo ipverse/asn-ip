@@ -3,7 +3,9 @@
   "handle": "BPH",
   "description": "Bank BPH S.A.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.138.110.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,12 @@
   "handle": "TOUCHTONE-NEWARK",
   "description": "TouchTone Communications",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "140.174.27.0/24",
+      "165.254.30.0/24",
+      "165.254.166.0/24",
+      "192.104.111.0/24"
+    ],
     "ipv6": []
   }
 }

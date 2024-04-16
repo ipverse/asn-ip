@@ -3,7 +3,9 @@
   "handle": "ULINECOM",
   "description": "Uline",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "64.30.154.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "METROLIST-SAC",
   "description": "MetroList Services, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.58.193.0/24"
+    ],
     "ipv6": []
   }
 }

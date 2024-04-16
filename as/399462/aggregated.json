@@ -3,7 +3,11 @@
   "handle": "SUMO-TEXAS",
   "description": "Sumofiber",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "38.70.250.0/23"
+    ],
+    "ipv6": [
+      "2604:f582::/32"
+    ]
   }
 }

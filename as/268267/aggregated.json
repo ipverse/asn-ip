@@ -3,7 +3,11 @@
   "handle": "INFONET-TELECOMUNICACOES",
   "description": "INFONET TELECOMUNICACOES LTDA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.237.92.0/22"
+    ],
+    "ipv6": [
+      "2804:4e88::/32"
+    ]
   }
 }

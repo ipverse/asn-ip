@@ -3,7 +3,9 @@
   "handle": "SI-JAPET",
   "description": "Japet d.o.o.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.33.48.0/23"
+    ],
     "ipv6": []
   }
 }

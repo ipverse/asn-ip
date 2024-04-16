@@ -3,7 +3,9 @@
   "handle": "TK-ALPHA",
   "description": "TK Alfa JSC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "95.85.84.0/24"
+    ],
     "ipv6": []
   }
 }

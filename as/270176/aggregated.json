@@ -3,7 +3,10 @@
   "handle": "WIFIMAX-CONNECTION",
   "description": "WIFIMAX CONNECTION S.A.S DE C.V",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.45.242.0/24",
+      "89.213.106.0/24"
+    ],
     "ipv6": []
   }
 }

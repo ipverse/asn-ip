@@ -3,7 +3,9 @@
   "handle": "VAM",
   "description": "KOREA INVESTMENT VALUE ASSET MANAGEMENT Co., Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "125.129.169.0/24"
+    ],
     "ipv6": []
   }
 }

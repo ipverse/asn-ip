@@ -3,7 +3,10 @@
   "handle": "ECOM-SPARE",
   "description": "Electronic Communities Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "44.31.254.0/24",
+      "44.32.48.0/22"
+    ],
     "ipv6": []
   }
 }

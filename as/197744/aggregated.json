@@ -3,7 +3,10 @@
   "handle": "MONECAM",
   "description": "Credit Agricole-Group Infrastructure Platform (CA-GIP) SAS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.237.212.0/24",
+      "195.128.149.0/24"
+    ],
     "ipv6": []
   }
 }

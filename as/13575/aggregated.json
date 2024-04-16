@@ -3,7 +3,9 @@
   "handle": "WISCONSINPUBLICPOWER",
   "description": "Wisconsin Public Power, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "208.73.95.0/24"
+    ],
     "ipv6": []
   }
 }

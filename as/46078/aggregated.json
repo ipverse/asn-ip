@@ -3,7 +3,9 @@
   "handle": "DDAP-KBT-AP",
   "description": "Dimension Data Asia Pacific Pte. Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "152.102.145.0/24"
+    ],
     "ipv6": []
   }
 }

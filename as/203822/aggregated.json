@@ -3,7 +3,10 @@
   "handle": "MKB-WEBHOSTER",
   "description": "MKBWebhoster BV",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "31.207.48.0/22",
+      "185.69.60.0/22"
+    ],
     "ipv6": []
   }
 }

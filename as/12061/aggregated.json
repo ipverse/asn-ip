@@ -3,7 +3,11 @@
   "handle": "24HOURFITNESS",
   "description": "24 Hour Fitness USA, Inc.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "63.64.130.0/23"
+    ],
+    "ipv6": [
+      "2620:1fb::/36"
+    ]
   }
 }

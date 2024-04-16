@@ -3,7 +3,10 @@
   "handle": "ANANYAA-IN",
   "description": "ANANYA COMPUTERS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.115.62.0/24",
+      "103.188.76.0/23"
+    ],
     "ipv6": []
   }
 }

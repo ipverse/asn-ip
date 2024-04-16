@@ -3,7 +3,10 @@
   "handle": "STARVAN",
   "description": "DAOUDATA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "123.140.121.0/24",
+      "222.106.99.0/24"
+    ],
     "ipv6": []
   }
 }

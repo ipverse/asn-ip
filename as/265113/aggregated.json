@@ -3,7 +3,11 @@
   "handle": "SALES-TELECOM-INFORMATICA",
   "description": "Sales Telecom e Informatica",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "170.254.108.0/22"
+    ],
+    "ipv6": [
+      "2804:330c::/32"
+    ]
   }
 }

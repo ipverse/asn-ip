@@ -3,7 +3,10 @@
   "handle": "PICOTRADING",
   "description": "Pico Quantitative Trading, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "64.38.111.0/24",
+      "216.10.234.0/24"
+    ],
     "ipv6": []
   }
 }

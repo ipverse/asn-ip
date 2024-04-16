@@ -3,7 +3,9 @@
   "handle": "OKLAKO",
   "description": "OKLAKO SRL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "93.119.104.0/24"
+    ],
     "ipv6": []
   }
 }

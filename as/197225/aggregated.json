@@ -3,7 +3,10 @@
   "handle": "AIRNET",
   "description": "UAB Airnet TV",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "78.31.224.0/21",
+      "94.232.120.0/21"
+    ],
     "ipv6": []
   }
 }

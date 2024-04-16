@@ -3,7 +3,15 @@
   "handle": "TECHDIGITAL",
   "description": "Angelastri Giuseppe trading as TechDigital",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "149.12.96.0/24",
+      "149.100.164.0/24",
+      "154.56.195.0/24",
+      "154.56.202.0/24",
+      "185.148.100.0/22"
+    ],
+    "ipv6": [
+      "2a0f:57c0::/32"
+    ]
   }
 }

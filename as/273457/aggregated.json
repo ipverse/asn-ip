@@ -3,7 +3,11 @@
   "handle": "WAVE-LINK-TELECOM",
   "description": "WAVE LINK TELECOM LTDA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "205.164.222.0/23"
+    ],
+    "ipv6": [
+      "2804:8ef0::/32"
+    ]
   }
 }

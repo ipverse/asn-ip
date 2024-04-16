@@ -3,7 +3,9 @@
   "handle": "FIRELINE-AP",
   "description": "HONG KONG FIRELINE NETWORK TECHNOLOGY CO., LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "156.247.32.0/19"
+    ],
     "ipv6": []
   }
 }

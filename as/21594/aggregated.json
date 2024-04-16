@@ -3,7 +3,9 @@
   "handle": "IBSA",
   "description": "Interstate Battery System of America Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "198.168.116.0/23"
+    ],
     "ipv6": []
   }
 }

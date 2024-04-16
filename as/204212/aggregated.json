@@ -3,7 +3,11 @@
   "handle": "LYREG3",
   "description": "La Lyre du G3",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "185.106.160.0/22"
+    ],
+    "ipv6": [
+      "2a0d:6c80::/29"
+    ]
   }
 }

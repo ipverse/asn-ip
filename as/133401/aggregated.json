@@ -3,7 +3,9 @@
   "handle": "FREEDOM-INTERNET-AU",
   "description": "Devoli LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.141.102.0/24"
+    ],
     "ipv6": []
   }
 }

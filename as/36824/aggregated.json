@@ -3,7 +3,9 @@
   "handle": "ADTAQ",
   "description": "Adtaq Internet, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "208.88.16.0/21"
+    ],
     "ipv6": []
   }
 }

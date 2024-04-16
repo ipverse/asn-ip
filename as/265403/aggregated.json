@@ -3,7 +3,11 @@
   "handle": "JDISP-TELECOM",
   "description": "JDISP TELECOM",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "168.194.112.0/22"
+    ],
+    "ipv6": [
+      "2804:338c::/32"
+    ]
   }
 }

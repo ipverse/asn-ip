@@ -3,7 +3,9 @@
   "handle": "SVH-KS-INET-01",
   "description": "STORMONT-VAIL HEALTHCARE, INC.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "98.185.11.0/24"
+    ],
     "ipv6": []
   }
 }

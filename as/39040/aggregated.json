@@ -3,7 +3,12 @@
   "handle": "NTSWORKSPACEAG",
   "description": "NTS workspace AG",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "194.187.89.0/24",
+      "194.187.90.0/23"
+    ],
+    "ipv6": [
+      "2a02:388::/32"
+    ]
   }
 }

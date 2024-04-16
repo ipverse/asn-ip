@@ -3,7 +3,9 @@
   "handle": "BUSAJM-MARIANA",
   "description": "BUSAJM MARIANA (RACK DIGITAL)",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.162.60.0/22"
+    ],
     "ipv6": []
   }
 }

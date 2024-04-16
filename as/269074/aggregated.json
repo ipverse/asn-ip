@@ -3,7 +3,11 @@
   "handle": "PORTALLNET-TELECOM",
   "description": "PortallNet Telecom",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.179.96.0/22"
+    ],
+    "ipv6": [
+      "2804:5f10::/33"
+    ]
   }
 }

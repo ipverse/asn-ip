@@ -3,7 +3,9 @@
   "handle": "OSSDS",
   "description": "OSSDS, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.74.220.0/22"
+    ],
     "ipv6": []
   }
 }

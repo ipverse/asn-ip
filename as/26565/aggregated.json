@@ -3,7 +3,9 @@
   "handle": "MDFDOR",
   "description": "City of Medford",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "209.237.76.0/24"
+    ],
     "ipv6": []
   }
 }

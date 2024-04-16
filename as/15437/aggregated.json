@@ -3,7 +3,9 @@
   "handle": "KJWS",
   "description": "CESENA NET S.R.L.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "62.220.64.0/20"
+    ],
     "ipv6": []
   }
 }

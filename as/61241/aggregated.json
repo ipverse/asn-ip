@@ -3,7 +3,10 @@
   "handle": "LOMNIDO-AS1",
   "description": "Lomnido, s.r.o.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.136.132.0/23",
+      "185.161.172.0/23"
+    ],
     "ipv6": []
   }
 }

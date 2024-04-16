@@ -3,7 +3,10 @@
   "handle": "HIMAWARI-NET",
   "description": "HimawariTV.Corporation",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "61.245.64.0/19",
+      "103.250.100.0/23"
+    ],
     "ipv6": []
   }
 }

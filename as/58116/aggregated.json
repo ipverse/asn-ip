@@ -3,7 +3,11 @@
   "handle": "ASMAMBA",
   "description": "Mamba JSC",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "193.0.170.0/23"
+    ],
+    "ipv6": [
+      "2001:678:568::/48"
+    ]
   }
 }

@@ -3,7 +3,10 @@
   "handle": "ADN",
   "description": "Agence pour le Developpement du Numrique",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "102.222.216.0/22",
+      "196.192.31.0/24"
+    ],
     "ipv6": []
   }
 }

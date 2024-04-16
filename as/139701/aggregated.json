@@ -3,7 +3,10 @@
   "handle": "PTPL-AP",
   "description": "Plasma Technologist Pvt Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.143.211.0/24",
+      "103.144.195.0/24"
+    ],
     "ipv6": []
   }
 }

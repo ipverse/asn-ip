@@ -3,7 +3,9 @@
   "handle": "NO-THALES",
   "description": "Thales Norway AS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "77.74.223.0/24"
+    ],
     "ipv6": []
   }
 }

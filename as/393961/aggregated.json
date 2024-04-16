@@ -3,7 +3,9 @@
   "handle": "FBB-INTERNET-ID",
   "description": "Farm Bureau Bank",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.203.219.0/24"
+    ],
     "ipv6": []
   }
 }

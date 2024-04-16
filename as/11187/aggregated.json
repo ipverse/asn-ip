@@ -3,7 +3,9 @@
   "handle": "RICHWEB",
   "description": "Global Web Solutions, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "208.74.80.0/21"
+    ],
     "ipv6": []
   }
 }

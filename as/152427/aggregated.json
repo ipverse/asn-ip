@@ -3,7 +3,9 @@
   "handle": "IDNIC-UNIPMA-ID",
   "description": "Universitas PGRI Madiun",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "157.20.193.0/24"
+    ],
     "ipv6": []
   }
 }

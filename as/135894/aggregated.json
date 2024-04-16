@@ -3,7 +3,9 @@
   "handle": "ASAPL-AP",
   "description": "Apple South Asia Pte Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "203.23.111.0/24"
+    ],
     "ipv6": []
   }
 }

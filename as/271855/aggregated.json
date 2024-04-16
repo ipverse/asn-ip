@@ -3,7 +3,9 @@
   "handle": "MANGO-NETWORK-C-MANGONET-C-A",
   "description": "MANGO NETWORK, C. A. MANGONET, C. A,",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "181.191.224.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "ACCESS-NP",
   "description": "Access World Tech Pvt. Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.233.56.0/22"
+    ],
     "ipv6": []
   }
 }

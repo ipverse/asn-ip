@@ -3,7 +3,9 @@
   "handle": "AUCCTUR",
   "description": "Resource Information Center of the Udmurt Republic",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.230.91.0/24"
+    ],
     "ipv6": []
   }
 }

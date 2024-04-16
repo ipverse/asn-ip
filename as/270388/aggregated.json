@@ -3,7 +3,11 @@
   "handle": "REDE-ULTRACONECTA-NET",
   "description": "REDE ULTRACONECTA NET LTDA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "190.89.120.0/22"
+    ],
+    "ipv6": [
+      "2804:6b40::/32"
+    ]
   }
 }

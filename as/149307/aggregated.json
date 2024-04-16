@@ -3,7 +3,9 @@
   "handle": "GOURMETFOODS-AP",
   "description": "Gourmet Foods",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.178.96.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,10 @@
   "handle": "HCN-INC",
   "description": "Hypercore Networks, Inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "104.36.220.0/23",
+      "104.36.222.0/24"
+    ],
     "ipv6": []
   }
 }

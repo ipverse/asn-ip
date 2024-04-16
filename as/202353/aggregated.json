@@ -3,7 +3,9 @@
   "handle": "TODOR",
   "description": "PE TRK Todor",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "31.148.168.0/24"
+    ],
     "ipv6": []
   }
 }

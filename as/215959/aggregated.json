@@ -3,7 +3,9 @@
   "handle": "NUSOUKMAN",
   "description": "NUSO CLOUD UK LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.38.231.0/24"
+    ],
     "ipv6": []
   }
 }

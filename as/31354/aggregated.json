@@ -3,7 +3,9 @@
   "handle": "IWAVE",
   "description": "IWAVE SOLUTIONS SRL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.234.182.0/24"
+    ],
     "ipv6": []
   }
 }

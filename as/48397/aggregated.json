@@ -3,7 +3,9 @@
   "handle": "UNIPART",
   "description": "Unipart Group Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.38.60.0/23"
+    ],
     "ipv6": []
   }
 }

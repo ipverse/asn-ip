@@ -3,7 +3,9 @@
   "handle": "PL-IGNUM",
   "description": "IGNUM Pawel Maszczak",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.22.119.0/24"
+    ],
     "ipv6": []
   }
 }

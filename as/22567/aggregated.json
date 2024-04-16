@@ -3,7 +3,9 @@
   "handle": "CWGS",
   "description": "CWGS ENTERPRISES, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "198.1.26.0/23"
+    ],
     "ipv6": []
   }
 }

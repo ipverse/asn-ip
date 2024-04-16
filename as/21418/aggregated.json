@@ -3,7 +3,9 @@
   "handle": "HARVESTR",
   "description": "Harvestr Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "149.126.168.0/21"
+    ],
     "ipv6": []
   }
 }

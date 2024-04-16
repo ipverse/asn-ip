@@ -3,7 +3,10 @@
   "handle": "NET-LINK-DOMINICANA",
   "description": "NET LINK DOMINICANA EMIMAR SRL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.10.81.0/24",
+      "38.10.82.0/24"
+    ],
     "ipv6": []
   }
 }

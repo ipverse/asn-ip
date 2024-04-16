@@ -3,7 +3,12 @@
   "handle": "GLOBAL-TELECOMUNICACIONES",
   "description": "Global Telecomunicaciones SRL",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "138.118.216.0/22",
+      "170.78.124.0/22"
+    ],
+    "ipv6": [
+      "2803:e440::/32"
+    ]
   }
 }

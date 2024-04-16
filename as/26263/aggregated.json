@@ -3,7 +3,9 @@
   "handle": "CLV-MULTIHOME",
   "description": "City of Las Vegas",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "205.153.112.0/22"
+    ],
     "ipv6": []
   }
 }

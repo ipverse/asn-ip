@@ -4,6 +4,8 @@
   "description": "EDGOO NETWORKS LLC",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a12:c1c0::/29"
+    ]
   }
 }

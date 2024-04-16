@@ -3,7 +3,9 @@
   "handle": "KDSL",
   "description": "KDSL TELEKOMN. INTRN. BIL. HIZMET. ELEKT. SAN TIC. LTD. STI.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "77.92.150.0/24"
+    ],
     "ipv6": []
   }
 }

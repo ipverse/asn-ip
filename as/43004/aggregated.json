@@ -3,7 +3,9 @@
   "handle": "SS-SOLUTIONS",
   "description": "Smart Secure Solutions S.A.R.L.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.142.84.0/24"
+    ],
     "ipv6": []
   }
 }

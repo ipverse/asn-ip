@@ -3,7 +3,10 @@
   "handle": "COMPUGEN",
   "description": "COMPUGEN INC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "204.187.93.0/24",
+      "205.189.90.0/23"
+    ],
     "ipv6": []
   }
 }

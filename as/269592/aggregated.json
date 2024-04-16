@@ -3,7 +3,9 @@
   "handle": "ADORO-MONITORAMENTO",
   "description": "Adoro Monitoramento Ltda",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.189.100.0/22"
+    ],
     "ipv6": []
   }
 }

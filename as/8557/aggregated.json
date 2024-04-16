@@ -3,7 +3,9 @@
   "handle": "ELKATEL",
   "description": "PJSC Rostelecom",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.18.32.0/19"
+    ],
     "ipv6": []
   }
 }

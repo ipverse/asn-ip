@@ -3,7 +3,9 @@
   "handle": "DEECITE",
   "description": "Deecite UG",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.5.115.0/24"
+    ],
     "ipv6": []
   }
 }

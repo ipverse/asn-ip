@@ -4,6 +4,8 @@
   "description": "Cloudflare Sydney, LLC",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2606:54c1:b::/48"
+    ]
   }
 }

@@ -3,7 +3,9 @@
   "handle": "SIMPLENET",
   "description": "Private Enterprise Pavlo Volodymirovich Oliynik",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.74.67.0/24"
+    ],
     "ipv6": []
   }
 }

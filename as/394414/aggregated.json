@@ -3,7 +3,12 @@
   "handle": "E2W-SOLUTIONS-LLC",
   "description": "E2W Solutions LLC",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "192.154.3.0/24"
+    ],
+    "ipv6": [
+      "2602:fafd:fc0::/43",
+      "2604:2980:f603::/48"
+    ]
   }
 }

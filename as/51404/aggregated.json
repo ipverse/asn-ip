@@ -3,7 +3,9 @@
   "handle": "EULEX",
   "description": "EULEX Kosovo",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.217.14.0/23"
+    ],
     "ipv6": []
   }
 }

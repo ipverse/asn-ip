@@ -3,7 +3,9 @@
   "handle": "MID-ASNO",
   "description": "MODESTO IRRIGATION DISTRICT",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "204.153.56.0/22"
+    ],
     "ipv6": []
   }
 }

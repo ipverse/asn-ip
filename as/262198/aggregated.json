@@ -3,7 +3,9 @@
   "handle": "ANTENAS-SISTEMAS",
   "description": "ANTENAS Y SISTEMAS, S.A.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "201.218.216.0/24"
+    ],
     "ipv6": []
   }
 }

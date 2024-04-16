@@ -3,7 +3,9 @@
   "handle": "EAST-WEST-CENTER-HOUSINGNET",
   "description": "East-West Center",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "66.162.254.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "ROSINTER-NET",
   "description": "Rosinter-Restaurants Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.212.50.0/24"
+    ],
     "ipv6": []
   }
 }

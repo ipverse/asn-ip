@@ -3,7 +3,9 @@
   "handle": "IMAGROUP",
   "description": "IMA Schelling Austria GmbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "62.3.47.0/24"
+    ],
     "ipv6": []
   }
 }

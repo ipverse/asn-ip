@@ -3,7 +3,9 @@
   "handle": "PORTO-18",
   "description": "Port of Houston Authority of Harris County, Texas",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "206.130.4.0/24"
+    ],
     "ipv6": []
   }
 }

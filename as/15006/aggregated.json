@@ -3,7 +3,9 @@
   "handle": "KYN-GTS",
   "description": "Kyndryl",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "129.33.237.0/24"
+    ],
     "ipv6": []
   }
 }

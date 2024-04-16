@@ -3,7 +3,9 @@
   "handle": "MARIGNAN-IMMO",
   "description": "Marignan SA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "89.234.150.0/24"
+    ],
     "ipv6": []
   }
 }

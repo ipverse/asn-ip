@@ -3,7 +3,9 @@
   "handle": "DSCN",
   "description": "Datasoft Comnet Pvt Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.100.201.0/24"
+    ],
     "ipv6": []
   }
 }

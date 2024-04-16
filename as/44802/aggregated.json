@@ -3,7 +3,9 @@
   "handle": "STM-MSK",
   "description": "STANMIX OKO LIMITED LIABILITY COMPANY",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.17.8.0/24"
+    ],
     "ipv6": []
   }
 }

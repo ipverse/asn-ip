@@ -3,7 +3,9 @@
   "handle": "KANOKLA-NETWORKS",
   "description": "KanOkla Communications, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "205.237.128.0/19"
+    ],
     "ipv6": []
   }
 }

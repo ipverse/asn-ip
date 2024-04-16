@@ -3,7 +3,9 @@
   "handle": "LAKESHORE-LEARNING",
   "description": "Lakeshore Learning Materials",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "142.202.105.0/24"
+    ],
     "ipv6": []
   }
 }

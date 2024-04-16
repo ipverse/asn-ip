@@ -3,7 +3,11 @@
   "handle": "PNZ-NET-SERV",
   "description": "PNZ NET SERV. DE COMUNICAO E MULTIMDIA EIRELI",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "168.228.32.0/22"
+    ],
+    "ipv6": [
+      "2804:7478::/32"
+    ]
   }
 }

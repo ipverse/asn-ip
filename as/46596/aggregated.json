@@ -3,7 +3,9 @@
   "handle": "NPH",
   "description": "Nazarene Publishing House",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "198.204.111.0/24"
+    ],
     "ipv6": []
   }
 }

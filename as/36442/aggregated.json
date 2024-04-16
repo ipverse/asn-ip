@@ -3,7 +3,9 @@
   "handle": "MERCURY-HEALTHCARE",
   "description": "WebMD, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.84.88.0/24"
+    ],
     "ipv6": []
   }
 }

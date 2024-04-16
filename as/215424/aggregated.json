@@ -3,7 +3,9 @@
   "handle": "ESPANIX-DC",
   "description": "ASOCIACION ESPANIX",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.14.76.0/22"
+    ],
     "ipv6": []
   }
 }

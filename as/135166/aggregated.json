@@ -3,7 +3,9 @@
   "handle": "SMSL-AP",
   "description": "Savills Management Services Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.211.173.0/24"
+    ],
     "ipv6": []
   }
 }

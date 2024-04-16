@@ -3,7 +3,9 @@
   "handle": "G5-REDE-TELECOMUNICACOES",
   "description": "G5 Rede de Telecomunicacoes Multimidia Ltda",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "186.0.148.0/22"
+    ],
     "ipv6": []
   }
 }

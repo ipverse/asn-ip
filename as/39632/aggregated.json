@@ -3,7 +3,9 @@
   "handle": "EESTIPANK",
   "description": "Eesti Pank",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.208.26.0/24"
+    ],
     "ipv6": []
   }
 }

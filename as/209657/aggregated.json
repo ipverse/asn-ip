@@ -3,7 +3,9 @@
   "handle": "APELSIN",
   "description": "Svinin M.Y. PE",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "176.118.196.0/24"
+    ],
     "ipv6": []
   }
 }

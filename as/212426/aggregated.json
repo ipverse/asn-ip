@@ -3,7 +3,9 @@
   "handle": "FWNETWORKS",
   "description": "Hey Broadband LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "80.249.128.0/24"
+    ],
     "ipv6": []
   }
 }

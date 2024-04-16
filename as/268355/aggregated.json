@@ -3,7 +3,11 @@
   "handle": "RESENDE-GONALVES-SERVIOS",
   "description": "RESENDE \u0026 GONALVES SERVIOS E INTERNET LTDA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.239.72.0/22"
+    ],
+    "ipv6": [
+      "2804:4fe0::/32"
+    ]
   }
 }

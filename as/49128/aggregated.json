@@ -3,7 +3,9 @@
   "handle": "IVCSPBORW",
   "description": "Joint Stock Company TransTeleCom",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.212.146.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,12 @@
   "handle": "RAPIDFIREY-AP",
   "description": "Rapid-Fire-y",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "154.18.86.0/23"
+    ],
+    "ipv6": [
+      "2001:df2:9b40::/48",
+      "2400:54a0:20a0::/44"
+    ]
   }
 }

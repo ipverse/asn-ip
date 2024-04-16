@@ -3,7 +3,9 @@
   "handle": "ALACRITYSERVICES",
   "description": "Alacrity Services",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "142.147.48.0/23"
+    ],
     "ipv6": []
   }
 }

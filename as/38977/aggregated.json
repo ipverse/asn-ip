@@ -3,7 +3,9 @@
   "handle": "SILHOUETTE",
   "description": "Silhouette International Schmied AG",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.201.102.0/24"
+    ],
     "ipv6": []
   }
 }

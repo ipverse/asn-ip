@@ -3,7 +3,9 @@
   "handle": "LMS-TELECOM",
   "description": "LMS Telecom LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "131.196.24.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "VDO-VN",
   "description": "Viet Nam Data Online Joint Stock Company",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.127.204.0/22"
+    ],
     "ipv6": []
   }
 }

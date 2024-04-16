@@ -3,7 +3,9 @@
   "handle": "UIINET-ID-AP",
   "description": "PT Global Prima Utama",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "202.162.32.0/20"
+    ],
     "ipv6": [
       "2402:a600::/32"
     ]

@@ -3,7 +3,9 @@
   "handle": "CPC",
   "description": "Combined Public Communications, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "74.203.219.0/24"
+    ],
     "ipv6": []
   }
 }

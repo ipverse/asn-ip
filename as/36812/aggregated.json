@@ -3,7 +3,9 @@
   "handle": "MLL-61",
   "description": "Master Lock Company LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "141.193.34.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,11 @@
   "handle": "TELECONSULT-TELECOMUNICACOES-EIRELI",
   "description": "TELECONSULT TELECOMUNICACOES EIRELI",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.172.196.0/22"
+    ],
+    "ipv6": [
+      "2804:5ac4::/32"
+    ]
   }
 }

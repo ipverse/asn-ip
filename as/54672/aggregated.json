@@ -3,7 +3,10 @@
   "handle": "ACCEOSOLUTIONS",
   "description": "ACCEO Solutions Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "204.19.176.0/24",
+      "204.225.188.0/23"
+    ],
     "ipv6": []
   }
 }

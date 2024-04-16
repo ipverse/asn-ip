@@ -3,7 +3,11 @@
   "handle": "TOLRS-INFORMTICA",
   "description": "Tolrs Informtica Ltda",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "177.11.60.0/22"
+    ],
+    "ipv6": [
+      "2804:b04::/32"
+    ]
   }
 }

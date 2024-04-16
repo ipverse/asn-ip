@@ -3,7 +3,9 @@
   "handle": "GENESIS",
   "description": "Genesis Health System",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.43.160.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "HOUSTON-ISD",
   "description": "Houston Independent School District",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "166.127.0.0/16"
+    ],
     "ipv6": []
   }
 }

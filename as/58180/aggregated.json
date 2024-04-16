@@ -3,7 +3,9 @@
   "handle": "FWS",
   "description": "SC Fullwebserver S.R.L.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.206.120.0/24"
+    ],
     "ipv6": []
   }
 }

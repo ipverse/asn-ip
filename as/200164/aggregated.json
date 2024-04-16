@@ -3,7 +3,9 @@
   "handle": "RHG",
   "description": "The Random House Group Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.35.48.0/22"
+    ],
     "ipv6": []
   }
 }

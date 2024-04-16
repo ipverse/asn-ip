@@ -3,7 +3,9 @@
   "handle": "SIBANYE",
   "description": "SIBANYE GOLD LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "102.36.193.0/24"
+    ],
     "ipv6": []
   }
 }

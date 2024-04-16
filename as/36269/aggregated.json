@@ -3,7 +3,9 @@
   "handle": "UOFSCRANTON",
   "description": "University of Scranton",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "134.198.0.0/16"
+    ],
     "ipv6": []
   }
 }

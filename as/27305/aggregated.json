@@ -3,7 +3,9 @@
   "handle": "IAVI",
   "description": "International AIDS Vaccine Initiative",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.195.13.0/24"
+    ],
     "ipv6": []
   }
 }

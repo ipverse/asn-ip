@@ -3,7 +3,9 @@
   "handle": "4FRONT-PRI",
   "description": "4Front Credit Union",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "35.131.219.0/24"
+    ],
     "ipv6": []
   }
 }

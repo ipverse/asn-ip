@@ -3,7 +3,9 @@
   "handle": "TECHNOPROHOLDINGS-JP",
   "description": "Technopro Holdings",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "202.94.86.0/24"
+    ],
     "ipv6": []
   }
 }

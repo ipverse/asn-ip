@@ -3,7 +3,10 @@
   "handle": "CITYOFINDY",
   "description": "City of Indianapolis",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "168.214.0.0/16",
+      "199.250.0.0/21"
+    ],
     "ipv6": []
   }
 }

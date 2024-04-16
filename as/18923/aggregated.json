@@ -3,7 +3,11 @@
   "handle": "TWRS-FTW",
   "description": "Towerstream I, Inc.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "74.212.176.0/22"
+    ],
+    "ipv6": [
+      "2604:f400:12::/48"
+    ]
   }
 }

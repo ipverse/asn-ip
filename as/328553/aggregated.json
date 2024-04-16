@@ -3,7 +3,9 @@
   "handle": "BANK-MISR",
   "description": "Bank Misr S.A.E",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "102.64.58.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "ACCELIA-W",
   "description": "Network for Accelia, Inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "43.253.64.0/21"
+    ],
     "ipv6": []
   }
 }

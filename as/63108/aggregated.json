@@ -3,7 +3,9 @@
   "handle": "MMRSAG-10",
   "description": "Mobile Medical Response Inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.40.247.0/24"
+    ],
     "ipv6": []
   }
 }

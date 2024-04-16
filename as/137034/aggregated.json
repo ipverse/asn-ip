@@ -3,7 +3,9 @@
   "handle": "SAONLINE-AP",
   "description": "S. A. Online",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.102.204.0/22"
+    ],
     "ipv6": []
   }
 }

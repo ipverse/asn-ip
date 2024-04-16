@@ -3,7 +3,9 @@
   "handle": "MASTERSOFT",
   "description": "Mastersoft Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.104.230.0/24"
+    ],
     "ipv6": []
   }
 }

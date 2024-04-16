@@ -3,7 +3,9 @@
   "handle": "BPNNET",
   "description": "BANCO BIC PORTUGUES, SA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.245.234.0/24"
+    ],
     "ipv6": []
   }
 }

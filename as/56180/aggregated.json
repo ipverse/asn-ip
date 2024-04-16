@@ -3,7 +3,9 @@
   "handle": "VISTEON-ASPAC-AP",
   "description": "Visteon Corporation",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.212.132.0/24"
+    ],
     "ipv6": []
   }
 }

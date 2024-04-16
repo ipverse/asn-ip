@@ -3,7 +3,9 @@
   "handle": "CAPTI1-AP",
   "description": "Capti Technology Pty Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "202.47.178.0/23"
+    ],
     "ipv6": []
   }
 }

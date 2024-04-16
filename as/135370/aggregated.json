@@ -3,7 +3,11 @@
   "handle": "TMK-AP",
   "description": "PT Telematika Mitrakreasi",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "103.215.176.0/23"
+    ],
+    "ipv6": [
+      "2405:4240:1::/48"
+    ]
   }
 }

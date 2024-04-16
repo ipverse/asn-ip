@@ -3,7 +3,9 @@
   "handle": "RADIOFLASH",
   "description": "Cooperativa Culturale Biancaneve - Societa\u0027 Cooperativa Siglabile Biancaneve",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.95.142.0/24"
+    ],
     "ipv6": []
   }
 }

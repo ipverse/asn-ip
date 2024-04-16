@@ -3,7 +3,9 @@
   "handle": "FREEDOM-MORTGAGE",
   "description": "Freedom Mortgage Corporation",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "209.43.25.0/24"
+    ],
     "ipv6": []
   }
 }

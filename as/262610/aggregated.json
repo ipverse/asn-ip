@@ -4,8 +4,10 @@
   "description": "INTERall Informatica Ltda.",
   "subnets": {
     "ipv4": [
-      "177.101.72.0/21"
+      "177.101.64.0/20"
     ],
-    "ipv6": []
+    "ipv6": [
+      "2804:7b80::/32"
+    ]
   }
 }

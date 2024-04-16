@@ -3,7 +3,9 @@
   "handle": "FWOCE-AS42",
   "description": "Franklin W. Olin College Of Engineering",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "208.91.52.0/22"
+    ],
     "ipv6": []
   }
 }

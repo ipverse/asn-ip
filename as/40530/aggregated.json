@@ -3,7 +3,9 @@
   "handle": "GREATLAND",
   "description": "Greatland Corporation",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "198.73.225.0/24"
+    ],
     "ipv6": []
   }
 }

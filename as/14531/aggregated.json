@@ -3,7 +3,9 @@
   "handle": "LM-ATL",
   "description": "Lockheed Martin Corporation",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.35.37.0/24"
+    ],
     "ipv6": []
   }
 }

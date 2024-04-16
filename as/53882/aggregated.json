@@ -3,7 +3,9 @@
   "handle": "COMMUNITECT",
   "description": "Communitect, Inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "50.220.230.0/24"
+    ],
     "ipv6": []
   }
 }

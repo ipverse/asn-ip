@@ -3,7 +3,9 @@
   "handle": "NETDRIVE",
   "description": "Netdrive.pl Krzysztof Bojko",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.24.24.0/22"
+    ],
     "ipv6": []
   }
 }

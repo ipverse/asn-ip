@@ -3,7 +3,10 @@
   "handle": "SERIJAKALA",
   "description": "Jakala S.P.A.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.222.248.0/24",
+      "185.222.250.0/23"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "RTODON",
   "description": "RTO-DON LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "5.182.24.0/23"
+    ],
     "ipv6": []
   }
 }

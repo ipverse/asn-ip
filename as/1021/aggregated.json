@@ -3,7 +3,9 @@
   "handle": "CVTECH1",
   "description": "CV Tech",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "152.160.83.0/24"
+    ],
     "ipv6": []
   }
 }

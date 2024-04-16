@@ -3,7 +3,9 @@
   "handle": "COOP-OBRAS-SERV",
   "description": "Coop. de Obras y Serv. Pblicos de Brinkmann",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "186.64.96.0/21"
+    ],
     "ipv6": []
   }
 }

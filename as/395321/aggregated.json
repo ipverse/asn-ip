@@ -3,7 +3,9 @@
   "handle": "MOLEX",
   "description": "MOLEX LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "198.178.74.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "LCSDNET-SLS",
   "description": "Leisure and Cultural Services Department",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.83.17.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -4,6 +4,8 @@
   "description": "Zihan Chen",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a06:e881:2509::/48"
+    ]
   }
 }

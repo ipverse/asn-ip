@@ -3,7 +3,12 @@
   "handle": "SARTOR-INTERNET",
   "description": "SARTOR INTERNET LTDA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.166.104.0/22",
+      "45.235.72.0/22"
+    ],
+    "ipv6": [
+      "2804:4d0c::/32"
+    ]
   }
 }

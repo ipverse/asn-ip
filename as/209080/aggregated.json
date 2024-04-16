@@ -3,7 +3,9 @@
   "handle": "EDFMAN",
   "description": "ED \u0026 F MAN HOLDINGS LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.239.112.0/24"
+    ],
     "ipv6": []
   }
 }

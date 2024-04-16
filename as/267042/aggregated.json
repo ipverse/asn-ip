@@ -3,7 +3,11 @@
   "handle": "ONLINE-NET-PROVEDOR",
   "description": "ONLINE-NET PROVEDOR",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.227.40.0/22"
+    ],
+    "ipv6": [
+      "2804:4744::/32"
+    ]
   }
 }

@@ -3,7 +3,10 @@
   "handle": "VOLSTATE",
   "description": "VOLstate, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.15.152.0/21",
+      "209.235.188.0/23"
+    ],
     "ipv6": []
   }
 }

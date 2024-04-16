@@ -3,7 +3,9 @@
   "handle": "MIRATECH",
   "description": "MIRATECH CONSULTING LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.137.196.0/23"
+    ],
     "ipv6": []
   }
 }

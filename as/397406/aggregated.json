@@ -3,7 +3,9 @@
   "handle": "DCMH-DELTA-01",
   "description": "Delta County Memorial Hospital",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.33.196.0/24"
+    ],
     "ipv6": []
   }
 }

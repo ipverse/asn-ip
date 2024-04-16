@@ -3,7 +3,9 @@
   "handle": "TEAMINDUSTRIALSERVICES",
   "description": "Team Industrial Services, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "138.128.248.0/23"
+    ],
     "ipv6": []
   }
 }

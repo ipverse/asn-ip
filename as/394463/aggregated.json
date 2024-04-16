@@ -3,7 +3,9 @@
   "handle": "VEROS",
   "description": "Veros Software",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "216.32.62.0/24"
+    ],
     "ipv6": []
   }
 }

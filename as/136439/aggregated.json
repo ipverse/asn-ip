@@ -3,7 +3,9 @@
   "handle": "DSTA-DMZ-AP",
   "description": "Defence Science Technology Agency",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.138.77.0/24"
+    ],
     "ipv6": []
   }
 }

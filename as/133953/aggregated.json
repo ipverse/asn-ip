@@ -3,7 +3,9 @@
   "handle": "MTCL-AP",
   "description": "Mega Target Communication Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.49.246.0/23"
+    ],
     "ipv6": []
   }
 }

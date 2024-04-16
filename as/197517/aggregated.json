@@ -3,7 +3,9 @@
   "handle": "SALVA",
   "description": "Salva Kindlustuse AS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.20.151.0/24"
+    ],
     "ipv6": []
   }
 }

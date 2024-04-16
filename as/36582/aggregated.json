@@ -3,7 +3,11 @@
   "handle": "EVMAGDIA-LT-CL",
   "description": "Magnetar Capital LLC",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "74.113.151.0/24"
+    ],
+    "ipv6": [
+      "2620:7d:1::/48"
+    ]
   }
 }

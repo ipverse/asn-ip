@@ -3,7 +3,11 @@
   "handle": "PLUG-SUPERNET-TELECON",
   "description": "Plug Supernet Telecon Servios de Informatica Ltda",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "138.122.100.0/22"
+    ],
+    "ipv6": [
+      "2804:25f0::/32"
+    ]
   }
 }

@@ -3,7 +3,9 @@
   "handle": "CHURCH-OF-THE-NAZARENE-INC",
   "description": "General Board of The Church of The Nazarene",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "52.144.59.0/24"
+    ],
     "ipv6": []
   }
 }

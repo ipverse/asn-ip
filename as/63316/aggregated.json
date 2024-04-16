@@ -3,7 +3,9 @@
   "handle": "CITY-OF-FOSTER-CITY",
   "description": "City of Foster City",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "209.234.105.0/24"
+    ],
     "ipv6": []
   }
 }

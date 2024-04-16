@@ -3,7 +3,9 @@
   "handle": "TNET",
   "description": "T.net S.p.A.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.34.36.0/23"
+    ],
     "ipv6": []
   }
 }

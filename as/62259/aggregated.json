@@ -3,7 +3,9 @@
   "handle": "INTELESI-LLC",
   "description": "Intelesi LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.40.48.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "TADU-VN",
   "description": "TaDu Joint Stock Company",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.74.116.0/22"
+    ],
     "ipv6": []
   }
 }

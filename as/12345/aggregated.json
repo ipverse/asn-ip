@@ -3,7 +3,9 @@
   "handle": "GENERAL-SOFTWARE-SRL",
   "description": "General Software s.r.l.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "212.47.32.0/19"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "JESSAZH",
   "description": "Jessa Ziekenhuis vzw",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.56.76.0/24"
+    ],
     "ipv6": []
   }
 }

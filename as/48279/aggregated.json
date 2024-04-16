@@ -3,7 +3,9 @@
   "handle": "DELTANETUA-NET",
   "description": "Delta-Net LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "94.154.192.0/18"
+    ],
     "ipv6": []
   }
 }

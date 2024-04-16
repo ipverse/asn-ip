@@ -3,7 +3,11 @@
   "handle": "PROVINCIE-NH",
   "description": "Provincie Noord-Holland",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "91.227.192.0/24"
+    ],
+    "ipv6": [
+      "2a07:3501:1090::/48"
+    ]
   }
 }

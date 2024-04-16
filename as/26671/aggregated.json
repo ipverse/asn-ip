@@ -3,7 +3,9 @@
   "handle": "WRL-12",
   "description": "Wynn Resorts Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "74.123.128.0/22"
+    ],
     "ipv6": []
   }
 }

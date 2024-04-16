@@ -3,7 +3,9 @@
   "handle": "ALVNET",
   "description": "Alvsbyns Kommun",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "82.99.64.0/18"
+    ],
     "ipv6": []
   }
 }

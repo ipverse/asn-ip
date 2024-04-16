@@ -3,7 +3,10 @@
   "handle": "VITALGAMENETWORK",
   "description": "VITAL GAME NETWORK, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "154.16.128.0/23",
+      "154.16.130.0/24"
+    ],
     "ipv6": []
   }
 }

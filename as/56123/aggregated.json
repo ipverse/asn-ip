@@ -3,7 +3,11 @@
   "handle": "VERNET-AP",
   "description": "VERNet Pty Ltd",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "115.124.8.0/21"
+    ],
+    "ipv6": [
+      "2407:a200::/32"
+    ]
   }
 }

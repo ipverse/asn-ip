@@ -3,7 +3,11 @@
   "handle": "STIBARC-01",
   "description": "STiBaRC",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "104.167.230.0/24"
+    ],
+    "ipv6": [
+      "2602:fa76::/46"
+    ]
   }
 }

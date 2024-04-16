@@ -3,7 +3,10 @@
   "handle": "MNET-TELECOM-PROVEDORIA",
   "description": "Mnet Telecom Provedoria em Internet Ltda",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "177.23.132.0/23",
+      "177.23.134.0/24"
+    ],
     "ipv6": []
   }
 }

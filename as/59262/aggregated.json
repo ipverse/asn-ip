@@ -3,7 +3,9 @@
   "handle": "ORIX-AP",
   "description": "ORIX AUSTRALIA CORPORATION LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "203.23.109.0/24"
+    ],
     "ipv6": []
   }
 }

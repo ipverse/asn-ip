@@ -3,7 +3,9 @@
   "handle": "OBIT-KZ-ASTANA",
   "description": "OBIT-telecommunications, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "62.32.78.0/24"
+    ],
     "ipv6": []
   }
 }

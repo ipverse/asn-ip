@@ -3,7 +3,9 @@
   "handle": "AE",
   "description": "AE Hosting",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "207.90.224.0/22"
+    ],
     "ipv6": []
   }
 }

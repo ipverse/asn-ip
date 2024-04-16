@@ -3,7 +3,9 @@
   "handle": "INSITE",
   "description": "INSITE Sp. z o.o.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "78.155.96.0/19"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,12 @@
   "handle": "MANDARIN",
   "description": "Mandarin S.p.A.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "178.211.64.0/19",
+      "212.46.64.0/19"
+    ],
+    "ipv6": [
+      "2a01:5f80::/32"
+    ]
   }
 }

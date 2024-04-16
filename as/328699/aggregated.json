@@ -3,7 +3,11 @@
   "handle": "CLOUD-MU",
   "description": "DataKeepers Ltd",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "102.222.104.0/22"
+    ],
+    "ipv6": [
+      "2c0f:e8f8::/32"
+    ]
   }
 }

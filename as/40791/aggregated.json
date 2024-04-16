@@ -3,7 +3,9 @@
   "handle": "COR",
   "description": "City of Redding",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "68.186.34.0/24"
+    ],
     "ipv6": []
   }
 }

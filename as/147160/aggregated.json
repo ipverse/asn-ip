@@ -3,7 +3,9 @@
   "handle": "IDNIC-BPKH-ID",
   "description": "Badan Pengelola Keuangan Haji",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.162.88.0/23"
+    ],
     "ipv6": []
   }
 }

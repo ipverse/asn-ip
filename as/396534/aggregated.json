@@ -3,7 +3,10 @@
   "handle": "DEEPSYS",
   "description": "Deep Systems LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.133.166.0/24",
+      "199.182.206.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "TAHOECOM-AP",
   "description": "Tahoe Communication Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.73.36.0/22"
+    ],
     "ipv6": []
   }
 }

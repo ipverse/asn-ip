@@ -3,7 +3,11 @@
   "handle": "KYTENCE",
   "description": "Kontrast Communication GmbH",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "185.110.40.0/22"
+    ],
+    "ipv6": [
+      "2a06:5400::/29"
+    ]
   }
 }

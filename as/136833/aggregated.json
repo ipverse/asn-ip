@@ -3,7 +3,9 @@
   "handle": "IDNIC-UNIMUS-ID",
   "description": "UNIVERSITAS MUHAMMADIYAH SEMARANG",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.97.100.0/24"
+    ],
     "ipv6": []
   }
 }

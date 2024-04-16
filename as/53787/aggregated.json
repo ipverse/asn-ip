@@ -3,7 +3,9 @@
   "handle": "TREASUREISLAND",
   "description": "Treasure Island, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "50.58.131.0/24"
+    ],
     "ipv6": []
   }
 }

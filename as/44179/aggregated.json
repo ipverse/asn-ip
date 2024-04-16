@@ -3,7 +3,9 @@
   "handle": "TELERIK",
   "description": "Progress Software EAD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "82.103.64.0/24"
+    ],
     "ipv6": []
   }
 }

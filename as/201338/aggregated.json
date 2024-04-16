@@ -3,7 +3,9 @@
   "handle": "DAMOVO-BE",
   "description": "DAMOVO BELGIUM SA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.77.212.0/22"
+    ],
     "ipv6": []
   }
 }

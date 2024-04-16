@@ -3,7 +3,9 @@
   "handle": "WPLG-TV",
   "description": "WPLG-TV",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.112.180.0/24"
+    ],
     "ipv6": []
   }
 }

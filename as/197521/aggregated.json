@@ -3,7 +3,11 @@
   "handle": "SPAN",
   "description": "SPAN d.d.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "195.20.153.0/24"
+    ],
+    "ipv6": [
+      "2001:67c:16e4::/48"
+    ]
   }
 }

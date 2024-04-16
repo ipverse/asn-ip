@@ -3,7 +3,9 @@
   "handle": "SWINERTONINC",
   "description": "Swinerton Incorporated",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.225.59.0/24"
+    ],
     "ipv6": []
   }
 }

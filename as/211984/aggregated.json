@@ -3,7 +3,9 @@
   "handle": "STEINBACH",
   "description": "Steinbach international GmbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "213.33.79.0/24"
+    ],
     "ipv6": []
   }
 }

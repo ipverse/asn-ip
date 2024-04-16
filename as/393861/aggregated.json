@@ -3,7 +3,10 @@
   "handle": "INOVA-PRIMARYASN-01",
   "description": "Inova Health System Foundation",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "167.201.224.0/21",
+      "167.201.240.0/22"
+    ],
     "ipv6": []
   }
 }

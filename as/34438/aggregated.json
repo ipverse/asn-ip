@@ -3,7 +3,9 @@
   "handle": "PROFZONE",
   "description": "Erich Hohermuth",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.8.113.0/24"
+    ],
     "ipv6": []
   }
 }

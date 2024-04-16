@@ -3,7 +3,11 @@
   "handle": "HUK-COBURG",
   "description": "HUK-COBURG VVaG",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "193.201.176.0/21"
+    ],
+    "ipv6": [
+      "2a06:d340::/29"
+    ]
   }
 }

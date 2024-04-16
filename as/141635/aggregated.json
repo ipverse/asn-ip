@@ -3,7 +3,9 @@
   "handle": "IDNIC-IAINJEMBER-ID",
   "description": "Institut Agama Islam Negeri (IAIN) Jember",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.161.253.0/24"
+    ],
     "ipv6": []
   }
 }

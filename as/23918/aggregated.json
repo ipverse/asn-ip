@@ -3,7 +3,11 @@
   "handle": "NTTIP-AP",
   "description": "NTT Australia Solutions Pty Ltd",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "203.4.212.0/22"
+    ],
+    "ipv6": [
+      "2402:f00::/32"
+    ]
   }
 }

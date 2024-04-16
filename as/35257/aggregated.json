@@ -3,7 +3,9 @@
   "handle": "MIFS",
   "description": "LLC LABORATORY OF MODERN FINANCIAL RESEARCH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.225.56.0/23"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,10 @@
   "handle": "FILI-01",
   "description": "Filip informatika d.o.o.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "147.78.148.0/22",
+      "213.191.140.0/24"
+    ],
     "ipv6": []
   }
 }

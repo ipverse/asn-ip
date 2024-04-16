@@ -3,7 +3,10 @@
   "handle": "VALLEYCREST",
   "description": "ValleyCrest Companies",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "208.21.170.0/24",
+      "208.52.150.0/24"
+    ],
     "ipv6": []
   }
 }

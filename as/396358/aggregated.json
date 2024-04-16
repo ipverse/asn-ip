@@ -3,7 +3,11 @@
   "handle": "BUBGP1",
   "description": "Bellarmine University",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "173.226.32.0/21",
+      "198.190.212.0/24",
+      "205.159.178.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "UNICREDITGROUP-BA",
   "description": "UniCredit Bank d.d.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "162.25.70.0/23"
+    ],
     "ipv6": []
   }
 }

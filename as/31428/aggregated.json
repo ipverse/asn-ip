@@ -3,7 +3,9 @@
   "handle": "LOGISTA-ES",
   "description": "Compania De Distribucion Integral Logista, SA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.16.153.0/24"
+    ],
     "ipv6": []
   }
 }

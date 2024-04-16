@@ -3,7 +3,10 @@
   "handle": "AS7260",
   "description": "Roosevelt University",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.175.16.0/22",
+      "192.175.20.0/23"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "BIM",
   "description": "Bank of Industry and Mine PJSC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.73.76.0/22"
+    ],
     "ipv6": []
   }
 }

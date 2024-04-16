@@ -3,7 +3,9 @@
   "handle": "STARTEC-PROVEDOR-INTERNET",
   "description": "STARTEC PROVEDOR DE INTERNET LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "138.118.204.0/22"
+    ],
     "ipv6": []
   }
 }

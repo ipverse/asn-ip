@@ -3,7 +3,12 @@
   "handle": "MARYA",
   "description": "Mebelnaya fabrika Mariya Ltd.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "91.226.148.0/22"
+    ],
+    "ipv6": [
+      "2a03:e140:1b::/48",
+      "2a03:e140:35::/48"
+    ]
   }
 }

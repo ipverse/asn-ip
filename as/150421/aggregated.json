@@ -3,7 +3,9 @@
   "handle": "SACL-AP",
   "description": "ST AGNES\u0027 CARE \u0026 LIFESTYLE",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.93.27.0/24"
+    ],
     "ipv6": []
   }
 }

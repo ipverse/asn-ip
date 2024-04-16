@@ -3,7 +3,9 @@
   "handle": "ACT",
   "description": "Ignition Bermuda",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "64.37.36.0/22"
+    ],
     "ipv6": []
   }
 }

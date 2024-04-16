@@ -3,7 +3,9 @@
   "handle": "UP-HUB",
   "description": "LLC UKRAINIAN PRODUCERS HUB",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "171.25.236.0/22"
+    ],
     "ipv6": []
   }
 }

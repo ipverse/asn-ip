@@ -3,7 +3,9 @@
   "handle": "SYNERGY",
   "description": "Synergy University",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.147.107.0/24"
+    ],
     "ipv6": []
   }
 }

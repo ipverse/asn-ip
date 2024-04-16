@@ -3,7 +3,9 @@
   "handle": "SAP-DC-RUH",
   "description": "SAP SE",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "157.133.88.0/21"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,11 @@
   "handle": "RSSWS",
   "description": "Wojewodztwo Swietokrzyskie",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.178.96.0/22",
+      "212.115.116.0/23",
+      "212.115.118.0/24"
+    ],
     "ipv6": []
   }
 }

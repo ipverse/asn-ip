@@ -3,7 +3,9 @@
   "handle": "ALIANZA-PYMES",
   "description": "ALIANZA PYMES S.A.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.237.220.0/22"
+    ],
     "ipv6": []
   }
 }

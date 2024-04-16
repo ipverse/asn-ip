@@ -3,7 +3,11 @@
   "handle": "F-S-SILVA-JNIOR",
   "description": "F. S. da Silva Jnior - ME",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "168.121.204.0/22"
+    ],
+    "ipv6": [
+      "2804:2e18::/32"
+    ]
   }
 }

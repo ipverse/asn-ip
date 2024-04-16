@@ -3,7 +3,9 @@
   "handle": "HODONET",
   "description": "Hodo Telecom Co,Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.81.123.0/24"
+    ],
     "ipv6": []
   }
 }

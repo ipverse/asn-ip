@@ -3,7 +3,9 @@
   "handle": "SOCAR",
   "description": "STATE OIL COMPANY OF THE REPUBLIC OF AZERBAIJAN",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.240.27.0/24"
+    ],
     "ipv6": []
   }
 }

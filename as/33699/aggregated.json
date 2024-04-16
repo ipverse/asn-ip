@@ -3,7 +3,9 @@
   "handle": "RUSSELL-MARKETING-RESEARCH",
   "description": "Russell Marketing Research, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "65.196.7.0/24"
+    ],
     "ipv6": []
   }
 }

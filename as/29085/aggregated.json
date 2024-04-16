@@ -3,7 +3,11 @@
   "handle": "PORSCHE",
   "description": "Porsche Informatik Gesellschaft m.b.H",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.116.28.0/22",
+      "193.109.74.0/23",
+      "212.183.88.0/24"
+    ],
     "ipv6": []
   }
 }

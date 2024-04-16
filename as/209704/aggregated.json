@@ -3,7 +3,9 @@
   "handle": "NMBS-SNCB",
   "description": "NV OR NATIONALE MAATSCHAPPIJ DER BELGISCHE SPOORWEGEN",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.180.44.0/23"
+    ],
     "ipv6": []
   }
 }

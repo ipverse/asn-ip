@@ -3,7 +3,9 @@
   "handle": "HUH",
   "description": "HUS Group",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.135.20.0/24"
+    ],
     "ipv6": []
   }
 }

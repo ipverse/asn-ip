@@ -3,7 +3,10 @@
   "handle": "KATZ-GROUP-CANADA",
   "description": "Rexall Pharmacy Group ULC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.71.244.0/22",
+      "199.71.248.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "UK-RJOBRIEN",
   "description": "R.J. OBrien Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.255.160.0/22"
+    ],
     "ipv6": []
   }
 }

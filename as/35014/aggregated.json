@@ -3,7 +3,9 @@
   "handle": "COBUILDER",
   "description": "COBUILDER INTERNATIONAL Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "89.252.197.0/24"
+    ],
     "ipv6": []
   }
 }

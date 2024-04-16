@@ -3,7 +3,9 @@
   "handle": "CSD99",
   "description": "Community High School District 99",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "66.158.46.0/23"
+    ],
     "ipv6": []
   }
 }

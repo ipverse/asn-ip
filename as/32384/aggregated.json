@@ -3,7 +3,9 @@
   "handle": "MILLERWELDSASN01",
   "description": "MILLER Electric Mfg. Co.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "206.197.156.0/24"
+    ],
     "ipv6": []
   }
 }

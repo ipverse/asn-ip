@@ -3,7 +3,9 @@
   "handle": "STARWOOD-NYC-417FIFTH",
   "description": "Marriott International, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "155.72.32.0/24"
+    ],
     "ipv6": []
   }
 }

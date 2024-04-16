@@ -3,7 +3,9 @@
   "handle": "TREASURE-STATE-INTERNET",
   "description": "Treasure State Internet",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "205.207.148.0/23"
+    ],
     "ipv6": []
   }
 }

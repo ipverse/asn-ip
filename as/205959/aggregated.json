@@ -3,7 +3,9 @@
   "handle": "SCCAG",
   "description": "swiss cloud computing ag",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.151.164.0/22"
+    ],
     "ipv6": []
   }
 }

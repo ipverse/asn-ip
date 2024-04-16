@@ -3,7 +3,9 @@
   "handle": "ARGENT",
   "description": "Argent Communications, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.204.192.0/21"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "BCS-BANCO-DE-CREDITO-DO-SUL-SA",
   "description": "BCS- Banco de Credito do Sul, S.A.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "196.13.109.0/24"
+    ],
     "ipv6": []
   }
 }

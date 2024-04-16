@@ -3,7 +3,11 @@
   "handle": "FIBRETEL",
   "description": "FibreTel Networks Ltd.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.42.220.0/22"
+    ],
+    "ipv6": [
+      "2606:4740::/32"
+    ]
   }
 }

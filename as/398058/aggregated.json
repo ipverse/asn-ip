@@ -3,7 +3,9 @@
   "handle": "ECCC-EDU",
   "description": "East Central Community College",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "207.181.34.0/24"
+    ],
     "ipv6": []
   }
 }

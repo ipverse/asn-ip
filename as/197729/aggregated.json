@@ -3,7 +3,12 @@
   "handle": "TWENTYONE-CLOUD",
   "description": "Binect GmbH",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "31.24.168.0/21",
+      "91.208.83.0/24"
+    ],
+    "ipv6": [
+      "2a02:5a80::/29"
+    ]
   }
 }

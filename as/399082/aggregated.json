@@ -3,7 +3,10 @@
   "handle": "MOWINET",
   "description": "Mosier WiNet LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "23.157.152.0/24",
+      "207.90.242.0/23"
+    ],
     "ipv6": []
   }
 }

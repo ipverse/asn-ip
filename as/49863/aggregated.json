@@ -3,7 +3,10 @@
   "handle": "LITE-TELECOM",
   "description": "Lite-Telecom Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "109.72.240.0/20",
+      "185.91.180.0/22"
+    ],
     "ipv6": []
   }
 }

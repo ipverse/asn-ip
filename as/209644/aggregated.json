@@ -3,7 +3,9 @@
   "handle": "SCIT-TEHNOLOGY",
   "description": "SCIT TEHNOLOGY SRL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "80.97.52.0/24"
+    ],
     "ipv6": []
   }
 }

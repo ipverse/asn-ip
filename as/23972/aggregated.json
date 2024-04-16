@@ -3,7 +3,9 @@
   "handle": "KEBIS",
   "description": "HANA INVESTOR SERVICES",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "115.92.171.0/24"
+    ],
     "ipv6": []
   }
 }

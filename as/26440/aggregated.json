@@ -3,7 +3,9 @@
   "handle": "SPRAGUE-ENERGY",
   "description": "Sprague Operating Resources LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "207.229.77.0/24"
+    ],
     "ipv6": []
   }
 }

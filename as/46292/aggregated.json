@@ -3,7 +3,9 @@
   "handle": "MOJAVEWIFI-COM-CA-1",
   "description": "Mojavewifi.com LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "142.202.76.0/22"
+    ],
     "ipv6": []
   }
 }

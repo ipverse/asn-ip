@@ -3,7 +3,9 @@
   "handle": "WABCOM",
   "description": "WABCOM S.A.S.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.177.80.0/22"
+    ],
     "ipv6": []
   }
 }

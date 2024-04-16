@@ -3,7 +3,9 @@
   "handle": "BRXNQT-TELECOMUNICAES",
   "description": "BRXNQT Telecomunicaes S.A.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "186.193.0.0/20"
+    ],
     "ipv6": []
   }
 }

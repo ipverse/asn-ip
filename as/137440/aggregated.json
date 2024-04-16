@@ -3,7 +3,9 @@
   "handle": "ABABANK-AP",
   "description": "Advanced Bank of Asia Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.108.218.0/23"
+    ],
     "ipv6": []
   }
 }

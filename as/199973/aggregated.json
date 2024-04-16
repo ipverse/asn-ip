@@ -3,7 +3,12 @@
   "handle": "MIGR",
   "description": "Migrationsverket",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "192.176.64.0/23",
+      "192.176.66.0/24"
+    ],
+    "ipv6": [
+      "2001:67c:18d8::/48"
+    ]
   }
 }

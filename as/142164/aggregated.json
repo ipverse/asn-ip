@@ -4,6 +4,8 @@
   "description": "GoldDoge Computer Technologies \u0026 Networks Information Center",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2406:840:e14f::/48"
+    ]
   }
 }

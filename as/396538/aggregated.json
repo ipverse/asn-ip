@@ -3,7 +3,9 @@
   "handle": "NORTHSITE-DATA",
   "description": "Northsite Data, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "97.64.86.0/23"
+    ],
     "ipv6": []
   }
 }

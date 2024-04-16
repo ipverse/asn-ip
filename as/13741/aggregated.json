@@ -3,7 +3,9 @@
   "handle": "SHIELDCLOUD-DATACENTER",
   "description": "ShieldCloud",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "65.181.176.0/22"
+    ],
     "ipv6": []
   }
 }

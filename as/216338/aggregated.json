@@ -3,7 +3,9 @@
   "handle": "INTELEGRO",
   "description": "INTELEGRO LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "191.101.101.0/24"
+    ],
     "ipv6": []
   }
 }

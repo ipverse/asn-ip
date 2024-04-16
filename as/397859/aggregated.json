@@ -3,7 +3,9 @@
   "handle": "TNMINC-1",
   "description": "TANIUM INC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "64.40.11.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "HWG",
   "description": "HWG Sababa srl",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.30.60.0/22"
+    ],
     "ipv6": []
   }
 }

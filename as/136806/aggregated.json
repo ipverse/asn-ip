@@ -3,7 +3,10 @@
   "handle": "TII-IN",
   "description": "Texas Instruments, Inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.146.116.0/24",
+      "192.163.5.0/24"
+    ],
     "ipv6": []
   }
 }

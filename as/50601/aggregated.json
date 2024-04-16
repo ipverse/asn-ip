@@ -3,7 +3,11 @@
   "handle": "CROSSIVITY",
   "description": "Crossivity bv",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "185.159.228.0/22"
+    ],
+    "ipv6": [
+      "2a07:b780::/29"
+    ]
   }
 }

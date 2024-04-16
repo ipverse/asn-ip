@@ -3,7 +3,11 @@
   "handle": "MEMPOOLSPACEKK-AP",
   "description": "Mempool Space K.K.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "103.165.192.0/23"
+    ],
+    "ipv6": [
+      "2001:df6:7280::/47"
+    ]
   }
 }

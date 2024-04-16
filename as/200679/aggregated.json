@@ -3,7 +3,9 @@
   "handle": "SPSIT",
   "description": "State Institute of Technology Saint-Petersburg",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "92.255.53.0/24"
+    ],
     "ipv6": []
   }
 }

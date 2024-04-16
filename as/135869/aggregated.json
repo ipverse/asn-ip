@@ -3,7 +3,9 @@
   "handle": "INI-IN",
   "description": "INI TECHNOLOGIES PRIVATE LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.187.182.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,11 @@
   "handle": "COLIBRI-CONSULTING",
   "description": "Colibri Consulting B.V.B.A.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "185.114.48.0/22"
+    ],
+    "ipv6": [
+      "2a06:6e40::/29"
+    ]
   }
 }

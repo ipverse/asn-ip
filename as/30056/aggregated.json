@@ -3,7 +3,9 @@
   "handle": "VUBIQUITY",
   "description": "Avail Media",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "8.29.164.0/24"
+    ],
     "ipv6": []
   }
 }

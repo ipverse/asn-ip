@@ -3,7 +3,9 @@
   "handle": "CHARTER-DC",
   "description": "Charter Communications",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "71.86.248.0/22"
+    ],
     "ipv6": []
   }
 }

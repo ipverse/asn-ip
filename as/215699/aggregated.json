@@ -3,7 +3,9 @@
   "handle": "PRIMONET",
   "description": "PRIMONET LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.193.195.0/24"
+    ],
     "ipv6": []
   }
 }

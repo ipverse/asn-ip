@@ -3,7 +3,9 @@
   "handle": "EP",
   "description": "EUROPEAN PARLIAMENT",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "136.173.0.0/16"
+    ],
     "ipv6": []
   }
 }

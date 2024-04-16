@@ -3,7 +3,10 @@
   "handle": "FIRST-FINANCIAL-BANK-NA",
   "description": "First Financial Bank NA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "66.163.217.0/24",
+      "205.167.96.0/24"
+    ],
     "ipv6": []
   }
 }

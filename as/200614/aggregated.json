@@ -3,7 +3,9 @@
   "handle": "VRTS-GPK",
   "description": "Veritas Technologies (UK) Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.192.164.0/22"
+    ],
     "ipv6": []
   }
 }

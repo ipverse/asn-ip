@@ -3,7 +3,9 @@
   "handle": "EPSON-ROBOTS",
   "description": "EPSON America (Factory Automation/Robotics)",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "23.92.164.0/22"
+    ],
     "ipv6": []
   }
 }

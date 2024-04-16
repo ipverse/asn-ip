@@ -3,7 +3,9 @@
   "handle": "UNITEDSOLUTIONS",
   "description": "United Solutions Company",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.44.220.0/23"
+    ],
     "ipv6": []
   }
 }

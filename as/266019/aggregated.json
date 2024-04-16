@@ -3,7 +3,11 @@
   "handle": "VSP-INFORMATICA",
   "description": "VSP INFORMATICA LTDA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "170.245.204.0/22"
+    ],
+    "ipv6": [
+      "2804:3938::/32"
+    ]
   }
 }

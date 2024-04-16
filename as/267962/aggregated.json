@@ -3,7 +3,11 @@
   "handle": "GT-NET-SERVIOS",
   "description": "GT NET SERVIOS DE PROVEDORES LTDA ME",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.166.136.0/22"
+    ],
+    "ipv6": [
+      "2804:55e0::/32"
+    ]
   }
 }

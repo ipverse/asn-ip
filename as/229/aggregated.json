@@ -3,7 +3,12 @@
   "handle": "MERIT-6",
   "description": "Merit Network Inc.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "192.41.230.0/23",
+      "192.41.236.0/23"
+    ],
+    "ipv6": [
+      "2001:48a8:68f7::/48"
+    ]
   }
 }

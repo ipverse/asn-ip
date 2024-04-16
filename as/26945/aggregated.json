@@ -3,7 +3,9 @@
   "handle": "AMRI",
   "description": "Curia Global, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "74.201.149.0/24"
+    ],
     "ipv6": []
   }
 }

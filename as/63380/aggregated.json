@@ -3,7 +3,9 @@
   "handle": "TRILLIUM-STAFFING",
   "description": "Trillium Staffing",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.96.176.0/24"
+    ],
     "ipv6": []
   }
 }

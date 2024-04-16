@@ -3,7 +3,9 @@
   "handle": "PROCANO",
   "description": "Procano AS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "109.235.112.0/21"
+    ],
     "ipv6": []
   }
 }

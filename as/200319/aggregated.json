@@ -3,7 +3,11 @@
   "handle": "KVANTTELECOM",
   "description": "Global Kvant Services GmbH",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "194.48.224.0/22"
+    ],
+    "ipv6": [
+      "2a0c:f440::/29"
+    ]
   }
 }

@@ -3,7 +3,9 @@
   "handle": "LIVINGSTON-ESA",
   "description": "Livingston ESA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "206.57.160.0/21"
+    ],
     "ipv6": []
   }
 }

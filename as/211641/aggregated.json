@@ -3,7 +3,9 @@
   "handle": "ARSTELECOM",
   "description": "ArsTelecom Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.109.20.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,11 @@
   "handle": "SAVTECHNOLOGY",
   "description": "SAVPLUS Inc.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "23.161.176.0/24"
+    ],
+    "ipv6": [
+      "2602:fd31::/36"
+    ]
   }
 }

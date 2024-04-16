@@ -3,7 +3,11 @@
   "handle": "IT-SMARTLINE-1",
   "description": "Smartline srls",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "185.100.164.0/22"
+    ],
+    "ipv6": [
+      "2a0d:d0c6::/32"
+    ]
   }
 }

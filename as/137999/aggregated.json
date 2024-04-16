@@ -3,7 +3,10 @@
   "handle": "QUINTRON-SYSTEMS-LIMITED",
   "description": "QUINTRON-SYSTEMS-LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.248.77.0/24",
+      "103.248.78.0/23"
+    ],
     "ipv6": []
   }
 }

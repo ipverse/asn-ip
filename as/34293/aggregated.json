@@ -3,7 +3,9 @@
   "handle": "ASJSTEL",
   "description": "J.S.tel s.r.o.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.237.51.0/24"
+    ],
     "ipv6": []
   }
 }

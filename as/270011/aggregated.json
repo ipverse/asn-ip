@@ -3,7 +3,9 @@
   "handle": "COOPERATIVA-PROVISION-OBRAS",
   "description": "COOPERATIVA DE PROVISION DE OBRAS Y SERVICIOS PUBLICOS Y SOCIALES DE CRUZ ALTA LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "190.111.132.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "RCLS-INTERNET",
   "description": "Ramapo Catskill Library System",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.102.252.0/24"
+    ],
     "ipv6": []
   }
 }

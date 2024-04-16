@@ -3,7 +3,9 @@
   "handle": "TRANSMOST",
   "description": "Transmost JSC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.190.209.0/24"
+    ],
     "ipv6": []
   }
 }

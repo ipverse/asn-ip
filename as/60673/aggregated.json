@@ -3,7 +3,10 @@
   "handle": "ACTIVCOM",
   "description": "Activcom Kft.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.27.60.0/22",
+      "185.191.188.0/22"
+    ],
     "ipv6": []
   }
 }

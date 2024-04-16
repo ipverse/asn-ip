@@ -3,7 +3,9 @@
   "handle": "GRAVATANET",
   "description": "GravataNET LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "177.101.160.0/20"
+    ],
     "ipv6": []
   }
 }

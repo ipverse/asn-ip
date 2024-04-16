@@ -3,7 +3,9 @@
   "handle": "VTEL",
   "description": "Vcareconnect B.V.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.8.244.0/22"
+    ],
     "ipv6": []
   }
 }

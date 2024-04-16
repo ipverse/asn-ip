@@ -3,7 +3,10 @@
   "handle": "TRANCOM-1",
   "description": "Trancom Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "93.188.184.0/21",
+      "94.247.120.0/21"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "PCM",
   "description": "PremierKom OOO",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.40.40.0/22"
+    ],
     "ipv6": []
   }
 }

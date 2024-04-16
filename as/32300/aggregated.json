@@ -3,7 +3,10 @@
   "handle": "FTNFI",
   "description": "FTN Financial",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "12.133.188.0/24",
+      "64.132.122.0/24"
+    ],
     "ipv6": []
   }
 }

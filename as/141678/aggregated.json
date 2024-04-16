@@ -3,7 +3,9 @@
   "handle": "GNPL-AP",
   "description": "Genesis Networks Pte Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.161.246.0/23"
+    ],
     "ipv6": []
   }
 }

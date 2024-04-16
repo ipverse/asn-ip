@@ -3,7 +3,10 @@
   "handle": "CHI-AURORA",
   "description": "Morningstar, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "206.220.18.0/23",
+      "216.228.224.0/22"
+    ],
     "ipv6": []
   }
 }

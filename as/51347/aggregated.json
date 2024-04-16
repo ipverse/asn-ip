@@ -3,7 +3,9 @@
   "handle": "CDR",
   "description": "SMS solutions SIA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.247.72.0/24"
+    ],
     "ipv6": []
   }
 }

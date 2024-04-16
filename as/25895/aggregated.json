@@ -3,7 +3,10 @@
   "handle": "HART-AS1",
   "description": "HART",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "173.227.149.0/24",
+      "174.46.98.0/24"
+    ],
     "ipv6": []
   }
 }

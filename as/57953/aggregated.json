@@ -3,7 +3,9 @@
   "handle": "GRIDCOM-RT",
   "description": "JSC Grid Company",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.237.32.0/24"
+    ],
     "ipv6": []
   }
 }

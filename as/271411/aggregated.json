@@ -3,7 +3,11 @@
   "handle": "FIBRA-1000-TELECOM",
   "description": "FIBRA 1000 TELECOM LTDA - ME",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "181.224.68.0/22"
+    ],
+    "ipv6": [
+      "2804:7b1c::/32"
+    ]
   }
 }

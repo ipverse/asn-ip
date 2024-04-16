@@ -3,7 +3,11 @@
   "handle": "TELEPERFORMANCE",
   "description": "S 800 Customer Service Provider SRL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "84.247.123.0/24",
+      "91.240.4.0/24",
+      "93.120.31.0/24"
+    ],
     "ipv6": []
   }
 }

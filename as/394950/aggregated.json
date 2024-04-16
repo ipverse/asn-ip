@@ -3,7 +3,9 @@
   "handle": "COLLECTIVE-HEALTH",
   "description": "CollectiveHealth, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "74.112.130.0/23"
+    ],
     "ipv6": []
   }
 }

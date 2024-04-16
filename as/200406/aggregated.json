@@ -3,7 +3,9 @@
   "handle": "BERBIDSERVER",
   "description": "Javid Berbid Mamasani Information Technology Company PJS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.5.176.0/22"
+    ],
     "ipv6": []
   }
 }

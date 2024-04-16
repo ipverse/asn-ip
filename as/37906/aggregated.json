@@ -3,7 +3,11 @@
   "handle": "NETIRD-BACKUP",
   "description": "NetIRD Inc. Backup Transit Network",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "202.254.128.0/24"
+    ],
+    "ipv6": [
+      "2402:d700::/32"
+    ]
   }
 }

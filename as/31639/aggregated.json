@@ -3,7 +3,9 @@
   "handle": "FI-PLANEETTA-ANYCAST",
   "description": "Planeetta Internet Oy",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.28.247.0/24"
+    ],
     "ipv6": []
   }
 }

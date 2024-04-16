@@ -3,7 +3,11 @@
   "handle": "FUSIX-OOB",
   "description": "Fusix Networks B.V.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "62.3.37.0/24"
+    ],
+    "ipv6": [
+      "2001:678:fe0::/48"
+    ]
   }
 }

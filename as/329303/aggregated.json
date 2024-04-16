@@ -3,7 +3,9 @@
   "handle": "SPLIZR-NETWORKS-PTY-LTD",
   "description": "Splizr Networks (Pty) Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "102.211.132.0/22"
+    ],
     "ipv6": []
   }
 }

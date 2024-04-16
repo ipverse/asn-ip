@@ -3,7 +3,10 @@
   "handle": "DKWIRELESS",
   "description": "DK Wireless Internet (Pty) Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "102.140.112.0/21",
+      "102.210.64.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "KUSD-ASN-01",
   "description": "KUSD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.25.139.0/24"
+    ],
     "ipv6": []
   }
 }

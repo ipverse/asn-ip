@@ -3,7 +3,10 @@
   "handle": "FLYNTER-NETWORKING",
   "description": "Flynter Networking Srl",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.152.38.0/24",
+      "188.72.94.0/24"
+    ],
     "ipv6": []
   }
 }

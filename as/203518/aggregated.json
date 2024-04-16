@@ -3,7 +3,10 @@
   "handle": "KTV-TERNBERG-1",
   "description": "Kabel-TV Ternberg BetriebsGmbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "80.121.192.0/22",
+      "193.107.45.0/24"
+    ],
     "ipv6": []
   }
 }

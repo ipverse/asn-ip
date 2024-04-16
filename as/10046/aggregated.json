@@ -3,7 +3,10 @@
   "handle": "HOWON",
   "description": "HOWON UNIVERSITY",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "203.230.152.0/22",
+      "203.246.64.0/21"
+    ],
     "ipv6": []
   }
 }

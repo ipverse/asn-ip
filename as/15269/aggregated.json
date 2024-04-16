@@ -3,7 +3,9 @@
   "handle": "PAI",
   "description": "ConocoPhillips Company",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "138.32.8.0/21"
+    ],
     "ipv6": []
   }
 }

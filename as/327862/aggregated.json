@@ -3,7 +3,9 @@
   "handle": "NOSI",
   "description": "NOSi EPE",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "213.150.192.0/21"
+    ],
     "ipv6": []
   }
 }

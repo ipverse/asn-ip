@@ -3,7 +3,11 @@
   "handle": "NORDIXNETT",
   "description": "Nordix Data AS",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "185.23.144.0/22"
+    ],
+    "ipv6": [
+      "2a03:8000::/32"
+    ]
   }
 }

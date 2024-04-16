@@ -3,7 +3,9 @@
   "handle": "ISOLTEC-TELECOM",
   "description": "ISOLTEC TELECOM LTDA - ME",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.7.80.0/22"
+    ],
     "ipv6": []
   }
 }

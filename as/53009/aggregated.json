@@ -3,7 +3,11 @@
   "handle": "BACTH-SERVICOS-INFORMATICA",
   "description": "Bacth Servicos de Informatica Ltda",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "177.67.34.0/23"
+    ],
+    "ipv6": [
+      "2804:560::/39"
+    ]
   }
 }

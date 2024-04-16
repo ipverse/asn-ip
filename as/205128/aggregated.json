@@ -3,7 +3,9 @@
   "handle": "TRIXIR",
   "description": "Phoenix Media Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "217.174.158.0/24"
+    ],
     "ipv6": []
   }
 }

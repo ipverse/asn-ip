@@ -3,7 +3,9 @@
   "handle": "DICT",
   "description": "Denkers-ICT B.V.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "217.28.138.0/24"
+    ],
     "ipv6": []
   }
 }

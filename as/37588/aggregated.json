@@ -3,7 +3,9 @@
   "handle": "ORLEAN-INVEST-AFRICA-LIMITED",
   "description": "ORLEAN INVEST AFRICA LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "196.6.188.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "ASLIFEPC",
   "description": "LIFEPC, s.r.o.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "81.161.60.0/23"
+    ],
     "ipv6": []
   }
 }

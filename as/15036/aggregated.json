@@ -3,7 +3,11 @@
   "handle": "TOWN-OF-PINEVILLE",
   "description": "Town of Pineville",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "66.245.168.0/22",
+      "162.210.28.0/22",
+      "208.80.76.0/22"
+    ],
     "ipv6": []
   }
 }

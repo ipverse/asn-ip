@@ -3,7 +3,9 @@
   "handle": "OASISGSSERVICES",
   "description": "OASISGSSERVICES",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.67.236.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "HEWLETT-PACKARD-MEXICO",
   "description": "Hewlett-Packard Mexico, S. de R.L. de C.V.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.85.78.0/23"
+    ],
     "ipv6": []
   }
 }

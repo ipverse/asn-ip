@@ -4,6 +4,8 @@
   "description": "Bubacarr Sowe",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a06:a001:a0f3::/48"
+    ]
   }
 }

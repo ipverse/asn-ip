@@ -3,7 +3,9 @@
   "handle": "VANDHAM-SECURITIES",
   "description": "Wall Street Access",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.73.45.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "CGGS-AP",
   "description": "Camberwell Anglican Girls Grammar School",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.79.231.0/24"
+    ],
     "ipv6": []
   }
 }

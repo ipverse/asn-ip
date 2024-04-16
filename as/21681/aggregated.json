@@ -3,7 +3,13 @@
   "handle": "MPOWER-POWERED-BY-MEC",
   "description": "Mecklenburg Electric Cooperative",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "192.86.21.0/24",
+      "198.145.122.0/23",
+      "199.196.191.0/24"
+    ],
+    "ipv6": [
+      "2604:cf40::/32"
+    ]
   }
 }

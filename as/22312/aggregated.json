@@ -3,7 +3,10 @@
   "handle": "TECO-ENERGY",
   "description": "TECO Energy, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "12.171.196.0/24",
+      "66.35.152.0/24"
+    ],
     "ipv6": []
   }
 }

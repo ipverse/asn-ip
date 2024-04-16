@@ -3,7 +3,9 @@
   "handle": "IDNIC-KLIKSERVERID-ID",
   "description": "CV Klik Server Indonesia",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "157.15.164.0/23"
+    ],
     "ipv6": []
   }
 }

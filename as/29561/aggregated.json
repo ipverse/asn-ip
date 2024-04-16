@@ -3,7 +3,9 @@
   "handle": "PROTEK",
   "description": "JSC Firma Center Vnedreniya Protek",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.146.119.0/24"
+    ],
     "ipv6": []
   }
 }

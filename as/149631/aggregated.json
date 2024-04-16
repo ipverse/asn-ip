@@ -3,7 +3,9 @@
   "handle": "IPC-AP",
   "description": "IOE Pashchimanchal Campus",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.224.106.0/24"
+    ],
     "ipv6": []
   }
 }

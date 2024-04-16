@@ -3,7 +3,9 @@
   "handle": "DEIL",
   "description": "Deil Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.218.92.0/22"
+    ],
     "ipv6": []
   }
 }

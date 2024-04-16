@@ -3,7 +3,9 @@
   "handle": "FIELD-AU",
   "description": "Field Solutions Group Pty Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.98.86.0/23"
+    ],
     "ipv6": []
   }
 }

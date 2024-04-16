@@ -3,7 +3,9 @@
   "handle": "CATAWBAVALLEYMC",
   "description": "Catawba Valley Medical Center",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.5.255.0/24"
+    ],
     "ipv6": []
   }
 }

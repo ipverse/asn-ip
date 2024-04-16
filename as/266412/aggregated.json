@@ -3,7 +3,9 @@
   "handle": "FARMABASE-SAUDE-ANIMAL",
   "description": "Farmabase Saude Animal Ltda.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "170.81.96.0/22"
+    ],
     "ipv6": []
   }
 }

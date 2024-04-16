@@ -3,7 +3,11 @@
   "handle": "CHEBUCTONET",
   "description": "Chebucto Community Net Society",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "192.75.95.0/24"
+    ],
+    "ipv6": [
+      "2001:410:a002::/48"
+    ]
   }
 }

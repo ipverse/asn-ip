@@ -3,7 +3,12 @@
   "handle": "AMWAJ",
   "description": "AMWAJ ALKHYR COMMERCIAL BROKERS CO.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "212.80.29.0/24",
+      "213.134.17.0/24"
+    ],
+    "ipv6": [
+      "2a13:3cc0::/30"
+    ]
   }
 }

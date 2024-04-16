@@ -3,7 +3,9 @@
   "handle": "ASBNK",
   "description": "ASBANK LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "37.235.76.0/24"
+    ],
     "ipv6": []
   }
 }

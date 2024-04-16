@@ -3,7 +3,11 @@
   "handle": "ALMEIDA-CARMO-INFORMATICA",
   "description": "ALMEIDA CARMO INFORMATICA LTDA-ME",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.232.64.0/22"
+    ],
+    "ipv6": [
+      "2804:4ad8::/32"
+    ]
   }
 }

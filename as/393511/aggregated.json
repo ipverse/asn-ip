@@ -3,7 +3,10 @@
   "handle": "NUV-AS01",
   "description": "Nuvollo",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.20.128.0/23",
+      "38.45.16.0/23"
+    ],
     "ipv6": []
   }
 }

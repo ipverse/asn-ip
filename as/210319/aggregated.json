@@ -3,7 +3,9 @@
   "handle": "BETELING",
   "description": "Beteling, Consultoria e Ingenieria S.L.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "88.135.76.0/22"
+    ],
     "ipv6": []
   }
 }

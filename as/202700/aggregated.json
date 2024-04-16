@@ -3,7 +3,10 @@
   "handle": "KUSHKHOV",
   "description": "Individual entrepreneur Kushkhov Azret Ali Alisakhovich",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "37.18.61.0/24",
+      "37.18.105.0/24"
+    ],
     "ipv6": []
   }
 }

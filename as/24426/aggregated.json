@@ -3,7 +3,9 @@
   "handle": "CNNIC-SINO-I",
   "description": "Beijing CE Huatong Information Technology Co., Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "110.44.144.0/20"
+    ],
     "ipv6": []
   }
 }

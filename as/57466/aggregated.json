@@ -3,7 +3,9 @@
   "handle": "ETS",
   "description": "Eurasian Trade System Commodity Exchange OJSC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.60.232.0/22"
+    ],
     "ipv6": []
   }
 }

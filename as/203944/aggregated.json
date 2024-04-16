@@ -3,7 +3,9 @@
   "handle": "LU-DIDATA",
   "description": "NTT Luxembourg PSF S.A.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.118.216.0/22"
+    ],
     "ipv6": []
   }
 }

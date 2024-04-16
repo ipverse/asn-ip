@@ -3,7 +3,10 @@
   "handle": "CLSA-AP",
   "description": "CLSA Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "202.124.28.0/23",
+      "202.124.30.0/24"
+    ],
     "ipv6": []
   }
 }

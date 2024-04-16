@@ -3,7 +3,9 @@
   "handle": "NEOFIBRA-TELECOM",
   "description": "Neofibra Telecom",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.161.216.0/22"
+    ],
     "ipv6": []
   }
 }

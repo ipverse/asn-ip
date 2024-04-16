@@ -3,7 +3,9 @@
   "handle": "PIRATEL-LA1",
   "description": "Piratel LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "206.126.228.0/24"
+    ],
     "ipv6": []
   }
 }

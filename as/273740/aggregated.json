@@ -3,7 +3,11 @@
   "handle": "ULTRA-LINK-SOLUOES",
   "description": "ULTRA LINK SOLUOES EM INTERNET LTDA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "38.159.228.0/24"
+    ],
+    "ipv6": [
+      "2804:8b8c::/32"
+    ]
   }
 }

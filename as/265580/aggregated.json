@@ -3,7 +3,9 @@
   "handle": "DIGITCENTER-MXICO",
   "description": "Digitcenter de Mxico, S.A. de C.V.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.174.252.0/22"
+    ],
     "ipv6": []
   }
 }

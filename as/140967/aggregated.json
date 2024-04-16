@@ -3,9 +3,11 @@
   "handle": "STEELE-NETWORKS-AP",
   "description": "Steele Networks Pty Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.153.238.0/23"
+    ],
     "ipv6": [
-      "2401:8220::/33"
+      "2401:8220::/32"
     ]
   }
 }

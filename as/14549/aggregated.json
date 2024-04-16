@@ -3,7 +3,9 @@
   "handle": "ITC-GLOBAL-LLC",
   "description": "ITC Global",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "208.86.136.0/22"
+    ],
     "ipv6": []
   }
 }

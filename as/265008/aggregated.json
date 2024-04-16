@@ -3,7 +3,11 @@
   "handle": "T-F-SILVA",
   "description": "T F DA SILVA RAMOS TELECOMUNICAES E SISTEMA EPP",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "170.0.60.0/22"
+    ],
+    "ipv6": [
+      "2804:3158::/32"
+    ]
   }
 }

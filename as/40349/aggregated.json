@@ -3,7 +3,9 @@
   "handle": "ISAGENIX",
   "description": "Isagenix International LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "216.160.207.0/24"
+    ],
     "ipv6": []
   }
 }

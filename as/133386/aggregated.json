@@ -3,7 +3,10 @@
   "handle": "RCL-AP",
   "description": "Reliance Capital Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.75.140.0/23",
+      "103.75.143.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "WORLDLINX",
   "description": "WorldLinx Telecommunications, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.243.116.0/22"
+    ],
     "ipv6": []
   }
 }

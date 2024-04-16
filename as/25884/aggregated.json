@@ -3,7 +3,9 @@
   "handle": "WIZARDS",
   "description": "Wizards of the Coast",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.33.216.0/24"
+    ],
     "ipv6": []
   }
 }

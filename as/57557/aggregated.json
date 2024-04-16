@@ -3,7 +3,9 @@
   "handle": "VC-JILHOZ",
   "description": "JSC VCKP Zhilishchnoe hozyajstvo",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.232.244.0/23"
+    ],
     "ipv6": []
   }
 }

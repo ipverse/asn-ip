@@ -3,7 +3,11 @@
   "handle": "SCI",
   "description": "SCI Funeral \u0026 Cemetery Purchasing Cooperative, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.107.206.0/24",
+      "198.162.255.0/24",
+      "198.176.149.0/24"
+    ],
     "ipv6": []
   }
 }

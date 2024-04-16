@@ -3,7 +3,9 @@
   "handle": "GETDATACOM",
   "description": "Datacom LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "204.9.216.0/22"
+    ],
     "ipv6": []
   }
 }

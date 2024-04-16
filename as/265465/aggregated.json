@@ -3,7 +3,11 @@
   "handle": "JJVA-PROVEDOR-INTERNET",
   "description": "JJVA Provedor de Internet ME LTDA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "168.196.160.0/22"
+    ],
+    "ipv6": [
+      "2804:3490::/32"
+    ]
   }
 }

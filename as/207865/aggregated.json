@@ -3,7 +3,9 @@
   "handle": "PASI",
   "description": "Social Protection Fund",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.135.88.0/22"
+    ],
     "ipv6": []
   }
 }

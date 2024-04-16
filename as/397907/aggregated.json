@@ -3,7 +3,9 @@
   "handle": "AEG",
   "description": "AEG",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "104.192.231.0/24"
+    ],
     "ipv6": []
   }
 }

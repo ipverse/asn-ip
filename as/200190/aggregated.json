@@ -3,7 +3,9 @@
   "handle": "OWLIGO",
   "description": "Owligo Bilisim Sistemleri A.S",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.169.77.0/24"
+    ],
     "ipv6": []
   }
 }

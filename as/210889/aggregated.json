@@ -3,7 +3,9 @@
   "handle": "KRASTSVETMET",
   "description": "KRASTSVETMET OJSC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "94.139.243.0/24"
+    ],
     "ipv6": []
   }
 }

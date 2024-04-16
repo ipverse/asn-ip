@@ -3,7 +3,11 @@
   "handle": "TSK-NET",
   "description": "Genel Kurmay Baskanligi",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.110.208.0/24",
+      "193.110.210.0/23",
+      "193.110.212.0/22"
+    ],
     "ipv6": []
   }
 }

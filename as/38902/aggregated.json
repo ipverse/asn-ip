@@ -3,7 +3,11 @@
   "handle": "GLOBALLOGIC-IN",
   "description": "GlobalLogic India Ltd.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "202.174.92.0/22"
+    ],
+    "ipv6": [
+      "2402:f100::/38"
+    ]
   }
 }

@@ -3,7 +3,9 @@
   "handle": "MICROCHIP",
   "description": "Microchip s.c. W. Wrodarczyk, A. Kossowski",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "94.231.0.0/20"
+    ],
     "ipv6": []
   }
 }

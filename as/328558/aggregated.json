@@ -3,7 +3,9 @@
   "handle": "SENELEC",
   "description": "Senelec SA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "102.36.147.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,11 @@
   "handle": "LUZ-CUNHA",
   "description": "LUZ E CUNHA LTDA - ME",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.224.60.0/22"
+    ],
+    "ipv6": [
+      "2804:44f4:400::/38"
+    ]
   }
 }

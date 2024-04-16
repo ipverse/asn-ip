@@ -3,7 +3,9 @@
   "handle": "GPEC",
   "description": "Gdanskie Przedsiebiorstwo Energetyki Cieplnej Sp. z o.o.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "213.192.112.0/24"
+    ],
     "ipv6": []
   }
 }

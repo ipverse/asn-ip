@@ -3,7 +3,9 @@
   "handle": "INTERNET-PAPINEAU",
   "description": "Internet Papineau",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "136.175.44.0/22"
+    ],
     "ipv6": []
   }
 }

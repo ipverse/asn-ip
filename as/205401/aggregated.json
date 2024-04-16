@@ -3,7 +3,9 @@
   "handle": "IBA",
   "description": "Ion Beam Applications SA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "178.211.148.0/24"
+    ],
     "ipv6": []
   }
 }

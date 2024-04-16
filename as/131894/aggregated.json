@@ -3,7 +3,9 @@
   "handle": "U-CLOUD-2",
   "description": "UNIADEX, LTD.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "223.223.166.0/24"
+    ],
     "ipv6": []
   }
 }

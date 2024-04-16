@@ -3,7 +3,10 @@
   "handle": "SEGURIBER",
   "description": "INV PROTECCION S.L.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "176.222.24.0/23",
+      "176.222.28.0/24"
+    ],
     "ipv6": []
   }
 }

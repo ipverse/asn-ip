@@ -3,7 +3,9 @@
   "handle": "TOCDOSOVN-VN",
   "description": "TOCDOSOVN-VN",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.195.240.0/22"
+    ],
     "ipv6": []
   }
 }

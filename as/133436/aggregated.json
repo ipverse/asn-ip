@@ -3,7 +3,9 @@
   "handle": "KONTAKONE-APO",
   "description": "KONTAK ONE MANAGEMENT EXCHANGE, INC.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.10.152.0/22"
+    ],
     "ipv6": []
   }
 }

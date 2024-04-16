@@ -3,7 +3,9 @@
   "handle": "COMPLEMAR-ROCHESTER",
   "description": "Complemar Partners, INC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "50.49.252.0/24"
+    ],
     "ipv6": []
   }
 }

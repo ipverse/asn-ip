@@ -3,7 +3,9 @@
   "handle": "NABADMIN",
   "description": "NATIONAL BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.167.77.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "UMK",
   "description": "LLC Universalna Merezheva Kompaniya",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.192.184.0/22"
+    ],
     "ipv6": []
   }
 }

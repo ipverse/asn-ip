@@ -3,7 +3,9 @@
   "handle": "SARNOVA-DC-ASN01",
   "description": "SARNOVA, INC.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "104.249.190.0/24"
+    ],
     "ipv6": []
   }
 }

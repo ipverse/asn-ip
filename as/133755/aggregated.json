@@ -3,7 +3,9 @@
   "handle": "AIABHD-AP",
   "description": "AIA Bhd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.39.142.0/23"
+    ],
     "ipv6": []
   }
 }

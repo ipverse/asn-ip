@@ -3,7 +3,9 @@
   "handle": "ZS-ASSOCIATES",
   "description": "ZS Associates, Inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "198.62.93.0/24"
+    ],
     "ipv6": []
   }
 }

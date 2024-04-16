@@ -3,7 +3,9 @@
   "handle": "RESIDENCE-CONTROL",
   "description": "RESIDENCE CONTROL EOOD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "212.36.18.0/24"
+    ],
     "ipv6": []
   }
 }

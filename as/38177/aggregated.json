@@ -3,7 +3,11 @@
   "handle": "FEDEX-AP",
   "description": "Federal Express Corporation Hong Kong Branch",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "198.140.4.0/24"
+    ],
+    "ipv6": [
+      "2407:4c0:ffff::/48"
+    ]
   }
 }

@@ -3,7 +3,9 @@
   "handle": "ALEA",
   "description": "Alabama Law Enforcement Agency",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "104.145.128.0/18"
+    ],
     "ipv6": []
   }
 }

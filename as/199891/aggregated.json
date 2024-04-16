@@ -3,7 +3,9 @@
   "handle": "RONI",
   "description": "RONI FIRMA HANDLOWO-USLUGOWA Edmund Rusinek",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "82.160.220.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,11 @@
   "handle": "SMART-TECH-TELECOMUNICAES",
   "description": "Smart Tech Telecomunicaes Ltda",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.189.88.0/22"
+    ],
+    "ipv6": [
+      "2804:66a8::/32"
+    ]
   }
 }

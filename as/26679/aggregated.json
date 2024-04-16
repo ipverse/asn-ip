@@ -3,7 +3,11 @@
   "handle": "HELIACAL",
   "description": "Heliacal Networks",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "192.64.152.0/22"
+    ],
+    "ipv6": [
+      "2620:112:e000::/44"
+    ]
   }
 }

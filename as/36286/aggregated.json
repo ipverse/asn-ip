@@ -3,7 +3,9 @@
   "handle": "RLEWAN-01",
   "description": "NGA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "216.66.52.0/24"
+    ],
     "ipv6": []
   }
 }

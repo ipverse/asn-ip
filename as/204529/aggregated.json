@@ -3,7 +3,9 @@
   "handle": "TOFAS",
   "description": "TOFAS TURK OTOMOBIL FABRIKASI A.S.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.114.218.0/24"
+    ],
     "ipv6": []
   }
 }

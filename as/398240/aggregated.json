@@ -3,7 +3,9 @@
   "handle": "IDENTIDAD",
   "description": "Identidad Telecom",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.150.123.0/24"
+    ],
     "ipv6": []
   }
 }

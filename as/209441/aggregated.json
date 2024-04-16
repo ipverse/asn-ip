@@ -3,7 +3,9 @@
   "handle": "TEKFEN",
   "description": "Tekfen Holding Anonim Sirketi",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "5.253.220.0/22"
+    ],
     "ipv6": []
   }
 }

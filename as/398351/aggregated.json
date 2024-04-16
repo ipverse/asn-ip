@@ -3,7 +3,13 @@
   "handle": "MAYMOBILITY",
   "description": "May Mobility, Inc",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "66.51.148.0/24"
+    ],
+    "ipv6": [
+      "2602:80a:2000::/48",
+      "2602:80a:2004::/48",
+      "2602:80a:2014::/48"
+    ]
   }
 }

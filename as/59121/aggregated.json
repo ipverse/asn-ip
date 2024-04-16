@@ -3,7 +3,10 @@
   "handle": "AKNWS-NET",
   "description": "Asahi Kasei Networks Corporation",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "138.212.0.0/17",
+      "202.11.64.0/24"
+    ],
     "ipv6": []
   }
 }

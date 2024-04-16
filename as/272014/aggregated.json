@@ -3,7 +3,9 @@
   "handle": "DCH-COMPAIA-COMUNICACIONES",
   "description": "DCH COMPAIA DE COMUNICACIONES E INMOBILIARIA LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "138.0.120.0/23"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,10 @@
   "handle": "SB-TOPEKA",
   "description": "Security Benefit",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "12.53.34.0/24",
+      "184.180.79.0/24"
+    ],
     "ipv6": []
   }
 }

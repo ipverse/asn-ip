@@ -3,7 +3,9 @@
   "handle": "KONFITEL",
   "description": "Zagorodniy Maxim",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.216.173.0/24"
+    ],
     "ipv6": []
   }
 }

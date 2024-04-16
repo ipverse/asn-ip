@@ -3,7 +3,9 @@
   "handle": "ERI-ENT",
   "description": "Eldorado Resorts, Inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "64.141.240.0/24"
+    ],
     "ipv6": []
   }
 }

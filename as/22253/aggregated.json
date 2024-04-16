@@ -3,7 +3,9 @@
   "handle": "IHIRELLC",
   "description": "IHIRE LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "208.86.80.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,10 @@
   "handle": "INGERSOLL-RAND",
   "description": "Trane Technologies Company LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "168.65.224.0/20",
+      "206.44.224.0/20"
+    ],
     "ipv6": []
   }
 }

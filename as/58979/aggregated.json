@@ -3,7 +3,11 @@
   "handle": "CLOUDREGISTRY-AP",
   "description": "Cloud Registry Pty Ltd",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "103.5.92.0/24"
+    ],
+    "ipv6": [
+      "2402:8700:53::/48"
+    ]
   }
 }

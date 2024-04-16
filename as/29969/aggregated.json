@@ -3,7 +3,9 @@
   "handle": "PROTOCOL",
   "description": "BI Incorporated",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "65.118.24.0/23"
+    ],
     "ipv6": []
   }
 }

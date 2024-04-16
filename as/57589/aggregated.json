@@ -3,7 +3,9 @@
   "handle": "ESUPPORT",
   "description": "Equipment Support Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.233.63.0/24"
+    ],
     "ipv6": []
   }
 }

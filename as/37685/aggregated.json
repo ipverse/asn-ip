@@ -3,7 +3,9 @@
   "handle": "COMPFIXDL",
   "description": "Compfix Data Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "41.242.4.0/22"
+    ],
     "ipv6": []
   }
 }

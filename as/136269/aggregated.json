@@ -3,7 +3,9 @@
   "handle": "BPAC-CS-LP-AP",
   "description": "BPAC CLINICAL SOLUTIONS LP",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.85.155.0/24"
+    ],
     "ipv6": []
   }
 }

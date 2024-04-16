@@ -3,7 +3,10 @@
   "handle": "OMNENEST-AP",
   "description": "Omnenest Technologies Private Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.114.228.0/24",
+      "103.210.194.0/23"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "SVIAZSTROY-AS2",
   "description": "Limited Company Sviaz-Stroy",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.236.166.0/23"
+    ],
     "ipv6": []
   }
 }

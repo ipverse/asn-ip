@@ -3,7 +3,10 @@
   "handle": "LITTLEWOODS",
   "description": "LITTLEWOODS LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.60.115.0/24",
+      "194.60.117.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,11 @@
   "handle": "DAYNET-01",
   "description": "Dayton",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "167.94.114.0/24"
+    ],
+    "ipv6": [
+      "2602:fc37::/36"
+    ]
   }
 }

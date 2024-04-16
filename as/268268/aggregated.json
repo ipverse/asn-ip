@@ -3,7 +3,11 @@
   "handle": "LINKNET-SERVICOS-COMRCIO",
   "description": "LINKNET SERVICOS E COMRCIO LTDA - ME",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.237.96.0/22"
+    ],
+    "ipv6": [
+      "2804:4e8c::/32"
+    ]
   }
 }

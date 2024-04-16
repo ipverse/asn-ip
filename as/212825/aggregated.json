@@ -3,7 +3,11 @@
   "handle": "NIMNET",
   "description": "Novitni Informaciini Merezhi Ltd",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "194.44.176.0/24"
+    ],
+    "ipv6": [
+      "2a00:fc00:e011::/48"
+    ]
   }
 }

@@ -3,7 +3,10 @@
   "handle": "CANTERBURY",
   "description": "One New Zealand Group Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "132.181.0.0/16",
+      "202.36.178.0/23"
+    ],
     "ipv6": []
   }
 }

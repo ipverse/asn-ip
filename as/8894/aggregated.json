@@ -3,7 +3,9 @@
   "handle": "NICE",
   "description": "Nice LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.114.148.0/22"
+    ],
     "ipv6": []
   }
 }

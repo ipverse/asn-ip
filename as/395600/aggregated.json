@@ -3,7 +3,9 @@
   "handle": "COPYSEIS",
   "description": "Copyseis Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "162.142.126.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,11 @@
   "handle": "HGC-AP",
   "description": "HGC Global Communications Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "118.143.169.0/24",
+      "218.189.117.0/24",
+      "218.189.118.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "BGP-LATHAM",
   "description": "New York State United Teachers",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.233.77.0/24"
+    ],
     "ipv6": []
   }
 }

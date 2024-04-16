@@ -3,7 +3,9 @@
   "handle": "NORTHWESTUNION",
   "description": "North West Union Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.52.48.0/24"
+    ],
     "ipv6": []
   }
 }

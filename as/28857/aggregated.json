@@ -3,7 +3,12 @@
   "handle": "CSC",
   "description": "DXC Technology Austria GmbH",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "20.154.66.0/23",
+      "195.78.52.0/23"
+    ],
+    "ipv6": [
+      "2001:4b60::/32"
+    ]
   }
 }

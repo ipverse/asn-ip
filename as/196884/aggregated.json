@@ -3,7 +3,9 @@
   "handle": "TONB",
   "description": "State Autonomous Cultural Organisation of Tyumen Region Tyumen Regional Science Library named D.I.Mendeleeva",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.104.237.0/24"
+    ],
     "ipv6": []
   }
 }

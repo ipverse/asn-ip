@@ -3,7 +3,10 @@
   "handle": "INTEGRA-ID",
   "description": "PT Integra Ventura",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.6.0.0/23",
+      "203.12.20.0/23"
+    ],
     "ipv6": []
   }
 }

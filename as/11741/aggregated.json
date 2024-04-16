@@ -3,7 +3,9 @@
   "handle": "BENTONREA",
   "description": "BENTON REA POWERNET",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "216.7.32.0/19"
+    ],
     "ipv6": []
   }
 }

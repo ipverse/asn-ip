@@ -3,7 +3,9 @@
   "handle": "NIITP",
   "description": "Joint Stock Company Science research institute for precise instruments",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.19.68.0/23"
+    ],
     "ipv6": []
   }
 }

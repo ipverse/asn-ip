@@ -4,6 +4,8 @@
   "description": "It Is Internet Pty Ltd",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2c0f:f6f8::/32"
+    ]
   }
 }

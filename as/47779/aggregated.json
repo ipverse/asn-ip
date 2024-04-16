@@ -3,7 +3,9 @@
   "handle": "FLASHINTERNET",
   "description": "IE Dikhtyaryuk Dmitriy Yurevich",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "5.183.153.0/24"
+    ],
     "ipv6": []
   }
 }

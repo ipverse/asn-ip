@@ -3,7 +3,9 @@
   "handle": "DSP-AP",
   "description": "DSP ASSET MANAGERS PRIVATE LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.233.243.0/24"
+    ],
     "ipv6": []
   }
 }

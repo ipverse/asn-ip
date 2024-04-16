@@ -3,7 +3,10 @@
   "handle": "MIDAMERICAN",
   "description": "MidAmerican Energy Holdings Company",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "204.124.192.0/22",
+      "206.108.232.0/22"
+    ],
     "ipv6": []
   }
 }

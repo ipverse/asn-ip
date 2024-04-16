@@ -3,7 +3,10 @@
   "handle": "HELIONTECHNOLOGIES",
   "description": "Helion Technologies, Inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.12.46.0/24",
+      "209.255.207.0/24"
+    ],
     "ipv6": []
   }
 }

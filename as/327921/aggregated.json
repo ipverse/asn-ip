@@ -3,7 +3,9 @@
   "handle": "BAIT-ASHAMES-FOR-DATA-COMMUNICATION",
   "description": "Bait Ashames for Data Communication",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "102.220.141.0/24"
+    ],
     "ipv6": []
   }
 }

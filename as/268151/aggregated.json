@@ -3,7 +3,9 @@
   "handle": "BRAZNET-TELECOM-SERVIOS",
   "description": "Braznet Telecom Servios em Telecomunicao LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.170.76.0/22"
+    ],
     "ipv6": []
   }
 }

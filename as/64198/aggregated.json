@@ -3,7 +3,9 @@
   "handle": "ESET-LLC",
   "description": "ESET LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.94.206.0/24"
+    ],
     "ipv6": []
   }
 }

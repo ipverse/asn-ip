@@ -3,7 +3,9 @@
   "handle": "BIS-DOC",
   "description": "BIS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.30.203.0/24"
+    ],
     "ipv6": []
   }
 }

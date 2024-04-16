@@ -3,7 +3,9 @@
   "handle": "PMGAA",
   "description": "Phoenix-Mesa Gateway Airport Authority",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "206.207.152.0/24"
+    ],
     "ipv6": []
   }
 }

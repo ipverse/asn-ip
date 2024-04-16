@@ -3,7 +3,9 @@
   "handle": "SOLYTRO-LTD",
   "description": "Solytro LTD.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.176.101.0/24"
+    ],
     "ipv6": []
   }
 }

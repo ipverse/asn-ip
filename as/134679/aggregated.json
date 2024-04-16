@@ -3,7 +3,9 @@
   "handle": "HILLSIDE-NEW-MEDIA-AP",
   "description": "Hillside (Australia New Media) Pty Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "178.237.169.0/24"
+    ],
     "ipv6": []
   }
 }

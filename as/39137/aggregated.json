@@ -3,7 +3,9 @@
   "handle": "STRALF",
   "description": "PostNord Stralfors AB",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.66.94.0/24"
+    ],
     "ipv6": []
   }
 }

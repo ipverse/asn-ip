@@ -3,7 +3,9 @@
   "handle": "ATAK",
   "description": "Atak Domain Hosting Internet ve Bilgi Teknolojileri Ltd. Sti.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.46.40.0/22"
+    ],
     "ipv6": []
   }
 }

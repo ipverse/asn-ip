@@ -3,7 +3,9 @@
   "handle": "SINARA-GROUP",
   "description": "AO Sinara Group",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "213.242.193.0/24"
+    ],
     "ipv6": []
   }
 }

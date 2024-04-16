@@ -3,7 +3,9 @@
   "handle": "AFS147",
   "description": "Area Financial Services Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "198.49.135.0/24"
+    ],
     "ipv6": []
   }
 }

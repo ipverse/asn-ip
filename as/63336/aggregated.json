@@ -3,7 +3,9 @@
   "handle": "ADVENTIST-HEALTHCARE-MARYLAND",
   "description": "Adventist Healthcare",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "64.112.116.0/24"
+    ],
     "ipv6": []
   }
 }

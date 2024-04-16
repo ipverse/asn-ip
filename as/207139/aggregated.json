@@ -3,7 +3,9 @@
   "handle": "NWRK-OFFICE",
   "description": "New Work SE",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.169.115.0/24"
+    ],
     "ipv6": []
   }
 }

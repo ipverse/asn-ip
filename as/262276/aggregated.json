@@ -3,7 +3,9 @@
   "handle": "TERRA-AZUL-ORG-ADM",
   "description": "Terra Azul Org. Adm. S/C Ltda.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "177.23.245.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "ECHA",
   "description": "European Chemicals Agency",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.187.232.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "TMCS",
   "description": "Tailor Made Technologies Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.130.92.0/22"
+    ],
     "ipv6": []
   }
 }

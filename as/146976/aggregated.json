@@ -3,9 +3,11 @@
   "handle": "KNET",
   "description": "Kvision Co.,Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "202.126.24.0/21"
+    ],
     "ipv6": [
-      "2400:f460:100::/42"
+      "2400:f460::/32"
     ]
   }
 }

@@ -3,7 +3,10 @@
   "handle": "ATOS-CH",
   "description": "Eviden AG",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.56.132.0/22",
+      "194.204.64.0/19"
+    ],
     "ipv6": []
   }
 }

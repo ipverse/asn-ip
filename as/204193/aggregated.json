@@ -3,7 +3,10 @@
   "handle": "PRAGMA",
   "description": "Pragma Cloud Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.110.180.0/23",
+      "185.110.182.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,11 @@
   "handle": "FULL-TECH-TELECOM",
   "description": "FULL TECH TELECOM",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "167.249.108.0/22"
+    ],
+    "ipv6": [
+      "2804:2b90::/32"
+    ]
   }
 }

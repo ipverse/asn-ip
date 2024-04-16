@@ -3,7 +3,9 @@
   "handle": "COBRANETNG",
   "description": "Cobranet Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "80.89.176.0/24"
+    ],
     "ipv6": []
   }
 }

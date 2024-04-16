@@ -3,7 +3,11 @@
   "handle": "REMOD",
   "description": "Remod Oy",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "185.75.128.0/22"
+    ],
+    "ipv6": [
+      "2a03:4d22::/32"
+    ]
   }
 }

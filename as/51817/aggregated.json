@@ -3,7 +3,9 @@
   "handle": "LONZA",
   "description": "Lonza AG",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.220.100.0/24"
+    ],
     "ipv6": []
   }
 }

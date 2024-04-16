@@ -3,7 +3,11 @@
   "handle": "GOEYJ",
   "description": "Gyeonggi-do Yeoju Office of Education",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "1.238.20.0/23",
+      "121.133.203.0/24",
+      "218.155.187.0/24"
+    ],
     "ipv6": []
   }
 }

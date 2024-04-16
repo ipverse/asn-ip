@@ -3,7 +3,11 @@
   "handle": "ADDSEC",
   "description": "Addsec AB",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "185.118.116.0/24"
+    ],
+    "ipv6": [
+      "2a14:6c80::/32"
+    ]
   }
 }

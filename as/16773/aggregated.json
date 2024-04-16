@@ -3,7 +3,9 @@
   "handle": "BFG",
   "description": "Big Fish Games, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "208.77.152.0/22"
+    ],
     "ipv6": []
   }
 }

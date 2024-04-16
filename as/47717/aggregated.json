@@ -3,7 +3,9 @@
   "handle": "CPGMBH",
   "description": "C\u0026P Capeletti \u0026 Perl Gesellschaft fuer Datentechnik mbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.194.136.0/24"
+    ],
     "ipv6": []
   }
 }

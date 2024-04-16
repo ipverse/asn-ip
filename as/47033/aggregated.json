@@ -3,7 +3,9 @@
   "handle": "CANTON-DC",
   "description": "MTD Products, Inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.34.176.0/23"
+    ],
     "ipv6": []
   }
 }

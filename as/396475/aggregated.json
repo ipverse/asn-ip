@@ -3,7 +3,9 @@
   "handle": "AIMCO",
   "description": "Alberta Investment Management Corporation",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.131.109.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,11 @@
   "handle": "OSAO",
   "description": "Koulutuskuntayhtyma OSAO",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "185.151.248.0/22"
+    ],
+    "ipv6": [
+      "2a07:7840::/29"
+    ]
   }
 }

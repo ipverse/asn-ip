@@ -3,7 +3,12 @@
   "handle": "VERSATEL-NRW",
   "description": "1\u00261 Versatel Deutschland GmbH",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "89.247.125.0/24",
+      "89.247.220.0/24"
+    ],
+    "ipv6": [
+      "2001:1438:f000::/36"
+    ]
   }
 }

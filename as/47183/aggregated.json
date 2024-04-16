@@ -3,7 +3,9 @@
   "handle": "EXPERTRANET",
   "description": "JSC Expert RA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.190.14.0/24"
+    ],
     "ipv6": []
   }
 }

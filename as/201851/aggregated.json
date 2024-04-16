@@ -3,7 +3,9 @@
   "handle": "PIK",
   "description": "PJSC PIK SPECIALIZED DEVELOPER",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "141.101.202.0/24"
+    ],
     "ipv6": []
   }
 }

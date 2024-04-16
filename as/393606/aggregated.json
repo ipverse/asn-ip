@@ -3,7 +3,9 @@
   "handle": "TECHNEXUS",
   "description": "TechNexus LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.75.135.0/24"
+    ],
     "ipv6": []
   }
 }

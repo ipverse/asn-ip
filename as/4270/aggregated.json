@@ -3,7 +3,11 @@
   "handle": "RED-INTERCONEXION-UNIVERSITARIA",
   "description": "Red de Interconexion Universitaria",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "170.210.0.0/16"
+    ],
+    "ipv6": [
+      "2800:110::/32"
+    ]
   }
 }

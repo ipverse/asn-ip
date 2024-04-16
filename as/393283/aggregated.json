@@ -3,7 +3,12 @@
   "handle": "UNIVAR-SOLUTIONS",
   "description": "NEXEO SOLUTIONS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "128.136.56.0/24",
+      "128.136.77.0/24",
+      "199.89.169.0/24",
+      "199.89.170.0/24"
+    ],
     "ipv6": []
   }
 }

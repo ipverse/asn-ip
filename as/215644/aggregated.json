@@ -3,7 +3,9 @@
   "handle": "ITG",
   "description": "Crossnet LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "81.89.221.0/24"
+    ],
     "ipv6": []
   }
 }

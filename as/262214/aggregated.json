@@ -3,7 +3,9 @@
   "handle": "BANCO-BOGOTA",
   "description": "BANCO DE BOGOTA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "200.124.124.0/23"
+    ],
     "ipv6": []
   }
 }

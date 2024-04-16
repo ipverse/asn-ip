@@ -3,7 +3,9 @@
   "handle": "CBK",
   "description": "Commercial Bank of kuwait",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.42.223.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,11 @@
   "handle": "SUPER-GROUP-TRADING",
   "description": "Super Group Trading (Pty) Limited",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "102.36.172.0/22"
+    ],
+    "ipv6": [
+      "2c0f:ea58::/32"
+    ]
   }
 }

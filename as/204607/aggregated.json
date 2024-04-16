@@ -3,7 +3,9 @@
   "handle": "JNDATA",
   "description": "JN DATA A/S",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "85.202.16.0/20"
+    ],
     "ipv6": []
   }
 }

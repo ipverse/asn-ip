@@ -3,7 +3,11 @@
   "handle": "G-H-J-HOLANDA",
   "description": "G H J Holanda me",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.161.64.0/22"
+    ],
+    "ipv6": [
+      "2804:514c::/32"
+    ]
   }
 }

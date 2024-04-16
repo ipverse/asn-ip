@@ -3,7 +3,9 @@
   "handle": "VMUNIX",
   "description": "Torsten Blum",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.108.172.0/23"
+    ],
     "ipv6": []
   }
 }

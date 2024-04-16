@@ -3,7 +3,9 @@
   "handle": "BROCARD",
   "description": "Brocard-Ukraine LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.114.136.0/24"
+    ],
     "ipv6": []
   }
 }

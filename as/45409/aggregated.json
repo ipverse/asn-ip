@@ -3,7 +3,10 @@
   "handle": "KBCAPITAL",
   "description": "KBCAPITAL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "1.239.1.0/24",
+      "220.85.44.0/24"
+    ],
     "ipv6": []
   }
 }

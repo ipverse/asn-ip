@@ -3,7 +3,9 @@
   "handle": "INTERNETENGINEERINGAS",
   "description": "EASYSPACE LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.65.236.0/22"
+    ],
     "ipv6": []
   }
 }

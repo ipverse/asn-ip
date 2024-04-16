@@ -4,6 +4,13 @@
   "description": "CERNET2 IX at Shandong University",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2401:cc00::/32",
+      "240b:e001::/32",
+      "240b:e003::/32",
+      "240b:e004::/30",
+      "240b:e008::/29",
+      "240b:e010::/32"
+    ]
   }
 }

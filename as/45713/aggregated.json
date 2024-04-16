@@ -3,7 +3,9 @@
   "handle": "DETELNETWORKS-ID",
   "description": "PT. DEWATA TELEMATIKA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "111.221.40.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,11 @@
   "handle": "PAULO-HENRIQUE-ARAUJO-SANTOS",
   "description": "PAULO HENRIQUE ARAUJO SANTOS",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "200.142.232.0/22"
+    ],
+    "ipv6": [
+      "2804:6fd4::/32"
+    ]
   }
 }

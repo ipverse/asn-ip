@@ -3,7 +3,10 @@
   "handle": "SPOTRIXLVL",
   "description": "SIA Spotrix",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "31.222.233.0/24",
+      "64.39.238.0/24"
+    ],
     "ipv6": []
   }
 }

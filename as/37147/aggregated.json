@@ -3,7 +3,9 @@
   "handle": "BANCOBIC",
   "description": "BancoBic",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "196.46.21.0/24"
+    ],
     "ipv6": []
   }
 }

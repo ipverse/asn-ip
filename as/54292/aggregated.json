@@ -3,7 +3,9 @@
   "handle": "SICO",
   "description": "Starr International USA, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "65.215.45.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "YAHOO",
   "description": "Yahoo Japan Corporation",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "104.145.16.0/20"
+    ],
     "ipv6": []
   }
 }

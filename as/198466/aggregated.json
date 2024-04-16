@@ -3,7 +3,9 @@
   "handle": "MORBY",
   "description": "J. MORBY",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.235.44.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,11 @@
   "handle": "MAXIS-TELECOMUNICAES",
   "description": "MAXIS TELECOMUNICAES LTDA - ME",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "131.221.20.0/22"
+    ],
+    "ipv6": [
+      "2804:1e38::/32"
+    ]
   }
 }

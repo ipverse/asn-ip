@@ -3,7 +3,9 @@
   "handle": "CRITICALCONTROL",
   "description": "Critical Control Technologies Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.208.10.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "EST",
   "description": "PAYTEN TEKNOLOJI ANONIM SIRKETI",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "213.161.131.0/24"
+    ],
     "ipv6": []
   }
 }

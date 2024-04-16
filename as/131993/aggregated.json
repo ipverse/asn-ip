@@ -3,7 +3,9 @@
   "handle": "QUINNOX-IN",
   "description": "QUINNOX CONSULTANCY SERVICES",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.10.248.0/22"
+    ],
     "ipv6": []
   }
 }

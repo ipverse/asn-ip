@@ -3,7 +3,9 @@
   "handle": "CONFIRE",
   "description": "Confire JPA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "148.59.161.0/24"
+    ],
     "ipv6": []
   }
 }

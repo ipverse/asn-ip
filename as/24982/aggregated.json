@@ -3,7 +3,9 @@
   "handle": "BANKMED",
   "description": "BankMed sal",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "85.112.68.0/24"
+    ],
     "ipv6": []
   }
 }

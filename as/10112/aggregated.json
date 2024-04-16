@@ -3,7 +3,9 @@
   "handle": "VALUEHOSTED",
   "description": "THE VALUE HOSTED (PVT.) LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.70.136.0/24"
+    ],
     "ipv6": []
   }
 }

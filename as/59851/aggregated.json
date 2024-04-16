@@ -3,7 +3,11 @@
   "handle": "KYUP",
   "description": "SiteGround Hosting EOOD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "82.118.240.0/24",
+      "87.118.135.0/24",
+      "185.225.237.0/24"
+    ],
     "ipv6": []
   }
 }

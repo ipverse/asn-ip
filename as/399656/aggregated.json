@@ -3,7 +3,9 @@
   "handle": "ETHX-BIZ",
   "description": "ETHX",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.41.244.0/22"
+    ],
     "ipv6": []
   }
 }

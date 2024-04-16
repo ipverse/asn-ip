@@ -3,7 +3,10 @@
   "handle": "MCCLI-ARTELCO",
   "description": "Artelco",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "100.42.144.0/20",
+      "167.94.72.0/22"
+    ],
     "ipv6": []
   }
 }

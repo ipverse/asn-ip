@@ -3,7 +3,9 @@
   "handle": "ISD279-OSSEO-AREA-SCHOOLS",
   "description": "ISD 279 Osseo Area Schools",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "216.168.139.0/24"
+    ],
     "ipv6": []
   }
 }

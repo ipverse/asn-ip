@@ -3,7 +3,9 @@
   "handle": "NETWURX-01",
   "description": "Netwurx LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "104.36.144.0/22"
+    ],
     "ipv6": []
   }
 }

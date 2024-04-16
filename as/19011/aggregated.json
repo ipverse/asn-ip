@@ -3,7 +3,9 @@
   "handle": "ODETICS",
   "description": "Iteris, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "198.58.64.0/21"
+    ],
     "ipv6": []
   }
 }

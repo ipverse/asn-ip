@@ -3,7 +3,9 @@
   "handle": "LMDCN-AP",
   "description": "Lumbini Max",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.174.68.0/23"
+    ],
     "ipv6": []
   }
 }

@@ -4,6 +4,8 @@
   "description": "BW SERVICOS PROVEDOR DE INTERNET LTDA",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2804:8ebc::/32"
+    ]
   }
 }

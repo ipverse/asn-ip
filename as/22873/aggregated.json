@@ -3,7 +3,9 @@
   "handle": "NEIGHBOURHOOD-CONNECT",
   "description": "Neighbourhood Connect",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.87.240.0/22"
+    ],
     "ipv6": []
   }
 }

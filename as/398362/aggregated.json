@@ -3,7 +3,11 @@
   "handle": "HOSTEDADV-001",
   "description": "Hosted Advantage Services Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.22.68.0/24",
+      "38.88.73.0/24",
+      "38.88.120.0/24"
+    ],
     "ipv6": []
   }
 }

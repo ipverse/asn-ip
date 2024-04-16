@@ -3,7 +3,9 @@
   "handle": "WU",
   "description": "THE WESTERN UNION COMPANY",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "64.125.239.0/24"
+    ],
     "ipv6": []
   }
 }

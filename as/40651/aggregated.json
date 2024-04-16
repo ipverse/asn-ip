@@ -3,7 +3,9 @@
   "handle": "MONSTERGOVSOL",
   "description": "Monster Government Solutions, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "69.25.33.0/24"
+    ],
     "ipv6": []
   }
 }

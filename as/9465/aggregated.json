@@ -3,7 +3,9 @@
   "handle": "AGOTOZPTELTD-AP",
   "description": "AGOTOZ PTE. LTD.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "154.212.141.0/24"
+    ],
     "ipv6": []
   }
 }

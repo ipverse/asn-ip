@@ -3,7 +3,11 @@
   "handle": "SMART-SOLUCOES-TECNOLOGICAS",
   "description": "Smart Solucoes Tecnologicas",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "168.90.64.0/22"
+    ],
+    "ipv6": [
+      "2804:2d3c::/32"
+    ]
   }
 }

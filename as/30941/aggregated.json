@@ -3,7 +3,11 @@
   "handle": "BEUMER",
   "description": "BEUMER Maschinengesellschaft mbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.39.72.0/22",
+      "194.113.48.0/22",
+      "194.113.52.0/23"
+    ],
     "ipv6": []
   }
 }

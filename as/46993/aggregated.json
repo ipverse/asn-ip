@@ -3,7 +3,9 @@
   "handle": "SABA-CAPITAL-MANAGEMENT",
   "description": "Saba Capital Management, L.P.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.108.223.0/24"
+    ],
     "ipv6": []
   }
 }

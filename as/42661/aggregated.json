@@ -3,7 +3,9 @@
   "handle": "DETSKYMIR",
   "description": "DM LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.193.142.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "BCBSKC",
   "description": "Blue Cross and Blue Shield of Kansas City",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.81.9.0/24"
+    ],
     "ipv6": []
   }
 }

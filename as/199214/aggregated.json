@@ -3,7 +3,9 @@
   "handle": "TTC",
   "description": "Sergey Sergeev",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.240.74.0/23"
+    ],
     "ipv6": []
   }
 }

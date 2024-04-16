@@ -3,7 +3,9 @@
   "handle": "MAITCLOUD",
   "description": "MAIT Germany GmbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "212.78.104.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "CHES-EAST",
   "description": "Cheshire East Council",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.187.32.0/22"
+    ],
     "ipv6": []
   }
 }

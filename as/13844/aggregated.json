@@ -3,7 +3,9 @@
   "handle": "SJRH",
   "description": "St. John\u0027s Riverside Hospital",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "107.181.30.0/24"
+    ],
     "ipv6": []
   }
 }

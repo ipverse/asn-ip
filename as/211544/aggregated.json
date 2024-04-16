@@ -3,7 +3,14 @@
   "handle": "UNLABELED",
   "description": "Unlabeled, LLC",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "23.178.80.0/24"
+    ],
+    "ipv6": [
+      "2602:fc8b::/47",
+      "2602:fc8b:21::/48",
+      "2a0e:97c0:2e0::/47",
+      "2a0e:97c0:2e7::/48"
+    ]
   }
 }

@@ -3,7 +3,9 @@
   "handle": "INTEGRA-NETWORK-PERU-EIRL",
   "description": "INTEGRA NETWORK DEL PERU E.I.R.L.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "191.97.20.0/22"
+    ],
     "ipv6": []
   }
 }

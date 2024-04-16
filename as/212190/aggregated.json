@@ -3,7 +3,10 @@
   "handle": "PISTACEROASN",
   "description": "PISTA CERO, S.L.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.90.239.0/24",
+      "213.232.217.0/24"
+    ],
     "ipv6": []
   }
 }

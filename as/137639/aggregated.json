@@ -3,7 +3,9 @@
   "handle": "JASNET",
   "description": "Jasnet Networks Private Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.120.56.0/22"
+    ],
     "ipv6": []
   }
 }

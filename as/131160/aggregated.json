@@ -3,7 +3,11 @@
   "handle": "WI2",
   "description": "Wire and Wireless Co.,Ltd.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "103.5.140.0/22"
+    ],
+    "ipv6": [
+      "2404:7900::/32"
+    ]
   }
 }

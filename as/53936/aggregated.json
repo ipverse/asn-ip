@@ -3,7 +3,9 @@
   "handle": "EDENRED-USA",
   "description": "WiredCommute LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "65.211.50.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,11 @@
   "handle": "PAKTELNET-ID",
   "description": "PT. PASIFIKTEL INDOTAMA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "202.87.240.0/21"
+    ],
+    "ipv6": [
+      "2406:2140::/32"
+    ]
   }
 }

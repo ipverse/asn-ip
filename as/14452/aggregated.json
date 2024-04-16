@@ -3,7 +3,9 @@
   "handle": "CMA-USA",
   "description": "CMA, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "162.248.219.0/24"
+    ],
     "ipv6": []
   }
 }

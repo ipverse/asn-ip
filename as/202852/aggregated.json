@@ -3,7 +3,9 @@
   "handle": "MOLNIYA",
   "description": "Molniya OOO",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "89.221.226.0/23"
+    ],
     "ipv6": []
   }
 }

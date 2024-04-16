@@ -3,7 +3,10 @@
   "handle": "WM-INTERNET",
   "description": "WM INTERNET LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "179.0.172.0/23",
+      "179.0.174.0/24"
+    ],
     "ipv6": []
   }
 }

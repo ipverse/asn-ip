@@ -3,7 +3,11 @@
   "handle": "BAU-DORL",
   "description": "BAU E DORL LTDA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "177.38.48.0/21"
+    ],
+    "ipv6": [
+      "2804:438c::/32"
+    ]
   }
 }

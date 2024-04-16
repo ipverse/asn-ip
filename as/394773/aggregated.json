@@ -3,7 +3,9 @@
   "handle": "DELEKUS-HOLDINGS",
   "description": "Delek US",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "209.194.20.0/24"
+    ],
     "ipv6": []
   }
 }

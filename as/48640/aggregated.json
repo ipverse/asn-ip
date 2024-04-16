@@ -3,7 +3,11 @@
   "handle": "MAZ",
   "description": "MAZ Mutua Colaboradora con la Seguridad Social N. 11",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "94.143.200.0/21"
+    ],
+    "ipv6": [
+      "2a03:3900::/32"
+    ]
   }
 }

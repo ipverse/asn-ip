@@ -3,7 +3,9 @@
   "handle": "LYNK",
   "description": "Lynk srl",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "80.70.112.0/22"
+    ],
     "ipv6": []
   }
 }

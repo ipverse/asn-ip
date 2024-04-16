@@ -3,7 +3,9 @@
   "handle": "PTCLBB-PK",
   "description": "Pakistan Telecommuication company limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "58.181.104.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "SMILEDIRECTCLUB-1",
   "description": "Smile Direct Club, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.138.12.0/24"
+    ],
     "ipv6": []
   }
 }

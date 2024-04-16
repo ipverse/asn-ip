@@ -3,7 +3,11 @@
   "handle": "EXPRESS-NETWORK",
   "description": "EXPRESS NETWORK-ME",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "170.81.156.0/22"
+    ],
+    "ipv6": [
+      "2804:3770::/32"
+    ]
   }
 }

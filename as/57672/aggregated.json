@@ -3,7 +3,11 @@
   "handle": "DJA",
   "description": "Daniel James Austin",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "192.146.137.0/24"
+    ],
+    "ipv6": [
+      "2001:67c:26b4::/48"
+    ]
   }
 }

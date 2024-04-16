@@ -3,7 +3,9 @@
   "handle": "BE-TELEVOIP",
   "description": "TeleVoIP bv",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.174.4.0/24"
+    ],
     "ipv6": []
   }
 }

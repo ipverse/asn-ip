@@ -3,7 +3,9 @@
   "handle": "MLC1-AP",
   "description": "MLC LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.79.20.0/24"
+    ],
     "ipv6": []
   }
 }

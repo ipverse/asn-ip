@@ -3,7 +3,9 @@
   "handle": "ONE",
   "description": "Open Networks Engineering SAS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.148.164.0/22"
+    ],
     "ipv6": []
   }
 }

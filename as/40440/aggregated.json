@@ -3,7 +3,9 @@
   "handle": "NRTC-CA",
   "description": "NRTC Communications",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.62.64.0/19"
+    ],
     "ipv6": []
   }
 }

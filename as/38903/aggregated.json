@@ -3,7 +3,11 @@
   "handle": "AUSTUNITY-AP",
   "description": "Australian Unity Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.122.123.0/24",
+      "103.131.83.0/24",
+      "203.99.152.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,10 @@
   "handle": "VMS",
   "description": "VostokMediaSvyaz Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.244.72.0/21",
+      "213.108.200.0/21"
+    ],
     "ipv6": []
   }
 }

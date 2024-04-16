@@ -3,7 +3,9 @@
   "handle": "EMPIRE-1",
   "description": "Empire Resorts, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "142.105.75.0/24"
+    ],
     "ipv6": []
   }
 }

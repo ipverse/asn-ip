@@ -3,7 +3,11 @@
   "handle": "MNET",
   "description": "MOUNTAINET",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "216.145.64.0/19"
+    ],
+    "ipv6": [
+      "2605:9240::/32"
+    ]
   }
 }

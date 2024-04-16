@@ -3,7 +3,11 @@
   "handle": "NETGATE",
   "description": "Matthias Rojahn",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "217.72.128.0/20"
+    ],
+    "ipv6": [
+      "2a02:d6a0::/30"
+    ]
   }
 }

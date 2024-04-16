@@ -3,7 +3,11 @@
   "handle": "CITILINK",
   "description": "LLC Citilink",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "31.131.184.0/22"
+    ],
+    "ipv6": [
+      "2001:678:bb8::/48"
+    ]
   }
 }

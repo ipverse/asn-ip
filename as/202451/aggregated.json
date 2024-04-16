@@ -3,7 +3,9 @@
   "handle": "CLUE",
   "description": "Clue Security Services AG",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.188.8.0/24"
+    ],
     "ipv6": []
   }
 }

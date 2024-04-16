@@ -3,7 +3,9 @@
   "handle": "TELEFONARNET-TELECOMUNICACOES",
   "description": "TELEFONARNET TELECOMUNICACOES",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.232.72.0/22"
+    ],
     "ipv6": []
   }
 }

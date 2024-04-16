@@ -3,7 +3,9 @@
   "handle": "HICRON",
   "description": "Hicron Sp. z o.o.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.157.172.0/22"
+    ],
     "ipv6": []
   }
 }

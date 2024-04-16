@@ -3,7 +3,9 @@
   "handle": "X-NETWORK",
   "description": "X-Net Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.8.56.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "LT-LITRADA",
   "description": "OU LITRADA Group filialas",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "88.216.144.0/24"
+    ],
     "ipv6": []
   }
 }

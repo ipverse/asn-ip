@@ -3,7 +3,10 @@
   "handle": "DOS",
   "description": "Educational Fund Talent and success",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "176.208.128.0/20",
+      "195.182.32.0/24"
+    ],
     "ipv6": []
   }
 }

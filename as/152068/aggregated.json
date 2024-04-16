@@ -3,7 +3,9 @@
   "handle": "IDNIC-UNIMAR-ID",
   "description": "Universitas Muhammadiyah A.R. Fachruddin",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "180.94.7.0/24"
+    ],
     "ipv6": []
   }
 }

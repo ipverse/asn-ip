@@ -3,7 +3,9 @@
   "handle": "IWKDOSTRODA",
   "description": "Adam Gwozdz trading as IWKD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.139.124.0/22"
+    ],
     "ipv6": []
   }
 }

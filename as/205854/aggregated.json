@@ -3,7 +3,9 @@
   "handle": "EUCHNER",
   "description": "Euchner GmbH + Co. KG",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.185.188.0/22"
+    ],
     "ipv6": []
   }
 }

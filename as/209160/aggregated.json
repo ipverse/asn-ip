@@ -3,7 +3,9 @@
   "handle": "MITI2000",
   "description": "Miti 2000 EOOD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "78.128.113.0/24"
+    ],
     "ipv6": []
   }
 }

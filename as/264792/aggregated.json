@@ -3,7 +3,9 @@
   "handle": "FUERZA-AEREA-ARGENTINA",
   "description": "Fuerza Aerea Argentina",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "200.23.207.0/24"
+    ],
     "ipv6": []
   }
 }

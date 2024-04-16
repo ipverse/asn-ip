@@ -3,7 +3,9 @@
   "handle": "LAKE-TRAVIS-ISD",
   "description": "Lake Travis ISD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.150.244.0/24"
+    ],
     "ipv6": []
   }
 }

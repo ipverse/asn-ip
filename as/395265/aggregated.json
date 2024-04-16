@@ -3,7 +3,9 @@
   "handle": "AKMATORI",
   "description": "Akmatori, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "166.1.130.0/24"
+    ],
     "ipv6": []
   }
 }

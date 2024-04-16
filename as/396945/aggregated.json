@@ -3,7 +3,9 @@
   "handle": "MIDWESTLABS",
   "description": "Midwest Laboratories",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "168.245.147.0/24"
+    ],
     "ipv6": []
   }
 }

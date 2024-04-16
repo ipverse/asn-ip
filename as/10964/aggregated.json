@@ -3,7 +3,9 @@
   "handle": "BANCO-CREDICOOP-COOPERATIVO",
   "description": "Banco Credicoop Cooperativo Limitado",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "200.31.224.0/20"
+    ],
     "ipv6": []
   }
 }

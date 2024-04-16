@@ -3,7 +3,9 @@
   "handle": "ROCKETAS",
   "description": "ROCKET SOFTWARE INC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "137.134.48.0/21"
+    ],
     "ipv6": []
   }
 }

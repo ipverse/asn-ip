@@ -3,7 +3,9 @@
   "handle": "URICHMOND",
   "description": "University of Richmond",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "141.166.0.0/16"
+    ],
     "ipv6": []
   }
 }

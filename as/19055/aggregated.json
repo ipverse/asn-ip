@@ -3,7 +3,10 @@
   "handle": "CAC-HQ",
   "description": "Credit Acceptance Corporation",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "204.182.35.0/24",
+      "208.10.25.0/24"
+    ],
     "ipv6": []
   }
 }

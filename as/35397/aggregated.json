@@ -3,7 +3,9 @@
   "handle": "ROA",
   "description": "CLASS IT OUTSOURCING S.R.L.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "86.107.240.0/24"
+    ],
     "ipv6": []
   }
 }

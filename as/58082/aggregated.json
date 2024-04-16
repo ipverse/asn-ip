@@ -3,7 +3,10 @@
   "handle": "MESSAGENET",
   "description": "Messagenet S.p.A.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "109.233.129.0/24",
+      "109.233.132.0/24"
+    ],
     "ipv6": []
   }
 }

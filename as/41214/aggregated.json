@@ -3,7 +3,9 @@
   "handle": "EBS",
   "description": "EBS Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.248.80.0/24"
+    ],
     "ipv6": []
   }
 }

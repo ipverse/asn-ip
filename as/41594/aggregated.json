@@ -3,7 +3,11 @@
   "handle": "SFB",
   "description": "Banque Saudi Fransi",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.22.249.0/24",
+      "193.227.127.0/24",
+      "195.149.91.0/24"
+    ],
     "ipv6": []
   }
 }

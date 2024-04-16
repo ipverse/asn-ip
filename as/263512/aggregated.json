@@ -3,7 +3,11 @@
   "handle": "CTBA-TELECOM",
   "description": "CTBA TELECOM",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "191.243.200.0/21"
+    ],
+    "ipv6": [
+      "2804:130c::/32"
+    ]
   }
 }

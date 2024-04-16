@@ -3,7 +3,9 @@
   "handle": "SWAZIMTN-LTD",
   "description": "Swazi MTN Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "41.211.32.0/19"
+    ],
     "ipv6": []
   }
 }

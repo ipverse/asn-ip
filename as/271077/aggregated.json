@@ -3,7 +3,11 @@
   "handle": "HEBIO-APARECIDO-DALLA-LASTRA",
   "description": "Hebio Aparecido dalla lastra",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "200.52.224.0/22"
+    ],
+    "ipv6": [
+      "2804:75e8::/32"
+    ]
   }
 }

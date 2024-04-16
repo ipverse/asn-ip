@@ -3,7 +3,9 @@
   "handle": "VPS-404",
   "description": "Fara Negar Pardaz Noor Khuzestan Co.JSP",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.231.139.0/24"
+    ],
     "ipv6": []
   }
 }

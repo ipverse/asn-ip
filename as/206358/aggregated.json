@@ -3,7 +3,9 @@
   "handle": "ISP-BROADCAST",
   "description": "Qendrim Kryeziu trading as N.P.SH ISP - Broadcast",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.188.216.0/22"
+    ],
     "ipv6": []
   }
 }

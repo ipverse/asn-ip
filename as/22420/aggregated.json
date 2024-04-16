@@ -3,7 +3,9 @@
   "handle": "RWNY",
   "description": "Resorts World Casino New York City",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "216.236.148.0/24"
+    ],
     "ipv6": []
   }
 }

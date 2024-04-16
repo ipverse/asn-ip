@@ -3,7 +3,9 @@
   "handle": "IDNIC-DJBC-ID",
   "description": "Kementerian Keuangan Ditjen Bea Cukai",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.12.80.0/24"
+    ],
     "ipv6": []
   }
 }

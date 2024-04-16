@@ -3,7 +3,9 @@
   "handle": "HRD-TAMPA",
   "description": "Seminole Hard Rock Digital, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "170.55.142.0/24"
+    ],
     "ipv6": []
   }
 }

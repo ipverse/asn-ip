@@ -3,7 +3,9 @@
   "handle": "SIAPL-AP",
   "description": "STACK Infrastructure Australia Pty Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.203.235.0/24"
+    ],
     "ipv6": []
   }
 }

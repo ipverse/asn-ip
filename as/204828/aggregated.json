@@ -3,7 +3,11 @@
   "handle": "EAJ-GLOBAL",
   "description": "EAJ Global Ltd",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "195.184.76.0/24"
+    ],
+    "ipv6": [
+      "2001:67c:2284::/48"
+    ]
   }
 }

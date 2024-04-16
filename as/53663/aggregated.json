@@ -3,7 +3,9 @@
   "handle": "ABT-INET",
   "description": "ADAMS BANK \u0026 TRUST",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "204.131.163.0/24"
+    ],
     "ipv6": []
   }
 }

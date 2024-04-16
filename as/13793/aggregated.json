@@ -3,7 +3,9 @@
   "handle": "T3VOICENET",
   "description": "T3 VoiceNet, LLC.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "216.10.32.0/20"
+    ],
     "ipv6": []
   }
 }

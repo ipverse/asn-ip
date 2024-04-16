@@ -3,7 +3,9 @@
   "handle": "ELEKTRON",
   "description": "Z.U.H. ELEKTRON s.c.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "85.255.240.0/20"
+    ],
     "ipv6": []
   }
 }

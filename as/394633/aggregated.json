@@ -3,7 +3,9 @@
   "handle": "ASCENSION-MINISTRYSERVICECENTER",
   "description": "Ascension Technologies",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "12.109.79.0/24"
+    ],
     "ipv6": []
   }
 }

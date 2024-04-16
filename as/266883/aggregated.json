@@ -3,7 +3,10 @@
   "handle": "HI-LINK",
   "description": "HI-LINK SAS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.161.9.0/24",
+      "45.161.10.0/23"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "NAVI-CLEARBLUE",
   "description": "Navisite Opco LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "207.211.220.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,10 @@
   "handle": "SPECTRUM-INTERNET-SERVICE",
   "description": "Spectrum Internet Service Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "102.216.212.0/23",
+      "129.122.0.0/18"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "BBKMAGNA-NET",
   "description": "BBK SPOLKA AKCYJNA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.59.80.0/24"
+    ],
     "ipv6": []
   }
 }

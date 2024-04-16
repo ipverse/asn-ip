@@ -3,7 +3,9 @@
   "handle": "SPEEDNET-SOLUCOES-TECNOLOGICAS",
   "description": "SpeedNet Solucoes Tecnologicas",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.170.168.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,11 @@
   "handle": "DIN",
   "description": "PJSC Rostelecom",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "213.210.64.0/19",
+      "213.210.112.0/20",
+      "217.18.128.0/19"
+    ],
     "ipv6": []
   }
 }

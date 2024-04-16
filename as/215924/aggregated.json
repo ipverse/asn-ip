@@ -3,7 +3,10 @@
   "handle": "ORO",
   "description": "ORO LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "5.3.94.0/24",
+      "185.58.249.0/24"
+    ],
     "ipv6": []
   }
 }

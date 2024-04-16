@@ -3,7 +3,9 @@
   "handle": "ANDESASERVICESINC",
   "description": "Andesa Services, Inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "40.143.143.0/24"
+    ],
     "ipv6": []
   }
 }

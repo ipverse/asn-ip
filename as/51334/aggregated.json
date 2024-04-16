@@ -3,7 +3,9 @@
   "handle": "VSMPO-AVISMA",
   "description": "PJSC Corporation VSMPO-AVISMA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.226.128.0/24"
+    ],
     "ipv6": []
   }
 }

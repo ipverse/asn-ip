@@ -3,7 +3,10 @@
   "handle": "VCMSL-AP",
   "description": "Viteos Capital Market Services Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.225.106.0/24",
+      "103.245.0.0/24"
+    ],
     "ipv6": []
   }
 }

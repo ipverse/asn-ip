@@ -3,7 +3,9 @@
   "handle": "UHC",
   "description": "Ukrainian Hydrometeorological Center",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.216.232.0/24"
+    ],
     "ipv6": []
   }
 }

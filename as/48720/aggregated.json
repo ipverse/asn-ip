@@ -3,7 +3,12 @@
   "handle": "VTSL1",
   "description": "VIP-TELECOM-SERVICE Ltd.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "91.211.216.0/22",
+      "193.9.244.0/22"
+    ],
+    "ipv6": [
+      "2a02:db80::/29"
+    ]
   }
 }

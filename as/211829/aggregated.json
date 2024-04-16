@@ -3,7 +3,9 @@
   "handle": "ZAHA",
   "description": "ZAHA HADID LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "154.46.81.0/24"
+    ],
     "ipv6": []
   }
 }

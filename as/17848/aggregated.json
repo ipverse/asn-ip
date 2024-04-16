@@ -3,7 +3,9 @@
   "handle": "INAMES",
   "description": "INAMES",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "202.31.187.0/24"
+    ],
     "ipv6": []
   }
 }

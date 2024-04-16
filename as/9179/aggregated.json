@@ -3,7 +3,11 @@
   "handle": "FIDO-ANYCAST",
   "description": "Fido.net Limited",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "192.88.83.0/24"
+    ],
+    "ipv6": [
+      "2a01:2c0:23db::/48"
+    ]
   }
 }

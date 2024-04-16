@@ -3,7 +3,9 @@
   "handle": "AMT-DER-NOE-LANDESREGIERUNG",
   "description": "Amt der NOe Landesregierung",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.29.99.0/24"
+    ],
     "ipv6": []
   }
 }

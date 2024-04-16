@@ -3,7 +3,9 @@
   "handle": "SAFECU",
   "description": "SAFE CREDIT UNION",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "198.97.201.0/24"
+    ],
     "ipv6": []
   }
 }

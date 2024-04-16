@@ -3,7 +3,12 @@
   "handle": "KDM-INTERNET-TELECOMUNICACOES",
   "description": "KDM INTERNET TELECOMUNICACOES LTDA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "168.121.248.0/22",
+      "186.250.28.0/22"
+    ],
+    "ipv6": [
+      "2804:ea8::/32"
+    ]
   }
 }

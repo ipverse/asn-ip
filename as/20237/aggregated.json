@@ -3,7 +3,9 @@
   "handle": "KUBRA",
   "description": "Kubra",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.103.255.0/24"
+    ],
     "ipv6": []
   }
 }

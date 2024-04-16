@@ -3,7 +3,10 @@
   "handle": "NTPC",
   "description": "NTPC Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.42.188.0/24",
+      "103.81.160.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "QSTER",
   "description": "QSTER COMPUTERS Andrzej Kuster",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.35.63.0/24"
+    ],
     "ipv6": []
   }
 }

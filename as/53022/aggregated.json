@@ -3,7 +3,13 @@
   "handle": "BROSEGHINI",
   "description": "BROSEGHINI LTDA EPP",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "170.231.84.0/22",
+      "177.71.32.0/20",
+      "177.221.224.0/20"
+    ],
+    "ipv6": [
+      "2804:31fc::/32"
+    ]
   }
 }

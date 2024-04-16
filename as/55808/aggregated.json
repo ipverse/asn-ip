@@ -3,7 +3,10 @@
   "handle": "TTBP-AP",
   "description": "Triple T Broadband Public Company Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "110.164.184.0/22",
+      "110.164.236.0/24"
+    ],
     "ipv6": []
   }
 }

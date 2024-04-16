@@ -3,7 +3,10 @@
   "handle": "CDK-GLOBAL-HOSTING-FB",
   "description": "CDK Global, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "159.117.215.0/24",
+      "159.117.218.0/24"
+    ],
     "ipv6": []
   }
 }

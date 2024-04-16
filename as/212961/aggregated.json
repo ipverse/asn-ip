@@ -3,7 +3,13 @@
   "handle": "JUNGHEINRICH",
   "description": "Jungheinrich AG",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "31.216.132.0/22",
+      "194.180.144.0/22",
+      "194.180.148.0/23"
+    ],
+    "ipv6": [
+      "2a0c:abc0::/29"
+    ]
   }
 }

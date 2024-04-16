@@ -3,7 +3,9 @@
   "handle": "XAXIS-AS1",
   "description": "mPlatform LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "208.71.121.0/24"
+    ],
     "ipv6": []
   }
 }

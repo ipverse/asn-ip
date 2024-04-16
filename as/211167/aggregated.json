@@ -3,7 +3,11 @@
   "handle": "ITFARM",
   "description": "IT Farm Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "82.153.247.0/24",
+      "85.208.137.0/24",
+      "91.237.75.0/24"
+    ],
     "ipv6": []
   }
 }

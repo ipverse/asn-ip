@@ -3,7 +3,10 @@
   "handle": "NUCLEUS-INC-2",
   "description": "FIBERNETICS CORPORATION",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "74.205.221.0/24",
+      "208.79.59.0/24"
+    ],
     "ipv6": []
   }
 }

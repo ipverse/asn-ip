@@ -3,7 +3,9 @@
   "handle": "MTASCUTNEYHOSPITALANDHEALTHCENTER",
   "description": "Mt. Ascutney Hospital and Health Center",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "8.37.164.0/24"
+    ],
     "ipv6": []
   }
 }

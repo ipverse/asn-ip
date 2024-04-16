@@ -3,7 +3,9 @@
   "handle": "ULTRAVISION",
   "description": "ULTRAVISION SA DE CV",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.7.28.0/22"
+    ],
     "ipv6": []
   }
 }

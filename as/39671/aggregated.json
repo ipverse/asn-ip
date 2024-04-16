@@ -3,7 +3,11 @@
   "handle": "STONEHAGEFLEMING",
   "description": "Stonehage Fleming SA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.229.68.0/23",
+      "185.229.70.0/24",
+      "195.184.66.0/24"
+    ],
     "ipv6": []
   }
 }

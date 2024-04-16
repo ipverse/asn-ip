@@ -3,7 +3,13 @@
   "handle": "FMS",
   "description": "Flying Man Studio, LLC.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "198.29.64.0/23"
+    ],
+    "ipv6": [
+      "2620:11f:d000::/47",
+      "2620:11f:d00a::/48",
+      "2620:11f:d00c::/46"
+    ]
   }
 }

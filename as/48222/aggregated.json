@@ -3,7 +3,9 @@
   "handle": "TRIGLAVZADRAVSTVENA-SI",
   "description": "TRIGLAV, Zdravstvena zavarovalnica, d.d.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.43.133.0/24"
+    ],
     "ipv6": []
   }
 }

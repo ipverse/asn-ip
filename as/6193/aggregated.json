@@ -3,7 +3,9 @@
   "handle": "CORPORACION-LA-PRENSA",
   "description": "Corporacion La Prensa S.A.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "200.6.79.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "SOUTHERN-FARM-BUREAU-LIFE-INSURANCE",
   "description": "Southern Farm Bureau Life Insurance Company",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "206.41.243.0/24"
+    ],
     "ipv6": []
   }
 }

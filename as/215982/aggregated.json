@@ -3,7 +3,9 @@
   "handle": "YULIUSNL",
   "description": "Stichting Yulius",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.132.152.0/22"
+    ],
     "ipv6": []
   }
 }

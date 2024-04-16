@@ -3,7 +3,10 @@
   "handle": "IDNIC-BUMN-ID",
   "description": "Kementerian Badan Usaha Milik Negara",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.17.79.0/24",
+      "103.199.118.0/24"
+    ],
     "ipv6": []
   }
 }

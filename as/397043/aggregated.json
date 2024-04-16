@@ -3,7 +3,9 @@
   "handle": "CHELCO",
   "description": "CHELCO",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.82.48.0/24"
+    ],
     "ipv6": []
   }
 }

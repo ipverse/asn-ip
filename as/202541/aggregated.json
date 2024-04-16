@@ -3,7 +3,9 @@
   "handle": "ITI-NEOVISION",
   "description": "ITI NEOVISION SPOLKA AKCYJNA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.232.176.0/24"
+    ],
     "ipv6": []
   }
 }

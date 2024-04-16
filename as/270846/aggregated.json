@@ -3,7 +3,9 @@
   "handle": "DESTAK-NET-PROVEDOR",
   "description": "DESTAK NET PROVEDOR DE INTERNET LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "179.0.176.0/22"
+    ],
     "ipv6": []
   }
 }

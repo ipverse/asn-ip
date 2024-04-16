@@ -3,7 +3,9 @@
   "handle": "PALOMA-PARTNERS",
   "description": "Paloma Partners",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "205.132.129.0/24"
+    ],
     "ipv6": []
   }
 }

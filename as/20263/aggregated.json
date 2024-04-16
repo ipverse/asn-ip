@@ -3,7 +3,9 @@
   "handle": "ZYEDGE",
   "description": "ZyEdge LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "205.177.112.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,10 @@
   "handle": "OSNOVA",
   "description": "OA Osnova Telecom",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "93.180.136.0/22",
+      "93.180.143.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,11 @@
   "handle": "NETFAR-INFORMATICA",
   "description": "Netfar Informatica Ltda",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "138.36.80.0/22"
+    ],
+    "ipv6": [
+      "2804:21c0::/32"
+    ]
   }
 }

@@ -3,7 +3,9 @@
   "handle": "ECHIDNAINC-IN",
   "description": "Echidna Software Pvt. Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.227.151.0/24"
+    ],
     "ipv6": []
   }
 }

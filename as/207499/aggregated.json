@@ -3,7 +3,11 @@
   "handle": "ARCWARE",
   "description": "ARCWARE GmbH",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "185.255.137.0/24"
+    ],
+    "ipv6": [
+      "2a10:bec0::/32"
+    ]
   }
 }

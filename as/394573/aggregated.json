@@ -3,7 +3,9 @@
   "handle": "GSFCS",
   "description": "GreenStone Farm Credit Services",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "216.157.220.0/24"
+    ],
     "ipv6": []
   }
 }

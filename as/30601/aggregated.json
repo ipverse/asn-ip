@@ -3,7 +3,9 @@
   "handle": "LOBEL-FINANCIAL-CORPORATION",
   "description": "Lobel Financial Corporation",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "198.96.220.0/24"
+    ],
     "ipv6": []
   }
 }

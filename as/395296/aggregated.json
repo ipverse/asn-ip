@@ -3,7 +3,9 @@
   "handle": "MSFA",
   "description": "MSFA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "207.229.79.0/24"
+    ],
     "ipv6": []
   }
 }

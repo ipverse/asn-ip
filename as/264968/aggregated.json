@@ -3,7 +3,11 @@
   "handle": "NETWORK-SOLUCOES-INTERNET",
   "description": "NETWORK SOLUCOES INTERNET LTDA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "170.0.104.0/22"
+    ],
+    "ipv6": [
+      "2804:30ac::/32"
+    ]
   }
 }

@@ -3,7 +3,10 @@
   "handle": "BAYLOR",
   "description": "Baylor Health Care System",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "198.205.16.0/20",
+      "199.119.25.0/24"
+    ],
     "ipv6": []
   }
 }

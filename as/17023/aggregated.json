@@ -3,7 +3,10 @@
   "handle": "MORNEAU-SOBECO",
   "description": "TELUS Health Solutions Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "158.106.224.0/21",
+      "158.106.239.0/24"
+    ],
     "ipv6": []
   }
 }

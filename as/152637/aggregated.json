@@ -3,7 +3,9 @@
   "handle": "COMILLA4-AP",
   "description": "Comilla Cable TV Online",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "202.37.52.0/23"
+    ],
     "ipv6": []
   }
 }

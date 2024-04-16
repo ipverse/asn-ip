@@ -3,7 +3,10 @@
   "handle": "RDS",
   "description": "Radio dimensione suono S.p.a",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "77.75.227.0/24",
+      "185.159.85.0/24"
+    ],
     "ipv6": []
   }
 }

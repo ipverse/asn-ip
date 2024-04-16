@@ -3,7 +3,9 @@
   "handle": "RIS-NET",
   "description": "Rissho University",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "202.35.120.0/21"
+    ],
     "ipv6": []
   }
 }

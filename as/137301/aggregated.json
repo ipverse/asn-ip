@@ -3,7 +3,9 @@
   "handle": "IDNIC-POLTEKKESYK-ID",
   "description": "POLTEKKES KEMENKES YOGYAKARTA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.108.87.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "RUMTEK-ID",
   "description": "PT. RUMAH TEKNOLOGI",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.102.60.0/22"
+    ],
     "ipv6": []
   }
 }

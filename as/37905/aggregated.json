@@ -3,7 +3,9 @@
   "handle": "BRASTEL-NET",
   "description": "Brastel Co.,Ltd BRASTEL-NET",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "202.173.5.0/24"
+    ],
     "ipv6": []
   }
 }

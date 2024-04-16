@@ -3,7 +3,11 @@
   "handle": "CX-PRO",
   "description": "CX Pro",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "192.141.72.0/22"
+    ],
+    "ipv6": [
+      "2804:41fc::/32"
+    ]
   }
 }

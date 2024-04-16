@@ -3,7 +3,9 @@
   "handle": "SELCO-ASN-01",
   "description": "SELCO Community Credit Union",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.195.242.0/24"
+    ],
     "ipv6": []
   }
 }

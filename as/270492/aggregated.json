@@ -3,7 +3,9 @@
   "handle": "UNIFAI-CENTRO-UNIVERSITRIO",
   "description": "UNIFAI - Centro Universitrio de Adamantina",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "190.111.176.0/24"
+    ],
     "ipv6": []
   }
 }

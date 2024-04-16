@@ -3,7 +3,9 @@
   "handle": "FIRSTIT",
   "description": "Alttab Profit SRL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "93.115.52.0/24"
+    ],
     "ipv6": []
   }
 }

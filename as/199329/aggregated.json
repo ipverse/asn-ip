@@ -3,7 +3,9 @@
   "handle": "MEDIOLANUM",
   "description": "BANCO MEDIOLANUM SA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "212.49.180.0/24"
+    ],
     "ipv6": []
   }
 }

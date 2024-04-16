@@ -3,10 +3,13 @@
   "handle": "GALAXYBB",
   "description": "Galaxy Backbone PLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "41.78.80.0/22",
+      "41.222.208.0/22",
+      "197.159.64.0/20"
+    ],
     "ipv6": [
-      "2c0f:6e80::/47",
-      "2c0f:6e80:3::/48"
+      "2c0f:6e80::/28"
     ]
   }
 }

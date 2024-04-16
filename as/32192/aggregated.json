@@ -3,7 +3,9 @@
   "handle": "EMPRISEBANK",
   "description": "EMPRISE BANK",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "198.52.90.0/23"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "COMERCIAL-NETXTREME",
   "description": "Comercial Netxtreme LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.176.116.0/22"
+    ],
     "ipv6": []
   }
 }

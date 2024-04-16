@@ -3,7 +3,9 @@
   "handle": "SKYHIGH-SECURITY",
   "description": "SKYHIGH SECURITY LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "208.65.149.0/24"
+    ],
     "ipv6": []
   }
 }

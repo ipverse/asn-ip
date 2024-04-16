@@ -3,7 +3,9 @@
   "handle": "FAIRPLEX-INTERNET",
   "description": "Fairplex",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "208.77.72.0/22"
+    ],
     "ipv6": []
   }
 }

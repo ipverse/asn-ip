@@ -3,7 +3,9 @@
   "handle": "HOUSENET",
   "description": "House Net LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.79.2.0/23"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "OMI",
   "description": "Owensboro Messenger Inquirer",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "173.197.235.0/24"
+    ],
     "ipv6": []
   }
 }

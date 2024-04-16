@@ -3,7 +3,9 @@
   "handle": "NCSBN",
   "description": "NCSBN, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "65.248.198.0/24"
+    ],
     "ipv6": []
   }
 }

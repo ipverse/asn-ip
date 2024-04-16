@@ -3,7 +3,9 @@
   "handle": "IS-BG",
   "description": "Information Services PLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "217.145.160.0/20"
+    ],
     "ipv6": []
   }
 }

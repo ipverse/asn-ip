@@ -3,7 +3,9 @@
   "handle": "DEVOQ",
   "description": "DEVOQ Technology I.K.E.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.159.24.0/22"
+    ],
     "ipv6": []
   }
 }

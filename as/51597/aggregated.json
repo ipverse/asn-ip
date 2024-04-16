@@ -3,7 +3,12 @@
   "handle": "FASTTELECOM",
   "description": "Fasttelekom Ltd.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "91.219.80.0/22",
+      "176.116.192.0/21"
+    ],
+    "ipv6": [
+      "2001:678:318::/48"
+    ]
   }
 }

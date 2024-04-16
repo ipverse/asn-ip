@@ -3,7 +3,9 @@
   "handle": "VINYLINTERACTIVE",
   "description": "Vinyl Interactive, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.190.209.0/24"
+    ],
     "ipv6": []
   }
 }

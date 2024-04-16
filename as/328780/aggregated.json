@@ -3,7 +3,10 @@
   "handle": "IMBIL-TELECOM",
   "description": "IMBIL TELECOM SOLUTIONS NIG. LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "102.221.84.0/23",
+      "102.221.86.0/24"
+    ],
     "ipv6": []
   }
 }

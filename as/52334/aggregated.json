@@ -3,7 +3,9 @@
   "handle": "PROTECCION",
   "description": "Proteccion S.A.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "200.16.79.0/24"
+    ],
     "ipv6": []
   }
 }

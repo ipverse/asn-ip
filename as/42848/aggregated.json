@@ -3,7 +3,13 @@
   "handle": "EC",
   "description": "European Commission",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "147.67.0.0/16",
+      "158.166.0.0/15",
+      "158.168.0.0/15"
+    ],
+    "ipv6": [
+      "2a01:7080::/32"
+    ]
   }
 }

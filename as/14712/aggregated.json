@@ -3,7 +3,9 @@
   "handle": "ONESC",
   "description": "One Step Consulting, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "204.15.232.0/22"
+    ],
     "ipv6": []
   }
 }

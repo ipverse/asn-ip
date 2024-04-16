@@ -3,7 +3,11 @@
   "handle": "PRISTON-NET-TELECOM",
   "description": "Priston Net Telecom",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "138.94.64.0/22"
+    ],
+    "ipv6": [
+      "2804:22f8::/32"
+    ]
   }
 }

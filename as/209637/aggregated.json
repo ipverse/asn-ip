@@ -3,7 +3,9 @@
   "handle": "VNET",
   "description": "vnet-services GmbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.74.65.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "KAZANBELNET",
   "description": "Kazanbel Net Iletisim Bilgi Teknoloji Tic Ltd Sti",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "78.24.203.0/24"
+    ],
     "ipv6": []
   }
 }

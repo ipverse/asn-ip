@@ -3,7 +3,12 @@
   "handle": "SNAPONSBS",
   "description": "Snap-on Business Solutions Inc.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "74.219.168.0/22",
+      "199.255.36.0/22"
+    ],
+    "ipv6": [
+      "2620:83::/48"
+    ]
   }
 }

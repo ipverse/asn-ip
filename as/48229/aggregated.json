@@ -3,7 +3,10 @@
   "handle": "STARLIGHT",
   "description": "Starlight Media LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.209.55.0/24",
+      "91.230.92.0/23"
+    ],
     "ipv6": []
   }
 }

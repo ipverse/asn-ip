@@ -3,7 +3,9 @@
   "handle": "BANGLADESHARMY-AP",
   "description": "Bangladesh Army",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.46.148.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "ADDAX-ENERGY",
   "description": "Addax Energy SA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.65.91.0/24"
+    ],
     "ipv6": []
   }
 }

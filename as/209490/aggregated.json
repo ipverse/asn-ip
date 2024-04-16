@@ -3,7 +3,10 @@
   "handle": "EMLAKBANK",
   "description": "TURKIYE EMLAK KATILIM BANKASI ANONIM SIRKETI",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "171.22.56.0/22",
+      "176.235.119.0/24"
+    ],
     "ipv6": []
   }
 }

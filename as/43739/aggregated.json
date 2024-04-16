@@ -3,7 +3,9 @@
   "handle": "AYALON-HIGHWAYS",
   "description": "Hevrat Netivey Ayalon Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.212.76.0/24"
+    ],
     "ipv6": []
   }
 }

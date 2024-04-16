@@ -3,7 +3,9 @@
   "handle": "CITYOFBOISE",
   "description": "City of Boise",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "205.189.35.0/24"
+    ],
     "ipv6": []
   }
 }

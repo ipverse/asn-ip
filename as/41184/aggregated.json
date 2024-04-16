@@ -3,7 +3,9 @@
   "handle": "BFTCOM",
   "description": "Budgeting \u0026 Financial Technologies LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.153.112.0/24"
+    ],
     "ipv6": []
   }
 }

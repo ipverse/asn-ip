@@ -3,7 +3,9 @@
   "handle": "GENESIO-MENDES",
   "description": "GENESIO A. MENDES \u0026 CIA. LTDA.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.168.82.0/23"
+    ],
     "ipv6": []
   }
 }

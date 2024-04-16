@@ -3,7 +3,9 @@
   "handle": "CITYLAB",
   "description": "LLC Scientific and Methodological Center for Clinical Laboratory Diagnostics Citylab",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.151.31.0/24"
+    ],
     "ipv6": []
   }
 }

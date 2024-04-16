@@ -3,7 +3,9 @@
   "handle": "FOREIGN-AP",
   "description": "Foreign Trade Bank of Cambodia",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.77.178.0/23"
+    ],
     "ipv6": []
   }
 }

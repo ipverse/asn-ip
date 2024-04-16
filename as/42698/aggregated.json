@@ -3,7 +3,9 @@
   "handle": "PROM",
   "description": "ProMinent Dosiertechnik GmbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.248.252.0/23"
+    ],
     "ipv6": []
   }
 }

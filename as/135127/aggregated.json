@@ -3,7 +3,10 @@
   "handle": "XSTRAGROUPPTYLTD-AP",
   "description": "XSTRA Group Pty Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.171.192.0/24",
+      "103.210.11.0/24"
+    ],
     "ipv6": []
   }
 }

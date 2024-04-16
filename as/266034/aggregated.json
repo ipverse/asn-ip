@@ -3,7 +3,11 @@
   "handle": "FALOU-TELECOM",
   "description": "Falou Telecom",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "170.246.116.0/22"
+    ],
+    "ipv6": [
+      "2804:3980::/32"
+    ]
   }
 }

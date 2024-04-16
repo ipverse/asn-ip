@@ -3,7 +3,9 @@
   "handle": "TORRES-SERGIO-HERNAN",
   "description": "TORRES SERGIO HERNAN (ITEQ INTERNET)",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "190.9.70.0/23"
+    ],
     "ipv6": []
   }
 }

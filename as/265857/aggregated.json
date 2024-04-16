@@ -3,7 +3,9 @@
   "handle": "OLMEDO-OSVALDO-ANDRES",
   "description": "OLMEDO OSVALDO ANDRES(ServiRED)",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.225.0.0/22"
+    ],
     "ipv6": []
   }
 }

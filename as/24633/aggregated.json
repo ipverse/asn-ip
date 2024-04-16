@@ -3,7 +3,11 @@
   "handle": "XICON",
   "description": "BCN Group Hosting Ltd",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "185.108.232.0/22"
+    ],
+    "ipv6": [
+      "2a06:4cc0::/29"
+    ]
   }
 }

@@ -3,7 +3,11 @@
   "handle": "AGILITY-TELECOM-VRZEA-ALEGRE",
   "description": "Agility Telecom Vrzea Alegre",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "200.4.100.0/22"
+    ],
+    "ipv6": [
+      "2804:7a70::/32"
+    ]
   }
 }

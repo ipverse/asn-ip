@@ -3,7 +3,11 @@
   "handle": "BOSTON-FINANCIAL-DATA",
   "description": "Boston Financial Data Services, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "209.0.112.0/22",
+      "209.234.112.0/22",
+      "209.234.116.0/23"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,10 @@
   "handle": "NETXAN-TELECOMUNICAES",
   "description": "NetXan Telecomunicaes Ltda.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "177.54.84.0/22",
+      "177.54.88.0/21"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,10 @@
   "handle": "ENS-PEK",
   "description": "SIEMENS LTD. CHINA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.138.202.0/24",
+      "194.138.245.0/24"
+    ],
     "ipv6": []
   }
 }

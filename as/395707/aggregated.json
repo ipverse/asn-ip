@@ -3,7 +3,9 @@
   "handle": "CEJ-COMPUTER",
   "description": "CEJ Computer Business Systems, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "50.202.246.0/24"
+    ],
     "ipv6": []
   }
 }

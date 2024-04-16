@@ -3,7 +3,9 @@
   "handle": "SUGAPTELTD-AP",
   "description": "Suga Pte. Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.134.92.0/22"
+    ],
     "ipv6": []
   }
 }

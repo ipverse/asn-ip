@@ -3,7 +3,11 @@
   "handle": "SOLON-BOARD-OF-EDUCATION",
   "description": "Solon Board of Education",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "69.211.211.0/24",
+      "69.211.218.0/24",
+      "192.139.128.0/24"
+    ],
     "ipv6": []
   }
 }

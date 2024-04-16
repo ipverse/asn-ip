@@ -3,7 +3,12 @@
   "handle": "SEMPPRE-ONLINE-INTERNET",
   "description": "SEMPPRE ONLINE INTERNET LTDA.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "138.117.248.0/23",
+      "138.117.251.0/24"
+    ],
+    "ipv6": [
+      "2804:6f78::/32"
+    ]
   }
 }

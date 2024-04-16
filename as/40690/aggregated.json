@@ -3,7 +3,9 @@
   "handle": "EXAION-001",
   "description": "Exaion Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "162.251.207.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,10 @@
   "handle": "ROS",
   "description": "Registers of Scotland",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.109.8.0/22",
+      "194.34.0.0/21"
+    ],
     "ipv6": []
   }
 }

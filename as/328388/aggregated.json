@@ -3,7 +3,9 @@
   "handle": "INTERNET-SA",
   "description": "Internet NS (Pty) Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "102.130.16.0/20"
+    ],
     "ipv6": []
   }
 }

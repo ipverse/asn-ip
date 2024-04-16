@@ -3,7 +3,10 @@
   "handle": "CROSSAN",
   "description": "Crossan CableComm Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "92.61.192.0/20",
+      "185.111.140.0/22"
+    ],
     "ipv6": []
   }
 }

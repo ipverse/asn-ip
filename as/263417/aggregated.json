@@ -3,7 +3,9 @@
   "handle": "UNIVERSIDADE-CATOLICA-DOM",
   "description": "UNIVERSIDADE CATOLICA DOM BOSCO",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "191.37.253.0/24"
+    ],
     "ipv6": []
   }
 }

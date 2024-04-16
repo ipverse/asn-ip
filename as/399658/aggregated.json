@@ -3,7 +3,9 @@
   "handle": "CH3",
   "description": "Guaranteed Rate Inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "206.204.97.0/24"
+    ],
     "ipv6": []
   }
 }

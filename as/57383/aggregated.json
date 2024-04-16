@@ -3,7 +3,9 @@
   "handle": "ASTERRANET",
   "description": "FLP Sidorenko Aleksandr Aleksandrovich",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "176.98.48.0/21"
+    ],
     "ipv6": []
   }
 }

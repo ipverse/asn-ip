@@ -3,7 +3,10 @@
   "handle": "OCTANNER",
   "description": "O. C. TANNER COMPANY",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "161.199.209.0/24",
+      "199.45.153.0/24"
+    ],
     "ipv6": []
   }
 }

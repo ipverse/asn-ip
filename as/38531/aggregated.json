@@ -3,7 +3,9 @@
   "handle": "SULLCROM-HK",
   "description": "Sullivan \u0026 Cromwell LLP",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "205.134.26.0/24"
+    ],
     "ipv6": []
   }
 }

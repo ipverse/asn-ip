@@ -3,7 +3,10 @@
   "handle": "NETNAMHCMC-AP",
   "description": "Branch of Netnam Company in Ho Chi Minh City",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "101.53.0.0/18",
+      "210.86.232.0/21"
+    ],
     "ipv6": []
   }
 }

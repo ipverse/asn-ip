@@ -3,7 +3,9 @@
   "handle": "TRUST-IT-SWE",
   "description": "Trust-IT Sweden AB",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.187.60.0/22"
+    ],
     "ipv6": []
   }
 }

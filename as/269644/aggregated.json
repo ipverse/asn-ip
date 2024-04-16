@@ -3,7 +3,9 @@
   "handle": "FORMOSA-INTERNET-TELECOMUNICAES",
   "description": "FORMOSA INTERNET E TELECOMUNICAES LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.190.88.0/22"
+    ],
     "ipv6": []
   }
 }

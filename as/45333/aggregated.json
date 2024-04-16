@@ -3,7 +3,10 @@
   "handle": "RPDATA-AU-AP",
   "description": "RP Data Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "203.8.16.0/23",
+      "203.18.14.0/23"
+    ],
     "ipv6": []
   }
 }

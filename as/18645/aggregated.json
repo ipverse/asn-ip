@@ -3,7 +3,9 @@
   "handle": "UMHB-BELTON",
   "description": "UMHB",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "67.79.54.0/24"
+    ],
     "ipv6": []
   }
 }

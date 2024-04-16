@@ -3,7 +3,9 @@
   "handle": "APEX",
   "description": "Apex Clearing Solutions, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.83.14.0/23"
+    ],
     "ipv6": []
   }
 }

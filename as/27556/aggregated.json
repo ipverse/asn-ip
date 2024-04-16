@@ -3,7 +3,11 @@
   "handle": "FRACRACKVCLOUD",
   "description": "Frac Rack LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "75.141.40.0/24",
+      "206.196.123.0/24",
+      "209.96.64.0/19"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "GORSUP",
   "description": "LLC Gorodskoy supermarket",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.19.210.0/24"
+    ],
     "ipv6": []
   }
 }

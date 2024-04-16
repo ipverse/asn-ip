@@ -3,7 +3,9 @@
   "handle": "NBI-KIEV",
   "description": "NBI INTERNET LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "80.78.32.0/19"
+    ],
     "ipv6": []
   }
 }

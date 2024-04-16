@@ -3,7 +3,9 @@
   "handle": "BGC-NETWORK",
   "description": "Brookshire Grocery Company",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "216.38.240.0/20"
+    ],
     "ipv6": []
   }
 }

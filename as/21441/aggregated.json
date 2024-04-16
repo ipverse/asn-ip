@@ -3,7 +3,9 @@
   "handle": "LJSE",
   "description": "LJUBLJANSKA BORZA d.d. Ljubljana",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.109.227.0/24"
+    ],
     "ipv6": []
   }
 }

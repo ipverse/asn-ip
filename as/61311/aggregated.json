@@ -3,7 +3,9 @@
   "handle": "PROFIGROUP",
   "description": "ProfiGroup Lukasz Grzelak",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.202.178.0/23"
+    ],
     "ipv6": []
   }
 }

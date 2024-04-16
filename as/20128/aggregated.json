@@ -3,7 +3,11 @@
   "handle": "IN2",
   "description": "iN2 LLC",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "66.180.48.0/20"
+    ],
+    "ipv6": [
+      "2605:7440::/32"
+    ]
   }
 }

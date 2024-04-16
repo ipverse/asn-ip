@@ -3,7 +3,9 @@
   "handle": "VFNLLC",
   "description": "Viaero Fiber Networks, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "66.148.0.0/19"
+    ],
     "ipv6": []
   }
 }

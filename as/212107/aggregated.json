@@ -3,7 +3,9 @@
   "handle": "SINOPHOS",
   "description": "SINOPHOS GROUP LLORET SL.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "78.142.249.0/24"
+    ],
     "ipv6": []
   }
 }

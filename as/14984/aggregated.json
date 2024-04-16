@@ -3,7 +3,9 @@
   "handle": "DYNACOM",
   "description": "DynaCom Management, Inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "207.229.102.0/24"
+    ],
     "ipv6": []
   }
 }

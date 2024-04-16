@@ -3,7 +3,9 @@
   "handle": "PERFECTO",
   "description": "Perfecto Consultoria E Apoio Administrativo LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "95.214.27.0/24"
+    ],
     "ipv6": []
   }
 }

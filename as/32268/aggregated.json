@@ -3,7 +3,11 @@
   "handle": "ARTISAN-PARTNERS",
   "description": "Artisan Partners Limited Partnership",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "66.192.14.0/24",
+      "207.67.59.0/24",
+      "207.67.65.0/24"
+    ],
     "ipv6": []
   }
 }

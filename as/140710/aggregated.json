@@ -3,7 +3,9 @@
   "handle": "NSSB-AP",
   "description": "NKH SOLUTION SDN BHD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.152.12.0/23"
+    ],
     "ipv6": []
   }
 }

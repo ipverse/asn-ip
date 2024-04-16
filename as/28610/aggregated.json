@@ -3,7 +3,12 @@
   "handle": "DEBIAN-SIGNAL-COMUNICAO",
   "description": "DEBIAN SIGNAL COMUNICAO MULTIMIDIA LTDA ME",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "186.209.88.0/22",
+      "186.219.169.0/24"
+    ],
+    "ipv6": [
+      "2804:dc0::/32"
+    ]
   }
 }

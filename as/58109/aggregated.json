@@ -3,7 +3,9 @@
   "handle": "SBKM",
   "description": "STARCARD BANKA KARTLARI MERKEZI LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "37.235.72.0/24"
+    ],
     "ipv6": []
   }
 }

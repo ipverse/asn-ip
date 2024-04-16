@@ -3,7 +3,11 @@
   "handle": "BREITBANDMESSUNG",
   "description": "zafaco GmbH",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "193.238.173.0/24"
+    ],
+    "ipv6": [
+      "2a11:380::/29"
+    ]
   }
 }

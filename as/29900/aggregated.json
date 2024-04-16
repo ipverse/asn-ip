@@ -3,7 +3,10 @@
   "handle": "GTMCNET",
   "description": "GLENWOOD TELEPHONE MEMBERSHIP CORPORATION",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "66.146.240.0/20",
+      "74.51.128.0/20"
+    ],
     "ipv6": []
   }
 }

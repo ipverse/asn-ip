@@ -3,7 +3,9 @@
   "handle": "DHLC",
   "description": "Deborah Heart and Lung Center",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "198.245.190.0/24"
+    ],
     "ipv6": []
   }
 }

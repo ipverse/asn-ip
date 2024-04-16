@@ -3,7 +3,10 @@
   "handle": "MAXWIRE-001",
   "description": "MAXWIRE, INC.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "142.202.108.0/22",
+      "208.73.228.0/22"
+    ],
     "ipv6": []
   }
 }

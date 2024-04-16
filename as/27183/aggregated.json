@@ -3,7 +3,9 @@
   "handle": "NSD417",
   "description": "Northshore School District",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "152.157.64.0/20"
+    ],
     "ipv6": []
   }
 }

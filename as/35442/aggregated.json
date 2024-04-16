@@ -3,7 +3,10 @@
   "handle": "PODOL",
   "description": "TOV Internet on the Podol",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.195.96.0/23",
+      "193.239.254.0/23"
+    ],
     "ipv6": []
   }
 }

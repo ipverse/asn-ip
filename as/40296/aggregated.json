@@ -3,7 +3,9 @@
   "handle": "RUBENSTEIN-ASSOCIATES-INC",
   "description": "Rubenstein Associates, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.96.184.0/24"
+    ],
     "ipv6": []
   }
 }

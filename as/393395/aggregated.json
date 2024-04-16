@@ -3,7 +3,9 @@
   "handle": "ALARMNE",
   "description": "Alarm New England LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.55.96.0/24"
+    ],
     "ipv6": []
   }
 }

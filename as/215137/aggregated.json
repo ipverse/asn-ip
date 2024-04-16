@@ -1,0 +1,13 @@
+{
+  "asn": 215137,
+  "handle": "KANADE",
+  "description": "Kanade",
+  "subnets": {
+    "ipv4": [
+      "91.217.219.0/24"
+    ],
+    "ipv6": [
+      "2a07:5900::/29"
+    ]
+  }
+}

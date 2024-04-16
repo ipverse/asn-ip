@@ -3,7 +3,9 @@
   "handle": "INTER",
   "description": "Interface Technologies, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "208.69.8.0/21"
+    ],
     "ipv6": []
   }
 }

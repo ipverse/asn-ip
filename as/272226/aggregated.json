@@ -3,7 +3,9 @@
   "handle": "ILHA-CONNECT-TELECOMUNICES",
   "description": "ILHA CONNECT TELECOMUNICES LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.171.79.0/24"
+    ],
     "ipv6": []
   }
 }

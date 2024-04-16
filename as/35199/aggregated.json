@@ -3,7 +3,12 @@
   "handle": "ENFORMATEL",
   "description": "Enformatel Sp. z o.o.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "89.174.170.0/24",
+      "178.219.16.0/22",
+      "185.214.67.0/24",
+      "193.19.164.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "TSYS-SDC-CIV",
   "description": "Global Payments Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "67.231.82.0/24"
+    ],
     "ipv6": []
   }
 }

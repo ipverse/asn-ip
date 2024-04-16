@@ -3,7 +3,9 @@
   "handle": "TCMC",
   "description": "Geisinger Commonwealth School of Medicine",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "204.139.52.0/22"
+    ],
     "ipv6": []
   }
 }

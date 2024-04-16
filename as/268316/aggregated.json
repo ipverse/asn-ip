@@ -3,8 +3,11 @@
   "handle": "VAITELECOM",
   "description": "VAITELECOM LTDA ME",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.238.80.0/24"
+    ],
     "ipv6": [
+      "2804:4f44::/33",
       "2804:4f44:8000::/40"
     ]
   }

@@ -3,7 +3,9 @@
   "handle": "KANSUIUN-AP",
   "description": "Kansuiun Co., Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "61.200.87.0/24"
+    ],
     "ipv6": []
   }
 }

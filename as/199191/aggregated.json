@@ -3,7 +3,11 @@
   "handle": "DIMITAR-VASILEV-9",
   "description": "Dimitar Vasilev-9 EOOD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "62.176.68.0/23",
+      "87.246.27.0/24",
+      "87.246.32.0/24"
+    ],
     "ipv6": []
   }
 }

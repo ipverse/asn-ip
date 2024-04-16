@@ -3,7 +3,10 @@
   "handle": "ROUTED-HOSTING",
   "description": "Routed Hosting (PTY) LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "160.20.24.0/21",
+      "164.160.44.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,10 @@
   "handle": "UNITED-FINANCIAL-SERVICES",
   "description": "UFS LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "66.84.146.0/24",
+      "207.67.42.0/24"
+    ],
     "ipv6": []
   }
 }

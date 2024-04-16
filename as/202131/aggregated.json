@@ -3,7 +3,11 @@
   "handle": "WAVE-NET",
   "description": "ISP Alliance a.s.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "185.52.172.0/23"
+    ],
+    "ipv6": [
+      "2a04:c740::/29"
+    ]
   }
 }

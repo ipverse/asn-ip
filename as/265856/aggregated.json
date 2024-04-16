@@ -3,7 +3,10 @@
   "handle": "MIGUEL-ARAYA",
   "description": "Miguel Araya(Servicios Rosario)",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.158.96.0/19",
+      "170.231.204.0/22"
+    ],
     "ipv6": []
   }
 }

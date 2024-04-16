@@ -3,7 +3,9 @@
   "handle": "BMD-NET",
   "description": "LLC BMD NET",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.155.88.0/24"
+    ],
     "ipv6": []
   }
 }

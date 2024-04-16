@@ -3,7 +3,12 @@
   "handle": "NONTRINET-AP",
   "description": "Kasetsart University",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "158.108.0.0/16",
+      "192.102.83.0/24"
+    ],
+    "ipv6": [
+      "2406:3100::/32"
+    ]
   }
 }

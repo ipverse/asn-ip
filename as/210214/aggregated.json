@@ -3,7 +3,11 @@
   "handle": "PATRIZIA-AG",
   "description": "Patrizia SE",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "194.53.104.0/22"
+    ],
+    "ipv6": [
+      "2a0c:f8c0::/30"
+    ]
   }
 }

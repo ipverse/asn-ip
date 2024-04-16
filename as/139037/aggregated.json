@@ -3,7 +3,9 @@
   "handle": "QUIPTEKPACIFIC-AP",
   "description": "QUIPTEK PACIFIC PTY LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.138.201.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "SC-INTERACTIVE-SYSTEMS-AND-BUSINESS-CONSULTING-SRL",
   "description": "Interactive Systems and Business Consulting SRL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "85.121.190.0/24"
+    ],
     "ipv6": []
   }
 }

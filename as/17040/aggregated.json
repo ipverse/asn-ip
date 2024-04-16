@@ -3,7 +3,11 @@
   "handle": "SEATTLE-TIMES",
   "description": "The Seattle Times",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.251.219.0/24",
+      "192.251.220.0/22",
+      "192.251.224.0/24"
+    ],
     "ipv6": []
   }
 }

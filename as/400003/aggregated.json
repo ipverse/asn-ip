@@ -3,7 +3,9 @@
   "handle": "OXFORD-GLOBAL-RESOURCES",
   "description": "Oxford Global Resources",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.103.250.0/24"
+    ],
     "ipv6": []
   }
 }

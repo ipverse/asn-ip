@@ -3,7 +3,10 @@
   "handle": "VEKTORPLUS",
   "description": "TRK Vektor Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.193.80.0/22",
+      "194.28.64.0/22"
+    ],
     "ipv6": []
   }
 }

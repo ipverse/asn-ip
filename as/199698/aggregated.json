@@ -3,7 +3,9 @@
   "handle": "MAXINET",
   "description": "Maxinet LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "217.113.29.0/24"
+    ],
     "ipv6": []
   }
 }

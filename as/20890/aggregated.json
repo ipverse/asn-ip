@@ -3,7 +3,9 @@
   "handle": "SULZER-MANAGEMENT",
   "description": "Sulzer Management AG",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "141.171.132.0/22"
+    ],
     "ipv6": []
   }
 }

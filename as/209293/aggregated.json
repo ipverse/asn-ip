@@ -3,7 +3,9 @@
   "handle": "NO-AKERBP",
   "description": "AKER BP ASA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "157.97.152.0/22"
+    ],
     "ipv6": []
   }
 }

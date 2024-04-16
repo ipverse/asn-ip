@@ -3,7 +3,12 @@
   "handle": "SKLNK",
   "description": "UAB Skylink LT.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "185.216.46.0/24",
+      "193.8.246.0/24"
+    ],
+    "ipv6": [
+      "2a0b:b2c0:2::/48"
+    ]
   }
 }

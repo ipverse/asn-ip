@@ -3,7 +3,9 @@
   "handle": "HORIZONMSK",
   "description": "HORIZON LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "62.204.41.0/24"
+    ],
     "ipv6": []
   }
 }

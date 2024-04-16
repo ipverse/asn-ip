@@ -3,7 +3,10 @@
   "handle": "VKFYTRM",
   "description": "VAKIF YATIRIM MENKUL DEGERLER ANONIM SIRKETI",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "85.153.135.0/24",
+      "85.153.140.0/24"
+    ],
     "ipv6": []
   }
 }

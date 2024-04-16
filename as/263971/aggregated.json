@@ -3,7 +3,12 @@
   "handle": "FALEMAIS-COMUNICAES",
   "description": "FaleMais Comunicaes LTDA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "138.255.192.0/22",
+      "170.254.76.0/22"
+    ],
+    "ipv6": [
+      "2804:28a0::/32"
+    ]
   }
 }

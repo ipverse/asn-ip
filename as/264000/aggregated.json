@@ -3,7 +3,12 @@
   "handle": "FIBRAON-FABRICIO-PILONI",
   "description": "FibraON - Fabricio Piloni Bertolo - ME",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "143.0.124.0/22"
+    ],
+    "ipv6": [
+      "2804:2924::/32",
+      "2804:62dc:ffff::/48"
+    ]
   }
 }

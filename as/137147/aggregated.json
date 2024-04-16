@@ -3,7 +3,9 @@
   "handle": "INTELICS-IN",
   "description": "Writer Business Services Private Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.251.252.0/24"
+    ],
     "ipv6": []
   }
 }

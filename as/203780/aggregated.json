@@ -3,7 +3,9 @@
   "handle": "MASOUTIS",
   "description": "Diamantis Masoutis S.A. - Super Market",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "213.140.144.0/24"
+    ],
     "ipv6": []
   }
 }

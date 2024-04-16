@@ -3,7 +3,11 @@
   "handle": "SILVANIA-ALVES-SANTOS",
   "description": "SILVANIA ALVES SANTOS ME",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "191.242.64.0/21"
+    ],
+    "ipv6": [
+      "2804:1260::/32"
+    ]
   }
 }

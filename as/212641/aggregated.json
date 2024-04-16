@@ -3,7 +3,12 @@
   "handle": "INCOM",
   "description": "FOP Lenartovych Mariia Petrivna",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "176.120.108.0/24",
+      "185.179.214.0/24"
+    ],
+    "ipv6": [
+      "2001:67c:2470::/48"
+    ]
   }
 }

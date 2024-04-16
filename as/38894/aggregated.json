@@ -3,7 +3,10 @@
   "handle": "HHPL-AP",
   "description": "ManageNET",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.26.88.0/22",
+      "119.82.0.0/21"
+    ],
     "ipv6": []
   }
 }

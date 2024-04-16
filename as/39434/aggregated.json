@@ -3,7 +3,9 @@
   "handle": "OPTIKA-TELECOM",
   "description": "Subnet LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "81.24.80.0/21"
+    ],
     "ipv6": []
   }
 }

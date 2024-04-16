@@ -3,7 +3,11 @@
   "handle": "QUOPIAM",
   "description": "Quopiam Informatica SL",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "185.168.104.0/22"
+    ],
+    "ipv6": [
+      "2a0b:fe00::/29"
+    ]
   }
 }

@@ -3,7 +3,9 @@
   "handle": "INNOGYCZ",
   "description": "innogy Ceska republika a.s",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "89.250.104.0/21"
+    ],
     "ipv6": []
   }
 }

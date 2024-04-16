@@ -3,7 +3,11 @@
   "handle": "VASTSPACEPTELTD-AP",
   "description": "VASTSPACE PTE. LTD.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.229.128.0/24",
+      "103.237.143.0/24",
+      "103.237.168.0/23"
+    ],
     "ipv6": []
   }
 }

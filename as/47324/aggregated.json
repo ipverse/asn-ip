@@ -3,7 +3,10 @@
   "handle": "KDB-HU",
   "description": "KDB Bank Hungary Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.120.33.0/24",
+      "195.56.124.0/23"
+    ],
     "ipv6": []
   }
 }

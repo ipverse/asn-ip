@@ -3,7 +3,9 @@
   "handle": "TUNASMEDIADATA-ID",
   "description": "PT Tunas Media Data",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.38.104.0/23"
+    ],
     "ipv6": []
   }
 }

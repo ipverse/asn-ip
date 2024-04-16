@@ -3,7 +3,11 @@
   "handle": "NTL-NC-AP",
   "description": "Nautile SARL",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.114.232.0/23"
+    ],
+    "ipv6": [
+      "2404:e400:10::/44"
+    ]
   }
 }

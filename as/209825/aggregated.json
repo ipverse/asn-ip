@@ -3,7 +3,9 @@
   "handle": "IBNET",
   "description": "Katanytsia Lyubov Viktorivna",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "85.209.44.0/22"
+    ],
     "ipv6": []
   }
 }

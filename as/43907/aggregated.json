@@ -3,7 +3,9 @@
   "handle": "OPIN",
   "description": "PJSC INGRAD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.198.184.0/24"
+    ],
     "ipv6": []
   }
 }

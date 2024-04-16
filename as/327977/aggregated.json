@@ -3,7 +3,9 @@
   "handle": "FAMILY-BANK",
   "description": "Family Bank Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "196.1.116.0/23"
+    ],
     "ipv6": []
   }
 }

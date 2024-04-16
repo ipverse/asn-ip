@@ -3,7 +3,9 @@
   "handle": "AYA-RADIOCOMUNICACIONES",
   "description": "AYA RADIOCOMUNICACIONES SAS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.162.79.0/24"
+    ],
     "ipv6": []
   }
 }

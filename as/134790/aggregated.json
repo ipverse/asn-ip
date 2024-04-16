@@ -3,7 +3,9 @@
   "handle": "UIU-AP",
   "description": "United International University",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.109.52.0/22"
+    ],
     "ipv6": []
   }
 }

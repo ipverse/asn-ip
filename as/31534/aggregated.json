@@ -3,7 +3,9 @@
   "handle": "ING-BANK",
   "description": "ING Bank N.V. - Sofia Branch",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.16.102.0/24"
+    ],
     "ipv6": []
   }
 }

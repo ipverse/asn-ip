@@ -3,7 +3,9 @@
   "handle": "SUPER-TELECOM",
   "description": "SUPER TELECOM LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "190.109.104.0/22"
+    ],
     "ipv6": []
   }
 }

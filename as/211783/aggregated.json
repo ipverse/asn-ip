@@ -3,7 +3,9 @@
   "handle": "BEOIO",
   "description": "beo.io ApS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.197.136.0/22"
+    ],
     "ipv6": []
   }
 }

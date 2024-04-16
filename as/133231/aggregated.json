@@ -3,7 +3,9 @@
   "handle": "GSTN",
   "description": "Goods And Services Tax Network",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.83.76.0/22"
+    ],
     "ipv6": []
   }
 }

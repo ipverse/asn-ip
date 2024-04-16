@@ -3,7 +3,12 @@
   "handle": "VOOB-TELECOM",
   "description": "VOOB TELECOM",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.177.140.0/22",
+      "170.245.92.0/22"
+    ],
+    "ipv6": [
+      "2804:390c::/32"
+    ]
   }
 }

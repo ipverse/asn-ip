@@ -3,7 +3,9 @@
   "handle": "IT-ANYWHERE",
   "description": "IT Anywhere (Private) Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "102.177.72.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,11 @@
   "handle": "WIPAK",
   "description": "Wipak Walsrode GmbH",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "195.58.53.0/24"
+    ],
+    "ipv6": [
+      "2a13:cfc0::/29"
+    ]
   }
 }

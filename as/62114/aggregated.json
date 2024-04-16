@@ -3,7 +3,9 @@
   "handle": "GARMIN",
   "description": "GARMIN Cluj SRL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "176.223.64.0/24"
+    ],
     "ipv6": []
   }
 }

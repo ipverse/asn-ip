@@ -3,7 +3,9 @@
   "handle": "SOVA-CAPITAL",
   "description": "Sova Capital Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.52.200.0/22"
+    ],
     "ipv6": []
   }
 }

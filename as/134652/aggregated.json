@@ -3,7 +3,9 @@
   "handle": "IDNIC-PPM-ID",
   "description": "PPM Manajemen",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.209.8.0/24"
+    ],
     "ipv6": []
   }
 }

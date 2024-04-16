@@ -3,7 +3,9 @@
   "handle": "KTB-KTBCS-AP",
   "description": "KTB COMPUTER SERVICES COMPANY LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "167.94.112.0/23"
+    ],
     "ipv6": []
   }
 }

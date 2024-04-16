@@ -3,7 +3,9 @@
   "handle": "NATSEC",
   "description": "NBG Securities SA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.35.126.0/24"
+    ],
     "ipv6": []
   }
 }

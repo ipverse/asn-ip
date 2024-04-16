@@ -3,7 +3,10 @@
   "handle": "ENTER",
   "description": "Enter T\u0026T Sp. z o.o.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "78.159.64.0/21",
+      "78.159.86.0/24"
+    ],
     "ipv6": []
   }
 }

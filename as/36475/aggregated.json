@@ -3,7 +3,10 @@
   "handle": "ZACKS-1",
   "description": "Zacks Investment Research Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "208.65.116.0/23",
+      "208.65.119.0/24"
+    ],
     "ipv6": []
   }
 }

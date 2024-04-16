@@ -3,7 +3,9 @@
   "handle": "WFCU-WW",
   "description": "UNIFY Financial Credit Union",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "8.35.5.0/24"
+    ],
     "ipv6": []
   }
 }

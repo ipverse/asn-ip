@@ -3,7 +3,11 @@
   "handle": "SATNETCOM-ID",
   "description": "Satnetcom Balikpapan PT.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "203.80.8.0/21"
+    ],
+    "ipv6": [
+      "2405:8e00::/32"
+    ]
   }
 }

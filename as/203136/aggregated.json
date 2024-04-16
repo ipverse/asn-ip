@@ -3,7 +3,11 @@
   "handle": "ORDUNET",
   "description": "LLC Ordunet",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "185.143.176.0/22"
+    ],
+    "ipv6": [
+      "2a0e:2700::/29"
+    ]
   }
 }

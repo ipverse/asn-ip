@@ -3,7 +3,11 @@
   "handle": "SIMONE-BARBOSA-NASCIMENTO",
   "description": "SIMONE BARBOSA DO NASCIMENTO SOUZA COMUNICAO",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "201.71.4.0/22"
+    ],
+    "ipv6": [
+      "2804:69a4:c000::/34"
+    ]
   }
 }

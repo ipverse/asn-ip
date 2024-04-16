@@ -3,7 +3,9 @@
   "handle": "MERIT-RICHMOND",
   "description": "Merit Medical Systems, Inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "198.161.201.0/24"
+    ],
     "ipv6": []
   }
 }

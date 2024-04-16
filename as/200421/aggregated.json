@@ -3,7 +3,9 @@
   "handle": "FIRMAMED",
   "description": "Hermandad Farmaceutica del Mediterraneo S.C.L.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.103.124.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "SILVERTECH",
   "description": "Silvernet SARL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.223.71.0/24"
+    ],
     "ipv6": []
   }
 }

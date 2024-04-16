@@ -3,7 +3,10 @@
   "handle": "GLOBEX-NL-AMS",
   "description": "Globex Telecom Group Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.20.4.0/24",
+      "185.171.246.0/23"
+    ],
     "ipv6": []
   }
 }

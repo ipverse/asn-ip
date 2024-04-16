@@ -3,7 +3,10 @@
   "handle": "BW-LYNVA",
   "description": "BWX Technologies, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "136.175.220.0/23",
+      "199.246.255.0/24"
+    ],
     "ipv6": []
   }
 }

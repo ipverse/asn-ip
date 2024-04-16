@@ -3,7 +3,9 @@
   "handle": "TCNINC",
   "description": "TCN, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "74.117.48.0/22"
+    ],
     "ipv6": []
   }
 }

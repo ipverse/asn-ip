@@ -3,7 +3,9 @@
   "handle": "VELOXNETT-SERVIOS-COMUNICAO",
   "description": "VeloxNett servios de comunicao multimdia",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "190.89.216.0/22"
+    ],
     "ipv6": []
   }
 }

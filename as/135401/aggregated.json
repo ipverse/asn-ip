@@ -3,7 +3,11 @@
   "handle": "SAP-DC-TYO",
   "description": "SAP AUSTRALIA PTY LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "157.133.144.0/20",
+      "202.242.1.0/24",
+      "202.242.2.0/24"
+    ],
     "ipv6": []
   }
 }

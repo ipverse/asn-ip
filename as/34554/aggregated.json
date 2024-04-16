@@ -3,7 +3,12 @@
   "handle": "ANTANET",
   "description": "Antares Kommunikationstechnik AG",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "80.75.112.0/20",
+      "185.196.128.0/22"
+    ],
+    "ipv6": [
+      "2a01:6a8::/32"
+    ]
   }
 }

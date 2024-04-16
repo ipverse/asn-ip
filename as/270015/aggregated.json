@@ -3,7 +3,9 @@
   "handle": "COOP-SERVICIOS-PUBLICOS",
   "description": "COOP DE SERVICIOS PUBLICOS PLOTTIER LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "177.12.216.0/22"
+    ],
     "ipv6": []
   }
 }

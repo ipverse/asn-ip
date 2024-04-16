@@ -3,7 +3,9 @@
   "handle": "ZOOT",
   "description": "Zoot Enterprises, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "147.185.200.0/22"
+    ],
     "ipv6": []
   }
 }

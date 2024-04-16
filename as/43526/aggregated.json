@@ -3,7 +3,9 @@
   "handle": "NOVIKOM",
   "description": "Joint-Stock Commercial Bank NOVIKOMBANK",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "85.202.165.0/24"
+    ],
     "ipv6": []
   }
 }

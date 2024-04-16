@@ -3,7 +3,10 @@
   "handle": "CRCC-MEDIA",
   "description": "CRCC Media Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "202.55.192.0/19",
+      "202.169.128.0/19"
+    ],
     "ipv6": []
   }
 }

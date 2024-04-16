@@ -3,7 +3,11 @@
   "handle": "NEXNET-FIBRA-INTERNET",
   "description": "NEXNET FIBRA INTERNET",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "177.86.56.0/21"
+    ],
+    "ipv6": [
+      "2804:8e54::/32"
+    ]
   }
 }

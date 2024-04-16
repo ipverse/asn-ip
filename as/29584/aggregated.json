@@ -3,7 +3,11 @@
   "handle": "AZEDUNET",
   "description": "AZEDUNET LLC",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "82.194.0.0/20"
+    ],
+    "ipv6": [
+      "2a00:8d40::/33"
+    ]
   }
 }

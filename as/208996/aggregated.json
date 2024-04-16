@@ -3,7 +3,9 @@
   "handle": "NETNAMS",
   "description": "NBI SIA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.11.192.0/22"
+    ],
     "ipv6": []
   }
 }

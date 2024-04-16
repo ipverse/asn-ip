@@ -3,7 +3,9 @@
   "handle": "DEERECOMPANY-AP",
   "description": "Deere \u0026 Company",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "204.55.176.0/20"
+    ],
     "ipv6": []
   }
 }

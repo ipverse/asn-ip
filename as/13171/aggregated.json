@@ -3,7 +3,9 @@
   "handle": "BSU",
   "description": "Belarusian State University",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "217.21.43.0/24"
+    ],
     "ipv6": []
   }
 }

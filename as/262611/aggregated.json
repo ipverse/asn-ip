@@ -3,7 +3,12 @@
   "handle": "IVR-INFORMATICA",
   "description": "Ivr informatica ltda me",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "168.228.168.0/22",
+      "177.85.176.0/21"
+    ],
+    "ipv6": [
+      "2804:2fc8::/32"
+    ]
   }
 }

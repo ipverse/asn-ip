@@ -3,7 +3,11 @@
   "handle": "VOXCONNECT",
   "description": "VOX CONNECT INC",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "23.175.192.0/24"
+    ],
+    "ipv6": [
+      "2604:a340::/32"
+    ]
   }
 }

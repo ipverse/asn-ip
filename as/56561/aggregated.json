@@ -3,7 +3,9 @@
   "handle": "CBA",
   "description": "Central Bank of the Republic of Armenia",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "5.39.204.0/22"
+    ],
     "ipv6": []
   }
 }

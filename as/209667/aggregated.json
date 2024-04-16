@@ -3,7 +3,9 @@
   "handle": "SMART-OFFICE",
   "description": "Smart-Office LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "89.223.96.0/24"
+    ],
     "ipv6": []
   }
 }

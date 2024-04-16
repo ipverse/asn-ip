@@ -3,7 +3,12 @@
   "handle": "RF-CONNECT-PROVEDOR",
   "description": "RF Connect Provedor de Acesso LTDA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "168.227.56.0/22",
+      "170.246.184.0/22"
+    ],
+    "ipv6": [
+      "2804:2f40::/32"
+    ]
   }
 }

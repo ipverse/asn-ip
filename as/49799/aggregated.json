@@ -3,7 +3,9 @@
   "handle": "PRIO-VNESHTORGBANK",
   "description": "Public joint-stock company Prio-Vneshtorgbank",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.213.142.0/24"
+    ],
     "ipv6": []
   }
 }

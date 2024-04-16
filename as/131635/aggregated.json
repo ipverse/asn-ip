@@ -3,7 +3,9 @@
   "handle": "AIRPAYTW",
   "description": "Airpay TW",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.127.232.0/22"
+    ],
     "ipv6": []
   }
 }

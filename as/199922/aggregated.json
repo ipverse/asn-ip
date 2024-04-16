@@ -3,7 +3,9 @@
   "handle": "PFR",
   "description": "PENSION AND SOCIAL INSURANCE FUND OF THE RUSSIAN FEDERATION",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.161.52.0/23"
+    ],
     "ipv6": []
   }
 }

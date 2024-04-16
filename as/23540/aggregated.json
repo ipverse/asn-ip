@@ -3,7 +3,9 @@
   "handle": "CMH-IX",
   "description": "CMH-IX",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "206.82.108.0/24"
+    ],
     "ipv6": []
   }
 }

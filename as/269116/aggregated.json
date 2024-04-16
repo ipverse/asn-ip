@@ -4,8 +4,10 @@
   "description": "JS TELECOMUNICACOES EIRELI",
   "subnets": {
     "ipv4": [
-      "45.179.210.0/24"
+      "45.179.208.0/22"
     ],
-    "ipv6": []
+    "ipv6": [
+      "2804:5fac::/32"
+    ]
   }
 }

@@ -3,7 +3,10 @@
   "handle": "RMY-2012",
   "description": "The Regional Municipality of York",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "198.163.181.0/24",
+      "198.179.219.0/24"
+    ],
     "ipv6": []
   }
 }

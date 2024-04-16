@@ -3,7 +3,11 @@
   "handle": "UWW-EDU",
   "description": "University of Wisconsin Whitewater",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "140.146.0.0/16"
+    ],
+    "ipv6": [
+      "2606:7c00::/32"
+    ]
   }
 }

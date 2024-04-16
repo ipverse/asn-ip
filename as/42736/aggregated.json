@@ -3,7 +3,9 @@
   "handle": "AKPET-AKARYAKIT",
   "description": "AKPET AKARYAKIT DAGITIM A.S.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.110.213.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "USTRONET-PL",
   "description": "INVICOM Sp. z o.o.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.177.28.0/22"
+    ],
     "ipv6": []
   }
 }

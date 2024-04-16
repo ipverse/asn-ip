@@ -3,7 +3,9 @@
   "handle": "IDNIC-KOMATSUKUI-ID",
   "description": "PT Komatsu Undercarriage Indonesia",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.158.143.0/24"
+    ],
     "ipv6": []
   }
 }

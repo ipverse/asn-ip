@@ -3,7 +3,9 @@
   "handle": "ADCOM",
   "description": "IT DATA AS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.187.24.0/22"
+    ],
     "ipv6": []
   }
 }

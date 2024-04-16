@@ -3,7 +3,10 @@
   "handle": "IRS",
   "description": "LLC Innovative technologies of communication",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.176.81.0/24",
+      "193.176.82.0/24"
+    ],
     "ipv6": []
   }
 }

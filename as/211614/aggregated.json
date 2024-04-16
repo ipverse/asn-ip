@@ -3,7 +3,9 @@
   "handle": "BITEMOBILE-LT",
   "description": "UAB Bite Lietuva",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "213.252.243.0/24"
+    ],
     "ipv6": []
   }
 }

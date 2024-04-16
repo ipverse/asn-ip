@@ -3,7 +3,9 @@
   "handle": "COURTHOUSE",
   "description": "Bossier Parish Police Jury",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "68.67.126.0/24"
+    ],
     "ipv6": []
   }
 }

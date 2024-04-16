@@ -3,7 +3,9 @@
   "handle": "HAIB",
   "description": "HudsonAlpha Institute for Biotechnology",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "52.119.14.0/23"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "TI-NT",
   "description": "Igor Vladimirovich Gorodkov",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "79.170.152.0/22"
+    ],
     "ipv6": []
   }
 }

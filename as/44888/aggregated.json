@@ -3,7 +3,9 @@
   "handle": "HUSU",
   "description": "HUBER+SUHNER AG",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.47.88.0/22"
+    ],
     "ipv6": []
   }
 }

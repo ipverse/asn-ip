@@ -3,7 +3,9 @@
   "handle": "BLUEDUST",
   "description": "Bluedust Wireless",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "41.79.104.0/22"
+    ],
     "ipv6": []
   }
 }

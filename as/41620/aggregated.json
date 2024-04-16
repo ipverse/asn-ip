@@ -3,7 +3,9 @@
   "handle": "IUSTCC",
   "description": "Iran University Of Science and Technology",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.225.224.0/20"
+    ],
     "ipv6": []
   }
 }

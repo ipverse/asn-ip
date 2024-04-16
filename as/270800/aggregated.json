@@ -4,8 +4,10 @@
   "description": "ROBERTO VIEIRA DA CRUZ ME",
   "subnets": {
     "ipv4": [
-      "200.219.37.0/24"
+      "200.219.36.0/22"
     ],
-    "ipv6": []
+    "ipv6": [
+      "2804:719c::/32"
+    ]
   }
 }

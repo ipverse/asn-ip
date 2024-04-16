@@ -3,7 +3,11 @@
   "handle": "3NET-SERVIOS-INTERNET",
   "description": "3Net Servios \u0026 Internet Ltda.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "177.152.144.0/21"
+    ],
+    "ipv6": [
+      "2804:4c6c::/32"
+    ]
   }
 }

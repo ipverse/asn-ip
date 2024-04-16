@@ -3,7 +3,9 @@
   "handle": "CKE",
   "description": "Circle K AS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.192.232.0/24"
+    ],
     "ipv6": []
   }
 }

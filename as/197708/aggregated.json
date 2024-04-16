@@ -3,7 +3,9 @@
   "handle": "PALPAYAS",
   "description": "PalPay For Electronic Payment System Company",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.7.120.0/24"
+    ],
     "ipv6": []
   }
 }

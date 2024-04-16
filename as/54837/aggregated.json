@@ -3,7 +3,9 @@
   "handle": "BSNOW-01",
   "description": "Butler Snow",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "66.33.21.0/24"
+    ],
     "ipv6": []
   }
 }

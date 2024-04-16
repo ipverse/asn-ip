@@ -3,7 +3,9 @@
   "handle": "SEAWORLD-PARKS-AND-ENTERTAINMENT",
   "description": "SeaWorld Parks \u0026 Entertainment, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "173.227.210.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "SRGGI-01",
   "description": "SRG Global, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "205.196.63.0/24"
+    ],
     "ipv6": []
   }
 }

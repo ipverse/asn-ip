@@ -3,7 +3,11 @@
   "handle": "CBCTIL-AP",
   "description": "CBC TECH INTERNATIONAL LTD.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "103.163.165.0/24"
+    ],
+    "ipv6": [
+      "2407:2a40::/32"
+    ]
   }
 }

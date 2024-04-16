@@ -3,7 +3,9 @@
   "handle": "LAZUS-PERU",
   "description": "LAZUS PERU S.A.C.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.169.36.0/24"
+    ],
     "ipv6": []
   }
 }

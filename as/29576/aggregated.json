@@ -3,7 +3,9 @@
   "handle": "POISK-UA",
   "description": "PP Poisk-Lugansk",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.146.132.0/22"
+    ],
     "ipv6": []
   }
 }

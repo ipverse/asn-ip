@@ -3,7 +3,11 @@
   "handle": "ACESSO10-TELECOM",
   "description": "Acesso10 Telecom",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "186.235.128.0/19"
+    ],
+    "ipv6": [
+      "2804:1dc::/32"
+    ]
   }
 }

@@ -3,7 +3,9 @@
   "handle": "AP-MOLLER-MAERSK",
   "description": "A.P. MOLLER - MAERSK A/S",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.163.240.0/24"
+    ],
     "ipv6": []
   }
 }

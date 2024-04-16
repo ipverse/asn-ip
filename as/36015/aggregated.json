@@ -3,7 +3,9 @@
   "handle": "MRHS",
   "description": "Maury Regional Hospital",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "205.142.116.0/22"
+    ],
     "ipv6": []
   }
 }

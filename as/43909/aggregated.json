@@ -3,7 +3,9 @@
   "handle": "CRYSTALL",
   "description": "Crystall Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "85.202.176.0/20"
+    ],
     "ipv6": []
   }
 }

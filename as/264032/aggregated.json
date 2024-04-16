@@ -4,8 +4,10 @@
   "description": "TopLink Informtica LTDA",
   "subnets": {
     "ipv4": [
-      "143.137.58.0/24"
+      "143.137.56.0/22"
     ],
-    "ipv6": []
+    "ipv6": [
+      "2804:29c0::/32"
+    ]
   }
 }

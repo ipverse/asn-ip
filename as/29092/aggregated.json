@@ -3,7 +3,10 @@
   "handle": "NEXTIRAONE-FR",
   "description": "NXO France SAS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.47.241.0/24",
+      "195.66.119.0/24"
+    ],
     "ipv6": []
   }
 }

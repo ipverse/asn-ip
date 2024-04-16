@@ -3,7 +3,9 @@
   "handle": "TAMPNET-US",
   "description": "Tampnet Inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.16.208.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "KEYCOOP",
   "description": "Key Cooperative",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "158.51.226.0/23"
+    ],
     "ipv6": []
   }
 }

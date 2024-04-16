@@ -3,7 +3,9 @@
   "handle": "PARALLELS",
   "description": "Parallels International GmbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.214.234.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "TERAN-JORGE-LUIS",
   "description": "TERAN JORGE LUIS (Social Datos)",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.234.180.0/22"
+    ],
     "ipv6": []
   }
 }

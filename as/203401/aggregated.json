@@ -3,7 +3,9 @@
   "handle": "URALPRESS",
   "description": "Boxberry-soft OOO",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "188.130.235.0/24"
+    ],
     "ipv6": []
   }
 }

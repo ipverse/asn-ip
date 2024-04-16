@@ -3,7 +3,9 @@
   "handle": "KBCGROUP-CSOBCZ",
   "description": "KBC GLOBAL SERVICES NV",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.245.32.0/21"
+    ],
     "ipv6": []
   }
 }

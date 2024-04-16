@@ -3,7 +3,10 @@
   "handle": "JP3DP-NET",
   "description": "JAPAN 3D PRINTER",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.68.120.0/24",
+      "103.115.86.0/23"
+    ],
     "ipv6": []
   }
 }

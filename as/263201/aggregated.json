@@ -3,7 +3,9 @@
   "handle": "AIRPAK-INTERNACIONAL-NICARAGUA",
   "description": "AIRPAK INTERNACIONAL NICARAGUA S.A",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "190.53.47.0/24"
+    ],
     "ipv6": []
   }
 }

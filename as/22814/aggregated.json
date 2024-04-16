@@ -3,7 +3,9 @@
   "handle": "FRANSERV",
   "description": "Franchise Services, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "64.58.185.0/24"
+    ],
     "ipv6": []
   }
 }

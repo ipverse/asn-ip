@@ -3,7 +3,9 @@
   "handle": "COOPERATIVA-ELECTRICIDAD-S",
   "description": "COOPERATIVA DE ELECTRICIDAD Y S. A. DE DIONISIA LTDA.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "170.83.52.0/22"
+    ],
     "ipv6": []
   }
 }

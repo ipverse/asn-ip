@@ -3,7 +3,9 @@
   "handle": "EXEL",
   "description": "Exelixis Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "65.209.203.0/24"
+    ],
     "ipv6": []
   }
 }

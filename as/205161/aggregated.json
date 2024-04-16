@@ -3,7 +3,9 @@
   "handle": "SBER-SPB",
   "description": "Sberbank of Russia PJSC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.203.225.0/24"
+    ],
     "ipv6": []
   }
 }

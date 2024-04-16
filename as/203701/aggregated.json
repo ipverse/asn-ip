@@ -3,7 +3,12 @@
   "handle": "ROCKET",
   "description": "RocketConnect OU",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "195.54.166.0/23",
+      "202.122.129.0/24"
+    ],
+    "ipv6": [
+      "2a09:e200:40::/48"
+    ]
   }
 }

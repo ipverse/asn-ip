@@ -4,6 +4,8 @@
   "description": "Hypha Worker Co-operative Inc.",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2602:2a0::/48"
+    ]
   }
 }

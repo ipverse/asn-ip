@@ -3,7 +3,9 @@
   "handle": "ZAGIEL",
   "description": "Santander Consumer Bank S.A.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.198.15.0/24"
+    ],
     "ipv6": []
   }
 }

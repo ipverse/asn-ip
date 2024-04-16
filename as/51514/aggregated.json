@@ -3,7 +3,12 @@
   "handle": "SPOTLER",
   "description": "Spotler Nederland B.V.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "37.221.216.0/21",
+      "46.31.48.0/21"
+    ],
+    "ipv6": [
+      "2a02:23e8::/32"
+    ]
   }
 }

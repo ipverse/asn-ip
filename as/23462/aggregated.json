@@ -3,7 +3,9 @@
   "handle": "SAUNSTAR-PARKPLAZA",
   "description": "SaunStar Operating Company, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "208.71.36.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "CARLESSI-INTERNET",
   "description": "Carlessi Internet LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "170.233.180.0/22"
+    ],
     "ipv6": []
   }
 }

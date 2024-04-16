@@ -3,7 +3,9 @@
   "handle": "TRANSUNIONLIMITED-AP",
   "description": "Transunion Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.134.150.0/23"
+    ],
     "ipv6": []
   }
 }

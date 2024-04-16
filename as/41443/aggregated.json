@@ -3,7 +3,9 @@
   "handle": "SMART-TELEKOM",
   "description": "OOO SMART-TELEKOM",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "89.31.16.0/21"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "KOSC",
   "description": "Covage Infra SASU",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.169.88.0/22"
+    ],
     "ipv6": []
   }
 }

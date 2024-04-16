@@ -3,7 +3,9 @@
   "handle": "CULLMAN-REGIONAL-MEDICAL-CENTER",
   "description": "Cullman Regional",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "104.250.230.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,11 @@
   "handle": "PLUS-MULTIPLAYER-TV",
   "description": "Plus Multiplayer TV ltda.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.224.4.0/22"
+    ],
+    "ipv6": [
+      "2804:44ac::/32"
+    ]
   }
 }

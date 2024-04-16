@@ -3,7 +3,9 @@
   "handle": "PRIMONET",
   "description": "PP Sidor",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.143.144.0/24"
+    ],
     "ipv6": []
   }
 }

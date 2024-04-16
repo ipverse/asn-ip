@@ -3,7 +3,10 @@
   "handle": "IDNIC-IONPAY-ID",
   "description": "PT IONPay Networks",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.20.51.0/24",
+      "103.117.8.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,11 @@
   "handle": "COMPLETA-TELECOMUNICACOES",
   "description": "COMPLETA Telecomunicacoes Ltda",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.162.52.0/22"
+    ],
+    "ipv6": [
+      "2804:524c::/32"
+    ]
   }
 }

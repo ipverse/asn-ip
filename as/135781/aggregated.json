@@ -3,7 +3,11 @@
   "handle": "VIBHUTI-IN",
   "description": "Vibhuti Networks Private Limited",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "103.139.246.0/23"
+    ],
+    "ipv6": [
+      "2400:61e0::/44"
+    ]
   }
 }

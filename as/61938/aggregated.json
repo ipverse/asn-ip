@@ -3,7 +3,11 @@
   "handle": "MEG@NET-TELECOM",
   "description": "Meg@Net Telecom",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "201.130.84.0/22"
+    ],
+    "ipv6": [
+      "2804:1888::/32"
+    ]
   }
 }

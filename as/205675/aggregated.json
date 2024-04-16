@@ -3,7 +3,10 @@
   "handle": "HYBRID",
   "description": "Hybrid Adtech GmbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "37.18.16.0/24",
+      "37.18.24.0/24"
+    ],
     "ipv6": []
   }
 }

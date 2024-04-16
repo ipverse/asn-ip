@@ -3,7 +3,9 @@
   "handle": "THEHUTCHINSSCHOOL-AP",
   "description": "Hutchins School Board of Management",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "203.24.9.0/24"
+    ],
     "ipv6": []
   }
 }

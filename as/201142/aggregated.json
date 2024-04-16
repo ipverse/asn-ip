@@ -3,7 +3,9 @@
   "handle": "COVESTRO-DE",
   "description": "Covestro Deutschland AG",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.202.160.0/20"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,11 @@
   "handle": "RETNPTELTD-AP",
   "description": "RETN PTE. LTD.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "103.190.126.0/24"
+    ],
+    "ipv6": [
+      "2001:df0:ec40::/48"
+    ]
   }
 }

@@ -3,7 +3,9 @@
   "handle": "HPIMRI-AP",
   "description": "Harry Perkins Institute of Medical Research Inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.241.252.0/22"
+    ],
     "ipv6": []
   }
 }

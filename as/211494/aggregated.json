@@ -3,7 +3,12 @@
   "handle": "NARAYANA",
   "description": "Narayana OU",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "185.93.7.0/24",
+      "185.235.143.0/24"
+    ],
+    "ipv6": [
+      "2a0d:a180::/32"
+    ]
   }
 }

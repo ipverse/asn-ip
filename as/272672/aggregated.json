@@ -4,6 +4,8 @@
   "description": "ALMEIDA SERVICOS DE MULTIMIDIA E COMUNICACOES LTDA",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2804:86e0::/32"
+    ]
   }
 }

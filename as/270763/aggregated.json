@@ -3,7 +3,11 @@
   "handle": "JDS-TELECOMUNICAO",
   "description": "Jds Telecomunicao Me",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "201.71.56.0/22"
+    ],
+    "ipv6": [
+      "2804:710c::/32"
+    ]
   }
 }

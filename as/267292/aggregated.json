@@ -3,7 +3,9 @@
   "handle": "LIVECONNECTION",
   "description": "live.connection me ltda",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.233.40.0/22"
+    ],
     "ipv6": []
   }
 }

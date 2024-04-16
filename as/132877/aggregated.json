@@ -3,7 +3,9 @@
   "handle": "KSPL-AP",
   "description": "Kalash Services Pvt Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.157.44.0/23"
+    ],
     "ipv6": []
   }
 }

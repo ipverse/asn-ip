@@ -3,7 +3,11 @@
   "handle": "RAL",
   "description": "RAL INFO SERV SRL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "85.120.48.0/24",
+      "85.120.55.0/24",
+      "85.120.56.0/24"
+    ],
     "ipv6": []
   }
 }

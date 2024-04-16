@@ -3,7 +3,11 @@
   "handle": "J-BOHRER-PROVEDORES",
   "description": "J BOHRER PROVEDORES DE INTERNET - ME",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "170.244.8.0/22"
+    ],
+    "ipv6": [
+      "2804:3874:a::/48"
+    ]
   }
 }

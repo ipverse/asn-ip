@@ -3,7 +3,10 @@
   "handle": "UFINET",
   "description": "LYNTIA NETWORKS S.A.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "77.72.106.0/23",
+      "77.72.108.0/22"
+    ],
     "ipv6": []
   }
 }

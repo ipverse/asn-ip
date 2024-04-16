@@ -3,7 +3,9 @@
   "handle": "STTL-IN",
   "description": "Silver Touch Technologies Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.180.31.0/24"
+    ],
     "ipv6": []
   }
 }

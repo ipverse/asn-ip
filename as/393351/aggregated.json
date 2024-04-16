@@ -3,7 +3,10 @@
   "handle": "AMERISBANK",
   "description": "Ameris Bank",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.101.53.0/24",
+      "204.62.10.0/24"
+    ],
     "ipv6": []
   }
 }

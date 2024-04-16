@@ -3,7 +3,9 @@
   "handle": "ROYALTHAIPOLICE-AP",
   "description": "Royal Thai Police",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.122.112.0/23"
+    ],
     "ipv6": []
   }
 }

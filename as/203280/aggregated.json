@@ -3,7 +3,9 @@
   "handle": "ANDAINA",
   "description": "Jose Antonio Vazquez Quian",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.140.32.0/22"
+    ],
     "ipv6": []
   }
 }

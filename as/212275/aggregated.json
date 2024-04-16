@@ -3,7 +3,9 @@
   "handle": "GMK",
   "description": "Public Joint Stock Company Mining and Metallurgical Company Norilsk Nickel",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "94.158.222.0/24"
+    ],
     "ipv6": []
   }
 }

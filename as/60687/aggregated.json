@@ -3,7 +3,9 @@
   "handle": "INFIBER",
   "description": "ELINETT AS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "5.153.104.0/21"
+    ],
     "ipv6": []
   }
 }

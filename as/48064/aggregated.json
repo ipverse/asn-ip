@@ -3,7 +3,9 @@
   "handle": "COMET",
   "description": "Comet Electronics OOD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "212.50.17.0/24"
+    ],
     "ipv6": []
   }
 }

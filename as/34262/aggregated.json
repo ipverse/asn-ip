@@ -3,7 +3,9 @@
   "handle": "BIOTEVA",
   "description": "TEVA Gyogyszergyar Zrt.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "82.141.154.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "STAB-001",
   "description": "STABILUS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "198.190.234.0/24"
+    ],
     "ipv6": []
   }
 }

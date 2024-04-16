@@ -3,7 +3,11 @@
   "handle": "POWER-NETWORKS-TELECOMUNICAES",
   "description": "Power Networks Telecomunicaes LTDA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.70.36.0/22"
+    ],
+    "ipv6": [
+      "2804:430c::/32"
+    ]
   }
 }

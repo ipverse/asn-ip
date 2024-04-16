@@ -3,7 +3,9 @@
   "handle": "CLEARSKY-VN",
   "description": "Clearsky Service Solutions Company Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.98.160.0/22"
+    ],
     "ipv6": []
   }
 }

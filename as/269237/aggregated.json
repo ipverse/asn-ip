@@ -3,7 +3,11 @@
   "handle": "CARANDAINET-SERVIOS-INTERNET",
   "description": "CarandaiNet Servios de Internet Ltda.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.182.204.0/22"
+    ],
+    "ipv6": [
+      "2804:617c::/32"
+    ]
   }
 }

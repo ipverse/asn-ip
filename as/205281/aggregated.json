@@ -3,7 +3,9 @@
   "handle": "NF-CLOUD1",
   "description": "Otava Tech LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.217.132.0/22"
+    ],
     "ipv6": []
   }
 }

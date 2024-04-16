@@ -3,7 +3,9 @@
   "handle": "DOORNET",
   "description": "Doornet sa de cv",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.174.72.0/22"
+    ],
     "ipv6": []
   }
 }

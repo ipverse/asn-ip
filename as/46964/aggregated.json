@@ -3,7 +3,9 @@
   "handle": "BROADINSTITUTE",
   "description": "The Broad Institute, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "69.173.64.0/18"
+    ],
     "ipv6": []
   }
 }

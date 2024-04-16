@@ -3,7 +3,9 @@
   "handle": "CONEXT-VENEZUELA-CA",
   "description": "CONEXT VENEZUELA, C.A.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "181.232.180.0/22"
+    ],
     "ipv6": []
   }
 }

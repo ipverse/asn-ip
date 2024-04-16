@@ -3,7 +3,9 @@
   "handle": "BRASIL-TECPAR-|-AMIGO-|-AVATO",
   "description": "BRASIL TECPAR | AMIGO | AVATO",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "186.195.192.0/20"
+    ],
     "ipv6": []
   }
 }

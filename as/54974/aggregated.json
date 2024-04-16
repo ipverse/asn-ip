@@ -3,7 +3,9 @@
   "handle": "FOUNDATIONSOFTWARE",
   "description": "Foundation Software Inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "98.103.163.0/24"
+    ],
     "ipv6": []
   }
 }

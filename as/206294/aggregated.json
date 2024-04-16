@@ -3,7 +3,9 @@
   "handle": "ALBERSCHWEITZER",
   "description": "Albert Schweitzer Ziekenhuis",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "145.22.254.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "TREE-TECNOLOGIA-TELECOM",
   "description": "Tree tecnologia e telecom ltda",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "170.82.248.0/22"
+    ],
     "ipv6": []
   }
 }

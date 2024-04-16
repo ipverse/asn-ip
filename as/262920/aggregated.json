@@ -3,7 +3,9 @@
   "handle": "COMISION-NACIONAL-PARA",
   "description": "Comision Nacional para el Conocimiento y Uso de la",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "200.12.166.0/24"
+    ],
     "ipv6": []
   }
 }

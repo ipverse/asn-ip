@@ -3,7 +3,9 @@
   "handle": "TRINITYHEALTH-MIDATLANTIC",
   "description": "Trinity Health Corporation",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.26.210.0/24"
+    ],
     "ipv6": []
   }
 }

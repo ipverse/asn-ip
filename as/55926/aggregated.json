@@ -3,7 +3,9 @@
   "handle": "MERCURYNZ-AP",
   "description": "Mercury NZ Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "202.36.126.0/23"
+    ],
     "ipv6": []
   }
 }

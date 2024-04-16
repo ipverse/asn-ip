@@ -4,6 +4,10 @@
   "description": "Thomas Rogdakis",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a0e:97c0:410::/47",
+      "2a0e:97c0:412::/48",
+      "2a0e:97c0:41f::/48"
+    ]
   }
 }

@@ -3,7 +3,9 @@
   "handle": "KRAFTON",
   "description": "KRAFTON INC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.114.124.0/22"
+    ],
     "ipv6": []
   }
 }

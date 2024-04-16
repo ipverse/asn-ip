@@ -3,7 +3,11 @@
   "handle": "NOBLEENERGY",
   "description": "Chevron Corporation",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "23.132.240.0/24"
+    ],
+    "ipv6": [
+      "2620:13f:3000::/40"
+    ]
   }
 }

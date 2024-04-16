@@ -3,7 +3,11 @@
   "handle": "NSS-AP",
   "description": "NORTHERN STEVEDORING SERVICES PTY LTD",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "103.134.225.0/24"
+    ],
+    "ipv6": [
+      "2001:df7:d500::/48"
+    ]
   }
 }

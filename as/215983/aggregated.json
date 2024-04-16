@@ -3,7 +3,9 @@
   "handle": "LIPTSOFT",
   "description": "LLC LIPT Soft",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "178.34.79.0/24"
+    ],
     "ipv6": []
   }
 }

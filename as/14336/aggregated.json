@@ -3,7 +3,10 @@
   "handle": "EHEALTH-SASKATCHEWAN",
   "description": "eHealth Saskatchewan",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "198.169.36.0/22",
+      "198.169.40.0/22"
+    ],
     "ipv6": []
   }
 }

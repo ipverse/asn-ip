@@ -3,7 +3,9 @@
   "handle": "PRIMECREDITLIMITED-AP",
   "description": "PrimeCredit Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.126.227.0/24"
+    ],
     "ipv6": []
   }
 }

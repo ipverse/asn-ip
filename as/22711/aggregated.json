@@ -3,7 +3,11 @@
   "handle": "GNA-CORP-GENWORTH-FINANCIAL",
   "description": "Genworth North America Corporation",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "206.83.160.0/20"
+    ],
+    "ipv6": [
+      "2620:13d:f000::/40"
+    ]
   }
 }

@@ -3,7 +3,9 @@
   "handle": "GTS-VDC2",
   "description": "GTS Telecom SRL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "109.205.91.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "FORTIKS",
   "description": "FORTIKS TECHNOLOGIES LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "5.182.48.0/24"
+    ],
     "ipv6": []
   }
 }

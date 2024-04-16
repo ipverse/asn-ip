@@ -3,7 +3,9 @@
   "handle": "MANAGEDNODES",
   "description": "Managed Nodes LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "144.86.164.0/23"
+    ],
     "ipv6": []
   }
 }

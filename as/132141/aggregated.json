@@ -3,7 +3,9 @@
   "handle": "CHIKKANET-PH",
   "description": "Chikka Philippines, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.247.252.0/22"
+    ],
     "ipv6": []
   }
 }

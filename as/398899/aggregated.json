@@ -3,7 +3,9 @@
   "handle": "ECLINICALWORKS-CORP",
   "description": "ECLINICALWORKS, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "163.123.133.0/24"
+    ],
     "ipv6": []
   }
 }

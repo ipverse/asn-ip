@@ -3,7 +3,9 @@
   "handle": "LTITL-AP",
   "description": "LTIMINDTREE LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.146.249.0/24"
+    ],
     "ipv6": []
   }
 }

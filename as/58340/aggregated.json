@@ -3,7 +3,11 @@
   "handle": "NEVE",
   "description": "Napapiirin Kuituverkot Oy",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.146.248.0/22",
+      "83.146.128.0/19",
+      "193.177.188.0/22"
+    ],
     "ipv6": []
   }
 }

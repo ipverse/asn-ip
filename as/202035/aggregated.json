@@ -3,7 +3,9 @@
   "handle": "TALUS",
   "description": "Talus Informatik AG",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.56.218.0/24"
+    ],
     "ipv6": []
   }
 }

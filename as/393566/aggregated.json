@@ -3,7 +3,9 @@
   "handle": "INFOGENIUS-INC",
   "description": "InfoGenius.com, Inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.42.251.0/24"
+    ],
     "ipv6": []
   }
 }

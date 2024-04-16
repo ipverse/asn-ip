@@ -3,7 +3,9 @@
   "handle": "GBMPL-AP",
   "description": "GBM Technology Camperdown",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.231.204.0/22"
+    ],
     "ipv6": []
   }
 }

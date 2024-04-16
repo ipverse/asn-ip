@@ -3,7 +3,9 @@
   "handle": "BDS-DC1",
   "description": "Business Data Solutions GmbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.139.60.0/22"
+    ],
     "ipv6": []
   }
 }

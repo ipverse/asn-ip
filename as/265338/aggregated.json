@@ -3,7 +3,11 @@
   "handle": "SPEEDCONECT-SERVICOS-TECNOLOGIA",
   "description": "SPEEDCONECT SERVICOS E TECNOLOGIA LTDA - ME",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "168.181.168.0/22"
+    ],
+    "ipv6": [
+      "2804:2e50::/32"
+    ]
   }
 }

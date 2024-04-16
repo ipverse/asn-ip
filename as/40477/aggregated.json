@@ -3,7 +3,9 @@
   "handle": "HYDROTEX-NETWORK",
   "description": "Hydrotex Partners, Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "173.226.167.0/24"
+    ],
     "ipv6": []
   }
 }

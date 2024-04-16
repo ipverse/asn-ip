@@ -3,7 +3,9 @@
   "handle": "MESSA",
   "description": "Michigan Education Special Services Association",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "161.21.0.0/16"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "PLWSA",
   "description": "PORT LOTNICZY WROCLAW SA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.236.0.0/24"
+    ],
     "ipv6": []
   }
 }

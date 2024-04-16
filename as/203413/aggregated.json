@@ -3,7 +3,9 @@
   "handle": "NETTEL",
   "description": "nettel sas",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.135.160.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "NEFTM",
   "description": "Torgovyi Dom Neftmagistral LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.137.105.0/24"
+    ],
     "ipv6": []
   }
 }

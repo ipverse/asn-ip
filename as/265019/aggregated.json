@@ -3,7 +3,11 @@
   "handle": "NEX-TELECOM",
   "description": "NEX TELECOM LTDA ME",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "170.84.36.0/22"
+    ],
+    "ipv6": [
+      "2804:3180::/32"
+    ]
   }
 }

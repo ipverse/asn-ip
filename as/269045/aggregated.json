@@ -3,7 +3,11 @@
   "handle": "JUSTICA-FEDERAL-NO",
   "description": "JUSTICA FEDERAL NO RIO GRANDE DO NORTE",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.178.243.0/24"
+    ],
+    "ipv6": [
+      "2801:80:35a0::/48"
+    ]
   }
 }

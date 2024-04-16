@@ -3,7 +3,10 @@
   "handle": "CELKO",
   "description": "CELKO LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.45.233.0/24",
+      "194.48.191.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,10 @@
   "handle": "LENNOX",
   "description": "Lennox International Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "12.148.128.0/23",
+      "205.145.192.0/19"
+    ],
     "ipv6": []
   }
 }

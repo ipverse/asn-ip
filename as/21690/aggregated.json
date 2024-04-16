@@ -3,7 +3,9 @@
   "handle": "MILESIT",
   "description": "Miles IT Company",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "74.118.244.0/22"
+    ],
     "ipv6": []
   }
 }

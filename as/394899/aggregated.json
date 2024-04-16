@@ -4,6 +4,8 @@
   "description": "H5 Data Centers",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2606:6800:1800::/40"
+    ]
   }
 }

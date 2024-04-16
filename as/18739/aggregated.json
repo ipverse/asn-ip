@@ -3,7 +3,9 @@
   "handle": "AGENCIA-MODERNA-TECNOLOGIA",
   "description": "AGENCIA MODERNA TECNOLOGIA LTDA.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "200.189.96.0/20"
+    ],
     "ipv6": []
   }
 }

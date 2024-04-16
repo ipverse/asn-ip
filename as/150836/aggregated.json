@@ -3,7 +3,9 @@
   "handle": "EPAYJSCNET-VN",
   "description": "EPAY SERVICES JOINT STOCK COMPANY",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.122.82.0/23"
+    ],
     "ipv6": []
   }
 }

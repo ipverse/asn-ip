@@ -3,7 +3,9 @@
   "handle": "ACM",
   "description": "Association for Computing Machinery, Inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "64.238.159.0/24"
+    ],
     "ipv6": []
   }
 }

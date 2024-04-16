@@ -3,7 +3,10 @@
   "handle": "SLC-IDENT",
   "description": "IdenTrust",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.35.174.0/23",
+      "192.35.176.0/22"
+    ],
     "ipv6": []
   }
 }

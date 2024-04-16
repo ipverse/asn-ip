@@ -4,8 +4,10 @@
   "description": "PT. Sumatra Multimedia Solusi",
   "subnets": {
     "ipv4": [
-      "103.106.113.0/24"
+      "103.106.112.0/22"
     ],
-    "ipv6": []
+    "ipv6": [
+      "2402:4240::/32"
+    ]
   }
 }

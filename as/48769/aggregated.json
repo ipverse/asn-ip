@@ -3,7 +3,9 @@
   "handle": "JACOBACCI",
   "description": "Jacobacci \u0026 Partners SpA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.153.187.0/24"
+    ],
     "ipv6": []
   }
 }

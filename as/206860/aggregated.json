@@ -3,7 +3,9 @@
   "handle": "OULUNKAARI",
   "description": "LapIT Oy",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "85.202.201.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,11 @@
   "handle": "WARNETCZ",
   "description": "Warnet.cz s.r.o.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "93.187.104.0/22"
+    ],
+    "ipv6": [
+      "2a01:9640::/32"
+    ]
   }
 }

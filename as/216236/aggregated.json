@@ -3,7 +3,9 @@
   "handle": "RALOGIC",
   "description": "RALOGIC LLP",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "37.139.38.0/24"
+    ],
     "ipv6": []
   }
 }

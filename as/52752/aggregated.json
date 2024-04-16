@@ -3,7 +3,12 @@
   "handle": "VEGAS-TELECOM-INFORMTICA",
   "description": "Vegas Telecom Informtica Ltda.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "177.155.160.0/20",
+      "189.76.64.0/20"
+    ],
+    "ipv6": [
+      "2804:11e8::/32"
+    ]
   }
 }

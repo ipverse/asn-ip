@@ -3,7 +3,11 @@
   "handle": "STORTINGET",
   "description": "Stortinget",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "85.88.64.0/19"
+    ],
+    "ipv6": [
+      "2a00:ed80::/32"
+    ]
   }
 }

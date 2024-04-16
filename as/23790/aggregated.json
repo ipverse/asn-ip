@@ -3,7 +3,10 @@
   "handle": "KCN-TV",
   "description": "JCOM Co., Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "119.161.112.0/21",
+      "202.157.0.0/18"
+    ],
     "ipv6": []
   }
 }

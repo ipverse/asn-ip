@@ -3,7 +3,9 @@
   "handle": "DRARS",
   "description": "Advanced Radiology Services, P.C.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.149.96.0/24"
+    ],
     "ipv6": []
   }
 }

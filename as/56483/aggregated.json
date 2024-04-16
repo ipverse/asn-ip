@@ -3,7 +3,9 @@
   "handle": "AKTIV-SOFT",
   "description": "Aktiv-soft JSC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.223.176.0/24"
+    ],
     "ipv6": []
   }
 }

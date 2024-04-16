@@ -3,7 +3,12 @@
   "handle": "GENERACION-WI-FI",
   "description": "GENERACION WI-FI SA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.173.16.0/22",
+      "45.173.192.0/22",
+      "45.181.44.0/24",
+      "45.181.46.0/23"
+    ],
     "ipv6": []
   }
 }

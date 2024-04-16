@@ -3,7 +3,9 @@
   "handle": "IVV",
   "description": "ivv Informationsverarbeitung fuer Versicherungen GmbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.111.216.0/22"
+    ],
     "ipv6": []
   }
 }

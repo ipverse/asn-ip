@@ -3,7 +3,11 @@
   "handle": "TECH-FIBERS",
   "description": "TECH FIBERS",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "179.63.136.0/23"
+    ],
+    "ipv6": [
+      "2804:7d70::/32"
+    ]
   }
 }

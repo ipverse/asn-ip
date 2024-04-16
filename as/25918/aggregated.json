@@ -3,7 +3,9 @@
   "handle": "LMHS",
   "description": "Lima Memorial Hospital",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "98.102.243.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "MAIS-REDE-TELECOM",
   "description": "Mais Rede Telecom",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.175.52.0/22"
+    ],
     "ipv6": []
   }
 }

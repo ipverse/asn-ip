@@ -3,7 +3,10 @@
   "handle": "UTHSC-H",
   "description": "The University of Texas Health Science Center at Houston",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "129.106.0.0/16",
+      "139.52.0.0/16"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "BWS",
   "description": "Blue Water IT A/S",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.212.36.0/24"
+    ],
     "ipv6": []
   }
 }

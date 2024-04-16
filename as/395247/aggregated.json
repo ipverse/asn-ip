@@ -3,7 +3,9 @@
   "handle": "ACC-AUS",
   "description": "Accruent, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "205.201.24.0/22"
+    ],
     "ipv6": []
   }
 }

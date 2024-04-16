@@ -3,7 +3,9 @@
   "handle": "ITEP",
   "description": "National Research Center Kurchatov Institute",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "144.206.144.0/21"
+    ],
     "ipv6": []
   }
 }

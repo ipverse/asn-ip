@@ -3,7 +3,10 @@
   "handle": "BGP-HQ-01",
   "description": "The College of American Pathologists",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.33.253.0/24",
+      "208.80.2.0/24"
+    ],
     "ipv6": []
   }
 }

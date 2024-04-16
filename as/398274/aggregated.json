@@ -3,7 +3,9 @@
   "handle": "EVERSHEDS-SUTHERLAND-US-LLP",
   "description": "Eversheds Sutherland (US) LLP",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "64.202.217.0/24"
+    ],
     "ipv6": []
   }
 }

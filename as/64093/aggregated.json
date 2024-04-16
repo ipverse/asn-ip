@@ -3,7 +3,9 @@
   "handle": "WISECOMM-AP",
   "description": "Wise Communication Systems (Pvt) Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "110.232.188.0/22"
+    ],
     "ipv6": []
   }
 }

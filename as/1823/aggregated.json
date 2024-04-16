@@ -3,7 +3,9 @@
   "handle": "HANNAH-MOTOR",
   "description": "Hannah Motor Company",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "74.117.72.0/22"
+    ],
     "ipv6": []
   }
 }

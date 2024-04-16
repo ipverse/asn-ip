@@ -3,7 +3,10 @@
   "handle": "THINKDREAM-AP",
   "description": "ThinkDream Technology Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.204.19.0/24",
+      "103.112.28.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "ASPECT",
   "description": "LLC Aspect",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.190.13.0/24"
+    ],
     "ipv6": []
   }
 }

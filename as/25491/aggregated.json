@@ -3,7 +3,9 @@
   "handle": "ASBASIC",
   "description": "Basic ISP s.a.r.l.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.104.244.0/22"
+    ],
     "ipv6": []
   }
 }

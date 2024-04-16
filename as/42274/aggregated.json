@@ -3,7 +3,10 @@
   "handle": "VATTENFALL",
   "description": "Vattenfall Europe Information Services GmbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.192.12.0/22",
+      "193.111.56.0/22"
+    ],
     "ipv6": []
   }
 }

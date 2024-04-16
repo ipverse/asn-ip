@@ -3,7 +3,9 @@
   "handle": "KALIBOCABLE-PH",
   "description": "Kalibo Cable Television Network Inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.5.0.0/22"
+    ],
     "ipv6": []
   }
 }

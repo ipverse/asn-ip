@@ -3,7 +3,11 @@
   "handle": "LINK3-TELECOM",
   "description": "LINK3 TELECOM",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.186.168.0/22"
+    ],
+    "ipv6": [
+      "2804:6484::/32"
+    ]
   }
 }

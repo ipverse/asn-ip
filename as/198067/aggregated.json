@@ -3,7 +3,9 @@
   "handle": "AZIMUTHIT",
   "description": "AzimuthIT sp. z o.o. sp. k.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.231.110.0/23"
+    ],
     "ipv6": []
   }
 }

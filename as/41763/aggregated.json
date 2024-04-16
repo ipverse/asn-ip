@@ -3,7 +3,9 @@
   "handle": "CRISTEA-TELECOM-SYSTEM-SRL",
   "description": "CRISTEA TELECOM SYSTEM SRL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "89.42.192.0/22"
+    ],
     "ipv6": []
   }
 }

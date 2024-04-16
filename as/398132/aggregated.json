@@ -3,7 +3,9 @@
   "handle": "SALT-BDA",
   "description": "SALT",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "138.43.115.0/24"
+    ],
     "ipv6": []
   }
 }

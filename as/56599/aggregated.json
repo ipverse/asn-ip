@@ -3,7 +3,10 @@
   "handle": "ICSOLUTIONS",
   "description": "Dennis Doeve trading as I.C. Solutions",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.9.42.0/23",
+      "195.158.244.0/24"
+    ],
     "ipv6": []
   }
 }

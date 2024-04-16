@@ -3,7 +3,9 @@
   "handle": "LSSI",
   "description": "LSSI",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "12.36.64.0/24"
+    ],
     "ipv6": []
   }
 }

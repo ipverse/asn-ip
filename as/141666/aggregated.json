@@ -3,7 +3,9 @@
   "handle": "IDNIC-PTINKA-ID",
   "description": "PT Industri Kereta Api (INKA)",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.162.253.0/24"
+    ],
     "ipv6": []
   }
 }

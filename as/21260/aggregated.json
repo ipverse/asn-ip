@@ -3,7 +3,10 @@
   "handle": "POSITIVE-INTERNET-UK",
   "description": "The Positive Internet Company Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "80.87.128.0/20",
+      "185.27.20.0/22"
+    ],
     "ipv6": []
   }
 }

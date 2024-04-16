@@ -3,7 +3,11 @@
   "handle": "NMIT-AP",
   "description": "NORTHERN MELBOURNE INSTITUTE OF TAFE",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "203.12.139.0/24",
+      "203.12.141.0/24",
+      "203.12.142.0/23"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "ANGELLIRA-RASTREAMENTO-SATELITAL",
   "description": "Angellira Rastreamento Satelital Ltda",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "177.125.103.0/24"
+    ],
     "ipv6": []
   }
 }

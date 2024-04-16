@@ -3,7 +3,9 @@
   "handle": "KTP-ID",
   "description": "KHASANAH TEKNOLOGI PERSADA, PT",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "119.15.135.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,10 @@
   "handle": "NDA",
   "description": "National Defense Academy",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "202.25.82.0/23",
+      "202.25.84.0/23"
+    ],
     "ipv6": []
   }
 }

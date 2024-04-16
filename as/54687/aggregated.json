@@ -3,7 +3,9 @@
   "handle": "IQLUSION",
   "description": "iqlusion",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "147.160.156.0/24"
+    ],
     "ipv6": []
   }
 }

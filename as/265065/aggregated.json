@@ -3,7 +3,11 @@
   "handle": "RIBERNET-COMUNICAES",
   "description": "Ribernet Comunicaes Ltda",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "170.231.96.0/22"
+    ],
+    "ipv6": [
+      "2804:3240::/32"
+    ]
   }
 }

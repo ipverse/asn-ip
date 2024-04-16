@@ -3,7 +3,10 @@
   "handle": "PDX",
   "description": "PORTLAND INTERNETWORKS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "69.64.224.0/20",
+      "76.76.144.0/20"
+    ],
     "ipv6": []
   }
 }

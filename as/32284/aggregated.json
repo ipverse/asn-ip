@@ -3,7 +3,10 @@
   "handle": "CORP-BASHAS-AS1",
   "description": "Bashas\u0027 Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "208.87.228.0/24",
+      "208.87.230.0/23"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "INTEGRAL-INSUMOS",
   "description": "Integral Insumos",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "190.13.88.0/21"
+    ],
     "ipv6": []
   }
 }

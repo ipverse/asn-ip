@@ -3,7 +3,11 @@
   "handle": "GAMA-TELECOM",
   "description": "Gama Telecom",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "200.123.236.0/22"
+    ],
+    "ipv6": [
+      "2804:6970::/32"
+    ]
   }
 }

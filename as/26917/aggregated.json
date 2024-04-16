@@ -3,7 +3,9 @@
   "handle": "COVENTRY",
   "description": "The Coventry Group",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "207.1.83.0/24"
+    ],
     "ipv6": []
   }
 }

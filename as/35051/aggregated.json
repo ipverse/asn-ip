@@ -3,7 +3,10 @@
   "handle": "NEXI",
   "description": "Nexi Payments S.P.A.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.198.116.0/22",
+      "193.108.60.0/22"
+    ],
     "ipv6": []
   }
 }

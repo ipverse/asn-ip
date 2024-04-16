@@ -4,8 +4,10 @@
   "description": "HOME ON TELECOMUNICACOES LTDA",
   "subnets": {
     "ipv4": [
-      "177.86.154.0/24"
+      "177.86.152.0/22"
     ],
-    "ipv6": []
+    "ipv6": [
+      "2804:7eac::/32"
+    ]
   }
 }

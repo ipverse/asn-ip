@@ -3,7 +3,9 @@
   "handle": "IOSS",
   "description": "I.O.S. Software Solutions SRL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "5.154.236.0/24"
+    ],
     "ipv6": []
   }
 }

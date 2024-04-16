@@ -3,7 +3,9 @@
   "handle": "INTERBCI",
   "description": "JSC MBKI",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "141.101.182.0/24"
+    ],
     "ipv6": []
   }
 }

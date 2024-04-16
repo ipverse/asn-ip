@@ -3,7 +3,9 @@
   "handle": "METHOLDING",
   "description": "LLC Management Company Industrial and Metallurgical Holding",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "62.76.135.0/24"
+    ],
     "ipv6": []
   }
 }

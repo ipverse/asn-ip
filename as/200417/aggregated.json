@@ -3,7 +3,9 @@
   "handle": "ASA-AG",
   "description": "Andermatt Swiss Alps AG",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.228.236.0/24"
+    ],
     "ipv6": []
   }
 }

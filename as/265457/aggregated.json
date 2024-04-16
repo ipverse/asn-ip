@@ -3,7 +3,11 @@
   "handle": "FELIPE-MAURICIO-QUEIROZ",
   "description": "FELIPE MAURICIO DE QUEIROZ",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "168.196.192.0/22"
+    ],
+    "ipv6": [
+      "2804:346c::/32"
+    ]
   }
 }

@@ -3,7 +3,9 @@
   "handle": "VITENS-NET",
   "description": "Vitens N.V.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "31.24.48.0/22"
+    ],
     "ipv6": []
   }
 }

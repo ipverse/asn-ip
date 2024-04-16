@@ -3,7 +3,10 @@
   "handle": "GENEDATA",
   "description": "Genedata AG",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.195.142.0/23",
+      "193.169.98.0/23"
+    ],
     "ipv6": []
   }
 }

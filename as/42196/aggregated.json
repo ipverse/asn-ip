@@ -3,7 +3,9 @@
   "handle": "ROTAX",
   "description": "BRP-Powertrain GmbH \u0026 Co KG",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.46.234.0/23"
+    ],
     "ipv6": []
   }
 }

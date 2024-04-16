@@ -3,7 +3,9 @@
   "handle": "TGNA-KENS",
   "description": "TEGNA Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "167.8.80.0/24"
+    ],
     "ipv6": []
   }
 }

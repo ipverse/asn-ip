@@ -3,7 +3,11 @@
   "handle": "TRYIDEAS-INFORMATICA",
   "description": "Tryideas Informatica Ltda",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "187.73.184.0/22"
+    ],
+    "ipv6": [
+      "2804:6d2c::/32"
+    ]
   }
 }

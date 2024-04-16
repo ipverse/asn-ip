@@ -3,7 +3,9 @@
   "handle": "NUROLBANK",
   "description": "Nurol Yatirim Bankasi Anonim Sirketi",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "37.77.11.0/24"
+    ],
     "ipv6": []
   }
 }

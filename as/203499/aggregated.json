@@ -3,7 +3,9 @@
   "handle": "WI-NET-SOLIS",
   "description": "Free Technologies Excom S.L.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "2.59.108.0/22"
+    ],
     "ipv6": []
   }
 }

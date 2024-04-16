@@ -3,7 +3,9 @@
   "handle": "LUSOVPS",
   "description": "LUSOVPS UNIPESSOAL LDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "41.216.176.0/24"
+    ],
     "ipv6": []
   }
 }

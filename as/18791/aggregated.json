@@ -3,7 +3,10 @@
   "handle": "TCU",
   "description": "Texas Christian University",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "74.200.134.0/24",
+      "138.237.0.0/16"
+    ],
     "ipv6": []
   }
 }

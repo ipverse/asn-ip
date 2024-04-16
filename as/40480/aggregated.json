@@ -3,7 +3,9 @@
   "handle": "WINEWAREHOUSE",
   "description": "Wine Warehouse",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "65.255.213.0/24"
+    ],
     "ipv6": []
   }
 }

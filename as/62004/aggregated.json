@@ -3,7 +3,10 @@
   "handle": "CLOUDPRO",
   "description": "LLC Virtualization Technology Center",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.232.45.0/24",
+      "194.226.171.0/24"
+    ],
     "ipv6": []
   }
 }

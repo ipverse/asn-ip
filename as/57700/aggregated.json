@@ -3,7 +3,9 @@
   "handle": "DEEPWEB",
   "description": "DeepCo Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "171.25.232.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "WESTEDORG",
   "description": "WestEd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "198.133.255.0/24"
+    ],
     "ipv6": []
   }
 }

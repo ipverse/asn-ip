@@ -3,7 +3,9 @@
   "handle": "PDX-AREN",
   "description": "Avangrid Renewables, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "70.96.228.0/24"
+    ],
     "ipv6": []
   }
 }

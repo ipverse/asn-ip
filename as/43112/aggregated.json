@@ -3,7 +3,9 @@
   "handle": "TSBG-HOSTING",
   "description": "TSBG Hosting Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.3.63.0/24"
+    ],
     "ipv6": []
   }
 }

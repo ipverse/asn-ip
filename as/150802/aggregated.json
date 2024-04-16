@@ -3,7 +3,9 @@
   "handle": "NTC-INBAG",
   "description": "NORTHERN TRUST CORPORATION",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "202.27.235.0/24"
+    ],
     "ipv6": []
   }
 }

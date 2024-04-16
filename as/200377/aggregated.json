@@ -3,7 +3,9 @@
   "handle": "PSB",
   "description": "psb intralogistics GmbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.164.159.0/24"
+    ],
     "ipv6": []
   }
 }

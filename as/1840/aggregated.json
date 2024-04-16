@@ -3,7 +3,9 @@
   "handle": "UNIVERSIDAD-LAS-AMERICAS",
   "description": "Universidad de Las Americas-Puebla",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "140.148.0.0/16"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,10 @@
   "handle": "CCPS-17ASN",
   "description": "Clayton County Public Schools",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "168.9.210.0/24",
+      "192.43.223.0/24"
+    ],
     "ipv6": []
   }
 }

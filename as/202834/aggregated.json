@@ -3,7 +3,9 @@
   "handle": "ECHIROLLES",
   "description": "Commune de Echirolles",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.94.16.0/24"
+    ],
     "ipv6": []
   }
 }

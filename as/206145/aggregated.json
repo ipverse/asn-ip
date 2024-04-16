@@ -3,7 +3,9 @@
   "handle": "IKTORKIDE",
   "description": "Sunndal kommune",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.186.44.0/22"
+    ],
     "ipv6": []
   }
 }

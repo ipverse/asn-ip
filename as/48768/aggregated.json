@@ -3,7 +3,9 @@
   "handle": "BMNETWORKS",
   "description": "GTECH SWEDEN INTERACTIVE AB",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "217.21.128.0/20"
+    ],
     "ipv6": []
   }
 }

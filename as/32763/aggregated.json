@@ -3,7 +3,9 @@
   "handle": "BS32BJB-HF",
   "description": "Building Service 32BJ Benefit Funds",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "50.58.122.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "IDNIC-DISHUBKOMINFO-TEGAL-ID",
   "description": "Diskominfo Kota Tegal",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.12.164.0/24"
+    ],
     "ipv6": []
   }
 }

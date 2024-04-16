@@ -3,7 +3,11 @@
   "handle": "PAULLEWIS",
   "description": "Paul Nicholas Lewis",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "185.120.141.0/24"
+    ],
+    "ipv6": [
+      "2a13:2180::/48"
+    ]
   }
 }

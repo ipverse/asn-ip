@@ -3,7 +3,9 @@
   "handle": "MASANDRA",
   "description": "Nikita Sergienko",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.236.135.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "NETLABS",
   "description": "NETLABS SRL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "168.205.116.0/22"
+    ],
     "ipv6": []
   }
 }

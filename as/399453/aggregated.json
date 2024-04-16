@@ -3,7 +3,9 @@
   "handle": "JHS-B2B",
   "description": "Jackson Memorial Hospital, Public Health",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "170.134.148.0/24"
+    ],
     "ipv6": []
   }
 }

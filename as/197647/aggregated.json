@@ -3,7 +3,9 @@
   "handle": "BG-INERPS",
   "description": "INERPS EOOD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "77.78.159.0/24"
+    ],
     "ipv6": []
   }
 }

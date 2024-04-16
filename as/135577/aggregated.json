@@ -3,7 +3,9 @@
   "handle": "SAP-DC-SHA",
   "description": "SAP Asia Pte Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.118.173.0/24"
+    ],
     "ipv6": []
   }
 }

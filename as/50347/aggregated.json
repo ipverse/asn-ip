@@ -3,7 +3,11 @@
   "handle": "ZONTERRA",
   "description": "Zonterra Corp SRL",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "195.191.46.0/23"
+    ],
+    "ipv6": [
+      "2a0d:5600:10::/48"
+    ]
   }
 }

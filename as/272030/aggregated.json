@@ -3,7 +3,10 @@
   "handle": "SMARTNET",
   "description": "SMARTNET S.R.L.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "149.78.56.0/22",
+      "189.90.230.0/24"
+    ],
     "ipv6": []
   }
 }

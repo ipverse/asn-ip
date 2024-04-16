@@ -3,7 +3,10 @@
   "handle": "EUROPEAN-MARITIME-SAFETY-AGENCY",
   "description": "European Maritime Safety Agency",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.231.216.0/23",
+      "185.41.116.0/22"
+    ],
     "ipv6": []
   }
 }

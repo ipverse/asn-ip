@@ -3,9 +3,11 @@
   "handle": "ADN-LINK",
   "description": "ADN LINK",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "170.84.152.0/22"
+    ],
     "ipv6": [
-      "2804:319c::/33"
+      "2804:319c::/32"
     ]
   }
 }

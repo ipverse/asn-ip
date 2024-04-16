@@ -3,7 +3,9 @@
   "handle": "TELERETE",
   "description": "Safety 21 Spa",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "217.148.112.0/20"
+    ],
     "ipv6": []
   }
 }

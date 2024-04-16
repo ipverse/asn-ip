@@ -4,6 +4,8 @@
   "description": "Johannes Erwerle",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a0a:4587:2000::/44"
+    ]
   }
 }

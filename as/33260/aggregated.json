@@ -3,7 +3,9 @@
   "handle": "HOSTASAURUS",
   "description": "Miva Merchant, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "204.10.64.0/24"
+    ],
     "ipv6": []
   }
 }

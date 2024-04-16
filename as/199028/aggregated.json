@@ -3,7 +3,9 @@
   "handle": "PL-UNIWERSYTET-MEDYCZNY-LUBLIN",
   "description": "Uniwersytet Medyczny w Lublinie",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "81.161.112.0/23"
+    ],
     "ipv6": []
   }
 }

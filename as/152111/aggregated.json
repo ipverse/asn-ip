@@ -3,7 +3,9 @@
   "handle": "CTCSCITECHLIMITED-AP",
   "description": "CTCSCI TECH LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "206.54.42.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "REDESNET",
   "description": "Redes Telecomunicaciones Certificaciones Canarias S.L.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.190.252.0/22"
+    ],
     "ipv6": []
   }
 }

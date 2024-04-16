@@ -3,7 +3,9 @@
   "handle": "DIGICELAUSPTYLTD-AP",
   "description": "DIGICEL (AUS) PTY LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.73.108.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,12 @@
   "handle": "BGN",
   "description": "Gabor Birincsik",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "149.12.81.0/24",
+      "154.63.176.0/24"
+    ],
+    "ipv6": [
+      "2a09:7ac1::/48"
+    ]
   }
 }

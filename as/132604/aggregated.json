@@ -3,7 +3,9 @@
   "handle": "MIDLAND-AP",
   "description": "Midland Bank",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "118.179.138.0/23"
+    ],
     "ipv6": []
   }
 }

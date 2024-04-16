@@ -3,7 +3,9 @@
   "handle": "HUSSEY-SEATING",
   "description": "Hussey Seating Company",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "204.239.146.0/24"
+    ],
     "ipv6": []
   }
 }

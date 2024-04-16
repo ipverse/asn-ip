@@ -3,7 +3,9 @@
   "handle": "GTNI-AP",
   "description": "Global Traffic Network Inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.97.173.0/24"
+    ],
     "ipv6": []
   }
 }

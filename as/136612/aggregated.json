@@ -3,7 +3,10 @@
   "handle": "QRNET-AS2-AP",
   "description": "QR",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "202.14.133.0/24",
+      "202.146.24.0/23"
+    ],
     "ipv6": []
   }
 }

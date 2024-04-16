@@ -1,0 +1,11 @@
+{
+  "asn": 138371,
+  "handle": "CNGI-QDA-IX-AP",
+  "description": "China Education and Research Network (CERNET)",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "240b:e002::/32"
+    ]
+  }
+}

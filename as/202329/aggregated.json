@@ -3,7 +3,11 @@
   "handle": "VZFFNRMO",
   "description": "Verein zur Foerderung freier Netze Region Mittlerer Oberrhein e.V.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.140.183.0/24"
+    ],
+    "ipv6": [
+      "2001:678:6e0::/45"
+    ]
   }
 }

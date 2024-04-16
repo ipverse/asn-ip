@@ -3,7 +3,9 @@
   "handle": "NYC-INTERPUBLIC",
   "description": "THE INTERPUBLIC GROUP OF COMPANIES, INC.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "170.200.144.0/23"
+    ],
     "ipv6": []
   }
 }

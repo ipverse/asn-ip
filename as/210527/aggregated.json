@@ -4,6 +4,8 @@
   "description": "1gb LLC",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2606:7540:f011::/48"
+    ]
   }
 }

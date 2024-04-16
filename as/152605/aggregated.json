@@ -3,7 +3,10 @@
   "handle": "ZCOMNETWORKS-AP",
   "description": "Z COM NETWORKS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.151.46.0/23",
+      "157.20.146.0/23"
+    ],
     "ipv6": []
   }
 }

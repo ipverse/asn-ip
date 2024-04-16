@@ -3,7 +3,9 @@
   "handle": "POL-SKONE",
   "description": "Pol-Skone Sp. z o.o.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.31.43.0/24"
+    ],
     "ipv6": []
   }
 }

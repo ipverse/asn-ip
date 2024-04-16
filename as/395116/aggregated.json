@@ -3,7 +3,9 @@
   "handle": "AVH-1600-WEST",
   "description": "Antelope Valley Healthcare District",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "65.248.13.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,11 @@
   "handle": "EULERIAN",
   "description": "EULERIAN TECHNOLOGIES S.A.S.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "109.232.192.0/21"
+    ],
+    "ipv6": [
+      "2a02:2038::/32"
+    ]
   }
 }

@@ -3,7 +3,9 @@
   "handle": "DALTECH",
   "description": "DalTech Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "31.131.190.0/23"
+    ],
     "ipv6": []
   }
 }

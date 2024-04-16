@@ -3,7 +3,9 @@
   "handle": "LACU",
   "description": "Linn Area Credit Union",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "161.199.0.0/24"
+    ],
     "ipv6": []
   }
 }

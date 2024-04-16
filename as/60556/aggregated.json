@@ -3,7 +3,9 @@
   "handle": "LTUS",
   "description": "LLC Ilimskiy LTUS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "178.170.209.0/24"
+    ],
     "ipv6": []
   }
 }

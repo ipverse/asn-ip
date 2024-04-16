@@ -3,7 +3,10 @@
   "handle": "CLASSIC-JOISTER",
   "description": "Classicnet Broadband Network",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "43.230.44.0/22",
+      "103.42.192.0/22"
+    ],
     "ipv6": []
   }
 }

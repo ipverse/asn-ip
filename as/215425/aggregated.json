@@ -3,7 +3,9 @@
   "handle": "STC-LTD",
   "description": "STC LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "78.140.226.0/23"
+    ],
     "ipv6": []
   }
 }

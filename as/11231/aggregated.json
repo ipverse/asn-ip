@@ -3,7 +3,9 @@
   "handle": "GETTYSBURG-DOM",
   "description": "GETTYSBURG COLLEGE",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "138.234.0.0/16"
+    ],
     "ipv6": []
   }
 }

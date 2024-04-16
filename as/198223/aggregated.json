@@ -3,7 +3,9 @@
   "handle": "GENPACT-EUROPE",
   "description": "Genpact Services Hungary Kft.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.88.251.0/24"
+    ],
     "ipv6": []
   }
 }

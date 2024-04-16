@@ -3,7 +3,11 @@
   "handle": "PLAYBOX-INFORMATICA",
   "description": "PLAYBOX INFORMATICA LTDA - ME",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "168.90.16.0/22"
+    ],
+    "ipv6": [
+      "2804:2d48::/32"
+    ]
   }
 }

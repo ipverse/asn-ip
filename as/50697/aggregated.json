@@ -3,7 +3,9 @@
   "handle": "ACSN",
   "description": "Reliance Cyber Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.191.210.0/23"
+    ],
     "ipv6": []
   }
 }

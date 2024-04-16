@@ -3,7 +3,9 @@
   "handle": "GRANDI",
   "description": "Grandi LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.153.135.0/24"
+    ],
     "ipv6": []
   }
 }

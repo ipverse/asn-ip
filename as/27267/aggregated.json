@@ -3,7 +3,9 @@
   "handle": "NETACTUATE",
   "description": "NetActuate, Inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.38.180.0/24"
+    ],
     "ipv6": []
   }
 }

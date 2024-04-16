@@ -3,7 +3,9 @@
   "handle": "NUV-BRASIL",
   "description": "NUV Brasil",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "177.36.24.0/24"
+    ],
     "ipv6": []
   }
 }

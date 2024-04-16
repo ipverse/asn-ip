@@ -3,7 +3,9 @@
   "handle": "RPU-1892",
   "description": "Rochester Public Utilities",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "64.61.192.0/24"
+    ],
     "ipv6": []
   }
 }

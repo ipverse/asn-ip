@@ -3,7 +3,11 @@
   "handle": "AHOL",
   "description": "Internet4U Kereskedelmi es Szolgaltato Kft.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "185.143.48.0/23"
+    ],
+    "ipv6": [
+      "2a02:a50::/32"
+    ]
   }
 }

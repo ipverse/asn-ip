@@ -3,7 +3,9 @@
   "handle": "WINNENGMBH",
   "description": "Winnen Gesellschaft fur Elektro- und Kommunikationstechnik mbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "79.99.96.0/21"
+    ],
     "ipv6": []
   }
 }

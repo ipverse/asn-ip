@@ -3,7 +3,10 @@
   "handle": "SACOM",
   "description": "SACOM SYSTEM Sebastian Bialkowski",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.223.4.0/24",
+      "195.24.248.0/23"
+    ],
     "ipv6": []
   }
 }

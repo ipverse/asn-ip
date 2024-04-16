@@ -4,6 +4,8 @@
   "description": "Servicio Postal Mexicano",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2801:c4:a3::/48"
+    ]
   }
 }

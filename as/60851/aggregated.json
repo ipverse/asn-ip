@@ -3,7 +3,9 @@
   "handle": "EMIS",
   "description": "Egton Medical Information Systems Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.13.72.0/22"
+    ],
     "ipv6": []
   }
 }

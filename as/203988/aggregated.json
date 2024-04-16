@@ -3,7 +3,9 @@
   "handle": "ACTIVEHOST-LT",
   "description": "ActiveHost RU LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.65.136.0/24"
+    ],
     "ipv6": []
   }
 }

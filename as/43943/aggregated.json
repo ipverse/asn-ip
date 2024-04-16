@@ -3,7 +3,10 @@
   "handle": "KCM",
   "description": "KCM SA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "92.247.110.0/23",
+      "213.91.176.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "LOKALNA-NET",
   "description": "Lokalna.net sp. z o.o.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "84.234.127.0/24"
+    ],
     "ipv6": []
   }
 }

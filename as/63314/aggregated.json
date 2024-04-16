@@ -3,7 +3,11 @@
   "handle": "MSFT",
   "description": "Microsoft Corporation",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "192.92.214.0/24"
+    ],
+    "ipv6": [
+      "2620:b4:4000::/48"
+    ]
   }
 }

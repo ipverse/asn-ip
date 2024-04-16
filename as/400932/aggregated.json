@@ -3,7 +3,9 @@
   "handle": "TECPRESSO-NET",
   "description": "TECPRESSO INC.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.84.9.0/24"
+    ],
     "ipv6": []
   }
 }

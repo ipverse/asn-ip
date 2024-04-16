@@ -3,7 +3,11 @@
   "handle": "NEXT2I",
   "description": "NEXT2i SARL",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "185.131.44.0/22"
+    ],
+    "ipv6": [
+      "2a05:e7c0::/29"
+    ]
   }
 }

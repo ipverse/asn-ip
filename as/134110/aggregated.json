@@ -3,7 +3,9 @@
   "handle": "MIITLIMITED-AP",
   "description": "MiIT Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.53.148.0/22"
+    ],
     "ipv6": []
   }
 }

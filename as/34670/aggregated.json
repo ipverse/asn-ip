@@ -3,7 +3,10 @@
   "handle": "SKATTEFORVALTNINGEN",
   "description": "Skatteforvaltningen",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.151.192.0/22",
+      "195.85.251.0/24"
+    ],
     "ipv6": []
   }
 }

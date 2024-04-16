@@ -3,7 +3,9 @@
   "handle": "SEIMAS",
   "description": "Lietuvos Respublikos Seimo kanceliarija",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.41.81.0/24"
+    ],
     "ipv6": []
   }
 }

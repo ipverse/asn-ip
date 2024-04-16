@@ -3,7 +3,9 @@
   "handle": "ADM",
   "description": "ADM COMPUTER SERVICES LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.134.224.0/22"
+    ],
     "ipv6": []
   }
 }

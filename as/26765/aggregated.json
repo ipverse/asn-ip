@@ -3,7 +3,9 @@
   "handle": "REDUNDANT-INTERNET",
   "description": "Bountiful City",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "161.129.31.0/24"
+    ],
     "ipv6": []
   }
 }

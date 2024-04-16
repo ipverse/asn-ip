@@ -3,7 +3,9 @@
   "handle": "CHOJINCORP",
   "description": "Chojin Corp Association Declaree",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.120.34.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "OFS-BRANDS",
   "description": "OFS Brands Holdings Inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.42.0.0/24"
+    ],
     "ipv6": []
   }
 }

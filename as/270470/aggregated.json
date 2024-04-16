@@ -3,7 +3,11 @@
   "handle": "LN-TELECOM",
   "description": "LN TELECOM",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "24.152.8.0/22"
+    ],
+    "ipv6": [
+      "2804:6c78::/32"
+    ]
   }
 }

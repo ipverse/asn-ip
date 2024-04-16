@@ -3,7 +3,9 @@
   "handle": "MYCOMMS",
   "description": "MyComms Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.83.164.0/22"
+    ],
     "ipv6": []
   }
 }

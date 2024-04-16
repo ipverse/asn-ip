@@ -3,7 +3,11 @@
   "handle": "WINNET-BRASIL",
   "description": "WINNET BRASIL LTDA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.186.16.0/22"
+    ],
+    "ipv6": [
+      "2804:6518::/32"
+    ]
   }
 }

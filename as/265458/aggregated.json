@@ -3,7 +3,9 @@
   "handle": "CENTRO-ENSINO-UNIFICADO",
   "description": "CENTRO DE ENSINO UNIFICADO DE BRASILIA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "200.229.250.0/24"
+    ],
     "ipv6": []
   }
 }

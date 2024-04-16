@@ -3,7 +3,11 @@
   "handle": "I2NET",
   "description": "i2net cz s.r.o.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "185.86.96.0/22"
+    ],
+    "ipv6": [
+      "2a05:b800::/29"
+    ]
   }
 }

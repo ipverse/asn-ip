@@ -3,7 +3,9 @@
   "handle": "CMG",
   "description": "CMG Studios Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "136.175.222.0/24"
+    ],
     "ipv6": []
   }
 }

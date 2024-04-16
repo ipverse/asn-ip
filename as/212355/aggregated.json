@@ -3,7 +3,9 @@
   "handle": "EMDADKHODRO-IRAN",
   "description": "Emdadkhodro Iran",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "5.160.11.0/24"
+    ],
     "ipv6": []
   }
 }

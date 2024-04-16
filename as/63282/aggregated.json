@@ -3,7 +3,9 @@
   "handle": "YVFWC",
   "description": "Yakima Valley Farm Workers Clinic",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "75.141.36.0/24"
+    ],
     "ipv6": []
   }
 }

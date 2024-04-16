@@ -3,7 +3,9 @@
   "handle": "GRUPPOIH",
   "description": "WIIT S.p.A.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "217.18.96.0/19"
+    ],
     "ipv6": []
   }
 }

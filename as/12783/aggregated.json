@@ -3,7 +3,9 @@
   "handle": "ENET-AL",
   "description": "ENET Shpk",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "94.125.112.0/21"
+    ],
     "ipv6": []
   }
 }

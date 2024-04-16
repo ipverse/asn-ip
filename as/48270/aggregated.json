@@ -3,7 +3,9 @@
   "handle": "INETSOLUTIONSPS",
   "description": "iNET Solutions for computer Co.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.140.180.0/22"
+    ],
     "ipv6": []
   }
 }

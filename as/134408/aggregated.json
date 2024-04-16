@@ -3,7 +3,9 @@
   "handle": "HANML",
   "description": "Hillside (Australia New Media) Pty Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "178.237.171.0/24"
+    ],
     "ipv6": []
   }
 }

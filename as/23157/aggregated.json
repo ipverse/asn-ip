@@ -3,7 +3,10 @@
   "handle": "ANRPI",
   "description": "ANR Pipeline Company",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "74.202.250.0/23",
+      "199.185.100.0/23"
+    ],
     "ipv6": []
   }
 }

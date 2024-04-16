@@ -3,7 +3,9 @@
   "handle": "NIDATLKM",
   "description": "Nida Telekomunikasyon Hizmetleri A.S.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.241.100.0/22"
+    ],
     "ipv6": []
   }
 }

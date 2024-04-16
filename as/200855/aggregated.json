@@ -3,7 +3,9 @@
   "handle": "AIKBANKAASN",
   "description": "AIK banka A.D. Beograd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.93.100.0/22"
+    ],
     "ipv6": []
   }
 }

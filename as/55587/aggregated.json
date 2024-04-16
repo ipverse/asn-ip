@@ -3,7 +3,9 @@
   "handle": "RAYNET2",
   "description": "GORayNet",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "49.50.24.0/21"
+    ],
     "ipv6": []
   }
 }

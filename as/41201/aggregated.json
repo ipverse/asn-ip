@@ -3,7 +3,9 @@
   "handle": "DOLSAT",
   "description": "DOLSAT sp. z o.o.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "87.199.0.0/16"
+    ],
     "ipv6": []
   }
 }

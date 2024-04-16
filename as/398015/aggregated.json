@@ -3,7 +3,9 @@
   "handle": "MICRO4ASN",
   "description": "MicroFour, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "172.86.239.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "RBS-ZERO-HORA",
   "description": "RBS ZERO HORA EDITORA JORNALSTICA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "189.76.144.0/20"
+    ],
     "ipv6": []
   }
 }

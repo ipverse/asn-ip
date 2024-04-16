@@ -3,7 +3,11 @@
   "handle": "EPICSYS",
   "description": "Epic Systems Corporation",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "199.204.56.0/22"
+    ],
+    "ipv6": [
+      "2620:72::/48"
+    ]
   }
 }

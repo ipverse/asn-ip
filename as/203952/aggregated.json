@@ -3,7 +3,10 @@
   "handle": "NS-2",
   "description": "NS Groep N.V.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "145.15.40.0/23",
+      "145.15.112.0/23"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "MPONLINELTD-IN",
   "description": "MPOnline Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.36.71.0/24"
+    ],
     "ipv6": []
   }
 }

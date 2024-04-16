@@ -3,7 +3,11 @@
   "handle": "TR",
   "description": "10LINE TELEKOMUNIKASYON INTERNET VE ILETISIM HIZ A.S.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.98.216.0/23",
+      "185.98.218.0/24",
+      "194.31.11.0/24"
+    ],
     "ipv6": []
   }
 }

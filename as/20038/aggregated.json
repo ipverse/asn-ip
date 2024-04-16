@@ -3,7 +3,9 @@
   "handle": "ALLENTOWNSD",
   "description": "Allentown School District",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "208.82.152.0/21"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,11 @@
   "handle": "TATRA-SERVICES",
   "description": "Tatra Services Inc.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "23.151.16.0/24"
+    ],
+    "ipv6": [
+      "2602:fd91::/36"
+    ]
   }
 }

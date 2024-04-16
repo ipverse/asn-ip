@@ -3,7 +3,9 @@
   "handle": "EPIC-IS",
   "description": "Epic Information Solutions",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.27.216.0/21"
+    ],
     "ipv6": []
   }
 }

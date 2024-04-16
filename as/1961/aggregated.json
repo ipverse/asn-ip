@@ -3,7 +3,10 @@
   "handle": "MARS-AMERICAS",
   "description": "ISI",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.38.176.0/23",
+      "193.38.180.0/23"
+    ],
     "ipv6": []
   }
 }

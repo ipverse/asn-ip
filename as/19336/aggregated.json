@@ -3,7 +3,9 @@
   "handle": "BLAIN-SUPPLY-PRIMARY",
   "description": "BLAIN SUPPLY, INC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "168.245.195.0/24"
+    ],
     "ipv6": []
   }
 }

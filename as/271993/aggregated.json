@@ -3,7 +3,9 @@
   "handle": "PHANTOM-SERVER-SPA",
   "description": "PHANTOM SERVER SPA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.8.207.0/24"
+    ],
     "ipv6": []
   }
 }

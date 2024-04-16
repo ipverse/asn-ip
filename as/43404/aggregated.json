@@ -3,7 +3,12 @@
   "handle": "UCARU",
   "description": "Fastnet LLC",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "77.87.200.0/21",
+      "89.23.32.0/19"
+    ],
+    "ipv6": [
+      "2a04:17c0::/29"
+    ]
   }
 }

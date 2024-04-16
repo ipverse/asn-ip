@@ -3,7 +3,10 @@
   "handle": "GARDALE-SOLUTIONS",
   "description": "Gardale Solutions",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "164.160.24.0/22",
+      "196.11.102.0/24"
+    ],
     "ipv6": []
   }
 }

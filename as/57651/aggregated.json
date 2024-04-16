@@ -3,7 +3,11 @@
   "handle": "COHPROG",
   "description": "CohProg Sarl",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "193.247.238.0/24"
+    ],
+    "ipv6": [
+      "2001:78c::/32"
+    ]
   }
 }

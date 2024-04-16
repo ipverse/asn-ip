@@ -3,7 +3,9 @@
   "handle": "CMNJ",
   "description": "County of Morris OIT",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.84.225.0/24"
+    ],
     "ipv6": []
   }
 }

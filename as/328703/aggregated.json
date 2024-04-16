@@ -3,7 +3,9 @@
   "handle": "SEVEN-NETWORK-SEYCHELLES",
   "description": "Seven Network Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "102.222.76.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "CREDORAX-ARIN1",
   "description": "Credorax (USA) Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.233.202.0/23"
+    ],
     "ipv6": []
   }
 }

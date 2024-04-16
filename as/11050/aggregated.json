@@ -3,7 +3,9 @@
   "handle": "KENT-STATE",
   "description": "Kent State University",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "131.123.0.0/16"
+    ],
     "ipv6": []
   }
 }

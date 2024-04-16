@@ -3,7 +3,10 @@
   "handle": "GDPL-AP",
   "description": "GKY Distributors Pty Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "203.24.166.0/24",
+      "203.30.79.0/24"
+    ],
     "ipv6": []
   }
 }

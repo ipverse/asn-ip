@@ -3,7 +3,13 @@
   "handle": "INTESYS",
   "description": "Intesys Networking Srl",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "185.41.252.0/22",
+      "192.121.180.0/24",
+      "193.234.181.0/24"
+    ],
+    "ipv6": [
+      "2a01:5f60::/32"
+    ]
   }
 }

@@ -3,7 +3,11 @@
   "handle": "MAJORDOMO",
   "description": "Hosting Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "78.108.80.0/20",
+      "178.250.240.0/21",
+      "185.84.108.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,10 @@
   "handle": "INFOTELECOM-SP",
   "description": "Infotelecom SP Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "92.43.166.0/23",
+      "185.39.112.0/22"
+    ],
     "ipv6": []
   }
 }

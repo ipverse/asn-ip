@@ -3,7 +3,9 @@
   "handle": "L3CLIMITED",
   "description": "L3C Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.189.40.0/22"
+    ],
     "ipv6": []
   }
 }

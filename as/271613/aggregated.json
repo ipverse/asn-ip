@@ -3,7 +3,9 @@
   "handle": "ER-TELECOM",
   "description": "ER TELECOM LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "179.63.138.0/23"
+    ],
     "ipv6": []
   }
 }

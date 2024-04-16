@@ -3,7 +3,10 @@
   "handle": "TOYOTA-EXT",
   "description": "Toyota Motor Sales, U.S.A., Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "69.25.174.0/24",
+      "162.246.76.0/22"
+    ],
     "ipv6": []
   }
 }

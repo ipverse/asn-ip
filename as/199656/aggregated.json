@@ -4,6 +4,8 @@
   "description": "ZYC Network LLC",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a0a:280:2700::/40"
+    ]
   }
 }

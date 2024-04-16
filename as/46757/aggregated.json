@@ -3,7 +3,11 @@
   "handle": "SHARCNET",
   "description": "Sharcnet",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "199.241.160.0/21"
+    ],
+    "ipv6": [
+      "2620:123:7000::/44"
+    ]
   }
 }

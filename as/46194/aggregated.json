@@ -3,7 +3,9 @@
   "handle": "SPECTRUM-EVERSTREAM-CITYSC",
   "description": "St Louis CITY SC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "35.134.188.0/24"
+    ],
     "ipv6": []
   }
 }

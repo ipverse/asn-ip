@@ -3,7 +3,9 @@
   "handle": "BARTELS-FE",
   "description": "Oliver Bartels F+E",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.120.55.0/24"
+    ],
     "ipv6": []
   }
 }

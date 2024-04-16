@@ -3,7 +3,9 @@
   "handle": "VIKINGNET",
   "description": "Viking Turizm ve Ticaret AS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "212.252.192.0/24"
+    ],
     "ipv6": []
   }
 }

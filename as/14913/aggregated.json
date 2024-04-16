@@ -3,7 +3,9 @@
   "handle": "MEDIA-NEWS-GROUP",
   "description": "MEDIA NEWS GROUP",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.88.148.0/23"
+    ],
     "ipv6": []
   }
 }

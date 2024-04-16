@@ -3,7 +3,9 @@
   "handle": "ATALANTA-SOSNOFF",
   "description": "Atalanta Sosnoff Capital, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "209.48.193.0/24"
+    ],
     "ipv6": []
   }
 }

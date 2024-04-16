@@ -3,7 +3,10 @@
   "handle": "LAZADA-AP",
   "description": "LAZADA Co.,Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "110.170.244.0/24",
+      "203.209.121.0/24"
+    ],
     "ipv6": []
   }
 }

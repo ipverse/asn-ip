@@ -3,7 +3,10 @@
   "handle": "ASIHKRT",
   "description": "Industrie und Handelskammer Reutlingen",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.213.27.0/24",
+      "193.169.94.0/23"
+    ],
     "ipv6": []
   }
 }

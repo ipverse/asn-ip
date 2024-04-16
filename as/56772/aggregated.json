@@ -3,7 +3,9 @@
   "handle": "UFMOLDOVA",
   "description": "I.C.S. PREMIER ENERGY DISTRIBUTION S.A.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.227.121.0/24"
+    ],
     "ipv6": []
   }
 }

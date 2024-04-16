@@ -3,7 +3,9 @@
   "handle": "BRASIL-CENTRAL-TELECOMUNICAO",
   "description": "Brasil Central Telecomunicao",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.141.232.0/22"
+    ],
     "ipv6": []
   }
 }

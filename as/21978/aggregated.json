@@ -3,7 +3,9 @@
   "handle": "LANAIR-LGCLOUD",
   "description": "LANAIR Group, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "74.116.240.0/24"
+    ],
     "ipv6": []
   }
 }

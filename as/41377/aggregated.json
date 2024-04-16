@@ -3,7 +3,9 @@
   "handle": "FAKTOR",
   "description": "OOO Faktor",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.3.140.0/22"
+    ],
     "ipv6": []
   }
 }

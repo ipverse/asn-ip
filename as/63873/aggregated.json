@@ -3,7 +3,10 @@
   "handle": "MAGNET-ID",
   "description": "PT Mitra Akses Globalindo",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.115.136.0/22",
+      "103.53.0.0/22"
+    ],
     "ipv6": [
       "2402:2680::/32"
     ]

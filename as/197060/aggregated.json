@@ -3,7 +3,10 @@
   "handle": "IP-KONEKESKUSTEOU",
   "description": "Prominion OU",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.216.86.0/24",
+      "185.155.252.0/22"
+    ],
     "ipv6": []
   }
 }

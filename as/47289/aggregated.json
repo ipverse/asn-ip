@@ -3,7 +3,9 @@
   "handle": "ASVOLVIDO",
   "description": "Volvido Hosting Aps",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.65.143.0/24"
+    ],
     "ipv6": []
   }
 }

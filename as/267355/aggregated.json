@@ -3,7 +3,11 @@
   "handle": "HOSTIDC-INTERNET-DATACENTER",
   "description": "HOSTIDC INTERNET DATACENTER LTDA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.234.92.0/22"
+    ],
+    "ipv6": [
+      "2804:4c30::/32"
+    ]
   }
 }

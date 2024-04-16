@@ -3,7 +3,9 @@
   "handle": "CISCOM",
   "description": "CISCOM Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "62.76.204.0/24"
+    ],
     "ipv6": []
   }
 }

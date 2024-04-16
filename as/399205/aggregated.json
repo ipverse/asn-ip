@@ -3,7 +3,9 @@
   "handle": "MAYSTREET-INET-01",
   "description": "Maystreet",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "204.225.64.0/24"
+    ],
     "ipv6": []
   }
 }

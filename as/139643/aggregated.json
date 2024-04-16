@@ -3,7 +3,9 @@
   "handle": "I-SMART-AP",
   "description": "i Smart",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.143.0.0/23"
+    ],
     "ipv6": []
   }
 }

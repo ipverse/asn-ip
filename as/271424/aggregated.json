@@ -3,7 +3,11 @@
   "handle": "JOY-TELECOMUNICACOES",
   "description": "JOY TELECOMUNICACOES LTDA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "181.224.8.0/22"
+    ],
+    "ipv6": [
+      "2804:7b50::/32"
+    ]
   }
 }

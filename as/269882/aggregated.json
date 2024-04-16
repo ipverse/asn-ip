@@ -3,7 +3,9 @@
   "handle": "MUNICIPALIDAD-VICENTE-LPEZ",
   "description": "Municipalidad de Vicente Lpez",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.191.56.0/22"
+    ],
     "ipv6": []
   }
 }

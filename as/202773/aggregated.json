@@ -3,7 +3,9 @@
   "handle": "UMAI",
   "description": "BM Technologies Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "46.226.209.0/24"
+    ],
     "ipv6": []
   }
 }

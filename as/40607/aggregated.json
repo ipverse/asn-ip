@@ -3,7 +3,9 @@
   "handle": "HCPL-7",
   "description": "HALL CAPITAL PARTNERS, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "12.34.14.0/24"
+    ],
     "ipv6": []
   }
 }

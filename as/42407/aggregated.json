@@ -3,7 +3,9 @@
   "handle": "GT11",
   "description": "GT11 Sp. z o.o.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.11.192.0/22"
+    ],
     "ipv6": []
   }
 }

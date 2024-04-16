@@ -3,7 +3,9 @@
   "handle": "NN",
   "description": "NN Biztosito Zrt",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.199.52.0/24"
+    ],
     "ipv6": []
   }
 }

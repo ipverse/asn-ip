@@ -3,7 +3,9 @@
   "handle": "BANK-PERESVET",
   "description": "AKB Peresvet (PAO)",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "62.89.205.0/24"
+    ],
     "ipv6": []
   }
 }

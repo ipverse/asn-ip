@@ -1,0 +1,11 @@
+{
+  "asn": 329193,
+  "handle": "REGISTER-DOMAIN-SA",
+  "description": "Register Domain SA (Pty) Ltd",
+  "subnets": {
+    "ipv4": [
+      "102.215.92.0/24"
+    ],
+    "ipv6": []
+  }
+}

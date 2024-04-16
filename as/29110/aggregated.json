@@ -3,7 +3,9 @@
   "handle": "PASTEUR",
   "description": "Institut Pasteur",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "157.99.0.0/16"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "NET-CONNECT",
   "description": "Net-Connect Karol Sarlej",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.105.16.0/24"
+    ],
     "ipv6": []
   }
 }

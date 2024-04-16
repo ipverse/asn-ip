@@ -3,7 +3,9 @@
   "handle": "EUROCORP-SA",
   "description": "EUROCORP AEPEY",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.209.173.0/24"
+    ],
     "ipv6": []
   }
 }

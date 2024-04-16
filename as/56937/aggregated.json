@@ -3,7 +3,9 @@
   "handle": "ISDD",
   "description": "ISDD plus s.r.o.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.233.248.0/24"
+    ],
     "ipv6": []
   }
 }

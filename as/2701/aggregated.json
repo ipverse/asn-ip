@@ -3,7 +3,10 @@
   "handle": "KSU-NET",
   "description": "Kansas State University",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "129.130.0.0/16",
+      "198.248.84.0/22"
+    ],
     "ipv6": []
   }
 }

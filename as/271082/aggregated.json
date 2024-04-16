@@ -3,7 +3,12 @@
   "handle": "DIGITAL-NET-TELECOM",
   "description": "DIGITAL NET TELECOM LTDA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "201.71.212.0/22"
+    ],
+    "ipv6": [
+      "2804:75fc::/34",
+      "2804:75fc:c000::/34"
+    ]
   }
 }

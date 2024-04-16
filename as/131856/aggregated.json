@@ -3,7 +3,10 @@
   "handle": "YONSEIWONJU",
   "description": "WONJU SEVERANCE CHRISTIAN HOSPITAL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "165.132.226.0/23",
+      "165.132.228.0/22"
+    ],
     "ipv6": []
   }
 }

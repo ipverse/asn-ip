@@ -3,7 +3,9 @@
   "handle": "TEC-20",
   "description": "TinyEmail",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "163.123.184.0/22"
+    ],
     "ipv6": []
   }
 }

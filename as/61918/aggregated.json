@@ -3,7 +3,12 @@
   "handle": "RALUEL-COMERCIO",
   "description": "RALUEL COMERCIO LTDA ME",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "170.150.232.0/22",
+      "177.92.164.0/22"
+    ],
+    "ipv6": [
+      "2804:1714::/32"
+    ]
   }
 }

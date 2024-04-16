@@ -3,7 +3,10 @@
   "handle": "INPADI",
   "description": "Firstline IT ApS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.55.196.0/22",
+      "185.182.64.0/24"
+    ],
     "ipv6": []
   }
 }

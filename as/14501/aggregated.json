@@ -3,7 +3,9 @@
   "handle": "ENTERPRISECOMMUNITY",
   "description": "Enterprise Business Partners, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "198.17.19.0/24"
+    ],
     "ipv6": []
   }
 }

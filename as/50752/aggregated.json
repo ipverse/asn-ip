@@ -3,7 +3,9 @@
   "handle": "SATIS-SVYAZ",
   "description": "Satis Svyaz JSC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "178.218.0.0/20"
+    ],
     "ipv6": []
   }
 }

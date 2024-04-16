@@ -3,7 +3,9 @@
   "handle": "GMBGP",
   "description": "Guild Mortgage Company",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "67.108.20.0/24"
+    ],
     "ipv6": []
   }
 }

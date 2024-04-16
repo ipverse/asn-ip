@@ -3,7 +3,9 @@
   "handle": "BATESVILLE",
   "description": "Hillenbrand, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.182.72.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "ROSOHRANA",
   "description": "Rosohrana Telecom LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.115.156.0/22"
+    ],
     "ipv6": []
   }
 }

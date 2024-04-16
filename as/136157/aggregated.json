@@ -3,7 +3,9 @@
   "handle": "AFFCO-AP",
   "description": "AFFCO New Zealand Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "202.20.91.0/24"
+    ],
     "ipv6": []
   }
 }

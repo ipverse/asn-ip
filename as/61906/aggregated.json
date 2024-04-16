@@ -3,7 +3,9 @@
   "handle": "UNIMAX-TELECOM",
   "description": "UNIMAX TELECOM",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "177.222.168.0/21"
+    ],
     "ipv6": []
   }
 }

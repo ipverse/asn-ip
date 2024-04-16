@@ -3,7 +3,9 @@
   "handle": "FSU-1",
   "description": "Ferris State University",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "161.57.0.0/16"
+    ],
     "ipv6": []
   }
 }

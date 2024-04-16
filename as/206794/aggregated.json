@@ -3,7 +3,9 @@
   "handle": "METALOR",
   "description": "Metalor Technologies SA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.65.86.0/24"
+    ],
     "ipv6": []
   }
 }

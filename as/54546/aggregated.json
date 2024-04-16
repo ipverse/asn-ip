@@ -3,7 +3,9 @@
   "handle": "FERRARI-NORTH-AMERICA",
   "description": "Ferrari North America, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "63.80.105.0/24"
+    ],
     "ipv6": []
   }
 }

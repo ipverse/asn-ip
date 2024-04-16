@@ -3,7 +3,9 @@
   "handle": "PROVEDOR-CARIRI-CONECT",
   "description": "PROVEDOR CARIRI CONECT",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "167.250.96.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "ONLINE-CONSULTING",
   "description": "Online Consulting AG",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.238.140.0/22"
+    ],
     "ipv6": []
   }
 }

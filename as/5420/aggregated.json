@@ -3,7 +3,12 @@
   "handle": "KEMNET",
   "description": "Kemira Oyj",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "192.40.72.0/22",
+      "192.40.76.0/24"
+    ],
+    "ipv6": [
+      "2a06:f040::/32"
+    ]
   }
 }

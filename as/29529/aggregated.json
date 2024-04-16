@@ -3,7 +3,9 @@
   "handle": "ITECOM",
   "description": "iTecom bv",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "87.236.178.0/23"
+    ],
     "ipv6": []
   }
 }

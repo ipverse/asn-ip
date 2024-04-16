@@ -3,7 +3,9 @@
   "handle": "AVTODOR",
   "description": "LLC Avtodor-TollRoads",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.111.100.0/22"
+    ],
     "ipv6": []
   }
 }

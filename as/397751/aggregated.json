@@ -3,7 +3,9 @@
   "handle": "JAMESAVERY",
   "description": "JAMES AVERY CRAFTSMAN INC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "216.38.160.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "KHNU",
   "description": "V.N.Karazin Kharkiv National University",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "31.128.183.0/24"
+    ],
     "ipv6": []
   }
 }

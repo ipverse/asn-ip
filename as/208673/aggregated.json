@@ -3,7 +3,9 @@
   "handle": "ESTOXY-EE",
   "description": "ESTOXY OU",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "37.49.231.0/24"
+    ],
     "ipv6": []
   }
 }

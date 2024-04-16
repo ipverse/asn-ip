@@ -3,7 +3,10 @@
   "handle": "NYCHHC",
   "description": "New York City Health \u0026 Hospitals Corporation",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "64.251.40.0/21",
+      "67.221.24.0/21"
+    ],
     "ipv6": []
   }
 }

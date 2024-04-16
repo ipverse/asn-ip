@@ -3,7 +3,10 @@
   "handle": "BRITISH-AIRWAYS-PLC",
   "description": "British Airways plc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "161.2.0.0/16",
+      "163.166.0.0/16"
+    ],
     "ipv6": []
   }
 }

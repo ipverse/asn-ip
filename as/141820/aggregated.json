@@ -3,7 +3,9 @@
   "handle": "DIGI95",
   "description": "Digital Telecom",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.164.140.0/24"
+    ],
     "ipv6": []
   }
 }

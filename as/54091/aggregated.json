@@ -3,7 +3,9 @@
   "handle": "WWMCASN",
   "description": "White Wilson Medical Center, P.A.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "204.80.159.0/24"
+    ],
     "ipv6": []
   }
 }

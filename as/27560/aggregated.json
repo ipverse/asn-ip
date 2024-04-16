@@ -3,7 +3,10 @@
   "handle": "ULTCO",
   "description": "Universal Leaf Tobacco Company Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "207.54.130.0/24",
+      "208.150.78.0/24"
+    ],
     "ipv6": []
   }
 }

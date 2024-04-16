@@ -3,7 +3,9 @@
   "handle": "ITVNET",
   "description": "AY TI VI NET LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.35.176.0/22"
+    ],
     "ipv6": []
   }
 }

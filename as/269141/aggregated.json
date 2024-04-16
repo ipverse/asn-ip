@@ -3,7 +3,11 @@
   "handle": "B3-TELECOMUNICACOES",
   "description": "B3 TELECOMUNICACOES LTDA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.180.156.0/22"
+    ],
+    "ipv6": [
+      "2804:6008::/32"
+    ]
   }
 }

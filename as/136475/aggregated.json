@@ -3,7 +3,11 @@
   "handle": "PMSL-AP",
   "description": "Planetcast Media Services Limited",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "103.89.136.0/24"
+    ],
+    "ipv6": [
+      "2001:df0:b100::/48"
+    ]
   }
 }

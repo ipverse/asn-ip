@@ -3,7 +3,9 @@
   "handle": "META",
   "description": "Metanet Communications, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "107.182.0.0/20"
+    ],
     "ipv6": []
   }
 }

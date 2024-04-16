@@ -3,7 +3,9 @@
   "handle": "INEDIT",
   "description": "ALLEGRA SRL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.248.76.0/24"
+    ],
     "ipv6": []
   }
 }

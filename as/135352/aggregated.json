@@ -3,7 +3,11 @@
   "handle": "TSGNLCO-AP",
   "description": "The Signal Co. Wireless",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "43.225.60.0/22"
+    ],
+    "ipv6": [
+      "2404:cc80::/32"
+    ]
   }
 }

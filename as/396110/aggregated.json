@@ -3,7 +3,9 @@
   "handle": "CREATIONHQ1",
   "description": "Creation Technologies LP",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "206.47.182.0/24"
+    ],
     "ipv6": []
   }
 }

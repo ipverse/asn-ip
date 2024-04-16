@@ -3,7 +3,9 @@
   "handle": "RAO",
   "description": "RAO d.o.o.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.235.214.0/23"
+    ],
     "ipv6": []
   }
 }

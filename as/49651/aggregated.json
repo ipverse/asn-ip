@@ -3,7 +3,9 @@
   "handle": "ENERCON",
   "description": "ENERCON GmbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.180.56.0/22"
+    ],
     "ipv6": []
   }
 }

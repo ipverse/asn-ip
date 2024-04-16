@@ -3,7 +3,10 @@
   "handle": "BOK-CENTER",
   "description": "BOK Center",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "98.190.47.0/24",
+      "184.191.54.0/24"
+    ],
     "ipv6": []
   }
 }

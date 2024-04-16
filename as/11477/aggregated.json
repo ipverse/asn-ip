@@ -3,7 +3,9 @@
   "handle": "GOC",
   "description": "GO Concepts, Inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "74.119.100.0/22"
+    ],
     "ipv6": []
   }
 }

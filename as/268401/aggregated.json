@@ -3,7 +3,9 @@
   "handle": "LM-SISTEMAS",
   "description": "LM SISTEMAS LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.239.252.0/22"
+    ],
     "ipv6": []
   }
 }

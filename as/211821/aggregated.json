@@ -3,7 +3,9 @@
   "handle": "BAKAEV",
   "description": "Individual Entrepreneur Bakaev Ivan Vladimirovich",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.93.60.0/24"
+    ],
     "ipv6": []
   }
 }

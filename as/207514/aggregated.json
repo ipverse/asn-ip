@@ -3,7 +3,9 @@
   "handle": "HAKOM",
   "description": "Croatian Regulatory Authority for Network Industries",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.59.84.0/22"
+    ],
     "ipv6": []
   }
 }

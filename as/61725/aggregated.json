@@ -3,7 +3,11 @@
   "handle": "MR-TELECOM",
   "description": "MR Telecom",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "131.72.88.0/22"
+    ],
+    "ipv6": [
+      "2804:1b64::/32"
+    ]
   }
 }

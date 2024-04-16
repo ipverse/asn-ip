@@ -3,7 +3,9 @@
   "handle": "MPEA-MCCORMICK-PLACE",
   "description": "McCormick Place",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "107.171.0.0/17"
+    ],
     "ipv6": []
   }
 }

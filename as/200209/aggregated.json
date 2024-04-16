@@ -3,7 +3,13 @@
   "handle": "VON",
   "description": "VoiceON Telecom Services GmbH",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "5.63.20.0/24",
+      "185.23.109.0/24"
+    ],
+    "ipv6": [
+      "2a13:a000:1000::/36",
+      "2a13:a000:2000::/35"
+    ]
   }
 }

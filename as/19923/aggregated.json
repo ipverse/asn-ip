@@ -3,7 +3,9 @@
   "handle": "SHENANDOAH-UNIV",
   "description": "Shenandoah University",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "204.154.80.0/21"
+    ],
     "ipv6": []
   }
 }

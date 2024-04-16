@@ -3,7 +3,9 @@
   "handle": "ZITO-MIDWEST",
   "description": "Zito Media",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "67.58.160.0/24"
+    ],
     "ipv6": []
   }
 }

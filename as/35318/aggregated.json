@@ -3,7 +3,9 @@
   "handle": "INTERCOM",
   "description": "Inter Com Slawomir Lebek",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.233.184.0/22"
+    ],
     "ipv6": []
   }
 }

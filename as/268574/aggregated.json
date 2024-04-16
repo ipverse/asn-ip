@@ -3,7 +3,11 @@
   "handle": "SPEED-NET-COMUNICAES",
   "description": "Speed Net Comunicaes Ltda",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.163.92.0/22"
+    ],
+    "ipv6": [
+      "2804:5348::/32"
+    ]
   }
 }

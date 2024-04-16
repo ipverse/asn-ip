@@ -3,7 +3,9 @@
   "handle": "LISTRAK-AS1",
   "description": "Listrak",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "142.0.80.0/20"
+    ],
     "ipv6": []
   }
 }

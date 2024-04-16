@@ -3,7 +3,9 @@
   "handle": "SCB-VN",
   "description": "Sai Gon Join stock commercial Bank",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.61.48.0/22"
+    ],
     "ipv6": []
   }
 }

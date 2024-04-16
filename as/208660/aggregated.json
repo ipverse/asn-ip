@@ -3,7 +3,9 @@
   "handle": "WEKEO-CLOUDFERRO",
   "description": "CloudFerro S.A",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.226.255.0/24"
+    ],
     "ipv6": []
   }
 }

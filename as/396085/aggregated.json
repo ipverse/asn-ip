@@ -3,7 +3,10 @@
   "handle": "SUPERIOR-LIVESTOCK-AUCTION",
   "description": "Superior Livestock Auction, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.96.218.0/24",
+      "72.249.34.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "EXA",
   "description": "EXAPROBE SAS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.243.76.0/23"
+    ],
     "ipv6": []
   }
 }

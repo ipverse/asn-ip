@@ -3,7 +3,9 @@
   "handle": "SPEEDY",
   "description": "Speedy AD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.217.205.0/24"
+    ],
     "ipv6": []
   }
 }

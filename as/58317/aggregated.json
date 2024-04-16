@@ -3,7 +3,11 @@
   "handle": "EMBARK",
   "description": "Embark Studios AB",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.85.72.0/24"
+    ],
+    "ipv6": [
+      "2a0e:bb80::/32"
+    ]
   }
 }

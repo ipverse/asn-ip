@@ -3,7 +3,9 @@
   "handle": "LIFEWAVE-ORG-1",
   "description": "LifeWave, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "50.168.104.0/24"
+    ],
     "ipv6": []
   }
 }

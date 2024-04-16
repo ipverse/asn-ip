@@ -3,7 +3,9 @@
   "handle": "INM",
   "description": "Telia Cygate Oy",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.50.88.0/22"
+    ],
     "ipv6": []
   }
 }

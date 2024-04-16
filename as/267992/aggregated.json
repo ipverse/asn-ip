@@ -3,7 +3,9 @@
   "handle": "WELLINTON-MIRANDA-SILVA",
   "description": "Wellinton Miranda da Silva-ME",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.167.68.0/22"
+    ],
     "ipv6": []
   }
 }

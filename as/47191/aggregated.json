@@ -3,7 +3,9 @@
   "handle": "BLUETECH-WAF",
   "description": "blue tech technology Co., Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "216.180.224.0/20"
+    ],
     "ipv6": []
   }
 }

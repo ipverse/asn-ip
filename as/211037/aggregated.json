@@ -3,7 +3,11 @@
   "handle": "ONEAGO",
   "description": "1Ago CommV",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "185.21.134.0/24"
+    ],
+    "ipv6": [
+      "2a04:4480::/32"
+    ]
   }
 }

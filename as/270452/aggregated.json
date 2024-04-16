@@ -3,7 +3,11 @@
   "handle": "TAON-TELECOM",
   "description": "TAON TELECOM",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "200.71.104.0/22"
+    ],
+    "ipv6": [
+      "2804:6c34::/32"
+    ]
   }
 }

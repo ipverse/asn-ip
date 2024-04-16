@@ -3,9 +3,11 @@
   "handle": "IWNET-TELECOM",
   "description": "IWNET TELECOM LTDA ME",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "177.152.80.0/21"
+    ],
     "ipv6": [
-      "2804:dec:4000::/34"
+      "2804:dec::/32"
     ]
   }
 }

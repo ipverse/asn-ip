@@ -3,7 +3,9 @@
   "handle": "VALE-SA-AP",
   "description": "Vale S.A",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "142.40.196.0/23"
+    ],
     "ipv6": []
   }
 }

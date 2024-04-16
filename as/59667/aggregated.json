@@ -3,7 +3,9 @@
   "handle": "AUDIOTELE",
   "description": "AUDIOTELE JSC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.222.48.0/23"
+    ],
     "ipv6": []
   }
 }

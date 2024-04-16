@@ -3,7 +3,9 @@
   "handle": "AGRICULTURAL-INSURANCE-AGUDA-SHITUFIT",
   "description": "Agricultural Insurance - Central Common Association Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.36.176.0/24"
+    ],
     "ipv6": []
   }
 }

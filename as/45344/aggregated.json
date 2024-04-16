@@ -3,7 +3,11 @@
   "handle": "IIUM-MY",
   "description": "International Islamic University Of Malaysia",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "210.48.216.0/21"
+    ],
+    "ipv6": [
+      "2001:df0:18::/48"
+    ]
   }
 }

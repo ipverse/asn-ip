@@ -3,7 +3,9 @@
   "handle": "OMV-AP",
   "description": "OMV NEW ZEALAND LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.118.51.0/24"
+    ],
     "ipv6": []
   }
 }

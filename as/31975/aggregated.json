@@ -3,7 +3,9 @@
   "handle": "SEWANEE",
   "description": "University of the South",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "152.97.0.0/18"
+    ],
     "ipv6": []
   }
 }

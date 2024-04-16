@@ -3,7 +3,11 @@
   "handle": "CLICKPLAY-PROVEDOR-ACESSO",
   "description": "CLICKPLAY PROVEDOR DE ACESSO LTDA - ME",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.230.160.0/22"
+    ],
+    "ipv6": [
+      "2804:4a08::/32"
+    ]
   }
 }

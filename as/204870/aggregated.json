@@ -3,7 +3,9 @@
   "handle": "PL-UMBYD-NET",
   "description": "Miasto Bydgoszcz",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.174.154.0/23"
+    ],
     "ipv6": []
   }
 }

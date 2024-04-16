@@ -3,7 +3,10 @@
   "handle": "BALTTELECOM",
   "description": "LLC Balttelecom",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "78.155.160.0/19",
+      "178.237.60.0/22"
+    ],
     "ipv6": []
   }
 }

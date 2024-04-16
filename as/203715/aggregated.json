@@ -3,7 +3,9 @@
   "handle": "ISA",
   "description": "Isavia ohf",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.126.60.0/22"
+    ],
     "ipv6": []
   }
 }

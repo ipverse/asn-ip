@@ -3,7 +3,9 @@
   "handle": "COMPAL-TW",
   "description": "Compal Electronics",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.122.216.0/22"
+    ],
     "ipv6": []
   }
 }

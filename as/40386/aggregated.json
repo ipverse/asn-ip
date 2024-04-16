@@ -3,7 +3,10 @@
   "handle": "BLOOMIP",
   "description": "Bloomip Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "208.83.107.0/24",
+      "208.83.108.0/24"
+    ],
     "ipv6": []
   }
 }

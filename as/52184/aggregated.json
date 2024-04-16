@@ -3,7 +3,9 @@
   "handle": "GIVC",
   "description": "Main Center of Information and Computing Ministry of culture of Russian Federation",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.190.9.0/24"
+    ],
     "ipv6": []
   }
 }

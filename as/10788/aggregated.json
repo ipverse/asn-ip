@@ -3,7 +3,9 @@
   "handle": "CDW",
   "description": "CDW LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "64.73.16.0/21"
+    ],
     "ipv6": []
   }
 }

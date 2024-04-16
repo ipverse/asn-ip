@@ -3,7 +3,9 @@
   "handle": "GOCODEIT-CORP",
   "description": "GoCodeIT Inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "74.119.151.0/24"
+    ],
     "ipv6": []
   }
 }

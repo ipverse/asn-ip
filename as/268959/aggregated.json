@@ -3,9 +3,11 @@
   "handle": "INOVANET-EMPREENDIMENTOS",
   "description": "INOVANET EMPREENDIMENTOS LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.176.168.0/22"
+    ],
     "ipv6": [
-      "2804:5d3c:c000::/34"
+      "2804:5d3c::/32"
     ]
   }
 }

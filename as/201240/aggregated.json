@@ -3,7 +3,11 @@
   "handle": "OPENIOT",
   "description": "Rocket NG GmbH",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "192.166.240.0/24"
+    ],
+    "ipv6": [
+      "2a07:eec0::/29"
+    ]
   }
 }

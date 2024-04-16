@@ -3,7 +3,9 @@
   "handle": "OPTEAMIP",
   "description": "INFORMATIQUE MAINTENANCE SERVICES SAS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.156.149.0/24"
+    ],
     "ipv6": []
   }
 }

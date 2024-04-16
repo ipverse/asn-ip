@@ -3,7 +3,11 @@
   "handle": "NPIX-AP",
   "description": "Internet Exchange Nepal",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "103.102.36.0/24"
+    ],
+    "ipv6": [
+      "2001:def:8001::/48"
+    ]
   }
 }

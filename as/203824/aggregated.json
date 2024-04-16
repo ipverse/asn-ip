@@ -3,7 +3,9 @@
   "handle": "INFOSME",
   "description": "Info Sistemi d.o.o.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.255.228.0/22"
+    ],
     "ipv6": []
   }
 }

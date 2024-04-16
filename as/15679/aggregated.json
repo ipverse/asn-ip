@@ -3,7 +3,12 @@
   "handle": "CIS",
   "description": "Ministry of Transport, Communication, and Information Technology",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "188.65.24.0/23",
+      "188.65.26.0/24",
+      "188.65.29.0/24",
+      "188.65.30.0/24"
+    ],
     "ipv6": []
   }
 }

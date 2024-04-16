@@ -3,7 +3,9 @@
   "handle": "DP-IS",
   "description": "Digital Passage, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "65.48.80.0/20"
+    ],
     "ipv6": []
   }
 }

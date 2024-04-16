@@ -3,7 +3,9 @@
   "handle": "CRETEC",
   "description": "CRETEC CHEGIM",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.132.36.0/22"
+    ],
     "ipv6": []
   }
 }

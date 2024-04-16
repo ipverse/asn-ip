@@ -3,7 +3,9 @@
   "handle": "ASWIRCOM",
   "description": "Wircom s.r.o.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "176.101.176.0/21"
+    ],
     "ipv6": []
   }
 }

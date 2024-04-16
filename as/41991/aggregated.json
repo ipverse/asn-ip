@@ -3,7 +3,9 @@
   "handle": "BALOISE",
   "description": "Baloise Belgium NV",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.43.2.0/23"
+    ],
     "ipv6": []
   }
 }

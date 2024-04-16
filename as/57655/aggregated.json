@@ -3,7 +3,9 @@
   "handle": "ITC",
   "description": "I-T-C LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "176.96.237.0/24"
+    ],
     "ipv6": []
   }
 }

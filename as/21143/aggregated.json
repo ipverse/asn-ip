@@ -3,7 +3,10 @@
   "handle": "TULSUISP",
   "description": "Tula State University",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "80.78.192.0/20",
+      "185.165.224.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,11 @@
   "handle": "24X7ICT",
   "description": "24x7 Hosting B.V.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "194.39.200.0/23"
+    ],
+    "ipv6": [
+      "2a0c:f0c0::/30"
+    ]
   }
 }

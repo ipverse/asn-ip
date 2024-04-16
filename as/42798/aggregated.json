@@ -3,7 +3,9 @@
   "handle": "VOLSNET",
   "description": "Sergey Vyacheslavovich Gliga",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.193.124.0/22"
+    ],
     "ipv6": []
   }
 }

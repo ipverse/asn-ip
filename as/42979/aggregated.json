@@ -3,7 +3,10 @@
   "handle": "ASGLBLCOM",
   "description": "SIA Globalcom",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.95.33.0/24",
+      "85.254.1.0/24"
+    ],
     "ipv6": []
   }
 }

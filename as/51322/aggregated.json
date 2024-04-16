@@ -3,7 +3,9 @@
   "handle": "ASF",
   "description": "Astory Technology S.A.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.226.212.0/24"
+    ],
     "ipv6": []
   }
 }

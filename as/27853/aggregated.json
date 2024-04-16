@@ -3,7 +3,9 @@
   "handle": "ADMINISTRADORA-BANCHILE-FONDOS",
   "description": "Administradora BANCHILE de Fondos Mutuos",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "200.10.0.0/24"
+    ],
     "ipv6": []
   }
 }

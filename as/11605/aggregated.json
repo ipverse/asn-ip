@@ -3,7 +3,9 @@
   "handle": "FLUIDSOFT-14",
   "description": "Fluidsoft Incorporated",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "205.233.73.0/24"
+    ],
     "ipv6": []
   }
 }

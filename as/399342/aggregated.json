@@ -4,6 +4,8 @@
   "description": "SOPHOS",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2606:36c0:500::/40"
+    ]
   }
 }

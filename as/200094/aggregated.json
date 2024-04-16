@@ -3,7 +3,10 @@
   "handle": "PHU-MIROLAN-MIROSLAW-WECLAW",
   "description": "PHU MIROLAN Miroslaw Weclaw",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "81.21.206.0/24",
+      "185.73.60.0/22"
+    ],
     "ipv6": []
   }
 }

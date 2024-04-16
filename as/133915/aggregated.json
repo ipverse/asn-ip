@@ -3,7 +3,9 @@
   "handle": "POWERCO-AP",
   "description": "Powerco NZ Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "202.50.140.0/24"
+    ],
     "ipv6": []
   }
 }

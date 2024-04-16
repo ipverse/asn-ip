@@ -3,7 +3,9 @@
   "handle": "SHIMABUKURO-ZANGUETTIN",
   "description": "Shimabukuro \u0026 Zanguettin Ltda ME",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.226.152.0/22"
+    ],
     "ipv6": []
   }
 }

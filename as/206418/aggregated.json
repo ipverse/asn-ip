@@ -3,7 +3,9 @@
   "handle": "GK5304",
   "description": "Gentofte Kommune",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.185.96.0/22"
+    ],
     "ipv6": []
   }
 }

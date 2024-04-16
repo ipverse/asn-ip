@@ -3,7 +3,9 @@
   "handle": "ONTEX",
   "description": "Ontex Group NV",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.223.224.0/22"
+    ],
     "ipv6": []
   }
 }

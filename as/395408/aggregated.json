@@ -3,7 +3,9 @@
   "handle": "SBLI-MA",
   "description": "SBLI",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "209.160.144.0/24"
+    ],
     "ipv6": []
   }
 }

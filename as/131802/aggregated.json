@@ -3,7 +3,12 @@
   "handle": "NHLIFE",
   "description": "NongHyup Life Insurance",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "1.241.193.0/24",
+      "112.175.84.0/24",
+      "175.115.112.0/24",
+      "183.111.142.0/24"
+    ],
     "ipv6": []
   }
 }

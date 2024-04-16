@@ -3,7 +3,9 @@
   "handle": "BRICKAGENT",
   "description": "Eurobet Italia SRL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.90.116.0/22"
+    ],
     "ipv6": []
   }
 }

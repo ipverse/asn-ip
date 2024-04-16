@@ -3,7 +3,9 @@
   "handle": "D2I",
   "description": "Direct2Internet AB",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "94.126.220.0/22"
+    ],
     "ipv6": []
   }
 }

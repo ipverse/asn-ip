@@ -3,7 +3,9 @@
   "handle": "SET-LOBINET",
   "description": "M.R.M shpk",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.46.141.0/24"
+    ],
     "ipv6": []
   }
 }

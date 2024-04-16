@@ -3,7 +3,9 @@
   "handle": "IT",
   "description": "JSK IT Information Technologies",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.232.107.0/24"
+    ],
     "ipv6": []
   }
 }

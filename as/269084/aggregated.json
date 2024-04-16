@@ -3,7 +3,11 @@
   "handle": "GLOBAL-TECH-TELECOM",
   "description": "Global Tech Telecom Ltda - ME",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.179.120.0/22"
+    ],
+    "ipv6": [
+      "2804:5f38::/32"
+    ]
   }
 }

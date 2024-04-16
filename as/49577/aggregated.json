@@ -3,7 +3,10 @@
   "handle": "DISNET",
   "description": "PE Romankov Dmitry Vladimirovich",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.215.16.0/22",
+      "94.154.88.0/21"
+    ],
     "ipv6": []
   }
 }

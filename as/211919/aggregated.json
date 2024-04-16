@@ -3,7 +3,9 @@
   "handle": "EPSIGHT",
   "description": "EPSIGHT SAS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.235.79.0/24"
+    ],
     "ipv6": []
   }
 }

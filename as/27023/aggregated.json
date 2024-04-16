@@ -3,7 +3,9 @@
   "handle": "NTT-DATA-INC",
   "description": "NTT Data Inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "206.180.192.0/23"
+    ],
     "ipv6": []
   }
 }

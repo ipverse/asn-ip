@@ -3,7 +3,10 @@
   "handle": "GLI-CAR-DC1",
   "description": "Greyhound Lines, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "208.184.29.0/24",
+      "209.66.127.0/24"
+    ],
     "ipv6": []
   }
 }

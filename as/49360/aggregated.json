@@ -3,7 +3,11 @@
   "handle": "POSITIVO",
   "description": "POSITIVO SRL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "31.7.144.0/20",
+      "45.90.232.0/22",
+      "91.214.72.0/22"
+    ],
     "ipv6": []
   }
 }

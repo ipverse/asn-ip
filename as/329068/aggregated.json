@@ -3,7 +3,9 @@
   "handle": "BSL1",
   "description": "BET Software (Pty) Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "102.215.200.0/22"
+    ],
     "ipv6": []
   }
 }

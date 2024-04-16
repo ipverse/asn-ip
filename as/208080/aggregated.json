@@ -3,7 +3,10 @@
   "handle": "GE-TE",
   "description": "Tbilisi Energy LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.29.184.0/23",
+      "193.29.190.0/23"
+    ],
     "ipv6": []
   }
 }

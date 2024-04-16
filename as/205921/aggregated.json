@@ -3,7 +3,9 @@
   "handle": "I-VIA",
   "description": "I-via SARL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.202.24.0/22"
+    ],
     "ipv6": []
   }
 }

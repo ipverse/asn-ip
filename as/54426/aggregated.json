@@ -3,7 +3,9 @@
   "handle": "TOSA",
   "description": "Texas Organ Sharing Alliance",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "198.205.5.0/24"
+    ],
     "ipv6": []
   }
 }

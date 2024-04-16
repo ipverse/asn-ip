@@ -3,7 +3,9 @@
   "handle": "LOGANET",
   "description": "LOGANET SRL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.191.156.0/22"
+    ],
     "ipv6": []
   }
 }

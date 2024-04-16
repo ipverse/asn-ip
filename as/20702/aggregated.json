@@ -3,7 +3,9 @@
   "handle": "CSSMPS",
   "description": "JSC Russian Railways",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "217.175.128.0/19"
+    ],
     "ipv6": []
   }
 }

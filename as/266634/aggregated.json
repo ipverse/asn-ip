@@ -3,7 +3,9 @@
   "handle": "KLINK-TELECOMUNICAES-EIRELI",
   "description": "KLINK TELECOMUNICAES EIRELI ME",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "128.201.64.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "KINESCOPE",
   "description": "Kinescope LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.238.46.0/23"
+    ],
     "ipv6": []
   }
 }
