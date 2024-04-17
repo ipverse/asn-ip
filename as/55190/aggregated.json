@@ -3,7 +3,9 @@
   "handle": "BLUEFIN-BB",
   "description": "Bluefin Payment Systems LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "209.251.230.0/24"
+    ],
     "ipv6": []
   }
 }

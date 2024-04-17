@@ -4,7 +4,7 @@
   "description": "Subisu Cablenet",
   "subnets": {
     "ipv4": [
-      "110.34.16.0/24"
+      "110.34.16.0/23"
     ],
     "ipv6": []
   }

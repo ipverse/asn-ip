@@ -1,0 +1,11 @@
+{
+  "asn": 15414,
+  "handle": "SYSNET",
+  "description": "SYSNET P.C",
+  "subnets": {
+    "ipv4": [
+      "193.164.226.0/23"
+    ],
+    "ipv6": []
+  }
+}

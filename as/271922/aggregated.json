@@ -4,7 +4,8 @@
   "description": "LEIRIA HUGO LEANDRO (GEO FIBER)",
   "subnets": {
     "ipv4": [
-      "179.63.52.0/22"
+      "179.63.52.0/24",
+      "179.63.54.0/23"
     ],
     "ipv6": [
       "2803:df10::/32"

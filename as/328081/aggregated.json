@@ -3,7 +3,9 @@
   "handle": "HOLLATAGS",
   "description": "HollaTags Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "196.61.216.0/21"
+    ],
     "ipv6": []
   }
 }

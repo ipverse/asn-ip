@@ -1,9 +1,11 @@
 {
   "asn": 32470,
-  "handle": "RAZOR",
-  "description": "RazorLine L.L.C.",
+  "handle": "SYF-NET4",
+  "description": "Retail Financial Holdings",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "208.88.208.0/23"
+    ],
     "ipv6": []
   }
 }

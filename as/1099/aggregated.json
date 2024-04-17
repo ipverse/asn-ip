@@ -1,0 +1,11 @@
+{
+  "asn": 1099,
+  "handle": "WIFIBER-SPO-01",
+  "description": "WIFIBER",
+  "subnets": {
+    "ipv4": [
+      "67.217.250.0/24"
+    ],
+    "ipv6": []
+  }
+}

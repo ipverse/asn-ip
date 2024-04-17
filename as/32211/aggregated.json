@@ -1,9 +1,11 @@
 {
   "asn": 32211,
-  "handle": "VAULT-STPETE",
-  "description": "Vault Risk Management Services LLC",
+  "handle": "CLOUDSINGULARITY-US",
+  "description": "Tech Futures Interactive Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "23.190.64.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -1,0 +1,13 @@
+{
+  "asn": 271780,
+  "handle": "RADIO-TELEVISIN-NACIONAL",
+  "description": "RADIO TELEVISIN NACIONAL DE COLOMBIA RTVC",
+  "subnets": {
+    "ipv4": [
+      "45.233.4.0/22"
+    ],
+    "ipv6": [
+      "2801:174::/44"
+    ]
+  }
+}

@@ -3,7 +3,9 @@
   "handle": "TELECOM-MEDIA-SYSTEMS-JLLC",
   "description": "Telecom Media Systems JLLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "77.94.47.0/24"
+    ],
     "ipv6": []
   }
 }

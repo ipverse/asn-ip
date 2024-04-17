@@ -1,0 +1,11 @@
+{
+  "asn": 13441,
+  "handle": "SCOTIABANK",
+  "description": "Bank of Nova Scotia",
+  "subnets": {
+    "ipv4": [
+      "205.210.210.0/24"
+    ],
+    "ipv6": []
+  }
+}

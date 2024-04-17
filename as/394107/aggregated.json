@@ -1,9 +1,11 @@
 {
   "asn": 394107,
-  "handle": "VAISA-SEA-SIX",
-  "description": "Vaisala, Inc.",
+  "handle": "MOJAVE-COMMUNICATIONS",
+  "description": "Mojave Communications, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "206.85.28.0/22"
+    ],
     "ipv6": []
   }
 }

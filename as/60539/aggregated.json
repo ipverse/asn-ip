@@ -4,7 +4,8 @@
   "description": "Huicast Telecom Limited",
   "subnets": {
     "ipv4": [
-      "5.160.131.0/24"
+      "5.160.131.0/24",
+      "91.228.189.0/24"
     ],
     "ipv6": [
       "2a13:aac0::/29"
