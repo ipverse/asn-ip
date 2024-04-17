@@ -3,7 +3,9 @@
   "handle": "JSN",
   "description": "JetSet Networks",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "206.183.153.0/24"
+    ],
     "ipv6": [
       "2607:9b40::/32"
     ]

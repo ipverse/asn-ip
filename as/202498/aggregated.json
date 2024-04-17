@@ -4,6 +4,7 @@
   "description": "Tinkoff Mobile LLC",
   "subnets": {
     "ipv4": [
+      "178.130.143.0/24",
       "193.143.64.0/22"
     ],
     "ipv6": []

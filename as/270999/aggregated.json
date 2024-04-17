@@ -4,7 +4,7 @@
   "description": "INFONET RIO",
   "subnets": {
     "ipv4": [
-      "177.11.104.0/22"
+      "177.11.104.0/24"
     ],
     "ipv6": []
   }

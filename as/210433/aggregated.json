@@ -3,7 +3,9 @@
   "handle": "CNOM",
   "description": "ASS ORDRE NATIONAL DES MEDECINS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.81.200.0/22"
+    ],
     "ipv6": [
       "2a03:6260::/32"
     ]

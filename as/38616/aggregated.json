@@ -4,8 +4,7 @@
   "description": "Worldcall Multimedia Limited (WML)",
   "subnets": {
     "ipv4": [
-      "115.186.0.0/24",
-      "115.186.48.0/21"
+      "115.186.0.0/24"
     ],
     "ipv6": []
   }

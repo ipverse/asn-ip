@@ -4,6 +4,7 @@
   "description": "BGPNET PTE. LTD.",
   "subnets": {
     "ipv4": [
+      "103.40.9.0/24",
       "199.165.238.0/24"
     ],
     "ipv6": []

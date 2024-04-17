@@ -4,7 +4,8 @@
   "description": "Networks Wireless Telecom",
   "subnets": {
     "ipv4": [
-      "170.80.164.0/22",
+      "170.80.164.0/23",
+      "170.80.166.0/24",
       "177.125.60.0/22"
     ],
     "ipv6": [

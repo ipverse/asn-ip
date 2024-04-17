@@ -3,7 +3,9 @@
   "handle": "CONNFLEX",
   "description": "CONNFLEX SRL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.170.187.0/24"
+    ],
     "ipv6": [
       "2803:5ba0::/32"
     ]

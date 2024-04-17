@@ -4,7 +4,6 @@
   "description": "City of Richmond, Virginia",
   "subnets": {
     "ipv4": [
-      "50.234.45.0/24",
       "65.202.206.0/24"
     ],
     "ipv6": []

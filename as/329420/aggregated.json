@@ -1,0 +1,11 @@
+{
+  "asn": 329420,
+  "handle": "AZANIA-BANK",
+  "description": "Azania Bank Limited",
+  "subnets": {
+    "ipv4": [
+      "102.209.88.0/23"
+    ],
+    "ipv6": []
+  }
+}

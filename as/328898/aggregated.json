@@ -1,0 +1,11 @@
+{
+  "asn": 328898,
+  "handle": "ABDD",
+  "description": "Association Burkinabe des Domaines Internet (ABDI)",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2001:43fd:4000::/48"
+    ]
+  }
+}

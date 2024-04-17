@@ -4,7 +4,8 @@
   "description": "C H DA SILVA EIRELI - ME",
   "subnets": {
     "ipv4": [
-      "170.81.112.0/22"
+      "170.81.112.0/22",
+      "170.81.122.0/23"
     ],
     "ipv6": []
   }

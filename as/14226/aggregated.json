@@ -4,6 +4,7 @@
   "description": "Stifel Nicolaus and Company Incorporated",
   "subnets": {
     "ipv4": [
+      "63.122.89.0/24",
       "193.240.215.0/24",
       "213.68.255.0/24"
     ],
