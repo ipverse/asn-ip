@@ -4,6 +4,7 @@
   "description": "Infinite Campus, Incorporated",
   "subnets": {
     "ipv4": [
+      "198.73.100.0/22",
       "198.145.33.0/24"
     ],
     "ipv6": []

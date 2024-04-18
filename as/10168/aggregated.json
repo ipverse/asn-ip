@@ -3,7 +3,9 @@
   "handle": "NSKFB",
   "description": "Standard Chartered",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "58.120.36.0/24"
+    ],
     "ipv6": []
   }
 }

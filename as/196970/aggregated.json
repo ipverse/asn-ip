@@ -3,7 +3,9 @@
   "handle": "LNGTN",
   "description": "Langaton Hungary Kft",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.191.229.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -4,6 +4,7 @@
   "description": "Proton AG",
   "subnets": {
     "ipv4": [
+      "94.190.195.0/24",
       "104.234.212.0/24"
     ],
     "ipv6": []

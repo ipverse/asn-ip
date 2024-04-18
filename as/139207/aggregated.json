@@ -3,7 +3,9 @@
   "handle": "SERVERWORLD-AP",
   "description": "Serverworld",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "203.15.141.0/24"
+    ],
     "ipv6": []
   }
 }

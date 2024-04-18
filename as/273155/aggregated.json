@@ -1,0 +1,13 @@
+{
+  "asn": 273155,
+  "handle": "DATANET-VZLA-2021-CA",
+  "description": "DATANET VZLA 2021, C.A",
+  "subnets": {
+    "ipv4": [
+      "38.137.176.0/22"
+    ],
+    "ipv6": [
+      "2803:250::/32"
+    ]
+  }
+}

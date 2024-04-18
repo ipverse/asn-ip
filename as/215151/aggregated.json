@@ -1,0 +1,12 @@
+{
+  "asn": 215151,
+  "handle": "WIKIHOST-NET",
+  "description": "WIKIHOST Limited",
+  "subnets": {
+    "ipv4": [
+      "45.131.132.0/23",
+      "178.253.52.0/23"
+    ],
+    "ipv6": []
+  }
+}

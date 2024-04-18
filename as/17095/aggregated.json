@@ -1,0 +1,11 @@
+{
+  "asn": 17095,
+  "handle": "BUILDBUDDY-01",
+  "description": "BuildBuddy",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2620:c6:2000::/48"
+    ]
+  }
+}
