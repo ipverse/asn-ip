@@ -3,7 +3,9 @@
   "handle": "EMANUELHOSTING",
   "description": "Emanuel Hosting Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "79.110.62.0/24"
+    ],
     "ipv6": []
   }
 }

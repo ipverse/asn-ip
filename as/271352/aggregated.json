@@ -3,7 +3,11 @@
   "handle": "STARSAT-TELECOM-COMERCIO",
   "description": "Starsat Telecom Comercio e Servios LTDA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "181.232.168.0/22"
+    ],
+    "ipv6": [
+      "2804:7a2c::/32"
+    ]
   }
 }

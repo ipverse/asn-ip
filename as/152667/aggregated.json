@@ -1,0 +1,11 @@
+{
+  "asn": 152667,
+  "handle": "ADS-AP",
+  "description": "Anglican Diocesan Services",
+  "subnets": {
+    "ipv4": [
+      "202.27.205.0/24"
+    ],
+    "ipv6": []
+  }
+}

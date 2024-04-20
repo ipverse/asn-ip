@@ -3,9 +3,7 @@
   "handle": "URALTC",
   "description": "MTS PJSC",
   "subnets": {
-    "ipv4": [
-      "178.159.24.0/21"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2a03:db02::/32"
     ]

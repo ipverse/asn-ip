@@ -4,7 +4,8 @@
   "description": "The Ottawa Hospital",
   "subnets": {
     "ipv4": [
-      "204.187.32.0/21"
+      "204.187.32.0/21",
+      "206.130.80.0/24"
     ],
     "ipv6": []
   }

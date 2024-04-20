@@ -4,6 +4,7 @@
   "description": "Korea Insurance Development Instute",
   "subnets": {
     "ipv4": [
+      "61.107.27.0/24",
       "175.124.157.0/24"
     ],
     "ipv6": []

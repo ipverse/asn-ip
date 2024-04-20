@@ -3,7 +3,9 @@
   "handle": "CISD",
   "description": "Cleburne Independent School District",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "134.195.183.0/24"
+    ],
     "ipv6": []
   }
 }

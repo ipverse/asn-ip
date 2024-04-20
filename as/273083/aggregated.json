@@ -4,11 +4,6 @@
   "description": "SECRETARA DISTRITAL DE CULTURA, RECREACIN Y DEPORTE",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2801:1e5:15::/48",
-      "2801:1e5:17::/48",
-      "2801:1e5:23::/48",
-      "2801:1e5:27::/48"
-    ]
+    "ipv6": []
   }
 }

@@ -4,6 +4,7 @@
   "description": "SBA Connect, LLC",
   "subnets": {
     "ipv4": [
+      "199.96.84.0/24",
       "199.96.87.0/24"
     ],
     "ipv6": []

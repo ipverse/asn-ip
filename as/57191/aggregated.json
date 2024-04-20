@@ -4,10 +4,8 @@
   "description": "LLC IT Business",
   "subnets": {
     "ipv4": [
-      "185.103.132.0/22"
+      "185.103.133.0/24"
     ],
-    "ipv6": [
-      "2a0f:f6c0::/29"
-    ]
+    "ipv6": []
   }
 }
