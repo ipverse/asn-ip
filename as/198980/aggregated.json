@@ -4,6 +4,7 @@
   "description": "XuVM, LLC",
   "subnets": {
     "ipv4": [
+      "199.11.92.0/22",
       "199.11.140.0/24"
     ],
     "ipv6": [

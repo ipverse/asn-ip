@@ -4,6 +4,7 @@
   "description": "ConnectedAF Limited",
   "subnets": {
     "ipv4": [
+      "23.147.96.0/24",
       "161.188.240.0/22"
     ],
     "ipv6": []

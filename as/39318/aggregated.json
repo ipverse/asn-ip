@@ -4,7 +4,8 @@
   "description": "PS Internet Company LLP",
   "subnets": {
     "ipv4": [
-      "31.210.174.0/23"
+      "31.210.174.0/23",
+      "85.202.192.0/24"
     ],
     "ipv6": []
   }
