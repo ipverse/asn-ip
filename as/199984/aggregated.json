@@ -3,7 +3,9 @@
   "handle": "LOBI",
   "description": "Alastyr Telekomunikasyon A.S.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.150.129.0/24"
+    ],
     "ipv6": []
   }
 }

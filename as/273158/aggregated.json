@@ -1,0 +1,13 @@
+{
+  "asn": 273158,
+  "handle": "INTERSAT-DOMINICANA",
+  "description": "INTERSAT DOMINICANA SRL",
+  "subnets": {
+    "ipv4": [
+      "206.0.152.0/24"
+    ],
+    "ipv6": [
+      "2803:c250::/32"
+    ]
+  }
+}

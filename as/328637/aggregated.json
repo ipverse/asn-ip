@@ -3,7 +3,9 @@
   "handle": "TRAVELPORT-SERVICES",
   "description": "Travelport Services (Kenya) Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "102.223.84.0/22"
+    ],
     "ipv6": []
   }
 }

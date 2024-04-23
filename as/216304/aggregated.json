@@ -1,9 +1,11 @@
 {
   "asn": 216304,
-  "handle": "RESERVED",
-  "description": "RIPE NCC ASN block",
+  "handle": "YDIO",
+  "description": "Ydio LLC",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a06:9080::/29"
+    ]
   }
 }

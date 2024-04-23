@@ -1,9 +1,11 @@
 {
   "asn": 39334,
-  "handle": "EUROLIR-OU",
+  "handle": "CONSISTPRO",
   "description": "WEB-SERVICE UA LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "213.109.84.0/24"
+    ],
     "ipv6": []
   }
 }

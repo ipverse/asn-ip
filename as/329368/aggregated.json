@@ -1,0 +1,11 @@
+{
+  "asn": 329368,
+  "handle": "CALNET-FIBRE",
+  "description": "CALNET FIBRE (PTY) LTD",
+  "subnets": {
+    "ipv4": [
+      "102.210.128.0/22"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asn": 215071,
+  "handle": "SERVERSWITCH",
+  "description": "Server Switch Limited",
+  "subnets": {
+    "ipv4": [
+      "179.61.184.0/24"
+    ],
+    "ipv6": []
+  }
+}

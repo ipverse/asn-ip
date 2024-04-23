@@ -4,6 +4,7 @@
   "description": "Stichting Glaslokaal",
   "subnets": {
     "ipv4": [
+      "194.49.111.0/24",
       "194.49.116.0/24",
       "194.50.3.0/24"
     ],

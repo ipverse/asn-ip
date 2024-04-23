@@ -1,0 +1,11 @@
+{
+  "asn": 25016,
+  "handle": "MFA",
+  "description": "Utenriksdepartementet",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a02:20c8:9880::/48"
+    ]
+  }
+}

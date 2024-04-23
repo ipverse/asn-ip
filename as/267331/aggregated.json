@@ -4,7 +4,8 @@
   "description": "Onefibra Telecomunicaes Ltda",
   "subnets": {
     "ipv4": [
-      "45.233.240.0/23"
+      "45.233.240.0/23",
+      "45.233.243.0/24"
     ],
     "ipv6": []
   }
