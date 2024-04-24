@@ -3,7 +3,9 @@
   "handle": "NEXETLIMITED-AP",
   "description": "NEXET LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.172.81.0/24"
+    ],
     "ipv6": []
   }
 }

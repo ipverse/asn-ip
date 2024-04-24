@@ -3,7 +3,9 @@
   "handle": "BECKLAR-1",
   "description": "Becklar Holdings, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.184.240.0/24"
+    ],
     "ipv6": []
   }
 }

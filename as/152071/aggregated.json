@@ -1,0 +1,11 @@
+{
+  "asn": 152071,
+  "handle": "IDNIC-PACUNET-ID",
+  "description": "PT Jalur Net Infotek",
+  "subnets": {
+    "ipv4": [
+      "157.10.4.0/23"
+    ],
+    "ipv6": []
+  }
+}

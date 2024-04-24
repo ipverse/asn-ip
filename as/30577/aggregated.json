@@ -3,9 +3,7 @@
   "handle": "CITY-OF-BELLEVUE",
   "description": "City of Bellevue IT Dept",
   "subnets": {
-    "ipv4": [
-      "174.127.160.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

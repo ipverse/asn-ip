@@ -4,8 +4,6 @@
   "description": "Otaku Limited",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2406:840:fefa::/48"
-    ]
+    "ipv6": []
   }
 }

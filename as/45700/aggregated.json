@@ -4,6 +4,7 @@
   "description": "PT. NAP Info Lintas Nusa",
   "subnets": {
     "ipv4": [
+      "119.11.204.0/23",
       "202.125.100.0/23"
     ],
     "ipv6": []

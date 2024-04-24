@@ -3,7 +3,9 @@
   "handle": "IN-QUALITY-TELECOMUNICATIONS",
   "description": "IN QUALITY TELECOMUNICATIONS S.A.S. ZOMAC BIC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "204.157.146.0/23"
+    ],
     "ipv6": []
   }
 }

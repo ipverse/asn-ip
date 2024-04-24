@@ -3,7 +3,9 @@
   "handle": "KOKONET-BGP",
   "description": "Kokonet Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "196.1.124.0/24"
+    ],
     "ipv6": []
   }
 }

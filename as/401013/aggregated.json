@@ -1,0 +1,11 @@
+{
+  "asn": 401013,
+  "handle": "BNET",
+  "description": "BNET",
+  "subnets": {
+    "ipv4": [
+      "198.52.243.0/24"
+    ],
+    "ipv6": []
+  }
+}

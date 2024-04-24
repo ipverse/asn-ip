@@ -4,7 +4,8 @@
   "description": "FREQUENTIS COMSOFT GmbH",
   "subnets": {
     "ipv4": [
-      "91.221.120.0/24"
+      "91.220.159.0/24",
+      "91.221.120.0/23"
     ],
     "ipv6": []
   }

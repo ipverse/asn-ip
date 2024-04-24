@@ -1,0 +1,11 @@
+{
+  "asn": 400944,
+  "handle": "POPUP-WIFI",
+  "description": "PopUp WiFi LLC",
+  "subnets": {
+    "ipv4": [
+      "104.234.137.0/24"
+    ],
+    "ipv6": []
+  }
+}

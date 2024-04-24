@@ -1,0 +1,11 @@
+{
+  "asn": 401000,
+  "handle": "BYTENAP-NETWORKS",
+  "description": "ByteNAP Networks LLC",
+  "subnets": {
+    "ipv4": [
+      "181.214.44.0/24"
+    ],
+    "ipv6": []
+  }
+}
