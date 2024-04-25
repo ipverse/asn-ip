@@ -3,7 +3,9 @@
   "handle": "MALINA",
   "description": "LLC KYUD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.206.204.0/22"
+    ],
     "ipv6": []
   }
 }

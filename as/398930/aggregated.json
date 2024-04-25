@@ -4,8 +4,6 @@
   "description": "Eastern Time Inc",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2605:fd40::/32"
-    ]
+    "ipv6": []
   }
 }

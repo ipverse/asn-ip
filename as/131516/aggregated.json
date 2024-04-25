@@ -3,7 +3,9 @@
   "handle": "JHWA",
   "description": "Jinhua Weian InfoTech Co., Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "116.196.128.0/19"
+    ],
     "ipv6": []
   }
 }

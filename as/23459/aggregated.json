@@ -1,0 +1,11 @@
+{
+  "asn": 23459,
+  "handle": "APPLEBEE-NETWORKS",
+  "description": "applebee",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2602:f90f::/40"
+    ]
+  }
+}

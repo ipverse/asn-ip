@@ -4,7 +4,8 @@
   "description": "Server Switch Limited",
   "subnets": {
     "ipv4": [
-      "179.61.184.0/24"
+      "179.61.184.0/24",
+      "181.214.213.0/24"
     ],
     "ipv6": []
   }

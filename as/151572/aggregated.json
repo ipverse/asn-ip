@@ -1,0 +1,11 @@
+{
+  "asn": 151572,
+  "handle": "IDNIC-EVO-ID",
+  "description": "PT Evolution Karya Lintas Data",
+  "subnets": {
+    "ipv4": [
+      "103.60.88.0/23"
+    ],
+    "ipv6": []
+  }
+}

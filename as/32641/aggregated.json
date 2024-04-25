@@ -4,9 +4,7 @@
   "description": "PTGi International Carrier Services, Inc.",
   "subnets": {
     "ipv4": [
-      "204.8.100.0/24",
-      "204.8.108.0/24",
-      "216.181.102.0/24"
+      "204.8.100.0/24"
     ],
     "ipv6": []
   }

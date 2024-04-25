@@ -3,7 +3,9 @@
   "handle": "TELECOMUNICACIONES-HOSTINGNET-SPA",
   "description": "TELECOMUNICACIONES HOSTINGNET SpA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "187.49.9.0/24"
+    ],
     "ipv6": []
   }
 }

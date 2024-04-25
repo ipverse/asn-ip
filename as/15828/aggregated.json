@@ -3,7 +3,9 @@
   "handle": "SPACESHIPNETWORKS",
   "description": "Robat Blue Diamond Network Co., Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "80.244.11.0/24"
+    ],
     "ipv6": []
   }
 }

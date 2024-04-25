@@ -3,7 +3,10 @@
   "handle": "BANGLANET-BD",
   "description": "Banglanet",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.248.236.0/24",
+      "103.248.238.0/24"
+    ],
     "ipv6": []
   }
 }

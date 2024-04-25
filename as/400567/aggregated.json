@@ -3,7 +3,9 @@
   "handle": "CHRISTIAN-CARE-MINISTRIES",
   "description": "Christian Care Ministries, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "8.34.18.0/24"
+    ],
     "ipv6": [
       "2602:80f:5001::/48",
       "2602:80f:5003::/48",

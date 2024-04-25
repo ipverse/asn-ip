@@ -1,0 +1,11 @@
+{
+  "asn": 36061,
+  "handle": "WATERLOO-01",
+  "description": "Waterloo Fiber",
+  "subnets": {
+    "ipv4": [
+      "170.62.164.0/22"
+    ],
+    "ipv6": []
+  }
+}
