@@ -1,9 +1,17 @@
 {
   "asn": 46484,
-  "handle": "MFENET",
-  "description": "McAfee, LLC",
+  "handle": "TRELLIXANY",
+  "description": "Trellix",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "38.109.230.0/23",
+      "161.69.24.0/21",
+      "161.69.38.0/23",
+      "161.69.136.0/21",
+      "208.69.155.0/24"
+    ],
+    "ipv6": [
+      "2607:8d40:40::/44"
+    ]
   }
 }

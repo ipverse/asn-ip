@@ -3,7 +3,9 @@
   "handle": "RAOULBROUNS",
   "description": "Raoul Brouns",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.28.228.0/24"
+    ],
     "ipv6": [
       "2001:67c:e3c::/48",
       "2a10:ccc0:140::/47",

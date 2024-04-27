@@ -4,9 +4,7 @@
   "description": "Universitatea Bucuresti",
   "subnets": {
     "ipv4": [
-      "80.96.21.0/24",
-      "193.231.1.0/24",
-      "193.231.10.0/24"
+      "80.96.21.0/24"
     ],
     "ipv6": []
   }

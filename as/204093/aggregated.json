@@ -1,0 +1,11 @@
+{
+  "asn": 204093,
+  "handle": "WIITGROUP",
+  "description": "WIIT AG",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a0a:db80::/29"
+    ]
+  }
+}

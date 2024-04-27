@@ -4,7 +4,6 @@
   "description": "Luzerne County",
   "subnets": {
     "ipv4": [
-      "50.32.56.0/24",
       "209.50.145.0/24"
     ],
     "ipv6": []

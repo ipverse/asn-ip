@@ -4,7 +4,8 @@
   "description": "secunet Security Networks AG",
   "subnets": {
     "ipv4": [
-      "45.67.76.0/22"
+      "45.67.76.0/23",
+      "45.67.79.0/24"
     ],
     "ipv6": [
       "2a07:3c80::/40",

@@ -3,7 +3,11 @@
   "handle": "ELETRONIC-SPORT-S",
   "description": "ELETRONIC SPORT S BRASILIA LTD ME",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "201.77.144.0/22"
+    ],
+    "ipv6": [
+      "2804:6a10::/32"
+    ]
   }
 }

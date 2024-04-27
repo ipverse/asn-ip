@@ -3,9 +3,7 @@
   "handle": "SWRI-BLDR",
   "description": "Southwest Research Institute",
   "subnets": {
-    "ipv4": [
-      "50.169.225.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

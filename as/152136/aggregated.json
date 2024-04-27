@@ -1,0 +1,11 @@
+{
+  "asn": 152136,
+  "handle": "HKIS-AP",
+  "description": "Hong Kong International School",
+  "subnets": {
+    "ipv4": [
+      "202.40.134.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -4,7 +4,6 @@
   "description": "The Ministry of Agriculture of the Czech Republic",
   "subnets": {
     "ipv4": [
-      "185.149.184.0/24",
       "185.149.186.0/24"
     ],
     "ipv6": [

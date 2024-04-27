@@ -1,0 +1,11 @@
+{
+  "asn": 152716,
+  "handle": "MBDCONNECTION-AP",
+  "description": "MBD Connection",
+  "subnets": {
+    "ipv4": [
+      "103.43.94.0/23"
+    ],
+    "ipv6": []
+  }
+}

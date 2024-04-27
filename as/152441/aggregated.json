@@ -1,0 +1,11 @@
+{
+  "asn": 152441,
+  "handle": "IDNIC-SNM-ID",
+  "description": "PT Space Network Mediatama",
+  "subnets": {
+    "ipv4": [
+      "157.66.18.0/23"
+    ],
+    "ipv6": []
+  }
+}

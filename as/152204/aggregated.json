@@ -1,0 +1,12 @@
+{
+  "asn": 152204,
+  "handle": "JWGROUP",
+  "description": "JW Holdings",
+  "subnets": {
+    "ipv4": [
+      "14.50.70.0/23",
+      "14.50.72.0/24"
+    ],
+    "ipv6": []
+  }
+}
