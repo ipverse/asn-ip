@@ -1,11 +1,9 @@
 {
   "asn": 215549,
-  "handle": "TUBYTE",
+  "handle": "TUBYTE-IX",
   "description": "TUBYTE TECHNOLOGIES LLC",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2a13:df80:8f00::/47"
-    ]
+    "ipv6": []
   }
 }

@@ -4,7 +4,8 @@
   "description": "ATEB TECHNOLOGIES LIMITED",
   "subnets": {
     "ipv4": [
-      "102.214.46.0/23"
+      "102.214.46.0/23",
+      "102.214.54.0/23"
     ],
     "ipv6": []
   }

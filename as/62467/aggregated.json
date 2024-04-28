@@ -1,9 +1,11 @@
 {
   "asn": 62467,
-  "handle": "TXNET",
+  "handle": "TXNET-COMMUNICATIONS",
   "description": "TXNet Communications LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "204.197.168.0/23"
+    ],
     "ipv6": []
   }
 }

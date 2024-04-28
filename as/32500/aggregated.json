@@ -1,0 +1,11 @@
+{
+  "asn": 32500,
+  "handle": "VESTA",
+  "description": "Airbus DS Communications Inc",
+  "subnets": {
+    "ipv4": [
+      "75.108.206.0/24"
+    ],
+    "ipv6": []
+  }
+}
