@@ -1,0 +1,11 @@
+{
+  "asn": 53808,
+  "handle": "MOEDOVE",
+  "description": "MoeDove",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2602:f92a::/36"
+    ]
+  }
+}

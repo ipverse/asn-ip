@@ -4,8 +4,7 @@
   "description": "JOAO ROGERIO LEONARDO EIRELIME",
   "subnets": {
     "ipv4": [
-      "45.177.241.0/24",
-      "45.177.242.0/23"
+      "45.177.240.0/22"
     ],
     "ipv6": [
       "2804:5eb0::/32"

@@ -3,7 +3,9 @@
   "handle": "AS48678",
   "description": "PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "188.132.226.0/24"
+    ],
     "ipv6": []
   }
 }

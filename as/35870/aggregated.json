@@ -4,8 +4,6 @@
   "description": "Nametag",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2602:fac0::/40"
-    ]
+    "ipv6": []
   }
 }

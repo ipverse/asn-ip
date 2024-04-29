@@ -4,7 +4,8 @@
   "description": "Sergio Vellisca Martinez",
   "subnets": {
     "ipv4": [
-      "176.97.212.0/24"
+      "176.97.212.0/24",
+      "188.93.138.0/24"
     ],
     "ipv6": []
   }
