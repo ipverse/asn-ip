@@ -4,6 +4,7 @@
   "description": "AIR LINK COMMUNICATIONS",
   "subnets": {
     "ipv4": [
+      "45.234.164.0/22",
       "131.72.76.0/22"
     ],
     "ipv6": [

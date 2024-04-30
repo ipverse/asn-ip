@@ -1,9 +1,11 @@
 {
   "asn": 139702,
-  "handle": "PEU-AP",
-  "description": "Peu Enterprise",
+  "handle": "CIBTH1-AP",
+  "description": "Central Investigation Bureau",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "202.124.200.0/23"
+    ],
     "ipv6": []
   }
 }

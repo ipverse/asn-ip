@@ -1,11 +1,9 @@
 {
   "asn": 199984,
-  "handle": "LOBI",
+  "handle": "BLRM",
   "description": "Alastyr Telekomunikasyon A.S.",
   "subnets": {
-    "ipv4": [
-      "185.150.129.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

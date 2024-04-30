@@ -1,0 +1,11 @@
+{
+  "asn": 273178,
+  "handle": "REDBANC",
+  "description": "Redbanc SA",
+  "subnets": {
+    "ipv4": [
+      "200.27.191.0/24"
+    ],
+    "ipv6": []
+  }
+}

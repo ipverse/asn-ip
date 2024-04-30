@@ -3,8 +3,11 @@
   "handle": "NETIFACE",
   "description": "Netiface Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "23.176.184.0/24"
+    ],
     "ipv6": [
+      "2602:f915::/40",
       "2a14:7c0:b00b::/48",
       "2a14:7c1:b00b::/48",
       "2a14:7c7::/32"
