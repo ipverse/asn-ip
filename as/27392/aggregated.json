@@ -1,0 +1,11 @@
+{
+  "asn": 27392,
+  "handle": "639-DATACENTERS",
+  "description": "639 DC Main LLC",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2602:f92c:1::/48"
+    ]
+  }
+}

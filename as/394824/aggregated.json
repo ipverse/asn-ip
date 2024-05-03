@@ -4,6 +4,7 @@
   "description": "Christian Brothers University",
   "subnets": {
     "ipv4": [
+      "50.146.225.0/24",
       "216.30.24.0/21"
     ],
     "ipv6": []

@@ -3,7 +3,9 @@
   "handle": "CLOUDWISH",
   "description": "CloudWish LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "104.128.231.0/24"
+    ],
     "ipv6": []
   }
 }

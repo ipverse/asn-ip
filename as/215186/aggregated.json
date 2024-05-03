@@ -4,6 +4,7 @@
   "description": "Premiere S.R.L.S.",
   "subnets": {
     "ipv4": [
+      "31.12.73.0/24",
       "212.38.83.0/24"
     ],
     "ipv6": [

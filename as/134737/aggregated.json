@@ -4,10 +4,8 @@
   "description": "Net-Cloud Telecom Private Limited",
   "subnets": {
     "ipv4": [
-      "103.149.9.0/24"
+      "103.149.8.0/23"
     ],
-    "ipv6": [
-      "2001:df4:6580::/48"
-    ]
+    "ipv6": []
   }
 }

@@ -1,9 +1,13 @@
 {
   "asn": 36858,
-  "handle": "DELEX",
-  "description": "Delex Systems Inc",
+  "handle": "NMSTN",
+  "description": "Office of Broadband Access and Expansion",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "23.172.184.0/24"
+    ],
+    "ipv6": [
+      "2607:75c0::/32"
+    ]
   }
 }

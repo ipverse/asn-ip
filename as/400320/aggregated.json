@@ -3,12 +3,7 @@
   "handle": "VC-WIRELESS",
   "description": "Valley Center Wireless",
   "subnets": {
-    "ipv4": [
-      "23.178.144.0/24",
-      "70.234.0.0/22",
-      "76.194.190.0/23",
-      "206.171.210.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

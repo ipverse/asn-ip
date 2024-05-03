@@ -4,7 +4,8 @@
   "description": "I-CONECTA REDES DE TELECOMUNICACAO EIRELI EPP",
   "subnets": {
     "ipv4": [
-      "186.194.32.0/19",
+      "186.194.32.0/20",
+      "186.194.56.0/21",
       "189.127.48.0/20"
     ],
     "ipv6": []

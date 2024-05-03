@@ -1,0 +1,13 @@
+{
+  "asn": 151842,
+  "handle": "RDBCGPTYLTD-AP",
+  "description": "One Click Media",
+  "subnets": {
+    "ipv4": [
+      "103.224.72.0/24"
+    ],
+    "ipv6": [
+      "2001:df2:fdc0::/48"
+    ]
+  }
+}

@@ -4,7 +4,8 @@
   "description": "Ministry of Justice",
   "subnets": {
     "ipv4": [
-      "116.66.240.0/23"
+      "116.66.240.0/23",
+      "116.66.243.0/24"
     ],
     "ipv6": []
   }

@@ -3,7 +3,9 @@
   "handle": "AMTECH-BUSINESS",
   "description": "AMTECH BUSINESS SOLUTIONS.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "104.234.157.0/24"
+    ],
     "ipv6": []
   }
 }

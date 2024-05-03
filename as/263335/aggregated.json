@@ -4,6 +4,7 @@
   "description": "Alternativa Telecom",
   "subnets": {
     "ipv4": [
+      "45.177.172.0/22",
       "191.36.136.0/21"
     ],
     "ipv6": [

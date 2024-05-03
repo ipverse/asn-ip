@@ -1,0 +1,11 @@
+{
+  "asn": 140016,
+  "handle": "IDNIC-TRIKMEDIADATA-ID",
+  "description": "PT Trik media Data",
+  "subnets": {
+    "ipv4": [
+      "157.66.36.0/24"
+    ],
+    "ipv6": []
+  }
+}

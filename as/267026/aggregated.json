@@ -4,6 +4,7 @@
   "description": "BLTV COMUNICACOES LTDA - ME",
   "subnets": {
     "ipv4": [
+      "38.196.238.0/24",
       "45.226.236.0/22"
     ],
     "ipv6": [

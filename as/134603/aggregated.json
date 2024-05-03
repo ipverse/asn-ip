@@ -1,0 +1,11 @@
+{
+  "asn": 134603,
+  "handle": "MAHDIINTERNET-AP",
+  "description": "Mahdi Internet",
+  "subnets": {
+    "ipv4": [
+      "103.20.110.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asn": 273511,
+  "handle": "SALDANHANET-TELECOM",
+  "description": "Saldanha.Net Telecom",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2804:8fc8::/32"
+    ]
+  }
+}

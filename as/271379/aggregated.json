@@ -4,10 +4,8 @@
   "description": "MAIQUEL HENRIQUE DA SILVA E CIA LTDA - ME",
   "subnets": {
     "ipv4": [
-      "181.232.152.0/22"
+      "181.232.155.0/24"
     ],
-    "ipv6": [
-      "2804:7a90::/32"
-    ]
+    "ipv6": []
   }
 }

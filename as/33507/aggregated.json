@@ -1,0 +1,11 @@
+{
+  "asn": 33507,
+  "handle": "NTS-LASCRUCES-01",
+  "description": "Vexus Fiber",
+  "subnets": {
+    "ipv4": [
+      "38.158.128.0/22"
+    ],
+    "ipv6": []
+  }
+}

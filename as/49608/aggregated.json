@@ -4,7 +4,8 @@
   "description": "CoChen Technology LTD.",
   "subnets": {
     "ipv4": [
-      "185.233.166.0/24"
+      "185.233.166.0/24",
+      "188.93.138.0/24"
     ],
     "ipv6": []
   }

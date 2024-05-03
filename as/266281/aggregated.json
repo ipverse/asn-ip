@@ -3,7 +3,9 @@
   "handle": "PICCININ-COMPUTADORES-TELEFONIA",
   "description": "Piccinin Computadores e Telefonia Ltda",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "170.79.68.0/22"
+    ],
     "ipv6": []
   }
 }

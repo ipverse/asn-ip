@@ -1,0 +1,11 @@
+{
+  "asn": 150409,
+  "handle": "ENTITY-AP",
+  "description": "Entity Communications Limited",
+  "subnets": {
+    "ipv4": [
+      "202.50.122.0/24"
+    ],
+    "ipv6": []
+  }
+}

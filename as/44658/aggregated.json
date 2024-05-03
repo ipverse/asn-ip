@@ -3,7 +3,9 @@
   "handle": "CRAB",
   "description": "Crab Technologies, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "23.169.88.0/24"
+    ],
     "ipv6": [
       "2602:f9a6:5::/48"
     ]

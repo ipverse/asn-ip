@@ -4,6 +4,7 @@
   "description": "PT Industri Kreatif Digital",
   "subnets": {
     "ipv4": [
+      "31.6.14.0/24",
       "45.66.153.0/24",
       "45.149.187.0/24",
       "98.142.245.0/24",
