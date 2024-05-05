@@ -3,7 +3,9 @@
   "handle": "AUDIBEL-TELECOMUNICACIONES",
   "description": "AUDIBEL TELECOMUNICACIONES S.A.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "181.232.236.0/22"
+    ],
     "ipv6": []
   }
 }

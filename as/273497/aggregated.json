@@ -1,0 +1,13 @@
+{
+  "asn": 273497,
+  "handle": "ULTRA-FIBRA-BARREIRA",
+  "description": "ULTRA FIBRA BARREIRA GRANDE LTDA",
+  "subnets": {
+    "ipv4": [
+      "38.156.242.0/23"
+    ],
+    "ipv6": [
+      "2804:8f8c::/32"
+    ]
+  }
+}

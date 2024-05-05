@@ -3,7 +3,9 @@
   "handle": "BRUDDA-NETWORKS",
   "description": "Brudda Networks LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "198.147.247.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -4,7 +4,6 @@
   "description": "hallo, Nederland B.V.",
   "subnets": {
     "ipv4": [
-      "185.62.208.0/23",
       "185.62.211.0/24"
     ],
     "ipv6": [
