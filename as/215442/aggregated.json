@@ -3,7 +3,9 @@
   "handle": "NEVELTECH",
   "description": "Al-marhalla Al-taliya Information Technology Holding Company Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.76.134.0/24"
+    ],
     "ipv6": []
   }
 }

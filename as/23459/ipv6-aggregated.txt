@@ -1,4 +1,6 @@
 # AS23459 (APPLEBEE-NETWORKS)
 # applebee
 #
-2602:f90f::/40
+2602:f90f::/48
+2602:f90f:2::/48
+2602:f90f:fc::/46

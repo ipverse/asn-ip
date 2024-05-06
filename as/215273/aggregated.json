@@ -1,0 +1,11 @@
+{
+  "asn": 215273,
+  "handle": "HEXABYTE",
+  "description": "Hexabyte AB",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a14:2640::/29"
+    ]
+  }
+}

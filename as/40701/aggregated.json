@@ -1,9 +1,12 @@
 {
   "asn": 40701,
-  "handle": "PORTLAND-OR-WTC1-1200-ATLAS",
-  "description": "RUBICON WEST, LLC",
+  "handle": "GND-DC",
+  "description": "Government of Grenada",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2602:f965:10::/48",
+      "2602:f965:20::/48"
+    ]
   }
 }

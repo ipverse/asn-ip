@@ -4,6 +4,7 @@
   "description": "Electronic Transaction Consultants Corporation",
   "subnets": {
     "ipv4": [
+      "162.217.162.0/24",
       "199.244.249.0/24"
     ],
     "ipv6": []
