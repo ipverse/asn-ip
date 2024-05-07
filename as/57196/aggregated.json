@@ -4,6 +4,7 @@
   "description": "Clonoth OU",
   "subnets": {
     "ipv4": [
+      "193.32.100.0/24",
       "194.104.152.0/24"
     ],
     "ipv6": [

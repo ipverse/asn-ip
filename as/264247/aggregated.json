@@ -3,9 +3,7 @@
   "handle": "MAILA-NETWORKS",
   "description": "Maila Networks",
   "subnets": {
-    "ipv4": [
-      "138.118.35.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

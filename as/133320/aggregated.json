@@ -4,7 +4,8 @@
   "description": "Alpha InfoLab Private Limited",
   "subnets": {
     "ipv4": [
-      "45.118.9.0/24"
+      "45.118.9.0/24",
+      "103.237.113.0/24"
     ],
     "ipv6": []
   }

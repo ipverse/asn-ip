@@ -4,6 +4,7 @@
   "description": "Ferguson Enterprises, LLC",
   "subnets": {
     "ipv4": [
+      "8.45.113.0/24",
       "65.207.58.0/24",
       "67.208.158.0/23",
       "89.207.165.0/24",

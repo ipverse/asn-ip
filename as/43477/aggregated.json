@@ -4,6 +4,7 @@
   "description": "WIR Bank Genossenschaft",
   "subnets": {
     "ipv4": [
+      "91.198.173.0/24",
       "194.191.17.0/24"
     ],
     "ipv6": []

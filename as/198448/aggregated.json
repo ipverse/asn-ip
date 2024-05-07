@@ -3,7 +3,9 @@
   "handle": "LUNEOCLOUD",
   "description": "LUNEOCLOUD SAS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "181.41.196.0/24"
+    ],
     "ipv6": []
   }
 }

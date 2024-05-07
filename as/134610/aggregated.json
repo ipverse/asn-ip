@@ -4,6 +4,7 @@
   "description": "McKinsey \u0026 Company",
   "subnets": {
     "ipv4": [
+      "156.107.46.0/24",
       "156.107.172.0/22"
     ],
     "ipv6": []

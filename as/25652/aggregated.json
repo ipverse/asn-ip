@@ -4,8 +4,7 @@
   "description": "InRoads Federal Credit Union",
   "subnets": {
     "ipv4": [
-      "50.217.197.0/24",
-      "63.159.141.0/24"
+      "50.217.197.0/24"
     ],
     "ipv6": []
   }
