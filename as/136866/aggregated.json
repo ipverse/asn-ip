@@ -3,7 +3,9 @@
   "handle": "IDNIC-ISI-SKA-ID",
   "description": "Institut Seni Indonesia Surakarta",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.104.177.0/24"
+    ],
     "ipv6": []
   }
 }

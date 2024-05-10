@@ -4,6 +4,9 @@
   "description": "Internet Tool \u0026 Die Company",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2806:370:3420::/43",
+      "2806:370:3440::/42"
+    ]
   }
 }

@@ -3,7 +3,9 @@
   "handle": "BACKBONE-GUANGDONG-AP",
   "description": "China Telecom(Group)",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "14.22.64.0/23"
+    ],
     "ipv6": []
   }
 }

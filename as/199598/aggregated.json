@@ -3,10 +3,7 @@
   "handle": "ASFBL",
   "description": "Fiberlink LLC",
   "subnets": {
-    "ipv4": [
-      "207.70.192.0/19",
-      "216.93.96.0/19"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

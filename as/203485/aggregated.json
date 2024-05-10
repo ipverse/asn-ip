@@ -3,7 +3,9 @@
   "handle": "ENTRAINCITTA",
   "description": "Noinet Societa Cooperativa",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.133.92.0/22"
+    ],
     "ipv6": [
       "2a05:40::/29"
     ]

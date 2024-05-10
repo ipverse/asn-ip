@@ -4,7 +4,8 @@
   "description": "Alfacom telecomunies e multimidia LTDA",
   "subnets": {
     "ipv4": [
-      "200.150.244.0/22"
+      "200.150.245.0/24",
+      "200.150.246.0/24"
     ],
     "ipv6": [
       "2804:8054:1000::/40",
