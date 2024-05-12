@@ -3,7 +3,9 @@
   "handle": "ROSERO-MARCELO-JORGE",
   "description": "ROSERO MARCELO JORGE MAXIMILIANO",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.160.202.0/24"
+    ],
     "ipv6": []
   }
 }

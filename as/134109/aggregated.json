@@ -3,7 +3,11 @@
   "handle": "IHIPL-AP",
   "description": "IMS Health India Pvt Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "162.44.197.0/24",
+      "162.44.201.0/24",
+      "162.44.230.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -1,0 +1,12 @@
+{
+  "asn": 137920,
+  "handle": "SGNZL-AP",
+  "description": "Suncorp Group New Zealand Ltd",
+  "subnets": {
+    "ipv4": [
+      "103.173.34.0/23",
+      "202.47.81.0/24"
+    ],
+    "ipv6": []
+  }
+}

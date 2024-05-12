@@ -3,11 +3,7 @@
   "handle": "CONSTANTMOULIN",
   "description": "Constant MOULIN",
   "subnets": {
-    "ipv4": [
-      "87.121.105.0/24",
-      "193.222.96.0/24",
-      "194.48.251.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }
