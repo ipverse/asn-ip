@@ -1,0 +1,13 @@
+{
+  "asn": 400992,
+  "handle": "ZHOUYISAT-COMMUNICATIONS",
+  "description": "ZhouyiSat Communications",
+  "subnets": {
+    "ipv4": [
+      "23.177.184.0/24"
+    ],
+    "ipv6": [
+      "2602:f909::/40"
+    ]
+  }
+}

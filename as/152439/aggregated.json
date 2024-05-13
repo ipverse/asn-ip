@@ -3,9 +3,7 @@
   "handle": "IDNIC-APPLEWIFI-ID",
   "description": "PT Applewifi Selalu Lancar",
   "subnets": {
-    "ipv4": [
-      "157.20.233.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

@@ -3,7 +3,11 @@
   "handle": "RAPIDA-TELECOM",
   "description": "RAPIDA TELECOM",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "164.163.200.0/22"
+    ],
+    "ipv6": [
+      "2804:40a4::/32"
+    ]
   }
 }

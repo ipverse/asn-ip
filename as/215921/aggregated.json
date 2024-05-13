@@ -3,7 +3,9 @@
   "handle": "PLANETRAFFI",
   "description": "PLANET RAFFI LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.28.188.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "IDNIC-JELAJAHID-ID",
   "description": "PT Jelajah Kreasi Informatika",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.99.136.0/23"
+    ],
     "ipv6": []
   }
 }

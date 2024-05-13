@@ -3,7 +3,10 @@
   "handle": "MEJIRONETWORK",
   "description": "Mejiro Network Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.146.242.0/23",
+      "45.148.133.0/24"
+    ],
     "ipv6": []
   }
 }
