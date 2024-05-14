@@ -4,7 +4,8 @@
   "description": "EURO PROTECTION SURVEILLANCE SAS",
   "subnets": {
     "ipv4": [
-      "83.206.66.0/24"
+      "83.206.66.0/24",
+      "145.226.103.0/24"
     ],
     "ipv6": []
   }

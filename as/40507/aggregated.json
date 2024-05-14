@@ -3,11 +3,7 @@
   "handle": "VIRTUALIZED",
   "description": "GameServerSupply, LLC",
   "subnets": {
-    "ipv4": [
-      "23.173.168.0/24"
-    ],
-    "ipv6": [
-      "2602:f949::/40"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

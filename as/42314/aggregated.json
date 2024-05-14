@@ -3,7 +3,10 @@
   "handle": "FUSION",
   "description": "Fusion Internet Services Company LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "85.114.96.0/24",
+      "85.114.106.0/24"
+    ],
     "ipv6": []
   }
 }

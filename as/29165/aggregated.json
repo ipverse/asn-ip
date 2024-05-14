@@ -4,6 +4,7 @@
   "description": "Aridor Communications Ltd",
   "subnets": {
     "ipv4": [
+      "62.56.252.0/22",
       "81.199.116.0/23",
       "81.199.120.0/22",
       "81.199.250.0/23",

@@ -1,0 +1,13 @@
+{
+  "asn": 215599,
+  "handle": "ZKILLU",
+  "description": "Zkillu SAS",
+  "subnets": {
+    "ipv4": [
+      "147.79.5.0/24"
+    ],
+    "ipv6": [
+      "2a10:4646:410::/44"
+    ]
+  }
+}

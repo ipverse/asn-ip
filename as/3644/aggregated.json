@@ -3,7 +3,9 @@
   "handle": "SPR-VPN",
   "description": "Sprint",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "144.232.35.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -4,6 +4,7 @@
   "description": "IP Matrix, S.A. de C.V.",
   "subnets": {
     "ipv4": [
+      "148.230.7.0/24",
       "189.201.128.0/18"
     ],
     "ipv6": [

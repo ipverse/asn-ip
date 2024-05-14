@@ -1,0 +1,11 @@
+{
+  "asn": 215770,
+  "handle": "TRANSNETBW",
+  "description": "TransnetBW GmbH",
+  "subnets": {
+    "ipv4": [
+      "91.238.217.0/24"
+    ],
+    "ipv6": []
+  }
+}

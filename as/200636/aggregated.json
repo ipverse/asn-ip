@@ -3,7 +3,9 @@
   "handle": "PARAVIRT",
   "description": "Paravirt LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "81.31.231.0/24"
+    ],
     "ipv6": []
   }
 }
