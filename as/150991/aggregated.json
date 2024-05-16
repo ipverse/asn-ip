@@ -3,7 +3,9 @@
   "handle": "IDNIC-INDOWIPI-ID",
   "description": "PT Indowipi Global Network",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.252.48.0/24"
+    ],
     "ipv6": []
   }
 }

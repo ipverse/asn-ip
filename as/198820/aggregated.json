@@ -3,7 +3,11 @@
   "handle": "RADIONETWORK",
   "description": "Limited Liability Company Radio Network",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.231.40.0/22",
+      "176.118.48.0/21",
+      "193.19.252.0/22"
+    ],
     "ipv6": []
   }
 }

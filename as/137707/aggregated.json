@@ -4,6 +4,9 @@
   "description": "Sky Link Net",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2401:72a0::/32",
+      "2402:ca40::/32"
+    ]
   }
 }

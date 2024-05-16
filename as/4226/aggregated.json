@@ -1,0 +1,12 @@
+{
+  "asn": 4226,
+  "handle": "SUMOFIBER",
+  "description": "Sumofiber",
+  "subnets": {
+    "ipv4": [
+      "38.148.64.0/21",
+      "38.148.112.0/21"
+    ],
+    "ipv6": []
+  }
+}

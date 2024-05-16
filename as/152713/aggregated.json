@@ -1,0 +1,11 @@
+{
+  "asn": 152713,
+  "handle": "A1CLOUDHOST-AP",
+  "description": "A1 Cloud Host",
+  "subnets": {
+    "ipv4": [
+      "103.49.70.0/23"
+    ],
+    "ipv6": []
+  }
+}

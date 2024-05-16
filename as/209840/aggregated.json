@@ -3,7 +3,9 @@
   "handle": "YMER",
   "description": "YMER Managed Services AB",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "85.8.179.0/24"
+    ],
     "ipv6": []
   }
 }

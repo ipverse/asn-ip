@@ -3,10 +3,7 @@
   "handle": "UPLINK-TELECOMUNICACOES-BRASIL",
   "description": "UPLINK TELECOMUNICACOES DO BRASIL",
   "subnets": {
-    "ipv4": [
-      "131.72.52.0/23",
-      "131.72.54.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

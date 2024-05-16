@@ -1,0 +1,12 @@
+{
+  "asn": 138004,
+  "handle": "MISL-AP",
+  "description": "MIR INFO SYSTEMS LTD.",
+  "subnets": {
+    "ipv4": [
+      "103.142.69.0/24",
+      "180.94.20.0/23"
+    ],
+    "ipv6": []
+  }
+}

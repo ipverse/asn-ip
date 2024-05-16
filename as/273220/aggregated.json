@@ -1,0 +1,13 @@
+{
+  "asn": 273220,
+  "handle": "GRUPO-FILPO",
+  "description": "GRUPO FILPO, S.R.L.",
+  "subnets": {
+    "ipv4": [
+      "38.196.230.0/23"
+    ],
+    "ipv6": [
+      "2801:11:7800::/48"
+    ]
+  }
+}

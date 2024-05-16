@@ -3,7 +3,9 @@
   "handle": "AL-WATANIYA",
   "description": "Iraq Al-wataniyah Co. for Telecom Services Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "188.72.45.0/24"
+    ],
     "ipv6": []
   }
 }

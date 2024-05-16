@@ -4,7 +4,8 @@
   "description": "PJSC Rostelecom",
   "subnets": {
     "ipv4": [
-      "2.63.192.0/24"
+      "2.63.192.0/24",
+      "87.242.66.0/24"
     ],
     "ipv6": []
   }

@@ -4,6 +4,8 @@
   "description": "Christian Wolfseher trading as Wiraport ISP Services",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a0a:79c7:fdfa::/48"
+    ]
   }
 }

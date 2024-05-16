@@ -3,7 +3,9 @@
   "handle": "PASCAL-KUTSCHA",
   "description": "Pascal Kutscha",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "89.28.237.0/24"
+    ],
     "ipv6": []
   }
 }
