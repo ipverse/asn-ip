@@ -3,7 +3,9 @@
   "handle": "EASTERNHEALTH-AP",
   "description": "Eastern Health",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.18.48.0/22"
+    ],
     "ipv6": []
   }
 }

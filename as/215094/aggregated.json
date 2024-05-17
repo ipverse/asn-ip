@@ -1,0 +1,11 @@
+{
+  "asn": 215094,
+  "handle": "KASE",
+  "description": "Kazakhstan Stock Exchange JSC",
+  "subnets": {
+    "ipv4": [
+      "95.141.252.0/24"
+    ],
+    "ipv6": []
+  }
+}

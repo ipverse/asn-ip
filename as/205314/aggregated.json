@@ -1,0 +1,13 @@
+{
+  "asn": 205314,
+  "handle": "TGW",
+  "description": "TGW Logistics Group GmbH",
+  "subnets": {
+    "ipv4": [
+      "185.138.20.0/22"
+    ],
+    "ipv6": [
+      "2a12:ddc0::/29"
+    ]
+  }
+}

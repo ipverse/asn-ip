@@ -3,7 +3,9 @@
   "handle": "ULPHYSICIANS1",
   "description": "University of Louisville Physicians, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "216.249.131.0/24"
+    ],
     "ipv6": []
   }
 }

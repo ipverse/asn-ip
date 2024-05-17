@@ -4,7 +4,8 @@
   "description": "W.A.G. PAYMENT SOLUTIONS, A.S.",
   "subnets": {
     "ipv4": [
-      "45.8.40.0/22"
+      "45.8.40.0/23",
+      "45.8.42.0/24"
     ],
     "ipv6": []
   }

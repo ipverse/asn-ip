@@ -1,9 +1,11 @@
 {
   "asn": 55223,
-  "handle": "S7CLOUD-EQ7",
-  "description": "S7 Technology Group, LLC",
+  "handle": "BGP-NETWORKS-LLC",
+  "description": "BGP Networks LLC",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2602:fb0d:55::/48"
+    ]
   }
 }

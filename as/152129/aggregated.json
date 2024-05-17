@@ -1,0 +1,13 @@
+{
+  "asn": 152129,
+  "handle": "AHPK-AP",
+  "description": "AHPK TECHNOLOGIES PRIVATE LIMITED",
+  "subnets": {
+    "ipv4": [
+      "210.79.128.0/23"
+    ],
+    "ipv6": [
+      "2401:5420::/32"
+    ]
+  }
+}
