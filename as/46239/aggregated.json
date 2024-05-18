@@ -3,11 +3,8 @@
   "handle": "EFKOLOS-CORE-0",
   "description": "Efkolos, LLC",
   "subnets": {
-    "ipv4": [
-      "23.175.232.0/24"
-    ],
+    "ipv4": [],
     "ipv6": [
-      "2602:f942::/41",
       "2602:f942:80::/42"
     ]
   }

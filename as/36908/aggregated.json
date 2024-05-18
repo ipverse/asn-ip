@@ -4,6 +4,8 @@
   "description": "Vodacom Tanzania Ltd",
   "subnets": {
     "ipv4": [
+      "41.217.200.0/22",
+      "41.223.4.0/22",
       "197.250.0.0/16"
     ],
     "ipv6": []

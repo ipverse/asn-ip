@@ -4,8 +4,7 @@
   "description": "Internet Resources Management SRL",
   "subnets": {
     "ipv4": [
-      "194.8.80.0/24",
-      "194.32.82.0/24"
+      "194.8.80.0/24"
     ],
     "ipv6": []
   }

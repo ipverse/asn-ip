@@ -4,7 +4,8 @@
   "description": "KERO NET PROVEDOR DE INTERNET EIRELI",
   "subnets": {
     "ipv4": [
-      "179.42.64.0/22"
+      "179.42.65.0/24",
+      "179.42.66.0/23"
     ],
     "ipv6": []
   }

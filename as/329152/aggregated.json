@@ -3,7 +3,10 @@
   "handle": "ATL7",
   "description": "ATIS TELCOM LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "102.210.24.0/22",
+      "102.214.76.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "NATIONAL-BANK-OF-COMMERCE-LIMITED",
   "description": "NATIONAL BANK OF COMMERCE LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "102.212.82.0/23"
+    ],
     "ipv6": []
   }
 }

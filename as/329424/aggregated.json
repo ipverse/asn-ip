@@ -3,7 +3,9 @@
   "handle": "HTL8",
   "description": "Hynfra Technologies Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "102.209.68.0/24"
+    ],
     "ipv6": []
   }
 }
