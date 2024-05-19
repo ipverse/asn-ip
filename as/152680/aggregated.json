@@ -1,0 +1,11 @@
+{
+  "asn": 152680,
+  "handle": "GIPC-AP",
+  "description": "GLIPPH",
+  "subnets": {
+    "ipv4": [
+      "117.103.112.0/23"
+    ],
+    "ipv6": []
+  }
+}

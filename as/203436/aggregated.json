@@ -4,7 +4,6 @@
   "description": "IDAN Internet Hizmetleri Sanayi ve Ticaret Limited Sirketi",
   "subnets": {
     "ipv4": [
-      "64.253.90.0/23",
       "185.224.217.0/24"
     ],
     "ipv6": []

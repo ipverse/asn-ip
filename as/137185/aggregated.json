@@ -3,7 +3,11 @@
   "handle": "HGTHC-AP",
   "description": "HK GALAXY TELECOM HOLDING CO.,LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.88.92.0/23",
+      "103.230.92.0/24",
+      "220.158.192.0/23"
+    ],
     "ipv6": []
   }
 }

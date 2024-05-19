@@ -1,0 +1,11 @@
+{
+  "asn": 141040,
+  "handle": "CHELMER-NON-AP",
+  "description": "CHELMER LIMITED",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2001:df3:32c0::/48"
+    ]
+  }
+}

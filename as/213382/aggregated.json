@@ -3,10 +3,7 @@
   "handle": "FLOREP",
   "description": "Paul Flores",
   "subnets": {
-    "ipv4": [
-      "37.140.247.0/24",
-      "89.213.120.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

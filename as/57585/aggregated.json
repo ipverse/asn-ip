@@ -3,7 +3,9 @@
   "handle": "MAHARA",
   "description": "Al-Mahara Trading FZCO",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "130.255.1.0/24"
+    ],
     "ipv6": []
   }
 }
