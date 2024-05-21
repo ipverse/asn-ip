@@ -4,6 +4,7 @@
   "description": "Servicios Digitales Codinet S.L.",
   "subnets": {
     "ipv4": [
+      "5.61.202.0/24",
       "5.61.204.0/23",
       "5.61.206.0/24",
       "45.80.80.0/24",

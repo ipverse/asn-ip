@@ -1,0 +1,11 @@
+{
+  "asn": 11873,
+  "handle": "USAID-1",
+  "description": "U.S. Agency for International Development",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2620:bf::/48"
+    ]
+  }
+}

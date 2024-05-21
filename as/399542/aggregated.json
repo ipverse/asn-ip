@@ -1,0 +1,11 @@
+{
+  "asn": 399542,
+  "handle": "FGS-NETWORK",
+  "description": "Flying Goose Systems",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2602:f8ef::/40"
+    ]
+  }
+}

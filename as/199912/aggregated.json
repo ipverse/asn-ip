@@ -1,0 +1,13 @@
+{
+  "asn": 199912,
+  "handle": "LAYER7-PAR1",
+  "description": "Layer7 Networks GmbH",
+  "subnets": {
+    "ipv4": [
+      "163.5.211.0/24",
+      "185.33.26.0/24",
+      "185.171.160.0/24"
+    ],
+    "ipv6": []
+  }
+}

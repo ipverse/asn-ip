@@ -3,7 +3,9 @@
   "handle": "SOUTHWOODS-AP",
   "description": "Southwoods Cable TV Broadband Network Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "202.49.33.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -4,7 +4,7 @@
   "description": "Texas Biomedical Research Institute",
   "subnets": {
     "ipv4": [
-      "206.124.48.0/21"
+      "206.124.48.0/20"
     ],
     "ipv6": []
   }

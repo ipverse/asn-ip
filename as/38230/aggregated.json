@@ -3,10 +3,11 @@
   "handle": "NAVICENET-AP",
   "description": "Navice Consulting",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.158.222.0/24"
+    ],
     "ipv6": [
       "2a0e:46c4::/48",
-      "2a0e:46c4:110::/48",
       "2a0e:46c4:1100::/40",
       "2a0e:7d46::/48",
       "2a0e:7d46:800::/39",
