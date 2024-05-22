@@ -3,7 +3,9 @@
   "handle": "REDCAYLE",
   "description": "Fundacion Centro de Supercomputacion de Castilla y Leon",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.179.104.0/22"
+    ],
     "ipv6": [
       "2a0a:8480::/32"
     ]

@@ -1,0 +1,12 @@
+{
+  "asn": 132479,
+  "handle": "JUSTKEEPMEEDO-AP",
+  "description": "Xue Desen",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2406:840:fdd0::/47",
+      "2406:840:fecf::/48"
+    ]
+  }
+}

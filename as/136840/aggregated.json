@@ -3,10 +3,7 @@
   "handle": "GRAHA-ID",
   "description": "PT. Graha Lintas Nusantara",
   "subnets": {
-    "ipv4": [
-      "103.100.181.0/24",
-      "103.100.182.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

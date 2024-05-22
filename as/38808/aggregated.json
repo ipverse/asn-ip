@@ -3,7 +3,9 @@
   "handle": "IMZAK-TRANSIT-AP",
   "description": "NIG SUN (PRIVATE) LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "117.18.240.0/20"
+    ],
     "ipv6": [
       "2401:9e00::/32"
     ]

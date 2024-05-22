@@ -4,6 +4,7 @@
   "description": "Korea Aerospace Research Institute",
   "subnets": {
     "ipv4": [
+      "118.128.121.0/24",
       "150.197.0.0/16"
     ],
     "ipv6": []

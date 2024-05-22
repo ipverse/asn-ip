@@ -3,7 +3,9 @@
   "handle": "JMOPTIC-IN",
   "description": "JM OPTICAL FIBER SOLUTIONS PRIVATE LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "157.66.104.0/24"
+    ],
     "ipv6": []
   }
 }

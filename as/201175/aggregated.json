@@ -3,7 +3,11 @@
   "handle": "DOCOMODIGITAL",
   "description": "BANGO ITALY S.R.L.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "185.65.216.0/22"
+    ],
+    "ipv6": [
+      "2a02:7be0::/32"
+    ]
   }
 }
