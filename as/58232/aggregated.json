@@ -1,9 +1,10 @@
 {
   "asn": 58232,
-  "handle": "PARSUN",
+  "handle": "HADERAN",
   "description": "Parsun Network Solutions PTY LTD",
   "subnets": {
     "ipv4": [
+      "89.23.126.0/24",
       "188.253.1.0/24"
     ],
     "ipv6": []

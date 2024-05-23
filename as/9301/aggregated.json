@@ -3,7 +3,10 @@
   "handle": "EWN-AP",
   "description": "Cynergic Pty Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "36.50.98.0/24",
+      "203.5.127.0/24"
+    ],
     "ipv6": []
   }
 }

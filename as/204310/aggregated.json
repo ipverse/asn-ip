@@ -3,7 +3,9 @@
   "handle": "SYNERGIES",
   "description": "Synergies GmbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.253.175.0/24"
+    ],
     "ipv6": [
       "2a0c:3ec7::/32"
     ]

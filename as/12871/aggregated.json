@@ -1,0 +1,12 @@
+{
+  "asn": 12871,
+  "handle": "NL-IX-ENTERPRISE-SERVICES",
+  "description": "KPN B.V.",
+  "subnets": {
+    "ipv4": [
+      "37.188.64.0/21",
+      "146.104.251.0/24"
+    ],
+    "ipv6": []
+  }
+}

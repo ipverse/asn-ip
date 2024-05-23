@@ -1,9 +1,11 @@
 {
   "asn": 58341,
   "handle": "FREEDOM-FINANCE",
-  "description": "IC Freedom Finance LLC",
+  "description": "CIFRA BANK LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.240.144.0/24"
+    ],
     "ipv6": []
   }
 }

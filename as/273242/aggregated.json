@@ -1,0 +1,11 @@
+{
+  "asn": 273242,
+  "handle": "PUNTO-INTERCAMBIO-TRAFICO",
+  "description": "PUNTO DE INTERCAMBIO DE TRAFICO DOMINICANO PIT-DOMINICANO, S.R.L.",
+  "subnets": {
+    "ipv4": [
+      "45.68.60.0/23"
+    ],
+    "ipv6": []
+  }
+}

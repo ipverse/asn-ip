@@ -3,7 +3,11 @@
   "handle": "H-R-B-LACERDA",
   "description": "H R B LACERDA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "168.194.179.0/24"
+    ],
+    "ipv6": [
+      "2804:8f18::/32"
+    ]
   }
 }

@@ -3,9 +3,9 @@
   "handle": "AUGUST-TW",
   "description": "August",
   "subnets": {
-    "ipv4": [
-      "199.189.156.0/23"
-    ],
-    "ipv6": []
+    "ipv4": [],
+    "ipv6": [
+      "2601:1d08:2000::/48"
+    ]
   }
 }

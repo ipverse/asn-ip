@@ -4,7 +4,8 @@
   "description": "TUPIX INTERNET EXCHANGE",
   "subnets": {
     "ipv4": [
-      "138.99.56.0/22"
+      "138.99.56.0/22",
+      "186.232.75.0/24"
     ],
     "ipv6": [
       "2804:91c::/32"

@@ -3,7 +3,9 @@
   "handle": "PYLONONE",
   "description": "Pylon One Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.157.175.0/24"
+    ],
     "ipv6": []
   }
 }

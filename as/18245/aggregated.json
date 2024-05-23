@@ -3,7 +3,10 @@
   "handle": "FOUNDERBN",
   "description": "CNNIC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "59.108.111.0/24",
+      "219.232.48.0/21"
+    ],
     "ipv6": [
       "2400:5400:10::/48"
     ]

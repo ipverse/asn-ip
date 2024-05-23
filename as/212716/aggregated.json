@@ -4,6 +4,8 @@
   "description": "Ssmidge LLC",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a13:df80:54::/48"
+    ]
   }
 }

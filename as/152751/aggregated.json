@@ -1,0 +1,11 @@
+{
+  "asn": 152751,
+  "handle": "IDNIC-LNN-ID",
+  "description": "PT Lumajang Network Nusantara",
+  "subnets": {
+    "ipv4": [
+      "157.66.128.0/23"
+    ],
+    "ipv6": []
+  }
+}

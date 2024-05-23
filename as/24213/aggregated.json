@@ -3,7 +3,10 @@
   "handle": "ARSEN-ID",
   "description": "PT. Arsen Kusuma Indonesia",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "119.82.224.0/20",
+      "202.182.56.0/21"
+    ],
     "ipv6": []
   }
 }
