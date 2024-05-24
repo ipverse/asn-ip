@@ -3,7 +3,9 @@
   "handle": "CHINAONE-HK",
   "description": "ChinaOne Network Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "198.236.184.0/21"
+    ],
     "ipv6": []
   }
 }

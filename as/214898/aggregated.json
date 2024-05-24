@@ -1,0 +1,11 @@
+{
+  "asn": 214898,
+  "handle": "CH-KANTON-BASEL",
+  "description": "Zentrale Informatikdienste des Kantons Basel-Stadt",
+  "subnets": {
+    "ipv4": [
+      "145.250.0.0/17"
+    ],
+    "ipv6": []
+  }
+}

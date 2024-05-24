@@ -4,7 +4,6 @@
   "description": "Data-Beam Business Solution",
   "subnets": {
     "ipv4": [
-      "38.10.137.0/24",
       "103.190.138.0/23"
     ],
     "ipv6": [

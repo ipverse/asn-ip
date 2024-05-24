@@ -3,7 +3,9 @@
   "handle": "IDNIC-WISESACONSULTING-ID",
   "description": "PT. WISESA CONSULTING INDONESIA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.76.204.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "IDNIC-JELAJAHNET-ID",
   "description": "PT Jelajah Data Semesta",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.167.20.0/24"
+    ],
     "ipv6": []
   }
 }

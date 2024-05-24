@@ -3,11 +3,7 @@
   "handle": "SF-INNOV",
   "description": "SF Innovations Inc.",
   "subnets": {
-    "ipv4": [
-      "67.227.72.0/24"
-    ],
-    "ipv6": [
-      "2602:2c1::/40"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

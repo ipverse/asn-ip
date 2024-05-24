@@ -3,7 +3,9 @@
   "handle": "IDNIC-MSI-ID",
   "description": "PT Madina Solusi Indonesia",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.158.26.0/24"
+    ],
     "ipv6": []
   }
 }

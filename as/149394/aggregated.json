@@ -3,7 +3,11 @@
   "handle": "IDNIC-GOANG-ID",
   "description": "PT Gonet Mandiri Teknologi",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "103.182.52.0/23"
+    ],
+    "ipv6": [
+      "2001:df1:f540::/48"
+    ]
   }
 }

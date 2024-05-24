@@ -4,10 +4,7 @@
   "description": "Conseil General des Bouches-du-Rhone",
   "subnets": {
     "ipv4": [
-      "83.97.56.0/23",
-      "83.97.59.0/24",
-      "83.97.61.0/24",
-      "83.97.62.0/23"
+      "83.97.56.0/21"
     ],
     "ipv6": []
   }

@@ -4,6 +4,7 @@
   "description": "Erste\u0026Steiermarkische Bank d.d.",
   "subnets": {
     "ipv4": [
+      "95.163.159.0/24",
       "195.29.91.0/24"
     ],
     "ipv6": []
