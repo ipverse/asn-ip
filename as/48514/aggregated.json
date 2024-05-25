@@ -4,7 +4,7 @@
   "description": "Stiftelsen Chalmers Studenthem",
   "subnets": {
     "ipv4": [
-      "45.134.59.0/24",
+      "45.134.56.0/22",
       "95.80.0.0/18"
     ],
     "ipv6": [

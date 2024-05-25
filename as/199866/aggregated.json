@@ -4,6 +4,7 @@
   "description": "Dnevnik.ru Ltd.",
   "subnets": {
     "ipv4": [
+      "31.130.159.0/24",
       "188.227.88.0/24"
     ],
     "ipv6": []

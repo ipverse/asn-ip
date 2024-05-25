@@ -3,7 +3,9 @@
   "handle": "GVIGW-BD",
   "description": "Global Voice Telecom Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "150.129.16.0/23"
+    ],
     "ipv6": []
   }
 }

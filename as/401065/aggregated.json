@@ -1,0 +1,11 @@
+{
+  "asn": 401065,
+  "handle": "TANDY-NETWORKS",
+  "description": "FASTECH",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2602:f8ec::/40"
+    ]
+  }
+}

@@ -4,7 +4,8 @@
   "description": "LUSOALOJA SERVICOS DE ALOJAMENTO WEB, LDA",
   "subnets": {
     "ipv4": [
-      "5.253.128.0/22"
+      "5.253.128.0/22",
+      "80.244.10.0/24"
     ],
     "ipv6": []
   }

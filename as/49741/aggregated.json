@@ -3,7 +3,9 @@
   "handle": "PRO-NET-REGION",
   "description": "PRO-NET-REGION Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.215.244.0/22"
+    ],
     "ipv6": []
   }
 }

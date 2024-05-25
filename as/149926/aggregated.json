@@ -4,7 +4,7 @@
   "description": "PT Ilham Wifi Solution",
   "subnets": {
     "ipv4": [
-      "103.191.154.0/24"
+      "103.191.154.0/23"
     ],
     "ipv6": []
   }
