@@ -3,7 +3,15 @@
   "handle": "FIBA",
   "description": "Fiba Cloud Operation Company, LLC",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "216.9.225.0/24",
+      "216.9.226.0/24"
+    ],
+    "ipv6": [
+      "2602:fa5d:1::/48",
+      "2602:fa5d:2::/47",
+      "2602:fa5d:4::/46",
+      "2602:fa5d:8::/47"
+    ]
   }
 }

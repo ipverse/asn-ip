@@ -1,0 +1,12 @@
+{
+  "asn": 394456,
+  "handle": "EPIK-LLC",
+  "description": "Epik LLC",
+  "subnets": {
+    "ipv4": [
+      "66.223.49.0/24",
+      "209.196.144.0/24"
+    ],
+    "ipv6": []
+  }
+}

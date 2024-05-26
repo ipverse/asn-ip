@@ -3,7 +3,9 @@
   "handle": "TELEPORTMEDIA",
   "description": "Teleport Rus LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "31.200.249.0/24"
+    ],
     "ipv6": []
   }
 }

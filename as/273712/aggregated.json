@@ -3,7 +3,11 @@
   "handle": "A-G-SILVA-BATISTA",
   "description": "A. G. DA SILVA BATISTA LTDA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "177.12.141.0/24"
+    ],
+    "ipv6": [
+      "2804:8b1c::/32"
+    ]
   }
 }
