@@ -4,6 +4,7 @@
   "description": "NOHAVPS LLC",
   "subnets": {
     "ipv4": [
+      "23.94.142.0/24",
       "173.46.81.0/24"
     ],
     "ipv6": []

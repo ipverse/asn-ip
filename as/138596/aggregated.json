@@ -4,10 +4,8 @@
   "description": "Valley International",
   "subnets": {
     "ipv4": [
-      "103.134.28.0/22"
+      "103.134.31.0/24"
     ],
-    "ipv6": [
-      "2404:5bc0::/32"
-    ]
+    "ipv6": []
   }
 }

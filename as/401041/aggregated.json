@@ -3,7 +3,9 @@
   "handle": "AXIS-SECURITY-01",
   "description": "Axis Security",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.25.8.0/23"
+    ],
     "ipv6": []
   }
 }
