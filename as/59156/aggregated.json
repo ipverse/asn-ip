@@ -3,7 +3,9 @@
   "handle": "HOMEACCESS-ID",
   "description": "PT DEWATA TELEMATIKA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "27.54.119.0/24"
+    ],
     "ipv6": []
   }
 }

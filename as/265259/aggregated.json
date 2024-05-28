@@ -4,8 +4,7 @@
   "description": "Busatto Internet e Suprimentos de Informtica LTDA",
   "subnets": {
     "ipv4": [
-      "168.0.137.0/24",
-      "168.0.138.0/23"
+      "168.0.136.0/22"
     ],
     "ipv6": []
   }

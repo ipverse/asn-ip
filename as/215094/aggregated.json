@@ -3,7 +3,9 @@
   "handle": "KASE",
   "description": "Kazakhstan Stock Exchange JSC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "95.141.252.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -1,9 +1,11 @@
 {
   "asn": 20373,
-  "handle": "KITD",
-  "description": "Piksel, Inc.",
+  "handle": "MARLEYINDEX-US",
+  "description": "Marley Index, LLC",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2602:f939:18::/48"
+    ]
   }
 }

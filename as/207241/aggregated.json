@@ -3,7 +3,9 @@
   "handle": "IBKR-GB",
   "description": "IBKR Financial Services AG",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.200.181.0/24"
+    ],
     "ipv6": []
   }
 }
