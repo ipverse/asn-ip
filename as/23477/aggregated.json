@@ -1,9 +1,9 @@
 {
   "asn": 23477,
-  "handle": "AMADEUS-GLOBAL-OPERATIONS-AMERICAS",
-  "description": "AMADEUS GLOBAL OPERATIONS AMERICAS, INC.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "104.232.10.0/24"
+    ],
     "ipv6": []
   }
 }

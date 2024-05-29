@@ -4,6 +4,7 @@
   "description": "Jason Ruhittel",
   "subnets": {
     "ipv4": [
+      "45.145.226.0/24",
       "82.163.18.0/24"
     ],
     "ipv6": [

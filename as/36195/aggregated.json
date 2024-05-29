@@ -3,7 +3,9 @@
   "handle": "COINFARM-NEURALRACK-01",
   "description": "NeuralRack AI",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "142.214.185.0/24"
+    ],
     "ipv6": []
   }
 }

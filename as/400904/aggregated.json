@@ -3,7 +3,9 @@
   "handle": "KEY-MANAGEMENT",
   "description": "Key Investment",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.58.160.0/24"
+    ],
     "ipv6": []
   }
 }

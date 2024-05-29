@@ -4,7 +4,8 @@
   "description": "PT Viriya Surya Abadi",
   "subnets": {
     "ipv4": [
-      "103.160.201.0/24"
+      "103.160.201.0/24",
+      "160.19.86.0/24"
     ],
     "ipv6": []
   }

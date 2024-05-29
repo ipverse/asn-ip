@@ -3,7 +3,9 @@
   "handle": "CDCTELIA",
   "description": "Pankkih Oy",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "176.119.199.0/24"
+    ],
     "ipv6": []
   }
 }

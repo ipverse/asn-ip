@@ -3,7 +3,11 @@
   "handle": "AIRNET-BSL-AP",
   "description": "Airnet Communication",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "103.240.2.0/24"
+    ],
+    "ipv6": [
+      "2001:df2:fbc0::/48"
+    ]
   }
 }

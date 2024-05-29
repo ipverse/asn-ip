@@ -4,6 +4,7 @@
   "description": "COMNET BILGI ILETISIM TEKNOLOJILERI TICARET A.S.",
   "subnets": {
     "ipv4": [
+      "149.18.112.0/22",
       "190.93.72.0/24"
     ],
     "ipv6": []

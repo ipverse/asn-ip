@@ -4,6 +4,9 @@
   "description": "Prozserin Rudolf",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a0e:b107:20b0::/46",
+      "2a10:2f00:192::/48"
+    ]
   }
 }

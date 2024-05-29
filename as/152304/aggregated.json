@@ -3,7 +3,9 @@
   "handle": "MOUMITAONLINE-AP",
   "description": "Moumita Online",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "157.10.80.0/23"
+    ],
     "ipv6": []
   }
 }

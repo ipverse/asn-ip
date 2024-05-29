@@ -3,7 +3,9 @@
   "handle": "RESITVE",
   "description": "ROK TAJZEL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "85.204.38.0/24"
+    ],
     "ipv6": []
   }
 }

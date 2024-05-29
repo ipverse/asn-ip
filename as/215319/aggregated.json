@@ -1,0 +1,11 @@
+{
+  "asn": 215319,
+  "handle": "GATEWATCHER",
+  "description": "GATEWATCHER SAS",
+  "subnets": {
+    "ipv4": [
+      "154.49.221.0/24"
+    ],
+    "ipv6": []
+  }
+}

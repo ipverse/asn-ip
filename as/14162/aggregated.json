@@ -4,7 +4,8 @@
   "description": "FEDERAL HOME LOAN BANK of PITTSBURGH",
   "subnets": {
     "ipv4": [
-      "63.161.8.0/24"
+      "63.161.8.0/24",
+      "204.180.133.0/24"
     ],
     "ipv6": []
   }

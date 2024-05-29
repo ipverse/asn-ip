@@ -1,0 +1,12 @@
+{
+  "asn": 151490,
+  "handle": "GAONIT",
+  "description": "GaonIT",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2406:840:fa40::/48",
+      "2406:840:fedb::/48"
+    ]
+  }
+}

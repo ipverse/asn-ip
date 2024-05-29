@@ -1,0 +1,13 @@
+{
+  "asn": 214834,
+  "handle": "REKADE",
+  "description": "Rekade International LTD",
+  "subnets": {
+    "ipv4": [
+      "194.48.251.0/24"
+    ],
+    "ipv6": [
+      "2a14:7c0:4c00::/40"
+    ]
+  }
+}

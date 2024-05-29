@@ -1,9 +1,11 @@
 {
   "asn": 273577,
-  "handle": "MESSIAS-CUNHA-MOTA",
-  "description": "MESSIAS CUNHA DA MOTA",
+  "handle": "MESSIAS-NET-FIBRA",
+  "description": "MESSIAS NET FIBRA",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2804:890c::/32"
+    ]
   }
 }

@@ -1,0 +1,13 @@
+{
+  "asn": 132536,
+  "handle": "CHINANET-TIANJIN-MAN-NEW",
+  "description": "China Telecom",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "240e:981:9203::/48",
+      "240e:981:9204::/47",
+      "240e:983:904::/48"
+    ]
+  }
+}
