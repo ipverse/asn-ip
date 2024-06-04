@@ -4,6 +4,7 @@
   "description": "Central Florida Electric Cooperative, Inc.",
   "subnets": {
     "ipv4": [
+      "45.62.224.0/19",
       "206.168.69.0/24",
       "209.71.0.0/19"
     ],

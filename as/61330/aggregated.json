@@ -4,6 +4,7 @@
   "description": "iServerHost LTD",
   "subnets": {
     "ipv4": [
+      "89.39.252.0/24",
       "185.141.25.0/24"
     ],
     "ipv6": []

@@ -3,7 +3,9 @@
   "handle": "SALDANHANET-TELECOM",
   "description": "Saldanha.Net Telecom",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.228.3.0/24"
+    ],
     "ipv6": [
       "2804:8fc8::/32"
     ]

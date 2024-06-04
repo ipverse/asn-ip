@@ -3,7 +3,9 @@
   "handle": "FJU-TW",
   "description": "Fu Jen Catholic University",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "140.136.0.0/16"
+    ],
     "ipv6": []
   }
 }

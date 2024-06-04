@@ -4,7 +4,8 @@
   "description": "Philip Fjaera trading as PFWeb Solutions",
   "subnets": {
     "ipv4": [
-      "77.90.6.0/24"
+      "77.90.6.0/24",
+      "77.90.19.0/24"
     ],
     "ipv6": []
   }

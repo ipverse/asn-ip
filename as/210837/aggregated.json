@@ -4,6 +4,7 @@
   "description": "ROYA Communications and Internet Services Company Ltd.",
   "subnets": {
     "ipv4": [
+      "45.132.180.0/24",
       "193.30.241.0/24"
     ],
     "ipv6": []

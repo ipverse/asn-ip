@@ -1,0 +1,11 @@
+{
+  "asn": 204459,
+  "handle": "DC-THREEDATA",
+  "description": "LLC 3data DC",
+  "subnets": {
+    "ipv4": [
+      "194.110.203.0/24"
+    ],
+    "ipv6": []
+  }
+}

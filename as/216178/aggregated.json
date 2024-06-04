@@ -4,6 +4,8 @@
   "description": "Minjea Kim trading as Luna co.",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2001:df3:d9c0::/48"
+    ]
   }
 }

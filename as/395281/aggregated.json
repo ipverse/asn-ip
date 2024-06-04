@@ -1,7 +1,11 @@
 {
   "asn": 395281,
+  "handle": "MMWC-COMMUNITYINTERNETSOLUTIONS",
+  "description": "Meta Mesh Wireless Communities",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.245.230.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "FASTFIBER",
   "description": "Localitel bvba",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "93.92.17.0/24"
+    ],
     "ipv6": [
       "2a0f:69c0::/32"
     ]

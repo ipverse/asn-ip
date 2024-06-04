@@ -3,10 +3,7 @@
   "handle": "JOYMEDIA",
   "description": "Joy Media Grup S.L.",
   "subnets": {
-    "ipv4": [
-      "45.93.182.0/23",
-      "91.132.7.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }
