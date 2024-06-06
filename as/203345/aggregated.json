@@ -3,10 +3,7 @@
   "handle": "NL-HOSTING",
   "description": "NL Hosting Solutions LTD",
   "subnets": {
-    "ipv4": [
-      "41.71.222.0/23",
-      "41.71.240.0/24"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2a0e:b107:1a10::/44"
     ]

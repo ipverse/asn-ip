@@ -3,7 +3,9 @@
   "handle": "IDNIC-UMP-ID",
   "description": "Universitas Muhammadiyah Palembang",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.99.214.0/23"
+    ],
     "ipv6": []
   }
 }

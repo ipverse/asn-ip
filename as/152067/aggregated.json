@@ -3,7 +3,9 @@
   "handle": "IDNIC-JTS-ID",
   "description": "PT Jaringan Teman Sejati",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "36.50.93.0/24"
+    ],
     "ipv6": []
   }
 }

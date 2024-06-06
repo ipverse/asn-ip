@@ -3,7 +3,9 @@
   "handle": "POWER-AND-NETWORK-BACKUP",
   "description": "Power and Network, Backup Company Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "154.73.65.0/24"
+    ],
     "ipv6": []
   }
 }

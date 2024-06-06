@@ -4,7 +4,8 @@
   "description": "Nicalia Internet, S.L.U",
   "subnets": {
     "ipv4": [
-      "85.208.102.0/24"
+      "85.208.102.0/24",
+      "92.60.32.0/23"
     ],
     "ipv6": []
   }

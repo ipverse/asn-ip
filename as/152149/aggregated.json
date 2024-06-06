@@ -3,7 +3,9 @@
   "handle": "AHAMEDIT-AP",
   "description": "Ahamed IT",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "210.79.180.0/24"
+    ],
     "ipv6": []
   }
 }

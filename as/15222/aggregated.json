@@ -1,9 +1,11 @@
 {
   "asn": 15222,
-  "handle": "GAROFALO-ET-AL",
-  "description": "Garofalo, Schreiber, Hart \u0026 Storm Chartered",
+  "handle": "GRACE-CLOUD-NET",
+  "description": "Grace International Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "23.161.184.0/24"
+    ],
     "ipv6": []
   }
 }

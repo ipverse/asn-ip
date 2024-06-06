@@ -4,7 +4,8 @@
   "description": "Avaye Hamrahe Houshmande Hezardastan PJSC",
   "subnets": {
     "ipv4": [
-      "185.166.104.0/24"
+      "185.166.104.0/24",
+      "194.34.163.0/24"
     ],
     "ipv6": []
   }

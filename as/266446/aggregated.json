@@ -4,7 +4,8 @@
   "description": "ITJSC SERVICOS DE COMUNICACAO E SOLUCOES LTDA - ME",
   "subnets": {
     "ipv4": [
-      "170.82.192.0/22"
+      "170.82.192.0/22",
+      "200.80.111.0/24"
     ],
     "ipv6": [
       "2804:37f4::/32"

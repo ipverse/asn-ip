@@ -1,9 +1,11 @@
 {
   "asn": 59467,
-  "handle": "WEZZET",
-  "description": "The first international bookmaker company Ltd.",
+  "handle": "HLL",
+  "description": "HLL LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "81.161.98.0/23"
+    ],
     "ipv6": []
   }
 }

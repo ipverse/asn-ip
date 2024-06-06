@@ -1,9 +1,11 @@
 {
   "asn": 198617,
-  "handle": "OXALD",
+  "handle": "ASTRALNODE",
   "description": "Oscar Alberto Diaz Lara",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "64.112.126.0/24"
+    ],
     "ipv6": []
   }
 }
