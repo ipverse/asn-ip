@@ -4,7 +4,8 @@
   "description": "Anstalt fuer Kommunale Datenverarbeitung in Bayern (AKDB)",
   "subnets": {
     "ipv4": [
-      "193.28.243.0/24"
+      "193.28.243.0/24",
+      "194.124.62.0/24"
     ],
     "ipv6": []
   }

@@ -3,7 +3,9 @@
   "handle": "PIXELHOSTING",
   "description": "Maik Polman trading as PixelHosting",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "83.142.31.0/24"
+    ],
     "ipv6": [
       "2a0a:6044:a800::/40"
     ]

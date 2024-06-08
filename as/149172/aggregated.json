@@ -4,8 +4,6 @@
   "description": "54North",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2400:3d20:1000::/48"
-    ]
+    "ipv6": []
   }
 }

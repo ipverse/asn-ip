@@ -4,8 +4,7 @@
   "description": "Datatrans Internet Ltd",
   "subnets": {
     "ipv4": [
-      "81.93.192.0/20",
-      "170.84.93.0/24"
+      "81.93.192.0/20"
     ],
     "ipv6": [
       "2a03:da00::/35"

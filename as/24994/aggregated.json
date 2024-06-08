@@ -4,6 +4,7 @@
   "description": "genesys informatica srl",
   "subnets": {
     "ipv4": [
+      "45.81.149.0/24",
       "89.31.72.0/21",
       "151.11.48.0/22",
       "151.11.52.0/23",

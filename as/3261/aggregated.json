@@ -4,6 +4,7 @@
   "description": "LLC FTICOM",
   "subnets": {
     "ipv4": [
+      "5.153.140.0/24",
       "92.242.101.0/24"
     ],
     "ipv6": []

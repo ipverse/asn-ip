@@ -3,9 +3,7 @@
   "handle": "RNETXT",
   "description": "Rapidnet Private Limited",
   "subnets": {
-    "ipv4": [
-      "103.83.148.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

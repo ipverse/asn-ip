@@ -4,8 +4,6 @@
   "description": "Controls Middle East Electromechanical Works L.L.C",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2a0a:6040:9400::/40"
-    ]
+    "ipv6": []
   }
 }

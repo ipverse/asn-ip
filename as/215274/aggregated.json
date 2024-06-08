@@ -4,6 +4,7 @@
   "description": "UHQ Services LLC",
   "subnets": {
     "ipv4": [
+      "23.180.120.0/24",
       "195.184.246.0/24"
     ],
     "ipv6": [

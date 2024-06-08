@@ -3,7 +3,9 @@
   "handle": "PORTOMONTENEGRO",
   "description": "Adriatic Marinas d.o.o.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.220.187.0/24"
+    ],
     "ipv6": []
   }
 }

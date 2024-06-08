@@ -1,0 +1,11 @@
+{
+  "asn": 215422,
+  "handle": "ADSD",
+  "description": "Stadt Dornbirn",
+  "subnets": {
+    "ipv4": [
+      "213.163.255.0/24"
+    ],
+    "ipv6": []
+  }
+}

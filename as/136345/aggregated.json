@@ -3,7 +3,9 @@
   "handle": "ZKINFO",
   "description": "Z. K. Infonet",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.173.205.0/24"
+    ],
     "ipv6": []
   }
 }
