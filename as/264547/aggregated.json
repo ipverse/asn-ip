@@ -4,8 +4,6 @@
   "description": "DATAZOOM TELECOM",
   "subnets": {
     "ipv4": [
-      "138.0.132.0/23",
-      "138.0.134.0/24",
       "170.79.8.0/22"
     ],
     "ipv6": [

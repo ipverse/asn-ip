@@ -3,7 +3,9 @@
   "handle": "LUSORY",
   "description": "Lusory Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "104.167.214.0/24"
+    ],
     "ipv6": [
       "2a07:54c1:5000::/48"
     ]

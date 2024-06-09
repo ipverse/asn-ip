@@ -3,9 +3,7 @@
   "handle": "IDNIC-JEJARINGBERSAMA-ID",
   "description": "PT Perwira Pedjoeang Nusantara",
   "subnets": {
-    "ipv4": [
-      "167.253.47.0/24"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2602:fac2:11::/48"
     ]
