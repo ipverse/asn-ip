@@ -4,6 +4,8 @@
   "description": "int3 Systems, LLC",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2620:c2:2000::/48"
+    ]
   }
 }

@@ -3,7 +3,10 @@
   "handle": "IP2R-AS1",
   "description": "ESI s.r.l.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.194.16.0/23",
+      "193.194.18.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -4,7 +4,8 @@
   "description": "Abr Ayande Iranian Co. (Private Joint Stock)",
   "subnets": {
     "ipv4": [
-      "217.60.236.0/24"
+      "217.60.236.0/24",
+      "217.60.248.0/24"
     ],
     "ipv6": []
   }

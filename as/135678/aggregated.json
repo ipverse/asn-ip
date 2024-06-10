@@ -3,7 +3,9 @@
   "handle": "AIRNET-IN",
   "description": "Airnet Broadband",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.214.116.0/24"
+    ],
     "ipv6": []
   }
 }

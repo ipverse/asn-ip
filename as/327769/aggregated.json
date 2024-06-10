@@ -4,7 +4,8 @@
   "description": "Spacetel - Guine-Bissau",
   "subnets": {
     "ipv4": [
-      "154.73.63.0/24"
+      "102.219.174.0/23",
+      "154.73.60.0/22"
     ],
     "ipv6": []
   }
