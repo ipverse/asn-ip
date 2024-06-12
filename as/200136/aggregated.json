@@ -4,6 +4,7 @@
   "description": "LibraHost",
   "subnets": {
     "ipv4": [
+      "163.5.141.0/24",
       "163.5.143.0/24"
     ],
     "ipv6": [

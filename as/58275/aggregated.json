@@ -3,7 +3,9 @@
   "handle": "ASCOMPSHOP",
   "description": "COMP-SHOP s.r.o.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "176.118.96.0/20"
+    ],
     "ipv6": []
   }
 }

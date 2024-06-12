@@ -1,0 +1,11 @@
+{
+  "asn": 151213,
+  "handle": "WICPL-AP",
+  "description": "Waterman Workspaces",
+  "subnets": {
+    "ipv4": [
+      "103.226.219.0/24"
+    ],
+    "ipv6": []
+  }
+}

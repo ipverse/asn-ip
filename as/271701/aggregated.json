@@ -4,6 +4,7 @@
   "description": "CONNEX TELECOM SERVICOS DE TELECOMUNICACOES LTDA",
   "subnets": {
     "ipv4": [
+      "45.164.152.0/22",
       "170.79.236.0/22"
     ],
     "ipv6": [

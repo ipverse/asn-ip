@@ -4,7 +4,8 @@
   "description": "RE9SUA INTERNET SERVICOS DE TELECOM LTDA",
   "subnets": {
     "ipv4": [
-      "177.67.32.0/23"
+      "177.67.32.0/23",
+      "177.67.35.0/24"
     ],
     "ipv6": []
   }

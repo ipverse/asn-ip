@@ -1,0 +1,11 @@
+{
+  "asn": 152801,
+  "handle": "BRONETWORKS-ID",
+  "description": "PT Bintang Networks Solusindo",
+  "subnets": {
+    "ipv4": [
+      "160.22.28.0/23"
+    ],
+    "ipv6": []
+  }
+}

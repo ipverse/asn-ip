@@ -3,9 +3,7 @@
   "handle": "DATA-FIBRA-TELECOM",
   "description": "Data Fibra Telecom",
   "subnets": {
-    "ipv4": [
-      "170.78.30.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

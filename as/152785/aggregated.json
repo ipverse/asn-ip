@@ -1,0 +1,11 @@
+{
+  "asn": 152785,
+  "handle": "IDNIC-KREATIFNET-ID",
+  "description": "PT Kreatif Data Prima Nusantara",
+  "subnets": {
+    "ipv4": [
+      "160.20.220.0/24"
+    ],
+    "ipv6": []
+  }
+}

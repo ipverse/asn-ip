@@ -4,7 +4,8 @@
   "description": "Stadtwerke Dorfen GmbH",
   "subnets": {
     "ipv4": [
-      "79.142.39.0/24"
+      "79.142.37.0/24",
+      "79.142.38.0/23"
     ],
     "ipv6": [
       "2a13:ae40::/29"
