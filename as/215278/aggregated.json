@@ -1,0 +1,13 @@
+{
+  "asn": 215278,
+  "handle": "LEUCHTER",
+  "description": "Leuchter IT Infrastructure Solutions AG",
+  "subnets": {
+    "ipv4": [
+      "194.147.72.0/24"
+    ],
+    "ipv6": [
+      "2001:67c:2d8c::/48"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asn": 131187,
+  "handle": "ECSN-AP",
+  "description": "Teritary Education Commission",
+  "subnets": {
+    "ipv4": [
+      "203.217.142.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -3,7 +3,10 @@
   "handle": "DIEFFEITALIA",
   "description": "Dieffeitalia.it S.r.l.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "81.22.224.0/22",
+      "185.132.228.0/22"
+    ],
     "ipv6": []
   }
 }

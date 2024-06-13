@@ -1,0 +1,11 @@
+{
+  "asn": 400948,
+  "handle": "MCHD-6-01",
+  "description": "Midland County Hospital District",
+  "subnets": {
+    "ipv4": [
+      "205.236.133.0/24"
+    ],
+    "ipv6": []
+  }
+}

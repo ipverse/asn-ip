@@ -3,7 +3,10 @@
   "handle": "SECOMEA",
   "description": "SECOMEA A/S",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "84.246.242.0/24",
+      "193.242.155.0/24"
+    ],
     "ipv6": []
   }
 }

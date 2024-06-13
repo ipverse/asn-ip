@@ -1,0 +1,11 @@
+{
+  "asn": 214803,
+  "handle": "HOMELAB",
+  "description": "Gabriel Leonte",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a0f:85c1:809::/48"
+    ]
+  }
+}

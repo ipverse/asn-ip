@@ -4,6 +4,7 @@
   "description": "Reich \u0026 Tang Deposit Solutions, LLC",
   "subnets": {
     "ipv4": [
+      "216.87.37.0/24",
       "216.120.173.0/24"
     ],
     "ipv6": []

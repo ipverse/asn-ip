@@ -4,7 +4,7 @@
   "description": "RTCloud, LLC",
   "subnets": {
     "ipv4": [
-      "185.107.128.0/23"
+      "185.107.128.0/24"
     ],
     "ipv6": []
   }

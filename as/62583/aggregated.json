@@ -4,6 +4,7 @@
   "description": "CT Management, Inc.",
   "subnets": {
     "ipv4": [
+      "66.32.101.0/24",
       "207.8.217.0/24"
     ],
     "ipv6": []

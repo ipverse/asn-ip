@@ -1,0 +1,11 @@
+{
+  "asn": 215048,
+  "handle": "IAEA-AS2",
+  "description": "International Atomic Energy Agency",
+  "subnets": {
+    "ipv4": [
+      "217.194.147.0/24"
+    ],
+    "ipv6": []
+  }
+}
