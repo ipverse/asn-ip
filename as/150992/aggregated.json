@@ -3,7 +3,9 @@
   "handle": "IDNIC-PURADEINASSEJAHTERAH-ID",
   "description": "PT Purade Inas Sejahterah",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.205.62.0/23"
+    ],
     "ipv6": []
   }
 }

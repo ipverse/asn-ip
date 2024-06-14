@@ -4,7 +4,8 @@
   "description": "Promotora de Informaciones SA",
   "subnets": {
     "ipv4": [
-      "193.219.103.0/24"
+      "193.219.103.0/24",
+      "213.99.54.0/23"
     ],
     "ipv6": []
   }

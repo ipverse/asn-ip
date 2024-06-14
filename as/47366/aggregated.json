@@ -3,10 +3,7 @@
   "handle": "ALTDC",
   "description": "Neopro Altdc SRL",
   "subnets": {
-    "ipv4": [
-      "185.62.9.0/24",
-      "185.62.10.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

@@ -3,9 +3,7 @@
   "handle": "TUFA-AP",
   "description": "TUFA Telecommunication (Pvt) Ltd.",
   "subnets": {
-    "ipv4": [
-      "103.125.176.0/22"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

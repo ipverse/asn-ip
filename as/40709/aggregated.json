@@ -3,7 +3,9 @@
   "handle": "NO",
   "description": "City of Bend",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "216.228.166.0/24"
+    ],
     "ipv6": []
   }
 }

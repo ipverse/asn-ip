@@ -1,0 +1,11 @@
+{
+  "asn": 60431,
+  "handle": "PNO",
+  "description": "PNO Solutions Limited",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a05:dfc1:4c20::/44"
+    ]
+  }
+}
