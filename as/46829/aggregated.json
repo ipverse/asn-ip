@@ -4,6 +4,7 @@
   "description": "Lamhosting LLC",
   "subnets": {
     "ipv4": [
+      "141.11.50.0/24",
       "167.253.152.0/24"
     ],
     "ipv6": []

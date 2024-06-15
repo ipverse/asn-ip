@@ -1,0 +1,11 @@
+{
+  "asn": 25743,
+  "handle": "EGRMP-NET",
+  "description": "EGRMP",
+  "subnets": {
+    "ipv4": [
+      "45.73.180.0/24"
+    ],
+    "ipv6": []
+  }
+}

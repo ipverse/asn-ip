@@ -1,0 +1,11 @@
+{
+  "asn": 152769,
+  "handle": "IDNIC-GOPALNET-ID",
+  "description": "PT Gopal Network Solusindo",
+  "subnets": {
+    "ipv4": [
+      "157.15.0.0/23"
+    ],
+    "ipv6": []
+  }
+}

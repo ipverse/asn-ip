@@ -1,9 +1,11 @@
 {
   "asn": 64487,
-  "handle": "QONEXA",
-  "description": "Cas Ebbers trading as Qonexa",
+  "handle": "BROADCASTFACILITIES",
+  "description": "Cas Ebbers trading as BroadcastFacilities",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.249.252.0/24"
+    ],
     "ipv6": []
   }
 }

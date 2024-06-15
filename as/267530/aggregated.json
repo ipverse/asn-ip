@@ -4,6 +4,7 @@
   "description": "TJ Telecom LTDA ME",
   "subnets": {
     "ipv4": [
+      "177.152.86.0/24",
       "201.182.192.0/22"
     ],
     "ipv6": [

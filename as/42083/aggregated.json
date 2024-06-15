@@ -4,6 +4,7 @@
   "description": "Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.",
   "subnets": {
     "ipv4": [
+      "109.224.242.0/24",
       "185.208.100.0/22"
     ],
     "ipv6": []

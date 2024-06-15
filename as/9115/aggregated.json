@@ -4,8 +4,7 @@
   "description": "Internet Names for Business Inc",
   "subnets": {
     "ipv4": [
-      "91.136.0.0/17",
-      "207.55.255.0/24"
+      "91.136.0.0/17"
     ],
     "ipv6": [
       "2a01:7f60::/32"

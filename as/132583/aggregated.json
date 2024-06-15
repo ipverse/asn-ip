@@ -1,9 +1,11 @@
 {
   "asn": 132583,
-  "handle": "CDPL-AP",
-  "description": "Core Desktop Pty Ltd",
+  "handle": "ASI-AP",
+  "description": "ASI Solutions Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "36.50.206.0/23"
+    ],
     "ipv6": []
   }
 }

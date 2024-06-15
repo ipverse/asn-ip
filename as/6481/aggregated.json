@@ -4,8 +4,6 @@
   "description": "Southwest Research Institute",
   "subnets": {
     "ipv4": [
-      "8.42.66.0/24",
-      "65.241.78.0/24",
       "129.162.0.0/16"
     ],
     "ipv6": [

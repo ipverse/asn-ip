@@ -1,0 +1,11 @@
+{
+  "asn": 400418,
+  "handle": "RRPS-RIP-01",
+  "description": "Rio Rancho Public Schools",
+  "subnets": {
+    "ipv4": [
+      "91.199.182.0/24"
+    ],
+    "ipv6": []
+  }
+}

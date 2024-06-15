@@ -1,0 +1,11 @@
+{
+  "asn": 2258,
+  "handle": "FR",
+  "description": "Renater",
+  "subnets": {
+    "ipv4": [
+      "208.31.216.0/24"
+    ],
+    "ipv6": []
+  }
+}
