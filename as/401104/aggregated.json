@@ -4,6 +4,7 @@
   "description": "Cyber Planet LLC",
   "subnets": {
     "ipv4": [
+      "23.181.24.0/24",
       "204.197.170.0/24"
     ],
     "ipv6": []

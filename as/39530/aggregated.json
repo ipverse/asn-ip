@@ -3,7 +3,9 @@
   "handle": "PARKER",
   "description": "James Parker",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.255.232.0/22"
+    ],
     "ipv6": []
   }
 }

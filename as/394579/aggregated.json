@@ -3,7 +3,9 @@
   "handle": "OKLAHOMA-WESTERN",
   "description": "Oklahoma Western Telephone Company",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "216.198.188.0/22"
+    ],
     "ipv6": []
   }
 }

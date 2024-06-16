@@ -1,0 +1,13 @@
+{
+  "asn": 401145,
+  "handle": "VPSRA",
+  "description": "VPSrack LLC",
+  "subnets": {
+    "ipv4": [
+      "23.179.184.0/24"
+    ],
+    "ipv6": [
+      "2602:f8de::/40"
+    ]
+  }
+}

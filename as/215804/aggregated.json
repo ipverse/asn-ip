@@ -4,6 +4,8 @@
   "description": "Adrian Hom",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a12:bec0:611::/48"
+    ]
   }
 }

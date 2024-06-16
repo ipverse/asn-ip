@@ -4,7 +4,8 @@
   "description": "Real Time Data Services Pvt Ltd",
   "subnets": {
     "ipv4": [
-      "103.27.17.0/24"
+      "103.27.17.0/24",
+      "103.27.18.0/23"
     ],
     "ipv6": []
   }

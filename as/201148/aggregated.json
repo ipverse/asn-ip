@@ -3,7 +3,10 @@
   "handle": "LOOKIN-LINK",
   "description": "Lookin-link SRL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "5.63.19.0/24",
+      "81.181.194.0/24"
+    ],
     "ipv6": []
   }
 }

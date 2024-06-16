@@ -4,7 +4,8 @@
   "description": "SHYAM DATA AND VOICE SERVICES PVT LTD",
   "subnets": {
     "ipv4": [
-      "103.173.92.0/23"
+      "103.173.92.0/23",
+      "160.22.60.0/23"
     ],
     "ipv6": [
       "2001:df7:9480::/48"

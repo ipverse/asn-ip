@@ -3,10 +3,7 @@
   "handle": "UMP-AP",
   "description": "University Malaysia Pahang",
   "subnets": {
-    "ipv4": [
-      "103.53.32.0/24",
-      "103.53.34.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

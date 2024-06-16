@@ -3,8 +3,13 @@
   "handle": "WHITELABELNETWORKS",
   "description": "Whitelabel Networks, LLC.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "62.60.227.0/24",
+      "62.60.228.0/24",
+      "213.176.72.0/24"
+    ],
     "ipv6": [
+      "2a0b:9e41::/32",
       "2a0b:9e43::/32",
       "2a14:7c0::/29"
     ]

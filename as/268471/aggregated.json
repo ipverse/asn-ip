@@ -4,6 +4,7 @@
   "description": "Estrelas Internet Ltda",
   "subnets": {
     "ipv4": [
+      "38.224.128.0/22",
       "45.160.192.0/22"
     ],
     "ipv6": [

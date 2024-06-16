@@ -3,9 +3,7 @@
   "handle": "ZOLM-IN",
   "description": "Zolm Private Limited",
   "subnets": {
-    "ipv4": [
-      "103.20.230.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }
