@@ -3,9 +3,7 @@
   "handle": "MICRODATA",
   "description": "Microdata Aps",
   "subnets": {
-    "ipv4": [
-      "194.99.44.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

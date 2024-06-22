@@ -3,7 +3,9 @@
   "handle": "CALLTOPBX",
   "description": "CALLTOPBX S.A.S. (VIVERCOM)",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "189.50.210.0/24"
+    ],
     "ipv6": []
   }
 }

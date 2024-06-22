@@ -4,7 +4,8 @@
   "description": "Noinet Societa Cooperativa",
   "subnets": {
     "ipv4": [
-      "85.208.76.0/22"
+      "85.208.76.0/22",
+      "185.133.93.0/24"
     ],
     "ipv6": [
       "2a09:83c0::/29"

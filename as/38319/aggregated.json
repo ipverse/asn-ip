@@ -4,7 +4,8 @@
   "description": "Lincoln University",
   "subnets": {
     "ipv4": [
-      "103.240.52.0/22"
+      "103.240.52.0/22",
+      "192.102.92.0/24"
     ],
     "ipv6": []
   }

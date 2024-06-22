@@ -3,9 +3,7 @@
   "handle": "AOTW",
   "description": "Angel of the Winds Casino",
   "subnets": {
-    "ipv4": [
-      "67.217.249.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

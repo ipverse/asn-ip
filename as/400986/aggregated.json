@@ -3,7 +3,9 @@
   "handle": "ADSYSTECH-01",
   "description": "Adsystech, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "67.202.234.0/24"
+    ],
     "ipv6": []
   }
 }

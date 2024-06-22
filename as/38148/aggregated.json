@@ -4,8 +4,7 @@
   "description": "QIANDRA INFORMATION TECHNOLOGY PT",
   "subnets": {
     "ipv4": [
-      "103.30.220.0/22",
-      "122.200.144.0/21"
+      "122.200.144.0/24"
     ],
     "ipv6": []
   }

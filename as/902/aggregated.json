@@ -4,6 +4,7 @@
   "description": "SPACE COAST CREDIT UNION",
   "subnets": {
     "ipv4": [
+      "8.34.19.0/24",
       "38.81.78.0/24"
     ],
     "ipv6": []

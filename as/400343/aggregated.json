@@ -3,7 +3,9 @@
   "handle": "NAMESILONNET",
   "description": "NAMESILO, L.L.C.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.45.18.0/24"
+    ],
     "ipv6": []
   }
 }

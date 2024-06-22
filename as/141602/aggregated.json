@@ -4,7 +4,8 @@
   "description": "PT Inovasi Teknologi Pintar",
   "subnets": {
     "ipv4": [
-      "103.159.112.0/23"
+      "103.159.112.0/23",
+      "157.20.95.0/24"
     ],
     "ipv6": [
       "2401:3a0::/32"

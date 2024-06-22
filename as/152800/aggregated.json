@@ -1,0 +1,11 @@
+{
+  "asn": 152800,
+  "handle": "IDNIC-GIGAMEDIANET-ID",
+  "description": "PT Giga Media Internet",
+  "subnets": {
+    "ipv4": [
+      "160.22.24.0/23"
+    ],
+    "ipv6": []
+  }
+}

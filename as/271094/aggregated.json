@@ -4,11 +4,8 @@
   "description": "Soluti Fibra Telecomunicaes Ltda",
   "subnets": {
     "ipv4": [
-      "179.48.180.0/23",
-      "179.48.183.0/24"
+      "179.48.182.0/23"
     ],
-    "ipv6": [
-      "2804:762c::/33"
-    ]
+    "ipv6": []
   }
 }

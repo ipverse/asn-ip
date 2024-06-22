@@ -1,0 +1,14 @@
+{
+  "asn": 215052,
+  "handle": "DINSERVGRO-NET",
+  "description": "Din Server Group ApS",
+  "subnets": {
+    "ipv4": [
+      "185.172.173.0/24",
+      "194.103.19.0/24"
+    ],
+    "ipv6": [
+      "2a12:bec4:11d0::/44"
+    ]
+  }
+}
