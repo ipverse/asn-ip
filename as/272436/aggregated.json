@@ -3,7 +3,9 @@
   "handle": "TERCIO-FELIPE-LOURENCO",
   "description": "TERCIO FELIPE LOURENCO PEREIRA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.191.236.0/23"
+    ],
     "ipv6": [
       "2804:8128::/32"
     ]

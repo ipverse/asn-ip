@@ -4,8 +4,6 @@
   "description": "Hostaris Limited",
   "subnets": {
     "ipv4": [
-      "23.153.232.0/24",
-      "23.166.120.0/24",
       "45.158.9.0/24"
     ],
     "ipv6": [

@@ -4,9 +4,6 @@
   "description": "INVERSIONES ABDO 77, C.A.",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2803:b950::/44",
-      "2803:b950:1000::/48"
-    ]
+    "ipv6": []
   }
 }

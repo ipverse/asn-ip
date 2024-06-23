@@ -3,7 +3,9 @@
   "handle": "OBHOST-AP",
   "description": "OBHost LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "157.254.224.0/24"
+    ],
     "ipv6": []
   }
 }

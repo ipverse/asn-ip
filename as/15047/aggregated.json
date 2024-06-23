@@ -4,7 +4,8 @@
   "description": "Crabel Capital Management, LLC",
   "subnets": {
     "ipv4": [
-      "67.199.246.0/24"
+      "67.199.246.0/24",
+      "67.199.249.0/24"
     ],
     "ipv6": []
   }

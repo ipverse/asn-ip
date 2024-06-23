@@ -1,0 +1,11 @@
+{
+  "asn": 205882,
+  "handle": "SIMCORP",
+  "description": "SimCorp A/S",
+  "subnets": {
+    "ipv4": [
+      "185.118.40.0/22"
+    ],
+    "ipv6": []
+  }
+}

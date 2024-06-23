@@ -3,9 +3,7 @@
   "handle": "FIBMESH-IN",
   "description": "FIBMESH PRIVATE LIMITED",
   "subnets": {
-    "ipv4": [
-      "103.176.130.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

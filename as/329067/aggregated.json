@@ -4,7 +4,8 @@
   "description": "Click Cloud Hosting Services CC",
   "subnets": {
     "ipv4": [
-      "102.215.104.0/22"
+      "102.215.104.0/22",
+      "196.216.207.0/24"
     ],
     "ipv6": []
   }

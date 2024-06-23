@@ -3,7 +3,9 @@
   "handle": "JAIST",
   "description": "Japan Advanced Institute of Science and Technology",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "150.65.0.0/16"
+    ],
     "ipv6": []
   }
 }

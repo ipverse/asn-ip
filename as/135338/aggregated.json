@@ -4,6 +4,8 @@
   "description": "STARCLOUD INFORMATION LIMITED",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2001:df2:95c0::/48"
+    ]
   }
 }

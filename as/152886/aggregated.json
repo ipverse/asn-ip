@@ -4,6 +4,8 @@
   "description": "Green Network",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2001:df3:dbc0::/48"
+    ]
   }
 }
