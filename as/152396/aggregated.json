@@ -3,7 +3,9 @@
   "handle": "IDNIC-ATT-ID",
   "description": "PT Visioner Maju Bersama",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "157.15.46.0/23"
+    ],
     "ipv6": []
   }
 }

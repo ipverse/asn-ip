@@ -4,7 +4,8 @@
   "description": "TL SPARK NETWORK LIMITED",
   "subnets": {
     "ipv4": [
-      "154.86.26.0/23"
+      "154.86.26.0/23",
+      "154.86.30.0/23"
     ],
     "ipv6": []
   }
