@@ -1,0 +1,11 @@
+{
+  "asn": 152387,
+  "handle": "IDNIC-RPR-ID",
+  "description": "Rumah Sakit Panti Rapih",
+  "subnets": {
+    "ipv4": [
+      "157.20.25.0/24"
+    ],
+    "ipv6": []
+  }
+}

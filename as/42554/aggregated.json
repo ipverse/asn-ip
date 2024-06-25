@@ -3,7 +3,9 @@
   "handle": "PRSBM",
   "description": "PJSC Promsvyazbank",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.33.122.0/24"
+    ],
     "ipv6": []
   }
 }

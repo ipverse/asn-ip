@@ -4,6 +4,7 @@
   "description": "NEULINK NETWORKS",
   "subnets": {
     "ipv4": [
+      "154.194.56.0/24",
       "154.197.90.0/24"
     ],
     "ipv6": []

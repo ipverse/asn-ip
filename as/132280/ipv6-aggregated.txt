@@ -1,7 +1,8 @@
 # AS132280 (SYMPHONY-AP-TH)
 # Symphony Communication Public Company Limited
 #
-2400:6280:4::/46
+2400:6280:4::/48
+2400:6280:6::/47
 2400:6280:8::/47
 2400:6280:a::/48
 2400:6280:15::/48

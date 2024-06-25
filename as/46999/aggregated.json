@@ -1,0 +1,11 @@
+{
+  "asn": 46999,
+  "handle": "CREWSBANKCORP",
+  "description": "Crews Banking Corporation",
+  "subnets": {
+    "ipv4": [
+      "50.145.154.0/23"
+    ],
+    "ipv6": []
+  }
+}

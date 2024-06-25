@@ -3,7 +3,9 @@
   "handle": "SHANTYR",
   "description": "Private Entrepreneur Shantyr Yuriy",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.228.236.0/24"
+    ],
     "ipv6": []
   }
 }

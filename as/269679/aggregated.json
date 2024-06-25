@@ -4,8 +4,6 @@
   "description": "ASSOCIACAO NACIONAL DOS PROVEDORES DE INTERNET",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2804:1f3c:4000::/35"
-    ]
+    "ipv6": []
   }
 }

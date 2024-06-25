@@ -4,7 +4,7 @@
   "description": "Cyberlink Online",
   "subnets": {
     "ipv4": [
-      "103.135.232.0/24"
+      "103.135.232.0/22"
     ],
     "ipv6": []
   }

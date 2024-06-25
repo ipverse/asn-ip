@@ -3,7 +3,9 @@
   "handle": "MEGA-TELECOM-FIBRA",
   "description": "MEGA TELECOM FIBRA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "181.233.83.0/24"
+    ],
     "ipv6": [
       "2804:7c38::/32"
     ]

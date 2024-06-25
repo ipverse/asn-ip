@@ -1,9 +1,11 @@
 {
   "asn": 64276,
-  "handle": "ABBAX-TECHNOLOGIES",
-  "description": "Abbax",
+  "handle": "CUA-ASN-01",
+  "description": "Cleveland Utilities Authority",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "64.65.48.0/21"
+    ],
     "ipv6": []
   }
 }
