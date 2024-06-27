@@ -3,7 +3,9 @@
   "handle": "COMMTOUCH",
   "description": "Cyren Inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.118.40.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,11 @@
   "handle": "CAPL-AP",
   "description": "Connected Australia PTY LTD",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "103.76.158.0/23"
+    ],
+    "ipv6": [
+      "2401:5840::/32"
+    ]
   }
 }

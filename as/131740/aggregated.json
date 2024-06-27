@@ -3,7 +3,9 @@
   "handle": "SMARTMEDIA-ID",
   "description": "PT Smart Media Pratama",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "43.245.248.0/23"
+    ],
     "ipv6": []
   }
 }

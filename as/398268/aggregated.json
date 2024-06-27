@@ -3,9 +3,7 @@
   "handle": "GSMBS",
   "description": "GLOBAL SMB SOLUTIONS LTD.",
   "subnets": {
-    "ipv4": [
-      "199.58.88.0/22"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

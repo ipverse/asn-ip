@@ -1,0 +1,11 @@
+{
+  "asn": 273510,
+  "handle": "AOS-TELECOM",
+  "description": "aos telecom ltda",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2804:8fc4::/32"
+    ]
+  }
+}

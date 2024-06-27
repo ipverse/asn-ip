@@ -3,9 +3,7 @@
   "handle": "CLOUDPOINT-AP",
   "description": "Cloud Point",
   "subnets": {
-    "ipv4": [
-      "103.51.128.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

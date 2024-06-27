@@ -4,6 +4,7 @@
   "description": "Kanton Zug",
   "subnets": {
     "ipv4": [
+      "193.134.16.0/24",
       "193.134.24.0/21"
     ],
     "ipv6": [

@@ -1,4 +1,6 @@
 # AS14793 (API-DIGITAL)
 # NeoNova Network Services, LLC
 #
-2001:408::/32
+2001:408:8000::/48
+2001:408:c000::/48
+2001:408:ff01::/48

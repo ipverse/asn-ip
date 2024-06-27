@@ -3,7 +3,9 @@
   "handle": "SUBHX-IN",
   "description": "SUBHX INFOTECH OPC PRIVATE LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "160.22.254.0/23"
+    ],
     "ipv6": []
   }
 }

@@ -4,6 +4,7 @@
   "description": "Hoag Memorial Hospital Presbyterian",
   "subnets": {
     "ipv4": [
+      "198.190.32.0/24",
       "198.190.36.0/24",
       "198.190.54.0/24"
     ],
