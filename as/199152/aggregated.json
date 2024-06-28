@@ -1,0 +1,11 @@
+{
+  "asn": 199152,
+  "handle": "VDC-USA",
+  "description": "Virtual Data Center Inc",
+  "subnets": {
+    "ipv4": [
+      "212.22.75.0/24"
+    ],
+    "ipv6": []
+  }
+}

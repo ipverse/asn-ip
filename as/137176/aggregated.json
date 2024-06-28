@@ -4,6 +4,7 @@
   "description": "The Clearing Corporation Of India Limited",
   "subnets": {
     "ipv4": [
+      "103.110.222.0/24",
       "103.113.150.0/23"
     ],
     "ipv6": [

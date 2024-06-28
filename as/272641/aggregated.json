@@ -4,6 +4,8 @@
   "description": "Ravtec Internet e Tecnologia",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2804:8668::/32"
+    ]
   }
 }

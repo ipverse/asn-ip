@@ -4,7 +4,8 @@
   "description": "Southern Cross Broadband Pty Ltd",
   "subnets": {
     "ipv4": [
-      "36.50.38.0/23"
+      "36.50.38.0/23",
+      "103.172.142.0/23"
     ],
     "ipv6": []
   }

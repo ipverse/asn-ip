@@ -4,6 +4,7 @@
   "description": "Rapidnet Private Limited",
   "subnets": {
     "ipv4": [
+      "103.68.28.0/22",
       "103.83.148.0/24"
     ],
     "ipv6": [

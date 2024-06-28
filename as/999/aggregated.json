@@ -1,0 +1,11 @@
+{
+  "asn": 999,
+  "handle": "CORIX",
+  "description": "CORIX NETWORKS",
+  "subnets": {
+    "ipv4": [
+      "208.89.72.0/22"
+    ],
+    "ipv6": []
+  }
+}

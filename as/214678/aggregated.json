@@ -1,0 +1,11 @@
+{
+  "asn": 214678,
+  "handle": "TOTALWIFI",
+  "description": "Total WiFi SL",
+  "subnets": {
+    "ipv4": [
+      "45.148.75.0/24"
+    ],
+    "ipv6": []
+  }
+}

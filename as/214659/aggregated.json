@@ -1,0 +1,12 @@
+{
+  "asn": 214659,
+  "handle": "NSCALE-NO-PUBLIC",
+  "description": "Nscale Glomfjord AS",
+  "subnets": {
+    "ipv4": [
+      "193.143.78.0/24",
+      "193.143.123.0/24"
+    ],
+    "ipv6": []
+  }
+}

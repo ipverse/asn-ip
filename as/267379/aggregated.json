@@ -4,7 +4,8 @@
   "description": "LFGUIMARES SERVIOSDE COMUNICAO MULTIMIDIA ME",
   "subnets": {
     "ipv4": [
-      "45.234.220.0/22"
+      "45.234.220.0/23",
+      "45.234.223.0/24"
     ],
     "ipv6": []
   }

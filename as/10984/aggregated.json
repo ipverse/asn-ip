@@ -3,9 +3,7 @@
   "handle": "IDS-BAYOU",
   "description": "Uniti Fiber Holdings Inc.",
   "subnets": {
-    "ipv4": [
-      "209.209.192.0/19"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

@@ -4,6 +4,7 @@
   "description": "FIBERDOM Sp. z o.o.",
   "subnets": {
     "ipv4": [
+      "2.58.217.0/24",
       "45.132.147.0/24"
     ],
     "ipv6": []

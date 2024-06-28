@@ -4,8 +4,6 @@
   "description": "FastPix Inc.",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2620:0:8001::/48"
-    ]
+    "ipv6": []
   }
 }

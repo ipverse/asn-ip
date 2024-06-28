@@ -4,8 +4,7 @@
   "description": "Khula Tech Solutions",
   "subnets": {
     "ipv4": [
-      "102.220.224.0/24",
-      "102.220.226.0/23"
+      "102.220.224.0/22"
     ],
     "ipv6": []
   }
