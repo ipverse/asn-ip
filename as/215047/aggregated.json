@@ -1,0 +1,13 @@
+{
+  "asn": 215047,
+  "handle": "THEONEBROADBAND",
+  "description": "DSV Communications Limited",
+  "subnets": {
+    "ipv4": [
+      "185.218.225.0/24"
+    ],
+    "ipv6": [
+      "2a14:5fc0::/29"
+    ]
+  }
+}

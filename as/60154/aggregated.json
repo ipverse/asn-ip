@@ -4,6 +4,7 @@
   "description": "Connectria, LLC",
   "subnets": {
     "ipv4": [
+      "65.49.26.0/24",
       "192.251.230.0/24"
     ],
     "ipv6": [

@@ -1,0 +1,13 @@
+{
+  "asn": 401209,
+  "handle": "PACS-1",
+  "description": "Precision Accounting and Consulting Services, Inc.",
+  "subnets": {
+    "ipv4": [
+      "192.80.214.0/24"
+    ],
+    "ipv6": [
+      "2602:801:a000::/44"
+    ]
+  }
+}

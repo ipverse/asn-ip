@@ -1,0 +1,14 @@
+{
+  "asn": 26499,
+  "handle": "VATECH-DCMETRO",
+  "description": "Virginia Polytechnic Institute and State Univ.",
+  "subnets": {
+    "ipv4": [
+      "45.3.108.0/23",
+      "45.3.111.0/24"
+    ],
+    "ipv6": [
+      "2607:b400:800::/40"
+    ]
+  }
+}

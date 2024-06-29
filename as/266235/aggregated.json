@@ -3,7 +3,9 @@
   "handle": "CONECTAR-TELECOMUNICACOES-BRASIL",
   "description": "CONECTAR TELECOMUNICACOES DO BRASIL LTDA - ME",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.145.208.0/22"
+    ],
     "ipv6": [
       "2804:3ccc::/32"
     ]

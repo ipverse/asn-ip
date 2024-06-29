@@ -4,7 +4,7 @@
   "description": "International Livestock Research Institute",
   "subnets": {
     "ipv4": [
-      "41.204.190.0/23",
+      "41.204.190.0/24",
       "197.136.62.0/24"
     ],
     "ipv6": []

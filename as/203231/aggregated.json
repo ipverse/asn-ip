@@ -3,7 +3,11 @@
   "handle": "V4VOIP",
   "description": "Vanquish Global Trading Ltd",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "193.218.160.0/20"
+    ],
+    "ipv6": [
+      "2a0a:5180::/29"
+    ]
   }
 }

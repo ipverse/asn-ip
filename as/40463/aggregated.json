@@ -1,0 +1,13 @@
+{
+  "asn": 40463,
+  "handle": "ALABAMA-FIBER-NETWORK",
+  "description": "Fiber Utility Network, Inc.",
+  "subnets": {
+    "ipv4": [
+      "209.178.216.0/21"
+    ],
+    "ipv6": [
+      "2602:f9fd::/32"
+    ]
+  }
+}

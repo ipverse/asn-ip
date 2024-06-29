@@ -4,6 +4,7 @@
   "description": "Sieci Swiatlowodowe Sp. z o.o.",
   "subnets": {
     "ipv4": [
+      "185.227.192.0/22",
       "193.9.125.0/24"
     ],
     "ipv6": []

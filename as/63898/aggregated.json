@@ -3,11 +3,7 @@
   "handle": "NSS-GROUP",
   "description": "NSS eMarketing solutions Co., Ltd.",
   "subnets": {
-    "ipv4": [
-      "103.158.78.0/23"
-    ],
-    "ipv6": [
-      "2406:b4c0::/32"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }
