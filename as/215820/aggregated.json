@@ -3,9 +3,7 @@
   "handle": "KAI",
   "description": "Kai Nils Jellinghaus",
   "subnets": {
-    "ipv4": [
-      "89.36.34.0/24"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2a0a:6044:7400::/47",
       "2a0a:6044:7402::/48",

@@ -4,6 +4,7 @@
   "description": "SpeedyQuick Networks Inc",
   "subnets": {
     "ipv4": [
+      "64.49.20.0/22",
       "64.234.120.0/22",
       "70.103.26.0/23",
       "130.51.24.0/22",

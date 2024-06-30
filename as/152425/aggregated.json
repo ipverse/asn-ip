@@ -3,9 +3,7 @@
   "handle": "IDNIC-MURIAGLOBAL-ID",
   "description": "PT Muria Global Network",
   "subnets": {
-    "ipv4": [
-      "157.20.100.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

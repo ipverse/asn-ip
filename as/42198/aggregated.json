@@ -4,6 +4,7 @@
   "description": "Jurassic Innovations, LLC",
   "subnets": {
     "ipv4": [
+      "31.132.36.0/24",
       "193.30.32.0/22"
     ],
     "ipv6": [

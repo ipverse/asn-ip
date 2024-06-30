@@ -3,7 +3,9 @@
   "handle": "UMLC",
   "description": "Uzhnie Magistraljnie Linii Svyazi LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.214.246.0/24"
+    ],
     "ipv6": []
   }
 }

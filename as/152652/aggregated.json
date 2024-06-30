@@ -1,0 +1,13 @@
+{
+  "asn": 152652,
+  "handle": "USAS-AP",
+  "description": "UNIVERSITI SULTAN AZLAN SHAH",
+  "subnets": {
+    "ipv4": [
+      "202.20.64.0/24"
+    ],
+    "ipv6": [
+      "2001:df3:9940::/48"
+    ]
+  }
+}
