@@ -3,7 +3,9 @@
   "handle": "CCOMPANY",
   "description": "C. Company S.r.l.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.253.200.0/22"
+    ],
     "ipv6": []
   }
 }

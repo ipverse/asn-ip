@@ -4,7 +4,8 @@
   "description": "Capricorn Space Pty Ltd",
   "subnets": {
     "ipv4": [
-      "103.143.185.0/24"
+      "103.143.185.0/24",
+      "103.168.45.0/24"
     ],
     "ipv6": []
   }

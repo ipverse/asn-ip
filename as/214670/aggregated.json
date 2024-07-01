@@ -1,0 +1,11 @@
+{
+  "asn": 214670,
+  "handle": "NOMETRIC-NET",
+  "description": "No Metric Limited",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a06:8185::/32"
+    ]
+  }
+}

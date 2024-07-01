@@ -4,6 +4,7 @@
   "description": "Altus Communications Inc.",
   "subnets": {
     "ipv4": [
+      "2.57.248.0/22",
       "38.240.144.0/20",
       "45.80.96.0/22",
       "45.85.128.0/23",

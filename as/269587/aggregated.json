@@ -4,8 +4,7 @@
   "description": "OMEGA PROVEDOR E SERVIOS DE INTERNET EIRELI-ME",
   "subnets": {
     "ipv4": [
-      "45.188.80.0/23",
-      "45.188.82.0/24"
+      "45.188.80.0/22"
     ],
     "ipv6": [
       "2804:66dc::/33"

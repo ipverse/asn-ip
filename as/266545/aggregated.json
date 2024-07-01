@@ -3,7 +3,11 @@
   "handle": "HOUSENET-TELECOMUNICACOES",
   "description": "HOUSENET TELECOMUNICACOES",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.6.192.0/22"
+    ],
+    "ipv6": [
+      "2804:3da8::/32"
+    ]
   }
 }

@@ -3,7 +3,9 @@
   "handle": "IDNIC-METAN-ID",
   "description": "PT Media Balai Nusa",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "160.19.16.0/23"
+    ],
     "ipv6": []
   }
 }
