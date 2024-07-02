@@ -4,9 +4,6 @@
   "description": "OPERA SERVICOS DE TELECOM EIRELI",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2804:840:8040::/44",
-      "2804:840:8400::/40"
-    ]
+    "ipv6": []
   }
 }

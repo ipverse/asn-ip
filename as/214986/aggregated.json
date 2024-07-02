@@ -3,7 +3,9 @@
   "handle": "VEXACLOUD",
   "description": "Ihtissam RAHMAN",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "89.213.120.0/24"
+    ],
     "ipv6": [
       "2a10:4646:150::/44"
     ]

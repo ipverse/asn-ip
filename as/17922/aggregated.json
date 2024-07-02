@@ -3,7 +3,9 @@
   "handle": "INDOSAT-INP",
   "description": "PT. INDOSAT Tbk",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "124.195.38.0/23"
+    ],
     "ipv6": []
   }
 }

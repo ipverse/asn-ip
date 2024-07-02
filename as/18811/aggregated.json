@@ -4,6 +4,7 @@
   "description": "MENTOS COUPLE, INC.",
   "subnets": {
     "ipv4": [
+      "124.175.48.0/20",
       "124.175.192.0/20"
     ],
     "ipv6": []

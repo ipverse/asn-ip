@@ -3,7 +3,9 @@
   "handle": "HTB",
   "description": "Hack The Box Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "146.103.60.0/24"
+    ],
     "ipv6": [
       "2a14:7240:a10::/48"
     ]

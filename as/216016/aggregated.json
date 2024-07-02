@@ -1,0 +1,11 @@
+{
+  "asn": 216016,
+  "handle": "AYTO-MURCIA",
+  "description": "Ayuntamiento de Murcia",
+  "subnets": {
+    "ipv4": [
+      "217.23.208.0/24"
+    ],
+    "ipv6": []
+  }
+}

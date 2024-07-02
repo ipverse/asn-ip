@@ -3,7 +3,9 @@
   "handle": "INSIDENETWORK",
   "description": "Inside Network LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "77.90.185.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,9 +3,7 @@
   "handle": "NEEV-SUPERCLOUD",
   "description": "Neev Supercloud LLC",
   "subnets": {
-    "ipv4": [
-      "43.254.31.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "K-SILVA-OLIVEIRA",
   "description": "K SILVA OLIVEIRA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.6.236.0/22"
+    ],
     "ipv6": [
       "2804:8024::/32"
     ]

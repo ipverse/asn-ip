@@ -1,0 +1,11 @@
+{
+  "asn": 4620,
+  "handle": "SOLONE-AP",
+  "description": "Sol One PTE LTD",
+  "subnets": {
+    "ipv4": [
+      "198.246.223.0/24"
+    ],
+    "ipv6": []
+  }
+}

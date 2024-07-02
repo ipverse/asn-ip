@@ -3,7 +3,12 @@
   "handle": "DNIC-00",
   "description": "Headquarters, USAISC",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "134.194.0.0/16",
+      "147.241.0.0/19"
+    ],
+    "ipv6": [
+      "2001:480:36::/48"
+    ]
   }
 }

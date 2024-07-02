@@ -1,0 +1,13 @@
+{
+  "asn": 146762,
+  "handle": "SHIXP",
+  "description": "NATIONAL(SHANGHAI) NEW-TYPE INTERNET EXCHANGE POINT",
+  "subnets": {
+    "ipv4": [
+      "114.111.176.0/20"
+    ],
+    "ipv6": [
+      "2400:5f60::/32"
+    ]
+  }
+}

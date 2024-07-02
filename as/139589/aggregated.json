@@ -4,8 +4,6 @@
   "description": "GTDev Network",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2a0e:aa01:1fff::/48"
-    ]
+    "ipv6": []
   }
 }

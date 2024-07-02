@@ -1,0 +1,11 @@
+{
+  "asn": 401189,
+  "handle": "FARPINE-01",
+  "description": "FARPINE LLC",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2602:f89c::/48"
+    ]
+  }
+}

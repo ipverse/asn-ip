@@ -3,7 +3,9 @@
   "handle": "YOTTABIT",
   "description": "Yottabit Inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "64.49.29.0/24"
+    ],
     "ipv6": [
       "2602:fc5f::/36"
     ]

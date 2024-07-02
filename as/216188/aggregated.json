@@ -3,7 +3,9 @@
   "handle": "HOST-UNLIMITED",
   "description": "Bieber IT GmbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "88.218.227.0/24"
+    ],
     "ipv6": [
       "2a13:fd40::/29"
     ]
