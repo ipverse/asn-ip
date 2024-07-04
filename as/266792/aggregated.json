@@ -3,7 +3,9 @@
   "handle": "NOVO-COMMUNICATIONS-LIMITED",
   "description": "NOVO COMMUNICATIONS LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.234.164.0/22"
+    ],
     "ipv6": []
   }
 }

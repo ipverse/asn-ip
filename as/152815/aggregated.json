@@ -1,0 +1,11 @@
+{
+  "asn": 152815,
+  "handle": "IDNIC-LDATA-ID",
+  "description": "PT Lintas Data Kita",
+  "subnets": {
+    "ipv4": [
+      "160.22.90.0/24"
+    ],
+    "ipv6": []
+  }
+}

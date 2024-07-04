@@ -3,7 +3,9 @@
   "handle": "GLCNET",
   "description": "Global Link Communications Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.147.45.0/24"
+    ],
     "ipv6": []
   }
 }

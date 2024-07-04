@@ -4,7 +4,8 @@
   "description": "GPR NET COMUNICACOES EIRELI",
   "subnets": {
     "ipv4": [
-      "45.187.104.0/22"
+      "45.187.104.0/23",
+      "45.187.106.0/24"
     ],
     "ipv6": [
       "2804:657c::/32"

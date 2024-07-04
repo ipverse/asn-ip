@@ -3,9 +3,7 @@
   "handle": "MARGONW-IN",
   "description": "Margo Networks Pvt Ltd",
   "subnets": {
-    "ipv4": [
-      "45.126.189.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

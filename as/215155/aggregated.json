@@ -3,7 +3,10 @@
   "handle": "HALIL-OMER-TEKIN",
   "description": "HALIL OMER TEKIN",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "5.178.96.0/24",
+      "91.102.163.0/24"
+    ],
     "ipv6": []
   }
 }

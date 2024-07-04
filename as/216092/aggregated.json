@@ -1,0 +1,11 @@
+{
+  "asn": 216092,
+  "handle": "BASENET",
+  "description": "Basenet Internet Projects BV",
+  "subnets": {
+    "ipv4": [
+      "195.95.150.0/24"
+    ],
+    "ipv6": []
+  }
+}

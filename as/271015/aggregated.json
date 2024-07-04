@@ -3,7 +3,11 @@
   "handle": "NET-LESSA-SERVICOS",
   "description": "NET LESSA SERVICOS",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "138.204.16.0/23"
+    ],
+    "ipv6": [
+      "2804:74f8::/32"
+    ]
   }
 }

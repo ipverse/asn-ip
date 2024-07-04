@@ -1,0 +1,11 @@
+{
+  "asn": 273420,
+  "handle": "MISTERNET-INTERNET",
+  "description": "Misternet internet Ltda",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2804:8e60::/32"
+    ]
+  }
+}

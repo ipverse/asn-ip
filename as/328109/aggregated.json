@@ -1,0 +1,11 @@
+{
+  "asn": 328109,
+  "handle": "CITY-OF-CAPE-TOWN",
+  "description": "City of Cape Town",
+  "subnets": {
+    "ipv4": [
+      "165.25.0.0/16"
+    ],
+    "ipv6": []
+  }
+}

@@ -3,7 +3,9 @@
   "handle": "ORG-ISL104-RIPE",
   "description": "INFRANET SOLUTIONS LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.253.82.0/23"
+    ],
     "ipv6": [
       "2a0f:7803:f8f0::/44"
     ]

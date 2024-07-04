@@ -1,9 +1,11 @@
 {
   "asn": 150127,
-  "handle": "RESERVED",
-  "description": "APNIC ASN block",
+  "handle": "LACTALIS-AP",
+  "description": "Lactalis Australia Pty Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "203.10.7.0/24"
+    ],
     "ipv6": []
   }
 }

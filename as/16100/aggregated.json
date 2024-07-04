@@ -3,7 +3,9 @@
   "handle": "BNS",
   "description": "Blocul National Sindical BNS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.232.228.0/24"
+    ],
     "ipv6": []
   }
 }
