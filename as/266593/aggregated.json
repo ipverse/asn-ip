@@ -3,7 +3,9 @@
   "handle": "JASGAB-TELECOM",
   "description": "JASGAB TELECOM",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.7.152.0/22"
+    ],
     "ipv6": [
       "2804:3e64::/32"
     ]

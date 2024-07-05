@@ -3,7 +3,9 @@
   "handle": "FOXO",
   "description": "SHU-HAO TUNG",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "160.25.104.0/23"
+    ],
     "ipv6": [
       "2602:f9f6:410::/44",
       "2a0e:8f02:f03d::/48",

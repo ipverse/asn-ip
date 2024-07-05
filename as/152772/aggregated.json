@@ -3,9 +3,7 @@
   "handle": "IDNIC-AWANPINTAR-ID",
   "description": "PT Prosperita Sistem Indonesia",
   "subnets": {
-    "ipv4": [
-      "157.66.125.0/24"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2001:df3:d940::/48"
     ]

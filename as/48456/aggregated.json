@@ -1,9 +1,11 @@
 {
   "asn": 48456,
-  "handle": "RESERVED",
-  "description": "RIPE NCC ASN block",
+  "handle": "IPX",
+  "description": "IPX - FZCO",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a09:9100::/29"
+    ]
   }
 }

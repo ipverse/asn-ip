@@ -1,0 +1,11 @@
+{
+  "asn": 30788,
+  "handle": "SEVEN-DIGITAL-NETWORK",
+  "description": "Seven Digital Network Services LLC",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a0e:4780::/29"
+    ]
+  }
+}

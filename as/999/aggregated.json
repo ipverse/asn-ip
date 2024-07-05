@@ -4,6 +4,7 @@
   "description": "CORIX NETWORKS",
   "subnets": {
     "ipv4": [
+      "38.57.118.0/24",
       "208.89.72.0/22"
     ],
     "ipv6": [

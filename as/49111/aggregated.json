@@ -1,9 +1,11 @@
 {
   "asn": 49111,
-  "handle": "ECOTEL",
-  "description": "Ecotel Ltd",
+  "handle": "INET",
+  "description": "iNet Ltd",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a0e:98c0::/29"
+    ]
   }
 }

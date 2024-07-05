@@ -3,7 +3,9 @@
   "handle": "CARYNC",
   "description": "Town of Cary",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "130.51.110.0/24"
+    ],
     "ipv6": []
   }
 }

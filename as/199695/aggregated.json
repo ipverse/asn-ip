@@ -3,7 +3,9 @@
   "handle": "ANYM-NET",
   "description": "PT Anym Network Indonesia",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "31.6.14.0/24"
+    ],
     "ipv6": [
       "2a12:bec0:170::/48"
     ]

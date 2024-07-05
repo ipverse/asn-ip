@@ -3,7 +3,9 @@
   "handle": "STELEPORT",
   "description": "Limited LC Sputnik TELEPORT",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "79.171.168.0/21"
+    ],
     "ipv6": []
   }
 }

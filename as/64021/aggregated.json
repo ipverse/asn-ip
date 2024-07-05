@@ -4,7 +4,6 @@
   "description": "Hong Kong Business Telecom Limited",
   "subnets": {
     "ipv4": [
-      "103.215.124.0/24",
       "150.129.42.0/24"
     ],
     "ipv6": []

@@ -4,6 +4,7 @@
   "description": "NEXNETT Brasil Telecom",
   "subnets": {
     "ipv4": [
+      "38.224.192.0/20",
       "131.100.164.0/22",
       "206.0.156.0/22"
     ],

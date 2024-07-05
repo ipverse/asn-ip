@@ -4,9 +4,10 @@
   "description": "POP TELECOM SOLUCOES INTELIGENTES DE TELEC LTDA",
   "subnets": {
     "ipv4": [
-      "201.216.113.0/24",
-      "201.216.115.0/24"
+      "201.216.112.0/22"
     ],
-    "ipv6": []
+    "ipv6": [
+      "2804:6a3c::/32"
+    ]
   }
 }

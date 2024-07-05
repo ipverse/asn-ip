@@ -3,9 +3,7 @@
   "handle": "STONEHEDGE",
   "description": "JSC STONEHEDGE",
   "subnets": {
-    "ipv4": [
-      "62.233.42.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

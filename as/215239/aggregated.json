@@ -3,7 +3,9 @@
   "handle": "SHOW",
   "description": "Show Corporation",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.143.0.0/22"
+    ],
     "ipv6": [
       "2a14:2d40::/29"
     ]
