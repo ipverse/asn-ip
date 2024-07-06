@@ -1,11 +1,13 @@
 {
   "asn": 214580,
-  "handle": "FRAABUG",
+  "handle": "DARILON",
   "description": "Fraab UG (haftungsbeschraenkt)",
   "subnets": {
     "ipv4": [
       "77.90.21.0/24"
     ],
-    "ipv6": []
+    "ipv6": [
+      "2a12:bec4:13e0::/44"
+    ]
   }
 }

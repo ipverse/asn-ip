@@ -3,10 +3,7 @@
   "handle": "ESI",
   "description": "ESI s.r.l.",
   "subnets": {
-    "ipv4": [
-      "193.194.16.0/23",
-      "193.194.18.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

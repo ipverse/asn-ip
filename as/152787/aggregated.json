@@ -1,0 +1,11 @@
+{
+  "asn": 152787,
+  "handle": "IDNIC-CYBEREVO-ID",
+  "description": "PT Jaringan Cyber Evo",
+  "subnets": {
+    "ipv4": [
+      "160.19.178.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asn": 152810,
+  "handle": "IDNIC-GSNET-ID",
+  "description": "PT GALAXY SINERGI NETWORK",
+  "subnets": {
+    "ipv4": [
+      "160.22.134.0/24"
+    ],
+    "ipv6": []
+  }
+}

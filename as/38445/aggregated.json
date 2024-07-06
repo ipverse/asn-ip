@@ -4,7 +4,8 @@
   "description": "WiPro BPO Philippines LTD Inc.",
   "subnets": {
     "ipv4": [
-      "120.28.21.0/24"
+      "120.28.21.0/24",
+      "202.9.202.0/24"
     ],
     "ipv6": []
   }

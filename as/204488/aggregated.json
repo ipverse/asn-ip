@@ -4,7 +4,6 @@
   "description": "Conecta - Soluciones de conectividad S.L.",
   "subnets": {
     "ipv4": [
-      "185.175.63.0/24",
       "185.247.168.0/22"
     ],
     "ipv6": []

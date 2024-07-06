@@ -4,6 +4,7 @@
   "description": "Moraine Park Technical College",
   "subnets": {
     "ipv4": [
+      "12.104.109.0/24",
       "38.126.14.0/24",
       "205.213.200.0/24",
       "205.213.202.0/24"

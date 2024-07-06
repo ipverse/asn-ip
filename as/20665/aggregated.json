@@ -4,6 +4,7 @@
   "description": "Varna Net Ltd.",
   "subnets": {
     "ipv4": [
+      "93.123.7.0/24",
       "217.145.80.0/20"
     ],
     "ipv6": []

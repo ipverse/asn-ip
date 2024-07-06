@@ -1,0 +1,11 @@
+{
+  "asn": 152825,
+  "handle": "IDNIC-TABISNET-ID",
+  "description": "PT Teradata Bintang Selaras",
+  "subnets": {
+    "ipv4": [
+      "160.22.206.0/23"
+    ],
+    "ipv6": []
+  }
+}

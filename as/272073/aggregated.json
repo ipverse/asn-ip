@@ -3,7 +3,9 @@
   "handle": "SILKGLOBAL-DOMINICANA",
   "description": "SILKGLOBAL DOMINICANA SRL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.153.165.0/24"
+    ],
     "ipv6": []
   }
 }
