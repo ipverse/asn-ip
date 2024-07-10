@@ -3,7 +3,9 @@
   "handle": "ALLEGIANCE-01",
   "description": "ALLEGIANCE BENEFIT PLAN MANAGEMENT, INC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "104.167.193.0/24"
+    ],
     "ipv6": []
   }
 }

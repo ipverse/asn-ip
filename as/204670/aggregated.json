@@ -4,6 +4,7 @@
   "description": "NTT United Kingdom Ltd",
   "subnets": {
     "ipv4": [
+      "131.103.30.0/24",
       "140.174.224.0/24"
     ],
     "ipv6": []

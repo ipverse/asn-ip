@@ -4,6 +4,7 @@
   "description": "Bloomingdale Communications Inc.",
   "subnets": {
     "ipv4": [
+      "38.45.84.0/22",
       "198.47.48.0/20",
       "199.255.100.0/22",
       "208.25.96.0/23",

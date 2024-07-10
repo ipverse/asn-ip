@@ -1,0 +1,12 @@
+{
+  "asn": 273194,
+  "handle": "FAOBA-DC-S-S",
+  "description": "FAOBA DC S A S",
+  "subnets": {
+    "ipv4": [
+      "91.205.232.0/23",
+      "91.205.234.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -3,9 +3,7 @@
   "handle": "EDELSKJOLDHOLDING",
   "description": "Edelskjold Holding ApS",
   "subnets": {
-    "ipv4": [
-      "194.39.242.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

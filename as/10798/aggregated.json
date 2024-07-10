@@ -4,6 +4,7 @@
   "description": "The Standard Bank of South Africa (Proprietary) Limited",
   "subnets": {
     "ipv4": [
+      "166.85.5.0/24",
       "166.85.16.0/23",
       "196.8.6.0/24",
       "196.8.11.0/24",

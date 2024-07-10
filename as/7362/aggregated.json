@@ -3,7 +3,9 @@
   "handle": "HST-CHRON",
   "description": "Hearst Newspapers, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "167.173.202.0/24"
+    ],
     "ipv6": []
   }
 }

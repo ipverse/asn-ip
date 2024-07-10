@@ -3,7 +3,9 @@
   "handle": "IJ",
   "description": "ADEVINTA SPAIN S.L.U.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "79.171.25.0/24"
+    ],
     "ipv6": []
   }
 }

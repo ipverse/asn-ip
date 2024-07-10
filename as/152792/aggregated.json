@@ -3,7 +3,9 @@
   "handle": "IDNIC-PKR-ID",
   "description": "Politeknik Kesehatan Riau",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "160.20.78.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "MEDIANETPVTLTD-AP",
   "description": "Media Net Pvt Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.84.132.0/24"
+    ],
     "ipv6": []
   }
 }

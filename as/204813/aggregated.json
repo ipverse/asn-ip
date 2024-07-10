@@ -3,7 +3,11 @@
   "handle": "SHAHREKORD-UNIVERSITY",
   "description": "Shahrekord University",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.105.120.0/22",
+      "185.107.248.0/22",
+      "185.225.180.0/22"
+    ],
     "ipv6": []
   }
 }

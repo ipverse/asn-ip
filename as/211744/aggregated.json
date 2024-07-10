@@ -3,7 +3,9 @@
   "handle": "INTERPIPE",
   "description": "INTERPIPE LLC Company",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "85.198.149.0/24"
+    ],
     "ipv6": []
   }
 }

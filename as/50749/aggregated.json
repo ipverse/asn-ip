@@ -4,7 +4,8 @@
   "description": "Yaghoot Pars Asia Cooperative Company",
   "subnets": {
     "ipv4": [
-      "185.134.96.0/22"
+      "185.134.96.0/22",
+      "185.202.56.0/22"
     ],
     "ipv6": []
   }

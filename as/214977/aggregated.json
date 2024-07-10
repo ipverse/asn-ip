@@ -3,7 +3,11 @@
   "handle": "AB",
   "description": "Artsakhbank CJSC",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "194.11.239.0/24"
+    ],
+    "ipv6": [
+      "2a14:4800::/29"
+    ]
   }
 }

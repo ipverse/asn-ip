@@ -3,9 +3,7 @@
   "handle": "CYCLOP",
   "description": "Cyclop S.a r.l.",
   "subnets": {
-    "ipv4": [
-      "185.254.37.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

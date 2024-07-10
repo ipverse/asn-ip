@@ -1,0 +1,11 @@
+{
+  "asn": 208013,
+  "handle": "WANTECH-1",
+  "description": "wantech gmbh",
+  "subnets": {
+    "ipv4": [
+      "5.182.0.0/22"
+    ],
+    "ipv6": []
+  }
+}
