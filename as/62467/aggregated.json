@@ -4,8 +4,7 @@
   "description": "TXNet Communications LLC",
   "subnets": {
     "ipv4": [
-      "104.167.243.0/24",
-      "204.197.168.0/23"
+      "104.167.243.0/24"
     ],
     "ipv6": [
       "2602:fccf:800::/37"

@@ -3,7 +3,11 @@
   "handle": "BIGDATA",
   "description": "Big Data Broadband Pvt. Ltd.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "103.111.159.0/24"
+    ],
+    "ipv6": [
+      "2001:df2:1bc0::/48"
+    ]
   }
 }

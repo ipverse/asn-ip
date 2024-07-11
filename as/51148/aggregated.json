@@ -1,11 +1,9 @@
 {
   "asn": 51148,
-  "handle": "ROBCOM",
-  "description": "Robert Tomasz Szelagowski trading as ROBCOM",
+  "handle": "CLX",
+  "description": "CELLNEX POLAND Sp. z o.o.",
   "subnets": {
-    "ipv4": [
-      "185.133.160.0/22"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

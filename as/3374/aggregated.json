@@ -4,7 +4,6 @@
   "description": "Verizon Business",
   "subnets": {
     "ipv4": [
-      "108.37.128.0/17",
       "146.1.144.0/20",
       "146.1.224.0/21"
     ],

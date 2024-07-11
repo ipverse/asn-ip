@@ -3,7 +3,9 @@
   "handle": "VKB",
   "description": "Volkskreditbank AG",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.8.127.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "TEEB-WEB",
   "description": "TEEB WEB",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "191.7.32.0/24"
+    ],
     "ipv6": [
       "2804:8dfc::/32"
     ]

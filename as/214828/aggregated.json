@@ -4,7 +4,8 @@
   "description": "StarLight Network, Inc.",
   "subnets": {
     "ipv4": [
-      "2.56.254.0/24"
+      "2.56.254.0/24",
+      "23.95.161.0/24"
     ],
     "ipv6": []
   }

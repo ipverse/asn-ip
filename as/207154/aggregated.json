@@ -4,6 +4,7 @@
   "description": "PE Luseya Plyus",
   "subnets": {
     "ipv4": [
+      "92.253.192.0/22",
       "93.170.220.0/22"
     ],
     "ipv6": []

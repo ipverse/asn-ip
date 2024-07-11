@@ -1,0 +1,11 @@
+{
+  "asn": 48054,
+  "handle": "RBSRU",
+  "description": "JSC Expobank",
+  "subnets": {
+    "ipv4": [
+      "91.208.254.0/24"
+    ],
+    "ipv6": []
+  }
+}

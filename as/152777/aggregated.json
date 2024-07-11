@@ -1,0 +1,11 @@
+{
+  "asn": 152777,
+  "handle": "IDNIC-RUNNET-ID",
+  "description": "PT Runnet Media Utama",
+  "subnets": {
+    "ipv4": [
+      "157.66.170.0/23"
+    ],
+    "ipv6": []
+  }
+}

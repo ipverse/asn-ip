@@ -3,11 +3,7 @@
   "handle": "JOHNNY-FRANK-VARAS",
   "description": "Johnny Frank Varas ME",
   "subnets": {
-    "ipv4": [
-      "38.196.250.0/24"
-    ],
-    "ipv6": [
-      "2804:8d1c::/32"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

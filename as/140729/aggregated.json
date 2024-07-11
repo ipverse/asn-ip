@@ -1,0 +1,11 @@
+{
+  "asn": 140729,
+  "handle": "IAUT-AP",
+  "description": "Intertrading Australia",
+  "subnets": {
+    "ipv4": [
+      "160.22.176.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -3,9 +3,7 @@
   "handle": "HTRI",
   "description": "Heat Transfer Research, Inc.",
   "subnets": {
-    "ipv4": [
-      "161.199.26.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

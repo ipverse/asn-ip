@@ -3,7 +3,9 @@
   "handle": "IDEAPS-TX",
   "description": "IDEA Public Schools",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.84.110.0/24"
+    ],
     "ipv6": []
   }
 }

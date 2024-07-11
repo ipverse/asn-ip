@@ -1,0 +1,11 @@
+{
+  "asn": 153069,
+  "handle": "IDNIC-AKJINDO-ID",
+  "description": "PT Akses Jaringan Indonesia",
+  "subnets": {
+    "ipv4": [
+      "160.25.45.0/24"
+    ],
+    "ipv6": []
+  }
+}

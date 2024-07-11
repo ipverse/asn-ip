@@ -4,8 +4,7 @@
   "description": "Zajil International Telecom Company KSCC",
   "subnets": {
     "ipv4": [
-      "80.184.196.0/22",
-      "168.187.243.0/24"
+      "80.184.196.0/22"
     ],
     "ipv6": []
   }

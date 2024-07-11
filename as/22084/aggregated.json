@@ -3,7 +3,13 @@
   "handle": "GEI-NET",
   "description": "John Hagee Ministries",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "8.24.218.0/23",
+      "8.40.138.0/24",
+      "23.144.192.0/24"
+    ],
+    "ipv6": [
+      "2620:133:6000::/44"
+    ]
   }
 }

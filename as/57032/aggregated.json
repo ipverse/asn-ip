@@ -1,0 +1,13 @@
+{
+  "asn": 57032,
+  "handle": "VERTEBRATUS-NL",
+  "description": "Vertebratus B.V.",
+  "subnets": {
+    "ipv4": [
+      "2.57.239.0/24"
+    ],
+    "ipv6": [
+      "2a12:9bc0::/29"
+    ]
+  }
+}

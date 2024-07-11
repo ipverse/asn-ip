@@ -3,7 +3,9 @@
   "handle": "XYBERDATA",
   "description": "Xyberdata Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "102.218.128.0/24"
+    ],
     "ipv6": []
   }
 }
