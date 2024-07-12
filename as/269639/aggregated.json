@@ -4,9 +4,11 @@
   "description": "WORKSAT SERVIOS DE TELECOMUNICAES",
   "subnets": {
     "ipv4": [
+      "45.177.120.0/22",
       "45.190.152.0/22"
     ],
     "ipv6": [
+      "2804:5db4::/32",
       "2804:679c::/32"
     ]
   }

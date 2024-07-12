@@ -3,11 +3,7 @@
   "handle": "HARDNET",
   "description": "Hardnet SRL",
   "subnets": {
-    "ipv4": [
-      "38.147.157.0/24"
-    ],
-    "ipv6": [
-      "2803:fe50::/32"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

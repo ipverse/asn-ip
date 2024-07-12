@@ -1,7 +1,7 @@
 {
   "asn": 50340,
   "handle": "SELECTEL-MSK",
-  "description": "OOO Network of data-centers Selectel",
+  "description": "Selectel JSC",
   "subnets": {
     "ipv4": [
       "2.58.68.0/22",
@@ -175,6 +175,7 @@
       "95.213.255.0/24",
       "109.71.8.0/21",
       "109.234.159.0/24",
+      "121.127.37.0/24",
       "146.185.192.0/22",
       "146.185.235.0/24",
       "160.20.158.0/23",

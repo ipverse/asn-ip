@@ -1,0 +1,11 @@
+{
+  "asn": 152819,
+  "handle": "IDNIC-PINNET-ID",
+  "description": "PT Pulau Indah Nettwork",
+  "subnets": {
+    "ipv4": [
+      "160.22.98.0/23"
+    ],
+    "ipv6": []
+  }
+}

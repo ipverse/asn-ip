@@ -1,0 +1,11 @@
+{
+  "asn": 152798,
+  "handle": "IDNIC-AUFA-ID",
+  "description": "PT Aufa Berkah Media",
+  "subnets": {
+    "ipv4": [
+      "160.22.30.0/23"
+    ],
+    "ipv6": []
+  }
+}

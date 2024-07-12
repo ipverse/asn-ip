@@ -1,0 +1,13 @@
+{
+  "asn": 215044,
+  "handle": "OBT-AG",
+  "description": "OBT AG",
+  "subnets": {
+    "ipv4": [
+      "45.157.48.0/22"
+    ],
+    "ipv6": [
+      "2a07:9840::/29"
+    ]
+  }
+}

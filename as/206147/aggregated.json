@@ -4,7 +4,8 @@
   "description": "Banque Lombard Odier \u0026 Cie SA",
   "subnets": {
     "ipv4": [
-      "185.191.68.0/22"
+      "185.191.68.0/22",
+      "194.6.163.0/24"
     ],
     "ipv6": []
   }

@@ -4,7 +4,8 @@
   "description": "Lactalis Australia Pty Ltd",
   "subnets": {
     "ipv4": [
-      "203.10.7.0/24"
+      "203.10.6.0/23",
+      "203.10.8.0/24"
     ],
     "ipv6": []
   }

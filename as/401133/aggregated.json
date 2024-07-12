@@ -1,0 +1,13 @@
+{
+  "asn": 401133,
+  "handle": "TSIANA",
+  "description": "TSIANA INC.",
+  "subnets": {
+    "ipv4": [
+      "168.100.15.0/24"
+    ],
+    "ipv6": [
+      "2602:f8a3::/41"
+    ]
+  }
+}

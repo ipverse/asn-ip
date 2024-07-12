@@ -3,9 +3,12 @@
   "handle": "TENNANT-SOFTWARE",
   "description": "Tennant Software",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "64.49.15.0/24",
+      "207.174.106.0/24"
+    ],
     "ipv6": [
-      "2602:f97e:11::/48"
+      "2602:f97e::/40"
     ]
   }
 }

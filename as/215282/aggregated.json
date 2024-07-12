@@ -3,7 +3,11 @@
   "handle": "CYBERRYDERZ",
   "description": "Markus Roeder trading as Cyberryderz Network",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "86.109.232.0/24"
+    ],
+    "ipv6": [
+      "2a13:ccc7::/32"
+    ]
   }
 }

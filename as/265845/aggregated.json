@@ -3,11 +3,7 @@
   "handle": "GONZALEZ-JORGE-TOMAS",
   "description": "Gonzalez Jorge Tomas.",
   "subnets": {
-    "ipv4": [
-      "45.224.9.0/24",
-      "161.104.128.0/18",
-      "199.13.64.0/18"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }
