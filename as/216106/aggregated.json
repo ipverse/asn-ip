@@ -3,7 +3,9 @@
   "handle": "JUSTFIBERNET",
   "description": "JustFiberNet GmbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "82.206.22.0/23"
+    ],
     "ipv6": []
   }
 }

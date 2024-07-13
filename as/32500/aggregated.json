@@ -3,7 +3,9 @@
   "handle": "VESTA",
   "description": "Airbus DS Communications Inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "75.108.206.0/24"
+    ],
     "ipv6": []
   }
 }

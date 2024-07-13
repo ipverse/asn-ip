@@ -1,0 +1,13 @@
+{
+  "asn": 152758,
+  "handle": "IDNIC-ADILINKINA-ID",
+  "description": "PT AKSES DATA INDORAYA",
+  "subnets": {
+    "ipv4": [
+      "157.66.238.0/23"
+    ],
+    "ipv6": [
+      "2001:df3:d1c0::/48"
+    ]
+  }
+}

@@ -4,6 +4,7 @@
   "description": "teuto.net Netzdienste GmbH",
   "subnets": {
     "ipv4": [
+      "212.15.204.0/22",
       "212.15.208.0/21"
     ],
     "ipv6": [

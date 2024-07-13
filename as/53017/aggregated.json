@@ -4,7 +4,8 @@
   "description": "REDE NOVO TEMPO DE COMUNICAO",
   "subnets": {
     "ipv4": [
-      "177.72.120.0/21"
+      "177.72.120.0/24",
+      "177.72.124.0/22"
     ],
     "ipv6": []
   }

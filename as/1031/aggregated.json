@@ -1,11 +1,11 @@
 {
   "asn": 1031,
   "handle": "PEER1",
-  "description": "CORIX NETWORKS",
+  "description": "PEER 1031 LLC",
   "subnets": {
     "ipv4": [
       "38.57.112.0/24",
-      "38.57.116.0/23",
+      "38.57.117.0/24",
       "38.105.3.0/24"
     ],
     "ipv6": [

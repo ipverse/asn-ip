@@ -1,0 +1,11 @@
+{
+  "asn": 401092,
+  "handle": "ESUSDNET",
+  "description": "El Segundo Unified School District",
+  "subnets": {
+    "ipv4": [
+      "66.186.61.0/24"
+    ],
+    "ipv6": []
+  }
+}

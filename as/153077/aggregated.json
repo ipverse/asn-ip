@@ -1,0 +1,11 @@
+{
+  "asn": 153077,
+  "handle": "IDNIC-CAN-ID",
+  "description": "PT Citra Akses Nusantara",
+  "subnets": {
+    "ipv4": [
+      "160.25.112.0/23"
+    ],
+    "ipv6": []
+  }
+}

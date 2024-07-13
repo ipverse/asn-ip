@@ -1,0 +1,14 @@
+{
+  "asn": 203532,
+  "handle": "S3NS",
+  "description": "Thales Cloud Securise SAS",
+  "subnets": {
+    "ipv4": [
+      "31.43.174.0/23",
+      "177.222.64.0/20"
+    ],
+    "ipv6": [
+      "2a13:7500:8100::/46"
+    ]
+  }
+}

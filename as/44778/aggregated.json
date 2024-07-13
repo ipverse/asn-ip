@@ -3,7 +3,10 @@
   "handle": "EIF",
   "description": "Enterprise Incubator Foundation",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.149.140.0/24",
+      "185.149.143.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,9 +3,15 @@
   "handle": "DIRECTNODE",
   "description": "Valentino de Vries trading as DirectNode",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "82.152.249.0/24",
+      "141.11.60.0/24",
+      "146.103.54.0/24",
+      "191.101.102.0/24"
+    ],
     "ipv6": [
-      "2a10:7403::/32"
+      "2a10:7403::/32",
+      "2a13:9502::/32"
     ]
   }
 }

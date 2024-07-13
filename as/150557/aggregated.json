@@ -3,7 +3,9 @@
   "handle": "IDNIC-HASTEL-ID",
   "description": "PT HASIBUAN TELEKOMUNIKASI INDONESIA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.95.22.0/24"
+    ],
     "ipv6": []
   }
 }

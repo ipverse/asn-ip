@@ -4,6 +4,8 @@
   "description": "ALEXSANDRO SOUZA SANTOS",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2804:9044::/32"
+    ]
   }
 }

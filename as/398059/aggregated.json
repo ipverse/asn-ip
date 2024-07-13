@@ -1,0 +1,11 @@
+{
+  "asn": 398059,
+  "handle": "SUNY-PURCHASE",
+  "description": "State University New York Purchase College",
+  "subnets": {
+    "ipv4": [
+      "199.79.171.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asn": 401208,
+  "handle": "EPHRON-01",
+  "description": "Ephron, Inc.",
+  "subnets": {
+    "ipv4": [
+      "74.50.1.0/24"
+    ],
+    "ipv6": []
+  }
+}

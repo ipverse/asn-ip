@@ -3,12 +3,7 @@
   "handle": "SUMO",
   "description": "Sumofiber",
   "subnets": {
-    "ipv4": [
-      "38.148.72.0/24",
-      "38.148.96.0/21"
-    ],
-    "ipv6": [
-      "2604:f580::/32"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

@@ -4,7 +4,8 @@
   "description": "Johann Wolfgang Goethe-Universitat Frankfurt am Main",
   "subnets": {
     "ipv4": [
-      "141.2.0.0/16"
+      "141.2.0.0/16",
+      "185.193.228.0/22"
     ],
     "ipv6": [
       "2001:a38::/32"

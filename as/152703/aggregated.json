@@ -1,0 +1,11 @@
+{
+  "asn": 152703,
+  "handle": "BAINZ-AP",
+  "description": "BAINZ",
+  "subnets": {
+    "ipv4": [
+      "103.16.4.0/23"
+    ],
+    "ipv6": []
+  }
+}
