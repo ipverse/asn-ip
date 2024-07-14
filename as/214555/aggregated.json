@@ -1,0 +1,13 @@
+{
+  "asn": 214555,
+  "handle": "TREASURY",
+  "description": "Treasury Limited",
+  "subnets": {
+    "ipv4": [
+      "212.56.56.0/24"
+    ],
+    "ipv6": [
+      "2a14:7640::/48"
+    ]
+  }
+}

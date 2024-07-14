@@ -3,7 +3,9 @@
   "handle": "ROZA",
   "description": "ROZA HOLIDAYS EOOD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "83.222.190.0/23"
+    ],
     "ipv6": []
   }
 }

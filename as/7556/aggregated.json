@@ -3,7 +3,9 @@
   "handle": "STARTEK-AP",
   "description": "Startek Australia Pty Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "202.180.232.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -1,0 +1,11 @@
+{
+  "asn": 152828,
+  "handle": "IDNIC-GLOBALAKSES-ID",
+  "description": "PT Global Akses Internusa",
+  "subnets": {
+    "ipv4": [
+      "103.182.53.0/24"
+    ],
+    "ipv6": []
+  }
+}

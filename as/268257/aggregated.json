@@ -4,8 +4,11 @@
   "description": "SIDI SERVIOS DE COMUNICAO LTDA-ME",
   "subnets": {
     "ipv4": [
-      "45.236.240.0/22"
+      "45.236.240.0/22",
+      "177.92.163.0/24"
     ],
-    "ipv6": []
+    "ipv6": [
+      "2804:4e60::/32"
+    ]
   }
 }

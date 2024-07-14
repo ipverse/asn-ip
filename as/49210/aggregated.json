@@ -3,7 +3,9 @@
   "handle": "IT-TELECOM",
   "description": "LLC IT Telecom",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "62.76.78.0/24"
+    ],
     "ipv6": []
   }
 }
