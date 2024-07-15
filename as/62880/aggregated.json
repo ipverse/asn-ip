@@ -1,9 +1,11 @@
 {
   "asn": 62880,
-  "handle": "CMCV",
-  "description": "Carolina Mountain Cablevision, Inc.",
+  "handle": "SYNATEC",
+  "description": "Synatec LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "23.181.56.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -1,9 +1,11 @@
 {
   "asn": 149813,
-  "handle": "RESERVED",
-  "description": "APNIC ASN block",
+  "handle": "LSL-AP",
+  "description": "LightEdge Solutions LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "160.22.88.0/23"
+    ],
     "ipv6": []
   }
 }

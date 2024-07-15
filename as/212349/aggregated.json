@@ -4,8 +4,6 @@
   "description": "Ser.I.Tel. (Servizi ed Impianti per Telecomunicazioni) srl",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2602:fed2:7043::/48"
-    ]
+    "ipv6": []
   }
 }

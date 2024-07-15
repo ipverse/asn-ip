@@ -4,6 +4,7 @@
   "description": "Comcast Cable Communications, LLC",
   "subnets": {
     "ipv4": [
+      "23.95.179.0/24",
       "50.174.21.0/24",
       "50.174.29.0/24",
       "50.174.30.0/23",

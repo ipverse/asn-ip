@@ -3,7 +3,9 @@
   "handle": "THPF-AP",
   "description": "Thai Health Promotion Foundation",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.254.215.0/24"
+    ],
     "ipv6": []
   }
 }

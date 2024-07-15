@@ -3,9 +3,7 @@
   "handle": "ETS-TELCO",
   "description": "ETS TELECOM",
   "subnets": {
-    "ipv4": [
-      "23.147.89.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

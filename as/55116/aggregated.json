@@ -1,9 +1,11 @@
 {
   "asn": 55116,
-  "handle": "STAPEL-HND-01",
-  "description": "Stapel, LLC",
+  "handle": "DOMINIK-DOBROWOLSKI",
+  "description": "dominet LLC",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2602:2c9:3::/48"
+    ]
   }
 }
