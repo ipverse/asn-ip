@@ -3,7 +3,9 @@
   "handle": "MTSI-AP",
   "description": "Marbel Telephone System, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.49.146.0/24"
+    ],
     "ipv6": []
   }
 }

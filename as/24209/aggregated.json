@@ -3,7 +3,9 @@
   "handle": "INTERMEDIANET-ID",
   "description": "PT. Inter Media Lintas Nusa",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "202.122.8.0/21"
+    ],
     "ipv6": []
   }
 }

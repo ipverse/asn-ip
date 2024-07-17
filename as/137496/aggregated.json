@@ -1,7 +1,7 @@
 {
   "asn": 137496,
-  "handle": "RESERVED",
-  "description": "APNIC ASN block",
+  "handle": "MSRSORGANIZATION-AP",
+  "description": "M/S RS Organization",
   "subnets": {
     "ipv4": [
       "103.110.160.0/23"

@@ -4,6 +4,7 @@
   "description": "UK Intis Telecom LTD",
   "subnets": {
     "ipv4": [
+      "185.95.244.0/22",
       "185.174.232.0/24",
       "185.174.235.0/24"
     ],

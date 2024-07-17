@@ -1,0 +1,11 @@
+{
+  "asn": 152814,
+  "handle": "IDNIC-MAHARDIKA-ID",
+  "description": "CV Mahardika Telematika",
+  "subnets": {
+    "ipv4": [
+      "160.22.66.0/23"
+    ],
+    "ipv6": []
+  }
+}

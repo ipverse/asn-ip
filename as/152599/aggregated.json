@@ -1,0 +1,13 @@
+{
+  "asn": 152599,
+  "handle": "YUT-AP",
+  "description": "Y.U.T Corporate Company Limited",
+  "subnets": {
+    "ipv4": [
+      "81.31.234.0/24"
+    ],
+    "ipv6": [
+      "2001:df0:9840::/48"
+    ]
+  }
+}

@@ -4,7 +4,6 @@
   "description": "C Spire Fiber",
   "subnets": {
     "ipv4": [
-      "209.147.192.0/24",
       "209.147.224.0/20"
     ],
     "ipv6": []

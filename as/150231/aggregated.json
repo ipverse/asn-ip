@@ -1,0 +1,11 @@
+{
+  "asn": 150231,
+  "handle": "IDNIC-JSNDEMAK-ID",
+  "description": "PT Jaringanku Sarana Nusantara Demak",
+  "subnets": {
+    "ipv4": [
+      "103.18.233.0/24"
+    ],
+    "ipv6": []
+  }
+}

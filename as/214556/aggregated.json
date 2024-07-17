@@ -3,7 +3,9 @@
   "handle": "VEXURA",
   "description": "Vexura UG (Haftungsbeschraenkt)",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "77.90.27.0/24"
+    ],
     "ipv6": [
       "2a0e:97c0:440::/44"
     ]

@@ -3,9 +3,7 @@
   "handle": "IWSIP-LLC",
   "description": "iWiSP llc",
   "subnets": {
-    "ipv4": [
-      "139.64.140.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

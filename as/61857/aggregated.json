@@ -3,9 +3,7 @@
   "handle": "MSDE-ASSIS-JUNIOR",
   "description": "M.S.DE ASSIS JUNIOR",
   "subnets": {
-    "ipv4": [
-      "131.0.64.0/22"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

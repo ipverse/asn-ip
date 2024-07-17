@@ -1,9 +1,12 @@
 {
   "asn": 201938,
-  "handle": "BIMA",
+  "handle": "ATLANTIS",
   "description": "BIMA MUKHLISIN BIL SAJJAD",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a06:a005:2110::/44",
+      "2a06:a005:2120::/44"
+    ]
   }
 }

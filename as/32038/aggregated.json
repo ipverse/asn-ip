@@ -1,0 +1,11 @@
+{
+  "asn": 32038,
+  "handle": "ALCORN-LOR-01",
+  "description": "Institutions of Higher Learning",
+  "subnets": {
+    "ipv4": [
+      "209.147.192.0/24"
+    ],
+    "ipv6": []
+  }
+}

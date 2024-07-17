@@ -1,0 +1,11 @@
+{
+  "asn": 153168,
+  "handle": "LUBIN-AP",
+  "description": "Lu Bin",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2406:840:fd50::/44"
+    ]
+  }
+}

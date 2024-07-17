@@ -3,7 +3,9 @@
   "handle": "ONDIVERSITY",
   "description": "ON DIVERSITY LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.124.1.0/24"
+    ],
     "ipv6": []
   }
 }
