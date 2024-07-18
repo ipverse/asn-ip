@@ -1,0 +1,11 @@
+{
+  "asn": 214708,
+  "handle": "CLOUD-TELECOM",
+  "description": "CLOUD TELECOM SAS",
+  "subnets": {
+    "ipv4": [
+      "154.49.216.0/24"
+    ],
+    "ipv6": []
+  }
+}

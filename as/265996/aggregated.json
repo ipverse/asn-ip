@@ -3,7 +3,11 @@
   "handle": "POWER-LINK-TELECOM-EIRELI",
   "description": "POWER LINK TELECOM EIRELI",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "131.196.232.0/22"
+    ],
+    "ipv6": [
+      "2804:40fc::/32"
+    ]
   }
 }

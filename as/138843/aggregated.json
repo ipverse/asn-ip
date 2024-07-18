@@ -4,8 +4,10 @@
   "description": "PT GLOBAL LINTAS SOLUSI",
   "subnets": {
     "ipv4": [
-      "103.138.63.0/24"
+      "103.138.62.0/23"
     ],
-    "ipv6": []
+    "ipv6": [
+      "2404:cbc0::/32"
+    ]
   }
 }

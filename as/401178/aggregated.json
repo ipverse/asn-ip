@@ -1,0 +1,11 @@
+{
+  "asn": 401178,
+  "handle": "UNEPIC-NETWORKS",
+  "description": "Unepic Networks",
+  "subnets": {
+    "ipv4": [
+      "64.65.47.0/24"
+    ],
+    "ipv6": []
+  }
+}

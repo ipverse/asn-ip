@@ -1,0 +1,12 @@
+{
+  "asn": 401254,
+  "handle": "NETSOLV-NETSOLV-01",
+  "description": "NETSOLVE NETWORK TECHNOLOGY LIMITED",
+  "subnets": {
+    "ipv4": [
+      "103.251.237.0/24",
+      "103.251.238.0/24"
+    ],
+    "ipv6": []
+  }
+}

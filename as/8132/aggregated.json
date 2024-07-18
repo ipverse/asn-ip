@@ -4,7 +4,6 @@
   "description": "ENTEX Information Services",
   "subnets": {
     "ipv4": [
-      "155.45.0.0/17",
       "155.45.249.0/24"
     ],
     "ipv6": []

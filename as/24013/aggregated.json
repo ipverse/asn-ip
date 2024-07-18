@@ -1,0 +1,15 @@
+{
+  "asn": 24013,
+  "handle": "SB",
+  "description": "SB Professional Services",
+  "subnets": {
+    "ipv4": [
+      "45.11.45.0/24",
+      "185.222.222.0/24"
+    ],
+    "ipv6": [
+      "2a09::/48",
+      "2a11::/48"
+    ]
+  }
+}

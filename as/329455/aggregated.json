@@ -1,0 +1,11 @@
+{
+  "asn": 329455,
+  "handle": "ONE-CARRIER",
+  "description": "ONE Carrier",
+  "subnets": {
+    "ipv4": [
+      "102.208.140.0/24"
+    ],
+    "ipv6": []
+  }
+}

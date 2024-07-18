@@ -3,7 +3,9 @@
   "handle": "ASIAPAY",
   "description": "Credit Union ASIAPAY LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.39.249.0/24"
+    ],
     "ipv6": []
   }
 }

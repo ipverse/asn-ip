@@ -3,11 +3,7 @@
   "handle": "GRACE-CLOUD-NET",
   "description": "Grace International Inc.",
   "subnets": {
-    "ipv4": [
-      "23.161.184.0/24"
-    ],
-    "ipv6": [
-      "2602:fa26::/40"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

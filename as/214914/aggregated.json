@@ -3,9 +3,7 @@
   "handle": "DATANET",
   "description": "Dimitrios Papadopoulos trading as Data Networks",
   "subnets": {
-    "ipv4": [
-      "154.57.31.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

@@ -1,0 +1,11 @@
+{
+  "asn": 151847,
+  "handle": "FASTMAILPTYLTD-AP",
+  "description": "Fastmail",
+  "subnets": {
+    "ipv4": [
+      "202.12.124.0/24"
+    ],
+    "ipv6": []
+  }
+}
