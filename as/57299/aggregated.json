@@ -3,7 +3,9 @@
   "handle": "MILICRON",
   "description": "MILICRON RESEARCH SRL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.35.108.0/24"
+    ],
     "ipv6": []
   }
 }

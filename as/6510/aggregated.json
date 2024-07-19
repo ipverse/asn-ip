@@ -4,7 +4,8 @@
   "description": "Brigham Young University",
   "subnets": {
     "ipv4": [
-      "128.187.0.0/16"
+      "128.187.0.0/16",
+      "198.60.19.0/24"
     ],
     "ipv6": [
       "2620:10f:3000::/40"

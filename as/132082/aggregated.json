@@ -3,9 +3,7 @@
   "handle": "SUMMITCOMMUNICATIONS-AP",
   "description": "Summit Communication Limited",
   "subnets": {
-    "ipv4": [
-      "103.102.43.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

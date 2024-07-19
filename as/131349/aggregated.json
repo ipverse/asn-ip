@@ -4,7 +4,8 @@
   "description": "Digital telecomminication service joint stock",
   "subnets": {
     "ipv4": [
-      "45.118.140.0/22",
+      "45.118.140.0/23",
+      "45.118.142.0/24",
       "103.23.144.0/22"
     ],
     "ipv6": [

@@ -3,11 +3,7 @@
   "handle": "CITY-NET-COM-AP",
   "description": "City Net Communication",
   "subnets": {
-    "ipv4": [
-      "103.134.254.0/23"
-    ],
-    "ipv6": [
-      "2401:abe0::/32"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

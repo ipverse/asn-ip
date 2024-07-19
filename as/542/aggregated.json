@@ -4,6 +4,7 @@
   "description": "Alberta Research Council",
   "subnets": {
     "ipv4": [
+      "128.144.0.0/20",
       "128.144.28.0/24",
       "128.144.41.0/24",
       "128.144.48.0/20",

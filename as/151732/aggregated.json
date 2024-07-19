@@ -4,7 +4,8 @@
   "description": "ONREMOTE TELECOM PRIVATE LIMITED",
   "subnets": {
     "ipv4": [
-      "157.15.92.0/23"
+      "157.15.92.0/23",
+      "160.22.84.0/23"
     ],
     "ipv6": []
   }

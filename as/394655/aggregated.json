@@ -4,7 +4,6 @@
   "description": "University of Connecticut Health Center",
   "subnets": {
     "ipv4": [
-      "155.37.0.0/17",
       "155.37.142.0/24",
       "155.37.145.0/24",
       "155.37.149.0/24",

@@ -3,7 +3,9 @@
   "handle": "MUNICIPALIDAD-CARRILLO-GUANACASTE",
   "description": "MUNICIPALIDAD DE CARRILLO GUANACASTE",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "154.197.77.0/24"
+    ],
     "ipv6": [
       "2801:195::/44"
     ]

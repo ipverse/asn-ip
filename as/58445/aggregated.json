@@ -3,10 +3,7 @@
   "handle": "DBBL-BD",
   "description": "Dutch-Bangla Bank Limited",
   "subnets": {
-    "ipv4": [
-      "103.11.136.0/22",
-      "116.206.132.0/22"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

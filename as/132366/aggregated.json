@@ -3,13 +3,7 @@
   "handle": "ALFAZNETWORK-AP",
   "description": "Alfaz Network",
   "subnets": {
-    "ipv4": [
-      "103.159.127.0/24"
-    ],
-    "ipv6": [
-      "2401:1d20:4::/46",
-      "2401:1d20:8::/47",
-      "2401:1d20:b::/48"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

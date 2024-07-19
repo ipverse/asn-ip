@@ -3,7 +3,9 @@
   "handle": "BTA",
   "description": "Bulgarian Telegraf Agency",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "62.176.111.0/24"
+    ],
     "ipv6": []
   }
 }

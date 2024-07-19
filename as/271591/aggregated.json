@@ -4,7 +4,8 @@
   "description": "TOP NET SERVICOS DE PROVEDOR LTDA - ME",
   "subnets": {
     "ipv4": [
-      "190.9.80.0/22"
+      "190.9.80.0/24",
+      "190.9.82.0/23"
     ],
     "ipv6": [
       "2804:7dec::/32",

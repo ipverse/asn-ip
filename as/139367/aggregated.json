@@ -3,7 +3,9 @@
   "handle": "IDNIC-DISKOMINFO-JAMBIKOTA-ID",
   "description": "Dinas Kominfo Kota Jambi",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.141.238.0/23"
+    ],
     "ipv6": []
   }
 }
