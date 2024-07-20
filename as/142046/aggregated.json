@@ -1,0 +1,13 @@
+{
+  "asn": 142046,
+  "handle": "M1033-INFO-TW",
+  "description": "1033 Network Information Co.",
+  "subnets": {
+    "ipv4": [
+      "103.244.163.0/24"
+    ],
+    "ipv6": [
+      "2602:f9a9:b00::/44"
+    ]
+  }
+}

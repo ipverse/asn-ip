@@ -3,7 +3,9 @@
   "handle": "LIVE-CONNECT-INFORMATICA",
   "description": "LIVE CONNECT INFORMATICA E SERVICOS LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "190.89.110.0/24"
+    ],
     "ipv6": [
       "2804:8554::/32"
     ]

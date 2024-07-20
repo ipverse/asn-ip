@@ -1,11 +1,12 @@
 {
   "asn": 214569,
-  "handle": "MIRALIUMRESEARCH",
+  "handle": "MIRALIUM-RESEARCH",
   "description": "MIRALIUM SERVICOS EM TECNOLOGIA DA INFORMACAO LTDA",
   "subnets": {
     "ipv4": [],
     "ipv6": [
       "2602:fcd3:106::/48",
+      "2a06:b700::/48",
       "2a0f:85c1:82b::/48"
     ]
   }

@@ -3,7 +3,9 @@
   "handle": "ABTME",
   "description": "CloudIP LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.239.197.0/24"
+    ],
     "ipv6": []
   }
 }

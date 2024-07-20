@@ -3,7 +3,11 @@
   "handle": "UML-34",
   "description": "Unify Media Ltd",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "23.173.104.0/24"
+    ],
+    "ipv6": [
+      "2602:f95c:7a3::/48"
+    ]
   }
 }

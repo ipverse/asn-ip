@@ -3,7 +3,9 @@
   "handle": "GARDAMORLDA-AP",
   "description": "Gardamor, Lda",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.176.215.0/24"
+    ],
     "ipv6": []
   }
 }

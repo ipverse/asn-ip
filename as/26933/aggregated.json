@@ -1,9 +1,10 @@
 {
   "asn": 26933,
-  "handle": "DIRECTV-SDWAN-LABC",
+  "handle": "DIRECTV-SDWAN-LABC-MSDC",
   "description": "DIRECTV, LLC",
   "subnets": {
     "ipv4": [
+      "147.21.136.0/24",
       "147.21.176.0/24"
     ],
     "ipv6": []

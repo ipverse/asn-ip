@@ -1,9 +1,11 @@
 {
   "asn": 141455,
-  "handle": "RESERVED",
-  "description": "APNIC ASN block",
+  "handle": "HALUM-AP",
+  "description": "Halum Properties (HALPROP) Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "160.20.126.0/23"
+    ],
     "ipv6": []
   }
 }

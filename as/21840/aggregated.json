@@ -4,6 +4,7 @@
   "description": "WiredISP Inc.",
   "subnets": {
     "ipv4": [
+      "45.150.53.0/24",
       "63.141.59.0/24"
     ],
     "ipv6": []

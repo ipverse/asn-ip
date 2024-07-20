@@ -1,0 +1,13 @@
+{
+  "asn": 215687,
+  "handle": "CONSULSERVICE",
+  "description": "Consulservice SRL",
+  "subnets": {
+    "ipv4": [
+      "45.148.212.0/23",
+      "193.56.200.0/23",
+      "193.56.226.0/23"
+    ],
+    "ipv6": []
+  }
+}

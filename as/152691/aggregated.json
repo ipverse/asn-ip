@@ -1,0 +1,11 @@
+{
+  "asn": 152691,
+  "handle": "CAAON-AP",
+  "description": "Civil Aviation Authority of Nepal",
+  "subnets": {
+    "ipv4": [
+      "103.12.56.0/23"
+    ],
+    "ipv6": []
+  }
+}

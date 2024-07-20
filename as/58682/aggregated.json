@@ -3,7 +3,9 @@
   "handle": "LEVEL3-BD",
   "description": "LEVEL3 CARRIER LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.15.43.0/24"
+    ],
     "ipv6": []
   }
 }

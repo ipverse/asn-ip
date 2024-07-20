@@ -1,0 +1,11 @@
+{
+  "asn": 135402,
+  "handle": "COUNTRYHOST-AP",
+  "description": "Country Host",
+  "subnets": {
+    "ipv4": [
+      "146.103.0.0/24"
+    ],
+    "ipv6": []
+  }
+}

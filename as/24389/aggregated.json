@@ -3,7 +3,9 @@
   "handle": "GRAMEENPHONE-AP",
   "description": "grameenphone limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "123.108.240.0/24"
+    ],
     "ipv6": [
       "2400:c600:3370::/44",
       "2400:c600:3450::/44",

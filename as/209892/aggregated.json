@@ -3,7 +3,9 @@
   "handle": "PL-LEXELL",
   "description": "LEXELL MICHAL SZYDLOWSKI",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "78.142.224.0/22"
+    ],
     "ipv6": []
   }
 }

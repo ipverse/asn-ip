@@ -3,7 +3,11 @@
   "handle": "BRAC-BDMAIL-BD",
   "description": "BRACNet Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "115.127.4.0/24",
+      "115.127.68.0/24",
+      "115.127.92.0/24"
+    ],
     "ipv6": []
   }
 }
