@@ -3,7 +3,9 @@
   "handle": "COM-TELECOM",
   "description": "COM TELECOM",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.225.131.0/24"
+    ],
     "ipv6": []
   }
 }

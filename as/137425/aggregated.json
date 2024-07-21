@@ -3,7 +3,9 @@
   "handle": "INCOMITSOLUTION-AP",
   "description": "INCOMIT SOLUTION",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.108.62.0/24"
+    ],
     "ipv6": []
   }
 }

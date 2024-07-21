@@ -4,8 +4,10 @@
   "description": "ANDRE PEREIRA DA COSTA",
   "subnets": {
     "ipv4": [
-      "45.232.247.0/24"
+      "45.232.244.0/22"
     ],
-    "ipv6": []
+    "ipv6": [
+      "2804:4b20::/32"
+    ]
   }
 }

@@ -4,6 +4,7 @@
   "description": "Bogons Ltd",
   "subnets": {
     "ipv4": [
+      "94.126.192.0/21",
       "185.172.120.0/22"
     ],
     "ipv6": []

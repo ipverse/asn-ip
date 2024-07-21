@@ -4,8 +4,6 @@
   "description": "Bangladesh Research and Education Network (BdREN)",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2402:f500::/32"
-    ]
+    "ipv6": []
   }
 }

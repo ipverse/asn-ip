@@ -3,7 +3,9 @@
   "handle": "BOL-BD-AP",
   "description": "Bangladesh Online Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "182.163.104.0/24"
+    ],
     "ipv6": []
   }
 }

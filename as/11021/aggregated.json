@@ -1,0 +1,11 @@
+{
+  "asn": 11021,
+  "handle": "NVH",
+  "description": "North Valley Hospital",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2602:f9c0::/40"
+    ]
+  }
+}

@@ -4,8 +4,6 @@
   "description": "Bangladesh Agricultural University",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2401:3b40::/32"
-    ]
+    "ipv6": []
   }
 }
