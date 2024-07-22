@@ -3,7 +3,9 @@
   "handle": "IGW1ASIA-AP",
   "description": "1Asia Alliance Gateway Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.35.158.0/24"
+    ],
     "ipv6": []
   }
 }

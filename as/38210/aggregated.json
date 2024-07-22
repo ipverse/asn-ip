@@ -4,6 +4,7 @@
   "description": "Ranks Telecom Ltd.",
   "subnets": {
     "ipv4": [
+      "202.72.237.0/24",
       "202.72.239.0/24"
     ],
     "ipv6": []

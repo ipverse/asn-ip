@@ -1,9 +1,11 @@
 {
   "asn": 50385,
-  "handle": "HALOCLOUDNETWORK",
+  "handle": "HALOCLOUD-NETWORK-LIMITED",
   "description": "HaloCloud Network Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "140.233.191.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -1,0 +1,12 @@
+{
+  "asn": 215300,
+  "handle": "GLOBALLAYER-SA",
+  "description": "Global Layer B.V.",
+  "subnets": {
+    "ipv4": [
+      "37.123.211.0/24",
+      "37.123.212.0/24"
+    ],
+    "ipv6": []
+  }
+}

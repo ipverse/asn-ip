@@ -3,7 +3,9 @@
   "handle": "RANKS-BD",
   "description": "Ranks ITT",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "202.40.177.0/24"
+    ],
     "ipv6": []
   }
 }

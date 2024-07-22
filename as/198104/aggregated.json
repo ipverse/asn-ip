@@ -3,7 +3,11 @@
   "handle": "STAYCONNECTED-SYSTEMS-LTD",
   "description": "StayConnected.Systems Ltd",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "91.233.151.0/24"
+    ],
+    "ipv6": [
+      "2a12:a440::/29"
+    ]
   }
 }
