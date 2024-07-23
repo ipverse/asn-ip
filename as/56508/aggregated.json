@@ -4,7 +4,6 @@
   "description": "Amateur Radio Digital Communications",
   "subnets": {
     "ipv4": [
-      "44.31.51.0/24",
       "44.33.0.0/22",
       "44.33.4.0/24",
       "44.33.7.0/24"

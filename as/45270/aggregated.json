@@ -4,7 +4,6 @@
   "description": "Ossini Pty Ltd",
   "subnets": {
     "ipv4": [
-      "101.234.192.0/23",
       "101.234.200.0/23"
     ],
     "ipv6": [

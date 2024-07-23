@@ -1,7 +1,7 @@
 {
   "asn": 18361,
-  "handle": "AUSTOCKEXCHANGE-AU",
-  "description": "Australian Stock Exchange Limited",
+  "handle": "ASX-AP",
+  "description": "ASX Operations Pty Ltd",
   "subnets": {
     "ipv4": [
       "43.255.128.0/23",

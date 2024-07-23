@@ -4,6 +4,8 @@
   "description": "AVATO TECNOLOGIA S.A",
   "subnets": {
     "ipv4": [
+      "177.152.179.0/24",
+      "177.152.181.0/24",
       "201.71.128.0/18"
     ],
     "ipv6": [

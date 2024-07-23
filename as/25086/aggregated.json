@@ -4,8 +4,6 @@
   "description": "MTS PJSC",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2a03:db02::/32"
-    ]
+    "ipv6": []
   }
 }

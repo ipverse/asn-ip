@@ -4,7 +4,6 @@
   "description": "Financial Industry Regulatory Authority, Inc.",
   "subnets": {
     "ipv4": [
-      "75.98.60.0/23",
       "198.202.240.0/23"
     ],
     "ipv6": []

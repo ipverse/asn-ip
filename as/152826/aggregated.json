@@ -1,0 +1,11 @@
+{
+  "asn": 152826,
+  "handle": "IDNIC-AIIRANET-ID",
+  "description": "PT Aiira Media Solution",
+  "subnets": {
+    "ipv4": [
+      "160.22.194.0/23"
+    ],
+    "ipv6": []
+  }
+}

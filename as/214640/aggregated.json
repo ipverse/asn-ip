@@ -1,0 +1,13 @@
+{
+  "asn": 214640,
+  "handle": "HOSTUP",
+  "description": "Hostup AB",
+  "subnets": {
+    "ipv4": [
+      "206.168.212.0/22"
+    ],
+    "ipv6": [
+      "2a13:7c81::/32"
+    ]
+  }
+}

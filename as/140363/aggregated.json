@@ -1,9 +1,11 @@
 {
   "asn": 140363,
-  "handle": "RESERVED",
-  "description": "APNIC ASN block",
+  "handle": "FZNTCL-AP",
+  "description": "Fuzhou Zhongxu Network Technology Co. Ltd.",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2401:ba0::/32"
+    ]
   }
 }
