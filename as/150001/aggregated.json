@@ -3,7 +3,9 @@
   "handle": "SFNL-AP",
   "description": "Sixty Four Networks Limited.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.151.60.0/24"
+    ],
     "ipv6": []
   }
 }

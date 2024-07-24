@@ -3,7 +3,9 @@
   "handle": "ABG-AP",
   "description": "ABG Technologies Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.160.1.0/24"
+    ],
     "ipv6": []
   }
 }

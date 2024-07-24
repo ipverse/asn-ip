@@ -1,0 +1,11 @@
+{
+  "asn": 401201,
+  "handle": "RENO-TAHOE-AIRPORT-AUTHORITY",
+  "description": "Reno-Tahoe Airport Authority",
+  "subnets": {
+    "ipv4": [
+      "199.74.255.0/24"
+    ],
+    "ipv6": []
+  }
+}

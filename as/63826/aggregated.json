@@ -3,7 +3,9 @@
   "handle": "CPTU-BD",
   "description": "Central Procurement Technical Unit (CPTU)",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.40.82.0/23"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,11 @@
   "handle": "SKYNETATHOME-AP",
   "description": "SKY NET@HOME",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.134.201.0/24",
+      "103.134.203.0/24",
+      "103.187.244.0/24"
+    ],
     "ipv6": []
   }
 }

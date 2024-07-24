@@ -3,7 +3,9 @@
   "handle": "LITTLEBOYSNET-AP",
   "description": "Little Boys. Net",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.148.216.0/24"
+    ],
     "ipv6": []
   }
 }

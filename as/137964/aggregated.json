@@ -3,7 +3,9 @@
   "handle": "NEXTGENONLINE-AP",
   "description": "Next Gen Online",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.118.153.0/24"
+    ],
     "ipv6": []
   }
 }

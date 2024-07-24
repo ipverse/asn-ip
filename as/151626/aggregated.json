@@ -3,7 +3,9 @@
   "handle": "ULIPURENTERPRISE-AP",
   "description": "Net Express",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.182.247.0/24"
+    ],
     "ipv6": []
   }
 }

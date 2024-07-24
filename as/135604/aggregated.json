@@ -3,7 +3,9 @@
   "handle": "MSI-AP",
   "description": "M/S. Saiba International",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.68.6.0/24"
+    ],
     "ipv6": []
   }
 }

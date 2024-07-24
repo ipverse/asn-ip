@@ -3,7 +3,10 @@
   "handle": "TRUSTINNOVATIONLIMITED-AP",
   "description": "Trust Innovation Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.159.218.0/23",
+      "120.89.64.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "YETFIXLIMITED-AP",
   "description": "YetFix Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.170.204.0/23"
+    ],
     "ipv6": []
   }
 }

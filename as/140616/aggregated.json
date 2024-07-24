@@ -3,7 +3,9 @@
   "handle": "ZNITSOLUTION-AP",
   "description": "ZN IT Solution",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.176.80.0/24"
+    ],
     "ipv6": []
   }
 }

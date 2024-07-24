@@ -3,7 +3,9 @@
   "handle": "PIONEERIT-AP",
   "description": "Pioneer IT",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.145.119.0/24"
+    ],
     "ipv6": []
   }
 }

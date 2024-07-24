@@ -3,7 +3,9 @@
   "handle": "P3C-AP",
   "description": "Planet Three Communication",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.144.48.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "AIRNET-COPROPIEDAD",
   "description": "AIRNET, COPROPIEDAD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "154.223.128.0/24"
+    ],
     "ipv6": []
   }
 }

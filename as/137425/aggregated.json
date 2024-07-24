@@ -4,8 +4,10 @@
   "description": "INCOMIT SOLUTION",
   "subnets": {
     "ipv4": [
-      "103.108.62.0/24"
+      "103.108.60.0/22"
     ],
-    "ipv6": []
+    "ipv6": [
+      "2406:ebc0::/32"
+    ]
   }
 }

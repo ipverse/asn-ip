@@ -3,7 +3,9 @@
   "handle": "SIMEC1-AP",
   "description": "SIMEC SYSTEM LTD.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.66.169.0/24"
+    ],
     "ipv6": []
   }
 }

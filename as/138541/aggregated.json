@@ -3,7 +3,9 @@
   "handle": "ACTIVE-AP",
   "description": "Active Multimedia",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.132.177.0/24"
+    ],
     "ipv6": []
   }
 }

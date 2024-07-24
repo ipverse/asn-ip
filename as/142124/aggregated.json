@@ -3,7 +3,9 @@
   "handle": "SBIS-AP",
   "description": "Shubas Broadband Internet Service",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.166.170.0/24"
+    ],
     "ipv6": []
   }
 }

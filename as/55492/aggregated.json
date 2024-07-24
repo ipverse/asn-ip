@@ -3,7 +3,11 @@
   "handle": "DFN-BD",
   "description": "Dhaka Fiber Net Ltd",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "27.131.12.0/22"
+    ],
+    "ipv6": [
+      "2401:c5c0::/35"
+    ]
   }
 }

@@ -3,7 +3,11 @@
   "handle": "MEDIAONLINE",
   "description": "Media Online",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.249.185.0/24",
+      "45.249.187.0/24",
+      "103.218.191.0/24"
+    ],
     "ipv6": []
   }
 }

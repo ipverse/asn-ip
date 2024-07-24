@@ -3,7 +3,11 @@
   "handle": "NREACH-AP",
   "description": "NReach Net (Pvt.) Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "115.69.209.0/24",
+      "115.69.211.0/24",
+      "115.69.213.0/24"
+    ],
     "ipv6": []
   }
 }

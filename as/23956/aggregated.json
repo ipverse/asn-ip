@@ -3,7 +3,11 @@
   "handle": "AMBERIT-BD",
   "description": "Dhakacom Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "118.179.151.0/24",
+      "118.179.223.0/24",
+      "202.4.96.0/19"
+    ],
     "ipv6": []
   }
 }

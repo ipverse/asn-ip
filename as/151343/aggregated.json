@@ -3,7 +3,9 @@
   "handle": "DADFL-AP",
   "description": "Private Limited Company",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.204.30.0/23"
+    ],
     "ipv6": []
   }
 }

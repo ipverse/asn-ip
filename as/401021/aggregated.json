@@ -3,7 +3,9 @@
   "handle": "FASTPIX",
   "description": "FastPix Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "23.176.152.0/24"
+    ],
     "ipv6": [
       "2620:0:8001::/48"
     ]

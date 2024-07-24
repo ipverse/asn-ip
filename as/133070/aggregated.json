@@ -3,7 +3,9 @@
   "handle": "EHL-AP",
   "description": "EBN HOST LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "115.187.18.0/23"
+    ],
     "ipv6": []
   }
 }

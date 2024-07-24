@@ -3,7 +3,9 @@
   "handle": "MTSL-ISP-AP",
   "description": "Mango Teleservices Limited (ISP)",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.248.204.0/24"
+    ],
     "ipv6": []
   }
 }

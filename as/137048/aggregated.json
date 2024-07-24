@@ -3,7 +3,9 @@
   "handle": "X-LINKBD-AP",
   "description": "Penta Solutions Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.103.35.0/24"
+    ],
     "ipv6": []
   }
 }

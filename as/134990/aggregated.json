@@ -3,7 +3,9 @@
   "handle": "CITYCOMNETWORK-AP",
   "description": "CITYCOM NETWORK",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.204.244.0/24"
+    ],
     "ipv6": []
   }
 }

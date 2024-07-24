@@ -1,0 +1,11 @@
+{
+  "asn": 137348,
+  "handle": "IDNIC-TRIMASINDO-ID",
+  "description": "PT. Trimasindo Data Media",
+  "subnets": {
+    "ipv4": [
+      "103.113.248.0/23"
+    ],
+    "ipv6": []
+  }
+}

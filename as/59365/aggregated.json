@@ -3,7 +3,9 @@
   "handle": "BD-NETWORKS-AP",
   "description": "BD Networks",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.231.229.0/24"
+    ],
     "ipv6": []
   }
 }

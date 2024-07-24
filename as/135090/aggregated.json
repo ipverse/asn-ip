@@ -3,7 +3,10 @@
   "handle": "SPBML-AP",
   "description": "Star Particle Board Mills Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.189.115.0/24",
+      "103.209.11.0/24"
+    ],
     "ipv6": []
   }
 }

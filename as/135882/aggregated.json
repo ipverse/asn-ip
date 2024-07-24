@@ -3,7 +3,9 @@
   "handle": "SPARKONLINE-AP",
   "description": "Spark Online",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.78.254.0/24"
+    ],
     "ipv6": []
   }
 }

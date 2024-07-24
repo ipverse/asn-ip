@@ -3,7 +3,10 @@
   "handle": "KURIGRAMISP-AP",
   "description": "Kurigram I.S.P",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.122.122.0/24",
+      "103.182.219.0/24"
+    ],
     "ipv6": []
   }
 }

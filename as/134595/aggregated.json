@@ -3,7 +3,9 @@
   "handle": "VELOCITYINTERNET-AP",
   "description": "Velocity Internet",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.121.14.0/24"
+    ],
     "ipv6": []
   }
 }

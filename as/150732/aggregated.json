@@ -3,7 +3,9 @@
   "handle": "GUMOTIONLINE-AP",
   "description": "Gumati Online",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.75.138.0/24"
+    ],
     "ipv6": []
   }
 }

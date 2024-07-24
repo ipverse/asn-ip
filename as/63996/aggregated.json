@@ -3,7 +3,12 @@
   "handle": "MNL-AP",
   "description": "Mazeda Networks Limited",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "103.60.172.0/24",
+      "192.144.86.0/24"
+    ],
+    "ipv6": [
+      "2400:3240::/32"
+    ]
   }
 }

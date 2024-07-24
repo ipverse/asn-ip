@@ -3,7 +3,9 @@
   "handle": "ALPHA-AP",
   "description": "Alpha Network",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.145.29.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "GLOBALCOM-AP",
   "description": "Global Communication",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.113.18.0/23"
+    ],
     "ipv6": []
   }
 }

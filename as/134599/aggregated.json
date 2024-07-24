@@ -3,7 +3,9 @@
   "handle": "DIGITALDOTNET-AP",
   "description": "Digital Dot Net",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.140.204.0/24"
+    ],
     "ipv6": []
   }
 }

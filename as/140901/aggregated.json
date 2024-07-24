@@ -3,7 +3,9 @@
   "handle": "WEBRANGERSNET-AP",
   "description": "Web Rangers.net",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.153.52.0/23"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "KUET-AP",
   "description": "Khulna University of Engineering \u0026 Technology",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.74.84.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,10 @@
   "handle": "INFOBASELIMITED-AP",
   "description": "Infobase Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.225.93.0/24",
+      "103.225.94.0/23"
+    ],
     "ipv6": []
   }
 }

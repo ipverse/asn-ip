@@ -3,7 +3,9 @@
   "handle": "WEBLINKLTD-AP",
   "description": "Weblink Communications Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.129.203.0/24"
+    ],
     "ipv6": []
   }
 }

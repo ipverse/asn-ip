@@ -3,7 +3,9 @@
   "handle": "WHIL-BD",
   "description": "Walton Hi-Tech Industries Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.243.140.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "KK-AP",
   "description": "KaritKarma Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.228.200.0/24"
+    ],
     "ipv6": []
   }
 }

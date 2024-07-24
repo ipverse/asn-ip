@@ -3,7 +3,12 @@
   "handle": "IHL-AP",
   "description": "Internet @ Home Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.78.52.0/22",
+      "103.137.228.0/23",
+      "175.41.44.0/23",
+      "175.41.47.0/24"
+    ],
     "ipv6": []
   }
 }

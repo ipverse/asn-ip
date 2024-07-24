@@ -3,7 +3,9 @@
   "handle": "FTLINK-AP",
   "description": "F.T LINK BD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.189.66.0/24"
+    ],
     "ipv6": []
   }
 }

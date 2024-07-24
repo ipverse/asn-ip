@@ -3,7 +3,10 @@
   "handle": "SUNLITNETWORK-AP",
   "description": "Sunlit Network",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.141.209.0/24",
+      "103.161.2.0/24"
+    ],
     "ipv6": []
   }
 }

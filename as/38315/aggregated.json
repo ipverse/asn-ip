@@ -3,7 +3,11 @@
   "handle": "GAZICOMM-AP",
   "description": "Gazi Communications",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "203.169.24.0/24",
+      "203.169.26.0/23",
+      "203.169.28.0/22"
+    ],
     "ipv6": []
   }
 }

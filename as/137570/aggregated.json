@@ -3,7 +3,9 @@
   "handle": "STORMNETISP-AP",
   "description": "Stormnet(isp)",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "160.25.42.0/24"
+    ],
     "ipv6": []
   }
 }

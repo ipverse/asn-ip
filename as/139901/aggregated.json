@@ -3,7 +3,9 @@
   "handle": "APPLE1-AP",
   "description": "Apple Communication Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.85.236.0/24"
+    ],
     "ipv6": []
   }
 }

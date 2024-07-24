@@ -3,7 +3,9 @@
   "handle": "HELLOTECHLIMITED-AP",
   "description": "HelloTech Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.138.24.0/24"
+    ],
     "ipv6": []
   }
 }

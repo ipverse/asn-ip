@@ -3,7 +3,9 @@
   "handle": "BCJL-AP",
   "description": "BlueNet Communication JV ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.146.43.0/24"
+    ],
     "ipv6": []
   }
 }

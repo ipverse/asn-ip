@@ -3,7 +3,11 @@
   "handle": "CLC-AP",
   "description": "City Link Communication",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.114.61.0/24",
+      "103.125.29.0/24",
+      "103.125.30.0/23"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "ASA1-AP",
   "description": "ASA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.155.252.0/23"
+    ],
     "ipv6": []
   }
 }

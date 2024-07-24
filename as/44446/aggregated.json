@@ -4,9 +4,6 @@
   "description": "Yuan Xue",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2a13:df80:3b00::/44",
-      "2a13:df80:3b11::/48"
-    ]
+    "ipv6": []
   }
 }

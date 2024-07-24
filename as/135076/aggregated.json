@@ -3,7 +3,11 @@
   "handle": "INFOCOMLIMITED-AP",
   "description": "INFOCOM LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "43.245.244.0/22",
+      "103.240.248.0/22",
+      "221.120.96.0/21"
+    ],
     "ipv6": []
   }
 }

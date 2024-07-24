@@ -3,7 +3,9 @@
   "handle": "MTBSYSADMIN-BD",
   "description": "Mutual Trust Bank Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "124.109.104.0/22"
+    ],
     "ipv6": []
   }
 }

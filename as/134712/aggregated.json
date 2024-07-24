@@ -3,7 +3,9 @@
   "handle": "PIPEXNETWORK-BD",
   "description": "Pipex Network",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.158.4.0/23"
+    ],
     "ipv6": []
   }
 }

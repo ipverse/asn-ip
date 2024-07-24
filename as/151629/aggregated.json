@@ -3,7 +3,9 @@
   "handle": "AALOKITLIMITED-AP",
   "description": "Aalok IT Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.89.24.0/23"
+    ],
     "ipv6": []
   }
 }

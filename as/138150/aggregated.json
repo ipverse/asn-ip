@@ -3,7 +3,9 @@
   "handle": "SHONGZOGBDNET-AP",
   "description": "Shongzog BD Net",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.121.104.0/24"
+    ],
     "ipv6": []
   }
 }

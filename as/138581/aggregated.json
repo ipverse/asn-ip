@@ -3,7 +3,9 @@
   "handle": "BRITTONETWORK-AP",
   "description": "Britto Network",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.133.205.0/24"
+    ],
     "ipv6": []
   }
 }

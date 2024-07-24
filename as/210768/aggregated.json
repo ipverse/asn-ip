@@ -3,9 +3,7 @@
   "handle": "MEGABYTE",
   "description": "Megabyte IKE",
   "subnets": {
-    "ipv4": [
-      "95.46.36.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

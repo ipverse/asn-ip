@@ -3,7 +3,9 @@
   "handle": "GRAMEEN1-AP",
   "description": "GRAMEEN COMMUNICATIONS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.26.136.0/23"
+    ],
     "ipv6": []
   }
 }

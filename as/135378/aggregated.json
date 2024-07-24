@@ -3,7 +3,9 @@
   "handle": "TADL-AP",
   "description": "Trust Axiata Digital Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.167.120.0/23"
+    ],
     "ipv6": []
   }
 }

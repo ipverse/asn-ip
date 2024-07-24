@@ -1,0 +1,13 @@
+{
+  "asn": 152757,
+  "handle": "IDNIC-DHAHAPRIMA-ID",
+  "description": "PT DHAHA PRIMA NET",
+  "subnets": {
+    "ipv4": [
+      "157.66.236.0/23"
+    ],
+    "ipv6": [
+      "2001:df3:d2c0::/48"
+    ]
+  }
+}

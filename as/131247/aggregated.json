@@ -3,7 +3,10 @@
   "handle": "INFOBD24SYSTEMS-AP",
   "description": "Infobd24 Systems",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.68.116.0/22",
+      "103.230.208.0/22"
+    ],
     "ipv6": []
   }
 }

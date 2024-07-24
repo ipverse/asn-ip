@@ -3,7 +3,9 @@
   "handle": "PGPL-AP",
   "description": "Durable Plastics Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.206.184.0/24"
+    ],
     "ipv6": []
   }
 }
