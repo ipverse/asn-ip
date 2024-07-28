@@ -4,6 +4,7 @@
   "description": "WISPLAY NETWORKS, C.A",
   "subnets": {
     "ipv4": [
+      "38.22.240.0/21",
       "38.190.16.0/21"
     ],
     "ipv6": []

@@ -4,8 +4,6 @@
   "description": "BBC",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2001:41c7::/32"
-    ]
+    "ipv6": []
   }
 }

@@ -3,10 +3,7 @@
   "handle": "FAST-WIFI-ONLINE",
   "description": "DCNHOST",
   "subnets": {
-    "ipv4": [
-      "74.122.24.0/22",
-      "167.253.79.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

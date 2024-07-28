@@ -3,7 +3,9 @@
   "handle": "RKUB-AP",
   "description": "Rajshahi Krishi Unnayan Bank",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.56.0.0/24"
+    ],
     "ipv6": []
   }
 }

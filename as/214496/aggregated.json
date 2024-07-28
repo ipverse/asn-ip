@@ -3,7 +3,9 @@
   "handle": "ARCUEID-NETWORK",
   "description": "Arcueid Network Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.158.127.0/24"
+    ],
     "ipv6": [
       "2a0c:9a40:8af0::/48",
       "2a14:7581:f60::/44"

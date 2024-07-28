@@ -3,7 +3,9 @@
   "handle": "IT-GARAGE",
   "description": "Maksym Pan Vyacheslavovich",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.87.77.0/24"
+    ],
     "ipv6": [
       "2a0a:6044:9030::/44",
       "2a0e:b107:27b9::/48",

@@ -3,11 +3,7 @@
   "handle": "ZIONTECH-TECNOLOGIA-SERVICOS",
   "description": "ZIONTECH TECNOLOGIA E SERVICOS",
   "subnets": {
-    "ipv4": [
-      "200.107.64.0/22"
-    ],
-    "ipv6": [
-      "2804:7f38::/32"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }
