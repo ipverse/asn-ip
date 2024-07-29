@@ -1,9 +1,11 @@
 {
   "asn": 59721,
-  "handle": "NAVITGO",
-  "description": "Navitgo LLC",
+  "handle": "SAFECLOUDBOX",
+  "description": "SAFECLOUDBOX SAS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.80.158.0/24"
+    ],
     "ipv6": []
   }
 }

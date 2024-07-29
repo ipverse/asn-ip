@@ -3,7 +3,9 @@
   "handle": "RECA",
   "description": "Alex Pawlak",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "89.36.34.0/24"
+    ],
     "ipv6": []
   }
 }

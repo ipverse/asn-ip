@@ -3,7 +3,9 @@
   "handle": "METACRYPT",
   "description": "METACRYPT (OPC) PRIVATE LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "188.209.139.0/24"
+    ],
     "ipv6": [
       "2a0a:6044:f000::/36"
     ]
