@@ -3,7 +3,9 @@
   "handle": "BGS",
   "description": "BALLY GAMING \u0026 SYSTEMS, SAS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.145.77.0/24"
+    ],
     "ipv6": []
   }
 }

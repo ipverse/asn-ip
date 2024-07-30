@@ -4,7 +4,8 @@
   "description": "Pusat Jantung Nasional Harapan Kita",
   "subnets": {
     "ipv4": [
-      "103.89.248.0/24"
+      "103.89.248.0/24",
+      "160.25.249.0/24"
     ],
     "ipv6": [
       "2001:df0:c300::/48"

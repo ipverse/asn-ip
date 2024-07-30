@@ -4,7 +4,8 @@
   "description": "ARIN Routing Security",
   "subnets": {
     "ipv4": [
-      "149.112.152.0/22"
+      "149.112.152.0/22",
+      "205.196.98.0/24"
     ],
     "ipv6": [
       "2602:fc3b::/36"

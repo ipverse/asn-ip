@@ -1,9 +1,11 @@
 {
   "asn": 15167,
-  "handle": "HIHART",
-  "description": "H. I. Cable, LLC",
+  "handle": "INFINITE",
+  "description": "INFINITE NETWORK LLC",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2602:f892::/40"
+    ]
   }
 }
