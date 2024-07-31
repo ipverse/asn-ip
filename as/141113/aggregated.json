@@ -1,0 +1,11 @@
+{
+  "asn": 141113,
+  "handle": "IDNIC-KOMISIYUDISIAL-ID",
+  "description": "Komisi Yudisial RI",
+  "subnets": {
+    "ipv4": [
+      "103.157.80.0/23"
+    ],
+    "ipv6": []
+  }
+}

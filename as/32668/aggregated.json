@@ -1,0 +1,11 @@
+{
+  "asn": 32668,
+  "handle": "STEL-HOSTING-LLC",
+  "description": "STEL Hosting LLC",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2602:f86a::/48"
+    ]
+  }
+}

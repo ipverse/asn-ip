@@ -1,9 +1,11 @@
 {
   "asn": 135418,
-  "handle": "RESERVED",
-  "description": "APNIC ASN block",
+  "handle": "CAAREPL-AP",
+  "description": "Computer Analysts And Recovery Experts Pte. Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "160.30.0.0/23"
+    ],
     "ipv6": []
   }
 }

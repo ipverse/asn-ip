@@ -3,7 +3,9 @@
   "handle": "OMNICELL",
   "description": "Omnicell Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "173.254.187.0/24"
+    ],
     "ipv6": []
   }
 }

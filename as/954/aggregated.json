@@ -1,0 +1,11 @@
+{
+  "asn": 954,
+  "handle": "TS-1316",
+  "description": "TMTG",
+  "subnets": {
+    "ipv4": [
+      "144.34.0.0/24"
+    ],
+    "ipv6": []
+  }
+}

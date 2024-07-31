@@ -3,7 +3,11 @@
   "handle": "CM-INTERNATIONAL-MXICO",
   "description": "CM INTERNATIONAL MXICO INFORMATION TECHNOLOGY, S. DE R.L. DE C.V.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "223.119.251.0/24"
+    ],
+    "ipv6": [
+      "2806:3fe::/32"
+    ]
   }
 }

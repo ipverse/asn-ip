@@ -1,0 +1,11 @@
+{
+  "asn": 394495,
+  "handle": "SHAWFIBER-01",
+  "description": "Shaw Fiber",
+  "subnets": {
+    "ipv4": [
+      "23.169.216.0/24"
+    ],
+    "ipv6": []
+  }
+}

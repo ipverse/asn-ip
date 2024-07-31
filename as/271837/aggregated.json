@@ -4,6 +4,7 @@
   "description": "DESPLIEGUE COMPUTACIONAL E INTERNET DCNET S.A.",
   "subnets": {
     "ipv4": [
+      "177.234.228.0/24",
       "179.63.20.0/22"
     ],
     "ipv6": [

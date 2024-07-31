@@ -1,0 +1,11 @@
+{
+  "asn": 152890,
+  "handle": "PLRA-AP",
+  "description": "Punjab Land Records Authority",
+  "subnets": {
+    "ipv4": [
+      "160.22.38.0/24"
+    ],
+    "ipv6": []
+  }
+}

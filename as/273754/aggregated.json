@@ -4,7 +4,7 @@
   "description": "VIASAT BRASIL SERVIOS DE COMUNICAES LTDA",
   "subnets": {
     "ipv4": [
-      "99.198.80.0/21"
+      "99.198.80.0/20"
     ],
     "ipv6": []
   }

@@ -3,7 +3,10 @@
   "handle": "O4IT-COLOMBIA",
   "description": "O4IT Colombia SAS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "138.117.136.0/23",
+      "190.242.59.0/24"
+    ],
     "ipv6": [
       "2803:e840::/32"
     ]

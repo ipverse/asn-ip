@@ -1,7 +1,15 @@
 {
   "asn": 33617,
+  "handle": "COMPUTEAZ",
+  "description": "Compute Arizona LLC",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "103.20.188.0/22",
+      "119.18.152.0/21",
+      "124.158.176.0/20"
+    ],
+    "ipv6": [
+      "2602:f85f::/40"
+    ]
   }
 }
