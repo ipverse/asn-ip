@@ -3,7 +3,9 @@
   "handle": "NCLEO-INF-COORD",
   "description": "Ncleo de Inf. e Coord. do Ponto BR - NIC.BR",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "200.192.233.0/24"
+    ],
     "ipv6": []
   }
 }

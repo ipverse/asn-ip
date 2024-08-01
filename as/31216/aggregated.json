@@ -4,7 +4,6 @@
   "description": "BSO Network Solutions SAS",
   "subnets": {
     "ipv4": [
-      "8.29.195.0/24",
       "195.49.140.0/22"
     ],
     "ipv6": [

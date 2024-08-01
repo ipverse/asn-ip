@@ -1,0 +1,13 @@
+{
+  "asn": 152590,
+  "handle": "THEITDEPTPTYLTD-AP",
+  "description": "THE IT DEPT PTY LTD",
+  "subnets": {
+    "ipv4": [
+      "157.20.112.0/23"
+    ],
+    "ipv6": [
+      "2001:df3:80c0::/48"
+    ]
+  }
+}

@@ -3,9 +3,7 @@
   "handle": "SUNHOST",
   "description": "CHROMIS IT LTD",
   "subnets": {
-    "ipv4": [
-      "85.28.47.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

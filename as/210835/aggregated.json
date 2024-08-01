@@ -3,7 +3,10 @@
   "handle": "WARPIRIS-NET",
   "description": "WARPIRIS BILISIM TEKNOLOJILERI ANONIM SIRKETI",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "89.150.36.0/24",
+      "89.150.38.0/24"
+    ],
     "ipv6": []
   }
 }

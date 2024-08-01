@@ -3,9 +3,7 @@
   "handle": "IDNIC-HYPERTECH-ID",
   "description": "PT Global Media Integra",
   "subnets": {
-    "ipv4": [
-      "157.66.248.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

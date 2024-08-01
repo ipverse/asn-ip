@@ -4,8 +4,7 @@
   "description": "Unisys Brasil Ltda.",
   "subnets": {
     "ipv4": [
-      "200.220.0.0/19",
-      "200.220.64.0/18"
+      "200.220.0.0/17"
     ],
     "ipv6": []
   }
