@@ -4,8 +4,7 @@
   "description": "Weyerhaeuser Company",
   "subnets": {
     "ipv4": [
-      "192.34.182.0/23",
-      "192.69.152.0/23"
+      "192.34.182.0/23"
     ],
     "ipv6": []
   }

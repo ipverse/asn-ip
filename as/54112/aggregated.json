@@ -3,11 +3,7 @@
   "handle": "MACST-SV4",
   "description": "MacStadium, Inc.",
   "subnets": {
-    "ipv4": [
-      "199.19.84.0/22"
-    ],
-    "ipv6": [
-      "2607:6480:8000::/35"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

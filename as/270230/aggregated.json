@@ -1,0 +1,11 @@
+{
+  "asn": 270230,
+  "handle": "BANCO-NACIONAL-COMERCIO",
+  "description": "BANCO NACIONAL DE COMERCIO EXTERIOR",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2801:c4:a7::/48"
+    ]
+  }
+}

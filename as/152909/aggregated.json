@@ -1,0 +1,11 @@
+{
+  "asn": 152909,
+  "handle": "SAFER-AP",
+  "description": "SaferCities",
+  "subnets": {
+    "ipv4": [
+      "160.22.138.0/24"
+    ],
+    "ipv6": []
+  }
+}

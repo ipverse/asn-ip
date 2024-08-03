@@ -4,7 +4,8 @@
   "description": "VIRTUAL CENTER HOSTING TECNOLOGIA EIRELI",
   "subnets": {
     "ipv4": [
-      "186.251.24.0/22"
+      "186.251.24.0/23",
+      "186.251.27.0/24"
     ],
     "ipv6": [
       "2804:ae8::/48"

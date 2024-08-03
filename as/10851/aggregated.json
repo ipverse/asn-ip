@@ -3,7 +3,9 @@
   "handle": "SJCB",
   "description": "St Johns County BOCC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "162.251.206.0/24"
+    ],
     "ipv6": [
       "2620:137:5000::/43",
       "2620:137:5090::/44"

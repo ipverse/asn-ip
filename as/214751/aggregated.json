@@ -4,6 +4,7 @@
   "description": "Tugay Toksoz",
   "subnets": {
     "ipv4": [
+      "23.184.104.0/24",
       "82.153.205.0/24"
     ],
     "ipv6": []

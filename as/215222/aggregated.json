@@ -1,0 +1,11 @@
+{
+  "asn": 215222,
+  "handle": "CITY-LINE",
+  "description": "Cable and mobile best service MCHJ",
+  "subnets": {
+    "ipv4": [
+      "93.170.11.0/24"
+    ],
+    "ipv6": []
+  }
+}

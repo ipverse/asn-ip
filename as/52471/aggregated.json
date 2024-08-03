@@ -4,6 +4,7 @@
   "description": "COLUMBUS NETWORKS DOMINICANA, S.A.",
   "subnets": {
     "ipv4": [
+      "5.183.80.0/22",
       "45.169.192.0/22",
       "103.7.135.0/24",
       "103.8.92.0/22",

@@ -1,0 +1,11 @@
+{
+  "asn": 152745,
+  "handle": "IDNIC-RAKANPONSEL-ID",
+  "description": "CV Rakan Ponsel",
+  "subnets": {
+    "ipv4": [
+      "157.20.152.0/24"
+    ],
+    "ipv6": []
+  }
+}

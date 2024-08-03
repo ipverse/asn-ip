@@ -4,6 +4,7 @@
   "description": "DP AlNet",
   "subnets": {
     "ipv4": [
+      "95.46.160.0/22",
       "194.32.96.0/22"
     ],
     "ipv6": []

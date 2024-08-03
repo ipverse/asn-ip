@@ -4,6 +4,8 @@
   "description": "Aubrey Rose",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2602:fba2:18::/45"
+    ]
   }
 }
