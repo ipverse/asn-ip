@@ -3,7 +3,9 @@
   "handle": "JPR-CONEXIN-DIGITAL-SPA",
   "description": "JPR CONEXIN DIGITAL SPA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "187.103.20.0/22"
+    ],
     "ipv6": []
   }
 }

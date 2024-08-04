@@ -3,7 +3,9 @@
   "handle": "SONIKO",
   "description": "Teleradiocompany Soniko-Svyaz Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "93.157.8.0/22"
+    ],
     "ipv6": []
   }
 }

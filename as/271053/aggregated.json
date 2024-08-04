@@ -3,7 +3,9 @@
   "handle": "POWERNET-TELECOMUNICACOES",
   "description": "POWERNET TELECOMUNICACOES",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "177.74.164.0/22"
+    ],
     "ipv6": []
   }
 }

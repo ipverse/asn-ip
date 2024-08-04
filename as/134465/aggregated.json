@@ -3,7 +3,11 @@
   "handle": "HARVILMEDIA-AP",
   "description": "M/S HARVIL MEDIA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.160.144.0/23",
+      "166.0.242.0/24",
+      "166.0.244.0/24"
+    ],
     "ipv6": []
   }
 }

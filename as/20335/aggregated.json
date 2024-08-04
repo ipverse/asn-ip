@@ -1,0 +1,13 @@
+{
+  "asn": 20335,
+  "handle": "UDT",
+  "description": "United Data Technologies, Inc.",
+  "subnets": {
+    "ipv4": [
+      "23.180.88.0/24"
+    ],
+    "ipv6": [
+      "2607:b840::/32"
+    ]
+  }
+}

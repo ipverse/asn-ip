@@ -4,7 +4,8 @@
   "description": "Printnet telecomunicaoes",
   "subnets": {
     "ipv4": [
-      "177.39.108.0/24"
+      "177.39.108.0/24",
+      "177.125.76.0/24"
     ],
     "ipv6": [
       "2804:1098::/33"

@@ -4,6 +4,7 @@
   "description": "Hostup AB",
   "subnets": {
     "ipv4": [
+      "64.112.127.0/24",
       "206.168.212.0/22"
     ],
     "ipv6": [
