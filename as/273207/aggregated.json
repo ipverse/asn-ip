@@ -1,0 +1,13 @@
+{
+  "asn": 273207,
+  "handle": "WIFI-PRADO-CA",
+  "description": "WIFI-PRADO C.A",
+  "subnets": {
+    "ipv4": [
+      "38.66.206.0/23"
+    ],
+    "ipv6": [
+      "2803:d650::/32"
+    ]
+  }
+}

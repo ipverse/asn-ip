@@ -1,0 +1,11 @@
+{
+  "asn": 16390,
+  "handle": "WIFI-BEAR",
+  "description": "WiFi Bear LLC",
+  "subnets": {
+    "ipv4": [
+      "23.171.56.0/24"
+    ],
+    "ipv6": []
+  }
+}

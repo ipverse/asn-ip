@@ -4,8 +4,7 @@
   "description": "BYTE SHOP CONVENIENCIA",
   "subnets": {
     "ipv4": [
-      "45.170.60.0/23",
-      "45.170.62.0/24"
+      "45.170.60.0/22"
     ],
     "ipv6": [
       "2804:58a8::/32"

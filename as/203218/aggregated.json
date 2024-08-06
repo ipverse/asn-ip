@@ -4,6 +4,7 @@
   "description": "Cyril Papadakis trading as Papadakis IT",
   "subnets": {
     "ipv4": [
+      "144.48.81.0/24",
       "185.44.80.0/24",
       "204.11.2.0/24"
     ],

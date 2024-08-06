@@ -1,13 +1,13 @@
 {
   "asn": 270959,
-  "handle": "WIX-TELECOM-BRASIL-EIRELI",
-  "description": "WIX TELECOM DO BRASIL EIRELI",
+  "handle": "WIX-TELECOM-BRASIL",
+  "description": "WIX TELECOM DO BRASIL LTDA",
   "subnets": {
     "ipv4": [
       "190.184.216.0/22"
     ],
     "ipv6": [
-      "2804:741c::/34"
+      "2804:741c::/33"
     ]
   }
 }

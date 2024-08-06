@@ -3,7 +3,11 @@
   "handle": "YLWL",
   "description": "Beijing Yunlin Network Technology Co.,Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "110.40.0.0/24",
+      "114.112.160.0/20",
+      "120.131.124.0/22"
+    ],
     "ipv6": []
   }
 }

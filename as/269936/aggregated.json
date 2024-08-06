@@ -4,7 +4,8 @@
   "description": "TELEVISION MONTALVO VISION MONVISION S.A.",
   "subnets": {
     "ipv4": [
-      "190.83.104.0/22"
+      "190.83.104.0/23",
+      "190.83.106.0/24"
     ],
     "ipv6": []
   }

@@ -1,9 +1,11 @@
 {
   "asn": 140477,
-  "handle": "MIT-ID",
-  "description": "PT Media Infrastruktur Teknik",
+  "handle": "IDNIC-ZNET-ID",
+  "description": "PT Zigma Teknologi Indonesia",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "157.66.0.0/23"
+    ],
     "ipv6": []
   }
 }
