@@ -3,9 +3,7 @@
   "handle": "NORTHERN-CABLE",
   "description": "NORTHERN CABLE AND FIBER, LLC",
   "subnets": {
-    "ipv4": [
-      "45.43.8.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

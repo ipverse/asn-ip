@@ -4,6 +4,9 @@
   "description": "Lopes Ferreira Luis Mateus",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a07:54c4:b00b::/48",
+      "2a12:bec0:330::/44"
+    ]
   }
 }

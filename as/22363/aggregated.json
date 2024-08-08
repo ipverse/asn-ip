@@ -4,6 +4,7 @@
   "description": "Powerhouse Management, Inc.",
   "subnets": {
     "ipv4": [
+      "23.182.120.0/24",
       "31.6.3.0/24",
       "31.6.4.0/22",
       "31.6.8.0/24",

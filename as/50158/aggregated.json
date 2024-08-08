@@ -4,6 +4,7 @@
   "description": "Connect LLC",
   "subnets": {
     "ipv4": [
+      "85.8.155.0/24",
       "194.247.184.0/23"
     ],
     "ipv6": []

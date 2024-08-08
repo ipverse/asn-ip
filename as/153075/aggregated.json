@@ -1,0 +1,11 @@
+{
+  "asn": 153075,
+  "handle": "IDNIC-BPJSKESEHATAN-ID",
+  "description": "BPJS KESEHATAN",
+  "subnets": {
+    "ipv4": [
+      "160.25.178.0/23"
+    ],
+    "ipv6": []
+  }
+}

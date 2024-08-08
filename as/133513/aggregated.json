@@ -1,0 +1,11 @@
+{
+  "asn": 133513,
+  "handle": "CERNEWTECH-CHENGDU",
+  "description": "CERNET New Technology Co., Ltd",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2400:a980:3000::/40"
+    ]
+  }
+}

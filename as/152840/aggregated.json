@@ -1,0 +1,11 @@
+{
+  "asn": 152840,
+  "handle": "IDNIC-BI-NET-ID",
+  "description": "PT Bening Artha Lintas Data",
+  "subnets": {
+    "ipv4": [
+      "160.25.68.0/23"
+    ],
+    "ipv6": []
+  }
+}

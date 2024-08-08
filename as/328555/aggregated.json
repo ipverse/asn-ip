@@ -4,7 +4,8 @@
   "description": "Timeless Network Services Ltd",
   "subnets": {
     "ipv4": [
-      "102.36.228.0/22"
+      "102.36.228.0/22",
+      "102.211.40.0/22"
     ],
     "ipv6": []
   }

@@ -4,10 +4,11 @@
   "description": "Reseaux IP Europeens Network Coordination Centre (RIPE NCC)",
   "subnets": {
     "ipv4": [
-      "193.0.9.0/24"
+      "193.0.8.0/23"
     ],
     "ipv6": [
-      "2001:67c:e0::/48"
+      "2001:67c:e0::/48",
+      "2a13:27c0:30::/44"
     ]
   }
 }

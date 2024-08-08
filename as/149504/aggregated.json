@@ -3,7 +3,9 @@
   "handle": "MSMULTINET-AP",
   "description": "MULTI NET",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.181.96.0/24"
+    ],
     "ipv6": []
   }
 }
