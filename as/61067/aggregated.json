@@ -3,7 +3,9 @@
   "handle": "SOLFORD",
   "description": "EON TV INTERNATIONAL LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.20.39.0/24"
+    ],
     "ipv6": []
   }
 }

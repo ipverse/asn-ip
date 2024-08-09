@@ -4,7 +4,8 @@
   "description": "PPTECHNOLOGY LIMITED",
   "subnets": {
     "ipv4": [
-      "45.148.10.0/24"
+      "45.148.10.0/24",
+      "195.178.110.0/24"
     ],
     "ipv6": []
   }

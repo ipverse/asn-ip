@@ -3,7 +3,9 @@
   "handle": "HIRAM-COLLEGE",
   "description": "Hiram College",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "66.45.73.0/24"
+    ],
     "ipv6": []
   }
 }

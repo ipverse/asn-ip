@@ -1,0 +1,11 @@
+{
+  "asn": 131108,
+  "handle": "SHERPURNETWORK-AP",
+  "description": "Sherpur Network",
+  "subnets": {
+    "ipv4": [
+      "160.30.62.0/23"
+    ],
+    "ipv6": []
+  }
+}

@@ -4,7 +4,7 @@
   "description": "UniCredit Bank JSC",
   "subnets": {
     "ipv4": [
-      "195.19.94.0/23"
+      "195.19.94.0/24"
     ],
     "ipv6": []
   }

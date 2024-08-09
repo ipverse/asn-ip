@@ -3,7 +3,9 @@
   "handle": "ISHAPE123",
   "description": "I SHAPE BROADBAND",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.170.127.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -4,6 +4,7 @@
   "description": "Kingsoft cloud corporation limited",
   "subnets": {
     "ipv4": [
+      "98.98.216.0/24",
       "104.166.180.0/23",
       "104.250.32.0/22",
       "104.250.38.0/23",

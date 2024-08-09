@@ -4,6 +4,7 @@
   "description": "VANGUARDA TELECOMUNICAES LTDA ME",
   "subnets": {
     "ipv4": [
+      "38.224.181.0/24",
       "45.4.244.0/22"
     ],
     "ipv6": [

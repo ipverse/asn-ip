@@ -3,9 +3,7 @@
   "handle": "VCL-AP",
   "description": "Virtury Cloud Private Limited",
   "subnets": {
-    "ipv4": [
-      "103.171.122.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

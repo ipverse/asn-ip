@@ -4,7 +4,8 @@
   "description": "PT APLIKA DATA NUSANTARA",
   "subnets": {
     "ipv4": [
-      "103.148.88.0/23"
+      "103.148.88.0/23",
+      "202.87.177.0/24"
     ],
     "ipv6": [
       "2001:df2:c980::/48"

@@ -4,6 +4,7 @@
   "description": "JIntelligence GmbH",
   "subnets": {
     "ipv4": [
+      "37.1.112.0/20",
       "45.139.140.0/22"
     ],
     "ipv6": []
