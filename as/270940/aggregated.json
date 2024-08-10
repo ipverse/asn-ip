@@ -4,7 +4,7 @@
   "description": "VeloxFibra Telecom",
   "subnets": {
     "ipv4": [
-      "138.255.54.0/23"
+      "138.255.52.0/22"
     ],
     "ipv6": [
       "2804:73d4::/32"

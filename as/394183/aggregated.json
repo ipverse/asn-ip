@@ -1,7 +1,11 @@
 {
   "asn": 394183,
+  "handle": "TRUSTMARK-NATIONAL-BANK",
+  "description": "Trustmark National Bank",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "170.62.122.0/24"
+    ],
     "ipv6": []
   }
 }

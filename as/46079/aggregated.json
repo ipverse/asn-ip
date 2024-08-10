@@ -3,9 +3,7 @@
   "handle": "SPU-AP",
   "description": "Sripatum Univeristy",
   "subnets": {
-    "ipv4": [
-      "202.44.68.0/22"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

@@ -1,0 +1,12 @@
+{
+  "asn": 204669,
+  "handle": "ISP-NETLABS",
+  "description": "NETLABS LLC",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a11:2f40::/29",
+      "2a11:7240::/29"
+    ]
+  }
+}

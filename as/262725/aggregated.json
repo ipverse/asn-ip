@@ -4,6 +4,7 @@
   "description": "RG SILVEIRA LTDA",
   "subnets": {
     "ipv4": [
+      "31.56.44.0/24",
       "186.192.0.0/20",
       "186.235.64.0/20"
     ],

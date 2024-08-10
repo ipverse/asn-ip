@@ -4,8 +4,6 @@
   "description": "SECRETARIA DEL TRABAJO Y PREVISION SOCIAL",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2806:1:200::/48"
-    ]
+    "ipv6": []
   }
 }

@@ -1,9 +1,11 @@
 {
   "asn": 394532,
   "handle": "INAZMA",
-  "description": "inazma",
+  "description": "TECPRESSO INC.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "23.146.96.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "VOLT-TELECOM-SERVIO",
   "description": "volt telecom servio de comunicao e multimidia",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.186.85.0/24"
+    ],
     "ipv6": [
       "2804:8d90::/32"
     ]

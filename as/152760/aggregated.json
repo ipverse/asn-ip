@@ -3,9 +3,7 @@
   "handle": "IDNIC-BMNET-ID",
   "description": "PT Bahar Mitra Net",
   "subnets": {
-    "ipv4": [
-      "157.66.246.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }
