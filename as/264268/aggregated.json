@@ -4,7 +4,8 @@
   "description": "TELETURBO SERVICOS DE TELECOMUNICACOES LTDA",
   "subnets": {
     "ipv4": [
-      "138.118.176.0/22"
+      "138.118.176.0/22",
+      "191.7.112.0/22"
     ],
     "ipv6": [
       "2804:2540::/32"

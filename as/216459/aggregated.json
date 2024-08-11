@@ -4,6 +4,7 @@
   "description": "Marketing Mind Online GmbH",
   "subnets": {
     "ipv4": [
+      "45.130.54.0/23",
       "194.156.176.0/24",
       "194.156.178.0/23"
     ],

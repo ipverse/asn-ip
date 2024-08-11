@@ -4,6 +4,7 @@
   "description": "Universal Music Group, INC.",
   "subnets": {
     "ipv4": [
+      "167.167.1.0/24",
       "167.167.3.0/24",
       "167.167.4.0/22",
       "167.167.8.0/23",

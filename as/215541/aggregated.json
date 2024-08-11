@@ -3,7 +3,9 @@
   "handle": "KRUSESEC",
   "description": "Peter Kruse",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "74.119.151.0/24"
+    ],
     "ipv6": [
       "2a06:9f81:4700::/40",
       "2a06:9f81:4800::/40",

@@ -4,8 +4,7 @@
   "description": "SYSTEM DYNAMICS SARL",
   "subnets": {
     "ipv4": [
-      "141.11.69.0/24",
-      "191.101.9.0/24"
+      "141.11.69.0/24"
     ],
     "ipv6": [
       "2a0c:b641:c30::/44"

@@ -3,7 +3,9 @@
   "handle": "STINGERS",
   "description": "Stingers Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "23.142.16.0/24"
+    ],
     "ipv6": [
       "2a0d:ba40::/30"
     ]

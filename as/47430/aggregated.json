@@ -4,6 +4,8 @@
   "description": "Arman White Water Way PJS",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a01:ed00::/32"
+    ]
   }
 }
