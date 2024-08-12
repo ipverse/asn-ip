@@ -4,6 +4,8 @@
   "description": "MARIELI SILVA DE OLIVEIRA - ME",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2804:9094::/32"
+    ]
   }
 }

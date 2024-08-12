@@ -4,6 +4,9 @@
   "description": "FRANCISCO CARLOS GUELFI JUNIOR",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a14:7581:c03::/48",
+      "2a14:7581:c04::/47"
+    ]
   }
 }

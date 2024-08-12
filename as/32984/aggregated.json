@@ -3,7 +3,9 @@
   "handle": "RUELALA-INC",
   "description": "Rue La La Inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "198.11.117.0/24"
+    ],
     "ipv6": []
   }
 }
