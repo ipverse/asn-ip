@@ -4,7 +4,9 @@
   "description": "AMWAJ ALKHYR COMMERCIAL BROKERS CO.",
   "subnets": {
     "ipv4": [
-      "213.134.17.0/24"
+      "62.60.148.0/22",
+      "213.134.17.0/24",
+      "213.176.112.0/21"
     ],
     "ipv6": [
       "2a13:3cc0::/30"

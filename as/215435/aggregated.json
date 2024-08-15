@@ -3,7 +3,9 @@
   "handle": "NETINVENT",
   "description": "NETINVENT SAS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "216.87.54.0/24"
+    ],
     "ipv6": []
   }
 }

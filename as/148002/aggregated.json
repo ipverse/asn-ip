@@ -3,9 +3,12 @@
   "handle": "INDIAN-PUBLIC-DNS",
   "description": "National Knowledge Network",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "160.202.196.0/23"
+    ],
     "ipv6": [
-      "240a:ee00::/28"
+      "240a:ee00::/28",
+      "240a:eff4::/31"
     ]
   }
 }

@@ -4,7 +4,8 @@
   "description": "Association HwHost",
   "subnets": {
     "ipv4": [
-      "5.181.187.0/24"
+      "5.181.187.0/24",
+      "185.186.26.0/24"
     ],
     "ipv6": []
   }

@@ -3,7 +3,11 @@
   "handle": "KU-NP",
   "description": "Kathmandu University",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "101.251.6.0/23"
+    ],
+    "ipv6": [
+      "2404:2c00:600::/47"
+    ]
   }
 }

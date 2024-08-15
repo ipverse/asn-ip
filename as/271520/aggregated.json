@@ -4,10 +4,10 @@
   "description": "PLANET LINK INTERNET LTDA",
   "subnets": {
     "ipv4": [
-      "181.224.80.0/22"
+      "181.224.83.0/24"
     ],
     "ipv6": [
-      "2804:7cd0::/32"
+      "2804:7cd0:c000::/34"
     ]
   }
 }

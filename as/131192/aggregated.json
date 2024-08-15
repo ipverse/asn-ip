@@ -1,0 +1,12 @@
+{
+  "asn": 131192,
+  "handle": "HGEC-AP",
+  "description": "Henan Guochao E-commerce Co.Ltd.",
+  "subnets": {
+    "ipv4": [
+      "43.242.44.0/22",
+      "103.37.248.0/22"
+    ],
+    "ipv6": []
+  }
+}

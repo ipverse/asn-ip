@@ -4,6 +4,8 @@
   "description": "Wu Chunyu",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2406:840:fc50::/44"
+    ]
   }
 }

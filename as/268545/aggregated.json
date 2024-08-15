@@ -4,7 +4,8 @@
   "description": "NNET TELECOMUNICAO LTDA",
   "subnets": {
     "ipv4": [
-      "45.163.4.0/22"
+      "45.163.4.0/22",
+      "131.108.216.0/22"
     ],
     "ipv6": [
       "2804:52d8::/32"

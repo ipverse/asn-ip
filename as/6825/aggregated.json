@@ -4,9 +4,6 @@
   "description": "Ray Connect GmbH",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2001:1578:300::/40",
-      "2a05:bc1::/48"
-    ]
+    "ipv6": []
   }
 }

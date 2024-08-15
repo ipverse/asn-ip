@@ -3,7 +3,9 @@
   "handle": "STARTNET-PROVEDOR-INFORMATICA",
   "description": "STARTNET PROVEDOR E INFORMATICA LTDA - ME",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "24.152.31.0/24"
+    ],
     "ipv6": [
       "2804:8680::/32"
     ]

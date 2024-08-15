@@ -4,6 +4,7 @@
   "description": "BEE ONLINE NETWORK PRIVATE LIMITED",
   "subnets": {
     "ipv4": [
+      "104.234.165.0/24",
       "195.95.144.0/24",
       "213.218.224.0/24"
     ],
