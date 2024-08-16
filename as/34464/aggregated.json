@@ -3,7 +3,9 @@
   "handle": "ZEISS",
   "description": "Media Sououz Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.62.0.0/24"
+    ],
     "ipv6": []
   }
 }

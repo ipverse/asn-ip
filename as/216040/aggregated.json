@@ -4,6 +4,7 @@
   "description": "AnySec B.V",
   "subnets": {
     "ipv4": [
+      "142.111.2.0/24",
       "195.133.8.0/24"
     ],
     "ipv6": [

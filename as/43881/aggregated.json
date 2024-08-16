@@ -3,7 +3,9 @@
   "handle": "SMARTLINK",
   "description": "Revnetek Systems OU",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.198.206.0/24"
+    ],
     "ipv6": []
   }
 }

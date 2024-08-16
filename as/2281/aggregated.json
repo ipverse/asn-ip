@@ -3,10 +3,7 @@
   "handle": "OCB-HONEY-AMS",
   "description": "Orange S.A.",
   "subnets": {
-    "ipv4": [
-      "57.79.248.0/24",
-      "57.100.96.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

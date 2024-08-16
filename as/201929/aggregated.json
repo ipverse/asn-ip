@@ -1,0 +1,11 @@
+{
+  "asn": 201929,
+  "handle": "SIPTELECOM",
+  "description": "Sip-Telecom LLC",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a02:65a0::/32"
+    ]
+  }
+}

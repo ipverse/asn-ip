@@ -1,0 +1,11 @@
+{
+  "asn": 329461,
+  "handle": "MAROC-DATACENTER-MDC",
+  "description": "Maroc Datacenter MDC",
+  "subnets": {
+    "ipv4": [
+      "102.208.100.0/24"
+    ],
+    "ipv6": []
+  }
+}

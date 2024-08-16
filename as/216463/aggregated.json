@@ -4,7 +4,7 @@
   "description": "GREENTV LLC",
   "subnets": {
     "ipv4": [
-      "45.153.24.0/22"
+      "45.153.24.0/24"
     ],
     "ipv6": []
   }

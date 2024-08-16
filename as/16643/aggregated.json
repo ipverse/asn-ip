@@ -4,7 +4,8 @@
   "description": "Virginia Commonwealth University",
   "subnets": {
     "ipv4": [
-      "128.172.0.0/16"
+      "128.172.0.0/16",
+      "208.22.76.0/22"
     ],
     "ipv6": []
   }

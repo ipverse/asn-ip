@@ -3,7 +3,9 @@
   "handle": "HUBER-01",
   "description": "Huber \u0026 Associates, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.65.108.0/24"
+    ],
     "ipv6": []
   }
 }
