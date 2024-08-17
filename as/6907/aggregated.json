@@ -4,8 +4,7 @@
   "description": "eBay Marketplaces GmbH",
   "subnets": {
     "ipv4": [
-      "93.94.41.0/24",
-      "93.94.43.0/24"
+      "93.94.40.0/23"
     ],
     "ipv6": []
   }

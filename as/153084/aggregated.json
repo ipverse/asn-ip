@@ -1,0 +1,11 @@
+{
+  "asn": 153084,
+  "handle": "IDNIC-GHADHENET-ID",
+  "description": "PT Ghadhe Akses Mandiri",
+  "subnets": {
+    "ipv4": [
+      "160.25.56.0/23"
+    ],
+    "ipv6": []
+  }
+}

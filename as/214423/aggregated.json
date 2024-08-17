@@ -1,0 +1,13 @@
+{
+  "asn": 214423,
+  "handle": "MSI",
+  "description": "Micro-Star Netherlands Holding B.V.",
+  "subnets": {
+    "ipv4": [
+      "195.95.248.0/24"
+    ],
+    "ipv6": [
+      "2001:678:c60::/48"
+    ]
+  }
+}

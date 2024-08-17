@@ -1,0 +1,12 @@
+{
+  "asn": 211126,
+  "handle": "EUROLIR",
+  "description": "WHG Hosting Services Ltd",
+  "subnets": {
+    "ipv4": [
+      "195.250.27.0/24",
+      "195.250.28.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -4,7 +4,8 @@
   "description": "POWERNET COMPANY LIMITED",
   "subnets": {
     "ipv4": [
-      "103.68.248.0/22"
+      "103.68.248.0/22",
+      "103.147.188.0/23"
     ],
     "ipv6": [
       "2405:10c0::/48"

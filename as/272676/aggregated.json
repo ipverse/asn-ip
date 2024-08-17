@@ -3,7 +3,9 @@
   "handle": "BRASIL-PROVEDOR-INTERNET",
   "description": "Brasil Provedor de Internet Ltda",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "201.182.144.0/24"
+    ],
     "ipv6": [
       "2804:86f0::/32"
     ]

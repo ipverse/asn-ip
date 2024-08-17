@@ -3,7 +3,11 @@
   "handle": "WAVEFLY",
   "description": "BENCHMARK COMMUNICATIONS LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.46.56.0/21",
+      "38.48.96.0/20",
+      "38.48.112.0/21"
+    ],
     "ipv6": []
   }
 }
