@@ -1,0 +1,11 @@
+{
+  "asn": 40950,
+  "handle": "DEDIBYTE-LLC",
+  "description": "DediByte",
+  "subnets": {
+    "ipv4": [
+      "149.18.25.0/24"
+    ],
+    "ipv6": []
+  }
+}

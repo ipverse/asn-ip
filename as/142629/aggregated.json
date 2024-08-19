@@ -3,7 +3,9 @@
   "handle": "GIGAFIBERCORP-AP",
   "description": "GigaFiber Corp.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "156.232.107.0/24"
+    ],
     "ipv6": []
   }
 }

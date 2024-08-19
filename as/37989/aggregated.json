@@ -4,6 +4,7 @@
   "description": "eSys Technologies Pte Ltd",
   "subnets": {
     "ipv4": [
+      "44.32.99.0/24",
       "203.123.48.0/22"
     ],
     "ipv6": [
