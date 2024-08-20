@@ -3,7 +3,9 @@
   "handle": "EVTSP",
   "description": "PJSC Toseh Etemad Vosoogh Gostar",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "212.16.89.0/24"
+    ],
     "ipv6": []
   }
 }

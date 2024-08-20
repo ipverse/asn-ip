@@ -3,7 +3,9 @@
   "handle": "ANLX-UK",
   "description": "Associated Networks (UK) Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "81.91.96.0/21"
+    ],
     "ipv6": [
       "2001:b70::/32"
     ]

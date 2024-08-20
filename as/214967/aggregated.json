@@ -3,7 +3,10 @@
   "handle": "OPTIBOUNCE",
   "description": "Optibounce, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "31.56.62.0/24",
+      "31.56.67.0/24"
+    ],
     "ipv6": [
       "2a0a:e2c0::/29",
       "2a0b:9e47::/32",

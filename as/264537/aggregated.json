@@ -3,7 +3,9 @@
   "handle": "RALINK-TELECOM",
   "description": "RALINK TELECOM LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "138.0.84.0/22"
+    ],
     "ipv6": []
   }
 }

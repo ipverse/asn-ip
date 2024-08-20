@@ -3,9 +3,9 @@
   "handle": "LNK-TELECOM",
   "description": "LNK Telecom",
   "subnets": {
-    "ipv4": [],
-    "ipv6": [
-      "2804:5ec8::/32"
-    ]
+    "ipv4": [
+      "45.178.204.0/22"
+    ],
+    "ipv6": []
   }
 }

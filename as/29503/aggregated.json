@@ -3,7 +3,9 @@
   "handle": "RATMIR-MOSCOW",
   "description": "JSC Ratmir-ADS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "217.146.32.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -1,0 +1,11 @@
+{
+  "asn": 36168,
+  "handle": "ANS-216",
+  "description": "Assured Networks",
+  "subnets": {
+    "ipv4": [
+      "23.175.120.0/24"
+    ],
+    "ipv6": []
+  }
+}

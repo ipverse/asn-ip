@@ -3,7 +3,9 @@
   "handle": "NACSSHOST",
   "description": "EMRE ANIL ARSLAN",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "31.56.126.0/24"
+    ],
     "ipv6": []
   }
 }

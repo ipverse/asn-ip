@@ -1,0 +1,13 @@
+{
+  "asn": 401299,
+  "handle": "SIPNAV-EAST",
+  "description": "SipNav LLC",
+  "subnets": {
+    "ipv4": [
+      "66.96.95.0/24"
+    ],
+    "ipv6": [
+      "2606:92c0:1600::/40"
+    ]
+  }
+}
