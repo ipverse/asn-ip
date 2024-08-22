@@ -3,7 +3,9 @@
   "handle": "FL-AN",
   "description": "Frode Laursen A/S",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.154.71.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -1,0 +1,11 @@
+{
+  "asn": 153101,
+  "handle": "IDNIC-KAWANTEKNO-ID",
+  "description": "PT Kawan Teknologi Pratama",
+  "subnets": {
+    "ipv4": [
+      "160.25.152.0/24"
+    ],
+    "ipv6": []
+  }
+}

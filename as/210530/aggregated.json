@@ -1,0 +1,11 @@
+{
+  "asn": 210530,
+  "handle": "IP2CON",
+  "description": "IP Connect Inc",
+  "subnets": {
+    "ipv4": [
+      "164.215.96.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -3,9 +3,7 @@
   "handle": "DASHSERV",
   "description": "Julian Tiedke",
   "subnets": {
-    "ipv4": [
-      "37.114.36.0/24"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2a06:1283:c0a0::/44",
       "2a06:de00:700::/44",

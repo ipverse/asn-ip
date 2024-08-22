@@ -3,7 +3,9 @@
   "handle": "HALUM-AP",
   "description": "Halum Properties (HALPROP) Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "160.20.126.0/24"
+    ],
     "ipv6": []
   }
 }

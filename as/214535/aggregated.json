@@ -1,0 +1,11 @@
+{
+  "asn": 214535,
+  "handle": "BIOTECH-CAMPUS",
+  "description": "LLC Biotech Campus",
+  "subnets": {
+    "ipv4": [
+      "80.242.55.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -4,6 +4,7 @@
   "description": "Nokia of America Corporation",
   "subnets": {
     "ipv4": [
+      "135.92.56.0/22",
       "135.109.0.0/17",
       "135.109.192.0/23",
       "135.109.196.0/22",

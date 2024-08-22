@@ -1,9 +1,11 @@
 {
   "asn": 48472,
-  "handle": "DIALCOMNVKZ",
+  "handle": "KEYPOINT-VLD",
   "description": "Truenetwork LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "94.247.104.0/24"
+    ],
     "ipv6": []
   }
 }

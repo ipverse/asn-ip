@@ -1,0 +1,14 @@
+{
+  "asn": 152214,
+  "handle": "KOREANAIR",
+  "description": "Hanjin Information Systems Telecommunication Co., Ltd",
+  "subnets": {
+    "ipv4": [
+      "121.128.97.0/24",
+      "121.131.216.0/24",
+      "175.123.175.0/24",
+      "180.64.218.0/24"
+    ],
+    "ipv6": []
+  }
+}

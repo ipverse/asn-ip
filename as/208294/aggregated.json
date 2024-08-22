@@ -3,7 +3,9 @@
   "handle": "API-AND-YOU",
   "description": "API \u0026 You SAS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "88.218.34.0/24"
+    ],
     "ipv6": []
   }
 }

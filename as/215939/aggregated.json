@@ -3,7 +3,9 @@
   "handle": "MORNINGSTARS",
   "description": "Valery Smoliar",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "77.105.163.0/24"
+    ],
     "ipv6": []
   }
 }
