@@ -1,0 +1,12 @@
+{
+  "asn": 36743,
+  "handle": "AUSRA-SYSTEMS",
+  "description": "Ausra LLC",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a05:b0c7:1803::/48",
+      "2a05:b0c7:1820::/44"
+    ]
+  }
+}

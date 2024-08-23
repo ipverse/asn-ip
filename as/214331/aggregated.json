@@ -1,0 +1,11 @@
+{
+  "asn": 214331,
+  "handle": "TESKE-VIRTUAL-SYSTEM",
+  "description": "TESKE VIRTUAL SYSTEM LTDA",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a06:b700:1000::/48"
+    ]
+  }
+}

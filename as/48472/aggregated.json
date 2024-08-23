@@ -1,11 +1,9 @@
 {
   "asn": 48472,
-  "handle": "KEYPOINT-VLD",
+  "handle": "TRUENETWORK-CDN",
   "description": "Truenetwork LLC",
   "subnets": {
-    "ipv4": [
-      "94.247.104.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

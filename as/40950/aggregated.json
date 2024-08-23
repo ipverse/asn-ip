@@ -3,9 +3,7 @@
   "handle": "DEDIBYTE-LLC",
   "description": "DediByte",
   "subnets": {
-    "ipv4": [
-      "149.18.25.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

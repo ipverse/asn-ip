@@ -3,7 +3,9 @@
   "handle": "LORD-CORP-CARY",
   "description": "Lord Corporation",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "152.50.64.0/24"
+    ],
     "ipv6": []
   }
 }

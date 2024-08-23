@@ -1,9 +1,20 @@
 {
   "asn": 393458,
-  "handle": "OERLIKON-METCO",
-  "description": "Oerlikon Metco (US) Inc.",
+  "handle": "NUCLEARFALLOUT-ATL",
+  "description": "Nuclearfallout Enterprises, Inc.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "64.94.238.0/24",
+      "74.91.112.0/24",
+      "74.91.121.0/24",
+      "74.91.127.0/24",
+      "104.153.104.0/24",
+      "104.153.110.0/24",
+      "162.248.89.0/24",
+      "192.223.28.0/24"
+    ],
+    "ipv6": [
+      "2605:6ac0:6000::/36"
+    ]
   }
 }

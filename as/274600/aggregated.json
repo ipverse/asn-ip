@@ -1,0 +1,11 @@
+{
+  "asn": 274600,
+  "handle": "MASSA-TELECOMUNICACOES",
+  "description": "Massa Telecomunicacoes Ltda",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2804:90cc::/32"
+    ]
+  }
+}

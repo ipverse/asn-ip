@@ -3,7 +3,9 @@
   "handle": "CONNECT-IX",
   "description": "CONNECT-IX SAS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "109.110.173.0/24"
+    ],
     "ipv6": [
       "2a0e:97c0:290::/44"
     ]

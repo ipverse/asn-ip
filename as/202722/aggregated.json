@@ -3,7 +3,10 @@
   "handle": "TELENET",
   "description": "Telenet Group SRL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.242.80.0/24",
+      "91.242.99.0/24"
+    ],
     "ipv6": []
   }
 }

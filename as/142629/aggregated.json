@@ -4,6 +4,7 @@
   "description": "GigaFiber Corp.",
   "subnets": {
     "ipv4": [
+      "103.171.89.0/24",
       "156.232.107.0/24"
     ],
     "ipv6": []

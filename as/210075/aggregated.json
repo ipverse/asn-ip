@@ -4,7 +4,8 @@
   "description": "Michal Gluminski trading as Firma Handlowa Gumis",
   "subnets": {
     "ipv4": [
-      "156.67.120.0/24"
+      "156.67.120.0/24",
+      "185.62.3.0/24"
     ],
     "ipv6": [
       "2a06:1e00:27::/48"
