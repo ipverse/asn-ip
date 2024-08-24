@@ -1,0 +1,11 @@
+{
+  "asn": 400147,
+  "handle": "CITY-OF-MODESTO-01",
+  "description": "City of Modesto",
+  "subnets": {
+    "ipv4": [
+      "204.17.232.0/24"
+    ],
+    "ipv6": []
+  }
+}

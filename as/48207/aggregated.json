@@ -4,7 +4,8 @@
   "description": "GLB Bulut Teknolojisi Limited Sirketi",
   "subnets": {
     "ipv4": [
-      "193.124.45.0/24"
+      "193.124.45.0/24",
+      "194.135.34.0/24"
     ],
     "ipv6": []
   }

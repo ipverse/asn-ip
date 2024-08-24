@@ -3,7 +3,9 @@
   "handle": "BESTCOMMUNICATION-AP",
   "description": "Best Communication",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.151.183.0/24"
+    ],
     "ipv6": []
   }
 }

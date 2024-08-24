@@ -4,7 +4,8 @@
   "description": "Cuc An Toan Thong Tin- Bo Thong tin va Truyen thong",
   "subnets": {
     "ipv4": [
-      "103.192.236.0/22"
+      "103.192.236.0/23",
+      "103.192.238.0/24"
     ],
     "ipv6": []
   }

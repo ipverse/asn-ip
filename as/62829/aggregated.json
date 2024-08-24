@@ -1,0 +1,11 @@
+{
+  "asn": 62829,
+  "handle": "PL-BGP",
+  "description": "Prime-Line Products Company",
+  "subnets": {
+    "ipv4": [
+      "63.115.231.0/24"
+    ],
+    "ipv6": []
+  }
+}
