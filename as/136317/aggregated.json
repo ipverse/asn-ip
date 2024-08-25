@@ -4,6 +4,8 @@
   "description": "Giga Beam Broadband Pvt.ltd",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2602:fed2:7042::/48"
+    ]
   }
 }
