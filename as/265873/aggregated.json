@@ -3,7 +3,9 @@
   "handle": "FIBER-TO-THE-HOME-FTTH",
   "description": "FIBER TO THE HOME FTTH SA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.226.64.0/24"
+    ],
     "ipv6": []
   }
 }

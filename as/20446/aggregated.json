@@ -3,9 +3,7 @@
   "handle": "STACKPATH-CDN",
   "description": "StackPath, LLC.",
   "subnets": {
-    "ipv4": [
-      "151.139.254.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }
