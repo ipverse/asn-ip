@@ -3,7 +3,9 @@
   "handle": "MULTISERVICE-COMUNICACAO-SERVICOS",
   "description": "MULTISERVICE COMUNICACAO E SERVICOS LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "189.126.39.0/24"
+    ],
     "ipv6": [
       "2804:8fe8::/32"
     ]

@@ -3,9 +3,7 @@
   "handle": "PLUTO-FIBRA",
   "description": "PLUTO FIBRA LTDA",
   "subnets": {
-    "ipv4": [
-      "168.90.190.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

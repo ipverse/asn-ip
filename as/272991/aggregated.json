@@ -4,6 +4,7 @@
   "description": "NewTek S. de R.L de C.V",
   "subnets": {
     "ipv4": [
+      "45.182.20.0/24",
       "177.10.187.0/24"
     ],
     "ipv6": [

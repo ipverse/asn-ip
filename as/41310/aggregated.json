@@ -3,7 +3,9 @@
   "handle": "IPCT",
   "description": "Komputer technology Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "89.249.48.0/24"
+    ],
     "ipv6": []
   }
 }

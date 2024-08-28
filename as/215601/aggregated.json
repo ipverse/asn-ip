@@ -3,9 +3,10 @@
   "handle": "ALLHOSTINGS",
   "description": "Innovative IT Solutions LLC",
   "subnets": {
-    "ipv4": [
-      "194.242.38.0/24"
-    ],
-    "ipv6": []
+    "ipv4": [],
+    "ipv6": [
+      "2a03:afc0:4::/48",
+      "2a03:afc0:7::/48"
+    ]
   }
 }
