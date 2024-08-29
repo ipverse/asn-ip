@@ -4,6 +4,7 @@
   "description": "Bitwise Yazilim Internet Ve Ticaret Limited Sirketi",
   "subnets": {
     "ipv4": [
+      "38.210.77.0/24",
       "109.236.48.0/24",
       "185.250.210.0/24",
       "188.132.231.0/24",

@@ -3,7 +3,9 @@
   "handle": "CNSERVER-AP",
   "description": "CNServer LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.248.48.0/23"
+    ],
     "ipv6": []
   }
 }

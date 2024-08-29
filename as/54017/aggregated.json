@@ -4,6 +4,7 @@
   "description": "UCare Minnesota",
   "subnets": {
     "ipv4": [
+      "64.22.93.0/24",
       "192.31.188.0/23"
     ],
     "ipv6": []

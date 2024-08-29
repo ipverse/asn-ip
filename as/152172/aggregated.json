@@ -3,7 +3,9 @@
   "handle": "PSALMSCABLEINC-AP",
   "description": "PSALMS CABLE, INC.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "36.50.111.0/24"
+    ],
     "ipv6": []
   }
 }

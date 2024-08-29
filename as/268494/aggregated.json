@@ -4,7 +4,8 @@
   "description": "TURBO NET TELECOMUNICAO LTDA ME",
   "subnets": {
     "ipv4": [
-      "45.162.36.0/22"
+      "45.162.36.0/23",
+      "45.162.38.0/24"
     ],
     "ipv6": [
       "2804:5218::/32"

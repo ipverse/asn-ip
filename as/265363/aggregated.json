@@ -4,7 +4,8 @@
   "description": "RV NET TELECOMUNICACOES LTDA",
   "subnets": {
     "ipv4": [
-      "168.205.48.0/22"
+      "168.205.48.0/22",
+      "192.140.96.0/22"
     ],
     "ipv6": [
       "2804:2ebc::/32"

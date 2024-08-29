@@ -3,7 +3,10 @@
   "handle": "IPNS-LAB",
   "description": "IP Networked Services Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.110.19.0/24",
+      "198.249.200.0/24"
+    ],
     "ipv6": []
   }
 }

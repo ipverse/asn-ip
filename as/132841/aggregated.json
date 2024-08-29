@@ -1,0 +1,11 @@
+{
+  "asn": 132841,
+  "handle": "CASBAY-AP",
+  "description": "Casbay Sdn. Bhd.",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2001:df5:af00::/48"
+    ]
+  }
+}

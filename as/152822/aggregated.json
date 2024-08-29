@@ -1,0 +1,11 @@
+{
+  "asn": 152822,
+  "handle": "IDNIC-BIFIMERAH-ID",
+  "description": "PT Bifimerah Network Solution",
+  "subnets": {
+    "ipv4": [
+      "160.22.196.0/23"
+    ],
+    "ipv6": []
+  }
+}
