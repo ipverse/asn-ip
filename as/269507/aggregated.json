@@ -4,9 +4,7 @@
   "description": "PRISSMA SERVICOS EM TECNOLOGIA DA INFORMACAO LTDA",
   "subnets": {
     "ipv4": [
-      "45.187.232.0/22",
-      "186.209.189.0/24",
-      "189.126.208.0/20"
+      "45.187.232.0/22"
     ],
     "ipv6": [
       "2804:65ac::/32"

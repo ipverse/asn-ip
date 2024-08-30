@@ -3,7 +3,9 @@
   "handle": "ABC-WAREHOUSE",
   "description": "ABC Warehouse",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "163.123.137.0/24"
+    ],
     "ipv6": []
   }
 }

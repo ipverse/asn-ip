@@ -3,11 +3,7 @@
   "handle": "VEEAM-US2",
   "description": "VEEAM SOFTWARE CORPORATION",
   "subnets": {
-    "ipv4": [
-      "46.231.40.0/21",
-      "199.38.192.0/24",
-      "207.177.224.0/22"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

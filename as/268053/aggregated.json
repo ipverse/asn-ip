@@ -4,7 +4,7 @@
   "description": "ONLINE PROVEDOR DE INTERNET",
   "subnets": {
     "ipv4": [
-      "45.167.60.0/22"
+      "45.167.60.0/24"
     ],
     "ipv6": []
   }

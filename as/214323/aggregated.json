@@ -3,7 +3,9 @@
   "handle": "MSH-UK",
   "description": "Marcus Hughes",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "5.83.141.0/24"
+    ],
     "ipv6": [
       "2a0a:6044:7900::/48"
     ]

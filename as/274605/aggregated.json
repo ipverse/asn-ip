@@ -1,0 +1,11 @@
+{
+  "asn": 274605,
+  "handle": "CONECT-FIBRA-TELECOM",
+  "description": "CONECT FIBRA TELECOM",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2804:90e4::/32"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asn": 153160,
+  "handle": "C2A-AP",
+  "description": "c2a internet pty ltd",
+  "subnets": {
+    "ipv4": [
+      "160.25.160.0/23"
+    ],
+    "ipv6": []
+  }
+}
