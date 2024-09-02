@@ -3,7 +3,10 @@
   "handle": "OPIN-TECHNOLOGIES",
   "description": "OPIN TECHNOLOGIES GHANA LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "102.208.5.0/24",
+      "102.208.6.0/23"
+    ],
     "ipv6": []
   }
 }

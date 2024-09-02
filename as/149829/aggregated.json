@@ -4,7 +4,6 @@
   "description": "Wide Communications",
   "subnets": {
     "ipv4": [
-      "103.21.222.0/23",
       "103.187.66.0/23"
     ],
     "ipv6": []

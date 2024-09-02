@@ -4,8 +4,6 @@
   "description": "JSMSR Network",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2602:f919::/40"
-    ]
+    "ipv6": []
   }
 }

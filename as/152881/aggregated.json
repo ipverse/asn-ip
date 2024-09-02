@@ -3,9 +3,7 @@
   "handle": "VUENOW1-AP",
   "description": "VUENOW INFRATECH LIMITED",
   "subnets": {
-    "ipv4": [
-      "103.158.80.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }
