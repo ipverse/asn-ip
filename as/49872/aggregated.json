@@ -1,11 +1,11 @@
 {
   "asn": 49872,
   "handle": "JAHANONLINE",
-  "description": "Jahan Ruye Khat",
+  "description": "Jahan Ruye Khat PJSC",
   "subnets": {
     "ipv4": [
       "109.122.192.0/20",
-      "109.122.208.0/21"
+      "109.122.223.0/24"
     ],
     "ipv6": []
   }

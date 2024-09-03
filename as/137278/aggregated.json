@@ -3,7 +3,9 @@
   "handle": "M1-AP",
   "description": "1 Touch BD Online Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.87.136.0/24"
+    ],
     "ipv6": []
   }
 }

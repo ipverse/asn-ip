@@ -1,0 +1,13 @@
+{
+  "asn": 206855,
+  "handle": "DEHOSTED",
+  "description": "NetTask GmbH",
+  "subnets": {
+    "ipv4": [
+      "185.136.24.0/22"
+    ],
+    "ipv6": [
+      "2a06:edc0::/29"
+    ]
+  }
+}

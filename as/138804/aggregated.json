@@ -3,9 +3,7 @@
   "handle": "IDNIC-SPEED-ID",
   "description": "PT Speed Network Indonesia",
   "subnets": {
-    "ipv4": [
-      "157.66.37.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

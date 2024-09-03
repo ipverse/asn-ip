@@ -1,9 +1,11 @@
 {
   "asn": 149796,
-  "handle": "RESERVED",
-  "description": "APNIC ASN block",
+  "handle": "SANGFOR-TH",
+  "description": "SANGFOR TECHNOLOGIES (THAILAND) COMPANY LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "203.209.84.0/24"
+    ],
     "ipv6": []
   }
 }
