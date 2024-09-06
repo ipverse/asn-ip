@@ -1,0 +1,11 @@
+{
+  "asn": 151656,
+  "handle": "NUGEN-AP",
+  "description": "NUGEN COMMUNICATION PVT LTD",
+  "subnets": {
+    "ipv4": [
+      "160.30.100.0/23"
+    ],
+    "ipv6": []
+  }
+}

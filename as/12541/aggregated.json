@@ -3,7 +3,9 @@
   "handle": "EBC-INNER",
   "description": "NEXTLEVEL CONNECTIVITY S.L.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "136.238.211.0/24"
+    ],
     "ipv6": [
       "2001:ac0:30fd::/48"
     ]

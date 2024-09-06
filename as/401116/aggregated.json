@@ -1,0 +1,12 @@
+{
+  "asn": 401116,
+  "handle": "NYBULA",
+  "description": "Nybula LLC",
+  "subnets": {
+    "ipv4": [
+      "85.31.47.0/24",
+      "178.215.224.0/24"
+    ],
+    "ipv6": []
+  }
+}

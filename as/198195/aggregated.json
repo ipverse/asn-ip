@@ -1,9 +1,11 @@
 {
   "asn": 198195,
-  "handle": "STARODUMOV",
-  "description": "PE Starodumov Andrei",
+  "handle": "BLIZCO",
+  "description": "Martyukhin Pavel Alexandrovitch",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.232.39.0/24"
+    ],
     "ipv6": []
   }
 }

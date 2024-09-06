@@ -1,9 +1,11 @@
 {
   "asn": 394235,
-  "handle": "CERYXCOGENT",
-  "description": "Ceryx, Inc.",
+  "handle": "MVCSKYNET",
+  "description": "Many Ventures Compute L.L.C.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.65.239.0/24"
+    ],
     "ipv6": []
   }
 }

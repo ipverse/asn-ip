@@ -1,13 +1,12 @@
 {
   "asn": 38047,
-  "handle": "ADVANCED-AP",
-  "description": "Advanced Information Company Limited",
+  "handle": "TT-1022",
+  "description": "Taiwan Telecom",
   "subnets": {
     "ipv4": [
-      "103.106.54.0/23",
+      "103.106.52.0/22",
       "103.123.100.0/22",
-      "103.133.152.0/23",
-      "103.133.154.0/24",
+      "103.133.152.0/22",
       "103.182.227.0/24",
       "103.183.79.0/24"
     ],

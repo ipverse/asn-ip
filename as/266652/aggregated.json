@@ -4,7 +4,7 @@
   "description": "CLUXTER TECNOLOGIA",
   "subnets": {
     "ipv4": [
-      "128.201.60.0/22"
+      "128.201.60.0/24"
     ],
     "ipv6": [
       "2804:3f50::/32"

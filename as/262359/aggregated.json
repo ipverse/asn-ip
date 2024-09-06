@@ -3,13 +3,7 @@
   "handle": "GOONET-TELECOMUNICACOES",
   "description": "GOONET TELECOMUNICACOES LTDA - ME",
   "subnets": {
-    "ipv4": [
-      "186.194.116.0/22",
-      "186.194.120.0/22",
-      "186.194.127.0/24"
-    ],
-    "ipv6": [
-      "2804:838::/32"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

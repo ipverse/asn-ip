@@ -1,0 +1,13 @@
+{
+  "asn": 147302,
+  "handle": "FBPL-AP",
+  "description": "FALCON BROADBAND (PRIVATE) LIMITED",
+  "subnets": {
+    "ipv4": [
+      "103.72.0.0/24",
+      "103.72.2.0/23",
+      "160.30.236.0/23"
+    ],
+    "ipv6": []
+  }
+}

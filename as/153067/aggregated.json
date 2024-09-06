@@ -1,0 +1,11 @@
+{
+  "asn": 153067,
+  "handle": "IDNIC-CELEBESMULTINET-ID",
+  "description": "PT Celebes Multi Network",
+  "subnets": {
+    "ipv4": [
+      "160.22.45.0/24"
+    ],
+    "ipv6": []
+  }
+}

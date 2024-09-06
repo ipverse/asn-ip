@@ -3,7 +3,9 @@
   "handle": "ACTIVEMALL",
   "description": "ACTIVEMALL SRL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.135.224.0/24"
+    ],
     "ipv6": []
   }
 }

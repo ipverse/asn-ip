@@ -3,9 +3,7 @@
   "handle": "ION-TELECOMUNICACOES",
   "description": "ION TELECOMUNICACOES LTDA",
   "subnets": {
-    "ipv4": [
-      "38.191.188.0/23"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2804:89ac::/32"
     ]

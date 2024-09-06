@@ -3,9 +3,7 @@
   "handle": "BBI-AP",
   "description": "Broadband Business Ideas (PVT.) Limited",
   "subnets": {
-    "ipv4": [
-      "103.120.119.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

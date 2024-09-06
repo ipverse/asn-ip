@@ -4,6 +4,7 @@
   "description": "The Procter and Gamble Company",
   "subnets": {
     "ipv4": [
+      "103.145.94.0/23",
       "131.190.0.0/16",
       "137.176.0.0/13",
       "137.185.0.0/16",

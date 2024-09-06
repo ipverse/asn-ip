@@ -4,6 +4,7 @@
   "description": "RURALNET BRASIL",
   "subnets": {
     "ipv4": [
+      "38.183.94.0/24",
       "45.190.112.0/22"
     ],
     "ipv6": [

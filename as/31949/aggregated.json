@@ -1,0 +1,13 @@
+{
+  "asn": 31949,
+  "handle": "POD01",
+  "description": "Gibson IT Solutions",
+  "subnets": {
+    "ipv4": [
+      "23.184.216.0/24"
+    ],
+    "ipv6": [
+      "2602:f868::/36"
+    ]
+  }
+}

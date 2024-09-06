@@ -3,7 +3,9 @@
   "handle": "DSCP1",
   "description": "Data Sciences Corporation Pty Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.224.184.0/23"
+    ],
     "ipv6": []
   }
 }

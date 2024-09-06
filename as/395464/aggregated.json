@@ -3,7 +3,10 @@
   "handle": "BEREAC",
   "description": "Berea College",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "71.31.30.0/24",
+      "192.68.112.0/24"
+    ],
     "ipv6": []
   }
 }

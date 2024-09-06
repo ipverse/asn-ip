@@ -3,7 +3,9 @@
   "handle": "IDNIC-METAMEDIA-ID",
   "description": "Universitas Metamedia",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "157.20.245.0/24"
+    ],
     "ipv6": []
   }
 }

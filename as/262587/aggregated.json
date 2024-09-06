@@ -4,6 +4,7 @@
   "description": "CST - Cerentini Solues em Tecnologia",
   "subnets": {
     "ipv4": [
+      "45.238.136.0/22",
       "143.255.184.0/22",
       "177.84.144.0/21"
     ],
