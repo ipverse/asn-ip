@@ -3,11 +3,7 @@
   "handle": "NETRIDGE-LLC",
   "description": "NetRidge LLC",
   "subnets": {
-    "ipv4": [
-      "193.194.17.0/24",
-      "193.194.18.0/24",
-      "193.194.20.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

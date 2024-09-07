@@ -3,9 +3,7 @@
   "handle": "CAPE-01",
   "description": "Private Tech Inc.",
   "subnets": {
-    "ipv4": [
-      "23.173.24.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

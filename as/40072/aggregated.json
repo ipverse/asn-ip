@@ -1,0 +1,11 @@
+{
+  "asn": 40072,
+  "handle": "TCSG",
+  "description": "Technical College System of Georgia",
+  "subnets": {
+    "ipv4": [
+      "72.162.1.0/24"
+    ],
+    "ipv6": []
+  }
+}

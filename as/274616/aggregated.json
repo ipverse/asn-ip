@@ -1,0 +1,11 @@
+{
+  "asn": 274616,
+  "handle": "DEEP-CONNECT-TELECOM",
+  "description": "DEEP CONNECT TELECOM LTDA",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2804:9110::/32"
+    ]
+  }
+}

@@ -4,6 +4,7 @@
   "description": "Athens International Airport SA",
   "subnets": {
     "ipv4": [
+      "31.193.104.0/22",
       "185.16.164.0/22"
     ],
     "ipv6": [
