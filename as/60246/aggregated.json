@@ -1,0 +1,11 @@
+{
+  "asn": 60246,
+  "handle": "PG-19",
+  "description": "Consumer Internet Cooperative PG-19",
+  "subnets": {
+    "ipv4": [
+      "85.198.120.0/24"
+    ],
+    "ipv6": []
+  }
+}

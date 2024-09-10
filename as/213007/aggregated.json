@@ -3,7 +3,9 @@
   "handle": "PUGET-SOUND-NETWORKS-LAB",
   "description": "Puget Sound Networks, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "158.51.106.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -4,8 +4,6 @@
   "description": "TaoNet",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2602:f8ab:4::/48"
-    ]
+    "ipv6": []
   }
 }

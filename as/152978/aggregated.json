@@ -1,0 +1,13 @@
+{
+  "asn": 152978,
+  "handle": "PHBTECH-VN",
+  "description": "PHB Digital Technology Solutions Company Limited",
+  "subnets": {
+    "ipv4": [
+      "160.30.158.0/23"
+    ],
+    "ipv6": [
+      "2001:df4:2e40::/48"
+    ]
+  }
+}

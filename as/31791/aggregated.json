@@ -4,7 +4,7 @@
   "description": "Region 16 Education Service Center",
   "subnets": {
     "ipv4": [
-      "69.62.0.0/17"
+      "69.62.0.0/18"
     ],
     "ipv6": [
       "2606:4b40::/32"

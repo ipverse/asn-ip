@@ -3,7 +3,10 @@
   "handle": "STARLINKCOUNTRY",
   "description": "Starlink Country LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.146.40.0/24",
+      "185.191.143.0/24"
+    ],
     "ipv6": []
   }
 }

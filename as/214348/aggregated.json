@@ -1,0 +1,11 @@
+{
+  "asn": 214348,
+  "handle": "SECURITY-CODE",
+  "description": "Kod Bezopasnosti LLC",
+  "subnets": {
+    "ipv4": [
+      "93.177.106.0/24"
+    ],
+    "ipv6": []
+  }
+}
