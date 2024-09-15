@@ -3,7 +3,9 @@
   "handle": "SHETUETECH-AP",
   "description": "Shetue Tech",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "160.22.104.0/23"
+    ],
     "ipv6": []
   }
 }

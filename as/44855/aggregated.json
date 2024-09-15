@@ -3,7 +3,9 @@
   "handle": "MICROGEN",
   "description": "Aptitude Software (Poland) Sp. z o.o.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.66.98.0/24"
+    ],
     "ipv6": []
   }
 }

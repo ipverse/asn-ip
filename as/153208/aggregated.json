@@ -1,0 +1,13 @@
+{
+  "asn": 153208,
+  "handle": "NBNL-IN",
+  "description": "NV BROADBAND NETWORKS PRIVATE LIMITED",
+  "subnets": {
+    "ipv4": [
+      "160.187.42.0/23"
+    ],
+    "ipv6": [
+      "2401:c260::/32"
+    ]
+  }
+}

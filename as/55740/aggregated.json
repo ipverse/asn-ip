@@ -4,7 +4,8 @@
   "description": "TTSL-ISP DIVISION",
   "subnets": {
     "ipv4": [
-      "14.195.79.0/24"
+      "14.195.79.0/24",
+      "14.195.91.0/24"
     ],
     "ipv6": []
   }

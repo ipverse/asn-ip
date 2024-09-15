@@ -1,7 +1,7 @@
 {
   "asn": 53062,
-  "handle": "GGNET-TELECOM-BACKBONE",
-  "description": "GGNET TELECOM BACKBONE",
+  "handle": "ALT|GGNET-TELECOM-BACKBONE",
+  "description": "ALT|GGNET TELECOM BACKBONE",
   "subnets": {
     "ipv4": [
       "45.7.128.0/22",

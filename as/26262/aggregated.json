@@ -1,9 +1,11 @@
 {
   "asn": 26262,
-  "handle": "WILMER01",
-  "description": "Snell \u0026 Wilmer",
+  "handle": "RWIFI-AS01",
+  "description": "Circle City Internet",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "23.189.184.0/24"
+    ],
     "ipv6": []
   }
 }
