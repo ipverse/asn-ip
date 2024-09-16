@@ -4,7 +4,8 @@
   "description": "PINETW IT SOLUTIONS (OPC) PRIVATE LIMITED",
   "subnets": {
     "ipv4": [
-      "5.83.138.0/24"
+      "5.83.138.0/24",
+      "5.83.153.0/24"
     ],
     "ipv6": []
   }

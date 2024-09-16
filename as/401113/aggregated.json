@@ -1,0 +1,11 @@
+{
+  "asn": 401113,
+  "handle": "SCH-TEST",
+  "description": "Snakecraft Hosting",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2602:f964:2::/48"
+    ]
+  }
+}

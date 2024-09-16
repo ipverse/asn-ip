@@ -3,7 +3,9 @@
   "handle": "MELTUS-NETWORKS-AP",
   "description": "Meltus Networks",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "44.136.59.0/24"
+    ],
     "ipv6": []
   }
 }

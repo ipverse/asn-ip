@@ -3,7 +3,11 @@
   "handle": "IHNET",
   "description": "Ivo Hazmuk",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "185.135.20.0/24"
+    ],
+    "ipv6": [
+      "2a06:f080::/32"
+    ]
   }
 }

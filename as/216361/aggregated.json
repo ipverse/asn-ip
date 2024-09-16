@@ -3,7 +3,11 @@
   "handle": "NIN",
   "description": "Next Internet Network Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.139.9.0/24",
+      "185.217.39.0/24",
+      "194.36.173.0/24"
+    ],
     "ipv6": []
   }
 }

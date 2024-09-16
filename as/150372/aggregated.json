@@ -3,7 +3,9 @@
   "handle": "WRSPEEDONLINE-AP",
   "description": "WR SPEED ONLINE",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.19.122.0/23"
+    ],
     "ipv6": []
   }
 }
