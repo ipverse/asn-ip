@@ -3,7 +3,9 @@
   "handle": "LIGHTCHANGE",
   "description": "LightChange Technologies",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "104.128.177.0/24"
+    ],
     "ipv6": []
   }
 }

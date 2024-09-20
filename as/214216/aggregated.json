@@ -1,0 +1,13 @@
+{
+  "asn": 214216,
+  "handle": "NSTLABS",
+  "description": "HONG KONG NST LABS TECH CO., LIMITED",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a10:3140::/29",
+      "2a10:32c0::/29",
+      "2a10:5400::/29"
+    ]
+  }
+}

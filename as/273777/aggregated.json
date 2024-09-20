@@ -1,11 +1,9 @@
 {
   "asn": 273777,
-  "handle": "BRUNO-SANCHES-CARVALHO",
-  "description": "Bruno Sanches Carvalho",
+  "handle": "BC-NET",
+  "description": "BC Net",
   "subnets": {
-    "ipv4": [
-      "149.78.14.0/24"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2804:8c10::/32"
     ]

@@ -1,0 +1,11 @@
+{
+  "asn": 396500,
+  "handle": "MINAKILABS-AS01",
+  "description": "MinakiLabs",
+  "subnets": {
+    "ipv4": [
+      "23.187.152.0/24"
+    ],
+    "ipv6": []
+  }
+}

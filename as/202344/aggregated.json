@@ -4,10 +4,11 @@
   "description": "LLC Basalt Svobodnoe Programnoe Obespechenie",
   "subnets": {
     "ipv4": [
-      "193.43.10.0/23"
+      "193.43.9.0/24",
+      "193.43.11.0/24"
     ],
     "ipv6": [
-      "2a0c:88c0::/47",
+      "2a0c:88c0::/48",
       "2a0c:88c0:2::/48"
     ]
   }

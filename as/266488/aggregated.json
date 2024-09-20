@@ -4,7 +4,8 @@
   "description": "Fatima Aparecida de Almeida - ME",
   "subnets": {
     "ipv4": [
-      "170.244.4.0/22"
+      "170.244.5.0/24",
+      "170.244.6.0/23"
     ],
     "ipv6": []
   }

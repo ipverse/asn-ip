@@ -1,0 +1,11 @@
+{
+  "asn": 214943,
+  "handle": "RAILNET",
+  "description": "Railnet LLC",
+  "subnets": {
+    "ipv4": [
+      "193.168.200.0/24"
+    ],
+    "ipv6": []
+  }
+}

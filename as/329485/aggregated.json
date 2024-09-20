@@ -1,0 +1,11 @@
+{
+  "asn": 329485,
+  "handle": "BRIDGE-FIBER",
+  "description": "Bridge Fiber Solutions",
+  "subnets": {
+    "ipv4": [
+      "102.207.224.0/22"
+    ],
+    "ipv6": []
+  }
+}

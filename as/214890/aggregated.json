@@ -1,0 +1,13 @@
+{
+  "asn": 214890,
+  "handle": "IDSYS2",
+  "description": "InterData Systems SRL",
+  "subnets": {
+    "ipv4": [
+      "185.115.28.0/22"
+    ],
+    "ipv6": [
+      "2001:67c:640::/48"
+    ]
+  }
+}

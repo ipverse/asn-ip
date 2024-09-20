@@ -3,7 +3,9 @@
   "handle": "EUROCREDITBANK",
   "description": "BC EuroCreditBank SA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.216.166.0/24"
+    ],
     "ipv6": []
   }
 }

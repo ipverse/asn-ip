@@ -3,7 +3,10 @@
   "handle": "OVERTURN-BAVARIA",
   "description": "overturn technologies GmbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "80.89.68.0/22",
+      "178.255.23.0/24"
+    ],
     "ipv6": []
   }
 }

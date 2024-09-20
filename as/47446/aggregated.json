@@ -4,7 +4,8 @@
   "description": "Barclays Bank lreland PLC",
   "subnets": {
     "ipv4": [
-      "93.93.0.0/24"
+      "93.93.0.0/24",
+      "93.93.4.0/23"
     ],
     "ipv6": []
   }

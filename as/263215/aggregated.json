@@ -3,7 +3,9 @@
   "handle": "WNET-S-A",
   "description": "WNET, S. A.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "191.98.196.0/22"
+    ],
     "ipv6": []
   }
 }

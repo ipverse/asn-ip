@@ -1,9 +1,11 @@
 {
   "asn": 40205,
-  "handle": "UNION-MUTUAL-OF-VERMONT-COMPANIES",
-  "description": "Union Mutual of Vermont Companies",
+  "handle": "PRISMA-ASN-1",
+  "description": "PRISMA HOLDINGS, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "23.189.216.0/24"
+    ],
     "ipv6": []
   }
 }

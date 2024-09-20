@@ -3,7 +3,9 @@
   "handle": "MOEDOVE",
   "description": "MoeDove LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "23.149.120.0/24"
+    ],
     "ipv6": [
       "2602:f9f6::/40",
       "2602:f9f6:e00::/39",
