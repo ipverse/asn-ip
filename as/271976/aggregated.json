@@ -3,7 +3,9 @@
   "handle": "WORLDS-TV",
   "description": "WORLDS TV SAC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.252.215.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -4,7 +4,8 @@
   "description": "SZABO \u0026 BUHNEMANN LTDA -ME",
   "subnets": {
     "ipv4": [
-      "181.189.52.0/22"
+      "181.189.52.0/23",
+      "181.189.54.0/24"
     ],
     "ipv6": []
   }

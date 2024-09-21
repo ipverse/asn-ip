@@ -4,8 +4,7 @@
   "description": "Safety Integrated Systems Ltd",
   "subnets": {
     "ipv4": [
-      "176.208.94.0/24",
-      "193.232.199.0/24"
+      "193.232.198.0/23"
     ],
     "ipv6": []
   }

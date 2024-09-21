@@ -1,0 +1,11 @@
+{
+  "asn": 153070,
+  "handle": "IDNIC-MAINWIFI-ID",
+  "description": "PT Karangmukti Global Netmedia",
+  "subnets": {
+    "ipv4": [
+      "160.22.200.0/23"
+    ],
+    "ipv6": []
+  }
+}

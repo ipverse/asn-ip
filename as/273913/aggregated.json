@@ -1,0 +1,13 @@
+{
+  "asn": 273913,
+  "handle": "CONEXIN-DIRECTA-TELECOM",
+  "description": "CONEXIN DIRECTA TELECOM S.A.C.",
+  "subnets": {
+    "ipv4": [
+      "38.210.104.0/22"
+    ],
+    "ipv6": [
+      "2803:eb50::/32"
+    ]
+  }
+}

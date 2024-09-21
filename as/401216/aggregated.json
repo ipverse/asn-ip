@@ -1,0 +1,13 @@
+{
+  "asn": 401216,
+  "handle": "ATSS-CIX-01",
+  "description": "Astro-Tech",
+  "subnets": {
+    "ipv4": [
+      "38.224.250.0/24"
+    ],
+    "ipv6": [
+      "2602:f885::/36"
+    ]
+  }
+}

@@ -4,7 +4,7 @@
   "description": "LLC Wildberries",
   "subnets": {
     "ipv4": [
-      "90.156.244.0/22"
+      "90.156.244.0/24"
     ],
     "ipv6": []
   }
