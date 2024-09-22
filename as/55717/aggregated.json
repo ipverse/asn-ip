@@ -3,7 +3,9 @@
   "handle": "HOSTONDEMAND-IN",
   "description": "70, KLJ Complex,",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "202.52.153.0/24"
+    ],
     "ipv6": []
   }
 }

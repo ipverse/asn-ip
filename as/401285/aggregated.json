@@ -1,0 +1,11 @@
+{
+  "asn": 401285,
+  "handle": "MICHIGANVIRTUAL",
+  "description": "MICHIGAN VIRTUAL",
+  "subnets": {
+    "ipv4": [
+      "209.182.222.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -3,7 +3,11 @@
   "handle": "RAY-AP",
   "description": "Ray White (Real Estate) Pty Ltd",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "103.248.128.0/22"
+    ],
+    "ipv6": [
+      "2403:5f40:1::/48"
+    ]
   }
 }

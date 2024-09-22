@@ -4,7 +4,8 @@
   "description": "PT KB Valbury Sekuritas",
   "subnets": {
     "ipv4": [
-      "103.23.28.0/24"
+      "103.23.28.0/24",
+      "160.187.64.0/24"
     ],
     "ipv6": []
   }

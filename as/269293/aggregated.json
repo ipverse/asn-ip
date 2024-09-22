@@ -3,7 +3,11 @@
   "handle": "GOLDFIBRA-TELECOMUNICAOES",
   "description": "Goldfibra Telecomunicaoes ltda.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.183.228.0/22"
+    ],
+    "ipv6": [
+      "2804:6260::/32"
+    ]
   }
 }

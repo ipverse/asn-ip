@@ -1,0 +1,11 @@
+{
+  "asn": 13527,
+  "handle": "GOOFL-TESTBED",
+  "description": "Gooflare LLC",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2602:f83d::/44"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asn": 214916,
+  "handle": "IPV6-CLOUD",
+  "description": "iPv6-Cloud LTD",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a07:2486:e000::/36"
+    ]
+  }
+}

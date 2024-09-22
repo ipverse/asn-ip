@@ -1,10 +1,11 @@
 {
   "asn": 214976,
-  "handle": "APIVERSA",
+  "handle": "NAT64-BY-APIVERSA",
   "description": "API VERSA OU",
   "subnets": {
     "ipv4": [],
     "ipv6": [
+      "2a0a:79c7:f500::/40",
       "2a0a:79c7:f600::/40",
       "2a0a:79c7:f801::/48",
       "2a0a:79c7:f802::/48"

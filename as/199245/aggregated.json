@@ -1,0 +1,13 @@
+{
+  "asn": 199245,
+  "handle": "PWCLU",
+  "description": "PricewaterhouseCoopers Societe cooperative",
+  "subnets": {
+    "ipv4": [
+      "195.85.44.0/24"
+    ],
+    "ipv6": [
+      "2a12:b940::/29"
+    ]
+  }
+}
