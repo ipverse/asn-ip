@@ -4,8 +4,6 @@
   "description": "Brasil Banda Larga",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2804:7898:4002::/48"
-    ]
+    "ipv6": []
   }
 }

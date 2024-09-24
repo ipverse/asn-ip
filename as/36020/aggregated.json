@@ -1,9 +1,11 @@
 {
   "asn": 36020,
-  "handle": "SECDES",
-  "description": "Secure Designs, Inc.",
+  "handle": "WEATHER-COMPANY",
+  "description": "The Weather Company",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "96.8.92.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,9 +3,7 @@
   "handle": "INGRESS-AUDIO-01",
   "description": "Ingress Audio, LLC",
   "subnets": {
-    "ipv4": [
-      "157.254.50.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

@@ -1,0 +1,12 @@
+{
+  "asn": 42247,
+  "handle": "WESCOM",
+  "description": "WesCom LLC",
+  "subnets": {
+    "ipv4": [
+      "85.115.232.0/23",
+      "193.33.10.0/23"
+    ],
+    "ipv6": []
+  }
+}

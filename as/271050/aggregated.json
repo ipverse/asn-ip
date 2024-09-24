@@ -4,6 +4,7 @@
   "description": "LINK INTERNET FIBRA OTICA",
   "subnets": {
     "ipv4": [
+      "187.84.117.0/24",
       "187.84.119.0/24"
     ],
     "ipv6": []

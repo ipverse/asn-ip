@@ -4,6 +4,11 @@
   "description": "KLAB NETWORKS LLC",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2602:f7ff::/47",
+      "2602:f7ff:53::/48",
+      "2602:f7ff:80::/48",
+      "2a0b:4e07:e6e::/48"
+    ]
   }
 }

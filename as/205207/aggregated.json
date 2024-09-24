@@ -3,7 +3,9 @@
   "handle": "ABRENIK-CLOUD",
   "description": "Respina Networks \u0026 Beyond PJSC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "77.104.92.0/24"
+    ],
     "ipv6": []
   }
 }

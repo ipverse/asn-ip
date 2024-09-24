@@ -3,7 +3,9 @@
   "handle": "LUIGI-LABATE",
   "description": "Luigi Labate",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.56.224.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -1,9 +1,11 @@
 {
   "asn": 60614,
-  "handle": "STEVEYI-NETWORK",
-  "description": "Tsung-Yi Yu",
+  "handle": "OWO-NETWORK",
+  "description": "OwO Network, LLC",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a14:7581:9d00::/40"
+    ]
   }
 }
