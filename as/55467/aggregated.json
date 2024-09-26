@@ -3,7 +3,9 @@
   "handle": "ICEMEDIA-AP",
   "description": "Ice Media PTY LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "203.27.127.0/24"
+    ],
     "ipv6": []
   }
 }

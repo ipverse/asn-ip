@@ -1,0 +1,13 @@
+{
+  "asn": 131750,
+  "handle": "SUFIANET-ID",
+  "description": "PT Gisindo Inti Solusi",
+  "subnets": {
+    "ipv4": [
+      "103.12.220.0/22",
+      "103.105.240.0/22",
+      "202.46.96.0/20"
+    ],
+    "ipv6": []
+  }
+}

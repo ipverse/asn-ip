@@ -3,7 +3,9 @@
   "handle": "IDNIC-MDM-ID",
   "description": "PT Marta Dwi Manunggal",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "160.22.128.0/23"
+    ],
     "ipv6": []
   }
 }

@@ -1,9 +1,11 @@
 {
   "asn": 138306,
-  "handle": "NIXI",
-  "description": "NIXI",
+  "handle": "IDBICAPS-IN",
+  "description": "IDBI CAPITAL MARKETS AND SECURITIES LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.137.151.0/24"
+    ],
     "ipv6": []
   }
 }

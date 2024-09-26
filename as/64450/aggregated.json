@@ -1,9 +1,11 @@
 {
   "asn": 64450,
-  "handle": "RESERVED",
-  "description": "RIPE NCC ASN block",
+  "handle": "YADRO",
+  "description": "YADRO LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.3.219.0/24"
+    ],
     "ipv6": []
   }
 }

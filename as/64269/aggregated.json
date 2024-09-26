@@ -3,7 +3,11 @@
   "handle": "NSOFNETWORKSINC",
   "description": "Meta Networks Inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "208.56.25.0/24",
+      "208.56.27.0/24",
+      "208.56.28.0/22"
+    ],
     "ipv6": []
   }
 }

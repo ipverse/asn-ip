@@ -3,7 +3,9 @@
   "handle": "SWIFTNODE-LLC",
   "description": "Swiftnode LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "216.114.75.0/24"
+    ],
     "ipv6": []
   }
 }

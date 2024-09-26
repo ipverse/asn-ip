@@ -1,0 +1,11 @@
+{
+  "asn": 153116,
+  "handle": "IDNIC-MSKNET-ID",
+  "description": "PT Mirzuno Solusi Komunikasi",
+  "subnets": {
+    "ipv4": [
+      "160.25.200.0/24"
+    ],
+    "ipv6": []
+  }
+}

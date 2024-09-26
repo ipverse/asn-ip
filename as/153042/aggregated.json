@@ -1,0 +1,11 @@
+{
+  "asn": 153042,
+  "handle": "BEGPL-AP",
+  "description": "Binary Evolution",
+  "subnets": {
+    "ipv4": [
+      "160.25.18.0/24"
+    ],
+    "ipv6": []
+  }
+}

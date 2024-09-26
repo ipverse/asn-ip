@@ -3,7 +3,9 @@
   "handle": "TIZU",
   "description": "Tim Zuidema trading as TiZu",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "213.132.221.0/24"
+    ],
     "ipv6": [
       "2001:678:e20::/48"
     ]

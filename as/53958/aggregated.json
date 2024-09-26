@@ -1,9 +1,11 @@
 {
   "asn": 53958,
-  "handle": "ZT-SYSTEMS-GROUP",
-  "description": "ZT Group International, Inc",
+  "handle": "BART-BM",
+  "description": "AUPROXIES LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "139.171.194.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "PROQUEST-UK",
   "description": "Proquest Information and Learning Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.22.150.0/23"
+    ],
     "ipv6": []
   }
 }

@@ -3,9 +3,7 @@
   "handle": "MAINT-AU-SPEEDCASTAUSTRALIA",
   "description": "SPEEDCAST AUSTRALIA PTY LIMITED",
   "subnets": {
-    "ipv4": [
-      "203.110.203.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

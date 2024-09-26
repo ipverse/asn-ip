@@ -3,7 +3,9 @@
   "handle": "COMBO-BRASIL-INFORMATICA",
   "description": "COMBO BRASIL INFORMATICA LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "179.42.32.0/22"
+    ],
     "ipv6": [
       "2804:76a4::/32"
     ]

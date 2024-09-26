@@ -1,0 +1,12 @@
+{
+  "asn": 31520,
+  "handle": "DATAGROUP-RETAIL",
+  "description": "PRIVATE JOINT STOCK COMPANY DATAGROUP",
+  "subnets": {
+    "ipv4": [
+      "176.241.148.0/22",
+      "188.247.116.0/24"
+    ],
+    "ipv6": []
+  }
+}

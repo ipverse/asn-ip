@@ -4,6 +4,7 @@
   "description": "North State Telephone, LLC",
   "subnets": {
     "ipv4": [
+      "64.70.128.0/19",
       "64.181.80.0/20",
       "66.110.224.0/19",
       "68.67.240.0/20",
