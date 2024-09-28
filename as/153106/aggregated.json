@@ -3,7 +3,9 @@
   "handle": "IDNIC-NTI-LINK-ID",
   "description": "PT Nextmedia Teknologi Indonesia",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "160.25.229.0/24"
+    ],
     "ipv6": []
   }
 }

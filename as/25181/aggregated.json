@@ -4,6 +4,7 @@
   "description": "Sony Europe B.V.",
   "subnets": {
     "ipv4": [
+      "195.2.36.0/22",
       "195.2.41.0/24"
     ],
     "ipv6": [

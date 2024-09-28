@@ -3,7 +3,9 @@
   "handle": "LAYER7-NETWORKS-DE",
   "description": "Layer7 Networks GmbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.24.208.0/22"
+    ],
     "ipv6": [
       "2a12:5e41::/32"
     ]

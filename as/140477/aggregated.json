@@ -3,7 +3,9 @@
   "handle": "IDNIC-ZNET-ID",
   "description": "PT Zigma Teknologi Indonesia",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "157.66.0.0/23"
+    ],
     "ipv6": []
   }
 }

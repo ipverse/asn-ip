@@ -1,9 +1,11 @@
 {
   "asn": 58612,
-  "handle": "DIVERSE-AP",
-  "description": "DIVERSE SERVICES (WA) PTY LTD",
+  "handle": "INTERKVM",
+  "description": "INTERKVM HOST SRL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.8.176.0/24"
+    ],
     "ipv6": []
   }
 }

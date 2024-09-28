@@ -3,11 +3,7 @@
   "handle": "DVPL-IN",
   "description": "D-atum Vilcom Pvt Ltd",
   "subnets": {
-    "ipv4": [
-      "103.126.42.0/24"
-    ],
-    "ipv6": [
-      "2400:f1e0::/32"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "REAL",
   "description": "OCTALION INC.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "67.107.201.0/24"
+    ],
     "ipv6": []
   }
 }

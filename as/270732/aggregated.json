@@ -3,11 +3,7 @@
   "handle": "TI8-TECNOLOGIA-INOVACAO",
   "description": "TI8 TECNOLOGIA E INOVACAO LTDA",
   "subnets": {
-    "ipv4": [
-      "189.8.120.0/22"
-    ],
-    "ipv6": [
-      "2804:7088::/32"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

@@ -1,13 +1,14 @@
 {
   "asn": 135357,
-  "handle": "SKHT",
-  "description": "Shenzhen Katherine Heng Technology Information Co., Ltd.",
+  "handle": "PCCW22-HK",
+  "description": "HONG KONG KOWLOON TELECOMMUNICATIONS CO.,LIMITED",
   "subnets": {
     "ipv4": [
       "38.181.128.0/17",
       "38.249.0.0/16",
       "43.240.144.0/22",
       "45.207.128.0/19",
+      "45.207.160.0/21",
       "45.207.176.0/20",
       "103.17.116.0/22",
       "103.20.192.0/22",

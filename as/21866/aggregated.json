@@ -3,9 +3,7 @@
   "handle": "GOTO-OFFICES",
   "description": "Goto Group, Inc.",
   "subnets": {
-    "ipv4": [
-      "202.173.25.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "MTATCL-AP",
   "description": "MASCOTS TECHNOLOGIES AND TELECOMMUNICATION COMPANY LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "160.30.212.0/23"
+    ],
     "ipv6": []
   }
 }

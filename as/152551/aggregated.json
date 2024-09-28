@@ -3,9 +3,7 @@
   "handle": "SHLOK1-IN",
   "description": "KN SHLOKNET PRIVATE LIMITED",
   "subnets": {
-    "ipv4": [
-      "160.22.116.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

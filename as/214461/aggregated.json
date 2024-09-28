@@ -3,7 +3,9 @@
   "handle": "CLOUDPARD",
   "description": "Cloudpard LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "62.113.59.0/24"
+    ],
     "ipv6": []
   }
 }

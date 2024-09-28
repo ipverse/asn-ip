@@ -1,0 +1,11 @@
+{
+  "asn": 17333,
+  "handle": "COLLEGE-OF-SAINT-MARY",
+  "description": "College of Saint Mary",
+  "subnets": {
+    "ipv4": [
+      "192.203.211.0/24"
+    ],
+    "ipv6": []
+  }
+}

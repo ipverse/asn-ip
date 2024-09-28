@@ -4,7 +4,6 @@
   "description": "SECRETARIA DE ESTADO EN EL DESPACHO DE FINANZAS",
   "subnets": {
     "ipv4": [
-      "191.36.240.0/20",
       "192.100.171.0/24"
     ],
     "ipv6": []

@@ -1,0 +1,12 @@
+{
+  "asn": 273917,
+  "handle": "2-LIGHTS-CONEXIN",
+  "description": "2 LIGHTS CONEXIN, S.R.L.",
+  "subnets": {
+    "ipv4": [
+      "38.83.55.0/24",
+      "38.83.56.0/24"
+    ],
+    "ipv6": []
+  }
+}
