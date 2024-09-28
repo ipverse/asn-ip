@@ -4,7 +4,7 @@
   "description": "Antaree Solutions plus s.r.o",
   "subnets": {
     "ipv4": [
-      "91.229.36.0/24"
+      "91.229.36.0/22"
     ],
     "ipv6": [
       "2001:67c:cf0::/48",

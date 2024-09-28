@@ -3,7 +3,10 @@
   "handle": "APOG-EHC",
   "description": "Apogee Telecom Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.157.0.0/24",
+      "204.137.243.0/24"
+    ],
     "ipv6": []
   }
 }

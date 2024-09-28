@@ -3,9 +3,7 @@
   "handle": "AMOL-IN",
   "description": "ADS Royalnet Communication Pvt Ltd",
   "subnets": {
-    "ipv4": [
-      "103.170.216.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

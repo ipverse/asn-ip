@@ -1,0 +1,11 @@
+{
+  "asn": 153346,
+  "handle": "HAWKNET-AP",
+  "description": "HawkNet Labs Pty Ltd",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2001:df4:514f::/48"
+    ]
+  }
+}

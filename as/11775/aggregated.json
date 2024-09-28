@@ -4,6 +4,7 @@
   "description": "Semina Tempus, LLC",
   "subnets": {
     "ipv4": [
+      "23.164.104.0/24",
       "38.79.75.0/24",
       "192.149.39.0/24"
     ],
