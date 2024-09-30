@@ -4,6 +4,7 @@
   "description": "Securebit AG",
   "subnets": {
     "ipv4": [
+      "85.202.203.0/24",
       "111.92.128.0/19"
     ],
     "ipv6": [

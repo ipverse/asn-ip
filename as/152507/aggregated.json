@@ -3,7 +3,9 @@
   "handle": "INTERPOL-IN",
   "description": "INTERPOLE TECHNOLOGIES PVT LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "160.22.226.0/23"
+    ],
     "ipv6": []
   }
 }

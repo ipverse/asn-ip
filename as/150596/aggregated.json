@@ -4,7 +4,6 @@
   "description": "Mynext Broadband Services Pvt Ltd",
   "subnets": {
     "ipv4": [
-      "103.38.200.0/24",
       "103.110.180.0/23"
     ],
     "ipv6": [

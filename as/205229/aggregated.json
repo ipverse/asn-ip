@@ -3,7 +3,11 @@
   "handle": "WIRELESS-CLIENT",
   "description": "Rahnamoun Rayaneh Ertebatat Company (Ltd.)",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "185.224.176.0/22"
+    ],
+    "ipv6": [
+      "2a14:3900::/29"
+    ]
   }
 }

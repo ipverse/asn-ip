@@ -1,0 +1,11 @@
+{
+  "asn": 43358,
+  "handle": "MCCI",
+  "description": "Mobile Communication Company of Iran PLC",
+  "subnets": {
+    "ipv4": [
+      "62.102.140.0/22"
+    ],
+    "ipv6": []
+  }
+}

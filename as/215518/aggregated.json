@@ -1,0 +1,11 @@
+{
+  "asn": 215518,
+  "handle": "DCONE-INFRA",
+  "description": "Datacenter One GmbH",
+  "subnets": {
+    "ipv4": [
+      "45.151.94.0/24"
+    ],
+    "ipv6": []
+  }
+}

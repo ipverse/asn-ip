@@ -1,0 +1,11 @@
+{
+  "asn": 394608,
+  "handle": "KEXP-NAME",
+  "description": "KEXP",
+  "subnets": {
+    "ipv4": [
+      "202.27.250.0/24"
+    ],
+    "ipv6": []
+  }
+}

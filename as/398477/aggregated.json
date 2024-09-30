@@ -3,7 +3,9 @@
   "handle": "VELO-VELVET-ASN-01",
   "description": "Velo IT Group",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "139.64.207.0/24"
+    ],
     "ipv6": []
   }
 }

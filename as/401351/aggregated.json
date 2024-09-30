@@ -1,0 +1,11 @@
+{
+  "asn": 401351,
+  "handle": "DEVZERO",
+  "description": "DevZero",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2602:f7f7::/48"
+    ]
+  }
+}

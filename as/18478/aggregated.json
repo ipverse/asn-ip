@@ -4,8 +4,7 @@
   "description": "Mednax Services, Inc.",
   "subnets": {
     "ipv4": [
-      "205.196.24.0/24",
-      "205.196.27.0/24"
+      "205.196.24.0/22"
     ],
     "ipv6": []
   }

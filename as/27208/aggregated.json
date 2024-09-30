@@ -1,9 +1,11 @@
 {
   "asn": 27208,
-  "handle": "RSRCORP",
-  "description": "RSR Corporation",
+  "handle": "DISCOVERY-ENERGY-LLC-01",
+  "description": "Discovery Energy, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.235.104.0/24"
+    ],
     "ipv6": []
   }
 }

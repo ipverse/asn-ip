@@ -3,9 +3,7 @@
   "handle": "FASTETHERNET",
   "description": "Jan-Philipp Benecke",
   "subnets": {
-    "ipv4": [
-      "185.120.22.0/24"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2001:67c:16c8::/48"
     ]

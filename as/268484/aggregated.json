@@ -3,7 +3,11 @@
   "handle": "AIRNET-INTERNET-TELECOM",
   "description": "AIRNET INTERNET TELECOM",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.161.247.0/24"
+    ],
+    "ipv6": [
+      "2804:51e8:200::/39"
+    ]
   }
 }

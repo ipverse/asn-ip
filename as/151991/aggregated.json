@@ -1,0 +1,11 @@
+{
+  "asn": 151991,
+  "handle": "IDNIC-SWN-ID",
+  "description": "PT SWIN",
+  "subnets": {
+    "ipv4": [
+      "203.111.254.0/23"
+    ],
+    "ipv6": []
+  }
+}

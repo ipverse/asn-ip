@@ -1,0 +1,13 @@
+{
+  "asn": 61618,
+  "handle": "VIVA-TECNOLOGIA-TELECOM",
+  "description": "Viva Tecnologia Telecom",
+  "subnets": {
+    "ipv4": [
+      "170.81.100.0/22"
+    ],
+    "ipv6": [
+      "2804:376c::/32"
+    ]
+  }
+}

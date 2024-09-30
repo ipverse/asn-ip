@@ -4,7 +4,8 @@
   "description": "Nurol Yatirim Bankasi Anonim Sirketi",
   "subnets": {
     "ipv4": [
-      "37.77.11.0/24"
+      "37.77.11.0/24",
+      "103.132.129.0/24"
     ],
     "ipv6": []
   }

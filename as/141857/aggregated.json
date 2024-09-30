@@ -4,7 +4,8 @@
   "description": "NATIONAL BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
   "subnets": {
     "ipv4": [
-      "103.167.77.0/24"
+      "103.167.77.0/24",
+      "160.30.243.0/24"
     ],
     "ipv6": []
   }
