@@ -3,7 +3,9 @@
   "handle": "ADADSI-AP",
   "description": "Aioni Digital and Data Solutions Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "160.25.230.0/23"
+    ],
     "ipv6": []
   }
 }

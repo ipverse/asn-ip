@@ -3,7 +3,9 @@
   "handle": "TELTREX-NETWORK",
   "description": "Teltrex LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "50.114.58.0/24"
+    ],
     "ipv6": []
   }
 }
