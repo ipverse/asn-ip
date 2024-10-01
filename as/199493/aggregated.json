@@ -3,7 +3,11 @@
   "handle": "NETNET",
   "description": "Krajnalic Komunikacije d.o.o.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "37.220.64.0/20",
+      "80.243.232.0/22",
+      "193.221.196.0/22"
+    ],
     "ipv6": []
   }
 }

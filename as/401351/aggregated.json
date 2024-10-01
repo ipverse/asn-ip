@@ -3,7 +3,9 @@
   "handle": "DEVZERO",
   "description": "DevZero",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "23.190.136.0/24"
+    ],
     "ipv6": [
       "2602:f7f7::/48"
     ]

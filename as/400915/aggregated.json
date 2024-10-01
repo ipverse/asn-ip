@@ -4,7 +4,7 @@
   "description": "Pure Nodal, Inc.",
   "subnets": {
     "ipv4": [
-      "107.180.208.0/20"
+      "107.180.208.0/24"
     ],
     "ipv6": []
   }

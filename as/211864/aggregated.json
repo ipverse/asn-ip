@@ -1,9 +1,11 @@
 {
   "asn": 211864,
-  "handle": "NESSUS-CUSTOMER",
+  "handle": "NESSUS-RESIDENTIAL",
   "description": "Nessus GmbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "81.173.80.0/24"
+    ],
     "ipv6": [
       "2602:fed2:7043::/48"
     ]

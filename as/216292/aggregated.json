@@ -3,7 +3,9 @@
   "handle": "SECURE-PATH",
   "description": "Abdulrahman Aljeraisy trading as Safe Way Foundation for Cyber Security",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "83.101.164.0/22"
+    ],
     "ipv6": []
   }
 }

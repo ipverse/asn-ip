@@ -3,7 +3,12 @@
   "handle": "OGITAL",
   "description": "AMW TELECOM LLC",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "23.174.152.0/24",
+      "162.254.224.0/21"
+    ],
+    "ipv6": [
+      "2607:9540::/44"
+    ]
   }
 }

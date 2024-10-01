@@ -3,11 +3,7 @@
   "handle": "SECURITYSERVICES",
   "description": "Vercara, LLC",
   "subnets": {
-    "ipv4": [
-      "204.74.104.0/24"
-    ],
-    "ipv6": [
-      "2610:a1:312f::/48"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

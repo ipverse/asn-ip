@@ -3,7 +3,9 @@
   "handle": "SWN-NEUWIED",
   "description": "Stadtwerke Neuwied GmbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.92.204.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -1,0 +1,11 @@
+{
+  "asn": 214123,
+  "handle": "VIRTUALIZAME",
+  "description": "Virtualizame SL",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2001:67c:f20::/48"
+    ]
+  }
+}
