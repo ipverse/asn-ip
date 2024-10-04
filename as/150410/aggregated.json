@@ -3,7 +3,11 @@
   "handle": "ICCS-AP",
   "description": "Office of Info.Tech. Admin. for Educational Development",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "202.29.88.0/24",
+      "202.29.93.0/24",
+      "202.29.94.0/23"
+    ],
     "ipv6": []
   }
 }

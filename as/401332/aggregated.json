@@ -3,7 +3,9 @@
   "handle": "TRIPLEBIT",
   "description": "Triplebit",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "23.188.56.0/24"
+    ],
     "ipv6": [
       "2602:f81c::/41"
     ]

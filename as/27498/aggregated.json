@@ -4,6 +4,8 @@
   "description": "Sacred Servers",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2602:f865:ff0::/44"
+    ]
   }
 }

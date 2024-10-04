@@ -3,7 +3,9 @@
   "handle": "GEC-BG",
   "description": "GEC BG Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "77.85.171.0/24"
+    ],
     "ipv6": []
   }
 }

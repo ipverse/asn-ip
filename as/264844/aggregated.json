@@ -3,13 +3,7 @@
   "handle": "INVERSIONES-FRITZ-78-CA",
   "description": "INVERSIONES FRITZ 78 C.A.(WIFI SOLUTION)",
   "subnets": {
-    "ipv4": [
-      "38.57.238.0/23",
-      "170.244.88.0/23",
-      "170.244.91.0/24",
-      "191.97.16.0/24",
-      "191.97.18.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

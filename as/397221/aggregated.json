@@ -1,9 +1,12 @@
 {
   "asn": 397221,
   "handle": "SECURITYSERVICES",
-  "description": "Neustar Security Services",
+  "description": "Vercara, LLC",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2610:a1:1024::/48",
+      "2620:74:1b::/48"
+    ]
   }
 }

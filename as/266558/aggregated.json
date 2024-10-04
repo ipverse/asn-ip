@@ -3,7 +3,9 @@
   "handle": "INFRA-SOLUES-INFORMTICA",
   "description": "Infra Solues de Informtica Ltda Me",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "160.238.176.0/22"
+    ],
     "ipv6": []
   }
 }

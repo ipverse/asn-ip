@@ -3,7 +3,9 @@
   "handle": "SJC44NET",
   "description": "Pal Communications LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "44.24.200.0/22"
+    ],
     "ipv6": []
   }
 }

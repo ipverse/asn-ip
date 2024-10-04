@@ -4,8 +4,6 @@
   "description": "TISPA - Tanzania Internet Service Providers Association",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2001:43f8:6::/48"
-    ]
+    "ipv6": []
   }
 }

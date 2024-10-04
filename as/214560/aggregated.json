@@ -4,6 +4,7 @@
   "description": "Maxime Lescure trading as Hydra-Shield",
   "subnets": {
     "ipv4": [
+      "5.180.33.0/24",
       "92.112.92.0/24"
     ],
     "ipv6": [

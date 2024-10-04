@@ -3,7 +3,9 @@
   "handle": "EPHRON-INC",
   "description": "Ephron, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "74.50.1.0/24"
+    ],
     "ipv6": []
   }
 }

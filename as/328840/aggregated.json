@@ -4,6 +4,7 @@
   "description": "ST DIGITAL",
   "subnets": {
     "ipv4": [
+      "102.208.104.0/22",
       "102.220.16.0/22"
     ],
     "ipv6": [

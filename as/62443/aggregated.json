@@ -3,7 +3,9 @@
   "handle": "AKWA",
   "description": "Nicolas VUILLERMET",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.39.255.0/24"
+    ],
     "ipv6": [
       "2a13:cc80::/31"
     ]

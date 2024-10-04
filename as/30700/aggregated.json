@@ -4,6 +4,9 @@
   "description": "OwO Network, LLC",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2602:f7ee::/48",
+      "2a14:7581:9de0::/48"
+    ]
   }
 }

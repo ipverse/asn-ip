@@ -1,0 +1,11 @@
+{
+  "asn": 467,
+  "handle": "AFCONC-BLOCK1",
+  "description": "Air Force Systems Networking",
+  "subnets": {
+    "ipv4": [
+      "199.124.116.0/23"
+    ],
+    "ipv6": []
+  }
+}

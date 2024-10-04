@@ -4,6 +4,7 @@
   "description": "Citytelecom LLC",
   "subnets": {
     "ipv4": [
+      "94.159.86.0/24",
       "193.46.65.0/24"
     ],
     "ipv6": [
