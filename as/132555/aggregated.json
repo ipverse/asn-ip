@@ -3,7 +3,9 @@
   "handle": "CLOUDOPS-IN",
   "description": "Cloud Operation Pvt Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.240.89.0/24"
+    ],
     "ipv6": []
   }
 }

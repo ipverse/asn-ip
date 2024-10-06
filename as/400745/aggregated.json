@@ -1,0 +1,11 @@
+{
+  "asn": 400745,
+  "handle": "VC-ASN-1",
+  "description": "Vista Computing, LLC",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2620:59:2000::/48"
+    ]
+  }
+}

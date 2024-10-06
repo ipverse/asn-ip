@@ -3,7 +3,13 @@
   "handle": "PACKETGROUP",
   "description": "Packet Group, Inc.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "23.164.56.0/24",
+      "23.185.88.0/24"
+    ],
+    "ipv6": [
+      "2602:f869::/48",
+      "2602:fa42:ff0::/44"
+    ]
   }
 }

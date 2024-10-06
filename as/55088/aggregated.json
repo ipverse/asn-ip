@@ -4,11 +4,8 @@
   "description": "RWA Wealth Partners, LLC",
   "subnets": {
     "ipv4": [
-      "192.12.51.0/24",
       "198.167.130.0/23"
     ],
-    "ipv6": [
-      "2605:a900:3005::/48"
-    ]
+    "ipv6": []
   }
 }
