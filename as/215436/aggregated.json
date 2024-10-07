@@ -4,7 +4,8 @@
   "description": "Whitelabel Networks, LLC.",
   "subnets": {
     "ipv4": [
-      "213.176.64.0/22"
+      "213.176.64.0/23",
+      "213.176.67.0/24"
     ],
     "ipv6": []
   }

@@ -4,8 +4,6 @@
   "description": "Vista Computing, LLC",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2620:59:2000::/48"
-    ]
+    "ipv6": []
   }
 }

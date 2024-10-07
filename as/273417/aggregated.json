@@ -3,7 +3,9 @@
   "handle": "INFORTEC-SERVICOS-COMUNICACOES",
   "description": "INFORTEC SERVICOS DE COMUNICACOES LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "187.86.163.0/24"
+    ],
     "ipv6": [
       "2804:8e50::/32"
     ]

@@ -3,7 +3,9 @@
   "handle": "WEHOST",
   "description": "WEHOST LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.118.79.0/24"
+    ],
     "ipv6": []
   }
 }

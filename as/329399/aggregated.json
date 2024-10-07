@@ -3,7 +3,9 @@
   "handle": "SOCIETE-CAJUTEL",
   "description": "Societe Cajutel Guinee - SARLU",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "102.209.204.0/22"
+    ],
     "ipv6": []
   }
 }
