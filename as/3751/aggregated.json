@@ -3,7 +3,9 @@
   "handle": "PHONAK-LLC",
   "description": "Phonak, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "50.230.69.0/24"
+    ],
     "ipv6": []
   }
 }

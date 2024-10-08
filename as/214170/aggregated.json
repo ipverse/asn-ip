@@ -3,9 +3,7 @@
   "handle": "EVOLONIA",
   "description": "EVOLONIA LTD.",
   "subnets": {
-    "ipv4": [
-      "79.124.29.0/24"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2a01:8740:18::/48"
     ]

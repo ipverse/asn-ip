@@ -1,9 +1,11 @@
 {
   "asn": 204487,
-  "handle": "EXPORT-IMPORT",
-  "description": "DEMENIN B.V.",
+  "handle": "R179",
+  "description": "Fabio Tomas",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "95.164.94.0/24"
+    ],
     "ipv6": []
   }
 }

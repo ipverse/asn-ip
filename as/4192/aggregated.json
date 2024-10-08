@@ -3,10 +3,7 @@
   "handle": "STORTEK-INT",
   "description": "Oracle Corporation",
   "subnets": {
-    "ipv4": [
-      "129.150.0.0/19",
-      "129.191.56.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

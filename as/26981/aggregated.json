@@ -4,7 +4,6 @@
   "description": "Glm Media",
   "subnets": {
     "ipv4": [
-      "66.129.39.0/24",
       "66.129.44.0/22"
     ],
     "ipv6": []

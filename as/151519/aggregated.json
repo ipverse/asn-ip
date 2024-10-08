@@ -3,7 +3,9 @@
   "handle": "IDNIC-JFI-ID",
   "description": "PT Jaringan FIberku Indonesia",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.239.21.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,10 +3,7 @@
   "handle": "AURIGAKORE",
   "description": "Auriga Kore Limited",
   "subnets": {
-    "ipv4": [
-      "85.199.200.0/21",
-      "85.199.210.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

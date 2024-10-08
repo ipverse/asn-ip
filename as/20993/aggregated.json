@@ -1,0 +1,11 @@
+{
+  "asn": 20993,
+  "handle": "AGESTEL",
+  "description": "Momax Network S.r.l.",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a00:c260:8000::/34"
+    ]
+  }
+}
