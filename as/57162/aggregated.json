@@ -3,7 +3,9 @@
   "handle": "ARDSHINBANK",
   "description": "Ardshinbank, CJSC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.226.235.0/24"
+    ],
     "ipv6": []
   }
 }

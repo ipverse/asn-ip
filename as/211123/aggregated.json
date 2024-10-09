@@ -1,11 +1,9 @@
 {
   "asn": 211123,
-  "handle": "C1V",
-  "description": "SE.DI.CA.LE SRL",
+  "handle": "RESERVED",
+  "description": "RIPE NCC ASN block",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2a11:e106::/32"
-    ]
+    "ipv6": []
   }
 }

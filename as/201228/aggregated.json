@@ -4,7 +4,8 @@
   "description": "Anapaya Systems AG",
   "subnets": {
     "ipv4": [
-      "193.29.10.0/24"
+      "193.29.10.0/24",
+      "193.29.20.0/23"
     ],
     "ipv6": []
   }

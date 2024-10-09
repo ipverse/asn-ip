@@ -4,6 +4,7 @@
   "description": "WideOpenWest Finance LLC",
   "subnets": {
     "ipv4": [
+      "23.27.205.0/24",
       "23.28.96.0/19",
       "23.28.128.0/17",
       "23.230.218.0/24",

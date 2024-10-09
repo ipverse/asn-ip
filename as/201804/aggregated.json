@@ -4,8 +4,7 @@
   "description": "National Insurance Information System JSC",
   "subnets": {
     "ipv4": [
-      "193.232.59.0/24",
-      "194.85.24.0/24"
+      "193.232.59.0/24"
     ],
     "ipv6": []
   }

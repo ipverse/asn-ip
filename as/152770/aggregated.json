@@ -3,11 +3,7 @@
   "handle": "IDNIC-DIGITAMASUPERLINK-ID",
   "description": "PT Indotech Digitama Superlink",
   "subnets": {
-    "ipv4": [
-      "157.66.192.0/23"
-    ],
-    "ipv6": [
-      "2001:df3:da40::/48"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

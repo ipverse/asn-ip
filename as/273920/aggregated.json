@@ -4,8 +4,6 @@
   "description": "TU ESPACIO NET SPA",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2803:7b50::/32"
-    ]
+    "ipv6": []
   }
 }

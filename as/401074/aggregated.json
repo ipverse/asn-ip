@@ -1,0 +1,11 @@
+{
+  "asn": 401074,
+  "handle": "TF-SEC",
+  "description": "TForce Freight",
+  "subnets": {
+    "ipv4": [
+      "209.25.204.0/22"
+    ],
+    "ipv6": []
+  }
+}

@@ -3,7 +3,9 @@
   "handle": "SET-LLC",
   "description": "Severo-Eniseysk-Telecom LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.46.77.0/24"
+    ],
     "ipv6": []
   }
 }

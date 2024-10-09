@@ -3,9 +3,7 @@
   "handle": "XHOSTING",
   "description": "FIBER TELECOM s.r.o.",
   "subnets": {
-    "ipv4": [
-      "45.159.110.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }
