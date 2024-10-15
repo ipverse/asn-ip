@@ -1,0 +1,12 @@
+{
+  "asn": 394932,
+  "handle": "MOUNTAIN-INET-TFP",
+  "description": "Mountain iNet, Inc.",
+  "subnets": {
+    "ipv4": [
+      "65.140.107.0/24",
+      "65.153.86.0/24"
+    ],
+    "ipv6": []
+  }
+}

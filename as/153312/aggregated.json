@@ -1,0 +1,11 @@
+{
+  "asn": 153312,
+  "handle": "BTIT-AP",
+  "description": "BTIT Consulting Limited",
+  "subnets": {
+    "ipv4": [
+      "160.30.240.0/23"
+    ],
+    "ipv6": []
+  }
+}

@@ -3,7 +3,9 @@
   "handle": "LOGICX",
   "description": "Logicx Mobiliteit B.V.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.3.33.0/24"
+    ],
     "ipv6": []
   }
 }

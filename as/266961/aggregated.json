@@ -4,8 +4,7 @@
   "description": "Arias Telecomunicaes Ltda",
   "subnets": {
     "ipv4": [
-      "45.226.72.0/22",
-      "131.0.48.0/23"
+      "45.226.72.0/22"
     ],
     "ipv6": [
       "2804:4600::/32"

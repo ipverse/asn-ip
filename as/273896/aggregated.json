@@ -3,7 +3,9 @@
   "handle": "ONE-TELECOMUNICACIONES",
   "description": "ONE TELECOMUNICACIONES SAS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.210.96.0/24"
+    ],
     "ipv6": [
       "2803:d350::/32"
     ]

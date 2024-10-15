@@ -4,8 +4,7 @@
   "description": "Jersey Shore State Bank",
   "subnets": {
     "ipv4": [
-      "50.173.114.0/24",
-      "74.43.25.0/24"
+      "50.173.114.0/24"
     ],
     "ipv6": []
   }

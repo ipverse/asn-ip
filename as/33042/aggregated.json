@@ -1,7 +1,11 @@
 {
   "asn": 33042,
+  "handle": "NETIFACE-TORONTO",
+  "description": "Netiface LLC",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a12:1900::/29"
+    ]
   }
 }

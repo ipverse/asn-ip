@@ -1,10 +1,11 @@
 {
   "asn": 139005,
-  "handle": "VIVIDNET-AP",
+  "handle": "VCL-AP",
   "description": "Vivid Computers Ltd",
   "subnets": {
     "ipv4": [
-      "103.138.130.0/24"
+      "103.138.130.0/24",
+      "160.187.216.0/23"
     ],
     "ipv6": [
       "2405:e40::/45",

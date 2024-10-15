@@ -1,0 +1,12 @@
+{
+  "asn": 54852,
+  "handle": "F4-NETWORKS-01",
+  "description": "F4 Networks, LLC",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a01:e281:f4::/48",
+      "2a10:34c0::/29"
+    ]
+  }
+}

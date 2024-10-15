@@ -1,0 +1,11 @@
+{
+  "asn": 401400,
+  "handle": "MCNET-GD",
+  "description": "MCNET-SOLUTIONS",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2602:81a:8000::/44"
+    ]
+  }
+}

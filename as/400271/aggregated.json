@@ -4,7 +4,8 @@
   "description": "Interco Trading, Inc.",
   "subnets": {
     "ipv4": [
-      "64.39.230.0/24"
+      "64.39.230.0/24",
+      "174.136.194.0/24"
     ],
     "ipv6": []
   }

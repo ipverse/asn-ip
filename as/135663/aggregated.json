@@ -1,0 +1,11 @@
+{
+  "asn": 135663,
+  "handle": "BENGALHOST-AP",
+  "description": "BengalHost",
+  "subnets": {
+    "ipv4": [
+      "160.20.116.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,9 +1,11 @@
 {
   "asn": 397923,
-  "handle": "GLOBALCU",
-  "description": "Global Credit Union",
+  "handle": "RESIRACK",
+  "description": "Resi Rack L.L.C.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "104.171.170.0/24"
+    ],
     "ipv6": []
   }
 }

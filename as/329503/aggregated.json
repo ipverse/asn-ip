@@ -1,0 +1,12 @@
+{
+  "asn": 329503,
+  "handle": "NGCOM-LASTMILE-SOLUTION-LTD",
+  "description": "NGCOM LASTMILE SOLUTION LTD",
+  "subnets": {
+    "ipv4": [
+      "102.216.35.0/24",
+      "102.221.46.0/24"
+    ],
+    "ipv6": []
+  }
+}

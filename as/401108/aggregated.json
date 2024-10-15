@@ -1,0 +1,12 @@
+{
+  "asn": 401108,
+  "handle": "DISCOUNT-TIRE",
+  "description": "Discount Tire",
+  "subnets": {
+    "ipv4": [
+      "76.220.127.0/24",
+      "209.180.150.0/24"
+    ],
+    "ipv6": []
+  }
+}

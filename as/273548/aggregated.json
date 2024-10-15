@@ -3,7 +3,9 @@
   "handle": "OLIVER-NET-SERVIOS",
   "description": "Oliver Net Servios de Comunicaao LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "138.94.116.0/24"
+    ],
     "ipv6": [
       "2804:9060::/32"
     ]

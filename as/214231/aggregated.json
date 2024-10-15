@@ -4,7 +4,8 @@
   "description": "Cloud Solutions LLC",
   "subnets": {
     "ipv4": [
-      "5.42.66.0/24"
+      "5.42.66.0/24",
+      "194.67.193.0/24"
     ],
     "ipv6": []
   }

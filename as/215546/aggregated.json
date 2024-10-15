@@ -1,0 +1,11 @@
+{
+  "asn": 215546,
+  "handle": "TELECOM1-IXP01",
+  "description": "Telecom 1 LLC",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2602:f855::/36"
+    ]
+  }
+}

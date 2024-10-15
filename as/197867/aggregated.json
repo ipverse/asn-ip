@@ -3,7 +3,9 @@
   "handle": "WONG",
   "description": "FELIX WONG TRADING AS FANTASTIC HOMEWARE USA CO",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "140.235.214.0/24"
+    ],
     "ipv6": [
       "2a05:dfc1:5d00::/40"
     ]

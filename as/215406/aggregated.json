@@ -1,0 +1,12 @@
+{
+  "asn": 215406,
+  "handle": "PAYMENTPASS",
+  "description": "PaymentPass Inc.",
+  "subnets": {
+    "ipv4": [
+      "193.28.157.0/24",
+      "193.28.179.0/24"
+    ],
+    "ipv6": []
+  }
+}

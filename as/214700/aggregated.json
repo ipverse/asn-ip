@@ -1,0 +1,13 @@
+{
+  "asn": 214700,
+  "handle": "JBODAG",
+  "description": "JBOD AG",
+  "subnets": {
+    "ipv4": [
+      "185.255.31.0/24"
+    ],
+    "ipv6": [
+      "2a11:e0c0::/29"
+    ]
+  }
+}

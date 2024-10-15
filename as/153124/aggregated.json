@@ -1,0 +1,11 @@
+{
+  "asn": 153124,
+  "handle": "IDNIC-CDN-ID",
+  "description": "PT Cahaya Data Nusantara",
+  "subnets": {
+    "ipv4": [
+      "160.187.196.0/24"
+    ],
+    "ipv6": []
+  }
+}

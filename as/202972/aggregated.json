@@ -3,7 +3,9 @@
   "handle": "DATACENTERTURK-COM",
   "description": "Nese Mala trading as Moon Dc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.49.154.0/24"
+    ],
     "ipv6": []
   }
 }

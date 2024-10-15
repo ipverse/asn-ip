@@ -3,9 +3,7 @@
   "handle": "ONSPL-AP",
   "description": "Omnitouch Network Services Pty Ltd",
   "subnets": {
-    "ipv4": [
-      "160.22.43.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

@@ -4,6 +4,7 @@
   "description": "i-LinkNet LLP",
   "subnets": {
     "ipv4": [
+      "45.66.53.0/24",
       "188.95.95.0/24"
     ],
     "ipv6": []

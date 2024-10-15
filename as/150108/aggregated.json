@@ -1,0 +1,11 @@
+{
+  "asn": 150108,
+  "handle": "TELEHOUSEPVTLTD-AP",
+  "description": "TeleHouse Pvt Ltd",
+  "subnets": {
+    "ipv4": [
+      "103.122.222.0/24"
+    ],
+    "ipv6": []
+  }
+}

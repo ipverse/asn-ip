@@ -1,0 +1,12 @@
+{
+  "asn": 214227,
+  "handle": "ZOHO-AE",
+  "description": "Zoho Software Trading LLC",
+  "subnets": {
+    "ipv4": [
+      "160.32.184.0/22",
+      "160.32.188.0/23"
+    ],
+    "ipv6": []
+  }
+}

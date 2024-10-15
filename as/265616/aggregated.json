@@ -4,7 +4,8 @@
   "description": "BANCO INVEX SA INSTITUCION DE BANCA MULTIPLE, INVEX, GRUPO FINANCIERO",
   "subnets": {
     "ipv4": [
-      "45.188.133.0/24"
+      "45.188.133.0/24",
+      "187.102.226.0/24"
     ],
     "ipv6": []
   }

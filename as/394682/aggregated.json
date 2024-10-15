@@ -4,6 +4,7 @@
   "description": "Communications \u0026 Power Industries, LLC",
   "subnets": {
     "ipv4": [
+      "206.208.32.0/23",
       "206.208.36.0/24"
     ],
     "ipv6": []

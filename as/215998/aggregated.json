@@ -4,7 +4,8 @@
   "description": "Morteza Eskandari",
   "subnets": {
     "ipv4": [
-      "193.25.216.0/24"
+      "193.25.216.0/24",
+      "194.169.172.0/24"
     ],
     "ipv6": []
   }
