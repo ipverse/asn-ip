@@ -3,9 +3,7 @@
   "handle": "DATABAAR",
   "description": "WWZ Telekom AG",
   "subnets": {
-    "ipv4": [
-      "217.194.48.0/20"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

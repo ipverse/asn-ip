@@ -3,9 +3,7 @@
   "handle": "JOULEWORKS-MA",
   "description": "Jouleworks",
   "subnets": {
-    "ipv4": [
-      "157.254.17.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

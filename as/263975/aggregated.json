@@ -4,10 +4,11 @@
   "description": "Smart Link Consultoria e servios em telec. LTDA",
   "subnets": {
     "ipv4": [
-      "138.255.161.0/24"
+      "138.255.161.0/24",
+      "138.255.163.0/24"
     ],
     "ipv6": [
-      "2804:28b4::/40"
+      "2804:28b4::/39"
     ]
   }
 }

@@ -3,7 +3,9 @@
   "handle": "CANTECH",
   "description": "CANTECH INTERNATIONAL LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "65.173.229.0/24"
+    ],
     "ipv6": []
   }
 }

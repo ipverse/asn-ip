@@ -3,7 +3,11 @@
   "handle": "REDE-SUL-SP",
   "description": "REDE SUL SP LTDA - ME",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.164.68.0/22"
+    ],
+    "ipv6": [
+      "2804:53c8::/32"
+    ]
   }
 }

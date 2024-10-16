@@ -3,7 +3,10 @@
   "handle": "SOONKEATNEO-AP",
   "description": "Soon Keat Neo",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.131.188.0/24",
+      "103.131.191.0/24"
+    ],
     "ipv6": []
   }
 }

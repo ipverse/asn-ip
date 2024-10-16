@@ -1,0 +1,11 @@
+{
+  "asn": 214034,
+  "handle": "KIRIELABS",
+  "description": "KirieLABS CommV",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a01:ec40:1::/48"
+    ]
+  }
+}

@@ -1,9 +1,11 @@
 {
   "asn": 215772,
   "handle": "TYRAHOST",
-  "description": "Association SecureHost",
+  "description": "Association Securost",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "82.163.23.0/24"
+    ],
     "ipv6": []
   }
 }

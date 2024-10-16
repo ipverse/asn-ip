@@ -3,7 +3,9 @@
   "handle": "IDNIC-HAAYNET-ID",
   "description": "PT Phainan Jaya Utama",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "157.66.190.0/24"
+    ],
     "ipv6": []
   }
 }
