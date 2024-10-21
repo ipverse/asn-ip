@@ -3,7 +3,9 @@
   "handle": "TELECOM-FIBER-NET",
   "description": "TELECOM FIBER NET LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.181.218.0/24"
+    ],
     "ipv6": [
       "2804:60fc::/32"
     ]

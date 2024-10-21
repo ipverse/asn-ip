@@ -4,8 +4,7 @@
   "description": "NORTE TELECOMUNICAES SERVIOS DE INTERNET LTDA",
   "subnets": {
     "ipv4": [
-      "177.104.240.0/20",
-      "187.85.48.0/24"
+      "177.104.240.0/20"
     ],
     "ipv6": [
       "2804:5bcc::/32"

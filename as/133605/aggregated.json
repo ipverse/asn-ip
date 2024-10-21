@@ -3,7 +3,9 @@
   "handle": "BTL-BD",
   "description": "Bright Technologies Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.112.72.0/24"
+    ],
     "ipv6": []
   }
 }

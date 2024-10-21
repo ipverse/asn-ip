@@ -3,9 +3,7 @@
   "handle": "SURFX",
   "description": "SurfXpress, LLC",
   "subnets": {
-    "ipv4": [
-      "103.175.80.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

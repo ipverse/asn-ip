@@ -1,0 +1,11 @@
+{
+  "asn": 329478,
+  "handle": "SKYWORKS-TELECOMS",
+  "description": "Skyworks Telecoms",
+  "subnets": {
+    "ipv4": [
+      "102.208.28.0/22"
+    ],
+    "ipv6": []
+  }
+}

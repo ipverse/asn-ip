@@ -4,6 +4,7 @@
   "description": "Coretel",
   "subnets": {
     "ipv4": [
+      "103.83.56.0/24",
       "103.172.103.0/24"
     ],
     "ipv6": []
