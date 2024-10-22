@@ -4,10 +4,8 @@
   "description": "Internet Pinheirense Ltda - ME",
   "subnets": {
     "ipv4": [
-      "177.105.224.0/20"
+      "177.105.231.0/24"
     ],
-    "ipv6": [
-      "2804:8564::/32"
-    ]
+    "ipv6": []
   }
 }

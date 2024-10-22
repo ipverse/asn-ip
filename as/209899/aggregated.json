@@ -4,7 +4,8 @@
   "description": "Nubis Associates Limited",
   "subnets": {
     "ipv4": [
-      "45.65.96.0/22"
+      "45.65.96.0/22",
+      "185.136.244.0/22"
     ],
     "ipv6": []
   }

@@ -1,9 +1,10 @@
 {
   "asn": 215439,
   "handle": "PLAY2GO-NET",
-  "description": "PLAY2GO LTD",
+  "description": "PLAY2GO INTERNATIONAL LIMITED",
   "subnets": {
     "ipv4": [
+      "31.13.208.0/24",
       "45.66.228.0/24",
       "45.133.251.0/24",
       "171.22.31.0/24",

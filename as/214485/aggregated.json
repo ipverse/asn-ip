@@ -4,6 +4,7 @@
   "description": "Krishnakant Sharma trading as HEROXHOST WEB SERVICES",
   "subnets": {
     "ipv4": [
+      "103.72.103.0/24",
       "166.88.133.0/24"
     ],
     "ipv6": []

@@ -3,9 +3,7 @@
   "handle": "IDNIC-PANDAY-ID",
   "description": "PT AURORA SENTRAL INFORMATIKA",
   "subnets": {
-    "ipv4": [
-      "160.25.34.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

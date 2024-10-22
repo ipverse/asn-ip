@@ -1,0 +1,11 @@
+{
+  "asn": 805,
+  "handle": "GLOBELIFE-ASN-01",
+  "description": "Globe Life Inc.",
+  "subnets": {
+    "ipv4": [
+      "140.235.192.0/22"
+    ],
+    "ipv6": []
+  }
+}

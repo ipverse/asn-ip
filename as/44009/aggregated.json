@@ -3,7 +3,11 @@
   "handle": "SLEEK",
   "description": "Rackspace Ltd.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "166.86.128.0/22"
+    ],
+    "ipv6": [
+      "2a00:11b8::/32"
+    ]
   }
 }

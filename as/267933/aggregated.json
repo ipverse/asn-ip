@@ -3,7 +3,9 @@
   "handle": "IBIPAR",
   "description": "IBIPAR S/A",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.165.220.0/22"
+    ],
     "ipv6": [
       "2804:5568::/32"
     ]

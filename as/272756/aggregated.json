@@ -3,7 +3,9 @@
   "handle": "INTERNET-AJATO-GLOBAL",
   "description": "Internet Ajato Global Telecom Ltda",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "190.89.142.0/24"
+    ],
     "ipv6": [
       "2804:8830::/32"
     ]

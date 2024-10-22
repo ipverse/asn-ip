@@ -4,6 +4,7 @@
   "description": "Dimension Network \u0026 Communication Limited",
   "subnets": {
     "ipv4": [
+      "5.254.130.0/24",
       "43.229.4.0/22",
       "43.252.160.0/22",
       "43.252.172.0/22",
