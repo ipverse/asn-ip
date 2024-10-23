@@ -3,7 +3,9 @@
   "handle": "WITECNO",
   "description": "WITECNO S.R.L.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.25.232.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -1,9 +1,13 @@
 {
   "asn": 273960,
+  "handle": "TELECABLE-INTERNACIONAL-TAMBORIL",
+  "description": "TELECABLE INTERNACIONAL TAMBORIL SRL",
   "subnets": {
     "ipv4": [
       "45.6.40.0/22"
     ],
-    "ipv6": []
+    "ipv6": [
+      "2803:19c0::/32"
+    ]
   }
 }

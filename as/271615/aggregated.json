@@ -4,10 +4,8 @@
   "description": "WRENET TELECOMUNICACOES",
   "subnets": {
     "ipv4": [
-      "177.39.96.0/22"
+      "177.39.97.0/24"
     ],
-    "ipv6": [
-      "2804:7e4c::/32"
-    ]
+    "ipv6": []
   }
 }

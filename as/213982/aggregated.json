@@ -1,0 +1,11 @@
+{
+  "asn": 213982,
+  "handle": "RESERVED",
+  "description": "RIPE NCC ASN block",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a0a:6044:acd0::/44"
+    ]
+  }
+}

@@ -3,9 +3,7 @@
   "handle": "OBANK",
   "description": "O! Bank OJSC",
   "subnets": {
-    "ipv4": [
-      "95.87.90.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

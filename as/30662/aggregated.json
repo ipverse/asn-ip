@@ -1,0 +1,11 @@
+{
+  "asn": 30662,
+  "handle": "VCU-01",
+  "description": "Veridian Credit Union",
+  "subnets": {
+    "ipv4": [
+      "69.48.210.0/24"
+    ],
+    "ipv6": []
+  }
+}

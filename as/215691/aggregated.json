@@ -4,6 +4,7 @@
   "description": "AP INTERACTIVE SOLUTIONS SL",
   "subnets": {
     "ipv4": [
+      "45.198.54.0/23",
       "171.22.18.0/24"
     ],
     "ipv6": []

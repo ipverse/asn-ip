@@ -1,0 +1,12 @@
+{
+  "asn": 15195,
+  "handle": "AGNETWORX",
+  "description": "Alhambra-Grantfork Telephone Company",
+  "subnets": {
+    "ipv4": [
+      "107.182.84.0/24",
+      "107.182.88.0/22"
+    ],
+    "ipv6": []
+  }
+}

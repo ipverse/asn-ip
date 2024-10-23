@@ -4,7 +4,7 @@
   "description": "Kyndryl Global Services Is ve Teknoloji Hizmetleri ve Ticaret Limited Sirketi",
   "subnets": {
     "ipv4": [
-      "31.145.70.0/23",
+      "31.145.70.0/24",
       "31.206.32.0/24"
     ],
     "ipv6": []
