@@ -3,7 +3,9 @@
   "handle": "STSS-BEDMINSTER",
   "description": "Mallinckrodt Enterprises LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "146.214.16.0/21"
+    ],
     "ipv6": []
   }
 }

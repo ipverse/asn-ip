@@ -1,9 +1,11 @@
 {
   "asn": 8652,
-  "handle": "DATAS",
-  "description": "DATAS AG",
+  "handle": "PETFRE",
+  "description": "Petfre (Gibraltar) Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.164.146.0/24"
+    ],
     "ipv6": []
   }
 }

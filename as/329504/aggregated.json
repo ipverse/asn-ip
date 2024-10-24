@@ -1,0 +1,12 @@
+{
+  "asn": 329504,
+  "handle": "VILCOM-NETWORKS-LIMITED-CLOUD-SERVICES",
+  "description": "Vilcom Networks Limited",
+  "subnets": {
+    "ipv4": [
+      "102.210.29.0/24",
+      "102.210.31.0/24"
+    ],
+    "ipv6": []
+  }
+}

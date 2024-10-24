@@ -1,0 +1,11 @@
+{
+  "asn": 153082,
+  "handle": "IDNIC-TERMINAL-ID",
+  "description": "PT Terminal Kreasi Nusantara",
+  "subnets": {
+    "ipv4": [
+      "160.22.218.0/23"
+    ],
+    "ipv6": []
+  }
+}

@@ -4,7 +4,7 @@
   "description": "CHINANET Sichuan province Chengdu MAN network",
   "subnets": {
     "ipv4": [
-      "106.60.48.0/22",
+      "106.60.48.0/21",
       "220.164.253.0/24"
     ],
     "ipv6": [

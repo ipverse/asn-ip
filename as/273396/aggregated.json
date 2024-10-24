@@ -4,7 +4,8 @@
   "description": "LDER LINK TELECOMUNICACOES LTDA",
   "subnets": {
     "ipv4": [
-      "38.190.78.0/23"
+      "38.190.78.0/23",
+      "38.210.126.0/24"
     ],
     "ipv6": [
       "2804:8e00::/40",

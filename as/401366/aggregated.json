@@ -3,7 +3,9 @@
   "handle": "VOX-FLOW",
   "description": "Vox Flow LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.202.75.0/24"
+    ],
     "ipv6": []
   }
 }

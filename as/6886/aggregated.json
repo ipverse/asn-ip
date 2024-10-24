@@ -3,7 +3,10 @@
   "handle": "INTS",
   "description": "LLC INTS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "141.98.148.0/22",
+      "212.66.48.0/21"
+    ],
     "ipv6": []
   }
 }

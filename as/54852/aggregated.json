@@ -3,7 +3,9 @@
   "handle": "F4-NETWORKS",
   "description": "F4 Networks, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "94.229.210.0/24"
+    ],
     "ipv6": [
       "2a01:e281:f4::/48",
       "2a09:7b00::/29",

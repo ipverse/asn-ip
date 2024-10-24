@@ -4,7 +4,8 @@
   "description": "Connect House Informtica Ltda-Me",
   "subnets": {
     "ipv4": [
-      "179.63.144.0/23"
+      "179.63.144.0/23",
+      "179.63.147.0/24"
     ],
     "ipv6": [
       "2804:7ddc::/32"

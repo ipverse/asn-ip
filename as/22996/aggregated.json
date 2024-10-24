@@ -3,7 +3,9 @@
   "handle": "BIDS",
   "description": "BIDS Trading L.P.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "173.241.86.0/24"
+    ],
     "ipv6": []
   }
 }

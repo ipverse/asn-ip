@@ -3,7 +3,9 @@
   "handle": "ITSYSTEMS",
   "description": "OOO IT-Systems",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.31.201.0/24"
+    ],
     "ipv6": []
   }
 }
