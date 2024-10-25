@@ -4,6 +4,7 @@
   "description": "ASIACELL COMMUNICATIONS PJSC",
   "subnets": {
     "ipv4": [
+      "212.95.142.0/24",
       "212.95.148.0/24"
     ],
     "ipv6": []

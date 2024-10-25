@@ -1,0 +1,11 @@
+{
+  "asn": 214750,
+  "handle": "HCB",
+  "description": "JSC Home Credit Bank",
+  "subnets": {
+    "ipv4": [
+      "192.64.44.0/24"
+    ],
+    "ipv6": []
+  }
+}

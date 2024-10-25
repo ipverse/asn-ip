@@ -4,8 +4,6 @@
   "description": "Flauschebauch UG",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2a0d:2146:bdd0::/48"
-    ]
+    "ipv6": []
   }
 }

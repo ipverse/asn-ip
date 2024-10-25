@@ -4,6 +4,7 @@
   "description": "Steven Smith trading as HyberHost",
   "subnets": {
     "ipv4": [
+      "23.128.44.0/24",
       "185.242.225.0/24"
     ],
     "ipv6": [

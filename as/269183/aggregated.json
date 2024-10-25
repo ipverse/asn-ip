@@ -4,7 +4,8 @@
   "description": "sim telecomunicao e multimidia",
   "subnets": {
     "ipv4": [
-      "45.181.108.0/22"
+      "45.181.108.0/24",
+      "45.181.110.0/23"
     ],
     "ipv6": [
       "2804:60ac::/32"

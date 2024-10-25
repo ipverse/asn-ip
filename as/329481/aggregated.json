@@ -4,7 +4,7 @@
   "description": "Lightstruck Connect",
   "subnets": {
     "ipv4": [
-      "102.208.8.0/22"
+      "102.208.10.0/23"
     ],
     "ipv6": [
       "2c0f:46c0::/32"

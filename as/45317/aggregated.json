@@ -4,7 +4,6 @@
   "description": "Jaringan Lintas Utara, PT",
   "subnets": {
     "ipv4": [
-      "103.158.103.0/24",
       "203.190.40.0/21"
     ],
     "ipv6": [

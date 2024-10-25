@@ -3,7 +3,9 @@
   "handle": "BARINET",
   "description": "BARINET S.R.L.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "128.201.108.0/22"
+    ],
     "ipv6": []
   }
 }

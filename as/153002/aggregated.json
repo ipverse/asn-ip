@@ -1,0 +1,13 @@
+{
+  "asn": 153002,
+  "handle": "FASTVM-VN",
+  "description": "Fastvm Company Limited",
+  "subnets": {
+    "ipv4": [
+      "160.187.146.0/23"
+    ],
+    "ipv6": [
+      "2001:df4:5740::/48"
+    ]
+  }
+}

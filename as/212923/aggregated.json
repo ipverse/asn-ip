@@ -3,7 +3,9 @@
   "handle": "GR-JOLIMONT",
   "description": "ASBL CHU Helora",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "176.118.192.0/24"
+    ],
     "ipv6": []
   }
 }

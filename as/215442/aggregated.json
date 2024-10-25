@@ -4,6 +4,7 @@
   "description": "Al-marhalla Al-taliya Information Technology Holding Company Ltd",
   "subnets": {
     "ipv4": [
+      "93.114.193.0/24",
       "194.76.134.0/24"
     ],
     "ipv6": []

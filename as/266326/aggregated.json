@@ -3,11 +3,7 @@
   "handle": "RVNETWORK",
   "description": "RVNETWORK LTDA",
   "subnets": {
-    "ipv4": [
-      "170.238.152.0/22"
-    ],
-    "ipv6": [
-      "2804:3618::/32"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

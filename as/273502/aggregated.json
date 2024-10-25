@@ -1,0 +1,11 @@
+{
+  "asn": 273502,
+  "handle": "LIVRE-FIBRA-INTERNET",
+  "description": "LIVRE FIBRA INTERNET LTDA.",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2804:8fa0::/32"
+    ]
+  }
+}

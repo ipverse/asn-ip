@@ -4,6 +4,7 @@
   "description": "Absolute Networks Pvt Ltd",
   "subnets": {
     "ipv4": [
+      "43.239.92.0/24",
       "103.25.126.0/24",
       "103.98.6.0/24"
     ],

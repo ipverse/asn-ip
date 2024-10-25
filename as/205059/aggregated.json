@@ -1,0 +1,13 @@
+{
+  "asn": 205059,
+  "handle": "SAVASCLOUD",
+  "description": "Savas OU",
+  "subnets": {
+    "ipv4": [
+      "185.231.108.0/23"
+    ],
+    "ipv6": [
+      "2a0f:aac0::/47"
+    ]
+  }
+}

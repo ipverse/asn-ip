@@ -3,7 +3,9 @@
   "handle": "OSSERVATORIO-NESSUNO",
   "description": "Davide Silvetti trading as \u0027Association Osservatorio Nessuno ODV\u0027",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "64.190.76.0/24"
+    ],
     "ipv6": [
       "2001:67c:e28::/48"
     ]
