@@ -3,9 +3,7 @@
   "handle": "DIGITAL-CERTIFICATE",
   "description": "CJSC Center for Digital Certificates",
   "subnets": {
-    "ipv4": [
-      "194.226.250.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

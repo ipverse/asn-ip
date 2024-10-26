@@ -4,7 +4,9 @@
   "description": "Axians Networks Limited",
   "subnets": {
     "ipv4": [
-      "146.66.0.0/23"
+      "146.66.0.0/23",
+      "146.66.2.0/24",
+      "146.66.4.0/22"
     ],
     "ipv6": []
   }

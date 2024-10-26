@@ -3,7 +3,10 @@
   "handle": "TELECOM1-IXP01",
   "description": "Telecom 1 LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.134.172.0/23",
+      "185.134.174.0/24"
+    ],
     "ipv6": [
       "2602:f855::/36"
     ]

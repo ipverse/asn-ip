@@ -4,8 +4,6 @@
   "description": "MCNET-SOLUTIONS",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2602:81a:8000::/44"
-    ]
+    "ipv6": []
   }
 }

@@ -3,9 +3,7 @@
   "handle": "EUREKOSIGORTA",
   "description": "Eureko Sigorta A.S.",
   "subnets": {
-    "ipv4": [
-      "185.241.73.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

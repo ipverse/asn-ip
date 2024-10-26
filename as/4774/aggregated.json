@@ -4,8 +4,11 @@
   "description": "Internet Initiative Japan Inc.",
   "subnets": {
     "ipv4": [
+      "103.2.58.0/24",
       "202.6.252.0/22"
     ],
-    "ipv6": []
+    "ipv6": [
+      "2001:300:fff5::/48"
+    ]
   }
 }

@@ -3,7 +3,11 @@
   "handle": "UNREDACTED",
   "description": "Unredacted Inc",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "23.191.200.0/24"
+    ],
+    "ipv6": [
+      "2602:f7d8::/48"
+    ]
   }
 }

@@ -3,7 +3,9 @@
   "handle": "ATHOYCYBERNET-AP",
   "description": "Athoy Cyber Net",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.102.247.0/24"
+    ],
     "ipv6": []
   }
 }

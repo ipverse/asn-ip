@@ -1,4 +1,5 @@
 # AS54613 (CVDN)
 # Converted Networks LLC
 #
-2602:fd9a::/35
+2602:fd9a:fff::/48
+2602:fd9a:1000::/36
