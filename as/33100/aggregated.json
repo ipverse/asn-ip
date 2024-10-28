@@ -3,7 +3,9 @@
   "handle": "DHR-INTERNATIONAL",
   "description": "DHR INTERNATIONAL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.101.94.0/24"
+    ],
     "ipv6": []
   }
 }

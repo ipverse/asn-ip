@@ -4,6 +4,7 @@
   "description": "TeknoDC Bilisim Teknolojileri A.S.",
   "subnets": {
     "ipv4": [
+      "38.3.136.0/22",
       "45.10.56.0/24"
     ],
     "ipv6": []

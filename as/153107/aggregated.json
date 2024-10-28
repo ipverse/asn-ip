@@ -3,9 +3,7 @@
   "handle": "IDNIC-RNET-ID",
   "description": "PT Rnet Mitra Sentosa",
   "subnets": {
-    "ipv4": [
-      "160.25.196.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

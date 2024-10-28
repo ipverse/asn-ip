@@ -4,7 +4,8 @@
   "description": "R RICHARD INFORMATIQUE EIRL",
   "subnets": {
     "ipv4": [
-      "91.217.219.0/24"
+      "91.217.219.0/24",
+      "151.216.46.0/24"
     ],
     "ipv6": [
       "2001:67c:e8c::/48",

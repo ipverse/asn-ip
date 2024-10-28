@@ -3,9 +3,7 @@
   "handle": "CT-ESURFINGCLOUD-CDN",
   "description": "China Telecom",
   "subnets": {
-    "ipv4": [
-      "203.86.116.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

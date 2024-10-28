@@ -3,9 +3,7 @@
   "handle": "BENGALHOST-AP",
   "description": "BengalHost",
   "subnets": {
-    "ipv4": [
-      "160.20.116.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

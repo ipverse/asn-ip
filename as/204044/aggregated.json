@@ -3,7 +3,9 @@
   "handle": "ONECLOUD",
   "description": "PACKET STAR NETWORKS LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "31.59.72.0/22"
+    ],
     "ipv6": []
   }
 }

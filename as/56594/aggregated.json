@@ -3,7 +3,9 @@
   "handle": "CB-BYO-IP",
   "description": "CGI GLOBAL LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "217.145.79.0/24"
+    ],
     "ipv6": []
   }
 }

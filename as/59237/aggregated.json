@@ -1,0 +1,11 @@
+{
+  "asn": 59237,
+  "handle": "HKNIS-AP",
+  "description": "Hong Kong Network Information Service",
+  "subnets": {
+    "ipv4": [
+      "202.6.0.0/24"
+    ],
+    "ipv6": []
+  }
+}

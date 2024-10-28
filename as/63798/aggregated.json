@@ -3,7 +3,11 @@
   "handle": "ENTERNET",
   "description": "ENTERNET",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "163.220.192.0/19"
+    ],
+    "ipv6": [
+      "2401:5e40:c600::/39"
+    ]
   }
 }

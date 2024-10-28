@@ -3,7 +3,9 @@
   "handle": "DUCKYCLOUD",
   "description": "DUCKY CLOUD TECHNOLOGIES LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "154.83.88.0/23"
+    ],
     "ipv6": [
       "2a0f:7803:fac0::/48",
       "2a0f:7803:fac2::/47",

@@ -3,7 +3,9 @@
   "handle": "PANMTECHLIMITED-AP",
   "description": "Pan M Tech Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.152.104.0/23"
+    ],
     "ipv6": []
   }
 }
