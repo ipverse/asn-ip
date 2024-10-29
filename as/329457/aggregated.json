@@ -3,7 +3,11 @@
   "handle": "CONNECTION-CAMEROON-SA",
   "description": "CONNECTION CAMEROON S.A",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "102.208.124.0/22"
+    ],
+    "ipv6": [
+      "2c0f:3d40::/32"
+    ]
   }
 }

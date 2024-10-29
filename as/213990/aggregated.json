@@ -1,0 +1,12 @@
+{
+  "asn": 213990,
+  "handle": "AOFB",
+  "description": "AOFB Telecom Networks Ltd",
+  "subnets": {
+    "ipv4": [
+      "31.59.69.0/24",
+      "198.175.168.0/23"
+    ],
+    "ipv6": []
+  }
+}

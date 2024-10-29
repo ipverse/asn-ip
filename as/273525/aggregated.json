@@ -3,7 +3,9 @@
   "handle": "SMARSUL-CONECT-FREY",
   "description": "SMARSUL CONECT FREY LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.3.134.0/24"
+    ],
     "ipv6": [
       "2804:8ff8::/32"
     ]

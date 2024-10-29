@@ -4,6 +4,8 @@
   "description": "Cai, Zhichao",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a11:d240::/29"
+    ]
   }
 }

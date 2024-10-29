@@ -3,10 +3,7 @@
   "handle": "ASPECT-LAS",
   "description": "Aspect Software, Inc.",
   "subnets": {
-    "ipv4": [
-      "199.230.58.0/23",
-      "199.230.62.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

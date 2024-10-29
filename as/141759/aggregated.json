@@ -3,7 +3,9 @@
   "handle": "HXTHTC-AP",
   "description": "HONGKONG XING TONG HUI TECHNOLOGY CO.,LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "149.18.24.0/23"
+    ],
     "ipv6": []
   }
 }

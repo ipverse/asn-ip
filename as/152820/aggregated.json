@@ -3,7 +3,9 @@
   "handle": "IDNIC-KALTIMNET-ID",
   "description": "PT Kaltim Net Nusantara",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "160.22.126.0/23"
+    ],
     "ipv6": []
   }
 }

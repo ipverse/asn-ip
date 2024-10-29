@@ -3,11 +3,7 @@
   "handle": "EPICUPPTELTD-AP",
   "description": "EpicUp PTE LTD",
   "subnets": {
-    "ipv4": [
-      "103.175.27.0/24"
-    ],
-    "ipv6": [
-      "2001:df0:5a40::/48"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

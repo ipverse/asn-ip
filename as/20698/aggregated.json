@@ -4,6 +4,7 @@
   "description": "LLC Avtodor-TollRoads",
   "subnets": {
     "ipv4": [
+      "46.243.161.0/24",
       "185.111.100.0/22"
     ],
     "ipv6": []

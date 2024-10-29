@@ -4,6 +4,7 @@
   "description": "European Network",
   "subnets": {
     "ipv4": [
+      "85.237.80.0/22",
       "185.116.108.0/22"
     ],
     "ipv6": []

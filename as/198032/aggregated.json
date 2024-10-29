@@ -4,6 +4,7 @@
   "description": "Cambridge Assessment",
   "subnets": {
     "ipv4": [
+      "185.198.132.0/24",
       "192.149.119.0/24"
     ],
     "ipv6": []

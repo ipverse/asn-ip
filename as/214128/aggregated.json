@@ -1,0 +1,13 @@
+{
+  "asn": 214128,
+  "handle": "FLY2HOST",
+  "description": "Ofek U. Havia",
+  "subnets": {
+    "ipv4": [
+      "103.245.230.0/24"
+    ],
+    "ipv6": [
+      "2a11:29c0:49::/48"
+    ]
+  }
+}

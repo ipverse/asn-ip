@@ -4,6 +4,7 @@
   "description": "Krzysztof Jan Klaptocz trading as Netservice",
   "subnets": {
     "ipv4": [
+      "82.146.12.0/23",
       "89.35.234.0/24",
       "91.90.164.0/23",
       "91.106.26.0/23",

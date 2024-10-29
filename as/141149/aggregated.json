@@ -4,7 +4,7 @@
   "description": "GLOBAL NETWORK",
   "subnets": {
     "ipv4": [
-      "103.155.70.0/23"
+      "103.155.70.0/24"
     ],
     "ipv6": []
   }

@@ -3,9 +3,7 @@
   "handle": "SOFTWARELOODS",
   "description": "Sjoerd Huininga trading as Softwareloods",
   "subnets": {
-    "ipv4": [
-      "185.234.13.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

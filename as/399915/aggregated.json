@@ -3,7 +3,9 @@
   "handle": "EPIC-ASN-01",
   "description": "EPIC Communications Inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "66.118.36.0/22"
+    ],
     "ipv6": []
   }
 }
