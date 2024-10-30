@@ -4,6 +4,7 @@
   "description": "Hostman LTD",
   "subnets": {
     "ipv4": [
+      "185.121.225.0/24",
       "195.133.93.0/24"
     ],
     "ipv6": []

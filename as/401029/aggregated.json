@@ -1,0 +1,11 @@
+{
+  "asn": 401029,
+  "handle": "DEIHS-HOST-01",
+  "description": "Deihs Solutions LLC",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2602:f906::/36"
+    ]
+  }
+}

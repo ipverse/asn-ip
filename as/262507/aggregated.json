@@ -4,11 +4,10 @@
   "description": "Global Osi Brasil Telecomunicaes e Conectividade",
   "subnets": {
     "ipv4": [
-      "177.55.160.0/22",
-      "177.55.164.0/23",
-      "177.55.166.0/24",
-      "177.55.168.0/21"
+      "177.55.160.0/20"
     ],
-    "ipv6": []
+    "ipv6": [
+      "2804:54c::/32"
+    ]
   }
 }

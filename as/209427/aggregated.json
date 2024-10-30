@@ -1,0 +1,13 @@
+{
+  "asn": 209427,
+  "handle": "NYCRO",
+  "description": "Nycro UG (haftungsbeschraenkt)",
+  "subnets": {
+    "ipv4": [
+      "45.66.90.0/23"
+    ],
+    "ipv6": [
+      "2a09:6644::/47"
+    ]
+  }
+}

@@ -4,6 +4,7 @@
   "description": "PANDA CONECT S.A.",
   "subnets": {
     "ipv4": [
+      "45.236.247.0/24",
       "138.59.164.0/22"
     ],
     "ipv6": [

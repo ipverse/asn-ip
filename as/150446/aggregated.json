@@ -1,0 +1,11 @@
+{
+  "asn": 150446,
+  "handle": "DATABOXPTYLTD-AP",
+  "description": "Databox Solutions",
+  "subnets": {
+    "ipv4": [
+      "103.42.63.0/24"
+    ],
+    "ipv6": []
+  }
+}

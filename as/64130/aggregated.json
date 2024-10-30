@@ -4,6 +4,7 @@
   "description": "M \u0026 B Soluciones Peru S.A.C. (FASTNET)",
   "subnets": {
     "ipv4": [
+      "148.222.229.0/24",
       "201.218.129.0/24"
     ],
     "ipv6": []

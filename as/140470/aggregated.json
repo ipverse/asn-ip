@@ -4,6 +4,7 @@
   "description": "PT Andalan Dinamika Informatika",
   "subnets": {
     "ipv4": [
+      "103.41.248.0/23",
       "103.159.196.0/23",
       "157.20.36.0/23"
     ],

@@ -4,6 +4,7 @@
   "description": "East Creek Networks",
   "subnets": {
     "ipv4": [
+      "64.135.32.0/22",
       "64.135.96.0/24"
     ],
     "ipv6": []

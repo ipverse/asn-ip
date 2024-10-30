@@ -1,0 +1,13 @@
+{
+  "asn": 55374,
+  "handle": "FJCLOUD-EAST",
+  "description": "FUJITSU LIMITED",
+  "subnets": {
+    "ipv4": [
+      "133.162.130.0/23",
+      "133.162.132.0/23",
+      "133.162.140.0/23"
+    ],
+    "ipv6": []
+  }
+}

@@ -4,7 +4,7 @@
   "description": "JSC Home Credit Bank",
   "subnets": {
     "ipv4": [
-      "192.64.44.0/24"
+      "192.64.44.0/23"
     ],
     "ipv6": []
   }

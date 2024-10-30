@@ -3,7 +3,10 @@
   "handle": "KEMMIT",
   "description": "Noah Kemm trading as KemmIT",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "5.83.155.0/24",
+      "77.90.61.0/24"
+    ],
     "ipv6": [
       "2a05:6c00::/32"
     ]

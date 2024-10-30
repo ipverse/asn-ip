@@ -4,6 +4,7 @@
   "description": "Dade Pardazi Mobinhost Co LTD",
   "subnets": {
     "ipv4": [
+      "185.3.124.0/24",
       "185.126.203.0/24"
     ],
     "ipv6": [

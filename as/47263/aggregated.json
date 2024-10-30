@@ -3,7 +3,9 @@
   "handle": "CUBEHOSTING1",
   "description": "Jesse Roehsler",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "77.90.37.0/24"
+    ],
     "ipv6": []
   }
 }
