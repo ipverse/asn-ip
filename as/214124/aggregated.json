@@ -1,0 +1,14 @@
+{
+  "asn": 214124,
+  "handle": "INTRAHOST",
+  "description": "Intrahost Solutions Ltd",
+  "subnets": {
+    "ipv4": [
+      "45.149.14.0/23",
+      "89.35.127.0/24",
+      "193.32.136.0/23",
+      "193.32.138.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -4,7 +4,8 @@
   "description": "Nuovo Pignone International S.r.l",
   "subnets": {
     "ipv4": [
-      "81.200.224.0/21"
+      "81.200.224.0/21",
+      "81.200.233.0/24"
     ],
     "ipv6": []
   }

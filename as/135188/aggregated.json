@@ -4,6 +4,7 @@
   "description": "E Net Entertainment Pvt Ltd",
   "subnets": {
     "ipv4": [
+      "38.80.32.0/20",
       "45.249.48.0/23",
       "45.249.51.0/24",
       "103.117.46.0/23",

@@ -1,0 +1,11 @@
+{
+  "asn": 9207,
+  "handle": "MARLINK-MPLS",
+  "description": "Marlink AS",
+  "subnets": {
+    "ipv4": [
+      "102.36.144.0/24"
+    ],
+    "ipv6": []
+  }
+}

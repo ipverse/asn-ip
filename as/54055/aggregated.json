@@ -3,7 +3,9 @@
   "handle": "RSNB-01",
   "description": "RSNB Bank",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "204.77.27.0/24"
+    ],
     "ipv6": []
   }
 }

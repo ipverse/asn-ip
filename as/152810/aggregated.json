@@ -4,7 +4,7 @@
   "description": "PT GALAXY SINERGI NETWORK",
   "subnets": {
     "ipv4": [
-      "160.22.134.0/24"
+      "160.22.134.0/23"
     ],
     "ipv6": [
       "2401:a5e0::/32"

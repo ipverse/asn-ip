@@ -1,9 +1,11 @@
 {
   "asn": 30482,
-  "handle": "PCAP-BOSTON",
-  "description": "Parthenon Capital, LLC",
+  "handle": "BTV",
+  "description": "Beaver TV Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "170.39.75.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -1,0 +1,11 @@
+{
+  "asn": 214083,
+  "handle": "NODEHUBLLC",
+  "description": "NodeHub LLC",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2001:678:db4::/48"
+    ]
+  }
+}

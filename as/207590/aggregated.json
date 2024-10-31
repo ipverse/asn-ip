@@ -4,6 +4,7 @@
   "description": "MATTEO FILIBERTO SCIACCA trading as LocLix",
   "subnets": {
     "ipv4": [
+      "89.45.44.0/24",
       "94.154.1.0/24"
     ],
     "ipv6": []

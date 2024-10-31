@@ -1,0 +1,11 @@
+{
+  "asn": 147296,
+  "handle": "TSE-AP",
+  "description": "TY Software Engineering",
+  "subnets": {
+    "ipv4": [
+      "103.174.136.0/23"
+    ],
+    "ipv6": []
+  }
+}
