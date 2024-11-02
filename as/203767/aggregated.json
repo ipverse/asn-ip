@@ -3,7 +3,9 @@
   "handle": "CLARITAS-A",
   "description": "Claritas Solutions Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.195.102.0/23"
+    ],
     "ipv6": []
   }
 }

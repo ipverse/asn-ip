@@ -1,9 +1,11 @@
 {
   "asn": 49707,
-  "handle": "MISTY",
+  "handle": "TESSAWORKS",
   "description": "Michael D\u0027mello",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2602:fba2:1::/48"
+    ]
   }
 }

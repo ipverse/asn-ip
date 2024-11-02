@@ -4,10 +4,10 @@
   "description": "JDA Net - SKYNET Teleinformatica",
   "subnets": {
     "ipv4": [
-      "168.195.88.0/22"
+      "168.195.88.0/23"
     ],
     "ipv6": [
-      "2804:3400::/32"
+      "2804:3400::/33"
     ]
   }
 }

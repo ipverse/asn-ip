@@ -1,9 +1,11 @@
 {
   "asn": 142614,
-  "handle": "LTO-AP",
-  "description": "Linya",
+  "handle": "DSIPL-AP",
+  "description": "Digital Sea",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.71.222.0/23"
+    ],
     "ipv6": []
   }
 }

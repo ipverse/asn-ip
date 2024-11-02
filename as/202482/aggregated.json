@@ -4,6 +4,7 @@
   "description": "Iteeco Cooperatie U.A.",
   "subnets": {
     "ipv4": [
+      "185.161.29.0/24",
       "185.161.31.0/24"
     ],
     "ipv6": []

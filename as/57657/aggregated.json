@@ -4,7 +4,8 @@
   "description": "Nicom Wireless Kft.",
   "subnets": {
     "ipv4": [
-      "37.17.160.0/22"
+      "37.17.160.0/23",
+      "37.17.163.0/24"
     ],
     "ipv6": []
   }

@@ -4,6 +4,7 @@
   "description": "Ethernic LLC",
   "subnets": {
     "ipv4": [
+      "23.171.176.0/24",
       "23.175.50.0/24"
     ],
     "ipv6": []
