@@ -4,7 +4,6 @@
   "description": "Sargasso N1 Limited",
   "subnets": {
     "ipv4": [
-      "194.88.13.0/24",
       "194.104.123.0/24"
     ],
     "ipv6": []

@@ -3,9 +3,7 @@
   "handle": "TYRAHOST",
   "description": "Association Securost",
   "subnets": {
-    "ipv4": [
-      "82.163.23.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

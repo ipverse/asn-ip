@@ -3,7 +3,9 @@
   "handle": "ECODE",
   "description": "Eduard Ilin",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "212.113.99.0/24"
+    ],
     "ipv6": []
   }
 }

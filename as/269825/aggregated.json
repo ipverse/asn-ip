@@ -3,7 +3,9 @@
   "handle": "UNIVERSIDAD-LAS-AMERICAS",
   "description": "UNIVERSIDAD DE LAS AMERICAS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.188.56.0/23"
+    ],
     "ipv6": [
       "2801:13:4800::/48"
     ]
