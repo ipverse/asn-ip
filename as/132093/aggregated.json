@@ -1,7 +1,7 @@
 {
   "asn": 132093,
-  "handle": "TRWH-AP",
-  "description": "The Royal Womens Hospital",
+  "handle": "APNIC-32-BIT",
+  "description": "APNIC 32-bit ASN block",
   "subnets": {
     "ipv4": [
       "203.21.88.0/22"

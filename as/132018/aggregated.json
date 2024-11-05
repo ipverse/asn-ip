@@ -1,7 +1,7 @@
 {
   "asn": 132018,
-  "handle": "NATIXIS1-AP2",
-  "description": "NATIXIS",
+  "handle": "APNIC-32-BIT",
+  "description": "APNIC 32-bit ASN block",
   "subnets": {
     "ipv4": [
       "103.21.192.0/24"

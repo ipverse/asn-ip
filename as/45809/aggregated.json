@@ -1,7 +1,7 @@
 {
   "asn": 45809,
   "handle": "NZRS-AP",
-  "description": "InternetNZ",
+  "description": "ASN for .nz registry content",
   "subnets": {
     "ipv4": [
       "103.70.24.0/22",

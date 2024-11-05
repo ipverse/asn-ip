@@ -1,7 +1,7 @@
 {
   "asn": 131241,
-  "handle": "ACLEDABANKPLC-AP",
-  "description": "ACLEDA Bank Plc.",
+  "handle": "APNIC-32-BIT",
+  "description": "APNIC 32-bit ASN block",
   "subnets": {
     "ipv4": [
       "103.83.162.0/23"

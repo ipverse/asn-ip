@@ -1,12 +1,9 @@
 {
   "asn": 136969,
-  "handle": "KKNETWROK-AP",
-  "description": "KK Networks (Pvt) Ltd.",
+  "handle": "RESERVED",
+  "description": "APNIC ASN block",
   "subnets": {
     "ipv4": [
-      "39.62.18.0/24",
-      "39.62.22.0/24",
-      "39.62.27.0/24",
       "103.12.198.0/24"
     ],
     "ipv6": []

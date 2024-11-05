@@ -1,11 +1,10 @@
 {
   "asn": 136257,
-  "handle": "NEWCNSONLINE-AP",
-  "description": "New CNS Online",
+  "handle": "RESERVED",
+  "description": "APNIC ASN block",
   "subnets": {
     "ipv4": [
-      "103.85.112.0/23",
-      "103.85.115.0/24"
+      "103.85.112.0/23"
     ],
     "ipv6": []
   }

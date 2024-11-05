@@ -1,7 +1,7 @@
 {
   "asn": 135554,
-  "handle": "LINK-AP",
-  "description": "Link Line",
+  "handle": "RESERVED",
+  "description": "APNIC ASN block",
   "subnets": {
     "ipv4": [
       "103.123.33.0/24",

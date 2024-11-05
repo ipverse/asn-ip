@@ -1,7 +1,7 @@
 {
   "asn": 131199,
-  "handle": "NEXEON-AP",
-  "description": "Nexeon Technologies, Inc.",
+  "handle": "APNIC-32-BIT",
+  "description": "APNIC 32-bit ASN block",
   "subnets": {
     "ipv4": [
       "5.104.76.0/24",

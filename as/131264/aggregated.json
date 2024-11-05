@@ -1,7 +1,7 @@
 {
   "asn": 131264,
-  "handle": "FSIPL-AP",
-  "description": "Functional Solutions PTY LTD",
+  "handle": "APNIC-32-BIT",
+  "description": "APNIC 32-bit ASN block",
   "subnets": {
     "ipv4": [
       "103.111.78.0/24"

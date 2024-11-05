@@ -3,10 +3,7 @@
   "handle": "SEANET",
   "description": "Bravo Online Systems LLC",
   "subnets": {
-    "ipv4": [
-      "31.171.96.0/23",
-      "31.171.98.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

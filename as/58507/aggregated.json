@@ -1,7 +1,7 @@
 {
   "asn": 58507,
-  "handle": "WL-AP",
-  "description": "Wireline",
+  "handle": "RESERVED",
+  "description": "APNIC ASN block",
   "subnets": {
     "ipv4": [
       "103.1.188.0/22",

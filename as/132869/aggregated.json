@@ -1,7 +1,7 @@
 {
   "asn": 132869,
-  "handle": "MANETWORKSERVICE-AP",
-  "description": "M.A Network Service",
+  "handle": "RESERVED",
+  "description": "APNIC ASN block",
   "subnets": {
     "ipv4": [
       "103.97.204.0/23"

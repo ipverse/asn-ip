@@ -3,7 +3,9 @@
   "handle": "SC-NETWORK",
   "description": "Sicheng Li",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "44.32.131.0/24"
+    ],
     "ipv6": [
       "2406:840:9690::/46",
       "2406:840:9698::/46",

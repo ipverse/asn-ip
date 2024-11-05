@@ -1,7 +1,7 @@
 {
   "asn": 131473,
-  "handle": "SRMU-GROUP-IN",
-  "description": "SRM University",
+  "handle": "APNIC-32-BIT",
+  "description": "APNIC 32-bit ASN block",
   "subnets": {
     "ipv4": [
       "103.4.220.0/22"

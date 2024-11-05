@@ -3,9 +3,7 @@
   "handle": "STAVCOM",
   "description": "LLC STAVCOM",
   "subnets": {
-    "ipv4": [
-      "91.221.189.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

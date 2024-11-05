@@ -1,10 +1,11 @@
 {
   "asn": 137460,
-  "handle": "BIZTACTIX-AP",
-  "description": "Biztactix Pty Ltd",
+  "handle": "RESERVED",
+  "description": "APNIC ASN block",
   "subnets": {
     "ipv4": [
-      "103.109.140.0/22"
+      "103.109.141.0/24",
+      "103.109.143.0/24"
     ],
     "ipv6": []
   }

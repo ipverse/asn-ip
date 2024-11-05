@@ -1,9 +1,10 @@
 {
   "asn": 9825,
   "handle": "SDNP-BD",
-  "description": "SDNP Bangladesh",
+  "description": "Sustainable Development Networking Program",
   "subnets": {
     "ipv4": [
+      "103.74.230.0/24",
       "103.209.198.0/24",
       "202.59.208.0/22"
     ],

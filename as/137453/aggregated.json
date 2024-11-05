@@ -1,11 +1,10 @@
 {
   "asn": 137453,
-  "handle": "ORANGE2-AP",
-  "description": "Orange Communication",
+  "handle": "RESERVED",
+  "description": "APNIC ASN block",
   "subnets": {
     "ipv4": [
       "103.7.123.0/24",
-      "103.74.230.0/24",
       "103.109.93.0/24",
       "103.109.94.0/24",
       "103.144.105.0/24",

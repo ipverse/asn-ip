@@ -1,0 +1,13 @@
+{
+  "asn": 215399,
+  "handle": "INTILITY-AB",
+  "description": "Intility AB",
+  "subnets": {
+    "ipv4": [
+      "194.62.45.0/24"
+    ],
+    "ipv6": [
+      "2001:67c:e18::/48"
+    ]
+  }
+}

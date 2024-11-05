@@ -1,7 +1,7 @@
 {
   "asn": 131243,
-  "handle": "F-AP",
-  "description": "F N S",
+  "handle": "APNIC-32-BIT",
+  "description": "APNIC 32-bit ASN block",
   "subnets": {
     "ipv4": [
       "103.41.114.0/23",

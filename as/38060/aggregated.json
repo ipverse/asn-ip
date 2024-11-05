@@ -1,7 +1,7 @@
 {
   "asn": 38060,
   "handle": "BIZNET-IXP-INA-AP",
-  "description": "BIZNET",
+  "description": "Biznet NAP - Internet Exchange Provider",
   "subnets": {
     "ipv4": [
       "118.99.123.0/24",

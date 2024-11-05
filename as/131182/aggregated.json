@@ -1,7 +1,7 @@
 {
   "asn": 131182,
-  "handle": "CROSSPOINT-AP",
-  "description": "Crosspoint Telecommunications Pty Ltd",
+  "handle": "APNIC-32-BIT",
+  "description": "APNIC 32-bit ASN block",
   "subnets": {
     "ipv4": [
       "103.36.248.0/23"

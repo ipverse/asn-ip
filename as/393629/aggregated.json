@@ -3,7 +3,9 @@
   "handle": "GDGR",
   "description": "Green Dot Grenada Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "201.221.88.0/22"
+    ],
     "ipv6": []
   }
 }

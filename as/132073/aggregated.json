@@ -1,7 +1,7 @@
 {
   "asn": 132073,
-  "handle": "WAVENET-AP",
-  "description": "Wave Net",
+  "handle": "APNIC-32-BIT",
+  "description": "APNIC 32-bit ASN block",
   "subnets": {
     "ipv4": [
       "103.186.52.0/23"

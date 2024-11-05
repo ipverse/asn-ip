@@ -1,7 +1,7 @@
 {
   "asn": 56266,
   "handle": "NETNOD-AP",
-  "description": "Netnod Internet Exchange",
+  "description": "Netnod anycast AS for APNIC",
   "subnets": {
     "ipv4": [],
     "ipv6": []

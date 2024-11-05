@@ -1,13 +1,11 @@
 {
   "asn": 136636,
-  "handle": "RSBI",
-  "description": "Sharplink Wireless Solution Pvt Ltd",
+  "handle": "RESERVED",
+  "description": "APNIC ASN block",
   "subnets": {
     "ipv4": [
       "103.101.108.0/22"
     ],
-    "ipv6": [
-      "2001:df4:5a40::/48"
-    ]
+    "ipv6": []
   }
 }

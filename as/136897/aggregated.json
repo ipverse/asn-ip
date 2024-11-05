@@ -1,7 +1,7 @@
 {
   "asn": 136897,
-  "handle": "ENJOYVC-AP",
-  "description": "Enjoyvc Cloud Group Limited.",
+  "handle": "RESERVED",
+  "description": "APNIC ASN block",
   "subnets": {
     "ipv4": [
       "8.23.132.0/24",
@@ -21,6 +21,7 @@
       "61.110.11.0/24",
       "61.110.27.0/24",
       "66.160.191.0/24",
+      "103.39.110.0/24",
       "103.59.49.0/24",
       "103.59.51.0/24",
       "103.97.32.0/22",

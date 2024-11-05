@@ -4,7 +4,8 @@
   "description": "Mizban Dadeh Pardis .Ltd",
   "subnets": {
     "ipv4": [
-      "88.218.16.0/24"
+      "88.218.16.0/24",
+      "193.228.168.0/23"
     ],
     "ipv6": []
   }

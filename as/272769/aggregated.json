@@ -3,7 +3,9 @@
   "handle": "MEG-REGATIERI",
   "description": "M.E.G REGATIERI - ME",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.210.239.0/24"
+    ],
     "ipv6": [
       "2804:8868::/32"
     ]

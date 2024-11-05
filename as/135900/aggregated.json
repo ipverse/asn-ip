@@ -1,7 +1,7 @@
 {
   "asn": 135900,
-  "handle": "HNSDC-VN",
-  "description": "HaNoi State data center",
+  "handle": "RESERVED",
+  "description": "VNNIC-4byte-ASBLOCK-AP",
   "subnets": {
     "ipv4": [
       "103.205.100.0/22"

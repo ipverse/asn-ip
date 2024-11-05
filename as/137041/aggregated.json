@@ -1,7 +1,7 @@
 {
   "asn": 137041,
-  "handle": "SERVER-GROUP-AP",
-  "description": "Server Group BD",
+  "handle": "RESERVED",
+  "description": "APNIC ASN block",
   "subnets": {
     "ipv4": [
       "103.102.236.0/22"

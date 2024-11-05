@@ -1,13 +1,14 @@
 {
   "asn": 137409,
-  "handle": "GSLNETWORKS-AP",
-  "description": "GSL Networks Pty LTD",
+  "handle": "RESERVED",
+  "description": "APNIC ASN block",
   "subnets": {
     "ipv4": [
       "5.180.179.0/24",
       "5.252.80.0/24",
       "23.26.42.0/23",
       "23.26.237.0/24",
+      "23.27.69.0/24",
       "23.27.92.0/24",
       "31.135.4.0/23",
       "31.217.248.0/24",

@@ -1,7 +1,7 @@
 {
   "asn": 17557,
   "handle": "PKTELECOM-PK",
-  "description": "Pakistan Telecommuication company limited",
+  "description": "Pakistan Telecommunication Company Limited",
   "subnets": {
     "ipv4": [
       "39.32.0.0/11",
@@ -18,7 +18,9 @@
       "154.198.13.0/24",
       "182.176.0.0/12",
       "202.70.144.0/20",
-      "202.125.128.0/21",
+      "202.125.130.0/24",
+      "202.125.132.0/24",
+      "202.125.134.0/24",
       "202.125.136.0/24",
       "202.125.139.0/24",
       "202.125.140.0/23",

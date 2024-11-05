@@ -4,8 +4,6 @@
   "description": "Netiface LLC",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2a12:1900::/29"
-    ]
+    "ipv6": []
   }
 }

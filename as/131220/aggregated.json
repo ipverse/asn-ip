@@ -1,7 +1,7 @@
 {
   "asn": 131220,
-  "handle": "FMBL-AP",
-  "description": "FINCA Microfinance Bank Limited",
+  "handle": "APNIC-32-BIT",
+  "description": "APNIC 32-bit ASN block",
   "subnets": {
     "ipv4": [
       "103.215.112.0/24"

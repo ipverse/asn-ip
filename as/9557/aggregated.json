@@ -1,7 +1,7 @@
 {
   "asn": 9557,
   "handle": "PKTELECOM-PK",
-  "description": "Pakistan Telecommuication company limited",
+  "description": "Paknet Limited Merged into PTCL",
   "subnets": {
     "ipv4": [
       "43.225.99.0/24",
@@ -10,9 +10,7 @@
       "202.70.144.0/23",
       "202.70.150.0/23",
       "202.70.152.0/24",
-      "202.125.131.0/24",
-      "202.125.133.0/24",
-      "202.125.136.0/21",
+      "202.125.128.0/20",
       "203.135.8.0/23",
       "203.135.39.0/24",
       "203.135.40.0/24",

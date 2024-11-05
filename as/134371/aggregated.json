@@ -1,7 +1,7 @@
 {
   "asn": 134371,
   "handle": "CIRCLENETWORK-BD",
-  "description": "CIRCLE NETWORK",
+  "description": "CIRCLE NETWORK BANGLADESH",
   "subnets": {
     "ipv4": [
       "103.18.204.0/23",
@@ -10,8 +10,7 @@
       "103.143.138.0/24",
       "103.243.238.0/24",
       "160.25.8.0/23",
-      "202.136.88.0/23",
-      "202.136.90.0/24",
+      "202.136.88.0/22",
       "203.31.169.0/24"
     ],
     "ipv6": [

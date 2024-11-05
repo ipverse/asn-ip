@@ -1,7 +1,7 @@
 {
   "asn": 131467,
-  "handle": "EGNC",
-  "description": "Unified National Networks",
+  "handle": "APNIC-32-BIT",
+  "description": "APNIC 32-bit ASN block",
   "subnets": {
     "ipv4": [
       "103.4.188.0/22"
