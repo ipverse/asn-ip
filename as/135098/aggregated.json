@@ -1,7 +1,7 @@
 {
   "asn": 135098,
-  "handle": "RESERVED",
-  "description": "APNIC ASN block",
+  "handle": "BSN-AP",
+  "description": "Bright Star Network",
   "subnets": {
     "ipv4": [
       "103.170.184.0/24"

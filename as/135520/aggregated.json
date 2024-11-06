@@ -1,7 +1,7 @@
 {
   "asn": 135520,
-  "handle": "RESERVED",
-  "description": "APNIC ASN block",
+  "handle": "OVERTHEWIRE-AU",
+  "description": "Over the Wire Pty Ltd",
   "subnets": {
     "ipv4": [
       "192.43.226.0/24"

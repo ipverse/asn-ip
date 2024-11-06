@@ -1,0 +1,11 @@
+{
+  "asn": 1786,
+  "handle": "AIXSERV",
+  "description": "IBM",
+  "subnets": {
+    "ipv4": [
+      "170.225.221.0/24"
+    ],
+    "ipv6": []
+  }
+}

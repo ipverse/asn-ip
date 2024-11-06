@@ -1,7 +1,7 @@
 {
   "asn": 136045,
-  "handle": "RESERVED",
-  "description": "APNIC ASN block",
+  "handle": "DOWNSTREAM-AP",
+  "description": "Downstream Connect",
   "subnets": {
     "ipv4": [
       "103.168.218.0/24"

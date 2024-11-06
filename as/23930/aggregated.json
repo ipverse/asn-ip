@@ -1,7 +1,7 @@
 {
   "asn": 23930,
-  "handle": "RESERVED",
-  "description": "APNIC ASN block",
+  "handle": "VITROINC-AP",
+  "description": "VITRO Inc.",
   "subnets": {
     "ipv4": [
       "1.255.34.0/23",

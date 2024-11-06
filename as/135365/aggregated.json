@@ -1,7 +1,7 @@
 {
   "asn": 135365,
-  "handle": "RESERVED",
-  "description": "APNIC ASN block",
+  "handle": "SMIRITY-AP",
+  "description": "Smirity Cable",
   "subnets": {
     "ipv4": [
       "103.253.176.0/24"

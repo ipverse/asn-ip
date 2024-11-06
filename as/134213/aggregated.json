@@ -1,7 +1,7 @@
 {
   "asn": 134213,
-  "handle": "RESERVED",
-  "description": "APNIC ASN block",
+  "handle": "NCC-AP",
+  "description": "Netify Communications Corp.",
   "subnets": {
     "ipv4": [
       "103.191.106.0/23"

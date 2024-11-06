@@ -3,7 +3,9 @@
   "handle": "LEEMON",
   "description": "Leemon Professional Consultant",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.67.161.0/24"
+    ],
     "ipv6": []
   }
 }

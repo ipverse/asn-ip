@@ -1,7 +1,7 @@
 {
   "asn": 55943,
-  "handle": "RESERVED",
-  "description": "APNIC ASN block",
+  "handle": "ONATI-AP",
+  "description": "ONATI",
   "subnets": {
     "ipv4": [
       "64.140.144.0/20",

@@ -1,7 +1,7 @@
 {
   "asn": 17551,
-  "handle": "RESERVED",
-  "description": "APNIC ASN block",
+  "handle": "ANYCAST-AP",
+  "description": "Anycast Holdings Pty Ltd",
   "subnets": {
     "ipv4": [
       "14.192.56.0/22",

@@ -1,7 +1,7 @@
 {
   "asn": 132159,
-  "handle": "RESERVED",
-  "description": "APNIC ASN block",
+  "handle": "NCON-AP",
+  "description": "Noor Communication Online Network",
   "subnets": {
     "ipv4": [
       "103.80.78.0/23"

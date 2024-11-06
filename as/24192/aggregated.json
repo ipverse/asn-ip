@@ -1,7 +1,7 @@
 {
   "asn": 24192,
-  "handle": "RESERVED",
-  "description": "APNIC ASN block",
+  "handle": "SOLARIX-INTERNET-AP",
+  "description": "Solarix Networks Limited",
   "subnets": {
     "ipv4": [
       "103.7.168.0/22",

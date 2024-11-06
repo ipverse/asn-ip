@@ -1,7 +1,7 @@
 {
   "asn": 137309,
-  "handle": "RESERVED",
-  "description": "APNIC ASN block",
+  "handle": "IDNIC-ALTO-ID",
+  "description": "PT ALTO Network",
   "subnets": {
     "ipv4": [
       "103.108.127.0/24",

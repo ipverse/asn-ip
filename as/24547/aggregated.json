@@ -1,7 +1,7 @@
 {
   "asn": 24547,
   "handle": "CMNET-V4HEBEI-AP",
-  "description": "Hebei Mobile Communication Company Limited",
+  "description": "China Mobile",
   "subnets": {
     "ipv4": [
       "36.134.82.0/23",
@@ -60,6 +60,7 @@
       "2409:8087:400::/38",
       "2409:8087:800::/38",
       "2409:8704::/31",
+      "2409:870b::/32",
       "2409:8808::/40",
       "2409:8904::/30",
       "2409:8980:800::/43",

@@ -1,7 +1,7 @@
 {
   "asn": 137033,
-  "handle": "RESERVED",
-  "description": "APNIC ASN block",
+  "handle": "RSMNETWORK-AP",
+  "description": "RSM Network",
   "subnets": {
     "ipv4": [
       "103.149.72.0/23"

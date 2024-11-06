@@ -1,7 +1,7 @@
 {
   "asn": 135559,
-  "handle": "RESERVED",
-  "description": "APNIC ASN block",
+  "handle": "SERENITY-AP",
+  "description": "Athena Networks",
   "subnets": {
     "ipv4": [
       "160.30.37.0/24"

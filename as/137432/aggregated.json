@@ -1,7 +1,7 @@
 {
   "asn": 137432,
-  "handle": "RESERVED",
-  "description": "APNIC ASN block",
+  "handle": "BKBNET-AP",
+  "description": "B.K.B Network",
   "subnets": {
     "ipv4": [
       "103.108.88.0/22"

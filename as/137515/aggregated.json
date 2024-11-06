@@ -1,7 +1,7 @@
 {
   "asn": 137515,
-  "handle": "RESERVED",
-  "description": "APNIC ASN block",
+  "handle": "FRC-AP",
+  "description": "F.R.Communication",
   "subnets": {
     "ipv4": [
       "103.111.120.0/22"

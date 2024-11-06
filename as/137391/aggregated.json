@@ -1,7 +1,7 @@
 {
   "asn": 137391,
-  "handle": "RESERVED",
-  "description": "APNIC ASN block",
+  "handle": "RINGS3-AP",
+  "description": "Rings-3",
   "subnets": {
     "ipv4": [
       "103.72.213.0/24"

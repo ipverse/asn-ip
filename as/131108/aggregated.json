@@ -1,7 +1,7 @@
 {
   "asn": 131108,
-  "handle": "APNIC-32-BIT",
-  "description": "APNIC 32-bit ASN block",
+  "handle": "SHERPURNETWORK-AP",
+  "description": "Sherpur Network",
   "subnets": {
     "ipv4": [
       "160.30.62.0/24"

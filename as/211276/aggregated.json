@@ -4,7 +4,8 @@
   "description": "BASE DIGITALE PLATFORM S.P.A.",
   "subnets": {
     "ipv4": [
-      "185.71.45.0/24"
+      "185.71.45.0/24",
+      "185.183.69.0/24"
     ],
     "ipv6": []
   }

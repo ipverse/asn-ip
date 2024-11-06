@@ -1,7 +1,7 @@
 {
   "asn": 137243,
-  "handle": "RESERVED",
-  "description": "APNIC ASN block",
+  "handle": "ISI-AP",
+  "description": "ISI.nc",
   "subnets": {
     "ipv4": [
       "103.105.191.0/24"

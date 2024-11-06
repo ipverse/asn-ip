@@ -1,7 +1,7 @@
 {
   "asn": 131216,
-  "handle": "APNIC-32-BIT",
-  "description": "APNIC 32-bit ASN block",
+  "handle": "AUTHENTICNETWORK-AP",
+  "description": "Authentic Network",
   "subnets": {
     "ipv4": [
       "103.127.85.0/24",

@@ -1,7 +1,7 @@
 {
   "asn": 134457,
-  "handle": "RESERVED",
-  "description": "APNIC ASN block",
+  "handle": "BSAPPL-AP",
+  "description": "BMC Software Asia Pacific Pte Ltd",
   "subnets": {
     "ipv4": [
       "103.160.104.0/24"

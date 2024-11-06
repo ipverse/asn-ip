@@ -1,7 +1,7 @@
 {
   "asn": 136000,
-  "handle": "RESERVED",
-  "description": "APNIC ASN block",
+  "handle": "LIGHTNING-AP",
+  "description": "Lightning Broadband Pty Ltd",
   "subnets": {
     "ipv4": [
       "103.21.4.0/23",

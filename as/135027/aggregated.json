@@ -1,7 +1,7 @@
 {
   "asn": 135027,
-  "handle": "RESERVED",
-  "description": "APNIC ASN block",
+  "handle": "VIRTUALPLATFORM-AP",
+  "description": "Virtualplatform",
   "subnets": {
     "ipv4": [
       "103.219.62.0/23",

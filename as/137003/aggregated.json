@@ -1,7 +1,7 @@
 {
   "asn": 137003,
-  "handle": "RESERVED",
-  "description": "APNIC ASN block",
+  "handle": "INSEAD1-AP",
+  "description": "INSEAD",
   "subnets": {
     "ipv4": [
       "103.101.238.0/24",

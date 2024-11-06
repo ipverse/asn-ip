@@ -1,7 +1,7 @@
 {
   "asn": 135313,
-  "handle": "RESERVED",
-  "description": "APNIC ASN block",
+  "handle": "TELSTRA-AP",
+  "description": "Telstra Corporation Limited",
   "subnets": {
     "ipv4": [
       "103.215.22.0/24"

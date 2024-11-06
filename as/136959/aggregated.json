@@ -1,7 +1,7 @@
 {
   "asn": 136959,
-  "handle": "RESERVED",
-  "description": "APNIC ASN block",
+  "handle": "UNICOM-FUOSHAN-IDC",
+  "description": "China Unicom Guangdong IP network",
   "subnets": {
     "ipv4": [
       "27.36.113.0/24",

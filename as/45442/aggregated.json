@@ -1,7 +1,7 @@
 {
   "asn": 45442,
-  "handle": "RESERVED",
-  "description": "APNIC ASN block",
+  "handle": "DPS-MEM-AP",
+  "description": "Department of Parliamentary Services",
   "subnets": {
     "ipv4": [
       "164.75.64.0/20",

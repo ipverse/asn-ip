@@ -1,7 +1,7 @@
 {
   "asn": 133551,
-  "handle": "RESERVED",
-  "description": "APNIC ASN block",
+  "handle": "ORIGINNET-AP",
+  "description": "OriginNet",
   "subnets": {
     "ipv4": [
       "103.48.1.0/24",

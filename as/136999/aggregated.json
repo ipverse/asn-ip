@@ -1,7 +1,7 @@
 {
   "asn": 136999,
-  "handle": "RESERVED",
-  "description": "APNIC ASN block",
+  "handle": "SKYLINK-AP",
+  "description": "Skylink Broadband Internet",
   "subnets": {
     "ipv4": [
       "103.101.196.0/24",

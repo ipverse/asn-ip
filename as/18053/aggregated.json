@@ -1,7 +1,7 @@
 {
   "asn": 18053,
-  "handle": "RESERVED",
-  "description": "APNIC ASN block",
+  "handle": "SNET-AP",
+  "description": "Special Communication Organization",
   "subnets": {
     "ipv4": [
       "103.137.24.0/22",

@@ -1,7 +1,7 @@
 {
   "asn": 137035,
-  "handle": "RESERVED",
-  "description": "APNIC ASN block",
+  "handle": "PWCS-AP",
+  "description": "Parallel Web Cloud Services",
   "subnets": {
     "ipv4": [
       "103.102.234.0/24"

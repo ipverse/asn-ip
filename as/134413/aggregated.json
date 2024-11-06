@@ -1,7 +1,7 @@
 {
   "asn": 134413,
-  "handle": "RESERVED",
-  "description": "APNIC ASN block",
+  "handle": "KMNIX-AP",
+  "description": "KMNIX LLC",
   "subnets": {
     "ipv4": [
       "123.253.224.0/23"

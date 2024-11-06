@@ -1,7 +1,7 @@
 {
   "asn": 134562,
-  "handle": "RESERVED",
-  "description": "APNIC ASN block",
+  "handle": "DISCOVERY-INTERNET-AP",
+  "description": "Discovery Internet",
   "subnets": {
     "ipv4": [
       "103.31.11.0/24",

@@ -1,7 +1,7 @@
 {
   "asn": 132490,
-  "handle": "RESERVED",
-  "description": "APNIC ASN block",
+  "handle": "MBSM-AP",
+  "description": "Mbsm Enterprise",
   "subnets": {
     "ipv4": [
       "103.183.140.0/23"

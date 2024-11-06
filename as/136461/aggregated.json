@@ -1,7 +1,7 @@
 {
   "asn": 136461,
-  "handle": "RESERVED",
-  "description": "APNIC ASN block",
+  "handle": "VNP-AP",
+  "description": "Virtual Network Pvt.Ltd",
   "subnets": {
     "ipv4": [
       "160.30.32.0/23"

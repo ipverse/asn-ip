@@ -1,7 +1,7 @@
 {
   "asn": 17823,
-  "handle": "RESERVED",
-  "description": "APNIC ASN block",
+  "handle": "THNIC-ASN-AP",
+  "description": "T.H.NIC Co.,Ltd.",
   "subnets": {
     "ipv4": [
       "103.155.66.0/24",

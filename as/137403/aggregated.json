@@ -1,7 +1,7 @@
 {
   "asn": 137403,
-  "handle": "RESERVED",
-  "description": "APNIC ASN block",
+  "handle": "SALTSYNC-AP",
+  "description": "Saltsync",
   "subnets": {
     "ipv4": [
       "103.107.160.0/22",

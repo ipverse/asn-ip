@@ -1,7 +1,7 @@
 {
   "asn": 136451,
-  "handle": "RESERVED",
-  "description": "APNIC ASN block",
+  "handle": "NNC-AP",
+  "description": "Nur Network Communication",
   "subnets": {
     "ipv4": [
       "103.184.136.0/24",

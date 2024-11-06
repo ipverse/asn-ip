@@ -1,0 +1,11 @@
+{
+  "asn": 14555,
+  "handle": "LIQUIDNETLTD1",
+  "description": "LiquidNet US LLC",
+  "subnets": {
+    "ipv4": [
+      "170.10.168.0/21"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,7 +1,7 @@
 {
   "asn": 135099,
-  "handle": "RESERVED",
-  "description": "APNIC ASN block",
+  "handle": "YOURHUB-AP",
+  "description": "YOURHUB",
   "subnets": {
     "ipv4": [
       "103.234.14.0/23"

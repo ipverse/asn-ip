@@ -1,7 +1,7 @@
 {
   "asn": 137067,
-  "handle": "RESERVED",
-  "description": "APNIC ASN block",
+  "handle": "FLASHNET-AP",
+  "description": "Flashnet Enterprise",
   "subnets": {
     "ipv4": [
       "103.149.56.0/23"

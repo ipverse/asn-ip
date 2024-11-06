@@ -1,7 +1,7 @@
 {
   "asn": 45285,
   "handle": "NZ-NS2-AP",
-  "description": "ASN for anycast peering",
+  "description": "InternetNZ",
   "subnets": {
     "ipv4": [
       "202.46.181.0/24",

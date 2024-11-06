@@ -4,6 +4,7 @@
   "description": "Joey Julian Koenig trading as PathConnect GbR",
   "subnets": {
     "ipv4": [
+      "140.235.4.0/24",
       "193.105.29.0/24"
     ],
     "ipv6": [

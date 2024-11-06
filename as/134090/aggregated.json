@@ -1,7 +1,7 @@
 {
   "asn": 134090,
-  "handle": "RESERVED",
-  "description": "APNIC ASN block",
+  "handle": "LEAP-AP",
+  "description": "Leaptel",
   "subnets": {
     "ipv4": [
       "45.249.116.0/22",

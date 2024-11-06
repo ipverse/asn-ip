@@ -1,7 +1,7 @@
 {
   "asn": 133670,
-  "handle": "RESERVED",
-  "description": "APNIC ASN block",
+  "handle": "RJSERVICE-IN",
+  "description": "RJ SERVICES",
   "subnets": {
     "ipv4": [
       "103.100.245.0/24"

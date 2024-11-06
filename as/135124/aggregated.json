@@ -1,7 +1,7 @@
 {
   "asn": 135124,
-  "handle": "RESERVED",
-  "description": "APNIC ASN block",
+  "handle": "GSC-AP",
+  "description": "Green Surma Communications",
   "subnets": {
     "ipv4": [
       "103.135.172.0/24",

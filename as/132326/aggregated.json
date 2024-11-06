@@ -1,7 +1,7 @@
 {
   "asn": 132326,
-  "handle": "RESERVED",
-  "description": "APNIC ASN block",
+  "handle": "NGSB-AP",
+  "description": "NexGen Global Sdn Bhd",
   "subnets": {
     "ipv4": [
       "103.12.144.0/22"

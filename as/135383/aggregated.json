@@ -1,7 +1,7 @@
 {
   "asn": 135383,
-  "handle": "RESERVED",
-  "description": "APNIC ASN block",
+  "handle": "CLOUDWARE-AP",
+  "description": "Cloudware Technologies Private Limited",
   "subnets": {
     "ipv4": [
       "103.255.64.0/23"

@@ -1,7 +1,7 @@
 {
   "asn": 38461,
-  "handle": "RESERVED",
-  "description": "APNIC ASN block",
+  "handle": "CAPGEMINITECH-AP",
+  "description": "Capgemini Technology Services India Limited",
   "subnets": {
     "ipv4": [
       "123.242.240.0/22",

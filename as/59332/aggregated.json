@@ -1,7 +1,7 @@
 {
   "asn": 59332,
-  "handle": "RESERVED",
-  "description": "APNIC ASN block",
+  "handle": "MYNETLIMITED-BD",
+  "description": "Mynet",
   "subnets": {
     "ipv4": [
       "103.228.0.0/23"

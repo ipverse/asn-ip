@@ -3,9 +3,7 @@
   "handle": "SECURITY-CODE",
   "description": "Kod Bezopasnosti LLC",
   "subnets": {
-    "ipv4": [
-      "93.177.106.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

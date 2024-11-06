@@ -1,7 +1,7 @@
 {
   "asn": 135978,
-  "handle": "RESERVED",
-  "description": "VNNIC-4byte-ASBLOCK-AP",
+  "handle": "HAUI-VN",
+  "description": "Hanoi University of Industry",
   "subnets": {
     "ipv4": [
       "103.140.38.0/23"

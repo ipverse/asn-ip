@@ -1,7 +1,7 @@
 {
   "asn": 137341,
-  "handle": "RESERVED",
-  "description": "APNIC ASN block",
+  "handle": "WHEEHOST-ID",
+  "description": "WHEEHOST",
   "subnets": {
     "ipv4": [
       "103.28.22.0/23"

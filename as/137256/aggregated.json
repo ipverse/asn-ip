@@ -1,12 +1,13 @@
 {
   "asn": 137256,
-  "handle": "RESERVED",
-  "description": "APNIC ASN block",
+  "handle": "CATIO-NETWORK-AP",
+  "description": "CatIO Network",
   "subnets": {
     "ipv4": [],
     "ipv6": [
       "2402:3180::/48",
       "2602:feda:1d1::/48",
+      "2602:feda:1df::/48",
       "2a0b:2542::/48",
       "2a0e:b107:c10::/48"
     ]

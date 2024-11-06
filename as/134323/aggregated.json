@@ -1,7 +1,7 @@
 {
   "asn": 134323,
-  "handle": "RESERVED",
-  "description": "APNIC ASN block",
+  "handle": "UNIQUENET-IN",
+  "description": "UNIQUE NET SERVICE",
   "subnets": {
     "ipv4": [
       "103.177.0.0/23"

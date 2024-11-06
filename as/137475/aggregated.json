@@ -1,7 +1,7 @@
 {
   "asn": 137475,
-  "handle": "RESERVED",
-  "description": "APNIC ASN block",
+  "handle": "SNISP-AP",
+  "description": "Shah Net Internet Services Provider",
   "subnets": {
     "ipv4": [
       "103.151.88.0/24"

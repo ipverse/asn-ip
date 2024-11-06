@@ -1,7 +1,7 @@
 {
   "asn": 134780,
-  "handle": "RESERVED",
-  "description": "APNIC ASN block",
+  "handle": "LOWSPEEDNETWORK-AP",
+  "description": "Low Speed Network",
   "subnets": {
     "ipv4": [
       "103.149.1.0/24"

@@ -1,7 +1,7 @@
 {
   "asn": 132290,
-  "handle": "RESERVED",
-  "description": "APNIC ASN block",
+  "handle": "THENET-AP",
+  "description": "The Net",
   "subnets": {
     "ipv4": [
       "103.140.82.0/23"

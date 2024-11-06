@@ -1,7 +1,7 @@
 {
   "asn": 137320,
-  "handle": "RESERVED",
-  "description": "APNIC ASN block",
+  "handle": "ISP-ID",
+  "description": "PT. Internet Service Provider",
   "subnets": {
     "ipv4": [
       "103.110.120.0/22"

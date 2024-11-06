@@ -1,7 +1,7 @@
 {
   "asn": 132335,
-  "handle": "RESERVED",
-  "description": "APNIC ASN block",
+  "handle": "LEAPSWITCH-IN-AP",
+  "description": "LEAPSWITCH NETWORKS PRIVATE LIMITED",
   "subnets": {
     "ipv4": [
       "31.57.145.0/24",
@@ -59,7 +59,6 @@
       "2001:df3:8880::/48",
       "2001:df7:6880::/48",
       "2400:ffc0:4::/47",
-      "2404:f980:5::/48",
       "2405:7140::/47",
       "2606:1a40:2017::/48"
     ]

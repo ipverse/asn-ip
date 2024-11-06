@@ -1,7 +1,7 @@
 {
   "asn": 7497,
-  "handle": "RESERVED",
-  "description": "APNIC ASN block",
+  "handle": "CSTNET-AP",
+  "description": "CNIC-CAS",
   "subnets": {
     "ipv4": [
       "60.245.128.0/17",

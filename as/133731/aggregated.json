@@ -1,7 +1,7 @@
 {
   "asn": 133731,
-  "handle": "RESERVED",
-  "description": "APNIC ASN block",
+  "handle": "CLOUDIE-AP",
+  "description": "Cloudie Limited",
   "subnets": {
     "ipv4": [
       "103.107.110.0/24",

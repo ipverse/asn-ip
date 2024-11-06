@@ -1,7 +1,7 @@
 {
   "asn": 137375,
-  "handle": "RESERVED",
-  "description": "APNIC ASN block",
+  "handle": "ISP-NET-ID",
+  "description": "PT Internet Solusi Prima",
   "subnets": {
     "ipv4": [
       "103.118.184.0/22"

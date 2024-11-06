@@ -1,7 +1,7 @@
 {
   "asn": 137483,
-  "handle": "RESERVED",
-  "description": "APNIC ASN block",
+  "handle": "RD-NETWORK-AP",
+  "description": "RD Network",
   "subnets": {
     "ipv4": [
       "202.144.201.0/24"

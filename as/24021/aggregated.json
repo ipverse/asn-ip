@@ -1,11 +1,9 @@
 {
   "asn": 24021,
   "handle": "APNICRANDNET-TUI-AU",
-  "description": "TUI experiment",
+  "description": "APNIC Research and Development",
   "subnets": {
-    "ipv4": [
-      "203.147.108.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

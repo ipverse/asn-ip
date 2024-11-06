@@ -1,7 +1,7 @@
 {
   "asn": 134461,
-  "handle": "RESERVED",
-  "description": "APNIC ASN block",
+  "handle": "NHSO-AP",
+  "description": "National Health Security Office (NHSO)",
   "subnets": {
     "ipv4": [
       "103.160.140.0/23"

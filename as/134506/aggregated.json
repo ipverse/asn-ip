@@ -1,7 +1,7 @@
 {
   "asn": 134506,
-  "handle": "RESERVED",
-  "description": "APNIC ASN block",
+  "handle": "DNET2-AP",
+  "description": "DNET",
   "subnets": {
     "ipv4": [
       "103.161.106.0/23"

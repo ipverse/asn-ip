@@ -1,9 +1,13 @@
 {
   "asn": 131644,
-  "handle": "RESERVED",
-  "description": "TWNIC-TW-4-byte-AS-BLOCK1",
+  "handle": "TWNIC",
+  "description": "Taiwan Network Information Center",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "101.101.101.0/24",
+      "119.75.240.0/22",
+      "182.173.0.0/24"
+    ],
     "ipv6": []
   }
 }

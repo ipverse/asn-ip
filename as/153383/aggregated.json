@@ -1,0 +1,11 @@
+{
+  "asn": 153383,
+  "handle": "NAZIMHOST-AP",
+  "description": "Nazim Host",
+  "subnets": {
+    "ipv4": [
+      "160.191.148.0/23"
+    ],
+    "ipv6": []
+  }
+}
