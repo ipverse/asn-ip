@@ -1,0 +1,11 @@
+{
+  "asn": 401156,
+  "handle": "MCB",
+  "description": "Metropolitan Commercial Bank",
+  "subnets": {
+    "ipv4": [
+      "104.207.223.0/24"
+    ],
+    "ipv6": []
+  }
+}

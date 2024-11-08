@@ -4,7 +4,7 @@
   "description": "BANCO ITAU CHILE",
   "subnets": {
     "ipv4": [
-      "200.0.160.0/23"
+      "200.0.160.0/22"
     ],
     "ipv6": []
   }

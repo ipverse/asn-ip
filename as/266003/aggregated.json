@@ -4,6 +4,7 @@
   "description": "VBS TECNOLOGIA LTDA",
   "subnets": {
     "ipv4": [
+      "45.173.64.0/22",
       "181.191.96.0/22"
     ],
     "ipv6": [

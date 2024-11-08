@@ -3,9 +3,7 @@
   "handle": "G12-CORE",
   "description": "Momentum Telecom, Inc.",
   "subnets": {
-    "ipv4": [
-      "206.225.18.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

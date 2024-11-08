@@ -4,6 +4,7 @@
   "description": "DASABO OU",
   "subnets": {
     "ipv4": [
+      "31.57.241.0/24",
       "43.240.149.0/24"
     ],
     "ipv6": [

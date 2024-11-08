@@ -4,6 +4,8 @@
   "description": "SNCF Connect \u0026 Tech Services SASU",
   "subnets": {
     "ipv4": [
+      "5.182.156.0/24",
+      "5.182.158.0/23",
       "185.214.52.0/22"
     ],
     "ipv6": [

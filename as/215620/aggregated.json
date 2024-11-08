@@ -3,7 +3,9 @@
   "handle": "KOLAN-BILISIM-TEKNOLOJILERI",
   "description": "Alp Furkan Kolan",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "89.45.44.0/24"
+    ],
     "ipv6": []
   }
 }

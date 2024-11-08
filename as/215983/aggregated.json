@@ -4,6 +4,7 @@
   "description": "LLC LIPT Soft",
   "subnets": {
     "ipv4": [
+      "90.188.19.0/24",
       "178.34.79.0/24"
     ],
     "ipv6": []

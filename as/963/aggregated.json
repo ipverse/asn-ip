@@ -3,7 +3,9 @@
   "handle": "N-AP",
   "description": "N963",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "160.191.132.0/23"
+    ],
     "ipv6": []
   }
 }
