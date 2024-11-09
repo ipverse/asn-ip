@@ -3,7 +3,9 @@
   "handle": "VIRTU",
   "description": "Virtu Financial Operating LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "209.191.224.0/19"
+    ],
     "ipv6": []
   }
 }

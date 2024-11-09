@@ -3,10 +3,7 @@
   "handle": "SKTTECH-AP",
   "description": "SKTTECH PTE. LTD.",
   "subnets": {
-    "ipv4": [
-      "154.194.32.0/24",
-      "156.229.50.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

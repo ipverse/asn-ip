@@ -4,7 +4,8 @@
   "description": "Metropolitan Commercial Bank",
   "subnets": {
     "ipv4": [
-      "104.207.223.0/24"
+      "104.207.223.0/24",
+      "107.181.28.0/24"
     ],
     "ipv6": []
   }

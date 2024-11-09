@@ -4,7 +4,8 @@
   "description": "IMS TELECOMUNICACOES LTDA",
   "subnets": {
     "ipv4": [
-      "201.218.160.0/22"
+      "201.218.160.0/24",
+      "201.218.163.0/24"
     ],
     "ipv6": [
       "2804:7b58::/32"

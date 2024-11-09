@@ -4,7 +4,6 @@
   "description": "General Dynamics Land Systems",
   "subnets": {
     "ipv4": [
-      "136.180.0.0/16",
       "192.136.15.0/24",
       "198.136.134.0/24"
     ],

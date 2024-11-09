@@ -4,6 +4,7 @@
   "description": "HOSTZOP CLOUD SERVICES PRIVATE LIMITED",
   "subnets": {
     "ipv4": [
+      "38.255.31.0/24",
       "103.191.132.0/24",
       "157.20.172.0/23"
     ],

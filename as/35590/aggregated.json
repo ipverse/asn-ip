@@ -1,0 +1,12 @@
+{
+  "asn": 35590,
+  "handle": "OMEGACOM",
+  "description": "Omegacom S.R.L.S.",
+  "subnets": {
+    "ipv4": [
+      "178.239.37.0/24",
+      "178.239.38.0/23"
+    ],
+    "ipv6": []
+  }
+}

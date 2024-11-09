@@ -3,7 +3,9 @@
   "handle": "NODION",
   "description": "Nodion GmbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.213.236.0/22"
+    ],
     "ipv6": []
   }
 }

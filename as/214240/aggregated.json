@@ -4,6 +4,7 @@
   "description": "Shadow Software Ltd",
   "subnets": {
     "ipv4": [
+      "31.57.244.0/24",
       "193.24.232.0/23"
     ],
     "ipv6": []

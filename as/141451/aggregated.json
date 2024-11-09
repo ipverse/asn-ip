@@ -3,9 +3,7 @@
   "handle": "ONETEAMITPTYLTD-AP",
   "description": "OneTeam IT",
   "subnets": {
-    "ipv4": [
-      "203.33.55.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }
