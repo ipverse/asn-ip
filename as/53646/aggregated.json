@@ -3,7 +3,9 @@
   "handle": "GRANDECOM-AS4",
   "description": "Grande Communications Networks, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.16.98.0/24"
+    ],
     "ipv6": []
   }
 }

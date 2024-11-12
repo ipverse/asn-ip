@@ -4,6 +4,7 @@
   "description": "INTROSERV d.o.o",
   "subnets": {
     "ipv4": [
+      "188.214.194.0/24",
       "213.134.13.0/24"
     ],
     "ipv6": [

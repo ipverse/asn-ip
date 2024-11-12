@@ -3,7 +3,9 @@
   "handle": "DJIBOUTI-DATA-CENTER",
   "description": "Djibouti Data Center SARL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "196.49.10.0/24"
+    ],
     "ipv6": []
   }
 }

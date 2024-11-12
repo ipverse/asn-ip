@@ -4,7 +4,7 @@
   "description": "Chandra Digital Communications And Networks",
   "subnets": {
     "ipv4": [
-      "103.117.38.0/23"
+      "103.117.38.0/24"
     ],
     "ipv6": [
       "2001:df1:acc0::/48"

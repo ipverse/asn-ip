@@ -4,8 +4,7 @@
   "description": "R \u0026 F BASSAN COMRCIO SERVIOS E SISTEMA LTDA - ME",
   "subnets": {
     "ipv4": [
-      "168.196.248.0/23",
-      "168.196.250.0/24",
+      "168.196.248.0/22",
       "187.33.56.0/21"
     ],
     "ipv6": [

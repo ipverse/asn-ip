@@ -1,0 +1,11 @@
+{
+  "asn": 274661,
+  "handle": "MEGA-ROUTER-TELECOM",
+  "description": "MEGA ROUTER TELECOM",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2804:91bc::/32"
+    ]
+  }
+}

@@ -3,7 +3,9 @@
   "handle": "HAWAIIRESEARCH",
   "description": "Academy for Internet Research Limited Liability Company",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "104.156.155.0/24"
+    ],
     "ipv6": []
   }
 }

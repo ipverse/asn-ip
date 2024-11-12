@@ -1,0 +1,11 @@
+{
+  "asn": 214132,
+  "handle": "EE-3NV",
+  "description": "3NV OU",
+  "subnets": {
+    "ipv4": [
+      "185.170.59.0/24"
+    ],
+    "ipv6": []
+  }
+}

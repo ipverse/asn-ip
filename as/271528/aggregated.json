@@ -3,7 +3,9 @@
   "handle": "CLEIDISON-CLISSE-ALVES",
   "description": "Cleidison Clisse Alves Pereira",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "190.115.104.0/22"
+    ],
     "ipv6": []
   }
 }

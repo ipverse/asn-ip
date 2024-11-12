@@ -3,9 +3,7 @@
   "handle": "VOICETEC-IN",
   "description": "VOICE TECH COMMUNICATIONS PRIVATE LIMITED",
   "subnets": {
-    "ipv4": [
-      "160.191.120.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }
