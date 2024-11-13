@@ -1,0 +1,13 @@
+{
+  "asn": 329442,
+  "handle": "MOROCCO-IXP",
+  "description": "L\u0027Agence Nationale de Rglementation des Tlcommunications (ANRT)",
+  "subnets": {
+    "ipv4": [
+      "196.49.104.0/24"
+    ],
+    "ipv6": [
+      "2001:43ff:3000::/48"
+    ]
+  }
+}

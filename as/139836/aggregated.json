@@ -1,9 +1,11 @@
 {
   "asn": 139836,
   "handle": "CCSCL-AP",
-  "description": "COMMRUN COMMUNICATION SERVICE (HONGKONG) CO., LIMITED",
+  "description": "COMEZOLO INTERNET SERVICE (HONGKONG) CO., LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.146.8.0/23"
+    ],
     "ipv6": []
   }
 }

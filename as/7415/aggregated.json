@@ -3,7 +3,9 @@
   "handle": "ADSAFE-1",
   "description": "Integral Ad Science, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.98.185.0/24"
+    ],
     "ipv6": []
   }
 }

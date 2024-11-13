@@ -4,6 +4,7 @@
   "description": "Destiny N.V",
   "subnets": {
     "ipv4": [
+      "94.158.248.0/24",
       "185.39.124.0/22"
     ],
     "ipv6": []

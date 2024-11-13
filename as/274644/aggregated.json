@@ -3,7 +3,9 @@
   "handle": "BRASUL-NETWORKS",
   "description": "BRASUL NETWORKS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.167.84.0/22"
+    ],
     "ipv6": [
       "2804:917c::/32"
     ]

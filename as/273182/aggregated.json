@@ -4,8 +4,6 @@
   "description": "Cablexpress TV C.A.",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2803:6a50::/32"
-    ]
+    "ipv6": []
   }
 }

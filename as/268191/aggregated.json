@@ -1,14 +1,12 @@
 {
   "asn": 268191,
-  "handle": "MARTINS-INFORMATICA-TELECOMUNICAES",
-  "description": "MARTINS INFORMATICA E TELECOMUNICAES LTDA-ME",
+  "handle": "MARTINS-TELECOM",
+  "description": "MARTINS TELECOM",
   "subnets": {
     "ipv4": [
       "45.235.176.0/22",
       "177.86.228.0/22"
     ],
-    "ipv6": [
-      "2804:4d58::/32"
-    ]
+    "ipv6": []
   }
 }

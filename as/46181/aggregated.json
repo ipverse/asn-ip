@@ -3,7 +3,9 @@
   "handle": "MAXXSOUTH-BROADBAND",
   "description": "BCI Mississippi Broadband,LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "134.228.0.0/24"
+    ],
     "ipv6": []
   }
 }

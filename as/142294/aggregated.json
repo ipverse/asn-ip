@@ -1,9 +1,11 @@
 {
   "asn": 142294,
-  "handle": "RESERVED",
-  "description": "APNIC ASN block",
+  "handle": "TTASL-AP",
+  "description": "TELECOM TRADE AND SERVER LLC",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2001:df4:6c40::/48"
+    ]
   }
 }

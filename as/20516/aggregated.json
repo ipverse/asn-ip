@@ -4,7 +4,8 @@
   "description": "Sky Vision Ukraine Ltd",
   "subnets": {
     "ipv4": [
-      "83.142.232.0/21"
+      "83.142.232.0/21",
+      "193.39.69.0/24"
     ],
     "ipv6": []
   }

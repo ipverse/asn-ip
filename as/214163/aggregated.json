@@ -1,0 +1,11 @@
+{
+  "asn": 214163,
+  "handle": "JURA-CH",
+  "description": "Republique et Canton du Jura",
+  "subnets": {
+    "ipv4": [
+      "193.246.24.0/21"
+    ],
+    "ipv6": []
+  }
+}

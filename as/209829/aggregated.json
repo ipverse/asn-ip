@@ -3,9 +3,7 @@
   "handle": "GREENHOST-US",
   "description": "Greenhost BV",
   "subnets": {
-    "ipv4": [
-      "103.104.246.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

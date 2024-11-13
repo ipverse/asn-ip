@@ -1,0 +1,11 @@
+{
+  "asn": 214000,
+  "handle": "VOXNET",
+  "description": "CAGRI DEMIR trading as VOXNET",
+  "subnets": {
+    "ipv4": [
+      "179.61.129.0/24"
+    ],
+    "ipv6": []
+  }
+}

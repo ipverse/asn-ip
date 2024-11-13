@@ -4,6 +4,7 @@
   "description": "Wojciech Czapkowicz",
   "subnets": {
     "ipv4": [
+      "31.59.129.0/24",
       "191.96.11.0/24"
     ],
     "ipv6": [

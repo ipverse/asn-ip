@@ -3,11 +3,7 @@
   "handle": "POPAENOTA",
   "description": "OSTAPCHUK SVITLANA IVANIVNA",
   "subnets": {
-    "ipv4": [
-      "150.241.105.0/24"
-    ],
-    "ipv6": [
-      "2a01:ecc0:40::/42"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

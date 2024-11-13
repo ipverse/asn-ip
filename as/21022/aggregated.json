@@ -1,9 +1,11 @@
 {
   "asn": 21022,
-  "handle": "ROOT-SECURITY",
-  "description": "ROOT SECURITY SRL",
+  "handle": "IRM",
+  "description": "Internet Resources Management SRL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.26.136.0/21"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,11 @@
   "handle": "TELECABLEANDALUCIA",
   "description": "AVATEL TELECOM, SA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "149.102.112.0/20",
+      "185.94.248.0/23",
+      "185.94.251.0/24"
+    ],
     "ipv6": []
   }
 }

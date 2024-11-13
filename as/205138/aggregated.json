@@ -4,6 +4,7 @@
   "description": "Open Solutions Ltd.",
   "subnets": {
     "ipv4": [
+      "147.78.103.0/24",
       "193.37.45.0/24"
     ],
     "ipv6": [

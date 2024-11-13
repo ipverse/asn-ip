@@ -1,0 +1,11 @@
+{
+  "asn": 213941,
+  "handle": "NVHCLOUD",
+  "description": "NVHCloud SAS",
+  "subnets": {
+    "ipv4": [
+      "84.32.26.0/24"
+    ],
+    "ipv6": []
+  }
+}

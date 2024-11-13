@@ -1,0 +1,11 @@
+{
+  "asn": 153130,
+  "handle": "IDNIC-MEGAAKSESBERSAMA-ID",
+  "description": "PT Mega Akses Bersama",
+  "subnets": {
+    "ipv4": [
+      "160.187.164.0/24"
+    ],
+    "ipv6": []
+  }
+}

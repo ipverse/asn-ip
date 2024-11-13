@@ -4,6 +4,7 @@
   "description": "CRAMCOMNET CIA.LTDA.",
   "subnets": {
     "ipv4": [
+      "200.112.219.0/24",
       "201.77.57.0/24"
     ],
     "ipv6": []

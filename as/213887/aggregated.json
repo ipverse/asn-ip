@@ -1,0 +1,14 @@
+{
+  "asn": 213887,
+  "handle": "WAICORE-LTD",
+  "description": "WAICORE LTD",
+  "subnets": {
+    "ipv4": [
+      "94.141.123.0/24",
+      "193.233.134.0/24"
+    ],
+    "ipv6": [
+      "2a0b:4141::/32"
+    ]
+  }
+}
