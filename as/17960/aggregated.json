@@ -3,7 +3,9 @@
   "handle": "RAINS",
   "description": "University of the Ryukyus",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "133.13.0.0/16"
+    ],
     "ipv6": []
   }
 }

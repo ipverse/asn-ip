@@ -3,7 +3,9 @@
   "handle": "OSL-188",
   "description": "OCULUS NETWORKS INC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "204.150.192.0/21"
+    ],
     "ipv6": []
   }
 }

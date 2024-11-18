@@ -4,10 +4,8 @@
   "description": "Leyun Digital CO., LTD",
   "subnets": {
     "ipv4": [
-      "160.191.6.0/23"
+      "160.191.6.0/24"
     ],
-    "ipv6": [
-      "2401:cd20::/32"
-    ]
+    "ipv6": []
   }
 }
