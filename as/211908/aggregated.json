@@ -4,6 +4,7 @@
   "description": "Horizon Scope Mobile Telecom WLL",
   "subnets": {
     "ipv4": [
+      "38.3.228.0/22",
       "93.180.222.0/24",
       "185.117.9.0/24",
       "185.194.8.0/24",

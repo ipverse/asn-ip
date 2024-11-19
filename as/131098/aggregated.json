@@ -3,7 +3,9 @@
   "handle": "BDNSKR",
   "description": "Korea Internet Security Agency",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "1.18.116.0/24"
+    ],
     "ipv6": []
   }
 }

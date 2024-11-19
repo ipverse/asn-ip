@@ -3,9 +3,7 @@
   "handle": "IDNIC-PTBGA-ID",
   "description": "PT Bintang Global Abadi",
   "subnets": {
-    "ipv4": [
-      "150.107.250.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

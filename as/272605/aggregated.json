@@ -3,7 +3,9 @@
   "handle": "GRUPO-3D-TELECOM",
   "description": "GRUPO 3D TELECOM",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "37.202.208.0/24"
+    ],
     "ipv6": [
       "2804:85dc::/32"
     ]

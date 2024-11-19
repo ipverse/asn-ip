@@ -1,0 +1,11 @@
+{
+  "asn": 401261,
+  "handle": "AXOSBANK",
+  "description": "AXOS BANK",
+  "subnets": {
+    "ipv4": [
+      "198.178.155.0/24"
+    ],
+    "ipv6": []
+  }
+}

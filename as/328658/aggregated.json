@@ -4,6 +4,7 @@
   "description": "De Choicetech Integrated Ltd",
   "subnets": {
     "ipv4": [
+      "102.212.255.0/24",
       "102.220.172.0/22",
       "102.223.1.0/24"
     ],

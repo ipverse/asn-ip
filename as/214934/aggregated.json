@@ -3,10 +3,7 @@
   "handle": "CHENQU",
   "description": "Chen Qu",
   "subnets": {
-    "ipv4": [
-      "217.177.74.0/24",
-      "217.180.46.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

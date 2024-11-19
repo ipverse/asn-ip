@@ -3,7 +3,9 @@
   "handle": "HOSTLEASING",
   "description": "Host Leasing Corporation",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "205.166.250.0/24"
+    ],
     "ipv6": []
   }
 }

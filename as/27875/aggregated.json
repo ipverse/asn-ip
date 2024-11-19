@@ -4,6 +4,7 @@
   "description": "Universidad Nacional de Cuyo",
   "subnets": {
     "ipv4": [
+      "170.210.144.0/21",
       "179.0.132.0/22",
       "179.0.136.0/21",
       "200.9.147.0/24",

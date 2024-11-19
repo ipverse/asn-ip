@@ -1,0 +1,13 @@
+{
+  "asn": 153399,
+  "handle": "TUATEALIMITED-AP",
+  "description": "Tu Atea Limited",
+  "subnets": {
+    "ipv4": [
+      "160.191.196.0/23"
+    ],
+    "ipv6": [
+      "2401:d520::/32"
+    ]
+  }
+}

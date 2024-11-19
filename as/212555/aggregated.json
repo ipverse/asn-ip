@@ -1,0 +1,12 @@
+{
+  "asn": 212555,
+  "handle": "REMICRO",
+  "description": "Remicro Kft.",
+  "subnets": {
+    "ipv4": [
+      "45.158.105.0/24",
+      "45.158.106.0/23"
+    ],
+    "ipv6": []
+  }
+}

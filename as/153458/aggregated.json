@@ -1,0 +1,11 @@
+{
+  "asn": 153458,
+  "handle": "HARUZAKURA-AP",
+  "description": "Haruzakura Cloud",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2406:840:e2c6::/48"
+    ]
+  }
+}

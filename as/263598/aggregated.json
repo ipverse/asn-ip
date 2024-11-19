@@ -3,7 +3,9 @@
   "handle": "BRX-TELECOMUNICACOES",
   "description": "BRX TELECOMUNICACOES LTDA - EPP",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.3.140.0/22"
+    ],
     "ipv6": [
       "2804:fac::/32"
     ]
