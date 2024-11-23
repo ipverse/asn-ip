@@ -1,0 +1,11 @@
+{
+  "asn": 48835,
+  "handle": "FERONET",
+  "description": "GHOSTnet GmbH",
+  "subnets": {
+    "ipv4": [
+      "5.231.42.0/24"
+    ],
+    "ipv6": []
+  }
+}

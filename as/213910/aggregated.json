@@ -1,0 +1,11 @@
+{
+  "asn": 213910,
+  "handle": "CREDEXBANK",
+  "description": "Credex Bank SA",
+  "subnets": {
+    "ipv4": [
+      "81.181.243.0/24"
+    ],
+    "ipv6": []
+  }
+}

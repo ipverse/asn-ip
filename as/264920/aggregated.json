@@ -4,7 +4,8 @@
   "description": "Shel Net Informatica Ltda",
   "subnets": {
     "ipv4": [
-      "168.232.4.0/22"
+      "168.232.4.0/22",
+      "179.48.138.0/24"
     ],
     "ipv6": [
       "2804:2fe8::/32"

@@ -4,6 +4,7 @@
   "description": "Kayizer Teknoloji Ltd. Sti.",
   "subnets": {
     "ipv4": [
+      "85.235.74.0/24",
       "93.190.8.0/24",
       "160.20.109.0/24",
       "185.243.181.0/24"

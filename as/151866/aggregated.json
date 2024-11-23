@@ -4,7 +4,8 @@
   "description": "DAI HUU SERVICE AND TRADING MECHANICAL COMPANY LIMITED",
   "subnets": {
     "ipv4": [
-      "103.93.92.0/24"
+      "103.93.92.0/24",
+      "160.187.94.0/24"
     ],
     "ipv6": []
   }

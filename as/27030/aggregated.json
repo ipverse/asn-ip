@@ -3,7 +3,9 @@
   "handle": "USCG",
   "description": "United States Coast Guard",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "152.121.99.0/24"
+    ],
     "ipv6": []
   }
 }

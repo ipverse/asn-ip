@@ -1,0 +1,11 @@
+{
+  "asn": 273097,
+  "handle": "NETFULL-FIBRA-SPA",
+  "description": "NETFULL FIBRA SpA",
+  "subnets": {
+    "ipv4": [
+      "201.222.46.0/24"
+    ],
+    "ipv6": []
+  }
+}

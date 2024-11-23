@@ -1,11 +1,12 @@
 {
   "asn": 215288,
-  "handle": "ASMIC",
+  "handle": "HOBIONE",
   "description": "Michele Branchini",
   "subnets": {
     "ipv4": [],
     "ipv6": [
-      "2a05:4140:56::/48"
+      "2a05:4140:56::/48",
+      "2a14:7581:9f20::/44"
     ]
   }
 }

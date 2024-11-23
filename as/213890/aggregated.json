@@ -4,6 +4,8 @@
   "description": "NOVOROS-TELECOM LLC",
   "subnets": {
     "ipv4": [
+      "79.171.113.0/24",
+      "79.171.116.0/24",
       "195.128.159.0/24"
     ],
     "ipv6": []

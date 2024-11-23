@@ -3,9 +3,12 @@
   "handle": "ADVIN",
   "description": "Advin Services LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "23.137.105.0/24"
+    ],
     "ipv6": [
-      "2602:fb54::/48"
+      "2602:fb54::/48",
+      "2602:fb54:900::/40"
     ]
   }
 }
