@@ -3,7 +3,10 @@
   "handle": "FINDER",
   "description": "Finder Networks LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "198.11.12.0/24",
+      "209.92.195.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,11 @@
   "handle": "ROUTING-SOLUTIONS",
   "description": "ROUTING SOLUTIONS",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "191.101.144.0/24"
+    ],
+    "ipv6": [
+      "2804:8fa8::/32"
+    ]
   }
 }

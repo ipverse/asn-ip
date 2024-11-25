@@ -3,7 +3,9 @@
   "handle": "SMART-HOST-TEKNOLOJI",
   "description": "SMART HOST TEKNOLOJI ITHALAT IHRACAT LIMITED SIRKETI",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "156.240.79.0/24"
+    ],
     "ipv6": [
       "2a0f:85c1:8cc::/48"
     ]

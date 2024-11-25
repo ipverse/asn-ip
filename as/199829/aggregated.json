@@ -4,6 +4,7 @@
   "description": "Felipe Mendes da Cruz trading as LostHost",
   "subnets": {
     "ipv4": [
+      "170.62.190.0/24",
       "181.215.45.0/24"
     ],
     "ipv6": [

@@ -4,7 +4,6 @@
   "description": "Stockman Bank of Montana",
   "subnets": {
     "ipv4": [
-      "47.45.35.0/24",
       "66.118.60.0/24"
     ],
     "ipv6": []

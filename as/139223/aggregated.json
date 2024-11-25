@@ -3,7 +3,11 @@
   "handle": "NTECHCOMMUNICATION-AP",
   "description": "NTECH COMMUNICATION",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.20.89.0/24",
+      "103.112.42.0/24",
+      "103.139.253.0/24"
+    ],
     "ipv6": []
   }
 }
