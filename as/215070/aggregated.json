@@ -3,9 +3,7 @@
   "handle": "WB-WH",
   "description": "LLC Wildberries",
   "subnets": {
-    "ipv4": [
-      "90.156.244.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

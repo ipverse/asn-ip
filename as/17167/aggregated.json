@@ -3,7 +3,10 @@
   "handle": "MCSNOC01",
   "description": "Microchip Computer Solutions, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "64.234.114.0/24",
+      "209.59.244.0/24"
+    ],
     "ipv6": []
   }
 }

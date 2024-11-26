@@ -3,7 +3,9 @@
   "handle": "VORTEX-SERVICOS",
   "description": "VORTEX SERVICOS LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "170.244.6.0/23"
+    ],
     "ipv6": [
       "2804:9008::/32"
     ]

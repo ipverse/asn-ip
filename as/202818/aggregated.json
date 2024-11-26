@@ -3,10 +3,7 @@
   "handle": "LEVEL3COMMUNICATIONS",
   "description": "LUMEN TECHNOLOGIES UK LIMITED",
   "subnets": {
-    "ipv4": [
-      "8.238.149.0/24",
-      "8.241.52.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

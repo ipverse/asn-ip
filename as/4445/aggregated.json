@@ -3,7 +3,9 @@
   "handle": "CWI",
   "description": "Vodafone Americas",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "46.190.140.0/23"
+    ],
     "ipv6": []
   }
 }

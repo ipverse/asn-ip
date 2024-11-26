@@ -4,6 +4,7 @@
   "description": "Fabertelecom, SL",
   "subnets": {
     "ipv4": [
+      "154.46.40.0/24",
       "154.60.242.0/24"
     ],
     "ipv6": []

@@ -4,8 +4,6 @@
   "description": "Fiber64 SAS",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2a0a:79c0:500::/44"
-    ]
+    "ipv6": []
   }
 }

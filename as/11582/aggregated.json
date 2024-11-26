@@ -3,10 +3,7 @@
   "handle": "SMART-CITY-SLCC",
   "description": "SMART CITY NETWORKS, LIMITED PARTNERSHIP",
   "subnets": {
-    "ipv4": [
-      "24.56.134.0/24",
-      "24.75.204.0/22"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

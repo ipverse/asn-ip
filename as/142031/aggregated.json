@@ -1,9 +1,11 @@
 {
   "asn": 142031,
-  "handle": "NEPMMCL-AP",
-  "description": "Nanjing Echofa Precision Mould Manufacturing Co., Ltd.",
+  "handle": "JUNAIRANETWORK-AP",
+  "description": "Junaira Network",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "160.250.52.0/23"
+    ],
     "ipv6": []
   }
 }

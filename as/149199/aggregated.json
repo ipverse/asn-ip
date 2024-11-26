@@ -3,7 +3,9 @@
   "handle": "ORANGETEC-IN",
   "description": "Orange Technology Management",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.178.44.0/23"
+    ],
     "ipv6": [
       "2001:df0:3440::/48"
     ]

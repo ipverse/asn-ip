@@ -4,7 +4,8 @@
   "description": "Reabra Tecnologia Para Administrao de Redes Ltda -",
   "subnets": {
     "ipv4": [
-      "45.175.104.0/22"
+      "45.175.104.0/24",
+      "45.175.106.0/23"
     ],
     "ipv6": [
       "2804:5c4c::/32"

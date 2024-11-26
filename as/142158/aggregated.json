@@ -1,9 +1,11 @@
 {
   "asn": 142158,
-  "handle": "NEKO-AP",
-  "description": "Neko LLC",
+  "handle": "FASTNETRAJBARI-AP",
+  "description": "Fast Net Rajbari",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "160.250.40.0/23"
+    ],
     "ipv6": []
   }
 }

@@ -4,6 +4,7 @@
   "description": "Lastnet Telecom",
   "subnets": {
     "ipv4": [
+      "38.3.164.0/22",
       "38.56.200.0/22"
     ],
     "ipv6": [

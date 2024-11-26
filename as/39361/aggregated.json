@@ -4,6 +4,7 @@
   "description": "Yarcom LLC",
   "subnets": {
     "ipv4": [
+      "46.231.227.0/24",
       "46.231.229.0/24"
     ],
     "ipv6": []
