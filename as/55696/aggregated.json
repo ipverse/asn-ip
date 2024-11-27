@@ -3,7 +3,9 @@
   "handle": "SCOM-ID",
   "description": "Starcom Solusindo PT.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "202.50.202.0/23"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,10 @@
   "handle": "CDPE-IN",
   "description": "C.d. Palace And Electronics",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.100.21.0/24",
+      "103.100.22.0/23"
+    ],
     "ipv6": [
       "2001:df4:4240::/48"
     ]

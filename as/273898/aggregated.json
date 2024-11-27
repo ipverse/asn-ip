@@ -1,0 +1,13 @@
+{
+  "asn": 273898,
+  "handle": "JEFFERSON-AFE",
+  "description": "JEFFERSON AFE S.A.S",
+  "subnets": {
+    "ipv4": [
+      "38.191.214.0/24"
+    ],
+    "ipv6": [
+      "2803:b350::/32"
+    ]
+  }
+}

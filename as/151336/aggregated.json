@@ -4,7 +4,8 @@
   "description": "Verge Networks Limited",
   "subnets": {
     "ipv4": [
-      "103.204.2.0/23"
+      "103.204.2.0/23",
+      "103.247.57.0/24"
     ],
     "ipv6": [
       "2400:ff60::/32"

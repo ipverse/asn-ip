@@ -4,8 +4,7 @@
   "description": "United States Sugar Corporation",
   "subnets": {
     "ipv4": [
-      "172.111.24.0/24",
-      "184.7.214.0/24"
+      "172.111.24.0/24"
     ],
     "ipv6": []
   }

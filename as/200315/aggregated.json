@@ -4,7 +4,8 @@
   "description": "NetConnect Innovations LLC",
   "subnets": {
     "ipv4": [
-      "138.128.226.0/24"
+      "138.128.224.0/24",
+      "138.128.226.0/23"
     ],
     "ipv6": []
   }

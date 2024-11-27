@@ -4,6 +4,7 @@
   "description": "ONLINE DATA COMPANY LIMITED",
   "subnets": {
     "ipv4": [
+      "103.6.234.0/23",
       "160.187.0.0/23"
     ],
     "ipv6": []

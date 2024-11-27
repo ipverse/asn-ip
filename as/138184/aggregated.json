@@ -3,7 +3,9 @@
   "handle": "ACKOTRIPLIMITED-AP",
   "description": "AckoTrip Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "160.191.162.0/24"
+    ],
     "ipv6": []
   }
 }

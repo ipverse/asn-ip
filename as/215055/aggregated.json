@@ -3,7 +3,9 @@
   "handle": "TENSOR-LTD",
   "description": "Tensor Company Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "178.237.202.0/24"
+    ],
     "ipv6": []
   }
 }
