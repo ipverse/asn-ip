@@ -4,7 +4,8 @@
   "description": "Database Mart LLC",
   "subnets": {
     "ipv4": [
-      "77.93.152.0/22"
+      "77.93.152.0/22",
+      "93.127.128.0/20"
     ],
     "ipv6": []
   }

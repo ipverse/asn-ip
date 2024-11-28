@@ -1,9 +1,11 @@
 {
   "asn": 398055,
-  "handle": "OCEANSIDE-UFSD",
-  "description": "Oceanside Union Free School District",
+  "handle": "MPS-303",
+  "description": "Mapleton School District No. 1 in the county of Adams \u0026 St.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "205.170.132.0/24"
+    ],
     "ipv6": []
   }
 }

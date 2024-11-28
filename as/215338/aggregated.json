@@ -3,11 +3,7 @@
   "handle": "ROETHUNDBECK",
   "description": "Rene Roeth trading as ROETH \u0026 BECK GbR",
   "subnets": {
-    "ipv4": [
-      "37.114.54.0/24"
-    ],
-    "ipv6": [
-      "2a0e:6a87::/32"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

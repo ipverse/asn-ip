@@ -4,7 +4,8 @@
   "description": "ENTE PUBLICO DE RADIOTELEVISION DE LES ILLES BALEARS",
   "subnets": {
     "ipv4": [
-      "185.67.113.0/24"
+      "185.67.113.0/24",
+      "195.76.120.0/24"
     ],
     "ipv6": []
   }

@@ -3,7 +3,9 @@
   "handle": "P-P-SANTOS",
   "description": "P P DOS SANTOS GOMES TELECOMUNICACOES",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.224.240.0/22"
+    ],
     "ipv6": [
       "2804:862c::/32"
     ]

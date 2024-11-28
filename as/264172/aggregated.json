@@ -4,7 +4,8 @@
   "description": "CLEBER ATAIDE PASTI \u0026 CIA LTDA",
   "subnets": {
     "ipv4": [
-      "138.94.136.0/22"
+      "138.94.136.0/22",
+      "168.121.164.0/22"
     ],
     "ipv6": []
   }

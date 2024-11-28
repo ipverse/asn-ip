@@ -4,7 +4,8 @@
   "description": "Comm-IT EDV DienstleistungsgmbH",
   "subnets": {
     "ipv4": [
-      "185.37.104.0/22"
+      "185.37.104.0/22",
+      "195.242.166.0/24"
     ],
     "ipv6": []
   }
