@@ -3,7 +3,9 @@
   "handle": "SNALLC",
   "description": "SNA DC SOLUTION LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "23.176.104.0/24"
+    ],
     "ipv6": []
   }
 }

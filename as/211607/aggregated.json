@@ -4,6 +4,7 @@
   "description": "Securitytrails, LLC",
   "subnets": {
     "ipv4": [
+      "104.143.83.0/24",
       "193.3.53.0/24",
       "195.230.103.0/24"
     ],

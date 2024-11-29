@@ -4,9 +4,6 @@
   "description": "Mikhail Ivanov",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2a05:541:1a1::/48",
-      "2a11:91c0::/29"
-    ]
+    "ipv6": []
   }
 }

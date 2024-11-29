@@ -1,9 +1,11 @@
 {
   "asn": 26696,
-  "handle": "GIFT-OF-LIFE-MICHIGAN",
-  "description": "GIFT OF LIFE MICHIGAN",
+  "handle": "MINTO-COMMUNICATIONS-SOCIETY",
+  "description": "Minto Communications Society",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "64.6.40.0/24"
+    ],
     "ipv6": []
   }
 }

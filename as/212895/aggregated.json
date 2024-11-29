@@ -3,7 +3,9 @@
   "handle": "ROUTE64-ORG",
   "description": "Johannes Ernst",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.208.1.0/24"
+    ],
     "ipv6": [
       "2a11:6c7::/48",
       "2a11:6c7:2::/48",

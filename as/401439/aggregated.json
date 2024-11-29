@@ -1,0 +1,11 @@
+{
+  "asn": 401439,
+  "handle": "NEIGHBOURHOOD-CONNECT-2",
+  "description": "Neighbourhood Connect",
+  "subnets": {
+    "ipv4": [
+      "38.69.161.0/24"
+    ],
+    "ipv6": []
+  }
+}

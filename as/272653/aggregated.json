@@ -4,6 +4,8 @@
   "description": "UaiFibra Telecom",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2804:8694:6000::/35"
+    ]
   }
 }

@@ -4,7 +4,7 @@
   "description": "ASSOCIATION DES RESEAUX DE CENTRALESUPELEC",
   "subnets": {
     "ipv4": [
-      "138.195.144.0/20",
+      "138.195.128.0/19",
       "192.159.121.0/24"
     ],
     "ipv6": [

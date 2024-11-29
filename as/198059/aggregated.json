@@ -4,6 +4,7 @@
   "description": "Gianluca Della Bona trading as Radio Data Net",
   "subnets": {
     "ipv4": [
+      "81.30.96.0/24",
       "154.60.208.0/24"
     ],
     "ipv6": []

@@ -3,7 +3,9 @@
   "handle": "MRTV",
   "description": "UAB Moletu radijas ir televizija",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "88.216.105.0/24"
+    ],
     "ipv6": []
   }
 }

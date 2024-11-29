@@ -1,9 +1,11 @@
 {
   "asn": 140629,
-  "handle": "ANZENNA-HK",
-  "description": "ANZENNA SOLUTIONS PTE LTD",
+  "handle": "ACPL-AP",
+  "description": "Antarex Cyber Pte. Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "202.27.130.0/23"
+    ],
     "ipv6": []
   }
 }

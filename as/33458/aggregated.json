@@ -3,9 +3,7 @@
   "handle": "ASN",
   "description": "Axedale",
   "subnets": {
-    "ipv4": [
-      "208.65.84.0/22"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

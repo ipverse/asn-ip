@@ -3,10 +3,7 @@
   "handle": "MIREA",
   "description": "Federal State Budgetary Educational Institution of Higher Education Mirea - Russian Technological University",
   "subnets": {
-    "ipv4": [
-      "77.73.31.0/24",
-      "81.26.157.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }
