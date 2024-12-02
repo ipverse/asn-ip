@@ -4,7 +4,7 @@
   "description": "PT Cloudlink Ardtech Indonesia",
   "subnets": {
     "ipv4": [
-      "160.25.114.0/23"
+      "160.25.114.0/24"
     ],
     "ipv6": []
   }

@@ -4,6 +4,8 @@
   "description": "Julian Tiedke",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a06:1283:c0a0::/44"
+    ]
   }
 }

@@ -4,7 +4,8 @@
   "description": "TELEVISION POR CABLE COCATEVE S.A. (GRUPO COCAVISION)",
   "subnets": {
     "ipv4": [
-      "38.44.108.0/22",
+      "38.44.108.0/23",
+      "38.44.111.0/24",
       "181.188.252.0/24",
       "186.5.125.0/24"
     ],

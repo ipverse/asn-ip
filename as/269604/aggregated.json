@@ -3,12 +3,7 @@
   "handle": "JNETCOM-TELECOM",
   "description": "JNETCOM TELECOM",
   "subnets": {
-    "ipv4": [
-      "45.189.240.0/23",
-      "45.189.242.0/24"
-    ],
-    "ipv6": [
-      "2804:671c::/32"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

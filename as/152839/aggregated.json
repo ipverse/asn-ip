@@ -3,9 +3,7 @@
   "handle": "IDNIC-SEEPLUSNET-ID",
   "description": "PT Seeplus Media Transformasi",
   "subnets": {
-    "ipv4": [
-      "160.22.240.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

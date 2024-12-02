@@ -4,10 +4,6 @@
   "description": "Michal Pawski",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2a0a:79c7:fe04::/46",
-      "2a0a:79c7:fe0d::/48",
-      "2a0a:79c7:fe0e::/48"
-    ]
+    "ipv6": []
   }
 }
