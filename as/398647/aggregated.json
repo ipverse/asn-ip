@@ -1,0 +1,12 @@
+{
+  "asn": 398647,
+  "handle": "TRITECH-FIBER",
+  "description": "Tritech Fiber",
+  "subnets": {
+    "ipv4": [
+      "199.73.93.0/24",
+      "199.73.94.0/23"
+    ],
+    "ipv6": []
+  }
+}

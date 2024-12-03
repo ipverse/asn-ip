@@ -4,6 +4,7 @@
   "description": "Ali Asadi",
   "subnets": {
     "ipv4": [
+      "93.126.50.0/24",
       "93.126.53.0/24"
     ],
     "ipv6": [

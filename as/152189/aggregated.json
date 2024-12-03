@@ -1,0 +1,11 @@
+{
+  "asn": 152189,
+  "handle": "UNITEDNETWORK-AP",
+  "description": "UNITED NETWORK",
+  "subnets": {
+    "ipv4": [
+      "36.50.198.0/24"
+    ],
+    "ipv6": []
+  }
+}

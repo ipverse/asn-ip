@@ -4,6 +4,7 @@
   "description": "Nuh Ahmet Firat trading as TEKNET YAZLIM VE BILGISAYAR TEKNOLOJILERI",
   "subnets": {
     "ipv4": [
+      "31.7.32.0/21",
       "104.247.170.0/23",
       "104.247.172.0/24",
       "104.247.174.0/23",
@@ -25,7 +26,8 @@
     ],
     "ipv6": [
       "2a03:a5a0:1::/48",
-      "2a03:a5a0:4::/48"
+      "2a03:a5a0:4::/48",
+      "2a0a:9f40::/29"
     ]
   }
 }

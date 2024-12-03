@@ -3,7 +3,9 @@
   "handle": "SCHUYLKILL-INTERMEDIATE-UNIT-29",
   "description": "SCHUYLKILL INTERMEDIATE UNIT 29",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "204.63.214.0/23"
+    ],
     "ipv6": []
   }
 }

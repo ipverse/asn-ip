@@ -1,7 +1,10 @@
 # AS6697 (BELPAK)
 # Republican Unitary Telecommunication Enterprise Beltelecom
 #
-2a02:2208::/29
+2a02:2208:1::/48
+2a02:220e:200::/43
+2a02:220e:260::/44
+2a02:220e:280::/44
 2a04:2e80:7::/48
 2a0a:7d80::/47
 2a0a:7d80:f::/48

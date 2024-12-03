@@ -3,7 +3,9 @@
   "handle": "MEGAS-MAYORISTAS",
   "description": "MEGAS MAYORISTAS S.A.C.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "154.200.71.0/24"
+    ],
     "ipv6": [
       "2803:8350::/32"
     ]

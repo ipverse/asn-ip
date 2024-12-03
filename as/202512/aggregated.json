@@ -4,6 +4,8 @@
   "description": "Aramis A Eraslan",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a0e:1cc0:b00b::/48"
+    ]
   }
 }

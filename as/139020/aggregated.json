@@ -3,7 +3,9 @@
   "handle": "CLOUDLINK-AP",
   "description": "CloudLink Communications",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.138.152.0/23"
+    ],
     "ipv6": []
   }
 }
