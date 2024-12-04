@@ -3,7 +3,11 @@
   "handle": "O3-CLOUD-SOLUCOES",
   "description": "O3 CLOUD SOLUCOES EM TECNOLOGIA LTDA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "192.141.160.0/24"
+    ],
+    "ipv6": [
+      "2801:81:80::/48"
+    ]
   }
 }

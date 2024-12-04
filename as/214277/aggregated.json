@@ -3,9 +3,7 @@
   "handle": "EMOFID",
   "description": "Mofid Brokerage PJSC",
   "subnets": {
-    "ipv4": [
-      "45.156.200.0/22"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

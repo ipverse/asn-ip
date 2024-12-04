@@ -1,0 +1,11 @@
+{
+  "asn": 153149,
+  "handle": "IDNIC-OLN-ID",
+  "description": "PT Optical Light Nusantara",
+  "subnets": {
+    "ipv4": [
+      "160.191.235.0/24"
+    ],
+    "ipv6": []
+  }
+}

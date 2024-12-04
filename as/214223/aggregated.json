@@ -3,7 +3,14 @@
   "handle": "FPNET",
   "description": "Luis Jakob Bartel",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "104.238.26.0/24"
+    ],
+    "ipv6": [
+      "2a06:de01:90::/44",
+      "2a09:54c7::/32",
+      "2a0c:b641:d00::/44",
+      "2a10:ccc0:160::/44"
+    ]
   }
 }

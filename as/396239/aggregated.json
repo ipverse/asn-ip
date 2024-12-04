@@ -3,9 +3,7 @@
   "handle": "CMW-WIRELESS-1",
   "description": "CMW Wireless LLC",
   "subnets": {
-    "ipv4": [
-      "68.69.116.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

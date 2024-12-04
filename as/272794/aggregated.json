@@ -1,0 +1,13 @@
+{
+  "asn": 272794,
+  "handle": "CONECTAMAX-COMERCIO-SERVICOS",
+  "description": "CONECTAMAX COMERCIO E SERVICOS",
+  "subnets": {
+    "ipv4": [
+      "177.91.45.0/24"
+    ],
+    "ipv6": [
+      "2804:88cc::/32"
+    ]
+  }
+}

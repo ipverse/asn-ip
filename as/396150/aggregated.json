@@ -1,0 +1,11 @@
+{
+  "asn": 396150,
+  "handle": "NBBJ-GLOBAL",
+  "description": "NBBJ LP",
+  "subnets": {
+    "ipv4": [
+      "162.246.96.0/24"
+    ],
+    "ipv6": []
+  }
+}

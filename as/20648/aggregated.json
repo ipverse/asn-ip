@@ -3,7 +3,9 @@
   "handle": "TMN-SA",
   "description": "TMN SA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.164.218.0/24"
+    ],
     "ipv6": []
   }
 }

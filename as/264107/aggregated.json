@@ -3,9 +3,7 @@
   "handle": "REDE-AMZ-TELECOM",
   "description": "REDE AMZ TELECOM",
   "subnets": {
-    "ipv4": [
-      "138.94.36.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

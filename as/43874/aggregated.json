@@ -4,7 +4,7 @@
   "description": "DalCOMTEL LLC",
   "subnets": {
     "ipv4": [
-      "79.171.112.0/22"
+      "79.171.112.0/24"
     ],
     "ipv6": []
   }

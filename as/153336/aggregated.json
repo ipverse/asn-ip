@@ -1,0 +1,11 @@
+{
+  "asn": 153336,
+  "handle": "ZPNPL-AP",
+  "description": "Zero Point Networks",
+  "subnets": {
+    "ipv4": [
+      "160.187.98.0/24"
+    ],
+    "ipv6": []
+  }
+}

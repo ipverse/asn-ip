@@ -4,7 +4,9 @@
   "description": "VICTORIA INTERNATIONAL HOLDINGS LTD",
   "subnets": {
     "ipv4": [
-      "5.42.96.0/24"
+      "5.42.96.0/24",
+      "193.68.88.0/24",
+      "213.21.240.0/24"
     ],
     "ipv6": []
   }

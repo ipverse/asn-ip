@@ -4,6 +4,7 @@
   "description": "MVM PINTO COMERCIO E SERVICOS ME",
   "subnets": {
     "ipv4": [
+      "38.3.212.0/22",
       "131.221.140.0/22"
     ],
     "ipv6": [

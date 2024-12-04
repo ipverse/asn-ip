@@ -1,0 +1,11 @@
+{
+  "asn": 401512,
+  "handle": "OMEG-ECN",
+  "description": "OMEGAI",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2602:f78b:a00::/44"
+    ]
+  }
+}
