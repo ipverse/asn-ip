@@ -3,7 +3,11 @@
   "handle": "FREECOMMUNICATIONS",
   "description": "Prostie Reshenia LLC",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "85.198.127.0/24"
+    ],
+    "ipv6": [
+      "2a00:8740:f002::/48"
+    ]
   }
 }

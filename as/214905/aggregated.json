@@ -1,11 +1,13 @@
 {
   "asn": 214905,
   "handle": "LAYER3",
-  "description": "Mohammad Othman Ibrahim Aldubhaikhi t/a All-Tabakah al-Thalithah for Wireless communication\u0027",
+  "description": "Layer3 for Wireless communication Mixed LLC",
   "subnets": {
     "ipv4": [
       "185.222.40.0/24"
     ],
-    "ipv6": []
+    "ipv6": [
+      "2a14:4ac0::/29"
+    ]
   }
 }

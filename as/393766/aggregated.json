@@ -3,7 +3,9 @@
   "handle": "PDSDNET",
   "description": "Penn Delco School District",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.65.133.0/24"
+    ],
     "ipv6": []
   }
 }

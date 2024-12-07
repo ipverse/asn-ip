@@ -3,7 +3,11 @@
   "handle": "REVGEN",
   "description": "RevGen Networks",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "204.188.242.0/24",
+      "204.188.254.0/24",
+      "208.98.6.0/23"
+    ],
     "ipv6": []
   }
 }

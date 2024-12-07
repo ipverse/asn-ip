@@ -4,8 +4,6 @@
   "description": "LLC Nauka-Svyaz",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2a01:8a00::/32"
-    ]
+    "ipv6": []
   }
 }

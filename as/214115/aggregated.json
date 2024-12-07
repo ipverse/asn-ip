@@ -3,7 +3,9 @@
   "handle": "TOPNET72",
   "description": "Nikolai Borisov",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "146.120.88.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -4,7 +4,8 @@
   "description": "Columbia Community Credit Union",
   "subnets": {
     "ipv4": [
-      "198.36.185.0/24"
+      "198.36.185.0/24",
+      "208.99.46.0/24"
     ],
     "ipv6": []
   }

@@ -3,7 +3,9 @@
   "handle": "STATBYTE",
   "description": "Florian Kasper",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "5.39.255.0/24"
+    ],
     "ipv6": [
       "2a0e:fd45:2dd0::/44"
     ]

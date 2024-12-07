@@ -3,9 +3,7 @@
   "handle": "OGUZ-EMRE-SOLMAZ",
   "description": "Oguz Emre Solmaz",
   "subnets": {
-    "ipv4": [
-      "103.83.86.0/24"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2a0f:85c1:89c::/48",
       "2a0f:85c1:8bd::/48"

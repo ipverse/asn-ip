@@ -3,12 +3,7 @@
   "handle": "REDE-BARRA-TELECOMUNICACOES",
   "description": "REDE BARRA TELECOMUNICACOES LTDA - ME",
   "subnets": {
-    "ipv4": [
-      "138.118.188.0/22"
-    ],
-    "ipv6": [
-      "2804:254c::/33",
-      "2804:254c:8000::/34"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

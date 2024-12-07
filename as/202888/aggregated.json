@@ -4,6 +4,7 @@
   "description": "UPSTREAM NETWORK LTD",
   "subnets": {
     "ipv4": [
+      "163.5.92.0/24",
       "174.136.238.0/24"
     ],
     "ipv6": [

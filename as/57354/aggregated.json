@@ -3,12 +3,7 @@
   "handle": "SYSTEMA",
   "description": "SYSTEMA Ltd",
   "subnets": {
-    "ipv4": [
-      "91.231.218.0/23",
-      "185.228.132.0/22"
-    ],
-    "ipv6": [
-      "2a0d:1600::/32"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

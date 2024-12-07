@@ -1,0 +1,11 @@
+{
+  "asn": 213868,
+  "handle": "TAKECLOUD",
+  "description": "TAKECLOUD SAS",
+  "subnets": {
+    "ipv4": [
+      "45.130.47.0/24"
+    ],
+    "ipv6": []
+  }
+}

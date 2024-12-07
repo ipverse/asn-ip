@@ -1,0 +1,11 @@
+{
+  "asn": 153470,
+  "handle": "DHAKANETWORKBD-AP",
+  "description": "Dhaka Network BD",
+  "subnets": {
+    "ipv4": [
+      "160.250.107.0/24"
+    ],
+    "ipv6": []
+  }
+}
