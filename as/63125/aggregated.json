@@ -1,5 +1,7 @@
 {
   "asn": 63125,
+  "handle": "CABLEVISION-LIGHTPATH-LLC",
+  "description": "Cablevision Lightpath LLC",
   "subnets": {
     "ipv4": [
       "104.238.237.0/24",

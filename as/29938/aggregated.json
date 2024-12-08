@@ -3,7 +3,9 @@
   "handle": "ENDICOTT-DIRECT-NETWORK",
   "description": "Endicott College",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "64.25.240.0/20"
+    ],
     "ipv6": []
   }
 }

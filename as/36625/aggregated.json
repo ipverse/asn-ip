@@ -1,0 +1,11 @@
+{
+  "asn": 36625,
+  "handle": "KGTLD",
+  "description": "VeriSign Global Registry Services",
+  "subnets": {
+    "ipv4": [
+      "192.33.14.0/24"
+    ],
+    "ipv6": []
+  }
+}

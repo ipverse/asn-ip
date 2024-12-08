@@ -4,7 +4,8 @@
   "description": "Matteo Fruhwald trading as PipeHost e.U.",
   "subnets": {
     "ipv4": [
-      "156.253.248.0/24"
+      "156.253.248.0/24",
+      "185.224.3.0/24"
     ],
     "ipv6": [
       "2a14:7c0:f100::/40"

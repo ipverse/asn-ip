@@ -1,0 +1,11 @@
+{
+  "asn": 213758,
+  "handle": "GLEIF-TECH",
+  "description": "Global Legal Entity Identifier Foundation",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a0c:f686::/32"
+    ]
+  }
+}

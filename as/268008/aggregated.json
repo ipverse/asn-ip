@@ -4,9 +4,10 @@
   "description": "CENTRO DE ESPECIALIZAO PEDRO MONTEIRO",
   "subnets": {
     "ipv4": [
-      "45.167.208.0/23",
-      "45.167.211.0/24"
+      "45.167.208.0/22"
     ],
-    "ipv6": []
+    "ipv6": [
+      "2804:568c::/32"
+    ]
   }
 }

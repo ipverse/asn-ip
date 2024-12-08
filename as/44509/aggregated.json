@@ -4,6 +4,7 @@
   "description": "LZ NETWORKS LIMITED",
   "subnets": {
     "ipv4": [
+      "44.32.149.0/24",
       "156.231.111.0/24"
     ],
     "ipv6": [

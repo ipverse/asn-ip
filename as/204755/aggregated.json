@@ -4,6 +4,7 @@
   "description": "MAV Studios UK LTD",
   "subnets": {
     "ipv4": [
+      "31.56.110.0/24",
       "93.123.118.0/24"
     ],
     "ipv6": [
