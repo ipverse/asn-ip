@@ -1,0 +1,11 @@
+{
+  "asn": 26260,
+  "handle": "TMTAS01",
+  "description": "The Media Trust",
+  "subnets": {
+    "ipv4": [
+      "98.158.230.0/23"
+    ],
+    "ipv6": []
+  }
+}

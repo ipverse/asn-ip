@@ -1,9 +1,11 @@
 {
   "asn": 395417,
-  "handle": "EARTHBEND",
-  "description": "EarthBend",
+  "handle": "KS-01",
+  "description": "Kaco Systems Inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "23.179.40.0/24"
+    ],
     "ipv6": []
   }
 }

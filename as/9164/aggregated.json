@@ -1,9 +1,11 @@
 {
   "asn": 9164,
-  "handle": "KIROVKA-NET",
-  "description": "FOP Styopin Vyacheslav Evgenovich",
+  "handle": "R-TEL",
+  "description": "R-TEL LLC",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a14:6300:6::/48"
+    ]
   }
 }

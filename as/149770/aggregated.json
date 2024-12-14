@@ -4,7 +4,7 @@
   "description": "L.J Broadband Network",
   "subnets": {
     "ipv4": [
-      "103.185.250.0/23"
+      "103.185.250.0/24"
     ],
     "ipv6": []
   }

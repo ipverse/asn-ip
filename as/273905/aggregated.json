@@ -1,0 +1,12 @@
+{
+  "asn": 273905,
+  "handle": "AMERICANA-TECNOLOGIA-COMUNICACIONES",
+  "description": "AMERICANA DE TECNOLOGIA Y COMUNICACIONES SAS",
+  "subnets": {
+    "ipv4": [
+      "38.172.216.0/21",
+      "190.109.62.0/24"
+    ],
+    "ipv6": []
+  }
+}

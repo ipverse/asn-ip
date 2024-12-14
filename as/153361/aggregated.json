@@ -3,7 +3,9 @@
   "handle": "BHPL-AP",
   "description": "BANGLADESH HONDA PRIVATE LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "160.187.222.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -4,6 +4,7 @@
   "description": "Tadbir Pardaz IT Group LTD",
   "subnets": {
     "ipv4": [
+      "45.156.202.0/24",
       "109.94.166.0/24"
     ],
     "ipv6": []

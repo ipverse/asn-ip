@@ -1,0 +1,13 @@
+{
+  "asn": 273985,
+  "handle": "GIGARED-CENTRO",
+  "description": "GIGARED CENTRO S.A.C.",
+  "subnets": {
+    "ipv4": [
+      "38.211.62.0/24"
+    ],
+    "ipv6": [
+      "2803:c8d0::/32"
+    ]
+  }
+}

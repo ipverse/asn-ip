@@ -1,0 +1,12 @@
+{
+  "asn": 1288,
+  "handle": "PCH-LOCAL-TRANSIT",
+  "description": "Packet Clearing House, Inc.",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2620:171:36::/48",
+      "2620:171:e7::/48"
+    ]
+  }
+}

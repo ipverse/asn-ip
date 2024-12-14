@@ -4,7 +4,8 @@
   "description": "Netsolutions Limited",
   "subnets": {
     "ipv4": [
-      "202.181.144.0/24"
+      "202.181.144.0/24",
+      "202.181.248.0/24"
     ],
     "ipv6": []
   }

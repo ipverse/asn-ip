@@ -1,0 +1,12 @@
+{
+  "asn": 273971,
+  "handle": "COOPERATIVA-SERVICIOS-PUBLICOS",
+  "description": "COOPERATIVA DE SERVICIOS PUBLICOS DEL CAMPILLO LIMITADA",
+  "subnets": {
+    "ipv4": [
+      "179.51.200.0/22",
+      "186.5.217.0/24"
+    ],
+    "ipv6": []
+  }
+}

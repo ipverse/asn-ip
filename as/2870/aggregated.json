@@ -1,0 +1,11 @@
+{
+  "asn": 2870,
+  "handle": "RESERVED",
+  "description": "RIPE NCC ASN block",
+  "subnets": {
+    "ipv4": [
+      "205.145.14.0/24"
+    ],
+    "ipv6": []
+  }
+}

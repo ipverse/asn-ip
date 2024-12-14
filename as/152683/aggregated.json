@@ -1,0 +1,11 @@
+{
+  "asn": 152683,
+  "handle": "BGS-AP",
+  "description": "Brighton Grammar School",
+  "subnets": {
+    "ipv4": [
+      "202.36.87.0/24"
+    ],
+    "ipv6": []
+  }
+}

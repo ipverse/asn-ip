@@ -3,7 +3,9 @@
   "handle": "RIZNET-AS1",
   "description": "RiZ Computers s.c.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.189.63.0/24"
+    ],
     "ipv6": []
   }
 }

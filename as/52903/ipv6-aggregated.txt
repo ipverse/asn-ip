@@ -1,4 +1,6 @@
 # AS52903 (SGLINKNET-TELECOMUNICACOES)
 # Sglinknet Telecomunicacoes Ltda-ME
 #
-2804:aa8::/32
+2804:aa8::/40
+2804:aa8:300::/40
+2804:aa8:600::/40

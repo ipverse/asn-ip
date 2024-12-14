@@ -1,9 +1,13 @@
 {
   "asn": 19468,
-  "handle": "VEEYA",
-  "description": "Veeya, LLC",
+  "handle": "VALEX",
+  "description": "Valex Cloud LLC",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "216.74.105.0/24"
+    ],
+    "ipv6": [
+      "2602:f76f::/44"
+    ]
   }
 }

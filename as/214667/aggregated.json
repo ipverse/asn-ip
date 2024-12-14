@@ -1,0 +1,11 @@
+{
+  "asn": 214667,
+  "handle": "IXT-GLOBAL",
+  "description": "IXT AS",
+  "subnets": {
+    "ipv4": [
+      "195.214.200.0/21"
+    ],
+    "ipv6": []
+  }
+}

@@ -4,6 +4,9 @@
   "description": "Level 3 Parent, LLC",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2c0f:4640:1000::/38",
+      "2c0f:4640:1400::/39"
+    ]
   }
 }

@@ -4,6 +4,7 @@
   "description": "Cyber Way Technology",
   "subnets": {
     "ipv4": [
+      "103.35.169.0/24",
       "103.35.170.0/24"
     ],
     "ipv6": []

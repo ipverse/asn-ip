@@ -4,6 +4,7 @@
   "description": "DIJUST DEVELOPMENT LTD",
   "subnets": {
     "ipv4": [
+      "31.56.3.0/24",
       "86.106.108.0/24"
     ],
     "ipv6": []

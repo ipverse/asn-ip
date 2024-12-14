@@ -1,0 +1,12 @@
+{
+  "asn": 213748,
+  "handle": "MQNG",
+  "description": "Minh Nguyen",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2001:67c:f70::/48",
+      "2a06:de00:f0::/44"
+    ]
+  }
+}

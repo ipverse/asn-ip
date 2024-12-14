@@ -1,0 +1,11 @@
+{
+  "asn": 39941,
+  "handle": "PACIFIC-WAVE",
+  "description": "Pacific Wave",
+  "subnets": {
+    "ipv4": [
+      "207.231.255.0/24"
+    ],
+    "ipv6": []
+  }
+}

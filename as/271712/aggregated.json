@@ -3,7 +3,11 @@
   "handle": "PEDRO-LOPES-SILVA",
   "description": "PEDRO LOPES DA SILVA NETO TELECOM EIRELI",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "177.21.148.0/22"
+    ],
+    "ipv6": [
+      "2804:7fd4::/32"
+    ]
   }
 }

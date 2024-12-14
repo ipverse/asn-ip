@@ -1,9 +1,11 @@
 {
   "asn": 137908,
-  "handle": "RESERVED",
-  "description": "APNIC ASN block",
+  "handle": "MOEFIRE-AP",
+  "description": "Lin Siqi",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2406:840:ee40::/44"
+    ]
   }
 }

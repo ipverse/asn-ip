@@ -1,0 +1,11 @@
+{
+  "asn": 214386,
+  "handle": "EXTRAVARCLOUD",
+  "description": "ExtraVar BV",
+  "subnets": {
+    "ipv4": [
+      "149.126.10.0/23"
+    ],
+    "ipv6": []
+  }
+}

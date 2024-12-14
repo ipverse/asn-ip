@@ -1,6 +1,6 @@
 {
   "asn": 52210,
-  "handle": "ACCURIS",
+  "handle": "CANAD-111",
   "description": "Accuris Technologies Ltd.",
   "subnets": {
     "ipv4": [
@@ -12,9 +12,7 @@
       "2602:fcd3:2::/48",
       "2602:fcd3:5::/48",
       "2602:fcd3:9::/48",
-      "2602:fcd3:a::/48",
-      "2a07:54c4:174b::/48",
-      "2a0a:6040:c500::/40"
+      "2602:fcd3:a::/48"
     ]
   }
 }

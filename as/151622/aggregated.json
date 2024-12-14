@@ -4,7 +4,8 @@
   "description": "Earthstar Solution Co., Ltd.",
   "subnets": {
     "ipv4": [
-      "103.47.176.0/22"
+      "103.47.176.0/22",
+      "103.245.232.0/24"
     ],
     "ipv6": []
   }

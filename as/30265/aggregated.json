@@ -3,8 +3,11 @@
   "handle": "77997NFLD-MAIN",
   "description": "77997 Newfoundland and Labrador Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "23.184.248.0/24"
+    ],
     "ipv6": [
+      "2602:f86e:100::/48",
       "2602:f86e:102::/48"
     ]
   }

@@ -1,0 +1,11 @@
+{
+  "asn": 153381,
+  "handle": "ACC1-AP",
+  "description": "Australian Crime Commission",
+  "subnets": {
+    "ipv4": [
+      "198.49.32.0/21"
+    ],
+    "ipv6": []
+  }
+}

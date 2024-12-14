@@ -1,6 +1,6 @@
 {
   "asn": 51692,
-  "handle": "HYBERHOST",
+  "handle": "HYBER",
   "description": "Steven Smith trading as HyberHost",
   "subnets": {
     "ipv4": [
@@ -9,8 +9,8 @@
     "ipv6": [
       "2602:f865:10::/44",
       "2602:f865:20::/44",
-      "2602:f865:e0::/48",
-      "2602:f865:f0::/48"
+      "2602:f865:e0::/47",
+      "2602:f865:f1::/48"
     ]
   }
 }

@@ -1,0 +1,11 @@
+{
+  "asn": 135091,
+  "handle": "AYAANCOMMUNICATION-AP",
+  "description": "Ayaan communication",
+  "subnets": {
+    "ipv4": [
+      "160.250.190.0/23"
+    ],
+    "ipv6": []
+  }
+}

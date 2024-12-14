@@ -4,7 +4,8 @@
   "description": "LTD Personal Interactive Communications",
   "subnets": {
     "ipv4": [
-      "93.189.224.0/22"
+      "93.189.224.0/24",
+      "93.189.226.0/23"
     ],
     "ipv6": []
   }

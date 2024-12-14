@@ -1,11 +1,9 @@
 {
   "asn": 26667,
   "handle": "RUBICONPROJECT",
-  "description": "The Rubicon Project, Inc.",
+  "description": "Magnite, Inc.",
   "subnets": {
     "ipv4": [
-      "8.39.32.0/22",
-      "8.39.36.0/23",
       "8.43.72.0/22",
       "69.173.144.0/21",
       "69.173.152.0/22",

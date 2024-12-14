@@ -4,7 +4,8 @@
   "description": "FASTNET COMUNICACIONES ISP SAS",
   "subnets": {
     "ipv4": [
-      "38.191.66.0/23"
+      "38.191.66.0/23",
+      "138.117.41.0/24"
     ],
     "ipv6": [
       "2803:f890::/32"

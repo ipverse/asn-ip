@@ -3,7 +3,9 @@
   "handle": "LTA-AP",
   "description": "Land Transport Authority",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "160.191.213.0/24"
+    ],
     "ipv6": []
   }
 }

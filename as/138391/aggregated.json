@@ -3,7 +3,9 @@
   "handle": "DBKL-AP",
   "description": "Dewan Bandaraya Kuala Lumpur",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "160.187.133.0/24"
+    ],
     "ipv6": []
   }
 }

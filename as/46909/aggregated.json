@@ -1,0 +1,11 @@
+{
+  "asn": 46909,
+  "handle": "PHILADELPHIAFCU",
+  "description": "Philadelphia Federal Credit Union",
+  "subnets": {
+    "ipv4": [
+      "65.222.131.0/24"
+    ],
+    "ipv6": []
+  }
+}

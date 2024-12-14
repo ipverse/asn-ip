@@ -1,0 +1,13 @@
+{
+  "asn": 273851,
+  "handle": "CABLE-HOGAR-CA",
+  "description": "CABLE HOGAR C.A.",
+  "subnets": {
+    "ipv4": [
+      "38.93.48.0/21"
+    ],
+    "ipv6": [
+      "2803:e550::/32"
+    ]
+  }
+}

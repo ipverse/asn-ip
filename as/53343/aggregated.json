@@ -1,0 +1,11 @@
+{
+  "asn": 53343,
+  "handle": "SCN",
+  "description": "sc Network",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a0a:6044:a840::/44"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 213987,
+  "handle": "CRAFTSERV",
+  "description": "Samuel Duhaupas",
+  "subnets": {
+    "ipv4": [
+      "193.24.234.0/24"
+    ],
+    "ipv6": [
+      "2a10:4646:490::/44"
+    ]
+  }
+}

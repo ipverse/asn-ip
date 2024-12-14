@@ -1,9 +1,11 @@
 {
   "asn": 396192,
-  "handle": "RACC2000",
-  "description": "RACC Enterprises, LLC",
+  "handle": "SOUTH-JERSEY-TRANPORTATION-AUTHORITY",
+  "description": "South Jersey Transportation Authority",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.5.196.0/24"
+    ],
     "ipv6": []
   }
 }

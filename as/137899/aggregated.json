@@ -3,7 +3,12 @@
   "handle": "ILAYERLIMITED-AP",
   "description": "I LAYER LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.192.96.0/22",
+      "45.207.192.0/21",
+      "45.207.208.0/21",
+      "154.222.16.0/22"
+    ],
     "ipv6": []
   }
 }

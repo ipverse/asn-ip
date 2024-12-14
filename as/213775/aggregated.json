@@ -1,0 +1,12 @@
+{
+  "asn": 213775,
+  "handle": "IRANIAN-NETWORK",
+  "description": "Shabake Tarh Madar Iranian Private Joint Stock Company",
+  "subnets": {
+    "ipv4": [
+      "5.160.199.0/24",
+      "46.209.224.0/23"
+    ],
+    "ipv6": []
+  }
+}

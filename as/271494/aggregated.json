@@ -4,7 +4,6 @@
   "description": "Soft Telecom",
   "subnets": {
     "ipv4": [
-      "45.163.16.0/24",
       "187.63.152.0/22"
     ],
     "ipv6": [

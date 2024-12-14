@@ -4,6 +4,7 @@
   "description": "FREEDOM TELECOM LLP",
   "subnets": {
     "ipv4": [
+      "45.135.131.0/24",
       "193.148.60.0/24"
     ],
     "ipv6": []

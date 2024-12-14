@@ -4,6 +4,7 @@
   "description": "GLOBAL ONLINE",
   "subnets": {
     "ipv4": [
+      "103.179.154.0/23",
       "202.61.82.0/23"
     ],
     "ipv6": []
