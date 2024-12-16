@@ -3,9 +3,7 @@
   "handle": "IDNIC-STNET-ID",
   "description": "PT SUMATERA TEKNOLOGI NETWORK",
   "subnets": {
-    "ipv4": [
-      "160.22.136.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

@@ -3,7 +3,11 @@
   "handle": "TMP-NETWORKS",
   "description": "TMP-SYSTEM-SERVICE GmbH",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "185.204.184.0/24"
+    ],
+    "ipv6": [
+      "2a0e:c940::/29"
+    ]
   }
 }

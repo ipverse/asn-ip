@@ -4,7 +4,9 @@
   "description": "VIALUX INTERNET BANDA LARGA LTDA",
   "subnets": {
     "ipv4": [
-      "186.219.52.0/22"
+      "45.65.212.0/22",
+      "186.219.52.0/22",
+      "189.76.71.0/24"
     ],
     "ipv6": [
       "2804:73fc::/32"

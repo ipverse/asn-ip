@@ -1,0 +1,11 @@
+{
+  "asn": 135374,
+  "handle": "SBC21SYSTEM-AP",
+  "description": "SBC-21 System",
+  "subnets": {
+    "ipv4": [
+      "160.250.196.0/23"
+    ],
+    "ipv6": []
+  }
+}
