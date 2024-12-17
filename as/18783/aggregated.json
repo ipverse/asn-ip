@@ -1,0 +1,11 @@
+{
+  "asn": 18783,
+  "handle": "RDSEC-NET-01",
+  "description": "RD Sec LLC",
+  "subnets": {
+    "ipv4": [
+      "23.130.172.0/24"
+    ],
+    "ipv6": []
+  }
+}

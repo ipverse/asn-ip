@@ -4,8 +4,6 @@
   "description": "CERNET2 IX at Tsinghua University",
   "subnets": {
     "ipv4": [
-      "101.5.24.0/21",
-      "101.5.40.0/21",
       "219.224.97.0/24"
     ],
     "ipv6": [

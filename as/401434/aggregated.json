@@ -3,9 +3,7 @@
   "handle": "HYTRONNETWORK-US",
   "description": "Hytron Network Services (US) LLC",
   "subnets": {
-    "ipv4": [
-      "38.165.2.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

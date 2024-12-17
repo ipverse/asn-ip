@@ -3,7 +3,9 @@
   "handle": "KWSL-AP",
   "description": "Kinross Wolaroi School Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.177.158.0/24"
+    ],
     "ipv6": []
   }
 }

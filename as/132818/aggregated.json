@@ -4,6 +4,7 @@
   "description": "Viking Telecom Limited",
   "subnets": {
     "ipv4": [
+      "43.251.35.0/24",
       "117.18.110.0/24"
     ],
     "ipv6": []

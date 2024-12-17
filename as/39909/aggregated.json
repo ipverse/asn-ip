@@ -4,7 +4,9 @@
   "description": "Institute of Soil Science and Plant Cultivation - State Research Institute",
   "subnets": {
     "ipv4": [
-      "217.113.152.0/21"
+      "217.113.153.0/24",
+      "217.113.154.0/23",
+      "217.113.156.0/22"
     ],
     "ipv6": []
   }

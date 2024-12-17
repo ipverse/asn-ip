@@ -3,7 +3,9 @@
   "handle": "SDEE",
   "description": "DISTRIBUTIE ENERGIE ELECTRICA ROMANIA S.A.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "5.183.168.0/24"
+    ],
     "ipv6": []
   }
 }

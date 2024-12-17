@@ -3,7 +3,9 @@
   "handle": "ATOM",
   "description": "Atom Networks, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "204.152.22.0/24"
+    ],
     "ipv6": []
   }
 }

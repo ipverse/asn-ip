@@ -1,0 +1,11 @@
+{
+  "asn": 213810,
+  "handle": "SONET",
+  "description": "SONET LLC",
+  "subnets": {
+    "ipv4": [
+      "80.64.20.0/24"
+    ],
+    "ipv6": []
+  }
+}

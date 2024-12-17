@@ -1,9 +1,11 @@
 {
   "asn": 202349,
-  "handle": "FIBRIX",
+  "handle": "FIBRABOX",
   "description": "Fibercli Proyectos e Innovacion S.L.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "80.66.127.0/24"
+    ],
     "ipv6": []
   }
 }
