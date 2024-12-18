@@ -3,9 +3,7 @@
   "handle": "OMEGA-1-COMMUNICATIONS-OKC",
   "description": "Chisholm Broadband LLC",
   "subnets": {
-    "ipv4": [
-      "206.168.180.0/22"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

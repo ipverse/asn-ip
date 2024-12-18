@@ -4,6 +4,7 @@
   "description": "LANLIAN INTERNATIONAL HOLDING GROUP LIMITED",
   "subnets": {
     "ipv4": [
+      "38.6.192.0/21",
       "165.3.64.0/20"
     ],
     "ipv6": []

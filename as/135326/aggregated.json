@@ -4,7 +4,7 @@
   "description": "SCOOTNET",
   "subnets": {
     "ipv4": [
-      "103.209.2.0/23"
+      "103.209.2.0/24"
     ],
     "ipv6": []
   }

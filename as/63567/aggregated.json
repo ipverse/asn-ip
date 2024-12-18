@@ -3,7 +3,9 @@
   "handle": "PGYIDC",
   "description": "Suqian Pugongying Network Service Co.,Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.83.72.0/22"
+    ],
     "ipv6": []
   }
 }

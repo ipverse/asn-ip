@@ -3,7 +3,9 @@
   "handle": "DIAZ-TORO-JAVIER-ANDRES",
   "description": "DIAZ TORO JAVIER ANDRES (ECUARED PCTRONIC)",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "200.112.218.0/24"
+    ],
     "ipv6": []
   }
 }

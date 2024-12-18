@@ -3,9 +3,7 @@
   "handle": "GROOTOP-PREMIUM-HOST",
   "description": "GrootOP Premium Host",
   "subnets": {
-    "ipv4": [
-      "198.161.20.0/24"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2a07:2486:fe0::/44",
       "2a07:54c7:600f::/48"

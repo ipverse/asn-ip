@@ -3,12 +3,7 @@
   "handle": "CITY-NET-INTERNET-EIRELI",
   "description": "CITY NET INTERNET EIRELI ME",
   "subnets": {
-    "ipv4": [
-      "45.167.100.0/22"
-    ],
-    "ipv6": [
-      "2804:567c:400::/38",
-      "2804:567c:800::/38"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

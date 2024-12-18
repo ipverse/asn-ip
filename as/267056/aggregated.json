@@ -4,6 +4,7 @@
   "description": "EVEREST RIDGE DO BRASIL LTDA",
   "subnets": {
     "ipv4": [
+      "45.160.215.0/24",
       "45.226.208.0/22"
     ],
     "ipv6": [

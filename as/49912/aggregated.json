@@ -4,6 +4,8 @@
   "description": "UAB Moletu radijas ir televizija",
   "subnets": {
     "ipv4": [
+      "84.32.80.0/23",
+      "88.216.26.0/23",
       "88.216.105.0/24",
       "88.216.160.0/23"
     ],

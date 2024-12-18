@@ -4,6 +4,7 @@
   "description": "MK Netzdienste GmbH",
   "subnets": {
     "ipv4": [
+      "153.94.128.0/23",
       "217.199.199.0/24"
     ],
     "ipv6": [
