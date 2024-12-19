@@ -4,7 +4,7 @@
   "description": "Saipa Yadak Co. PLC",
   "subnets": {
     "ipv4": [
-      "5.160.192.0/23"
+      "5.160.192.0/24"
     ],
     "ipv6": []
   }

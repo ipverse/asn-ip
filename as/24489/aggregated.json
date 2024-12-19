@@ -4,8 +4,6 @@
   "description": "Trans-Eurasia Information Network (TEIN2) - North",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2001:254::/32"
-    ]
+    "ipv6": []
   }
 }

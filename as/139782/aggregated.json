@@ -4,6 +4,9 @@
   "description": "IXPMOE Internet Exchange",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2405:84c0:ff31::/48",
+      "2405:84c0:ff32::/48"
+    ]
   }
 }

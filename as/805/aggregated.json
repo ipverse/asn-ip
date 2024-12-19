@@ -4,6 +4,7 @@
   "description": "Globe Life Inc.",
   "subnets": {
     "ipv4": [
+      "12.36.80.0/24",
       "140.235.192.0/22"
     ],
     "ipv6": []

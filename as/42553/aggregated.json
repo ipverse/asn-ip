@@ -3,7 +3,9 @@
   "handle": "ENAVN",
   "description": "Fionia IT ApS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.178.112.0/24"
+    ],
     "ipv6": []
   }
 }

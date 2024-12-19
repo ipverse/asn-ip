@@ -3,12 +3,7 @@
   "handle": "CBTECH",
   "description": "Calexico Business Technologies",
   "subnets": {
-    "ipv4": [
-      "38.22.44.0/23"
-    ],
-    "ipv6": [
-      "2001:550:a505::/48",
-      "2607:a9c0::/32"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "AER-LEXINGTON-MA",
   "description": "AER",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "209.23.207.0/24"
+    ],
     "ipv6": []
   }
 }

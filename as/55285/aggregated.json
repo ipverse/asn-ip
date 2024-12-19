@@ -3,7 +3,9 @@
   "handle": "SERVERSIDE",
   "description": "Serverside.com",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "198.73.56.0/24"
+    ],
     "ipv6": [
       "2607:e0c0:3::/48",
       "2607:e0c0:4::/48"

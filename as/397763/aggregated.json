@@ -3,11 +3,7 @@
   "handle": "SPACEX-STARLINK",
   "description": "SpaceX Services, Inc.",
   "subnets": {
-    "ipv4": [
-      "129.224.221.0/24"
-    ],
-    "ipv6": [
-      "2605:59c7:f081::/48"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

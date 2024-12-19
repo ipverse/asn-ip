@@ -3,7 +3,9 @@
   "handle": "KAIRANET",
   "description": "Ismail Ozbay",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "93.93.28.0/22"
+    ],
     "ipv6": []
   }
 }

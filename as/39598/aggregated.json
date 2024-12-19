@@ -4,8 +4,7 @@
   "description": "Global Network Management Inc",
   "subnets": {
     "ipv4": [
-      "95.161.55.0/24",
-      "95.161.60.0/24"
+      "95.161.55.0/24"
     ],
     "ipv6": []
   }

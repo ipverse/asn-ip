@@ -4,9 +4,6 @@
   "description": "Packet Clearing House, Inc.",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2620:171:36::/48",
-      "2620:171:e7::/48"
-    ]
+    "ipv6": []
   }
 }

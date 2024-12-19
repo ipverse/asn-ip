@@ -4,6 +4,7 @@
   "description": "Subinet Sp. z o.o.",
   "subnets": {
     "ipv4": [
+      "5.181.189.0/24",
       "193.34.215.0/24"
     ],
     "ipv6": []

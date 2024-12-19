@@ -3,12 +3,7 @@
   "handle": "MEDIALYS",
   "description": "MEDI@LYS SAS",
   "subnets": {
-    "ipv4": [
-      "88.219.0.0/16",
-      "95.157.192.0/18"
-    ],
-    "ipv6": [
-      "2a00:e080::/32"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

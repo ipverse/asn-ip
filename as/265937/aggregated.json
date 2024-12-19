@@ -4,6 +4,7 @@
   "description": "Alianca TecnoinfoLtda",
   "subnets": {
     "ipv4": [
+      "45.224.160.0/22",
       "164.163.28.0/22"
     ],
     "ipv6": [
