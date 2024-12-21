@@ -3,7 +3,9 @@
   "handle": "FARDA-IX-LINK",
   "description": "Red Team LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "23.128.36.0/24"
+    ],
     "ipv6": []
   }
 }

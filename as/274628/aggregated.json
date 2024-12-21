@@ -4,6 +4,8 @@
   "description": "MARCOS JESUS DOS SANTOS INTERNET",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2804:913c::/32"
+    ]
   }
 }

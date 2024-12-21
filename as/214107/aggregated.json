@@ -4,9 +4,6 @@
   "description": "sourceWAY GmbH",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2a14:6780:2::/48",
-      "2a14:6780:ca::/48"
-    ]
+    "ipv6": []
   }
 }

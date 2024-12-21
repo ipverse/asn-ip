@@ -4,6 +4,7 @@
   "description": "BlueNet Communication JV ltd.",
   "subnets": {
     "ipv4": [
+      "103.139.234.0/23",
       "103.146.42.0/23",
       "103.244.140.0/22",
       "150.107.48.0/23"

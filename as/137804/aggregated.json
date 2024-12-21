@@ -4,8 +4,6 @@
   "description": "China Internet Exchange",
   "subnets": {
     "ipv4": [
-      "101.49.152.0/21",
-      "103.216.40.0/22",
       "157.119.172.0/22"
     ],
     "ipv6": []

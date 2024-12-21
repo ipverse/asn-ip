@@ -3,9 +3,12 @@
   "handle": "SGU-NET",
   "description": "See Get Upstart Technology Co., Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "160.191.202.0/23"
+    ],
     "ipv6": [
-      "2400:b0a0::/32"
+      "2400:b0a0::/32",
+      "2401:d620::/32"
     ]
   }
 }

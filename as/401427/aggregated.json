@@ -1,0 +1,11 @@
+{
+  "asn": 401427,
+  "handle": "SLMD-US-01",
+  "description": "Solidigm",
+  "subnets": {
+    "ipv4": [
+      "216.152.112.0/23"
+    ],
+    "ipv6": []
+  }
+}

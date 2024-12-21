@@ -3,9 +3,7 @@
   "handle": "DBP",
   "description": "Deutsche Telekom AG",
   "subnets": {
-    "ipv4": [
-      "151.114.250.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

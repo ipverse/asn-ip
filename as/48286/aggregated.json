@@ -4,6 +4,7 @@
   "description": "Mavi Net Elektronik iletisim Bil.Hizm.San.ve Tic.Ltd.Sti.",
   "subnets": {
     "ipv4": [
+      "185.12.110.0/23",
       "185.241.56.0/24"
     ],
     "ipv6": []

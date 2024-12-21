@@ -3,7 +3,9 @@
   "handle": "BITEXCHANGE-HK",
   "description": "Bit Exchange Systems Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "101.1.7.0/24"
+    ],
     "ipv6": []
   }
 }

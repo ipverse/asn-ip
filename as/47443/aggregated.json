@@ -4,8 +4,7 @@
   "description": "Magnet Networks Limited",
   "subnets": {
     "ipv4": [
-      "37.26.72.0/23",
-      "87.232.134.0/24"
+      "37.26.72.0/23"
     ],
     "ipv6": [
       "2a01:14f::/32"

@@ -3,7 +3,9 @@
   "handle": "BILENDI-TECH",
   "description": "Bilendi Technology SARL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "78.40.88.0/21"
+    ],
     "ipv6": []
   }
 }

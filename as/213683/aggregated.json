@@ -1,0 +1,11 @@
+{
+  "asn": 213683,
+  "handle": "HOST-AL",
+  "description": "Host.AL Shpk",
+  "subnets": {
+    "ipv4": [
+      "91.239.7.0/24"
+    ],
+    "ipv6": []
+  }
+}

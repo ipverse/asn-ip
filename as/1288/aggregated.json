@@ -3,7 +3,10 @@
   "handle": "PCH-LOCAL-TRANSIT",
   "description": "Packet Clearing House, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "66.185.119.0/24",
+      "74.80.105.0/24"
+    ],
     "ipv6": []
   }
 }
