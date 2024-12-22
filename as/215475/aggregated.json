@@ -1,0 +1,13 @@
+{
+  "asn": 215475,
+  "handle": "ASDGSVC",
+  "description": "Kiwazo CommV",
+  "subnets": {
+    "ipv4": [
+      "23.161.24.0/24"
+    ],
+    "ipv6": [
+      "2602:2f2:1::/48"
+    ]
+  }
+}

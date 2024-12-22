@@ -3,7 +3,9 @@
   "handle": "CHINATELECOM-HEBEI-XIONGAN",
   "description": "Xiong\u0027an, Hebei Province, P.R.China.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.131.138.0/23"
+    ],
     "ipv6": [
       "240e:108:2d::/48",
       "240e:108:10f1::/48",

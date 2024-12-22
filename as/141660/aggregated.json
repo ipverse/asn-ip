@@ -3,7 +3,9 @@
   "handle": "AKSIRIAU-ID",
   "description": "PT Wahyu Akses Koneksi Riau",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.162.152.0/23"
+    ],
     "ipv6": []
   }
 }

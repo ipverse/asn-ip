@@ -1,0 +1,11 @@
+{
+  "asn": 153140,
+  "handle": "IDNIC-KAM-ID",
+  "description": "PT Karya Akbar Mandiri",
+  "subnets": {
+    "ipv4": [
+      "160.187.231.0/24"
+    ],
+    "ipv6": []
+  }
+}

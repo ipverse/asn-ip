@@ -3,10 +3,7 @@
   "handle": "RPECH-IN",
   "description": "Rp Echonet Private Limited",
   "subnets": {
-    "ipv4": [
-      "103.138.136.0/23",
-      "103.138.139.0/24"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2401:1e20::/32"
     ]

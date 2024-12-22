@@ -3,10 +3,9 @@
   "handle": "KWIKBIT-INTERNET",
   "description": "Kwikbit Internet, Inc.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": [
-      "2602:f912::/48",
-      "2602:f912:2000::/40"
-    ]
+    "ipv4": [
+      "23.185.8.0/24"
+    ],
+    "ipv6": []
   }
 }

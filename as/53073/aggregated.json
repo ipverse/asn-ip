@@ -3,13 +3,7 @@
   "handle": "GD-SERVIOS-INTERNET",
   "description": "GD SERVIOS INTERNET LTDA",
   "subnets": {
-    "ipv4": [
-      "187.87.32.0/24",
-      "187.87.40.0/24",
-      "187.87.42.0/23",
-      "187.87.44.0/23",
-      "187.87.46.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

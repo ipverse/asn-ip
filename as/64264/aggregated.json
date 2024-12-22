@@ -3,7 +3,11 @@
   "handle": "RAPTUREWERKS",
   "description": "RaptureWerks",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "167.253.110.0/24"
+    ],
+    "ipv6": [
+      "2602:fb6b::/36"
+    ]
   }
 }

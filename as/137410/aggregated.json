@@ -3,9 +3,9 @@
   "handle": "MDMSL-AP",
   "description": "MiM Digital Marketing Solution Ltd.",
   "subnets": {
-    "ipv4": [
-      "160.250.192.0/24"
-    ],
-    "ipv6": []
+    "ipv4": [],
+    "ipv6": [
+      "2001:df4:bc40::/48"
+    ]
   }
 }

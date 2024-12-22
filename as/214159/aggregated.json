@@ -4,6 +4,7 @@
   "description": "UAB Cherry Servers",
   "subnets": {
     "ipv4": [
+      "31.57.204.0/24",
       "88.216.214.0/24",
       "185.189.44.0/22"
     ],
