@@ -1,9 +1,11 @@
 {
   "asn": 131474,
-  "handle": "GUMTREE-AP",
-  "description": "Gumtree.com Australia Pty Ltd",
+  "handle": "NETX-AP",
+  "description": "Sajid Trading Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.179.127.0/24"
+    ],
     "ipv6": []
   }
 }

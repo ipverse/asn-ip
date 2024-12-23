@@ -1,9 +1,11 @@
 {
   "asn": 399765,
-  "handle": "HENDALL",
-  "description": "Hendall inc",
+  "handle": "FASNET-SERVICES",
+  "description": "FasNET Services LLC",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2602:f75c::/48"
+    ]
   }
 }

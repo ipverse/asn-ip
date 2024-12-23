@@ -3,7 +3,9 @@
   "handle": "SWIFTNESS",
   "description": "Swiftness Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.6.65.0/24"
+    ],
     "ipv6": []
   }
 }

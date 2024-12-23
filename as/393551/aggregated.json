@@ -1,0 +1,11 @@
+{
+  "asn": 393551,
+  "handle": "LON-DC-01",
+  "description": "Exiger LLC",
+  "subnets": {
+    "ipv4": [
+      "154.59.131.0/24"
+    ],
+    "ipv6": []
+  }
+}
