@@ -3,7 +3,9 @@
   "handle": "NEVZ",
   "description": "Limited Liability Company Production Company Novocherkassk Electric Locomotive Works",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.240.220.0/24"
+    ],
     "ipv6": []
   }
 }

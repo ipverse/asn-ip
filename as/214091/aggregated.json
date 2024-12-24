@@ -1,0 +1,11 @@
+{
+  "asn": 214091,
+  "handle": "NORDCOM",
+  "description": "LLC Nord.Com",
+  "subnets": {
+    "ipv4": [
+      "83.143.154.0/23"
+    ],
+    "ipv6": []
+  }
+}

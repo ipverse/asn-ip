@@ -4,6 +4,7 @@
   "description": "Cooperativa Electrica Limitada Obera",
   "subnets": {
     "ipv4": [
+      "38.3.144.0/22",
       "192.141.176.0/22"
     ],
     "ipv6": []

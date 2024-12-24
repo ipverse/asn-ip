@@ -3,7 +3,11 @@
   "handle": "JUNIOR-BRUNO-PECAS",
   "description": "Junior e Bruno Pecas e Servicos em Informatica ltd",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "168.232.0.0/22"
+    ],
+    "ipv6": [
+      "2804:2ff8::/32"
+    ]
   }
 }

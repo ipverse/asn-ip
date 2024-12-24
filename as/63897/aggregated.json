@@ -4,6 +4,7 @@
   "description": "vocom international telecom",
   "subnets": {
     "ipv4": [
+      "38.70.74.0/24",
       "38.150.70.0/24",
       "103.127.237.0/24",
       "103.135.21.0/24",

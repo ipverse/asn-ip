@@ -3,7 +3,9 @@
   "handle": "VELTRA-ID",
   "description": "PT.VELTRATEL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "202.160.139.0/24"
+    ],
     "ipv6": []
   }
 }

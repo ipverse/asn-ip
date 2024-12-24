@@ -4,6 +4,7 @@
   "description": "Lukas Buttler trading as Luke IT consulting",
   "subnets": {
     "ipv4": [
+      "44.31.32.0/24",
       "91.223.183.0/24"
     ],
     "ipv6": [

@@ -4,6 +4,7 @@
   "description": "HOSTOMEGA",
   "subnets": {
     "ipv4": [
+      "160.191.163.0/24",
       "160.250.94.0/24"
     ],
     "ipv6": []

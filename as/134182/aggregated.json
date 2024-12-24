@@ -1,7 +1,7 @@
 {
   "asn": 134182,
-  "handle": "RESERVED",
-  "description": "APNIC ASN block",
+  "handle": "PISI-AP",
+  "description": "Pacificweb Internet Services Inc.",
   "subnets": {
     "ipv4": [
       "103.101.64.0/24"
