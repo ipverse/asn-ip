@@ -3,9 +3,7 @@
   "handle": "EIUNET",
   "description": "Eastern Illinois University",
   "subnets": {
-    "ipv4": [
-      "139.67.226.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

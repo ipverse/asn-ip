@@ -3,11 +3,7 @@
   "handle": "ELECTROCLOUD",
   "description": "Electro Cloud",
   "subnets": {
-    "ipv4": [
-      "45.150.52.0/24"
-    ],
-    "ipv6": [
-      "2607:a0c0::/32"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

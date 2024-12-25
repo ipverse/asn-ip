@@ -4,8 +4,6 @@
   "description": "Asiatel Network Limited",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2001:df2:4340::/48"
-    ]
+    "ipv6": []
   }
 }

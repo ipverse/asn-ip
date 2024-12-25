@@ -3,7 +3,9 @@
   "handle": "CLOUDINOW-SERVICE-CLOUD",
   "description": "Asre Pardazeshe Ettelaate Amin Institute",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "92.114.51.0/24"
+    ],
     "ipv6": [
       "2a07:4286::/32"
     ]

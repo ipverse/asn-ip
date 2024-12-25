@@ -4,8 +4,7 @@
   "description": "Canisius College",
   "subnets": {
     "ipv4": [
-      "138.92.0.0/16",
-      "192.33.253.0/24"
+      "138.92.0.0/16"
     ],
     "ipv6": []
   }
