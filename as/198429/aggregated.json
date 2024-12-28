@@ -4,6 +4,7 @@
   "description": "Fizichna Osoba Pidpriemets Korol Ruslan Vasilievich",
   "subnets": {
     "ipv4": [
+      "185.29.254.0/24",
       "193.201.105.0/24"
     ],
     "ipv6": []

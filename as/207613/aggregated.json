@@ -4,6 +4,8 @@
   "description": "Steffen Vogel",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a09:11c0:200::/44"
+    ]
   }
 }

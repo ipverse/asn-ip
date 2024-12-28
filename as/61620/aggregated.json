@@ -3,10 +3,7 @@
   "handle": "FLOWSPEC-SOLUTIONS",
   "description": "flowspec solutions ltda",
   "subnets": {
-    "ipv4": [
-      "170.150.252.0/22",
-      "179.0.83.0/24"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2804:257c::/32",
       "2804:90d0::/32"

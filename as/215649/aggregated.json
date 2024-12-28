@@ -4,6 +4,11 @@
   "description": "Noel David Georg trading as SN-TUX",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a06:1283:b401::/48",
+      "2a06:1283:b402::/48",
+      "2a06:1283:b440::/48",
+      "2a07:2483::/32"
+    ]
   }
 }

@@ -4,6 +4,7 @@
   "description": "Educational Systems Federal Credit Union",
   "subnets": {
     "ipv4": [
+      "8.8.35.0/24",
       "50.228.247.0/24"
     ],
     "ipv6": []

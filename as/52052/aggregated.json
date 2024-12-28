@@ -1,16 +1,9 @@
 {
   "asn": 52052,
   "handle": "RU-LLCBROADCASTING",
-  "description": "Broadcasting Company KTV Plus LLC",
+  "description": "LLC TRC KTV Plus",
   "subnets": {
-    "ipv4": [
-      "185.166.72.0/22",
-      "193.37.134.0/24",
-      "193.37.155.0/24",
-      "193.37.224.0/24",
-      "193.37.229.0/24",
-      "194.247.33.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

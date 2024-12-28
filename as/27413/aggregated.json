@@ -3,7 +3,11 @@
   "handle": "NTHL",
   "description": "NETWORK TRANSIT HOLDINGS LLC",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "207.210.107.0/24"
+    ],
+    "ipv6": [
+      "2604:b900:5000::/36"
+    ]
   }
 }

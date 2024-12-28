@@ -3,9 +3,7 @@
   "handle": "SIMPLE",
   "description": "SIMPLE CLOUD SOLUTION LLC",
   "subnets": {
-    "ipv4": [
-      "23.169.169.0/24"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2602:f9a9:102::/47"
     ]

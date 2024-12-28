@@ -3,7 +3,9 @@
   "handle": "NORVAX",
   "description": "Norvax, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "198.98.13.0/24"
+    ],
     "ipv6": []
   }
 }

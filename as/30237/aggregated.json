@@ -4,8 +4,7 @@
   "description": "Chaney Systems, Inc.",
   "subnets": {
     "ipv4": [
-      "137.239.0.0/17",
-      "137.239.128.0/18"
+      "137.239.0.0/17"
     ],
     "ipv6": []
   }

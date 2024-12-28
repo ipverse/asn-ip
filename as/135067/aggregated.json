@@ -4,7 +4,8 @@
   "description": "LOGICOM TECHNOLOGY CO.,LIMITED",
   "subnets": {
     "ipv4": [
-      "103.121.32.0/24"
+      "103.121.32.0/24",
+      "103.207.93.0/24"
     ],
     "ipv6": [
       "2001:df3:bc81::/48",

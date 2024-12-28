@@ -4,6 +4,7 @@
   "description": "Network Kazakhstan LLC",
   "subnets": {
     "ipv4": [
+      "185.136.12.0/24",
       "195.226.208.0/24"
     ],
     "ipv6": []

@@ -1,0 +1,11 @@
+{
+  "asn": 139824,
+  "handle": "FNSP-AP",
+  "description": "Fine Net Services Pvt Ltd",
+  "subnets": {
+    "ipv4": [
+      "103.145.184.0/24"
+    ],
+    "ipv6": []
+  }
+}
