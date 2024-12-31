@@ -3,9 +3,7 @@
   "handle": "NETCRACKER",
   "description": "Netcracker Technology EMEA Limited",
   "subnets": {
-    "ipv4": [
-      "195.211.250.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

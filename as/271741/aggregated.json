@@ -3,7 +3,9 @@
   "handle": "SIUSI-N-GARCES",
   "description": "SIUSI N GARCES LOPES MOURA SERVICOS DE INFORMATICA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "200.4.106.0/24"
+    ],
     "ipv6": [
       "2804:8048::/32"
     ]

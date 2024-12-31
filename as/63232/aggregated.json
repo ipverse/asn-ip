@@ -1,0 +1,13 @@
+{
+  "asn": 63232,
+  "handle": "EDL-MANAGER",
+  "description": "EDL Manager, LLC",
+  "subnets": {
+    "ipv4": [
+      "23.131.60.0/24"
+    ],
+    "ipv6": [
+      "2602:f763::/40"
+    ]
+  }
+}

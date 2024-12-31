@@ -1,9 +1,11 @@
 {
   "asn": 138401,
-  "handle": "VERUMLIB-AP",
-  "description": "MM-VERUMLIB CO., LTD.",
+  "handle": "TUPLENET2-AP",
+  "description": "TupleTech Corporation",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2406:840:f862::/48"
+    ]
   }
 }

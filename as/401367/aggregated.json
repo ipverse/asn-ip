@@ -1,0 +1,11 @@
+{
+  "asn": 401367,
+  "handle": "TPS",
+  "description": "Tacoma Public Schools",
+  "subnets": {
+    "ipv4": [
+      "216.186.25.0/24"
+    ],
+    "ipv6": []
+  }
+}

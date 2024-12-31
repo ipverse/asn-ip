@@ -1,0 +1,11 @@
+{
+  "asn": 214612,
+  "handle": "NNPF",
+  "description": "JSC National NPF",
+  "subnets": {
+    "ipv4": [
+      "80.242.54.0/24"
+    ],
+    "ipv6": []
+  }
+}

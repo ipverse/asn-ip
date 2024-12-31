@@ -1,0 +1,14 @@
+{
+  "asn": 397730,
+  "handle": "MILDPANIC2",
+  "description": "coresdev, LLC",
+  "subnets": {
+    "ipv4": [
+      "194.58.65.0/24"
+    ],
+    "ipv6": [
+      "2a0a:6044:7b00::/47",
+      "2a0a:6044:7b03::/48"
+    ]
+  }
+}

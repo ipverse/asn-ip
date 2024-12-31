@@ -3,7 +3,9 @@
   "handle": "ARS",
   "description": "ADVANCED RETAIL SYSTEM SA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "188.241.127.0/24"
+    ],
     "ipv6": []
   }
 }
