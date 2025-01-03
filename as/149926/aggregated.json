@@ -3,7 +3,9 @@
   "handle": "IDNIC-ILHAMWS-ID",
   "description": "PT Ilham Wifi Solution",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.191.154.0/23"
+    ],
     "ipv6": []
   }
 }

@@ -4,7 +4,7 @@
   "description": "City of Colquitt",
   "subnets": {
     "ipv4": [
-      "69.51.28.0/24"
+      "69.51.28.0/23"
     ],
     "ipv6": []
   }
