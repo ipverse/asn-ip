@@ -1,0 +1,11 @@
+{
+  "asn": 9923,
+  "handle": "SIMPLE",
+  "description": "Simple Information, Inc.",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2602:f96c:da::/48"
+    ]
+  }
+}

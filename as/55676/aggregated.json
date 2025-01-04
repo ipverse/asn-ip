@@ -4,8 +4,6 @@
   "description": "PT. Garuda Media Telematika",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2402:2c40::/48"
-    ]
+    "ipv6": []
   }
 }

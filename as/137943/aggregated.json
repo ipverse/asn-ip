@@ -1,0 +1,11 @@
+{
+  "asn": 137943,
+  "handle": "LNISP-AP",
+  "description": "LIVENET. INTERNET SERVICE PROVIDER",
+  "subnets": {
+    "ipv4": [
+      "161.248.50.0/23"
+    ],
+    "ipv6": []
+  }
+}
