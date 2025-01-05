@@ -4,8 +4,6 @@
   "description": "Community Cable and Broadband, LLC",
   "subnets": {
     "ipv4": [
-      "12.11.44.0/23",
-      "12.150.253.0/24",
       "12.175.32.0/24"
     ],
     "ipv6": []

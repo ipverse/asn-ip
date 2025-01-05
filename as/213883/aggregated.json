@@ -3,7 +3,9 @@
   "handle": "INTERNETGEO26",
   "description": "LIMITED LIABILITY COMPANY INTERCOM",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "81.177.212.0/23"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "TAIPEI101-NETWORK-BYOIP",
   "description": "TAIPEI101 NETWORK LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "23.169.169.0/24"
+    ],
     "ipv6": []
   }
 }

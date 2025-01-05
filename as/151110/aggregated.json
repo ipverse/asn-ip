@@ -3,7 +3,9 @@
   "handle": "ENET-IN",
   "description": "Enet Services",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.3.235.0/24"
+    ],
     "ipv6": []
   }
 }

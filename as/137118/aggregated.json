@@ -3,7 +3,9 @@
   "handle": "SPARKLI-IN",
   "description": "Sparklink.Net Pvt Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.111.108.0/22"
+    ],
     "ipv6": []
   }
 }
