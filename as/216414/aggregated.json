@@ -3,9 +3,7 @@
   "handle": "TRUM-VPS",
   "description": "TRUMVPS Company Limited",
   "subnets": {
-    "ipv4": [
-      "95.214.181.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

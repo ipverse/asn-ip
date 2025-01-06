@@ -3,7 +3,9 @@
   "handle": "KREMER",
   "description": "Liam Kremer",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "156.253.222.0/24"
+    ],
     "ipv6": []
   }
 }

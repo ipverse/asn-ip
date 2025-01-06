@@ -3,7 +3,11 @@
   "handle": "COSIS1-VN",
   "description": "REGIONAL STATISTICAL INFORMATICS CENTER I",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "160.25.148.0/24"
+    ],
+    "ipv6": [
+      "2001:df4:b40::/48"
+    ]
   }
 }

@@ -1,0 +1,11 @@
+{
+  "asn": 46582,
+  "handle": "IT-MOTHERSHIP",
+  "description": "IT Mothership",
+  "subnets": {
+    "ipv4": [
+      "198.175.172.0/24"
+    ],
+    "ipv6": []
+  }
+}
