@@ -4,7 +4,6 @@
   "description": "Telefnica Mviles Argentina S.A. (Movistar Argentina)",
   "subnets": {
     "ipv4": [
-      "131.0.104.0/22",
       "186.100.0.0/16",
       "186.140.0.0/14",
       "190.197.128.0/17",

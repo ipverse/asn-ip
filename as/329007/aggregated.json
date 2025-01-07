@@ -4,6 +4,7 @@
   "description": "ELENDE - TECNOLOGIAS DE INFORMACAO - COMERCIO E SERVICOS, LDA",
   "subnets": {
     "ipv4": [
+      "14.192.130.0/24",
       "45.221.65.0/24",
       "45.221.66.0/23",
       "45.221.68.0/22",

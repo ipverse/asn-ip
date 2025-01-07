@@ -3,11 +3,7 @@
   "handle": "SWISSVOIPCARRIERSOLUTIONS",
   "description": "Andreas Meyer, trading as Swiss VoIP Carrier Solutions Meyer",
   "subnets": {
-    "ipv4": [
-      "185.86.225.0/24"
-    ],
-    "ipv6": [
-      "2a0e:8f02:3000::/44"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "TEXAS-LIFE-HOME-OFFICE",
   "description": "Texas Life Insurance Company",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "208.196.9.0/24"
+    ],
     "ipv6": []
   }
 }

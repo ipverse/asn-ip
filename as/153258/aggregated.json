@@ -3,7 +3,11 @@
   "handle": "KAPTECH-IN",
   "description": "KAP TECHNOSOFT PVT LTD",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "160.187.234.0/23"
+    ],
+    "ipv6": [
+      "2401:cc20::/32"
+    ]
   }
 }

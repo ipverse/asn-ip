@@ -3,7 +3,9 @@
   "handle": "INTERCLOUD-AP",
   "description": "InterCloud",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.57.156.0/22"
+    ],
     "ipv6": []
   }
 }

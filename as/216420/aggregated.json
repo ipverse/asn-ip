@@ -4,8 +4,6 @@
   "description": "Novatel druzba za informacijske tehnologije d.o.o.",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2a0d:6f80:1f72::/48"
-    ]
+    "ipv6": []
   }
 }

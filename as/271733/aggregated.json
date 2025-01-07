@@ -3,7 +3,11 @@
   "handle": "JRNET-COMUNICACAO",
   "description": "JRNET COMUNICACAO",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.227.124.0/22"
+    ],
+    "ipv6": [
+      "2804:8028::/32"
+    ]
   }
 }

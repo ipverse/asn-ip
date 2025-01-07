@@ -3,7 +3,9 @@
   "handle": "DAMIENLERICH",
   "description": "Damien LERICHE",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "79.174.20.0/24"
+    ],
     "ipv6": [
       "2a0c:b641:180::/44"
     ]

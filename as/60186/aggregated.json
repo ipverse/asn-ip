@@ -4,8 +4,7 @@
   "description": "Eurasian Development Bank",
   "subnets": {
     "ipv4": [
-      "185.9.120.0/23",
-      "185.9.122.0/24"
+      "185.9.120.0/22"
     ],
     "ipv6": []
   }
