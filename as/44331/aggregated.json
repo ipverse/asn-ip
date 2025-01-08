@@ -4,6 +4,9 @@
   "description": "GrootOP Premium Host",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a07:54c7:600f::/48",
+      "2a14:6781:f100::/44"
+    ]
   }
 }

@@ -1,5 +1,7 @@
 {
   "asn": 40909,
+  "handle": "FUNDAMENTAL-ADVISORS",
+  "description": "Fundamental Advisors LP",
   "subnets": {
     "ipv4": [
       "65.213.6.0/24"

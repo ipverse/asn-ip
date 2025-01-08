@@ -3,9 +3,7 @@
   "handle": "UNIGATE-OVERSEA-IX-AP",
   "description": "Unigate Telecom Inc.",
   "subnets": {
-    "ipv4": [
-      "203.163.214.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

@@ -3,9 +3,7 @@
   "handle": "SIEVERS-SNC",
   "description": "SIEVERS-SNC Beteiligungs GmbH",
   "subnets": {
-    "ipv4": [
-      "45.129.148.0/22"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

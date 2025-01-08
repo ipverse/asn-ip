@@ -1,0 +1,11 @@
+{
+  "asn": 140704,
+  "handle": "NIOTT-AP",
+  "description": "NIT Tiruchirappalli",
+  "subnets": {
+    "ipv4": [
+      "103.28.247.0/24"
+    ],
+    "ipv6": []
+  }
+}

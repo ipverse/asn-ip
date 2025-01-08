@@ -3,7 +3,9 @@
   "handle": "INFORMATICA-BLUEHOSTING-LIMITADA",
   "description": "INFORMATICA BLUEHOSTING LIMITADA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "202.91.136.0/22"
+    ],
     "ipv6": []
   }
 }

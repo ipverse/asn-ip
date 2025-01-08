@@ -3,7 +3,9 @@
   "handle": "PISU-AP",
   "description": "PT. IMTEL SINERGI UTAMA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.4.100.0/23"
+    ],
     "ipv6": []
   }
 }
