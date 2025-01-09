@@ -4,7 +4,8 @@
   "description": "cebe Internet GmbH",
   "subnets": {
     "ipv4": [
-      "2.58.55.0/24"
+      "2.58.55.0/24",
+      "195.88.221.0/24"
     ],
     "ipv6": []
   }

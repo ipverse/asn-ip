@@ -3,10 +3,7 @@
   "handle": "ASSET-BLACK",
   "description": "Momentum Telecom, Inc.",
   "subnets": {
-    "ipv4": [
-      "137.239.214.0/24",
-      "209.178.252.0/24"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2605:88c0::/36"
     ]

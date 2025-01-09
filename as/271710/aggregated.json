@@ -3,7 +3,11 @@
   "handle": "MAURILIO-SANTANA-AZEVEDO",
   "description": "MAURILIO SANTANA DE AZEVEDO LTDA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "192.100.223.0/24"
+    ],
+    "ipv6": [
+      "2804:7fcc::/32"
+    ]
   }
 }

@@ -3,10 +3,7 @@
   "handle": "SWIP",
   "description": "Southern Communications Ltd",
   "subnets": {
-    "ipv4": [
-      "46.31.168.0/21",
-      "87.238.216.0/21"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

@@ -1,0 +1,12 @@
+{
+  "asn": 273050,
+  "handle": "COOPERATIVA-TRABAJO-LARA",
+  "description": "COOPERATIVA DE TRABAJO LARA LIMITADA",
+  "subnets": {
+    "ipv4": [
+      "38.159.224.0/23",
+      "38.210.65.0/24"
+    ],
+    "ipv6": []
+  }
+}

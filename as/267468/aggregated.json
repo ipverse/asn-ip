@@ -4,6 +4,7 @@
   "description": "N DOS SANTOS \u0026 SANTOS LTDA - ME",
   "subnets": {
     "ipv4": [
+      "45.70.112.0/22",
       "192.141.140.0/22"
     ],
     "ipv6": [

@@ -1,0 +1,12 @@
+{
+  "asn": 214095,
+  "handle": "ESIMINTERNATIONAL",
+  "description": "E Sim international LLC",
+  "subnets": {
+    "ipv4": [
+      "45.192.245.0/24",
+      "207.230.12.0/22"
+    ],
+    "ipv6": []
+  }
+}

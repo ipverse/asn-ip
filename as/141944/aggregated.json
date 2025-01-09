@@ -3,7 +3,9 @@
   "handle": "IDNIC-BPIP-ID",
   "description": "Badan Pembinaan Ideologi Pancasila",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.166.134.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -4,8 +4,6 @@
   "description": "GLOBAL COMMUNICATION NETWORK LIMITED",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2400:9ce0:6000::/36"
-    ]
+    "ipv6": []
   }
 }

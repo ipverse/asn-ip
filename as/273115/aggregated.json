@@ -3,7 +3,9 @@
   "handle": "PRAIAMAR",
   "description": "PRAIAMAR SA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "186.8.255.0/24"
+    ],
     "ipv6": []
   }
 }

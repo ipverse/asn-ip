@@ -1,9 +1,11 @@
 {
   "asn": 394138,
-  "handle": "IQVIA-DURHAM",
+  "handle": "IQVIA-DURHAM-6A",
   "description": "IQVIA Holdings Inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "162.44.36.0/22"
+    ],
     "ipv6": []
   }
 }

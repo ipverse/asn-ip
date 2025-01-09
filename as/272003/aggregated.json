@@ -4,7 +4,8 @@
   "description": "CONEXION FIBRA S.A.S",
   "subnets": {
     "ipv4": [
-      "38.10.181.0/24"
+      "38.10.181.0/24",
+      "38.211.36.0/24"
     ],
     "ipv6": []
   }
