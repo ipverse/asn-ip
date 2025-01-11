@@ -1,0 +1,11 @@
+{
+  "asn": 401564,
+  "handle": "UMSV-01",
+  "description": "University of Mount Saint Vincent",
+  "subnets": {
+    "ipv4": [
+      "63.247.224.0/19"
+    ],
+    "ipv6": []
+  }
+}

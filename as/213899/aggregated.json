@@ -3,7 +3,9 @@
   "handle": "PREMIUMDN",
   "description": "Premium Domain Names S.L.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "31.57.240.0/24"
+    ],
     "ipv6": [
       "2a0e:97c0:4f0::/44"
     ]

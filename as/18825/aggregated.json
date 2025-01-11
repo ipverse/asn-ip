@@ -1,0 +1,11 @@
+{
+  "asn": 18825,
+  "handle": "LOCALTEL",
+  "description": "LocalTel Communications",
+  "subnets": {
+    "ipv4": [
+      "74.205.192.0/21"
+    ],
+    "ipv6": []
+  }
+}

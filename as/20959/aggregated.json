@@ -3,7 +3,9 @@
   "handle": "TELECOM-ITALIA-DATA-COM",
   "description": "Telecom Italia S.p.A.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.57.20.0/22"
+    ],
     "ipv6": []
   }
 }
