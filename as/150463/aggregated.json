@@ -1,0 +1,11 @@
+{
+  "asn": 150463,
+  "handle": "IDNIC-ISNET-ID",
+  "description": "PT Inti Sukses",
+  "subnets": {
+    "ipv4": [
+      "103.43.24.0/23"
+    ],
+    "ipv6": []
+  }
+}

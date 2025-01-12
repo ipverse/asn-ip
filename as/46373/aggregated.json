@@ -4,7 +4,6 @@
   "description": "Concentus.net",
   "subnets": {
     "ipv4": [
-      "64.62.190.0/24",
       "64.94.64.0/22"
     ],
     "ipv6": []

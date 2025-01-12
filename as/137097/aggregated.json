@@ -3,7 +3,11 @@
   "handle": "REACHTEL",
   "description": "Rohan Media Private Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.105.176.0/22",
+      "103.174.162.0/23",
+      "160.187.66.0/23"
+    ],
     "ipv6": [
       "2400:7b60::/32"
     ]

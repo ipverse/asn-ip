@@ -3,10 +3,7 @@
   "handle": "SKI-ID",
   "description": "PT SUMBER KONEKSI INDOTELEMATIKA",
   "subnets": {
-    "ipv4": [
-      "101.255.170.0/23",
-      "202.182.49.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

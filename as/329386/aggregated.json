@@ -4,6 +4,7 @@
   "description": "Neurotel Communications",
   "subnets": {
     "ipv4": [
+      "102.209.242.0/24",
       "102.210.53.0/24"
     ],
     "ipv6": [
