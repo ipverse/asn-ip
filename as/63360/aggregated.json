@@ -4,6 +4,7 @@
   "description": "Cradlepoint, Inc.",
   "subnets": {
     "ipv4": [
+      "168.225.2.0/24",
       "168.225.6.0/24"
     ],
     "ipv6": []

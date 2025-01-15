@@ -1,0 +1,11 @@
+{
+  "asn": 213599,
+  "handle": "RHONET",
+  "description": "RHONET SARL",
+  "subnets": {
+    "ipv4": [
+      "156.229.230.0/24"
+    ],
+    "ipv6": []
+  }
+}

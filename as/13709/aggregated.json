@@ -4,7 +4,6 @@
   "description": "Cumulus Media, Inc.",
   "subnets": {
     "ipv4": [
-      "216.234.24.0/24",
       "216.234.29.0/24"
     ],
     "ipv6": []

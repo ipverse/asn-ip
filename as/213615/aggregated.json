@@ -1,0 +1,13 @@
+{
+  "asn": 213615,
+  "handle": "ODCLOUD",
+  "description": "OD CLOUD LIMITED",
+  "subnets": {
+    "ipv4": [
+      "92.113.0.0/24"
+    ],
+    "ipv6": [
+      "2a0c:b641:190::/48"
+    ]
+  }
+}

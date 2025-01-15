@@ -1,0 +1,12 @@
+{
+  "asn": 204575,
+  "handle": "ITCN-DK",
+  "description": "TECHCOLLEGE S/I",
+  "subnets": {
+    "ipv4": [
+      "185.26.60.0/23",
+      "193.202.19.0/24"
+    ],
+    "ipv6": []
+  }
+}

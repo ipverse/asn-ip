@@ -3,7 +3,9 @@
   "handle": "HYPERMETRICA",
   "description": "Hypermetrica, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.157.143.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -4,6 +4,7 @@
   "description": "Foothills Rural Telephone Cooperative Corporation, Inc.",
   "subnets": {
     "ipv4": [
+      "38.110.132.0/22",
       "64.147.224.0/20",
       "172.97.16.0/20",
       "192.225.240.0/20",

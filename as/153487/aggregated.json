@@ -1,0 +1,11 @@
+{
+  "asn": 153487,
+  "handle": "DWSSA-AP",
+  "description": "DWASA",
+  "subnets": {
+    "ipv4": [
+      "161.248.103.0/24"
+    ],
+    "ipv6": []
+  }
+}

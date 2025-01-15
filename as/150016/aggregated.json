@@ -3,7 +3,11 @@
   "handle": "ASPL2022-IN",
   "description": "ASTRONET SOLUTIONS PRIVATE LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "43.224.156.0/22",
+      "103.6.156.0/22",
+      "103.38.240.0/22"
+    ],
     "ipv6": []
   }
 }

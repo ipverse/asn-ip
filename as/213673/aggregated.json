@@ -3,7 +3,9 @@
   "handle": "WAISE",
   "description": "WAISE EUROPE LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "77.239.106.0/23"
+    ],
     "ipv6": [
       "2a01:ecc0:c0::/42",
       "2a01:ecc0:100::/40"

@@ -3,7 +3,9 @@
   "handle": "WEBTEJO",
   "description": "Joel Reis da Conceicao",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.16.242.0/23"
+    ],
     "ipv6": [
       "2602:faa5:f0d::/48"
     ]

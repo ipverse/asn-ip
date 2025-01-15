@@ -3,7 +3,9 @@
   "handle": "GLIC",
   "description": "Guardian Life Insurance Company Of America",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "208.253.53.0/24"
+    ],
     "ipv6": []
   }
 }

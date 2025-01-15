@@ -3,7 +3,9 @@
   "handle": "BSOCOM",
   "description": "BSO Network Solutions SAS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "89.30.87.0/24"
+    ],
     "ipv6": [
       "2401:5180::/32"
     ]

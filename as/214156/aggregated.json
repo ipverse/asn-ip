@@ -4,7 +4,8 @@
   "description": "Zaintech Solutions Company LLC",
   "subnets": {
     "ipv4": [
-      "154.86.1.0/24"
+      "154.86.1.0/24",
+      "185.169.194.0/24"
     ],
     "ipv6": []
   }

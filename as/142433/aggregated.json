@@ -1,9 +1,11 @@
 {
   "asn": 142433,
-  "handle": "RESERVED",
-  "description": "APNIC ASN block",
+  "handle": "DATAWAVE-AP",
+  "description": "DATAWAVE GLOBAL LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "23.161.8.0/24"
+    ],
     "ipv6": []
   }
 }

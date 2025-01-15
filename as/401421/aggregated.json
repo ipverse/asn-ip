@@ -1,0 +1,11 @@
+{
+  "asn": 401421,
+  "handle": "YIREH-NETWORKS",
+  "description": "Yireh Networks Services",
+  "subnets": {
+    "ipv4": [
+      "200.5.25.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -4,7 +4,8 @@
   "description": "COMUNICACIONES Y SERVICIOS SRL",
   "subnets": {
     "ipv4": [
-      "161.0.64.0/22"
+      "161.0.64.0/23",
+      "161.0.67.0/24"
     ],
     "ipv6": []
   }

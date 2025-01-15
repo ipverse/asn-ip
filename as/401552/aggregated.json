@@ -1,0 +1,13 @@
+{
+  "asn": 401552,
+  "handle": "EUC",
+  "description": "Example User Content, LLC",
+  "subnets": {
+    "ipv4": [
+      "23.132.4.0/24"
+    ],
+    "ipv6": [
+      "2602:f750::/48"
+    ]
+  }
+}
