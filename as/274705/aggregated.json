@@ -1,0 +1,11 @@
+{
+  "asn": 274705,
+  "handle": "IGP-FIBRA-SANTA",
+  "description": "IGP FIBRA SANTA CRUZ CABRALIA LTDA",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2804:9254::/32"
+    ]
+  }
+}

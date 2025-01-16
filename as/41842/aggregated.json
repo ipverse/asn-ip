@@ -3,7 +3,9 @@
   "handle": "MEDIAL",
   "description": "LLC MEDIA SYSTEMS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.61.24.0/24"
+    ],
     "ipv6": []
   }
 }

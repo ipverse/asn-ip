@@ -4,6 +4,7 @@
   "description": "Horyzont Technologie Internetowe sp.z.o.o.",
   "subnets": {
     "ipv4": [
+      "91.199.97.0/24",
       "91.216.30.0/24",
       "93.105.72.0/23",
       "93.105.74.0/24",

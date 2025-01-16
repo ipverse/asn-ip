@@ -1,0 +1,11 @@
+{
+  "asn": 273209,
+  "handle": "CABLE-STAR-TV",
+  "description": "CABLE STAR TV SAC",
+  "subnets": {
+    "ipv4": [
+      "38.211.154.0/24"
+    ],
+    "ipv6": []
+  }
+}

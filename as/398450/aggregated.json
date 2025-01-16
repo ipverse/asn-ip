@@ -4,7 +4,6 @@
   "description": "Custom Cable LLLP",
   "subnets": {
     "ipv4": [
-      "12.215.230.0/23",
       "208.80.176.0/22"
     ],
     "ipv6": []

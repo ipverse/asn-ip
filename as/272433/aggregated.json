@@ -3,7 +3,9 @@
   "handle": "START-NET-TELECOMUNICACOES",
   "description": "START NET TELECOMUNICACOES LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.191.251.0/24"
+    ],
     "ipv6": [
       "2804:811c::/32"
     ]

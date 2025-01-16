@@ -4,8 +4,7 @@
   "description": "E Sim international LLC",
   "subnets": {
     "ipv4": [
-      "45.192.245.0/24",
-      "207.230.12.0/22"
+      "45.192.245.0/24"
     ],
     "ipv6": []
   }

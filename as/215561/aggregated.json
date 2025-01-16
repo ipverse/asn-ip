@@ -1,9 +1,11 @@
 {
   "asn": 215561,
-  "handle": "RESERVED",
-  "description": "RIPE NCC ASN block",
+  "handle": "SEIKE",
+  "description": "Stefan Eikenbusch",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2001:678:1f0::/48"
+    ]
   }
 }

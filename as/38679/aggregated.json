@@ -3,9 +3,7 @@
   "handle": "FDKRELAY",
   "description": "FDIK",
   "subnets": {
-    "ipv4": [
-      "210.113.9.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }
