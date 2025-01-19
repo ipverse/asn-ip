@@ -3,7 +3,9 @@
   "handle": "LTIS-BB",
   "description": "Laurens Technologies Internet Services",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "23.181.72.0/24"
+    ],
     "ipv6": [
       "2602:f956:70::/48"
     ]

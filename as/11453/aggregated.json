@@ -1,0 +1,11 @@
+{
+  "asn": 11453,
+  "handle": "AVOTUS-CORPORATION",
+  "description": "Avotus Corporation",
+  "subnets": {
+    "ipv4": [
+      "192.139.17.0/24"
+    ],
+    "ipv6": []
+  }
+}

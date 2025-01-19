@@ -4,6 +4,7 @@
   "description": "LOGO Telecom",
   "subnets": {
     "ipv4": [
+      "38.188.41.0/24",
       "179.63.92.0/22"
     ],
     "ipv6": [

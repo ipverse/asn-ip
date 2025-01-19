@@ -4,6 +4,8 @@
   "description": "Bainbridge Internet Services",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2602:f737::/36"
+    ]
   }
 }

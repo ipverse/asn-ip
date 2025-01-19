@@ -3,9 +3,7 @@
   "handle": "KPRONET",
   "description": "KPROHOST LLC",
   "subnets": {
-    "ipv4": [
-      "154.203.197.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }
