@@ -1,9 +1,11 @@
 {
   "asn": 44259,
-  "handle": "TRANSQUALITY",
-  "description": "Netrouting B.V.",
+  "handle": "ULTAHOST-AP",
+  "description": "Ultahost, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.142.4.0/24"
+    ],
     "ipv6": []
   }
 }

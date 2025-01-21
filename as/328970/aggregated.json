@@ -4,7 +4,6 @@
   "description": "CloudGistics",
   "subnets": {
     "ipv4": [
-      "102.207.143.0/24",
       "102.217.188.0/22"
     ],
     "ipv6": []

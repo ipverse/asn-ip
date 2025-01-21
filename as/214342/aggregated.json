@@ -3,9 +3,9 @@
   "handle": "DIMINUENDO",
   "description": "DIMINUENDO Ltd",
   "subnets": {
-    "ipv4": [],
-    "ipv6": [
-      "2a09:be87::/32"
-    ]
+    "ipv4": [
+      "193.200.28.0/24"
+    ],
+    "ipv6": []
   }
 }

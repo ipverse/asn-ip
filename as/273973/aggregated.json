@@ -3,7 +3,9 @@
   "handle": "APOAPSIS-SPA",
   "description": "APOAPSIS SPA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "190.93.105.0/24"
+    ],
     "ipv6": [
       "2803:30d0::/32"
     ]

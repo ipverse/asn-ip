@@ -1,9 +1,12 @@
 {
   "asn": 15204,
-  "handle": "FHL",
-  "description": "Fayette Holdings Limited",
+  "handle": "ITC-SD-01",
+  "description": "INTERSTATE TELECOMMUNICATIONS COOPERATIVE, INC.",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2607:d600:1000::/36",
+      "2607:d600:9000::/36"
+    ]
   }
 }

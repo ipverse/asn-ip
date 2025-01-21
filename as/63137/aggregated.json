@@ -3,7 +3,9 @@
   "handle": "DOMDIAGASN211",
   "description": "Dominion Diagnostics, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "63.119.109.0/24"
+    ],
     "ipv6": []
   }
 }

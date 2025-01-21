@@ -3,7 +3,9 @@
   "handle": "NETWORK-ALBANIA",
   "description": "NETWORKALBANIA Sh.p.k",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.94.183.0/24"
+    ],
     "ipv6": [
       "2a13:d940::/29"
     ]

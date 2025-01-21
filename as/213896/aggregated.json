@@ -1,0 +1,11 @@
+{
+  "asn": 213896,
+  "handle": "CHERRYSERVERS6",
+  "description": "UAB Cherry Servers",
+  "subnets": {
+    "ipv4": [
+      "185.191.116.0/22"
+    ],
+    "ipv6": []
+  }
+}
