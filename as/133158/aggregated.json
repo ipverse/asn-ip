@@ -4,6 +4,7 @@
   "description": "WELL-POWER Tech Corp",
   "subnets": {
     "ipv4": [
+      "103.38.146.0/24",
       "103.252.244.0/24"
     ],
     "ipv6": []

@@ -3,7 +3,10 @@
   "handle": "LINKSU",
   "description": "Link LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "80.242.48.0/22",
+      "92.63.184.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -1,0 +1,13 @@
+{
+  "asn": 133458,
+  "handle": "FSCJCL-AP",
+  "description": "FPT Smart Cloud Japan Co., Ltd",
+  "subnets": {
+    "ipv4": [
+      "161.248.2.0/23"
+    ],
+    "ipv6": [
+      "2401:e260::/40"
+    ]
+  }
+}

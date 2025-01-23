@@ -3,7 +3,9 @@
   "handle": "DATAIX",
   "description": "Global Network Management Inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "178.18.235.0/24"
+    ],
     "ipv6": []
   }
 }

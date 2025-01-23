@@ -3,7 +3,9 @@
   "handle": "ATOS-COMERCIO-EMPREENDIMENTOS",
   "description": "ATOS COMERCIO E EMPREENDIMENTOS DE INFORMATICA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "200.229.77.0/24"
+    ],
     "ipv6": [
       "2804:885c::/32"
     ]

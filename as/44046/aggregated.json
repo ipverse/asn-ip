@@ -3,7 +3,9 @@
   "handle": "TVERLINE",
   "description": "TverLine Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "78.31.96.0/21"
+    ],
     "ipv6": []
   }
 }

@@ -1,0 +1,12 @@
+{
+  "asn": 136501,
+  "handle": "HKBNES-AP",
+  "description": "HKBN Enterprise Solutions HK Limited",
+  "subnets": {
+    "ipv4": [
+      "31.58.172.0/22",
+      "31.59.76.0/22"
+    ],
+    "ipv6": []
+  }
+}

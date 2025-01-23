@@ -3,7 +3,9 @@
   "handle": "NEWTELCO",
   "description": "NewTelco GmbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.29.211.0/24"
+    ],
     "ipv6": []
   }
 }

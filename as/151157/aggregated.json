@@ -3,11 +3,7 @@
   "handle": "CHATSIGNL-IN",
   "description": "CHATSIGNAL PVT LTD",
   "subnets": {
-    "ipv4": [
-      "36.50.166.0/23",
-      "202.160.145.0/24",
-      "202.160.146.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

@@ -4,8 +4,10 @@
   "description": "maincubes one GmbH",
   "subnets": {
     "ipv4": [
-      "185.241.155.0/24"
+      "185.241.152.0/22"
     ],
-    "ipv6": []
+    "ipv6": [
+      "2a0c:a480::/29"
+    ]
   }
 }

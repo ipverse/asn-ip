@@ -1,0 +1,11 @@
+{
+  "asn": 274711,
+  "handle": "IB-TELECOM-FIBRA",
+  "description": "IB TELECOM FIBRA LTDA",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2804:9270::/32"
+    ]
+  }
+}

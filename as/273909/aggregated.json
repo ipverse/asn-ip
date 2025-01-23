@@ -3,7 +3,9 @@
   "handle": "GENIOS-SOLUCIONES",
   "description": "GENIOS SOLUCIONES SRL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.224.237.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,11 @@
   "handle": "SIMTECX-PROVEDOR-INTERNET",
   "description": "SIMTECX PROVEDOR DE INTERNET LTDA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "38.224.188.0/24"
+    ],
+    "ipv6": [
+      "2804:8fb0::/32"
+    ]
   }
 }

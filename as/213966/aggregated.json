@@ -1,0 +1,11 @@
+{
+  "asn": 213966,
+  "handle": "ADRESEAU",
+  "description": "ADReseau SAS",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a01:fcc0::/29"
+    ]
+  }
+}

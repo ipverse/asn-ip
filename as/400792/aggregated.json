@@ -1,9 +1,11 @@
 {
   "asn": 400792,
-  "handle": "ANKR",
-  "description": "Ankr PBC",
+  "handle": "BLINKCONNECT",
+  "description": "Blink Connect Solutions",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2602:f75b::/36"
+    ]
   }
 }

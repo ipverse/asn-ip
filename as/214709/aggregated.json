@@ -3,9 +3,7 @@
   "handle": "MACARNE",
   "description": "Macarne SRL",
   "subnets": {
-    "ipv4": [
-      "192.189.157.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

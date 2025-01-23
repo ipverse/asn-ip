@@ -3,7 +3,9 @@
   "handle": "BAHNASAWY",
   "description": "Henry Bahnasawy",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "77.90.18.0/24"
+    ],
     "ipv6": []
   }
 }

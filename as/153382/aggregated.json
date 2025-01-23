@@ -3,9 +3,7 @@
   "handle": "DLAIP-AP",
   "description": "Direktorat Layanan Aplikasi Informatika Pemerintahan",
   "subnets": {
-    "ipv4": [
-      "160.191.127.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

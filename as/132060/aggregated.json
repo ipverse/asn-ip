@@ -1,9 +1,11 @@
 {
   "asn": 132060,
-  "handle": "APNIC-32-BIT",
-  "description": "APNIC 32-bit ASN block",
+  "handle": "HANTHARNET-AP",
+  "description": "Hanthar Net",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.67.77.0/24"
+    ],
     "ipv6": []
   }
 }

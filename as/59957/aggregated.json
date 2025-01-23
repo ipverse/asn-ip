@@ -4,7 +4,8 @@
   "description": "CJSC BILLINGOVYI CENTER",
   "subnets": {
     "ipv4": [
-      "194.85.125.0/24"
+      "194.85.125.0/24",
+      "195.208.44.0/24"
     ],
     "ipv6": []
   }
