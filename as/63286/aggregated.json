@@ -1,9 +1,11 @@
 {
   "asn": 63286,
-  "handle": "SLYCE-HOLDINGS",
-  "description": "Slyce Acquisition Inc.",
+  "handle": "HOP179",
+  "description": "Hop179 LLC",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2602:f72e:79::/48"
+    ]
   }
 }

@@ -3,7 +3,9 @@
   "handle": "DATUM-CLOUD",
   "description": "Datum",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "67.14.160.0/23"
+    ],
     "ipv6": [
       "2607:ed40:1::/48"
     ]

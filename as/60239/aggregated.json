@@ -3,7 +3,9 @@
   "handle": "FIRMTRADE",
   "description": "Firm Trade Corporation Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.34.202.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -1,9 +1,11 @@
 {
   "asn": 198926,
-  "handle": "RESERVED",
-  "description": "RIPE NCC ASN block",
+  "handle": "RAPIDOSERVER",
+  "description": "Fazel Rezaei Kalantari",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.124.175.0/24"
+    ],
     "ipv6": []
   }
 }

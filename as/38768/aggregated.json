@@ -3,7 +3,10 @@
   "handle": "PLATINUM-ID",
   "description": "PT. Platinum Network Indonesia",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.234.216.0/22",
+      "202.87.178.0/23"
+    ],
     "ipv6": []
   }
 }

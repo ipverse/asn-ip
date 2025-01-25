@@ -1,0 +1,11 @@
+{
+  "asn": 153481,
+  "handle": "IDNIC-PNG-ID",
+  "description": "PT Ping Network Global",
+  "subnets": {
+    "ipv4": [
+      "160.250.43.0/24"
+    ],
+    "ipv6": []
+  }
+}

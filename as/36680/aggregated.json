@@ -3,7 +3,9 @@
   "handle": "NETIFACELLC",
   "description": "Netiface LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.224.0.0/24"
+    ],
     "ipv6": []
   }
 }

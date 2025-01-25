@@ -1,11 +1,10 @@
 {
   "asn": 210464,
-  "handle": "APIVERSA",
+  "handle": "AVSISP",
   "description": "API VERSA OU",
   "subnets": {
     "ipv4": [],
     "ipv6": [
-      "2a0a:79c7:f7d0::/44",
       "2a0a:79c7:f7e0::/44",
       "2a0a:79c7:f800::/48",
       "2a0a:79c7:f898::/47"

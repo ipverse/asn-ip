@@ -1,0 +1,11 @@
+{
+  "asn": 213532,
+  "handle": "HOP179",
+  "description": "Hop179 OU",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a0b:4e07:79::/48"
+    ]
+  }
+}

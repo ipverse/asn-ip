@@ -4,7 +4,7 @@
   "description": "OneNeck IT Services",
   "subnets": {
     "ipv4": [
-      "147.202.64.0/21",
+      "147.202.64.0/20",
       "147.202.80.0/21"
     ],
     "ipv6": [

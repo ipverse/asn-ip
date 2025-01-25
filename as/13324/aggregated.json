@@ -4,7 +4,8 @@
   "description": "Executive Personal Computers Inc.",
   "subnets": {
     "ipv4": [
-      "68.90.68.0/23"
+      "68.90.68.0/23",
+      "208.64.52.0/23"
     ],
     "ipv6": []
   }

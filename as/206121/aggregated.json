@@ -4,6 +4,8 @@
   "description": "Stater Nederland B.V.",
   "subnets": {
     "ipv4": [
+      "146.19.144.0/24",
+      "178.212.229.0/24",
       "185.177.100.0/22"
     ],
     "ipv6": []

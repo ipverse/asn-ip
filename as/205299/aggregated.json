@@ -4,6 +4,7 @@
   "description": "MEVSPACE sp. z o.o.",
   "subnets": {
     "ipv4": [
+      "149.86.224.0/24",
       "185.16.37.0/24"
     ],
     "ipv6": []

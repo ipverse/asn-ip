@@ -3,7 +3,9 @@
   "handle": "INNOBYTE-SOLUTIONS",
   "description": "INNOBYTE SOLUTIONS SRL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "89.40.224.0/24"
+    ],
     "ipv6": []
   }
 }
