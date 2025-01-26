@@ -3,7 +3,9 @@
   "handle": "IT-ADJUTOR",
   "description": "Lorenz Knak trading as IT-adjutor GbR",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "2.58.214.0/24"
+    ],
     "ipv6": [
       "2a14:47c0:e::/48",
       "2a14:47c0:ffff::/48"

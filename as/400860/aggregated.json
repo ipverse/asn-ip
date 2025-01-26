@@ -4,7 +4,8 @@
   "description": "Nexuscore Hosting",
   "subnets": {
     "ipv4": [
-      "108.165.63.0/24"
+      "108.165.63.0/24",
+      "207.166.129.0/24"
     ],
     "ipv6": []
   }

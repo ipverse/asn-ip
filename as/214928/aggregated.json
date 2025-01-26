@@ -4,6 +4,8 @@
   "description": "Jan Martin Lingelbach",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a12:de40:300::/40"
+    ]
   }
 }

@@ -1,7 +1,11 @@
 {
   "asn": 7257,
+  "handle": "GPC",
+  "description": "Great Plains Connect",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2602:fa90::/36"
+    ]
   }
 }

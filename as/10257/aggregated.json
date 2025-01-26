@@ -1,0 +1,11 @@
+{
+  "asn": 10257,
+  "handle": "TANGOE-PROD-1",
+  "description": "Tangoe US, Inc.",
+  "subnets": {
+    "ipv4": [
+      "63.240.119.0/24"
+    ],
+    "ipv6": []
+  }
+}
