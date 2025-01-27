@@ -4,7 +4,8 @@
   "description": "Mario Networks Limited",
   "subnets": {
     "ipv4": [
-      "45.200.148.0/23"
+      "176.65.137.0/24",
+      "176.65.138.0/24"
     ],
     "ipv6": [
       "2a13:da00::/32",

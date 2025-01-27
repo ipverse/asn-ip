@@ -3,7 +3,9 @@
   "handle": "OSRD-NETWORK",
   "description": "Florian Overkamp",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.104.131.0/24"
+    ],
     "ipv6": [
       "2001:67c:f54::/48"
     ]

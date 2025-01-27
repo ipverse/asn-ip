@@ -3,7 +3,9 @@
   "handle": "TRN-TELECOM",
   "description": "OOO ZVI Telecom",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "94.126.202.0/24"
+    ],
     "ipv6": []
   }
 }

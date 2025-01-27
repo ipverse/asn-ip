@@ -3,8 +3,11 @@
   "handle": "XXSL",
   "description": "ALICE CAT RESEARCH LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "88.218.207.0/24"
+    ],
     "ipv6": [
+      "2a09:b280::/48",
       "2a09:b280:1000::/48",
       "2a09:b280:1010::/48",
       "2a09:b280:ffb0::/47",

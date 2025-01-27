@@ -4,6 +4,7 @@
   "description": "PT Harmonika Multimedia Sawangan",
   "subnets": {
     "ipv4": [
+      "31.56.120.0/24",
       "31.57.143.0/24",
       "45.199.128.0/24",
       "103.141.170.0/24",

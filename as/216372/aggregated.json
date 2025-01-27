@@ -3,7 +3,9 @@
   "handle": "RSMIZ",
   "description": "Republika Slovenija Ministrstvo za Infrastrukturo",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.39.85.0/24"
+    ],
     "ipv6": []
   }
 }

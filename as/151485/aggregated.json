@@ -3,7 +3,9 @@
   "handle": "CEB-AP",
   "description": "CEYLON ELECTRICITY BOARD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.230.177.0/24"
+    ],
     "ipv6": []
   }
 }

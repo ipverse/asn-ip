@@ -3,7 +3,11 @@
   "handle": "KSMNW-NA",
   "description": "Kasumi Networks NA LLC",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "23.168.184.0/24"
+    ],
+    "ipv6": [
+      "2602:f9b1::/40"
+    ]
   }
 }

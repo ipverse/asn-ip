@@ -3,7 +3,11 @@
   "handle": "NDC-PROVEDOR-INTERNET",
   "description": "NDC PROVEDOR DE INTERNET LTDA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "177.10.128.0/22"
+    ],
+    "ipv6": [
+      "2804:5cc::/32"
+    ]
   }
 }
