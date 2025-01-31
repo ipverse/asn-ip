@@ -4,6 +4,7 @@
   "description": "CROSS CONECTION PROVEDOR DE INTERNET LTDA",
   "subnets": {
     "ipv4": [
+      "45.190.220.0/24",
       "177.11.40.0/21"
     ],
     "ipv6": [

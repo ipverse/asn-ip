@@ -3,7 +3,9 @@
   "handle": "TRINN-IN",
   "description": "Trinn Techologies Pvt. Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.91.136.0/24"
+    ],
     "ipv6": []
   }
 }

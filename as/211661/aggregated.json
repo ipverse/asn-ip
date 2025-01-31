@@ -1,0 +1,13 @@
+{
+  "asn": 211661,
+  "handle": "ASWITECH",
+  "description": "WI-TECH SRLS",
+  "subnets": {
+    "ipv4": [
+      "31.185.97.0/24"
+    ],
+    "ipv6": [
+      "2001:678:79c::/48"
+    ]
+  }
+}

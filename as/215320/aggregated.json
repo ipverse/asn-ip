@@ -4,6 +4,7 @@
   "description": "ALNWICK COMPUTERWARE LTD.",
   "subnets": {
     "ipv4": [
+      "5.172.183.0/24",
       "89.47.246.0/24"
     ],
     "ipv6": [

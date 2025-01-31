@@ -4,7 +4,7 @@
   "description": "Nasulex Networks",
   "subnets": {
     "ipv4": [
-      "23.247.168.0/23",
+      "23.247.169.0/24",
       "23.247.170.0/24"
     ],
     "ipv6": [

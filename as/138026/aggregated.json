@@ -4,7 +4,7 @@
   "description": "RT Traders",
   "subnets": {
     "ipv4": [
-      "160.250.36.0/24"
+      "160.250.36.0/23"
     ],
     "ipv6": []
   }

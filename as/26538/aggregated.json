@@ -4,6 +4,7 @@
   "description": "Single Digits, Inc.",
   "subnets": {
     "ipv4": [
+      "75.102.129.0/24",
       "192.40.106.0/24"
     ],
     "ipv6": []

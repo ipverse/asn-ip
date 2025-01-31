@@ -1,0 +1,11 @@
+{
+  "asn": 401478,
+  "handle": "WABASH-PUBLIC-01",
+  "description": "Wabash Mutual Telephone Company",
+  "subnets": {
+    "ipv4": [
+      "140.235.148.0/22"
+    ],
+    "ipv6": []
+  }
+}

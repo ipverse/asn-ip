@@ -4,6 +4,7 @@
   "description": "Resilience Data Group Inc.",
   "subnets": {
     "ipv4": [
+      "199.38.96.0/24",
       "199.38.99.0/24",
       "199.38.100.0/24",
       "199.38.102.0/24"

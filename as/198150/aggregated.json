@@ -4,6 +4,7 @@
   "description": "SIACOM JSC",
   "subnets": {
     "ipv4": [
+      "45.141.217.0/24",
       "46.8.37.0/24"
     ],
     "ipv6": [

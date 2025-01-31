@@ -4,11 +4,11 @@
   "description": "NTG Nuernberger Telekommunikationsgesellschaft mbH",
   "subnets": {
     "ipv4": [
-      "91.200.192.0/22"
+      "91.200.192.0/22",
+      "92.249.48.0/24"
     ],
     "ipv6": [
-      "2a0d:2146:bdf8::/48",
-      "2a0d:2146:bdfa::/47",
+      "2a0d:2146:bdf8::/46",
       "2a0d:2146:bdff::/48"
     ]
   }
