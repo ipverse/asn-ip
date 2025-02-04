@@ -1,0 +1,12 @@
+{
+  "asn": 213744,
+  "handle": "AMTGROUP-AS1",
+  "description": "AMT Group, JSC",
+  "subnets": {
+    "ipv4": [
+      "91.142.129.0/24",
+      "212.233.68.0/22"
+    ],
+    "ipv6": []
+  }
+}

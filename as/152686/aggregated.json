@@ -4,6 +4,7 @@
   "description": "BCDC CLOUD Centers Private Limited",
   "subnets": {
     "ipv4": [
+      "45.198.225.0/24",
       "103.98.12.0/23"
     ],
     "ipv6": []

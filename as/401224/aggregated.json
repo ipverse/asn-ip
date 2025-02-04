@@ -3,7 +3,9 @@
   "handle": "T1NETWORK",
   "description": "T1 Network LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "23.174.184.0/24"
+    ],
     "ipv6": []
   }
 }

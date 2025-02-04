@@ -1,0 +1,11 @@
+{
+  "asn": 19577,
+  "handle": "CASTRO-TELECOM-ANYCAST",
+  "description": "CASTRO TELECOM LLC",
+  "subnets": {
+    "ipv4": [
+      "199.16.242.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -3,7 +3,9 @@
   "handle": "ALBANETWORK-INGENIERA",
   "description": "ALBANETWORK INGENIERA S.A.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "164.163.80.0/22"
+    ],
     "ipv6": []
   }
 }

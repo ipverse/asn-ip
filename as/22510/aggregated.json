@@ -3,9 +3,7 @@
   "handle": "BRAINTREE",
   "description": "PayPal, Inc.",
   "subnets": {
-    "ipv4": [
-      "159.242.240.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }
