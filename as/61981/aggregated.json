@@ -3,9 +3,7 @@
   "handle": "MACH3NET",
   "description": "KLFREE NETWORKS, s.r.o.",
   "subnets": {
-    "ipv4": [
-      "185.53.4.0/22"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2a01:bda0::/32"
     ]

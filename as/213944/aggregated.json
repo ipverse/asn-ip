@@ -3,9 +3,7 @@
   "handle": "NETWORKCLOUD",
   "description": "Mahdi Tasa",
   "subnets": {
-    "ipv4": [
-      "85.133.222.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

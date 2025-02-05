@@ -3,7 +3,9 @@
   "handle": "CALLCENTRIC-WHOLESALE-INC",
   "description": "Callcentric Wholesale Inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.117.64.0/20"
+    ],
     "ipv6": []
   }
 }

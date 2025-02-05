@@ -3,7 +3,9 @@
   "handle": "SENKO",
   "description": "Senko Digital Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.135.137.0/24"
+    ],
     "ipv6": [
       "2a0d:d940:11::/48",
       "2a0d:d940:100::/40",

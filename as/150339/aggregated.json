@@ -1,0 +1,13 @@
+{
+  "asn": 150339,
+  "handle": "TCODL-AP",
+  "description": "TP CENTRAL ODISHA DISTRIBUTION LIMITED",
+  "subnets": {
+    "ipv4": [
+      "161.248.53.0/24"
+    ],
+    "ipv6": [
+      "2001:df4:dbc0::/48"
+    ]
+  }
+}

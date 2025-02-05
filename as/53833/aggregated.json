@@ -1,0 +1,11 @@
+{
+  "asn": 53833,
+  "handle": "ICISD",
+  "description": "Ionia County ISD",
+  "subnets": {
+    "ipv4": [
+      "66.39.255.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asn": 48040,
+  "handle": "FORNEX-UA",
+  "description": "Fornex Hosting S.L.",
+  "subnets": {
+    "ipv4": [
+      "31.172.65.0/24"
+    ],
+    "ipv6": []
+  }
+}

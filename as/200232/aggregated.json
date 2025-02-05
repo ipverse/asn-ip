@@ -4,6 +4,7 @@
   "description": "T. van den Heuvel Holding B.V.",
   "subnets": {
     "ipv4": [
+      "45.88.226.0/24",
       "194.31.131.0/24"
     ],
     "ipv6": [

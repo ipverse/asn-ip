@@ -3,9 +3,7 @@
   "handle": "WINDNET-IN",
   "description": "Windnet Pvt Ltd",
   "subnets": {
-    "ipv4": [
-      "157.20.228.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

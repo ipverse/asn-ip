@@ -3,7 +3,9 @@
   "handle": "ITBYGEEKS",
   "description": "IT By Geeks LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "104.232.10.0/24"
+    ],
     "ipv6": []
   }
 }

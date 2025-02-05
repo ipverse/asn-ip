@@ -3,7 +3,10 @@
   "handle": "MASARAT-ALIRAQ",
   "description": "Masarat Al-Iraq Information Technology Co., Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "62.3.56.0/24",
+      "185.65.255.0/24"
+    ],
     "ipv6": [
       "2a12:100::/29"
     ]
