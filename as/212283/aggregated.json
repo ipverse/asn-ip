@@ -4,6 +4,7 @@
   "description": "ROZA HOLIDAYS EOOD",
   "subnets": {
     "ipv4": [
+      "92.62.242.0/24",
       "213.149.145.0/24"
     ],
     "ipv6": []

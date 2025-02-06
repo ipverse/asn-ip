@@ -1,0 +1,11 @@
+{
+  "asn": 48525,
+  "handle": "UZUMBANK",
+  "description": "JSC Uzum Bank",
+  "subnets": {
+    "ipv4": [
+      "194.147.110.0/23"
+    ],
+    "ipv6": []
+  }
+}

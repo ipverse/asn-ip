@@ -3,11 +3,7 @@
   "handle": "SKARNET-CHILE-SPA",
   "description": "SKARNET CHILE S.P.A.",
   "subnets": {
-    "ipv4": [
-      "38.224.178.0/23"
-    ],
-    "ipv6": [
-      "2803:e690::/32"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

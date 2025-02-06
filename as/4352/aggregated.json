@@ -4,9 +4,7 @@
   "description": "EMERSON ASIA PACIFIC PRIVATE LIMITED",
   "subnets": {
     "ipv4": [
-      "122.248.17.0/24",
-      "122.248.19.0/24",
-      "122.248.21.0/24"
+      "122.248.16.0/21"
     ],
     "ipv6": []
   }

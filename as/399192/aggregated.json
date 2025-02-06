@@ -3,7 +3,9 @@
   "handle": "BECI-01",
   "description": "Beauregard Electric Cooperative, Inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "12.230.142.0/24"
+    ],
     "ipv6": []
   }
 }

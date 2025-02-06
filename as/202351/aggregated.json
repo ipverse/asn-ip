@@ -1,0 +1,11 @@
+{
+  "asn": 202351,
+  "handle": "FRICKEL-NETWORK",
+  "description": "Jan Gilla",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2001:67c:ae0::/48"
+    ]
+  }
+}

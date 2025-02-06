@@ -3,13 +3,7 @@
   "handle": "FIFTHDOG-NET",
   "description": "Fifth Dog Network Limited",
   "subnets": {
-    "ipv4": [
-      "92.112.124.0/23",
-      "154.19.44.0/23"
-    ],
-    "ipv6": [
-      "2a13:e2c0:fd59::/48",
-      "2a13:e2c6:6270::/44"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

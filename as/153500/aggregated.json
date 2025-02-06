@@ -1,0 +1,13 @@
+{
+  "asn": 153500,
+  "handle": "ONESCHOOL-VN",
+  "description": "1School Education Technology and Solutions Company Limited",
+  "subnets": {
+    "ipv4": [
+      "161.248.78.0/23"
+    ],
+    "ipv6": [
+      "2001:df4:d940::/48"
+    ]
+  }
+}

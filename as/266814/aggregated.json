@@ -4,6 +4,8 @@
   "description": "Masternet Telecomunicaciones",
   "subnets": {
     "ipv4": [
+      "45.234.84.0/23",
+      "45.234.86.0/24",
       "45.237.44.0/22"
     ],
     "ipv6": [

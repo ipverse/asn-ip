@@ -4,7 +4,8 @@
   "description": "Przedsiebiorstwo Wielobranzowe INTERBIT Sp. z o.o.",
   "subnets": {
     "ipv4": [
-      "81.6.136.0/24"
+      "81.6.136.0/24",
+      "91.215.47.0/24"
     ],
     "ipv6": [
       "2001:678:f00::/48"

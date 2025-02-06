@@ -4,6 +4,7 @@
   "description": "Humble Independent School District",
   "subnets": {
     "ipv4": [
+      "38.108.18.0/24",
       "205.196.190.0/24"
     ],
     "ipv6": []

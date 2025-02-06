@@ -4,6 +4,7 @@
   "description": "Liberty University",
   "subnets": {
     "ipv4": [
+      "38.130.152.0/23",
       "64.203.186.0/23",
       "208.95.48.0/22"
     ],

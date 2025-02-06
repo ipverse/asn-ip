@@ -3,7 +3,9 @@
   "handle": "TOP-INFORMATICA",
   "description": "TOP INFORMATICA LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "186.195.165.0/24"
+    ],
     "ipv6": [
       "2804:9124::/32"
     ]

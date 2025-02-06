@@ -1,9 +1,11 @@
 {
   "asn": 205570,
   "handle": "SIBANET",
-  "description": "SIBA BILISIM TELEKOMUNIKASYON ELEKTRONIK ITH. IHR. LTD. STI.",
+  "description": "SIBANET TELEKOM LIMITED SIRKETI",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "188.132.206.0/23"
+    ],
     "ipv6": []
   }
 }

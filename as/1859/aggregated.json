@@ -1,0 +1,11 @@
+{
+  "asn": 1859,
+  "handle": "DISN-PILOTNET5",
+  "description": "RTX BBN Technologies, Inc.",
+  "subnets": {
+    "ipv4": [
+      "192.1.59.0/24"
+    ],
+    "ipv6": []
+  }
+}

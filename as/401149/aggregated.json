@@ -1,0 +1,11 @@
+{
+  "asn": 401149,
+  "handle": "EQUITYBANK",
+  "description": "Equity Bank",
+  "subnets": {
+    "ipv4": [
+      "24.249.114.0/24"
+    ],
+    "ipv6": []
+  }
+}

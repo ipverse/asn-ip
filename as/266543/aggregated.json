@@ -3,9 +3,7 @@
   "handle": "PIX-TELECOM",
   "description": "PIX TELECOM LTDA",
   "subnets": {
-    "ipv4": [
-      "45.65.170.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

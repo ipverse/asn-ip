@@ -4,8 +4,7 @@
   "description": "Bytel Tranet Private Limited",
   "subnets": {
     "ipv4": [
-      "103.110.36.0/23",
-      "103.110.39.0/24"
+      "103.110.36.0/23"
     ],
     "ipv6": [
       "2404:5dc0::/32"
