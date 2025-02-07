@@ -3,9 +3,7 @@
   "handle": "IDNIC-MMNET-ID",
   "description": "PT Mitra Mandiri Network",
   "subnets": {
-    "ipv4": [
-      "157.66.16.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

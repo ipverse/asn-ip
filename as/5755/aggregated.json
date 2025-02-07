@@ -1,0 +1,11 @@
+{
+  "asn": 5755,
+  "handle": "SIAM-ASN-01",
+  "description": "SIAM",
+  "subnets": {
+    "ipv4": [
+      "192.108.225.0/24"
+    ],
+    "ipv6": []
+  }
+}

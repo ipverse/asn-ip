@@ -1,0 +1,11 @@
+{
+  "asn": 213524,
+  "handle": "OE",
+  "description": "Oulun Energia Oy",
+  "subnets": {
+    "ipv4": [
+      "193.143.74.0/24"
+    ],
+    "ipv6": []
+  }
+}

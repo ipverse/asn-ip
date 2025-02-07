@@ -3,9 +3,7 @@
   "handle": "IDNIC-GNS-ID",
   "description": "PT Gateway Network Services",
   "subnets": {
-    "ipv4": [
-      "160.191.206.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

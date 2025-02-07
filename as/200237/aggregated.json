@@ -4,9 +4,6 @@
   "description": "Marco Foggiato",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2a06:de01:fd::/48",
-      "2a06:de01:fe::/48"
-    ]
+    "ipv6": []
   }
 }

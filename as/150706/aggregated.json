@@ -3,7 +3,9 @@
   "handle": "HKZTCL-AP",
   "description": "Zhengxing Technology",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "154.48.241.0/24"
+    ],
     "ipv6": []
   }
 }

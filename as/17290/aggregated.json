@@ -3,7 +3,9 @@
   "handle": "AH-OHIO-NETS",
   "description": "Austin Hadley, Sole Proprietorship",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "23.190.216.0/24"
+    ],
     "ipv6": []
   }
 }

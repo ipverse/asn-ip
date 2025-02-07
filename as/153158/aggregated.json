@@ -1,0 +1,11 @@
+{
+  "asn": 153158,
+  "handle": "IDNIC-DDS-ID",
+  "description": "PT Dukodu Digital Solution",
+  "subnets": {
+    "ipv4": [
+      "160.191.204.0/23"
+    ],
+    "ipv6": []
+  }
+}

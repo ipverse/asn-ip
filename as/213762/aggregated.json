@@ -3,7 +3,9 @@
   "handle": "ASTRALHOST",
   "description": "Sochan Serafino trading as AstralHost",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "82.153.79.0/24"
+    ],
     "ipv6": []
   }
 }

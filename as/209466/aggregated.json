@@ -1,9 +1,11 @@
 {
   "asn": 209466,
-  "handle": "BOS",
+  "handle": "NETUNDWEB-TELEKOMUNIKASYON-TICARET-LIMITED-SIRKETI",
   "description": "Remzi Ozkarabulut",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.157.16.0/24"
+    ],
     "ipv6": []
   }
 }

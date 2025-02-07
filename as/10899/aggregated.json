@@ -1,5 +1,7 @@
 {
   "asn": 10899,
+  "handle": "CARIS-LIFE-SCIENCES",
+  "description": "Caris Life Sciences",
   "subnets": {
     "ipv4": [
       "98.187.79.0/24",

@@ -3,7 +3,9 @@
   "handle": "TRSKZN",
   "description": "TR-Telecom JSC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "176.112.92.0/22"
+    ],
     "ipv6": []
   }
 }

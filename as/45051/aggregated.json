@@ -3,10 +3,7 @@
   "handle": "RU-RAID",
   "description": "JSC ER-Telecom Holding",
   "subnets": {
-    "ipv4": [
-      "91.203.168.0/24",
-      "91.203.170.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

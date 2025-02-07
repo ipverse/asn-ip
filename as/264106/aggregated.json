@@ -4,7 +4,8 @@
   "description": "ANDRADE \u0026 LANDIM TELECOMUNICACOES LTDA",
   "subnets": {
     "ipv4": [
-      "138.94.52.0/22"
+      "138.94.52.0/22",
+      "170.231.184.0/22"
     ],
     "ipv6": [
       "2804:2284::/32"
