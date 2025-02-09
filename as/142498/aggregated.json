@@ -3,7 +3,9 @@
   "handle": "AJINKYA20",
   "description": "AJINKYA INTERNET PVT LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.169.164.0/23"
+    ],
     "ipv6": []
   }
 }

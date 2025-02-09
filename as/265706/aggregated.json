@@ -3,7 +3,9 @@
   "handle": "WIANET-SOLUTIONS",
   "description": "WIANET SOLUTIONS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.5.28.0/22"
+    ],
     "ipv6": []
   }
 }

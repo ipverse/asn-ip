@@ -3,7 +3,9 @@
   "handle": "EDGEUNO-MEXICO",
   "description": "EDGEUNO MEXICO SA DE CV",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "200.25.100.0/23"
+    ],
     "ipv6": [
       "2806:3dd::/32"
     ]

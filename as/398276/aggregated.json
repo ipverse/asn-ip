@@ -3,7 +3,10 @@
   "handle": "ORGANON",
   "description": "Organon \u0026 Co.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "8.245.8.0/24",
+      "62.200.212.0/24"
+    ],
     "ipv6": []
   }
 }

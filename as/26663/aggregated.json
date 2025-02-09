@@ -1,7 +1,11 @@
 {
   "asn": 26663,
+  "handle": "BANTELUSACORP-01",
+  "description": "BANTEL-USA CORP",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "98.159.175.0/24"
+    ],
     "ipv6": []
   }
 }

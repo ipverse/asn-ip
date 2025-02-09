@@ -3,9 +3,13 @@
   "handle": "ERTIUS-NET",
   "description": "Robert Weir",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.140.52.0/24"
+    ],
     "ipv6": [
-      "2a0f:85c1:b41::/48"
+      "2a05:dfc3:fe00::/40",
+      "2a0f:85c1:b41::/48",
+      "2a0f:b244:120::/44"
     ]
   }
 }
