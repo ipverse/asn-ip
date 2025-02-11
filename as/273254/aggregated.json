@@ -3,7 +3,9 @@
   "handle": "SIGLO-REDES-MEXICO",
   "description": "SIGLO REDES DE MEXICO SAPI DE C.V",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.3.221.0/24"
+    ],
     "ipv6": [
       "2806:438::/32"
     ]

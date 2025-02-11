@@ -3,9 +3,7 @@
   "handle": "TGSLLC-02",
   "description": "TGS, LLC",
   "subnets": {
-    "ipv4": [
-      "50.144.185.0/24"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2001:559:a048::/48"
     ]

@@ -1,0 +1,11 @@
+{
+  "asn": 401638,
+  "handle": "BATHURST",
+  "description": "City of Bathurst",
+  "subnets": {
+    "ipv4": [
+      "142.202.198.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -3,7 +3,9 @@
   "handle": "IDNIC-MICROCELID-ID",
   "description": "PT Microcel Pole Indonesia",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.158.188.0/23"
+    ],
     "ipv6": []
   }
 }

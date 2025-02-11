@@ -4,6 +4,7 @@
   "description": "Klixa IT GmbH",
   "subnets": {
     "ipv4": [
+      "185.90.150.0/23",
       "185.188.44.0/22"
     ],
     "ipv6": [

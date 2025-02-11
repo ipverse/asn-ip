@@ -3,7 +3,9 @@
   "handle": "RDPCORE",
   "description": "RDP CORE DC DOO BEOGRAD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "31.57.197.0/24"
+    ],
     "ipv6": []
   }
 }

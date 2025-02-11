@@ -1,0 +1,11 @@
+{
+  "asn": 215893,
+  "handle": "KIWINET",
+  "description": "Kiwi SASU",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a12:5840:2510::/44"
+    ]
+  }
+}

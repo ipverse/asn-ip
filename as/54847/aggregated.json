@@ -4,6 +4,7 @@
   "description": "Custer Telephone Cooperative, Inc.",
   "subnets": {
     "ipv4": [
+      "66.232.84.0/22",
       "134.195.84.0/22"
     ],
     "ipv6": [
