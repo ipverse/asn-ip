@@ -3,9 +3,7 @@
   "handle": "SPIDERNETWORKS-AP",
   "description": "Spider Networks",
   "subnets": {
-    "ipv4": [
-      "161.248.245.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

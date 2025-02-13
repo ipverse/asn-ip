@@ -3,7 +3,9 @@
   "handle": "XIWEI-NETWORK",
   "description": "Xiwei Ye",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "31.56.67.0/24"
+    ],
     "ipv6": [
       "2a06:a005:b69::/48",
       "2a10:2f00:147::/48",

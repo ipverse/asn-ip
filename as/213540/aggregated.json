@@ -3,11 +3,7 @@
   "handle": "UXSTREAM",
   "description": "UXStream AB",
   "subnets": {
-    "ipv4": [
-      "194.132.9.0/24"
-    ],
-    "ipv6": [
-      "2a14:c900::/32"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

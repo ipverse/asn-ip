@@ -3,7 +3,9 @@
   "handle": "TLT-INTL",
   "description": "Teletek Bulut Bilisim ve Iletisim Hizmetleri A.S.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.155.153.0/24"
+    ],
     "ipv6": []
   }
 }

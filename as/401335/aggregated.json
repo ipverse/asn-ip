@@ -1,0 +1,12 @@
+{
+  "asn": 401335,
+  "handle": "AI-DUDE-RI",
+  "description": "Minerdude LLC",
+  "subnets": {
+    "ipv4": [
+      "123.108.90.0/23",
+      "203.57.40.0/23"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,9 +1,11 @@
 {
   "asn": 50836,
-  "handle": "PEERING-NETWORKS",
+  "handle": "PNL",
   "description": "Peering Networks Limited",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2602:fac2:1::/48"
+    ]
   }
 }

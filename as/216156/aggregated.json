@@ -3,11 +3,7 @@
   "handle": "EPIKWIRE-NET",
   "description": "Epikwire Broadband Limited",
   "subnets": {
-    "ipv4": [
-      "91.227.186.0/24"
-    ],
-    "ipv6": [
-      "2a0f:6280::/29"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

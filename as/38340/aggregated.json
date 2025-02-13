@@ -3,7 +3,9 @@
   "handle": "SHANGHAI263",
   "description": "263 Shanghai Communications Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "114.28.253.0/24"
+    ],
     "ipv6": []
   }
 }
