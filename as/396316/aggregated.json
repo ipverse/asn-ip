@@ -3,10 +3,7 @@
   "handle": "FULL-THROTTLE",
   "description": "Full Throttle Networks Inc.",
   "subnets": {
-    "ipv4": [
-      "64.40.4.0/22",
-      "209.142.96.0/22"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2604:5140::/32"
     ]

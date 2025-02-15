@@ -3,7 +3,9 @@
   "handle": "NANCY-INES-IZAZA",
   "description": "NANCY INES IZAZA (AELO VIDEO CABLE)",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "190.104.67.0/24"
+    ],
     "ipv6": []
   }
 }

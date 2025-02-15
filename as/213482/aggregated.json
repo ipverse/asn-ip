@@ -4,6 +4,7 @@
   "description": "Waterfall Technologies Ltd",
   "subnets": {
     "ipv4": [
+      "82.22.119.0/24",
       "82.25.187.0/24"
     ],
     "ipv6": []

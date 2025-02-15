@@ -3,7 +3,9 @@
   "handle": "PROADMIN",
   "description": "ProAdmin - Lukasz Piwowarczyk",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "5.183.195.0/24"
+    ],
     "ipv6": [
       "2001:678:102c::/48"
     ]

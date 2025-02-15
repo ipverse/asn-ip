@@ -4,6 +4,7 @@
   "description": "AdGuard Software Limited",
   "subnets": {
     "ipv4": [
+      "45.156.136.0/22",
       "46.243.228.0/22",
       "92.255.56.0/24",
       "92.255.84.0/24",

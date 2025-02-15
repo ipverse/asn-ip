@@ -4,6 +4,9 @@
   "description": "Saltant Solutions LLC",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2605:e040::/40",
+      "2605:e040:800::/40"
+    ]
   }
 }

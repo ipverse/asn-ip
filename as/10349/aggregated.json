@@ -4,7 +4,6 @@
   "description": "Tulane University",
   "subnets": {
     "ipv4": [
-      "76.165.10.0/23",
       "76.165.13.0/24",
       "129.81.0.0/16"
     ],

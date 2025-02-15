@@ -3,7 +3,10 @@
   "handle": "GO-DADDY-COM-LLC",
   "description": "GoDaddy.com, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "208.109.153.0/24",
+      "208.109.154.0/24"
+    ],
     "ipv6": []
   }
 }

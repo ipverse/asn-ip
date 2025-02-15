@@ -4,7 +4,8 @@
   "description": "Lloyds Banking Group PLC",
   "subnets": {
     "ipv4": [
-      "141.92.175.0/24"
+      "141.92.160.0/19",
+      "141.92.192.0/18"
     ],
     "ipv6": []
   }

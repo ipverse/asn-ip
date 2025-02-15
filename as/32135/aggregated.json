@@ -1,0 +1,11 @@
+{
+  "asn": 32135,
+  "handle": "SAKURA-NYC",
+  "description": "SAKURA LTD.",
+  "subnets": {
+    "ipv4": [
+      "140.235.9.0/24"
+    ],
+    "ipv6": []
+  }
+}
