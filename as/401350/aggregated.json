@@ -3,9 +3,7 @@
   "handle": "CONEXON-CONNECT-2",
   "description": "Conexon Connect",
   "subnets": {
-    "ipv4": [
-      "165.188.76.0/22"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

@@ -3,9 +3,7 @@
   "handle": "AIRONET-1",
   "description": "AiroNet",
   "subnets": {
-    "ipv4": [
-      "147.160.147.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }
