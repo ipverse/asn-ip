@@ -3,9 +3,7 @@
   "handle": "NETLEN",
   "description": "Netlen Internet Hizmetleri Ltd. Sti.",
   "subnets": {
-    "ipv4": [
-      "77.83.203.0/24"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2a01:f905::/32"
     ]

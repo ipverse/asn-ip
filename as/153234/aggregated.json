@@ -3,7 +3,9 @@
   "handle": "SYXM-IN",
   "description": "SYXM CONECTIFY PRIVATE LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "160.250.38.0/23"
+    ],
     "ipv6": []
   }
 }

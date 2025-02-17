@@ -4,7 +4,8 @@
   "description": "SUPRA CANADA TECHNOLOGIES LTD",
   "subnets": {
     "ipv4": [
-      "162.217.242.0/24"
+      "162.217.242.0/24",
+      "192.245.160.0/24"
     ],
     "ipv6": []
   }

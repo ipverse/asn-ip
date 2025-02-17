@@ -3,9 +3,7 @@
   "handle": "CV",
   "description": "Wave",
   "subnets": {
-    "ipv4": [
-      "136.175.200.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

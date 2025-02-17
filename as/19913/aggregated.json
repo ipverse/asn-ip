@@ -3,7 +3,9 @@
   "handle": "WPNP",
   "description": "W-PNP, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "142.214.243.0/24"
+    ],
     "ipv6": []
   }
 }
