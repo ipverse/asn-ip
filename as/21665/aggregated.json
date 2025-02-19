@@ -1,7 +1,11 @@
 {
   "asn": 21665,
+  "handle": "AMPLIGHT-VENTURES",
+  "description": "AmpLight Ventures LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "23.133.140.0/24"
+    ],
     "ipv6": []
   }
 }

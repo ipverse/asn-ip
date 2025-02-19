@@ -1,9 +1,11 @@
 {
   "asn": 137630,
-  "handle": "NIXI",
-  "description": "NIXI",
+  "handle": "WINETCOMM-IN",
+  "description": "WINET COMMUNIATIONS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.69.200.0/23"
+    ],
     "ipv6": []
   }
 }

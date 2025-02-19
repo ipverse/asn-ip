@@ -3,7 +3,9 @@
   "handle": "NETWALA-IN",
   "description": "Internetwala It Services Pvt Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.153.209.0/24"
+    ],
     "ipv6": []
   }
 }

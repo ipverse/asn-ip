@@ -4,7 +4,8 @@
   "description": "R. ALECIO SACHETTI \u0026 CIA LTDA - EPP",
   "subnets": {
     "ipv4": [
-      "45.229.240.0/22"
+      "45.229.240.0/22",
+      "177.128.88.0/22"
     ],
     "ipv6": [
       "2804:48c0::/32"

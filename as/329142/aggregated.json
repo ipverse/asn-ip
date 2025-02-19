@@ -3,7 +3,9 @@
   "handle": "IISL1",
   "description": "ITEX Integrated Services Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "102.214.91.0/24"
+    ],
     "ipv6": []
   }
 }

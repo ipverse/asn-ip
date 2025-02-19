@@ -3,12 +3,7 @@
   "handle": "BAREMETAL",
   "description": "Falcon FZE LLC",
   "subnets": {
-    "ipv4": [
-      "5.175.236.0/24",
-      "23.130.28.0/24"
-    ],
-    "ipv6": [
-      "2a14:9d00::/29"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

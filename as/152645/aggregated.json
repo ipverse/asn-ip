@@ -4,6 +4,7 @@
   "description": "Flextech Inc.",
   "subnets": {
     "ipv4": [
+      "160.250.110.0/24",
       "202.1.4.0/24"
     ],
     "ipv6": []

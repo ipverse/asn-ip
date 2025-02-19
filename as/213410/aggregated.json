@@ -1,0 +1,11 @@
+{
+  "asn": 213410,
+  "handle": "OAKHOST",
+  "description": "OakHost OU",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a10:b140::/29"
+    ]
+  }
+}

@@ -4,8 +4,6 @@
   "description": "Guizhou Moutai Winery (Group) Co., Ltd.",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2400:73e0::/32"
-    ]
+    "ipv6": []
   }
 }

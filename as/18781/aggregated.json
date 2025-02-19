@@ -1,7 +1,11 @@
 {
   "asn": 18781,
+  "handle": "ASTRACORE-VENTURES",
+  "description": "AstraCore Ventures LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "23.133.76.0/24"
+    ],
     "ipv6": []
   }
 }

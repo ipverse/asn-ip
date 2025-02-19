@@ -3,7 +3,9 @@
   "handle": "ICONPLN-ID-AP-NAP",
   "description": "PT INDONESIA COMNETS PLUS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.189.207.0/24"
+    ],
     "ipv6": []
   }
 }
