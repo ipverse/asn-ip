@@ -1,9 +1,11 @@
 {
   "asn": 135824,
-  "handle": "GELEXIY-IN",
-  "description": "Gelexiy Cab Net",
+  "handle": "HANIRA-IN",
+  "description": "HANIRA BROADBAND SERVICES PRIVATE LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "160.250.236.0/23"
+    ],
     "ipv6": []
   }
 }

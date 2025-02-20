@@ -3,7 +3,9 @@
   "handle": "MDABDULMANNAN-AP",
   "description": "Sara Networking System",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "160.187.158.0/24"
+    ],
     "ipv6": []
   }
 }

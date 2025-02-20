@@ -1,0 +1,11 @@
+{
+  "asn": 274750,
+  "handle": "RNET-SERVIOS-INTERNET",
+  "description": "RNET SERVIOS DE INTERNET",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2804:9308::/32"
+    ]
+  }
+}

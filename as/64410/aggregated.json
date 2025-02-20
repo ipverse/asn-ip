@@ -1,9 +1,11 @@
 {
   "asn": 64410,
-  "handle": "COMKASTUA",
+  "handle": "BELICOMNET",
   "description": "BELICOM.NET LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "94.131.216.0/24"
+    ],
     "ipv6": []
   }
 }

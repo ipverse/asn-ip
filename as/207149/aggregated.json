@@ -3,7 +3,9 @@
   "handle": "SNAWNET",
   "description": "Julien Sansonnens",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "44.31.107.0/24"
+    ],
     "ipv6": [
       "2a0c:b641:270::/44"
     ]

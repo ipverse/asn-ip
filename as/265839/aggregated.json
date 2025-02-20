@@ -4,6 +4,7 @@
   "description": "HOSTING.CL",
   "subnets": {
     "ipv4": [
+      "45.236.167.0/24",
       "201.148.104.0/22"
     ],
     "ipv6": [

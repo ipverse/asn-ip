@@ -1,9 +1,11 @@
 {
   "asn": 26521,
-  "handle": "BMTC",
-  "description": "Bryn Mawr Trust Company",
+  "handle": "WSFS-2",
+  "description": "WSFS Bank",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "204.77.171.0/24"
+    ],
     "ipv6": []
   }
 }

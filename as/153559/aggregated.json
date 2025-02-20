@@ -3,7 +3,9 @@
   "handle": "IDNIC-MAULANAJAYAMEDIA-ID",
   "description": "PT MAULANA JAYA MEDIA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "163.47.46.0/24"
+    ],
     "ipv6": []
   }
 }

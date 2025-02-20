@@ -1,0 +1,11 @@
+{
+  "asn": 40617,
+  "handle": "HPE-AI-CLOUD",
+  "description": "HEWLETT PACKARD ENTERPRISE COMPANY",
+  "subnets": {
+    "ipv4": [
+      "192.251.140.0/24"
+    ],
+    "ipv6": []
+  }
+}

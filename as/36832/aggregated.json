@@ -4,7 +4,6 @@
   "description": "Network Gibbon LLC",
   "subnets": {
     "ipv4": [
-      "23.132.164.0/24",
       "142.214.140.0/22"
     ],
     "ipv6": [

@@ -3,7 +3,9 @@
   "handle": "FUSOLAB",
   "description": "Fusolab onlus",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "176.111.173.0/24"
+    ],
     "ipv6": []
   }
 }

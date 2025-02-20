@@ -3,7 +3,12 @@
   "handle": "MARCOS-SINDOR-RIBEIRAO",
   "description": "MARCOS SINDOR RIBEIRAO BRANCO EIRELI - ME",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "170.0.192.0/22",
+      "170.79.148.0/22"
+    ],
+    "ipv6": [
+      "2804:35a8::/32"
+    ]
   }
 }

@@ -4,6 +4,7 @@
   "description": "DATAGEEKS CLOUD IP TECHNOLOGY PRIVATE LIMITED",
   "subnets": {
     "ipv4": [
+      "149.100.64.0/22",
       "154.49.172.0/22",
       "154.57.140.0/22",
       "154.58.132.0/22",

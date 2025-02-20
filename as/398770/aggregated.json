@@ -1,0 +1,13 @@
+{
+  "asn": 398770,
+  "handle": "TC",
+  "description": "Twisted Computing Incorporated",
+  "subnets": {
+    "ipv4": [
+      "163.123.191.0/24",
+      "204.126.180.0/23",
+      "206.208.232.0/21"
+    ],
+    "ipv6": []
+  }
+}

@@ -4,7 +4,8 @@
   "description": "UKRANIAN OPTICAL SYSTEMS AND TECHNOLOGIES LLC",
   "subnets": {
     "ipv4": [
-      "178.214.192.0/21"
+      "178.214.192.0/21",
+      "194.150.232.0/23"
     ],
     "ipv6": []
   }

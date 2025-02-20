@@ -1,0 +1,11 @@
+{
+  "asn": 61336,
+  "handle": "ISLANDSERVERS",
+  "description": "Island Servers LTD",
+  "subnets": {
+    "ipv4": [
+      "91.247.38.0/24"
+    ],
+    "ipv6": []
+  }
+}

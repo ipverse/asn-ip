@@ -3,7 +3,9 @@
   "handle": "CAP-MEDIATEL",
   "description": "COAXIS HOSTING SASAU",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.116.176.0/23"
+    ],
     "ipv6": []
   }
 }
