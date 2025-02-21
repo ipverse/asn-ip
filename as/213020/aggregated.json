@@ -1,0 +1,13 @@
+{
+  "asn": 213020,
+  "handle": "SYSOPSSEM-02",
+  "description": "Tobias Fiebig",
+  "subnets": {
+    "ipv4": [
+      "151.216.32.0/24"
+    ],
+    "ipv6": [
+      "2001:7fc:1::/48"
+    ]
+  }
+}

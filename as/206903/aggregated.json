@@ -4,7 +4,7 @@
   "description": "SMCP Group SAS",
   "subnets": {
     "ipv4": [
-      "185.172.152.0/22"
+      "185.172.154.0/24"
     ],
     "ipv6": []
   }

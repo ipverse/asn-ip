@@ -4,6 +4,7 @@
   "description": "LLC RINET",
   "subnets": {
     "ipv4": [
+      "194.44.224.0/24",
       "195.66.79.0/24"
     ],
     "ipv6": []

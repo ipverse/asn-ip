@@ -1,0 +1,11 @@
+{
+  "asn": 56156,
+  "handle": "VNNIC-AP",
+  "description": "Vietnam Internet Network Information Center",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2001:dc8:4000::/48"
+    ]
+  }
+}

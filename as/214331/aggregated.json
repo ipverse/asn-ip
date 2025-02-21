@@ -3,7 +3,9 @@
   "handle": "TESKE-VIRTUAL-SYSTEM",
   "description": "TESKE VIRTUAL SYSTEM LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.172.195.0/24"
+    ],
     "ipv6": [
       "2a06:b700:1000::/47"
     ]

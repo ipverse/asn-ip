@@ -1,0 +1,11 @@
+{
+  "asn": 273977,
+  "handle": "OFICINA-NORMALIZACION-PREVISIONAL",
+  "description": "OFICINA DE NORMALIZACION PREVISIONAL",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2801:1cd:20::/43"
+    ]
+  }
+}

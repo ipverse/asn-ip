@@ -1,9 +1,11 @@
 {
   "asn": 213332,
-  "handle": "RESERVED",
-  "description": "RIPE NCC ASN block",
+  "handle": "MOBISMART",
+  "description": "MOBISMART TELEKOMUNIKASYON ILETISIM SANAYI VE TICARET ANONIM SIRKETI",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "31.210.35.0/24"
+    ],
     "ipv6": []
   }
 }

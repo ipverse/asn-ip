@@ -4,6 +4,7 @@
   "description": "Direktorat Jenderal Pendidikan Tinggi",
   "subnets": {
     "ipv4": [
+      "103.56.188.0/24",
       "103.56.191.0/24"
     ],
     "ipv6": []

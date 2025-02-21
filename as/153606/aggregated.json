@@ -1,0 +1,11 @@
+{
+  "asn": 153606,
+  "handle": "CYBERIA-AP",
+  "description": "CYBERIA",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2001:df5:17c0::/48"
+    ]
+  }
+}

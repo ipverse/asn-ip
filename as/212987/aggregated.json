@@ -1,9 +1,13 @@
 {
   "asn": 212987,
-  "handle": "NEKOCLOUD",
-  "description": "NekoCloud Solutions Limited",
+  "handle": "SYSOPSSEM-07",
+  "description": "Tobias Fiebig",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "151.216.37.0/24"
+    ],
+    "ipv6": [
+      "2001:7fc:6::/48"
+    ]
   }
 }

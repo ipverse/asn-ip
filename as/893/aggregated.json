@@ -3,7 +3,12 @@
   "handle": "NINJA-IX-FOUNDATION",
   "description": "Ninja-IX Foundation",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "23.137.88.0/24"
+    ],
+    "ipv6": [
+      "2001:470:3b6::/48",
+      "2602:fb61::/40"
+    ]
   }
 }

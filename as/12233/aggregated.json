@@ -4,6 +4,7 @@
   "description": "Ninja-IX Corporation",
   "subnets": {
     "ipv4": [
+      "165.140.130.0/24",
       "172.82.0.0/22"
     ],
     "ipv6": []

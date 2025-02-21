@@ -3,7 +3,9 @@
   "handle": "UMBRELLA-CORPORATION",
   "description": "Umbrella Corporation ZA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "102.209.124.0/22"
+    ],
     "ipv6": []
   }
 }

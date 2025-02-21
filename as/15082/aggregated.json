@@ -3,9 +3,7 @@
   "handle": "OMEG-LCN",
   "description": "OMEGAI",
   "subnets": {
-    "ipv4": [
-      "23.129.244.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

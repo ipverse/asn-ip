@@ -1,5 +1,7 @@
 {
   "asn": 25978,
+  "handle": "RUSH-EXTERNAL",
+  "description": "Rush University Medical Center",
   "subnets": {
     "ipv4": [
       "144.74.0.0/16"

@@ -4,8 +4,7 @@
   "description": "E C SATURNINO DE LIMA",
   "subnets": {
     "ipv4": [
-      "45.170.168.0/23",
-      "45.170.170.0/24"
+      "45.170.168.0/22"
     ],
     "ipv6": []
   }

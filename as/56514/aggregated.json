@@ -3,7 +3,9 @@
   "handle": "SPRINT-TELECOM",
   "description": "Sprint Telecom SRL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "109.95.15.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -1,0 +1,14 @@
+{
+  "asn": 6260,
+  "handle": "SIX2SIXO-NETWORKS",
+  "description": "MOD Mission Critical, LLC",
+  "subnets": {
+    "ipv4": [
+      "23.29.57.0/24",
+      "45.132.3.0/24",
+      "185.225.188.0/24",
+      "206.246.112.0/24"
+    ],
+    "ipv6": []
+  }
+}
