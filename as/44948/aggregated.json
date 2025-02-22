@@ -3,9 +3,7 @@
   "handle": "SHL",
   "description": "Smartest Home Limited",
   "subnets": {
-    "ipv4": [
-      "77.81.50.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

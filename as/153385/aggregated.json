@@ -3,7 +3,9 @@
   "handle": "PICO-AP",
   "description": "Pico Public Cloud Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "160.191.150.0/24"
+    ],
     "ipv6": []
   }
 }

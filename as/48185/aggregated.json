@@ -3,7 +3,9 @@
   "handle": "TEAM-BLUE",
   "description": "AMEN SAS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.90.97.0/24"
+    ],
     "ipv6": []
   }
 }

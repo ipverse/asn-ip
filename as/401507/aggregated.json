@@ -4,9 +4,6 @@
   "description": "imput",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2602:f78a:1::/48",
-      "2602:f78a:10::/44"
-    ]
+    "ipv6": []
   }
 }

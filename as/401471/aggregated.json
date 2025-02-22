@@ -1,0 +1,11 @@
+{
+  "asn": 401471,
+  "handle": "TICKETNETWORK-DC-01",
+  "description": "TicketNetwork Inc.",
+  "subnets": {
+    "ipv4": [
+      "104.192.29.0/24"
+    ],
+    "ipv6": []
+  }
+}

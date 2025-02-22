@@ -3,9 +3,7 @@
   "handle": "DPS-CL1",
   "description": "Deep Systems LLC",
   "subnets": {
-    "ipv4": [
-      "149.13.61.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "TELEGLOBAL",
   "description": "TeleGlobal Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "94.247.16.0/21"
+    ],
     "ipv6": []
   }
 }

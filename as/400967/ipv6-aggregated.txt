@@ -1,4 +1,5 @@
 # AS400967 (ASSUREDNET-ASN1)
 # Assured Networks
 #
-2602:f922:1::/48
+2602:f922::/47
+2602:f922:f4::/46

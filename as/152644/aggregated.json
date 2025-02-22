@@ -4,6 +4,7 @@
   "description": "QINIU (CHINA) limited",
   "subnets": {
     "ipv4": [
+      "154.41.93.0/24",
       "202.47.134.0/23"
     ],
     "ipv6": []

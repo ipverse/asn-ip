@@ -3,7 +3,9 @@
   "handle": "RACKIFI",
   "description": "Rackifi Holdings LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "104.234.66.0/24"
+    ],
     "ipv6": []
   }
 }

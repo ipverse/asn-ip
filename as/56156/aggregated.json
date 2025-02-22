@@ -3,7 +3,9 @@
   "handle": "VNNIC-AP",
   "description": "Vietnam Internet Network Information Center",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "117.122.112.0/22"
+    ],
     "ipv6": [
       "2001:dc8:4000::/48"
     ]

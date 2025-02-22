@@ -3,7 +3,9 @@
   "handle": "CLARKPEST",
   "description": "Clark Pest Control",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "67.206.180.0/23"
+    ],
     "ipv6": []
   }
 }

@@ -4,8 +4,6 @@
   "description": "Enmoe Network",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2402:e380:310::/48"
-    ]
+    "ipv6": []
   }
 }

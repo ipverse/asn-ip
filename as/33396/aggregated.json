@@ -3,9 +3,7 @@
   "handle": "GENERAL-HEALTH-SYSTEMS",
   "description": "GENERAL HEALTH SYSTEM",
   "subnets": {
-    "ipv4": [
-      "72.192.237.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

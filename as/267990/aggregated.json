@@ -4,7 +4,8 @@
   "description": "Gilberto Leandro Peron e Cia Ltda",
   "subnets": {
     "ipv4": [
-      "45.167.32.0/22"
+      "45.167.33.0/24",
+      "45.167.34.0/23"
     ],
     "ipv6": []
   }

@@ -3,7 +3,10 @@
   "handle": "TROVER-SOLUTIONS-NET",
   "description": "Trover Solutions",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "208.66.220.0/24",
+      "208.66.223.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -4,7 +4,8 @@
   "description": "Waller Creek Communications",
   "subnets": {
     "ipv4": [
-      "192.12.22.0/24"
+      "192.12.22.0/24",
+      "205.165.128.0/17"
     ],
     "ipv6": []
   }
