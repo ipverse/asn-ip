@@ -3,11 +3,9 @@
   "handle": "OPENSAT-SOLUES-EM-SEGUNA",
   "description": "Opensat Solues em seguna LTDA",
   "subnets": {
-    "ipv4": [
-      "38.211.136.0/23"
-    ],
+    "ipv4": [],
     "ipv6": [
-      "2804:8d20::/32"
+      "2804:8d20:f100::/40"
     ]
   }
 }

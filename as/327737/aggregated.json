@@ -4,7 +4,8 @@
   "description": "Custom Solutions Business Trust",
   "subnets": {
     "ipv4": [
-      "154.73.16.0/23"
+      "154.73.16.0/23",
+      "154.73.19.0/24"
     ],
     "ipv6": []
   }

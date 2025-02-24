@@ -3,9 +3,7 @@
   "handle": "BROADBAY",
   "description": "No ACK Group Holding AB",
   "subnets": {
-    "ipv4": [
-      "103.63.188.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }
