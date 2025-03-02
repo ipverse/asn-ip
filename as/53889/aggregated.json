@@ -3,11 +3,7 @@
   "handle": "WJY",
   "description": "WJY LLC",
   "subnets": {
-    "ipv4": [
-      "23.176.56.0/24"
-    ],
-    "ipv6": [
-      "2602:f984::/39"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

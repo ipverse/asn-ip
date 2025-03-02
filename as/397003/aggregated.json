@@ -4,7 +4,8 @@
   "description": "Bill Gosling Outsourcing Corp.",
   "subnets": {
     "ipv4": [
-      "76.74.137.0/24"
+      "76.74.137.0/24",
+      "208.97.229.0/24"
     ],
     "ipv6": []
   }

@@ -3,7 +3,10 @@
   "handle": "PROGRESSIVEPRODUCE",
   "description": "Progressive Produce Corporation",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "75.140.129.0/24",
+      "206.170.229.0/24"
+    ],
     "ipv6": []
   }
 }

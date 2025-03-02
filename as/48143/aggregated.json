@@ -3,9 +3,7 @@
   "handle": "MIRANTIS",
   "description": "Mirantis IT LLC",
   "subnets": {
-    "ipv4": [
-      "91.207.132.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

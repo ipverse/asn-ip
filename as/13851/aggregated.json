@@ -3,10 +3,7 @@
   "handle": "SEVENL",
   "description": "LABATT RACKS.NET MANAGING SERVICES INC",
   "subnets": {
-    "ipv4": [
-      "74.118.36.0/24",
-      "199.127.128.0/24"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2607:c180::/36"
     ]

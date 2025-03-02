@@ -3,7 +3,9 @@
   "handle": "AVENIR",
   "description": "Avenir Solutions Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.97.126.0/24"
+    ],
     "ipv6": []
   }
 }

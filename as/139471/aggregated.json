@@ -3,13 +3,7 @@
   "handle": "HWACENT-AP",
   "description": "HWA CENT TELECOMMUNICATIONS LIMITED",
   "subnets": {
-    "ipv4": [
-      "103.99.62.0/24",
-      "103.145.22.0/23",
-      "154.210.48.0/20",
-      "154.215.16.0/20",
-      "154.220.224.0/19"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

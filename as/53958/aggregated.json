@@ -4,6 +4,7 @@
   "description": "AUPROXIES LLC",
   "subnets": {
     "ipv4": [
+      "72.1.160.0/20",
       "139.171.194.0/24"
     ],
     "ipv6": []

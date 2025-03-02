@@ -4,6 +4,7 @@
   "description": "KUDOSHUB TECHNOLOGIES PRIVATE LIMITED",
   "subnets": {
     "ipv4": [
+      "31.58.66.0/24",
       "103.113.160.0/22"
     ],
     "ipv6": []

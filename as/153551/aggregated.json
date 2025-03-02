@@ -1,0 +1,11 @@
+{
+  "asn": 153551,
+  "handle": "AXENTECPLC-AP",
+  "description": "Axentec PLC",
+  "subnets": {
+    "ipv4": [
+      "161.248.246.0/23"
+    ],
+    "ipv6": []
+  }
+}
