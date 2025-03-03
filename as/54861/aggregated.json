@@ -1,0 +1,11 @@
+{
+  "asn": 54861,
+  "handle": "SAHARA-COMPUTE-COM",
+  "description": "Sahara Compute LLC",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2602:f6d7::/40"
+    ]
+  }
+}

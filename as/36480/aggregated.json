@@ -4,6 +4,7 @@
   "description": "Bitrise",
   "subnets": {
     "ipv4": [
+      "74.122.201.0/24",
       "74.122.202.0/24"
     ],
     "ipv6": []

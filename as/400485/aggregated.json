@@ -3,7 +3,9 @@
   "handle": "APOG-PUERTA-DEL-SOL",
   "description": "Apogee Telecom Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "76.78.185.0/24"
+    ],
     "ipv6": []
   }
 }

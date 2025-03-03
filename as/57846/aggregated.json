@@ -3,7 +3,9 @@
   "handle": "SATORTECH",
   "description": "Satortech S.R.L.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "37.130.152.0/21"
+    ],
     "ipv6": []
   }
 }

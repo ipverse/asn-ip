@@ -3,7 +3,9 @@
   "handle": "GABRIEL-ARGENTIERI",
   "description": "Gabriel ARGENTIERI",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "31.57.227.0/24"
+    ],
     "ipv6": []
   }
 }

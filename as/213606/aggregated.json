@@ -3,7 +3,9 @@
   "handle": "GAMER-HOST",
   "description": "Jose Luis Monserrat Alburquenque",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "81.168.122.0/24"
+    ],
     "ipv6": []
   }
 }
