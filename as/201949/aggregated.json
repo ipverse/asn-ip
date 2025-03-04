@@ -1,6 +1,6 @@
 {
   "asn": 201949,
-  "handle": "SEED-TECHNOLOGIES-LTD",
+  "handle": "SEEDTECHNOLOGIES",
   "description": "Seed Technologies LTD.",
   "subnets": {
     "ipv4": [
@@ -10,6 +10,7 @@
       "140.233.187.0/24"
     ],
     "ipv6": [
+      "2a0c:9a40:86c0::/44",
       "2a12:5343:6::/48"
     ]
   }

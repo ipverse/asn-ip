@@ -3,7 +3,9 @@
   "handle": "AYD",
   "description": "AYD TELEKOMUNIKASYON BILISIM SAN. TIC. LTD. STI.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "188.124.22.0/24"
+    ],
     "ipv6": []
   }
 }

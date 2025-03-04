@@ -1,9 +1,11 @@
 {
   "asn": 212546,
-  "handle": "MAO",
-  "description": "Mohammad Ali Obeidat",
+  "handle": "ASVIRTUALNETLABS",
+  "description": "Virtual Network Lab L.L.C-FZ",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "149.13.59.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "ASBLINK-AP",
   "description": "ASB Link",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "163.61.217.0/24"
+    ],
     "ipv6": []
   }
 }

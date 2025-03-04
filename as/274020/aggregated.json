@@ -1,0 +1,11 @@
+{
+  "asn": 274020,
+  "handle": "FADANET-SPA",
+  "description": "FADANET SPA",
+  "subnets": {
+    "ipv4": [
+      "204.157.76.0/24"
+    ],
+    "ipv6": []
+  }
+}

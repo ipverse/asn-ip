@@ -4,6 +4,7 @@
   "description": "IDM Telecom",
   "subnets": {
     "ipv4": [
+      "38.225.244.0/24",
       "205.164.76.0/24"
     ],
     "ipv6": [

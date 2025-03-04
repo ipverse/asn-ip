@@ -3,7 +3,11 @@
   "handle": "AWM",
   "description": "Omer Faruk Demirci",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "2.58.85.0/24",
+      "46.37.117.0/24",
+      "84.32.231.0/24"
+    ],
     "ipv6": [
       "2a0f:85c1:89c::/48"
     ]

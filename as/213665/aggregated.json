@@ -3,9 +3,7 @@
   "handle": "PARMINCLOUD-AMIN-IAAS",
   "description": "PARMIN CLOUD COMPUTING LLC",
   "subnets": {
-    "ipv4": [
-      "212.80.24.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

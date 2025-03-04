@@ -3,7 +3,9 @@
   "handle": "ASCSERVIS",
   "description": "Richard Filip",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "176.102.72.0/21"
+    ],
     "ipv6": []
   }
 }

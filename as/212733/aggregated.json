@@ -1,0 +1,13 @@
+{
+  "asn": 212733,
+  "handle": "NETQUIRK",
+  "description": "Netquirk Limited",
+  "subnets": {
+    "ipv4": [
+      "93.157.141.0/24"
+    ],
+    "ipv6": [
+      "2a0c:9a40:8660::/48"
+    ]
+  }
+}

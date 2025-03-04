@@ -1,9 +1,11 @@
 {
   "asn": 212117,
-  "handle": "RESERVED",
-  "description": "RIPE NCC ASN block",
+  "handle": "CIBEREON",
+  "description": "CIBEREON SL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.149.88.0/23"
+    ],
     "ipv6": []
   }
 }

@@ -3,9 +3,7 @@
   "handle": "IDNIC-INMALL-ID",
   "description": "PT Inmall Jaringan Indonesia",
   "subnets": {
-    "ipv4": [
-      "103.178.148.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

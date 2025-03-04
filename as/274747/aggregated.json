@@ -1,0 +1,11 @@
+{
+  "asn": 274747,
+  "handle": "APOLLO-TELECOM",
+  "description": "Apollo Telecom",
+  "subnets": {
+    "ipv4": [
+      "190.113.62.0/24"
+    ],
+    "ipv6": []
+  }
+}
