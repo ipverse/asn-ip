@@ -4,11 +4,6 @@
   "description": "Omur Akgun trading as Data TR Bilisim Teknoloji Hizmetleri",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2a05:abc0:1::/48",
-      "2a05:abc0:2::/47",
-      "2a05:abc0:4::/46",
-      "2a05:abc0:8::/47"
-    ]
+    "ipv6": []
   }
 }

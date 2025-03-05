@@ -1,0 +1,11 @@
+{
+  "asn": 274030,
+  "handle": "MINISTERIO-TRANSPORTE",
+  "description": "MINISTERIO DE TRANSPORTE",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2801:1b:1801::/48"
+    ]
+  }
+}

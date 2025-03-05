@@ -4,7 +4,6 @@
   "description": "China Broadcasting TV Net",
   "subnets": {
     "ipv4": [
-      "117.126.0.0/16",
       "211.89.0.0/16",
       "211.146.0.0/16",
       "211.156.128.0/19"

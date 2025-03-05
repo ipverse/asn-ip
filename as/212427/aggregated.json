@@ -1,9 +1,11 @@
 {
   "asn": 212427,
-  "handle": "RESERVED",
-  "description": "RIPE NCC ASN block",
+  "handle": "BASTION-GUARD",
+  "description": "BASTION GUARD LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "82.26.81.0/24"
+    ],
     "ipv6": []
   }
 }

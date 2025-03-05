@@ -3,7 +3,9 @@
   "handle": "BLARHOST-AP",
   "description": "Blar Host",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.23.95.0/24"
+    ],
     "ipv6": []
   }
 }

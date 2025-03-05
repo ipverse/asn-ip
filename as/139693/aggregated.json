@@ -1,9 +1,11 @@
 {
   "asn": 139693,
-  "handle": "RESERVED",
-  "description": "APNIC ASN block",
+  "handle": "IDNIC-TIMEPLUS-ID",
+  "description": "PT Timeplus Network Media",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "163.61.187.0/24"
+    ],
     "ipv6": []
   }
 }

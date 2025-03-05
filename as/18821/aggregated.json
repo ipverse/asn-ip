@@ -3,7 +3,9 @@
   "handle": "IOSOCKET-CLOUD",
   "description": "Iosocket LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "209.51.167.0/24"
+    ],
     "ipv6": []
   }
 }

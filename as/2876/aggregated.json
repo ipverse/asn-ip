@@ -4,7 +4,8 @@
   "description": "Gheorghiu Enterprises OU",
   "subnets": {
     "ipv4": [
-      "91.195.195.0/24"
+      "91.195.195.0/24",
+      "195.245.83.0/24"
     ],
     "ipv6": []
   }

@@ -1,0 +1,11 @@
+{
+  "asn": 63804,
+  "handle": "DOVA-YFM-NET",
+  "description": "DOVA corporation",
+  "subnets": {
+    "ipv4": [
+      "101.78.4.0/23"
+    ],
+    "ipv6": []
+  }
+}

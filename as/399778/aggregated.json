@@ -3,7 +3,10 @@
   "handle": "FRAMEWERX-EDMONTON",
   "description": "Framewerx Inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "66.85.91.0/24",
+      "207.189.143.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -1,9 +1,12 @@
 {
   "asn": 11967,
-  "handle": "W-T-OFFSHORE-INC",
-  "description": "W\u0026T Offshore, Inc.",
+  "handle": "HOP179",
+  "description": "Hop179 LLC",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2602:f72e:b::/48",
+      "2602:f72e:e::/48"
+    ]
   }
 }

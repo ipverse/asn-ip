@@ -4,6 +4,7 @@
   "description": "Netiface LLC",
   "subnets": {
     "ipv4": [
+      "154.81.156.0/24",
       "185.224.0.0/24"
     ],
     "ipv6": []
