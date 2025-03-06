@@ -4,6 +4,7 @@
   "description": "Snakecraft Hosting",
   "subnets": {
     "ipv4": [
+      "155.2.214.0/24",
       "185.165.44.0/24"
     ],
     "ipv6": [

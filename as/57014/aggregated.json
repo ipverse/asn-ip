@@ -1,0 +1,14 @@
+{
+  "asn": 57014,
+  "handle": "METROSWITCH",
+  "description": "Safe Hosts Internet LLP",
+  "subnets": {
+    "ipv4": [
+      "31.57.64.0/24",
+      "77.111.99.0/24",
+      "89.213.105.0/24",
+      "91.108.254.0/24"
+    ],
+    "ipv6": []
+  }
+}

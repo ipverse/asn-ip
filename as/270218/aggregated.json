@@ -4,6 +4,8 @@
   "description": "SERGIO HERNANDEZ CISNEROS",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2806:401::/32"
+    ]
   }
 }

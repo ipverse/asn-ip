@@ -1,9 +1,11 @@
 {
   "asn": 213194,
-  "handle": "RESERVED",
-  "description": "RIPE NCC ASN block",
+  "handle": "NECHAEVDS",
+  "description": "Nechaev Dmitry Sergeevich",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.37.69.0/24"
+    ],
     "ipv6": []
   }
 }

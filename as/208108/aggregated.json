@@ -3,10 +3,7 @@
   "handle": "GREECE-TELECOM",
   "description": "GREECE TELECOM I.K.E.",
   "subnets": {
-    "ipv4": [
-      "45.159.233.0/24",
-      "45.159.234.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

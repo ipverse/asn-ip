@@ -3,10 +3,7 @@
   "handle": "HIITL-HK",
   "description": "HONGKONG IHUASHU INTERNET TECHNOLOGY LIMITED",
   "subnets": {
-    "ipv4": [
-      "45.197.32.0/19",
-      "154.197.66.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

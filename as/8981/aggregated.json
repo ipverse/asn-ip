@@ -3,11 +3,7 @@
   "handle": "VSU",
   "description": "Federal State Budgetary Educational Institution of Higher Education Voronezh State University",
   "subnets": {
-    "ipv4": [
-      "62.76.168.0/21"
-    ],
-    "ipv6": [
-      "2001:67c:418::/48"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

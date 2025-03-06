@@ -1,0 +1,11 @@
+{
+  "asn": 213742,
+  "handle": "GATEWAYGLBL",
+  "description": "Gateway Global Telecom SLU",
+  "subnets": {
+    "ipv4": [
+      "45.87.40.0/24"
+    ],
+    "ipv6": []
+  }
+}

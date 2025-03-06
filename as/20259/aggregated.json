@@ -4,6 +4,7 @@
   "description": "Copper Valley Long Distance, LLC",
   "subnets": {
     "ipv4": [
+      "169.224.232.0/21",
       "209.71.48.0/20"
     ],
     "ipv6": [

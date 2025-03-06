@@ -4,6 +4,8 @@
   "description": "Thrive Broadband, LLC",
   "subnets": {
     "ipv4": [
+      "45.41.253.0/24",
+      "45.41.254.0/23",
       "172.99.144.0/22"
     ],
     "ipv6": []

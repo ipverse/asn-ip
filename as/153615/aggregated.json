@@ -4,7 +4,8 @@
   "description": "PT Lentera Abadi Solusinet",
   "subnets": {
     "ipv4": [
-      "38.225.106.0/24"
+      "38.225.106.0/24",
+      "163.61.134.0/24"
     ],
     "ipv6": []
   }

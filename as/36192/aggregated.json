@@ -3,7 +3,9 @@
   "handle": "HOSTCIRCLE-01",
   "description": "HOSTCIRCLE INC.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "206.83.152.0/24"
+    ],
     "ipv6": []
   }
 }

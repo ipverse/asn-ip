@@ -3,10 +3,7 @@
   "handle": "COREDELUXE",
   "description": "COREDELUXE LLC",
   "subnets": {
-    "ipv4": [
-      "45.8.176.0/24",
-      "98.142.244.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

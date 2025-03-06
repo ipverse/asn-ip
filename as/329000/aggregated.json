@@ -3,7 +3,9 @@
   "handle": "EBUL1",
   "description": "EQUITY BANK UGANDA LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "102.217.209.0/24"
+    ],
     "ipv6": []
   }
 }
