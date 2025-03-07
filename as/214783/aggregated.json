@@ -1,9 +1,11 @@
 {
   "asn": 214783,
-  "handle": "RESERVED",
-  "description": "RIPE NCC ASN block",
+  "handle": "DEDICATEDNODES",
+  "description": "Danny Nieuwenhuis trading as DedicatedNodes",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "146.19.172.0/24"
+    ],
     "ipv6": []
   }
 }

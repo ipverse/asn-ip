@@ -1,9 +1,11 @@
 {
   "asn": 212792,
-  "handle": "SERVERSIA",
-  "description": "Bradley Hession",
+  "handle": "CW",
+  "description": "Blinkov Egor Igorevich",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "176.98.190.0/24"
+    ],
     "ipv6": []
   }
 }

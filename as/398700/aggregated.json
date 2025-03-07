@@ -3,13 +3,7 @@
   "handle": "CACTUS-INTERNATIONAL-INC",
   "description": "Cactus International, Inc.",
   "subnets": {
-    "ipv4": [
-      "216.98.224.0/23",
-      "216.98.236.0/22",
-      "216.98.240.0/23"
-    ],
-    "ipv6": [
-      "2605:cc80::/32"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

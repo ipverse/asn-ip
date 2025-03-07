@@ -3,9 +3,7 @@
   "handle": "AAFCU-PUBLIC-01",
   "description": "AIR ACADEMY FEDERAL CREDIT UNION",
   "subnets": {
-    "ipv4": [
-      "147.185.45.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

@@ -1,0 +1,11 @@
+{
+  "asn": 16533,
+  "handle": "SAFETY-INSURANCE",
+  "description": "Safety Insurance Company",
+  "subnets": {
+    "ipv4": [
+      "216.114.64.0/24"
+    ],
+    "ipv6": []
+  }
+}

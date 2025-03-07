@@ -3,7 +3,10 @@
   "handle": "ASSVYAZSERVIS",
   "description": "JSC Elektrosvyaz",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "176.115.120.0/24",
+      "176.115.123.0/24"
+    ],
     "ipv6": []
   }
 }

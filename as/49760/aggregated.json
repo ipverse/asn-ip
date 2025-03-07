@@ -4,6 +4,7 @@
   "description": "Hayat for Internet \u0026 communication LLC",
   "subnets": {
     "ipv4": [
+      "176.241.94.0/24",
       "185.54.158.0/24"
     ],
     "ipv6": []

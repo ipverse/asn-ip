@@ -3,7 +3,9 @@
   "handle": "GOTMYHOST-AP",
   "description": "GOTMYHOST",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "160.187.131.0/24"
+    ],
     "ipv6": []
   }
 }

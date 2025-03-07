@@ -1,9 +1,11 @@
 {
   "asn": 212168,
-  "handle": "RESERVED",
-  "description": "RIPE NCC ASN block",
+  "handle": "TSME",
+  "description": "36media GmbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "93.88.204.0/24"
+    ],
     "ipv6": []
   }
 }

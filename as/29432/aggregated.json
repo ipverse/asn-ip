@@ -4,6 +4,7 @@
   "description": "TREX Regional Exchanges Oy",
   "subnets": {
     "ipv4": [
+      "192.98.101.0/24",
       "195.140.194.0/23"
     ],
     "ipv6": [

@@ -4,6 +4,8 @@
   "description": "HONG KONG NST LABS TECH CO., LIMITED",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a11:7a40::/29"
+    ]
   }
 }
