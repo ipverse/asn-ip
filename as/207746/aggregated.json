@@ -1,9 +1,13 @@
 {
   "asn": 207746,
-  "handle": "A1",
+  "handle": "A1SI",
   "description": "A1 Slovenija telekomunikacijske storitve,d.d.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "193.9.52.0/22"
+    ],
+    "ipv6": [
+      "2a06:ab40::/29"
+    ]
   }
 }

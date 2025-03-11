@@ -3,7 +3,9 @@
   "handle": "STS-NET-UA",
   "description": "STSNET LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.147.13.0/24"
+    ],
     "ipv6": [
       "2a02:128:4080::/44"
     ]

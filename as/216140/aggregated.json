@@ -4,6 +4,7 @@
   "description": "Join Stock Company Serenity Platforms",
   "subnets": {
     "ipv4": [
+      "5.42.215.0/24",
       "81.200.124.0/23"
     ],
     "ipv6": [

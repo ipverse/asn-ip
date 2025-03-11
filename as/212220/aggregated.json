@@ -1,9 +1,11 @@
 {
   "asn": 212220,
-  "handle": "RESERVED",
-  "description": "RIPE NCC ASN block",
+  "handle": "KEPLER",
+  "description": "Kepler Technologies AB",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.176.172.0/23"
+    ],
     "ipv6": []
   }
 }

@@ -1,9 +1,11 @@
 {
   "asn": 136739,
-  "handle": "BASHISTHAKEBALNETPVTLTD-AP",
-  "description": "Bashistha Kebal Net Pvt. Ltd.",
+  "handle": "ASIACOLOHKLIMITED-HK",
+  "description": "Asia Colo (HK) Limited",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2407:47c0::/36"
+    ]
   }
 }

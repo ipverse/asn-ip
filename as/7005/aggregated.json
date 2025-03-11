@@ -4,7 +4,7 @@
   "description": "InterServer SA",
   "subnets": {
     "ipv4": [
-      "200.0.212.0/23"
+      "200.0.212.0/24"
     ],
     "ipv6": []
   }

@@ -1,0 +1,11 @@
+{
+  "asn": 9496,
+  "handle": "HAFARI",
+  "description": "QLD VoIP Services",
+  "subnets": {
+    "ipv4": [
+      "160.187.125.0/24"
+    ],
+    "ipv6": []
+  }
+}

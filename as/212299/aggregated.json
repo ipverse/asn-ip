@@ -1,9 +1,11 @@
 {
   "asn": 212299,
-  "handle": "RESERVED",
-  "description": "RIPE NCC ASN block",
+  "handle": "GALAXYSOFT",
+  "description": "Galaxy Software LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.225.154.0/23"
+    ],
     "ipv6": []
   }
 }

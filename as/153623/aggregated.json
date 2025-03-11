@@ -1,0 +1,11 @@
+{
+  "asn": 153623,
+  "handle": "BANGLADESH11-AP",
+  "description": "Bangladesh NAVY",
+  "subnets": {
+    "ipv4": [
+      "163.61.192.0/23"
+    ],
+    "ipv6": []
+  }
+}
