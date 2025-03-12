@@ -4,6 +4,7 @@
   "description": "Netfar Informatica Ltda",
   "subnets": {
     "ipv4": [
+      "38.225.197.0/24",
       "138.36.80.0/22"
     ],
     "ipv6": [

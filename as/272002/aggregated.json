@@ -1,0 +1,11 @@
+{
+  "asn": 272002,
+  "handle": "PLANET-CABLE",
+  "description": "PLANET CABLE S.A.C.",
+  "subnets": {
+    "ipv4": [
+      "38.210.61.0/24"
+    ],
+    "ipv6": []
+  }
+}

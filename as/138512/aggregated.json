@@ -1,9 +1,11 @@
 {
   "asn": 138512,
-  "handle": "RESERVED",
-  "description": "APNIC ASN block",
+  "handle": "CODEAXIS-AP",
+  "description": "CodeAxis",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "163.61.212.0/23"
+    ],
     "ipv6": []
   }
 }

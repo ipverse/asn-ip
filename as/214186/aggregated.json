@@ -3,7 +3,9 @@
   "handle": "INTLMN",
   "description": "Intellion Cloud LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.67.95.0/24"
+    ],
     "ipv6": []
   }
 }

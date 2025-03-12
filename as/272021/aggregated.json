@@ -4,6 +4,7 @@
   "description": "ITAIPU BINACIONAL",
   "subnets": {
     "ipv4": [
+      "8.242.39.0/24",
       "179.63.8.0/22"
     ],
     "ipv6": [

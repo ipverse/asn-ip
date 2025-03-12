@@ -3,7 +3,9 @@
   "handle": "INTERNET-D+COM",
   "description": "INTERNET D+.COM LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.230.87.0/24"
+    ],
     "ipv6": []
   }
 }

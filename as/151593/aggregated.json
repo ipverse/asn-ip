@@ -4,7 +4,7 @@
   "description": "PT Jaringan Mitra Data",
   "subnets": {
     "ipv4": [
-      "103.7.104.0/24"
+      "103.7.104.0/23"
     ],
     "ipv6": []
   }

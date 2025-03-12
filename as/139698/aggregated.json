@@ -1,9 +1,11 @@
 {
   "asn": 139698,
-  "handle": "MYANMARMICROPLUS-AP",
-  "description": "MYANMAR MICRO PLUS COMPANY LIMITED",
+  "handle": "INTI-AP",
+  "description": "Ikonek Network Telecom Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "161.248.58.0/23"
+    ],
     "ipv6": []
   }
 }
