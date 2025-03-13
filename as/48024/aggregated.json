@@ -1,10 +1,9 @@
 {
   "asn": 48024,
-  "handle": "NEROCLOUD",
-  "description": "NEROCLOUD LTD",
+  "handle": "RESERVED",
+  "description": "RIPE NCC ASN block",
   "subnets": {
     "ipv4": [
-      "46.3.0.0/22",
       "103.136.124.0/24",
       "103.141.182.0/23"
     ],

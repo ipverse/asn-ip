@@ -3,7 +3,9 @@
   "handle": "SSNET-TELECOM",
   "description": "SSNET TELECOM LTDA ME",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.226.17.0/24"
+    ],
     "ipv6": [
       "2804:80d0::/32"
     ]

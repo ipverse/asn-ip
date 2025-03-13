@@ -4,7 +4,7 @@
   "description": "BANCO BILBAO VIZCAYA ARGENTARIA COLOMBIA S.A.",
   "subnets": {
     "ipv4": [
-      "186.145.132.0/24",
+      "186.145.132.0/23",
       "213.236.5.0/24",
       "213.236.6.0/24"
     ],

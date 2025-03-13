@@ -1,0 +1,11 @@
+{
+  "asn": 401141,
+  "handle": "NY-DC",
+  "description": "EASTERN BANK",
+  "subnets": {
+    "ipv4": [
+      "104.241.255.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -3,7 +3,9 @@
   "handle": "BRALU-JURJANU-BIEDRIBA",
   "description": "Bralu Jurjanu biedriba",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "31.184.236.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -1,0 +1,11 @@
+{
+  "asn": 274769,
+  "handle": "SIMPLES-IP-COM",
+  "description": "SIMPLES IP COM. E SERV. DE TEC. DA INFORMACAO LTDA",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2804:9350::/32"
+    ]
+  }
+}

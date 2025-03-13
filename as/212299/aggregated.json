@@ -3,7 +3,9 @@
   "handle": "GALAXYSOFT",
   "description": "Galaxy Software LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.225.152.0/22"
+    ],
     "ipv6": []
   }
 }

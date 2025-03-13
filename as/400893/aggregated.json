@@ -3,7 +3,10 @@
   "handle": "FIBERCONNECT",
   "description": "Fiber Connect, LLC.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.82.8.0/21",
+      "172.82.8.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -4,6 +4,7 @@
   "description": "Tecnonet Servicos Provedor De Internet Ltda",
   "subnets": {
     "ipv4": [
+      "191.36.216.0/21",
       "201.216.92.0/22"
     ],
     "ipv6": [

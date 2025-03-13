@@ -1,0 +1,13 @@
+{
+  "asn": 153355,
+  "handle": "DBPL-AP",
+  "description": "DINKUM BROADBAND PTY LTD",
+  "subnets": {
+    "ipv4": [
+      "160.187.172.0/23"
+    ],
+    "ipv6": [
+      "2401:c9a0::/32"
+    ]
+  }
+}

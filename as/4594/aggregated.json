@@ -3,7 +3,13 @@
   "handle": "HKISL",
   "description": "Internet Solutions Limited",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "43.225.100.0/22",
+      "103.44.60.0/23",
+      "202.74.0.0/22"
+    ],
+    "ipv6": [
+      "2407:880::/32"
+    ]
   }
 }

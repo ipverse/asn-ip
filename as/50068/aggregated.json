@@ -1,0 +1,13 @@
+{
+  "asn": 50068,
+  "handle": "CLUE24",
+  "description": "Clue24 GmbH",
+  "subnets": {
+    "ipv4": [
+      "193.160.16.0/22"
+    ],
+    "ipv6": [
+      "2a0c:9cc0::/29"
+    ]
+  }
+}

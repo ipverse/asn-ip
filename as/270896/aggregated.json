@@ -4,10 +4,8 @@
   "description": "CARIOCA NET SERVICOS DE TELECOMUNICACOES LTDA",
   "subnets": {
     "ipv4": [
-      "131.100.4.0/22"
+      "131.100.6.0/23"
     ],
-    "ipv6": [
-      "2804:731c::/32"
-    ]
+    "ipv6": []
   }
 }
