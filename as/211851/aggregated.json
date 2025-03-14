@@ -1,9 +1,11 @@
 {
   "asn": 211851,
-  "handle": "RESERVED",
-  "description": "RIPE NCC ASN block",
+  "handle": "WEB9-YAZILIM-BILISIM-HIZMETLERI",
+  "description": "SECKIN CAN CELENK trading as RODOS MEDYA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.157.16.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "HUCAME",
   "description": "Hucame Telecom Networks SLU",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.148.72.0/24"
+    ],
     "ipv6": []
   }
 }

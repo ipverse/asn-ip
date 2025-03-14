@@ -4,8 +4,7 @@
   "description": "Innexa Tecnologias e Telecomunicaes LTDA ME",
   "subnets": {
     "ipv4": [
-      "168.227.120.0/23",
-      "168.227.122.0/24"
+      "168.227.120.0/23"
     ],
     "ipv6": [
       "2804:2f38::/32"

@@ -3,9 +3,7 @@
   "handle": "IDNIC-DETNET-ID",
   "description": "PT Detroit Network Indonesia",
   "subnets": {
-    "ipv4": [
-      "160.250.227.0/24"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2001:df4:c6c0::/48",
       "2a14:7581:4650::/44",

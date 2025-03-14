@@ -3,7 +3,9 @@
   "handle": "MINERVA",
   "description": "PAOLO RECAGNO trading as Minerva Communications SNC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "151.248.15.0/24"
+    ],
     "ipv6": [
       "2a01:ee00::/29"
     ]

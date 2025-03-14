@@ -1,0 +1,13 @@
+{
+  "asn": 401219,
+  "handle": "DOUGLAS-COLLECTOR",
+  "description": "Cochise Connect LLC",
+  "subnets": {
+    "ipv4": [
+      "64.239.126.0/24"
+    ],
+    "ipv6": [
+      "2602:f881::/36"
+    ]
+  }
+}

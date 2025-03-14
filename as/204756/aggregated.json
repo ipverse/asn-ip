@@ -3,9 +3,7 @@
   "handle": "TIMACA",
   "description": "TIMACA SARL",
   "subnets": {
-    "ipv4": [
-      "185.240.36.0/22"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

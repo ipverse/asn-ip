@@ -4,7 +4,8 @@
   "description": "Monkey Tree Hosting Limited",
   "subnets": {
     "ipv4": [
-      "82.153.255.0/24"
+      "82.153.255.0/24",
+      "185.137.220.0/24"
     ],
     "ipv6": [
       "2a0a:a500::/32",

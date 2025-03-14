@@ -4,7 +4,7 @@
   "description": "Southern New Hampshire University",
   "subnets": {
     "ipv4": [
-      "198.246.186.0/23"
+      "198.246.186.0/24"
     ],
     "ipv6": []
   }

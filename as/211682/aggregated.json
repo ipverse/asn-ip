@@ -1,9 +1,11 @@
 {
   "asn": 211682,
-  "handle": "RESERVED",
-  "description": "RIPE NCC ASN block",
+  "handle": "NEXT-TELEKOMUNIKASYON",
+  "description": "NEXT TELEKOMUNIKASYON LIMITED SIRKETI",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "188.132.236.0/24"
+    ],
     "ipv6": []
   }
 }
