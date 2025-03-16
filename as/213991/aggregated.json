@@ -3,9 +3,7 @@
   "handle": "BCG2",
   "description": "Barclays Bank lreland PLC",
   "subnets": {
-    "ipv4": [
-      "93.93.7.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

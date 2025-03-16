@@ -3,7 +3,9 @@
   "handle": "RETAILSOLUTIONS-ASN-01",
   "description": "Retail Solutions, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "64.62.228.0/24"
+    ],
     "ipv6": []
   }
 }

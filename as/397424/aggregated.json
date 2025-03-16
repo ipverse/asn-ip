@@ -3,7 +3,9 @@
   "handle": "WAM-ASN-01",
   "description": "Weiss Asset Management LP",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "204.10.191.0/24"
+    ],
     "ipv6": []
   }
 }

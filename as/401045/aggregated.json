@@ -3,7 +3,9 @@
   "handle": "KNOXCOGOVT-01",
   "description": "Knox County Government",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "66.97.177.0/24"
+    ],
     "ipv6": []
   }
 }
