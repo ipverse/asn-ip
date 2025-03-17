@@ -1,9 +1,11 @@
 {
   "asn": 211693,
-  "handle": "SLASH-TRES-HAUT-DEBIT",
-  "description": "SLASH TRES HAUT DEBIT",
+  "handle": "NGUYENNET",
+  "description": "Viet Quang Nguyen",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "151.242.59.0/24"
+    ],
     "ipv6": []
   }
 }

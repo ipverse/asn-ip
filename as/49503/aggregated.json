@@ -4,7 +4,6 @@
   "description": "BE DC Connect UK Limited",
   "subnets": {
     "ipv4": [
-      "78.40.59.0/24",
       "193.169.90.0/23"
     ],
     "ipv6": [

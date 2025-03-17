@@ -3,7 +3,9 @@
   "handle": "MAZEN",
   "description": "MAZEN LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "87.121.54.0/24"
+    ],
     "ipv6": []
   }
 }

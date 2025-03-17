@@ -3,9 +3,7 @@
   "handle": "IDNIC-PNG-ID",
   "description": "PT Ping Network Global",
   "subnets": {
-    "ipv4": [
-      "160.250.42.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

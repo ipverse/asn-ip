@@ -1,0 +1,11 @@
+{
+  "asn": 153696,
+  "handle": "STUDENT6-AP",
+  "description": "Student Net",
+  "subnets": {
+    "ipv4": [
+      "163.223.108.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -3,7 +3,9 @@
   "handle": "EBS",
   "description": "IM Enterprise Business Solutions SRL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.181.231.0/24"
+    ],
     "ipv6": []
   }
 }

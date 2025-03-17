@@ -3,7 +3,9 @@
   "handle": "PINGUIM-TELECOM-TECNOLOGIA",
   "description": "PINGUIM TELECOM E TECNOLOGIA EIRELI",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.7.110.0/23"
+    ],
     "ipv6": [
       "2804:80bc::/32"
     ]

@@ -3,7 +3,11 @@
   "handle": "SECURE-DATA",
   "description": "Secure Data Systems SRL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "37.120.224.0/21",
+      "37.120.243.0/24",
+      "195.95.255.0/24"
+    ],
     "ipv6": []
   }
 }

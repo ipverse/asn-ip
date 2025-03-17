@@ -1,9 +1,11 @@
 {
   "asn": 212938,
-  "handle": "RESERVED",
-  "description": "RIPE NCC ASN block",
+  "handle": "PRINT-NET",
+  "description": "Print Net SRL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "81.181.206.0/24"
+    ],
     "ipv6": []
   }
 }
