@@ -3,10 +3,7 @@
   "handle": "DXTL-UK",
   "description": "Dingfeng Xinhui (Hongkong) Technology Limited",
   "subnets": {
-    "ipv4": [
-      "198.44.239.0/24",
-      "198.44.253.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

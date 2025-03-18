@@ -3,9 +3,7 @@
   "handle": "TRANSROUTE-2",
   "description": "Transroute Telecom LTD",
   "subnets": {
-    "ipv4": [
-      "146.185.213.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

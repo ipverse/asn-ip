@@ -3,7 +3,9 @@
   "handle": "7NETS",
   "description": "7Nets",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "23.132.236.0/24"
+    ],
     "ipv6": []
   }
 }

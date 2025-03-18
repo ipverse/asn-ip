@@ -1,0 +1,11 @@
+{
+  "asn": 131074,
+  "handle": "APNIC-JP-RD",
+  "description": "APNIC Research and Development",
+  "subnets": {
+    "ipv4": [
+      "103.0.36.0/24"
+    ],
+    "ipv6": []
+  }
+}

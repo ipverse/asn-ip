@@ -3,7 +3,9 @@
   "handle": "MLM",
   "description": "Mariborska livarna Maribor d.d.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "98.158.238.0/24"
+    ],
     "ipv6": []
   }
 }

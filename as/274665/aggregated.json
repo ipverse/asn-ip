@@ -3,7 +3,9 @@
   "handle": "CISLINK-TELECOM-COMERCIO",
   "description": "CISLINK TELECOM COMERCIO E SERVICOS LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.233.212.0/24"
+    ],
     "ipv6": [
       "2804:91cc::/32"
     ]

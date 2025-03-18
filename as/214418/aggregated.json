@@ -3,7 +3,11 @@
   "handle": "ITECH28",
   "description": "ITech28 S.a.r.l.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "89.40.27.0/24"
+    ],
+    "ipv6": [
+      "2001:3700::/29"
+    ]
   }
 }

@@ -4,6 +4,7 @@
   "description": "NOC Brasil Telecom",
   "subnets": {
     "ipv4": [
+      "45.228.203.0/24",
       "190.113.62.0/24"
     ],
     "ipv6": []

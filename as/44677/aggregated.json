@@ -3,7 +3,9 @@
   "handle": "MTS-NGCLOUD",
   "description": "MTS PJSC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "188.93.55.0/24"
+    ],
     "ipv6": []
   }
 }

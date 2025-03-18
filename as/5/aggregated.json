@@ -3,7 +3,9 @@
   "handle": "SYMBOLICS",
   "description": "WFA Group LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.239.44.0/22"
+    ],
     "ipv6": []
   }
 }
