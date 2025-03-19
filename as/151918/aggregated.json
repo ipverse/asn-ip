@@ -3,9 +3,7 @@
   "handle": "VPSPA-VN",
   "description": "VPS PA Company Limited",
   "subnets": {
-    "ipv4": [
-      "157.66.48.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

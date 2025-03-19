@@ -3,7 +3,9 @@
   "handle": "ARIN-CHA",
   "description": "ARIN Operations",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.187.216.0/21"
+    ],
     "ipv6": []
   }
 }

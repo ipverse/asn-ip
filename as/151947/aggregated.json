@@ -3,9 +3,7 @@
   "handle": "RESERVED",
   "description": "Vietnam Internet Network Information Center (VNNIC)",
   "subnets": {
-    "ipv4": [
-      "160.22.120.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

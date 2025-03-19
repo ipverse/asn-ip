@@ -4,6 +4,7 @@
   "description": "Edelskjold Holding ApS",
   "subnets": {
     "ipv4": [
+      "91.229.236.0/24",
       "194.39.242.0/24"
     ],
     "ipv6": []

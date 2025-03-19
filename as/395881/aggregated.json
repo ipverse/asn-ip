@@ -1,0 +1,13 @@
+{
+  "asn": 395881,
+  "handle": "SKYLINKHOSTINGLLC",
+  "description": "Skylink Hosting LLC",
+  "subnets": {
+    "ipv4": [
+      "23.136.44.0/24"
+    ],
+    "ipv6": [
+      "2602:f6b7::/40"
+    ]
+  }
+}

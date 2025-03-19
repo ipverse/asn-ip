@@ -1,0 +1,11 @@
+{
+  "asn": 53891,
+  "handle": "0POS",
+  "description": "Zero Position",
+  "subnets": {
+    "ipv4": [
+      "216.25.64.0/23"
+    ],
+    "ipv6": []
+  }
+}

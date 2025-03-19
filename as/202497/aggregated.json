@@ -3,7 +3,12 @@
   "handle": "GORSTROY",
   "description": "TRK Gorodskoe stroitelstvo LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.206.166.0/24",
+      "178.216.121.0/24",
+      "178.216.122.0/24",
+      "178.216.124.0/22"
+    ],
     "ipv6": []
   }
 }

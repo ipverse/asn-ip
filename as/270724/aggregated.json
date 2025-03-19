@@ -4,8 +4,7 @@
   "description": "CLIENT.CO SERVIOS E TELECOMUNICAES LTDA",
   "subnets": {
     "ipv4": [
-      "189.51.32.0/22",
-      "189.76.75.0/24"
+      "189.51.32.0/22"
     ],
     "ipv6": [
       "2804:7064::/32"

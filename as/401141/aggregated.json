@@ -4,6 +4,7 @@
   "description": "EASTERN BANK",
   "subnets": {
     "ipv4": [
+      "104.241.240.0/24",
       "104.241.255.0/24"
     ],
     "ipv6": []

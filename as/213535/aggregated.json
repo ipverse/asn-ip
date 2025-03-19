@@ -3,7 +3,9 @@
   "handle": "YOTTASRC",
   "description": "YottaSrc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.67.139.0/24"
+    ],
     "ipv6": [
       "2a12:bec4:16f0::/44"
     ]

@@ -4,6 +4,7 @@
   "description": "SM Internet Network",
   "subnets": {
     "ipv4": [
+      "163.61.48.0/24",
       "202.37.166.0/24"
     ],
     "ipv6": []

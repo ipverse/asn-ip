@@ -1,9 +1,13 @@
 {
   "asn": 213001,
-  "handle": "RESERVED",
-  "description": "RIPE NCC ASN block",
+  "handle": "LA5",
+  "description": "LA5 Digital LTD",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "82.27.90.0/23"
+    ],
+    "ipv6": [
+      "2605:3380:4c07::/48"
+    ]
   }
 }

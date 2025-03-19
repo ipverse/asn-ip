@@ -4,8 +4,7 @@
   "description": "AC INTERNET E SERVIOS LTDA ME",
   "subnets": {
     "ipv4": [
-      "45.231.36.0/22",
-      "138.219.184.0/22"
+      "45.231.36.0/22"
     ],
     "ipv6": [
       "2804:4a20::/32"

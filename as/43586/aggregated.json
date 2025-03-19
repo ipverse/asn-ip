@@ -3,7 +3,9 @@
   "handle": "INTERLINK",
   "description": "UAB Porenta",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "78.24.76.0/24"
+    ],
     "ipv6": [
       "2a00:1908:c000::/35"
     ]

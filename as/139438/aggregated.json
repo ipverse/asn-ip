@@ -3,7 +3,9 @@
   "handle": "PSAT-ID",
   "description": "PT Pembangunan Sarana Telematika",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.145.15.0/24"
+    ],
     "ipv6": []
   }
 }
