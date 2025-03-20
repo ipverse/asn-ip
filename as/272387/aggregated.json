@@ -3,7 +3,9 @@
   "handle": "WAVES-LINKS-SERVICIOS",
   "description": "WAVES LINKS SERVICIOS DE COMUNICACIONES E INFORMATICA SAS DE CV",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.50.51.0/24"
+    ],
     "ipv6": [
       "2806:421::/32"
     ]

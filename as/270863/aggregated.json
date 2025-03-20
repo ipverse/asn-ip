@@ -3,11 +3,10 @@
   "handle": "DRM-SERVICOS-TELECOMUNICACOES",
   "description": "DRM SERVICOS DE TELECOMUNICACOES EIRELI -ME",
   "subnets": {
-    "ipv4": [
-      "186.250.32.0/22"
-    ],
+    "ipv4": [],
     "ipv6": [
-      "2804:7298::/32"
+      "2804:7298:fc00::/44",
+      "2804:7298:fe00::/44"
     ]
   }
 }

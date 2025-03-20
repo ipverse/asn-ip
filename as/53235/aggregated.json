@@ -3,7 +3,9 @@
   "handle": "COMPANHIA-GERACAO-TERMICA",
   "description": "Companhia de Geracao Termica de Energia Eletrica",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "177.10.112.0/22"
+    ],
     "ipv6": []
   }
 }

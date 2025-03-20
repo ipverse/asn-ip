@@ -3,9 +3,7 @@
   "handle": "NETFABRIC-01",
   "description": "NetFabric, LLC",
   "subnets": {
-    "ipv4": [
-      "198.200.242.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

@@ -3,9 +3,7 @@
   "handle": "LAGERMAX",
   "description": "Lagermax Lagerhaus und Speditions AG",
   "subnets": {
-    "ipv4": [
-      "45.93.252.0/22"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

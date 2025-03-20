@@ -4,7 +4,9 @@
   "description": "Datum Datacentres Limited",
   "subnets": {
     "ipv4": [
-      "5.11.88.0/21"
+      "5.11.88.0/23",
+      "5.11.92.0/23",
+      "5.11.95.0/24"
     ],
     "ipv6": []
   }

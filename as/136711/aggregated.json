@@ -3,7 +3,9 @@
   "handle": "INCAP-IN",
   "description": "I NET COMMUNICATIONS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.102.19.0/24"
+    ],
     "ipv6": []
   }
 }

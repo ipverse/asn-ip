@@ -3,8 +3,11 @@
   "handle": "CIVILIZED-RIPE",
   "description": "Civilized Hosting LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "23.164.57.0/24"
+    ],
     "ipv6": [
+      "2602:f974:fff::/48",
       "2602:fa1c:120::/48"
     ]
   }

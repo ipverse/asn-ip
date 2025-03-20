@@ -3,7 +3,9 @@
   "handle": "ADF",
   "description": "Agricultural Development Fund (gov)",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "82.197.52.0/24"
+    ],
     "ipv6": []
   }
 }

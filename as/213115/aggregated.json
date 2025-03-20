@@ -3,7 +3,9 @@
   "handle": "MMITECH",
   "description": "MMITECH d.o.o.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "67.221.248.0/23"
+    ],
     "ipv6": [
       "2001:67c:2474::/48"
     ]
