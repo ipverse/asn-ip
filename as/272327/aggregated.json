@@ -4,6 +4,8 @@
   "description": "SECRETARA DE MEDIO AMBIENTE Y RECURSOS NATURALES",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2801:c4:278::/48"
+    ]
   }
 }

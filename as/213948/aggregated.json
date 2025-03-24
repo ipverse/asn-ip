@@ -3,11 +3,7 @@
   "handle": "VILO",
   "description": "Vincent LOPEZ",
   "subnets": {
-    "ipv4": [
-      "31.59.71.0/24"
-    ],
-    "ipv6": [
-      "2a13:cc82:3::/48"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

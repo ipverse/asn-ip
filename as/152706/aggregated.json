@@ -3,7 +3,9 @@
   "handle": "TNC-AP",
   "description": "Neotel",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.36.150.0/23"
+    ],
     "ipv6": []
   }
 }
