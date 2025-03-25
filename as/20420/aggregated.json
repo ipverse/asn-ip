@@ -3,11 +3,7 @@
   "handle": "DV",
   "description": "Digital Ventures, LLC",
   "subnets": {
-    "ipv4": [
-      "198.17.4.0/24"
-    ],
-    "ipv6": [
-      "2602:812:5000::/47"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

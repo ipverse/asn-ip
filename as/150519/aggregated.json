@@ -3,7 +3,10 @@
   "handle": "IDNIC-HARMONIKAID-ID",
   "description": "PT Harmonika Multimedia Sawangan",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.141.170.0/24",
+      "156.240.100.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "COOPERATIVA-SERVICIOS-PUBLICOS",
   "description": "COOPERATIVA DE SERVICIOS PUBLICOS ALTOS DE CHIPION LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "201.182.0.0/22"
+    ],
     "ipv6": []
   }
 }

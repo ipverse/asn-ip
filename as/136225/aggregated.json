@@ -1,0 +1,11 @@
+{
+  "asn": 136225,
+  "handle": "SMARTTELECOM-AP",
+  "description": "Smart Telecom",
+  "subnets": {
+    "ipv4": [
+      "103.84.54.0/24"
+    ],
+    "ipv6": []
+  }
+}

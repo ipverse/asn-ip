@@ -3,9 +3,7 @@
   "handle": "IDODNS",
   "description": "THUNDER NETWORK LIMITED",
   "subnets": {
-    "ipv4": [
-      "112.143.0.0/19"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2a0e:68c0:7::/48"
     ]

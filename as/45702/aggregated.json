@@ -3,7 +3,9 @@
   "handle": "CITRA-ID",
   "description": "PT JEMBATAN CITRA NUSANTARA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "203.89.148.0/23"
+    ],
     "ipv6": []
   }
 }

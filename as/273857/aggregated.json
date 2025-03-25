@@ -3,10 +3,7 @@
   "handle": "RED-DORADA-CA",
   "description": "RED DORADA, C.A",
   "subnets": {
-    "ipv4": [
-      "38.196.213.0/24",
-      "38.196.215.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

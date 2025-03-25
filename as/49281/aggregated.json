@@ -1,0 +1,11 @@
+{
+  "asn": 49281,
+  "handle": "M100",
+  "description": "M100 LLC",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a00:a300::/32"
+    ]
+  }
+}

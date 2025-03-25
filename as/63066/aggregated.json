@@ -3,11 +3,7 @@
   "handle": "7HOOPNETWORK",
   "description": "7Hoop Network Telecom, LLC",
   "subnets": {
-    "ipv4": [
-      "176.126.161.0/24"
-    ],
-    "ipv6": [
-      "2602:fa4c:200::/48"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

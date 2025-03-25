@@ -1,9 +1,11 @@
 {
   "asn": 31688,
   "handle": "SPLIO",
-  "description": "SPLIO",
+  "description": "SPLIO SAS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "5.63.28.0/24"
+    ],
     "ipv6": []
   }
 }

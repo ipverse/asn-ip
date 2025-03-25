@@ -1,0 +1,11 @@
+{
+  "asn": 400906,
+  "handle": "TIMF343-EAST01",
+  "description": "Tim Farrell Holdings LLC",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2602:81a:1000::/44"
+    ]
+  }
+}

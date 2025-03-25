@@ -1,9 +1,11 @@
 {
   "asn": 138251,
-  "handle": "ZINIOSS-IN",
-  "description": "Zinios Information Technology Pvt Ltd",
+  "handle": "PLAY1-IN",
+  "description": "PLAYWEB TECHNOLOGIES PRIVATE LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "163.61.100.0/23"
+    ],
     "ipv6": []
   }
 }
