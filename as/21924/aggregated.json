@@ -4,7 +4,8 @@
   "description": "Kern High School District",
   "subnets": {
     "ipv4": [
-      "198.62.68.0/24"
+      "198.62.68.0/24",
+      "204.238.101.0/24"
     ],
     "ipv6": []
   }

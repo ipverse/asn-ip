@@ -3,7 +3,9 @@
   "handle": "ASC1VSISTEMI",
   "description": "D.S.C Digital System Computers SRL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.12.81.0/24"
+    ],
     "ipv6": []
   }
 }

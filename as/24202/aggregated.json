@@ -4,10 +4,8 @@
   "description": "PT. PASIFIKTEL INDOTAMA",
   "subnets": {
     "ipv4": [
-      "202.87.240.0/21"
+      "202.87.244.0/22"
     ],
-    "ipv6": [
-      "2406:2140::/32"
-    ]
+    "ipv6": []
   }
 }

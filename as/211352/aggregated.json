@@ -1,9 +1,11 @@
 {
   "asn": 211352,
-  "handle": "RESERVED",
-  "description": "RIPE NCC ASN block",
+  "handle": "OBSIDIAN-CORE",
+  "description": "Tom MARQUAILLE trading as OBSIDIAN CORE",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "217.147.12.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -4,8 +4,7 @@
   "description": "ONETIS TECNOLOGIA LTDA",
   "subnets": {
     "ipv4": [
-      "45.232.48.0/22",
-      "209.14.139.0/24"
+      "45.232.48.0/22"
     ],
     "ipv6": [
       "2804:4aac:1000::/38",

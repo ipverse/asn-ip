@@ -1,0 +1,11 @@
+{
+  "asn": 25957,
+  "handle": "KSC-01",
+  "description": "Kisara Development LLC",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2602:f6ae::/48"
+    ]
+  }
+}

@@ -4,6 +4,7 @@
   "description": "Jobson Luis Melo de Negreiros ME",
   "subnets": {
     "ipv4": [
+      "45.185.167.0/24",
       "131.221.96.0/22"
     ],
     "ipv6": [
