@@ -3,7 +3,9 @@
   "handle": "EASYVM-LLC",
   "description": "EasyVM, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "157.254.222.0/24"
+    ],
     "ipv6": []
   }
 }

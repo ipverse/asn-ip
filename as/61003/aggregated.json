@@ -3,9 +3,7 @@
   "handle": "GLOBALTELEHOST",
   "description": "GlobalTeleHost Corp.",
   "subnets": {
-    "ipv4": [
-      "80.77.166.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

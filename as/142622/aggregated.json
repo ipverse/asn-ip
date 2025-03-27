@@ -1,0 +1,11 @@
+{
+  "asn": 142622,
+  "handle": "DIL-AP",
+  "description": "Dream Information Laboratory",
+  "subnets": {
+    "ipv4": [
+      "103.13.18.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,9 +1,11 @@
 {
   "asn": 212032,
-  "handle": "HAMMAR",
-  "description": "Per-Ola Kjell Hammar",
+  "handle": "RESERVED",
+  "description": "RIPE NCC ASN block",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "5.59.105.0/24"
+    ],
     "ipv6": []
   }
 }

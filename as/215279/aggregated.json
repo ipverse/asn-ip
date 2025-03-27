@@ -3,7 +3,9 @@
   "handle": "BAZIS",
   "description": "OOO Bazis",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "78.40.118.0/24"
+    ],
     "ipv6": []
   }
 }

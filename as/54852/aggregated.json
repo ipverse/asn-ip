@@ -1,7 +1,7 @@
 {
   "asn": 54852,
   "handle": "F4-NETWORKS",
-  "description": "F4 Networks, LLC",
+  "description": "F4 Networks",
   "subnets": {
     "ipv4": [
       "68.168.23.0/24",
@@ -9,9 +9,11 @@
     ],
     "ipv6": [
       "2a01:e281:f4::/48",
+      "2a09:b700::/29",
+      "2a0f:dec0::/29",
       "2a11:4e80::/29",
       "2a12:f5c0::/29",
-      "2a13:8f00::/29",
+      "2a13:1940::/29",
       "2a13:c500::/29"
     ]
   }

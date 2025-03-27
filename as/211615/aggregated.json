@@ -1,9 +1,11 @@
 {
   "asn": 211615,
-  "handle": "GIANLUCA-DICIOCIA-TRADING-P9-SOLUTIONS",
-  "description": "Gianluca Diciocia trading as P9 SOLUTIONS",
+  "handle": "NETARIS",
+  "description": "Netaris SAS",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a12:5840:2410::/48"
+    ]
   }
 }

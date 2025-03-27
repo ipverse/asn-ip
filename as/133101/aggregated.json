@@ -3,9 +3,7 @@
   "handle": "POWERWIRELESSLTD-AP",
   "description": "Power Wireless Ltd",
   "subnets": {
-    "ipv4": [
-      "103.247.56.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

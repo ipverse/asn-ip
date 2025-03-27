@@ -4,9 +4,6 @@
   "description": "Fang Wending",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2a05:b900::/29",
-      "2a12:4ac0::/29"
-    ]
+    "ipv6": []
   }
 }

@@ -4,7 +4,8 @@
   "description": "XIMBO Internet Limited",
   "subnets": {
     "ipv4": [
-      "43.228.124.0/22"
+      "43.228.124.0/22",
+      "45.115.38.0/24"
     ],
     "ipv6": []
   }

@@ -3,7 +3,9 @@
   "handle": "CNX-PROJETOS-TECNOLOGIA",
   "description": "CNX Projetos e Tecnologia LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "204.157.79.0/24"
+    ],
     "ipv6": [
       "2804:8fb4::/32"
     ]

@@ -1,9 +1,13 @@
 {
   "asn": 211248,
-  "handle": "MARCEL-KOEPPEL",
-  "description": "Marcel Koeppel",
+  "handle": "CZ-ARTEMIS4",
+  "description": "Artemis NET s.r.o.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "193.35.44.0/24"
+    ],
+    "ipv6": [
+      "2a04:2a40::/29"
+    ]
   }
 }

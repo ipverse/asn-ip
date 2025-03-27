@@ -3,7 +3,9 @@
   "handle": "BANCO-SOLIDARIO",
   "description": "BANCO SOLIDARIO S.A.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "200.10.157.0/24"
+    ],
     "ipv6": []
   }
 }

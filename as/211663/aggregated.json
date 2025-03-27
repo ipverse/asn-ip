@@ -1,9 +1,11 @@
 {
   "asn": 211663,
-  "handle": "RESERVED",
-  "description": "RIPE NCC ASN block",
+  "handle": "GALEON",
+  "description": "GALEON LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "176.100.42.0/24"
+    ],
     "ipv6": []
   }
 }
