@@ -4,7 +4,7 @@
   "description": "BI Incorporated",
   "subnets": {
     "ipv4": [
-      "147.160.150.0/23"
+      "147.160.150.0/24"
     ],
     "ipv6": []
   }

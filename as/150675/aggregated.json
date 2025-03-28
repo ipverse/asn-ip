@@ -3,11 +3,7 @@
   "handle": "RUKCOMCOLTD-AP",
   "description": "RUK-COM COMPANY LIMITED",
   "subnets": {
-    "ipv4": [
-      "103.240.196.0/24",
-      "103.243.116.0/24",
-      "175.29.18.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

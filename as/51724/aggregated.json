@@ -3,7 +3,9 @@
   "handle": "FLYNET",
   "description": "Flynet Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.221.36.0/23"
+    ],
     "ipv6": []
   }
 }

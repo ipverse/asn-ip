@@ -1,0 +1,11 @@
+{
+  "asn": 274780,
+  "handle": "WORKNET-TELECOM",
+  "description": "Worknet Telecom Ltda",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2804:937c::/32"
+    ]
+  }
+}

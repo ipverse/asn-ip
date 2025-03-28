@@ -1,9 +1,13 @@
 {
   "asn": 29803,
-  "handle": "ESCO-TECH",
-  "description": "ESCO Technologies, LLC",
+  "handle": "FANATIC-NODE-LLC",
+  "description": "FanaticNode LLC",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "23.136.100.0/24"
+    ],
+    "ipv6": [
+      "2602:f6ab::/40"
+    ]
   }
 }

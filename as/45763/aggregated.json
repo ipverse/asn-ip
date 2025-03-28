@@ -1,15 +1,13 @@
 {
   "asn": 45763,
-  "handle": "FUZENETPTYLTD-AP",
-  "description": "Fuzenet Pty Ltd",
+  "handle": "OPTICOMMCOPTYLTD-AP",
+  "description": "Opticomm Co Pty Ltd",
   "subnets": {
     "ipv4": [
       "27.109.108.0/22",
       "45.115.71.0/24",
       "58.84.128.0/19",
-      "58.84.160.0/22",
-      "58.84.164.0/24",
-      "58.84.167.0/24",
+      "58.84.160.0/21",
       "58.84.168.0/22",
       "58.84.173.0/24",
       "58.84.174.0/23",

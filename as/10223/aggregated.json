@@ -3,11 +3,7 @@
   "handle": "UECOMM-AU",
   "description": "UeComm Pty Ltd",
   "subnets": {
-    "ipv4": [
-      "115.186.192.0/18",
-      "203.94.128.0/18",
-      "218.185.0.0/17"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

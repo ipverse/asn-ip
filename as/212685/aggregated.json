@@ -1,9 +1,11 @@
 {
   "asn": 212685,
-  "handle": "RESERVED",
-  "description": "RIPE NCC ASN block",
+  "handle": "SANSTECH",
+  "description": "SANS DIJITAL VE INTERAKTIF HIZMETLER TEKNOLOJI YATIRIM ANONIM SIRKETI",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.164.36.0/23"
+    ],
     "ipv6": []
   }
 }

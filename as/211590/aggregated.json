@@ -1,9 +1,11 @@
 {
   "asn": 211590,
-  "handle": "RESERVED",
-  "description": "RIPE NCC ASN block",
+  "handle": "BUCKLOG",
+  "description": "Bucklog SARL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "154.83.103.0/24"
+    ],
     "ipv6": []
   }
 }

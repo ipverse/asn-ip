@@ -1,9 +1,11 @@
 {
   "asn": 211695,
-  "handle": "RESERVED",
-  "description": "RIPE NCC ASN block",
+  "handle": "CUTIELAND",
+  "description": "Echedelle Lopez Romero",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a14:7581:feb::/48"
+    ]
   }
 }

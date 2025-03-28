@@ -1,9 +1,11 @@
 {
   "asn": 395644,
-  "handle": "IL-240",
-  "description": "Alula, LLC",
+  "handle": "RGI",
+  "description": "The Root Group, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.88.250.0/24"
+    ],
     "ipv6": []
   }
 }
