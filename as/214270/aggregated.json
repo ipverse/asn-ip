@@ -3,7 +3,9 @@
   "handle": "KASHEF",
   "description": "Amn Electronic Kashef Management Co. PJSC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "89.33.128.0/24"
+    ],
     "ipv6": []
   }
 }

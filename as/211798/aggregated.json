@@ -1,0 +1,12 @@
+{
+  "asn": 211798,
+  "handle": "QEMUGENCLOUD",
+  "description": "Core Nextgen SL",
+  "subnets": {
+    "ipv4": [
+      "185.232.41.0/24",
+      "193.46.216.0/24"
+    ],
+    "ipv6": []
+  }
+}

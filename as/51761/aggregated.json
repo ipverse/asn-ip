@@ -3,7 +3,11 @@
   "handle": "SAHFR1",
   "description": "SoftAtHome SA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "185.199.33.0/24"
+    ],
+    "ipv6": [
+      "2a0a:94c0::/48"
+    ]
   }
 }

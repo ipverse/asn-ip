@@ -1,9 +1,11 @@
 {
   "asn": 39690,
-  "handle": "DIGITALOCEAN-NOC",
+  "handle": "HOSTING",
   "description": "SC ITNS.NET SRL",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a13:be40::/32"
+    ]
   }
 }

@@ -4,7 +4,8 @@
   "description": "Maritz Holdings Inc.",
   "subnets": {
     "ipv4": [
-      "156.45.250.0/24"
+      "156.45.250.0/24",
+      "156.45.255.0/24"
     ],
     "ipv6": []
   }

@@ -3,7 +3,9 @@
   "handle": "RNET-SERVIOS-INTERNET",
   "description": "RNET SERVIOS DE INTERNET",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "177.11.74.0/23"
+    ],
     "ipv6": [
       "2804:9308::/32"
     ]

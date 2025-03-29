@@ -3,7 +3,9 @@
   "handle": "PGTL-AP",
   "description": "Pak-Qatar General Takaful Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.90.7.0/24"
+    ],
     "ipv6": []
   }
 }

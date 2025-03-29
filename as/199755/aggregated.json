@@ -4,7 +4,8 @@
   "description": "ALLMEDIA SAFE SERVICE LLC",
   "subnets": {
     "ipv4": [
-      "91.240.128.0/24"
+      "91.240.128.0/24",
+      "193.24.97.0/24"
     ],
     "ipv6": []
   }

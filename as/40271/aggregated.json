@@ -1,0 +1,13 @@
+{
+  "asn": 40271,
+  "handle": "SFMIX-TRANSIT",
+  "description": "San Francisco Metropolitan Internet Exchange (SFMIX)",
+  "subnets": {
+    "ipv4": [
+      "149.112.115.0/24"
+    ],
+    "ipv6": [
+      "2620:11a:b002::/48"
+    ]
+  }
+}

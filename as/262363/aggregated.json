@@ -4,9 +4,7 @@
   "description": "Wharehouse Informatica e Multimidia Ltda",
   "subnets": {
     "ipv4": [
-      "177.126.240.0/21",
-      "177.126.248.0/23",
-      "177.126.252.0/22"
+      "177.126.240.0/20"
     ],
     "ipv6": [
       "2804:84c::/32"

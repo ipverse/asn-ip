@@ -3,9 +3,7 @@
   "handle": "CMCS",
   "description": "Comcast Cable Communications, LLC",
   "subnets": {
-    "ipv4": [
-      "50.231.29.0/24"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2001:559:ba::/47",
       "2001:559:12b::/48",

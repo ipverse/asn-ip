@@ -3,7 +3,9 @@
   "handle": "EXPRESSKREDYT",
   "description": "ALTERNATIVE CREDIT CENTRE EXPRESS CREDIT LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.113.39.0/24"
+    ],
     "ipv6": []
   }
 }

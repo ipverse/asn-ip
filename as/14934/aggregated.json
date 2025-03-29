@@ -1,9 +1,11 @@
 {
   "asn": 14934,
-  "handle": "UNAVC",
-  "description": "UNAVCO",
+  "handle": "AGS-LLC-AGO",
+  "description": "AGS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.141.227.0/24"
+    ],
     "ipv6": []
   }
 }

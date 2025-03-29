@@ -1,9 +1,11 @@
 {
   "asn": 211698,
-  "handle": "ALFA-NET",
-  "description": "Alfa Company for General Commerce, Commercial Agencies, Media, Publication, Printing, and Information Technology Limited Liability",
+  "handle": "MEVC",
+  "description": "PE Kolomiiets Mykola Volodymyrovych",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.5.254.0/24"
+    ],
     "ipv6": []
   }
 }

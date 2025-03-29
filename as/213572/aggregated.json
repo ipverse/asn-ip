@@ -1,0 +1,11 @@
+{
+  "asn": 213572,
+  "handle": "JSC-TSI-SERVICE",
+  "description": "TSI Service JSC",
+  "subnets": {
+    "ipv4": [
+      "178.17.192.0/20"
+    ],
+    "ipv6": []
+  }
+}

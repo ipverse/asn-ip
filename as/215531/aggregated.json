@@ -1,9 +1,11 @@
 {
   "asn": 215531,
-  "handle": "RESERVED",
-  "description": "RIPE NCC ASN block",
+  "handle": "KOMUTA",
+  "description": "Komuta Savunma Yuksek Teknoloji Limited Sirketi",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "31.58.245.0/24"
+    ],
     "ipv6": []
   }
 }

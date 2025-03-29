@@ -1,9 +1,11 @@
 {
   "asn": 395661,
-  "handle": "NP",
-  "description": "NetPrivateer LLC",
+  "handle": "USENET-SOLUTIONS",
+  "description": "Usenet Solutions LLC",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2607:bc40:100::/48"
+    ]
   }
 }

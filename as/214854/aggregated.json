@@ -4,6 +4,7 @@
   "description": "VULUT BILISIM TEKNOLOJILERI LIMITED SIRKETI",
   "subnets": {
     "ipv4": [
+      "31.40.199.0/24",
       "77.92.144.0/24"
     ],
     "ipv6": []

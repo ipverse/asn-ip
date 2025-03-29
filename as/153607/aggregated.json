@@ -3,7 +3,9 @@
   "handle": "BOYSASUKE-ID",
   "description": "BOY SASUKE",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "31.58.78.0/24"
+    ],
     "ipv6": []
   }
 }

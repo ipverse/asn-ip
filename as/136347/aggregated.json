@@ -1,9 +1,11 @@
 {
   "asn": 136347,
-  "handle": "RUKKUNET",
-  "description": "Rukku Networks Private Limited",
+  "handle": "GRACE1-IN",
+  "description": "Graceway Broadband Pvt Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "163.223.66.0/23"
+    ],
     "ipv6": []
   }
 }
