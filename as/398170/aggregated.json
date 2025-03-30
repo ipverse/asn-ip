@@ -1,9 +1,11 @@
 {
   "asn": 398170,
-  "handle": "EACS-BBC",
-  "description": "EMBRAER AIRCRAFT CUSTOMER SERVICES, INC.",
+  "handle": "WPAFN",
+  "description": "WPA Fiber Network LLC",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2604:2a0::/32"
+    ]
   }
 }

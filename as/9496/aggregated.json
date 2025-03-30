@@ -3,11 +3,7 @@
   "handle": "HAFARI",
   "description": "QLD VoIP Services",
   "subnets": {
-    "ipv4": [
-      "160.187.125.0/24"
-    ],
-    "ipv6": [
-      "2001:df4:5149::/48"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

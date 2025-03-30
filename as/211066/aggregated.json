@@ -1,9 +1,12 @@
 {
   "asn": 211066,
-  "handle": "RESERVED",
-  "description": "RIPE NCC ASN block",
+  "handle": "RYZEHOSTING",
+  "description": "Simon Mariacher",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "5.83.134.0/24",
+      "5.175.140.0/24"
+    ],
     "ipv6": []
   }
 }

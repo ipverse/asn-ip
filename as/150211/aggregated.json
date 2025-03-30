@@ -3,9 +3,7 @@
   "handle": "IDNIC-VNTNETWORKS-ID",
   "description": "PT Jaringan VNTNET Indonesia",
   "subnets": {
-    "ipv4": [
-      "103.196.119.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

@@ -3,9 +3,7 @@
   "handle": "NOW-FIBRA-PROVEDOR",
   "description": "NOW FIBRA PROVEDOR DE INTERNET LTDA",
   "subnets": {
-    "ipv4": [
-      "190.111.96.0/22"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2804:8f44::/32"
     ]

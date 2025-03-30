@@ -3,7 +3,12 @@
   "handle": "GLOBACOM",
   "description": "Globacom Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "197.211.57.0/24",
+      "197.211.59.0/24",
+      "197.211.60.0/23",
+      "197.211.63.0/24"
+    ],
     "ipv6": []
   }
 }
