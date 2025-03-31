@@ -4,7 +4,8 @@
   "description": "INOVANET TELECOMUNICACOES E MULTIMIDIA LTDA",
   "subnets": {
     "ipv4": [
-      "179.0.116.0/22"
+      "179.0.116.0/22",
+      "181.224.57.0/24"
     ],
     "ipv6": [
       "2804:79c0::/32"

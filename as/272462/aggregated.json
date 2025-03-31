@@ -3,7 +3,9 @@
   "handle": "FLYTECH-TELECOMUNICAES",
   "description": "FLYTECH TELECOMUNICAES",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "209.14.4.0/23"
+    ],
     "ipv6": []
   }
 }

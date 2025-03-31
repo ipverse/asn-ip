@@ -3,9 +3,7 @@
   "handle": "SUCOM",
   "description": "Sucom AS",
   "subnets": {
-    "ipv4": [
-      "188.95.68.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

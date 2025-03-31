@@ -3,11 +3,7 @@
   "handle": "CUBIT",
   "description": "Cubit Computer Ltd. Liability Co.",
   "subnets": {
-    "ipv4": [
-      "205.134.240.0/24"
-    ],
-    "ipv6": [
-      "2604:3e0::/48"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

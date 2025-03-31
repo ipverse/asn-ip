@@ -1,0 +1,11 @@
+{
+  "asn": 23437,
+  "handle": "INFINITY-01",
+  "description": "Infinity Broadband",
+  "subnets": {
+    "ipv4": [
+      "185.137.15.0/24"
+    ],
+    "ipv6": []
+  }
+}

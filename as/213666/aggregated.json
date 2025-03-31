@@ -1,0 +1,11 @@
+{
+  "asn": 213666,
+  "handle": "BRIDGE",
+  "description": "BRIDGE LLC",
+  "subnets": {
+    "ipv4": [
+      "194.190.194.0/24"
+    ],
+    "ipv6": []
+  }
+}

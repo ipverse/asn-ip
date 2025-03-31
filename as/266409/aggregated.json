@@ -4,6 +4,7 @@
   "description": "SECW TELECOM",
   "subnets": {
     "ipv4": [
+      "45.188.254.0/24",
       "170.81.68.0/22"
     ],
     "ipv6": [

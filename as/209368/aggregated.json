@@ -3,9 +3,7 @@
   "handle": "NOINET",
   "description": "Noinet Societa Cooperativa",
   "subnets": {
-    "ipv4": [
-      "185.133.93.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

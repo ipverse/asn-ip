@@ -1,9 +1,13 @@
 {
   "asn": 213021,
-  "handle": "SAMIPSOLUTIONS",
-  "description": "Skyler Mantysaari trading as Sky M Tmi",
+  "handle": "PRIME",
+  "description": "Prime LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "80.64.19.0/24",
+      "178.212.143.0/24",
+      "185.39.19.0/24"
+    ],
     "ipv6": []
   }
 }

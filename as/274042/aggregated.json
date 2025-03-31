@@ -3,7 +3,9 @@
   "handle": "INVERSIONES-SB",
   "description": "INVERSIONES SB S.A. (SALCOBRAND)",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.211.120.0/22"
+    ],
     "ipv6": [
       "2801:15:f800::/48"
     ]

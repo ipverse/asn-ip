@@ -3,11 +3,7 @@
   "handle": "CHAN-HSIANG-LI",
   "description": "HSIANG-LI CHAN",
   "subnets": {
-    "ipv4": [
-      "151.243.34.0/24"
-    ],
-    "ipv6": [
-      "2a13:2200:8::/47"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }
