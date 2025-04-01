@@ -3,7 +3,9 @@
   "handle": "TEFEXIA",
   "description": "Tefexia LC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "95.135.125.0/24"
+    ],
     "ipv6": [
       "2607:eb40::/32"
     ]

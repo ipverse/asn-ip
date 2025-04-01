@@ -3,7 +3,9 @@
   "handle": "SOUVERITUG",
   "description": "SouverIT UG",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "31.57.214.0/24"
+    ],
     "ipv6": [
       "2a0c:b641:290::/44"
     ]

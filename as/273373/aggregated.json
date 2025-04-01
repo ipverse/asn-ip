@@ -3,7 +3,9 @@
   "handle": "FIBRATEM-TECNOLOGIA",
   "description": "Fibratem Tecnologia Ltda",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.255.56.0/23"
+    ],
     "ipv6": [
       "2804:8dac::/32"
     ]

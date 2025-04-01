@@ -3,7 +3,9 @@
   "handle": "NEXTTECH-VN",
   "description": "Next Technology Investment and Development Company Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.109.34.0/23"
+    ],
     "ipv6": []
   }
 }

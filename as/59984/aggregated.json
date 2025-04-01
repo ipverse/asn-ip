@@ -3,7 +3,12 @@
   "handle": "KLFREE-NETWORKS",
   "description": "KLFREE NETWORKS, s.r.o.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "185.53.4.0/22",
+      "185.63.104.0/22"
+    ],
+    "ipv6": [
+      "2a03:ca0::/32"
+    ]
   }
 }

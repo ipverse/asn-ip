@@ -4,6 +4,7 @@
   "description": "SPLIO SAS",
   "subnets": {
     "ipv4": [
+      "5.63.24.0/22",
       "5.63.28.0/24"
     ],
     "ipv6": []

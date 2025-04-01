@@ -3,7 +3,9 @@
   "handle": "TVOE-TV",
   "description": "TRK TVOE-TV LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.24.190.0/23"
+    ],
     "ipv6": []
   }
 }

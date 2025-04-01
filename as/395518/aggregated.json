@@ -3,7 +3,11 @@
   "handle": "A2D-ECBI",
   "description": "A2D, Inc",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "199.89.254.0/24"
+    ],
+    "ipv6": [
+      "2607:a780:1::/48"
+    ]
   }
 }

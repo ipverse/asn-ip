@@ -1,0 +1,11 @@
+{
+  "asn": 22874,
+  "handle": "HIGH-DATA-CONNECTION",
+  "description": "HIGH DATA CONNECTION LLC",
+  "subnets": {
+    "ipv4": [
+      "38.254.20.0/24"
+    ],
+    "ipv6": []
+  }
+}

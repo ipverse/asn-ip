@@ -1,9 +1,11 @@
 {
   "asn": 19583,
-  "handle": "IMPSAT-FIBER-NETWORKS",
-  "description": "IMPSAT FIBER NETWORKS INC",
+  "handle": "CIRION-TECHNOLOGIES-ARGENTINA",
+  "description": "CIRION TECHNOLOGIES ARGENTINA S.A.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "189.125.134.0/24"
+    ],
     "ipv6": []
   }
 }

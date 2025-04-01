@@ -1,9 +1,11 @@
 {
   "asn": 211525,
-  "handle": "WDT",
-  "description": "Joint-stock company Wartsila Digital Technologies",
+  "handle": "INNOVEE",
+  "description": "innoVee GmbH",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2001:67c:f04::/48"
+    ]
   }
 }

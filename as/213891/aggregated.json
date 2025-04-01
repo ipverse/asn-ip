@@ -4,6 +4,8 @@
   "description": "Liu Zhen",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a14:67c1:b067::/48"
+    ]
   }
 }

@@ -4,8 +4,7 @@
   "description": "Informatica Alto Adige Spa",
   "subnets": {
     "ipv4": [
-      "62.101.0.0/20",
-      "62.101.31.0/24"
+      "62.101.0.0/20"
     ],
     "ipv6": []
   }

@@ -3,7 +3,9 @@
   "handle": "TITAN",
   "description": "TITAN DATA CENTER, S.L",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.140.228.0/22"
+    ],
     "ipv6": []
   }
 }

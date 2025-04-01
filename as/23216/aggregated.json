@@ -3,10 +3,7 @@
   "handle": "MEGADATOS",
   "description": "MEGADATOS S.A.",
   "subnets": {
-    "ipv4": [
-      "157.100.40.0/23",
-      "157.100.208.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

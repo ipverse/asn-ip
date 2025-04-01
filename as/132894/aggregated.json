@@ -3,9 +3,7 @@
   "handle": "MUD-AP",
   "description": "Sigma Internet Service",
   "subnets": {
-    "ipv4": [
-      "160.191.60.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

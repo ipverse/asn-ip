@@ -1,9 +1,11 @@
 {
   "asn": 213385,
-  "handle": "RESERVED",
-  "description": "RIPE NCC ASN block",
+  "handle": "LOOK-WEB-HOSTING-AND-WEB-DEVELOPMENT",
+  "description": "LOOK WEB HOSTING AND WEB DEVELOPMENT LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "217.60.253.0/24"
+    ],
     "ipv6": []
   }
 }

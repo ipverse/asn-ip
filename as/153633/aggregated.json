@@ -3,7 +3,9 @@
   "handle": "KVQNET-AP",
   "description": "KVQNET",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "44.32.188.0/24"
+    ],
     "ipv6": [
       "2406:840:e201::/48",
       "2406:840:fea9::/48"

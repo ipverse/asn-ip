@@ -3,10 +3,7 @@
   "handle": "SUFIANET-ID",
   "description": "PT Gisindo Inti Solusi",
   "subnets": {
-    "ipv4": [
-      "103.6.36.0/22",
-      "123.253.204.0/22"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }
