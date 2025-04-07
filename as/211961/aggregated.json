@@ -1,9 +1,11 @@
 {
   "asn": 211961,
-  "handle": "PANDASHIELD",
-  "description": "EMPANDA SHIELD LTD",
+  "handle": "AS209737",
+  "description": "HEDEF GLOBAL BILISIM TEKNOLOJILERI SANAYI TICARET LIMITED SIRKETI",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "156.233.34.0/24"
+    ],
     "ipv6": []
   }
 }

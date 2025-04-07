@@ -3,11 +3,7 @@
   "handle": "KERNSTOCK",
   "description": "Patrik Kernstock",
   "subnets": {
-    "ipv4": [
-      "5.1.74.0/24"
-    ],
-    "ipv6": [
-      "2001:67c:c58::/48"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

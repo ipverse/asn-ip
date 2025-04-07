@@ -1,0 +1,11 @@
+{
+  "asn": 212013,
+  "handle": "ASTELCO",
+  "description": "TOO Telco Construction",
+  "subnets": {
+    "ipv4": [
+      "5.59.105.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -4,6 +4,8 @@
   "description": "Flying Circus Internet Operations GmbH",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a06:3a80:200::/40"
+    ]
   }
 }

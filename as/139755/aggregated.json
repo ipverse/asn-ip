@@ -3,9 +3,7 @@
   "handle": "BISMILLAH-AP",
   "description": "BISMILLAH TELECOM",
   "subnets": {
-    "ipv4": [
-      "103.144.161.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

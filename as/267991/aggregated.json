@@ -4,8 +4,7 @@
   "description": "TURBO NETWORK SERV DE COMUN E MULTIMIDIA",
   "subnets": {
     "ipv4": [
-      "45.167.52.0/22",
-      "179.49.198.0/24"
+      "45.167.52.0/22"
     ],
     "ipv6": [
       "2804:5654::/32"

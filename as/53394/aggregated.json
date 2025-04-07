@@ -1,0 +1,11 @@
+{
+  "asn": 53394,
+  "handle": "UPSTATION-NJ",
+  "description": "UPSTATION",
+  "subnets": {
+    "ipv4": [
+      "163.5.212.0/24"
+    ],
+    "ipv6": []
+  }
+}
