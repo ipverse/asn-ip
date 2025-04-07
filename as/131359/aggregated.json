@@ -3,9 +3,7 @@
   "handle": "ACBS-VN",
   "description": "ACB Securities Co. Ltd",
   "subnets": {
-    "ipv4": [
-      "103.9.80.0/22"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

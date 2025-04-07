@@ -3,7 +3,9 @@
   "handle": "VOXIHOST",
   "description": "MATEUSZ WROBEL trading as VoxiHost",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "31.56.26.0/24"
+    ],
     "ipv6": []
   }
 }

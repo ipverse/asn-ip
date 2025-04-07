@@ -3,7 +3,9 @@
   "handle": "STADT-WITHUR",
   "description": "Stadt Winterthur",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.8.88.0/22"
+    ],
     "ipv6": []
   }
 }

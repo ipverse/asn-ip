@@ -4,8 +4,7 @@
   "description": "IPTransit Business LTD",
   "subnets": {
     "ipv4": [
-      "77.239.127.0/24",
-      "194.59.186.0/24"
+      "77.239.127.0/24"
     ],
     "ipv6": [
       "2a0d:d940:10::/48",

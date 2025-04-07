@@ -1,9 +1,11 @@
 {
   "asn": 216460,
-  "handle": "RESERVED",
-  "description": "RIPE NCC ASN block",
+  "handle": "POLYPLAST",
+  "description": "JSC Polyplast",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "212.24.53.0/24"
+    ],
     "ipv6": []
   }
 }
