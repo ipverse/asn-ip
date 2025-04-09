@@ -4,7 +4,6 @@
   "description": "Atomic Link Networks",
   "subnets": {
     "ipv4": [
-      "23.155.216.0/24",
       "131.153.249.0/24"
     ],
     "ipv6": [

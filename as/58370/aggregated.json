@@ -1,0 +1,12 @@
+{
+  "asn": 58370,
+  "handle": "JASTEL-NETWORK-IDC",
+  "description": "JasTel Network Company Limited",
+  "subnets": {
+    "ipv4": [
+      "38.226.105.0/24",
+      "38.226.124.0/24"
+    ],
+    "ipv6": []
+  }
+}

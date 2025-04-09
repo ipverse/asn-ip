@@ -1,9 +1,11 @@
 {
   "asn": 212298,
-  "handle": "ROTY",
-  "description": "Charles Roty",
+  "handle": "OXIWI",
+  "description": "SASU OXIWI",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.81.20.0/24"
+    ],
     "ipv6": []
   }
 }

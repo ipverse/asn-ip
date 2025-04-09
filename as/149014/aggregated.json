@@ -3,7 +3,9 @@
   "handle": "BOJINGCOLIMITED-AP",
   "description": "bo jing",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.20.220.0/23"
+    ],
     "ipv6": []
   }
 }

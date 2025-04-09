@@ -3,7 +3,9 @@
   "handle": "RRNET-TELECOMUNICACOES",
   "description": "RRNET TELECOMUNICACOES LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.175.73.0/24"
+    ],
     "ipv6": [
       "2804:8af8::/32"
     ]

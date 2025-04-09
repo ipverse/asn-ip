@@ -4,6 +4,7 @@
   "description": "NOVA FIBRA",
   "subnets": {
     "ipv4": [
+      "38.226.106.0/23",
       "45.5.36.0/22"
     ],
     "ipv6": [

@@ -1,0 +1,11 @@
+{
+  "asn": 153561,
+  "handle": "PITC1-AP",
+  "description": "PITC",
+  "subnets": {
+    "ipv4": [
+      "163.61.25.0/24"
+    ],
+    "ipv6": []
+  }
+}

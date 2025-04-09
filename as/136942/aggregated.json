@@ -1,9 +1,11 @@
 {
   "asn": 136942,
-  "handle": "ELITECOMPUTERDILI-AP",
-  "description": "Elite Computer, LDA",
+  "handle": "BROTHERSPICTURES-AP",
+  "description": "Brothers Pictures Company Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "161.248.11.0/24"
+    ],
     "ipv6": []
   }
 }

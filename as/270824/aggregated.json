@@ -4,7 +4,6 @@
   "description": "ENX Services",
   "subnets": {
     "ipv4": [
-      "166.0.203.0/24",
       "190.115.196.0/22"
     ],
     "ipv6": []

@@ -1,9 +1,11 @@
 {
   "asn": 210940,
-  "handle": "RESERVED",
-  "description": "RIPE NCC ASN block",
+  "handle": "SEASONCLOUD",
+  "description": "Lucca Bassoli",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a0f:85c1:bfb::/48"
+    ]
   }
 }

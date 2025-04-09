@@ -4,6 +4,7 @@
   "description": "INTIC (National Institute of ICT)",
   "subnets": {
     "ipv4": [
+      "41.76.149.0/24",
       "169.239.104.0/22"
     ],
     "ipv6": []

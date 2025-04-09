@@ -4,8 +4,6 @@
   "description": "CIBC Bank USA",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2620:7a:6000::/48"
-    ]
+    "ipv6": []
   }
 }

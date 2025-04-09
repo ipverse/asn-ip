@@ -3,7 +3,9 @@
   "handle": "WIREFAST",
   "description": "Wirefast Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.191.71.0/24"
+    ],
     "ipv6": []
   }
 }

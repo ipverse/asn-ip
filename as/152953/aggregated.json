@@ -1,0 +1,11 @@
+{
+  "asn": 152953,
+  "handle": "NORTHWIND-VN",
+  "description": "NORTH WIND SOFTWARE COMPANY LIMITED",
+  "subnets": {
+    "ipv4": [
+      "160.22.56.0/23"
+    ],
+    "ipv6": []
+  }
+}

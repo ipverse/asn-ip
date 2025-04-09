@@ -1,0 +1,11 @@
+{
+  "asn": 153668,
+  "handle": "FASTBEE24-AP",
+  "description": "Fast Bee 24",
+  "subnets": {
+    "ipv4": [
+      "163.223.38.0/23"
+    ],
+    "ipv6": []
+  }
+}

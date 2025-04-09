@@ -1,9 +1,11 @@
 {
   "asn": 134887,
-  "handle": "RESERVED",
-  "description": "IRINN AS-BLOCK",
+  "handle": "ARISTOTE-IN",
+  "description": "Aristo Telenet Private Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "163.61.252.0/23"
+    ],
     "ipv6": []
   }
 }

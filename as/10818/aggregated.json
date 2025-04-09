@@ -4,7 +4,6 @@
   "description": "Fullnet Communications",
   "subnets": {
     "ipv4": [
-      "206.61.140.0/23",
       "216.226.16.0/20"
     ],
     "ipv6": []
