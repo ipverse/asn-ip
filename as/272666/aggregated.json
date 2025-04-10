@@ -3,7 +3,9 @@
   "handle": "DCONEKTE-MULTIMIDIA",
   "description": "Dconekte Multimidia LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.177.191.0/24"
+    ],
     "ipv6": [
       "2804:86c8::/32"
     ]

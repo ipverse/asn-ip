@@ -3,7 +3,9 @@
   "handle": "B-S-TELECOMUNICACOES-EIRELI",
   "description": "B\u0026S TELECOMUNICACOES EIRELI",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.226.28.0/24"
+    ],
     "ipv6": [
       "2804:87b0::/32"
     ]

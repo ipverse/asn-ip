@@ -3,9 +3,7 @@
   "handle": "WSFS-2",
   "description": "WSFS Bank",
   "subnets": {
-    "ipv4": [
-      "204.77.171.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

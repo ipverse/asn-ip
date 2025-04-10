@@ -4,8 +4,7 @@
   "description": "iNET Communications Limited",
   "subnets": {
     "ipv4": [
-      "154.65.16.0/23",
-      "154.65.19.0/24"
+      "154.65.16.0/21"
     ],
     "ipv6": []
   }

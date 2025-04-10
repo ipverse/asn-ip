@@ -3,9 +3,7 @@
   "handle": "NSWPARLIAMENT-AP",
   "description": "NSW Parliament",
   "subnets": {
-    "ipv4": [
-      "203.31.230.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

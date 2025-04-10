@@ -3,7 +3,10 @@
   "handle": "FTCZ-NET",
   "description": "Frantisek Toman",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.164.239.0/24",
+      "195.200.23.0/24"
+    ],
     "ipv6": [
       "2a14:2040::/29"
     ]

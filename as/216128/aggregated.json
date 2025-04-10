@@ -3,7 +3,9 @@
   "handle": "SOFTM",
   "description": "SoftM LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "92.51.1.0/24"
+    ],
     "ipv6": []
   }
 }

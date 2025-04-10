@@ -4,7 +4,7 @@
   "description": "London Stock Exchange PLC",
   "subnets": {
     "ipv4": [
-      "94.46.106.0/24"
+      "94.46.106.0/23"
     ],
     "ipv6": []
   }

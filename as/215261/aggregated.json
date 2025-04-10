@@ -3,12 +3,7 @@
   "handle": "VIPY",
   "description": "ByteFly Kft.",
   "subnets": {
-    "ipv4": [
-      "212.73.137.0/24",
-      "213.181.206.0/24"
-    ],
-    "ipv6": [
-      "2001:67c:fac::/48"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

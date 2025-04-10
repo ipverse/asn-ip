@@ -1,0 +1,11 @@
+{
+  "asn": 211154,
+  "handle": "MFBANKA",
+  "description": "MF banka akcionarsko drustvo, Banja Luka",
+  "subnets": {
+    "ipv4": [
+      "45.148.123.0/24"
+    ],
+    "ipv6": []
+  }
+}

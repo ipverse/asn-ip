@@ -1,13 +1,11 @@
 {
   "asn": 208516,
   "handle": "FLYADSL",
-  "description": "CANNARELLA SERGIO",
+  "description": "STIADSL S.R.L",
   "subnets": {
     "ipv4": [
       "45.131.236.0/22"
     ],
-    "ipv6": [
-      "2a0e:63c0::/29"
-    ]
+    "ipv6": []
   }
 }

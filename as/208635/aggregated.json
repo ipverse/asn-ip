@@ -3,7 +3,9 @@
   "handle": "DIPUTACION-ALICANTE",
   "description": "Diputacion Provincial Alicante",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.53.68.0/23"
+    ],
     "ipv6": []
   }
 }

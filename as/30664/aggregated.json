@@ -4,7 +4,7 @@
   "description": "Element Vehicle Management Services",
   "subnets": {
     "ipv4": [
-      "198.175.50.0/24",
+      "198.175.50.0/23",
       "198.175.52.0/23",
       "198.175.54.0/24"
     ],

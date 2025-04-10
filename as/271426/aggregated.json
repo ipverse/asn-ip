@@ -3,9 +3,7 @@
   "handle": "IMS-TELECOMUNICACOES",
   "description": "IMS TELECOMUNICACOES LTDA",
   "subnets": {
-    "ipv4": [
-      "201.218.160.0/22"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }
