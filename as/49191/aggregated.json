@@ -3,7 +3,10 @@
   "handle": "SOFTERIUM",
   "description": "Global Software Investment OU",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.129.164.0/24",
+      "185.190.249.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -4,8 +4,6 @@
   "description": "FibraRede Gestao e Servios de Infraestrutura Ltda",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2804:9024::/32"
-    ]
+    "ipv6": []
   }
 }

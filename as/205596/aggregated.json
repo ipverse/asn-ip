@@ -3,7 +3,9 @@
   "handle": "MARIADOLORES",
   "description": "Maria Dolores Sanabria Briones",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.212.124.0/22"
+    ],
     "ipv6": []
   }
 }

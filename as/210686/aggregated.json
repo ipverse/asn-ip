@@ -1,9 +1,11 @@
 {
   "asn": 210686,
-  "handle": "DEGRYSE",
-  "description": "Estelle Yolande E de Gryse",
+  "handle": "KZ-JANANET",
+  "description": "JanaNet LLP",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.218.180.0/24"
+    ],
     "ipv6": []
   }
 }
