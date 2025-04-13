@@ -3,7 +3,10 @@
   "handle": "SSK",
   "description": "LLC Stroysvyazkonsaling",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "80.250.165.0/24",
+      "185.220.194.0/23"
+    ],
     "ipv6": []
   }
 }

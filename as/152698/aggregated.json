@@ -4,10 +4,11 @@
   "description": "Zorn Technologies",
   "subnets": {
     "ipv4": [
+      "103.14.23.0/24",
       "160.25.226.0/24"
     ],
     "ipv6": [
-      "2001:df3:ad40::/48"
+      "2001:df3:ad40::/47"
     ]
   }
 }

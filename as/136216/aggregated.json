@@ -3,7 +3,9 @@
   "handle": "BPOSEATS-COM-AP",
   "description": "Channel Information Technology Support and Leasing Services Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.83.224.0/22"
+    ],
     "ipv6": []
   }
 }

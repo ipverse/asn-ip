@@ -3,7 +3,9 @@
   "handle": "SAMEN",
   "description": "Samen Ertebat Asr Co. (P.J.S.)",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.118.136.0/22"
+    ],
     "ipv6": []
   }
 }

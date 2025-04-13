@@ -3,7 +3,11 @@
   "handle": "FIBRAREDE-GESTAO-SERVIOS",
   "description": "FibraRede Gestao e Servios de Infraestrutura Ltda",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.166.226.0/23"
+    ],
+    "ipv6": [
+      "2804:9024::/32"
+    ]
   }
 }

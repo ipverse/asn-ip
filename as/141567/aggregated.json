@@ -3,7 +3,9 @@
   "handle": "INTERSP-IN",
   "description": "Interspire Addon",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.171.109.0/24"
+    ],
     "ipv6": []
   }
 }

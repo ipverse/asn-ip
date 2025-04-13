@@ -1,0 +1,14 @@
+{
+  "asn": 151388,
+  "handle": "SOFTETHER",
+  "description": "SoftEther Corporation",
+  "subnets": {
+    "ipv4": [
+      "202.222.7.0/24",
+      "210.171.66.0/23"
+    ],
+    "ipv6": [
+      "2401:af80:c200::/39"
+    ]
+  }
+}

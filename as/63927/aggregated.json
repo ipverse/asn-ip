@@ -4,8 +4,7 @@
   "description": "RISE ASIA TECHNOLOGY LIMITED",
   "subnets": {
     "ipv4": [
-      "103.44.232.0/22",
-      "103.83.224.0/22"
+      "103.44.232.0/22"
     ],
     "ipv6": [
       "2401:da80::/32"
