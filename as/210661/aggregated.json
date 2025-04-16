@@ -1,9 +1,11 @@
 {
   "asn": 210661,
-  "handle": "EXENSA",
-  "description": "EXENSA SAS",
+  "handle": "VTEXS",
+  "description": "VTEXS OU",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "150.241.253.0/24"
+    ],
     "ipv6": []
   }
 }

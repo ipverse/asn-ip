@@ -4,7 +4,8 @@
   "description": "VILLEGAS BRAIAN JOEL (MADRYNET)",
   "subnets": {
     "ipv4": [
-      "179.191.0.0/22"
+      "179.191.1.0/24",
+      "179.191.2.0/23"
     ],
     "ipv6": []
   }

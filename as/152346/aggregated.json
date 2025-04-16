@@ -3,9 +3,7 @@
   "handle": "IDNIC-PNMNET-ID",
   "description": "PT Persegi Nusa Media",
   "subnets": {
-    "ipv4": [
-      "157.10.179.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

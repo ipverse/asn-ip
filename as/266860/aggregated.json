@@ -4,7 +4,8 @@
   "description": "CONEXION DIGITAL EXPRESS S.A.S.",
   "subnets": {
     "ipv4": [
-      "45.238.180.0/22"
+      "45.238.181.0/24",
+      "45.238.182.0/23"
     ],
     "ipv6": []
   }

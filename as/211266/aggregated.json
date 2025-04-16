@@ -1,9 +1,11 @@
 {
   "asn": 211266,
-  "handle": "AMBYRE",
-  "description": "Ambyre LLC",
+  "handle": "ICAP",
+  "description": "Alistithmar for Financial Securities and Brokerage Company JSC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.16.105.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -1,11 +1,9 @@
 {
   "asn": 210980,
-  "handle": "FERNET",
-  "description": "Jan Betik",
+  "handle": "RESERVED",
+  "description": "RIPE NCC ASN block",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2a0e:b107:ae0::/44"
-    ]
+    "ipv6": []
   }
 }

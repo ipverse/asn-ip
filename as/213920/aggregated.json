@@ -4,6 +4,7 @@
   "description": "FONSECA ALVES TECNOLOGIA LTDA",
   "subnets": {
     "ipv4": [
+      "151.242.25.0/24",
       "185.225.22.0/24"
     ],
     "ipv6": [

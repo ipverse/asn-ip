@@ -4,6 +4,7 @@
   "description": "netgo tax GmbH",
   "subnets": {
     "ipv4": [
+      "130.255.20.0/22",
       "164.138.192.0/21"
     ],
     "ipv6": [

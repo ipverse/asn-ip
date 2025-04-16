@@ -3,7 +3,9 @@
   "handle": "DMEHOAS",
   "description": "DME Holdings, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.15.28.0/22"
+    ],
     "ipv6": []
   }
 }

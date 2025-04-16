@@ -1,9 +1,11 @@
 {
   "asn": 210512,
-  "handle": "RESERVED",
-  "description": "RIPE NCC ASN block",
+  "handle": "IT-COMM",
+  "description": "IT-Comm LLP",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.139.179.0/24"
+    ],
     "ipv6": []
   }
 }

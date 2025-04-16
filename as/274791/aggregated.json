@@ -1,0 +1,11 @@
+{
+  "asn": 274791,
+  "handle": "FIBER-POINT-SERVICOS",
+  "description": "FIBER POINT SERVICOS DE COMUNICACOES MULTIMIDIA LT",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2804:93a4::/32"
+    ]
+  }
+}

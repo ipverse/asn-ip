@@ -3,7 +3,11 @@
   "handle": "KYBERORG",
   "description": "Aleksandr Muravja",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "44.32.89.0/24"
+    ],
+    "ipv6": [
+      "2602:f72e:8::/48"
+    ]
   }
 }
