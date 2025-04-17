@@ -3,7 +3,10 @@
   "handle": "INTERCONECTE-SERVIOS-TELECOMUNICAES",
   "description": "Interconecte Servios de Telecomunicaes Eireli",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.237.144.0/24",
+      "45.237.146.0/23"
+    ],
     "ipv6": []
   }
 }

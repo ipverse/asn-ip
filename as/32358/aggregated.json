@@ -1,5 +1,7 @@
 {
   "asn": 32358,
+  "handle": "VENTURACOUNTY",
+  "description": "County of Ventura",
   "subnets": {
     "ipv4": [
       "157.145.121.0/24",

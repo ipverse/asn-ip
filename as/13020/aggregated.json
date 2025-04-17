@@ -3,7 +3,9 @@
   "handle": "CCCV",
   "description": "Chaos Computer Club Veranstaltungsgesellschaft mbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "94.45.224.0/19"
+    ],
     "ipv6": []
   }
 }

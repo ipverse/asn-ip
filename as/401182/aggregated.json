@@ -4,6 +4,7 @@
   "description": "Applied Digital Corporation",
   "subnets": {
     "ipv4": [
+      "23.95.180.0/24",
       "69.2.199.0/24"
     ],
     "ipv6": []

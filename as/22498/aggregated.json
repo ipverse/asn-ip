@@ -4,8 +4,7 @@
   "description": "Pinellas County Government",
   "subnets": {
     "ipv4": [
-      "136.174.0.0/18",
-      "136.174.128.0/17"
+      "136.174.0.0/16"
     ],
     "ipv6": []
   }

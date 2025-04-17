@@ -3,7 +3,9 @@
   "handle": "BUBBLE-CLOUD-MOZAMBIQUE-SA",
   "description": "Bubble Cloud Mozambique, SA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "102.207.223.0/24"
+    ],
     "ipv6": []
   }
 }

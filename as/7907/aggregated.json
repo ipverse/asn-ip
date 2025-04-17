@@ -1,9 +1,11 @@
 {
   "asn": 7907,
-  "handle": "PLIM-MOBILE-TELECOM",
+  "handle": "NETWORD-CORP",
   "description": "Networldtron Corp",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "77.109.3.0/24"
+    ],
     "ipv6": []
   }
 }

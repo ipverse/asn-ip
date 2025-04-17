@@ -1,0 +1,11 @@
+{
+  "asn": 37017,
+  "handle": "EDGE-CONNECT",
+  "description": "Edge connect (pty) Ltd",
+  "subnets": {
+    "ipv4": [
+      "44.32.205.0/24"
+    ],
+    "ipv6": []
+  }
+}

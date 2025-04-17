@@ -4,7 +4,8 @@
   "description": "TIDALPORT INTERNATIONAL LIMITED",
   "subnets": {
     "ipv4": [
-      "38.47.51.0/24"
+      "38.47.51.0/24",
+      "163.227.84.0/24"
     ],
     "ipv6": []
   }

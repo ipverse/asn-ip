@@ -1,0 +1,11 @@
+{
+  "asn": 141030,
+  "handle": "CIRCLENETWORK-AP",
+  "description": "CIRCLE NETWORK",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2400:3dc0:6d::/48"
+    ]
+  }
+}

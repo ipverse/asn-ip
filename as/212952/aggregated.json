@@ -1,9 +1,11 @@
 {
   "asn": 212952,
-  "handle": "RESERVED",
-  "description": "RIPE NCC ASN block",
+  "handle": "SACHSENENERGIE",
+  "description": "SachsenEnergie AG",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.233.104.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "IDNIC-NAOMI-ID",
   "description": "PT NAOMI AURORA TEKNOLOGI",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "163.61.244.0/23"
+    ],
     "ipv6": []
   }
 }

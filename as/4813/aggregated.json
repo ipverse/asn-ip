@@ -4,7 +4,7 @@
   "description": "China Telecom(Group)",
   "subnets": {
     "ipv4": [
-      "14.22.60.0/22",
+      "14.22.56.0/21",
       "14.22.64.0/23"
     ],
     "ipv6": [
