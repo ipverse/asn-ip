@@ -3,12 +3,7 @@
   "handle": "BEON",
   "description": "beON consult GmbH",
   "subnets": {
-    "ipv4": [
-      "31.14.183.0/24",
-      "195.138.55.0/24"
-    ],
-    "ipv6": [
-      "2a14:9680::/29"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

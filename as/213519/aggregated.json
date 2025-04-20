@@ -3,7 +3,9 @@
   "handle": "LEMON-NETWORK",
   "description": "HANG YANG",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "89.144.2.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -1,9 +1,11 @@
 {
   "asn": 204248,
-  "handle": "SITC",
+  "handle": "MPT2",
   "description": "SITC Inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.109.240.0/23"
+    ],
     "ipv6": []
   }
 }

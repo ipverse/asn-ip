@@ -3,7 +3,11 @@
   "handle": "DANIEL-SANCHEZ-SANTOS",
   "description": "DANIEL SANCHEZ SANTOS",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "38.211.48.0/23"
+    ],
+    "ipv6": [
+      "2806:43d::/34"
+    ]
   }
 }

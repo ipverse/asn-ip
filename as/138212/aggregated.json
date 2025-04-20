@@ -4,7 +4,6 @@
   "description": "SpaceNet Ltd.",
   "subnets": {
     "ipv4": [
-      "103.12.238.0/24",
       "103.122.136.0/22"
     ],
     "ipv6": []

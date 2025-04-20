@@ -3,13 +3,7 @@
   "handle": "PACKETNAP",
   "description": "NetInformatik Inc.",
   "subnets": {
-    "ipv4": [
-      "64.112.33.0/24",
-      "64.112.35.0/24",
-      "128.254.172.0/23"
-    ],
-    "ipv6": [
-      "2602:fea7:c00::/40"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

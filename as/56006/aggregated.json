@@ -4,6 +4,7 @@
   "description": "Shanghai Pudong Development Bank Co.,Ltd.",
   "subnets": {
     "ipv4": [
+      "101.49.208.0/24",
       "103.142.96.0/23",
       "103.179.78.0/23"
     ],

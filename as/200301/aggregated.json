@@ -1,0 +1,11 @@
+{
+  "asn": 200301,
+  "handle": "BG-IVANOV",
+  "description": "Miroslav Ivanov",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2001:678:7e4::/48"
+    ]
+  }
+}

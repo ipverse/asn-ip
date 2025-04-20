@@ -3,7 +3,9 @@
   "handle": "NEXON-GLOBAL-BACKBONE",
   "description": "Nexware",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.157.244.0/23"
+    ],
     "ipv6": []
   }
 }
