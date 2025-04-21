@@ -4,7 +4,8 @@
   "description": "LORENA LORENZA BAUELOS RODRIGUEZ",
   "subnets": {
     "ipv4": [
-      "38.211.56.0/22"
+      "38.211.56.0/24",
+      "38.211.58.0/24"
     ],
     "ipv6": []
   }

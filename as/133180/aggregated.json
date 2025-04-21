@@ -3,7 +3,9 @@
   "handle": "STARBOWLTD-AP",
   "description": "Starbow Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "154.84.135.0/24"
+    ],
     "ipv6": []
   }
 }

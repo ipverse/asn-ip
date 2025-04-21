@@ -4,6 +4,7 @@
   "description": "Steps Telecom For Internet Ltd.",
   "subnets": {
     "ipv4": [
+      "5.10.226.0/24",
       "122.102.119.0/24",
       "185.140.195.0/24",
       "185.206.124.0/22",

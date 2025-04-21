@@ -3,7 +3,9 @@
   "handle": "VMI",
   "description": "Virginia Military Institute",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "144.75.0.0/16"
+    ],
     "ipv6": []
   }
 }

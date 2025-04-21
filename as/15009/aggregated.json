@@ -4,8 +4,6 @@
   "description": "Unisys Corporation",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2620:10c:c072::/48"
-    ]
+    "ipv6": []
   }
 }

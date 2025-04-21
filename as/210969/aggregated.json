@@ -1,9 +1,11 @@
 {
   "asn": 210969,
-  "handle": "PEER1NG",
-  "description": "Tim-Niklas Koch",
+  "handle": "TELLISSI",
+  "description": "Malek Tellissi",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a0c:b641:350::/48"
+    ]
   }
 }

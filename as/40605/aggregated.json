@@ -4,7 +4,8 @@
   "description": "ANYCONNECT INFORMATION TECHNOLOGY CO., LTD",
   "subnets": {
     "ipv4": [
-      "38.246.183.0/24"
+      "38.246.183.0/24",
+      "185.254.243.0/24"
     ],
     "ipv6": [
       "2602:f6c4::/36"

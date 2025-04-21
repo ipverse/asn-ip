@@ -3,7 +3,11 @@
   "handle": "XRB-IT-SOLUTIONS-HUNGARY",
   "description": "Spitzmuller Tamas",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "5.231.93.0/24"
+    ],
+    "ipv6": [
+      "2a0c:b641:370::/44"
+    ]
   }
 }

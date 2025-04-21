@@ -4,7 +4,8 @@
   "description": "Telecable Cartaya S.L.",
   "subnets": {
     "ipv4": [
-      "88.135.76.0/22"
+      "88.135.76.0/23",
+      "88.135.79.0/24"
     ],
     "ipv6": []
   }

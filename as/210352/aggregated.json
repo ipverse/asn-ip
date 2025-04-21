@@ -1,9 +1,11 @@
 {
   "asn": 210352,
-  "handle": "RESERVED",
-  "description": "RIPE NCC ASN block",
+  "handle": "YIJIAXU",
+  "description": "Yijia Xu",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a14:67c1:a090::/48"
+    ]
   }
 }

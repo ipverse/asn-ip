@@ -3,7 +3,9 @@
   "handle": "WPAFN",
   "description": "WPA Fiber Network LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "167.94.116.0/23"
+    ],
     "ipv6": [
       "2604:2a0::/32"
     ]

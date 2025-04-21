@@ -4,8 +4,6 @@
   "description": "bastioncyber.ai",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2602:f70c:66::/48"
-    ]
+    "ipv6": []
   }
 }

@@ -3,9 +3,7 @@
   "handle": "QLOUDIN1-AP",
   "description": "YouStable",
   "subnets": {
-    "ipv4": [
-      "27.100.38.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }
