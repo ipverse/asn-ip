@@ -4,7 +4,8 @@
   "description": "FEMO IT SOLUTIONS LIMITED",
   "subnets": {
     "ipv4": [
-      "62.60.226.0/24"
+      "62.60.226.0/24",
+      "180.178.189.0/24"
     ],
     "ipv6": []
   }

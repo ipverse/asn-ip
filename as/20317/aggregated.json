@@ -1,0 +1,11 @@
+{
+  "asn": 20317,
+  "handle": "ABN",
+  "description": "Abnormal Inc",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2602:f8a2::/40"
+    ]
+  }
+}

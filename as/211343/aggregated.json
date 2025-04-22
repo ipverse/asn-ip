@@ -1,9 +1,11 @@
 {
   "asn": 211343,
-  "handle": "HYPERGUARD",
-  "description": "HyperGuard LP",
+  "handle": "NSK-LLCFLEX",
+  "description": "LLC Flex",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.53.106.0/24"
+    ],
     "ipv6": []
   }
 }

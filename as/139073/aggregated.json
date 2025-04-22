@@ -3,7 +3,9 @@
   "handle": "FSIX-AP",
   "description": "Fantasy Sky Internet eXchange",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "44.31.96.0/24"
+    ],
     "ipv6": [
       "2402:e380:100::/40"
     ]

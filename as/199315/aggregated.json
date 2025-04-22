@@ -3,7 +3,9 @@
   "handle": "MILSPEED",
   "description": "Milsped d.o.o Beograd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.218.173.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -1,0 +1,12 @@
+{
+  "asn": 401654,
+  "handle": "SDO-DAWN",
+  "description": "Amazon.com, Inc.",
+  "subnets": {
+    "ipv4": [
+      "198.41.104.0/24",
+      "198.41.106.0/24"
+    ],
+    "ipv6": []
+  }
+}

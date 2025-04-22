@@ -4,8 +4,7 @@
   "description": "Christopher Eduardo Fistarol ME",
   "subnets": {
     "ipv4": [
-      "179.51.180.0/23",
-      "179.51.183.0/24"
+      "179.51.180.0/22"
     ],
     "ipv6": [
       "2804:7768::/33"

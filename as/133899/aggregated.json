@@ -1,0 +1,11 @@
+{
+  "asn": 133899,
+  "handle": "RAYAINONLINE-AP",
+  "description": "Rayain Online",
+  "subnets": {
+    "ipv4": [
+      "103.188.137.0/24"
+    ],
+    "ipv6": []
+  }
+}

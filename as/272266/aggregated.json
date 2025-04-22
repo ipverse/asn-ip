@@ -3,7 +3,9 @@
   "handle": "ONLINE-NET-COMUNICACAO",
   "description": "ONLINE NET COMUNICACAO MULTIMIDIA LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "149.18.74.0/23"
+    ],
     "ipv6": [
       "2804:8488::/32"
     ]

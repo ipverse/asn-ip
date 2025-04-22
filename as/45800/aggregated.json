@@ -4,7 +4,8 @@
   "description": "Suan sunandha Rajabhat University",
   "subnets": {
     "ipv4": [
-      "112.143.0.0/22"
+      "112.143.0.0/22",
+      "112.143.31.0/24"
     ],
     "ipv6": []
   }

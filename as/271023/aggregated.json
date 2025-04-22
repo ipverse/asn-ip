@@ -4,6 +4,7 @@
   "description": "TERA SOLUCOES",
   "subnets": {
     "ipv4": [
+      "38.226.184.0/21",
       "191.37.168.0/22"
     ],
     "ipv6": [
