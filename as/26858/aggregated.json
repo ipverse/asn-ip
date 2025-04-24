@@ -1,9 +1,11 @@
 {
   "asn": 26858,
-  "handle": "TWACOMM",
-  "description": "TWACOMM.COM, INC.",
+  "handle": "SNIC-TX",
+  "description": "Sonic.net, LLC",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2607:43c1::/32"
+    ]
   }
 }

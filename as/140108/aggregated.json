@@ -1,9 +1,11 @@
 {
   "asn": 140108,
-  "handle": "AIRSONBR-IN",
-  "description": "Airson Broadband",
+  "handle": "KRISHNAI-IN",
+  "description": "Krishna Internet Service Private Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "163.227.130.0/23"
+    ],
     "ipv6": []
   }
 }

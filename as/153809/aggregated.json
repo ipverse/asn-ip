@@ -1,0 +1,13 @@
+{
+  "asn": 153809,
+  "handle": "WISKY-AP",
+  "description": "Wi-Sky (NSW) Pty Ltd",
+  "subnets": {
+    "ipv4": [
+      "163.227.140.0/23"
+    ],
+    "ipv6": [
+      "2401:ffa0::/32"
+    ]
+  }
+}

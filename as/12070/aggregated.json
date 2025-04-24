@@ -3,9 +3,7 @@
   "handle": "ANYCAST-01",
   "description": "ANYCAST LLC",
   "subnets": {
-    "ipv4": [
-      "185.224.168.0/22"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

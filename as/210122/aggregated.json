@@ -1,9 +1,11 @@
 {
   "asn": 210122,
-  "handle": "RESERVED",
-  "description": "RIPE NCC ASN block",
+  "handle": "ZCHKH",
+  "description": "Zilan Cheikho",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a06:d1c1:c0::/48"
+    ]
   }
 }

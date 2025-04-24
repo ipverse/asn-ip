@@ -4,6 +4,7 @@
   "description": "RGSul Internet Eireli",
   "subnets": {
     "ipv4": [
+      "131.161.116.0/22",
       "201.71.48.0/22"
     ],
     "ipv6": [

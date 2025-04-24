@@ -1,9 +1,11 @@
 {
   "asn": 213333,
-  "handle": "RESERVED",
-  "description": "RIPE NCC ASN block",
+  "handle": "CNPR",
+  "description": "Jacob Willem de Vos",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2001:67c:1520::/48"
+    ]
   }
 }

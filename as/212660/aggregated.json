@@ -1,9 +1,11 @@
 {
   "asn": 212660,
-  "handle": "EUROLIR-OU",
-  "description": "Eurolir OU",
+  "handle": "WHG-DXB1",
+  "description": "WHG Hosting Services Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "198.38.94.0/24"
+    ],
     "ipv6": []
   }
 }

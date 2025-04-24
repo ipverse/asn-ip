@@ -1,9 +1,12 @@
 {
   "asn": 141383,
-  "handle": "COOLNETPTELTD-AP",
-  "description": "COOLNET PTE. LTD.",
+  "handle": "VERGE-AP",
+  "description": "VERGE CLOUD PRIVATE LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "151.242.150.0/23",
+      "163.61.8.0/24"
+    ],
     "ipv6": []
   }
 }

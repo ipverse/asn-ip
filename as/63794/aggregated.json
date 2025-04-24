@@ -3,7 +3,9 @@
   "handle": "ILKS-NET",
   "description": "ILKS Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.187.128.0/23"
+    ],
     "ipv6": []
   }
 }

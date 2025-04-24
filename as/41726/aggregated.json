@@ -4,6 +4,7 @@
   "description": "Creditreform Latvija SIA",
   "subnets": {
     "ipv4": [
+      "85.254.3.0/24",
       "212.70.184.0/24"
     ],
     "ipv6": []

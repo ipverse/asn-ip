@@ -3,9 +3,7 @@
   "handle": "SCHILDIIHOST",
   "description": "Mika Luedeke trading as Schildiihost",
   "subnets": {
-    "ipv4": [
-      "77.90.20.0/24"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2a12:bec4:1330::/44"
     ]

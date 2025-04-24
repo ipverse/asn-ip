@@ -1,0 +1,11 @@
+{
+  "asn": 400037,
+  "handle": "TVT-01",
+  "description": "Tamarack Resort",
+  "subnets": {
+    "ipv4": [
+      "45.41.6.0/24"
+    ],
+    "ipv6": []
+  }
+}

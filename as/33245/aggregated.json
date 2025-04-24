@@ -1,7 +1,11 @@
 {
   "asn": 33245,
+  "handle": "JABIL-SINU-PH",
+  "description": "Jabil",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "205.252.129.0/24"
+    ],
     "ipv6": []
   }
 }
