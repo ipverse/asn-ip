@@ -1,9 +1,11 @@
 {
   "asn": 211143,
-  "handle": "RESERVED",
-  "description": "RIPE NCC ASN block",
+  "handle": "AZL",
+  "description": "Azerlotereya Open Joint Stock Company",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.164.138.0/23"
+    ],
     "ipv6": []
   }
 }

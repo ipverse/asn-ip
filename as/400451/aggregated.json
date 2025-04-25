@@ -4,6 +4,8 @@
   "description": "Curium Technologies",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2606:b3c0::/32"
+    ]
   }
 }

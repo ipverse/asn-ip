@@ -3,11 +3,7 @@
   "handle": "VSVK",
   "description": "VSVK Onderhoud B.V.",
   "subnets": {
-    "ipv4": [
-      "87.120.126.0/23",
-      "92.119.196.0/23",
-      "94.156.167.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

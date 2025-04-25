@@ -4,6 +4,7 @@
   "description": "Edgenext Legend Dynasty Pte. Ltd.",
   "subnets": {
     "ipv4": [
+      "82.27.189.0/24",
       "154.85.89.0/24",
       "154.85.90.0/24"
     ],

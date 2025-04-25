@@ -4,6 +4,7 @@
   "description": "DOVAL MANUEL ANGEL (INETGAMING)",
   "subnets": {
     "ipv4": [
+      "23.175.40.0/23",
       "45.235.98.0/23",
       "160.20.247.0/24"
     ],

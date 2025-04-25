@@ -3,7 +3,9 @@
   "handle": "OZKAN",
   "description": "Ozkan TOPAL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.23.111.0/24"
+    ],
     "ipv6": []
   }
 }

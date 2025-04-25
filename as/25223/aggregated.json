@@ -4,7 +4,8 @@
   "description": "InfraCom Managed Services AB",
   "subnets": {
     "ipv4": [
-      "89.189.208.0/22"
+      "89.189.208.0/22",
+      "193.105.226.0/24"
     ],
     "ipv6": [
       "2001:678:680::/48"

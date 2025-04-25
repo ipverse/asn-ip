@@ -2,7 +2,9 @@
   "asn": 16267,
   "description": "CH Regionalmedien AG",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "213.146.0.0/19"
+    ],
     "ipv6": [
       "2a01:4960::/32"
     ]

@@ -4,7 +4,7 @@
   "description": "PT. GARUDA PRIMA INTERNETINDO",
   "subnets": {
     "ipv4": [
-      "103.148.100.0/24"
+      "103.148.100.0/23"
     ],
     "ipv6": [
       "2405:ce40::/32"

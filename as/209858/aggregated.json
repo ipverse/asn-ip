@@ -1,9 +1,11 @@
 {
   "asn": 209858,
-  "handle": "RESERVED",
-  "description": "RIPE NCC ASN block",
+  "handle": "IPCHECKBOX-LTD",
+  "description": "IPCHECKBOX LTD",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a13:600::/29"
+    ]
   }
 }

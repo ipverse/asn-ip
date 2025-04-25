@@ -3,10 +3,7 @@
   "handle": "VERGE-AP",
   "description": "VERGE CLOUD PRIVATE LIMITED",
   "subnets": {
-    "ipv4": [
-      "151.242.150.0/23",
-      "163.61.8.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

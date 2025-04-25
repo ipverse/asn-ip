@@ -1,0 +1,13 @@
+{
+  "asn": 274054,
+  "handle": "@SONET-COLOMBIA",
+  "description": "@SONET COLOMBIA SAS",
+  "subnets": {
+    "ipv4": [
+      "38.224.211.0/24"
+    ],
+    "ipv6": [
+      "2803:12d0::/32"
+    ]
+  }
+}

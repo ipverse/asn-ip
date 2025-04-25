@@ -3,7 +3,9 @@
   "handle": "PLB-NET",
   "description": "Philippe Le Bihan",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "139.28.99.0/24"
+    ],
     "ipv6": []
   }
 }

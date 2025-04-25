@@ -3,11 +3,8 @@
   "handle": "UKNOC",
   "description": "Jack Davies",
   "subnets": {
-    "ipv4": [
-      "202.50.53.0/24"
-    ],
+    "ipv4": [],
     "ipv6": [
-      "2a06:9f40::/48",
       "2a0a:6044:6c00::/40"
     ]
   }

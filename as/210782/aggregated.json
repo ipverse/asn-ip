@@ -3,7 +3,9 @@
   "handle": "NATIONA",
   "description": "Nationa, UAB",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.251.17.0/24"
+    ],
     "ipv6": []
   }
 }

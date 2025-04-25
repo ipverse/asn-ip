@@ -4,8 +4,6 @@
   "description": "MAZA Telecom",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2804:8e64:f000::/48"
-    ]
+    "ipv6": []
   }
 }

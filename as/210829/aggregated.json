@@ -1,9 +1,11 @@
 {
   "asn": 210829,
-  "handle": "VITALVAS",
-  "description": "Vitaliy Vasylenko",
+  "handle": "SATEL",
+  "description": "SATEL Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "37.230.229.0/24"
+    ],
     "ipv6": []
   }
 }
