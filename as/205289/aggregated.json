@@ -3,12 +3,7 @@
   "handle": "ES-FOFNET",
   "description": "FIBRA OPTICA FILABRES S.L",
   "subnets": {
-    "ipv4": [
-      "2.57.192.0/22",
-      "185.222.244.0/22"
-    ],
-    "ipv6": [
-      "2a14:d400::/29"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

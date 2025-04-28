@@ -4,6 +4,7 @@
   "description": "World Fibra",
   "subnets": {
     "ipv4": [
+      "38.10.152.0/23",
       "38.191.94.0/23"
     ],
     "ipv6": [

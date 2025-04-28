@@ -4,7 +4,6 @@
   "description": "REDE ASA NET",
   "subnets": {
     "ipv4": [
-      "38.76.234.0/24",
       "45.174.144.0/22"
     ],
     "ipv6": [

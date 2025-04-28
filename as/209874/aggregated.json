@@ -1,9 +1,11 @@
 {
   "asn": 209874,
-  "handle": "RESERVED",
-  "description": "RIPE NCC ASN block",
+  "handle": "TECHTIDE",
+  "description": "Tech Tide Portugal Unipessoal LDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "89.106.88.0/24"
+    ],
     "ipv6": []
   }
 }

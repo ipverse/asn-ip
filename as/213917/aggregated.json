@@ -3,7 +3,9 @@
   "handle": "THUNTER",
   "description": "T Hunter LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "80.64.23.0/24"
+    ],
     "ipv6": []
   }
 }

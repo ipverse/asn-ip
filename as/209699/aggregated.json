@@ -1,0 +1,14 @@
+{
+  "asn": 209699,
+  "handle": "COAXIAL",
+  "description": "Coaxial Cable LLC",
+  "subnets": {
+    "ipv4": [
+      "77.93.88.0/24",
+      "77.93.90.0/23"
+    ],
+    "ipv6": [
+      "2a14:7dc0:100::/48"
+    ]
+  }
+}

@@ -3,9 +3,6 @@
   "description": "RIPE NCC ASN block",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2401:bf60:4ff9::/48",
-      "2a13:c007:9007::/48"
-    ]
+    "ipv6": []
   }
 }

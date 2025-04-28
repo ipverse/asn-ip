@@ -3,7 +3,9 @@
   "handle": "LUME-HOSTING",
   "description": "Emrah Salifoski",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "178.18.151.0/24"
+    ],
     "ipv6": []
   }
 }

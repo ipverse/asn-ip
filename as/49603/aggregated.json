@@ -4,6 +4,7 @@
   "description": "Nerdherrschaft GmbH",
   "subnets": {
     "ipv4": [
+      "46.19.152.0/21",
       "185.88.60.0/22",
       "185.92.152.0/22"
     ],

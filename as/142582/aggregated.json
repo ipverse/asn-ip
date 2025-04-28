@@ -1,9 +1,11 @@
 {
   "asn": 142582,
-  "handle": "RESERVED",
-  "description": "APNIC ASN block",
+  "handle": "BFAML-AP",
+  "description": "Bajaj Finserv Asset Management Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "161.248.139.0/24"
+    ],
     "ipv6": []
   }
 }

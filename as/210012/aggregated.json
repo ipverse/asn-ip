@@ -1,9 +1,11 @@
 {
   "asn": 210012,
-  "handle": "RESERVED",
-  "description": "RIPE NCC ASN block",
+  "handle": "TRK-TEKS",
+  "description": "TRK-TEKS-PP",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.249.162.0/24"
+    ],
     "ipv6": []
   }
 }

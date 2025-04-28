@@ -3,10 +3,7 @@
   "handle": "PEDRERATELECOM",
   "description": "PEDRERA TELECOM SL",
   "subnets": {
-    "ipv4": [
-      "38.196.228.0/24",
-      "217.76.255.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

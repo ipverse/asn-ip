@@ -4,7 +4,8 @@
   "description": "WIRELESS COMMUNICATION, S.L.",
   "subnets": {
     "ipv4": [
-      "185.142.44.0/22"
+      "185.142.45.0/24",
+      "185.142.46.0/24"
     ],
     "ipv6": []
   }

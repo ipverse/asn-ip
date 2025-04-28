@@ -3,11 +3,7 @@
   "handle": "AKIWIFI-BARBANZA",
   "description": "Nostravant S.L.L.",
   "subnets": {
-    "ipv4": [
-      "185.194.26.0/23",
-      "185.219.218.0/24",
-      "185.232.133.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }
