@@ -3,7 +3,9 @@
   "handle": "REBELOAK",
   "description": "Spotting Brands Technologies S.L",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "5.61.203.0/24"
+    ],
     "ipv6": []
   }
 }

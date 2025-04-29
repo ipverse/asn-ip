@@ -1,9 +1,11 @@
 {
   "asn": 209481,
-  "handle": "RESERVED",
-  "description": "RIPE NCC ASN block",
+  "handle": "DENGHAOYU",
+  "description": "HaoYu Deng",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2602:f93b:400::/38"
+    ]
   }
 }

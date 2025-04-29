@@ -3,7 +3,9 @@
   "handle": "NIOTT-AP",
   "description": "NIT Tiruchirappalli",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "160.30.7.0/24"
+    ],
     "ipv6": []
   }
 }

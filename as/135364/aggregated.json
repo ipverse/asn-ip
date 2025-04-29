@@ -3,7 +3,9 @@
   "handle": "IRINN-ACEE-IN",
   "description": "ACEESATELLITE COMMUNICATIONS PVT LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "163.223.250.0/23"
+    ],
     "ipv6": []
   }
 }

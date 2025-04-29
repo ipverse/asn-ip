@@ -3,7 +3,9 @@
   "handle": "INYCOM",
   "description": "Instrumentacion y Componentes, SA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "212.75.160.0/19"
+    ],
     "ipv6": []
   }
 }

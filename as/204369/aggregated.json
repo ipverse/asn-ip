@@ -3,7 +3,9 @@
   "handle": "REDCAPAC",
   "description": "Redcapac SL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.137.52.0/22"
+    ],
     "ipv6": []
   }
 }

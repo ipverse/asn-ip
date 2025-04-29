@@ -3,7 +3,9 @@
   "handle": "SSL6",
   "description": "Silkway Solutions (Pty) Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "102.219.21.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -1,9 +1,11 @@
 {
   "asn": 149299,
-  "handle": "NINEPACKET-AP",
-  "description": "NinePacket, Inc.",
+  "handle": "CABLESTARINC-AP",
+  "description": "CABLESTAR INC.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.25.10.0/23"
+    ],
     "ipv6": []
   }
 }

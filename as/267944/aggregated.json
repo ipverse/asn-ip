@@ -4,10 +4,10 @@
   "description": "Intercol Serv de Aux a Internet eireli Me",
   "subnets": {
     "ipv4": [
-      "45.163.236.0/22"
+      "45.163.236.0/23"
     ],
     "ipv6": [
-      "2804:5598::/32"
+      "2804:5598::/33"
     ]
   }
 }

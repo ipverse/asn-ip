@@ -3,7 +3,9 @@
   "handle": "ADAM-CHODKOWSKI",
   "description": "Adam Chodkowski",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "44.30.4.0/24"
+    ],
     "ipv6": [
       "2a14:7581:ff6::/48"
     ]

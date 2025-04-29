@@ -4,6 +4,7 @@
   "description": "Nasdaq Technology AB",
   "subnets": {
     "ipv4": [
+      "204.190.65.0/24",
       "217.73.0.0/20"
     ],
     "ipv6": []

@@ -1,0 +1,11 @@
+{
+  "asn": 2763,
+  "handle": "PAN-22",
+  "description": "Palo Alto Networks, Inc",
+  "subnets": {
+    "ipv4": [
+      "169.224.139.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -3,7 +3,9 @@
   "handle": "DINFOTECASN",
   "description": "Free Technologies Excom S.L.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "5.134.32.0/20"
+    ],
     "ipv6": []
   }
 }

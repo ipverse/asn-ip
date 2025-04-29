@@ -3,7 +3,9 @@
   "handle": "TERIDION2",
   "description": "Teridion inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "136.228.23.0/24"
+    ],
     "ipv6": []
   }
 }

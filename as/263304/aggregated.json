@@ -4,6 +4,7 @@
   "description": "TUTASME NET LTDA",
   "subnets": {
     "ipv4": [
+      "191.7.3.0/24",
       "191.7.4.0/22"
     ],
     "ipv6": []

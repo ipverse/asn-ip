@@ -3,7 +3,11 @@
   "handle": "ESTYA",
   "description": "Eduardo Senin Herrero",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "176.119.207.0/24"
+    ],
+    "ipv6": [
+      "2a05:ed40::/29"
+    ]
   }
 }

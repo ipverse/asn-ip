@@ -3,7 +3,10 @@
   "handle": "ASCHICLANAWIFI",
   "description": "Kelly Victoria Tidiman",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.215.104.0/22",
+      "185.224.79.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,11 +3,7 @@
   "handle": "ALN-ASN-0",
   "description": "Atomic Link Networks",
   "subnets": {
-    "ipv4": [
-      "131.153.249.0/24"
-    ],
-    "ipv6": [
-      "2602:2e4::/48"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

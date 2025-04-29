@@ -3,7 +3,9 @@
   "handle": "T2OAS",
   "description": "T2O AD MEDIA SERVICES S.L.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "5.102.134.0/24"
+    ],
     "ipv6": []
   }
 }

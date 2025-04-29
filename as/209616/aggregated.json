@@ -1,9 +1,11 @@
 {
   "asn": 209616,
-  "handle": "RESERVED",
-  "description": "RIPE NCC ASN block",
+  "handle": "NET911UA",
+  "description": "PE Korotenko Artem Oleksandrovych",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "46.231.225.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "BIGNET-TELECOM",
   "description": "Bignet Telecom LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.182.148.0/22"
+    ],
     "ipv6": [
       "2804:8e44::/32"
     ]

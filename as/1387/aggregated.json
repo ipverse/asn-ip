@@ -1,0 +1,13 @@
+{
+  "asn": 1387,
+  "handle": "ANSBB-ASNNET-2",
+  "description": "Verizon Business",
+  "subnets": {
+    "ipv4": [
+      "68.128.239.0/24"
+    ],
+    "ipv6": [
+      "2600:40ff:fcb0::/48"
+    ]
+  }
+}

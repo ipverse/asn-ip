@@ -3,9 +3,9 @@
   "handle": "SECUROST",
   "description": "Association Securost",
   "subnets": {
-    "ipv4": [],
-    "ipv6": [
-      "2a10:4646:3e0::/44"
-    ]
+    "ipv4": [
+      "93.95.117.0/24"
+    ],
+    "ipv6": []
   }
 }

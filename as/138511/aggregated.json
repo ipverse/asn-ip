@@ -1,9 +1,11 @@
 {
   "asn": 138511,
-  "handle": "RESERVED",
-  "description": "APNIC ASN block",
+  "handle": "SJOGHCI-AP",
+  "description": "ST JOHN OF GOD HEALTHCARE INC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "163.61.220.0/23"
+    ],
     "ipv6": []
   }
 }

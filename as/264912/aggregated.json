@@ -4,6 +4,7 @@
   "description": "Alcantara e Oliveira Ltda Me",
   "subnets": {
     "ipv4": [
+      "38.226.111.0/24",
       "168.228.64.0/22"
     ],
     "ipv6": [

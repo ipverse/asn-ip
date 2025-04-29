@@ -3,7 +3,9 @@
   "handle": "AXARWIFI",
   "description": "Francisco Javier Gordillo Perez",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.92.72.0/22"
+    ],
     "ipv6": []
   }
 }

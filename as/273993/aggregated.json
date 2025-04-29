@@ -4,6 +4,7 @@
   "description": "EDGEUNO S.A.S",
   "subnets": {
     "ipv4": [
+      "76.72.168.0/24",
       "148.222.238.0/24"
     ],
     "ipv6": [
