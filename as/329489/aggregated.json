@@ -3,7 +3,9 @@
   "handle": "CASTOR-NETWORKS",
   "description": "Castor Networks RDC SA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "102.207.248.0/24"
+    ],
     "ipv6": []
   }
 }

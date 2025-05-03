@@ -3,7 +3,9 @@
   "handle": "BRAINPRR-IN",
   "description": "Brainpr Internet Technology Opc Pvt Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "163.227.150.0/24"
+    ],
     "ipv6": []
   }
 }

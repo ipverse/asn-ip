@@ -3,7 +3,9 @@
   "handle": "COMPUTEAZ",
   "description": "Compute Arizona LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "67.14.241.0/24"
+    ],
     "ipv6": []
   }
 }
