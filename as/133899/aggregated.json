@@ -3,9 +3,7 @@
   "handle": "RAYAINONLINE-AP",
   "description": "Rayain Online",
   "subnets": {
-    "ipv4": [
-      "64.195.64.0/18"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }
