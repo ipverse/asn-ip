@@ -3,7 +3,9 @@
   "handle": "ASHNET",
   "description": "Ashley Statuto",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "44.30.2.0/23"
+    ],
     "ipv6": []
   }
 }

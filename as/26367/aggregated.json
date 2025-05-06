@@ -4,7 +4,7 @@
   "description": "Bradley University",
   "subnets": {
     "ipv4": [
-      "136.176.0.0/16"
+      "136.176.0.0/18"
     ],
     "ipv6": []
   }

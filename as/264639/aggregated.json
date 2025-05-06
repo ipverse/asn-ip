@@ -4,6 +4,7 @@
   "description": "CLOUD2NUBE, S.A.",
   "subnets": {
     "ipv4": [
+      "148.230.20.0/24",
       "190.14.13.0/24"
     ],
     "ipv6": [

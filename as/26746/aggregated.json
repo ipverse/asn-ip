@@ -3,9 +3,7 @@
   "handle": "HARVARD-PILGRIM-HEALTH-CARE",
   "description": "Harvard Pilgrim Health Care, Inc.",
   "subnets": {
-    "ipv4": [
-      "155.49.128.0/17"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

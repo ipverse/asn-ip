@@ -1,9 +1,15 @@
 {
   "asn": 209298,
-  "handle": "OMS",
-  "description": "Online Marketing Sources Kft.",
+  "handle": "PINATON",
+  "description": "Pinaton LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "5.183.129.0/24",
+      "45.11.23.0/24",
+      "45.14.222.0/24",
+      "45.136.68.0/24",
+      "213.226.113.0/24"
+    ],
     "ipv6": []
   }
 }

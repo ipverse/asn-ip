@@ -3,7 +3,11 @@
   "handle": "DIALWAVE",
   "description": "DIALWAVE, INC.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "23.137.236.0/24"
+    ],
+    "ipv6": [
+      "2604:ca0::/32"
+    ]
   }
 }

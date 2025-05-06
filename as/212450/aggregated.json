@@ -4,9 +4,6 @@
   "description": "Juan Thielmann",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2a0b:b87:ffa5::/48",
-      "2a0f:9400:693c::/48"
-    ]
+    "ipv6": []
   }
 }

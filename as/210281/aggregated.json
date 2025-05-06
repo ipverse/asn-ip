@@ -1,9 +1,11 @@
 {
   "asn": 210281,
-  "handle": "RESERVED",
-  "description": "RIPE NCC ASN block",
+  "handle": "ECOCONNECT",
+  "description": "EcoConnect LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "188.35.28.0/22"
+    ],
     "ipv6": []
   }
 }

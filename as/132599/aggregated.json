@@ -4,7 +4,8 @@
   "description": "Ministry of Post and Telecommunication",
   "subnets": {
     "ipv4": [
-      "103.16.60.0/22"
+      "103.16.60.0/22",
+      "116.197.152.0/22"
     ],
     "ipv6": []
   }

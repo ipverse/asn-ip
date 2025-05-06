@@ -3,7 +3,10 @@
   "handle": "BW",
   "description": "Beijing BAIWU Technology Co., Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "112.33.110.0/24",
+      "112.33.119.0/24"
+    ],
     "ipv6": []
   }
 }

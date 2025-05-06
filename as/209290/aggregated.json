@@ -1,9 +1,15 @@
 {
   "asn": 209290,
-  "handle": "METEOR",
-  "description": "Meteor Network LLC",
+  "handle": "GALEON",
+  "description": "Galeon LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "31.40.202.0/24",
+      "45.81.138.0/24",
+      "45.89.70.0/24",
+      "45.91.239.0/24",
+      "92.119.162.0/24"
+    ],
     "ipv6": []
   }
 }

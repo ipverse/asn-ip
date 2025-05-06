@@ -3,7 +3,9 @@
   "handle": "REDE-SUPERNET",
   "description": "REDE SUPERNET",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.5.128.0/22"
+    ],
     "ipv6": []
   }
 }

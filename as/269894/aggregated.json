@@ -4,6 +4,7 @@
   "description": "CABLE ANDINA S.A.C",
   "subnets": {
     "ipv4": [
+      "38.226.246.0/24",
       "45.191.96.0/22"
     ],
     "ipv6": []

@@ -1,0 +1,12 @@
+{
+  "asn": 214593,
+  "handle": "DIAS-TECH",
+  "description": "Dias Bilisim ve Teknoloji Hizmetleri AS",
+  "subnets": {
+    "ipv4": [
+      "194.164.108.0/24",
+      "194.164.111.0/24"
+    ],
+    "ipv6": []
+  }
+}

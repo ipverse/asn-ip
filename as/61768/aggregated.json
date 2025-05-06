@@ -4,8 +4,11 @@
   "description": "NET INFINITO INTERNET FIBRA OPTICA",
   "subnets": {
     "ipv4": [
+      "38.226.196.0/24",
       "200.24.64.0/21"
     ],
-    "ipv6": []
+    "ipv6": [
+      "2804:1900::/32"
+    ]
   }
 }

@@ -3,7 +3,9 @@
   "handle": "NIUZI-DADA-CLOUD",
   "description": "NIUZI DADA CLOUD LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "141.11.56.0/24"
+    ],
     "ipv6": [
       "2a14:67c1:1100::/40",
       "2a14:67c1:1200::/39",
