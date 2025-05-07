@@ -1,9 +1,12 @@
 {
   "asn": 209702,
-  "handle": "VIKTORIA-B",
-  "description": "OOO Viktoria Baltiya",
+  "handle": "SOLDATOV",
+  "description": "SOLDATOV ALEXEY VALEREVICH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.73.34.0/24",
+      "185.73.124.0/24"
+    ],
     "ipv6": []
   }
 }

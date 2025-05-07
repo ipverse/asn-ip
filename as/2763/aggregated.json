@@ -4,6 +4,7 @@
   "description": "Palo Alto Networks, Inc",
   "subnets": {
     "ipv4": [
+      "144.125.199.0/24",
       "169.224.139.0/24"
     ],
     "ipv6": []

@@ -3,11 +3,7 @@
   "handle": "ROCKYMOUNTAININTERNET",
   "description": "ROCKY MOUNTAIN INTERNET INC",
   "subnets": {
-    "ipv4": [
-      "38.141.44.0/22"
-    ],
-    "ipv6": [
-      "2001:550:3201::/48"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

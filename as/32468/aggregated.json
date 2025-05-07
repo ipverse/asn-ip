@@ -3,7 +3,9 @@
   "handle": "CMSSTL",
   "description": "Correctional Medical Services",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.132.27.0/24"
+    ],
     "ipv6": []
   }
 }

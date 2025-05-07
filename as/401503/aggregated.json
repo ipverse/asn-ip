@@ -4,7 +4,8 @@
   "description": "Meridian Cooperative, Inc.",
   "subnets": {
     "ipv4": [
-      "67.28.124.0/24"
+      "67.28.124.0/24",
+      "174.46.97.0/24"
     ],
     "ipv6": []
   }

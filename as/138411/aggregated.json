@@ -3,7 +3,10 @@
   "handle": "TELNET1-AP",
   "description": "Telnet Technoinfra Pvt Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.124.205.0/24",
+      "103.124.207.0/24"
+    ],
     "ipv6": []
   }
 }

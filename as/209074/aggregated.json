@@ -1,9 +1,11 @@
 {
   "asn": 209074,
-  "handle": "FIVESTARS-PLUS",
-  "description": "PE Fivestars Plus",
+  "handle": "X32",
+  "description": "Jonas Breuer",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a0e:97c0:900::/48"
+    ]
   }
 }

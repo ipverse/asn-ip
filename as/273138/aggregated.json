@@ -4,6 +4,7 @@
   "description": "FIBRANETPLUS S.A.S.",
   "subnets": {
     "ipv4": [
+      "31.56.215.0/24",
       "38.224.40.0/22"
     ],
     "ipv6": [

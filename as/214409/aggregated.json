@@ -3,7 +3,9 @@
   "handle": "ROBOTICNODELTD",
   "description": "Robotic Node LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "66.118.247.0/24"
+    ],
     "ipv6": []
   }
 }

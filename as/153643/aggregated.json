@@ -1,0 +1,11 @@
+{
+  "asn": 153643,
+  "handle": "CHW-AP",
+  "description": "Central Highlands Water",
+  "subnets": {
+    "ipv4": [
+      "163.223.184.0/24"
+    ],
+    "ipv6": []
+  }
+}

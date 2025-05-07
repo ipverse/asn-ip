@@ -3,9 +3,7 @@
   "handle": "IZUMA-PROD-1",
   "description": "Izuma Networks Inc.",
   "subnets": {
-    "ipv4": [
-      "38.97.2.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

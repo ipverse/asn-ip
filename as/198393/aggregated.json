@@ -4,7 +4,6 @@
   "description": "VIRTUAL TELECOM SP. Z O.O.",
   "subnets": {
     "ipv4": [
-      "91.231.9.0/24",
       "91.231.12.0/22"
     ],
     "ipv6": []

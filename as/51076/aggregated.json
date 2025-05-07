@@ -4,7 +4,8 @@
   "description": "Chelombitko Elena Evgenevna",
   "subnets": {
     "ipv4": [
-      "80.242.61.0/24"
+      "80.242.61.0/24",
+      "91.192.94.0/24"
     ],
     "ipv6": []
   }
