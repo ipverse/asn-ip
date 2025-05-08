@@ -3,9 +3,7 @@
   "handle": "CYBERPORT",
   "description": "Cyberport SE",
   "subnets": {
-    "ipv4": [
-      "91.143.242.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

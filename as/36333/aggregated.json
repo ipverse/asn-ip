@@ -4,6 +4,7 @@
   "description": "Republic Bank \u0026 Trust Company",
   "subnets": {
     "ipv4": [
+      "128.136.51.0/24",
       "207.174.156.0/24",
       "216.26.182.0/24"
     ],

@@ -4,6 +4,7 @@
   "description": "LINK CONNECT SERVICES (PTY) LTD",
   "subnets": {
     "ipv4": [
+      "102.206.212.0/22",
       "102.216.16.0/22"
     ],
     "ipv6": []

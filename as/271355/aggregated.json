@@ -4,8 +4,7 @@
   "description": "NEOTECH PROVEDOR DE INTERNET LTDA",
   "subnets": {
     "ipv4": [
-      "181.232.136.0/24",
-      "181.232.138.0/23"
+      "181.232.136.0/22"
     ],
     "ipv6": []
   }

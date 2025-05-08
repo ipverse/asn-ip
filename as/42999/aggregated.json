@@ -3,7 +3,9 @@
   "handle": "EKOL",
   "description": "Ekol Lojistik AS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.200.188.0/24"
+    ],
     "ipv6": []
   }
 }

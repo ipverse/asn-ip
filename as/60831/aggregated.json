@@ -4,7 +4,8 @@
   "description": "Arkadia Spolka Cywilna Krysztof Rozmus Barbara Rozmus",
   "subnets": {
     "ipv4": [
-      "91.236.163.0/24"
+      "91.236.163.0/24",
+      "91.236.172.0/22"
     ],
     "ipv6": []
   }

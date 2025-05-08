@@ -1,0 +1,11 @@
+{
+  "asn": 153729,
+  "handle": "IDNIC-TIJ-ID",
+  "description": "PT Tekno Indo Jaya",
+  "subnets": {
+    "ipv4": [
+      "163.223.112.0/24"
+    ],
+    "ipv6": []
+  }
+}

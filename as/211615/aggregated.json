@@ -4,6 +4,8 @@
   "description": "Netaris SAS",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a12:5840:2410::/48"
+    ]
   }
 }

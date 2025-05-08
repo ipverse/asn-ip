@@ -3,7 +3,11 @@
   "handle": "SOUTHWESTERN-EDU",
   "description": "Southwestern University",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "161.13.0.0/19",
+      "161.13.64.0/18",
+      "161.13.128.0/17"
+    ],
     "ipv6": []
   }
 }

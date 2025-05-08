@@ -4,7 +4,8 @@
   "description": "Click Connect Proprietary Limited",
   "subnets": {
     "ipv4": [
-      "102.208.32.0/22"
+      "102.208.32.0/23",
+      "102.208.35.0/24"
     ],
     "ipv6": []
   }

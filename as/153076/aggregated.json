@@ -3,7 +3,9 @@
   "handle": "IDNIC-ANTSAN-ID",
   "description": "PT SAVINDA ANTAR NUSANTARA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "160.25.182.0/23"
+    ],
     "ipv6": []
   }
 }
