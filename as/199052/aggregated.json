@@ -3,9 +3,7 @@
   "handle": "AQUAHOST",
   "description": "AquaHost LTD",
   "subnets": {
-    "ipv4": [
-      "156.229.247.0/24"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2a13:bec0::/29"
     ]

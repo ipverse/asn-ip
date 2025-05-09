@@ -1,9 +1,11 @@
 {
   "asn": 212166,
-  "handle": "LCELLA",
-  "description": "Luigi Cella",
+  "handle": "TOMORROW",
+  "description": "TOMORROW WORLD COMMUNICATION SOLUTIONS LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "89.39.245.0/24"
+    ],
     "ipv6": []
   }
 }

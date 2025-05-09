@@ -1,0 +1,11 @@
+{
+  "asn": 274670,
+  "handle": "TRIBUNAL-CONTAS-RIO-JANEIRO",
+  "description": "Tribunal de Contas do Estado do Rio de Janeiro",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2801:81:90::/48"
+    ]
+  }
+}

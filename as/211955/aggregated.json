@@ -4,6 +4,7 @@
   "description": "NOTBAD HOSTING LTD",
   "subnets": {
     "ipv4": [
+      "81.29.146.0/24",
       "141.105.143.0/24"
     ],
     "ipv6": []

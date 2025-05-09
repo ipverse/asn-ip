@@ -3,9 +3,7 @@
   "handle": "BIG-DATA",
   "description": "BIG DATA S.A.S",
   "subnets": {
-    "ipv4": [
-      "131.255.17.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

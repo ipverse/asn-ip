@@ -3,7 +3,11 @@
   "handle": "TBB",
   "description": "BUNNY TECHNOLOGY LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "70.39.185.0/24",
+      "70.39.186.0/23",
+      "172.121.190.0/24"
+    ],
     "ipv6": []
   }
 }

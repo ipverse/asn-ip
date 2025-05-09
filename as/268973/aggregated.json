@@ -4,7 +4,8 @@
   "description": "CARVALHOS SERVIOS DE INFORMATICA LTDA - ME",
   "subnets": {
     "ipv4": [
-      "45.176.252.0/22"
+      "45.176.252.0/22",
+      "177.87.44.0/22"
     ],
     "ipv6": [
       "2804:5d74::/32"

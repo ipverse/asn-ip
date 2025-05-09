@@ -3,11 +3,7 @@
   "handle": "INGSERVIS",
   "description": "ING SERVIS d.o.o.",
   "subnets": {
-    "ipv4": [
-      "82.193.199.0/24"
-    ],
-    "ipv6": [
-      "2001:67c:2920::/48"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

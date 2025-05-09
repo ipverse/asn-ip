@@ -1,9 +1,11 @@
 {
   "asn": 149296,
-  "handle": "RESERVED",
-  "description": "APNIC ASN block",
+  "handle": "TIANFENG-AP",
+  "description": "TIANFENG (HONG KONG) COMMUNICATIONS LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.129.54.0/24"
+    ],
     "ipv6": []
   }
 }

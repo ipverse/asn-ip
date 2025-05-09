@@ -1,0 +1,13 @@
+{
+  "asn": 209414,
+  "handle": "SCALEFAIR",
+  "description": "ScaleFair Ltd",
+  "subnets": {
+    "ipv4": [
+      "151.242.99.0/24"
+    ],
+    "ipv6": [
+      "2a12:bec4:19d0::/44"
+    ]
+  }
+}
