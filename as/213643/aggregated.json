@@ -1,0 +1,13 @@
+{
+  "asn": 213643,
+  "handle": "REBELLTEL",
+  "description": "ReBell Telecommunication Zrt.",
+  "subnets": {
+    "ipv4": [
+      "84.21.11.0/24",
+      "84.21.15.0/24",
+      "217.113.53.0/24"
+    ],
+    "ipv6": []
+  }
+}

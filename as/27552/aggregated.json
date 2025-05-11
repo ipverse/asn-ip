@@ -4,6 +4,7 @@
   "description": "TowardEX Technologies International, Inc.",
   "subnets": {
     "ipv4": [
+      "69.72.24.0/22",
       "162.219.96.0/24",
       "162.223.52.0/22",
       "185.134.180.0/22",

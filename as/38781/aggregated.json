@@ -3,7 +3,9 @@
   "handle": "MASNET-ID",
   "description": "PT. Mitra Abdi Solusi",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "202.129.224.0/22"
+    ],
     "ipv6": []
   }
 }

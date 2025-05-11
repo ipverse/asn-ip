@@ -3,7 +3,9 @@
   "handle": "COMPUTLE",
   "description": "Computle Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "151.243.39.0/24"
+    ],
     "ipv6": []
   }
 }

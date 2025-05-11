@@ -4,7 +4,8 @@
   "description": "GreenNetworks LLC",
   "subnets": {
     "ipv4": [
-      "45.136.52.0/22"
+      "45.136.52.0/23",
+      "45.136.54.0/24"
     ],
     "ipv6": []
   }
