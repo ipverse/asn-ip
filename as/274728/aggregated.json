@@ -3,7 +3,11 @@
   "handle": "VOE-NETWORKS-SERVICOS",
   "description": "VOE NETWORKS SERVICOS DE TELECOMUNICACOES LTDA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "156.235.49.0/24"
+    ],
+    "ipv6": [
+      "2804:92b4::/32"
+    ]
   }
 }
