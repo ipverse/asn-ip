@@ -4,6 +4,7 @@
   "description": "The Weather Company",
   "subnets": {
     "ipv4": [
+      "96.8.89.0/24",
       "96.8.92.0/24"
     ],
     "ipv6": []

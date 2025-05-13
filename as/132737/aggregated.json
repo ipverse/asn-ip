@@ -3,7 +3,9 @@
   "handle": "NETWAVE-TW",
   "description": "NetWave CATV Corporation",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "202.153.190.0/24"
+    ],
     "ipv6": []
   }
 }

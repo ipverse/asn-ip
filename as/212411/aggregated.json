@@ -3,9 +3,7 @@
   "handle": "PACKETWALL",
   "description": "PacketWall Solutions LLC",
   "subnets": {
-    "ipv4": [
-      "151.243.226.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

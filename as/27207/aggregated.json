@@ -1,9 +1,11 @@
 {
   "asn": 27207,
-  "handle": "CORPORATE-ONE-FCU",
-  "description": "Corporate One Federal Credit Union",
+  "handle": "SUKHADIA-LLC",
+  "description": "SUKHADIA AND SUKHADIA, L.L.C.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "23.135.180.0/24"
+    ],
     "ipv6": []
   }
 }

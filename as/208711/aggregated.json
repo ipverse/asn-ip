@@ -1,9 +1,11 @@
 {
   "asn": 208711,
-  "handle": "DESAFIOHOSTING",
-  "description": "DESAFIO INTERNET S.L.",
+  "handle": "VYPER-HOSTING",
+  "description": "Vyper Hosting Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.218.34.0/24"
+    ],
     "ipv6": []
   }
 }
