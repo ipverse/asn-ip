@@ -4,7 +4,8 @@
   "description": "Pengelola Nama Domain Internet Indonesia",
   "subnets": {
     "ipv4": [
-      "45.126.56.0/22",
+      "45.126.57.0/24",
+      "45.126.58.0/23",
       "103.19.176.0/22"
     ],
     "ipv6": [

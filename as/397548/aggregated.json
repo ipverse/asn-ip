@@ -1,9 +1,11 @@
 {
   "asn": 397548,
-  "handle": "SPECTRUMLINK",
-  "description": "Spectrum Link, Inc.",
+  "handle": "YTC907",
+  "description": "Yakutat Telecom Company, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "64.39.70.0/23"
+    ],
     "ipv6": []
   }
 }
