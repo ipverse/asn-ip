@@ -1,7 +1,7 @@
 {
   "asn": 37889,
-  "handle": "JPARC-NET",
-  "description": "J-PARC Center",
+  "handle": "JPARC",
+  "description": "Japan Proton Accelerator Research Complex",
   "subnets": {
     "ipv4": [
       "192.153.105.0/24",

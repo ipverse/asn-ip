@@ -1,9 +1,11 @@
 {
   "asn": 209710,
-  "handle": "RESERVED",
-  "description": "RIPE NCC ASN block",
+  "handle": "SNRD",
+  "description": "KIM SEYOUNG",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a14:7580:ff51::/48"
+    ]
   }
 }

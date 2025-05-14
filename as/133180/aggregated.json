@@ -4,6 +4,7 @@
   "description": "Starbow Ltd.",
   "subnets": {
     "ipv4": [
+      "45.192.2.0/24",
       "154.84.135.0/24"
     ],
     "ipv6": []

@@ -4,6 +4,7 @@
   "description": "EXODUS DANISMANLIK SANAYI VE TICARET LTD STI",
   "subnets": {
     "ipv4": [
+      "85.153.208.0/24",
       "194.9.180.0/24"
     ],
     "ipv6": []

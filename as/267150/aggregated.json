@@ -4,10 +4,8 @@
   "description": "CLICK NET SOLUES EM INTERNET LTDA",
   "subnets": {
     "ipv4": [
-      "45.230.56.0/22"
+      "45.230.59.0/24"
     ],
-    "ipv6": [
-      "2804:48e0::/32"
-    ]
+    "ipv6": []
   }
 }

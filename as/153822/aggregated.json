@@ -3,7 +3,9 @@
   "handle": "IDNIC-EKONEK-ID",
   "description": "PT EMLIMA KONEKSI NUSANTARA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "163.227.135.0/24"
+    ],
     "ipv6": []
   }
 }

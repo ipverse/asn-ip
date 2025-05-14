@@ -3,7 +3,9 @@
   "handle": "DANFOSS-NET",
   "description": "LLC Danfoss",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.230.218.0/24"
+    ],
     "ipv6": []
   }
 }

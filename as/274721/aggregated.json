@@ -3,9 +3,7 @@
   "handle": "M-COSTA-MC-NET-INTERNET-RURAL",
   "description": "M A COSTA MC NET - INTERNET RURAL",
   "subnets": {
-    "ipv4": [
-      "45.166.67.0/24"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2804:9298::/32"
     ]

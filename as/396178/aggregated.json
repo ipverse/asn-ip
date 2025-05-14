@@ -1,5 +1,7 @@
 {
   "asn": 396178,
+  "handle": "G-CLOUD-AGENT-TRAFFIC",
+  "description": "Google LLC",
   "subnets": {
     "ipv4": [
       "136.121.16.0/24"
