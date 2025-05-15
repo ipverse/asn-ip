@@ -3,7 +3,9 @@
   "handle": "GRAZHDANIN",
   "description": "Grazhdanin LLP",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "31.130.136.0/24"
+    ],
     "ipv6": []
   }
 }

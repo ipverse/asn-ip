@@ -1,0 +1,14 @@
+{
+  "asn": 397511,
+  "handle": "PURDUE-RESEARCH",
+  "description": "Purdue University",
+  "subnets": {
+    "ipv4": [
+      "128.211.128.0/19",
+      "128.211.160.0/22"
+    ],
+    "ipv6": [
+      "2607:ac80:100::/40"
+    ]
+  }
+}

@@ -3,7 +3,9 @@
   "handle": "SRO",
   "description": "AS54444 s.r.o.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "31.56.71.0/24"
+    ],
     "ipv6": [
       "2001:678:290::/48"
     ]

@@ -4,6 +4,7 @@
   "description": "Compute Arizona LLC",
   "subnets": {
     "ipv4": [
+      "67.14.241.0/24",
       "103.20.188.0/22"
     ],
     "ipv6": [

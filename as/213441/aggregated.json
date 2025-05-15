@@ -4,7 +4,8 @@
   "description": "SLAYER GROUP LIMITED",
   "subnets": {
     "ipv4": [
-      "115.167.3.0/24"
+      "115.167.3.0/24",
+      "175.110.99.0/24"
     ],
     "ipv6": []
   }

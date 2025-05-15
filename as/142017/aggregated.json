@@ -3,7 +3,11 @@
   "handle": "IMMENSEA-AP",
   "description": "Immensea Networks Pty Ltd",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "103.187.104.0/24"
+    ],
+    "ipv6": [
+      "2001:df0:cdc0::/48"
+    ]
   }
 }

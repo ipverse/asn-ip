@@ -1,0 +1,13 @@
+{
+  "asn": 153589,
+  "handle": "VOLVO-GROUP-IT-APNIC-AP",
+  "description": "VOLVO GROUP KOREA CO LTD, Construction Equipment Seoul",
+  "subnets": {
+    "ipv4": [
+      "153.112.128.0/24",
+      "192.71.161.0/24",
+      "192.131.25.0/24"
+    ],
+    "ipv6": []
+  }
+}

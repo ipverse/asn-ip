@@ -4,6 +4,7 @@
   "description": "TREND MICRO INCORPORATED",
   "subnets": {
     "ipv4": [
+      "66.180.80.0/20",
       "150.70.0.0/20",
       "150.70.176.0/20",
       "150.70.224.0/20",

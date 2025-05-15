@@ -4,6 +4,7 @@
   "description": "Pau Poyatos Fuentes",
   "subnets": {
     "ipv4": [
+      "82.25.52.0/22",
       "91.239.217.0/24"
     ],
     "ipv6": []

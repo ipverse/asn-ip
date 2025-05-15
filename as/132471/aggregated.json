@@ -1,10 +1,11 @@
 {
   "asn": 132471,
-  "handle": "MTNAFGHANISTAN-AP",
-  "description": "MTN Afghanistan",
+  "handle": "ATOMA-AP",
+  "description": "ATOMA",
   "subnets": {
     "ipv4": [
-      "59.153.124.0/22",
+      "59.153.125.0/24",
+      "59.153.126.0/23",
       "103.30.136.0/23",
       "103.30.138.0/24",
       "149.54.5.0/24",

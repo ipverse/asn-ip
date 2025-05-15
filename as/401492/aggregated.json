@@ -3,7 +3,9 @@
   "handle": "WINDING-RIVERS-LIBRARY-SYSTEM",
   "description": "Winding Rivers Library System",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "205.213.8.0/24"
+    ],
     "ipv6": []
   }
 }

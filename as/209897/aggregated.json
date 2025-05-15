@@ -1,9 +1,12 @@
 {
   "asn": 209897,
-  "handle": "MEDINETWORKS",
-  "description": "Jcom Net s.r.l.",
+  "handle": "PARTENA-BE",
+  "description": "Partena Business Solutions sa",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.149.253.0/24",
+      "193.149.255.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -4,6 +4,7 @@
   "description": "Citadel Federal Credit Union",
   "subnets": {
     "ipv4": [
+      "50.148.204.0/24",
       "74.8.209.0/24"
     ],
     "ipv6": []

@@ -3,7 +3,9 @@
   "handle": "DIAMANTE-GERAO-ENERGIA",
   "description": "DIAMANTE GERAO DE ENERGIA LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "200.218.235.0/24"
+    ],
     "ipv6": []
   }
 }

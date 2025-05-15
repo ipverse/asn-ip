@@ -4,9 +4,6 @@
   "description": "GREENCLOUD LIMITED LIABILITY COMPANY",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2400:6ea0::/48",
-      "2401:8260::/48"
-    ]
+    "ipv6": []
   }
 }

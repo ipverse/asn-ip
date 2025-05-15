@@ -4,7 +4,8 @@
   "description": "Netnt Sistemas e Informatica Ltda",
   "subnets": {
     "ipv4": [
-      "177.84.248.0/22"
+      "177.84.248.0/23",
+      "177.84.250.0/24"
     ],
     "ipv6": [
       "2804:2890::/32"

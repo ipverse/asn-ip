@@ -1,9 +1,11 @@
 {
   "asn": 210554,
-  "handle": "RKSHOSTING",
-  "description": "RKS HOSTING LLC",
+  "handle": "METEORCLOUD",
+  "description": "Meteor Cloud LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.48.242.0/24"
+    ],
     "ipv6": []
   }
 }

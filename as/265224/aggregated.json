@@ -3,7 +3,10 @@
   "handle": "M-DANTAS",
   "description": "M. DANTAS E CIA LTDA ME",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "167.250.216.0/22",
+      "170.239.40.0/22"
+    ],
     "ipv6": [
       "2804:2c84::/32"
     ]

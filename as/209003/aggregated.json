@@ -1,9 +1,11 @@
 {
   "asn": 209003,
-  "handle": "RESERVED",
-  "description": "RIPE NCC ASN block",
+  "handle": "GENIUS-GUARD",
+  "description": "Geniusx Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.186.55.0/24"
+    ],
     "ipv6": []
   }
 }

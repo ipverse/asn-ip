@@ -3,7 +3,9 @@
   "handle": "PATS-AP",
   "description": "PT AtoZ Teknik Sejahtera",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "163.223.160.0/23"
+    ],
     "ipv6": []
   }
 }
