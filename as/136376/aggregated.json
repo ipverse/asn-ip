@@ -4,8 +4,7 @@
   "description": "Udayatel Communications Private Limited",
   "subnets": {
     "ipv4": [
-      "103.99.17.0/24",
-      "103.99.18.0/24"
+      "103.99.16.0/22"
     ],
     "ipv6": []
   }

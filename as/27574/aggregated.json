@@ -3,7 +3,9 @@
   "handle": "NTMWD-NORTH-TEXAS-MUNICIPAL-WATER-DISTRICT",
   "description": "North Texas Municipal Water District",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "205.166.116.0/24"
+    ],
     "ipv6": []
   }
 }

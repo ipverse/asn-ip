@@ -4,6 +4,7 @@
   "description": "Beckman Software Engineering",
   "subnets": {
     "ipv4": [
+      "192.100.4.0/24",
       "206.83.0.0/21"
     ],
     "ipv6": [

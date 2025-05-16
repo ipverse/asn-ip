@@ -1,0 +1,11 @@
+{
+  "asn": 274799,
+  "handle": "AVGNET-TELECOM",
+  "description": "AVGNET TELECOM LTDA",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2804:93c4::/32"
+    ]
+  }
+}

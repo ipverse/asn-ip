@@ -4,10 +4,8 @@
   "description": "Starnet.saj Acessrios e Servios LTDA",
   "subnets": {
     "ipv4": [
-      "45.227.204.0/22"
+      "45.227.207.0/24"
     ],
-    "ipv6": [
-      "2804:4714::/32"
-    ]
+    "ipv6": []
   }
 }

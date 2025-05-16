@@ -3,7 +3,9 @@
   "handle": "JOSE-DIVINO-OLIVEIRA",
   "description": "JOSE DIVINO DE OLIVEIRA \u0026 FILHO LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "200.115.104.0/22"
+    ],
     "ipv6": [
       "2804:6960::/32"
     ]

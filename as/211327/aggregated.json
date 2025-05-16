@@ -1,9 +1,11 @@
 {
   "asn": 211327,
-  "handle": "RESERVED",
-  "description": "RIPE NCC ASN block",
+  "handle": "CODEVAULT",
+  "description": "CODEVAULT SRL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "80.96.81.0/24"
+    ],
     "ipv6": []
   }
 }

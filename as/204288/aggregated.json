@@ -4,6 +4,7 @@
   "description": "LTD ITLUX",
   "subnets": {
     "ipv4": [
+      "91.210.110.0/24",
       "193.33.38.0/23"
     ],
     "ipv6": []

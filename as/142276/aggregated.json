@@ -1,9 +1,11 @@
 {
   "asn": 142276,
-  "handle": "RESERVED",
-  "description": "APNIC ASN block",
+  "handle": "NETBLUE-AP",
+  "description": "NetBlue Services Pty Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "163.227.208.0/24"
+    ],
     "ipv6": []
   }
 }

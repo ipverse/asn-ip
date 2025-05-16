@@ -3,10 +3,7 @@
   "handle": "NETWORKS-RENT",
   "description": "SC ITNS.NET SRL",
   "subnets": {
-    "ipv4": [
-      "62.106.83.0/24",
-      "146.19.228.0/24"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2a0f:63c1::/32"
     ]

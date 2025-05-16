@@ -4,6 +4,7 @@
   "description": "Sichuan Xiaoteyun Technology Co., Ltd",
   "subnets": {
     "ipv4": [
+      "110.40.48.0/24",
       "144.48.180.0/24"
     ],
     "ipv6": []

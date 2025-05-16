@@ -3,7 +3,9 @@
   "handle": "SUPERNET-LINE-SERVICO",
   "description": "SUPERNET LINE SERVICO DE COMUNICACOES LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.156.18.0/24"
+    ],
     "ipv6": [
       "2804:93d0::/32"
     ]

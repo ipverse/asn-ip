@@ -1,0 +1,11 @@
+{
+  "asn": 3754,
+  "handle": "NYSERNET3",
+  "description": "NYSERNet",
+  "subnets": {
+    "ipv4": [
+      "163.223.77.0/24"
+    ],
+    "ipv6": []
+  }
+}

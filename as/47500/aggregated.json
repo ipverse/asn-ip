@@ -3,7 +3,10 @@
   "handle": "BLACKHOLE",
   "description": "SC ITNS.NET SRL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.115.92.0/22",
+      "195.14.98.0/24"
+    ],
     "ipv6": []
   }
 }
