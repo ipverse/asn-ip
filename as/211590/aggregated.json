@@ -3,7 +3,9 @@
   "handle": "BUCKLOG",
   "description": "Bucklog SARL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "170.39.217.0/24"
+    ],
     "ipv6": []
   }
 }

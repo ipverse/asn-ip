@@ -3,11 +3,7 @@
   "handle": "GPT-GLOBAL-PAICANDU",
   "description": "GPT - GLOBAL PAICANDU TELECOM LTDA - ME",
   "subnets": {
-    "ipv4": [
-      "138.204.172.0/22"
-    ],
-    "ipv6": [
-      "2804:2794::/32"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

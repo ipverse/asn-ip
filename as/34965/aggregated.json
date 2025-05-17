@@ -3,7 +3,9 @@
   "handle": "IDEON",
   "description": "WE2U AB",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "85.235.0.0/20"
+    ],
     "ipv6": []
   }
 }

@@ -1,9 +1,11 @@
 {
   "asn": 208385,
-  "handle": "RICKEYSFRANCISJR",
-  "description": "Rickey S Francis Jr",
+  "handle": "ALERTABREVIA",
+  "description": "Alertabreviado - Lda",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a0c:b641:470::/44"
+    ]
   }
 }

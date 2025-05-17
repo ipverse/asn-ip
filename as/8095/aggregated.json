@@ -1,9 +1,11 @@
 {
   "asn": 8095,
-  "handle": "NETVALUE",
-  "description": "Netvalue, Inc.",
+  "handle": "LIGHTSTACKGLOBAL",
+  "description": "LightStack Global LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "23.188.88.0/24"
+    ],
     "ipv6": []
   }
 }

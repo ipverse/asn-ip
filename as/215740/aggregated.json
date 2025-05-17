@@ -1,9 +1,11 @@
 {
   "asn": 215740,
-  "handle": "RESERVED",
-  "description": "RIPE NCC ASN block",
+  "handle": "NETULU-EU",
+  "description": "Netulu Incorporated",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.3.63.0/24"
+    ],
     "ipv6": []
   }
 }

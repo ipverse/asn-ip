@@ -3,11 +3,7 @@
   "handle": "BASAK",
   "description": "Basak Telecom Private Limited",
   "subnets": {
-    "ipv4": [
-      "103.94.106.0/23"
-    ],
-    "ipv6": [
-      "2001:df4:a840::/48"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }
