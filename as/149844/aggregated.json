@@ -4,7 +4,7 @@
   "description": "Connect Communication",
   "subnets": {
     "ipv4": [
-      "182.189.92.0/22"
+      "182.189.92.0/23"
     ],
     "ipv6": [
       "2406:d00:ccc5::/48"

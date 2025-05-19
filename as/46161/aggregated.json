@@ -3,7 +3,9 @@
   "handle": "NEUNER",
   "description": "Neuner Mobile Technologies LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "23.135.28.0/24"
+    ],
     "ipv6": [
       "2602:f6dc:8::/48"
     ]

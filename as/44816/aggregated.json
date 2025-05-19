@@ -3,11 +3,7 @@
   "handle": "DELFINTELECOM",
   "description": "Delfin Telecom OOO",
   "subnets": {
-    "ipv4": [
-      "93.94.152.0/21",
-      "185.119.65.0/24",
-      "185.119.66.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

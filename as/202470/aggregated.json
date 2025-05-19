@@ -3,10 +3,7 @@
   "handle": "CLOUD",
   "description": "Eurotelecom SRL",
   "subnets": {
-    "ipv4": [
-      "109.107.146.0/24",
-      "193.30.30.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

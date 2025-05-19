@@ -3,7 +3,9 @@
   "handle": "ASBATTYHOST",
   "description": "CARDOCK HOSTING LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.22.229.0/24"
+    ],
     "ipv6": []
   }
 }

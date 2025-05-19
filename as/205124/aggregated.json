@@ -3,9 +3,7 @@
   "handle": "COLOCATION",
   "description": "Uplink SRL",
   "subnets": {
-    "ipv4": [
-      "147.78.20.0/22"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

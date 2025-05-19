@@ -3,7 +3,9 @@
   "handle": "USERCLOUD",
   "description": "Pfcloud UG",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "176.46.157.0/24"
+    ],
     "ipv6": [
       "2a13:da04::/32",
       "2a13:e404::/32"

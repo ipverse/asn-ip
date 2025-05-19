@@ -4,7 +4,8 @@
   "description": "Aurorix Gaming Solutions Limited",
   "subnets": {
     "ipv4": [
-      "89.35.130.0/24"
+      "89.35.130.0/24",
+      "185.176.94.0/24"
     ],
     "ipv6": [
       "2a06:de00:dde0::/44"

@@ -4,6 +4,7 @@
   "description": "OKINET LLC",
   "subnets": {
     "ipv4": [
+      "37.202.195.0/24",
       "45.90.16.0/24"
     ],
     "ipv6": []

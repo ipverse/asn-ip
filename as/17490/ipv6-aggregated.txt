@@ -1,6 +1,9 @@
 # AS17490 (ETFIBERNET)
 # 3/F,Yi Qing Building,Hua Jing Xin Cheng,Guangzhou
 #
-2401:9a00::/44
+2401:9a00::/45
+2401:9a00:9::/48
+2401:9a00:a::/47
+2401:9a00:c::/46
 2401:9a00:11::/48
 2401:9a00:12::/47

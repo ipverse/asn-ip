@@ -3,7 +3,9 @@
   "handle": "IDNIC-JANSAE-ID",
   "description": "PT Takalink Access Indonesia",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "160.22.34.0/24"
+    ],
     "ipv6": []
   }
 }

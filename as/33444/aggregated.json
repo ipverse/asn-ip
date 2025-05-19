@@ -3,7 +3,9 @@
   "handle": "TAZEWELL-CO-VA-GOVT",
   "description": "Tazewell County",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "208.77.224.0/21"
+    ],
     "ipv6": []
   }
 }
