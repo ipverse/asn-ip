@@ -3,9 +3,7 @@
   "handle": "DOUBLE-C-SRL",
   "description": "DOUBLE-C-SRL",
   "subnets": {
-    "ipv4": [
-      "95.134.180.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

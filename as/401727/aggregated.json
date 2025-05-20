@@ -1,0 +1,11 @@
+{
+  "asn": 401727,
+  "handle": "MEOWNET",
+  "description": "Aurora Development LLC",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2602:fc41:100::/40"
+    ]
+  }
+}

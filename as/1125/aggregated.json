@@ -1,0 +1,11 @@
+{
+  "asn": 1125,
+  "handle": "SURF-BV",
+  "description": "SURF B.V.",
+  "subnets": {
+    "ipv4": [
+      "163.253.63.0/24"
+    ],
+    "ipv6": []
+  }
+}

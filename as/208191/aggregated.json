@@ -1,0 +1,12 @@
+{
+  "asn": 208191,
+  "handle": "GOHOST",
+  "description": "Go Host Ltd",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a14:c380:160::/43",
+      "2a14:c380:180::/43"
+    ]
+  }
+}

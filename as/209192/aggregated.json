@@ -1,0 +1,11 @@
+{
+  "asn": 209192,
+  "handle": "SARNET-TELEKOMUNIKASYON",
+  "description": "SARNET TELEKOMUNIKASYON A.S.",
+  "subnets": {
+    "ipv4": [
+      "109.236.50.0/24"
+    ],
+    "ipv6": []
+  }
+}

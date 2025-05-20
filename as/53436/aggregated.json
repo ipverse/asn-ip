@@ -1,9 +1,11 @@
 {
   "asn": 53436,
-  "handle": "TELLZA",
-  "description": "Tellza Technologies",
+  "handle": "KIRKLAND-ELLIS-PH",
+  "description": "Kirkland \u0026 Ellis LLP",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "137.169.51.0/24"
+    ],
     "ipv6": []
   }
 }

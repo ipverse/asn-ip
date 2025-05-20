@@ -3,7 +3,9 @@
   "handle": "NETARIS",
   "description": "Netaris SAS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.152.70.0/24"
+    ],
     "ipv6": [
       "2a12:5840:2410::/48"
     ]

@@ -3,7 +3,9 @@
   "handle": "CONEXAO-MAIS-EMPRESA",
   "description": "CONEXAO MAIS EMPRESA DE TELECOMUNICAES LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.56.244.0/23"
+    ],
     "ipv6": [
       "2804:940c::/32"
     ]

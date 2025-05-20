@@ -3,7 +3,10 @@
   "handle": "SOTLINE",
   "description": "SOT LINE Limited Company",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "79.133.160.0/21",
+      "79.133.172.0/22"
+    ],
     "ipv6": []
   }
 }

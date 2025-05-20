@@ -4,7 +4,6 @@
   "description": "Inmarsat Government",
   "subnets": {
     "ipv4": [
-      "74.84.54.0/24",
       "74.84.57.0/24",
       "74.84.59.0/24"
     ],

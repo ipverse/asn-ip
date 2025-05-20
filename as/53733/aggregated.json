@@ -3,7 +3,9 @@
   "handle": "JERICH-USA-INC",
   "description": "Jerich USA Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "148.66.38.0/24"
+    ],
     "ipv6": []
   }
 }

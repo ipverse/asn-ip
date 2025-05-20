@@ -1,9 +1,11 @@
 {
   "asn": 136769,
-  "handle": "WINGTECJAPANGK-AP",
-  "description": "WingTecJapan G.K",
+  "handle": "GFITCL-AP",
+  "description": "Guangzhou Fengyun Information Technology Co., Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "160.250.24.0/23"
+    ],
     "ipv6": []
   }
 }

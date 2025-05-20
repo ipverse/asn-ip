@@ -3,7 +3,9 @@
   "handle": "PULSENET-OPTIBAND",
   "description": "PulseNET",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.255.168.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -4,6 +4,7 @@
   "description": "SISTEMAS INFORMATICOS S.A.S. (INTERFLASH)",
   "subnets": {
     "ipv4": [
+      "38.211.27.0/24",
       "45.232.0.0/22"
     ],
     "ipv6": []

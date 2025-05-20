@@ -1,9 +1,11 @@
 {
   "asn": 214966,
-  "handle": "RESERVED",
-  "description": "RIPE NCC ASN block",
+  "handle": "WET",
+  "description": "Wetterskip Fryslan",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.53.216.0/21"
+    ],
     "ipv6": []
   }
 }

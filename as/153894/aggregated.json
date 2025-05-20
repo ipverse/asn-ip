@@ -1,0 +1,13 @@
+{
+  "asn": 153894,
+  "handle": "BADACOMMUNICATIONS-AP",
+  "description": "Bada Communications",
+  "subnets": {
+    "ipv4": [
+      "165.99.77.0/24"
+    ],
+    "ipv6": [
+      "2001:df5:8c40::/48"
+    ]
+  }
+}
