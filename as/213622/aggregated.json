@@ -1,11 +1,10 @@
 {
   "asn": 213622,
-  "handle": "BAREMETAL",
+  "handle": "FALCON",
   "description": "Falcon FZE LLC",
   "subnets": {
     "ipv4": [
       "23.130.28.0/24",
-      "89.106.64.0/23",
       "185.121.69.0/24"
     ],
     "ipv6": [

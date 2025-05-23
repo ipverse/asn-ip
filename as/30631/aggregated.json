@@ -3,7 +3,9 @@
   "handle": "VIPCONNECTIVITY",
   "description": "VIPConnectivity",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "23.185.56.0/24"
+    ],
     "ipv6": []
   }
 }

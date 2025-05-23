@@ -4,6 +4,7 @@
   "description": "INFOTEL ENGENHARIA \u0026 TELECOMUNICACOES SCM LTDA",
   "subnets": {
     "ipv4": [
+      "45.237.148.0/22",
       "170.150.136.0/22"
     ],
     "ipv6": [

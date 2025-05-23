@@ -4,7 +4,8 @@
   "description": "Zilean Solutions SL",
   "subnets": {
     "ipv4": [
-      "5.59.112.0/22"
+      "5.59.112.0/22",
+      "185.158.126.0/24"
     ],
     "ipv6": []
   }

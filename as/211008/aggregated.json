@@ -1,9 +1,11 @@
 {
   "asn": 211008,
-  "handle": "RESERVED",
-  "description": "RIPE NCC ASN block",
+  "handle": "LIKHNER",
+  "description": "Arturs Lihners",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a0f:85c1:c41::/48"
+    ]
   }
 }

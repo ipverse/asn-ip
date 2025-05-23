@@ -3,7 +3,10 @@
   "handle": "OCTALION",
   "description": "OCTALION INC.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.214.109.0/24",
+      "176.102.171.0/24"
+    ],
     "ipv6": []
   }
 }

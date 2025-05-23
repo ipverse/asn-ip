@@ -4,8 +4,7 @@
   "description": "Neofelis Communications",
   "subnets": {
     "ipv4": [
-      "104.247.116.0/24",
-      "192.81.108.0/24"
+      "104.247.116.0/24"
     ],
     "ipv6": [
       "2602:f93a::/36",

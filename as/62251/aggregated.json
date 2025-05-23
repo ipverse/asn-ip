@@ -1,9 +1,12 @@
 {
   "asn": 62251,
-  "handle": "DREAMLESS",
+  "handle": "IPV6-TUNNELBROKER2",
   "description": "IP MARKET - FZCO",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a0d:8341::/32",
+      "2a0d:8342::/32"
+    ]
   }
 }

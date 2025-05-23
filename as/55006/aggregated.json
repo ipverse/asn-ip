@@ -4,7 +4,8 @@
   "description": "Volusia Sheriff\u0027s Office",
   "subnets": {
     "ipv4": [
-      "71.44.130.0/24"
+      "71.44.130.0/24",
+      "141.193.24.0/24"
     ],
     "ipv6": []
   }

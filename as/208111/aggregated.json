@@ -1,9 +1,11 @@
 {
   "asn": 208111,
-  "handle": "RESERVED",
-  "description": "RIPE NCC ASN block",
+  "handle": "BAREMETAL",
+  "description": "Falcon FZE LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "89.106.64.0/23"
+    ],
     "ipv6": []
   }
 }

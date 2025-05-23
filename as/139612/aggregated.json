@@ -3,9 +3,7 @@
   "handle": "CONTENTKEEPER-AP-HQ",
   "description": "ContentKeeper Technologies",
   "subnets": {
-    "ipv4": [
-      "203.22.30.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

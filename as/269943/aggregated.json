@@ -3,7 +3,9 @@
   "handle": "LUQUE-FEDERICO-GASTON",
   "description": "LUQUE FEDERICO GASTON (NEWFIX)",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "190.83.64.0/22"
+    ],
     "ipv6": []
   }
 }

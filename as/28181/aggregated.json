@@ -4,6 +4,7 @@
   "description": "MASTER TELECOM LTDA ME",
   "subnets": {
     "ipv4": [
+      "131.72.129.0/24",
       "179.97.16.0/21"
     ],
     "ipv6": [
