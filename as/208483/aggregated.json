@@ -1,9 +1,11 @@
 {
   "asn": 208483,
-  "handle": "RESERVED",
-  "description": "RIPE NCC ASN block",
+  "handle": "WERIDATA-LLC",
+  "description": "WERIDATA LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "31.57.225.0/24"
+    ],
     "ipv6": []
   }
 }

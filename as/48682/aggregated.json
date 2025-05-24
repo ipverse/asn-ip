@@ -3,7 +3,9 @@
   "handle": "IPSL",
   "description": "IP Space Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "176.124.70.0/24"
+    ],
     "ipv6": []
   }
 }

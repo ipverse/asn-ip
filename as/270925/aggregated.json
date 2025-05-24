@@ -4,11 +4,8 @@
   "description": "Fibramar Telecomunicaes Ltda",
   "subnets": {
     "ipv4": [
-      "186.26.81.0/24",
       "186.26.82.0/23"
     ],
-    "ipv6": [
-      "2804:7398:a00::/40"
-    ]
+    "ipv6": []
   }
 }

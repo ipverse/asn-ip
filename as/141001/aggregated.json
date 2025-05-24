@@ -3,7 +3,9 @@
   "handle": "FLINT-AP",
   "description": "Flinty Network",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "216.38.170.0/24"
+    ],
     "ipv6": []
   }
 }

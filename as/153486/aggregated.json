@@ -3,9 +3,7 @@
   "handle": "IDNIC-SICAKRA-ID",
   "description": "Indonesia Network Information Center",
   "subnets": {
-    "ipv4": [
-      "160.250.194.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

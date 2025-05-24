@@ -3,9 +3,7 @@
   "handle": "IDNIC-JAMKRIDAJABAR-ID",
   "description": "PT Jamkrida Jabar",
   "subnets": {
-    "ipv4": [
-      "160.22.100.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }
