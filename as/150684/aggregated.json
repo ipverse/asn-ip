@@ -3,7 +3,9 @@
   "handle": "JINXCOLIMITED-AP",
   "description": "JINX CO., LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.116.73.0/24"
+    ],
     "ipv6": []
   }
 }

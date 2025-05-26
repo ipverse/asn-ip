@@ -3,7 +3,9 @@
   "handle": "VIGHNAHAR",
   "description": "VIGHNAHARTA TELEINFRA PRIVATE LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.113.252.0/22"
+    ],
     "ipv6": []
   }
 }

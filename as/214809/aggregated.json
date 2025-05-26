@@ -3,7 +3,9 @@
   "handle": "STOCADE",
   "description": "Jere Kiitola trading as Stocade",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.139.88.0/24"
+    ],
     "ipv6": [
       "2a0a:6044:b300::/42"
     ]

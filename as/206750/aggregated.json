@@ -1,9 +1,11 @@
 {
   "asn": 206750,
-  "handle": "ENVER",
+  "handle": "TRANZIT",
   "description": "SC ITNS.NET SRL",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a0b:a4c0::/32"
+    ]
   }
 }

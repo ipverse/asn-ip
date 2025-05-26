@@ -1,9 +1,11 @@
 {
   "asn": 209982,
-  "handle": "LIBERTY",
+  "handle": "PEERING",
   "description": "SC ITNS.NET SRL",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a0b:a4c2::/32"
+    ]
   }
 }

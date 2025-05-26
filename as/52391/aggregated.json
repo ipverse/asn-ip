@@ -4,6 +4,7 @@
   "description": "Curacao Technology Exchange N.V (CTEX)",
   "subnets": {
     "ipv4": [
+      "38.43.69.0/24",
       "190.123.20.0/22",
       "216.122.184.0/23",
       "216.122.188.0/23"

@@ -3,7 +3,9 @@
   "handle": "HYPERGROUP-NET",
   "description": "Hyper Group Network Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "31.58.86.0/24"
+    ],
     "ipv6": [
       "2a14:7581:100::/46",
       "2a14:7581:105::/48",

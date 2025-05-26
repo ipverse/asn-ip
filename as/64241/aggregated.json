@@ -4,6 +4,7 @@
   "description": "Wobscale Technologies, LLC",
   "subnets": {
     "ipv4": [
+      "193.57.173.0/24",
       "209.251.245.0/24"
     ],
     "ipv6": [

@@ -4,6 +4,7 @@
   "description": "FNT SERVICOS DE COMUNICACAO MULTIMIDIA LTDA - ME",
   "subnets": {
     "ipv4": [
+      "45.171.99.0/24",
       "45.171.152.0/22"
     ],
     "ipv6": [

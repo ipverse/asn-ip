@@ -1,9 +1,11 @@
 {
   "asn": 209868,
-  "handle": "ICG-NORD",
+  "handle": "HOSTING",
   "description": "SC ITNS.NET SRL",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a05:9a42::/32"
+    ]
   }
 }

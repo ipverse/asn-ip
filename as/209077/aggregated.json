@@ -1,9 +1,11 @@
 {
   "asn": 209077,
-  "handle": "NEWTON",
-  "description": "Simon Newton",
+  "handle": "CURRENDA",
+  "description": "CURRENDA SP. Z O.O.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.92.78.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,8 +3,11 @@
   "handle": "GUALBERTO-MIS-CAAMAL",
   "description": "Gualberto Mis Caamal",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "168.196.3.0/24"
+    ],
     "ipv6": [
+      "2001:1248:8868::/48",
       "2806:3e0::/32"
     ]
   }

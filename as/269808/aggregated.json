@@ -4,7 +4,8 @@
   "description": "COOP DE PROVISION DE SERVICIOS DE OBRAS AGUA POTABLE Y OTROS PUB DE J B ALBERDI",
   "subnets": {
     "ipv4": [
-      "45.186.44.0/22"
+      "45.186.44.0/23",
+      "45.186.46.0/24"
     ],
     "ipv6": []
   }
