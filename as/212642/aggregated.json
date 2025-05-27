@@ -3,7 +3,9 @@
   "handle": "RUNNANE",
   "description": "GLOBALCONNECT AS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "89.221.111.0/24"
+    ],
     "ipv6": []
   }
 }

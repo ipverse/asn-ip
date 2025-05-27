@@ -3,7 +3,9 @@
   "handle": "GIS",
   "description": "Global Internet Services",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "176.102.170.0/24"
+    ],
     "ipv6": []
   }
 }

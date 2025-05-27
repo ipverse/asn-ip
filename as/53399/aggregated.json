@@ -3,7 +3,9 @@
   "handle": "CLARKSTOWN-CENTRAL-SCHOOL-DISTRICT",
   "description": "Clarkstown Central School District",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "70.34.80.0/20"
+    ],
     "ipv6": []
   }
 }

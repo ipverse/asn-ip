@@ -4,8 +4,6 @@
   "description": "VP BROADBAND PRIVATE LIMITED",
   "subnets": {
     "ipv4": [
-      "43.242.224.0/22",
-      "103.232.24.0/22",
       "160.250.146.0/23"
     ],
     "ipv6": []

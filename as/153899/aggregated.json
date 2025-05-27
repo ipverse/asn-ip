@@ -1,0 +1,11 @@
+{
+  "asn": 153899,
+  "handle": "JAGONET-AP",
+  "description": "Jago Net",
+  "subnets": {
+    "ipv4": [
+      "165.99.80.0/24"
+    ],
+    "ipv6": []
+  }
+}

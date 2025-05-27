@@ -3,7 +3,10 @@
   "handle": "METEORCLOUD",
   "description": "Meteor Cloud LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "151.243.24.0/24",
+      "199.48.242.0/24"
+    ],
     "ipv6": []
   }
 }

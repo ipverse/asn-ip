@@ -1,9 +1,11 @@
 {
   "asn": 207840,
-  "handle": "UNOCOMMS",
-  "description": "uno Communications Ltd.",
+  "handle": "XIWO-MOBILE",
+  "description": "XIWO MOBILE SASU",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "5.10.216.0/24"
+    ],
     "ipv6": []
   }
 }

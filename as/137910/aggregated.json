@@ -1,9 +1,11 @@
 {
   "asn": 137910,
-  "handle": "RESERVED",
-  "description": "APNIC ASN block",
+  "handle": "WAVECOMM-AP",
+  "description": "Wavecomm (Private) Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "163.61.136.0/23"
+    ],
     "ipv6": []
   }
 }

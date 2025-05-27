@@ -3,7 +3,9 @@
   "handle": "INOVANOC-SOLUCOES-EM",
   "description": "INOVANOC SOLUCOES EM SUPORTE LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "204.157.128.0/24"
+    ],
     "ipv6": [
       "2804:91e0::/40",
       "2804:91e0:fd00::/40",

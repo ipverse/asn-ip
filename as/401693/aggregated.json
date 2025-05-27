@@ -1,0 +1,11 @@
+{
+  "asn": 401693,
+  "handle": "CANI",
+  "description": "Brightpoint",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2602:81b:7000::/48"
+    ]
+  }
+}

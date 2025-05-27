@@ -1,9 +1,11 @@
 {
   "asn": 19944,
-  "handle": "TA-INSTRUMENTS",
-  "description": "TA Instruments",
+  "handle": "GRANITEIX-SERVICES",
+  "description": "GraniteIX LLC",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2602:f670::/40"
+    ]
   }
 }

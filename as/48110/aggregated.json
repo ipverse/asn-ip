@@ -1,0 +1,11 @@
+{
+  "asn": 48110,
+  "handle": "HARKNET",
+  "description": "Harknet LLC",
+  "subnets": {
+    "ipv4": [
+      "91.210.40.0/22"
+    ],
+    "ipv6": []
+  }
+}

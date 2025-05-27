@@ -3,7 +3,9 @@
   "handle": "TIANFENG-AP",
   "description": "TIANFENG (HONG KONG) COMMUNICATIONS LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "172.252.59.0/24"
+    ],
     "ipv6": []
   }
 }
