@@ -3,7 +3,9 @@
   "handle": "SYMEETRIC",
   "description": "Invermae Solutions SL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "115.124.36.0/22"
+    ],
     "ipv6": []
   }
 }

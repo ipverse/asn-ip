@@ -3,9 +3,7 @@
   "handle": "MT-MPLS",
   "description": "Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM",
   "subnets": {
-    "ipv4": [
-      "194.204.217.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

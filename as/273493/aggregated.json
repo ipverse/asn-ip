@@ -3,7 +3,9 @@
   "handle": "MARCIO-LUIS-SELL-TELECOM",
   "description": "Marcio Luis Sell Telecom-ME",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.10.155.0/24"
+    ],
     "ipv6": [
       "2804:8f7c::/32"
     ]

@@ -3,7 +3,9 @@
   "handle": "IDNIC-DIAPA-ID",
   "description": "PT Diapa Angkasa Nusaintegra",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "161.248.152.0/23"
+    ],
     "ipv6": []
   }
 }

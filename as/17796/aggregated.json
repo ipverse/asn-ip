@@ -4,8 +4,6 @@
   "description": "Philippine Long Distance Telephone Co.",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2407:9802:3000::/44"
-    ]
+    "ipv6": []
   }
 }

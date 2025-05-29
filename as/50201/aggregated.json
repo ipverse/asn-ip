@@ -1,0 +1,11 @@
+{
+  "asn": 50201,
+  "handle": "IMPULSO",
+  "description": "Impulso Srl",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a0b:93c0::/29"
+    ]
+  }
+}

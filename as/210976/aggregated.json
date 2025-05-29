@@ -1,0 +1,12 @@
+{
+  "asn": 210976,
+  "handle": "TWC-EU",
+  "description": "Timeweb, LLP",
+  "subnets": {
+    "ipv4": [
+      "147.45.136.0/24",
+      "185.125.203.0/24"
+    ],
+    "ipv6": []
+  }
+}

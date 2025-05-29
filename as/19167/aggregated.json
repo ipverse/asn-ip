@@ -4,7 +4,6 @@
   "description": "Lakeland Networks",
   "subnets": {
     "ipv4": [
-      "192.197.91.0/24",
       "204.16.100.0/22"
     ],
     "ipv6": []

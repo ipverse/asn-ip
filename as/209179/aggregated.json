@@ -3,7 +3,9 @@
   "handle": "AFRICLOUD",
   "description": "AfriCloud LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.63.29.0/24"
+    ],
     "ipv6": [
       "2a03:bb80::/48"
     ]

@@ -3,9 +3,7 @@
   "handle": "REY-CONNECT",
   "description": "REY CONNECT SRL",
   "subnets": {
-    "ipv4": [
-      "149.7.6.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

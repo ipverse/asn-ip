@@ -3,7 +3,9 @@
   "handle": "NIOBRARA-RD",
   "description": "NIOBRARA RESEARCH AND DEVELOPMENT CORPORATION",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "206.223.51.0/24"
+    ],
     "ipv6": []
   }
 }
