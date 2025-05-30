@@ -1,0 +1,11 @@
+{
+  "asn": 213650,
+  "handle": "CDNINFRA",
+  "description": "CDN Infra Limited",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a14:7580:600::/40"
+    ]
+  }
+}

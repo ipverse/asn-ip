@@ -1,9 +1,11 @@
 {
   "asn": 134315,
-  "handle": "NEXTISP-IN",
-  "description": "Nextwise Internet And Broadcasting Pvt. Ltd",
+  "handle": "ACTIVEL-IN",
+  "description": "Activline Fibernet Private Limited",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2001:df5:8840::/48"
+    ]
   }
 }

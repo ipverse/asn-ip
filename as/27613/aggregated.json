@@ -1,0 +1,12 @@
+{
+  "asn": 27613,
+  "handle": "TYLER-CCS",
+  "description": "Tyler Technologies, Inc.",
+  "subnets": {
+    "ipv4": [
+      "207.245.144.0/23",
+      "207.245.146.0/24"
+    ],
+    "ipv6": []
+  }
+}

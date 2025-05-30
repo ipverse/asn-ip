@@ -3,7 +3,9 @@
   "handle": "STUDENT6-AP",
   "description": "STUDENT NET",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "163.223.108.0/24"
+    ],
     "ipv6": []
   }
 }

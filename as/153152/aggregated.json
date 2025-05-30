@@ -4,6 +4,8 @@
   "description": "PT Sibay Global Network",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2001:df4:8ec0::/48"
+    ]
   }
 }

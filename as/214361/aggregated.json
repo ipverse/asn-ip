@@ -3,7 +3,9 @@
   "handle": "MIZBAN-DADEPARDAZ-PASARGAD",
   "description": "Mizban Dadeh Pardazi Pasargad Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "178.239.146.0/24"
+    ],
     "ipv6": []
   }
 }

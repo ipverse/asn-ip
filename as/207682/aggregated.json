@@ -1,9 +1,11 @@
 {
   "asn": 207682,
-  "handle": "CONNOR-PENHALE",
-  "description": "Lycamthrope.com, LLC",
+  "handle": "MAIK-POLMAN",
+  "description": "Maik Polman",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a06:9f41:a900::/48"
+    ]
   }
 }

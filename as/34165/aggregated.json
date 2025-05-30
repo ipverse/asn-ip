@@ -3,10 +3,7 @@
   "handle": "LOGIQIT-APS",
   "description": "Novaram ApS",
   "subnets": {
-    "ipv4": [
-      "84.246.245.0/24",
-      "84.246.246.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

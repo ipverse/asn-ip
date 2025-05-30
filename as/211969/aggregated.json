@@ -3,9 +3,7 @@
   "handle": "ALIFORNIA",
   "description": "SERVICIOS DE TELECOMUNICACIONES ALIFORNIA S.L.",
   "subnets": {
-    "ipv4": [
-      "185.234.246.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

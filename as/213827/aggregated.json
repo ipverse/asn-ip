@@ -3,7 +3,9 @@
   "handle": "GETNET",
   "description": "GetNet LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.133.105.0/24"
+    ],
     "ipv6": []
   }
 }

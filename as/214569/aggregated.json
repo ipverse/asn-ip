@@ -3,11 +3,9 @@
   "handle": "MIRALIUM-RESEARCH",
   "description": "MIRALIUM SERVICOS EM TECNOLOGIA DA INFORMACAO LTDA",
   "subnets": {
-    "ipv4": [
-      "44.32.136.0/23"
-    ],
+    "ipv4": [],
     "ipv6": [
-      "2a06:b700::/47"
+      "2a06:b700::/48"
     ]
   }
 }

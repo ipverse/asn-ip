@@ -4,8 +4,6 @@
   "description": "Webhuset AS",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2a00:1c90::/32"
-    ]
+    "ipv6": []
   }
 }

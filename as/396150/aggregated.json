@@ -3,9 +3,7 @@
   "handle": "NBBJ-GLOBAL",
   "description": "NBBJ LP",
   "subnets": {
-    "ipv4": [
-      "162.246.96.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

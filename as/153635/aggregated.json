@@ -1,0 +1,13 @@
+{
+  "asn": 153635,
+  "handle": "URANUS-VN",
+  "description": "URANUS TECHNOLOGY COMPANY LIMITED",
+  "subnets": {
+    "ipv4": [
+      "163.61.242.0/23"
+    ],
+    "ipv6": [
+      "2001:df5:26c0::/48"
+    ]
+  }
+}
