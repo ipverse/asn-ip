@@ -4,6 +4,7 @@
   "description": "Above Bar Cyber Limited",
   "subnets": {
     "ipv4": [
+      "163.5.138.0/24",
       "213.210.39.0/24"
     ],
     "ipv6": [

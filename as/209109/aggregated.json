@@ -3,9 +3,7 @@
   "handle": "DATASPHERE-LIMITED",
   "description": "DataSphere (H.K) Limited",
   "subnets": {
-    "ipv4": [
-      "23.135.220.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

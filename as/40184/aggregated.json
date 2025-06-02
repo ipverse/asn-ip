@@ -3,7 +3,9 @@
   "handle": "MLOC",
   "description": "MeridianLink, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "64.124.120.0/24"
+    ],
     "ipv6": []
   }
 }

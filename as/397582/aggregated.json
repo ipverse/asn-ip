@@ -4,7 +4,6 @@
   "description": "WOW-World of Wireless",
   "subnets": {
     "ipv4": [
-      "23.145.240.0/24",
       "216.247.64.0/22"
     ],
     "ipv6": []

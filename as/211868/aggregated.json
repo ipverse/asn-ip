@@ -1,9 +1,11 @@
 {
   "asn": 211868,
-  "handle": "RESERVED",
-  "description": "RIPE NCC ASN block",
+  "handle": "PROSAICLOUD",
+  "description": "Quentin Dacquet",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a0e:fd45:2f20::/48"
+    ]
   }
 }

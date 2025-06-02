@@ -3,7 +3,9 @@
   "handle": "GRANDCAPITAL",
   "description": "FC GRAND CAPITAL LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.2.226.0/24"
+    ],
     "ipv6": []
   }
 }

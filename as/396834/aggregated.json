@@ -4,6 +4,7 @@
   "description": "Brady Worldwide, Inc",
   "subnets": {
     "ipv4": [
+      "12.69.60.0/24",
       "173.227.201.0/24"
     ],
     "ipv6": []

@@ -4,7 +4,6 @@
   "description": "Williamson Medical Center",
   "subnets": {
     "ipv4": [
-      "12.226.9.0/24",
       "192.26.137.0/24"
     ],
     "ipv6": []
