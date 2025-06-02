@@ -3,7 +3,9 @@
   "handle": "GOV45",
   "description": "Government of Kurgan area",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.220.137.0/24"
+    ],
     "ipv6": []
   }
 }

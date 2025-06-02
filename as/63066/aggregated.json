@@ -4,6 +4,7 @@
   "description": "7Hoop Network Telecom, LLC",
   "subnets": {
     "ipv4": [
+      "38.212.128.0/18",
       "176.126.161.0/24"
     ],
     "ipv6": [

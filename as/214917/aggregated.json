@@ -3,7 +3,9 @@
   "handle": "ZEROIZE",
   "description": "Zeroize",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "188.95.68.0/24"
+    ],
     "ipv6": [
       "2a12:ff00::/29"
     ]

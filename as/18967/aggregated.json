@@ -3,7 +3,9 @@
   "handle": "GOUCHER-COLLEGE",
   "description": "Goucher College",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "50.202.217.0/24"
+    ],
     "ipv6": []
   }
 }

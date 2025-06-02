@@ -1,0 +1,13 @@
+{
+  "asn": 19922,
+  "handle": "OASIS",
+  "description": "OASIS NETWORKS",
+  "subnets": {
+    "ipv4": [
+      "23.136.12.0/24"
+    ],
+    "ipv6": [
+      "2602:f6bd::/40"
+    ]
+  }
+}

@@ -3,7 +3,9 @@
   "handle": "AVS-NET-COMUNICACOES",
   "description": "Avs Net Comunicacoes e Servicos de Informatica",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "179.48.46.0/24"
+    ],
     "ipv6": []
   }
 }
