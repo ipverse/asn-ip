@@ -1,9 +1,11 @@
 {
   "asn": 211827,
-  "handle": "RESERVED",
-  "description": "RIPE NCC ASN block",
+  "handle": "NE-AS1",
+  "description": "NIssan Automotive Europe SAS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "77.94.225.0/24"
+    ],
     "ipv6": []
   }
 }

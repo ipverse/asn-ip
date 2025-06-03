@@ -4,7 +4,8 @@
   "description": "Elcro Digital Services, LLC",
   "subnets": {
     "ipv4": [
-      "37.202.199.0/24"
+      "37.202.199.0/24",
+      "143.20.122.0/24"
     ],
     "ipv6": []
   }

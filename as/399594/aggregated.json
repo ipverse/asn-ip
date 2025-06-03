@@ -1,0 +1,12 @@
+{
+  "asn": 399594,
+  "handle": "BLUESPRING-01",
+  "description": "Blue Spring Broadband",
+  "subnets": {
+    "ipv4": [
+      "63.157.38.0/24",
+      "65.126.126.0/24"
+    ],
+    "ipv6": []
+  }
+}

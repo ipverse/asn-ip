@@ -4,6 +4,8 @@
   "description": "INSTITUTO DE VALORIZACION DE MANIZALES INVAMA",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2801:1b:b800::/48"
+    ]
   }
 }

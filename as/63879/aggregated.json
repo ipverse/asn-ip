@@ -4,7 +4,8 @@
   "description": "UIN Sunan Gunung Djati Bandung",
   "subnets": {
     "ipv4": [
-      "103.55.33.0/24"
+      "103.55.33.0/24",
+      "163.223.70.0/24"
     ],
     "ipv6": []
   }

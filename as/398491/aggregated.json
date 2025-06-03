@@ -3,7 +3,12 @@
   "handle": "HYPEREXPERT",
   "description": "Hyper Expert, LLC",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "23.138.32.0/24",
+      "134.195.14.0/23"
+    ],
+    "ipv6": [
+      "2602:febc::/36"
+    ]
   }
 }

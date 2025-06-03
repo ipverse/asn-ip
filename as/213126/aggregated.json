@@ -3,9 +3,7 @@
   "handle": "HOSTISHERE",
   "description": "Marcel Neufeld trading as Hostishere",
   "subnets": {
-    "ipv4": [
-      "94.156.248.0/24"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2a11:29c0:23::/48",
       "2a11:29c0:3db0::/48"

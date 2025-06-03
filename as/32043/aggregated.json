@@ -4,6 +4,7 @@
   "description": "NeoFiber Communications inc.",
   "subnets": {
     "ipv4": [
+      "43.243.194.0/24",
       "50.3.90.0/24",
       "66.227.112.0/22",
       "77.75.197.0/24",

@@ -1,9 +1,11 @@
 {
   "asn": 151043,
-  "handle": "RAPID1-AP",
-  "description": "Rapid Unique Network Pvt. Ltd",
+  "handle": "IDNIC-JAGOANSERVER-ID",
+  "description": "PT Lintas Data Internasional",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "163.227.86.0/24"
+    ],
     "ipv6": []
   }
 }

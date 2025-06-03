@@ -3,9 +3,7 @@
   "handle": "NETS",
   "description": "Nets Denmark A/S",
   "subnets": {
-    "ipv4": [
-      "92.60.155.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

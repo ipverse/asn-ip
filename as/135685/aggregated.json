@@ -1,9 +1,11 @@
 {
   "asn": 135685,
-  "handle": "RESERVED",
-  "description": "IRINN AS-BLOCK",
+  "handle": "DSERVER1-IN",
+  "description": "Deserver Hosting Hub Private Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "165.99.52.0/23"
+    ],
     "ipv6": []
   }
 }
