@@ -1,9 +1,11 @@
 {
   "asn": 207449,
-  "handle": "PEOPLES-FIBRE",
-  "description": "Swish Fibre Ltd",
+  "handle": "HOSTINITY",
+  "description": "LEBREUILLY Jeremy trading as Hostinity",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a0c:b641:5a0::/44"
+    ]
   }
 }

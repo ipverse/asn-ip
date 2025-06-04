@@ -1,9 +1,11 @@
 {
   "asn": 209569,
-  "handle": "RESERVED",
-  "description": "RIPE NCC ASN block",
+  "handle": "NETAUTONOMOUSSYSTEM",
+  "description": "Ali Shah",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2001:678:dcc::/48"
+    ]
   }
 }

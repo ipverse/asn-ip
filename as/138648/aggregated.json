@@ -3,7 +3,9 @@
   "handle": "ASLINE-AP",
   "description": "ASLINE LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "156.247.62.0/24"
+    ],
     "ipv6": []
   }
 }

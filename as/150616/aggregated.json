@@ -3,7 +3,9 @@
   "handle": "SKYVISION-IN",
   "description": "SKYVISION BROADBAND PRIVATE LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.77.118.0/23"
+    ],
     "ipv6": []
   }
 }

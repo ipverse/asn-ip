@@ -4,6 +4,7 @@
   "description": "GLOBAL TELECOMUNICACOES EIRELI - ME",
   "subnets": {
     "ipv4": [
+      "38.172.141.0/24",
       "45.4.140.0/22"
     ],
     "ipv6": [

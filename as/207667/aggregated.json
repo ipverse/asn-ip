@@ -1,0 +1,11 @@
+{
+  "asn": 207667,
+  "handle": "JERUSALEM-BANK",
+  "description": "Bank of Jerusalem Limited",
+  "subnets": {
+    "ipv4": [
+      "147.234.89.0/24"
+    ],
+    "ipv6": []
+  }
+}

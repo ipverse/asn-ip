@@ -1,9 +1,11 @@
 {
   "asn": 207907,
-  "handle": "NSQ",
-  "description": "NSQ Venture (M) SDN BHD",
+  "handle": "ELIA",
+  "description": "Elia Kessler",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a0e:8f02:2060::/44"
+    ]
   }
 }

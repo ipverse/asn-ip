@@ -3,7 +3,9 @@
   "handle": "SIBSFERA",
   "description": "Sibsfera Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "93.171.239.0/24"
+    ],
     "ipv6": []
   }
 }
