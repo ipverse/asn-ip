@@ -3,7 +3,9 @@
   "handle": "SCHMC",
   "description": "Silver Cross Hospital",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "12.216.153.0/24"
+    ],
     "ipv6": []
   }
 }

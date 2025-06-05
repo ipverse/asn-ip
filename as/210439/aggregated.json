@@ -1,9 +1,11 @@
 {
   "asn": 210439,
-  "handle": "RESERVED",
-  "description": "RIPE NCC ASN block",
+  "handle": "CLOUD-INTELLIGENCE-SL",
+  "description": "Cloud Intelligence SL",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2001:67c:1b3c::/48"
+    ]
   }
 }

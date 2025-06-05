@@ -1,9 +1,11 @@
 {
   "asn": 206623,
-  "handle": "ENVER-COLOCATION",
-  "description": "SC ITNS.NET SRL",
+  "handle": "COLOCATION",
+  "description": "CONTRUST SOLUTIONS S.R.L.",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a13:c446::/32"
+    ]
   }
 }

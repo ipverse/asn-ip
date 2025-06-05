@@ -1,0 +1,11 @@
+{
+  "asn": 153895,
+  "handle": "IDNIC-RSK-ID",
+  "description": "PT Rajasa Sinergi Komunikasi",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2001:df5:7f40::/48"
+    ]
+  }
+}

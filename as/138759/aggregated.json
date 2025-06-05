@@ -1,9 +1,11 @@
 {
   "asn": 138759,
-  "handle": "AMEEX",
-  "description": "Ameex Technologies Pvt. Ltd.",
+  "handle": "NETMAX-IN",
+  "description": "NETMAX COMPUTERS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.98.36.0/23"
+    ],
     "ipv6": []
   }
 }

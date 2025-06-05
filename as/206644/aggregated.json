@@ -1,9 +1,11 @@
 {
   "asn": 206644,
-  "handle": "INVEST-COLO",
-  "description": "SC ITNS.NET SRL",
+  "handle": "COLOCATION",
+  "description": "CONTRUST SOLUTIONS S.R.L.",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a13:c447::/32"
+    ]
   }
 }

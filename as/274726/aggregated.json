@@ -4,7 +4,7 @@
   "description": "Giga Speed Provedor de acessi a internet LTDA",
   "subnets": {
     "ipv4": [
-      "38.225.246.0/24"
+      "38.225.246.0/23"
     ],
     "ipv6": [
       "2804:92a8::/32"

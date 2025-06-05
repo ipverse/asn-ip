@@ -3,7 +3,9 @@
   "handle": "LAYER7-FRA2",
   "description": "Layer7 Networks GmbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "109.202.246.0/24"
+    ],
     "ipv6": []
   }
 }

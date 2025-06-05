@@ -3,7 +3,9 @@
   "handle": "SV3-PRI",
   "description": "Sage Intacct Inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.87.209.0/24"
+    ],
     "ipv6": []
   }
 }

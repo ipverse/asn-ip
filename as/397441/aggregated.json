@@ -3,9 +3,7 @@
   "handle": "ORBITAL",
   "description": "Nebula Mods",
   "subnets": {
-    "ipv4": [
-      "104.234.168.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

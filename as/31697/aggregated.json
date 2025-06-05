@@ -3,9 +3,7 @@
   "handle": "E-QUAL",
   "description": "Foliateam Operateur SAS",
   "subnets": {
-    "ipv4": [
-      "80.64.231.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

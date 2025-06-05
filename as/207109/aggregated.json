@@ -3,9 +3,7 @@
   "handle": "CEGEKA-ROME",
   "description": "Cegeka S.P.A.",
   "subnets": {
-    "ipv4": [
-      "185.140.155.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

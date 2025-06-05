@@ -1,9 +1,12 @@
 {
   "asn": 207416,
-  "handle": "WINTELECOM",
-  "description": "WINTELECOM LLC",
+  "handle": "NEKO-ORG",
+  "description": "NekoByte Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "178.236.243.0/24",
+      "195.62.48.0/23"
+    ],
     "ipv6": []
   }
 }

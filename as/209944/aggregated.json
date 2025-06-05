@@ -1,9 +1,11 @@
 {
   "asn": 209944,
-  "handle": "MDIX-FILTER",
-  "description": "SC ITNS.NET SRL",
+  "handle": "HOSTING",
+  "description": "CONTRUST SOLUTIONS S.R.L.",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a13:bb41::/32"
+    ]
   }
 }

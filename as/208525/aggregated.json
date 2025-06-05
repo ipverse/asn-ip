@@ -1,9 +1,11 @@
 {
   "asn": 208525,
-  "handle": "NMU",
-  "description": "NEW NETWORKS OF UKRAINE, LLC",
+  "handle": "AIRULIMITED",
+  "description": "Airu Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "207.70.224.0/21"
+    ],
     "ipv6": []
   }
 }

@@ -1,9 +1,11 @@
 {
   "asn": 207299,
-  "handle": "RESERVED",
-  "description": "RIPE NCC ASN block",
+  "handle": "ASTRAL-EXPRESS",
+  "description": "Zhijiang Zangque Trading Co., Ltd.",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a14:67c1:a121::/48"
+    ]
   }
 }

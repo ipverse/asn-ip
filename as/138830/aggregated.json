@@ -3,9 +3,7 @@
   "handle": "JARATELINDO-ID",
   "description": "PT JARGARIA TELEMATIKA INDONESIA",
   "subnets": {
-    "ipv4": [
-      "103.137.127.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

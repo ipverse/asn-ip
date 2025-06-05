@@ -1,0 +1,11 @@
+{
+  "asn": 40087,
+  "handle": "NEWORLEANSPUBLICLIBRARY-01",
+  "description": "NEW ORLEANS PARISH LIBRARY",
+  "subnets": {
+    "ipv4": [
+      "199.120.252.0/24"
+    ],
+    "ipv6": []
+  }
+}

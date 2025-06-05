@@ -4,7 +4,8 @@
   "description": "Casey\u0027s Retail Company",
   "subnets": {
     "ipv4": [
-      "148.78.66.0/24"
+      "148.78.66.0/24",
+      "148.78.96.0/24"
     ],
     "ipv6": []
   }

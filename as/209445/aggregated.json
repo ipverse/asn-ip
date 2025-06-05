@@ -1,9 +1,11 @@
 {
   "asn": 209445,
-  "handle": "RESERVED",
-  "description": "RIPE NCC ASN block",
+  "handle": "NOVOSERVE-DENMARK",
+  "description": "NovoServe B.V.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.182.80.0/24"
+    ],
     "ipv6": []
   }
 }

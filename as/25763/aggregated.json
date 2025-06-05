@@ -4,6 +4,7 @@
   "description": "Beacon Hill Staffing Group, LLC",
   "subnets": {
     "ipv4": [
+      "63.116.26.0/24",
       "160.238.41.0/24"
     ],
     "ipv6": []

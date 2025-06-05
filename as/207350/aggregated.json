@@ -1,9 +1,11 @@
 {
   "asn": 207350,
-  "handle": "AXIOLY",
-  "description": "Axioly SASU",
+  "handle": "FARATECHNOLOGY",
+  "description": "Arshia Asadi",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.135.195.0/24"
+    ],
     "ipv6": []
   }
 }

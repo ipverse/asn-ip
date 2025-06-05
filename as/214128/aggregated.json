@@ -3,9 +3,9 @@
   "handle": "DAGROYAL",
   "description": "Ofek U. Havia",
   "subnets": {
-    "ipv4": [],
-    "ipv6": [
-      "2a11:29c0:49::/48"
-    ]
+    "ipv4": [
+      "45.39.210.0/24"
+    ],
+    "ipv6": []
   }
 }

@@ -3,7 +3,10 @@
   "handle": "I9-COMERCIO-SERVICOS",
   "description": "I9 COMERCIO E SERVICOS DE TELECOMUNICACAO",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.159.164.0/24",
+      "38.224.137.0/24"
+    ],
     "ipv6": [
       "2804:8350::/32"
     ]

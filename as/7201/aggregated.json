@@ -1,0 +1,11 @@
+{
+  "asn": 7201,
+  "handle": "NETWORKEDGE",
+  "description": "Network Edge LLC",
+  "subnets": {
+    "ipv4": [
+      "23.139.116.0/24"
+    ],
+    "ipv6": []
+  }
+}

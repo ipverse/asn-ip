@@ -1,9 +1,11 @@
 {
   "asn": 208475,
-  "handle": "LAYERWEB",
-  "description": "Simya Yazilim Sanayi Ticaret Limited Sirketi",
+  "handle": "NRG",
+  "description": "NRG Evolution srl",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.226.219.0/24"
+    ],
     "ipv6": []
   }
 }
