@@ -4,8 +4,11 @@
   "description": "ENDGAME RESEARCH (PTY) LTD",
   "subnets": {
     "ipv4": [
-      "94.24.109.0/24"
+      "94.24.109.0/24",
+      "206.53.2.0/24"
     ],
-    "ipv6": []
+    "ipv6": [
+      "2a12:bec0:440::/44"
+    ]
   }
 }

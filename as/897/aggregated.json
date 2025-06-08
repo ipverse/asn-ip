@@ -1,9 +1,10 @@
 {
   "asn": 897,
-  "handle": "TRS-ASN-01",
+  "handle": "TURTLE-ROCK-STUDIOS",
   "description": "Turtle Rock Studios, Inc.",
   "subnets": {
     "ipv4": [
+      "64.57.178.0/24",
       "162.33.163.0/24",
       "192.138.0.0/24"
     ],

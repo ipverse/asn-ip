@@ -3,7 +3,9 @@
   "handle": "FIBRALINK",
   "description": "CORPORACION MENORQUINA DE CABLE SA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.51.44.0/22"
+    ],
     "ipv6": []
   }
 }

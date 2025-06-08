@@ -3,7 +3,9 @@
   "handle": "TNODL-AP",
   "description": "TPNODL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.191.19.0/24"
+    ],
     "ipv6": []
   }
 }

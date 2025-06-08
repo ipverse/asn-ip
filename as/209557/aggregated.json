@@ -1,9 +1,11 @@
 {
   "asn": 209557,
-  "handle": "STEVEYI",
-  "description": "Tsung-Yi Yu",
+  "handle": "NETQUBE",
+  "description": "Jesse Roehsler",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a09:9340:1807::/48"
+    ]
   }
 }

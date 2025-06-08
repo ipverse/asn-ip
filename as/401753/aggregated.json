@@ -1,0 +1,12 @@
+{
+  "asn": 401753,
+  "handle": "BIXCE",
+  "description": "BIXCE Inc",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2602:f61e::/46",
+      "2602:f61e:4::/48"
+    ]
+  }
+}
