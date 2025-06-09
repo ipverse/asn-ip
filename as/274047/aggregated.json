@@ -3,9 +3,7 @@
   "handle": "CONNECTIONS-T-CA",
   "description": "CONNECTIONS E \u0026 T, C.A.",
   "subnets": {
-    "ipv4": [
-      "38.123.175.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

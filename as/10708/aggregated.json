@@ -4,6 +4,7 @@
   "description": "SelectNet Internet Services",
   "subnets": {
     "ipv4": [
+      "206.19.76.0/23",
       "207.67.130.0/24",
       "207.67.137.0/24",
       "207.137.0.0/20"

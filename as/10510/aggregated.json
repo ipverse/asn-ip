@@ -1,0 +1,12 @@
+{
+  "asn": 10510,
+  "handle": "HOSTIRIAN-CORE-2",
+  "description": "River City Internet Group LLC",
+  "subnets": {
+    "ipv4": [
+      "208.16.24.0/24",
+      "208.16.236.0/24"
+    ],
+    "ipv6": []
+  }
+}

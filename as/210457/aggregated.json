@@ -3,7 +3,10 @@
   "handle": "KYONIX",
   "description": "Kyonix Networks Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "108.165.164.0/24",
+      "193.23.199.0/24"
+    ],
     "ipv6": [
       "2a13:c007:8146::/48"
     ]

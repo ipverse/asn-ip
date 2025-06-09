@@ -1,9 +1,11 @@
 {
   "asn": 208150,
-  "handle": "RESERVED",
-  "description": "RIPE NCC ASN block",
+  "handle": "UK-EAGLE",
+  "description": "Eagle Aquila Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "217.138.104.0/24"
+    ],
     "ipv6": []
   }
 }

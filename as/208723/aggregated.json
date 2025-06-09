@@ -1,9 +1,11 @@
 {
   "asn": 208723,
-  "handle": "RESERVED",
-  "description": "RIPE NCC ASN block",
+  "handle": "VDX-SYSTEMS",
+  "description": "VDX SYSTEMS LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "143.20.69.0/24"
+    ],
     "ipv6": []
   }
 }

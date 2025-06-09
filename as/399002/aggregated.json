@@ -4,6 +4,7 @@
   "description": "Nova Cablevision, Inc.",
   "subnets": {
     "ipv4": [
+      "38.97.47.0/24",
       "205.164.96.0/21"
     ],
     "ipv6": []
