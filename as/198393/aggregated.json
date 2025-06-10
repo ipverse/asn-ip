@@ -3,7 +3,9 @@
   "handle": "NORGPOL",
   "description": "VIRTUAL TELECOM SP. Z O.O.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "77.223.202.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "IGLAO",
   "description": "FAL GROUP",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.65.243.0/24"
+    ],
     "ipv6": []
   }
 }

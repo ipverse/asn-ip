@@ -1,0 +1,11 @@
+{
+  "asn": 153578,
+  "handle": "IDNIC-KNID-ID",
+  "description": "PT Koneksi Indonesia Lintas Arta",
+  "subnets": {
+    "ipv4": [
+      "163.61.56.0/23"
+    ],
+    "ipv6": []
+  }
+}

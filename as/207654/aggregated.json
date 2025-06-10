@@ -1,9 +1,11 @@
 {
   "asn": 207654,
-  "handle": "RESERVED",
-  "description": "RIPE NCC ASN block",
+  "handle": "NERV",
+  "description": "Nerv Technologica UG (haftungsbeschraenkt)",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "31.6.51.0/24"
+    ],
     "ipv6": []
   }
 }

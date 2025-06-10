@@ -3,7 +3,9 @@
   "handle": "F-COM",
   "description": "F-COM LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.195.2.0/23"
+    ],
     "ipv6": []
   }
 }

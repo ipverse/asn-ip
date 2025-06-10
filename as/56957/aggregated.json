@@ -3,7 +3,9 @@
   "handle": "IX-2",
   "description": "Aleksei Volyntsev",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.229.96.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -1,13 +1,11 @@
 {
   "asn": 401468,
-  "handle": "WVW-FIBERNET",
+  "handle": "WVW",
   "description": "WvW",
   "subnets": {
     "ipv4": [
       "23.128.124.0/24"
     ],
-    "ipv6": [
-      "2602:f9a0::/40"
-    ]
+    "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "PENTASOL",
   "description": "PENTA SOLUTIONS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.172.93.0/24"
+    ],
     "ipv6": []
   }
 }

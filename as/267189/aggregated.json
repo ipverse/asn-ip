@@ -4,7 +4,7 @@
   "description": "DIGITAL SAT INTERNET LTDA",
   "subnets": {
     "ipv4": [
-      "45.231.84.0/24"
+      "45.231.84.0/22"
     ],
     "ipv6": [
       "2804:4988::/32"

@@ -1,9 +1,11 @@
 {
   "asn": 215675,
-  "handle": "RESERVED",
-  "description": "RIPE NCC ASN block",
+  "handle": "PERCEPTIONTVCDN",
+  "description": "Perception TVCDN Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "152.114.236.0/24"
+    ],
     "ipv6": []
   }
 }

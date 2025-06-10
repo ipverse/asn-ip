@@ -1,9 +1,11 @@
 {
   "asn": 207536,
-  "handle": "ALEXANDRE-TABOIN",
-  "description": "Alexandre Taboin",
+  "handle": "SEABECKSOLUTIONS",
+  "description": "SEABECK SOLUTIONS LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.228.75.0/24"
+    ],
     "ipv6": []
   }
 }

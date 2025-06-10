@@ -3,7 +3,9 @@
   "handle": "POSTACABLENETWORK-AP",
   "description": "Posta Cable Network",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "163.61.138.0/24"
+    ],
     "ipv6": []
   }
 }
