@@ -4,6 +4,7 @@
   "description": "Forewin Telecom Group Limited",
   "subnets": {
     "ipv4": [
+      "27.50.32.0/24",
       "27.126.176.0/21",
       "27.126.185.0/24",
       "27.126.187.0/24",

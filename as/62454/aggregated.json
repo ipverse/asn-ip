@@ -4,6 +4,8 @@
   "description": "intercolo GmbH",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a00:ccc7::/32"
+    ]
   }
 }

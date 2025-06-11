@@ -1,0 +1,11 @@
+{
+  "asn": 401139,
+  "handle": "PRIVATE-NETWORK",
+  "description": "PRIVATE NETWORKS LLC",
+  "subnets": {
+    "ipv4": [
+      "23.181.168.0/24"
+    ],
+    "ipv6": []
+  }
+}

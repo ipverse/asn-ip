@@ -3,7 +3,9 @@
   "handle": "BITTERBAL",
   "description": "BIT BV",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "212.72.236.0/22"
+    ],
     "ipv6": [
       "2001:7bb::/32"
     ]

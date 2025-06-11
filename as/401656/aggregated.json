@@ -1,0 +1,12 @@
+{
+  "asn": 401656,
+  "handle": "ATINETWORKS-01",
+  "description": "ATI NETWORKS, INC.",
+  "subnets": {
+    "ipv4": [
+      "141.193.7.0/24",
+      "170.199.242.0/23"
+    ],
+    "ipv6": []
+  }
+}

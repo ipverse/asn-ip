@@ -1,9 +1,13 @@
 {
   "asn": 207804,
-  "handle": "RESERVED",
-  "description": "RIPE NCC ASN block",
+  "handle": "DSS-AB",
+  "description": "DSS AB",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "192.121.26.0/24"
+    ],
+    "ipv6": [
+      "2a01:280:3c8::/48"
+    ]
   }
 }

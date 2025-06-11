@@ -3,7 +3,9 @@
   "handle": "ARNET",
   "description": "Alberta Research Council",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "128.144.0.0/20"
+    ],
     "ipv6": []
   }
 }

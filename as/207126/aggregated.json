@@ -1,0 +1,11 @@
+{
+  "asn": 207126,
+  "handle": "CHRISTIAN-BURGER",
+  "description": "Christian Burger",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2001:678:10a8::/48"
+    ]
+  }
+}

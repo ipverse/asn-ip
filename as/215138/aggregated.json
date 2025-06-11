@@ -1,0 +1,15 @@
+{
+  "asn": 215138,
+  "handle": "KRISTIANSTADS-KOMMUN",
+  "description": "Kristianstads Kommun",
+  "subnets": {
+    "ipv4": [
+      "193.17.67.0/24",
+      "193.234.16.0/24"
+    ],
+    "ipv6": [
+      "2001:678:3ec::/48",
+      "2a01:280:310::/48"
+    ]
+  }
+}

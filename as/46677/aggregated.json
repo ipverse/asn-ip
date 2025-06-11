@@ -1,0 +1,11 @@
+{
+  "asn": 46677,
+  "handle": "CAROLINA-AIRLINK",
+  "description": "Carolina Airlink",
+  "subnets": {
+    "ipv4": [
+      "167.253.126.0/24"
+    ],
+    "ipv6": []
+  }
+}

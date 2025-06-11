@@ -3,9 +3,12 @@
   "handle": "VERTEXLINK-01",
   "description": "VertexLink Inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "23.172.216.0/24"
+    ],
     "ipv6": [
-      "2602:f959:1::/48"
+      "2602:f959:1::/48",
+      "2602:f959:2::/48"
     ]
   }
 }

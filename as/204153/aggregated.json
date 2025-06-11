@@ -3,7 +3,12 @@
   "handle": "TELEKONIKA-IX",
   "description": "LLC Telekonika",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "86.110.15.0/24",
+      "86.110.23.0/24",
+      "193.24.229.0/24",
+      "193.24.231.0/24"
+    ],
     "ipv6": []
   }
 }

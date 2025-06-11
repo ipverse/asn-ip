@@ -4,6 +4,7 @@
   "description": "Manage Now GmbH",
   "subnets": {
     "ipv4": [
+      "80.70.167.0/24",
       "185.170.24.0/22"
     ],
     "ipv6": []

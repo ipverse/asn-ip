@@ -3,7 +3,9 @@
   "handle": "ADELMO-FELICIANO-COSTA",
   "description": "ADELMO FELICIANO DA COSTA FERNANDES ME",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "200.49.25.0/24"
+    ],
     "ipv6": []
   }
 }

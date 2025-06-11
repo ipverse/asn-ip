@@ -3,7 +3,11 @@
   "handle": "VILMAX3-AP",
   "description": "VILMAX INTERNET SERVICES PRIVATE LIMITED",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "45.206.192.0/18"
+    ],
+    "ipv6": [
+      "2001:df5:11c0::/48"
+    ]
   }
 }

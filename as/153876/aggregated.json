@@ -1,0 +1,13 @@
+{
+  "asn": 153876,
+  "handle": "IDNIC-OMG-ID",
+  "description": "PT Oofydi Media Group",
+  "subnets": {
+    "ipv4": [
+      "163.227.183.0/24"
+    ],
+    "ipv6": [
+      "2001:df5:7740::/48"
+    ]
+  }
+}

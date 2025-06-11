@@ -1,9 +1,16 @@
 {
   "asn": 207480,
-  "handle": "RESERVED",
-  "description": "RIPE NCC ASN block",
+  "handle": "ALGOMEDIA",
+  "description": "ALGOMEDIA SAS",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a01:e901:162::/48",
+      "2a01:e901:172::/48",
+      "2a01:e901:182::/48",
+      "2a01:e901:192::/48",
+      "2a01:e901:1a2::/48",
+      "2a01:e901:1b2::/48"
+    ]
   }
 }

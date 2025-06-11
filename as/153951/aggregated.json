@@ -1,0 +1,13 @@
+{
+  "asn": 153951,
+  "handle": "IRINN-VEGANET-IN",
+  "description": "VEGA INTERNET (OPC) PRIVATE LIMITED",
+  "subnets": {
+    "ipv4": [
+      "165.99.214.0/23"
+    ],
+    "ipv6": [
+      "2001:df5:adc0::/48"
+    ]
+  }
+}

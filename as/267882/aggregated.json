@@ -4,7 +4,8 @@
   "description": "AGENCIA DE CIENCIA, TECNOLOGIA Y SOCIEDAD SAN LUIS",
   "subnets": {
     "ipv4": [
-      "45.178.0.0/22"
+      "45.178.0.0/22",
+      "179.62.158.0/24"
     ],
     "ipv6": [
       "2803:aa60::/32"

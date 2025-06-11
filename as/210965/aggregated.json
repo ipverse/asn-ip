@@ -3,9 +3,7 @@
   "handle": "IPV4-TR",
   "description": "Semih Mehmet CAN",
   "subnets": {
-    "ipv4": [
-      "136.0.158.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

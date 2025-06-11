@@ -1,9 +1,11 @@
 {
   "asn": 13559,
-  "handle": "VIRTUASYS",
-  "description": "VIRTUASYS LLC",
+  "handle": "QUANTUM-INTERNET-SOL-CAN01",
+  "description": "QUANTUM INTERNET SOLUTIONS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "74.3.148.0/23"
+    ],
     "ipv6": []
   }
 }

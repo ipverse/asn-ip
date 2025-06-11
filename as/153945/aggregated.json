@@ -1,0 +1,11 @@
+{
+  "asn": 153945,
+  "handle": "IDNIC-THCDS-ID",
+  "description": "PT THC DIGITAL SOLUTION",
+  "subnets": {
+    "ipv4": [
+      "165.99.107.0/24"
+    ],
+    "ipv6": []
+  }
+}
