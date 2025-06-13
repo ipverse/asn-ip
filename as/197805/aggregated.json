@@ -3,7 +3,9 @@
   "handle": "DZH-AM",
   "description": "Dzoraghbyur Complex LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.142.19.0/24"
+    ],
     "ipv6": []
   }
 }

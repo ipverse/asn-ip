@@ -1,0 +1,11 @@
+{
+  "asn": 33340,
+  "handle": "INDYIX-PUBLIC",
+  "description": "Indianapolis Internet Exchange, Inc.",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2602:f62a::/44"
+    ]
+  }
+}

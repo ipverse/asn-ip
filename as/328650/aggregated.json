@@ -4,8 +4,11 @@
   "description": "Universite numerique Cheikh Hamidou KANE (UN-CHK)",
   "subnets": {
     "ipv4": [
+      "102.36.136.0/24",
       "102.36.138.0/23"
     ],
-    "ipv6": []
+    "ipv6": [
+      "2001:43f8:1400::/48"
+    ]
   }
 }

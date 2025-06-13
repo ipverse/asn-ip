@@ -4,9 +4,6 @@
   "description": "Falco ISP Services B.V.",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2a10:2380::/29",
-      "2a10:3e40::/29"
-    ]
+    "ipv6": []
   }
 }

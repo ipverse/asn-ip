@@ -3,7 +3,9 @@
   "handle": "COOPERATIVA-SERVICIOS-TELECOMUNICACIONES",
   "description": "COOPERATIVA DE SERVICIOS DE TELECOMUNICACIONES Y TECNOLOGA LIMITADA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.83.200.0/23"
+    ],
     "ipv6": []
   }
 }

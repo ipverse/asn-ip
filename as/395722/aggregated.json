@@ -3,9 +3,7 @@
   "handle": "NEWRELIC-2",
   "description": "New Relic",
   "subnets": {
-    "ipv4": [
-      "64.251.207.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

@@ -4,9 +4,6 @@
   "description": "CRE NETWORK, LLC",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2602:f9a9:900::/40",
-      "2602:f9a9:b20::/44"
-    ]
+    "ipv6": []
   }
 }

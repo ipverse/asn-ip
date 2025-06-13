@@ -4,8 +4,7 @@
   "description": "UNDERCORP TELECOM LTDA.",
   "subnets": {
     "ipv4": [
-      "170.0.96.0/23",
-      "170.0.99.0/24"
+      "170.0.96.0/23"
     ],
     "ipv6": []
   }

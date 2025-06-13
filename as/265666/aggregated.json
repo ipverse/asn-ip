@@ -1,0 +1,11 @@
+{
+  "asn": 265666,
+  "handle": "GLOBAL-FIBER-PER",
+  "description": "GLOBAL FIBER PER S.A.C.",
+  "subnets": {
+    "ipv4": [
+      "45.232.151.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 32983,
+  "handle": "CORELIGHTNET-GOVCLOUD",
+  "description": "Corelight, Inc.",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2602:f9e7:30::/47",
+      "2602:f9e7:38::/47"
+    ]
+  }
+}

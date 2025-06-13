@@ -3,9 +3,7 @@
   "handle": "V-TAL",
   "description": "V tal",
   "subnets": {
-    "ipv4": [
-      "152.233.0.0/17"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

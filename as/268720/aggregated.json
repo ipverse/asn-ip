@@ -4,7 +4,7 @@
   "description": "MegaNet Fibra ptica Cau",
   "subnets": {
     "ipv4": [
-      "45.170.84.0/22"
+      "45.170.84.0/24"
     ],
     "ipv6": []
   }

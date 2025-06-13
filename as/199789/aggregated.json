@@ -3,7 +3,9 @@
   "handle": "ROUTE128",
   "description": "Route 128 GmbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.60.74.0/24"
+    ],
     "ipv6": [
       "2001:67c:b98::/48",
       "2001:67c:29a4::/48"
