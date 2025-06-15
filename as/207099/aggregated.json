@@ -1,9 +1,12 @@
 {
   "asn": 207099,
-  "handle": "DIGITALFIBRA",
-  "description": "DIGITAL FIBRA TV S.L.",
+  "handle": "RICKARDANDRI",
+  "description": "Rickard Andrinsson",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a0c:b641:540::/48",
+      "2a0c:b641:54f::/48"
+    ]
   }
 }

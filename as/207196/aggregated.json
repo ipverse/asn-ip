@@ -3,9 +3,12 @@
   "handle": "LHEIDEM-NET",
   "description": "Luca Heidemann",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "217.69.167.0/24"
+    ],
     "ipv6": [
-      "2a14:1ec1:7b00::/44"
+      "2a0c:9a46:d13::/48",
+      "2a0c:9a46:d14::/48"
     ]
   }
 }

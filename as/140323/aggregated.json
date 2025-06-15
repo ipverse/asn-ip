@@ -3,9 +3,7 @@
   "handle": "ALLASTRILLA-AP",
   "description": "ALLASTRILLA ENTERPRISES",
   "subnets": {
-    "ipv4": [
-      "160.30.166.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

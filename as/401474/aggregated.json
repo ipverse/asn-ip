@@ -3,7 +3,10 @@
   "handle": "ENXO-NET",
   "description": "ENXO LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "23.129.12.0/24",
+      "23.133.100.0/24"
+    ],
     "ipv6": []
   }
 }

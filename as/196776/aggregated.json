@@ -3,7 +3,11 @@
   "handle": "ORION",
   "description": "Orion Blazej Hess",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.215.236.0/22",
+      "91.229.250.0/23",
+      "195.88.90.0/23"
+    ],
     "ipv6": []
   }
 }
