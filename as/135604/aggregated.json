@@ -4,7 +4,8 @@
   "description": "M/S. Saiba International",
   "subnets": {
     "ipv4": [
-      "103.68.4.0/22"
+      "103.68.5.0/24",
+      "103.68.6.0/24"
     ],
     "ipv6": []
   }

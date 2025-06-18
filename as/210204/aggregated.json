@@ -1,9 +1,11 @@
 {
   "asn": 210204,
-  "handle": "PACKETWALL",
-  "description": "PacketWall Solutions Ltd",
+  "handle": "KLINGERITALY",
+  "description": "KLINGER Italy srl",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.235.60.0/24"
+    ],
     "ipv6": []
   }
 }

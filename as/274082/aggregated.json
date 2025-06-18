@@ -4,7 +4,7 @@
   "description": "ASOCIACION PARAGUAYA DE PROVEEDORES DE INTERNET Y TELECOMUNICACIONES",
   "subnets": {
     "ipv4": [
-      "45.68.94.0/23"
+      "45.68.94.0/24"
     ],
     "ipv6": [
       "2801:10:400::/48"

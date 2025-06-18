@@ -4,8 +4,7 @@
   "description": "Washington County, Oregon",
   "subnets": {
     "ipv4": [
-      "199.5.222.0/24",
-      "204.147.144.0/24"
+      "204.147.144.0/20"
     ],
     "ipv6": []
   }

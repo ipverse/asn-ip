@@ -3,9 +3,7 @@
   "handle": "FIRMA-ZDOROVYE",
   "description": "Firma Zdorovye LLC.",
   "subnets": {
-    "ipv4": [
-      "93.179.69.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

@@ -1,0 +1,11 @@
+{
+  "asn": 29798,
+  "handle": "TENSPIRE-NETWORK-ANYCAST-01",
+  "description": "bitprojects",
+  "subnets": {
+    "ipv4": [
+      "104.204.252.0/23"
+    ],
+    "ipv6": []
+  }
+}

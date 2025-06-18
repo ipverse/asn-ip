@@ -3,7 +3,9 @@
   "handle": "ENOR",
   "description": "Enor Technologies",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "151.243.27.0/24"
+    ],
     "ipv6": []
   }
 }

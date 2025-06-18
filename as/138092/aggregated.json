@@ -3,7 +3,9 @@
   "handle": "IDNIC-NEBULA-ID",
   "description": "PT. Nebula Surya Corpora",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.131.94.0/24"
+    ],
     "ipv6": []
   }
 }

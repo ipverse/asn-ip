@@ -3,7 +3,9 @@
   "handle": "SWISS-GLOBAL-SERVICES",
   "description": "SWISS GLOBAL SERVICES S.A.S",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.178.4.0/22"
+    ],
     "ipv6": []
   }
 }

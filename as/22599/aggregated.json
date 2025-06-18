@@ -3,9 +3,7 @@
   "handle": "365NETWORKS-BACKONE",
   "description": "365Internet, Inc.",
   "subnets": {
-    "ipv4": [
-      "77.111.111.0/24"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2602:f7b6:a::/48"
     ]
