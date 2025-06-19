@@ -1,9 +1,12 @@
 {
   "asn": 208370,
-  "handle": "CTYI",
-  "description": "Tianyi Cui",
+  "handle": "DIGISYS",
+  "description": "DiGiSys EOOD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "78.128.115.0/24",
+      "79.124.78.0/24"
+    ],
     "ipv6": []
   }
 }

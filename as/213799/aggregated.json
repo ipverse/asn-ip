@@ -4,6 +4,7 @@
   "description": "CONHOST BILGI TEKNOLOJILERI VERI MERKEZI HIZMETLERI VE DANISMANLIK LIMITED SIRKETI",
   "subnets": {
     "ipv4": [
+      "31.58.249.0/24",
       "31.58.250.0/24"
     ],
     "ipv6": []

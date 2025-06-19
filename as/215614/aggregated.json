@@ -1,11 +1,11 @@
 {
   "asn": 215614,
-  "handle": "DE-ASN-JLN1-AREX",
-  "description": "Jan-Luca Niewoehner",
+  "handle": "KANADE",
+  "description": "Association Kanade",
   "subnets": {
-    "ipv4": [],
-    "ipv6": [
-      "2a12:bec4:1202::/48"
-    ]
+    "ipv4": [
+      "85.202.203.0/24"
+    ],
+    "ipv6": []
   }
 }

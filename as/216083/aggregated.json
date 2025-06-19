@@ -3,7 +3,9 @@
   "handle": "PRVAINTERNETOVA",
   "description": "Prva internetova, s.r.o",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.68.234.0/23"
+    ],
     "ipv6": []
   }
 }

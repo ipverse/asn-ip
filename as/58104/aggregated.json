@@ -3,9 +3,7 @@
   "handle": "UI",
   "description": "University of Isfahan",
   "subnets": {
-    "ipv4": [
-      "45.158.120.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

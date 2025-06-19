@@ -3,7 +3,10 @@
   "handle": "KHARAZMI",
   "description": "Kharazmi University",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "94.184.84.0/22",
+      "185.160.104.0/22"
+    ],
     "ipv6": []
   }
 }

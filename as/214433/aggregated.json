@@ -1,0 +1,11 @@
+{
+  "asn": 214433,
+  "handle": "BG-INTERCITYNET",
+  "description": "Intercity Network EOOD",
+  "subnets": {
+    "ipv4": [
+      "151.237.25.0/24"
+    ],
+    "ipv6": []
+  }
+}

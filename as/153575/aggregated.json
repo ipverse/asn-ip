@@ -3,9 +3,7 @@
   "handle": "IDNIC-PTELINDONESIA-ID",
   "description": "PT PALLAKA ELEKTRO TELEKOMUNIKASI",
   "subnets": {
-    "ipv4": [
-      "163.61.80.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

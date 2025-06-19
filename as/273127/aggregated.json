@@ -3,7 +3,9 @@
   "handle": "VITERI-HERNANDEZ-CHRYSTIAN",
   "description": "VITERI HERNANDEZ CHRYSTIAN PATRICIO",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.121.225.0/24"
+    ],
     "ipv6": [
       "2803:2450::/32"
     ]

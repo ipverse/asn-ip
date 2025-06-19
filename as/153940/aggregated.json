@@ -1,0 +1,11 @@
+{
+  "asn": 153940,
+  "handle": "IDNIC-FINET-ID",
+  "description": "PT Win Akselerasi Net Indonesia",
+  "subnets": {
+    "ipv4": [
+      "165.99.151.0/24"
+    ],
+    "ipv6": []
+  }
+}

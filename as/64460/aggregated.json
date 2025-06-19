@@ -3,7 +3,9 @@
   "handle": "OCS",
   "description": "Omid Computer Services Co. (PJS)",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "5.160.141.0/24"
+    ],
     "ipv6": []
   }
 }

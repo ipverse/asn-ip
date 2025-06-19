@@ -4,7 +4,8 @@
   "description": "Sefroyek Pardaz Engineering PJSC",
   "subnets": {
     "ipv4": [
-      "130.193.77.0/24"
+      "130.193.77.0/24",
+      "194.56.148.0/24"
     ],
     "ipv6": []
   }

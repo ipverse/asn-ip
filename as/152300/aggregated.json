@@ -3,7 +3,9 @@
   "handle": "SKYLINKNET-AP",
   "description": "Sky Link Net",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "157.10.64.0/23"
+    ],
     "ipv6": [
       "2401:72a0:2000::/35",
       "2401:72a0:4000::/34",

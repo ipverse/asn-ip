@@ -1,0 +1,13 @@
+{
+  "asn": 272993,
+  "handle": "GUAROVISION-CA",
+  "description": "GUAROVISION C.A.",
+  "subnets": {
+    "ipv4": [
+      "38.253.82.0/23"
+    ],
+    "ipv6": [
+      "2803:2d90::/32"
+    ]
+  }
+}

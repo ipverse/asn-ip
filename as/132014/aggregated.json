@@ -4,7 +4,6 @@
   "description": "NetPoller Limited",
   "subnets": {
     "ipv4": [
-      "103.69.228.0/22",
       "103.69.234.0/24"
     ],
     "ipv6": []

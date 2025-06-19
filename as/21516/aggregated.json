@@ -4,7 +4,8 @@
   "description": "Ephrata Community Hospital",
   "subnets": {
     "ipv4": [
-      "204.238.209.0/24"
+      "204.238.209.0/24",
+      "205.153.235.0/24"
     ],
     "ipv6": []
   }

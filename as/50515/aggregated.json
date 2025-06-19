@@ -3,9 +3,7 @@
   "handle": "TIER-DATA-CENTER",
   "description": "Tier SRL",
   "subnets": {
-    "ipv4": [
-      "193.105.239.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

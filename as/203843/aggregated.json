@@ -3,7 +3,9 @@
   "handle": "XINGKAI",
   "description": "WANG,XING-KAI",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.244.163.0/24"
+    ],
     "ipv6": [
       "2a14:7580:901::/48",
       "2a14:7580:902::/48"
