@@ -4,7 +4,7 @@
   "description": "Surfnett AS",
   "subnets": {
     "ipv4": [
-      "45.152.51.0/24"
+      "45.152.50.0/23"
     ],
     "ipv6": [
       "2a14:9c80::/29"

@@ -3,7 +3,10 @@
   "handle": "BARNACONSULTING",
   "description": "BARNA CONSULTING S.A.S.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "82.153.4.0/24",
+      "89.190.157.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "SIC",
   "description": "Shetland Islands Council",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "37.208.87.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "POSTOPIA",
   "description": "postopia",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "222.232.207.0/24"
+    ],
     "ipv6": []
   }
 }

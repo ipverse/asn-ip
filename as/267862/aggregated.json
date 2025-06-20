@@ -4,7 +4,8 @@
   "description": "CABLEVISION DEL CARIBE, EIRL",
   "subnets": {
     "ipv4": [
-      "45.177.0.0/22"
+      "45.177.0.0/22",
+      "45.235.231.0/24"
     ],
     "ipv6": []
   }

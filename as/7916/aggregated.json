@@ -3,9 +3,7 @@
   "handle": "ISDNET",
   "description": "Innovative System Design",
   "subnets": {
-    "ipv4": [
-      "199.178.160.0/21"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

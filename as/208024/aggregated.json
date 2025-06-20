@@ -1,9 +1,11 @@
 {
   "asn": 208024,
-  "handle": "RESERVED",
-  "description": "RIPE NCC ASN block",
+  "handle": "ALPENHOST",
+  "description": "Ronald Agorsah trading as Alpenhost e.U.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "92.112.48.0/23"
+    ],
     "ipv6": []
   }
 }

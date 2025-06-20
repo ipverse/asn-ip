@@ -1,9 +1,11 @@
 {
   "asn": 137208,
-  "handle": "AIC-AP",
-  "description": "ASIA INTEL Communications",
+  "handle": "IISI-AP",
+  "description": "ILEAD ICT SOLUTIONS INC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "163.227.122.0/23"
+    ],
     "ipv6": []
   }
 }

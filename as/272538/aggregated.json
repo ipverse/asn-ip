@@ -3,9 +3,7 @@
   "handle": "BRAYANS-NET",
   "description": "BRAYANS NET",
   "subnets": {
-    "ipv4": [
-      "38.10.150.0/24"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2804:82c0::/32"
     ]

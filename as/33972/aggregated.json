@@ -4,6 +4,8 @@
   "description": "LLC MASTERHOST",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a00:15f8:c::/47"
+    ]
   }
 }

@@ -3,9 +3,9 @@
   "handle": "INDYIX-PUBLIC",
   "description": "Indianapolis Internet Exchange, Inc.",
   "subnets": {
-    "ipv4": [],
-    "ipv6": [
-      "2602:f62a::/44"
-    ]
+    "ipv4": [
+      "23.140.92.0/24"
+    ],
+    "ipv6": []
   }
 }

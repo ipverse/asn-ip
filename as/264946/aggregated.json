@@ -3,7 +3,9 @@
   "handle": "PLANETA-TURBO-WI",
   "description": "PLANETA TURBO WI FI COMUNICACOES LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "168.228.136.0/22"
+    ],
     "ipv6": [
       "2804:305c::/32"
     ]

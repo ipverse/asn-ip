@@ -4,6 +4,7 @@
   "description": "ELS INTER TELECOMUNICACIONES, S.R.L.",
   "subnets": {
     "ipv4": [
+      "38.188.224.0/24",
       "38.210.90.0/24"
     ],
     "ipv6": []

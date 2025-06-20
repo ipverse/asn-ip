@@ -3,9 +3,7 @@
   "handle": "ESGPL-AP",
   "description": "E Security Group Pty Ltd",
   "subnets": {
-    "ipv4": [
-      "103.48.20.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }
