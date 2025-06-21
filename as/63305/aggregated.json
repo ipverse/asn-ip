@@ -4,8 +4,6 @@
   "description": "San@sro Inc",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2620:ac:4000::/48"
-    ]
+    "ipv6": []
   }
 }

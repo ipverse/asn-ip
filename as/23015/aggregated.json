@@ -4,6 +4,7 @@
   "description": "Cambridge Mercantile Corp.",
   "subnets": {
     "ipv4": [
+      "38.110.79.0/24",
       "148.59.169.0/24"
     ],
     "ipv6": []

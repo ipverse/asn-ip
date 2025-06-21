@@ -1,9 +1,11 @@
 {
   "asn": 210234,
-  "handle": "IPV6LAB",
-  "description": "Hubert Lewandowski trading as IT-SERVICE",
+  "handle": "CITYNET",
+  "description": "City Net LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.233.104.0/24"
+    ],
     "ipv6": []
   }
 }

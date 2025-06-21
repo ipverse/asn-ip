@@ -1,9 +1,11 @@
 {
   "asn": 209267,
-  "handle": "JB6",
-  "description": "Joseph Bywater",
+  "handle": "VELORUM",
+  "description": "Velorum B.V.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "89.34.174.0/24"
+    ],
     "ipv6": []
   }
 }

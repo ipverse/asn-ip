@@ -3,7 +3,9 @@
   "handle": "MUILTIES-NETWORK",
   "description": "Kai-Jung Chen",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "36.50.248.0/23"
+    ],
     "ipv6": [
       "2001:67c:2800::/48",
       "2401:5f20::/32",

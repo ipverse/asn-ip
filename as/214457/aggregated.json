@@ -4,6 +4,8 @@
   "description": "Veesix Networks Ltd",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2001:3200::/29"
+    ]
   }
 }

@@ -3,9 +3,7 @@
   "handle": "SAFRAPAY-US-01",
   "description": "Safrapay Inc",
   "subnets": {
-    "ipv4": [
-      "38.121.229.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

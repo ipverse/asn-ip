@@ -1,9 +1,11 @@
 {
   "asn": 212200,
-  "handle": "RESERVED",
-  "description": "RIPE NCC ASN block",
+  "handle": "EUCLID",
+  "description": "EUCLID SERVICES LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.140.167.0/24"
+    ],
     "ipv6": []
   }
 }

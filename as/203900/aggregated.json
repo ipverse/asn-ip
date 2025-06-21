@@ -3,7 +3,9 @@
   "handle": "FARAERTEBATMABNA",
   "description": "Fara Ertebat Mabna PJS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.104.29.0/24"
+    ],
     "ipv6": []
   }
 }

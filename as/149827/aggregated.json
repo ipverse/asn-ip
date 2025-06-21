@@ -1,9 +1,11 @@
 {
   "asn": 149827,
-  "handle": "RESERVED",
-  "description": "APNIC ASN block",
+  "handle": "TECHDPTYLTD-AP",
+  "description": "TECHD Group",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "165.99.122.0/23"
+    ],
     "ipv6": []
   }
 }
