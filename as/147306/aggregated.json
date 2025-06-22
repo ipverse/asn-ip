@@ -1,9 +1,11 @@
 {
   "asn": 147306,
-  "handle": "RESERVED",
-  "description": "APNIC ASN block",
+  "handle": "VINCENT-IN",
+  "description": "VINCENTIO TECH SOLUTIONS PRIVATE LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "165.99.104.0/23"
+    ],
     "ipv6": []
   }
 }

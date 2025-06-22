@@ -3,7 +3,11 @@
   "handle": "DAVIDSONFUELS",
   "description": "Donald L Davidson Fuels Ltd",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "23.138.20.0/24"
+    ],
+    "ipv6": [
+      "2604:d60::/32"
+    ]
   }
 }

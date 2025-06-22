@@ -3,7 +3,9 @@
   "handle": "E1SERVER",
   "description": "Ali Asadi",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "93.126.54.0/24"
+    ],
     "ipv6": []
   }
 }

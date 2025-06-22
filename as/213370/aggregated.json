@@ -4,8 +4,6 @@
   "description": "Netomat Srl",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2001:678:894::/48"
-    ]
+    "ipv6": []
   }
 }

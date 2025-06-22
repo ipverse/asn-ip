@@ -1,0 +1,11 @@
+{
+  "asn": 400525,
+  "handle": "AM-PRODNET-01",
+  "description": "Audible Magic",
+  "subnets": {
+    "ipv4": [
+      "170.62.82.0/23"
+    ],
+    "ipv6": []
+  }
+}

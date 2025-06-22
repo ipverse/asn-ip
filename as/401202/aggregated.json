@@ -3,7 +3,11 @@
   "handle": "SPL-HQ",
   "description": "Sound, Production \u0026 Lighting LLC",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "23.182.88.0/24"
+    ],
+    "ipv6": [
+      "2620:ca:2000::/48"
+    ]
   }
 }

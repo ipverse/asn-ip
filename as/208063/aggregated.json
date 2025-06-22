@@ -1,9 +1,12 @@
 {
   "asn": 208063,
-  "handle": "QUINSAC800",
-  "description": "Dario Quinsac",
+  "handle": "NEXSTREAM",
+  "description": "Nexstream Pty Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "109.122.56.0/24",
+      "143.20.103.0/24"
+    ],
     "ipv6": []
   }
 }

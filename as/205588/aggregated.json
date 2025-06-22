@@ -3,10 +3,7 @@
   "handle": "DAFTARE-TABLIGHATE-ESLAMI",
   "description": "The Islamic Propagation Office of Qom Seminary",
   "subnets": {
-    "ipv4": [
-      "185.213.8.0/23",
-      "185.213.11.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

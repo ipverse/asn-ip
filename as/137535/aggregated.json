@@ -3,7 +3,10 @@
   "handle": "JTIP-AP",
   "description": "JT TELECOM INTERNATIONAL PTE.LTD.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.110.220.0/23",
+      "103.127.240.0/22"
+    ],
     "ipv6": []
   }
 }
