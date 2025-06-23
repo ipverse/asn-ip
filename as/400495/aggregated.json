@@ -3,7 +3,9 @@
   "handle": "PACKETWARE",
   "description": "Packetware",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "63.141.38.0/24"
+    ],
     "ipv6": []
   }
 }

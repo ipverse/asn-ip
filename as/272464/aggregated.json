@@ -3,7 +3,9 @@
   "handle": "I-7-PROVEDOR-INTERNET",
   "description": "i 7 Provedor de internet LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.226.140.0/23"
+    ],
     "ipv6": [
       "2804:8198::/32"
     ]

@@ -4,7 +4,7 @@
   "description": "AFTAB NAGAR ONLINE SERVICE (ANOS)",
   "subnets": {
     "ipv4": [
-      "103.113.224.0/22"
+      "103.113.224.0/24"
     ],
     "ipv6": []
   }

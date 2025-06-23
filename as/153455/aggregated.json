@@ -1,0 +1,11 @@
+{
+  "asn": 153455,
+  "handle": "GMSC-AP",
+  "description": "G Links Solution",
+  "subnets": {
+    "ipv4": [
+      "160.250.6.0/23"
+    ],
+    "ipv6": []
+  }
+}

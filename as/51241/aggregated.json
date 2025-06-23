@@ -4,9 +4,7 @@
   "description": "Islamic Republic of Iran Post PJSC",
   "subnets": {
     "ipv4": [
-      "91.207.138.0/23",
-      "178.215.8.0/23",
-      "178.219.238.0/23"
+      "91.207.138.0/23"
     ],
     "ipv6": []
   }

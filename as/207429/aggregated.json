@@ -3,10 +3,7 @@
   "handle": "KAPTEYAN",
   "description": "Kapteyan Bilisim Teknolojileri Sanayi ve Ticaret A.S",
   "subnets": {
-    "ipv4": [
-      "80.253.244.0/24",
-      "89.252.151.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

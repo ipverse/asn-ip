@@ -1,9 +1,11 @@
 {
   "asn": 136516,
-  "handle": "RESERVED",
-  "description": "APNIC ASN block",
+  "handle": "IDNIC-POLDAJATIM-ID",
+  "description": "KEPOLISIAN DAERAH JAWA TIMUR",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "165.101.7.0/24"
+    ],
     "ipv6": []
   }
 }

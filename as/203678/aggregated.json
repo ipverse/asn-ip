@@ -1,11 +1,9 @@
 {
   "asn": 203678,
-  "handle": "NOPROBLEMIT",
-  "description": "No Problem IT Ltd",
+  "handle": "RESERVED",
+  "description": "RIPE NCC ASN block",
   "subnets": {
-    "ipv4": [
-      "185.125.140.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

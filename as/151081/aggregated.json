@@ -1,9 +1,11 @@
 {
   "asn": 151081,
-  "handle": "RESERVED",
-  "description": "APNIC ASN block",
+  "handle": "ARYANDUNYAICT-AP",
+  "description": "ARYAN DUNYA ICT",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "165.101.26.0/24"
+    ],
     "ipv6": []
   }
 }

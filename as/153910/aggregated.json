@@ -1,0 +1,11 @@
+{
+  "asn": 153910,
+  "handle": "IDNIC-RDN-ID",
+  "description": "PT Ryza Data Nusantara",
+  "subnets": {
+    "ipv4": [
+      "165.99.99.0/24"
+    ],
+    "ipv6": []
+  }
+}

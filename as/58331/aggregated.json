@@ -3,10 +3,7 @@
   "handle": "AFRA-IR",
   "description": "Rayaneh Asr-e Ertebat Bam Technology and Engineering Cooperative Co",
   "subnets": {
-    "ipv4": [
-      "185.75.207.0/24",
-      "193.242.194.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

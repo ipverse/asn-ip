@@ -3,11 +3,7 @@
   "handle": "ENTROPIA-EVENT",
   "description": "Entropia e.V.",
   "subnets": {
-    "ipv4": [
-      "151.218.0.0/18"
-    ],
-    "ipv6": [
-      "2a0e:c5c1::/48"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

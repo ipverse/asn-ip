@@ -4,6 +4,8 @@
   "description": "FJ TELECOMUNICAES E SERVIOS",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2804:8fd4::/32"
+    ]
   }
 }

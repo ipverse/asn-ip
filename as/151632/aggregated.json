@@ -1,0 +1,11 @@
+{
+  "asn": 151632,
+  "handle": "WASN-AP",
+  "description": "Web and Soft Network",
+  "subnets": {
+    "ipv4": [
+      "103.243.234.0/23"
+    ],
+    "ipv6": []
+  }
+}

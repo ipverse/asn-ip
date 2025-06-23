@@ -3,9 +3,7 @@
   "handle": "IZBANK",
   "description": "Iran Zamin Bank PJSC",
   "subnets": {
-    "ipv4": [
-      "185.222.180.0/22"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

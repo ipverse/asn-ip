@@ -3,7 +3,10 @@
   "handle": "IRANHOST",
   "description": "Roshangar Rayaneh Tehran Co. Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.10.72.0/24",
+      "185.10.74.0/24"
+    ],
     "ipv6": []
   }
 }

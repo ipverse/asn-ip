@@ -3,11 +3,7 @@
   "handle": "IDNIC-ANNORTYNET-ID",
   "description": "PT Landak Annorty Net",
   "subnets": {
-    "ipv4": [
-      "160.187.138.0/23"
-    ],
-    "ipv6": [
-      "2001:df4:5540::/48"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

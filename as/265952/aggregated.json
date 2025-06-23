@@ -4,6 +4,7 @@
   "description": "Rap 10 Telecomunicaes Eireli",
   "subnets": {
     "ipv4": [
+      "38.211.35.0/24",
       "164.163.16.0/22"
     ],
     "ipv6": [
