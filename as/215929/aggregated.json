@@ -4,6 +4,7 @@
   "description": "Data Campus Limited",
   "subnets": {
     "ipv4": [
+      "45.142.195.0/24",
       "193.24.211.0/24"
     ],
     "ipv6": [

@@ -1,9 +1,11 @@
 {
   "asn": 138517,
-  "handle": "RESERVED",
-  "description": "APNIC ASN block",
+  "handle": "IDNIC-SIXNET-ID",
+  "description": "PT Six Nett Solusindo",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "163.227.32.0/23"
+    ],
     "ipv6": []
   }
 }

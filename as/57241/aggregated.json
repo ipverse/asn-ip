@@ -3,7 +3,9 @@
   "handle": "MASKANBANK",
   "description": "Maskan Bank",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "212.1.192.0/21"
+    ],
     "ipv6": []
   }
 }

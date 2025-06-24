@@ -3,7 +3,9 @@
   "handle": "SEPEHRPAYMENT",
   "description": "Barmak Khotvaneh",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.3.31.0/24"
+    ],
     "ipv6": []
   }
 }

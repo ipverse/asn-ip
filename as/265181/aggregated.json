@@ -4,7 +4,8 @@
   "description": "S1 Telecomunicaes e Sistemas de Informao LTDA",
   "subnets": {
     "ipv4": [
-      "170.233.36.0/22"
+      "170.233.37.0/24",
+      "170.233.38.0/23"
     ],
     "ipv6": []
   }

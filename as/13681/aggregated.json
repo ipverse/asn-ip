@@ -1,0 +1,11 @@
+{
+  "asn": 13681,
+  "handle": "MIDWEST-IX",
+  "description": "Midwest Internet Exchange LLC",
+  "subnets": {
+    "ipv4": [
+      "149.112.7.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -3,7 +3,11 @@
   "handle": "RAHAMANCORPORATION-AP",
   "description": "Rahaman Corporation",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "160.191.20.0/24"
+    ],
+    "ipv6": [
+      "2401:cf20::/32"
+    ]
   }
 }

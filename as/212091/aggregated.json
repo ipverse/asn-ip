@@ -3,7 +3,9 @@
   "handle": "DATARGO",
   "description": "Datargo GmbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.147.85.0/24"
+    ],
     "ipv6": []
   }
 }

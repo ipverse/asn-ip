@@ -1,9 +1,11 @@
 {
   "asn": 202916,
-  "handle": "IPS",
+  "handle": "SAVVII",
   "description": "Savvii B.V.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "86.109.20.0/24"
+    ],
     "ipv6": []
   }
 }

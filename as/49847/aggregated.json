@@ -3,7 +3,10 @@
   "handle": "RAYAZMA",
   "description": "Pardazeshgar Ray Azma Co. Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.132.172.0/22",
+      "185.42.224.0/22"
+    ],
     "ipv6": []
   }
 }

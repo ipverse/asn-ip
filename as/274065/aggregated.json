@@ -3,7 +3,9 @@
   "handle": "GRUPO-TELEVISTA-CA",
   "description": "GRUPO TELEVISTA, C.A",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.123.175.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "RC-COMUNICACIONES",
   "description": "RC COMUNICACIONES SAS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "131.255.19.0/24"
+    ],
     "ipv6": []
   }
 }

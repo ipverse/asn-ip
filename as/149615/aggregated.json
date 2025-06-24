@@ -4,6 +4,7 @@
   "description": "Goodwill Enterprises",
   "subnets": {
     "ipv4": [
+      "103.143.180.0/23",
       "103.185.160.0/23"
     ],
     "ipv6": [

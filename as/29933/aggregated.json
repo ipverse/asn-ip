@@ -3,9 +3,7 @@
   "handle": "FIRSTDIGITAL",
   "description": "FirstDigital Communications, LLC",
   "subnets": {
-    "ipv4": [
-      "66.219.200.0/23"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2600:7401::/32"
     ]

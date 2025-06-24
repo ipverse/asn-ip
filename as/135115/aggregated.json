@@ -1,9 +1,11 @@
 {
   "asn": 135115,
-  "handle": "RESERVED",
-  "description": "APNIC ASN block",
+  "handle": "OFABL-AP",
+  "description": "OCEAN FIBERS AND BROADBAND PRIVATE LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "165.99.40.0/24"
+    ],
     "ipv6": []
   }
 }
