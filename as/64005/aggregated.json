@@ -4,6 +4,7 @@
   "description": "KaritKarma Limited",
   "subnets": {
     "ipv4": [
+      "103.139.235.0/24",
       "103.228.200.0/24"
     ],
     "ipv6": [

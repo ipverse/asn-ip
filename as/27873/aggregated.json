@@ -3,7 +3,9 @@
   "handle": "COMPAIA-GOLY",
   "description": "Compaia Goly, S.A.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "200.6.52.0/24"
+    ],
     "ipv6": []
   }
 }

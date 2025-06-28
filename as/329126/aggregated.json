@@ -4,6 +4,7 @@
   "description": "IIP1 Pty Ltd",
   "subnets": {
     "ipv4": [
+      "102.206.92.0/22",
       "102.214.116.0/22"
     ],
     "ipv6": [

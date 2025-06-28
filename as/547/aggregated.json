@@ -3,7 +3,9 @@
   "handle": "IBM-LEX",
   "description": "IBM",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "170.225.223.0/24"
+    ],
     "ipv6": []
   }
 }

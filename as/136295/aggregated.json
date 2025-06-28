@@ -3,7 +3,9 @@
   "handle": "MEDITAB-IN",
   "description": "Meditab Software (india) Private Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "163.227.132.0/23"
+    ],
     "ipv6": []
   }
 }
