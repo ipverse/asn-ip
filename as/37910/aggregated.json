@@ -1,7 +1,7 @@
 {
   "asn": 37910,
-  "handle": "RESERVED",
-  "description": "APNIC ASN block",
+  "handle": "CUNET",
+  "description": "Chubu University",
   "subnets": {
     "ipv4": [
       "157.110.0.0/16"

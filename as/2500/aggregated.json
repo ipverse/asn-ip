@@ -1,7 +1,7 @@
 {
   "asn": 2500,
-  "handle": "RESERVED",
-  "description": "JPNIC-2Byte-ASBLOCK-AP",
+  "handle": "WIDE-BB",
+  "description": "WIDE Project",
   "subnets": {
     "ipv4": [
       "133.4.128.0/18",

@@ -1,7 +1,7 @@
 {
   "asn": 59120,
-  "handle": "RESERVED",
-  "description": "JPNIC-2Byte-ASBLOCK-AP",
+  "handle": "TINS-NET",
+  "description": "Tsukuba Internet Service Corporation",
   "subnets": {
     "ipv4": [
       "202.222.10.0/23"

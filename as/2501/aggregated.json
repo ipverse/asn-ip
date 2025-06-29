@@ -1,7 +1,7 @@
 {
   "asn": 2501,
-  "handle": "RESERVED",
-  "description": "JPNIC-2Byte-ASBLOCK-AP",
+  "handle": "UTNET",
+  "description": "The University of Tokyo",
   "subnets": {
     "ipv4": [
       "130.69.0.0/16",

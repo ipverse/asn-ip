@@ -1,7 +1,7 @@
 {
   "asn": 2522,
-  "handle": "RESERVED",
-  "description": "JPNIC-2Byte-ASBLOCK-AP",
+  "handle": "PPP-EXP",
+  "description": "Japan Network Information Center",
   "subnets": {
     "ipv4": [
       "61.122.16.0/22",

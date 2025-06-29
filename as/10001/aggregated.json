@@ -1,7 +1,7 @@
 {
   "asn": 10001,
-  "handle": "RESERVED",
-  "description": "APNIC ASN block",
+  "handle": "MICSNET",
+  "description": "Mics Network Corporation",
   "subnets": {
     "ipv4": [
       "49.128.128.0/19",

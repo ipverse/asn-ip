@@ -1,7 +1,7 @@
 {
   "asn": 59105,
-  "handle": "RESERVED",
-  "description": "JPNIC-2Byte-ASBLOCK-AP",
+  "handle": "HOMENOC",
+  "description": "Home NOC Operators Group",
   "subnets": {
     "ipv4": [
       "103.48.31.0/24",
