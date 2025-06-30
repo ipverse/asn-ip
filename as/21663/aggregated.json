@@ -4,8 +4,7 @@
   "description": "GetWellNetwork, Inc.",
   "subnets": {
     "ipv4": [
-      "68.71.224.0/23",
-      "68.71.226.0/24"
+      "68.71.224.0/22"
     ],
     "ipv6": []
   }

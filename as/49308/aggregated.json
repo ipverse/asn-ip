@@ -3,7 +3,9 @@
   "handle": "CREDIT-GUARD",
   "description": "Hyp Payment Solutions Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "198.202.22.0/24"
+    ],
     "ipv6": []
   }
 }

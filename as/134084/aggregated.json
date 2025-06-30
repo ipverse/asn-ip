@@ -1,9 +1,11 @@
 {
   "asn": 134084,
-  "handle": "BANI-NETWORKS-LTD",
-  "description": "Bani Networks LTD",
+  "handle": "TOSLINK-AP",
+  "description": "TOSLINK INC.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "165.101.14.0/23"
+    ],
     "ipv6": []
   }
 }

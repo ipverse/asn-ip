@@ -3,9 +3,7 @@
   "handle": "OME-LOGIC",
   "description": "Ome Logic Ltd",
   "subnets": {
-    "ipv4": [
-      "37.1.226.0/24"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2a06:e881:6400::/44"
     ]

@@ -4,7 +4,7 @@
   "description": "PT Chiabinet Jaringan Multimedia",
   "subnets": {
     "ipv4": [
-      "160.19.110.0/23"
+      "160.19.110.0/24"
     ],
     "ipv6": []
   }

@@ -3,7 +3,9 @@
   "handle": "GPO-TELECOM-FIBRA-OPTICA",
   "description": "GPO TELECOM FIBRA OPTICA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.178.163.0/24"
+    ],
     "ipv6": []
   }
 }

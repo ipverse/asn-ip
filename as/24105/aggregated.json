@@ -3,9 +3,7 @@
   "handle": "GB-AP",
   "description": "Green Broadband",
   "subnets": {
-    "ipv4": [
-      "110.34.36.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

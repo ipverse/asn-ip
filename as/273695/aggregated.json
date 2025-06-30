@@ -3,7 +3,9 @@
   "handle": "CODECIA-PLATAFORMAS-DIGITAIS",
   "description": "CODECIA PLATAFORMAS DIGITAIS LTDA - EPP",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.159.178.0/24"
+    ],
     "ipv6": [
       "2804:8ad4::/32"
     ]

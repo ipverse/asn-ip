@@ -4,8 +4,6 @@
   "description": "DATA Communications Management Corp.",
   "subnets": {
     "ipv4": [
-      "162.27.63.0/24",
-      "162.27.64.0/24",
       "162.27.150.0/24",
       "162.27.153.0/24",
       "162.27.154.0/24"

@@ -4,6 +4,8 @@
   "description": "PIXIE NETWORKS LTD",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a0b:9780::/29"
+    ]
   }
 }

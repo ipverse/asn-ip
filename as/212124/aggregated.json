@@ -1,9 +1,11 @@
 {
   "asn": 212124,
-  "handle": "KIWINETWORK",
-  "description": "YANNIS PIOT PILOT",
+  "handle": "UPMIND",
+  "description": "Upmind Automation Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.240.229.0/24"
+    ],
     "ipv6": []
   }
 }

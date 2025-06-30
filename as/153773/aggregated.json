@@ -1,0 +1,13 @@
+{
+  "asn": 153773,
+  "handle": "METAQUOTES-AP",
+  "description": "MetaQuotes Ltd",
+  "subnets": {
+    "ipv4": [
+      "36.255.76.0/24"
+    ],
+    "ipv6": [
+      "2401:fce0:10::/48"
+    ]
+  }
+}

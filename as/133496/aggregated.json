@@ -3,7 +3,9 @@
   "handle": "MOHITECH-AP",
   "description": "Mohi Tech",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "161.248.6.0/23"
+    ],
     "ipv6": []
   }
 }

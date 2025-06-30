@@ -1,0 +1,11 @@
+{
+  "asn": 401780,
+  "handle": "NNTC",
+  "description": "Nucla Naturita Telephone",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2602:f9a3::/40"
+    ]
+  }
+}

@@ -1,9 +1,11 @@
 {
   "asn": 26445,
-  "handle": "BNC",
-  "description": "BLACK NEWS CHANNEL, LLC",
+  "handle": "OWL",
+  "description": "4096 SVCS LLC",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2402:be0:fff0::/46"
+    ]
   }
 }

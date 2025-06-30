@@ -3,11 +3,7 @@
   "handle": "SOPRA-FINANCIAL-SOFTWARE-GMBH",
   "description": "Sopra Financial Software GmbH",
   "subnets": {
-    "ipv4": [
-      "185.160.240.0/22"
-    ],
-    "ipv6": [
-      "2a0a:8500::/29"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }
