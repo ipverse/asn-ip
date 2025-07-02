@@ -4,6 +4,9 @@
   "description": "YANDEX LLC",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a02:6bf:8005::/48",
+      "2a02:6bf:8006::/48"
+    ]
   }
 }

@@ -1,0 +1,13 @@
+{
+  "asn": 136973,
+  "handle": "PIVOTEL-AP",
+  "description": "Pivotel Group Pty Limited",
+  "subnets": {
+    "ipv4": [
+      "203.105.203.0/24",
+      "203.105.204.0/24",
+      "203.105.210.0/23"
+    ],
+    "ipv6": []
+  }
+}

@@ -3,7 +3,9 @@
   "handle": "LOCALITY-NETWORKS-01",
   "description": "Locality Networks inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.83.142.0/24"
+    ],
     "ipv6": []
   }
 }

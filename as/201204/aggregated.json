@@ -3,7 +3,9 @@
   "handle": "RBS-K",
   "description": "LLC Runet Business Systems",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.85.102.0/24"
+    ],
     "ipv6": []
   }
 }

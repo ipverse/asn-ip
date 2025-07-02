@@ -3,7 +3,9 @@
   "handle": "DNS-FIBRA",
   "description": "DNS FIBRA LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "177.185.104.0/23"
+    ],
     "ipv6": [
       "2804:85e0::/32"
     ]

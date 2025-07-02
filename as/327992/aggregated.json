@@ -4,11 +4,8 @@
   "description": "Ghanaian Academic and Research Network",
   "subnets": {
     "ipv4": [
-      "102.207.4.0/22",
-      "169.239.248.0/22"
+      "169.239.248.0/24"
     ],
-    "ipv6": [
-      "2c0f:eea0::/32"
-    ]
+    "ipv6": []
   }
 }

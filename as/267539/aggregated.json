@@ -3,9 +3,7 @@
   "handle": "JBM-DORO-TELECOMUNICAO",
   "description": "JBM Doro Telecomunicao Me",
   "subnets": {
-    "ipv4": [
-      "45.175.186.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

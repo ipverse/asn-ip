@@ -4,6 +4,7 @@
   "description": "VPSVAULT.HOST LTD",
   "subnets": {
     "ipv4": [
+      "45.194.66.0/24",
       "87.121.84.0/24"
     ],
     "ipv6": [
