@@ -4,7 +4,6 @@
   "description": "UAB Baltnetos komunikacijos",
   "subnets": {
     "ipv4": [
-      "45.95.33.0/24",
       "85.254.1.0/24"
     ],
     "ipv6": []

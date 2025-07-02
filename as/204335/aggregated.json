@@ -4,9 +4,6 @@
   "description": "IT business solutions, MB",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2001:3182::/32",
-      "2a14:6ac2::/32"
-    ]
+    "ipv6": []
   }
 }

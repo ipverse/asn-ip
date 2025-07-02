@@ -4,6 +4,7 @@
   "description": "PT Nusa Data Multimedia",
   "subnets": {
     "ipv4": [
+      "38.52.147.0/24",
       "103.160.14.0/24"
     ],
     "ipv6": []

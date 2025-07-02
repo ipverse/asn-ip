@@ -3,10 +3,7 @@
   "handle": "FF-AS01",
   "description": "Flying Horse Holdings, LLC",
   "subnets": {
-    "ipv4": [
-      "192.33.11.0/24",
-      "198.252.206.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

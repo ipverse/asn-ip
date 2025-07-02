@@ -3,7 +3,9 @@
   "handle": "CORELIGHTNET-CLOUD",
   "description": "Corelight, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "198.29.16.0/23"
+    ],
     "ipv6": [
       "2602:f9e7:20::/48"
     ]

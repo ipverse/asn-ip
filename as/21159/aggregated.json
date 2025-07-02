@@ -3,7 +3,9 @@
   "handle": "NOVOSERVE-GMBH",
   "description": "NovoServe B.V.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.182.81.0/24"
+    ],
     "ipv6": []
   }
 }

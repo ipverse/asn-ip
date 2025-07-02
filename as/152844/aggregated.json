@@ -3,7 +3,9 @@
   "handle": "TDMCBL-AP",
   "description": "The Dhaka Mercantile Co-Operative Bank Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.154.132.0/23"
+    ],
     "ipv6": []
   }
 }
