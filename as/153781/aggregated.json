@@ -3,7 +3,9 @@
   "handle": "WIL-AP",
   "description": "Wintop Tech",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "163.227.43.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -4,6 +4,7 @@
   "description": "PT Tekno Indo Jaya",
   "subnets": {
     "ipv4": [
+      "38.253.120.0/23",
       "163.223.112.0/24"
     ],
     "ipv6": [

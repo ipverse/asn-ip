@@ -3,7 +3,9 @@
   "handle": "AIMS-COMMUNITY-COLLEGE",
   "description": "Aims Community College",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "129.19.174.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "A-NET",
   "description": "BangLong Yang",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "23.185.104.0/24"
+    ],
     "ipv6": [
       "2400:e3e0:abb2::/48",
       "2602:f864:ffe::/47",

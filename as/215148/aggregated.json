@@ -1,9 +1,11 @@
 {
   "asn": 215148,
-  "handle": "HN-DEV-NET",
-  "description": "Tsang Cheuk Him",
+  "handle": "DELTA-TELECOM-CS",
+  "description": "Delta Telecom Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "77.81.56.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -1,9 +1,11 @@
 {
   "asn": 215294,
-  "handle": "RESERVED",
-  "description": "RIPE NCC ASN block",
+  "handle": "LUMINABROADBAND",
+  "description": "Lumina broadband UAB",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "95.135.144.0/24"
+    ],
     "ipv6": []
   }
 }

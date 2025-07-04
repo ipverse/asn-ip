@@ -1,0 +1,11 @@
+{
+  "asn": 153576,
+  "handle": "IDNIC-JLSS-ID",
+  "description": "PT JARINGAN LINTAS SELATAN SOLUSINDO",
+  "subnets": {
+    "ipv4": [
+      "163.61.82.0/23"
+    ],
+    "ipv6": []
+  }
+}
