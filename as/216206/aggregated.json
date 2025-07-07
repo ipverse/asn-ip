@@ -1,9 +1,12 @@
 {
   "asn": 216206,
-  "handle": "RESERVED",
-  "description": "RIPE NCC ASN block",
+  "handle": "APHRODITE",
+  "description": "Aphrodite Group Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.144.19.0/24",
+      "194.156.26.0/24"
+    ],
     "ipv6": []
   }
 }

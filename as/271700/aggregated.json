@@ -4,6 +4,7 @@
   "description": "STEC GUAIBA",
   "subnets": {
     "ipv4": [
+      "45.65.166.0/24",
       "189.84.56.0/22"
     ],
     "ipv6": [

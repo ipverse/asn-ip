@@ -3,7 +3,11 @@
   "handle": "GALEON",
   "description": "Galeon LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.132.49.0/24",
+      "178.22.24.0/24",
+      "217.119.139.0/24"
+    ],
     "ipv6": []
   }
 }

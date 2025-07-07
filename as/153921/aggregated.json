@@ -1,0 +1,11 @@
+{
+  "asn": 153921,
+  "handle": "IDNIC-CIDATEL-ID",
+  "description": "PT Citra Data Telematika",
+  "subnets": {
+    "ipv4": [
+      "165.99.94.0/24"
+    ],
+    "ipv6": []
+  }
+}

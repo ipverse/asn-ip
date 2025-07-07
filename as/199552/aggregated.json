@@ -3,11 +3,7 @@
   "handle": "DECORATE-IT",
   "description": "Caprariu Ioana-Lidia Persoana Fizica Autorizata",
   "subnets": {
-    "ipv4": [
-      "178.157.92.0/24"
-    ],
-    "ipv6": [
-      "2001:67c:2abc::/48"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

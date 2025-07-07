@@ -3,9 +3,7 @@
   "handle": "DUOTUCLOUD-CN",
   "description": "DuoTu Cloud",
   "subnets": {
-    "ipv4": [
-      "202.189.13.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

@@ -1,9 +1,14 @@
 {
   "asn": 208360,
-  "handle": "BUBBLE",
-  "description": "Bubble, LLC",
+  "handle": "PNA",
+  "description": "Pushkarev Nikolai Aleksandrovich",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a0e:67c5::/32",
+      "2a11:7680::/32",
+      "2a11:b786::/32",
+      "2a11:d080::/32"
+    ]
   }
 }

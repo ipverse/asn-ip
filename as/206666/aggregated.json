@@ -3,11 +3,7 @@
   "handle": "MULTIMEDIA-NET",
   "description": "MULTIMEDIA-NET DOO SKOPJE",
   "subnets": {
-    "ipv4": [
-      "37.26.96.0/23",
-      "37.26.98.0/24",
-      "185.244.240.0/22"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

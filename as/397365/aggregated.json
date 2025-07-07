@@ -3,7 +3,9 @@
   "handle": "AS190901",
   "description": "Blade Broadband",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "168.100.172.0/23"
+    ],
     "ipv6": []
   }
 }

@@ -4,6 +4,7 @@
   "description": "BLUEZONE INTERNET INC",
   "subnets": {
     "ipv4": [
+      "38.225.85.0/24",
       "192.249.52.0/22"
     ],
     "ipv6": []

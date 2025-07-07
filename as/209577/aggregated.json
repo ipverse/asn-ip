@@ -1,0 +1,11 @@
+{
+  "asn": 209577,
+  "handle": "NIMH",
+  "description": "NIMH",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2001:678:908::/48"
+    ]
+  }
+}
