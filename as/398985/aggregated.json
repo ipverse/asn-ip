@@ -4,6 +4,7 @@
   "description": "City of Arvada",
   "subnets": {
     "ipv4": [
+      "50.206.244.0/24",
       "104.224.18.0/24"
     ],
     "ipv6": []

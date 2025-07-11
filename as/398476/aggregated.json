@@ -3,7 +3,9 @@
   "handle": "TORC-ROBOTICS",
   "description": "TORC Robotics, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.200.52.0/24"
+    ],
     "ipv6": []
   }
 }

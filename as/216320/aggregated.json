@@ -1,9 +1,11 @@
 {
   "asn": 216320,
-  "handle": "KA1031",
-  "description": "Kiriel Slembrouck",
+  "handle": "INFINIRC-LLC",
+  "description": "Infinirc LLC",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a13:2200:11::/48"
+    ]
   }
 }

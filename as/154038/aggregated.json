@@ -1,0 +1,13 @@
+{
+  "asn": 154038,
+  "handle": "SHIKHAR2-AP",
+  "description": "Shikhar Net Pvt. Ltd.",
+  "subnets": {
+    "ipv4": [
+      "165.101.164.0/23"
+    ],
+    "ipv6": [
+      "2402:16a0::/32"
+    ]
+  }
+}

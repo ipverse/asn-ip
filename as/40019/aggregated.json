@@ -1,0 +1,11 @@
+{
+  "asn": 40019,
+  "handle": "SENDLANE",
+  "description": "Sendlane",
+  "subnets": {
+    "ipv4": [
+      "204.14.47.0/24"
+    ],
+    "ipv6": []
+  }
+}

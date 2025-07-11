@@ -3,10 +3,7 @@
   "handle": "BADGER-INTERNET-INC",
   "description": "Badger Internet, Inc.",
   "subnets": {
-    "ipv4": [
-      "64.251.208.0/23",
-      "216.250.0.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

@@ -1,0 +1,13 @@
+{
+  "asn": 329539,
+  "handle": "GRID-LINK-NETWORKS-LIMITED",
+  "description": "Grid-Link Networks Limited",
+  "subnets": {
+    "ipv4": [
+      "102.205.216.0/22"
+    ],
+    "ipv6": [
+      "2c0f:5fc0::/32"
+    ]
+  }
+}

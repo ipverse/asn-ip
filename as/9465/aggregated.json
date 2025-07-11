@@ -4,6 +4,7 @@
   "description": "AGOTOZ PTE. LTD.",
   "subnets": {
     "ipv4": [
+      "45.142.154.0/24",
       "154.212.141.0/24"
     ],
     "ipv6": []

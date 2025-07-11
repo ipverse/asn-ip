@@ -1,9 +1,11 @@
 {
   "asn": 11085,
-  "handle": "PDI-HQ-INET",
-  "description": "Premier Designs, Inc",
+  "handle": "NCS-TECHNOLOGIES",
+  "description": "NCS Technologies Inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.92.53.0/24"
+    ],
     "ipv6": []
   }
 }

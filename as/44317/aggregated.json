@@ -3,9 +3,7 @@
   "handle": "MERCURYTELECOM",
   "description": "Mercury Telecom LLC",
   "subnets": {
-    "ipv4": [
-      "176.121.224.0/19"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

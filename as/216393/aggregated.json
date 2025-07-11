@@ -3,7 +3,9 @@
   "handle": "SYNAPT",
   "description": "Synapt ApS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "89.37.41.0/24"
+    ],
     "ipv6": []
   }
 }

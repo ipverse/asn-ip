@@ -4,6 +4,8 @@
   "description": "Jonas Dallmann Hoeke",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a12:de40:32::/48"
+    ]
   }
 }

@@ -3,10 +3,7 @@
   "handle": "AVELACOM",
   "description": "Avelacom Business Ltd.",
   "subnets": {
-    "ipv4": [
-      "95.143.8.0/23",
-      "95.143.10.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

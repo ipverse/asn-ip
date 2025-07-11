@@ -3,7 +3,9 @@
   "handle": "GLOBITECH-INC",
   "description": "GlobiTech Incorporated",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "167.170.99.0/24"
+    ],
     "ipv6": []
   }
 }

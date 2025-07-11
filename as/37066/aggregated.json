@@ -3,7 +3,9 @@
   "handle": "MFA",
   "description": "Ministry of Foreign Affairs",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "41.191.83.0/24"
+    ],
     "ipv6": []
   }
 }

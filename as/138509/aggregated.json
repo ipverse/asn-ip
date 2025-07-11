@@ -4,6 +4,7 @@
   "description": "RELATION CABLE NETWORK",
   "subnets": {
     "ipv4": [
+      "103.84.59.0/24",
       "103.127.92.0/23"
     ],
     "ipv6": []

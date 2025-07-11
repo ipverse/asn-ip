@@ -3,11 +3,7 @@
   "handle": "NETMINDERS-SERVER-HOSTING",
   "description": "Netminders Server Hosting",
   "subnets": {
-    "ipv4": [
-      "104.255.152.0/22",
-      "198.144.157.0/24",
-      "199.21.150.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

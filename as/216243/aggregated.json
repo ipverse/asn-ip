@@ -1,9 +1,11 @@
 {
   "asn": 216243,
-  "handle": "RESERVED",
-  "description": "RIPE NCC ASN block",
+  "handle": "BJEONYX",
+  "description": "JACO ENGELBRECHT",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.100.143.0/24"
+    ],
     "ipv6": []
   }
 }

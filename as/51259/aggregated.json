@@ -4,6 +4,7 @@
   "description": "Arcus Novus UAB",
   "subnets": {
     "ipv4": [
+      "77.94.50.0/24",
       "77.94.56.0/21"
     ],
     "ipv6": [

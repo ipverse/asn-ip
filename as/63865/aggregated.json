@@ -1,0 +1,11 @@
+{
+  "asn": 63865,
+  "handle": "IDNIC-MADC-ID",
+  "description": "PT Mataram Data Center",
+  "subnets": {
+    "ipv4": [
+      "157.66.39.0/24"
+    ],
+    "ipv6": []
+  }
+}

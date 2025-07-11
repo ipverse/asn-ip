@@ -1,0 +1,11 @@
+{
+  "asn": 154040,
+  "handle": "ANC-AP",
+  "description": "AIRDAN",
+  "subnets": {
+    "ipv4": [
+      "165.101.166.0/23"
+    ],
+    "ipv6": []
+  }
+}

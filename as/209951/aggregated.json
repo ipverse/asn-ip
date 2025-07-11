@@ -3,9 +3,7 @@
   "handle": "BYTESHIELD",
   "description": "ByteShield Hosting S.R.L.",
   "subnets": {
-    "ipv4": [
-      "31.57.56.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }
