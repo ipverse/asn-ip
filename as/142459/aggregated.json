@@ -3,7 +3,9 @@
   "handle": "AEERTELF",
   "description": "Aeertel Fibernet Telecom",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.168.212.0/24"
+    ],
     "ipv6": []
   }
 }

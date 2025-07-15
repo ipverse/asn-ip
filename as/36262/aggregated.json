@@ -3,11 +3,12 @@
   "handle": "HASHTABLE",
   "description": "HashTable, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "167.253.96.0/24"
+    ],
     "ipv6": [
       "2602:fb00:f5::/48",
-      "2602:fb00:f6::/47",
-      "2602:fb00:ff::/48"
+      "2602:fb00:f6::/47"
     ]
   }
 }

@@ -3,7 +3,9 @@
   "handle": "OCEANBLUE-CLOUD-US",
   "description": "OCEANBLUE CLOUD, INC.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.22.127.0/24"
+    ],
     "ipv6": []
   }
 }

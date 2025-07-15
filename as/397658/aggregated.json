@@ -4,6 +4,10 @@
   "description": "Hop179 LLC",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a0b:4e07:a9::/48",
+      "2a0b:4e07:ab::/48",
+      "2a0b:4e07:af::/48"
+    ]
   }
 }

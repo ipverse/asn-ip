@@ -1,9 +1,11 @@
 {
   "asn": 214803,
-  "handle": "HOMELAB",
-  "description": "Gabriel Leonte",
+  "handle": "BRNCHOST",
+  "description": "Baran Cirak",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "146.103.24.0/24"
+    ],
     "ipv6": []
   }
 }

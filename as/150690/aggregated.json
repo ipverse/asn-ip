@@ -1,9 +1,11 @@
 {
   "asn": 150690,
-  "handle": "RESERVED",
-  "description": "APNIC ASN block",
+  "handle": "IDNIC-ABIFIBER-ID",
+  "description": "PT Shankara Kalandra Jaya",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "165.101.30.0/24"
+    ],
     "ipv6": []
   }
 }

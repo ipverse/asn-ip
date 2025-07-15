@@ -4,6 +4,7 @@
   "description": "Sky Digital Co., Ltd.",
   "subnets": {
     "ipv4": [
+      "43.224.21.0/24",
       "43.224.22.0/24"
     ],
     "ipv6": []

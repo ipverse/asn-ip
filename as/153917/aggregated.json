@@ -1,0 +1,11 @@
+{
+  "asn": 153917,
+  "handle": "IDNIC-STARNUSNET-ID",
+  "description": "PT Star Nusantara Network",
+  "subnets": {
+    "ipv4": [
+      "165.99.20.0/24"
+    ],
+    "ipv6": []
+  }
+}

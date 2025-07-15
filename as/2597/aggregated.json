@@ -4,7 +4,6 @@
   "description": "Consiglio Nazionale delle Ricerche",
   "subnets": {
     "ipv4": [
-      "45.89.121.0/24",
       "192.12.192.0/23",
       "192.12.194.0/24"
     ],
