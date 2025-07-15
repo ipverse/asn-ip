@@ -3,11 +3,7 @@
   "handle": "LAYERBYTE",
   "description": "LayerByte LLC",
   "subnets": {
-    "ipv4": [
-      "23.187.56.0/24"
-    ],
-    "ipv6": [
-      "2602:f83c::/40"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

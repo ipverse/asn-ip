@@ -1,9 +1,11 @@
 {
   "asn": 211535,
-  "handle": "SADDLE",
-  "description": "Candy Horses LLC",
+  "handle": "ASILKARI",
+  "description": "Ilkari Ireland Company Limited",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a14:8400::/32"
+    ]
   }
 }

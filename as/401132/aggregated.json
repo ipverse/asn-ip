@@ -3,11 +3,7 @@
   "handle": "BL-RUBI",
   "description": "BulletServers LLC",
   "subnets": {
-    "ipv4": [
-      "23.139.164.0/24"
-    ],
-    "ipv6": [
-      "2602:f646:2::/48"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

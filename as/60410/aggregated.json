@@ -4,6 +4,7 @@
   "description": "Hewlett Packard France S.A.S.",
   "subnets": {
     "ipv4": [
+      "16.10.5.0/24",
       "16.10.14.0/23",
       "16.10.16.0/21",
       "16.10.30.0/23"

@@ -1,9 +1,11 @@
 {
   "asn": 207641,
-  "handle": "RESERVED",
-  "description": "RIPE NCC ASN block",
+  "handle": "AUROCORE-TECHNOLOGY",
+  "description": "AUROCORE TECHNOLOGY SRL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "31.42.120.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,12 +3,7 @@
   "handle": "FALCON",
   "description": "Falcon FZE LLC",
   "subnets": {
-    "ipv4": [
-      "23.130.28.0/24",
-      "185.121.69.0/24"
-    ],
-    "ipv6": [
-      "2a14:9d00::/29"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

@@ -1,0 +1,11 @@
+{
+  "asn": 35545,
+  "handle": "CLOUVIDER-ANYCAST",
+  "description": "Clouvider Limited",
+  "subnets": {
+    "ipv4": [
+      "143.14.191.0/24"
+    ],
+    "ipv6": []
+  }
+}
