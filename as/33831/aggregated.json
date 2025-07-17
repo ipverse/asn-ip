@@ -4,7 +4,8 @@
   "description": "Royal Hashemite Court",
   "subnets": {
     "ipv4": [
-      "84.18.32.0/19"
+      "84.18.32.0/19",
+      "84.18.66.0/24"
     ],
     "ipv6": []
   }

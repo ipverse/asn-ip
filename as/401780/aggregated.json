@@ -4,6 +4,9 @@
   "description": "Nucla Naturita Telephone",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2602:f9a3::/48",
+      "2602:f9a3:2::/48"
+    ]
   }
 }

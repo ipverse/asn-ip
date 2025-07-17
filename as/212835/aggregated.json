@@ -1,9 +1,11 @@
 {
   "asn": 212835,
-  "handle": "FANAVARANIMENARIA",
-  "description": "FanAvaran Imen Aria",
+  "handle": "SHESTERNIN",
+  "description": "Shesternin Vladimir Anatolievich",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "87.251.67.0/24"
+    ],
     "ipv6": []
   }
 }

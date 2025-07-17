@@ -3,10 +3,7 @@
   "handle": "IPS",
   "description": "Iryna Kiselevych",
   "subnets": {
-    "ipv4": [
-      "109.122.28.0/24",
-      "151.242.103.0/24"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2a09:54c2::/32",
       "2a0d:d900::/32"

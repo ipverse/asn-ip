@@ -3,7 +3,9 @@
   "handle": "HAAS-TCM-001",
   "description": "Haas Group International, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "98.154.64.0/24"
+    ],
     "ipv6": []
   }
 }

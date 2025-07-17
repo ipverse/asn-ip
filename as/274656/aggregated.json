@@ -3,7 +3,11 @@
   "handle": "NETCOM-TECNOLOGIA",
   "description": "Netcom Tecnologia LTDA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "168.194.176.0/24"
+    ],
+    "ipv6": [
+      "2804:91a8::/32"
+    ]
   }
 }

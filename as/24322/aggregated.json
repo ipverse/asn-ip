@@ -1,9 +1,11 @@
 {
   "asn": 24322,
-  "handle": "HOSTLINK-AP",
-  "description": "HostLink",
+  "handle": "INFININET-AP",
+  "description": "Infininet Global Pty Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.248.50.0/24"
+    ],
     "ipv6": []
   }
 }

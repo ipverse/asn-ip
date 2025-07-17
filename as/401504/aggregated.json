@@ -1,0 +1,11 @@
+{
+  "asn": 401504,
+  "handle": "LONG-BEACH-01",
+  "description": "City of Long Beach",
+  "subnets": {
+    "ipv4": [
+      "204.108.18.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -4,6 +4,8 @@
   "description": "Netcom Provedor de Internet e Comrcio Ltda",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2804:25d8::/32"
+    ]
   }
 }

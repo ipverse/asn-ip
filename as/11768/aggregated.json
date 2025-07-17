@@ -1,9 +1,11 @@
 {
   "asn": 11768,
-  "handle": "VONTOBELUS",
-  "description": "Vontobel Asset Management INC",
+  "handle": "GRYPHO5-02",
+  "description": "Grypho5, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "66.179.102.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -4,6 +4,7 @@
   "description": "Stichting EventInfra",
   "subnets": {
     "ipv4": [
+      "151.217.0.0/16",
       "204.2.64.0/20"
     ],
     "ipv6": [

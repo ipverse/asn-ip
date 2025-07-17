@@ -4,7 +4,8 @@
   "description": "Rabo Support Services, Inc.",
   "subnets": {
     "ipv4": [
-      "74.118.216.0/22"
+      "74.118.216.0/22",
+      "74.118.223.0/24"
     ],
     "ipv6": []
   }
