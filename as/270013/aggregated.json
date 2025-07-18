@@ -4,6 +4,7 @@
   "description": "J AND J SPA (INFOFRACTAL)",
   "subnets": {
     "ipv4": [
+      "151.242.242.0/24",
       "200.14.81.0/24"
     ],
     "ipv6": [

@@ -3,7 +3,9 @@
   "handle": "YANDEX-OFFICE",
   "description": "YANDEX LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "84.252.160.0/20"
+    ],
     "ipv6": [
       "2a02:6bf:8000::/34"
     ]

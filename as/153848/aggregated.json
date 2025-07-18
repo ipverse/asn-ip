@@ -1,0 +1,13 @@
+{
+  "asn": 153848,
+  "handle": "IDNIC-JCD-ID",
+  "description": "PT Jaya Cipta Digital",
+  "subnets": {
+    "ipv4": [
+      "163.227.16.0/24"
+    ],
+    "ipv6": [
+      "2001:df5:56c0::/48"
+    ]
+  }
+}

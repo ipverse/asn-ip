@@ -3,9 +3,7 @@
   "handle": "KSCFC",
   "description": "Korea Finance for Construction",
   "subnets": {
-    "ipv4": [
-      "203.239.7.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

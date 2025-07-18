@@ -1,0 +1,11 @@
+{
+  "asn": 213196,
+  "handle": "USB",
+  "description": "Universitaetsspital Basel",
+  "subnets": {
+    "ipv4": [
+      "145.250.128.0/22"
+    ],
+    "ipv6": []
+  }
+}

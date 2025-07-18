@@ -4,6 +4,7 @@
   "description": "Blue Cross Blue Shield Association",
   "subnets": {
     "ipv4": [
+      "8.45.137.0/24",
       "8.45.140.0/24"
     ],
     "ipv6": []

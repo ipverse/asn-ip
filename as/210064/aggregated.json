@@ -3,9 +3,7 @@
   "handle": "DIMIT-NETWORK-TECHNOLOGY",
   "description": "Dimit Network Technology Company LLC",
   "subnets": {
-    "ipv4": [
-      "31.59.128.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

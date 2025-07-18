@@ -1,9 +1,11 @@
 {
   "asn": 206501,
-  "handle": "RESERVED",
-  "description": "RIPE NCC ASN block",
+  "handle": "RCLOUD",
+  "description": "LLC Russian clouds",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "217.78.228.0/24"
+    ],
     "ipv6": []
   }
 }

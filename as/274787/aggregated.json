@@ -1,0 +1,11 @@
+{
+  "asn": 274787,
+  "handle": "MXIMA-TELECOM",
+  "description": "Mxima Telecom",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2804:9394::/32"
+    ]
+  }
+}

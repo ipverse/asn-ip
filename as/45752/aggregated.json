@@ -4,7 +4,8 @@
   "description": "Provincial Waterworks Authority",
   "subnets": {
     "ipv4": [
-      "110.76.152.0/22"
+      "110.76.152.0/23",
+      "110.76.154.0/24"
     ],
     "ipv6": []
   }

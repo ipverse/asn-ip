@@ -4,7 +4,6 @@
   "description": "Skynet Broadband Service",
   "subnets": {
     "ipv4": [
-      "59.152.106.0/24",
       "103.137.143.0/24",
       "103.143.242.0/23"
     ],
