@@ -3,7 +3,9 @@
   "handle": "TELENET-SOLUTIONS",
   "description": "Telenet Solutions Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "102.207.222.0/24"
+    ],
     "ipv6": []
   }
 }

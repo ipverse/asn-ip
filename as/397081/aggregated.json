@@ -1,9 +1,11 @@
 {
   "asn": 397081,
-  "handle": "AUWIRELESS-01",
-  "description": "AU Wireless",
+  "handle": "VALKYRIE-HOSTING",
+  "description": "Valkyrie Hosting LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "94.156.175.0/24"
+    ],
     "ipv6": []
   }
 }

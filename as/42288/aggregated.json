@@ -1,9 +1,11 @@
 {
   "asn": 42288,
-  "handle": "NETACOLTD",
+  "handle": "MIZBANDADEPARDIS",
   "description": "Shahkar Towse\u0027e Tejarat Mana PJSC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "88.218.19.0/24"
+    ],
     "ipv6": []
   }
 }

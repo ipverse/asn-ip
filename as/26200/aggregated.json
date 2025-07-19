@@ -3,9 +3,7 @@
   "handle": "PSAM",
   "description": "P. Schoenfeld Asset Management, LLC",
   "subnets": {
-    "ipv4": [
-      "208.246.42.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

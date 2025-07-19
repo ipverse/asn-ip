@@ -1,9 +1,16 @@
 {
   "asn": 211522,
-  "handle": "TAMONE",
-  "description": "TAMONE ALESSANDRO",
+  "handle": "HYPERCORELTD",
+  "description": "Hypercore Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "83.147.192.0/24",
+      "83.147.216.0/24",
+      "83.147.222.0/24",
+      "83.147.252.0/22",
+      "91.186.212.0/23",
+      "91.186.216.0/22"
+    ],
     "ipv6": []
   }
 }

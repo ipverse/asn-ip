@@ -3,7 +3,9 @@
   "handle": "FIBERLINK-NETWORK",
   "description": "FIBERLINK NETWORK",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.182.42.0/24"
+    ],
     "ipv6": [
       "2804:61f0::/32"
     ]

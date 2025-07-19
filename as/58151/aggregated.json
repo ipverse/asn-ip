@@ -3,7 +3,9 @@
   "handle": "MKUTUP-MAIN",
   "description": "National Library of Turkey",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "176.117.96.0/21"
+    ],
     "ipv6": []
   }
 }

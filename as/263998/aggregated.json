@@ -4,6 +4,7 @@
   "description": "Machado \u0026 Mascarelo Sonorizacao Ltda",
   "subnets": {
     "ipv4": [
+      "45.175.0.0/22",
       "143.0.84.0/22",
       "170.245.200.0/22"
     ],

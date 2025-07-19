@@ -3,7 +3,9 @@
   "handle": "INSTITUTO-NUPEF",
   "description": "Instituto Nupef",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "201.46.64.0/20"
+    ],
     "ipv6": []
   }
 }

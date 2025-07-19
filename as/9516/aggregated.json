@@ -1,9 +1,12 @@
 {
   "asn": 9516,
-  "handle": "SAKURA-AP",
-  "description": "Sakura Network LTD",
+  "handle": "SAKURALINK-AP",
+  "description": "SAKURA LINK LIMITED",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2401:f460:2100::/48",
+      "2401:f460:2200::/48"
+    ]
   }
 }
