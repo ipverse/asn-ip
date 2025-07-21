@@ -4,6 +4,7 @@
   "description": "Gumi Manufacturing Co., Limited",
   "subnets": {
     "ipv4": [
+      "81.168.87.0/24",
       "103.62.55.0/24"
     ],
     "ipv6": [

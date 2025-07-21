@@ -1,7 +1,7 @@
 {
   "asn": 214329,
-  "handle": "C-NETWORK",
-  "description": "Meshal Algharbi",
+  "handle": "BGP-SA",
+  "description": "BGP Network LLC",
   "subnets": {
     "ipv4": [
       "92.113.91.0/24"

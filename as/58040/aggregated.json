@@ -3,10 +3,7 @@
   "handle": "HOSTLINCOLN",
   "description": "Host Lincoln Limited",
   "subnets": {
-    "ipv4": [
-      "185.185.84.0/22",
-      "194.147.92.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

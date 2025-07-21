@@ -3,7 +3,11 @@
   "handle": "SECUREPEAK",
   "description": "Alex Terrats Ciberseguretat SLU",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "109.175.210.0/24"
+    ],
+    "ipv6": [
+      "2a01:fb00::/33"
+    ]
   }
 }

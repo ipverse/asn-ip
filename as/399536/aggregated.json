@@ -3,7 +3,9 @@
   "handle": "PROGRESSBIZ-BGP",
   "description": "Progress Business Systems, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "208.79.136.0/24"
+    ],
     "ipv6": []
   }
 }

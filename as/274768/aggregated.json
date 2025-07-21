@@ -3,7 +3,9 @@
   "handle": "ULTRANET-VALE-RIBEIRA",
   "description": "ULTRANET VALE DO RIBEIRA LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "177.185.123.0/24"
+    ],
     "ipv6": [
       "2804:934c::/32"
     ]

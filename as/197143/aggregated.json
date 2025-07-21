@@ -3,7 +3,12 @@
   "handle": "NETCEN",
   "description": "Netcen Teknoloji Ltd. Sti",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "46.245.160.0/21",
+      "93.93.106.0/23",
+      "185.33.128.0/22",
+      "185.218.218.0/24"
+    ],
     "ipv6": []
   }
 }

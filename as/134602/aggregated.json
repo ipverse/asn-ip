@@ -1,0 +1,11 @@
+{
+  "asn": 134602,
+  "handle": "NBCS-AP",
+  "description": "Northern Beaches Christian School",
+  "subnets": {
+    "ipv4": [
+      "160.191.170.0/24"
+    ],
+    "ipv6": []
+  }
+}

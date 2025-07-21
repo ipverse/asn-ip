@@ -3,7 +3,10 @@
   "handle": "LCTLAOS-AP",
   "description": "Lao Communication Technology Sole Co., Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.192.21.0/24",
+      "160.187.128.0/23"
+    ],
     "ipv6": []
   }
 }

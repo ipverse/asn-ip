@@ -4,6 +4,7 @@
   "description": "Netvia Bilisim Yazilim Dan. Tic. Ltd. Sti.",
   "subnets": {
     "ipv4": [
+      "164.138.202.0/24",
       "188.132.141.0/24"
     ],
     "ipv6": []

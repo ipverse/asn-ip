@@ -3,9 +3,7 @@
   "handle": "COWBOY-HOSTING",
   "description": "Cowboy Hosting LLC",
   "subnets": {
-    "ipv4": [
-      "139.60.32.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

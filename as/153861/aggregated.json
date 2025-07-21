@@ -1,0 +1,11 @@
+{
+  "asn": 153861,
+  "handle": "NMBBANKLTD-AP",
+  "description": "NMB Bank Ltd.",
+  "subnets": {
+    "ipv4": [
+      "165.99.2.0/23"
+    ],
+    "ipv6": []
+  }
+}

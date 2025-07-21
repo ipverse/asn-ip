@@ -3,7 +3,9 @@
   "handle": "ORIC-REPUBLIC-01",
   "description": "Old Republic International Corporation",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "64.239.74.0/24"
+    ],
     "ipv6": []
   }
 }

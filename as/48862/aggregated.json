@@ -3,9 +3,7 @@
   "handle": "ARCOLINK",
   "description": "WAYPOINT SRLS",
   "subnets": {
-    "ipv4": [
-      "217.174.128.0/20"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

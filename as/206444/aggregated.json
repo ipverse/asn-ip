@@ -1,9 +1,11 @@
 {
   "asn": 206444,
-  "handle": "RESERVED",
-  "description": "RIPE NCC ASN block",
+  "handle": "REG-CUST",
+  "description": "Dubravko Vinkovic",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a06:1283:bc00::/40"
+    ]
   }
 }

@@ -1,0 +1,13 @@
+{
+  "asn": 210339,
+  "handle": "APEXI",
+  "description": "APEXI SAS",
+  "subnets": {
+    "ipv4": [
+      "213.178.148.0/22"
+    ],
+    "ipv6": [
+      "2a07:3940::/29"
+    ]
+  }
+}

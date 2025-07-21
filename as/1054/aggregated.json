@@ -3,7 +3,9 @@
   "handle": "ZONT-LLC",
   "description": "Zont LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "216.40.84.0/24"
+    ],
     "ipv6": []
   }
 }

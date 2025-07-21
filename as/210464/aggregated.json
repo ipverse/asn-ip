@@ -4,6 +4,10 @@
   "description": "API VERSA OU",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a0a:79c7:f200::/40",
+      "2a0a:79c7:f500::/40",
+      "2a0a:79c7:f800::/40"
+    ]
   }
 }

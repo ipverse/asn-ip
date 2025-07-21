@@ -1,9 +1,11 @@
 {
   "asn": 62680,
-  "handle": "UNIVERSAL-INFO",
-  "description": "Universal Information Services, Inc.",
+  "handle": "CBJ-JUNEAU-AK",
+  "description": "City \u0026 Borough of Juneau",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.58.32.0/24"
+    ],
     "ipv6": []
   }
 }
