@@ -3,9 +3,7 @@
   "handle": "AIRLAN",
   "description": "AIRLAN S.R.L.",
   "subnets": {
-    "ipv4": [
-      "185.152.148.0/22"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

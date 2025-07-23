@@ -1,9 +1,11 @@
 {
   "asn": 212628,
-  "handle": "SUDO-GATE",
-  "description": "Sudo Gate Ltd",
+  "handle": "ARTRUBY",
+  "description": "ARTRUBY PTE. LTD.",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a13:aac4:f050::/44"
+    ]
   }
 }

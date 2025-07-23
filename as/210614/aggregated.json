@@ -1,9 +1,11 @@
 {
   "asn": 210614,
-  "handle": "STYLENTECH",
-  "description": "STYLENHOST LTD",
+  "handle": "ADDICILLC",
+  "description": "Addici Security AB",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.183.79.0/24"
+    ],
     "ipv6": []
   }
 }

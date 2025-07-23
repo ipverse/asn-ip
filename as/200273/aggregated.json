@@ -3,9 +3,7 @@
   "handle": "KNET",
   "description": "Lisa Lucia Kowalsky",
   "subnets": {
-    "ipv4": [
-      "195.39.220.0/24"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2001:678:7f8::/48"
     ]

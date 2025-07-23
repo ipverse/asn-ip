@@ -1,0 +1,13 @@
+{
+  "asn": 151152,
+  "handle": "GRANDBRD-IN",
+  "description": "Grand Broadband Services Private Limited",
+  "subnets": {
+    "ipv4": [
+      "103.131.250.0/23"
+    ],
+    "ipv6": [
+      "2400:f660::/32"
+    ]
+  }
+}

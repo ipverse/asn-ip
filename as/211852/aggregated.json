@@ -4,14 +4,6 @@
   "description": "Podolskii Dmitrii Vladimirovich",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2a06:1186::/32",
-      "2a11:15c7::/32",
-      "2a11:4a02::/32",
-      "2a11:8506::/32",
-      "2a12:2fc7::/32",
-      "2a12:4146::/32",
-      "2a12:ecc2::/32"
-    ]
+    "ipv6": []
   }
 }

@@ -1,9 +1,11 @@
 {
   "asn": 134428,
-  "handle": "BITC-AP",
-  "description": "Brother Internet Technology Co.,Ltd",
+  "handle": "ECG-AP",
+  "description": "Edge Cloud Globe Co., Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "115.42.63.0/24"
+    ],
     "ipv6": []
   }
 }

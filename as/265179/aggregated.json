@@ -3,7 +3,9 @@
   "handle": "SER-EDUCACIONAL",
   "description": "SER EDUCACIONAL S/A",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "200.10.185.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -1,0 +1,13 @@
+{
+  "asn": 153710,
+  "handle": "CITAGLOBAL-AP",
+  "description": "CITAGLOBAL TELECOMMUNICATION SDN BHD",
+  "subnets": {
+    "ipv4": [
+      "163.223.158.0/23"
+    ],
+    "ipv6": [
+      "2001:df5:4540::/48"
+    ]
+  }
+}

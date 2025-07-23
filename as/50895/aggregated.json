@@ -3,7 +3,9 @@
   "handle": "INIT-TINET",
   "description": "Institute of New Information Technologies, LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.224.34.0/23"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "TRANSTELECOM",
   "description": "MAIK WILHELM",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.92.70.0/24"
+    ],
     "ipv6": [
       "2a01:ecc0:680::/44"
     ]

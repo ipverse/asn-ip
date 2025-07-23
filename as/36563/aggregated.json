@@ -1,0 +1,11 @@
+{
+  "asn": 36563,
+  "handle": "TELX-DALLAS",
+  "description": "Telx",
+  "subnets": {
+    "ipv4": [
+      "192.235.110.0/23"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,9 +1,11 @@
 {
   "asn": 215340,
-  "handle": "GIDEK-COM-BILGISAYAR-DANISMANLIK-TICARET-LIMITED-SIRKETI",
-  "description": "GIDEK COM BILGISAYAR DANISMANLIK TICARET LIMITED SIRKETI",
+  "handle": "MYSIM-NIGERIA",
+  "description": "Huize Telecom Limited",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a13:aac4:f060::/44"
+    ]
   }
 }

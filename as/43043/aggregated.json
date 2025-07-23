@@ -3,7 +3,9 @@
   "handle": "AUROLOGIC-CLOUD",
   "description": "aurologic GmbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "77.90.33.0/24"
+    ],
     "ipv6": []
   }
 }

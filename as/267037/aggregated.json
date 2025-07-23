@@ -1,9 +1,11 @@
 {
   "asn": 267037,
-  "handle": "ACITEL-TELECOMUNICAOES-LTDA",
-  "description": "ACITEL TELECOMUNICAOES LTDA",
+  "handle": "VLA-TELECOMUNICACOES",
+  "description": "VLA TELECOMUNICACOES LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.227.232.0/22"
+    ],
     "ipv6": []
   }
 }

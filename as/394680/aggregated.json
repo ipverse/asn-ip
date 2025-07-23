@@ -3,9 +3,7 @@
   "handle": "ESSEXTEL",
   "description": "EssexTel, Inc.",
   "subnets": {
-    "ipv4": [
-      "208.30.107.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

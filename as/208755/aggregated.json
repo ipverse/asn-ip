@@ -3,9 +3,9 @@
   "handle": "NETWORKABLE-TF",
   "description": "Thomas Ferguson",
   "subnets": {
-    "ipv4": [],
-    "ipv6": [
-      "2a0f:85c1:c3c::/48"
-    ]
+    "ipv4": [
+      "44.30.33.0/24"
+    ],
+    "ipv6": []
   }
 }

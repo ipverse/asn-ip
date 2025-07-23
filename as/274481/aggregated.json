@@ -1,0 +1,11 @@
+{
+  "asn": 274481,
+  "handle": "SAGE-LINK-PROVEDOR",
+  "description": "SAGE LINK PROVEDOR DE INTERNET LTDA",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2804:94d4::/32"
+    ]
+  }
+}

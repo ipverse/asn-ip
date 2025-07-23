@@ -4,10 +4,10 @@
   "description": "Rimrock Wireless",
   "subnets": {
     "ipv4": [
-      "23.185.176.0/24"
+      "23.185.176.0/23"
     ],
     "ipv6": [
-      "2602:fc9e::/40"
+      "2602:fc9e::/36"
     ]
   }
 }

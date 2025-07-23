@@ -1,0 +1,11 @@
+{
+  "asn": 30657,
+  "handle": "SJE-ASN-01",
+  "description": "The Power Commission of The City of Saint John",
+  "subnets": {
+    "ipv4": [
+      "198.164.204.0/24"
+    ],
+    "ipv6": []
+  }
+}
