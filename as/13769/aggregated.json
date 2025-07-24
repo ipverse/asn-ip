@@ -4,6 +4,7 @@
   "description": "DPS Holdings Inc.",
   "subnets": {
     "ipv4": [
+      "192.154.8.0/23",
       "216.136.17.0/24"
     ],
     "ipv6": []

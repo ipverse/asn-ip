@@ -1,0 +1,11 @@
+{
+  "asn": 154063,
+  "handle": "RFSOLUTIONS-AP",
+  "description": "RF Solutions",
+  "subnets": {
+    "ipv4": [
+      "165.101.213.0/24"
+    ],
+    "ipv6": []
+  }
+}

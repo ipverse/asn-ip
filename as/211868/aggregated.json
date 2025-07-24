@@ -3,7 +3,9 @@
   "handle": "PROSAICLOUD",
   "description": "Quentin Dacquet",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.29.180.0/24"
+    ],
     "ipv6": [
       "2a0e:fd45:2f20::/48"
     ]

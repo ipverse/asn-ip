@@ -4,6 +4,7 @@
   "description": "Alcom Web Service Ltda",
   "subnets": {
     "ipv4": [
+      "45.167.4.0/22",
       "186.227.132.0/22"
     ],
     "ipv6": [

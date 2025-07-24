@@ -1,9 +1,13 @@
 {
   "asn": 216416,
-  "handle": "YILDIRIM",
-  "description": "Yildirim Internet Telekom Limited Sti.",
+  "handle": "EVOLUS-IX",
+  "description": "Evolus IT Solutions GmbH",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "185.207.136.0/24"
+    ],
+    "ipv6": [
+      "2a12:bec4:19a7::/48"
+    ]
   }
 }

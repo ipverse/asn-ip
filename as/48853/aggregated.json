@@ -3,7 +3,9 @@
   "handle": "SEVMASH",
   "description": "JSC PO Sevmash",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.25.191.0/24"
+    ],
     "ipv6": []
   }
 }

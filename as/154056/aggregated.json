@@ -1,0 +1,11 @@
+{
+  "asn": 154056,
+  "handle": "IDNIC-METADATA-ID",
+  "description": "PT Metadata Teknovasi Nusantara",
+  "subnets": {
+    "ipv4": [
+      "165.101.179.0/24"
+    ],
+    "ipv6": []
+  }
+}

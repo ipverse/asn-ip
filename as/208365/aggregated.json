@@ -4,8 +4,7 @@
   "description": "Shams Telecom Networks and Internet Service Ltd",
   "subnets": {
     "ipv4": [
-      "45.151.76.0/23",
-      "45.151.79.0/24",
+      "45.151.76.0/22",
       "81.22.35.0/24"
     ],
     "ipv6": []

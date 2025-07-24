@@ -4,7 +4,7 @@
   "description": "M.E.B. Technology",
   "subnets": {
     "ipv4": [
-      "161.248.220.0/24"
+      "161.248.220.0/23"
     ],
     "ipv6": [
       "2001:df4:f140::/48"
