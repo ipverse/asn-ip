@@ -3,9 +3,7 @@
   "handle": "G-9-TELECOM",
   "description": "G-9 TELECOM SERVICOS DE INTERNET LTDA",
   "subnets": {
-    "ipv4": [
-      "186.216.52.0/24"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2804:90fc:100::/40",
       "2804:90fc:c000::/34"

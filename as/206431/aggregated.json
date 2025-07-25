@@ -1,9 +1,11 @@
 {
   "asn": 206431,
-  "handle": "ARRIVAL",
-  "description": "Arrival UK Ltd",
+  "handle": "ACCA",
+  "description": "AC\u0026CA Consulting Services SRL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "5.83.41.0/24"
+    ],
     "ipv6": []
   }
 }

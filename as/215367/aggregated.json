@@ -3,7 +3,9 @@
   "handle": "LIXER",
   "description": "LENIN JABIB RAMIREZ",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "160.202.135.0/24"
+    ],
     "ipv6": []
   }
 }

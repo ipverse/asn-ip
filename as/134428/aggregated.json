@@ -4,6 +4,7 @@
   "description": "Edge Cloud Globe Co., Limited",
   "subnets": {
     "ipv4": [
+      "103.211.70.0/24",
       "115.42.63.0/24"
     ],
     "ipv6": []

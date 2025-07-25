@@ -1,0 +1,11 @@
+{
+  "asn": 154083,
+  "handle": "DFNWIS-AP",
+  "description": "DC FIBER NETWORK WIRED INTERNET SERVICES",
+  "subnets": {
+    "ipv4": [
+      "165.101.254.0/23"
+    ],
+    "ipv6": []
+  }
+}

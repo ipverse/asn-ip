@@ -1,0 +1,11 @@
+{
+  "asn": 154047,
+  "handle": "IT2-AP",
+  "description": "IT Nut Hosting",
+  "subnets": {
+    "ipv4": [
+      "165.101.188.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -4,6 +4,7 @@
   "description": "TORRES SERGIO HERNAN (ITEQ INTERNET)",
   "subnets": {
     "ipv4": [
+      "132.255.11.0/24",
       "190.9.70.0/23"
     ],
     "ipv6": []

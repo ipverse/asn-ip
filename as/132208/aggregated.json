@@ -4,7 +4,7 @@
   "description": "NGBPS LTD",
   "subnets": {
     "ipv4": [
-      "103.7.64.0/22"
+      "103.7.64.0/24"
     ],
     "ipv6": []
   }

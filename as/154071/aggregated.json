@@ -1,0 +1,11 @@
+{
+  "asn": 154071,
+  "handle": "ADVANCETELECOM-AP",
+  "description": "Advance Telecom",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2001:df5:e4c0::/48"
+    ]
+  }
+}

@@ -4,7 +4,8 @@
   "description": "KRISH COMMUNICATION PVT LTD",
   "subnets": {
     "ipv4": [
-      "165.101.183.0/24"
+      "165.101.183.0/24",
+      "196.168.1.0/24"
     ],
     "ipv6": []
   }

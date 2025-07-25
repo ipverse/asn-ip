@@ -3,7 +3,12 @@
   "handle": "EXONHOST-AP",
   "description": "ExonHost",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "103.159.37.0/24",
+      "103.187.22.0/23"
+    ],
+    "ipv6": [
+      "2400:7920::/32"
+    ]
   }
 }

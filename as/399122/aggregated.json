@@ -4,6 +4,7 @@
   "description": "VPS House Technology Group LLC",
   "subnets": {
     "ipv4": [
+      "23.134.12.0/24",
       "38.97.51.0/24",
       "64.130.0.0/22",
       "64.130.4.0/23",
