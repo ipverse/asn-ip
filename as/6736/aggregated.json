@@ -4,6 +4,7 @@
   "description": "Institute for Research in Fundamental Sciences",
   "subnets": {
     "ipv4": [
+      "81.12.12.0/24",
       "87.107.116.0/23",
       "94.184.64.0/18",
       "94.184.128.0/17",

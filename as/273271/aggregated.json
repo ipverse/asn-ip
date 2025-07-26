@@ -1,0 +1,13 @@
+{
+  "asn": 273271,
+  "handle": "MGD-SOLTEC",
+  "description": "MGD SOLTEC SA DE CV",
+  "subnets": {
+    "ipv4": [
+      "186.26.74.0/24"
+    ],
+    "ipv6": [
+      "2806:446::/32"
+    ]
+  }
+}

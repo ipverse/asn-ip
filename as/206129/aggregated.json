@@ -1,11 +1,11 @@
 {
   "asn": 206129,
-  "handle": "GHC",
-  "description": "Globalhub Com Organisation",
+  "handle": "PINOUS-HEBERG",
+  "description": "Raphael Martinez",
   "subnets": {
-    "ipv4": [
-      "109.121.175.0/24"
-    ],
-    "ipv6": []
+    "ipv4": [],
+    "ipv6": [
+      "2a14:67c1:a180::/44"
+    ]
   }
 }

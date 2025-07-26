@@ -1,9 +1,11 @@
 {
   "asn": 206183,
-  "handle": "PL-AGRO-JAN",
-  "description": "AGRO-JAN Produkcja Spolka z o.o.",
+  "handle": "METACORTEX",
+  "description": "Metacortex Software SL",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a13:9500:4a::/48"
+    ]
   }
 }

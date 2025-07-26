@@ -4,6 +4,7 @@
   "description": "Space-Communication ltd.",
   "subnets": {
     "ipv4": [
+      "62.56.156.0/24",
       "81.199.3.0/24",
       "81.199.4.0/24",
       "81.199.15.0/24",

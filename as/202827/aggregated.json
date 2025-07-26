@@ -3,7 +3,9 @@
   "handle": "CHRISMUNDS",
   "description": "EXAGROUP",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "89.213.158.0/24"
+    ],
     "ipv6": [
       "2a13:89c0::/32"
     ]

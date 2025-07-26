@@ -3,7 +3,9 @@
   "handle": "NEXTHOP",
   "description": "Next Hop LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "23.141.4.0/24"
+    ],
     "ipv6": []
   }
 }
