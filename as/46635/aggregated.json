@@ -3,7 +3,9 @@
   "handle": "INTENT-LOGIC",
   "description": "Contact Consumers",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.22.41.0/24"
+    ],
     "ipv6": []
   }
 }

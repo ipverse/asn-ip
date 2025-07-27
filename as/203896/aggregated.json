@@ -4,7 +4,8 @@
   "description": "DUBAI AVIATION CORPORATION",
   "subnets": {
     "ipv4": [
-      "185.120.108.0/22"
+      "185.120.108.0/24",
+      "185.120.110.0/23"
     ],
     "ipv6": []
   }

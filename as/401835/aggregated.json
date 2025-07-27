@@ -4,6 +4,11 @@
   "description": "Brass City Residences Inc.",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2602:fa1c:121::/48",
+      "2607:7640::/40",
+      "2a0e:b107:1810::/44",
+      "2a14:c380:320::/44"
+    ]
   }
 }

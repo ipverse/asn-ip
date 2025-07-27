@@ -3,7 +3,9 @@
   "handle": "FROSTYHOSTING",
   "description": "Belenkii Ivan Alexandrovich",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "94.183.168.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,9 +3,7 @@
   "handle": "MSMEHEDITRADERS-AP",
   "description": "M/S Mehedi Traders",
   "subnets": {
-    "ipv4": [
-      "163.227.145.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

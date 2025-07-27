@@ -3,9 +3,7 @@
   "handle": "IDNIC-SIGNALL-ID",
   "description": "PT Signall Network Nusantara",
   "subnets": {
-    "ipv4": [
-      "163.223.116.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

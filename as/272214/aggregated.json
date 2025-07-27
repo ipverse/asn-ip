@@ -4,6 +4,8 @@
   "description": "CLOUD NET TIME TELECOM",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2804:83b8::/32"
+    ]
   }
 }

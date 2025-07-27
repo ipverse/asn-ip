@@ -4,8 +4,7 @@
   "description": "Simon Property Group LP",
   "subnets": {
     "ipv4": [
-      "199.36.204.0/22",
-      "208.0.121.0/24"
+      "199.36.204.0/22"
     ],
     "ipv6": []
   }
