@@ -1,0 +1,11 @@
+{
+  "asn": 154062,
+  "handle": "MMEHERABINTERNET-AP",
+  "description": "M Meherab Internet",
+  "subnets": {
+    "ipv4": [
+      "165.101.216.0/23"
+    ],
+    "ipv6": []
+  }
+}

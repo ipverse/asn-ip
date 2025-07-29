@@ -4,6 +4,7 @@
   "description": "Enteghal Dade AriyaSarv",
   "subnets": {
     "ipv4": [
+      "37.32.46.0/24",
       "185.212.51.0/24"
     ],
     "ipv6": [

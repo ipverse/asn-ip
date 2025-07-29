@@ -1,0 +1,11 @@
+{
+  "asn": 147261,
+  "handle": "VIJMAX-IN",
+  "description": "Durga Data Network Service",
+  "subnets": {
+    "ipv4": [
+      "103.72.102.0/24"
+    ],
+    "ipv6": []
+  }
+}

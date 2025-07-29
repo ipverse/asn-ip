@@ -3,11 +3,7 @@
   "handle": "HEXI-NET",
   "description": "Hexi Group ApS",
   "subnets": {
-    "ipv4": [
-      "192.165.250.0/24"
-    ],
-    "ipv6": [
-      "2a0a:6044:c100::/44"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

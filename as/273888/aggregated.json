@@ -4,6 +4,7 @@
   "description": "PEGASUS TRAMITES Y GESTIONES ADMINISTRATIVOS, S.A.",
   "subnets": {
     "ipv4": [
+      "158.172.218.0/24",
       "201.77.53.0/24"
     ],
     "ipv6": []

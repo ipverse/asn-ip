@@ -3,9 +3,7 @@
   "handle": "QYRUS-INC",
   "description": "QYRUS INC.",
   "subnets": {
-    "ipv4": [
-      "136.227.136.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

@@ -1,0 +1,13 @@
+{
+  "asn": 206300,
+  "handle": "YUNYOO",
+  "description": "YUNYOO LTD",
+  "subnets": {
+    "ipv4": [
+      "82.152.18.0/24"
+    ],
+    "ipv6": [
+      "2a12:bec4:1bd0::/48"
+    ]
+  }
+}

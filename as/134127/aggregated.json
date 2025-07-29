@@ -1,9 +1,11 @@
 {
   "asn": 134127,
-  "handle": "MKASL-AP",
-  "description": "Mary Kay (Hong Kong) Limited",
+  "handle": "IDNIC-ZSN-ID",
+  "description": "PT Zona Sejahtera Mandiri",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "165.99.5.0/24"
+    ],
     "ipv6": []
   }
 }

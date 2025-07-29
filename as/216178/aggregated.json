@@ -1,9 +1,11 @@
 {
   "asn": 216178,
-  "handle": "LUNACO",
-  "description": "Minjea Kim trading as Luna co.",
+  "handle": "SVYAZON",
+  "description": "Svyaz.ON LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.37.194.0/24"
+    ],
     "ipv6": []
   }
 }

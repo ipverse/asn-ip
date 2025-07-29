@@ -4,8 +4,11 @@
   "description": "Blue Pulse Networks LLC",
   "subnets": {
     "ipv4": [
+      "12.18.148.0/24",
       "23.168.224.0/24"
     ],
-    "ipv6": []
+    "ipv6": [
+      "2602:fe23::/36"
+    ]
   }
 }

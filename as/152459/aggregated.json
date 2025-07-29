@@ -3,7 +3,9 @@
   "handle": "KBC-AP",
   "description": "KNET BROADBAND COMPANY LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "157.15.142.0/23"
+    ],
     "ipv6": []
   }
 }

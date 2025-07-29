@@ -4,7 +4,7 @@
   "description": "LP CONECTA SERVIO DE INTERNET",
   "subnets": {
     "ipv4": [
-      "200.53.76.0/22"
+      "200.53.76.0/23"
     ],
     "ipv6": [
       "2804:799c::/32"

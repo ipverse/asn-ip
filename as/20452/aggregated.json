@@ -4,6 +4,7 @@
   "description": "BALL STATE UNIVERSITY",
   "subnets": {
     "ipv4": [
+      "12.159.195.0/24",
       "12.159.206.0/23",
       "147.226.0.0/16"
     ],

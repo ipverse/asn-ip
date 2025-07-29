@@ -3,7 +3,9 @@
   "handle": "MIDDLESEX-HOSPITAL",
   "description": "MIDDLESEX HEALTH SYSTEM, INC.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "170.163.12.0/24"
+    ],
     "ipv6": []
   }
 }

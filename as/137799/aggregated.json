@@ -4,8 +4,6 @@
   "description": "China Guangfa Bank",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2405:57c0::/48"
-    ]
+    "ipv6": []
   }
 }

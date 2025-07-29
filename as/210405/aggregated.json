@@ -1,9 +1,11 @@
 {
   "asn": 210405,
-  "handle": "RESERVED",
-  "description": "RIPE NCC ASN block",
+  "handle": "VIDC",
+  "description": "Vira Cloud DataCenter PJSC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "92.114.24.0/24"
+    ],
     "ipv6": []
   }
 }

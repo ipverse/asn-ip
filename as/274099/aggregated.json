@@ -3,7 +3,11 @@
   "handle": "VALLENET-SPA",
   "description": "VALLENET SPA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "151.241.80.0/21"
+    ],
+    "ipv6": [
+      "2803:d6d0::/32"
+    ]
   }
 }

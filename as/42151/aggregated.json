@@ -3,7 +3,9 @@
   "handle": "P24-CLOUD",
   "description": "LLC P24-SERVICE",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "95.171.19.0/24"
+    ],
     "ipv6": [
       "2a09:d002::/48"
     ]

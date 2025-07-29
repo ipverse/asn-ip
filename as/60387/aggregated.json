@@ -3,7 +3,9 @@
   "handle": "KNOWNHOLDINGS",
   "description": "Known Holdings LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "82.115.15.0/24"
+    ],
     "ipv6": []
   }
 }
