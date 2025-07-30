@@ -3,7 +3,9 @@
   "handle": "CNPR-SERVICE",
   "description": "Jacob Willem de Vos",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "167.150.81.0/24"
+    ],
     "ipv6": [
       "2001:67c:1520::/48"
     ]

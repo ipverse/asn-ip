@@ -4,8 +4,6 @@
   "description": "unified ASN for CDNetworks across the globe",
   "subnets": {
     "ipv4": [
-      "14.0.51.0/24",
-      "163.171.218.0/24",
       "174.35.124.0/22",
       "208.80.251.0/24",
       "211.43.147.0/24"

@@ -3,7 +3,11 @@
   "handle": "AXST-IO",
   "description": "Apex Strata Ltd",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "185.18.221.0/24"
+    ],
+    "ipv6": [
+      "2a13:2c0::/29"
+    ]
   }
 }

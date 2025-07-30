@@ -4,6 +4,7 @@
   "description": "PT Datautama Dinamika - NAP",
   "subnets": {
     "ipv4": [
+      "103.147.254.0/24",
       "175.184.238.0/23"
     ],
     "ipv6": []

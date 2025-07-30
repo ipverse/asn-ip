@@ -3,7 +3,9 @@
   "handle": "LEMON-AP",
   "description": "LEMON TELECOMMUNICATIONS LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.127.80.0/24"
+    ],
     "ipv6": []
   }
 }

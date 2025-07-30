@@ -3,7 +3,9 @@
   "handle": "VOLTNET-01-03",
   "description": "VoltNet inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.146.230.0/23"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "IDNIC-IAINSASBABEL-ID",
   "description": "Institut Agama Islam Negeri Syaikh Abdurrahman Siddik Bangka Belitung",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "165.99.120.0/24"
+    ],
     "ipv6": []
   }
 }

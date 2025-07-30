@@ -3,7 +3,9 @@
   "handle": "ARTRUBY",
   "description": "ARTRUBY PTE. LTD.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "154.57.39.0/24"
+    ],
     "ipv6": [
       "2a13:aac4:f050::/44"
     ]

@@ -1,9 +1,13 @@
 {
   "asn": 209845,
-  "handle": "DREAMNET",
-  "description": "DREAMNET LTD.",
+  "handle": "CNPR-CARRIER",
+  "description": "Jacob Willem de Vos",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "167.150.86.0/24"
+    ],
+    "ipv6": [
+      "2001:67c:ad4::/48"
+    ]
   }
 }

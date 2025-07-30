@@ -3,9 +3,7 @@
   "handle": "AX-INTERNET",
   "description": "AX INTERNET SA",
   "subnets": {
-    "ipv4": [
-      "190.122.90.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

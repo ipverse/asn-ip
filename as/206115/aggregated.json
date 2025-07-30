@@ -1,9 +1,11 @@
 {
   "asn": 206115,
-  "handle": "RESERVED",
-  "description": "RIPE NCC ASN block",
+  "handle": "MIKRON-BILISIM",
+  "description": "Mehmet UGURLU",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a14:7581:3a00::/40"
+    ]
   }
 }

@@ -3,7 +3,11 @@
   "handle": "VOLTZZNODE",
   "description": "VoltzzNode Enterprise SRL",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "194.62.123.0/24"
+    ],
+    "ipv6": [
+      "2a01:e901:12::/48"
+    ]
   }
 }

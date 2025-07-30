@@ -1,9 +1,13 @@
 {
   "asn": 151351,
-  "handle": "RESERVED",
-  "description": "APNIC ASN block",
+  "handle": "ZNTTAS-AP",
+  "description": "NICO ZERO THREE TRADING \u0026 SERVICES",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "165.101.180.0/23"
+    ],
+    "ipv6": [
+      "2402:1760::/32"
+    ]
   }
 }

@@ -4,6 +4,8 @@
   "description": "Trident Seafoods Corporation",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2602:816:7::/48"
+    ]
   }
 }

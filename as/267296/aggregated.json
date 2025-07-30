@@ -3,7 +3,9 @@
   "handle": "LOPEZ-SANTOS-SAT",
   "description": "Lopez Santos Sat Nit Telecomunicacoes LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.233.76.0/22"
+    ],
     "ipv6": []
   }
 }

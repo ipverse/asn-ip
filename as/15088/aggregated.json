@@ -3,9 +3,7 @@
   "handle": "FNG",
   "description": "First Network Group Inc",
   "subnets": {
-    "ipv4": [
-      "74.115.180.0/22"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2620:0:2e50::/44"
     ]

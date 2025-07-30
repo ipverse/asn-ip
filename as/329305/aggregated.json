@@ -4,7 +4,8 @@
   "description": "GLOBAL CLOUD INFRASTRUCTURE SOLUTIONS (PTY) LTD",
   "subnets": {
     "ipv4": [
-      "102.211.116.0/22",
+      "102.211.116.0/23",
+      "102.211.118.0/24",
       "206.185.16.0/22"
     ],
     "ipv6": [
