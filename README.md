@@ -39,7 +39,8 @@ For the list of autonomous systems with their AS number (ASN) and description se
 
 ## Update notes
 
-- 2023-9-3: The airheads at McAfee decided to insert an entire PEM certificate in the description field. The description field is now trimmed to a reasonable size.
+- 2025-8-3: Removed opinionated handle cleanup
+- 2023-9-3: Removed PEM certificates from description field
 
 ## Use cases
 - Firewalling, e.g. to ban all IP addresses from that notorious, Spam-friendly network provider
