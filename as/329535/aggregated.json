@@ -3,7 +3,9 @@
   "handle": "ONSITE-AFRICA-LIMITED",
   "description": "ONSITE AFRICA LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "102.205.236.0/22"
+    ],
     "ipv6": []
   }
 }

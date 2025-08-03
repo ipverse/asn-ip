@@ -1,11 +1,9 @@
 {
   "asn": 149304,
   "handle": "SQNTCL-AS-AP",
-  "description": "Shenzhen Qiyi Network Technology Co.  Ltd.",
+  "description": "Shenzhen Qiyi Network Technology Co. Ltd",
   "subnets": {
-    "ipv4": [
-      "103.151.5.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

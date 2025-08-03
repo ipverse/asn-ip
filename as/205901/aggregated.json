@@ -1,9 +1,11 @@
 {
   "asn": 205901,
-  "handle": "XENCONNECT",
-  "description": "Verweijen ICT Uden B.V.",
+  "handle": "JSOPN-AS",
+  "description": "Evgenii Diakov",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a0d:d940:9002::/48"
+    ]
   }
 }

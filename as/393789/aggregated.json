@@ -1,7 +1,7 @@
 {
   "asn": 393789,
   "handle": "CENTURYLINK-CHIA-PROJECT",
-  "description": "CenturyLink Communications  LLC",
+  "description": "CenturyLink Communications LLC",
   "subnets": {
     "ipv4": [
       "8.5.36.0/24",
@@ -10,7 +10,8 @@
       "67.7.134.0/23",
       "67.7.136.0/21",
       "67.7.144.0/21",
-      "67.7.152.0/22",
+      "67.7.152.0/23",
+      "67.7.154.0/24",
       "67.7.156.0/23",
       "67.7.159.0/24",
       "67.7.160.0/22",

@@ -1,7 +1,7 @@
 {
   "asn": 40111,
   "handle": "PARKERFIBERNET-AS-ROUTE",
-  "description": "Parker FiberNet  LLC",
+  "description": "Parker FiberNet LLC",
   "subnets": {
     "ipv4": [
       "23.135.224.0/24",
@@ -23,6 +23,7 @@
       "208.93.32.0/22"
     ],
     "ipv6": [
+      "2602:fe63:fff::/48",
       "2605:bd80::/32"
     ]
   }

@@ -1,9 +1,11 @@
 {
   "asn": 328187,
   "handle": "EDM-AS",
-  "description": "EDM - Electricidade de Moçambique  E.P.",
+  "description": "EDM - Electricidade de Moçambique E.P",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "160.19.190.0/23"
+    ],
     "ipv6": []
   }
 }

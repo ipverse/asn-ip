@@ -1,7 +1,7 @@
 {
   "asn": 20473,
   "handle": "AS-VULTR",
-  "description": "The Constant Company  LLC",
+  "description": "The Constant Company LLC",
   "subnets": {
     "ipv4": [
       "5.102.113.0/24",
@@ -610,7 +610,6 @@
       "2620:a8:4000::/48",
       "2620:b3:2000::/48",
       "2620:13d:2030::/46",
-      "2804:8e2c::/32",
       "2a03:4a81::/32",
       "2a03:60c0::/32",
       "2a04:30c0::/32",

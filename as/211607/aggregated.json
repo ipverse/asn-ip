@@ -1,7 +1,7 @@
 {
   "asn": 211607,
   "handle": "RECORDEDFUTURE",
-  "description": "Securitytrails  LLC",
+  "description": "Securitytrails LLC",
   "subnets": {
     "ipv4": [
       "104.143.83.0/24",
@@ -10,7 +10,6 @@
     ],
     "ipv6": [
       "2001:678:e70::/48",
-      "2a10:b640:3000::/36",
       "2a10:b641::/36"
     ]
   }

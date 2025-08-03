@@ -1,9 +1,10 @@
 {
   "asn": 27382,
   "handle": "COLOSPACE",
-  "description": "FirstLight Fiber  Inc.",
+  "description": "FirstLight Fiber Inc",
   "subnets": {
     "ipv4": [
+      "38.43.94.0/24",
       "63.251.136.0/22",
       "64.95.78.0/24",
       "66.151.188.0/22",

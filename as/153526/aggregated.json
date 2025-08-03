@@ -1,12 +1,13 @@
 {
   "asn": 153526,
   "handle": "LMCSCL-AS-AP",
-  "description": "Laos Mobile Communications Sole Co.  Ltd",
+  "description": "Laos Mobile Communications Sole Co. Ltd",
   "subnets": {
     "ipv4": [
       "112.142.0.0/20",
       "161.248.192.0/23",
-      "203.77.168.0/21"
+      "203.77.168.0/21",
+      "209.209.84.0/22"
     ],
     "ipv6": [
       "2401:e9a0::/32"

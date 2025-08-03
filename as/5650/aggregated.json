@@ -1,7 +1,7 @@
 {
   "asn": 5650,
   "handle": "FRONTIER-FRTR",
-  "description": "Frontier Communications of America  Inc.",
+  "description": "Frontier Communications of America Inc",
   "subnets": {
     "ipv4": [
       "2.56.32.0/22",
@@ -23,6 +23,7 @@
       "24.206.198.0/24",
       "31.193.191.0/24",
       "40.27.56.0/21",
+      "40.27.200.0/21",
       "40.223.224.0/20",
       "45.38.211.0/24",
       "45.38.250.0/24",

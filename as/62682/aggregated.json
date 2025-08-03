@@ -1,10 +1,9 @@
 {
   "asn": 62682,
   "handle": "HILLBILLY-WIRELESS",
-  "description": "Hillbilly Wireless INC.",
+  "description": "Hillbilly Wireless INC",
   "subnets": {
     "ipv4": [
-      "38.65.90.0/23",
       "38.246.48.0/21",
       "162.219.112.0/21",
       "206.183.168.0/21"
