@@ -1,0 +1,11 @@
+{
+  "asn": 154109,
+  "handle": "HOSTINGOXYGEN-AS-AP",
+  "description": "Hosting Oxygen",
+  "subnets": {
+    "ipv4": [
+      "203.18.158.0/23"
+    ],
+    "ipv6": []
+  }
+}

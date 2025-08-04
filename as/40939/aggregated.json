@@ -3,7 +3,11 @@
   "handle": "P2PPSR",
   "description": "Project Babbage",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "64.6.44.0/23"
+    ],
+    "ipv6": [
+      "2602:f9f8::/40"
+    ]
   }
 }

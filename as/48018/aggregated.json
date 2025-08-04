@@ -1,0 +1,11 @@
+{
+  "asn": 48018,
+  "handle": "FORNEX-RU-AS",
+  "description": "Fornex Hosting S.L",
+  "subnets": {
+    "ipv4": [
+      "103.75.124.0/24"
+    ],
+    "ipv6": []
+  }
+}

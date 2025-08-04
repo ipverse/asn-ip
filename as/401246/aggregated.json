@@ -3,7 +3,9 @@
   "handle": "SPPX",
   "description": "Silicon Prairie Portal \u0026 Exchange LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "64.239.37.0/24"
+    ],
     "ipv6": []
   }
 }

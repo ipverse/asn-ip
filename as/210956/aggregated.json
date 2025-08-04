@@ -3,7 +3,9 @@
   "handle": "ATK-AS",
   "description": "Abkhazskaya Telekommunikatsionnaya Kompaniya LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "170.168.8.0/24"
+    ],
     "ipv6": []
   }
 }

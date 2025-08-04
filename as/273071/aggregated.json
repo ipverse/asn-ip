@@ -3,9 +3,7 @@
   "handle": "INTEGRADOS-S-SNET",
   "description": "INTEGRADOS S\u0026S.NET SAS",
   "subnets": {
-    "ipv4": [
-      "38.10.180.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

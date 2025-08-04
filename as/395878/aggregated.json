@@ -3,9 +3,7 @@
   "handle": "SERVOSPHERE-LLC",
   "description": "SERVOSPHERE",
   "subnets": {
-    "ipv4": [
-      "31.56.87.0/24"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2602:f697:4::/48",
       "2602:f697:e0::/44"

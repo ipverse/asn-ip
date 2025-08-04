@@ -4,6 +4,7 @@
   "description": "PT Binerkahan Digital Telco",
   "subnets": {
     "ipv4": [
+      "38.19.236.0/24",
       "103.85.52.0/23"
     ],
     "ipv6": []

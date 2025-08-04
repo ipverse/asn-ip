@@ -1,0 +1,11 @@
+{
+  "asn": 133135,
+  "handle": "TSSB-AS-AP",
+  "description": "TeamCloud Solution Sdn Bhd",
+  "subnets": {
+    "ipv4": [
+      "202.176.7.0/24"
+    ],
+    "ipv6": []
+  }
+}

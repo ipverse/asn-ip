@@ -1,0 +1,11 @@
+{
+  "asn": 134231,
+  "handle": "ECPL-AS-AP",
+  "description": "Elite Communication Private Limited",
+  "subnets": {
+    "ipv4": [
+      "165.101.240.0/23"
+    ],
+    "ipv6": []
+  }
+}
