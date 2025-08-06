@@ -3,7 +3,9 @@
   "handle": "IDNIC-IAIN-PONTIANAK-AS-ID",
   "description": "Institut Agama Islam Negeri Pontianak",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "157.66.130.0/24"
+    ],
     "ipv6": []
   }
 }

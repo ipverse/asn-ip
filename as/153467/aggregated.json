@@ -4,6 +4,7 @@
   "description": "Glen Eira City Council",
   "subnets": {
     "ipv4": [
+      "203.29.70.0/24",
       "203.33.77.0/24"
     ],
     "ipv6": []

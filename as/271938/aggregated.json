@@ -3,7 +3,9 @@
   "handle": "GAVARRETE-GUADAMUZ-COMPANIA",
   "description": "Gavarrete Guadamuz y Compañía Limitada",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.5.216.0/22"
+    ],
     "ipv6": []
   }
 }

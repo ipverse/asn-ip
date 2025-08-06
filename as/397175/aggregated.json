@@ -3,7 +3,9 @@
   "handle": "ITDATA-01",
   "description": "ITDATA GURU",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "186.237.28.0/23"
+    ],
     "ipv6": []
   }
 }

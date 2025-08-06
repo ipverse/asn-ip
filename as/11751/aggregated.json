@@ -3,9 +3,7 @@
   "handle": "INSTITUTO-CYBER-ENSINO",
   "description": "INSTITUTO CYBER DE ENSINO E PESQUISA",
   "subnets": {
-    "ipv4": [
-      "200.14.35.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

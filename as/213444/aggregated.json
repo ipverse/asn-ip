@@ -3,7 +3,9 @@
   "handle": "CUCINELLI-SPA",
   "description": "BRUNELLO CUCINELLI SPA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "89.44.35.0/24"
+    ],
     "ipv6": []
   }
 }

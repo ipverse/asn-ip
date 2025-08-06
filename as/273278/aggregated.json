@@ -3,7 +3,9 @@
   "handle": "AD-SOLUCIONES-TELECOMUNICACIONES",
   "description": "AD SOLUCIONES EN TELECOMUNICACIONES SA DE CV",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.58.131.0/24"
+    ],
     "ipv6": []
   }
 }

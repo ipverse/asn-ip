@@ -3,11 +3,7 @@
   "handle": "OFIBER",
   "description": "OFiber Communications Inc",
   "subnets": {
-    "ipv4": [
-      "161.248.130.0/23"
-    ],
-    "ipv6": [
-      "2401:e7e0::/32"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

@@ -1,0 +1,11 @@
+{
+  "asn": 139022,
+  "handle": "NEPALRASTRABANK-AS-AP",
+  "description": "NEPAL RASTRA BANK",
+  "subnets": {
+    "ipv4": [
+      "103.138.160.0/23"
+    ],
+    "ipv6": []
+  }
+}

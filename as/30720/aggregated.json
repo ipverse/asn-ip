@@ -3,7 +3,9 @@
   "handle": "VWE-EXTRANET-AS",
   "description": "VWE Automotive Solutions B.V",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "80.85.175.0/24"
+    ],
     "ipv6": [
       "2a01:6a40:1::/48"
     ]

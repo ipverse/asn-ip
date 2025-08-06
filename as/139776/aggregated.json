@@ -4,7 +4,9 @@
   "description": "Petroliam Nasional Berhad",
   "subnets": {
     "ipv4": [
-      "170.38.0.0/16"
+      "170.38.16.0/21",
+      "170.38.28.0/22",
+      "170.38.254.0/24"
     ],
     "ipv6": []
   }

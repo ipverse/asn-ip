@@ -1,0 +1,11 @@
+{
+  "asn": 401755,
+  "handle": "TSI-BGP",
+  "description": "Think Smart Group Inc",
+  "subnets": {
+    "ipv4": [
+      "64.56.220.0/23"
+    ],
+    "ipv6": []
+  }
+}

@@ -3,9 +3,7 @@
   "handle": "NETKOM-AS",
   "description": "Netcom LLC",
   "subnets": {
-    "ipv4": [
-      "91.207.40.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

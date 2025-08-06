@@ -1,9 +1,11 @@
 {
   "asn": 56964,
-  "handle": "IT-PARK",
+  "handle": "IT-PARK-AS",
   "description": "IT PARK JSC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "77.95.170.0/24"
+    ],
     "ipv6": []
   }
 }
