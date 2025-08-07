@@ -3,7 +3,9 @@
   "handle": "IDNIC-AONE-AS-ID",
   "description": "PT Awan Media Digital",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "165.99.57.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -1,0 +1,11 @@
+{
+  "asn": 274733,
+  "handle": "COMPANHIA-SANEAMENTO-BASICO",
+  "description": "COMPANHIA DE SANEAMENTO BASICO DO EST. DE SAO",
+  "subnets": {
+    "ipv4": [
+      "200.144.74.0/23"
+    ],
+    "ipv6": []
+  }
+}

@@ -3,9 +3,7 @@
   "handle": "HIJRAHNET-AS-ID",
   "description": "PT Hijrah Muara Sintesis",
   "subnets": {
-    "ipv4": [
-      "103.154.24.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

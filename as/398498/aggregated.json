@@ -1,9 +1,11 @@
 {
   "asn": 398498,
-  "handle": "BANKOZK-OZK",
+  "handle": "BANKOZK-ATL",
   "description": "Bank OZK",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "209.214.203.0/24"
+    ],
     "ipv6": []
   }
 }

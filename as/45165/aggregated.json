@@ -3,9 +3,7 @@
   "handle": "GREYAP-AS-AP",
   "description": "Grey Advertising Limited",
   "subnets": {
-    "ipv4": [
-      "199.229.106.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

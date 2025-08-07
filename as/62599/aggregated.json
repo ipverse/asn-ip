@@ -3,9 +3,11 @@
   "handle": "VH",
   "description": "Virtual Hosting Inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "23.139.224.0/24"
+    ],
     "ipv6": [
-      "2604:e040::/48"
+      "2604:e040::/32"
     ]
   }
 }

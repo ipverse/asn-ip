@@ -3,7 +3,9 @@
   "handle": "TOYOTA-AS",
   "description": "TOYOTA ROMANIA SRL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "89.46.120.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -1,0 +1,13 @@
+{
+  "asn": 274095,
+  "handle": "YNS-PARTNERS-EIRL",
+  "description": "YNS PARTNERS EIRL",
+  "subnets": {
+    "ipv4": [
+      "206.53.50.0/24"
+    ],
+    "ipv6": [
+      "2803:16d0::/32"
+    ]
+  }
+}

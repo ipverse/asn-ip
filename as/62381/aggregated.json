@@ -1,9 +1,11 @@
 {
   "asn": 62381,
-  "handle": "DELTATRE",
-  "description": "Deltatre S.p.A.",
+  "handle": "DELTATRE-AS",
+  "description": "Deltatre S.p.A",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.37.80.0/22"
+    ],
     "ipv6": []
   }
 }

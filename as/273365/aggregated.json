@@ -4,6 +4,8 @@
   "description": "volt telecom serviço de comunicação e multimidia",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2804:8d90::/32"
+    ]
   }
 }

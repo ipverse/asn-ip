@@ -3,9 +3,11 @@
   "handle": "CAT",
   "description": "Cat Networks Inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "23.141.32.0/24"
+    ],
     "ipv6": [
-      "2604:e4c0::/48"
+      "2604:e4c0::/32"
     ]
   }
 }

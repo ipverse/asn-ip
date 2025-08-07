@@ -3,9 +3,7 @@
   "handle": "SKYMEDIA-AS-MAIN",
   "description": "Skymedia Corporation",
   "subnets": {
-    "ipv4": [
-      "161.248.252.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

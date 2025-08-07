@@ -4,7 +4,7 @@
   "description": "CPF Board",
   "subnets": {
     "ipv4": [
-      "103.8.212.0/23"
+      "103.8.212.0/24"
     ],
     "ipv6": []
   }

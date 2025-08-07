@@ -3,7 +3,9 @@
   "handle": "CSB-AS-AP",
   "description": "Curtin (Malaysia) Sdn Bhd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.186.110.0/24"
+    ],
     "ipv6": []
   }
 }

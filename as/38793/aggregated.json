@@ -4,8 +4,6 @@
   "description": "Two Degrees Mobile Limited",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2405:a400::/32"
-    ]
+    "ipv6": []
   }
 }

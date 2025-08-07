@@ -4,9 +4,6 @@
   "description": "Telfly Technology Limited",
   "subnets": {
     "ipv4": [
-      "5.183.120.0/24",
-      "154.39.69.0/24",
-      "185.211.133.0/24",
       "185.211.135.0/24"
     ],
     "ipv6": [

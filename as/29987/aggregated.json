@@ -1,7 +1,11 @@
 {
   "asn": 29987,
+  "handle": "SINFONY6",
+  "description": "Sinfony6 LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "23.134.108.0/24"
+    ],
     "ipv6": []
   }
 }
