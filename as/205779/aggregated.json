@@ -1,9 +1,11 @@
 {
   "asn": 205779,
-  "handle": "FLUXMOBI",
-  "description": "Fluxmobi Media Limited",
+  "handle": "YTH-AS",
+  "description": "Tianhang Yuan",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a0f:85c1:ce1::/48"
+    ]
   }
 }

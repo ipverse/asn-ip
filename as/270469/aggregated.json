@@ -4,8 +4,7 @@
   "description": "J R S PINHEIRO INFORMATICA",
   "subnets": {
     "ipv4": [
-      "187.49.160.0/23",
-      "187.49.163.0/24"
+      "187.49.160.0/22"
     ],
     "ipv6": [
       "2804:6c74::/32"

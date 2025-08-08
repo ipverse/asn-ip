@@ -1,9 +1,11 @@
 {
   "asn": 210880,
-  "handle": "WAYNOW",
-  "description": "WAYNOW GROUP SAS",
+  "handle": "ARDADAGLIOGLU",
+  "description": "Arda Daglioglu",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "31.192.246.0/24"
+    ],
     "ipv6": []
   }
 }

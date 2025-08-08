@@ -4,6 +4,7 @@
   "description": "Hutchison Drei Austria GmbH",
   "subnets": {
     "ipv4": [
+      "45.3.56.0/24",
       "46.220.0.0/16",
       "77.116.0.0/14",
       "81.3.192.0/18",

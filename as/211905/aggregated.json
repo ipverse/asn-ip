@@ -1,9 +1,11 @@
 {
   "asn": 211905,
-  "handle": "CATGIRLS",
-  "description": "Catgirls Limited",
+  "handle": "KUVEYTTURKYATIRIM",
+  "description": "Kuveyt Turk Yatirim Menkul Degerler A.S",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "212.108.120.0/24"
+    ],
     "ipv6": []
   }
 }

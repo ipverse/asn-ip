@@ -1,9 +1,11 @@
 {
   "asn": 216457,
-  "handle": "IPK",
-  "description": "Patrick Kaltenboeck trading as IPK IT-Solutions e.U.",
+  "handle": "PRONECT",
+  "description": "Pronect Technology LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.208.113.0/24"
+    ],
     "ipv6": []
   }
 }

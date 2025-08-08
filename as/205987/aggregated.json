@@ -1,9 +1,11 @@
 {
   "asn": 205987,
-  "handle": "RESERVED",
-  "description": "RIPE NCC ASN block",
+  "handle": "FIRSTURDIEV-ASN",
+  "description": "Samandar Turdiev",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a0f:9400:6a00::/40"
+    ]
   }
 }

@@ -3,7 +3,9 @@
   "handle": "UNIVERSIDAD-ATLANTICO",
   "description": "Universidad del Atlantico",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "179.0.29.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "MTPPL-AS-AP",
   "description": "M3 Technologies Pakistan Pvt. Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.110.52.0/24"
+    ],
     "ipv6": []
   }
 }

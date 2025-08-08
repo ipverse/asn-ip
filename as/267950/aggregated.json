@@ -4,7 +4,8 @@
   "description": "BRLINK SERVICOS DE TELECOMUNICACOES LTDA",
   "subnets": {
     "ipv4": [
-      "45.166.24.0/22"
+      "45.166.24.0/23",
+      "45.166.27.0/24"
     ],
     "ipv6": [
       "2804:55b0::/32"

@@ -1,9 +1,13 @@
 {
   "asn": 152756,
-  "handle": "IDNIC-JUOS-ID",
+  "handle": "IDNIC-JUOS-AS-ID",
   "description": "PT Jaringan Universal Online Solusindo",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "157.66.176.0/23"
+    ],
+    "ipv6": [
+      "2001:df3:cf40::/48"
+    ]
   }
 }

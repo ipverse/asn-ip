@@ -4,7 +4,8 @@
   "description": "5/F Zhujiang Yide Building 362 Dongfeng Middle Road Yuexiu District",
   "subnets": {
     "ipv4": [
-      "103.116.92.0/22",
+      "103.116.93.0/24",
+      "103.116.94.0/23",
       "210.76.74.0/24",
       "210.76.77.0/24",
       "210.76.82.0/24",

@@ -1,5 +1,7 @@
 {
   "asn": 36357,
+  "handle": "AS36357",
+  "description": "EnTrust Global",
   "subnets": {
     "ipv4": [
       "65.196.11.0/24"
