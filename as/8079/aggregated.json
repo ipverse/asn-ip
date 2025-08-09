@@ -3,9 +3,7 @@
   "handle": "HTS",
   "description": "HIGH-Q TECHNICAL SOLUTIONS",
   "subnets": {
-    "ipv4": [
-      "23.133.108.0/24"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2602:f718::/40"
     ]

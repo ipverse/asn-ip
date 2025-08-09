@@ -3,9 +3,7 @@
   "handle": "AXNET-AS",
   "description": "AXNET LLC",
   "subnets": {
-    "ipv4": [
-      "23.141.188.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

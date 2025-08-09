@@ -1,0 +1,11 @@
+{
+  "asn": 154120,
+  "handle": "PHPCOMPUTER-AS-AP",
+  "description": "PHP Computer",
+  "subnets": {
+    "ipv4": [
+      "210.56.144.0/23"
+    ],
+    "ipv6": []
+  }
+}

@@ -3,7 +3,9 @@
   "handle": "KENYA-POST-OFFICE-SAVINGS-BANK",
   "description": "Kenya Post Office Savings Bank",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "196.6.229.0/24"
+    ],
     "ipv6": []
   }
 }

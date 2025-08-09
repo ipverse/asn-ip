@@ -1,0 +1,12 @@
+{
+  "asn": 15292,
+  "handle": "RACINE-DC-01",
+  "description": "PIN Business Network Inc",
+  "subnets": {
+    "ipv4": [
+      "104.243.221.0/24",
+      "192.228.110.0/23"
+    ],
+    "ipv6": []
+  }
+}

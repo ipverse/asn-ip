@@ -4,7 +4,8 @@
   "description": "CNL Financial Group Inc",
   "subnets": {
     "ipv4": [
-      "38.94.216.0/24"
+      "38.94.216.0/24",
+      "72.21.15.0/24"
     ],
     "ipv6": []
   }

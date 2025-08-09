@@ -4,6 +4,7 @@
   "description": "DATA HOME YAZILIM BILGI TEKNOLOJILERI TICARET LIMITED SIRKETI",
   "subnets": {
     "ipv4": [
+      "31.40.196.0/24",
       "217.18.209.0/24"
     ],
     "ipv6": []

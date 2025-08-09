@@ -1,0 +1,11 @@
+{
+  "asn": 205840,
+  "handle": "FONECLOUD",
+  "description": "Fonecloud GmbH",
+  "subnets": {
+    "ipv4": [
+      "45.9.5.0/24"
+    ],
+    "ipv6": []
+  }
+}

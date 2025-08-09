@@ -1,0 +1,11 @@
+{
+  "asn": 399926,
+  "handle": "BERMUDA-COLLEGE-AS",
+  "description": "Bermuda College",
+  "subnets": {
+    "ipv4": [
+      "198.182.170.0/24"
+    ],
+    "ipv6": []
+  }
+}

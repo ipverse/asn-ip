@@ -3,7 +3,9 @@
   "handle": "IDNIC-JAGOANSERVER-AS-ID",
   "description": "PT Lintas Data Internasional",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "163.227.86.0/24"
+    ],
     "ipv6": []
   }
 }
