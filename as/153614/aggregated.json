@@ -4,6 +4,7 @@
   "description": "TechWise (HK) Limited",
   "subnets": {
     "ipv4": [
+      "154.50.108.0/24",
       "163.61.176.0/24"
     ],
     "ipv6": []

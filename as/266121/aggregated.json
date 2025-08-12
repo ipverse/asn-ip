@@ -4,8 +4,7 @@
   "description": "SUPER SONIC TELECOM LTDA",
   "subnets": {
     "ipv4": [
-      "45.6.28.0/22",
-      "179.42.64.0/22"
+      "45.6.28.0/22"
     ],
     "ipv6": [
       "2804:3af8::/32"

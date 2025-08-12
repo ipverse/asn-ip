@@ -1,9 +1,11 @@
 {
   "asn": 400053,
   "handle": "SYNAPSE",
-  "description": "Synapse Data Systems, Inc.",
+  "description": "Synapse Data Systems Inc",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2607:6100:a2::/48"
+    ]
   }
 }

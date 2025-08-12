@@ -3,7 +3,9 @@
   "handle": "OLYMP-AS",
   "description": "Olymp JSC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "37.230.252.0/23"
+    ],
     "ipv6": []
   }
 }

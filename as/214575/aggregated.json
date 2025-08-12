@@ -4,6 +4,11 @@
   "description": "Curious Universe (Chongqing) Technology Co. Ltd",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a14:7581:b44::/48",
+      "2a14:7581:bbb::/48",
+      "2a14:7581:bcd::/48",
+      "2a14:7581:bff::/48"
+    ]
   }
 }

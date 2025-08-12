@@ -1,0 +1,11 @@
+{
+  "asn": 153803,
+  "handle": "IDNIC-TLINET-AS-ID",
+  "description": "PT Trans Link Internasional",
+  "subnets": {
+    "ipv4": [
+      "163.227.67.0/24"
+    ],
+    "ipv6": []
+  }
+}

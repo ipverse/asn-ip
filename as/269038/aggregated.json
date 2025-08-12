@@ -4,7 +4,8 @@
   "description": "IDX DATA CENTERS \u0026 IT SERVICES S.A",
   "subnets": {
     "ipv4": [
-      "45.177.172.0/22"
+      "45.177.172.0/22",
+      "170.245.212.0/24"
     ],
     "ipv6": [
       "2804:5e84::/32"

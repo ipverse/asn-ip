@@ -4,8 +4,6 @@
   "description": "Pluxcon Network USA LLC",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2602:fa1c:126::/48"
-    ]
+    "ipv6": []
   }
 }

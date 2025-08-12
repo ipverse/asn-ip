@@ -3,11 +3,7 @@
   "handle": "OC88-AS",
   "description": "Ondrej Caletka",
   "subnets": {
-    "ipv4": [
-      "91.204.83.0/24"
-    ],
-    "ipv6": [
-      "2001:7fc::/48"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

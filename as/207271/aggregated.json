@@ -3,7 +3,9 @@
   "handle": "DATALINK-AS",
   "description": "Swiss Datalink AG",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.145.60.0/22"
+    ],
     "ipv6": []
   }
 }

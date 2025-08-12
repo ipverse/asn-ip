@@ -1,0 +1,11 @@
+{
+  "asn": 151684,
+  "handle": "GO4SERVER-AS-IN",
+  "description": "Go4server",
+  "subnets": {
+    "ipv4": [
+      "43.231.130.0/24"
+    ],
+    "ipv6": []
+  }
+}

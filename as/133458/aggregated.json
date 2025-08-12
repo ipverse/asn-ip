@@ -4,7 +4,8 @@
   "description": "FPT Smart Cloud Japan Co. Ltd",
   "subnets": {
     "ipv4": [
-      "161.248.2.0/23"
+      "161.248.2.0/23",
+      "209.131.124.0/23"
     ],
     "ipv6": [
       "2401:e260::/40"

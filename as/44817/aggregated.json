@@ -4,6 +4,8 @@
   "description": "M Alhuda",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a14:7581:4000::/36"
+    ]
   }
 }

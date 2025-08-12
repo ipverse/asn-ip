@@ -1,9 +1,11 @@
 {
   "asn": 135836,
-  "handle": "DURGA",
-  "description": "Durga Broadband Pvt. Ltd.",
+  "handle": "STGS-AS-IN",
+  "description": "Stg Software Solution Pvt Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.83.248.0/22"
+    ],
     "ipv6": []
   }
 }
