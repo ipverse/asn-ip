@@ -3,7 +3,9 @@
   "handle": "RELYEFCENTRAS",
   "description": "Relyef Centr LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "176.118.212.0/24"
+    ],
     "ipv6": []
   }
 }

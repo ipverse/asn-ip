@@ -3,7 +3,9 @@
   "handle": "CLOUVIDER-NETWORK-OPTIMISATION",
   "description": "Clouvider Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "67.43.36.0/24"
+    ],
     "ipv6": []
   }
 }

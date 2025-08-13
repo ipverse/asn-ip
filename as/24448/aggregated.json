@@ -4,6 +4,7 @@
   "description": "Synamedia Technologies (India) Private Limited",
   "subnets": {
     "ipv4": [
+      "103.139.39.0/24",
       "203.21.7.0/24"
     ],
     "ipv6": [

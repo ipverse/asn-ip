@@ -4,6 +4,8 @@
   "description": "SOLFIKS INTERNET Hizmetleri ve Danismanlik Tic. Ltd. Sti",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a10:ccc1:10a::/48"
+    ]
   }
 }

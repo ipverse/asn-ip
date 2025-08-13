@@ -1,9 +1,11 @@
 {
   "asn": 205648,
-  "handle": "ODN-INC",
-  "description": "ODN Inc",
+  "handle": "VIRGOCUBE-LIMITED",
+  "description": "VirgoCube Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "66.92.12.0/24"
+    ],
     "ipv6": []
   }
 }

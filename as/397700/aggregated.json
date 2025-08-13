@@ -4,7 +4,8 @@
   "description": "LXXIX Project Lab LLC",
   "subnets": {
     "ipv4": [
-      "23.188.24.0/24"
+      "23.188.24.0/24",
+      "66.92.11.0/24"
     ],
     "ipv6": []
   }

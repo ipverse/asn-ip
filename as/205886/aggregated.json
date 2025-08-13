@@ -1,9 +1,12 @@
 {
   "asn": 205886,
-  "handle": "RESERVED",
-  "description": "RIPE NCC ASN block",
+  "handle": "ASN-121NET",
+  "description": "121 LEGAL RECRUITMENT LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "155.117.214.0/24",
+      "155.117.220.0/24"
+    ],
     "ipv6": []
   }
 }

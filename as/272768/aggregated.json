@@ -4,6 +4,8 @@
   "description": "DIEGO EMANUEL RIBEIRO NUNES",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a10:ccc1:109::/48"
+    ]
   }
 }

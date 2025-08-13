@@ -3,7 +3,11 @@
   "handle": "KJNSIIS-AS-AP",
   "description": "Kuya J Network Seven Infinity IT Solutions",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "163.223.110.0/23"
+    ],
+    "ipv6": [
+      "2001:df5:3c40::/48"
+    ]
   }
 }

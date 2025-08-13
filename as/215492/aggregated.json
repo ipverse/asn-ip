@@ -1,11 +1,10 @@
 {
   "asn": 215492,
   "handle": "BUTLER",
-  "description": "BUTLER CHAT IKE",
+  "description": "BUTLER CHAT I.K.E",
   "subnets": {
     "ipv4": [
-      "31.56.50.0/24",
-      "88.80.140.0/24"
+      "31.56.50.0/24"
     ],
     "ipv6": [
       "2001:67c:df8::/48",
