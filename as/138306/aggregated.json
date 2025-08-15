@@ -3,9 +3,7 @@
   "handle": "IDBICAPS-AS-IN",
   "description": "IDBI CAPITAL MARKETS AND SECURITIES LTD",
   "subnets": {
-    "ipv4": [
-      "103.137.151.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

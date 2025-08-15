@@ -3,9 +3,7 @@
   "handle": "REKADE-NETWORKS",
   "description": "Rekade LTD",
   "subnets": {
-    "ipv4": [
-      "89.144.15.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

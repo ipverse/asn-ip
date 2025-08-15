@@ -1,0 +1,11 @@
+{
+  "asn": 42946,
+  "handle": "AS-LEGACO",
+  "description": "Legaco Networks B.V",
+  "subnets": {
+    "ipv4": [
+      "195.58.41.0/24"
+    ],
+    "ipv6": []
+  }
+}

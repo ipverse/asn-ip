@@ -3,7 +3,9 @@
   "handle": "LASTRESPONSE",
   "description": "Lukas Wenzl trading as LastResponse",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "89.144.15.0/24"
+    ],
     "ipv6": [
       "2602:f9ba:b1::/48",
       "2a0b:4e07:39::/48",

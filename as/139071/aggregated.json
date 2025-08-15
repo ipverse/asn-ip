@@ -3,7 +3,9 @@
   "handle": "MNCL-AS-AP",
   "description": "MK Networks Co. Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.139.100.0/24"
+    ],
     "ipv6": []
   }
 }

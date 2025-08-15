@@ -3,7 +3,9 @@
   "handle": "RAJNIINT-AS-IN",
   "description": "Rajni Internet Service Pvt. Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.134.156.0/22"
+    ],
     "ipv6": []
   }
 }

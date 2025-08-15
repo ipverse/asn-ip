@@ -1,0 +1,13 @@
+{
+  "asn": 201996,
+  "handle": "SOFIA-CONNECT-AS2",
+  "description": "Sofia Connect EAD",
+  "subnets": {
+    "ipv4": [
+      "87.246.41.0/24",
+      "87.246.42.0/23",
+      "212.5.60.0/24"
+    ],
+    "ipv6": []
+  }
+}

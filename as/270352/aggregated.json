@@ -4,8 +4,7 @@
   "description": "TELECOMSHOP COMERCIO E SERVICOS DE TELECOMUNICACOE",
   "subnets": {
     "ipv4": [
-      "190.83.88.0/24",
-      "190.83.90.0/23"
+      "190.83.88.0/22"
     ],
     "ipv6": [
       "2804:6aac::/32"

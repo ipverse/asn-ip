@@ -1,9 +1,11 @@
 {
   "asn": 141189,
-  "handle": "MLPL-AP",
+  "handle": "MLPL-AS-AP",
   "description": "Meta Link Private Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.156.26.0/24"
+    ],
     "ipv6": []
   }
 }

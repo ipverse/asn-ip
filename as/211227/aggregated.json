@@ -1,9 +1,11 @@
 {
   "asn": 211227,
-  "handle": "RESERVED",
-  "description": "RIPE NCC ASN block",
+  "handle": "ATNORTH",
+  "description": "atNorth HPC AB",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.66.62.0/24"
+    ],
     "ipv6": []
   }
 }

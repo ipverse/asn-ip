@@ -1,9 +1,11 @@
 {
   "asn": 207636,
   "handle": "ALEXHOST-SRL",
-  "description": "ALEXHOST S.R.L.",
+  "description": "ALEXHOST S.R.L",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "85.120.80.0/24"
+    ],
     "ipv6": []
   }
 }

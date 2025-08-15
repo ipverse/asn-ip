@@ -4,6 +4,7 @@
   "description": "TTR IT Holdings Limited",
   "subnets": {
     "ipv4": [
+      "45.38.0.0/24",
       "104.239.47.0/24"
     ],
     "ipv6": [

@@ -1,0 +1,11 @@
+{
+  "asn": 401514,
+  "handle": "KVW-AS01",
+  "description": "Kern Valley Wireless Inc",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2607:3dc0::/32"
+    ]
+  }
+}

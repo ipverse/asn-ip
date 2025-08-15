@@ -3,7 +3,9 @@
   "handle": "TENSPIRE-NETWORK-29798",
   "description": "TenSpire Network",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "104.204.252.0/23"
+    ],
     "ipv6": []
   }
 }

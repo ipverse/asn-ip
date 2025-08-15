@@ -3,7 +3,9 @@
   "handle": "INTERCO-ASN01",
   "description": "Interco Trading Inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "64.39.230.0/24"
+    ],
     "ipv6": []
   }
 }
