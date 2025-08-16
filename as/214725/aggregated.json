@@ -3,7 +3,9 @@
   "handle": "URGENT-IT-SERVICES",
   "description": "Urgent IT Services SRL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "217.156.27.0/24"
+    ],
     "ipv6": []
   }
 }

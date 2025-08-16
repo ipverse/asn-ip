@@ -3,9 +3,7 @@
   "handle": "KCL3-AS",
   "description": "Kasi Cloud Limited",
   "subnets": {
-    "ipv4": [
-      "102.217.0.0/22"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

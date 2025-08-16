@@ -3,7 +3,9 @@
   "handle": "CARITELE-AS",
   "description": "Caribbean Telecom S.A",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "104.192.93.0/24"
+    ],
     "ipv6": [
       "2602:fb92:5a0::/44",
       "2602:fb92:c00::/44"

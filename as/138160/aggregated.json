@@ -4,6 +4,7 @@
   "description": "ZTNET CO. LTD",
   "subnets": {
     "ipv4": [
+      "38.213.128.0/19",
       "103.230.69.0/24"
     ],
     "ipv6": []

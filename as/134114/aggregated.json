@@ -1,9 +1,11 @@
 {
   "asn": 134114,
-  "handle": "DRESSGROUP-AP",
+  "handle": "DRESSGROUP-AS-AP",
   "description": "Dress Group Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.114.24.0/22"
+    ],
     "ipv6": []
   }
 }

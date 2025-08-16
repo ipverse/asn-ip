@@ -4,8 +4,7 @@
   "description": "Bank Of Springfield",
   "subnets": {
     "ipv4": [
-      "198.49.80.0/24",
-      "216.8.65.0/24"
+      "198.49.80.0/24"
     ],
     "ipv6": []
   }

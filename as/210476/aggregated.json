@@ -3,9 +3,7 @@
   "handle": "MOON-NET",
   "description": "Moon net for Information Technology LLC",
   "subnets": {
-    "ipv4": [
-      "151.243.242.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

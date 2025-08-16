@@ -3,9 +3,7 @@
   "handle": "GLOBAL-FIBER-PERU",
   "description": "GLOBAL FIBER PERÚ S.A.C",
   "subnets": {
-    "ipv4": [
-      "45.232.151.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

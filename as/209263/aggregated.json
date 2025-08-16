@@ -3,10 +3,7 @@
   "handle": "GENET-MARNEULI",
   "description": "Jenet LLC",
   "subnets": {
-    "ipv4": [
-      "151.243.50.0/24",
-      "194.15.98.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }
