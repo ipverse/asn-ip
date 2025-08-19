@@ -4,6 +4,8 @@
   "description": "CYANET TELECOM LTDA",
   "subnets": {
     "ipv4": [
+      "45.166.161.0/24",
+      "45.166.163.0/24",
       "190.89.52.0/22"
     ],
     "ipv6": [

@@ -4,6 +4,7 @@
   "description": "TNGNET B.V",
   "subnets": {
     "ipv4": [
+      "83.147.232.0/22",
       "188.191.48.0/24"
     ],
     "ipv6": []

@@ -1,0 +1,11 @@
+{
+  "asn": 401834,
+  "handle": "HWSC-AS",
+  "description": "Hobart and William Smith Colleges",
+  "subnets": {
+    "ipv4": [
+      "64.89.144.0/20"
+    ],
+    "ipv6": []
+  }
+}

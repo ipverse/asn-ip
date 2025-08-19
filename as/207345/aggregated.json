@@ -4,9 +4,6 @@
   "description": "Sarl ASR INFOPRO",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2a06:2c80:3000::/36",
-      "2a06:2c80:5000::/36"
-    ]
+    "ipv6": []
   }
 }

@@ -4,7 +4,8 @@
   "description": "OOO Etazhi-Zapadnaya Sibir",
   "subnets": {
     "ipv4": [
-      "82.147.65.0/24"
+      "82.147.65.0/24",
+      "82.147.77.0/24"
     ],
     "ipv6": []
   }

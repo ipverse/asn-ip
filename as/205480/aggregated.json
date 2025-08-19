@@ -1,0 +1,11 @@
+{
+  "asn": 205480,
+  "handle": "HOSTINUX-AS",
+  "description": "Stasiuk Vadym",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a01:ecc0:900::/40"
+    ]
+  }
+}

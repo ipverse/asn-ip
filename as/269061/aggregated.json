@@ -4,7 +4,8 @@
   "description": "GTSNET PROVEDOR DE INTERNET LTDA",
   "subnets": {
     "ipv4": [
-      "45.178.176.0/22"
+      "45.178.176.0/23",
+      "45.178.178.0/24"
     ],
     "ipv6": [
       "2804:5edc::/32"

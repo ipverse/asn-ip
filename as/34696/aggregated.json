@@ -1,0 +1,11 @@
+{
+  "asn": 34696,
+  "handle": "AS-MISMELINK",
+  "description": "MISMELINK NETWORKS SL",
+  "subnets": {
+    "ipv4": [
+      "185.128.60.0/22"
+    ],
+    "ipv6": []
+  }
+}

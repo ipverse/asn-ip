@@ -4,7 +4,7 @@
   "description": "Low Speed Network",
   "subnets": {
     "ipv4": [
-      "103.149.0.0/23"
+      "103.149.0.0/24"
     ],
     "ipv6": []
   }

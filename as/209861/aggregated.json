@@ -4,7 +4,8 @@
   "description": "Christoffer Aasum Unes",
   "subnets": {
     "ipv4": [
-      "89.213.148.0/24"
+      "89.213.148.0/24",
+      "143.20.75.0/24"
     ],
     "ipv6": [
       "2602:fafd:f03::/48",

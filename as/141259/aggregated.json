@@ -3,9 +3,9 @@
   "handle": "FNOSPL-AS-IN",
   "description": "Flynet Online Solutions Pvt Ltd",
   "subnets": {
-    "ipv4": [],
-    "ipv6": [
-      "2400:5ca0::/46"
-    ]
+    "ipv4": [
+      "103.183.52.0/23"
+    ],
+    "ipv6": []
   }
 }

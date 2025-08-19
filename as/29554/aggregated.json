@@ -3,11 +3,7 @@
   "handle": "SVYAZNOY-CHAIN-AS",
   "description": "Svyaznoy Chain LLC",
   "subnets": {
-    "ipv4": [
-      "83.143.192.0/21",
-      "89.16.32.0/19",
-      "185.139.108.0/22"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

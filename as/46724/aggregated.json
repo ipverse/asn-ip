@@ -3,9 +3,7 @@
   "handle": "KSC",
   "description": "Kelsey-Seybold Clinic",
   "subnets": {
-    "ipv4": [
-      "204.28.13.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

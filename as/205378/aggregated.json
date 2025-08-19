@@ -1,9 +1,11 @@
 {
   "asn": 205378,
-  "handle": "GKOD",
-  "description": "St.-Petersburg City Oncology Clinic",
+  "handle": "Y3D",
+  "description": "Yellow Dinosaur Unip Lda",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a0f:85c1:cf4::/48"
+    ]
   }
 }

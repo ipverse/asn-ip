@@ -4,7 +4,7 @@
   "description": "PT Vaiotech Lintas Nusantara",
   "subnets": {
     "ipv4": [
-      "103.172.20.0/23"
+      "103.172.20.0/24"
     ],
     "ipv6": []
   }
