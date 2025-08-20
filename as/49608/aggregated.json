@@ -1,9 +1,16 @@
 {
   "asn": 49608,
-  "handle": "COCHENTEK-UK",
-  "description": "CoChen Technology LTD.",
+  "handle": "COCHENTEK-AS-UK",
+  "description": "CoChen Technology LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "151.241.22.0/24",
+      "151.245.25.0/24",
+      "151.245.30.0/24",
+      "151.245.40.0/24",
+      "151.245.46.0/24",
+      "151.245.52.0/24"
+    ],
     "ipv6": []
   }
 }

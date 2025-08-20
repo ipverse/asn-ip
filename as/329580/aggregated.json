@@ -1,0 +1,11 @@
+{
+  "asn": 329580,
+  "handle": "CLOUD-NETWORK",
+  "description": "The Cloud Network Limited",
+  "subnets": {
+    "ipv4": [
+      "102.205.88.0/22"
+    ],
+    "ipv6": []
+  }
+}

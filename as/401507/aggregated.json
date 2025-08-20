@@ -3,9 +3,7 @@
   "handle": "IMPUT",
   "description": "imput",
   "subnets": {
-    "ipv4": [
-      "23.129.212.0/24"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2602:f78a:42::/48",
       "2602:f78a:7f::/48"

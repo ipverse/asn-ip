@@ -1,0 +1,11 @@
+{
+  "asn": 14619,
+  "handle": "AS-THERA-US",
+  "description": "THERA NETWORKS",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2602:f7aa::/40"
+    ]
+  }
+}

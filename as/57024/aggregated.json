@@ -1,9 +1,13 @@
 {
   "asn": 57024,
-  "handle": "L33",
+  "handle": "BSD-NETWORK",
   "description": "L33 NETWORKS SARL",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "146.0.24.0/24"
+    ],
+    "ipv6": [
+      "2a01:9686::/32"
+    ]
   }
 }

@@ -1,0 +1,13 @@
+{
+  "asn": 274186,
+  "handle": "DSOL-INTERNET",
+  "description": "DSOL INTERNET S.A.S",
+  "subnets": {
+    "ipv4": [
+      "186.121.191.0/24"
+    ],
+    "ipv6": [
+      "2803:cdd0::/32"
+    ]
+  }
+}

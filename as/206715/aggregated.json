@@ -1,9 +1,11 @@
 {
   "asn": 206715,
-  "handle": "JOSEFIGUEROA",
-  "description": "Jose Figueroa",
+  "handle": "UXHOST",
+  "description": "UXHOST LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "104.165.205.0/24"
+    ],
     "ipv6": []
   }
 }

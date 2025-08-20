@@ -3,7 +3,9 @@
   "handle": "WEBINVESTPLUS",
   "description": "Webinvest Plus LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.237.226.0/24"
+    ],
     "ipv6": [
       "2602:fed2:7910::/44",
       "2a09:f040::/29",

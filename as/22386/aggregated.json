@@ -3,7 +3,9 @@
   "handle": "SARB",
   "description": "South Africa Reserve Bank",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "196.29.240.0/20"
+    ],
     "ipv6": []
   }
 }

@@ -1,0 +1,11 @@
+{
+  "asn": 43196,
+  "handle": "TMN-AS",
+  "description": "Sinal A/S",
+  "subnets": {
+    "ipv4": [
+      "91.194.154.0/23"
+    ],
+    "ipv6": []
+  }
+}

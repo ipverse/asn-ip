@@ -3,7 +3,9 @@
   "handle": "AS-SKIDBLADNIR-LABS",
   "description": "Skidbladnir Labs S.L",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "167.150.22.0/24"
+    ],
     "ipv6": [
       "2a0f:85c1:cc5::/48"
     ]

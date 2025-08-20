@@ -3,7 +3,9 @@
   "handle": "UK-GIGALOCH",
   "description": "Gigaloch Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.165.194.0/24"
+    ],
     "ipv6": []
   }
 }

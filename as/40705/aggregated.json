@@ -1,0 +1,14 @@
+{
+  "asn": 40705,
+  "handle": "LAWARD-NET",
+  "description": "LA WARD COMMUNICATIONS INC",
+  "subnets": {
+    "ipv4": [
+      "72.14.127.0/24",
+      "97.75.243.0/24",
+      "104.232.2.0/23",
+      "208.101.238.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -4,7 +4,8 @@
   "description": "Gera-Net Provedor de Acesso",
   "subnets": {
     "ipv4": [
-      "24.152.112.0/22"
+      "24.152.112.0/23",
+      "24.152.115.0/24"
     ],
     "ipv6": [
       "2804:6cf8::/32"

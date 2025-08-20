@@ -1,0 +1,11 @@
+{
+  "asn": 212439,
+  "handle": "ETPGPB2",
+  "description": "LLC ETP GPB",
+  "subnets": {
+    "ipv4": [
+      "194.24.173.0/24"
+    ],
+    "ipv6": []
+  }
+}

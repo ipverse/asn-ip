@@ -1,0 +1,11 @@
+{
+  "asn": 205927,
+  "handle": "PROXY-HUB",
+  "description": "HA VAN HOANG",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a0a:68c0:200::/48"
+    ]
+  }
+}

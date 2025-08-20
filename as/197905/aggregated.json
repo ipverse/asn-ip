@@ -3,7 +3,9 @@
   "handle": "KODEKSCOM-AS",
   "description": "Kodeks.Com LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.229.146.0/24"
+    ],
     "ipv6": []
   }
 }

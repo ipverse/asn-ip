@@ -3,7 +3,9 @@
   "handle": "METASPINNER-ASN",
   "description": "metaspinner net GmbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "178.16.52.0/22"
+    ],
     "ipv6": []
   }
 }

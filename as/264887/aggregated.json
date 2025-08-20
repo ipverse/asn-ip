@@ -3,7 +3,9 @@
   "handle": "VOAR-TELECOM",
   "description": "VOAR TELECOM",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "168.227.184.0/22"
+    ],
     "ipv6": []
   }
 }

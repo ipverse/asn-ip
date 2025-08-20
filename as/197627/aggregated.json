@@ -3,7 +3,9 @@
   "handle": "EGY4-AS",
   "description": "Ellad G. Yatsko",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.223.181.0/24"
+    ],
     "ipv6": []
   }
 }

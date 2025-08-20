@@ -1,7 +1,13 @@
 {
   "asn": 399928,
+  "handle": "PAULDINGPUTNAM",
+  "description": "PAULDING PUTNAM ELECTRIC TRUST INC",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "167.234.80.0/20"
+    ],
+    "ipv6": [
+      "2604:7a0::/32"
+    ]
   }
 }
