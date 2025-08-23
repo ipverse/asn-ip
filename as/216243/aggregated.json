@@ -3,11 +3,7 @@
   "handle": "BJEONYX",
   "description": "JACO ENGELBRECHT",
   "subnets": {
-    "ipv4": [
-      "192.100.143.0/24"
-    ],
-    "ipv6": [
-      "2001:67c:458::/48"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

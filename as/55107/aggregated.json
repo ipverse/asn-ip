@@ -3,7 +3,9 @@
   "handle": "US-NYC-HWW",
   "description": "Havas Worldwide LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "66.173.157.0/24"
+    ],
     "ipv6": []
   }
 }

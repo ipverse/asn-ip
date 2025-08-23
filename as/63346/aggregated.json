@@ -3,7 +3,9 @@
   "handle": "ASCENT-LLC",
   "description": "Ascent LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.109.120.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -1,0 +1,11 @@
+{
+  "asn": 205079,
+  "handle": "MANS-AS",
+  "description": "Mans Ziesel",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2001:678:10ec::/48"
+    ]
+  }
+}

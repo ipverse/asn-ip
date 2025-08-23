@@ -3,7 +3,9 @@
   "handle": "CHINAE-AS",
   "description": "JT Chinae Savings Bank",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "211.44.27.0/24"
+    ],
     "ipv6": []
   }
 }

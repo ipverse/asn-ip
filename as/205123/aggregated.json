@@ -1,9 +1,11 @@
 {
   "asn": 205123,
-  "handle": "RESERVED",
-  "description": "RIPE NCC ASN block",
+  "handle": "THEYAGIZSINA",
+  "description": "theyagizsina LLC",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a0f:85c1:d32::/48"
+    ]
   }
 }

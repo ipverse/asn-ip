@@ -3,11 +3,7 @@
   "handle": "CDSPL-AS-IN",
   "description": "CLOUDXON DATAINFRA SOLUTIONS PRIVATE LIMITED",
   "subnets": {
-    "ipv4": [
-      "157.10.62.0/24"
-    ],
-    "ipv6": [
-      "2001:df6:c0::/48"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }
