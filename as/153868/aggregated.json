@@ -3,9 +3,7 @@
   "handle": "WIDEWIRED-AS-AP",
   "description": "WideWired Networks Limited",
   "subnets": {
-    "ipv4": [
-      "151.244.254.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

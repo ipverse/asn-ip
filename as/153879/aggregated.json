@@ -1,0 +1,11 @@
+{
+  "asn": 153879,
+  "handle": "HOMELINK-AS-AP",
+  "description": "Home Link",
+  "subnets": {
+    "ipv4": [
+      "165.99.35.0/24"
+    ],
+    "ipv6": []
+  }
+}

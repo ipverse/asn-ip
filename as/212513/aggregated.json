@@ -3,7 +3,9 @@
   "handle": "OSNET-TELEKOM",
   "description": "Osnet Telekomunikasyon Dis Ticaret Limited Sirketi",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "31.56.180.0/24"
+    ],
     "ipv6": [
       "2a0f:85c1:bfa::/48"
     ]

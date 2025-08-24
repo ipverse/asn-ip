@@ -1,9 +1,11 @@
 {
   "asn": 55057,
-  "handle": "TIGER-MANAGEMENT-LLC",
-  "description": "Tiger Management L.L.C.",
+  "handle": "CHI-ILAG",
+  "description": "Office of the Illinois Attorney General",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "163.191.110.0/24"
+    ],
     "ipv6": []
   }
 }

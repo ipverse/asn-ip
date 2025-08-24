@@ -1,9 +1,11 @@
 {
   "asn": 211687,
-  "handle": "UNLIM-UZ",
-  "description": "ALOQA STROY Ltd.",
+  "handle": "HCORE-LTD",
+  "description": "HCORE LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.254.31.0/24"
+    ],
     "ipv6": []
   }
 }

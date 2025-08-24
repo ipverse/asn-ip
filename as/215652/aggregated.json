@@ -3,7 +3,9 @@
   "handle": "JB-PL-ROUTE",
   "description": "Jakub Artur Bald",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "88.220.88.0/24"
+    ],
     "ipv6": []
   }
 }
