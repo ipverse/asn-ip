@@ -1,0 +1,11 @@
+{
+  "asn": 50490,
+  "handle": "EM-FIBERBREDBAAND-AS",
+  "description": "Sinal A/S",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a00:1f9f::/32"
+    ]
+  }
+}

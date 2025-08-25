@@ -4,7 +4,8 @@
   "description": "Viaband Telecomunicação Ltda",
   "subnets": {
     "ipv4": [
-      "177.84.28.0/22"
+      "177.84.28.0/24",
+      "177.84.30.0/23"
     ],
     "ipv6": []
   }

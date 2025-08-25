@@ -1,9 +1,13 @@
 {
   "asn": 207461,
-  "handle": "RESERVED",
-  "description": "RIPE NCC ASN block",
+  "handle": "HOST-INDUSTRY",
+  "description": "HOSTING INDUSTRY LIMITED",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "193.5.65.0/24"
+    ],
+    "ipv6": [
+      "2a0f:3d86:100::/48"
+    ]
   }
 }

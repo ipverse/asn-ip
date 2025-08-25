@@ -4,7 +4,7 @@
   "description": "Universitaetsspital Basel",
   "subnets": {
     "ipv4": [
-      "145.250.128.0/22"
+      "145.250.128.0/17"
     ],
     "ipv6": []
   }

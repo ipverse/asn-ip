@@ -3,7 +3,10 @@
   "handle": "CONNECTUC-AS-IN",
   "description": "CONNECT U COMMUNICATION",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.144.94.0/24",
+      "103.203.250.0/24"
+    ],
     "ipv6": []
   }
 }

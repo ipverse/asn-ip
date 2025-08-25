@@ -3,7 +3,12 @@
   "handle": "RCS-ASN",
   "description": "Rocks Computer Services LLC",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "69.17.32.0/20",
+      "199.89.230.0/24"
+    ],
+    "ipv6": [
+      "2602:fab9::/40"
+    ]
   }
 }

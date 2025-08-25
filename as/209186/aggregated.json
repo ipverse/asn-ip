@@ -1,9 +1,11 @@
 {
   "asn": 209186,
-  "handle": "CURSA",
-  "description": "Cursa SAS",
+  "handle": "HOSTLINECLOUD-AS",
+  "description": "Kuznetsov Kirill Ivanovich",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a0d:d940:900d::/48"
+    ]
   }
 }

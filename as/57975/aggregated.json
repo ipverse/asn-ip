@@ -3,7 +3,9 @@
   "handle": "ARTV-AS",
   "description": "ARTV Union Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "146.158.15.0/24"
+    ],
     "ipv6": []
   }
 }

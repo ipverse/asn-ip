@@ -1,9 +1,11 @@
 {
   "asn": 205441,
-  "handle": "ZATENIAN",
-  "description": "Ismayil Hasanov",
+  "handle": "LUMO",
+  "description": "Lumo Cloud Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "151.247.210.0/24"
+    ],
     "ipv6": []
   }
 }

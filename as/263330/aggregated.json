@@ -3,9 +3,7 @@
   "handle": "FUNDACAO-EDUCACIONAL-PATOS",
   "description": "Fundação Educacional de Patos de Minas",
   "subnets": {
-    "ipv4": [
-      "191.7.224.0/19"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

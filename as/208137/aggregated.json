@@ -3,7 +3,9 @@
   "handle": "FPS12",
   "description": "Feo Prest SRL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.211.188.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -4,7 +4,6 @@
   "description": "Simmons Bank",
   "subnets": {
     "ipv4": [
-      "74.217.248.0/24",
       "199.71.180.0/23"
     ],
     "ipv6": []

@@ -4,6 +4,7 @@
   "description": "Compubyte Limited",
   "subnets": {
     "ipv4": [
+      "185.86.93.0/24",
       "185.86.94.0/24",
       "193.109.246.0/23"
     ],

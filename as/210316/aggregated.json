@@ -3,7 +3,9 @@
   "handle": "ELEKOMS-AS",
   "description": "CJSC SCIENTIFIC AND PRODUCTION FIRM ELEKOMS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "80.68.147.0/24"
+    ],
     "ipv6": []
   }
 }

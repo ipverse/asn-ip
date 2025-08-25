@@ -3,7 +3,9 @@
   "handle": "NETWORKABLE",
   "description": "Thomas Ferguson",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "44.30.33.0/24"
+    ],
     "ipv6": []
   }
 }

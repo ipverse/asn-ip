@@ -3,7 +3,9 @@
   "handle": "AURUSTECHPVTLTD-AS-AP",
   "description": "Aurus Tech pvt ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "14.102.89.0/24"
+    ],
     "ipv6": []
   }
 }

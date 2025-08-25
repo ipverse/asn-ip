@@ -3,9 +3,7 @@
   "handle": "ANSL-AS-AP",
   "description": "Aldford Network Solutions Limited",
   "subnets": {
-    "ipv4": [
-      "185.251.173.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

@@ -1,9 +1,11 @@
 {
   "asn": 139303,
-  "handle": "CHANDINA-ONLINE-AS-AP",
-  "description": "Chandina Online",
+  "handle": "RESERVED",
+  "description": "APNIC ASN block",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.114.255.0/24"
+    ],
     "ipv6": []
   }
 }
