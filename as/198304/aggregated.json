@@ -3,9 +3,7 @@
   "handle": "GUGENET",
   "description": "MoeDove",
   "subnets": {
-    "ipv4": [
-      "44.30.30.0/24"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2602:f92a:a000::/40"
     ]

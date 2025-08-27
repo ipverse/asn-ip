@@ -4,6 +4,7 @@
   "description": "DUCKY CLOUD TECHNOLOGIES LIMITED",
   "subnets": {
     "ipv4": [
+      "151.244.3.0/24",
       "154.83.88.0/23"
     ],
     "ipv6": [

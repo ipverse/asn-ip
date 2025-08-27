@@ -1,0 +1,11 @@
+{
+  "asn": 274515,
+  "handle": "NOSSA-NET",
+  "description": "Nossa Net",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2804:9558::/32"
+    ]
+  }
+}

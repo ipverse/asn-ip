@@ -3,7 +3,9 @@
   "handle": "FIESTA-TELECOMUNICACIONES",
   "description": "FIESTA TELECOMUNICACIONES SAS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.226.139.0/24"
+    ],
     "ipv6": [
       "2803:3a50:20::/43"
     ]

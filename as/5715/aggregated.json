@@ -4,6 +4,7 @@
   "description": "Inteliquent inc",
   "subnets": {
     "ipv4": [
+      "206.9.255.0/24",
       "206.147.142.0/24"
     ],
     "ipv6": [

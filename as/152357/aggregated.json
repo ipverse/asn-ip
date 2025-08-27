@@ -1,0 +1,11 @@
+{
+  "asn": 152357,
+  "handle": "IDNIC-5GLOBAL-AS-ID",
+  "description": "PT Lima Global Networkindo",
+  "subnets": {
+    "ipv4": [
+      "157.15.2.0/23"
+    ],
+    "ipv6": []
+  }
+}

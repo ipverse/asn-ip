@@ -3,11 +3,7 @@
   "handle": "DRVDIGITAL-AS-IN",
   "description": "Drv Digital Network Private Limited",
   "subnets": {
-    "ipv4": [
-      "157.10.14.0/23"
-    ],
-    "ipv6": [
-      "2401:5fe0::/32"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

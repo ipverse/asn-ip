@@ -3,7 +3,11 @@
   "handle": "DCITPL-AS-AP",
   "description": "DATAGEEKS CLOUD IP TECHNOLOGY PRIVATE LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "149.100.64.0/22",
+      "149.100.76.0/22",
+      "154.49.172.0/22"
+    ],
     "ipv6": []
   }
 }

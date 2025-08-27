@@ -1,9 +1,11 @@
 {
   "asn": 210381,
-  "handle": "EVANSH",
-  "description": "Evan MORVAN",
+  "handle": "AMIOBANK",
+  "description": "AMIOBANK CJSC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "83.139.4.0/24"
+    ],
     "ipv6": []
   }
 }

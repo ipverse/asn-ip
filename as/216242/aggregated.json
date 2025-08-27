@@ -3,10 +3,11 @@
   "handle": "JUTLEY-AS",
   "description": "Jeremy Utley",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "44.30.42.0/24"
+    ],
     "ipv6": [
-      "2a05:dfc1:9840::/42",
-      "2a05:dfc1:9880::/42"
+      "2a05:dfc1:9800::/40"
     ]
   }
 }

@@ -4,7 +4,8 @@
   "description": "Thien Binh Software Service Company Limited",
   "subnets": {
     "ipv4": [
-      "103.78.76.0/22"
+      "103.78.77.0/24",
+      "103.78.78.0/23"
     ],
     "ipv6": []
   }

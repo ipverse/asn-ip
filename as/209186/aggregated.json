@@ -3,7 +3,9 @@
   "handle": "HOSTLINECLOUD-AS",
   "description": "Kuznetsov Kirill Ivanovich",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "178.17.63.0/24"
+    ],
     "ipv6": [
       "2a0d:d940:900d::/48"
     ]

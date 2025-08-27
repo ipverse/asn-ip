@@ -3,7 +3,11 @@
   "handle": "MEVIS",
   "description": "MeVis Medical Solutions AG",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "128.127.176.0/22"
+    ],
+    "ipv6": [
+      "2a03:ce00::/29"
+    ]
   }
 }
