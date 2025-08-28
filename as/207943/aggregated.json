@@ -3,7 +3,9 @@
   "handle": "LSW",
   "description": "LSW Netz Verwaltungs-GmbH trading as LSW Netz GmbH \u0026 Co. KG",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.46.71.0/24"
+    ],
     "ipv6": [
       "2a12:9440::/29"
     ]

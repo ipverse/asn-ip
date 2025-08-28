@@ -1,9 +1,11 @@
 {
   "asn": 206230,
-  "handle": "RESERVED",
-  "description": "RIPE NCC ASN block",
+  "handle": "TEAM-HOST-AM",
+  "description": "Team Host LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.73.34.0/24"
+    ],
     "ipv6": []
   }
 }

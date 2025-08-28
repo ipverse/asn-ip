@@ -4,6 +4,7 @@
   "description": "Juweriyah Networks Private Limited",
   "subnets": {
     "ipv4": [
+      "38.20.140.0/22",
       "38.130.144.0/22",
       "103.31.140.0/22",
       "103.31.220.0/23",

@@ -3,7 +3,13 @@
   "handle": "UNGLEICH-PLACE18",
   "description": "ungleich GmbH",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "185.116.114.0/24"
+    ],
+    "ipv6": [
+      "2a0a:5480:1ac::/47",
+      "2a0a:5480:ab7::/48",
+      "2a0a:5480:ab9::/48"
+    ]
   }
 }

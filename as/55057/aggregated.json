@@ -4,7 +4,7 @@
   "description": "Office of the Illinois Attorney General",
   "subnets": {
     "ipv4": [
-      "163.191.110.0/24"
+      "163.191.110.0/23"
     ],
     "ipv6": []
   }

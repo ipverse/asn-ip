@@ -4,7 +4,8 @@
   "description": "ASPEN DENTAL MANAGEMENT INC",
   "subnets": {
     "ipv4": [
-      "204.144.143.0/24"
+      "204.144.143.0/24",
+      "204.144.144.0/24"
     ],
     "ipv6": []
   }

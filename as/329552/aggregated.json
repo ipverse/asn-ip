@@ -1,0 +1,13 @@
+{
+  "asn": 329552,
+  "handle": "PHPLAVATEC",
+  "description": "PHPLAVATEC SOLUTIONS LTD",
+  "subnets": {
+    "ipv4": [
+      "102.205.188.0/23"
+    ],
+    "ipv6": [
+      "2c0f:23c0::/32"
+    ]
+  }
+}

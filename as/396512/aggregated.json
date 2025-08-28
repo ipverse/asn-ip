@@ -4,7 +4,7 @@
   "description": "Movement Mortgage",
   "subnets": {
     "ipv4": [
-      "66.9.46.0/23"
+      "66.9.46.0/24"
     ],
     "ipv6": []
   }

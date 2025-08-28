@@ -4,6 +4,8 @@
   "description": "Air2net India Private Limited",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2001:df5:2240::/48"
+    ]
   }
 }

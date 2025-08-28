@@ -4,8 +4,11 @@
   "description": "JOTA NET TELECOMUNICACOES LTDA - ME",
   "subnets": {
     "ipv4": [
+      "45.166.156.0/24",
       "45.166.159.0/24"
     ],
-    "ipv6": []
+    "ipv6": [
+      "2804:5620:210::/48"
+    ]
   }
 }

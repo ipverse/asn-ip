@@ -3,7 +3,9 @@
   "handle": "CBNY",
   "description": "College Entrance Examination Board",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "209.48.35.0/24"
+    ],
     "ipv6": []
   }
 }

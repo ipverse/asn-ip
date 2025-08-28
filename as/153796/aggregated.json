@@ -3,9 +3,7 @@
   "handle": "IDNIC-DMG-ID",
   "description": "PT Darussalam Media Group",
   "subnets": {
-    "ipv4": [
-      "161.248.240.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

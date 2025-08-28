@@ -3,10 +3,7 @@
   "handle": "SERVICIOS-NUNEZ-EIRL",
   "description": "SERVICIOS NUÑEZ EIRL",
   "subnets": {
-    "ipv4": [
-      "38.7.131.0/24",
-      "38.95.84.0/24"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2803:9c0:fe::/47"
     ]

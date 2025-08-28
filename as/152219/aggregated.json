@@ -1,0 +1,11 @@
+{
+  "asn": 152219,
+  "handle": "NEXTRADE-AS",
+  "description": "nextrade",
+  "subnets": {
+    "ipv4": [
+      "49.213.45.0/24"
+    ],
+    "ipv6": []
+  }
+}
