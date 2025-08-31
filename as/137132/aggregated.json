@@ -3,7 +3,12 @@
   "handle": "MYHSB-AS",
   "description": "High Speed Broadband",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "103.110.168.0/22",
+      "103.135.168.0/22"
+    ],
+    "ipv6": [
+      "2402:b040:fde9::/48"
+    ]
   }
 }

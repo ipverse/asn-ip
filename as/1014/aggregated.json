@@ -3,9 +3,7 @@
   "handle": "GLOBAL-ISP",
   "description": "NetLab Global",
   "subnets": {
-    "ipv4": [
-      "154.36.184.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

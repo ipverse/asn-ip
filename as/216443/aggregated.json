@@ -1,9 +1,11 @@
 {
   "asn": 216443,
-  "handle": "RESERVED",
-  "description": "RIPE NCC ASN block",
+  "handle": "INFOGENIUS",
+  "description": "InfoGenius SAS",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a01:f9c0:3a7c::/48"
+    ]
   }
 }

@@ -1,0 +1,12 @@
+{
+  "asn": 401575,
+  "handle": "JPPS-01",
+  "description": "Jeff Parrish Sole Proprietorship",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2602:f96d:ffe::/48",
+      "2602:fed2:7106::/48"
+    ]
+  }
+}

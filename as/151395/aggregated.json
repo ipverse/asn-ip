@@ -1,9 +1,11 @@
 {
   "asn": 151395,
-  "handle": "RESERVED",
-  "description": "APNIC ASN block",
+  "handle": "SHIPONINTERNET-AS-AP",
+  "description": "Shipon Internet",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "49.143.248.0/23"
+    ],
     "ipv6": []
   }
 }

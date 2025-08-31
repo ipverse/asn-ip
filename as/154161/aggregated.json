@@ -4,7 +4,6 @@
   "description": "Lee Communication",
   "subnets": {
     "ipv4": [
-      "45.119.120.0/23",
       "202.94.165.0/24"
     ],
     "ipv6": []

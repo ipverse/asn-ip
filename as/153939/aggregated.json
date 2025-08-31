@@ -3,7 +3,9 @@
   "handle": "IDNIC-SANDEQ-AS-ID",
   "description": "PT Sandeq Media Teknologi",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "165.99.86.0/24"
+    ],
     "ipv6": []
   }
 }
