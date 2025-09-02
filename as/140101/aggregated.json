@@ -1,9 +1,11 @@
 {
   "asn": 140101,
-  "handle": "RESERVED",
-  "description": "APNIC ASN block",
+  "handle": "IDNIC-SKYLINKNET-ID",
+  "description": "PT Skylink Sinaya Sejahtera",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "165.99.28.0/23"
+    ],
     "ipv6": []
   }
 }

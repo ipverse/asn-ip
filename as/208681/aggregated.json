@@ -1,9 +1,12 @@
 {
   "asn": 208681,
-  "handle": "IDEALO",
+  "handle": "IDEALO-AS",
   "description": "Idealo Internet GmbH",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a0b:a200::/46",
+      "2a0b:a200:4::/47"
+    ]
   }
 }

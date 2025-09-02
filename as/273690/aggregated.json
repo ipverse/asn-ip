@@ -3,7 +3,9 @@
   "handle": "SHIELD-TELECOM",
   "description": "SHIELD TELECOM LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.228.250.0/24"
+    ],
     "ipv6": [
       "2804:8ab8::/32"
     ]

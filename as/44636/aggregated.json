@@ -4,6 +4,7 @@
   "description": "Koshkin Matvey",
   "subnets": {
     "ipv4": [
+      "171.22.19.0/24",
       "178.17.54.0/24"
     ],
     "ipv6": []

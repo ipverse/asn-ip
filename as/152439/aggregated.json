@@ -4,6 +4,7 @@
   "description": "PT Applewifi Selalu Lancar",
   "subnets": {
     "ipv4": [
+      "38.46.235.0/24",
       "157.20.233.0/24"
     ],
     "ipv6": []

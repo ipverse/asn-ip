@@ -1,9 +1,11 @@
 {
   "asn": 208553,
-  "handle": "RESERVED",
-  "description": "RIPE NCC ASN block",
+  "handle": "WECHIP",
+  "description": "WECHIP ODEME TEKNOLOJILERI ANONIM SIRKETI",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "89.39.80.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,11 @@
   "handle": "NEBIUSISRAEL",
   "description": "Nebius Israel Ltd",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "89.124.40.0/22"
+    ],
+    "ipv6": [
+      "2a11:f740:20::/44"
+    ]
   }
 }

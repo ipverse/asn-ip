@@ -1,9 +1,11 @@
 {
   "asn": 136800,
-  "handle": "MOACKCOLTD-AP",
+  "handle": "MOACKCOLTD-AS-AP",
   "description": "MOACK.Co.LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "156.234.77.0/24"
+    ],
     "ipv6": []
   }
 }

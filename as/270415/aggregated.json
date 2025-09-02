@@ -4,6 +4,7 @@
   "description": "LEVE INTERNET E REDES DE TELECOMUNICACOES LTDA",
   "subnets": {
     "ipv4": [
+      "168.205.208.0/23",
       "190.107.160.0/22"
     ],
     "ipv6": [

@@ -1,9 +1,11 @@
 {
   "asn": 51031,
-  "handle": "RESERVED",
-  "description": "RIPE NCC ASN block",
+  "handle": "STARNETWORK",
+  "description": "w1n ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "79.172.250.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -1,9 +1,11 @@
 {
   "asn": 205601,
-  "handle": "RESERVED",
-  "description": "RIPE NCC ASN block",
+  "handle": "VEEV-CDN",
+  "description": "GALAXY STAR COMPANY LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.107.143.0/24"
+    ],
     "ipv6": []
   }
 }

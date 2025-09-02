@@ -4,8 +4,10 @@
   "description": "7 Star Telecom (Private) Limited",
   "subnets": {
     "ipv4": [
-      "103.157.89.0/24"
+      "103.157.88.0/23"
     ],
-    "ipv6": []
+    "ipv6": [
+      "2401:a460::/32"
+    ]
   }
 }

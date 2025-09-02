@@ -3,7 +3,9 @@
   "handle": "PORT-AUTONOME-DE-KRIBI",
   "description": "PORT AUTONOME DE KRIBI",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "102.209.19.0/24"
+    ],
     "ipv6": []
   }
 }

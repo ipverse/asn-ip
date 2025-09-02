@@ -1,0 +1,11 @@
+{
+  "asn": 5521,
+  "handle": "PS-CLOUD",
+  "description": "PlusServer GmbH",
+  "subnets": {
+    "ipv4": [
+      "62.75.153.0/24"
+    ],
+    "ipv6": []
+  }
+}
