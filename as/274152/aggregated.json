@@ -3,7 +3,9 @@
   "handle": "SURFLINK",
   "description": "SURFLINK SAS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.252.106.0/24"
+    ],
     "ipv6": []
   }
 }

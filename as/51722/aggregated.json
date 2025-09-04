@@ -1,9 +1,11 @@
 {
   "asn": 51722,
   "handle": "TEKNOSOS",
-  "description": "TEKNOSOS BILISIM HIZMETLERI VE TIC. LTD. STI.",
+  "description": "TEKNOSOS BILISIM HIZMETLERI VE TIC. LTD. STI",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.62.54.0/24"
+    ],
     "ipv6": []
   }
 }

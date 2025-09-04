@@ -1,0 +1,11 @@
+{
+  "asn": 32610,
+  "handle": "GLOBAL-AS",
+  "description": "Global Companies LLC",
+  "subnets": {
+    "ipv4": [
+      "208.90.78.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,11 +1,11 @@
 {
   "asn": 215281,
-  "handle": "APEXUNIVERSE-NET",
-  "description": "Apex Universe Networks LTD",
+  "handle": "NORTHEAST-HOSTING-LLC",
+  "description": "Northeast Hosting LLC",
   "subnets": {
-    "ipv4": [
-      "93.185.157.0/24"
-    ],
-    "ipv6": []
+    "ipv4": [],
+    "ipv6": [
+      "2a0f:85c1:d3e::/48"
+    ]
   }
 }

@@ -1,0 +1,11 @@
+{
+  "asn": 401574,
+  "handle": "WIFIRESAS01",
+  "description": "Wifires Communications LLC",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2607:39c0::/32"
+    ]
+  }
+}

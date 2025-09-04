@@ -1,9 +1,11 @@
 {
   "asn": 215804,
-  "handle": "ADRIANHOM-NET",
-  "description": "Adrian Hom",
+  "handle": "GRIDGR",
+  "description": "GRID TELECOM SINGLE MEMBER S.A",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "94.156.67.0/24"
+    ],
     "ipv6": []
   }
 }

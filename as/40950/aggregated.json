@@ -1,9 +1,10 @@
 {
   "asn": 40950,
   "handle": "DEDIBYTE-LLC",
-  "description": "DediByte",
+  "description": "DediByte LLC",
   "subnets": {
     "ipv4": [
+      "45.38.51.0/24",
       "154.85.120.0/24",
       "172.252.144.0/24",
       "209.178.234.0/24"

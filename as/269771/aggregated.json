@@ -4,7 +4,8 @@
   "description": "PRINTER-NET-SERVICE C.A",
   "subnets": {
     "ipv4": [
-      "45.184.103.0/24"
+      "45.184.103.0/24",
+      "154.62.127.0/24"
     ],
     "ipv6": []
   }
