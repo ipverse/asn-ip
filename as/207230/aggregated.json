@@ -3,7 +3,9 @@
   "handle": "MYGAMESSWITZERLAND",
   "description": "MY.GAMES B.V",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.66.98.0/24"
+    ],
     "ipv6": []
   }
 }

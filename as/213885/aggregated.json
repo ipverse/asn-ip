@@ -1,9 +1,11 @@
 {
   "asn": 213885,
-  "handle": "RESERVED",
-  "description": "RIPE NCC ASN block",
+  "handle": "WXTANGO-MNT",
+  "description": "Wilxite Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "188.92.5.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -1,0 +1,11 @@
+{
+  "asn": 154202,
+  "handle": "IDNIC-VIALINK-ID",
+  "description": "PT VIALINK TEKNOLOGI DIGITAL",
+  "subnets": {
+    "ipv4": [
+      "203.26.218.0/24"
+    ],
+    "ipv6": []
+  }
+}

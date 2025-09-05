@@ -3,7 +3,9 @@
   "handle": "MOBIINDIA-AS",
   "description": "Mobiwalkers",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.253.168.0/22"
+    ],
     "ipv6": []
   }
 }

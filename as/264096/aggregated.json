@@ -4,6 +4,7 @@
   "description": "RG PROVIDER LTDA ME",
   "subnets": {
     "ipv4": [
+      "186.216.224.0/20",
       "201.77.8.0/21"
     ],
     "ipv6": [

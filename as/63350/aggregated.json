@@ -1,9 +1,11 @@
 {
   "asn": 63350,
-  "handle": "FONCLOUD",
-  "description": "Fonolo",
+  "handle": "FBH-DMO-BGP",
+  "description": "Riviera Utilities",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "64.7.35.0/24"
+    ],
     "ipv6": []
   }
 }

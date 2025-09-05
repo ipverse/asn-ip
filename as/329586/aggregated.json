@@ -3,7 +3,9 @@
   "handle": "PORT-AUTONOME",
   "description": "Port Autonome D\u0027Abidjan",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "102.205.72.0/24"
+    ],
     "ipv6": []
   }
 }

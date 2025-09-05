@@ -1,9 +1,11 @@
 {
   "asn": 30030,
-  "handle": "SIMPLEXITY",
-  "description": "Wal-Mart Stores, Inc.",
+  "handle": "WALMART-GUEST-TENANT",
+  "description": "Wal-Mart Stores Inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "156.92.225.0/24"
+    ],
     "ipv6": []
   }
 }

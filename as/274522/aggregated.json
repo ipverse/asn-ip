@@ -1,0 +1,13 @@
+{
+  "asn": 274522,
+  "handle": "EVOLUTION-TELECON",
+  "description": "Evolution Telecon",
+  "subnets": {
+    "ipv4": [
+      "38.156.94.0/24"
+    ],
+    "ipv6": [
+      "2804:956c::/32"
+    ]
+  }
+}

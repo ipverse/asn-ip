@@ -1,9 +1,11 @@
 {
   "asn": 32196,
-  "handle": "SURGO-ASN-01",
-  "description": "SurgoCap Partners LP",
+  "handle": "JLEMDR",
+  "description": "Jacobs Levy Equity Management Inc",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2620:0:aa00::/48"
+    ]
   }
 }

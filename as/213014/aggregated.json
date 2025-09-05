@@ -3,7 +3,9 @@
   "handle": "ADNEX-AS",
   "description": "Firma Handlowo-Uslugowa Adnex Jan Kos",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.236.75.0/24"
+    ],
     "ipv6": []
   }
 }

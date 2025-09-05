@@ -1,9 +1,11 @@
 {
   "asn": 215885,
-  "handle": "COMPUTING-ID",
-  "description": "PT Intprism Computing Technology",
+  "handle": "MASTERVM",
+  "description": "Habib Iseni Trading as BACI Enterprise",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "80.240.86.0/24"
+    ],
     "ipv6": []
   }
 }

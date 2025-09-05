@@ -1,9 +1,11 @@
 {
   "asn": 208893,
-  "handle": "MWSQ",
-  "description": "Maximilian Schieder",
+  "handle": "SPARKS",
+  "description": "SPARKS COMMUNICATIONS LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "94.156.64.0/23"
+    ],
     "ipv6": []
   }
 }

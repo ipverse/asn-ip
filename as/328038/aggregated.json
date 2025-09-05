@@ -3,9 +3,7 @@
   "handle": "HITEC-SURE-AS",
   "description": "Hitec Sure cc",
   "subnets": {
-    "ipv4": [
-      "156.0.64.0/21"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

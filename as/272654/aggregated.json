@@ -3,9 +3,7 @@
   "handle": "VSIX-COMUNICACAO-TECNOLOGIA",
   "description": "VSIX COMUNICAÇÃO E TECNOLOGIA LTDA",
   "subnets": {
-    "ipv4": [
-      "201.157.246.0/24"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2804:8698::/32"
     ]
