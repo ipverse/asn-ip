@@ -3,7 +3,10 @@
   "handle": "NETZR",
   "description": "NETZR LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "23.191.40.0/24",
+      "195.95.149.0/24"
+    ],
     "ipv6": []
   }
 }

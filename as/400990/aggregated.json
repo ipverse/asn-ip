@@ -1,0 +1,11 @@
+{
+  "asn": 400990,
+  "handle": "SU-ASN-01",
+  "description": "Shepherd University",
+  "subnets": {
+    "ipv4": [
+      "216.145.195.0/24"
+    ],
+    "ipv6": []
+  }
+}

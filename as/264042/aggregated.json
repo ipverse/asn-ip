@@ -4,10 +4,10 @@
   "description": "CRISPIM E GOMES TELECOM LTDA",
   "subnets": {
     "ipv4": [
-      "143.137.152.0/22"
+      "143.137.152.0/23"
     ],
     "ipv6": [
-      "2804:29e4::/32"
+      "2804:29e4::/33"
     ]
   }
 }

@@ -1,11 +1,13 @@
 {
   "asn": 133226,
-  "handle": "RURIC-IN",
+  "handle": "RURIC-AS-IN",
   "description": "Ruric Private Limited",
   "subnets": {
     "ipv4": [
       "103.183.158.0/23"
     ],
-    "ipv6": []
+    "ipv6": [
+      "2400:8180:31::/48"
+    ]
   }
 }

@@ -1,9 +1,16 @@
 {
   "asn": 215290,
-  "handle": "NANOGUARD-NET",
-  "description": "NanoGuard LLC",
+  "handle": "BEA-AS",
+  "description": "Bezhin Evgenii Alekseevich",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a11:1480::/32",
+      "2a11:6304::/32",
+      "2a11:c542::/32",
+      "2a11:e7c7::/32",
+      "2a12:2e45::/32",
+      "2a12:8804::/32"
+    ]
   }
 }

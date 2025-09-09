@@ -3,7 +3,9 @@
   "handle": "ESTAR-ON-INTERNET",
   "description": "ESTAR ON INTERNET FIBRA OPTICA LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "170.78.56.0/22"
+    ],
     "ipv6": [
       "2804:7fec::/32"
     ]

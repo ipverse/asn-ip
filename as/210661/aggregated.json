@@ -4,7 +4,8 @@
   "description": "ZMTO Technologies OU",
   "subnets": {
     "ipv4": [
-      "150.241.253.0/24"
+      "150.241.253.0/24",
+      "155.117.87.0/24"
     ],
     "ipv6": []
   }

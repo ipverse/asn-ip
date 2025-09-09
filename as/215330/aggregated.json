@@ -1,9 +1,18 @@
 {
   "asn": 215330,
-  "handle": "SHISHCAT",
-  "description": "Jacopo Di Pumpo",
+  "handle": "CDE-AS",
+  "description": "Chernenko Denis Evgenevich",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a0e:6740::/32",
+      "2a0e:c447::/32",
+      "2a11:1486::/32",
+      "2a11:1f07::/32",
+      "2a11:c446::/32",
+      "2a11:c540::/32",
+      "2a12:1a41::/32",
+      "2a12:8800::/32"
+    ]
   }
 }

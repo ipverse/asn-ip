@@ -1,9 +1,11 @@
 {
   "asn": 204968,
-  "handle": "TELECOMAVELDE",
-  "description": "Carmine Cella",
+  "handle": "VAV-AS",
+  "description": "Volkov Andrey Vladimirovich",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a09:8b80::/32"
+    ]
   }
 }

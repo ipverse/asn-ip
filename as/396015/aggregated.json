@@ -4,6 +4,8 @@
   "description": "Crestline Networks",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2602:81c:4000::/47"
+    ]
   }
 }

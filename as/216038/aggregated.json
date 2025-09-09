@@ -3,11 +3,8 @@
   "handle": "SCIENTRESS",
   "description": "Jenny Danzmayr",
   "subnets": {
-    "ipv4": [
-      "151.216.48.0/21"
-    ],
+    "ipv4": [],
     "ipv6": [
-      "2a14:6f44:ef::/48",
       "2a14:6f44:5360::/44"
     ]
   }

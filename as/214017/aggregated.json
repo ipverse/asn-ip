@@ -3,9 +3,7 @@
   "handle": "GENERICISP-AS",
   "description": "Stefan Funke",
   "subnets": {
-    "ipv4": [
-      "81.27.68.0/24"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2001:67c:f3c::/48"
     ]

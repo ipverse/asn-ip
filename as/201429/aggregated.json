@@ -3,7 +3,9 @@
   "handle": "TRANSAVTOLIZ-AS",
   "description": "Transavtoliz LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "141.101.220.0/24"
+    ],
     "ipv6": []
   }
 }

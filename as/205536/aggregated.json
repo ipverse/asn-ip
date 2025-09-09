@@ -1,9 +1,11 @@
 {
   "asn": 205536,
-  "handle": "DELTAZ1",
-  "description": "Maik Luft",
+  "handle": "TENP",
+  "description": "Tejarat Electronic Nojhan Pardazesh LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "217.60.240.0/24"
+    ],
     "ipv6": []
   }
 }

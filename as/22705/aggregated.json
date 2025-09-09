@@ -3,7 +3,9 @@
   "handle": "MBI",
   "description": "Placements Montrusco Bolton Investments",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "205.205.232.0/24"
+    ],
     "ipv6": []
   }
 }

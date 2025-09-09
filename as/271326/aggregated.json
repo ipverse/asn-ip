@@ -4,7 +4,8 @@
   "description": "P3 SERVIÇOS DE TELECOMUNICAÇÃO LTDA",
   "subnets": {
     "ipv4": [
-      "190.123.72.0/22"
+      "190.123.73.0/24",
+      "190.123.74.0/23"
     ],
     "ipv6": [
       "2804:79c4:8020::/44"

@@ -3,7 +3,9 @@
   "handle": "BOMA-RURAL-CONNECT",
   "description": "BOMA RURAL CONNECT LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "102.208.196.0/22"
+    ],
     "ipv6": []
   }
 }

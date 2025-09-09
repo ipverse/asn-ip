@@ -1,9 +1,11 @@
 {
   "asn": 211367,
-  "handle": "RESERVED",
-  "description": "RIPE NCC ASN block",
+  "handle": "ILP-ASN",
+  "description": "Israel Police",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "64.239.23.0/24"
+    ],
     "ipv6": []
   }
 }

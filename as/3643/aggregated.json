@@ -3,7 +3,9 @@
   "handle": "SL-AUSTRALIA",
   "description": "Sprint",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "208.32.128.0/17"
+    ],
     "ipv6": []
   }
 }

@@ -1,9 +1,11 @@
 {
   "asn": 215228,
-  "handle": "PROTEKTSERV-NET",
-  "description": "PROTEKTSERVICES LTD",
+  "handle": "NETPOOL",
+  "description": "NETPOOL TECHNOLOGIES PRIVATE LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "102.236.9.0/24"
+    ],
     "ipv6": []
   }
 }

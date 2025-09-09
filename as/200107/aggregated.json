@@ -4,6 +4,7 @@
   "description": "Kaspersky Lab Switzerland GmbH",
   "subnets": {
     "ipv4": [
+      "37.203.128.0/24",
       "46.8.206.0/24",
       "77.74.176.0/21",
       "79.133.168.0/22",

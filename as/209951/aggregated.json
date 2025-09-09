@@ -4,9 +4,6 @@
   "description": "ByteShield Hosting S.R.L",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2a13:9500:a7::/48",
-      "2a14:7583:2fc0::/42"
-    ]
+    "ipv6": []
   }
 }

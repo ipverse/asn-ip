@@ -1,9 +1,11 @@
 {
   "asn": 214549,
-  "handle": "ORG-DL586-RIPE",
-  "description": "DEEPWL LTD",
+  "handle": "CRSYSTEMS-CONNECTIVITY",
+  "description": "Christian Ruzza",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a0c:b641:750::/44"
+    ]
   }
 }

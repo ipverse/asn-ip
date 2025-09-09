@@ -3,7 +3,9 @@
   "handle": "REDES-NEWNET-COMUNICACAO",
   "description": "REDES NEWNET COMUNICAÇÃO LTDA - ME",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.182.84.0/22"
+    ],
     "ipv6": [
       "2804:62ec::/32"
     ]

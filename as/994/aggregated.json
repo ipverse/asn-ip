@@ -4,6 +4,7 @@
   "description": "Viirtue LLC",
   "subnets": {
     "ipv4": [
+      "8.12.10.0/24",
       "64.21.2.0/24"
     ],
     "ipv6": []

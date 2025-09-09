@@ -1,9 +1,11 @@
 {
   "asn": 215283,
-  "handle": "JASONRUH-NET",
-  "description": "Jason Ruhittel",
+  "handle": "MINA",
+  "description": "MINA COMMUNICATION LTD",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a07:5680:3::/48"
+    ]
   }
 }

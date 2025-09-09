@@ -3,7 +3,11 @@
   "handle": "CYBERFOREST-COMMUNICATION-AMERICAN",
   "description": "CyberForest",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "23.191.232.0/24"
+    ],
+    "ipv6": [
+      "2602:f7e2::/48"
+    ]
   }
 }

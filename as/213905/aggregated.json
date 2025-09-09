@@ -3,7 +3,9 @@
   "handle": "INYCHOLDINGLIMITED",
   "description": "INYC HOLDING LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.23.221.0/24"
+    ],
     "ipv6": []
   }
 }

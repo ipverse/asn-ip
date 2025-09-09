@@ -3,7 +3,9 @@
   "handle": "AKESA-TECHNOLOGIES",
   "description": "Akesa Technologies (Pty) Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "102.205.206.0/24"
+    ],
     "ipv6": []
   }
 }

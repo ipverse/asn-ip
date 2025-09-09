@@ -3,9 +3,7 @@
   "handle": "C-RETAIL-AS",
   "description": "C-RETAIL LLC",
   "subnets": {
-    "ipv4": [
-      "193.135.135.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }
