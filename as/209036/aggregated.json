@@ -1,0 +1,11 @@
+{
+  "asn": 209036,
+  "handle": "CBI-AS",
+  "description": "Central Bank of Iraq",
+  "subnets": {
+    "ipv4": [
+      "91.243.77.0/24"
+    ],
+    "ipv6": []
+  }
+}

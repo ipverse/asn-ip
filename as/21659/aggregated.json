@@ -3,7 +3,10 @@
   "handle": "ALT-TELECOM",
   "description": "Alt Telecom",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "96.126.70.0/24",
+      "142.202.128.0/24"
+    ],
     "ipv6": []
   }
 }

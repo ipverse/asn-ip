@@ -3,9 +3,7 @@
   "handle": "TELE-SERVICE",
   "description": "Limited Liability Company Tele-Service",
   "subnets": {
-    "ipv4": [
-      "194.226.248.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

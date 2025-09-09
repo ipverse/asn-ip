@@ -3,7 +3,10 @@
   "handle": "SKIWEBCENTER-AS",
   "description": "SKIWEBCENTER SARL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.25.195.0/24",
+      "193.200.116.0/23"
+    ],
     "ipv6": []
   }
 }

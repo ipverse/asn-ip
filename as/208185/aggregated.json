@@ -3,7 +3,13 @@
   "handle": "NETGATE-SOLUTION-AS",
   "description": "Net Gate Telecom S.R.L",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "102.135.0.0/24",
+      "102.135.10.0/24",
+      "102.135.101.0/24",
+      "102.135.103.0/24",
+      "102.135.104.0/24"
+    ],
     "ipv6": []
   }
 }

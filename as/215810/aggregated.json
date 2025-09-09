@@ -3,7 +3,9 @@
   "handle": "X5-CORPORATECENTER",
   "description": "PJSC X5 Corporate Center",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "46.173.21.0/24"
+    ],
     "ipv6": []
   }
 }

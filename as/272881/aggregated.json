@@ -4,6 +4,7 @@
   "description": "GLOBAL NET TV ZOMAC S.A.S",
   "subnets": {
     "ipv4": [
+      "38.9.212.0/24",
       "38.224.172.0/24"
     ],
     "ipv6": [

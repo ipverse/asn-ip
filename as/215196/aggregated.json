@@ -3,7 +3,9 @@
   "handle": "MEA",
   "description": "Middle East Advanced IT Systems Establishment",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.254.60.0/24"
+    ],
     "ipv6": []
   }
 }

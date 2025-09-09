@@ -3,7 +3,9 @@
   "handle": "MANUEL-ANTONIO-SEIJO-BUSTAMANTE",
   "description": "Manuel Antonio Seijo Bustamante",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "151.245.3.0/24"
+    ],
     "ipv6": [
       "2001:678:1098::/48"
     ]

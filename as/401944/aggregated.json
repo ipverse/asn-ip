@@ -1,0 +1,11 @@
+{
+  "asn": 401944,
+  "handle": "VORTEX-WIRELESS-INTERNET",
+  "description": "Vortex Wireless Internet",
+  "subnets": {
+    "ipv4": [
+      "38.45.216.0/23"
+    ],
+    "ipv6": []
+  }
+}

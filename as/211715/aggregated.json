@@ -1,9 +1,11 @@
 {
   "asn": 211715,
-  "handle": "PARTLIX",
-  "description": "Partlix, Ltd.",
+  "handle": "CHRISTIAN-VONDERSTEIN",
+  "description": "Christian Vonderstein",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2001:67c:1350::/48"
+    ]
   }
 }

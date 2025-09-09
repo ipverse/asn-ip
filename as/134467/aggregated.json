@@ -3,11 +3,7 @@
   "handle": "SMPL-AS-AP",
   "description": "Syangja Media",
   "subnets": {
-    "ipv4": [
-      "103.160.82.0/24"
-    ],
-    "ipv6": [
-      "2001:df4:b540::/48"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }
