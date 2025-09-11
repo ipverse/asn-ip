@@ -3,9 +3,7 @@
   "handle": "HYPFLX-AS01",
   "description": "Hyperflex Broadband LLC",
   "subnets": {
-    "ipv4": [
-      "23.143.28.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

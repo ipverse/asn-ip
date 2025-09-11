@@ -3,10 +3,7 @@
   "handle": "SEGN",
   "description": "FirstLight Fiber Inc",
   "subnets": {
-    "ipv4": [
-      "216.107.192.0/19",
-      "216.107.224.0/20"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

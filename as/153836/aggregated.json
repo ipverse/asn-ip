@@ -1,0 +1,11 @@
+{
+  "asn": 153836,
+  "handle": "SOLITARY-AS-AP",
+  "description": "Solitary Technology",
+  "subnets": {
+    "ipv4": [
+      "163.227.185.0/24"
+    ],
+    "ipv6": []
+  }
+}

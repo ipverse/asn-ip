@@ -3,9 +3,7 @@
   "handle": "SAITEIDCLIMITED-AS-AP",
   "description": "SAITEIDC Limited",
   "subnets": {
-    "ipv4": [
-      "115.42.60.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

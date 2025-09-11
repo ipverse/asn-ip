@@ -3,7 +3,9 @@
   "handle": "ACS-ASN-01",
   "description": "Alliance Cloud Services LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "50.171.209.0/24"
+    ],
     "ipv6": []
   }
 }

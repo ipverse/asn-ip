@@ -1,0 +1,11 @@
+{
+  "asn": 153131,
+  "handle": "IDNIC-MAJUIN-AS-ID",
+  "description": "PT Maintek Juara Intisolusi",
+  "subnets": {
+    "ipv4": [
+      "160.191.12.0/23"
+    ],
+    "ipv6": []
+  }
+}

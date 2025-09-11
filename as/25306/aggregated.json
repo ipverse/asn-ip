@@ -3,7 +3,9 @@
   "handle": "INSTITUTE-ISIRAN",
   "description": "IsIran",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "81.28.32.0/19"
+    ],
     "ipv6": []
   }
 }

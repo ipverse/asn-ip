@@ -3,7 +3,9 @@
   "handle": "LOGAN-ALUMINUM",
   "description": "Logan Aluminum Inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "209.178.203.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -4,6 +4,8 @@
   "description": "Edwards korea Limited",
   "subnets": {
     "ipv4": [
+      "124.21.32.0/19",
+      "124.21.64.0/18",
       "211.169.28.0/24"
     ],
     "ipv6": []

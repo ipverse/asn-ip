@@ -3,9 +3,7 @@
   "handle": "BROCK",
   "description": "BROCK VOJKOVIC",
   "subnets": {
-    "ipv4": [
-      "44.30.31.0/24"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2a14:7c0:4b00::/42",
       "2a14:7c0:4b40::/43"

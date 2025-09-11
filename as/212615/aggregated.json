@@ -3,11 +3,7 @@
   "handle": "ASRHOSTING",
   "description": "Reza Salehi",
   "subnets": {
-    "ipv4": [
-      "31.59.168.0/24"
-    ],
-    "ipv6": [
-      "2a14:6e40:1::/48"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "WANTECH-1",
   "description": "wantech gmbh",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "5.182.0.0/22"
+    ],
     "ipv6": []
   }
 }

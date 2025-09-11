@@ -3,7 +3,9 @@
   "handle": "MINA",
   "description": "MINA COMMUNICATION LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.126.148.0/24"
+    ],
     "ipv6": [
       "2a07:5680:3::/48"
     ]

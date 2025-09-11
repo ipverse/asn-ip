@@ -4,6 +4,7 @@
   "description": "CAPITEC BANK LIMITED",
   "subnets": {
     "ipv4": [
+      "196.6.246.0/23",
       "196.192.84.0/22"
     ],
     "ipv6": [

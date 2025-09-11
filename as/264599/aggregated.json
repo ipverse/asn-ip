@@ -4,10 +4,8 @@
   "description": "SYNCONTEL TELECOMUNICAÇÕES LTDA",
   "subnets": {
     "ipv4": [
-      "138.36.100.0/22"
+      "138.36.103.0/24"
     ],
-    "ipv6": [
-      "2804:223c::/32"
-    ]
+    "ipv6": []
   }
 }

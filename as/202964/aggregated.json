@@ -3,7 +3,9 @@
   "handle": "RADIANARCEUROPE",
   "description": "Cloudalize NV",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "37.208.94.0/23"
+    ],
     "ipv6": []
   }
 }

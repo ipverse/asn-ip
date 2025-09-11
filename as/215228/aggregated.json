@@ -3,7 +3,9 @@
   "handle": "NETPOOL",
   "description": "NETPOOL TECHNOLOGIES PRIVATE LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "102.236.0.0/18"
+    ],
     "ipv6": []
   }
 }

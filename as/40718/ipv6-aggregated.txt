@@ -1,4 +1,5 @@
 # AS40718 (BEELINE)
 # Bee Line Cable
 #
-2605:bcc0::/33
+2605:bcc0::/35
+2605:bcc0:4000::/34

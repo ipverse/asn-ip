@@ -3,9 +3,7 @@
   "handle": "MTDN-AS-AP",
   "description": "Madhabpur Titil Dot Net",
   "subnets": {
-    "ipv4": [
-      "103.177.48.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }
