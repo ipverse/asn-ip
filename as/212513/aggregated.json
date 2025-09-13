@@ -1,13 +1,11 @@
 {
   "asn": 212513,
-  "handle": "WORDPRESS-SQUARED-TR",
+  "handle": "OSNET-TELEKOMUNIKASYON",
   "description": "Osnet Telekomunikasyon Dis Ticaret Limited Sirketi",
   "subnets": {
     "ipv4": [
       "31.56.180.0/24"
     ],
-    "ipv6": [
-      "2a0f:85c1:bfa::/48"
-    ]
+    "ipv6": []
   }
 }

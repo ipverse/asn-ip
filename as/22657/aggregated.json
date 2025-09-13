@@ -1,9 +1,11 @@
 {
   "asn": 22657,
-  "handle": "PROXIOS",
-  "description": "Proxios",
+  "handle": "ASN30005",
+  "description": "Digital Ignition",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.110.4.0/24"
+    ],
     "ipv6": []
   }
 }

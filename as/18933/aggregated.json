@@ -1,9 +1,10 @@
 {
   "asn": 18933,
   "handle": "USCC-MPLS01",
-  "description": "UNITED STATES CELLULAR TELEPHONE COMPANY (GREATER KNOXVILLE) L.P",
+  "description": "T-Mobile USA Inc",
   "subnets": {
     "ipv4": [
+      "165.27.240.0/22",
       "165.27.248.0/24",
       "165.27.253.0/24",
       "166.181.160.0/20",

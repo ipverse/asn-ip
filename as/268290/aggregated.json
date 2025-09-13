@@ -3,10 +3,7 @@
   "handle": "UNIDAS-SERVICOS-DIGITAIS",
   "description": "UNIDAS SERVICOS DIGITAIS LTDA",
   "subnets": {
-    "ipv4": [
-      "45.237.204.0/24",
-      "45.237.207.0/24"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2804:4ee8:500::/40"
     ]

@@ -1,0 +1,13 @@
+{
+  "asn": 7441,
+  "handle": "OMEGADC",
+  "description": "Omega Datacenters LLC",
+  "subnets": {
+    "ipv4": [
+      "207.189.128.0/21",
+      "207.189.136.0/22",
+      "207.189.140.0/23"
+    ],
+    "ipv6": []
+  }
+}

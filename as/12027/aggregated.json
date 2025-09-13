@@ -3,7 +3,10 @@
   "handle": "HYTRON-CA",
   "description": "Hytron Network Services (US) LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "95.134.117.0/24",
+      "178.92.72.0/24"
+    ],
     "ipv6": []
   }
 }

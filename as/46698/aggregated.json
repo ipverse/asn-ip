@@ -1,9 +1,11 @@
 {
   "asn": 46698,
   "handle": "WHITESKY-COMMUNICATIONS-3",
-  "description": "WhiteSky Communications, LLC.",
+  "description": "WhiteSky Communications LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "104.167.128.0/18"
+    ],
     "ipv6": []
   }
 }

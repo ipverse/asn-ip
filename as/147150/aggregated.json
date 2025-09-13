@@ -4,7 +4,8 @@
   "description": "PT Hasya Mitra Komunika",
   "subnets": {
     "ipv4": [
-      "103.177.102.0/23"
+      "103.177.102.0/23",
+      "103.255.108.0/24"
     ],
     "ipv6": []
   }

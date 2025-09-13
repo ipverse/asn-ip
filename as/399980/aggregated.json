@@ -3,7 +3,9 @@
   "handle": "RFPT",
   "description": "RFPT COMPANY LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "23.164.145.0/24"
+    ],
     "ipv6": [
       "2602:fd10:e00::/40"
     ]

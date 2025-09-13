@@ -3,7 +3,9 @@
   "handle": "CONECTA-NET",
   "description": "CONECTA NET LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "177.71.110.0/23"
+    ],
     "ipv6": [
       "2804:9404::/32"
     ]

@@ -1,9 +1,11 @@
 {
   "asn": 397977,
   "handle": "ANA-218-LB",
-  "description": "American Nurses Association, Inc",
+  "description": "American Nurses Association Inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "12.221.150.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "TREE-AS401190",
   "description": "TREE TELECOM",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.26.3.0/24"
+    ],
     "ipv6": []
   }
 }

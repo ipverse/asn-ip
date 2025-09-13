@@ -1,0 +1,11 @@
+{
+  "asn": 329608,
+  "handle": "NETCLICK",
+  "description": "NetClick",
+  "subnets": {
+    "ipv4": [
+      "102.204.244.0/22"
+    ],
+    "ipv6": []
+  }
+}

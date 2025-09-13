@@ -1,0 +1,11 @@
+{
+  "asn": 273299,
+  "handle": "TELECOM-DISTRICT",
+  "description": "TELECOM DISTRICT",
+  "subnets": {
+    "ipv4": [
+      "156.252.5.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asn": 153601,
+  "handle": "IDNIC-OKBANK-ID",
+  "description": "PT Bank Oke Indonesia Tbk",
+  "subnets": {
+    "ipv4": [
+      "161.248.233.0/24"
+    ],
+    "ipv6": []
+  }
+}
