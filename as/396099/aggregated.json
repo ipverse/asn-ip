@@ -1,0 +1,11 @@
+{
+  "asn": 396099,
+  "handle": "SD-ASN-01",
+  "description": "Subnet Digital LLC",
+  "subnets": {
+    "ipv4": [
+      "209.73.129.0/24"
+    ],
+    "ipv6": []
+  }
+}

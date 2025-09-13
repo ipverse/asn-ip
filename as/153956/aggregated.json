@@ -3,11 +3,7 @@
   "handle": "IRINN-SPEROTEL-AS-IN",
   "description": "SPEROTEL TECHNOLOGIES LLP",
   "subnets": {
-    "ipv4": [
-      "165.99.228.0/23"
-    ],
-    "ipv6": [
-      "2001:df5:b140::/48"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

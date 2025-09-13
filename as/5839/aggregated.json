@@ -1,7 +1,7 @@
 {
   "asn": 5839,
   "handle": "DNIC-ASBLK-05800-06055",
-  "description": "DoD Network Information Center",
+  "description": "United States Department of Defense (DoD)",
   "subnets": {
     "ipv4": [
       "138.180.197.0/24",
@@ -25,6 +25,7 @@
       "205.89.160.0/21",
       "205.91.128.0/20",
       "205.92.64.0/20",
+      "205.103.4.0/24",
       "205.103.8.0/24",
       "205.107.160.0/24"
     ],

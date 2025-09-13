@@ -3,7 +3,9 @@
   "handle": "COZ-INTERNET-AS",
   "description": "COZ Internet Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "102.130.52.0/22"
+    ],
     "ipv6": []
   }
 }

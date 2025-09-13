@@ -1,9 +1,11 @@
 {
   "asn": 209274,
-  "handle": "ELEKTROSFERA",
-  "description": "Elektrosfera Ltd",
+  "handle": "KRAKEN-NETWORK-ISP",
+  "description": "Kraken Network ISP LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "151.243.109.0/24"
+    ],
     "ipv6": []
   }
 }

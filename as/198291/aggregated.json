@@ -4,6 +4,7 @@
   "description": "Next Data S.r.l",
   "subnets": {
     "ipv4": [
+      "46.232.136.0/21",
       "185.124.44.0/22"
     ],
     "ipv6": []

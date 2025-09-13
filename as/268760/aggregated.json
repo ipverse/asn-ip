@@ -4,7 +4,8 @@
   "description": "LIVENET SERVICOS DE COMUNICACAO MULTMIDIA LTDA ME",
   "subnets": {
     "ipv4": [
-      "45.172.72.0/22"
+      "45.172.72.0/24",
+      "45.172.74.0/23"
     ],
     "ipv6": [
       "2804:5a40:8000::/39",

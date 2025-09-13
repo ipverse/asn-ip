@@ -1,13 +1,11 @@
 {
   "asn": 334,
   "handle": "DNIC-ASBLK-00306-00371",
-  "description": "DoD Network Information Center",
+  "description": "United States Department of Defense (DoD)",
   "subnets": {
     "ipv4": [
       "55.72.0.0/16"
     ],
-    "ipv6": [
-      "2608:12b:2600::/40"
-    ]
+    "ipv6": []
   }
 }

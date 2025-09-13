@@ -4,10 +4,10 @@
   "description": "Enlace de Datos y Redes SA de CV",
   "subnets": {
     "ipv4": [
-      "45.174.92.0/22"
+      "45.174.93.0/24"
     ],
     "ipv6": [
-      "2806:329::/32"
+      "2806:329:4000::/34"
     ]
   }
 }

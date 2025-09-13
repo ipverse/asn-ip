@@ -3,7 +3,9 @@
   "handle": "SYNTHESIS-AS",
   "description": "LLC Synthesis",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.9.204.0/22"
+    ],
     "ipv6": []
   }
 }
