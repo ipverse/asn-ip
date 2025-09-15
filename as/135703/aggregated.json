@@ -1,9 +1,11 @@
 {
   "asn": 135703,
-  "handle": "ASPIRE",
-  "description": "Aspire Broadband Private Limited",
+  "handle": "SATYAJEET-AS-IN",
+  "description": "SATYAJEET COMMUNICATION PRIVATE LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "163.61.67.0/24"
+    ],
     "ipv6": []
   }
 }

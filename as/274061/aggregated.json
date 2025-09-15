@@ -3,7 +3,9 @@
   "handle": "PAREDES-YOEL-TOMAS",
   "description": "PAREDES YOEL TOMÁS (FIBERGO)",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "181.232.239.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -1,9 +1,11 @@
 {
   "asn": 215124,
-  "handle": "SDMGLOBAL",
-  "description": "SELCUK DEMIR trading as SDM GLOBAL AJANS",
+  "handle": "FLEXICORE-AS",
+  "description": "FLEXICORE SASU",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "95.170.30.0/24"
+    ],
     "ipv6": []
   }
 }

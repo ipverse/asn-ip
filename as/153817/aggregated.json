@@ -3,7 +3,9 @@
   "handle": "IDNIC-PINGTEL-AS-ID",
   "description": "PT Internet Lancar Untuk Negeri",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "163.61.218.0/23"
+    ],
     "ipv6": []
   }
 }

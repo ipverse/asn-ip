@@ -1,0 +1,11 @@
+{
+  "asn": 23044,
+  "handle": "VMOBILE-CORP",
+  "description": "T-Mobile USA Inc",
+  "subnets": {
+    "ipv4": [
+      "72.58.0.0/15"
+    ],
+    "ipv6": []
+  }
+}

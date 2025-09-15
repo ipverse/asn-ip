@@ -4,7 +4,6 @@
   "description": "Gotipath",
   "subnets": {
     "ipv4": [
-      "49.213.53.0/24",
       "103.163.72.0/23"
     ],
     "ipv6": []

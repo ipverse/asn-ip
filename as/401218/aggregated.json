@@ -3,7 +3,9 @@
   "handle": "ZENCORE",
   "description": "ZenCore Technologies LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "181.176.122.0/24"
+    ],
     "ipv6": []
   }
 }

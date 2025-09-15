@@ -4,9 +4,10 @@
   "description": "Albany County Pine Hills Land Authority",
   "subnets": {
     "ipv4": [
-      "23.141.44.0/24",
-      "66.195.8.0/21"
+      "23.141.44.0/24"
     ],
-    "ipv6": []
+    "ipv6": [
+      "2602:f5f6::/40"
+    ]
   }
 }

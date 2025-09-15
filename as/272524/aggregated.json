@@ -1,9 +1,11 @@
 {
   "asn": 272524,
-  "handle": "SB4HOST-DATACENTER",
-  "description": "SB4Host Datacenter",
+  "handle": "CONECT-HOST",
+  "description": "Conect Host LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "151.243.137.0/24"
+    ],
     "ipv6": [
       "2804:8284:1100::/47"
     ]

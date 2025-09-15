@@ -4,8 +4,6 @@
   "description": "Client Servicos e Telecomunicacoes Ltda",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2804:5110::/32"
-    ]
+    "ipv6": []
   }
 }

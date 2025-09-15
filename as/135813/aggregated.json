@@ -3,7 +3,9 @@
   "handle": "CSN-AS",
   "description": "Rush Me Broadband Private Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.77.196.0/23"
+    ],
     "ipv6": [
       "2001:df3:4840::/48"
     ]

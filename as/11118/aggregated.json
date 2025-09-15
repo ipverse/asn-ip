@@ -3,7 +3,9 @@
   "handle": "COMTECK",
   "description": "ComTeck",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "64.184.48.0/20"
+    ],
     "ipv6": []
   }
 }
