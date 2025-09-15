@@ -4,6 +4,7 @@
   "description": "Feo Prest SRL",
   "subnets": {
     "ipv4": [
+      "62.60.131.0/24",
       "195.211.188.0/24"
     ],
     "ipv6": []

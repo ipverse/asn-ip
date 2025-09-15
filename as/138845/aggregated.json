@@ -4,7 +4,8 @@
   "description": "PT Akses Prima Indonesia",
   "subnets": {
     "ipv4": [
-      "103.138.76.0/24"
+      "103.138.76.0/24",
+      "103.141.253.0/24"
     ],
     "ipv6": []
   }

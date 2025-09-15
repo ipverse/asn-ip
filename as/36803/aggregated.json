@@ -3,7 +3,9 @@
   "handle": "CONCUR-SEA",
   "description": "Concur Technologies Inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "82.27.3.0/24"
+    ],
     "ipv6": []
   }
 }

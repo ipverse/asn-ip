@@ -3,9 +3,7 @@
   "handle": "IDNIC-ZSN-AS-ID",
   "description": "PT Zona Sejahtera Mandiri",
   "subnets": {
-    "ipv4": [
-      "165.99.5.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }
