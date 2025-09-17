@@ -3,7 +3,11 @@
   "handle": "LIMOPS",
   "description": "LimOps SAS",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "185.176.64.0/23"
+    ],
+    "ipv6": [
+      "2a07:1bc0::/32"
+    ]
   }
 }

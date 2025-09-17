@@ -3,7 +3,9 @@
   "handle": "PPTECH",
   "description": "PPTECH co. ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "203.18.156.0/23"
+    ],
     "ipv6": []
   }
 }

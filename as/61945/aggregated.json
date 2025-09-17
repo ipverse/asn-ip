@@ -4,6 +4,7 @@
   "description": "PIX BRASIL NETWORKS LTDA",
   "subnets": {
     "ipv4": [
+      "179.189.192.0/20",
       "187.86.20.0/23",
       "201.159.88.0/23"
     ],

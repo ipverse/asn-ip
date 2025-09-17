@@ -3,9 +3,7 @@
   "handle": "IDNIC-BIGGEST-AS-ID",
   "description": "PT Central Karya Lintas Buana",
   "subnets": {
-    "ipv4": [
-      "160.22.9.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

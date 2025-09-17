@@ -3,9 +3,7 @@
   "handle": "NGN",
   "description": "Xyberdata",
   "subnets": {
-    "ipv4": [
-      "102.220.125.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

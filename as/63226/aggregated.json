@@ -3,7 +3,9 @@
   "handle": "LLL-137-63226",
   "description": "LMX Labs LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "208.52.130.0/24"
+    ],
     "ipv6": []
   }
 }

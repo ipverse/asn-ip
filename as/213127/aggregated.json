@@ -3,7 +3,9 @@
   "handle": "KZ-STATE-CREDIT-BUREAU",
   "description": "STATE CREDIT BUREAU JSC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "158.94.223.0/24"
+    ],
     "ipv6": []
   }
 }

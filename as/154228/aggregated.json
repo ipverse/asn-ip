@@ -1,0 +1,11 @@
+{
+  "asn": 154228,
+  "handle": "RM-AS-AP",
+  "description": "Rm Communication Ltd",
+  "subnets": {
+    "ipv4": [
+      "144.48.248.0/23"
+    ],
+    "ipv6": []
+  }
+}

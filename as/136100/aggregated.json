@@ -4,6 +4,7 @@
   "description": "PT. BKVNET TELEMEDIA",
   "subnets": {
     "ipv4": [
+      "103.89.161.0/24",
       "103.89.162.0/24"
     ],
     "ipv6": []

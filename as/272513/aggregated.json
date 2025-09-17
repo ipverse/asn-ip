@@ -3,7 +3,9 @@
   "handle": "MARCIO-NOVAIS-BARBOSA",
   "description": "MARCIO NOVAIS BARBOSA ME",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "131.108.115.0/24"
+    ],
     "ipv6": [
       "2804:8254::/32"
     ]

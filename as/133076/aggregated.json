@@ -4,7 +4,6 @@
   "description": "Unique Atlantic Telecommunication",
   "subnets": {
     "ipv4": [
-      "103.18.161.0/24",
       "103.18.162.0/23",
       "116.204.160.0/22"
     ],

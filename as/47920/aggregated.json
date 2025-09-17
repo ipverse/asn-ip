@@ -1,9 +1,12 @@
 {
   "asn": 47920,
-  "handle": "PRIVATE",
+  "handle": "PRIVATE-AS",
   "description": "Andrejs Guba",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "138.124.179.0/24",
+      "145.249.108.0/24"
+    ],
     "ipv6": []
   }
 }

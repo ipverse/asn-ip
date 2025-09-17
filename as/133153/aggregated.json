@@ -3,7 +3,9 @@
   "handle": "IPV4SUPERHUB",
   "description": "IPv4 Superhub Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "151.241.156.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -4,8 +4,6 @@
   "description": "Nossa Net",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2804:9558::/32"
-    ]
+    "ipv6": []
   }
 }

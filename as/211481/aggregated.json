@@ -1,9 +1,11 @@
 {
   "asn": 211481,
-  "handle": "TATERLI",
-  "description": "JINGQUAN LI",
+  "handle": "TELCOMLLC",
+  "description": "Telcom LLC",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a0f:85c1:d4c::/48"
+    ]
   }
 }

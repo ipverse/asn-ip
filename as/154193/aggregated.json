@@ -1,0 +1,12 @@
+{
+  "asn": 154193,
+  "handle": "LINKWAY1-IN",
+  "description": "LINKWAY BROADBAND",
+  "subnets": {
+    "ipv4": [
+      "103.165.69.0/24",
+      "202.133.78.0/23"
+    ],
+    "ipv6": []
+  }
+}

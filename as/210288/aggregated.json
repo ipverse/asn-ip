@@ -4,8 +4,6 @@
   "description": "Aranik Communications Technology PJSC",
   "subnets": {
     "ipv4": [
-      "185.137.24.0/22",
-      "185.171.53.0/24",
       "185.229.134.0/24"
     ],
     "ipv6": []

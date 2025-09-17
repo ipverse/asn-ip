@@ -1,0 +1,13 @@
+{
+  "asn": 274689,
+  "handle": "ISP-SERVICOS-INTERNET",
+  "description": "ISP SERVICOS DE INTERNET LTDA",
+  "subnets": {
+    "ipv4": [
+      "191.242.36.0/22"
+    ],
+    "ipv6": [
+      "2804:9218::/32"
+    ]
+  }
+}

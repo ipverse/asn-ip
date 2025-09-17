@@ -3,7 +3,9 @@
   "handle": "IPV4-NET",
   "description": "Sabire Irmak Mala",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "196.251.102.0/24"
+    ],
     "ipv6": []
   }
 }
