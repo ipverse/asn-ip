@@ -1,9 +1,11 @@
 {
   "asn": 207193,
-  "handle": "LONG-QIAN",
-  "description": "Long Qian",
+  "handle": "SGN-IN",
+  "description": "Saint Gobain Group Digital \u0026 IT International SAS",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a07:8145::/36"
+    ]
   }
 }

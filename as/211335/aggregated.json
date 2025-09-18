@@ -4,12 +4,8 @@
   "description": "BINBIR NET INTERNET BILISIM VE HABERLESME TEKNOLOJI SANAYI TICARET LIMITED SIRKETI",
   "subnets": {
     "ipv4": [
-      "45.11.41.0/24",
-      "79.110.233.0/24",
-      "194.15.45.0/24"
+      "79.110.233.0/24"
     ],
-    "ipv6": [
-      "2a13:e300::/31"
-    ]
+    "ipv6": []
   }
 }

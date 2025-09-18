@@ -1,9 +1,11 @@
 {
   "asn": 216039,
-  "handle": "CS",
-  "description": "Cloudster LLC",
+  "handle": "EDGESEC-AS",
+  "description": "EdgeSec Technologies Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.12.71.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "AFRENIT-AS-AP",
   "description": "AFREN IT",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.209.92.0/23"
+    ],
     "ipv6": []
   }
 }

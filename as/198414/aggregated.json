@@ -3,7 +3,9 @@
   "handle": "BIZNESHOST-AS",
   "description": "Cyber-Folks S.A",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.140.120.0/22"
+    ],
     "ipv6": []
   }
 }

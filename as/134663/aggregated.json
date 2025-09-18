@@ -3,7 +3,11 @@
   "handle": "IWEB-AS-AP",
   "description": "I-WEB",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "103.72.138.0/24"
+    ],
+    "ipv6": [
+      "2001:df2:4440::/48"
+    ]
   }
 }

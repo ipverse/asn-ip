@@ -4,7 +4,8 @@
   "description": "NETLIFE TECNOLOGIA EIRELI",
   "subnets": {
     "ipv4": [
-      "181.233.93.0/24"
+      "181.233.93.0/24",
+      "187.111.188.0/23"
     ],
     "ipv6": [
       "2804:9340::/32"

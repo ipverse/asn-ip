@@ -3,9 +3,7 @@
   "handle": "IDNIC-MADC-AS-ID",
   "description": "PT Mataram Data Center",
   "subnets": {
-    "ipv4": [
-      "157.66.39.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

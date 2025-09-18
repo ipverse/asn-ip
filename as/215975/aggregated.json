@@ -1,9 +1,11 @@
 {
   "asn": 215975,
-  "handle": "SIMUNSRO",
-  "description": "SIMUN s.r.o.",
+  "handle": "CALTRIPE",
+  "description": "Cloud Acropolis UAB",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a0c:d880::/32"
+    ]
   }
 }

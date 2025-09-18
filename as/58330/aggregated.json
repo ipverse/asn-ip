@@ -1,9 +1,11 @@
 {
   "asn": 58330,
-  "handle": "ALNET",
+  "handle": "ALNET-AS",
   "description": "DP AlNet",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "95.46.160.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -4,6 +4,8 @@
   "description": "Rightangle Media",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2001:df3:8ac0::/48"
+    ]
   }
 }
