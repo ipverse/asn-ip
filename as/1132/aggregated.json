@@ -1,0 +1,11 @@
+{
+  "asn": 1132,
+  "handle": "METEOGROUP-AS",
+  "description": "SURF B.V",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2806:43d::/32"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "asn": 53350,
+  "handle": "EMBHUN-WAS-01",
+  "description": "Embassy of Hungary",
+  "subnets": {
+    "ipv4": [
+      "50.169.111.0/24",
+      "50.169.112.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -3,7 +3,9 @@
   "handle": "ZITEL-ASN-BLOCK01",
   "description": "Zitel",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "206.168.2.0/23"
+    ],
     "ipv6": []
   }
 }

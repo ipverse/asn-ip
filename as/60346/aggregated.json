@@ -3,7 +3,9 @@
   "handle": "V-F-TANKER-AS",
   "description": "AO Sudokhodnaya kompaniya Volzhskoye parokhodstvo",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "141.101.187.0/24"
+    ],
     "ipv6": []
   }
 }

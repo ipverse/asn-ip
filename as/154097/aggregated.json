@@ -3,9 +3,7 @@
   "handle": "IDNIC-IBSNET-AS-ID",
   "description": "PT INTERNET BERKAH SULAWESI",
   "subnets": {
-    "ipv4": [
-      "165.99.98.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

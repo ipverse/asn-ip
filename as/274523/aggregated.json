@@ -1,0 +1,11 @@
+{
+  "asn": 274523,
+  "handle": "GIN-FIBRA-INTERNET",
+  "description": "GIN FIBRA INTERNET LTDA",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2804:9570::/32"
+    ]
+  }
+}

@@ -1,9 +1,11 @@
 {
   "asn": 205942,
-  "handle": "DEFIANT-01",
-  "description": "Defiant, Inc",
+  "handle": "STOLITOMSON-ME-AS",
+  "description": "Stolitomson Company DOO",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "151.244.93.0/24"
+    ],
     "ipv6": []
   }
 }

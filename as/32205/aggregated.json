@@ -1,9 +1,11 @@
 {
   "asn": 32205,
-  "handle": "RESISOFT",
-  "description": "Resisoft, Inc.",
+  "handle": "45SHOP",
+  "description": "ECHO45 ADVISORS LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "23.145.4.0/24"
+    ],
     "ipv6": []
   }
 }

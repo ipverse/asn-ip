@@ -4,7 +4,7 @@
   "description": "FHLBanks - Office of Finance",
   "subnets": {
     "ipv4": [
-      "38.103.0.0/23",
+      "38.103.1.0/24",
       "74.201.8.0/24",
       "165.193.75.0/24"
     ],

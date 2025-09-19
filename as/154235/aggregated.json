@@ -1,0 +1,11 @@
+{
+  "asn": 154235,
+  "handle": "ITEL-AS-AP",
+  "description": "Itel network pvt.ltd",
+  "subnets": {
+    "ipv4": [
+      "43.225.130.0/23"
+    ],
+    "ipv6": []
+  }
+}

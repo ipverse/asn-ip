@@ -3,7 +3,9 @@
   "handle": "GZ-REMITTANCE",
   "description": "GZ REMITTANCE (CHINA) INDUSTRY LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "43.231.187.0/24"
+    ],
     "ipv6": []
   }
 }

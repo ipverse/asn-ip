@@ -4,6 +4,7 @@
   "description": "SYNCHRONOSS SOFTWARE IRELAND LTD",
   "subnets": {
     "ipv4": [
+      "68.170.20.0/23",
       "68.170.22.0/24",
       "68.170.25.0/24",
       "68.170.28.0/23",

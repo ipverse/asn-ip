@@ -1,0 +1,11 @@
+{
+  "asn": 214200,
+  "handle": "FASTLINE-AS",
+  "description": "FastLine LLP",
+  "subnets": {
+    "ipv4": [
+      "45.130.149.0/24"
+    ],
+    "ipv6": []
+  }
+}

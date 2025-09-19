@@ -4,6 +4,7 @@
   "description": "Nufibre Ltd",
   "subnets": {
     "ipv4": [
+      "149.18.86.0/23",
       "213.18.240.0/23"
     ],
     "ipv6": [

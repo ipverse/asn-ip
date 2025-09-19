@@ -3,7 +3,9 @@
   "handle": "DF-TRANSIT",
   "description": "dataforest GmbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "31.58.144.0/24"
+    ],
     "ipv6": []
   }
 }

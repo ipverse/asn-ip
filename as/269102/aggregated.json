@@ -3,7 +3,9 @@
   "handle": "BALBINO-SERVICO-COMUNICACAO",
   "description": "BALBINO SERVICO DE COMUNICACAO MULTIMIDIA LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.178.239.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -1,0 +1,13 @@
+{
+  "asn": 393656,
+  "handle": "AS393656",
+  "description": "WIT.COM Inc",
+  "subnets": {
+    "ipv4": [
+      "168.245.146.0/24"
+    ],
+    "ipv6": [
+      "2604:bbc0::/32"
+    ]
+  }
+}
