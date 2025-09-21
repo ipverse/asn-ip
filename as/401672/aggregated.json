@@ -1,0 +1,11 @@
+{
+  "asn": 401672,
+  "handle": "MRI-SOFTWARE-01",
+  "description": "MRI Software",
+  "subnets": {
+    "ipv4": [
+      "37.244.88.0/24"
+    ],
+    "ipv6": []
+  }
+}

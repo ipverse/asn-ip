@@ -1,9 +1,11 @@
 {
   "asn": 212194,
-  "handle": "PRABU-NET",
-  "description": "Praburaajan Selvarajan",
+  "handle": "YUUSEI",
+  "description": "YUUSEI LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "151.242.65.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,9 +3,7 @@
   "handle": "SUENCO",
   "description": "SUENCO JSC",
   "subnets": {
-    "ipv4": [
-      "195.191.193.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

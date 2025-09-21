@@ -3,7 +3,9 @@
   "handle": "CLOUDNORD-UKNODE-AS",
   "description": "Cloud Nord Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "212.100.172.0/23"
+    ],
     "ipv6": []
   }
 }

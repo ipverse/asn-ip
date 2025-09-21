@@ -3,9 +3,7 @@
   "handle": "ACCESS-NET-EIRELI",
   "description": "ACCESS NET EIRELI- ME",
   "subnets": {
-    "ipv4": [
-      "170.82.20.0/22"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2804:37dc::/32"
     ]
