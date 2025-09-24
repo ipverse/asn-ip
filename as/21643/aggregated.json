@@ -3,7 +3,9 @@
   "handle": "MWU-ASN",
   "description": "Midwestern University",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "204.152.157.0/24"
+    ],
     "ipv6": []
   }
 }

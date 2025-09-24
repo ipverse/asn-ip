@@ -1,9 +1,11 @@
 {
   "asn": 215862,
-  "handle": "SOUZA",
-  "description": "Taliene De Araujo Souza",
+  "handle": "PEJ-AS",
+  "description": "Polskie Elektrownie Jadrowe sp. z o.o",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "178.212.55.0/24"
+    ],
     "ipv6": []
   }
 }

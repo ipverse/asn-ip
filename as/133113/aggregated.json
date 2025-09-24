@@ -1,9 +1,13 @@
 {
   "asn": 133113,
-  "handle": "ASIAWEALTH-AP",
-  "description": "Asia Wealth Securities Company Limited",
+  "handle": "SWS-AS-AP",
+  "description": "SH WEBSERVER SOLUTIONS",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "165.99.198.0/24"
+    ],
+    "ipv6": [
+      "2001:df5:aa40::/48"
+    ]
   }
 }

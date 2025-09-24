@@ -1,9 +1,11 @@
 {
   "asn": 205457,
-  "handle": "NETSERVICE",
+  "handle": "WISP-TACHIRA",
   "description": "Valor Information Technologies S.L",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a0a:e9c6::/32"
+    ]
   }
 }

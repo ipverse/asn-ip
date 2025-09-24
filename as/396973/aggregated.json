@@ -4,6 +4,8 @@
   "description": "Department of Homeland Security",
   "subnets": {
     "ipv4": [
+      "63.64.152.0/22",
+      "64.69.57.0/24",
       "208.73.184.0/21"
     ],
     "ipv6": []

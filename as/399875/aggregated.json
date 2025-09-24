@@ -1,5 +1,7 @@
 {
   "asn": 399875,
+  "handle": "SIMONMED-PUBLIC",
+  "description": "SimonMed Imaging",
   "subnets": {
     "ipv4": [
       "98.185.113.0/24"

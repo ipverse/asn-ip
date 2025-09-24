@@ -3,7 +3,9 @@
   "handle": "DICS-AS",
   "description": "DonbassInformCommunicationService Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.193.76.0/22"
+    ],
     "ipv6": []
   }
 }

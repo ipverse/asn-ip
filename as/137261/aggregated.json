@@ -1,9 +1,14 @@
 {
   "asn": 137261,
-  "handle": "RESERVED",
-  "description": "APNIC ASN block",
+  "handle": "SWU-AS-UNINET",
+  "description": "Education Network",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "202.28.60.0/24",
+      "202.28.62.0/24"
+    ],
+    "ipv6": [
+      "2001:3c8:1408::/48"
+    ]
   }
 }

@@ -1,9 +1,11 @@
 {
   "asn": 209188,
-  "handle": "NICKS-V6",
-  "description": "Nicholas Gregory",
+  "handle": "TMHOLDING-AS",
+  "description": "Joint Stock Company Transmashholding",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "89.107.205.0/24"
+    ],
     "ipv6": []
   }
 }

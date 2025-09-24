@@ -1,0 +1,11 @@
+{
+  "asn": 55573,
+  "handle": "XYZTELECOM-AS-AP",
+  "description": "XYZ Telecom Pty Ltd",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2405:7d80::/48"
+    ]
+  }
+}

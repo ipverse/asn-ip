@@ -3,9 +3,7 @@
   "handle": "DELSKA-C4",
   "description": "Sabiedriba ar ierobezotu atbildibu DELSKA Latvia",
   "subnets": {
-    "ipv4": [
-      "89.111.27.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }
