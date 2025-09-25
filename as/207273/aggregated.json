@@ -3,7 +3,9 @@
   "handle": "PHAROAH-AS",
   "description": "Pharoah Tools Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.148.50.0/24"
+    ],
     "ipv6": []
   }
 }

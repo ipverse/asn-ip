@@ -3,9 +3,7 @@
   "handle": "MEDLAB-AS-AP",
   "description": "MEDLAB PATHOLOGY PTY LTD",
   "subnets": {
-    "ipv4": [
-      "103.150.59.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

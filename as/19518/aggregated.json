@@ -4,6 +4,7 @@
   "description": "Rock Island Communications",
   "subnets": {
     "ipv4": [
+      "63.249.0.0/19",
       "64.119.0.0/20",
       "198.163.74.0/24",
       "207.32.160.0/20"

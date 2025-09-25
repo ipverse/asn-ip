@@ -3,9 +3,7 @@
   "handle": "IDNIC-M3NET-AS-ID",
   "description": "PT Mitratama Mahadirga Makmur",
   "subnets": {
-    "ipv4": [
-      "210.87.123.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

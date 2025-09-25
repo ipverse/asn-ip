@@ -3,7 +3,9 @@
   "handle": "LIBERTYDENTALPLAN",
   "description": "Liberty Dental Plan",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "74.80.218.0/24"
+    ],
     "ipv6": []
   }
 }

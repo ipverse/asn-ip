@@ -3,12 +3,7 @@
   "handle": "AS-XERVERS",
   "description": "Xervers Unipessoal Lda",
   "subnets": {
-    "ipv4": [
-      "185.219.128.0/22"
-    ],
-    "ipv6": [
-      "2a0b:e640::/29",
-      "2a0e:bc00::/29"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

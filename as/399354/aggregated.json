@@ -3,7 +3,9 @@
   "handle": "ITSC-ARIN",
   "description": "9396-3015 Quebec Inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "104.219.59.0/24"
+    ],
     "ipv6": []
   }
 }

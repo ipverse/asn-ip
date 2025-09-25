@@ -1,9 +1,11 @@
 {
   "asn": 205431,
-  "handle": "RESERVED",
-  "description": "RIPE NCC ASN block",
+  "handle": "HOSTLAB",
+  "description": "HostLab LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.207.74.0/23"
+    ],
     "ipv6": []
   }
 }

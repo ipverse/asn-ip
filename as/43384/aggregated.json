@@ -3,7 +3,12 @@
   "handle": "ONAT-AS",
   "description": "State University of Intelligent Technologies and Telecommunications",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "193.105.164.0/24",
+      "193.186.15.0/24"
+    ],
+    "ipv6": [
+      "2001:67c:1324::/48"
+    ]
   }
 }

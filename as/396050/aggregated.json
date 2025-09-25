@@ -1,0 +1,11 @@
+{
+  "asn": 396050,
+  "handle": "DATASPHERE-AS",
+  "description": "Hyper Group Network LLC",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2602:f7dc:6::/48"
+    ]
+  }
+}

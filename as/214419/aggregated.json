@@ -3,7 +3,11 @@
   "handle": "DAMASH-AS",
   "description": "Damash Software Computer Services LTD",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "212.80.11.0/24"
+    ],
+    "ipv6": [
+      "2a00:7d80:11::/48"
+    ]
   }
 }

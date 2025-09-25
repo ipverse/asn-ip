@@ -3,7 +3,9 @@
   "handle": "AS-INTRONEX",
   "description": "Intronex Setevye Resheniya Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "89.22.52.0/22"
+    ],
     "ipv6": []
   }
 }

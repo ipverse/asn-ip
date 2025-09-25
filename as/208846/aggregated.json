@@ -3,7 +3,9 @@
   "handle": "ATOM3-AS",
   "description": "LLC ATOM3",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "146.19.5.0/24"
+    ],
     "ipv6": []
   }
 }

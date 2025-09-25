@@ -1,9 +1,11 @@
 {
   "asn": 211474,
-  "handle": "CMG",
-  "description": "CMG Studios Limited",
+  "handle": "SAFEY",
+  "description": "Safey AS",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a05:a840::/29"
+    ]
   }
 }

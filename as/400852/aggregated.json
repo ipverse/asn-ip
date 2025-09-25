@@ -3,7 +3,9 @@
   "handle": "VECTORVMS",
   "description": "VectorVMS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "198.186.172.0/24"
+    ],
     "ipv6": []
   }
 }

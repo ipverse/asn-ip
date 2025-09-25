@@ -3,7 +3,9 @@
   "handle": "VANTAGE-POINT-SOLUTIONS",
   "description": "VPS Solutions LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "169.197.129.0/24"
+    ],
     "ipv6": []
   }
 }

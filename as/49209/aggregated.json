@@ -3,9 +3,7 @@
   "handle": "CTE-ASN",
   "description": "China Telecom Europe Ltd",
   "subnets": {
-    "ipv4": [
-      "95.130.195.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

@@ -4,10 +4,10 @@
   "description": "SPARKS COMMUNICATIONS LTD",
   "subnets": {
     "ipv4": [
-      "94.156.64.0/23"
+      "94.156.64.0/24"
     ],
     "ipv6": [
-      "2a14:e200::/43"
+      "2a14:e200::/44"
     ]
   }
 }

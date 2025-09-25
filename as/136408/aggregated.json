@@ -1,9 +1,11 @@
 {
   "asn": 136408,
-  "handle": "HTNETWORKS-AP",
-  "description": "HT Networks Co Ltd",
+  "handle": "LMHTL-AS-AP",
+  "description": "LORETO MANDEVILLE HALL TOORAK LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "203.12.86.0/24"
+    ],
     "ipv6": []
   }
 }

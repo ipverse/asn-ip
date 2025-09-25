@@ -4,6 +4,7 @@
   "description": "Damovo Deutschland GmbH \u0026 Co. KG",
   "subnets": {
     "ipv4": [
+      "185.77.213.0/24",
       "185.77.215.0/24",
       "185.215.56.0/22"
     ],

@@ -1,9 +1,11 @@
 {
   "asn": 211772,
-  "handle": "JOAO",
-  "description": "Joao Goncalves de Oliveira",
+  "handle": "ITRB",
+  "description": "ITRB Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "217.174.145.0/24"
+    ],
     "ipv6": []
   }
 }

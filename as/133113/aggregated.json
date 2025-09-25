@@ -3,11 +3,7 @@
   "handle": "SWS-AS-AP",
   "description": "SH WEBSERVER SOLUTIONS",
   "subnets": {
-    "ipv4": [
-      "165.99.198.0/24"
-    ],
-    "ipv6": [
-      "2001:df5:aa40::/48"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }
