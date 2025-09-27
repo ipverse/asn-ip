@@ -1,0 +1,13 @@
+{
+  "asn": 401927,
+  "handle": "NANA-NET-01",
+  "description": "NANA NET LLC",
+  "subnets": {
+    "ipv4": [
+      "104.204.192.0/21"
+    ],
+    "ipv6": [
+      "2604:1d20::/32"
+    ]
+  }
+}

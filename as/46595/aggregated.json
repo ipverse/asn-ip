@@ -4,6 +4,7 @@
   "description": "Penasco Valley Telecommunications",
   "subnets": {
     "ipv4": [
+      "44.32.162.0/24",
       "64.35.144.0/20",
       "66.132.145.0/24",
       "104.37.76.0/23",

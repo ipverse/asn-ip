@@ -4,6 +4,7 @@
   "description": "Informatics and Telecommunications Public Company (ITPC)",
   "subnets": {
     "ipv4": [
+      "185.52.101.0/24",
       "185.52.102.0/24"
     ],
     "ipv6": []

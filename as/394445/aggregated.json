@@ -4,8 +4,6 @@
   "description": "Sucura Networks Inc",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2604:d0:c000::/34"
-    ]
+    "ipv6": []
   }
 }

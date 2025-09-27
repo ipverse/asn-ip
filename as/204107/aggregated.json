@@ -3,7 +3,9 @@
   "handle": "SPEEDTEL",
   "description": "Norma s.r.l",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.254.228.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,9 +3,7 @@
   "handle": "BRTERMINAL",
   "description": "TLC Belyi Rast LLC",
   "subnets": {
-    "ipv4": [
-      "194.88.198.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

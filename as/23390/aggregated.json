@@ -3,9 +3,7 @@
   "handle": "BROADPATH-DC-TWO",
   "description": "BROADPATH LLC",
   "subnets": {
-    "ipv4": [
-      "38.92.211.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

@@ -4,6 +4,7 @@
   "description": "Singapore Data Cloud PTE. LTD",
   "subnets": {
     "ipv4": [
+      "89.40.83.0/24",
       "103.24.218.0/24",
       "103.54.152.0/24"
     ],

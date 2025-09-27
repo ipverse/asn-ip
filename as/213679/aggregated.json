@@ -1,0 +1,11 @@
+{
+  "asn": 213679,
+  "handle": "ONE-CORE-SPARK",
+  "description": "One Core Spark SRL",
+  "subnets": {
+    "ipv4": [
+      "217.156.125.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asn": 37095,
+  "handle": "AIS-25",
+  "description": "African Network Operators\u0027 Group (AFNOG)",
+  "subnets": {
+    "ipv4": [
+      "102.204.128.0/22"
+    ],
+    "ipv6": [
+      "2001:43f8:d0::/48"
+    ]
+  }
+}

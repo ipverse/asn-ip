@@ -3,7 +3,9 @@
   "handle": "CGGV-HOU",
   "description": "CGGVeritas Services (US) Inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.159.106.0/24"
+    ],
     "ipv6": []
   }
 }

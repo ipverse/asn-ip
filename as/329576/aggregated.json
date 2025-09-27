@@ -1,0 +1,13 @@
+{
+  "asn": 329576,
+  "handle": "INTERSTELLIO",
+  "description": "Interstellio IO (PTY) LTD",
+  "subnets": {
+    "ipv4": [
+      "102.205.120.0/23"
+    ],
+    "ipv6": [
+      "2c0f:28c0::/32"
+    ]
+  }
+}
