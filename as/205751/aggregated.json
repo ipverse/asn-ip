@@ -1,9 +1,11 @@
 {
   "asn": 205751,
-  "handle": "POBAIL",
-  "description": "Telecom Pobail Teoranta LTD",
+  "handle": "PMO-ZAPI",
+  "description": "Plataforma Multimedia de Operadores SL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.105.9.0/24"
+    ],
     "ipv6": []
   }
 }

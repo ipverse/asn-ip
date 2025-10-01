@@ -1,0 +1,11 @@
+{
+  "asn": 216153,
+  "handle": "AS-NBI-IRE",
+  "description": "NBI INFRASTRUCTURE DESIGNATED ACTIVITY COMPANY",
+  "subnets": {
+    "ipv4": [
+      "204.235.104.0/24"
+    ],
+    "ipv6": []
+  }
+}

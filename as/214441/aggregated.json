@@ -4,10 +4,8 @@
   "description": "LHY TECHNOLOGIES PRIVATE LIMITED",
   "subnets": {
     "ipv4": [
-      "160.187.22.0/23"
+      "160.187.23.0/24"
     ],
-    "ipv6": [
-      "2001:df4:40c0::/48"
-    ]
+    "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "FIBERSAT-AS-AP",
   "description": "Fiber Sat Networking Services",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "116.204.241.0/24"
+    ],
     "ipv6": []
   }
 }

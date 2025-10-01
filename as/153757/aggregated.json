@@ -1,0 +1,13 @@
+{
+  "asn": 153757,
+  "handle": "IMC-AS-AP",
+  "description": "IMC NETWORKS LIMITED",
+  "subnets": {
+    "ipv4": [
+      "163.227.215.0/24"
+    ],
+    "ipv6": [
+      "2402:720::/32"
+    ]
+  }
+}

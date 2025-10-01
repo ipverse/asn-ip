@@ -3,7 +3,9 @@
   "handle": "PYSIO-NETWORK",
   "description": "Liu HaoRan",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "49.213.62.0/24"
+    ],
     "ipv6": [
       "2001:678:120::/48",
       "2001:678:10d0::/48",

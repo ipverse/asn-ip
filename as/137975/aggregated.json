@@ -3,7 +3,9 @@
   "handle": "STARKTELECOM-AS-AP",
   "description": "Stark Telecom",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.119.24.0/22"
+    ],
     "ipv6": []
   }
 }

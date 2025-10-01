@@ -3,7 +3,11 @@
   "handle": "CAPACITIES-LTD",
   "description": "Net Tech Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.192.5.0/24",
+      "91.192.7.0/24",
+      "92.119.62.0/24"
+    ],
     "ipv6": []
   }
 }

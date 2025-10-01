@@ -3,10 +3,7 @@
   "handle": "DEADLINE",
   "description": "DEADLINE MASTER LTD",
   "subnets": {
-    "ipv4": [
-      "82.26.91.0/24",
-      "82.26.93.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

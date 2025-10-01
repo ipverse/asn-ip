@@ -3,7 +3,9 @@
   "handle": "AS-WF-01",
   "description": "Wichita Falls ISD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "137.83.19.0/24"
+    ],
     "ipv6": []
   }
 }

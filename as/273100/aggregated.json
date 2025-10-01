@@ -3,9 +3,7 @@
   "handle": "QXN-CUSTOMERS-SOCIETY",
   "description": "QXN CUSTOMERS SOCIETY",
   "subnets": {
-    "ipv4": [
-      "154.6.16.0/24"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2606:f18e::/48",
       "2803:d050::/32"

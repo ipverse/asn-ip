@@ -4,9 +4,6 @@
   "description": "Bjoern Schleyer",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2a06:1283:bd40::/42",
-      "2a09:54c3:a1f0::/44"
-    ]
+    "ipv6": []
   }
 }

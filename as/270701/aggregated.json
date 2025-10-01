@@ -3,9 +3,7 @@
   "handle": "JSV-TELECOM-COMUNICACAO",
   "description": "JSV TELECOM COMUNICAÇÃO EIRELI",
   "subnets": {
-    "ipv4": [
-      "189.127.135.0/24"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2804:7010::/32"
     ]

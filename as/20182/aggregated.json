@@ -4,6 +4,7 @@
   "description": "ESSENT GUARANTY INC",
   "subnets": {
     "ipv4": [
+      "72.236.26.0/24",
       "204.27.210.0/24"
     ],
     "ipv6": [

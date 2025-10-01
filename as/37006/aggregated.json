@@ -4,6 +4,7 @@
   "description": "Liquid Telecommunication Rwanda Limited",
   "subnets": {
     "ipv4": [
+      "41.60.150.0/23",
       "41.173.28.0/22",
       "41.173.32.0/22",
       "41.173.248.0/21",

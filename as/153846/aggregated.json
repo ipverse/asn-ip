@@ -3,9 +3,7 @@
   "handle": "IRINN-CABLE-AS-IN",
   "description": "Cablenet Communications (OPC) Private Limited",
   "subnets": {
-    "ipv4": [
-      "163.227.210.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

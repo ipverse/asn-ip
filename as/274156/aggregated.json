@@ -4,6 +4,7 @@
   "description": "TELDRA S.A.C",
   "subnets": {
     "ipv4": [
+      "38.252.212.0/24",
       "38.252.215.0/24"
     ],
     "ipv6": [

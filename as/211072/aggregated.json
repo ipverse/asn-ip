@@ -1,9 +1,11 @@
 {
   "asn": 211072,
-  "handle": "NEKOIT",
-  "description": "Marcel Haazen",
+  "handle": "MFI-AS",
+  "description": "MFI INVESTMENTS LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.67.193.0/24"
+    ],
     "ipv6": []
   }
 }

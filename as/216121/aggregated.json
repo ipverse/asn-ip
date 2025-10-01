@@ -3,9 +3,7 @@
   "handle": "VALKYRIEHOSTING-AS",
   "description": "Valkyrie Hosting LTD",
   "subnets": {
-    "ipv4": [
-      "143.14.89.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

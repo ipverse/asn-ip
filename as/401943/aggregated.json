@@ -1,0 +1,12 @@
+{
+  "asn": 401943,
+  "handle": "HSE-ARIN-01",
+  "description": "Hornetsecurity",
+  "subnets": {
+    "ipv4": [
+      "185.140.204.0/23",
+      "185.140.206.0/24"
+    ],
+    "ipv6": []
+  }
+}

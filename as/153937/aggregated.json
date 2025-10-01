@@ -3,7 +3,9 @@
   "handle": "IDNIC-RDP-AS-ID",
   "description": "PT Ring Data Prima",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "165.99.71.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "MAHDIINTERNET-AS-AP",
   "description": "Mahdi Internet",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.20.110.0/24"
+    ],
     "ipv6": []
   }
 }

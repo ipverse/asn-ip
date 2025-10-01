@@ -4,7 +4,6 @@
   "description": "RingSquared CC",
   "subnets": {
     "ipv4": [
-      "38.125.240.0/21",
       "66.59.48.0/20"
     ],
     "ipv6": []
