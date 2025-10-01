@@ -4,11 +4,10 @@
   "description": "Uber India Systems Private Limited",
   "subnets": {
     "ipv4": [
-      "103.208.148.0/23"
+      "103.208.149.0/24"
     ],
     "ipv6": [
-      "2a0c:4a01:c30::/44",
-      "2a0c:4a01:c40::/44"
+      "2a0c:4a01:c30::/44"
     ]
   }
 }

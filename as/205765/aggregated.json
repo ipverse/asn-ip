@@ -1,9 +1,11 @@
 {
   "asn": 205765,
-  "handle": "RESERVED",
-  "description": "RIPE NCC ASN block",
+  "handle": "NTV-PLUS",
+  "description": "NTV-PLUS Limited Liability Company",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.232.183.0/24"
+    ],
     "ipv6": []
   }
 }

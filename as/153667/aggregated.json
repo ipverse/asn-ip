@@ -3,9 +3,7 @@
   "handle": "SADATINTERNET-AS-AP",
   "description": "SADAT INTERNET",
   "subnets": {
-    "ipv4": [
-      "163.223.34.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

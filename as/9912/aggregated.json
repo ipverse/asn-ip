@@ -1,0 +1,13 @@
+{
+  "asn": 9912,
+  "handle": "VOCUS-AU",
+  "description": "VOCUS PTY LTD",
+  "subnets": {
+    "ipv4": [
+      "203.55.11.0/24"
+    ],
+    "ipv6": [
+      "2001:de8:17::/48"
+    ]
+  }
+}

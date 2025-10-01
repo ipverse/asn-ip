@@ -4,7 +4,8 @@
   "description": "Petersburg Internet Network ltd",
   "subnets": {
     "ipv4": [
-      "5.188.69.0/24"
+      "5.188.68.0/23",
+      "5.188.88.0/22"
     ],
     "ipv6": [
       "2001:67c:a40::/48",

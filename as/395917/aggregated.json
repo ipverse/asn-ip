@@ -3,7 +3,11 @@
   "handle": "PULSAR67",
   "description": "Pulsar67 LLC",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "207.174.22.0/24"
+    ],
+    "ipv6": [
+      "2602:fa81::/40"
+    ]
   }
 }

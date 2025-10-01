@@ -1,9 +1,11 @@
 {
   "asn": 212227,
-  "handle": "MIZORE",
-  "description": "Mizore Ltd",
+  "handle": "JUNDISHAPUR",
+  "description": "Ahvaz Jundishapur University of Medical Sciences",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "5.56.128.0/23"
+    ],
     "ipv6": []
   }
 }

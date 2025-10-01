@@ -3,9 +3,7 @@
   "handle": "SKH-AS-AP",
   "description": "SKH Systems",
   "subnets": {
-    "ipv4": [
-      "37.1.225.0/24"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2001:df5:c7c0::/48"
     ]

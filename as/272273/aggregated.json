@@ -3,7 +3,10 @@
   "handle": "SFR-SOLUCOES-EM",
   "description": "SFR Solucoes em Tecnologia da Informacao Ltda",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.19.52.0/24",
+      "187.108.13.0/24"
+    ],
     "ipv6": []
   }
 }

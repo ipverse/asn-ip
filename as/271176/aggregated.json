@@ -4,7 +4,8 @@
   "description": "BLUVELLOX TELECOMUNICACOES LTDA",
   "subnets": {
     "ipv4": [
-      "179.51.180.0/22"
+      "179.51.180.0/23",
+      "179.51.182.0/24"
     ],
     "ipv6": [
       "2804:7768::/33",

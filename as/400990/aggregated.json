@@ -4,6 +4,7 @@
   "description": "Shepherd University",
   "subnets": {
     "ipv4": [
+      "216.145.192.0/24",
       "216.145.195.0/24"
     ],
     "ipv6": []

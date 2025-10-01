@@ -3,9 +3,7 @@
   "handle": "CIGIE-ASN1",
   "description": "CIGIE",
   "subnets": {
-    "ipv4": [
-      "23.137.108.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

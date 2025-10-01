@@ -1,9 +1,11 @@
 {
   "asn": 213105,
-  "handle": "MARCELWITSCHEL",
-  "description": "Marcel Witschel",
+  "handle": "AS-EAPTEKA",
+  "description": "LLC Wildberries",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "90.156.246.0/24"
+    ],
     "ipv6": []
   }
 }

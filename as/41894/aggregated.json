@@ -4,6 +4,7 @@
   "description": "INFORMATIQUE ON LINE SAS",
   "subnets": {
     "ipv4": [
+      "149.5.226.0/24",
       "195.200.78.0/23"
     ],
     "ipv6": []
