@@ -1,9 +1,12 @@
 {
   "asn": 206042,
-  "handle": "PUNKT-MEDIA",
-  "description": "PUNKT MEDIA LLC",
+  "handle": "SH-WEB",
+  "description": "Suhail Haris",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a05:dfc1:4b05::/48",
+      "2a05:dfc1:4b88::/48"
+    ]
   }
 }

@@ -4,7 +4,8 @@
   "description": "CreditCall Corporation",
   "subnets": {
     "ipv4": [
-      "74.120.0.0/22"
+      "74.120.0.0/22",
+      "193.163.48.0/24"
     ],
     "ipv6": []
   }

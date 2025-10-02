@@ -3,7 +3,9 @@
   "handle": "SF-DIGITALSERVICES",
   "description": "CONTRUST SOLUTIONS S.R.L",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "176.46.158.0/24"
+    ],
     "ipv6": []
   }
 }

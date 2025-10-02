@@ -4,8 +4,7 @@
   "description": "FLAQUINET SERVICO DE COMUNICACAO MULTIMIDIA EIRELE",
   "subnets": {
     "ipv4": [
-      "131.196.96.0/23",
-      "131.196.99.0/24"
+      "131.196.96.0/23"
     ],
     "ipv6": [
       "2804:4098::/32"

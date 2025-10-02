@@ -4,6 +4,7 @@
   "description": "Techogs llc",
   "subnets": {
     "ipv4": [
+      "23.179.184.0/24",
       "23.189.8.0/24"
     ],
     "ipv6": []

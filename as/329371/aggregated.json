@@ -3,7 +3,9 @@
   "handle": "AFRIETA",
   "description": "Afrieta",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "102.209.144.0/22"
+    ],
     "ipv6": [
       "2c0f:ac0::/32"
     ]

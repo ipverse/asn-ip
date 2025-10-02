@@ -4,6 +4,7 @@
   "description": "Synergies GmbH",
   "subnets": {
     "ipv4": [
+      "185.253.172.0/24",
       "185.253.175.0/24"
     ],
     "ipv6": [

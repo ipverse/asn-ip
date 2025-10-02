@@ -1,0 +1,11 @@
+{
+  "asn": 274538,
+  "handle": "IPROVNET-PROVEDORA-INTERNET",
+  "description": "IPROVNET PROVEDORA INTERNET LTDA",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2804:95b0::/33"
+    ]
+  }
+}

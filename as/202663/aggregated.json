@@ -3,10 +3,7 @@
   "handle": "VOGANET-AS",
   "description": "VOGANET SARL",
   "subnets": {
-    "ipv4": [
-      "89.35.135.0/24",
-      "171.22.240.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

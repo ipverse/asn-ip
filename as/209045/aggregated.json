@@ -3,11 +3,7 @@
   "handle": "GENESIS-CLOUD-AS",
   "description": "Genesis Cloud Limited",
   "subnets": {
-    "ipv4": [
-      "147.189.200.0/22"
-    ],
-    "ipv6": [
-      "2a09:7000::/31"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

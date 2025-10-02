@@ -3,7 +3,11 @@
   "handle": "NETNET-AS",
   "description": "TELEKOM SRBIJA a.d",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "37.220.64.0/20",
+      "193.221.196.0/23",
+      "193.221.199.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,9 +3,7 @@
   "handle": "ALASKA-AIRGROUP-IGQ",
   "description": "Alaska Airlines Inc",
   "subnets": {
-    "ipv4": [
-      "162.211.8.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

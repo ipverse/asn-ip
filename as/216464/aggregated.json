@@ -1,0 +1,11 @@
+{
+  "asn": 216464,
+  "handle": "CALLGEAR",
+  "description": "SIA Callgear",
+  "subnets": {
+    "ipv4": [
+      "159.148.182.0/23"
+    ],
+    "ipv6": []
+  }
+}

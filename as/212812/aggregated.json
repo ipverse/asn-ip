@@ -4,7 +4,7 @@
   "description": "CUSTOS messium SLNE",
   "subnets": {
     "ipv4": [
-      "185.150.102.0/24"
+      "185.150.102.0/23"
     ],
     "ipv6": [
       "2a07:7040:1::/48"

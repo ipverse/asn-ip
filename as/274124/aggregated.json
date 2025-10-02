@@ -1,0 +1,11 @@
+{
+  "asn": 274124,
+  "handle": "INFRAESTRUCTURA-VIRTUAL",
+  "description": "INFRAESTRUCTURA VIRTUAL SAS",
+  "subnets": {
+    "ipv4": [
+      "168.227.247.0/24"
+    ],
+    "ipv6": []
+  }
+}

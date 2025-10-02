@@ -3,7 +3,9 @@
   "handle": "L-F-TELECOMUNICACIONES",
   "description": "L \u0026 F TELECOMUNICACIONES",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.142.40.0/24"
+    ],
     "ipv6": [
       "2806:44d::/32"
     ]

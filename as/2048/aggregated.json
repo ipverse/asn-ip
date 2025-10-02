@@ -4,6 +4,7 @@
   "description": "State of Louisiana Office of Technology Services",
   "subnets": {
     "ipv4": [
+      "76.165.205.0/24",
       "159.39.0.0/16",
       "162.75.0.0/16",
       "170.145.0.0/16",

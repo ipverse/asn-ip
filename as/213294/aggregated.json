@@ -1,0 +1,12 @@
+{
+  "asn": 213294,
+  "handle": "SAV-AS",
+  "description": "Shestavina Alevtina Vitalevna",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a11:6d03::/32",
+      "2a12:3047::/32"
+    ]
+  }
+}
