@@ -3,7 +3,9 @@
   "handle": "PHPCOMPUTER-AS-AP",
   "description": "PHP Computer",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "220.152.113.0/24"
+    ],
     "ipv6": []
   }
 }

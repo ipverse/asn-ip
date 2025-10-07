@@ -4,7 +4,7 @@
   "description": "RTX BBN Technologies Inc",
   "subnets": {
     "ipv4": [
-      "192.1.60.0/23",
+      "192.1.60.0/24",
       "192.1.115.0/24",
       "192.1.252.0/22"
     ],

@@ -3,9 +3,7 @@
   "handle": "SILFERNET-COMERCIO-SERVICOS",
   "description": "SILFERNET COMÉRCIO E SERVIÇOS LTDA",
   "subnets": {
-    "ipv4": [
-      "143.137.200.0/22"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2804:29e8::/32"
     ]

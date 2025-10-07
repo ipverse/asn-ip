@@ -3,9 +3,7 @@
   "handle": "MTW-VOSTOK-AS",
   "description": "JSC Mediasoft ekspert",
   "subnets": {
-    "ipv4": [
-      "37.228.95.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

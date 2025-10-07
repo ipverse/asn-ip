@@ -4,7 +4,6 @@
   "description": "S1 Networks Oy",
   "subnets": {
     "ipv4": [
-      "62.220.224.0/22",
       "93.90.48.0/20"
     ],
     "ipv6": []

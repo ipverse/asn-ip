@@ -3,7 +3,10 @@
   "handle": "GLYN-RESEARCH-LTD",
   "description": "GLYN Research Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.146.72.0/22",
+      "45.155.180.0/22"
+    ],
     "ipv6": []
   }
 }

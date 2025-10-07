@@ -1,9 +1,11 @@
 {
   "asn": 214102,
-  "handle": "SOFTWARELOODS",
-  "description": "Sjoerd Huininga trading as Softwareloods",
+  "handle": "NOVARISE",
+  "description": "NOVARISE INTERNATIONAL LIMITED",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a0c:9a40:8fb0::/48"
+    ]
   }
 }

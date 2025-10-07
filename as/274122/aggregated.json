@@ -3,9 +3,7 @@
   "handle": "AQUATEL-NV",
   "description": "Aquatel N.V",
   "subnets": {
-    "ipv4": [
-      "124.198.136.0/22"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

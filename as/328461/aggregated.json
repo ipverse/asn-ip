@@ -3,7 +3,9 @@
   "handle": "MOSSNET-AS",
   "description": "Mossnet cc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "102.68.0.0/22"
+    ],
     "ipv6": []
   }
 }

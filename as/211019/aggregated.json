@@ -1,9 +1,11 @@
 {
   "asn": 211019,
-  "handle": "BELLAVOINE-LUDIVINE",
-  "description": "Ludivine BELLAVOINE",
+  "handle": "SERVERS-GURU",
+  "description": "moula world llc",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a14:1ec7:f800::/48"
+    ]
   }
 }
