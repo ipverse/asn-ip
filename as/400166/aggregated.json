@@ -3,7 +3,9 @@
   "handle": "CPC-COGENT-BLOCK",
   "description": "Cheyenne Propagation Company",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.127.98.0/24"
+    ],
     "ipv6": []
   }
 }

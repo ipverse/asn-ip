@@ -3,7 +3,9 @@
   "handle": "SERVERFORGE",
   "description": "ServerForge LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "130.12.241.0/24"
+    ],
     "ipv6": [
       "2602:fb68:40::/42",
       "2602:fb68:80::/42"

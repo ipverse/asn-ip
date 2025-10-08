@@ -1,9 +1,11 @@
 {
   "asn": 54657,
   "handle": "SPC-S-NET",
-  "description": "Systec Computer Process Inc.",
+  "description": "Systec Computer Process Inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "131.143.189.0/24"
+    ],
     "ipv6": []
   }
 }

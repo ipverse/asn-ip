@@ -3,9 +3,7 @@
   "handle": "FPCE-AS",
   "description": "Freepoint Commodities Europe LLP",
   "subnets": {
-    "ipv4": [
-      "216.181.122.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

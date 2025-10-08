@@ -3,7 +3,9 @@
   "handle": "IDNIC-EMPATDATALINK-AS-ID",
   "description": "PT Empat Data Link",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "157.20.30.0/23"
+    ],
     "ipv6": []
   }
 }

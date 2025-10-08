@@ -3,7 +3,9 @@
   "handle": "MAN-WEB-HOSTING",
   "description": "MAN WEB HOSTING LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.178.224.0/23"
+    ],
     "ipv6": [
       "2804:5ea8::/32"
     ]

@@ -4,10 +4,10 @@
   "description": "Greenfiber Internet \u0026 Dienste GmbH",
   "subnets": {
     "ipv4": [
-      "185.124.72.0/22"
+      "185.124.75.0/24"
     ],
     "ipv6": [
-      "2a03:93e0::/32"
+      "2a03:93e0:1000::/36"
     ]
   }
 }

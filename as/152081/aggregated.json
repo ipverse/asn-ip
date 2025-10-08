@@ -3,7 +3,9 @@
   "handle": "IDNIC-ZINET-AS-ID",
   "description": "PT Zinet Media Nusantara",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "203.169.54.0/23"
+    ],
     "ipv6": []
   }
 }

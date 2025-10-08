@@ -1,9 +1,11 @@
 {
   "asn": 210537,
-  "handle": "RIPE-PEDJOEANG-ID",
-  "description": "PT Pedjoeang Digital Networks",
+  "handle": "AVVGO",
+  "description": "Kevin Feiler",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "5.83.148.0/24"
+    ],
     "ipv6": []
   }
 }

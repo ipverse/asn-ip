@@ -1,9 +1,13 @@
 {
   "asn": 212904,
-  "handle": "FR-2LINFO",
-  "description": "2LINFO SARL",
+  "handle": "FRESHPLANNERS",
+  "description": "FRESHPLANNERS Sp. z o.o",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.100.230.0/24",
+      "185.192.100.0/23",
+      "185.192.103.0/24"
+    ],
     "ipv6": []
   }
 }

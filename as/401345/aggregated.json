@@ -3,9 +3,7 @@
   "handle": "ERNESTECH-ASN-01",
   "description": "ErnesTech LLC",
   "subnets": {
-    "ipv4": [
-      "23.134.252.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

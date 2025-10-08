@@ -3,7 +3,9 @@
   "handle": "WIVALLEY",
   "description": "WiValley Inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "141.193.146.0/23"
+    ],
     "ipv6": []
   }
 }

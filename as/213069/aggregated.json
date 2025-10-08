@@ -1,9 +1,11 @@
 {
   "asn": 213069,
-  "handle": "RFBRIDGE",
-  "description": "PANYUAN HUANG",
+  "handle": "MAYAHOST-LLC",
+  "description": "Maya Pardazesh Iranian LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.234.191.0/24"
+    ],
     "ipv6": []
   }
 }
