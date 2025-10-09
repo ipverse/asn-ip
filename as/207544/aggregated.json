@@ -3,7 +3,9 @@
   "handle": "FD-ME",
   "description": "FAST DATA COMPANY FOR TELECOMMUNICATIONS AND INFORMATION TECHNOLOGY LIMITED LIABILITY",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "212.6.61.0/24"
+    ],
     "ipv6": []
   }
 }

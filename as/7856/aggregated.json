@@ -3,7 +3,11 @@
   "handle": "EPPROACH-0",
   "description": "Epproach Communications LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "64.192.56.0/24",
+      "64.192.235.0/24",
+      "64.192.236.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "BHIP-AS-AP",
   "description": "Bupa Health Insurance (Thailand) Public Company Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.108.49.0/24"
+    ],
     "ipv6": [
       "2001:df3:f900::/48"
     ]

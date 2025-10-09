@@ -3,7 +3,9 @@
   "handle": "SAMARITAN-HEALTHCARE-ASN",
   "description": "Samaritan Healthcare",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "198.202.28.0/24"
+    ],
     "ipv6": []
   }
 }

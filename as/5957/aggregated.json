@@ -4,7 +4,8 @@
   "description": "United States Department of Defense (DoD)",
   "subnets": {
     "ipv4": [
-      "204.222.176.0/22"
+      "204.222.177.0/24",
+      "204.222.178.0/23"
     ],
     "ipv6": [
       "2001:480:60::/48"

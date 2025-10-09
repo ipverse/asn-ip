@@ -4,6 +4,7 @@
   "description": "Hasan Host",
   "subnets": {
     "ipv4": [
+      "68.165.216.0/22",
       "103.6.160.0/24"
     ],
     "ipv6": []

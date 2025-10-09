@@ -1,9 +1,11 @@
 {
   "asn": 139653,
-  "handle": "KEVINNET-AP",
-  "description": "Soon Keat Neo",
+  "handle": "IDNIC-GSBNET-ID",
+  "description": "PT GUNUNG SUGIH BESAR NETWORK",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "49.213.58.0/24"
+    ],
     "ipv6": []
   }
 }

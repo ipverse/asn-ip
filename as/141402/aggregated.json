@@ -3,7 +3,9 @@
   "handle": "SAC-AS-AP",
   "description": "St Augustine\u0027s College-Sydney",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.158.64.0/24"
+    ],
     "ipv6": []
   }
 }

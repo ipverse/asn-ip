@@ -4,9 +4,6 @@
   "description": "Net1 GmbH",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2a07:87c0:fe00::/48",
-      "2a07:87c0:ffff::/48"
-    ]
+    "ipv6": []
   }
 }

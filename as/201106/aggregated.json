@@ -3,9 +3,7 @@
   "handle": "SPARTANHOST",
   "description": "Spartan Host Ltd",
   "subnets": {
-    "ipv4": [
-      "172.83.153.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

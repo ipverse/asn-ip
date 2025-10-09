@@ -3,7 +3,9 @@
   "handle": "ESCREEN",
   "description": "ESCREEN",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "198.97.230.0/24"
+    ],
     "ipv6": []
   }
 }

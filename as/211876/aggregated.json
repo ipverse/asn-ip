@@ -1,9 +1,11 @@
 {
   "asn": 211876,
-  "handle": "FIXMIX-GEN",
-  "description": "fixmix Technologies Ltd",
+  "handle": "WUEMELIINTERWEBSSOLUTIONS",
+  "description": "Luis Staeheli Quednau",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a0e:97c0:120::/44"
+    ]
   }
 }

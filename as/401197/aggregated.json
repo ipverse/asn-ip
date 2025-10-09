@@ -3,7 +3,9 @@
   "handle": "KCORE-01",
   "description": "kCore Cloud LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.184.211.0/24"
+    ],
     "ipv6": [
       "2602:f897::/40"
     ]

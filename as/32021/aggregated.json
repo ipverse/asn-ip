@@ -1,7 +1,11 @@
 {
   "asn": 32021,
+  "handle": "OSOINTERNET",
+  "description": "Oso Internet Solutions",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.2.144.0/22"
+    ],
     "ipv6": []
   }
 }

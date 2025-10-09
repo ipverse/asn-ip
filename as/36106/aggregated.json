@@ -4,6 +4,8 @@
   "description": "Managed Nodes LLC",
   "subnets": {
     "ipv4": [
+      "38.103.38.0/23",
+      "38.118.71.0/24",
       "144.86.164.0/23"
     ],
     "ipv6": []

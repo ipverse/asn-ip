@@ -3,9 +3,7 @@
   "handle": "DOCLOUD",
   "description": "Internet CLOUD Services SL",
   "subnets": {
-    "ipv4": [
-      "185.130.103.0/24"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2a14:3140::/29"
     ]

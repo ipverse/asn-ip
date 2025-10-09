@@ -3,9 +3,7 @@
   "handle": "DATA-LAB",
   "description": "DATA LAB (T) LIMITED",
   "subnets": {
-    "ipv4": [
-      "102.205.200.0/22"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

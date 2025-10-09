@@ -4,6 +4,7 @@
   "description": "SALIHLI WIFI TELEKOMUNIKASYON ILETISIM HIZ SAN TIC LTD STI",
   "subnets": {
     "ipv4": [
+      "178.210.164.0/24",
       "185.218.141.0/24"
     ],
     "ipv6": []

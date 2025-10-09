@@ -4,7 +4,6 @@
   "description": "RG TELECOM",
   "subnets": {
     "ipv4": [
-      "45.185.68.0/22",
       "45.185.112.0/22"
     ],
     "ipv6": [

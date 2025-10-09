@@ -1,9 +1,11 @@
 {
   "asn": 204992,
-  "handle": "HYE",
-  "description": "Hye Hosting LLC.",
+  "handle": "ASIIMOV-TECH",
+  "description": "Asiimov Technologies SRL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "85.120.86.0/24"
+    ],
     "ipv6": []
   }
 }

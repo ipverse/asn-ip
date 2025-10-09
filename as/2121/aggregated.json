@@ -3,7 +3,9 @@
   "handle": "RIPE-MEETING-AS",
   "description": "Reseaux IP Europeens Network Coordination Centre (RIPE NCC)",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.0.24.0/21"
+    ],
     "ipv6": []
   }
 }
