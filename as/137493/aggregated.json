@@ -3,7 +3,9 @@
   "handle": "ADAMDIGHIONLINE-AS-AP",
   "description": "ADAMDIGHI ONLINE",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.189.145.0/24"
+    ],
     "ipv6": []
   }
 }

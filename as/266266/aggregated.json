@@ -4,10 +4,8 @@
   "description": "Speed NET Internet Banda Larga Ltda",
   "subnets": {
     "ipv4": [
-      "45.65.180.0/22"
+      "45.65.183.0/24"
     ],
-    "ipv6": [
-      "2804:3d4c::/32"
-    ]
+    "ipv6": []
   }
 }

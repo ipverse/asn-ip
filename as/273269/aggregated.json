@@ -4,6 +4,7 @@
   "description": "ISP EBEN-EZER",
   "subnets": {
     "ipv4": [
+      "38.7.146.0/24",
       "38.159.177.0/24"
     ],
     "ipv6": [

@@ -4,6 +4,7 @@
   "description": "Tomas Oliveira Valente Leite de Castro",
   "subnets": {
     "ipv4": [
+      "131.143.87.0/24",
       "199.16.242.0/23"
     ],
     "ipv6": [

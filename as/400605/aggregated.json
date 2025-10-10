@@ -3,7 +3,9 @@
   "handle": "FLEETFLO",
   "description": "HCH Transportation Advisors Inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.5.58.0/24"
+    ],
     "ipv6": []
   }
 }

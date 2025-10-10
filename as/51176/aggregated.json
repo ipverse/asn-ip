@@ -1,9 +1,11 @@
 {
   "asn": 51176,
-  "handle": "MAGELLAN",
-  "description": "fernao magellan GmbH",
+  "handle": "MAGELLAN-AS",
+  "description": "Axians magellan GmbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "149.154.144.0/21"
+    ],
     "ipv6": []
   }
 }

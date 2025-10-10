@@ -3,7 +3,13 @@
   "handle": "HWSPL-AS-AP",
   "description": "HostPalace Web Solution PVT LTD",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "103.194.168.0/24",
+      "103.248.53.0/24",
+      "103.248.54.0/23"
+    ],
+    "ipv6": [
+      "2406:9980::/32"
+    ]
   }
 }

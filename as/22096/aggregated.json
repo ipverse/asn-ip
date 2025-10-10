@@ -1,9 +1,11 @@
 {
   "asn": 22096,
-  "handle": "UNITED-WATER",
-  "description": "UNITED WATER",
+  "handle": "TIGRISDATA",
+  "description": "Tigris Data Inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "66.93.0.0/22"
+    ],
     "ipv6": []
   }
 }

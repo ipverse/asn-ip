@@ -3,7 +3,9 @@
   "handle": "AIA-ID",
   "description": "PT. AIA FINANCIAL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.35.218.0/24"
+    ],
     "ipv6": []
   }
 }

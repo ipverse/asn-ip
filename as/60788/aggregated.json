@@ -3,10 +3,7 @@
   "handle": "VARIDION",
   "description": "Gamma Network Solution Limited",
   "subnets": {
-    "ipv4": [
-      "62.223.18.0/24",
-      "62.223.20.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

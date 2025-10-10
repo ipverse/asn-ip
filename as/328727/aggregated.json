@@ -4,6 +4,7 @@
   "description": "Simba Fiber Africa Limited",
   "subnets": {
     "ipv4": [
+      "102.204.160.0/22",
       "102.215.108.0/22",
       "102.222.232.0/22"
     ],

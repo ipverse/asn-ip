@@ -4,7 +4,6 @@
   "description": "The North Atlantic Treaty Organization",
   "subnets": {
     "ipv4": [
-      "91.223.21.0/24",
       "192.41.140.0/24"
     ],
     "ipv6": []

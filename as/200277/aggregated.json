@@ -3,9 +3,7 @@
   "handle": "EURODONBAS-AS",
   "description": "LLC EURODONBAS",
   "subnets": {
-    "ipv4": [
-      "87.121.217.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

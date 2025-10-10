@@ -1,0 +1,13 @@
+{
+  "asn": 213735,
+  "handle": "SK2",
+  "description": "Rackspace Germany GmbH",
+  "subnets": {
+    "ipv4": [
+      "166.86.196.0/22"
+    ],
+    "ipv6": [
+      "2a0b:442::/32"
+    ]
+  }
+}

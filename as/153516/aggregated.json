@@ -3,9 +3,7 @@
   "handle": "SYBON-AS-AP",
   "description": "Six young boys online network",
   "subnets": {
-    "ipv4": [
-      "161.248.154.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

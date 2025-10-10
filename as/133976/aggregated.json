@@ -3,7 +3,9 @@
   "handle": "UIPL-AS-IN",
   "description": "Ubixe Infotech Private Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "163.223.103.0/24"
+    ],
     "ipv6": []
   }
 }

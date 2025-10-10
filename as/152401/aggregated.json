@@ -3,7 +3,10 @@
   "handle": "IDNIC-AMD-AS-ID",
   "description": "PT Airlink Media Data",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "157.15.118.0/24",
+      "163.227.64.0/24"
+    ],
     "ipv6": []
   }
 }

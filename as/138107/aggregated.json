@@ -4,8 +4,7 @@
   "description": "PT Virtual Data Centra Indonesia",
   "subnets": {
     "ipv4": [
-      "103.126.57.0/24",
-      "103.126.58.0/23"
+      "103.126.56.0/22"
     ],
     "ipv6": []
   }

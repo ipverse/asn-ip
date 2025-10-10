@@ -3,7 +3,9 @@
   "handle": "AUTOMATE-THE-THINGS-01",
   "description": "Automate The Things LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "23.143.36.0/24"
+    ],
     "ipv6": []
   }
 }
