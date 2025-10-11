@@ -3,9 +3,7 @@
   "handle": "PTCI-AS-AP",
   "description": "PANAY TELEPHONE CORPORATION II",
   "subnets": {
-    "ipv4": [
-      "160.22.130.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

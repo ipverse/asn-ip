@@ -4,7 +4,8 @@
   "description": "WEBFIBER TELECOMUNICACAO LTDA ­ ME",
   "subnets": {
     "ipv4": [
-      "45.160.184.0/22"
+      "45.160.184.0/23",
+      "45.160.186.0/24"
     ],
     "ipv6": [
       "2804:50f4::/32"

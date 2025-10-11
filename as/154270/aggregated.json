@@ -3,9 +3,7 @@
   "handle": "VOLVO-GROUP-IT-APNIC-AS-AP",
   "description": "VOLVO GROUP KOREA CO LTD Construction Equipment Seoul",
   "subnets": {
-    "ipv4": [
-      "193.235.110.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

@@ -1,9 +1,11 @@
 {
   "asn": 397154,
-  "handle": "NUCLEUS-CENTRAL-ATL",
-  "description": "Nucleus Central, Inc.",
+  "handle": "GRANULES-CONSUMER-HEALTH-NET",
+  "description": "Granules Consumer Health",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "167.150.17.0/24"
+    ],
     "ipv6": []
   }
 }

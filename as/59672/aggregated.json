@@ -3,7 +3,9 @@
   "handle": "TDDT-AS",
   "description": "Torgovyi dom detskikh tovarov Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "176.124.248.0/24"
+    ],
     "ipv6": []
   }
 }

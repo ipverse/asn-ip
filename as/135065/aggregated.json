@@ -3,7 +3,10 @@
   "handle": "NIDOM-AS-AP",
   "description": "National Directorate of Information and Technology",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.208.37.0/24",
+      "103.208.38.0/23"
+    ],
     "ipv6": []
   }
 }

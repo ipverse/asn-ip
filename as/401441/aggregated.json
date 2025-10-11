@@ -3,7 +3,9 @@
   "handle": "GOOSEWORKS",
   "description": "Gooseworks LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "142.249.28.0/23"
+    ],
     "ipv6": []
   }
 }

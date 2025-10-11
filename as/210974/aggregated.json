@@ -3,7 +3,9 @@
   "handle": "AJYALFI",
   "description": "AjyalFi Company for Information and Communication Technology LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "213.182.200.0/22"
+    ],
     "ipv6": []
   }
 }

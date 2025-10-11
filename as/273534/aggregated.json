@@ -3,7 +3,9 @@
   "handle": "MUNICIPIO-GOIANIRA",
   "description": "MUNICIPIO DE GOIANIRA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.170.139.0/24"
+    ],
     "ipv6": [
       "2801:81:30::/48"
     ]

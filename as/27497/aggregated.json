@@ -1,0 +1,11 @@
+{
+  "asn": 27497,
+  "handle": "CENTURYLINK-RESERVED-IPADMIN",
+  "description": "CenturyLink Communications LLC",
+  "subnets": {
+    "ipv4": [
+      "206.101.0.0/16"
+    ],
+    "ipv6": []
+  }
+}

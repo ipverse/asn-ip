@@ -3,9 +3,7 @@
   "handle": "ASN-EQIX-OSAKA-AP",
   "description": "Equinix Asia Pacific Pte Ltd",
   "subnets": {
-    "ipv4": [
-      "202.253.244.0/24"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2407:b001:1000::/40",
       "2407:b001:3000::/40"

@@ -3,9 +3,7 @@
   "handle": "IDNIC-SENTRALNET-AS-ID",
   "description": "PT Multi Media Sentral",
   "subnets": {
-    "ipv4": [
-      "160.25.218.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

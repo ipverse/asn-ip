@@ -1,9 +1,11 @@
 {
   "asn": 62165,
-  "handle": "HOSTDIRECT",
-  "description": "Host Direct sp. z o. o.",
+  "handle": "ASN-HOSTDIRECT",
+  "description": "Host Direct sp. z o. o",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.163.52.0/24"
+    ],
     "ipv6": []
   }
 }

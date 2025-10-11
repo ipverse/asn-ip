@@ -1,9 +1,11 @@
 {
   "asn": 215410,
-  "handle": "REDLINK",
-  "description": "REDLINK TELECOM Co., Ltd",
+  "handle": "KROBE-AS",
+  "description": "Krobe Sp. z o.o",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.242.125.0/24"
+    ],
     "ipv6": []
   }
 }
