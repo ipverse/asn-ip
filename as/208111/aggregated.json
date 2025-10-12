@@ -4,6 +4,7 @@
   "description": "Falcon FZE LLC",
   "subnets": {
     "ipv4": [
+      "45.135.212.0/23",
       "89.106.64.0/24"
     ],
     "ipv6": []

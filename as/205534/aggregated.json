@@ -3,9 +3,7 @@
   "handle": "JETCONSERVICEAPS",
   "description": "Jetcon Service ApS",
   "subnets": {
-    "ipv4": [
-      "212.73.149.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

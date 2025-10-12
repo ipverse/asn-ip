@@ -4,8 +4,6 @@
   "description": "RackGenius",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2602:f964:2::/48"
-    ]
+    "ipv6": []
   }
 }

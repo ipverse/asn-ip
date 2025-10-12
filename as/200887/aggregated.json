@@ -3,9 +3,7 @@
   "handle": "VELCOM-AS",
   "description": "Velcom Srl",
   "subnets": {
-    "ipv4": [
-      "185.244.236.0/24"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2a13:1580::/29"
     ]

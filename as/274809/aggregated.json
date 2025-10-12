@@ -4,8 +4,6 @@
   "description": "FLC Pomin",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2804:93ec:4c60::/48"
-    ]
+    "ipv6": []
   }
 }

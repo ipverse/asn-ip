@@ -4,8 +4,6 @@
   "description": "Offshore LC",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2a14:7c7::/32"
-    ]
+    "ipv6": []
   }
 }

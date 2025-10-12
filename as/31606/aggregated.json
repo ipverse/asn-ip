@@ -3,7 +3,9 @@
   "handle": "ARTRADE-AS",
   "description": "TELEDATANET SRL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.22.93.0/24"
+    ],
     "ipv6": []
   }
 }

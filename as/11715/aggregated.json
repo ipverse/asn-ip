@@ -1,9 +1,11 @@
 {
   "asn": 11715,
-  "handle": "ROUTE86",
-  "description": "1538556 Ontario Inc.",
+  "handle": "KISARA-NETWORK-02",
+  "description": "Kisara Development LLC",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2602:f6ae:ab::/48"
+    ]
   }
 }

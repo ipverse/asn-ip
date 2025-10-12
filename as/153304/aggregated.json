@@ -3,7 +3,9 @@
   "handle": "RAHATECHNOLOGY-AS-AP",
   "description": "Raha Technology",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "160.30.176.0/23"
+    ],
     "ipv6": []
   }
 }

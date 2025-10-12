@@ -3,7 +3,10 @@
   "handle": "CLOUDBASE",
   "description": "Cloudbase Network CORP",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "151.243.34.0/24",
+      "210.67.140.0/23"
+    ],
     "ipv6": [
       "2a14:7581:9fc0::/44",
       "2a14:7583:fd00::/40"

@@ -3,7 +3,10 @@
   "handle": "TAPHIP",
   "description": "TapHip Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.55.109.0/24",
+      "38.55.110.0/23"
+    ],
     "ipv6": []
   }
 }
