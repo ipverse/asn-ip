@@ -4,6 +4,7 @@
   "description": "FAB FIVE NETWORK PRIVATE LIMITED",
   "subnets": {
     "ipv4": [
+      "38.196.186.0/23",
       "43.228.166.0/23",
       "43.230.132.0/23",
       "103.109.220.0/22",

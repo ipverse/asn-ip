@@ -3,7 +3,9 @@
   "handle": "OWONET-AS-AP",
   "description": "Chen Chi",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "208.68.182.0/24"
+    ],
     "ipv6": [
       "2406:840:e301::/48",
       "2406:840:e304::/46",

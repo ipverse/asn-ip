@@ -3,7 +3,9 @@
   "handle": "VIHAS-AS-IN",
   "description": "Vihasya Technologies Private Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "163.61.234.0/24"
+    ],
     "ipv6": []
   }
 }

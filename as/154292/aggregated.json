@@ -1,0 +1,11 @@
+{
+  "asn": 154292,
+  "handle": "IDNIC-POLTEKES-PLB-ID",
+  "description": "Politeknik Kesehatan Palembang",
+  "subnets": {
+    "ipv4": [
+      "203.31.76.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,9 +1,11 @@
 {
   "asn": 135495,
-  "handle": "RESERVED",
-  "description": "APNIC ASN block",
+  "handle": "ITCI-AS-AP",
+  "description": "Independent Telephone Company Inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "163.227.240.0/24"
+    ],
     "ipv6": []
   }
 }

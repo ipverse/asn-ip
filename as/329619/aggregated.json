@@ -3,7 +3,9 @@
   "handle": "GREEN-G-TECHNOLOGIES",
   "description": "Green G Technologies",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "102.204.200.0/22"
+    ],
     "ipv6": [
       "2c0f:74c0::/32"
     ]

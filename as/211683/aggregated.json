@@ -3,11 +3,7 @@
   "handle": "DCUNITED",
   "description": "DC STAR nv",
   "subnets": {
-    "ipv4": [
-      "5.253.231.0/24"
-    ],
-    "ipv6": [
-      "2a02:5942::/32"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

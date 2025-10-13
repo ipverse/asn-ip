@@ -4,8 +4,7 @@
   "description": "SKYQUANTUM TELECOM LTD",
   "subnets": {
     "ipv4": [
-      "38.30.192.0/20",
-      "82.153.212.0/24"
+      "38.30.192.0/20"
     ],
     "ipv6": [
       "2a14:3000::/29"
