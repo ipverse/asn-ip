@@ -4,6 +4,7 @@
   "description": "AGRESTE TELECOMUNICAÇÕES EIRELI-ME",
   "subnets": {
     "ipv4": [
+      "38.196.177.0/24",
       "45.71.120.0/22"
     ],
     "ipv6": [

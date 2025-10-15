@@ -1,9 +1,11 @@
 {
   "asn": 139640,
-  "handle": "HKNEWCLOUD-AP",
-  "description": "HK NEW CLOUD TECHNOLOGY LIMITED",
+  "handle": "IDNIC-ADNNET-ID",
+  "description": "PT Amana Digital Nusantara",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "202.6.200.0/23"
+    ],
     "ipv6": []
   }
 }

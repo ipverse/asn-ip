@@ -3,9 +3,7 @@
   "handle": "LSL-AS-AP",
   "description": "LightEdge Solutions LLC",
   "subnets": {
-    "ipv4": [
-      "160.22.88.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

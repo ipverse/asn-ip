@@ -4,6 +4,7 @@
   "description": "Web Werks India Pvt. Ltd",
   "subnets": {
     "ipv4": [
+      "103.52.181.0/24",
       "150.129.232.0/24"
     ],
     "ipv6": []

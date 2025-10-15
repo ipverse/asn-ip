@@ -3,7 +3,9 @@
   "handle": "DOMINION-AS",
   "description": "Antipov Oleg",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.207.218.0/23"
+    ],
     "ipv6": []
   }
 }

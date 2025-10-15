@@ -4,6 +4,7 @@
   "description": "Beyotta Network LLP",
   "subnets": {
     "ipv4": [
+      "103.136.32.0/24",
       "103.136.34.0/24"
     ],
     "ipv6": [

@@ -3,7 +3,9 @@
   "handle": "RNE-AS",
   "description": "RNE Suawoude Beheer B.V",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.61.4.0/22"
+    ],
     "ipv6": []
   }
 }

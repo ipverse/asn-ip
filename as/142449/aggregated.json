@@ -3,7 +3,9 @@
   "handle": "DREAMCABL-AS-IN",
   "description": "DREAM CABLES",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.170.64.0/24"
+    ],
     "ipv6": []
   }
 }

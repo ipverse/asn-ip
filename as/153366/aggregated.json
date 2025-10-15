@@ -1,9 +1,11 @@
 {
   "asn": 153366,
-  "handle": "ADVPS-AP",
+  "handle": "ADVPS-AS-AP",
   "description": "ADVPS SERVICES",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "154.49.164.0/22"
+    ],
     "ipv6": []
   }
 }

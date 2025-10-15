@@ -3,9 +3,7 @@
   "handle": "MTNSAT-ASN-01",
   "description": "MTNSAT Holdings LLC",
   "subnets": {
-    "ipv4": [
-      "63.214.236.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

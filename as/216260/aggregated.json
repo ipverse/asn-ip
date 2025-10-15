@@ -4,6 +4,8 @@
   "description": "MAIK WILHELM",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a01:ecc0:680::/44"
+    ]
   }
 }

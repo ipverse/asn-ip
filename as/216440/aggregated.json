@@ -3,7 +3,9 @@
   "handle": "HOOP7NETWORK-AS",
   "description": "7Hoop Network Telecom LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "23.159.232.0/24"
+    ],
     "ipv6": []
   }
 }

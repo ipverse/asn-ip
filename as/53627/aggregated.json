@@ -3,7 +3,9 @@
   "handle": "TELECOM1-01",
   "description": "Telecom 1 LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "130.12.52.0/22"
+    ],
     "ipv6": [
       "2602:f855::/36"
     ]
