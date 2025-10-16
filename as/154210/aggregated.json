@@ -1,0 +1,11 @@
+{
+  "asn": 154210,
+  "handle": "IDNIC-PAULI-ID",
+  "description": "PT Pituama Unggulan Teknologi",
+  "subnets": {
+    "ipv4": [
+      "203.16.11.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -4,6 +4,7 @@
   "description": "INYC HOLDING LIMITED",
   "subnets": {
     "ipv4": [
+      "193.23.209.0/24",
       "193.23.221.0/24"
     ],
     "ipv6": []

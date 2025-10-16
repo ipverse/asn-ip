@@ -1,9 +1,11 @@
 {
   "asn": 205712,
-  "handle": "VALARIAS-STUDIO",
-  "description": "Tim RANDIS",
+  "handle": "WEB-TRACTORINFOR",
+  "description": "Tractorinfor LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "156.225.46.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,10 @@
   "handle": "IA-AS",
   "description": "Internet Awareness Inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.41.171.0/24",
+      "192.147.174.0/24"
+    ],
     "ipv6": []
   }
 }

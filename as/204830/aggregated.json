@@ -1,9 +1,11 @@
 {
   "asn": 204830,
-  "handle": "HYPER-HOSTING",
-  "description": "Hyper Hosting SRL",
+  "handle": "IPOAC-AS",
+  "description": "Jelle Kaufmann",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a0e:fd45:5000::/40"
+    ]
   }
 }

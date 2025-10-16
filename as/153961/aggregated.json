@@ -4,7 +4,7 @@
   "description": "PT Connexa Digital Network",
   "subnets": {
     "ipv4": [
-      "165.99.202.0/24"
+      "165.99.202.0/23"
     ],
     "ipv6": [
       "2001:df5:ab40::/48"

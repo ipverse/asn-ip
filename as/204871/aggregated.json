@@ -1,9 +1,11 @@
 {
   "asn": 204871,
-  "handle": "NET-MAR",
-  "description": "NET MAR MAREK BZDZIUCH",
+  "handle": "SPK-AS",
+  "description": "Shihabudheen P K",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a14:7581:786::/48"
+    ]
   }
 }

@@ -4,7 +4,8 @@
   "description": "ALAN CHARLES ALVES LEITE ME",
   "subnets": {
     "ipv4": [
-      "170.150.212.0/22"
+      "170.150.212.0/23",
+      "170.150.215.0/24"
     ],
     "ipv6": [
       "2804:31d8::/32"

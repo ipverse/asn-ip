@@ -1,0 +1,12 @@
+{
+  "asn": 274559,
+  "handle": "LINK-FIBRA",
+  "description": "LINK FIBRA LTDA",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2804:95c8::/32",
+      "2804:95f4::/32"
+    ]
+  }
+}

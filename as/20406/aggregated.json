@@ -4,8 +4,7 @@
   "description": "Braslink Network Inc",
   "subnets": {
     "ipv4": [
-      "204.16.0.0/22",
-      "204.16.6.0/24"
+      "204.16.0.0/21"
     ],
     "ipv6": []
   }

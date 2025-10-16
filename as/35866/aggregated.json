@@ -3,11 +3,8 @@
   "handle": "SILVER-CHIP",
   "description": "Silver Chip Interactive",
   "subnets": {
-    "ipv4": [
-      "117.18.123.0/24"
-    ],
+    "ipv4": [],
     "ipv6": [
-      "2602:f9ff::/42",
       "2602:f9ff:44::/48"
     ]
   }

@@ -4,6 +4,7 @@
   "description": "Ronald Agorsah trading as Alpenhost e.U",
   "subnets": {
     "ipv4": [
+      "45.152.241.0/24",
       "92.112.48.0/23"
     ],
     "ipv6": [

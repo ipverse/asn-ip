@@ -4,14 +4,12 @@
   "description": "CNRST (Centre National pour la Recherche Scientifique et Technique)",
   "subnets": {
     "ipv4": [
-      "102.216.118.0/24",
       "105.73.96.0/22",
       "196.12.203.0/24",
       "196.200.128.0/18"
     ],
     "ipv6": [
-      "2001:4310::/32",
-      "2001:43f8:1670::/48"
+      "2001:4310::/32"
     ]
   }
 }

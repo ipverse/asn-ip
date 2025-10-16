@@ -4,6 +4,7 @@
   "description": "CHINANET Guangdong province Guangzhou MAN network",
   "subnets": {
     "ipv4": [
+      "59.37.0.0/23",
       "59.107.0.0/17",
       "61.29.128.0/18",
       "61.144.6.0/24",

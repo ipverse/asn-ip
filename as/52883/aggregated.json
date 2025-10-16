@@ -3,7 +3,9 @@
   "handle": "ICAL-INDUSTRIA-CALCINACAO",
   "description": "ICAL - Indústria de Calcinação Ltda",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "177.129.76.0/24"
+    ],
     "ipv6": []
   }
 }

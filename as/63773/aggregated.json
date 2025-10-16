@@ -3,7 +3,10 @@
   "handle": "DUAL-NET",
   "description": "dual\u0026Co. Inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.96.229.0/24",
+      "202.226.40.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "POWER-NET",
   "description": "POWER NET",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "200.50.148.0/22"
+    ],
     "ipv6": []
   }
 }

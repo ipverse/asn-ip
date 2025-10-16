@@ -4,6 +4,7 @@
   "description": "Digi Desert LLC",
   "subnets": {
     "ipv4": [
+      "44.30.48.0/24",
       "199.167.56.0/22"
     ],
     "ipv6": [

@@ -1,0 +1,13 @@
+{
+  "asn": 55262,
+  "handle": "ANTHEMCONNECT-LA2",
+  "description": "Anthem Broadband",
+  "subnets": {
+    "ipv4": [
+      "64.62.137.0/24"
+    ],
+    "ipv6": [
+      "2604:2020::/32"
+    ]
+  }
+}

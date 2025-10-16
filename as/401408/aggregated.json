@@ -3,7 +3,11 @@
   "handle": "SALADCLOUD",
   "description": "Salad Technologies Inc",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "216.181.130.0/24"
+    ],
+    "ipv6": [
+      "2602:f7c8::/40"
+    ]
   }
 }

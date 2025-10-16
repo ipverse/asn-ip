@@ -3,7 +3,9 @@
   "handle": "MODAT-01",
   "description": "Modat B.V",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "85.217.149.0/24"
+    ],
     "ipv6": []
   }
 }

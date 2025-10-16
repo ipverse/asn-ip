@@ -4,8 +4,7 @@
   "description": "Cloud HM Company Limited",
   "subnets": {
     "ipv4": [
-      "160.187.249.0/24",
-      "202.148.191.0/24"
+      "160.187.249.0/24"
     ],
     "ipv6": [
       "2001:df4:68c0::/48"

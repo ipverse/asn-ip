@@ -4,12 +4,10 @@
   "description": "Digitaliseringsdirektoratet",
   "subnets": {
     "ipv4": [
-      "78.41.44.0/24",
       "78.41.47.0/24"
     ],
     "ipv6": [
-      "2a06:11c0:3::/48",
-      "2a06:11c0:4::/48"
+      "2a06:11c0:3::/48"
     ]
   }
 }

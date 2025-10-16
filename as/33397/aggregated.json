@@ -4,7 +4,8 @@
   "description": "Genealogical Society of Utah",
   "subnets": {
     "ipv4": [
-      "204.9.224.0/22"
+      "204.9.224.0/22",
+      "216.49.189.0/24"
     ],
     "ipv6": [
       "2632:103::/32"
