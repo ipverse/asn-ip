@@ -3,9 +3,7 @@
   "handle": "EKSENBILISIM",
   "description": "Nese Mala trading as Moon Dc",
   "subnets": {
-    "ipv4": [
-      "185.148.243.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

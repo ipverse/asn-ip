@@ -3,7 +3,9 @@
   "handle": "MIDFLORIDA-AS",
   "description": "MIDFLORIDA Federal Credit Union",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "74.116.212.0/24"
+    ],
     "ipv6": []
   }
 }

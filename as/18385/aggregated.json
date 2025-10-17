@@ -1,9 +1,12 @@
 {
   "asn": 18385,
-  "handle": "KDDI-AP",
-  "description": "KDDI AUSTRALIA PTY LIMITED",
+  "handle": "LMCSCL-AS-AP",
+  "description": "Laos Mobile Communications Sole Co. Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.11.79.0/24",
+      "45.85.77.0/24"
+    ],
     "ipv6": []
   }
 }

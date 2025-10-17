@@ -1,9 +1,11 @@
 {
   "asn": 205983,
-  "handle": "GLORIATELECOM",
-  "description": "Gloria Telecom LLC",
+  "handle": "INDE-PTE-EU",
+  "description": "INDE PTE LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "82.198.40.0/24"
+    ],
     "ipv6": []
   }
 }

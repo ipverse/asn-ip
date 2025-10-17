@@ -3,7 +3,9 @@
   "handle": "ZTNETCOLTD-AS-AP",
   "description": "ZTNET CO. LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "79.109.128.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -1,9 +1,11 @@
 {
   "asn": 215741,
-  "handle": "BTT",
-  "description": "Berwick-upon-Tweed Telecommunications Limited",
+  "handle": "DETACON-AS",
+  "description": "detacon GmbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "151.240.27.0/24"
+    ],
     "ipv6": []
   }
 }

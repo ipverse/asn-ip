@@ -1,0 +1,13 @@
+{
+  "asn": 154248,
+  "handle": "IDNIC-CAKTARA-ID",
+  "description": "PT Telemedia Cakra Nusantara",
+  "subnets": {
+    "ipv4": [
+      "203.27.34.0/24"
+    ],
+    "ipv6": [
+      "2001:df6:1640::/48"
+    ]
+  }
+}

@@ -4,7 +4,8 @@
   "description": "INFOGENIE Technologies",
   "subnets": {
     "ipv4": [
-      "41.77.80.0/21"
+      "41.77.80.0/22",
+      "41.77.84.0/24"
     ],
     "ipv6": []
   }

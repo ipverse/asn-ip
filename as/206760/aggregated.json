@@ -3,7 +3,9 @@
   "handle": "INTPROM-AS",
   "description": "Intprom LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.107.118.0/24"
+    ],
     "ipv6": []
   }
 }

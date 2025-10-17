@@ -4,8 +4,7 @@
   "description": "CASTRO TELLO MARCO IVÁN (CONEXIÓN GLOBAL)",
   "subnets": {
     "ipv4": [
-      "128.201.160.0/23",
-      "128.201.162.0/24"
+      "128.201.160.0/22"
     ],
     "ipv6": [
       "2803:fbc0::/32"

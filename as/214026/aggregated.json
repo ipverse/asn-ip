@@ -1,9 +1,12 @@
 {
   "asn": 214026,
-  "handle": "MARCUSNAW",
-  "description": "Marcus Nawrocki",
+  "handle": "ORG-KL391-RIPE",
+  "description": "KiNet LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "23.26.139.0/24",
+      "84.54.0.0/23"
+    ],
     "ipv6": []
   }
 }

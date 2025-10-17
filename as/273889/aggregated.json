@@ -3,11 +3,8 @@
   "handle": "WISPER-INTERNET-INALAMBRICO",
   "description": "WISPER INTERNET INALAMBRICO S.A.S",
   "subnets": {
-    "ipv4": [
-      "38.211.46.0/24"
-    ],
+    "ipv4": [],
     "ipv6": [
-      "2803:e350::/35",
       "2803:e350:f000::/36"
     ]
   }

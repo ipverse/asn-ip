@@ -3,7 +3,9 @@
   "handle": "BPSL1-AS",
   "description": "Botswana Postal Services Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "102.219.75.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -1,0 +1,13 @@
+{
+  "asn": 152873,
+  "handle": "NEODY-NET",
+  "description": "Neodyland",
+  "subnets": {
+    "ipv4": [
+      "43.229.16.0/23"
+    ],
+    "ipv6": [
+      "2402:2f60::/48"
+    ]
+  }
+}

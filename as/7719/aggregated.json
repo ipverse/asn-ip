@@ -3,7 +3,9 @@
   "handle": "M1CI-AS-AP",
   "description": "ITSUDATTE",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "138.252.51.0/24"
+    ],
     "ipv6": [
       "2001:df5:f4c0::/48",
       "2a05:dfc6::/32"

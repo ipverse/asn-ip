@@ -1,0 +1,11 @@
+{
+  "asn": 8106,
+  "handle": "SPRINT97",
+  "description": "Sprint",
+  "subnets": {
+    "ipv4": [
+      "208.9.0.0/16"
+    ],
+    "ipv6": []
+  }
+}

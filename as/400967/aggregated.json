@@ -3,8 +3,13 @@
   "handle": "ASSURED-NETWORKS",
   "description": "Assured Networks",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "23.175.120.0/24",
+      "45.42.173.0/24"
+    ],
     "ipv6": [
+      "2602:f922::/47",
+      "2602:f922:f4::/46",
       "2602:f922:ff::/48"
     ]
   }

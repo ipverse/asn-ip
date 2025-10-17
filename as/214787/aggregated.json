@@ -3,7 +3,9 @@
   "handle": "BITRIVER-B-AS",
   "description": "Bitriver-B LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.142.45.0/24"
+    ],
     "ipv6": []
   }
 }
