@@ -3,7 +3,9 @@
   "handle": "OXYAHGC-01",
   "description": "oXya Corporation",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "209.251.236.0/23"
+    ],
     "ipv6": []
   }
 }

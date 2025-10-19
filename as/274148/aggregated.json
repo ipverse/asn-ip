@@ -4,7 +4,8 @@
   "description": "GRUPO INFINITI SOCIEDAD ANONIMA CERRADA",
   "subnets": {
     "ipv4": [
-      "38.19.53.0/24"
+      "38.19.53.0/24",
+      "38.56.213.0/24"
     ],
     "ipv6": []
   }

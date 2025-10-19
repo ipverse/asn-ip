@@ -4,6 +4,7 @@
   "description": "TELFO SERVICO DE TELECOMUNICACOES LTDA",
   "subnets": {
     "ipv4": [
+      "138.255.64.0/22",
       "170.150.200.0/22"
     ],
     "ipv6": [

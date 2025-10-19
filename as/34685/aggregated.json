@@ -1,9 +1,11 @@
 {
   "asn": 34685,
-  "handle": "XOVO",
+  "handle": "XOVO-AS",
   "description": "Anders \u0026 Ganz GmbH",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a01:7f0::/32"
+    ]
   }
 }

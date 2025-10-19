@@ -1,0 +1,11 @@
+{
+  "asn": 208100,
+  "handle": "RPOWER",
+  "description": "R.Power S.A",
+  "subnets": {
+    "ipv4": [
+      "185.104.154.0/24"
+    ],
+    "ipv6": []
+  }
+}

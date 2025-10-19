@@ -3,7 +3,9 @@
   "handle": "STARBOARD",
   "description": "Starboard Networks LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "131.143.100.0/22"
+    ],
     "ipv6": [
       "2602:f860::/40"
     ]

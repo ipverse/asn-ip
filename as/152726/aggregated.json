@@ -4,6 +4,8 @@
   "description": "Dream Engineering",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2001:df3:bec0::/48"
+    ]
   }
 }

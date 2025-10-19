@@ -3,9 +3,7 @@
   "handle": "EDM-AS",
   "description": "EDM - Electricidade de Moçambique E.P",
   "subnets": {
-    "ipv4": [
-      "160.19.190.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

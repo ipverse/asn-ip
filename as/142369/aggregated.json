@@ -4,7 +4,6 @@
   "description": "PT Mega Data Akses",
   "subnets": {
     "ipv4": [
-      "103.14.2.0/24",
       "103.170.115.0/24"
     ],
     "ipv6": [

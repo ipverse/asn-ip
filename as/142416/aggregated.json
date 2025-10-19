@@ -3,7 +3,9 @@
   "handle": "ITIVITI-AS-AP",
   "description": "Itiviti Philippines Inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.168.17.0/24"
+    ],
     "ipv6": []
   }
 }

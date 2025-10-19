@@ -3,7 +3,9 @@
   "handle": "CONECT-HOST",
   "description": "Conect Host LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "66.92.4.0/23"
+    ],
     "ipv6": [
       "2804:8284:1100::/47"
     ]
