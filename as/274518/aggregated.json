@@ -3,7 +3,9 @@
   "handle": "NEWFRONT-SOLUCOES-EM-CLOUD-TI",
   "description": "NEWFRONT SOLUCOES EM CLOUD E TI",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.6.119.0/24"
+    ],
     "ipv6": [
       "2804:957c::/32"
     ]

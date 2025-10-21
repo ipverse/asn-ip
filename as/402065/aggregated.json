@@ -1,0 +1,13 @@
+{
+  "asn": 402065,
+  "handle": "QVQNETWORK",
+  "description": "QVQNETWORK LLC",
+  "subnets": {
+    "ipv4": [
+      "68.232.100.0/24"
+    ],
+    "ipv6": [
+      "2607:8cc0:2333::/48"
+    ]
+  }
+}

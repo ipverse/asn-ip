@@ -4,8 +4,7 @@
   "description": "WIX TELECOM DO BRASIL LTDA",
   "subnets": {
     "ipv4": [
-      "190.184.216.0/22",
-      "201.49.225.0/24"
+      "190.184.216.0/22"
     ],
     "ipv6": [
       "2804:741c::/32"

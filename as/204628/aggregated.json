@@ -3,7 +3,9 @@
   "handle": "AS-NETWORK-SERVICE",
   "description": "Valor Information Technologies S.L",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "131.161.201.0/24"
+    ],
     "ipv6": [
       "2001:4030::/32"
     ]

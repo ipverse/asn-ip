@@ -1,0 +1,11 @@
+{
+  "asn": 395026,
+  "handle": "AS-500-RP",
+  "description": "Ring Power Corporation",
+  "subnets": {
+    "ipv4": [
+      "198.73.15.0/24"
+    ],
+    "ipv6": []
+  }
+}

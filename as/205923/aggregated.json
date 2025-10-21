@@ -3,9 +3,7 @@
   "handle": "OPTIXCOM-AS",
   "description": "Optixcom sh.p.k",
   "subnets": {
-    "ipv4": [
-      "158.173.160.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

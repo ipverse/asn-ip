@@ -3,7 +3,9 @@
   "handle": "CNE-AS-AP",
   "description": "Cambodian Network Exchange Co. Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.237.52.0/24"
+    ],
     "ipv6": []
   }
 }

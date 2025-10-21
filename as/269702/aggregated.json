@@ -4,7 +4,8 @@
   "description": "CAMPINET INTERNET VIA RADIO EIRELI",
   "subnets": {
     "ipv4": [
-      "45.190.72.0/24"
+      "45.190.72.0/24",
+      "45.190.74.0/24"
     ],
     "ipv6": [
       "2804:6894::/32"

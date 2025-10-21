@@ -1,9 +1,11 @@
 {
   "asn": 207049,
-  "handle": "GILFOYLE-ALLEN",
-  "description": "Gilfoyle Allen International Limited",
+  "handle": "TRK-ASN",
+  "description": "OOO TRK TSARSKOE SELO",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.190.36.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "ALBRO-HOLDINGS",
   "description": "Albro Holdings LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "162.142.77.0/24"
+    ],
     "ipv6": [
       "2602:f528::/40"
     ]

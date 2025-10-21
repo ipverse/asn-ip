@@ -1,0 +1,11 @@
+{
+  "asn": 401269,
+  "handle": "GREENVILLEWATER",
+  "description": "Greenville Water",
+  "subnets": {
+    "ipv4": [
+      "64.39.225.0/24"
+    ],
+    "ipv6": []
+  }
+}

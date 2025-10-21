@@ -1,9 +1,11 @@
 {
   "asn": 57399,
-  "handle": "RESERVED",
-  "description": "RIPE NCC ASN block",
+  "handle": "PATHCONNECT",
+  "description": "Joey Julian Koenig",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a12:79c0:f000::/36"
+    ]
   }
 }

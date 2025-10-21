@@ -3,9 +3,7 @@
   "handle": "OPENWAVEX-AS-AP",
   "description": "OpenWaveX LLC",
   "subnets": {
-    "ipv4": [
-      "43.250.127.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

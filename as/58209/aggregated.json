@@ -4,6 +4,7 @@
   "description": "Murat Terzioglu trading as PREBITS",
   "subnets": {
     "ipv4": [
+      "194.117.92.0/24",
       "217.18.81.0/24"
     ],
     "ipv6": [

@@ -3,9 +3,7 @@
   "handle": "IPLINKNETWORK-AS-AP",
   "description": "IP Link network",
   "subnets": {
-    "ipv4": [
-      "157.10.29.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

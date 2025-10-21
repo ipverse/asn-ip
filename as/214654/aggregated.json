@@ -4,6 +4,8 @@
   "description": "DEADLINE MASTER LTD",
   "subnets": {
     "ipv4": [
+      "82.25.37.0/24",
+      "109.122.26.0/24",
       "140.99.47.0/24"
     ],
     "ipv6": []
