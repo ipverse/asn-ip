@@ -3,7 +3,9 @@
   "handle": "PORTAO-NET-TELECOMUNICACOES",
   "description": "Portao Net Telecomunicações LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.165.48.0/22"
+    ],
     "ipv6": [
       "2804:548c::/32"
     ]

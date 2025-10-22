@@ -1,0 +1,13 @@
+{
+  "asn": 203207,
+  "handle": "HINT-AS",
+  "description": "Hennig Infrastruktur Technologie GmbH",
+  "subnets": {
+    "ipv4": [
+      "185.142.108.0/22"
+    ],
+    "ipv6": [
+      "2a07:2c80::/29"
+    ]
+  }
+}

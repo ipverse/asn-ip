@@ -3,9 +3,7 @@
   "handle": "TELX-DALLAS",
   "description": "Telx",
   "subnets": {
-    "ipv4": [
-      "192.235.110.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

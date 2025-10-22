@@ -3,7 +3,9 @@
   "handle": "VELOCIDADENET-TELECOM",
   "description": "velocidade.net telecom ltda",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.175.86.0/23"
+    ],
     "ipv6": [
       "2804:95e0::/32"
     ]

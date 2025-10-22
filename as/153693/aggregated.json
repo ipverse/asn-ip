@@ -3,7 +3,9 @@
   "handle": "IDNIC-POLDAJATENG-AS-ID",
   "description": "Kepolisian Daerah Jawa Tengah",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "163.223.25.0/24"
+    ],
     "ipv6": []
   }
 }

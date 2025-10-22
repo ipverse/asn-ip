@@ -1,0 +1,11 @@
+{
+  "asn": 274533,
+  "handle": "FIBRA-100-TELECON",
+  "description": "Fibra 100 Telecon",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2804:959c::/32"
+    ]
+  }
+}

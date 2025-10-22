@@ -3,12 +3,7 @@
   "handle": "TECHNO1-AS-AP",
   "description": "Techno One Line",
   "subnets": {
-    "ipv4": [
-      "103.98.204.0/22"
-    ],
-    "ipv6": [
-      "2401:9f40::/45",
-      "2401:9f40:8::/47"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

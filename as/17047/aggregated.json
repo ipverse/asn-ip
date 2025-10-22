@@ -3,9 +3,7 @@
   "handle": "CENTURYLINK-CENTURYTELECOMM",
   "description": "CenturyLink Communications LLC",
   "subnets": {
-    "ipv4": [
-      "208.145.0.0/16"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

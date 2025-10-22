@@ -3,10 +3,7 @@
   "handle": "TECNOLOGIA-PRESENTE-18-CA",
   "description": "Tecnologia del Presente 18 C.A",
   "subnets": {
-    "ipv4": [
-      "38.57.124.0/22",
-      "38.254.112.0/22"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

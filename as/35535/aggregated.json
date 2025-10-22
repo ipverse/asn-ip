@@ -3,7 +3,9 @@
   "handle": "VPB-AS",
   "description": "Verwaltungs- und Privat Bank AG",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "80.241.112.0/20"
+    ],
     "ipv6": []
   }
 }

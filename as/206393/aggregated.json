@@ -3,10 +3,7 @@
   "handle": "UMEAENERI",
   "description": "Umea Energi AB",
   "subnets": {
-    "ipv4": [
-      "193.180.5.0/24",
-      "193.180.6.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

@@ -1,9 +1,11 @@
 {
   "asn": 62349,
-  "handle": "VLAYER",
-  "description": "Netrouting B.V.",
+  "handle": "VLAYER-AS",
+  "description": "Netrouting B.V",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "23.188.21.0/24"
+    ],
     "ipv6": []
   }
 }
