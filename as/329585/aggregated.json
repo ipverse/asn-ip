@@ -3,9 +3,7 @@
   "handle": "SOLID-FIBRE",
   "description": "Solid Fibre Pty Ltd",
   "subnets": {
-    "ipv4": [
-      "102.205.76.0/22"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

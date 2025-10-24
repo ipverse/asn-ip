@@ -1,0 +1,11 @@
+{
+  "asn": 402041,
+  "handle": "ASN-FIBERFED-GEO1",
+  "description": "Trinity Network Solutions",
+  "subnets": {
+    "ipv4": [
+      "66.59.202.0/24"
+    ],
+    "ipv6": []
+  }
+}

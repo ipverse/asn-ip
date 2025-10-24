@@ -3,10 +3,7 @@
   "handle": "CITYFIBER",
   "description": "CITY FIBER SL",
   "subnets": {
-    "ipv4": [
-      "45.14.248.0/22",
-      "185.157.184.0/22"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

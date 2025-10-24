@@ -3,9 +3,7 @@
   "handle": "IFRA-AS-AP",
   "description": "IFRA ENTERPRISE",
   "subnets": {
-    "ipv4": [
-      "103.110.126.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

@@ -1,0 +1,11 @@
+{
+  "asn": 209724,
+  "handle": "FOCONIS-AS",
+  "description": "Foconis Payment GmbH",
+  "subnets": {
+    "ipv4": [
+      "212.32.64.0/24"
+    ],
+    "ipv6": []
+  }
+}

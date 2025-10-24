@@ -4,9 +4,6 @@
   "description": "CONTRUST SOLUTIONS S.R.L",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2a07:7880::/29",
-      "2a09:b700::/29"
-    ]
+    "ipv6": []
   }
 }

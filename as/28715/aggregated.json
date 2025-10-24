@@ -4,7 +4,7 @@
   "description": "Brass Horn Communications",
   "subnets": {
     "ipv4": [
-      "185.104.120.0/23"
+      "185.104.120.0/24"
     ],
     "ipv6": [
       "2a06:3000::/29"

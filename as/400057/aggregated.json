@@ -3,9 +3,7 @@
   "handle": "UPSTATE-NIAGARA-COOP-2021",
   "description": "Upstate Niagara Cooperatives",
   "subnets": {
-    "ipv4": [
-      "66.193.23.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

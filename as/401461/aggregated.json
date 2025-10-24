@@ -3,7 +3,9 @@
   "handle": "ACCELERATE",
   "description": "Accelerate Networks LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "142.249.4.0/22"
+    ],
     "ipv6": [
       "2602:f7b4::/40"
     ]

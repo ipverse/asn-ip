@@ -4,7 +4,8 @@
   "description": "TELECOMUNICACIONES MANTENIMIENTO Y SERVICIOS P\u0026C C.A",
   "subnets": {
     "ipv4": [
-      "38.3.192.0/20",
+      "38.3.192.0/23",
+      "38.3.195.0/24",
       "179.0.104.0/22"
     ],
     "ipv6": [

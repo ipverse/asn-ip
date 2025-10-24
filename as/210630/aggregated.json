@@ -3,11 +3,7 @@
   "handle": "INTERNET-SPEECH-AND-PRIVACY",
   "description": "IncogNET LLC",
   "subnets": {
-    "ipv4": [
-      "23.137.254.0/24"
-    ],
-    "ipv6": [
-      "2602:fc24:10::/48"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

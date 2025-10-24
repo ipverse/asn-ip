@@ -1,6 +1,6 @@
 {
   "asn": 401418,
-  "handle": "FARDA-IX-LINK",
+  "handle": "IPLINK",
   "description": "Red Team LTD",
   "subnets": {
     "ipv4": [
@@ -11,8 +11,7 @@
       "207.244.208.0/24"
     ],
     "ipv6": [
-      "2602:f7d0::/48",
-      "2602:f7d2::/48"
+      "2602:f7d0::/48"
     ]
   }
 }

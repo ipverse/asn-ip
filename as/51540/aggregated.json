@@ -4,6 +4,7 @@
   "description": "DAL Bilgi Teknolojileri ve Bilisim Sistemleri Ticaret A.S",
   "subnets": {
     "ipv4": [
+      "31.210.44.0/24",
       "46.31.144.0/21",
       "78.135.84.0/24",
       "78.135.99.0/24",

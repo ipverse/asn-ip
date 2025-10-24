@@ -3,7 +3,9 @@
   "handle": "UEPL-NET-AS-AP",
   "description": "United Energy Pakistan Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "160.187.6.0/24"
+    ],
     "ipv6": []
   }
 }

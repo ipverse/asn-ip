@@ -1,7 +1,11 @@
 {
   "asn": 398860,
+  "handle": "OPTIDATA-US1",
+  "description": "OPTIDATA CLOUD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.46.150.0/24"
+    ],
     "ipv6": []
   }
 }

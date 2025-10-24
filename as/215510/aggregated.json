@@ -4,6 +4,7 @@
   "description": "ufdroht.net - Internet Service GmbH",
   "subnets": {
     "ipv4": [
+      "185.210.225.0/24",
       "185.238.139.0/24"
     ],
     "ipv6": [

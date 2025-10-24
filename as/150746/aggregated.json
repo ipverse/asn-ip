@@ -3,10 +3,7 @@
   "handle": "SML-AS-AP",
   "description": "SEEING MACHINES PTY LTD",
   "subnets": {
-    "ipv4": [
-      "157.15.138.0/24",
-      "202.9.83.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

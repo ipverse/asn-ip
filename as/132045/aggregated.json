@@ -3,10 +3,7 @@
   "handle": "DIALOG-LK",
   "description": "Dialog Axiata Plc",
   "subnets": {
-    "ipv4": [
-      "203.153.220.0/24",
-      "223.224.22.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

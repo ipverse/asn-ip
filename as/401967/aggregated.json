@@ -1,0 +1,11 @@
+{
+  "asn": 401967,
+  "handle": "EDGE-1",
+  "description": "Edge Internet Services Inc",
+  "subnets": {
+    "ipv4": [
+      "69.9.170.0/23"
+    ],
+    "ipv6": []
+  }
+}

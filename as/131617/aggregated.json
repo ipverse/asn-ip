@@ -3,9 +3,7 @@
   "handle": "CENTROID-NET",
   "description": "Centroid Networking Co. Ltd. desc: 7F.-3 NO.119 SEC. 2 MINSHENG E. RD. ZHONGSHAN DIST.",
   "subnets": {
-    "ipv4": [
-      "103.104.148.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

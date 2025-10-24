@@ -1,12 +1,9 @@
 {
   "asn": 208051,
-  "handle": "HAMBSD",
+  "handle": "SR2COM",
   "description": "SR2 Communications Limited",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2001:678:b34::/48",
-      "2a11:f2c0:ffe0::/44"
-    ]
+    "ipv6": []
   }
 }

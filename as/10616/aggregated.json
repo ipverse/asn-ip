@@ -4,7 +4,8 @@
   "description": "National Oceanic and Atmospheric Administration",
   "subnets": {
     "ipv4": [
-      "204.193.224.0/21"
+      "204.193.224.0/23",
+      "204.193.228.0/22"
     ],
     "ipv6": [
       "2610:20:1000::/40"
