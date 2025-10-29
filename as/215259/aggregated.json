@@ -3,7 +3,9 @@
   "handle": "EVOTOROFD-AS",
   "description": "Evotor OFD LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.3.180.0/24"
+    ],
     "ipv6": []
   }
 }

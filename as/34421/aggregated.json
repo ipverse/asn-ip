@@ -3,7 +3,9 @@
   "handle": "AS34421",
   "description": "Telecom Media Systems LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "77.94.47.0/24"
+    ],
     "ipv6": []
   }
 }

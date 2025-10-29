@@ -4,7 +4,8 @@
   "description": "Jink Hosting LLC",
   "subnets": {
     "ipv4": [
-      "5.231.58.0/24"
+      "5.231.58.0/24",
+      "5.231.61.0/24"
     ],
     "ipv6": []
   }

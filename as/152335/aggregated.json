@@ -4,7 +4,8 @@
   "description": "CONVERGE INFORMATION AND COMMUNICATIONS TECHNOLOGY SOLUTIONS INC",
   "subnets": {
     "ipv4": [
-      "143.9.0.0/23"
+      "143.9.0.0/23",
+      "143.9.4.0/22"
     ],
     "ipv6": []
   }

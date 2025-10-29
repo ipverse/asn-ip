@@ -4,7 +4,8 @@
   "description": "GODOY LUIS ALBERTO",
   "subnets": {
     "ipv4": [
-      "45.224.28.0/22"
+      "45.224.28.0/23",
+      "45.224.30.0/24"
     ],
     "ipv6": []
   }

@@ -3,7 +3,9 @@
   "handle": "ASBURYINTEGRATEDTECHNOLOGIES",
   "description": "The Asbury Group Integrated Technologies LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.167.243.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,9 +3,7 @@
   "handle": "SMTLB-AS",
   "description": "StormWall s.r.o",
   "subnets": {
-    "ipv4": [
-      "45.12.71.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

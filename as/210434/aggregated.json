@@ -1,9 +1,11 @@
 {
   "asn": 210434,
-  "handle": "HIZAKURA-UK",
-  "description": "Hizakura Limited",
+  "handle": "AS-NETS360",
+  "description": "nets360 OU",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2001:67c:16cc::/48"
+    ]
   }
 }

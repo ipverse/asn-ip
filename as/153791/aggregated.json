@@ -4,6 +4,7 @@
   "description": "Netbay Hosting Solutions",
   "subnets": {
     "ipv4": [
+      "160.191.185.0/24",
       "163.227.111.0/24"
     ],
     "ipv6": []

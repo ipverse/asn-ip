@@ -3,7 +3,9 @@
   "handle": "SBV-AS-VN",
   "description": "Department of Infomatic - The State Bank of Viet Nam",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "202.58.245.0/24"
+    ],
     "ipv6": []
   }
 }

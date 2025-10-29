@@ -4,6 +4,7 @@
   "description": "Visão Datacenter LTDA",
   "subnets": {
     "ipv4": [
+      "82.39.244.0/24",
       "89.117.25.0/24",
       "92.112.60.0/24"
     ],

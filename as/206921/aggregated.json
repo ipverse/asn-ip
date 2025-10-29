@@ -3,9 +3,7 @@
   "handle": "LAZENTIS-BV",
   "description": "Lazentis B.V",
   "subnets": {
-    "ipv4": [
-      "151.240.10.0/24"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2a0f:85c1:c68::/48"
     ]

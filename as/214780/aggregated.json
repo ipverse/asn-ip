@@ -4,7 +4,8 @@
   "description": "KuzbasSvyazUgol LLC",
   "subnets": {
     "ipv4": [
-      "94.127.88.0/22"
+      "94.127.88.0/22",
+      "193.164.130.0/24"
     ],
     "ipv6": []
   }

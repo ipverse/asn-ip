@@ -3,9 +3,7 @@
   "handle": "NC-SERVICOS-TELECOMUNICACOES",
   "description": "NC SERVICOS E TELECOMUNICACOES LTDA",
   "subnets": {
-    "ipv4": [
-      "151.244.245.0/24"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2804:8f48::/32"
     ]

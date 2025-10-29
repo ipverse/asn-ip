@@ -1,9 +1,11 @@
 {
   "asn": 328357,
-  "handle": "CASTELNET",
+  "handle": "CASTELNET-AS",
   "description": "Castlenet Consulting Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "102.131.36.0/23"
+    ],
     "ipv6": []
   }
 }

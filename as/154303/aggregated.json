@@ -3,7 +3,9 @@
   "handle": "IDNIC-PTDIKA-ID",
   "description": "PT Danamas Insan Kreasi Andalan",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "160.25.202.0/24"
+    ],
     "ipv6": []
   }
 }

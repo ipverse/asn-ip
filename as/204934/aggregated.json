@@ -3,7 +3,9 @@
   "handle": "ICN-DE",
   "description": "InnoCrystal Co. Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "188.68.64.0/20"
+    ],
     "ipv6": [
       "2a0a:f480::/32",
       "2a0a:f487::/32"
