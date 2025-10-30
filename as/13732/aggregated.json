@@ -1,0 +1,11 @@
+{
+  "asn": 13732,
+  "handle": "CELLNET-COMM-01",
+  "description": "CellNet Communications",
+  "subnets": {
+    "ipv4": [
+      "23.147.244.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -4,7 +4,8 @@
   "description": "CONTINUY SERVICOS EM TECNOLOGIA DA INFORMACAO LTDA",
   "subnets": {
     "ipv4": [
-      "201.7.208.0/22"
+      "201.7.208.0/24",
+      "201.7.210.0/23"
     ],
     "ipv6": []
   }

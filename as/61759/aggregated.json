@@ -4,10 +4,8 @@
   "description": "BIASUS E BIASUS LTDA - ME",
   "subnets": {
     "ipv4": [
-      "131.100.80.0/22"
+      "131.100.82.0/23"
     ],
-    "ipv6": [
-      "2804:1bf4::/32"
-    ]
+    "ipv6": []
   }
 }

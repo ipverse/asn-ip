@@ -4,8 +4,10 @@
   "description": "FIBER NETWORK DEL SUR",
   "subnets": {
     "ipv4": [
-      "185.75.14.0/23"
+      "185.75.15.0/24"
     ],
-    "ipv6": []
+    "ipv6": [
+      "2803:7210:f9b1::/48"
+    ]
   }
 }

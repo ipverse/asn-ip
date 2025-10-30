@@ -1,0 +1,11 @@
+{
+  "asn": 216378,
+  "handle": "NETGATE-COMUNICATIONS-AS",
+  "description": "Net Gate Telecom S.R.L",
+  "subnets": {
+    "ipv4": [
+      "206.123.136.0/24"
+    ],
+    "ipv6": []
+  }
+}

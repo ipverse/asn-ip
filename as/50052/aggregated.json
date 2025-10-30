@@ -3,7 +3,9 @@
   "handle": "TORA-AS",
   "description": "TORANET LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.178.30.0/23"
+    ],
     "ipv6": []
   }
 }

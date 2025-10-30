@@ -3,9 +3,7 @@
   "handle": "IDNIC-ACP-AS-ID",
   "description": "PT Adhikarya Cipta Persada",
   "subnets": {
-    "ipv4": [
-      "103.147.253.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

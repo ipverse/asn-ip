@@ -3,9 +3,7 @@
   "handle": "WEBBY-ISP",
   "description": "Webby Enterprises LLC",
   "subnets": {
-    "ipv4": [
-      "206.81.111.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

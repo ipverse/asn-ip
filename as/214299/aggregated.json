@@ -3,7 +3,9 @@
   "handle": "GEEKCLOUD",
   "description": "GeekCloud Sp. z o.o",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "89.106.72.0/24"
+    ],
     "ipv6": []
   }
 }

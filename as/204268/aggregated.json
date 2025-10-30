@@ -1,9 +1,11 @@
 {
   "asn": 204268,
-  "handle": "HIGHCLOUD",
-  "description": "Bruno Emanuel Pereira Pinto Silva",
+  "handle": "HOENE-IT",
+  "description": "Christian Hoene",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a0c:b641:5e0::/48"
+    ]
   }
 }

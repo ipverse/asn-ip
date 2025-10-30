@@ -4,7 +4,8 @@
   "description": "Hala Networks Limited",
   "subnets": {
     "ipv4": [
-      "45.145.241.0/24"
+      "45.145.241.0/24",
+      "140.150.224.0/23"
     ],
     "ipv6": []
   }

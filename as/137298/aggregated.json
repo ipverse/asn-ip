@@ -3,7 +3,10 @@
   "handle": "GIRADIA-AS-ID",
   "description": "PT Pelangi Nusantara Multimedia",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.107.145.0/24",
+      "103.107.146.0/23"
+    ],
     "ipv6": []
   }
 }

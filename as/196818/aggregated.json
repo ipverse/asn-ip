@@ -1,9 +1,13 @@
 {
   "asn": 196818,
-  "handle": "NORDISKPOLSKA",
-  "description": "Polkomtel Sp. z o.o.",
+  "handle": "NORDISKPOLSKA-AS",
+  "description": "Polkomtel Sp. z o.o",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "37.202.32.0/21",
+      "37.202.40.0/22",
+      "37.202.46.0/23"
+    ],
     "ipv6": []
   }
 }

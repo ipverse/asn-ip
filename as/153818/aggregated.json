@@ -3,7 +3,9 @@
   "handle": "IDNIC-MARAJADIGITALNUSANTARA-ID",
   "description": "PT MARAJA DIGITAL NUSANTARA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "163.227.139.0/24"
+    ],
     "ipv6": []
   }
 }

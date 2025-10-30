@@ -1,9 +1,11 @@
 {
   "asn": 54740,
-  "handle": "ASIS12ASHBURN",
-  "description": "ASIS International",
+  "handle": "DYNAWEB",
+  "description": "Dynaweb Foundation",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "130.12.20.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -1,0 +1,11 @@
+{
+  "asn": 154255,
+  "handle": "ISOC-AS-AP",
+  "description": "Internal Security Operations Command",
+  "subnets": {
+    "ipv4": [
+      "182.161.50.0/23"
+    ],
+    "ipv6": []
+  }
+}

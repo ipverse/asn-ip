@@ -3,11 +3,7 @@
   "handle": "BEYONDFIBRE",
   "description": "Beyond Fibre Ltd",
   "subnets": {
-    "ipv4": [
-      "83.167.188.0/23"
-    ],
-    "ipv6": [
-      "2a14:a100::/29"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

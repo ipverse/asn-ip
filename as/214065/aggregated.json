@@ -3,7 +3,9 @@
   "handle": "IITEU-ASN-X",
   "description": "Daramic SAS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.206.255.0/24"
+    ],
     "ipv6": []
   }
 }
