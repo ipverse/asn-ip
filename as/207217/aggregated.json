@@ -1,9 +1,11 @@
 {
   "asn": 207217,
-  "handle": "HT",
+  "handle": "HAWE",
   "description": "Hawe Telekom S.A. in Restructuring",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "78.159.93.0/24"
+    ],
     "ipv6": []
   }
 }

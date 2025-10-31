@@ -4,8 +4,6 @@
   "description": "HA VAN HOANG",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2403:ad80:5020::/48"
-    ]
+    "ipv6": []
   }
 }

@@ -4,6 +4,8 @@
   "description": "ADVANCED WIRELESS NETWORK COMPANY LIMITED",
   "subnets": {
     "ipv4": [
+      "14.207.160.0/24",
+      "14.207.163.0/24",
       "49.0.64.0/19",
       "49.228.0.0/16",
       "49.229.100.0/23",

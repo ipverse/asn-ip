@@ -4,7 +4,8 @@
   "description": "Bridgewater College",
   "subnets": {
     "ipv4": [
-      "147.138.0.0/16"
+      "147.138.0.0/17",
+      "147.138.128.0/18"
     ],
     "ipv6": []
   }

@@ -1,9 +1,12 @@
 {
   "asn": 40887,
   "handle": "TGNA-WZZM",
-  "description": "TEGNA Inc.",
+  "description": "TEGNA Inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "167.8.18.0/24",
+      "167.8.48.0/24"
+    ],
     "ipv6": []
   }
 }

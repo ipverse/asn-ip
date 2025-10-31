@@ -3,10 +3,7 @@
   "handle": "ERCAN-ALCAM",
   "description": "Ercan Alacam",
   "subnets": {
-    "ipv4": [
-      "151.242.52.0/24",
-      "212.100.185.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

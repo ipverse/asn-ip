@@ -1,0 +1,11 @@
+{
+  "asn": 151497,
+  "handle": "IA-AS-AP",
+  "description": "Imaging Associates",
+  "subnets": {
+    "ipv4": [
+      "138.252.90.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -3,7 +3,9 @@
   "handle": "REHEDMAS-INTERNET-PARA",
   "description": "REHEDMAS INTERNET PARA TODOS S.A. DE C.V",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.22.182.0/24"
+    ],
     "ipv6": [
       "2806:42a::/48"
     ]

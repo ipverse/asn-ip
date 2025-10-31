@@ -3,7 +3,9 @@
   "handle": "JUNDISHAPUR",
   "description": "Ahvaz Jundishapur University of Medical Sciences",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "5.56.128.0/22"
+    ],
     "ipv6": []
   }
 }

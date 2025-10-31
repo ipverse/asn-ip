@@ -1,9 +1,11 @@
 {
   "asn": 204829,
-  "handle": "RESERVED",
-  "description": "RIPE NCC ASN block",
+  "handle": "ASONET",
+  "description": "Onet Group Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.66.55.0/24"
+    ],
     "ipv6": []
   }
 }

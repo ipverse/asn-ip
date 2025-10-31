@@ -3,10 +3,7 @@
   "handle": "HAWKCOMM",
   "description": "Hawk Communications LLC",
   "subnets": {
-    "ipv4": [
-      "65.38.224.0/21",
-      "65.38.240.0/20"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

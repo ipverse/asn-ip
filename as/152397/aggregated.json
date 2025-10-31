@@ -3,11 +3,7 @@
   "handle": "IDNIC-NIP-AS-ID",
   "description": "Nex+",
   "subnets": {
-    "ipv4": [
-      "157.15.122.0/23"
-    ],
-    "ipv6": [
-      "2001:df4:86c0::/48"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

@@ -3,7 +3,12 @@
   "handle": "JOSUE-ROMERO-SALAZAR",
   "description": "Josue Romero Salazar",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "190.93.107.0/24",
+      "194.32.113.0/24"
+    ],
+    "ipv6": [
+      "2806:42d::/32"
+    ]
   }
 }

@@ -4,6 +4,7 @@
   "description": "E.ON Digital Technology GmbH",
   "subnets": {
     "ipv4": [
+      "153.100.8.0/24",
       "193.26.56.0/21"
     ],
     "ipv6": []

@@ -1,0 +1,11 @@
+{
+  "asn": 402084,
+  "handle": "AES-LLC-01",
+  "description": "AES Services LLC",
+  "subnets": {
+    "ipv4": [
+      "142.249.31.0/24"
+    ],
+    "ipv6": []
+  }
+}

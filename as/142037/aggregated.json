@@ -3,9 +3,7 @@
   "handle": "JBI-AS-AP",
   "description": "Janany Broadband Internet",
   "subnets": {
-    "ipv4": [
-      "103.165.92.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

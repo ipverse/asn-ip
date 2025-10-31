@@ -4,7 +4,8 @@
   "description": "Intersec Maciej Jan Broniarz",
   "subnets": {
     "ipv4": [
-      "91.192.224.0/24"
+      "91.192.224.0/24",
+      "193.3.166.0/24"
     ],
     "ipv6": []
   }

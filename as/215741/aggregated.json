@@ -4,6 +4,7 @@
   "description": "detacon GmbH",
   "subnets": {
     "ipv4": [
+      "143.14.141.0/24",
       "151.240.27.0/24"
     ],
     "ipv6": []

@@ -1,9 +1,11 @@
 {
   "asn": 211577,
-  "handle": "RESERVED",
-  "description": "RIPE NCC ASN block",
+  "handle": "WIRENETLIMITED",
+  "description": "WIRENET LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "82.129.4.0/24"
+    ],
     "ipv6": []
   }
 }

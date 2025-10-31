@@ -1,0 +1,11 @@
+{
+  "asn": 272319,
+  "handle": "SECRETARIA-SEGURIDAD-PROTECCION",
+  "description": "SECRETARIA DE SEGURIDAD Y PROTECCION CIUDADANA SERVICIO DE PROTECCION FEDERAL",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2801:c4:25e::/48"
+    ]
+  }
+}

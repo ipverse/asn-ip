@@ -1,0 +1,11 @@
+{
+  "asn": 28456,
+  "handle": "COLEGIO-POSTGRADUADOS",
+  "description": "Colegio de Postgraduados",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2801:c4:a5::/48"
+    ]
+  }
+}

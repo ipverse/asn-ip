@@ -3,7 +3,9 @@
   "handle": "TSSB-AS-AP",
   "description": "TeamCloud Solution Sdn Bhd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "202.176.7.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -4,6 +4,7 @@
   "description": "PT Lintas Data Internasional",
   "subnets": {
     "ipv4": [
+      "103.112.138.0/24",
       "163.227.86.0/24"
     ],
     "ipv6": [
