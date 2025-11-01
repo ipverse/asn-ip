@@ -4,7 +4,8 @@
   "description": "Jp Speedynet Servicos de Comunicacao LTDA",
   "subnets": {
     "ipv4": [
-      "45.65.216.0/22"
+      "45.65.216.0/24",
+      "45.65.219.0/24"
     ],
     "ipv6": [
       "2804:803c::/32"

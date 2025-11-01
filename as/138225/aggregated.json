@@ -3,7 +3,9 @@
   "handle": "ONEEIGHT-AS-IN",
   "description": "One Eight Technologies Private Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "157.10.13.0/24"
+    ],
     "ipv6": []
   }
 }

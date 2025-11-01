@@ -3,7 +3,9 @@
   "handle": "QEMUGEN-CLOUD",
   "description": "Valor Information Technologies S.L",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "94.198.46.0/24"
+    ],
     "ipv6": [
       "2a0a:e9c5::/32"
     ]

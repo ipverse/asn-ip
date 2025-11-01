@@ -1,9 +1,11 @@
 {
   "asn": 19790,
-  "handle": "STREAMLINEHEALTH",
-  "description": "Streamline Health, Inc.",
+  "handle": "ASPIRE-BB-AS01",
+  "description": "Aspire Broadband LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "23.148.36.0/24"
+    ],
     "ipv6": []
   }
 }

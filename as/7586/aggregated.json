@@ -3,9 +3,7 @@
   "handle": "CLOUDFORTIT-AS-AP",
   "description": "Cloudfort IT",
   "subnets": {
-    "ipv4": [
-      "103.177.44.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

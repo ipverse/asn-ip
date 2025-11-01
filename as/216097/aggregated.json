@@ -3,9 +3,7 @@
   "handle": "MOVIE2GO-AS",
   "description": "Stefan Gantenbein trading as Movie2Go Inh. Gantenbein",
   "subnets": {
-    "ipv4": [
-      "185.188.18.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

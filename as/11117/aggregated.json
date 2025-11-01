@@ -3,7 +3,10 @@
   "handle": "NUYEK",
   "description": "Nuyek LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "23.171.8.0/23",
+      "209.205.228.0/24"
+    ],
     "ipv6": [
       "2602:f9ab::/36"
     ]

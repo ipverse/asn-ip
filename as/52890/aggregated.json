@@ -4,7 +4,8 @@
   "description": "Centro Integrado de Telemática do Exército",
   "subnets": {
     "ipv4": [
-      "177.8.80.0/20"
+      "177.8.80.0/20",
+      "189.38.71.0/24"
     ],
     "ipv6": [
       "2804:1f18::/32"

@@ -3,10 +3,7 @@
   "handle": "OLIMJONTELECOM-AS",
   "description": "Samtelecom LLC",
   "subnets": {
-    "ipv4": [
-      "194.32.99.0/24",
-      "194.213.16.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

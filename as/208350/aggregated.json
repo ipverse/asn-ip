@@ -3,7 +3,9 @@
   "handle": "GAMSJAEGER-WIEN",
   "description": "Gamsjaeger Kabel-TV \u0026 ISP Betriebs GmbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.135.18.0/24"
+    ],
     "ipv6": []
   }
 }

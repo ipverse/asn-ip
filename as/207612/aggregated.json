@@ -3,7 +3,9 @@
   "handle": "XTT",
   "description": "XTT Ltd Co. LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "143.20.131.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "IDNIC-MAESANET-AS-ID",
   "description": "PT Maesa Nusantara Indonesia",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.71.25.0/24"
+    ],
     "ipv6": []
   }
 }

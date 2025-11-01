@@ -4,8 +4,7 @@
   "description": "EDILSON SANTOS SILVA SOBRINHO - ME",
   "subnets": {
     "ipv4": [
-      "177.23.160.0/23",
-      "177.23.162.0/24",
+      "177.23.160.0/22",
       "177.23.166.0/23"
     ],
     "ipv6": [

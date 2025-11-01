@@ -3,7 +3,9 @@
   "handle": "AVSISP",
   "description": "ANDREW KRISTULI",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "85.155.228.0/24"
+    ],
     "ipv6": [
       "2a0a:79c7:f200::/40",
       "2a0a:79c7:f500::/40",

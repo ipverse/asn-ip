@@ -3,7 +3,9 @@
   "handle": "REPOXLABS",
   "description": "Repox Labs Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.49.130.0/24"
+    ],
     "ipv6": []
   }
 }

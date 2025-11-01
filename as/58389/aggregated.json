@@ -3,7 +3,9 @@
   "handle": "SDI-AS-ID",
   "description": "PT Sumber Data Indonesia",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "114.198.243.0/24"
+    ],
     "ipv6": []
   }
 }

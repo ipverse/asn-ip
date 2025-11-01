@@ -4,6 +4,7 @@
   "description": "GIGANET TELECOMUNICACOES LTDA",
   "subnets": {
     "ipv4": [
+      "45.166.157.0/24",
       "187.111.180.0/24"
     ],
     "ipv6": [

@@ -1,0 +1,11 @@
+{
+  "asn": 154196,
+  "handle": "IDNIC-TERRANET-ID",
+  "description": "PT Terra Net Indonesia",
+  "subnets": {
+    "ipv4": [
+      "203.23.52.0/24"
+    ],
+    "ipv6": []
+  }
+}

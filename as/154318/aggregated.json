@@ -1,0 +1,11 @@
+{
+  "asn": 154318,
+  "handle": "IDNIC-RAKOMEDIA-ID",
+  "description": "PT Rako Media Network",
+  "subnets": {
+    "ipv4": [
+      "138.252.50.0/24"
+    ],
+    "ipv6": []
+  }
+}

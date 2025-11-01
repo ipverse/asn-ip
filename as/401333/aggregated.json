@@ -1,0 +1,11 @@
+{
+  "asn": 401333,
+  "handle": "CERANET",
+  "description": "CeraNet Inc",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2607:d4c0::/32"
+    ]
+  }
+}

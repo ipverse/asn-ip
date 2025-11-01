@@ -4,7 +4,7 @@
   "description": "RPI PRINT INC",
   "subnets": {
     "ipv4": [
-      "206.168.168.0/24"
+      "206.168.168.0/23"
     ],
     "ipv6": []
   }

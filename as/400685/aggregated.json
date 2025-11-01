@@ -3,7 +3,9 @@
   "handle": "NAPER-AS-01",
   "description": "City of Naperville",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "64.40.22.0/24"
+    ],
     "ipv6": []
   }
 }
