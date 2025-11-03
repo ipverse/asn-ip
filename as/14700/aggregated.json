@@ -1,0 +1,11 @@
+{
+  "asn": 14700,
+  "handle": "NEXURE-AS14700",
+  "description": "Nexure Solutions LLP",
+  "subnets": {
+    "ipv4": [
+      "130.12.30.0/24"
+    ],
+    "ipv6": []
+  }
+}

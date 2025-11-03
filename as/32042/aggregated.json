@@ -1,9 +1,11 @@
 {
   "asn": 32042,
-  "handle": "VIRSTORM",
-  "description": "I FIX FOR U",
+  "handle": "EVERGATE-NETWORKS",
+  "description": "Evergate Solutions",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2602:f4e3::/48"
+    ]
   }
 }

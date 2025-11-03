@@ -3,7 +3,11 @@
   "handle": "FLEXHOSTING1-AS-AP",
   "description": "FLEXHOSTING SERVICES",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.15.156.0/23",
+      "103.243.230.0/24",
+      "163.227.89.0/24"
+    ],
     "ipv6": []
   }
 }

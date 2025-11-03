@@ -1,0 +1,11 @@
+{
+  "asn": 401790,
+  "handle": "IXLAB-ENVIROMENT",
+  "description": "West Virginia Internet Exchange",
+  "subnets": {
+    "ipv4": [
+      "149.112.88.0/24"
+    ],
+    "ipv6": []
+  }
+}

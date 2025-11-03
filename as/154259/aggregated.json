@@ -3,9 +3,7 @@
   "handle": "WRADPL-AS-AP",
   "description": "Workalaya R. And D. Private Limited",
   "subnets": {
-    "ipv4": [
-      "43.240.52.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

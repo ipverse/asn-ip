@@ -3,9 +3,7 @@
   "handle": "IDNIC-SKN-AS-ID",
   "description": "PT Sinyal Khatulistiwa Network",
   "subnets": {
-    "ipv4": [
-      "157.20.39.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

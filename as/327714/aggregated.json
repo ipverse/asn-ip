@@ -3,10 +3,7 @@
   "handle": "COMNET-TZ",
   "description": "Zanzibar Connections Company Limited",
   "subnets": {
-    "ipv4": [
-      "102.210.45.0/24",
-      "154.66.227.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

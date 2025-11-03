@@ -3,7 +3,9 @@
   "handle": "MMIX-AS-AP",
   "description": "MYANMAR INTERNET EXCHANGE ASSOCIATION INC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.103.194.0/24"
+    ],
     "ipv6": []
   }
 }

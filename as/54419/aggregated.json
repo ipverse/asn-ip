@@ -3,7 +3,9 @@
   "handle": "LIGHTPATH-PHOENIX",
   "description": "Cablevision Lightpath LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.72.68.0/24"
+    ],
     "ipv6": [
       "2606:2e80:1::/48"
     ]

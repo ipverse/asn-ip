@@ -4,6 +4,7 @@
   "description": "Sabiedriba ar ierobezotu atbildibu DELSKA Latvia",
   "subnets": {
     "ipv4": [
+      "37.203.35.0/24",
       "89.111.22.0/24",
       "89.111.25.0/24",
       "89.111.26.0/23"

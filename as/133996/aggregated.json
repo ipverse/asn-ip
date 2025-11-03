@@ -4,7 +4,8 @@
   "description": "Vaishnavaibhavi Internet Solutions Private Limited",
   "subnets": {
     "ipv4": [
-      "163.227.36.0/24"
+      "163.227.36.0/24",
+      "203.24.38.0/24"
     ],
     "ipv6": [
       "2001:df5:c940::/48"

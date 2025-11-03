@@ -3,7 +3,9 @@
   "handle": "BBG-AS",
   "description": "Burgan Bank K.P.S.C",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.233.51.0/24"
+    ],
     "ipv6": []
   }
 }
