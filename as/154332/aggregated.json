@@ -1,0 +1,11 @@
+{
+  "asn": 154332,
+  "handle": "TCORPORATION-AS-AP",
+  "description": "T-Corporation",
+  "subnets": {
+    "ipv4": [
+      "138.252.120.0/24"
+    ],
+    "ipv6": []
+  }
+}

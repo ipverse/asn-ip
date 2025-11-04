@@ -3,7 +3,9 @@
   "handle": "CERANET",
   "description": "CeraNet Inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "75.98.239.0/24"
+    ],
     "ipv6": [
       "2607:d4c0::/32"
     ]

@@ -3,7 +3,9 @@
   "handle": "VTBF-AS",
   "description": "VTB Factoring Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.151.3.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -1,0 +1,11 @@
+{
+  "asn": 401885,
+  "handle": "ERAA",
+  "description": "Edmonton International Airport",
+  "subnets": {
+    "ipv4": [
+      "23.143.188.0/24"
+    ],
+    "ipv6": []
+  }
+}

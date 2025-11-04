@@ -3,9 +3,7 @@
   "handle": "ONOFF-FR",
   "description": "ONOFF TELECOM SAS",
   "subnets": {
-    "ipv4": [
-      "154.43.36.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

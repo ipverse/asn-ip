@@ -3,10 +3,7 @@
   "handle": "CYLIX",
   "description": "Cylix Pte. Ltd",
   "subnets": {
-    "ipv4": [
-      "77.93.88.0/24",
-      "217.116.168.0/21"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

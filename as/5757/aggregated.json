@@ -3,9 +3,7 @@
   "handle": "HHSC3001",
   "description": "Halton Healthcare",
   "subnets": {
-    "ipv4": [
-      "99.214.133.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

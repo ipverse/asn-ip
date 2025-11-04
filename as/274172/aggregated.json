@@ -1,0 +1,11 @@
+{
+  "asn": 274172,
+  "handle": "OMIX",
+  "description": "OMIX SAS",
+  "subnets": {
+    "ipv4": [
+      "38.9.213.0/24"
+    ],
+    "ipv6": []
+  }
+}

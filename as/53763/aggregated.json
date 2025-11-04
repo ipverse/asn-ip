@@ -3,7 +3,11 @@
   "handle": "LAKESIDE",
   "description": "Lakeside Network LLC",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "23.164.232.0/24"
+    ],
+    "ipv6": [
+      "2602:f9f7::/40"
+    ]
   }
 }

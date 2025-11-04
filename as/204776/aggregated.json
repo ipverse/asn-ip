@@ -3,9 +3,12 @@
   "handle": "MINTOPIA",
   "description": "Jessica Smith",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "44.30.69.0/24"
+    ],
     "ipv6": [
-      "2a0f:85c1:d91::/48"
+      "2a0f:85c1:d91::/48",
+      "2a0f:b240:8100::/40"
     ]
   }
 }

@@ -1,0 +1,11 @@
+{
+  "asn": 154227,
+  "handle": "GWC-AS-AP",
+  "description": "Go Wiser Corporation",
+  "subnets": {
+    "ipv4": [
+      "203.9.195.0/24"
+    ],
+    "ipv6": []
+  }
+}

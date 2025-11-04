@@ -3,7 +3,11 @@
   "handle": "DODOMA-FIBERCO",
   "description": "Dodoma FiberCo Limited",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "102.207.232.0/22"
+    ],
+    "ipv6": [
+      "2c0f:cc0::/32"
+    ]
   }
 }

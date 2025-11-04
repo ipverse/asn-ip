@@ -3,7 +3,9 @@
   "handle": "PRIMEVOIP-AS",
   "description": "PrimeVOIP Bulgaria LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.37.40.0/24"
+    ],
     "ipv6": []
   }
 }

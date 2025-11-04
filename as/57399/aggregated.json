@@ -4,8 +4,6 @@
   "description": "PathConnect GmbH",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2a12:79c0:f000::/36"
-    ]
+    "ipv6": []
   }
 }

@@ -3,9 +3,7 @@
   "handle": "CPACTV",
   "description": "CPAC",
   "subnets": {
-    "ipv4": [
-      "99.214.130.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

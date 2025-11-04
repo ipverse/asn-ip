@@ -4,6 +4,7 @@
   "description": "Zeta Technologies (Pvt.) Limited",
   "subnets": {
     "ipv4": [
+      "103.134.200.0/23",
       "119.235.11.0/24"
     ],
     "ipv6": [

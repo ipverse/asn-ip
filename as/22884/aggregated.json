@@ -4,6 +4,7 @@
   "description": "TOTAL PLAY TELECOMUNICACIONES SA DE CV",
   "subnets": {
     "ipv4": [
+      "148.204.128.0/24",
       "148.204.164.0/24",
       "148.207.159.0/24",
       "148.227.0.0/22",

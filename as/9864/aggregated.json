@@ -4,7 +4,8 @@
   "description": "Korea Securities Depository",
   "subnets": {
     "ipv4": [
-      "58.102.135.0/24"
+      "58.102.135.0/24",
+      "203.24.188.0/24"
     ],
     "ipv6": []
   }

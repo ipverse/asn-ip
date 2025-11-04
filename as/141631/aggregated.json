@@ -3,7 +3,9 @@
   "handle": "IDNIC-TETRANETWORK-AS-ID",
   "description": "PT Tetra Data Media",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "157.15.246.0/24"
+    ],
     "ipv6": []
   }
 }

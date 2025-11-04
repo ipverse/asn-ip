@@ -3,7 +3,11 @@
   "handle": "ARUSHA-AS",
   "description": "Arusha Art Limited",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "41.222.56.0/21"
+    ],
+    "ipv6": [
+      "2c0f:fb88::/32"
+    ]
   }
 }

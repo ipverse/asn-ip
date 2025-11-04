@@ -3,7 +3,9 @@
   "handle": "CALIBER-NODE",
   "description": "Caliber Node LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.134.144.0/24"
+    ],
     "ipv6": []
   }
 }

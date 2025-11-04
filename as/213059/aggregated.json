@@ -1,9 +1,11 @@
 {
   "asn": 213059,
-  "handle": "MYTHIC-ANYCAST",
-  "description": "Mythic Beasts Ltd",
+  "handle": "ITZE",
+  "description": "IT-Zentrum Emmental AG",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "46.247.34.0/23"
+    ],
     "ipv6": []
   }
 }

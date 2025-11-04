@@ -3,9 +3,7 @@
   "handle": "ACN-DIGITAL-PHONE",
   "description": "ACN Communication Services LLC",
   "subnets": {
-    "ipv4": [
-      "192.83.128.0/22"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

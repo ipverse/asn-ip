@@ -1,0 +1,13 @@
+{
+  "asn": 153786,
+  "handle": "SERVERSTEP-AS-AP",
+  "description": "SERVERSTEP",
+  "subnets": {
+    "ipv4": [
+      "103.49.129.0/24",
+      "103.151.44.0/24",
+      "163.5.209.0/24"
+    ],
+    "ipv6": []
+  }
+}
