@@ -1,9 +1,11 @@
 {
   "asn": 149790,
-  "handle": "OCTOPUSCLOUD-AP",
-  "description": "Octopus Cloud Computing (Shanghai) Co., Ltd",
+  "handle": "OCTOPUSCLOUD-AS-AP",
+  "description": "Octopus Cloud Computing (Shanghai) Co. Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.213.146.0/24"
+    ],
     "ipv6": []
   }
 }

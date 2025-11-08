@@ -1,0 +1,13 @@
+{
+  "asn": 274207,
+  "handle": "BITEL-COLOMBIA",
+  "description": "BITEL DE COLOMBIA S.A.S",
+  "subnets": {
+    "ipv4": [
+      "206.1.92.0/23"
+    ],
+    "ipv6": [
+      "2803:63d0::/32"
+    ]
+  }
+}

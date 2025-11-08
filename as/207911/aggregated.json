@@ -3,7 +3,12 @@
   "handle": "ROCK-HOSTING",
   "description": "Rock-Hosting SASU",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "82.25.135.0/24",
+      "193.27.21.0/24"
+    ],
+    "ipv6": [
+      "2001:678:10d8::/48"
+    ]
   }
 }

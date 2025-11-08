@@ -3,7 +3,9 @@
   "handle": "IDNIC-ATLINDO-ID",
   "description": "PT ATLAS LINTAS INDONESIA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "160.20.138.0/23"
+    ],
     "ipv6": []
   }
 }

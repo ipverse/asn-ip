@@ -3,11 +3,7 @@
   "handle": "BIXCE",
   "description": "BIXCE Inc",
   "subnets": {
-    "ipv4": [
-      "23.140.68.0/24"
-    ],
-    "ipv6": [
-      "2602:f61e::/40"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

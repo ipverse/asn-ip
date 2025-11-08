@@ -3,7 +3,10 @@
   "handle": "RVK-PROVEDOR-INTERNET",
   "description": "RVK Provedor de Internet Ltda - ME",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "201.87.237.0/24",
+      "201.87.239.0/24"
+    ],
     "ipv6": [
       "2804:944c::/32"
     ]

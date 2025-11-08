@@ -1,0 +1,12 @@
+{
+  "asn": 147188,
+  "handle": "RNPL-AS-AP",
+  "description": "Rocket Network Pte. Ltd",
+  "subnets": {
+    "ipv4": [
+      "103.47.31.0/24",
+      "103.226.172.0/23"
+    ],
+    "ipv6": []
+  }
+}

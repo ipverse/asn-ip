@@ -3,9 +3,7 @@
   "handle": "ANATOLIA-BROADBAND",
   "description": "Muhammet Soyoglu",
   "subnets": {
-    "ipv4": [
-      "46.203.248.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

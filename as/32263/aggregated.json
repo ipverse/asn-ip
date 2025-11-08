@@ -3,7 +3,9 @@
   "handle": "CATALYST-REPOSITORY-SYSTEMS-US",
   "description": "Open Text Corporation",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "67.202.166.0/24"
+    ],
     "ipv6": []
   }
 }

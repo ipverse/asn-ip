@@ -1,0 +1,11 @@
+{
+  "asn": 45342,
+  "handle": "HANSTECH-AS-AP",
+  "description": "HanStrong Online Services",
+  "subnets": {
+    "ipv4": [
+      "140.150.157.0/24"
+    ],
+    "ipv6": []
+  }
+}

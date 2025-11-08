@@ -4,6 +4,7 @@
   "description": "HOSTING INDUSTRY LIMITED",
   "subnets": {
     "ipv4": [
+      "45.92.168.0/22",
       "45.92.247.0/24",
       "45.94.36.0/23",
       "45.94.38.0/24",

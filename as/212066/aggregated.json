@@ -1,9 +1,11 @@
 {
   "asn": 212066,
-  "handle": "DEBANS-NETWORK",
-  "description": "Nicolas FAVRE",
+  "handle": "YANDEX-COM-TR",
+  "description": "Buyuk Reklam Cozumleri LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.148.65.0/24"
+    ],
     "ipv6": []
   }
 }

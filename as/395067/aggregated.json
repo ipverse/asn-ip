@@ -4,7 +4,8 @@
   "description": "B. Riley Financial Inc",
   "subnets": {
     "ipv4": [
-      "216.225.28.0/22"
+      "216.225.28.0/24",
+      "216.225.30.0/23"
     ],
     "ipv6": []
   }

@@ -3,7 +3,9 @@
   "handle": "MITIGATED-NETWORK",
   "description": "mohammad nayef",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "5.175.217.0/24"
+    ],
     "ipv6": [
       "2a0f:85c1:d9a::/48"
     ]

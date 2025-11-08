@@ -3,7 +3,9 @@
   "handle": "ORG-CUL21-RIPE",
   "description": "CATERING UK LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "82.24.25.0/24"
+    ],
     "ipv6": []
   }
 }
