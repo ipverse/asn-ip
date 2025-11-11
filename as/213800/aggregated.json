@@ -1,0 +1,11 @@
+{
+  "asn": 213800,
+  "handle": "ASDF",
+  "description": "JAIYEON SIM",
+  "subnets": {
+    "ipv4": [
+      "151.243.151.0/24"
+    ],
+    "ipv6": []
+  }
+}

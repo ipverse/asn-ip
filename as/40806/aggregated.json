@@ -1,0 +1,11 @@
+{
+  "asn": 40806,
+  "handle": "GRAPHENEOS",
+  "description": "GrapheneOS Foundation",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2602:f4d9::/48"
+    ]
+  }
+}

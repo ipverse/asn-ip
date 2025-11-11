@@ -1,9 +1,11 @@
 {
   "asn": 205031,
-  "handle": "ZINGAYA2",
-  "description": "Voximplant, Inc.",
+  "handle": "DIGITAL-INFRA-RO-AS",
+  "description": "UPC DIGITAL INFRASTRUCTURE ROMANIA S.R.L",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "92.235.48.0/24"
+    ],
     "ipv6": []
   }
 }

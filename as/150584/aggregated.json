@@ -1,9 +1,11 @@
 {
   "asn": 150584,
-  "handle": "ZUBITEL-IN",
-  "description": "ZUBITEL NETWORKS PRIVATE LIMITED",
+  "handle": "BBSPL-AS-IN",
+  "description": "Badlapur Broabband Services Private Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "157.15.88.0/23"
+    ],
     "ipv6": []
   }
 }

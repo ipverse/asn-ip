@@ -1,0 +1,11 @@
+{
+  "asn": 152293,
+  "handle": "HDSNET-AS",
+  "description": "HAESUNGDS",
+  "subnets": {
+    "ipv4": [
+      "211.234.80.0/24"
+    ],
+    "ipv6": []
+  }
+}

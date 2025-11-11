@@ -4,6 +4,9 @@
   "description": "Fraunhofer-Gesellschaft zur Foerderung der angewandten Forschung e.V",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a10:9041::/48",
+      "2a10:9042::/48"
+    ]
   }
 }

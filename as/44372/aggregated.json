@@ -1,0 +1,13 @@
+{
+  "asn": 44372,
+  "handle": "DAINSLEIF",
+  "description": "Dainsleif Ltd",
+  "subnets": {
+    "ipv4": [
+      "193.93.152.0/22"
+    ],
+    "ipv6": [
+      "2a07:3ec0::/29"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asn": 154291,
+  "handle": "IDNIC-NEXORA-ID",
+  "description": "PT NEXORA DATA OPTIMA",
+  "subnets": {
+    "ipv4": [
+      "138.252.16.0/24"
+    ],
+    "ipv6": []
+  }
+}

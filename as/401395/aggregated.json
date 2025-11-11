@@ -3,7 +3,9 @@
   "handle": "ASN-BYO-DEMO",
   "description": "Amazon Technologies Inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.157.36.0/24"
+    ],
     "ipv6": []
   }
 }

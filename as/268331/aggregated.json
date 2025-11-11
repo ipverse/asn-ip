@@ -4,6 +4,7 @@
   "description": "LINK BARATO.COM TELECOMUNICACOES EIRELI",
   "subnets": {
     "ipv4": [
+      "45.175.206.0/24",
       "45.238.112.0/22"
     ],
     "ipv6": [

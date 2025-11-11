@@ -3,7 +3,9 @@
   "handle": "PHILANDER-SMITH-UNIVERSITY-AS",
   "description": "Philander Smith University",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "23.139.156.0/24"
+    ],
     "ipv6": []
   }
 }

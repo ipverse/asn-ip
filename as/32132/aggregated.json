@@ -1,9 +1,13 @@
 {
   "asn": 32132,
-  "handle": "INTEGRATEDSOLUTIONS",
-  "description": "Integrated Computer Solutions",
+  "handle": "AS-FOCNL-01",
+  "description": "Fiber Optic Cable Network LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "78.41.49.0/24",
+      "178.18.144.0/24",
+      "185.190.228.0/23"
+    ],
     "ipv6": []
   }
 }

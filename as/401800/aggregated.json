@@ -3,9 +3,7 @@
   "handle": "ILSOS",
   "description": "Illinois Secretary of State",
   "subnets": {
-    "ipv4": [
-      "199.15.0.0/22"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

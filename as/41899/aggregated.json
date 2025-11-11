@@ -1,0 +1,11 @@
+{
+  "asn": 41899,
+  "handle": "SEAS-SK-AS",
+  "description": "Slovenske elektrarne a.s",
+  "subnets": {
+    "ipv4": [
+      "212.37.64.0/23"
+    ],
+    "ipv6": []
+  }
+}

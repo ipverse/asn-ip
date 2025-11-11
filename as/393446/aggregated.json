@@ -4,7 +4,8 @@
   "description": "AlphaCore Network LLC",
   "subnets": {
     "ipv4": [
-      "74.2.96.0/24"
+      "74.2.96.0/24",
+      "155.117.34.0/24"
     ],
     "ipv6": []
   }

@@ -1,0 +1,11 @@
+{
+  "asn": 30179,
+  "handle": "DWS-01",
+  "description": "DWS",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2602:f4e8::/47"
+    ]
+  }
+}
