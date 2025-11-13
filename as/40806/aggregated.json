@@ -3,7 +3,9 @@
   "handle": "GRAPHENEOS",
   "description": "GrapheneOS Foundation",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "23.149.124.0/24"
+    ],
     "ipv6": [
       "2602:f4d9::/47"
     ]

@@ -3,7 +3,9 @@
   "handle": "CYFROWAFOTO-AS",
   "description": "CYFROWA FOTO Sp. z o.o",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.150.186.0/24"
+    ],
     "ipv6": []
   }
 }

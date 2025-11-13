@@ -3,9 +3,7 @@
   "handle": "WOOJINROH-AS",
   "description": "Woojin Roh",
   "subnets": {
-    "ipv4": [
-      "142.248.231.0/24"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2a11:29c0:50::/48"
     ]

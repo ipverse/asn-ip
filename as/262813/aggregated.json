@@ -4,6 +4,7 @@
   "description": "Superimagem Tecnologia em Eletronica Ltda",
   "subnets": {
     "ipv4": [
+      "131.196.92.0/24",
       "177.70.144.0/20",
       "186.237.160.0/20"
     ],

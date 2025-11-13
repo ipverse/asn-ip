@@ -1,9 +1,11 @@
 {
   "asn": 215225,
-  "handle": "RFD-V",
-  "description": "Maksim Taraikouski",
+  "handle": "WEBHOSTINGFSI",
+  "description": "Webhosting FSI LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "5.253.85.0/24"
+    ],
     "ipv6": []
   }
 }

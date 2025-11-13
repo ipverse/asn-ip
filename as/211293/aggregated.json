@@ -1,9 +1,11 @@
 {
   "asn": 211293,
-  "handle": "RESERVED",
-  "description": "RIPE NCC ASN block",
+  "handle": "CTM-PGZ",
+  "description": "OSRODEK BADAWCZO-ROZWOJOWY CENTRUM TECHNIKI MORSKIEJ SA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "216.150.5.0/24"
+    ],
     "ipv6": []
   }
 }

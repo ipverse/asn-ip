@@ -3,7 +3,9 @@
   "handle": "PUESCHEL-AS",
   "description": "Max Pueschel",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.121.163.0/24"
+    ],
     "ipv6": [
       "2001:678:c08::/48"
     ]

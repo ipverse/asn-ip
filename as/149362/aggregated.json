@@ -1,9 +1,11 @@
 {
   "asn": 149362,
-  "handle": "IDNIC-INFRATELINDO-ID",
+  "handle": "IDNIC-INFRATELINDO-AS-ID",
   "description": "PT Infratelindo Nusantara Investama",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "163.61.190.0/24"
+    ],
     "ipv6": []
   }
 }

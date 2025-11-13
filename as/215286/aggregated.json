@@ -3,7 +3,9 @@
   "handle": "IXROOT",
   "description": "IXROOT LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "31.59.137.0/24"
+    ],
     "ipv6": []
   }
 }

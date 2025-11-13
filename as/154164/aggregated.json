@@ -3,7 +3,9 @@
   "handle": "IDNIC-IDXSTI-AS-ID",
   "description": "PT Idx Solusi Teknologi Informasi",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.172.246.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -1,0 +1,11 @@
+{
+  "asn": 274236,
+  "handle": "CONNECT",
+  "description": "CONNECT SRL",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2803:27d0::/32"
+    ]
+  }
+}

@@ -1,9 +1,11 @@
 {
   "asn": 134077,
-  "handle": "RESERVED",
-  "description": "APNIC ASN block",
+  "handle": "TII-AS-AP",
+  "description": "Infranexia",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "138.252.141.0/24"
+    ],
     "ipv6": []
   }
 }

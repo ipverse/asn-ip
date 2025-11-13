@@ -4,6 +4,7 @@
   "description": "San Juan Regional Medical Center Inc",
   "subnets": {
     "ipv4": [
+      "162.33.4.0/24",
       "205.201.195.0/24"
     ],
     "ipv6": []

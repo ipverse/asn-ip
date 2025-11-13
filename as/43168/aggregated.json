@@ -4,7 +4,8 @@
   "description": "Singer-Computer Ltd",
   "subnets": {
     "ipv4": [
-      "94.247.208.0/21"
+      "94.247.208.0/22",
+      "94.247.212.0/24"
     ],
     "ipv6": []
   }

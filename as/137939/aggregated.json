@@ -1,9 +1,11 @@
 {
   "asn": 137939,
-  "handle": "RESERVED",
-  "description": "APNIC ASN block",
+  "handle": "IDNIC-INETPLUS-AS-ID",
+  "description": "PT Inovasi Network Plus",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "138.252.17.0/24"
+    ],
     "ipv6": []
   }
 }

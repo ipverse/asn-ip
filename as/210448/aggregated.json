@@ -3,7 +3,9 @@
   "handle": "ITSISTEM-MD",
   "description": "ITSISTEM P\u0026V SRL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "217.60.13.0/24"
+    ],
     "ipv6": []
   }
 }

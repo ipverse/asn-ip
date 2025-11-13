@@ -3,7 +3,12 @@
   "handle": "M1033-INFO-AS-TW",
   "description": "1033 Network Information Co",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "23.147.120.0/24",
+      "64.49.28.0/24"
+    ],
+    "ipv6": [
+      "2602:f7a7:10::/48"
+    ]
   }
 }

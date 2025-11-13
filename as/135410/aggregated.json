@@ -1,0 +1,11 @@
+{
+  "asn": 135410,
+  "handle": "VSAS-AS-AP",
+  "description": "Voltz System and Solutions",
+  "subnets": {
+    "ipv4": [
+      "138.252.172.0/23"
+    ],
+    "ipv6": []
+  }
+}
