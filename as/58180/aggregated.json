@@ -3,7 +3,11 @@
   "handle": "DATMIT-AS58180",
   "description": "DatMit s.r.l",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "195.206.120.0/24"
+    ],
+    "ipv6": [
+      "2a14:9380::/32"
+    ]
   }
 }

@@ -4,10 +4,6 @@
   "description": "APNIC ASN block",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2a0a:6040:3410::/48",
-      "2a0a:6040:3430::/48",
-      "2a0a:6040:34ff::/48"
-    ]
+    "ipv6": []
   }
 }

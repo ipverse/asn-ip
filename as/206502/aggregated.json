@@ -3,7 +3,9 @@
   "handle": "RTB-HOUSE-WAW",
   "description": "RTB Marketing and Tech Services Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "78.108.212.0/24"
+    ],
     "ipv6": []
   }
 }

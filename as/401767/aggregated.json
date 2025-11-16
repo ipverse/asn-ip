@@ -4,8 +4,6 @@
   "description": "T4T Labs",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2602:f61a:f01::/48"
-    ]
+    "ipv6": []
   }
 }

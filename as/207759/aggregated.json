@@ -3,7 +3,9 @@
   "handle": "CLOUDIUM-AS",
   "description": "Cloudium LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "77.83.81.0/24"
+    ],
     "ipv6": []
   }
 }

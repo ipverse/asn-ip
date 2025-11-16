@@ -3,7 +3,9 @@
   "handle": "FIBRAMAX-TEL",
   "description": "FIBRAMAX TEL S.A.C",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "138.99.179.0/24"
+    ],
     "ipv6": [
       "2803:1b50:100::/47",
       "2803:1b50:104::/46"
