@@ -3,7 +3,9 @@
   "handle": "VOS",
   "description": "VOS SRL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.169.104.0/22"
+    ],
     "ipv6": []
   }
 }

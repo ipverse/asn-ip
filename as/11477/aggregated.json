@@ -3,9 +3,7 @@
   "handle": "GOC-AS",
   "description": "VC3 Inc",
   "subnets": {
-    "ipv4": [
-      "74.119.100.0/22"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

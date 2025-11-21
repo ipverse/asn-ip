@@ -3,7 +3,9 @@
   "handle": "TERRANODE-LLC",
   "description": "Terranode LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "130.12.243.0/24"
+    ],
     "ipv6": []
   }
 }

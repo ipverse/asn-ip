@@ -4,6 +4,7 @@
   "description": "ZDM Network Solutions LLC",
   "subnets": {
     "ipv4": [
+      "23.181.64.0/24",
       "170.39.64.0/22"
     ],
     "ipv6": [

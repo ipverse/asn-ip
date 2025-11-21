@@ -3,7 +3,9 @@
   "handle": "TRYHARDGG",
   "description": "HERAHOZOV Yevhenii",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "82.139.251.0/24"
+    ],
     "ipv6": []
   }
 }

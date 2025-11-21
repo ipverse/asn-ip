@@ -3,7 +3,9 @@
   "handle": "EMPIRE-IL-AS",
   "description": "Ofek U. Havia",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "88.214.55.0/24"
+    ],
     "ipv6": []
   }
 }

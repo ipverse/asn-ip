@@ -1,0 +1,11 @@
+{
+  "asn": 136905,
+  "handle": "ETPL-AS-AP",
+  "description": "Eastlink Technology Pvt Ltd",
+  "subnets": {
+    "ipv4": [
+      "138.252.150.0/23"
+    ],
+    "ipv6": []
+  }
+}

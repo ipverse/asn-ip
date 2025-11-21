@@ -1,9 +1,11 @@
 {
   "asn": 396067,
-  "handle": "GBCC",
-  "description": "Greater Boston Chamber of Commerce",
+  "handle": "CURRENT-NETWORKS-01",
+  "description": "Current Networks",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "168.151.230.0/23"
+    ],
     "ipv6": []
   }
 }

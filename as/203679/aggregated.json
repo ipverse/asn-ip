@@ -1,9 +1,11 @@
 {
   "asn": 203679,
-  "handle": "RESERVED",
-  "description": "RIPE NCC ASN block",
+  "handle": "PROTOJX",
+  "description": "Mathias PAJON trading as ProtojX",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a0c:b641:7d0::/44"
+    ]
   }
 }

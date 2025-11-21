@@ -3,10 +3,7 @@
   "handle": "ASIFIBER",
   "description": "LIBRA S.R.L",
   "subnets": {
-    "ipv4": [
-      "151.243.125.0/24",
-      "185.158.36.0/22"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

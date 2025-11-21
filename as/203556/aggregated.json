@@ -4,7 +4,7 @@
   "description": "IDEMIA POLAND Sp. z o.o",
   "subnets": {
     "ipv4": [
-      "185.130.180.0/22"
+      "185.130.180.0/24"
     ],
     "ipv6": []
   }

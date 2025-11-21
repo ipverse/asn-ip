@@ -4,6 +4,7 @@
   "description": "PT Perwira Pedjoeang Nusantara",
   "subnets": {
     "ipv4": [
+      "103.195.65.0/24",
       "163.61.159.0/24"
     ],
     "ipv6": [

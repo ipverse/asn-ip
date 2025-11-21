@@ -3,7 +3,11 @@
   "handle": "OMNIMODE",
   "description": "OMNI-MODE TRADE LLC",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "23.149.228.0/24"
+    ],
+    "ipv6": [
+      "2604:2960::/32"
+    ]
   }
 }
