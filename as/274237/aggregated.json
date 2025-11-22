@@ -1,0 +1,11 @@
+{
+  "asn": 274237,
+  "handle": "TRANSPORTE-INTERNET-MEDIOS",
+  "description": "TRANSPORTE DE INTERNET Y MEDIOS TECNOLOGICOS S.A.S",
+  "subnets": {
+    "ipv4": [
+      "38.191.214.0/24"
+    ],
+    "ipv6": []
+  }
+}

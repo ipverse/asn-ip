@@ -1,0 +1,11 @@
+{
+  "asn": 14831,
+  "handle": "CAMERON-COUNTY-TX",
+  "description": "Cameron County",
+  "subnets": {
+    "ipv4": [
+      "208.123.101.0/24"
+    ],
+    "ipv6": []
+  }
+}

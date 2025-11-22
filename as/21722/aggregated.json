@@ -4,8 +4,7 @@
   "description": "Quick Service Software Inc",
   "subnets": {
     "ipv4": [
-      "199.66.252.0/23",
-      "199.66.254.0/24"
+      "199.66.252.0/22"
     ],
     "ipv6": [
       "2602:ff76::/36"

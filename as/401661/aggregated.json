@@ -3,11 +3,7 @@
   "handle": "EMBNEX-AS",
   "description": "EMBNEX LLC",
   "subnets": {
-    "ipv4": [
-      "66.92.9.0/24"
-    ],
-    "ipv6": [
-      "2604:be0::/32"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

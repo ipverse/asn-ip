@@ -1,6 +1,6 @@
 {
   "asn": 801,
-  "handle": "AMAZON-R",
+  "handle": "AMAZON-LEO",
   "description": "Amazon Technologies Inc",
   "subnets": {
     "ipv4": [
@@ -20,7 +20,7 @@
       "2606:7b40:1b12::/48",
       "2606:7b40:1b14::/48",
       "2631:0:1::/48",
-      "2631:0:2::/48"
+      "2631:0:2::/47"
     ]
   }
 }

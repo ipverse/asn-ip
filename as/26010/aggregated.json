@@ -3,9 +3,7 @@
   "handle": "MARVELL",
   "description": "Marvell Semiconductor Inc",
   "subnets": {
-    "ipv4": [
-      "198.186.0.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

@@ -3,9 +3,7 @@
   "handle": "SENDNET-AS",
   "description": "SENDnet Grzegorz Dacka",
   "subnets": {
-    "ipv4": [
-      "193.105.110.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

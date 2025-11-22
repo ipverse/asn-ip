@@ -3,7 +3,9 @@
   "handle": "SELENIUM-DIGITAL-SOLUTIONS-SA",
   "description": "SELENIUM - DIGITAL SOLUTIONS S.A",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "102.205.75.0/24"
+    ],
     "ipv6": []
   }
 }

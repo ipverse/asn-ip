@@ -4,7 +4,8 @@
   "description": "PT Sahabat Manjur Grup",
   "subnets": {
     "ipv4": [
-      "103.191.171.0/24"
+      "103.191.171.0/24",
+      "160.187.164.0/24"
     ],
     "ipv6": []
   }

@@ -4,7 +4,8 @@
   "description": "Alaitisal Computers and Requisites Trading LLC",
   "subnets": {
     "ipv4": [
-      "86.106.26.0/24"
+      "86.106.26.0/24",
+      "91.208.122.0/24"
     ],
     "ipv6": []
   }

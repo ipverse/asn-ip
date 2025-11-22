@@ -3,7 +3,9 @@
   "handle": "NACSPACE",
   "description": "NacSpace LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.231.201.0/24"
+    ],
     "ipv6": []
   }
 }

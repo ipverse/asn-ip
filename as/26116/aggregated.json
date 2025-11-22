@@ -1,0 +1,11 @@
+{
+  "asn": 26116,
+  "handle": "QUIC-CLOUD-CDN",
+  "description": "QUIC CLOUD INC",
+  "subnets": {
+    "ipv4": [
+      "199.244.80.0/24"
+    ],
+    "ipv6": []
+  }
+}
