@@ -3,9 +3,7 @@
   "handle": "MAGSNETINC-AS-AP",
   "description": "MAGSNET INC",
   "subnets": {
-    "ipv4": [
-      "202.5.133.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "LINK-FIBRA",
   "description": "LINK FIBRA LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "177.44.155.0/24"
+    ],
     "ipv6": [
       "2804:95f4::/32"
     ]

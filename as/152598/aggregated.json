@@ -4,6 +4,8 @@
   "description": "Beijing Gong Gong Fa Technology Co Ltd",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2602:fd92:cc0::/44"
+    ]
   }
 }
