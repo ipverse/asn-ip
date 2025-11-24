@@ -1,9 +1,11 @@
 {
   "asn": 11527,
-  "handle": "TCS-SOL",
-  "description": "TeleCommunication Systems, Inc.",
+  "handle": "X0R",
+  "description": "Xproxies",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2604:120::/32"
+    ]
   }
 }

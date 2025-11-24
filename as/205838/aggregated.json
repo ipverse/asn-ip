@@ -4,10 +4,10 @@
   "description": "Ivory van Boeschoten trading as IVB Services",
   "subnets": {
     "ipv4": [
-      "82.24.19.0/24",
       "82.24.91.0/24"
     ],
     "ipv6": [
+      "2a06:9f41:1000::/44",
       "2a06:9f41:a901::/48"
     ]
   }

@@ -3,7 +3,9 @@
   "handle": "MAX-JED-AS",
   "description": "Maximum Solutions for Communications and Information Technology LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "89.40.29.0/24"
+    ],
     "ipv6": []
   }
 }

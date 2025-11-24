@@ -3,7 +3,9 @@
   "handle": "SUZUKI-AS",
   "description": "SUZUKI MOTOR RUS Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.1.213.0/24"
+    ],
     "ipv6": []
   }
 }

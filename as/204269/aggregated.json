@@ -3,7 +3,11 @@
   "handle": "MEOWNETWORKS",
   "description": "Mateo De la Hoz",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "167.150.223.0/24"
+    ],
+    "ipv6": [
+      "2a0e:8f02:2220::/48"
+    ]
   }
 }
