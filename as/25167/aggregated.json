@@ -3,7 +3,9 @@
   "handle": "TUK-AS",
   "description": "Oliver Knapp trading as TuK Datentechnik",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.109.113.0/24"
+    ],
     "ipv6": []
   }
 }

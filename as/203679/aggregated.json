@@ -3,7 +3,11 @@
   "handle": "PROTOJX",
   "description": "Mathias PAJON trading as ProtojX",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "5.178.99.0/24"
+    ],
+    "ipv6": [
+      "2a0c:b641:7d0::/44"
+    ]
   }
 }

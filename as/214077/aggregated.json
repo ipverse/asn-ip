@@ -4,7 +4,8 @@
   "description": "Limited Liability Company Sumtel",
   "subnets": {
     "ipv4": [
-      "194.226.249.0/24"
+      "194.226.249.0/24",
+      "195.19.143.0/24"
     ],
     "ipv6": []
   }

@@ -3,7 +3,9 @@
   "handle": "SMART-DATACENTER",
   "description": "SMART DATACENTER LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.52.206.0/24"
+    ],
     "ipv6": [
       "2804:649c::/32"
     ]

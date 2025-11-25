@@ -1,9 +1,11 @@
 {
   "asn": 203790,
-  "handle": "UP-NETWORK",
-  "description": "Association UP-NETWORK",
+  "handle": "AS-SECWELL",
+  "description": "SECWELL L.L.C-FZ",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "138.249.4.0/23"
+    ],
     "ipv6": []
   }
 }

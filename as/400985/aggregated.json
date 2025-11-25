@@ -1,0 +1,14 @@
+{
+  "asn": 400985,
+  "handle": "TRCAS",
+  "description": "Three Rivers Casino and Resort",
+  "subnets": {
+    "ipv4": [
+      "71.92.140.0/24"
+    ],
+    "ipv6": [
+      "2602:f60c:9::/48",
+      "2602:f60c:f::/48"
+    ]
+  }
+}

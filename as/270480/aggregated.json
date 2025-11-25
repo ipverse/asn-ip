@@ -4,8 +4,6 @@
   "description": "GTI Telecom",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2804:6c9c::/32"
-    ]
+    "ipv6": []
   }
 }

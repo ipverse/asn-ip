@@ -4,6 +4,7 @@
   "description": "Eastlink Technology Pvt Ltd",
   "subnets": {
     "ipv4": [
+      "103.162.3.0/24",
       "138.252.150.0/23"
     ],
     "ipv6": [

@@ -3,7 +3,9 @@
   "handle": "IDNIC-GLOBALDIGITALCORE-ID",
   "description": "PT GLOBAL DIGITAL CORE",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "123.253.54.0/23"
+    ],
     "ipv6": [
       "2001:df6:28c0::/48"
     ]

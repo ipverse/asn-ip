@@ -4,10 +4,8 @@
   "description": "SimpleThings GmbH",
   "subnets": {
     "ipv4": [
-      "185.117.180.0/22"
+      "185.117.182.0/24"
     ],
-    "ipv6": [
-      "2a03:52a0::/32"
-    ]
+    "ipv6": []
   }
 }

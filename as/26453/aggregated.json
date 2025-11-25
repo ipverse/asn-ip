@@ -1,9 +1,12 @@
 {
   "asn": 26453,
-  "handle": "INFINISOURCE-INC",
-  "description": "Infinisource, Inc.",
+  "handle": "HOMETOWN-INTERNET",
+  "description": "Hometown Internet LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "23.170.168.0/24",
+      "38.99.232.0/22"
+    ],
     "ipv6": []
   }
 }

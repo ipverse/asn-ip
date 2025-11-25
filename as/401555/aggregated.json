@@ -1,0 +1,11 @@
+{
+  "asn": 401555,
+  "handle": "BLOCKCAST-CDN-01",
+  "description": "Blockcast Inc",
+  "subnets": {
+    "ipv4": [
+      "69.25.95.0/24"
+    ],
+    "ipv6": []
+  }
+}

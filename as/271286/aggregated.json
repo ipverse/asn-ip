@@ -3,7 +3,11 @@
   "handle": "NET-TELECOM-COMUNICACOES",
   "description": "NET TELECOM COMUNICAÇOES EIRELI",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "190.109.92.0/22"
+    ],
+    "ipv6": [
+      "2804:7920::/32"
+    ]
   }
 }

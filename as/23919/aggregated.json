@@ -1,0 +1,11 @@
+{
+  "asn": 23919,
+  "handle": "RAMKHAMHAENG-AS-AP",
+  "description": "Ramkhamhaeng University",
+  "subnets": {
+    "ipv4": [
+      "202.41.160.0/19"
+    ],
+    "ipv6": []
+  }
+}

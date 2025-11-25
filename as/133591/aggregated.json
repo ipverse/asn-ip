@@ -1,9 +1,11 @@
 {
   "asn": 133591,
-  "handle": "LIONETVIP-IN",
+  "handle": "LIONETVIP-AS-IN",
   "description": "LIONET ONLINE PVT LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.172.85.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -4,6 +4,8 @@
   "description": "Kat-Net Servers LLC",
   "subnets": {
     "ipv4": [
+      "45.143.9.0/24",
+      "162.141.100.0/24",
       "173.0.8.0/24"
     ],
     "ipv6": []

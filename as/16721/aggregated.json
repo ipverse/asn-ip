@@ -1,0 +1,13 @@
+{
+  "asn": 16721,
+  "handle": "CX",
+  "description": "Algorix LLC",
+  "subnets": {
+    "ipv4": [
+      "23.140.196.0/24"
+    ],
+    "ipv6": [
+      "2602:f604::/36"
+    ]
+  }
+}

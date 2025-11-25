@@ -4,6 +4,7 @@
   "description": "ICSDC PRIVATE LIMITED",
   "subnets": {
     "ipv4": [
+      "160.25.111.0/24",
       "165.99.212.0/23"
     ],
     "ipv6": []

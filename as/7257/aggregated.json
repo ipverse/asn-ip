@@ -4,8 +4,6 @@
   "description": "Great Plains Connect",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2606:b0c0::/40"
-    ]
+    "ipv6": []
   }
 }

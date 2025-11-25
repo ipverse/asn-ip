@@ -3,9 +3,7 @@
   "handle": "GIT-AS-AP",
   "description": "GIT LIMITED",
   "subnets": {
-    "ipv4": [
-      "103.77.24.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

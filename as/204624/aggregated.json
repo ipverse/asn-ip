@@ -1,9 +1,11 @@
 {
   "asn": 204624,
-  "handle": "DE-MSESTERHENN",
-  "description": "Maximilian Sesterhenn",
+  "handle": "SYCURIO",
+  "description": "Sycurio Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "109.71.186.0/24"
+    ],
     "ipv6": []
   }
 }

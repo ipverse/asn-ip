@@ -3,7 +3,9 @@
   "handle": "AS-IP-CUSTOMERS",
   "description": "VIRTUAL TELECOM LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "62.3.26.0/24"
+    ],
     "ipv6": []
   }
 }

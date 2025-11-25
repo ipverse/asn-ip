@@ -4,6 +4,7 @@
   "description": "SOCIETE NATIONALE DES TELECOMMUNICATIONS (Tunisie Telecom)",
   "subnets": {
     "ipv4": [
+      "41.224.41.0/24",
       "41.231.88.0/24",
       "102.24.0.0/13",
       "102.152.0.0/14",
