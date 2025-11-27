@@ -1,9 +1,12 @@
 {
   "asn": 400346,
-  "handle": "APOG-UAB",
-  "description": "Apogee Telecom Inc.",
+  "handle": "APOG-ECKERD",
+  "description": "Apogee Telecom Inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "69.80.129.0/24",
+      "69.80.140.0/23"
+    ],
     "ipv6": []
   }
 }

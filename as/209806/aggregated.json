@@ -1,9 +1,11 @@
 {
   "asn": 209806,
-  "handle": "EDGESONIC-UK-SERVICES",
-  "description": "Edgesonic (UK) Services Limited",
+  "handle": "ITEZ",
+  "description": "LLC ITEZ",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "176.120.99.0/24"
+    ],
     "ipv6": []
   }
 }

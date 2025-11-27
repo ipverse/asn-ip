@@ -4,8 +4,7 @@
   "description": "SOLUCIONES DE TECNOLOGIA JAH SA DE CV",
   "subnets": {
     "ipv4": [
-      "38.210.200.0/23",
-      "38.210.202.0/24"
+      "38.210.200.0/22"
     ],
     "ipv6": [
       "2806:434::/32"

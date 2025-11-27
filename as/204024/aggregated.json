@@ -1,0 +1,13 @@
+{
+  "asn": 204024,
+  "handle": "GRIFFINBANK",
+  "description": "Griffin Bank Ltd",
+  "subnets": {
+    "ipv4": [
+      "158.94.167.0/24"
+    ],
+    "ipv6": [
+      "2a10:1140:1000::/48"
+    ]
+  }
+}

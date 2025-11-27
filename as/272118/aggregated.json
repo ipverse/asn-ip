@@ -3,9 +3,7 @@
   "handle": "DATALINK-CA",
   "description": "DATALINK C.A",
   "subnets": {
-    "ipv4": [
-      "38.150.88.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

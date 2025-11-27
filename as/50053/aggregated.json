@@ -1,6 +1,6 @@
 {
   "asn": 50053,
-  "handle": "ANTON-LEVIN-AS",
+  "handle": "VDSKA-AS",
   "description": "Anton Levin",
   "subnets": {
     "ipv4": [
@@ -72,7 +72,9 @@
     "ipv6": [
       "2a0d:6c2:14::/48",
       "2a0d:6c2:16::/47",
-      "2a0d:6c2:24::/47"
+      "2a0d:6c2:24::/47",
+      "2a11:2cc0:2::/47",
+      "2a11:2cc0:8::/47"
     ]
   }
 }

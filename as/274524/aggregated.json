@@ -3,7 +3,11 @@
   "handle": "EUCATUR-TRANSPORTE-TURISMO",
   "description": "Eucatur Transporte e Turismo Ltda",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "38.50.36.0/24"
+    ],
+    "ipv6": [
+      "2801:81:150::/48"
+    ]
   }
 }

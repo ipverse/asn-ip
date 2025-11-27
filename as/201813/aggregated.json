@@ -3,7 +3,9 @@
   "handle": "LEXISTARALLIANCELTD",
   "description": "CONTRUST SOLUTIONS S.R.L",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.178.146.0/24"
+    ],
     "ipv6": []
   }
 }

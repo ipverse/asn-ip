@@ -4,6 +4,7 @@
   "description": "Sterling Communications Inc",
   "subnets": {
     "ipv4": [
+      "198.36.167.0/24",
       "199.34.232.0/21",
       "199.107.160.0/21",
       "199.108.224.0/22",

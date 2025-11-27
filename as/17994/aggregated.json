@@ -3,7 +3,9 @@
   "handle": "ASL-AS-AP",
   "description": "Appserv Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.250.224.0/22"
+    ],
     "ipv6": []
   }
 }

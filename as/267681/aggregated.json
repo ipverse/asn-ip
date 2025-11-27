@@ -1,0 +1,11 @@
+{
+  "asn": 267681,
+  "handle": "ARGENTINA-VIRTUAL-NETWORKS",
+  "description": "Argentina Virtual Networks SRL",
+  "subnets": {
+    "ipv4": [
+      "45.162.168.0/22"
+    ],
+    "ipv6": []
+  }
+}

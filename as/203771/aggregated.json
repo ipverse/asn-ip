@@ -1,0 +1,17 @@
+{
+  "asn": 203771,
+  "handle": "SERVERVIA",
+  "description": "SERVERVIA BILISIM YAZILIM VE TELEKOMUNIKASYON HIZMETLERI LIMITED SIRKETI",
+  "subnets": {
+    "ipv4": [
+      "31.40.196.0/24",
+      "37.221.79.0/24",
+      "82.21.149.0/24",
+      "91.124.37.0/24",
+      "92.112.71.0/24",
+      "151.242.129.0/24",
+      "185.231.226.0/24"
+    ],
+    "ipv6": []
+  }
+}

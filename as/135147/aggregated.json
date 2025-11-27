@@ -1,0 +1,11 @@
+{
+  "asn": 135147,
+  "handle": "TBANKLIMITED-AS-AP",
+  "description": "T Bank Limited",
+  "subnets": {
+    "ipv4": [
+      "138.252.94.0/24"
+    ],
+    "ipv6": []
+  }
+}

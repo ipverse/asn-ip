@@ -3,7 +3,9 @@
   "handle": "IDNIC-ERGON-AS-ID",
   "description": "PT Era Global Nusindo",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "157.66.4.0/23"
+    ],
     "ipv6": []
   }
 }

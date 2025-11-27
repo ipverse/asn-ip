@@ -1,9 +1,11 @@
 {
   "asn": 47098,
-  "handle": "ALURA",
-  "description": "Alura Business Solutions, LLC",
+  "handle": "SAMPSON-COUNTY-SCHOOLS",
+  "description": "Sampson County Schools",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "152.26.56.0/24"
+    ],
     "ipv6": []
   }
 }

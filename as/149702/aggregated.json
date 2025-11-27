@@ -3,7 +3,9 @@
   "handle": "IDNIC-GO-NET-AS-ID",
   "description": "PT Gian Nugraha Teknologi Indonesia",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.181.80.0/24"
+    ],
     "ipv6": []
   }
 }

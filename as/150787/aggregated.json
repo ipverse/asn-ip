@@ -3,7 +3,10 @@
   "handle": "CGCL-AS",
   "description": "CHANNEL G COMPANY LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.163.225.0/24",
+      "103.243.179.0/24"
+    ],
     "ipv6": []
   }
 }

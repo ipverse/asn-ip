@@ -4,7 +4,8 @@
   "description": "TSUNAMI ELECTRIC LIMITED",
   "subnets": {
     "ipv4": [
-      "202.155.154.0/24"
+      "202.155.154.0/24",
+      "217.216.176.0/22"
     ],
     "ipv6": []
   }

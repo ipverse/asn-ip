@@ -1,9 +1,11 @@
 {
   "asn": 203504,
-  "handle": "VERIFIELD",
-  "description": "Ipsos Comcon LLC",
+  "handle": "TOMAS-FREITAS-FERNANDES",
+  "description": "Tomas Freitas Fernandes",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a0c:9a40:89f0::/48"
+    ]
   }
 }

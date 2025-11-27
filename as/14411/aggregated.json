@@ -3,9 +3,7 @@
   "handle": "MNCPPC-EIT",
   "description": "Maryland-National Capital Park and Planning Commission",
   "subnets": {
-    "ipv4": [
-      "198.178.16.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }
