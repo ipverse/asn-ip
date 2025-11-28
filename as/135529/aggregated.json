@@ -3,7 +3,9 @@
   "handle": "ITPCL-AS-AP",
   "description": "Interlink Telecom Public Company Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.253.228.0/24"
+    ],
     "ipv6": []
   }
 }

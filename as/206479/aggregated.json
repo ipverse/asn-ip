@@ -4,6 +4,7 @@
   "description": "AceRDP Ltd",
   "subnets": {
     "ipv4": [
+      "5.175.189.0/24",
       "5.175.234.0/24"
     ],
     "ipv6": []

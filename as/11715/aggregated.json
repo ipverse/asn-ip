@@ -3,7 +3,9 @@
   "handle": "KISARA-NETWORK-02",
   "description": "Kisara Development LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "44.30.78.0/24"
+    ],
     "ipv6": [
       "2602:f6ae:ab::/48"
     ]

@@ -3,7 +3,9 @@
   "handle": "LNK-SENTINEL",
   "description": "LNK SYSTEMS MUNTENIA SRL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.41.246.0/24"
+    ],
     "ipv6": [
       "2a06:e800::/29"
     ]

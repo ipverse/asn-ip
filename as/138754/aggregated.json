@@ -4,6 +4,7 @@
   "description": "Kerala Vision Broad Band Private Limited",
   "subnets": {
     "ipv4": [
+      "38.188.65.0/24",
       "43.229.88.0/22",
       "103.42.196.0/22",
       "103.65.250.0/23",

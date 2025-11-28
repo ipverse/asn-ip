@@ -3,9 +3,7 @@
   "handle": "SOYUZSNAB-AS",
   "description": "SOYUZSNAB JSC",
   "subnets": {
-    "ipv4": [
-      "80.64.21.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

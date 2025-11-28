@@ -3,9 +3,7 @@
   "handle": "TII-AS-AP",
   "description": "Infranexia",
   "subnets": {
-    "ipv4": [
-      "138.252.140.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

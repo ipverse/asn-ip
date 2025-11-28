@@ -1,9 +1,13 @@
 {
   "asn": 63231,
-  "handle": "ACI-NET",
-  "description": "ACI Solutions",
+  "handle": "LUMIA-SEC",
+  "description": "Lumia Security",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "23.150.92.0/24"
+    ],
+    "ipv6": [
+      "2602:f4b8:10::/48"
+    ]
   }
 }

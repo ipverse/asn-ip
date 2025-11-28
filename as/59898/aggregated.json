@@ -3,9 +3,7 @@
   "handle": "AS-ALLSAFE",
   "description": "AllSafe Sarl",
   "subnets": {
-    "ipv4": [
-      "185.167.6.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

@@ -1,9 +1,13 @@
 {
   "asn": 137615,
-  "handle": "AONEC-IN",
-  "description": "Aonedpn Communications Pvt. Ltd.",
+  "handle": "DYSYSTEM-AS-IN",
+  "description": "Directorate General Of Systems And Data Management",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "163.227.108.0/23"
+    ],
+    "ipv6": [
+      "2401:fee0::/47"
+    ]
   }
 }

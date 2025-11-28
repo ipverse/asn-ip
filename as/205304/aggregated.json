@@ -1,9 +1,11 @@
 {
   "asn": 205304,
-  "handle": "ZORGDOMEIN",
-  "description": "Zorgdomein Nederland B.V.",
+  "handle": "KEMA",
+  "description": "Jeremy Jourdan",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a0e:e704:49::/48"
+    ]
   }
 }

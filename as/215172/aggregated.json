@@ -1,9 +1,11 @@
 {
   "asn": 215172,
-  "handle": "SYAHRULLOH",
-  "description": "Syahrulloh",
+  "handle": "JHL-AS",
+  "description": "Jianyue Hugo Liang",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a0f:1cc5:200::/48"
+    ]
   }
 }

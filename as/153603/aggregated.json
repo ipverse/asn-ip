@@ -3,7 +3,9 @@
   "handle": "BENZY-AS-AP",
   "description": "BENZY INFOTECH PRIVATE LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "163.61.140.0/23"
+    ],
     "ipv6": []
   }
 }

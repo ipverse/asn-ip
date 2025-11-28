@@ -3,7 +3,9 @@
   "handle": "LUNA-AS-AP",
   "description": "Luna",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "142.248.228.0/24"
+    ],
     "ipv6": []
   }
 }
