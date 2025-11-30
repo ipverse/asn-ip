@@ -3,9 +3,7 @@
   "handle": "IDNIC-DDS-AS-ID",
   "description": "PT Dukodu Digital Solution",
   "subnets": {
-    "ipv4": [
-      "160.191.204.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

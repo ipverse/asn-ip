@@ -4,7 +4,7 @@
   "description": "Hollander \u0026 Jacobsen UG (haftungsbeschraenkt)",
   "subnets": {
     "ipv4": [
-      "195.72.60.0/24"
+      "195.72.60.0/23"
     ],
     "ipv6": [
       "2a07:e043::/32"

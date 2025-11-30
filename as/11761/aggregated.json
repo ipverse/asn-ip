@@ -4,8 +4,6 @@
   "description": "kkcloud",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2602:f506::/40"
-    ]
+    "ipv6": []
   }
 }

@@ -1,9 +1,11 @@
 {
   "asn": 138185,
-  "handle": "RESERVED",
-  "description": "APNIC ASN block",
+  "handle": "LTSI-AS-AP",
+  "description": "LUKBAN TELEPHONE SYSTEM INC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "203.12.18.0/24"
+    ],
     "ipv6": []
   }
 }

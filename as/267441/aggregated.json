@@ -4,11 +4,10 @@
   "description": "J BARBOSA SERVICOS DE COMUNICACAO MULTIMIDIA LTDA",
   "subnets": {
     "ipv4": [
-      "192.141.16.0/23",
-      "192.141.18.0/24"
+      "192.141.16.0/22"
     ],
     "ipv6": [
-      "2804:4190:8000::/34"
+      "2804:4190::/32"
     ]
   }
 }

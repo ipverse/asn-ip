@@ -4,9 +4,10 @@
   "description": "Kuznetsov Kirill Ivanovich",
   "subnets": {
     "ipv4": [
-      "62.60.227.0/24",
       "178.17.63.0/24"
     ],
-    "ipv6": []
+    "ipv6": [
+      "2a0d:d940:900d::/48"
+    ]
   }
 }

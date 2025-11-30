@@ -4,8 +4,7 @@
   "description": "Securities and Exchange Organization",
   "subnets": {
     "ipv4": [
-      "185.117.204.0/23",
-      "185.117.206.0/24"
+      "185.117.204.0/22"
     ],
     "ipv6": []
   }

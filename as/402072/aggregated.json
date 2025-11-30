@@ -3,7 +3,9 @@
   "handle": "OZONTI-NETWORK-LLC",
   "description": "OZONTI NETWORK LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "23.147.236.0/24"
+    ],
     "ipv6": [
       "2602:f52a::/40"
     ]

@@ -4,7 +4,8 @@
   "description": "Telecable de Rioverde S.A. de C.V",
   "subnets": {
     "ipv4": [
-      "201.218.184.0/22"
+      "201.218.184.0/23",
+      "201.218.186.0/24"
     ],
     "ipv6": [
       "2806:3da::/32"

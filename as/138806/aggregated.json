@@ -3,7 +3,9 @@
   "handle": "IDNIC-KOMINFOKULONPROGO-AS-ID",
   "description": "Dinas Komunikasi dan Informatika Kabupaten Kulon Progo",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.135.180.0/22"
+    ],
     "ipv6": []
   }
 }

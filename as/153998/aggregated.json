@@ -1,0 +1,11 @@
+{
+  "asn": 153998,
+  "handle": "MCBPCL-AS-AP",
+  "description": "Myanmar Citizens Bank Public Company Limited",
+  "subnets": {
+    "ipv4": [
+      "165.101.68.0/23"
+    ],
+    "ipv6": []
+  }
+}
