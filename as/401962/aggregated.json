@@ -3,7 +3,9 @@
   "handle": "CUDDLE-PAWS",
   "description": "CuddlePaws",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "23.145.92.0/24"
+    ],
     "ipv6": [
       "2602:f56c::/40"
     ]

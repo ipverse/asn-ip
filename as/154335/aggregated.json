@@ -3,7 +3,9 @@
   "handle": "NAYSWAN-AS-AP",
   "description": "NAYSWAN NETWORK AND DATA SOLUTION",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "138.252.130.0/23"
+    ],
     "ipv6": []
   }
 }

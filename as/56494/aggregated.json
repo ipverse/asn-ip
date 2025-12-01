@@ -3,7 +3,9 @@
   "handle": "ETISALCOM-CORP",
   "description": "Etisalcom Bahrain Company W.L.L",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.49.160.0/22"
+    ],
     "ipv6": []
   }
 }

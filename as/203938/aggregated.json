@@ -3,7 +3,9 @@
   "handle": "SAMUEL-COSGROVE",
   "description": "Samuel Cosgrove",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.84.89.0/24"
+    ],
     "ipv6": []
   }
 }

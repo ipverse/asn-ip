@@ -3,9 +3,7 @@
   "handle": "MICHIGANTECHGRP-AS",
   "description": "Michigan Tech Group LLC",
   "subnets": {
-    "ipv4": [
-      "67.214.181.0/24"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2602:f989::/40"
     ]

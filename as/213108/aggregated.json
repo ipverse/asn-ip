@@ -3,7 +3,9 @@
   "handle": "ASELKO",
   "description": "ELKO Ukraine Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.36.95.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -1,9 +1,11 @@
 {
   "asn": 212811,
-  "handle": "CODEYELLOW",
-  "description": "Code Yellow B.V.",
+  "handle": "REPIERRE",
+  "description": "Pierre Boudvillain",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a0f:85c1:dd0::/48"
+    ]
   }
 }

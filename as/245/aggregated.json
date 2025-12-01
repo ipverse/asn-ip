@@ -1,0 +1,11 @@
+{
+  "asn": 245,
+  "handle": "PRC-AS",
+  "description": "Planning Research Corporation",
+  "subnets": {
+    "ipv4": [
+      "160.104.0.0/16"
+    ],
+    "ipv6": []
+  }
+}

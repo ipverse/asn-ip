@@ -1,0 +1,11 @@
+{
+  "asn": 1046,
+  "handle": "FIBERIFI",
+  "description": "Fiberifi",
+  "subnets": {
+    "ipv4": [
+      "206.168.244.0/22"
+    ],
+    "ipv6": []
+  }
+}

@@ -3,9 +3,7 @@
   "handle": "GETUPLINK",
   "description": "GETUPLINK - SYSTEM AND NETWORK SOLUTIONS LDA",
   "subnets": {
-    "ipv4": [
-      "194.140.195.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

@@ -3,9 +3,7 @@
   "handle": "SKYBB-PILIPINOCABLE-AS-AP",
   "description": "SkyBroadband Provincial Network",
   "subnets": {
-    "ipv4": [
-      "182.18.238.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

@@ -3,11 +3,7 @@
   "handle": "TUSERVER-Y-SERVERSGAME",
   "description": "JUAN PORRO FLORES",
   "subnets": {
-    "ipv4": [
-      "150.241.253.0/24"
-    ],
-    "ipv6": [
-      "2a0f:85c1:8bc::/48"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

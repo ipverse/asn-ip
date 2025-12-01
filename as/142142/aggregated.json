@@ -3,9 +3,7 @@
   "handle": "LING1-AS-AP",
   "description": "Ling Cloud Corporation Limited",
   "subnets": {
-    "ipv4": [
-      "150.116.14.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

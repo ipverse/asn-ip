@@ -3,9 +3,7 @@
   "handle": "RQBANK-AS",
   "description": "Resalat Interest-free loaning Bank PJS",
   "subnets": {
-    "ipv4": [
-      "5.160.154.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }
