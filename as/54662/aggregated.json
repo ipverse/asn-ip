@@ -1,9 +1,11 @@
 {
   "asn": 54662,
-  "handle": "QBEF-INT-EGRESS-1",
-  "description": "QBE Americas, Inc.",
+  "handle": "ATFS",
+  "description": "OLD REPUBLIC NATIONAL TITLE INSURANCE CO",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "66.193.56.0/24"
+    ],
     "ipv6": []
   }
 }

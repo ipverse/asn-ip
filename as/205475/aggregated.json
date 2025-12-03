@@ -3,9 +3,7 @@
   "handle": "BERKINNET",
   "description": "BerkinNet LTD",
   "subnets": {
-    "ipv4": [
-      "89.251.18.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

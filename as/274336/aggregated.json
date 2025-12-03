@@ -1,0 +1,13 @@
+{
+  "asn": 274336,
+  "handle": "NOVA-INTERNET-PROVEDORES",
+  "description": "NOVA INTERNET PROVEDORES LTDA ME - ME",
+  "subnets": {
+    "ipv4": [
+      "167.250.247.0/24"
+    ],
+    "ipv6": [
+      "2804:9674::/32"
+    ]
+  }
+}

@@ -3,10 +3,7 @@
   "handle": "GENID-AS-ID",
   "description": "Generasi Indonesia Digital PT",
   "subnets": {
-    "ipv4": [
-      "202.51.16.0/24",
-      "202.51.19.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

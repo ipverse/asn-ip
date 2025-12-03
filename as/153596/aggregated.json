@@ -3,7 +3,9 @@
   "handle": "SWISPPL-AS-AP",
   "description": "SWIS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "163.61.129.0/24"
+    ],
     "ipv6": []
   }
 }

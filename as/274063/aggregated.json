@@ -3,7 +3,9 @@
   "handle": "RIMTEL",
   "description": "RIMTEL S.A.S",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.190.87.0/24"
+    ],
     "ipv6": [
       "2803:f2d0:a4::/48",
       "2803:f2d0:b1::/48",

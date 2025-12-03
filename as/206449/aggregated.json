@@ -4,7 +4,8 @@
   "description": "Gunes Express Havacilik A.S",
   "subnets": {
     "ipv4": [
-      "185.186.108.0/22"
+      "185.186.108.0/23",
+      "185.186.110.0/24"
     ],
     "ipv6": []
   }

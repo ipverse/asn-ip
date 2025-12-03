@@ -1,0 +1,13 @@
+{
+  "asn": 215023,
+  "handle": "LIME-HOST",
+  "description": "LIMEE NETWORK LTD",
+  "subnets": {
+    "ipv4": [
+      "82.25.47.0/24"
+    ],
+    "ipv6": [
+      "2a0f:7802:e2bf::/48"
+    ]
+  }
+}

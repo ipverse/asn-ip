@@ -4,7 +4,9 @@
   "description": "Intelligent Cloud Limited",
   "subnets": {
     "ipv4": [
-      "138.252.80.0/23"
+      "103.67.52.0/23",
+      "138.252.80.0/23",
+      "160.25.20.0/23"
     ],
     "ipv6": []
   }

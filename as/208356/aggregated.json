@@ -4,8 +4,6 @@
   "description": "Smart Cities Limited Liability Partnership",
   "subnets": {
     "ipv4": [
-      "188.72.88.0/24",
-      "188.72.90.0/23",
       "188.72.126.0/23"
     ],
     "ipv6": []

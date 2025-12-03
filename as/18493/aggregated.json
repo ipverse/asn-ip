@@ -3,7 +3,10 @@
   "handle": "IGNA-NETWORKS",
   "description": "Igna Networks LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "142.248.16.0/23",
+      "142.248.18.0/24"
+    ],
     "ipv6": []
   }
 }

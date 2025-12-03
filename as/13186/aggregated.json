@@ -4,7 +4,8 @@
   "description": "Evolutio Cloud Enabler S.A. Unipersonal",
   "subnets": {
     "ipv4": [
-      "213.170.62.0/24"
+      "213.170.62.0/24",
+      "213.192.254.0/24"
     ],
     "ipv6": []
   }

@@ -3,7 +3,9 @@
   "handle": "PLXN-ASN-USEAST1",
   "description": "Pluxcon Network USA LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "101.53.77.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "INTERLINK-TECH-AS-ID",
   "description": "PT INTERLINK TECHNOLOGY",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "202.90.194.0/24"
+    ],
     "ipv6": []
   }
 }

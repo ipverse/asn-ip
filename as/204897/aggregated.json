@@ -3,7 +3,9 @@
   "handle": "BESANCON",
   "description": "COMMUNAUTE URBAINE GRAND BESANCON METROPOLE",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "217.26.218.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -1,9 +1,11 @@
 {
   "asn": 203656,
-  "handle": "RESERVED",
-  "description": "RIPE NCC ASN block",
+  "handle": "EASYTECH",
+  "description": "Easy Tech Gaming FZ LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.32.115.0/24"
+    ],
     "ipv6": []
   }
 }

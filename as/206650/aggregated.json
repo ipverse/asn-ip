@@ -4,6 +4,7 @@
   "description": "KINGS LEISURE LIMITED",
   "subnets": {
     "ipv4": [
+      "82.22.52.0/24",
       "104.140.142.0/24",
       "168.222.62.0/24"
     ],

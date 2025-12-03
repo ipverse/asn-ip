@@ -4,7 +4,6 @@
   "description": "Rising Sun Pictures",
   "subnets": {
     "ipv4": [
-      "192.73.22.0/24",
       "203.32.218.0/24"
     ],
     "ipv6": []

@@ -3,7 +3,11 @@
   "handle": "MIE-AS-AP",
   "description": "Maldives internet exchange",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "103.191.77.0/24"
+    ],
+    "ipv6": [
+      "2001:df1:5540::/48"
+    ]
   }
 }

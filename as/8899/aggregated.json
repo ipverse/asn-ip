@@ -4,7 +4,8 @@
   "description": "inexio Informationstechnologie und Telekommunikation Gmbh",
   "subnets": {
     "ipv4": [
-      "77.234.32.0/22",
+      "77.234.32.0/23",
+      "77.234.35.0/24",
       "193.169.72.0/23"
     ],
     "ipv6": []
