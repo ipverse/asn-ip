@@ -1,0 +1,11 @@
+{
+  "asn": 138920,
+  "handle": "RUOB-AS-AP",
+  "description": "Royal University of Bhutan",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2402:2f20::/36"
+    ]
+  }
+}

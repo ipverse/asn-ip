@@ -4,8 +4,7 @@
   "description": "First American Payment Systems Inc",
   "subnets": {
     "ipv4": [
-      "74.123.132.0/22",
-      "208.196.93.0/24"
+      "74.123.134.0/23"
     ],
     "ipv6": []
   }

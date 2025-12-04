@@ -1,9 +1,11 @@
 {
   "asn": 212558,
-  "handle": "KOROL",
-  "description": "FOP Korol Irina Oleksandrivna",
+  "handle": "GLOBALNETSYS",
+  "description": "GLOBALNET SYSTEMS LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "104.222.178.0/24"
+    ],
     "ipv6": []
   }
 }

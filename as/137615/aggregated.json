@@ -3,11 +3,7 @@
   "handle": "DYSYSTEM-AS-IN",
   "description": "Directorate General Of Systems And Data Management",
   "subnets": {
-    "ipv4": [
-      "163.227.108.0/23"
-    ],
-    "ipv6": [
-      "2401:fee0::/47"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

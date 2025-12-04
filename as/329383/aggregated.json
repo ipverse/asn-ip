@@ -3,9 +3,7 @@
   "handle": "NETONE-DATA",
   "description": "NetOne Data Ltd",
   "subnets": {
-    "ipv4": [
-      "102.210.102.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

@@ -1,9 +1,11 @@
 {
   "asn": 575,
-  "handle": "DNIC-00",
-  "description": "Headquarters, USAISC",
+  "handle": "DNIC-AS-00575",
+  "description": "Headquarters USAISC",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2608:16b:6100::/40"
+    ]
   }
 }

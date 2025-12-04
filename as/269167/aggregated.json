@@ -3,11 +3,7 @@
   "handle": "MAIS-CONECTIVIDADE",
   "description": "MAIS CONECTIVIDADE LTDA",
   "subnets": {
-    "ipv4": [
-      "45.180.92.0/23",
-      "45.180.94.0/24",
-      "138.118.188.0/22"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2804:6070::/32"
     ]

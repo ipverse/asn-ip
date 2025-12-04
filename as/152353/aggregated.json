@@ -3,7 +3,9 @@
   "handle": "IDNIC-HANANNET-AS-ID",
   "description": "PT Hanan Media Solution",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "157.10.180.0/24"
+    ],
     "ipv6": []
   }
 }

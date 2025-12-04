@@ -3,7 +3,9 @@
   "handle": "SEBAIT-AS-AP",
   "description": "SEBA IT",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.79.216.0/22"
+    ],
     "ipv6": []
   }
 }

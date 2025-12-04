@@ -1,9 +1,11 @@
 {
   "asn": 11439,
-  "handle": "CANERIS",
-  "description": "Caneris Inc.",
+  "handle": "VERTEXCORE-NET",
+  "description": "VertexCore LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "148.153.216.0/23"
+    ],
     "ipv6": []
   }
 }

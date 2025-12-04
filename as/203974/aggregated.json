@@ -1,9 +1,11 @@
 {
   "asn": 203974,
-  "handle": "ADS",
-  "description": "ADVERTISING DISTRIBUTION SUPPLIES SRL",
+  "handle": "GPM-KIT",
+  "description": "GPM KIT Limited Liability Company",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.232.30.0/24"
+    ],
     "ipv6": []
   }
 }

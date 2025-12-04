@@ -1,0 +1,11 @@
+{
+  "asn": 401889,
+  "handle": "DATASPHERE-IX",
+  "description": "Infinitron Internet LLC",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2602:f7dc:3::/48"
+    ]
+  }
+}

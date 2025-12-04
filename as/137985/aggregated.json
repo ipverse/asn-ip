@@ -3,9 +3,7 @@
   "handle": "DOTINTERNET-AS-AP",
   "description": "Dot Internet",
   "subnets": {
-    "ipv4": [
-      "103.241.195.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

@@ -4,7 +4,7 @@
   "description": "Lemon IP group d.o.o",
   "subnets": {
     "ipv4": [
-      "62.108.104.0/23"
+      "62.108.104.0/24"
     ],
     "ipv6": []
   }

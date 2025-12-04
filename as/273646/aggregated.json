@@ -4,6 +4,8 @@
   "description": "Transmissora Aliança de Energia Elétrica S.A",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2804:1f3c:8000::/40"
+    ]
   }
 }

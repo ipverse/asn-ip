@@ -3,11 +3,7 @@
   "handle": "ORG-SSL130-RIPE",
   "description": "Sumptuous styles Ltd",
   "subnets": {
-    "ipv4": [
-      "151.242.4.0/24",
-      "151.242.14.0/24",
-      "151.242.32.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

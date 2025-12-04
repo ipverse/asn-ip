@@ -3,10 +3,7 @@
   "handle": "RAL-AS-AP",
   "description": "Racing Australia Limited",
   "subnets": {
-    "ipv4": [
-      "103.136.140.0/24",
-      "103.136.142.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

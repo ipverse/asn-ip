@@ -1,9 +1,11 @@
 {
   "asn": 203359,
-  "handle": "MAOREMOBILE",
-  "description": "BJT PARTNERS SAS",
+  "handle": "RVC-AS",
+  "description": "Roschupkina Viktoriia Chunuevna",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a0d:e247::/32"
+    ]
   }
 }

@@ -1,0 +1,13 @@
+{
+  "asn": 203486,
+  "handle": "PALVELINPUISTO",
+  "description": "Palvelinpuisto Oy",
+  "subnets": {
+    "ipv4": [
+      "188.95.66.0/24"
+    ],
+    "ipv6": [
+      "2a11:13c0::/29"
+    ]
+  }
+}

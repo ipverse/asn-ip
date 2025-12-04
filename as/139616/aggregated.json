@@ -4,7 +4,7 @@
   "description": "The Central Bank of Bangladesh",
   "subnets": {
     "ipv4": [
-      "103.142.142.0/24",
+      "103.142.142.0/23",
       "114.130.42.0/23"
     ],
     "ipv6": []

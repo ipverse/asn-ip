@@ -1,9 +1,11 @@
 {
   "asn": 203345,
-  "handle": "RESERVED",
-  "description": "RIPE NCC ASN block",
+  "handle": "SST",
+  "description": "S.A.R.L STACK SYSTEMS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "109.122.8.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "TROPYNIN-AS",
   "description": "Tropynin Oleg",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.0.111.0/24"
+    ],
     "ipv6": []
   }
 }
