@@ -3,7 +3,9 @@
   "handle": "RESTART",
   "description": "Restart Energy One SA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "93.115.42.0/24"
+    ],
     "ipv6": []
   }
 }

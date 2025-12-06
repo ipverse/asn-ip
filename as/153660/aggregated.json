@@ -3,9 +3,7 @@
   "handle": "QLSC-AS-AP",
   "description": "Quad L Solutions Corp",
   "subnets": {
-    "ipv4": [
-      "163.223.30.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

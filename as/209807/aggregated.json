@@ -1,9 +1,11 @@
 {
   "asn": 209807,
-  "handle": "BIPGROUP",
-  "description": "BIP GROUP S A",
+  "handle": "SANDCHASCHTE",
+  "description": "Sandchaschte",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2001:67c:ed0::/48"
+    ]
   }
 }

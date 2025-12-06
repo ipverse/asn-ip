@@ -3,7 +3,9 @@
   "handle": "SYSLEVEL",
   "description": "SysLevel SAS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "81.27.84.0/24"
+    ],
     "ipv6": [
       "2a12:8ac0::/40",
       "2a12:8ac1::/32"

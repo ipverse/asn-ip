@@ -3,9 +3,7 @@
   "handle": "COOP-SERV-PUB",
   "description": "Coop de Serv Púb de Arroyo Dulce Ltda",
   "subnets": {
-    "ipv4": [
-      "201.182.112.0/22"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

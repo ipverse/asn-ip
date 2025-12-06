@@ -1,9 +1,11 @@
 {
   "asn": 139328,
-  "handle": "RESERVED",
-  "description": "APNIC ASN block",
+  "handle": "IDNIC-JARTECH-AS-ID",
+  "description": "PT Jaringmas Digital Teknologi",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "165.101.56.0/24"
+    ],
     "ipv6": []
   }
 }

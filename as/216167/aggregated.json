@@ -4,6 +4,7 @@
   "description": "Gamma Telecom Holdings Ltd",
   "subnets": {
     "ipv4": [
+      "62.223.8.0/24",
       "62.223.10.0/23"
     ],
     "ipv6": []

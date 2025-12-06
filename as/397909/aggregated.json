@@ -4,7 +4,6 @@
   "description": "Elk Grove Unified School District",
   "subnets": {
     "ipv4": [
-      "134.45.0.0/16",
       "206.15.247.0/24",
       "207.166.54.0/24"
     ],

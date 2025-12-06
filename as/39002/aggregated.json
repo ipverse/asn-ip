@@ -1,9 +1,11 @@
 {
   "asn": 39002,
-  "handle": "XINDI",
+  "handle": "XINDI-AS",
   "description": "XINDI Networks SRL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.173.17.0/24"
+    ],
     "ipv6": []
   }
 }

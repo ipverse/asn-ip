@@ -1,0 +1,11 @@
+{
+  "asn": 203142,
+  "handle": "GOODTEC-RU",
+  "description": "SIA GOOD",
+  "subnets": {
+    "ipv4": [
+      "130.49.180.0/24"
+    ],
+    "ipv6": []
+  }
+}

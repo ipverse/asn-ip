@@ -4,9 +4,10 @@
   "description": "CONEXÃO WEB - SOLUÇÕES EM REDES E TELECOMUNICAÇÕES",
   "subnets": {
     "ipv4": [
-      "179.124.212.0/24",
-      "179.124.214.0/23"
+      "179.124.212.0/22"
     ],
-    "ipv6": []
+    "ipv6": [
+      "2804:7e50::/32"
+    ]
   }
 }

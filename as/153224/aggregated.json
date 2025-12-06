@@ -3,7 +3,9 @@
   "handle": "CNCBBD-AS-IN",
   "description": "CLICK N CONNECT NETWORK SOLUTIONS PVT LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "160.187.140.0/24"
+    ],
     "ipv6": []
   }
 }

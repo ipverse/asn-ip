@@ -3,7 +3,9 @@
   "handle": "DVCL-AS-AP",
   "description": "DCConnect Vietnam Company Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "138.252.206.0/23"
+    ],
     "ipv6": []
   }
 }
