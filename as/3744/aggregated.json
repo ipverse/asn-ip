@@ -3,9 +3,7 @@
   "handle": "CAN-NET",
   "description": "Consolidated Access \u0026 Networks, Inc.",
   "subnets": {
-    "ipv4": [
-      "206.42.64.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

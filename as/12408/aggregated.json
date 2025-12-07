@@ -3,7 +3,9 @@
   "handle": "BIKENT-AS",
   "description": "LLC Bi-Kent",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.15.147.0/24"
+    ],
     "ipv6": []
   }
 }

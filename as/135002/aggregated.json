@@ -3,9 +3,7 @@
   "handle": "SGX-AS-AP",
   "description": "Singapore Exchange Limited",
   "subnets": {
-    "ipv4": [
-      "103.205.76.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

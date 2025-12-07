@@ -3,7 +3,9 @@
   "handle": "BEAUMONT-CITY01",
   "description": "City of Beaumont TX",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "38.134.149.0/24"
+    ],
     "ipv6": []
   }
 }

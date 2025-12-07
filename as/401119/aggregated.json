@@ -1,0 +1,13 @@
+{
+  "asn": 401119,
+  "handle": "MARRINERTECH",
+  "description": "Marriner Technology Solutions",
+  "subnets": {
+    "ipv4": [
+      "23.180.24.0/24"
+    ],
+    "ipv6": [
+      "2602:f8d3::/40"
+    ]
+  }
+}

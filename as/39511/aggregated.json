@@ -4,6 +4,7 @@
   "description": "VIP NET CONSULTING SRL",
   "subnets": {
     "ipv4": [
+      "85.122.104.0/24",
       "89.34.110.0/24"
     ],
     "ipv6": [

@@ -3,9 +3,7 @@
   "handle": "BI-CDN-IX",
   "description": "Equinix Japan Enterprise K.K",
   "subnets": {
-    "ipv4": [
-      "202.211.32.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

@@ -1,13 +1,9 @@
 {
   "asn": 7356,
   "handle": "HEXI-AS",
-  "description": "HEXI LLC",
+  "description": "Sikla Tech Limited",
   "subnets": {
-    "ipv4": [
-      "23.133.44.0/24"
-    ],
-    "ipv6": [
-      "2602:f716::/40"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

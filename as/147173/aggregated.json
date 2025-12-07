@@ -3,7 +3,9 @@
   "handle": "IDNIC-DIPADATATELEKOMUNIKASI-AS-ID",
   "description": "PT Dipa Data Telekomunikasi",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "138.252.44.0/23"
+    ],
     "ipv6": []
   }
 }

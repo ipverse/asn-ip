@@ -4,6 +4,7 @@
   "description": "GRU TELCOM SA DE CV",
   "subnets": {
     "ipv4": [
+      "38.123.78.0/24",
       "45.142.41.0/24"
     ],
     "ipv6": []
