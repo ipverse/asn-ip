@@ -3,7 +3,10 @@
   "handle": "CHANGWAY-AS",
   "description": "Chang Way Technologies Co. Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.93.20.0/24",
+      "185.11.61.0/24"
+    ],
     "ipv6": []
   }
 }

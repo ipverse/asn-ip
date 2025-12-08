@@ -3,7 +3,9 @@
   "handle": "FIBERIFI",
   "description": "Fiberifi",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "206.168.245.0/24"
+    ],
     "ipv6": []
   }
 }

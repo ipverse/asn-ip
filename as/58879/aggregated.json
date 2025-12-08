@@ -3,12 +3,7 @@
   "handle": "ANCHNET",
   "description": "Shanghai Anchang Network Security Technology Co. Ltd",
   "subnets": {
-    "ipv4": [
-      "118.184.105.0/24",
-      "118.184.106.0/23",
-      "118.193.144.0/24",
-      "118.193.176.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

@@ -3,9 +3,7 @@
   "handle": "FLORIANO",
   "description": "Floriano SAS",
   "subnets": {
-    "ipv4": [
-      "38.211.126.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

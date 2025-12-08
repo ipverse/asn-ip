@@ -3,7 +3,9 @@
   "handle": "VSI",
   "description": "Visionet Systems Inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "142.249.34.0/24"
+    ],
     "ipv6": []
   }
 }

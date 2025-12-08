@@ -4,6 +4,8 @@
   "description": "Hezardastan Unit Cloud Computing PJSC",
   "subnets": {
     "ipv4": [
+      "78.109.203.0/24",
+      "78.109.207.0/24",
       "185.248.32.0/24"
     ],
     "ipv6": []

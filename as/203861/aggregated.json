@@ -1,9 +1,11 @@
 {
   "asn": 203861,
-  "handle": "PEDJOEANGDIGITAL-RIPE",
-  "description": "Pedjoeang Digital Networks Ltd",
+  "handle": "MITEFLUX-AS",
+  "description": "Miteflux Technologies Ltd",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a14:9e00:b00b::/48"
+    ]
   }
 }

@@ -1,9 +1,11 @@
 {
   "asn": 2827,
-  "handle": "KH",
-  "description": "Kelsey Hayes Corporation",
+  "handle": "MOMTAZICT-AS",
+  "description": "Momtaz ICT",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "130.12.89.0/24"
+    ],
     "ipv6": []
   }
 }

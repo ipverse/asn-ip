@@ -1,0 +1,11 @@
+{
+  "asn": 153928,
+  "handle": "SATISFYSOFT2-AS-AP",
+  "description": "SatisfySoft",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2001:df5:a140::/48"
+    ]
+  }
+}

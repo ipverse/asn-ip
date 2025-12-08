@@ -3,9 +3,7 @@
   "handle": "SPEEDNET-ACARA",
   "description": "SPEEDNET ACARA LTDA",
   "subnets": {
-    "ipv4": [
-      "38.210.120.0/23"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2804:89bc::/32"
     ]
