@@ -3,7 +3,10 @@
   "handle": "BYTEBLISS-SOLUTIONS",
   "description": "Hemant Singh Taratiya trading as BYTEBLISS SOLUTIONS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "74.0.55.0/24",
+      "103.72.102.0/24"
+    ],
     "ipv6": []
   }
 }

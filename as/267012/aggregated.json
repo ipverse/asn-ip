@@ -3,7 +3,9 @@
   "handle": "INTERCOL-SERVICOS-INTERNET",
   "description": "Intercol Serviços de Internet Ltda",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.227.122.0/24"
+    ],
     "ipv6": []
   }
 }

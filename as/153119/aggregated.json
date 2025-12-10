@@ -3,9 +3,7 @@
   "handle": "IDNIC-INTANPARIWARA-AS-ID",
   "description": "PT Intan Pariwara",
   "subnets": {
-    "ipv4": [
-      "160.187.107.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

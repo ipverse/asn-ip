@@ -3,7 +3,12 @@
   "handle": "PROVEDOR-INTERSOUSA",
   "description": "PROVEDOR INTERSOUSA LTDA",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "177.85.72.0/22",
+      "200.0.56.0/22"
+    ],
+    "ipv6": [
+      "2804:17bc::/32"
+    ]
   }
 }

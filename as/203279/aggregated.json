@@ -1,9 +1,11 @@
 {
   "asn": 203279,
-  "handle": "MSYS-ESSE",
-  "description": "Bjoern Maenken",
+  "handle": "UM-WODZISLAW-SLASKI-AS",
+  "description": "Miasto Wodzislaw Slaski",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "81.15.237.0/24"
+    ],
     "ipv6": []
   }
 }

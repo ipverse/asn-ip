@@ -4,6 +4,7 @@
   "description": "Currenta GmbH \u0026 Co. OHG",
   "subnets": {
     "ipv4": [
+      "185.138.4.0/22",
       "193.16.36.0/22"
     ],
     "ipv6": [

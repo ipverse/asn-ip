@@ -3,10 +3,7 @@
   "handle": "YESONGIT-NETWORKS",
   "description": "Suzhou Yesong Information Technology Co. Ltd",
   "subnets": {
-    "ipv4": [
-      "31.57.10.0/24",
-      "155.117.188.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

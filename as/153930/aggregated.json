@@ -1,0 +1,13 @@
+{
+  "asn": 153930,
+  "handle": "TUNETALKSDNBHD-AS-AP",
+  "description": "Tune Talk Sdn. Bhd",
+  "subnets": {
+    "ipv4": [
+      "165.99.144.0/23"
+    ],
+    "ipv6": [
+      "2001:df6:31c0::/48"
+    ]
+  }
+}

@@ -4,6 +4,7 @@
   "description": "Buy Way Personal Finance SA trading as BUY WAY SERVICES GEIE",
   "subnets": {
     "ipv4": [
+      "37.72.110.0/24",
       "185.217.63.0/24"
     ],
     "ipv6": [

@@ -3,7 +3,9 @@
   "handle": "SKY-AS",
   "description": "Auction LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.147.126.0/24"
+    ],
     "ipv6": []
   }
 }

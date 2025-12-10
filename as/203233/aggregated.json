@@ -1,9 +1,11 @@
 {
   "asn": 203233,
-  "handle": "CIT",
-  "description": "MAU Center of information technologies",
+  "handle": "IT-DONE-RIGHT",
+  "description": "Aleksey ten Cate trading as I.T. Done Right",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a0f:85c1:ddc::/48"
+    ]
   }
 }

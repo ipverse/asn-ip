@@ -3,7 +3,9 @@
   "handle": "IDNIC-KALIMASADAINTISARANA-AS-ID",
   "description": "PT Kalimasada Inti Sarana",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.132.41.0/24"
+    ],
     "ipv6": []
   }
 }
