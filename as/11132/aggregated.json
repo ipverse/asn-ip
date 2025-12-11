@@ -1,9 +1,11 @@
 {
   "asn": 11132,
-  "handle": "JDA-EHEALTH-SYSTEMS",
-  "description": "JDA eHealth Systems, Inc.",
+  "handle": "ASMSA-AS",
+  "description": "ARKANSAS SCHOOL FOR MATHEMATICS SCIENCES \u0026 THE ARTS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "23.147.212.0/24"
+    ],
     "ipv6": []
   }
 }

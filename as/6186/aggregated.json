@@ -3,7 +3,9 @@
   "handle": "GARCIA-ASN",
   "description": "Garcia Consulting Inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "160.104.0.0/16"
+    ],
     "ipv6": []
   }
 }

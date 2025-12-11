@@ -3,7 +3,9 @@
   "handle": "JUDSON-OLIVEIRA-LIMA",
   "description": "Judson Oliveira Lima ME",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "216.28.129.0/24"
+    ],
     "ipv6": [
       "2804:8380::/32"
     ]

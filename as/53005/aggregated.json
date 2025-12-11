@@ -4,6 +4,7 @@
   "description": "REDE CONNECT TELECOMUNICACOES LTDA",
   "subnets": {
     "ipv4": [
+      "45.161.16.0/22",
       "45.188.120.0/22",
       "168.90.164.0/22",
       "170.238.164.0/22",

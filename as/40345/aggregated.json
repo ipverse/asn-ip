@@ -3,7 +3,9 @@
   "handle": "IP-COM",
   "description": "IP-Com LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "204.44.138.0/23"
+    ],
     "ipv6": []
   }
 }

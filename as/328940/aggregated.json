@@ -3,7 +3,10 @@
   "handle": "VCL8-AS",
   "description": "Vovida Communications Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "102.218.116.0/24",
+      "102.218.118.0/23"
+    ],
     "ipv6": []
   }
 }

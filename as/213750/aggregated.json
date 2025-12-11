@@ -3,12 +3,7 @@
   "handle": "KUXUEYUN-AS",
   "description": "KUXUEYUN LTD",
   "subnets": {
-    "ipv4": [
-      "23.146.72.0/24"
-    ],
-    "ipv6": [
-      "2a13:a5c7:2700::/44",
-      "2a13:a5c7:2720::/44"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

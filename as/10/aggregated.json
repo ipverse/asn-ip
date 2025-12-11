@@ -4,7 +4,6 @@
   "description": "CSNET Coordination and Information Center (CSNET-CIC)",
   "subnets": {
     "ipv4": [
-      "137.196.4.0/24",
       "141.101.225.0/24",
       "170.81.180.0/22",
       "187.111.128.0/20"

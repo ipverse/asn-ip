@@ -3,7 +3,9 @@
   "handle": "JOSELIA-CESAR-SERVICOS",
   "description": "joselia e cesar serviços de telecomunicação ltda m",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "201.131.231.0/24"
+    ],
     "ipv6": [
       "2804:8d00::/32"
     ]

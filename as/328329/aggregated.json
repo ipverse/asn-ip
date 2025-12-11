@@ -3,7 +3,9 @@
   "handle": "ARPCE-AS",
   "description": "ARPCE",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "196.49.56.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -4,6 +4,7 @@
   "description": "O\u0027Reilly Automotive Inc",
   "subnets": {
     "ipv4": [
+      "64.111.52.0/24",
       "208.70.182.0/23"
     ],
     "ipv6": []

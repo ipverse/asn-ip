@@ -1,0 +1,11 @@
+{
+  "asn": 53297,
+  "handle": "CIMEAST",
+  "description": "Comcast Cable Communications LLC",
+  "subnets": {
+    "ipv4": [
+      "96.172.0.0/15"
+    ],
+    "ipv6": []
+  }
+}

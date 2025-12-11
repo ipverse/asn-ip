@@ -3,11 +3,7 @@
   "handle": "NETWALK-TELECOMUNICACOES-EM",
   "description": "Netwalk Telecomunicações em Inf. Ltda",
   "subnets": {
-    "ipv4": [
-      "187.87.144.0/21",
-      "187.87.152.0/23",
-      "187.87.155.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

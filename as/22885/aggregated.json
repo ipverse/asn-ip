@@ -4,7 +4,8 @@
   "description": "ADVERTISING SPECIALTY INSTITUTE INC",
   "subnets": {
     "ipv4": [
-      "63.175.140.0/23"
+      "63.175.140.0/23",
+      "199.0.184.0/24"
     ],
     "ipv6": []
   }

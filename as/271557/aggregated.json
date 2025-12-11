@@ -4,10 +4,8 @@
   "description": "TOP FIBRA TV E INTERNET LTDA",
   "subnets": {
     "ipv4": [
-      "181.233.188.0/22"
+      "181.233.188.0/24"
     ],
-    "ipv6": [
-      "2804:7d60::/32"
-    ]
+    "ipv6": []
   }
 }

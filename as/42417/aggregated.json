@@ -3,7 +3,9 @@
   "handle": "NTTDATARO-AS",
   "description": "NTT DATA ROMANIA S.A",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.239.218.0/23"
+    ],
     "ipv6": []
   }
 }

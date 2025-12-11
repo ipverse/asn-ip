@@ -3,7 +3,11 @@
   "handle": "RODRIGUEZ-CABLEVISION",
   "description": "RODRIGUEZ CABLEVISION SRL",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "38.10.131.0/24"
+    ],
+    "ipv6": [
+      "2803:a650::/32"
+    ]
   }
 }

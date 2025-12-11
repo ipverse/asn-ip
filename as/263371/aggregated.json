@@ -4,6 +4,7 @@
   "description": "Intervia Solucoes Ltda",
   "subnets": {
     "ipv4": [
+      "177.23.187.0/24",
       "191.37.200.0/21"
     ],
     "ipv6": [

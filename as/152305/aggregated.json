@@ -3,7 +3,9 @@
   "handle": "EASYNETWORK-AS-AP",
   "description": "Easy Network",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "157.10.82.0/24"
+    ],
     "ipv6": []
   }
 }

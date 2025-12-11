@@ -1,9 +1,11 @@
 {
   "asn": 139773,
-  "handle": "NETEX-AP",
-  "description": "Netex Limited",
+  "handle": "BANBEIS-AS-AP",
+  "description": "Bangladesh Bureau of Educational Information and Statistics",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "144.79.22.0/23"
+    ],
     "ipv6": []
   }
 }

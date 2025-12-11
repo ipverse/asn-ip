@@ -4,8 +4,7 @@
   "description": "Meghna Seeds Crushing Mills Ltd",
   "subnets": {
     "ipv4": [
-      "103.193.168.0/24",
-      "103.193.170.0/23"
+      "103.193.168.0/22"
     ],
     "ipv6": []
   }

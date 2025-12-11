@@ -1,0 +1,11 @@
+{
+  "asn": 30611,
+  "handle": "COMPASS-ROSE-LLC",
+  "description": "Compass Rose Asset Management LP",
+  "subnets": {
+    "ipv4": [
+      "38.109.125.0/24"
+    ],
+    "ipv6": []
+  }
+}
