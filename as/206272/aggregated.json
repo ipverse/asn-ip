@@ -3,7 +3,9 @@
   "handle": "BLUVISIO",
   "description": "Bluvisio GmbH",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "171.22.28.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -1,0 +1,11 @@
+{
+  "asn": 397465,
+  "handle": "SKYNET-BROADBAND",
+  "description": "Skynet Broadband",
+  "subnets": {
+    "ipv4": [
+      "8.20.107.0/24"
+    ],
+    "ipv6": []
+  }
+}

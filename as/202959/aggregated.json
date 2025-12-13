@@ -1,9 +1,11 @@
 {
   "asn": 202959,
-  "handle": "JCOLP",
-  "description": "Joshua Colp",
+  "handle": "AS-LUSHU",
+  "description": "Lushu Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.150.40.0/24"
+    ],
     "ipv6": []
   }
 }

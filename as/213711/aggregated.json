@@ -3,11 +3,7 @@
   "handle": "URLSTART",
   "description": "Akshay Singh trading as URLStart",
   "subnets": {
-    "ipv4": [
-      "103.49.131.0/24",
-      "103.115.19.0/24",
-      "103.238.128.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

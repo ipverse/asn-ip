@@ -4,8 +4,10 @@
   "description": "Absk Digital Private Limited",
   "subnets": {
     "ipv4": [
-      "157.66.79.0/24"
+      "157.66.78.0/23"
     ],
-    "ipv6": []
+    "ipv6": [
+      "2401:9120::/32"
+    ]
   }
 }

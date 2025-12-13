@@ -4,6 +4,7 @@
   "description": "SATEL Ltd",
   "subnets": {
     "ipv4": [
+      "37.230.140.0/24",
       "37.230.229.0/24"
     ],
     "ipv6": []

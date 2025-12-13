@@ -1,9 +1,11 @@
 {
   "asn": 214664,
-  "handle": "NIMBAS",
-  "description": "NIMBAS NETWORKS LTD",
+  "handle": "BUDUSCHEE",
+  "description": "JSC Buduschee",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.91.64.0/24"
+    ],
     "ipv6": []
   }
 }

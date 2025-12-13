@@ -3,7 +3,9 @@
   "handle": "XPRESS-DATA",
   "description": "Xpress Data Inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "131.149.244.0/24"
+    ],
     "ipv6": []
   }
 }

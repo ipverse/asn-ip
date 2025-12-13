@@ -3,7 +3,9 @@
   "handle": "YNS-PARTNERS-EIRL",
   "description": "YNS PARTNERS EIRL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "206.53.50.0/24"
+    ],
     "ipv6": []
   }
 }

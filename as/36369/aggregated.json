@@ -3,7 +3,11 @@
   "handle": "LIMEWAVE",
   "description": "Limewave Communications",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "23.131.32.0/24"
+    ],
+    "ipv6": [
+      "2602:fe69:200::/40"
+    ]
   }
 }

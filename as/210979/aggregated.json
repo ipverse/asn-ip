@@ -1,9 +1,11 @@
 {
   "asn": 210979,
-  "handle": "HOSTSPICY",
-  "description": "Sumit Jain trading as Hostspicy Web Solutions Services",
+  "handle": "CORSICASOLE",
+  "description": "Corsica Sole SAS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.231.47.0/24"
+    ],
     "ipv6": []
   }
 }

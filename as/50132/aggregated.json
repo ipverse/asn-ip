@@ -3,9 +3,7 @@
   "handle": "WRG-AS",
   "description": "3nt solutions LLP",
   "subnets": {
-    "ipv4": [
-      "185.115.33.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

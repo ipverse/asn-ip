@@ -1,0 +1,11 @@
+{
+  "asn": 213907,
+  "handle": "CONTROL-PROCESS-SA",
+  "description": "Control Process S.A",
+  "subnets": {
+    "ipv4": [
+      "91.231.241.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,9 +1,11 @@
 {
   "asn": 139257,
-  "handle": "DINCLOUDLLC-AP",
-  "description": "dinCloud, LLC",
+  "handle": "IDNIC-ADHIFANASHA-ID",
+  "description": "PT Adhifa Nasha Saqeena",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "138.252.253.0/24"
+    ],
     "ipv6": []
   }
 }

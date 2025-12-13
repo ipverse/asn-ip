@@ -1,0 +1,11 @@
+{
+  "asn": 140679,
+  "handle": "OSL-AS-AP",
+  "description": "Our School Ltd",
+  "subnets": {
+    "ipv4": [
+      "103.251.168.0/24"
+    ],
+    "ipv6": []
+  }
+}
