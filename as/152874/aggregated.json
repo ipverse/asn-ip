@@ -1,0 +1,13 @@
+{
+  "asn": 152874,
+  "handle": "JONET",
+  "description": "JONET",
+  "subnets": {
+    "ipv4": [
+      "138.252.25.0/24"
+    ],
+    "ipv6": [
+      "2001:df6:34c0::/48"
+    ]
+  }
+}

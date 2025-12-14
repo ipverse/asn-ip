@@ -3,7 +3,9 @@
   "handle": "CLOUD-METRIC",
   "description": "Cloud Metric Inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "142.249.190.0/24"
+    ],
     "ipv6": []
   }
 }

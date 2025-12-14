@@ -3,7 +3,9 @@
   "handle": "COMMETRIC",
   "description": "ComMetric Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "87.118.134.0/24"
+    ],
     "ipv6": []
   }
 }

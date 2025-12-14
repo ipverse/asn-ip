@@ -3,9 +3,7 @@
   "handle": "LEON-HUBRICH",
   "description": "Leon Hubrich",
   "subnets": {
-    "ipv4": [
-      "77.90.48.0/24"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2a0f:b240:7800::/40",
       "2a10:ccc0:eee0::/44",

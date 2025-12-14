@@ -4,7 +4,7 @@
   "description": "Crews Banking Corporation",
   "subnets": {
     "ipv4": [
-      "50.145.154.0/23"
+      "50.145.154.0/24"
     ],
     "ipv6": []
   }

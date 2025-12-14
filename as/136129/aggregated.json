@@ -3,7 +3,9 @@
   "handle": "IDNIC-KEMARITIMAN-AS-ID",
   "description": "Kementerian Koordinator Bidang Kemaritiman RI",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.98.31.0/24"
+    ],
     "ipv6": []
   }
 }

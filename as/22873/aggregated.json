@@ -4,7 +4,8 @@
   "description": "Neighbourhood Connect",
   "subnets": {
     "ipv4": [
-      "199.87.240.0/22"
+      "199.87.240.0/23",
+      "199.87.243.0/24"
     ],
     "ipv6": []
   }

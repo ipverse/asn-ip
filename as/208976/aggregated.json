@@ -4,6 +4,7 @@
   "description": "FS IT-Systeme GmbH",
   "subnets": {
     "ipv4": [
+      "5.10.212.0/24",
       "45.130.46.0/24",
       "185.245.62.0/24"
     ],

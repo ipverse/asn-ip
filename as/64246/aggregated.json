@@ -1,0 +1,12 @@
+{
+  "asn": 64246,
+  "handle": "CRA-CO",
+  "description": "Cator Ruma \u0026 Associates Co",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2602:f65f:1::/48",
+      "2602:f65f:2::/48"
+    ]
+  }
+}

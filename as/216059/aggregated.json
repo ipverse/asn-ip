@@ -3,9 +3,7 @@
   "handle": "FV-APP",
   "description": "FREE VPN APP LIMITED",
   "subnets": {
-    "ipv4": [
-      "143.20.214.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

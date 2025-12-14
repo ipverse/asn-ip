@@ -1,0 +1,11 @@
+{
+  "asn": 154410,
+  "handle": "MTL-AS-AP",
+  "description": "Marshall Telecom LTD",
+  "subnets": {
+    "ipv4": [
+      "194.124.65.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -4,12 +4,13 @@
   "description": "Marcel Andrew Zaiser trading as Metaliance ISP Systems e.k",
   "subnets": {
     "ipv4": [
+      "146.19.42.0/24",
       "185.216.213.0/24",
-      "185.216.215.0/24",
+      "185.216.214.0/23",
       "193.25.174.0/23"
     ],
     "ipv6": [
-      "2a0b:bbc0::/40"
+      "2a0b:bbc0::/32"
     ]
   }
 }

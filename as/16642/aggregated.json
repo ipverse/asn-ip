@@ -1,9 +1,11 @@
 {
   "asn": 16642,
-  "handle": "OGILVYGROUP",
-  "description": "The Ogilvy Group, Inc.",
+  "handle": "WPP-ET-CAMPUS-ZURICH",
+  "description": "The Ogilvy Group LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.229.40.0/23"
+    ],
     "ipv6": []
   }
 }

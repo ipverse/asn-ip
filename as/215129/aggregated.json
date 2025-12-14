@@ -3,7 +3,9 @@
   "handle": "WPL-133-215129",
   "description": "Wodarek Productions LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "23.135.52.0/24"
+    ],
     "ipv6": [
       "2a0c:9a40:8560::/44"
     ]

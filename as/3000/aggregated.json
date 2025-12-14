@@ -3,7 +3,9 @@
   "handle": "SPRINT-MRN-BLOCK",
   "description": "U.S. Sprint",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.185.98.0/24"
+    ],
     "ipv6": [
       "2804:639c:c000::/34"
     ]

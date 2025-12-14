@@ -3,7 +3,9 @@
   "handle": "AS-RIVULET",
   "description": "Rivulet Wireless Inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "192.76.164.0/24"
+    ],
     "ipv6": []
   }
 }

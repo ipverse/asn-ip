@@ -1,9 +1,11 @@
 {
   "asn": 148982,
-  "handle": "BQIT-AP",
+  "handle": "BQIT-AS-AP",
   "description": "Bijie Qiulin Information Technology",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "82.39.206.0/23"
+    ],
     "ipv6": []
   }
 }

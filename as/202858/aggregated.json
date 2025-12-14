@@ -1,9 +1,11 @@
 {
   "asn": 202858,
-  "handle": "PL-INTER-KOM",
-  "description": "P.H.U. INTER-KOM PRZEMYSLAW CYRANIK",
+  "handle": "ALASTAIRBARB",
+  "description": "Alastair Barber",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a0c:b641:820::/47"
+    ]
   }
 }
