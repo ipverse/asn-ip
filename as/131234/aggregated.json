@@ -3,7 +3,9 @@
   "handle": "AEDAS-HK",
   "description": "Aedas Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "202.52.35.0/24"
+    ],
     "ipv6": []
   }
 }

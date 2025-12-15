@@ -1,9 +1,12 @@
 {
   "asn": 26246,
-  "handle": "JPI",
-  "description": "JPI Partners LLC",
+  "handle": "CNHIN-NAFTA",
+  "description": "CNH INDUSTRIAL AMERICA LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "159.61.240.0/24",
+      "159.61.250.0/24"
+    ],
     "ipv6": []
   }
 }

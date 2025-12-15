@@ -3,7 +3,9 @@
   "handle": "ARPU-TELECOMMUNICATIONS",
   "description": "Arpu Telecommunication Services S.A.E",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "102.207.24.0/24"
+    ],
     "ipv6": []
   }
 }

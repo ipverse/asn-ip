@@ -3,7 +3,9 @@
   "handle": "IDNIC-JEFFNETWORK-AS-ID",
   "description": "PT Jeff Network Nusantara",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "157.15.168.0/23"
+    ],
     "ipv6": []
   }
 }

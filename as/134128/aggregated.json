@@ -4,7 +4,7 @@
   "description": "Mega Speed Net",
   "subnets": {
     "ipv4": [
-      "103.54.148.0/22"
+      "103.54.148.0/23"
     ],
     "ipv6": [
       "2402:3b80::/32"

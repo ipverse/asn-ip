@@ -3,10 +3,7 @@
   "handle": "PINATON-AS",
   "description": "Pinaton LLC",
   "subnets": {
-    "ipv4": [
-      "5.183.129.0/24",
-      "213.226.113.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }
