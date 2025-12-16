@@ -3,9 +3,7 @@
   "handle": "IXOR-AS",
   "description": "SIEF - Skanes Internetknutpunkts Ekonomiska Forening",
   "subnets": {
-    "ipv4": [
-      "45.129.57.0/24"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2a03:1b20:beee::/48"
     ]

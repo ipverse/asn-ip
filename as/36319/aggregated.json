@@ -4,7 +4,7 @@
   "description": "NorthShore University HealthSystem",
   "subnets": {
     "ipv4": [
-      "198.251.18.0/23",
+      "198.251.16.0/22",
       "204.26.16.0/20"
     ],
     "ipv6": []

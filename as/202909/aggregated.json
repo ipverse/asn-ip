@@ -1,9 +1,11 @@
 {
   "asn": 202909,
-  "handle": "TELETRONIC",
-  "description": "TeleTronic Telekommunikations Service GmbH",
+  "handle": "KUEBLER",
+  "description": "Benjamin Kuebler",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2001:678:1180::/48"
+    ]
   }
 }

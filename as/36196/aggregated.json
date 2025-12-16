@@ -1,0 +1,11 @@
+{
+  "asn": 36196,
+  "handle": "COMCAST-TELECOMM-5",
+  "description": "Comcast Cable Communications LLC",
+  "subnets": {
+    "ipv4": [
+      "96.180.0.0/15"
+    ],
+    "ipv6": []
+  }
+}

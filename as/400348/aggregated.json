@@ -1,9 +1,12 @@
 {
   "asn": 400348,
-  "handle": "APOG-PITT-TECH",
-  "description": "Apogee Telecom Inc.",
+  "handle": "APOG-UNION-RESNET",
+  "description": "Apogee Telecom Inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "64.189.153.0/24",
+      "64.189.154.0/23"
+    ],
     "ipv6": []
   }
 }

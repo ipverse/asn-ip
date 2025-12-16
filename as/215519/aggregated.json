@@ -1,9 +1,11 @@
 {
   "asn": 215519,
-  "handle": "WEB-ANDALAS",
-  "description": "PT ANDALAS BERSAMA TEKNOLOGI",
+  "handle": "SKB-AS",
+  "description": "SKB LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "170.168.78.0/24"
+    ],
     "ipv6": []
   }
 }

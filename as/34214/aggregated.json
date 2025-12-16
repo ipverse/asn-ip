@@ -4,6 +4,7 @@
   "description": "TOV IP Media Group",
   "subnets": {
     "ipv4": [
+      "154.49.0.0/22",
       "194.88.1.0/24"
     ],
     "ipv6": []

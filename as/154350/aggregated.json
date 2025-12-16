@@ -3,7 +3,9 @@
   "handle": "ATZCORP-VN",
   "description": "ATZ CORP JOINT STOCK COMPANY",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "138.252.152.0/23"
+    ],
     "ipv6": []
   }
 }

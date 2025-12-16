@@ -4,6 +4,8 @@
   "description": "CAMARA MUNICIPAL DE JOAO PESSOA",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2801:81:1b0::/48"
+    ]
   }
 }

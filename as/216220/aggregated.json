@@ -1,9 +1,11 @@
 {
   "asn": 216220,
-  "handle": "GIGANODES-NET",
-  "description": "GigaNode Technologies Private Limited",
+  "handle": "EDR-CH",
+  "description": "Edmond de Rothschild (Suisse) SA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "216.162.198.0/23"
+    ],
     "ipv6": []
   }
 }

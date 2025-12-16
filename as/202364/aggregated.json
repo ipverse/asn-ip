@@ -4,7 +4,8 @@
   "description": "Grid Hosting Limited",
   "subnets": {
     "ipv4": [
-      "185.119.108.0/22"
+      "185.119.108.0/23",
+      "185.119.111.0/24"
     ],
     "ipv6": []
   }

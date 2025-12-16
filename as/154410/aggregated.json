@@ -4,7 +4,8 @@
   "description": "Marshall Telecom LTD",
   "subnets": {
     "ipv4": [
-      "194.124.65.0/24"
+      "31.56.71.0/24",
+      "103.125.104.0/22"
     ],
     "ipv6": []
   }

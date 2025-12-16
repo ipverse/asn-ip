@@ -4,6 +4,7 @@
   "description": "Zweckverband fuer Rettungsdienst und Feuerwehralarmierung Saar",
   "subnets": {
     "ipv4": [
+      "185.92.152.0/22",
       "185.206.230.0/24"
     ],
     "ipv6": [

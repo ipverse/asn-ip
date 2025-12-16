@@ -4,6 +4,7 @@
   "description": "Easy Tech Gaming FZ LLC",
   "subnets": {
     "ipv4": [
+      "143.20.177.0/24",
       "193.32.115.0/24"
     ],
     "ipv6": []

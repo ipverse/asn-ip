@@ -3,9 +3,7 @@
   "handle": "KALINA-AS",
   "description": "LLC Unilever Rus",
   "subnets": {
-    "ipv4": [
-      "193.104.24.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

@@ -3,7 +3,10 @@
   "handle": "CCTC-ASN1",
   "description": "Coleman County Telephone Cooperative Inc",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "74.84.11.0/24",
+      "128.254.236.0/22"
+    ],
     "ipv6": []
   }
 }

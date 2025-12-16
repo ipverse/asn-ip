@@ -1,9 +1,11 @@
 {
   "asn": 210881,
-  "handle": "HOFFMANN",
-  "description": "Sebastian Hoffmann",
+  "handle": "LEO-SCHERR",
+  "description": "Leo Scherr trading as OnThePixel",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a12:bec4:1ea0::/44"
+    ]
   }
 }

@@ -4,6 +4,7 @@
   "description": "Gannett Supply Corp. - Greensboro NC",
   "subnets": {
     "ipv4": [
+      "167.8.14.0/24",
       "167.8.31.0/24"
     ],
     "ipv6": []
