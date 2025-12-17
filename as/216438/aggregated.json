@@ -3,7 +3,9 @@
   "handle": "HLNETWORKING-AS",
   "description": "Raphael LAURENS",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.146.193.0/24"
+    ],
     "ipv6": [
       "2a0e:8f02:f077::/48"
     ]

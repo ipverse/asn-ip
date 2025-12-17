@@ -3,7 +3,9 @@
   "handle": "CONNECTED-AS-AP",
   "description": "Connected Intelligence Pty Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "222.229.88.0/21"
+    ],
     "ipv6": []
   }
 }

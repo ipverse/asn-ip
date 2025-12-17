@@ -4,6 +4,7 @@
   "description": "TEGNA Inc",
   "subnets": {
     "ipv4": [
+      "167.8.52.0/24",
       "167.8.82.0/24"
     ],
     "ipv6": []

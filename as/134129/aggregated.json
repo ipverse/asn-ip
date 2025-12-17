@@ -1,9 +1,11 @@
 {
   "asn": 134129,
-  "handle": "RESERVED",
-  "description": "APNIC ASN block",
+  "handle": "IDNIC-IDNNUNET-ID",
+  "description": "PT IDN NUSANTARA NETWORK",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "165.99.192.0/23"
+    ],
     "ipv6": []
   }
 }

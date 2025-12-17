@@ -1,0 +1,11 @@
+{
+  "asn": 203919,
+  "handle": "LIFEINCLOUD-AS",
+  "description": "LifeinCloud LTD",
+  "subnets": {
+    "ipv4": [
+      "45.135.36.0/24"
+    ],
+    "ipv6": []
+  }
+}

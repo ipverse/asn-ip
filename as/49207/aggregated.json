@@ -3,9 +3,7 @@
   "handle": "SANGANCO-AS",
   "description": "Sangan Khorasan Steel Mineral Industry Company (JSC)",
   "subnets": {
-    "ipv4": [
-      "92.249.56.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

@@ -1,9 +1,11 @@
 {
   "asn": 133898,
-  "handle": "FLIPTVPTYLIMITED-AP",
+  "handle": "FLIPTVPTYLIMITED-AS-AP",
   "description": "FLIP TV PTY LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.197.144.0/22"
+    ],
     "ipv6": []
   }
 }

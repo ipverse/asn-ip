@@ -4,7 +4,8 @@
   "description": "Gannett Supply Corp. - Minneapolis MN",
   "subnets": {
     "ipv4": [
-      "167.8.6.0/24"
+      "167.8.6.0/24",
+      "167.8.46.0/24"
     ],
     "ipv6": []
   }

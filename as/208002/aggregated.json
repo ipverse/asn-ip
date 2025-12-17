@@ -3,7 +3,10 @@
   "handle": "NGTEK",
   "description": "HizliNet Teknoloji A.S",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "185.137.212.0/23",
+      "185.137.214.0/24"
+    ],
     "ipv6": []
   }
 }

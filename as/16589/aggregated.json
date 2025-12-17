@@ -3,9 +3,7 @@
   "handle": "WIREDTECH",
   "description": "Wired Tech LLC",
   "subnets": {
-    "ipv4": [
-      "141.195.120.0/22"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

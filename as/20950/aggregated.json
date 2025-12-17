@@ -3,7 +3,9 @@
   "handle": "RICC-AS",
   "description": "Regional Informational Computer Center Rovnen regional council",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.187.216.0/22"
+    ],
     "ipv6": []
   }
 }

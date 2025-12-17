@@ -3,7 +3,9 @@
   "handle": "QAWOLF-ASN-01",
   "description": "QA WOLF INC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "199.4.213.0/24"
+    ],
     "ipv6": []
   }
 }

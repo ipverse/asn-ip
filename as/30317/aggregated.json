@@ -3,7 +3,9 @@
   "handle": "WITONE",
   "description": "WIT",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "216.120.207.0/24"
+    ],
     "ipv6": []
   }
 }

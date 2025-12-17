@@ -3,7 +3,10 @@
   "handle": "DOLLAR-1855",
   "description": "Dollar Bank",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "64.208.127.0/24",
+      "64.241.120.0/23"
+    ],
     "ipv6": []
   }
 }

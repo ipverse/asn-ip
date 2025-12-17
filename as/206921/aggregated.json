@@ -4,6 +4,7 @@
   "description": "Lazentis B.V",
   "subnets": {
     "ipv4": [
+      "143.20.39.0/24",
       "151.240.10.0/24"
     ],
     "ipv6": [

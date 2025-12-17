@@ -1,9 +1,11 @@
 {
   "asn": 215392,
-  "handle": "INCSERVERS",
-  "description": "Jose Socrates Reviejo Bermejo",
+  "handle": "MUL-CT",
+  "description": "Medizinische Universitaet Lausitz Carl Thiem",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2001:67c:a64::/48"
+    ]
   }
 }

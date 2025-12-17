@@ -4,6 +4,7 @@
   "description": "COATL S.A. de C.V",
   "subnets": {
     "ipv4": [
+      "154.9.48.0/24",
       "204.157.224.0/23"
     ],
     "ipv6": [

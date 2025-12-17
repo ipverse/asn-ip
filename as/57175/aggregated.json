@@ -1,9 +1,11 @@
 {
   "asn": 57175,
-  "handle": "SAKURA",
-  "description": "SAKURA LTD.",
+  "handle": "SAKURA-AS",
+  "description": "Tianhai InfoTech Limited",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a13:1802:c276::/48"
+    ]
   }
 }
