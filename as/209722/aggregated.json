@@ -1,0 +1,11 @@
+{
+  "asn": 209722,
+  "handle": "TRYWARE",
+  "description": "Tryware OU",
+  "subnets": {
+    "ipv4": [
+      "143.20.71.0/24"
+    ],
+    "ipv6": []
+  }
+}

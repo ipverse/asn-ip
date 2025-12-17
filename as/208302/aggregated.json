@@ -3,7 +3,9 @@
   "handle": "ECO-HOME-ASN",
   "description": "Elliott Cooper",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "44.30.11.0/24"
+    ],
     "ipv6": []
   }
 }

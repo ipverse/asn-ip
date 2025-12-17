@@ -4,6 +4,8 @@
   "description": "Sunshine City Networks Security Limited",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2406:81c0::/32"
+    ]
   }
 }

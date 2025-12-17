@@ -4,7 +4,8 @@
   "description": "PT Internet Solusi Prima",
   "subnets": {
     "ipv4": [
-      "103.118.184.0/22"
+      "103.118.185.0/24",
+      "103.118.187.0/24"
     ],
     "ipv6": []
   }

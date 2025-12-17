@@ -3,7 +3,9 @@
   "handle": "DNIC-AS-03470",
   "description": "United States Department of Defense (DoD)",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "198.49.205.0/24"
+    ],
     "ipv6": []
   }
 }

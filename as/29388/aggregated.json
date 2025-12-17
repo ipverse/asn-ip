@@ -3,7 +3,11 @@
   "handle": "ASN-BESTCOM",
   "description": "Best Telecom ISP",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "217.72.144.0/20"
+    ],
+    "ipv6": [
+      "2a02:5800::/32"
+    ]
   }
 }

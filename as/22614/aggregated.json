@@ -1,0 +1,11 @@
+{
+  "asn": 22614,
+  "handle": "IGA-ASN-01",
+  "description": "Legislative Services Agency",
+  "subnets": {
+    "ipv4": [
+      "192.133.116.0/24"
+    ],
+    "ipv6": []
+  }
+}

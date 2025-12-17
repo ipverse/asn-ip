@@ -1,0 +1,11 @@
+{
+  "asn": 273266,
+  "handle": "APCO-NETWORKS",
+  "description": "Apco Networks",
+  "subnets": {
+    "ipv4": [
+      "148.222.56.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,9 +1,13 @@
 {
   "asn": 203149,
-  "handle": "ZP-16X-3",
-  "description": "FOP Markovskiy Denis Vadimovich",
+  "handle": "ORG-UFL2-RIPE",
+  "description": "UrbanNet Fibre LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "104.140.116.0/24",
+      "170.130.14.0/24",
+      "206.174.148.0/24"
+    ],
     "ipv6": []
   }
 }

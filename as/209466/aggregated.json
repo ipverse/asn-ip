@@ -3,7 +3,9 @@
   "handle": "DROVIACOMPUTACAO",
   "description": "Drovia Computacao em Nuvem Ltda",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "143.20.196.0/24"
+    ],
     "ipv6": [
       "2a0c:b641:a0::/44"
     ]

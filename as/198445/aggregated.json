@@ -3,7 +3,9 @@
   "handle": "RDI-AS",
   "description": "RDI Group LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.234.170.0/24"
+    ],
     "ipv6": []
   }
 }

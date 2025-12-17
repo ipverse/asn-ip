@@ -4,7 +4,8 @@
   "description": "Moveon Telecoms Limited",
   "subnets": {
     "ipv4": [
-      "102.205.40.0/22"
+      "102.205.40.0/23",
+      "102.205.42.0/24"
     ],
     "ipv6": []
   }

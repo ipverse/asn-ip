@@ -3,7 +3,9 @@
   "handle": "PKL-AS",
   "description": "Polska Kompania Leasingowa sp. z o.o",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "37.46.12.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,10 @@
   "handle": "DIRECT-LAN-TELECOMUNICACOES",
   "description": "DIRECT LAN TELECOMUNICAÇÕES SOROCABA LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "168.0.164.0/22",
+      "191.242.224.0/22"
+    ],
     "ipv6": []
   }
 }
