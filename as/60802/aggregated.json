@@ -3,9 +3,7 @@
   "handle": "KB",
   "description": "Kevin Buehl",
   "subnets": {
-    "ipv4": [
-      "31.42.183.0/24"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2001:67c:bcc::/48"
     ]

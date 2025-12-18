@@ -3,7 +3,9 @@
   "handle": "WINGSFI-AS-IN",
   "description": "WINGSFI PRIVATE LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "160.22.146.0/23"
+    ],
     "ipv6": []
   }
 }

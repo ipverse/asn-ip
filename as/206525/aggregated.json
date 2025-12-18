@@ -4,6 +4,7 @@
   "description": "AERLINK SARL",
   "subnets": {
     "ipv4": [
+      "87.121.88.0/24",
       "185.183.208.0/22"
     ],
     "ipv6": []

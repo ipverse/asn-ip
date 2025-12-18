@@ -3,7 +3,9 @@
   "handle": "CLTGROUP-AS",
   "description": "CLT GROUP S.R.L",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "195.93.155.0/24"
+    ],
     "ipv6": []
   }
 }

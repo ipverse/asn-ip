@@ -3,7 +3,9 @@
   "handle": "MAXWEBTEJ-AS-IN",
   "description": "Maxweb Multimedia Private Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.111.156.0/23"
+    ],
     "ipv6": []
   }
 }

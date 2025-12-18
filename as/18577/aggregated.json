@@ -3,7 +3,9 @@
   "handle": "MIC-64",
   "description": "ManTech International Corporation",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "108.174.242.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "PHCCNET",
   "description": "Pasco-Hernando State College",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "205.236.81.0/24"
+    ],
     "ipv6": []
   }
 }

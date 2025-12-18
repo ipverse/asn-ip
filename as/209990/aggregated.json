@@ -3,7 +3,9 @@
   "handle": "KARMUZ-AS",
   "description": "Diyaaeldin Moustafa trading as Karmuz",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "217.147.14.0/24"
+    ],
     "ipv6": [
       "2001:678:58c::/48",
       "2a14:ae00:8::/48"

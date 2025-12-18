@@ -3,7 +3,9 @@
   "handle": "IRINN-SNIPL-AS-IN",
   "description": "SN INFOWAY PRIVATE LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "165.101.228.0/23"
+    ],
     "ipv6": [
       "2402:1a20::/32"
     ]

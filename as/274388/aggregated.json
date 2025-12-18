@@ -1,0 +1,11 @@
+{
+  "asn": 274388,
+  "handle": "PLAY-CONECT-TELECOM",
+  "description": "PLAY CONECT TELECOM",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2804:9728::/32"
+    ]
+  }
+}

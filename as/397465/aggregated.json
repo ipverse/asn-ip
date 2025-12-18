@@ -3,7 +3,10 @@
   "handle": "SKYNET-BROADBAND",
   "description": "Skynet Broadband",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "8.20.107.0/24",
+      "64.28.164.0/22"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "FOCUS-AESTHETIC-DYNAMICS",
   "description": "FOCUS AESTHETIC DYNAMICS SRL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "80.96.14.0/23"
+    ],
     "ipv6": []
   }
 }
