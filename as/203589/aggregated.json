@@ -1,9 +1,13 @@
 {
   "asn": 203589,
-  "handle": "SERVBIT",
-  "description": "Servbit Research SRL",
+  "handle": "HOSTWEAVE-AS",
+  "description": "HOSTWEAVE LTD",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "194.31.141.0/24"
+    ],
+    "ipv6": [
+      "2a0b:b81:3600::/40"
+    ]
   }
 }

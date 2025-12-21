@@ -3,12 +3,7 @@
   "handle": "ASAD-AS",
   "description": "Asadov Ruslan Rafaelevich",
   "subnets": {
-    "ipv4": [
-      "45.150.66.0/24",
-      "138.124.181.0/24"
-    ],
-    "ipv6": [
-      "2a0e:4005:1000::/48"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

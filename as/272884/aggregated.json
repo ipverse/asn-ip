@@ -3,7 +3,11 @@
   "handle": "LEOWISP",
   "description": "LEOWISP SAS",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "181.224.92.0/23"
+    ],
+    "ipv6": [
+      "2803:ba90::/32"
+    ]
   }
 }

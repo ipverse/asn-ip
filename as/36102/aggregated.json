@@ -1,5 +1,7 @@
 {
   "asn": 36102,
+  "handle": "PFS",
+  "description": "State Street Bank and Trust Company",
   "subnets": {
     "ipv4": [
       "74.204.249.0/24",

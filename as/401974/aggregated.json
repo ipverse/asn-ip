@@ -3,7 +3,9 @@
   "handle": "VVUSD-157-233",
   "description": "Val Verde Unified School District",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "157.233.0.0/16"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,11 @@
   "handle": "FRR-TESTLAB",
   "description": "Network Device Education Foundation Inc",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "204.99.140.0/24"
+    ],
+    "ipv6": [
+      "2a07:e480:110::/48"
+    ]
   }
 }

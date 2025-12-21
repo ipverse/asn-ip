@@ -3,9 +3,7 @@
   "handle": "SLIC-NETWORK-AS",
   "description": "Starmount Insurance Agency Inc",
   "subnets": {
-    "ipv4": [
-      "198.186.149.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

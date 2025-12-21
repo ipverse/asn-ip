@@ -3,7 +3,9 @@
   "handle": "TRIAKSES-ID",
   "description": "PT. Tri Akses Nusantara",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.213.235.0/24"
+    ],
     "ipv6": []
   }
 }

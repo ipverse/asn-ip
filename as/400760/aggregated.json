@@ -3,7 +3,11 @@
   "handle": "ACCESSON-NETWORKS-INC",
   "description": "AccessOn Networks Inc",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "23.141.24.0/24"
+    ],
+    "ipv6": [
+      "2606:f840::/32"
+    ]
   }
 }
