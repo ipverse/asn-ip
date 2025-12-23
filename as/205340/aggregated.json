@@ -1,9 +1,11 @@
 {
   "asn": 205340,
-  "handle": "ANKE",
-  "description": "Chengdu Anke Network Technology Co., Ltd.",
+  "handle": "MARINBANK",
+  "description": "MARIN YATIRIM BANKASI ANONIM SIRKETI",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "46.251.250.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -3,7 +3,9 @@
   "handle": "ADPORTS-AS",
   "description": "ABU DHABI PORTS COMPANY PJSC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "213.134.1.0/24"
+    ],
     "ipv6": []
   }
 }

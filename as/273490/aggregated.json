@@ -3,7 +3,9 @@
   "handle": "FIBRION-INTERNET",
   "description": "FIBRION INTERNET LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "200.15.32.0/20"
+    ],
     "ipv6": [
       "2804:8f6c::/32"
     ]

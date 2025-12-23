@@ -4,6 +4,7 @@
   "description": "Brasil Cloud Servicos de Computacao em Nuvem Ltda",
   "subnets": {
     "ipv4": [
+      "177.84.30.0/24",
       "177.131.140.0/22"
     ],
     "ipv6": [

@@ -4,6 +4,7 @@
   "description": "Freshwave Services Limited",
   "subnets": {
     "ipv4": [
+      "78.41.141.0/24",
       "185.171.220.0/22"
     ],
     "ipv6": [

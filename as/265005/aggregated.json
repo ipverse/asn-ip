@@ -4,6 +4,7 @@
   "description": "IPWORKS SISTEMAS LTDA ME",
   "subnets": {
     "ipv4": [
+      "31.56.2.0/24",
       "170.84.200.0/22"
     ],
     "ipv6": []

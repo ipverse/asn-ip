@@ -4,6 +4,7 @@
   "description": "Garcia Consulting Inc",
   "subnets": {
     "ipv4": [
+      "146.3.0.0/16",
       "160.104.0.0/16"
     ],
     "ipv6": []

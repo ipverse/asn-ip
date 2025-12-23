@@ -1,0 +1,12 @@
+{
+  "asn": 55168,
+  "handle": "ACAB-INC",
+  "description": "All Computers Are Brilliant Inc",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2604:a20:1::/48",
+      "2604:a20:1312::/48"
+    ]
+  }
+}

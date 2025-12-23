@@ -1,9 +1,11 @@
 {
   "asn": 393368,
-  "handle": "VANIR-BROADBAND",
-  "description": "Vanir Broadband LLC",
+  "handle": "NYAKI",
+  "description": "Nyaki Technologies LLC",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2620:a4:b040::/48"
+    ]
   }
 }

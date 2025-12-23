@@ -1,9 +1,11 @@
 {
   "asn": 215784,
-  "handle": "RESERVED",
-  "description": "RIPE NCC ASN block",
+  "handle": "ONEHEBERGE",
+  "description": "luc ruiz trading as ONEHEBERGE",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a0f:85c1:e1d::/48"
+    ]
   }
 }

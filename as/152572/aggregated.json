@@ -3,7 +3,9 @@
   "handle": "SNSCORENO-AS-IN",
   "description": "SHIV NADAR TRUST",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "157.66.179.0/24"
+    ],
     "ipv6": []
   }
 }

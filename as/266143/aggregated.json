@@ -4,6 +4,7 @@
   "description": "UP LINK INTERNET BANDA LARGA",
   "subnets": {
     "ipv4": [
+      "45.182.192.0/22",
       "160.20.20.0/22",
       "186.251.206.0/23"
     ],

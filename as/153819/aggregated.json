@@ -3,9 +3,7 @@
   "handle": "GLOBUSSOFT-AS-AP",
   "description": "GLOBUSSOFT",
   "subnets": {
-    "ipv4": [
-      "163.227.174.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

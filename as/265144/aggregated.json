@@ -4,6 +4,7 @@
   "description": "MCD INFORMATICA E TELECOMUNICACOES LTDA - ME",
   "subnets": {
     "ipv4": [
+      "45.179.158.0/23",
       "131.161.44.0/22",
       "143.255.108.0/22"
     ],

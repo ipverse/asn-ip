@@ -3,7 +3,9 @@
   "handle": "PARIS-AS",
   "description": "PARIS ACCESSORIES INC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "206.217.74.0/24"
+    ],
     "ipv6": []
   }
 }
