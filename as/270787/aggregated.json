@@ -3,7 +3,9 @@
   "handle": "CLICK-IP-DATA-CENTERS",
   "description": "CLICK IP DATA CENTERS LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "177.85.184.0/24"
+    ],
     "ipv6": []
   }
 }

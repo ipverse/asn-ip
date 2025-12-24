@@ -4,6 +4,7 @@
   "description": "Data Felix srl",
   "subnets": {
     "ipv4": [
+      "45.138.188.0/24",
       "194.147.219.0/24"
     ],
     "ipv6": []

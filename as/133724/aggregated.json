@@ -3,7 +3,9 @@
   "handle": "SWASTIK-IN-AS",
   "description": "Swastik Internet and Cables pvt. ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.44.116.0/22"
+    ],
     "ipv6": []
   }
 }

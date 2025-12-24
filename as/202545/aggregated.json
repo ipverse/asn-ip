@@ -1,9 +1,11 @@
 {
   "asn": 202545,
-  "handle": "RAPIDATA-AS1",
-  "description": "Kom4tel GmbH",
+  "handle": "YANNIK",
+  "description": "Yannik Schwieger",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2001:678:1190::/48"
+    ]
   }
 }

@@ -4,6 +4,7 @@
   "description": "ZOE NET TELECOMUNICACOES E TECNOLOGIA LTDA",
   "subnets": {
     "ipv4": [
+      "138.204.172.0/22",
       "206.0.25.0/24"
     ],
     "ipv6": [

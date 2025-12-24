@@ -1,6 +1,6 @@
 {
   "asn": 206540,
-  "handle": "BEANSUMMERHOST",
+  "handle": "TOWNBUS",
   "description": "BEANSUMMERHOST NEXTGEN SHED HOSTING SOLUTIONS LLC",
   "subnets": {
     "ipv4": [],
@@ -16,7 +16,8 @@
       "2a14:c380:c19::/48",
       "2a14:c380:c1a::/47",
       "2a14:c380:c20::/46",
-      "2a14:c380:c26::/47"
+      "2a14:c380:c26::/47",
+      "2a14:c380:c2a::/48"
     ]
   }
 }

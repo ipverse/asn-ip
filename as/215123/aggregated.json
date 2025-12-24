@@ -3,11 +3,7 @@
   "handle": "QZ",
   "description": "QZ Teknoloji Anonim Sirketi",
   "subnets": {
-    "ipv4": [
-      "154.194.35.0/24"
-    ],
-    "ipv6": [
-      "2a14:37c0::/29"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

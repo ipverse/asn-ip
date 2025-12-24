@@ -3,7 +3,9 @@
   "handle": "ATLANTICA-TELECOMUNICACOES",
   "description": "ATLANTICA TELECOMUNICAÇÕES LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "209.14.136.0/23"
+    ],
     "ipv6": [
       "2804:87f0::/32"
     ]

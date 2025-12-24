@@ -1,0 +1,12 @@
+{
+  "asn": 205193,
+  "handle": "VALDEHOST",
+  "description": "Xtudio Networks S.L.U",
+  "subnets": {
+    "ipv4": [
+      "185.167.24.0/22",
+      "185.202.144.0/22"
+    ],
+    "ipv6": []
+  }
+}

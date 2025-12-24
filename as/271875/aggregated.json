@@ -3,7 +3,9 @@
   "handle": "MARATEL-CA",
   "description": "MARATEL CA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.38.153.0/24"
+    ],
     "ipv6": []
   }
 }

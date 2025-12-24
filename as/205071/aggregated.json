@@ -3,9 +3,7 @@
   "handle": "CC-NETZ-AS03",
   "description": "Christian clos",
   "subnets": {
-    "ipv4": [
-      "185.231.96.0/22"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

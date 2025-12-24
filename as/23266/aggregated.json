@@ -1,0 +1,11 @@
+{
+  "asn": 23266,
+  "handle": "COMCAST-23266",
+  "description": "Comcast Cable Communications LLC",
+  "subnets": {
+    "ipv4": [
+      "96.188.0.0/14"
+    ],
+    "ipv6": []
+  }
+}

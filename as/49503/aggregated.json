@@ -3,7 +3,9 @@
   "handle": "IDE-GROUP-MANAGE",
   "description": "BE DC Connect UK Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.169.90.0/23"
+    ],
     "ipv6": []
   }
 }

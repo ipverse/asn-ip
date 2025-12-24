@@ -3,7 +3,10 @@
   "handle": "ONEDC-IBRAHIMTUNCIL",
   "description": "Ibrahim TUNCIL",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "5.182.34.0/24",
+      "82.22.4.0/24"
+    ],
     "ipv6": []
   }
 }

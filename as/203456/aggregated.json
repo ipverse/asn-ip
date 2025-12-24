@@ -1,9 +1,11 @@
 {
   "asn": 203456,
-  "handle": "ILE-DE-BEAUTE",
-  "description": "JSC ILE DE BEAUTE",
+  "handle": "BORK",
+  "description": "BORK Import LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "91.206.54.0/24"
+    ],
     "ipv6": []
   }
 }

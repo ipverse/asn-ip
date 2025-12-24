@@ -4,7 +4,7 @@
   "description": "naviHealth Inc",
   "subnets": {
     "ipv4": [
-      "107.191.64.0/23"
+      "107.191.64.0/24"
     ],
     "ipv6": []
   }

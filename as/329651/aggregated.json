@@ -3,7 +3,9 @@
   "handle": "INTEGRIS",
   "description": "integris",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "102.204.24.0/22"
+    ],
     "ipv6": []
   }
 }

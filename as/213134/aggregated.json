@@ -4,6 +4,7 @@
   "description": "DIGITAIN LLC",
   "subnets": {
     "ipv4": [
+      "82.39.190.0/24",
       "154.51.2.0/23"
     ],
     "ipv6": []
