@@ -3,9 +3,7 @@
   "handle": "AS-TAIPEI-ARIN",
   "description": "TAIPEI101 NETWORK LLC",
   "subnets": {
-    "ipv4": [
-      "64.49.28.0/24"
-    ],
+    "ipv4": [],
     "ipv6": [
       "2602:faa8:8b::/48"
     ]

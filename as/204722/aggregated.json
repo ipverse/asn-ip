@@ -1,9 +1,11 @@
 {
   "asn": 204722,
-  "handle": "MEGA-NET-RU",
-  "description": "Gontar Vitaliy Gennadievich",
+  "handle": "WIX-LIKE",
+  "description": "w-ix ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.246.35.0/24"
+    ],
     "ipv6": []
   }
 }

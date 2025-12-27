@@ -1,0 +1,12 @@
+{
+  "asn": 214300,
+  "handle": "LAYER4-GROUP",
+  "description": "Layer 4 Group LLC",
+  "subnets": {
+    "ipv4": [
+      "80.83.88.0/23",
+      "95.134.48.0/23"
+    ],
+    "ipv6": []
+  }
+}

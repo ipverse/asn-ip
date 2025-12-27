@@ -1,9 +1,11 @@
 {
   "asn": 202828,
-  "handle": "HHY",
-  "description": "Ho Ho Yeung",
+  "handle": "ASPATCHA",
+  "description": "Patcharakorn Communication Limited Partnership",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "104.238.11.0/24"
+    ],
     "ipv6": []
   }
 }

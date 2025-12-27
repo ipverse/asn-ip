@@ -4,10 +4,8 @@
   "description": "DEAN MURILO GONCALVES OLIVEIRA - ME",
   "subnets": {
     "ipv4": [
-      "45.182.244.0/22"
+      "45.182.246.0/23"
     ],
-    "ipv6": [
-      "2804:6198::/32"
-    ]
+    "ipv6": []
   }
 }

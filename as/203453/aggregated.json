@@ -3,7 +3,9 @@
   "handle": "DISCOUNTWEBHOSTING",
   "description": "RegXpress Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "143.20.19.0/24"
+    ],
     "ipv6": []
   }
 }

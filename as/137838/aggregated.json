@@ -3,7 +3,9 @@
   "handle": "CPNSC-AS-AP",
   "description": "CHALERNSUB PROFESSIONAL NETWORK CO. LTD",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.174.9.0/24"
+    ],
     "ipv6": []
   }
 }

@@ -4,10 +4,7 @@
   "description": "Cooperativa Telefonica Carlos Tejedor Ltda",
   "subnets": {
     "ipv4": [
-      "190.9.0.0/24",
-      "190.9.11.0/24",
-      "190.9.12.0/22",
-      "190.9.16.0/20"
+      "190.9.0.0/19"
     ],
     "ipv6": []
   }
