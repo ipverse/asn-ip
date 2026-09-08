@@ -1,0 +1,16 @@
+{
+  "asn": 218790,
+  "metadata": {
+    "handle": "BASE9-AS",
+    "description": "BASE9 BILISIM TEKNOLOJILERI TICARET AS",
+    "countryCode": "TR",
+    "country": "Türkiye",
+    "origin": "authoritative",
+    "category": null,
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "188.132.251.0/24" ],
+    "ipv6": [ ]
+  }
+}

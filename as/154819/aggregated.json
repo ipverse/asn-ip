@@ -1,0 +1,16 @@
+{
+  "asn": 154819,
+  "metadata": {
+    "handle": "IDNIC-ELMI-ID",
+    "description": "PT Ekanet Lintas Media Indonesia",
+    "countryCode": "ID",
+    "country": "Indonesia",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "45.249.182.0/23" ],
+    "ipv6": [ ]
+  }
+}

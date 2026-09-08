@@ -3,12 +3,14 @@
   "metadata": {
     "handle": "GEOTEL-IT-AS-AP",
     "description": "Geotel Bangladesh IT Ltd.",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+    "countryCode": "BD",
+    "country": "Bangladesh",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
   },
   "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [ "103.57.120.0/22" ],
+    "ipv6": [ ]
   }
 }

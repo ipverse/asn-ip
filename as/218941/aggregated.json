@@ -1,0 +1,16 @@
+{
+  "asn": 218941,
+  "metadata": {
+    "handle": "FOELLMI",
+    "description": "Foellmi ICT AG",
+    "countryCode": "CH",
+    "country": "Switzerland",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "62.129.136.0/23" ],
+    "ipv6": [ ]
+  }
+}

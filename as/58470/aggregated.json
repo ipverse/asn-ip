@@ -1,12 +1,12 @@
 {
   "asn": 58470,
   "metadata": {
-    "handle": "MOBILINK-PEERING-AS-PK",
-    "description": "Mobilink GSM Pakistan Mobile Communication Ltd.",
+    "handle": "JPL-PK-PEERING-AS-PK",
+    "description": "JAZZWORLD PAKISTAN LIMITED",
     "countryCode": "PK",
     "country": "Pakistan",
     "origin": "authoritative",
-    "category": "isp",
+    "category": "hosting",
     "networkRole": "midsize_transit"
   },
   "prefixes": {

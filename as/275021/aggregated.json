@@ -1,0 +1,16 @@
+{
+  "asn": 275021,
+  "metadata": {
+    "handle": "COSMOS-TELECOMUNICACIONES",
+    "description": "COSMOS TELECOMUNICACIONES SAS",
+    "countryCode": "CO",
+    "country": "Colombia",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "38.9.34.0/23" ],
+    "ipv6": [ ]
+  }
+}

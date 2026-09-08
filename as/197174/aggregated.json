@@ -1,0 +1,16 @@
+{
+  "asn": 197174,
+  "metadata": {
+    "handle": "ANTHOID",
+    "description": "GRIGOROPOULOS RND L.P.",
+    "countryCode": "GR",
+    "country": "Greece",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2a06:9801:74d::/48" ]
+  }
+}

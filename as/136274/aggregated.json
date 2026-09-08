@@ -1,14 +1,16 @@
 {
   "asn": 136274,
   "metadata": {
-    "handle": "CSPL-AP",
+    "handle": "CSPL-AS-AP",
     "description": "Cloud Servers Pvt Ltd",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+    "countryCode": "PK",
+    "country": "Pakistan",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
   },
   "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [ "103.86.8.0/22" ],
+    "ipv6": [ ]
   }
 }

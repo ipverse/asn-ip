@@ -1,0 +1,16 @@
+{
+  "asn": 218757,
+  "metadata": {
+    "handle": "MYCHEAPHOST",
+    "description": "MYCHEAP LTD",
+    "countryCode": "GB",
+    "country": "United Kingdom",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "177.29.247.0/24" ],
+    "ipv6": [ ]
+  }
+}

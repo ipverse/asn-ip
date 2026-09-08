@@ -3,12 +3,14 @@
   "metadata": {
     "handle": "INFININET-AS-AP",
     "description": "Infininet Global Pty Ltd",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+    "countryCode": "AU",
+    "country": "Australia",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
   },
   "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [ ],
+    "ipv6": [ "2401:2060:1337::/48" ]
   }
 }

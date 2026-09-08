@@ -1,0 +1,16 @@
+{
+  "asn": 58803,
+  "metadata": {
+    "handle": "OPTIMAX-AS-AP",
+    "description": "OptiMax Communication Ltd",
+    "countryCode": "BD",
+    "country": "Bangladesh",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "43.254.96.0/22" ],
+    "ipv6": [ ]
+  }
+}

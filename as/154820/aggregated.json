@@ -1,0 +1,16 @@
+{
+  "asn": 154820,
+  "metadata": {
+    "handle": "BZHOSTING-AS-AP",
+    "description": "Bzhosting",
+    "countryCode": "BD",
+    "country": "Bangladesh",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "151.240.226.0/24", "151.240.250.0/23", "151.240.252.0/24", "151.247.175.0/24", "154.203.249.0/24", "154.204.38.0/23", "154.204.44.0/23" ],
+    "ipv6": [ ]
+  }
+}
