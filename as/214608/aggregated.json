@@ -1,0 +1,16 @@
+{
+  "asn": 214608,
+  "metadata": {
+    "handle": "GAZINET",
+    "description": "Gazinet Internet Iletisim teknolojileri ltd. Sti.",
+    "countryCode": "TR",
+    "country": "Türkiye",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "212.47.41.0/24" ],
+    "ipv6": [ ]
+  }
+}

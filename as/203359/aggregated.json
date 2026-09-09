@@ -6,11 +6,11 @@
     "countryCode": "RU",
     "country": "Russia",
     "origin": "authoritative",
-    "category": "isp",
+    "category": "hosting",
     "networkRole": "stub"
   },
   "prefixes": {
     "ipv4": [ ],
-    "ipv6": [ ]
+    "ipv6": [ "2a0d:e247::/32", "2a11:77c2::/32", "2a11:7d02::/32", "2a11:7d04::/32", "2a12:e82::/32", "2a12:e87::/32", "2a12:bc86::/32", "2a12:d800::/32" ]
   }
 }

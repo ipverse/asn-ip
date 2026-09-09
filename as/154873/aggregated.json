@@ -1,0 +1,16 @@
+{
+  "asn": 154873,
+  "metadata": {
+    "handle": "INGLESE1-AS-AP",
+    "description": "INGLESE BRENDAN ANTHONY",
+    "countryCode": "AU",
+    "country": "Australia",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2001:df7:6f40::/48" ]
+  }
+}

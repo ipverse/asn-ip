@@ -1,0 +1,16 @@
+{
+  "asn": 200320,
+  "metadata": {
+    "handle": "DIOXINET",
+    "description": "Soltia Consulting SL",
+    "countryCode": "ES",
+    "country": "Spain",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "185.37.230.0/24", "185.156.216.0/23", "185.156.218.0/24", "185.162.170.0/24", "195.8.49.0/24", "195.8.118.0/23" ],
+    "ipv6": [ ]
+  }
+}

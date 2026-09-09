@@ -6,11 +6,11 @@
     "countryCode": "IT",
     "country": "Italy",
     "origin": "authoritative",
-    "category": "isp",
+    "category": "hosting",
     "networkRole": "access_provider"
   },
   "prefixes": {
-    "ipv4": [ "185.26.198.0/23" ],
+    "ipv4": [ ],
     "ipv6": [ "2a00:8c60:2::/47" ]
   }
 }

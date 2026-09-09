@@ -1,0 +1,16 @@
+{
+  "asn": 218797,
+  "metadata": {
+    "handle": "CHEUNGZIT-TRADE-LIMITED",
+    "description": "CHEUNGZIT TRADE LIMITED",
+    "countryCode": "HK",
+    "country": "Hong Kong SAR China",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "82.109.158.0/24", "168.222.99.0/24" ],
+    "ipv6": [ ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 23206,
+  "metadata": {
+    "handle": "HCCC-AS",
+    "description": "Highlands County Clerk of Courts",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "government_admin",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "74.80.194.0/24" ],
+    "ipv6": [ ]
+  }
+}

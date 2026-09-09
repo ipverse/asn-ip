@@ -1,0 +1,16 @@
+{
+  "asn": 218899,
+  "metadata": {
+    "handle": "LOGINS-PT",
+    "description": "LOGICO & INSUPERAVEL UNIPESSOAL LDA",
+    "countryCode": "PT",
+    "country": "Portugal",
+    "origin": "authoritative",
+    "category": null,
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "179.254.91.0/24" ],
+    "ipv6": [ ]
+  }
+}

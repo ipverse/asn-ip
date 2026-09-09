@@ -1,0 +1,16 @@
+{
+  "asn": 218750,
+  "metadata": {
+    "handle": "CHEESE-AS",
+    "description": "Egor Belanov",
+    "countryCode": "RU",
+    "country": "Russia",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2a0b:4e07:6300::/40" ]
+  }
+}

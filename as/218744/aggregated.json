@@ -1,0 +1,16 @@
+{
+  "asn": 218744,
+  "metadata": {
+    "handle": "AYDAN-AS",
+    "description": "Aydan Abrahams",
+    "countryCode": "GB",
+    "country": "United Kingdom",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2a0d:f900::/48" ]
+  }
+}

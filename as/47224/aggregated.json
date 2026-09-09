@@ -1,14 +1,16 @@
 {
   "asn": 47224,
   "metadata": {
-    "handle": "NOVERCA",
+    "handle": "NOVERCA-AS",
     "description": "Telecom Italia S.p.A.",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+    "countryCode": "IT",
+    "country": "Italy",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
   },
   "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [ ],
+    "ipv6": [ "2a02:e2c0::/29" ]
   }
 }

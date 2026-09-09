@@ -1,0 +1,16 @@
+{
+  "asn": 218809,
+  "metadata": {
+    "handle": "YADDA-VOXN",
+    "description": "Yadda OU",
+    "countryCode": "EE",
+    "country": "Estonia",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "82.109.194.0/24" ],
+    "ipv6": [ ]
+  }
+}

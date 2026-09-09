@@ -1,0 +1,16 @@
+{
+  "asn": 154887,
+  "metadata": {
+    "handle": "IDEALNETWORK-AS-AP",
+    "description": "IDEAL NETWORK",
+    "countryCode": "BD",
+    "country": "Bangladesh",
+    "origin": "authoritative",
+    "category": null,
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "163.52.126.0/23" ],
+    "ipv6": [ ]
+  }
+}
