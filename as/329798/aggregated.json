@@ -1,0 +1,16 @@
+{
+  "asn": 329798,
+  "metadata": {
+    "handle": "ORANNGE-LIBYA-FOR-TELECOMMUNICATION",
+    "description": "Orannge Libya for Telecommunication and Modern Technology",
+    "countryCode": "LY",
+    "country": "Libya",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "102.201.116.0/24", "102.201.119.0/24" ],
+    "ipv6": [ ]
+  }
+}

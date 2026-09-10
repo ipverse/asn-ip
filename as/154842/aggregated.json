@@ -1,0 +1,16 @@
+{
+  "asn": 154842,
+  "metadata": {
+    "handle": "IDNIC-RARA-INDONET-SOLUTION-ID",
+    "description": "PT RARA INDONET SOLUTION",
+    "countryCode": "ID",
+    "country": "Indonesia",
+    "origin": "authoritative",
+    "category": null,
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "192.92.15.0/24" ],
+    "ipv6": [ ]
+  }
+}

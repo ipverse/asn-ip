@@ -1,0 +1,16 @@
+{
+  "asn": 154751,
+  "metadata": {
+    "handle": "AITI-AS-AP",
+    "description": "AIRFIBER INTERNET TECHNOLOGIES INC.",
+    "countryCode": "PH",
+    "country": "Philippines",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "160.236.74.0/23" ],
+    "ipv6": [ ]
+  }
+}

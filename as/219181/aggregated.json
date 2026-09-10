@@ -1,0 +1,16 @@
+{
+  "asn": 219181,
+  "metadata": {
+    "handle": "POSIINDUSTRIAL",
+    "description": "PO SI INDUSTRIAL CO. LIMITED",
+    "countryCode": "HK",
+    "country": "Hong Kong SAR China",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "45.142.154.0/24" ],
+    "ipv6": [ ]
+  }
+}

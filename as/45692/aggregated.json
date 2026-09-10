@@ -1,12 +1,12 @@
 {
   "asn": 45692,
   "metadata": {
-    "handle": "DFSI-AS-AP",
-    "description": "DFSI Spatial Services",
+    "handle": "DOCS-ASN",
+    "description": "Department of Customer Service",
     "countryCode": "AU",
     "country": "Australia",
     "origin": "authoritative",
-    "category": "business",
+    "category": "government_admin",
     "networkRole": "stub"
   },
   "prefixes": {

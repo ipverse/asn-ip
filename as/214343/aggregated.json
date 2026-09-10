@@ -1,0 +1,16 @@
+{
+  "asn": 214343,
+  "metadata": {
+    "handle": "IT-NETCOM",
+    "description": "FRANCESCO BOVE",
+    "countryCode": "IT",
+    "country": "Italy",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "31.59.89.0/24" ],
+    "ipv6": [ ]
+  }
+}

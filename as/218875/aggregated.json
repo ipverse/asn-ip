@@ -1,0 +1,16 @@
+{
+  "asn": 218875,
+  "metadata": {
+    "handle": "QUANTUM-FIBER-LTD",
+    "description": "QUANTUM-FIBER LTD",
+    "countryCode": "IL",
+    "country": "Israel",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2a07:5680:7::/48" ]
+  }
+}

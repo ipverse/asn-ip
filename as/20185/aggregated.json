@@ -1,0 +1,16 @@
+{
+  "asn": 20185,
+  "metadata": {
+    "handle": "GEUS-CABLE-INTERNET",
+    "description": "GEUS",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "192.92.112.0/24" ],
+    "ipv6": [ ]
+  }
+}

@@ -1,7 +1,7 @@
 {
   "asn": 215569,
   "metadata": {
-    "handle": "DELETED",
+    "handle": "COLODATA",
     "description": "Florian Bach",
     "countryCode": "DE",
     "country": "Germany",
@@ -10,7 +10,7 @@
     "networkRole": "stub"
   },
   "prefixes": {
-    "ipv4": [ "77.90.24.0/24" ],
-    "ipv6": [ "2a07:2486:4010::/44" ]
+    "ipv4": [ ],
+    "ipv6": [ ]
   }
 }

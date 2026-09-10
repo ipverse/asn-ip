@@ -1,0 +1,16 @@
+{
+  "asn": 6475,
+  "metadata": {
+    "handle": "KESMAI",
+    "description": "Kesmai Corporation",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "143.20.218.0/24", "152.237.229.0/24", "168.222.76.0/24" ],
+    "ipv6": [ ]
+  }
+}

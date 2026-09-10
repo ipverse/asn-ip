@@ -1,14 +1,16 @@
 {
   "asn": 44035,
   "metadata": {
-    "handle": "RU-AXIOMA",
+    "handle": "RU-AXIOMA-AS",
     "description": "Nemerov Evgeniy Vladimirovish PE",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+    "countryCode": "RU",
+    "country": "Russia",
+    "origin": "authoritative",
+    "category": null,
+    "networkRole": "stub"
   },
   "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [ "178.169.32.0/19" ],
+    "ipv6": [ ]
   }
 }

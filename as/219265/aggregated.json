@@ -1,0 +1,16 @@
+{
+  "asn": 219265,
+  "metadata": {
+    "handle": "FROP-AS",
+    "description": "Tjerk Jan Vonk",
+    "countryCode": "NL",
+    "country": "Netherlands",
+    "origin": "authoritative",
+    "category": null,
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "150.251.61.0/24" ],
+    "ipv6": [ "2001:67c:2240::/48" ]
+  }
+}

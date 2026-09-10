@@ -1,0 +1,16 @@
+{
+  "asn": 199457,
+  "metadata": {
+    "handle": "SOLIDCORE",
+    "description": "SolidCore Hosting LTD",
+    "countryCode": "VG",
+    "country": "British Virgin Islands",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "45.115.26.0/24", "103.47.145.0/24" ],
+    "ipv6": [ ]
+  }
+}

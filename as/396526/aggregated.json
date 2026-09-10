@@ -1,0 +1,16 @@
+{
+  "asn": 396526,
+  "metadata": {
+    "handle": "AS396526",
+    "description": "UNVIO LLC",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "217.217.196.0/24", "217.217.206.0/24" ],
+    "ipv6": [ ]
+  }
+}

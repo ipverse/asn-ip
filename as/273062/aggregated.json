@@ -1,0 +1,16 @@
+{
+  "asn": 273062,
+  "metadata": {
+    "handle": "EMPRESA-SERVICIOS-PUBLICOS",
+    "description": "EMPRESA DE SERVICIOS PUBLICOS DE SABANETA E.S.P.",
+    "countryCode": "CO",
+    "country": "Colombia",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2803:1790::/32" ]
+  }
+}

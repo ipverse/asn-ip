@@ -6,11 +6,11 @@
     "countryCode": "BR",
     "country": "Brazil",
     "origin": "authoritative",
-    "category": "hosting",
+    "category": "isp",
     "networkRole": "access_provider"
   },
   "prefixes": {
-    "ipv4": [ ],
+    "ipv4": [ "201.71.28.0/22" ],
     "ipv6": [ "2804:69c8::/48", "2804:8a88::/32" ]
   }
 }
