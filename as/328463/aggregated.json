@@ -1,0 +1,16 @@
+{
+  "asn": 328463,
+  "metadata": {
+    "handle": "MINISTERE-DES-POSTES-TOGO-AS",
+    "description": "MINISTERE DES POSTES ET DE L'ECONOMIE NUMERIQUE",
+    "countryCode": "TG",
+    "country": "Togo",
+    "origin": "authoritative",
+    "category": "government_admin",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "160.242.206.0/23" ],
+    "ipv6": [ ]
+  }
+}

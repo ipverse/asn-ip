@@ -1,0 +1,16 @@
+{
+  "asn": 402968,
+  "metadata": {
+    "handle": "SNP-CLOUD-ASN-01",
+    "description": "Spear & Peacock Inc.",
+    "countryCode": "CA",
+    "country": "Canada",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2602:f2ff:2::/47" ]
+  }
+}

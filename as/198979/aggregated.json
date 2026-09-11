@@ -1,0 +1,16 @@
+{
+  "asn": 198979,
+  "metadata": {
+    "handle": "RSN-EDGECORE",
+    "description": "Nicolae Razvan Stanescu",
+    "countryCode": "RO",
+    "country": "Romania",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2a06:1281:20::/44" ]
+  }
+}

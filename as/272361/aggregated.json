@@ -1,0 +1,16 @@
+{
+  "asn": 272361,
+  "metadata": {
+    "handle": "TELE-IMAGEN-POR-CABLE",
+    "description": "TELE IMAGEN POR CABLE",
+    "countryCode": "MX",
+    "country": "Mexico",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "38.58.169.0/24" ],
+    "ipv6": [ ]
+  }
+}

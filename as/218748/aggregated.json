@@ -1,0 +1,16 @@
+{
+  "asn": 218748,
+  "metadata": {
+    "handle": "OSCAR-BRADLEY",
+    "description": "Oscar Lewis Bradley",
+    "countryCode": "GB",
+    "country": "United Kingdom",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2a0f:6283:9000::/36", "2a14:ae00:113::/48" ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 201658,
+  "metadata": {
+    "handle": "CARGLASS-TURKEY",
+    "description": "OTO CAM TICARET A.S.",
+    "countryCode": "TR",
+    "country": "Türkiye",
+    "origin": "authoritative",
+    "category": null,
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "195.62.30.0/24" ],
+    "ipv6": [ ]
+  }
+}

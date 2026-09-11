@@ -1,0 +1,16 @@
+{
+  "asn": 138954,
+  "metadata": {
+    "handle": "ADCPL-AS-AP",
+    "description": "Axtro Networks",
+    "countryCode": "IN",
+    "country": "India",
+    "origin": "authoritative",
+    "category": null,
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "160.236.238.0/24" ],
+    "ipv6": [ ]
+  }
+}

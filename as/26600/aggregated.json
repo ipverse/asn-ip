@@ -1,14 +1,16 @@
 {
   "asn": 26600,
   "metadata": {
-    "handle": "MI-WEBWORKS-SA",
-    "description": "Monroe-Woodbury Central School District",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+    "handle": "MI-WEBWORKS",
+    "description": "M.I. WEBWORKS S.A.",
+    "countryCode": "EC",
+    "country": "Ecuador",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
   },
   "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [ "200.6.20.0/24" ],
+    "ipv6": [ ]
   }
 }

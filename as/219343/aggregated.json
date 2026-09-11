@@ -1,0 +1,16 @@
+{
+  "asn": 219343,
+  "metadata": {
+    "handle": "TTCSERVICE",
+    "description": "TTC SERVICE LLC",
+    "countryCode": "AZ",
+    "country": "Azerbaijan",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "45.202.108.0/24" ],
+    "ipv6": [ ]
+  }
+}

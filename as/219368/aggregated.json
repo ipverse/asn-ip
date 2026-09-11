@@ -6,11 +6,11 @@
     "countryCode": "SK",
     "country": "Slovakia",
     "origin": "authoritative",
-    "category": null,
+    "category": "hosting",
     "networkRole": "stub"
   },
   "prefixes": {
     "ipv4": [ ],
-    "ipv6": [ ]
+    "ipv6": [ "2a06:9801:7c8::/48" ]
   }
 }

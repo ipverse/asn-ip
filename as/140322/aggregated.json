@@ -1,0 +1,16 @@
+{
+  "asn": 140322,
+  "metadata": {
+    "handle": "GREENESOLUTIONS-AS-AP",
+    "description": "Green E Solutions",
+    "countryCode": "BT",
+    "country": "Bhutan",
+    "origin": "authoritative",
+    "category": null,
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "160.236.194.0/24" ],
+    "ipv6": [ ]
+  }
+}
